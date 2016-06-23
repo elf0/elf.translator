@@ -1,6 +1,7 @@
 a:一个
 abacus:算盘
 ability:能力
+able:有能力的
 abortion:中止
 about:关于
 above:上面的
@@ -18,6 +19,7 @@ action:行动
 actor:演员
 adapter:适配器
 add:加
+addition:附加
 address:地址
 adjective:形容词
 administrator:管理员
@@ -31,6 +33,7 @@ agency:办事处
 agricultural:农业的
 agriculture:农学
 agriculture:农业
+agrology:土壤学
 air:空气
 air raid:空袭
 air raids:空袭
@@ -41,6 +44,8 @@ airport:飞机场
 alabama:亚拉巴马州
 alaska:阿拉斯加州
 albania:阿尔巴尼亚
+albanian:阿尔巴尼亚语
+albert:阿尔伯特
 album:集册
 alchemy:炼金术
 alcohol:酒精
@@ -57,7 +62,9 @@ along:沿着
 alphabet:字母
 already:已经
 also:也
+altaic:阿尔泰语的
 although:尽管
+always:总是
 amazon:亚马逊河
 america:美国
 america:美洲
@@ -95,6 +102,7 @@ apple:苹果
 application:应用程序
 april:四月
 arabic:阿拉伯的
+arch:拱形
 archaeopteryx:始祖鸟
 archive:档案
 are:是
@@ -111,6 +119,7 @@ articles:文章
 artist:艺术家
 as:当作
 asia:亚洲
+asian:亚洲人
 asphalt:柏油
 assist:协助
 association:关联
@@ -199,6 +208,7 @@ bother:烦
 bottom:底
 box:盒子
 boy:男孩
+brave:勇敢的
 bread:面包
 breast:乳房
 bridge:桥
@@ -217,6 +227,7 @@ business:生意
 but:但
 butter:黄油
 butterfly:蝴蝶
+buy:买
 cake:蛋糕
 calculate:计算
 calculus:微积分
@@ -237,6 +248,7 @@ capacity:容量
 capital:首都
 caption:标题
 car:车
+carbon:碳
 card:卡
 care:关心
 career:事业
@@ -266,6 +278,7 @@ championship:冠军身份
 change:改变
 chapter:章
 character:字符
+characters:字符
 charge:控告
 charge:收费
 charles:查尔斯
@@ -297,6 +310,7 @@ class:类
 classical:经典的
 classified:被分类
 classify:分类
+clear:清除
 climate:气候
 clock:时钟
 close:关闭
@@ -326,6 +340,8 @@ common ancestor:共同的祖先
 communist:共产党员
 community:社区
 company:公司
+complete:完成
+compound sentence:并列复合句
 compounds:化合物
 computer:计算机
 computer:电脑
@@ -363,9 +379,13 @@ countries:国家
 country:国家
 county:县
 court:法院
+create:创造
+creator:创造者
 crime:罪行
 criminal:罪犯
+critical:临界的
 cross platform:跨平台
+cuba:古巴
 cube:立方体
 cubic:立方的
 cultural:文化的
@@ -406,6 +426,7 @@ detailed description:细节描述
 details:细节
 development:开发
 device:设备
+dick:鸡巴
 dictionary:词典
 die:死
 difference equation:差分方程
@@ -414,6 +435,7 @@ digger:挖掘者
 digital:数字的
 director:导演
 directory:目录
+discuss:讨论
 discussion:讨论
 disguise:伪装
 displacement:位移
@@ -518,6 +540,7 @@ eye:眼
 eyeball:眼球
 eyes:眼睛
 fact:事实
+fall:落下
 false:假的
 family:家庭
 famous:著名的
@@ -613,6 +636,7 @@ generally:通常地
 genetic:遗传的
 genetic code:遗传码
 geography:地理
+george:乔治
 german:德国人
 germany:德国
 gesture:手势
@@ -630,11 +654,14 @@ google:谷歌
 gooseberry:醋栗
 government:政府
 grammar:语法
+grand:盛大的
 grandparent:祖父母
+grant:授予
 granularity:粒度
 grape:葡萄
 grasp:理解
 grass:草
+grave:坟墓
 gray:灰色
 great:伟大的
 greece:希腊
@@ -642,6 +669,7 @@ greek:希腊语
 green:绿色
 greenland:格陵兰
 grid:网格
+ground:地面
 group:组
 growth:增长
 guide:指引
@@ -654,8 +682,10 @@ half:半
 hall:大厅
 hand:手
 hands:手
+happy:快乐的
 hardware:硬件
 has:有
+hat:帽子
 have:有
 he:他
 head:头
@@ -682,6 +712,7 @@ hole:洞
 hollywood:好莱坞
 home:家
 homosexuality:同性恋
+hope:希望
 horror:恐怖
 hospital:医院
 hot:热
@@ -706,12 +737,14 @@ identifier:标识符
 idiot:白痴
 if:如果
 image:图像
+immediate:立刻的
 immediately:立刻地
 immunology:免疫学
 important:重要的
 in:里面
 in this notation:在这个表示法中
 inaccurate:不准确的
+incident:事故
 include:包括
 including:包括
 increase:增加
@@ -746,6 +779,7 @@ intertwine:缠绕
 into:进入
 introduction:引言
 is:是
+islam:伊斯兰教
 islamic:伊斯兰的
 island:岛
 issue:问题
@@ -774,6 +808,7 @@ kilogram:千克
 kinematics:运动学
 king:国王
 kingdom:王国
+know:知道
 knowledge:知识
 known:已知的
 label:标签
@@ -793,7 +828,10 @@ last:最后的
 late:迟的
 latest:最近的
 latin:拉丁文
+lattice:栅格
+launch:发射
 law:法律
+lead:领导
 leader:领袖
 learn:学习
 learnability:易学性
@@ -824,6 +862,7 @@ linear:线性的
 linear function:线性函数
 link:连接
 list:列表
+listen:听
 literary:文学的
 literature:文学
 little:很少的
@@ -836,6 +875,7 @@ logarithmic:对数的
 logic:逻辑
 london:伦敦
 long:长的
+loop:环
 lose:丢失
 lost:失去的
 love:爱
@@ -885,6 +925,7 @@ microscopic:微观的
 microscopic size:微观大小
 middle:中间的
 midnight:午夜
+might:可能
 military:军队
 milk:牛奶
 million:百万
@@ -914,6 +955,7 @@ motivation:动力
 mouse:老鼠
 mouse:耗子
 mouth:嘴
+move:移动
 movement:移动
 movie:电影
 much:许多
@@ -938,6 +980,7 @@ navigation:导航
 navy:海军
 near:接近
 nearest:最近的
+nearly:几乎
 neck:脖子
 negative:负的
 net:网络
@@ -967,6 +1010,7 @@ not:不是
 not yet:还没有
 notation:表示法
 note:注意
+notice:注意
 noun:名词
 novel:小说
 november:十一月
@@ -976,6 +1020,7 @@ number:数字
 numerous:数目众多的
 nursing:护理学
 object:对象
+observer:观察者
 ocean:海洋
 october:十月
 odd:奇
@@ -1006,6 +1051,7 @@ original:原始的
 oscar:奥斯卡
 other:其他的
 our:我们的
+outside:外面
 over:结束
 own:拥有
 ownership:所有权
@@ -1027,6 +1073,7 @@ particle:粒子
 particular:特殊的
 party:聚会
 party:党
+past:过去的
 patent:专利
 path:路径
 pay:付款
@@ -1071,6 +1118,7 @@ plus:正号
 poetry:诗
 point:点
 police:警察
+policy:政策
 politic:策略的
 political:政治的
 politics:政治
@@ -1084,7 +1132,9 @@ portuguese:葡萄牙人
 position:位置
 possible:可能的
 post:投递
+potassium:钾
 potato:土豆
+pottery:陶器
 power:力量
 power:幂
 power function:幂函数
@@ -1123,6 +1173,7 @@ purple:紫色
 purpose:目的
 quantity:数量
 queen:王后
+quest:追求
 question:问题
 quiet:安静的
 quit:退出
@@ -1135,16 +1186,20 @@ range:范围
 rape:强奸
 rascal:淘气鬼
 rascal:捣蛋鬼
+rate:比率
 rather:宁可
 rational:合理的
 rational function:有理函数
+reaction:反馈
 read:读
 reader:读者
+ready:准备好的
 real:真的
 realistic:逼真的
 realistic:现实的
 reason:原因
 rebel:反叛者
+recent:最近的
 record:记录
 rectangle:矩形
 red:红色
@@ -1205,6 +1260,7 @@ salt:盐
 same:相同的
 sample:样本
 saturday:星期六
+save:保存
 scale:比例
 school:学校
 science:科学
@@ -1228,6 +1284,7 @@ sensor:传感器
 sent:气味
 sentinel:哨兵
 sents:气味
+separate:分离
 separatist:分裂者
 september:九月
 series:系列
@@ -1235,6 +1292,7 @@ serpent:蛇
 service:服务
 set:集合
 seven:七
+seventh:第七
 several:几个
 sex:性
 sexual:性
@@ -1246,6 +1304,7 @@ shear:修剪
 shears:大剪刀
 sheep:绵羊
 ship:船
+shop:购物
 short:短的
 should:应该
 show:显示
@@ -1283,6 +1342,7 @@ society:社会
 sock:袜子
 socks:袜子
 software:软件
+soil:地表
 sold:卖
 solution:解决方案
 some:一些
@@ -1292,6 +1352,7 @@ son:儿子
 song:歌
 sorry:抱歉
 sound:声音
+soup:汤
 sour milk:酸奶
 source:源
 south:南
@@ -1312,10 +1373,12 @@ spell:拼写
 sperm:精子
 spermatozoa:精子
 spermatozoon:精子
+sphere:球
 sport:运动
 spring:春季
 square root:平方根
 stage:阶段
+stamp:邮票
 standard:标准
 star:星星
 starve:饿死
@@ -1324,6 +1387,7 @@ state:州
 statement:陈述
 statistic:统计
 statistics:统计学
+status:地位
 stele:石碑
 still:静止的
 stimuli:刺激
@@ -1334,12 +1398,14 @@ story:故事
 straight:直的
 straight line:直线
 straightforward:直接的
+strip:剥离
 strong:强壮的
 structure:结构
 student:学生
 students:学生们
 study:学习
 style:风格
+subject:主题
 subtract:减
 success:成功
 such:如此
@@ -1352,6 +1418,7 @@ sup:小口喝
 superman:超人
 support:支持
 surface:表面
+survey:审视
 swallow:吞咽
 symbol:符号
 symmetric:对称的
@@ -1385,6 +1452,7 @@ temple:庙
 ten:十
 tennis:网球
 tension:紧张
+tenth:第十
 term:学期
 terminology:术语
 territory:领土
@@ -1398,6 +1466,7 @@ them:他们
 then:然后
 theory:理论
 there:那里
+therefore:因此
 these:这些
 they:他们
 third:第三
@@ -1409,6 +1478,8 @@ though:然而
 thought:想法
 three:三
 throughout:贯穿
+throw:抛
+thrust:刺
 thursday:星期四
 thus:因此
 ticket:票
@@ -1424,6 +1495,7 @@ together:一起
 tolerate:容忍
 tomato:西红柿
 tongue:舌
+too:也
 toolchain:工具链
 tooth:牙
 top:顶部
@@ -1437,6 +1509,7 @@ toy:玩具
 trade:贸易
 tradition:传统
 traditional:传统的
+trail:痕迹
 train:火车
 training:训练
 transform:变换
@@ -1497,6 +1570,7 @@ vice versa:反之亦然
 victory:胜利
 video:视频
 view:视图
+viewer:观察器
 viewport:视口
 village:村
 violate:违反
@@ -1519,8 +1593,10 @@ water:水
 wave:波
 way:路
 we:我们
+weapon:武器
 weather:天气
 web:网
+website:网站
 wednesday:星期三
 week:周
 weight:重量
@@ -1540,6 +1616,7 @@ white:白色
 who:谁
 whore:婊子
 whorehouse:妓院
+whose:谁的
 why:为何
 width:宽度
 wife:妻子
@@ -1552,6 +1629,7 @@ wine:酒
 wing:翅膀
 wings:翅膀
 winter:冬季
+wireless:无线的
 with:与
 without:没有
 wok:锅
