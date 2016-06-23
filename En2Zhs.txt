@@ -109,6 +109,7 @@ arch:拱形
 archaeopteryx:始祖鸟
 archive:档案
 are:是
+are you sure:你确定吗
 area:地区
 areola:乳晕
 aristotle:亚里士多德
@@ -488,6 +489,7 @@ different:不同的
 difficult:困难的
 digger:挖掘者
 digital:数字的
+dinosaur:恐龙
 director:导演
 directory:目录
 discuss:讨论
@@ -729,6 +731,7 @@ gold:金子
 golden:金的
 golf:高尔夫球
 good:好的
+good idea:好主意
 google:谷歌
 gooseberry:醋栗
 government:政府
@@ -771,13 +774,16 @@ has:有
 hat:帽子
 have:有
 he:他
+he did not make it:他没挺过来
 head:头
 health:健康
 heart:心
 heavy:重的
 height:高度
 helicopter:直升飞机
+hello:你好
 help:帮助
+help me:帮帮我
 hence:因此
 henry:亨利
 her:她的
@@ -820,6 +826,10 @@ hungry:饿
 hydra:多头蛇怪
 hydrogen:氢
 hymen:处女膜
+i asked:我问道
+i love you:我爱你
+i need to know:我需要知道
+i said:我说道
 ice:冰
 id:标识符
 idea:主意
@@ -1636,6 +1646,7 @@ test:测试
 text:文本
 than:比
 thank:感谢
+thank you:谢谢你
 that:那
 the:这
 theater:剧场
@@ -1803,19 +1814,51 @@ were:是
 west:西
 western:西方的
 what:什么
+what a fool you are:你真是个傻瓜
+what about me:我呢
+what about you:你呢
+what are we waiting for:我们在等什么
+what are you:你是什么
+what are you doing:你在做什么
+what are you doing here:你在这儿做什么
+what are you talking about:你在说些什么
+what can i say:我能说什么
+what do they want:他们想要什么
+what do you know:你知道些什么
+what do you mean:你是什么意思
+what do you think:你怎么想
+what do you want me to do:你想我怎么做
+what does it mean:那意味着什么
+what does that mean:那是什么意思
+what happened:发生了什么
+what if i refuse:如果我拒绝呢
+what is love:爱是什么
+what is that:那是什么
+what is the plan:计划是什么
+what is this place:这是什么地方
+what is wrong with you:你有什么毛病
+what is your name:你叫什么名字
+what next:下一步怎么办
+what now:现在怎么办
+what time is it now:现在几点
 wheat:小麦
 wheel:轮子
 when:何时
 where:哪儿
+where am i:我在哪儿
+where are you:你在哪里
+where are you:你们在哪里
 whether:是否
 which:哪一个
 while:当
 white:白色
 who:谁
+who are you:你是谁
 whore:婊子
 whorehouse:妓院
 whose:谁的
 why:为何
+why not:为什么不
 width:宽度
 wife:妻子
 wiki:维基
