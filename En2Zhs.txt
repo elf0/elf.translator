@@ -176,6 +176,7 @@ battle:战役
 beach:海滩
 bean:豆
 bear:熊
+beautiful:美丽的
 beauty:美人
 became:成为
 because:因为
@@ -195,6 +196,7 @@ biology:生物学
 bird:鸟
 birds:鸟
 birth:出生
+bitch:母狗
 black:黑色
 blacklist:黑名单
 blanket:毛毯
@@ -259,6 +261,7 @@ cambridge:剑桥
 camera:相机
 campaign:战役
 can:能
+can you believe it:你能相信吗
 canada:加拿大
 canadian:加拿大人
 cancel:取消
@@ -420,6 +423,7 @@ country:国家
 county:县
 course:课程
 court:法院
+crazy:疯狂
 create:创造
 creator:创造者
 crime:罪行
@@ -499,6 +503,8 @@ displacement:位移
 display:显示
 disturb:打扰
 divide:除
+do not do that:别那样做
+do you know why:你知道为什么吗
 document:文档
 dog:狗
 doll:玩偶
@@ -519,6 +525,7 @@ dream:梦
 drift:漂
 driver:司机
 drown:淹死
+drunk:醉的
 dust:灰尘
 dutch:荷兰人
 dutch:荷兰语
@@ -698,6 +705,7 @@ full:全部
 function:函数
 fungi:真菌
 fungus:真菌
+funny:搞笑
 further:进一步的
 fury:暴怒
 fury:勃然大怒
@@ -772,10 +780,12 @@ hardware:硬件
 harry:骚扰
 has:有
 hat:帽子
+hate:恨
 have:有
 he:他
 he did not make it:他没挺过来
 head:头
+headache:头痛
 health:健康
 heart:心
 heavy:重的
@@ -816,6 +826,7 @@ hour:时
 hours:小时
 house:房子
 how:如何
+how is that possible:那怎么可能
 however:然而
 html:超文本标记语言
 http:超文本传输协议
@@ -826,9 +837,19 @@ hungry:饿
 hydra:多头蛇怪
 hydrogen:氢
 hymen:处女膜
+i am crazy:我疯了
+i am exhausted:我已经筋疲力尽了
+i am lucky:我很幸运
+i am sorry:对不起
 i asked:我问道
+i do not know:我不知道
+i do not think so:我不这样认为
+i have a better idea:我有一个更好的主意
+i have to talk to you:我得和你谈谈
+i know:我知道
 i love you:我爱你
 i need to know:我需要知道
+i remember:我记得
 i said:我说道
 ice:冰
 id:标识符
@@ -889,6 +910,7 @@ islamic:伊斯兰的
 island:岛
 issue:问题
 it:它
+it is too late for me:那对我来说太迟了
 italy:意大利
 its:它的
 itself:它自己
@@ -915,6 +937,8 @@ kilogram:千克
 kinematics:运动学
 king:国王
 kingdom:王国
+kitchen:厨房
+knight:骑士
 know:知道
 knowledge:知识
 known:已知的
@@ -1021,12 +1045,14 @@ mark:标记
 market:市场
 mary:玛丽
 master:大师
+masturbate:手淫
 material:材料
 math:数学
 maximum:最大值
 may:五月
 may:可以
 me:我
+me too:我也是
 mean:意思是
 measure:测量
 measurement:测量
@@ -1120,6 +1146,7 @@ netherlands:荷兰
 network:网络
 never:决不
 new:新的
+new york:纽约
 news:新闻
 newspaper:报纸
 newton:牛顿
@@ -1161,6 +1188,7 @@ odd:奇
 odd function:奇函数
 odor:气味
 of:的
+of course:当然
 off:关闭
 offensive:令人不愉快的
 offer:出价
@@ -1414,6 +1442,7 @@ run:跑
 russia:俄国
 russian:俄国人
 rwanda:卢旺达
+sad:悲伤的
 salt:盐
 same:相同的
 sample:样本
@@ -1471,6 +1500,7 @@ sheep:绵羊
 ship:船
 shoot:射击
 shop:购物
+shopping for what:买什么
 short:短的
 should:应该
 show:显示
@@ -1523,6 +1553,7 @@ sometimes:有时
 son:儿子
 song:歌
 sorry:抱歉
+sorry:对不起
 soul:灵魂
 sound:声音
 soup:汤
@@ -1570,6 +1601,7 @@ still:静止的
 stimuli:刺激
 stock:存货
 stone:石头
+stop:停止
 storage device:存储设备
 story:故事
 straight:直的
@@ -1632,6 +1664,10 @@ teen:少年
 teeth:牙
 telephone:电话
 television:电视
+tell:告诉
+tell me:告诉我
+tell me about your family:跟我讲讲你的家庭
+tell me everything:告诉我一切
 temperature:温度
 template:模板
 temple:庙
@@ -1648,6 +1684,7 @@ than:比
 thank:感谢
 thank you:谢谢你
 that:那
+that is mine:那是我的
 the:这
 theater:剧场
 their:他们的
@@ -1691,6 +1728,7 @@ tomorrow:明天
 tone:声调
 tongue:舌
 too:也
+too heavy:太重
 toolchain:工具链
 tooth:牙
 top:顶部
@@ -1767,6 +1805,7 @@ verbal:口头的
 version:版本
 vertical:垂直的
 very:非常
+very good:很好
 vice:恶行
 vice versa:反之亦然
 victory:胜利
@@ -1799,6 +1838,7 @@ water:水
 wave:波
 way:路
 we:我们
+we won the war:我们赢得了战争
 weak:弱的
 weapon:武器
 wear:穿戴
@@ -1822,19 +1862,30 @@ what are you:你是什么
 what are you doing:你在做什么
 what are you doing here:你在这儿做什么
 what are you talking about:你在说些什么
+what are you waiting for:你在等什么
 what can i say:我能说什么
+what did you dream:你梦见什么了
+what do i owe you:我欠你什么
 what do they want:他们想要什么
 what do you know:你知道些什么
 what do you mean:你是什么意思
 what do you think:你怎么想
+what do you want:你想要什么
 what do you want me to do:你想我怎么做
+what do you want to do:你想做什么
+what do you want to eat:你想吃什么
 what does it mean:那意味着什么
 what does that mean:那是什么意思
 what happened:发生了什么
+what happened there:那儿发生了什么事
+what happened to him:他发生了什么事
+what happened to you:你发生了什么事
 what if i refuse:如果我拒绝呢
 what is love:爱是什么
 what is that:那是什么
+what is that mean:那是什么意思
 what is the plan:计划是什么
+what is this:这是什么
 what is this place:这是什么地方
 what is wrong with you:你有什么毛病
 what is your name:你叫什么名字
@@ -1848,16 +1899,19 @@ where:哪儿
 where am i:我在哪儿
 where are you:你在哪里
 where are you:你们在哪里
+where is it:它在哪儿
 whether:是否
 which:哪一个
 while:当
 white:白色
 who:谁
 who are you:你是谁
+who won:谁赢了
 whore:婊子
 whorehouse:妓院
 whose:谁的
 why:为何
+why did you stop him:你为什么阻止他
 why not:为什么不
 width:宽度
 wife:妻子
@@ -1896,6 +1950,7 @@ yes:是
 yoga:瑜伽
 you:你
 you:你们
+you are beautiful:你真漂亮
 young:年轻的
 your:你的
 zebra:斑马
