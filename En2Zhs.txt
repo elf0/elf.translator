@@ -25,9 +25,11 @@ adjective:形容词
 administrator:管理员
 adventure:冒险
 afghanistan:阿富汗
+afraid:担忧
 africa:非洲
 african:非洲人
 after:后
+afternoon:下午
 age:年龄
 agency:办事处
 agent:代理人
@@ -226,6 +228,7 @@ boy:男孩
 branch:分支
 brave:勇敢的
 bread:面包
+breakfast:早餐
 breast:乳房
 breath:呼吸
 bridge:桥
@@ -299,6 +302,8 @@ century:世纪
 certain:确定的
 chain:链条
 chair:椅子
+chameleon:变色蜥蜴
+chameleon:变色龙
 champion:冠军
 championship:冠军身份
 chance:机会
@@ -446,6 +451,7 @@ custom:自定义的
 daily:日常的
 daisy:雏菊
 dance:跳舞
+danger:危险
 dark:黑暗的
 dart:飞镖
 darwin:达尔文
@@ -493,6 +499,7 @@ different:不同的
 difficult:困难的
 digger:挖掘者
 digital:数字的
+dinner:晚餐
 dinosaur:恐龙
 director:导演
 directory:目录
@@ -533,6 +540,7 @@ dwarf:侏儒
 dynamics:动力学
 each:每个
 ear:耳
+earliest:最早的
 early:早期的
 ears:耳
 earth:地球
@@ -595,6 +603,7 @@ europe:欧洲
 european:欧洲人
 even:偶
 even function:偶函数
+evening:傍晚
 event:事件
 every:每一个
 evidence:证据
@@ -664,6 +673,8 @@ fly:苍蝇
 fly:飞
 fog:雾
 follow:跟随
+follow me:跟我来
+follower:追随者
 font:字体
 food:食物
 fool:笨蛋
@@ -688,10 +699,12 @@ fourth:第四
 fox:狐狸
 fragrant:香的
 france:法国
+freak:畸形
 free:免费的
 freedom:自由
 french:法国人
 frequency:频率
+fresh:新鲜的
 friday:星期五
 friend:朋友
 friends:朋友
@@ -740,6 +753,7 @@ golden:金的
 golf:高尔夫球
 good:好的
 good idea:好主意
+good luck:祝你好运
 google:谷歌
 gooseberry:醋栗
 government:政府
@@ -865,6 +879,8 @@ immunology:免疫学
 important:重要的
 improve:改进
 in:里面
+in fact:事实上
+in the western world:在西方世界
 in this notation:在这个表示法中
 inaccurate:不准确的
 incident:事故
@@ -912,6 +928,7 @@ issue:问题
 it:它
 it is too late for me:那对我来说太迟了
 italy:意大利
+item:项
 its:它的
 itself:它自己
 ivy:常春藤
@@ -920,6 +937,7 @@ january:一月
 japan:日本
 japanese:日本人
 jargon:术语
+jaw:颌
 jerk:痉挛
 jet:喷射
 john:约翰
@@ -1021,12 +1039,14 @@ lost:失去的
 love:爱
 lover:爱人
 low:低的
+lunch:午餐
 machine:机器
 macro:宏
 madonna:圣母玛利亚
 madrid:马德里
 magazine:杂志
 magic:魔法
+mahatma:圣人
 mail:邮件
 main:主要的
 maintain:维护
@@ -1048,11 +1068,14 @@ master:大师
 masturbate:手淫
 material:材料
 math:数学
+mathematician:数学家
+mathematics:数学
 maximum:最大值
 may:五月
 may:可以
 me:我
 me too:我也是
+meal:餐
 mean:意思是
 measure:测量
 measurement:测量
@@ -1067,6 +1090,7 @@ memory:记忆
 men:男人们
 mental:心理的
 mercury:汞
+mercy:仁慈
 mermaid:美人鱼
 message:消息
 metal:金属
@@ -1077,7 +1101,11 @@ michael:迈克尔
 microorganism:微生物
 microscopic:微观的
 microscopic size:微观大小
+midday:中午
 middle:中间的
+middle age:中年
+middle ages:中世纪
+middle english:中世纪英语
 midnight:午夜
 might:可能
 military:军队
@@ -1103,6 +1131,7 @@ money:钱
 mood:心情
 moon:月亮
 more:更多
+morning:早晨
 morpheme:词素
 most:大多数
 mother:母亲
@@ -1161,6 +1190,7 @@ noise:噪音
 nonnegative:非负的
 noodle:面条
 noodles:面条
+noon:中午
 north:北
 northeast:东北
 northern:北方的
@@ -1198,6 +1228,7 @@ often:常常
 oil:油
 oil painting:油画
 old:老的
+old age:老年
 on:上面
 on earth:地球上
 one:一
@@ -1214,6 +1245,7 @@ organism:生物
 organization:组织
 original:原始的
 oscar:奥斯卡
+oscillation:振荡
 other:其他的
 our:我们的
 output:输出
@@ -1254,6 +1286,7 @@ per:每
 percent:百分比
 perfume:香水
 period:周期
+period:时期
 periodic:周期的
 persian:波斯人
 person:个人
@@ -1348,8 +1381,12 @@ pubic hair:阴毛
 public:公共的
 publication:出版
 publisher:出版商
+pup:幼崽
+puppy:小狗
 purple:紫色
 purpose:目的
+pythagoras:毕达哥拉斯
+pythagorean:毕达哥拉斯的
 quantity:数量
 queen:王后
 quest:追求
@@ -1504,6 +1541,7 @@ shopping for what:买什么
 short:短的
 should:应该
 show:显示
+sick:不舒服的
 side:边
 signal:信号
 signed:有符号的
@@ -1535,6 +1573,7 @@ slut:荡妇
 small:小的
 smoke:烟
 smooth:光滑的
+snack:零食
 snail:蜗牛
 snake:蛇
 so:如此
@@ -1547,6 +1586,7 @@ software:软件
 soil:地表
 sold:卖
 solution:解决方案
+solve:解决
 some:一些
 someone:某人
 sometimes:有时
@@ -1706,6 +1746,7 @@ though:然而
 thought:想法
 thousand:千
 three:三
+throat:咽喉
 throughout:贯穿
 throw:抛
 thrust:刺
@@ -1762,6 +1803,7 @@ turkey:土耳其
 turkish:土耳其语
 tutorial:教程
 tutorials:教程
+tv:电视
 twice:两次
 twist:扭曲
 two:二
@@ -1930,6 +1972,7 @@ wish:希望
 with:与
 without:没有
 wok:锅
+wolf:狼
 woman:女人
 women:女人们
 word:单词
