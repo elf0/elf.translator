@@ -54,6 +54,7 @@ albert:阿尔伯特
 album:集册
 alchemy:炼金术
 alcohol:酒精
+algae:藻
 algebraic:代数的
 algebraic function:代数函数
 algeria:阿尔及利亚
@@ -92,6 +93,7 @@ and:与
 android:机器人
 angola:安哥拉
 animal:动物
+animals:动物
 animation:动画
 ankara:安卡拉
 another:另一个
@@ -112,6 +114,7 @@ april:四月
 arabic:阿拉伯的
 arbitrary:任意的
 arch:拱形
+archaea:古菌
 archaeopteryx:始祖鸟
 archive:档案
 are:是
@@ -146,6 +149,7 @@ astronomy:天文学
 at:在
 atlantic:大西洋
 atlas:地图册
+atmospheric:大气的
 atom:原子
 atomic:原子的
 attack:攻击
@@ -172,6 +176,7 @@ back:背
 backbone:脊柱
 background:背景
 backup:备份
+bacteria:细菌
 bacterium:细菌
 baghdad:巴格达
 balance:平衡
@@ -206,11 +211,16 @@ believe:相信
 bell:钟
 bending:弯曲
 benefit:利益
+berlin:柏林
 best:最好
 better:更好
 big:大
 billion:十亿
+biochemistry:生物化学
 biography:传记
+biological:生物学的
+biological systems:生物学系统
+biologist:生物学家
 biology:生物学
 bird:鸟
 birds:鸟
@@ -232,6 +242,7 @@ bone:骨
 boobs:乳房
 book:书
 books:书
+booze:豪饮
 border:边
 born:生于
 boss:老板
@@ -248,6 +259,7 @@ bread:面包
 breakfast:早餐
 breast:乳房
 breath:呼吸
+breed:繁殖
 bridge:桥
 briefly:简短地
 bright:明亮的
@@ -300,6 +312,7 @@ carbon:碳
 card:卡
 care:关心
 career:事业
+carl:卡尔
 carriage return:回车
 cartesian:笛卡尔的
 case:案件
@@ -314,6 +327,7 @@ cease funding:停止提供资金
 ceasefire:停火
 celebration:庆祝
 cell:细胞
+cell nucleus:细胞核
 cellular:细胞的
 cellular structure:细胞结构
 census:普查
@@ -336,6 +350,8 @@ change:改变
 channel:通道
 chapter:章
 character:字符
+characteristic:特有的
+characteristics:特性
 characters:字符
 charge:控告
 charge:收费
@@ -347,6 +363,9 @@ chastity:贞操
 cheap:廉价的
 cheerleader:啦啦队长
 chemical:化学的
+chemical bond:化学键
+chemical compound:化合物
+chemical element:化学元素
 chemistry:化学
 chess:国际象棋
 chicago:芝加哥
@@ -357,10 +376,12 @@ children:孩子们
 china:中国
 china:瓷器
 chinese:中文
+chloride:氯化物
 chocolate:巧克力
 choice:选择
 choose:选择
 christianity:基督教
+chromosome:染色体
 church:教堂
 cigarette:香烟
 citation:引文
@@ -372,6 +393,7 @@ civilian:平民
 claim:主张
 class:类
 classical:经典的
+classification:分类
 classified:被分类
 classify:分类
 clay:粘土
@@ -394,6 +416,7 @@ cold:冷
 collection:搜集物
 college:学院
 color:颜色
+colorless:无色的
 columbia:哥伦比亚
 column:列
 come:来
@@ -410,6 +433,7 @@ community:社区
 company:公司
 compare:比较
 complete:完成
+compound:化合物
 compound sentence:并列复合句
 compounds:化合物
 computer:计算机
@@ -455,6 +479,7 @@ copy:复制
 corn:玉米
 corn:包谷
 cost:花费
+couch:长沙发
 could:能
 council:委员会
 countries:国家
@@ -462,6 +487,8 @@ country:国家
 county:县
 course:课程
 court:法院
+covalent bonding:共价键
+covalent crystal:共价晶体
 crazy:疯狂
 create:创造
 creator:创造者
@@ -536,6 +563,8 @@ detonate:引爆
 develop:开发
 development:开发
 device:设备
+diamond:钻石
+diatomic:二价的
 dick:鸡巴
 dictionary:词典
 die:死
@@ -554,6 +583,7 @@ discussion:讨论
 disguise:伪装
 displacement:位移
 display:显示
+distinction:区别
 disturb:打扰
 divide:除
 do not do that:别那样做
@@ -621,6 +651,8 @@ election:选举
 elective:选举的
 electric:电
 electric current:电流
+electromagnetism:电磁学
+electron:电子
 elegance:优雅
 element:元素
 elements:元素
@@ -633,6 +665,7 @@ employer:雇主
 en:英语
 encode:编码
 encourage:鼓励
+encyclopedia:百科全书
 end:结束
 energy:能量
 engagement:婚约
@@ -650,7 +683,12 @@ equivalently:相等地
 escape:逃脱
 especially:特别地
 establish:建立
+ethanol:乙醇
 etymology:词源
+eukaryotic:真核的
+eukaryotic cell:真核细胞
+eukaryotic cells:真核细胞
+eukaryotic organisms:真核生物
 europe:欧洲
 european:欧洲人
 even:偶
@@ -750,6 +788,7 @@ formula:公式
 fort:要塞
 forum:论坛
 forums:论坛
+fossil:化石
 found:找到
 foundation:基金
 four:四
@@ -759,6 +798,7 @@ fragrant:香的
 france:法国
 freak:畸形
 free:免费的
+free:自由的
 freedom:自由
 french:法国人
 frequency:频率
@@ -793,6 +833,7 @@ general:一般的
 generally:通常地
 genetic:遗传的
 genetic code:遗传码
+genetics:遗传学
 geography:地理
 geological:地质的
 geological formation:地质构造
@@ -875,6 +916,7 @@ henry:亨利
 her:她的
 here:这里
 hermaphrodite:雌雄同体
+hierarchical:层级的
 high:高
 high latitude:高纬度
 higher:更高的
@@ -910,9 +952,11 @@ http:超文本传输协议
 human:人类
 human:人
 human rights:人权
+humans:人类
 hungry:饿
 hydra:多头蛇怪
 hydrogen:氢
+hydrogen bonds:氢键
 hymen:处女膜
 i am crazy:我疯了
 i am exhausted:我已经筋疲力尽了
@@ -951,6 +995,8 @@ in order to:为了
 in the western world:在西方世界
 in this notation:在这个表示法中
 inaccurate:不准确的
+inbreeding:近亲繁殖
+inbreeding depression:近交衰退
 incident:事故
 include:包括
 including:包括
@@ -959,6 +1005,7 @@ indefinitely:无限地
 indent:缩进
 independence:独立
 independent:独立的
+independently:独立地
 index:索引
 india:印度
 indian:印度人
@@ -973,6 +1020,8 @@ information:信息
 inhibit:抑制
 initialise:初始化
 initialize:初始化
+inorganic:无机的
+inorganic compound:无机化合物
 input:输入
 insect:昆虫
 insecten:昆虫
@@ -993,6 +1042,10 @@ intertwine:缠绕
 into:进入
 introduction:引言
 invent:发明
+ion:离子
+ionic bonds:离子键
+ionic crystals:离子晶体
+ions:离子
 iran:伊朗
 iraq:伊拉克
 iraqi:伊拉克的
@@ -1015,6 +1068,7 @@ japan:日本
 japanese:日本人
 jargon:术语
 jaw:颌
+jellyfish:水母
 jerk:痉挛
 jet:喷射
 john:约翰
@@ -1099,6 +1153,8 @@ line feed:换行
 linear:线性的
 linear function:线性函数
 link:连接
+linnaeus:林奈
+liquid:液体
 list:列表
 listen:听
 literary:文学的
@@ -1110,6 +1166,7 @@ local:本地的
 locate:定位
 location:位置
 lock:锁
+locomotion:移动
 log:日志
 logarithm:对数
 logarithmic:对数的
@@ -1137,6 +1194,8 @@ major:主要
 major problem:主要问题
 make:制造
 male:男性
+mammal:哺乳动物
+mammals:哺乳动物
 man:男人
 manage:管理
 management:管理
@@ -1148,6 +1207,7 @@ many:许多
 many years:许多年
 map:地图
 march:三月
+marine:海的
 mark:标记
 marker:标记
 market:市场
@@ -1191,6 +1251,7 @@ method:方法
 mexico:墨西哥
 michael:迈克尔
 microorganism:微生物
+microscope:显微镜
 microscopic:微观的
 microscopic size:微观大小
 midday:中午
@@ -1219,6 +1280,13 @@ model:模型
 model:模特
 modern:现代的
 module:模块
+molecular:分子的
+molecular chemistry:分子化学
+molecular formula:分子式
+molecular geometry:分子几何
+molecular physics:分子物理学
+molecular science:分子科学
+molecule:分子
 moment:瞬间
 monday:星期一
 money:钱
@@ -1229,6 +1297,7 @@ morning:早晨
 morpheme:词素
 most:大多数
 mother:母亲
+motile:能动的
 motion:运动
 motivation:动力
 mountain:山
@@ -1249,6 +1318,7 @@ must:必须
 my:我的
 mystical:神秘的
 mythology:神话
+naked eye:裸眼
 name:姓名
 nasa:国家航空航天局
 nation:国家
@@ -1301,6 +1371,7 @@ novel:小说
 november:十一月
 now:现在
 nuclear:原子核的
+nuclei:原子核
 number:数字
 numerous:数目众多的
 nursing:护理学
@@ -1312,6 +1383,7 @@ october:十月
 odd:奇
 odd function:奇函数
 odor:气味
+odorless:无气味的
 of:的
 of course:当然
 off:关闭
@@ -1339,7 +1411,10 @@ or:或
 orange:橙子
 order:命令
 order:订单
+organic:有机的
+organic chemistry:有机化学
 organism:生物
+organisms:生物
 organization:组织
 original:原始的
 oscar:奥斯卡
@@ -1420,6 +1495,8 @@ plain:平坦的
 plan:计划
 planet:行星
 plant:植物
+plants:植物
+platypus:鸭嘴兽
 play:玩
 player:玩家
 please:请
@@ -1434,6 +1511,7 @@ policy:政策
 politic:策略的
 political:政治的
 politics:政治
+pollen:花粉
 polynomial:多项式
 polynomials:多项式
 poor:贫穷的
@@ -1505,6 +1583,8 @@ purpose:目的
 pythagoras:毕达哥拉斯
 pythagorean:毕达哥拉斯的
 quantity:数量
+quantum physics:量子物理学
+quartz:石英
 queen:王后
 quest:追求
 question:问题
@@ -1538,6 +1618,7 @@ realistic:现实的
 reason:原因
 rebel:反叛者
 recent:最近的
+recognize:识别
 record:记录
 rectangle:矩形
 recursive:递归的
@@ -1598,6 +1679,7 @@ rocket:火箭
 role:角色
 roman:罗马人
 room:房间
+room temperature:室温
 root:根
 rotate:旋转
 row:行
@@ -1657,6 +1739,7 @@ several:几个
 sex:性
 sexual:性
 sexual orientation:性取向
+sexual reproduction:有性繁殖
 shallow:浅的
 shallow water:浅水
 share:分享
@@ -1716,9 +1799,12 @@ socialist:社会主义者
 society:社会
 sock:袜子
 socks:袜子
+sodium:钠
+sodium chloride:氯化钠
 software:软件
 soil:地表
 sold:卖
+solid metal:固态金属
 solution:解决方案
 solve:解决
 some:一些
@@ -1755,6 +1841,8 @@ sperm:精子
 spermatozoa:精子
 spermatozoon:精子
 sphere:球
+spontaneous:自发的
+spontaneously:自发地
 sport:运动
 spring:春季
 square root:平方根
@@ -1833,6 +1921,7 @@ tap:龙头
 tap water:自来水
 target:目标
 taste:尝
+tasteless:无味的
 tasty:可口的
 taxonomy:分类学
 tea:茶
@@ -1967,6 +2056,7 @@ underground:地下
 unicellular:单细胞的
 unicellular organism:单细胞生物
 union:联盟
+unique:唯一的
 unit:单位
 unite:联合
 united:联合的
@@ -1997,6 +2087,8 @@ vehicle:交通工具
 verb:动词
 verbal:口头的
 version:版本
+vertebrate:脊椎动物
+vertebrates:脊椎动物
 vertical:垂直的
 very:非常
 very good:很好
