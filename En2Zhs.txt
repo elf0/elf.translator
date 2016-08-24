@@ -484,8 +484,8 @@ conclusion:结论
 concord:和睦
 confederate:同盟者
 conference:会议
-congo brazzaville:刚果 布
-congo brazzaville:刚果 金
+congo brazzaville:刚果布
+congo kinshasa:刚果金
 congress:代表大会
 conquest:战利品
 consider:考虑
@@ -1283,8 +1283,10 @@ low:低的
 luhansk:卢甘斯克
 lunch:午餐
 luxembourg:卢森堡
+macedonia:马其顿
 machine:机器
 macro:宏
+madagascar:马达加斯加
 madonna:圣母玛利亚
 madrid:马德里
 magazine:杂志
@@ -1296,7 +1298,12 @@ maintain:维护
 major:主要
 major problem:主要问题
 make:制造
+malawi:马拉维
+malaysia:马来西亚
+maldives:马尔代夫
 male:男性
+mali:马里
+malta:马耳他
 mammal:哺乳动物
 mammals:哺乳动物
 man:男人
@@ -1314,6 +1321,7 @@ marine:海的
 mark:标记
 marker:标记
 market:市场
+marshall islands:马绍尔群岛
 mary:玛丽
 mass:大量
 master:大师
@@ -1322,6 +1330,8 @@ material:材料
 math:数学
 mathematician:数学家
 mathematics:数学
+mauritania:毛里塔尼亚
+mauritius:毛里求斯
 maximum:最大值
 may:五月
 may:可以
@@ -1354,6 +1364,7 @@ meter:米
 method:方法
 mexico:墨西哥
 michael:迈克尔
+micronesia:密克罗尼西亚
 microorganism:微生物
 microscope:显微镜
 microscopic:微观的
@@ -1384,6 +1395,7 @@ model:模型
 model:模特
 modern:现代的
 module:模块
+moldova:摩尔多瓦
 molecular:分子的
 molecular chemistry:分子化学
 molecular formula:分子式
@@ -1392,12 +1404,16 @@ molecular physics:分子物理学
 molecular science:分子科学
 molecule:分子
 moment:瞬间
+monaco:摩纳哥
 monday:星期一
 money:钱
+mongolia:蒙古
+montenegro:黑山
 mood:心情
 moon:月亮
 more:更多
 morning:早晨
+morocco:摩洛哥
 morpheme:词素
 most:大多数
 mother:母亲
@@ -1411,6 +1427,7 @@ mouth:嘴
 move:移动
 movement:移动
 movie:电影
+mozambique:莫桑比克
 much:许多
 multicellular:多细胞的
 multicellular organism:多细胞生物
@@ -1423,8 +1440,10 @@ my:我的
 myanmar:缅甸
 mystical:神秘的
 mythology:神话
+nagorno karabakh:纳戈尔诺 卡拉巴赫
 naked eye:裸眼
 name:姓名
+namibia:纳米比亚
 nasa:国家航空航天局
 nation:国家
 national:国家的
@@ -1473,6 +1492,8 @@ north:北
 north korea:朝鲜
 northeast:东北
 northern:北方的
+northern cyprus:北塞浦路斯
+norway:挪威
 nose:鼻子
 nose:鼻
 not:不是
@@ -1551,9 +1572,14 @@ pacific:太平洋
 page:页
 pages:页
 painter:画家
+pakistan:巴基斯坦
 palau:帕劳
+palestine:巴勒斯坦
+panama:巴拿马
 paper:纸
+papua new guinea:巴布亚新几内亚
 paragraph:段
+paraguay:巴拉圭
 parameter:参数
 parent:父母
 parenthesis:圆括号
@@ -1588,9 +1614,11 @@ perpetrate:犯下
 persian:波斯人
 person:个人
 personal:私人的
+peru:秘鲁
 pest:害虫
 pet:宠物
 phase:阶段
+philippines:菲律宾
 philosophy:哲学
 phone:电话
 photo:照片
@@ -1624,6 +1652,7 @@ plus:加
 plus:正号
 poetry:诗
 point:点
+poland:波兰
 police:警察
 policy:政策
 politic:策略的
@@ -1637,6 +1666,7 @@ popular:流行的
 population:人口
 pornographic:色情的
 pornography:色情文学
+portugal:葡萄牙
 portuguese:葡萄牙人
 position:位置
 possible:可能的
@@ -1660,6 +1690,7 @@ president:总统
 press:按
 pressure:压力
 prevent:预防
+pridnestrovie:德涅斯特
 primary:基本的
 prime minister:总理
 prince:王子
@@ -1701,6 +1732,7 @@ purple:紫色
 purpose:目的
 pythagoras:毕达哥拉斯
 pythagorean:毕达哥拉斯的
+qatar:卡塔尔
 quantity:数量
 quantum physics:量子物理学
 quartz:石英
@@ -1798,6 +1830,7 @@ rock:岩石
 rocket:火箭
 role:角色
 roman:罗马人
+romania:罗马尼亚
 room:房间
 room temperature:室温
 root:根
@@ -1811,11 +1844,18 @@ russia:俄国
 russian:俄国人
 rwanda:卢旺达
 sad:悲伤的
+saint christopher and nevis:圣基茨和尼维斯
+saint lucia:圣卢西亚
+saint vincent and the grenadines:圣文森特和格林纳丁斯
 salt:盐
 same:相同的
+samoa:萨摩亚
 sample:样本
+san marino:圣马力诺
 sand:沙
+sao tome and principe:圣多美和普林西比
 saturday:星期六
+saudi arabia:沙特阿拉伯
 save:保存
 say:说
 scale:比例
@@ -1842,6 +1882,7 @@ self:自己
 semantic:语义的
 semantics:语义学
 semicircle:半圆
+senegal:塞内加尔
 sensor:传感器
 sent:气味
 sentinel:哨兵
@@ -1849,6 +1890,7 @@ sents:气味
 separate:分离
 separatist:分裂者
 september:九月
+serbia:塞尔维亚
 series:系列
 serpent:蛇
 service:服务
@@ -1860,6 +1902,7 @@ sex:性
 sexual:性
 sexual orientation:性取向
 sexual reproduction:有性繁殖
+seychelles:塞舌尔
 shallow:浅的
 shallow water:浅水
 share:分享
@@ -1879,6 +1922,7 @@ should:应该
 show:显示
 sick:不舒服的
 side:边
+sierra leone:塞拉利昂
 signal:信号
 signed:有符号的
 signed integer:有符号整数
@@ -1888,6 +1932,7 @@ similar:相似的
 simple:简单
 simplify:简化
 since:自从
+singapore:新加坡
 single:单个的
 singular:单数的
 sinusitis:鼻窦炎
@@ -1904,6 +1949,8 @@ slave:奴隶
 slavery:奴隶制
 sleep:睡
 slope:斜率
+slovakia:斯洛伐克
+slovenia:斯洛文尼亚
 slug:鼻涕虫
 slut:荡妇
 small:小的
@@ -1925,8 +1972,10 @@ software:软件
 soil:地表
 sold:卖
 solid metal:固态金属
+solomon islands:所罗门群岛
 solution:解决方案
 solve:解决
+somali:索马里
 somaliland:索马里兰
 some:一些
 someone:某人
@@ -1941,6 +1990,10 @@ soup:汤
 sour milk:酸奶
 source:源
 south:南
+south africa:南非
+south korea:韩国
+south ossetia:南奥塞梯
+south sudan:南苏丹
 southeast:东南
 southern:南方的
 sovereign state:主权独立国家
@@ -1948,6 +2001,7 @@ soviet:苏维埃
 space:空间
 space time:时空
 spacecraft:宇宙飞船
+spain:西班牙
 span:跨度
 spanish:西班牙人
 spanish:西班牙语
@@ -1969,6 +2023,7 @@ spontaneously:自发地
 sport:运动
 spring:春季
 square root:平方根
+sri lanka:斯里兰卡
 stack:栈
 stage:阶段
 stamp:邮票
@@ -2011,6 +2066,7 @@ suburb:市郊
 success:成功
 successfully:成功地
 such:如此
+sudan:苏丹
 suffer:遭受
 sufficient:充足的
 suffix:后缀
@@ -2025,8 +2081,12 @@ super:超级的
 superman:超人
 support:支持
 surface:表面
+suriname:苏里南
 survey:审视
 swallow:吞咽
+swaziland:斯威士兰
+sweden:瑞典
+switzerland:瑞士
 sword:剑
 symbol:符号
 symmetric:对称的
@@ -2034,12 +2094,15 @@ symmetric about:关于...对称
 symmetrically:对称地
 symmetry:对称
 syphilis:梅毒
+syria:叙利亚
 system:系统
 table:桌子
 tag:标签
 tail:尾部
+tajikistan:塔吉克斯坦
 take:取
 talk:谈话
+tanzania:坦桑尼亚
 tap:龙头
 tap water:自来水
 target:目标
@@ -2118,15 +2181,18 @@ time:时间
 times:次数
 times:乘
 timestamp:时间戳
+timor leste:东帝汶
 title:标题
 to:到
 today:今天
 together:一起
+togo:多哥
 tokyo:东京
 tolerate:容忍
 tomato:西红柿
 tomorrow:明天
 tone:声调
+tonga:汤加
 tongue:舌
 too:也
 too heavy:太重
@@ -2161,21 +2227,26 @@ trigonometric:三角法的
 trigonometric function:三角函数
 trigonometry:三角学
 trillion:万亿
+trinidad and tobago:特立尼达和多巴哥
 truck bomb:卡车炸弹
 true:真的
 truth:真相
 tuesday:星期二
+tunisia:突尼斯
 turing complete:图灵完备
 turkey:土耳其
 turkish:土耳其语
+turkmenistan:土库曼斯坦
 tutorial:教程
 tutorials:教程
+tuvalu:图瓦卢
 tv:电视
 twice:两次
 twist:扭曲
 two:二
 type:类型
 tyrant:暴君
+uganda:乌干达
 uk:联合王国
 uk:英国
 ukraine:乌克兰
@@ -2189,6 +2260,8 @@ unique:唯一的
 unit:单位
 unite:联合
 united:联合的
+united arab emirates:阿联酋
+united kingdom:英国
 united states:美国
 university:大学
 until:直到
@@ -2278,6 +2351,7 @@ welcome:欢迎
 were:是
 west:西
 western:西方的
+western sahara:西撒哈拉
 what:什么
 what a fool you are:你真是个傻瓜
 what about me:我呢
@@ -2380,9 +2454,11 @@ you:你们
 you are beautiful:你真漂亮
 young:年轻的
 your:你的
+zambia:赞比亚
 zebra:斑马
 zebras:斑马
 zenith:天顶
+zimbabwe:津巴布韦
 zinc:锌
 zoa:动物
 zombie:僵尸
