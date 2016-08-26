@@ -53,6 +53,7 @@ alaska:阿拉斯加州
 albania:阿尔巴尼亚
 albanian:阿尔巴尼亚语
 albert:阿尔伯特
+albizia:合欢属
 album:集册
 alchemy:炼金术
 alcohol:酒精
@@ -115,6 +116,7 @@ apoidea:蜂
 apollo:阿波罗
 apple:苹果
 application:应用程序
+application wide:应用程序范围
 april:四月
 arabic:阿拉伯的
 arbitrary:任意的
@@ -145,6 +147,7 @@ as:当作
 asia:亚洲
 asian:亚洲人
 ask:问
+aspen:杨树
 asphalt:柏油
 assist:协助
 association:关联
@@ -205,8 +208,10 @@ based:基于
 basic:基本的
 basketball:篮球
 bastard:私生子
+batik:蜡染
 battery:电池
 battle:战役
+bay:海湾
 beach:海滩
 bean:豆
 bear:熊
@@ -252,6 +257,7 @@ blue:蓝色
 boat:船
 body:身体
 body:尸体
+body of water:水体
 boil:沸腾
 boiling point:沸点
 bolivia:玻利维亚
@@ -320,6 +326,7 @@ calculus:微积分
 calendar:日历
 california:加利福尼亚
 call:打电话给
+call girl:应召女郎
 cambodia:柬埔寨
 cambridge:剑桥
 camera:相机
@@ -354,6 +361,7 @@ category:分类
 cause:引起
 cavity:腔
 cease:停止
+cease fire:停火
 cease funding:停止提供资金
 ceasefire:停火
 celebration:庆祝
@@ -698,6 +706,7 @@ egyptian:埃及人
 eight:八
 einstein:爱因斯坦
 either:任一
+ejaculate:射精
 ejaculation:射精
 el salvador:萨尔瓦多
 election:选举
@@ -794,6 +803,7 @@ feed:喂
 feet:脚
 female:女性
 ferret:蒙眼貂
+fetishism:拜物教
 few:很少的
 fiction:小说
 field:场
@@ -842,6 +852,7 @@ for:为
 for example:例如
 force:力量
 foreign:外国的
+foreign minister:外交部长
 forest:森林
 form:形式
 format:格式
@@ -1162,6 +1173,7 @@ join:连接
 jordan:约旦
 journal:日志
 journey:旅行
+judaic:犹太教的
 juice:汁
 july:七月
 june:六月
@@ -1322,6 +1334,7 @@ mark:标记
 marker:标记
 market:市场
 marshall islands:马绍尔群岛
+martial art:武术
 mary:玛丽
 mass:大量
 master:大师
@@ -1792,6 +1805,7 @@ render:渲染
 replace:替代
 report:报告
 reproduction:繁殖
+reproductive cell:生殖细胞
 republic:共和国
 research:研究
 reset:重置
@@ -1859,6 +1873,7 @@ saudi arabia:沙特阿拉伯
 save:保存
 say:说
 scale:比例
+schizophrenia:精神分裂症
 school:学校
 science:科学
 scientific:科学的
@@ -1868,6 +1883,7 @@ score:得分
 scotland:苏格兰
 script:脚本
 sea:海
+sea urchin:海胆
 search:搜索
 season:季节
 second:第二的
@@ -1905,6 +1921,8 @@ sexual reproduction:有性繁殖
 seychelles:塞舌尔
 shallow:浅的
 shallow water:浅水
+shaman:萨满教巫医
+shamanism:萨满教
 share:分享
 sharer:共享者
 sharp:锋利的
@@ -1916,10 +1934,13 @@ ship:船
 shoot:射击
 shop:购物
 shopping for what:买什么
+shore:海边
+shoreline:海岸线
 short:短的
 shortcut:快捷方式
 should:应该
 show:显示
+shut up:闭嘴
 sick:不舒服的
 side:边
 sierra leone:塞拉利昂
@@ -2014,6 +2035,8 @@ speech:说话
 speed:速度
 spell:拼写
 sperm:精子
+sperm cell:精细胞
+spermatium:不动精子
 spermatozoa:精子
 spermatozoon:精子
 sphecidae:泥蜂科
@@ -2054,6 +2077,8 @@ street:街
 stress:压力
 string:串
 strip:剥离
+strip club:脱衣舞夜总会
+strip joint:脱衣舞夜总会
 strong:强壮的
 structure:结构
 student:学生
@@ -2076,6 +2101,7 @@ suicide:自杀的
 summer:夏季
 sun:太阳
 sunday:星期日
+sunlight:阳光
 sup:小口喝
 super:超级的
 superman:超人
@@ -2096,6 +2122,7 @@ symmetry:对称
 syphilis:梅毒
 syria:叙利亚
 system:系统
+system wide:系统范围
 table:桌子
 tag:标签
 tail:尾部
@@ -2131,6 +2158,8 @@ template:模板
 temple:庙
 temporary:临时的
 ten:十
+tengri:腾格里
+tengrism:腾格里崇拜
 tennis:网球
 tension:紧张
 tenth:第十
@@ -2200,6 +2229,8 @@ toolchain:工具链
 tooth:牙
 top:顶部
 total:总的
+totem:图腾
+totemism:图腾崇拜
 touch:触摸
 tour:旅游
 tourism:旅游业
@@ -2393,6 +2424,7 @@ what now:现在怎么办
 what time is it now:现在几点
 wheat:小麦
 wheel:轮子
+whelk:螺
 when:何时
 where:哪儿
 where am i:我在哪儿
