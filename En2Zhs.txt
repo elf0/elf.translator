@@ -1,6 +1,10 @@
 a:一个
 aardvark:土豚
 abacus:算盘
+abbey:修道院
+abbot:修道院院长
+abbreviate:缩写
+abdomen:腹
 ability:能力
 abkhazia:阿布哈兹
 able:有能力的
@@ -16,14 +20,17 @@ access:访问
 accident:意外
 accommodation:住宿
 accompany:陪伴
+according:依
 accumulation:累积
 accurate:精确的
 acid:酸的
 acid rain:酸雨
 acoustics:声学
 across:穿过
+act:行动
 action:行动
 actor:演员
+acylpyrin:阿司匹林
 adapter:适配器
 add:加
 addition:附加
@@ -39,6 +46,8 @@ africa:非洲
 african:非洲人
 after:后
 afternoon:下午
+again:又
+against:对抗
 age:年龄
 agency:办事处
 agent:代理人
@@ -49,6 +58,8 @@ agriculture:农业
 agrology:土壤学
 aid:帮助
 air:空气
+air army:空军
+air force:空军
 air raid:空袭
 air raids:空袭
 aircraft:飞机
@@ -90,6 +101,7 @@ america:美国
 america:美洲
 american:美国人
 americium:镅
+among:之间
 amsterdam:阿姆斯特丹
 an:一个
 analog:模拟的
@@ -101,15 +113,18 @@ anatolia:安那托利亚
 anatomy:解剖学
 ancestor:祖先
 ancient:古代的
+ancient rome:古罗马
 and:和
 and:与
 andorra:安道尔
 android:机器人
+angeles:安矶
 angola:安哥拉
 animal:动物
 animals:动物
 animation:动画
 ankara:安卡拉
+annual:年度的
 another:另一个
 answer:答案
 answer:回答
@@ -121,12 +136,15 @@ antigua and barbuda:安提瓜和巴布达
 antimony:锑
 anus:肛门
 any:任何
+anyone:任何人
 aphasia:失语症
 apoidea:蜂
 apollo:阿波罗
 apple:苹果
 application:应用程序
+application:应用
 application wide:应用程序范围
+applications:应用
 apply:应用
 april:四月
 aquatic:水生的
@@ -149,12 +167,14 @@ arithmetic logic unit:算术逻辑单元
 arm:臂
 armenia:亚美尼亚
 army:军队
+army:陆军
 around:环绕
 array:数组
 arsenic:砷
 art:艺术
 article:文章
 articles:文章
+artificial:人工的
 artificial intelligence:人工智能
 artist:艺术家
 as:当作
@@ -165,6 +185,7 @@ ask:问
 aspen:杨树
 asphalt:柏油
 assist:协助
+associate:联系
 association:关联
 association:协会
 astatine:砹
@@ -190,8 +211,10 @@ audio:音频
 august:八月
 aunt:叔母
 australia:澳大利亚
+australian:澳大利亚人
 austria:奥地利
 author:作者
+authority:权威
 autism:孤独症
 auto:汽车
 auto:自动
@@ -201,6 +224,7 @@ available:可用的
 average:平均
 avoid:避免
 awake:唤醒
+award:授予
 axis:轴
 azerbaijan:阿塞拜疆
 babbage:巴贝奇
@@ -220,10 +244,14 @@ ballet:芭蕾舞
 balloon:气球
 bamboo:竹子
 banana:香蕉
+band:带
 bangladesh:孟加拉国
 bank:银行
+bankruptcy:破产
+bar:酒吧
 barbados:巴巴多斯
 barrel:枪管
+baryon:重子
 base:基质
 baseball:棒球
 based:基于
@@ -236,6 +264,8 @@ batman:蝙蝠侠
 battery:电池
 battle:战役
 bay:海湾
+bbc:英国广播公司
+be:成为
 beach:海滩
 beachwear:海滩装
 bean:豆
@@ -248,14 +278,17 @@ become:成为
 bed:床
 bee:蜜蜂
 beef:牛肉
+before:之前
 began:开始
 behavior:行为
+being:生物
 belarus:白俄罗斯
 belgium:比利时
 belief:信仰
 believe:相信
 belize:伯利茲
 bell:钟
+below:之下
 bending:弯曲
 benefit:利益
 bengali:孟加拉语
@@ -264,8 +297,10 @@ berlin:柏林
 beryllium:铍
 best:最好
 better:更好
+between:间
 bhutan:不丹
 big:大
+bill:比尔
 billion:十亿
 biochemistry:生物化学
 biography:传记
@@ -279,6 +314,7 @@ birth:出生
 bitch:母狗
 black:黑色
 blacklist:黑名单
+blank:空白的
 blanket:毛毯
 blink:眨眼
 blood:血
@@ -305,6 +341,7 @@ bosnia and herzegovina:波黑
 bosnia and herzegovina:波斯尼亚和黑塞哥维那
 boss:老板
 boston:波士顿
+bot:机器人
 botany:植物学
 both:两者都
 bother:烦
@@ -337,9 +374,11 @@ brown:褐色
 brunei:文莱
 building:建筑
 building material:建筑材料
+built:建好的
 bulgaria:保加利亚
 bum:屁股
 bumhole:屁眼
+bureau:局
 burkina faso:布基纳法索
 burma:缅甸
 burundi:布隆迪
@@ -353,6 +392,7 @@ butterfly:蝴蝶
 button:按钮
 button:钮扣
 buy:买
+by:被
 cabin:舱
 cable:电缆
 cabo verde:佛得角
@@ -379,6 +419,7 @@ cancer:癌
 candidate:候选人
 candy:糖
 cantonese:广东话
+canvas:画布
 capacity:容量
 cape:披肩
 capital:首都
@@ -395,6 +436,7 @@ career:事业
 carl:卡尔
 carriage return:回车
 cartesian:笛卡尔的
+cartesian coordinate:笛卡尔座标
 case:案件
 castle:城堡
 casualty:伤亡
@@ -469,8 +511,11 @@ chloride:氯化物
 chocolate:巧克力
 choice:选择
 choose:选择
+christian:克里斯丁
 christianity:基督教
+chromatin:染色质
 chromosome:染色体
+chromosomes:染色体
 church:教堂
 cigarette:香烟
 citation:引文
@@ -496,6 +541,9 @@ cloud:云
 clouds:云
 club:俱乐部
 coalesce:合并
+coast:海岸
+coast guard:海岸警卫队
+coastline:海岸线
 coat:外套
 code:代码
 coder:编码器
@@ -519,6 +567,7 @@ comment:注释
 comment:评论
 commentator:评论员
 commercial:商业的
+committee:委员会
 common:共同的
 common ancestor:共同的祖先
 communist:共产党员
@@ -559,10 +608,12 @@ construction:建筑
 contact:联系
 contain:包含
 content:内容
+contents:内容
 context:上下文
 continent:洲
 continent:大陆
 continue:继续
+continuity:连续
 contribution:捐助
 contributor:贡献者
 control:控制
@@ -580,6 +631,7 @@ coordinate:坐标
 coordinate plane:坐标平面
 coordinates:坐标
 copy:复制
+copyright:版权
 corn:玉米
 corn:包谷
 correspondent:驻地记者
@@ -599,6 +651,8 @@ covalent bonding:共价键
 covalent crystal:共价晶体
 cover:涵盖
 cover:覆盖
+cover:封面
+cover design:封面设计
 cowboy:牛仔
 crazy:疯狂
 create:创造
@@ -607,6 +661,7 @@ crime:罪行
 criminal:罪犯
 critical:临界的
 croatia:克罗地亚
+cross:穿越
 cross platform:跨平台
 cry:哭
 cuba:古巴
@@ -627,6 +682,7 @@ dagistan:达吉斯坦
 daily:日常的
 daisy:雏菊
 daltonism:色盲
+damage:损害
 dance:跳舞
 dancer:舞者
 danger:危险
@@ -639,6 +695,7 @@ date:日期
 daughter:女儿
 daunting:令人畏惧的
 david:大卫
+davis:戴维斯
 day:日
 dead:死的
 deaf:聋的
@@ -659,10 +716,12 @@ deform:变形
 delete:删除
 deletion:缺失
 demand:需求
+democratic:民主的
 demonstrate:示范
 demonstration:示范
 denmark:丹麦
 dense:稠密的
+density:密度
 dentist:牙医
 dentistry:口腔医学
 deoxyribonucleic acid:脱氧核糖核酸
@@ -670,6 +729,7 @@ department:部门
 department:系
 depth:深度
 derivative:导数
+derivatives:导数
 descendant:后代
 design:设计
 designer:设计师
@@ -682,6 +742,7 @@ details:细节
 deteriorate:恶化
 detonate:引爆
 develop:开发
+developed:已开发的
 development:开发
 device:设备
 dialog:对话
@@ -689,17 +750,22 @@ diamond:钻石
 diatomic:二价的
 dick:鸡巴
 dictionary:词典
+did:做过
 die:死
+died:死的
 difference equation:差分方程
 different:不同的
+differentiation:微分
 difficult:困难的
 digger:挖掘者
 digital:数字的
+dildo:假鸡巴
 dinner:晚餐
 dinosaur:恐龙
 director:导演
 directory:目录
 disable:禁止
+discovery:发现
 discuss:讨论
 discussion:讨论
 disguise:伪装
@@ -707,14 +773,18 @@ displacement:位移
 display:显示
 distance:距离
 distinction:区别
+district:辖区
 disturb:打扰
 dither:抖动
 divide:除
+division:除法
 djibouti:吉布提
+do:做
 do not do that:别那样做
 do you know why:你知道为什么吗
 document:文档
 dog:狗
+dog tag:狗牌
 doll:玩偶
 dollar:美元
 dolphin:海豚
@@ -728,6 +798,7 @@ donkey:驴子
 door:门
 dot:点
 double:两倍的
+double helix:双螺旋
 down:向下
 download:下载
 draft:草案
@@ -739,8 +810,11 @@ drift:漂
 driver:司机
 drown:淹死
 drunk:醉的
+due:到期的
 due to:由于
+duke:公爵
 duplicate:重复的
+during:期间
 dust:灰尘
 dutch:荷兰人
 dutch:荷兰语
@@ -770,6 +844,7 @@ edition:版本
 editor:编辑器
 editor:编辑者
 education:教育
+edward:爱德华
 effect:效果
 effective:有效的
 efficacy:有效性
@@ -783,6 +858,7 @@ either:任一
 ejaculate:射精
 ejaculation:射精
 el salvador:萨尔瓦多
+elect:选举
 election:选举
 elective:选举的
 electric:电
@@ -796,6 +872,8 @@ elements:元素
 elephant:大象
 elevation:海拔
 elf:精灵
+email:电子邮件
+embassy:大使馆
 empire:帝国
 employee:雇员
 employer:雇主
@@ -813,13 +891,17 @@ engineer:工程师
 engineering:工程学
 england:英格兰
 english:英语
+enough:足够的
 enslave:奴役
 enter:进入
 enterprise:企业
+entertainment:娱乐
 entitle:叫做
 environment:环境
+episode:集
 equation:等式
 equatorial guinea:赤道几内亚
+equivalence:等价
 equivalently:相等地
 eritrea:厄立特里亚
 escape:逃脱
@@ -850,7 +932,10 @@ exercise:练习
 exist:存在
 expensive:昂贵的
 experiment:实验
+experimental:实验的
 explain:解释
+exponential:指数
+exponential function:指数函数
 extend:扩展
 external:外部的
 extreme:极端的
@@ -880,10 +965,12 @@ fathom:测深
 fatty:胖子
 feature:特点
 february:二月
+federal:联合的
 feed:喂
 feet:脚
 female:女性
 ferret:蒙眼貂
+festival:节日
 fetishism:拜物教
 few:很少的
 fiction:小说
@@ -903,6 +990,7 @@ final:最终的
 financial:财务的
 find:发现
 fine:罚金
+fingerprint:指纹
 finite:有限的
 finland:芬兰
 fire:火
@@ -918,6 +1006,7 @@ flamingo:火烈鸟
 flight:飞行
 float:浮点数
 flood:洪水
+florida:佛罗里达
 flow:流动
 flower:花
 fly:苍蝇
@@ -928,12 +1017,14 @@ fog:雾
 follow:跟随
 follow me:跟我来
 follower:追随者
+following:后面的
 font:字体
 food:食物
 fool:笨蛋
 foot:脚
 football:足球
 footballer:足球运动员
+footnote:脚注
 footway:人行道
 for:为
 for example:例如
@@ -954,6 +1045,7 @@ foundation:基金
 four:四
 fourth:第四
 fox:狐狸
+fractal:分形
 fragrant:香的
 framework:框架
 france:法国
@@ -978,6 +1070,7 @@ fuck:干
 fuck you:去你的
 full:全部
 function:函数
+functions:函数
 fundamental:基本的
 fundamental concepts:基本概念
 fungi:真菌
@@ -989,6 +1082,7 @@ fury:暴怒
 fury:勃然大怒
 future:未来
 gabon:加蓬
+gallery:画廊
 gambia:冈比亚
 game:游戏
 gamete:配子
@@ -1007,6 +1101,7 @@ genetic:遗传的
 genetic code:遗传码
 genetic instructions:遗传指令
 genetics:遗传学
+genome:基因组
 genus:类
 genus of mammals:哺乳类
 geography:地理
@@ -1014,20 +1109,24 @@ geological:地质的
 geological formation:地质构造
 geologist:地质学家
 geology:地质学
+geometric:几何的
 george:乔治
 georgia:格鲁吉亚
 german:德国人
 germany:德国
 gesture:手势
+get:得到
 ghana:加纳
 giraffe:长颈鹿
 girl:女生
 girlfriend:女朋友
 give:给
+given:给予的
 glacier:冰川
 glasses:眼镜
 global:全球的
 global positioning system:全球定位系统
+go:去
 goal:目标
 god:神
 gold:金子
@@ -1038,7 +1137,9 @@ good idea:好主意
 good luck:祝你好运
 google:谷歌
 gooseberry:醋栗
+gov:政府
 government:政府
+governor:地方长官
 grain:谷物
 gram:克
 grammar:语法
@@ -1047,6 +1148,8 @@ grandparent:祖父母
 grant:授予
 granularity:粒度
 grape:葡萄
+graph:图形
+graphs:图形
 grasp:理解
 grass:草
 grave:坟墓
@@ -1059,6 +1162,7 @@ greenland:格陵兰
 grenada:格林纳达
 grid:网格
 ground:地面
+ground force:陆军
 group:组
 growth:增长
 guanine:鸟嘌呤
@@ -1101,6 +1205,7 @@ heavy:重的
 height:高度
 helicopter:直升飞机
 helium:氦
+helix:螺旋
 hello:你好
 help:帮助
 help me:帮帮我
@@ -1121,6 +1226,7 @@ hillary:希拉里
 him:他
 himself:他自己
 his:他的
+historic:历史性的
 historical:历史的
 history:历史
 hit:打击
@@ -1143,6 +1249,7 @@ hotel:旅馆
 hour:时
 hours:小时
 house:房子
+household:家族
 househusband:家务男
 housewife:主妇
 how:如何
@@ -1189,12 +1296,17 @@ idiot:白痴
 if:如果
 iftar:开斋饭
 ill:病的
+illinois:伊利诺斯
 image:图像
 immediate:立刻的
 immediately:立刻地
 immunology:免疫学
+immutable:不变的
 impair:削弱
+imperial:帝国的
 imperialism:帝国主义
+implementation:实现
+implicit differentiation:隐微分
 imply:暗示
 important:重要的
 improve:改进
@@ -1209,6 +1321,7 @@ inbreeding depression:近交衰退
 incident:事故
 include:包括
 including:包括
+income:收入
 increase:增加
 indefinitely:无限地
 indent:缩进
@@ -1228,6 +1341,7 @@ infinite:无限的
 inflection point:拐点
 influence:影响力
 information:信息
+infrastructure:基础
 ingredient:食材
 inhibit:抑制
 initialise:初始化
@@ -1244,8 +1358,10 @@ instantaneous:瞬间的
 instead:替代
 instead of:替换
 institute:学院
+institute of technology:技术学院
 instruction:指令
 integer:整数
+integration:积分
 intelligence:智力
 intensify:加强
 interaction:交互
@@ -1258,6 +1374,7 @@ intertwine:缠绕
 into:进入
 introduction:引言
 invent:发明
+inverse function:反函数
 ion:离子
 ionic bonds:离子键
 ionic crystals:离子晶体
@@ -1267,6 +1384,7 @@ iran:伊朗
 iraq:伊拉克
 iraqi:伊拉克的
 ireland:爱尔兰
+irish:爱尔兰人
 is:是
 islam:伊斯兰教
 islamic:伊斯兰的
@@ -1276,6 +1394,7 @@ israel:以色列
 issue:问题
 it:它
 it is too late for me:那对我来说太迟了
+italian:意大利人
 italy:意大利
 item:项
 its:它的
@@ -1291,18 +1410,21 @@ jargon:术语
 jaw:颌
 jellyfish:水母
 jerk:痉挛
+jersey:运动衫
 jet:喷射
 jew:犹太人
 jews:犹太人
 john:约翰
 join:连接
 jordan:约旦
+joseph:约瑟夫
 journal:日志
 journey:旅行
 judaic:犹太教的
 juice:汁
 july:七月
 june:六月
+just:只
 kaleidoscope:万花筒
 karate:空手道
 kazakhstan:哈萨克斯坦
@@ -1318,6 +1440,10 @@ king:国王
 kingdom:王国
 kiribati:基里巴斯
 kitchen:厨房
+km:千米
+knee:膝盖
+knees:膝盖
+knife:小刀
 knight:骑士
 know:知道
 knowledge:知识
@@ -1334,6 +1460,7 @@ lady:女士
 lake:湖
 lamp:灯
 land:陆地
+land army:陆军
 language:语言
 languages:语言
 laos:老挝
@@ -1358,11 +1485,13 @@ layer:层
 lead:领导
 leader:领袖
 leaf:叶
+league:联盟
 learn:学习
 learnability:易学性
 least:最少的
 leave:离开
 lebanon:黎巴嫩
+led:发光二极管
 left:左
 left branch:左分支
 leg:腿
@@ -1394,6 +1523,8 @@ lighthouse:灯塔
 lightweight:轻量级的
 like:喜欢
 limit:限制
+limit:极限
+limits:极限
 lincoln:林肯
 line:线
 line feed:换行
@@ -1422,15 +1553,19 @@ locomotion:移动
 log:日志
 logarithm:对数
 logarithmic:对数的
+logarithmic function:对数函数
 logic:逻辑
 london:伦敦
 long:长的
 loop:环
+lord:主人
 lose:丢失
 lost:失去的
+louis:路易斯
 love:爱
 lover:爱人
 low:低的
+lower:降低
 luhansk:卢甘斯克
 lunch:午餐
 lung:肺
@@ -1439,6 +1574,7 @@ macedonia:马其顿
 machine:机器
 macro:宏
 madagascar:马达加斯加
+made:制成
 madonna:圣母玛利亚
 madrid:马德里
 magazine:杂志
@@ -1469,15 +1605,21 @@ manual:手动的
 many:许多
 many years:许多年
 map:地图
+mar:毁
 march:三月
 marine:海的
 mark:标记
 marker:标记
 market:市场
+marriage:结婚
+married:已婚的
+mars:火星
 marshall islands:马绍尔群岛
 martial art:武术
+martin:马丁
 mary:玛丽
 mass:大量
+massachusetts:麻萨诸塞州
 master:大师
 masturbate:手淫
 material:材料
@@ -1501,6 +1643,7 @@ mechanical:机械的
 mechanically:机械地
 mechanism:机制
 media:媒体
+median:中央的
 medical:医学的
 medicine:医学
 medieval:中世纪的
@@ -1513,6 +1656,7 @@ mercury:汞
 mercy:仁慈
 mermaid:美人鱼
 message:消息
+messenger:信使
 meta:元
 metal:金属
 metallic:金属的
@@ -1520,6 +1664,7 @@ meter:米
 method:方法
 mexico:墨西哥
 michael:迈克尔
+michigan:密西根
 micronesia:密克罗尼西亚
 microorganism:微生物
 microscope:显微镜
@@ -1533,6 +1678,7 @@ middle english:中世纪英语
 midnight:午夜
 might:可能
 migration:迁徙
+mile:英里
 military:军队
 milk:牛奶
 miller:磨坊主
@@ -1541,6 +1687,7 @@ million years ago:百万年前
 minimum:最小值
 minister:部长
 ministry of foreign affairs:外交部
+minnesota:明尼苏达
 minor:次要
 minus:负号
 minute:分
@@ -1548,6 +1695,7 @@ minutes:分钟
 mirror:镜子
 mission:任务
 mix:混合
+mm:毫米
 mobile:移动的
 model:模型
 model:模特
@@ -1561,6 +1709,7 @@ molecular geometry:分子几何
 molecular physics:分子物理学
 molecular science:分子科学
 molecule:分子
+molecules:分子
 moment:瞬间
 monaco:摩纳哥
 monday:星期一
@@ -1594,6 +1743,7 @@ murder:谋杀
 museum:博物馆
 mushroom:蘑菇
 music:音乐
+musical:音乐的
 must:必须
 my:我的
 myanmar:缅甸
@@ -1602,8 +1752,11 @@ mythology:神话
 nagorno karabakh:纳戈尔诺 卡拉巴赫
 naked eye:裸眼
 name:姓名
+named:命名的
 namespace:命名空间
 namibia:纳米比亚
+nanometre:纳米
+nanotechnology:纳米技术
 nasa:国家航空航天局
 nation:国家
 national:国家的
@@ -1621,6 +1774,8 @@ nearest:最近的
 nearly:几乎
 necessary:必要的
 neck:脖子
+need:需要
+needed:需要的
 negative:负的
 nepal:尼泊尔
 nephew:堂兄
@@ -1650,6 +1805,7 @@ niger:尼日尔
 nigeria:尼日利亚
 night:夜
 nightclub:夜总会
+ninja:忍者
 nipple:乳头
 nitrogen:氮
 niue:纽埃
@@ -1674,17 +1830,21 @@ not:不是
 not yet:还没有
 notation:表示法
 note:注意
+notebook:笔记本
 notice:注意
 noun:名词
 novel:小说
+novelist:小说家
 november:十一月
 now:现在
 nuclear:原子核的
 nuclei:原子核
+nucleus:核
 number:数字
 numerous:数目众多的
 nursing:护理学
 object:对象
+obligation:义务
 observer:观察者
 obsolete:废弃的
 ocean:海洋
@@ -1701,15 +1861,18 @@ offer:出价
 office:办公室
 official:官方的
 often:常常
+ohio:俄亥俄
 oil:油
 oil painting:油画
 old:老的
 old age:老年
 old french:古法语
+older:年长的
 oman:阿曼
 on:上面
 on earth:地球上
 on the street:在街上
+once:一次
 one:一
 online:在线
 only:只有
@@ -1718,22 +1881,26 @@ operate:操作
 operating system:操作系统
 operation:操作
 operator:操作员
+optimization:优化
 option:选项
 or:或
 orange:橙子
 order:命令
 order:订单
+org:组织
 organic:有机的
 organic chemistry:有机化学
 organism:生物
 organisms:生物
 organization:组织
 original:原始的
+originally:起初
 oscar:奥斯卡
 oscillation:振荡
 other:其他的
 otherwise:否则
 our:我们的
+out:外
 output:输出
 outside:外面
 over:结束
@@ -1748,12 +1915,15 @@ pacific:太平洋
 page:页
 pages:页
 painter:画家
+pair:对
 pakistan:巴基斯坦
 palau:帕劳
 palestine:巴勒斯坦
 panama:巴拿马
 paper:纸
 papua new guinea:巴布亚新几内亚
+parabola:抛物线
+parabolas:抛物线
 paragraph:段
 paraguay:巴拉圭
 parameter:参数
@@ -1761,6 +1931,7 @@ parent:父母
 parenthesis:圆括号
 paris:巴黎
 park:公园
+parliament:国会
 parrot:鹦鹉
 parse:分析
 parser:分析器
@@ -1773,6 +1944,7 @@ past:过去的
 patent:专利
 path:路径
 patient:患者
+paul:保罗
 pay:付款
 peace:和平
 pedestrian:步行者
@@ -1786,6 +1958,7 @@ per:每
 percent:百分比
 percent encoding:百分号编码
 perform:执行
+performance:性能
 perfume:香水
 period:周期
 period:时期
@@ -1798,14 +1971,17 @@ personal:私人的
 peru:秘鲁
 pest:害虫
 pet:宠物
+peter:彼得
 phase:阶段
 philippines:菲律宾
+philosopher:哲学家
 philosophy:哲学
 phone:电话
 photo:照片
 photorealistic:照片级逼真的
 phrase:词组
 physical:物理的
+physical exercise:身体锻炼
 physical law:物理定律
 physicist:物理学家
 physics:物理
@@ -1842,11 +2018,13 @@ policy:政策
 polish:波兰语
 politic:策略的
 political:政治的
+politician:政治家
 politics:政治
 pollen:花粉
 polynomial:多项式
 polynomials:多项式
 poor:贫穷的
+pop:弹出
 pope:教皇
 popular:流行的
 population:人口
@@ -1857,6 +2035,7 @@ portuguese:葡萄牙人
 position:位置
 possible:可能的
 post:投递
+postal:邮政的
 potassium:钾
 potato:土豆
 pottery:陶器
@@ -1881,6 +2060,7 @@ prevent:预防
 prey:猎物
 pridnestrovie:德涅斯特
 primary:基本的
+prime:主要的
 prime minister:总理
 prince:王子
 princess:公主
@@ -1889,9 +2069,11 @@ print:打印
 prison:监狱
 prisoner:囚犯
 private:私有的
+prix:奖金
 problem:难题
 process:处理
 process:过程
+produce:生产
 product:产品
 production:产品
 program:程序
@@ -1934,6 +2116,8 @@ quiet:安静的
 quill:羽毛
 quill pen:羽毛笔
 quit:退出
+quote:引用
+race:竞赛
 radii:半径
 radio:无线电
 radius:半径
@@ -1960,6 +2144,7 @@ realistic:逼真的
 realistic:现实的
 reason:原因
 rebel:反叛者
+receive:收
 recent:最近的
 recognize:识别
 record:记录
@@ -1969,6 +2154,7 @@ red:红色
 red black tree:红黑树
 redirect:重定向
 reference:参考
+reference manual:参考手册
 references:参考
 refrigerator:冰箱
 regain:重新夺回
@@ -1978,19 +2164,24 @@ relation:关系
 relationship:关系
 relative:亲人
 release:释放
+released:释放的
 religion:宗教
 religious:宗教的
 religious belief:宗教信仰
 remove:移除
 render:渲染
+repair:维修
 replace:替代
 report:报告
 represent:表示
 reproduction:繁殖
 reproductive cell:生殖细胞
 republic:共和国
+republican:共和国的
 request:请求
 require:需要
+rescue:救援
+rescue exercise:救援练习
 research:研究
 reset:重置
 residential:住宅的
@@ -2007,6 +2198,7 @@ restriction:约束
 restriction:限制
 result:结果
 resulting in mass civilian casualties:导致大量平民伤亡
+retire:退休
 retrieve:取回
 return:返回
 reveal:露出
@@ -2033,6 +2225,7 @@ river:河
 road:路
 roads:路
 roadside bomb:路边炸弹
+robert:罗伯特
 robot:机器人
 robust:健壮的
 rock:岩石
@@ -2040,10 +2233,13 @@ rocket:火箭
 role:角色
 roman:罗马人
 romania:罗马尼亚
+rome:罗马
 room:房间
 room temperature:室温
 root:根
 rotate:旋转
+round:圆的
+route:路线
 row:行
 royal:皇家的
 rule:规则
@@ -2053,6 +2249,8 @@ russia:俄国
 russian:俄国人
 rwanda:卢旺达
 sad:悲伤的
+said:说
+saint:圣
 saint christopher and nevis:圣基茨和尼维斯
 saint lucia:圣卢西亚
 saint vincent and the grenadines:圣文森特和格林纳丁斯
@@ -2076,6 +2274,7 @@ science:科学
 scientific:科学的
 scientific law:科学定律
 scientist:科学家
+scope:范围
 score:得分
 scotland:苏格兰
 scratch:刮痕
@@ -2097,6 +2296,7 @@ security:安全
 see:看见
 selection:选择
 self:自己
+self similar:自相似的
 semantic:语义的
 semantics:语义学
 semicircle:半圆
@@ -2108,12 +2308,16 @@ sents:气味
 separate:分离
 separatist:分裂者
 september:九月
+sequence:序列
+sequences:序列
 serbia:塞尔维亚
 series:系列
 serpent:蛇
 server:服务器
 service:服务
 set:集合
+settle:殖民
+settlement:殖民地
 seven:七
 seventh:第七
 several:几个
@@ -2159,13 +2363,16 @@ simple:简单
 simplified:简化的
 simplified version:简化版
 simplify:简化
+simply:简单地
 since:自从
 singapore:新加坡
+singer:歌手
 single:单个的
 singular:单数的
 sinusitis:鼻窦炎
 sir:先生
 sister:姐妹
+site:用地
 situation:情形
 six:六
 size:大小
@@ -2183,12 +2390,14 @@ slug:鼻涕虫
 slut:荡妇
 small:小的
 smell:嗅
+smith:史密斯
 smoke:烟
 smooth:光滑的
 snack:零食
 snail:蜗牛
 snake:蛇
 snow:雪
+snowflake:雪花
 so:如此
 social:社会的
 social relationship:社会关系
@@ -2215,6 +2424,7 @@ son:儿子
 song:歌
 sorry:抱歉
 sorry:对不起
+sort:种类
 soul:灵魂
 sound:声音
 soup:汤
@@ -2237,6 +2447,7 @@ span:跨度
 spanish:西班牙人
 spanish:西班牙语
 spanish:西班牙的
+sparta:斯巴达
 spawn:产卵
 spawning:产卵
 speak:说话
@@ -2264,6 +2475,7 @@ spoon:勺
 spork:叉勺
 sport:运动
 spring:春季
+square:方的
 square root:平方根
 squirrel:松鼠
 sri lanka:斯里兰卡
@@ -2277,6 +2489,7 @@ starve:饿死
 state:状态
 state:州
 statement:陈述
+station:站
 statistic:统计
 statistics:统计学
 status:地位
@@ -2305,6 +2518,8 @@ student:学生
 students:学生们
 study:学习
 style:风格
+subclass:子类
+subdivision:细分
 subject:主题
 subtract:减
 suburb:市郊
@@ -2398,6 +2613,7 @@ terror:恐怖
 terrorism:恐怖主义
 terrorist:恐怖份子
 test:测试
+texas:德克萨斯
 text:文本
 thailand:泰国
 than:比
@@ -2414,6 +2630,7 @@ them:他们
 theme:主题
 then:然后
 theology:神学
+theorem:定理
 theory:理论
 there:那里
 thereby:因此
@@ -2427,12 +2644,14 @@ thirst:渴
 thirsty:渴
 this:这
 this article is about:这篇文章是关于
+thomas:托马斯
 those:那些
 though:然而
 thought:想法
 thousand:千
 three:三
 throat:咽喉
+through:穿过
 throughout:贯穿
 throw:抛
 thrust:刺
@@ -2462,6 +2681,7 @@ tonga:汤加
 tongue:舌
 too:也
 too heavy:太重
+took:拿
 toolchain:工具链
 tooth:牙
 top:顶部
@@ -2475,9 +2695,12 @@ tourism:旅游业
 tower:塔
 towers:塔
 town:城镇
+township:镇区
 toxic:有毒的
 toy:玩具
+track:痕迹
 trade:贸易
+trademark:商标
 tradition:传统
 traditional:传统的
 tragedy:悲剧
@@ -2518,6 +2741,7 @@ tutorial:教程
 tutorials:教程
 tuvalu:图瓦卢
 tv:电视
+twelfth:第十二
 twice:两次
 twin:双胞胎
 twins:双胞胎
@@ -2532,6 +2756,7 @@ ukraine:乌克兰
 umbrella:伞
 unclassified:未分类的
 uncle:叔父
+under:下
 underground:地下
 understand:理解
 unicellular:单细胞的
@@ -2549,13 +2774,16 @@ until:直到
 up:向上
 update:更新
 upload:上载
+upon:之上
 upright:正直的
 url:统一资源定位符
 uruguay:乌拉圭
 us:我们
+usa:美国
 usage:用法
 use:使用
 use case:用例
+used:用过的
 useless:无用的
 user:用户
 user interface:用户接口
@@ -2613,6 +2841,7 @@ vote:投票
 vowel:元音
 vulva:阴户
 wait:等
+wales:威尔士
 wallpaper:壁纸
 war:战争
 warlord:军阀
@@ -2636,6 +2865,9 @@ week:周
 weight:重量
 weird:怪异的
 welcome:欢迎
+well:良好地
+well defined:定义良好的
+went:去
 were:是
 west:西
 western:西方的
@@ -2709,6 +2941,7 @@ wiki:维基
 wild:荒野
 will:将
 william:威廉
+win:赢得
 wind:风
 window:窗
 wine:酒
@@ -2718,14 +2951,17 @@ winter:冬季
 wireless:无线的
 wish:希望
 with:与
+within:内
 without:没有
 wok:锅
 wolf:狼
 woman:女人
 women:女人们
+won:赢了
 word:单词
 work:工作
 worker:工人
+works:工厂
 world:世界
 world cup:世界杯
 worldwide:全世界的
@@ -2734,6 +2970,7 @@ would:将
 write:写
 writer:作家
 writing:写作
+www:万维网
 year:年
 years:年
 years ago:年前
@@ -2741,12 +2978,14 @@ yellow:黄色
 yemen:也门
 yes:是
 yoga:瑜伽
+york:约克
 you:你
 you:你们
 you are beautiful:你真漂亮
 young:年轻的
 your:你的
 zambia:赞比亚
+zealand:西兰岛
 zebra:斑马
 zebras:斑马
 zen:禅宗
@@ -2755,6 +2994,7 @@ zimbabwe:津巴布韦
 zinc:锌
 zoa:动物
 zombie:僵尸
+zombie:丧尸
 zone:地带
 zoo:动物园
 zoologist:动物学家
