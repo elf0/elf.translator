@@ -10,6 +10,7 @@ ladies:女士们
 lady:女士
 lahore:拉合尔
 lake:湖
+lamb:羊羔
 lamp:灯
 land army:陆军
 land:陆地
@@ -20,6 +21,7 @@ landscape:风景
 landslide:滑坡
 language:语言
 languages:语言
+laos:老挝
 laotian:老挝语
 laptop:笔记本电脑
 large animal:大型动物
@@ -35,7 +37,9 @@ later:以后
 latest:最后的
 latest:最近的
 latin:拉丁文
+latitude:纬度
 lattice:栅格
+latvia:拉脱维亚
 laugh:笑
 laughter:笑声
 launch:发射
@@ -56,7 +60,9 @@ learn:学习
 learnability:易学性
 learning:学习
 least:最少的
+leave:离开
 leaves:树叶
+lebanon:黎巴嫩
 lecture:讲座
 lecturer:讲师
 lecturers:讲师
@@ -64,6 +70,7 @@ led:发光二极管
 lee:李
 left branch:左分支
 left:左
+leftover:残留物
 legal guardian:法定监护人
 legal term:法律术语
 legal:合法的
@@ -77,6 +84,7 @@ lego:乐高
 leisure:闲暇
 lemonade:柠檬水
 length:长度
+leopard:豹
 lesbian:女同性恋
 lesotho:莱索托
 less developed country:欠发达国家
@@ -96,12 +104,16 @@ liar:说谎者
 liberal:自由的
 liberalism:自由主义
 liberation:解放
+liberia:利比里亚
 libertarian:自由主义者
 liberty:自由
 library:图书馆
+libya:利比亚
 license:许可证
 lick:舔
+liechtenstein:列支敦士登
 life on earth:地球上的生命
+life science:生命科学
 life span:寿命
 life:生命
 lifetime:一生
@@ -122,9 +134,13 @@ lincoln:林肯
 line feed:换行
 line:线
 lineal descendant:直系后代
+linear algebra:线性代数
+linear function:线性函数
 linear:线性的
+linguistic:语言的
 link:连接
 linnaeus:林奈
+lion:狮子
 lipstick:口红
 lipstick:唇膏
 liquid:液体
@@ -134,33 +150,44 @@ listed:列出的
 listen up:听好
 listen:听
 literary:文学的
+literature:文学
 lithium:锂
+lithuania:立陶宛
 little:很少的
 live:活的
 livelihood:生计
+liverpool:利物浦
 livestock:家畜
 living:活
+lizard:蜥蜴
 load:加载
+lobster:龙虾
 local fast food chain:本地快餐连锁
 local:本地的
+locate:定位
 location:位置
 lock:锁
 lockheed:洛克希德
 locomotion:移动
 log:日志
 logarithm:对数
+logarithmic function:对数函数
 logarithmic:对数的
 logic:逻辑
 logo:商标
+london:伦敦
 long:长的
+longitude:经度
 look:看
 loop:环
 loot:战利品
 lord:主人
+los angeles:洛杉矶
 lose:丢失
 lossless:无损的
 losslessly:无损地
 lost:失去的
+louisiana:路易斯安那州
 love:爱
 lover:爱人
 low:低的
@@ -175,5 +202,7 @@ lunar eclipse:月食
 lunar:月亮的
 lunch:午餐
 lust:欲望
+luxembourg:卢森堡
 lymphocyte:淋巴细胞
+lyric:歌词
 :

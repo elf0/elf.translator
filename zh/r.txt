@@ -1,3 +1,4 @@
+rabbit:兔
 race:种族
 race:竞赛
 racial equality:种族平等
@@ -18,6 +19,8 @@ railway:铁路
 rain:雨
 rainbow:彩虹
 rainfall:降雨
+rainfall:降雨量
+rainwater:雨水
 raisin:葡萄干
 rally:集会
 ram:撞击
@@ -44,6 +47,8 @@ rate:比率
 rather:宁可
 ratio:比例
 ratiocination:推理
+rational function:有理函数
+rational number:有理数
 rational:合理的
 rational:有理数
 rationale:基本原理
@@ -51,6 +56,7 @@ raw:未加工的
 ray:光线
 reaction:反应
 reaction:反馈
+read:读
 reader:读者
 ready:准备好的
 real number:实数
@@ -82,8 +88,10 @@ rectangular:矩形的
 recursive:递归的
 red black tree:红黑树
 red light district:红灯区
+red:红色
 redirect:重定向
 redo:重做
+reduce:减少
 redundant:冗余的
 reef:礁
 refer to:指
@@ -98,6 +106,7 @@ references:参考资料
 referendum:全民投票
 referred to:指
 refers to:指
+reflectivity:反射率
 reflex:反射
 refrigerator:冰箱
 refugee:难民
@@ -110,6 +119,8 @@ regional:区域的
 register:注册
 regret:后悔
 rehabilitation:康复
+reinforce:增强
+reinforcement:增强
 reinstate:恢复
 reject:拒绝
 relate:联系
@@ -120,6 +131,7 @@ relatively:相对地
 release energy:释放能量
 release:释放
 released:释放的
+relevant:有关的
 reliable:可靠的
 relic:遗物
 relief:浮雕
@@ -129,11 +141,14 @@ religion:宗教
 religious belief:宗教信仰
 religious:宗教的
 remember:记住
+remove:移除
 render:渲染
+repair:维修
 repeal:废除
 replace:替代
 replaceability:可替代性
 replaceable:可替代的
+reply:回复
 report:报告
 represent:表示
 representation:表示
@@ -181,6 +196,7 @@ retirement:退休
 retrieve:取回
 return:返回
 reuse:重用
+reveal:揭示
 revenge:复仇
 revenue:收入
 revenue:营业额
@@ -196,8 +212,12 @@ revolver:左轮手枪
 reward:奖赏
 rhenium:铼
 rhine:莱茵河
+rhinoceros:犀牛
 rhodium:铑
 rhyme:押韵
+rice noodle:米线
+rice noodles:米线
+rice:大米
 rich:丰富的
 rich:富裕的
 richard:理查德
@@ -211,6 +231,7 @@ right:权利
 rights:权利
 rigid body:刚体
 ring:戒指
+rio de janeiro:里约热内卢
 risk:风险
 river water:河水
 river:河
@@ -227,6 +248,7 @@ role:角色
 roll:滚动
 roller skates:滚轮滑鞋
 roman:罗马人
+romania:罗马尼亚
 romanian:罗马尼亚语
 romanization:罗马字母化
 romantic:浪漫的
@@ -257,10 +279,15 @@ ruby:红宝石
 rudder:舵
 rugby:橄榄球
 rule:规则
+ruler:尺
+ruler:统治者
 rules:规则
+rumor:谣言
+run:跑
 run:运行
 rune:字符
 running on:运行在
+running water:自来水
 running:运行
 rural:乡村的
 russia:俄国
@@ -268,4 +295,5 @@ russian:俄国人
 russian:俄语
 rust:铁锈
 ruthenium:钌
+rwanda:卢旺达
 :

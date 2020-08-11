@@ -1,8 +1,11 @@
 ubiquitous:到处存在的
 uefa:欧洲足球协会联盟
+uganda:乌干达
 ugliness:丑恶
 ugly:丑的
 uk:联合王国
+uk:英国
+ukraine:乌克兰
 ukrainian:乌克兰人
 ukrainian:乌克兰语
 ultimately:尽可能地
@@ -19,6 +22,7 @@ under:下
 undergarment:内衣
 underground:地下
 understand:懂了吗
+understand:理解
 underwater:水下的
 underwear:内衣
 undesirable:不想要的
@@ -33,10 +37,16 @@ unique:唯一的
 unisex:不分性别的
 unit:单位
 unite:联合
+united arab emirates:阿联酋
+united kingdom:英国
 united nations security council:联合国安理会
 united nations:联合国
+united states:美国
 united:联合的
 universality:普遍性
+university of cambridge:剑桥大学
+university of oxford:牛津大学
+university of tsinghua:清华大学
 unknown:不知道的
 unless:除非
 unlock:解锁
@@ -66,9 +76,12 @@ uric acid:尿酸
 uric:尿的
 url:统一资源定位符
 urology:泌尿外科
+uruguay:乌拉圭
 us:我们
+usa:美国
 usage:用法
 use case:用例
+use:使用
 used:用过的
 useful:有用的
 useless:无用的
@@ -79,4 +92,5 @@ using:使用
 usually:通常地
 utility:工具
 utilize:利用
+uzbekistan:乌兹别克斯坦
 :

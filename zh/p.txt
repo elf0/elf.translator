@@ -1,3 +1,5 @@
+pacific region:太平洋区域
+pacific:太平洋
 package:包
 pad:垫子
 paddle:划桨
@@ -8,12 +10,18 @@ pain:痛
 paint:油漆
 painter:画家
 pair:对
+pakistan:巴基斯坦
 palace:宫殿
+palau:帕劳
+paleontology:古生物学
+palestine:巴勒斯坦
 palestinian:巴勒斯坦人
 palladium:钯
 palm:棕榈
+panama:巴拿马
 panorama:全景
 paper:纸
+papua new guinea:巴布亚新几内亚
 parabola:抛物线
 parabolas:抛物线
 paraboloid:抛物面
@@ -21,23 +29,28 @@ paraceratherium:巨犀
 parade:游行
 paradise:天堂
 paragraph:段
+paraguay:巴拉圭
 parallel lines:平行线
 parallel:平行的
 parameter:参数
 parasite:寄生生物
 parasitism:寄生
+parasitology:寄生生物学
 paratroop:伞兵部队
 paratrooper:伞兵
 paratroopers:伞兵们
 paratroops:伞兵部队
 parent:父母
 parenthesis:圆括号
+paris:巴黎
 parish:教区
 park:公园
 parkway:景观大道
 parliament:国会
 parliamentary system:议会制
 parliamentary:议会的
+parrot:鹦鹉
+parse:分析
 parser:分析器
 part:部分
 partial:部分的
@@ -71,6 +84,7 @@ pave the way:铺路
 pave:铺
 pavilion:亭子
 paw:兽掌
+pay:付款
 peace:和平
 peaceful:和平的
 peak:峰
@@ -85,8 +99,10 @@ pen:笔
 pencil:铅笔
 penetrate:插入
 penetration:插入
+penguin:企鹅
 penicillin:青霉素
 peninsula:半岛
+pennsylvania:宾夕法尼亚
 penny:便士
 pentagon:五边形
 pentagram:五角星
@@ -120,6 +136,7 @@ persian:波斯人
 persian:波斯语
 person:个人
 personal:私人的
+peru:秘鲁
 pest:害虫
 pet:宠物
 petite:娇小的
@@ -127,23 +144,42 @@ phantom pain:幻痛
 phantom:幻觉
 phase space:相空间
 phase:阶段
+phenomena:现象
+phenomenon:现象
 philadelphia:费城
 philip:菲利普
+philippines:菲律宾
+philosopher:哲学家
+philosophy:哲学
+phoenix:凤凰
+phone:电话
+phosphorus:磷
+photo:照片
 photography:摄影
 photon:光子
+photonics:光子学
 photorealistic:照片级逼真的
 phrase:词组
 phylum:门
 physical constant:物理常量
 physical exercise:身体锻炼
 physical law:物理定律
+physical science:物理学
 physical system:物理系统
 physical therapy:物理治疗
 physical:物理的
 physical:身体的
+physician:内科医生
+physicist:物理学家
+physics:物理
 physiological:生理学的
+physiology:生理学
+piano:钢琴
+picture:照片
 piecewise:分段的
+pig:猪
 pigment:颜料
+pigmentation:染色
 pilcrow:段标记
 pill:药丸
 pillow:枕头
@@ -151,6 +187,7 @@ pilot:领航员
 pimpinella anisum:茴芹
 pinball:弹珠台
 pineapple:菠萝
+pink:粉红色
 pirate:海盗
 piratical:海盗的
 piss:尿
@@ -172,6 +209,7 @@ platform:平台
 platinum:铂
 platoon:小队
 platoon:排
+platypus:鸭嘴兽
 play:玩
 player:玩家
 players:玩家
@@ -195,6 +233,7 @@ points:点
 poisonous:有毒的
 poker:扑克
 poland:波兰
+polar bear:北极熊
 polar coordinate:极坐标
 polar:极性的
 police:警察
@@ -220,7 +259,10 @@ pope:教皇
 popular:流行的
 population census:人口普查
 population:人口
+pork:猪肉
+pornographic film:色情电影
 pornographic:色情的
+pornography:色情文学
 porridge:粥
 port:端口
 portable:便携的
@@ -229,6 +271,7 @@ portal:入口
 portion:部分
 portrait:肖像
 portray:饰演
+portugal:葡萄牙
 portuguese:葡萄牙人
 portuguese:葡萄牙语
 position:位置
@@ -245,6 +288,7 @@ potato:土豆
 pottery:陶器
 poverty:贫穷
 powder:粉末
+power function:幂函数
 power:力量
 power:幂
 powerboat:快艇
@@ -253,6 +297,7 @@ powerless:无力的
 powerlessness:无力
 practice:实践
 praise:赞美
+pray:祈祷
 prayer:祈祷
 precipitate:沉淀
 precipitate:陷入
@@ -262,6 +307,9 @@ predator:捕食者
 predecessor:前任
 predefine:预定义
 predefined:预定义的
+predict:预测
+prediction:预测
+preface:序言
 preferred:首选的
 prefix:前缀
 pregnancy:妊娠
@@ -270,11 +318,13 @@ prehistoric animal:史前动物
 prehistoric:史前的
 prejudice:偏见
 premier:首相
+prepare:准备
 preprocess:预处理
 preprocessor:预处理器
 presence:存在
 present:现在的
 presenter:主持人
+preserve:保持
 president:总统
 presidential election:总统选举
 presidential:总统的
@@ -303,6 +353,7 @@ private:私有的
 privilege:特权
 prix:奖金
 prize:奖
+probability:概率
 probably:或许
 problem:难题
 procedure:步骤
@@ -334,17 +385,28 @@ prokaryotic:原核的
 prologue:序言
 promethium:钷
 promise:保证
+promote:提升
+pronoun:代词
+pronunciation:读法
+proof:证据
 propagate:传播
 propagation:传播
 propel:推进
+propeller:推进器
+propeller:螺旋桨
+properties:属性
+property:属性
 property:拥有物
 prophecy:预言
 prophet:先知
 propose:提议
 propulsion:推进
 prose:散文
+prostitute:卖淫
+prostitute:妓
 prostitution:卖淫
 protactinium:镤
+protect:保护
 protected:受保护的
 protection:保护
 protest:抗议
@@ -354,10 +416,15 @@ protocol:协议
 proton:质子
 protozoa:原生动物
 proud:自豪的
+prove:证明
 proverb:谚语
+provide:供应
 province:省
 proxy:代理
+psychiatrist:精神病医生
+psychiatry:精神病学
 psychoactive:影响精神的
+psychology:心理学
 psychopath:变态
 public domain:公共域
 public:公共的
@@ -375,11 +442,15 @@ punk:朋克
 pup:幼崽
 puppet:傀儡
 puppet:木偶
+puppy:小狗
 pure:纯的
 purge:清除
 purify:净化
 purine:嘌呤
+purple:紫色
 purpose:目的
+pursue:追击
+pursuit:追击
 push:推
 pushpin:图钉
 pussy:懦夫
@@ -389,5 +460,6 @@ puzzle:迷
 pyongyang:平壤
 pythagoras:毕达哥拉斯
 pythagorean:毕达哥拉斯的
+python:蟒蛇
 pyxis:罗盘座
 :

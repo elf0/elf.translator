@@ -1,6 +1,7 @@
 each other:彼此
 each time:每次
 each:每个
+eagle:鹰
 earlier:早先的
 earliest evidence:最早的证据
 earliest:最早的
@@ -10,13 +11,17 @@ earphones:耳机
 earth:地球
 earthfall:滑坡
 earthquake:地震
+east africa:东非
 east:东
 easter:复活节
 eastern:东方的
 easy:容易
+eat:吃
 eater:食者
 eaters:食者
+ebola:埃博拉病毒
 ecliptic:黄道
+ecology:生态学
 economic collapse:经济崩溃
 economic:经济的
 economy:经济
@@ -26,6 +31,7 @@ ecuador:厄瓜多尔
 eddy:涡流
 edge:边
 edible:可食的
+edit:编辑
 editable:可编辑的
 edition:版本
 editor:编辑器
@@ -41,6 +47,7 @@ efficient:高效的
 egg:卵
 egg:蛋
 eggs:蛋
+egypt:埃及
 egyptian:埃及人
 eight:八
 eighteen:十八
@@ -67,12 +74,19 @@ electric charge:电荷
 electric current:电流
 electric field:电场
 electric:电
+electromagnetic field:电磁场
 electromagnetic:电磁的
+electromagnetism:电磁学
 electron affinity:电子亲合性
+electron:电子
 electronic:电子的
 elegance:优雅
+element:元素
+elements:元素
+elephant:大象
 elevation:海拔
 eleven:十一
+elf:精灵
 eligible:符合条件的
 eliminate:消除
 ellipse:椭圆
@@ -107,6 +121,11 @@ enemy:敌人
 energy:能量
 engage:忙碌
 engagement:婚约
+engine:发动机
+engineer:工程师
+engineering:工程学
+england:英格兰
+english:英语
 engrave:雕刻
 engraving:雕刻
 enhancement:增强
@@ -131,6 +150,7 @@ ephemeral:短暂的
 epic:史诗
 epinephrine:肾上腺素
 episode:集
+epistemology:认知学
 epoxide:环氧化物
 epoxy resin:环氧树脂
 epoxy:环氧的
@@ -158,15 +178,25 @@ escherichia coli:大肠杆菌
 especially:特别地
 esperanto:世界语
 essential:必需的
+establish:建立
 established:已建立的
 estimate:估计
+estonia:爱沙尼亚
+estonian:爱沙尼亚人
 estonian:爱沙尼亚的
+estonian:爱沙尼亚语
 estuary:河口
+ethanol:乙醇
+ether:醚
+ethiopia:埃塞俄比亚
 ethnicity:民族
+ethnography:民族学
+ethnology:民族学
 etymology:词源
 eukaryote:真核生物
 eukaryotic:真核的
 euro:欧元
+europe:欧洲
 european:欧洲人
 eurozone:欧元区
 evaluate:求值
@@ -176,6 +206,7 @@ evangelism:福音主义
 evangelize:传福音教
 evaporate:蒸发
 eve:夏娃
+even function:偶函数
 even if:即使
 even though:即使
 even:偶
@@ -213,11 +244,13 @@ experience:体验
 experiment:实验
 experimental:实验的
 expert:专家
+explain:解释
 explanation:解释
 exploit:剥削
 exploitation:剥削
 exploration:探险
 explosion:爆炸
+exponential function:指数函数
 exponential:指数
 export:导出
 expressway:高速公路
