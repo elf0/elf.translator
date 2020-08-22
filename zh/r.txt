@@ -163,6 +163,7 @@ require:需要
 required:被需要的
 rescue exercise:救援练习
 rescue:救援
+research paper:研究论文
 research:研究
 researcher:研究员
 resemble:类似
@@ -238,6 +239,8 @@ river:河
 road:路
 roads:路
 roadside bomb:路边炸弹
+roast:烤
+robert:罗伯特
 robot:机器人
 robust:健壮的
 rock:岩石

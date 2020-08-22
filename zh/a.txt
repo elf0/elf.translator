@@ -1,15 +1,21 @@
 a:一
 a:一个
 abacus:算盘
+abattoir:屠宰场
 abbess:女修道院院长
 abbey:修道院
 abbot:修道院院长
 abbreviate:缩写
 abbreviation:缩写
+abduction:诱拐
+abet:煽动
 ability:能力
 abiotic:无生命的
 abkhazia:阿布哈兹
 able:有能力的
+abnormal:不正常
+abnormal:不自然
+abnormal:异常
 abolish:废除
 abolition:废止
 abolitionism:废奴主义
@@ -19,6 +25,8 @@ abortion:中止
 about:关于
 about:大约
 above:上面的
+abraham lincoln:亚伯拉罕林肯
+abraham:亚伯拉罕
 absence:缺席
 absent:缺席的
 absolute power:绝对权力
@@ -30,6 +38,8 @@ abstract:摘要
 abstraction:抽象
 abundant:充足的
 abuse:虐待
+acadagnostus:古球接子
+acadagnostus:针球接子
 academic:学院的
 academy of engineering:工程院
 academy of sciences:科学院
@@ -66,6 +76,7 @@ acoustics:声学
 acquire:获得
 acquit:宣告无罪
 acre:英亩
+acrodus:无尖齿鱼属
 acronym:首字母缩写词
 across:穿过
 act:行动
@@ -82,6 +93,7 @@ actually:实际上
 acupuncture:针灸
 acylpyrin:阿司匹林
 adage:谚语
+adam:亚当
 adapter:适配器
 add:加
 addict:有瘾的人
@@ -97,6 +109,7 @@ admiral:海军上将
 admiration:赞美
 admit:准入
 adolescence:青春期
+adolf:阿道夫
 adoption:收养
 adrenaline:肾上腺素
 adult:成人的
@@ -123,9 +136,12 @@ african:非洲人
 afrikaans:南非荷兰语
 after:后
 afternoon:下午
+again:再
 again:又
+against:反对
 against:对抗
 age:年龄
+ageing:老化
 agency:办事处
 agent:代理人
 agent:特工
@@ -183,13 +199,18 @@ algorithm:算法
 alias:别名
 alienate:疏远
 align:对直
+alkali metal:碱金属
 alkali:碱
+alkane:烷烃
+all:全体
+all:全部
 all:所有
 allen:艾伦
 allergy:过敏
 alley:巷
 alliance:联盟
 alligator:短吻鳄
+allopregnane:别孕烷
 allot:分配
 allotment:分配
 allow:允许
@@ -210,6 +231,7 @@ altruism:利他主义
 altruist:利他主义者
 altruistic:利他的
 alum:矾
+aluminium cyanide:氰化铝
 aluminium:铝
 alumna:女校友
 alumnae:女校友
@@ -386,6 +408,7 @@ arabic:阿拉伯语
 arbitrary:任意的
 arch:拱形
 archaea:古菌
+archaeocin:古菌素
 archaeologist:考古学家
 archaeology:考古学
 archaeopteryx:始祖鸟
@@ -407,6 +430,7 @@ argentinian:阿根廷人
 argon:氩
 argue:争论
 argument:参数
+aristotle:亚里士多德
 arithmetic logic unit:算术逻辑单元
 arithmetic:算术
 arizona:亚利桑那州
@@ -430,6 +454,7 @@ article:文章
 articles:文章
 artifact:人造物品
 artificial intelligence:人工智能
+artificial moon:人造月亮
 artificial:人工的
 artist:艺术家
 aruba:阿鲁巴
@@ -453,6 +478,7 @@ assault:突击
 assembly:汇编
 assess:评估
 asset:资产
+asshole:屁眼
 assist:协助
 assistant:助手
 assistants:助手
@@ -465,6 +491,7 @@ astatine:砹
 asterisk:星号
 asteroid:小行星
 astoria:阿斯托里亚
+astronaut:宇航员
 astronomer:天文学家
 astronomical:天文学的
 astronomy:天文学
@@ -476,6 +503,7 @@ at once:立刻
 at the same time:与此同时
 at the top level:在顶层
 at:在
+atheism:无神论
 atheist:无神论者
 athlete:运动员
 athletic:运动的
@@ -523,6 +551,9 @@ avenue:林荫道
 average:平均
 avert:转移
 avoid:避免
+await:等
+await:等候
+await:等待
 awake:唤醒
 award:授予
 awards:奖

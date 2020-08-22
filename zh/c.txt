@@ -281,17 +281,23 @@ clean:清理
 clear:清除
 cleric:传教士
 click:点击
+cliff:峭壁
+cliff:崖
+cliff:悬崖
+cliff:绝壁
 climacteric:转变期
 climate:气候
 climb:攀爬
 clinic:诊所
 clinical:临床的
+clinton:克林顿
 clip:修剪
 clock:时钟
 clone:克隆
 close:关闭
 closed wound:闭合损伤
 closed:已关闭的
+clothes:衣服
 cloud:云
 clouds:云
 cloudy:多云的
@@ -300,6 +306,8 @@ clown:小丑
 club:俱乐部
 clue:线索
 clues:线索
+clutch:抓住
+clutch:离合器
 coach:长途大巴
 coal:煤
 coalesce:合并
