@@ -16,6 +16,7 @@ land army:陆军
 land:陆地
 landing:登陆
 landing:着陆
+landman:石油工人
 landmark:地标
 landscape:风景
 landslide:滑坡
@@ -123,6 +124,9 @@ light:光
 lighthouse:灯塔
 lightning:闪电
 lightweight:轻量级的
+lignified tissue:木组织
+lignified:木的
+lignify:木化
 like:喜欢
 likewise:同样地
 limbic system:边缘系统

@@ -96,6 +96,7 @@ sea urchin:海胆
 sea water:海水
 sea:海
 seafood:海鲜
+seaman:海员
 seaport:海港
 search:搜索
 season:季节
@@ -396,6 +397,12 @@ solid metal:固态金属
 solid:固体的
 solitary:独自生存的
 solomon islands:所罗门群岛
+soluble in alcohol:溶于酒精
+soluble in boiling water:溶于沸水
+soluble in hot water:溶于热水
+soluble in warm water:溶于温水
+soluble in water:溶于水
+soluble:可溶解的
 solution:解决方案
 solve:解决
 solvent:溶剂
@@ -676,6 +683,7 @@ suspect:怀疑
 suspected:被怀疑的
 sustain:持续
 swallow:吞咽
+swamp:林湿地
 swan:天鹅
 swaziland:斯威士兰
 sweden:瑞典
