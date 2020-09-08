@@ -282,6 +282,7 @@ amputation:截肢
 amsterdam:阿姆斯特丹
 amulet:护身符
 amusement park:游乐园
+an organism:一个生物
 an:一个
 anaconda:蟒蛇
 anaerobic:厌氧的
@@ -411,10 +412,12 @@ archaea:古菌
 archaeocin:古菌素
 archaeologist:考古学家
 archaeology:考古学
+archaeon:古菌
 archaeopteryx:始祖鸟
 archieve:达到
 architect:建筑师
 architecture:建筑学
+architecture:架构
 archive:档案
 archived:已归档的
 arctic circle:北极圈
@@ -459,6 +462,7 @@ artificial:人工的
 artist:艺术家
 aruba:阿鲁巴
 as long as:只要
+as safe as possible:尽可能地安全
 as well as:同样地
 as you wish:如你所愿
 as:当作

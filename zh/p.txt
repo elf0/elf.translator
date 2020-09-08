@@ -34,6 +34,9 @@ parallel lines:平行线
 parallel:平行的
 parameter:参数
 parasite:寄生生物
+parasite:寄生虫
+parasitic worm:寄生虫
+parasitic:寄生的
 parasitism:寄生
 parasitology:寄生生物学
 paratroop:伞兵部队
@@ -49,6 +52,7 @@ parkway:景观大道
 parliament:国会
 parliamentary system:议会制
 parliamentary:议会的
+parlor:客厅
 parrot:鹦鹉
 parse:分析
 parser:分析器
@@ -179,6 +183,7 @@ physiology:生理学
 piano:钢琴
 picture:照片
 piecewise:分段的
+pierce:刺穿
 pig:猪
 pigment:颜料
 pigmentation:染色
@@ -218,8 +223,10 @@ players:玩家
 playground:游乐场
 please:请
 pleasure:乐意
+pleasure:欢愉
 plot:绘制
 plural:复数
+plurals:复数
 plus:加
 plus:正号
 pluto:冥王星
@@ -338,6 +345,7 @@ previous:前一个
 prey:捕食
 prey:猎物
 price:价格
+prick:鸡巴
 pridnestrovie:德涅斯特
 primary key:主键
 primary:基本的
@@ -396,6 +404,7 @@ propagation:传播
 propel:推进
 propeller:推进器
 propeller:螺旋桨
+properties of life:生命属性
 properties:属性
 property:属性
 property:拥有物
@@ -434,6 +443,8 @@ publication:出版
 publish:发表
 publisher:出版商
 puerto rico:波多黎各
+puke:吐
+puking:呕吐
 pull over:停车
 pull:拉
 pump:泵
