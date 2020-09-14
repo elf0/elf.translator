@@ -19,6 +19,7 @@ dart:飞镖
 darwin:达尔文
 data:数据
 database:数据库
+dataset:数据集
 date:日期
 date:约会
 daughter in law:儿媳
@@ -69,6 +70,7 @@ defence:防卫
 define:定义
 definite integral:定积分
 definition:定义
+deflea:除跳蚤
 deform:变形
 degree:度
 delegate:委托
@@ -114,6 +116,8 @@ dependency:依赖
 depends on:依赖于
 deploy:部署
 deployment:部署
+deprivation:剥夺
+deprive:剥夺
 depth:深度
 derail:出轨
 derivative:导数
@@ -216,6 +220,7 @@ disapproval:不赞成
 disaster relief:灾害救助
 disaster:灾害
 disclaim:放弃
+disclaimer:免责声明
 disco:迪斯科
 discount:折扣
 discovery:发现

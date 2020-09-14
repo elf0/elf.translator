@@ -1,7 +1,9 @@
 wage:工资
 waist:腰
 wait:等
+waiting staff:餐馆服务员
 waitress:女服务员
+waitstaff:餐馆服务员
 wake up:醒醒
 wake:醒
 wales:威尔士
@@ -99,11 +101,18 @@ what a fool you are:你真是个傻瓜
 what about me:我呢
 what about us:我们呢
 what about you:你呢
+what are the benefits:好处是什么
 what are we waiting for:我们在等什么
 what are you doing here:你在这儿做什么
+what are you doing there:你在那里做什么
 what are you doing:你在做什么
+what are you going to do:你要做什么
 what are you looking for:你在找什么
+what are you really asking:你到底在问什么
+what are you really doing here:你究竟在这里做什么
+what are you really trying to ask:你到底在尝试问什么
 what are you talking about:你在说些什么
+what are you trying to prove:你在尝试证明什么
 what are you waiting for:你在等什么
 what are you:你是什么
 what can i do:我能做什么
@@ -151,6 +160,8 @@ what should i do:我该怎么做
 what the fuck:什么鸡巴
 what time is it now:现在几点
 what would you do:你会怎么做
+what you need to know:你只需要知道
+what you see is what you get:所见即所得
 what you want:你想要什么
 what:什么
 whatever:无论什么
@@ -218,6 +229,7 @@ windstorm:风暴
 wine:酒
 wing:翅膀
 wings:翅膀
+wink:闭眼
 winner:胜利者
 winter olympics:冬季奥运会
 wireless:无线的
