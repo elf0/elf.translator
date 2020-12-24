@@ -205,6 +205,8 @@ algorithm:算法
 alias:别名
 alienate:疏远
 align:对直
+alimentary canal:食道
+alimentary:食物的
 alkali metal:碱金属
 alkali:碱
 alkane:烷烃
@@ -254,12 +256,17 @@ ambiguous:不明确的
 ambush:伏击
 america:美国
 america:美洲
+american author:美国作者
 american football player:橄榄球运动员
 american football:橄榄球
 american football:美式足球
+american lawyer:美国律师
+american rapper:美国说唱歌手
 american revolution:美国革命
 american revolutionary war:美国革命战争
+american singer:美国歌手
 american war of independence:美国独立战争
+american writer::美国作家
 american:美国人
 americans:美国人
 americium:镅
@@ -305,6 +312,7 @@ anal:肛门的
 analog signal:模拟信号
 analog:模拟的
 analysis:分析
+analytic geometry:解析几何
 analyzer:分析器
 anarchism:无政府主义
 anarchist:无政府主义者
@@ -359,6 +367,7 @@ announce:宣告
 annual meeting:年会
 anode:正极
 anonymous:匿名的
+another way:另一个方法
 another:另一个
 answer my question:回答我的问题
 answer:回答
@@ -439,6 +448,7 @@ are you sure:你确定吗
 are:是
 area:地区
 area:面积
+area:领域
 arena:竞技场
 argentina:阿根廷
 argentine:阿根廷
@@ -477,6 +487,7 @@ aruba:阿鲁巴
 as long as:只要
 as safe as possible:尽可能地安全
 as well as:同样地
+as you see:如你所见
 as you wish:如你所愿
 as:当作
 asexual reproduction:无性繁殖
@@ -497,6 +508,8 @@ assembly:汇编
 assess:评估
 asset:资产
 asshole:屁眼
+assimilate:消化
+assimilation:同化
 assist:协助
 assistant:助手
 assistants:助手
@@ -515,9 +528,12 @@ astronomical:天文学的
 astronomy:天文学
 asylum:庇护
 asynchronous:异步的
+at a time:一次
+at compile time:在编译时
 at first:首先
 at least:至少
 at once:立刻
+at runtime:在运行时
 at the same time:与此同时
 at the top level:在顶层
 at:在
@@ -532,6 +548,7 @@ atlas:地图册
 atmosphere:大气
 atmospheric:大气的
 atom:原子
+atomic nucleus:原子核
 atomic number:原子序数
 atomic weight:原子量
 atomic:原子的
