@@ -52,8 +52,8 @@ barrier:屏障
 baryon:重子
 base:基地
 base:基质
-baseball player:棒球运动员
 baseball:棒球
+baseball player:棒球运动员
 based on:基于
 based:基于
 bashar:巴沙尔
@@ -70,6 +70,7 @@ battalion:大队
 battalion:营
 battery:电池
 battle:战役
+battlefield:战场
 battleground:战场
 battleship:战舰
 bay:海湾
@@ -103,6 +104,7 @@ beautiful:美丽的
 beauty:美人
 became:成为
 because:因为
+because of this:因此
 become:成为
 bed:床
 bee:蜜蜂
@@ -183,7 +185,6 @@ blame:责备
 blank:空白的
 blanket:毛毯
 blanket:被子
-blasphemy:亵渎
 bless:祝福
 blessing:祝福
 blind:盲的
@@ -216,6 +217,9 @@ boiling point:沸点
 boiling water:沸水
 bolivia:玻利维亚
 bomb:炸弹
+bomber:轰炸机
+bomber:自爆人
+bombers:自爆人
 bombing:爆炸
 boner:勃起的鸡巴
 bonus:奖金
@@ -238,7 +242,6 @@ botany:植物学
 both:两者都
 bother:烦
 botswana:博茨瓦纳
-bottleneck:瓶颈
 bottom:底
 bouncy castle:充气城堡
 boundary:边界
@@ -295,10 +298,6 @@ brig:双桅帆船
 brigade:旅
 bright:明亮的
 brighten:变亮
-bring her back:带她回来
-bring her here:带她过来
-bring her home:带她回家
-bring her in:带她进来
 britain:英国
 british:英国的
 broad:宽阔的
@@ -316,7 +315,6 @@ brown:褐色
 bruce lee:李小龙
 bruce:布鲁斯
 brunei:文莱
-bucket:桶
 bucktooth:獠牙
 buddhism:佛教
 buddy:伙伴
@@ -360,8 +358,16 @@ button:按钮
 button:钮扣
 buy:买
 by the way:顺便提一下
+by default:默认情况下
 by:被
 bystander:旁观者
 bystanders:旁观者
 byte:字节
+bring her back:带她回来
+bring her home:带她回家
+bring her here:带她过来
+bring her in:带她进来
+bucket:桶
+blasphemy:亵渎
+bottleneck:瓶颈
 :

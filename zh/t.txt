@@ -11,6 +11,7 @@ talk:谈话
 tamil:泰米尔人
 tank:坦克
 tanker:油轮
+tantalize:调戏
 tantalum:钽
 tanzania:坦桑尼亚
 tap water:自来水
@@ -49,6 +50,7 @@ television:电视
 tell me about your family:跟我讲讲你的家庭
 tell me everything:告诉我一切
 tell me:告诉我
+tell me why:告诉我为什么
 tell:告诉
 tellurium:碲
 temperature:温度
@@ -61,8 +63,8 @@ tendency:倾向
 tengri:腾格里
 tengrism:腾格里崇拜
 tennessee:田纳西州
-tennis player:网球运动员
 tennis:网球
+tennis player:网球运动员
 tension:紧张
 tensor:张量
 tent:帐篷
@@ -82,7 +84,6 @@ terse:简洁的
 tesla:特斯拉
 test:测试
 texas:德克萨斯
-text to speech:文本转语音
 text:文本
 textile arts:纺织艺术
 textile:纺织品
@@ -100,6 +101,7 @@ thank:感谢
 thanks:多谢
 that is because:那是因为
 that is mine:那是我的
+that is not what i said:那不是我说的
 that is right:正确
 that is why:那就是为什么
 that:那
@@ -110,8 +112,8 @@ the film is about:这部电影是关于
 the first person:第一人
 the first round:第一场
 the first time:第一次
+the following is a list of works:以下是一个作品列表
 the movie is about:这部电影是关于
-the new york:纽约
 the novel is about:这部小说是关于
 the people's republic of bangladesh:孟加拉人民共和国
 the people's republic of china:中华人民共和国
@@ -119,11 +121,7 @@ the people's republic of kenya:肯尼亚人民共和国
 the people's republic of mongolia:蒙古人民共和国
 the people's republic of ukraine:乌克兰人民共和国
 the song is about:这首歌曲是关于
-the soviet union:苏联
 the story is about:这个故事是关于
-the united kingdom:英国
-the united states:美国
-the university of chicago:芝加哥大学
 the washington post:华盛顿邮报
 the:这
 theater:剧场
@@ -139,6 +137,8 @@ theorem:定理
 theory:理论
 therapy:疗法
 there is nothing to be afraid of:没什么可怕的
+there is no reason to believe:没有理由相信
+there is a lot of:有很多
 there must be a way:一定有办法
 there must be some way:一定有某种办法
 there:那里
@@ -248,6 +248,7 @@ toothpaste:牙膏
 top level:顶层
 top:顶部
 topic:主题
+topmost:最顶
 torch:火炬
 tornado:龙卷风
 toronto:多伦多
@@ -326,7 +327,6 @@ trinidad and tobago:特立尼达和多巴哥
 trip:旅程
 troop:军队
 troops:军队
-trophy:战利品
 tropical region:热带地区
 tropical:热带的
 truck bomb:卡车炸弹
@@ -335,6 +335,7 @@ true:真的
 trump:特朗普
 trunk:躯干
 trust:信任
+trust me:相信我
 truth:真相
 try:尝试
 tsinghua university:清华大学
@@ -365,10 +366,19 @@ twilight:暮光
 twilight:曙光
 twist:扭曲
 two:二
+two years later:两年以后
 type:类型
 typhoon:台风
 typical:典型的
 typo:误字
 tyranny:极权
 tyrant:暴君
+the united states:美国
+the new york:纽约
+the soviet union:苏联
+the university of chicago:芝加哥大学
+the united kingdom:英国
+trophy:战利品
+text to speech:文本转语音
+take it easy:放松
 :

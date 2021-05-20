@@ -12,6 +12,9 @@ observer:观察者
 obsolete:废弃的
 obstacle:障碍
 obtain:获得
+obtain help:获得帮助
+obtain information:获得信息
+obtain permission:获得许可
 occasionally:偶尔
 occupation:职业
 ocean:海洋
@@ -63,14 +66,15 @@ on the other hand:另一方面
 on the screen:在屏幕上
 on the street:在街上
 on:上面
-once upon a time:从前
-once upon a time:很久很久以前
 once:一次
+once upon a time:很久很久以前
+once upon a time:从前
 one after another:一个接一个地
 one by one:一个接一个
+one hundred:一百
 one hundred dollars:一百美元
 one hundred pounds:一百英镑
-one hundred:一百
+one more time:再一次
 one:一
 online:在线
 only:只有
@@ -126,8 +130,10 @@ other:其他的
 otherwise:否则
 our:我们的
 out:外
+out of rang:越出范围
 outbreak:爆发
 outdoor:户外的
+outdated:过期的
 outer layer:外层
 outer space:外层空间
 outer space:太空
@@ -153,12 +159,16 @@ owner:物主
 ownership:所有权
 ox eye daisy:春白菊
 ox:牛
-oxford university press:牛津大学出版社
 oxford university:牛津大学
+oxford university press:牛津大学出版社
 oxford:牛津大学
 oxide:氧化物
+oxidane:水
 oxygen atom:氧原子
 oxygen:氧
 oxytocin:催产素
 ozone:臭氧
+on demand:按需
+overflow:溢出
+overfit:过拟合
 :

@@ -1,9 +1,7 @@
 wage:工资
 waist:腰
 wait:等
-waiting staff:餐馆服务员
 waitress:女服务员
-waitstaff:餐馆服务员
 wake up:醒醒
 wake:醒
 wales:威尔士
@@ -66,6 +64,8 @@ way:路
 we have to fight:我们得战斗
 we need help:我们需要帮助
 we won the war:我们赢得了战争
+we will never give up:我们绝不放弃
+we will never concede:我们绝不退让
 we:我们
 weak:弱的
 wealth:财富
@@ -83,6 +83,7 @@ weekend:周末
 weight:重量
 weird:怪异的
 welcome:欢迎
+welcome back:欢迎回来
 welfare:福利
 well being:福利
 well defined:定义良好的
@@ -97,72 +98,6 @@ western:西方的
 wetland:湿地
 wetlands:湿地
 whale:鲸
-what a fool you are:你真是个傻瓜
-what about me:我呢
-what about us:我们呢
-what about you:你呢
-what are the benefits:好处是什么
-what are we waiting for:我们在等什么
-what are you doing here:你在这儿做什么
-what are you doing there:你在那里做什么
-what are you doing:你在做什么
-what are you going to do:你要做什么
-what are you looking for:你在找什么
-what are you really asking:你到底在问什么
-what are you really doing here:你究竟在这里做什么
-what are you really trying to ask:你到底在尝试问什么
-what are you talking about:你在说些什么
-what are you trying to prove:你在尝试证明什么
-what are you waiting for:你在等什么
-what are you:你是什么
-what can i do:我能做什么
-what can i say:我能说什么
-what did he say:他说了什么
-what did i tell you:我跟你说什么来着
-what did you dream:你梦见什么了
-what did you say:你说什么
-what do i owe you:我欠你什么
-what do they want:他们想要什么
-what do you know:你知道些什么
-what do you mean:你是什么意思
-what do you think:你怎么想
-what do you want me to do:你想我怎么做
-what do you want to do:你想做什么
-what do you want to eat:你想吃什么
-what do you want:你想要什么
-what does it mean:那意味着什么
-what does that mean:那是什么意思
-what does this mean:这是什么意思
-what happened there:那儿发生了什么事
-what happened to him:他发生了什么事
-what happened to you:你发生了什么事
-what happened:发生了什么
-what have we done:我们干了什么
-what have you done:你干了什么
-what i like about you:我喜欢你什么
-what if i refuse:如果我拒绝呢
-what is it:它是什么
-what is love:爱是什么
-what is that mean:那是什么意思
-what is that:那是什么
-what is the matter with you:你有什么毛病
-what is the plan:计划是什么
-what is the point of it:它的意义是什么
-what is the point:意义是什么
-what is this place:这是什么地方
-what is this:这是什么
-what is truth:真相是什么
-what is wrong with you:你有什么毛病
-what is your name:你叫什么名字
-what next:下一步怎么办
-what now:现在怎么办
-what should i do:我该怎么做
-what the fuck:什么鸡巴
-what time is it now:现在几点
-what would you do:你会怎么做
-what you need to know:你只需要知道
-what you see is what you get:所见即所得
-what you want:你想要什么
 what:什么
 whatever:无论什么
 wheat:小麦
@@ -200,6 +135,7 @@ whole:整个
 whore:婊子
 whorehouse:妓院
 whose:谁的
+why did you lie to me:你为什么骗我
 why did you stop him:你为什么阻止他
 why me:为什么是我
 why not:为什么不
@@ -285,4 +221,6 @@ writing:写作
 wrong:错的
 wrote:写下
 www:万维网
+waiting staff:餐馆服务员
+waitstaff:餐馆服务员
 :

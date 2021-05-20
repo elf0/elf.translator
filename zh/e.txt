@@ -7,16 +7,21 @@ earliest evidence:最早的证据
 earliest:最早的
 early life:早年生活
 early:早期的
-earn:挣
 earphones:耳机
 earth:地球
 earthfall:滑坡
 earthquake:地震
 east africa:东非
 east:东
+east india company:东印度公司
 easter:复活节
 eastern:东方的
 easy:容易
+easy to find:容易找到
+easy to read:容易阅读
+easy to see:容易弄清楚
+easy to use:容易使用
+easy to understand:容易理解
 eat:吃
 eater:食者
 eaters:食者
@@ -37,7 +42,9 @@ editable:可编辑的
 edition:版本
 editor:编辑器
 editor:编辑者
+educator:教师
 education:教育
+education level:教育水平
 edward:爱德华
 effect:作用
 effect:影响
@@ -48,6 +55,7 @@ efficient:高效的
 egg:卵
 egg:蛋
 eggs:蛋
+ego:自我
 egypt:埃及
 egyptian:埃及人
 eight:八
@@ -75,14 +83,16 @@ electoral:选举的
 electric charge:电荷
 electric current:电流
 electric field:电场
-electric:电
-electrical engineering:电子工程
+electric circuit:电路
+electric:电的
 electromagnetic field:电磁场
+electromagnetic force:电磁力
 electromagnetic:电磁的
 electromagnetism:电磁学
 electron affinity:电子亲合性
 electron:电子
 electronic:电子的
+electronic circuit:电路
 elegance:优雅
 element:元素
 elements:元素
@@ -103,6 +113,7 @@ embedded:嵌入的
 embodies:表达
 embody:表达
 emerge:露出
+emigrant:移民
 emigrate:迁出
 emigration:迁出
 emission:排放
@@ -199,6 +210,7 @@ estuary:河口
 ethanol:乙醇
 ether:醚
 ethiopia:埃塞俄比亚
+ethnic:种族的
 ethnicity:民族
 ethnography:民族学
 ethnology:民族学
@@ -216,6 +228,7 @@ evangelism:福音主义
 evangelize:传福音教
 evaporate:蒸发
 eve:夏娃
+even:甚至
 even function:偶函数
 even if:即使
 even though:即使
@@ -225,6 +238,7 @@ event:事件
 ever:曾经
 every:每一个
 everyone:每个人
+everyone lied to me:所有人都骗我
 everything:一切
 everywhere:处处
 evidence:证据
@@ -238,6 +252,7 @@ excitating:令人兴奋的
 excitation:兴奋
 exclamation:感叹
 execution:执行
+execution:处决
 executive:执行的
 exercise:练习
 exercises:练习
@@ -254,6 +269,7 @@ expensive:昂贵的
 experience:体验
 experiment:实验
 experimental:实验的
+experimental mathematics:实验数学
 expert:专家
 explain:解释
 explains:解释
@@ -281,4 +297,12 @@ extraordinary:非凡的
 extreme:极端的
 eyebrow:眉毛
 eyelash:睫毛
+earn:挣
+electrical engineering:电子工程
+easily customizable:容易定制的
+enumeration:枚举
+expression:表达
+elide:省略
+evaporation:汽化
+elbow:肘
 :

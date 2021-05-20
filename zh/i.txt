@@ -3,16 +3,25 @@ i am exhausted:我已经筋疲力尽了
 i am joking:我开玩笑的
 i am lucky:我很幸运
 i am sorry:对不起
+i am scared:我被吓到了
 i am terrified:我被吓到了
 i am tired:我累了
+i am not telling you anything:我什么都不会告诉你
 i asked:我问道
-i do not care:我不在乎
-i do not know:我不知道
-i do not think so:我不这样认为
-i do not want to die:我不想死
+i do not think:我不认为
+i do what i like to do:我喜欢做什么就做什么
+i will see what i can do:我来看看我能做什么
+i will see what i can find:我来看看我能发现什么
+i will repeat what i said one more time:我再次重复我所说的
+i know nothing:我什么都不知道
+i am not sure:我不确定
 i have a better idea:我有一个更好的主意
 i have to talk to you:我得和你谈谈
+i have no choice:我没得选
+i hope you:我希望你
+i hope you are ready:我希望你准备好了
 i know:我知道
+i lied to you:我骗了你
 i love you:我爱你
 i mean it:我是认真的
 i need to know:我需要知道
@@ -25,7 +34,6 @@ ice cream:冰淇淋
 ice cube:冰块
 ice cubes:冰块
 ice field:冰地
-ice hockey:冰球
 ice sheet:冰原
 ice skates:溜冰鞋
 ice water:冰水
@@ -79,6 +87,7 @@ import:导入
 importance:重要性
 important:重要的
 improve:改进
+improve performance:改进性能
 impulse:冲动
 impulsive:冲动的
 impulsively:冲动地
@@ -92,11 +101,15 @@ in order that:为了
 in order to:为了
 in other words:换句话说
 in place of:代替
+in north america:在北美
+in roman times:在罗马时代
 in response to:回应
+in recent years:在最近这些年
 in summer:在夏季
 in the classical description:在经典描述中
 in the following few years:在接下来的几年
 in the western world:在西方世界
+in the same year:在同一年
 in this area:在这个区域
 in this article:在这篇文章中
 in this battle:在这场战役中
@@ -105,6 +118,7 @@ in this case:在这个案例中
 in this case:在这种情况
 in this cases:在这些案例中
 in this chapter:在这一章
+in this context:在此上下文中
 in this decade:在这十年
 in this definition:在这个定义中
 in this depiction:在这个叙述中
@@ -134,6 +148,7 @@ increase:增加
 incredible:不可思议的
 increment:增量
 incubation:孵化
+indeed:事实上
 indefinite integral:不定积分
 indefinite:不确定的
 indefinitely:无限地
@@ -159,6 +174,7 @@ indonesian:印尼语
 indra:因陀罗
 induction variable:归纳变量
 industry:工业
+industry standard:工业标准
 inequality:不等式
 inexperience:缺乏经验
 infancy:婴儿期
@@ -204,6 +220,7 @@ inorganic compound:无机化合物
 inorganic:无机的
 inpatient:住院病人
 input:输入
+input device:输入设备
 insect:昆虫
 insecten:昆虫
 insects:昆虫
@@ -281,6 +298,7 @@ interstate:州际高速公路
 intertwine:缠绕
 interval:间隔
 interview:采访
+intestine:肠子
 into:进入
 introduce:介绍
 introduction:引言
@@ -338,25 +356,7 @@ israeli:以色列人
 israeli:以色列的
 issue:问题
 istanbul:伊斯坦布尔
-it is believed that:据信
-it is known from:对它的认知源自
-it is too bad:那太糟糕了
-it is too big:那太大了
-it is too dark:太暗了
-it is too difficult:那太难了
-it is too early:那太早了
-it is too easy:那太容易了
-it is too far:那太远了
-it is too hot:那太热了
-it is too large:那太大了
-it is too late for me:那对我来说太迟了
-it is too late:那太迟了
-it is too long:那太长了
-it is too narrow:那太窄了
-it is too short:那太短了
-it is too simple:那太简单了
-it is too small:那太小了
-it is up to you:那取决于你
+it doesn't matter:没关系
 it was not your fault:那不是你的错
 it:它
 italia:意大利
@@ -365,9 +365,13 @@ italian:意大利语
 italy:意大利
 itch:瘙痒
 item:项
+items:项
 iteration:迭代
 its:它的
 itself:它自己
 ivory coast:科特迪瓦
 ivy:常春藤
+ice hockey:冰球
+infrequent:不常见
+incorporate:合并
 :

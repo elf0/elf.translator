@@ -10,9 +10,9 @@ fair:公平的
 faith:信仰
 fake:假的
 falcon:猎鹰
-fall asleep:入睡
 fall:沦陷
 fall:落下
+fall asleep:入睡
 fallujah:费卢杰
 false:假的
 falsehood:谬误
@@ -149,8 +149,6 @@ flammagenitus:火积云
 flare:闪耀
 flatus:屁
 flea:跳蚤
-flea:除跳蚤
-fleas:跳蚤
 flexible:灵活的
 flight:飞行
 flightpath:飞行路线
@@ -178,6 +176,7 @@ follower:追随者
 following:后面的
 following:接下来的
 font:字体
+font file:字体文件
 food additive:食品添加剂
 food chain:食物链
 food:食物
@@ -194,7 +193,9 @@ for example:例如
 for the first time:第一次
 for the same purpose:为了这个相同的目的
 for the same reason:因为这个相同的原因
-for:为
+for that reason:因为那个原因
+for this reason:因为这个原因
+for:为了
 force:力量
 forced labour:被强制的工人
 foreign key:外键
@@ -204,12 +205,14 @@ foreign:外国的
 forest:森林
 forever:永远
 forget:忘记
+forget what i said about:忘记我说的关于
 forgive:原谅
 forgiveness:宽恕
 fork:叉子
 form:形式
 formaldehyde:甲醛
 format:格式
+formats:格式
 formation:编队
 former:前
 formosan:台湾人
@@ -241,12 +244,24 @@ francis:弗朗西斯
 francisco:弗朗西斯科
 frank:弗兰克
 freak:畸形
+freezing:冰冻的
 free will:自由意志
 free:免费的
 free:自由的
 freedom:自由
+freedom of abortion:堕胎的自由
+freedom of assembly:集会的自由
+freedom of association:结社的自由
+freedom of choice:选择的自由
+freedom of expression:表达的自由
+freedom of information:信息的自由
+freedom of religion:宗教的自由
+freedom of speech:说话的自由
+freedom of the press:出版的自由
 freeway:高速公路
 french:法国人
+french actor:法国演员
+french noble:法国贵族
 french:法语
 frenzy:狂躁
 frequency:频率
@@ -279,10 +294,12 @@ fuck:干
 fuel:燃料
 full:全部
 fully:完全地
+fully customizable:完全可定制的
 function of time:关于时间的函数
 function:函数
 functions:函数
 fundamental concepts:基本概念
+fundamental force:基本力
 fundamental:基本的
 fungi:真菌
 fungus:真菌
@@ -296,4 +313,9 @@ fury:勃然大怒
 fury:暴怒
 fusion:融合
 future:未来
+flea:跳蚤
+flea:除跳蚤
+fleas:跳蚤
+finally:最终
+freshman:新生
 :

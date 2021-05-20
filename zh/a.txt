@@ -204,7 +204,8 @@ algerian:阿尔及利亚人
 algorithm:算法
 alias:别名
 alienate:疏远
-align:对直
+align:对齐
+alignment:对齐
 alimentary canal:食道
 alimentary:食物的
 alkali metal:碱金属
@@ -213,6 +214,7 @@ alkane:烷烃
 all:全体
 all:全部
 all:所有
+all my life:我的一生
 allen:艾伦
 allergy:过敏
 alley:巷
@@ -399,6 +401,7 @@ antonyms:反义词
 any:任何
 anyone:任何人
 anything:任何事
+anyway:无论如何
 ape:猿
 apex predator:顶端捕食者
 aphasia:失语症
@@ -445,6 +448,7 @@ archived:已归档的
 arctic circle:北极圈
 arctic:北极
 are you sure:你确定吗
+are you telling me that:你要告诉我
 are:是
 area:地区
 area:面积
@@ -599,4 +603,5 @@ axes:斧
 axis:轴
 axon:轴突
 azerbaijan:阿塞拜疆
+anxiety:焦虑
 :

@@ -118,6 +118,7 @@ security:安全
 seduce:诱惑
 seduction:诱惑
 see:看见
+see you again:再见到你
 seek:寻找
 seems:看起来
 seize:抓住
@@ -217,8 +218,8 @@ shallow water:浅水
 shallow:浅的
 shaman:萨满教巫医
 shamanism:萨满教
-shame on you:你应该感到羞耻
 shame:羞耻
+shame on you:你应该感到羞耻
 shannon:香农
 share:分享
 sharer:共享者
@@ -319,16 +320,15 @@ slang:俚语
 slash:斜杠
 slave:奴隶
 slavery:奴隶制
-sleep deprivation:睡眠剥夺
+sleep:睡
+sleep with her:和她睡觉
 sleep with her:和她上床
 sleep with her:和她做爱
-sleep with her:和她睡觉
-sleep:睡
+sleep deprivation:睡眠剥夺
 sleeper:入睡者
 sleeping beauty:睡美人
 sleepless:失眠的
 sleeplessness:失眠
-sleepwalk:梦游
 sleepy:困的
 sleepy:瞌睡来的
 slice:切片
@@ -343,7 +343,6 @@ slow:慢的
 slower:更慢的
 slowest:最慢的
 slug:鼻涕虫
-slumber:浅睡
 slurp:发出噪音地吃喝
 slut:荡妇
 small animal:小型动物
@@ -381,8 +380,8 @@ soap:肥皂
 sober:未醉的
 sober:醒酒
 soccer:足球
-social group:社团
 social media:社交媒体
+social group:社团
 social relationship:社会关系
 social science:社会科学
 social:社会的
@@ -408,7 +407,9 @@ solar system:太阳系
 solar:太阳的
 sold:卖
 soldier:士兵
+sole:脚底板
 solid metal:固态金属
+solid state:固态
 solid:固体的
 solitary:独自生存的
 solomon islands:所罗门群岛
@@ -420,6 +421,7 @@ soluble in water:溶于水
 soluble:可溶解的
 solution:解决方案
 solve:解决
+solve the problem:解决这个问题
 solvent:溶剂
 solver:解算器
 soma:肉体
@@ -430,9 +432,9 @@ somatic:肉体的
 some:一些
 someone:某人
 something:东西
+something else:其它一些东西
 sometimes:有时
 somewhere:某处
-somnambulate:梦游
 son in law:女婿
 son:儿子
 song:歌
@@ -444,6 +446,7 @@ sorry:抱歉
 sort:种类
 soul:灵魂
 sound:声音
+sound effect:音效
 soup:汤
 sour milk:酸奶
 source code:源代码
@@ -459,8 +462,8 @@ southeast:东南
 southern:南方的
 southwest:西南
 sovereign state:主权独立国家
-soviet union:苏联
 soviet:苏维埃
+soviet union:苏联
 soy:酱油
 space station:空间站
 space time:时空
@@ -484,14 +487,14 @@ special:特别的
 specialist:专科医生
 specialized:专门的
 species:物种
+specific:特定的
 specification:规范
 specified:指定的
 specify:指定
 spectrum:光谱
 specular:镜面的
-speech recognition:语音识别
 speech synthesis:语音合成
-speech to text:语音转文本
+speech recognition:语音识别
 speech:语音
 speech:说话
 speed:速度
@@ -545,6 +548,7 @@ starlike:像星星的
 start:开始
 starvation:饥饿
 starve:饿死
+starbucks:星巴克
 state terrorism:国家恐怖主义
 state:国家
 state:州
@@ -747,4 +751,14 @@ syria:叙利亚
 system wide:系统范围
 system:系统
 systems:系统
+somnambulate:梦游
+sleepwalk:梦游
+slumber:浅睡
+speech to text:语音转文本
+smart phone:智能手机
+smart watch:智能手表
+slot:槽
+suture:缝合
+strain:紧张
+superset:超集
 :

@@ -70,7 +70,6 @@ defence:防卫
 define:定义
 definite integral:定积分
 definition:定义
-deflea:除跳蚤
 deform:变形
 degree:度
 delegate:委托
@@ -79,6 +78,7 @@ deleted:已删除的
 deletion:删除
 deletion:缺失
 deliver:输送
+delusional:妄想的
 demand:需求
 democracy:民主
 democratic party:民主党
@@ -116,8 +116,6 @@ dependency:依赖
 depends on:依赖于
 deploy:部署
 deployment:部署
-deprivation:剥夺
-deprive:剥夺
 depth:深度
 derail:出轨
 derivative:导数
@@ -220,7 +218,6 @@ disapproval:不赞成
 disaster relief:灾害救助
 disaster:灾害
 disclaim:放弃
-disclaimer:免责声明
 disco:迪斯科
 discount:折扣
 discovery:发现
@@ -263,9 +260,6 @@ division:除法
 divorce:离婚
 djibouti:吉布提
 dna:脱氧核糖核酸
-do not do that:别那样做
-do not move:别动
-do not shoot:别开枪
 do you know where you are:你知道你在哪儿吗
 do you know why:你知道为什么吗
 do your best:尽力
@@ -357,4 +351,16 @@ dynamical systems theory:动态系统理论
 dynamics:动力学
 dynasty:朝代
 dysfunction:功能障碍
+deprive:剥夺
+deprivation:剥夺
+deflea:除跳蚤
+disclaimer:免责声明
+dull:钝
+diagonal:对角
+digest:消化
+digestion:消化
+digestive:消化
+digestive system:消化系统
+duct:导管
+distress:难受
 :

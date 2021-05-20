@@ -286,6 +286,7 @@ modeling:建模
 modern:现代的
 modify:修改
 module:模块
+modules:模块
 moiety:一半
 moist:湿润的
 moisten:弄湿
@@ -369,11 +370,10 @@ mouthwash:漱口水
 move:移动
 movement:移动
 movie:电影
-mow:割草
 mozambique:莫桑比克
 mtv:音乐电视
-much more complex:复杂得多
 much:许多
+much more complex:复杂得多
 mud:泥
 mudslide:滑坡
 mug:杯子
@@ -396,6 +396,7 @@ musician:音乐家
 musicology:音乐学
 muslim:穆斯林
 must:必须
+must not:一定不能
 mustelidae:鼬科
 mutable:不稳定的
 mutation:突变
@@ -405,4 +406,10 @@ myanmar:缅甸
 myself:我自己
 mystical:神秘的
 mythology:神话
+mow:割草
+metric:度量
+mandatory:强制的
+magnitude:大小
+magnitude:强度
+macau:澳门
 :

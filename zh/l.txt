@@ -71,6 +71,7 @@ led:发光二极管
 lee:李
 left branch:左分支
 left:左
+leftmost:最左
 leftover:残留物
 legal guardian:法定监护人
 legal term:法律术语
@@ -93,8 +94,11 @@ less than:小于
 less:少的
 lesson:课程
 let me out:让我出去
+let me repeat what i said:让我重复我所说的
+let me see what i can do for you:让我看看能为你做些什么
 let me take a look:让我看看
 let's go:我们走
+let's get started:让我们开始吧
 let:让
 letter:信
 letter:字母
@@ -137,8 +141,8 @@ limit:极限
 limit:限制
 limits:极限
 lincoln:林肯
-line by line:一行接一行
 line feed:换行
+line by line:一行接一行
 line:线
 lineal descendant:直系后代
 linear algebra:线性代数

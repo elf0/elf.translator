@@ -21,8 +21,8 @@ call girl:应召女郎
 call:打电话给
 calm down:冷静
 cambodia:柬埔寨
-cambridge university press:剑桥大学出版社
 cambridge university:剑桥大学
+cambridge university press:剑桥大学出版社
 cambridge:剑桥
 camel:骆驼
 camera:相机
@@ -34,6 +34,7 @@ can you hear me:你能听到我说话吗
 can:能
 canada:加拿大
 canadian:加拿大人
+canal:运河
 cancel:取消
 cancer:癌
 candidate:候选人
@@ -151,6 +152,7 @@ cervical:子宫颈的
 cervical:脖子的
 chad:乍得
 chain:链条
+chain:连锁
 chair:椅子
 chairman:主席
 chalcogen:氧族元素
@@ -169,6 +171,7 @@ channel:通道
 chaos theory:混沌理论
 chaos:混乱
 chaos:混沌
+chaplain:牧师
 chapter:章
 character:字符
 character:角色
@@ -177,6 +180,7 @@ characteristics:特性
 characters:字符
 charge:控告
 charge:收费
+charge:电荷
 charles:查尔斯
 chart:图表
 charts:图表
@@ -201,6 +205,7 @@ chemical engineering:化学工程
 chemical factory:化工厂
 chemical formula:化学式
 chemical industry:化学工业
+chemical properties:化学属性
 chemical reaction:化学反应
 chemical structure:化学结构
 chemical symbol:化学符号
@@ -358,6 +363,7 @@ color:颜色
 colorado:科罗拉多州
 coloration:染色
 colorless:无色的
+colored:彩色的
 colour:颜色
 columbia:哥伦比亚
 column:列
@@ -399,6 +405,7 @@ comparative:比较的
 compare:比较
 compass:罗盘
 competition:竞争
+compilation:编译
 compile:编译
 compiler:编译器
 complete:完成
@@ -408,6 +415,7 @@ component:组件
 compound sentence:并列复合句
 compound:化合物
 compounds:化合物
+computer graphics:计算机图形
 computer network:计算机网络
 computer programming:计算机编程
 computer system:计算机系统
@@ -531,7 +539,6 @@ core:核心
 corn:包谷
 corn:玉米
 corner:角落
-cornerback:侧卫
 corporal:身体的
 corporation:公司
 correct:正确的
@@ -583,6 +590,7 @@ craft:航行器
 crap:屎
 crap:废物
 crap:废话
+crappy:烂
 crazy:疯狂
 create:创造
 created:已创建的
@@ -663,4 +671,13 @@ cyclone:飓风
 cyprus:塞浦路斯
 czech:捷克
 czech:捷克语
+cornerback:侧卫
+customizable:可定制的
+completely customizable:完全可定制的
+coherence:连续性
+container:容器
+coulomb:库仑
+coulomb force:库仑力
+crane:鹤
+conscience:良心
 :

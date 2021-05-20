@@ -72,6 +72,7 @@ past:过去的
 paste:粘贴
 pastor:牧师
 patent:专利
+patents:专利
 path:路径
 pathogenic:致病的
 patience:耐心
@@ -170,6 +171,7 @@ phylum:门
 physical constant:物理常量
 physical exercise:身体锻炼
 physical law:物理定律
+physical properties:物理属性
 physical science:物理学
 physical system:物理系统
 physical therapy:物理治疗
@@ -195,12 +197,10 @@ pimpinella anisum:茴芹
 pinball:弹珠台
 pineapple:菠萝
 pink:粉红色
-pint:品脫
 pirate:海盗
 piratical:海盗的
 piss:尿
 pistol:手枪
-pitcher:罐子
 pixel:像素
 place of birth:出生地
 place:地方
@@ -240,7 +240,6 @@ point of view:观点
 point out:指出
 point:点
 point:要点
-pointer:指针
 points:点
 poisonous:有毒的
 poker:扑克
@@ -248,6 +247,7 @@ poland:波兰
 polar bear:北极熊
 polar coordinate:极坐标
 polar:极性的
+polarity:极性
 police:警察
 policy:政策
 polish:波兰语
@@ -255,6 +255,7 @@ politic:策略的
 political equality:政治平等
 political leader:政治领袖
 political prisoner:政治犯
+political conflict:政治冲突
 political:政治的
 politician:政客
 politician:政治家
@@ -266,11 +267,12 @@ polynomials:多项式
 polyploid:多倍体
 pond:池塘
 poor:贫穷的
+poop:拉屎
 pop:弹出
 pope:教皇
 popular:流行的
 population census:人口普查
-population density:人口密度
+population data:人口数据
 population:人口
 pork:猪肉
 pornographic film:色情电影
@@ -299,7 +301,6 @@ posthumously:死后
 potassium:钾
 potato:土豆
 pottery:陶器
-pound:英镑
 poverty:贫穷
 powder:粉末
 power function:幂函数
@@ -342,10 +343,11 @@ preserve:保持
 president:总统
 presidential election:总统选举
 presidential:总统的
-press:出版社
 press:按
+press:出版社
 pressure:压力
 presume:假定
+pretty sure:十分确定
 prevent:预防
 previous:前一个
 prey:捕食
@@ -360,8 +362,6 @@ prime:主要的
 primitive:基本的
 prince:王子
 princess:公主
-princeton university:普林斯顿大学
-princeton:普林斯顿
 principle:原理
 print:打印
 prison:监狱
@@ -383,11 +383,11 @@ producer:制作人
 producer:生产者
 product:产品
 production:产品
-professional footballer:职业足球运动员
-professional player:职业玩家
-professional player:职业运动员
 professional:专业的
 professional:职业的
+professional player:职业运动员
+professional player:职业玩家
+professional footballer:职业足球运动员
 professor:教授
 profile:轮廓
 profound:极深的
@@ -489,4 +489,17 @@ pythagoras:毕达哥拉斯
 pythagorean:毕达哥拉斯的
 python:蟒蛇
 pyxis:罗盘座
+pitcher:罐子
+pint:品脫
+princeton:普林斯顿
+princeton university:普林斯顿大学
+population density:人口密度
+pointer:指针
+pound:英镑
+pseudo:伪
+permit:许可
+permission:许可
+pee:撒尿
+peep:眯眼偷看
+peep:轻声说
 :

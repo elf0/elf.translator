@@ -16,6 +16,7 @@ gandhi:甘地
 garden:花园
 gas:燃气
 gaseous:气态的
+gaseous state:气态
 gastronomy:烹饪学
 gate:大门
 gateway:网关
@@ -54,6 +55,8 @@ geometric:几何的
 geometry:几何学
 george:乔治
 georgia:格鲁吉亚
+german actor:德国演员
+german noble:德国贵族
 german:德国人
 german:德语
 germanium:锗
@@ -61,6 +64,7 @@ germany:德国
 gestapo:纳粹秘密警察
 gesture:手势
 get hurt:受伤
+get out of here:出去
 get:得到
 ghana:加纳
 ghost:鬼魂
@@ -76,9 +80,10 @@ give up:放弃
 give:给
 given name:名
 given:给予的
+given:给定的
 glacier:冰川
 glans:龟头
-glass:眼镜
+glass:玻璃
 glasses:眼镜
 glimpse:瞄一眼
 glitter bomb:闪光弹
@@ -92,8 +97,8 @@ glove:手套
 glucose:葡萄糖
 glycerol:甘油
 glyph:字形
-go to sleep:去睡觉
 go:去
+go to sleep:去睡觉
 goal:目标
 goals:目标
 goat:山羊
@@ -122,6 +127,7 @@ government:政府
 governmental:政府的
 governor:地方长官
 gradient:梯度
+gradient color:渐变色
 gradual:逐渐的
 gradually:逐渐地
 gram:克
@@ -138,7 +144,9 @@ grasp:握
 grasp:理解
 grave:坟墓
 graveyard:教堂墓地
-gravity:引力
+gravity:重力
+gravitation:引力
+gravitational:引力的
 gravy:肉汁
 gray:灰色
 great britain:英国
@@ -185,4 +193,5 @@ gunpowder:黑火药
 guy:家伙
 guyana:圭亚那
 guyanan:圭亚那人
+generic:一般的
 :

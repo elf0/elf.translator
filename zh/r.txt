@@ -43,6 +43,8 @@ rarely:很少地
 rascal:捣蛋鬼
 rascal:淘气鬼
 raster:光栅
+rasterize:光栅化
+rasterisation:光栅化
 rate:比率
 rather:宁可
 ratio:比例
@@ -69,6 +71,7 @@ reason:原因
 reasonable:合理的
 rebel:反叛者
 rebellion:造反
+rebellious:反抗的
 rebirth:重生
 reboot:重新启动
 receive:收
@@ -143,7 +146,6 @@ religious:宗教的
 remember:记住
 remove:移除
 render:渲染
-renunciation:放弃
 repair:维修
 repeal:废除
 replace:替代
@@ -202,7 +204,6 @@ reveal:揭示
 revenge:复仇
 revenue:收入
 revenue:营业额
-reverence:崇敬
 review:复习
 revise:修订
 revised:修订的
@@ -301,4 +302,7 @@ russian:俄语
 rust:铁锈
 ruthenium:钌
 rwanda:卢旺达
+reverence:崇敬
+renunciation:放弃
+rely on:依赖于
 :
