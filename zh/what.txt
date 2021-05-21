@@ -36,6 +36,8 @@ what do you want me to do:你想我怎么做
 what do you want to do:你想做什么
 what do you want to eat:你想吃什么
 what do you want:你想要什么
+what does it feel like:感觉它像什么
+what does it look like:它看起来像什么
 what does it mean:那意味着什么
 what does that mean:那是什么意思
 what does this mean:这是什么意思
@@ -56,18 +58,26 @@ what i like to eat:我所喜欢吃的
 what i like:我所喜欢的
 what i said:我所说过的
 what if i refuse:如果我拒绝呢
+what is correct:正确的是什么
 what is it:它是什么
 what is love:爱是什么
 what is that mean:那是什么意思
 what is that:那是什么
 what is the best way:最好的方法是什么
 what is the difference:不同点是什么
+what is the evidence:证据是什么
 what is the matter with you:你有什么毛病
+what is the most important thing:最重要的事是什么
+what is the name of it:它的名字叫什么
 what is the plan:计划是什么
 what is the point of it:它的意义是什么
 what is the point:意义是什么
+what is the policy:政策是什么
+what is the problem:毛病是什么
+what is the proper way:适合的方法是什么
 what is the purpose:目的是什么
 what is the purpose of life:人生的意义是什么
+what is the reason:理由是什么
 what is this place:这是什么地方
 what is this:这是什么
 what is truth:真相是什么
@@ -85,6 +95,7 @@ what the fuck are you doing:你他妈在做什么
 what the fuck are you talking about:你他妈在说些什么
 what time is it now:现在几点
 what would you do:你会怎么做
+what would happen:会发生什么
 what you want:你想要什么
 what you need to know:你只需要知道
 what you see is what you get:所见即所得
