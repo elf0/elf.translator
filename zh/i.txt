@@ -8,7 +8,47 @@ i am terrified:我被吓到了
 i am tired:我累了
 i am not telling you anything:我什么都不会告诉你
 i asked:我问道
+i agree with you:我赞同你
+i believe you:我相信你
+i do not regret what i have done:我不后悔我所做的
 i do not think:我不认为
+i do not buy it:我不相信
+i do not believe you:我不相信你
+i do not believe this:我不相信这个
+i do not blame you for being a scumbag:我不责备你成为一个小人
+i do not care:我不在乎
+i do not care if you believe me:我不关心你是否相信我
+i do not ever say:我不曾说
+i do not even know why:我甚至不知道为什么
+i do not even know what that means:我甚至不知道那意味着什么
+i do not even know you:我甚至不认识你
+i do not fear you:我不怕你
+i do not give a shit:
+i do not really have the fear of death:我真的不惧死亡
+i do not have time for this shit:我没时间耗在这堆屎上
+i do not have time to explain:我没时间解释
+i do not have to ask him anything:我不必问他任何事情
+i do not know:我不知道
+i do not know what to say:我不知道该说什么了
+i do not know who you are:我不知道你是谁
+i do not know how to say this:我不知道怎么开口
+i do not like it:我不喜欢它
+i do not like to repeat myself:我不喜欢重复我的话
+i do not mind:我不介意
+i do not need you to tell me who i am:我不需要你来告诉我我是谁
+i do not need this:我不需要这个
+i do not think:我不认为
+i do not think you understand me:我不认为你懂我
+i do not think so:我不这样认为
+i do not think that should be a problem:我不认为那会成为一个问题
+i do not think i can:我不认为我能
+i do not trust anyone:我不信任任何人
+i do not even wanna:我甚至不想
+i do not wanna do this:我不想这样做
+i do not want to die:我不想死
+i do not understand:我不明白
+i do not understand you guys at all:我一点都不懂你们这些家伙
+i just do not want anybody:我只是不想任何人
 i do what i like to do:我喜欢做什么就做什么
 i will see what i can do:我来看看我能做什么
 i will see what i can find:我来看看我能发现什么
@@ -24,6 +64,7 @@ i know:我知道
 i lied to you:我骗了你
 i love you:我爱你
 i mean it:我是认真的
+i miss you:我想你了
 i need to know:我需要知道
 i promise:我保证
 i remember:我记得
@@ -356,7 +397,7 @@ israeli:以色列人
 israeli:以色列的
 issue:问题
 istanbul:伊斯坦布尔
-it doesn't matter:没关系
+it does not matter:没关系
 it was not your fault:那不是你的错
 it:它
 italia:意大利

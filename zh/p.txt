@@ -74,6 +74,7 @@ pastor:牧师
 patent:专利
 patents:专利
 path:路径
+pathway:途径
 pathogenic:致病的
 patience:耐心
 patient:患者
@@ -224,6 +225,8 @@ player:玩家
 players:玩家
 playground:游乐场
 please:请
+please explain why:请解释为什么
+please explain why it is unnecessary:请解释为什么它是不必要的
 pleasure:乐意
 pleasure:欢愉
 plot:绘制
@@ -249,6 +252,7 @@ polar coordinate:极坐标
 polar:极性的
 polarity:极性
 police:警察
+police dog:警犬
 policy:政策
 polish:波兰语
 politic:策略的
