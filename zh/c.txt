@@ -223,6 +223,7 @@ chess:国际象棋
 chicago:芝加哥
 chicken:鸡
 chief executive officer:首席执行官
+chief scientist:首席科学家
 chief:领袖
 child labour:童工
 child:小孩
@@ -423,6 +424,7 @@ compounds:化合物
 computer graphics:计算机图形
 computer network:计算机网络
 computer programming:计算机编程
+computer scientist:计算机科学家
 computer system:计算机系统
 computer vision:计算机视觉
 computer:电脑

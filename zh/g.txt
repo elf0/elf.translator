@@ -135,6 +135,7 @@ gram:克
 grammar:语法
 grand:盛大的
 grandparent:祖父母
+grandchildren:孙子女
 grant:授予
 granularity:粒度
 graph:图形
