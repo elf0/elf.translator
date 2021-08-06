@@ -60,6 +60,7 @@ ray:光线
 reaction:反应
 reaction:反馈
 read:读
+readability:可读性
 reader:读者
 ready:准备好的
 real number:实数
@@ -201,6 +202,7 @@ retire:退休
 retirement:退休
 retrieve:取回
 return:返回
+reusability:可重用性
 reuse:重用
 reveal:揭示
 revenge:复仇
