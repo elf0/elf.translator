@@ -121,6 +121,7 @@ dependency:依赖
 depends on:依赖于
 deploy:部署
 deployment:部署
+depot:仓库
 depth:深度
 derail:出轨
 derivative:导数
@@ -353,6 +354,7 @@ dynamical systems theory:动态系统理论
 dynamics:动力学
 dynasty:朝代
 dysfunction:功能障碍
+depressant:镇静的
 deprive:剥夺
 deprivation:剥夺
 deflea:除跳蚤
