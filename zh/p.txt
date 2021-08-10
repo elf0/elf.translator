@@ -37,6 +37,7 @@ parameter:参数
 parasite:寄生生物
 parasite:寄生虫
 parasitic worm:寄生虫
+parasitic disease:寄生虫病
 parasitic:寄生的
 parasitism:寄生
 parasitology:寄生生物学
@@ -477,6 +478,7 @@ pulmonary:肺的
 pulmonary artery:肺动脉
 pump:泵
 punched card:打孔卡
+punctual:守时的
 punish:惩罚
 punishment:惩罚
 punk:朋克
