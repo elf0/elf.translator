@@ -173,6 +173,9 @@ environment:环境
 envoy:特使
 ephemeral:短暂的
 epic:史诗
+epilepsy:癫痫
+epileptic:癫痫的
+epileptic seizure:癫痫发作
 epinephrine:肾上腺素
 episode:集
 epistemic:认知的
