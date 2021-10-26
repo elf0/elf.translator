@@ -139,6 +139,7 @@ grammar:语法
 grand:盛大的
 grandparent:祖父母
 grandchildren:孙子女
+granny:老奶奶
 grant:授予
 granularity:粒度
 graph:图形
@@ -147,6 +148,8 @@ graphical:图形的
 graphs:图形
 grasp:握
 grasp:理解
+grass:草
+grasshopper:蚱蜢
 grave:坟墓
 graveyard:教堂墓地
 gravity:重力
