@@ -120,6 +120,7 @@ department:系
 department:部门
 dependence:依赖
 dependency:依赖
+dependent variable:因变量
 depends on:依赖于
 deploy:部署
 deployment:部署

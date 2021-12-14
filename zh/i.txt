@@ -165,6 +165,7 @@ indent:缩进
 independence day:独立日
 independence:独立
 independent survival:独立生存
+independent variable:自变量
 independent:独立的
 independently:独立地
 index:索引
@@ -278,6 +279,8 @@ interaction:交互
 interactive:交互的
 intercept:截取
 interest:兴趣
+interest:利息
+interest paid:已付利息
 interested in:有兴趣于
 interface:接口
 interjection:感叹词
