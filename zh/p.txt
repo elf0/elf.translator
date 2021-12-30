@@ -242,6 +242,9 @@ player:玩家
 players:玩家
 playground:游乐场
 please:请
+please do not do it:请别那样做
+please do not hesitate:请别犹豫
+please do not delete:请别删
 please explain why:请解释为什么
 please explain why it is unnecessary:请解释为什么它是不必要的
 pleasure:乐意
@@ -514,6 +517,7 @@ push:推
 pushpin:图钉
 pussy:懦夫
 put off:推迟
+put on:穿上
 put:放
 putin:普京
 puzzle:迷
