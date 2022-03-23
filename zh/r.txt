@@ -9,6 +9,7 @@ radar:雷达
 radiator:散热器
 radii:半径
 radio:无线电
+radio station::无线电台
 radium:镭
 radius:半径
 radon:氡
@@ -16,6 +17,7 @@ rage:暴怒
 rail:铁轨
 railroad:铁路
 railway:铁路
+railway station:火车站
 rain:雨
 rainbow:彩虹
 rainfall:降雨
@@ -149,6 +151,7 @@ religious belief:宗教信仰
 religious:宗教的
 remember:记住
 remove:移除
+renault:雷诺
 render:渲染
 repair:维修
 repeal:废除
@@ -238,6 +241,7 @@ riddle:谜语
 ridge:山脊
 rifle:步枪
 right branch:右分支
+right wing:右翼
 right:右
 right:对的
 right:权利
@@ -300,6 +304,7 @@ rule:规则
 ruler:尺
 ruler:统治者
 rules:规则
+ruminant:反刍动物
 rumor:谣言
 run:跑
 run:运行
