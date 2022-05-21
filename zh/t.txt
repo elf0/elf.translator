@@ -122,6 +122,8 @@ therapy:疗法
 therapeutic:治疗的
 there is nothing to be afraid of:没什么可怕的
 there is no doubt:毫无疑问
+there is no evidence to prove:没有证据证明
+there is no evidence to show:没有证据显示
 there is no evidence to support:没有证据支持
 there is no reason to believe:没有理由相信
 there is no reason to doubt:没有理由怀疑
@@ -211,6 +213,8 @@ title:标题
 to:到
 tobacco:烟草
 today:今天
+toe:脚趾
+toes:脚趾
 together:一起
 toggle:绳栓
 togo:多哥
@@ -342,6 +346,7 @@ tsinghua university:清华大学
 tsunami:海啸
 tube:管子
 tummy:肚子
+tumor:肿瘤
 tungsten:钨
 tunisia:突尼斯
 turing complete:图灵完备
