@@ -19,9 +19,16 @@ railroad:铁路
 railway:铁路
 railway station:火车站
 rain:雨
+rain gauge:雨量计
 rainbow:彩虹
 rainfall:降雨
 rainfall:降雨量
+rainforest:雨林
+rainy:下雨的
+rainy day:下雨天
+rainy night:雨夜
+rainy season:多雨的季节
+rainy weather:下雨的天气
 rainwater:雨水
 raisin:葡萄干
 rake:钉耙
@@ -172,6 +179,8 @@ republican:共和国的
 request:请求
 require:需要
 required:被需要的
+requirement:需求
+requirements:需求
 rescue exercise:救援练习
 rescue:救援
 research paper:研究论文

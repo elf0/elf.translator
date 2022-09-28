@@ -187,6 +187,7 @@ induction variable:归纳变量
 industry:工业
 industry standard:工业标准
 inequality:不等式
+inertial:惯性的
 inexperience:缺乏经验
 infancy:婴儿期
 infant:婴儿
@@ -250,6 +251,7 @@ install:安装
 instance:实例
 instant:瞬间
 instantaneous:瞬间的
+instantaneous speed:瞬时速度
 instead of:替换
 instead:替代
 institute of technology:技术学院
@@ -381,6 +383,9 @@ issue:问题
 istanbul:伊斯坦布尔
 it does not matter:没关系
 it was not your fault:那不是你的错
+it is raining outside:外面下着雨
+it is raining heavily:外面下着大雨
+it is raining cats and dogs:外面下着大雨
 it:它
 italia:意大利
 italian:意大利人
