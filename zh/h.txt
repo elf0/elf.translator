@@ -1,3 +1,16 @@
+h::村
+ha chachole::村
+ha hang::村
+ha keng hau::村
+ha lejone::村
+ha mei san tsuen::村
+ha shan kai wat::村
+ha wan tsuen::村
+ha wo hang::村
+ha wong yi au::村
+ha yau tin tsuen::村
+ha yeung::村
+ha'afuasia::村
 haabsaare::村
 haaften::村
 haage::村
@@ -5,6 +18,7 @@ haakla::村
 haamse::村
 haamstede::村
 haanja::村
+haapamäki::村
 haapse::村
 haapsi::村
 haapsipea::村
@@ -13,25 +27,39 @@ haarzuilens::村
 haaslava::村
 haavakannu::村
 haavametsa::村
+haavapää::村
+haba, togo::村
+hababeh-ye olya::村
+hababeh-ye sofla::村
+hababeh-ye vosta::村
 habaiyeh::村
 habaki::村
 habalakatti::村
 habariheshay::村
+habash-e olya::村
+habash-e sofla::村
 habash::村
 habashabad::村
 habashi::村
+habban valley::村
 habbanatti::村
 habbupur::村
 haberli::村
 habhab::村
+habib ishan::村
+habib kot::村
+habibabad-e durag::村
+habibabad-e mazdak::村
 habibabad::村
 habibak::村
 habibganj::村
 habibler::村
 habibpur::村
+habibuşağı::村
 habibvand::村
 habibwal::村
 habipler::村
+habishi::村
 habit:习惯
 habitat:栖息地
 habkayt::村
@@ -39,17 +67,76 @@ hablas::村
 habnamrah::村
 habu::村
 habuapur::村
+hacallı::村
 haceri::村
 hacet::村
+hachakand-e darmanlu::村
+hachakand-e tazeh::村
 hachasu::村
+hachi darreh::村
 hachiville::村
+hacienda atalaya::村
+haciniyyət::村
 hacker:黑客
 hackney::村
+hacıahmetler::村
+hacıali, manavgat::村
+hacıali::村
+hacıağabəyli::村
+hacıbabalı::村
+hacıbayram::村
+hacıbektaşlı, Şereflikoçhisar::村
+hacıbey::村
+hacıbozan::村
+hacıdünyamalılar::村
+hacıhalil::村
+hacıhamzalı::村
+hacıhasan::村
+hacıhasanlar, nallıhan::村
+hacıhüseyinler::村
+hacıisalı, manavgat::村
+hacıisgəndərli::村
+hacıköseler, yenipazar::村
+hacıköy::村
+hacıkənd::村
+hacılar::村
+hacılı::村
+hacımahmudlu::村
+hacımahmut::村
+hacımahmutuşağı::村
+hacıman::村
+hacımehmetli::村
+hacımusa::村
+hacımusalar, elmalı::村
+hacımuslu, polatlı::村
+hacımustafaköy::村
+hacıməmmədli::村
+hacıməmmədoba::村
+hacıobası, manavgat::村
+hacıosmanoğlu, polatlı::村
+hacıoğlan, kaş::村
+hacıoğlu::村
+hacıqazma::村
+hacıqurbanoba::村
+hacısamlı::村
+hacısekiler, antalya::村
+hacıtuğrul, polatlı::村
+hacıveliler, kumluca::村
+hacıvəli::村
+hacıxanlı::村
+hacıyakup::村
+hacıyusuflar::村
+hacıəbdürəhimoba::村
+hacıəhmədoba::村
+hacıəkbərli::村
+hacıələkbərli::村
 had:有
 hadadcha::村
 hadakan::村
 hadalaga::村
 hadalga::村
+hadameh-ye olya::村
+hadameh-ye vosta::村
 hadan::村
 hadar::村
 hadashi::村
@@ -59,40 +146,86 @@ haddada::村
 haddadan::村
 haddadeh::村
 haddadiyeh::村
+haddam-e do::村
+haddam-e yek::村
+haddat ash sham::村
 haddatha::村
 haddeland::村
 hadecha::村
 hader::村
+haderbad-e olya::村
 hadf::村
 hadhah::村
 hadhwanaag::村
+hadi gavaber::村
+hadi khani::村
+hadi kiashar::村
 hadiabad::村
 hadibeyglu::村
 hadid::村
 hadiginal::村
 hadilu::村
 hadipora::村
+hadishahr::村
 hadiyah::村
+hadj ahmed::村
+hadlow cricket club::村
 hadlow::村
 hadmatiya::村
 hadnal::村
 hadstock::村
 hadun::村
+hadwala gujaran::村
+hadzhi dimitar::村
 hadzhidimitrovo::村
 hadzhiite::村
 hadzhiysko::村
+hadžići::村
 haemorrhage:大出血
 haer::村
 haeska::村
 hafdaran::村
 hafez::村
 hafezabad::村
+haffar-e sharqi::村
 haffar::村
 hafizabad::村
+hafnir::村
 hafslo::村
+haft ashian::村
+haft ashiyan::村
+haft asiab::村
+haft badam::村
+haft band::村
+haft cheshmeh-ye dalun::村
+haft cheshmeh-ye jahanshah::村
+haft cheshmeh-ye lishtar::村
+haft cheshmeh::村
+haft dasht-e olya::村
+haft jubeh::村
+haft jush::村
+haft juy::村
+haft kadeh::村
+haft kani::村
+haft khaneh::村
+haft khani::村
+haft kol::村
+haft pareh::村
+haft piran::村
+haft rangu::村
+haft sanduq::村
+haft shahidan::村
+haft sui::村
+haft tanan::村
+haft tappeh::村
+haft tash::村
+haft yaran::村
 haftabad::村
+haftad mish::村
 haftadar::村
+haftan-e olya::村
 haftavan::村
+hafteh khanak::村
 haftevan::村
 hafthar::村
 haftian::村
@@ -114,15 +247,23 @@ haghtanak::村
 hagimus::村
 hagudi::村
 hagvi::村
+hagyárosbörönd::村
+hah shamiz::村
 haho::村
+hahót::村
 hai::村
 haiba::村
 haibatmau::村
 haibatpur::村
+haider khel::村
+haidrabad bet::村
+haidrabad dona::村
 haigler::村
+haiky-sytenski::村
 hail:冰雹
 haili::村
 haimre::村
+haines junction::村
 hainesville::村
 hainewalde::村
 hainswa::村
@@ -131,38 +272,260 @@ hair grip:发夹
 hair pin:发针
 hair pin:簪
 hair:头发
+haisterbach::村
+haisthorpe::村
 haiti:海地
 hajapar::村
+hajar abyad::村
 hajarabad::村
+hajat aqa::村
 hajat::村
 hajatan::村
 hajazi::村
+hajciunishki::村
 hajguiyeh::村
+haji baqer kandi::村
+haji baran::村
+haji danter::村
+haji jalal din shar::村
+haji kahu::村
+haji karamabad::村
+haji kusa::村
+hajiabad khazneh golchat::村
+hajiabad, corrin::村
+hajiabad, nosratabad::村
+hajiabad, zahedan::村
+hajiabad-e aval vazhdad::村
+hajiabad-e aval::村
+hajiabad-e dovom::村
+hajiabad-e fajr::村
+hajiabad-e minooyi::村
+hajiabad-e poodchah::村
 hajiabad::村
+hajiamir-e bala::村
+hajiamir-e pain::村
 hajib::村
+hajij-e bozorg::村
 hajin::村
 hajipur::村
 hajiwala::村
+hajj abd::村
+hajj abdal::村
+hajj abdeh mohammad::村
+hajj adam bazar::村
+hajj ahmad kandi::村
+hajj ali hiki::村
+hajj amir kandi::村
+hajj amir-e vanehbin::村
+hajj aqa::村
+hajj arash::村
+hajj bahram mahalleh::村
+hajj bolagh::村
+hajj ebrahim deh::村
+hajj esmaeil::村
+hajj hasan kandi::村
+hajj kaka::村
+hajj karim::村
+hajj kazemi::村
+hajj khadijeh::村
+hajj khalil::村
+hajj khassaf::村
+hajj mariyeh::村
+hajj mazarb::村
+hajj mohammad alishah::村
+hajj naj::村
+hajj qalandar::村
+hajj qeshlaq::村
+hajj rajab::村
+hajj salar::村
+hajj salim mahalleh::村
+hajj shahbaz mahalleh::村
+hajj siran::村
+hajj yadollah mahalleh::村
+hajj yusef::村
+hajj-e saleh-e lusi::村
 hajjaj::村
 hajjaji::村
 hajjali::村
 hajjampura::村
+hajjat kadeh::村
 hajjateh::村
 hajjati::村
+hajji abbas kandi::村
+hajji abd ol vahhab::村
+hajji abdol::村
+hajji abdollah bazar::村
+hajji ahmad kandi::村
+hajji ahmad shahvazayi::村
+hajji ahmad::村
+hajji ali kand::村
+hajji alian::村
+hajji aqa kandi::村
+hajji aqa::村
+hajji aqam ali kandi::村
+hajji arab::村
+hajji aziz-e cheshmeh sefid::村
+hajji baba khan::村
+hajji babakhan::村
+hajji babay-e olya::村
+hajji babay-e sofla::村
+hajji babay-e vosta::村
+hajji bachcheh::村
+hajji baghlu::村
+hajji bakhtiar::村
+hajji bala beyglu::村
+hajji balkhan::村
+hajji baluch khan::村
+hajji bayram::村
+hajji bazar::村
+hajji behzad::村
+hajji bekandeh::村
+hajji beyg::村
+hajji beygi::村
+hajji beyk-e olya::村
+hajji beyk-e sofla::村
+hajji beyk::村
+hajji bijar va jas ganas::村
+hajji deh::村
+hajji dela::村
+hajji esmail iman khan::村
+hajji eynak::村
+hajji fath ali::村
+hajji fattah-e beg::村
+hajji firuz::村
+hajji ghaldeh::村
+hajji gholamreza::村
+hajji hasan-e khaleseh::村
+hajji hasan-e olya::村
+hajji hasan::村
+hajji havar kandi::村
+hajji hazer::村
+hajji hemmatlu::村
+hajji hoseyn shirzehi::村
+hajji hoseyn::村
+hajji jafan::村
+hajji jafar kandi::村
+hajji jalil::村
+hajji javad::村
+hajji kalateh::村
+hajji kamal::村
+hajji kand::村
+hajji kandi-ye olya::村
+hajji kandi-ye sofla::村
+hajji kandi::村
+hajji khademi::村
+hajji kheder::村
+hajji khvosh::村
+hajji kola-ye arazlu::村
+hajji kola-ye olya::村
+hajji kola-ye sanam::村
+hajji kola-ye sofla::村
+hajji kola::村
+hajji kord::村
+hajji lak::村
+hajji madad::村
+hajji mahalleh::村
+hajji mahmud::村
+hajji malang kharut::村
+hajji malek shirzayi::村
+hajji malek::村
+hajji mamdan::村
+hajji mamian::村
+hajji maqsud::村
+hajji moharab::村
+hajji morad::村
+hajji morteza kandi::村
+hajji mosayyeb::村
+hajji musa::村
+hajji nabi::村
+hajji nowrush kandi::村
+hajji nur mohammad bazar::村
+hajji pamoq::村
+hajji pirlu::村
+hajji qadart kandi::村
+hajji qaderdad bazar::村
+hajji qareh::村
+hajji qelich::村
+hajji qushan::村
+hajji rasul::村
+hajji sabzan::村
+hajji sara::村
+hajji seyflu::村
+hajji shirkia::村
+hajji shureh::村
+hajji siab kandi::村
+hajji sufi::村
+hajji tahereh::村
+hajji tappeh::村
+hajji taqi::村
+hajji tu::村
+hajji yar::村
+hajji yuseflu-ye olya::村
+hajji yuseflu-ye sofla::村
 hajji::村
+hajjiabad beshaq::村
+hajjiabad darvish::村
+hajjiabad-e amlak::村
+hajjiabad-e aqa::村
+hajjiabad-e arabha::村
+hajjiabad-e atashgah::村
+hajjiabad-e bala::村
+hajjiabad-e bazzazi::村
+hajjiabad-e bostijian::村
+hajjiabad-e bozorg::村
+hajjiabad-e do::村
+hajjiabad-e ghuri::村
+hajjiabad-e hajj ali mohammad::村
+hajjiabad-e hajji safar::村
+hajjiabad-e jadid::村
+hajjiabad-e kark::村
+hajjiabad-e khvoriad::村
+hajjiabad-e korbal::村
+hajjiabad-e kuh payeh::村
+hajjiabad-e mallu::村
+hajjiabad-e mir hoseyni::村
+hajjiabad-e muzi::村
+hajjiabad-e nazri::村
+hajjiabad-e neyzaz::村
+hajjiabad-e nughab::村
+hajjiabad-e okhtachi::村
+hajjiabad-e pas kuhak::村
+hajjiabad-e payabi::村
+hajjiabad-e razveh::村
+hajjiabad-e salar::村
+hajjiabad-e sarhadi::村
+hajjiabad-e seyyedeh::村
+hajjiabad-e shahlaei::村
+hajjiabad-e shanrash::村
+hajjiabad-e shureh chaman::村
+hajjiabad-e sofla::村
+hajjiabad-e yarahmadi::村
+hajjiabad-e yek::村
+hajjiabad-e zarrin::村
 hajjiabad::村
 hajjian::村
+hajjilar qaleh::村
 hajjilar::村
 hajjileh::村
 hajjilu::村
+hajjiyeh mahalleh::村
 hajjiyeh::村
+hajmás::村
+hajmáskér::村
 haju::村
 hajur::村
+hak-e olya::村
+hak-e sofla::村
 hakadal::村
 hakami::村
 hakan::村
 hakavan::村
 haki::村
+hakim bashi-ye bala::村
+hakim bashi-ye hoseynabad::村
+hakim beg::村
+hakim qeshlaqi::村
+hakim rigi::村
 hakimabad::村
 hakimpet::村
 hakjala::村
@@ -175,17 +538,24 @@ hala::村
 halabi::村
 halabor::村
 haladar::村
+halaf-e do::村
+halaf-e seh::村
+halaf-e yek::村
 halafaleh::村
 halagama::村
 halagatti::村
+halah qush::村
 halaj::村
+halak dar khadarham::村
 halakabad::村
 halakadar::村
 halakarni::村
 halakere::村
 halaki::村
 halakusugal::村
+halal kola::村
 halalabad::村
+halaleh-ye manzel::村
 halali::村
 halalli::村
 halalo::村
@@ -196,32 +566,56 @@ halapada::村
 halarteh::村
 halarud::村
 halasal::村
+halastó::村
 halasy::村
 halat::村
 halateh::村
+halavan-e pain::村
 halavan::村
 halawah::村
+halaç::村
+halaçlı::村
 halban::村
 haldarvas::村
 haldi::村
+haldia, bangladesh::村
 haldreka::村
 haldur::村
+hale tegur::村
+hale upparahalli::村
+hale yaragudri::村
 hale::村
 haleangadi::村
+halefoğlu::村
+haleh kaleh::村
+haleh siah::村
 haleh::村
 halehsam::村
+haleji sharif::村
 halekotta::村
 halenahalli::村
 halenda::村
 haler::村
+hales corners::村
 hales::村
 halestan::村
 haletoragal::村
 half:半
+halfway house::村
 halfway::村
 halfweg::村
+halgodari-ye ashraf::村
+halgodari-ye osman::村
 halgolla::村
+halhal-e olya::村
+halhal-e sofla::村
 halhjem::村
+hali akhund::村
+hali bagh::村
+hali bon::村
+hali khal::村
+hali koti::村
+halib mentel::村
 halidasht::村
 halidzor::村
 halifan::村
@@ -229,25 +623,34 @@ halifax:哈利法克斯
 halife::村
 halifeli::村
 haliketi::村
+halil rud::村
 halilabad::村
+halilarpaç::村
 halilbaba::村
 halilbeyli::村
 halileh::村
 halilehi::村
 halilu::村
+halim alizehi::村
 halimba::村
+halimeh jan::村
 halinga::村
+halitağalar, manavgat::村
 haliyadda::村
 haliyala::村
 haliyhuman::村
 halizabad::村
 haljava::村
 haljerd::村
+halkalı::村
 halkan::村
 halkar::村
 halkun::村
 hall of fame:名人堂
 hall:大厅
+hallaj mahalleh::村
+hallaj-e olya::村
+hallaj-e sofla::村
 hallajabad::村
 hallam::村
 hallavar::村
@@ -265,6 +668,7 @@ hallschlag::村
 halltown::村
 hallucinogenic drug:致幻药
 hallum::村
+hallı::村
 halmaj::村
 halmajugra::村
 halmat::村
@@ -275,13 +679,21 @@ halogen:卤素
 halogy::村
 halolli::村
 halotali::村
+halow bazar::村
 halpahi::村
 halpola::村
+halqeh basteh::村
+halqeh sang::村
+halqeh sara::村
 halsa::村
 halsanaustan::村
 halsey::村
 haltdalen::村
 haltushan::村
+halu bon darreh::村
+halu chak::村
+halu kaleh::村
+halu poshteh::村
 halu::村
 halukhani::村
 halulan::村
@@ -289,6 +701,9 @@ halumsar::村
 halush::村
 haluvalli::村
 haluzhan::村
+halva cheshmeh::村
+halvai-ye do::村
+halvai-ye seh::村
 halvai::村
 halvan::村
 halvans::村
@@ -299,11 +714,20 @@ halwill::村
 halyal::村
 halychany::村
 halytsynivka::村
+halászi::村
+ham chan::村
+ham neshin::村
 ham::村
 ham:火腿
+hamadan seljeh::村
 hamadan::村
 hamam::村
 hamamak::村
+hamamlı::村
+hamand khaleseh vadan::村
+hamand kilan::村
+hamand kuhan va kurdar::村
+hamand lamsar::村
 hamand::村
 hamandeh::村
 hamaneh::村
@@ -326,7 +750,12 @@ hamdilli::村
 hamdollahabad::村
 hamech::村
 hamedanak::村
+hameed pur kalan::村
 hameed::村
+hameh ja::村
+hameh kasi::村
+hameh shan::村
+hameh sin::村
 hamel::村
 hamernia::村
 hamerton::村
@@ -336,12 +765,15 @@ hamgam::村
 hamgin::村
 hamhang::村
 hami::村
+hamid assad khan::村
+hamid khedi::村
 hamid::村
 hamidabad::村
 hamidan::村
 hamidaniyeh::村
 hamidgu::村
 hamidi::村
+hamidiye, nazilli::村
 hamidiye::村
 hamidiyeh::村
 hamidullanagar::村
@@ -352,20 +784,28 @@ hamiltonsbawn::村
 hamin::村
 hamirbati::村
 hamirgaon::村
+hamiri khera::村
+hamiri patti::村
 hamiri::村
 hamirowal::村
+hamisheh behar::村
+hamister::村
 hamitabat::村
 hamitbey::村
+hamitköy::村
 hamitler::村
 hamiville::村
 hamjago::村
 hamlabad::村
 hammad::村
 hammaguir::村
+hammam qaleh::村
 hammam::村
 hammami::村
 hammamian::村
 hammamlar::村
+hammamlu-e bala::村
+hammamlu-e pain::村
 hammamlu::村
 hammarsland::村
 hammarvika::村
@@ -380,6 +820,9 @@ hamouro::村
 hampa::村
 hampasandra::村
 hampstead::村
+hampton court::村
+hampton gay::村
+hampton poyle::村
 hampton::村
 hamran::村
 hamre::村
@@ -388,35 +831,70 @@ hamsafa::村
 hamsaladeevi::村
 hamsij::村
 hamsok::村
+hamsterley mill::村
 hamsterley::村
 hamstreet::村
+hamud-e asi::村
 hamud::村
+hamudi-ye sadun::村
 hamudi::村
 hamuleh::村
 hamun::村
 hamunabad::村
+hamurkesen::村
 hamurlu::村
+hamvar kandi::村
+hamvar-e kulivand::村
 hamyanak::村
 hamyaneh::村
 hamyard::村
+hamzabali, yenipazar::村
 hamzabey::村
 hamzabeyli::村
+hamzah qarnian::村
 hamzak::村
 hamzalar::村
+hamzallı, nazilli::村
+hamzalı, Şereflikoçhisar::村
+hamzalı::村
 hamzang::村
 hamzanlu::村
 hamzar::村
+hamzeh ali::村
+hamzeh beygi::村
+hamzeh deh-e olya::村
+hamzeh deh-e sofla::村
+hamzeh kandi::村
+hamzeh kanlu::村
+hamzeh kola-ye shesh pol::村
+hamzeh lan::村
+hamzeh qasem::村
+hamzeh reza::村
+hamzeh-ye olya::村
+hamzeh-ye sofla::村
 hamzeh::村
+hamzehabad-e olya::村
+hamzehabad-e sofla::村
 hamzehabad::村
 hamzehi::村
 hamzehkhani::村
+hamzehlu-ye olya::村
+hamzehlu-ye sofla::村
 hamzehlu::村
+hamzian-e olya::村
+hamzian-e sofla::村
 han::村
+hana shur::村
 hana::村
+hanabar hatti::村
 hanadan::村
 hanaford::村
+hanai sarrigan::村
+hanama sagar::村
+hanamana hatti::村
 hanamanahalli::村
 hanamanhal::村
+hanamapur (s.u.)::村
 hanamapur::村
 hanamasagar::村
 hanamsagar::村
@@ -425,8 +903,14 @@ hanashi::村
 hanatiyeh::村
 hanbarwadi::村
 hanburun::村
+hanchinal (k.k.)::村
+hanchinal (k.s.)::村
 hanchinala::村
 hancock::村
+hancăuți::村
+hancıgaz::村
+hancıçiftliği::村
+hand-e zamin::村
 hand:手
 handabowa::村
 handaganawa::村
@@ -434,6 +918,7 @@ handawry::村
 handbag:手提袋
 handcross::村
 handeck::村
+handeh-ye rabi::村
 handerki::村
 handessa::村
 handia::村
@@ -450,36 +935,61 @@ handshake:握手
 handur::村
 handyanwadi::村
 handzame::村
+haneh gelan::村
+haneh sheykhan::村
 hanestad::村
 hanevik::村
+hang chineh::村
+hang hau village::村
+hang mei tsuen::村
 hang over:宿醉
+hang tau tsuen::村
+hang-e zhaleh::村
 hanga::村
 hangabad::村
+hangam cooperative::村
 hangan::村
+hangar-e pain::村
+hangaran oya::村
 hangarandeniya::村
 hangarapitiya::村
 hangarge::村
 hangarki::村
+hangeh-ye zhal::村
 hangestan::村
 hanggai::村
+hangi-ye sofla::村
+hanging heaton::村
 hanging:绞刑
 hangloa::村
 hangna::村
 hangony::村
+hangran oya::村
 hangravan::村
 hanguranketa::村
+hangács::村
+hani garmaleh::村
 hanif::村
 hanila::村
 hanipur::村
+hanis::村
+hanishiyeh::村
 haniyan::村
 hanjan::村
 hanjanatti::村
+hanjarak-e bala::村
 hanjaruiyeh::村
 hank::村
 hankendi::村
 hanlar::村
+hanley child::村
+hanley hills::村
+hanley william::村
+hanna city::村
 hannikeri::村
 hannington::村
+hannêche::村
+hanover park::村
 hanover::村
 hanrgram::村
 hansan::村
@@ -509,7 +1019,10 @@ hanza::村
 hanzaf::村
 hanzak::村
 hanzaleh::村
+haouch barada::村
+haoud el hamra::村
 hapelaneh::村
+hapik bolagh::村
 haplaran::村
 hapowal::村
 happan::村
@@ -519,6 +1032,7 @@ happy:快乐的
 haps::村
 hapudandawala::村
 hapudandawela::村
+hapugaha-arawa::村
 hapugahamulla::村
 hapugahapitiya::村
 hapugaharawa::村
@@ -528,24 +1042,38 @@ hapugoda::村
 hapukanda::村
 hapupe::村
 haput::村
+haputale pallegama::村
+haputale udagama::村
+haputale udagammedda::村
 hapuwala::村
+hapıtlı::村
+haq ol khvajeh::村
 haq::村
 haqaniyeh::村
 haqnabad::村
+haqnəzər::村
 haqqabad::村
 haqqeh::村
 haqqiyeh::村
 haqvaran::村
 haqverdi::村
+haqverdilər::村
+har do ab rud::村
+har do ab::村
+har do rud::村
+har kareh::村
 hara::村
 harab::村
 haraba::村
 harabdeh::村
+harabekayış::村
 haracherite::村
 haradanahalli::村
 haragama::村
 haragapur::村
 haraggama::村
+haragîș::村
+harain-e olya::村
 harakian::村
 harakola::村
 harakpur::村
@@ -554,6 +1082,8 @@ haralakatti::村
 haralapur::村
 haram::村
 haramabad::村
+haramian-e olya::村
+haramian-e sofla::村
 haramil::村
 haramlu::村
 haran::村
@@ -568,6 +1098,7 @@ harankahagoda::村
 harankahawa::村
 harankol::村
 haranmar::村
+harar-e kalgah-e shiraz::村
 hararan::村
 harariz::村
 harasanwadi::村
@@ -575,12 +1106,14 @@ harasban::村
 harasbedda::村
 harashi::村
 harasztifalu::村
+harat bar::村
 haratbar::村
 haravanj::村
 harawa::村
 harayjan::村
 harazjan::村
 harbanspur::村
+harbayeh-ye shalageh::村
 harbazchellow::村
 harbine::村
 harbledown::村
@@ -605,15 +1138,29 @@ harding::村
 hardingstone::村
 harditerha::村
 hardiya::村
+hardo jhanda::村
+hardo pharala::村
+hardo sangha::村
+hardo saran::村
+hardo sheikh::村
 hardoi::村
+hardow rud::村
 hardowal::村
+hardu shichan::村
+hardu toru::村
 harduia::村
 hardware:硬件
 hardwick::村
 hardy::村
+hardîne::村
+hare hatch::村
 hare:长耳兔
 harefield::村
 haregaon::村
+hareh bagh-e khayyat::村
+hareh dasht::村
+hareh pak::村
+hareh shun dasht::村
 hareh::村
 harehill::村
 harelaw::村
@@ -626,6 +1173,7 @@ hargenush::村
 hargla::村
 hargondi::村
 hargrave::村
+hari kandeh::村
 hari::村
 hariaj::村
 harich::村
@@ -638,25 +1186,38 @@ harijan::村
 harilaqi::村
 harileh::村
 harimabad::村
+haringhuizen::村
 haripal::村
 haripirala::村
 haripora::村
+haripur khalsa::村
 haripur::村
 haripuram::村
 hariqan::村
 harir::村
+haris::村
+harisan::村
+harishchandrapur::村
+harishi::村
+harisk-e olya::村
 harivand::村
 hariyeh::村
 harizeh::村
 harjab::村
 harji::村
+harju-risti::村
 harju::村
 harka::村
+harkabud-e golzar::村
+harkaleh-ye mohammad jafar::村
+harkaleh-ye monari::村
 harkaleh::村
 harkatta::村
 harkema::村
 harkian::村
+harkishanpur tikra::村
 harkmark::村
+harkujärve::村
 harlapur::村
 harlem::村
 harlesthorpe::村
@@ -666,8 +1227,14 @@ harlington::村
 harm::村
 harm:伤害
 harmadih::村
+harmak, zahedan::村
+harmanardı::村
+harmancık::村
 harmankaya::村
+harmanlı::村
 harmantepe::村
+harmațca::村
+harmer hill::村
 harmful:有害的
 harmi::村
 harmidul::村
@@ -679,6 +1246,7 @@ harmu::村
 harmuiyeh::村
 harna::村
 harnahi::村
+harnam khera::村
 harnashak::村
 harnawa::村
 harni::村
@@ -686,24 +1254,40 @@ haroa::村
 harobelavadi::村
 harogeri::村
 harom::村
+harora aht.::村
+harora must.::村
 harouf::村
 harp:竖琴
 harpefoss::村
 harpur::村
 harpura::村
+harqal::村
 harrafteh::村
+harrah, yemen::村
 harrakheda::村
 harran::村
 harrietta::村
+harris::村
+harrisburg::村
+harriseahead::村
+harrison::村
+harrisonburg::村
+harristown::村
 harrity::村
+harrowbarrow::村
+harry stoke::村
 harry:骚扰
 harsari::村
+harsha chhina::村
+harshir-e imani::村
 harshpur::村
 harsian::村
 harsin::村
 harsovo::村
 harsvika::村
 harswell::村
+harsány::村
+hart common::村
 harta::村
 hartala::村
 hartashen::村
@@ -715,7 +1299,13 @@ harthiyah::村
 hartington::村
 hartsburg::村
 hartshead::村
+hartwood::村
 harugoppa::村
+harun bazar::村
+harun kola::村
+harun va sakez::村
+harunabad-e olya::村
+harunabad-e sofla::村
 harunabad::村
 haruni::村
 haruniyeh::村
@@ -723,22 +1313,101 @@ haruri::村
 haruwal::村
 harvard:哈佛
 harvel::村
+harwood heights::村
 harwood::村
 haryan::村
 haryana:哈里亚纳邦(印度)
 harzanaq::村
+harzand-e atiq::村
+harzand-e jadid::村
 harzandiq::村
+harzeh varz::村
+harzel kuh::村
 harzeneh::村
+harzhis::村
+haría::村
 has:有
 hasabdal::村
 hasai::村
 hasakothur::村
 hasampura::村
+hasan abdal::村
+hasan abdali::村
+hasan ali darreh forkh::村
+hasan ali deh::村
+hasan ali-ye kadkhodalu::村
+hasan ali::村
+hasan aqai::村
+hasan aqeh::村
+hasan bagi-ye rika::村
+hasan bakul::村
+hasan baruq::村
+hasan bekandeh::村
+hasan beyg mordeh::村
+hasan beyglu::村
+hasan boqeh::村
+hasan chap::村
+hasan dayerman::村
+hasan gavdari::村
+hasan gaviyar::村
+hasan hajji::村
+hasan hendow::村
+hasan heydar::村
+hasan jafar zehi::村
+hasan jun::村
+hasan kandi kuh::村
+hasan kandi rud::村
+hasan kandi::村
+hasan khan baghi::村
+hasan khan darrehsi::村
+hasan khan::村
+hasan khani::村
+hasan khordu::村
+hasan kohal::村
+hasan kolangi::村
+hasan kusej::村
+hasan langi-ye bala::村
+hasan langi-ye pain::村
+hasan mast::村
+hasan nezam::村
+hasan nuran::村
+hasan owlan::村
+hasan owleh::村
+hasan qareh::村
+hasan qeshlaq::村
+hasan qeshlaqi::村
+hasan qoli khan::村
+hasan robat-e pain::村
+hasan rud::村
+hasan salaran::村
+hasan sara::村
+hasan shahab::村
+hasan sheykh::村
+hasan su::村
+hasan tabib::村
+hasan tayyeb::村
+hasan teymur-e olya::村
+hasan teymur::村
+hasan-e aliabad::村
+hasan-e kamali::村
+hasan-e mazlum::村
 hasan::村
+hasana-ye hajjiabad-e hajji ebrahim::村
+hasanabad-e jahanabad::村
+hasanabad-e khaleseh::村
+hasanabad-e majd ol dolleh::村
+hasanabad-e pain::村
+hasanabad-e shandak::村
+hasanabad-e sofla::村
+hasanabad-e yek::村
 hasanabad::村
+hasanak dar::村
 hasanak::村
+hasanali kandi::村
+hasanağa::村
 hasanbey::村
 hasanbeyli::村
+hasancalı::村
 hasanchak::村
 hasandede::村
 hasandere::村
@@ -746,38 +1415,65 @@ hasanefendi::村
 hasangaya::村
 hasangazi::村
 hasanhati::村
+hasanjan kuh::村
 hasanjan::村
 hasankendi::村
 hasankhandan::村
 hasanlar::村
 hasanlu::村
+hasanlı::村
 hasanova::村
+hasanpaşa::村
 hasanpur::村
 hasanpura::村
 hasantepe::村
 hasanur::村
 hasarambi::村
+hasasaneh-ye bala::村
+hasasaneh-ye pain::村
 hasayaz::村
 hasbasheh::村
 hasbestan::村
 hasbialaye::村
 hascombe::村
+hasdere, gazipaşa::村
+hasdümen, serik::村
+hasel qubi-ye afshar::村
+hasel qubi-ye amirabad::村
 haselor::村
 hasgebe::村
+hasha kalayeh::村
+hasham balm::村
+hasham kuh::村
+hasham-e champeh::村
+hasham-e howdow::村
 hashamar::村
 hashan::村
 hasharabad::村
+hashcheh-ye makineh::村
+hashcheh-ye olya::村
+hashcheh-ye sofla::村
 hasheh::村
+hashem beg::村
+hashemabad-e soltani::村
 hashemabad::村
 hashemak::村
 hashemanli::村
 hashiabad::村
 hashian::村
+hashieh rud::村
 hashilan::村
 hashimpur::村
+hashish::村
 hashkova::村
 hashli::村
+hasht bandi-ye do::村
+hasht jofteh::村
+hasht markh::村
+hasht pashtuleh::村
+hasht peyman::村
 hashtabad::村
+hashtad joft::村
 hashtadan::村
 hashtari::村
 hashtaruchuni::村
@@ -787,33 +1483,61 @@ hashtugan::村
 hashvid::村
 hasil::村
 hasim::村
+hasin-e bozorg::村
+hasin-e kuchak::村
 hasiran::村
+hasići::村
+hasköy::村
 hasle::村
 hasnapur::村
 hasnarud::村
+hasni kuh::村
 hasrajiyah::村
 hasratan::村
+hassall green::村
+hassanabad koorin::村
+hassanabad lankeh::村
+hassanabad, qanat nasi::村
+hassanabad, zahedan::村
+hassanak, zahedan::村
+hassanpur kalan::村
+hassanpur khurd::村
 hasseh::村
 hasselvika::村
+hassi abdallah::村
+hassi bel guebour::村
+hassi khébi::村
+hassi lahdjar::村
+hassi mounir::村
 hassilabied::村
 hassop::村
 hassuwal::村
+hast muiyeh::村
 hast::村
 hastak::村
 hastarla::村
+hasteh kuh::村
 hastehjuk::村
 hastijan::村
+hasu kandi::村
 hasulazgi::村
 hasur::村
 hasushaki::村
 hasushiri::村
 hasvik::村
+haswell plough::村
 haswell::村
+hasyurt, finike::村
+hat basantapur::村
+hat mokamia::村
 hat::村
 hat:帽子
 hata::村
 hatadukkuwa::村
+hatai khedi::村
 hatakinhal::村
+hatam qaleh::村
+hatam sara::村
 hatamabad::村
 hatamunagala::村
 hatane::村
@@ -832,17 +1556,24 @@ hathiwind::村
 hathlangoo::村
 hathugoda::村
 hati::村
+hatihe'u::村
 hatimari::村
 hatimrampur::村
 hatipara::村
+hatipköy::村
+hatipler, manavgat::村
 hatipler::村
 hatipli::村
+hatipoğlu::村
+hatis::村
 hatiteh::村
 hatiyaldeniya::村
 hatiyalwela::村
+hatkeh posht::村
 hatkehlu::村
 hatkoti::村
 hatley::村
+hatli jamula::村
 hatmabad::村
 hatna::村
 hatnagoda::村
@@ -859,7 +1590,9 @@ hatsikavan::村
 hatsina::村
 hatsukope::村
 hattalkhindi::村
+hattar gunji::村
 hattarwad::村
+hatte lathan::村
 hattialur::村
 hattiangadi::村
 hattieville::村
@@ -875,31 +1608,49 @@ hatwa::村
 hatyaraala::村
 hauerseter::村
 haugen::村
+haugh of urr::村
+haughton-le-skerne::村
 haughton::村
 haugland::村
 haugsbygd::村
 haukanes::村
 haukedalen::村
+haukeli::村
 hauknes::村
 hauna::村
 haunton::村
+haus im ennstal::村
 haus::村
+hausen an der möhlin::村
+hausen im wiesental::村
 hausen::村
 hauset::村
 hausma::村
 hauswurz::村
+haut-martelange::村
+hautajärvi::村
 hautbellain::村
 hauwert::村
+hava daraq::村
+hava dul::村
+havalı::村
 havanduk::村
+havang-e pain::村
+havar kandi qeshlaqi::村
 havar::村
 havarabid::村
 havaran::村
+havareh barzeh::村
+havareh khul::村
+havas kandi::村
 havas::村
 havashanq::村
 havay::村
 havbro::村
 have:有
 haveh::村
+haveli kalan::村
+haveli khurd::村
 haveli::村
 havelte::村
 havelterberg::村
@@ -909,6 +1660,7 @@ havigan::村
 havij::村
 havilan::村
 havir::村
+havistin::村
 havrylivka::村
 havullu::村
 havutlu::村
@@ -917,51 +1669,81 @@ havuzlu::村
 hawaii:夏威夷
 hawaiian islands:夏威夷群岛
 hawaiian:夏威夷人
+hawar kilis::村
 hawbridge::村
+hawijah fauqa::村
+hawijat al-sallah::村
 hawk:鹰
+hawkesbury upton::村
+hawkesbury village::村
 hawkeye:鹰眼
 hawking:霍金
 hawkins::村
 hawkshaw::村
 hawley::村
+haworth::村
 hawqa::村
+hawsh al-sayyid ali::村
 hawston::村
+hawtat as sadah::村
 hawthorn::村
 hawyaw::村
+hay lakes::村
 hayalin::村
 hayan::村
+hayanist::村
+hayat ol gheyb::村
+hayatabad-e khalifeh::村
+hayatabad-e majidi::村
 hayatpur::村
 hayaviyeh::村
 hayawt::村
 haydar::村
+haydarköy::村
 haydarlar::村
 haydarli::村
+haydarlı, nazilli::村
+haydarlı, Şereflikoçhisar::村
+haydarlı::村
 haydarpur::村
 haydere::村
+haydon bridge::村
+hayes center::村
 haykadzor::村
 haykasar::村
 haykashen::村
 haykavan::村
+haylat radi al baham::村
 haymar::村
 haynan::村
 hayranlar::村
 hayravank::村
 hayredin::村
 hayrenyats::村
+hayrettinköy::村
 hayriye::村
 haysville::村
 hayton::村
+hayyah kabirah::村
 hayyeh::村
 hazara::村
+hazarat ali::村
 hazard::村
 hazaveh::村
 hazbeh::村
+hazel crest::村
+hazel green::村
 hazeley::村
 hazelwood::村
+hazerswoude-dorp::村
 hazipur::村
 haziran::村
+hazm haynan::村
 haznedar::村
 hazora::村
+hazrat-e soltan::村
+haçaqaya::村
+hałdrychowice::村
 he did not make it:他没挺过来
 he was born in los angeles:他出生于洛杉矶
 he:他
@@ -985,6 +1767,7 @@ hear:听
 heart surgery:心脏外科
 heartwell::村
 heat:热
+heath end::村
 heath::村
 heaven:天堂
 heavy:重的
@@ -1002,13 +1785,17 @@ hedaginal::村
 hedayatabad::村
 heddeh::村
 heddeland::村
+heddon-on-the-wall::村
 heded::村
 hedeniya::村
 hedgimadra::村
 hedikhuizen::村
 hedkan::村
+hedley on the hill::村
 hedrehely::村
 hedunuwawa::村
+hedwiżyn::村
+hee-gyathang::村
 heeg::村
 heel:脚跟
 heelsum::村
@@ -1024,6 +1811,7 @@ hefzabad::村
 hegama::村
 hegasulla::村
 hegde::村
+hegelsom::村
 hegge::村
 heggelia::村
 heggem::村
@@ -1034,13 +1822,21 @@ heggunda::村
 hegra::村
 hegyesd::村
 hegyfalu::村
+hegyháthodász::村
+hegyhátmaróc::村
+hegyhátszentmárton::村
+hegyhátszentpéter::村
+hegykő::村
 hegymagas::村
 hegymeg::村
+hegyszentmárton::村
+hei- en boeicop::村
 heide::村
 heighington::村
 height:高度
 heigi::村
 heikant::村
+heilig landstichting::村
 heiligenthal::村
 heiligerlee::村
 heim::村
@@ -1049,21 +1845,37 @@ heimtali::村
 heinenoord::村
 heino::村
 heiranglwa::村
+heisler::村
+heispelt::村
+heistad::村
+heiste::村
+heistesoo::村
+heiås::村
 hej::村
 hejce::村
+hejran dust::村
 hejran::村
+hejrat durab::村
 hejrat::村
+hejőbába::村
+hejőkeresztúr::村
+hejőkürt::村
+hejőpapi::村
+hejőszalonta::村
 hek::村
+heka-azimio::村
 hekal::村
 hekelingen::村
 hekematabad::村
 hekendorp::村
+hekmatabad-e pain::村
 hekmatestan::村
 helaghareh::村
 helal::村
 helalabad::村
 helali::村
 helambagahawatta::村
+helan-e safarali::村
 helan::村
 helda::村
 heldalsmo::村
@@ -1074,9 +1886,11 @@ helena::村
 helenowo::村
 helenurme::村
 helesfa::村
+helford passage::村
 helgeroa::村
 helgheim::村
 helicopter:直升飞机
+helis::村
 helium:氦
 heliveh::村
 helix:螺旋
@@ -1085,11 +1899,14 @@ hell::村
 hell:地狱
 hellab::村
 hellabad::村
+hellah dommah::村
 hellak::村
 hellamaa::村
 hellandsbygda::村
+hellandsjøen::村
 helldal::村
 helle::村
+helleh va delleh::村
 hellenurme::村
 hellerud::村
 hello:你好
@@ -1098,7 +1915,9 @@ hellum::村
 hellurnar::村
 hellvik::村
 helminths:寄生虫
+helmküla::村
 helmshore::村
+helmës::村
 help me:帮帮我
 help:帮助
 helperthorpe::村
@@ -1106,6 +1925,9 @@ helpful:有帮助的
 heltermaa::村
 helton::村
 helva::村
+helvacı::村
+hem heath::村
+hem::村
 hemagahahena::村
 hemagudda::村
 hemalkasa::村
@@ -1116,9 +1938,20 @@ hemda::村
 hemelum::村
 hemingfield::村
 hemingford::村
+hemis::村
 hemisphere:半球
 hemmadaga::村
 hemmat::村
+hemmatabad-e agah::村
+hemmatabad-e chah zahra-ye bala::村
+hemmatabad-e chah-e malek::村
+hemmatabad-e chalaki::村
+hemmatabad-e gol mohammad::村
+hemmatabad-e olya::村
+hemmatabad-e sistaniha::村
+hemmatabad-e sofla::村
+hemmatabad-e vahab::村
+hemmatabad-e zamani::村
 hemmatabad::村
 hemmen::村
 hemnagar::村
@@ -1129,18 +1962,29 @@ hempens::村
 hempton::村
 hemtabad::村
 hemure::村
+hen bentref llandegfan::村
+henabad-e olya::村
+henabad-e sofla::村
 henagahawela::村
+henagehuwala medagammedda::村
 henagehuwala::村
 henapola::村
 hence:因此
 hencida::村
 hencse::村
+hend khaleh::村
 hendabad::村
+hendavaneh-ye pordesar::村
+hendeh garan::村
 hendeh::村
+hendek::村
+hendekköy::村
 hendelan::村
 hendeniya::村
 hendevalan::村
 hendevan::村
+hendi bolagh::村
+hendi kandi::村
 hendi::村
 hendileh::村
 hendim::村
@@ -1148,24 +1992,33 @@ hendiman::村
 hendiz::村
 hendley::村
 hendovan::村
+hendu chub::村
+hendu kola::村
+hendu marz::村
 henduabad::村
 hendukosh::村
 hendvar::村
 hendy::村
+henegama palkumbura::村
 henegama::村
 heneglwys::村
 henek::村
+hengam-e jadid::村
+hengam-e qadim::村
 hengaran::村
 hengevelde::村
 hengstdijk::村
 henguiyeh::村
 henhoaha::村
+henidar-e ebrahim khan::村
+henidar-e mafruzeh::村
 heningkunglwa::村
 heniz::村
 henj::村
 henjam::村
 henkayi::村
 henllan::村
+henlow camp::村
 hennan::村
 henneseid::村
 henning::村
@@ -1173,8 +2026,11 @@ hennummarka::村
 henry::村
 henry:亨利
 henrykowice::村
+henryków lubański::村
+henryków::村
 henrysin::村
 hensbroek::村
+henzeni-ye bala::村
 henzeni::村
 heon::村
 hepana::村
@@ -1196,12 +2052,15 @@ herbaceous:非木的
 herbaijum::村
 herbedan::村
 herbel::村
+herbertstown::村
 herbesthal::村
 herbivorous:食草的
 herborn::村
 herbow::村
 herby::村
 herceghalom::村
+hercegkút::村
+hercegovačka goleša::村
 hercules:大力神
 herdaiv::村
 here:这里
@@ -1216,10 +2075,12 @@ heresznye::村
 herfelingen::村
 herher::村
 herian::村
+heridun-e zirkal::村
 heriknaz::村
 herilabad::村
 heringhausen::村
 heriraz::村
+heris::村
 heritage:遗产
 herjava::村
 herkingen::村
@@ -1227,6 +2088,8 @@ herlazhofen::村
 herman::村
 hermanak::村
 hermani::村
+hermankono-diès::村
+hermankono-garo::村
 hermanowo::村
 hermaphrodite:雌雄同体
 hermedan::村
@@ -1237,7 +2100,18 @@ hermon::村
 hermostan::村
 herne::村
 hernen::村
+hernyék::村
+hernádbűd::村
+hernádcéce::村
+hernádkak::村
+hernádkércs::村
+hernádnémeti::村
+hernádpetri::村
+hernádszentandrás::村
+hernádszurdok::村
+hernádvécse::村
 hero:英雄
+herodsfoot::村
 heroic:英雄的
 heroin:海洛因
 heroine:女英雄
@@ -1246,6 +2120,7 @@ herongate::村
 herpen::村
 herpt::村
 herraj::村
+herramélluri::村
 herre::村
 herresbach::村
 herrick::村
@@ -1254,33 +2129,105 @@ hersey::村
 hersham::村
 herskind::村
 hersvikbygda::村
+herteh kola::村
 herten::村
 hertevin::村
 hertme::村
 hertu::村
 hertz:赫兹
 heruk::村
+heruz-e olya::村
+heruz-e sofla::村
 herveld::村
 hervik::村
+hervías::村
 herwen::村
 herwijnen::村
+heréd::村
+herøysund::村
 hesagi::村
 hesamabad::村
+hesar andaf::村
+hesar bolaghi::村
+hesar bon::村
+hesar dar::村
+hesar darreh::村
+hesar goli::村
+hesar jalal::村
+hesar juq::村
+hesar kharabeh::村
+hesar mehtar::村
+hesar now::村
+hesar qaranqu::村
+hesar qelij::村
+hesar sefid::村
+hesar shivan::村
+hesar sorkh::村
+hesar-e abd ol karim::村
+hesar-e agh bolagh::村
+hesar-e amir::村
+hesar-e babaganjeh::村
+hesar-e bahram khan::村
+hesar-e bala::村
+hesar-e chupan::村
+hesar-e dashtak::村
+hesar-e devin::村
+hesar-e gapuchi::村
+hesar-e hajji esmail::村
+hesar-e hajjilar::村
+hesar-e hasan beyk::村
+hesar-e honameh::村
+hesar-e isa::村
+hesar-e kazimabad::村
+hesar-e khuni::村
+hesar-e kordha::村
+hesar-e kuchek::村
+hesar-e meydan daghi::村
+hesar-e mohammadiyeh::村
+hesar-e olya::村
+hesar-e pahlavanlu::村
+hesar-e pain::村
+hesar-e qajar::村
+hesar-e qarah baghi::村
+hesar-e qarah tappeh::村
+hesar-e qazi::村
+hesar-e qujeh baghi::村
+hesar-e sangi::村
+hesar-e sati::村
+hesar-e sefid::村
+hesar-e seyyedlar::村
+hesar-e shah verdi khan::村
+hesar-e shalpush::村
+hesar-e shaveh::村
+hesar-e sofla::村
+hesar-e sopurghan::村
+hesar-e sorkh::村
+hesar-e tarmani::村
+hesar-e teymur tash::村
+hesar-e torkaman::村
+hesar-e valiyeasr::村
+hesar-e yazdan::村
 hesar::村
 hesarabad::村
+hesarcheh-ye pain::村
 hesarcheh::村
+hesari-ye gazerani::村
 hesari::村
 hesarlu::村
+hesaruiyeh::村
 hesban::村
 hesby::村
 hesharkeh::村
+heshi::村
 heshiabad::村
 heshik::村
+heshin::村
 heshmatabad::村
 heshmatiyeh::村
 heshniz::村
 heshterak::村
 heshtia::村
+hesil qanbareh::村
 hesitate:犹豫
 hesitation:犹豫
 heskestad::村
@@ -1295,6 +2242,7 @@ hessmer::村
 hestad::村
 hestur::村
 hestvika::村
+het wild::村
 heteren::村
 heterosexual fellatio:异性口交
 heterosexual:异性的
@@ -1305,8 +2253,10 @@ hetovlar::村
 hettick::村
 hettigammedda::村
 hetvenhely::村
+hetyefő::村
 heukelom::村
 heunanbe::村
+heung fan liu new village::村
 heuningvlei::村
 heuristic function:启发式函数
 heuristic:启发式的
@@ -1314,39 +2264,93 @@ heuweiler::村
 hevanewala::村
 hevela::村
 hevesaranyos::村
+hevesvezekény::村
 hewaheta::村
 hewanetenna::村
 hewanewala::村
+hewawissa::村
+hewawisse::村
 hewelsfield::村
 hewitt::村
 hexagon:六边形
 hexamidine:己脒定
+hey hey::村
 hey::村
 heyatabad::村
+heybat beyglu::村
+heybat-e jahan khanemlu::村
+heybat-e olya::村
+heybat-e sofla::村
 heybatollah::村
 heybeli::村
 heybetepe::村
+heydar alat::村
+heydar baghi::村
+heydar didehban::村
+heydar kar::村
+heydar kola::村
+heydarabad-e ali mardani::村
+heydarabad-e baba monir::村
+heydarabad-e chah narenj::村
+heydarabad-e chenareh::村
+heydarabad-e marali::村
+heydarabad-e meyheh::村
+heydarabad-e mohammad shir::村
+heydarabad-e olya::村
+heydarabad-e qur tapasi::村
+heydarabad-e saki::村
+heydarabad-e sofla::村
+heydarabad-e sohrab::村
+heydarabad-e tang seh riz::村
 heydarabad::村
 heydarali::村
+heydareh-ye dar-e emam::村
+heydareh-ye posht-e shahr::村
 heydari::村
 heydarik::村
 heydariyeh::村
 heydarkanlu::村
 heydarkhani::村
 heydarlu::村
+heydarluy-e beyglar::村
+heygeh-e kaliab::村
 heykuiyeh::村
 heyman::村
+heyr galu::村
+heyran-e olya::村
+heyran-e sofla::村
+heyran-e vosta::村
 heyran::村
 heyrat::村
 heyrod::村
 heyvand::村
 heyworth::村
 hezamara::村
+hezany::村
+hezar balut::村
+hezar darreh::村
+hezar jarib::村
+hezar jerib::村
+hezar jolfa::村
+hezar kandi::村
+hezar khal::村
+hezar khani-ye olya::村
+hezar khani-ye sofla::村
+hezar khani::村
+hezar mani-ye olya::村
+hezar mani-ye sofla::村
+hezar mani::村
+hezar som::村
 hezar::村
 hezarabad::村
+hezaran-e olya::村
+hezaran-e sofla::村
 hezargaz::村
 hezari::村
 hezarkhusheh::村
+hezarmishi::村
+hezarrud-e olya::村
+hezarrud-e sofla::村
 hezarta::村
 hezehburan::村
 hezwan::村
@@ -1363,23 +2367,47 @@ hickling::村
 hidalgo::村
 hidan::村
 hidas::村
+hidasnémeti::村
 hiddaulla::村
 hide:隐藏
+hidegkút::村
+hidegség::村
 hidkal::村
+hidvégardó::村
 hierarchical:层级的
 hierarchy:层级
 hieroglyph:象形文字
+high catton::村
 high class:高级的
+high cross::村
+high dyke::村
+high ellington::村
+high ercall::村
+high etherley::村
 high five:举手击掌
+high friarside::村
+high grange::村
+high green::村
+high haswell::村
+high hesleden::村
+high hurstwood::村
+high lane::村
 high latitude:高纬度
+high newton::村
 high performance:高性能
 high quality:高质量
+high shincliffe::村
+high stoop::村
+high urpeth::村
 high water:潮峰
 high:高
 higham::村
+higher dinting::村
+higher walton::村
 higher:更高的
 higherford::村
 highest:最高的
+highland park::村
 highland::村
 highly customizable:高度可定制的
 hightown::村
@@ -1389,19 +2417,28 @@ hiie::村
 hiiemetsa::村
 hiiessaare::村
 hiietse::村
+hiievälja::村
 hijan::村
 hijanan::村
 hijken::村
 hijum::村
+hikan-e bala::村
 hikkim::村
 hiku::村
 hilaller::村
 hilauli::村
 hilbert::村
 hildreth::村
+hileh rud::村
+hileh sara::村
 hilgi::村
 hili::村
+hiliuți::村
+hill mountain::村
+hill spring::村
+hill top::村
 hill:山丘
+hillar shahabad::村
 hillary:希拉里
 hillcrest::村
 hillesley::村
@@ -1417,6 +2454,7 @@ hilpenkandura::村
 hilpertsau::村
 hilsa::村
 hilston::村
+hilton colony::村
 hilton::村
 hilvare::村
 him:他
@@ -1426,29 +2464,37 @@ himayatnagar::村
 himbiliyakada::村
 himbirti::村
 himbleton::村
+himesháza::村
 himmatgarh::村
 himmatpur::村
+himmatpura::村
 himmetli::村
+himmiste::村
 himod::村
 himself:他自己
 himya::村
+hin tagher::村
+hin tin::村
 hinagama::村
 hinckley::村
 hindagala::村
 hindagoda::村
 hindalagi::村
+hindaråvåg::村
 hindasgeri::村
 hindaste::村
 hinder:妨碍
 hindhead::村
 hindi:印地语
 hindirigama::村
+hindley green::村
 hindol::村
 hindsboro::村
 hindu::村
 hindu:印度教徒
 hinduism:印度教
 hineman::村
+hines creek::村
 hinga::村
 hingamau::村
 hingani::村
@@ -1463,11 +2509,16 @@ hini::村
 hinnarangolla::村
 hinnebu::村
 hinnunga::村
+hinoti sadak::村
+hinotiya ghat::村
+hinotiya jagir::村
+hinotiya piran::村
 hinoune::村
 hinqar::村
 hinsa::村
 hinsdale::村
 hintin::村
+hinton parva::村
 hinton::村
 hintona::村
 hinxton::村
@@ -1477,15 +2528,20 @@ hippargarava::村
 hipperholme::村
 hippocampus:海马体
 hiq::村
+hir shahabad::村
 hir::村
 hirab::村
 hirabad::村
 hirad::村
+hiran khedi::村
 hiran::村
 hiranpur::村
 hirapur::村
 hiravadi::村
 hirbandh::村
+hire kotnekal::村
+hire-angrolli::村
+hire-hattiholi::村
 hire:雇用
 hirebellikatti::村
 hirebidanur::村
@@ -1496,6 +2552,7 @@ hiregutti::村
 hireharakuni::村
 hirehatti::村
 hirehonnihalli::村
+hirekoppa k.m.::村
 hirekumbi::村
 hiremalligawad::村
 hiremanoli::村
@@ -1512,9 +2569,13 @@ hirgan::村
 hirgana::村
 hirhafek::村
 hirics::村
+hirisave::村
 hiriyalagammana::村
+hirișeni::村
+hirka polonka::村
 hirla::村
 hirlipali::村
+hirmuküla::村
 hirmuse::村
 hirmuste::村
 hirnoda::村
@@ -1528,7 +2589,21 @@ hirvand::村
 hirvi::村
 hirvli::村
 his wife:他的妻子
+his::村
 his:他的
+hisar::村
+hisaralan::村
+hisarcık, nazilli::村
+hisarcık::村
+hisare::村
+hisarköy::村
+hisarlı::村
+hisarçandır, konyaaltı::村
+hisek::村
+hishin-e sofla::村
+hisri::村
+hissi::村
+histan::村
 historian:历史学家
 historic:历史性的
 historical:历史的
@@ -1536,6 +2611,8 @@ history:历史
 hit::村
 hit:打击
 hitak::村
+hiteh tala::村
+hitgoda walpola::村
 hitgoda::村
 hitigegama::村
 hitigolla::村
@@ -1550,18 +2627,35 @@ hitzum::村
 hiurud::村
 hiv::村
 hivange::村
+hivehchi-ye bala::村
+hivehchi-ye markazi::村
+hivəri::村
+hiware bazar::村
+hiware korda::村
 hiwarwadi::村
 hixton::村
+hiyadala walpola::村
 hiyadala::村
 hiyarapitiya::村
 hiyawela::村
+hizabad-e bala::村
+hizabad-e pain::村
 hizaj::村
 hizan::村
 hizano::村
 hizbandegan::村
+hizeh jan::村
+hişgədərə::村
+hjartås::村
 hjellum::村
 hjelset::村
+hjordkær::村
+hjuksebø::村
 hjulby::村
+hjälstaby::村
+hjøllund::村
+hjørungavåg::村
+hka-u-in::村
 hkengnang::村
 hkomi::村
 hkonbyin::村
@@ -1572,6 +2666,7 @@ hlebce::村
 hlefi::村
 hlevene::村
 hliadky::村
+hliappui s::村
 hliappui::村
 hlina::村
 hlinaia::村
@@ -1588,6 +2683,9 @@ hnawgon::村
 hnokkyo::村
 hnutove::村
 hnyihnu::村
+ho lek pui::村
+ho pui tsuen::村
+ho pui::村
 ho::村
 hobart::村
 hobba::村
@@ -1599,6 +2697,10 @@ hobrede::村
 hobson::村
 hobulaiu::村
 hocabeyli::村
+hocaköy::村
+hocalar, manavgat::村
+hocalı, manavgat::村
+hocaoğlu::村
 hockey:曲棍球
 hodalen::村
 hodbeh::村
@@ -1608,7 +2710,10 @@ hodgkins::村
 hodk::村
 hodonoc::村
 hodovytsia::村
+hodoš::村
+hody-dobrovidka::村
 hody::村
+hodynіvka::村
 hodzhovtsi::村
 hoe:锄头
 hoedekenskerke::村
@@ -1616,32 +2721,49 @@ hoek::村
 hoeke::村
 hoelsand::村
 hoenzadriel::村
+hoesdorf::村
 hoeven::村
 hof::村
 hoffland::村
 hoffman::村
+hofireh-ye hajji barbeyn::村
+hofireh-ye olya::村
 hofireh::村
 hofstade::村
+hog harbour::村
 hogalbaria::村
 hogalpati::村
 hogarti::村
 hogebrug::村
 hoghmik::村
+hoginești::村
+hogla, bangladesh::村
 hogsback::村
 hogsetfeltet::村
 hohenfeld::村
 hohenkirchen::村
 hojagala::村
 hojjaratabad::村
+hojjatabad-e kaseh rud::村
+hojjatabad-e kharaji::村
+hojjatabad-e olya::村
+hojjatabad-e sardi::村
+hojjatabad-e sofla::村
+hojjatabad-e yazdiha::村
 hojjatabad::村
 hojjati::村
+hojm-e bala::村
+hojsova stráž::村
 hojumabad::村
+hok tau wai::村
 hol::村
 hola::村
 holan::村
 holanagadde::村
 holand::村
 holaq::村
+holbeach drove::村
+holberrow green::村
 holbrook::村
 holcombe::村
 hold hands:牵手
@@ -1652,12 +2774,15 @@ holdhus::村
 holdre::村
 hole:洞
 holercani::村
+holiday hills::村
 holiday:假日
 holihosur::村
 holinagalapur::村
 holla::村
 holland:荷兰地区
 hollandale::村
+hollands landing::村
+hollandsche rading::村
 hollandscheveld::村
 hollenfels::村
 holler::村
@@ -1667,9 +2792,18 @@ hollington::村
 hollingworth::村
 hollowayville::村
 holly::村
+hollywood::村
 hollywood:好莱坞
+hollád::村
+hollóháza::村
+hollókő::村
+holm village::村
 holm::村
+holmbury st mary::村
 holmbush::村
+holme lacy::村
+holme marsh::村
+holme on the wolds::村
 holme::村
 holmedal::村
 holmefjord::村
@@ -1687,28 +2821,43 @@ holsloot::村
 holsta::村
 holstein::村
 holstre::村
+holt end::村
 holt::村
 holten::村
 holthees::村
 holtikoti::村
+holtsås::村
 holubivka::村
+holudar-e pain::村
 holul::村
+holvar-e olya::村
+holvar-e sofla::村
 holwert::村
 holy:神圣的
 holybourne::村
 holymoorside::村
 holysloot::村
 holystone::村
+holywell green::村
+holywell row::村
 holywell::村
 holzdorf::村
 holzhau::村
 holzthum::村
+hom-e khosrow::村
 homa::村
+homaabad-e olya::村
+homag-e bala::村
+homag-e pain::村
 homageran::村
+homai-ye olya::村
 homai::村
 homajegeh::村
 homapola::村
 homasar::村
+homay-e olya::村
+homay-e sofla::村
+homayun kosh::村
 homayun::村
 hombal::村
 hombar::村
@@ -1735,18 +2884,26 @@ homeyran::村
 homeyreh::村
 homijan::村
 homme::村
+hommelstø::村
+hommersåk::村
 homo sapiens:人类
+homokbödöge::村
+homokkomárom::村
+homokszentgyörgy::村
+homorúd::村
 homosexual:同性恋的
 homosexuality:同性恋
 homqavand::村
 homrian::村
 homrogd::村
+homrud bon::村
 homsar::村
 homstean::村
 homu::村
 honakal::村
 honakuppi::村
 honameh::村
+honarstan-e kashavarzi::村
 honaviyeh::村
 honda:本田
 hondor::村
@@ -1757,6 +2914,9 @@ honduras:洪都拉斯
 honey:蜂蜜
 honeycomb:蜂巢
 honeymoon:蜜月
+honeyri-ye do::村
+honeyri-ye seh::村
+honeyri-ye yek::村
 hongcun::村
 hongdan::村
 honguyeh::村
@@ -1774,13 +2934,20 @@ honor::村
 honor:荣誉
 hont::村
 honuj::村
+hood green::村
 hood:头巾
+hooe common::村
 hoof:蹄
 hoofdplaat::村
+hoog soeren::村
 hoogblokland::村
+hooge mierde::村
+hooge zwaluwe::村
 hoogersmilde::村
+hoogkarspel::村
 hooglanderveen::村
 hoogstade::村
+hook-a-gate::村
 hooker:妓女
 hooley::村
 hoolikatti::村
@@ -1811,17 +2978,24 @@ horbategh::村
 horbekul::村
 horben::村
 horbova::村
+horbów-kolonia::村
+horbów::村
 horda::村
 horden::村
 hordville::村
+horeh-ye agul-e bala::村
 horenka::村
 horenychi::村
+horestaneh-ye olya::村
 horeszkowice::村
+horești::村
 horgan::村
 horham::村
 horhoreh::村
+hori, zahedan::村
 horian::村
 horijeh::村
+horin khalifeh::村
 horizon:地平线
 horizontal:水平的
 horjand::村
@@ -1830,37 +3004,59 @@ hormak::村
 hormilla::村
 hormilleja::村
 hormozabad::村
+hormud-e mehr khui::村
 hormud::村
 hormuj::村
+horn (am bodensee)::村
 horn::村
 horncliffe::村
+hornillos de cameros::村
+horno de alcedo::村
+hornos de moncalvillo::村
 hornostaivka::村
+hornówek::村
+horný vék::村
 horodca::村
 horodets::村
+horodiște::村
 horodnia::村
 horodok::村
 horodyshche::村
+horodyszcze-kolonia::村
 horodyszcze::村
 horom::村
 horovlu::村
+horozköy, aydın::村
 horozlu::村
+horpács::村
+horrabad-e olya::村
+horrabad-e sofla::村
 horrabad::村
 horrabridge::村
+horrat ol abbas::村
 horreyn::村
 horriyeh::村
 horror:恐怖
 hors::村
+horse and jockey::村
 horse:马
 horseheath::村
 horsell::村
+horseman's green::村
+horsham st faith::村
 horsham::村
 horsleyhope::村
+horsmonden::村
 horssen::村
 hort::村
+hortobágy::村
 horton::村
 hortonville::村
 hortougou::村
 hortunas::村
+horváthertelend::村
+horvátlövő::村
+hosa yedur::村
 hosabettu::村
 hosagavi::村
 hosakatti::村
@@ -1871,12 +3067,73 @@ hosapalli::村
 hosatti::村
 hosawal::村
 hosby::村
+hoscheid-dickt::村
 hosen::村
+hoseyn ali kandi-ye ajam::村
+hoseyn aqa::村
+hoseyn arbabi::村
+hoseyn bazar::村
+hoseyn beygi::村
+hoseyn beyglu::村
+hoseyn dahish::村
+hoseyn farakhi::村
+hoseyn ghalayem::村
+hoseyn hyati::村
+hoseyn kandi::村
+hoseyn khan kandi::村
+hoseyn khan::村
+hoseyn khanlu::村
+hoseyn khun::村
+hoseyn kord::村
+hoseyn kuh::村
+hoseyn kutah::村
+hoseyn mameh::村
+hoseyn mashlush::村
+hoseyn nahaz::村
+hoseyn naju::村
+hoseyn qeshlaqi gurabazlu::村
+hoseyn qeshlaqi hajj khvajehlu::村
+hoseyn qoli::村
+hoseyn rostam::村
+hoseyn sadani::村
+hoseyn safdar::村
+hoseyn sara::村
+hoseyn talai::村
+hoseyn zehi::村
+hoseyn-e zaeri::村
+hoseynabad-e akhund::村
+hoseynabad-e chaf::村
+hoseynabad-e do::村
+hoseynabad-e eqbal::村
+hoseynabad-e hafashlu::村
+hoseynabad-e hendi olya::村
+hoseynabad-e kalpu::村
+hoseynabad-e kashani::村
+hoseynabad-e khan::村
+hoseynabad-e latabad::村
+hoseynabad-e olya::村
+hoseynabad-e qaleh sorkh::村
+hoseynabad-e rismani::村
+hoseynabad-e rud shur::村
+hoseynabad-e shageman::村
+hoseynabad-e sistaniha::村
+hoseynabad-e sofla::村
+hoseynabad-e surmaq::村
+hoseynabad-e tarman::村
+hoseynabad-e vali mohammad::村
+hoseynabad-e yek::村
 hoseynabad::村
 hoseynaki::村
+hoseynali beyglu::村
 hoseynaliabad::村
 hoseynan::村
+hoseyni-ye olya::村
 hoseyni::村
+hoseynieh-ye sar bardian::村
+hoseyniyeh-ye khazir::村
+hoseyniyeh-ye mashkur::村
+hoseyniyeh-ye mir shenan::村
+hoseyniyeh-ye olya::村
 hoseyniyeh::村
 hoseynkhan::村
 hoseynkhani::村
@@ -1888,33 +3145,54 @@ hoskins::村
 hoskoti::村
 hoslemo::村
 hosnijeh::村
+hospital::村
 hospital:医院
 hospitalization:住院
 hossa::村
+hosseinabad bazi::村
+hosseinabad, corrin::村
+hosseinabad, khodarahm rigi::村
+hosseinabad, mirjaveh::村
+hosseinabad, zahedan::村
+hosseinabad-e chahrahman::村
+hosseinabad-e qanat::村
 hosston::村
+hosszúpereszteg::村
+hosszúvíz::村
+hosszúvölgy::村
 host:主机
 hostage:人质
 hostalric::村
+hostice::村
 hoston::村
 hostovice::村
 hosur::村
+hosznia abramowska::村
+hosznia ordynacka::村
+hosztót::村
 hot dog:热狗
 hot water:热水
 hot:热
 hotale::村
+hotavlje::村
 hotel:旅馆
+hotemaže::村
 hothian::村
 hoti::村
+hotična::村
 hotkan::村
 hotkovo::村
 hotonj::村
 hotovo::村
 hottal::村
+hottó::村
 houck::村
 houde::村
 houetiara::村
+houghton bank::村
 houghton::村
 houma::村
+hound green::村
 houruiyeh::村
 house of representatives:众议院
 house::村
@@ -1925,6 +3203,7 @@ househusband:家务男
 housekeeper:女管家
 housewife:主妇
 houston:休斯敦
+hout-blerick::村
 hout::村
 houtem::村
 houthem::村
@@ -1937,6 +3216,8 @@ hovarsin::村
 hovden::村
 hovet::村
 hoveyleh::村
+hoveysh-e jadid::村
+hoveysh-e neys::村
 hoveysh::村
 hovin::村
 hovit::村
@@ -1947,28 +3228,52 @@ hovtun::村
 hovuni::村
 hovuslu::村
 how:如何
+howard city::村
 howard::村
+howards grove::村
+howbeh-ye kukhan::村
+howden-le-wear::村
 howells::村
 however:然而
 howgend::村
 howsham::村
 howtan::村
+howwood::村
+howz gel::村
+howz koti::村
+howz-e galurshur::村
+howz-e hafez::村
+howz-e hasan ali::村
+howz-e karam::村
+howz-e mahi::村
+howz-e seyyed morad::村
+howz-e sheykh-e zemkan::村
+howz-e sorkh::村
+howz-e zireh::村
 hoxne::村
 hoylandswaine::村
 hoyleton::村
+hoyuelos de la sierra::村
+hoçaz::村
+hoçë e qytetit::村
+hoćevina::村
+hołodnica::村
 hpala::村
 hpalapyang::村
 hpaochan::村
 hpare::村
 hpaungzeik::村
+hpawlam jinghkyen::村
 hpayonga::村
 hposandin::村
 hpyithpyaw::村
+hrabenov::村
 hrabove::村
 hrabrino::村
 hrabrovo::村
 hradaspur::村
 hradivka::村
+hradiště::村
 hrafske::村
 hranitne::村
 hrasna::村
@@ -1979,19 +3284,27 @@ hremiach::村
 hrgar::村
 hrianghmun::村
 hrianykivka::村
+hristici::村
+hristovaia::村
+hristovtsi::村
 hromitsa::村
 hromivka::村
+hronský beňadik::村
 hrozyntsi::村
 hrud::村
 hrushivka::村
+hrushvytsia persha::村
 hrustovo::村
 hryhorivka::村
 hrymne::村
 hryni::村
 hrynky::村
+hsarat::村
 hsohsa::村
+hsum hsai::村
 htandaw::村
 htangprai::村
+htangsan::村
 htawgaw::村
 htawmshing::村
 hteinson::村
@@ -1999,7 +3312,9 @@ htidawgaing::村
 htimahto::村
 htingra::村
 htingrahtap::村
+htisöm::村
 html:超文本标记语言
+htoma myauk::村
 htonban::村
 htonwaing::村
 http:超文本传输协议
@@ -2012,6 +3327,7 @@ hubbard::村
 hubbardston::村
 hubbarwadi::村
 hubbell::村
+hubberts bridge::村
 hubina::村
 hubkiv::村
 huby::村
@@ -2024,6 +3340,9 @@ hudo::村
 hudson::村
 hudul::村
 huey::村
+hufel-e gharbi::村
+hufel-e seyyed hamad::村
+hufel-e sharqi::村
 hufel::村
 hug:拥抱
 hughenden::村
@@ -2032,11 +3351,16 @@ hugyag::村
 huhla::村
 huijbergen::村
 huikap::村
+huis ter heide::村
+huisduinen::村
 hujqan::村
 huk::村
+hukani-ye olya::村
+hukani-ye sofla::村
 huker::村
 hukerd::村
 huki::村
+hukkeri (rural)::村
 huklyvyi::村
 hukuntsi::村
 hulaginakoppa::村
@@ -2044,6 +3368,7 @@ hulakoppa::村
 hulan::村
 huland::村
 hulandasht::村
+hular-e olya::村
 hulasu::村
 hulavalewadi::村
 hulestun::村
@@ -2059,14 +3384,20 @@ hulikunte::村
 huliq::村
 hulivana::村
 hulkund::村
+hull bridge::村
 hull::村
 hullambi::村
 hullapur::村
 hullikere::村
 hullolihatti::村
+hulmadian-e bala::村
+hulmadian-e pain::村
+hulsberg::村
 hulste::村
 huluboaia::村
+huluganga town::村
 huluganga::村
+hum ol din::村
 hum::村
 humac::村
 humadan::村
@@ -2082,6 +3413,7 @@ humanitarian:人道主义的
 humans:人类
 humboldt::村
 hume::村
+humelicë::村
 humerus:肱骨
 humid:潮湿的
 humidity:湿度
@@ -2094,15 +3426,20 @@ humour:幽默
 humphreys::村
 hun::村
 huncoat::村
+hundar dok::村
 hundar::村
 hunderfossen::村
 hundhammeren::村
 hundinurga::村
 hundri::村
+hundshübel::村
 hundslund::村
 hundvin::村
 hune::村
 hunejan::村
+hunestan::村
+hung tso tin tsuen::村
+hung uk tsuen::村
 hungarian politician:匈牙利政客
 hungarian:匈牙利人
 hungarian:匈牙利语
@@ -2111,35 +3448,52 @@ hungeh::村
 hunger:饥饿
 hungry:饿
 hunhukwe::村
+huni sefid::村
 hunnaragi::村
 hunnasgiriya::村
 hunshikatti::村
+hunshyal (p.y.)::村
 hunstanworth::村
 hunt:猎杀
 hunteburg::村
 hunter:猎人
+huntingtower and ruthvenfield::村
 huntley::村
 huntsdale::村
+hunuange bogaskumburegammedda::村
+hunuange imbulkotadeniya::村
 hunugalpitiya::村
+hunuketa-ela::村
 hunuketawala::村
 hunuketella::村
 hunza::村
 hupperdange::村
+hur moghan-e olya::村
+hur moghan-e sofla::村
 hur::村
 hurab::村
 huraki::村
 hurazeh::村
 hurbaf::村
 hurchillo::村
+hurdal verk::村
 hurdegaryp::村
+hureh emir::村
 hureh::村
 huremi::村
+huri daraq::村
 huri::村
 hurian::村
+hurikaduwa madige::村
 hurikaduwa::村
+hurikaduwe madige::村
 hurilar::村
+hurley common::村
 hurley::村
+hurlford::村
 hurmaz::村
+hurmudar-e bala::村
+hurmudar-e pain::村
 hurmudar::村
 hurow::村
 hurricane:飓风
@@ -2148,6 +3502,8 @@ hurstpierpoint::村
 hurtekah::村
 hurthala::村
 huruiyeh::村
+hurworth place::村
+hurworth-on-tees::村
 hury::村
 hurz::村
 husa::村
@@ -2156,31 +3512,61 @@ husainyyat::村
 husari::村
 husarivka::村
 husavik::村
+husayn al-baher::村
+husayn, yemen::村
 husayniyah::村
 husband:丈夫
 husbandry:种养殖
+husbysjøen::村
 husewal::村
 hush::村
+hushab aluk::村
 hushdan::村
 hushfat::村
 hushom::村
 hushut::村
+hushyar chelleh::村
 husinka::村
 husnah::村
 husnayn::村
+hussain chak::村
 hussainabad::村
+hussainpur bulle::村
+hussainpur dulowal::村
 hussainpur::村
 hussar::村
 hustad::村
+hustisford::村
 hustler::村
+husulu::村
+husun bin humam::村
 husynne::村
+huszcza druga::村
+huszcza pierwsza::村
+husztót::村
+husøy::村
+hut gat jahli::村
+hut-e amr::村
+huta chodecka::村
+huta głodowska::村
+huta padniewska::村
+huta palędzka::村
+huta towarzystwo::村
+huta turobińska::村
+huta-chojno::村
+huta-mezhyhirska::村
+huta-strzelce::村
 huta::村
 hutak::村
 huthwaite::村
 hutmarah::村
+hutna wieś::村
 hutsonville::村
+huttange::村
 huttoft::村
+hutton henry::村
 hutuna::村
+hutysche::村
 hutysko::村
 huuksi::村
 huuvari::村
@@ -2188,15 +3574,21 @@ huwwarah::村
 huwwarin::村
 huyeh::村
 huyyeh::村
+huércanos::村
 hval::村
+hvalvík::村
 hvam::村
 hvittingfoss::村
+hvítanes::村
 hwein::村
 hwekum::村
 hwemaukkan::村
 hwesokchi::村
+hyannis::村
 hybrid:杂合的
+hyde heath::村
 hydra:多头蛇怪
+hydro project station::村
 hydrogen atom:氢原子
 hydrogen bonds:氢键
 hydrogen:氢
@@ -2210,3 +3602,97 @@ hyperactivity disorder:多动症
 hyperactivity:活动亢奋
 hypnotic:安眠药
 hyttbakken::村
+hács::村
+háromfa::村
+háromhuta::村
+hárskút::村
+häcklingen::村
+hälvati::村
+hämeenmäki::村
+hämmelepa::村
+hänga::村
+härgla::村
+härjadi::村
+härjanurme::村
+härma::村
+härmakosu::村
+härmä::村
+häusling::村
+håbbesland::村
+håbbestad::村
+håkavik::村
+hålandsmarka::村
+hålandsosen::村
+hæen::村
+hægeland::村
+hænsgardane::村
+hærland::村
+hèllèlè::村
+hédervár::村
+héhalom::村
+héreg::村
+hérébo::村
+hérédougou::村
+hét::村
+hévízgyörk::村
+hîjdieni::村
+hîncești::村
+hîrbovăț::村
+hósvík::村
+hõbeda::村
+hõbesalu::村
+hõreda::村
+höbringi::村
+högsåra::村
+hönow::村
+hösseringen::村
+hövej::村
+höytala::村
+hødnebø::村
+høllen::村
+høsterkøb::村
+høvringen::村
+høvåg::村
+høybakken::村
+høydalsmo::村
+høylandsbygd::村
+høysand::村
+hübi::村
+hübja::村
+hücü::村
+hülscheid::村
+hüngütlü::村
+hüseyinli::村
+hüseynalılar::村
+hüseynbəyli::村
+hüseynqulular::村
+hüseynuşağı::村
+hüti::村
+hüyükköy::村
+hüüru::村
+hădărăuți::村
+hăsnășenii mari::村
+hıdırlar, kızılcahamam::村
+hıdırlar, nallıhan::村
+hıdırlar::村
+hıdırşeyh, polatlı::村
+hırka::村
+hırkaköy::村
+hırmanlı::村
+hızırkahya, kumluca::村
+hőgyész::村
+həjo::村
+həkəri::村
+həmzəli::村
+həmənli::村
+hərtiz::村
+həsin::村
+həsənabad::村
+həsənbinə::村
+həsənlər::村
+həsənqaydı::村
+həsənqoca::村
+həsənxanlı::村
+həsənçobanlı::村
+hətəmlər::村
+həzrəoba::村
