@@ -1632,6 +1632,7 @@ chanbaran::村
 chance:机会
 chancellor:大臣
 chancellor:总理
+chancellor:大学校长
 chanch::村
 chanchati::村
 chanched::村
@@ -3833,6 +3834,7 @@ cin::村
 cincartala::村
 cincin::村
 cinema:电影院
+cinematography:电影摄影学
 cineni::村
 cinfelek::村
 cingirli::村
@@ -3882,6 +3884,21 @@ ciupkowo::村
 ciuślice::村
 civan::村
 civciler::村
+civil administration:民政
+civil aircraft:民用飞机
+civil aviation:民用航空
+civil court:民事法庭
+civil defence:民防
+civil engineer:土木工程师
+civil engineering:土木工程
+civil law:民法
+civil liberty:公民自由
+civil liberties:公民自由权
+civil parish:教区
+civil rights:公民权利
+civil servant:公务员
+civil service:公共服务部门
+civil society:公民社会
 civil war:内战
 civil:公民的
 civilian:平民
@@ -3962,6 +3979,7 @@ climate:气候
 climax::村
 climazolam:氯马唑仑
 climb:攀爬
+climbing:攀岩
 climăuți::村
 clinge::村
 clinic:诊所

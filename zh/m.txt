@@ -3164,6 +3164,7 @@ media::村
 media:媒体
 mediabad::村
 median:中央的
+median income:中等收入
 medical care:医疗护理
 medical college:医学院
 medical device:医疗设备
@@ -6061,6 +6062,9 @@ mount zion::村
 mount::村
 mount:登上
 mountain:山
+mountaineer:登山者
+mountaineering:登山
+mountaineering club:登山俱乐部
 mountcollins::村
 mountshannon::村
 mountsorrel::村

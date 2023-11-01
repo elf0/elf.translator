@@ -2088,6 +2088,9 @@ teach:教
 teacher:教师
 tealing::村
 team:队
+team game:组队游戏
+team sport:组队运动
+team sports:组队运动
 tear:撕裂
 teaspoon:茶匙
 teat:乳头
@@ -4153,6 +4156,7 @@ triangel::村
 triangle::村
 triangle:三角形
 triantafyllia::村
+triathlon:三项全能
 tribal:部落的
 triban::村
 tribanj::村
