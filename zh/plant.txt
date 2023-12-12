@@ -1,7 +1,7 @@
-apple:苹果
 aloe:芦荟
 anise:茴芹
 aniseed:茴芹
+apple:苹果
 asparagus:芦笋
 aspen:杨树
 bamboo:竹子
@@ -23,6 +23,8 @@ cumin:孜然
 durian:榴莲
 flower:花
 fruit:水果
+grape:葡萄
+grass:草
 illicium verum:八角
 ivy:常春藤
 leaf:叶
@@ -37,8 +39,6 @@ pear:梨
 pimpinella anisum:茴芹
 pineapple:菠萝
 potato:土豆
-grass:草
-grape:葡萄
 rice:大米
 root:根
 stem:茎

@@ -18,48 +18,48 @@ bull:公牛
 bunny:小兔兔
 caenorhabditis:线虫
 camel:骆驼
-canis:犬属
 canid:犬科动物
+canis:犬属
 carnivorous dinosaur:食肉恐龙
 carnivorous mammal:食肉哺乳动物
 carp:鲤鱼
 cat:猫
 caterpillar:毛毛虫
 cattle:家牛
-chameleon:变色蜥蜴
 chameleon:变色龙
+chameleon:变色蜥蜴
 chicken:鸡
 chimpanzee:黑猩猩
 cicada:蝉
 companion animal:宠物
 companion animal:陪伴动物
-cuttlefish:乌贼
 crane:鹤
+cuttlefish:乌贼
 dinosaur:恐龙
 dinosaurs:恐龙
 dog:狗
 dolphin:海豚
 domestic animal:家养动物
+domesticated animal:驯养动物
 domestic cat:家猫
 domestic dog:家犬
-domesticated animal:驯养动物
 donkey:驴子
 dove:鸽子
 dragon:龙
 dragonfly:蜻蜓
 duck:鸭
-dung beetle:屎壳郎
 dung beetle:蜣螂
+dung beetle:屎壳郎
 eagle:鹰
 eel:鳝鱼
 elf:精灵
 falcon:猎鹰
-flamingo:火烈鸟
 farm animal:农场动物
 felid:猫科动物
 female:雌性动物
 ferret:蒙眼貂
 fish:鱼
+flamingo:火烈鸟
 fox:狐狸
 fresh water fish:淡水鱼
 frog:青蛙
@@ -71,12 +71,12 @@ hare:长耳兔
 hawk:鹰
 helminth:寄生虫
 helminths:寄生虫
-hydra:多头蛇怪
 homo sapiens:人类
-housefly:家蝇
 horse:马
+housefly:家蝇
 human:人类
 human beings:人类
+hydra:多头蛇怪
 invertebrate:无脊椎动物
 jellyfish:水母
 kangaroo:袋鼠
@@ -88,6 +88,7 @@ mallard:野鸭
 mammal:哺乳动物
 mammalian:哺乳动物的
 mammals:哺乳动物
+mantis:螳螂
 marine animal:海洋动物
 marten:貂
 mice:老鼠
@@ -97,12 +98,11 @@ moose:驼鹿
 moth:蛾
 mouse:老鼠
 mule:骡子
-mantis:螳螂
 ox:牛
 oyster:牡蛎
 panther:黑豹
-parasite:寄生生物
 parasite:寄生虫
+parasite:寄生生物
 parasitic worm:寄生虫
 parrot:鹦鹉
 peacock:孔雀
@@ -120,8 +120,8 @@ rabbit:兔
 rat:耗子
 rooster:公鸡
 sable:黑貂
-sea urchin:海胆
 seahorse:海马
+sea urchin:海胆
 serpent:蛇
 shark:鲨鱼
 sheep:绵羊

@@ -1,21 +1,3 @@
-a alao::village
-a bottle of water:一瓶水
-a bucket of water:一桶水
-a cup of water:一杯水
-a ma wat::village
-a pint of water:一品脫水
-a pitcher of water:一罐水
-a pool of water:一池水
-a shan::village
-a unique feature:一个唯一的特征
-a useful article:一篇有用的文章
-a useful tool:一个有用的工具
-a user:一个用户
-a. mallavaram::village
-a. timmasagar::village
-a.i.bheemavaram::village
-a.kothapalli::village
-a.vemavaram::village
 a:一
 a:一个
 aaba::village
@@ -30,13 +12,14 @@ aahi::village
 aaichiyeh::village
 aakaru::village
 aakola::village
+a alao::village
 aalbeke::village
 aalden::village
 aali jan::village
 aalma ech chaab::village
 aalsum::village
-aam ganv::village
 aamaret el baykat::village
+aam ganv::village
 aammiq::village
 aampokhra::village
 aandu::village
@@ -44,329 +27,80 @@ aane kannambadi::village
 aappilattoq::village
 aapua::village
 aaramta::village
-aardla::village
 aardlapalu::village
+aardla::village
 aarlanderveen::village
 aarle-rixtel::village
+aarøsund::village
 aarsele::village
 aartswoud::village
-aarøsund::village
 aasa::village
 aaspere::village
-aasu::village
 aasukalda::village
 aasumetsa::village
 aasuvälja::village
+aasu::village
 aatkoli::village
 aavakuru::village
 aavere::village
 aaviku::village
 aayta ej jabal::village
 aazhigudi::village
-ab alvan::village
-ab amiri::village
-ab anar seyyed nazer hoseyni::village
-ab anar::village
-ab anari::village
-ab anbar-e jahad ashayeri::village
-ab anbar::village
-ab anjir-e olya::village
-ab anjir-e sofla::village
-ab anjir::village
-ab araq::village
-ab asemani::village
-ab ask::village
-ab aspid guzenan::village
-ab bad-e kaleb ali khani::village
-ab bad-e pedari::village
-ab bad-e qahremani::village
-ab bad-e sivandi::village
-ab bad::village
-ab bada::village
-ab badamu::village
-ab bahar-e do::village
-ab bahareh-ye chin::village
-ab bahri::village
-ab bakhshan::village
-ab balut-e bonari::village
-ab balutak::village
-ab band::village
-ab bandan kash::village
-ab bandan nonush::village
-ab bandan sar::village
-ab baran-e do::village
-ab baran::village
-ab bareh::village
-ab barg::village
-ab barik-e bala::village
-ab barik-e jonubi::village
-ab barik-e kuchek::village
-ab barik-e olya::village
-ab barik-e shomali::village
-ab barik-e sofla::village
-ab barik-e vosta::village
-ab barik::village
-ab bariki::village
-ab behan::village
-ab beli zilayi::village
-ab bid kardakaneh::village
-ab bid sari-ye do::village
-ab bid-e alibaz::village
-ab bid-e dalun::village
-ab bid-e deli rich-e olya::village
-ab bid-e doshman ziari::village
-ab bid-e galleh tavak::village
-ab bid-e hajj baba::village
-ab bid-e heygun::village
-ab bid-e kusha::village
-ab bid-e mazeh koreh::village
-ab bid-e sar anjeli::village
-ab bid::village
-ab bidak-e zilayi::village
-ab bidak::village
-ab bordeh::village
-ab bui::village
-ab chahru::village
-ab chekan::village
-ab chenar-e bid anjir::village
-ab chenar-e olya::village
-ab chenar-e sofla::village
-ab chenar::village
-ab chenaran::village
-ab chenaru::village
-ab chendar-e guzenan::village
-ab chendar::village
-ab chendaran-e olya gelal::village
-ab chendaran-e sofla gelal::village
-ab chendaran-e tal deraz::village
-ab cheshmeh::village
-ab chin::village
-ab chur::village
-ab dalan-e mirki::village
-ab damil::village
-ab danak::village
-ab dang sar::village
-ab dar::village
-ab darreh-ye junak::village
-ab darreh::village
-ab darusheh-ye chin::village
-ab daw::village
-ab difeh::village
-ab dozduiyeh::village
-ab gandu::village
-ab gareyu::village
-ab garm-e bala::village
-ab garm-e khurgu::village
-ab garm-e olya::village
-ab garm-e yek::village
-ab garm::village
-ab garmag::village
-ab garmak-e olya::village
-ab garmak-e sofla::village
-ab garmak::village
-ab garman::village
-ab garmeh::village
-ab garmu::village
-ab garuiyeh::village
-ab gavan-e bozorg::village
-ab gavan-e kuchek::village
-ab gazag::village
-ab gazan::village
-ab gel::village
-ab gerdu::village
-ab ghamushiyeh::village
-ab ghar::village
-ab gol::village
-ab golman::village
-ab gonjeshki::village
-ab gonji::village
-ab gorazi::village
-ab gorg::village
-ab gui::village
-ab hajjat-e chahar bisheh::village
-ab hamam-e amir ol mowmenin::village
-ab hamam::village
-ab hendu::village
-ab hoseyn::village
-ab jadan qoliabad::village
-ab jahan::village
-ab javan::village
-ab jaz::village
-ab jirak::village
-ab kabak::village
-ab kabud-e sofla::village
-ab kahur::village
-ab kameh::village
-ab kanaru::village
-ab kaneh::village
-ab kaseh-ye tal deraz::village
-ab kaseh::village
-ab katan::village
-ab kel shisheh::village
-ab kenaru::village
-ab khar zahreh::village
-ab kharak::village
-ab kharreh::village
-ab kharzahreh::village
-ab khizuiyeh::village
-ab khuda'i::village
-ab khugan::village
-ab khvordeh::village
-ab konar::village
-ab konaru::village
-ab koreh tal::village
-ab koreh::village
-ab kori::village
-ab korik::village
-ab kuch::village
-ab kulak::village
-ab kuleh sar-e bozorg::village
-ab kuleh sar-e kuchak::village
-ab lami::village
-ab laran::village
-ab lashkar-e olya::village
-ab lashkar-e sofla::village
-ab lashkar-e vosta::village
-ab lench::village
-ab mahi::village
-ab maik-e golzari::village
-ab mal::village
-ab malek::village
-ab meshkin::village
-ab mik::village
-ab mis::village
-ab mishan::village
-ab morvarid::village
-ab mu-ye olya::village
-ab mu-ye sofla::village
-ab murd-e dam ludab::village
-ab murd-e tanglar::village
-ab nagun::village
-ab nai::village
-ab namard::village
-ab nargesi::village
-ab neyeh::village
-ab nik::village
-ab niyeh-ye sofla::village
-ab nuk::village
-ab pakhshan::village
-ab panguiyeh::village
-ab paran::village
-ab pardeh::village
-ab pay-ye arghuan::village
-ab pish::village
-ab piyazi::village
-ab qalamun::village
-ab qalat::village
-ab qaleh::village
-ab qanat-e eshkaft dudar::village
-ab qanat::village
-ab qorqoru::village
-ab rah::village
-ab rahmat::village
-ab razak::village
-ab razgeh::village
-ab rigun::village
-ab rizak::village
-ab rokhan::village
-ab saraft::village
-ab sardan-e olya jowkar::village
-ab sardan-e sofla jowkar::village
-ab sardan-e tal deraz::village
-ab sardeh-ye alai::village
-ab sardeh::village
-ab sarduiyeh::village
-ab sefid::village
-ab sepa::village
-ab shabandar::village
-ab sheykh::village
-ab shib::village
-ab shirin::village
-ab shur::village
-ab shureh-ye ashniz-e bala::village
-ab shuri::village
-ab sila::village
-ab sorkh::village
-ab soru::village
-ab surakh::village
-ab talak::village
-ab talkhak::village
-ab tarikan-e pain::village
-ab taruiyeh::village
-ab tasuleh::village
-ab ti-ye mahtab::village
-ab tut::village
-ab zahli-ye tarzayi::village
-ab zahlu::village
-ab zahreh pirmar::village
-ab zalu-ye arab::village
-ab zalu-ye bahram::village
-ab zalu-ye kandeh::village
-ab zalu-ye olya-ye neqareh khaneh::village
-ab zalu-ye sofla-ye neqareh khaneh::village
-ab zalu-ye vosta-ye neqareh khaneh::village
-ab zalu::village
-ab zaminu::village
-ab zangi::village
-ab zani::village
-ab zehlu::village
-ab-e gandu::village
-ab-e garm-e givy::village
-ab-e garm::village
-ab-e garmu-ye yek::village
-ab-e garmu::village
-ab-e gelur::village
-ab-e hayat::village
-ab-e mosla::village
-ab-e mozhgan::village
-ab-e narak::village
-ab-e now-e khani yek::village
-ab-e sefidab::village
 aba al-waqf::village
-aba mansuri::village
-aba-wa::village
 ababene::village
 ababin::village
 abachikkanahalli::village
+abacı::village
 abaclia::village
 abacus:算盘
-abacı::village
-abad shahpur::village
-abad-e chehel tan::village
-abad-e eram posht::village
-abad-e soleyman::village
-abad::village
-abada::village
 abadabad::village
-abadan tappeh::village
 abadan-e hoseyni::village
+abadan tappeh::village
 abadan::village
+abada::village
 abadchi-ye olya::village
 abadchi-ye sofla::village
+abad-e chehel tan::village
+abad-e eram posht::village
 abadeh abgarm::village
 abadeh::village
+abad-e soleyman::village
 abadgarh::village
 abadi chaleh::village
 abadi emamzadeh esmail::village
 abadi kheyrabad::village
 abadi-ye majid::village
 abadiye::village
-abaja::village
+abad shahpur::village
+abad::village
 abajah::village
 abajaluy-e olya::village
 abajaluy-e sofla::village
-abak ziri haj shir mohammad::village
-abak::village
+abaja::village
 abakuasimbo::village
+abak::village
+abak ziri haj shir mohammad::village
 abala-ibeme::village
 abali::village
 abalı::village
+ab alvan::village
+aba mansuri::village
+ab amiri::village
+ab anari::village
+ab anar seyyed nazer hoseyni::village
+ab anar::village
 abanar::village
-aband::village
+ab anbar-e jahad ashayeri::village
+ab anbar::village
 abandanak::village
-abano::village
+aband::village
+ab anjir-e olya::village
+ab anjir-e sofla::village
+ab anjir::village
 abanoskhevi::village
+abano::village
 abarabashi::village
+ab araq::village
 abardeh-ye olya::village
 abardeh-ye sofla::village
 abareq::village
@@ -379,55 +113,64 @@ abarlaq-e sofla::village
 abarsij::village
 abaru::village
 abasallı::village
+ab asemani::village
 abasi::village
+ab ask::village
+ab aspid guzenan::village
 abaspura::village
 abastumani::village
 abatai::village
 abatar::village
 abati::village
 abattoir:屠宰场
-abavisan::village
-abaviyeh::village
-abaw::village
-abay::village
-abazar::village
-abazu::village
 abaújalpár::village
 abaújkér::village
 abaújlak::village
 abaújszolnok::village
 abaújvár::village
-abbad::village
+abavisan::village
+abaviyeh::village
+aba-wa::village
+abaw::village
+abay::village
+abazar::village
+abazu::village
+ab badamu::village
+ab bada::village
 abbadbibi::village
+ab bad-e kaleb ali khani::village
+ab bad-e pedari::village
+ab bad-e qahremani::village
+ab bad-e sivandi::village
 abbadia a isola::village
 abbadia::village
+ab bad::village
+abbad::village
+ab bahar-e do::village
+ab bahareh-ye chin::village
+ab bahri::village
+ab bakhshan::village
+ab balutak::village
+ab balut-e bonari::village
 abbanakuppe::village
+ab bandan kash::village
+ab bandan nonush::village
+ab bandan sar::village
+ab band::village
 abbarajupalem::village
-abbas abad::village
-abbas ali kash::village
-abbas ali khani::village
-abbas ali va qafeleh bah::village
-abbas ali::village
-abbas alilu::village
-abbas barfi::village
-abbas bazar::village
-abbas bolaghi::village
-abbas jub::village
-abbas kandi::village
-abbas khan::village
-abbas kola::village
-abbas kuh::village
-abbas qaleh::village
-abbas shah gol::village
-abbas yales-e do::village
-abbas yales-e yek::village
-abbas yazdani::village
-abbas-e aliabad::village
-abbas-e kalpat::village
-abbas::village
-abbasa::village
-abbasabad molla reza::village
-abbasabad poshteh::village
+ab baran-e do::village
+ab baran::village
+ab bareh::village
+ab barg::village
+ab barik-e bala::village
+ab barik-e jonubi::village
+ab barik-e kuchek::village
+ab barik-e olya::village
+ab barik-e shomali::village
+ab barik-e sofla::village
+ab barik-e vosta::village
+ab bariki::village
+ab barik::village
 abbasabad-e alaqeh band::village
 abbasabad-e amelak::village
 abbasabad-e amin::village
@@ -469,135 +212,213 @@ abbasabad-e seyf::village
 abbasabad-e sofla::village
 abbasabad-e talabi::village
 abbasabad-e zargham::village
+abbasabad molla reza::village
+abbasabad poshteh::village
+abbas abad::village
 abbasabad::village
 abbasali kandi::village
+abbas ali kash::village
+abbas ali khani::village
+abbas alilu::village
+abbas ali va qafeleh bah::village
+abbas ali::village
+abbasa::village
+abbas barfi::village
+abbas bazar::village
 abbasbəyli::village
+abbas bolaghi::village
+abbas-e aliabad::village
+abbas-e kalpat::village
 abbasi::village
 abbasiyeh::village
+abbas jub::village
+abbas kandi::village
+abbas khan::village
+abbas kola::village
+abbas kuh::village
+abbas qaleh::village
 abbasqulular::village
+abbas shah gol::village
+abbas::village
+abbas yales-e do::village
+abbas yales-e yek::village
+abbas yazdani::village
 abbegea::village
+ab behan::village
+ab beli zilayi::village
 abbenbroek::village
 abbenes::village
 abberton::village
-abbess roding::village
 abbess:女修道院院长
-abbey village::village
-abbey::village
+abbess roding::village
 abbey:修道院
 abbeydorney::village
 abbeylara::village
 abbeyshrule::village
+abbey::village
+abbey village::village
+ab bidak-e zilayi::village
+ab bidak::village
+ab bid-e alibaz::village
+ab bid-e dalun::village
+ab bid-e deli rich-e olya::village
+ab bid-e doshman ziari::village
+ab bid-e galleh tavak::village
+ab bid-e hajj baba::village
+ab bid-e heygun::village
+ab bid-e kusha::village
+ab bid-e mazeh koreh::village
+ab bid-e sar anjeli::village
+ab bid kardakaneh::village
+ab bid sari-ye do::village
+ab bid::village
+ab bordeh::village
 abbot:修道院院长
 abbotts ann::village
 abbreviate:缩写
 abbreviation:缩写
+ab bui::village
 abburu::village
+ab chahru::village
 abchak::village
 abchalagi::village
+ab chekan::village
+ab chenaran::village
+ab chenar-e bid anjir::village
+ab chenar-e olya::village
+ab chenar-e sofla::village
+ab chenaru::village
+ab chenar::village
+ab chendaran-e olya gelal::village
+ab chendaran-e sofla gelal::village
+ab chendaran-e tal deraz::village
+ab chendar-e guzenan::village
+ab chendar::village
+ab cheshmeh::village
+ab chin::village
 abchi::village
 abchuiyeh::village
-abd bayan-e qadim::village
-abd bayan::village
-abd ol aziz::village
-abd ol azizabad::village
-abd ol hoseyni::village
-abd ol jabbar::village
-abd ol majid::village
-abd ol maleki::village
-abd ol manaf::village
-abd ol mohammad::village
-abd ol mowmen::village
-abd ol rahman::village
-abd ol razzaq::village
-abd ol reza::village
-abd-e raghan::village
-abd-ol seyyed::village
-abd::village
-abda::village
+ab chur::village
 abdabad::village
 abdahabad::village
 abdaki::village
+abdalabad::village
+ab dalan-e mirki::village
+abdalanlı::village
+abdalan::village
+abdalar::village
 abdal beygi mohammadi::village
+abdallı::village
 abdal samad::village
 abdal::village
-abdalabad::village
-abdalan::village
-abdalanlı::village
-abdalar::village
-abdallı::village
+ab damil::village
+ab danak::village
 abdangesar::village
+ab dang sar::village
 abdangsar::village
-abdar miyan::village
-abdar::village
 abdarlar::village
+abdar miyan::village
+ab darreh::village
+ab darreh-ye junak::village
+ab darusheh-ye chin::village
 abdaru::village
+ab dar::village
+abdar::village
+abda::village
+ab daw::village
 abdazdi::village
+abd bayan-e qadim::village
+abd bayan::village
 abdehgah::village
+abd-e raghan::village
 abderaz::village
-abdi beyg::village
 abdia::village
+abdi beyg::village
+ab difeh::village
 abdikhani::village
 abdinli::village
 abdioğlu::village
-abdol amir::village
-abdol deh::village
-abdol hoseyni::village
-abdol khakhi-ye olya::village
-abdol khakhi-ye sofla::village
-abdol khan-e pain::village
-abdol rahim::village
-abdol rahman safarzayi::village
-abdol rahman sarani::village
-abdol rezaabad::village
-abdol robababad::village
+abdınlı::village
 abdolabad-e gardaneh::village
 abdolabad-e kani kabud::village
 abdolabad-e pain::village
 abdolabad::village
+abdol amir::village
+abd ol azizabad::village
+abd ol aziz::village
+abdol deh::village
 abdoleh::village
+abd ol hoseyni::village
+abdol hoseyni::village
 abdoli::village
 abdoliyeh::village
+abd ol jabbar::village
 abdolkazem::village
-abdollah bazar::village
-abdollah givi::village
-abdollah kandi::village
-abdollah kordeh::village
-abdollah masud-e olya::village
-abdollah masud-e sofla::village
-abdollah tappehsi::village
-abdollah-e amuri::village
-abdollah::village
+abdol khakhi-ye olya::village
+abdol khakhi-ye sofla::village
+abdol khan-e pain::village
 abdollahabad-e bala::village
 abdollahabad-e do::village
 abdollahabad-e ojaq::village
 abdollahabad-e yek::village
 abdollahabad::village
+abdollah bazar::village
+abdollah-e amuri::village
+abdollah givi::village
+abdollahi::village
 abdollahi-ye olya::village
 abdollahi-ye sofla::village
-abdollahi::village
+abdollah kandi::village
+abdollah kordeh::village
+abdollah masud-e olya::village
+abdollah masud-e sofla::village
+abdollah tappehsi::village
+abdollah::village
+abd ol majid::village
+abd ol maleki::village
+abd ol manaf::village
+abd ol mohammad::village
+abd ol mowmen::village
+abdol rahim::village
+abdol rahman safarzayi::village
+abdol rahman sarani::village
+abd ol rahman::village
+abd ol razzaq::village
+abdol rezaabad::village
 abdolreza mordeh::village
+abd ol reza::village
 abdolreza::village
+abdol robababad::village
+abd-ol seyyed::village
 abdoltajj od din::village
 abdoozak-e paeen::village
+ab dozduiyeh::village
 abdu chal::village
-abdu mau::village
-abdu zehi::village
 abduction:诱拐
 abdui::village
-abduli zalyab::village
 abdulici::village
+abduli zalyab::village
 abdullahpur mori::village
 abdullapur::village
+abdu mau::village
 abdun-e anjir::village
 abdun::village
 abdupur::village
-abdurrahman::village
 abdurrahmanlar::village
+abdurrahman::village
 abdusamad::village
-abdınlı::village
+abdu zehi::village
+abd::village
 abedabad::village
+ab-e gandu::village
+ab-e garm-e givy::village
+ab-e garmu::village
+ab-e garmu-ye yek::village
+ab-e garm::village
 abegarm::village
+ab-e gelur::village
 abegong::village
+ab-e hayat::village
 abeh mohammadjan::village
 abeh-ye golha::village
 abeh-ye hajji nabi gol cheshmeh::village
@@ -609,10 +430,14 @@ abejuela::village
 abelheira::village
 abellu::village
 abelu::village
+ab-e mosla::village
+ab-e mozhgan::village
+ab-e narak::village
+abéné::village
+ab-e now-e khani yek::village
 abeokouta::village
-aber-arad::village
-aber-giar::village
 aberangell::village
+aber-arad::village
 aberargie::village
 aberarth::village
 abercastle::village
@@ -623,8 +448,9 @@ abercwmboi::village
 abercych::village
 aberffrwd::village
 aberfoyle::village
-abergarw::village
 abergarwed::village
+abergarw::village
+aber-giar::village
 abergwesyn::village
 abergwydol::village
 abergwynfi::village
@@ -638,6 +464,7 @@ abersoch::village
 abertridwr::village
 abertysswg::village
 aberyscir::village
+ab-e sefidab::village
 abeshki::village
 abet:煽动
 abetxuko::village
@@ -645,40 +472,75 @@ abeuk::village
 abezhdan-e malmulil::village
 abezhdan-e sofla::village
 abezhdan::village
-abgah::village
 abgahi::village
+abgah::village
 abgaman::village
-abgarm-e lay bisheh::village
-abgarm-e pir sohabi::village
-abgarm::village
+ab gandu::village
+ab gareyu::village
+ab garmag::village
+ab garmak-e olya::village
 abgarmak-e olya::village
+ab garmak-e sofla::village
 abgarmak-e sofla::village
+ab garmak::village
 abgarmak::village
+ab garman::village
+ab garm-e bala::village
+ab garmeh::village
+ab garm-e khurgu::village
+abgarm-e lay bisheh::village
+ab garm-e olya::village
+abgarm-e pir sohabi::village
+ab garm-e yek::village
+ab garmu::village
+ab garm::village
+abgarm::village
+ab garuiyeh::village
 abgasht-e madui::village
+ab gavan-e bozorg::village
+ab gavan-e kuchek::village
+ab gazag::village
+ab gazan::village
+ab gel::village
+ab gerdu::village
+ab ghamushiyeh::village
+ab ghar::village
 abgineh::village
+ab golman::village
+ab gol::village
 abgol::village
+ab gonjeshki::village
+ab gonji::village
+ab gorazi::village
+ab gorg::village
+ab gui::village
 abgun::village
 abgurandan::village
-abhaipur::village
 abhaipura banger::village
+abhaipur::village
+ab hajjat-e chahar bisheh::village
+ab hamam-e amir ol mowmenin::village
+ab hamam::village
 abhaneri::village
-abhar-e pain::village
 abharak::village
+abhar-e pain::village
 abhaynil::village
 abhaypura::village
+ab hendu::village
 abhicharan::village
 abhimanyupur::village
 abhona::village
-abi jan::village
-abi-ye sofla::village
+ab hoseyn::village
 abiabad::village
-abid::village
 abidu::village
+abid::village
 abidzi::village
 abie::village
+abié::village
+abi jan::village
+ability:能力
 abil pol randeh::village
 abil::village
-ability:能力
 abinger hammer::village
 abington::village
 abiotic:无生命的
@@ -687,136 +549,250 @@ abirash::village
 abish-kyand::village
 abisko::village
 abissaare::village
-abit::village
 abitar::village
+abit::village
 abivirutheeswaram::village
-abié::village
-abja-vanamõisa::village
+abi-ye sofla::village
+ab jadan qoliabad::village
+ab jahan::village
 abjar::village
+abja-vanamõisa::village
+ab javan::village
+ab jaz::village
 abjaz::village
 abjeqan::village
+ab jirak::village
+ab kabak::village
+ab kabud-e sofla::village
+ab kahur::village
+ab kameh::village
+ab kanaru::village
+ab kaneh::village
 abkar ashayir garuh-ye 25::village
+ab kaseh::village
+ab kaseh-ye tal deraz::village
+ab katan::village
+ab kel shisheh::village
+ab kenaru::village
 abkenar::village
 abkesheh::village
+ab kharak::village
+ab kharreh::village
+ab khar zahreh::village
+ab kharzahreh::village
 abkhazia:阿布哈兹
 abkhizeh::village
+ab khizuiyeh::village
 abkhori::village
+ab khuda'i::village
+ab khugan::village
 abkhvareh::village
+ab khvordeh::village
 abkhvoreh::village
+ab konaru::village
+ab konar::village
+ab koreh tal::village
+ab koreh::village
+ab korik::village
+ab kori::village
 abkot::village
 abkuarak::village
+ab kuch::village
 abkuh aliabad::village
-abkuh::village
 abkuhi::village
+abkuh::village
+ab kulak::village
+ab kuleh sar-e bozorg::village
+ab kuleh sar-e kuchak::village
 abkureh::village
 ablah::village
 ablak::village
+ab lami::village
 ablanitsa::village
+ab laran::village
+ab lashkar-e olya::village
+ab lashkar-e sofla::village
+ab lashkar-e vosta::village
 able:有能力的
 ablegate:罗马教皇特使
+ableh::village
 ableh-ye olya::village
 ableh-ye sofla::village
-ableh::village
+ab lench::village
 ablinga::village
 ablington::village
 ablun::village
+ab mahi::village
 abmah::village
+ab maik-e golzari::village
+ab malek::village
+ab mal::village
 abmal::village
+ab meshkin::village
+ab mik::village
+ab mishan::village
+ab mis::village
+ab morvarid::village
+ab murd-e dam ludab::village
+ab murd-e tanglar::village
+ab mu-ye olya::village
+ab mu-ye sofla::village
+ab nagun::village
+ab nai::village
+ab namard::village
 abnama::village
+ab nargesi::village
+ab neyeh::village
 abney::village
+ab nik::village
+ab niyeh-ye sofla::village
 abnormal:不正常的
 abnormal:不自然的
 abnormal:异常
 abnow::village
+ab nuk::village
 abod::village
 aboha::village
 aboksar::village
-abol ol firuz::village
 abolikro::village
 abolish:废除
 abolition:废止
 abolitionism:废奴主义
 abolitionist:废奴主义者
+abol ol firuz::village
 abort:中止
 abortion:中止
+a bottle of water:一瓶水
 abou-ndoulaf::village
-about:关于
 about:大约
+about:关于
 above:上面的
 abovyan::village
+ab pakhshan::village
+ab panguiyeh::village
+ab paran::village
+ab pardeh::village
+ab pay-ye arghuan::village
+ab pish::village
+ab piyazi::village
 abpuneh::village
 abputi gelal::village
 abqad::village
 abqah::village
+ab qalamun::village
+ab qalat::village
+ab qaleh::village
+ab qanat-e eshkaft dudar::village
+ab qanat::village
+ab qorqoru::village
 abquy::village
-abr bakuh::village
-abr::village
 abra, burkina faso::village
-abra::village
 abradinou::village
-abraham lincoln:亚伯拉罕林肯
 abraham:亚伯拉罕
+abraham lincoln:亚伯拉罕林肯
 abrahdar::village
 abraheh::village
+ab rahmat::village
+ab rah::village
 abrak-e azhgil::village
 abrak-e do::village
 abrak-e yek::village
-abram::village
 abramiki::village
 abramów::village
+abram::village
 abrash::village
 abravan::village
-abri tappeh::village
+abra::village
+ab razak::village
+ab razgeh::village
+abr bakuh::village
 abriachan::village
 abridge::village
+ab rigun::village
 abriq::village
+abri tappeh::village
 abrit::village
-abriz::village
-abrizak::village
 abrizaki::village
+ab rizak::village
+abrizak::village
 abrizi parikdan::village
 abrizi::village
+abriz::village
+ab rokhan::village
 abronamoué::village
-abru::village
+abrotanella rosulata::plant
 abrud::village
 abruka::village
 abrumand::village
+abrus aureus::plant
+abrus kaokoensis::plant
+abrus madagascariensis::plant
+abrus sambiranensis::plant
+abru::village
+abr::village
 absabad::village
 absalyamovo::village
-absar::village
-absard::village
+ab saraft::village
+ab sardan-e olya jowkar::village
+ab sardan-e sofla jowkar::village
+ab sardan-e tal deraz::village
+ab sardeh::village
 absardeh::village
+ab sardeh-ye alai::village
+ab sarduiyeh::village
+absard::village
+absar::village
+ab sefid::village
 absegun::village
 absement:位移积分
 absence:缺席
 absent:缺席的
-abshar::village
+ab sepa::village
+ab shabandar::village
 absharan-e olya::village
 absharan-e sofla::village
+abshar::village
+ab sheykh::village
+ab shib::village
 abshineh::village
-abshur::village
+ab shirin::village
 abshurak::village
+ab shureh-ye ashniz-e bala::village
+ab shuri::village
+ab shur::village
+abshur::village
+ab sila::village
 absition:位移积分
-absolute power:绝对权力
 absolute:绝对
 absolutely:绝对地
-abstract syntax tree:抽象语法树
+absolute power:绝对权力
+ab sorkh::village
+ab soru::village
 abstract:抽象的
 abstract:摘要
 abstraction:抽象
+abstract syntax tree:抽象语法树
+ab surakh::village
 abtaf-e olya::village
 abtaf-e sofla::village
 abtaf::village
+ab talak::village
+ab talkhak::village
+ab tarikan-e pain::village
+ab taruiyeh::village
 abtar::village
+ab tasuleh::village
 abtavil::village
+ab ti-ye mahtab::village
+ab tut::village
 abtut::village
 abu abud::village
-abu al qararis::village
 abu alayej-e olya::village
 abu alayej-e sofla::village
 abu alayej-e vosta::village
-abu ali::village
 abu alimeh::village
+abu ali::village
+abu al qararis::village
 abu amir::village
 abu amud::village
 abu arabid::village
@@ -824,13 +800,17 @@ abu arazeh::village
 abu askar::village
 abu boqqal::village
 abu chenari::village
+a bucket of water:一桶水
 abu dabis::village
 abu dakab emir::village
 abu dali::village
 abu darda::village
 abu dhiba::village
 abu direh::village
+abudi::village
 abu diyan::village
+abudulahpur::village
+abud::village
 abu eshaq-e olya::village
 abu eshaq-e sofla::village
 abu fazel::village
@@ -854,19 +834,25 @@ abu janlu::village
 abu kabireh::village
 abu khazravi::village
 abu kheyl-e arateh::village
+abulabad-e gilavand::village
+abul aish::village
+abula::village
 abu mahalleh::village
 abu masul::village
 abu mosheyleysh::village
 abu nageh::village
 abu nasr::village
+abundant:充足的
+abundantly:充足地
 abu nukhayl::village
 abu ol abbas::village
 abu ol baq::village
+abu oleymeh::village
 abu ol folus::village
-abu ol hasan kola::village
-abu ol hasan::village
 abu ol hasanabad::village
 abu ol hasani::village
+abu ol hasan kola::village
+abu ol hasan::village
 abu ol hayat::village
 abu ol khazen::village
 abu ol kheyr::village
@@ -877,23 +863,28 @@ abu ol qasemabad::village
 abu ol qiyefeh::village
 abu ol vafai::village
 abu ol verdi::village
-abu oleymeh::village
 abu oqab::village
 abu qarib::village
 abu qirfah::village
 abu qurayn::village
 abu radif::village
+aburi::village
+aburkandi::village
 abu sadi::village
 abu sadreh::village
 abu sadreyn::village
+abuse:虐待
 abu sel bikhat-e bozorg::village
 abu seyleh-ye sofla::village
 abu shakar::village
 abu shanak::village
+abū shayţānah::village
 abu shenan-e sofla::village
 abu sidrah::village
 abu silah::village
 abu simbel::village
+abusir bana::village
+abusive:谩骂的
 abu sokheyr::village
 abu tabareh-ye do::village
 abu tabareh-ye yek::village
@@ -905,56 +896,58 @@ abu tavayoj::village
 abu tayur-e do::village
 abu tayur-e seh::village
 abu tayur-e yek::village
+abutilon cryptopetalum::plant
+abutilon halophilum::plant
 abu torab::village
+abuyar::village
 abu yeleyel::village
 abu yuru::village
-abu zhidan::village
-abud::village
-abudi::village
-abudulahpur::village
-abul aish::village
-abula::village
-abulabad-e gilavand::village
-abundant:充足的
-abundantly:充足地
-aburi::village
-aburkandi::village
-abuse:虐待
-abusir bana::village
-abusive:谩骂的
-abuyar::village
-abuzar::village
 abuzarabad::village
 abuzariyeh::village
+abuzar::village
+abu zhidan::village
 abval-e abbasabad::village
 abvel::village
-aby-mohoua::village
-aby::village
-abyan::village
 abyaneh::village
+abyan::village
 abyazan::village
 abyek-e sofla::village
+aby-mohoua::village
+aby::village
 abza-e sar dasht::village
-abzalu::village
+ab zahli-ye tarzayi::village
+ab zahlu::village
+ab zahreh pirmar::village
 abzaluiyeh::village
+ab zalu::village
+abzalu::village
+ab zalu-ye arab::village
+ab zalu-ye bahram::village
+ab zalu-ye kandeh::village
+ab zalu-ye olya-ye neqareh khaneh::village
+ab zalu-ye sofla-ye neqareh khaneh::village
+ab zalu-ye vosta-ye neqareh khaneh::village
+ab zaminu::village
+ab zangi::village
+ab zani::village
 abzan::village
 abzar::village
+ab zehlu::village
 abzir::village
-abéné::village
-abū shayţānah::village
+acacia scopulorum::plant
 acadagnostus:古球接子
 acadagnostus:针球接子
 academic:学院的
+academy:学院
 academy of engineering:工程院
 academy of sciences:科学院
-academy:学院
 acain::village
-acar::village
 acarlar::village
 acarlı::village
 acarmantaş::village
 acaroba::village
 acarouany::village
+acar::village
 acaster selby::village
 accelerate:加速
 acceleration:加速度
@@ -973,8 +966,8 @@ accommodation:住宿
 accompany:陪伴
 accomplice:共犯
 accomplish:完成
-according to:依据
 according:依
+according to:依据
 accordion:手风琴
 account:账目
 accountant:会计师
@@ -983,14 +976,14 @@ accurate:精确的
 accusation:指控
 accuse:指控
 acebedo::village
+aceña de lara::village
 acer::village
 acetylcholine:乙酰胆碱
-aceña de lara::village
-acha-kayyngdy::village
 achabou::village
 achaiko::village
 achajur::village
 achakari::village
+acha-kayyngdy::village
 achalchhila::village
 achaler::village
 achamangalam::village
@@ -998,10 +991,10 @@ achampatti::village
 achanoor::village
 achanta vemavaram::village
 achanta::village
-achar::village
 acharacle::village
 acharkut::village
 acharpura::village
+achar::village
 achaura::village
 achavalite:硒铁矿
 achchhad::village
@@ -1037,14 +1030,17 @@ achuni::village
 achurch::village
 achuri::village
 achvarasdal::village
-achy::village
 achyk-suu::village
 achyra::village
+achy::village
 aciabarak::village
-acid rain:酸雨
 acid:酸的
 acidity:酸度
 acidophilic:嗜酸的
+acid rain:酸雨
+acıdərə::village
+acıpınar::village
+acısu::village
 ackleton::village
 aclare::village
 acme::village
@@ -1060,13 +1056,16 @@ acrefair::village
 acrodus:无尖齿鱼属
 acronym:首字母缩写词
 across:穿过
-acsa::village
-acsalag::village
+acrotrema arnottianum::plant
 acsád::village
+acsalag::village
+acsa::village
 act:行动
 actinium:锕
-action potential:动作电位
+actinotus gibbonsii::plant
+actinotus novae-zelandiae::plant
 action:行动
+action potential:动作电位
 active:活跃的
 activism:行动主义
 activist:活动家
@@ -1079,56 +1078,38 @@ acton::village
 actor:演员
 actress:女演员
 actually:实际上
+a cup of water:一杯水
 acupuncture:针灸
 acute:尖锐的
 acutely:尖锐地
 acylpyrin:阿司匹林
-acıdərə::village
-acıpınar::village
-acısu::village
-ad casub::village
-ad dabbah::village
-ad dawh al kabir::village
-ad dawh as saghir::village
-ad dawh::village
-ad dirah::village
-ad dirjaj::village
-ad dirs::village
-ad dis::village
-ad diyyu::village
-ad dufah::village
-ad dur::village
-ad duss::village
-ad duwaykah::village
-ad-dann::village
-ad-e qomeys::village
-ada::village
 adabaria, patuakhali::village
 adabaria::village
 adabis::village
 adabrock::village
+adács::village
 adadama::village
 adage:谚语
 adaghan::village
 adagil::village
-adak::village
-adaka::village
 adakale::village
+adaka::village
 adakent::village
 adakhola::village
 adakkakundu::village
 adaklı::village
 adaköy::village
-adal::village
-adalpur::village
+adak::village
 adalı::village
-adam darrehsi-ye olya::village
-adam darrehsi-ye sofla::village
+adalpur::village
+adal::village
 adam:亚当
 adamabad-e baluchi now::village
 adamaru::village
 adambar ukkadai::village
 adambar::village
+adam darrehsi-ye olya::village
+adam darrehsi-ye sofla::village
 adaminowo::village
 adamivka::village
 adamke::village
@@ -1137,107 +1118,135 @@ adamkowo::village
 adamowo::village
 adampur indwara::village
 adampur::village
-adams::village
 adamstown::village
+adams::village
 adamwahan::village
 adamzai::village
 adanuru::village
-adapter:适配器
+adaören::village
 adapınar::village
-adar::village
+adapter:适配器
 adaran::village
 adare::village
 adarki::village
 adarsha andulia::village
+adar::village
 adasa::village
+adásztevel::village
 adatepe::village
 adavathur east::village
 adavathur west::village
-adavi::village
+ada::village
 adaviravulapadu::village
 adavisomapur::village
-adaören::village
+adavi::village
 adbolton::village
+ad casub::village
 adcolna::village
-add-e sovadi::village
 add:加
-adda motiram::village
+ad dabbah::village
 addah::village
 addakurukki::village
+adda motiram::village
+ad-dann::village
+ad dawh al kabir::village
+ad dawh as saghir::village
+ad dawh::village
 addepur::village
 adderley green::village
+add-e sovadi::village
 addict:有瘾的人
 addiction:上瘾
 addieville::village
 addington::village
+ad dirah::village
+ad dirjaj::village
+ad dirs::village
 addison::village
+ad dis::village
 addition:附加
-additional features:额外特征
 additional:附加的
+additional features:额外特征
+ad diyyu::village
 address:地址
 addrup::village
+ad dufah::village
+ad dur::village
 addur::village
-ade kali::village
+ad duss::village
+ad duwaykah::village
 aded::village
 adeemmra::village
 adegan::village
 adeh::village
+ade kali::village
 adelabad::village
-adeli::village
-adelin::village
 adeline::village
+adelin::village
+adeli::village
 adell::village
 adendema::village
 adendro::village
+adenochilus gracilis::plant
+adenodolichos acutifoliolatus::plant
+adenodolichos baumii::plant
+adenodolichos exellii::plant
+adenodolichos huillensis::plant
+adenodolichos kaessneri::plant
+adenodolichos paniculatus::plant
+adenodolichos punctatus::plant
+adenodolichos rhomboideus::plant
+adenodolichos rupestris::plant
+ad-e qomeys::village
 adequate:足够的
 adequately:足够地
 adergas::village
 aderu::village
-ades kari-ye olya::village
 adeshteh::village
+ades kari-ye olya::village
 adfa::village
-adg::village
 adgaon bk::village
 adgaon budruk::village
 adgaon::village
-adh dhagharir::village
-adha::village
+adg::village
 adhalaiyur::village
 adhanakottai::village
 adhanakurichi::village
 adhanur::village
 adhara, bangladesh::village
+adha::village
+adh dhagharir::village
 adheigundi::village
 adhewada::village
-adhi::village
 adhikarigama::village
+adhi::village
 adhkatiya kala khas::village
 adhowali::village
 adhuna::village
-adi (karnataka)::village
 adi bakel::village
-adi-ugri::village
 adibatla::village
 adichapuram::village
 adiembra::village
 adigondanahalli::village
 adigoppula::village
 adihalli::village
-adila::village
+adi (karnataka)::village
 adilabad::village
+adila::village
 adim ol mesal::village
 adimolol:阿地洛尔
 adin ali nazri::village
 adinan::village
-adine::village
 adineh masjed-e bala::village
 adineh masjed-e pain::village
 adineh qoli::village
+adine::village
 adinkerke::village
 adippuliyur::village
-adiv chaliv::village
+adi-ugri::village
 adivarapupeta::village
 adivare::village
+adiv chaliv::village
 adjadja::village
 adjahil::village
 adjaméné::village
@@ -1252,8 +1261,8 @@ admaston::village
 administrator:管理员
 admiral:海军上将
 admiration:赞美
-admit:准入
 admit:承认
+admit:准入
 adnawali::village
 adnur::village
 adoar::village
@@ -1262,20 +1271,20 @@ adolf:阿道夫
 adoor::village
 adopt:收养
 adoption:收养
-adorjan::village
 adorjánháza::village
+adorjan::village
 adorjás::village
 adorp::village
 adouakouakro::village
 adoukro::village
 adpar::village
-adra ramchandrapur::village
-adra::village
 adrahati::village
 adraku::village
 adramann::village
+adra ramchandrapur::village
 adrasan::village
 adraspalle::village
+adra::village
 adrenaline:肾上腺素
 adrkan::village
 adsa::village
@@ -1288,8 +1297,8 @@ adult:成人的
 adultery:通奸
 adulthood:成年期
 adum banso::village
-adur::village
 aduri::village
+adur::village
 aduvalli::village
 advanapalli::village
 advanced features:高级特征
@@ -1308,13 +1317,12 @@ advocate:倡导
 adwalton::village
 adwan::village
 adwick le street::village
-adzhamka::village
-adács::village
-adásztevel::village
 adže::village
-adžine livade::village
+adzhamka::village
 adžići::village
-ae::village
+adžine livade::village
+aechmea bromeliifolia var. albobracteata::plant
+aeginetia flava::plant
 aela::village
 aemakazi::village
 aeolus valley::village
@@ -1323,15 +1331,15 @@ aerobic:需氧的
 aerotolerant:耐氧的
 aesthetics:美学
 aetomilitsa::village
-af urur::village
+ae::village
 afafanyi::village
 afaha akpan ekpo::village
 afaha efiat::village
 afaha iman::village
 afaha urua essien::village
 afalkati::village
-afan::village
 afania::village
+afan::village
 afareyanaj::village
 afarian-e sofla::village
 afarin::village
@@ -1346,9 +1354,9 @@ affection:感动
 afferden::village
 affetside::village
 affinity:亲合力
-afghan::village
 afghan:阿富汗
 afghanistan:阿富汗
+afghan::village
 afifabad::village
 afin::village
 afjan::village
@@ -1356,102 +1364,117 @@ afjeh::village
 afkan::village
 afkasht::village
 aflak::village
-afloqualone:氟喹酮
 afloqualone:氨氟喹酮
+afloqualone:氟喹酮
 afobaka::village
 afodiobo::village
 afonwen::village
 afotobo::village
 afqu::village
 afra bay::village
-afra gardan::village
-afra kati va lu kola::village
-afra koti-ye mir ali tabar::village
-afra koti::village
-afra sara::village
-afra takht::village
-afra::village
 afrabon-e do::village
 afrachal::village
 afradeh::village
+afra gardan::village
 afraid:担忧
+afra kati va lu kola::village
+afra koti::village
+afra koti-ye mir ali tabar::village
 afrancho::village
 afrapol::village
-afrasi::village
+afra sara::village
 afrasiab kola::village
 afrasiab::village
-afratakht::village
+afrasi::village
 afratakhteh::village
+afra takht::village
+afratakht::village
 afravandeh::village
+afra::village
 afraz::village
 africa:非洲
-african american english:非裔美国人英语
 african:非洲人
+african american english:非裔美国人英语
+african false hosta::plant
+african hosta::plant
 afrikaans:南非荷兰语
 afrineh::village
 afsaneh sara::village
 afsarabad::village
+afşar::village
 afsdik::village
 afshan::village
-afshar jiq::village
-afshar-e olya::village
-afshar::village
 afsharabad::village
+afshar-e olya::village
+afshar jiq::village
 afsharlu::village
+afshar::village
 afshjerd::village
 afshord::village
 afsnee::village
 afsuran::village
 aftab dar::village
-aftab khvortab::village
-aftab::village
 aftabeh::village
+aftab khvortab::village
 aftabnagar::village
 aftabru::village
+aftab::village
 aftar::village
 afte let::village
 after:后
 afternoon:下午
+af urur::village
 afytos::village
 afzad::village
-afzal::village
 afzalabad, corrin::village
 afzalabad, doomak::village
-afzalabad, zahedan::village
 afzalabad::village
-afşar::village
+afzalabad, zahedan::village
+afzal::village
+ağaçlı::village
+ağaçpınar::village
 agadallanka::village
 agadi::village
 agah-e olya::village
 agah-e sofla::village
-again:再
 again:又
-against:反对
+again:再
 against:对抗
+against:反对
+ağakişilər::village
+ağaköy::village
 agalagama::village
 agalakote::village
 agalakumbura::village
 agalarbeyli::village
+ağalaruşağı::village
 agalgota::village
+agalinis divaricata::plant
+agalinis edwardsiana::plant
+ağalıkənd::village
+ağalı::village
 agamamedli::village
+ağamçağam::village
+ağaməmmədli::village
 agappola::village
 agaps::village
 agapur::village
 agarabe::village
 agaragimli::village
-agarak::village
 agarakadzor::village
 agarakavan::village
 agarakkirangudi::village
+agarak::village
 agaram agraharam::village
-agaram::village
 agaramangudi::village
+agaram::village
 agarathirumalam::village
 agarathirunallur::village
 agarathur::village
 agaravelukudi::village
 agardanda::village
 agareh::village
+ağarəhimoba::village
 agari bujaq::village
 agarijeh::village
 agariya::village
@@ -1461,69 +1484,59 @@ agasanahalli::village
 agasarahalli::village
 agasibeyli::village
 agaskhand::village
-agat::village
 agatash::village
 agathariruppu::village
 agatovo::village
+agat::village
 agaya::village
 agbadi::village
 agbande::village
 agbaou-ahéoua::village
+ağbaşlı::village
+ağbiz::village
+ağbulaq::village
+ağcakent::village
+ağcakənd::village
+ağcaqovaq::village
+ağcayazı::village
 agdal::village
+ağdamkənd::village
+ağdam qalal::village
+ağdərə::village
 age:年龄
 age distribution:年龄分布
 ageing:老化
-agency::village
 agency:办事处
+agency::village
 agent:代理人
 agent:特工
+ageratina gracilis::plant
 ageri::village
 aggersund::village
 aggression:侵略
 aggtelek::village
 aggumi::village
-agh bad-e gaduk::village
-agh barzeh::village
-agh bash::village
-agh bolagh-e kuranlu::village
-agh bolagh-e mostafa khan::village
-agh bolagh-e olya::village
-agh bolagh-e sofla::village
-agh bolagh::village
-agh darak::village
-agh darreh::village
-agh davahlu-ye olya::village
-agh dizaj::village
-agh gol::village
-agh kahriz::village
-agh kand::village
-agh mazar-e kord::village
-agh mazar::village
-agh otluq::village
-agh qeshlaq::village
-agh tappeh::village
-agh tavaraq::village
-agh veran::village
-agh zaman kandi::village
-agh ziarat::village
 aghada::village
-aghaj ughli::village
 aghajari::village
-aghan::village
+aghaj ughli::village
 aghancheh::village
 aghane::village
 aghanus::village
+aghan::village
 agharbari::village
 agharpur::village
 aghasht::village
-aghasi::village
 aghasin-e bala::village
 aghasin-e pain::village
+aghasi::village
 aghasur::village
 aghaura::village
 aghavnadzor::village
 aghavnatun::village
 aghavnavank::village
+agh bad-e gaduk::village
+agh barzeh::village
+agh bash::village
 aghberk::village
 aghbolagh-e alamdar::village
 aghbolagh-e ali akbar khan::village
@@ -1534,11 +1547,16 @@ aghbolagh-e hasan kandi::village
 aghbolagh-e hashtrud::village
 aghbolagh-e hoseyn khan::village
 aghbolagh-e kalisa kandi::village
+agh bolagh-e kuranlu::village
 aghbolagh-e mokhur::village
+agh bolagh-e mostafa khan::village
+agh bolagh-e olya::village
 aghbolagh-e olya::village
+agh bolagh-e sofla::village
 aghbolagh-e sofla::village
 aghbolagh-e suqar::village
 aghbolagh-e taghamin::village
+agh bolagh::village
 aghbolagh::village
 aghbulag::village
 aghchay::village
@@ -1548,13 +1566,14 @@ aghcheh dizaj::village
 aghcheh dizej::village
 aghcheh gonbad::village
 aghcheh hesar::village
-aghcheh kand::village
 aghcheh kandi::village
+aghcheh kand::village
 aghcheh kharabeh::village
 aghcheh kohal-e rajabanlu::village
 aghcheh kohal-e zamani::village
 aghcheh kohel::village
 aghcheh kohol::village
+aghchehlu::village
 aghcheh mashhad-e char dowli::village
 aghcheh mashhad::village
 aghcheh masjed::village
@@ -1565,17 +1584,21 @@ aghcheh qeshlaq-e sofla::village
 aghcheh qeshlaq::village
 aghcheh rish::village
 aghcheh rud::village
-aghcheh ziveh::village
 aghcheh::village
-aghchehlu::village
+aghcheh ziveh::village
 aghdam::village
+agh darak::village
+agh darreh::village
 aghdarreh::village
 aghdash::village
+agh davahlu-ye olya::village
+agh dizaj::village
 aghdzk::village
+aghelak::village
 aghel kamar::village
 aghel nazri::village
-aghelak::village
 agheshlu::village
+agh gol::village
 aghin kayaran::village
 aghin::village
 aghitu::village
@@ -1583,46 +1606,56 @@ aghjakand::village
 aghjakend::village
 aghjeh::village
 aghjivan::village
+agh kahriz::village
 aghkand-e olya::village
 aghkand-e qareh khezer::village
 aghkand-e samaraq::village
+agh kand::village
 aghlan::village
 aghlian::village
 aghmamedlo::village
+agh mazar-e kord::village
+agh mazar::village
 aghmiyun::village
 aghnjadzor::village
 aghol beyk-e olya::village
 aghol beyk-e sofla::village
 agholdar::village
 aghoseh::village
+agh otluq::village
 aghozi gang::village
+agh qeshlaq::village
 aghsaqal::village
-aghur::village
+agh tappeh::village
+agh tavaraq::village
 aghurabad::village
-aghushk khoshk kari::village
+aghur::village
 aghushkash::village
 aghushkdal::village
+aghushk khoshk kari::village
 aghutman::village
 aghuyeh::village
+aghuzben::village
+aghuzbon kand sar::village
+aghuzbon::village
+aghuzchal::village
+aghuzdarben::village
 aghuz darreh::village
 aghuz galleh::village
 aghuz kaleh::village
 aghuz kalleh::village
 aghuz keleh::village
 aghuz koti::village
-aghuzben::village
-aghuzbon kand sar::village
-aghuzbon::village
-aghuzchal::village
-aghuzdarben::village
 aghuzlu::village
 aghvani::village
 aghvaran::village
+agh veran::village
 aghvorik::village
 aghyazi::village
 aghzaghaneh::village
+agh zaman kandi::village
 aghzavar::village
-agi band bast::village
+agh ziarat::village
 agia anna::village
 agia galini::village
 agia kyriaki::village
@@ -1633,6 +1666,8 @@ agia paraskevi::village
 agia sofia::village
 agia triada::village
 agia::village
+agi band bast::village
+agiñaga::village
 agioi anargyroi::village
 agioi deka::village
 agioi vavatsinias::village
@@ -1667,13 +1702,16 @@ agios vartholomaios::village
 agios vasileios::village
 agiovlasitika::village
 agirdzha::village
-agiñaga::village
+ağıllı::village
+ağılözü::village
 agjeh::village
+ağkənd::village
+ağkilsə::village
 agkistro::village
-agle::village
 agleh bachay::village
 agleh zovihed::village
 aglen::village
+agle::village
 aglionby::village
 aglish::village
 aglona::village
@@ -1683,11 +1721,14 @@ agnano::village
 agnia::village
 agnieszkowo::village
 agnuzzo::village
+ağoğlan::village
+ağören::village
 agosk::village
 agostoli::village
 agougou::village
 agounde::village
-agra::village
+ağqaya::village
+ağqıraq::village
 agrahara belaguli::village
 agrahara, chintamani::village
 agrahara::village
@@ -1695,21 +1736,24 @@ agrampela::village
 agrapatana::village
 agrapidies::village
 agraura::village
+agra::village
 agree:同意
 agreh bid::village
-agri bujaq::village
 agriakona::village
-agricultural pumps complex::village
+agri bujaq::village
 agricultural:农业的
-agriculture:农业
+agricultural pumps complex::village
 agriculture:农学
+agriculture:农业
 agridaki::village
-agridi::village
 agridia::village
+agridi::village
+ağrı::village
 agrokipia::village
 agrology:土壤学
 agronomy:农学
 agroyesum::village
+ağtəpə::village
 aguacate::village
 aguaderas::village
 aguas nuevas::village
@@ -1719,112 +1763,119 @@ aguemoune::village
 aguilar del río alhama::village
 agund::village
 agusalu::village
-agwan::village
 agwanhera::village
+agwan::village
 agwari::village
 agyaa::village
 agyagosszergény::village
-ah kung kok fishermen village::village
-aha khani::village
+ağyataq::village
+ağyazı buduq::village
+ağyazı::village
+ağyoxuş::village
+ağzıbüyük::village
+ağzıkaraca::village
 ahad beyglu::village
+aha khani::village
 ahal::village
 ahamadpur::village
-ahan sar::village
-ahan shahr::village
 ahandan::village
-ahang::village
-ahangar kola-ye now kandeh::village
-ahangar kola-ye olya::village
-ahangar kola-ye sofla::village
-ahangar kola::village
-ahangar mahalleh::village
-ahangar::village
 ahangaran-e kaviani::village
 ahangaran-e olya::village
 ahangaran-e sofla::village
 ahangaran::village
 ahangari::village
 ahangarkela::village
+ahangar kola::village
+ahangar kola-ye now kandeh::village
+ahangar kola-ye olya::village
+ahangar kola-ye sofla::village
+ahangar mahalleh::village
+ahangar::village
+ahang::village
 ahankoti::village
+ahan sar::village
+ahan shahr::village
 ahaq::village
-ahar meshkin::village
-ahar::village
 aharak::village
+ahar meshkin::village
 aharodniki::village
+ahar::village
 ahascragh::village
 ahaste::village
 ahatlar::village
 ahausen::village
 ahaymer::village
 ahekõnnu::village
-aheri::village
 aheripur::village
+aheri::village
 ahetti::village
 ahghuk::village
-ahi dasht::village
-ahi mahalleh::village
-ahi::village
 ahianu::village
+ahi dasht::village
 ahiler::village
 ahilyapur::village
+ahi mahalleh::village
 ahinoura::village
-ahiran::village
 ahirani::village
+ahiran::village
 ahirvade::village
 ahirvara::village
 ahisilla::village
+ahi::village
+ahırlı::village
 ahkalan::village
+ah kung kok fishermen village::village
+ahla kuh::village
+ahlam::village
+ahlatçık::village
+ahlat::village
+ahlaw::village
+ahl-e iman::village
 ahl el koudia::village
 ahl el oued::village
 ahl fashshash::village
 ahl fulays::village
-ahl-e iman::village
-ahla kuh::village
-ahlam::village
-ahlat::village
-ahlatçık::village
-ahlaw::village
 ahli kalan::village
 ahli kamboh::village
 ahli khurd::village
 ahlten::village
-ahmad aqa::village
-ahmad ash shaykh::village
-ahmad beyg::village
-ahmad beyglu::village
-ahmad gharib::village
-ahmad hasan::village
-ahmad hoseyn::village
-ahmad kandi::village
-ahmad khani::village
-ahmad khvajeh::village
-ahmad kola::village
-ahmad mahmudi::village
-ahmad mardeh::village
-ahmad mowla::village
-ahmad qalandari::village
-ahmad salar-e kalat tayebi::village
-ahmad sara::village
-ahmad-e naseri::village
-ahmad-e omran::village
-ahmadabad, zahedan::village
 ahmadabad-e almasaki::village
-ahmadabad-e do::village
 ahmadabad-e doorban::village
+ahmadabad-e do::village
 ahmadabad-e garus::village
 ahmadabad-e molla mas::village
 ahmadabad-e mosaddeq::village
 ahmadabad-e sofla::village
 ahmadabad-e vasat::village
 ahmadabad::village
+ahmadabad, zahedan::village
+ahmad aqa::village
+ahmad ash shaykh::village
+ahmad beyglu::village
+ahmad beyg::village
 ahmadbriw::village
+ahmad-e naseri::village
+ahmad-e omran::village
+ahmad gharib::village
+ahmad hasan::village
+ahmad hoseyn::village
 ahmadi::village
 ahmadiyeh::village
+ahmad kandi::village
 ahmadkar::village
+ahmad khani::village
 ahmadkhan::village
+ahmad khvajeh::village
+ahmad kola::village
 ahmadluy-e olya::village
 ahmadluy-e sofla::village
+ahmad mahmudi::village
+ahmad mardeh::village
+ahmad mowla::village
 ahmadpur::village
+ahmad qalandari::village
+ahmad salar-e kalat tayebi::village
+ahmad sara::village
 ahmadun::village
 ahmadvand::village
 ahmamau::village
@@ -1834,8 +1885,8 @@ ahmeek::village
 ahmetadil::village
 ahmetaq::village
 ahmetbaba::village
-ahmetbey::village
 ahmetbeyler::village
+ahmetbey::village
 ahmethoca::village
 ahmetler::village
 ahmetli::village
@@ -1857,30 +1908,30 @@ ahras::village
 ahrok::village
 ahruiyeh::village
 ahryansko::village
-ahsham khosrow khan::village
-ahsham qaedha::village
 ahsham-e ahmad::village
 ahsham-e hajj khurshid::village
 ahsham-e hasan::village
 ahsham-e manu ahmadi::village
 ahsham-e sartal::village
-ahu dasht::village
-ahu qaleh::village
-ahu tappeh::village
-ahu::village
+ahsham khosrow khan::village
+ahsham qaedha::village
 ahubam::village
+ahu dasht::village
 ahugan::village
 ahuiyeh::village
 ahula::village
 ahun::village
 ahupe::village
+ahu qaleh::village
 ahuravak::village
 ahuri::village
-ahva::village
+ahu tappeh::village
+ahu::village
 ahvanu::village
 ahvarak::village
-ahırlı::village
+ahva::village
 aiamaa::village
+a.i.bheemavaram::village
 aichkirchen::village
 aid:帮助
 aidalpur::village
@@ -1892,40 +1943,37 @@ aidu::village
 aiduzawl::village
 aigel::village
 aiguaviva::village
-aihar::village
 aihari buzurg::village
+aihar::village
 aijala::village
 aikma::village
-aila::village
 ailakundi::village
 ailan::village
+aila::village
 aileh::village
 ailstone::village
 aily::village
 aimilianos::village
-ain al nuaman::village
+ainalah::village
 ain al-ajouz::village
 ain al-barda::village
 ain al-ghara::village
+ain al nuaman::village
 ain al-raheb::village
-ain el safssaf::village
-ain halaqim::village
-ain kalaieh::village
-ain ksour::village
-ain zhalta::village
-ain::village
-ainalah::village
 ainalu::village
 ainapur, chincholi::village
 ainapur::village
+aïn cheikh::village
+aïn choucha::village
 aindhi::village
 aindu::village
-aine::village
 aineh deh::village
 aineh jub::village
-aineh::village
 ainehvand-e abdollah::village
 ainehvand-e darreh rashteh::village
+aineh::village
+ain el safssaf::village
+aine::village
 aingdo::village
 ainggyi::village
 aingiri::village
@@ -1934,68 +1982,83 @@ aingshe::village
 aingtha::village
 aingya::village
 aingzauk::village
+ain halaqim::village
 ainhofen::village
 ainja::village
+ain kalaieh::village
+ain ksour::village
 ainley top::village
 ainokot::village
 ainpur::village
 ainthorpe::village
-air army:空军
-air conditioner:空调
-air force:空军
-air raid:空袭
-air raids:空袭
+ain::village
+ain zhalta::village
+aiphanes argos::plant
+aiphanes pilaris::plant
 air:空气
 airani chitalia::village
+air army:空军
 airbag:安全气囊
 airbase:空军基地
 airborne:空气中的
-aircraft carrier:航空母舰
+air conditioner:空调
 aircraft:飞机
+aircraft carrier:航空母舰
 aird::village
 airfield:机场
+air force:空军
 airlift:空运
 airlifter:运输机
 airline:航线
 airliner:客机
 airntully::village
 airplane:飞机
-airport drive::village
 airport:飞机场
+airport drive::village
+air raid:空袭
+air raids:空袭
 airstrike:空袭
 airy castle::village
 aisby::village
 aiskew::village
 aisymi::village
+aït abdelhadi::village
 aita el-foukhar::village
+aït afra::village
+aït dahmane::village
+aïté::village
 aitf::village
-aitha::village
 aithadi::village
+aït hamadouche::village
+aitha::village
 aithor::village
 aitpara::village
-aixirivall::village
+aït salah::village
+aït si amar::village
+aït si saïd::village
 aixàs::village
+aixirivall::village
 aizstrautnieki::village
 ajabaj::village
 ajabpura::village
 ajagara::village
 ajaipur::village
 ajama::village
-ajami-ye kallehbuz::village
-ajami::village
 ajamil::village
+ajami::village
+ajami-ye kallehbuz::village
 ajamlu::village
 ajampur::village
+ajanale::village
+ajand::village
 ajan qarah khvajeh::village
 ajan sangarli::village
 ajan shir melli::village
-ajan::village
-ajanale::village
-ajand::village
 ajantha::village
+ajan::village
 ajarostaq::village
-ajay::village
 ajaysar::village
+ajay::village
 ajdinovići::village
 ajellidine::village
 ajgain::village
@@ -2024,38 +2087,17 @@ ajudanabad::village
 ajvaj::village
 ajvatovci::village
 ajylu::village
-ak-bash::village
-ak-beket::village
-ak-bulak::village
-ak-bulung::village
-ak-chal::village
-ak-döbö::village
-ak-jar::village
-ak-jol::village
-ak-korgon::village
-ak-kuduk::village
-ak-say::village
-ak-shor::village
-ak-suu::village
-ak-talaa::village
-ak-tam::village
-ak-tash::village
-ak-terek::village
-ak-turpak::village
-ak-tüz::village
-ak-Ölöng::village
-ak::village
 aka'aka::village
-aka::village
+akācijas::village
 akadi::village
-akaki::village
 akakir::village
+akaki::village
 akala::village
 akalaw::village
 akalgarh::village
+akalın::village
 akalovo::village
 akalpur::village
-akalın::village
 akampur::village
 akand::village
 akanefore::village
@@ -2072,17 +2114,15 @@ akarade::village
 akarahaduwa::village
 akaram::village
 akarca::village
+akarçay::village
 akare::village
 akarpura::village
 akarsu::village
-akarçay::village
 akatsievo::village
 akauni::village
+aka::village
 akbaba::village
-akbar davud-e qeshlaqi::village
-akbar jafar::village
-akbar kandi::village
-akbar sara::village
+akbağ::village
 akbarabad-e arjomand::village
 akbarabad-e bahari::village
 akbarabad-e bala::village
@@ -2104,56 +2144,86 @@ akbarabad-e sardasht::village
 akbarabad-e vaziri::village
 akbarabad-e yek::village
 akbarabad::village
+akbar davud-e qeshlaqi::village
 akbari::village
 akbariyeh::village
+akbar jafar::village
+akbar kandi::village
 akbarpur kalan::village
 akbarpur::village
+akbar sara::village
 akbarwala::village
-akbayır::village
-akbağ::village
+ak-bash::village
 akbaş::village
+akbayır::village
+ak-beket::village
 akbinek::village
 akbudak::village
+ak-bulak::village
+ak-bulung::village
 akbulut::village
 akburç::village
-akdam::village
-akdamla::village
-akdamlar::village
-akdarı::village
+akçaabat::village
+akçaalan::village
+akçakale::village
+akçakaya::village
+akçakent::village
+akçakese::village
+akçakoca::village
+akçakoyun::village
+akçaköy::village
+akçalı::village
+akçal::village
+akçaören::village
+akçapınar::village
+akçaşehir::village
+akçasu::village
+akçataş::village
+akçatepe::village
+akça::village
+akçay::village
+akçeşme::village
+ak-chal::village
+akçin::village
 akdağ::village
+akdamlar::village
+akdamla::village
+akdam::village
+akdarı::village
+akdeğirmen::village
 akdemir::village
 akdere::village
-akdeğirmen::village
-akdik::village
 akdiken::village
+akdik::village
 akdizgin::village
+ak-döbö::village
 akdoğan::village
 akdurak::village
 akduran::village
 akerd::village
 akersloot::village
 akespe::village
-akgedik::village
 akgeçit::village
+akgedik::village
 akgöz::village
 akgün::village
-akh kand::village
-akha::village
 akhaj::village
 akhalsopeli::village
 akhangan::village
-akhara::village
 akharan::village
+akhara::village
 akharman::village
 akharpara::village
 akhasheni::village
 akhateli::village
 akhaupur::village
+akha::village
 akhazir::village
 akhi jahan::village
 akhi jan::village
 akhi kamal::village
 akhisar::village
+akh kand::village
 akhkerpi::village
 akhkula::village
 akhlamad-e olya::village
@@ -2167,39 +2237,44 @@ akhowr khash::village
 akhpradzor::village
 akhri::village
 akhsakhlar::village
-akhta::village
 akhtachi::village
 akhtaj::village
 akhtala::village
 akhtarabad::village
+akhta::village
 akhteh chi::village
 akhteh khaneh::village
 akhtetar::village
 akhtiarpur::village
 akhuleh::village
 akhullu::village
+akhundi::village
 akhund mahalleh::village
 akhund melk::village
 akhund qeshlaq::village
-akhundi::village
 akhundzadeh::village
 akhurik::village
 akhurlu::village
 akhurum::village
 akhuryan::village
-akhvor sar::village
 akhvord::village
+akhvor sar::village
 akhyan-e bozorg::village
 akhyan-e kuchek::village
 akhyan::village
 akhzarabad::village
 akiara::village
-akin::village
 akine::village
 akinfiyevo::village
 akingam::village
+akin::village
 akiush::village
 akiz qeshlaq::village
+akıncılar::village
+akıncı::village
+akın::village
+ak-jar::village
+ak-jol::village
 akkachipatti::village
 akkan wali::village
 akkapalem::village
@@ -2214,18 +2289,20 @@ akkiraz::village
 akkireddigudem::village
 akkol::village
 akkonak::village
+ak-korgon::village
+akköse::village
 akkoyunlu::village
+akköy::village
 akkrum::village
+ak-kuduk::village
 akkulapeta::village
 akkum::village
 akkupalli::village
-akkur::village
 akkurthi::village
+akkur::village
+akkuş::village
 akkuyu::village
 akkuzulu::village
-akkuş::village
-akköse::village
-akköy::village
 akland::village
 aklar::village
 aklasis ežeras::village
@@ -2247,22 +2324,25 @@ akocak::village
 akodara::village
 akola::village
 akole::village
+ak-Ölöng::village
 akoluk::village
 akontio::village
+akören::village
 akorha::village
 akorhi::village
 akori::village
+a.kothapalli::village
 akoumokoumo::village
 akounougbé::village
+akouré::village
 akourousoulba::village
 akoursos::village
-akouré::village
 akova::village
 akpafu-todzi::village
 akpante::village
 akpap::village
-akpoha::village
 akpınar::village
+akpoha::village
 akradio::village
 akraifnio::village
 akramabad-e chahgavari::village
@@ -2274,27 +2354,35 @@ akritas::village
 akron::village
 akrounta::village
 aksabad::village
-aksak::village
 aksaklar::village
+aksak::village
 aksalur::village
 aksaray::village
+akşar::village
+ak-say::village
 aksaz::village
 akseh-ye olya::village
 akseh-ye sofla::village
 akseki::village
 aksengir::village
 akshiy::village
+ak-shor::village
 aksinir::village
+aksöğüt::village
 aksoy::village
 akste::village
-aksu::village
 aksungur::village
 aksutekke::village
-aksöğüt::village
+ak-suu::village
+aksu::village
+ak-talaa::village
+ak-tam::village
 aktarla::village
+ak-tash::village
 aktas::village
 aktaş::village
 aktepe::village
+ak-terek::village
 akthi::village
 aktij kola::village
 aktogay::village
@@ -2302,454 +2390,149 @@ aktoprak::village
 aktounta::village
 aktulga::village
 aktuma::village
+ak-turpak::village
+ak-tüz::village
 aktyube::village
 aku jan::village
 akunk::village
-akura::village
 akuramboda::village
 akurambodwatta::village
+akura::village
 akurdi::village
 akuşapeştə::village
+ak::village
 akyaka::village
-akyar::village
 akyarma::village
+akyar::village
 akyayla::village
 akyazı::village
+akyıldız::village
 akyokuş::village
 akyol::village
-akyurt::village
-akyuva::village
 akyünlü::village
 akyürek::village
+akyurt::village
+akyuva::village
 akyüz::village
-akyıldız::village
 akziyaret::village
-akça::village
-akçaabat::village
-akçaalan::village
-akçakale::village
-akçakaya::village
-akçakent::village
-akçakese::village
-akçakoca::village
-akçakoyun::village
-akçaköy::village
-akçal::village
-akçalı::village
-akçapınar::village
-akçasu::village
-akçataş::village
-akçatepe::village
-akçay::village
-akçaören::village
-akçaşehir::village
-akçeşme::village
-akçin::village
-akören::village
-akācijas::village
-akın::village
-akıncı::village
-akıncılar::village
-akşar::village
-al aamriya::village
-al akhdar::village
-al aqda::village
-al azrakiyah::village
-al badr::village
-al bahitah::village
-al barabir::village
-al bardiyah::village
-al bir::village
-al buraykah::village
-al daayen::village
-al darreh::village
-al fazz::village
-al froosh::village
-al furaysh::village
-al gari::village
-al ghulah::village
-al gihad::village
-al gorg::village
-al habil::village
-al hadrur::village
-al hafirah::village
-al hajar::village
-al halaqah::village
-al hamam::village
-al hamimah::village
-al hanashah::village
-al harani::village
-al harra::village
-al hasamah::village
-al heedan::village
-al hijfar::village
-al hisn::village
-al jabriyah::village
-al jadi::village
-al jadidah::village
-al jafnayn::village
-al jaradiyah::village
-al jawah::village
-al jawl::village
-al jirbah::village
-al jissah::village
-al karaana::village
-al karamah::village
-al karbus::village
-al kawahilah::village
-al kawr::village
-al khabr::village
-al khadraniyah::village
-al khalas::village
-al khamilah::village
-al khamrah::village
-al kharabah::village
-al kharadilah::village
-al kharrara::village
-al kharsaah::village
-al khashabiyah::village
-al khawd::village
-al khawr::village
-al khaydar::village
-al khayf::village
-al kheesa::village
-al khubah::village
-al khuimat::village
-al khulasah::village
-al khurayb::village
-al kidwah::village
-al kirs::village
-al luqiyah::village
-al madiq::village
-al maghal::village
-al mahal::village
-al mahattah::village
-al mahjar::village
-al mahlaj::village
-al makhzan al fawqi::village
-al malbanah::village
-al mali::village
-al maqrah::village
-al marabi::village
-al marqab::village
-al masarrah::village
-al masfalah::village
-al mashayikh::village
-al masrouhiya::village
-al mathnah::village
-al mayasam::village
-al mazrouah::village
-al mubarak::village
-al mudawwarah::village
-al mufrihat::village
-al multasa::village
-al mundassah::village
-al muqaraea::village
-al muqr::village
-al muraysiyah::village
-al musayjid::village
-al muwayh::village
-al owaina::village
-al qa'im::village
-al qadimah::village
-al qahtan::village
-al qala::village
-al qanab::village
-al qararah::village
-al qarn::village
-al qaryat::village
-al qashabah::village
-al qirshan::village
-al qufayf::village
-al quful::village
-al qurayb::village
-al qurayyah::village
-al qushashiyah::village
-al quwah::village
-al rehayya::village
-al sahla al shamaliya::village
-al sakhama::village
-al salamiya::village
-al samriya::village
-al shabhana::village
-al sogara::village
-al sormeh::village
-al suwaihliya::village
-al tappeh::village
-al ukhaydir::village
-al utouriya::village
-al wahadinah::village
-al waht::village
-al wasili::village
-al wuday::village
-al zeghain::village
-al Ābār::village
-al'manbyuruk::village
-al-'uyayna::village
-al-alwa::village
-al-aziziyah::village
-al-azzounieh::village
-al-bahariyah::village
-al-bahsa::village
-al-bahth::village
-al-bani::village
-al-barid::village
-al-bariqiyah::village
-al-bayda::village
-al-bayyadiyah::village
-al-bilad::village
-al-bilaliyah::village
-al-bir fawqani::village
-al-bir tahtani::village
-al-bitar::village
-al-budi::village
-al-buhayrah::village
-al-buqayrayn::village
-al-buraq::village
-al-burj::village
-al-dabaah::village
-al-e darvish::village
-al-e kabud::village
-al-e mahmudi::village
-al-e tayyeb::village
-al-e yusefi-ye olya::village
-al-fadghami::village
-al-fajaa::village
-al-fardah::village
-al-garah::village
-al-ghizlaniyah::village
-al-ghuwayr::village
-al-ghuyaydah::village
-al-hadah::village
-al-hadiyah::village
-al-hafar::village
-al-hajaliah::village
-al-hajarayn::village
-al-haluwaniyah::village
-al-hamid::village
-al-hamraa::village
-al-hamrat::village
-al-haqel::village
-al-harshiyat::village
-al-hasusah::village
-al-hawi::village
-al-hawtah::village
-al-haylah::village
-al-hazm::village
-al-hidbah::village
-al-houz::village
-al-huraydah::village
-al-hurra::village
-al-husaisa::village
-al-huwaylah::village
-al-huwayz al-qibla::village
-al-jafr::village
-al-jamel::village
-al-jayyid::village
-al-jebbah::village
-al-jeshah::village
-al-jidfirah::village
-al-judaydah::village
-al-juhayl::village
-al-juwadah::village
-al-juwaykhat::village
-al-kadir::village
-al-kafr::village
-al-karim::village
-al-kawdah::village
-al-kawm::village
-al-khalaf::village
-al-khalidiyah::village
-al-khirbah::village
-al-khubbah::village
-al-khuraybah::village
-al-krum::village
-al-lisb::village
-al-madlaʽah::village
-al-madudah::village
-al-mahfurah::village
-al-malikiyah::village
-al-masajid::village
-al-mashhad::village
-al-masilah::village
-al-masrab::village
-al-masriyah::village
-al-mastumah::village
-al-matariyyah::village
-al-mawsaf::village
-al-mazraa::village
-al-mazraah::village
-al-mirad::village
-al-mishtaya::village
-al-mitras::village
-al-mubarakah::village
-al-mukharram al-tahtani::village
-al-mukhtabi'ah::village
-al-munaqqab::village
-al-muqaabarat::village
-al-mushannaf::village
-al-mushrifah::village
-al-muslimiyah::village
-al-mutaywil::village
-al-nabi shayth::village
-al-naimah::village
-al-naqirah::village
-al-qadi::village
-al-qahira::village
-al-qahtaniya::village
-al-qanaqiyah::village
-al-qarah::village
-al-qastal::village
-al-qatn::village
-al-qawalish::village
-al-qawz::village
-al-qumrah::village
-al-quniyah::village
-al-qurayn::village
-al-quzah::village
-al-rabiaa::village
-al-rafid::village
-al-rasif::village
-al-rawda::village
-al-rayyan::village
-al-sahwah::village
-al-sankari::village
-al-sayyid::village
-al-sha'irah::village
-al-shibr::village
-al-shinyah::village
-al-shuwayhid::village
-al-tawani::village
-al-thabitiyah::village
-al-tulay'i::village
-al-tulaysiyah::village
-al-tuwayni::village
-al-waqf::village
-al-wasitah::village
-al-wulayjat::village
-al-yaarubiyah::village
-al-yacoubiyah::village
-al-yadudah::village
-al-zaafaraniyah::village
-al-zarah::village
-al-zurzuriyah::village
-al::village
-ala chaman::village
-ala ol din-e olya::village
-ala ol din-e sofla::village
-ala ol din::village
-ala ol dowleh::village
-ala sar::village
-ala-bash::village
-ala::village
 alaaddin::village
+al aamriya::village
 alaattinköy::village
 alabalık::village
 alabama:亚拉巴马州
 alabanooru::village
+al Ābār::village
+ala-bash::village
 alabato::village
 alabedir::village
 alabha::village
-alaca::village
 alacaatlı::village
 alacami::village
+alaçam::village
+alaca::village
+ala chaman::village
 alachaur::village
 alachiq tapahsi::village
 alachiq::village
 alacska::village
-alad::village
+aladağ::village
 aladahalli::village
 aladakatti (k.m.)::village
 aladakatti (k.y.)::village
 aladakatti::village
-aladağ::village
 aladeniya::village
 aladikaruppur::village
 aladikkadu::village
 aladikme::village
-aladin::village
 aladinići::village
-aladizgeh::village
+aladin::village
 aladiškės::village
+aladizgeh::village
+alad::village
 alaeen::village
+alafia barteri::plant
+alafia caudata::plant
+alafia lucida::plant
+alafia multiflora::plant
+alafia orientalis::plant
+alafia zambesiaca::plant
 alagalla kondagama::village
 alagalla pahalagama::village
 alagapuri::village
 alagar koyil::village
+alagići::village
 alaginal::village
 alaginayagipuram::village
 alagiyamanavalam::village
-alagići::village
 alagoda::village
 alagoz::village
+alagöz::village
 alagpuri::village
 alaguz-e olya::village
 alaguz-e sofla::village
 alaguz::village
 alagyaz::village
-alagöz::village
 alahan panjang::village
 alahan::village
 alahdad chak::village
 alai::village
 alaiza::village
-alajujeh::village
 alajõe::village
+alajujeh::village
 alakagama::village
 alakan::village
 alakapura::village
 alakava::village
 alakhadzi::village
-alaki sahra::village
+al akhdar::village
 alakin::village
+alaki sahra::village
+alakoç::village
 alakola-anga::village
-alakola-ela::village
 alakoladeniya::village
+alakola-ela::village
 alakolamada::village
 alakolamaditta::village
 alakolawewa::village
-alakoç::village
-alakurapadu::village
 alaküla::village
+alakurapadu::village
 alalan-e qadim::village
-alam chak::village
-alam kandi::village
-alam khanwala::village
-alam sar::village
+al-alwa::village
 alamabad-e mohandes::village
 alamabad-e olya::village
 alamabad-e sofla::village
 alamabad::village
-alaman::village
 alamance::village
 alamanini::village
+alaman::village
 alamarathupatty::village
-alamathi::village
 alamathikkadu::village
+alamathi::village
 alambadi::village
 alambur::village
+alam chak::village
 alamdan-e olya::village
 alamdan-e sofla::village
 alamdar deh::village
 alamdar-e olya::village
 alamdar-e sofla::village
-alamdar::village
 alamdari::village
+alamdar::village
 alamdeh-e gharbi::village
 alamdeh-e sharqi::village
 alamescit::village
 alaminos::village
+alam kandi::village
+alam khanwala::village
 alamlu shah ali::village
 alamlu tabriz::village
 alamovtsi::village
 alampallam::village
 alampattu::village
+alam sar::village
 alamshir::village
 alamuru::village
 alamut::village
-alan-e olya::village
-alan-e sofla::village
-alan::village
 alan:艾伦
 alanaq::village
 alanbaşı::village
@@ -2757,14 +2540,16 @@ alanbe::village
 alancık::village
 alandan::village
 alanduraiyarkattalai::village
+alan-e olya::village
+alan-e sofla::village
+alangan::village
 alang-e olya::village
 alang-e sofla::village
-alang::village
-alangan::village
 alangon::village
+alangören::village
 alangudi::village
 alanguiyeh::village
-alangören::village
+alang::village
 alanhimmetler::village
 alanjareq::village
 alanjeh::village
@@ -2774,30 +2559,37 @@ alankash::village
 alanköy::village
 alansi::village
 alanson::village
+alan::village
 alanyalı::village
 alanyurt::village
-alap::village
+ala ol din-e olya::village
+ala ol din-e sofla::village
+ala ol din::village
+ala ol dowleh::village
 alapadu::village
 alapakkam::village
 alapalawela::village
 alapars::village
 alapelit::village
+alapınar::village
 alappuzha east::village
 alappuzha west::village
 alapur::village
-alapınar::village
+alap::village
 alaqayah::village
+al aqda::village
 alaqeband::village
 alaqeh janban::village
 alaqeh::village
 alaqurşaq::village
-alaraz::village
 alarazbum::village
-alard::village
+alaraz::village
 alardeh::village
+alard::village
 alarj::village
 alarud::village
 alasaqqal::village
+ala sar::village
 alashan::village
 alashkert::village
 alashlu::village
@@ -2807,6 +2599,7 @@ alassa::village
 alast-e olya::village
 alast-e sofla::village
 alastvere::village
+alàs::village
 alatage::village
 alataş::village
 alatepe::village
@@ -2816,17 +2609,18 @@ alathur::village
 alauddin patti::village
 alaudinpur::village
 alavala::village
-alavan::village
 alavandipuram::village
+alavan::village
 alavere::village
-alavi kola-ye mir::village
-alavi kola::village
-alavi::village
 alavian::village
+alavi kola::village
+alavi kola-ye mir::village
+ala::village
 alaviq::village
+alavi::village
 alaviyeh::village
-alavoneh-ye fay::village
 alavoneh::village
+alavoneh-ye fay::village
 alawalpur::village
 alawalwala::village
 alawathugoda::village
@@ -2837,56 +2631,83 @@ alaybeyi::village
 alayin::village
 alaylı::village
 alayunt::village
+al-aziziyah::village
 alazman::village
-alaçam::village
+al azrakiyah::village
+al-azzounieh::village
+al badr::village
+al-bahariyah::village
+al bahitah::village
+al-bahsa::village
+al-bahth::village
 albaji::village
 albania:阿尔巴尼亚
 albanian:阿尔巴尼亚语
+al-bani::village
 albantsi::village
 albany::village
+al barabir::village
+al bardiyah::village
+al-barid::village
+al-bariqiyah::village
+al-bayda::village
 albayrak::village
+al-bayyadiyah::village
+albéniz::village
 alberbury::village
 albergen::village
 albers::village
 albert:阿尔伯特
 alberta beach::village
 albet::village
+al-bilad::village
+al-bilaliyah::village
 albinism:白化病
 albinów duży::village
 albinów mały::village
 albinów::village
 albion::village
+al-bir fawqani::village
+al-bir tahtani::village
+al bir::village
+al-bitar::village
 albizia:合欢属
 albolagh::village
-alborz::village
 alborzabad::village
-albu afri-ye jonubi::village
+alborz::village
 albu afri::village
+albu afri-ye jonubi::village
 albu bandar::village
+al-budi::village
+albuebadi::village
 albu gulak::village
 albu hamid::village
 albu hardan-e olya::village
+al-buhayrah::village
 albu hesar::village
-albu naim::village
-albu nasir::village
-albu nisi::village
-albu obeyd::village
-albu sanvan::village
-albu sayyad::village
-albu shajal::village
-albu shelug::village
-albu soveyt::village
-albu::village
-albuebadi::village
 albuid-e yek nabi::village
 albujenam::village
 album:唱片集
 album:集册
 albumraveh shamkoli::village
+albu naim::village
+albu nasir::village
+albu nisi::village
+albu obeyd::village
+al-buqayrayn::village
+al-buraq::village
+al buraykah::village
+al-burj::village
 albury::village
+albu sanvan::village
 albusavadi::village
-albéniz::village
+albu sayyad::village
+albu shajal::village
+albu shelug::village
+albu soveyt::village
+albu::village
 alcafozes::village
+alçalı::village
 alcanó::village
 alcaston::village
 alcatraz::village
@@ -2895,25 +2716,28 @@ alchalu::village
 alchemy:炼金术
 alchi::village
 alcohol:酒精
-alcoholic beverage:酒精饮料
 alcoholic:含酒精的
 alcoholic:酒鬼
+alcoholic beverage:酒精饮料
 alcoletge::village
 alcsútdoboz::village
-alda::village
+al daayen::village
+al-dabaah::village
+al darreh::village
 aldashin::village
+alda::village
 aldclune::village
-alde leie::village
+aldeacentenera::village
 aldea de el quejigal::village
 aldea de las hoyas::village
+aldea del pinar::village
 aldea de mesones::village
 aldea de pinilla::village
-aldea del pinar::village
-aldeacentenera::village
 aldeanueva de cameros::village
 aldeboarn::village
 aldebrő::village
 aldeia da ponte::village
+alde leie::village
 aldercar::village
 alderi::village
 alderman:市议员
@@ -2927,12 +2751,15 @@ aldringham::village
 aldwâld::village
 aleban::village
 alechaung::village
+al-e darvish::village
 aleeti ramaiah pally::village
 alefabad::village
 alefsaneh::village
 alegan::village
+alègan::village
 alegon::village
 alejandro gallinal::village
+al-e kabud::village
 alekere::village
 alekpo::village
 aleksandar stamboliyski::village
@@ -2943,9 +2770,9 @@ aleksandrovo, burgas province::village
 aleksandrovo::village
 aleksandrowice::village
 aleksandrowiec::village
+aleksandrówka::village
 aleksandrowo::village
 aleksandrów::village
-aleksandrówka::village
 alekseyevka::village
 aleksinački bujmir::village
 alektora::village
@@ -2953,8 +2780,9 @@ alekvere::village
 alele::village
 alella::village
 alelu::village
-alem kola::village
+al-e mahmudi::village
 alemdar::village
+alem kola::village
 alemler::village
 alencheh::village
 alenchery::village
@@ -2962,6 +2790,7 @@ alepochori::village
 alequ::village
 alesanco::village
 alestan::village
+al-e tayyeb::village
 alethriko::village
 aletoutou::village
 alewali::village
@@ -2975,175 +2804,107 @@ alexis::village
 aleyak::village
 aleyar::village
 aleyh::village
+al-e yusefi-ye olya::village
 alezg::village
+al-fadghami::village
+al-fajaa::village
 alfan::village
+al-fardah::village
 alfavut::village
+al fazz::village
 alfeiousa::village
-alfhausen::village
 alfés::village
-alga-fulbé::village
-alga::village
+alfhausen::village
+al froosh::village
+al furaysh::village
 algabas::village
 algae:藻
+alga-fulbé::village
 algallarín::village
 algan::village
+al-garah::village
 algarheim::village
+al gari::village
+alga::village
 algazir::village
 algebra:代数
-algebraic function:代数函数
 algebraic:代数的
+algebraic function:代数函数
 algen::village
 algeria:阿尔及利亚
 algerian:阿尔及利亚人
 alghabas::village
 alghadein::village
 algheden::village
+al-ghizlaniyah::village
+al ghulah::village
 alghur::village
-algi mukundi::village
+al-ghuwayr::village
+al-ghuyaydah::village
 algi, chittagong::village
+al gihad::village
+algi mukundi::village
+algi::village
 algi-ye olya::village
 algi-ye sofla::village
-algi::village
 algonquin::village
 algorfa::village
+al gorg::village
 algorithm:算法
 algorta::village
 algur::village
+al habil::village
+al-hadah::village
 alhadi::village
+al-hadiyah::village
+al hadrur::village
+al-hafar::village
+al hafirah::village
+al-hajaliah::village
+al-hajarayn::village
+al hajar::village
 alhak::village
+al halaqah::village
+al-haluwaniyah::village
+al hamam::village
 alhambra::village
+al-hamid::village
+al hamimah::village
+al-hamraa::village
+al-hamrat::village
+al hanashah::village
 alhan::village
 alhanwadi::village
+al-haqel::village
+al harani::village
 alharod::village
+al harra::village
+al-harshiyat::village
+al hasamah::village
 alhashem-e olya::village
 alhashem-e sofla::village
 alhasi::village
+al-hasusah::village
+al-hawi::village
+al-hawtah::village
+al-haylah::village
+al-hazm::village
+al heedan::village
 alhentennawatta::village
 alherd::village
 alhiat::village
-ali abad qajar::village
+al-hidbah::village
+al hijfar::village
+al hisn::village
+al-houz::village
+al-huraydah::village
+al-hurra::village
+al-husaisa::village
+al-huwaylah::village
+al-huwayz al-qibla::village
 ali abadak::village
-ali ahmadan::village
-ali akbar khamr::village
-ali akbar::village
-ali akbarlu::village
-ali aqai hezarkhani::village
-ali aqai-ye bala-ye bani chenur::village
-ali aqai-ye pain::village
-ali arab::village
-ali asan-e amiri::village
-ali asgar::village
-ali asghar kutki::village
-ali askari::village
-ali badal::village
-ali bandu-ye olya::village
-ali bar::village
-ali barani::village
-ali bayat::village
-ali beyg kandi::village
-ali beyglu::village
-ali beygluy-e olya::village
-ali beygluy-e sofla::village
-ali beyk::village
-ali bolagh::village
-ali bolaghi::village
-ali bommasandra::village
-ali bozayeh::village
-ali chak::village
-ali changi::village
-ali darreh::village
-ali darzi::village
-ali fateh::village
-ali gorzan-e olya::village
-ali gorzan-e sofla::village
-ali hamadan::village
-ali hasan-e olya::village
-ali hedyeh-ye olya::village
-ali hedyeh-ye pain::village
-ali hemmatabad-e tahmasabi::village
-ali hoseyn::village
-ali hoseyna::village
-ali hoseyni::village
-ali jador::village
-ali jan::village
-ali jangal::village
-ali kahi::village
-ali kahrizi::village
-ali kalayeh::village
-ali kalbi::village
-ali kan::village
-ali kand::village
-ali kandi::village
-ali karami-ye olya::village
-ali khan kandi::village
-ali khan qaleh::village
-ali khan-e kachkul::village
-ali khan-e zaman::village
-ali khan::village
-ali khanabad::village
-ali khel::village
-ali khvajeh::village
-ali kola-ye ahi::village
-ali kola::village
-ali koli::village
-ali koti::village
-ali mahmud::village
-ali makan::village
-ali malek::village
-ali mardan::village
-ali mardeh::village
-ali mehdi::village
-ali mirzai-ye olya::village
-ali mirzai-ye sofla::village
-ali modad::village
-ali mohammad bazar::village
-ali mohammad beygi::village
-ali mohammad zeytun::village
-ali mohammadi::village
-ali mohammadlu::village
-ali mohseni::village
-ali morad khani-ye olya::village
-ali morad khani-ye sofla::village
-ali morad khvah::village
-ali moradi::village
-ali morady::village
-ali nagar pali::village
-ali nangal::village
-ali nazar::village
-ali nazer::village
-ali nowdeh::village
-ali owsat mahalleh::village
-ali palang::village
-ali panah::village
-ali panik::village
-ali pir vali muman::village
-ali qandi::village
-ali qandu::village
-ali qapu::village
-ali qeshlaqi::village
-ali rahmani::village
-ali rais::village
-ali resideh::village
-ali reza gerdab::village
-ali sadr::village
-ali sara::village
-ali shah::village
-ali shahedan::village
-ali shahi::village
-ali shansuyi::village
-ali sorud::village
-ali verdilu::village
-ali yar kandi::village
-ali yar::village
-ali zamin::village
-ali zangi::village
-ali zarnu::village
-ali zogheyr::village
-ali zohuran::village
-ali-ye qurchi::village
-ali::village
+aliabadak::village
 aliabad cheragh::village
-aliabad nazar alivand::village
 aliabad-e abu ol qasem khani::village
 aliabad-e bala::village
 aliabad-e bejuyeh::village
@@ -3158,8 +2919,8 @@ aliabad-e kalkhuni::village
 aliabad-e khazayi-ye aliabad-e marki::village
 aliabad-e khvoshablu::village
 aliabad-e kohneh::village
-aliabad-e malek::village
 aliabad-e maleki::village
+aliabad-e malek::village
 aliabad-e mohammad qasem khan::village
 aliabad-e olya::village
 aliabad-e owkoshi::village
@@ -3176,32 +2937,66 @@ aliabad-e sofla::village
 aliabad-e vaziri::village
 aliabad-e ziaabad::village
 aliabad-e zinbiyeh::village
+aliabad nazar alivand::village
+ali abad qajar::village
 aliabad::village
-aliabadak::village
+ali ahmadan::village
+ali akbar khamr::village
+ali akbarlu::village
+ali akbar::village
+aliande::village
 alian-e sofla::village
 alian::village
-aliande::village
+ali aqai hezarkhani::village
+ali aqai-ye bala-ye bani chenur::village
+ali aqai-ye pain::village
+ali arab::village
 aliara::village
 alias:别名
+ali asan-e amiri::village
+ali asgar::village
+ali asghar kutki::village
+ali askari::village
+ali badal::village
+ali bandu-ye olya::village
+alibánfa::village
+ali barani::village
+ali bar::village
+ali bayat::village
 alibegovci::village
 alibegovići::village
-alibey::village
 alibeyce::village
+ali beyg kandi::village
+ali beyglu::village
 alibeyglu::village
+ali beygluy-e olya::village
+ali beygluy-e sofla::village
 alibeyk sara::village
+ali beyk::village
 alibeyler::village
 alibeyli::village
+alibey::village
 alibir::village
-alibánfa::village
+ali bolaghi::village
+ali bolagh::village
+ali bommasandra::village
+ali bozayeh::village
 alica::village
 alice::village
+ali chak::village
+ali changi::village
 alichin::village
+alići::village
+aliçopehlivan::village
 alidad::village
 alidam::village
-aliefe::village
+ali darreh::village
+ali darzi::village
 aliefendioğlu::village
+aliefe::village
 alienate:疏远
 alifakı::village
+ali fateh::village
 aligah::village
 aliganj::village
 aligav::village
@@ -3209,122 +3004,246 @@ aligh n'targa::village
 align:对齐
 alignment:对齐
 aligol::village
+ali gorzan-e olya::village
+ali gorzan-e sofla::village
+ali hamadan::village
+ali hasan-e olya::village
+ali hedyeh-ye olya::village
+ali hedyeh-ye pain::village
+ali hemmatabad-e tahmasabi::village
 alihoca::village
+ali hoseyna::village
+ali hoseyni::village
+ali hoseyn::village
+ali jador::village
+ali jangal::village
+ali jan::village
 alijan::village
 alijula::village
 alijuq::village
+ali kahi::village
+ali kahrizi::village
+ali kalayeh::village
+ali kalbi::village
 alikanas::village
+ali kandi::village
+ali kand::village
+ali kan::village
+ali karami-ye olya::village
 alikaran::village
 alikash::village
-alike::village
 alikeh::village
+alike::village
+ali khanabad::village
 alikhan beyki::village
-alikhan sara::village
+ali khan-e kachkul::village
+ali khan-e zaman::village
 alikhani::village
+ali khan kandi::village
 alikhanlu::village
+ali khan qaleh::village
+alikhan sara::village
+ali khan::village
+ali khel::village
+ali khvajeh::village
+ali kola::village
+ali kola-ye ahi::village
+ali koli::village
+ali koti::village
+aliköy::village
 alikuh::village
 alikulular::village
-aliköy::village
 alilah::village
 alileh sar::village
-alim-tepe::village
-alimentary canal:食道
+ali mahmud::village
+ali makan::village
+ali malek::village
+ali mardan::village
+ali mardeh::village
+ali mehdi::village
 alimentary:食物的
+alimentary canal:食道
 alimestan::village
+ali mirzai-ye olya::village
+ali mirzai-ye sofla::village
+ali modad::village
+ali mohammad bazar::village
+ali mohammad beygi::village
+ali mohammadi::village
+ali mohammadlu::village
+ali mohammad zeytun::village
+ali mohseni::village
+ali moradi::village
+ali morad khani-ye olya::village
+ali morad khani-ye sofla::village
 alimorad khan::village
+ali morad khvah::village
 alimorad::village
-alin jaq::village
-alin::village
+ali morady::village
+alim-tepe::village
+ali nagar pali::village
+ali nangal::village
+ali nazar::village
+ali nazer::village
 alinci::village
 alindar::village
-aliou::village
+alin jaq::village
+ali nowdeh::village
+alin::village
 alioğlu::village
+aliou::village
+ali owsat mahalleh::village
+ali palang::village
+ali panah::village
+ali panik::village
+ali pir vali muman::village
 alipur aima::village
-alipur khalsa::village
-alipur, jhalokati::village
-alipur::village
 alipura::village
-alir::village
+alipur, jhalokati::village
+alipur khalsa::village
+alipur::village
+ali qandi::village
+ali qandu::village
+ali qapu::village
+ali qeshlaqi::village
+ali rahmani::village
+ali rais::village
+ali resideh::village
 alireza chay::village
+ali reza gerdab::village
 alirezavandi::village
+alir::village
+ali sadr::village
+ali sara::village
 alisar::village
-alishah::village
+alişar::village
+ali shahedan::village
+ali shahi::village
 alishahi::village
+ali shah::village
+alishah::village
 alishan qeshlaqi::village
-alishar::village
+ali shansuyi::village
 alishari::village
+alishar::village
 alismereti::village
+ali sorud::village
 aliuşağı::village
 alivash::village
+ali verdilu::village
 aliverdi owshaqi::village
 aliveroviće::village
+ali::village
 aliwal araian::village
 aliwal jattan::village
 aliwal::village
 alix::village
 aliyabad::village
 aliyak::village
+ali yar kandi::village
+ali yar::village
 aliyeh dorudy::village
-aliçopehlivan::village
-alići::village
-alişar::village
+ali-ye qurchi::village
+ali zamin::village
+ali zangi::village
+ali zarnu::village
+ali zogheyr::village
+ali zohuran::village
+alıbəyli::village
+alıcan::village
+alıcık::village
+alıçlı::village
+alıc::village
+alıç::village
+alıkeyxalı::village
+alıncalı::village
+alıqulu::village
+al jabriyah::village
+al jadidah::village
+al jadi::village
+al jafnayn::village
+al-jafr::village
+al-jamel::village
 aljan::village
 aljapur::village
+al jaradiyah::village
+al jawah::village
+al jawl::village
+al-jayyid::village
 aljazayer::village
+al-jebbah::village
+al-jeshah::village
+al-jidfirah::village
+al jirbah::village
 aljish::village
+al jissah::village
 aljmaš::village
-alk-e kohneh::village
-alk::village
+al-judaydah::village
+al-juhayl::village
+al-juwadah::village
+al-juwaykhat::village
 alkabad::village
+al-kadir::village
+al-kafr::village
 alkaleh::village
-alkali metal:碱金属
 alkali:碱
+alkali metal:碱金属
 alkalu::village
 alkam::village
 alkane:烷烃
 alkapur::village
+al karaana::village
+al karamah::village
+al karbus::village
+al-karim::village
+al kawahilah::village
+al-kawdah::village
+al-kawm::village
+al kawr::village
+alk-e kohneh::village
 alkemada::village
 alken::village
 alkerton::village
+al khabr::village
+al khadraniyah::village
+al-khalaf::village
 alkhalaj::village
-alkhas::village
+al khalas::village
+al-khalidiyah::village
+al khamilah::village
+al khamrah::village
+al kharabah::village
+al kharadilah::village
+al kharrara::village
+al kharsaah::village
+al khashabiyah::village
 alkhasly::village
+alkhas::village
+al khawd::village
+al khawr::village
+al khaydar::village
+al khayf::village
+al kheesa::village
+al-khirbah::village
+al khubah::village
+al-khubbah::village
+al khuimat::village
+al khulasah::village
+al-khuraybah::village
+al khurayb::village
+al kidwah::village
+al kirs::village
 alkiškiai::village
 alkoppa::village
 alkozai::village
+al-krum::village
 alksnėnai::village
-all features:所有特征
-all my life:我的一生
-all:全体
+alk::village
 all:全部
+all:全体
 all:所有
 alladigam::village
 alladurg::village
-allah bakhsh mahalleh::village
-allah band::village
-allah beygi::village
-allah chal::village
-allah dad-e zehi::village
-allah dad::village
-allah darreh-ye olya::village
-allah darreh-ye sofla::village
-allah deh::village
-allah haqq::village
-allah kaj::village
-allah kandi::village
-allah marz::village
-allah morad khani::village
-allah now bazar::village
-allah nur::village
-allah rahim::village
-allah rud::village
-allah vajeh sar::village
-allah verdi kandi::village
-allah verdi khan::village
-allah yarlu::village
-allahabad minooyi::village
-allahabad roqani::village
-allahabad, zahedan::village
 allahabad-e abu saidi::village
 allahabad-e bala::village
 allahabad-e chah rigan::village
@@ -3339,19 +3258,44 @@ allahabad-e seyyed::village
 allahabad-e sofla::village
 allahabad-e tabatbayi::village
 allahabad-e yek::village
+allahabad minooyi::village
+allahabad roqani::village
 allahabad::village
+allahabad, zahedan::village
+allah bakhsh mahalleh::village
+allah band::village
+allah beygi::village
+allah chal::village
 allahdadabad, zahedan::village
+allah dad-e zehi::village
+allah dad::village
+allah darreh-ye olya::village
+allah darreh-ye sofla::village
+allah deh::village
 allahditta::village
 allaheh gurab::village
-allahi::village
+allah haqq::village
 allahiabad::village
 allahian::village
+allahi::village
 allahjegerd::village
+allah kaj::village
+allah kandi::village
 allahka::village
 allahlu::village
+allah marz::village
+allah morad khani::village
+allah now bazar::village
+allah nur::village
 allahqoli::village
+allah rahim::village
+allah rud::village
+allah vajeh sar::village
+allah verdi kandi::village
+allah verdi khan::village
 allahyari::village
 allahyarlı::village
+allah yarlu::village
 allaleigh::village
 allambres::village
 allangouassou::village
@@ -3360,30 +3304,31 @@ allaste::village
 allaston::village
 allatman::village
 allavaram::village
+allehol::village
 alleh-ye band-e qir::village
 alleh-ye hajj abdol ali::village
-allehol::village
-allen end::village
-allen's green::village
-allen::village
 allen:艾伦
 allendale::village
+allen end::village
+allen's green::village
 allensmore::village
+allen::village
 allenville::village
-aller grove::village
-aller::village
 allerford::village
+aller grove::village
 allergy:过敏
 allerton mauleverer::village
 allerton::village
+aller::village
 alley:巷
+all features:所有特征
 allgjatë::village
 allgreave::village
-alliance::village
 alliance:联盟
+alliance::village
 alligator:短吻鳄
-allika::village
 allikalahe::village
+allika::village
 allikjärve::village
 alliklepa::village
 allikmaa::village
@@ -3391,6 +3336,9 @@ allikotsa::village
 alliku::village
 allinagaram::village
 allipalle::village
+al-lisb::village
+allium kermesinum::plant
+all my life:我的一生
 alloli-kansoli::village
 allopregnane:别孕烷
 allot:分配
@@ -3402,66 +3350,127 @@ alltmawr::village
 alltwalis::village
 alltwen::village
 alltyblaca::village
-allu::village
 alluitsup paa::village
 allulu::village
 allunhari abdou::village
-allur::village
+al luqiyah::village
 allurigedda::village
 allurupadu::village
+allur::village
+allu::village
 alluwal::village
 ally:同盟
-alm juq::village
-alma-ye sofla::village
-alma::village
 almaan::village
 almachovan::village
 almadin::village
+al madiq::village
+al-madlaʽah::village
+al-madudah::village
 almagalan::village
+al maghal::village
+al mahal::village
+al mahattah::village
+al-mahfurah::village
+al mahjar::village
+al mahlaj::village
 almajeq::village
+al makhzan al fawqi::village
 almaki::village
 almala::village
-almalu::village
-almaluu::village
-almaly::village
-almalı::village
+al malbanah::village
+almāle::village
+al-malikiyah::village
+al mali::village
 almalıq::village
 almalıtala::village
+almalı::village
+almaluu::village
+almalu::village
+almaly::village
 almamellék::village
-alman lengeh::village
-alman-e qadim::village
-alman::village
 almanabad::village
+al'manbyuruk::village
 almaneh::village
-almara::village
+alman-e qadim::village
+alman lengeh::village
+alman::village
+al maqrah::village
+al marabi::village
 almaran::village
+almara::village
+al marqab::village
 almarza de cameros::village
-almas::village
 almasabad::village
+al-masajid::village
+al masarrah::village
+al masfalah::village
+almásfüzitő::village
 almasguda::village
+al mashayikh::village
+almásháza::village
+al-mashhad::village
 almasiani::village
+al-masilah::village
+almáskeresztúr::village
 almaskhan::village
+al-masrab::village
+al-masriyah::village
+al masrouhiya::village
+al-mastumah::village
+almas::village
+al-matariyyah::village
+al mathnah::village
+alma::village
+al-mawsaf::village
+al mayasam::village
+alma-ye sofla::village
 almaytū::village
-alme::village
+al-mazraah::village
+al-mazraa::village
+al mazrouah::village
 almejuq-e sofla::village
 almendricos::village
 almer::village
+alme::village
+al-mirad::village
+al-mishtaya::village
+al-mitras::village
+alm juq::village
 almkerk::village
-almond::village
 almonda::village
 almondbank::village
+almond::village
 almont::village
 almost:差点
 almoster::village
+al-mubarakah::village
+al mubarak::village
+al mudawwarah::village
+al mufrihat::village
+al-mukharram al-tahtani::village
+al-mukhtabi'ah::village
+al multasa::village
+al-munaqqab::village
+al mundassah::village
+al-muqaabarat::village
+al muqaraea::village
+al muqr::village
+al muraysiyah::village
 almur::village
-almásfüzitő::village
-almásháza::village
-almáskeresztúr::village
-almāle::village
+al musayjid::village
+al-mushannaf::village
+al-mushrifah::village
+al-muslimiyah::village
+al-mutaywil::village
+al muwayh::village
+al-nabi shayth::village
+al-naimah::village
 alnajan-e do::village
+al-naqirah::village
 alnaqiyah::village
 alnatham::village
 alne end::village
+alocasia heterophylla::plant
 aloe:芦荟
 alofitai::village
 alofivai::village
@@ -3471,94 +3480,151 @@ alona::village
 along:沿着
 alonia::village
 aloorang::village
-alor::village
+alören::village
 alore::village
 alori::village
 alorna::village
+alor::village
 aloum::village
 alov kandi::village
+al owaina::village
 alowal::village
 alowmayn::village
 alpaca:羊驼
 alpagut::village
+alpağut::village
 alparslan::village
 alpaslan::village
 alpavat::village
 alpavit::village
-alpağut::village
-alpha::village
 alphabet:字母
-alphen::village
+alpha::village
 alphenal:5-苯基-5-烯丙基巴比妥酸
 alphenal:苯烯比妥
+alphen::village
 alphut::village
+alpinia malaccensis::plant
+alpı::village
 alpordo::village
 alpout-udzhar::village
 alpout::village
-alprenolol:烯丙洛尔
 alprenolol:阿普洛尔
+alprenolol:烯丙洛尔
 alpu::village
-alpı::village
+al qadimah::village
+al-qadi::village
+al-qahira::village
+al-qahtaniya::village
+al qahtan::village
+al qa'im::village
 alqajar::village
+al qala::village
+al qanab::village
+al-qanaqiyah::village
+al-qarah::village
+al qararah::village
+al qarn::village
+al qaryat::village
 alqasabad::village
+al qashabah::village
+al-qastal::village
+al-qatn::village
+al-qawalish::village
+al-qawz::village
 alqchin-e olya::village
 alqchin-e sofla::village
 alqian::village
-alqu::village
+al qirshan::village
+al qufayf::village
+al quful::village
+al-qumrah::village
+al-quniyah::village
+al qurayb::village
+al-qurayn::village
+al qurayyah::village
 alqur::village
+al qushashiyah::village
+alqu::village
+al quwah::village
 alquyruq::village
+al-quzah::village
+al-rabiaa::village
+al-rafid::village
+al-rasif::village
+al-rawda::village
+al-rayyan::village
 already:已经
+al rehayya::village
 alrkph::village
 alsagers bank::village
+al sahla al shamaliya::village
+al-sahwah::village
+alsåker::village
+al sakhama::village
+al salamiya::village
+al samriya::village
+al-sankari::village
+al-sayyid::village
 alscheid::village
 alsey::village
+al shabhana::village
+al-sha'irah::village
 alshgb::village
+al-shibr::village
+al-shinyah::village
 alshus::village
+al-shuwayhid::village
 alsigarh::village
 alsip::village
 also:也
-alsop en le dale::village
-alsunde::village
-alsunga::village
-alsuyeh::village
-alswear::village
-alswede::village
-alsåker::village
 alsóberecki::village
 alsóbogát::village
 alsódobsza::village
 alsógagy::village
-alsónemesapáti::village
-alsónyék::village
+al sogara::village
 alsónána::village
 alsónémedi::village
+alsónemesapáti::village
+alsónyék::village
+alsóörs::village
+alsop en le dale::village
 alsórajk::village
 alsóregmec::village
+al sormeh::village
 alsószenterzsébet::village
 alsószentiván::village
 alsószentmárton::village
-alsószuha::village
 alsószölnök::village
+alsószuha::village
 alsótelekes::village
-alsóvadász::village
-alsóörs::village
 alsóújlak::village
-alt st. johann::village
+alsóvadász::village
+alsunde::village
+alsunga::village
+al suwaihliya::village
+alsuyeh::village
+alswear::village
+alswede::village
 altaic:阿尔泰语的
 altamirano::village
 altamont::village
-altan jalab::village
 altana::village
+altan jalab::village
+al tappeh::village
 altass::village
 altastenberg::village
 altatu::village
+al-tawani::village
 altena::village
 altenji::village
 altensalzkoth::village
 altenwalde::village
+alternanthera sessilis::plant
 alternative:二选一的
 alteveer::village
 altforst::village
+al-thabitiyah::village
+althaea armeniaca::plant
 altheak::village
 although:尽管
 alti aghaj-e bozorg::village
@@ -3566,27 +3632,6 @@ alti aghaj-e kuchak::village
 altin kosh::village
 altin tokhmaq::village
 altitude:海拔
-altja::village
-altküla::village
-altlinster::village
-altmäe::village
-alto ivon::village
-alto pass::village
-altofts::village
-alton::village
-altona::village
-altreu::village
-altrier::village
-altruism:利他主义
-altruist:利他主义者
-altruistic:利他的
-altsek (village)::village
-altsek::village
-altshof::village
-altun-e olya::village
-altun-e sofla::village
-altymysh::village
-altynemel::village
 altınca::village
 altındağ::village
 altınkaya::village
@@ -3597,31 +3642,56 @@ altınova::village
 altınpınar::village
 altıntaş::village
 altınuşağı::village
-alu hajju::village
-alu kalateh::village
-alu-metsküla::village
-alu::village
+altja::village
+altküla::village
+altlinster::village
+altmäe::village
+altofts::village
+alto ivon::village
+altona::village
+alton::village
+alto pass::village
+altreu::village
+altrier::village
+altruism:利他主义
+altruist:利他主义者
+altruistic:利他的
+altsek::village
+altsek (village)::village
+altshof::village
+alt st. johann::village
+al-tulay'i::village
+al-tulaysiyah::village
+altun-e olya::village
+altun-e sofla::village
+al-tuwayni::village
+altymysh::village
+altynemel::village
 aluak::village
 aluatu::village
 alubendiyaya::village
-aluch::village
+aluchehluy-e olya::village
+aluchehluy-e sofla::village
 alucheh malek::village
 alucheh qeshlaq::village
 alucheh-ye fuladlu::village
 alucheh-ye sabalan::village
-aluchehluy-e olya::village
-aluchehluy-e sofla::village
 aluchin::village
+aluch::village
 aludar::village
 aludeniya::village
 alugolla::village
+alu hajju::village
 alujenni::village
+alu kalateh::village
 alukandeh::village
+al ukhaydir::village
 alukian::village
 alulak::village
 alum:矾
-aluminium cyanide:氰化铝
+alu-metsküla::village
 aluminium:铝
+aluminium cyanide:氰化铝
 alumkadavu::village
 alumna:女校友
 alumnae:女校友
@@ -3630,96 +3700,96 @@ alumnus:男校友
 alumura::village
 alun abbasi::village
 alundur::village
-alunitdağ::village
 aluniș::village
+alunitdağ::village
 alupati::village
 alupere::village
 alupotawela::village
+alurak::village
 alur (k.m.)::village
 alur::village
-alurak::village
-alus::village
 alustan::village
-alut::village
+alus::village
 alutgama (7°19'n 80°31'e)::village
 alutgama (7°22'n 80°39'e)::village
 alutgama mahakumburegammedda::village
 alutgama::village
+al utouriya::village
+alut::village
 alutwewa::village
 aluvere::village
 aluvihare colony::village
+alu::village
 aluwihare::village
 aluyak::village
+al-'uyayna::village
 alvach::village
-alvan-e eshareh::village
-alvan-e moslem::village
-alvan::village
+alværn::village
 alvanaq::village
-alvand qoli::village
-alvand::village
 alvandabad::village
 alvandi::village
+alvand qoli::village
+alvand::village
+alvan-e eshareh::village
+alvan-e moslem::village
 alvaniyeh::village
 alvank::village
+alvan::village
+alvard::village
 alvar-e olya::village
 alvar-e sofla::village
-alvar::village
-alvard::village
 alvarlu::village
 alvars::village
+alvar::village
 alvatan::village
 alvdal::village
 alvear::village
 alveim::village
 alveley::village
-alver::village
 alverstraumen::village
 alversund::village
-alvi kola::village
+alver::village
 alvian::village
 alvijan::village
-alvin::village
+alvi kola::village
+al::village
 alvinehkar::village
-alvir::village
+alvin::village
 alvirabad::village
+alvir::village
 alvo::village
-alværn::village
 alwadi::village
+al wahadinah::village
+al waht::village
+al-waqf::village
+al wasili::village
+al-wasitah::village
 alwatta::village
 always:总是
 alweston::village
+al wuday::village
+al-wulayjat::village
+al-yaarubiyah::village
+al-yacoubiyah::village
+al-yadudah::village
+alyogyne huegelii::plant
+alysicarpus glumaceus::plant
 alysky aral::village
+al-zaafaraniyah::village
+al-zarah::village
+al zeghain::village
 alzin::village
-alàs::village
-alçalı::village
-alègan::village
-alören::village
-alıbəyli::village
-alıc::village
-alıcan::village
-alıcık::village
-alıkeyxalı::village
-alıncalı::village
-alıqulu::village
-alıç::village
-alıçlı::village
-am alsarajineh::village
-am altamir::village
-am dabs::village
-am dafok::village
-am ol deyay-e do::village
-am ol deyay-e yek::village
+al-zurzuriyah::village
 am:是
-ama khel::village
-ama::village
 amadaguntla::village
 amadagur::village
-amade::village
 amadegah shahid mohammad montazeri::village
+amade::village
 amadgah abyek::village
 amagaon::village
 amaithi::village
 amaiur-maya::village
+ama khel::village
 amalal::village
 amalazari::village
 amaleh seyf::village
@@ -3727,44 +3797,46 @@ amaleh-ye olya::village
 amaleh-ye sofla::village
 amaleh-ye teymur::village
 amalgamation:合并
+a. mallavaram::village
 amalsad::village
+am alsarajineh::village
+am altamir::village
 amalya::village
 amalzari::village
-aman gal tappeh::village
-aman kandi::village
-aman khujeh::village
-aman magan::village
-aman qarahjeh::village
 amanabad::village
 amanakkanthondi::village
 amanbaev::village
-amand::village
 amandara::village
 amandi::village
+amand::village
 amane::village
+aman gal tappeh::village
 amangeldi::village
 amani doddakere::village
-amani::village
 amanipur::village
+amani::village
 amaniyeh::village
+aman kandi::village
 amankənd::village
+aman khujeh::village
 amanli::village
+aman magan::village
+aman qarahjeh::village
 amanullapur::village
 amappoyil::village
-amar al-husn::village
-amar::village
-amara::village
 amaradakki::village
 amaragol::village
 amaragundhi::village
 amarakunthi::village
 amarale wadi::village
+amar al-husn::village
 amarapoondi::village
-amarapur::village
 amarapuram::village
+amarapur::village
 amarargar::village
 amarat::village
 amaravila::village
+amara::village
 amarduiyeh::village
 amargadh::village
 amargarh::village
@@ -3773,12 +3845,13 @@ amarghan-e sofla::village
 amarjitpur::village
 amarkanan::village
 amarnah::village
-amarpur dhana::village
-amarpur::village
 amarpura::village
+amarpur dhana::village
 amarpurkashi::village
+amarpur::village
 amarsar::village
 amarun::village
+amar::village
 amaryawa::village
 amashiyeh-ye do::village
 amashiyeh-ye yek::village
@@ -3788,13 +3861,12 @@ amateur:爱好者
 amatgyigon::village
 amatur::village
 amaut::village
+ama::village
 amawar::village
+a ma wat::village
 amayannoor::village
 amazon:亚马逊河
 amazonia::village
-amb::village
-amba mariam::village
-amba::village
 ambabai jhansi::village
 ambabbo::village
 ambadagatti::village
@@ -3812,24 +3884,26 @@ ambalakkadavu::village
 ambalapitiya::village
 ambalaseri::village
 ambalikoppa::village
-ambaliyadda (7°1'n 80°54'e)::village
 ambaliyadda (7°10'n 80°46'e)::village
+ambaliyadda (7°1'n 80°54'e)::village
+amba mariam::village
 ambana::village
 ambanella::village
 ambanwala::village
 ambaoruwa::village
 ambapur::village
-ambar::village
 ambara mathai::village
 ambara pachhim::village
 ambarcık::village
 ambarnagar::village
+ambar::village
 ambarwet::village
 ambasan::village
 ambassador:大使
 ambatalawa::village
 ambatenna::village
 ambavane::village
+amba::village
 ambawa::village
 ambawela::village
 ambedara::village
@@ -3860,6 +3934,9 @@ amboli::village
 ambraziūnai::village
 ambula::village
 ambush:伏击
+amb::village
+am dabs::village
+am dafok::village
 amdalaye::village
 amdjereme::village
 ameenapuram::village
@@ -3869,26 +3946,26 @@ amend:改进
 amera::village
 amereh::village
 amerghan-e tus::village
-ameri::village
 america:美国
 america:美洲
+american:美国人
 american author:美国作者
-american football player:橄榄球运动员
 american football:橄榄球
 american football:美式足球
+american football player:橄榄球运动员
 american lawyer:美国律师
 american rapper:美国说唱歌手
 american revolution:美国革命
 american revolutionary war:美国革命战争
+americans:美国人
 american scientist:美国科学家
 american singer:美国歌手
 american war of independence:美国独立战争
 american writer::美国作家
-american:美国人
-americans:美国人
 americium:镅
-ameriyeh-ye bala::village
+ameri::village
 ameriyeh::village
+ameriyeh-ye bala::village
 ameryczka::village
 ameryka::village
 ameshk::village
@@ -3902,66 +3979,32 @@ amguid::village
 amherst::village
 amian-kouassikro::village
 amiantos::village
-amid ali qasemi::village
 amidabad-e olya::village
 amidabad-e qazi::village
 amidabad-e sofla::village
 amidabad::village
+amid ali qasemi::village
 amide:酰胺
-amidi-ye kohneh::village
 amidiyeh-ye chah zar::village
+amidi-ye kohneh::village
 amildan::village
 amilo::village
+aminabada::village
 aminabad-e hayateh bozorg::village
 aminabad-e qaslan::village
 aminabad::village
-aminabada::village
 amine:胺
 amineh deh::village
 amingada::village
 aminlu::village
-amino acid:氨基酸
 amino:氨基的
+amino acid:氨基酸
 aminoacridine:氨基吖啶
 aminoethanol:氨基乙醇
 aminoquinoline:氨基喹啉
 aminpur::village
 aminwala::village
-amir aslan::village
-amir ayyub::village
-amir bekandeh::village
-amir beyg::village
-amir beyglu::village
-amir bostaq::village
-amir cheraghali::village
-amir deh::village
-amir dizaj::village
-amir emran::village
-amir gavabor::village
-amir ghayeb::village
-amir hajjilu::village
-amir hendeh::village
-amir kalayeh::village
-amir kandi::village
-amir khanlu::village
-amir kia sar::village
-amir kola::village
-amir nezam::village
-amir ol mowmenin::village
-amir ol omara::village
-amir rud::village
-amir salar-e olya::village
-amir salari::village
-amir seyf::village
-amir shahwala::village
-amir shirkhan::village
-amir zakaria::village
-amir-e olya::village
-amir-e sofla::village
-amir::village
 amirabad cham gaz::village
-amirabad haq nader::village
-amirabad kaftar::village
 amirabad, corrin::village
 amirabad-e ali nur::village
 amirabad-e amirqoli::village
@@ -3994,18 +4037,52 @@ amirabad-e sukhek::village
 amirabad-e talkhab::village
 amirabad-e vosta key mohammad khan::village
 amirabad-e yek::village
+amirabad haq nader::village
+amirabad kaftar::village
 amirabad::village
 amiran-e olya::village
 amiran-e sofla::village
 amiran::village
+amir aslan::village
+amir ayyub::village
+amir bekandeh::village
+amir beyglu::village
+amir beyg::village
+amir bostaq::village
+amir cheraghali::village
+amir deh::village
+amir dizaj::village
 amireh::village
-amiri-ye olya::village
-amiri-ye sofla::village
+amir emran::village
+amir-e olya::village
+amir-e sofla::village
+amir gavabor::village
+amir ghayeb::village
+amir hajjilu::village
+amir hendeh::village
 amiriti::village
 amiriyeh::village
+amiri-ye olya::village
+amiri-ye sofla::village
+amir kalayeh::village
+amir kandi::village
+amir khanlu::village
+amir kia sar::village
+amir kola::village
 amirlu::village
 amirnan::village
+amir nezam::village
+amir ol mowmenin::village
+amir ol omara::village
+amir rud::village
+amir salar-e olya::village
+amir salari::village
+amir seyf::village
 amirshahriyar::village
+amir shahwala::village
+amir shirkhan::village
+amir::village
+amir zakaria::village
 amisfield::village
 amisk::village
 amity::village
@@ -4016,16 +4093,15 @@ amjhira::village
 amlabe::village
 amlahah::village
 amlak-e galikash::village
-amlak::village
 amlaki::village
+amlak::village
 amlar::village
 amlatara::village
-amma::village
 ammachattiram::village
 ammadam::village
 ammaiyagaram::village
-ammaiyappan::village
 ammaiyappanallor::village
+ammaiyappan::village
 ammakandakara::village
 ammand::village
 ammangudi::village
@@ -4037,13 +4113,14 @@ ammari::village
 ammariyeh::village
 ammas::village
 ammathottam::village
+amma::village
 ammeh::village
 ammenabath::village
 amminabhavi::village
 amminbhavi::village
 ammirekala::village
-ammo nangal::village
 ammochori::village
+ammo nangal::village
 ammonia:氨
 ammonium:铵
 ammovouno::village
@@ -4051,6 +4128,8 @@ ammuta::village
 amnot::village
 amoi::village
 amoj::village
+am ol deyay-e do::village
+am ol deyay-e yek::village
 amoli::village
 amondi::village
 among:之间
@@ -4060,20 +4139,24 @@ amorgianoi::village
 amoriakro::village
 amorio::village
 amorous:情爱的
+amorphophallus atroviridis::plant
+amorphophallus sylvaticus::plant
 amorphous carbon:非结晶碳
 amorzidehabad::village
-amou::village
 amount:数量
+amou::village
 amowi::village
 ampapuram::village
 ampar::village
 ampasimaneva::village
 ampelakia::village
+ampelocissus latifolia::plant
 ampelokampos::village
 ampelu::village
 ampersand:&符号
 amphetamine:苯丙胺
 amphibian:两栖动物
+amphibious:两栖的
 amphibious aircraft:两栖飞机
 amphibious assault:两栖攻击
 amphibious corps:两栖部队
@@ -4082,33 +4165,32 @@ amphibious landing:两栖登陆
 amphibious operation:两栖行动
 amphibious reconnaissance:两栖侦察
 amphibious rifle:两栖步枪
-amphibious transport dochargeck:两栖运输坞舰
 amphibious transport:两栖运输
+amphibious transport dochargeck:两栖运输坞舰
 amphibious vehicle:两栖车辆
 amphibious warfare:两栖战争
-amphibious:两栖的
 ampitigoda::village
 amplitude:振幅
 ampugnano::village
 amputation:截肢
 amqan::village
 amrabad kalan::village
-amrabad, zahedan::village
 amrabad::village
+amrabad, zahedan::village
 amragachhia hogalpati::village
 amrahlu::village
 amrakits::village
 amrala::village
-amran::village
 amranga::village
-amrapar::village
+amran::village
 amrapara::village
+amrapar::village
 amravan::village
 amrduiyeh::village
 amreh sit::village
 amreh::village
-amrit::village
 amritpur::village
+amrit::village
 amrollah::village
 amrowleh::village
 amrudak::village
@@ -4121,18 +4203,19 @@ amrutvel::village
 amsel::village
 amshal::village
 amsil::village
+amsonia jonesii::plant
 amstelhoek::village
 amstenrade::village
 amsterdam:阿姆斯特丹
 amtala::village
-amu dizaj::village
-amu kandi::village
-amua::village
 amuakandi::village
+amua::village
 amudalachalaka::village
 amudalapalle::village
+amu dizaj::village
 amui::village
 amujan::village
+amu kandi::village
 amukhanzi-ye olya::village
 amukhanzi-ye sofla::village
 amula::village
@@ -4155,17 +4238,11 @@ amwa khas::village
 amygdalea::village
 amykles::village
 amzajerd::village
-an najamiyah::village
-an najil::village
-an nashsh::village
-an organism:一个生物
-an unknown date:一个未知的日期
 an:一个
-ana khatun::village
 anabay::village
 anaconda:蟒蛇
-anad::village
 anadinni::village
+anad::village
 anaerobic:厌氧的
 anagadi::village
 anagaire::village
@@ -4173,39 +4250,39 @@ anageia::village
 anagram:重组词
 anagrams:重组词
 anah hajji::village
-anai patti::village
 anaikkadu::village
 anaikudam::village
 anaikuppam::village
+anai patti::village
 anaivadapathi::village
 anaivari::village
 anajipuram::village
 anajpur::village
+ana khatun::village
 anakoderu::village
 anakpa::village
-anal sex:肛交
 anal:肛门的
 analade::village
 analiontas::village
-analog signal:模拟信号
 analog:模拟的
+analog signal:模拟信号
+anal sex:肛交
 analucheh::village
 analysis:分析
 analytic geometry:解析几何
 analyzer:分析器
-anam::village
 anamangad::village
 anamoq::village
-anan'yevo::village
-anand::village
-ananda nagar::village
+anam::village
 anandakati::village
+ananda nagar::village
 anandapur, bangladesh::village
 anandapur::village
 anandathandavapuram::village
 anandpur bhadla::village
 anandpur kalu::village
 anandpur::village
+anand::village
 ananguié::village
 ananjerd::village
 anantapur::village
@@ -4215,46 +4292,47 @@ anantharam::village
 ananthasagar::village
 ananthavaram::village
 anantpur::village
+anan'yevo::village
 anapur::village
 anaqiz::village
-anar din::village
-anar jar::village
-anar marz::village
-anar mehr::village
-anar rud borzog::village
-anar-e shirin-e seh::village
-anara::village
 anarak-e bala::village
 anarak-e barmeyun::village
 anarak-e olya::village
 anarak-e pain::village
 anarak-e sofla::village
-anarak::village
 anaraki::village
+anarak::village
 anaran::village
+anara::village
 anarchism:无政府主义
 anarchist:无政府主义者
 anarchy:无政府状态
 anardar-e bala::village
 anardar-e pain::village
-anarestan::village
+anar din::village
+anar-e shirin-e seh::village
 anarestanak::village
+anarestan::village
 anargyroi::village
-anari::village
 anarita::village
+anari::village
 anarjan::village
+anar jar::village
 anarkul::village
+anar marz::village
+anar mehr::village
 anarom::village
+anar rud borzog::village
 anarshirin::village
 anaru-ye yaieh::village
 anasagaram::village
-anatoli::village
 anatolia:安那托利亚
+anatoli::village
 anatomy:解剖学
 anatongre::village
 anauktaw::village
-anavi::village
 anavilis::village
+anavi::village
 anaviz::village
 anayeh::village
 anayit beyk::village
@@ -4266,66 +4344,66 @@ anbaq-e hajjikhan::village
 anbaq-e javad::village
 anbaq-e sorkhay::village
 anbaqin::village
+anbarabad::village
 anbar ab::village
+anbarak::village
+anbaran-e olya::village
+anbaran mahalleh::village
+anbara pesht::village
 anbar bozan::village
 anbar dan::village
-anbar qanbar::village
-anbar sar::village
-anbar sara::village
-anbar shahi::village
-anbar tappeh::village
+anbardan::village
+anbardeh::village
 anbar-e maran::village
 anbar-e olya::village
 anbar-e sofla::village
-anbar::village
-anbara pesht::village
-anbarabad::village
-anbarak::village
-anbaran mahalleh::village
-anbaran-e olya::village
-anbardan::village
-anbardeh::village
 anbarestan::village
 anbargah::village
 anbarkeh::village
 anbarlu::village
+anbar qanbar::village
+anbar sara::village
+anbar sar::village
 anbarsar::village
+anbar shahi::village
+anbar tappeh::village
 anbarteh-e sofla::village
 anbarteh::village
 anbarutak::village
+anbar::village
 anbastaq::village
-anbi::village
 anbil::village
+anbi::village
 anbolan sara::village
-anbu::village
 anbuh::village
+anbu::village
 ancaiano::village
 ancestor:祖先
 anchatgeri::village
 anchetty::village
+anchor:锚
 anchor corner::village
 anchor street::village
 anchor::village
-anchor:锚
 ancien bakani::village
+ancient:古代的
 ancient egypt:古埃及
 ancient greece:古希腊
 ancient greek:古希腊文
 ancient philosophy:古典哲学
 ancient rome:古罗马
-ancient:古代的
+ančipova::village
 ancroft northmoor::village
 ancrum::village
-and:与
 and:和
-anda::village
-andab-e jadid::village
-andab-e qadim::village
+and:与
 andabad-e olya::village
 andabad-e sofla::village
+andab-e jadid::village
+andab-e qadim::village
 andabil::village
-andad::village
 andadeh::village
+andad::village
 andagala::village
 andagoya::village
 andalan::village
@@ -4338,16 +4416,15 @@ andanoor::village
 andapura::village
 andaq::village
 andar ab::village
-andar char::village
-andar koli::village
-andar::village
-andara::village
 andarab::village
 andarak::village
+andara::village
 andarbag::village
+andar char::village
 andardari::village
 andarik::village
 andariyeh::village
+andar koli::village
 andarman::village
 andarpa::village
 andarsoy::village
@@ -4356,9 +4433,11 @@ andarud-e sofla::village
 andarun-e bid anjir::village
 andarvar::village
 andarvasht::village
+andar::village
 andaryan::village
 andarzi::village
 andau::village
+anda::village
 andawala::village
 andawela::village
 anday::village
@@ -4367,8 +4446,8 @@ andebu::village
 andeg::village
 andej::village
 andelst::village
-andera-ye olya::village
 anderat::village
+andera-ye olya::village
 anderen::village
 andergan::village
 anderson:安德森
@@ -4379,18 +4458,19 @@ andhale::village
 andhari::village
 andharthaul::village
 andharwara::village
-andi kola::village
-andi::village
 andideniya::village
 andikan::village
 andikayi::village
 andikkadu::village
+andi kola::village
 andikuli::village
-andin::village
 andineeme::village
+andin::village
 andirpar::village
 andis::village
+andi::village
 andizeh::village
+andıran::village
 andja::village
 andjide::village
 andocs::village
@@ -4405,21 +4485,21 @@ andover::village
 andrah kalan::village
 andrangi::village
 andranomiely sud::village
+andrásfa::village
 andreas::village
 andresito::village
-andrew::village
 andrew:安德鲁
+andrew::village
 andreyevka::village
 andriivka::village
-andriyevo-ivanove::village
 andriūnai::village
+andriyevo-ivanove::village
 android:机器人
 andromeda:仙女座
 andrusova::village
 andrușul de jos::village
 andrușul de sus::village
 andrzejówka::village
-andrásfa::village
 andselv::village
 andslimoen::village
 andsnes::village
@@ -4431,12 +4511,11 @@ anduqan::village
 andurubebila::village
 andwell::village
 andy:安迪
-andıran::village
 andželati::village
-ane::village
 aneguddi::village
 anegundi::village
 anegunta::village
+aneilema aequinoctiale::plant
 anei::village
 anekere::village
 anelema::village
@@ -4444,35 +4523,37 @@ anemia:贫血
 anemodouri::village
 anepesa::village
 anepuram::village
+ane::village
 angadi::village
 angakban::village
 angaman::village
 angammana::village
 angamoozhy::village
 anganur::village
-angar-e chaleh::village
 angara::village
+angar-e chaleh::village
 angareh::village
 angaria, patuakhali::village
 angariones::village
 angarrack::village
-angas::village
 angastina::village
+angas::village
 angat::village
+angazban::village
 angaz rustai shehidarhimi::village
 angaz::village
-angazban::village
 angeghakot::village
 angeh fam::village
-angeh::village
 angehrud::village
-angel voivoda (village)::village
+angeh::village
 angel:天使
 angelariy::village
 angelci::village
 angeles:杉矶
+angelica pubescens::plant
 angeli::village
 angelov::village
+angel voivoda (village)::village
 angeneh::village
 anger:愤怒
 angeren::village
@@ -4500,8 +4581,8 @@ anguilla:安圭拉
 angulesh::village
 angulvar::village
 angunawala::village
-angura muhammadpur::village
 angurabad::village
+angura muhammadpur::village
 anguran::village
 angurd::village
 anguri::village
@@ -4515,9 +4596,8 @@ anguzhan::village
 anhar-e olya::village
 anhar-e sofla::village
 anharibag::village
-anhe::village
 anheh::village
-ani-ye vosta::village
+anhe::village
 aniandide::village
 aniavan::village
 anickadu::village
@@ -4527,42 +4607,45 @@ anieliny::village
 anigandlapadu::village
 anigol::village
 anihar::village
-anija::village
 anijala::village
-anik::village
+anija::village
 anikatsi::village
 anikudichan (north)::village
 anikudichan (south)::village
-anima, togo::village
+anik::village
+animal:动物
 animal and plant:动物和植物
 animal fat:动物脂肪
 animal husbandry:畜牧业
 animal kingdom:动物界
 animal oil:动物油
 animal rights:动物权利
+animals:动物
 animal sacrifice:动物祭品
 animal shelter:动物庇护所
 animal species:动物物种
-animal:动物
-animals:动物
 animate:动画
 animation:动画
+anima, togo::village
 anime:日式动画
 animene tie::village
 anipemza::village
 aniq::village
 anise:茴芹
 aniseed:茴芹
+anisopoda::plant
 aniwa::village
+ani-ye vosta::village
 aniyyat::village
-anj pol::village
+anıl::village
+anıtlı::village
 anjab-e buzhan::village
 anjalin::village
 anjana::village
 anjandoh::village
 anjangaon bari::village
-anjani khurd::village
 anjanian::village
+anjani khurd::village
 anjanthali::village
 anjarak-e bala::village
 anjarak-e paeen::village
@@ -4575,59 +4658,60 @@ anjerak::village
 anjerd::village
 anjeshesh::village
 anjidan::village
-anjil nesam::village
-anjil si kabud tabar::village
-anjil-e boneh::village
-anjil-e si-ye yek::village
 anjilak::village
 anjilan::village
 anjilaq::village
 anjilavand-e olya::village
+anjil-e boneh::village
 anjileh::village
+anjil-e si-ye yek::village
+anjil nesam::village
+anjil si kabud tabar::village
 anjineh-ye ebrahim-e jonubi::village
 anjineh-ye ebrahim-e shomali::village
 anjineh-ye sofla::village
-anjir baghi::village
-anjir bazuiyeh::village
-anjir mehi::village
-anjir siah-e olya::village
-anjir siah::village
-anjir sikan-e bala::village
-anjir-e sefid::village
-anjir::village
 anjirak-e paeen::village
-anjirak::village
 anjiraki::village
+anjirak::village
 anjiran::village
 anjiravand::village
+anjir baghi::village
 anjirband::village
+anjir bazuiyeh::village
 anjirdan::village
 anjireban avareh ali::village
 anjirebus-e sofla::village
 anjireh vatisheh kand::village
+anjireh::village
 anjireh-ye gowkhast::village
 anjireh-ye pain::village
-anjireh::village
+anjir-e sefid::village
 anjirestan::village
 anjirisheh::village
 anjirli::village
 anjirlu::village
+anjir mehi::village
+anjir siah-e olya::village
+anjir siah::village
+anjir sikan-e bala::village
 anjiruk::village
+anjir::village
 anjoman-e olya::village
 anjoman-e sofla::village
 anjomeh::village
 anjomneh::village
-anju::village
+anj pol::village
 anjudan::village
 anjukottai::village
 anjukunnu::village
 anjul::village
 anjuman-i-khurd::village
 anjur::village
+anju::village
 anjyyan::village
 ankaase::village
-ankala::village
 ankalagi::village
+ankala::village
 ankale::village
 ankalgudiketra::village
 ankande colony::village
@@ -4648,14 +4732,15 @@ anlay::village
 anloo::village
 anmod::village
 anmore::village
-anna deh::village
-anna jacobapolder::village
-anna::village
 annabestan::village
 annablu::village
-annada::village
 annadanapuram::village
+annada::village
+anna deh::village
 annagassan::village
+anna jacobapolder::village
+an najamiyah::village
+an najil::village
 annakara::village
 annalagraharam::village
 annamanada::village
@@ -4666,19 +4751,21 @@ annandale::village
 annappanpettai::village
 annaram::village
 annasagar::village
+an nashsh::village
 annassery::village
 annauir::village
 annavaram::village
 annavasal::village
+anna::village
 annavölgy::village
 annbank::village
-anne::village
-annen::village
 annenheim::village
 annenieki::village
+annen::village
 annerveenschekanaal::village
 annesley woodhouse::village
 annete::village
+anne::village
 annex:吞并
 annfield plain::village
 annihilation:湮灭
@@ -4687,72 +4774,72 @@ annikvere::village
 annimangalam::village
 anniversary:周年纪念日
 anniyur::village
-anno::village
 annobór-kolonia::village
 annotation:注解
 announce:宣告
+anno::village
 annowo::village
 annual meeting:年会
 ano achaia::village
-ano kalliniki::village
-ano kastritsi::village
-ano kleines::village
-ano ydroussa::village
 anode:正极
 anogyra::village
+ano kalliniki::village
+ano kastritsi::village
 anoka::village
 anokharwal::village
+ano kleines::village
 anona::village
 anonymous:匿名的
 anonymously:匿名地
 anooshiravan, zahedan::village
+an organism:一个生物
 anos::village
-another way:另一个方法
 another:另一个
+another way:另一个方法
 anovi::village
+ano ydroussa::village
 anqolab-e do::village
 anqolab-e yek::village
 anqorah::village
 anqua::village
 ansainiai::village
 ansalonga::village
-ansar ol emam::village
-ansar::village
 ansari mahalleh::village
+ansar ol emam::village
 ansarud::village
+ansar::village
 anse josep::village
 anseküla::village
 anselmo::village
 ansembourg::village
 ansen::village
-ansi::village
 ansing::village
+ansi::village
 ansley::village
 anslow gate::village
 ansnes::village
 ansodar::village
 ansty cross::village
 ansty::village
-answer my question:回答我的问题
-answer:回答
 answer:答案
-ant::village
+answer:回答
+answer my question:回答我的问题
 ant:蚂蚁
 antahiya::village
 antaliya::village
 antalla::village
-antana::village
 antanava::village
-antar kandi::village
+antana::village
 antarak::village
 antaramej::village
 antarashat::village
 antarashen::village
 antarctica:南极洲
+antar kandi::village
 antartiko::village
 antarut::village
-antarvedi::village
 antarvedipalem::village
+antarvedi::village
 antecume pata::village
 antelope mine::village
 antezana de la ribera::village
@@ -4766,7 +4853,7 @@ anthotopos::village
 anthousa::village
 anthropological:人类学的
 anthropology:人类学
-anti naugawan::village
+anthurium magnificum::plant
 anti:反对者
 antialiasing:反锯齿
 antibiotic:抗生素
@@ -4781,23 +4868,24 @@ antikalamos::village
 antilova::village
 antimony:锑
 antimovo::village
+anti naugawan::village
 antioch::village
 antiparticle:反粒子
 antipino::village
-antique:做旧
 antique:古董
 antique:文物
 antique:文物的
+antique:做旧
 antiques:文物
 antkalnis::village
 antofagasta de la sierra::village
 antolin::village
-anton::village
-antoneuca::village
 antoneşti::village
+antoneuca::village
 antoniewo::village
 antonin::village
 antoniów::village
+anton::village
 antony:安东尼
 antonym:反义词
 antonyms:反义词
@@ -4809,29 +4897,32 @@ antroli::village
 antsampanana::village
 antsu::village
 antušava::village
+ant::village
+añua::village
 anubroluvaripalem::village
 anuch::village
 anudi::village
+anuja::village
 anuj-e olya::village
 anuj-e sofla::village
-anuja::village
 anul::village
 anumanallur::village
 anumantharayan kottai::village
 anumasamudrampeta::village
 anumepalli::village
 anumula::village
-anura::village
+an unknown date:一个未知的日期
 anurag, bangladesh::village
-anush mahalleh-ye jow kandan::village
-anush mahalleh::village
+anura::village
 anushavan::village
 anushirvan::village
+anush mahalleh::village
+anush mahalleh-ye jow kandan::village
 anusin::village
 anveh::village
 anviq::village
-anwal::village
 anwala::village
+anwal::village
 anwarpur::village
 anwia-nkwanta::village
 anwir::village
@@ -4841,33 +4932,33 @@ anyam efa::village
 anyanui::village
 anykh-kishlag::village
 anyone:任何人
+anyós::village
 anything:任何事
 anyway:无论如何
-anyós::village
 anzab-e olya::village
 anzab-e sofla::village
 anzal::village
 anzan::village
 anzar::village
 anzeha::village
-ančipova::village
-anıl::village
-anıtlı::village
 anžići::village
 ao barik::village
-ao::village
 aonbaw::village
 aopo::village
 aorabania::village
 aoung bok::village
 aovere::village
+ao::village
+apácatorna::village
 apadhup::village
 apaj::village
 apaki::village
 apandiku::village
 aparekka::village
 aparhant::village
+apátistvánfalva::village
 apati::village
+apátvarasd::village
 apaven::village
 apc::village
 ape:猿
@@ -4880,7 +4971,10 @@ apex predator:顶端捕食者
 apgulde::village
 aphasia:失语症
 apideonas::village
+a pint of water:一品脫水
 apirubiai::village
+a pitcher of water:一罐水
+apium prostratum::plant
 apkachushan::village
 apley forge::village
 apnagyugh::village
@@ -4888,9 +4982,11 @@ apoidea:蜂
 apollo:阿波罗
 apollonia::village
 apology:道歉
+a pool of water:一池水
 apostasy:信仰背弃
 apostolias::village
 apoteri::village
+apowollastonia stirlingii::plant
 appachiwadi::village
 appalakunta::village
 appalavandla palli::village
@@ -4920,10 +5016,10 @@ applethwaite::village
 appleton thorn::village
 appleton::village
 appletreehall::village
-application wide:应用程序范围
 application:应用
 application:应用程序
 applications:应用
+application wide:应用程序范围
 apply:应用
 appoisso::village
 appouesso::village
@@ -4940,51 +5036,149 @@ aprompronou::village
 apsalos::village
 apshinge::village
 apsiou::village
+apšupe::village
 apti budruk::village
 apti khurd::village
 apytalaukis::village
-apácatorna::village
-apátistvánfalva::village
-apátvarasd::village
-apšupe::village
+aqa alilu::village
+aqa ali penah::village
+aqa ali sara::village
+aqa baba sank::village
+aqa baba shiravand::village
+aqa baba::village
+aqa baba-ye faramarzi::village
+aqabad::village
+aqa bagi::village
+aqa baqer::village
+aqa berar::village
+aqa beyglu::village
+aqa beyk::village
+aqa bil-e olya::village
+aqa bil-e sofla::village
+aqa bolaghi::village
+aqa bozorg::village
+aqa choqlu::village
+aqa esmail::village
+aqagir::village
+aqa gol::village
+aqa hasan beyglu::village
+aqai::village
+aqa jakandi::village
+aqa jan bolaghi::village
+aqajan-e tavakkol::village
+aqajan kandi::village
+aqajan mahalleh::village
+aqajan::village
+aqa jari::village
+aqa jeri::village
+aqajeri::village
+aqaj::village
+aqa kandi::village
+aqa mahalleh::village
+aqa mahalleh-ye bahambar::village
+aqa mir ahmad::village
+aqamir kandi::village
+aqa mirlu::village
+aqamirlu::village
+aqa mohammadabad::village
+aqa mohammad::village
+aqa molk::village
+aqa moqim mahalleh::village
+aqa morad::village
+aqanj::village
+aqa nur-e sehtan::village
+aqan::village
+aqa qoli::village
+aqar-e olya::village
+aqar-e sofla::village
+aqaseyyed yaqub::village
+aqatla::village
+aqa vali::village
+aqa yarlu::village
+aqazadeh::village
+aqa ziarat::village
 aq bagh::village
+aqbal::village
+aqbalyq::village
 aq band::village
 aq bash::village
 aq bolagh-e aqajan khan::village
 aq bolagh-e aqdaq::village
+aqbolagh-e bahman::village
 aq bolagh-e chang almas::village
+aqbolagh-e hasanabad::village
+aqbolagh-e humeh::village
 aq bolagh-e latgah::village
 aq bolagh-e meydan::village
 aq bolagh-e mohammad vali::village
 aq bolagh-e morshed::village
 aq bolagh-e olya::village
 aq bolagh-e rostam khani::village
+aqbolagh-e sadat::village
 aq bolagh-e sofla::village
 aq bolagh::village
+aqbolagh::village
 aq bolaq-e mohammad hoseyn khan::village
 aq bulagh::village
 aq burhan::village
 aq chali-ye sofla::village
+aqchari::village
 aq chatal::village
+aqchay-e olya::village
+aqchay-e sofla::village
+aqchay-e vosta::village
 aq chay::village
+aqcheh aqashli::village
+aqcheh gonbad::village
+aqcheh kahriz::village
+aqcheh kand::village
+aqcheh kharabeh::village
+aqchehlu::village
+aqcheh mazar::village
+aqcheh owbeh::village
+aqcheh pireh::village
+aqcheh qaleh::village
+aqcheli-ye olya::village
+aqcheli-ye qerkhlar::village
+aqchelu::village
 aq cheshmeh::village
 aq dagesh-e olya::village
 aq dagh-e olya::village
+aqdala::village
+aqdaraq-e jadid::village
+aqdaraq-e qadim::village
 aq daraq::village
 aq darreh::village
+aqdarreh-ye olya::village
+aqdarreh-ye sofla::village
+aqdarreh-ye vosta::village
+aqdash-e sofla::village
 aq dash::village
+aqdash::village
+aqdasiyeh::village
 aq divar::village
 aq duz::village
+aqduz::village
+aqech::village
+aqeh kheyl::village
+aqel::village
 aq emam::village
 aq gonbaz::village
 aq guni::village
+aqilabad::village
+aqir zayti::village
 aq jalu::village
+aqjeh qaleh::village
+aqjeh qeshlaq::village
 aq kahriz::village
 aq kamar-e olya::village
 aq kamar-e sofla::village
 aq kand-e baruq::village
 aq kand::village
+aqkand::village
 aq kariz::village
+aqkol::village
+aqlar::village
 aq mahdi::village
 aq manar::village
 aq mashhad-e kamar kheyl::village
@@ -5001,232 +5195,107 @@ aq qasemlu::village
 aq qayah::village
 aq qayeh::village
 aq qui::village
+aqraba::village
+aqrabiyah::village
+aqrablu::village
+aqshi::village
 aq sin tappeh::village
+aqsu::village
+aqtam::village
 aq tappeh::village
 aq taqeh-ye jadid::village
 aq taqeh-ye qadim::village
 aq tekeh khan::village
 aq toqeh::village
+aquatic:水生的
+aquatic animal:水生动物
 aq yaji::village
 aq zabir::village
-aq ziarat::village
-aqa ali penah::village
-aqa ali sara::village
-aqa alilu::village
-aqa baba sank::village
-aqa baba shiravand::village
-aqa baba-ye faramarzi::village
-aqa baba::village
-aqa bagi::village
-aqa baqer::village
-aqa berar::village
-aqa beyglu::village
-aqa beyk::village
-aqa bil-e olya::village
-aqa bil-e sofla::village
-aqa bolaghi::village
-aqa bozorg::village
-aqa choqlu::village
-aqa esmail::village
-aqa gol::village
-aqa hasan beyglu::village
-aqa jakandi::village
-aqa jan bolaghi::village
-aqa jari::village
-aqa jeri::village
-aqa kandi::village
-aqa mahalleh-ye bahambar::village
-aqa mahalleh::village
-aqa mir ahmad::village
-aqa mirlu::village
-aqa mohammad::village
-aqa mohammadabad::village
-aqa molk::village
-aqa moqim mahalleh::village
-aqa morad::village
-aqa nur-e sehtan::village
-aqa qoli::village
-aqa vali::village
-aqa yarlu::village
-aqa ziarat::village
-aqabad::village
-aqagir::village
-aqai::village
-aqaj::village
-aqajan kandi::village
-aqajan mahalleh::village
-aqajan-e tavakkol::village
-aqajan::village
-aqajeri::village
-aqamir kandi::village
-aqamirlu::village
-aqan::village
-aqanj::village
-aqar-e olya::village
-aqar-e sofla::village
-aqaseyyed yaqub::village
-aqatla::village
-aqazadeh::village
-aqbal::village
-aqbalyq::village
-aqbolagh-e bahman::village
-aqbolagh-e hasanabad::village
-aqbolagh-e humeh::village
-aqbolagh-e sadat::village
-aqbolagh::village
-aqchari::village
-aqchay-e olya::village
-aqchay-e sofla::village
-aqchay-e vosta::village
-aqcheh aqashli::village
-aqcheh gonbad::village
-aqcheh kahriz::village
-aqcheh kand::village
-aqcheh kharabeh::village
-aqcheh mazar::village
-aqcheh owbeh::village
-aqcheh pireh::village
-aqcheh qaleh::village
-aqchehlu::village
-aqcheli-ye olya::village
-aqcheli-ye qerkhlar::village
-aqchelu::village
-aqdala::village
-aqdaraq-e jadid::village
-aqdaraq-e qadim::village
-aqdarreh-ye olya::village
-aqdarreh-ye sofla::village
-aqdarreh-ye vosta::village
-aqdash-e sofla::village
-aqdash::village
-aqdasiyeh::village
-aqduz::village
-aqech::village
-aqeh kheyl::village
-aqel::village
-aqilabad::village
-aqir zayti::village
-aqjeh qaleh::village
-aqjeh qeshlaq::village
-aqkand::village
-aqkol::village
-aqlar::village
-aqraba::village
-aqrabiyah::village
-aqrablu::village
-aqshi::village
-aqsu::village
-aqtam::village
-aquatic animal:水生动物
-aquatic:水生的
 aqzhar::village
+aq ziarat::village
 aqzuj::village
-ar rabwah as sufla::village
-ar rabwah::village
-ar rafah::village
-ar rajma::village
-ar rakiyat::village
-ar ramlah::village
-ar rawdah ash shamaliyah::village
-ar rawdah::village
-ar rawuk::village
-ar rawwa::village
-ar rayyan::village
-ar ribat::village
-ar ridah ash sharqiyiah::village
-ar rihib::village
-ar riyan::village
-ar rubah::village
-ar rudaymah::village
-ar rujaydah::village
-ar rukayb::village
-ar rukubah::village
-ara qaleh::village
-ara qui::village
-ara-köl::village
-ara::village
+arababad::village
 arab abdi::village
 arab ali::village
-arab asad::village
-arab azzah::village
-arab buran::village
-arab chegini::village
-arab dizaji::village
-arab hasan::village
-arab hassan kabir::village
-arab kahriz::village
-arab kheyl::village
-arab laleh gun::village
-arab lang::village
-arab mahalleh::village
-arab qarri hajji::village
-arab rashed::village
-arab sorang::village
-arab ughluy-e olya::village
-arab ughluy-e sofla::village
-arab zehi::village
-arab-e gavmishi::village
-arab::village
-arababad::village
 arabal::village
 araban::village
+arab asad::village
+arab azzah::village
 arabbabirkhanly::village
 arabbazarly::village
+arab buran::village
+arab chegini::village
 arabcheh::village
+arab dizaji::village
 arabdzhabirli vtoroye::village
+arab-e gavmishi::village
 arabeh galleh::village
 arabella::village
+arab hasan::village
+arab hassan kabir::village
 arabhavi-dhavalatti::village
-arabi::village
 arabic:阿拉伯的
 arabic:阿拉伯语
+arabi::village
+arab kahriz::village
+arab kheyl::village
 arabkishlak::village
+arab laleh gun::village
+arab lang::village
 arablu kandi::village
 arablu::village
 arabluy-e bisheh::village
 arabluy-e darreh::village
 arabluy-e yekan::village
-arabshah khan::village
+arab mahalleh::village
+arab qarri hajji::village
+arab rashed::village
 arabshah-e daraq::village
 arabshah-e khargushan::village
+arabshah khan::village
 arabshah::village
+arab sorang::village
+arab ughluy-e olya::village
+arab ughluy-e sofla::village
 arabuyeh::village
+arab::village
 arabygdi::village
+arab zehi::village
 arachania::village
 arackappady::village
-arad::village
-aradan::village
 aradanga::village
+aradan::village
 araden::village
 aradgaon::village
 aradka::village
+arad::village
 arafat::village
-arag khan malek::village
 aragalur::village
 aragam::village
-aragats::village
 aragatsavan::village
 aragatsotn::village
+aragats::village
+arag khan malek::village
 aragyugh::village
-arah jagir::village
 arahatti::village
+arah jagir::village
 arahuay::village
-araia::village
 araianwala::village
 araianwali::village
+araia::village
 araidron::village
-araj huma::village
 arajadzor::village
+araj huma::village
 araji hasanpur::village
 araji line::village
-arak::village
 arakapas::village
 arakkuparamba::village
-araks::village
-araksavan::village
-arakul::village
+ara-köl::village
 araköy::village
-aral::village
+araksavan::village
+araks::village
+arakul::village
+arak::village
 aralan::village
 aralasurali::village
 aralez::village
@@ -5234,24 +5303,24 @@ aralihatti::village
 aralihonda::village
 aralikatti::village
 aralimatti::village
+aralık::village
 aralluy-e bozorg::village
 aralluy-e kuchek::village
-aralık::village
-aram nerow-e bala::village
-aram nerow-e pain::village
-aram::village
-aramba::village
+aral::village
 arambagama::village
 arambakkam::village
+aramba::village
 arambegama::village
 arambooyeh::village
-aramu::village
+aram nerow-e bala::village
+aram nerow-e pain::village
 aramus::village
-aran::village
+aramu::village
+aram::village
 aranchi::village
-arand::village
 arandan::village
 arandi::village
+arand::village
 arangadi::village
 arangeh::village
 arangi::village
@@ -5264,25 +5333,27 @@ aranlah::village
 aranmanai siruvayal::village
 aranpitiya::village
 arans::village
+aran::village
 aranyosapáti::village
 arapaj::village
 arapakkam::village
 arapdede::village
 arapi::village
-arapovac::village
 arapovača::village
+arapovac::village
 arapuša::village
+ara qaleh::village
 araqi::village
 araqiyeh::village
+ara qui::village
 ararat::village
 ararki::village
-aras::village
 arasada::village
 arasadzykh::village
-arasan::village
 arasangudy::village
 arasanj-e jadid::village
 arasanj-e qadim::village
+arasan::village
 arasavanangadu::village
 arase::village
 arashan::village
@@ -5293,24 +5364,26 @@ araskonay-e olya::village
 araskonay-e sofla::village
 araste::village
 arastu::village
-arat bon::village
+aras::village
 aratal::village
+arat bon::village
 arateh dasht::village
 arathwada::village
 aratlakatta::village
 arattana (7°13'n 80°34'e)::village
 arattana (7°22'n 80°43'e)::village
-arava::village
 aravalli::village
 aravampatti::village
 aravatagi::village
+arava::village
 araveedu::village
 aravenu::village
 aravere::village
+ara::village
 aravissos::village
-aravu::village
-aravus::village
 aravuse::village
+aravus::village
+aravu::village
 arawalli::village
 arawwawala::village
 arayankavu::village
@@ -5318,52 +5391,52 @@ arayez::village
 arayi::village
 arayyez-e ahmadi::village
 araz ali sheykh::village
-araz gol::village
-araz mohammad akhund::village
-araz taqan::village
 arazand::village
 arazeh::village
+araz gol::village
 arazi ashayir kurki::village
 arazi gobindapur::village
 arazi kalikapur::village
 arazi masnali::village
 arazi tari::village
-arazi-ye qaleh now::village
 arazi::village
-arb gardan::village
-arba sar::village
-arba va akhmas::village
-arbab kandi::village
-arbab::village
+arazi-ye qaleh now::village
+araz mohammad akhund::village
+araz taqan::village
+arbabi::village
 arbabi-ye olya::village
 arbabi-ye sofla::village
-arbabi::village
+arbab kandi::village
+arbab::village
 arbanasce::village
 arbanasi::village
-arbanus::village
 arbanë::village
+arbanus::village
+arba sar::village
 arbastan::village
+arbatan::village
 arbat darreh::village
 arbat-e olya::village
 arbat-e sofla::village
 arbat::village
-arbatan::village
+arba va akhmas::village
 arbavere::village
 arbeca::village
 arbedian::village
 arbeh langeh::village
 arbela::village
+arb gardan::village
 arbihat::village
 arbirlot::village
 arbitrary:任意的
 arbnež::village
-arbo::village
 arbonga::village
 arboshiki::village
+arbo::village
+arbúcies::village
 arbu kolayeh::village
 arbu langeh::village
 arbu sara::village
-arbúcies::village
 arcade::village
 arcadia::village
 arcen::village
@@ -5375,30 +5448,29 @@ archaeologist:考古学家
 archaeology:考古学
 archaeon:古菌
 archaeopteryx:始祖鸟
-archang::village
 archangan::village
+archang::village
 archar::village
-archi::village
 archib::village
 archis::village
 archita::village
 architect:建筑师
-architecture:建筑学
 architecture:架构
+architecture:建筑学
 archive:档案
 archived:已归档的
+archi::village
 archman::village
 arcille::village
 arciszewo::village
 arclid green::village
 arcola::village
-arctic circle:北极圈
 arctic:北极
+arctic circle:北极圈
+arctotheca calendula::plant
+arctotheca prostrata::plant
 arcturus::village
 arcugi::village
-ard ar raydah::village
-ard kola::village
-arda::village
 ardabilak::village
 ardabilaq::village
 ardafeh::village
@@ -5406,19 +5478,21 @@ ardagh::village
 ardaheh::village
 ardajan::village
 ardajin::village
-ardak::village
 ardakan::village
 ardakul::village
-ardal::village
+ardak::village
 ardalan::village
 ardali::village
+ardal::village
 ardameh::village
 ardameri::village
 ardana::village
 ardani::village
 ardanj::village
-ardeh::village
+ard ar raydah::village
+arda::village
 ardeha::village
+ardeh::village
 ardelve::village
 ardencroft::village
 ardenis::village
@@ -5426,24 +5500,30 @@ ardentallen::village
 ardentown::village
 arderancheh::village
 ardery::village
-ardeshir mahalleh::village
-ardeshir::village
 ardeshiri-ye bala::village
 ardeshiri-ye sofla::village
 ardeshiri-ye vosta::village
+ardeshir mahalleh::village
+ardeshir::village
 ardesi::village
 ardesman::village
 ardfern::village
 ardfert::village
 ardhaveedu::village
 ardhin::village
-ardi::village
 ardian::village
 ardifuir::village
-ardin::village
 ardineh::village
+ardin::village
+ardi::village
 ardiz-e olya::village
 ardiz::village
+ardıçdibi::village
+ardıçkaya::village
+ardıçlı::village
+ardıç::village
+ardınçpınarı::village
+ard kola::village
 ardla::village
 ardmair::village
 ardnacrusha::village
@@ -5456,17 +5536,10 @@ ardullie::village
 arduşlu::village
 ardvi::village
 ardwell::village
-ardınçpınarı::village
-ardıç::village
-ardıçdibi::village
-ardıçkaya::village
-ardıçlı::village
-are you sure:你确定吗
-are you telling me that:你要告诉我
 are:是
 area:地区
-area:面积
 area:领域
+area:面积
 arebasankoppa::village
 aredda::village
 aredo::village
@@ -5478,11 +5551,12 @@ areh jan::village
 areklu::village
 arekurahatti::village
 aremallapur::village
-aren-e sofla::village
+arena:竞技场
+arena flowers::plant
 arena metato::village
 arena::village
-arena:竞技场
 arend::village
+aren-e sofla::village
 arengan::village
 arenjan::village
 arenshausen::village
@@ -5503,49 +5577,59 @@ arevik::village
 arevis::village
 arevshat::village
 arevut::village
-arezumand::village
+are you sure:你确定吗
+are you telling me that:你要告诉我
 arezumandeh::village
+arezumand::village
 arfa deh::village
 arfanabad::village
 arfiane el bared::village
 arford::village
-arg-e now juy::village
-arg-e qalandar::village
-arg::village
-arga::village
 argaka::village
 argaki::village
 argali::village
 argandoña::village
 argavand::village
 argavary::village
-argel::village
+arga::village
 argelaguer::village
+argel::village
 argeneh-ye olya::village
 argeneh-ye sofla::village
+arg-e now juy::village
 argenta::village
 argentina:阿根廷
 argentine:阿根廷
 argentinian:阿根廷人
+arg-e qalandar::village
 arges-e olya::village
 arges-e sofla::village
-argha::village
 arghavan::village
-arghesh::village
+argha::village
 argheshabad::village
-argi::village
-argin::village
+arghesh::village
 argina::village
+argin::village
 argir::village
+argi::village
 argoed::village
 argomaniz::village
 argon:氩
+argophyllum cryptophlebum::plant
+argophyllum curtum::plant
+argophyllum ferrugineum::plant
+argophyllum heterodontum::plant
+argophyllum iridescens::plant
+argophyllum lejourdanii::plant
+argophyllum loxotrichum::plant
+argophyllum palumense::plant
 argud::village
 argue:争论
 argul::village
 argument:参数
 argun::village
 argupurkala::village
+arg::village
 argyle::village
 argyra::village
 argyro pigadi::village
@@ -5553,7 +5637,6 @@ argyroupoli::village
 arhal::village
 arhan::village
 arhedi::village
-ari::village
 arianiello::village
 ariany::village
 aribenchi::village
@@ -5568,14 +5651,16 @@ arij::village
 arikan::village
 arikathota::village
 arikesavanallur::village
-arim::village
 arimjan::village
-arin::village
+arim::village
+aríñez::village
 arino::village
 arinsal::village
+arin::village
 arionești::village
 aripra::village
 ariqah::village
+arisaema erubescens::plant
 arisaig::village
 arish::village
 arisman::village
@@ -5584,9 +5669,10 @@ aristavėlė::village
 ariste::village
 aristotle:亚里士多德
 arisvere::village
-arit::village
-arithmetic logic unit:算术逻辑单元
 arithmetic:算术
+arithmetic logic unit:算术逻辑单元
+arit::village
+ari::village
 ariyanipatti::village
 ariyapadaiveedu::village
 ariyathur::village
@@ -5594,6 +5680,17 @@ ariyur::village
 arizabad::village
 arizal::village
 arizona:亚利桑那州
+arıca::village
+arıkaya::village
+arıklı::village
+arıköy::village
+arıkuyusu::village
+arılı::village
+arısu::village
+arış::village
+arıt::village
+arızlar::village
+arız::village
 arjak::village
 arjal::village
 arjanak::village
@@ -5608,32 +5705,31 @@ arjin::village
 arjomandiyeh::village
 arjoun::village
 arjrud::village
-arju::village
-arjun::village
 arjunagi::village
 arjunali::village
 arjunamau::village
 arjunkhedi::village
 arjunnagar::village
 arjunpur::village
+arjun::village
 arjunwad::village
 arjut kayaranin kits::village
+arju::village
 arjuyeh::village
-ark::village
-arka::village
 arkabay::village
-arkan::village
 arkansas:阿肯色州
+arkan::village
 arkauti::village
+arka::village
 arkavin::village
 arkera::village
-arkh-e bozorg::village
-arkh-e kuchek::village
 arkhashan::village
 arkhazlu::village
+arkh-e bozorg::village
+arkh-e kuchek::village
 arkhud::village
-arki::village
 arkin::village
+arki::village
 arkleby::village
 arkma::village
 arkna::village
@@ -5642,45 +5738,46 @@ arkoli::village
 arkowyen::village
 arksey::village
 arkut::village
+ark::village
 arkwright town::village
 arkwright::village
 arkyt::village
 arla::village
 arlebrook::village
 arlecdon::village
-arles::village
 arlescote::village
+arles::village
 arli bhan::village
 arlington::village
 arllat::village
 arloff::village
-arluzea::village
 arló::village
-armada::village
+arluzea::village
 armada:舰队
+armada::village
+armağan::village
 armaiolo::village
-armak::village
 armaki::village
+armak::village
 armalok::village
 armanak-e olya::village
 armanak-e sofla::village
 armand-e sofla::village
+armanian::village
 armani bolaghi::village
 armani jan::village
-armanian::village
 armarmshahadlu::village
 armash::village
 armathwaite::village
 armavir::village
-armağan::village
 armedlu-ye sofla::village
 armenatkyshlak::village
 armenavan::village
-armenia::village
 armenia:亚美尼亚
-armenian:亚美尼亚人
 armenian:亚美尼亚的
+armenian:亚美尼亚人
 armenian:亚美尼亚语
+armenia::village
 armenite::village
 armenochori::village
 armiabad::village
@@ -5695,21 +5792,21 @@ armota::village
 armou::village
 armsdale::village
 armshead::village
-armu::village
-armud aqachi::village
 armudaghaj::village
+armud aqachi::village
 armudaq::village
 armudlu::village
 armudly::village
-armut::village
 armutalan::village
-armutlu::village
-armutluk::village
-armutveren::village
 armutçuk::village
-army group:集团军
+armutluk::village
+armutlu::village
+armutveren::village
+armut::village
+armu::village
 army:军队
 army:陆军
+army group:集团军
 arnaby::village
 arnaccio::village
 arnadi::village
@@ -5723,11 +5820,11 @@ arnesa::village
 arneva::village
 arniston::village
 arnokhun::village
-arnold::village
 arnoldsweiler::village
-arnsbach::village
+arnold::village
 arnót::village
 arnøyhamn::village
+arnsbach::village
 aroghjaranin kits::village
 arolla::village
 aronda::village
@@ -5735,25 +5832,25 @@ arong::village
 around:环绕
 arowry::village
 arpa chai::village
-arpa darreh::village
-arpa darrehsi::village
-arpa tappehsi::village
-arpa-tektir::village
 arpachayi::village
 arpacık::village
-arpadere::village
+arpa darrehsi::village
+arpa darreh::village
 arpaderen::village
 arpaderesi::village
+arpadere::village
 arpagadik::village
 arpakesmez::village
 arpaliq::village
 arpalı::village
 arpangasia::village
 arpar::village
+arpa tappehsi::village
+arpa-tektir::village
 arpatepe::village
 arpeni::village
-arpi::village
 arpin::village
+arpi::village
 arpke::village
 arpunk::village
 arqaneh::village
@@ -5764,38 +5861,58 @@ arqih::village
 arqin bolagh::village
 arqin::village
 arqueen::village
-arra::village
+ar rabwah as sufla::village
+ar rabwah::village
+ar rafah::village
 arrai rai singh::village
 arrai sardar singh::village
+ar rajma::village
+ar rakiyat::village
+ar ramlah::village
 arran::village
+arra::village
+ar rawdah ash shamaliyah::village
+ar rawdah::village
+ar rawuk::village
+ar rawwa::village
 array:数组
+ar rayyan::village
 arreh furg::village
 arreh kamar::village
 arreh kan::village
 arreh::village
 arrest:逮捕
+arrëz::village
+ar ribat::village
+ar ridah ash sharqiyiah::village
 arrieta::village
+ar rihib::village
 arriondas::village
 arripiado::village
 arrissoules::village
+ar riyan::village
 arro::village
+arrow:箭
 arrow point::village
 arrow rock::village
-arrow::village
-arrow:箭
 arrowsmith::village
+arrow::village
 arrowwood::village
 arroyomolinos::village
-arrëz::village
+ar rubah::village
 arrúbal::village
+ar rudaymah::village
+ar rujaydah::village
+ar rukayb::village
+ar rukubah::village
 arsahni::village
 arsdorf::village
 arseh dowgah::village
 arsenic:砷
 arshaluys::village
 arshinov::village
-arslanbey::village
 arslanbeyli::village
+arslanbey::village
 arslandede::village
 arslanlı::village
 arsos::village
@@ -5825,15 +5942,15 @@ artesa de lleida::village
 arteshabad::village
 arthamuru::village
 arthill::village
-arthur::village
 arthur:亚瑟
+arthur::village
 artian::village
 article:文章
 articles:文章
 artifact:人造物品
+artificial:人工的
 artificial intelligence:人工智能
 artificial moon:人造月亮
-artificial:人工的
 artijan::village
 artil::village
 artiman::village
@@ -5848,71 +5965,71 @@ artuch::village
 artun::village
 arturowo::village
 artyk::village
-aru::village
 aruaia::village
 aruaru::village
 aruba:阿鲁巴
 arucak::village
-aruch::village
 aruchan::village
-arud::village
+aruch::village
 arudan-e olya::village
 arudan-e sofla::village
-aruk::village
+arud::village
 arukse::village
-arukwatta::village
 aruküla::village
+aruk::village
+arukwatta::village
 arula::village
-aruli::village
 aruliho::village
+aruli::village
 arulmolipet::village
-arum::village
+arumäe::village
 arumetsa::village
 arumulai::village
-arumäe::village
+arum::village
 arungal::village
 arungundram::village
 arunqash::village
-arupää::village
 arupäälse::village
+arupää::village
 aruq::village
-arus koti::village
-arus mahalleh::village
 arusak::village
 arusan-e golestan::village
 arushki::village
+arus koti::village
+arus mahalleh::village
 arusta::village
 aruste::village
-aruvalla::village
-aruvippuram::village
-aruvälja::village
-aruzhqoli::village
 aruş::village
-arva kheyl::village
+aruvälja::village
+aruvalla::village
+aru::village
+aruvippuram::village
+aruzhqoli::village
 arvagh::village
 arvajeh::village
-arvan::village
+arva kheyl::village
 arvanaq::village
 arvand::village
 arvaneh::village
+arvan::village
 arvar::village
 arvati::village
 arvij kola::village
 arvij::village
 arvila::village
-arviz::village
 arviza::village
-arwa::village
+arviz::village
 arwaliya::village
+arwa::village
 aryad south::village
 aryan::village
 aryeh::village
-arzak::village
 arzakan::village
-arzan fud::village
+arzak::village
 arzanaq::village
 arzancheh-ye sofla::village
 arzaneh::village
+arzan fud::village
 arzantak::village
 arzaqan::village
 arzat::village
@@ -5926,58 +6043,7 @@ arzos::village
 arzular::village
 arzuni::village
 arzuvaj::village
-aríñez::village
-arıca::village
-arıkaya::village
-arıklı::village
-arıkuyusu::village
-arıköy::village
-arılı::village
-arısu::village
-arıt::village
-arız::village
-arızlar::village
-arış::village
-as hajji::village
-as long as:只要
-as sabikhat::village
-as sadarah::village
-as sadayir::village
-as sadr::village
-as safe as possible:尽可能地安全
-as samd ash shamali::village
-as samn::village
-as sarriyah::village
-as sawm::village
-as sayl as saghir::village
-as sidr::village
-as sifyani::village
-as sihib::village
-as simah::village
-as sirr::village
-as sirrayn::village
-as subaykhi::village
-as sudayrah::village
-as sufal::village
-as sumariyah::village
-as sunnatayn::village
-as suwadah::village
-as suwayri::village
-as suwayriqiyah::village
-as well as:同样地
-as you see:如你所见
-as you wish:如你所愿
-as-e jadid::village
-as-e qadim::village
-as-sultaniyah::village
 as:当作
-asa::village
-asad aba::village
-asad kandi::village
-asad khan::village
-asad khani::village
-asad koshteh::village
-asad qeshlaqi-ye do::village
 asadabad-e anguri::village
 asadabad-e arab::village
 asadabad-e bala::village
@@ -5991,15 +6057,70 @@ asadabad-e rahnama::village
 asadabad-e sofla::village
 asadabad-e vosta::village
 asadabad::village
+asad aba::village
 asade::village
 asadi al-faya::village
 asadi::village
 asadiyeh-e pain::village
 asadiyeh::village
+asad kandi::village
+asad khani::village
+asad khan::village
 asadkhan::village
+asad koshteh::village
 asadli::village
-asadollah kandi::village
 asadollahabad::village
+asadollah kandi::village
+asad qeshlaqi-ye do::village
+aşağı ağcakənd::village
+aşağı ağcayazı::village
+aşağı apu::village
+aşağı aybasanlı::village
+aşağıbalcılar::village
+aşağı bilnə::village
+aşağı bradi::village
+aşağıçamlı::village
+aşağıçanakçı::village
+aşağıçardak::village
+aşağıçeşme::village
+aşağı cibikli::village
+aşağı cürəli::village
+aşağı daşkəsən::village
+aşağıdere::village
+aşağıdurak::village
+aşağı Əbdürrəhmanlı::village
+aşağı Əmirxanlı::village
+aşağı Əngilan::village
+aşağı fərəcan::village
+aşağı filfili::village
+aşağı gəyəli::village
+aşağı güzlək::village
+aşağıkartallı::village
+aşağı kəldək::village
+aşağıkonak::village
+aşağıköselerli::village
+aşağıköy::village
+aşağıkükür::village
+aşağıkuluşağı::village
+aşağı maralyan::village
+aşağı mollu::village
+aşağıoba::village
+aşağıovacık::village
+aşağı qaraçanlı::village
+aşağı qaragüvəndli::village
+aşağı qələnxur::village
+aşağı qəsil::village
+aşağı qobuüstü::village
+aşağı qolqəti::village
+aşağı rəfədinli::village
+aşağışahinler::village
+aşağı seyidəhmədli::village
+aşağı Şurtan::village
+aşağı veysəlli::village
+aşağı xocamsaqlı::village
+aşağı yeməzli::village
+aşağı zəyzid::village
+aşağı zurnabad::village
 asaichandpur::village
 asak::village
 asalam dasht::village
@@ -6007,41 +6128,44 @@ asalu::village
 asamang::village
 asamannoor::village
 asamati::village
-asan kuh::village
 asanchek::village
 asandi::village
 asane::village
 asangaon budruk::village
 asangaon::village
+ašanja::village
 asankodai::village
+asan kuh::village
 asanu::village
-asar zamin-e kaliab::village
-asar::village
 asaran::village
 asarvan::village
+asar::village
+asar zamin-e kaliab::village
+ašašninkai::village
 asatkuari::village
 asau::village
-asave::village
 asaveerankudikkadu::village
 asaveleh::village
+asave::village
+asa::village
 asavleh::village
 asawar::village
 asayesh::village
-asb buni::village
-asb keshan::village
-asb khan::village
-asb mirza::village
-asb rish::village
-asb-e marz::village
-asb-e shur pey::village
 asbabad::village
 asbak::village
+asb buni::village
+asb-e marz::village
+asb-e shur pey::village
 asbforushan::village
 asbgaran::village
 asbhar-e olya::village
 asbhar-e sofla::village
+asb keshan::village
+asb khan::village
+asb mirza::village
 asbqaran::village
 asbrahan::village
+asb rish::village
 asbu sara::village
 asbu::village
 asby::village
@@ -6050,36 +6174,38 @@ asciano pisano::village
 ascott d'oyley::village
 ascott earl::village
 ascott::village
-asd sara::village
 asdal::village
 asdas::village
 asdollahabad::village
+asd sara::village
 asefabad::village
 asegaon::village
-aseh::village
 asehru::village
+aseh::village
+as-e jadid::village
 asekan::village
 asel poshteh::village
 asemabad::village
 aseman dul::village
-aseman gerd::village
 asemandul::village
-asemi::village
+aseman gerd::village
 aseminun::village
+asemi::village
 asenabad::village
 asengaran::village
 asenjan::village
 asenovo::village
 asenray::village
+as-e qadim::village
 aseriaru::village
 asesham::village
-asexual reproduction:无性繁殖
 asexual:无性的
+asexual reproduction:无性繁殖
 aseyfer::village
 asfak::village
 asfal::village
-asfaran::village
 asfaranjan::village
+asfaran::village
 asfastan::village
 asfejan::village
 asfestan::village
@@ -6087,23 +6213,126 @@ asfich::village
 asfij::village
 asfiukh::village
 asfyj::village
-asgar khani::village
-asgarabad tappeh::village
 asgarabad-e abbasi::village
 asgarabad-e kuh::village
+asgarabad tappeh::village
 asgarabad::village
 asgaran::village
 asgariabad::village
+asgar khani::village
 asgarli::village
 asgarlu::village
 asgata::village
 asgerd::village
 asgeriya::village
-asghar khanlu::village
 asgharabad::village
+asghar khanlu::village
 asgiriya::village
+ash:灰
+ashab-e olya::village
+ashab-e sofla::village
+ashab::village
+ashagad::village
+ashaga dzhalgan::village
+ashaga fyndygan::village
+ashagy kharasha::village
+as hajji::village
+ashak rezvan::village
+ashan jagatpur::village
+a shan::village
+ashan::village
+ashapur::village
+ashaq qaleh::village
+ashareh beyt-e yabareh::village
+ashareh-ye bozorg::village
+ashareh-ye kuchek::village
+ashareh-ye olya::village
+ashareh-ye sofla::village
+asharf ol eslam::village
+asharikandi::village
+asharkota::village
+asha::village
+ashayir-e afrashteh::village
+ashbakh::village
+ashbak::village
+ashby st ledgers::village
+ashchibulak::village
+ashculme::village
+asheqan-e abedin::village
+asheqan-e musa::village
+asheqan::village
+asheqlu::village
+ashestan::village
+ashe::village
+ashfields::village
+ashfield::village
+ashford hill::village
+ashford::village
+ashgill::village
 ash green::village
+ashgrove::village
+ashianak::village
+ashianeh-ye olya::village
+ashianeh-ye sofla::village
+ashieke::village
+ashiestiel::village
+ashi golan::village
+ashik aghasi::village
+ashim::village
+ashineh::village
+ashin-e olya::village
+ashin-e sofla::village
+ashireh sar::village
+ashireh-ye khalaf::village
+ashir::village
+ashi::village
+ashiyan::village
+ashiyapat::village
+ashjerd::village
+ashkalun::village
+ashkal::village
+ashkam kuh::village
+ashkam shur::village
+ashkan-e olya::village
+ashkan-e sofla::village
+ashkan::village
+ashkar meydan::village
+ashk-e majan pahlu::village
+ashki::village
+ashkuh::village
+ashkum::village
+ashkur mahalleh::village
+ashkutan::village
+ashkutu::village
+ashk::village
+ashland::village
+ashley heath::village
+ashley::village
 ash mahalleh::village
+ashmansworthy::village
+ashmaq::village
+ashmesian::village
+ashmizan::village
+ashmore::village
+ashmuji::village
+ashmun al-rumman::village
+ashnaabad::village
+ashna khvor::village
+ashnak::village
+ashna::village
+ashnestan::village
+ashniz-e bala::village
+ashoqeh::village
+ashorne::village
+ashotavan::village
+ashotsk::village
+ashqal::village
+ashqoltepa::village
+ashrafabad-e quch::village
+ashrafabad::village
+ashraf darreh::village
+ashrafpur::village
+ashraf::village
 ash shajar::village
 ash shajwah::village
 ash shamiyah::village
@@ -6116,110 +6345,6 @@ ash shumaysi::village
 ash shutayfi::village
 ash shuwaybit::village
 ash shuwayhah::village
-ash thomas::village
-ash vale::village
-ash::village
-ash:灰
-asha::village
-ashab-e olya::village
-ashab-e sofla::village
-ashab::village
-ashaga dzhalgan::village
-ashaga fyndygan::village
-ashagad::village
-ashagy kharasha::village
-ashak rezvan::village
-ashan jagatpur::village
-ashan::village
-ashapur::village
-ashaq qaleh::village
-ashareh beyt-e yabareh::village
-ashareh-ye bozorg::village
-ashareh-ye kuchek::village
-ashareh-ye olya::village
-ashareh-ye sofla::village
-asharf ol eslam::village
-asharikandi::village
-asharkota::village
-ashayir-e afrashteh::village
-ashbak::village
-ashbakh::village
-ashby st ledgers::village
-ashchibulak::village
-ashculme::village
-ashe::village
-asheqan-e abedin::village
-asheqan-e musa::village
-asheqan::village
-asheqlu::village
-ashestan::village
-ashfield::village
-ashfields::village
-ashford hill::village
-ashford::village
-ashgill::village
-ashgrove::village
-ashi golan::village
-ashi::village
-ashianak::village
-ashianeh-ye olya::village
-ashianeh-ye sofla::village
-ashieke::village
-ashiestiel::village
-ashik aghasi::village
-ashim::village
-ashin-e olya::village
-ashin-e sofla::village
-ashineh::village
-ashir::village
-ashireh sar::village
-ashireh-ye khalaf::village
-ashiyan::village
-ashiyapat::village
-ashjerd::village
-ashk-e majan pahlu::village
-ashk::village
-ashkal::village
-ashkalun::village
-ashkam kuh::village
-ashkam shur::village
-ashkan-e olya::village
-ashkan-e sofla::village
-ashkan::village
-ashkar meydan::village
-ashki::village
-ashkuh::village
-ashkum::village
-ashkur mahalleh::village
-ashkutan::village
-ashkutu::village
-ashland::village
-ashley heath::village
-ashley::village
-ashmansworthy::village
-ashmaq::village
-ashmesian::village
-ashmizan::village
-ashmore::village
-ashmuji::village
-ashmun al-rumman::village
-ashna khvor::village
-ashna::village
-ashnaabad::village
-ashnak::village
-ashnestan::village
-ashniz-e bala::village
-ashoqeh::village
-ashorne::village
-ashotavan::village
-ashotsk::village
-ashqal::village
-ashqoltepa::village
-ashraf darreh::village
-ashraf::village
-ashrafabad-e quch::village
-ashrafabad::village
-ashrafpur::village
 ashta, bangladesh::village
 ashtajin::village
 ashtakhu::village
@@ -6227,54 +6352,58 @@ ashtamichira::village
 ashtaran::village
 ashtargarden::village
 ashte::village
+ash thomas::village
 ashti bolagh::village
 ashtijeh::village
 ashtjeran::village
 ashtodona::village
 ashton::village
 ashubeh::village
-ashur::village
 ashurabad::village
 ashurbay::village
 ashurst::village
+ashur::village
+ash vale::village
 ashvale::village
+ash::village
 ashwari::village
 ashwaubenon::village
 ashwell::village
 ashwick::village
-asi bolagh::village
-asia barak::village
 asia:亚洲
+asiabad::village
+asiabak-e band::village
+asia barak::village
+asiabar::village
 asiab dargah::village
 asiab darreh::village
+asiab-e jelal-e sofla::village
+asiab-e kereshki::village
+asiab-e saran::village
+asiab-e tanureh::village
 asiab jub-e farmanfarma::village
 asiab jub::village
 asiab qermez::village
 asiab sar::village
 asiab sham::village
-asiab-e jelal-e sofla::village
-asiab-e kereshki::village
-asiab-e saran::village
-asiab-e tanureh::village
 asiab::village
-asiabad::village
-asiabak-e band::village
-asiabar::village
 asian:亚洲人
 asiavaleh::village
+asi bolagh::village
 asikathi::village
 asikkadu::village
 asilabad::village
 asilah::village
 asiliyah::village
 asimenio::village
-asira::village
 asiran::village
+asira::village
 asiyab-e alikhan::village
 asiyab-e kohneh::village
 asiyab-e mir naser::village
 asiyab-e shekasteh::village
-ask::village
+aşıklar::village
+aşıq məlikli::village
 ask:问
 askadeh::village
 askaleh-ye bandar emam::village
@@ -6295,30 +6424,31 @@ askestan::village
 askham::village
 aski baghdad::village
 aski mahalleh::village
-aski shahr::village
 askin::village
-askje::village
+aski shahr::village
 askjem::village
+askje::village
 askkroken::village
 askland::village
 asknish::village
 askol-e sofla::village
 askul darreh::village
+ask::village
 aslan beyglu::village
-aslan shahi::village
-aslan::village
 aslandere::village
-aslani mohammad reza::village
 aslanik::village
+aslani mohammad reza::village
 aslanlu::village
 aslanoba::village
+aslan shahi::village
+aslan::village
 aslanyurdu::village
 asleep:睡着的
 asleh marz::village
 asleh::village
-asli kandi::village
 aslihah::village
-asma::village
+asli kandi::village
+as long as:只要
 asmaca::village
 asmacık::village
 asmadere::village
@@ -6329,6 +6459,7 @@ asmakonak::village
 asmalı::village
 asman bolaghi::village
 asmarud::village
+asma::village
 asmoli::village
 asnan::village
 asnaq::village
@@ -6339,21 +6470,24 @@ asodhar::village
 asoga::village
 asoha::village
 asokati::village
-aspa, lleida::village
 aspahi kola::village
 aspakhu::village
-aspar::village
+aspa, lleida::village
 asparagus:芦笋
 asparazgaleh::village
 asparuhovo::village
+aspar::village
 aspas::village
 aspen:杨树
 asperton::village
-asphalt concrete:沥青混凝土
 asphalt:柏油
-aspi razil::village
+asphalt concrete:沥青混凝土
 aspich::village
+aspi razil::village
 aspirin:阿司匹林
+asplenium attenuatum::plant
+asplenium  difforme::plant
+asplenium  parvum::plant
 aspos::village
 aspra spitia::village
 asprochoma::village
@@ -6366,59 +6500,85 @@ asput::village
 asrabad-e tazeh::village
 asrabad::village
 asrafpur::village
+aşralar::village
 asram::village
 asrasi::village
 asrenda::village
+as sabikhat::village
 assad:阿萨德
+as sadarah::village
+as sadayir::village
+as sadr::village
+as safe as possible:尽可能地安全
 assagao::village
 assakata::village
 assalé-kouassikro::village
 assam:阿萨姆邦
 assamalla::village
+as samd ash shamali::village
 assamese:阿萨姆人
-assan::village
+as samn::village
 assandrè::village
+assan::village
+as sarriyah::village
 assault:突击
+as sawm::village
+as sayl as saghir::village
 assel::village
 assembly:汇编
 assess:评估
 asset:资产
 asshole:屁眼
+as sidr::village
+as sifyani::village
+as sihib::village
+as simah::village
 assimilate:消化
 assimilation:同化
 assington::village
 assion::village
+as sirrayn::village
+as sirr::village
 assist:协助
 assistant:助手
 assistants:助手
 associate:联系
 association:关联
 association:协会
+as subaykhi::village
+as sudayrah::village
+as sufal::village
+as-sultaniyah::village
+as sumariyah::village
 assume:假定
+as sunnatayn::village
 assurance:保证
+as suwadah::village
+as suwayriqiyah::village
+as suwayri::village
 astagaon::village
 astain::village
 astakatti::village
 astakul::village
-astal kenar::village
 astalak-e danshur::village
 astalak-e pain::village
 astalak::village
-astan-e karud::village
-astan::village
+astal kenar::village
 astand-e jadid::village
 astaneh sar::village
 astaneh::village
+astan-e karud::village
 astanjin::village
+astan::village
 astarqan::village
 astarud::village
 astatine:砹
 astayesh::village
-aste::village
 asteguieta::village
 asterisk:星号
 asterley::village
 asteroid:小行星
+aste::village
 astghadzor::village
 astin dar-e olya::village
 astin dar-e sofla::village
@@ -6444,19 +6604,19 @@ astronomy:天文学
 astrope::village
 astroŭna::village
 astrup::village
+astúlez::village
 astuvere::village
 astwith::village
-astúlez::village
 asu jadid::village
-asu::village
 asuka::village
 asuküla::village
-asun zahleh::village
 asundi::village
-asur::village
+asun zahleh::village
 asura::village
 asurbandh::village
 asureswar::village
+asur::village
+asu::village
 asva::village
 asvestades::village
 aswalapitiya::village
@@ -6464,32 +6624,29 @@ aswali::village
 aswalpur::village
 aswarby::village
 asweddunwela::village
+as well as:同样地
 aswinpur::village
 asyab qashqa::village
 asyan::village
 asylum:庇护
 asynchronous:异步的
+as you see:如你所见
+as you wish:如你所愿
 aszaló::village
 aszófő::village
-at tariyah::village
-at turqi::village
-at tutan::village
-at tuwal::village
-at-bashy::village
-at::village
 at:在
-ata behlakeh::village
-ata bolaghi::village
-ata efa::village
 ataabad::village
 atabae::village
 atabage pallegama::village
 atabage::village
 atabak-e kati::village
-atabak::village
 atabakhsh-e ghani::village
+atabak::village
+ata behlakeh::village
 atabek::village
 atabkashmas owliad::village
+ata bolaghi::village
+ata efa::village
 ataganj usri::village
 atagut::village
 atajan qorbanli::village
@@ -6500,9 +6657,9 @@ ataköy::village
 atalar::village
 atalay::village
 atalu::village
+atana::village
 atan rud::village
 atan::village
-atana::village
 atapaka::village
 atarchi::village
 atarhar::village
@@ -6511,23 +6668,25 @@ atariya::village
 atarkhali::village
 atarud::village
 atash anbar::village
-atash beyg::village
-atash sara::village
-atash::village
 atashan::village
 atasharan::village
+atash beyg::village
 atashgah-e jadid::village
 atashgah::village
+atash sara::village
+atash::village
 ataste::village
 ataura buzurg::village
 ataura khurd::village
 atauri::village
 atawan::village
 ataxal::village
+at-bashy::village
 atbatan::village
-atch lench::village
+atça::village
 atchanan::village
 atchenkulam::village
+atch lench::village
 atdarrahsi::village
 atel mohammed::village
 ateshan::village
@@ -6539,7 +6698,6 @@ ateshkuh::village
 ateshun-e namju::village
 ateshun-e olya::village
 ateybeh::village
-ath thalib::village
 athangaraividuthi::village
 athani::village
 athara gachhia::village
@@ -6563,11 +6721,13 @@ athletics:田径
 athola::village
 atholi::village
 athota::village
+ath thalib::village
 athwal::village
-atia::village
 atiaka::village
 atialdanga::village
+atia::village
 atigre::village
+a. timmasagar::village
 atimoz::village
 atini::village
 atipara::village
@@ -6575,18 +6735,18 @@ atirahapitiya::village
 atiswar::village
 atiyeh::village
 atkár::village
-atla::village
-atlanta::village
 atlanta:亚特兰大
+atlanta::village
 atlantic:大西洋
 atlapragada konduru::village
 atlas:地图册
-atlur::village
-atlı::village
+atla::village
 atlılar::village
-atma singh::village
+atlı::village
+atlur::village
 atmaca::village
 atmakur::village
+atma singh::village
 atmeyan-e sofla::village
 atmeyan-e vosta::village
 atmosphere:大气
@@ -6595,21 +6755,21 @@ atna::village
 atolen::village
 atolovo::village
 atom:原子
+atomic:原子的
 atomic nucleus:原子核
 atomic number:原子序数
 atomic weight:原子量
-atomic:原子的
-atr afshan::village
-atra chal::village
-atra::village
-atrab::village
 atrabad-e sofla::village
 atrabad-ye olya::village
+atrab::village
+atra chal::village
+atractocarpus decorus::plant
+atr afshan::village
 atrapos::village
+atra::village
 atrehta::village
 atreyapuram::village
 atsalama::village
-atta::village
 attabiyeh-ye jonubi::village
 attabiyeh-ye shomali::village
 attack:攻击
@@ -6624,36 +6784,40 @@ attaragalla::village
 attaragama hunnana-oya::village
 attaragama hunnanoya::village
 attaragama::village
+at tariyah::village
+atta::village
 attayampalayam::village
 atteln::village
 attempt:尝试
 attenborough::village
 attendance:出席
-attention deficit hyperactivity disorder:注意力欠缺多动症
-attention deficit:注意力欠缺
 attention:注意
+attention deficit:注意力欠缺
+attention deficit hyperactivity disorder:注意力欠缺多动症
 attepur::village
 atterley::village
-atti::village
 attica::village
-attigundi::village
+attiékoi::village
 attiguéhi::village
+attigundi::village
 attihal::village
 attili::village
 attinguié::village
+atti::village
 attiwad::village
-attiékoi::village
 attokro::village
 attoor::village
 attractive:吸引人的
 attribute:属性
+at turqi::village
+at tutan::village
 attuvassery::village
-atu::village
+at tuwal::village
 atuc::village
+atu::village
 atvan::village
+at::village
 atwood::village
-atça::village
-au::village
 auaste::village
 aubinyà::village
 aubry::village
@@ -6661,6 +6825,7 @@ auburndale::village
 auchbreck::village
 auchenblae::village
 auchencairn::village
+auchē::village
 auchinleish::village
 auchinloch::village
 auchinraith::village
@@ -6671,13 +6836,12 @@ auchmillan::village
 auchnarrow::village
 auchterderran::village
 auchterless::village
-auchē::village
-aude::village
 audenried::village
 audevälja::village
-audience:听众
-audience:观众
+aude::village
 audience:读者
+audience:观众
+audience:听众
 audio:音频
 audiologist:听力学家
 audiology:听力学
@@ -6696,19 +6860,21 @@ aujla banwali::village
 aujla dhak::village
 aujla jogi::village
 aujla::village
-auk satha::village
-aukland::village
 auklandshamn::village
+aukland::village
 aukrasanden::village
+auk satha::village
 auksi::village
-auktaw::village
-auktawgyi::village
-aukupėnai::village
-auküla::village
 aukštakalnis::village
 aukštdvaris::village
-aula-vintri::village
+auktawgyi::village
+auktaw::village
+auküla::village
+aukupėnai::village
 aulakh::village
+aulandra beccarii::plant
+aulandra longifolia::plant
+aula-vintri::village
 aulepa::village
 auliapur::village
 aulifeltet::village
@@ -6721,9 +6887,10 @@ aunby::village
 aund meena::village
 aunegrenda::village
 aunet::village
-aung yang::village
 aunggon::village
 aungmye thazi::village
+aung yang::village
+a unique feature:一个唯一的特征
 aunslev::village
 aunt:叔母
 auraia::village
@@ -6736,15 +6903,19 @@ auri::village
 aursmoen::village
 ausabandhi::village
 ausanpur::village
+ausātas::village
 auschwitz:奥斯威辛
+a useful article:一篇有用的文章
+a useful tool:一个有用的工具
+a user:一个用户
 ausgram::village
 aushapur::village
 ausia::village
+aušra::village
 ausserferrera::village
-aust-torpa::village
-austa::village
 austad::village
 austan::village
+austa::village
 austbygdi::village
 austendike::village
 austerlitz::village
@@ -6759,8 +6930,8 @@ austreim::village
 austrepollen::village
 austrheim::village
 austria:奥地利
+aust-torpa::village
 ausvika::village
-ausātas::village
 autan::village
 author:作者
 authoritarian:独裁的
@@ -6773,16 +6944,15 @@ autobiography:自传
 autofellatio:自口交
 autol::village
 automatic:自动的
-autonomic nervous system:自主神经系统
 autonomic:自律的
+autonomic nervous system:自主神经系统
 autonomous:自治的
 autopilot:自动驾驶仪
 autoroute:高速公路
 auvere::village
 auvernier::village
+au::village
 auwa::village
-aušra::village
-ava::village
 avadan::village
 avafi::village
 avagun::village
@@ -6792,17 +6962,17 @@ avalan::village
 avalapalli::village
 avaldsnes::village
 avaliden::village
-avan sar::village
-avan::village
 avanak::village
 avanam::village
 avanavancherry::village
 avandar::village
 avanduse::village
 avane::village
-avanj::village
 avanjan::village
+avanj::village
 avanlu::village
+avan sar::village
+avan::village
 avaradi::village
 avaraikulam::village
 avarampatti::village
@@ -6812,36 +6982,38 @@ avargan::village
 avarkhod::village
 avarneh::village
 avarolli::village
-avars::village
 avarsin::village
+avars::village
 avarzaman::village
-avas::village
 avaseh amid ali::village
 avaste::village
-avat::village
+avas::village
 avatar::village
-avaz ali najafqoli::village
-avaz hajji::village
-avaz lar sayyadlar::village
-avaz mohammad beyk::village
-avaz::village
+avat::village
+ava::village
 avazabad::village
+avaz ali najafqoli::village
 avazan::village
+avaz hajji::village
 avazhikkarai::village
 avazi::village
+avaz lar sayyadlar::village
 avazlar::village
-avcılar::village
+avaz mohammad beyk::village
+avaz::village
 avcıçayırı::village
+avcılar::village
 avdal::village
 avdan::village
 avdelan-e olya::village
 avdelan-e sofla::village
 avdellero::village
-avdi::village
 avdiko::village
+avdi::village
 avdullar::village
 aveh::village
 avehza::village
+a.vemavaram::village
 avena sativa:燕麦
 avend::village
 avengan::village
@@ -6849,8 +7021,8 @@ avenger:复仇者
 avenhorn::village
 avenliq::village
 avenue:林荫道
-average speed:平均速度
 average:平均
+average speed:平均速度
 aversi::village
 avert:转移
 aveyime-battor::village
@@ -6866,55 +7038,55 @@ avijan::village
 avijdan::village
 avikkottai::village
 avil::village
+avindin::village
 avin-e masjedlu::village
 avin-e olya::village
 avin-e sofla::village
-avindin::village
 avirak::village
 avishk::village
 avispea::village
 aviston::village
-aviz::village
 avizar::village
 avižieniai::village
+aviz::village
 avlaki::village
 avlona::village
 avoca::village
 avoid:避免
-avon::village
 avondale::village
+avon::village
 avonwick::village
 avoros::village
-avra::village
 avramiou::village
 avramovo::village
+avra::village
 avren::village
 avres morad::village
+avşar::village
 avshar::village
 avshen::village
 avudaiyanoor::village
-avun::village
 avunca::village
+avun::village
 avur::village
 avusahibthottam::village
 avyarud::village
 avzin-e fereydun::village
 avzrog::village
-avşar::village
-awa ntong::village
 awadam::village
 awadhani::village
-awaing::village
 awainggale::village
+awaing::village
 await:等
-await:等候
 await:等待
+await:等候
 awake:唤醒
 awalgaon::village
 awan chaharmi::village
-awan khalsa::village
-awan::village
 awandiya::village
+awan khalsa::village
+awa ntong::village
+awan::village
 awaradi::village
 award:授予
 awards:奖
@@ -6945,69 +7117,67 @@ axtell::village
 axtown::village
 axunahiran::village
 axylou::village
-ay darvish::village
-ay dughmish::village
-ay naz::village
-ay tamer::village
-ay-tamga::village
 ayadaw::village
 ayaghchi::village
 ayalahi::village
 ayalu::village
 ayamkudy::village
-ayan::village
 ayanathur::village
 ayangudi::village
 ayanivelikulangara::village
 ayansuthamalli::village
 ayanur::village
+ayan::village
 ayappakkam::village
 ayaq qərvənd::village
 ayaranapalli::village
 ayarneh::village
 ayas jan::village
+ayazabad::village
 ayaz galu::village
+ayazini::village
 ayaz kandi::village
 ayaz::village
-ayazabad::village
-ayazini::village
 aybak::village
 aychi::village
 aycliffe village::village
-ayda::village
 aydamir::village
 aydarbek::village
 aydarly::village
+ay darvish::village
+ayda::village
 aydemir::village
 aydenlu::village
 aydinlar::village
 aydinlu::village
 aydisheh::village
-aydoghmush::village
-aydow bazar::village
-aydoğan::village
-aydoğdu::village
-aydoğmuş::village
-aydın::village
 aydıncık::village
-aydınköy::village
 aydınkənd::village
+aydınköy::village
 aydınlar::village
-aydınlı::village
 aydınlık::village
+aydınlı::village
 aydınoğlu::village
 aydınpınar::village
+aydın::village
 aydınyayla::village
+aydoğan::village
+aydoğdu::village
+aydoghmush::village
+aydoğmuş::village
+aydow bazar::village
+ay dughmish::village
 ayeblu::village
 ayegan::village
-ayeneh varzan::village
 ayenehlu::village
 ayenehvand::village
+ayeneh varzan::village
+ayénouan::village
 ayer::village
 ayeshbon-e olya::village
 ayeshbon-e sofla::village
-ayesheh dul::village
 ayeshehabad::village
+ayesheh dul::village
 aygabats::village
 aygavan::village
 aygedzor::village
@@ -7021,11 +7191,12 @@ aygevan::village
 aygezard::village
 aygut::village
 aygyr-jar::village
-ayi mensa::village
 ayikkudi::village
 ayilpatty::village
+ayi mensa::village
 ayipettai::village
 ayiramthengu::village
+ayıbasar::village
 ayjan::village
 ayke::village
 aykut::village
@@ -7034,101 +7205,96 @@ ayle::village
 aylmerton::village
 aylton::village
 aylworth::village
-ayma::village
 aymanam::village
+ayma::village
 aymur::village
+aynabulaq::village
+aynajik::village
 ayn al-bayda::village
 ayn al-fawwar::village
 ayn al-shams::village
 ayn al-shiqaq::village
 ayn al-tineh al-gharbiyah::village
 ayn al-tineh al-sharqiyah::village
-aynabulaq::village
-aynajik::village
 aynatali::village
+ay naz::village
 ayneh bazar-e mahtab::village
 aynehvar::village
 ayntap::village
 ayqalehsi::village
 ayqer chaman-e olya::village
 ayqer chaman-e sofla::village
-ayr::village
 ayrancı::village
 ayri bujaq::village
 ayrk::village
 ayrovo::village
+ayr::village
 ayry-tam::village
 aysi kola::village
+ay tamer::village
+ay-tamga::village
 aytepe::village
 ayub kaley::village
-ayur::village
 ayuriq::village
+ayur::village
 ayuu-tapan::village
 ayvacık::village
 ayvalar::village
-ayvalı::village
 ayvalık::village
-ayvat::village
+ayvalı::village
 ayvatlar::village
+ayvat::village
 ayvazlar::village
 ayvazlu::village
 ayvora::village
-ayya::village
 ayyampatti::village
 ayyappa nayakan pettai::village
 ayyappancoil::village
 ayyappankave::village
 ayyash::village
+ayya::village
+ayyıldız::village
 ayyo::village
 ayyub::village
 ayyur::village
-ayyıldız::village
 ayzdin::village
-ayénouan::village
-ayıbasar::village
-az zaghfah::village
-az zilal::village
-az zughbah::village
-az zuwayb::village
-az-zahiriyah::village
 azab::village
-azad bakht-e korreh pa::village
-azad bon::village
-azad deh::village
-azad gaz::village
-azad khani::village
-azad kin::village
-azad manjir::village
-azad marzabad::village
-azad veys-e olya::village
-azad veys-e sofla::village
-azad-e sofla::village
-azad::village
 azadabad-e pir dusti::village
 azadabad::village
+azad bakht-e korreh pa::village
 azadbar::village
+azad bon::village
+azad deh::village
 azaddeh::village
 azadegan-e yek::village
 azadegan::village
 azademun::village
-azadi-ye dam ludab::village
+azad-e sofla::village
+azad gaz::village
 azadi::village
+azadi-ye dam ludab::village
+azad khani::village
 azadkhani::village
+azad kin::village
+azad manjir::village
+azad marzabad::village
 azadrud::village
 azadtappeh::village
 azadvar::village
+azad veys-e olya::village
+azad veys-e sofla::village
+azad::village
 azailong::village
 azakhel bala::village
+azalea::plant
 azamabad::village
-azan deh::village
-azan vazan::village
-azan::village
 azanak-e kukya::village
 azanak-e olya::village
 azanbar::village
+azan deh::village
 azanja::village
-azar key::village
-azar khvaran::village
+azan vazan::village
+azan::village
 azarabad::village
 azaraegbelu::village
 azaran::village
@@ -7137,33 +7303,36 @@ azarbon-e olya::village
 azarbon-e sofla::village
 azarchal::village
 azarcheh::village
-azarestan::village
 azarestanak::village
+azarestan::village
 azarkal::village
+azar key::village
+azar khvaran::village
+azárrulla::village
 azarsetanaki::village
 azarsi hattem::village
+azarsi::village
 azarsi-ye babal konar::village
 azarsi-ye hoseyn khanzadeh::village
 azarsi-ye nematollah::village
 azarsi-ye sadollah::village
 azarsi-ye taskanu::village
-azarsi::village
 azaru::village
-azat::village
 azatamut::village
 azatan::village
 azatashen::village
 azatavan::village
 azatek::village
+azat::village
 azaw::village
 azazeta::village
 azbar::village
 azbeki::village
 azbizan::village
 azdak::village
-azdar tappeh::village
 azdaran::village
 azdari::village
+azdar tappeh::village
 azdi bastak::village
 azela::village
 azelouaz::village
@@ -7174,8 +7343,8 @@ azeyrenawt::village
 azganin-e olya::village
 azganin-e sofla::village
 azghad::village
-azghan::village
 azghand::village
+azghan::village
 azghyr::village
 azgom::village
 azhdahatu::village
@@ -7185,15 +7354,10 @@ azhdeha baluch::village
 azhiyanilai::village
 azhiyavaikkal::village
 azibi::village
-azim darreh::village
-azim khanlu::village
 azimabad::village
+azim darreh::village
 azimiyeh::village
-aziz kand::village
-aziz kandi::village
-aziz kian::village
-aziz koshteh::village
-aziz-e bamadi::village
+azim khanlu::village
 azizabad-e bonavaj::village
 azizabad-e olya::village
 azizabad-e pain::village
@@ -7203,27 +7367,33 @@ azizabad-e sofla::village
 azizabad::village
 azizabat::village
 azizak::village
+aziz-e bamadi::village
+aziziyeh::village
 azizi-ye olya::village
 azizi-ye sofla::village
 azizi-ye vosta::village
-aziziyeh::village
+aziz kandi::village
+aziz kand::village
+aziz kian::village
+aziz koshteh::village
 azizli::village
 azizlu::village
+azıklı::village
 azmanabad::village
 azmanite::village
 azmarin::village
 azmeh miran::village
 azmighan::village
-azna mehalmak::village
-azna::village
 aznab-e khaleseh::village
 aznab-e olya::village
 aznab-e sofla::village
 aznab::village
 aznabyurt::village
 aznahri::village
+azna mehalmak::village
 aznaq::village
 aznaveh::village
+azna::village
 aznavleh::village
 azni::village
 aznowjan::village
@@ -7235,130 +7405,13 @@ azrat::village
 azreh-ye mohammad khan::village
 azreh-ye mokarrami::village
 azrudsar::village
-azvarcheh::village
-azykh::village
-azárrulla::village
-azıklı::village
-aïn cheikh::village
-aïn choucha::village
-aït abdelhadi::village
-aït afra::village
-aït dahmane::village
-aït hamadouche::village
-aït salah::village
-aït si amar::village
-aït si saïd::village
-aïté::village
-añua::village
-ağakişilər::village
-ağaköy::village
-ağalaruşağı::village
-ağalı::village
-ağalıkənd::village
-ağamçağam::village
-ağaməmmədli::village
-ağarəhimoba::village
-ağaçlı::village
-ağaçpınar::village
-ağbaşlı::village
-ağbiz::village
-ağbulaq::village
-ağcakent::village
-ağcakənd::village
-ağcaqovaq::village
-ağcayazı::village
-ağdam qalal::village
-ağdamkənd::village
-ağdərə::village
-ağkilsə::village
-ağkənd::village
-ağoğlan::village
-ağqaya::village
-ağqıraq::village
-ağrı::village
-ağtəpə::village
-ağyataq::village
-ağyazı buduq::village
-ağyazı::village
-ağyoxuş::village
-ağzıbüyük::village
-ağzıkaraca::village
-ağören::village
-ağıllı::village
-ağılözü::village
-aşağı apu::village
-aşağı aybasanlı::village
-aşağı ağcakənd::village
-aşağı ağcayazı::village
-aşağı bilnə::village
-aşağı bradi::village
-aşağı cibikli::village
-aşağı cürəli::village
-aşağı daşkəsən::village
-aşağı filfili::village
-aşağı fərəcan::village
-aşağı güzlək::village
-aşağı gəyəli::village
-aşağı kəldək::village
-aşağı maralyan::village
-aşağı mollu::village
-aşağı qaragüvəndli::village
-aşağı qaraçanlı::village
-aşağı qobuüstü::village
-aşağı qolqəti::village
-aşağı qələnxur::village
-aşağı qəsil::village
-aşağı rəfədinli::village
-aşağı seyidəhmədli::village
-aşağı veysəlli::village
-aşağı xocamsaqlı::village
-aşağı yeməzli::village
-aşağı zurnabad::village
-aşağı zəyzid::village
-aşağı Şurtan::village
-aşağı Əbdürrəhmanlı::village
-aşağı Əmirxanlı::village
-aşağı Əngilan::village
-aşağıbalcılar::village
-aşağıdere::village
-aşağıdurak::village
-aşağıkartallı::village
-aşağıkonak::village
-aşağıkuluşağı::village
-aşağıköselerli::village
-aşağıköy::village
-aşağıkükür::village
-aşağıoba::village
-aşağıovacık::village
-aşağıçamlı::village
-aşağıçanakçı::village
-aşağıçardak::village
-aşağıçeşme::village
-aşağışahinler::village
-aşralar::village
-aşıklar::village
-aşıq məlikli::village
-ašanja::village
-ašašninkai::village
 ažulaukė::village
 ažuožeriai::village
+azvarcheh::village
+azykh::village
 ažytėnai::village
-abutilon cryptopetalum::plant
-abutilon halophilum::plant
-acrotrema arnottianum::plant
-african false hosta::plant
-african hosta::plant
-agalinis divaricata::plant
-agalinis edwardsiana::plant
-allium kermesinum::plant
-alternanthera sessilis::plant
-althaea armeniaca::plant
-alyogyne huegelii::plant
-amorphophallus sylvaticus::plant
-aneilema aequinoctiale::plant
-anisopoda::plant
-apium prostratum::plant
-apowollastonia stirlingii::plant
-arisaema erubescens::plant
-arena flowers::plant
-azalea::plant
+az zaghfah::village
+az-zahiriyah::village
+az zilal::village
+az zughbah::village
+az zuwayb::village

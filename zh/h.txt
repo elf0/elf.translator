@@ -1,18 +1,6 @@
-h::village
-ha chachole::village
-ha hang::village
-ha keng hau::village
-ha lejone::village
-ha mei san tsuen::village
-ha shan kai wat::village
-ha wan tsuen::village
-ha wo hang::village
-ha wong yi au::village
-ha yau tin tsuen::village
-ha yeung::village
-ha'afuasia::village
 haabsaare::village
 haaften::village
+ha'afuasia::village
 haage::village
 haakla::village
 haamse::village
@@ -20,15 +8,14 @@ haamstede::village
 haanja::village
 haapamäki::village
 haapse::village
-haapsi::village
 haapsipea::village
+haapsi::village
 haapsu::village
 haarzuilens::village
 haaslava::village
 haavakannu::village
 haavametsa::village
 haavapää::village
-haba, togo::village
 hababeh-ye olya::village
 hababeh-ye sofla::village
 hababeh-ye vosta::village
@@ -36,23 +23,26 @@ habaiyeh::village
 habaki::village
 habalakatti::village
 habariheshay::village
+habashabad::village
 habash-e olya::village
 habash-e sofla::village
-habash::village
-habashabad::village
 habashi::village
-habban valley::village
+habash::village
+haba, togo::village
 habbanatti::village
+habban valley::village
+håbbesland::village
+håbbestad::village
 habbupur::village
 haberli::village
 habhab::village
-habib ishan::village
-habib kot::village
 habibabad-e durag::village
 habibabad-e mazdak::village
 habibabad::village
 habibak::village
 habibganj::village
+habib ishan::village
+habib kot::village
 habibler::village
 habibpur::village
 habibuşağı::village
@@ -65,11 +55,13 @@ habitat:栖息地
 habkayt::village
 hablas::village
 habnamrah::village
-habu::village
 habuapur::village
+habu::village
 hacallı::village
+haçaqaya::village
 haceri::village
 hacet::village
+ha chachole::village
 hachakand-e darmanlu::village
 hachakand-e tazeh::village
 hachasu::village
@@ -77,45 +69,47 @@ hachi darreh::village
 hachiville::village
 hacienda atalaya::village
 haciniyyət::village
-hacker:黑客
-hackney::village
+hacıağabəyli::village
 hacıahmetler::village
 hacıali, manavgat::village
 hacıali::village
-hacıağabəyli::village
 hacıbabalı::village
 hacıbayram::village
 hacıbektaşlı, Şereflikoçhisar::village
 hacıbey::village
 hacıbozan::village
 hacıdünyamalılar::village
+hacıəbdürəhimoba::village
+hacıəhmədoba::village
+hacıəkbərli::village
+hacıələkbərli::village
 hacıhalil::village
 hacıhamzalı::village
-hacıhasan::village
 hacıhasanlar, nallıhan::village
+hacıhasan::village
 hacıhüseyinler::village
 hacıisalı, manavgat::village
 hacıisgəndərli::village
+hacıkənd::village
 hacıköseler, yenipazar::village
 hacıköy::village
-hacıkənd::village
 hacılar::village
 hacılı::village
 hacımahmudlu::village
-hacımahmut::village
 hacımahmutuşağı::village
+hacımahmut::village
 hacıman::village
 hacımehmetli::village
-hacımusa::village
-hacımusalar, elmalı::village
-hacımuslu, polatlı::village
-hacımustafaköy::village
 hacıməmmədli::village
 hacıməmmədoba::village
+hacımusalar, elmalı::village
+hacımusa::village
+hacımuslu, polatlı::village
+hacımustafaköy::village
 hacıobası, manavgat::village
-hacıosmanoğlu, polatlı::village
 hacıoğlan, kaş::village
 hacıoğlu::village
+hacıosmanoğlu, polatlı::village
 hacıqazma::village
 hacıqurbanoba::village
 hacısamlı::village
@@ -126,10 +120,10 @@ hacıvəli::village
 hacıxanlı::village
 hacıyakup::village
 hacıyusuflar::village
-hacıəbdürəhimoba::village
-hacıəhmədoba::village
-hacıəkbərli::village
-hacıələkbərli::village
+hacker:黑客
+häcklingen::village
+hackney::village
+hács::village
 had:有
 hadadcha::village
 hadakan::village
@@ -138,12 +132,13 @@ hadalga::village
 hadameh-ye olya::village
 hadameh-ye vosta::village
 hadan::village
+hădărăuți::village
 hadar::village
 hadashi::village
 hadbeh::village
 haddabat::village
-haddada::village
 haddadan::village
+haddada::village
 haddadeh::village
 haddadiyeh::village
 haddam-e do::village
@@ -152,18 +147,18 @@ haddat ash sham::village
 haddatha::village
 haddeland::village
 hadecha::village
-hader::village
 haderbad-e olya::village
+hader::village
 hadf::village
 hadhah::village
 hadhwanaag::village
-hadi gavaber::village
-hadi khani::village
-hadi kiashar::village
 hadiabad::village
 hadibeyglu::village
 hadid::village
+hadi gavaber::village
 hadiginal::village
+hadi khani::village
+hadi kiashar::village
 hadilu::village
 hadipora::village
 hadishahr::village
@@ -181,64 +176,72 @@ hadzhidimitrovo::village
 hadzhiite::village
 hadzhiysko::village
 hadžići::village
+hæen::village
+hægeland::village
+haemodorum gracile::plant
+haemodorum laxum::plant
+haemodorum simplex::plant
+haemodorum spicatum::plant
 haemorrhage:大出血
+hænsgardane::village
+hærland::village
 haer::village
 haeska::village
 hafdaran::village
-hafez::village
 hafezabad::village
+hafez::village
 haffar-e sharqi::village
 haffar::village
 hafizabad::village
 hafnir::village
 hafslo::village
+haftabad::village
+haftadar::village
+haftad mish::village
+haftan-e olya::village
 haft ashian::village
 haft ashiyan::village
 haft asiab::village
+haftavan::village
 haft badam::village
 haft band::village
+haft cheshmeh::village
 haft cheshmeh-ye dalun::village
 haft cheshmeh-ye jahanshah::village
 haft cheshmeh-ye lishtar::village
-haft cheshmeh::village
 haft dasht-e olya::village
+hafteh khanak::village
+haftevan::village
+hafthar::village
+haftian::village
+haftjan::village
 haft jubeh::village
 haft jush::village
 haft juy::village
 haft kadeh::village
 haft kani::village
 haft khaneh::village
+haftkhaneh::village
 haft khani::village
+haftkhan::village
 haft kol::village
 haft pareh::village
 haft piran::village
 haft rangu::village
 haft sanduq::village
+haftsaran::village
 haft shahidan::village
+haftshuiyeh::village
 haft sui::village
 haft tanan::village
 haft tappeh::village
 haft tash::village
-haft yaran::village
-haftabad::village
-haftad mish::village
-haftadar::village
-haftan-e olya::village
-haftavan::village
-hafteh khanak::village
-haftevan::village
-hafthar::village
-haftian::village
-haftjan::village
-haftkhan::village
-haftkhaneh::village
-haftsaran::village
-haftshuiyeh::village
 haftuman::village
 haftvaneh::village
-haga::village
+haft yaran::village
 hagaste::village
 hagavik::village
+haga::village
 hagedal::village
 hageri::village
 haghartsin::village
@@ -248,13 +251,13 @@ hagimus::village
 hagudi::village
 hagvi::village
 hagyárosbörönd::village
-hah shamiz::village
-haho::village
+ha hang::village
 hahót::village
-hai::village
-haiba::village
+haho::village
+hah shamiz::village
 haibatmau::village
 haibatpur::village
+haiba::village
 haider khel::village
 haidrabad bet::village
 haidrabad dona::village
@@ -268,201 +271,71 @@ hainesville::village
 hainewalde::village
 hainswa::village
 haiok::village
+hair:头发
 hair grip:发夹
 hair pin:发针
 hair pin:簪
-hair:头发
 haisterbach::village
 haisthorpe::village
 haiti:海地
+hai::village
 hajapar::village
-hajar abyad::village
 hajarabad::village
+hajar abyad::village
+hajatan::village
 hajat aqa::village
 hajat::village
-hajatan::village
 hajazi::village
 hajciunishki::village
 hajguiyeh::village
-haji baqer kandi::village
-haji baran::village
-haji danter::village
-haji jalal din shar::village
-haji kahu::village
-haji karamabad::village
-haji kusa::village
-hajiabad khazneh golchat::village
 hajiabad, corrin::village
-hajiabad, nosratabad::village
-hajiabad, zahedan::village
 hajiabad-e aval vazhdad::village
 hajiabad-e aval::village
 hajiabad-e dovom::village
 hajiabad-e fajr::village
 hajiabad-e minooyi::village
 hajiabad-e poodchah::village
+hajiabad khazneh golchat::village
+hajiabad, nosratabad::village
 hajiabad::village
+hajiabad, zahedan::village
 hajiamir-e bala::village
 hajiamir-e pain::village
+haji baqer kandi::village
+haji baran::village
 hajib::village
+haji danter::village
+haji jalal din shar::village
 hajij-e bozorg::village
+haji kahu::village
+haji karamabad::village
+haji kusa::village
 hajin::village
 hajipur::village
 hajiwala::village
-hajj abd::village
 hajj abdal::village
 hajj abdeh mohammad::village
+hajj abd::village
 hajj adam bazar::village
 hajj ahmad kandi::village
+hajjaji::village
+hajjaj::village
 hajj ali hiki::village
-hajj amir kandi::village
+hajjali::village
 hajj amir-e vanehbin::village
+hajj amir kandi::village
+hajjampura::village
 hajj aqa::village
 hajj arash::village
+hajjateh::village
+hajjati::village
+hajjat kadeh::village
 hajj bahram mahalleh::village
 hajj bolagh::village
 hajj ebrahim deh::village
+hajj-e saleh-e lusi::village
 hajj esmaeil::village
 hajj hasan kandi::village
-hajj kaka::village
-hajj karim::village
-hajj kazemi::village
-hajj khadijeh::village
-hajj khalil::village
-hajj khassaf::village
-hajj mariyeh::village
-hajj mazarb::village
-hajj mohammad alishah::village
-hajj naj::village
-hajj qalandar::village
-hajj qeshlaq::village
-hajj rajab::village
-hajj salar::village
-hajj salim mahalleh::village
-hajj shahbaz mahalleh::village
-hajj siran::village
-hajj yadollah mahalleh::village
-hajj yusef::village
-hajj-e saleh-e lusi::village
-hajjaj::village
-hajjaji::village
-hajjali::village
-hajjampura::village
-hajjat kadeh::village
-hajjateh::village
-hajjati::village
-hajji abbas kandi::village
-hajji abd ol vahhab::village
-hajji abdol::village
-hajji abdollah bazar::village
-hajji ahmad kandi::village
-hajji ahmad shahvazayi::village
-hajji ahmad::village
-hajji ali kand::village
-hajji alian::village
-hajji aqa kandi::village
-hajji aqa::village
-hajji aqam ali kandi::village
-hajji arab::village
-hajji aziz-e cheshmeh sefid::village
-hajji baba khan::village
-hajji babakhan::village
-hajji babay-e olya::village
-hajji babay-e sofla::village
-hajji babay-e vosta::village
-hajji bachcheh::village
-hajji baghlu::village
-hajji bakhtiar::village
-hajji bala beyglu::village
-hajji balkhan::village
-hajji baluch khan::village
-hajji bayram::village
-hajji bazar::village
-hajji behzad::village
-hajji bekandeh::village
-hajji beyg::village
-hajji beygi::village
-hajji beyk-e olya::village
-hajji beyk-e sofla::village
-hajji beyk::village
-hajji bijar va jas ganas::village
-hajji deh::village
-hajji dela::village
-hajji esmail iman khan::village
-hajji eynak::village
-hajji fath ali::village
-hajji fattah-e beg::village
-hajji firuz::village
-hajji ghaldeh::village
-hajji gholamreza::village
-hajji hasan-e khaleseh::village
-hajji hasan-e olya::village
-hajji hasan::village
-hajji havar kandi::village
-hajji hazer::village
-hajji hemmatlu::village
-hajji hoseyn shirzehi::village
-hajji hoseyn::village
-hajji jafan::village
-hajji jafar kandi::village
-hajji jalil::village
-hajji javad::village
-hajji kalateh::village
-hajji kamal::village
-hajji kand::village
-hajji kandi-ye olya::village
-hajji kandi-ye sofla::village
-hajji kandi::village
-hajji khademi::village
-hajji kheder::village
-hajji khvosh::village
-hajji kola-ye arazlu::village
-hajji kola-ye olya::village
-hajji kola-ye sanam::village
-hajji kola-ye sofla::village
-hajji kola::village
-hajji kord::village
-hajji lak::village
-hajji madad::village
-hajji mahalleh::village
-hajji mahmud::village
-hajji malang kharut::village
-hajji malek shirzayi::village
-hajji malek::village
-hajji mamdan::village
-hajji mamian::village
-hajji maqsud::village
-hajji moharab::village
-hajji morad::village
-hajji morteza kandi::village
-hajji mosayyeb::village
-hajji musa::village
-hajji nabi::village
-hajji nowrush kandi::village
-hajji nur mohammad bazar::village
-hajji pamoq::village
-hajji pirlu::village
-hajji qadart kandi::village
-hajji qaderdad bazar::village
-hajji qareh::village
-hajji qelich::village
-hajji qushan::village
-hajji rasul::village
-hajji sabzan::village
-hajji sara::village
-hajji seyflu::village
-hajji shirkia::village
-hajji shureh::village
-hajji siab kandi::village
-hajji sufi::village
-hajji tahereh::village
-hajji tappeh::village
-hajji taqi::village
-hajji tu::village
-hajji yar::village
-hajji yuseflu-ye olya::village
-hajji yuseflu-ye sofla::village
-hajji::village
 hajjiabad beshaq::village
 hajjiabad darvish::village
 hajjiabad-e amlak::village
@@ -503,103 +376,252 @@ hajjiabad-e yarahmadi::village
 hajjiabad-e yek::village
 hajjiabad-e zarrin::village
 hajjiabad::village
+hajji abbas kandi::village
+hajji abdollah bazar::village
+hajji abd ol vahhab::village
+hajji abdol::village
+hajji ahmad kandi::village
+hajji ahmad shahvazayi::village
+hajji ahmad::village
+hajji alian::village
+hajji ali kand::village
 hajjian::village
+hajji aqa kandi::village
+hajji aqam ali kandi::village
+hajji aqa::village
+hajji arab::village
+hajji aziz-e cheshmeh sefid::village
+hajji baba khan::village
+hajji babakhan::village
+hajji babay-e olya::village
+hajji babay-e sofla::village
+hajji babay-e vosta::village
+hajji bachcheh::village
+hajji baghlu::village
+hajji bakhtiar::village
+hajji bala beyglu::village
+hajji balkhan::village
+hajji baluch khan::village
+hajji bayram::village
+hajji bazar::village
+hajji behzad::village
+hajji bekandeh::village
+hajji beygi::village
+hajji beyg::village
+hajji beyk-e olya::village
+hajji beyk-e sofla::village
+hajji beyk::village
+hajji bijar va jas ganas::village
+hajji deh::village
+hajji dela::village
+hajji esmail iman khan::village
+hajji eynak::village
+hajji fath ali::village
+hajji fattah-e beg::village
+hajji firuz::village
+hajji ghaldeh::village
+hajji gholamreza::village
+hajji hasan-e khaleseh::village
+hajji hasan-e olya::village
+hajji hasan::village
+hajji havar kandi::village
+hajji hazer::village
+hajji hemmatlu::village
+hajji hoseyn shirzehi::village
+hajji hoseyn::village
+hajji jafan::village
+hajji jafar kandi::village
+hajji jalil::village
+hajji javad::village
+hajji kalateh::village
+hajji kamal::village
+hajji kandi::village
+hajji kandi-ye olya::village
+hajji kandi-ye sofla::village
+hajji kand::village
+hajji khademi::village
+hajji kheder::village
+hajji khvosh::village
+hajji kola::village
+hajji kola-ye arazlu::village
+hajji kola-ye olya::village
+hajji kola-ye sanam::village
+hajji kola-ye sofla::village
+hajji kord::village
+hajji lak::village
 hajjilar qaleh::village
 hajjilar::village
 hajjileh::village
 hajjilu::village
+hajji madad::village
+hajji mahalleh::village
+hajji mahmud::village
+hajji malang kharut::village
+hajji malek shirzayi::village
+hajji malek::village
+hajji mamdan::village
+hajji mamian::village
+hajji maqsud::village
+hajji moharab::village
+hajji morad::village
+hajji morteza kandi::village
+hajji mosayyeb::village
+hajji musa::village
+hajji nabi::village
+hajji nowrush kandi::village
+hajji nur mohammad bazar::village
+hajji pamoq::village
+hajji pirlu::village
+hajji qadart kandi::village
+hajji qaderdad bazar::village
+hajji qareh::village
+hajji qelich::village
+hajji qushan::village
+hajji rasul::village
+hajji sabzan::village
+hajji sara::village
+hajji seyflu::village
+hajji shirkia::village
+hajji shureh::village
+hajji siab kandi::village
+hajji sufi::village
+hajji tahereh::village
+hajji tappeh::village
+hajji taqi::village
+hajji tu::village
+hajji::village
+hajji yar::village
 hajjiyeh mahalleh::village
 hajjiyeh::village
-hajmás::village
+hajji yuseflu-ye olya::village
+hajji yuseflu-ye sofla::village
+hajj kaka::village
+hajj karim::village
+hajj kazemi::village
+hajj khadijeh::village
+hajj khalil::village
+hajj khassaf::village
+hajj mariyeh::village
+hajj mazarb::village
+hajj mohammad alishah::village
+hajj naj::village
+hajj qalandar::village
+hajj qeshlaq::village
+hajj rajab::village
+hajj salar::village
+hajj salim mahalleh::village
+hajj shahbaz mahalleh::village
+hajj siran::village
+hajj yadollah mahalleh::village
+hajj yusef::village
 hajmáskér::village
-haju::village
+hajmás::village
 hajur::village
-hak-e olya::village
-hak-e sofla::village
+haju::village
 hakadal::village
 hakami::village
 hakan::village
 hakavan::village
-haki::village
+håkavik::village
+hakea neospathulata::plant
+hakea pachyphylla::plant
+hakea pendens::plant
+hakea pritzelii::plant
+hakea propinqua::plant
+hakea psilorrhyncha::plant
+hakea recurva'' subsp. ''arida::plant
+hakea recurva'' subsp. ''recurva::plant
+hakea rigida::plant
+hakea trineura::plant
+hakea tuberculata::plant
+hakea verrucosa::plant
+ha keng hau::village
+hak-e olya::village
+hak-e sofla::village
+hakimabad::village
 hakim bashi-ye bala::village
 hakim bashi-ye hoseynabad::village
 hakim beg::village
+hakimpet::village
 hakim qeshlaqi::village
 hakim rigi::village
-hakimabad::village
-hakimpet::village
+haki::village
 hakjala::village
 hakmehmet::village
 hako::village
 hakran::village
 hakverdi::village
-hal::village
-hala::village
 halabi::village
 halabor::village
+halaçlı::village
+halaç::village
 haladar::village
+halafaleh::village
 halaf-e do::village
 halaf-e seh::village
 halaf-e yek::village
-halafaleh::village
 halagama::village
 halagatti::village
 halah qush::village
 halaj::village
-halak dar khadarham::village
 halakabad::village
 halakadar::village
 halakarni::village
+halak dar khadarham::village
 halakere::village
 halaki::village
 halakusugal::village
-halal kola::village
 halalabad::village
 halaleh-ye manzel::village
 halali::village
+halal kola::village
 halalli::village
 halalo::village
 halamah::village
-halan::village
+hålandsmarka::village
+hålandsosen::village
 halangoda::village
+halan::village
 halapada::village
 halarteh::village
 halarud::village
 halasal::village
 halastó::village
 halasy::village
-halat::village
+halászi::village
 halateh::village
+halat::village
 halavan-e pain::village
 halavan::village
+hala::village
 halawah::village
-halaç::village
-halaçlı::village
 halban::village
 haldarvas::village
-haldi::village
 haldia, bangladesh::village
+haldi::village
 haldreka::village
+hałdrychowice::village
 haldur::village
-hale tegur::village
-hale upparahalli::village
-hale yaragudri::village
-hale::village
 haleangadi::village
 halefoğlu::village
 haleh kaleh::village
+halehsam::village
 haleh siah::village
 haleh::village
-halehsam::village
 haleji sharif::village
+ha lejone::village
 halekotta::village
 halenahalli::village
 halenda::village
 haler::village
 hales corners::village
-hales::village
 halestan::village
+hales::village
+hale tegur::village
 haletoragal::village
+hale upparahalli::village
+hale::village
+hale yaragudri::village
 half:半
 halfway house::village
 halfway::village
@@ -612,24 +634,24 @@ halhal-e sofla::village
 halhjem::village
 hali akhund::village
 hali bagh::village
-hali bon::village
-hali khal::village
-hali koti::village
 halib mentel::village
+hali bon::village
 halidasht::village
 halidzor::village
 halifan::village
 halifax:哈利法克斯
-halife::village
 halifeli::village
+halife::village
 haliketi::village
-halil rud::village
+hali khal::village
+hali koti::village
 halilabad::village
 halilarpaç::village
 halilbaba::village
 halilbeyli::village
-halileh::village
 halilehi::village
+halileh::village
+halil rud::village
 halilu::village
 halim alizehi::village
 halimba::village
@@ -646,31 +668,31 @@ halkalı::village
 halkan::village
 halkar::village
 halkun::village
-hall of fame:名人堂
 hall:大厅
-hallaj mahalleh::village
+hallajabad::village
 hallaj-e olya::village
 hallaj-e sofla::village
-hallajabad::village
+hallaj mahalleh::village
 hallam::village
 hallavar::village
 hallbankgate::village
-halle::village
 hallen::village
 haller::village
+halle::village
 halligeri::village
 hallikeri::village
 halliku::village
 hallingby::village
+hallı::village
+hall of fame:名人堂
 halloughton::village
 halloussiyeh::village
 hallschlag::village
 halltown::village
 hallucinogenic drug:致幻药
 hallum::village
-hallı::village
-halmaj::village
 halmajugra::village
+halmaj::village
 halmat::village
 halmehikandura::village
 halminiya::village
@@ -685,51 +707,49 @@ halpola::village
 halqeh basteh::village
 halqeh sang::village
 halqeh sara::village
-halsa::village
 halsanaustan::village
+halsa::village
 halsey::village
 haltdalen::village
 haltushan::village
 halu bon darreh::village
 halu chak::village
 halu kaleh::village
-halu poshteh::village
-halu::village
 halukhani::village
 halulan::village
 halumsar::village
+halu poshteh::village
 halush::village
 haluvalli::village
+halu::village
 haluzhan::village
 halva cheshmeh::village
+halvai::village
 halvai-ye do::village
 halvai-ye seh::village
-halvai::village
-halvan::village
 halvans::village
-halveh::village
+halvan::village
+hälvati::village
 halvehhani::village
+halveh::village
+hal::village
 halvrimmen::village
 halwill::village
 halyal::village
 halychany::village
 halytsynivka::village
-halászi::village
-ham chan::village
-ham neshin::village
-ham::village
 ham:火腿
 hamadan seljeh::village
 hamadan::village
-hamam::village
 hamamak::village
 hamamlı::village
+hamam::village
+hamandeh::village
 hamand khaleseh vadan::village
 hamand kilan::village
 hamand kuhan va kurdar::village
 hamand lamsar::village
 hamand::village
-hamandeh::village
 hamaneh::village
 hamarahlu::village
 hamat::village
@@ -738,9 +758,10 @@ hambal::village
 hambok::village
 hambowal::village
 hambrook::village
-hamburg::village
 hamburg:汉堡
 hamburger:汉堡包
+hamburg::village
+ham chan::village
 hamdah::village
 hamdallaye::village
 hamdamlu::village
@@ -752,10 +773,12 @@ hamech::village
 hamedanak::village
 hameed pur kalan::village
 hameed::village
+hämeenmäki::village
 hameh ja::village
 hameh kasi::village
 hameh shan::village
 hameh sin::village
+ha mei san tsuen::village
 hamel::village
 hamernia::village
 hamerton::village
@@ -764,19 +787,18 @@ hameyran::village
 hamgam::village
 hamgin::village
 hamhang::village
-hami::village
-hamid assad khan::village
-hamid khedi::village
-hamid::village
 hamidabad::village
-hamidan::village
 hamidaniyeh::village
+hamidan::village
+hamid assad khan::village
 hamidgu::village
 hamidi::village
+hamidiyeh::village
 hamidiye, nazilli::village
 hamidiye::village
-hamidiyeh::village
+hamid khedi::village
 hamidullanagar::village
+hamid::village
 hamilabad::village
 hamile::village
 hamilton:汉密尔顿
@@ -794,31 +816,34 @@ hamitabat::village
 hamitbey::village
 hamitköy::village
 hamitler::village
+hami::village
 hamiville::village
 hamjago::village
 hamlabad::village
 hammad::village
 hammaguir::village
-hammam qaleh::village
-hammam::village
-hammami::village
 hammamian::village
+hammami::village
 hammamlar::village
 hammamlu-e bala::village
 hammamlu-e pain::village
 hammamlu::village
+hammam qaleh::village
+hammam::village
 hammarsland::village
 hammarvika::village
+hämmelepa::village
 hammer:锤子
 hammers:锤子
 hammersbach::village
 hammerstad::village
 hammigi::village
 hammond::village
+ham neshin::village
 hamouriyah::village
 hamouro::village
-hampa::village
 hampasandra::village
+hampa::village
 hampstead::village
 hampton court::village
 hampton gay::village
@@ -835,82 +860,81 @@ hamsterley mill::village
 hamsterley::village
 hamstreet::village
 hamud-e asi::village
-hamud::village
-hamudi-ye sadun::village
 hamudi::village
+hamudi-ye sadun::village
+hamud::village
 hamuleh::village
-hamun::village
 hamunabad::village
+hamun::village
 hamurkesen::village
 hamurlu::village
-hamvar kandi::village
 hamvar-e kulivand::village
+hamvar kandi::village
+ham::village
 hamyanak::village
 hamyaneh::village
 hamyard::village
 hamzabali, yenipazar::village
-hamzabey::village
 hamzabeyli::village
+hamzabey::village
 hamzah qarnian::village
 hamzak::village
 hamzalar::village
-hamzallı, nazilli::village
 hamzalı, Şereflikoçhisar::village
 hamzalı::village
+hamzallı, nazilli::village
 hamzang::village
 hamzanlu::village
 hamzar::village
+hamzehabad-e olya::village
+hamzehabad-e sofla::village
+hamzehabad::village
 hamzeh ali::village
 hamzeh beygi::village
 hamzeh deh-e olya::village
 hamzeh deh-e sofla::village
+hamzehi::village
 hamzeh kandi::village
 hamzeh kanlu::village
+hamzehkhani::village
 hamzeh kola-ye shesh pol::village
 hamzeh lan::village
-hamzeh qasem::village
-hamzeh reza::village
-hamzeh-ye olya::village
-hamzeh-ye sofla::village
-hamzeh::village
-hamzehabad-e olya::village
-hamzehabad-e sofla::village
-hamzehabad::village
-hamzehi::village
-hamzehkhani::village
+hamzehlu::village
 hamzehlu-ye olya::village
 hamzehlu-ye sofla::village
-hamzehlu::village
+hamzeh qasem::village
+hamzeh reza::village
+hamzeh::village
+hamzeh-ye olya::village
+hamzeh-ye sofla::village
 hamzian-e olya::village
 hamzian-e sofla::village
-han::village
-hana shur::village
-hana::village
 hanabar hatti::village
 hanadan::village
 hanaford::village
 hanai sarrigan::village
-hanama sagar::village
-hanamana hatti::village
 hanamanahalli::village
+hanamana hatti::village
 hanamanhal::village
 hanamapur (s.u.)::village
 hanamapur::village
+hanama sagar::village
 hanamasagar::village
 hanamsagar::village
 hanaouay::village
 hanashi::village
+hana shur::village
 hanatiyeh::village
+hana::village
 hanbarwadi::village
 hanburun::village
+hancăuți::village
+hanchinala::village
 hanchinal (k.k.)::village
 hanchinal (k.s.)::village
-hanchinala::village
-hancock::village
-hancăuți::village
-hancıgaz::village
 hancıçiftliği::village
-hand-e zamin::village
+hancıgaz::village
+hancock::village
 hand:手
 handabowa::village
 handaganawa::village
@@ -921,6 +945,7 @@ handeck::village
 handeh-ye rabi::village
 handerki::village
 handessa::village
+hand-e zamin::village
 handia::village
 handicapped:残障的
 handiganala::village
@@ -939,61 +964,62 @@ haneh gelan::village
 haneh sheykhan::village
 hanestad::village
 hanevik::village
-hang chineh::village
-hang hau village::village
-hang mei tsuen::village
-hang over:宿醉
-hang tau tsuen::village
-hang-e zhaleh::village
-hanga::village
 hangabad::village
+hangács::village
 hangam cooperative::village
 hangan::village
-hangar-e pain::village
-hangaran oya::village
 hangarandeniya::village
+hangaran oya::village
 hangarapitiya::village
+hangar-e pain::village
 hangarge::village
 hangarki::village
+hanga::village
+hänga::village
+hang chineh::village
 hangeh-ye zhal::village
 hangestan::village
+hang-e zhaleh::village
 hanggai::village
-hangi-ye sofla::village
-hanging heaton::village
+hang hau village::village
 hanging:绞刑
+hanging heaton::village
+hangi-ye sofla::village
 hangloa::village
+hang mei tsuen::village
 hangna::village
 hangony::village
+hang over:宿醉
 hangran oya::village
 hangravan::village
+hang tau tsuen::village
 hanguranketa::village
-hangács::village
-hani garmaleh::village
 hanif::village
+hani garmaleh::village
 hanila::village
 hanipur::village
-hanis::village
 hanishiyeh::village
+hanis::village
 haniyan::village
-hanjan::village
 hanjanatti::village
+hanjan::village
 hanjarak-e bala::village
 hanjaruiyeh::village
-hank::village
 hankendi::village
+hank::village
 hanlar::village
 hanley child::village
 hanley hills::village
 hanley william::village
 hanna city::village
+hannêche::village
 hannikeri::village
 hannington::village
-hannêche::village
 hanover park::village
 hanover::village
 hanrgram::village
-hansan::village
 hansanagari::village
+hansan::village
 hansca::village
 hansdiha::village
 hanskhali::village
@@ -1001,28 +1027,30 @@ hansowala::village
 hansweert::village
 hantabad::village
 hantos::village
-hantum::village
 hantumhuzen::village
+hantum::village
 hanulan::village
-hanum::village
 hanumanpur::village
 hanumanthulagudem::village
 hanumanthunipadu::village
 hanumantpada::village
 hanumapur::village
+hanum::village
 hanushi::village
 hanuzi::village
+han::village
 hanwara::village
 hanyandar::village
 hanyeri::village
-hanza::village
 hanzaf::village
 hanzak::village
 hanzaleh::village
+hanza::village
 haouch barada::village
 haoud el hamra::village
 hapelaneh::village
 hapik bolagh::village
+hapıtlı::village
 haplaran::village
 hapowal::village
 happan::village
@@ -1041,32 +1069,26 @@ hapugaspitiya::village
 hapugoda::village
 hapukanda::village
 hapupe::village
-haput::village
 haputale pallegama::village
 haputale udagama::village
 haputale udagammedda::village
+haput::village
 hapuwala::village
-hapıtlı::village
-haq ol khvajeh::village
-haq::village
 haqaniyeh::village
 haqnabad::village
 haqnəzər::village
+haq ol khvajeh::village
 haqqabad::village
 haqqeh::village
 haqqiyeh::village
 haqvaran::village
-haqverdi::village
 haqverdilər::village
-har do ab rud::village
-har do ab::village
-har do rud::village
-har kareh::village
-hara::village
-harab::village
+haqverdi::village
+haq::village
 haraba::village
 harabdeh::village
 harabekayış::village
+harab::village
 haracherite::village
 haradanahalli::village
 haragama::village
@@ -1080,16 +1102,15 @@ harakpur::village
 haraktor::village
 haralakatti::village
 haralapur::village
-haram::village
 haramabad::village
 haramian-e olya::village
 haramian-e sofla::village
 haramil::village
 haramlu::village
-haran::village
-harana::village
+haram::village
 haranabush::village
 haranak::village
+harana::village
 harandeh::village
 harangala::village
 harangan::village
@@ -1098,8 +1119,9 @@ harankahagoda::village
 harankahawa::village
 harankol::village
 haranmar::village
-harar-e kalgah-e shiraz::village
+haran::village
 hararan::village
+harar-e kalgah-e shiraz::village
 harariz::village
 harasanwadi::village
 harasban::village
@@ -1109,6 +1131,7 @@ harasztifalu::village
 harat bar::village
 haratbar::village
 haravanj::village
+hara::village
 harawa::village
 harayjan::village
 harazjan::village
@@ -1120,49 +1143,52 @@ harbledown::village
 harboungou::village
 harbrinkhoek::village
 harbutowice::village
-harc::village
 harchegan::village
 harchin::village
 harchowal::village
-hard to tell:很难说
+harc::village
 hard:硬的
-hardan::village
 hardang::village
-hardas::village
+hardan::village
 hardasipur::village
 hardaspur::village
+hardas::village
 hardgate::village
-hardi::village
-hardin::village
-harding::village
+hardîne::village
 hardingstone::village
+harding::village
+hardin::village
 harditerha::village
+hardi::village
 hardiya::village
+har do ab rud::village
+har do ab::village
+hardoi::village
 hardo jhanda::village
 hardo pharala::village
+har do rud::village
 hardo sangha::village
 hardo saran::village
 hardo sheikh::village
-hardoi::village
-hardow rud::village
 hardowal::village
+hardow rud::village
+hard to tell:很难说
+harduia::village
 hardu shichan::village
 hardu toru::village
-harduia::village
 hardware:硬件
 hardwick::village
 hardy::village
-hardîne::village
-hare hatch::village
 hare:长耳兔
 harefield::village
 haregaon::village
+hare hatch::village
 hareh bagh-e khayyat::village
 hareh dasht::village
+harehill::village
 hareh pak::village
 hareh shun dasht::village
 hareh::village
-harehill::village
 harelaw::village
 haremtepe::village
 haren::village
@@ -1171,11 +1197,11 @@ harfili::village
 hargalan::village
 hargenush::village
 hargla::village
+härgla::village
 hargondi::village
 hargrave::village
-hari kandeh::village
-hari::village
 hariaj::village
+haría::village
 harich::village
 haridaspur::village
 haridrabaria::village
@@ -1183,6 +1209,7 @@ harif::village
 harigarh::village
 harihans::village
 harijan::village
+hari kandeh::village
 harilaqi::village
 harileh::village
 harimabad::village
@@ -1190,29 +1217,33 @@ haringhuizen::village
 haripal::village
 haripirala::village
 haripora::village
+haripuram::village
 haripur khalsa::village
 haripur::village
-haripuram::village
 hariqan::village
 harir::village
-haris::village
 harisan::village
 harishchandrapur::village
 harishi::village
 harisk-e olya::village
+haris::village
 harivand::village
+hari::village
 hariyeh::village
 harizeh::village
 harjab::village
+härjadi::village
+härjanurme::village
 harji::village
 harju-risti::village
 harju::village
-harka::village
 harkabud-e golzar::village
+harkaleh::village
 harkaleh-ye mohammad jafar::village
 harkaleh-ye monari::village
-harkaleh::village
+har kareh::village
 harkatta::village
+harka::village
 harkema::village
 harkian::village
 harkishanpur tikra::village
@@ -1224,9 +1255,9 @@ harlesthorpe::village
 harleston::village
 harlingerode::village
 harlington::village
-harm::village
 harm:伤害
 harmadih::village
+härmakosu::village
 harmak, zahedan::village
 harmanardı::village
 harmancık::village
@@ -1234,65 +1265,71 @@ harmankaya::village
 harmanlı::village
 harmantepe::village
 harmațca::village
+härma::village
+härmä::village
 harmer hill::village
 harmful:有害的
-harmi::village
 harmidul::village
 harmileh::village
-harmon::village
+harmi::village
 harmondsworth::village
 harmonica:口琴
-harmu::village
+harmon::village
 harmuiyeh::village
-harna::village
+harmu::village
+harm::village
 harnahi::village
 harnam khera::village
 harnashak::village
+harna::village
 harnawa::village
 harni::village
 haroa::village
 harobelavadi::village
 harogeri::village
+háromfa::village
+háromhuta::village
 harom::village
 harora aht.::village
 harora must.::village
 harouf::village
 harp:竖琴
 harpefoss::village
-harpur::village
 harpura::village
+harpur::village
 harqal::village
 harrafteh::village
 harrah, yemen::village
 harrakheda::village
 harran::village
 harrietta::village
-harris::village
 harrisburg::village
 harriseahead::village
-harrison::village
 harrisonburg::village
+harrison::village
 harristown::village
+harris::village
 harrity::village
 harrowbarrow::village
-harry stoke::village
 harry:骚扰
+harry stoke::village
+harsány::village
 harsari::village
 harsha chhina::village
 harshir-e imani::village
 harshpur::village
 harsian::village
 harsin::village
+hárskút::village
 harsovo::village
 harsvika::village
 harswell::village
-harsány::village
-hart common::village
-harta::village
 hartala::village
 hartashen::village
 hartavan::village
+harta::village
 hartburn::village
+hart common::village
 hartford::village
 harthill::village
 harthiyah::village
@@ -1301,22 +1338,23 @@ hartsburg::village
 hartshead::village
 hartwood::village
 harugoppa::village
-harun bazar::village
-harun kola::village
-harun va sakez::village
 harunabad-e olya::village
 harunabad-e sofla::village
 harunabad::village
+harun bazar::village
+harungana madagascariensis::plant
 haruni::village
 haruniyeh::village
+harun kola::village
+harun va sakez::village
 haruri::village
 haruwal::village
 harvard:哈佛
 harvel::village
 harwood heights::village
 harwood::village
-haryan::village
 haryana:哈里亚纳邦(印度)
+haryan::village
 harzanaq::village
 harzand-e atiq::village
 harzand-e jadid::village
@@ -1325,57 +1363,93 @@ harzeh varz::village
 harzel kuh::village
 harzeneh::village
 harzhis::village
-haría::village
 has:有
 hasabdal::village
 hasai::village
 hasakothur::village
 hasampura::village
-hasan abdal::village
+hasanabad-e jahanabad::village
+hasanabad-e khaleseh::village
+hasanabad-e majd ol dolleh::village
+hasanabad-e pain::village
+hasanabad-e shandak::village
+hasanabad-e sofla::village
+hasanabad-e yek::village
+hasanabad::village
 hasan abdali::village
+hasan abdal::village
+hasanağa::village
+hasanak dar::village
+hasanak::village
 hasan ali darreh forkh::village
 hasan ali deh::village
-hasan ali-ye kadkhodalu::village
+hasanali kandi::village
 hasan ali::village
+hasan ali-ye kadkhodalu::village
 hasan aqai::village
 hasan aqeh::village
+hasana-ye hajjiabad-e hajji ebrahim::village
 hasan bagi-ye rika::village
 hasan bakul::village
 hasan baruq::village
 hasan bekandeh::village
-hasan beyg mordeh::village
 hasan beyglu::village
+hasan beyg mordeh::village
+hasanbeyli::village
+hasanbey::village
 hasan boqeh::village
+hasancalı::village
+hasanchak::village
 hasan chap::village
 hasan dayerman::village
+hasandede::village
+hasandere::village
+hasan-e aliabad::village
+hasanefendi::village
+hasan-e kamali::village
+hasan-e mazlum::village
 hasan gavdari::village
 hasan gaviyar::village
+hasangaya::village
+hasangazi::village
 hasan hajji::village
+hasanhati::village
 hasan hendow::village
 hasan heydar::village
 hasan jafar zehi::village
+hasanjan kuh::village
+hasanjan::village
 hasan jun::village
 hasan kandi kuh::village
 hasan kandi rud::village
 hasan kandi::village
+hasankendi::village
 hasan khan baghi::village
+hasankhandan::village
 hasan khan darrehsi::village
-hasan khan::village
 hasan khani::village
+hasan khan::village
 hasan khordu::village
 hasan kohal::village
 hasan kolangi::village
 hasan kusej::village
 hasan langi-ye bala::village
 hasan langi-ye pain::village
+hasanlar::village
+hasanlı::village
+hasanlu::village
 hasan mast::village
 hasan nezam::village
 hasan nuran::village
+hasanova::village
 hasan owlan::village
 hasan owleh::village
+hasanpaşa::village
+hasanpura::village
+hasanpur::village
 hasan qareh::village
-hasan qeshlaq::village
 hasan qeshlaqi::village
+hasan qeshlaq::village
 hasan qoli khan::village
 hasan robat-e pain::village
 hasan rud::village
@@ -1386,48 +1460,11 @@ hasan sheykh::village
 hasan su::village
 hasan tabib::village
 hasan tayyeb::village
+hasantepe::village
 hasan teymur-e olya::village
 hasan teymur::village
-hasan-e aliabad::village
-hasan-e kamali::village
-hasan-e mazlum::village
-hasan::village
-hasana-ye hajjiabad-e hajji ebrahim::village
-hasanabad-e jahanabad::village
-hasanabad-e khaleseh::village
-hasanabad-e majd ol dolleh::village
-hasanabad-e pain::village
-hasanabad-e shandak::village
-hasanabad-e sofla::village
-hasanabad-e yek::village
-hasanabad::village
-hasanak dar::village
-hasanak::village
-hasanali kandi::village
-hasanağa::village
-hasanbey::village
-hasanbeyli::village
-hasancalı::village
-hasanchak::village
-hasandede::village
-hasandere::village
-hasanefendi::village
-hasangaya::village
-hasangazi::village
-hasanhati::village
-hasanjan kuh::village
-hasanjan::village
-hasankendi::village
-hasankhandan::village
-hasanlar::village
-hasanlu::village
-hasanlı::village
-hasanova::village
-hasanpaşa::village
-hasanpur::village
-hasanpura::village
-hasantepe::village
 hasanur::village
+hasan::village
 hasarambi::village
 hasasaneh-ye bala::village
 hasasaneh-ye pain::village
@@ -1438,27 +1475,28 @@ hasbialaye::village
 hascombe::village
 hasdere, gazipaşa::village
 hasdümen, serik::village
+haselor::village
 hasel qubi-ye afshar::village
 hasel qubi-ye amirabad::village
-haselor::village
 hasgebe::village
 hasha kalayeh::village
+hashamar::village
 hasham balm::village
-hasham kuh::village
 hasham-e champeh::village
 hasham-e howdow::village
-hashamar::village
+hasham kuh::village
+ha shan kai wat::village
 hashan::village
 hasharabad::village
 hashcheh-ye makineh::village
 hashcheh-ye olya::village
 hashcheh-ye sofla::village
 hasheh::village
-hashem beg::village
 hashemabad-e soltani::village
 hashemabad::village
 hashemak::village
 hashemanli::village
+hashem beg::village
 hashiabad::village
 hashian::village
 hashieh rud::village
@@ -1467,30 +1505,31 @@ hashimpur::village
 hashish::village
 hashkova::village
 hashli::village
+hashtabad::village
+hashtadan::village
+hashtad joft::village
+hashtari::village
+hashtaruchuni::village
 hasht bandi-ye do::village
+hashtian::village
+hashtijan::village
 hasht jofteh::village
 hasht markh::village
 hasht pashtuleh::village
 hasht peyman::village
-hashtabad::village
-hashtad joft::village
-hashtadan::village
-hashtari::village
-hashtaruchuni::village
-hashtian::village
-hashtijan::village
 hashtugan::village
 hashvid::village
+hasići::village
 hasil::village
 hasim::village
 hasin-e bozorg::village
 hasin-e kuchak::village
 hasiran::village
-hasići::village
 hasköy::village
 hasle::village
 hasnapur::village
 hasnarud::village
+hăsnășenii mari::village
 hasni kuh::village
 hasrajiyah::village
 hasratan::village
@@ -1507,18 +1546,18 @@ hasselvika::village
 hassi abdallah::village
 hassi bel guebour::village
 hassi khébi::village
+hassilabied::village
 hassi lahdjar::village
 hassi mounir::village
-hassilabied::village
 hassop::village
 hassuwal::village
-hast muiyeh::village
-hast::village
 hastak::village
 hastarla::village
-hasteh kuh::village
 hastehjuk::village
+hasteh kuh::village
 hastijan::village
+hast muiyeh::village
+hast::village
 hasu kandi::village
 hasulazgi::village
 hasur::village
@@ -1528,21 +1567,19 @@ hasvik::village
 haswell plough::village
 haswell::village
 hasyurt, finike::village
-hat basantapur::village
-hat mokamia::village
-hat::village
 hat:帽子
-hata::village
 hatadukkuwa::village
 hatai khedi::village
 hatakinhal::village
+hatamabad::village
 hatam qaleh::village
 hatam sara::village
-hatamabad::village
 hatamunagala::village
 hatane::village
-hatar::village
 hataraliyadda::village
+hatar::village
+hata::village
+hat basantapur::village
 hatch::village
 hatczyska::village
 hate:恨
@@ -1555,7 +1592,6 @@ hathigadh::village
 hathiwind::village
 hathlangoo::village
 hathugoda::village
-hati::village
 hatihe'u::village
 hatimari::village
 hatimrampur::village
@@ -1567,26 +1603,28 @@ hatipli::village
 hatipoğlu::village
 hatis::village
 hatiteh::village
+hati::village
 hatiyaldeniya::village
 hatiyalwela::village
-hatkeh posht::village
 hatkehlu::village
+hatkeh posht::village
 hatkoti::village
 hatley::village
 hatli jamula::village
 hatmabad::village
-hatna::village
+hat mokamia::village
 hatnagoda::village
+hatna::village
 hato::village
 hatpokhar::village
-hatra::village
 hatrant::village
+hatra::village
 hatred:憎恨
 hatsalatladi::village
 hatsashen::village
 hatsavan::village
-hatsik::village
 hatsikavan::village
+hatsik::village
 hatsina::village
 hatsukope::village
 hattalkhindi::village
@@ -1600,10 +1638,11 @@ hattikilla::village
 hattimuda::village
 hatton::village
 hattuvaara::village
-hatu::village
 hatuara::village
 hatugoda::village
 hatunlu::village
+hatu::village
+hat::village
 hatwa::village
 hatyaraala::village
 hauerseter::village
@@ -1619,32 +1658,33 @@ haukeli::village
 hauknes::village
 hauna::village
 haunton::village
-haus im ennstal::village
-haus::village
 hausen an der möhlin::village
 hausen im wiesental::village
 hausen::village
 hauset::village
+haus im ennstal::village
+häusling::village
 hausma::village
+haus::village
 hauswurz::village
-haut-martelange::village
 hautajärvi::village
 hautbellain::village
+haut-martelange::village
 hauwert::village
 hava daraq::village
 hava dul::village
 havalı::village
 havanduk::village
 havang-e pain::village
-havar kandi qeshlaqi::village
-havar::village
 havarabid::village
 havaran::village
 havareh barzeh::village
 havareh khul::village
+havar kandi qeshlaqi::village
+havar::village
+havashanq::village
 havas kandi::village
 havas::village
-havashanq::village
 havay::village
 havbro::village
 have:有
@@ -1652,8 +1692,8 @@ haveh::village
 haveli kalan::village
 haveli khurd::village
 haveli::village
-havelte::village
 havelterberg::village
+havelte::village
 haversham::village
 havian::village
 havigan::village
@@ -1664,11 +1704,12 @@ havistin::village
 havrylivka::village
 havullu::village
 havutlu::village
-havuz::village
 havuzlu::village
+havuz::village
 hawaii:夏威夷
-hawaiian islands:夏威夷群岛
 hawaiian:夏威夷人
+hawaiian islands:夏威夷群岛
+ha wan tsuen::village
 hawar kilis::village
 hawbridge::village
 hawijah fauqa::village
@@ -1681,6 +1722,8 @@ hawking:霍金
 hawkins::village
 hawkshaw::village
 hawley::village
+ha wo hang::village
+ha wong yi au::village
 haworth::village
 hawqa::village
 hawsh al-sayyid ali::village
@@ -1688,17 +1731,16 @@ hawston::village
 hawtat as sadah::village
 hawthorn::village
 hawyaw::village
-hay lakes::village
 hayalin::village
-hayan::village
 hayanist::village
-hayat ol gheyb::village
+hayan::village
 hayatabad-e khalifeh::village
 hayatabad-e majidi::village
+hayat ol gheyb::village
 hayatpur::village
+ha yau tin tsuen::village
 hayaviyeh::village
 hayawt::village
-haydar::village
 haydarköy::village
 haydarlar::village
 haydarli::village
@@ -1706,13 +1748,16 @@ haydarlı, nazilli::village
 haydarlı, Şereflikoçhisar::village
 haydarlı::village
 haydarpur::village
+haydar::village
 haydere::village
 haydon bridge::village
 hayes center::village
+ha yeung::village
 haykadzor::village
 haykasar::village
 haykashen::village
 haykavan::village
+hay lakes::village
 haylat radi al baham::village
 haymar::village
 haynan::village
@@ -1726,14 +1771,14 @@ haysville::village
 hayton::village
 hayyah kabirah::village
 hayyeh::village
-hazara::village
 hazarat ali::village
+hazara::village
 hazard::village
 hazaveh::village
 hazbeh::village
 hazel crest::village
-hazel green::village
 hazeley::village
+hazel green::village
 hazelwood::village
 hazerswoude-dorp::village
 hazipur::village
@@ -1742,24 +1787,20 @@ hazm haynan::village
 haznedar::village
 hazora::village
 hazrat-e soltan::village
-haçaqaya::village
-hałdrychowice::village
-he did not make it:他没挺过来
-he was born in los angeles:他出生于洛杉矶
 he:他
-head of state:国家元首
 head:头
 headache:头痛
 header:标题
 headlam::village
 headlands::village
 headley::village
+head of state:国家元首
 headphones:耳机
 headset:带麦克风耳机
 heage::village
+health:健康
 health care:健康护理
 health resort:疗养胜地
-health:健康
 healthy:健康的
 heamoor::village
 heap:堆
@@ -1790,21 +1831,23 @@ heddeland::village
 heddon-on-the-wall::village
 heded::village
 hedeniya::village
+hédervár::village
 hedgimadra::village
+he did not make it:他没挺过来
 hedikhuizen::village
 hedkan::village
 hedley on the hill::village
 hedrehely::village
 hedunuwawa::village
 hedwiżyn::village
-hee-gyathang::village
 heeg::village
+hee-gyathang::village
 heel:脚跟
 heelsum::village
-heer::village
 heeraganj::village
 heerewaarden::village
 heerjansdam::village
+heer::village
 heesch::village
 heesselt::village
 heestert::village
@@ -1814,11 +1857,11 @@ hegama::village
 hegasulla::village
 hegde::village
 hegelsom::village
-hegge::village
 heggelia::village
 heggem::village
 heggere::village
 heggeri::village
+hegge::village
 heggjabygda::village
 heggunda::village
 hegra::village
@@ -1832,39 +1875,39 @@ hegykő::village
 hegymagas::village
 hegymeg::village
 hegyszentmárton::village
-hei- en boeicop::village
+héhalom::village
+heiås::village
 heide::village
+hei- en boeicop::village
 heighington::village
 height:高度
 heigi::village
 heikant::village
-heilig landstichting::village
 heiligenthal::village
 heiligerlee::village
-heim::village
+heilig landstichting::village
 heimdal::village
 heimtali::village
+heim::village
 heinenoord::village
 heino::village
 heiranglwa::village
 heisler::village
 heispelt::village
 heistad::village
-heiste::village
 heistesoo::village
-heiås::village
-hej::village
+heiste::village
 hejce::village
-hejran dust::village
-hejran::village
-hejrat durab::village
-hejrat::village
 hejőbába::village
 hejőkeresztúr::village
 hejőkürt::village
 hejőpapi::village
 hejőszalonta::village
-hek::village
+hejran dust::village
+hejran::village
+hejrat durab::village
+hejrat::village
+hej::village
 heka-azimio::village
 hekal::village
 hekelingen::village
@@ -1872,64 +1915,71 @@ hekematabad::village
 hekendorp::village
 hekmatabad-e pain::village
 hekmatestan::village
+hek::village
 helaghareh::village
-helal::village
 helalabad::village
 helali::village
+helal::village
 helambagahawatta::village
 helan-e safarali::village
 helan::village
-helda::village
 heldalsmo::village
+helda::village
 heldra::village
-hele::village
 helemsi::village
 helena::village
 helenowo::village
 helenurme::village
 helesfa::village
+hele::village
 helford passage::village
 helgeroa::village
 helgheim::village
+helicia attenuata::plant
+helicia excelsa::plant
+helicia fuscotomentosa::plant
+helicia maxwelliana::plant
+helicia petiolaris::plant
+helicia pterygota::plant
 helicopter:直升飞机
 helis::village
 helium:氦
 heliveh::village
 helix:螺旋
 helizabad::village
-hell::village
 hell:地狱
-hellab::village
 hellabad::village
+hellab::village
 hellah dommah::village
 hellak::village
 hellamaa::village
 hellandsbygda::village
 hellandsjøen::village
 helldal::village
-helle::village
+helleborus cyclophyllus::plant
 helleh va delleh::village
+hèllèlè::village
 hellenurme::village
 hellerud::village
+helle::village
 hello:你好
 hellouw::village
 hellum::village
 hellurnar::village
 hellvik::village
+hell::village
+helmës::village
 helminths:寄生虫
 helmküla::village
 helmshore::village
-helmës::village
-help me:帮帮我
 help:帮助
 helperthorpe::village
 helpful:有帮助的
+help me:帮帮我
 heltermaa::village
 helton::village
-helva::village
 helvacı::village
-hem heath::village
-hem::village
+helva::village
 hemagahahena::village
 hemagudda::village
 hemalkasa::village
@@ -1938,15 +1988,16 @@ hemawas::village
 hembarawa::village
 hemda::village
 hemelum::village
+hem heath::village
+hemigenia cuneifolia::plant
 hemingfield::village
 hemingford::village
-hemis::village
 hemisphere:半球
+hemis::village
 hemmadaga::village
-hemmat::village
 hemmatabad-e agah::village
-hemmatabad-e chah zahra-ye bala::village
 hemmatabad-e chah-e malek::village
+hemmatabad-e chah zahra-ye bala::village
 hemmatabad-e chalaki::village
 hemmatabad-e gol mohammad::village
 hemmatabad-e olya::village
@@ -1955,50 +2006,52 @@ hemmatabad-e sofla::village
 hemmatabad-e vahab::village
 hemmatabad-e zamani::village
 hemmatabad::village
+hemmat::village
 hemmen::village
 hemnagar::village
-hemnes::village
 hemnesberget::village
+hemnes::village
 hemorrhage:大出血
 hempens::village
 hempton::village
 hemtabad::village
 hemure::village
-hen bentref llandegfan::village
+hem::village
 henabad-e olya::village
 henabad-e sofla::village
 henagahawela::village
 henagehuwala medagammedda::village
 henagehuwala::village
 henapola::village
+hen bentref llandegfan::village
 hence:因此
 hencida::village
 hencse::village
-hend khaleh::village
 hendabad::village
 hendavaneh-ye pordesar::village
 hendeh garan::village
 hendeh::village
-hendek::village
 hendekköy::village
+hendek::village
 hendelan::village
 hendeniya::village
 hendevalan::village
 hendevan::village
 hendi bolagh::village
 hendi kandi::village
-hendi::village
 hendileh::village
-hendim::village
 hendiman::village
+hendim::village
+hendi::village
 hendiz::village
+hend khaleh::village
 hendley::village
 hendovan::village
+henduabad::village
 hendu chub::village
 hendu kola::village
-hendu marz::village
-henduabad::village
 hendukosh::village
+hendu marz::village
 hendvar::village
 hendy::village
 henegama palkumbura::village
@@ -2016,8 +2069,8 @@ henidar-e ebrahim khan::village
 henidar-e mafruzeh::village
 heningkunglwa::village
 heniz::village
-henj::village
 henjam::village
+henj::village
 henkayi::village
 henllan::village
 henlow camp::village
@@ -2025,31 +2078,30 @@ hennan::village
 henneseid::village
 henning::village
 hennummarka::village
-henry::village
 henry:亨利
 henrykowice::village
 henryków lubański::village
 henryków::village
 henrysin::village
+henry::village
 hensbroek::village
-henzeni-ye bala::village
 henzeni::village
+henzeni-ye bala::village
 heon::village
 hepana::village
 heppendorf::village
-her husband:她的丈夫
 her:她的
-hera::village
 heradsbygd::village
 heraj::village
 heraldry:纹章
-heran::village
 herandan::village
 heranjal::village
+heran::village
 heraq::village
 herarun::village
 heraskah::village
 heravan::village
+hera::village
 herbaceous:非木的
 herbaijum::village
 herbedan::village
@@ -2067,15 +2119,20 @@ hercules:大力神
 herdaiv::village
 here:这里
 herebel::village
+hérébo::village
 heredia::village
 heredity:遗传
+hérédougou::village
+heréd::village
 herefoss::village
+héreg::village
 herekli::village
 herenandi::village
 heresy:异端
 heresznye::village
 herfelingen::village
 herher::village
+her husband:她的丈夫
 herian::village
 heridun-e zirkal::village
 heriknaz::village
@@ -2087,12 +2144,12 @@ heritage:遗产
 herjava::village
 herkingen::village
 herlazhofen::village
-herman::village
 hermanak::village
 hermani::village
 hermankono-diès::village
 hermankono-garo::village
 hermanowo::village
+herman::village
 hermaphrodite:雌雄同体
 hermedan::village
 hermeh::village
@@ -2100,9 +2157,6 @@ hermeyak::village
 hermidale::village
 hermon::village
 hermostan::village
-herne::village
-hernen::village
-hernyék::village
 hernádbűd::village
 hernádcéce::village
 hernádkak::village
@@ -2112,6 +2166,9 @@ hernádpetri::village
 hernádszentandrás::village
 hernádszurdok::village
 hernádvécse::village
+hernen::village
+herne::village
+hernyék::village
 hero:英雄
 herodsfoot::village
 heroic:英雄的
@@ -2119,12 +2176,13 @@ heroin:海洛因
 heroine:女英雄
 heroldstatt::village
 herongate::village
+herøysund::village
 herpen::village
 herpt::village
 herraj::village
 herramélluri::village
-herre::village
 herresbach::village
+herre::village
 herrick::village
 herrskogen::village
 hersey::village
@@ -2141,30 +2199,20 @@ heruk::village
 heruz-e olya::village
 heruz-e sofla::village
 herveld::village
-hervik::village
 hervías::village
+hervik::village
 herwen::village
 herwijnen::village
-heréd::village
-herøysund::village
 hesagi::village
 hesamabad::village
+hesarabad::village
 hesar andaf::village
 hesar bolaghi::village
 hesar bon::village
-hesar dar::village
+hesarcheh::village
+hesarcheh-ye pain::village
 hesar darreh::village
-hesar goli::village
-hesar jalal::village
-hesar juq::village
-hesar kharabeh::village
-hesar mehtar::village
-hesar now::village
-hesar qaranqu::village
-hesar qelij::village
-hesar sefid::village
-hesar shivan::village
-hesar sorkh::village
+hesar dar::village
 hesar-e abd ol karim::village
 hesar-e agh bolagh::village
 hesar-e amir::village
@@ -2209,21 +2257,29 @@ hesar-e teymur tash::village
 hesar-e torkaman::village
 hesar-e valiyeasr::village
 hesar-e yazdan::village
-hesar::village
-hesarabad::village
-hesarcheh-ye pain::village
-hesarcheh::village
-hesari-ye gazerani::village
+hesar goli::village
 hesari::village
+hesari-ye gazerani::village
+hesar jalal::village
+hesar juq::village
+hesar kharabeh::village
 hesarlu::village
+hesar mehtar::village
+hesar now::village
+hesar qaranqu::village
+hesar qelij::village
+hesar sefid::village
+hesar shivan::village
+hesar sorkh::village
 hesaruiyeh::village
+hesar::village
 hesban::village
 hesby::village
 hesharkeh::village
-heshi::village
 heshiabad::village
 heshik::village
 heshin::village
+heshi::village
 heshmatabad::village
 heshmatiyeh::village
 heshniz::village
@@ -2238,16 +2294,15 @@ hesleden::village
 hesnes::village
 hesperia::village
 hessdalen::village
-hessen::village
 hesseng::village
+hessen::village
 hessmer::village
 hestad::village
 hestur::village
 hestvika::village
-het wild::village
 heteren::village
-heterosexual fellatio:异性口交
 heterosexual:异性的
+heterosexual fellatio:异性口交
 hetes::village
 hetin::village
 hetkhamar::village
@@ -2255,29 +2310,31 @@ hetovlar::village
 hettick::village
 hettigammedda::village
 hetvenhely::village
+hét::village
+het wild::village
 hetyefő::village
 heukelom::village
 heunanbe::village
 heung fan liu new village::village
 heuningvlei::village
-heuristic function:启发式函数
 heuristic:启发式的
+heuristic function:启发式函数
 heuweiler::village
 hevanewala::village
 hevela::village
 hevesaranyos::village
 hevesvezekény::village
+hévízgyörk::village
 hewaheta::village
 hewanetenna::village
 hewanewala::village
+he was born in los angeles:他出生于洛杉矶
 hewawissa::village
 hewawisse::village
 hewelsfield::village
 hewitt::village
 hexagon:六边形
 hexamidine:己脒定
-hey hey::village
-hey::village
 heyatabad::village
 heybat beyglu::village
 heybat-e jahan khanemlu::village
@@ -2286,11 +2343,6 @@ heybat-e sofla::village
 heybatollah::village
 heybeli::village
 heybetepe::village
-heydar alat::village
-heydar baghi::village
-heydar didehban::village
-heydar kar::village
-heydar kola::village
 heydarabad-e ali mardani::village
 heydarabad-e baba monir::village
 heydarabad-e chah narenj::village
@@ -2305,57 +2357,79 @@ heydarabad-e sofla::village
 heydarabad-e sohrab::village
 heydarabad-e tang seh riz::village
 heydarabad::village
+heydar alat::village
 heydarali::village
+heydar baghi::village
+heydar didehban::village
 heydareh-ye dar-e emam::village
 heydareh-ye posht-e shahr::village
-heydari::village
 heydarik::village
+heydari::village
 heydariyeh::village
 heydarkanlu::village
+heydar kar::village
 heydarkhani::village
+heydar kola::village
 heydarlu::village
 heydarluy-e beyglar::village
 heygeh-e kaliab::village
+hey hey::village
 heykuiyeh::village
 heyman::village
-heyr galu::village
 heyran-e olya::village
 heyran-e sofla::village
 heyran-e vosta::village
 heyran::village
 heyrat::village
+heyr galu::village
 heyrod::village
 heyvand::village
+hey::village
 heyworth::village
 hezamara::village
 hezany::village
+hezarabad::village
+hezaran-e olya::village
+hezaran-e sofla::village
 hezar balut::village
 hezar darreh::village
+hezargaz::village
+hezari::village
 hezar jarib::village
 hezar jerib::village
 hezar jolfa::village
 hezar kandi::village
 hezar khal::village
+hezar khani::village
 hezar khani-ye olya::village
 hezar khani-ye sofla::village
-hezar khani::village
+hezarkhusheh::village
+hezar mani::village
 hezar mani-ye olya::village
 hezar mani-ye sofla::village
-hezar mani::village
-hezar som::village
-hezar::village
-hezarabad::village
-hezaran-e olya::village
-hezaran-e sofla::village
-hezargaz::village
-hezari::village
-hezarkhusheh::village
 hezarmishi::village
 hezarrud-e olya::village
 hezarrud-e sofla::village
+hezar som::village
 hezarta::village
+hezar::village
 hezehburan::village
 hezwan::village
+həjo::village
+həkəri::village
+həmənli::village
+həmzəli::village
+hərtiz::village
+həsənabad::village
+həsənbinə::village
+həsənçobanlı::village
+həsənlər::village
+həsənqaydı::village
+həsənqoca::village
+həsənxanlı::village
+həsin::village
+hətəmlər::village
+həzrəoba::village
 hiala::village
 hiaq::village
 hiati::village
@@ -2366,10 +2440,11 @@ hicattee::village
 hiccup:打嗝
 hickey:吻痕
 hickling::village
+hidalgoa ternata::plant
 hidalgo::village
 hidan::village
-hidas::village
 hidasnémeti::village
+hidas::village
 hiddaulla::village
 hide:隐藏
 hidegkút::village
@@ -2379,12 +2454,19 @@ hidvégardó::village
 hierarchical:层级的
 hierarchy:层级
 hieroglyph:象形文字
+high:高
+higham::village
 high catton::village
 high class:高级的
 high cross::village
 high dyke::village
 high ellington::village
+higher:更高的
 high ercall::village
+higher dinting::village
+higherford::village
+higher walton::village
+highest:最高的
 high etherley::village
 high five:举手击掌
 high friarside::village
@@ -2393,36 +2475,30 @@ high green::village
 high haswell::village
 high hesleden::village
 high hurstwood::village
+highland park::village
+highland::village
 high lane::village
 high latitude:高纬度
+highly customizable:高度可定制的
 high newton::village
 high performance:高性能
 high quality:高质量
 high school:中学
 high shincliffe::village
 high stoop::village
+hightown::village
 high urpeth::village
 high water:潮峰
-high:高
-higham::village
-higher dinting::village
-higher walton::village
-higher:更高的
-higherford::village
-highest:最高的
-highland park::village
-highland::village
-highly customizable:高度可定制的
-hightown::village
 highway:公路
 higieniewo::village
-hiie::village
 hiiemetsa::village
 hiiessaare::village
 hiietse::village
 hiievälja::village
-hijan::village
+hiie::village
 hijanan::village
+hijan::village
+hîjdieni::village
 hijken::village
 hijum::village
 hikan-e bala::village
@@ -2435,11 +2511,8 @@ hildreth::village
 hileh rud::village
 hileh sara::village
 hilgi::village
-hili::village
 hiliuți::village
-hill mountain::village
-hill spring::village
-hill top::village
+hili::village
 hill:山丘
 hillar shahabad::village
 hillary:希拉里
@@ -2448,9 +2521,12 @@ hillesley::village
 hillestad::village
 hilleste::village
 hillman::village
+hill mountain::village
 hillsdale::village
 hillsgrove::village
 hillside::village
+hill spring::village
+hill top::village
 hillview::village
 hilpankandura::village
 hilpenkandura::village
@@ -2469,16 +2545,15 @@ himbirti::village
 himbleton::village
 himesháza::village
 himmatgarh::village
-himmatpur::village
 himmatpura::village
+himmatpur::village
 himmetli::village
 himmiste::village
 himod::village
 himself:他自己
 himya::village
-hin tagher::village
-hin tin::village
 hinagama::village
+hîncești::village
 hinckley::village
 hindagala::village
 hindagoda::village
@@ -2493,21 +2568,21 @@ hindirigama::village
 hindley green::village
 hindol::village
 hindsboro::village
-hindu::village
 hindu:印度教徒
 hinduism:印度教
+hindu::village
 hineman::village
 hines creek::village
-hinga::village
 hingamau::village
 hingani::village
+hinga::village
 hingoni::village
-hingu::village
 hingulwala::village
 hingulwela::village
 hingurewela::village
 hingurukaduwa::village
 hingutargarh::village
+hingu::village
 hini::village
 hinnarangolla::village
 hinnebu::village
@@ -2520,10 +2595,12 @@ hinoune::village
 hinqar::village
 hinsa::village
 hinsdale::village
+hin tagher::village
+hin tin::village
 hintin::village
+hintona::village
 hinton parva::village
 hinton::village
-hintona::village
 hinxton::village
 hipolity::village
 hippala::village
@@ -2531,21 +2608,18 @@ hippargarava::village
 hipperholme::village
 hippocampus:海马体
 hiq::village
-hir shahabad::village
-hir::village
-hirab::village
 hirabad::village
+hirab::village
 hirad::village
 hiran khedi::village
-hiran::village
 hiranpur::village
+hiran::village
 hirapur::village
 hiravadi::village
 hirbandh::village
-hire kotnekal::village
-hire-angrolli::village
-hire-hattiholi::village
+hîrbovăț::village
 hire:雇用
+hire-angrolli::village
 hirebellikatti::village
 hirebidanur::village
 hirebudanur::village
@@ -2553,9 +2627,11 @@ hirebudihal::village
 hiregunjal::village
 hiregutti::village
 hireharakuni::village
+hire-hattiholi::village
 hirehatti::village
 hirehonnihalli::village
 hirekoppa k.m.::village
+hire kotnekal::village
 hirekumbi::village
 hiremalligawad::village
 hiremanoli::village
@@ -2568,13 +2644,13 @@ hiresindhogi::village
 hiretadashi::village
 hireulligeri::village
 hirevo::village
-hirgan::village
 hirgana::village
+hirgan::village
 hirhafek::village
 hirics::village
 hirisave::village
-hiriyalagammana::village
 hirișeni::village
+hiriyalagammana::village
 hirka polonka::village
 hirla::village
 hirlipali::village
@@ -2585,24 +2661,25 @@ hirnoda::village
 hirom::village
 hirova::village
 hirschau::village
-hiru::village
+hir shahabad::village
 hirur::village
-hirvan::village
+hiru::village
 hirvand::village
+hirvan::village
+hir::village
 hirvi::village
 hirvli::village
-his wife:他的妻子
-his::village
 his:他的
-hisar::village
 hisaralan::village
+hisarçandır, konyaaltı::village
 hisarcık, nazilli::village
 hisarcık::village
 hisare::village
 hisarköy::village
 hisarlı::village
-hisarçandır, konyaaltı::village
+hisar::village
 hisek::village
+hişgədərə::village
 hishin-e sofla::village
 hisri::village
 hissi::village
@@ -2611,12 +2688,13 @@ historian:历史学家
 historic:历史性的
 historical:历史的
 history:历史
-hit::village
+his::village
+his wife:他的妻子
 hit:打击
 hitak::village
 hiteh tala::village
-hitgoda walpola::village
 hitgoda::village
+hitgoda walpola::village
 hitigegama::village
 hitigolla::village
 hitler:希特勒
@@ -2626,38 +2704,46 @@ hittanagi::village
 hittani::village
 hitterdalen::village
 hittinahalli::village
+hit::village
 hitzum::village
 hiurud::village
-hiv::village
 hivange::village
 hivehchi-ye bala::village
 hivehchi-ye markazi::village
 hivəri::village
+hiv::village
 hiware bazar::village
 hiware korda::village
 hiwarwadi::village
 hixton::village
-hiyadala walpola::village
 hiyadala::village
+hiyadala walpola::village
 hiyarapitiya::village
 hiyawela::village
 hizabad-e bala::village
 hizabad-e pain::village
 hizaj::village
-hizan::village
 hizano::village
+hizan::village
 hizbandegan::village
 hizeh jan::village
-hişgədərə::village
+hıdırlar, kızılcahamam::village
+hıdırlar, nallıhan::village
+hıdırlar::village
+hıdırşeyh, polatlı::village
+hırkaköy::village
+hırka::village
+hırmanlı::village
+hızırkahya, kumluca::village
+hjälstaby::village
 hjartås::village
 hjellum::village
 hjelset::village
+hjøllund::village
 hjordkær::village
+hjørungavåg::village
 hjuksebø::village
 hjulby::village
-hjälstaby::village
-hjøllund::village
-hjørungavåg::village
 hka-u-in::village
 hkengnang::village
 hkomi::village
@@ -2671,8 +2757,8 @@ hlevene::village
 hliadky::village
 hliappui s::village
 hliappui::village
-hlina::village
 hlinaia::village
+hlina::village
 hlyabovo::village
 hmangin::village
 hmangon::village
@@ -2686,17 +2772,16 @@ hnawgon::village
 hnokkyo::village
 hnutove::village
 hnyihnu::village
-ho lek pui::village
-ho pui tsuen::village
-ho pui::village
-ho::village
 hobart::village
 hobba::village
+hõbeda::village
 hobeni::village
 hoberg::village
+hõbesalu::village
 hobeysh::village
 hobol::village
 hobrede::village
+höbringi::village
 hobson::village
 hobulaiu::village
 hocabeyli::village
@@ -2704,6 +2789,9 @@ hocaköy::village
 hocalar, manavgat::village
 hocalı, manavgat::village
 hocaoğlu::village
+hoçaz::village
+hoçë e qytetit::village
+hoćevina::village
 hockey:曲棍球
 hodalen::village
 hodbeh::village
@@ -2711,38 +2799,41 @@ hoddlesden::village
 hodge::village
 hodgkins::village
 hodk::village
+hødnebø::village
 hodonoc::village
-hodovytsia::village
 hodoš::village
+hodovytsia::village
 hody-dobrovidka::village
-hody::village
 hodynіvka::village
+hody::village
 hodzhovtsi::village
 hoe:锄头
 hoedekenskerke::village
-hoek::village
 hoeke::village
+hoek::village
 hoelsand::village
 hoenzadriel::village
 hoesdorf::village
 hoeven::village
-hof::village
 hoffland::village
 hoffman::village
+hofireh::village
 hofireh-ye hajji barbeyn::village
 hofireh-ye olya::village
-hofireh::village
 hofstade::village
-hog harbour::village
+hof::village
 hogalbaria::village
 hogalpati::village
 hogarti::village
 hogebrug::village
+hog harbour::village
 hoghmik::village
 hoginești::village
 hogla, bangladesh::village
+högsåra::village
 hogsback::village
 hogsetfeltet::village
+hőgyész::village
 hohenfeld::village
 hohenkirchen::village
 hojagala::village
@@ -2759,62 +2850,64 @@ hojm-e bala::village
 hojsova stráž::village
 hojumabad::village
 hok tau wai::village
-hol::village
-hola::village
-holan::village
 holanagadde::village
 holand::village
+holan::village
 holaq::village
+hola::village
 holbeach drove::village
 holberrow green::village
 holbrook::village
 holcombe::village
-hold hands:牵手
-hold me in your arms:拥我入怀
 hold:拥有
 holden::village
+hold hands:牵手
 holdhus::village
+hold me in your arms:拥我入怀
 holdre::village
 hole:洞
+ho lek pui::village
 holercani::village
-holiday hills::village
 holiday:假日
+holiday hills::village
 holihosur::village
 holinagalapur::village
-holla::village
+hollád::village
 holland:荷兰地区
 hollandale::village
-hollands landing::village
 hollandsche rading::village
 hollandscheveld::village
+hollands landing::village
+holla::village
 hollenfels::village
+høllen::village
 holler::village
 holliday::village
 hollingen::village
 hollington::village
 hollingworth::village
-hollowayville::village
-holly::village
-hollywood::village
-hollywood:好莱坞
-hollád::village
 hollóháza::village
 hollókő::village
-holm village::village
-holm::village
+hollowayville::village
+holly::village
+hollywood:好莱坞
+hollywood::village
 holmbury st mary::village
 holmbush::village
-holme lacy::village
-holme marsh::village
-holme on the wolds::village
-holme::village
 holmedal::village
 holmefjord::village
+holme lacy::village
+holme marsh::village
 holmen::village
+holme on the wolds::village
 holmesund::village
+holme::village
 holmewood::village
 holmrook::village
 holmside::village
+holm::village
+holm village::village
+hołodnica::village
 holohory::village
 holor::village
 holovkivka::village
@@ -2825,16 +2918,17 @@ holsta::village
 holstein::village
 holstre::village
 holt end::village
-holt::village
 holten::village
 holthees::village
 holtikoti::village
 holtsås::village
+holt::village
 holubivka::village
 holudar-e pain::village
 holul::village
 holvar-e olya::village
 holvar-e sofla::village
+hol::village
 holwert::village
 holy:神圣的
 holybourne::village
@@ -2847,17 +2941,16 @@ holywell::village
 holzdorf::village
 holzhau::village
 holzthum::village
-hom-e khosrow::village
-homa::village
 homaabad-e olya::village
 homag-e bala::village
 homag-e pain::village
 homageran::village
-homai-ye olya::village
 homai::village
+homai-ye olya::village
 homajegeh::village
 homapola::village
 homasar::village
+homa::village
 homay-e olya::village
 homay-e sofla::village
 homayun kosh::village
@@ -2867,14 +2960,15 @@ hombar::village
 hombawa::village
 homborsund::village
 homdrom::village
-home country:祖国
 home:家
+home country:祖国
 homeh::village
 homein::village
+hom-e khosrow::village
 homeland:祖国
+homeless:无家可归的
 homeless man:无家可归的男人
 homeless people:无家可归的人
-homeless:无家可归的
 homemade:自制的
 homemaker:持家者
 homemaker:管家
@@ -2886,14 +2980,36 @@ homeyla::village
 homeyran::village
 homeyreh::village
 homijan::village
-homme::village
 hommelstø::village
 hommersåk::village
-homo sapiens:人类
+homme::village
 homokbödöge::village
 homokkomárom::village
 homokszentgyörgy::village
+homoranthus bebo::plant
+homoranthus biflorus::plant
+homoranthus binghiensis::plant
+homoranthus brevistylis::plant
+homoranthus bruhlii::plant
+homoranthus cernuus::plant
+homoranthus clarksonii::plant
+homoranthus coracinus::plant
+homoranthus cummingii::plant
+homoranthus decasetus::plant
+homoranthus decumbens::plant
+homoranthus elusus::plant
+homoranthus flavescens::plant
+homoranthus floydii::plant
+homoranthus homoranthoides::plant
+homoranthus inopinatus::plant
+homoranthus melanostictus::plant
+homoranthus montanus::plant
+homoranthus porteri::plant
+homoranthus tropicus::plant
+homoranthus vagans::plant
+homoranthus zeteticorum::plant
 homorúd::village
+homo sapiens:人类
 homosexual:同性恋的
 homosexuality:同性恋
 homqavand::village
@@ -2910,9 +3026,9 @@ honarstan-e kashavarzi::village
 honaviyeh::village
 honda:本田
 hondor::village
-honduran politician:洪都拉斯政客
-honduran:洪都拉斯人
 honduran:洪都拉斯的
+honduran:洪都拉斯人
+honduran politician:洪都拉斯政客
 honduras:洪都拉斯
 honey:蜂蜜
 honeycomb:蜂巢
@@ -2931,24 +3047,25 @@ honnasandra::village
 honnavile::village
 honnay::village
 honnidibba::village
-honnihal::village
 honnihalli::village
-honor::village
+honnihal::village
 honor:荣誉
+honor::village
+hönow::village
 hont::village
 honuj::village
-hood green::village
 hood:头巾
+hood green::village
 hooe common::village
 hoof:蹄
 hoofdplaat::village
-hoog soeren::village
 hoogblokland::village
 hooge mierde::village
-hooge zwaluwe::village
 hoogersmilde::village
+hooge zwaluwe::village
 hoogkarspel::village
 hooglanderveen::village
+hoog soeren::village
 hoogstade::village
 hook-a-gate::village
 hooker:妓女
@@ -2956,12 +3073,12 @@ hooley::village
 hoolikatti::village
 hoonhorst::village
 hooppole::village
-hoover dam:胡佛水坝
 hoover:胡佛
+hoover dam:胡佛水坝
 hoovinakere::village
-hope::village
 hope:希望
 hopeall::village
+hope::village
 hopewell::village
 hopin::village
 hopmare::village
@@ -2970,6 +3087,8 @@ hopper:加料斗
 hopperton::village
 hoppestad::village
 hopton::village
+ho pui tsuen::village
+ho pui::village
 hopurlu::village
 hopwas::village
 horadiz::village
@@ -2986,19 +3105,20 @@ horbów::village
 horda::village
 horden::village
 hordville::village
+hõreda::village
 horeh-ye agul-e bala::village
 horenka::village
 horenychi::village
 horestaneh-ye olya::village
-horeszkowice::village
 horești::village
+horeszkowice::village
 horgan::village
 horham::village
 horhoreh::village
-hori, zahedan::village
 horian::village
 horijeh::village
 horin khalifeh::village
+hori, zahedan::village
 horizon:地平线
 horizontal:水平的
 horjand::village
@@ -3011,13 +3131,13 @@ hormud-e mehr khui::village
 hormud::village
 hormuj::village
 horn (am bodensee)::village
-horn::village
 horncliffe::village
 hornillos de cameros::village
 horno de alcedo::village
 hornos de moncalvillo::village
 hornostaivka::village
 hornówek::village
+horn::village
 horný vék::village
 horodca::village
 horodets::village
@@ -3040,9 +3160,8 @@ horrat ol abbas::village
 horreyn::village
 horriyeh::village
 horror:恐怖
-hors::village
-horse and jockey::village
 horse:马
+horse and jockey::village
 horseheath::village
 horsell::village
 horseman's green::village
@@ -3051,15 +3170,15 @@ horsham::village
 horsleyhope::village
 horsmonden::village
 horssen::village
-hort::village
+hors::village
 hortobágy::village
 horton::village
 hortonville::village
 hortougou::village
 hortunas::village
+hort::village
 horváthertelend::village
 horvátlövő::village
-hosa yedur::village
 hosabettu::village
 hosagavi::village
 hosakatti::village
@@ -3069,41 +3188,10 @@ hosanger::village
 hosapalli::village
 hosatti::village
 hosawal::village
+hosa yedur::village
 hosby::village
 hoscheid-dickt::village
 hosen::village
-hoseyn ali kandi-ye ajam::village
-hoseyn aqa::village
-hoseyn arbabi::village
-hoseyn bazar::village
-hoseyn beygi::village
-hoseyn beyglu::village
-hoseyn dahish::village
-hoseyn farakhi::village
-hoseyn ghalayem::village
-hoseyn hyati::village
-hoseyn kandi::village
-hoseyn khan kandi::village
-hoseyn khan::village
-hoseyn khanlu::village
-hoseyn khun::village
-hoseyn kord::village
-hoseyn kuh::village
-hoseyn kutah::village
-hoseyn mameh::village
-hoseyn mashlush::village
-hoseyn nahaz::village
-hoseyn naju::village
-hoseyn qeshlaqi gurabazlu::village
-hoseyn qeshlaqi hajj khvajehlu::village
-hoseyn qoli::village
-hoseyn rostam::village
-hoseyn sadani::village
-hoseyn safdar::village
-hoseyn sara::village
-hoseyn talai::village
-hoseyn zehi::village
-hoseyn-e zaeri::village
 hoseynabad-e akhund::village
 hoseynabad-e chaf::village
 hoseynabad-e do::village
@@ -3127,19 +3215,51 @@ hoseynabad-e vali mohammad::village
 hoseynabad-e yek::village
 hoseynabad::village
 hoseynaki::village
-hoseynali beyglu::village
 hoseynaliabad::village
+hoseynali beyglu::village
+hoseyn ali kandi-ye ajam::village
 hoseynan::village
-hoseyni-ye olya::village
-hoseyni::village
+hoseyn aqa::village
+hoseyn arbabi::village
+hoseyn bazar::village
+hoseyn beygi::village
+hoseyn beyglu::village
+hoseyn dahish::village
+hoseyn-e zaeri::village
+hoseyn farakhi::village
+hoseyn ghalayem::village
+hoseyn hyati::village
 hoseynieh-ye sar bardian::village
+hoseyni::village
+hoseyniyeh::village
 hoseyniyeh-ye khazir::village
 hoseyniyeh-ye mashkur::village
 hoseyniyeh-ye mir shenan::village
 hoseyniyeh-ye olya::village
-hoseyniyeh::village
-hoseynkhan::village
+hoseyni-ye olya::village
+hoseyn kandi::village
 hoseynkhani::village
+hoseyn khan kandi::village
+hoseyn khanlu::village
+hoseyn khan::village
+hoseynkhan::village
+hoseyn khun::village
+hoseyn kord::village
+hoseyn kuh::village
+hoseyn kutah::village
+hoseyn mameh::village
+hoseyn mashlush::village
+hoseyn nahaz::village
+hoseyn naju::village
+hoseyn qeshlaqi gurabazlu::village
+hoseyn qeshlaqi hajj khvajehlu::village
+hoseyn qoli::village
+hoseyn rostam::village
+hoseyn sadani::village
+hoseyn safdar::village
+hoseyn sara::village
+hoseyn talai::village
+hoseyn zehi::village
 hoseyvand::village
 hoshiv::village
 hoshneh::village
@@ -3148,17 +3268,18 @@ hoskins::village
 hoskoti::village
 hoslemo::village
 hosnijeh::village
-hospital::village
 hospital:医院
 hospitalization:住院
+hospital::village
 hossa::village
 hosseinabad bazi::village
 hosseinabad, corrin::village
+hosseinabad-e chahrahman::village
+hosseinabad-e qanat::village
 hosseinabad, khodarahm rigi::village
 hosseinabad, mirjaveh::village
 hosseinabad, zahedan::village
-hosseinabad-e chahrahman::village
-hosseinabad-e qanat::village
+hösseringen::village
 hosston::village
 hosszúpereszteg::village
 hosszúvíz::village
@@ -3166,29 +3287,31 @@ hosszúvölgy::village
 host:主机
 hostage:人质
 hostalric::village
+høsterkøb::village
 hostice::village
 hoston::village
 hostovice::village
 hosur::village
+hósvík::village
 hosznia abramowska::village
 hosznia ordynacka::village
 hosztót::village
-hot dog:热狗
-hot water:热水
 hot:热
 hotale::village
 hotavlje::village
+hot dog:热狗
 hotel:旅馆
 hotemaže::village
 hothian::village
-hoti::village
 hotična::village
+hoti::village
 hotkan::village
 hotkovo::village
 hotonj::village
 hotovo::village
 hottal::village
 hottó::village
+hot water:热水
 houck::village
 houde::village
 houetiara::village
@@ -3197,34 +3320,41 @@ houghton::village
 houma::village
 hound green::village
 houruiyeh::village
-house of representatives:众议院
-house::village
 house:房子
 housefly:家蝇
 household:家族
 househusband:家务男
 housekeeper:女管家
+house of representatives:众议院
+house::village
 housewife:主妇
 houston:休斯敦
 hout-blerick::village
-hout::village
 houtem::village
 houthem::village
 houtigehage::village
+hout::village
 houverath::village
+høvåg::village
 hovanleh::village
 hovari::village
 hovarpan::village
 hovarsin::village
 hovden::village
+hovea lanceolata::plant
+hovea speciosa::plant
+hovea stricta::plant
+hövej::village
 hovet::village
 hoveyleh::village
 hoveysh-e jadid::village
 hoveysh-e neys::village
 hoveysh::village
+ho::village
 hovin::village
 hovit::village
 hovk::village
+høvringen::village
 hovtashat::village
 hovtashen::village
 hovtun::village
@@ -3232,8 +3362,8 @@ hovuni::village
 hovuslu::village
 how:如何
 howard city::village
-howard::village
 howards grove::village
+howard::village
 howbeh-ye kukhan::village
 howden-le-wear::village
 howells::village
@@ -3242,8 +3372,6 @@ howgend::village
 howsham::village
 howtan::village
 howwood::village
-howz gel::village
-howz koti::village
 howz-e galurshur::village
 howz-e hafez::village
 howz-e hasan ali::village
@@ -3253,16 +3381,19 @@ howz-e seyyed morad::village
 howz-e sheykh-e zemkan::village
 howz-e sorkh::village
 howz-e zireh::village
+howz gel::village
+howz koti::village
 hoxne::village
+høybakken::village
+høydalsmo::village
+høylandsbygd::village
 hoylandswaine::village
 hoyleton::village
+høysand::village
+höytala::village
 hoyuelos de la sierra::village
-hoçaz::village
-hoçë e qytetit::village
-hoćevina::village
-hołodnica::village
-hpala::village
 hpalapyang::village
+hpala::village
 hpaochan::village
 hpare::village
 hpaungzeik::village
@@ -3275,8 +3406,8 @@ hrabove::village
 hrabrino::village
 hrabrovo::village
 hradaspur::village
-hradivka::village
 hradiště::village
+hradivka::village
 hrafske::village
 hranitne::village
 hrasna::village
@@ -3313,8 +3444,8 @@ htawmshing::village
 hteinson::village
 htidawgaing::village
 htimahto::village
-htingra::village
 htingrahtap::village
+htingra::village
 htisöm::village
 html:超文本标记语言
 htoma myauk::village
@@ -3326,22 +3457,26 @@ huafla::village
 huanghuachang::village
 huanghuacheng::village
 hubayah::village
-hubbard::village
 hubbardston::village
+hubbard::village
 hubbarwadi::village
 hubbell::village
 hubberts bridge::village
 hubina::village
+hübi::village
+hübja::village
 hubkiv::village
 huby::village
-hud::village
-hudar::village
+hücü::village
 hudaraj::village
+hudar::village
 huddington::village
 hudi::village
 hudo::village
 hudson::village
 hudul::village
+hud::village
+huércanos::village
 huey::village
 hufel-e gharbi::village
 hufel-e seyyed hamad::village
@@ -3354,23 +3489,23 @@ hugyag::village
 huhla::village
 huijbergen::village
 huikap::village
-huis ter heide::village
 huisduinen::village
+huis ter heide::village
 hujqan::village
-huk::village
 hukani-ye olya::village
 hukani-ye sofla::village
-huker::village
 hukerd::village
+huker::village
 huki::village
 hukkeri (rural)::village
 huklyvyi::village
 hukuntsi::village
+huk::village
 hulaginakoppa::village
 hulakoppa::village
-hulan::village
-huland::village
 hulandasht::village
+huland::village
+hulan::village
 hular-e olya::village
 hulasu::village
 hulavalewadi::village
@@ -3387,47 +3522,47 @@ hulikunte::village
 huliq::village
 hulivana::village
 hulkund::village
-hull bridge::village
-hull::village
 hullambi::village
 hullapur::village
+hull bridge::village
 hullikere::village
 hullolihatti::village
+hull::village
 hulmadian-e bala::village
 hulmadian-e pain::village
 hulsberg::village
+hülscheid::village
 hulste::village
 huluboaia::village
 huluganga town::village
 huluganga::village
-hum ol din::village
-hum::village
 humac::village
 humadan::village
 humala::village
-human beings:人类
-human extinction:人类灭绝
-human rights:人权
-human trafficking:人口贩卖
-human::village
 human:人
 human:人类
+human beings:人类
+human extinction:人类灭绝
 humanitarian:人道主义的
+human rights:人权
 humans:人类
+human trafficking:人口贩卖
+human::village
 humboldt::village
-hume::village
 humelicë::village
 humerus:肱骨
+hume::village
 humid:潮湿的
 humidity:湿度
 humiliation:羞辱
 humlin::village
 hummelo::village
+hum ol din::village
 humor:幽默
 humorous:幽默的
 humour:幽默
 humphreys::village
-hun::village
+hum::village
 huncoat::village
 hundar dok::village
 hundar::village
@@ -3438,18 +3573,19 @@ hundri::village
 hundshübel::village
 hundslund::village
 hundvin::village
-hune::village
 hunejan::village
 hunestan::village
-hung tso tin tsuen::village
-hung uk tsuen::village
-hungarian politician:匈牙利政客
+hune::village
 hungarian:匈牙利人
 hungarian:匈牙利语
+hungarian politician:匈牙利政客
 hungary:匈牙利
 hungeh::village
 hunger:饥饿
 hungry:饿
+hung tso tin tsuen::village
+hung uk tsuen::village
+hüngütlü::village
 hunhukwe::village
 huni sefid::village
 hunnaragi::village
@@ -3469,11 +3605,9 @@ hunugalpitiya::village
 hunuketa-ela::village
 hunuketawala::village
 hunuketella::village
+hun::village
 hunza::village
 hupperdange::village
-hur moghan-e olya::village
-hur moghan-e sofla::village
-hur::village
 hurab::village
 huraki::village
 hurazeh::village
@@ -3484,57 +3618,66 @@ hurdegaryp::village
 hureh emir::village
 hureh::village
 huremi::village
-huri daraq::village
-huri::village
 hurian::village
+huri daraq::village
 hurikaduwa madige::village
 hurikaduwa::village
 hurikaduwe madige::village
 hurilar::village
+huri::village
 hurley common::village
 hurley::village
 hurlford::village
 hurling:爱尔兰式曲棍球
 hurmaz::village
+hur moghan-e olya::village
+hur moghan-e sofla::village
 hurmudar-e bala::village
 hurmudar-e pain::village
 hurmudar::village
 hurow::village
 hurricane:飓风
-hurst::village
 hurstpierpoint::village
+hurst::village
 hurtekah::village
 hurthala::village
 huruiyeh::village
-hurworth place::village
+hur::village
 hurworth-on-tees::village
+hurworth place::village
 hury::village
 hurz::village
-husa::village
 husainabad::village
 husainyyat::village
 husari::village
 husarivka::village
 husavik::village
+husa::village
 husayn al-baher::village
-husayn, yemen::village
 husayniyah::village
+husayn, yemen::village
 husband:丈夫
 husbandry:种养殖
 husbysjøen::village
 husewal::village
-hush::village
+hüseyinli::village
+hüseynalılar::village
+hüseynbəyli::village
+hüseynqulular::village
+hüseynuşağı::village
 hushab aluk::village
 hushdan::village
 hushfat::village
 hushom::village
 hushut::village
+hush::village
 hushyar chelleh::village
 husinka::village
 husnah::village
 husnayn::village
-hussain chak::village
+husøy::village
 hussainabad::village
+hussain chak::village
 hussainpur bulle::village
 hussainpur dulowal::village
 hussainpur::village
@@ -3548,21 +3691,21 @@ husynne::village
 huszcza druga::village
 huszcza pierwsza::village
 husztót::village
-husøy::village
-hut gat jahli::village
-hut-e amr::village
 huta chodecka::village
+huta-chojno::village
 huta głodowska::village
+hutak::village
+huta-mezhyhirska::village
 huta padniewska::village
 huta palędzka::village
+huta-strzelce::village
 huta towarzystwo::village
 huta turobińska::village
-huta-chojno::village
-huta-mezhyhirska::village
-huta-strzelce::village
 huta::village
-hutak::village
+hut-e amr::village
+hut gat jahli::village
 huthwaite::village
+hüti::village
 hutmarah::village
 hutna wieś::village
 hutsonville::village
@@ -3573,160 +3716,45 @@ hutuna::village
 hutysche::village
 hutysko::village
 huuksi::village
+hüüru::village
 huuvari::village
 huwwarah::village
 huwwarin::village
 huyeh::village
+hüyükköy::village
 huyyeh::village
-huércanos::village
-hval::village
 hvalvík::village
+hval::village
 hvam::village
-hvittingfoss::village
+h::village
 hvítanes::village
+hvittingfoss::village
 hwein::village
 hwekum::village
 hwemaukkan::village
 hwesokchi::village
+hyacintheae::plant
+hyalosperma cotula::plant
+hyalosperma glustinosum::plant
+hyalosperma simplex::plant
 hyannis::village
 hybrid:杂合的
 hyde heath::village
 hydra:多头蛇怪
-hydro project station::village
+hydrogen:氢
 hydrogen atom:氢原子
 hydrogen bonds:氢键
-hydrogen:氢
+hydro project station::village
 hygrograph:绘湿仪
 hylkje::village
 hylla::village
+hymenocallis palmeri::plant
 hymenoptera:膜翅目
 hynnekleiv::village
 hynovychi::village
-hyperactivity disorder:多动症
 hyperactivity:活动亢奋
+hyperactivity disorder:多动症
+hypericum heterophyllum::plant
+hypericum xylosteifolium::plant
 hypnotic:安眠药
 hyttbakken::village
-hács::village
-háromfa::village
-háromhuta::village
-hárskút::village
-häcklingen::village
-hälvati::village
-hämeenmäki::village
-hämmelepa::village
-hänga::village
-härgla::village
-härjadi::village
-härjanurme::village
-härma::village
-härmakosu::village
-härmä::village
-häusling::village
-håbbesland::village
-håbbestad::village
-håkavik::village
-hålandsmarka::village
-hålandsosen::village
-hæen::village
-hægeland::village
-hænsgardane::village
-hærland::village
-hèllèlè::village
-hédervár::village
-héhalom::village
-héreg::village
-hérébo::village
-hérédougou::village
-hét::village
-hévízgyörk::village
-hîjdieni::village
-hîncești::village
-hîrbovăț::village
-hósvík::village
-hõbeda::village
-hõbesalu::village
-hõreda::village
-höbringi::village
-högsåra::village
-hönow::village
-hösseringen::village
-hövej::village
-höytala::village
-hødnebø::village
-høllen::village
-høsterkøb::village
-høvringen::village
-høvåg::village
-høybakken::village
-høydalsmo::village
-høylandsbygd::village
-høysand::village
-hübi::village
-hübja::village
-hücü::village
-hülscheid::village
-hüngütlü::village
-hüseyinli::village
-hüseynalılar::village
-hüseynbəyli::village
-hüseynqulular::village
-hüseynuşağı::village
-hüti::village
-hüyükköy::village
-hüüru::village
-hădărăuți::village
-hăsnășenii mari::village
-hıdırlar, kızılcahamam::village
-hıdırlar, nallıhan::village
-hıdırlar::village
-hıdırşeyh, polatlı::village
-hırka::village
-hırkaköy::village
-hırmanlı::village
-hızırkahya, kumluca::village
-hőgyész::village
-həjo::village
-həkəri::village
-həmzəli::village
-həmənli::village
-hərtiz::village
-həsin::village
-həsənabad::village
-həsənbinə::village
-həsənlər::village
-həsənqaydı::village
-həsənqoca::village
-həsənxanlı::village
-həsənçobanlı::village
-hətəmlər::village
-həzrəoba::village
-hidalgoa ternata::plant
-hakea pachyphylla::plant
-helleborus cyclophyllus::plant
-hovea lanceolata::plant
-harungana madagascariensis::plant
-hakea propinqua::plant
-hakea verrucosa::plant
-hakea trineura::plant
-hyacintheae::plant
-hypericum xylosteifolium::plant
-hakea tuberculata::plant
-hakea pendens::plant
-hakea pritzelii::plant
-hakea psilorrhyncha::plant
-hakea rigida::plant
-hovea stricta::plant
-hakea neospathulata::plant
-homoranthus biflorus::plant
-homoranthus bebo::plant
-homoranthus binghiensis::plant
-homoranthus cernuus::plant
-homoranthus clarksonii::plant
-homoranthus coracinus::plant
-homoranthus melanostictus::plant
-homoranthus tropicus::plant
-homoranthus vagans::plant
-homoranthus zeteticorum::plant
-hypericum heterophyllum::plant
-hovea speciosa::plant
-hyalosperma simplex::plant

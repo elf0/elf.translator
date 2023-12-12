@@ -1,14 +1,5 @@
-t repaka::village
-t. challapalle::village
-t. chowdaravaripalli::village
-t. narasapuram::village
-t. sundupalle::village
-t.kalathur::village
-t.subbulapuram::village
-ta tit yan::village
-ta'um::village
-taad::village
 taadikvere::village
+taad::village
 taagepera::village
 taalgaon::village
 taaliku::village
@@ -16,92 +7,100 @@ taanah::village
 taaravainu::village
 taari::village
 taarlo::village
+täätsi::village
 tabadkan::village
 tabain::village
 tabajd::village
 tabakadhonnihalli::village
 tabaklar::village
 tabalah::village
-taban::village
 tabani::village
 tabanözü::village
+taban::village
 tabaongo::village
-tabaq sar::village
-tabaq::village
 tabaqdeh::village
 tabaqeh::village
 tabaqlu::village
-tabar kalayeh::village
-tabar sara::village
-tabar::village
-tabara, togo::village
-tabara::village
+tabaq sar::village
+tabaq::village
 tabarabad::village
 tabarak-e olya::village
 tabarak-e sofla::village
+tabara, togo::village
+tabara::village
 tabarian::village
 tabarijan::village
+tabar kalayeh::village
+tabar sara::village
 tabarsu::village
 tabarteh::village
+tabar::village
 tabas airport::village
-tabas::village
 tabaseyn-e bala::village
 tabaseyn-e pain::village
 tabashka::village
+tabas::village
 tabati::village
 tabayo 1::village
 tabbat::village
 tabenken::village
 taberlaane::village
-tabestan neshin::village
+tabernaemontana crassa::plant
 tabestanaq::village
+tabestan neshin::village
 tabieh::village
 tabisheh::village
 tabissi::village
-tabl::village
 tabladas::village
 tablak::village
 tablan::village
-table grove::village
-table rock::village
 table:桌子
+table grove::village
+tabléguikou::village
+table rock::village
 tablet:手写板
 tablshekin::village
 tabluha::village
-tabléguikou::village
+tabl::village
+táborfalva::village
 tabory::village
 taboth::village
 tabrahimt::village
 tabreh-ye olya::village
-tabria::village
 tabrian::village
+tabria::village
 tabrik::village
-tabriz khatun::village
 tabrizak::village
 tabrizaq::village
+tabriz khatun::village
 tabtus::village
-tabur::village
 taburlar::village
+tabur::village
 tabwakea::village
 tabylgyty::village
+tacca bibracteata::plant
+tacca borneensis::plant
+tacca ebeltajae::plant
+tacca maculata::plant
+tacca palmata::plant
 tacettin::village
 tachehat::village
 tachel ali shir::village
 tacopaya::village
+tác::village
 taczalin::village
 taczów mały::village
 taczów wielki::village
-tad::village
 tadahal::village
 tadajewo::village
 tadali::village
 tadaryat::village
-tadas::village
 tadasalur::village
+tadas::village
 tadavan::village
 tadborgaon::village
-tade::village
 tadepalle::village
+tade::village
 tadichaungwa::village
 tadikalapudi::village
 tadikona::village
@@ -113,13 +112,14 @@ tadiyale::village
 tadmaya::village
 tadmetla::village
 tadna::village
-tado::village
 tadoussac::village
+tado::village
 tadpakal::village
 tadpangari::village
 tadrart::village
 tadten::village
 tadubi::village
+tad::village
 tadzin::village
 taeb kola::village
 taesheh mahmud nazari::village
@@ -128,15 +128,12 @@ tafihan::village
 tafilah, yemen::village
 tafjord::village
 tafrijan::village
-taft::village
 taftafineh shams ali::village
 taftazan::village
 taftileh::village
-tag-e oshtoran::village
+taft::village
 tag:标签
 taga, burkina faso::village
-taga-roostoja::village
-taga::village
 tagadi::village
 tagajõe::village
 tagak-e emam abdollah::village
@@ -144,15 +141,19 @@ tagamanent::village
 tagametsa::village
 tagamõisa::village
 tagan::village
-tagar::village
 tagaranna::village
 tagarg ab::village
+tağaroba::village
+taga-roostoja::village
+tagar::village
 tagavere::village
+taga::village
 tagawali::village
 tagbesse::village
 tagek::village
-taghan::village
+tag-e oshtoran::village
 taghandik::village
+taghan::village
 taghaser::village
 taghavard::village
 taghcheh jiq::village
@@ -160,52 +161,54 @@ taghmon::village
 taghrud::village
 taghun::village
 tagichinor::village
+tağıbəyli::village
+tağılar::village
 taglak::village
+tağlı::village
 tagoat::village
 tagob::village
 tagtageh::village
 taguküla::village
 tagula::village
 tagyon::village
-tah darreh::village
-tah rud::village
 tahabad-e jameh shuran::village
 tahaila::village
 tahakro::village
 tahalpitiya::village
 tahalyun::village
-taham::village
 tahamtan kola::village
+taham::village
 tahaneh-ye olya::village
 tahaneh-ye sofla::village
 tahaneh-ye vosta::village
 tahanuku::village
-tahar::village
 taharom dasht::village
 taharpur::village
 tahart::village
+tahar::village
 tahati::village
+tah darreh::village
 tahemasab::village
-taher baghdeh::village
-taher beyk mahalleh::village
-taher deh::village
-taher gurab::village
 taherabad-e barbaryeha::village
 taherabad-e mian::village
 taherabad-e torkha jadid::village
 taherabad-e torkha::village
 taherabad::village
+taher baghdeh::village
+taher beyk mahalleh::village
+taher deh::village
 tahereh khatun::village
-taheri::village
+taher gurab::village
 taheriabad::village
+taheri::village
+taheriyeh::village
 taheriyeh-ye do::village
 taheriyeh-ye yek::village
-taheriyeh::village
 taherlu::village
 tahibly::village
 tahifet::village
-tahir::village
 tahirpur::village
+tahir::village
 tahitótfalu::village
 tahkuna::village
 tahkuranna::village
@@ -213,190 +216,190 @@ tahlegi-ye sofla::village
 tahli::village
 tahlu::village
 tahlvazard::village
-tahmas gavabar::village
 tahmasababad::village
 tahmasb qoli::village
-tahmaseb kandi::village
 tahmasebabad::village
+tahmaseb kandi::village
+tahmas gavabar::village
 tahmineh::village
-tahmures::village
 tahmuresat::village
+tahmures::village
 tahmursabad::village
 tahneh::village
 tahraband::village
 tahrak mahalleh::village
 tahrehdan::village
 tahrood, zahedan::village
+tah rud::village
 tahrud::village
 tahrui::village
-taht-e mahall::village
-taht-e manzar::village
-taht::village
 tahtaköprü::village
 tahtalar, kızılcahamam::village
 tahtali::village
-tahtalı::village
 tahtalıkaradut::village
+tahtalı::village
 tahtan::village
 tahtavil::village
 tahtayazı, Çubuk::village
-tahu::village
+taht-e mahall::village
+taht-e manzar::village
+taht::village
 tahula::village
 tahunabad::village
 tahuneh ostad::village
-tahuneh-ye qazi::village
 tahuneh::village
+tahuneh-ye qazi::village
+tahu::village
 tahyaq::village
+taiawhtu::village
 tai che::village
 tai hang hau::village
 tai kei leng::village
 tai kong po::village
+taikse::village
+taikury::village
+tail:尾部
 tai lam liu::village
 tai lam wu::village
+tail baila::village
+tail wani::village
+taineh::village
 tai no::village
+tain::village
 tai om shan::village
 tai om::village
 tai po mei::village
 tai po tin::village
+tairov::village
 tai tong wu::village
+taiwan:台湾
+taiwanese photinia::plant
 tai wan::village
 tai wo tsuen::village
-tai yeung che::village
-taiawhtu::village
-taikse::village
-taikury::village
-tail baila::village
-tail wani::village
-tail:尾部
-tain::village
-taineh::village
-tairov::village
-taiwan:台湾
 taiyafeh-ye ali jan::village
 taiyafeh-ye babakhan::village
 taiyafeh-ye hazrat-e soleyman::village
 taiyafeh-ye seyfollah::village
 taiyafeh-ye shaeran::village
 taiyafeh-ye shirzadi::village
-taj amir::village
-taj boyuk::village
-taj khatun::village
-taj kuh::village
-taj mahal::village
-taj maleki::village
-taj mir::village
-taj ol din kola::village
-taj ol din mahalleh::village
-taj ol din::village
-taj-e dowlatshah::village
-taj::village
+tai yeung che::village
 tajabad-e do::village
 tajabad-e kohneh::village
 tajabad-e olya::village
 tajabad-e yek::village
 tajabad::village
 tajag::village
-tajan gukeh::village
-tajan lateh-ye olya::village
-tajan lateh-ye sofla::village
-tajan::village
+taj amir::village
 tajanak-e olya::village
 tajanak-e sofla::village
 tajanak::village
+tajan gukeh::village
 tajanjar-e olya::village
 tajanjar-e sofla::village
-tajar kheyl::village
-tajar-e alavi::village
-tajar-e samen::village
-tajar::village
+tajan lateh-ye olya::village
+tajan lateh-ye sofla::village
+tajan::village
 tajarak::village
 tajaraq::village
+tajar-e alavi::village
 tajareh rud::village
 tajareh sadat::village
 tajareh sar ab-e sadat::village
-tajareh-ye galehdar::village
 tajareh::village
+tajareh-ye galehdar::village
+tajar-e samen::village
+tajar kheyl::village
 tajark::village
 tajaroq::village
+tajar::village
+taj boyuk::village
 tajdu::village
+taj-e dowlatshah::village
 tajerg::village
 tajeshk::village
-tajik::village
 tajikistan:塔吉克斯坦
+tajik::village
 tajjar akbar::village
 tajjar karam-e panahabad::village
+taj khatun::village
+taj kuh::village
 tajlapur::village
+taj mahal::village
+taj maleki::village
+taj mir::village
 tajnud::village
 tajoldinabad::village
+taj ol din kola::village
+taj ol din mahalleh::village
+taj ol din::village
 tajowal::village
+tajpura::village
 tajpur manjha::village
 tajpur::village
-tajpura::village
 tajrud::village
 tajsar::village
+tajur::village
 taju-ye sofla::village
 taju-ye vosta::village
-tajur::village
+taj::village
 tajwal tarli::village
 tajwal utli::village
 tajwan::village
-tak aghaj::village
-tak baghestan::village
-tak bolagh angut::village
-tak bolagh-e arshaq::village
-tak dam::village
-tak kandi::village
-tak mar::village
-tak meydan::village
-tak taku::village
-tak yuet lau::village
-tak-e ab band::village
-tak-e puk::village
-tak-e sofla::village
-tak-e zow::village
-taka ledougou-koko::village
 takab bandan::village
+takácsi::village
+tak aghaj::village
 takah chi::village
-takah kandi::village
 takahchi::village
+takah kandi::village
 takaidi::village
+taka ledougou-koko::village
 takali dhokeshwar::village
 takali haji::village
 takali::village
 takalsing::village
 takalu::village
-takam::village
 takamala::village
 takamboru::village
-takan tappeh::village
-takan::village
+takam::village
 takand::village
 takaneh::village
-takanlu-ye sofla::village
+takanlı::village
 takanlu::village
 takanluy-e olya::village
+takanlu-ye sofla::village
 takanluy-e sofla::village
-takanlı::village
+takan tappeh::village
+takan::village
 takap::village
-takar::village
 takara::village
+takar::village
 takatokwane::village
+tak baghestan::village
 takbaş::village
+tak bolagh angut::village
+tak bolagh-e arshaq::village
+tak dam::village
 takdarkhat::village
+take:取
+tak-e ab band::village
 take a moment to:花一些时间
 take it easy:放松
 take off:脱下
-take:取
+tak-e puk::village
+tak-e sofla::village
 takestan-e sadrabad::village
 takete-isao::village
-takha::village
+tak-e zow::village
 takhan::village
 takhar::village
+takha::village
 takhman miri::village
 takhnali::village
 takhshi mahalleh::village
+takhtabad::village
 takht ab-e gerdkaneh::village
 takht ab::village
+takhtan::village
 takht arreh do::village
 takht arreh yek::village
 takht-e ali zali::village
@@ -406,6 +409,15 @@ takht-e chaman::village
 takht-e chenar::village
 takht-e giveh deran::village
 takht-e goru::village
+takhteh duz::village
+takhteh ha::village
+takhteh pol::village
+takhteh puri::village
+takhteh sang-e olya::village
+takhteh sang-e sofla::village
+takhteh::village
+takhteh-ye kazemabad::village
+takhteh yurd::village
 takht-e kabud nargesi::village
 takht-e kabud::village
 takht-e malek::village
@@ -423,18 +435,6 @@ takht-e shirin::village
 takht-e sofla::village
 takht-e tuk::village
 takht-e zangi::village
-takht::village
-takhtabad::village
-takhtan::village
-takhteh duz::village
-takhteh ha::village
-takhteh pol::village
-takhteh puri::village
-takhteh sang-e olya::village
-takhteh sang-e sofla::village
-takhteh yurd::village
-takhteh-ye kazemabad::village
-takhteh::village
 takhtgah-e hoseyn soltan::village
 takhtgah-e jahan bakhsh::village
 takhtgah-e safi yar soltan::village
@@ -445,11 +445,13 @@ takhtiyeh::village
 takhtoyamsk::village
 takhtshah-e pain::village
 takhtun::village
+takht::village
 takhvij::village
-takia::village
 takiabad::village
+takia::village
 takikro::village
 takiyeh owlad qobad::village
+tak kandi::village
 taklah quz::village
 takleh-ye abbasabad-e olya::village
 takleh-ye bakhsh-e do::village
@@ -458,8 +460,10 @@ takli bobade::village
 takli kumbhakarna::village
 taklu::village
 takmachik::village
-takol hasan::village
+tak mar::village
+tak meydan::village
 takolabad::village
+takol hasan::village
 takoréagui::village
 takou::village
 takram::village
@@ -470,67 +474,44 @@ taksiseh-ye sofla::village
 taktabáj::village
 taktaharkány::village
 taktakenéz::village
+tak taku::village
 taktaszada::village
+täkumetsa::village
 takun::village
 takur::village
 takutar::village
 takyaliakty::village
-takye::village
+takyeh::village
 takyeh-ye armut::village
 takyeh-ye justan::village
 takyeh-ye naveh::village
 takyeh-ye olya::village
 takyeh-ye sofla::village
-takyeh::village
+takye::village
+tak yuet lau::village
 takzeh::village
-takácsi::village
-tal ali::village
-tal badam::village
-tal bon pereshkaft::village
-tal gudaband::village
-tal hajj ali::village
-tal pathar::village
-tal quch::village
-tal zardak::village
-tal'ar gharbi::village
-tal'ar sharqi::village
-tal-e afghani::village
-tal-e chega::village
-tal-e chegah::village
-tal-e gavi::village
-tal-e gerdu::village
-tal-e khaki::village
-tal-e reis::village
-tal-e sefid::village
-tal-e siyah-ye bid anjir::village
-tal-y-bont::village
-tal-y-sarn::village
-tal::village
 tala allam::village
-tala bar::village
-tala gopalpur::village
-tala tappeh::village
-tala::village
 talaa::village
-talab darreh::village
 talabad::village
-talabon::village
+tala bar::village
+talab darreh::village
 talabonak::village
+talabon::village
 talacre::village
-talada::village
 taladah::village
 taladar-e nakhlestan::village
+talada::village
 talaf::village
 talagah-e olya::village
 talagah-e sofla::village
 talagasyaya::village
 talageh-ye sofla::village
 talagoda::village
+tala gopalpur::village
 talagunda::village
 talagune::village
 talajim::village
 talaju::village
-talak::village
 talakal::village
 talakatnal::village
 talakiriyagama::village
@@ -538,29 +519,35 @@ talakiriyagma::village
 talakiriyawa::village
 talakolawela::village
 talakuh::village
-talal::village
+talak::village
 talalaivka::village
+tal ali::village
 talali::village
-talam khan::village
-talam::village
+talal::village
 talamadugu::village
 talamali::village
-talamar::village
 talamarla::village
+talamar::village
 talambrun ali shir::village
-talan teidit::village
+talam khan::village
+talam::village
 talandasht::village
 talang-e anbari::village
 talang-e saratak::village
+talan teidit::village
 talapelellagoda::village
-talar posht-e olya::village
-talar posht-e sofla::village
-talar posht::village
-talar::village
 talarak::village
 talaram::village
 talaran-e markazi::village
+tal'ar gharbi::village
+talar posht-e olya::village
+talar posht-e sofla::village
+talar posht::village
+tal'ar sharqi::village
+talar::village
+talašmance::village
 talata-angavo::village
+tala tappeh::village
 talator::village
 talatuoya::village
 talavak::village
@@ -572,29 +559,35 @@ talavar-e seh::village
 talavar-e yek::village
 talavata::village
 talaveri::village
+tala::village
 talawade::village
 talawatta::village
 talawatura::village
 talayeh::village
-talašmance::village
+tal badam::village
 talbant aga::village
+tal bon pereshkaft::village
 talciona::village
 taldy-bulak::village
-taldy-suu::village
 taldyk::village
-tale-e rudbar::village
-tale::village
+taldy-suu::village
+tal-e afghani::village
+talebabad::village
 taleb beygi::village
 taleb chaman::village
+taleb-e asfur::village
 taleb goli::village
+talebi::village
 taleb khan::village
 taleb qeshlaqi::village
 taleb sara::village
-taleb-e asfur::village
 taleb::village
-talebabad::village
-talebi::village
+tal-e chegah::village
+tal-e chega::village
+tale-e rudbar::village
 talegaon dabhade::village
+tal-e gavi::village
+tal-e gerdu::village
 taleh gongah::village
 taleh jar::village
 taleh jerd-e olya::village
@@ -604,71 +597,74 @@ taleh mian::village
 taleh sar::village
 taleh tut::village
 taleh varan::village
+taleh::village
 taleh zar-e olya::village
 taleh zar-e sofla::village
-taleh::village
+tal-e khaki::village
 talekstan::village
-talem seh shanbeh::village
 talembika::village
-taleqan tappeh::village
-taleqan-ye do::village
-taleqan-ye yek::village
-taleqan::village
+talem seh shanbeh::village
 taleqani mahalleh::village
 taleqani::village
+taleqan tappeh::village
+taleqan::village
+taleqan-ye do::village
+taleqan-ye yek::village
 talerddig::village
+tal-e reis::village
+tal-e sefid::village
+taleshan::village
+talesheh daraq::village
 talesh kandi::village
 talesh kheyl::village
 talesh kuh::village
+talesh mahalleh::village
 talesh mahalleh-ye bahambar::village
 talesh mahalleh-ye fatuk::village
-talesh mahalleh::village
 talesh sara::village
-taleshan::village
-talesheh daraq::village
+tal-e siyah-ye bid anjir::village
+tale::village
 talfara::village
 talgahagoda::village
 talgehi::village
+tal gudaband::village
+tal hajj ali::village
 talhan::village
 talheh::village
-tali shahi-ye olya::village
-tali, shwegu::village
-tali::village
-talian::village
+taliándörögd::village
 talianky::village
-talib nagar::village
+talian::village
 taliban:塔利班
+talib nagar::village
 talich kuh::village
 taligaran::village
 taliha::village
 talijan kar::village
-talika::village
 talikan::village
 talikatte::village
-talil::village
+talika::village
 talila::village
 talilt::village
+talil::village
 talimorab::village
-talin::village
 talineh-ye dudera::village
 talinoc i jerlive::village
 talinoc i muhaxhirëve::village
+talin::village
 talipler::village
+tali shahi-ye olya::village
 talish::village
+tali, shwegu::village
 talisin::village
-taliándörögd::village
+tali::village
+talışlar::village
+talış::village
 taljhari::village
 talk:谈话
 talkan::village
 talke::village
-talkh ab-e ahmadzadeh::village
-talkh ab-e valad::village
-talkh ab-e zardpatak::village
-talkh ab::village
-talkh bakhsh::village
-talkh ol naqi::village
-talkh-e ataher::village
 talkhab-e ahmadi::village
+talkh ab-e ahmadzadeh::village
 talkhab-e dishmuk::village
 talkhab-e hamzeh ali::village
 talkhab-e kalat::village
@@ -681,27 +677,42 @@ talkhab-e shirin::village
 talkhab-e sofla bidak::village
 talkhab-e sofla::village
 talkhab-e taj od din::village
+talkh ab-e valad::village
+talkh ab-e zardpatak::village
+talkh ab::village
 talkhab::village
 talkhak::village
 talkhari-ye abbas-e deligerdu::village
 talkhari-ye bandar-e deligerdu::village
 talkhari-ye dam-e deligerdu::village
+talkh bakhsh::village
+talkh-e ataher::village
 talkheh char::village
 talkheh dan-e bozorg amirabad::village
 talkheh dan-e jowkar::village
 talkheh dan-e olya::village
 talkheh dan-e run::village
 talkheh dan::village
+talkhehdan::village
 talkheh zar-e olya::village
 talkheh zar-e sofla::village
 talkheh zar::village
-talkhehdan::village
 talkhestan::village
 talkhi::village
+talkh ol naqi::village
 talkhu::village
 talkin::village
+tallabad::village
+tallagudem::village
+tallah::village
+tallamudi::village
 tall anjir::village
+tallanstown::village
+tallapudi::village
 tall armeni::village
+tallar sar-e gharbi::village
+tallar sar-e sharqi::village
+tallasingaram::village
 tall asvad::village
 tall babineh::village
 tall baman::village
@@ -715,7 +726,44 @@ tall bumeh::village
 tall changi-ye sofla::village
 tall chegah-e olya::village
 tall chegah-e sofla::village
+tall-e abiz::village
+tall-e amanollah::village
+tall-e asvad::village
+tall-e bardi::village
+tall-e beyza::village
+tall-e bidkan::village
+tall-e deraz::village
+tall-e gachi::village
+tall-e ganj gah::village
+tall-e gav::village
+tall-e gorosneh::village
+tall-e hajj now shad::village
+talleh pasgah::village
+talleh-ye bala::village
+talleh zang::village
+talleh zargeh::village
+tall-e kushk::village
+tall-e mishan::village
+tall-e mohammad yusof::village
+tall-e mollai::village
+tall-e morad khani::village
+tall-e nemat::village
+tall-e qadir::village
+tall-e qaleh-ye mugarmun::village
+tall-e quchan::village
+tall-e rigi::village
+tall-e sabz::village
+tall-e salar::village
 tall eshgafti::village
+tall-e shirazi::village
+tall-e shureh::village
+tall-e siah::village
+tall-e siah-ye ludab::village
+tall-e siasat::village
+tall-e sorkh::village
+tallet 86::village
+tallé::village
+tall-e zarrini::village
 tall gavineh::village
 tall gesar::village
 tall gord::village
@@ -735,12 +783,13 @@ tall mohammad::village
 tall movizi::village
 tall nader::village
 tall naqareh::village
+talloussa::village
 tall qaleh-ye pain::village
 tall rezaqoli mambi::village
 tall rizi-ye alivand::village
 tall roshtan::village
-tall saman::village
 tall samand::village
+tall saman::village
 tall sarbani::village
 tall seyyed fakhr ahmad::village
 tall shair::village
@@ -749,95 +798,50 @@ tall siah::village
 tall soleymani::village
 tall tak::village
 tall tanah::village
-tall zard::village
-tall zari::village
-tall-e abiz::village
-tall-e amanollah::village
-tall-e asvad::village
-tall-e bardi::village
-tall-e beyza::village
-tall-e bidkan::village
-tall-e deraz::village
-tall-e gachi::village
-tall-e ganj gah::village
-tall-e gav::village
-tall-e gorosneh::village
-tall-e hajj now shad::village
-tall-e kushk::village
-tall-e mishan::village
-tall-e mohammad yusof::village
-tall-e mollai::village
-tall-e morad khani::village
-tall-e nemat::village
-tall-e qadir::village
-tall-e qaleh-ye mugarmun::village
-tall-e quchan::village
-tall-e rigi::village
-tall-e sabz::village
-tall-e salar::village
-tall-e shirazi::village
-tall-e shureh::village
-tall-e siah-ye ludab::village
-tall-e siah::village
-tall-e siasat::village
-tall-e sorkh::village
-tall-e zarrini::village
-tall::village
-tallabad::village
-tallagudem::village
-tallah::village
-tallamudi::village
-tallanstown::village
-tallapudi::village
-tallar sar-e gharbi::village
-tallar sar-e sharqi::village
-tallasingaram::village
-talleh pasgah::village
-talleh zang::village
-talleh zargeh::village
-talleh-ye bala::village
-tallet 86::village
-talloussa::village
 tallula::village
 tallur::village
-tallé::village
+tall::village
+tall zard::village
+tall zari::village
 talmage::village
 talmara::village
 talmat::village
 talmaza::village
 talnar::village
-talok::village
 talokar::village
+talok::village
 taloli::village
 talothe::village
+tal pathar::village
 talpa::village
+tal quch::village
 talqur::village
 talsana::village
 talsuru::village
 talteliyeh::village
 talu bagh::village
-talu kola::village
-talu sar mahalleh::village
-talu sarak::village
-talu::village
 taluchal::village
+talu kola::village
 talun::village
 talupula::village
-talur::village
 taluri-ye olya::village
 taluri-ye sofla::village
+talur::village
+talu sarak::village
+talu sar mahalleh::village
 talustan::village
+talu::village
 talvana::village
 talvar bolaghi::village
 talvar::village
 talvat::village
 talveda::village
-talvik::village
 talvikese::village
+talvik::village
+tal::village
 talvin::village
 talvorik::village
 talwai::village
-talwan::village
 talwandi araian::village
 talwandi bakhta::village
 talwandi bha-rath::village
@@ -859,80 +863,80 @@ talwandi rai::village
 talwandi rajputan::village
 talwandi rama::village
 talwandi salem::village
+talwan::village
 talwara::village
 talwari::village
 talwat borgaon::village
-talış::village
-talışlar::village
-tam babol::village
-tam shui hang::village
-tam wat::village
-tam-e mirza hasan::village
-tam-e mokhtar::village
-tam-e rasul::village
+tal-y-bont::village
+tal-y-sarn::village
+tal zardak::village
 tamabade::village
 tamachi::village
 tamadjert::village
 tamaing::village
 tamaki::village
 tamakyaing::village
-tamal::village
 tamaloo::village
+tamal::village
 tamana al-ghab::village
 tamana::village
 tamand::village
 tamanpur::village
-tamar::village
 tamaraikulam::village
+tamarillo::plant
 tamark::village
 tamaroa::village
+tamar::village
 tamasgo, zorgho::village
 tamasha::village
 tamask::village
+tamašoŭka::village
 tamassint::village
 tamaung::village
 tamay::village
-tamašoŭka::village
+tam babol::village
 tambakbaya::village
 tambaseyun-e kuh mobarak::village
 tamber beyg::village
-tambi::village
 tambidi::village
 tambili::village
+tambi::village
 tamchal::village
 tamchy::village
 tamdari::village
-tameh::village
 tamehr::village
+tameh::village
 tameme::village
-tamer-e qarah quzi::village
-tamer::village
+tam-e mirza hasan::village
+tam-e mokhtar::village
+tam-e rasul::village
 tamerdash::village
+tamer-e qarah quzi::village
 tamerna djedida::village
 tamerna guedima::village
+tamer::village
 tameshkol::village
 tamesk::village
 tamhini bk::village
-tamidou, zorgho::village
 tamidou::village
+tamidou, zorgho::village
+tamièla::village
 tamiga-fulbé::village
 tamiga-mossi::village
 tamiga::village
-tamijan::village
 tamijanak::village
+tamijan::village
 tamik::village
 tamil:泰米尔人
-tamin, zahedan::village
 taminan::village
+tamin, zahedan::village
 tamirisa::village
 tamishi::village
 tamisian::village
 tamissi::village
 tamiz, zahedan::village
-tamièla::village
 tamleh::village
 tammaru::village
-tamme::village
 tammejärve::village
 tammeküla::village
 tammela::village
@@ -941,15 +945,16 @@ tammese::village
 tammessaare::village
 tammetaguse::village
 tammevaldma::village
+tamme::village
 tammiku::village
-tammispea::village
 tammispää::village
+tammispea::village
 tammiste::village
 tammistu::village
 tammitiya::village
 tammneeme::village
-tamms::village
 tammsaare::village
+tamms::village
 tammuna::village
 tammuru::village
 tamna, burma::village
@@ -957,111 +962,113 @@ tamouga::village
 tamoyot::village
 tamozhnya::village
 tampelcé::village
+tampèlga::village
+tampèlga, zimtenga::village
+tampé::village
 tampiokin::village
 tamponga::village
-tampouri::village
 tampouï::village
+tampouri::village
 tampureh-ye ruisheyd::village
-tampèlga, zimtenga::village
-tampèlga::village
-tampé::village
 tamrabad::village
-tamsa::village
 tamsaout::village
-tamsheh lameh::village
-tamsi::village
+tamsa::village
 tamsé::village
-tamtam::village
+tamsheh lameh::village
+tam shui hang::village
+tamsi::village
 tamtaman::village
+tamtam::village
 tamtinga::village
 tamtoraq::village
 tamtu, myanmar::village
 tamugheh::village
 tamuteh::village
 tamuzan::village
-tan bela::village
-tan dabin::village
-tan hills::village
-tana toa::village
-tanag lai::village
+tam wat::village
 tanaghai::village
+tanag lai::village
 tanahat::village
-tanak-e olya::village
-tanak-e sofla::village
 tanakajd::village
 tanakal::village
-tanam::village
+tanak-e olya::village
+tanak-e sofla::village
 tanama::village
+tanam::village
 tanashi::village
+tänassilma::village
 tanasvan::village
+tănătari::village
+tana toa::village
 tanazarud::village
 tanbaku kar-e ali::village
 tanbaku kar-e ebrahim::village
 tanbaku kar-e pain::village
 tanbaku kar::village
 tanbakukar::village
+tan bela::village
 tanbu::village
 tancua::village
-tanda bhagana::village
-tanda naroor::village
-tanda::village
 tandaai::village
+tanda bhagana::village
+tan dabin::village
 tandaga::village
+tanda naroor::village
 tandar aghaj::village
 tandarak::village
 tandaura::village
+tanda::village
 tanderlu::village
-tandi::village
 tandian::village
 tandil::village
 tandinas::village
+tandi::village
+tandırlı::village
+tandır::village
 tando gulshah::village
 tandwa::village
 tandzatap::village
 tandzaver::village
 tandzut::village
-tandır::village
-tandırlı::village
 taneh berri::village
 taneh raz::village
 tanem::village
 taneyru::village
 taneyville::village
+tangab-e sardar::village
+tangab-e shur::village
+tangab-e shush::village
 tang ab::village
+tangab::village
+tangadagi::village
+tangadapalli::village
+tangadi::village
+tangafla::village
+tangahka::village
+tangal-e ali beyk::village
+tangal-e bala::village
+tangal-e behdan::village
+tangal-e mazar::village
+tangal-e shur-e olya::village
+tangal::village
 tang andari::village
+tangandogo::village
+tanga-pela::village
+tangari::village
 tang ashkan::village
 tang asiab-e ajam::village
+tanga::village
+tangaye::village
 tang behdaneh::village
 tang bustan zizi::village
 tang chenar::village
 tang dalan::village
-tang darreh-ye gharbi::village
 tang darreh::village
+tang darreh-ye gharbi::village
+tangdeh tul gilan::village
 tang deh-ye shalal::village
 tang dez-e olya::village
 tang dez-e sofla::village
-tang gach::village
-tang gonda::village
-tang julan::village
-tang kolureh::village
-tang kord::village
-tang koreh::village
-tang mohr::village
-tang qaleh::village
-tang qir::village
-tang ravaq::village
-tang ris::village
-tang rud zizi::village
-tang rud::village
-tang sa::village
-tang shah::village
-tang sorkh gendarmerie::village
-tang taf::village
-tang talkh-e do::village
-tang talkh-e pagin::village
-tang talkh-e shomilan::village
-tang talkh-e yek::village
-tang zard-e gelal::village
 tang-e abdal::village
 tang-e adhaneh::village
 tang-e algher::village
@@ -1080,10 +1087,10 @@ tang-e bibi jun::village
 tang-e bid::village
 tang-e boraq::village
 tang-e cheh zarreh::village
-tang-e chowgan-e olya-ye kashkuli::village
 tang-e chowgan-e olya::village
-tang-e chowgan-e sofla-ye dar shuri::village
+tang-e chowgan-e olya-ye kashkuli::village
 tang-e chowgan-e sofla::village
+tang-e chowgan-e sofla-ye dar shuri::village
 tang-e chowgan-e vosta::village
 tang-e chuk::village
 tang-e daf::village
@@ -1097,11 +1104,19 @@ tang-e fariab::village
 tang-e gav::village
 tang-e gojestan::village
 tang-e goraz::village
-tang-e gur::village
 tang-e gurdalu-ye dishmuk::village
+tang-e gur::village
 tang-e halil::village
 tang-e hamgun::village
 tang-e hanzab::village
+tangeh narreh::village
+tangeh::village
+tangeh-ye do::village
+tangeh-ye olya::village
+tangeh-ye raz::village
+tangeh-ye seh::village
+tangeh-ye torkaman::village
+tangeh-ye yek::village
 tang-e jafar::village
 tang-e jedayi::village
 tang-e kabud::village
@@ -1116,14 +1131,15 @@ tang-e khvosh::village
 tang-e kish::village
 tang-e kolajiki tahalyun::village
 tang-e koleh::village
-tang-e kur::village
+tang-e kureh::village
 tang-e kureh-ye olya::village
 tang-e kureh-ye sofla::village
-tang-e kureh::village
+tang-e kur::village
 tang-e kushk::village
 tang-e kuzi::village
 tang-e lakoor::village
 tang-e lateh::village
+tangeli::village
 tang-e loreh::village
 tang-e mahlab-e mahtab::village
 tang-e man::village
@@ -1135,6 +1151,7 @@ tang-e musa::village
 tang-e nadam::village
 tang-e nakhl::village
 tang-e namak::village
+tangen::village
 tang-e palangi::village
 tang-e pari olya::village
 tang-e pol::village
@@ -1146,8 +1163,8 @@ tang-e quchan::village
 tang-e rahin::village
 tang-e rashid::village
 tang-e riz::village
-tang-e rud::village
 tang-e rudian::village
+tang-e rud::village
 tang-e ruin::village
 tang-e sabz::village
 tang-e sahteh::village
@@ -1156,11 +1173,12 @@ tang-e sheykh::village
 tang-e shuhan-e olya::village
 tang-e shuhan-e sofla::village
 tang-e shur-e olya::village
-tang-e si::village
 tang-e sistan::village
+tang-e si::village
 tang-e sorkh::village
-tang-e suk::village
+tangestan::village
 tang-e sukhteh-ye lirab::village
+tang-e suk::village
 tang-e tagher::village
 tang-e tahak::village
 tang-e tey::village
@@ -1169,55 +1187,43 @@ tang-e tur::village
 tang-e vajeg::village
 tang-e vard::village
 tang-e zard-e ashura::village
-tang-e zard::village
 tang-e zardeh-ye farkhinvand::village
+tang-e zard::village
 tang-e zirgol bardar::village
-tang-i-panj::village
-tang::village
-tanga-pela::village
-tanga::village
-tangab-e sardar::village
-tangab-e shur::village
-tangab-e shush::village
-tangab::village
-tangadagi::village
-tangadapalli::village
-tangadi::village
-tangafla::village
-tangahka::village
-tangal-e ali beyk::village
-tangal-e bala::village
-tangal-e behdan::village
-tangal-e mazar::village
-tangal-e shur-e olya::village
-tangal::village
-tangandogo::village
-tangari::village
-tangaye::village
-tangdeh tul gilan::village
-tangeh narreh::village
-tangeh-ye do::village
-tangeh-ye olya::village
-tangeh-ye raz::village
-tangeh-ye seh::village
-tangeh-ye torkaman::village
-tangeh-ye yek::village
-tangeh::village
-tangeli::village
-tangen::village
-tangestan::village
+tang gach::village
+tang gonda::village
 tanghet::village
 tanghin, toece::village
 tanghin::village
+tang-i-panj::village
 tangi sar::village
 tangivar::village
+tang julan::village
+tang kolureh::village
+tang kord::village
+tang koreh::village
 tangkyin::village
+tang mohr::village
 tangouna::village
 tangov::village
 tangowali::village
+tang qaleh::village
+tang qir::village
 tangrah::village
+tang ravaq::village
 tangrian::village
+tang ris::village
+tang rud::village
+tang rud zizi::village
+tang sa::village
+tang shah::village
+tang sorkh gendarmerie::village
 tangstad::village
+tang taf::village
+tang talkh-e do::village
+tang talkh-e pagin::village
+tang talkh-e shomilan::village
+tang talkh-e yek::village
 tangtong::village
 tangtung::village
 tanguen::village
@@ -1226,21 +1232,25 @@ tanguiyeh::village
 tanguleh-ye anjir::village
 tanguyeh-ye olya::village
 tanguyeh-ye sofla::village
+tang::village
 tangyar::village
 tangyek::village
+tang zard-e gelal::village
 tanha kola::village
 tanhak::village
+tan hills::village
 tanhoka::village
-tani mahalleh::village
 taniamboul::village
 tanian::village
 tanibiaga::village
+tani mahalleh::village
 taniplon:他尼普隆
 tanivka::village
+tanır::village
 tanjung batu::village
 tanjur::village
-tank alak::village
 tank:坦克
+tank alak::village
 tanker:油轮
 tankoala::village
 tankori::village
@@ -1249,16 +1259,18 @@ tankoulounga::village
 tankovo::village
 tanlallé::village
 tanlouka::village
-tann::village
 tannadice::village
+tännapere::village
+tännassilma::village
 tannersville::village
 tannunah::village
 tannurin::village
+tann::village
 tanrake::village
 tansablogo::village
+tansèga::village
 tansin::village
 tanska::village
-tansèga::village
 tantalize:调戏
 tantalum:钽
 tantanierta::village
@@ -1273,28 +1285,33 @@ tanwoko::village
 tanyeri::village
 tanyfron::village
 tanzania:坦桑尼亚
-tanır::village
 taoa::village
 taobat::village
 taolu::village
 taor::village
 taourirt::village
-tap water:自来水
-tap::village
 tap:龙头
+tąpadła::village
 tapala::village
 tapalqa::village
-tapan::village
 tapani::village
+tapan::village
 tapashi::village
 tapawa-wawa::village
 tape:磁带
 taperakan::village
-tapi::village
 tapik darreh::village
-tapik::village
 tapiku::village
+tapik::village
+tápióbicske::village
+tápiógyörgye::village
+tápióság::village
+tápiószecső::village
+tápiószentmárton::village
+tápiószőlős::village
 tapirapuã::village
+tapi::village
+táplánszentkereszt::village
 taplara::village
 tapoiming::village
 tapong::village
@@ -1303,18 +1320,18 @@ tappasakatti::village
 tappeh afshar::village
 tappeh ali::village
 tappeh azimeh::village
+tappeh bashi::village
 tappeh bashi-ye namaz::village
 tappeh bashi-ye purnak::village
-tappeh bashi::village
 tappeh bur::village
-tappeh dar::village
 tappeh darab khan::village
+tappeh dar::village
 tappeh daz::village
 tappeh dibi::village
 tappeh goji::village
-tappeh gol::village
 tappeh goleh-ye olya::village
 tappeh goleh-ye sofla::village
+tappeh gol::village
 tappeh hammam-e olya::village
 tappeh hammam-e sofla::village
 tappeh hammam-e vosta::village
@@ -1340,17 +1357,17 @@ tappeh rash::village
 tappeh sabz::village
 tappeh salam::village
 tappeh sangar::village
-tappeh sar::village
 tappeh saremi::village
+tappeh sar::village
 tappeh shir khan::village
 tappeh taq::village
 tappeh torkaman::village
+tappeh::village
 tappeh yazdan::village
-tappeh zard::village
 tappeh-ye ata::village
 tappeh-ye babaganjeh::village
-tappeh-ye esmail::village
 tappeh-ye esmailabad::village
+tappeh-ye esmail::village
 tappeh-ye hoseyn khan::village
 tappeh-ye jik::village
 tappeh-ye khargushan::village
@@ -1358,54 +1375,55 @@ tappeh-ye lal mohammad::village
 tappeh-ye mir ahmad::village
 tappeh-ye shaban::village
 tappeh-ye zohurian::village
-tappeh::village
+tappeh zard::village
 tapsia::village
+täpsi::village
 tapsony::village
+tápszentmiklós::village
 taptukemre::village
 tapuli::village
 tapupere::village
 tapurla::village
 taputimu::village
-taq darreh::village
-taq hoseyn-e seyd hadi::village
-taq rezaleh-ye mohammad aqa::village
-taq taq::village
-taq tavi::village
-taq-e abbasali::village
-taq-e gavarin::village
-taq-e pol::village
-taq::village
-taqa::village
+tap::village
+táp::village
+tap water:自来水
 taqab::village
 taqahai-ye chahar bisheh::village
 taqakenarsheh::village
-taqan::village
 taqanpay-e patakeh::village
+taqan::village
 taqarkuiyeh::village
+taqa::village
 taqcharabad::village
 taqcheh dash::village
+taq darreh::village
+taq-e abbasali::village
+taq-e gavarin::village
+taq-e pol::village
 taqha-ye jafar qoli::village
-taqi dizaj::village
-taqi kandi::village
-taqi sara::village
+taq hoseyn-e seyd hadi::village
 taqiabad-e kan kot::village
 taqiabad-e shahrestan::village
 taqiabad::village
+taqi dizaj::village
+taqi kandi::village
+taqi sara::village
 taqlidabad::village
+taq rezaleh-ye mohammad aqa::village
 taqsis::village
-tar taing::village
-tar-suu::village
-tar::village
-tara garh::village
-tara::village
-tarab khani::village
+taq taq::village
+taq tavi::village
+taq::village
 tarababad::village
 tarabania::village
+tarab khani::village
 taraclia de salcie::village
 taraclia::village
 taradak::village
 taradeh::village
 taraf::village
+tara garh::village
 taragarh::village
 taraisewaniya::village
 taraitha::village
@@ -1415,26 +1433,26 @@ tarakab::village
 tarakak::village
 tarakani-ye pain::village
 tarakapur harijan basti::village
+tarakçı::village
 taraklı::village
 tarakmeh::village
 taraknagar::village
 tarakuse::village
 tarakvere::village
-tarakçı::village
 taralanda::village
-taram::village
 taramazd::village
 taramchuk::village
 tarampuk::village
+taram::village
 taran-bazar::village
-taran::village
 tarancheh::village
 tarand-e bala::village
 tarand-e pain::village
 tarang tappeh::village
-tarani::village
 taranipur::village
+tarani::village
 taranj::village
+taran::village
 tarany::village
 taraon::village
 tarapur::village
@@ -1446,7 +1464,6 @@ tarasgaon::village
 tarashany::village
 tarasivka::village
 tarasivtsi::village
-tarat::village
 taratanr::village
 taratava::village
 taratekan::village
@@ -1454,20 +1471,24 @@ taratgaon::village
 tarati::village
 taratumb::village
 taratun::village
+tarat::village
 tarauna::village
+tara::village
 tarawad::village
 tarawli kalan::village
 tarawli khurd::village
-taraz kuh::village
-taraz-e khaki::village
-taraz::village
+taraxacum officinale::plant
+taraxacum officinale::plant
 tarazak-e abdollah::village
 tarazak-e kasan::village
 tarazan-e olya::village
 tarazan-e sofla::village
+taraz-e khaki::village
+taraz kuh::village
 taraznahid::village
 tarazu bareh::village
 tarazuj::village
+taraz::village
 tarbat kandi::village
 tarbert::village
 tarbja::village
@@ -1479,25 +1500,25 @@ tarbuyeh::village
 tarchalice::village
 tarchit::village
 tarczyn::village
-tard::village
 tardal::village
 tardebigge::village
 tardona::village
 tardos::village
+tard::village
 taredakoppa::village
+tareh::village
 tareh-ye ahrar abbasabad molla reza::village
 tareh-ye ashayiri::village
 tareh-ye darkhatkari chesh::village
 tareh-ye nishkarhaft tappeh::village
-tareh::village
-tares::village
 taresh::village
 tareste::village
+tares::village
 tarevci::village
-tarf behbal bahadur::village
-tarf hazi::village
 tarfayeh::village
+tarf behbal bahadur::village
 tarfeh::village
+tarf hazi::village
 targa::village
 target:目标
 targoszyn::village
@@ -1506,39 +1527,40 @@ targowica::village
 targownica::village
 targuiyeh::village
 tarhamabad::village
-tarhan::village
 tarhani-ye sofla::village
+tarhan::village
 tarhaouhaout::village
 tarhari::village
 tarhenanet::village
 tarhipti::village
 tarhovo::village
-tari kola::village
-tari mahalleh::village
 taridalu::village
 tarihal::village
 tarik aviz::village
+tarik darreh::village
 tarik darreh-ye bala::village
 tarik darreh-ye pain::village
-tarik darreh::village
 tarikeh-ye rangrazan::village
 tarikmah::village
+tari kola::village
 tarikuiyeh::village
+tari mahalleh::village
 tarimish::village
 tarin::village
 taris, yemen::village
 taritu::village
+tärivere::village
 tarjanli::village
-tarján::village
 tarjánpuszta::village
-tark darreh::village
-tark-e viran::village
-tark::village
+tarján::village
 tarkam::village
+tárkány::village
 tarkarli::village
+tark darreh::village
 tarkeh veys::village
 tarkesh-e olya::village
 tarkesh-e sofla::village
+tark-e viran::village
 tarkhanabad::village
 tarkhanawali::village
 tarkhanlar::village
@@ -1546,42 +1568,47 @@ tarkhas::village
 tarkheh::village
 tarkhinabad::village
 tarkhuran::village
+tärkma::village
 tarkowo dolne::village
 tarkowo górne::village
-tarlab::village
+tark::village
 tarlabaşı::village
-tarlan::village
+tarlab::village
 tarland::village
+tarlan::village
 tarlatepe::village
 tarlupadu::village
-tarmak::village
 tarmakchi::village
-tarman::village
+tarmak::village
 tarmani::village
-tarn taran::village
-tarna::village
-tarnab::village
+tarman::village
 tarnabod::village
+tarnab::village
+tårnåsen::village
 tarnaszentmiklós::village
+tarna::village
 tarnawa duża::village
-tarnawa mała::village
 tarnawa-kolonia::village
+tarnawa mała::village
 tarnazsadány::village
 tarnetar::village
 tarnik::village
+tárnokréti::village
+tárnok::village
 tarnoslivka::village
-tarnov::village
 tarnovlak::village
-tarnowiec::village
-tarnowola::village
-tarnów::village
+tarnov::village
 tarnówek::village
+tarnowiec::village
 tarnówka::village
 tarnówko::village
+tarnowola::village
+tarnów::village
+tarn taran::village
 tarob::village
-tarom sar::village
-tarom sara::village
 tarom-e gur sefid::village
+tarom sara::village
+tarom sar::village
 tarom::village
 taronik::village
 taroo::village
@@ -1591,14 +1618,14 @@ tarowali::village
 tarpak::village
 tarpala::village
 tarpno::village
-tarpu::village
 tarpurchandi::village
-tarq::village
+tarpu::village
 tarqetey::village
-tarqi-ye sofla::village
-tarqi::village
 tarqideh::village
+tarqi::village
+tarqi-ye sofla::village
 tarqoli::village
+tarq::village
 tarradeh::village
 tarrah-e do::village
 tarrah-e yek::village
@@ -1606,67 +1633,75 @@ tarrar::village
 tarreh bakhakh pardis::village
 tarreh dan::village
 tarreh-e khezr::village
+tarrés::village
 tarrington::village
 tarroja de segarra::village
-tarrés::village
-tarsa::village
 tarsabad::village
+tarsa::village
 tarseh bolagh::village
 tarseh::village
 tarshabur::village
 tarshian::village
-tarsi kola::village
 tarsiab::village
+tarsi kola::village
 tarsino::village
+tar-suu::village
 tarsu va sibarun::village
+tar taing::village
 tartaul::village
 tartej::village
 tartokas::village
 tarumaa::village
 tarun::village
-tarur-i::village
+tårup::village
 tarur-ii::village
-tarva::village
+tarur-i::village
 tarvastu::village
+tarva::village
 tarveh maratzi::village
 tarvih adai::village
+tar::village
 tarvin::village
 tarvizak::village
 tarwa barwa::village
 tarwai::village
-tarz::village
 tarzam::village
 tarzanaq::village
 tarzay::village
 tarzelu::village
-tas kand::village
-tas tappeh::village
+tarz::village
+taşağıl, manavgat::village
+taşağıl::village
 tasak::village
 tasandeh::village
-tasband::village
 tasbandi::village
+tasband::village
+taşbaşı::village
 tasbih kola::village
+taşburun::village
+taşçanak::village
+taşçılar::village
+taşçı::village
 tasfiyeh shekar::village
-tash kola::village
-tash nafas::village
-tash-bulak::village
-tash-döbö::village
-tash-e olya::village
-tash-e sofla::village
-tash::village
 tashar::village
 tashbandan::village
+tash-bulak::village
 tashdeh::village
+tash-döbö::village
 tasheh kabud::village
+tash-e olya::village
+tash-e sofla::village
 tashi loipaw::village
 tashinga::village
-tashk::village
-tashkan-e sadat::village
 tashkanan::village
+tashkan-e sadat::village
+tash kola::village
 tashkuh-e olya::village
 tashkuh-e sofla::village
 tashkuh-e vosta::village
 tashkuiyeh::village
+tashk::village
+tash nafas::village
 tashpur::village
 tashtak::village
 tashto::village
@@ -1675,16 +1710,41 @@ tashuk::village
 tashun::village
 tashuyeh::village
 tashvand::village
+tash::village
 tasian::village
 tasik::village
-tasisat sadamirkebir::village
 tasisat-e sadd-e latian::village
+tasisat sadamirkebir::village
 task:任务
+taşkale::village
+tas kand::village
+táska::village
+taşkesen::village
+taşkesiği, korkuteli::village
+taşkesiği, manavgat::village
 taskin::village
+taşkıran::village
 taskoh::village
+taşköprü::village
+taşköy::village
+taşkuyu::village
+taşlıca, kızılcahamam::village
+taşlıca::village
+taşlıçay::village
+taşlıdere::village
+taşlık::village
+taşlıyayla::village
 tasmalu::village
 tasnin::village
+taşobası::village
+taşoluk, kuyucak::village
+taşoluk::village
+taşören::village
+taşpınar, Çubuk::village
+taşpınar, polatlı::village
+taşpınar::village
 tasran::village
+tas tappeh::village
 taste:尝
 tasteghar::village
 tasteless:无味的
@@ -1692,59 +1752,61 @@ tasty:可口的
 tasuj-e olya::village
 tasuj::village
 tasurehjan::village
+täsvere::village
 tasyesat-e kut-e amir::village
+taszár::village
 taszewko::village
 taszewo::village
 taszewskie pole::village
-taszár::village
-tat hims::village
-tat kandi::village
-tat qeshlaq::village
-tata talav::village
 tataf rud::village
 tataf::village
 tatar bayjeq::village
-tatar-e olya::village
-tatar-e sofla::village
-tatar::village
 tatarbudžak::village
 tatardeh::village
+tatar-e olya::village
+tatar-e sofla::village
 tatarestaq::village
+tătărești::village
 tatarevo::village
 tatarkale::village
 tatarkend::village
 tatarovina::village
+tatárszentgyörgy::village
+tatar::village
+tata talav::village
 tatchaung::village
 tateh rashid::village
 taterma::village
+tat hims::village
 tathwell::village
 tatipaka::village
 tatiparthi::village
+ta tit yan::village
 tatiyah::village
+tat kandi::village
 tatkon::village
 tatkovo::village
 tatköy, korkuteli::village
 tatlak, Çamlıdere::village
 tatlar::village
-tatlı::village
 tatlıkuyu, polatlı::village
 tatlıpayam::village
 tatlısu::village
+tatlı::village
 tatnak::village
 tatoni::village
+tat qeshlaq::village
 tatra::village
 tatruse::village
 tattekere::village
-tatti::village
 tattiannaram::village
+tatti::village
 tatul::village
-tatárszentgyörgy::village
-tau::village
+taučiūnai::village
 tauginiškiai::village
 taukte::village
 taumangyang::village
-taung-u::village
-taung-ywa::village
+ta'um::village
 taungbauk::village
 taungbola::village
 taungbon::village
@@ -1755,15 +1817,15 @@ taunggon::village
 taungle::village
 taunglwe::village
 taungni-chinywa::village
+taung-u::village
 taungyagon::village
+taung-ywa::village
 taupye::village
 tauthali::village
+tau::village
 tauysh::village
-taučiūnai::village
 tavaher::village
 tavai::village
-tavakkol-e karim kola::village
-tavakkol::village
 tavakkolabad-e amid::village
 tavakkolabad-e darreh deraz::village
 tavakkolabad-e do::village
@@ -1774,11 +1836,13 @@ tavakkolabad-e yek::village
 tavakkolabad-e zeh kalut::village
 tavakkolabad::village
 tavakkolan::village
-tavakolabad hoorshi::village
-tavakolabad minooie::village
+tavakkol-e karim kola::village
+tavakkol::village
 tavakolabad, azizabad::village
 tavakolabad, corrin::village
+tavakolabad hoorshi::village
 tavakolabad, ladiz::village
+tavakolabad minooie::village
 tavakolabad, mirjaveh::village
 tavalageri::village
 tavaleh::village
@@ -1787,12 +1851,12 @@ tavallali::village
 tavalledan::village
 tavalli::village
 tavamen shineh::village
+tavandar::village
 tavan dasht-e olya::village
 tavan dasht-e sofla::village
-tavan::village
-tavandar::village
 tavaneh::village
 tavankesh::village
+tavan::village
 tavaq::village
 tavargatti::village
 tavargeri::village
@@ -1809,16 +1873,16 @@ taveh::village
 taverne d'arbia::village
 tavibeh::village
 tavier::village
-tavil deraz::village
-tavil::village
 tavilan-e olya::village
 tavilan-e sofla::village
+tavil deraz::village
 tavileh chaman::village
+tavilehgah-e olya::village
+tavilehgah-e sofla::village
 tavileh-ye do::village
 tavileh-ye shami::village
 tavileh-ye yek::village
-tavilehgah-e olya::village
-tavilehgah-e sofla::village
+tavil::village
 tavilzhanka::village
 taviq::village
 taviran-e olya::village
@@ -1830,43 +1894,42 @@ tavriyske::village
 tavros::village
 tavrus::village
 tavrychanka::village
+tavşancık::village
+tavşanlı::village
+tavşanuşağı::village
 tavshut::village
 tavuklu::village
 tavullar, elmalı::village
 tavus darrehsi::village
-tavus::village
 tavush::village
 tavusiyeh::village
-tavşancık::village
-tavşanlı::village
-tavşanuşağı::village
-tawa::village
+tavus::village
 tawandi lal singh::village
 tawara::village
 tawashi::village
+tawa::village
 tawbakawng::village
 tawban::village
 tawbon::village
 tawian, shwegu::village
-tawiyan yiti::village
 tawiyan::village
+tawiyan yiti::village
 tawlabah::village
 tawma::village
-tawng-ywa::village
 tawngbohla::village
 tawngkaw::village
 tawnglin::village
+tawng-ywa::village
 tawung::village
 taww::village
 tawzi::village
 taxonomy:分类学
 taxtabaşı::village
 taxtakəran::village
-tay::village
-taya::village
-tayab::village
 tayabpur::village
+tayab::village
 tayakadın::village
+taya::village
 taybeh::village
 tayekan::village
 tayemeh::village
@@ -1875,24 +1938,94 @@ tayeqan::village
 tayibe::village
 tayifeh michak::village
 taykonyr::village
-taylor springs::village
-taylor::village
 taylor:泰勒
 taylors arm::village
+taylor springs::village
+taylor::village
 tayqan::village
 tayr harfa::village
 tayru::village
+tay::village
 tayyareh::village
 tayyebabad::village
 tayzin::village
 tazakend::village
-tazan::village
 tazanovdzhi::village
-tazar::village
+tazan::village
 tazarah::village
 tazareh::village
 tazarkosh::village
-tazeh kand gandomabad::village
+tazar::village
+tazehabad bahram::village
+tazehabad duleh rash::village
+tazehabad-e amaleh::village
+tazehabad-e amin::village
+tazehabad-e asef::village
+tazehabad-e bani azizi::village
+tazehabad-e bati::village
+tazehabad-e bidgoli::village
+tazehabad-e bostan kheyl::village
+tazehabad-e bozon qaran::village
+tazehabad-e chaf::village
+tazehabad-e chomaqestan::village
+tazehabad-e darreh gerd::village
+tazehabad-e doktor vase::village
+tazehabad-e doveyseh::village
+tazehabad-e dulkoru::village
+tazehabad-e fushazdeh::village
+tazehabad-e galaneh::village
+tazehabad-e garaveh::village
+tazehabad-e gardel gari::village
+tazehabad-e gari khan mohammad::village
+tazehabad-e gavmishan::village
+tazehabad-e heydarbeygi::village
+tazehabad-e hijan::village
+tazehabad-e isaabad::village
+tazehabad-e jankah::village
+tazehabad-e jehad::village
+tazehabad-e kalashem::village
+tazehabad-e karsavan::village
+tazehabad-e khachekin::village
+tazehabad-e kord sara kuh::village
+tazehabad-e kukav::village
+tazehabad-e labagh::village
+tazehabad-e maran::village
+tazehabad-e markazi::village
+tazehabad-e marzian::village
+tazehabad-e melleh tarshi::village
+tazehabad-e miraki::village
+tazehabad-e mowlai::village
+tazehabad-e murchi::village
+tazehabad-e namivand::village
+tazehabad-e narakeh::village
+tazehabad-e nazliyan::village
+tazehabad-e pasikhan::village
+tazehabad-e qaleh juq::village
+tazehabad-e qaragol::village
+tazehabad-e qazi ali::village
+tazehabad-e qeruchay::village
+tazehabad-e sadar::village
+tazehabad-e sarab-e qaht::village
+tazehabad-e sarab tiran::village
+tazehabad-e sarab::village
+tazehabad-e sarayilan::village
+tazehabad-e sar dalan::village
+tazehabad-e sar owriyeh::village
+tazehabad-e sepah::village
+tazehabad-e serias::village
+tazehabad-e seydali::village
+tazehabad-e shir ali::village
+tazehabad-e tahmasbqoli::village
+tazehabad-e taleqan::village
+tazehabad-e tefli::village
+tazehabad-e tumar::village
+tazehabad-e vazir::village
+tazehabad-e zir khaki::village
+tazehabad golestaneh::village
+tazehabad kikhosrow::village
+tazehabad kola::village
+tazehabad sufi baleh::village
+tazehabad::village
 tazeh kand-e adaghan::village
 tazeh kand-e afshar::village
 tazeh kand-e akhvond::village
@@ -1900,6 +2033,7 @@ tazeh kand-e aliabad::village
 tazeh kand-e anhar::village
 tazeh kand-e baba ganjeh::village
 tazeh kand-e bekrabad::village
+tazehkand-e chenaq::village
 tazeh kand-e davudlu::village
 tazeh kand-e divan ali::village
 tazeh kand-e fakhrlu::village
@@ -1949,131 +2083,30 @@ tazeh kand-e tahmasb::village
 tazeh kand-e vinaq::village
 tazeh kand-e yaft::village
 tazeh kand-e yuzbashi::village
-tazeh kand::village
-tazeh patak::village
-tazeh qaleh::village
-tazeh qeshlaq::village
-tazeh ran::village
-tazeh yab::village
-tazehabad bahram::village
-tazehabad duleh rash::village
-tazehabad golestaneh::village
-tazehabad kikhosrow::village
-tazehabad kola::village
-tazehabad sufi baleh::village
-tazehabad-e amaleh::village
-tazehabad-e amin::village
-tazehabad-e asef::village
-tazehabad-e bani azizi::village
-tazehabad-e bati::village
-tazehabad-e bidgoli::village
-tazehabad-e bostan kheyl::village
-tazehabad-e bozon qaran::village
-tazehabad-e chaf::village
-tazehabad-e chomaqestan::village
-tazehabad-e darreh gerd::village
-tazehabad-e doktor vase::village
-tazehabad-e doveyseh::village
-tazehabad-e dulkoru::village
-tazehabad-e fushazdeh::village
-tazehabad-e galaneh::village
-tazehabad-e garaveh::village
-tazehabad-e gardel gari::village
-tazehabad-e gari khan mohammad::village
-tazehabad-e gavmishan::village
-tazehabad-e heydarbeygi::village
-tazehabad-e hijan::village
-tazehabad-e isaabad::village
-tazehabad-e jankah::village
-tazehabad-e jehad::village
-tazehabad-e kalashem::village
-tazehabad-e karsavan::village
-tazehabad-e khachekin::village
-tazehabad-e kord sara kuh::village
-tazehabad-e kukav::village
-tazehabad-e labagh::village
-tazehabad-e maran::village
-tazehabad-e markazi::village
-tazehabad-e marzian::village
-tazehabad-e melleh tarshi::village
-tazehabad-e miraki::village
-tazehabad-e mowlai::village
-tazehabad-e murchi::village
-tazehabad-e namivand::village
-tazehabad-e narakeh::village
-tazehabad-e nazliyan::village
-tazehabad-e pasikhan::village
-tazehabad-e qaleh juq::village
-tazehabad-e qaragol::village
-tazehabad-e qazi ali::village
-tazehabad-e qeruchay::village
-tazehabad-e sadar::village
-tazehabad-e sar dalan::village
-tazehabad-e sar owriyeh::village
-tazehabad-e sarab tiran::village
-tazehabad-e sarab-e qaht::village
-tazehabad-e sarab::village
-tazehabad-e sarayilan::village
-tazehabad-e sepah::village
-tazehabad-e serias::village
-tazehabad-e seydali::village
-tazehabad-e shir ali::village
-tazehabad-e tahmasbqoli::village
-tazehabad-e taleqan::village
-tazehabad-e tefli::village
-tazehabad-e tumar::village
-tazehabad-e vazir::village
-tazehabad-e zir khaki::village
-tazehabad::village
-tazehkand-e chenaq::village
 tazehkand-e ziaabad::village
+tazeh kand gandomabad::village
+tazeh kand::village
 tazehkand::village
 tazehnab-e mohammad baqer::village
 tazehnab-e olya::village
 tazehnab-e sofla::village
 tazehnab-e vosta::village
+tazeh patak::village
+tazeh qaleh::village
+tazeh qeshlaq::village
+tazeh ran::village
+tazeh yab::village
 tazenakht::village
-tazhan::village
 tazhandareh::village
+tazhan::village
 tazhban::village
 tazian-e bala::village
 tazlar::village
 tazona::village
 tazrak::village
 tazraq::village
-tağaroba::village
-tağlı::village
-tağıbəyli::village
-tağılar::village
-taşağıl, manavgat::village
-taşağıl::village
-taşbaşı::village
-taşburun::village
-taşkale::village
-taşkesen::village
-taşkesiği, korkuteli::village
-taşkesiği, manavgat::village
-taşkuyu::village
-taşköprü::village
-taşköy::village
-taşkıran::village
-taşlıca, kızılcahamam::village
-taşlıca::village
-taşlıdere::village
-taşlık::village
-taşlıyayla::village
-taşlıçay::village
-taşobası::village
-taşoluk, kuyucak::village
-taşoluk::village
-taşpınar, polatlı::village
-taşpınar, Çubuk::village
-taşpınar::village
-taşçanak::village
-taşçı::village
-taşçılar::village
-taşören::village
 tbilisskaya::village
+t. challapalle::village
 tchapossi::village
 tchatchaminade::village
 tcheoka::village
@@ -2082,6 +2115,7 @@ tchirkpambo::village
 tchitchoa::village
 tchotchopola::village
 tchoutchoubeni::village
+t. chowdaravaripalli::village
 tea:茶
 teabamagu::village
 teach:教
@@ -2105,6 +2139,7 @@ technical:技术上的
 technique:技术
 technological:技术上的
 technology:技术
+tečić::village
 tecir::village
 tectonic plate:地质构造板块
 teeke::village
@@ -2112,8 +2147,8 @@ teela khedi::village
 teen:少年
 teenage:少年的
 teenuse::village
-teerth::village
 teertha::village
+teerth::village
 teesta valley tea garden::village
 teetaan::village
 teeth:牙
@@ -2139,13 +2174,16 @@ tegirmech::village
 tegirmen-say::village
 tegirmenti::village
 tegoia::village
+tęgowiec::village
 tegryn::village
+téguéla::village
 teguise::village
 tegur::village
-tegyi::village
 tegyigan::village
+tegyi::village
 teharka::village
 tehgak::village
+téhiri::village
 tehmasabi::village
 tehrani::village
 tehri visthapit::village
@@ -2154,7 +2192,6 @@ teikhang::village
 teilma::village
 teinkin::village
 teinmata::village
-tej kenar::village
 teja kalan::village
 teja khurd::village
 tejak::village
@@ -2164,13 +2201,14 @@ tejen kola-ye sofla::village
 tejgadh::village
 tejgaon::village
 teji bazar::village
+tej kenar::village
 tekanlujeh::village
 tekardih::village
 tekedüzü::village
 tekehlar::village
-tekeli::village
 tekeliler::village
 tekeliören::village
+tekeli::village
 tekeriš::village
 tekeshykhy::village
 teketo::village
@@ -2187,14 +2225,14 @@ tekirler::village
 tekirsin::village
 tekiyeh::village
 tekkale::village
-tekke, kazan::village
-tekke::village
 tekkedere::village
 tekkeh::village
+tekke, kazan::village
 tekkeköy, elmalı::village
 tekkeköy, nallıhan::village
 tekkeköy, serik::village
 tekkeköy::village
+tekke::village
 tekkuyu::village
 teklafalu::village
 teklanowo::village
@@ -2214,31 +2252,33 @@ telaprolu::village
 telaram::village
 telaulim::village
 telavåg::village
+telążna leśna::village
+telążna stara::village
 telcharka::village
 teldeniya town::village
 telebureau:电信局
 telecenter:电信中心
 telecentre:电信中心
+telečka::village
 telegraph:电报
 telegraphy:电报
-teleh khan::village
 telehdan-e gamdad bazar::village
+teleh khan::village
 telekes::village
 teleki::village
 telephone:电话
 telerig::village
+teleșeu::village
 telesm::village
 television:电视
-telečka::village
-teleșeu::village
 telfes::village
 telgar::village
 telgerd::village
 telhara::village
 teliagarhi::village
-telih::village
 telihigala::village
 telihunna::village
+telih::village
 telikały::village
 telikhali::village
 telim kandi::village
@@ -2248,23 +2288,23 @@ telise::village
 telizhyntsi::village
 telkabad::village
 telkari::village
+tell:告诉
+telladevarapalli::village
 tell al-nabi mando::village
+tella::village
 tell dahab::village
 tell hawsh::village
+telli::village
+tell me:告诉我
 tell me about your family:跟我讲讲你的家庭
 tell me everything:告诉我一切
 tell me why:告诉我为什么
-tell me:告诉我
+tello::village
+tellow-e bala::village
 tell qarah::village
 tell shihab::village
 tell shughayb::village
 tell touqan::village
-tell:告诉
-tella::village
-telladevarapalli::village
-telli::village
-tello::village
-tellow-e bala::village
 tellurium:碲
 telma darreh::village
 telman::village
@@ -2273,19 +2313,17 @@ telneset::village
 telonge::village
 telsang::village
 telsen::village
-telu::village
 telua::village
 teluk::village
 telur::village
+telu::village
 telvar::village
-telążna leśna::village
-telążna stara::village
 tema::village
 tembhli::village
 tembholi::village
-tembi::village
 tembiligala pallegama::village
 tembiligala udagama::village
+tembi::village
 tembrungharta::village
 temeleuți::village
 temeliyeh::village
@@ -2296,20 +2334,19 @@ temenuga::village
 temir::village
 temisgam::village
 temnaoré-foulbé::village
-tempa::village
 tempalli::village
+tempa::village
 temperature:温度
 templand::village
 template:模板
-temple cloud::village
-temple herdewyke::village
 temple:庙
+temple cloud::village
 templecombe::village
 templeglantine::village
+temple herdewyke::village
 templetuohy::village
 temporary:临时的
 temvria::village
-ten post::village
 ten:十
 tenaniwal::village
 tenant:租户
@@ -2322,55 +2359,58 @@ tengboche::village
 tengdik::village
 tengelic::village
 tengeri::village
+tengőd::village
 tengraha::village
 tengri:腾格里
 tengrism:腾格里崇拜
-tengőd::village
 tening christ village::village
 tening hq::village
 tening namsan::village
 tenja::village
-tenk::village
 tenkerli::village
+tenk::village
 tenna, sri lanka::village
 tennebø::village
 tennehena::village
 tennehenwala::village
 tennekumbura::village
-tennessee::village
 tennessee:田纳西州
-tennis player:网球运动员
+tennessee::village
 tennis:网球
+tennis player:网球运动员
 tennyson::village
 tenonghin-peulh::village
 tenpadit::village
+ten post::village
 tension:紧张
 tensor:张量
 tent:帐篷
 tenth:第十
 tentha::village
-teodorowo::village
-teodorów::village
+tényő::village
+teočak-krstac::village
 teodorówka-kolonia::village
 teodorówka::village
+teodorowo::village
+teodorów::village
 teodoure::village
 teolog::village
+téonsgo::village
 teontha::village
 teoponte::village
 teosin::village
-teočak-krstac::village
+tepanje::village
+tepan::village
+tepava::village
+tepa::village
 tepa-ye olya::village
 tepa-ye sofla::village
-tepa::village
-tepan::village
-tepanje::village
-tepava::village
-tepe fullol::village
-tepe-korgon::village
 tepebağ::village
 tepebaşı::village
 tepecik::village
+tepe fullol::village
 tepeharman::village
+tepe-korgon::village
 tepeköy, manavgat::village
 tepeköy, nallıhan::village
 tepeköy::village
@@ -2380,17 +2420,16 @@ tepelvälja::village
 tepesuyu::village
 tepetarla::village
 tepetaşpınar::village
-tepeyurt::village
 tepeüstü::village
+tepeyurt::village
+tephrosia arenicola::plant
+tephrosia spinosa::plant
 tepke::village
 teplen::village
 tepsili::village
 tepugolla::village
 tepun::village
 teqali::village
-ter heijde::village
-ter idzard::village
-ter::village
 tera baraula::village
 teralfene::village
 teraqechi kola::village
@@ -2406,35 +2445,38 @@ terebleche::village
 tereblia::village
 terebna::village
 teregali::village
-terek-suu::village
-terek::village
 tereki::village
+terek-suu::village
 terekty::village
+terek::village
 teremiec::village
+terény::village
 teresin::village
 tereske::village
 terespolis::village
 tereszpol-kukiełki::village
-tereszpol-zygmunty::village
 tereszpol::village
+tereszpol-zygmunty::village
 teresztenye::village
 terheijden::village
+ter heijde::village
 terherne::village
 terhole::village
-teri::village
+ter idzard::village
 terihat::village
 teripaha::village
 teripehagama::village
 terish::village
+teri::village
 terj::village
 terkehaliller::village
 terkehatipler::village
 terken::village
 terliksiz::village
-term::village
-term:学期
 term:术语
+term:学期
 terman::village
+térmens::village
 termianak::village
 terminology:术语
 termite:白蚁
@@ -2442,19 +2484,20 @@ termites:白蚁
 termon::village
 termunten::village
 termunterzijl::village
-tern hill::village
+term::village
 ternaard::village
 ternamakki::village
 ternavka::village
 ternavoli-ye pain::village
 ternekal::village
+tern hill::village
 ternova::village
 terny::village
 terpeikiai::village
 terpes::village
 terpsithea::village
-terra::village
 terrace:梯田
+terra::village
 terreiro velho::village
 terrestrial:陆地的
 terriccio::village
@@ -2464,33 +2507,46 @@ terroba::village
 terror:恐怖
 terrorism:恐怖主义
 terrorist:恐怖份子
+tërrovë::village
 terschuur::village
 terse:简洁的
 tersefanou::village
 tersoal::village
+tërstenik::village
 tervada::village
 tervakharva::village
+tērvete::village
 tervijan::village
+ter::village
 terwa dahigawan::village
 terziler::village
 terziysko::village
-terény::village
 tesan::village
+tésa::village
+teșcureni::village
+tésenfa::village
+téseny::village
 teshnavi::village
 teshniz::village
 teshovo::village
-teskey::village
 teskánd::village
+teşkan::village
+teskey::village
 tesla:特斯拉
 test:测试
 testelt::village
 teston::village
+tés::village
 tetara::village
 tetawali::village
+tețcani::village
 teteman::village
 tetkon::village
 tetney::village
 tetrabad::village
+tetradymia axillaris::plant
+tetrataenium nepalense::plant
+tetratheca pilosa::plant
 teuge::village
 teunga::village
 teutopolis::village
@@ -2499,12 +2555,11 @@ tevel::village
 tewane::village
 tewar::village
 texas:德克萨斯
-text to speech:文本转语音
 text:文本
-textile arts:纺织艺术
 textile:纺织品
+textile arts:纺织艺术
+text to speech:文本转语音
 tey 25 pashahid hoseyn shahram far::village
-tey::village
 teyak::village
 teybi shahi::village
 teylan::village
@@ -2513,24 +2568,33 @@ teymanak-e sofla::village
 teymur beyglu::village
 teymur golam bahri::village
 teymur kuh::village
+teymurlu::village
 teymur müskənli::village
 teymur qash::village
 teymur suri-ye olya::village
 teymur suri-ye sofla::village
-teymurlu::village
 teynal::village
 teytaq::village
-tez kharab::village
+tey::village
 tezenj::village
-tezerj::village
 tezerjan::village
+tezerj::village
+tézié::village
+tez kharab::village
 tezkharab::village
-tečić::village
-teşkan::village
-teșcureni::village
-tețcani::village
+təkdam::village
+təkəqaya::village
+təklə mirzəbaba::village
+təkyemişan::village
+təkyə::village
+təndul::village
+təngəbin::village
+təngivan::village
+təpəməhlə::village
+tərnöyüt::village
+tərxanlı::village
+təzəkənd::village
 tfail::village
-tha ngon::village
 thabala::village
 thabigon::village
 thabti::village
@@ -2550,7 +2614,6 @@ thakeri::village
 thakkallapally::village
 thakra::village
 thakurwadi::village
-thal::village
 thalappady::village
 thalappuzha::village
 thalapula palli::village
@@ -2565,6 +2628,7 @@ thallium:铊
 thalluru::village
 thalthana::village
 thaluthalaimedu::village
+thal::village
 thamaraipakkam::village
 thamarakulam::village
 thamarankottai::village
@@ -2574,7 +2638,6 @@ thammanur::village
 thammanwal::village
 thamna::village
 thamunwal::village
-than sinhapur::village
 than:比
 thanarpara::village
 thanbauk::village
@@ -2588,12 +2651,14 @@ thandavapalle::village
 thangachimadam::village
 thangayur::village
 thanghna::village
+tha ngon::village
 thangu forest block::village
 thangyaw-in::village
 thaniyamangalam::village
 thank:感谢
 thanks:多谢
 thanneermukkom::village
+than sinhapur::village
 thanthanadu::village
 thantikonda::village
 thantoli::village
@@ -2602,15 +2667,19 @@ thapangaing::village
 thapanzeik::village
 thaqban::village
 thara jhikla::village
-thara uparla::village
 tharakki patti::village
 tharamatipet::village
+thara uparla::village
 tharial::village
 tharike::village
 tharuvana::village
-tharwa::village
 tharwah::village
+tharwa::village
 thasgam::village
+that:那
+thathanur (east)::village
+thathanur (west)::village
+thathi bhai::village
 that is because:那是因为
 that is it:就是这样
 that is mine:那是我的
@@ -2618,12 +2687,9 @@ that is not what i said:那不是我说的
 that is right:正确
 that is what i like:那就是我所喜欢的
 that is why:那就是为什么
-that:那
-thathanur (east)::village
-thathanur (west)::village
-thathi bhai::village
 thatta musa::village
 thatta::village
+thaumatophyllum adamantinum::plant
 thaura::village
 thauri::village
 thavanampalle::village
@@ -2637,16 +2703,10 @@ thayetkon::village
 thayettaw::village
 thazhakkara::village
 thazi::village
-the ballagh::village
-the grove::village
-the hills::village
-the lee::village
-the middles::village
-the narth::village
-the slack::village
 the:这
 theater:剧场
 theatre:剧院
+the ballagh::village
 theberton::village
 thebes::village
 thebokkya::village
@@ -2655,6 +2715,8 @@ thediyur::village
 thee:你
 theegalagutta palle::village
 theft:盗窃
+the grove::village
+the hills::village
 theh kanjla::village
 theh kushalgarh::village
 thehrian::village
@@ -2666,6 +2728,7 @@ thekondan::village
 thekpui::village
 thekrejuma::village
 thekte::village
+the lee::village
 theletra::village
 thellath::village
 thelliyoor::village
@@ -2673,14 +2736,16 @@ thelungan kudikadu::village
 thelur::village
 them:他们
 theme:主题
+the middles::village
 themidithapadu::village
 then:然后
 thenampadugai thattimal::village
+the narth::village
 thengaperumalpalayam::village
 thenkalam::village
 thenkatchiperumalnatham::village
-thenkurissi-i::village
 thenkurissi-ii::village
+thenkurissi-i::village
 thennamadevi::village
 theodorakeio::village
 theodosia::village
@@ -2695,6 +2760,9 @@ therapeio::village
 therapeutic:治疗的
 therapy:疗法
 theratpally::village
+there:那里
+thereby:因此
+therefore:因此
 there is a lot of:有很多
 there is a village called:有一个村庄叫做
 there is a village known as:有一个村庄以...被知晓
@@ -2709,12 +2777,9 @@ there is no reason to doubt:没有理由怀疑
 there is nothing to be afraid of:没什么可怕的
 there must be a way:一定有办法
 there must be some way:一定有某种办法
-there::village
-there:那里
-thereby:因此
-therefore:因此
 therepel::village
 theresa::village
+there::village
 theriruveli::village
 therizhandur::village
 therkukottai::village
@@ -2724,14 +2789,16 @@ thermometer:温度计
 therubali::village
 therunde::village
 these:这些
+the slack::village
 thespies::village
 thethaitangar::village
 thetharke::village
 thetkedawng::village
 thetkegyin::village
-they do not even speak the language:他们甚至不说这种语言
+the wistaria vine::plant
 they:他们
 theyaw::village
+they do not even speak the language:他们甚至不说这种语言
 thibi::village
 thichoor::village
 thick:浓的
@@ -2742,28 +2809,28 @@ thigul::village
 thikariya banramda::village
 thikariya laxmanpur::village
 thikriwala::village
-thill::village
 thillaiyambur::village
+thill::village
 thimborgou::village
 thimiri::village
 thimmaipalle::village
 thimmakudi::village
 thimmanahalli::village
 thimmannagudem::village
+thimmapuram::village
+thimmapura::village
 thimmapur-m-tadakod::village
 thimmapur::village
-thimmapura::village
-thimmapuram::village
 thimmasamudram::village
 thimminenipalem::village
-thinbaw::village
 thinbawin::village
+thinbaw::village
 thinbawzeik::village
 thindaw::village
 thindh::village
 thine kanuwa::village
-thingan::village
 thinganda::village
+thingan::village
 thingsen::village
 think:想
 thinnelapudi::village
@@ -2776,11 +2843,11 @@ thippapur::village
 thipparthy::village
 thirah::village
 thirakoil::village
+third:第三
 third lake::village
 third party:第三方
-third person singular:第三人称单数
 third person:第三人称
-third:第三
+third person singular:第三人称单数
 thirriyewal::village
 thirst:渴
 thirsty:渴
@@ -2826,6 +2893,7 @@ thiruvegappura::village
 thiruvengaivasal::village
 thiruvenkadu::village
 thiruvisanallur::village
+this:这
 this article is about:这篇文章是关于
 this book:这本书
 this feature:这个特征
@@ -2833,10 +2901,9 @@ this file:这个文件
 this is because:这是因为
 this is why:这就是为什么
 this is your life:这是你的人生
+thissor::village
 this term:这个术语
 this time:这次
-this:这
-thissor::village
 thitkaungdi::village
 thitseikkon::village
 thittai::village
@@ -2845,12 +2912,13 @@ thiyagasamudram::village
 thodannur::village
 thogummi::village
 thoha khalsa::village
+thổ hà::village
 thokkalikkadu::village
 thoknia::village
 tholai::village
-thomas::village
 thomas:托马斯
 thomasboro::village
+thomas::village
 thombattu::village
 thompson::village
 thompsonville::village
@@ -2892,8 +2960,8 @@ thotapalle::village
 thotapalli::village
 thotaravulapadu::village
 thotlapalem::village
-thottakad::village
 thottakadu::village
+thottakad::village
 thottakkonam::village
 thottambedu::village
 thottamon::village
@@ -2911,11 +2979,11 @@ thozhiyoor::village
 thread:线程
 threat:威胁
 threatening:威胁的
-three mile cross::village
-three oaks::village
 three:三
 threekingham::village
+three mile cross::village
 threemilehouse::village
+three oaks::village
 threesome:三人性爱
 threshold:阀值
 thrikariyoor::village
@@ -2974,33 +3042,28 @@ thurupulanka::village
 thuruthicadu::village
 thus:因此
 thuthur::village
-thy::village
 thycattusserry::village
 thymaria::village
 thymus:胸腺
-thổ hà::village
-ti couloute::village
-ti daran::village
-ti jeng::village
-ti maj::village
-tia::village
+thy::village
 tiab::village
 tiagba::village
 tialla::village
 tiambilibi::village
 tiamou::village
 tian dasht::village
-tian::village
 tiankoura::village
+tian::village
 tianweiban::village
-tiar::village
 tiarkiro::village
+tiar::village
 tiata::village
+tia::village
 tibatan::village
 tibberton::village
 tibbi badra::village
-tibbi rang::village
 tibbi ranga::village
+tibbi rang::village
 tibbi::village
 tibbotugoda::village
 tibbotuwawa::village
@@ -3011,7 +3074,9 @@ tibtenga-fulbé::village
 tibtenga-mossi::village
 tibubeneng::village
 ticket:票
+ti couloute::village
 tidalok::village
+ti daran::village
 tidar::village
 tiddington::village
 tide:潮
@@ -3022,17 +3087,22 @@ tiduvere::village
 tiebata::village
 tiedia::village
 tiefindougou::village
+tiégba::village
 tiegem::village
 tiekiedraai::village
 tiekouna::village
+tiékpé::village
 tielen::village
 tiema::village
 tiempagora::village
 tiendeveen::village
 tienhoven::village
+tiénindiéri::village
 tienray::village
 tientsin, sri lanka::village
+tiéolé-oula::village
 tieressou::village
+tiéviéssou::village
 tifakan::village
 tigab::village
 tigadolli::village
@@ -3041,8 +3111,6 @@ tigawa::village
 tigdidine::village
 tiger:虎
 tigerton::village
-tigh siah::village
-tigh zamin::village
 tighab::village
 tighanab bala::village
 tighdar-e olya::village
@@ -3050,10 +3118,12 @@ tighdar::village
 tighen-e olya::village
 tighen-e sofla::village
 tighiyeh::village
+tigh siah::village
 tight:紧的
 tightwad::village
-tigri::village
+tigh zamin::village
 tigrine::village
+tigri::village
 tiguili::village
 tihandéni::village
 tiharu::village
@@ -3066,52 +3136,51 @@ tiirimetsa::village
 tiitsa::village
 tiitsuotsa::village
 tijan::village
+ti jeng::village
 tijeras::village
 tijijga::village
-tik dar::village
-tik khola::village
-tik pish::village
 tikakan::village
-tikan::village
 tikanlu::village
 tikanré::village
+tikan::village
+tikaria bhat::village
+tikaria::village
 tikar kalan::village
 tikar khurd::village
 tikar::village
-tikaria bhat::village
-tikaria::village
 tikdar-e pay sang::village
+tik dar::village
 tikdar::village
 tikhol::village
 tikhvor::village
 tiki island::village
 tikiri::village
+tik khola::village
 tikmah ajam::village
 tikmeh dash::village
 tikmeh kord::village
 tikmeh tappeh::village
 tikonko::village
+tik pish::village
 tikran::village
 tikri::village
 tiksar::village
-tiku::village
 tikuliya::village
+tiku::village
 tikwamau::village
-til khani::village
-til::village
-tila kenar::village
-tila::village
 tilabad::village
 tilaboni::village
 tilag::village
 tilaiya::village
 tilaj::village
+tila kenar::village
 tilakuh::village
 tilakwada::village
 tilam::village
 tilan::village
 tilaunchi::village
 tilava::village
+tila::village
 tilawng::village
 tilde:波浪号
 tilden::village
@@ -3121,27 +3190,30 @@ tileh molla::village
 tilehno::village
 tilek::village
 tilenda::village
+tiləkənd::village
 tilga::village
 tilhalit::village
 tilinuiyeh::village
+til khani::village
 tilkiler, manavgat::village
 tilkiler::village
 tilkitepe::village
-tilku::village
 tilkuh::village
+tilku::village
 tillauti::village
-tillicoultry, sri lanka::village
 tillé::village
-tilo::village
+tillicoultry, sri lanka::village
 tilokpur::village
 tilonia::village
 tilooyi::village
 tilouli::village
+tilo::village
 tilpordehsar::village
 tilton::village
 tilursar-e sharqi::village
+til::village
 tilwara::village
-tiləkənd::village
+ti maj::village
 timan qaleh::village
 timba::village
 timber:木材
@@ -3149,18 +3221,18 @@ timbercreek canyon::village
 timberland::village
 timberlane::village
 timble::village
-time zone:时区
-time::village
 time:时间
 timehri::village
 times:乘
 times:次数
 timestamp:时间戳
+time::village
+time zone:时区
 timezone:时区
 timgharine::village
 timi jan::village
-timi::village
 timinciler::village
+timi::village
 timizar::village
 timmapur (s.a.)::village
 timmapur::village
@@ -3169,25 +3241,18 @@ timolin::village
 timor leste:东帝汶
 timur kandi::village
 timyart::village
-tin amansagh::village
-tin el koum::village
-tin ha wan village::village
-tin jan::village
-tin liu ha::village
-tin sam tsuen::village
-tin sam village::village
-tin::village
 tin:锡
-tina::village
 tinahely::village
+tin amansagh::village
+tina::village
 tinbet::village
 tindangou::village
 tindar::village
 tindharia::village
 tineh::village
+tin el koum::village
 tinemu-ye olya::village
 tinemu-ye sofla::village
-ting::village
 tingandogo::village
 tingbong::village
 tingchim::village
@@ -3197,29 +3262,36 @@ tingkem::village
 tingnes::village
 tingram::village
 tinguera::village
+ting::village
+tin ha wan village::village
 tinipitigama::village
 tiniyagala::village
 tinja donja::village
 tinja gornja::village
+tin jan::village
 tinkar::village
 tinkiro-lobi::village
 tinkisso::village
+tin liu ha::village
 tinli::village
 tinmaung::village
 tinn austbygd::village
 tinnikuru::village
-tinno::village
 tinnoset::village
+tinno::village
 tinnye::village
 tinoniya::village
 tinryland::village
 tinsalgo::village
+tin sam tsuen::village
+tin sam village::village
 tinsobtinga::village
 tintern::village
 tintyava::village
-tinu::village
 tinuj::village
 tinun::village
+tinu::village
+tin::village
 tinwagyaung::village
 tinwald::village
 tiogue::village
@@ -3237,53 +3309,55 @@ tippapura::village
 tippirajapuram::village
 tipton st john::village
 tipu::village
-tir afjan::village
-tir bazar::village
-tir jari::village
-tir kaman::village
-tir kan::village
-tir kert::village
-tir kola::village
-tir saman::village
-tirabad, zahedan::village
 tirabad::village
+tirabad, zahedan::village
 tirabgun::village
+tir afjan::village
 tirag bon::village
 tirahmad::village
 tirak deh-e olya::village
 tirak deh-e sofla::village
 tirak::village
 tiramin::village
-tiran::village
 tiranchi::village
 tirandazi::village
 tirangore::village
 tirangsi::village
+tiran::village
 tirappuwa::village
 tirazabad::village
 tirazjan::village
-tirbi::village
+tir bazar::village
 tirbiku::village
+tirbi::village
 tirbou::village
 tirdari::village
 tire:轮胎
 tired:疲倦的
 tireh bagh::village
-tireh-ye kheyrabad::village
 tireh::village
+tireh-ye kheyrabad::village
 tireli::village
 tirgan::village
 tirgaran::village
 tirgo::village
-tiri::village
+tîrgul vertiujeni::village
 tiringoulou::village
-tirka::village
+tiri::village
+tir jari::village
+tir kaman::village
+tir kan::village
 tirkan::village
+tirka::village
+tir kert::village
 tirkeşəvənd::village
+tir kola::village
 tirla::village
 tirli::village
 tirnan::village
+tîrnova::village
 tirns::village
+tir saman::village
 tirshab::village
 tirtash::village
 tirthpuri::village
@@ -3298,17 +3372,17 @@ tirunallur::village
 tirunedunkulam::village
 tirupatammapeta::village
 tirupatipuram::village
-tis::village
+tírvia::village
 tisgaon::village
-tishan::village
 tishanovo::village
+tishan::village
 tisheh gari::village
 tisheh kan::village
 tisiyeh::village
 tiskilwa::village
 tiskre::village
-tiskupan::village
 tiskūnai::village
+tiskupan::village
 tismada::village
 tismoda::village
 tispane::village
@@ -3317,6 +3391,7 @@ tisselin-yarce::village
 tissington::village
 tissue:组织
 tisur::village
+tis::village
 tiszabábolna::village
 tiszacsermely::village
 tiszadorogma::village
@@ -3329,25 +3404,24 @@ tiszapalkonya::village
 tiszatardos::village
 tiszatarján::village
 tiszavalk::village
-tit gom::village
-tit kan::village
-tit-e olya::village
-tit::village
 titak::village
-titani::village
 titanic:泰坦尼克
 titanium:钛
+titani::village
 titanyen::village
 titarwala::village
 titauli::village
 titawi::village
+tit-e olya::village
 titevand::village
+tit gom::village
+titiar::village
+titi, burundi::village
+titignano::village
 titi karvansara::village
 titi parizad::village
-titi, burundi::village
-titiar::village
-titignano::village
 titirkhi::village
+tit kan::village
 titkan::village
 titkuri::village
 title:标题
@@ -3355,12 +3429,13 @@ titouna::village
 titpuri::village
 titran::village
 tittapajjala::village
-titu-ye pain::village
 titubar::village
 tituiyeh-ye seh::village
 titulé::village
 titurkandi::village
+titu-ye pain::village
 tituzeynal::village
+tit::village
 tiukecheh::village
 tivim::village
 tivoli::village
@@ -3372,53 +3447,53 @@ tiyambara-ambe::village
 tiyas::village
 tiyeh::village
 tiyek::village
-tiz ab::village
-tiz kuh::village
-tiza::village
-tizab::village
 tizabad::village
+tiz ab::village
+tizab::village
 tizahang::village
+tiza::village
 tizdang-e olya::village
 tizej::village
 tizeng::village
 tizh tizh::village
 tizit::village
 tizkharab::village
+tiz kuh::village
 tizouighine::village
 tizuk::village
 tizvione::village
-tiégba::village
-tiékpé::village
-tiénindiéri::village
-tiéolé-oula::village
-tiéviéssou::village
+tırtar::village
 tjalleberd::village
 tjoflot::village
 tjong::village
 tjore::village
-tjugum::village
 tjøtta::village
+tjugum::village
+t.kalathur::village
 tkhkut::village
 tlacote el bajo::village
 tlangmawi::village
 tleń::village
 tlia::village
 tlik::village
-to shek::village
-to yuen wai::village
-to-kawko::village
+tłuchówek::village
+tłuchowo::village
+tłuściec::village
+t. narasapuram::village
 to:到
 toabin::village
 toabré::village
-toba::village
+tóalmás::village
 tobacco:烟草
 tobaccoville::village
-tobia::village
+toba::village
 tobias::village
+tobia::village
+tobía::village
 tobnaq::village
 tobou-peulh::village
 tobraselja::village
-tobía::village
+točak::village
 tocchi::village
 tochile-răducani::village
 tockington::village
@@ -3434,10 +3509,22 @@ todoretsite::village
 todoritchene::village
 todorovtsi::village
 todruyeh::village
+tõdu::village
+tõdva::village
 todwick::village
 toe:脚趾
+toébanéga::village
+toécin::village
+toéghin::village
+toémiga::village
 toes:脚趾
+toéssin, bam::village
+toéssin-foulbé::village
+toéssin, zimtenga::village
+toéssin, zoungou::village
 tofak::village
+tófalu::village
+tófej::village
 tofte::village
 toftir::village
 toganwala::village
@@ -3457,6 +3544,7 @@ togrenda::village
 toguen::village
 toguz-bulak::village
 tohamasab-e olya::village
+tõhela::village
 tohidabad, zahedan::village
 tohku::village
 tohman-e ladi::village
@@ -3464,46 +3552,51 @@ tohogodou::village
 tohumlar::village
 tohvri::village
 toiano::village
-toilet paper:厕纸
 toilet:厕所
+toilet paper:厕纸
+tõitse::village
+tõivere::village
 tojikobod::village
-tok tokab::village
 tokachka::village
 tokaldan::village
 tokam::village
 tokar::village
 tokary::village
+to-kawko::village
 tokdemir::village
 tokdere::village
 tokey banta::village
+tokhmaqlu::village
+tokhmar::village
 tokhm del::village
 tokhm-e balut-e olya::village
 tokhm-e balut-e sofla::village
-tokhmaqlu::village
-tokhmar::village
 tokhtamishlu::village
-toklu::village
-tokluca::village
 toklucak::village
+tokluca::village
 toklular::village
+toklu::village
 tokmaklar::village
 tokmeh dash::village
-tokod::village
 tokodaltáró::village
+tokod::village
 tokolopi::village
-tokor::village
 tokorcs::village
+tokor::village
 tokradia::village
 toksar::village
+tok tokab::village
 toku::village
-toky::village
+tök::village
 tokyo:东京
-tol polui::village
-tol rigi::village
-tol siah::village
-tol zari::village
+toky::village
+tolagi::village
+tolbaños de abajo::village
+tolcsva::village
+told:告诉过
 tol-e ashki::village
 tol-e bondu::village
+toledo::village
 tol-e gavmishi::village
 tol-e geli::village
 tol-e gor-e hajjiabad::village
@@ -3515,89 +3608,92 @@ tol-e meshkin::village
 tol-e noqareh::village
 tol-e pir::village
 tol-e qaleh::village
+tolerance:容忍
+tolerate:容忍
+toleration:宽容
 tol-e sar kuh::village
 tol-e semengi::village
 tol-e tall::village
 tol-e zireh::village
-tolagi::village
-tolbaños de abajo::village
-tolcsva::village
-told:告诉过
-toledo::village
-tolerance:容忍
-tolerate:容忍
-toleration:宽容
-toli::village
 toliesso::village
 tolimkhan-e olya::village
 tolimkhan-e sofla::village
 tolisso::village
+toli::village
 toljevac::village
 tolki::village
 tolkūnai (varėna)::village
-toll-e mallu::village
 tolla::village
+tõlla::village
 tollebeek::village
+toll-e mallu::village
 tollesbury::village
+tõlliste::village
 tolli::village
+tõlli::village
+tõlluste::village
 tolmeita::village
 tolnanémedi::village
 toloke::village
+tölök::village
 tolono::village
 tolors::village
 tolovitsa::village
+tölöykön::village
+tol polui::village
 tolpuddle::village
+tol rigi::village
 tolsem shahbaz::village
+tol siah::village
+töltéstava::village
 toluk::village
 tolum khani::village
 tolvandi::village
-tom bahar::village
-tom baluchan::village
-tom gavan::village
-tom guran::village
-tom malantaki::village
-tom shuli::village
-tom tomu::village
-tom-e khvajeh bahmani::village
+tol zari::village
 tom:汤姆
-toma koura::village
 tomahawk:战斧
 tomai::village
 tomajan::village
+toma koura::village
 tomandar::village
 tomarkhanly::village
-tomaszewo::village
-tomaszów bolesławiecki::village
 tomaševac::village
 tomaševo::village
-tomb-e gowhar::village
-tomb-e sat::village
+tomaszewo::village
+tomaszów bolesławiecki::village
 tomb:墓室
-tomba::village
+tom bahar::village
 tombak-e bala::village
 tombak-e pain::village
-tombak::village
 tombakuluq::village
+tombak::village
+tom baluchan::village
 tombal::village
-tomban::village
 tombanu::village
+tomban::village
 tombat-e bala::village
 tombat-e pain::village
+tomba::village
+tomb-e gowhar::village
+tomb-e sat::village
 tombi golgir::village
-tombu jonubi::village
-tombu shomali::village
 tombu-e bala::village
 tombu-e pain::village
 tombuiyeh::village
+tombu jonubi::village
 tombulilato::village
+tombu shomali::village
 tomchevtsi::village
 tomchrasky::village
+tom-e khvajeh bahmani::village
 tomena::village
 tomendeh::village
 tomerong::village
 tomesorkh::village
 tomgaran::village
+tom gavan::village
 tomges::village
+tom guran::village
 tomice::village
 tomikorosso::village
 tomingaj::village
@@ -3609,31 +3705,39 @@ tomkowa::village
 tomkowice::village
 tomkowo::village
 tomlinsons::village
+tom malantaki::village
+tømmerneset::village
+tømmervåg::village
+tõmmiku::village
 tomol::village
+tömönkü ala-archa::village
+tömönkü norus::village
 tomono::village
-tomor::village
+tömön-suu::village
+tömörd::village
 tomorrow:明天
-tomp-e rigan::village
+tomor::village
 tompaládony::village
 tomparitak::village
+tomp-e rigan::village
 tomsenati::village
+tom shuli::village
 tomter::village
+tom tomu::village
 tomzardan::village
-ton pentre::village
-ton::village
 tona, bangladesh::village
+tonbak::village
+tonbawdi::village
 tonb bariku::village
 tonb-e bongeru::village
 tonb-e jaki::village
 tonb-e siyak::village
-tonbak::village
-tonbawdi::village
 tonbok::village
 tonbon::village
 tondarlu::village
-tonde wandou::village
 tondeluna::village
 tonderan::village
+tonde wandou::village
 tondibia::village
 tondihal::village
 tondikatti::village
@@ -3642,37 +3746,41 @@ tondpalli::village
 tondu::village
 tone:声调
 tonenke::village
-tong fong tsuen::village
-tong hang::village
-tong kung leng::village
-tong tau po tsuen::village
-tong yan san tsuen::village
-tong::village
 tonga:汤加
 tongaon::village
+tong fong tsuen::village
+tong hang::village
+tönghsöngkalo::village
 tongkaw::village
+tong kung leng::village
 tongo sarki yayï::village
 tongo tongo::village
 tongra::village
-tongue depressor:压舌板
+tong tau po tsuen::village
 tongue:舌
+tongue depressor:压舌板
 tongurlar::village
+tong::village
+tong yan san tsuen::village
 tongyaung::village
 tongyi::village
 tonhe::village
 tonight:今晚
-tonin::village
+tõnija::village
 toninek::village
+tonin::village
+tõnissaare::village
 tonjaran::village
-tonk::village
+tønjum::village
 tonkaw::village
+tonk::village
 tonleik::village
-tonlon::village
 tonlonhupang::village
+tonlon::village
 tonmahe::village
 tonmakeng::village
-tonmate::village
 tonmatet::village
+tonmate::village
 tonmawr::village
 tonmenan::village
 tonmun::village
@@ -3680,6 +3788,7 @@ tonnegrande::village
 tonnes::village
 tonni::village
 tonowo::village
+ton pentre::village
 tonpin::village
 tonpon::village
 tonsaga::village
@@ -3687,11 +3796,13 @@ tonsahka::village
 tonsko dabe::village
 tonteldoos::village
 tontenga::village
-tony::village
+tõnumaa::village
+ton::village
 tony:托尼
+tony::village
 tonzi::village
-too heavy:太重
 too:也
+too heavy:太重
 took:拿
 tool:工具
 toolamaa::village
@@ -3699,28 +3810,30 @@ toolbar:工具栏
 toolbox:工具箱
 toolchain:工具链
 toole khurd::village
+töölös::village
 toolse::village
-tooma::village
 toomalõuka::village
+tooma::village
 toombeola::village
 toomda::village
 toomika::village
 toomla::village
 toopranpet::village
+tõõrakõrve::village
 tooraneena::village
+tõõraste::village
 toorlestraun::village
 toosa::village
-toot hill::village
 tooth:牙
+toot hill::village
 toothpaste:牙膏
 toovere::village
-top level:顶层
 top:顶部
-topa::village
 topabari::village
+topağaç::village
 topaklı::village
-topala::village
 topalan::village
+topala::village
 topalhasan::village
 topallar::village
 topallı, antalya::village
@@ -3729,14 +3842,16 @@ topaluşağı::village
 topanicë::village
 toparpathar::village
 topatali::village
-topağaç::village
-topdere::village
+topa::village
+topçu::village
 topderesi::village
+topdere::village
 topic:主题
 topisi::village
 topkapı::village
 topkaya::village
 toplar::village
+top level:顶层
 topley::village
 toplin::village
 topluca::village
@@ -3744,10 +3859,11 @@ topmost:最顶
 topola::village
 topolcani::village
 topolchane::village
-topoli::village
 topolinek::village
 topolitsa::village
+topoli::village
 topolka::village
+topólka::village
 topolnitsa::village
 topolno::village
 topolovo, haskovo province::village
@@ -3760,16 +3876,13 @@ topraqlu::village
 toptaş, kumluca::village
 toptepe::village
 topuzlu::village
-topçu::village
-topólka::village
 toqor tappeh::village
 toqoz-e olya::village
 toqoz-e sofla::village
-tor-kamysh::village
-tora, burkina faso::village
 torab-e olya::village
 torab-e sofla::village
 torab-e vosta::village
+tora, burkina faso::village
 torab::village
 torak::village
 torali::village
@@ -3781,8 +3894,8 @@ torang::village
 torani village::village
 toranlu::village
 torapitiya::village
-toraq tappeh::village
 toraqan::village
+toraq tappeh::village
 torbalazhite::village
 torbalı::village
 torbeh bar::village
@@ -3790,12 +3903,16 @@ torbehgudeh::village
 torbeqan::village
 torch:火炬
 torcross::village
-torda::village
 tordas::village
+torda::village
 tordher::village
 tordiera::village
+tõrdu::village
 toreby::village
 toremeh::village
+tõrenurme::village
+tõreska::village
+tõre::village
 torfavan::village
 torfhaus::village
 torget::village
@@ -3803,34 +3920,38 @@ torgu-mõisaküla::village
 tori küla::village
 torila::village
 torinturk::village
+tõrise::village
 torjan::village
-tork amir::village
-tork kola::village
-tork mahalleh-ye alalan::village
-tork mahalleh::village
-tork neshin lowshan::village
 torkabad::village
 torkadeh::village
 torkahpan::village
 torkaman kandi::village
 torkaman kheyl::village
 torkaman::village
+tork amir::village
 torkampur::village
-torkan::village
+tor-kamysh::village
 torkandeh::village
 torkani::village
+torkan::village
 torkasheh::village
 torkeh dari::village
 torkeh-ye olya::village
 torkeh-ye sofla::village
 torkent::village
 torkiaro::village
+tork kola::village
 torklan::village
+tork mahalleh::village
+tork mahalleh-ye alalan::village
+tork neshin lowshan::village
 torlaklar::village
 tormafölde::village
 tormarton::village
-tormish::village
+törmäsenvaara::village
 tormásliget::village
+tõrma::village
+tormish::village
 tornado:龙卷风
 tornakápolna::village
 tornanádaska::village
@@ -3843,49 +3964,52 @@ tornipada::village
 tornjoš::village
 tornyiszentmiklós::village
 tornyosnémeti::village
+törökkoppány::village
 toromoja::village
-toronto::village
 toronto:多伦多
+toronto::village
 torony::village
 toroq::village
 toros ab::village
-toros::village
 torosgyugh::village
 torosk::village
 torossanguéhi::village
-torpa::village
-torpaq tappeh::village
+toros::village
 torpaqkörpü::village
+torpaq tappeh::village
+torpa::village
 torpedo:鱼雷
 torphins::village
 torque:力矩
 torraño::village
 torre a castello::village
-torre en cameros::village
-torre – pedro::village
-torre-serona::village
 torrecilla en cameros::village
 torrecilla sobre alesanco::village
+torre en cameros::village
 torregrossa::village
+tõrremäe::village
 torremocha de ayllón::village
+torre – pedro::village
 torres de segre::village
-torri::village
+torre-serona::village
 torrild::village
+torri::village
 torroja del priorat::village
-torsh anbeh::village
-torsh ap::village
-torsh kuh::village
 torshab-e bala::village
 torshab::village
-torshak::village
 torshakan::village
 torshakli::village
+torshak::village
+torsh anbeh::village
+torsh ap::village
 torshayeh::village
 torshizuk::village
+torsh kuh::village
 torshkuh::village
-torske::village
 torsken::village
+torske::village
 tortellà::village
+törtel::village
 tortoise:陆龟
 tortulu::village
 toru-aygyr::village
@@ -3894,6 +4018,9 @@ toruküla::village
 torunik::village
 torunlar::village
 torus:圆环体
+tõruvere::village
+tõru::village
+tõrvajõe::village
 torvaj::village
 torvikbukt::village
 toryan qeshlaqi::village
@@ -3902,11 +4029,14 @@ torzewo::village
 tosari::village
 tosbotn::village
 tosebygda::village
+tösh-bulak::village
+to shek::village
 toshevtsi::village
 toshkun::village
-toska::village
+tösh::village
 toskabon::village
 toskatok::village
+toska::village
 toskool::village
 tosmurlu::village
 tosson::village
@@ -3914,6 +4044,7 @@ tostu::village
 tosunlar::village
 tosunlu::village
 tosuntarla::village
+tószeg::village
 toszowice::village
 totagatti::village
 total:总的
@@ -3927,8 +4058,14 @@ totmach::village
 totopara::village
 totovo selo::village
 totoya gaon::village
+tótszentgyörgy::village
+tótszentmárton::village
+tótszerdahely::village
+töttös::village
+tótújfalu::village
 totuqlu::village
 totuya::village
+tótvázsony::village
 toubalo::village
 toublongo::village
 touch:触摸
@@ -3936,6 +4073,7 @@ touchen end::village
 touga::village
 touggana::village
 tougoudadou::village
+tõugu::village
 touih::village
 touka::village
 toukoro::village
@@ -3953,6 +4091,7 @@ tourism:旅游业
 tourist:旅行者
 tournafulla::village
 tournament:锦标赛
+tõusi::village
 toutoubré::village
 touzaline::village
 tovah khoshkeh::village
@@ -3963,38 +4102,39 @@ toveh sorkhak-e nesar::village
 toveh sorkhak-e olya::village
 toveh sorkhak-e sofla::village
 toveh-ye latif::village
-tovey::village
 toveybeh-ye sheykh hatam::village
 toveyleh-ye bozorg::village
 toveyleh-ye kuchek::village
 toveyleh-ye seyyed taher::village
 toveyleh-ye yebareh::village
+tovey::village
 tovidarreh::village
 tovik::village
 tovin::village
 tovir::village
 tovjiyeh-ye bala::village
-tow kalleh::village
+tövlədərə::village
 towanda::village
 towchal::village
 towd lang::village
+tower:塔
 tower hill::village
 tower lakes::village
-tower:塔
 towers:塔
 towhan::village
-towhid suri::village
 towhidabad::village
 towhidlu::village
-towlak rud::village
+towhid suri::village
+tow kalleh::village
 towlaki::village
+towlak rud::village
 towlash::village
-town council:城镇委员会
-town water:自来水
 town:城镇
+town council:城镇委员会
 townfield::village
 townsend harbor::village
 township:镇区
+town water:自来水
 towqdar::village
 towqi::village
 towrang::village
@@ -4009,26 +4149,22 @@ toyogdo::village
 toyoko::village
 toyota:丰田
 toytepe::village
+to yuen wai::village
 tozan::village
 tozkoparan::village
 tozlu::village
 tozman::village
-toébanéga::village
-toécin::village
-toéghin::village
-toémiga::village
-toéssin, bam::village
-toéssin, zimtenga::village
-toéssin, zoungou::village
-toéssin-foulbé::village
-točak::village
+trąbin-rumunki::village
+trąbin-wieś::village
 trachoni::village
 trachypedoula::village
 track:痕迹
 trade:贸易
 trademark:商标
+tradescantia mundula::plant
 tradition:传统
 traditional:传统的
+trælnes::village
 trafalgar::village
 trafesso::village
 tragedy:悲剧
@@ -4044,13 +4180,13 @@ traitor:叛徒
 trajectory:飞行轨迹
 trakai::village
 trakiets::village
-trakiytsi::village
+trà kiệu::village
 trakiškiai (varėna)::village
+trakiytsi::village
 trakupiai::village
 tramung chrum::village
 tranak::village
 tranby::village
-trans::village
 transducer:换能器
 transform:变换
 transgender:变性
@@ -4062,11 +4198,12 @@ translation:翻译
 translations:翻译
 transmission:传送
 transmit:发送
-transport aircraft:运输机
 transport:运输
+transport aircraft:运输机
 transportation:运输
 transpose:调换
 transposition:变换
+trans::village
 tranum::village
 trap:圈套
 trapeskovtsi::village
@@ -4083,8 +4220,6 @@ travel:旅行
 travnik::village
 trawden::village
 trboje::village
-tre colli::village
-tre-taliesin::village
 treason:叛国罪
 treasure:财宝
 treasury:宝库
@@ -4095,13 +4230,15 @@ treaty:条约
 trebanog::village
 trebanos::village
 trebelno::village
+trebël::village
 trebesinj::village
 trebisăuți::village
 trebište::village
+třebonice::village
 treburley::village
-trebël::village
 trecastell::village
 trecastle::village
+tre colli::village
 trecwn::village
 tree:树
 trefarthen::village
@@ -4129,50 +4266,55 @@ tremtiniai::village
 trend:趋势
 trengereid::village
 trenton::village
-trepki::village
+t repaka::village
 trepča::village
+trępel::village
+trepki::village
 trerulefoot::village
-tres sargentos::village
 tresfjord::village
+três marcos::village
+trešnjevac::village
+trešnjevo::village
 trespuentes::village
+tres sargentos::village
 trestno::village
 treswell::village
+tre-taliesin::village
 tretten::village
 tretuk::village
+trévani::village
 treveighan::village
+trevélez::village
 trevellas::village
 treviana::village
 trevijano::village
 trevor::village
-trevélez::village
 trewoon::village
 treytorrens::village
-trešnjevac::village
-trešnjevo::village
-tri mogili::village
 trial:审判
 triana::village
 triangel::village
-triangle::village
 triangle:三角形
+triangle::village
 triantafyllia::village
 triathlon:三项全能
 tribal:部落的
-triban::village
 tribanj::village
+triban::village
 tribe:部落
 trichal::village
+trichilia catigua::plant
 tricht::village
 tricio::village
 trick:技巧
 trick:诀窍
 tricks:把戏
+trifăuți::village
 trifești::village
 trifonovo::village
-trifăuți::village
 trigger:触发器
-trigonometric function:三角函数
 trigonometric:三角法的
+trigonometric function:三角函数
 trigonometry:三角学
 trigortsi::village
 triigi::village
@@ -4184,6 +4326,7 @@ trimdon colliery::village
 trimdon grange::village
 trimdon::village
 trimiklini::village
+tri mogili::village
 trinafour::village
 trinca::village
 tring-jonction::village
@@ -4192,8 +4335,8 @@ trinity::village
 trioxane:三𫫇烷
 trip:旅程
 tripalle::village
-tripotamo::village
 tripotamos::village
+tripotamo::village
 tripuranthakam::village
 tripuraram::village
 trish:翠西
@@ -4204,18 +4347,22 @@ trninić brijeg::village
 trnjaci::village
 trnje::village
 trnovac::village
+trøa::village
+trochocarpa cunninghamii::plant
 trockau::village
+trøe::village
 troine::village
-troitske::village
 troițcoe::village
+troitske::village
 trojaci::village
 trojaczek::village
 trojanów::village
+trójca::village
 trojkrsti::village
 trojvrh::village
 trokhizbenka::village
-trolla::village
 trollåsen::village
+trolla::village
 tromode::village
 trones::village
 trongsundet::village
@@ -4224,40 +4371,43 @@ troop:军队
 troops:军队
 tropaiouchos::village
 trophy:战利品
-tropical region:热带地区
 tropical:热带的
+tropical hydrangea::plant
+tropical region:热带地区
 troska::village
 troskovo::village
 trottiscliffe::village
-trou palouse::village
-trou poisson::village
 trouilla verdun::village
 troulloi::village
-trout valley::village
+trou palouse::village
+trou poisson::village
 troutbeck::village
+trout valley::village
 troway::village
 trowse::village
-troy grove::village
-troyan (village)::village
 troyanovo::village
+troyan (village)::village
+troy grove::village
 trpezi::village
+tršić::village
 trsteno::village
 trubine::village
-truck bomb:卡车炸弹
 truck:卡车
-trud::village
+truck bomb:卡车炸弹
 trudivske::village
 trudolyubivka::village
+trud::village
 true:真的
 trump:特朗普
 trumpet::village
 trunito::village
 trunk:躯干
-trust me:相信我
 trust:信任
+trust me:相信我
 truth:真相
 trutnowo::village
 trutowo::village
+trüttlikon::village
 truxno::village
 truxton::village
 try:尝试
@@ -4266,6 +4416,7 @@ tryfonivka::village
 trysnes::village
 tryszczyn-elektrownia::village
 tryszczyn::village
+tržac::village
 trzaski::village
 trzcianek::village
 trzcianka::village
@@ -4273,8 +4424,8 @@ trzciano::village
 trzciany::village
 trzcinica wołowska::village
 trzciniec::village
-trzcionek::village
 trzcińsko::village
+trzcionek::village
 trzebciny::village
 trzebcz królewski::village
 trzebcz szlachecki::village
@@ -4283,11 +4434,11 @@ trzebicko dolne::village
 trzebicko-piaski::village
 trzebicko::village
 trzebiegoszcz::village
-trzebiel::village
-trzebieszowice::village
 trzebiełuch::village
+trzebiel::village
 trzebień mały::village
 trzebień::village
+trzebieszowice::village
 trzebież::village
 trzebina::village
 trzebinia::village
@@ -4295,30 +4446,17 @@ trzebnice::village
 trzebnik::village
 trzeciewiec::village
 trzeciewnica::village
-trzemiętowo::village
 trzemiętówko::village
-trzeszczon::village
-trześnie::village
-trzmielów::village
-trzy chałupy::village
+trzemiętowo::village
 trzęsacz::village
+trześnie::village
 trzęsowice::village
 trzęsów::village
-trà kiệu::village
-trælnes::village
-trévani::village
-três marcos::village
-trójca::village
-trøa::village
-trøe::village
-trüttlikon::village
-trąbin-rumunki::village
-trąbin-wieś::village
-trępel::village
-tršić::village
-tržac::village
+trzeszczon::village
 tržić primišljanski::village
 tržić tounjski::village
+trzmielów::village
+trzy chałupy::village
 tsaghkahovit::village
 tsaghkalanj::village
 tsaghkasar::village
@@ -4326,22 +4464,22 @@ tsaghkashen::village
 tsaghkavan::village
 tsaghkunk::village
 tsaghkut::village
-tsak yue wu::village
 tsakistra::village
 tsakkar::village
 tsakoni::village
 tsakuri::village
+tsak yue wu::village
 tsalkoti::village
 tsamakasar::village
 tsandi::village
 tsao::village
 tsaparevo::village
-tsar asen::village
 tsararano::village
+tsar asen::village
 tsarche::village
-tsarev brod::village
 tsareva livada::village
 tsareva polyana::village
+tsarev brod::village
 tsarevets::village
 tsarevtsi::village
 tsarichino::village
@@ -4358,7 +4496,6 @@ tschagguns::village
 tschiertschen::village
 tschierv::village
 tschirn::village
-tse uk village::village
 tseazega::village
 tseng lan shue::village
 tseng tau tsuen::village
@@ -4371,9 +4508,10 @@ tserkovski::village
 tserovitsa::village
 tserovo::village
 tses::village
-tsetse::village
 tsetsebjwe::village
 tsetseng::village
+tsetse::village
+tse uk village::village
 tsghuk::village
 tsghuni::village
 tshalunang::village
@@ -4390,15 +4528,14 @@ tsiklovo::village
 tsilkar::village
 tsimkoura::village
 tsinandali::village
-tsing fai tong::village
-tsing shan tsuen::village
 tsinga::village
+tsing fai tong::village
 tsinghua university:清华大学
+tsing shan tsuen::village
 tsingue::village
 tsitelmta::village
 tsitre::village
 tsiu keng::village
-tso wo hang::village
 tsoghamarg::village
 tsonma::village
 tsootsha::village
@@ -4408,9 +4545,12 @@ tsovak::village
 tsovasar::village
 tsovazard::village
 tsovinar::village
+tso wo hang::village
 tsrancha::village
 tsreshnovo::village
+t.subbulapuram::village
 tsunami:海啸
+t. sundupalle::village
 tsundur::village
 tsung yuen ha::village
 tsuren::village
@@ -4423,11 +4563,11 @@ tsyrkuny::village
 tsz tin tsuen::village
 tsz tong tsuen::village
 ttujur::village
-tu ali-ye olya::village
-tu ali-ye sofla::village
 tuabad::village
 tuaitengphai::village
 tualcheng::village
+tu ali-ye olya::village
+tu ali-ye sofla::village
 tualpui::village
 tualte::village
 tuamgraney::village
@@ -4454,24 +4594,24 @@ tuchi payeh bast::village
 tuchółka::village
 tuckingmill::village
 tuczna::village
-tuczno-wieś::village
 tuczno::village
-tud::village
+tuczno-wieś::village
 tudak-e taqiabad::village
 tudan::village
+tudarak::village
+tudaran::village
 tudar-e molla::village
 tudar-e ruteh::village
 tudar-e samadi::village
 tudar-e shah karami::village
 tudar::village
-tudarak::village
-tudaran::village
 tuddal::village
 tudeh bin::village
-tudeh zan::village
 tudeh::village
+tudeh zan::village
 tudeley::village
 tudelilla::village
+tuđemili::village
 tuderk::village
 tuderna::village
 tudhoe::village
@@ -4479,55 +4619,63 @@ tudi::village
 tudora::village
 tudre::village
 tudu::village
+tud::village
+tufal::village
+tufashen::village
 tuf darreh bid::village
+tüfekçioğlu, polatlı::village
+tüfekçi::village
 tuf fazel tahalyun::village
 tuf kheymeh::village
 tuf zari chavil::village
-tufal::village
-tufashen::village
 tugabri::village
 tugah-e qarah bas::village
 tugah::village
 tuganbay::village
 tuganjak::village
-tugh::village
 tughan-e baba gorgor::village
+tugh::village
 tugili::village
+tuğlaköy, Çubuk::village
+tuğlu::village
 tugonica::village
+tuğrul::village
 tugyaung::village
 tugyl::village
+tuhalaane::village
+tuhala::village
+tühjasma::village
 tuh medad::village
 tuh tangeh::village
-tuhala::village
-tuhalaane::village
 tuhu::village
 tui dasht::village
 tui jin::village
-tui::village
-tuil::village
 tuileh::village
+tuil::village
 tuinan::village
 tuining::village
 tuipui::village
 tuiquimamel::village
 tuiré-peulh::village
 tuitjenhorn::village
+tui::village
 tuixent::village
-tuj::village
 tujak-e jadid::village
 tujak::village
 tujan::village
 tujerdi::village
 tujidar::village
-tuk dan::village
-tuka::village
+tuj::village
 tukahur::village
 tukalbad::village
 tukamjan::village
-tukan::village
 tukandeh::village
+tukan::village
 tukar::village
 tukas::village
+tuka::village
+tuk dan::village
+tükəzbanlı::village
 tukkiyampalayam::village
 tukla bagh::village
 tukla::village
@@ -4536,37 +4684,39 @@ tuksar-e shijan::village
 tuksi::village
 tukur::village
 tukvar tea garden::village
-tul ab::village
-tul aram::village
-tul lat::village
-tula rud-e bala::village
-tula rud-e pain::village
-tula toli::village
-tula::village
 tulabi baraftab::village
 tulabi::village
+tul ab::village
 tulachi::village
 tulak::village
 tulan::village
 tulapur::village
-tular::village
+tul aram::village
 tulare::village
+tula rud-e bala::village
+tula rud-e pain::village
+tular::village
+tula toli::village
+tula::village
 tulay-e bala::village
 tulay-e pain::village
 tulayl ash-sham::village
+tulbaghia aequinoctialis::plant
 tuleh kola::village
 tuleh sara::village
 tulekalan::village
-tuli::village
 tulian::village
 tulibowo::village
-tulir::village
 tuliłów::village
+tulipa albanica::plant
+tulir::village
+tuli::village
 tulkan::village
-tulki tappeh::village
 tulki tappehsi::village
-tull en 't waal::village
+tulki tappeh::village
 tullaroan::village
+tul lat::village
+tull en 't waal::village
 tullich::village
 tulrahan::village
 tulsidanga::village
@@ -4574,21 +4724,21 @@ tulsk::village
 tulsuli::village
 tulun::village
 tulus::village
-tum::village
+tülü::village
 tumachlar-e altin::village
 tumachlar::village
 tumala::village
 tuman ahmad::village
-tuman rahi::village
 tumanak::village
+tuman rahi::village
 tumar aghaj::village
+tumaraqa khan::village
 tumar darrahsi-ye olya::village
 tumar darrahsi-ye sofla::village
-tumar kandi::village
-tumar qamish::village
-tumaraqa khan::village
 tumarguddi::village
 tumarikoppa::village
+tumar kandi::village
+tumar qamish::village
 tumarz::village
 tumatar::village
 tumbalovo::village
@@ -4608,44 +4758,44 @@ tumpelawaka::village
 tumpelawake::village
 tumpyaw::village
 tumusla::village
-tuna::village
+tum::village
 tunab::village
 tunah::village
+tuna::village
 tunb-e bozorg::village
+tunçoluk::village
 tundav::village
 tundeniya::village
 tundi::village
 tundu::village
 tunes::village
+tungi::village
+tungjoy::village
 tung lo wan::village
+tungsten:钨
 tung tau tsuen::village
 tung tau wai::village
 tung::village
-tungi::village
-tungjoy::village
-tungsten:钨
 tunhitiyawa::village
 tunhlaw::village
 tunhpaung::village
 tunia baqa shah::village
 tunikipadu::village
-tunis::village
 tunisia:突尼斯
+tunis::village
 tunka::village
 tunoathliyadda::village
 tunsel::village
 tunstall::village
 tunstead milton::village
 tunstead::village
-tunçoluk::village
-tup aghaj::village
-tup chenar::village
-tup derakht::village
-tup qarah::village
 tupadły::village
+tup aghaj::village
 tupale::village
 tupamari::village
+tup chenar::village
 tupchi::village
+tup derakht::village
 tupesy::village
 tupholme::village
 tupkanlu::village
@@ -4653,121 +4803,134 @@ tupković donji::village
 tupković gornji::village
 tupla::village
 tuppadakurahatti::village
+tup qarah::village
 tupraq kandi::village
 tupraq qaleh::village
 tupuzabad::village
 tuqalajiq tappeh::village
 tuqqeh::village
-tur bedar::village
-tur gir::village
-tur::village
 turabad::village
 turaghay::village
 turahi::village
-turak::village
 turakapally::village
 turakarshigihalli::village
 turakpura::village
+turak::village
 turamari::village
-turan posht::village
-turan sara::village
-turan shahr::village
 turan-e fars::village
-turan-e tork::village
-turan::village
 turaneh::village
+turan-e tork::village
 turang tappeh::village
 turani::village
 turanlar::village
+turan posht::village
+turan sara::village
+turan shahr::village
 turanur::village
+turan::village
 turaqayeh::village
+tur bedar::village
 turbohovë::village
 turbuneeme::village
 turchi::village
 turdan::village
 turem::village
 tureti::village
+tur gir::village
 turgutlu::village
+türi-alliku::village
 turiatka::village
 turig (2)::village
 turig (3)::village
+turing:图灵
 turing complete:图灵完备
 turing test:图灵测试
-turing:图灵
+türisalu::village
 turiscai::village
 turivar::village
 turja::village
-turk mine::village
+türje::village
+türju::village
 turka::village
 turkayesh::village
+turkey:土耳其
 turkey creek::village
 turkey point::village
-turkey:土耳其
-turki::village
+türkgözü::village
 turkincha::village
 turkish:土耳其语
+turki::village
+türkkarsak, polatlı::village
 turkmenistan:土库曼斯坦
-turkovići::village
+türkmenoğlu::village
+türkmen::village
+türkmən::village
+turk mine::village
+türkoğlu::village
 turkovčina::village
+turkovići::village
+türktaciri, polatlı::village
+türk-xoylu::village
 turlejewo::village
-turlough::village
 turloughmore::village
+turlough::village
 turlu::village
 turmamidi::village
 turman::village
 turmeric:姜根
-turn away:转移开
-turn over:翻转
-turna::village
+turnaçayırı::village
 turnadere::village
 turnalı, kızılcahamam::village
+turna::village
+turn away:转移开
 turnayolu::village
-turnaçayırı::village
 turner::village
 turney::village
 turnford::village
+turn over:翻转
 turnovtsi::village
 turobin::village
+túrony::village
 turovi::village
 turowo::village
-turp::village
+turów::village
 turpachita::village
 turpakhlu::village
+turp::village
 turquzabad::village
+turşsu::village
 tursunovo brdo::village
 tursunzoda::village
-turtle lake::village
 turtle:海龟
+turtle lake::village
 turunçlu::village
 turusk::village
-turva::village
 turvalepa::village
+turva::village
 turves::village
 turvihal::village
-turza wilcza::village
-turza::village
+tur::village
+türyançay::village
 turzan::village
 turzany::village
+turza::village
+turza wilcza::village
 turznice::village
 turzno::village
-turzyn::village
 turzynek::village
-turów::village
-turşsu::village
-tus kola::village
-tus-e olya::village
-tus-e sofla::village
+turzyn::village
 tusa kalleh::village
 tusa koti::village
 tusanlui-ye barzand::village
 tusari::village
 tuschen::village
-tuse::village
 tuseh chaleh::village
 tuseh kaleh::village
 tuseh rud::village
 tuseh sara::village
-tush manlu::village
+tus-e olya::village
+tus-e sofla::village
+tuse::village
 tushahr::village
 tushan::village
 tusheh mian::village
@@ -4776,55 +4939,55 @@ tushi::village
 tushkeh::village
 tushkhali::village
 tushmalan::village
+tush manlu::village
 tushmanlu::village
+tušina::village
+tuska chal::village
+tuskastan::village
+tuska::village
 tusk-e olya::village
 tusk-e sofla::village
-tuska chal::village
-tuska::village
-tuskastan::village
+tüskevár::village
+tus kola::village
 tusova::village
 tusowdasht::village
 tustan::village
-tusti::village
 tustin::village
+tusti::village
 tuszkowo::village
 tuszynki::village
 tuszyny::village
+tutaghaji::village
 tut aghaj::village
+tutah khaneh::village
+tutak-e olya::village
+tutak-e sofla::village
+tutaki::village
+tutak::village
+tutal::village
+tutang::village
+tutan::village
 tut ban::village
-tut kalan::village
-tut kaleh-ye olya::village
-tut kaleh-ye sofla::village
-tut kari::village
-tut shami::village
-tut shersingh::village
-tut sorkhan::village
+tutchi::village
+tutdar::village
 tut-e chehreh::village
+tuteh chal::village
 tut-e khvoshadul::village
 tut-e lashkaran::village
 tut-e nadeh::village
 tut-e olya::village
+tutermaa::village
 tut-e rudab::village
 tut-e safar::village
 tut-e seyyed mohammad::village
-tut-e sofla::village
-tut::village
-tutaghaji::village
-tutah khaneh::village
-tutak-e olya::village
-tutak-e sofla::village
-tutak::village
-tutaki::village
-tutal::village
-tutan::village
-tutang::village
-tutchi::village
-tutdar::village
-tuteh chal::village
-tutermaa::village
 tutesk::village
+tut-e sofla::village
 tutgan::village
 tuti::village
+tut kalan::village
+tut kaleh-ye olya::village
+tut kaleh-ye sofla::village
+tut kari::village
 tutku::village
 tutli tamak::village
 tutli-ye kuchek::village
@@ -4836,16 +4999,22 @@ tutnjevac::village
 tutoran dap::village
 tutorial:教程
 tutorials:教程
+tut shami::village
+tut shersingh::village
+tut sorkhan::village
 tutuiyeh::village
+tütüncüler::village
 tutun darreh::village
 tutunsez::village
 tutunsham::village
 tuturqan::village
+tut::village
 tuudi::village
 tuuka::village
 tuukkala::village
-tuula::village
+tüükri::village
 tuulavere::village
+tuula::village
 tuulevälja::village
 tuuliku::village
 tuulna::village
@@ -4856,40 +5025,36 @@ tuuru::village
 tuvalu:图瓦卢
 tuveh::village
 tuvvur::village
-tuy::village
 tuyeh::village
 tuyestan::village
 tuyqun::village
 tuysaravandan::village
 tuyuk-jar::village
 tuyuqchi::village
-tuz-bel::village
+tüyürbinə::village
+tuy::village
 tuzaki::village
 tuzaklı::village
 tuzandeh jan-e kohneh::village
 tuzandeh jan-e now::village
 tuzanlu::village
+tuz-bel::village
 tuzburgazı, söke::village
 tuzcular::village
 tuzdybastau::village
-tuzhal::village
 tuzhaleh::village
+tuzhal::village
 tuzkuyusu::village
-tuzla::village
 tuzlaköy::village
+tuzla::village
 tuzluca::village
 tuzsuz::village
-tuđemili::village
-tuğlaköy, Çubuk::village
-tuğlu::village
-tuğrul::village
-tušina::village
 tv:电视
 tvarditsa::village
 tveide::village
-tveit::village
 tveitevåg::village
 tveitsund::village
+tveit::village
 tvishi::village
 twajeel::village
 twarda góra::village
@@ -4902,20 +5067,20 @@ twenty:二十
 twetwa::village
 twice:两次
 twierdziń::village
-twijzel::village
 twijzelerheide::village
+twijzel::village
 twilight:暮光
 twilight:曙光
-twin lakes::village
 twining::village
+twin lakes::village
 twisk::village
 twist:扭曲
-two years later:两年以后
-two-mile borris::village
 two:二
+two-mile borris::village
 tworzyjanów::village
 tworzymirki górne::village
 tworzymirki::village
+two years later:两年以后
 twynholm::village
 tyanevo, haskovo province::village
 tyanevo::village
@@ -4934,6 +5099,7 @@ tymbark::village
 tymień::village
 tymowa::village
 tymvou::village
+tyńczyk legnicki::village
 tyniec legnicki::village
 tyniec mały::village
 tyniec nad Ślęzą::village
@@ -4958,162 +5124,5 @@ tytusin::village
 tyulkyulyu::village
 tyurkmen::village
 tyutyunche::village
-tyńczyk legnicki::village
-tzum::village
 tzummarum::village
-táborfalva::village
-tác::village
-táp::village
-tápióbicske::village
-tápiógyörgye::village
-tápiószecső::village
-tápiószentmárton::village
-tápiószőlős::village
-tápióság::village
-táplánszentkereszt::village
-tápszentmiklós::village
-tárkány::village
-tárnok::village
-tárnokréti::village
-táska::village
-täkumetsa::village
-tänassilma::village
-tännapere::village
-tännassilma::village
-täpsi::village
-tärivere::village
-tärkma::village
-täsvere::village
-täätsi::village
-tårnåsen::village
-tårup::village
-téguéla::village
-téhiri::village
-tényő::village
-téonsgo::village
-térmens::village
-tés::village
-tésa::village
-tésenfa::village
-téseny::village
-tézié::village
-tërrovë::village
-tërstenik::village
-tírvia::village
-tîrgul vertiujeni::village
-tîrnova::village
-tóalmás::village
-tófalu::village
-tófej::village
-tószeg::village
-tótszentgyörgy::village
-tótszentmárton::village
-tótszerdahely::village
-tótvázsony::village
-tótújfalu::village
-tõdu::village
-tõdva::village
-tõhela::village
-tõitse::village
-tõivere::village
-tõlla::village
-tõlli::village
-tõlliste::village
-tõlluste::village
-tõmmiku::village
-tõnija::village
-tõnissaare::village
-tõnumaa::village
-tõrdu::village
-tõre::village
-tõrenurme::village
-tõreska::village
-tõrise::village
-tõrma::village
-tõrremäe::village
-tõru::village
-tõruvere::village
-tõrvajõe::village
-tõugu::village
-tõusi::village
-tõõrakõrve::village
-tõõraste::village
-tök::village
-töltéstava::village
-tölök::village
-tölöykön::village
-tömön-suu::village
-tömönkü ala-archa::village
-tömönkü norus::village
-tömörd::village
-tönghsöngkalo::village
-törmäsenvaara::village
-törtel::village
-törökkoppány::village
-tösh-bulak::village
-tösh::village
-töttös::village
-tövlədərə::village
-töölös::village
-tømmerneset::village
-tømmervåg::village
-tønjum::village
-túrony::village
-tüfekçi::village
-tüfekçioğlu, polatlı::village
-tühjasma::village
-tükəzbanlı::village
-tülü::village
-türi-alliku::village
-türisalu::village
-türje::village
-türju::village
-türk-xoylu::village
-türkgözü::village
-türkkarsak, polatlı::village
-türkmen::village
-türkmenoğlu::village
-türkmən::village
-türkoğlu::village
-türktaciri, polatlı::village
-türyançay::village
-tüskevár::village
-tütüncüler::village
-tüyürbinə::village
-tüükri::village
-tănătari::village
-tătărești::village
-tąpadła::village
-tērvete::village
-tęgowiec::village
-tırtar::village
-tłuchowo::village
-tłuchówek::village
-tłuściec::village
-třebonice::village
-təkdam::village
-təklə mirzəbaba::village
-təkyemişan::village
-təkyə::village
-təkəqaya::village
-təndul::village
-təngivan::village
-təngəbin::village
-təpəməhlə::village
-tərnöyüt::village
-tərxanlı::village
-təzəkənd::village
-tetradymia axillaris::plant
-taiwanese photinia::plant
-tropical hydrangea::plant
-tamarillo::plant
-trichilia catigua::plant
-tulipa albanica::plant
-tephrosia spinosa::plant
-taraxacum officinale::plant
-taraxacum officinale::plant
-tetrataenium nepalense::plant
-trochocarpa cunninghamii::plant
-tetratheca pilosa::plant
-the wistaria vine::plant
-tradescantia mundula::plant
+tzum::village

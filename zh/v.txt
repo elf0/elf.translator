@@ -2,17 +2,22 @@ vaabina::village
 vaafla::village
 vaalgras::village
 vaalhoek::village
-vaali::village
 vaalimaa::village
+vaali::village
+vääna-jõesuu::village
+vääna::village
+väänikvere::village
+väänla::village
 vaapar::village
+väärinmaja::village
 vaartsi::village
 vabriga::village
 vacarisses::village
 vachad::village
 vachak ab::village
-vachak::village
 vachakbud-e olya::village
 vachakbud-e sofla::village
+vachak::village
 vachendorf::village
 vachkalayeh::village
 vacuum:真空
@@ -20,8 +25,8 @@ vadade::village
 vadagol (rural)::village
 vadakarapathy::village
 vadakkadathukavu::village
-vadakkancheri-i::village
 vadakkancheri-ii::village
+vadakkancheri-i::village
 vadakkemuri::village
 vadakkukottai::village
 vadakkumangudi::village
@@ -34,8 +39,8 @@ vadakshivale::village
 vadan::village
 vadapally::village
 vadapathy::village
-vadaseri north::village
 vadaserikara::village
+vadaseri north::village
 vadasht::village
 vadavali::village
 vadavucode::village
@@ -50,17 +55,17 @@ vadeshwar::village
 vadfoss::village
 vadgar::village
 vadhane::village
-vadhav::village
 vadhavan::village
+vadhav::village
 vadheim::village
 vadhu budruk::village
-vadi ahmad::village
-vadi::village
 vadiabad::village
+vadi ahmad::village
 vadiakkadu::village
 vadiküla::village
 vadillos::village
 vadivale::village
+vadi::village
 vadiyakkadu::village
 vadlamudi::village
 vadlur::village
@@ -74,15 +79,21 @@ vaeküla::village
 vaela::village
 vaemla::village
 vaen::village
+værnes::village
 vaesrade::village
+væting::village
 vafr-e jin::village
 vafs::village
 vagalat::village
 vagalkhani::village
 vagalugiaran::village
 vaganicë::village
+vägari::village
 vagashton::village
+vágáshuta::village
 vagavurrai::village
+vägeva::village
+våge::village
 vaggampalli::village
 vaghadi::village
 vaghashen::village
@@ -93,35 +104,39 @@ vaghel::village
 vaghemi::village
 vagheshwar::village
 vaghvadi::village
-vaginal intercourse:阴道性交
 vaginal:阴道的
+vaginal intercourse:阴道性交
 vagivere::village
 vaglarovo::village
 vaglen::village
 vagliagli::village
+vågosen::village
+vågsvåg::village
 vaguja::village
 vagula::village
 vagus nerve:迷走神经
+vág::village
 vahagni::village
-vahakulmu::village
 vahakõnnu::village
-vahan::village
+vahakulmu::village
 vahandeh::village
+vahan::village
 vahastu::village
 vahdapar va arbandi sistani::village
-vahdat::village
 vahdatabad-e mugarmun::village
 vahdatabad::village
-vahed::village
+vahdat::village
 vahedabad::village
+vahed::village
 vahenurme::village
+väheru::village
 vahessaare::village
 vahetüki::village
 vahhabiyeh::village
-vahi::village
+vahidabad::village
 vahid bahreh bardari lab sefid::village
 vahid::village
-vahidabad::village
+vahi::village
 vahman::village
 vahnabad::village
 vahnan::village
@@ -140,10 +155,22 @@ vaidotai::village
 vaigeliškės::village
 vaigu-rannaküla::village
 vaigu::village
+väike-ahli::village
+väike-kareda::village
+väike-lähtru::village
+väike-nõmmküla::village
+väike-pahila::village
+väike-pungerja::village
+väike-rahula::village
+väike-rakke::village
+väike-rootsi::village
+väike-tammiku::village
+väike-ula::village
+väike-võhma::village
 vaikla::village
-vaila::village
 vailainiai::village
 vailala::village
+vaila::village
 vailjar::village
 vailoatai::village
 vaimalau::village
@@ -152,9 +179,10 @@ vaimastvere::village
 vaimõisa::village
 vainikai::village
 vainikoniai::village
+väinjärve::village
 vainotiškiai::village
-vainu::village
 vainupea::village
+vainu::village
 vairavapatti::village
 vairo nangal::village
 vaisei::village
@@ -169,7 +197,6 @@ vaivara::village
 vaivere::village
 vaivina::village
 vaiyacheri::village
-vaj::village
 vajangu::village
 vajdácska::village
 vajihabad::village
@@ -179,6 +206,7 @@ vajrakarur::village
 vajszló::village
 vajta::village
 vajuga::village
+vaj::village
 vakalepa::village
 vakand::village
 vakari::village
@@ -187,11 +215,11 @@ vake::village
 vakhsh::village
 vakhtapur::village
 vaki kola::village
-vaki::village
-vakil qeshlaq::village
-vakil::village
 vakilabad-e pain jam::village
 vakilabad::village
+vakil qeshlaq::village
+vakil::village
+vaki::village
 vakiyabad::village
 vakkalagadda::village
 vakkapatlavari palem::village
@@ -201,28 +229,25 @@ vaksdal::village
 vaksevo::village
 vakuf::village
 vakumone::village
-val di cava::village
-val di pugna::village
-val::village
-vala rud::village
+våk::village
+valadabad::village
+valadimeh::village
 valad khani::village
 valad kosh::village
 valad::village
-valadabad::village
-valadimeh::village
 valaghuz::village
 valaikurichi::village
 valaiyapettai::village
 valajanagaram::village
 valakam::village
 valakehvand::village
-valakh::village
 valakėliai::village
-valam-e olya::village
+valakh::village
 valamazu::village
 valamchuzy::village
 valamdeh::village
 valamedar::village
+valam-e olya::village
 valamirankottai::village
 valamrud::village
 valandan::village
@@ -231,6 +256,7 @@ valane::village
 valani::village
 valanjerd::village
 valao::village
+vala rud::village
 valasakkadu::village
 valasapalle::village
 valashan::village
@@ -259,61 +285,59 @@ valchava::village
 valche pole::village
 valchin::village
 valchitran::village
+vălcineț::village
+valčiūnai::village
 valdegutur::village
 valdemadera::village
 valdeperillo::village
 valderejo::village
 valders::village
 valdian::village
-vale da custa::village
-vale da trave::village
+val di cava::village
+val di pugna::village
 valea perjei::village
 valebø::village
+vale da custa::village
+vale da trave::village
 valeh chul::village
 valeh::village
-valen::village
+văleni::village
 valentići::village
+valen::village
 valere::village
 valeshabad::village
 valestan::village
 valestrandfossen::village
 valet::village
-valevtsi::village
 valevåg::village
+valë::village
+våle::village
+valevtsi::village
 valfajar::village
 valfara::village
 valgañón::village
 valgejõe::village
 valgeranna::village
 valgevälja::village
+välgita::village
 valgma::village
+valguta::village
 valgu-vanamõisa::village
 valgu::village
-valguta::village
-vali asr::village
-vali beyg::village
-vali beyglu::village
-vali kandi::village
-vali khormayi::village
-vali kuchekeh::village
-vali mamilu::village
-vali mohammad bazar::village
-vali mohammad::village
-vali mohammadabad::village
-vali sara::village
-vali sir ab::village
-vali-ye asr::village
-vali::village
-valiabad khosrow khani::village
 valiabad-e deli khomsir::village
 valiabad-e jazairi::village
 valiabad-e shiri::village
+valiabad khosrow khani::village
 valiabad::village
 valian::village
-valias::village
+vali asr::village
 valiasr::village
+valias::village
+vali beyglu::village
+vali beyg::village
 valica::village
 valicheru::village
+valična vas::village
 valid:有效的
 validabad::village
 validar::village
@@ -322,114 +346,132 @@ valieasr::village
 valier::village
 valihoseyn::village
 valiji mahalleh::village
+valikabad::village
+vali kandi::village
+valikan::village
 valik bon::village
 valik chal::village
-valik rudposht::village
-valik takht::village
 valik-e olya::village
 valik-e sofla::village
-valikabad::village
-valikan::village
 valikestan::village
 valikhani::village
-valila::village
+vali khormayi::village
+valik rudposht::village
+valik takht::village
+vali kuchekeh::village
 valilar::village
+valila::village
 valilu::village
+vali mamilu::village
 valimitika::village
-valin jeq::village
-valin::village
+vali mohammadabad::village
+vali mohammad bazar::village
+vali mohammad::village
 valinava::village
 valindeh-ye olya::village
 valindeh-ye sofla::village
 valingu::village
+valin jeq::village
 valinokkam::village
+valin::village
 valipe::village
 valirkan::village
-valis::village
+vali sara::village
 valisdeh::village
 valiseh::village
+vali sir ab::village
 valistre::village
-valiv::village
+valis::village
 valiveru::village
+vali::village
+valiv::village
 valiyaran::village
 valiyavallampathy::village
+vali-ye asr::village
 valiyeh::village
 valiyode::village
-valična vas::village
+väljaküla::village
 valjala-ariste::village
 valjala-kogula::village
 valjala-nurme::village
+väljamõisa::village
+väljaotsa::village
+väljataguse::village
+váljohka::village
 valkaičiai::village
 valkamdinni::village
 valkkoog::village
 valkonya::village
 valkovo::village
 valkse::village
-vall de cardós::village
 vallabhnagar::village
 vallakam::village
 vallam pudursethi::village
-vallan kumaran vilai::village
 vallanes::village
 vallangi::village
+vallan kumaran vilai::village
 vallclara::village
+vall de cardós::village
 valle de guadalupe::village
 valle pezzata::village
-valle::village
 vallerona::village
 vallersund::village
 vallerville::village
+valle::village
+valley:山谷
 valley city::village
 valley forge::village
 valley grove::village
-valley:山谷
 vallfogona de ripollès::village
-valli::village
 vallicode-kottayam::village
 vallicode::village
 vallikunnam::village
 vallipuram::village
 vallivattom::village
+valli::village
 vallromanes::village
 valluerca::village
-vallur::village
 valluru::village
+vallur::village
+vállus::village
 valluvalli::village
 valman::village
 valmaotsa::village
+valøya::village
 valparaiso::village
 valpiana::village
 valsamata::village
 valsialam::village
 valsøybotnen::village
 valsøyfjord::village
+välta::village
 valtetsi::village
-valthe::village
 valthermond::village
+valthe::village
 valtierrilla::village
 valtina::village
 valtos::village
 valtriano::village
-valtu-nurme::village
-valtu::village
-valtura::village
 valtūnai::village
-valu kash::village
-valu kola::village
+valtu-nurme::village
+valtura::village
+valtu::village
+valučiai::village
 value:值
 valuja::village
 valujerd::village
+valu kash::village
 valukkuparai::village
+valu kola::village
 valuste::village
+väluste::village
 valuthur::village
 valuyeh-ye olya::village
 valuyeh-ye sofla::village
-valučiai::village
 valvand::village
 valverde::village
-valë::village
-valøya::village
-valčiūnai::village
+val::village
+vál::village
 vamakan::village
 vamarzan::village
 vamazğon::village
@@ -437,69 +479,70 @@ vamenan::village
 vameqabad::village
 vamkuh::village
 vammen::village
+vámoscsalád::village
+vámosgyörk::village
+vámosszabadi::village
+vámosújfalu::village
 vampire:吸血鬼
 vamvakofyto::village
-van-e olya::village
-van-e sofla::village
-van::village
 van:面包车
 vana-aespa::village
-vana-jõgeva::village
-vana-kaiu::village
-vana-kariste::village
-vana-kastre::village
-vana-kuuste::village
-vana-lahetaguse::village
-vana-nurtu::village
-vana-otepää::village
-vana-saaluse::village
-vana-sonda::village
-vana-vastseliina::village
-vana-vigala::village
-vana-vinni::village
-vana::village
 vanab::village
 vanad::village
 vanahalli::village
 vanai::village
 vanajem::village
+vana-jõgeva::village
+vana-kaiu::village
+vana-kariste::village
+vana-kastre::village
 vanak-e olya::village
 vanak-e sofla::village
-vanak::village
 vanakuh::village
 vanaküla::village
+vana-kuuste::village
+vanak::village
+vana-lahetaguse::village
 vanalõve::village
 vanamaladinne::village
 vanamõisa::village
-vanan::village
 vananaq::village
+vana-nurtu::village
+vanan::village
+vana-otepää::village
 vanapamula::village
+vana-saaluse::village
 vanash-e bala::village
-vanash-e pain::village
 vanashen::village
+vanash-e pain::village
+vana-sonda::village
 vanassaare::village
 vanathirayanpattinam::village
 vanathirayapuram::village
 vanato::village
 vanausse::village
-vanavanmahadevi::village
 vanavälja::village
+vanavanmahadevi::village
+vana-vastseliina::village
+vana-vigala::village
+vana::village
+vana-vinni::village
 vanayi-ye olya::village
 vanayi-ye sofla::village
 vanbawng::village
 vanchangi::village
 vanchiyankulam::village
 vanchykivtsi::village
-vanda::village
 vandabad::village
 vandadeh::village
 vandai::village
 vandalia::village
 vandamattom::village
-vandar::village
 vandarabad::village
 vandarbon::village
 vandarkesh::village
+vandar::village
+vanda::village
 vandayarriruppu::village
 vandazhi-ii::village
 vanderbilt::village
@@ -512,24 +555,26 @@ vandiver::village
 vandjala::village
 vandre::village
 vandse::village
-vandu::village
 vanduser::village
 vanduvancheri::village
+vandu::village
 vandzene::village
 vanegah::village
+vanehabad::village
 vaneh khani::village
 vaneh khuni::village
 vaneh kuh::village
 vaneh rangineh::village
-vanehabad::village
 vanek::village
 vaneli::village
+van-e olya::village
 vaneq-e olya::village
 vaneq-e sofla::village
 vaneshan::village
 vaneshid::village
-vanestan::village
+van-e sofla::village
 vanestanaq::village
+vanestan::village
 vanevan::village
 vangal::village
 vanganoor::village
@@ -539,16 +584,17 @@ vangarje::village
 vangchhia::village
 vangin::village
 vangipuram::village
+vängla::village
 vangos::village
 vangshylla::village
 vangsvik::village
 vangtlang::village
 vangudi::village
 vanguru::village
-vani sar::village
 vaniamallee::village
 vanineh-ye olya::village
 vanineh-ye sofla::village
+vani sar::village
 vanisar::village
 vanistan::village
 vanit-e olya::village
@@ -558,10 +604,10 @@ vanjan::village
 vanjanwadi::village
 vanjinapuram::village
 vanjore::village
-vank::village
 vankal::village
 vankas::village
 vankse::village
+vank::village
 vanlujaq::village
 vannakkudi::village
 vannali::village
@@ -570,20 +616,21 @@ vanniyampatti::village
 vannur::village
 vanse::village
 vansi::village
-vantainiai::village
 vantačići::village
+vantainiai::village
 vantri::village
-vanu::village
 vanuatu:瓦努阿图
 vanunan::village
 vanush::village
+vanu::village
 vanvikan::village
-vanyar::village
+van::village
 vanyarc::village
+vanyar::village
 vanyola::village
 vanzau::village
-vao::village
 vaopere::village
+vao::village
 vapar sar::village
 vapileh::village
 vapniarka::village
@@ -595,70 +642,68 @@ vaqeeh dasht::village
 vaqfak::village
 vaqfi::village
 vaqiri::village
-var gonbad::village
-var jafari-ye gachi::village
-var kamareh::village
-var kola::village
-var posht::village
-var zamin::village
-var-e zard::village
-var::village
-vara::village
 varabad::village
-varad::village
 varadaiahpalem::village
+varad::village
+várad::village
 varagani::village
 varagavan::village
 varagol::village
 varagur::village
 varahi::village
 varak bar-e sofla::village
-varak::village
 varakeh rud::village
 varaki::village
+varak::village
 varale::village
 varalé::village
+váralja::village
 varamdeh::village
 varameh::village
-varamin::village
 varaminak::village
-varan::village
+varamin::village
 varanavasi::village
-varand::village
 varandan::village
 varandi moti::village
+varand::village
 varanga::village
 varangeh rud::village
 varangu::village
+varan::village
 varanwadi::village
-varaq::village
 varaqa::village
 varaqi::village
+varaq::village
 vararamachandrapuram::village
 varas::village
-varavi::village
+váraszó::village
+văratic::village
+värati::village
+vara::village
 varavis::village
+varavi::village
 varayeneh::village
-varazan::village
 varazaneh::village
+varazan::village
 varazdeh-e olya::village
 varazdeh-e sofla::village
 varazgah::village
-varazq::village
 varazqan::village
+varazq::village
 varbad-e olya::village
+várbalog::village
 varbar::village
 varbentsi::village
 varbevere::village
 varbitsa::village
 varbla::village
+varbóc::village
 varbola::village
 varbon::village
+varbó::village
 varbovo, vidin province::village
 varbovo::village
 varbuse::village
-varbó::village
-varbóc::village
 varchak::village
 varcham::village
 varchand::village
@@ -670,17 +715,18 @@ vardadzor::village
 vardaghbyur::village
 vardahovit::village
 vardakar::village
-vardan::village
 vardaneh::village
 vardanidzor::village
+vardan::village
 vardaran::village
 vardashat::village
 vardashen::village
-vardavan::village
 vardavank::village
+vardavan::village
 vardavard-e olya::village
 vardavard-e sofla::village
 vardavard-e vosta::village
+várda::village
 vardeh sara::village
 vardeh::village
 vardenik::village
@@ -691,89 +737,99 @@ vardij::village
 vardim::village
 vardin::village
 vardja::village
+várdomb::village
 vardum::village
 vardun::village
 varduq::village
 varea::village
-vared mahalleh::village
 varedan::village
 varedeh::village
+vared mahalleh::village
 varegah-e olya::village
 varegah-e sofla::village
 varegah::village
 vareh now::village
-vareh zard::village
-vareh zardi::village
-vareh-ye mohammad jafari::village
 vareh::village
+vareh-ye mohammad jafari::village
+vareh zardi::village
+vareh zard::village
+varėnai::village
 varesabad::village
 varese::village
 varesmetsa::village
 varetha::village
 varevench::village
 varevo::village
+var-e zard::village
 varezg::village
 varfam::village
-varg::village
-vargach::village
+várfölde::village
 vargachgeh-ye zeyyed ali::village
-vargah vir::village
+vargach::village
 vargahan::village
-vargar::village
+vargah vir::village
 vargard::village
+vargar::village
 vargeh darreh::village
 vargeh pahneh::village
 vargeh sabztazeh::village
 vargeh saran::village
+várgesztes::village
 vargil::village
+var gonbad::village
 vargun gura::village
 varguran::village
+varg::village
 varhal cheshmeh ramezan::village
 varhaugvika::village
-vari-ye kalak::village
-vari::village
 variable:变量
 variadic:参数数可变的
-varian::village
 variani::village
 variant:变量
+varian::village
 variav::village
 variety:多样性
 varighedu::village
-varik::village
 variku::village
+varik::village
 varin-e bala::village
 varin-e pain::village
 varinurme::village
 various:各种的
 varish::village
+vari::village
 varivode::village
 variyankaval::village
+vari-ye kalak::village
+var jafari-ye gachi::village
 varja::village
 varjavi::village
 varjushan::village
 varka deh::village
-varkan::village
+var kamareh::village
 varkaneh::village
+varkan::village
 varkash::village
 varkbar-e olya::village
 varkesh::village
+várkesző::village
 varkhande::village
 varkja::village
 varkohleh::village
+var kola::village
 varkoliai::village
 varkuh::village
 varkund::village
 varkurak::village
 varkureh::village
 varleh::village
-varlı::village
 varlık::village
+varlı::village
 varmahang::village
 varmakan::village
 varmaland::village
-varman::village
 varmanlu::village
+varman::village
 varmaqan::village
 varmatun::village
 varmazan somaq::village
@@ -783,28 +839,30 @@ varmazyar::village
 varmeleh::village
 varmenjeh::village
 varmezabad::village
-varmi::village
 varmian-e sofla::village
 varmishan::village
+varmi::village
 varmiyeh::village
-varna::village
 varnakesh::village
-varnam-e bala::village
-varnam-e pain::village
 varnamad::village
+varnam-e bala::village
 varnameh::village
+varnam-e pain::village
 varnaq::village
 varnavaj::village
-varni::village
+varna::village
 varniab::village
 varnian::village
 varnik::village
 varnița::village
+varni::village
 varntresk::village
-varnu::village
 varnupė::village
+varnu::village
+várong::village
 varor::village
 varosh::village
+városlőd::village
 varoti::village
 varovnik::village
 varpay-e olya::village
@@ -812,54 +870,59 @@ varpay-e sofla::village
 varpe::village
 varpey::village
 varpol::village
+var posht::village
 varposht::village
 varpud::village
 varqaneh::village
 varqeh-ye olya::village
 varqestan::village
+varronia globosa::plant
+varsád::village
 varsaj dudangeh::village
 varsak, antalya::village
 varsan::village
+varsány::village
 varsaut::village
 varser::village
 varshakonda::village
 varshilo::village
 varskhvaran::village
 varsoli::village
-varsád::village
-varsány::village
-vartavan::village
+värssu::village
 vartaşenqışlaq::village
+vartavan::village
 varteg::village
 varteig::village
 vartsikhe::village
 vartun::village
-varu::village
 varudi-altküla::village
 varudi-vanaküla::village
 varudi::village
 varuna::village
 varuq::village
-varva::village
-varvan::village
-varvandi-ye kuchak::village
+varu::village
 varvandi::village
+varvandi-ye kuchak::village
+varvan::village
 varvara::village
+varva::village
 varvazin::village
+var::village
+várvölgy::village
 varwade::village
-vary::village
 vary:变化
-varzan::village
+vary::village
+var zamin::village
 varzaneh::village
+varzan::village
 varzard-e olya::village
 varzard-e sofla::village
+vărzăreștii noi::village
 varzeqan::village
 varziad::village
-varėnai::village
-vasa koilaniou::village
-vasa::village
 vasad::village
 vasaj::village
+vasa koilaniou::village
 vasalja::village
 vasanthavada::village
 vasanthawada::village
@@ -867,8 +930,14 @@ vasantwadi::village
 vasapuram::village
 vasaras::village
 vasariškiai::village
+vašarište::village
+vásárosbéc::village
+vásárosdombó::village
+vásárosfalu::village
+vásárosmiske::village
 vasasszonyfa::village
 vasavere::village
+vasa::village
 vascular:血管
 vasefjan::village
 vasegerszeg::village
@@ -878,10 +947,10 @@ vasfownjerd::village
 vasgaon::village
 vashan::village
 vashapi::village
-vashe::village
 vasheh::village
 vasheqan::village
 vashere::village
+vashe::village
 vashian-e cheshmeh shirin::village
 vashian-e karim hoseyn::village
 vashian-e nasir tappeh::village
@@ -893,7 +962,6 @@ vashkan chan::village
 vashkan::village
 vashkivtsi::village
 vashmazin::village
-vashna::village
 vashnam-e dust mohammad::village
 vashnam-e eshaq::village
 vashnam-e faqir mohammad::village
@@ -903,15 +971,16 @@ vashnam-e kheyr mohammad::village
 vashnam-e mirgol::village
 vashnam-e morid::village
 vashnam-e shahdad::village
+vashna::village
 vashosszúfalu::village
 vashtarmal::village
 vashteh::village
 vashur::village
-vasi-ye olya::village
-vasi-ye sofla::village
+vašica::village
+văsieni::village
 vasileh yek::village
-vasileia::village
 vasileiada::village
+vasileia::village
 vasilevo, bulgaria::village
 vasilevo::village
 vasilikades::village
@@ -921,48 +990,52 @@ vasilyevka::village
 vasilyovo::village
 vasirin::village
 vasiuliškė::village
+vasi-ye olya::village
+vasi-ye sofla::village
 vaskareh::village
 vaskas::village
 vaskeresztes::village
 vaskjala::village
 vasknarva::village
 vaskovo::village
+vaškovo::village
 vaskrääma::village
 vasmaq::village
 vasmeh jan::village
 vasneh::village
-vaspul::village
 vaspör::village
+vaspul::village
 vassbygda::village
-vasse::village
 vassenden::village
 vassevere::village
+vasse::village
 vassivere::village
 vassurány::village
-vasszentmihály::village
 vasszécseny::village
-vasta::village
+vasszentmihály::village
 vastaba::village
 vastan::village
 vastar::village
 vastas::village
+vasta::village
 vastegan::village
 vastemõisa::village
 vastja::village
 vasu kola::village
 vasyeh kash::village
-vasyliv::village
 vasylivka::village
+vasyliv::village
+vászoly::village
 vata, central african republic::village
-vatan::village
 vatana::village
 vatangi::village
+vatan::village
 vatashan::village
 vathiyur::village
 vathylakas::village
 vathylakkos::village
-vatican city:梵蒂冈
 vatican:梵蒂冈
+vatican city:梵蒂冈
 vatileh::village
 vatili::village
 vatku::village
@@ -970,35 +1043,37 @@ vatla::village
 vatluru::village
 vatmanabad::village
 vatnal::village
-vatne::village
 vatnebu::village
 vatnestrøm::village
+vatne::village
 vato-foulbé::village
 vatoli::village
-vats::village
 vatsavai::village
+vätse::village
 vatsküla::village
 vatsla::village
-vatta::village
+vats::village
 vattakkalvalasu::village
 vattakudi ukkadai::village
 vattakudi::village
 vattamkulam::village
+vatta::village
 vatticherukuru::village
 vattigudipadu::village
 vatul::village
 vatupilei::village
+vát::village
 vaund::village
-vav darreh::village
 vavad::village
 vavali galleh::village
 vavali gardan::village
-vavan::village
 vavanoor::village
+vavan::village
 vavathurai::village
 vavatsinia::village
-vavdi::village
+vav darreh::village
 vavdin::village
+vavdi::village
 vavilala::village
 vavunikulam::village
 vavveru::village
@@ -1010,17 +1085,17 @@ vayqan-e maqadas::village
 vayrij::village
 vaysian::village
 vayvay, Şereflikoçhisar::village
-vaz-e gagangarestan::village
-vaz-e olya::village
-vaz-e sofla::village
-vaz-e tangeh::village
 vazak-e moradi::village
 vazak::village
 vazard tohmasab::village
 vazashen::village
+vaz-e gagangarestan::village
 vazel::village
 vazem khoshkeh rud::village
+vaz-e olya::village
 vazesht::village
+vaz-e sofla::village
+vaz-e tangeh::village
 vazeyak::village
 vazgaikiemis::village
 vazgestan::village
@@ -1031,19 +1106,19 @@ vazheh::village
 vazhikkadavu::village
 vazhithala::village
 vazhuvoor::village
-vazi::village
 vazifeh khvoran::village
-vazir::village
 vazirabad::village
 vazireh::village
 vaziri::village
 vaziriyeh::village
+vazir::village
 vazisubani::village
 vazivar::village
+vazi::village
 vazli::village
 vazmak::village
-vazman::village
 vazmaneh-ye olya::village
+vazman::village
 vazmastan namak kasht varzeh::village
 vazmela::village
 vazmi::village
@@ -1052,23 +1127,21 @@ vazneh sar::village
 vazneh::village
 vazovo::village
 vazveh::village
-vašarište::village
-vašica::village
-vaškovo::village
-ve::village
 veadla::village
 vear::village
 vechea::village
 vechin::village
+večići::village
 vecsaule::village
 vecsēlpils::village
+vécs::village
+vector:矢量
 vector field:向量场
 vector space:向量空间
-vector:矢量
 vecumnieki::village
 vedadri::village
-vedal::village
 vedalai::village
+vedal::village
 vedanayagipuram::village
 vedavijayapuram::village
 vedderheia::village
@@ -1087,12 +1160,12 @@ vedurukuppam::village
 vedvik::village
 veela bajju::village
 veelikse::village
-veen::village
 veenavanka::village
 veenhuizen::village
 veenhusen::village
 veenoord::village
 veensgarth::village
+veen::village
 veeraballe::village
 veeraballi::village
 veerachinnampatty::village
@@ -1106,10 +1179,10 @@ veerapur::village
 veerattikuppam::village
 veeravanoor::village
 veeravelly::village
-veere::village
 veeremäe::village
-veeri::village
+veere::village
 veeriku::village
+veeri::village
 veeriyankottai::village
 veerolipadam::village
 veerullapadu::village
@@ -1122,13 +1195,13 @@ vegayammapeta::village
 vegelinsoord::village
 vegetable:蔬菜
 vegetation:植被
-vegetative nervous system:植物神经系统
 vegetative:植物生长的
+vegetative nervous system:植物神经系统
 veggli::village
 vegre::village
 vehergaon::village
-vehicle ramming attack:交通工具冲撞攻击
 vehicle:交通工具
+vehicle ramming attack:交通工具冲撞攻击
 vehil::village
 vehmasmäki::village
 vehran::village
@@ -1153,9 +1226,9 @@ velangi::village
 velanidia::village
 velappaya::village
 velapur::village
-velas::village
 velashjerd::village
 velasht::village
+velas::village
 velavoor::village
 velayat rud::village
 velchevo::village
@@ -1164,34 +1237,36 @@ velda village hills::village
 velddriel::village
 velden::village
 veldurthy::village
-vele mune::village
-vele::village
-velem::village
 velembusi::village
 velemér::village
+vele mune::village
+velem::village
 velentsi::village
+velény::village
 velereč::village
 veleru::village
-velesh kola::village
 veleshani::village
+velesh kola::village
 veleshnjë::village
+vele::village
 velgonda::village
 velhavali::village
 velibeyler::village
+velići::village
 veligandla::village
 veligulubeyli::village
 velihimmetli::village
 velika brijesnica::village
 velika hoča::village
 velika kruševica::village
+velikan::village
 velika remeta::village
 velika sugubina::village
 velika::village
-velikan::village
 velikdenche::village
 velike krće::village
-velike pece::village
 velike pčelice::village
+velike pece::village
 veliki cirnik::village
 veliki crljeni::village
 veliki korinj::village
@@ -1204,18 +1279,17 @@ velilla de san esteban::village
 velilla::village
 velimlje::village
 velinga::village
+velisemõisa::village
 velise-nõlva::village
 velise::village
-velisemõisa::village
 velislav::village
 velistsikhe::village
 veliyam::village
-velići::village
 velje brdo::village
 velje selo::village
-veljun::village
 veljunska glina::village
 veljunski ponorac::village
+veljun::village
 velkovo::village
 velkovtsi::village
 vellaiahpuram::village
@@ -1228,20 +1302,20 @@ vellaturu::village
 vellavere::village
 velle::village
 vellivayal::village
-velloor::village
 velloorkunnam::village
+velloor::village
 vellora::village
 vellur::village
 velna::village
 velocity:速率
 veloor::village
-velp::village
 velpoor::village
+velp::village
 velsen-noord::village
 veltsa::village
 veltsi::village
-velu::village
 velur::village
+velu::village
 velyadi::village
 velyka babka::village
 velyka buda::village
@@ -1259,24 +1333,22 @@ velykyi mydsk::village
 velykyi zholudsk::village
 velykyi zhytyn::village
 velyushets::village
-velény::village
 vemanpalle::village
 vemavaram::village
 vembukudi::village
+véménd::village
 vempadu::village
-vemula::village
 vemulapalli::village
 vemulapally::village
+vemula::village
 vemulawada::village
 vemuluripadu::village
 vemundvik::village
 vemuru::village
-ven-zelderheide::village
-ven::village
 vena di maida::village
 venai::village
-venan::village
 venango::village
+venan::village
 venavi::village
 venchan::village
 venciūnai::village
@@ -1290,33 +1362,34 @@ vendreshë e vogël::village
 venecija::village
 venedy::village
 veneküla::village
+vének::village
 veneoja::village
 venetian:威尼斯人
 venets::village
 venevere::village
 venezuela:委内瑞拉
-veng-lek::village
 vengalayapalem::village
 venganur::village
 vengarai thippanvidudhi::village
 vengarai::village
-vengoor west::village
+veng-lek::village
 vengoor::village
+vengoor west::village
 vengur::village
 venhar::village
 venhorst::village
-venice::village
 venice:威尼斯
+venice::village
 venigandla::village
 venin::village
 venkampally::village
-venkata raju palem::village
 venkatachalam palli::village
 venkatampalle::village
 venkatanagaram::village
-venkatapur::village
-venkatapura::village
 venkatapuram::village
+venkatapura::village
+venkatapur::village
+venkata raju palem::village
 venkateshnagar::village
 venkateshwarnagar::village
 venkatraopally(b)::village
@@ -1324,8 +1397,8 @@ venkatraopally::village
 venkiryal::village
 venktapur::village
 venkuzhi::village
-venmankondan (west)::village
 venmankondan::village
+venmankondan (west)::village
 venmony::village
 vennalodai::village
 vennati::village
@@ -1341,21 +1414,25 @@ ventrapragada::village
 ventrosa::village
 venue:场所
 venus:金星
+ven::village
+ven-zelderheide::village
 vepada::village
 veppankkadu::village
 veppankulam::village
-vepryk::village
 veprčani::village
-vera::village
+vepryk::village
 veravalli::village
+vera::village
 veravjen-e olya::village
 veravjen-e sofla::village
 verb:动词
-verba::village
 verbal:口头的
-verbiv::village
+vërban::village
+verba::village
+verbesina occidentalis::plant
 verbivka::village
 verbivtsi::village
+verbiv::village
 verbose:过于详细的
 verdalen::village
 verdeh::village
@@ -1391,10 +1468,10 @@ verin shorzha::village
 verin tsaghkavan::village
 verishen::village
 verjan::village
-verkhni petrivtsi::village
-verkhni synivtsi::village
 verkhnia krasnianka::village
 verkhnia lypytsia::village
+verkhni petrivtsi::village
+verkhni synivtsi::village
 verkhniy gyaduk::village
 verkhnokamyanka::village
 verkhnoshyrokivske::village
@@ -1404,13 +1481,16 @@ verla::village
 verle::village
 verma::village
 vermelho velho::village
+vërmica::village
 vermilion::village
 vermont::village
-verna::village
 vernashen::village
+verna::village
 vernes::village
+vërnicë::village
 vernik::village
 verningen::village
+vernonia galamensis::plant
 vernon::village
 veroke::village
 verona::village
@@ -1426,71 +1506,79 @@ vertebral column:脊柱
 vertebrate:脊椎动物
 vertebrates:脊椎动物
 vertelka::village
+vértesacsa::village
+vértesboglár::village
+vérteskethely::village
+vértessomló::village
+vértesszőlős::village
+vértestolna::village
 vertical:垂直的
 vertine::village
 vertiujeni::village
 verxijan::village
-very good:很好
 very:非常
+very good:很好
+vërzhezhë::village
 vescona::village
 vescovado::village
 vesela balka::village
 vesela dolyna::village
 vesela hora::village
+veselčani::village
 vesele::village
 veselie::village
-veselčani::village
 veseshtë::village
+vése::village
 veshab::village
 veshareh::village
 veshist::village
 veshkand::village
 veshmeh sara::village
 veshnavah::village
-vesht::village
 veshtan::village
 veshtegan::village
+vesht::village
 vesiyeh sar::village
 veske::village
-veski::village
 veskiaru::village
 veskiküla::village
 veskimäe::village
 veskitaguse::village
+veski::village
 vesmaq::village
 vesper::village
 vesqi::village
 vesquneqan::village
-vessel:容器
 vessel:船
+vessel:容器
 vessem::village
 vestbirk::village
-vestbygd::village
 vestbygda::village
+vestbygd::village
 vestegan::village
 vester hjermitslev::village
-vester torup::village
 vesterhus::village
+vester torup::village
 vestervig::village
 vestfossen::village
-vestibular nerve:前庭神经
 vestibular:前厅的
+vestibular nerve:前庭神经
 vestibule:前厅
 vestla::village
+vestøl::village
 vestre jakobselv::village
 vestrup::village
-vestøl::village
 veszkény::village
 veszprémfajsz::village
 veszprémvarsány::village
 vetastenna::village
 vetepere::village
-veteran::village
 veteran:老兵
 veterans:老兵
+veteran::village
 vethiyarvettu::village
-veti::village
 vetiku::village
+veti::village
 vetla::village
 vetren::village
 vetrino::village
@@ -1499,68 +1587,80 @@ vetrushka::village
 vettiyar::village
 vevaji::village
 vevang::village
-vevelstad::village
 vevčani::village
-vey nesar::village
-vey::village
+vevelstad::village
+ve::village
 veyar::village
 veyhaj::village
-veyleh::village
 veylehi-ye melah rash::village
-veys ahmad::village
-veys morid::village
+veyleh::village
+vey nesar::village
 veysabad::village
+veys ahmad::village
 veysar::village
 veyseh::village
-veysel::village
 veyselli::village
+veysel::village
 veysi::village
+veys morid::village
+vey::village
 vezendan::village
 vezenkovo::village
 vezin::village
 vezirli::village
 vezirly::village
-vezman::village
 vezmana::village
+vezman::village
 vezmedar::village
 vezmeleh::village
 vezmestan-e olya::village
 vezmtar::village
 vezvanaq::village
 vezvar::village
-večići::village
+vələçola::village
+vələmir::village
+vələparqo::village
+vələsli::village
+vəlibəyli::village
+vənədli::village
+vənəşikəş::village
+vəng::village
+vərdağ::village
+vəznəş::village
 via:经过
 vial:小药瓶
 vialikija yodkavichy::village
 vialky::village
-vian::village
 viane::village
-viar::village
+vian::village
 viarsareh::village
+viar::village
 vibrate:振动
 vibration:振动
 vibrissa:触须
 vibrissae:触须
 vicarstown::village
-vice president:副总统
-vice versa:反之亦然
+vića::village
 vice:恶行
 vicente casares::village
+vice president:副总统
+vice versa:反之亦然
 vichhnai::village
 vichoor::village
 vichovo::village
 vichte::village
 vichumbe::village
+vicia nana::plant
+viçidol::village
 vicious:恶毒的
 vicksburg::village
 vico d'arbia::village
 vico pancellorum::village
 victim:受害者
 victoria:维多利亚
-victory day:胜利日
 victory:胜利
+victory day:胜利日
 vicuña::village
-vid::village
 vidapanakal::village
 vidar::village
 videkić selo::village
@@ -1573,15 +1673,16 @@ vidno::village
 vidrare::village
 vidre::village
 vidruka::village
-viduj::village
 viduja::village
+viduj::village
+vid::village
 viehbach::village
 vieq::village
 vierlingsbeek::village
 vierpolders::village
-vietnam war:越南战争
 vietnam:越南
 vietnamese:越南语
+vietnam war:越南战争
 vieux-bourg-d'aquin::village
 view:视图
 viewer:观察器
@@ -1589,6 +1690,7 @@ viewpoint:观点
 viewport:视口
 vifärna::village
 vigala-vanamõisa::village
+vigántpetend::village
 vigeland::village
 viggja::village
 vigmostad::village
@@ -1597,7 +1699,6 @@ vigorous:精力旺盛的
 vigorously:精力旺盛地
 vigrestad::village
 viguhumpola::village
-vigántpetend::village
 vihal::village
 vihasoo::village
 vihi::village
@@ -1613,12 +1714,12 @@ viinistu::village
 viira::village
 viiri::village
 viisireiu::village
+viișoara::village
 viisu::village
-viita::village
 viitasoo::village
+viita::village
 viitivka::village
 viitna::village
-viișoara::village
 vijaipura::village
 vijayapuram grama panchayat::village
 vijayapuram::village
@@ -1629,7 +1730,6 @@ vijfhuizen::village
 vijin-e bala::village
 vijin-e pain::village
 vijoy nagar::village
-vik::village
 vikaičiai::village
 vikan::village
 vikas nagar::village
@@ -1640,48 +1740,51 @@ vikebygd::village
 vikedal::village
 vikevåg::village
 vikhammer::village
-viki::village
 vikipalu::village
+viki::village
 vikkiramam::village
 vikla::village
 vikos::village
+vikøy::village
 vikramam::village
 viktoriv::village
 vikvarvet::village
-vikøy::village
+vik::village
 vila clotilde::village
-vila do abraão::village
-vila malanza::village
-vila shahr::village
-vila::village
 vilacolum::village
 viladasens::village
 vilademuls::village
+vila do abraão::village
 vilagrassa::village
 vilainiai::village
 vilakkudy::village
 vilakkupara::village
 vilalba sasserra::village
 vilallonga de ter::village
-vilama::village
+vila malanza::village
 vilamana::village
 vilamarí::village
+vilama::village
 vilana pallegama::village
 vilana udagama::village
 vilandai::village
 vilandakandam::village
 vilangalpattu::village
 vilangudi::village
-vilanova d'escornalbou::village
 vilanova de bellpuig::village
-vilanova de segrià::village
 vilanova del vallès::village
+vilanova d'escornalbou::village
+vilanova de segrià::village
 vilanur::village
 vilaripalayam::village
 vilasavilli::village
+vila shahr::village
 vilassar de dalt::village
+vila::village
 vilcabamba::village
 vileh::village
+vilëz::village
+vilići::village
 vilidu::village
 vilima::village
 vilimeeste::village
@@ -1689,7 +1792,6 @@ vilina::village
 vilita::village
 vilivalla::village
 vilivere::village
-vilići::village
 vilkhivka::village
 vilkhovets::village
 vilkiautinis::village
@@ -1698,38 +1800,39 @@ vilkyčiai::village
 villa a sesta::village
 villa bella::village
 villa campanile::village
-villa hidalgo::village
-villa maria::village
-villa park::village
-villa ripa::village
-villa rivero::village
-villa rosario de wilacala::village
-villa saletta::village
-villa::village
 villafranca::village
+village:村
 village of four seasons::village
 village president:村长
-village:村
+villa hidalgo::village
+villaḥormes::village
 villakvere::village
 villalbilla::village
+villálvaro::village
 villamaa::village
 villamagna::village
+villa maria::village
 villamediana de iregua::village
 villanañe::village
 villandi::village
 villangadu::village
 villanueva de cameros::village
 villanueva de valdegovía::village
+villa park::village
 villar de chinchilla::village
 villar de olmos::village
 villar de torre::village
 villarejo::village
+villa ripa::village
+villa rivero::village
+villa rosario de wilacala::village
 villars-sur-ollon::village
+villa saletta::village
 villaseta::village
 villavelayo::village
 villaverde de rioja::village
 villavere::village
-villaḥormes::village
+villa::village
 ville di corsano::village
 villemi::village
 villers-aux-tours::village
@@ -1738,36 +1841,37 @@ villevere::village
 villierstown::village
 villip::village
 villiyavarambal::village
+víllodas::village
 villoslada de cameros::village
-villálvaro::village
 vilmány::village
 vilne::village
 vilonya::village
 vilshet::village
 vilsteren::village
-vilt::village
 vilta::village
 viltina::village
-vilu::village
+vilt::village
 vilumäe::village
 vilupanankurichi::village
 vilusi::village
 viluthiyur::village
+vilu::village
 vilvamarathupatti::village
 vilyvitány::village
-vilëz::village
 vinagre::village
 vinah::village
 vinaq::village
 vinarsko::village
+vinár::village
+vînători::village
 vincentava::village
 vincgalys::village
-vind::village
 vinderhoute::village
 vindinge::village
 vindornyafok::village
 vindornyalak::village
 vindornyaszőlős::village
+vind::village
 vinegar:醋
 vineh::village
 vinevo::village
@@ -1776,58 +1880,58 @@ vingelen::village
 vingnes::village
 vingrom::village
 vinica pri Šmarjeti::village
+viniče::village
 vinicka::village
 viniegra de arriba::village
-viniče::village
 vinište::village
 vinjanampadu::village
-vinje::village
 vinjeøra::village
+vinje::village
 vinkega::village
 vinkeveen::village
 vinkov vrh::village
 vinkuran::village
 vinnamangalam::village
-vinne::village
 vinnes::village
+vinne::village
 vinodarayunipalem::village
-vinograd::village
 vinogradets::village
 vinogradi::village
 vinogradnoe::village
+vinograd::village
 vintijan::village
 vinton::village
 vintri::village
 vintse::village
 vinyols i els arcs::village
 vinzan::village
-vinár::village
-viola::village
+viola canadensis::plant
+viola cotyledon::plant
 violate:违反
 violation:违反
+viola::village
 violence:暴力
 violent:暴力的
 violet:深紫色
-vir::village
-vira::village
 virachilai::village
 virai::village
 viraksaare::village
 viral:病毒的
 virampur::village
-viran qayah::village
-virana::village
 viranamur::village
+virana::village
 virani::village
+viran qayah::village
 viranşehir::village
 virapankoppa::village
+vira::village
 virdel::village
 virden::village
 vire::village
 virgala mayor::village
+virginia:弗吉尼亚
 virginia gardens::village
 virginia::village
-virginia:弗吉尼亚
 virita::village
 virket::village
 virklund::village
@@ -1841,25 +1945,28 @@ virpazar::village
 virseq::village
 virtsu::village
 viru-kabala::village
-viru::village
 viruküla::village
 virulase::village
 virunurme::village
 virus:病毒
 viruses:病毒
 viruvere::village
+viru::village
 virve::village
+vir::village
 virwe::village
-vis::village
-visak::village
 visakhar::village
+visak::village
 visalpur::village
 visalur::village
 visar::village
+višća donja::village
+višća gornja::village
+vîșcăuți::village
 visgeh::village
 vishaj::village
-vishan::village
 vishanj::village
+vishan::village
 vishegrad::village
 visheh sara::village
 vishgun::village
@@ -1882,11 +1989,14 @@ visible:可见的
 visignano::village
 vision:视觉
 visit:拜访
+višķi::village
 viskla::village
 visman::village
 vismeh::village
 visnapuu::village
+vişneli::village
 visnes::village
+vișniovca::village
 visnye::village
 visoca::village
 visockë::village
@@ -1896,32 +2006,34 @@ visoka polyana::village
 visoka::village
 visoko::village
 visrud::village
-viss::village
 vissani::village
 vissannapeta::village
 vissenaken::village
 vissi::village
 vissoie::village
 vissuvere::village
-vista::village
+viss::village
 vistan-e bala::village
 vistan-e pain::village
+vista::village
 vistla::village
-visual art:视觉艺术
 visual:视觉的
+visual art:视觉艺术
 visualize:形象化
 visundarpur bara sakhaura::village
 visusti::village
 visveswarapuram::village
+vis::village
 visvliet::village
-visz::village
+viszák::village
 viszló::village
 visznek::village
-viszák::village
-vita::village
+visz::village
 vital:重要的
 vitalac::village
 vitamin:维生素
+vita::village
+vitėnai::village
 vithalapur::village
 vithe::village
 vithoda::village
@@ -1941,61 +2053,56 @@ vittalnagar::village
 vittalur::village
 vitthalwadi::village
 vittilapuram::village
-vitėnai::village
 viu::village
-viva::village
 vivalvedhe::village
-vivi::village
+viva::village
+viviania elegans::plant
 viviparous:胎生的
-vivo d'orcia::village
+vivi::village
 vivodina::village
+vivo d'orcia::village
 vivsia::village
-viy::village
 viyand-e kalkhvoran::village
 viyar::village
 viyeh::village
-viz darreh::village
+viy::village
 vizadasht::village
 vizanab::village
 vizaran::village
+viz darreh::village
 vizheh::village
 vizhithiyur::village
 vizitsa::village
 vizneh::village
 vizslás::village
 vizsoly::village
-viçidol::village
-vića::village
-vişneli::village
-višća donja::village
-višća gornja::village
-višķi::village
-vișniovca::village
+vízvár::village
+vıləşə::village
 vlachava::village
 vlachokerasia::village
 vlachorraptis::village
 vladievci::village
-vladimir::village
 vladimirovka::village
 vladimirovo, haskovo province::village
 vladimirovo::village
+vladimir::village
 vladinya::village
 vladislavtsi::village
 vladni::village
 vlado trichkov::village
 vladovtsi::village
 vladslo::village
-vlahi (village)::village
-vlahi::village
 vlahinja::village
+vlahi::village
+vlahi (village)::village
 vlamertinge::village
 vlasatili::village
 vlashnjë::village
 vlastislav::village
 vlatkovići::village
 vlaychovtsi::village
-vledder::village
 vledderveen::village
+vledder::village
 vlierden::village
 vllahat::village
 vlochos::village
@@ -2005,18 +2112,22 @@ vnà::village
 vocabulary:词汇
 vocalist:歌手
 vocalists:歌手
+vöckönd::village
 vodach::village
 vodava::village
-voden::village
 vodenicharsko::village
 vodentsi::village
+voden::village
+vodëz e sipërme::village
+vodëz::village
 vodiane::village
 vodif::village
 voditsa::village
 vodja::village
 vodnyantsi::village
-vodëz e sipërme::village
-vodëz::village
+võduvere::village
+võerdla::village
+võeva::village
 voe::village
 voevodivka::village
 voganj::village
@@ -2029,91 +2140,127 @@ vogipalem::village
 vognillan::village
 vognsild::village
 vogt::village
+võhmanõmme::village
+võhma::village
+võhmetu::village
+võhmuta::village
 vohnja::village
+võhu::village
 voice:语音
+võide::village
+võidula::village
+võidu::village
 voika::village
+võikvere::village
 voimedu::village
 voinescu::village
 voinova::village
+võipere::village
+võisiku::village
 voisil::village
+võistre::village
+võitra::village
+võivaku::village
+võivere::village
 vojka::village
 vojnik::village
 vojno selo::village
 vojnovac::village
 vojvoda stepa::village
+vokány::village
 voka::village
 voklo::village
 vokolida::village
 vokopola::village
-vokány::village
 volahzhir::village
 volastra::village
 volbrune::village
 volbu::village
-volcanic eruption:火山爆发
 volcanic:火山的
+volcanic eruption:火山爆发
 volcano:火山
+volčje::village
+völcsej::village
 volegno::village
 volente::village
+võle::village
 voljavac::village
 volkel::village
 volkoderi::village
 volkovo::village
-voll::village
+võlla::village
 volleberg::village
+võlle::village
 volleyball:排球
+võlli::village
+voll::village
 volno::village
-volo::village
 voloka::village
 voloshyne::village
 voloske::village
 volovartsi::village
 volove::village
+volo::village
 volpaia::village
 volt:伏特
 voltage:电压
 volte alte::village
 volte basse::village
-volume:体积
 volume:卷
+volume:体积
 voluntary:自愿的
 volunteer:志愿者
 voluptuous:丰满的
 volvoi::village
-volčje::village
 vomit:呕吐
+võmmorski::village
 vondh::village
 vongkithem::village
 voni::village
+võnnu::village
+vönöck::village
 vontimitta::village
+võntküla::village
+võõbu::village
+võõpste::village
+võõpsu::village
 voorbahi::village
-voore::village
 voorepera::village
+voore::village
 voorst::village
 vooru::village
 voose::village
+võpolsova::village
 voraj::village
 vorbuse::village
 vordermühle::village
 vorenjan::village
+võrevere::village
 voriškės::village
+võrkla::village
 vormedal::village
 vormstad::village
 vormsund::village
 vorniceni::village
+võrnu::village
 vorochovo::village
 voroklini::village
 voron::village
 voropi::village
+vöröstó::village
 vorotan::village
+võrsna::village
 vorsti::village
+vörs::village
+võruküla::village
+võrungi::village
 voru::village
 vosava::village
 vosbučiai::village
 voshkalan::village
 voshteh::village
-vosi::village
 vosiūnai::village
+vosi::village
 voskaičiai::village
 voskehask::village
 voskehat::village
@@ -2124,12 +2271,14 @@ voskevan::village
 voskevaz::village
 vossem::village
 vosta kola::village
-vostan::village
 vostaniyeh-ye do::village
 vostaniyeh-ye yek::village
+vostan::village
+võsupere::village
 vosuqabad::village
 vota::village
 vote:投票
+voŭčyn::village
 vougba::village
 voukoun::village
 vounargo::village
@@ -2146,10 +2295,11 @@ voxel:三维像素
 voxels:三维像素
 voyage:航行
 voyage:旅行
+vøyenenga::village
 voynikovo::village
 voynishka::village
-voynitsi::village
 voynitsite::village
+voynitsi::village
 voynovo::village
 voynyagovo::village
 voytala::village
@@ -2158,34 +2308,34 @@ voyvodinovo::village
 voyvodovo::village
 vozhdovo::village
 vozmaleh::village
-voŭčyn::village
 vrabevo::village
 vrabtsite::village
+vračev gaj::village
 vrachantsi::village
+vrådal::village
 vradeto::village
 vrakupovitsa::village
 vraneši::village
+vranići::village
 vranidoll::village
 vranilovtsi::village
 vranino::village
 vraniq::village
-vranići::village
 vraništa::village
-vranja::village
 vranjak::village
+vranja::village
 vranje selo::village
 vranjt::village
 vranovići::village
 vransko::village
 vranya, bulgaria::village
-vrap::village
 vrapče::village
+vrap::village
 vrasene::village
 vratarite::village
 vratitsa::village
 vratsa::village
 vrav::village
-vračev gaj::village
 vrbica::village
 vrbjani::village
 vrbovik::village
@@ -2196,8 +2346,8 @@ vrengen::village
 vresovo::village
 vrh lašići::village
 vrhpolje::village
-vries::village
 vriesland::village
+vries::village
 vrijhoeve-capelle::village
 vrinë::village
 vrisa::village
@@ -2212,9 +2362,9 @@ vrpsko::village
 vrtoče::village
 vrulja::village
 vryses::village
-vrådal::village
 vshchizh::village
 vtoraya pyatiletka::village
+vučipolje::village
 vuckanivska::village
 vukojevac::village
 vukova gorica::village
@@ -2239,168 +2389,19 @@ vurli dol::village
 vusanje::village
 vuti::village
 vuzlove::village
-vučipolje::village
 vyachakurahalli::village
 vyahali::village
 vyaspur::village
 vydeniai::village
 vydmantai::village
+výhledy::village
 vykuntapuram::village
 vylathur::village
 vynohradivka::village
 vypalai::village
+vysočany::village
 vysoki bairaky::village
 vysotsk::village
-vysočany::village
-vytautinė::village
 vytautėliai::village
+vytautinė::village
 vyzakia::village
-vág::village
-vágáshuta::village
-vál::village
-váljohka::village
-vállus::village
-vámoscsalád::village
-vámosgyörk::village
-vámosszabadi::village
-vámosújfalu::village
-várad::village
-váralja::village
-váraszó::village
-várbalog::village
-várda::village
-várdomb::village
-várfölde::village
-várgesztes::village
-várkesző::village
-várong::village
-városlőd::village
-várvölgy::village
-vászoly::village
-vásárosbéc::village
-vásárosdombó::village
-vásárosfalu::village
-vásárosmiske::village
-vát::village
-vägari::village
-vägeva::village
-väheru::village
-väike-ahli::village
-väike-kareda::village
-väike-lähtru::village
-väike-nõmmküla::village
-väike-pahila::village
-väike-pungerja::village
-väike-rahula::village
-väike-rakke::village
-väike-rootsi::village
-väike-tammiku::village
-väike-ula::village
-väike-võhma::village
-väinjärve::village
-välgita::village
-väljaküla::village
-väljamõisa::village
-väljaotsa::village
-väljataguse::village
-välta::village
-väluste::village
-vängla::village
-värati::village
-värssu::village
-vätse::village
-vääna-jõesuu::village
-vääna::village
-väänikvere::village
-väänla::village
-väärinmaja::village
-våge::village
-vågosen::village
-vågsvåg::village
-våk::village
-våle::village
-værnes::village
-væting::village
-vécs::village
-véménd::village
-vének::village
-vértesacsa::village
-vértesboglár::village
-vérteskethely::village
-vértessomló::village
-vértesszőlős::village
-vértestolna::village
-vése::village
-vërban::village
-vërmica::village
-vërnicë::village
-vërzhezhë::village
-víllodas::village
-vízvár::village
-vînători::village
-vîșcăuți::village
-võduvere::village
-võerdla::village
-võeva::village
-võhma::village
-võhmanõmme::village
-võhmetu::village
-võhmuta::village
-võhu::village
-võide::village
-võidu::village
-võidula::village
-võikvere::village
-võipere::village
-võisiku::village
-võistre::village
-võitra::village
-võivaku::village
-võivere::village
-võle::village
-võlla::village
-võlle::village
-võlli::village
-võmmorski::village
-võnnu::village
-võntküla::village
-võpolsova::village
-võrevere::village
-võrkla::village
-võrnu::village
-võrsna::village
-võruküla::village
-võrungi::village
-võsupere::village
-võõbu::village
-võõpste::village
-võõpsu::village
-vöckönd::village
-völcsej::village
-vönöck::village
-vörs::village
-vöröstó::village
-vøyenenga::village
-výhledy::village
-vălcineț::village
-văleni::village
-văratic::village
-vărzăreștii noi::village
-văsieni::village
-vıləşə::village
-vəlibəyli::village
-vələmir::village
-vələparqo::village
-vələsli::village
-vələçola::village
-vəng::village
-vənədli::village
-vənəşikəş::village
-vərdağ::village
-vəznəş::village
-viola canadensis::plant
-vicia nana::plant
-viviania elegans::plant
-verbesina occidentalis::plant
-varronia globosa::plant
-viola cotyledon::plant

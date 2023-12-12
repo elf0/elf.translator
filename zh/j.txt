@@ -1,45 +1,43 @@
-j. thimmapuram::village
-ja ordu::village
-ja shiran::village
-ja`far::village
 jaagupi::village
 jaakna::village
-jaama::village
 jaamac liibaan::village
-jaani::village
+jaama::village
 jaanika::village
 jaanikese::village
 jaanimäe::village
 jaaniveski::village
+jaani::village
+jäärja::village
 jaarsveld::village
+jäätma::village
 jaaveleh::village
 jabab hamad::village
 jabadá::village
 jabal awliya::village
-jabal kandi::village
 jabaleh::village
+jabal kandi::village
 jabalkandi::village
 jaban::village
 jabapur (r)::village
-jabar kili::village
 jabara::village
+jabar kili::village
 jabarkooteh::village
-jabbar beyg::village
-jabbar kandi::village
-jabbar::village
 jabbarabad-e olya::village
 jabbarabad-e sofla::village
 jabbarabad::village
 jabbarand::village
+jabbar beyg::village
+jabbar kandi::village
 jabbarlu::village
+jabbar::village
 jabbo sudhar::village
 jabbowal::village
 jabdaraq::village
 jabeek::village
 jabehdar::village
+jaberabad::village
 jaber-e ansar::village
 jaber-e sofla::village
-jaberabad::village
 jaberi::village
 jabhala::village
 jabiglu::village
@@ -49,29 +47,31 @@ jablanac::village
 jablanica::village
 jablanka::village
 jablaya::village
+jabłeczna::village
+jabłoniec::village
+jabłonka::village
 jablonové::village
+jabłonowo-zamek::village
+jabłonów::village
+jabłówko::village
+jabłowo pałuckie::village
+jabłów::village
 jablu::village
-jabo sudhar::village
 jabolci::village
 jabon::village
+jabo sudhar::village
 jabrabad::village
 jabrani::village
-jabri::village
 jabrian::village
+jabri::village
+jabučje::village
+jabučno::village
 jabuka (foča)::village
 jabukovac::village
 jaburna::village
 jabuz::village
-jabučje::village
-jabučno::village
-jabłeczna::village
-jabłoniec::village
-jabłonka::village
-jabłonowo-zamek::village
-jabłonów::village
-jabłowo pałuckie::village
-jabłów::village
-jabłówko::village
+jacaranda copaia::plant
+jacaranda ulei::plant
 jacewo::village
 jachie-pramso::village
 jachosze::village
@@ -80,8 +80,8 @@ jackfield::village
 jacklow::village
 jackowo::village
 jacksdale::village
-jackson::village
 jackson:杰克逊
+jackson::village
 jacksonville::village
 jaczkowice::village
 jaczów::village
@@ -94,12 +94,14 @@ jadhavwadi::village
 jadidabad-e shandak::village
 jadidah::village
 jadir::village
+jädivere::village
 jadla::village
 jadopur::village
 jadow ab::village
 jadowniki bielskie::village
 jadowniki rycerskie::village
 jadreški::village
+jądrowice::village
 jadruhi::village
 jadu zehi buhir::village
 jadu zehi hajji piri::village
@@ -113,15 +115,9 @@ jadvalkun::village
 jadwigowo::village
 jadwisin::village
 jadwiżyn::village
+jaegeria gracilis::plant
 jaer::village
-jaf bar-e simin::village
 jafa kandeh::village
-jafar jen::village
-jafar kola::village
-jafar qoli owshaghi::village
-jafar qoli::village
-jafar-e sadeq::village
-jafar::village
 jafarabad-e akhavan::village
 jafarabad-e baqeraf::village
 jafarabad-e chelik::village
@@ -132,13 +128,21 @@ jafarabad-e sofla::village
 jafarabad::village
 jafarbagi-ye olya::village
 jafarbagi-ye sofla::village
-jafari-ye shebeshi::village
+jafar-e sadeq::village
 jafarian::village
 jafariyeh::village
+jafari-ye shebeshi::village
+jafar jen::village
 jafarkhan-e zeytun::village
 jafarkhan::village
+jafar kola::village
 jafarlu::village
+jafar qoli owshaghi::village
+jafar qoli::village
+ja`far::village
+jafar::village
 jafarwal::village
+jaf bar-e simin::village
 jaffal::village
 jaffarpur::village
 jafir-e do::village
@@ -147,13 +151,13 @@ jafrabad::village
 jafre::village
 jafriz::village
 jaft do pa::village
-jag::village
 jagadenahalli::village
 jagadevpet::village
 jagadevpur::village
 jagair-at::village
+jägala-joa::village
+jägala::village
 jagal::village
-jagan::village
 jagana::village
 jaganguda::village
 jaganlu::village
@@ -161,55 +165,76 @@ jaganluy-e kord::village
 jagannadhapuram::village
 jagannathpur::village
 jaganpur::village
+jagan::village
 jagat khera::village
+jagatpura ahir::village
 jagatpur jattan::village
 jagatpur kotaha::village
 jagatpur theh::village
 jagatpur::village
-jagatpura ahir::village
 jagdeo::village
 jagdishpur::village
 jaggan::village
 jaghan::village
 jagharq::village
 jaghatsadzor::village
-jaghd::village
 jaghdan::village
 jaghdar-e bala::village
 jaghdar-e pain::village
 jaghdari::village
+jaghd::village
 jaghin::village
 jaghneh hazrati::village
-jagi-ye sarhadi::village
 jagielnica::village
 jagielno::village
 jagin-e bala::village
 jagirabad::village
 jagirpally::village
+jagi-ye sarhadi::village
 jagličje::village
 jagmalpur::village
 jagmeri::village
 jagminai::village
 jagnjenica::village
-jago sangha::village
 jagodići::village
 jagodnica::village
 jagodnik::village
 jagodowo::village
 jagodzin::village
+jágónak::village
+jago sangha::village
 jagoszyce::village
 jagpalpur::village
 jagral::village
 jagrawan::village
 jaguar:美洲豹
-jah heydarbal::village
+jag::village
 jahadabad-e cheshmeh tagi::village
 jahadabad-e narak::village
 jahadabad::village
 jahakagama::village
 jahalda::village
+jahanabad-e olya::village
+jahanabad-e pain::village
+jahanabad-e sofla::village
+jahanabad::village
+jahanawala::village
 jahan bakhsh::village
 jahan bini::village
+jahandiz::village
+jahangerd::village
+jahangirabad::village
+jahangirbeyli::village
+jahangir-e olya::village
+jahangiri::village
+jahangiri-ye olya::village
+jahangiri-ye sofla::village
+jahangir kandi::village
+jahangirlu::village
+jahangirpur::village
+jahangirvand::village
+jahangir::village
+jahaniabad::village
 jahan khanamlu::village
 jahan najan::village
 jahan nama::village
@@ -217,64 +242,46 @@ jahan qaleh::village
 jahan shahi::village
 jahan tigh::village
 jahan::village
-jahanabad-e olya::village
-jahanabad-e pain::village
-jahanabad-e sofla::village
-jahanabad::village
-jahanawala::village
-jahandiz::village
-jahangerd::village
-jahangir kandi::village
-jahangir-e olya::village
-jahangir::village
-jahangirabad::village
-jahangirbeyli::village
-jahangiri-ye olya::village
-jahangiri-ye sofla::village
-jahangiri::village
-jahangirlu::village
-jahangirpur::village
-jahangirvand::village
-jahaniabad::village
 jahelu::village
+jah heydarbal::village
 jahidpur::village
 jahiz khaneh::village
 jahla::village
 jahlieh::village
-jahr::village
 jahrah, yemen::village
 jahreh::village
-jai hatam::village
+jahr::village
 jaid::village
 jaiee::village
+jai hatam::village
 jaikesaram::village
 jaikheda::village
 jail:监狱
 jaimangalpur::village
-jainag::village
 jainagar::village
+jainag::village
 jainapur::village
 jainepally::village
 jainism:耆那教
 jainkoppa::village
 jainpur::village
 jaintpur::village
-jaipur::village
 jaipura::village
+jaipur::village
 jairajpur::village
 jairampur pande::village
 jaitapur::village
 jaitewali::village
 jaitowal::village
-jaitpur shekhpur::village
 jaitpura gudha::village
 jaitpura::village
+jaitpur shekhpur::village
 jaitu sarja::village
 jaja kalan::village
-jaja::village
-jajan::village
 jajang::village
 jajankhedi::village
+jajan::village
+jaja::village
 jajigedda::village
 jajigram::village
 jajireddigudem::village
@@ -282,17 +289,19 @@ jajivalasa::village
 jajjay sahian::village
 jajkowo::village
 jajouka::village
-jaju-ye faj::village
-jaju::village
 jajui-ye olya::village
 jajui-ye sofla::village
-jajur::village
 jajuravan::village
+jajur::village
+jaju::village
+jaju-ye faj::village
 jakabal::village
-jakandar::village
 jakačići::village
+jakandar::village
 jakdan::village
+jakėnai::village
 jakeš::village
+jákfalva::village
 jakhala::village
 jakhangaon::village
 jakhani kalan::village
@@ -307,6 +316,9 @@ jakobimõisa::village
 jakobsnes::village
 jakopur khurd::village
 jakotina::village
+jákó::village
+jakówki::village
+jakšiai::village
 jaksice::village
 jaksiczki::village
 jaksin::village
@@ -317,17 +329,12 @@ jakubkowice::village
 jakubkowo::village
 jakubowice::village
 jakubowo lubińskie::village
-jakubowo-węgielin::village
 jakubowo::village
+jakubowo-węgielin::village
 jakubów::village
 jakuszowa::village
 jakuszów::village
-jakówki::village
-jakėnai::village
-jakšiai::village
-jal-e akhund mahalleh::village
-jal-e chala sar::village
-jal::village
+ják::village
 jalabari::village
 jalabi::village
 jaladanki::village
@@ -337,25 +344,25 @@ jalage::village
 jalahar::village
 jalain tappeh::village
 jalakbar::village
-jalal bholana::village
-jalal deh::village
-jalal-e sofla::village
 jalalabad-e dezak::village
 jalalabad-e marbin::village
 jalalabad-e tavalayi::village
 jalalabad::village
-jalali::village
+jalal bholana::village
+jalal deh::village
+jalal-e sofla::village
 jalalieh::village
+jalali::village
 jalaliyeh jonubi::village
 jalaliyeh shomali::village
-jalaliyeh-ye hajeri::village
 jalaliyeh::village
+jalaliyeh-ye hajeri::village
+jalalõpe::village
 jalalpur dhai::village
 jalalpur khurd::village
 jalalpur::village
 jalalvand-e olya::village
 jalalvand-e sofla::village
-jalalõpe::village
 jalambadan::village
 jalameh::village
 jalametsa::village
@@ -376,20 +383,23 @@ jaldam::village
 jaldega::village
 jaldessa::village
 jaldian::village
+jal-e akhund mahalleh::village
+jal-e chala sar::village
 jaleh::village
 jalgaon::village
+jälgimäe::village
 jalgsema::village
 jalgyz-terek::village
-jali kola::village
 jalieh::village
 jalihala::village
 jalikan-e olya::village
 jalikan-e sofla::village
 jalikatti::village
+jali kola::village
 jalikoppa::village
-jalil kandi::village
 jalilabad::village
 jalileh::village
+jalil kandi::village
 jalilvand::village
 jalimpura::village
 jalin::village
@@ -406,100 +416,100 @@ jallowal::village
 jalluru::village
 jalmajerd-e jadid::village
 jalo bhati::village
+jalón de cameros::village
+jałowicze::village
+jałowiec::village
 jalpa chak::village
 jalpot::village
 jalqran::village
+jalševec svibovečki::village
 jalsoor::village
+jalukiekam::village
+jalukielo::village
 jalukie lower khel::village
+jalukieram::village
 jalukie rongdai::village
 jalukie sangtam::village
 jalukie upper khel::village
 jalukie zangdi::village
-jalukiekam::village
-jalukielo::village
-jalukieram::village
 jalukse::village
 jaluse::village
+jal::village
 jalwaha::village
 jalwai::village
 jalwali::village
 jalwehra::village
-jalón de cameros::village
-jalševec svibovečki::village
-jam ab::village
-jam bozorgi::village
-jam jerd::village
-jam khaneh::village
-jam::village
-jama azam::village
-jama zehi kuh dim::village
-jama zehi::village
-jama::village
 jamaabad-e haji noormohammad::village
 jamaabad::village
 jamaat zehi::village
+jama azam::village
 jamabad::village
+jam ab::village
 jamadi::village
 jamagaon::village
 jamaica:牙买加
 jamaican:牙买加人
 jamaitgarh alias khosa::village
-jamak zehi::village
+jämaja::village
 jamakabad::village
 jamakuh::village
-jamal ahmad::village
-jamal beyg::village
-jamal deh::village
-jamal jahan::village
-jamal kandi::village
-jamal kar::village
-jamal kola::village
-jamal ol din kola::village
-jamal ol din::village
+jamak zehi::village
 jamalabad-e hallaj::village
 jamalabad-e kuseh::village
 jamalabad-e nezamivand::village
 jamalabad-e qadiri::village
 jamalabad::village
-jamali zayer hoseyn::village
-jamali::village
+jamal ahmad::village
+jamal beyg::village
+jamal deh::village
 jamalia::village
+jamali::village
+jamali zayer hoseyn::village
+jamal jahan::village
+jamal kandi::village
+jamal kar::village
 jamalkeh::village
+jamal kola::village
+jamal ol din kola::village
+jamal ol din::village
 jamalpur karaundi::village
 jamalpur nankari::village
 jamalpur::village
 jamalur::village
 jamalvi-ye jadid::village
-jaman::village
 jamanal::village
 jamania::village
-jamar jan::village
+jaman::village
 jamaran::village
+jamar jan::village
 jamasab::village
 jamaski::village
+jama::village
 jamayran::village
-jamb::village
-jamba::village
+jama zehi kuh dim::village
+jama zehi::village
 jambagi::village
 jambaladinni::village
 jambarjuq::village
 jambavade::village
-jambe::village
+jamba::village
 jambegali::village
+jambe::village
 jambhali::village
 jambhavali::village
 jambhe::village
 jambhori::village
 jambhul::village
+jam bozorgi::village
 jambugaon::village
 jambugapuram::village
 jambugheh::village
 jambukheda::village
 jambur::village
 jambuvanodai::village
+jamb::village
 jamchin::village
 jamda shahi::village
-jame::village
 jameeh bozorg::village
 jameela pet::village
 jameh karan::village
@@ -507,11 +517,13 @@ jameh shuran-e olya::village
 jameh shuran-e sofla::village
 jameh shuran::village
 jameh::village
+jämejala::village
 jamepally::village
 james:詹姆士
 jameson::village
 jameston::village
 jamestown::village
+jame::village
 jamgaon::village
 jamgeh::village
 jamghan::village
@@ -522,24 +534,26 @@ jamieńszczyzna::village
 jamilabad::village
 jamileh::village
 jamipur::village
-jamira::village
 jamirah patra gaon::village
+jamira::village
 jamishan-e olya::village
 jamishan-e sofla::village
 jamishlu::village
+jam jerd::village
 jamkan::village
 jamkaran::village
+jam khaneh::village
 jamkoriapur::village
 jamla::village
 jammalamadaka::village
 jammapur::village
-jammi::village
 jammihal::village
+jammi::village
 jammulapalem::village
 jammura::village
 jamni::village
-jamoniya kalan::village
 jamoniyachhir::village
+jamoniya kalan::village
 jampani::village
 jamrag-e shomali::village
 jamraya::village
@@ -552,12 +566,11 @@ jamshidabad-e heydar::village
 jamshidabad-e mirza::village
 jamshidabad::village
 jamshlu::village
-jamsi::village
 jamsikari::village
+jamsi::village
 jamsola::village
 jamtan::village
 jamthi budruk::village
-jamu::village
 jamua::village
 jamuhar::village
 jamuk::village
@@ -568,90 +581,82 @@ jamusar kalan::village
 jamusar khurd::village
 jamush olan-e olya::village
 jamush olan-e sofla::village
+jamu::village
+jam::village
 jamz::village
-jan ahmad::village
 jan ahmadi::village
-jan ali::village
-jan aliabad::village
-jan aqa::village
-jan aziz::village
-jan barazan::village
-jan bolagh::village
-jan gan::village
-jan jan::village
-jan khani::village
-jan mahmud::village
-jan mirza::village
-jan mohammad chahi::village
-jan mohammad, zahedan::village
-jan mohammad::village
-jan mohammadchahi::village
-jan sherud::village
-jan veri::village
+jan ahmad::village
 janai::village
 janakavaram panguluru::village
 janakbar::village
 janakipuram::village
 janakpatti::village
+jan aliabad::village
+jan ali::village
+janana::village
 janan lu::village
 janan::village
-janana::village
+jan aqa::village
 janardhanavaram::village
 janawad::village
+jan aziz::village
 janbahan::village
+jan barazan::village
 janbaz mahalleh::village
 janbeh sara::village
 janbeh::village
+jan bolagh::village
 janczowice::village
-jand::village
 janda baik::village
 jandab::village
 jandala::village
-jandar::village
 jandaran::village
+jandar::village
 jandha::village
 jandiala::village
 jandiali::village
 jandin::village
+jändja::village
 jandu::village
-jandwa::village
+jand::village
 jandwala bagar::village
-jane::village
+jandwa::village
 janephal::village
+jane::village
 janfida::village
-jang tappeh::village
-jang-e chah::village
-jang-e sar::village
 jangah::village
-jangal baqi::village
-jangal deh-e bala::village
-jangal deh-e pain::village
-jangal gauri::village
-jangal khurd::village
-jangal rasoolpur::village
-jangal shur::village
-jangal tir ahmad::village
-jangal-e gorgi::village
-jangal-e mukan::village
-jangal::village
 jangalabad-e bala::village
 jangalabad-e pain::village
 jangalabad::village
 jangalathota::village
+jangal baqi::village
+jangal deh-e bala::village
+jangal deh-e pain::village
+jangal-e gorgi::village
 jangaleh-ye olya::village
-jangali::village
+jangal-e mukan::village
+jangal gauri::village
 jangalia gaon ganja::village
+jangali::village
 jangaliya pura::village
+jangal khurd::village
+jangal rasoolpur::village
+jangal shur::village
+jangal tir ahmad::village
 jangaluk::village
+jangal::village
 jangamabudagatti::village
 jangamaheswarapapuram::village
 jangamgudem::village
+jan gan::village
 jangan::village
 jangaon::village
 jangarek-e bala::village
 jangarek-e pain::village
+jang-e chah::village
 jangeh::village
 jangemireh::village
+jang-e sar::village
 jangga::village
 jangian kotla::village
 jangikhu::village
@@ -659,8 +664,9 @@ jangipara::village
 jangipur::village
 jangla::village
 jangli::village
-jango::village
 jangooneh::village
+jango::village
+jang tappeh::village
 janguyeh::village
 jangy-akman::village
 jangy-alysh::village
@@ -673,25 +679,28 @@ jangy-jol::village
 jangy-kyshtak::village
 jangy-turmush::village
 janhitaila::village
-jani beyglu::village
-jani::village
-jania góra::village
 janiabad::village
+jania góra::village
 janian chahal::village
 janian::village
+jani beyglu::village
 janice::village
 janid deraz::village
 janikowo::village
 janików::village
 janin::village
+jänistvere::village
 janiszewo::village
 janiszów::village
+jani::village
 janizeh::village
 janja gora::village
 janjalabad::village
+jan jan::village
 janjar::village
 janjriawas::village
 jankamrah::village
+jan khani::village
 jankia::village
 jankov most::village
 jankowa::village
@@ -699,155 +708,183 @@ jankowice małe::village
 jankowice::village
 jankowo::village
 janków::village
+jan mahmud::village
+jan mirza::village
 janmohammad bazar::village
-jannat-e mortazavi::village
-jannat::village
+jan mohammad chahi::village
+jan mohammadchahi::village
+jan mohammad::village
+jan mohammad, zahedan::village
 jannatabad-e jangal::village
 jannatabad-e yek::village
-jannatabad::village
 jannatabadqom::village
+jannatabad::village
+jannat-e mortazavi::village
+jannat::village
 jannusan::village
 janochów::village
 janocin::village
+jánoshida::village
+janówek::village
 janowice duże::village
-janowice wielkie::village
 janowice::village
+janowice wielkie::village
 janowiczki::village
-janowiec-wieś::village
 janowiec::village
+janowiec-wieś::village
+janówka::village
+janówko::village
 janowo::village
+janów::village
 janqur::village
 jansen::village
+jan sherud::village
 janu basan::village
 janupalle::village
 januszewo::village
 januszkowice::village
 januszkowo::village
 janvareh-ye khvarag::village
+jan veri::village
 janvislu::village
 janwal::village
-janów::village
-janówek::village
-janówka::village
-janówko::village
 jaong::village
+ja ordu::village
 japaga::village
 japalak::village
-japan tikri::village
 japan:日本
 japanese:日本人
 japanese:日语
+japan tikri::village
 japra::village
 jaqalu::village
-jar khoshk-e olya::village
-jar khoshk-e sofla::village
-jar-bashy::village
-jar-korgon::village
-jar-kyshtak::village
-jar::village
 jarabulus tahtani::village
 jaraghil::village
 jarahi::village
 jarahorato::village
 jarak::village
-jaran::village
 jarandaq::village
+jaranówek::village
 jaranowo::village
 jarantowice::village
 jarantowiczki::village
-jaranówek::village
+jaran::village
 jarar::village
+järavere::village
 jarb al-fiqr::village
+jar-bashy::village
 jarchelu::village
 jarchi kandi kuh::village
 jarchi::village
 jarczechowo::village
 jarczewo::village
+járdánháza::village
 jardas jerrari::village
 jardum::village
 jaresqan::village
 jarestan::village
 jarez::village
 jarghan::village
-jargo::village
 jargon:术语
-jari::village
-jaria::village
+jargo::village
 jariabad::village
 jarian::village
+jaria::village
 jarif::village
-jarin::village
 jarinje::village
+jarin::village
+järise::village
+järiste::village
 jarit::village
+jari::village
 jariyeh-e seyyed mohammad::village
 jariyeh-ye seyyed musa::village
 jarjisa::village
 jarjish::village
 jarjouh::village
-jark::village
 jarkarwadi::village
+jar khoshk-e olya::village
+jar khoshk-e sofla::village
 jarki::village
+jar-korgon::village
 jarkovac::village
 jarkovci::village
 jarkowice::village
+jark::village
+jar-kyshtak::village
+järlepa::village
 jarm afshar::village
 jarmaq::village
 jarmosht-e bala::village
 jarmosht-e pain::village
 jarmundi::village
 jarmwar::village
+järni::village
 jarod::village
 jarogniewie::village
 jaronty::village
 jarook::village
+jarosławice::village
+jarosław::village
 jarostów::village
 jaroszewo::village
 jaroszowa wola::village
-jaroszyce::village
-jaroszów::village
 jaroszówka::village
-jarosław::village
-jarosławice::village
+jaroszów::village
+jaroszyce::village
 jarrahi::village
 jarreh-ye mian::village
 jarreh-ye olya::village
 jarri::village
 jarshah::village
+järsi::village
+järtsaare::village
 jartudeh::village
-jaru::village
 jarub::village
 jarusan::village
+jaru::village
 jarużyn-kolonia::village
 jarużyn::village
+järvajõe::village
+järvaküla::village
+järva-madise::village
+järveküla::village
+järvepera::village
+järve::village
+jar::village
 jarwa::village
 jary::village
 jarzang::village
 jarzębieniec::village
 jasaumau::village
 jasauskai::village
+jásd::village
 jasenica::village
 jasenje::village
 jasenovac::village
 jasenovo::village
-jash, zahedan::village
-jash::village
 jashahr::village
 jashak::village
 jashanicë::village
 jashinvand::village
-jashn sara::village
+ja shiran::village
 jashnabad::village
 jashniabad::village
+jashn sara::village
 jashodanga::village
+jash::village
+jash, zahedan::village
 jasienica::village
 jasiennik stary::village
-jasiewo::village
 jasień::village
+jasiewo::village
 jasikovac::village
 jasin::village
-jask-e kohneh::village
 jaska::village
+jask-e kohneh::village
+jaśkowice legnickie::village
 jaskulin::village
+jasmine::plant
 jasna góra::village
 jasnagurka::village
 jasol::village
@@ -858,75 +895,76 @@ jastreb::village
 jastrowiec::village
 jastrzębce::village
 jastrzębia::village
-jastrzębie::village
 jastrzębiec::village
+jastrzębie::village
 jasuskeh::village
 jaswal pani::village
 jaswantpura::village
 jaszcz::village
+jászkarajenő::village
 jaszkotle::village
 jaszkowo::village
 jaszowice::village
 jaszyce::village
-jat khedi::village
 jatage::village
 jatai::village
-jatar::village
 jataria khurd::village
+jatar::village
 jatede::village
 jategaon::village
 jateh::village
 jatibarang lor::village
 jatike::village
 jatingaleh::village
+jat khedi::village
 jatpura::village
-jatu::village
 jatudih::village
+jatu::village
 jaty::village
 jaugeliškiai::village
 jaugiliai::village
 jaugilka::village
 jauhal::village
 jaunakaimis::village
+jaunā māja::village
 jaunawas::village
 jauniūnai::village
-jaunā māja::village
 jaupas::village
 jaura sian::village
 jaura singha::village
 jaurian kalan::village
 jaurian khurd::village
 jausa::village
-javad hesari::village
-javad-e seyyedi::village
 javadabad::village
+javad-e seyyedi::village
+javad hesari::village
 javadieh::village
 javadiyeh ol hiyeh::village
+javadiyeh::village
 javadiyeh-ye bugar::village
 javadiyeh-ye mortazavi::village
-javadiyeh::village
 javaher dasht::village
 javaher deh::village
 javaliqan::village
-javan sheykh::village
 javanabad::village
 javanak-e mohammad hasan::village
 javanan-e goruh::village
 javanan::village
 javangan::village
-javanmard::village
 javanmardabad::village
-javanmiri-ye olya::village
+javanmard::village
 javanmiri::village
+javanmiri-ye olya::village
+javan sheykh::village
+javaran::village
+javara::village
+javardeh::village
+javard::village
+javarem::village
+javark::village
 javar sajin::village
 javar tan::village
 javar::village
-javara::village
-javaran::village
-javard::village
-javardeh::village
-javarem::village
-javark::village
 javelin:标枪
 javinan::village
 javkhede::village
@@ -936,22 +974,22 @@ javorani::village
 javorje::village
 javzar::village
 jawabipur::village
-jawal::village
-jawala::village
 jawalapur::village
+jawala::village
 jawale::village
 jawali::village
 jawalpora::village
+jawal::village
 jawbar::village
 jawf umm maqbabah::village
 jawinde::village
 jawiszowice::village
 jawiszów::village
-jawor::village
 jaworek::village
 jaworowo::village
-jaworze::village
 jaworów::village
+jawor::village
+jaworze::village
 jayanti::village
 jayapur::village
 jaydasht::village
@@ -959,9 +997,9 @@ jayezan-e kohneh::village
 jayin::village
 jaykul::village
 jazak::village
-jazan::village
 jazanaq::village
 jazandar::village
+jazan::village
 jazar::village
 jazdrowo::village
 jazeh::village
@@ -977,13 +1015,10 @@ jazmeh::village
 jazovo::village
 jazrabad::village
 jazvan::village
-jazy::village
-jazz:爵士乐
-jałowicze::village
-jałowiec::village
-jaśkowice legnickie::village
 jaźwina::village
 jaźwiny::village
+jazy::village
+jazz:爵士乐
 jealott's hill::village
 jealous:妒忌
 jealousy:妒忌
@@ -993,11 +1028,16 @@ jebak::village
 jebar kandi::village
 jebchit::village
 jebrail mahalleh::village
-jebreil::village
 jebreilabad::village
 jebreilan::village
+jebreil::village
 jedaqayah::village
 jedlinki::village
+jędrzejewo::village
+jędrzejowice::village
+jędrzejówka::village
+jędrzychówek::village
+jędrzychowice::village
 jedwabno::village
 jeemangalam::village
 jeenmata::village
@@ -1010,19 +1050,19 @@ jeffersonville::village
 jefrud-e bala::village
 jefrud-e pain::village
 jegah::village
-jegar kandi::village
 jegarg::village
+jegar kandi::village
 jegathala::village
 jeghal::village
 jeghanab::village
 jegher::village
 jegłowa::village
-jeh jeh::village
-jehad::village
 jehadabad::village
+jehad::village
 jehaq::village
 jehatlu::village
 jehizdan::village
+jeh jeh::village
 jehjeh::village
 jehunwadi::village
 jekendi::village
@@ -1030,12 +1070,12 @@ jekhish::village
 jel-aryk::village
 jeldeh bakhan::village
 jelek::village
+jeleńcz::village
 jelenia góra::village
-jelenie rogi::village
 jeleniec::village
+jelenie rogi::village
 jelenin::village
 jeleń::village
-jeleńcz::village
 jelian::village
 jelidan::village
 jelieh::village
@@ -1045,21 +1085,21 @@ jellyfish:水母
 jelnica::village
 jelogir::village
 jelovac::village
-jelow girangeh::village
 jelow-e olya::village
 jelow-e sofla::village
+jelow girangeh::village
 jelsa::village
+jelševec::village
 jelsnes::village
 jelsum::village
-jelu::village
 jelugireh-ye olya::village
 jelugireh-ye sofla::village
-jelva::village
+jelu::village
 jelvan::village
+jelva::village
 jelyan::village
-jelševec::village
-jemez springs::village
 jemezqan::village
+jemez springs::village
 jemielna::village
 jemielno::village
 jemna::village
@@ -1079,9 +1119,8 @@ jeonju hanok village::village
 jeqjeq-e olya::village
 jeqjeq-e pain::village
 jeqjeq-e vosta::village
-jer-kazar::village
-jera::village
 jeran::village
+jera::village
 jerbanlu::village
 jereh::village
 jerge-tal::village
@@ -1091,10 +1130,12 @@ jerico springs::village
 jerik aghaj::village
 jeriskhan::village
 jerk:痉挛
+jer-kazar::village
 jerome::village
 jerrys plains::village
-jersey marine::village
 jersey:运动衫
+jersey marine::village
+jeršiče::village
 jervis bay village::village
 jerwu bala::village
 jerwu pa'in::village
@@ -1107,7 +1148,6 @@ jerzmanowo::village
 jerzmionki::village
 jerzyce::village
 jerzyków::village
-jeršiče::village
 jeseydan::village
 jeshar::village
 jeshmeh baneh::village
@@ -1120,13 +1160,13 @@ jessica:杰西卡
 jest:玩笑
 jesus:耶稣
 jeszkowice::village
-jet stream:射流
 jet:喷射
 jethpur::village
 jethu mazara::village
 jethwara::village
 jetpura::village
 jetscheba::village
+jet stream:射流
 jettipalem::village
 jetut::village
 jeur::village
@@ -1139,55 +1179,55 @@ jewellery:珠宝
 jewett::village
 jewish:犹太的
 jews:犹太人
-jey shir::village
-jey::village
 jeyd::village
 jeyhoonak-e bala::village
 jeyhoonak-e paeen::village
 jeyhunabad::village
-jeyran bolagh::village
 jeyran bolaghi::village
+jeyran bolagh::village
 jeyran darreh::village
-jeyran mangeh::village
 jeyran-e olya::village
 jeyran-e sofla::village
+jeyran mangeh::village
 jeyran::village
+jey shir::village
+jey::village
+ježdovec::village
 jezeh::village
 jezera::village
 jezerc::village
 jezero posavsko::village
 jezero::village
+jeżewice::village
+jeżewnica::village
+jeżewo::village
 jezfatan-e olya::village
 jezfatan-e sofla::village
 jezierzany::village
 jezierzyce małe::village
 jezierzyce wielkie::village
+ježinac::village
 jezin::village
-jeziora wielkie::village
 jeziora-gajówka::village
 jeziora-leśniczówka::village
 jeziora::village
-jeziorki zabartowskie::village
+jeziora wielkie::village
 jeziorki::village
+jeziórki::village
+jeziorki zabartowskie::village
 jeziorko::village
 jeziorno::village
 jezioro::village
 jeziorowo::village
 jeziory::village
-jeziórki::village
 jezken::village
-jezla::village
 jezlan dasht::village
 jezlan::village
+jezla::village
 jeznabad::village
+jeżów sudecki::village
 jezuicka struga::village
 jezzeh::village
-jeżewice::village
-jeżewnica::village
-jeżewo::village
-jeżów sudecki::village
-ježdovec::village
-ježinac::village
 jhadhewa::village
 jhadol::village
 jhagariya khurd::village
@@ -1196,12 +1236,12 @@ jhajia::village
 jhakrasi::village
 jhakwasa::village
 jhal bibri::village
-jhal thikriwala::village
 jhalleiwala::village
 jhalotar::village
+jhal thikriwala::village
 jhamarwara::village
-jhamat::village
 jhamatpur::village
+jhamat::village
 jhampur::village
 jhanda bagga nawan::village
 jhandapur::village
@@ -1255,22 +1295,22 @@ jhujkadanga::village
 jhungian mahansingh::village
 jhungian::village
 jhuruli::village
-jia::village
 jian::village
 jiavan::village
+jia::village
 jiblat al faraj::village
 jiblat al waznah::village
 jiblat badr::village
-jida::village
 jidarzar::village
+jida::village
 jidi::village
 jifar::village
 jifiri::village
 jigalur::village
 jigaon::village
 jigardan::village
-jigh jigh::village
 jighi::village
+jigh jigh::village
 jigooli::village
 jihad:圣战
 jihadism:圣战主义
@@ -1284,62 +1324,62 @@ jijian rud::village
 jijian::village
 jijil::village
 jijk::village
-jik-e sofla::village
 jikalaksheteh::village
 jikanur::village
-jil::village
+jik-e sofla::village
 jilab::village
-jilan::village
 jilanabad::village
+jilan::village
 jilav::village
 jilbania::village
 jiliza::village
 jillellamudi::village
-jilu::village
 jilugumilli::village
+jilu::village
+jil::village
 jim:吉姆
-jima::village
 jimabad::village
+jima::village
 jimbiri::village
 jimmi::village
-jin kandi::village
-jin qeshlaqi::village
-jin taraqayah::village
 jinan::village
 jinaral::village
 jindi::village
 jindowal::village
 jingaon::village
 jingura::village
+jin kandi::village
 jinli::village
 jinnancun::village
 jinnti::village
 jinnur::village
+jin qeshlaqi::village
+jin taraqayah::village
 jipyeong-ri::village
 jiqeh::village
-jir bagh::village
-jir deh::village
-jir duzan::village
-jir gavabar::village
-jir gavaber::village
-jir kal::village
-jir mahalleh-ye kasma::village
-jir sara::village
-jir-e balan::village
 jirandeh::village
 jirauliya::village
-jirban::village
+jir bagh::village
 jirband::village
+jirban::village
 jirdeh-e pasikhan::village
+jir deh::village
 jirdeh::village
+jir duzan::village
+jir-e balan::village
 jirestan::village
-jirg::village
 jirgah::village
+jir gavabar::village
+jir gavaber::village
 jirgurab::village
+jirg::village
 jirhandeh::village
 jiri-ye sofla::village
+jir kal::village
 jirkuyeh::village
+jir mahalleh-ye kasma::village
 jirnsum::village
+jir sara::village
 jirsar-e bahambar::village
 jirsar-e chukam::village
 jirsar-e nowdeh::village
@@ -1350,8 +1390,8 @@ jisa-ye danial::village
 jisa-ye kelarabad::village
 jisa-ye khezrabad::village
 jislum::village
-jisp::village
 jispa::village
+jisp::village
 jisrin::village
 jistrum::village
 jitadih::village
@@ -1361,8 +1401,8 @@ jiudaru::village
 jiunjiunde::village
 jivar::village
 jiwachhpur::village
-jiwan nangal::village
 jiwanawatta::village
+jiwan nangal::village
 jiwar al-afas::village
 jiydalik::village
 jiyde::village
@@ -1372,11 +1412,11 @@ jizabad::village
 jnanpara::village
 joandu::village
 joans mohar::village
+joão galego::village
 joaquín suárez::village
 joaveski::village
 job:职业
 jobaháza::village
-jod::village
 jodahatti::village
 jodakurli::village
 jodanukar::village
@@ -1390,9 +1430,24 @@ joditz::village
 jodłowice::village
 jodłownik::village
 jodłów::village
+jod::village
 joe:乔
-joft rud::village
+jõeääre::village
+jõeküla::village
+jõelähtme::village
+jõelepa::village
+jõemetsa::village
+jõempa::village
+jõepera::village
+jõepere::village
+jõeranna::village
+jõesse::village
+jõesuu::village
+jõetaguse::village
+jõe::village
 joftan::village
+joft rud::village
+jõgela::village
 jogewala::village
 joghanab-e olya::village
 joghanab-e sofla::village
@@ -1407,103 +1462,121 @@ joghri::village
 jogiara::village
 jogikalasanapalli::village
 joginder nagar::village
+jõgisoo::village
 jogniškiai::village
 jogwa::village
 johal::village
 johannisberg::village
 johl darak::village
-john obey beach::village
 john:约翰
+john obey beach::village
 johnsburg::village
-johnson creek::village
-johnson::village
 johnson:约翰逊
+johnson creek::village
+johnsonia acaulis::plant
+johnsonia inconspicua::plant
+johnson::village
 johnsonville::village
 johnstonebridge::village
 johnstown::village
 johnswell::village
-johri::village
 johripur::village
+johri::village
 johud bijar::village
+jõhvi::village
 johwa hisar::village
 johwa sharki::village
 join:连接
 joint:关节
+joinvillea::plant
+joinvillea plicata::plant
+jõiste::village
 jojug marjanly::village
 jokahri::village
 jokanak::village
 jokanatti::village
 joke:笑话
-jol khvor::village
-jol-bulak::village
-jol::village
 jolbar::village
 jolborstu::village
+jol-bulak::village
 jolfan::village
 jolgeh anjarak::village
 jolgeh sedeh::village
 jolgeh-ye khalaj-e olya::village
 jolgeh-ye khalaj-e sofla::village
+jol khvor::village
 jolleyn::village
 jolmarz::village
 jolmete::village
 jolof darreh::village
 jolow dar::village
 jolowgir::village
-jom anbeh::village
+jol::village
 jomabazar::village
+jom anbeh::village
+jomås::village
 jombozeh::village
 jomchashma::village
 jomehi::village
 jomehlu::village
 jomhuri::village
-jomås::village
 jonalaukis::village
 jonathan:乔纳森
 jonbaz::village
 jonbed::village
-jond::village
-jondab::village
 jondabeh::village
+jondab::village
 jondal::village
 jondan::village
-jones creek::village
+jond::village
 jones:琼斯
+jones creek::village
 jonestown::village
 joneydabad::village
+jongiyeh::village
 jong sara::village
 jong::village
-jongiyeh::village
 jonionys::village
 joniyan::village
 jonnalagadda::village
 jonnawada::village
 jonuk::village
+jõõdre::village
 joonuse::village
+jõõpre::village
+jööri::village
 jootme::village
 joppa::village
 joppe::village
-jor::village
 joraqin::village
 jorbat::village
 jordan:约旦
 jordanowo::village
-jordans::village
 jordanów Śląski::village
+jordans::village
 jordavi::village
 jorebungalow::village
 jorgeh-ye seyyed ali::village
+jörgen::village
 jorgheh::village
 jorgucat::village
 jorjafk::village
 jorjor::village
 jorreh sar::village
+jørstadmoen::village
 jortveit::village
+jor::village
+jošan::village
 josefa::village
+jøsenfjorden::village
 joseph:约瑟夫
 josephville::village
+jošice::village
 jossa::village
+jøssund::village
+jósvafő::village
 josvainiai::village
+jõuga::village
 joujil::village
 joulaki::village
 jounl::village
@@ -1513,59 +1586,59 @@ journey:旅行
 jovan::village
 jovarim::village
 jovestan::village
-jovi-ye majid::village
-jovin::village
+jøvik::village
 jovinow::village
+jovin::village
+jovi-ye majid::village
 jovonak::village
-jow kandan-e bozorg::village
-jow khvah::village
-jow poshtan::village
-jow-e pain::village
 jowberiz::village
 jowchar::village
+jow-e pain::village
 jowgh-e now::village
 jowharan::village
 jowharestan::village
-jowhari::village
 jowharin::village
+jowhari::village
+jow kandan-e bozorg::village
 jowkan-e pain::village
 jowkan::village
 jowkar-e mehdi::village
 jowkar-e shafi::village
 jowkar::village
+jow khvah::village
 jowladak::village
 jowlandan::village
 jowlarestan::village
 jowmian::village
 jownush::village
 jowpish::village
+jow poshtan::village
 jowr gavaber::village
-jowr mahalleh::village
-jowr sara::village
 jowriz::village
 jowrka sar::village
+jowr mahalleh::village
 jowrni::village
+jowr sara::village
 jowrvandi::village
 jowshan::village
 jowshaqan::village
 jowshirvan::village
 jowyiviyeh::village
-jowz ali::village
-jowz-e kangari::village
-jowz::village
 jowzak::village
+jowz ali::village
 jowzan::village
 jowzaqeh::village
 jowzar-e bakesh::village
 jowzar-e javid::village
-jowzar::village
 jowzargan::village
+jowzar::village
 jowzchal::village
 jowzdan communal housing::village
 jowzdan::village
 jowzdar::village
-jowzeh-ye anjirak::village
 jowzeh::village
+jowzeh-ye anjirak::village
+jowz-e kangari::village
 jowzeqan::village
 jowzestan::village
 jowzi::village
@@ -1573,16 +1646,19 @@ jowzjan::village
 jowzkar::village
 jowzuiyeh::village
 jowzurdan-e olya::village
-joy's green::village
-joy-i saluk::village
-joy::village
+jowz::village
 joy:欢乐
+joy-i saluk::village
+joy's green::village
+joy::village
 jozandar::village
+józefat::village
+józefinka::village
+józefin::village
+józefkowo::village
+józefowo::village
 jozinan::village
 jozvenaq::village
-joão galego::village
-jošan::village
-jošice::village
 jradzor::village
 jrahovit::village
 jrambar::village
@@ -1590,12 +1666,26 @@ jrapi::village
 jrarat::village
 jrarbi::village
 jrashen::village
-ju posht::village
+j. thimmapuram::village
 juabo::village
 juanchaco::village
+jubadeh::village
+jubaji::village
+jubal::village
+juband::village
+jubaneh::village
+juba::village
+jubb'adin::village
 jub baghan-e olya::village
 jub baghan-e sofla::village
+jubb al-jarrah::village
+jubb al-safa::village
+jubbega::village
+jubb ramlah::village
 jub bur::village
+juben::village
+juberri::village
+jubë::village
 jub gowhar-e olya::village
 jub gowhar-e sofla::village
 jub kabud-e olya::village
@@ -1606,27 +1696,13 @@ jub nesa::village
 jub shaleh::village
 jub sorkh-e olya::village
 jub sorkh-e sofla::village
-juba::village
-jubadeh::village
-jubaji::village
-jubal::village
-juband::village
-jubaneh::village
-jubb al-jarrah::village
-jubb al-safa::village
-jubb ramlah::village
-jubb'adin::village
-jubbega::village
-juben::village
-juberri::village
-jubë::village
 juciūnai::village
 judaberg::village
 judaic:犹太教的
 judaism:犹太教
 judaki::village
-judan::village
 judaneh::village
+judan::village
 judar::village
 judaydat al-khas::village
 judel del::village
@@ -1635,8 +1711,8 @@ judgement:审判
 judin::village
 judo:柔道
 juee::village
-juf::village
 jufurush::village
+juf::village
 juggaur::village
 jughaani::village
 jughan::village
@@ -1651,9 +1727,9 @@ jugul::village
 juha::village
 juhi::village
 juhni::village
-jui khurd::village
-juice:汁
 juià::village
+juice:汁
+jui khurd::village
 juja deh-e arateh::village
 jujahi::village
 jujar::village
@@ -1667,32 +1743,32 @@ juki-ye vosta::village
 jukul bandan::village
 jukwa::village
 jula deh::village
-jula kamar::village
-julah::village
 julahi::village
+julah::village
+jula kamar::village
 julandeh::village
 julayyil::village
 juler::village
 julesburg::village
-julian::village
 julianka::village
 julianowo::village
 julianstown::village
+julian::village
 julkowo::village
 julków::village
 jullah majra::village
 july 7 international airport::village
 july 7th residences::village
-juma khan dobal::village
 jumabozor::village
+juma khan dobal::village
 jumayjimah::village
 jumbo::village
 juminda::village
 jumit::village
 jump::village
-juna savar::village
 junaki::village
 junapani::village
+juna savar::village
 junawl::village
 junazi::village
 juncewo::village
@@ -1707,11 +1783,11 @@ jungitu::village
 jungle:丛林
 jungnau::village
 jungsund::village
-juni kola::village
-juni wadsa::village
 juniata::village
+juni kola::village
 junior:后辈
 junior high school:初中
+juni wadsa::village
 junjanbail::village
 junjarwad::village
 junjwad (k.g.)::village
@@ -1723,36 +1799,38 @@ junu::village
 juodkaimiai::village
 juornaankylä::village
 jupiter:木星
+ju posht::village
 jupudi::village
 juqan-e bozorg::village
 juqan-e kuchak::village
 juqan::village
 juqin::village
-jur deh::village
-jur jadeh::village
-jura kola::village
-jura::village
 jurab deraz mirza beygi::village
 jurab::village
 jurak-e nasibollah::village
 jurak-e nowzar::village
-jurandvor::village
+jura kola::village
 jurańcice::village
+jurandvor::village
+jura::village
 jurband::village
 jurbijarkol::village
 jurcz::village
 jurczyce::village
+jur deh::village
 jureh kandi::village
 jurgiškės::village
-juri::village
 jurin::village
 jurisdiction:司法管辖权
+juri::village
 juriya::village
+jur jadeh::village
+jūrkalne::village
 jurkan::village
 jurkowice::village
 jurkowo::village
-jurkuyeh::village
 jurków::village
+jurkuyeh::village
 jurnaya::village
 jursi::village
 jurvand::village
@@ -1768,34 +1846,38 @@ jusheqan-e estark::village
 jushin::village
 jushki::village
 jushqan::village
+juškonys::village
 just:只
-justice::village
 justice:正义
+justice::village
+justicia austroguangxiensis::plant
+justicia clausseniana::plant
+justicia japonica::plant
 justin::village
 juszczyn::village
 juszowice::village
-jut::village
-juta::village
 jutan::village
+juta::village
 juthigapadu::village
 jutrijp::village
 jutrzenka::village
 jutrzyna::village
+jut::village
 juula::village
 juuliku::village
 juvenile:幼年的
 juvvigunta::village
 juwaniyat::village
 juwat al-al-muhanna::village
-juy bazm::village
-juy sefid::village
 juyabad::village
-juyan::village
 juyank::village
+juyan::village
 juybadam::village
+juy bazm::village
 juydad mohammad::village
 juyik::village
 juyjan::village
+juy sefid::village
 juzanan::village
 juzaqdan::village
 juzeh::village
@@ -1803,88 +1885,9 @@ juzif::village
 juzir::village
 juzuiyeh::village
 juzurak::village
-juškonys::village
 jyamrung::village
-jyl-kol::village
 jylandy::village
+jyl-kol::village
 jyly-suu::village
 jyorapar vala::village
 jyrgalang::village
-jágónak::village
-ják::village
-jákfalva::village
-jákó::village
-jánoshida::village
-járdánháza::village
-jásd::village
-jászkarajenő::village
-jädivere::village
-jägala-joa::village
-jägala::village
-jälgimäe::village
-jämaja::village
-jämejala::village
-jändja::village
-jänistvere::village
-järavere::village
-järise::village
-järiste::village
-järlepa::village
-järni::village
-järsi::village
-järtsaare::village
-järva-madise::village
-järvajõe::village
-järvaküla::village
-järve::village
-järveküla::village
-järvepera::village
-jäärja::village
-jäätma::village
-jósvafő::village
-józefat::village
-józefin::village
-józefinka::village
-józefkowo::village
-józefowo::village
-jõe::village
-jõeküla::village
-jõelepa::village
-jõelähtme::village
-jõemetsa::village
-jõempa::village
-jõepera::village
-jõepere::village
-jõeranna::village
-jõesse::village
-jõesuu::village
-jõetaguse::village
-jõeääre::village
-jõgela::village
-jõgisoo::village
-jõhvi::village
-jõiste::village
-jõuga::village
-jõõdre::village
-jõõpre::village
-jörgen::village
-jööri::village
-jørstadmoen::village
-jøsenfjorden::village
-jøssund::village
-jøvik::village
-jądrowice::village
-jędrzejewo::village
-jędrzejowice::village
-jędrzejówka::village
-jędrzychowice::village
-jędrzychówek::village
-jūrkalne::village
-jasmine::plant
-justicia clausseniana::plant
-jaegeria gracilis::plant
-justicia japonica::plant
-joinvillea::plant
-joinvillea plicata::plant
-jacaranda copaia::plant
-jacaranda ulei::plant

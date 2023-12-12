@@ -1,69 +1,53 @@
-m'bonoua::village
-m'borla-dioulasso::village
-m'brou::village
-m'possa::village
-m'tsamoudou::village
-m.chandargi::village
-m.kallapur::village
-m.karuppampatti::village
-m.khanapur::village
-m.p. majra::village
-m.perumalpalayam::village
-m.timmapur::village
-m.turkapally::village
-ma liu shui san tsuen::village
-ma mei ha leng tsui::village
-ma nam wat::village
-ma on kong::village
-ma po mei::village
-ma tso lung::village
-ma wan chung::village
-ma'ameer::village
-ma'arin::village
-ma'arzaf::village
 maade::village
 maaf mahalleh::village
 maaf vaziri::village
+ma'ameer::village
 maantee::village
-maar shurin::village
 maaraba::village
+määra::village
 maardla::village
 maardu::village
 maarefi::village
 maarheeze::village
 maarif::village
+ma'arin::village
 maarin::village
+määri::village
 maarja-magdaleena::village
 maarke-kerkem::village
+maar shurin::village
 maartensdijk::village
+ma'arzaf::village
 maasdam::village
 maasdijk::village
 maasi::village
 maaskantje::village
+määvli::village
 mababe::village
-mabad::village
 mabadin-e olya::village
 mabadin-e sofla::village
+mabad::village
 mabalane::village
 mabanur::village
 mabbuke::village
+mabéhiri 1::village
 maberiya::village
 mabesekwa::village
 mabni::village
-mabo, togo::village
 maboane::village
 mabodale::village
 mabolwe::village
+mabo, togo::village
 maboualabi::village
 mabouo::village
 mabujah::village
-mabéhiri 1::village
 macarköy::village
 macarlar::village
 macau:澳门
 macciano::village
-macedonia::village
 macedonia:马其顿
+macedonia::village
+mačevo::village
 macgaliai::village
 machairado::village
 machali::village
@@ -77,30 +61,32 @@ machekeh-ye sofla::village
 machelen::village
 machguash::village
 machharala::village
-machhi jowa::village
 machhiana::village
+machhi jowa::village
 machhike::village
 machhipal::village
 machhti::village
-machi::village
 machian::village
 machik::village
 machilipatnam (rural)::village
 machinak::village
+machine:机器
 machine learning:机器学习
 machine translation:机器翻译
-machine:机器
+machi::village
 machnacz::village
 machnice::village
 machowo::village
 machrai::village
 machrihanish::village
 machriyeh::village
-machu qasem::village
 machulo::village
+machu qasem::village
 maciejowiec::village
 macikowo::village
 macisvenda::village
+mačiuliškės::village
+mačkat::village
 mackinaw::village
 maconiai::village
 macro:宏
@@ -110,25 +96,26 @@ macular:斑点的
 macun, elmalı::village
 macun, polatlı::village
 macun::village
+mačvanski pričinović::village
+mączniki::village
 madabad::village
 madabeh::village
 madacha pada::village
 madadeniya::village
 madadkend::village
-madaga::village
 madagascar:马达加斯加
+madaga::village
 madagiz::village
 madagupatti::village
 madahapolakanda::village
 madahar kalu::village
 madahar shera::village
 madai khera::village
-madak::village
 madakumbura, eastern province::village
-madala::village
+madak::village
 madalagatti::village
 madalavarigudem::village
-madam::village
+madala::village
 madamageri::village
 madamakkanal::village
 madame jean pierre::village
@@ -136,10 +123,9 @@ madame louis::village
 madampagama::village
 madampattavur::village
 madampitiya, eastern province::village
-madan hipperga::village
-madan kuh::village
-madan namak::village
-madan qaleh::village
+madam::village
+madanabhavi::village
+madanbhavi::village
 madan-e abdasht::village
 madan-e gadartul::village
 madan-e gol gohar::village
@@ -154,36 +140,38 @@ madan-e sofla::village
 madan-e sughan::village
 madan-e surameh::village
 madan-e zirab::village
-madan::village
-madanabhavi::village
-madanbhavi::village
+madan hipperga::village
 madaniyat::village
+madan kuh::village
+madan namak::village
 madanpally::village
 madanpitiya::village
 madanpura::village
+madan qaleh::village
 madanuiyeh::village
+madan::village
 madanwala::village
 madapam::village
+mädapea::village
 madaplathuruth::village
-madar dokhtar::village
-madar sara::village
-madara::village
 madaras::village
+madara::village
+madar dokhtar::village
 madargan::village
 madaria::village
 madarpur::village
+madar sara::village
 madathikkadu::village
 madavan-e sofla::village
 madavan::village
-madaw::village
-madawal::village
 madawala demalabage::village
+madawala, eastern province::village
 madawala madige::village
 madawala ulpota::village
-madawala, eastern province::village
 madawala::village
+madawal::village
+madaw::village
 madbun::village
-madd koondhar::village
 maddegama::village
 maddelagudem village::village
 maddenahalli::village
@@ -192,21 +180,21 @@ madderty::village
 maddikera (east)::village
 maddipadu::village
 maddiston::village
+madd koondhar::village
 madduvalasa::village
 made:制成
 maded::village
 madeh banan::village
 mademühlen::village
-maden::village
 madeniyet::village
 madenköy::village
 madenler::village
 madenli::village
-madenyolu::village
 madenşehri::village
+maden::village
+madenyolu::village
 madera::village
 madevan::village
-madha::village
 madhabdihi::village
 madhaipur::village
 madhan::village
@@ -215,18 +203,32 @@ madhaul khurd::village
 madhavapuram::village
 madhavaram::village
 madhavarayanigudem::village
+madha::village
 madhesara::village
 madhi::village
-madho jhanda::village
 madhogarh::village
+madho jhanda::village
 madhopur ninaiya::village
 madhopur pathak::village
 madhopur::village
-madhu tea garden::village
-madhuban::village
 madhubani::village
+madhuban::village
+madhuca barbata::plant
+madhuca borneensis::plant
+madhuca brochidodroma::plant
+madhuca burckiana::plant
+madhuca cheongiana::plant
+madhuca costulata::plant
+madhuca crassipes::plant
+madhuca dubardii::plant
+madhuca elmeri::plant
+madhuca endertii::plant
+madhuca erythrophylla::plant
+madhuca glabrescens::plant
+madhuca hirtiflora::plant
 madhurmau kalan::village
 madhurmau khurd::village
+madhu tea garden::village
 madian gavaber::village
 madian::village
 madicharla::village
@@ -235,34 +237,34 @@ madihalli::village
 madila::village
 madiligama::village
 madim-e olya::village
-madin::village
-madina::village
 madinat al haqq::village
 madinat al kaaban::village
 madinat::village
+madina::village
 madineh qeshlaqi::village
 madineh::village
+madin::village
 madipola marakkalabage::village
-madise::village
 madiseh::village
+madise::village
 madivada::village
 madkhun::village
 madkihonnihalli::village
-madlu::village
 madlur::village
+madlu::village
 madnahar::village
 madnai::village
 madnur::village
-mado::village
 madocsa::village
 madong-e ahmad::village
-madonna dell'acqua::village
 madonna:圣母玛利亚
+madonna dell'acqua::village
+mado::village
 madpur::village
 madrakah::village
 madremanya::village
-madrid::village
 madrid:马德里
+madrid::village
 madrino::village
 madrona::village
 madsus::village
@@ -281,16 +283,28 @@ madun::village
 madupalli::village
 maduru::village
 madvar::village
+mád::village
 mady::village
 madzhari::village
+mäebe::village
+mäeküla::village
+mæla::village
+mäelooga::village
+mäeltküla::village
+mäeltse::village
 maenaddwyn::village
+mäense::village
+mäeotsa::village
+mäepea::village
+mære::village
 maeru::village
 maesbrook::village
+mäetaguse::village
 maetsma::village
 maeystown::village
 maeztu::village
-mafan::village
 mafand ab::village
+mafan::village
 mafaran::village
 mafeh-ye rudtalkh::village
 mafeking::village
@@ -306,54 +320,65 @@ mafruz lu::village
 mafruzlu::village
 maftan::village
 maftun::village
-maga rahi::village
 magadinovac::village
 magah taneh abul::village
 magah taneh morad::village
 maganur::village
+maga rahi::village
+mağara::village
 magarhai::village
 magari::village
+mägari::village
 magarnat-e do::village
 magarnat-e seh::village
 magarnat-e yek::village
 magarwara::village
-magas khani::village
 magasan-e olya::village
-magasi::village
 magasis::village
+magasi::village
+magas khani::village
 magassan::village
 magatapalli::village
 magawng::village
 magazine:杂志
 magazzini::village
 magbeni::village
+măgdăcești::village
 magdalena::village
 magdaleniec::village
 magdalenka::village
+mägdesprung::village
 magdumpur::village
-mage::village
+mägede::village
 magenta:红紫色
+mägestiku::village
+mage::village
 maghadih::village
 maghali etseri::village
 maghdan::village
 maghrurabad::village
-maghu::village
+magħtab::village
 maghuiyeh-ye sofla::village
+maghu::village
 maghval::village
 maghvan::village
 magic:魔法
 magical:神奇的
-maglen::village
+mägi-kurdla::village
+mägipe::village
+mägise::village
 maglene::village
+maglen::village
 magliano::village
 maglóca::village
 magnesium:镁
-magnet::village
 magnet:磁铁
 magnetic field:磁场
+magnet::village
 magnice::village
 magnitude:大小
 magnitude:强度
+magnolia amazonica::plant
 magnolia::village
 magnor::village
 magodi::village
@@ -363,16 +388,17 @@ magri pora::village
 magtaf::village
 magteyeber::village
 magtu::village
-magu::village
-magura::village
 maguéhio::village
+magura::village
+măgurele::village
+magu::village
 magyaralmás::village
 magyarbóly::village
 magyaregregy::village
 magyaregres::village
 magyarföld::village
-magyargencs::village
 magyargéc::village
+magyargencs::village
 magyarhertelend::village
 magyarkeresztúr::village
 magyarkeszi::village
@@ -389,33 +415,21 @@ magyarszombatfa::village
 magyartelek::village
 magyibin::village
 magyigon::village
-magħtab::village
-mah banu::village
-mah farrokhan::village
-mah kariz::village
-mah khatuni::village
-mah kord::village
-mah now::village
-mah salari::village
-mah sonboli::village
-mah-e firuzan::village
 maha aswedduma::village
-maha khera::village
-maha pattapola::village
 mahabad agricultural training camp::village
 mahabad-e jadid::village
 mahabad-e olya::village
 mahabad::village
 mahaban::village
 mahablipur::village
-mahad::village
 mahadeo simaria::village
-mahadeva::village
-mahadevapura::village
 mahadevapuram::village
+mahadevapura::village
+mahadeva::village
 mahadevpur::village
 mahadipur kalan::village
 mahadipur::village
+mahad::village
 mahagama egodagama::village
 mahagama megodagama::village
 mahagaon::village
@@ -427,22 +441,22 @@ mahajeran-e kamar::village
 mahajeran-e khak::village
 mahajerin estij::village
 mahakan::village
+maha khera::village
 mahaki amin beyg::village
 mahaki naser::village
 mahakumbura::village
-mahal ahdas-e sad rudbal::village
-mahal khurd::village
-mahal::village
-mahala::village
 mahalabad-e sofla::village
+mahal ahdas-e sad rudbal::village
 mahalakotuwa::village
 mahalana::village
 mahalata::village
+mahala::village
 mahalenahatti::village
 mahalevakanda::village
+mahalé::village
 mahali::village
 mahaljana::village
-mahall ol din::village
+mahal khurd::village
 mahallah bagh-e jadid::village
 mahallam::village
 mahallat menouf::village
@@ -452,10 +466,11 @@ mahalleh-ye baghel::village
 mahalleh-ye now::village
 mahalleh-ye zoshk-e olya::village
 mahalleh-ye zoshk-e sofla::village
+mahall ol din::village
 mahalon::village
 mahalunge padawal::village
 mahalunge::village
-mahalé::village
+mahal::village
 mahamid::village
 mahammadpur::village
 mahamouda::village
@@ -463,7 +478,7 @@ mahandri::village
 mahani::village
 mahansar::village
 mahantheshnagar::village
-mahar mijeh::village
+maha pattapola::village
 mahara, eastern province::village
 maharajawas::village
 maharajpur::village
@@ -473,31 +488,33 @@ mahareb::village
 maharkash::village
 maharlu kohneh::village
 maharlu now::village
+mahar mijeh::village
 maharorh::village
 mahasin::village
-mahata::village
 mahatah::village
+mahata::village
 mahatma:圣人
 mahattat al hafah::village
-mahaw::village
 mahawadiya::village
 mahawala::village
 mahawatta::village
 mahawela::village
+mahaw::village
 mahazza::village
+mah banu::village
 mahbar::village
-mahbub kandi::village
 mahbubabad::village
+mahbub kandi::village
 mahdaviyeh::village
+mahdiabad::village
 mahdi khan::village
 mahdi kheyl::village
-mahdiabad::village
 mahdiyeh::village
-mahe::village
 maheem::village
+mah-e firuzan::village
 maheru::village
-mahesh dogar::village
 maheshbati::village
+mahesh dogar::village
 maheshganj::village
 maheshkhunt::village
 maheshpur::village
@@ -505,35 +522,40 @@ mahesiadigi::village
 mahestan::village
 maheswaram::village
 mahetlwe::village
+mahe::village
 mahewa::village
+mah farrokhan::village
 mahforujak::village
 mahforuz mahalleh-ye olya::village
 mahforuz mahalleh-ye sofla::village
-mahi dasht::village
-mahi lan::village
-mahi::village
 mahiabad::village
-mahian wala kalan::village
 mahian::village
+mahian wala kalan::village
 mahidar-e olya::village
 mahidar-e sofla::village
+mahi dasht::village
 mahijitpur::village
+mahi lan::village
 mahimalai::village
-mahin::village
 mahino::village
+mahin::village
 mahirud::village
 mahish bathan::village
 mahishwadgi::village
+mahi::village
 mahiyal::village
 mahiyangana, eastern province::village
 mahizan-e olya::village
 mahizan-e sofla::village
 mahizard::village
-mahjan::village
 mahjanabad::village
+mahjan::village
 mahjerd::village
+mah kariz::village
 mahkemeağcin, kızılcahamam::village
+mah khatuni::village
 mahki::village
+mah kord::village
 mahlacheh::village
 mahlamäe::village
 mahlewala::village
@@ -548,18 +570,10 @@ mahmatlar::village
 mahmatlı::village
 mahmeleh::village
 mahmelian::village
-mahmid::village
 mahmidah::village
+mahmid::village
 mahmiran::village
 mahmonwal::village
-mahmud aghli::village
-mahmud ali::village
-mahmud gazag::village
-mahmud hoseyn::village
-mahmud khan::village
-mahmud kian::village
-mahmud kolahi::village
-mahmud shahi::village
 mahmudabad-e garvas bakam::village
 mahmudabad-e gomar::village
 mahmudabad-e khalajabad::village
@@ -567,26 +581,35 @@ mahmudabad-e olya::village
 mahmudabad-e seyyed::village
 mahmudabad-e tabat bayi::village
 mahmudabad::village
+mahmud aghli::village
+mahmud ali::village
 mahmudan::village
-mahmudi-ye bala::village
+mahmud gazag::village
+mahmud hoseyn::village
 mahmudi::village
-mahmudiyeh-ye bahrami::village
+mahmudi-ye bala::village
 mahmudiyeh::village
+mahmudiyeh-ye bahrami::village
+mahmud khan::village
+mahmud kian::village
+mahmud kolahi::village
 mahmudlu::village
 mahmudnagar::village
 mahmudoba::village
+mahmud shahi::village
 mahmudvand::village
 mahmudwala::village
 mahmuei::village
 mahmutköy::village
 mahmutlar::village
 mahmutlu::village
-mahmutovića rijeka::village
 mahmutoğlan, Çubuk::village
+mahmutovića rijeka::village
 mahnabad::village
+mahnian::village
 mahni khera::village
 mahni::village
-mahnian::village
+mah now::village
 mahogany heights::village
 mahoi kalan::village
 maholi::village
@@ -601,68 +624,69 @@ mahraura::village
 mahrawali::village
 mahreghan::village
 mahreh dun::village
-mahri::village
 mahrik::village
 mahrinu::village
+mahri::village
+mahrızlı::village
 mahrokhi kalleh jub::village
 mahrugi-ye olya::village
 mahrugi-ye sofla::village
 mahrusah::village
 mahruzeh::village
 mahruzlu::village
-mahrızlı::village
+mah salari::village
 mahsas::village
 mahsayeh::village
 mahsnan::village
+mah sonboli::village
 mahtabi::village
 mahtaman::village
 mahtari ziyarat::village
 mahtawas::village
 mahtinya buzurg::village
 mahtra::village
-mahtu::village
 mahtutabad::village
-mahu::village
+mahtu::village
 mahua kheda::village
 mahuaon::village
 mahuatand::village
 mahuk::village
-mahuli nankar::village
 mahulia::village
+mahuli nankar::village
 mahunag::village
 mahunak::village
+mahurahi::village
+mahurakala::village
+mahurak::village
 mahur berenji-ye olya::village
 mahur berenji-ye sofla::village
-mahur sabz-e neqareh khaneh::village
 mahur-e basht::village
 mahur-e chah gandali::village
-mahur::village
-mahurahi::village
-mahurak::village
-mahurakala::village
 mahurestan-e olya::village
+mahur sabz-e neqareh khaneh::village
+mahur::village
 mahurzan::village
 mahusk::village
-mahut kola::village
 mahuteh::village
+mahut kola::village
+mahu::village
 mahuwa kheda::village
 mahvaj::village
 mahvid::village
 mahvizan::village
 mahyalar::village
 mahyar::village
-mai ditta::village
-mai po tsuen::village
-mai::village
+maià de montcal::village
 maichingen::village
 maichyen::village
 maickelpatti::village
 maidbronn::village
 maidemau::village
+maiden:处女的
 maiden bradley::village
 maiden flight:首飞
-maiden:处女的
 maidens::village
+mai ditta::village
 maidi::village
 maidla::village
 maihpit::village
@@ -674,39 +698,41 @@ mail:邮件
 mailacompu::village
 mailapitiya lower::village
 mailapitiya upper::village
-mailapur::village
 mailapura::village
+mailapur::village
 maima::village
 maimekden::village
-main bolagh::village
-main::village
 main:主要的
-maina sahasrabahu::village
 mainahar katra::village
 mainalo::village
 mainapura::village
+maina sahasrabahu::village
+main bolagh::village
 maincha::village
 maingdaung::village
 maingkaing::village
 maintain:维护
+main::village
 mainwal::village
 mainwan::village
+mai po tsuen::village
 maira amjad ali::village
+maireana trichoptera::plant
+mäiste::village
 maitha::village
 maitla::village
+mai::village
 maiwal::village
 maiwand::village
 maiyangana::village
-maià de montcal::village
-maja::village
 majahadpur::village
-majala::village
 majalatti::village
+majala::village
 majam::village
 majareh::village
 majarshin::village
 majavatn::village
-majd::village
+maja::village
 majdabad-e kohneh::village
 majdabad-e now::village
 majdabad::village
@@ -720,13 +746,14 @@ majdan::village
 majdany::village
 majdar::village
 majdian::village
+majd::village
 majeepura::village
 majeshti::village
 majesty:陛下
 majgaon::village
 majhagai::village
-majhari::village
 majharia::village
+majhari::village
 majhdia::village
 majheda majhedi::village
 majhgain::village
@@ -734,99 +761,97 @@ majhgawan::village
 majhoi::village
 majhoor::village
 majhot::village
-maji koti::village
-maji::village
 majicavo koropa::village
 majicavo lamir::village
-majid abdollah::village
-majid isa zahi::village
-majid qaleh parvar::village
-majid zamedi::village
-majid::village
 majidabad::village
+majid abdollah::village
 majidgarh::village
+majid isa zahi::village
 majidlu::village
+majid qaleh parvar::village
+majid::village
+majid zamedi::village
 majigram::village
+maji koti::village
 majineh::village
+maji::village
 majjigudda::village
 majjipeta::village
 majna::village
 majnun-e olya::village
 majnun-e sofla::village
 majnun::village
-major problem:主要问题
-major's green::village
 major:主要
 majorda::village
 majority:大多数
+major problem:主要问题
+major's green::village
 majorwala::village
 majosháza::village
+majówka::village
 majra khurd::village
 majra::village
 majri kalan::village
 majrilan::village
 majruseh::village
-majs::village
 majske poljane::village
 majstorovina::village
+majs::village
 majuhan::village
 majulan::village
 majuwa::village
 majwal::village
 majwanaadipitse::village
-majówka::village
-mak rud::village
-maka rud::village
 makachua::village
 makaki::village
 makalamabedi::village
 makalea::village
 makan gorgan::village
 makaniyeh-ye salahaviyeh::village
-makar::village
 makari::village
 makarom-e bala::village
+maka rud::village
 makarud::village
+makar::village
 makash::village
 makatu::village
 makaukpat::village
-makavara::village
 makavarapalem::village
+makavara::village
 makdin-e olya::village
 makdin-e sofla::village
+make:制造
 make a mistake:犯一个错误
 make changes:做出改变
-make love:做爱
-make money:赚钱
-make sense:有道理
-make sure:确认
-make::village
-make:制造
 makedontsi::village
 makegaon::village
 makeliyawala::village
+make love:做爱
+make money:赚钱
 makempe::village
 makenahalli::village
 makenis::village
+make sense:有道理
+make sure:确认
+make::village
 makey-liboli::village
-makh::village
-makha::village
 makhand::village
+makha::village
 makhazen naft::village
 makhdan::village
 makhdum kandi::village
-makhi::village
 makhin::village
+makhi::village
 makhlynets::village
 makhmur::village
 makhnivka::village
-makho::village
 makhori::village
+makho::village
 makhsar::village
 makhuleh::village
 makhunik::village
+makh::village
 makhvoshin::village
-maki::village
 makiabad::village
 makian::village
 makiivka::village
@@ -835,6 +860,7 @@ makineh nasiri::village
 makineh-ye bahrani::village
 makineh-ye khar farih::village
 makita::village
+maki::village
 makkada::village
 makkalageri::village
 makkan::village
@@ -845,10 +871,14 @@ makner::village
 maknor::village
 makoci::village
 makodu::village
+mąkolice::village
+mąkolno::village
 makombo::village
 makopong::village
+mąkoszyn::village
 makounta::village
 makovo::village
+mąkowarsko::village
 makowice::village
 makowiec::village
 makowiska::village
@@ -859,6 +889,7 @@ makrarah::village
 makrasyka::village
 makresh::village
 makrisia::village
+mak rud::village
 maksan::village
 maksar al-hisan::village
 maksar-e magatif::village
@@ -866,13 +897,14 @@ maksar-e olya::village
 maksar-e sofla::village
 maksar-e vosta::village
 maksar::village
-maksi::village
+mäksa::village
 maksimai::village
 maksimonys (varėna)::village
+maksi::village
 maksymilianowo::village
 maksymivka::village
-maku kandi::village
 makuakateni::village
+maku kandi::village
 makuldeniya::village
 makuleh::village
 makulussa colony::village
@@ -882,47 +914,19 @@ makup yanhasi::village
 makuta::village
 makwane::village
 makwate::village
-mal amiri-ye hajj saadat karam::village
-mal amiri-ye olya::village
-mal amiri-ye sofla::village
-mal aqa::village
-mal awan::village
-mal gasheh::village
-mal hajji::village
-mal khast::village
-mal mir::village
-mal molla::village
-mal radobil::village
-mal sanan::village
-mal sukhteh::village
-mal-e ahmadi::village
-mal-e akhund::village
-mal-e gap::village
-mal-e gavdan::village
-mal-e gol::village
-mal-e kayid::village
-mal-e khalifeh::village
-mal-e kharg-e shemali::village
-mal-e mahmud::village
-mal-e mohammad abdal ali::village
-mal-e qayed::village
-mal-e shamab::village
+malaba::village
 mala berezovytsia::village
 mala byihan::village
-mala dobron::village
-mala fucha::village
-mala remeta::village
-mala rohan::village
-mala seidemynukha::village
-mala'e::village
-mala::village
-malaba::village
 malacca::village
+mała cerkwica::village
 maladara sartali::village
 maladinni::village
 maladkal::village
+mala dobron::village
 malaeimi::village
+mala'e::village
 malafeh::village
+mala fucha::village
 malagali::village
 malagammana::village
 malagekumbura::village
@@ -930,108 +934,121 @@ malagum::village
 malahameh::village
 malahma::village
 malahuni::village
-malak devesil::village
-malak izvor::village
+mała huta::village
+malaisia scandens::plant
 malakacherla::village
+mała kamienica::village
 malakan::village
+malak devesil::village
 malakeh::village
+mała kępa::village
 malakh darreh-ye sofla::village
 malaki::village
+malak izvor::village
 malakka::village
 malaklar::village
+mała klonia::village
+mała komorza::village
 malakonda::village
 malakpur azizal::village
 malakpur::village
 malakwala::village
-malal::village
 malala::village
+malal::village
 malamani::village
 malambo::village
 malamel::village
+mal amiri-ye hajj saadat karam::village
+mal amiri-ye olya::village
+mal amiri-ye sofla::village
 malampuzha::village
 malancha::village
+mălâncrav::village
 malandrone::village
 malang shahwala::village
+mała nieszawka::village
 malankowo::village
 malanwatta::village
-malar::village
+mal aqa::village
 malard-e vilay-ye jonubi::village
 malard::village
+mala remeta::village
+mala rohan::village
 malarpura::village
+malar::village
 malas bregas::village
+mala seidemynukha::village
 malashi::village
 malashivtsi::village
-malat::village
+małaszewicze duże::village
+małaszewicze małe::village
+małaszewicze::village
 malateh::village
 malatipatapur::village
 malatipur::village
 malatkeşin::village
 malatswai::village
+malat::village
 malauli::village
 malauna::village
 malava khurd::village
-malavan::village
 malavanitippa::village
+malavan::village
+mala::village
 malavi::village
 malawali pawan mawal::village
+mal awan::village
 malawi:马拉维
+mała wieś dolna::village
+mała wieś górna::village
+mała wieś::village
 malaxa::village
-malay sheykh-e ginklik::village
-malay-e anbar::village
-malay::village
 malay:马来语
 malaya berestovitsa::village
 malayappanallur::village
 malayattoor::village
+malay-e anbar::village
+malay sheykh-e ginklik::village
 malaysia:马来西亚
 malaysian:马来西亚人
+malay::village
 malazjan::village
 malbijar::village
 malbry::village
 malchovtsi::village
 malcoci::village
 malcolm::village
-malczyce::village
 malczów::village
-malda::village
+malczyce::village
 maldahia::village
+malda::village
 maldeh::village
-malden::village
 maldeniya::village
+malden::village
 maldevta::village
-maldi::village
 maldives:马尔代夫
-male mune::village
-male pijace::village
-male::village
+maldi::village
 male:男性
+mal-e ahmadi::village
+mal-e akhund::village
 malealea::village
+małe bedlenki::village
+małe budziska::village
+małe czyste::village
+małe gacno::village
 malegaon khurd::village
 malegaon::village
+mal-e gap::village
+mal-e gavdan::village
+mal-e gol::village
 maleh dizgeh::village
+maleheh::village
+maleh-e shirkhan::village
 maleh rulan::village
 maleh safarkhan kheybar::village
-maleh-e shirkhan::village
 maleh-ye khorg::village
-maleheh::village
 maleikoniai::village
-malek ali::village
-malek alus::village
-malek baghi::village
-malek faliz::village
-malek hasan yarijan::village
-malek kandeh::village
-malek khatabi::village
-malek kheyl::village
-malek kola::village
-malek mirzacham dashti::village
-malek mohammadabad::village
-malek morad::village
-malek rud::village
-malek shir::village
-malek talesh::village
-malek tappeh::village
-malek-e ashtar::village
+małe jarki::village
 malekabad-e bala::village
 malekabad-e hammanlu::village
 malekabad-e pain::village
@@ -1039,78 +1056,107 @@ malekabad-e shandak::village
 malekabad-e somaq::village
 malekabad-e yek::village
 malekabad::village
+malek ali::village
+malek alus::village
 malekayad::village
+mal-e kayid::village
+malek baghi::village
 malekdeh::village
+malek-e ashtar::village
+malek faliz::village
+mal-e khalifeh::village
+mal-e kharg-e shemali::village
+malek hasan yarijan::village
 malekhiv::village
 maleki::village
 malekiyeh-ye gharbi::village
 malekiyeh-ye olya::village
 malekiyeh-ye sofla::village
 malekiyeh-ye vosta::village
+malek kandeh::village
+malek khatabi::village
+malek kheyl::village
+malek kola::village
 maleklu::village
+malek mirzacham dashti::village
+malek mohammadabad::village
+malek morad::village
 malekoppa::village
+malek rud::village
 malekshah::village
 malekshan-e olya::village
 malekshan-e sofla::village
+malek shir::village
+malek talesh::village
+malek tappeh::village
 malekut::village
 malekzadeh::village
+małe Łąkie::village
+małe leźno::village
+małe Łunawy::village
+mal-e mahmud::village
 malemia::village
+mal-e mohammad abdal ali::village
+male mune::village
+maléoualé::village
+male pijace::village
+małe pułkowo::village
+mal-e qayed::village
+małe radowiska::village
+małe rudy::village
 malerzów::village
+mal-e shamab::village
 maleshe::village
+malešići::village
 maleskam::village
+małe szczepanki::village
 maleszów::village
+mäletjärve::village
 maleva::village
+male::village
 malevo::village
 malewadi::village
 malewal::village
 maleyek::village
-malešići::village
 malfejan::village
 malfunction:故障
+malgaçemir, sultanhisar::village
+malgaçmustafa, sultanhisar::village
 malgadh::village
 malgah::village
 malgamandeniya::village
 malgammana::village
-malgaçemir, sultanhisar::village
-malgaçmustafa, sultanhisar::village
+mal gasheh::village
 malgir::village
+mälgi::village
 malgocta::village
+mal hajji::village
 malham dar::village
-malham::village
+malhamlu::village
 malhamlu-ye olya::village
 malhamlu-ye sofla::village
-malhamlu::village
+malham::village
 malhan::village
 malharwadi::village
 malhewa::village
 malhian::village
 malhoo::village
 malhuwala::village
-mali beograd::village
-mali darreh::village
-mali dubovik::village
-mali izvor::village
-mali khedi::village
-mali ostros::village
-mali pesak::village
-mali radinci::village
-mali singh::village
-mali ston::village
-mali varbovnik::village
-mali vuković::village
-mali::village
 mali:马里
-malia::village
 maliabad::village
+maliankara::village
 malian politician:马里政客
 malian::village
-maliankara::village
 maliara::village
+malia::village
+mali beograd::village
 malice::village
 malich-e bozorg::village
-malich-e kuchek::village
 malicheh sheykh::village
 malicheh::village
+malich-e kuchek::village
+mali darreh::village
+mali dubovik::village
 maligatenna::village
 maligawila::village
 maliget::village
@@ -1125,69 +1171,87 @@ maliheh-ye hajj badr::village
 maliheh-ye sadun::village
 maliheh-ye sharqi::village
 maliheh-ye yek::village
-malija::village
+mali izvor::village
 malijan-e bala::village
 malijan-e pain::village
+malija::village
+mali khedi::village
 malikjanly::village
 malikmau chaubara::village
 malikpaya::village
 malikpur::village
+mäliküla::village
 malimdul::village
-malin::village
 malina::village
 malind::village
 malingara::village
 malini::village
 malinivka::village
 malinovo::village
+malin::village
 malioma::village
+mali ostros::village
+mali pesak::village
+mali radinci::village
 malisahi::village
 malishevë::village
+mali singh::village
+mäliste::village
+mali ston::village
 maliszewo::village
+ma liu shui san tsuen::village
+mali varbovnik::village
+mälivere::village
+mali::village
+mali vuković::village
 maliwan::village
 maliyadda::village
+malıbəy::village
 malja dasht::village
 malka chinka::village
-malka polyana::village
-malka smolnitsa::village
-malka zhelyazna::village
-malka::village
 malkankoppa::village
+malka polyana::village
 malkapur::village
 malkaram::village
 malkari::village
+malka smolnitsa::village
+malka::village
+malka zhelyazna::village
 malkegaon::village
 malkhalaf::village
+mal khast::village
 malki bulgareni::village
 malki stanchovtsi::village
 malki tsalim::village
 malki varshets::village
+małki::village
 malki voden::village
 malkizgudam::village
 malko asenovo::village
 malko bryagovo::village
+malkoch::village
 malko gradishte::village
 malko kamenyane::village
 malko popovo::village
-malkoch::village
+małkowice::village
 malkup::village
-malla::village
 mallabad::village
-malladi::village
 malladihalli::village
+malladi::village
 mallah::village
-mallampet::village
 mallampeta::village
+mallampet::village
 mallandur::village
 mallappuram::village
+mallapuram::village
 mallapur kariyat ambadagatti::village
 mallapur kariyat nesargi::village
 mallapur s.a.::village
-mallapuram::village
 mallard:野鸭
 mallasandra::village
 mallavaram::village
 mallavere::village
+malla::village
 mallavolu::village
 mallayapalem::village
 mallekan::village
@@ -1195,33 +1259,41 @@ mallepalli::village
 mallial::village
 mallian khurd::village
 malligwad::village
+mällikvere::village
 malling::village
 malliwal::village
+mallıca::village
+mallı::village
 mallo mazara::village
 mallota::village
+mallotus philippensis::plant
 malludawara::village
 mallur::village
-mallı::village
-mallıca::village
+mällu::village
 malmaliya::village
 malmeneich::village
 malmijan::village
+mal mir::village
 malmir::village
+mal molla::village
 malmo::village
 malo bavanište::village
-malo konjari::village
-malo malovo::village
-malo ruvci::village
-malo selo::village
-malo središte::village
+małociechowo::village
+małocin::village
 maloja::village
+malo konjari::village
 malolwane::village
+malo malovo::village
 malombo::village
+małomin::village
 malomirovo::village
 malomsok::village
 malomykolaivka::village
 malon::village
 malook wali::village
+malo ruvci::village
+malo selo::village
+malo središte::village
 maloth::village
 malotwana siding::village
 malounta::village
@@ -1229,18 +1301,23 @@ malov do::village
 malovodnoye::village
 malowa góra::village
 malowal::village
+małowice::village
 malpora::village
 malpur::village
 malqarani::village
 malqeshlaqi::village
+mal radobil::village
 malri::village
 malsaidi-ye olya::village
 malsaidi-ye sofla::village
+mal sanan::village
 malsheykh::village
 malsian::village
-malta::village
+mal sukhteh::village
+małszyce::village
 malta:马耳他
 maltahöhe::village
+malta::village
 maltepe::village
 maltsa::village
 malujeh::village
@@ -1253,6 +1330,8 @@ malupur::village
 maluran::village
 malusan::village
 malusha::village
+małuszów::village
+małuszyn::village
 maluti::village
 malvajerd::village
 malvand::village
@@ -1268,43 +1347,43 @@ malwanahinna::village
 malwelwe::village
 malyan::village
 malybay::village
+mały dólsk::village
 malye korely::village
+mały głęboczek::village
 malyi kuchuriv::village
+mályinka::village
+mályi::village
+mały mędromierz::village
 malynove::village
 malynsk::village
 malyntsi::village
+mały rudnik::village
 malyy talysh::village
-maléoualé::village
-malıbəy::village
-mam heybeh::village
-mam seyf ol din::village
-mam zineh::village
-mam::village
-mama zeynab::village
-mamadan::village
 mamadanlu::village
+mamadan::village
 mamadapur (kk)::village
 mamadapur (kl)::village
 mamahdel::village
 mamai::village
 mamaivtsi::village
 mamajan::village
-mamak::village
 mamakan::village
 mamakavah::village
 mamakikomb::village
-mamal::village
+mamak::village
 mamaliha::village
 mamalu::village
-maman::village
+mamal::village
 mamandur::village
+maman::village
+mamaria::village
 mamar seh::village
 mamar yek::village
-mamaria::village
 mamatin-e olya::village
 mamatin-e sofla::village
 mamatlar, korkuteli::village
 mamatlar::village
+mama zeynab::village
 mambalapattu::village
 mambalu::village
 mambire::village
@@ -1315,20 +1394,22 @@ mamedoba::village
 mameh kandi::village
 mameh shir::village
 mamehvat::village
+ma mei ha leng tsui::village
 mamenan-e olya::village
 mamenan-e sofla::village
 mamerz kan::village
 mamerz si::village
 mamesh khan::village
 mameyand::village
+mam heybeh::village
 mamhilad::village
 mami aqcheli::village
-mami::village
 mamidala::village
 mamidicolla::village
 mamidipally::village
 mamili::village
 mamillapalli::village
+mami::village
 mamiz ab::village
 mamjin::village
 mamlah-ye olya::village
@@ -1339,8 +1420,8 @@ mammaddara::village
 mammal:哺乳动物
 mammalian:哺乳动物的
 mammals:哺乳动物
-mammary gland:乳腺
 mammary:乳房的
+mammary gland:乳腺
 mammen::village
 mamonia::village
 mamountali::village
@@ -1350,7 +1431,7 @@ mampitiya::village
 mamqabinə::village
 mamrai::village
 mamraz koti::village
-mamu::village
+mam seyf ol din::village
 mamuara::village
 mamudan::village
 mamudpur::village
@@ -1360,19 +1441,10 @@ mamulah::village
 mamuleh::village
 mamureh::village
 mamuri::village
-man aw::village
-man darreh algan::village
-man huna::village
-man kin::village
-man maw::village
-man pangong::village
-man pu::village
-man seyr::village
-man thet::village
-man wein, shwegu::village
-man::village
+mamu::village
+mam::village
+mam zineh::village
 man:男人
-mana talwandi::village
 manaboda::village
 manabri::village
 manafoba::village
@@ -1385,7 +1457,6 @@ managundi::village
 manahar::village
 manahinda::village
 manaiyeripatti::village
-manak::village
 manakadavu::village
 manakawad::village
 manakkad::village
@@ -1395,20 +1466,23 @@ manakondur::village
 manakpur::village
 manakray::village
 manakund::village
+manak::village
 manali::village
 manalkadu::village
 manamedu::village
 manamin::village
-manan::village
+ma nam wat::village
 manando::village
 manangorai::village
+manan::village
 manapathur::village
 manappadam::village
 manaris::village
-manas::village
 manasapur::village
-manastir::village
 manastirica::village
+manastir::village
+manas::village
+mana talwandi::village
 manathana::village
 manavand::village
 manavari::village
@@ -1417,147 +1491,154 @@ manavayal::village
 manavi::village
 manawirah::village
 manawtha::village
+man aw::village
 manazel sazmani::village
-manbar::village
 manbareh::village
+manbar::village
 mancelona::village
 mancha blanca::village
 manchama::village
-manchester::village
 manchester:曼彻斯特市
+manchester::village
 manchevo::village
 manchikallu::village
 manchili::village
 manchinabele::village
+mančiagirė::village
 manciano::village
 mancot::village
+mańczyce::village
+mandabad::village
 mand ahli kalan::village
 mand ahmedwala::village
-mand allahabad::village
-mand bandu jadid::village
-mand bandu kadim::village
-mand bhim kadim::village
-mand dhakran::village
-mand dhaliwal::village
-mand dhun::village
-mand dhunda::village
-mand dograwala::village
-mand faridkot::village
-mand gujarpur::village
-mand gurdaspur::village
-mand hazara::village
-mand hussainpur bulle::village
-mand hussainpur::village
-mand ibrahimwal tarf gulam nabi khan::village
-mand inderpur::village
-mand indresa::village
-mand kulla::village
-mand maini bhagu purian::village
-mand miani jhadduwala::village
-mand mubarakpur::village
-mand munda::village
-mand nangal lubana::village
-mand partappur::village
-mand raipur araian::village
-mand sandhi khanwala::village
-mand sangojla::village
-mand sardar sahibwala::village
-mand surakhpur::village
-mand talwandi kuka::village
-mand-e bala::village
-mand-e sofla::village
-manda::village
-mandabad::village
 mandakan::village
-mandal::village
-mandala::village
 mandalagiri::village
 mandalakkottai::village
 mandalapalli::village
+mandala::village
 mandalenčići::village
+måndalen::village
+mand allahabad::village
+mandal::village
 mandanak::village
 mandani::village
 mandapadu::village
 mandaq::village
-mandar::village
 mandarabad::village
 mandaram nuwara::village
 mandarin:普通话
+man darreh algan::village
+mandar::village
 mandasa::village
 mandatory:强制的
 mandavadi::village
 mandavalli::village
 mandave kd::village
+manda::village
 mandawa::village
+mand bandu jadid::village
+mand bandu kadim::village
+mand bhim kadim::village
+mand dhakran::village
+mand dhaliwal::village
+mand dhunda::village
+mand dhun::village
+mand dograwala::village
+mand-e bala::village
 mandegan::village
 mandegi-ye olya::village
 mandeh ab::village
 mandeniabad::village
 mandepudi::village
 mander dona::village
-mander::village
 manderek::village
 manderveen::village
+mander::village
+mand-e sofla::village
+mand faridkot::village
+mand gujarpur::village
+mand gurdaspur::village
 mandhala::village
 mandhali::village
 mandhana::village
 mandhata::village
+mand hazara::village
 mandholi::village
 mandholla gudem::village
+mand hussainpur bulle::village
+mand hussainpur::village
+mandiala::village
 mandi alluwal::village
+mand ibrahimwal tarf gulam nabi khan::village
+mandiganal::village
+mandihal::village
 mandi kabirpur jadid::village
 mandi kabirpur kadim::village
 mandi kalu::village
+mandilan-e bala::village
+mandil besar::village
 mandi mahalleh::village
 mandi mand kulla::village
-mandi road::village
-mandi::village
-mandiala::village
-mandiganal::village
-mandihal::village
-mandil besar::village
-mandilan-e bala::village
+mand inderpur::village
+mand indresa::village
 mandirajakulon::village
 mandirajawetan::village
+mandi road::village
 mandirow::village
 mandiru::village
+mandi::village
+mandılı::village
+mändjala::village
 mandkheri::village
+mand kulla::village
+mand maini bhagu purian::village
+mand miani jhadduwala::village
+mand mubarakpur::village
+mand munda::village
+mand nangal lubana::village
 mandoli::village
 mandothi::village
 mandougou::village
+mand partappur::village
+mand raipur araian::village
 mandra::village
 mandres::village
 mandria::village
 mandritsa::village
 mandro damin bazar::village
 mandropur::village
+mand sandhi khanwala::village
+mand sangojla::village
+mand sardar sahibwala::village
+mand surakhpur::village
+mand talwandi kuka::village
 mandulak::village
 mandume::village
-mandur::village
 mandurama::village
+mandur::village
 mandusat kashteh::village
 mandusti::village
-mandwa::village
-mandwal::village
 mandwala::village
-mandılı::village
+mandwal::village
+mandwa::village
 manechaur::village
 manegoto::village
 manegsombo::village
-maneh-ye pain::village
 manehru::village
+maneh-ye pain::village
 manellore::village
 manesh::village
+manéssé::village
 manethi::village
 manevtsi::village
 maneybung::village
 maneyshad::village
+mánfa::village
 manfla::village
-mang-ai::village
-manga::village
 manga:日式漫画
-mangad::village
 mangadpur::village
+mangad::village
+mang-ai::village
 mangajou::village
 mangalagatti::village
 mangalam dam::village
@@ -1568,8 +1649,8 @@ mangallar::village
 mangalpalle::village
 mangalpur::village
 mangampadu::village
-mangan forest block::village
 manganez::village
+mangan forest block::village
 mangangaon::village
 mangaraha::village
 mangare::village
@@ -1578,32 +1659,33 @@ mangaroda::village
 mangarul::village
 mangarwari::village
 mangavati::village
-mangavi::village
 mangavilai::village
-mangel::village
+manga::village
+mangavi::village
 mangelab::village
 mangelas-e bozorg::village
-mangeli-ye olya::village
 mangeli::village
+mangeli-ye olya::village
+mangel::village
 mangenkop-alias ghosenatti::village
 manger::village
 mangezur::village
 manghera::village
-mangi::village
 mangian::village
 manginapudi::village
 manginehi::village
+mangi::village
 mangloona::village
 manglutan::village
 mangnar::village
 mangnur::village
 mango:芒果
 mangoda::village
-mangol::village
 mangolan::village
 mangollu::village
-mangon::village
+mangol::village
 mangona::village
+mangon::village
 mangosteen:山竹
 mangouin::village
 mangowal::village
@@ -1612,7 +1694,6 @@ mangrauni::village
 mangsan::village
 mangtong::village
 mangu deh::village
-mangu::village
 mangudi::village
 mangueshi::village
 mangulam::village
@@ -1621,19 +1702,18 @@ mangun::village
 mangupur::village
 mangurjan::village
 mangushi::village
+mangu::village
 mangwaki::village
 mangwal::village
 mangyt::village
 manhattan::village
 manhton::village
+man huna::village
 manhush::village
-mani yar::village
-mani-ye olya::village
-mani::village
-mania::village
 maniaki::village
 maniala::village
 manian::village
+mania::village
 manickapuram::village
 manidar::village
 manie::village
@@ -1641,9 +1721,10 @@ manifest:清单
 manifold:流形
 manigramam::village
 manihatty::village
+manihot pulchriforius::plant
 manijalan::village
-manik alha::village
 manikala::village
+manik alha::village
 manikatti::village
 manikchak::village
 manikhedi kot::village
@@ -1652,74 +1733,84 @@ manikkadave::village
 manikpur::village
 manikwadi::village
 manikyapuram::village
+manilkara kauki::plant
 manilwala::village
 manimeswaram::village
+maniów mały::village
+maniów::village
+maniów wielki::village
 maniowy::village
 manippara::village
 manipulate:操作
 manipur::village
 manishgah::village
+mani::village
 maniwak::village
 maniyankurichy::village
+mani yar::village
+mani-ye olya::village
 manizan::village
-maniów mały::village
-maniów wielki::village
-maniów::village
-manj-e baraftab::village
 manjaguni::village
-manjal::village
-manjalu::village
 manjalumoodu::village
+manjalu::village
+manjal::village
 manjamedu::village
 manjapra::village
 manjare::village
 manjargaon::village
 manjarpai (k.g.)::village
 manjarrés::village
+manj-e baraftab::village
 manjeq tappeh::village
 manjhaul::village
 manjhee::village
 manjhipur::village
 manjian wali::village
 manjilabad::village
-manjin::village
 manjinqan::village
+manjin::village
 manjir::village
 manjmi::village
 manjrod::village
 manjur::village
 manjwala::village
-manka, togo::village
 mankar::village
+manka, togo::village
 mankaw::village
 mankhar::village
 mankhiyai::village
-manki::village
 mankiala::village
 mankind:人类
-manko::village
+man kin::village
+manki::village
 mankoli::village
 mankombu::village
+manko::village
 manlava::village
 manley::village
 manlinta::village
 manlius::village
 manmade:人造的
 manmangalam::village
+man maw::village
 manmaw::village
-manna::village
 mannadi::village
+männamaa::village
 mannancherry::village
 mannankadu::village
 mannapur::village
 mannathara::village
+manna::village
 manner:方式
 mannevaripampu::village
-manni::village
 manniedo::village
 mannikeri::village
+männikuste::village
+männiku::village
+männikvälja::village
 mannings heath::village
 manniva::village
+manni::village
 mannoor::village
 mannu machhi::village
 mannville::village
@@ -1730,54 +1821,58 @@ manolsko konare::village
 manordeilo::village
 manovo::village
 manoya::village
-manpa::village
 manpada::village
-manpur::village
+man pangong::village
+manpa::village
 manpura::village
+manpur::village
+man pu::village
 manqal::village
 manqeshli::village
 manqutay::village
 mansab::village
-mansan::village
 mansandwal::village
+mansan::village
 mansarbass::village
 mansein::village
 mansell gamage::village
+man seyr::village
 mansfield::village
 manshad::village
-mansi::village
 mansilla de la sierra::village
 mansion:公馆
+mansi::village
 mansong::village
+mänspe::village
 mansukhmau::village
+mansurabad::village
+mansuran::village
 mansur arab::village
 mansur beygi::village
 mansur bolaghi::village
-mansur kandeh::village
-mansur kandi::village
-mansur khvajeh::village
 mansur, dharwad::village
 mansur-e aqai::village
-mansur::village
-mansurabad::village
-mansuran::village
 mansureh-ye kanin::village
 mansureh-ye mazi::village
 mansureh-ye olya::village
 mansureh-ye sadat::village
-mansuri-ye jonubi::village
-mansuri-ye shomali::village
-mansuri-ye vosta::village
 mansuri::village
 mansuriyeh-e sadat::village
+mansuriyeh::village
 mansuriyeh-ye do::village
 mansuriyeh-ye seh::village
 mansuriyeh-ye yek::village
-mansuriyeh::village
+mansuri-ye jonubi::village
+mansuri-ye shomali::village
+mansuri-ye vosta::village
+mansur kandeh::village
+mansur kandi::village
 mansurke::village
 mansurkhani::village
+mansur khvajeh::village
 mansurlu::village
 mansurpur::village
+mansur::village
 mansurwal bet::village
 mansurwal dona::village
 mansuwala::village
@@ -1790,12 +1885,13 @@ mantee::village
 mantgum::village
 manthan gowrelly::village
 manthenavaripalem::village
+man thet::village
 manthorpe::village
 mantigailiai::village
 mantinge::village
 mantis:螳螂
-manton::village
 mantonhe::village
+manton::village
 mantoudi::village
 mantripalem::village
 mantshwabisi::village
@@ -1806,139 +1902,138 @@ mantviliškis::village
 mantviloniai::village
 mantysh::village
 mantzavinata::village
-manu::village
 manual:手册
 manual:手动的
 manually:手动地
+manuchehrabad::village
 manuchehr abbasi::village
+manuchehri::village
 manuchehr kola::village
 manuchehr::village
-manuchehrabad::village
-manuchehri::village
 manuchiwadi::village
 manufacture:制造
 manugonda::village
 manuiyeh::village
 manumah::village
 manund::village
-manur::village
 manuri::village
+manur::village
 manusmuria::village
+manu::village
+man::village
 manville::village
-manwa::village
 manwath road::village
-many celled:多细胞的
-many years:许多年
+manwa::village
+man wein, shwegu::village
 many:许多
+many celled:多细胞的
+mān ye-su::village
 manyu, banmauk::village
+many years:许多年
 manzalele::village
 manzanares de rioja::village
 manzanillo::village
 manzanouan::village
 manzar::village
-manzel darreh::village
 manzelabad::village
+manzel darreh::village
 manzimpara::village
 manzoulé::village
 manzuri::village
-manéssé::village
-mančiagirė::village
-maoula::village
-maovi::village
 maoče::village
+ma on kong::village
+maoula::village
+mäo::village
+maovi::village
 map:地图
 mapalana::village
 mapanawatura::village
 maphiveni::village
 maphou::village
+maplebeck::village
 maple bluff::village
 maple cross::village
-maple rapids::village
-maplebeck::village
 mapledurwell::village
+maple rapids::village
+ma po mei::village
 mapou::village
 mappilaiurani::village
 mapranam::village
 maqabah::village
 maqasir::village
-maqate::village
 maqatel::village
-maqbul::village
+maqate::village
 maqbulabad::village
+maqbul::village
 maqdah::village
 maqrah::village
 maqshush::village
-maqsud beyk::village
 maqsudabad::village
+maqsud beyk::village
+maqsudlu::village
 maqsudlu-ye olya::village
 maqsudlu-ye sofla::village
 maqsudlu-ye vosta::village
-maqsudlu::village
 maqsudpur::village
 maqtu-e olya::village
 maqtu-e sofla::village
 maqtu-e vosta::village
 maqut::village
-mar barreh::village
-mar mord::village
-mar roukouz::village
-mar touma::village
-mar'ivka::village
-mar::village
 mar:毁
-mara::village
-marab::village
 marabad::village
+marab::village
 maradagi::village
-maradi::village
 maradik::village
 maradishivapur::village
+maradi::village
 maradurawala::village
 marady::village
 maragallu::village
-maragh::village
 maraghan::village
 maragheh::village
+maragh::village
 marahamnen::village
+mārahau::village
 marajul::village
-marak::village
-maraka::village
 marakami::village
 marakan::village
+maraka::village
 marakkalagama::village
 marakkunam::village
 marakudi::village
 marakumbi::village
-marala::village
+marak::village
 maralaleng::village
+marala::village
 maraldam::village
-marallu-ye jafarqoli khanlu::village
 marallui-ye kalbalu::village
+marallu-ye jafarqoli khanlu::village
 maralur, gauribidanur::village
 maralyansarov::village
 maramadakki::village
 maramly::village
 maramonovca::village
-maran galu::village
-maran qaleh::village
-maran-e olya::village
-maran-e sofla::village
-maran::village
 marana::village
 marandegan::village
 marandeh::village
+mărăndeni::village
 marandiz::village
 maraneh::village
+maran-e olya::village
 maraneri::village
+maran-e sofla::village
 maranewadi::village
-marang::village
+maran galu::village
 marangaluy-e bozorg::village
 marangaluy-e kuchek::village
 maranghada::village
+marang::village
 maranhol::village
 marani::village
+maran qaleh::village
 maranthalai::village
 marantu::village
+maran::village
 maranzhe::village
 marapong::village
 maraq kan::village
@@ -1949,12 +2044,13 @@ maras-e bozorg::village
 maras-e kuchak::village
 marashi::village
 marasia::village
-marat shahr::village
+maraşlı::village
 marat-e balkarun::village
-marathon city::village
 marathon:马拉松赛跑
+marathon city::village
 marathounta::village
 marathovounos::village
+marat shahr::village
 maratugoda::village
 maratuwela::village
 maravand::village
@@ -1965,26 +2061,30 @@ maraveneh-ye chahar::village
 maraveneh-ye do::village
 maraveneh-ye seh::village
 maraveneh-ye yek::village
+mara::village
 marawanagoda::village
 marayan::village
 marazad::village
-maraşlı::village
+maráza::village
 marbachcheh::village
+mar barreh::village
 marbar::village
 marbin::village
 marbledale::village
 marbuyeh::village
 marcalgergelyi::village
 marcaltő::village
+marcăuți::village
 marcelewo::village
 marcelin::village
+marčelji::village
 marcellus::village
-march::village
 march:游行
 marchevo::village
 marchfield::village
 marchi::village
 marchubeh::village
+march::village
 marciana::village
 marcinkonys::village
 marcinkowice::village
@@ -1996,80 +2096,82 @@ marcinowice::village
 marcinowiczki::village
 marcinowo::village
 marciszów::village
-marczyce::village
+mărculești::village
 marczów::village
-marcăuți::village
-mard-e khaneh::village
-mard-e khoda::village
-marda::village
+marczyce::village
 mardabad::village
 mardakheh-ye bozorg::village
-mardan::village
-mardana::village
 mardanaqom::village
+mardana::village
 mardanpur::village
+mardan::village
 mardasavas (marcinkonys)::village
 mardasavas (merkinė)::village
-mardekheh-ye kuchek::village
+marda::village
+mard-e khaneh::village
 mardekheh::village
-mardi::village
+mardekheh-ye kuchek::village
+mard-e khoda::village
 mardihansu::village
 mardikh::village
 mardilu::village
 mardinagalapur::village
+mardi::village
+märdi::village
 mardkanlu::village
 mardom darreh::village
 mardomkadeh::village
 marduvar::village
 mardwal::village
-mare minerve::village
 marebama::village
-mared::village
 maredubaka::village
 maredumilli::village
 maredupudi::village
+mared::village
 mareghan kand::village
 mareh darreh::village
 mareh khaneh kharabeh::village
 maremanda::village
-maren::village
+mare minerve::village
 marengaz::village
 marenj::village
+maren::village
 mareshk::village
+måre::village
 marevo::village
 marewad::village
+márfa::village
 marford::village
-marg sar::village
 margad sar::village
 margalef::village
+marganakoppa::village
 margan-e azizabad::village
 margan-e esmail kandi::village
 margan-e qadim::village
 margan-e vasat::village
 margan::village
-marganakoppa::village
 margarash::village
 margaru::village
 margaseh::village
 margasin::village
 margav-e olya::village
 margav-e sofla::village
-margh chuiyeh::village
-margh malek::village
-margh-e chenar::village
-margh-e gachi::village
-margh::village
 margha::village
+margh chuiyeh::village
 marghdari-ye akarmian basraha::village
 marghdari-ye debagh::village
 marghdari-ye hajji hasan kuh bar::village
 marghdari-ye mirzayi::village
+margh-e chenar::village
+margh-e gachi::village
 marghesh::village
+margh malek::village
 marghtumayn::village
 marghub::village
 marghuk::village
-marghzar::village
+margh::village
 marghzark::village
+marghzar::village
 margin:边缘空白
 margininkai::village
 margir deh::village
@@ -2077,87 +2179,92 @@ margole::village
 margomunda::village
 margou::village
 margrove park::village
+marg sar::village
 margun::village
 marguse::village
 marhavay::village
 marhia::village
 marhota::village
 marhouma::village
-mari buchian::village
-mari panwan::village
-mari waraichan::village
-mari::village
 mariabong tea garden::village
+máriahalom::village
 mariaheide::village
+máriakálnok::village
 mariakerke::village
 mariampol::village
-marian::village
 marianca de jos::village
 mariandyrys::village
 marianivka::village
 marianka::village
 marianki::village
-marianowo::village
-mariany::village
+márianosztra::village
 marianówek::village
 marianówka::village
+marianowo::village
+marian::village
+mariany::village
 mariaparochie::village
 maribel::village
-marich::village
+mari buchian::village
 marichbania, pirojpur::village
 marichbania::village
+marich::village
 marielund::village
+mariënberg::village
 mariensee::village
 marienstein::village
 marienthal::village
 marietta::village
 marigeri::village
-marij mahalleh::village
 marijampolis::village
 marijan::village
+marij mahalleh::village
 marijuana:大麻
 marikaj::village
 marikatti::village
 marikostinovo::village
 marim dasht::village
-marin::village
 marina di castagneto carducci::village
 marina romea::village
 marina::village
 marindolsko brdo::village
-marine animal:海洋动物
-marine snow:海洋雪
-marine::village
 marine:海的
+marine animal:海洋动物
 mariner:海员
 marines:海军陆战队
+marine snow:海洋雪
+marine::village
 marinka::village
-marino pole::village
 marinoha::village
+marino pole::village
 marinovtsi::village
 marinu::village
+marin::village
 marion::village
+mari panwan::village
 marireh::village
 marishan::village
 marissa::village
 maritime:海的
 marivani-ye bidgoli::village
 marivani-ye kakiha::village
+mari::village
+mar'ivka::village
+mari waraichan::village
 mariyala::village
-mariënberg::village
+marjadwa::village
 marj al-qata::village
 marj al-sultan::village
-marj::village
-marjadwa::village
-marjan babamorad::village
-marjan gomar::village
-marjan qeytul::village
-marjan::village
 marjanabad::village
 marjanak::village
+marjan babamorad::village
+märjandi::village
 marjaneh::village
+marjan gomar::village
 marjanlu::village
-mark::village
+marjan qeytul::village
+marjan::village
+marj::village
 mark:标记
 markabygd::village
 markaz-e garm::village
@@ -2167,37 +2274,40 @@ markdeh::village
 markeh mahalleh::village
 markeh::village
 markelo::village
-marken::village
 markenbinnen::village
+marken::village
 marker:标记
-market place:集市
 market:市场
 markethill::village
+market place:集市
 markhal::village
+márkháza::village
 markhoz::village
 markhu::village
 markhvor::village
 markid kharabehsi::village
 markid::village
-markin::village
 markina::village
 markington::village
+markin::village
 markiyeh::village
 marklowice górne::village
 marknesse::village
+markóc::village
 markoot::village
 markotabödöge::village
 markoti::village
-markova sušica::village
 markovac::village
+markova sušica::village
 markovićevo::village
 markovići::village
+márkó::village
 markowice::village
 markowicze-cegielnia::village
 markowicze::village
 markowo::village
 markua::village
-markóc::village
+mark::village
 marlagunta::village
 marlapalem::village
 marlborough::village
@@ -2213,17 +2323,21 @@ marmashen::village
 marmat::village
 marmeh::village
 marmiga::village
+mar mord::village
 marmoset:狨猴
-marna::village
 marnab::village
 marnah::village
+marna::village
 marne::village
+marócsa::village
+márokföld::village
+márok::village
 maroli::village
 marondry::village
+maroño::village
 maroowala::village
 maroslele::village
 marotte::village
-maroño::village
 marpissa::village
 marqad::village
 marqesheh::village
@@ -2232,69 +2346,69 @@ marquban::village
 marquette::village
 marrangaroo::village
 marreh::village
-marri::village
 marriage:结婚
 married:已婚的
 marriguda::village
 marrimakula kandriga::village
 marripadu::village
 marripudi::village
+marri::village
 marroneto::village
+mar roukouz::village
 marrucheti::village
 marrum::village
 marry:结婚
 mars:火星
 marsarud::village
-marsh benham::village
-marsh village::village
-marsh::village
 marsh:草湿地
 marshaar::village
 marshall islands:马绍尔群岛
 marshall::village
+marsh benham::village
 marshfield::village
+marsh::village
+marsh village::village
 marsiliana::village
-marston::village
 marstons mills::village
+marston::village
 marszowice::village
-mart-e haq ali::village
 marta bolagh::village
+mart-e haq ali::village
 marten:貂
 marteru::village
 marthadu::village
 marthall::village
-marti::village
 martial art:武术
 martian:火星的
-martin mill::village
-martin's additions::village
-martin::village
+martići::village
 martin:马丁
 martina::village
 martinci::village
-martino::village
+martin mill::village
 martinovići::village
+martino::village
 martinovo::village
+martin's additions::village
 martinsburg::village
 martinska ves::village
 martinton::village
+martin::village
 martioda::village
 martiros::village
-martići::village
+marti::village
 martkopi::village
 martlesham::village
 martna::village
-marton::village
 martonfa::village
+marton::village
 martonyi::village
-marts::village
+mar touma::village
 martsa::village
+marts::village
 martuni::village
 marturu::village
 martuwela::village
 martyniec::village
-maru, shwegu::village
-maru::village
 marudakkudi::village
 marudanallur::village
 marudangavayal::village
@@ -2302,55 +2416,57 @@ maruddana::village
 marufabad::village
 marufan::village
 marugalpatty::village
-maruk::village
 marukiya::village
 marukona::village
-marul::village
+maruk::village
 marulaneng::village
 marulevo::village
 marulewy::village
+marul::village
 marum radeh::village
-marun kalateh::village
-marun seh::village
 marun-e jayezan::village
-marun::village
 marungaz::village
 marungulam::village
 marunji::village
+marun kalateh::village
+marun seh::village
+marun::village
 marur::village
-marus::village
 marushin::village
 marushli::village
+maru, shwegu::village
 marusk::village
+marus::village
 maruszewo::village
 marutadi::village
 maruthur::village
 maruthuvakkudi::village
 marutsekovtsi::village
 maruvathur::village
-marv dizaj::village
+maru::village
 marvak::village
 marvan kandi::village
-marvar::village
 marvarid-e anjirdan::village
+marvar::village
 marvashkan::village
+marv dizaj::village
 marvel:漫威
 marvik::village
+mar::village
 marvil::village
-marvin::village
 marvinci::village
+marvin::village
 marvodol::village
 marwahi::village
 marwayne::village
 marwood::village
 marxist:马克思主义者
-mary's hope::village
 mary:玛丽
-maryam negar::village
-maryam::village
 maryamabad::village
 maryamah::village
 maryamin::village
+maryam negar::village
+maryam::village
 maryan::village
 maryburgh::village
 maryculter::village
@@ -2362,39 +2478,35 @@ marylin::village
 marynin::village
 marynivka::village
 marynyn::village
+mary's hope::village
 marysin::village
 maryville::village
 marywell::village
-marz::village
 marzabad::village
 marzak::village
 marzalat::village
+marzanak::village
 marzan dar::village
+marzandeh::village
+marzangu::village
 marzan kalateh::village
 marzan kola::village
 marzan::village
-marzanak::village
-marzandeh::village
-marzangu::village
 marzbal::village
-marzban::village
 marzbani::village
+marzban::village
 marzbon::village
 marzeh::village
 marzelan-e mohammad morad::village
-marzi darreh::village
 marzian::village
+marzi darreh::village
 marzijaran::village
+marzığı::village
 marznagun::village
 marzrud::village
 marzu::village
+marz::village
 marzy koti teyebi::village
-marzığı::village
-maráza::village
-marócsa::village
-marčelji::village
-mas darreh::village
-masa::village
 masabi::village
 masadan::village
 masafer::village
@@ -2402,17 +2514,18 @@ masagram::village
 masaguppi::village
 masaguro::village
 masahili::village
-masal::village
 masalakuh::village
 masalhan::village
 masalia::village
 masalikatti::village
 masališkės::village
+masal::village
 masama::village
-masan::village
 masandan::village
 masanian::village
 masankup::village
+maşanlı::village
+masan::village
 masapur::village
 masaq::village
 masarguppi::village
@@ -2421,16 +2534,19 @@ masarm-e olya::village
 masarm-e sofla::village
 masarrochos::village
 masat::village
+masa::village
 mascara:睫毛膏
 mascarell::village
+mașcăuți::village
 maschen::village
 masculine:男性的
+mas darreh::village
 masdenverge::village
 masein::village
-masellian::village
-masen::village
-masenabad::village
 masełkowice::village
+masellian::village
+masenabad::village
+masen::village
 masgareh::village
 mashahir::village
 mashahran::village
@@ -2452,18 +2568,12 @@ mashelabbad::village
 mashg duzan::village
 mashghaleh zar::village
 mashgiri::village
-mashhad hasanlu::village
-mashhad ol kubeh::village
-mashhad qoli::village
-mashhad sara::village
-mashhad tarqi-ye sofla::village
-mashhad torqi-ye olya::village
 mashhad-e bazarjan::village
 mashhad-e firuzkuh::village
 mashhad-e kaveh::village
 mashhad-e miqan::village
 mashhad-e zolfabad::village
-mashhad::village
+mashhad hasanlu::village
 mashhadi barag jar::village
 mashhadi hoseyn::village
 mashhadi juzi::village
@@ -2475,19 +2585,25 @@ mashhadi muri::village
 mashhadi sara::village
 mashhadi::village
 mashhadlu::village
-mashi::village
+mashhad ol kubeh::village
+mashhad qoli::village
+mashhad sara::village
+mashhad tarqi-ye sofla::village
+mashhad torqi-ye olya::village
+mashhad::village
 mashieke::village
 mashil bandar-e do::village
 mashin khaneh::village
 mashin::village
 mashiran::village
-mashk kar jalaleh::village
+mashi::village
 mashkabad-e olya::village
 mashkabad-e sofla::village
 mashkaleh::village
-mashkan::village
 mashkand::village
+mashkan::village
 mashkar::village
+mashk kar jalaleh::village
 mashkul::village
 mashlush::village
 mashmian::village
@@ -2495,49 +2611,54 @@ mashnaq::village
 mashown kola::village
 mashta azar::village
 mashtan::village
-mashu::village
 mashuki::village
 mashuleh::village
-masi maskanlu::village
-masi mordeh::village
+mashu::village
 masidar-e sofla::village
 masidar::village
 masihabad::village
 masihat mahd al hayl::village
-masina::village
+masi maskanlu::village
+masi mordeh::village
 masinagudi::village
 masinan::village
+masina::village
 masineh::village
 masiniyeh-ye olya::village
 masiniyeh-ye sofla::village
+maşioba::village
 masir mahalleh::village
-masir::village
 masirpur::village
+masir::village
 masis::village
-masit::village
 masitala::village
+masit::village
 masjed abu ol fazl::village
-masjed pish::village
 masjed-e mahalleh::village
 masjed-e qabaqi::village
-masjed::village
 masjedin::village
 masjedlu::village
-mask::village
+masjed pish::village
+masjed::village
 mask:面具
 maskal::village
-maskan::village
 maskanah::village
+maskan::village
 maskar::village
 maskell::village
 maskenahatti::village
 maskhareh::village
 maskun::village
 maskupa::village
+mask::village
 maslavi::village
 maslenica::village
 maslinovo::village
 maslovare::village
+masłowiec::village
+masłów::village
+maṣnaʽah::village
+mašnica::village
 masoala::village
 mason city::village
 mason::village
@@ -2550,91 +2671,95 @@ massade-yirikoro::village
 massadougou::village
 massala-barala::village
 massalcoreig::village
+mässa::village
 massedena::village
 massejioun::village
 masset::village
 massiaru::village
 massipou::village
+massoniinae::plant
 massoteres::village
 massoudieh::village
 massu::village
-mast ali-ye olya::village
-mast ali-ye sofla::village
-mast bandi::village
 mast:桅杆
 mastakan::village
 mastala::village
+mast ali-ye olya::village
+mast ali-ye sofla::village
 mastamaradi::village
 mastamardi::village
 mastanabad::village
 mastapur::village
 mastara::village
+mąstautai::village
+mast bandi::village
 mastemoo::village
-master::village
 master:大师
-masti::village
+master::village
+mašte::village
 mastiholi::village
+masti::village
 masturah::village
 masturbate:手淫
 mastwijk::village
 masudi al safar::village
-masudi-ye do::village
 masudi::village
+masudi-ye do::village
 masudiyeh::village
 masueh::village
 masuleh khani::village
 masuleh::village
-masum kandi::village
 masumabad-e fenderesk::village
 masumabad::village
 masumiyeh::village
+masum kandi::village
 masur-e abi::village
-masur::village
 masurhi::village
 masuri::village
+masur::village
 maswela::village
 masyab::village
 maszenice::village
 maszków::village
-masłowiec::village
-masłów::village
-mata mondo::village
-mata no madh::village
-mata::village
 mataguži::village
 mataje::village
-matak::village
 matakoro::village
+matak::village
 matalapitiya::village
 matale polwatta::village
-matan kola::village
-matana::village
+mata mondo::village
 matanaq::village
+matana::village
 matani::village
+matan kola::village
+mata no madh::village
 matanza de soria::village
 matao::village
 mataruge::village
+mątasek::village
+mätasselja::village
 matauko::village
 matautu::village
-matay::village
+mata::village
 matayen::village
+matay::village
 match:匹配
 mate:伴侣
 matebeleng::village
+matehal::village
 mateh kharpeh::village
 mateh kola::village
-matehal::village
 mateikonys::village
 matekeh::village
 maten al-sahel::village
 matepatepa::village
 materewadi::village
 material:材料
+mateševo::village
 mateshovtsi::village
 matetsi::village
 mateuți::village
 mateverij::village
-mateševo::village
 matfallu::village
 matgamuwa::village
 matgaon::village
@@ -2649,35 +2774,36 @@ mathematician:数学家
 mathematics:数学
 matherville::village
 mathgamuwa::village
-mathi::village
 mathia nisf::village
 mathia::village
 mathikoloni::village
 mathilakam::village
+mathi::village
 mathola::village
 mathoo::village
 mathra::village
 mathukumalli::village
-mathur-i::village
-mathur-ii::village
-mathur::village
-mathura::village
 mathurapur::village
-mati kola::village
-mati::village
-matia::village
-matiar kuthi::village
+mathura::village
+mathur-ii::village
+mathur-i::village
+mathur::village
 matiaria::village
+matiar kuthi::village
 matiashi::village
 matiaszówka::village
+matia::village
 matibhanga::village
 matibidi::village
 matijevići::village
+mati kola::village
 matinabad::village
 matira::village
+mati::village
 matiyah::village
-matka::village
+mätja::village
 matkatpur::village
+matka::village
 matkestan::village
 matkunda::village
 matlapana::village
@@ -2685,38 +2811,47 @@ matleb::village
 matlhako::village
 matmari::village
 matnin::village
-mato correia::village
 matobo::village
+mato correia::village
 matogjin::village
 matoi::village
 matolli::village
 matool::village
 matopi::village
 matora::village
+mátraballa::village
+mátraderecske::village
+mátraháza::village
+mátramindszent::village
 matrampur::village
 matrand::village
 matranlu::village
+mátranovák::village
+mátraszentimre::village
+mátraszőlős::village
+mátraterenye::village
 matrauli::village
 matrix:矩阵
 matruh::village
 matsalu::village
 matselang::village
-matsi::village
 matsiloje::village
 matsiranna::village
 matsitama::village
+matsi::village
+ma tso lung::village
 matsuri::village
 mattampally::village
 mattaur::village
 mattawan::village
 mattersey::village
 matteson::village
+matthiola maderensis::plant
 mattigatti::village
 mattikoppa::village
 mattiwade::village
 mattoon::village
 mattu::village
-matu::village
 matui::village
 matuizos::village
 matukpur::village
@@ -2724,17 +2859,15 @@ matunuck::village
 maturata::village
 maturity:成熟
 matute::village
+matu::village
 matwani::village
+mátyásdomb::village
 matyldzin::village
-mau chirayal::village
-mau ping new village::village
-mau tat::village
-mau tso ngam::village
-mau::village
 maubara::village
 maubelo::village
-maud::village
+mau chirayal::village
 maudihan::village
+maud::village
 mauer::village
 mauga::village
 maujampur::village
@@ -2745,13 +2878,16 @@ mauli::village
 maunatlala::village
 maung nu::village
 maunie::village
+mau ping new village::village
 maura::village
 maurbojh::village
 mauritania:毛里塔尼亚
 mauritius:毛里求斯
 mauseidvåg::village
+mau tat::village
+mau tso ngam::village
+mau::village
 mauza kalri::village
-mava::village
 mavadi kadepathar::village
 mavai-ye olya::village
 mavai-ye sofla::village
@@ -2765,31 +2901,33 @@ mavardian::village
 mavarem kola::village
 mavarz::village
 mavas::village
+mava::village
 mavdar::village
 maveh::village
-mavi-ye olya::village
-mavi-ye sofla::village
-mavi::village
 mavian::village
 mavikent, kumluca::village
 mavillapadu::village
-mavin::village
 mavinahatti::village
 mavinakatti::village
 mavinakoppa::village
 mavinhonda::village
 mavinkurve::village
+mavin::village
+mavi::village
+mavi-ye olya::village
+mavi-ye sofla::village
 mavlan::village
 mavlu::village
 mavrata::village
 mavria::village
-mavrovi anovi::village
 mavrovë::village
+mavrovi anovi::village
 mawa gare::village
 mawai::village
 mawale wadi::village
 mawalgama::village
 mawalkot::village
+ma wan chung::village
 mawarah::village
 mawarida::village
 mawatagama::village
@@ -2800,8 +2938,8 @@ mawela::village
 mawgyan::village
 mawhun::village
 mawilmada::village
-mawla matar::village
 mawlaik::village
+mawla matar::village
 mawlynnong::village
 mawnan smith::village
 mawphlang::village
@@ -2813,17 +2951,16 @@ maxilla:上颌骨
 maximovca::village
 maximum:最大值
 maxwell::village
-may refer to:可以指
 may:可以
 maya beach village::village
 maya center::village
 mayakovski::village
+mayan:玛雅人
 mayan-e olya::village
 mayan-e sofla::village
 mayan-e vosta::village
-mayan::village
-mayan:玛雅人
 mayannur::village
+mayan::village
 mayasandra::village
 maybee::village
 maydaa::village
@@ -2835,65 +2972,64 @@ mayevka::village
 mayfadoun::village
 mayford::village
 mayhem:伤害罪
-mayi bas::village
 mayian dul::village
+mayi bas::village
 mayingin::village
 mayisyan::village
+mayıs::village
 maylybay::village
 maymak::village
 maynard's green::village
-mayo::village
 mayong::village
 mayor:市长
 mayoux::village
+mayo::village
 maypole::village
+may refer to:可以指
 maystorovo::village
 maytablı::village
 mayvan::village
 mayville::village
 maywood::village
 mayyu::village
-mayıs::village
+mazaalah::village
 maz abd ali-ye bala::village
 maz abd ali-ye pain::village
-maz mehrabad::village
-maz va langa sar::village
-maz::village
-mazaalah::village
 mazafa::village
 mazagh-e kurian::village
-mazaj::village
 mazajan::village
-mazal zamedi::village
-mazal::village
+mazaj::village
 mazalem kam::village
-mazan pad::village
+mazal::village
+mazal zamedi::village
 mazanabad::village
-mazandaran mahalleh-ye bahambar::village
+mazańcowice::village
 mazandaran mahalleh::village
+mazandaran mahalleh-ye bahambar::village
 mazandeh::village
 mazang::village
 mazanki::village
 mazanówka::village
-mazar hoseyni::village
-mazar-e bi abeh::village
-mazar-e seyyed ali::village
-mazar-e shah::village
-mazar-e shaheda::village
-mazar-suu::village
-mazar::village
+mazan pad::village
 mazara kalan::village
 mazara khurd::village
 mazara nauabad::village
 mazarandeh::village
 mazarchevo::village
+mazar-e bi abeh::village
+mazar-e seyyed ali::village
+mazar-e shaheda::village
+mazar-e shah::village
+mazar hoseyni::village
 mazari::village
 mazarlaq::village
 mazarostaq::village
+mazar-suu::village
+mazar::village
+máza::village
 mazavi::village
 mazayen::village
 mazayjan::village
-mazańcowice::village
 mazban::village
 mazbiksti::village
 mazda:马自达
@@ -2919,12 +3055,12 @@ mazeh-ye sardasht::village
 mazekan::village
 mazeleh::village
 mazer ab anari::village
-mazer zaouia::village
 mazerlan::village
-mazga::village
+mazer zaouia::village
 mazgah::village
 mazgan::village
 mazgar::village
+mazga::village
 mazgerd::village
 mazghu::village
 mazgit::village
@@ -2936,34 +3072,37 @@ mazhgeh::village
 mazhin mianeh sorkh::village
 mazhin::village
 mazhnabad::village
-mazi bon::village
-mazi gavabar::village
-mazi kalleh::village
 mazian::village
 maziaran::village
 maziarnia strzelecka::village
 mazibaleh-ye sofla::village
 maziben::village
-mazid::village
+mazi bon::village
 mazidabad::village
 mazidi::village
 mazidpur::village
+mazid::village
+mazi gavabar::village
 mazijan::village
 mazikaleh poshteh::village
+mazi kalleh::village
 mazikcheh::village
 mazim::village
-mazin::village
 mazinan::village
+mazin::village
+mazılık::village
+mazılı::village
+mazımçay::village
 mazjerd::village
 mazlaqan::village
 mazlina::village
 mazlumağa::village
+maz mehrabad::village
 mazomanie::village
 mazon::village
 mazowe::village
 mazowsze-parcele::village
 mazowsze::village
-mazra-e keymas::village
 mazraat al toufah::village
 mazraat assaf::village
 mazraat bani saab::village
@@ -2975,17 +3114,17 @@ mazraeh hamati::village
 mazraeh mashhadi::village
 mazraeh now::village
 mazraeh::village
+mazra-e keymas::village
 mazrah::village
 mazraleh::village
 mazravi::village
 mazrek::village
 mazres::village
 mazru::village
-mazu darreh::village
-mazu::village
 mazubaghsar::village
 mazubon-e olya::village
 mazubon-e sofla::village
+mazu darreh::village
 mazujdar::village
 mazujedar::village
 mazukaleh poshteh::village
@@ -2994,67 +3133,17 @@ mazunga::village
 mazuposhteh::village
 mazurowice::village
 mazutlu::village
+mazu::village
+maz va langa sar::village
+maz::village
 mazyak::village
 mazzer::village
 mazzolla::village
-mazılı::village
-mazılık::village
-mazımçay::village
-mačevo::village
-mačiuliškės::village
-mačkat::village
-mačvanski pričinović::village
-mağara::village
-mała cerkwica::village
-mała huta::village
-mała kamienica::village
-mała klonia::village
-mała komorza::village
-mała kępa::village
-mała nieszawka::village
-mała wieś dolna::village
-mała wieś górna::village
-mała wieś::village
-małaszewicze duże::village
-małaszewicze małe::village
-małaszewicze::village
-małe bedlenki::village
-małe budziska::village
-małe czyste::village
-małe gacno::village
-małe jarki::village
-małe leźno::village
-małe pułkowo::village
-małe radowiska::village
-małe rudy::village
-małe szczepanki::village
-małe Łunawy::village
-małe Łąkie::village
-małki::village
-małkowice::village
-małociechowo::village
-małocin::village
-małomin::village
-małowice::village
-małszyce::village
-małuszyn::village
-małuszów::village
-mały dólsk::village
-mały głęboczek::village
-mały mędromierz::village
-mały rudnik::village
-mańczyce::village
-maşanlı::village
-maşioba::village
-mašnica::village
-mašte::village
-mașcăuți::village
-maṣnaʽah::village
 mbakaou::village
 mbala::village
 mbaluko::village
-mbam::village
 mbamti-laïnde::village
+mbam::village
 mbaulwa::village
 mbaupunchi::village
 mbaupungwa::village
@@ -3071,8 +3160,11 @@ mbolo abetlanga::village
 mbolo::village
 mboma::village
 mbondjanga::village
+m'bonoua::village
+m'borla-dioulasso::village
 mbouanatsa::village
 mbouini::village
+m'brou::village
 mbuzini::village
 mcbaine::village
 mcbride::village
@@ -3082,15 +3174,14 @@ mccool junction::village
 mccullom lake::village
 mcfarland::village
 mcgrew::village
+m.chandargi::village
 mchomolo::village
 mchówek::village
 mclean::village
 mcnabb::village
-me too:我也是
-me-no-sen-you-no-come::village
 me:我
-mead::village
 meadow grove::village
+mead::village
 meal:餐
 mealsgate::village
 mean:意思是
@@ -3100,8 +3191,8 @@ mears ashby::village
 measure:测量
 measurement:测量
 measuring:测量
-meat grinder:磨肉机
 meat:肉
+meat grinder:磨肉机
 meathop::village
 meaus::village
 mebar::village
@@ -3121,14 +3212,14 @@ mechlenreuth::village
 mechode::village
 mecidiye::village
 mecidoba::village
+męcinka::village
 meckesheim::village
 mecloqualone:甲氯喹酮
 mecosta::village
 mecsekpölöske::village
-meda-ela::village
-meda::village
 medabedda::village
 medad::village
+meda-ela::village
 medagahawatura::village
 medagammedda::village
 medagoda::village
@@ -3137,12 +3228,14 @@ medakumbura::village
 medal:奖牌
 medamarthy::village
 medamud::village
-medana::village
 medanagra::village
+medana::village
+médan::village
 medapihilla::village
 medapititenna::village
 medapitiya::village
 medaram::village
+meda::village
 medawala::village
 medayakkottai::village
 medbowli::village
@@ -3157,21 +3250,20 @@ medetli::village
 medevtsi::village
 medgyesbodzás::village
 medhewadi::village
-medhi::village
 medhipalayam::village
-medi::village
-media::village
+medhi::village
 media:媒体
 mediabad::village
 median:中央的
 median income:中等收入
+media::village
+medical:医学的
 medical care:医疗护理
 medical college:医学院
 medical device:医疗设备
 medical purposes:医学目的
 medical school:医学校
 medical thermometer:体温计
-medical:医学的
 medication:药
 medicharla::village
 medicine:医学
@@ -3180,18 +3272,21 @@ medigeshi::village
 medikonduru::village
 medilla::village
 medilletenna::village
-medina::village
 medinaraopalem::village
+medina::village
 medingen::village
 medininkai::village
 medinipur::village
 medipalle::village
 mediriya::village
 mediterranean sea:地中海
+mediusella bernieri::plant
+medi::village
 mediwaka::village
 mediyapola::village
 medjber::village
 medkovets::village
+mędłów::village
 medomsley::village
 medora::village
 medovets::village
@@ -3199,6 +3294,7 @@ medovka::village
 medovo::village
 medpalli nakkerta::village
 medrow::village
+mędrzyce::village
 meduka::village
 medukha::village
 meduru::village
@@ -3214,13 +3310,12 @@ meelva::village
 meemaste::village
 meenachil::village
 meenadom::village
-meenakshi ram nagar::village
 meenakshipuram::village
+meenakshi ram nagar::village
 meenampatti::village
 meenankal::village
 meenur::village
 meepitiya::village
-meer::village
 meera nagar::village
 meerapalu::village
 meerapurhatti::village
@@ -3235,19 +3330,20 @@ meerle::village
 meerlo::village
 meerpur::village
 meersel-dreef::village
+meer::village
 meesal::village
 meet:遇见
 meeting:会议
 meeuwen::village
 mega dereio::village
-mega::village
 megagle::village
 megali doxipara::village
 megali sterna::village
 megaplatanos::village
+mega::village
 megchelen::village
-mege::village
 megesi::village
+mege::village
 meggyeskovácsi::village
 meghas::village
 meghipur::village
@@ -3256,26 +3352,23 @@ meghradzor::village
 meghrashat::village
 meghrashen::village
 meghvahovit::village
+megistostegium microphyllum::plant
+megistostegium perrieri::plant
 megra kalan::village
+méguibra::village
 megyaszó::village
 megyehíd::village
 mehalchauri::village
 mehama::village
-mehan::village
 mehane::village
-mehat::village
+mehan::village
 mehath::village
 mehatpur::village
+mehat::village
 mehbudi-ye olya::village
 mehbudi-ye sofla::village
-mehdi khanlu::village
-mehdi posti::village
-mehdi rajeh::village
-mehdi residential housing::village
-mehdi seyyed anayt::village
-mehdi soltan::village
-mehdiabad-e amin::village
 mehdiabad-e aminiyan::village
+mehdiabad-e amin::village
 mehdiabad-e bozorg::village
 mehdiabad-e jalaleh::village
 mehdiabad-e kalak shuran::village
@@ -3290,23 +3383,27 @@ mehdiabad-e vahed::village
 mehdiabad-e yek::village
 mehdiabad::village
 mehdiganj::village
+mehdi khanlu::village
 mehdikhan mahalleh::village
 mehdikhan::village
 mehdili::village
 mehdinlu::village
+mehdi posti::village
 mehdiqışlaq::village
+mehdi rajeh::village
+mehdi residential housing::village
+mehdi seyyed anayt::village
+mehdi soltan::village
 mehdiyeh::village
 mehenj::village
 mehide::village
-mehin::village
 mehinj::village
+mehin::village
 mehkuyeh-ye olya::village
 mehkuyeh-ye sofla::village
 mehleban::village
 mehli::village
 mehmadpur::village
-mehman duyeh::village
-mehman::village
 mehmanabad::village
 mehmanak::village
 mehmandar-e olya::village
@@ -3315,9 +3412,11 @@ mehmandar::village
 mehmandust-e olya::village
 mehmandust-e sofla::village
 mehmandust::village
+mehman duyeh::village
 mehmani::village
 mehmanlu::village
 mehmanshahr-e ahangaran::village
+mehman::village
 mehmedpur::village
 mehmetali::village
 mehmood shaheed::village
@@ -3327,54 +3426,54 @@ mehnajpur::village
 mehnan::village
 mehndipur::village
 mehneh::village
-mehr alikhani::village
-mehr azin::village
-mehr gerd::village
-mehr khowshan::village
-mehr saleh::village
-mehr-e olya::village
-mehr-e sofla::village
-mehr::village
-mehrab bazar::village
-mehrab::village
 mehrababad::village
 mehrabad::village
 mehraban::village
+mehrab bazar::village
+mehrab::village
 mehradaran::village
 mehragan-e bala::village
 mehragan-e pain::village
 mehrak::village
+mehr alikhani::village
 mehram::village
-mehran kushk::village
-mehran::village
 mehranabad::village
 mehranan-e heydari::village
 mehranan::village
 mehrandu::village
 mehranjan-e arameneh::village
+mehran kushk::village
+mehran::village
+mehr azin::village
 mehrchin::village
 mehrdasht::village
 mehregan::village
 mehregi::village
 mehrenjan-e otrak::village
 mehrenjan::village
+mehr-e olya::village
+mehr-e sofla::village
+mehr gerd::village
 mehrian::village
 mehrili::village
 mehrinabad::village
 mehrjan::village
+mehr khowshan::village
 mehrma::village
 mehrobod::village
 mehron::village
+mehr saleh::village
 mehrshani::village
 mehruiyeh-ye bala::village
 mehruiyeh-ye pain::village
+mehr::village
 mehrzamin::village
 mehsampur::village
 mehtar ahmad::village
-mehtar kalateh::village
-mehtar::village
 mehtaran::village
+mehtar kalateh::village
 mehtarlu::village
+mehtar::village
 mehtewal::village
 mehtiana::village
 mehura::village
@@ -3382,22 +3481,24 @@ meidoun::village
 meifogou::village
 meigle::village
 meikleour::village
+meiogyne hirsuta::plant
 meiosis:减数分裂
-meironiškiai::village
 meironiškėliai::village
+meironiškiai::village
 meisamia::village
 meisdorf::village
 meiss ej jabal::village
 meitze::village
 meiuste::village
 meivazhi salai::village
-mej::village
 mejandeh::village
 mejdeni::village
 mejia::village
 mejin::village
 mejmir::village
+mej::village
 mekalmaradi::village
+mękarzowice::village
 mekekler::village
 mekhadiri::village
 mekiši kod kaštelira::village
@@ -3405,19 +3506,154 @@ mekiši kod vižinade::village
 melachittakadu::village
 meladeia::village
 melagiai::village
+melaharbeyg::village
 melah bid::village
 melah kabud::village
 melah rash::village
 melah tulat::village
-melaharbeyg::village
 melakabisthalam::village
 melakalakudi::village
 melakalani::village
 melakaveri::village
 melakkal::village
 melakorukkai::village
-meland::village
+melaleuca acutifolia::plant
+melaleuca adenostyla::plant
+melaleuca amydra::plant
+melaleuca apodocephala::plant
+melaleuca araucarioides::plant
+melaleuca atroviridis::plant
+melaleuca barlowii::plant
+melaleuca basicephala::plant
+melaleuca beardii::plant
+melaleuca bisulcata::plant
+melaleuca boeophylla::plant
+melaleuca borealis::plant
+melaleuca bromelioides::plant
+melaleuca brophyi::plant
+melaleuca caeca::plant
+melaleuca calcicola::plant
+melaleuca calothamnoides::plant
+melaleuca calyptroides::plant
+melaleuca campanae::plant
+melaleuca carrii::plant
+melaleuca cheelii::plant
+melaleuca clavifolia::plant
+melaleuca cliffortioides::plant
+melaleuca concreta::plant
+melaleuca condylosa::plant
+melaleuca cordata::plant
+melaleuca croxfordiae::plant
+melaleuca delta::plant
+melaleuca dempta::plant
+melaleuca densispicata::plant
+melaleuca depressa::plant
+melaleuca diosmifolia::plant
+melaleuca eleuterostachya::plant
+melaleuca eulobata::plant
+melaleuca eurystoma::plant
+melaleuca eximia::plant
+melaleuca exuvia::plant
+melaleuca fabri::plant
+melaleuca ferruginea::plant
+melaleuca fissurata::plant
+melaleuca fluviatilis::plant
+melaleuca foliolosa::plant
+melaleuca genialis::plant
+melaleuca glaberrima::plant
+melaleuca glena::plant
+melaleuca grieveana::plant
+melaleuca halophila::plant
+melaleuca hamata::plant
+melaleuca hamulosa::plant
+melaleuca hnatiukii::plant
+melaleuca hollidayi::plant
+melaleuca holosericea::plant
+melaleuca huttensis::plant
+melaleuca idana::plant
+melaleuca incana'' subsp. ''tenella::plant
+melaleuca interioris::plant
+melaleuca johnsonii::plant
+melaleuca laetifica::plant
+melaleuca lara::plant
+melaleuca lasiandra::plant
+melaleuca lateralis::plant
+melaleuca lazaridis::plant
+melaleuca lecanantha::plant
+melaleuca leptospermoides::plant
+melaleuca leuropoma::plant
+melaleuca linariifolia::plant
+melaleuca linguiformis::plant
+melaleuca linophylla::plant
+melaleuca longistaminea::plant
+melaleuca lophocoracorum::plant
+melaleuca lutea::plant
+melaleuca manglesii::plant
+melaleuca megacephala::plant
+melaleuca microphylla::plant
+melaleuca monantha::plant
+melaleuca montis-zamia::plant
+melaleuca ochroma::plant
+melaleuca oldfieldii::plant
+melaleuca orbicularis::plant
+melaleuca ordinifolia::plant
+melaleuca osullivanii::plant
+melaleuca pallescens::plant
+melaleuca papillosa::plant
+melaleuca parvistaminea::plant
+melaleuca penicula::plant
+melaleuca pentagona::plant
+melaleuca phoidophylla::plant
+melaleuca phratra::plant
+melaleuca platycalyx::plant
+melaleuca podiocarpa::plant
+melaleuca pomphostoma::plant
+melaleuca pritzelii::plant
+melaleuca procera::plant
+melaleuca psammophila::plant
+melaleuca punicea::plant
+melaleuca pyramidalis::plant
+melaleuca ringens::plant
+melaleuca ryeae::plant
+melaleuca sabrina::plant
+melaleuca sapientes::plant
+melaleuca scalena::plant
+melaleuca sclerophylla::plant
+melaleuca sculponeata::plant
+melaleuca sericea::plant
+melaleuca serpentina::plant
+melaleuca shiressii::plant
+melaleuca similis::plant
+melaleuca societatis::plant
+melaleuca sophisma::plant
+melaleuca spectabilis::plant
+melaleuca sphaerodendra::plant
+melaleuca spicigera::plant
+melaleuca squamophloia::plant
+melaleuca stereophloia::plant
+melaleuca stipitata::plant
+melaleuca stramentosa::plant
+melaleuca striata::plant
+melaleuca subalaris::plant
+melaleuca subtrigona::plant
+melaleuca subulata::plant
+melaleuca sylvana::plant
+melaleuca teretifolia::plant
+melaleuca teuthidoides::plant
+melaleuca thapsina::plant
+melaleuca thymoides::plant
+melaleuca tinkeri::plant
+melaleuca torquata::plant
+melaleuca tortifolia::plant
+melaleuca trichostachya::plant
+melaleuca triumphalis::plant
+melaleuca ulicoides::plant
+melaleuca uxorum::plant
+melaleuca vinnula::plant
+melaleuca violacea::plant
+melaleuca williamsii::plant
 melandsjøen::village
+meland::village
 melapalur::village
 melapattu::village
 melaseithalai::village
@@ -3435,6 +3671,7 @@ meldewa::village
 meldon::village
 melee:混战
 meleh abgir::village
+melehaneh::village
 meleh avareh::village
 meleh beyglar::village
 meleh chah shureh::village
@@ -3447,36 +3684,62 @@ meleh khvoish-e sofla::village
 meleh seleh-ye olya::village
 meleh sheykh::village
 meleh shitab::village
-meleh sorkh::village
 meleh sorkheh::village
+meleh sorkh::village
+meleh::village
 meleh-ye amiri::village
 meleh-ye balut::village
 meleh-ye hasan boqeh::village
 meleh-ye posht-e sar takht::village
 meleh-ye shabanan::village
 meleh-ye vali::village
-meleh::village
-melehaneh::village
 melekeduri::village
 melenikitsi::village
 melerd::village
+meleșeni::village
 meleski::village
 meletmez::village
-meleșeni::village
 melfjordbotn::village
 melfort, zimbabwe::village
+melhania angustifolia::plant
+melhania annua::plant
+melhania burchellii::plant
+melhania damarana::plant
+melhania dehnhardtii::plant
+melhania didyma::plant
+melhania forbesii::plant
+melhania integra::plant
+melhania latibracteolata::plant
+melhania ovata::plant
+melhania parviflora::plant
+melhania phillipsiae::plant
+melhania polygama::plant
+melhania polyneura::plant
+melhania randii::plant
+melhania rehmannii::plant
+melhania rotundata::plant
+melhania substricta::plant
+melhania suluensis::plant
+melhania transvaalensis::plant
+melhania velutina::plant
+melhania virescens::plant
+melhania volleseniana::plant
 melhu azim khan::village
 meliandou::village
 meliaputti::village
 melick::village
+melicope accedens::plant
+melicope denhamii::plant
+melicope latifolia::plant
+melicope triphylla::plant
 melikgyugh::village
 melikli::village
-melikumud::village
 melikşah, Çubuk::village
+melikumud::village
 melini::village
 meliskerke::village
-melissa::village
 melissant::village
+melissa::village
 melissia::village
 meliti::village
 melkhas::village
@@ -3486,17 +3749,20 @@ melleh kangun::village
 melleh khik andeh::village
 melleh-ye gurab::village
 melli dara::village
-melli kandi::village
-melli::village
 mellij galleh::village
+melli kandi::village
 mellikeri::village
+melli::village
 mellor::village
 mellu-e olya::village
 melmangalam::village
 melnedumbur::village
+mełno-cukrownia::village
+mełno::village
 melon:瓜
 melopsittacus undulatus:虎皮鹦鹉
 melounta::village
+mëlovë::village
 melpathy::village
 melrose park::village
 melrose::village
@@ -3507,31 +3773,20 @@ melt:融化
 melton::village
 melverley::village
 melvich::village
-melvin::village
 melvina::village
+melvin::village
 melyane::village
 memadangu::village
-member of parliament:国会议员
 member:成员
+member of parliament:国会议员
 members:成员
 membrane:膜
-meme::village
 memeceler::village
+meme::village
 memorial:纪念碑
 memory:记忆
 memshi::village
-men-rongong::village
 men:男人们
-men's basketball:男子篮球
-men's basketball coach:男子篮球教练
-men's basketball team:男子篮球队
-men's basketball tournament:男子篮球联赛
-men's footballers:男子足球运动员
-men's ice hockey:男子冰球
-men's soccer:男子足球
-men's soccer players:男子足球运动员
-men's volleyball:男子排球
-men's world record:男子世界记录
 menaam::village
 menafabad::village
 menagarai::village
@@ -3546,10 +3801,9 @@ menaruyeh::village
 menazel sazmani::village
 mencshely::village
 mencui::village
-mend::village
 mendauli::village
-mende, hungary::village
 mendegali::village
+mende, hungary::village
 mendeira::village
 mendejin::village
 mendenitsa::village
@@ -3558,41 +3812,56 @@ mendhewadi::village
 mendiguren::village
 mendil::village
 mendlesham::village
-mendon::village
 mendonk::village
+mendon::village
 mendora::village
 mendori::village
 mendovo::village
 mendrak::village
+mend::village
+ménéké::village
 meneou::village
-meng-u::village
 mengra::village
 mengujuma::village
+meng-u::village
 menikbowa::village
 menikhinna town::village
 meniko::village
-menj-e shirin::village
+mënik::village
 menjab-e jadid::village
 menjab-e qadim::village
 menjan::village
+menj-e shirin::village
 menlough::village
 menogeia::village
 menoio::village
 menominee::village
 menomonee falls::village
 menopause:更年期
+me-no-sen-you-no-come::village
+men-rongong::village
 mensanello::village
 mensano::village
+men's basketball:男子篮球
+men's basketball coach:男子篮球教练
+men's basketball team:男子篮球队
+men's basketball tournament:男子篮球联赛
 menses:月经
+men's footballers:男子足球运动员
+men's ice hockey:男子冰球
+men's soccer:男子足球
+men's soccer players:男子足球运动员
 menstrie::village
 menstruation:月经
+men's volleyball:男子排球
+men's world record:男子世界记录
 mentada::village
+mental:心理的
 mental disorder:精神紊乱
 mental health:心理健康
 mental illness:精神病
-mental:心理的
-menteş::village
 menteşeler, köşk::village
+menteş::village
 mention:提到
 menu:菜单
 menukin::village
@@ -3607,31 +3876,32 @@ meppen::village
 meppuliyur::village
 meqas-e jadid::village
 meqas-e qadim::village
-mer rouge::village
-mera ransinke::village
 merada::village
 merag::village
+meraïel::village
 meraka chamavaram::village
 merakamudidam::village
 meraldene::village
 meranges::village
 meransen::village
+mera ransinke::village
 merash::village
 merati::village
-meraïel::village
+méra::village
 mercan::village
 mercer::village
 merchicha::village
-mercimek::village
 mercimekli::village
-mercury:水星
+mercimek::village
 mercury:汞
-mercy::village
+mercury:水星
 mercy:仁慈
+mercy::village
 merd-e now::village
 merdinli::village
 merdivenli::village
 merdzavan::village
+mereäärse::village
 meredosia::village
 mereg::village
 merehta::village
@@ -3639,20 +3909,20 @@ meremäe::village
 meremõisa::village
 merenii noi::village
 merenye::village
-meres::village
-meresht::village
-mereäärse::village
 mereșeuca::village
+meresht::village
+meres::village
 merge:合并
+mérges::village
 mergežeris::village
 merha::village
-meri::village
 meria::village
 meriküla::village
 merille::village
 merinos::village
 merise::village
 meritxell::village
+meri::village
 merixen::village
 merja::village
 merkelbeek::village
@@ -3665,11 +3935,12 @@ merna::village
 mernye::village
 merotte::village
 merraul::village
-merrill::village
 merrillan::village
+merrill::village
 merrimac::village
 merriman::village
 merrionette park::village
+mer rouge::village
 merrymeet::village
 merscheid::village
 merseh::village
@@ -3678,22 +3949,27 @@ mersinbelen::village
 mertoutek::village
 merwin::village
 mesa chorio::village
-mesan::village
-mesana::village
 mesanagros::village
+mesana::village
+mesan::village
 mesch::village
 mesciler::village
 mescitli, nazilli::village
 mesedeh::village
+meşeler, Çamlıdere::village
 meseleroi::village
+meşeliçiftliği::village
+meşeli, Çubuk::village
+meșeni::village
 mesen::village
 meserkhan::village
 meserqan::village
 meses thermes::village
-mesgar::village
+meşəli::village
 mesgarabad::village
 mesgaran::village
 mesgari::village
+mesgar::village
 meshadilyar::village
 meshaneh::village
 meshaoba::village
@@ -3702,40 +3978,42 @@ meshelsheh-ye olya::village
 meshelsheh-ye sofla::village
 meshgin jiq::village
 meshik::village
-meshk abdan::village
-meshk-e anbar::village
-meshka posht::village
 meshkabad-e bala::village
 meshkabad-e pain::village
 meshkabad-e qadim::village
-meshkan::village
+meshk abdan::village
 meshkanlu::village
+meshkan::village
+meshka posht::village
+meshk-e anbar::village
 meshkenan::village
 meshkenar::village
+meshkinabad::village
 meshkin tappeh::village
 meshkin::village
-meshkinabad::village
 meshtin::village
 mesick::village
-mesinak::village
 mesić::village
-meskin::village
+mesinak::village
 meskinabad-e olya::village
+meskin::village
 meskla::village
+meškučiai (varėna)::village
+mėšliai::village
 mesnali::village
 mesogi::village
 mesovouni::village
 mesovracho::village
-mesr dasht::village
-mesr::village
-mesra::village
 mesrabad::village
+mesra::village
+mesr dasht::village
 mesrlu::village
-mess hall:军队食堂
+mesr::village
 message:消息
 messenger:信使
-mesta::village
+mess hall:军队食堂
 mestan::village
+mesta::village
 mesterháza::village
 mesteri::village
 mestervik::village
@@ -3788,61 +4066,63 @@ metlichka::village
 metlika::village
 metodievo::village
 metohiya::village
+me too:我也是
 metoq::village
 metre:米
 metric:度量
 metriš::village
 metro:地铁
-mets ayrum::village
-mets mantash::village
-mets masrik::village
-mets sariar::village
-mets sepasar::village
-mets taghlar::village
+metsaääre::village
 metsadzor::village
 metsakasti::village
 metsaküla::village
 metsalaane::village
 metsalauka::village
 metsalõuka::village
-metsamor::village
 metsamägara::village
+metsamor::village
 metsanurga::village
 metsanurme::village
 metsapere::village
 metsapoole::village
 metsara::village
-metsavan::village
 metsavälja::village
-metsaääre::village
+metsavan::village
+mets ayrum::village
 metsiku::village
 metsimotlhabe::village
 metskaevu::village
 metsküla::village
 metsla::village
 metslõugu::village
+mets mantash::village
+mets masrik::village
+mets sariar::village
+mets sepasar::village
+mets taghlar::village
 metstaguse::village
 mettammal::village
 mettawa::village
 metyal::village
 metz::village
 mevik::village
-mewa singhwala::village
 mewali::village
+mewa singhwala::village
 mewindo::village
 mewundi::village
-mexican:墨西哥人
 mexican:墨西哥的
+mexican:墨西哥人
 mexico:墨西哥
 meyab::village
 meyance::village
 meyaneh::village
-meydan jiq::village
-meydan khalaf::village
-meydan sar-e keshteli::village
-meydan sar::village
-meydan tarreh barahvaz::village
+meydanak-e bozorg::village
+meydanak-e kuchak::village
+meydanak::village
+meydancık::village
+meydandere::village
 meydan-e bozorg::village
+meydaneh::village
 meydan-e jigh-e kuchak::village
 meydan-e khodaverdi::village
 meydan-e mozaffarkhan::village
@@ -3851,14 +4131,13 @@ meydan-e sofla::village
 meydan-e tafalli::village
 meydan-e tayyareh::village
 meydan-e tirzhandarmari::village
-meydan::village
-meydanak-e bozorg::village
-meydanak-e kuchak::village
-meydanak::village
-meydancık::village
-meydandere::village
-meydaneh::village
+meydan jiq::village
+meydan khalaf::village
 meydanlar::village
+meydan sar-e keshteli::village
+meydan sar::village
+meydan tarreh barahvaz::village
+meydan::village
 meydar-e olya::village
 meydavud-e olya::village
 meydavud-e sofla::village
@@ -3878,77 +4157,91 @@ meymah::village
 meymanatabad::village
 meymand::village
 meymaz::village
-meymun baz::village
-meymun darreh::village
 meymunabad::village
 meymunak::village
 meymunaq::village
+meymun baz::village
+meymun darreh::village
 meymuneh::village
 meyniman::village
 meyong::village
 meyqan::village
-meysam depot::village
 meysamabad::village
+meysam depot::village
 meyvaleh::village
 meyvalı::village
-meyvan::village
 meyvanah::village
+meyvan::village
 meyyem::village
 mezajin::village
 mezala::village
-mezan::village
 mezang::village
+mezan::village
 mezdeh::village
-mezek::village
 mezeköy, köşk::village
+mezek::village
 mezerj::village
-mezg::village
+mëzez::village
 mezgalji::village
+mezg::village
 mezhdurechenskoe::village
 mezhirichi::village
 mezhuveli::village
 mezhyrichchya::village
+mežinieki::village
 mezinovac::village
 mezmazak::village
 mezo basa::village
-mezoma::village
-mezraa::village
-mezraku::village
-mezran::village
-mezzana::village
 mezőcsokonya::village
 mezőfalva::village
 mezőkomárom::village
 mezőlak::village
+mezoma::village
 mezőnagymihály::village
 mezőnyárád::village
+mezőörs::village
 mezőszemere::village
 mezőszentgyörgy::village
 mezőszilas::village
 mezőtárkány::village
 mezőzombor::village
-mezőörs::village
-mełno-cukrownia::village
-mełno::village
-meşeler, Çamlıdere::village
-meşeli, Çubuk::village
-meşeliçiftliği::village
-meşəli::village
-meškučiai (varėna)::village
-mežinieki::village
-meșeni::village
+mezraa::village
+mezraku::village
+mezran::village
+mezzana::village
+məhrablı::village
+məlcək::village
+məlikəhmədli::village
+məlikli::village
+məmər::village
+məmişlər::village
+məmmədli::village
+məmmədsəfi::village
+məmməduşağı::village
+məmmədxanlı::village
+məncəroba::village
+mərcimək::village
+mərdanlı::village
+mərzili::village
+məşədiismayıllı::village
+məşədiqulular::village
+məşədivəlilər::village
+məsimlər::village
+məstalıbəyli::village
+məzəm::village
+məzrə::village
+mġarr::village
 mgoszcz::village
 mgowo::village
-mhai::village
 mhaikam::village
 mhainamtsi::village
+mhai::village
 mhasad::village
 mhasane::village
 mhasawad::village
 mhaskewadi::village
 mhasurne::village
 mheer::village
-mi kola::village
 miab::village
 miadzhik::village
 miadzin::village
@@ -3958,9 +4251,17 @@ miamere::village
 miamete adoum::village
 miami shores::village
 miami::village
+mianabad-e malek::village
+mianabad::village
 mian ab::village
+miana gondal::village
+mianaj::village
+mianak::village
+miana::village
 mian bal::village
 mian band::village
+mianbar::village
+mianbazar::village
 mian bazur::village
 mian bisheh::village
 mian bura::village
@@ -3969,112 +4270,104 @@ mian chenar-e mazkur::village
 mian chilan::village
 mian choqa::village
 mian daj mahalleh::village
-mian dar zarneh::village
+miandaraq::village
 mian darreh jowkar::village
 mian darreh::village
+miandarreh::village
+miandar::village
+mian dar zarneh::village
 mian dasht::village
+miandasteh::village
+miandehi::village
 mian deh::village
+miandeh::village
+miandeh-ye pain::village
+miandoab::village
 mian do kuh::village
 mian dowhan-e olya::village
 mian dowhan-e sofla::village
+miandy::village
+mianeh::village
+mianeh-ye jenjan::village
+mianeh-ye kord ahmad::village
+mianej::village
 mian farirud::village
 mian galalan::village
 mian galleh::village
+miangaran-e olya::village
+miangaran-e sofla::village
+miangaran::village
+miangaskar::village
 mian gavaber::village
 mian hanziran::village
+miani bahadur::village
+miani bhagu purian::village
+miani::village
+mianju ahmadabad::village
 mian kabud-e qasem::village
 mian kal::village
 mian kasiady::village
 mian khan::village
 mian kharreh-ye bala::village
-mian kol::village
+mianki::village
 mian kolmarz::village
+mian kol::village
+miankuh mahalleh::village
+miankuh sadat::village
 mian kuh::village
+miankuh::village
 mian lat::village
 mian lengeh::village
+mian mahalleh::village
 mian mahalleh-ye chaf gavieh::village
 mian mahalleh-ye gafsheh::village
 mian mahalleh-ye golrudbar::village
 mian mahalleh-ye pap kiadeh::village
 mian mahalleh-ye rudbaneh::village
 mian mahalleh-ye zakleh bar::village
-mian mahalleh::village
 mian maleh abbasabad::village
 mian margh::village
 mian marz::village
 mian melk::village
 mian mil::village
+mianpilun::village
 mian poshteh::village
-mian qaleh-ye talani::village
 mian qaleh::village
+mian qaleh-ye talani::village
 mian rah-e jaber::village
 mian rah::village
+mianraz::village
 mian rostaq::village
 mian rud ab::village
-mian rud-e zaruni::village
-mian rud::village
 mian rudan-e yek::village
 mian rudan::village
+mianrudan::village
 mian rudbar::village
+mian rud-e zaruni::village
+mian rud::village
+mianrud::village
 mian sara::village
+miansarvan-e zardalan::village
 mian shekar kesh::village
 mian tagan::village
 mian talak::village
 mian talan::village
 mian talar hoseyni::village
-mian tang::village
 mian tangan::village
+miantang-e olya::village
+miantang-e sofla::village
+mian tang::village
+miantu::village
+mian::village
 mian volan-e olya::village
 mian volan-e sofla::village
 mian volan-e vosta::village
-mian yili::village
-mian zamin::village
-mian::village
-miana gondal::village
-miana::village
-mianabad-e malek::village
-mianabad::village
-mianaj::village
-mianak::village
-mianbar::village
-mianbazar::village
-miandar::village
-miandaraq::village
-miandarreh::village
-miandasteh::village
-miandeh-ye pain::village
-miandeh::village
-miandehi::village
-miandoab::village
-miandy::village
-mianeh-ye jenjan::village
-mianeh-ye kord ahmad::village
-mianeh::village
-mianej::village
-miangaran-e olya::village
-miangaran-e sofla::village
-miangaran::village
-miangaskar::village
-miani bahadur::village
-miani bhagu purian::village
-miani::village
-mianju ahmadabad::village
-mianki::village
-miankuh mahalleh::village
-miankuh sadat::village
-miankuh::village
-mianpilun::village
-mianraz::village
-mianrud::village
-mianrudan::village
-miansarvan-e zardalan::village
-miantang-e olya::village
-miantang-e sofla::village
-miantu::village
 mianwal araian::village
 mianwala::village
-mianzu::village
+mian yili::village
+mian zamin::village
 mianzulan::village
+mianzu::village
 miar kola::village
 miaskowo::village
 miastowice::village
@@ -4082,25 +4375,25 @@ miavaq::village
 mibaran::village
 micciano::village
 mice:老鼠
-mich::village
+mičevec::village
 michael:迈克尔
 michaelston-le-pit::village
 michak::village
 michale::village
 michalin::village
 michalitsi::village
-michalków::village
-michan::village
-michata::village
-michatun::village
 michałki-kolonia::village
 michałki::village
 michałkowa::village
 michałkowo::village
+michalków::village
 michałowice::village
+michałówka::village
 michałowo::village
 michałów::village
-michałówka::village
+michan::village
+michata::village
+michatun::village
 michelago::village
 michelangelo:米开朗基罗
 michelbeke::village
@@ -4110,9 +4403,10 @@ michiana::village
 michigan:密西根
 michkar::village
 michkovtsi::village
+michów::village
 michqavan-e olya::village
 michqavan-e sofla::village
-michów::village
+mich::village
 micielno::village
 miciurin::village
 mickleham::village
@@ -4122,47 +4416,51 @@ microanatomy:微观解剖学
 microbe:微生物
 microbial:微生物的
 microbiologist:微生物学家
+microcorys barbata::plant
+microdesmis caseariifolia::plant
 micrometer:微米
 micrometers:微米
 micronesia:密克罗尼西亚
+micropus californicus::plant
 microscope:显微镜
+microscopic:微观的
 microscopic anatomy:微观解剖学
 microscopic size:微观大小
-microscopic:微观的
 microsecond:微妙
 microsoft:微软
-mid calder::village
+mićunovo::village
 midakanatti::village
 midalam::village
 midan morad::village
+mid calder::village
 midday:中午
 middelbeers::village
 middeldrift::village
 middelie::village
 middenmeer::village
+middle:中间的
 middle age:中年
 middle ages:中世纪
 middle assendon::village
 middle chinnock::village
 middle east:中东
-middle english literature:中古英语文学
 middle english:中世纪英语
+middle english literature:中古英语文学
 middle handley::village
 middle lake::village
-middle side::village
-middle wallop::village
-middle:中间的
 middlepits::village
+middle side::village
 middlestone moor::village
 middlestone::village
-middleton on the hill::village
 middleton one row::village
+middleton on the hill::village
 middleton priors::village
 middleton::village
 middletown::village
+middle wallop::village
 middridge::village
-mide::village
 mideniya::village
+mide::village
 midhatana palli::village
 midhopestones::village
 midjan::village
@@ -4171,36 +4469,45 @@ midlothian::village
 midlum::village
 midnight:午夜
 midsund::village
-midterm election:中期选举
 midterm:中期
+midterm election:中期选举
 miduk::village
 midul::village
+miðvágur::village
 midwolda::village
 midwoud::village
 miechowice duże::village
 miechowice oławskie::village
 miechowice::village
 miechów::village
+mięcierzyn-leśniczówka::village
+mięcierzyn::village
 mieczkowo::village
 mieczków::village
 mieczysławowo::village
 miedziana::village
 miedzno::village
+międzygórze::village
+międzyleś::village
+międzyrzecze dolne::village
+międzyrzecze górne::village
+międzyrzecze::village
+międzyświeć::village
 miegėnai::village
 mieh kumeh::village
+mielęcin::village
 mielenko::village
 mielinek::village
 mieliwo::village
 mielnik::village
 mielno::village
 mielupiai::village
-mielęcin::village
 miemo::village
 mienice::village
 mierczyce::village
 mierogoniewice::village
-mierucin::village
 mierucinek::village
+mierucin::village
 mierzowice::village
 mierzwin::village
 mierzynek::village
@@ -4224,61 +4531,60 @@ migonys::village
 migrate:迁徙
 migration:迁徙
 miguelete::village
-mih lachache::village
-mih moulahoum::village
+mihăileni::village
 mihailovca::village
 mihajas-cirmë::village
 mihajlovo::village
+miháld::village
 mihalich, haskovo province::village
 mihalj::village
 mihaltsi::village
+mihályfa::village
+mihályháza::village
+mihályi::village
 mihamleh-ye olya::village
 mihamleh-ye sofla::village
 mihanabad::village
 mihaylovtsi::village
 miheto::village
 mihkli::village
+mih lachache::village
 mihman-e shahr soltaniyeh::village
+mih moulahoum::village
 mihnevo::village
 mihotići::village
 mihove::village
 mihovtsi::village
 mihrap::village
 mihuleni::village
-miháld::village
-mihályfa::village
-mihályháza::village
-mihályi::village
-mihăileni::village
 miiduranna::village
 miikse::village
 miila::village
-mij::village
+mijači::village
 mijakovce::village
 mijakovići::village
+mijandi::village
 mijan-e olya::village
 mijan-e sofla::village
-mijan::village
-mijandi::village
 mijannah::village
+mijan::village
 mijar::village
-mijači::village
 mijlar::village
 mijnatun::village
-mik::village
+mij::village
+mikailabad::village
 mikail darrehsi::village
 mikail::village
-mikailabad::village
-mikal::village
 mikalabad::village
+mikal::village
 mikandi::village
 mikanowo a::village
 mikanowo b::village
-mike::village
 mike:迈克
 mikebuda::village
 mikekarácsonyfa::village
 mikelrypsh::village
+mike::village
 mikhak::village
 mikhayelovka::village
 mikhaylovka::village
@@ -4286,83 +4592,83 @@ mikhaylovskoye::village
 mikhran::village
 mikitamäe::village
 miklavec::village
-miklusėnai::village
 miklósi::village
+miklusėnai::village
+mikófalva::village
+mikóháza::village
+mikołajki::village
+mikołajowice::village
+mikołajów::village
+mikołajskie::village
 mikolan::village
+mi kola::village
+mikołeska::village
 mikorzyce::village
 mikosszéplak::village
 mikoszowa::village
 mikoszów::village
 mikouya::village
-mikołajki::village
-mikołajowice::village
-mikołajskie::village
-mikołajów::village
-mikołeska::village
 mikre::village
 mikrevo::village
 mikrolimni::village
 mikrolithos::village
-miku::village
 mikulishki::village
 mikułowa::village
 mikušnica::village
-mikófalva::village
-mikóháza::village
-mil aghardan::village
-mil gaz::village
-mil pay mil::village
-mil qader-e olya::village
-mil qader-e sofla::village
-mil saidi::village
-mil sefid::village
-mil::village
-mila gerd::village
+miku::village
+mik::village
 milab::village
+miłachówek::village
 miladinovci::village
 miladinovo::village
 miladinovtsi::village
 milagainiai::village
+mila gerd::village
+mil aghardan::village
 milajerd::village
-milak::village
 milaki::village
+milak::village
 milan-e baba ahmadi::village
-milan::village
 milanlu-ye olya::village
 milanlu-ye sofla::village
 milanovac::village
 milanovo::village
+milan::village
 milaq::village
-milas::village
 milash::village
+milas::village
 milatun::village
 milbech::village
 milbrodale::village
+miłcz::village
 mild:温和的
 mildam::village
 mildera::village
 mile 25 village::village
 mile:英里
 milea::village
+milęcice::village
 mileh khan::village
-mileh sar::village
 mileh sara::village
+mileh sar::village
 mileh::village
 milejowice::village
 milejszeg::village
+mileševo::village
 miles green::village
+milești::village
 mileszewy::village
 mileszyn::village
 milevtsi::village
 milewo::village
-mileševo::village
-milești::village
 milfield::village
 milford station::village
 milford::village
+mil gaz::village
 milhah::village
 milho branco::village
 milia::village
+miliće::village
 milici::village
 milies::village
 milig::village
@@ -4374,30 +4680,27 @@ milin::village
 miliszewy::village
 militant:好战的
 militarism:军国主义
+military:军队
 military base:军事基地
 military confrontation:军事对抗
 military coup:军事政变
 military deployment:军事部署
 military parade:阅兵
-military:军队
-miliće::village
-milje::village
 miljevac::village
 miljevci::village
 miljevići::village
+milje::village
 milk:牛奶
 milkaylovka::village
 milkeh-ye baqer::village
 milkeh-ye buchan::village
 milkeh-ye shir khan::village
-milki::village
 milking:挤奶
+milki::village
 milkovtsi::village
+miłków::village
 milkpo::village
 milkwall::village
-mill creek::village
-mill spring::village
-mill::village
 mill:磨坊
 milla, burkina faso::village
 milladore::village
@@ -4405,35 +4708,58 @@ millapitiya::village
 millard::village
 millawana ihalagama::village
 millawana::village
-mille leux::village
+mill creek::village
 milledgeville::village
-miller::village
+mille leux::village
 miller:磨坊主
 millersburg::village
+miller::village
 milles::village
-millhouse::village
 millhousebridge::village
+millhouse::village
 milligan::village
 millimeter:毫米
 millimeters:毫米
 millimetre:毫米
 millimetres:毫米
 millington::village
-million years ago:百万年前
 million:百万
+million years ago:百万年前
 millisecond:毫秒
+mill spring::village
 millstadt::village
-milltown::village
 milltownpass::village
+milltown::village
+mill::village
 milman::village
 milmilak::village
-milo::village
-milochov::village
-milotski breg::village
+miłobędzyn::village
 miločani::village
+milochov::village
+miłochowice::village
+miłochów::village
+miłocice małe::village
+miłocice::village
+miłogostowice::village
+miłogoszcz::village
+miłonowice::village
+miłonów::village
+miłoradzice::village
 milošev do::village
+miłosławice::village
+miłosna::village
+miłoszów::village
+miłoszyce::village
+milotski breg::village
+milo::village
+miłowice::village
+mil pay mil::village
 milpo::village
+mil qader-e olya::village
+mil qader-e sofla::village
+mil saidi::village
 milsbeek::village
+mil sefid::village
 miltiņi::village
 milton bridge::village
 milton combe::village
@@ -4441,33 +4767,37 @@ milton regis::village
 milton::village
 milunići::village
 miluyeh::village
+mil::village
 milvydai::village
 milyanfan::village
-milzkalne::village
-milęcice::village
-milżynek::village
 milžemiai::village
-mim khan::village
+milzkalne::village
+milżynek::village
 mimainiai::village
 mimbung::village
 mimic:模仿
+mim khan::village
 mimowola::village
+mimulopsis elliotii::plant
+mimulopsis solmsii::plant
 mimura::village
 mimure::village
-mina khun::village
-mina parian::village
-mina::village
-minab::village
 minabad::village
+minab::village
 minaičiai::village
+mina khun::village
 minak::village
-minan::village
 minane bridge::village
+miñano mayor::village
+miñano menor::village
+minan::village
 minao::village
+mina parian::village
 minaq::village
 minareli::village
 minas::village
 minavand::village
+mina::village
 minbash-e hesarlu::village
 minbashyly::village
 minbaşılı::village
@@ -4477,37 +4807,38 @@ minced meat:磨肉
 mind:头脑
 minden city::village
 minderhout::village
+mîndîc::village
 mindou::village
 mindrum::village
 mindszentgodisa::village
 mindszentkálla::village
 minefield:雷区
 mineh::village
-mineral point::village
-mineral water:矿泉水
-mineral::village
 mineral:矿物
+mineral point::village
+mineral::village
+mineral water:矿泉水
 minety::village
 minfla::village
+mingə::village
 minggot::village
 mingol::village
 mingon::village
-mingə::village
 miniara::village
 minier::village
 minikowo::village
-minim::village
 minima, burkina faso::village
 minimarg::village
-minimum:最小值
 minimum:最小的
+minimum:最小值
+minim::village
 minions::village
 minipe::village
 minister:部长
 ministerial:内阁的
+ministry:政府部门
 ministry of defence:国防部
 ministry of foreign affairs:外交部
-ministry:政府部门
 miniszewo::village
 minkend::village
 minkowice oławskie::village
@@ -4523,52 +4854,115 @@ minor:次要
 minse::village
 minskip::village
 minsterworth::village
-minu::village
 minudasht::village
 minus:负号
 minute:分
 minute:分钟
 minutes:分钟
+minu::village
 minuwangamuwa::village
 minwakh::village
 minywa::village
 minzuhar::village
-miodary::village
 mioče::village
+miodary::village
 mipitiya::village
 miqan::village
+mirabad-e abadi::village
+mirabad-e ansari::village
+mirabad::village
 mir abdoli-ye olya::village
 mir abdoli-ye sofla::village
 mir abdoli-ye zarrin choqa::village
+mirabeh::village
+mirabi::village
 mir adina::village
+miradz::village
 mir afzal-e vavsar::village
-mir ahmad::village
+mirag mahalleh::village
+mirag::village
+mirahampe::village
+mirahjin::village
 mir ahmadi::village
+mir ahmad::village
+mirahor::village
+mirakeh-ye qaleh qazi::village
+miraki::village
+mirakowo::village
+mirak::village
+miralago::village
 mir alamdar::village
 mir alamdeh::village
-mir ali mohammad::village
+miralcamp::village
 mir alilu::village
+mir ali mohammad::village
+mirali::village
+miramau::village
+mirandeh::village
+miran guri::village
+mirani::village
+miran mahalleh::village
+miranpur pinwat::village
+miranpur::village
 mir aqa beyk::village
+mirar kola::village
+mirash::village
+miraslan::village
+miravci::village
+mira::village
 mir ayaz::village
-mir aziz::village
-mir azizi-ye qadim::village
 mir azizi::village
+mir azizi-ye qadim::village
+mir aziz::village
 mir bankesh::village
 mir bazar::village
+mirbaz::village
+mirbelia platylobioides::plant
+mircekiraz::village
+mirchakak::village
+mirchaki::village
+mirch::village
 mir daryasar::village
 mir deh::village
+mirdeh-ye olya::village
+mirdeh-ye sofla::village
+mire:泥潭
+mire:陷入
+mireh deh::village
+mireh va ahmad::village
+miréréni::village
+mirək::village
+mirəşelli::village
 mir fazlollah::village
+mirgah-e derizh::village
+mirgah naqshineh::village
+mirgasar::village
+mirghavan::village
+mirghazab::village
 mir gol-e kalati::village
-mir hasan::village
+mirhajj::village
 mir hasani::village
+mir hasan::village
 mir hashem::village
 mir havaryari::village
 mir hesam::village
 mir homayun::village
 mir hoseyni::village
 mir hoseynlu::village
-mir jafar::village
+mirik::village
+mirisah::village
+miriseh::village
+mirissala::village
+miriyakada::village
+miriya::village
+miri-ye khani-ye do::village
+miri-ye khani-ye yek::village
+miri-ye saburi-ye do::village
+mirjaber pichab::village
 mir jafarlu::village
+mir jafar::village
+mirjan::village
+mirjawali mair::village
 mir kachana::village
 mir kandi::village
 mir khan::village
@@ -4576,106 +4970,36 @@ mir khavand-e olya::village
 mir khavand-e sofla::village
 mir kheyrollah::village
 mir kola::village
+mirkovo::village
+mirków::village
 mir kuh-e olya::village
 mir kuh-e sofla::village
 mir kuh-e vosta::village
+mirlər::village
 mir lotfollah::village
 mir mahalleh::village
 mir makan::village
-mir maleki::village
-mir mirab-e olya::village
-mir mirab-e sofla::village
-mir mohammad::village
-mir molk::village
-mir omar::village
-mir qahremanlu::village
-mir qaleh::village
-mir rud posht::village
-mir said::village
-mir shadi::village
-mir shams ol din::village
-mir shekar::village
-mir sheykh heydar::village
-mir yusof-e olya::village
-mir yusof-e sofla::village
-mir::village
-mira::village
-mirabad-e abadi::village
-mirabad-e ansari::village
-mirabad::village
-mirabeh::village
-mirabi::village
-miradz::village
-mirag mahalleh::village
-mirag::village
-mirahampe::village
-mirahjin::village
-mirahor::village
-mirak::village
-mirakeh-ye qaleh qazi::village
-miraki::village
-mirakowo::village
-miralago::village
-miralcamp::village
-mirali::village
-miramau::village
-miran guri::village
-miran mahalleh::village
-mirandeh::village
-mirani::village
-miranpur pinwat::village
-miranpur::village
-mirar kola::village
-mirash::village
-miraslan::village
-miravci::village
-mirbaz::village
-mircekiraz::village
-mirch::village
-mirchakak::village
-mirchaki::village
-mirdeh-ye olya::village
-mirdeh-ye sofla::village
-mire:泥潭
-mire:陷入
-mireh deh::village
-mireh va ahmad::village
-mirgah naqshineh::village
-mirgah-e derizh::village
-mirgasar::village
-mirghavan::village
-mirghazab::village
-mirhajj::village
-miri-ye khani-ye do::village
-miri-ye khani-ye yek::village
-miri-ye saburi-ye do::village
-mirik::village
-mirisah::village
-miriseh::village
-mirissala::village
-miriya::village
-miriyakada::village
-mirjaber pichab::village
-mirjan::village
-mirjawali mair::village
-mirkovo::village
-mirków::village
-mirlər::village
 mirmalegeh olya::village
+mir maleki::village
 mirmangan-e olya::village
 mirmangan-e sofla::village
 mirmau::village
 mirmingeh::village
+mir mirab-e olya::village
+mir mirab-e sofla::village
 mirmiranpur::village
 mirmiru::village
-mirna::village
+mir mohammad::village
+mir molk::village
 mirnal::village
+mirna::village
 mirns::village
 mirojevići::village
 mirokabad::village
 mirolyubovo::village
-miroszowice::village
+mir omar::village
 mirosławice::village
+miroszowice::village
 mirowice::village
 mirozg::village
 mirpasand::village
@@ -4683,81 +5007,87 @@ mirpur jattan::village
 mirpur lakha::village
 mirpur saidan::village
 mirpur::village
+mir qahremanlu::village
+mir qaleh::village
 mirri kalan::village
 mirri khurd::village
 mirrngadja::village
 mirror:镜子
+mir rud posht::village
 mirsadpur::village
+mir said::village
 mirsara::village
+mir shadi::village
+mir shams ol din::village
 mirshekarlu::village
+mir shekar::village
+mir sheykh heydar::village
 mirtaher::village
-miru::village
 mirud::village
 miruppa::village
+miru::village
 mirverdi kandi::village
+mir::village
 mirwapur::village
+mir yusof-e olya::village
+mir yusof-e sofla::village
+mirzaabad-e khayyat::village
 mirza abad::village
+mirzaabad::village
 mirza ali bahram beygi::village
 mirza ali kandi::village
+mirzaali khan::village
+mirzaali::village
 mirza ali-ye yelqi::village
 mirza bahram beygi::village
 mirza beyg kandi::village
-mirza dulmaz::village
-mirza golband::village
-mirza hasan kandi::village
-mirza hasan lengeh::village
-mirza hasan::village
-mirza hasanlu::village
-mirza hesam::village
-mirza hesari::village
-mirza khalil::village
-mirza khani::village
-mirza kuseh::village
-mirza mohammadabad::village
-mirza nabi::village
-mirza nezam::village
-mirza olang::village
-mirza panak::village
-mirza pur::village
-mirza qoli-ye bahram beygi::village
-mirza rahim::village
-mirza rahimlu::village
-mirzaabad-e khayyat::village
-mirzaabad::village
-mirzaali khan::village
-mirzaali::village
 mirzachauki::village
+mirza dulmaz::village
 mirzaganj, patuakhali::village
 mirzaganj::village
 mirzagarh::village
+mirza golband::village
+mirza hasan kandi::village
+mirza hasan lengeh::village
+mirza hasanlu::village
+mirza hasan::village
+mirza hesam::village
+mirza hesari::village
 mirzai-ye ahangari::village
 mirzaiyeh::village
 mirzajan::village
+mirza khalil::village
+mirza khani::village
+mirza kuseh::village
 mirzalu::village
+mirza mohammadabad::village
 mirzamohammadi-ye bala::village
 mirzamohammadi-ye pain::village
 mirzampet::village
+mirza nabi::village
 mirzand::village
+mirza nezam::village
 mirzaoğlu::village
+mirza olang::village
+mirza panak::village
 mirzapur aihari::village
+mirza pur::village
 mirzapur::village
-mirzwas::village
+mirza qoli-ye bahram beygi::village
+mirza rahimlu::village
+mirza rahim::village
 mirzəcamallı::village
 mirzəhəsənli::village
 mirzələr::village
 mirzəməmmədqışlaq::village
 mirzənağılı::village
 mirzəqasım::village
-miréréni::village
-mirək::village
-mirəşelli::village
+mirzwas::village
 miscellaneous:各种各样的
 misconduct:冒犯
 miseglia::village
 miserable:悲惨的
 misery:悲痛
-mish rangin-e hajji qader::village
-mish-e now::village
 mishab::village
 mishal::village
 mishamandan::village
@@ -4766,62 +5096,67 @@ mishan-e sofla::village
 misheh deh-e olya::village
 misheh deh-e sofla::village
 misheh kisheh::village
-mishen::village
 mishend::village
+mish-e now::village
+mishen::village
 mishevsko::village
-mishi::village
 mishiab::village
 mishicot::village
 mishijan-e olya::village
 mishijan-e sofla::village
+mishi::village
 mishkar::village
 mishkasar::village
 mishkeh::village
+mish rangin-e hajji qader::village
 misie::village
 miskanak::village
-miski::village
 miskinli::village
+miski::village
 mislead:误导
+mişleş::village
+mişni::village
 misown::village
 misquote:错误引用
 miss:小姐
-missa::village
 missarpura::village
+missa::village
 misseouta::village
 missing:失踪
-mission camp, sardarabad::village
 mission:任务
+mission camp, sardarabad::village
 misson::village
 missouri:密苏里
 mist:薄雾
 mistake:错误
 mistan::village
+mištautai::village
 misurab::village
 misvær::village
 miszkowice::village
 miszla::village
 mit abu el kom::village
 mit abu ghaleb::village
-mit elwan::village
 mitakataka::village
 mitalawa::village
-mitan::village
 mitangun::village
+mitan::village
 mitchell::village
 miteh::village
+mit elwan::village
 mitford::village
-mitha::village
 mithabel::village
 mithakhali::village
+mitha::village
+mithian::village
 mithi chhapri::village
 mithi rohar::village
-mithian::village
 mitholz::village
 mithra::village
 mithri::village
 mithur::village
-miti::village
 mitino::village
+miti::village
 mitoc::village
 mitosis:有丝分裂
 mitrašinci::village
@@ -4846,70 +5181,41 @@ miwaladeniya::village
 miwatura::village
 mix:混合
 mixenden::village
-miyan deh::village
 miyanagolla::village
 miyanakolamada::village
 miyanbag::village
 miyandaran::village
+miyan deh::village
 miyaneh-ye olya::village
 miyaneh-ye sofla::village
 miyanju::village
 miyanshahr::village
 miyantang-e mansuri::village
-miyar::village
 miyardan::village
+miyar::village
 miye ou miye::village
 mizab::village
 mizan::village
 mizhrichchia::village
 mizuj::village
 mizureh::village
-miðvágur::village
-miñano mayor::village
-miñano menor::village
-mićunovo::village
-mičevec::village
-mięcierzyn-leśniczówka::village
-mięcierzyn::village
-międzygórze::village
-międzyleś::village
-międzyrzecze dolne::village
-międzyrzecze górne::village
-międzyrzecze::village
-międzyświeć::village
-miłachówek::village
-miłcz::village
-miłków::village
-miłobędzyn::village
-miłochowice::village
-miłochów::village
-miłocice małe::village
-miłocice::village
-miłogostowice::village
-miłogoszcz::village
-miłonowice::village
-miłonów::village
-miłoradzice::village
-miłosna::village
-miłoszyce::village
-miłoszów::village
-miłosławice::village
-miłowice::village
-mişleş::village
-mişni::village
-mištautai::village
-mjesto primišlje::village
-mjull bathore::village
+mırtı::village
 mjåvatn::village
+mjesto primišlje::village
 mjølhus::village
 mjømna::village
+mjull bathore::village
+m.kallapur::village
 mkangawi::village
+m.karuppampatti::village
+m.khanapur::village
 mkhchyan::village
 mkpanghi::village
 mkpani::village
 mladen (village)::village
 mladezhko::village
 mladinovo::village
+mlądz::village
 mlakva::village
 mlamolovo::village
 mlechevo::village
@@ -4921,8 +5227,24 @@ mlete::village
 mlewiec::village
 mlewo::village
 mliha::village
+młodocin::village
+młodów::village
+młodzianów::village
+młodzieszyn::village
 mlodzinava::village
-mlądz::village
+młoty::village
+młynek::village
+młynica::village
+młynice::village
+młyniec drugi::village
+młyniec pierwszy::village
+młyniec::village
+młynik::village
+młynki::village
+młynkowiec::village
+młyńsko::village
+młyny::village
+młyny-wybudowanie::village
 mm:毫米
 mmadikola::village
 mmakau::village
@@ -4939,29 +5261,27 @@ mmutlane::village
 mna::village
 mnemonic:助机的
 mner i sipërm::village
-mnich::village
 mnichowice::village
+mnich::village
 mników::village
 mniowice::village
 mniszek::village
 mniszków::village
-mo so::village
-mo::village
 moadéga::village
 moaf amandan::village
 moaf::village
 moaga::village
+moalleman::village
 moallem khani-ye bala::village
 moallem kola::village
 moallem kuh::village
-moalleman::village
 moamereh::village
 moammareh::village
 moammereh::village
 moan:呻吟
 moande::village
-moane::village
 moanemani::village
+moane::village
 moaning:呻吟声
 moanings:呻吟声
 moapé::village
@@ -4979,14 +5299,15 @@ mobarakabad-e kalleh rash::village
 mobarakabad-e sepidar::village
 mobarakabad::village
 mobarakeh::village
+mobarakin::village
 mobaraki-ye do::village
 mobaraki-ye seh::village
-mobarakin::village
 mobarezabad::village
 mobberley::village
 mobeytiheh-ye do::village
 mobeytiheh-ye seh::village
 mobile:移动的
+močėnai::village
 mochełek::village
 mochle::village
 mochnaczka wyżna::village
@@ -4994,37 +5315,40 @@ mochriyeh::village
 mociūnai::village
 mockava::village
 mocsa::village
+mőcsény::village
 moczadła::village
 moczydlnica dworska::village
 moczydlnica klasztorna::village
-mod ka nimbahera::village
 modabad::village
 modage::village
 modanella::village
 moddergat::village
-mode::village
 modekop::village
-model::village
-model:模型
 model:模特
+model:模型
 modeling:建模
+model::village
 modern:现代的
 modeste::village
 modesto::village
+mode::village
 modgaon::village
 modhera::village
 modify:修改
 modipane::village
-modliborzyce::village
+mod ka nimbahera::village
+modła::village
+modlęcin::village
 modlibórz::village
+modliborzyce::village
 modlikowice::village
 modliszów::village
-modlęcin::village
 modrakowo::village
 modran::village
 modravan::village
 modren::village
 modrič::village
+mõdriku::village
 modrzewie::village
 modubavigudem::village
 modukuru::village
@@ -5032,13 +5356,13 @@ module:模块
 modules:模块
 modumudi::village
 modzerowo::village
-modła::village
-moe::village
+mõedaka::village
 moelingen::village
-moen::village
 moende::village
+moen::village
 moerbrugge::village
 moergestel::village
+moe::village
 moeydeleh-ye olya::village
 moeydeleh-ye sofla::village
 moezabad::village
@@ -5046,7 +5370,6 @@ moezzabad-e gurgir::village
 moezzabad-e jaberi::village
 mofidabad::village
 mofti kola::village
-moga::village
 mogallamuru::village
 mogallu::village
 mogalturru::village
@@ -5054,36 +5377,37 @@ mogandé-peulh::village
 mogandé::village
 mogapi::village
 mogaung::village
+moga::village
 mogbante::village
 mogdumpur::village
 moggar::village
 moggerhanger::village
 mogh ahmad-e bala::village
 mogh ahmad-e pain::village
-mogh jangan::village
-mogh kenar::village
-mogh mohammad::village
-mogh rahmat::village
-mogh-e qanbareh-ye kuh mobarak::village
 moghamir::village
-moghan deh::village
-moghan::village
 moghanak-e olya::village
 moghanak-e sofla::village
 moghandar::village
+moghan deh::village
 moghanjiq::village
 moghanjuq::village
 moghanlu::village
-moghar::village
+moghan::village
 mogharrab-e do::village
+moghar::village
 moghaviyeh::village
 moghdan::village
+mogh-e qanbareh-ye kuh mobarak::village
 moghestan-e akbar::village
 mogheytiyeh::village
 moghiran::village
 moghiri::village
 moghisabad::village
+mogh jangan::village
+mogh kenar::village
+mogh mohammad::village
 moghnar::village
+mogh rahmat::village
 moghuiyeh::village
 moghul::village
 moghuyeh::village
@@ -5106,81 +5430,13 @@ mogrenda::village
 moguluru::village
 mogyorósbánya::village
 mogyoróska::village
-moha::village
 mohada::village
 mohajarabad::village
 mohal khera::village
 mohal nangal::village
-mohamad shahwala::village
 mohamadabad::village
+mohamad shahwala::village
 mohamandust-e olya::village
-mohammad abdi::village
-mohammad aleq::village
-mohammad ali kushki::village
-mohammad ali qoregah::village
-mohammad ali::village
-mohammad aliabad::village
-mohammad alikhani::village
-mohammad alilu::village
-mohammad ameri::village
-mohammad aqa aqajari::village
-mohammad aqa-ye sofla::village
-mohammad baradi::village
-mohammad beyk::village
-mohammad deh::village
-mohammad durailu::village
-mohammad ghazban::village
-mohammad hasanlu::village
-mohammad hoseyn barani::village
-mohammad hoseyn lavank::village
-mohammad hoseynabad::village
-mohammad jafar mahalleh::village
-mohammad jamali::village
-mohammad jani::village
-mohammad janlu::village
-mohammad kal::village
-mohammad kandi::village
-mohammad karim kandi::village
-mohammad karim kushki::village
-mohammad kazemi::village
-mohammad kesani nezhad::village
-mohammad khalaj::village
-mohammad khan tang-e sepu::village
-mohammad khan::village
-mohammad mirzai::village
-mohammad nagar::village
-mohammad qasem::village
-mohammad qasemi::village
-mohammad qoli beyglu::village
-mohammad qoli-ye sofla::village
-mohammad rakhshani::village
-mohammad reza keyani::village
-mohammad riz::village
-mohammad safi::village
-mohammad safiyeh::village
-mohammad saidi::village
-mohammad salah::village
-mohammad salehi::village
-mohammad salehu::village
-mohammad shahabad::village
-mohammad shahi::village
-mohammad shahir::village
-mohammad shahlu::village
-mohammad sheli::village
-mohammad shoqati::village
-mohammad taheri::village
-mohammad taladam tang divan-e mahtab::village
-mohammad taqi beyg::village
-mohammad taqi::village
-mohammad tip::village
-mohammad vali beyk::village
-mohammad zaki kushki::village
-mohammad zaman khan::village
-mohammad zehi::village
-mohammad zeyna::village
-mohammad zurab::village
-mohammad-e olya::village
-mohammad::village
 mohammadabad-e afkham ol dowleh::village
 mohammadabad-e alizadeh::village
 mohammadabad-e amin::village
@@ -5199,54 +5455,123 @@ mohammadabad-e salehan::village
 mohammadabad-e shah nur::village
 mohammadabad-e suran::village
 mohammadabad::village
+mohammad abdi::village
+mohammad aleq::village
+mohammad aliabad::village
+mohammad alikhani::village
+mohammad ali kushki::village
+mohammad alilu::village
+mohammad ali qoregah::village
+mohammad ali::village
+mohammad ameri::village
 mohammadan::village
+mohammad aqa aqajari::village
+mohammad aqa-ye sofla::village
+mohammad baradi::village
+mohammad beyk::village
+mohammad deh::village
+mohammad durailu::village
 mohammadeh::village
+mohammad-e olya::village
+mohammad ghazban::village
+mohammad hasanlu::village
 mohammadhasanvand::village
-mohammadi-ye olya::village
-mohammadi-ye sofla::village
-mohammadi::village
+mohammad hoseynabad::village
+mohammad hoseyn barani::village
+mohammad hoseyn lavank::village
 mohammadiabad::village
+mohammadi::village
 mohammadiyeh-e olya::village
 mohammadiyeh-e sofla::village
 mohammadiyeh::village
+mohammadi-ye olya::village
+mohammadi-ye sofla::village
+mohammad jafar mahalleh::village
+mohammad jamali::village
 mohammadjan-e falak ol din::village
+mohammad jani::village
+mohammad janlu::village
+mohammad kal::village
+mohammad kandi::village
+mohammad karim kandi::village
+mohammad karim kushki::village
+mohammad kazemi::village
+mohammad kesani nezhad::village
+mohammad khalaj::village
+mohammad khan tang-e sepu::village
+mohammad khan::village
 mohammadloo::village
 mohammadlu::village
+mohammad mirzai::village
+mohammad nagar::village
+mohammad qasemi::village
+mohammad qasem::village
+mohammad qoli beyglu::village
 mohammadqoli qeshlaq::village
+mohammad qoli-ye sofla::village
+mohammad rakhshani::village
+mohammad reza keyani::village
+mohammad riz::village
+mohammad safi::village
+mohammad safiyeh::village
+mohammad saidi::village
+mohammad salah::village
+mohammad salehi::village
+mohammad salehu::village
+mohammad shahabad::village
+mohammad shahir::village
+mohammad shahi::village
+mohammad shahlu::village
+mohammad sheli::village
+mohammad shoqati::village
+mohammad taheri::village
+mohammad taladam tang divan-e mahtab::village
+mohammad taqi beyg::village
+mohammad taqi::village
+mohammad tip::village
+mohammad vali beyk::village
+mohammad::village
+mohammad zaki kushki::village
+mohammad zaman khan::village
+mohammad zehi::village
+mohammad zeyna::village
+mohammad zurab::village
 mohammedpur::village
 mohanbari::village
 mohani mandal::village
 mohanna::village
-mohanpur::village
 mohanpura ranwa::village
+mohanpur::village
 mohara::village
 mohare::village
 mohari kalan::village
 mohari khurd::village
 moharramabad::village
 moharrum zumeh::village
+moha::village
 mohavvaleh-ye abu hadij::village
 moheb alilu::village
-moheb saraj::village
 mohebb-e pain::village
 mohebbi::village
+moheb saraj::village
 mohemmabad::village
 moheydar::village
 mohiabad::village
 mohimabad::village
 mohiset::village
 mohishtoli::village
-mohit ab::village
 mohitabad::village
+mohit ab::village
 mohitewadi::village
+mõhküla::village
 mohlunke::village
 mohora::village
 mohovo::village
+mohrab bazar::village
 mohra darogha::village
 mohra malkan::village
 mohra rajgan::village
 mohra topian::village
-mohrab bazar::village
 mohrdar::village
 mohreh nar mohammad::village
 mohreh::village
@@ -5260,21 +5585,26 @@ mohta::village
 mohubani::village
 mohuk yek::village
 mohur::village
-moi::village
 moiety:一半
 moinabad::village
 moinatrindri::village
 moira::village
+mõisaaseme::village
+mõisaküla::village
+mõisamaa::village
+mõisanurme::village
 moist:湿润的
 moisten:弄湿
 moister:更湿的
 moistest:最湿的
 moisture:湿润
+moi::village
 moiyabana::village
 mojanovići::village
 mojaseh::village
 mojaver::village
 mojdež::village
+mojęcice::village
 mojesz::village
 mojirabad::village
 mojków::village
@@ -5295,18 +5625,16 @@ mojtame-ye meskuni shahrak-e azadegan::village
 mojtame-ye meskuni siman::village
 mojtame-ye petrushimi kermanshah::village
 mojtame-ye zanati-ye rafsanjan::village
-mojęcice::village
-mok ka::village
-moka::village
 mokaberi::village
 mokalpur::village
 mokalsar::village
 mokarrabi::village
+moka::village
 mokena::village
 mokgenene::village
 mokgware::village
-mokha::village
 mokhalefgah::village
+mokha::village
 mokhdan::village
 mokhlesabad::village
 mokhor::village
@@ -5318,25 +5646,26 @@ mokhtari::village
 mokhtavai::village
 mokhvor::village
 mokin::village
-moko::village
+mok ka::village
 mokobaxane::village
 mokoni::village
 mokoswane::village
+moko::village
+mokówko::village
 mokowo::village
-mokre::village
 mokresh::village
+mokre::village
 mokri lug::village
-mokro polje::village
 mokronoge::village
 mokronos dolny::village
 mokronos górny::village
 mokronozi::village
+mokro polje::village
 mokry dwór::village
 mokrzeszów::village
 moktha::village
 mokubilo::village
 mokvi::village
-mokówko::village
 moladanda::village
 molagamudi::village
 molagavalli::village
@@ -5351,40 +5680,43 @@ molashiyeh-ye yek::village
 molasur::village
 molay-ye sefid::village
 molday::village
-moldova::village
 moldova:摩尔多瓦
-mole, shwegu::village
-mole::village
+moldova::village
 mole:内鬼
+moléare::village
+molecular:分子的
 molecular chemistry:分子化学
 molecular formula:分子式
 molecular geometry:分子几何
 molecular physics:分子物理学
 molecular science:分子科学
-molecular:分子的
 molecule:分子
 molecules:分子
 molehbarik-e babakan::village
 molenaarsgraaf::village
+mole, shwegu::village
 molești::village
+mole::village
 molham darreh::village
-molin::village
 molina di quosa::village
 molino d'egola::village
+molin::village
+molkan::village
+molkar::village
 molk bogur::village
-molk sar::village
 molk-e ali::village
 molk-e daraq::village
 molk-e jahan::village
 molk-e mian::village
-molk::village
-molkan::village
-molkar::village
 molkhatavi::village
+molk sar::village
 molkuh::village
+molk::village
 molkwerum::village
+mollaabad::village
 molla abdollah::village
 molla ahmad::village
+mollaaliler::village
 molla ali tappeh::village
 molla ali::village
 molla amirkhan::village
@@ -5397,7 +5729,9 @@ molla baqer-e olya::village
 molla baqer::village
 molla basak::village
 molla bashi::village
+mollabayramlı::village
 molla bodagh::village
+mollabürhan::village
 molla dadi::village
 molla dadkhoda isa zehi::village
 molla deh::village
@@ -5406,75 +5740,71 @@ molla ebrahim::village
 molla emir::village
 molla esmail::village
 molla gol jan::village
+mollahacılı::village
 molla hajji mahalleh::village
 molla hajji::village
 molla hamzeh::village
-molla hasan::village
 molla hasani::village
+molla hasan::village
+mollahasan::village
+mollah barfi::village
+mollah karamineh-e shah morad::village
+mollah karamineh::village
+mollah-ye tam::village
+mollaibrahim::village
+mollai::village
 molla jamati::village
 molla jiq::village
 molla jonud::village
 molla kalayeh::village
 molla kandi::village
 molla karim-e bar ahui::village
+mollakənd::village
 molla kheyl-e lai::village
 molla kheyl-e purva::village
 molla kola::village
+mollaköy::village
 molla kuh::village
-molla mahalleh-ye chehel setun::village
+mollalar-e mohammadreza kandi::village
+mollalar::village
+mollalı::village
+mollalu::village
 molla mahalleh::village
+molla mahalleh-ye chehel setun::village
 molla mahmud::village
 molla mehdi::village
 molla nur mohammad::village
+mollaömerli::village
 molla piri::village
 molla qasem::village
 molla qorbani::village
 molla qus::village
+mollasalar::village
 molla salemi::village
-molla sara::village
 molla sarab::village
+molla sara::village
 molla sartip::village
 molla shahab ol din::village
 molla sheykh::village
+mollaşıxalı::village
 molla soltan::village
+mollas::village
 molla taleb::village
 molla taqi::village
 molla vali::village
 molla veys::village
+mollavəli::village
 molla yaqub::village
 molla yusef::village
 molla yusof::village
 molla zaman::village
-mollaabad::village
-mollaaliler::village
-mollabayramlı::village
-mollabürhan::village
-mollah barfi::village
-mollah karamineh-e shah morad::village
-mollah karamineh::village
-mollah-ye tam::village
-mollahacılı::village
-mollahasan::village
-mollai::village
-mollaibrahim::village
-mollaköy::village
-mollakənd::village
-mollalar-e mohammadreza kandi::village
-mollalar::village
-mollalu::village
-mollalı::village
-mollas::village
-mollasalar::village
-mollavəli::village
-mollaömerli::village
-mollaşıxalı::village
 mollem::village
 molleres::village
 mollestad::village
 mollowali::village
 molmanatti::village
-molnaszecsőd::village
 molnári::village
+molnaszecsőd::village
 molochișul mare::village
 molodezhny::village
 moloja::village
@@ -5488,47 +5818,47 @@ molvány::village
 molwad::village
 molyatichi::village
 molybdenum:钼
-moléare::village
 momanpur::village
 momanwal::village
 momarka::village
 mombin::village
-mome::village
 momenabad::village
 moment:瞬间
 momentum:动量
+mome::village
+momići::village
 momina salza::village
 momina tsarkva::village
 momino::village
 mominpet::village
 momirasso::village
-momići::village
 momjan::village
 momkovo::village
 momlu::village
 momoen::village
 mompach::village
 momrabad::village
-mon::village
 monaco:摩纳哥
 monagri::village
 monagroulli::village
 monaj::village
 monarch:君主
 monarchy:君主制
+monardella villosa::plant
 monarjan::village
 monaruwila::village
 monas kola::village
 monasteraden::village
 monasterioguren::village
-monastery:修道院
 monastery:寺庙
+monastery:修道院
 monastiraki::village
 monavari::village
 monavvar tappeh::village
 monavvar::village
 mondaingbin::village
 mondan::village
+mõndavere::village
 mondi gowrelly::village
 mondin::village
 monee::village
@@ -5536,54 +5866,60 @@ monetary:关于钱的
 money:钱
 monflorite-lascasas::village
 monforte del cid::village
-mong tawng::village
-mong tseng tsuen::village
-mong-naba::village
-monga::village
 mongalkote::village
 mongarlowe::village
+monga::village
 mongbara::village
 monger:小贩
 mongewell::village
 mongkun::village
+möng kyawt::village
+mong-naba::village
 mongolia:蒙古
 mongounda::village
 mongpong::village
-moni sar::village
-moni::village
+möng pu::village
+mong tawng::village
+mong tseng tsuen::village
 moniaive::village
 moniatis::village
 monikh::village
+moni sar::village
+mõniste::village
 monistrol de calders::village
 monitor:监视器
 monivea::village
-monj-e olya::village
-monj-e sofla::village
-monj::village
+moni::village
 monjafkeh::village
 monjar mui::village
+monj-e olya::village
+monj-e sofla::village
 monjuqchi::village
 monjvek::village
-monk bretton::village
-monk hesleden::village
-monk soham::village
+monj::village
 monk:僧侣
 monkali::village
+monk bretton::village
 monkey point::village
+monk hesleden::village
+monk soham::village
 monkstown::village
 monkswood::village
 monkton::village
 monnani::village
+mõnnaste::village
 monniaz::village
 monnington on wye::village
 monninkylä::village
+mõnnuste::village
+monochaetum multiflorum::plant
 monodendri::village
 monohull:单体船
-monok::village
 monoko-zohi::village
+monok::village
 monond-e bala::village
-monong::village
 monongo::village
+monong::village
 monopoly:垄断
 monorierdő::village
 monostorapáti::village
@@ -5594,8 +5930,13 @@ monroe::village
 monsanto::village
 monshian::village
 monsoon:季风
+mønsted::village
 monster:魔鬼
-mont clare::village
+monstera acacoyaguensis::plant
+monstera amargalensis::plant
+monstera boliviana::plant
+monstera buseyi::plant
+monstera oreophila::plant
 montacchita::village
 montagut i oix::village
 montalcinello::village
@@ -5603,6 +5944,7 @@ montallese::village
 montanelli::village
 montbrió del camp::village
 montclar d'urgell::village
+mont clare::village
 monte antico::village
 monteaperti::village
 montebuono::village
@@ -5640,7 +5982,6 @@ montfort::village
 montgomery::village
 month:月
 monthly:每月的
-monti::village
 montiano::village
 monticchiello::village
 monticello amiata::village
@@ -5648,6 +5989,7 @@ monticello::village
 montione::village
 montioni::village
 montionkuy::village
+monti::village
 montoliu de segarra::village
 monton::village
 montorgiali::village
@@ -5656,12 +5998,16 @@ montorsaio::village
 montpelier::village
 montreal:蒙特利尔
 montrose::village
+mõntu::village
 monument:纪念碑
+mõnuste::village
+mõnuvere::village
+mon::village
 monwane::village
-mood::village
 mood:心情
 moodiesburn::village
 moodus::village
+mood::village
 mookane::village
 mookhoek::village
 moolachel::village
@@ -5675,14 +6021,14 @@ moondwara::village
 moongilpalayam::village
 moonlight:月光
 moonpur thakran::village
-moor row::village
 moora::village
 moordorf::village
 moorefield::village
 moorends::village
 mooresville::village
-moori::village
 mooritsa::village
+moori::village
+moor row::village
 moorsel::village
 moorsholm::village
 moorthiambalpuram::village
@@ -5699,8 +6045,8 @@ mopidevi::village
 mopipi::village
 moqaberi::village
 moqaddam::village
-moqam::village
 moqamsiyeh::village
+moqam::village
 moqanak::village
 moqarrab-e yek::village
 moqarrab::village
@@ -5713,27 +6059,8 @@ moqiseh::village
 moqitalu::village
 moqri kola::village
 moqsam::village
-mora::village
-morab, india::village
 morabbu::village
-morad ali kandi::village
-morad ali-ye olya::village
-morad ali-ye sofla::village
-morad ali::village
-morad bazar::village
-morad beygi::village
-morad beyglu::village
-morad chal::village
-morad dahandeh::village
-morad hadi::village
-morad hibatan bazar::village
-morad jan::village
-morad khan::village
-morad khani siareh jagiran::village
-morad mohammad bazar::village
-morad qoli::village
-morad tappeh::village
-moradabad nurali::village
+morab, india::village
 moradabad-e chahgavari::village
 moradabad-e do::village
 moradabad-e gol gol::village
@@ -5742,25 +6069,45 @@ moradabad-e mirakhur::village
 moradabad-e pirdusti::village
 moradabad-e posht rig::village
 moradabad-e yek::village
+moradabad nurali::village
 moradabad::village
+morad ali kandi::village
+morad ali::village
+morad ali-ye olya::village
+morad ali-ye sofla::village
+morad bazar::village
 moradberdi::village
+morad beygi::village
 moradbeygi-ye khalaf::village
+morad beyglu::village
+morad chal::village
+morad dahandeh::village
+morad hadi::village
+morad hibatan bazar::village
 moradi kashk::village
 moradi pereshkaft::village
 moradi::village
+morad jan::village
 moradkandi::village
+morad khani siareh jagiran::village
 moradkhanli::village
 moradkhanlu::village
+morad khan::village
 moradlu::village
 moradluy-e olya::village
 moradluy-e sofla::village
 moradluy-e vosta::village
+morad mohammad bazar::village
+morad qoli::village
+morad tappeh::village
+moraea serpentina::plant
 moragahamula::village
 moragahamulla::village
 moragahaulpota::village
 moragaspitiya::village
 moragolla::village
 moragolleyaya::village
+mórágy::village
 morahenegama::village
 morakovo::village
 moral:道德的
@@ -5772,7 +6119,10 @@ morape::village
 moraskhun-e olya::village
 moraskhun-e sofla::village
 morassa::village
+mõraste::village
 moravë::village
+mora::village
+mõra::village
 morawa::village
 morawy::village
 morbagh::village
@@ -5788,9 +6138,8 @@ mordeh kheyr::village
 mordeh shureh-ye posht tang::village
 mordon::village
 morduq::village
+mõrdu::village
 mordvan::village
-more or less:或多或少
-more than:多于
 more:更多
 moreauville::village
 morebattle::village
@@ -5798,9 +6147,12 @@ moregem::village
 moreland hills::village
 moremela::village
 moremi::village
+morèm::village
 morency::village
 moreomabele::village
+more or less:或多或少
 morestead::village
+more than:多于
 moreton corbet::village
 moreton::village
 morewadi::village
@@ -5808,26 +6160,27 @@ morez-e bani saleh::village
 morgan bay::village
 morgar::village
 morgedal::village
-morgh mohsen-e tai::village
-morgh-e bozorg::village
-morgh-e kuchak::village
-morghab::village
 morghabad::village
+morghab::village
 morghak-e olya::village
 morghak-e yek::village
 morghan::village
 morghdari-e sang-e sefidi::village
 morghdari-ye kasht va sanat doab::village
 morghdari-ye sabah::village
+morgh-e bozorg::village
+morgh-e kuchak::village
+morgh mohsen-e tai::village
 morghzar::village
-morgi::village
 morgins::village
+morgi::village
 morgowo::village
-morid bazar::village
+mórichida::village
 moridabad::village
 moridan::village
 moridarow-e bala::village
 moridarow-e pain::village
+morid bazar::village
 moriolo::village
 moripirala::village
 morjampadu::village
@@ -5837,18 +6190,18 @@ morkheri::village
 morkhoven::village
 morley::village
 morna::village
+morne-à-chandelle::village
 morne bijote::village
 morne fendue::village
-morne-à-chandelle::village
 morning:早晨
-moroccan:摩洛哥人
 moroccan:摩洛哥的
+moroccan:摩洛哥人
 morocco:摩洛哥
 morochi::village
 morodvis::village
 morokinkro::village
-moron::village
 moronou::village
+moron::village
 moropeche::village
 morovetsite::village
 morpheme:词素
@@ -5863,44 +6216,45 @@ morse bluff::village
 morse::village
 morshedabad::village
 morshedi::village
-morsk::village
 morske::village
+morsk::village
 mortad::village
 mortagonovo::village
 mortar::village
 mortavand::village
 mortenhals::village
+mortezaabad::village
 morteza gerd::village
 morteza nak::village
 morteza qoli kandi::village
-mortezaabad::village
 mortha::village
 mortimer common::village
 morton grove::village
 morton::village
-moru::village
+mõrtsi::village
+morus macroura::plant
 morusumilli::village
+moru::village
 moruxlu::village
 morvada::village
-morvar::village
-morvari::village
 morvarid darreh::village
 morvarid::village
-morwa::village
+morvari::village
+morvar::village
 morwad::village
+morwa::village
 moryantsi::village
-morz::village
+morzęcin mały::village
+morzęcino::village
+morzęcin wielki::village
 morzewiec::village
 morzian::village
+morz::village
 morzyce::village
 morzyna::village
-morzęcin mały::village
-morzęcin wielki::village
-morzęcino::village
-morèm::village
 mosaddeqabad::village
-mosafer zehi::village
 mosaferabad::village
+mosafer zehi::village
 mosaffa::village
 mosallamabad::village
 mosallamiyeh::village
@@ -5908,31 +6262,35 @@ mosanlu::village
 mosaveri::village
 mosayyeb mahalleh::village
 mosborough::village
+mošćenice::village
 moschochori::village
+mościce dolne::village
+mościska::village
+mościsko::village
 moscopole::village
-moscow::village
 moscow:莫斯科
+moscow::village
 mosdós::village
 mosetse::village
 mosha-e jeyyed::village
-mosha::village
 moshammi::village
 moshampa::village
 mosharrafeh-ye bozorg::village
 mosharrafeh-ye kuchak::village
 mosharrahat::village
+mosha::village
 moshaweng::village
 moshchena::village
 mosheka ol din::village
-moshir aba-ye panjeh::village
 moshirabad-e owriyeh::village
 moshirabad::village
-moshk::village
+moshir aba-ye panjeh::village
 moshkabad::village
 moshkak::village
 moshkan::village
 moshkenan::village
 moshkuhi::village
+moshk::village
 moshniahy::village
 moshtagan::village
 moshtanets::village
@@ -5943,33 +6301,35 @@ moskorzyn::village
 moskovske::village
 moslehabad::village
 moslemabad::village
+mošnje::village
 mosolotshane::village
 mosonszentmiklós::village
 mosonszolnok::village
 mosonudvar::village
+mo so::village
 mosque:清真寺
 mosquero::village
 mossadéni::village
 mossbank::village
 mossblown::village
 mossige::village
-most important:最重要
-most of the time:大多数时候
-most popular:最流行的
-most::village
 most:大多数
+mostafaabad::village
 mostafa ahmadi::village
 mostafa chay::village
 mostafa kandi::village
-mostafa rahmani::village
-mostafaabad::village
 mostafalu::village
 mostafapur::village
+mostafa rahmani::village
 mosterhamn::village
+most important:最重要
 mostiškės::village
 mostki::village
+most of the time:大多数时候
 mostowice::village
+most popular:最流行的
 mostufaabad::village
+most::village
 mosu::village
 mosvik::village
 moszczenica-osiedle::village
@@ -5977,17 +6337,16 @@ moszczonne::village
 moszowice::village
 moszyce::village
 moszyny::village
-mota bhamodra::village
-mota gharbi::village
-mota kotarna::village
-mota::village
 motaalleq mahalleh-ye arbastan::village
 motaalleq mahalleh-ye nowbijar::village
 motaalleq::village
+mota bhamodra::village
+mota gharbi::village
 motaharabad-e tajabad::village
 motahhar-e olya::village
 motahhar-e sofla::village
 motakondur::village
+mota kotarna::village
 motakpalli::village
 motal sara::village
 motamadiyeh::village
@@ -5995,6 +6354,7 @@ motamarri::village
 motamure::village
 motapada::village
 motasemabad::village
+mota::village
 motbeg-e olya::village
 motbeg-e sofla::village
 motbeg-e vosta::village
@@ -6005,16 +6365,17 @@ moth:蛾
 mothabari::village
 mothadaka::village
 mothala::village
+mother:母亲
 mother in law:婆婆
 mother in law:岳母
-mother:母亲
 motherland:祖国
 mothparja::village
 mothugudem::village
-moti jharna::village
-motia::village
 motialmara::village
 motian::village
+motia::village
+motički gaj::village
+moti jharna::village
 motike::village
 motile:能动的
 motility:能动性
@@ -6022,19 +6383,19 @@ motion:运动
 motipur::village
 motir::village
 motivation:动机
-motički gaj::village
 motla dasht::village
 motla kalan::village
 motla kuh::village
 motlhabaneng::village
 motnik::village
-motor nerve:运动神经
 motorboat:快艇
 motorcycle:摩托车
+motor nerve:运动神经
 motorway:高速公路
 motrabad::village
 motrić::village
 motshegaletau::village
+mõtsu::village
 motswedi::village
 mottram in longdendale::village
 mottu palle::village
@@ -6042,23 +6403,30 @@ mottuwela::village
 moturu::village
 motwica::village
 motyczyn::village
-motyl::village
 motyle::village
+motyl::village
 motyzhyn::village
+mötzingen::village
 mouhoun iii::village
 moukpido::village
+moulé::village
 moulin::village
 moulio::village
 moulton chapel::village
 moulton seas end::village
 moulton::village
-moulé::village
 mound station::village
 mound::village
 moundville::village
+mount:登上
+mountain:山
+mountaineer:登山者
+mountaineering:登山
+mountaineering club:登山俱乐部
 mount auburn::village
 mount calvary::village
 mount clare::village
+mountcollins::village
 mount erie::village
 mount hawke::village
 mount hope::village
@@ -6067,43 +6435,38 @@ mount moriah::village
 mount morris::village
 mount pleasant::village
 mount russell::village
-mount sterling::village
-mount temple::village
-mount zion::village
-mount::village
-mount:登上
-mountain:山
-mountaineer:登山者
-mountaineering:登山
-mountaineering club:登山俱乐部
-mountcollins::village
 mountshannon::village
 mountsorrel::village
+mount sterling::village
+mount temple::village
+mount::village
+mount zion::village
 mournies::village
 mouroukoudougou::village
 mourtzana::village
 mousata::village
-mouse:老鼠
 mouse:耗子
+mouse:老鼠
 mousoulita::village
 moussobadougou::village
 moutfort::village
 mouth:嘴
-mouthful:拗口的
 mouthful:满嘴的
+mouthful:拗口的
 mouthwash:漱口水
 mouttagiaka::village
 mouza talib::village
 movak::village
 movali najaf chalaveh::village
+mövdüt::village
 move:移动
 movelah::village
 movement:移动
 movie:电影
 movik::village
+mo::village
 movil::village
 movses::village
-mow::village
 mow:割草
 mowai::village
 mowasseseh-ye gavdari salehpur::village
@@ -6111,58 +6474,57 @@ mowdaran::village
 moweaqua::village
 mowg::village
 mowla bakhsh bazar::village
-mowla qoli::village
 mowladad zehi::village
 mowlan-e olya::village
 mowlan-e sofla::village
+mowla qoli::village
 mowlik-e olya::village
 mowlowy-ye dust mohammad::village
 mowmai::village
-mowmen zamin::village
 mowmenabad::village
 mowmenai::village
+mowmen zamin::village
 mowniyeh::village
 mownowm::village
 mowr deraz::village
-mowr-e gur::village
-mowr::village
 mowrd::village
+mowr-e gur::village
 mowrok::village
 mowruiyeh::village
 mowruzeh::village
+mowr::village
+mow::village
 mowzar::village
-moyna::village
 moynalty::village
-moz::village
-mozaffar kola::village
+moyna::village
 mozaffarabad::village
-mozaffari-ye jonubi::village
-mozaffari-ye shomali::village
 mozaffari::village
 mozaffariyeh::village
+mozaffari-ye jonubi::village
+mozaffari-ye shomali::village
+mozaffar kola::village
 mozambique:莫桑比克
 mozdabad::village
 mozgowina::village
 mozhaiyur::village
-mozhdeh::village
 mozhdeheh::village
+mozhdeh::village
 moziyeh::village
 mozqaraçanlı::village
 mozrov::village
 mozsgó::village
 mozvar::village
 mozvash::village
-močėnai::village
-mościce dolne::village
-mościska::village
-mościsko::village
-mošnje::village
-mošćenice::village
+moz::village
 mpack::village
 mpai::village
 mpanda, gihanga::village
 mparo::village
+m.perumalpalayam::village
+m.p. majra::village
+m'possa::village
 mprim::village
+mračaj::village
 mrah ez ziyat::village
 mrahori::village
 mramadoudou::village
@@ -6170,7 +6532,9 @@ mramor, haskovo province::village
 mratinje::village
 mravince::village
 mravljača::village
-mračaj::village
+mrčajevci::village
+mrđenovac::village
+mrđe::village
 mreimin::village
 mrezhichko::village
 mrežičko::village
@@ -6189,32 +6553,33 @@ mrowiniec::village
 mrowiny::village
 mrozowo::village
 mrozów::village
+mrševci::village
+mršići::village
 mrveš::village
 mrzenci::village
 mrzovići::village
-mrčajevci::village
-mrđe::village
-mrđenovac::village
-mrševci::village
-mršići::village
+mściszów::village
+mściwojów::village
 msoga::village
 mstowo::village
 mstów::village
 msus::village
 mtenje::village
+m.timmapur::village
 mtispiri::village
 mtsahara::village
+m'tsamoudou::village
 mtsangadoua::village
 mtsangamboua::village
+m.turkapally::village
 mtv:音乐电视
-mu du::village
-mua::village
 mualkawi::village
 mualzen::village
 muang khua::village
 muaraketalo::village
 muarasingoan::village
 muareh::village
+mua::village
 muazzamnagar::village
 mubandan::village
 mubarakpur::village
@@ -6222,64 +6587,71 @@ mubarewala::village
 mubarikpur::village
 mubarkpur::village
 mubungere::village
-much more complex:复杂得多
+muçaj::village
+mücəkbinə::village
 much:许多
 muchan::village
 muchenan::village
 mucherella::village
 muchintal::village
 muchivolu::village
+much more complex:复杂得多
 muchowiec::village
 muchów::village
 mucsfa::village
 mucsi::village
+múcsony::village
 mucuqoba::village
 muczne::village
-mud::village
 mud:泥
-muda::village
 mudagandooru::village
 mudakavi::village
-mudal::village
 mudalcheri::village
 mudalgi (rural)::village
 mudalur::village
+mudal::village
 mudana::village
 mudappallur::village
 mudarangadi::village
 mudaste::village
+muda::village
 mudegan::village
 mudenkoppa::village
 mudenur::village
+müden::village
 muderaz hoseyn::village
 mudewadi::village
 mudgeri::village
 mudhaykhirah::village
 mudhaynib::village
-mudi::village
 mudia kheda::village
 mudichintalapalle::village
 mudikandam::village
 mudinepalli::village
 mudipalli::village
 mudivarthi::village
+mudi::village
 mudiyah::village
 mudowal::village
 mudrets::village
 mudslide:滑坡
 mududi::village
 mudunuru::village
+mu du::village
+mud::village
 mudza::village
 mudzhukh-kazma::village
 muea::village
+müftüoğlu::village
 mug:杯子
 mug:马克杯
 mugabasav::village
 mugad::village
 mugal chak::village
 mugalihal::village
-mugaliya hat::village
 mugaliyachhap::village
+mugaliya hat::village
+muğanlı::village
 mugaon::village
 mugarm::village
 mugat::village
@@ -6288,26 +6660,24 @@ mugawade::village
 mugdumpally::village
 muger::village
 muggendorf::village
-mugh::village
 mughalwala::village
-mughan::village
 mughanly::village
+mughan::village
 mughar::village
 mughni::village
+mugh::village
 mugma::village
 mugu::village
 muhamadali khanwala::village
 muhametzhan tuimebayev::village
-muhammad yar chishti::village
 muhammad:穆罕默德
+muhammad yar chishti::village
 muhar jamsher::village
 muhem::village
 muhi::village
+mühleholz::village
 muhovo::village
 muhsinler::village
-mui shue hang::village
-mui tsz lam::village
-mui::village
 muiderberg::village
 muidhara::village
 muijin::village
@@ -6318,6 +6688,9 @@ muilheh-ye vosta::village
 muineh::village
 muir of ord::village
 muir::village
+mui shue hang::village
+mui tsz lam::village
+mui::village
 mujahid gangal::village
 mujan::village
 mujaste::village
@@ -6354,7 +6727,6 @@ mukur::village
 mukutmanipur::village
 mukwonago::village
 mukyaw::village
-mula::village
 mulab-e olya::village
 mulagapudi::village
 mulakalacheruvu::village
@@ -6366,34 +6738,36 @@ mulapadu::village
 mulasalapalem::village
 mulashulla::village
 mulavi kuranlu::village
-mulberry grove::village
+mula::village
 mulberry:桑椹
+mulberry grove::village
 mulbring::village
-mule::village
 mule:骡子
 muleh::village
 mulenjan::village
+mule::village
 mulewal araian::village
 mulewal brahmana::village
 mulgram::village
 mulher::village
-muli::village
 mulianwali::village
 mulid::village
 mulikipalle::village
 mulinan::village
 mulish::village
+muli::village
 mulkhed::village
 mulkudara::village
+mülk::village
 mullagh::village
 mullahalli::village
 mullakkadu::village
 mullakkodi::village
 mullaley::village
 mullan baha::village
-mullan kala::village
 mullandram::village
 mullandrum::village
+mullan kala::village
 mullathpara::village
 mullavere::village
 mullen::village
@@ -6411,15 +6785,14 @@ multan::village
 multhan::village
 multicellular:多细胞的
 multihull:多体船
-multiple integral:多重积分
 multiple:多的
+multiple integral:多重积分
 multul::village
 multyfarnham::village
-mulu::village
 mului::village
+mulu::village
 mulux::village
 mulwal::village
-mum::village
 mumajes::village
 muman-e bala::village
 muman-e pain::village
@@ -6433,10 +6806,10 @@ mumej::village
 mumlu::village
 mummidivarappadu::village
 mummigatti::village
-muna::village
+mum::village
 munab::village
-munagala::village
 munagalapudi::village
+munagala::village
 munaganoor::village
 munagapaka::village
 munah::village
@@ -6444,6 +6817,7 @@ munak::village
 munalaskme::village
 munaq::village
 munasanthai::village
+muna::village
 munaydhir::village
 muncie::village
 muncuqlu::village
@@ -6453,15 +6827,16 @@ mundaú::village
 mundelein::village
 mundelstrup::village
 munder::village
-mundh::village
 mundhal kalan::village
 mundhal khurd::village
+mundh::village
+mundia::village
 mundi chhurimaran::village
 mundi chohlian::village
 mundi kasu::village
 mundi shehrian::village
 mundi::village
-mundia::village
+mündi::village
 mundiyampakkam::village
 mundkur::village
 mundla chand::village
@@ -6472,6 +6847,7 @@ mundri::village
 mundur::village
 munduz::village
 mundwad-pimpale::village
+mûnein::village
 muneyeh::village
 mungacharla::village
 mungalia kot::village
@@ -6479,19 +6855,19 @@ munganda::village
 mungashi::village
 mungirah::village
 mungpoo::village
+municipal:市政的
 municipal assembly:市议会
 municipal council:市政委员会
-municipal water:自来水
-municipal:市政的
 municipality:自治区
+municipal water:自来水
 munilla::village
 muninag::village
 munipalle::village
-munj::village
 munjava modruška::village
 munjava::village
 munjiyasar::village
 munjuluru::village
+munj::village
 munnangi::village
 munnekeburen::village
 munneswaram::village
@@ -6505,8 +6881,8 @@ muntić::village
 mununzi::village
 munushtir::village
 munyal::village
-muo::village
 muodoslompolo::village
+muo::village
 mupkal::village
 muppakoil::village
 muppalla::village
@@ -6514,44 +6890,37 @@ mupparru::village
 muppavaram::village
 muqlus::village
 muqsha::village
-mur deraz::village
-mur pahn::village
-mur sorkh::village
-mur-e gham-e vosta::village
-mur-e jowkar::village
-mur::village
 murabad::village
 murachek::village
 muradabad::village
 muradbeyli::village
 muraddi::village
+muradpura::village
 muradpur dona::village
 muradpur::village
-muradpura::village
 muradxanlı::village
 muragundi::village
 muraini::village
 muraiyur::village
 muraja::village
-murak::village
 murakata::village
 murakatnal::village
 murakatti::village
 murakeresztúr::village
 muraki bhavi::village
 muraki::village
-muran::village
+murak::village
 muranah::village
 murani::village
 muranovo::village
-murar::village
+muran::village
+murarátka::village
 murara::village
 murarhalli::village
 murarmau::village
-murarátka::village
+murar::village
 muraste::village
 muraszemenye::village
-murat::village
 muratbey::village
 muratdere::village
 murati::village
@@ -6559,6 +6928,7 @@ muratkoru::village
 muratlar::village
 muratlı::village
 muratsi::village
+murat::village
 muravanka::village
 murawiec::village
 murayba::village
@@ -6571,16 +6941,11 @@ murchaur::village
 murchegan::village
 murcheh khort::village
 murci::village
-murczyn::village
 murczynek::village
-murd risheh::village
-murd-e ghaffar::village
-murd-e sadat::village
-murd-e seyyed gambuli::village
-murd-e susani::village
-murd::village
+murczyn::village
 murdak::village
 murdan::village
+murd-e ghaffar::village
 murdeira::village
 murdel::village
 murder:谋杀
@@ -6588,28 +6953,36 @@ murderaz-e olya::village
 murderaz-e rahbar::village
 murderaz-e sofla::village
 murderaz-e vosta::village
+mur deraz::village
 murderaz::village
+murd-e sadat::village
+murd-e seyyed gambuli::village
 murdestan::village
+murd-e susani::village
 murdi::village
 murdock::village
+murd risheh::village
 murdu::village
+murd::village
+mürefte::village
+mur-e gham-e vosta::village
 murehe::village
+mur-e jowkar::village
 murekord::village
+müren, elmalı::village
 murengeti::village
-murestan::village
 murestaneh::village
+murestan::village
 murethi::village
 mureu::village
-murga::village
 murgah kakan::village
+murga::village
 murgeh::village
 murgovo::village
 murhu::village
-muri-ye ajam::village
-muri::village
-muria::village
 muriabad::village
 murian::village
+muria::village
 muridwal::village
 murika::village
 murillo de río leza::village
@@ -6617,8 +6990,10 @@ murine::village
 murino::village
 murira::village
 muriste::village
-murj-e shahrak::village
+muri::village
+muri-ye ajam::village
 murjan::village
+murj-e shahrak::village
 murkan::village
 murkash::village
 murkhani::village
@@ -6635,6 +7010,7 @@ muro en cameros::village
 murovyevko::village
 murowaniec::village
 murpahn-e bala::village
+mur pahn::village
 murquztala::village
 murray::village
 murrayville::village
@@ -6645,23 +7021,25 @@ murru::village
 mursal, elmalı::village
 mursalevo::village
 mursaruiyeh::village
+mürsəlliqışlaq::village
+mürsəqulu::village
 murshidiyah::village
 murshk::village
 mursk::village
+mur sorkh::village
+murtak-e pain::village
 murt anjir::village
+murtan::village
 murt-e hadi::village
 murt-e sabz::village
-murt::village
-murtak-e pain::village
-murtan::village
-murth::village
 murthal::village
 murthly::village
+murth::village
 murtigh::village
 murtino::village
 murton::village
 murtuzalılar::village
-muru::village
+murt::village
 murucin::village
 murud::village
 muruiyeh::village
@@ -6672,78 +7050,84 @@ mururata::village
 murutak::village
 murutia::village
 muruvika::village
+muru::village
+mur::village
 murzard-e nasrollah::village
 murzynko::village
 murzynno::village
-mus::village
-musa ali::village
-musa bolaghi::village
-musa daraq::village
-musa kalayeh::village
-musa kandi::village
-musa khail::village
-musa kheyl::village
-musa kola::village
-musa kuh::village
-musa kuhkan::village
-musa mahalleh::village
-musa naranj::village
-musa qayeh-ye abu ol hasan::village
-musa vand::village
-musa::village
 musaabad-e bakhtiari::village
 musaabad-e kashani::village
 musaabad-e olya::village
 musaabad-e sofla::village
 musaabad::village
+musa ali::village
 musabeyli::village
 musabəyli::village
+musa bolaghi::village
+musa daraq::village
 musaharwa::village
 musahebpur::village
 musaitu::village
+musa kalayeh::village
+musa kandi::village
 musakend::village
+musa khail::village
+musa kheyl::village
+musa kola::village
 musakolu, kuyucak::village
 musaköy::village
+musa kuhkan::village
+musa kuh::village
 musalamari::village
 musalan::village
 musalar::village
 musaler::village
+musalı::village
 musallar::village
 musalu::village
 musaly::village
-musalı::village
+musa mahalleh::village
+musa muluensis::plant
+musa naranj::village
 musandi::village
+musa ochracea::plant
 musapur::village
+musa qayeh-ye abu ol hasan::village
 musausta::village
+musa vand::village
 musavar::village
+musa::village
 musaviyeh::village
 musayal::village
 musayelyan::village
 musaymir::village
-muscle contraction:肌肉收缩
+müschede::village
 muscle:肌肉
+muscle contraction:肌肉收缩
 muscoda::village
 musculoskeletal:肌骨的
 museh::village
 musek::village
+müsellim, Çamlıdere::village
 musenyi::village
 musepur::village
-museum of art:艺术博物馆
 museum:博物馆
+museum of art:艺术博物馆
 musevo::village
 musewal::village
-mush bijar::village
-musha::village
-mushak::village
+müşfiq::village
 mushakhan::village
 mushakiyeh::village
-mushan::village
+mushak::village
 mushandarreh::village
 mushanga::village
+mushan::village
+musha::village
+mush bijar::village
+mushemi::village
 mushemi-ye olya::village
 mushemi-ye sofla::village
 mushemi-ye vosta::village
-mushemi::village
 mushkan::village
 mushleh::village
 mushqeta::village
@@ -6759,14 +7143,17 @@ musiejówka::village
 musigliano::village
 musina::village
 musiraz::village
-muslim:穆斯林
+müşkəmir::village
+müşkülqazma::village
 muslići::village
+muslim:穆斯林
 musluca::village
 musluklar::village
+müslüm, polatlı::village
 musomishta::village
 musqan::village
+muşruf::village
 mussapur::village
-must not:一定不能
 must:必须
 mustafabad::village
 mustafabey::village
@@ -6776,6 +7163,7 @@ mustafalar::village
 mustafalı::village
 mustafapaşa::village
 mustafaxanlı::village
+müstair::village
 mustametsa::village
 mustanina::village
 mustanlar::village
@@ -6788,13 +7176,16 @@ mustjõe::village
 mustla-nõmme::village
 mustla::village
 mustmätta::village
+must not:一定不能
 mustoja::village
 mustrak::village
 mustu::village
 musular, Şereflikoçhisar::village
 musunuru::village
 musurikati::village
+mušutište::village
 musuvinakoppalu::village
+mus::village
 muszkowice::village
 mutabad::village
 mutable:不稳定的
@@ -6807,10 +7198,10 @@ mutawad::village
 mutcherla::village
 muteh::village
 mutga::village
-mutha::village
 muthabin::village
 muthada kalan::village
 muthaval::village
+mutha::village
 muthe::village
 muthill::village
 muthireddigudem::village
@@ -6822,11 +7213,11 @@ muthuservamadam::village
 muthuvalloor::village
 muthuveerakandiampatti::village
 muthyalapally::village
-muti::village
 mutilation:残害
+muti::village
+mutluca::village
 mutlu, Çubuk::village
 mutlu::village
-mutluca::village
 mutnal::village
 mutsk::village
 mutsya::village
@@ -6844,7 +7235,9 @@ mutyalapalem::village
 muuga::village
 muuksi::village
 muurahainen::village
+müüriku::village
 muusika::village
+müüsleri::village
 muvvalavada::village
 muwassam::village
 muyebe::village
@@ -6854,35 +7247,32 @@ muzadpur::village
 muzaffarpur::village
 muzan::village
 muzeraa::village
+müzəffəroba::village
 muzga::village
 muzhakë::village
 muzhappala::village
 muzhdif::village
 muzi bagh::village
 muzi bon::village
+muzigaleh::village
+muzi koti::village
 muzi koti-ye olya::village
 muzi koti-ye sofla::village
-muzi koti::village
-muzigaleh::village
 muzinda::village
 muzkent, gazipaşa::village
 muzrupağacın, Çamlıdere::village
-muçaj::village
-muğanlı::village
-muşruf::village
-mušutište::village
 mwe-te::village
 my:我的
 myadaung::village
 myaing gyi ngu::village
-myaing ywa::village
 myaingtha::village
+myaing ywa::village
 myalyeshkavichy::village
 myanmar:缅甸
-myauk-ywa::village
 myaukchun::village
 myaukkon::village
 myauknaw::village
+myauk-ywa::village
 myaungzin::village
 mycielowo::village
 mydroilyn::village
@@ -6896,8 +7286,8 @@ mykhailivka::village
 mykhailo-laryne::village
 mykhalcha::village
 mykhaylivka::village
-myklebost::village
 myklebostad::village
+myklebost::village
 myklebustad::village
 mykolaivka::village
 myladi::village
@@ -6909,14 +7299,20 @@ mylor bridge::village
 mynai::village
 mynbayevo::village
 myndalne::village
+mynyddcerrig::village
 mynydd isa::village
 mynydd-y-garreg::village
-mynyddcerrig::village
 myoe haung::village
 myogon::village
 myohla::village
 myoma::village
+myoporum boninense::plant
+myoporum crassifolium::plant
+myoporum rapense::plant
+myoporum tenuifolium::plant
+myoporum velutinum::plant
 mypadu::village
+myrcia obversa::plant
 myrkinos::village
 myrne::village
 myroliubivka::village
@@ -6924,225 +7320,23 @@ myrotske::village
 myrtia::village
 myrza-aryk::village
 myself:我自己
-mystical:神秘的
-myszki::village
-myszkowice::village
-myszkowiec::village
 mysłakowice::village
+mysłakówko::village
 mysłakowo::village
 mysłaków::village
-mysłakówko::village
-mysłów::village
-mytchett::village
-mythology:神话
-myukhpyaw::village
+myślęcinek::village
 myślibórz::village
 myślinów::village
 myśliszów::village
 myśliwczów-kolonia::village
 myśliwiec::village
-myślęcinek::village
+mysłów::village
+mystical:神秘的
+myszki::village
+myszkowice::village
+myszkowiec::village
+mytchett::village
+mythology:神话
+myukhpyaw::village
 mzembela::village
 mzouazia::village
-mád::village
-mályi::village
-mályinka::village
-mánfa::village
-márfa::village
-máriahalom::village
-máriakálnok::village
-márianosztra::village
-márkháza::village
-márkó::village
-márok::village
-márokföld::village
-mátraballa::village
-mátraderecske::village
-mátraháza::village
-mátramindszent::village
-mátranovák::village
-mátraszentimre::village
-mátraszőlős::village
-mátraterenye::village
-mátyásdomb::village
-máza::village
-mädapea::village
-mäebe::village
-mäeküla::village
-mäelooga::village
-mäeltküla::village
-mäeltse::village
-mäense::village
-mäeotsa::village
-mäepea::village
-mäetaguse::village
-mägari::village
-mägdesprung::village
-mägede::village
-mägestiku::village
-mägi-kurdla::village
-mägipe::village
-mägise::village
-mäiste::village
-mäksa::village
-mäletjärve::village
-mälgi::village
-mäliküla::village
-mäliste::village
-mälivere::village
-mällikvere::village
-mällu::village
-mändjala::village
-männamaa::village
-männiku::village
-männikuste::village
-männikvälja::village
-mänspe::village
-mäo::village
-märdi::village
-märjandi::village
-mässa::village
-mätasselja::village
-mätja::village
-määra::village
-määri::village
-määvli::village
-måndalen::village
-måre::village
-mæla::village
-mære::village
-médan::village
-méguibra::village
-ménéké::village
-méra::village
-mérges::village
-mëlovë::village
-mënik::village
-mëzez::village
-mîndîc::village
-mórichida::village
-mórágy::village
-mõdriku::village
-mõedaka::village
-mõhküla::village
-mõisaaseme::village
-mõisaküla::village
-mõisamaa::village
-mõisanurme::village
-mõndavere::village
-mõniste::village
-mõnnaste::village
-mõnnuste::village
-mõntu::village
-mõnuste::village
-mõnuvere::village
-mõra::village
-mõraste::village
-mõrdu::village
-mõrtsi::village
-mõtsu::village
-möng kyawt::village
-möng pu::village
-mötzingen::village
-mövdüt::village
-mønsted::village
-múcsony::village
-mûnein::village
-mücəkbinə::village
-müden::village
-müftüoğlu::village
-mühleholz::village
-mülk::village
-mündi::village
-mürefte::village
-müren, elmalı::village
-mürsəlliqışlaq::village
-mürsəqulu::village
-müschede::village
-müsellim, Çamlıdere::village
-müslüm, polatlı::village
-müstair::village
-müzəffəroba::village
-müüriku::village
-müüsleri::village
-müşfiq::village
-müşkülqazma::village
-müşkəmir::village
-mān ye-su::village
-mārahau::village
-măgdăcești::village
-măgurele::village
-mălâncrav::village
-mărculești::village
-mărăndeni::village
-mączniki::village
-mąkolice::village
-mąkolno::village
-mąkoszyn::village
-mąkowarsko::village
-mąstautai::village
-mątasek::village
-mėšliai::village
-męcinka::village
-mędrzyce::village
-mędłów::village
-mękarzowice::village
-mġarr::village
-mırtı::village
-młodocin::village
-młodzianów::village
-młodzieszyn::village
-młodów::village
-młoty::village
-młynek::village
-młynica::village
-młynice::village
-młyniec drugi::village
-młyniec pierwszy::village
-młyniec::village
-młynik::village
-młynki::village
-młynkowiec::village
-młyny-wybudowanie::village
-młyny::village
-młyńsko::village
-mőcsény::village
-mściszów::village
-mściwojów::village
-məhrablı::village
-məlcək::village
-məlikli::village
-məlikəhmədli::village
-məmişlər::village
-məmmədli::village
-məmmədsəfi::village
-məmməduşağı::village
-məmmədxanlı::village
-məmər::village
-məncəroba::village
-mərcimək::village
-mərdanlı::village
-mərzili::village
-məsimlər::village
-məstalıbəyli::village
-məzrə::village
-məzəm::village
-məşədiismayıllı::village
-məşədiqulular::village
-məşədivəlilər::village
-mimulopsis solmsii::plant
-mimulopsis elliotii::plant
-matthiola maderensis::plant
-magnolia amazonica::plant
-monochaetum multiflorum::plant
-malaisia scandens::plant
-massoniinae::plant
-morus macroura::plant
-manihot pulchriforius::plant
-mirbelia platylobioides::plant
-monstera acacoyaguensis::plant
-monstera amargalensis::plant
-monstera boliviana::plant
-monstera oreophila::plant
-monstera buseyi::plant
-moraea serpentina::plant

@@ -1,46 +1,15 @@
-p. mallavaram::village
-p. yerragonda::village
-p.başören, kızılcahamam::village
 pa ab-e shelal::village
-pa baz::village
-pa chenar::village
-pa chong::village
-pa dar::village
-pa deh::village
-pa derazan::village
-pa emam::village
-pa gach-e kal jamshid::village
-pa gach-e lahbari::village
-pa garu::village
-pa godar::village
-pa kam-e bala::village
-pa kam-e pain::village
-pa mei::village
-pa pulak::village
-pa qalatan-e bala::village
-pa qalatan-e pain::village
-pa qaleh-ye khoskheh rud::village
-pa qaleh::village
-pa rudbar::village
-pa sefid::village
-pa takht-e do::village
-pa takht-e seh::village
-pa takht-e yek::village
-pa tang::village
-pa tappeh-ye gunesban::village
-pa tappeh::village
-pa-ye astan::village
-pa-ye takht-e golzar::village
-pa-ye takht-e talkor::village
 paadenurme::village
+päädeva::village
 paadrema::village
 paaduotsa::village
 paali::village
-paaluonys::village
 paaluonė::village
+paaluonys::village
 paangari::village
-paasi::village
+päärdu::village
 paasiku::village
+paasi::village
 paasküla::village
 paaste::village
 paasvere::village
@@ -48,11 +17,13 @@ paate::village
 paatna::village
 paatsalu::village
 paavaali::village
+paąžuolė::village
 pabaini::village
 pabanan::village
 paband::village
 pabaneh::village
 pabarupys::village
+pa baz::village
 pabbarali::village
 paberkeh::village
 paberžė::village
@@ -65,8 +36,6 @@ paboute::village
 pabwan::village
 paca::village
 pacca ghanghra::village
-pach kenar::village
-pach kula::village
 pachakhali::village
 pachal::village
 pacham-e deh harun::village
@@ -79,39 +48,44 @@ pachat-e delita::village
 pachat-e jowkar::village
 pachdevara::village
 pacheh kuh zilay idi::village
+pachehri::village
 pacheh sur::village
 pacheh-ye anjir::village
-pachehri::village
 pacheia ammos::village
 pachel chalavaz::village
-pachenar::village
 pachenaran::village
+pa chenar::village
+pachenar::village
 pacheri::village
 pachet::village
-pachi::village
-pachia::village
 pachian::village
+pachia::village
 pachil::village
 pachim dhuligaon::village
 pachim samaria::village
 pachipenta::village
+pachi::village
 pachiyur::village
-pachk::village
 pachkalguri::village
+pach kenar::village
+pach kula::village
+pachk::village
 pachlakhi::village
 pachna::village
 pachokhara::village
+pa chong::village
 pachpadra::village
 pachwad::village
 pachyammos::village
-pacific region:太平洋区域
 pacific:太平洋
+pacific region:太平洋区域
+pácin::village
 package:包
+pácsony::village
+pacūnai::village
 paczków::village
 paczyn::village
-pacūnai::village
 pad:垫子
-pada::village
 padakal::village
 padakõrve::village
 padala::village
@@ -135,7 +109,6 @@ padang galo::village
 padangkelapa::village
 padangtegal::village
 padappakara::village
-padar::village
 padari mustarka::village
 padariya jat::village
 padarli::village
@@ -143,32 +116,38 @@ padarthi::village
 padarvand-e olya::village
 padarvand-e sofla::village
 padarvand-e vosta::village
+pa dar::village
+padar::village
+padár::village
 padauva::village
 padavayal::village
+pada::village
 padawala::village
 paddi khalsa::village
 paddi matwali::village
 paddle:划桨
 paddock lake::village
 padebe::village
-padegan nazami shahrabad::village
 padegan-e chehel dokhtar::village
 padegan-e hajj ahmad matuselyan::village
 padegan-e khosrowabad::village
 padegan-e quchan::village
 padegan-e sadkorkheh::village
-padeh boland-e olya::village
-padeh-ye bid::village
-padeh-ye jan morad::village
-padeh-ye musa khan::village
-padeh::village
+padegan nazami shahrabad::village
 padehay::village
+padeh boland-e olya::village
 padehha::village
 padehi::village
 padehkeh::village
-paden::village
+pa deh::village
+padeh::village
+padeh-ye bid::village
+padeh-ye jan morad::village
+padeh-ye musa khan::village
 padeniya::village
+paden::village
 padera::village
+pa derazan::village
 padesh::village
 padesur::village
 padgampora::village
@@ -185,11 +164,11 @@ padise::village
 padiwitagama::village
 padiwitawela::village
 padkub::village
-padli::village
 padlihal::village
-padma::village
+padli::village
 padmalaya::village
 padmapur::village
+padma::village
 padna::village
 padne::village
 padniewko::village
@@ -202,42 +181,44 @@ padrokh::village
 padrone:保护者
 padruskalnys::village
 padshahi balasiah-e loop::village
-padu kody::village
-padu::village
-padua::village
 paduangoda::village
+padua::village
 padubysis::village
+padu kody::village
 paduk::village
 padumabad::village
 padupola::village
 padur::village
 paduvere::village
+padu::village
 paduwangoda::village
 padvariai::village
 padya::village
-padár::village
-pae::village
 paein koola::village
 paekna::village
 paeküla::village
+pa emam::village
 paengaroa::village
 paevere::village
-pag::village
-paga::village
-pagach::village
+pae::village
+pa gach-e kal jamshid::village
+pa gach-e lahbari::village
 pagachi-ye bahmai::village
 pagachi-ye mambini::village
 pagachi-ye markazi::village
+pagach::village
 pagahi::village
 paganico::village
 paganur::village
 pagari::village
+pa garu::village
 pagaruyung::village
 pagasi::village
-page bank::village
-page::village
+paga::village
 page:页
+page bank::village
 pages:页
+page::village
 paghaghbyur::village
 paghakn::village
 pagidipalli::village
@@ -249,11 +230,12 @@ pagiriai::village
 paglirpara::village
 pagodar-e amjaz::village
 pagodar-e badvar::village
+pa godar::village
 pagodar::village
 pagoi::village
 pagolu::village
+pag::village
 pagyizu::village
-pah rah gap::village
 pahaladiggala::village
 pahalagammedda::village
 pahalakande bavulana::village
@@ -271,44 +253,50 @@ pahasa::village
 pahavalla::village
 pahetek::village
 pahkla::village
+pähkla::village
 pahladgarh::village
-pahlavan kal::village
-pahlavan::village
 pahlavani::village
+pahlavan kal::village
 pahlavankoshi::village
+pahlavan::village
 pahlushekan::village
 pahmadan::village
-pahn kesh::village
-pahna pahn::village
-pahna::village
-pahnab mahalleh::village
 pahnabad::village
 pahnabeh::village
+pahnab mahalleh::village
 pahnai::village
 pahnaji::village
+pahna pahn::village
 pahnasa::village
 pahnavar::village
+pahna::village
 pahnay behi::village
 pahnedar::village
 pahneh bar::village
 pahneh bor::village
 pahneh kola-ye jonubi::village
 pahneh kola-ye shomali::village
-paho::village
+pahn kesh::village
 pahok::village
+paho::village
+pah rah gap::village
 pahremau::village
 pahuri::village
 pahuvere::village
-pai::village
+päide::village
 paidimadugu::village
 paidipally::village
 paidiputta::village
+päidla::village
 paidra::village
+päidre::village
 paiga::village
 paikar::village
+päiksi::village
 paiküla::village
 paimala::village
 paimvere::village
+pain:痛
 pain ab-e olya::village
 pain ab-e sofla sharqi::village
 pain afrakoti::village
@@ -318,9 +306,11 @@ pain bazyar::village
 pain bijar ankish::village
 pain bisheh sar::village
 pain bolgur::village
+paindapur::village
 pain darb-e pain::village
 pain darreh::village
 pain dasteh-ye rakan kola::village
+painda::village
 pain deh::village
 pain derazlat::village
 pain deza::village
@@ -329,8 +319,10 @@ pain eshtuj::village
 pain fidarreh::village
 pain ganj afruz::village
 pain gava sara::village
+paingmaw::village
 pain golema::village
 pain gomol::village
+paingottoor::village
 pain halu sara::village
 pain hashtal::village
 pain jadeh::village
@@ -339,6 +331,7 @@ pain karu kola::village
 pain kesh sara::village
 pain kola mahalleh::village
 pain kuh::village
+painküla::village
 pain kuyakh::village
 pain lamin jub::village
 pain lamuk::village
@@ -372,67 +365,62 @@ pain seyyed kola::village
 pain shad deh::village
 pain shekar kesh::village
 pain shirud::village
-pain tamushal::village
-pain vand::village
-pain zarrin kola::village
-pain zoghal manzel::village
-pain::village
-pain:痛
-painda::village
-paindapur::village
-paingmaw::village
-paingottoor::village
-painküla::village
 paint:油漆
+pain tamushal::village
 paintemau::village
 painter:画家
 painters forstal::village
+päinurme::village
+pain vand::village
+pain::village
+pain zarrin kola::village
+pain zoghal manzel::village
 pair:对
 paira::village
 pairique chico::village
 paistu::village
 paisumaa::village
+päite::village
+pai::village
 paix bouche::village
 paiyampalli::village
 paiyapathar::village
 paizabad::village
-paja::village
 pajaka::village
 pajanë::village
 pajarla::village
 pajat::village
+paja::village
+pajęczak::village
 paje::village
 pajieslys::village
 pajikabad::village
 pajim::village
-paju-kurdla::village
-paju::village
 pajualuse::village
+paju-kurdla::village
 pajukurmu::village
 pajumaa::village
 pajumõisa::village
 pajupea::village
 pajusi::village
 pajuveski::village
-pajęczak::village
-pak kong au::village
-pak kong::village
-pak sha wan::village
-pak tam::village
-pak wai tsuen::village
-pak wai::village
+paju::village
 pakabud::village
 pakajik::village
 pakak hajji heydar::village
-pakal::village
 pakala::village
+pakal::village
+pa kam-e bala::village
+pa kam-e pain::village
 pakam::village
 pakargaon::village
 pakarkliai::village
 pakartanr::village
-pakash::village
 pakashticë::village
+pakash::village
 pakaste::village
+páka::village
+päka::village
 pakaw::village
 pakbirra::village
 pakchin::village
@@ -449,31 +437,35 @@ pakila::village
 pakir mahmud::village
 pakir shahsavar::village
 pakistan:巴基斯坦
-pakistani politician:巴基斯坦政客
-pakistani:巴基斯坦人
 pakistani:巴基斯坦的
+pakistani:巴基斯坦人
+pakistani politician:巴基斯坦政客
+pak kong au::village
+pak kong::village
 paklėštarė::village
 pakmahar::village
 pakod::village
 pakosławsko::village
 pakotal::village
 pakoungou::village
+pákozd::village
 pakri pakohi::village
 pakri::village
 pakro::village
-pakruostė::village
 pakruostėlė::village
+pakruostė::village
 paksarawan::village
+pak sha wan::village
 pakshep::village
+päkste::village
+pak tam::village
 pakuahat::village
 pakuh-e sefid::village
 pakuh::village
 pakuria::village
 pakurpi-ye sofla::village
-pal pora::village
-pal::village
-pala kastali::village
-pala::village
+pak wai tsuen::village
+pak wai::village
 palabala::village
 palace:宫殿
 palade::village
@@ -484,11 +476,11 @@ palagolla::village
 palagummi::village
 palahartari::village
 palaikythro::village
-palain::village
 palainiškiai::village
-palaio eleftherochori::village
+palain::village
 palaiochori::village
 palaiochouni::village
+palaio eleftherochori::village
 palaiokastritsa::village
 palaiokomi::village
 palaiometocho::village
@@ -499,57 +491,58 @@ palaistra::village
 palaiyanallur::village
 palaiyapatti therkusethi::village
 palaiyapatti vadakkusethi::village
+palakasandha::village
+pala kastali::village
+palaka::village
+palakeedu::village
 palak-e olya::village
 palak-e sofla::village
-palaka::village
-palakasandha::village
-palakeedu::village
 palakkayam::village
 palakkuzha::village
 palakkuzhi::village
-palako::village
 palakoderu::village
+palako::village
 palamel::village
 palamkole::village
 palampudur::village
 palamulla::village
-palamut::village
 palamuthi::village
 palamutköy, kaş::village
 palamutlu::village
-palan-e narges::village
-palan-e olya::village
+palamut::village
 palana::village
 palanca::village
-paland::village
 palandur::village
-palang ab::village
-palang azad::village
-palang bisheh::village
-palang dar::village
-palang darreh::village
-palang gerd::village
-palang kol::village
-palang kola::village
-palang pareh::village
-palang sar::village
-palang sara::village
-palangab::village
+paland::village
+palan-e narges::village
+palan-e olya::village
 palangabad-e olya::village
 palangabad::village
+palang ab::village
+palangab::village
 palangad::village
 palangan::village
 palangari-ye kohneh::village
 palangari-ye now::village
+palang azad::village
+palang bisheh::village
+palang darreh::village
+palang dar::village
 palangeh::village
 palangeli::village
 palangerd::village
-palangi::village
+palang gerd::village
 palangiabad, nosratabad::village
 palangiabad, zahedan::village
 palangin::village
+palangi::village
+palang kola::village
+palang kol::village
 palanglu::village
+palang pareh::village
 palangposht::village
+palang sara::village
+palang sar::village
 palani::village
 palanjur::village
 palanko::village
@@ -558,37 +551,38 @@ palanumäe::village
 palaparru::village
 palaq::village
 palar::village
-palas::village
 palasamudram::village
 palase::village
-palashi::village
+palasë::village
 palashipara::village
+palashi::village
 palashpur::village
 palasi::village
 palaskheda::village
-palasë::village
-palat kaleh::village
-palat::village
+palas::village
 palata sakan::village
 palatdasht::village
 palathali::village
 palatik::village
 palatine::village
+palat kaleh::village
 palatovo::village
 palatu::village
-palau-sator::village
+palat::village
 palau:帕劳
+palau-sator::village
 palavalasa::village
 palavanatham::village
 palavathankattalai::village
 palavayal::village
 palaverikadu::village
+pala::village
 palawa, eastern province::village
 palayam::village
 palayee agraharam::village
-palaz::village
 palazobası, Şereflikoçhisar::village
 palazuelos::village
+palaz::village
 palazzetto::village
 palazzone::village
 palchan::village
@@ -599,15 +593,16 @@ palczyn::village
 paldai::village
 paldaran::village
 paldeniya::village
-pale nane mawal::village
-pale, dharwad::village
-pale::village
 paledan::village
+pale, dharwad::village
+palędzie dolne::village
+palędzie kościelne::village
 paleh bid-e sofla::village
-palek mollah karamineh::village
 paleki-ye abdi::village
-palem::village
+palek mollah karamineh::village
 palembera::village
+palem::village
+pale nane mawal::village
 paleontology:古生物学
 palesk::village
 palestina::village
@@ -615,16 +610,18 @@ palestine:巴勒斯坦
 palestinian:巴勒斯坦人
 paleswaram::village
 paletlu::village
+pale::village
 palež::village
+pálfa::village
+pálfiszeg::village
 palgadh::village
-palgi, zahedan::village
 palgi::village
-palh::village
+palgi, zahedan::village
 palham dasht::village
-palham koti::village
 palhamjan::village
+palham koti::village
 palhawas::village
-pali::village
+palh::village
 palia::village
 paliediškiai::village
 paliem::village
@@ -632,109 +629,116 @@ paliepiai::village
 paliepiukai::village
 palikoppa::village
 palilula::village
-palim::village
 palimar::village
+palim::village
 palinganatham::village
 paliouria::village
 palipana::village
-palisade::village
 palisades::village
+palisade::village
+pališkėliai::village
+pališkiai::village
+pali::village
+páli::village
 paliwodzizna::village
 palizan::village
 palizi dargiaban::village
 palizi, zahedan::village
-pališkiai::village
-pališkėliai::village
 paljasmaa::village
-palk gardel::village
 palkabalis::village
 palkade::village
-palkaneh-ye sofla::village
 palkaneh::village
+palkaneh-ye sofla::village
 palkanlu-ye bala::village
 palkanlu-ye olya::village
 palkanlu-ye pain::village
 palkanlu-ye sofla::village
+palk gardel::village
 palkhash::village
-palki::village
 palkil::village
+palki::village
 palkonya::village
 palkot::village
 palkumbura::village
-palla nangal::village
 palladium:钯
 pallamkurru::village
+palla nangal::village
 pallapadu::village
 pallapu chamavaram::village
 pallasgreen::village
 pallaskenry::village
-pallathur::village
+pällastvere::village
 pallathuruthy::village
+pallathur::village
 pallavada::village
 palle aludeniya::village
+palleaswedduma::village
 palle deltota::village
 palle galadebokka::village
-palle hapuwida::village
-palle henepola::village
-palle ihagama::village
-palle mailapitiya::village
-palle makuruppe::village
-palle talawinna udagammedda::village
-palle talawinna::village
-palle weragama::village
-palleaswedduma::village
 pallegama ihalagammedda::village
 pallegama pahalagammedda::village
 pallegama::village
 pallegammedda::village
 pallegudem::village
 pallehaduwa::village
+palle hapuwida::village
 pallehena::village
+palle henepola::village
+palle ihagama::village
 pallekanda::village
 pallekele kadawidiya::village
 pallekona::village
+palle mailapitiya::village
+palle makuruppe::village
 pallemaoya::village
-pallerla::village
 pallerlamudi::village
+pallerla::village
+palle talawinna udagammedda::village
+palle talawinna::village
 palletenna::village
 pallevada::village
 pallewatta::village
 pallewela::village
+palle weragama::village
 palleyaya::village
-palli jhikki::village
-palli uchi::village
-palli::village
 pallian kalan::village
 pallian khurd::village
 pallichal::village
 pallickal nooranadu::village
+palli jhikki::village
 pallika::village
 pallikkal::village
 pallikkara-ii::village
 palliodiaivayal::village
 pallithode::village
+palli uchi::village
+palli::village
+pälli::village
 palliyeri::village
 palliyur::village
-palm springs::village
+pällu::village
 palm:棕榈
+pálmajor::village
 palmar::village
 palmer::village
 palmierowo::village
 palmitas::village
 palmse::village
+palm springs::village
 palmyra::village
 palnackie::village
 palnau::village
-palo solo::village
 palodeia::village
 palojori::village
 palokastër::village
 palol de revardit::village
 paloorkavu::village
+palo solo::village
 palos park::village
-palot::village
 palotabozsok::village
 palotás::village
+palot::village
+pal pora::village
 palpur::village
 palra::village
 palsit::village
@@ -745,32 +749,31 @@ paltan::village
 palthana::village
 palti khera::village
 paltu tanda::village
-palu rotawewa::village
 palugama::village
 palugunti palli::village
 palukopiwatta::village
-palukuru::village
 paluküla::village
+palukuru::village
 palumäe::village
 palupera::village
 palupere::village
 palupõhja::village
-palur::village
+palu rotawewa::village
 paluru::village
+palur::village
 paluteh::village
 paluvelupula::village
 paluwas::village
 paluzawa::village
 palvere::village
+pal::village
 palwe kd::village
-palędzie dolne::village
-palędzie kościelne::village
-pamal::village
 pamalich::village
 pamalon::village
-paman::village
+pamal::village
 pamanakallur::village
 pamanbar::village
+paman::village
 pamarru::village
 pambaiyeh::village
 pambak kayaranin kits::village
@@ -781,6 +784,8 @@ pamber heath::village
 pambie-sokoura::village
 pamboa::village
 pamchung::village
+pa mei::village
+pamėkliai::village
 pameleh::village
 pamenahalli::village
 pamenar::village
@@ -788,13 +793,13 @@ pamerkiai::village
 pamesar::village
 pamidimarru::village
 pamidimukkala::village
+pamiętowo::village
 pamikh::village
 paminivandlavooru::village
-pamiętowo::village
 pamiškės::village
 pamlény::village
-pamma::village
 pammana::village
+pamma::village
 pammyaw::village
 pamon::village
 pampanso::village
@@ -803,42 +808,40 @@ pamphill::village
 pampupara::village
 pamuapathar::village
 pamucak, kuyucak::village
-pamuk::village
+pamukçular, söke::village
 pamuklu::village
 pamukunta::village
-pamukçular, söke::village
-pamun::village
+pamuk::village
 pamunudeniya::village
+pamun::village
 pamusiai::village
-pamėkliai::village
-pan'kivka::village
-pana, burkina faso::village
 panabandan::village
 panabokke::village
+pana, burkina faso::village
 panachamoodu::village
-panag::village
 panagia::village
 panagra::village
 panagutti::village
-panah kandi::village
+panag::village
 panahera::village
+panah kandi::village
 panahkuh::village
 panaiyapuram::village
 panal::village
-panama::village
 panama:巴拿马
 panamaram::village
+panama::village
+panamá::village
 panambakkam::village
 panamic::village
-panamá::village
 panangammana::village
 panangattiri::village
 pananwala::village
 panapur::village
 panariti::village
-panasa::village
 panasalapalem::village
 panasalova::village
+panasa::village
 panasówka::village
 panatale::village
 panathady::village
@@ -879,15 +882,17 @@ pandalapaka::village
 pandalejmon::village
 pandamatenga::village
 pandanadu::village
-pandar jan::village
-pandar::village
+pandanus conoideus::plant
+pandanus grayorum::plant
 pandarampatti::village
 pandaravadai::village
+pandar jan::village
+pandar::village
 pandatharippu::village
 pandaw::village
-pande::village
 pandedih::village
 pandegaon::village
+pande::village
 pandharmati::village
 pandhartaragaon::village
 pandher::village
@@ -906,36 +911,35 @@ pandrangi::village
 pandravilai::village
 pandrawal::village
 pandurangapuram::village
+pánd::village
 pandwala kalan::village
 pandy tudur::village
-paneli moti::village
 panelia::village
-paner::village
+paneli moti::village
 paneri::village
+paner::village
 panesar-e tashkan::village
 paney-phensong::village
 panfilov::village
-pang ka tsuen::village
-pang yang::village
-pang::village
-panga posht::village
-panga::village
 pangaaliyur::village
-pangal::village
-pangala::village
 pangalakaha::village
+pangala::village
 pangaloli::village
+pangal::village
+panga posht::village
 pangaru::village
 pangauk::village
+panga::village
 pangayarselvi::village
 pangboche::village
 pangeri (b)::village
 panghkok::village
 panghpahpa::village
 panghta::village
-pangi::village
 pangidigudem::village
 pangire (a)::village
+pangi::village
+pang ka tsuen::village
 pangli::village
 panglong::village
 panglung::village
@@ -946,6 +950,8 @@ pangollamada::village
 pangot::village
 pangshwehlaw::village
 panguma::village
+pang::village
+pang yang::village
 panhani::village
 panhar::village
 panhauna::village
@@ -955,44 +961,45 @@ panicharevo::village
 panichkovo::village
 paniewek::village
 paniewo::village
-panik::village
 panikera::village
 panikhaiti::village
 panikhali::village
 panikondanviduthy::village
+panik::village
 paniowice::village
 paniran::village
-panj angosht::village
-panj hezari::village
-panj mahall::village
-panj maneh::village
-panj mil::village
-panj peykar::village
-panj shir::village
-panj stareh::village
-panj tan-e shahid::village
-panj zowj::village
-panj::village
 panjab::village
 panjak::village
 panjali::village
 panjanathikottai::village
 panjanatti::village
+panj angosht::village
 panjarlu::village
 panjeh ali kharabehsi::village
 panjeh-ye olya::village
 panjeh-ye sofla::village
 panjeri::village
 panjgrain::village
+panj hezari::village
 panjkosi::village
+panj mahall::village
+panj maneh::village
+panj mil::village
+panj peykar::village
 panjshanbeh bazar::village
+panj shir::village
+panj stareh::village
+panj tan-e shahid::village
 panjunan::village
-panka::village
+panj::village
+panj zowj::village
 pankabad::village
-pankan::village
 pankanergaon::village
+pankan::village
 pankasz::village
+panka::village
 pankhongyang::village
+pan'kivka::village
 pankop::village
 panków::village
 pannagama::village
@@ -1009,34 +1016,35 @@ pano akourdaleia::village
 pano amiantos::village
 pano archimandrita::village
 pano arodes::village
+panočiai::village
 pano dikomo::village
 pano kivides::village
-pano pyrgos::village
 panola::village
 panoli::village
 panonija::village
+pano pyrgos::village
 panorama:全景
-panočiai::village
 panrepur::village
 panrui::village
 pansan::village
 pansareh::village
 pansfelde::village
 pansoli::village
-pant::village
-pantang::village
 pantangi::village
+pantang::village
 pantanloana::village
 panthathala::village
 panther:黑豹
 panthini::village
-panti::village
 pantiani::village
+panti::village
 pantoja::village
 panton::village
+pant::village
 panwatta::village
-panwila::village
 panwilatenna::village
+panwila::village
+pányok::village
 panzares::village
 panzdah-e khordad::village
 panzgam::village
@@ -1045,23 +1053,27 @@ paobelys::village
 paope::village
 paoufla::village
 papadates::village
+pápadereske::village
 papadindar-e olya::village
 papagayos::village
 papagiannis::village
 papai::village
 papakht::village
+pápakovácsi::village
 papaleh::village
-papan::village
 papanacheri::village
 papanashi::village
 papannapet::village
-papar::village
+papan::village
 paparcé::village
 paparis::village
+papar::village
 paparzyn::village
+pápasalamon::village
+pápateszér::village
 papatya::village
+păpăuți::village
 papayenga (diambanga)::village
-pape::village
 papedeh::village
 papegem::village
 papekop::village
@@ -1069,17 +1081,20 @@ papelekis::village
 papenvoort::village
 paper:纸
 paperino::village
-papi ahmad::village
-papi khaldar-e olya::village
-papi khaldar-e sofla::village
+pape::village
 papiabad kalivand::village
 papiabad::village
+papi ahmad::village
 papiaru::village
+papi khaldar-e olya::village
+papi khaldar-e sofla::village
 papineau::village
 papisilla::village
 papiškės (merkinė)::village
+papı::village
 papkeszi::village
 papnamau::village
+pápoc::village
 papol-e madian rud::village
 papoli-ye olya::village
 papoli-ye vosta::village
@@ -1092,44 +1107,26 @@ pappakudi (north)::village
 pappakudi (south)::village
 pappakudi::village
 pappiana::village
-paprat::village
+páprád::village
 papratnica::village
+paprat::village
 papravənd::village
 paprawat::village
 paprotki::village
 papsaare::village
 papua new guinea:巴布亚新几内亚
+pa pulak::village
 papun-e olya::village
 papun-e sofla::village
 papworth everard::village
-papı::village
+pa qalatan-e bala::village
+pa qalatan-e pain::village
 paqalat::village
+pa qaleh::village
+pa qaleh-ye khoskheh rud::village
 paqich bandar::village
-par ahu::village
-par chinak::village
-par chunak::village
-par eshkaft::village
-par khalil::village
-par kola::village
-par kuh::village
-par neveshteh-ye do::village
-par neveshteh-ye yek::village
-par sefid::village
-par siah::village
-par surakh::village
-par vazin::village
-par zard::village
-par zeytun::village
-par-e molla::village
-par-e nobar::village
-par-e shushtari::village
-par::village
-para kalan::village
-para khurd::village
-para qeshlaq-e olya::village
-para qeshlaq-e sofla::village
-para qeshlaq::village
-para::village
+pâques::village
+paraboea halongensis::plant
 parabola:抛物线
 parabolas:抛物线
 paraboloid:抛物面
@@ -1138,10 +1135,11 @@ parachan::village
 paradarami::village
 parade:游行
 paradeka::village
-paradis::village
+paradise:天堂
 paradise valley::village
 paradise::village
-paradise:天堂
+paradis::village
+parád::village
 paradwys::village
 paraf-e bala::village
 paraf-e pain::village
@@ -1153,84 +1151,90 @@ paragpur::village
 paragraph:段
 paraguay:巴拉圭
 parah ardeshir-e jadid::village
-parah puneh::village
 parah-e hirami::village
+parah puneh::village
+par ahu::village
 paraiya namaksar::village
-parak::village
+para kalan::village
 parakal::village
-parakar::village
 parakarungu::village
+parakar::village
 parakatawella::village
 parakende, manavgat::village
+para khurd::village
 parakkalakkottai::village
+päraküla::village
+parak::village
 paralar::village
 paraliwala::village
-parallel lines:平行线
 parallel:平行的
-param::village
+parallel lines:平行线
 paramanatham::village
 paramarthalingapuram::village
 parameter:参数
 paramjitpur::village
 paramun::village
-paran dar::village
-paran parviz::village
-paran::village
-parana::village
+param::village
 paranagama hapukotuwegammedda::village
 paranagama mandandawela::village
 paranagama::village
+parana::village
 parandak::village
 parandan::village
+paran dar::village
 parangal::village
-parangi::village
 parangin::village
+parangi::village
+paran parviz::village
 paranur::village
+paran::village
 parapalu::village
 parapiyun::village
-parappa::village
 parappadi::village
-paras rampur::village
+parappa::village
+para qeshlaq-e olya::village
+para qeshlaq-e sofla::village
+para qeshlaq::village
 parasani::village
 parasapur::village
-parasite:寄生生物
 parasite:寄生虫
+parasite:寄生生物
+parasitic:寄生的
 parasitic disease:寄生虫病
 parasitic worm:寄生虫
-parasitic:寄生的
 parasitism:寄生
 parasitology:寄生生物学
 paraskevi::village
 parasmaa::village
-parasmetsa::village
 parasmäe::village
+parasmetsa::village
+paras rampur::village
 parasrampur::village
 parastan::village
 parasuvaikkal::village
 paraswadi::village
+parasyrphus melanderi::plant
 parasznya::village
 paratroop:伞兵部队
 paratrooper:伞兵
 paratroopers:伞兵们
 paratroops:伞兵部队
-parau::village
 paraura::village
-parava::village
+parau::village
 paravadi::village
 paravakar::village
 paravakkottai::village
 paravathur::village
+parava::village
+para::village
 paravur::village
 parayakad, alappuzha::village
 parazan::village
 parbat khera::village
-parc dubois::village
-parc-llyn::village
 parcani::village
+parc dubois::village
 parcele legbądzkie::village
 parcele sokołowskie::village
-parch kuh::village
-parch::village
 parchak::village
 parcham-e qadim::village
 parchanie::village
@@ -1240,30 +1244,34 @@ parcheh qeshlaq::village
 parcheh sorkheh::village
 parchel::village
 parcheqli::village
-parchestan-e al kalu::village
 parchestan-e ali hoseyn molla::village
+parchestan-e al kalu::village
 parchestan-e fazel::village
 parchestan-e owrak shalu::village
 parchi kola::village
-parchi::village
 parchim kesh::village
+par chinak::village
 parchin bolagh::village
-parchin poshteh::village
+parchineh::village
 parchin-e olya::village
 parchin-e sofla::village
+parchin poshteh::village
 parchin::village
-parchineh::village
+parchi::village
+parch kuh::village
 parchkuh::village
 parchovtsi::village
-parchur::village
-parchy::village
 parchów::village
-pard sar::village
-pardalabad, zahedan::village
+par chunak::village
+parchur::village
+parch::village
+parchy::village
+parc-llyn::village
 pardalabad-e hesarooie::village
+pardalabad, zahedan::village
 pardameh::village
-pardan::village
 pardangun::village
+pardan::village
 pardaram::village
 pardastlu::village
 pardeeville::village
@@ -1271,47 +1279,49 @@ pardeh sar::village
 pardeh::village
 pardi::village
 pardossi::village
+pard sar::village
 pardul::village
 pare ahmad::village
 pare droo::village
 pareh aleh::village
 pareh kabud::village
+pareh::village
 pareh-ye olya::village
 pareh-ye sofla::village
-pareh::village
 parei::village
-parek::village
 parekklisia::village
+parek::village
+par-e molla::village
 parem::village
-paren::village
+par-e nobar::village
 parent:父母
 parenthesis:圆括号
-paresh kuh::village
+paren::village
 pareshkaft-e darb kalat::village
+par eshkaft::village
+paresh kuh::village
+par-e shushtari::village
 paresk::village
 paretz::village
 parevana::village
-parewa kheda::village
 parewadi::village
+parewa kheda::village
 parezgys::village
 pargan::village
 pargeh::village
 pargitaguse::village
-pargu::village
 pargua::village
+pargu::village
 parham::village
 parhari::village
 parhi::village
 parhuz-e talkhab shirin::village
-pari gam jagir::village
-pari kola::village
-pari mordeh-ye bala::village
-pari::village
+pariabad::village
 pariab-e seyd-e mohammad::village
 pariab::village
-pariabad::village
 parian-e allah morad::village
 parian::village
+pari gam jagir::village
 parig-e tariqi::village
 parigi::village
 pariisi::village
@@ -1319,15 +1329,19 @@ parijan::village
 parikedun::village
 parikhan::village
 parikhara::village
-paril::village
+pari kola::village
 parila::village
+paril::village
 parimeh::village
+pari mordeh-ye bala::village
+pärinurme::village
 parippally::village
 paris:巴黎
 parisan::village
 parish:教区
 parishan::village
 parishwad::village
+pärispea::village
 parisselja::village
 paritala::village
 pariu-ye arab::village
@@ -1335,72 +1349,85 @@ parivach zabandi kayi::village
 pariveh-ye olya::village
 pariveh-ye sofla::village
 parivere::village
+pärivere::village
+pari::village
+pári::village
+päri::village
 pariyan::village
 pariyar::village
 parizadlu::village
 parjian kalan::village
 parjian khurd::village
-park ridge::village
-park::village
 park:公园
-parka posht-e mehdikhani::village
-parka posht-e yavarzadeh::village
 parkab::village
 parkak::village
 parkaleh::village
+parkandabad::village
+parkand::village
 parkan-e al-e musa::village
 parkan-e gishu::village
-parkand::village
-parkandabad::village
 parkani lup::village
 parkanji::village
 parkanlu::village
+parka posht-e mehdikhani::village
+parka posht-e yavarzadeh::village
 parkdale::village
 parkersburg::village
 parkestan::village
+par khalil::village
 parkham::village
 parkharan::village
 parkhomivka::village
 parkhotampur::village
+par kola::village
 parkoszów::village
+park ridge::village
 parksi::village
-parkway::village
+par kuh::village
+park::village
 parkway:景观大道
+parkway::village
 parlascio::village
 parlavà::village
 parle::village
-parli-i::village
-parli-ii::village
 parliament:国会
-parliamentary system:议会制
 parliamentary:议会的
+parliamentary system:议会制
 parlichevo::village
-parlin::village
+parli-ii::village
+parli-i::village
 parlinek::village
+parlin::village
 parlor:客厅
 parluk::village
-parma::village
 parmakkurdu::village
 parmanuiyeh::village
+parma::village
+parmeh::village
 parmeh-ye olya::village
 parmeh-ye sofla::village
-parmeh::village
 parmich::village
 parminav shamiun::village
 parmu ka purwa::village
 parmupalu::village
 parnaim::village
+pärnamäe::village
 parnasala::village
 parnatabad::village
+pärna::village
+par neveshteh-ye do::village
+par neveshteh-ye yek::village
 parnimeh::village
+pärni::village
+pärnselja::village
 paroha::village
 paropėlis::village
+parośla-pniski::village
 parowa falęcka::village
-parowa::village
 parowal::village
+parowa::village
 paroxysm:突发
 paroxysmal:突发的
-parośla-pniski::village
 parparuiyeh::village
 parpi::village
 parpujë::village
@@ -1409,38 +1436,46 @@ parrana san martino::village
 parrega::village
 parret::village
 parrot:鹦鹉
-pars-e jonubi-ye do::village
-pars-e jonubi-ye yek::village
-parsa::village
 parsah su::village
-parsan::village
-parsanda::village
+pärsama::village
 parsandan::village
+parsanda::village
 parsanian::village
+parsan::village
 parsathua::village
+parsa::village
 parsbanaj::village
 parse:分析
 parsebil::village
+par sefid::village
+pars-e jonubi-ye do::village
+pars-e jonubi-ye yek::village
 parsenahatti::village
 parser:分析器
 parsha::village
 parsheh::village
 parshu::village
-parsi::village
+par siah::village
+pärsikivi::village
 parsipur::village
+parsi::village
+pärsi::village
 parski::village
 parsora::village
 parsoriya::village
+pärsti::village
+par surakh::village
 parszowice::village
-part-e kola::village
 part:部分
-parta nagla::village
 partabpura::village
-partap pore::village
+parta nagla::village
 partapil::village
+partap pore::village
 partappura::village
 partapur::village
+partęczyny::village
 parteen::village
+part-e kola::village
 partena::village
 partevtsi::village
 parthanahalli::village
@@ -1454,54 +1489,86 @@ partsaare::village
 partsi::village
 party:党
 party:聚会
-partęczyny::village
-paru mahalleh-ye mangelab::village
+paručiai::village
+pa rudbar::village
 parukkal (east)::village
-parul::village
 parulia::village
+parul::village
+paru mahalleh-ye mangelab::village
 parumarathupatti::village
 parumi hajji heydar::village
-parun::village
 parunthumpara::village
+parun::village
 parupaka::village
 paruszewice::village
 paruthiapparkoil::village
 paruthicheri::village
 paruthikottai::village
 paruyr sevak::village
-paručiai::village
-parva::village
 parvadeh::village
 parvaliya sani::village
-parvan::village
 parvand::village
 parvaneh::village
+parvan::village
 parvaraq::village
 parvarijabad::village
+parva::village
+par vazin::village
 parvaz::village
 parvenets::village
 parvezpur::village
+par::village
 parvin langeh::village
-parviz khani::village
-parviz khanlu::village
-parviz, zahedan::village
-parviz::village
 parvizabad::village
 parvizak::village
+parviz khani::village
+parviz khanlu::village
+parviz::village
+parviz, zahedan::village
 parvomay::village
-parwa::village
 parwad::village
 parwaliya sadak::village
 parwaria::village
+parwa::village
 parya katli::village
 parypse::village
 paryż::village
+par zard::village
 parzard::village
 parzegan-e sofla::village
 parzeh::village
+par zeytun::village
 parzyce::village
-parád::village
+pasabandar::village
+pasadena park::village
+pasaiya::village
+pasak-e sofla::village
+pasakhor::village
+pasaki::village
+paşakonağı::village
+paşaköy::village
+paşaköy, yenipazar::village
+pasak::village
+pasalapudi::village
+pasalari::village
+paşalı::village
+pasandarreh::village
+pasandeh-ye olya::village
+pasand khan::village
+pasand::village
+pasangar::village
+pasang-e bala::village
+pasang-e pain::village
+pasan khera::village
+paşan::village
+pasarian::village
+pasarni::village
+pasaruginne::village
+pasar::village
 pas asiab-e fartaq::village
+pasat darreh::village
+pasaveh::village
+paşayurdu::village
 pas bagh-e shamshir::village
 pas band::village
 pas bast::village
@@ -1510,78 +1577,41 @@ pas bijar gafsheh::village
 pas bol::village
 pas chat delik::village
 pas chat sharang rang::village
-pas chavar::village
-pas deh::village
-pas fidaneh::village
-pas kalayeh-ye bozorg::village
-pas kamar::village
-pas kareh::village
-pas khvori::village
-pas kooshe::village
-pas kuh::village
-pas kuhak::village
-pas kul::village
-pas langar::village
-pas peres::village
-pas poshteh::village
-pas qaleh::village
-pas resh::village
-pas tang::village
-pas tuk::village
-pasabandar::village
-pasadena park::village
-pasaiya::village
-pasak-e sofla::village
-pasak::village
-pasakhor::village
-pasaki::village
-pasalapudi::village
-pasalari::village
-pasan khera::village
-pasand khan::village
-pasand::village
-pasandarreh::village
-pasandeh-ye olya::village
-pasang-e bala::village
-pasang-e pain::village
-pasangar::village
-pasar::village
-pasarian::village
-pasarni::village
-pasaruginne::village
-pasat darreh::village
-pasaveh::village
 paschat::village
+pas chavar::village
 paschim singhichhara::village
 pascola::village
+pas deh::village
+pa sefid::village
 pasefid::village
 paserkanlu::village
-pasgah hudian::village
+pas fidaneh::village
 pasgah-e marzi pol-e sharqi::village
 pasgah-e palis rah::village
+pasgah hudian::village
 pasgolam::village
-pash bolagh::village
-pash-e olya::village
-pash-e sofla::village
+pashabad::village
 pasha beyg::village
 pasha chay::village
+pashagh-e jadid::village
+pashai::village
+pasha kola::village
 pasha kola-ye afrakoti::village
 pasha kola-ye arbabi::village
 pasha kola-ye bish mahalleh::village
 pasha kola-ye enteqali::village
-pasha kola::village
-pashabad::village
-pashagh-e jadid::village
-pashai::village
 pashaly treti::village
 pasham::village
-pashand::village
 pashandegan::village
+pashand::village
 pashbard::village
+pash bolagh::village
 pashed::village
 pasheh dan::village
 pasheh kan::village
 pashehlar::village
+pash-e olya::village
+pash-e sofla::village
 pashgar::village
 pashindeh::village
 pashintsi::village
@@ -1594,8 +1624,8 @@ pashkashesh::village
 pashkeh::village
 pashkivtsi::village
 pashkul::village
-pashmak panadeh::village
 pashmak-e towq tamish::village
+pashmak panadeh::village
 pashneh daran::village
 pashovo::village
 pashqobran::village
@@ -1603,65 +1633,82 @@ pashtab::village
 pashtal sara::village
 pashtraj::village
 pashuiyeh::village
-pasi tusi::village
 pasib::village
 pasieczna::village
 pasiecznik::village
-pasieka::village
 pasiekai::village
+pasieka::village
 pasieki::village
 pasikhan::village
 pasikot::village
 pasikurowice::village
 pasil::village
 pasin darreh::village
+pašino ruvci::village
 pasirpanjang::village
+pasi tusi::village
 pasiyahi kala::village
 pasiyahikhurd::village
 pasjak::village
 pasjane::village
 paskahak::village
+pas kalayeh-ye bozorg::village
 paskalevo::village
+pas kamar::village
 paskan::village
 paskardžiai::village
+pas kareh::village
 paskeh::village
 paskerdūmiukas::village
 paskerdūmys::village
 paskhan::village
+pas khvori::village
 paski mahalleh::village
+pas kooshe::village
 paskotiškė::village
-paskuh::village
+pas kuhak::village
 paskuhan::village
+pas kuh::village
+paskuh::village
+pas kul::village
 paskuqan fushë::village
 paskuqan kodër::village
+pas langar::village
 pasla::village
 paslepa::village
 pasli::village
 pasmamla::village
 pasnam::village
-paso hospital::village
 pasoda::village
+paso hospital::village
 pasorkhi::village
 paspal::village
 paspanga, bam::village
 paspanga, ganzourgou::village
-pass away:去世
+pas peres::village
+pas poshteh::village
+pas qaleh::village
+pas resh::village
 passamainty::village
 passan kadim::village
 passan::village
-passe::village
+pass away:去世
 passenger:乘客
-passi::village
+passe::village
 passiewal::village
+passiflora kuranda::plant
+passiflora palenquensis::plant
 passion:激情
+passi::village
 passoute::village
 passport:护照
 password:密码
 passy-kéli::village
 past:过去的
-pastak::village
 pastaku::village
+pastak::village
 pastal kuh::village
+pas tang::village
 pastaur::village
 paste:粘贴
 pasternik::village
@@ -1674,46 +1721,51 @@ pastrogor::village
 pastrook::village
 pastuchów::village
 pastuh::village
+pas tuk::village
 pasumarru::village
 pasupathihal::village
 pasupathikoil::village
+pašušvys::village
 pasvalio vienkiemiai::village
 pasveh::village
 pasvik::village
 pasvisheh::village
 paszowice::village
-pat pat::village
-pat rud pey::village
-pat::village
-pata::village
 patagundi::village
 patah vir::village
+patakata::village
 patak-e arab::village
 patak-e bajgan::village
 patak-e beygdeli::village
 patak-e jalali::village
-patak::village
-patakata::village
+pa takht-e do::village
+pa takht-e seh::village
 patakht-e shah mohammad::village
+pa takht-e yek::village
 patakht::village
-patal rahimi::village
+patak::village
 patal-e isin::village
-patal::village
 patalenitsa::village
-patali::village
 patalian::village
+patali::village
 patalom::village
 patalpani::village
 patalpur::village
+patal rahimi::village
+patal::village
 patanak::village
+pa tang::village
 patapoklosi::village
+pa tappeh::village
+pa tappeh-ye gunesban::village
 pataq::village
-patar::village
 patardi::village
 patardzeuli::village
+patar::village
 pataunja::village
 pataura::village
 patavan::village
+pataveh::village
 pataveh-ye ajam::village
 pataveh-ye charusa::village
 pataveh-ye delita::village
@@ -1721,7 +1773,7 @@ pataveh-ye gelal::village
 pataveh-ye kari::village
 pataveh-ye pey rah::village
 pataveh-ye rud sameh::village
-pataveh::village
+pata::village
 patayamatebele::village
 patca::village
 patch grove::village
@@ -1736,11 +1788,11 @@ pateshwar::village
 patgaon::village
 patgigan::village
 path:路径
-patha majeru::village
 pathagollapalle::village
 pathakchak::village
 pathalapattai::village
 pathalgada::village
+patha majeru::village
 pathamkulam::village
 pathamuttom::village
 patharchapuri::village
@@ -1751,8 +1803,8 @@ pathariya::village
 patharlapahad::village
 patharshet::village
 patharwadi::village
-pathe::village
 patherheri::village
+pathe::village
 pathikonda::village
 pathimari::village
 pathiyoor::village
@@ -1776,6 +1828,7 @@ patisang::village
 patitsa::village
 patjala::village
 patkan::village
+pátka::village
 patkolagolla::village
 patkonan-e bala::village
 patkuhi::village
@@ -1786,14 +1839,18 @@ patmati::village
 patna::village
 patne::village
 patnikovo::village
-pato kalan::village
-pato khurd::village
+pątnówek::village
+pątnów legnicki::village
+pątnów::village
 patodi::village
+pato kalan::village
 patoka::village
+pato khurd::village
 patole::village
 patolon::village
 patomha::village
 patosfa::village
+pat pat::village
 patranys::village
 patrasayer::village
 patreshko::village
@@ -1806,6 +1863,8 @@ patron:赞助人
 patronage:光顾
 patronage:赞助
 patrówek::village
+pat rud pey::village
+pätsavere::village
 pattabong tea garden::village
 pattanakkad::village
 pattancherry::village
@@ -1814,20 +1873,20 @@ pattar kalan::village
 pattern:模式
 pattersons::village
 pattesley::village
+pattia::village
 patti bakarpur::village
 patti bhalu bahadur::village
+pattihal kariyat sampagaon::village
+pattihal (k.b.)::village
+pattihan bazar::village
 patti kalyana::village
+pattinarendrapur::village
 patti safdarpur::village
 patti sardar nabi bakhash::village
-patti shahpur::village
-patti::village
-pattia::village
-pattihal (k.b.)::village
-pattihal kariyat sampagaon::village
-pattihan bazar::village
-pattinarendrapur::village
 pattiseema::village
+patti shahpur::village
 pattitalawa::village
+patti::village
 pattiwaras::village
 pattiwela::village
 pattiyamulla::village
@@ -1839,49 +1898,57 @@ patuari::village
 patuf::village
 paturda::village
 patvarc::village
+pat::village
 patyora::village
+páty::village
 pauastvere::village
+pāuatahanui::village
+paučina::village
 paukaing::village
 paukka::village
 paukkon::village
-paul::village
 paul:保罗
-pauliku::village
-paulin dvor::village
-paulina::village
-pauliny::village
 pauléoula::village
+paúles de lara::village
+păulești::village
+paūliai::village
+pauliku::village
+paulina::village
+paulin dvor::village
+pauliny::village
+paullinia paullinioides::plant
+paullinia pinnata::plant
+paul::village
 paunaste::village
 paunevan::village
 paungbyin::village
 paunggyaung::village
 paunküla::village
 paurano::village
-paučina::village
+pauridia::plant
 pava'ia'i::village
-pava::village
 paval::village
-pavan::village
 pavanje::village
-pavares::village
+pavan::village
 pavarėnis::village
-pave the way:铺路
+pavares::village
+pava::village
 pave:铺
 pavenar::village
 paversekis::village
+pave the way:铺路
 pavikšrupys::village
 pavilion:亭子
 pavino polje::village
 pavithiram::village
 pavithrampudur::village
 pavlevtsi::village
-pavliš::village
 pavlišov::village
+pavliš::village
 pavlopil::village
-pavlova::village
 pavlovac::village
+pavlova::village
 pavshyno::village
-paw paw::village
 paw:兽掌
 pawahku::village
 pawahri::village
@@ -1889,46 +1956,25 @@ pawalewadi::village
 pawarkheda::village
 pawati::village
 pawawala::village
-pawen::village
 pawełki::village
+pawen::village
 pawlaw::village
 pawlichy::village
 pawlikowice::village
+pawłoszewo::village
+pawłówek::village
+pawłowice::village
+pawłowice wielkie::village
+pawłów trzebnicki::village
+pawłów::village
 pawlrang::village
 pawnee::village
 pawngen::village
 pawnyang::village
+paw paw::village
 pawzang::village
-pawłoszewo::village
-pawłowice wielkie::village
-pawłowice::village
-pawłów trzebnicki::village
-pawłów::village
-pawłówek::village
 paxton::village
-pay doldol::village
-pay gadar::village
-pay kuh mollah::village
-pay kuh-e sefid::village
-pay ostan::village
-pay par rud sameh::village
-pay par::village
-pay rah-e chal balutak::village
-pay risheh kuh::village
-pay takht-e varzard::village
-pay takht-e zal::village
-pay taq::village
-pay tavah::village
-pay-e borj::village
-pay-e rah::village
-pay-e zebr::village
-pay-ye qaleh::village
-pay-ye sorkh::village
-pay-ye tal::village
-pay-ye tom::village
 pay:付款
-paya-ngokto::village
-paya::village
 payamburnu::village
 payamdüzü::village
 payamlı::village
@@ -1936,12 +1982,22 @@ payamtenga::village
 payanam::village
 payandeh::village
 payaneh-ye bar yazd::village
+paya-ngokto::village
 payani::village
 payapur::village
 payari::village
+paya::village
 paybin::village
+pay doldol::village
+pa-ye astan::village
+pay-e borj::village
 payehan::village
+pay-e rah::village
 payervand-e tekyeh::village
+pa-ye takht-e golzar::village
+pa-ye takht-e talkor::village
+pay-e zebr::village
+pay gadar::village
 paygah-e ashayiri::village
 paygah-e panjam shakari::village
 paygah-e roodmahi::village
@@ -1951,58 +2007,65 @@ payingomuwa::village
 payippad::village
 payit::village
 paykabud::village
+pay kuh-e sefid::village
+pay kuh mollah::village
 paynesville::village
 paynton::village
+pay ostan::village
+pay par rud sameh::village
+pay par::village
 payradanga::village
 payrah chal-e monar::village
+pay rah-e chal balutak::village
+pay risheh kuh::village
 payson::village
 paytaf::village
+pay takht-e varzard::village
+pay takht-e zal::village
+pay taq::village
+pay tavah::village
 payuha::village
 payyanadam::village
+pay-ye qaleh::village
+pay-ye sorkh::village
+pay-ye tal::village
+pay-ye tom::village
 pazanan deli ali penah beygi::village
 pazanan-e deh chel::village
 pazanan::village
 pazanuyeh::village
-pazar, kızılcahamam::village
-pazar::village
-pazard::village
 pazardalu::village
+pazard::village
+pazar, kızılcahamam::village
 pazarköy::village
 pazartsi::village
+pazar::village
+paździorno::village
 pazhampillichal::village
 pazhaveedu::village
 pazhbard::village
 pazhur::village
 paziarat::village
+pažiedupys::village
 pazik kheyl::village
 pazik::village
-pazin::village
 pazinaclone:帕秦克隆
+pazin::village
+pázmándfalu::village
+pázmánd::village
 pazmin::village
 pazouétfom::village
 pazuengos::village
-paúles de lara::village
-paąžuolė::village
-paşakonağı::village
-paşaköy, yenipazar::village
-paşaköy::village
-paşalı::village
-paşan::village
-paşayurdu::village
-pašino ruvci::village
-pašušvys::village
-paūliai::village
-paździorno::village
-pažiedupys::village
-pchela::village
+p.başören, kızılcahamam::village
 pchelari::village
 pchelarovo::village
-pchelin::village
+pchela::village
 pchelino::village
+pchelin::village
 pchelnik::village
 pea:豌豆
-peace dale::village
 peace:和平
+peace dale::village
 peaceful:和平的
 peacock:孔雀
 peak:峰
@@ -2017,15 +2080,29 @@ peatskivi::village
 peazens::village
 pebadjibe::village
 pebin::village
+pećarska::village
 pecatonica::village
+peçenek, kazan::village
 pechera::village
+pęchowo::village
 pechterna::village
 peciște::village
+pęciszów::village
+peći::village
+pečke::village
 peck::village
 peckville::village
-pecos::village
+pęcławice górne::village
+pęcław::village
 pecöl::village
-peda ogirala::village
+pecos::village
+pécsbagota::village
+pécsdevecser::village
+pécsely::village
+pécsudvard::village
+pečurice::village
+pęczków::village
+pęcz::village
 pedacherlopalle::village
 pedagadavilli::village
 pedakakani::village
@@ -2037,6 +2114,7 @@ pedanadipalli::village
 pedanandipadu::village
 pedant:学究
 pedantic:学究的
+peda ogirala::village
 pedapadu::village
 pedapalem::village
 pedapalla::village
@@ -2058,31 +2136,31 @@ pedda adiserla pally::village
 pedda bandaraviryala::village
 pedda golkonda::village
 pedda gopathi::village
-pedda orampadu::village
-pedda raveedu::village
-pedda shapur::village
-pedda tupra::village
 peddakarpamula::village
 peddakondur::village
 peddamanagalaram::village
 peddamandyam::village
 peddamudium::village
+pedda orampadu::village
 peddapappur::village
 peddapasupula::village
 peddapur::village
+pedda raveedu::village
+pedda shapur::village
 peddathippasamudram::village
+pedda tupra::village
 peddavadugur::village
 peddaveedu::village
 peddavoora::village
 peddemul::village
 pedduru::village
-pedeh::village
 pedehi::village
+pedeh::village
 pedernales::village
 pedestrian:步行者
 pedhambe::village
-pedi::village
 pedino::village
+pedi::village
 pedja::village
 pedoulas::village
 pedra de lume::village
@@ -2090,6 +2168,8 @@ pedraja de san esteban::village
 pedreña::village
 peducha::village
 pedway:步行通道
+pędzewo::village
+pėdžiai::village
 pee:撒尿
 peebu::village
 peederga::village
@@ -2100,11 +2180,11 @@ peep:眯眼偷看
 peep:轻声说
 peepli::village
 peepliya::village
-peer mohammad::village
 peer:同级
 peerawadi::village
 peerewal::village
 peeri::village
+peer mohammad::village
 peerni::village
 peerwana::village
 peest::village
@@ -2115,16 +2195,19 @@ pefkos::village
 pegadapalli::village
 pegadapally::village
 pegon::village
-pegu::village
+pęgów::village
+péguékaha::village
 pegundan::village
-peh nuk::village
-peh::village
+pegu::village
+péhékanhouébli::village
 pehka::village
 pehkwin::village
 pehlivanköy::village
+peh nuk::village
 pehrest-e olya::village
 pehrest-e sofla::village
 pehun::village
+peh::village
 peikchindaw::village
 peikkarumbankottai::village
 peinhnegon::village
@@ -2139,8 +2222,9 @@ pekachuk::village
 peklenica::village
 pekmezci::village
 pekmezli::village
+pękoszów::village
+pększyn::village
 pekuy::village
-pel hava::village
 pelagos::village
 pelah kabud::village
 pelarat::village
@@ -2149,53 +2233,53 @@ pelartegan::village
 pelathousa::village
 pelatikovo::village
 pelawa::village
+pełcznica::village
+pełczyce::village
+pełczyn::village
+pelėdnagiai::village
 pelekas::village
 pelena, eastern province::village
 pelendri::village
 pelenegama::village
 peleriyeh::village
 peletkie::village
+pélézi::village
+pel hava::village
 peligrin::village
-pelin::village
 pelinkovići::village
+pelin::village
+pelitçik, Çamlıdere::village
 pelitcik::village
 pelitli::village
-pelitçik, Çamlıdere::village
 pelkan-e olya::village
 pelkan-e sofla::village
 pelkeh::village
 pelleh shah::village
 pellepitiya::village
+pellérd::village
 pellet:弹丸
 pellston::village
-pellérd::village
+pëllumbas::village
 pelpa::village
 pelt-e kalleh sar::village
 pelton fell::village
 pelutava::village
 pelyandar::village
-pelėdnagiai::village
+pély::village
 pematang gadung::village
 pematangpayung::village
 pembarthy::village
-pembeli::village
 pembelik, gündoğmuş::village
+pembeli::village
 pembrey::village
 pemmanahalli::village
 pemzashen::village
-pen-lon::village
-pen-y-cae::village
-pen-y-clawdd::village
-pen-y-fai::village
-pen-y-garnedd::village
-pen-y-groes::village
 pen:笔
 penagalur::village
 penahetipola::village
 penalaboda::village
 penallt::village
 penart::village
-penc::village
 pencae::village
 pencaitland::village
 pencarnisiog::village
@@ -2204,17 +2288,19 @@ penchikalpahad::village
 pencil:铅笔
 penclawdd::village
 pencombe::village
+penc::village
 pendak::village
 pendas::village
 pender::village
-pendi::village
 pending:悬而未决的
+pendi::village
 pendlimarri::village
 pendoggett::village
 pendro::village
 pendurru::village
 penegoes::village
 penelles::village
+penén de albosa::village
 penermon::village
 peneti::village
 penetrate:插入
@@ -2235,6 +2321,7 @@ penkiv::village
 penkovtsi::village
 penkule::village
 penley::village
+pen-lon::village
 penmachno::village
 pennagar::village
 pennalurpet::village
@@ -2246,10 +2333,13 @@ penny:便士
 penpahad::village
 penparc::village
 penpergwm::village
-penrhos::village
 penrhosfeilw::village
+penrhos::village
 penrhys::village
 pensilva::village
+penstemon cobaea::plant
+pentachlaena latifolia::plant
+pentachlaena vestita::plant
 pentageia::village
 pentagon:五边形
 pentagram:五角星
@@ -2262,12 +2352,11 @@ pentapadu::village
 pentavryso::village
 pentium:奔腾处理器
 pentlepoir::village
-pentre dwr::village
-pentre gwynfryn::village
 pentrebach::village
 pentrechwyth::village
 pentrecwrt::village
-penu::village
+pentre dwr::village
+pentre gwynfryn::village
 penuganchiprolu::village
 penumanchili::village
 penumantra::village
@@ -2275,25 +2364,33 @@ penumarru::village
 penumudi::village
 penumuli::village
 penumuru::village
+penu::village
 penville::village
 penwithick::village
 penwood::village
+pen-y-cae::village
+pen-y-clawdd::village
+pen-y-fai::village
+pen-y-garnedd::village
 penygraigwen::village
+pen-y-groes::village
 penygroes::village
 penyovo::village
-penén de albosa::village
+pénzesgyőr::village
 peont::village
-people's party:人民党
-people's republic:人民共和国
+peony::plant
 people:人们
 people:人民
+people's party:人民党
+people's republic:人民共和国
 peotone::village
 pepandungan::village
 pepbi bala::village
 pepbi paeen (hakimabad)::village
-pepel::village
 pepelishte::village
+pepel::village
 peper::village
+pęperzyn::village
 pepin::village
 pepperstad skog::village
 pepsi:百事可乐
@@ -2301,28 +2398,28 @@ pepsico:百事公司
 peptide:肽
 peqan::village
 per:每
-pera orinis::village
-pera pedi::village
+peračko blato::village
 peraia::village
 peraküla::village
 peralada::village
 peralam::village
 perali::village
 peram kuh::village
+pera orinis::village
+pera pedi::village
 perappadi::village
 peravali::village
-peračko blato::village
 perbál::village
 perca::village
-percent encoding:百分号编码
+përcëllesh::village
 percent:百分比
 percentage:百分比
+percent encoding:百分号编码
 perchelehzar::village
 perchestan::village
 perci::village
 percy::village
 perdue::village
-pere::village
 perebykivtsi::village
 perecherla::village
 perecse::village
@@ -2335,6 +2432,7 @@ perekhodivka::village
 pereküla::village
 peremoha::village
 peren namdi::village
+perennial centaury::plant
 perenye::village
 pererîta::village
 peresecina::village
@@ -2346,55 +2444,57 @@ pereszteg::village
 pereta::village
 perevalivka::village
 perevalne::village
+pere::village
 perform:执行
-performance:性能
 performance:表演
+performance:性能
 performing arts:表演艺术
 perfume:香水
 pergdalembiro::village
 perham down::village
-perhap::village
 perhaps:或许
-peri::village
-peria obulapuram::village
+perhap::village
 periakrishnapuram::village
+peria obulapuram::village
 perichora::village
 perignano::village
 perikivalasa::village
 perikleia::village
 perila::village
-perin::village
 perinad::village
 peringottukara::village
-peringottukurissi-i::village
 peringottukurissi-ii::village
+peringottukurissi-i::village
 perinkulam::village
-period:周期
+perin::village
 period:时期
-periodic table:周期表
+period:周期
 periodic:周期的
+periodic table:周期表
 perion::village
+peripentadenia phelpsii::plant
 peripheral:周围的
 periscope:潜望镜
 peristeronari::village
-perivoli::village
+peri::village
 perivolia tou trikomou::village
-periya kozhappalur::village
+perivoli::village
 periyakankanankuppam::village
 periyakaruppur::village
 periyakkottai::village
+periya kozhappalur::village
 periyalur::village
 periyanagalur::village
 periyanayakichatram::village
 periyanganam::village
 periyavalayam::village
 perjatsi::village
-perka::village
 perkapally::village
+perkáta::village
+perka::village
 perkinsville::village
 perkowice::village
 perkupa::village
-perkáta::village
 perlat::village
 perloja::village
 permisküla::village
@@ -2402,6 +2502,7 @@ permission:许可
 permit:许可
 pernaklar::village
 pernamitta::village
+perőcsény::village
 peroj::village
 perom::village
 peron::village
@@ -2409,23 +2510,42 @@ peroor::village
 peroulades::village
 perovo::village
 peroxide:过氧化物
+përparim::village
 perpendicular:垂直
 perperek::village
 perperiyankuppam::village
 perpetrate:犯下
+perrierodendron quartzitorum::plant
 perrinton::village
 perry::village
 persaura::village
-persian gulf residential complex::village
 persian:波斯人
 persian:波斯语
+persian gulf residential complex::village
 persistence:坚持
 persistent:坚持的
 person:个人
-personal life:私生活
 personal:私人的
+personal life:私生活
 personnel:职员
-peru::village
+persoonia acuminata::plant
+persoonia adenantha::plant
+persoonia brevifolia::plant
+persoonia cornifolia::plant
+persoonia curvifolia::plant
+persoonia daphnoides::plant
+persoonia fastigiata::plant
+persoonia flexifolia::plant
+persoonia hindii::plant
+persoonia isophylla::plant
+persoonia katerae::plant
+persoonia microphylla::plant
+persoonia oblongata::plant
+persoonia procumbens::plant
+persoonia prostrata::plant
+persoonia subtilis::plant
+persoonia sulcata::plant
+persoonia tropica::plant
 peru:秘鲁
 peruj::village
 perumakkanallur::village
@@ -2448,15 +2568,16 @@ perunika::village
 perur::village
 peruvannamuzhi::village
 peruvian vale::village
+peru::village
+pér::village
 pervomaiscoe::village
 pervomaiske::village
 pervomayka::village
-perőcsény::village
-pesan::village
 pesanggaran::village
-pesar::village
+pesan::village
 pesarapadu::village
 pesarlanka::village
+pesar::village
 peschanaya::village
 pescia fiorentina::village
 pescina::village
@@ -2482,41 +2603,48 @@ pestagan::village
 pestak::village
 pesteh beyglu::village
 pesteh::village
+peštiniukai::village
 pesucen::village
 pesujban::village
 pesyan::village
 pet:宠物
-peta::village
 petaaluse::village
+pètakakisgou::village
 petaklu::village
 petanjungan::village
 petarch::village
 petarwar::village
-pete, zanzibar::village
+peta::village
+petchia madagascariensis::plant
 petegem-aan-de-leie::village
-petek::village
 petekkaya::village
 petekli::village
+petek::village
 petelovo::village
 petelqan::village
 peter:彼得
 peterd::village
+péterhida::village
+péteri::village
 petersburg::village
 petersham::village
 peteru::village
-peth islampur::village
-peth shahapur::village
-peth::village
+pete, zanzibar::village
+pétfürdő::village
 pethalur::village
 pethbugh::village
+peth islampur::village
 pethmakhama::village
-pethuchettypet::village
 pethőhenye::village
+peth shahapur::village
+pethuchettypet::village
+peth::village
 peticeni::village
 petif::village
+pétigoa 2::village
+petite:娇小的
 petit-guiglo::village
 petit-nobressard::village
-petite:娇小的
 petiyagoda::village
 petkala::village
 petkat::village
@@ -2529,7 +2657,10 @@ petlovača::village
 petneháza::village
 petnjica::village
 petnjik::village
+petőfibánya::village
+petőháza::village
 petojevići::village
+petőmihályfa::village
 petrashivka::village
 petrašiūnai::village
 petrelik::village
@@ -2547,91 +2678,84 @@ petropavlivka::village
 petropavlivska borshchahivka::village
 petrosashen::village
 petrovec::village
+petrovë::village
+petrovići::village
 petrovija::village
 petrovirivka::village
-petrovići::village
 petrovka::village
-petrovo polje::village
 petrovo, blagoevgrad province::village
+petrovo polje::village
 petrovtsi::village
-petrovë::village
-petrow::village
 petrowki::village
+petrow::village
 petrud::village
 petrunea::village
-petrusville::village
 petrușeni::village
+petrusville::village
 petsovtsi::village
 pettai::village
-petten::village
 pettend::village
+petten::village
 petti mohammad jadgal::village
-petti::village
 pettingen::village
+petti::village
 pettori::village
-petőfibánya::village
-petőháza::village
-petőmihályfa::village
 pevidém::village
 pewamo::village
 pewaukee::village
 pewsum::village
 pey abzar::village
-pey deh::village
-pey kola::village
-pey komak::village
-pey majan::village
-pey navand::village
-pey posht::village
-pey qaleh::village
-pey rud::village
-pey zard-e bahram beygi-ye olya::village
-pey::village
 peyambur::village
 peyanvilai::village
 peyavin::village
 peychun::village
 peydan kuh::village
+pey deh::village
+peyədərə::village
 peygambar::village
 peyghambarlu::village
 peyghan::village
 peyhan::village
-peyk::village
 peykan::village
+pey kola::village
+pey komak::village
 peykuh::village
 peykulah::village
+peyk::village
+pey majan::village
 peymot::village
+pey navand::village
 peyna::village
 peynirli::village
 peyovtsi::village
+pey posht::village
+pey qaleh::village
 peyre::village
+pey rud::village
 peyrutabad::village
 peysara::village
 peyvand-e kohneh::village
 peyvand-e olya::village
 peyvast::village
-peyədərə::village
-pez-e olya::village
-pez-e sofla::village
-pez-e vosta::village
+pey::village
+pey zard-e bahram beygi-ye olya::village
 pezë e madhe::village
 pezë e vogël::village
 pezë helmës::village
-peçenek, kazan::village
-pećarska::village
-peći::village
-pečke::village
-pečurice::village
-pełcznica::village
-pełczyce::village
-pełczyn::village
-peštiniukai::village
+pez-e olya::village
+pez-e sofla::village
+pez-e vosta::village
+pələkli::village
+pərdiqıran::village
+pərioğlular::village
 phaijol::village
 phaikolum::village
+phalaenopsis equestris::plant
 phalaibania::village
 phalane::village
 phalangon::village
 phalasia::village
+phaleria perrottetiana::plant
 phalina::village
 phalpota::village
 phambra::village
@@ -2645,14 +2769,14 @@ phangota::village
 phanigiri::village
 phanjang::village
 phansu::village
+phantom:幻觉
 phantom limb:幻肢
 phantom pain:幻痛
-phantom:幻觉
 pharala::village
 pharsatar::village
 pharwala::village
-phase space:相空间
 phase:阶段
+phase space:相空间
 phasiatala::village
 phathalē::village
 phelungre::village
@@ -2667,49 +2791,66 @@ pheriche::village
 phey::village
 phezhu::village
 phiali::village
-philadelphia::village
 philadelphia:费城
+philadelphia::village
 philip:菲利普
 philippines:菲律宾
-phillips::village
 phillipsburg::village
 phillipstown::village
+phillips::village
+philodendron burle-marxii::plant
+philodendron patriciae::plant
 philosopher:哲学家
 philosophy:哲学
+philotheca hispidula::plant
 philousa kelokedharon::village
 phirangipuram::village
 phisare::village
+phlebocarya ciliata::plant
+phlebocarya filifolia::plant
+phlebocarya pilosissima::plant
 phodong forest block::village
+phoenix:凤凰
 phoenix green::village
 phoenix::village
-phoenix:凤凰
 phogat::village
 pholai::village
 phone:电话
 phonetic:语音的
 phoolpur::village
 phosphorus:磷
+photinia anlungensis::plant
+photinia serratifolia::plant
+photinia serrulata::plant
 photo:照片
 photography:摄影
 photon:光子
 photonics:光子学
 photorealistic:照片级逼真的
 phrase:词组
+phrynium macrocephalum::plant
 phuduhudu::village
 phuktse::village
-phul makauri::village
-phula::village
 phulai::village
+phula::village
 phuljhuri::village
 phulke::village
 phulmaddi::village
+phul makauri::village
 phulta::village
 phulwariwa::village
 phunom::village
+phước tích::village
 phupgaon::village
 phurlak::village
 phyang::village
 phylum:门
+phymatocarpus interioris::plant
+phymatocarpus maxwellii::plant
+phymatocarpus porphyrocephalus::plant
+physalis pruinosa::plant
+physical:身体的
+physical:物理的
 physical constant:物理常量
 physical exercise:身体锻炼
 physical law:物理定律
@@ -2717,46 +2858,47 @@ physical properties:物理属性
 physical science:物理学
 physical system:物理系统
 physical therapy:物理治疗
-physical:物理的
-physical:身体的
 physician:内科医生
 physicist:物理学家
 physics:物理
 physiological:生理学的
 physiology:生理学
-phước tích::village
-pi chelow::village
-pi kharabeh darrehna::village
+physocarpus alternans::plant
+physopsis spicata::plant
 piaghuzbon::village
 piamen-e olya::village
 piamen-e sofla::village
 pian d'alma::village
 pian di rocca::village
+pianella::village
 pian-e olya::village
 pian-e sofla::village
-pianella::village
 piano:钢琴
 piaseczna::village
 piaseczno::village
 piaski::village
 piastoszyn::village
 piastowo::village
+piątki::village
+piątkowo::village
 piavets::village
-piaz kesh::village
 piazabad::village
 piazkar::village
+piaz kesh::village
 piazze::village
 pibari::village
 picall::village
 piccotts end::village
-pich kuh::village
+piçənis::village
 pichah::village
 pichak mahalleh::village
 pichaqchi::village
 pichatur::village
 pichdeh::village
 pichekan::village
+pi chelow::village
 pichhaura::village
+pich kuh::village
 pichorowice::village
 pichsun::village
 pickersgill::village
@@ -2773,24 +2915,30 @@ pidlissia::village
 pidula-kuusiku::village
 pidula::village
 pidzamochok::village
-pie de pepe::village
 piece::village
 piecewise:分段的
 piecewo::village
 piechcin::village
 piecki::village
+pięćmorgi::village
 piecowice::village
 pieczyska::village
+pie de pepe::village
 piekary::village
+piękocin::village
 pielaszkowice::village
 pieleszki::village
 pielgrzymka::village
+pieńki kościelskie::village
+pieńki królewskie::village
+pień::village
 pieranie::village
 pierce:刺穿
 piercetown::village
 pierogowiec::village
 pierpont::village
 pierron::village
+pierściec::village
 piershil::village
 piersna::village
 piersno::village
@@ -2798,9 +2946,9 @@ pierson::village
 pierstnica mała::village
 pierstnica::village
 pierwoszów::village
-pierściec::village
 pieskawtsy::village
 pieszków::village
+piętacz::village
 pieterburen::village
 pietersbierum::village
 pietrafitta::village
@@ -2813,28 +2961,25 @@ pieve a bozzone::village
 pieve santa luce::village
 pievescola::village
 pievina::village
-pień::village
-pieńki kościelskie::village
-pieńki królewskie::village
 pifeh::village
-pig-poré::village
 pig:猪
+pigeon:鸽子
 pigeon falls::village
 pigeon::village
-pigeon:鸽子
 pigge::village
 pighur::village
 pigment:颜料
 pigmentation:染色
 pigol::village
+pig-poré::village
 pigtail:双马尾辫
 pigża::village
-pih jik::village
-piha::village
 piharallegama::village
+piha::village
+pih jik::village
 pihke::village
-pihla::village
 pihlaspea::village
+pihla::village
 pihtla::village
 piibe::village
 piigandi::village
@@ -2848,12 +2993,12 @@ piiri::village
 piirsalu::village
 piisi::village
 piissoo::village
-piisu::village
 piisupi::village
+piisu::village
 piiumetsa::village
-pij bon::village
 pija kola::village
 pijan::village
+pij bon::village
 pijupara::village
 pikaküla::village
 pikaristi::village
@@ -2863,6 +3008,7 @@ pikavere::village
 pikeliai::village
 pikeliškės::village
 pikevere::village
+pi kharabeh darrehna::village
 pikhi hajji::village
 pikkjärve::village
 pikknurme::village
@@ -2870,11 +3016,9 @@ pikru::village
 pikutkowo::village
 pikuzy::village
 pikva::village
-pil darreh::village
-pil gushkan::village
-pil::village
 pilah galin::village
 pilakurichi::village
+piła-młyn::village
 pilam pastanak::village
 pilane::village
 pilangorg::village
@@ -2883,13 +3027,18 @@ pilapitiya::village
 pilar::village
 pilatovci::village
 pilauda::village
+piła::village
+piława dolna::village
 pilawala::village
+piława::village
 pilbur::village
 pilchowice::village
 pilcrow:段标记
+pil darreh::village
 pileh bagh::village
 pileh daraq::village
 pileh darbon::village
+pilehgah::village
 pileh jin::village
 pileh kuh::village
 pileh mahalleh::village
@@ -2898,12 +3047,13 @@ pileh savar::village
 pileh sehran::village
 pileh varan::village
 pileh::village
-pilehgah::village
 pilembera::village
+pilėnai::village
 pilewice::village
 pilger::village
-pilia, togo::village
+pil gushkan::village
 piliamantas::village
+pilia, togo::village
 pilichikuzhi::village
 pilichowo::village
 pilicode::village
@@ -2918,17 +3068,16 @@ pilisborosjenő::village
 piliscsév::village
 pilisjászfalu::village
 pilismarót::village
+pilisszántó::village
 pilisszentiván::village
 pilisszentkereszt::village
 pilisszentlászló::village
-pilisszántó::village
 piliv::village
 piliwela::village
 piljeh::village
 pilka::village
 pilkha::village
 pilkichha::village
-pill::village
 pill:药丸
 pillaiyarmatham::village
 pillaiyarpatti::village
@@ -2938,6 +3087,7 @@ pille::village
 pilley::village
 pillow:枕头
 pillur::village
+pill::village
 pilning::village
 piloni::village
 pilot:领航员
@@ -2945,25 +3095,25 @@ pilotiškės::village
 pilpaküla::village
 pilpala::village
 pilpilow::village
-pilsupiai::village
 pilsupėliai::village
+pilsupiai::village
 piltown::village
-pilu::village
 piluiyeh::village
 pilum::village
+pilu::village
+pil::village
 pilvingiai::village
 pilviškiai::village
-pilėnai::village
-pima::village
 pimalga::village
 piman::village
+pima::village
 pimestiku::village
-pimpal khunte::village
 pimpale khalsa::village
 pimpalgaon rotha::village
 pimpalgaon turk::village
 pimpalgaon::village
 pimpalghar::village
+pimpal khunte::village
 pimpalner::village
 pimpaloli::village
 pimpalshet budruk::village
@@ -2985,49 +3135,52 @@ pinar::village
 pinball:弹珠台
 pinbon::village
 pincehely::village
-pind kassoana::village
-pind purana::village
-pinda rori::village
+pińczata::village
 pindari kalan::village
 pindari khurd::village
+pinda rori::village
 pindharpura::village
 pindi balochan::village
-pindi sarhal::village
 pindimana::village
 pindin::village
+pindi sarhal::village
+pind kassoana::village
 pindori rajputan::village
 pindoriya::village
+pind purana::village
 pindrajora::village
 pindsultani::village
-pine prairie::village
 pineapple:菠萝
 pineh kuh::village
 pinehurst::village
+pine prairie::village
 pinet::village
-ping che::village
-ping long::village
-ping shan san tsuen::village
-ping tun::village
-ping yeung::village
 pingaleswar::village
+ping che::village
 pingin::village
 pingjum::village
 pingla::village
+ping long::village
 pingryville::village
+ping shan san tsuen::village
+ping tun::village
 pingua::village
+ping yeung::village
 pinhou::village
 pinillos::village
 pinino::village
-pink-e asgarian::village
-pink-e bala::village
-pink::village
 pink:粉红色
 pinkamindszent::village
+pinkball::plant
+pink ball tree::plant
+pink-e asgarian::village
+pink-e bala::village
 pinkha::village
+pink::village
 pinlon::village
-pinma::village
 pinmahkaw::village
 pinmana::village
+pinma::village
 pinnaiyur::village
 pinnalandawatta::village
 pinnawala, eastern province::village
@@ -3037,28 +3190,28 @@ pinnoksut::village
 pinnye::village
 pinpalu::village
 pinsdorf::village
+pińsko::village
 pint:品脫
 pintsch::village
 pinvin::village
+piołunowo::village
+piórkowo::village
 piotrkosice::village
+piotrków borowski::village
 piotrkowice::village
 piotrkowiczki::village
-piotrkowo::village
-piotrków borowski::village
 piotrkówko::village
+piotrkowo::village
 piotroniowice::village
+piotrówek::village
 piotrowice małe::village
 piotrowice polskie::village
 piotrowice Świdnickie::village
 piotrowice::village
 piotrowo::village
-piotrówek::village
 piotta::village
 piougou::village
-piołunowo::village
-pip::village
 pipakhedi::village
-pipal khedi::village
 pipalia chhaparband::village
 pipalia hasnabad::village
 pipaliya berkhedi::village
@@ -3070,109 +3223,211 @@ pipaliya kadim::village
 pipaliya kunjadgarh::village
 pipaliya rani::village
 pipalkheda::village
+pipal khedi::village
 pipalkhedi::village
 pipalkoti::village
 pipaona::village
-pipar::village
 pipariya::village
 piparo::village
 piparpanti::village
 piparpur::village
 piparsand::village
+pipar::village
 piparwar::village
 pipat::village
 piper city::village
+piper darienense::plant
+piper fungiforme::plant
 piperies::village
 piperitsa::village
 piperkov chiflik::village
 piperovo::village
+piper sanctum::plant
+piper sarmentosum::plant
 pipewell::village
-pipli::village
 piplia sisodia::village
+pipli::village
 pipliya bajkhan::village
-pipra::village
 piprahiya::village
+pipra::village
 pipri::village
+pip::village
 piqeras::village
 piquera de san esteban::village
+pirabad::village
 pir aghach::village
 pir aghaj::village
+piragram::village
 pir ahmad kandi::village
 pir ahmadlu::village
+pirahmetler::village
+pirajeh::village
 pir ali deh::village
-pir ali::village
 pir alilu::village
+pir ali::village
+pirali::village
+pirallahı::village
 pir alqar::village
 pir alvan::village
+piramanoor::village
 pir amran::village
 pir anbar::village
+pirancheri::village
+piranch::village
+piranë::village
 pir anjiri::village
+piranjuq::village
+piranj::village
+piranlu::village
+piranshahi::village
+piran::village
+pirappancode::village
+pirappan valasai::village
 pir aquam::village
+pirarajá::village
+pirasafneh::village
+pirasmillu::village
+pira, tarragona::village
+pirate:海盗
+piratical:海盗的
+piravanthoor::village
+piravash-e olya::village
+piravash-e sofla::village
 pir aziz::village
+pirazmeyan::village
 pir baba ali::village
-pir badam::village
 pir badami::village
+pir badam::village
 pir bagh::village
 pir baha ol din::village
 pir bala::village
+pirbalout::village
 pir barzgu::village
 pir bast-e luleman::village
+pirbatul::village
 pir beg::village
+pirbiyabani::village
 pir bodagh::village
 pir bolagh::village
 pir boz::village
+pirbright::village
+pirbulaq::village
+pircahan::village
+pirchah::village
+pirchili::village
+pirchupan::village
+pirčiupiai::village
+pirdalu::village
 pir deh-e shaft::village
 pir deh::village
+pirdeh::village
 pir dezgah::village
+pir-e gavgol::village
+pir-e harat::village
+pireh bar::village
+pireh chah::village
+pirehdan::village
+pireh khalil::village
+pirehlar-e shah qasem::village
+pireh mashan::village
+pireh sorkh-e bala::village
+pireh sorkh-e pain::village
+pireh::village
+pireh yusefan::village
+pireh yusefian-e olya::village
+pireh yusefian-e sofla::village
 pir emam::village
+pir-e morad::village
+pir-e sabz::village
+pir-e sefid::village
 pir eshaq::village
+pirəbbə::village
+pirəhmədli::village
+pirəqanım::village
 pir fazak::village
+pirgachha::village
 pir gari::village
+pirgax::village
 pir gaz::village
+pirgeh bar-e simin::village
 pir gheyb-e bala::village
 pir gheyb::village
+pirgol::village
+pirgu::village
 pir hadian::village
+pirhadi::village
 pir hajat::village
 pir hajjati::village
 pir hajji::village
+pirhasanlar, elmalı::village
+pir hayati::village
 pir hayati-ye olya::village
 pir hayati-ye sofla::village
 pir hayati-ye vosta::village
-pir hayati::village
+pirhi::village
 pir hoseyni::village
+pirići::village
+pirijed::village
+pirilər::village
+pirili::village
+pirinçlik::village
+pirin::village
+piri reza::village
+pîrîta::village
+pirjad-e pain::village
 pir javar::village
+pirjed::village
+pîrjolteni::village
+pîrjota::village
 pir kahur::village
 pir kandi::village
+pirkan::village
 pir kashan::village
+pirkeh-ye olya::village
+pirkeh-ye sofla::village
+pirkənd::village
 pir khezran::village
 pir kohan::village
 pir kola chah::village
 pir komaj::village
 pir kuh-e olya::village
 pir kuh-e sofla::village
+pirky::village
+pirlar-e sofla::village
+pirlibey::village
+pîrlița::village
+pirli::village
 pir lujeh::village
+pirlu::village
 pir mahalleh::village
 pir mahi::village
 pir mahmud::village
 pir malu::village
+pirmand::village
 pir marzban::village
 pir meqdar::village
 pir mikail::village
 pir mikayil::village
 pir mohammad baba hoseyn::village
 pir mohammad shah::village
-pir mohammad, zahedan::village
 pir mohammad::village
+pir mohammad, zahedan::village
 pir morad::village
 pir mowmen sara::village
 pir mozd::village
-pir mur::village
 pir murad::village
+pir mur::village
 pir musa::village
 pir naim::village
+pirnaq::village
+pirna::village
+pirne::village
+pirowali::village
 pir poshteh::village
+pirqaraçuxa::village
 pir qasem::village
 pir qoli::village
+pirsaat::village
 pir sabaq::village
 pir sabz ali::village
 pir sabz::village
@@ -3180,9 +3435,10 @@ pir safa::village
 pir salman::village
 pir samadin::village
 pir saqqa::village
-pir sara::village
 pir sarab::village
+pir sara::village
 pir savaran::village
+pirshahbaz::village
 pir shahid::village
 pir shahverdi::village
 pir shams ol din::village
@@ -3190,176 +3446,85 @@ pir sharif::village
 pir sohrab::village
 pir soleyman::village
 pir soltan::village
+pirtand::village
+pirthipur, punjab::village
+pirudanlu::village
+pirui::village
+piru::village
+piruzabad::village
+piruzeh::village
+piruz::village
 pir vahsh::village
+pirvali baghi::village
 pir vali::village
+pirveys::village
+pirvezg::village
+pir::village
+pirwal::village
+pirxana::village
 pir yadegar::village
 pir yunes::village
 pir yusefian::village
 pir yusof::village
+pirzadeh::village
+pirzadlı::village
 pir zagheh::village
 pir zaman::village
 pir zanuk::village
-pir-e gavgol::village
-pir-e harat::village
-pir-e morad::village
-pir-e sabz::village
-pir-e sefid::village
-pir::village
-pira, tarragona::village
-pirabad::village
-piragram::village
-pirahmetler::village
-pirajeh::village
-pirali::village
-pirallahı::village
-piramanoor::village
-piran::village
-piranch::village
-pirancheri::village
-piranj::village
-piranjuq::village
-piranlu::village
-piranshahi::village
-piranë::village
-pirappan valasai::village
-pirappancode::village
-pirarajá::village
-pirasafneh::village
-pirasmillu::village
-pirate:海盗
-piratical:海盗的
-piravanthoor::village
-piravash-e olya::village
-piravash-e sofla::village
-pirazmeyan::village
-pirbalout::village
-pirbatul::village
-pirbiyabani::village
-pirbright::village
-pirbulaq::village
-pircahan::village
-pirchah::village
-pirchili::village
-pirchupan::village
-pirdalu::village
-pirdeh::village
-pireh bar::village
-pireh chah::village
-pireh khalil::village
-pireh mashan::village
-pireh sorkh-e bala::village
-pireh sorkh-e pain::village
-pireh yusefan::village
-pireh yusefian-e olya::village
-pireh yusefian-e sofla::village
-pireh::village
-pirehdan::village
-pirehlar-e shah qasem::village
-pirgachha::village
-pirgax::village
-pirgeh bar-e simin::village
-pirgol::village
-pirgu::village
-pirhadi::village
-pirhasanlar, elmalı::village
-pirhi::village
-piri reza::village
-pirijed::village
-pirili::village
-pirilər::village
-pirin::village
-pirinçlik::village
-pirići::village
-pirjad-e pain::village
-pirjed::village
-pirkan::village
-pirkeh-ye olya::village
-pirkeh-ye sofla::village
-pirky::village
-pirkənd::village
-pirlar-e sofla::village
-pirli::village
-pirlibey::village
-pirlu::village
-pirmand::village
-pirna::village
-pirnaq::village
-pirne::village
-pirowali::village
-pirqaraçuxa::village
-pirsaat::village
-pirshahbaz::village
-pirtand::village
-pirthipur, punjab::village
-piru::village
-pirudanlu::village
-pirui::village
-piruz::village
-piruzabad::village
-piruzeh::village
-pirvali baghi::village
-pirveys::village
-pirvezg::village
-pirwal::village
-pirxana::village
-pirzadeh::village
-pirzadlı::village
-pirčiupiai::village
-pirəbbə::village
-pirəhmədli::village
-pirəqanım::village
 pisaczów::village
 pisah::village
 pisarovo::village
 pisarzowice::village
 pise::village
-pish baghan::village
-pish bijar::village
-pish darreh::village
-pish deh::village
-pish hesar::village
-pish kenar::village
-pish kuh-e pain::village
-pish mant-e owl::village
-pish osta::village
-pish sheshar::village
 pishakhvor::village
 pishanbur::village
 pishani-ye kandeh::village
 pishavak::village
+pish baghan::village
 pishbar::village
+pish bijar::village
 pishdan::village
+pish darreh::village
+pish deh::village
 pisheh gun::village
 pisheh var::village
 pishgaman::village
 pishgun::village
+pish hesar::village
 pishiklu::village
 pishin valeh::village
 pishizan::village
 pishkamar::village
 pishkeli jan-e bala::village
 pishkeli jan-e pain::village
+pish kenar::village
 pishkesh::village
 pishkhan::village
+pish kuh-e pain::village
+pish mant-e owl::village
+pish osta::village
+pish sheshar::village
 pishunla key::village
 pisisaare::village
 piskan::village
 piskarki::village
+pişkidağ::village
 pisklaki::village
 piskon::village
 piskorczyn::village
+piškorevci::village
 piskorowice::village
 piskorze::village
-piskorzyna::village
-piskorzów::village
 piskorzówek::village
+piskorzów::village
+piskorzyna::village
+piskó::village
 pisky-radkivski::village
 pisky::village
-piskó::village
 pismenovo::village
 piss:尿
-pissa::village
 pissalin::village
+pissa::village
 pissi, bam::village
 pissi, kombissiri::village
 pissi::village
@@ -3370,8 +3535,6 @@ pistula::village
 piszczac-kolonia::village
 piszczac::village
 piszkawa::village
-pit sara::village
-pit sareh::village
 pitakanda::village
 pitambade::village
 pitambarhat bazali::village
@@ -3392,6 +3555,8 @@ pitome loze::village
 pitomine::village
 pitomnik::village
 pitsalu::village
+pit sara::village
+pit sareh::village
 pitscottie::village
 pitseng::village
 pitsiota::village
@@ -3408,8 +3573,8 @@ pivarootsi::village
 pivašiūnai::village
 piveh zhan::village
 piveshk::village
-pivnice::village
 pivniceni::village
+pivnice::village
 piwnice::village
 pixel:像素
 piyam::village
@@ -3418,47 +3583,47 @@ piyejik::village
 pizak khalifehi::village
 pizhaku::village
 pizki::village
-piçənis::village
-piórkowo::village
-piątki::village
-piątkowo::village
-piękocin::village
-piętacz::village
-pięćmorgi::village
-piła-młyn::village
-piła::village
-piława dolna::village
-piława::village
-pińczata::village
-pińsko::village
-pişkidağ::village
-piškorevci::village
+pınarbaşı::village
+pınarcık::village
+pınardere::village
+pınargözü::village
+pınarhisar::village
+pınarkaya::village
+pınarlar::village
+pınarlıkaya::village
+pınarlı::village
+pınarönü::village
+pınar::village
 pješčana uvala::village
 pkhrut::village
 plaani::village
-place of birth:出生地
 place:地方
 placeholder:占位符
+place of birth:出生地
+płąchawy::village
 plachi dol::village
 plachka::village
+pląchoty::village
+płachty::village
+płaczkówko::village
 plagia::village
 plahi::village
-plain::village
 plain:平坦的
 plaine griffie::village
 plaine magnien::village
 plainfield::village
+plain::village
 plainville::village
 plaisance::village
 plaka::village
 plaktiniai::village
-plan de sánchez::village
 plan:计划
 plana::village
+plan de sánchez::village
 plane:平面
 planet:行星
-planetary system:行星系统
 planetary:行星的
+planetary system:行星系统
 planinets::village
 planinica::village
 planinitsa::village
@@ -3467,31 +3632,38 @@ planintsi::village
 planoles::village
 plansinte::village
 plant:植物
+plantago erecta::plant
 plantigrade:掌行的
 plaskosz::village
 plasmolen::village
-plastic surgery:整形外科
 plastic:塑料
+plastic surgery:整形外科
+płaszczyzna::village
 platanakia::village
-platani::village
 platania::village
 platanissos::village
 platanistasa::village
 platanisteia::village
+platani::village
 platanoulia::village
 plate:盘子
 platerówka::village
 platform:平台
-plati::village
-platinum:铂
 platičevo::village
-platoon:小队
+platinum:铂
+plati::village
 platoon:排
+platoon:小队
 platte center::village
 platypus:鸭嘴兽
 plaucheville::village
 plaukiai::village
 plavna::village
+pławinek::village
+pławin::village
+pławna dolna::village
+pławna górna::village
+pławna::village
 plawsworth::village
 play:玩
 playa zancudo::village
@@ -3499,53 +3671,77 @@ player:玩家
 players:玩家
 playground:游乐场
 plazishte::village
+płazowo::village
 pleak::village
 pleasant dale::village
 pleasant hill::village
 pleasant lake::village
+pleasanton::village
 pleasant plains::village
 pleasant prairie::village
-pleasanton::village
+please:请
 please do not delete:请别删
 please do not do it:请别那样做
 please do not hesitate:请别犹豫
-please explain why it is unnecessary:请解释为什么它是不必要的
 please explain why:请解释为什么
-please:请
-pleasure:乐意
+please explain why it is unnecessary:请解释为什么它是不必要的
 pleasure:欢愉
+pleasure:乐意
 plebanka::village
+pleiocarpa mutica::plant
+pleiocarpa pycnantha::plant
 plekhovo::village
 plemięta::village
 plenimir::village
 plesewo::village
-pleshintsi::village
 pleshinë::village
+pleshintsi::village
 pleskivtsi::village
 plessenburg::village
+pleš::village
 pletvar::village
 pleuro::village
 plevun::village
 plewno::village
-pleš::village
 pliješ::village
-plik::village
 plikati::village
 plikiškiai::village
+plik::village
 plina jezero::village
 plinkaigalis::village
 pliupai::village
 pllakë::village
+płochocinek::village
+płochocin::village
+płocicz::village
 plockton::village
+pločnik::village
+płóczki dolne::village
+płóczki górne::village
+płomiany::village
 plomin::village
+płonczyn::village
+płonica::village
+płonina::village
+płonko::village
+płonkówko::village
+płonkowo::village
+płonne::village
+plopi::village
 plop-Știubei::village
 plop::village
-plopi::village
+płosa::village
 ploski::village
+płoski::village
+płosków::village
+płoszczyna::village
 plot:绘制
 plover::village
 plovka::village
-pločnik::village
+płowce::village
+płowęż::village
+pluchea carolinensis::plant
+pluchea dentex::plant
 plum city::village
 plumci::village
 plumutan::village
@@ -3555,19 +3751,22 @@ plus:加
 plus:正号
 pluskota::village
 pluskowęsy::village
+płusy::village
 pluto:冥王星
 plutonium:钚
+płutowo::village
+płużnica::village
 plymouth::village
-pląchoty::village
+pływaczewo::village
+p. mallavaram::village
 pniewite::village
 pniewy::village
 pniski::village
 pnivne::village
-po sam pai::village
-poa::village
 poaka::village
 poama::village
 poanse::village
+poa::village
 pobak::village
 pobeda::village
 pobiedna::village
@@ -3576,8 +3775,8 @@ pobit kamak::village
 pobjenik::village
 poboleda::village
 pobrat::village
-pobretići::village
 pobrđe::village
+pobretići::village
 pocahontas::village
 pocerski pričinović::village
 pochade::village
@@ -3585,19 +3784,19 @@ pochak::village
 pochavaram::village
 pocierzyn::village
 pocinho::village
-pociumbăuți::village
 pociškė::village
+počitelj::village
+pociumbăuți::village
 pociūnai::village
 pocrovca::village
+počulica::village
 poczałkowo-kolonia::village
 poczałkowo::village
-pod komorzą::village
-pod lasem::village
-poda::village
 podagatlapalle::village
 podagatlapalli::village
 podakkudi::village
 podalada::village
+poda::village
 podavur::village
 podbišće::village
 podbrezje::village
@@ -3609,46 +3808,50 @@ podelwitz::village
 poderi di montemerano::village
 podgaj::village
 podglavica::village
-podgor::village
 podgora::village
 podgoreni::village
 podgorets::village
-podgornoye::village
-podgrađe::village
 podgórki::village
 podgórna::village
-podgórz::village
+podgornoye::village
+podgor::village
 podgórze::village
+podgórz::village
 podgórzyn::village
+podgrađe::village
 podhum::village
-podi::village
-podippalam::village
 podić::village
+podippalam::village
+podi::village
+pod komorzą::village
 podkova::village
 podkrepa::village
-podlas::village
+pod lasem::village
 podlaski::village
+podlas::village
 podlesie::village
 podlugovi::village
 podmelnica::village
+podmočani::village
 podmol::village
 podmotsa::village
-podmočani::village
 podnart::village
 podobowice::village
 podochori::village
 podokoyo::village
-podol::village
 podolanka::village
 podolany::village
 podole::village
 podolina::village
+podol::village
 podorašje::village
 podostrog::village
 podoué::village
 podovi::village
+põdrangu::village
 podrujnica::village
 podrumche::village
+põdruse::village
 podslon::village
 podsośnina Łukowska::village
 podsreda::village
@@ -3660,6 +3863,8 @@ podwiesk::village
 podzamcze::village
 podzamek golubski::village
 poederoijen::village
+poédogo, kombissiri::village
+poédogo::village
 poeldijk::village
 poeloegoedoe::village
 poem:诗
@@ -3667,63 +3872,71 @@ poet:诗人
 poetry:诗
 pogalewo małe::village
 pogalewo wielkie::village
+pogányszentpéter::village
+pogány::village
+põgari-sassi::village
 pogatyanatti::village
 poggenkrug::village
 poggi del sasso::village
 poggio capanne::village
+poggioferro::village
 poggio murella::village
 poggio san polo::village
 poggio santa cecilia::village
 poggio::village
-poggioferro::village
 pognamadéni::village
-pogo::village
 pogonissonkaha::village
 pogoro-foulbé::village
 pogoro::village
 pogorzała::village
 pogorzelec::village
 pogorzeliska::village
+pogórze::village
+pogo::village
 pogranicze::village
 pogroda::village
 pogwizdów::village
-pogány::village
-pogányszentpéter::village
-pogórze::village
 pohaliyadda::village
+põhara::village
+põhja::village
 pohla, estonia::village
 pohoarna::village
 poholiadda::village
 pohoranwewayaya::village
 pohorniceni::village
-poi::village
-poia::village
 poiana::village
+poia::village
+pöide-keskvere::village
+pöide::village
+põikma::village
 poikoro::village
+põikva::village
 poilwa namci::village
 poilwa::village
+põima::village
 poinguinim::village
-point clear::village
-point edward::village
-point of view:观点
-point out:指出
 point:点
 point:要点
+point clear::village
+point edward::village
 pointe figuier::village
 pointer:指针
+point of view:观点
+point out:指出
 points:点
 poisonous:有毒的
+pöitse::village
+poi::village
 poiwan::village
 pojelce::village
 pojo::village
-pok tau ha::village
-poka::village
 pokak::village
+poka::village
 poker:扑克
 pokharaira::village
 pokharan::village
-pokhari::village
 pokharia::village
+pokhari::village
 pokhoke dera baba nanak::village
 pokhraira::village
 pokhrama::village
@@ -3731,47 +3944,63 @@ pokhriabong::village
 pokht::village
 pokkunny::village
 pokkunuru::village
-pokouro::village
 pokośno::village
+pokouro::village
 pokpon::village
+pokrashen::village
 pokr ayrum::village
+pokréagui::village
 pokr mantash::village
 pokr masrik::village
-pokr sariar::village
-pokr sepasar::village
-pokr vedi::village
-pokrashen::village
 pokrom::village
 pokrovan::village
 pokrovka::village
 pokrovnik::village
 pokrovske::village
+pokrówka::village
+pokr sariar::village
+pokr sepasar::village
+pokr vedi::village
 pokrzydowo::village
 pokrzywnik::village
 pokrzywno::village
-pokréagui::village
-pokrówka::village
 poksi::village
+pok tau ha::village
 poktho::village
 pokunuwatta::village
 pokuru::village
 pol abza jalaleh::village
+polac::village
+poladlı::village
+połajewek::village
+połajewo::village
+polaki::village
+polakowice::village
 pol ali akhbar khan::village
+polali::village
+polamanugondi::village
+polamuru::village
+polam::village
+polana::village
+poland:波兰
+poland::village
+polanka::village
+polanowo::village
+polány::village
+polar:极性的
+polar bear:北极熊
+polar coordinate:极坐标
+polarity:极性
+polasanipalle::village
+polatlı::village
+polatycze::village
+polavaram::village
 pol barez::village
+polba::village
 pol borideh::village
+polchi::village
 pol darreh::village
-pol eshkeneh::village
-pol gardan::village
-pol haru::village
-pol havas::village
-pol kalak::village
-pol khoda afarin::village
-pol mahit::village
-pol mamun::village
-pol murd::village
-pol sara::village
-pol shekasteh::village
-pol varzeh::village
+põldeotsa::village
 pol-e abdugh::village
 pol-e abgineh::village
 pol-e angur::village
@@ -3779,92 +4008,78 @@ pol-e aram::village
 pol-e azh::village
 pol-e bala rud::village
 pol-e band::village
+polebrook::village
+poledno::village
 pol-e fahlian::village
 pol-e fasa::village
 pol-e gel kani::village
 pol-e karat::village
+polemi::village
 pol-e mun::village
+polena::village
+põlendmaa::village
 pol-e negin::village
+polenë::village
+polenitsa::village
 pol-e now::village
+polepalli::village
 pol-e parvast::village
 pol-e parzin::village
 pol-e piran::village
 pol-e sharqi::village
+pol eshkeneh::village
 pol-e shurab::village
-pol-e ushan::village
-pol-e zal::village
-pol-e zoghal::village
-polac::village
-poladlı::village
-polaki::village
-polakowice::village
-polali::village
-polam::village
-polamanugondi::village
-polamuru::village
-polana::village
-poland::village
-poland:波兰
-polanka::village
-polanowo::village
-polar bear:北极熊
-polar coordinate:极坐标
-polar:极性的
-polarity:极性
-polasanipalle::village
-polatlı::village
-polatycze::village
-polavaram::village
-polba::village
-polchi::village
-pole::village
-polebrook::village
-poledno::village
-polemi::village
-polena::village
-polenitsa::village
-polenë::village
-polepalli::village
 polesiska::village
 poletintsi::village
 poleto::village
+pol-e ushan::village
+pole::village
+pol-e zal::village
+pol-e zoghal::village
 polgaha-anga::village
 polgahange::village
+pol gardan::village
+põlgaste::village
 polgerd::village
 polgolla::village
-poli hajji::village
-poli kan::village
-poli-ye olya::village
-poli-ye sofla::village
-poli::village
+pol haru::village
+pol havas::village
+poliçan::village
+police:警察
 police dog:警犬
 police service of northern ireland:北爱尔兰警察局
 police::village
-police:警察
 polichno::village
 polichnowo-piaski::village
 polichnowo::village
 policy:政策
+poli hajji::village
+poli kan::village
 poliki::village
 polinów::village
 polish:波兰语
 politic:策略的
+political:政治的
 political conflict:政治冲突
 political equality:政治平等
 political leader:政治领袖
 political prisoner:政治犯
-political:政治的
 politician:政客
 politician:政治家
 politics:政治
 politsi::village
-poliçan::village
+poli::village
+poli-ye olya::village
+poli-ye sofla::village
 poljanice::village
 polje Čepić::village
 polje::village
 poljice::village
 poljine::village
+pol kalak::village
 polkan::village
+pol khoda afarin::village
+pólko::village
 polkovnik dyakovo::village
 polkovnik ivanovo::village
 polkovnik minkovo::village
@@ -3876,11 +4091,19 @@ polku::village
 pollagh::village
 pollehi::village
 pollestad::village
+põlliku::village
 pollinkhove::village
+põlli::village
 pollock::village
+põlluküla::village
+põllu::village
+pol mahit::village
 polmak::village
 polmalagama::village
+pol mamun::village
+põlma::village
 polmont::village
+pol murd::village
 polna::village
 polná::village
 poloa::village
@@ -3888,45 +4111,59 @@ poloka::village
 polommana::village
 polonium:钋
 polopos::village
+pölöskefő::village
+pölöske::village
+połoski nowe::village
+połoski stare::village
+połoski::village
 polovina::village
 polpitiya::village
 polranny::village
+pol sara::village
 polsbroek::village
+pol shekasteh::village
 polska skakavitsa::village
+polskie Łąki::village
 polski izvor::village
 polski konopat::village
 polski senovets::village
-polskie Łąki::village
+poltavka::village
 polt darbon::village
 polt kalleh::village
-poltavka::village
 poltringen::village
-polu sarkan::village
-polu::village
 polubicze dworskie::village
 polubicze wiejskie::village
+põlula::village
 poluli::village
 polureh::village
 poluru::village
+polu sarkan::village
+polu::village
+pol varzeh::village
 polveraia::village
 polwatta colony::village
 polwatta::village
 polwatte ihalagama::village
 polwattekanda::village
 polwica::village
+półwiesk duży::village
+półwiesk mały::village
+polyalthia fragrans::plant
 polyanemo::village
 polyanets::village
 polyanovo::village
 polyara::village
 polydoro::village
+polygala chapmanii::plant
+polygonatum arisanense::plant
 polymer:聚合物
 polynomial:多项式
 polynomials:多项式
 polyphant::village
 polyploid:多倍体
 polypotamo::village
+polypremum::plant
 polystypos::village
-polány::village
 pomaia::village
 pomalwadi::village
 pomasqui::village
@@ -3934,9 +4171,9 @@ pomburpa::village
 pomer::village
 pomezhdin::village
 pomgaon::village
-pomiany::village
 pomianów dolny::village
 pomianów górny::village
+pomiany::village
 pomocne::village
 pomonte::village
 pomos::village
@@ -3951,15 +4188,15 @@ pondugula::village
 ponduru::village
 ponganadu::village
 pongo::village
-poni::village
 poniatowice::village
 poniatów::village
 ponikowo::village
+poni::village
 ponkundu::village
 ponmeindanallur::village
 ponnachi::village
-ponnal::village
 ponnaluru::village
+ponnal::village
 ponnamanda::village
 ponnapalle::village
 ponnapuram::village
@@ -3967,11 +4204,10 @@ ponnavarayankottai::village
 ponnekal::village
 ponolem::village
 ponondougou::village
-ponor korenički::village
 ponori::village
+ponor korenički::village
 ponparappi::village
 pont-ar-gothi::village
-pont-hwfa::village
 pontarsais::village
 ponte a bozzone::village
 ponte a egola::village
@@ -3981,6 +4217,7 @@ ponteginori::village
 pontegrande-sant'andrea::village
 ponterwyd::village
 pontfadog::village
+pont-hwfa::village
 pontils::village
 pontlliw::village
 pontneddfechan::village
@@ -3998,16 +4235,17 @@ poobong tea garden::village
 poocholamad::village
 poodur::village
 poogi nagt::village
+pöögle::village
 poohhiya bramha, asthan::village
 pookattukunnu::village
 pookkanviduthi::village
 pookkottoor::village
 pookode::village
-pool::village
 poolangal::village
 poole::village
 pooley bridge::village
 poolova::village
+pool::village
 poomala::village
 poombarai::village
 pooncarie::village
@@ -4021,12 +4259,15 @@ poonian::village
 poop:拉屎
 poor:贫穷的
 pooran::village
+pööravere::village
+pööra::village
 poore bahuriya::village
+pööritsa::village
 poorjangi, zahedan::village
 poortvliet::village
 poosapatirega::village
-pootsi::village
 pootsiku::village
+pootsi::village
 poovaipalayam::village
 poovalai::village
 poovalur::village
@@ -4040,20 +4281,20 @@ poovathussery::village
 pop:弹出
 popari::village
 popayato::village
-pope::village
 pope:教皇
 popeasca::village
-popeswood::village
 popeștii de jos::village
 popeștii de sus::village
+popeswood::village
+pope::village
 popgergevtsi::village
 popgrigorovo::village
 popgruevo::village
 pophalaj::village
-popiel::village
 popielarka::village
 popielewo::village
 popielówek::village
+popiel::village
 popinci::village
 popintsi::village
 popivka::village
@@ -4066,6 +4307,7 @@ popovich::village
 popovtsi::village
 popowice::village
 popowiczki::village
+popówka::village
 popowo::village
 poppel::village
 poppenwier::village
@@ -4074,38 +4316,40 @@ popraykovtsi::village
 popska::village
 popsko::village
 popular:流行的
+population:人口
 population census:人口普查
 population data:人口数据
 population density:人口密度
-population:人口
 populonia stazione::village
-popówka::village
 poquetanuck::village
-por rud::village
-por::village
+porąb::village
 poradów::village
 porahat::village
 porain::village
 porajów::village
 porakkudi::village
+pörböly::village
 porchfield::village
+pördefölde::village
 pordeh sar::village
+poręby::village
 porganak::village
+põrga::village
 porgoli-ye olya::village
 porgoli-ye sofla::village
-pori::village
 porikkal::village
 poringland::village
+pori::village
 pork:猪肉
 porkellis::village
 porkeri::village
 porkuni::village
 pormehr::village
-pornographic film:色情电影
+pornóapáti::village
 pornographic:色情的
+pornographic film:色情电影
 pornography:色情文学
 pornuse::village
-pornóapáti::village
 poroani::village
 porominovo::village
 poronin::village
@@ -4119,41 +4363,44 @@ porpác::village
 porras::village
 porrera::village
 porridge:粥
-porrog::village
 porrogszentkirály::village
 porrogszentpál::village
+porrog::village
 porrona::village
+por rud::village
+põrsaku::village
 porsa::village
 porseh su-ye olya::village
 porseh su-ye sofla::village
 porsuk::village
-port austin::village
-port barrington::village
-port byron::village
-port edwards::village
-port hope::village
-port sanilac::village
-port vincent::village
+pórszombat::village
 port:端口
 portabad::village
 portable:便携的
 portable:可移植的
 portal:入口
+port austin::village
+port barrington::village
+port byron::village
+port edwards::village
 portes::village
+port hope::village
 portinscale::village
 portion:部分
 portitovtsi::village
 portland:波特兰
 portmagee::village
 porto alegre::village
-porto real::village
 porton::village
+porto real::village
 portrait:肖像
 portray:饰演
 portroe::village
+port sanilac::village
 portugal:葡萄牙
 portuguese:葡萄牙人
 portuguese:葡萄牙语
+port vincent::village
 poruchik chunchevo::village
 poruchik kurdjievo::village
 porullo::village
@@ -4164,24 +4411,33 @@ porush-e pain::village
 poruzak::village
 porva::village
 porvenir::village
+por::village
 porwad::village
-porzi::village
 porzinastan::village
-porąb::village
-poręby::village
-posad-pokrovske::village
+porzi::village
 posada del bierzo::village
-posada::village
 posadas::village
+posada::village
 posadowice::village
+posad-pokrovske::village
+po sam pai::village
 posana::village
 poschal::village
+pościsze::village
 posen::village
+posępsko::village
+pósfa::village
 poshal::village
 poshanda::village
 poshot::village
+poshtak::village
+poshtaleh::village
+poshtaleh-ye sar::village
+poshtang-e gari::village
 posht asiab::village
 posht asman::village
+poshtaveh-ye olya::village
+poshtaveh-ye sofla::village
 posht bam::village
 posht band::village
 posht chagah taraz::village
@@ -4190,48 +4446,6 @@ posht darb-e olya::village
 posht darb-e sofla::village
 posht darb-e vosta::village
 posht darreh lengeh::village
-posht giaban::village
-posht gorg::village
-posht gur-e choqa maran::village
-posht ju::village
-posht jub::village
-posht juiyieh::village
-posht kabud-e jahangirvand::village
-posht kalat::village
-posht kelan::village
-posht khan::village
-posht koreh::village
-posht kyu vareh zard::village
-posht kyubadam::village
-posht lor::village
-posht marz::village
-posht mekh::village
-posht meleh::village
-posht mesar::village
-posht par::village
-posht pari::village
-posht qaleh::village
-posht rud::village
-posht sara::village
-posht shiran::village
-posht sorkh::village
-posht tang-e chameshk::village
-posht tang-e chenaran::village
-posht tang-e cheshmeh qolijan::village
-posht tang-e dar vazneh::village
-posht tang-e dustali::village
-posht tang-e khushab::village
-posht tang-e kordali::village
-posht tang-e mishvand::village
-posht tang-e olya::village
-posht tang-e parīan::village
-posht tang-e shah mirza::village
-posht tang-e shayengan::village
-posht tang-e sofla rahim khan::village
-posht tang-e sofla seyyed reza::village
-posht tang-e sofla::village
-posht tang::village
-posht tappeh::village
 posht-e aresht::village
 posht-e aspar barani::village
 posht-e bam::village
@@ -4240,32 +4454,9 @@ posht-e darband::village
 posht-e gar::village
 posht-e geru::village
 posht-e gol::village
-posht-e kuh::village
-posht-e larijan::village
-posht-e meleh sangar::village
-posht-e par-e soleyman::village
-posht-e par::village
-posht-e pian::village
-posht-e rah::village
-posht-e rud::village
-posht-e sabad::village
-posht-e sar::village
-posht-e shek::village
-posht-e tang-e chenar::village
-posht-e tang-e firuzabad::village
-posht-e tang-e gol gol::village
-posht-e tang::village
-posht-e taqehai chahar bisheh::village
-posht-e zard::village
-posht-e zarrin choqa::village
-poshtak::village
-poshtaleh-ye sar::village
-poshtaleh::village
-poshtang-e gari::village
-poshtaveh-ye olya::village
-poshtaveh-ye sofla::village
 poshteh ab bal::village
 poshteh abbas::village
+poshtehan::village
 poshteh hesar::village
 poshteh hir::village
 poshteh jazayeri::village
@@ -4279,7 +4470,7 @@ poshteh rizeh-ye vosta::village
 poshteh sara::village
 poshteh shahan::village
 poshteh talang::village
-poshteh zang::village
+poshteh::village
 poshteh-ye aliabad::village
 poshteh-ye azadegan::village
 poshteh-ye barjan::village
@@ -4300,53 +4491,111 @@ poshteh-ye sofla::village
 poshteh-ye vamarz::village
 poshteh-ye yek::village
 poshteh-ye ziarat::village
-poshteh::village
-poshtehan::village
+poshteh zang::village
+posht-e kuh::village
+posht-e larijan::village
+posht-e meleh sangar::village
+posht-e par-e soleyman::village
+posht-e par::village
+posht-e pian::village
+posht-e rah::village
+posht-e rud::village
+posht-e sabad::village
+posht-e sar::village
+posht-e shek::village
+posht-e tang-e chenar::village
+posht-e tang-e firuzabad::village
+posht-e tang-e gol gol::village
+posht-e tang::village
+posht-e taqehai chahar bisheh::village
+posht-e zard::village
+posht-e zarrin choqa::village
 poshtgar-e shah babek::village
-poshti::village
+posht giaban::village
+posht gorg::village
+posht gur-e choqa maran::village
 poshtir::village
+poshti::village
 poshtjin::village
+posht jub::village
+posht juiyieh::village
+posht ju::village
+posht kabud-e jahangirvand::village
+posht kalat::village
+posht kelan::village
+posht khan::village
+posht koreh::village
 poshtkuh-e abdan::village
 poshtkuh-e chakuy::village
 poshtkuh::village
+posht kyubadam::village
+posht kyu vareh zard::village
+posht lor::village
+posht marz::village
+posht mekh::village
+posht meleh::village
+posht mesar::village
 poshtove::village
+posht pari::village
+posht par::village
+posht qaleh::village
 poshtqaleh::village
 poshtrood, zahedan::village
+posht rud::village
 poshtsan-e gur abjir::village
+posht sara::village
+posht shiran::village
+posht sorkh::village
+posht tang-e chameshk::village
+posht tang-e chenaran::village
+posht tang-e cheshmeh qolijan::village
+posht tang-e dar vazneh::village
+posht tang-e dustali::village
+posht tang-e khushab::village
+posht tang-e kordali::village
+posht tang-e mishvand::village
+posht tang-e olya::village
+posht tang-e parīan::village
+posht tang-e shah mirza::village
+posht tang-e shayengan::village
+posht tang-e sofla rahim khan::village
+posht tang-e sofla seyyed reza::village
+posht tang-e sofla::village
+posht tang::village
+posht tappeh::village
 poshtu::village
 position:位置
 positive:正的
+poškonys::village
 poslishtë::village
+posługowo::village
 possess:占有
 possession:占有
 possible:可能的
 possodo::village
-post baraq::village
-post darreh::village
-post kandi::village
-post::village
 post:投递
-posta::village
 postakan::village
 postal:邮政的
 postan sar::village
+posta::village
+post baraq::village
 postcombe::village
+post darreh::village
 posten::village
 posterholt::village
 posthumous:死后的
 posthumously:死后
 posti::village
 postkabasakal::village
+post kandi::village
 postnik::village
 postolice::village
 postolin::village
+post::village
 postville::village
 posuj::village
-posyan::village
 posyağbasan::village
-posępsko::village
-posługowo::village
-pota::village
+posyan::village
 potahk::village
 potaki::village
 potamia::village
@@ -4357,6 +4606,7 @@ potassa::village
 potassium:钾
 potasznia::village
 potato:土豆
+pota::village
 potawa::village
 potegaon::village
 potha bainsi::village
@@ -4381,6 +4631,7 @@ potkrajci::village
 potkula::village
 potladurthi::village
 potlapahad::village
+potoče::village
 potocharka::village
 potoche::village
 potochnitsa::village
@@ -4393,15 +4644,16 @@ potoli::village
 potomac::village
 potony::village
 potosi::village
-potoče::village
 potpeće::village
+pötréte::village
 potrk::village
 pottallinda::village
 pottalpudhur::village
-pottassery-i::village
 pottassery-ii::village
+pottassery-i::village
 pottatawela::village
 pottaveli::village
+pöttelsdorf::village
 potten end::village
 pottepitiya::village
 potter::village
@@ -4417,9 +4669,9 @@ pougdiari::village
 poughill::village
 poultney::village
 poumbly::village
-pound::village
 pound:英镑
 poundarigapuram::village
+pound::village
 poura-village::village
 pouroum::village
 pousghin::village
@@ -4430,15 +4682,16 @@ povet::village
 povir::village
 povoação velha::village
 povorsk::village
+põvvatu::village
 powadra::village
 powałkowice::village
 powder:粉末
-power function:幂函数
+power:电力
 power:力量
 power:幂
-power:电力
 powerboat:快艇
 powerful:有力的
+power function:幂函数
 powerless:无力的
 powerlessness:无力
 powers::village
@@ -4452,27 +4705,19 @@ poyraz, polatlı::village
 poyraz::village
 poyrette::village
 poyyundarkudikadu::village
-pozhiyoor::village
-pozm-e machchan::village
-pozm-e tiab::village
-poédogo, kombissiri::village
-poédogo::village
-počitelj::village
-počulica::village
-połajewek::village
-połajewo::village
-połoski nowe::village
-połoski stare::village
-połoski::village
-pościsze::village
-poškonys::village
 pożarzyce::village
 pożarzysko::village
 poženik::village
-praakli::village
+pozhiyoor::village
+pozm-e machchan::village
+pozm-e tiab::village
 praaklima::village
+praakli::village
+prääma::village
 prabhachiwadi::village
+prača::village
 prachi::village
+pračica::village
 practice:实践
 pracze::village
 pradejón::village
@@ -4480,9 +4725,13 @@ pradella::village
 praden::village
 pradhan khunta::village
 pradillo::village
+prądki::village
+prądocin::village
 pragpur::village
 prague::village
 prahali::village
+prählamäe::village
+prähnu::village
 praia baixo::village
 prairie city::village
 prairie du rocher::village
@@ -4506,17 +4755,17 @@ prasinada::village
 praslin::village
 prassi::village
 prastio::village
-prata::village
-pratap singaram::village
 pratapdighi::village
 pratapnagar::village
 pratappur::village
+pratap singaram::village
+prata::village
 prathersville::village
 prathikollanka::village
 prathipadu::village
 prats::village
-pratt's bottom::village
 prattipadu::village
+pratt's bottom::village
 pratulin::village
 prauzhda::village
 pravda::village
@@ -4527,13 +4776,12 @@ prawików::village
 prawocice::village
 pray:祈祷
 prayer:祈祷
-prača::village
-pračica::village
 prebačevo::village
 precipitate:沉淀
 precipitate:陷入
 precipitation:沉积
 precision:精度
+pręczki::village
 predator:捕食者
 predavac::village
 predecessor:前任
@@ -4550,8 +4798,8 @@ preferred:首选的
 prefix:前缀
 pregnancy:妊娠
 pregnant:怀孕的
-prehistoric animal:史前动物
 prehistoric:史前的
+prehistoric animal:史前动物
 preikapė::village
 preixana::village
 prejudice:偏见
@@ -4560,10 +4808,10 @@ prekaz i epërm::village
 prekolnitsa::village
 prekraste::village
 prelom::village
-prem nagar::village
 premier:首相
-prempur::village
+prem nagar::village
 prempura::village
+prempur::village
 prentice::village
 preobrazhentsi::village
 preočica::village
@@ -4580,13 +4828,13 @@ present:现在的
 presenter:主持人
 preserve:保持
 president:总统
-presidential election:总统选举
 presidential:总统的
+presidential election:总统选举
 presika::village
 preslavets, bulgaria::village
 prespa::village
-press:出版社
 press:按
+press:出版社
 pressi::village
 pressure:压力
 prestebakke::village
@@ -4607,6 +4855,7 @@ previla::village
 previous:前一个
 prey:捕食
 prey:猎物
+prężyce::village
 prhovo::village
 priboj::village
 price:价格
@@ -4622,23 +4871,29 @@ prigorodnoye::village
 prijelozi::village
 prijevor::village
 prikovci::village
-prilep::village
 prilepec::village
 prilepnica::village
 prileptsi::village
+prilep::village
 priluk::village
-primary key:主键
 primary:基本的
+primary key:主键
 primate:灵长目动物
-prime minister:总理
 prime:主要的
+prime minister:总理
 primitive:基本的
 primortsi::village
 primrose::village
+primula carniolica::plant
+primulina drakei::plant
+primulina gemella::plant
+primulina halongensis::plant
+primulina hiepii::plant
+primulina modesta::plant
 prince:王子
 princess:公主
-princeton university:普林斯顿大学
 princeton:普林斯顿
+princeton university:普林斯顿大学
 princeville::village
 principina terra::village
 principle:原理
@@ -4646,10 +4901,10 @@ pringi::village
 prinias::village
 print:打印
 priol::village
-pripek::village
 pripčići::village
-prisad::village
+pripek::village
 prisadets::village
+prisad::village
 priseltsi::village
 prishtë::village
 priskë e madhe::village
@@ -4665,6 +4920,7 @@ prithivinagar::village
 prithvipura::village
 privacy:隐私
 private:私有的
+privet::plant
 privilege:特权
 privina glava::village
 privolnoye::village
@@ -4692,28 +4948,28 @@ prodanovtsi::village
 prodduturu::village
 prodromi::village
 produce:生产
-producer:制作人
 producer:生产者
+producer:制作人
 product:产品
 production:产品
 profesor zlatarski::village
+professional:职业的
+professional:专业的
 professional footballer:职业足球运动员
 professional player:职业玩家
 professional player:职业运动员
-professional:专业的
-professional:职业的
 professor:教授
 profile:轮廓
 profound:极深的
 program:程序
 programmable:可编程
-programming language:编程语言
 programming:编程
+programming language:编程语言
 programs:程序
-progres::village
-progress::village
 progress:进度
 progression:进度
+progress::village
+progres::village
 prohibit:禁止
 prohibition:禁令
 prohod::village
@@ -4737,10 +4993,10 @@ propagation:传播
 propamidine:普罗帕脒
 propast::village
 propel:推进
-propeller:推进器
 propeller:螺旋桨
-properties of life:生命属性
+propeller:推进器
 properties:属性
+properties of life:生命属性
 property:属性
 property:拥有物
 prophecy:预言
@@ -4748,26 +5004,31 @@ prophet:先知
 propose:提议
 propulsion:推进
 prosadpur::village
+prošćenje::village
 prose:散文
 prosek::village
 prosenik::village
 proshki::village
 prosno::village
 prosser::village
-prostitute:卖淫
+prostanthera arapilensis::plant
+prostanthera prostantheroides::plant
+prostanthera sejuncta::plant
 prostitute:妓
+prostitute:卖淫
 prostitution:卖淫
-prostynia::village
 prostřední suchá::village
+prostynia::village
 proszkowa::village
 proszkowice::village
 proszków::village
 proszowa::village
+proszówka::village
 proszyce::village
 proszyska::village
-proszówka::village
 protactinium:镤
 proteagailovca::village
+protea stokoei::plant
 protect:保护
 protected:受保护的
 protection:保护
@@ -4789,17 +5050,17 @@ province:省
 provincial cultural complex::village
 provodina::village
 proxy:代理
-prošćenje::village
 prstná::village
 pruchna::village
 pruchnowo::village
 prugoc::village
+prügy::village
 prullans::village
 prusac::village
 prush::village
 prusice::village
-prusinowo wałeckie::village
 prusinówko::village
+prusinowo wałeckie::village
 pruska Łąka::village
 pruskie::village
 prusy::village
@@ -4816,20 +5077,20 @@ prymorske::village
 pryozerne::village
 prypruttia::village
 pryshyb::village
-przechodzisko::village
 przechód::village
+przechodzisko::village
 przechówko::village
+przecławice::village
 przecznica::village
 przeczno::village
-przecławice::village
 przedbojewice::village
 przedborowa::village
 przedbórz::village
 przedkowice::village
+przedłuż::village
 przedmieście szczebrzeszyńskie::village
 przedmoście::village
 przedwojów::village
-przedłuż::village
 przejęsław::village
 przemystka::village
 przepałkowo::village
@@ -4840,18 +5101,20 @@ przesieczany::village
 przesieczna::village
 przesieka::village
 przesławice::village
+przęsocin::village
 przewodnik::village
 przeworno::village
 przewóz::village
 przezdrowice::village
 przeździedza::village
+pržinovac::village
 przybkowo::village
-przyborze::village
 przyborów::village
-przybranowo::village
+przyborze::village
 przybranówek::village
-przybysław::village
+przybranowo::village
 przybyłowice::village
+przybysław::village
 przychody::village
 przychowa::village
 przydatki gołaszewskie::village
@@ -4859,6 +5122,10 @@ przydwórz::village
 przyjezierze::village
 przyjma::village
 przylasek::village
+przyłęgów::village
+przyłęki::village
+przyłubie::village
+przyłuki::village
 przymiarki::village
 przymuszewo::village
 przyny::village
@@ -4870,38 +5137,31 @@ przysiersk::village
 przystań::village
 przystronie::village
 przysypka::village
-przywieczerzyn::village
 przywieczerzynek::village
+przywieczerzyn::village
 przywitowo::village
 przywsie::village
-przyłubie::village
-przyłuki::village
-przyłęgów::village
-przyłęki::village
-przęsocin::village
-prählamäe::village
-prähnu::village
-prääma::village
-prügy::village
-prądki::village
-prądocin::village
-pręczki::village
-prężyce::village
-pržinovac::village
 psari::village
 psary::village
+pšata::village
 psathi::village
+pścinek::village
+pścinno::village
 psematismenos::village
+pseudanthus divaricatissimus::plant
 pseudo:伪
 psevdas::village
 pshaveli::village
+psilostrophe cooperi::plant
+psilostrophe tagetina::plant
 pskhu::village
-psychiatric disorder:精神紊乱
+psorospermum febrifugum::plant
 psychiatric:精神病学的
+psychiatric disorder:精神紊乱
 psychiatrist:精神病医生
 psychiatry:精神病学
-psychic power:心灵的力量
 psychic:心灵的
+psychic power:心灵的力量
 psychoactive:影响精神的
 psychology:心理学
 psychopath:变态
@@ -4910,28 +5170,47 @@ pszczółczyn::village
 pszenno::village
 ptaszków::village
 ptelea::village
-pteri::village
 pteria::village
+pteri::village
+pterostylis agrestis::plant
+pterostylis bureaviana::plant
+pterostylis caulescens::plant
+pterostylis clivicola::plant
+pterostylis exalla::plant
+pterostylis extranea::plant
+pterostylis hadra::plant
+pterostylis macilenta::plant
+pterostylis macrosepala::plant
+pterostylis major::plant
+pterostylis mystacina::plant
+pterostylis papuana::plant
+pterostylis pearsonii::plant
+pterostylis pedina::plant
+pterostylis splendens::plant
+pterostylis tenuicauda::plant
+pterostylis thulia::plant
+pterostylis timorensis::plant
 ptghavan::village
 ptghunk::village
 ptichar::village
 pturek::village
-pu lein::village
 puabagan::village
 pubbarawela::village
 pubbiliya::village
 pubborka::village
-public domain:公共域
 public:公共的
 publication:出版
+public domain:公共域
 publish:发表
 publisher:出版商
 pubowal::village
-puch::village
 puchacze::village
+puch::village
 puckane::village
 puckeridge::village
 puckett::village
+pūčkornės::village
+puçuq::village
 pudakalakatti::village
 pudakalkatti::village
 pudanu::village
@@ -4948,22 +5227,31 @@ pudukudi north::village
 pudukudi south::village
 puduküla::village
 pudumadam::village
-pudupatti::village
 pudupattinam::village
+pudupatti::village
 pudur::village
 pudussery east::village
 pueblo nuevo::village
-puente madre::village
 puentelarrá::village
+puente madre::village
 puerto castilla::village
 puerto merizalde::village
 puerto rico:波多黎各
 pugal sillathur::village
 pugeh-ye guni dagh::village
+puğkaracadağ::village
 pugnano::village
 pugritsa::village
-puhatu::village
+pühajärve::village
+pühajõe::village
+püha-kõnnu::village
+pühalepa-harju::village
+pühalepa::village
 puhatubari::village
+puhatu::village
+pühatu::village
+püha::village
+pühi::village
 puhkova::village
 puhmu::village
 puhoi::village
@@ -4974,10 +5262,10 @@ puigverd d'agramunt::village
 puigverd de lleida::village
 puilo::village
 puise::village
-pujari ki dhani::village
 pujariguda::village
-puka::village
+pujari ki dhani::village
 pukamäe::village
+puka::village
 puke:吐
 pukeh abbas::village
 pukhuria::village
@@ -4987,10 +5275,9 @@ pukkarambai::village
 pukovac::village
 pukzing::village
 pul adasi::village
-pula::village
+pulad-e qasemi::village
 pulad kuh sar::village
 pulad kuh::village
-pulad-e qasemi::village
 pulak rud pey::village
 pulaparru::village
 pularkoppa::village
@@ -4999,14 +5286,17 @@ pulau meranti::village
 pulavankadu::village
 pulavanur::village
 pulavarnatham::village
+pula::village
 pulczynów::village
 puldinni::village
 puleh::village
+pu lein::village
 pulgoja::village
-puli kiadeh::village
+pülgön::village
 pulianthoppu::village
 pulibor::village
 pulidindi::village
+puli kiadeh::village
 pulimamidi::village
 pulimangalam::village
 pulingome::village
@@ -5019,39 +5309,39 @@ puliyannoor::village
 puliyavu::village
 puliyoor::village
 puliyur::village
-pull over:停车
+pułkownikowo::village
 pull:拉
-pulla::village
 pullaigudem::village
 pullalacheruvu::village
 pullalur::village
 pullampet::village
 pullanviduthi::village
+pulla::village
 pulleniwatta::village
 pulletikurru::village
 pullevere::village
 pulli::village
 pullong::village
 pulloullo::village
+pull over:停车
 pulluvila::village
-pulmonary artery:肺动脉
 pulmonary:肺的
+pulmonary artery:肺动脉
 pulobha::village
 pulopanja::village
 pulraut::village
 pulyeh::village
-pum::village
 pump:泵
 pumpherston::village
 pumsaint::village
-pun shan chau::village
-pun uk tsuen::village
-puna::village
+pum::village
 punaroor::village
+puna::village
 punch:拳击
 punchavayal::village
 punched card:打孔卡
 punchlrambadagalla::village
+puńców::village
 punctual:守时的
 pundaluoya::village
 pundibari::village
@@ -5059,14 +5349,14 @@ punduloya::village
 punel::village
 punewadi::village
 puneyeh::village
-punga::village
 pungamarathupatti::village
 pungankuzhi::village
+punga::village
 punglwa::village
-puni::village
 punian::village
 punish:惩罚
 punishment:惩罚
+puni::village
 punjalkatte::village
 punjave::village
 punk:朋克
@@ -5078,10 +5368,13 @@ punnelu::village
 punnett's town::village
 punnyurkulam::village
 punrasar::village
+pun shan chau::village
+puńsk::village
 puntas de valdez::village
 puntone di scarlino::village
 puntone::village
 punugumarana halli::village
+pun uk tsuen::village
 punwan::village
 punwar::village
 puodžiai::village
@@ -5093,27 +5386,24 @@ puppet:木偶
 puppy:小狗
 pupunki::village
 pupuressa::village
-pur (belgaum)::village
-pur::village
+puraamkumbura::village
 pura bahadur::village
+purabirbal::village
+pura, dharwad::village
 pura gambhirshah::village
+purainia::village
+purai::village
 pura jagannath::village
 pura khana::village
-pura manga::village
-pura mani manohar::village
-pura, dharwad::village
-pura::village
-puraamkumbura::village
-purabirbal::village
-purai::village
-purainia::village
 puraki::village
 purakkad::village
 puralal::village
 puraman bhawan::village
+pura manga::village
+pura mani manohar::village
 puramathra::village
-puran badi::village
 purana wala::village
+puran badi::village
 purandarpur::village
 purankama::village
 purankumbura::village
@@ -5122,15 +5412,17 @@ puras de villafranca::village
 purasi::village
 purathakudi::village
 purauli::village
-puraz::village
+pura::village
 purazh::village
+puraz::village
 purba singhichhara::village
+pur (belgaum)::village
 purdi::village
+pure:纯的
 pure breed:纯种
+pureng::village
 pure thamman::village
 pure water:纯水
-pure:纯的
-pureng::village
 purga::village
 purge:清除
 purian kalan::village
@@ -5142,6 +5434,7 @@ purine:嘌呤
 purjangi::village
 purjavid::village
 purkan::village
+pürksi::village
 purku::village
 purli::village
 purmafi::village
@@ -5159,50 +5452,56 @@ pursurah::village
 purtsa::village
 purtse::village
 purtsi::village
-puru::village
 purul::village
 purush pal::village
 purusottampur::village
+puru::village
 purva::village
 purventsi::village
+pur::village
 purvitsa::village
 purwasaba::village
 purzand-e pain::village
 purzand-e vasat::village
 pusacak::village
+pušanjski do::village
 pusar::village
-push kashan::village
 push:推
 pushabad::village
 pushan::village
+push kashan::village
 pushkino::village
 pushpagiri::village
 pushpavanam::village
 pushpin:图钉
 pusi::village
 puski::village
+püski::village
 pusku::village
 pusmen::village
 pusnes::village
+püspökhatvan::village
+püspökmolnári::village
+püspökszilágy::village
 pussalagolla::village
 pussalakandura::village
 pussalamankada::village
 pussellagolla::village
 pussy:懦夫
-pust forushan::village
-pust kola::village
 pusta dąbrówka::village
 pustec::village
 pustelnia::village
 pustelnik::village
+pust forushan::village
 pustin duz::village
 pustin sara::village
 pustin::village
 pustki działyńskie::village
 pustki Śmiłowskie::village
+pust kola::village
+pustków::village
 pustków wilczkowski::village
 pustków Żurawski::village
-pustków::village
 pusto selo::village
 pustynka::village
 pusulpitiya::village
@@ -5226,8 +5525,6 @@ pusztaszentlászló::village
 pusztavacs::village
 pusztavám::village
 pusztazámor::village
-put off:推迟
-put on:穿上
 put:放
 putab::village
 putagán::village
@@ -5235,8 +5532,8 @@ putanga::village
 putar::village
 putaw::village
 puthagaram::village
-puthar::village
 putharachal::village
+puthar::village
 puthencavu::village
 puthoor::village
 puthukkudiyiruppu::village
@@ -5249,6 +5546,8 @@ putkaste::village
 putlacheruvu::village
 putlur::village
 putnikovo::village
+put off:推迟
+put on:穿上
 putrela::village
 putrivka::village
 putsuri::village
@@ -5259,6 +5558,7 @@ puttanavari palli::village
 putti::village
 putty::village
 putu::village
+püünsi::village
 puusepa::village
 puvočiai::village
 puwakgahagala::village
@@ -5275,20 +5575,14 @@ puzeh sefid::village
 puzeh-ye chaharabi::village
 puzeh-ye hezar qadami::village
 puzeh-ye kharaftkhaneh::village
-puzeh-ye kuh::village
 puzeh-ye kuhbord::village
+puzeh-ye kuh::village
 puzeh-ye tiz ab safer::village
 puzeh-ye zard::village
 puzgah::village
 puzhakkattiri::village
 puzpalak::village
 puzzle:迷
-puçuq::village
-puğkaracadağ::village
-pułkownikowo::village
-puńców::village
-puńsk::village
-pušanjski do::village
 pwetnyet::village
 pwisang::village
 pwllglas::village
@@ -5298,11 +5592,12 @@ pyasi::village
 pyathon::village
 pyawbwe::village
 pyengana::village
+p. yerragonda::village
 pyiloi::village
 pyindaw::village
 pyingaing::village
-pyla::village
 pylaia::village
+pyla::village
 pyli::village
 pymoor::village
 pyongyang:平壤
@@ -5315,234 +5610,10 @@ pyrsogianni::village
 pyshchevyk::village
 pyshkivtsi::village
 pyskowice::village
+pysząca::village
 pyszczyn::village
 pyszkowo::village
-pysząca::village
 pythagoras:毕达哥拉斯
 pythagorean:毕达哥拉斯的
 python:蟒蛇
 pyxis:罗盘座
-pácin::village
-pácsony::village
-páka::village
-pákozd::village
-pálfa::village
-pálfiszeg::village
-páli::village
-pálmajor::village
-pánd::village
-pányok::village
-pápadereske::village
-pápakovácsi::village
-pápasalamon::village
-pápateszér::village
-pápoc::village
-páprád::village
-pári::village
-pátka::village
-páty::village
-pázmánd::village
-pázmándfalu::village
-pâques::village
-pähkla::village
-päide::village
-päidla::village
-päidre::village
-päiksi::village
-päinurme::village
-päite::village
-päka::village
-päkste::village
-pällastvere::village
-pälli::village
-pällu::village
-päraküla::village
-päri::village
-pärinurme::village
-pärispea::village
-pärivere::village
-pärna::village
-pärnamäe::village
-pärni::village
-pärnselja::village
-pärsama::village
-pärsi::village
-pärsikivi::village
-pärsti::village
-pätsavere::village
-päädeva::village
-päärdu::village
-pètakakisgou::village
-pécsbagota::village
-pécsdevecser::village
-pécsely::village
-pécsudvard::village
-péguékaha::village
-péhékanhouébli::village
-pély::village
-pélézi::village
-pénzesgyőr::village
-pér::village
-péterhida::village
-péteri::village
-pétfürdő::village
-pétigoa 2::village
-pëllumbas::village
-përcëllesh::village
-përparim::village
-pîrjolteni::village
-pîrjota::village
-pîrlița::village
-pîrîta::village
-pólko::village
-pórszombat::village
-pósfa::village
-półwiesk duży::village
-półwiesk mały::village
-põdrangu::village
-põdruse::village
-põgari-sassi::village
-põhara::village
-põhja::village
-põikma::village
-põikva::village
-põima::village
-põldeotsa::village
-põlendmaa::village
-põlgaste::village
-põlli::village
-põlliku::village
-põllu::village
-põlluküla::village
-põlma::village
-põlula::village
-põrga::village
-põrsaku::village
-põvvatu::village
-pöide-keskvere::village
-pöide::village
-pöitse::village
-pölöske::village
-pölöskefő::village
-pörböly::village
-pördefölde::village
-pötréte::village
-pöttelsdorf::village
-pöögle::village
-pööra::village
-pööravere::village
-pööritsa::village
-püha-kõnnu::village
-püha::village
-pühajärve::village
-pühajõe::village
-pühalepa-harju::village
-pühalepa::village
-pühatu::village
-pühi::village
-pülgön::village
-pürksi::village
-püski::village
-püspökhatvan::village
-püspökmolnári::village
-püspökszilágy::village
-püünsi::village
-pāuatahanui::village
-păpăuți::village
-păulești::village
-pątnów legnicki::village
-pątnów::village
-pątnówek::village
-pėdžiai::village
-pęchowo::village
-pęciszów::village
-pęcz::village
-pęczków::village
-pęcław::village
-pęcławice górne::village
-pędzewo::village
-pęgów::village
-pękoszów::village
-pększyn::village
-pęperzyn::village
-pınar::village
-pınarbaşı::village
-pınarcık::village
-pınardere::village
-pınargözü::village
-pınarhisar::village
-pınarkaya::village
-pınarlar::village
-pınarlı::village
-pınarlıkaya::village
-pınarönü::village
-płachty::village
-płaczkówko::village
-płaszczyzna::village
-pławin::village
-pławinek::village
-pławna dolna::village
-pławna górna::village
-pławna::village
-płazowo::village
-płochocin::village
-płochocinek::village
-płocicz::village
-płomiany::village
-płonczyn::village
-płonica::village
-płonina::village
-płonko::village
-płonkowo::village
-płonkówko::village
-płonne::village
-płosa::village
-płoski::village
-płosków::village
-płoszczyna::village
-płowce::village
-płowęż::village
-płusy::village
-płutowo::village
-płużnica::village
-pływaczewo::village
-płóczki dolne::village
-płóczki górne::village
-płąchawy::village
-pścinek::village
-pścinno::village
-pšata::village
-pūčkornės::village
-pələkli::village
-pərdiqıran::village
-pərioğlular::village
-passiflora palenquensis::plant
-psilostrophe cooperi::plant
-piper darienense::plant
-phalaenopsis equestris::plant
-photinia anlungensis::plant
-photinia serratifolia::plant
-photinia serrulata::plant
-plantago erecta::plant
-pinkball::plant
-pink ball tree::plant
-psorospermum febrifugum::plant
-psilostrophe tagetina::plant
-prostanthera arapilensis::plant
-polypremum::plant
-paullinia pinnata::plant
-privet::plant
-pauridia::plant
-penstemon cobaea::plant
-peony::plant
-primula carniolica::plant
-pseudanthus divaricatissimus::plant
-paullinia paullinioides::plant
-perennial centaury::plant
-philotheca hispidula::plant
-physocarpus alternans::plant
-polygala chapmanii::plant
-protea stokoei::plant
-prostanthera sejuncta::plant
-parasyrphus melanderi::plant
-polygonatum arisanense::plant

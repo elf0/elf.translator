@@ -1,21 +1,20 @@
-ca goulmie::village
-ca pierre::village
-ca vilason::village
-ca Élie::village
+căbăiești::village
 cabanabona::village
 cabanı::village
 cabauw::village
 cabbacott::village
 cabbage:卷心菜
 cabbage::plant
-cabezabellosa::village
 cabeça dos tarrafes::village
-cabin::village
+cabezabellosa::village
 cabin:舱
-cabinet minister:内阁部长
 cabinet:内阁
+cabinet minister:内阁部长
+cabin::village
 cabire::village
 cable:电缆
+cabobanthus bullulatus::plant
+cabobanthus polysphaerus::plant
 cabo verde:佛得角
 cabretón::village
 cacanin::village
@@ -34,6 +33,7 @@ cadshaw::village
 cadzand::village
 caego::village
 caehopkin::village
+ca Élie::village
 caenorhabditis:线虫
 caergeiliog::village
 caergwrle::village
@@ -42,7 +42,9 @@ caesium:铯
 cafaggio::village
 caferler::village
 caferli::village
+cağazur::village
 cage::village
+ca goulmie::village
 caherconlish::village
 caherdaniel::village
 caicedo de yuso::village
@@ -54,9 +56,42 @@ cairo::village
 cajba::village
 cake:蛋糕
 cakóháza::village
-cala en porter::village
+cák::village
 calabaceira::village
 calabërzez::village
+caladenia armata::plant
+caladenia atrochila::plant
+caladenia audasii::plant
+caladenia aurulenta::plant
+caladenia bartlettii::plant
+caladenia bigeminata::plant
+caladenia brachyscapa::plant
+caladenia cadyi::plant
+caladenia chlorostyla::plant
+caladenia clavescens::plant
+caladenia cleistantha::plant
+caladenia dorrigoensis::plant
+caladenia douglasiorum::plant
+caladenia ensigera::plant
+caladenia flindersica::plant
+caladenia fuliginosa::plant
+caladenia intuta::plant
+caladenia littoricola::plant
+caladenia oreophila::plant
+caladenia orestes::plant
+caladenia osmera::plant
+caladenia parva::plant
+caladenia patersonii::plant
+caladenia peisleyi::plant
+caladenia pilotensis::plant
+caladenia rosea::plant
+caladenia saxatilis::plant
+caladenia strigosa::plant
+caladenia subglabriphylla::plant
+caladenia variegata::plant
+caladenia whiteheadii::plant
+caladenia zephyra::plant
+cala en porter::village
 calafell::village
 calais::village
 calalo::village
@@ -70,44 +105,78 @@ calculated:已计算的
 calculation:计算
 calculations:计算
 calculus:微积分
-calcutt::village
 calcutta::village
+calcutt::village
 caldana::village
 caldbeck::village
 caldecote::village
 caldecott::village
-calderwood::village
 calderón::village
+calderwood::village
 caldhame::village
-caledonia::village
 caledonia:古苏格兰
 caledonian:古苏格兰人
+caledonia::village
 calendar:日历
 caleta de velez::village
 calhoun::village
 calibishie::village
-california::village
 california:加利福尼亚
-call girl:应召女郎
+california::village
+călimănești::village
+călinești::village
 call:打电话给
 callantsoog::village
 callaway::village
-calm down:冷静
+call girl:应召女郎
+callichilia monopodialis::plant
 calm:平静
+călmățui::village
+calm down:冷静
+calochilus platychilus::plant
+calochortus umbellatus::plant
+calothamnus affinis::plant
+calothamnus arcuatus::plant
+calothamnus aridus::plant
+calothamnus blepharospermus::plant
+calothamnus borealis::plant
+calothamnus brevifolius::plant
+calothamnus cupularis::plant
+calothamnus formosus::plant
+calothamnus glaber::plant
+calothamnus hirsutus::plant
+calothamnus macrocarpus::plant
+calothamnus montanus::plant
+calothamnus oldfieldii::plant
+calothamnus phellosus::plant
+calothamnus quadrifidus'' subsp. ''angustifolia::plant
+calothamnus quadrifidus'' subsp. ''asper::plant
+calothamnus quadrifidus'' subsp. ''homalophyllus::plant
+calothamnus quadrifidus'' subsp. ''obtusus::plant
+calothamnus quadrifidus'' subsp. ''petraeus::plant
+calothamnus quadrifidus'' subsp. ''quadrifidus::plant
+calothamnus quadrifidus'' subsp. ''seminudus::plant
+calothamnus quadrifidus'' subsp. ''teretifolius::plant
+calothamnus roseus::plant
+calothamnus scabridus::plant
+calothamnus superbus::plant
+calothamnus torulosus::plant
+calothamnus tuberosus::plant
 calumet park::village
 calumet::village
 calvert::village
 camajábà::village
+cã mamudo::village
 camargo::village
-cambaz::village
 cambazlı::village
+cambaz::village
 cambodia:柬埔寨
 cambois::village
 cambria::village
-cambridge university press:剑桥大学出版社
-cambridge university:剑桥大学
-cambridge::village
 cambridge:剑桥
+cambridge university:剑桥大学
+cambridge university press:剑桥大学出版社
+cambridge::village
 cambusbarron::village
 cambuskenneth::village
 camden east::village
@@ -119,50 +188,55 @@ cameron bridge::village
 cameron::village
 cameroon:喀麦隆
 camigliano::village
-camili::village
 camilimanda::village
-camiliyayla::village
 camiliören::village
+camili::village
+camiliyayla::village
 caminho novo::village
 camino de beniel::village
 camino::village
+camissonia lacustris::plant
 camolin::village
-camp douglas::village
-camp office, iranshahr::village
-camp point::village
+camós::village
 campaign:战役
+campanula thyrsoides::plant
 campbell bay::village
 campbell hill::village
-campbell::village
 campbellsport::village
+campbell::village
 campdevànol::village
+camp douglas::village
 campelles::village
 campement de mialouto::village
 camperdown::village
-campiglia d'orcia::village
 campiglia dei foci::village
+campiglia d'orcia::village
 campion::village
 campllong::village
+camp office, iranshahr::village
 campo::village
+camp point::village
 camprovín::village
 campsea ashe::village
 campus:校园
+campylospermum serratum::plant
 camugliano::village
 camuns::village
 camurlim::village
 camuzcu::village
 camuzluk::village
-camós::village
-can you believe it:你能相信吗
-can you feel it:你能感觉到它吗
-can you hear me:你能听到我说话吗
 can:能
-cana::village
 canada:加拿大
-canadian politician:加拿大政客
+cañada del provencio::village
+cañada de morote::village
+cañada nieto::village
+cañadas de san pedro::village
 canadian:加拿大人
+canadian politician:加拿大政客
 canal:运河
 canales de la sierra::village
+canarium pseudopatentinervium::plant
+cana::village
 canbar::village
 canbazlı::village
 canca::village
@@ -189,10 +263,13 @@ canjia::village
 cankara::village
 cannabis:大麻
 canneto::village
-canning::village
 canningstown::village
+canning::village
 canoe:单桨划艇
+canòlic::village
+cànoves i samalús::village
 canquelifá::village
+canscora bhatiana::plant
 cansunco::village
 cantonese:广东话
 cantonese:粤语
@@ -200,37 +277,43 @@ cantrall::village
 canuşağı::village
 canvas:画布
 canyon:峡谷
-canòlic::village
-cap malheureux::village
+can you believe it:你能相信吗
+can you feel it:你能感觉到它吗
+can you hear me:你能听到我说话吗
 capability:能力
-capac::village
 capacity:容量
 capaclia::village
+capac::village
 capafonts::village
 capalbio scalo::village
 capanne::village
 caparde::village
 capari::village
-cape st. francis::village
-cape town:开普敦
 cape:披肩
 capel gwyn::village
-capel st. mary::village
 capelle::village
-capital letter:大写字母
+capel st. mary::village
+cape st. francis::village
+cape town:开普敦
+ca pierre::village
 capital:首都
 capitalisation:资本化
 capitalism:资本主义
-capitalist:资本主义者
 capitalist:资本家
+capitalist:资本主义者
 capitalization:资本化
+capital letter:大写字母
 capitan::village
+căplani::village
+cap malheureux::village
 capoey::village
+capparis elegans::plant
 cappawhite::village
 cappuccino:热牛奶咖啡
 caprau::village
-capron::village
+căpriana::village
 caprona::village
+capron::village
 capsule:胶囊
 capsule:膜囊
 captain:船长
@@ -238,7 +321,6 @@ caption:标题
 capture:俘获
 captured:被俘
 caputh::village
-car bomb:汽车炸弹
 car:车
 carabetovca::village
 caracui::village
@@ -249,17 +331,21 @@ carahasani::village
 carambolim::village
 carantaba::village
 carberry::village
+car bomb:汽车炸弹
+carbon:碳
+carbonate:碳酸盐
 carbon cliff::village
 carbon dioxide:二氧化碳
 carbon emission:碳排放
 carbon hill::village
-carbon::village
-carbon:碳
-carbonate:碳酸盐
 carboniferous:石炭纪
+carbon::village
+cărbuna::village
+cárcamo::village
 carcasse::village
 card:卡
 cardale::village
+cárdenas::village
 care:关心
 career:事业
 career:职业生涯
@@ -270,11 +356,11 @@ careviḱ::village
 carevo polje::village
 cargo:货物
 carham::village
-caribbean sea:加勒比海
 caribbean:加勒比的
+caribbean sea:加勒比海
 carica::village
-carine::village
 cariñena::village
+carine::village
 cark::village
 carl:卡尔
 carlecotes::village
@@ -289,20 +375,20 @@ carlton::village
 carmacks::village
 carmangay::village
 carmel::village
-carn brea village::village
 carnaross::village
+carn brea village::village
 carnew::village
 carney::village
+carnivorous:食肉的
 carnivorous dinosaur:食肉恐龙
 carnivorous mammal:食肉哺乳动物
 carnivorous plant:食肉植物
-carnivorous:食肉的
 carnkie::village
-carno::village
 carnon downs::village
-carol stream::village
+carno::village
 carolina:卡罗莱纳
 caroline::village
+carol stream::village
 carp:鲤鱼
 carpentersville::village
 carpentier::village
@@ -316,11 +402,11 @@ carraroe::village
 carrascosa::village
 carrathool::village
 carrbridge::village
+carrefour:家乐福
 carrefour gros chaudiere::village
 carrefour malatle::village
 carrefour mambo::village
 carrefour meridien::village
-carrefour:家乐福
 carreglefn::village
 carriage return:回车
 carrickbeg::village
@@ -331,9 +417,9 @@ carrington::village
 carrion:腐肉
 carrog::village
 carroll::village
-carron::village
 carronbridge::village
 carronshore::village
+carron::village
 carrot:胡萝卜
 carrshield::village
 carrutherstown::village
@@ -346,8 +432,8 @@ carstairs::village
 cart:购物车
 cartaojal::village
 carterpuri::village
-cartesian coordinate:笛卡尔座标
 cartesian:笛卡尔的
+cartesian coordinate:笛卡尔座标
 cartland::village
 cartmel::village
 cartoon:动画片
@@ -360,8 +446,8 @@ casarabe::village
 casas de bárcena::village
 casas de cuadra::village
 casas de eufemia::village
-casas de sotos::village
 casas del señor::village
+casas de sotos::village
 casasola de arión::village
 cascabulho::village
 cascade::village
@@ -384,23 +470,22 @@ casone::village
 cass city::village
 cassilis::village
 cassiopeia:仙后座
-cassop::village
 cassopolis::village
+cassop::village
 cassville::village
 castagnoli::village
 castañares de rioja::village
 castañeira::village
 castel del bosco::village
-castel san gimignano::village
-castell'anselmo::village
-castell'ottieri::village
 castellaccia::village
+castell'anselmo::village
 castellar-oliveral::village
 castellcir::village
 castellciutat::village
 castelldans::village
 castellfollit del boix::village
 castellnou de seana::village
+castell'ottieri::village
 castellserà::village
 castelluccio::village
 castellvell del camp::village
@@ -410,22 +495,23 @@ castelnuovo dell'abate::village
 castelnuovo della misericordia::village
 castelnuovo scalo::village
 castelré::village
+castel san gimignano::village
 castenray::village
 castiglioncello bandini::village
 castiglioncello del trinoro::village
 castile::village
 castillo::village
 castilseco::village
-castle eden::village
-castle hedingham::village
-castle rock::village
 castle:城堡
 castleblakeney::village
 castleconnell::village
 castlecove::village
+castle eden::village
 castlegregory::village
+castle hedingham::village
 castleiney::village
 castlepollard::village
+castle rock::village
 castleside::village
 castleton::village
 castrate:阉割
@@ -438,6 +524,7 @@ castroreale::village
 castroviejo::village
 casual:偶然的
 casualty:伤亡
+cașunca::village
 cat:猫
 catabbio::village
 catalan:加泰罗尼亚语
@@ -447,6 +534,7 @@ catastrophic:大灾难的
 catawba::village
 catbrook::village
 category:分类
+cățeleni::village
 catena::village
 caterpillar:毛毛虫
 catforth::village
@@ -472,36 +560,31 @@ cavahirli::village
 cavallano::village
 cavalry:骑兵
 cavarzano::village
-cave-in-rock::village
 cave:洞穴
+cave-in-rock::village
 cavelossim::village
 cavergno::village
 cavidabad::village
+ca vilason::village
 cavity:腔
 cavo::village
 cazalla::village
 cazenovia::village
-cañada de morote::village
-cañada del provencio::village
-cañada nieto::village
-cañadas de san pedro::village
-cağazur::village
-cașunca::village
 ceadîr::village
-cease fire:停火
-cease funding:停止提供资金
 cease:停止
+cease fire:停火
 ceasefire:停火
-cebe::village
+cease funding:停止提供资金
 cebeci::village
 cebeli::village
 ceber::village
+cebe::village
 cebirli::village
 cebollatí::village
 cebu:宿务
 cebuano:宿务语
-cece::village
 ceceli::village
+cece::village
 cecil::village
 cecuni::village
 cedar bluffs::village
@@ -519,29 +602,30 @@ cegielnia::village
 cegielnik::village
 ceglédbercel::village
 ceikiniai::village
-cek::village
-cekcyn::village
 cekcynek::village
+cekcyn::village
 cekule::village
+cek::village
 celebration:庆祝
 celery:芹菜
 celery::plant
 celestial:天空的
-celil::village
 celiloğlu::village
-cell cycle:细胞周期
-cell division:细胞分裂
-cell phone:蜂窝电话
+celil::village
 cella de loanga::village
 cellardyke::village
-celle sul rigo::village
+cell cycle:细胞周期
+cell division:细胞分裂
 cellena::village
+celle sul rigo::village
 cello:大提琴
 cellorigo::village
+cell phone:蜂窝电话
 cellular:细胞的
 celrà::village
-cement city::village
+cełujki::village
 cement:水泥
+cement city::village
 cemetery:墓地
 cemilli::village
 cemlyn::village
@@ -552,33 +636,36 @@ cenac::village
 cenaia::village
 cenate::village
 cendere::village
-cennet::village
 cennetpınar::village
+cennet::village
 census:普查
 cent:美分
+centaurium scilloides::plant
 centenary::village
 center:中心
 centertown::village
 centerview::village
 centimeter:厘米
 centipede:蜈蚣
+central:中心的
 central african republic:中非共和国
 central city::village
 central idea:核心思想
+centralization of power:集权
 central lake::village
 central nervous system:中枢神经系统
 central processing unit:中央处理单元
-central:中心的
-centralization of power:集权
 centre:中心
 centreville::village
 centuria::village
 century:世纪
 ceo:首席执行官
+cephalostachyum viguieri::plant
 cepno::village
 ceppato::village
 cerajë::village
 ceran::village
+ceratocephala::plant
 cereal:谷类
 cerebral:大脑的
 cered::village
@@ -588,28 +675,29 @@ cerenli::village
 ceres::village
 ceribašići::village
 cericë::village
+cerići::village
 cerik::village
+ceriņi::village
 ceritler::village
 cerityeniyapan::village
 cerium:铈
-cerići::village
-ceriņi::village
 cerjani::village
 cerje pokupsko::village
 cerklje na gorenjskem::village
 cerkovicë::village
 cerkovinë::village
+cërmjan::village
 cernik::village
 cernița::village
-cerno::village
 cernoleuca::village
-cerova::village
+cerno::village
 cerovac::village
+cerova::village
 cerovec stanka vraza::village
+cerovë::village
 cerovica::village
 cerovnik::village
 cerovo::village
-cerovë::village
 cerrca::village
 cerreto selva::village
 cerreto::village
@@ -618,11 +706,12 @@ cerrig man::village
 cerro de las cuentas::village
 certain:确定的
 certers::village
-cervical:子宫颈的
-cervical:脖子的
 cervià de les garrigues::village
 cervià de ter::village
+cervical:脖子的
+cervical:子宫颈的
 cesarzowice::village
+cestrum tomentosum::plant
 cetireni::village
 cetki::village
 cetrimonium:西曲铵
@@ -630,16 +719,23 @@ cetty::village
 cevizdalı::village
 cevizdibi::village
 cevizler::village
-cevizli::village
 cevizlidere::village
 cevizlik::village
+cevizli::village
 cevoli::village
 ceyhanbekirli::village
+ceyrançöl::village
 ceyrankeçməz::village
 ceyranlı::village
-ceyrançöl::village
-cełujki::village
-ch. gunnepalle::village
+cəfərabad::village
+cəfərli::village
+cəfərxan::village
+cəmilli::village
+cəndəhar::village
+cəngan::village
+cəngi::village
+cənubi::village
+cəyirli::village
 chaam::village
 chabanivka::village
 chabar::village
@@ -657,84 +753,224 @@ chachohar::village
 chachoki::village
 chachowal::village
 chachrari::village
-chad-e pain::village
 chad:乍得
 chada::village
 chadeh::village
+chad-e pain::village
 chadhaibhol::village
-chadi::village
 chadibe::village
+chadi::village
 chadiwal::village
 chadpur::village
 chadual::village
 chadwick::village
 chaek::village
-chafa::village
+chaerophyllum elegans::plant
+chaetanthera elegans::plant
 chafal::village
+chafa::village
 chafdar::village
 chafjir::village
-chaft-e kola::village
 chaftab-e barmeyun::village
 chafteh darreh-ye olya::village
 chafteh darreh-ye sofla::village
 chafteh darreh-ye vosta::village
 chafteh::village
+chaft-e kola::village
 chafu chah::village
-chaga parviz::village
 chagah::village
 chagallu::village
-chagha hast::village
-chagha sorkhak::village
+chaga parviz::village
 chaghaduz::village
+chagha hast::village
 chaghal kan::village
 chaghal::village
 chaghan::village
 chaghar bolagh::village
-chaghar matti::village
 chagharlu::village
+chaghar matti::village
+chagha sorkhak::village
 chaghatayi::village
 chagherbit-e bala::village
 chagherbit-e pain::village
 chaghungenesh::village
 chagoli bolagh::village
-chah ab::village
 chah abdol-e fariyab::village
 chah abu ol fazl::village
+chah ab::village
+chahab::village
 chah aduri::village
 chah afzal::village
+chahaki::village
+chahak::village
+chahal gazer::village
+chahal kalan::village
+chahal khurd::village
+chahal konar::village
+chahal::village
 chah amuzi::village
 chah anjir::village
+chahan::village
+chahar ab::village
+chahar afra::village
+chahar afshar-e sofla::village
+chahar angaj-e jowkar::village
+chahar asiab::village
+chahar bagh::village
+chahar barreh::village
+chahar barud::village
+chahar bast bagh::village
+chahar bid-e sartang::village
+chahar bid::village
+chahar bisheh::village
+chahar bisheh-ye olya::village
+chahar bisheh-ye sofla::village
+chahar biti::village
+chahar bolagh::village
+chahar borj-e olya::village
+chahar borj-e sofla::village
+chahar borji::village
+chahar borj::village
+chahar bot::village
+chahar chahi::village
+chahar chenar::village
+chahar cherik::village
+chahar cheshmeh::village
+chahar cheshmeh-ye nazem::village
+chahar cheshmeh-ye olya::village
+chahar chubeh::village
+chahardah jofteh::village
+chahar darreh::village
+chahar deh::village
+chahardeh-ye bala::village
+chahardeh-ye pain::village
+chahar derakht::village
+chahar divar::village
+chahardi::village
+chahar farsakh::village
+chahar gah::village
+chahargah::village
+chahar gav bandi::village
+chahar gaveh::village
+chahar gol ali mohammad::village
+chahar gushli::village
+chahar gush::village
+chahar hadd::village
+chahar kahn::village
+chahar kent::village
+chahar kesht::village
+chahar khaneh sar-e bala::village
+chahar khaneh sar-e pain::village
+chahar khanevar::village
+chahar kharvar::village
+chahar kulan::village
+chahar mahal::village
+chahar marzun::village
+chahar mast::village
+chahar mazara::village
+chahar mazu::village
+chahar meh::village
+chahar melan::village
+chahar meleh gel sorkheh::village
+chahar meleh::village
+chahar meleh-ye olya::village
+chahar meleh-ye sofla::village
+chahar mil::village
+chahar muran::village
+chahar murun-e jowkar::village
+chahar murun-e tamdari::village
+chahar mur::village
+chahar qaleh::village
+chahar qaleh-ye barani::village
+chahar qaleh-ye olya::village
+chahar qaleh-ye sadat::village
+chahar qaleh-ye sofla::village
+chahar qaleh-ye vosta::village
+chahar qash-e chari::village
+chahar qash-e talkhab::village
+chahar qashi::village
+chahar qash::village
+chahar qeshlaq::village
+chahar qollat::village
+chahar rah beheshti sapu::village
+chahar rah-e ali tayyeb::village
+chahar rah-e chari::village
+chahar rah-e gashin::village
+chahar rah-e soleyman::village
+chahar rah-e tombal::village
+chahar rah-e zirrah::village
+chahar rah::village
+chahar rudbar::village
+chahar rustai::village
+chahar shamin::village
+chahar si abbasi::village
+chaharsi::village
+chahar sotun::village
+chaharsu poshteh::village
+chahar suq::village
+chaharta gav::village
+chahartai::village
+chahar takab::village
+chahar takhteh::village
+chahar takht-e kuk::village
+chahar tall-e mir mohammad fasiyeh::village
+chahar tang-e olya::village
+chahar tang-e qalandari::village
+chahar tang-e sofla::village
+chahar taq bon::village
+chahar taq-e bala::village
+chahar taq::village
+chahartaq::village
+chahar tol::village
+chahar zabar-e olya::village
+chahar zabar-e sofla::village
 chah badam::village
 chah bagh hasan::village
 chah bahram::village
 chah balu::village
-chah bar::village
 chah barf::village
 chah bargi::village
+chah bar::village
 chah bereshk::village
 chah beygi::village
 chah boland::village
+chahchaheh::village
 chah chah::village
+chahchekor::village
 chah chenar::village
 chah cheragh::village
 chah chul::village
 chah darreh::village
 chah dashi::village
 chah dasht-e buheng::village
+chahdigi::village
 chah dimeh::village
+chahdokan::village
 chah dul::village
+chah-e dasht mohammad khan 6::village
+chaheh::village
+chah-e jamal::village
+chah-e khoda bakhsh::village
+chah-e kichi::village
+chaheru::village
+chaheshk::village
+chahestan::village
+chah-e zard::village
 chah faleh-ye gharbi::village
 chah faleh-ye sharqi::village
 chah gabar::village
 chah gach-e sofla::village
+chahgah-e milas::village
+chahgah::village
 chah galleh::village
 chah gani::village
-chah gaz::village
 chah gazamani::village
 chah gazi::village
+chah gaz::village
 chah gharbal::village
 chah ghazelbash::village
 chah ghiyas::village
+chahgill::village
 chah goda::village
 chah gorgi::village
 chah gowd-e chamardan::village
@@ -749,23 +985,34 @@ chah kabkan::village
 chah kafteh::village
 chah kahnuiyeh::village
 chah kam::village
-chah kand::village
+chahkandak::village
 chah kandar::village
+chahkand-e gol::village
 chah kandeh::village
+chahkand-e mud::village
+chahkanduk::village
+chah kand::village
+chahkand::village
 chah kardqiam::village
 chah karmak::village
 chah khani::village
-chah kharg::village
 chah khargushi::village
+chah kharg::village
 chah kharu::village
 chah khaseh::village
 chah khashtu::village
 chah kheyr::village
+chahkhodru::village
 chah khoshkan::village
+chahkin::village
+chahkohneh::village
 chah kord::village
+chahkowr::village
 chah lak::village
+chahlak::village
 chah lashkaran-e bala::village
 chah lashkaran-e pain::village
+chahleh::village
 chah mahi::village
 chah mahki::village
 chah mahku::village
@@ -785,30 +1032,36 @@ chah mosallam::village
 chah muri::village
 chah murtuni::village
 chah nahr::village
-chah nar::village
 chah nareh cha abbasi::village
 chah narenj::village
+chahnarenj::village
+chah nar::village
 chah nasar::village
 chah nayi-ye hazeri::village
 chah nazari::village
 chah nuri::village
 chah ol madin::village
+chahor::village
 chah palasi::village
 chah pas::village
 chah pat::village
 chah paznan::village
-chah pir::village
 chah piruzi::village
+chah pir::village
 chah qaleh::village
 chah qanbar::village
 chah qazi::village
 chah qil::village
 chah qoli di-ye yek::village
 chah quski::village
+chahra::village
 chah reza::village
 chah rigi::village
+chahriq-e olya::village
+chahriq-e sofla::village
 chah riseh::village
 chah riz::village
+chahru::village
 chah sahari::village
 chah saida::village
 chah salem::village
@@ -820,209 +1073,73 @@ chah sharaf::village
 chah sheykh::village
 chah shuli::village
 chah shurak::village
-chah sorkh::village
 chah sorkhi::village
+chah sorkh::village
 chah sukhteh::village
 chah suri::village
 chah talkhab-e olya::village
 chah tarakh-e olya::village
 chah tiz::village
+chahtuk::village
+chahtun::village
 chah tus::village
 chah tut::village
+chahu genow-e pain::village
+chahu golzar::village
+chahuiyeh::village
+chahuk::village
+chahu::village
+chahu-ye gharbi::village
+chahu-ye sharqi::village
+chah::village
 chah yusefali::village
 chah zal::village
+chahzal::village
 chah zaman::village
 chah zangi::village
 chah zebar::village
 chah ziarat daniyal::village
 chah zilan::village
-chah-e dasht mohammad khan 6::village
-chah-e jamal::village
-chah-e khoda bakhsh::village
-chah-e kichi::village
-chah-e zard::village
-chah::village
-chahab::village
-chahak::village
-chahaki::village
-chahal gazer::village
-chahal kalan::village
-chahal khurd::village
-chahal konar::village
-chahal::village
-chahan::village
-chahar ab::village
-chahar afra::village
-chahar afshar-e sofla::village
-chahar angaj-e jowkar::village
-chahar asiab::village
-chahar bagh::village
-chahar barreh::village
-chahar barud::village
-chahar bast bagh::village
-chahar bid-e sartang::village
-chahar bid::village
-chahar bisheh-ye olya::village
-chahar bisheh-ye sofla::village
-chahar bisheh::village
-chahar biti::village
-chahar bolagh::village
-chahar borj-e olya::village
-chahar borj-e sofla::village
-chahar borj::village
-chahar borji::village
-chahar bot::village
-chahar chahi::village
-chahar chenar::village
-chahar cherik::village
-chahar cheshmeh-ye nazem::village
-chahar cheshmeh-ye olya::village
-chahar cheshmeh::village
-chahar chubeh::village
-chahar darreh::village
-chahar deh::village
-chahar derakht::village
-chahar divar::village
-chahar farsakh::village
-chahar gah::village
-chahar gav bandi::village
-chahar gaveh::village
-chahar gol ali mohammad::village
-chahar gush::village
-chahar gushli::village
-chahar hadd::village
-chahar kahn::village
-chahar kent::village
-chahar kesht::village
-chahar khaneh sar-e bala::village
-chahar khaneh sar-e pain::village
-chahar khanevar::village
-chahar kharvar::village
-chahar kulan::village
-chahar mahal::village
-chahar marzun::village
-chahar mast::village
-chahar mazara::village
-chahar mazu::village
-chahar meh::village
-chahar melan::village
-chahar meleh gel sorkheh::village
-chahar meleh-ye olya::village
-chahar meleh-ye sofla::village
-chahar meleh::village
-chahar mil::village
-chahar mur::village
-chahar muran::village
-chahar murun-e jowkar::village
-chahar murun-e tamdari::village
-chahar qaleh-ye barani::village
-chahar qaleh-ye olya::village
-chahar qaleh-ye sadat::village
-chahar qaleh-ye sofla::village
-chahar qaleh-ye vosta::village
-chahar qaleh::village
-chahar qash-e chari::village
-chahar qash-e talkhab::village
-chahar qash::village
-chahar qashi::village
-chahar qeshlaq::village
-chahar qollat::village
-chahar rah beheshti sapu::village
-chahar rah-e ali tayyeb::village
-chahar rah-e chari::village
-chahar rah-e gashin::village
-chahar rah-e soleyman::village
-chahar rah-e tombal::village
-chahar rah-e zirrah::village
-chahar rah::village
-chahar rudbar::village
-chahar rustai::village
-chahar shamin::village
-chahar si abbasi::village
-chahar sotun::village
-chahar suq::village
-chahar takab::village
-chahar takht-e kuk::village
-chahar takhteh::village
-chahar tall-e mir mohammad fasiyeh::village
-chahar tang-e olya::village
-chahar tang-e qalandari::village
-chahar tang-e sofla::village
-chahar taq bon::village
-chahar taq-e bala::village
-chahar taq::village
-chahar tol::village
-chahar zabar-e olya::village
-chahar zabar-e sofla::village
-chahardah jofteh::village
-chahardeh-ye bala::village
-chahardeh-ye pain::village
-chahardi::village
-chahargah::village
-chaharsi::village
-chaharsu poshteh::village
-chaharta gav::village
-chahartai::village
-chahartaq::village
-chahchaheh::village
-chahchekor::village
-chahdigi::village
-chahdokan::village
-chaheh::village
-chaheru::village
-chaheshk::village
-chahestan::village
-chahgah-e milas::village
-chahgah::village
-chahgill::village
-chahkand-e gol::village
-chahkand-e mud::village
-chahkand::village
-chahkandak::village
-chahkanduk::village
-chahkhodru::village
-chahkin::village
-chahkohneh::village
-chahkowr::village
-chahlak::village
-chahleh::village
-chahnarenj::village
-chahor::village
-chahra::village
-chahriq-e olya::village
-chahriq-e sofla::village
-chahru::village
-chahtuk::village
-chahtun::village
-chahu genow-e pain::village
-chahu golzar::village
-chahu-ye gharbi::village
-chahu-ye sharqi::village
-chahu::village
-chahuiyeh::village
-chahuk::village
-chahzal::village
 chai kek::village
-chain-o-lakes::village
 chain:连锁
 chain:链条
 chainewal::village
-chainpur::village
+chain-o-lakes::village
 chainpura::village
+chainpur::village
 chaintri::village
 chaipankuzhy::village
-chair::village
 chair:椅子
 chairman:主席
-chaj::village
+chair::village
 chajakhu::village
+chaj::village
 chak 104 nb::village
 chak 132 sb::village
 chak 138/10-r::village
 chak 152p::village
 chak 2 nb::village
+chak92-6/r::village
 chak 98nb::village
+chakab::village
+chakadeh::village
+chakalabbi::village
 chak alahi bakhash::village
+chakalarovo::village
+chakale::village
+chakalite::village
+chakaltsi::village
+chakal::village
+chakanak::village
+chakaneh-ye olya::village
+chakan hoseynabad::village
+chakan::village
+chakanwali::village
+chakarayapet::village
+chakarteh::village
+chakar::village
+chakasheh::village
+chakaten::village
 chak bahmanian::village
 chak bhadokhar::village
 chak bhagtupur::village
@@ -1036,32 +1153,68 @@ chak chela::village
 chak dahiramau::village
 chak dana::village
 chak daulatpur::village
+chakda::village
 chak des raj::village
 chak dhothar::village
+chakdida::village
+chakdina::village
+chak-e nar::village
+chaker bazar::village
+chakeri::village
+chaker zehi::village
 chak gadaipur::village
 chak gajiwal::village
 chak gajraj::village
+chakganj::village
 chak gharpur::village
 chak gopipur::village
 chak guru::village
 chak hakim::village
+chakhani::village
+chakhar chamani::village
 chak hathiana::village
+chakher ahmad::village
 chak hinauta::village
+chakhmaq bolagh-e olya::village
+chakhmaq bolagh-e sofla::village
+chakhmaq chukhur::village
+chakhmaqlui-ye sofla::village
+chakhmaqlu::village
+chakhmaq tappeh::village
+chakhmaq::village
+chakh::village
+chakik::village
+chakirevulapalem::village
 chak isharwal::village
 chak kalal::village
 chak kalan::village
+chakkarapalli::village
+chakkere::village
 chak khanna::village
 chak khaspur::village
+chakkheda::village
+chakkian::village
+chakkol::village
+chakkotla::village
+chakli shujat::village
 chak lodipur::village
 chak mai dass::village
+chakmak-suu::village
 chak mamha::village
+chakmandala::village
 chak mander::village
+chakman::village
 chak mehman::village
+chakmeh zar::village
+chakmoh::village
 chak muglani::village
 chak neknampur::village
 chak nizam::village
-chak no 521/e.b::village
 chak no. 1::village
+chak no 521/e.b::village
+chakoki::village
+chakorabad::village
+chakora::village
 chak pira shah::village
 chak pirpur::village
 chak prema::village
@@ -1069,174 +1222,60 @@ chak purana::village
 chak rame::village
 chak ramun::village
 chak rar::village
+chakrayagudem::village
+chakrayapalem::village
+chakrian::village
+chakri rajgan::village
+chakri vakilan::village
 chak rud::village
-chak sar::village
+chakrud::village
 chak sara::village
+chak sar::village
+chaksar::village
 chak shafi::village
+chakshah alladin::village
 chak sidhwan::village
+chaksikandar::village
+chaksingar::village
 chak srikrishnapur::village
 chak suhele wala::village
 chak sunda::village
 chak tara::village
 chak tibbi tayab::village
-chak vendal::village
-chak vendhal::village
-chak wassan::village
-chak yusafpur allewal::village
-chak-e nar::village
-chak92-6/r::village
-chak::village
-chakab::village
-chakadeh::village
-chakal::village
-chakalabbi::village
-chakalarovo::village
-chakale::village
-chakalite::village
-chakaltsi::village
-chakan hoseynabad::village
-chakan::village
-chakanak::village
-chakaneh-ye olya::village
-chakanwali::village
-chakar::village
-chakarayapet::village
-chakarteh::village
-chakasheh::village
-chakaten::village
-chakda::village
-chakdida::village
-chakdina::village
-chaker bazar::village
-chaker zehi::village
-chakeri::village
-chakganj::village
-chakh::village
-chakhani::village
-chakhar chamani::village
-chakher ahmad::village
-chakhmaq bolagh-e olya::village
-chakhmaq bolagh-e sofla::village
-chakhmaq chukhur::village
-chakhmaq tappeh::village
-chakhmaq::village
-chakhmaqlu::village
-chakhmaqlui-ye sofla::village
-chakik::village
-chakirevulapalem::village
-chakkarapalli::village
-chakkere::village
-chakkheda::village
-chakkian::village
-chakkol::village
-chakkotla::village
-chakli shujat::village
-chakmak-suu::village
-chakman::village
-chakmandala::village
-chakmeh zar::village
-chakmoh::village
-chakoki::village
-chakora::village
-chakorabad::village
-chakrayagudem::village
-chakrayapalem::village
-chakri rajgan::village
-chakri vakilan::village
-chakrian::village
-chakrud::village
-chaksar::village
-chakshah alladin::village
-chaksikandar::village
-chaksingar::village
-chaku sar::village
-chaku::village
 chakudar::village
 chakunta::village
+chaku sar::village
 chakuvar::village
+chaku::village
+chak vendal::village
+chak vendhal::village
+chak::village
+chak wassan::village
 chakwath::village
-chal ab morad ali::village
-chal abza::village
-chal anjaki::village
-chal ashkuh::village
-chal asteran::village
-chal badam-e kata::village
-chal bagh::village
-chal baghcheh-ye zilayi::village
-chal baniu dasht rum::village
-chal bardar::village
-chal bardin::village
-chal bash::village
-chal betan::village
-chal boqa::village
-chal chendar::village
-chal chuq::village
-chal dasht::village
-chal duguneh::village
-chal gerd-e keshtvarzeh::village
-chal gerd::village
-chal geru::village
-chal gharu::village
-chal gonbad::village
-chal gondam::village
-chal gurab::village
-chal homa::village
-chal kareh::village
-chal khazineh::village
-chal khorsi-ye silab::village
-chal khoshk::village
-chal kola::village
-chal konar::village
-chal kub pereshkaft::village
-chal meydan::village
-chal mian::village
-chal qaleh::village
-chal qasem::village
-chal raz::village
-chal revegeh::village
-chal sarun::village
-chal seyl::village
-chal seyyed ali::village
-chal shah::village
-chal shahin-e khoda bakhsh::village
-chal shahrgariveh::village
-chal shirin::village
-chal siah manchatun jowkar::village
-chal siah::village
-chal suz::village
-chal tak-e pain::village
-chal tella::village
-chal zamin::village
-chal-e anjireh::village
-chal-e balutak::village
-chal-e direh bozorg::village
-chal-e kuchek latif allah::village
-chal-e mohammad hoseyn-e sofla::village
-chal-e monar::village
-chal-e sangha::village
-chal-e siyah gelal::village
-chal::village
-chala sar::village
+chak yusafpur allewal::village
+chalabeh::village
+chalabeh-ye olya::village
+chalabeh-ye sofla::village
 chalab-e olya::village
 chalab-e pain::village
 chalab-e qatakeh bares::village
 chalab-e sofla::village
-chalab::village
-chalabeh-ye olya::village
-chalabeh-ye sofla::village
-chalabeh::village
 chalabi::village
+chal ab morad ali::village
+chalab::village
+chal abza::village
+chałacie::village
 chalacot::village
 chalagera::village
 chalajur::village
-chalak sar::village
-chalak sara::village
-chalak saraki::village
-chalak::village
 chalaki::village
 chalakkadavu::village
 chalakpur::village
 chalakrud::village
+chalak saraki::village
+chalak sara::village
+chalak sar::village
+chalak::village
 chalamatti::village
 chalambar::village
 chalampalli::village
@@ -1245,24 +1284,44 @@ chalanchi-ye olya::village
 chalandar::village
 chalaneh-ye olya::village
 chalani::village
+chal anjaki::village
 chalappalem::village
 chalappally::village
 chalaras::village
+chala sar::village
+chal ashkuh::village
+chal asteran::village
 chalat::village
+chal badam-e kata::village
+chal baghcheh-ye zilayi::village
+chal bagh::village
+chal baniu dasht rum::village
+chal bardar::village
+chal bardin::village
+chal bash::village
+chal betan::village
 chalbi::village
+chal boqa::village
 chalbury::village
+chal chendar::village
 chalcheraneh::village
+chal chuq::village
 chalcogen:氧族元素
 chaldal::village
+chal dasht::village
 chalderaz-e beytollah::village
 chalderaz-e esfandiyar::village
 chalderaz-e gholamali::village
 chalderaz-e hadi::village
 chalderaz-e yadollah::village
+chal duguneh::village
 chaldybar::village
-chale::village
+chal-e anjireh::village
+chal-e balutak::village
+chal-e direh bozorg::village
 chaleh bijar::village
 chaleh chaleh::village
+chalehelyas::village
 chaleh kand::village
 chaleh khani::village
 chaleh murt::village
@@ -1274,43 +1333,63 @@ chaleh sara::village
 chaleh siah::village
 chaleh tak::village
 chaleh tarkhan::village
-chaleh zamin::village
-chaleh zard::village
+chaleh::village
 chaleh-ye faramarzan::village
 chaleh-ye kamalvand::village
-chaleh::village
-chalehelyas::village
+chaleh zamin::village
+chaleh zard::village
 chalejeh::village
-chalek deh::village
 chalekah::village
 chalekash-e lat::village
+chalek deh::village
+chal-e kuchek latif allah::village
 chalelu badianlu::village
 chalelu chelbianlu::village
 chalelu::village
+chal-e mohammad hoseyn-e sofla::village
+chal-e monar::village
 chalengdar::village
+chal-e sangha::village
 chaleshom::village
+chal-e siyah gelal::village
+chale::village
 chalfakhreh::village
-chalga sar::village
 chalgah::village
 chalgan::village
 chalgarud::village
+chalga sar::village
 chalgaz::village
+chal gerd-e keshtvarzeh::village
+chal gerd::village
+chal geru::village
 chalghan::village
+chal gharu::village
+chal gonbad::village
+chal gondam::village
+chal gurab::village
+chal homa::village
 chali bolagh::village
-chali nareh::village
-chali sur::village
-chali::village
-chaliki::village
 chalikiadeh::village
+chaliki::village
+chali nareh::village
 chalin-kolonia::village
 chalin::village
+chali sur::village
 chalivendrapalem::village
-chalk-Öydö::village
+chali::village
 chalkal-e sofla::village
+chal kareh::village
 chalkesh::village
+chal khazineh::village
+chal khorsi-ye silab::village
+chal khoshk::village
 chalkiades::village
-chalku::village
+chal kola::village
+chal konar::village
+chalk-Öydö::village
+chal kub pereshkaft::village
 chalkusha::village
+chalku::village
 challachintalapudi::village
 challagariga::village
 challapalle::village
@@ -1325,6 +1404,8 @@ chalman rud::village
 chalmardi::village
 chalmeh kandi::village
 chalmeh::village
+chal meydan::village
+chal mian::village
 chalmian::village
 chalmureh::village
 chalno-parcele::village
@@ -1334,138 +1415,128 @@ chalow gohreh::village
 chalow-ye gavmishi::village
 chalpi::village
 chalpu::village
+chal qaleh::village
+chal qasem::village
 chalrang::village
+chal raz::village
+chal revegeh::village
 chalsara::village
+chal sarun::village
+chal seyl::village
+chal seyyed ali::village
+chal shahin-e khoda bakhsh::village
+chal shahrgariveh::village
+chal shah::village
+chal shirin::village
 chalshir::village
-chalu pol::village
-chalu::village
+chal siah manchatun jowkar::village
+chal siah::village
+chal suz::village
+chal tak-e pain::village
+chal tella::village
 chaluki::village
 chalunak::village
+chałupki::village
+chalu pol::village
+chałupska::village
 chaluvanahalli::village
+chalu::village
 chalvai::village
 chalvenahatti::village
+chal::village
 chalyan::village
+chal zamin::village
+chamabad::village
 cham ab::village
+chamagedda::village
+chamakeri::village
+chamaki::village
+chamakunnu::village
+chamak::village
+chamallamudi::village
+chamanabad::village
+chamanak::village
 cham anar-e sofla::village
+chaman bid::village
+chaman buleh::village
+chamandan::village
+chaman-e amirabad::village
+chaman-e bahram::village
+chaman-e-bid::village
+chaman-e golin::village
+chaman-e morvarid::village
+chaman-e seyyed mohammad::village
+chaman esmail::village
+chaman goli::village
+chamani::village
+chamani-ye bala::village
+chamani-ye pain::village
+chamani-ye vasat::village
+chaman jafar beyg::village
 cham anjir::village
-cham arab::village
+chamankot::village
+chaman laleh::village
+chamanlu::village
+chamanpura::village
+chamanrang::village
+chaman saver::village
+chaman soltan::village
+chaman::village
+chaman zamin::village
+chaman zar-e olya::village
+chaman zar-e sofla::village
+chamapur::village
+chamaqlu::village
 cham arabi-ye pataveh::village
+cham arab::village
+chamarel::village
+chamarru::village
+chamartaliya::village
 cham asiyab::village
+chamatapathar::village
+chamata::village
+chamavaram::village
+chama::village
+chamazak::village
+chamaz deh::village
+chamazin::village
+chamaz kola::village
+chamaz koti::village
+chamaz tappeh::village
 cham bagh-e sofla::village
 cham bagh::village
+chamban::village
+chambareh::village
+chambatan-e olya::village
+chambatan-e sofla::village
+chamba::village
+chambeh::village
+chambers::village
 cham bolbol::village
 cham borreh::village
 cham bur-e farkhinvand::village
+chamchal::village
 cham cham::village
 cham chareh du::village
 cham chareh seh::village
 cham charud::village
+chamcheshmeh::village
 cham chit::village
-cham choqa::village
 cham choqal-e sofla::village
-cham chul::village
+cham choqa::village
 cham chulian::village
+cham chul::village
 cham dalan::village
+chamdampet::village
 cham darreh::village
 cham darvahi::village
 cham davud::village
 cham deylavand-e olya::village
 cham deylavand-e sofla::village
 cham dogham::village
-cham emamzadeh::village
-cham espid::village
-cham faraj::village
-cham gard::village
-cham gaz::village
-cham gerdab::village
-cham gerdeleh-ye olya::village
-cham gerdeleh-ye sofla::village
-cham geredeleh-ye vosta::village
-cham gol::village
-cham hajjian::village
-cham hashem-e dehqan::village
-cham hendi::village
-cham hesar::village
-cham jangal::village
-cham kabud-e olya::village
-cham kabud-e vosta::village
-cham kabud::village
-cham kaka::village
-cham kalgeh::village
-cham kangari::village
-cham karim::village
-cham karteh::village
-cham khalifeh::village
-cham kharnub::village
-cham khazam-e do::village
-cham khazam-e yek::village
-cham khun::village
-cham khusheh safar ali::village
-cham khusheh::village
-cham konar::village
-cham kushk-e tulabi::village
-cham lameh-ye osman::village
-cham lapeh::village
-cham lavand::village
-cham lishan::village
-cham mardas::village
-cham mehr-e bala::village
-cham mehr-e pain::village
-cham mokhtar::village
-cham morad::village
-cham murd::village
-cham namesht::village
-cham nezami::village
-cham nuzdeh::village
-cham ol obeyd::village
-cham palak::village
-cham pol baraftab::village
-cham puneh::village
-cham push::village
-cham qabrestan::village
-cham qaleh::village
-cham qamar::village
-cham qasemali-ye yek::village
-cham qoroq::village
-cham quleh::village
-cham rahman::village
-cham rastamian::village
-cham reyhan::village
-cham rud::village
-cham ruteh::village
-cham sangar::village
-cham seyl::village
-cham seyyed mohammad::village
-cham seyyedi-ye olya::village
-cham seyyedi-ye sofla::village
-cham seyyedi-ye vosta::village
-cham shahi::village
-cham shalan::village
-cham sharu::village
-cham shateh-ye sofla::village
-cham shekar::village
-cham shel::village
-cham sorkh::village
-cham surak-e sofla::village
-cham surak-e vosta::village
-cham takleh-ye olya::village
-cham takleh-ye sofla::village
-cham tang::village
-cham tangu::village
-cham zard-e mahizan::village
-cham zel-e shahali::village
-cham zereshk-e choqavian gol morad::village
-cham zereshk-e esperi::village
-cham zereshk-e olya::village
-cham zereshk-e sofla::village
-cham zereshk::village
-cham zeytun-e eslamabad::village
-cham zeytun::village
-cham zhab::village
-cham zhiyeh::village
 cham-e ali mordani::village
-cham-e ali::village
 cham-e alishah::village
+cham-e ali::village
 cham-e anayeh::village
 cham-e aqamordeh::village
 cham-e aseman::village
@@ -1481,10 +1552,16 @@ cham-e eshag::village
 cham-e gaz::village
 cham-e gorgali::village
 cham-e hashem::village
+chameh ben::village
 cham-e heydar::village
+chameh::village
 cham-e kahriz::village
 cham-e khorram::village
+chamek::village
+chameleon:变色龙
+chameleon:变色蜥蜴
 cham-e mahavi::village
+cham emamzadeh::village
 cham-e menaf::village
 cham-e mir beyg::village
 cham-e murt::village
@@ -1502,122 +1579,145 @@ cham-e shir::village
 cham-e siah::village
 cham-e sobbi::village
 cham-e sohrab khani::village
+cham espid::village
 cham-e taq::village
 cham-e vazir::village
 cham-e yusefali::village
 cham-e zin::village
 cham-e zir::village
-cham::village
-chama::village
-chamabad::village
-chamagedda::village
-chamak::village
-chamakeri::village
-chamaki::village
-chamakunnu::village
-chamallamudi::village
-chaman bid::village
-chaman buleh::village
-chaman esmail::village
-chaman goli::village
-chaman jafar beyg::village
-chaman laleh::village
-chaman saver::village
-chaman soltan::village
-chaman zamin::village
-chaman zar-e olya::village
-chaman zar-e sofla::village
-chaman-e amirabad::village
-chaman-e bahram::village
-chaman-e golin::village
-chaman-e morvarid::village
-chaman-e seyyed mohammad::village
-chaman-e-bid::village
-chaman::village
-chamanabad::village
-chamanak::village
-chamandan::village
-chamani-ye bala::village
-chamani-ye pain::village
-chamani-ye vasat::village
-chamani::village
-chamankot::village
-chamanlu::village
-chamanpura::village
-chamanrang::village
-chamapur::village
-chamaqlu::village
-chamarel::village
-chamarru::village
-chamartaliya::village
-chamata::village
-chamatapathar::village
-chamavaram::village
-chamaz deh::village
-chamaz kola::village
-chamaz koti::village
-chamaz tappeh::village
-chamazak::village
-chamazin::village
-chamba::village
-chamban::village
-chambareh::village
-chambatan-e olya::village
-chambatan-e sofla::village
-chambeh::village
-chambers::village
-chamchal::village
-chamcheshmeh::village
-chamdampet::village
-chameh ben::village
-chameh::village
-chamek::village
-chameleon:变色蜥蜴
-chameleon:变色龙
+cham faraj::village
+cham gard::village
+cham gaz::village
+cham gerdab::village
+cham gerdeleh-ye olya::village
+cham gerdeleh-ye sofla::village
+cham geredeleh-ye vosta::village
+cham gol::village
+cham hajjian::village
+cham hashem-e dehqan::village
+cham hendi::village
+cham hesar::village
 chamian::village
 chamim::village
 chaminé::village
 chamizo::village
+cham jangal::village
+cham kabud-e olya::village
+cham kabud-e vosta::village
+cham kabud::village
+cham kaka::village
+cham kalgeh::village
+cham kangari::village
+cham karim::village
+cham karteh::village
+cham khalifeh::village
+cham kharnub::village
+cham khazam-e do::village
+cham khazam-e yek::village
+cham khun::village
+cham khusheh safar ali::village
+cham khusheh::village
+cham konar::village
 chamkur::village
+cham kushk-e tulabi::village
+cham lameh-ye osman::village
+cham lapeh::village
 chamlar::village
+cham lavand::village
 chamleh::village
+cham lishan::village
 chamlu gabin::village
-chamm ol hamid::village
+cham mardas::village
 chammaz kola::village
+cham mehr-e bala::village
+cham mehr-e pain::village
 chammeh::village
+cham mokhtar::village
+chamm ol hamid::village
+cham morad::village
+cham murd::village
 chamnaka::village
+cham namesht::village
 chamnar::village
+cham nezami::village
+cham nuzdeh::village
+cham ol obeyd::village
 chamoo::village
-champ::village
-champa village::village
 champah::village
 champakulam::village
-champapur::village
+cham palak::village
 champapuri::village
+champapur::village
 champaran::village
 champatpur::village
+champa village::village
 champfèr::village
 champin::village
-champion::village
 champion:冠军
 champions:冠军
 championship:冠军身份
+champion::village
 champmartin::village
-champo::village
+cham pol baraftab::village
 champoluc::village
-chamran::village
+champo::village
+cham puneh::village
+cham push::village
+champ::village
+cham qabrestan::village
+cham qaleh::village
+cham qamar::village
+cham qasemali-ye yek::village
+cham qoroq::village
+cham quleh::village
+cham rahman::village
 chamrandeh::village
+chamran::village
+cham rastamian::village
 chamrauli::village
 chamrawal::village
+cham reyhan::village
 chamrour::village
-chamta::village
+cham rud::village
+cham ruteh::village
+cham sangar::village
+cham seyl::village
+cham seyyedi-ye olya::village
+cham seyyedi-ye sofla::village
+cham seyyedi-ye vosta::village
+cham seyyed mohammad::village
+cham shahi::village
+cham shalan::village
+cham sharu::village
+cham shateh-ye sofla::village
+cham shekar::village
+cham shel::village
+cham sorkh::village
+cham surak-e sofla::village
+cham surak-e vosta::village
+cham takleh-ye olya::village
+cham takleh-ye sofla::village
+cham tangu::village
+cham tang::village
 chamtar khan-e olya::village
 chamtar khan-e sofla::village
+chamta::village
 chamtu kesh::village
 chamtu::village
 chamum-e bughar::village
 chamush duzan::village
-chan taki::village
+cham::village
+cham zard-e mahizan::village
+cham zel-e shahali::village
+cham zereshk-e choqavian gol morad::village
+cham zereshk-e esperi::village
+cham zereshk-e olya::village
+cham zereshk-e sofla::village
+cham zereshk::village
+cham zeytun-e eslamabad::village
+cham zeytun::village
+cham zhab::village
+cham zhiyeh::village
 chanaganuru::village
 chanajeh::village
 chanakhchi::village
@@ -1625,55 +1725,53 @@ chanali, zahedan::village
 chananpur::village
 chananwindi::village
 chanaq-e sofla va olya::village
-chanaq::village
 chanaqlu::village
+chanaq::village
 chanasak::village
 chanbalu qeshlaq::village
-chanbar gharbal::village
 chanbaran::village
+chanbar gharbal::village
 chance:机会
 chancellor:大臣
-chancellor:总理
 chancellor:大学校长
-chanch::village
+chancellor:总理
 chanchati::village
 chanched::village
 chanchra::village
-chand saray::village
-chand trisira::village
-chanda saloi::village
-chanda singh wala::village
-chanda tikar::village
-chanda::village
+chanch::village
 chandab::village
 chandai raghunathpur::village
 chandaluru::village
-chandan khedi::village
-chandan::village
 chandanahosahalli::village
 chandanakampara::village
 chandanapally::village
 chandangaon::village
 chandanhosur::village
+chandan khedi::village
 chandanmatti::village
-chandap::village
+chandan::village
 chandapur::village
-chandar mahalleh::village
-chandar::village
+chandap::village
 chandarkey rajputan::village
 chandarlapadu::village
-chandau::village
+chandar mahalleh::village
+chandar::village
+chanda saloi::village
+chanda singh wala::village
+chanda tikar::village
 chandauli::village
+chandau::village
 chandavaram::village
+chanda::village
 chandawas::village
 chandayan::village
 chandbad kadim::village
-chande::village
 chandemau::village
 chandeni::village
 chandepally::village
-chander sain::village
 chanderi::village
+chander sain::village
+chande::village
 chandgam::village
 chandgiri::village
 chandhara::village
@@ -1697,53 +1795,52 @@ chandoli budruk::village
 chandolin::village
 chandor::village
 chandpasa kismat::village
+chandpura::village
 chandpur bhangaha::village
 chandpur rurki::village
 chandpur::village
-chandpura::village
 chandragudem::village
 chandrahar::village
 chandrai::village
 chandrala::village
 chandranagar::village
-chandrapur::village
 chandrapura::village
-chandras::village
+chandrapur::village
 chandrasekharapuram::village
+chandras::village
 chandrawal::village
 chandria::village
 chandrupatla::village
-chandu manj::village
-chandu nangal::village
-chandu suja::village
-chandu::village
+chand saray::village
+chand trisira::village
 chandukan::village
 chandukhedi::village
+chandu manj::village
+chandu nangal::village
 chandupatla::village
 chandur biswa::village
 chandur, karnataka::village
 chandur-tek::village
+chandu suja::village
+chandu::village
 chandwad::village
 chandwal::village
 chanel::village
-chang almas::village
-chang darreh::village
-chang kalagh::village
-chang mian::village
-chang::village
-changa::village
 changabad-e jadid::village
 changach::village
 changal dasht::village
-changal::village
 changaliwala::village
+chang almas::village
 changalva::village
+changal::village
 changan::village
 changareh::village
 changarian::village
 changarin::village
 changate::village
+changa::village
 changaz::village
+chang darreh::village
 change:改变
 changera::village
 changey::village
@@ -1751,16 +1848,19 @@ changezin::village
 changgyr-tash::village
 changi::village
 changiyeh-ye qajar::village
-changiz qaleh::village
 changizah::village
+changiz qaleh::village
+chang kalagh::village
+chang mian::village
 changoi::village
 changqi village::village
 changrod::village
 changua::village
 changul::village
-changur::village
 changureh::village
 changuri::village
+changur::village
+chang::village
 changzawl::village
 chanho::village
 chanibeh-ye do::village
@@ -1779,20 +1879,17 @@ channi taja rehan::village
 channohalli::village
 chanot::village
 chansol::village
+chan taki::village
 chanubanda::village
 chanzab::village
 chanzanaq::village
 chanzaq::village
 chao chak::village
 chaora::village
-chaos theory:混沌理论
-chaos:混乱
 chaos:混沌
+chaos:混乱
+chaos theory:混沌理论
 chaouach::village
-chap chap::village
-chap darreh::village
-chap va rast::village
-chap wai kon::village
 chapachupa::village
 chapadiya::village
 chapadu::village
@@ -1802,24 +1899,26 @@ chapak-e nazemi mahalleh::village
 chapak-e shafi mahalleh::village
 chapan-e olya::village
 chapan-e sofla::village
-chapan::village
 chapania::village
 chapanlu::village
+chapan::village
 chapaqan::village
 chapaqli::village
+chaparabad::village
+chaparai::village
+chapara::village
 chapar khaneh::village
 chapar pord-e zaman::village
 chapar pord::village
 chapar quymeh::village
 chapar::village
-chapara::village
-chaparabad::village
-chaparai::village
 chapayevo::village
+chap chap::village
+chap darreh::village
 chapdar::village
 chapeau::village
-chapeh zad::village
 chapeh::village
+chapeh zad::village
 chapel amble::village
 chapel stile::village
 chapicuy::village
@@ -1836,48 +1935,79 @@ chapouko::village
 chapqolu::village
 chapter:章
 chaptewadi kanas::village
-chapu::village
 chapuq::village
-chaq qarah::village
-chaq-e firuzjai::village
+chapu::village
+chap va rast::village
+chap wai kon::village
 chaqa bahar::village
 chaqa bahram::village
-chaqa deh::village
-chaqa gonuzh::village
-chaqa hoseyn::village
-chaqa narges::village
-chaqa sabz::village
-chaqa siah::village
-chaqa zard baghi::village
-chaqa::village
 chaqabal::village
 chaqabol::village
 chaqadar::village
+chaqa deh::village
+chaqa gonuzh::village
+chaqa hoseyn::village
 chaqal-e mostafa::village
 chaqalvand rud-e olya::village
 chaqalvand rud-e sofla::village
+chaqa narges::village
 chaqan::village
 chaqar besh qardash::village
 chaqar shir melli::village
 chaqar::village
+chaqa sabz::village
+chaqa siah::village
 chaqataram::village
+chaqa::village
+chaqa zard baghi::village
+chaq-e firuzjai::village
 chaqeh-ye baluchha::village
 chaqmaq darreh::village
+chaq qarah::village
 chaqqar::village
 chaqu-ye akhvani::village
 chaqu-ye bala::village
 char abdani::village
+charab::village
+character:角色
+character:字符
+characteristic:特有的
+characteristics:特性
+characters:字符
+character set:字符集
+charadai::village
+charaghabad pir dusti::village
 char aicha::village
+charakas::village
+charaki::village
+charak::village
 char algi::village
+charamaddi::village
+charam-e now::village
+charandu::village
 char annadaprasad::village
+charanpur::village
+charan::village
+charapa::village
+charat singhwala::village
+charat::village
+charazeh::village
 char bahadurpur::village
+charbak::village
 char balarampur::village
 char bara lamchhi dhali::village
-char bausia::village
+charbaria lamchari::village
 char bausiar ghordaur::village
+char bausia::village
 char bhuai::village
 char bhuta::village
+charbila::village
+charbinowice::village
+charbin::village
+charchakis::village
 char chandra prasad::village
+charchareh::village
+charchelu::village
 char chithalia::village
 char dahali::village
 char decree::village
@@ -1885,141 +2015,110 @@ char dhaleswar::village
 char doani lathimara::village
 char dumurtala::village
 char durgapur::village
+chareh sar::village
+chareh::village
+charez::village
 char gachhua::village
 char gadhatali::village
+chargar::village
+charge:电荷
+charge:控告
+charge:收费
+chargeli::village
+charger:充电器
 char haria::village
 char hesamaddi::village
 char hijla::village
 char hogalpatai::village
 char hogla::village
+charia::village
+chari budruk::village
+charidaf::village
+charida::village
+charigaon::village
+chariklou::village
 char ilsa::village
+charis::village
+chari tarf jamshet::village
+chari tarf kotebi::village
+chari::village
 char jahapur::village
 char kalekhan::village
 char kapalbera::village
+charkas::village
+charkeia::village
 char keutia::village
 char khab::village
+charkhab::village
 char khagkata::village
 char khajuria::village
+charkhali::village
 char khanam::village
+charkheh bayan::village
+charkhestaneh::village
+charkhestan::village
+charkh kati::village
+charkiyeh::village
 char kolania::village
+charkovo::village
 char kusaria::village
+chark::village
 char lakshmipura::village
 char lata::village
+charles:查尔斯
+charles hill::village
+charleston::village
+charlestown::village
+charli::village
+charlton mackrell::village
+charltons::village
+charlton::village
+charlu::village
 char madhab rai::village
+charmahin::village
 char mahisha::village
+charmak::village
 char malanga::village
+charmaleh-ye olya::village
+charmaleh-ye sofla::village
 char manpura::village
+charmeh dash::village
+charmeh::village
+charmel::village
 char memania::village
+charmian::village
+charmileh::village
+charmil::village
+charmimazar::village
+charmineh::village
+charmi::village
+charmkhowran-e bala::village
+charmkhowran-e sofla::village
+charmshahr::village
+charmuk::village
 char nehalganj::village
+charokhchi mahalleh::village
+charoon::village
+charoq::village
+charoti::village
 char padma::village
+charpahadi bazyaft::village
+charpahari::village
 char pakshya::village
 char pattania::village
+charqli::village
+charrah::village
 char rangasri::village
+charruba::village
 char sahebpur::village
 char sangar::village
 char santoshpur::village
 char satikhola::village
 char satmatia::village
+charsh darreh::village
 char silinda::village
 char sonapur::village
 char sonarpur::village
-char udaypur::village
-char ulanghuni::village
-charab::village
-character set:字符集
-character:字符
-character:角色
-characteristic:特有的
-characteristics:特性
-characters:字符
-charadai::village
-charaghabad pir dusti::village
-charak::village
-charakas::village
-charaki::village
-charam-e now::village
-charamaddi::village
-charan::village
-charandu::village
-charanpur::village
-charapa::village
-charat singhwala::village
-charat::village
-charazeh::village
-charbak::village
-charbaria lamchari::village
-charbila::village
-charbin::village
-charbinowice::village
-charchakis::village
-charchareh::village
-charchelu::village
-chareh sar::village
-chareh::village
-charez::village
-chargar::village
-charge:控告
-charge:收费
-charge:电荷
-chargeli::village
-charger:充电器
-chari budruk::village
-chari tarf jamshet::village
-chari tarf kotebi::village
-chari::village
-charia::village
-charida::village
-charidaf::village
-charigaon::village
-chariklou::village
-charis::village
-chark::village
-charkas::village
-charkeia::village
-charkh kati::village
-charkhab::village
-charkhali::village
-charkheh bayan::village
-charkhestan::village
-charkhestaneh::village
-charkiyeh::village
-charkovo::village
-charles hill::village
-charles:查尔斯
-charleston::village
-charlestown::village
-charli::village
-charlton mackrell::village
-charlton::village
-charltons::village
-charlu::village
-charmahin::village
-charmak::village
-charmaleh-ye olya::village
-charmaleh-ye sofla::village
-charmeh dash::village
-charmeh::village
-charmel::village
-charmi::village
-charmian::village
-charmil::village
-charmileh::village
-charmimazar::village
-charmineh::village
-charmkhowran-e bala::village
-charmkhowran-e sofla::village
-charmshahr::village
-charmuk::village
-charokhchi mahalleh::village
-charoon::village
-charoq::village
-charoti::village
-charpahadi bazyaft::village
-charpahari::village
-charqli::village
-charrah::village
-charruba::village
-charsh darreh::village
 charszewo::village
 chart:图表
 charter alley::village
@@ -2027,7 +2126,9 @@ charti::village
 chartley::village
 chartridge::village
 charts:图表
+char udaypur::village
 charu gereh::village
+char ulanghuni::village
 charup::village
 charuq dash::village
 charuq duz mahalleh::village
@@ -2036,26 +2137,20 @@ charvayolqi::village
 charvein::village
 charzeh khun::village
 charzowice::village
-chas::village
 chasbaz-e kusha::village
 chase:追逐
 chaseburg::village
 chasetown::village
 chashin::village
-chashm::village
-chashma::village
 chashmasor::village
+chashma::village
+chashm::village
 chashni dan::village
-chasht khvor::village
 chasht khvoreh::village
+chasht khvor::village
 chastenuel::village
 chastity:贞操
-chat barik-e jahanabad::village
-chat kuh-e bahram beygi::village
-chat qayah::village
-chat qeshlaq-e bala::village
-chat-köl::village
-chat::village
+chas::village
 chat:聊天
 chata araji::village
 chatahedi::village
@@ -2067,29 +2162,34 @@ chatar::village
 chataua::village
 chataurgarh::village
 chataz::village
+chat barik-e jahanabad::village
 chathakudam::village
-chatham::village
 chathamangalam::village
 chathamattom::village
+chatham::village
 chathedom::village
+châtillon::village
+chat-köl::village
+chat kuh-e bahram beygi::village
 chato::village
-chatra::village
+chat qayah::village
+chat qeshlaq-e bala::village
 chatrai::village
 chatramthokkalikadu::village
 chatrapatti::village
+chatra::village
 chattanchal::village
 chattergam::village
 chatton::village
 chatuk::village
 chaturale::village
 chaturpur::village
+chat::village
 chatzis::village
-chau sar mahalleh::village
-chau tau::village
 chaubari::village
 chaube::village
-chaudhriwal::village
 chaudhriwala::village
+chaudhriwal::village
 chauhan::village
 chaukati::village
 chaukhandi::village
@@ -2106,25 +2206,27 @@ chaunrah::village
 chaupai::village
 chaupura::village
 chaurbar::village
+chau sar mahalleh::village
 chautala::village
+chau tau::village
 chauvay::village
 chauvin::village
 chavak::village
 chavan bagh::village
+chavand::village
 chavan-e alamdar::village
 chavan-e olya::village
 chavan-e sofla::village
-chavan::village
-chavand::village
 chavangphai::village
 chavani ab bahar::village
-chavar kalayeh::village
-chavar::village
+chavan::village
 chavara thekkumbhagom::village
 chavara::village
-chavarchi::village
 chavarchin::village
+chavarchi::village
 chavargudd::village
+chavar kalayeh::village
+chavar::village
 chavarzaq::village
 chavdartsi::village
 chavei::village
@@ -2145,13 +2247,21 @@ chawang::village
 chawinda::village
 chawli::village
 chawngtlai::village
+chayan::village
 chay avafi::village
 chay baghi::village
 chay bijar::village
-chay kandi-ye kheyr ol din::village
+chayerlu::village
+chayjan::village
 chay kandi::village
+chay kandi-ye kheyr ol din::village
 chay kasan::village
+chayka::village
 chay khaleh::village
+chaykhansar::village
+chaylaggala::village
+chayli::village
+chayly::village
 chay qeshlaqi::village
 chay qushan-e bozorg::village
 chay qushan-e kuchek::village
@@ -2159,30 +2269,20 @@ chay qushan::village
 chay seqerlu::village
 chay sudan::village
 chay varsham::village
-chayan::village
-chayerlu::village
-chayjan::village
-chayka::village
-chaykhansar::village
-chaylaggala::village
-chayli::village
-chayly::village
 chazhashi::village
-chałacie::village
-chałupki::village
-chałupska::village
 cheadle::village
 cheap:廉价的
 cheat:不忠
 cheat:作弊
-cheb::village
 chebanse::village
 chebbi::village
 chebenlu::village
 chebrolu::village
 chebseh-ye bozorg::village
 chebseh-ye kuchek::village
+cheb::village
 chech-döbö::village
+chéché::village
 check:检查
 checked:选中的
 checkmate:将死
@@ -2195,42 +2295,41 @@ cheekkilode::village
 cheema kalan::village
 cheema kalla::village
 cheema khurd::village
-cheema::village
 cheemalakondur::village
 cheemalapeta::village
+cheema::village
 cheemeni-ii::village
 cheena::village
 cheeriyal::village
 cheerleader:啦啦队长
 cheese:奶酪
 cheetarawas::village
-cheft sar::village
 cheft sara kand::village
-chega::village
+cheft sar::village
+chégamat::village
 chegantsi::village
 chegarman-e gholamhoseyn::village
 chegarman::village
+chega::village
+chegeni::village
 chegeni-ye olya::village
 chegeni-ye sofla::village
-chegeni::village
-chegerd::village
 chegerdanlash::village
+chegerd::village
 chegha cheshmeh::village
-chegha meleh::village
 cheghalu::village
+chegha meleh::village
 chegini kosh::village
 chegini::village
-cheh gol shirkhan::village
-cheh sar::village
 chehchel::village
 chehel amiran::village
 chehel asiab::village
-chehel cheshmeh-ye koruni::village
 chehel cheshmeh::village
+chehel cheshmeh-ye koruni::village
 chehel dokhtaran::village
 chehel gacheh::village
-chehel gaz::village
 chehel gazi::village
+chehel gaz::village
 chehel ghani::village
 chehel hesar::village
 chehel hojreh::village
@@ -2243,84 +2342,98 @@ chehel raz::village
 chehel sar::village
 chehel tanan::village
 chehel tokhm::village
+chehel zari::village
 chehel zari-ye ajam::village
 chehel zari-ye arab::village
-chehel zari::village
 chehesh::village
+cheh gol shirkhan::village
 chehgush::village
 chehjam::village
 chehlan wala::village
-chehr::village
 chehraz::village
 chehregan::village
+chehrehabad::village
 chehreh barq::village
 chehreh gosha::village
-chehrehabad::village
 chehreqan::village
+chehr::village
+cheh sar::village
 chehvaz::village
 chejarla::village
-chek cheg::village
-chek chek-e shomali::village
-chek chek::village
-chek nai ping::village
-chek-e golabi::village
-chek::village
 chekab::village
 chekak::village
-chekan::village
 chekanets::village
+chekan::village
+chek cheg::village
 chekcheh posht::village
+chek chek-e shomali::village
+chek chek::village
 chekchek::village
+chek-e golabi::village
 chekhmur::village
 chekhreh mahalleh::village
 cheki ashmuji::village
 chekkeh ab::village
+chek nai ping::village
 chekurapadu::village
-chel gasheh::village
-chel mangasiun-e sofla::village
-chel mohammad-e baqeri pereshkaft::village
-chel riz::village
-chel rubah::village
-chel shah heydar aqa::village
+chek::village
 chelabad::village
 chelak::village
+chelanab::village
 chelan-e olya::village
 chelan-e sofla::village
-chelan::village
-chelanab::village
 chelannur::village
+chelan::village
 chelavand-e pain::village
 chelavand::village
 chelbardi::village
 chelchelak::village
+chelehban::village
 cheleh bar::village
 cheleh gah::village
-chelehban::village
-cheli-ye olya::village
+chel gasheh::village
 chelidoni::village
-chelik::village
 chelikdan::village
+chelik::village
 chelisad::village
 chelitan::village
 cheliyama::village
+cheli-ye olya::village
 chelleh darreh::village
+chelleh khaneh::village
 chelleh khaneh-ye olya::village
 chelleh khaneh-ye sofla::village
-chelleh khaneh::village
 chelleh-ye olya::village
 chelluru::village
+chel mangasiun-e sofla::village
+chełmek wołowski::village
 chelmen sang-e olya::village
 chelmen sang-e sofla::village
+chełmica-cukrownia::village
+chełmica duża::village
+chełmica mała::village
+chełmiec::village
+chel mohammad-e baqeri pereshkaft::village
+chełmoniec::village
+chełmonie::village
+chełmsko Śląskie::village
+chełmszczonka::village
+chełm::village
 chelopechene::village
 chelopek::village
 chelora::village
 chelownah sar::village
 chelqai::village
 chelqi::village
+chel riz::village
 chelrood::village
+chel rubah::village
+chel shah heydar aqa::village
 chelsorsor::village
-chelu::village
+chełstówek::village
+chełstów::village
 chelun::village
+chelu::village
 chelvan sara::village
 chelvan::village
 chelvir::village
@@ -2329,6 +2442,7 @@ chelyustnitsa::village
 chembakolli::village
 chembarasanapalli::village
 chemerkouh::village
+chemical:化学的
 chemical affinity:化学亲合性
 chemical attack:化学袭击
 chemical bond:化学键
@@ -2345,54 +2459,50 @@ chemical structure:化学结构
 chemical symbol:化学符号
 chemical warfare:化学战
 chemical weapon:化学武器
-chemical:化学的
 chemish::village
 chemist:化学家
 chemistry:化学
 chemmalamattam::village
 chemmannar::village
 chemmanvilai::village
+chémora::village
 chempazhanthy::village
 chemrey::village
-chemudu::village
 chemudulanka::village
+chemudu::village
 chemuru::village
-chenali-ye bala::village
 chenali::village
+chenali-ye bala::village
 chenalu::village
 chenaq bolagh::village
+chenaqchi::village
 chenaqchi-ye olya::village
 chenaqchi-ye sofla::village
-chenaqchi::village
 chenaqrud::village
+chenarak::village
+chenaran-e do::village
+chenaran-e jadid::village
+chenaran-e yek::village
+chenaran::village
 chenar bagali::village
 chenar barg::village
+chenarbarin::village
 chenar barm-e olya::village
 chenar bashi::village
 chenar bon-e keshteli::village
 chenar bon::village
+chenarbon::village
 chenar bow::village
-chenar faryab::village
-chenar gerit::village
-chenar hamam::village
-chenar heyl::village
-chenar khatun::village
-chenar kheyri::village
-chenar khoshkeh::village
-chenar kol::village
-chenar mishavan::village
-chenar pakaneh::village
-chenar qeshlaq::village
-chenar rudkhan::village
-chenar shureh::village
-chenar sukhteh::village
-chenar turan::village
-chenar zahedan::village
 chenar-e allah qoli::village
 chenar-e arabha::village
 chenar-e bala::village
 chenar-e dom chehr qoralivand::village
 chenar-e golaban::village
+chenareh::village
+chenareh-ye ali madad::village
+chenareh-ye latif::village
+chenareh-ye olya::village
+chenareh-ye sofla::village
 chenar-e kaf::village
 chenar-e kaliab::village
 chenar-e mahmudi::village
@@ -2405,40 +2515,44 @@ chenar-e pain::village
 chenar-e pidenguiyeh::village
 chenar-e razbashi::village
 chenar-e sofla::village
-chenar-e sukhteh::village
-chenar-e vosta::village
-chenar::village
-chenarak::village
-chenaran-e do::village
-chenaran-e jadid::village
-chenaran-e yek::village
-chenaran::village
-chenarbarin::village
-chenarbon::village
-chenareh-ye ali madad::village
-chenareh-ye latif::village
-chenareh-ye olya::village
-chenareh-ye sofla::village
-chenareh::village
 chenarestan-e olya::village
 chenarestan-e sofla::village
 chenarestan-e vosta::village
 chenarestan::village
+chenar-e sukhteh::village
+chenar-e vosta::village
+chenar faryab::village
+chenar gerit::village
+chenar hamam::village
+chenar heyl::village
 chenari::village
+chenar khatun::village
+chenar kheyri::village
+chenar khoshkeh::village
+chenar kol::village
 chenarlaq::village
 chenarli::village
+chenar mishavan::village
+chenar pakaneh::village
+chenar qeshlaq::village
+chenar rudkhan::village
+chenar shureh::village
+chenar sukhteh::village
+chenar turan::village
 chenartu::village
-chenaru::village
 chenaruiyeh::village
+chenaru::village
+chenar::village
+chenar zahedan::village
 chenas::village
 chendeh::village
 chender::village
-chendur::village
 chendurthi::village
+chendur::village
 cheneh sar::village
 chenequa::village
-chenes::village
 chenesht::village
+chenes::village
 chengatia::village
 chenkal::village
 chennamkary::village
@@ -2449,8 +2563,9 @@ chennarayunipalle::village
 chennathur::village
 chennavarappadu::village
 chennekothapalle::village
-chennur::village
 chennuru::village
+chennur::village
+chenopodium preissii::plant
 cheparlyantsi::village
 chepi::village
 chepkorio::village
@@ -2462,18 +2577,6 @@ cheqa kabud::village
 cheqa vaqfi::village
 cheqa::village
 cheqer::village
-cher cher::village
-cher chera::village
-cher::village
-cheragh abdal::village
-cheragh chin::village
-cheragh hesari::village
-cheragh mazraeh::village
-cheragh rigi nezhad::village
-cheragh tappeh-ye olya::village
-cheragh tappeh-ye sofla::village
-cheragh veys::village
-cheragh::village
 cheraghabad cham nus::village
 cheraghabad-e bala::village
 cheraghabad-e jonubi::village
@@ -2482,18 +2585,29 @@ cheraghabad-e olya::village
 cheraghabad-e shokrabad::village
 cheraghabad-e sofla::village
 cheraghabad::village
+cheragh abdal::village
+cheragh chin::village
 cheraghchi::village
 cheraghestan::village
+cheragh hesari::village
 cheraghlu::village
+cheragh mazraeh::village
+cheragh rigi nezhad::village
+cheragh tappeh-ye olya::village
+cheragh tappeh-ye sofla::village
 cheraghu::village
+cheragh veys::village
+cheragh::village
 cherai::village
 cherak-e bala::village
 cherak-e pain::village
-cheram::village
 cheramakan::village
+cheram::village
 cheran::village
 cherat::village
 cherbas::village
+cher chera::village
+cher cher::village
 chercher::village
 cheremkhiv::village
 cherepkivtsi::village
@@ -2504,10 +2618,10 @@ chereshka::village
 chereshnitsa::village
 chereshovitsa::village
 chereshovo::village
-cheri::village
-cherik::village
 cherikabad::village
+cherik::village
 cheriton fitzpaine::village
+cheri::village
 cheriyanad::village
 cherkaski tyshky::village
 cherkaski::village
@@ -2521,25 +2635,25 @@ cherlanqush::village
 cherlapatelguda::village
 cherlu::village
 chermakavan::village
+cherna, dobrich province::village
 cherna mesta (village)::village
 cherna mogila, haskovo province::village
 cherna mogila::village
 cherna niva::village
-cherna, dobrich province::village
 chernelházadamonya::village
 chernevtsi::village
-cherni osam::village
-cherni rid::village
-cherni vrah::village
 cherniche::village
 chernichevo::village
 chernichino::village
 chernigovo::village
+cherni osam::village
+cherni rid::village
 chernitsa::village
-cherno more::village
+cherni vrah::village
 chernodab::village
 chernogorovo::village
 chernograd::village
+cherno more::village
 chernomortsi::village
 chernoochene::village
 chernookovo::village
@@ -2557,23 +2671,25 @@ cherteqlu::village
 cherthala north::village
 cherthala south::village
 chertok::village
-cheru::village
-cherukulam::village
 cherukulamba::village
+cherukulam::village
 cherukumilli::village
 cherumba::village
 cheruputhoor::village
 cherush-e itivand::village
 cheruthana::village
 cheruvadi::village
-cheruval::village
 cheruvally::village
+cheruval::village
 cheruvattoor::village
+cheru::village
 cheruvu kommu palem::village
-cherven breg::village
-cherven::village
 chervena lokva::village
 chervena skala::village
+cherven breg::village
+cherven::village
+cher::village
+chervona ruta::plant
 chervone::village
 chervonopopivka::village
 chervonosilske::village
@@ -2590,32 +2706,32 @@ cheshlyantsi::village
 cheshmandegan-e majid::village
 cheshmandegan-e olya::village
 cheshmandegan-e sofla::village
-cheshmeh ab gol::village
-cheshmeh ab-e neya::village
-cheshmeh ab::village
 cheshmeh abdollah::village
+cheshmeh ab-e neya::village
+cheshmeh ab gol::village
+cheshmeh ab::village
 cheshmeh ali::village
 cheshmeh amiri::village
 cheshmeh anjir-e firuzabad::village
 cheshmeh anjir::village
 cheshmeh avash::village
 cheshmeh ayyub::village
-cheshmeh bad::village
 cheshmeh badir::village
+cheshmeh bad::village
 cheshmeh bah meleh khomsir::village
 cheshmeh baklu::village
 cheshmeh balutak::village
 cheshmeh balvark::village
-cheshmeh bar::village
 cheshmeh barad::village
 cheshmeh barani::village
 cheshmeh bardi::village
-cheshmeh bari::village
 cheshmeh barik::village
+cheshmeh bari::village
+cheshmeh bar::village
 cheshmeh betal::village
 cheshmeh bid cheng baradeh::village
-cheshmeh bid, zahedan::village
 cheshmeh bid::village
+cheshmeh bid, zahedan::village
 cheshmeh boluqu::village
 cheshmeh borjali::village
 cheshmeh chahi::village
@@ -2629,14 +2745,15 @@ cheshmeh cheragh::village
 cheshmeh choli::village
 cheshmeh dara::village
 cheshmeh dargah::village
-cheshmeh darreh-ye amirabad::village
 cheshmeh darreh::village
+cheshmeh darreh-ye amirabad::village
 cheshmeh davi::village
-cheshmeh deraz::village
 cheshmeh derazeh::village
+cheshmeh deraz::village
 cheshmeh dozdak-e olya::village
 cheshmeh dozdak-e sofla::village
 cheshmeh dozdan::village
+cheshmeh-e alimva::village
 cheshmeh gach::village
 cheshmeh gasheh::village
 cheshmeh gaz::village
@@ -2645,10 +2762,10 @@ cheshmeh gholami::village
 cheshmeh gilan::village
 cheshmeh gilas::village
 cheshmeh godar::village
-cheshmeh gol::village
 cheshmeh golek-e olya::village
 cheshmeh golek-e sofla::village
 cheshmeh goli-ye shahniz::village
+cheshmeh gol::village
 cheshmeh gondeh::village
 cheshmeh gorgi::village
 cheshmeh gush latif::village
@@ -2656,6 +2773,7 @@ cheshmeh hadi::village
 cheshmeh hajegah jafari::village
 cheshmeh hajegah shirzadi::village
 cheshmeh haqqi::village
+cheshmehha::village
 cheshmeh inaq::village
 cheshmeh isa::village
 cheshmeh jadar::village
@@ -2675,11 +2793,11 @@ cheshmeh kanan::village
 cheshmeh kareh::village
 cheshmeh kazem::village
 cheshmeh khalil::village
-cheshmeh khan::village
 cheshmeh khani firuzabad::village
+cheshmeh khani::village
 cheshmeh khani-ye olya::village
 cheshmeh khani-ye sofla::village
-cheshmeh khani::village
+cheshmeh khan::village
 cheshmeh khatun::village
 cheshmeh khazaneh::village
 cheshmeh khersi pirvezg::village
@@ -2694,13 +2812,13 @@ cheshmeh madan siyah::village
 cheshmeh mahdi::village
 cheshmeh mahi::village
 cheshmeh makan::village
-cheshmeh malek::village
 cheshmeh maleki::village
+cheshmeh malek::village
 cheshmeh mantash::village
 cheshmeh mazar::village
 cheshmeh meru::village
-cheshmeh mir hasani::village
 cheshmeh miran::village
+cheshmeh mir hasani::village
 cheshmeh mirza::village
 cheshmeh morad::village
 cheshmeh munes::village
@@ -2712,12 +2830,12 @@ cheshmeh ney::village
 cheshmeh nezami::village
 cheshmeh now::village
 cheshmeh nush::village
-cheshmeh pahn ganjegan::village
 cheshmeh pahn-e alishah::village
 cheshmeh pahn-e dasht rum::village
 cheshmeh pahn-e fereydun::village
 cheshmeh pahn-e nanaj::village
 cheshmeh pahn-e rashid::village
+cheshmeh pahn ganjegan::village
 cheshmeh pahn::village
 cheshmeh palang-e pain::village
 cheshmeh palang::village
@@ -2750,14 +2868,14 @@ cheshmeh sabz-e pain::village
 cheshmeh sabz-e sofla::village
 cheshmeh sabz::village
 cheshmeh saleh::village
-cheshmeh sangi::village
 cheshmeh sangin::village
-cheshmeh sar::village
+cheshmeh sangi::village
 cheshmeh saran::village
-cheshmeh sard::village
 cheshmeh sardeh-ye olya::village
 cheshmeh sardu::village
+cheshmeh sard::village
 cheshmeh sarnajeh::village
+cheshmeh sar::village
 cheshmeh sefid-e aqabeygi::village
 cheshmeh sefid-e olya::village
 cheshmeh sefid-e rutavand::village
@@ -2776,11 +2894,11 @@ cheshmeh sir::village
 cheshmeh sohrab::village
 cheshmeh soleyman::village
 cheshmeh soltan::village
-cheshmeh sorkh-e qabr-e baba::village
-cheshmeh sorkh::village
 cheshmeh sorkheh mohammadi::village
 cheshmeh sorkheh seyyed reza::village
 cheshmeh sorkheh::village
+cheshmeh sorkh-e qabr-e baba::village
+cheshmeh sorkh::village
 cheshmeh tabari::village
 cheshmeh tabarqu::village
 cheshmeh tagi::village
@@ -2792,18 +2910,11 @@ cheshmeh valad::village
 cheshmeh vazan::village
 cheshmeh velgah::village
 cheshmeh vesg-e deli khomsir::village
-cheshmeh zaferan::village
-cheshmeh zalikha::village
-cheshmeh zaluvak::village
-cheshmeh zangi::village
-cheshmeh zard::village
-cheshmeh zeytun::village
-cheshmeh zowraq::village
-cheshmeh-e alimva::village
-cheshmeh-ye ab gorazi::village
+cheshmeh::village
 cheshmeh-ye abdal karim::village
 cheshmeh-ye abek::village
 cheshmeh-ye abgarm::village
+cheshmeh-ye ab gorazi::village
 cheshmeh-ye ahmad reza::village
 cheshmeh-ye ali akbar::village
 cheshmeh-ye ali mohammad::village
@@ -2820,8 +2931,8 @@ cheshmeh-ye cheragh ali::village
 cheshmeh-ye gari deli gerdu::village
 cheshmeh-ye gav::village
 cheshmeh-ye gazu::village
-cheshmeh-ye gholam veys::village
 cheshmeh-ye gholamali::village
+cheshmeh-ye gholam veys::village
 cheshmeh-ye gol::village
 cheshmeh-ye hajji mohammad::village
 cheshmeh-ye hajji soleyman::village
@@ -2841,12 +2952,12 @@ cheshmeh-ye ruy::village
 cheshmeh-ye salim::village
 cheshmeh-ye sang band::village
 cheshmeh-ye sangi-ye rutvand::village
-cheshmeh-ye sar::village
 cheshmeh-ye sarhang::village
 cheshmeh-ye sarmandali::village
+cheshmeh-ye sar::village
 cheshmeh-ye seyfollahi::village
-cheshmeh-ye seyyed yaqub::village
 cheshmeh-ye seyyed::village
+cheshmeh-ye seyyed yaqub::village
 cheshmeh-ye shah qoli::village
 cheshmeh-ye shir ali::village
 cheshmeh-ye shirin rashnow::village
@@ -2856,28 +2967,34 @@ cheshmeh-ye sib deli gerdu sofla::village
 cheshmeh-ye takht::village
 cheshmeh-ye valiabad vali::village
 cheshmeh-ye zamzam::village
-cheshmeh::village
-cheshmehha::village
+cheshmeh zaferan::village
+cheshmeh zalikha::village
+cheshmeh zaluvak::village
+cheshmeh zangi::village
+cheshmeh zard::village
+cheshmeh zeytun::village
+cheshmeh zowraq::village
 cheshmeqan::village
 cheshmidar::village
 cheshna sar::village
 chesli::village
+chesneya elegans::plant
 chess:国际象棋
+chesterfield::village
 chester moor::village
 chester::village
-chesterfield::village
 chesterville::village
 chestimensko::village
 cheswick::village
-cheta::village
 chetab-e olya::village
 chetab-e sofla::village
 chetan nagar::village
 chetan::village
 chetaq::village
+cheta::village
 chetirtsi::village
-chetrosu::village
 chetroșica nouă::village
+chetrosu::village
 chettiyakkapalayam::village
 chettunnapdu::village
 chetvertnia::village
@@ -2892,33 +3009,22 @@ cheyabel::village
 cheyyeru::village
 chezg::village
 chezi-ye olya::village
-chełm::village
-chełmek wołowski::village
-chełmica duża::village
-chełmica mała::village
-chełmica-cukrownia::village
-chełmiec::village
-chełmonie::village
-chełmoniec::village
-chełmsko Śląskie::village
-chełmszczonka::village
-chełstów::village
-chełstówek::village
+ch. gunnepalle::village
 chhagaldi::village
-chhai pokhar::village
 chhailabania::village
+chhai pokhar::village
 chhalala::village
 chhalesar::village
-chhan::village
 chhanbaria::village
 chhani bari::village
 chhankhola::village
+chhan::village
 chhapaiya::village
 chhapar jogian::village
 chhapar rangran::village
-chhapi::village
 chhapian wali::village
 chhapianwali::village
+chhapi::village
 chhapra magarvi::village
 chhapri::village
 chhapryai::village
@@ -2932,12 +3038,12 @@ chhatha::village
 chhatia::village
 chhatinasol::village
 chhatrari::village
-chhatri::village
 chhatripur::village
+chhatri::village
 chhattiana::village
 chhatwan::village
-chhau::village
 chhaula::village
+chhau::village
 chhawani adampur::village
 chhawrtui::village
 chhaygram::village
@@ -2946,9 +3052,9 @@ chhichhaura::village
 chhichhrewal::village
 chhinch::village
 chhinegaon::village
-chhit::village
 chhitauna::village
 chhitkul::village
+chhit::village
 chhiyali::village
 chhokran::village
 chholas sadat::village
@@ -2967,9 +3073,6 @@ chhota saula::village
 chhotepur::village
 chhuchhakwas::village
 chhulamau::village
-chi chi khvar::village
-chi darki::village
-chi village::village
 chiabaleh pain::village
 chiabaleh::village
 chiahpui::village
@@ -2978,21 +3081,22 @@ chiarone scalo::village
 chibabo::village
 chibirley::village
 chibni::village
-chicago ridge::village
 chicago:芝加哥
+chicago ridge::village
 chichagluy-e mansur::village
-chichak::village
 chichaklu::village
 chichakluy-e bash qaleh::village
 chichakluy-e hajji aqa::village
-chichal::village
+chichak::village
 chichali ahmad::village
 chichali gholamreza::village
+chichal::village
 chichauli::village
 chichevo::village
-chichi nikuti::village
 chichiabad::village
+chi chi khvar::village
 chichimequillas::village
+chichi nikuti::village
 chichli khurd::village
 chichora::village
 chichuran::village
@@ -3000,29 +3104,30 @@ chick-angrolli::village
 chick-bagewadi::village
 chicken:鸡
 chickland::village
-chida::village
 chidan::village
-chiede model village::village
+chi darki::village
+chida::village
 chiedema::village
+chiede model village::village
 chiedent::village
+chief:领袖
 chief executive officer:首席执行官
 chief scientist:首席科学家
-chief:领袖
 chientina::village
 chiessi::village
 chiflik::village
 chigadolli::village
 chigan::village
 chighab::village
-chigu::village
 chigule::village
+chigu::village
 chihaki::village
 chiheru::village
 chikadinkop::village
 chikalgud::village
 chikalwal::village
-chikan::village
 chikanhalli::village
+chikan::village
 chikbilti::village
 chikhale::village
 chikhalgaon::village
@@ -3055,40 +3160,36 @@ chikkulligeri::village
 chikkumbi::village
 chiklu::village
 chikodi (rural)::village
-chikta::village
 chiktadashi::village
 chiktan::village
-chil dahanu::village
-chil gongan::village
-chil konar::village
-chil naban::village
-chil sar::village
-chil::village
-chila chhonauta::village
+chikta::village
 chilabad::village
+chila chhonauta::village
 chilagodu::village
-chilak-e olya::village
-chilak-e sofla::village
-chilak::village
 chilakamukhi::village
 chilakapalem::village
 chilakaveedhilanka::village
 chilakawad::village
+chilak-e olya::village
+chilak-e sofla::village
 chilakhor::village
+chilak::village
 chilamakur::village
 chilamathur::village
 chilamur::village
 chilaula::village
 chilauli::village
 chilbhavi::village
-chilbili::village
 chilbilia::village
-child labour:童工
+chilbili::village
 child:小孩
+chil dahanu::village
 childhood:幼年
+child labour:童工
 children:孩子们
 childswickham::village
 chile:智利
+chil gongan::village
 chilhowee::village
 chili:辣椒
 chilik::village
@@ -3096,20 +3197,26 @@ chiling sumda::village
 chiliodendro::village
 chiliomodi::village
 chilipched::village
+chil konar::village
 chilkunda::village
-chilla::village
 chillakallu::village
 chillar::village
 chillaton::village
+chilla::village
 chillenden::village
 chillingham::village
 chillington::village
+chil naban::village
+chilocarpus beccarianus::plant
+chilocarpus conspicuus::plant
+chil sar::village
 chilteh-ye dudera::village
 chilton candover::village
 chilton moor::village
 chilukurivarigudem::village
 chilumuru::village
 chiluvuru::village
+chil::village
 chilworth::village
 chimbave::village
 chimeh::village
@@ -3119,35 +3226,29 @@ chimoré::village
 chimpanzee:黑猩猩
 chimqal'a::village
 chimundo::village
-chin owlak::village
-chin parch::village
-chin sebili::village
-chin zal::village
-chin-e ruzah::village
-chin::village
 chin:下巴
-china avutapalli::village
-china kallepalle::village
-china ogirala::village
-china::village
-china:中国
 china:瓷器
-chinab::village
+china:中国
+china avutapalli::village
 chinabrahmadevam::village
+chinab::village
 chinagedavalli::village
 chinakakani::village
+china kallepalle::village
 chinakapavaram::village
 chinakurali::village
 chinaman:中国佬
 chinamiram::village
 chinantla::village
+china ogirala::village
 chinapandraka::village
 chinapulivarru::village
-chinar::village
 chinari::village
 chinarly::village
+chinar::village
 chinateenarla::village
 chinavenkannapalem::village
+china::village
 chinavulempadu::village
 chinawal::village
 chinchakhandi::village
@@ -3159,6 +3260,7 @@ chinchin::village
 chinchodi::village
 chincholi::village
 chineh hukerd::village
+chin-e ruzah::village
 chinese:中国人
 chinese:中文
 chingahi::village
@@ -3170,13 +3272,12 @@ chini::village
 chinka::village
 chinna ammangudi::village
 chinna bandaravirala::village
-chinna golkonda::village
-chinna kaparthy::village
-chinna kondur::village
-chinna veeran::village
 chinnadagudihundi::village
+chinna golkonda::village
 chinnagottigallu::village
 chinnakani::village
+chinna kaparthy::village
+chinna kondur::village
 chinnakudibala::village
 chinnakullu::village
 chinnamanaickenpalayam::village
@@ -3188,6 +3289,10 @@ chinnapuram::village
 chinnaraviryala::village
 chinnaravula pally::village
 chinnaredndoddi::village
+chinna veeran::village
+chin owlak::village
+chin parch::village
+chin sebili::village
 chinta koyya::village
 chintalacheruvu::village
 chintalapadu::village
@@ -3209,13 +3314,13 @@ chinthamakulapalli::village
 chintsa::village
 chintulla::village
 chinu::village
+chin::village
+chin zal::village
 chionato::village
 chipaya::village
 chipeșca::village
 chipman::village
 chippalkatti::village
-chir kandi::village
-chir::village
 chiradpada::village
 chiragpally::village
 chiraguz::village
@@ -3224,9 +3329,10 @@ chirakhola::village
 chiran::village
 chirbury::village
 chircăiești::village
-chiri::village
 chirianca::village
 chirileni::village
+chiri::village
+chir kandi::village
 chirki::village
 chirle::village
 chirman-e olya::village
@@ -3236,23 +3342,25 @@ chirori village::village
 chiruk::village
 chirumarri::village
 chiruvolu::village
+chir::village
 chirya::village
 chiselborough::village
 chiselhampton::village
 chisht khujehlar::village
-chit anbeh::village
-chit bon::village
+chiștelnița::village
 chitakovtsi::village
-chital::village
 chitali::village
+chital::village
 chitamanpur::village
+chit anbeh::village
 chitarkoni::village
 chitaveh-ye pereshkaft::village
+chit bon::village
 chitgar::village
 chiti::village
 chitlan::village
-chitra::village
 chitrapur::village
+chitra::village
 chitreshwer::village
 chittamara::village
 chittampara::village
@@ -3262,39 +3370,41 @@ chittilamchery::village
 chittripilakkal::village
 chitturpu::village
 chiusure::village
-chiva::village
 chivatagundi::village
+chiva::village
 chiveh::village
 chivemla::village
-chiy-talaa::village
+chi village::village
 chiyana::village
 chiyar::village
 chiyeh::village
+chiy-talaa::village
 chizami::village
-chizan::village
 chizandan::village
+chizan::village
 chizeh::village
-chiștelnița::village
-chkalov::village
 chkalovka::village
+chkalov::village
 chkhalta::village
 chknagh::village
 chkvishi::village
 chlebowo::village
 chlewiska::village
+chłopków::village
 chloraka::village
 chloride:氯化物
 chlorine:氯
 chloroform:氯仿
 chloronaphthalene:氯萘
+chlorophytum holstii::plant
+chlorophytum inornatum::plant
 chlou::village
 chmielek::village
-chmielewo::village
 chmieleń::village
+chmielewo::village
 chmielniki::village
 chmielno::village
 chmielów::village
-cho::village
 chobanka::village
 chobari::village
 chobhar::village
@@ -3312,36 +3422,34 @@ chociszewo::village
 chociwel::village
 chocolate:巧克力
 chodavaram::village
-chodeczek-wieś::village
 chodeczek::village
+chodeczek-wieś::village
 chodlewko::village
 chodlewo::village
 chodorążek::village
 chodouko::village
 choft sar::village
+choghabur-e kaki::village
+choghabur-e rahman::village
 chogha darmian duan shir::village
 chogha darmian::village
 chogha horushi::village
 chogha khandaq::village
+choghar chuiyeh::village
 chogha sabz-e khoda nazar::village
 chogha soleyman::village
 chogha sorkh::village
 chogha zanbil::village
-choghabur-e kaki::village
-choghabur-e rahman::village
-choghar chuiyeh::village
 choghukabad::village
 choghuki-ye olya::village
 choghur qeshlaq::village
 choghutuiyeh::village
-choi uk tsuen::village
 choice:选择
 choirokoitia::village
+choi uk tsuen::village
 chojno::village
 chojny::village
 chok chey::village
-chok-tal::village
-chok::village
 chokdi::village
 chokery kharlan::village
 chokhuha::village
@@ -3349,54 +3457,56 @@ chokhur kand::village
 chokkanathapuram::village
 chokkanavur::village
 chokor ata::village
-chol chol chal::village
-chol qeshlaqi::village
+chok-tal::village
+chok::village
 choladha::village
 cholakkulam::village
 cholamadevi::village
 cholang::village
 cholapuram::village
 cholchelak::village
+chol chol chal::village
 cholesbury::village
 choletria::village
 choli::village
 chollangi peta::village
-chollangi::village
 chollangipeta::village
+chollangi::village
 chollerford::village
 chollerton::village
 cholok::village
 cholota::village
-chomacha::village
+chol qeshlaqi::village
 chomachar::village
+chomacha::village
 chomakovo::village
-chomaq tappeh::village
 chomaqestan::village
+chomaq tappeh::village
 chombhut::village
+chomęciska małe::village
 chomesqal::village
-chomino::village
+chomętowo::village
 chomiąża księża-leśniczówka::village
 chomiąża księża::village
 chomiąża szlachecka::village
 chomiąża::village
+chomino::village
 chomoqlu sheyda::village
-chomęciska małe::village
-chomętowo::village
 chonaq bolagh-e olya::village
 chonaq bolagh-e sofla::village
 chondrapur::village
-chong dam-e ludab::village
 chong-aryk::village
 chong-bülölü::village
+chong dam-e ludab::village
 chong-döbö::village
-chong-karakol::village
-chong-sary-oy::village
-chong-toguz-bay::village
-chong-Örüktü::village
 chongkamong::village
+chong-karakol::village
 chongkham h.q.::village
 chongor-e jalilvand::village
 chongor-e saminvand::village
+chong-Örüktü::village
+chong-sary-oy::village
+chong-toguz-bay::village
 chonhar::village
 chonqeraluy-e pol::village
 chonqeraluy-e yekan::village
@@ -3412,21 +3522,22 @@ chopda kalan::village
 chopoqlu::village
 chopul kesh::village
 chopul::village
-choqa bala-ye olya::village
-choqa bala-ye sofla::village
 choqa balak-e chalab zard::village
 choqa balak-e harqorush::village
+choqa bala-ye olya::village
+choqa bala-ye sofla::village
 choqa balk-e alireza::village
 choqa balk-e khvajeh bashi::village
 choqa balk-e kuchek::village
 choqa balk-e mohammad zaman::village
+choqabdar::village
 choqa beraleh::village
 choqa bur-e darabi::village
 choqa chubin::village
 choqa elahi::village
 choqa ginu::village
-choqa gol::village
 choqa golan::village
+choqa gol::village
 choqa janali::village
 choqa kabud-e olya::village
 choqa kabud-e sofla::village
@@ -3434,10 +3545,13 @@ choqa kabud::village
 choqa kalbali::village
 choqa khazan::village
 choqa mahi::village
+choqamaran-e bargur::village
 choqa maran::village
 choqa mushan::village
 choqa naqd ali::village
 choqa pahneh::village
+choqapukeh::village
+choqapur aliabad::village
 choqa qasem::village
 choqa reza::village
 choqa sabz-e naqd-e ali::village
@@ -3446,19 +3560,16 @@ choqa said::village
 choqa sarahi::village
 choqa shekar::village
 choqa-ye sefid::village
-choqabdar::village
-choqamaran-e bargur::village
-choqapukeh::village
-choqapur aliabad::village
 choqazard-e chupankareh::village
 choqeh-ye sorkh-e bahram beygi::village
 choqluy-e olya::village
 choqluy-e sofla::village
 choqur chah::village
 choqyurt::village
-chor sagoni::village
 chorab::village
 choragh-e suz::village
+chorągiewka::village
+chorągwice::village
 choranahalli::village
 choranwali::village
 choratan::village
@@ -3477,17 +3588,18 @@ choroszczynka::village
 chorpan shib::village
 chorrak::village
 chorreh::village
+chor sagoni::village
 chorsu::village
 chortero::village
-choru::village
 choruk-e pishkamar::village
 chorul::village
 chorur::village
 chorus:合唱队
+choru::village
 chorvorish::village
-chorągiewka::village
-chorągwice::village
+chościszowice::village
 chota inak::village
+chợ thủ::village
 chotian::village
 chott::village
 chotyłów::village
@@ -3502,14 +3614,15 @@ chovazhiyeh::village
 choveys-e do::village
 choveys-e seh::village
 choveys-e yek::village
-chowa::village
+cho::village
 chowalan::village
+chowa::village
 chowchik ab::village
 chowdepalle::village
 chowderguda::village
-chowga::village
 chowgam::village
 chowgan::village
+chowga::village
 chowka::village
 chowki no. 2::village
 chowlaqlu::village
@@ -3519,37 +3632,48 @@ chowplu::village
 chowsar::village
 chowtapalli::village
 chowtash::village
-chościszowice::village
 chranoi::village
 chraplewo::village
 chris:克里斯
 chrisso::village
 christchurch::village
-christian:克里斯丁
 christian:基督徒
+christian:克里斯丁
 christianagaram::village
 christianity:基督教
+christia obcordata::plant
 christmas:圣诞节
 chroberz::village
 chromatin:染色质
 chromiec::village
-chromium acetylacetonate:乙酰丙酮铬
 chromium:铬
+chromium acetylacetonate:乙酰丙酮铬
 chromosome:染色体
 chromosomes:染色体
 chromowola::village
 chronic:慢性的
-chrostkowo::village
+chróścina::village
 chroślice::village
 chrośna::village
 chrośnica::village
+chrostkowo::village
+chróstnik::village
+chróstowo::village
 chrustne::village
 chrustowice::village
 chrusty::village
 chruszczyna mała::village
 chruszczyna wielka::village
+chrysanthemum arisanense::plant
+chrysanthemum lavandulifolium::plant
+chrysanthemum::plant
+chrysanthemum tea::plant
 chrysi::village
 chrysochou::village
+chrysophyllum inornatum::plant
+chrysophyllum lucentifolium::plant
+chrysophyllum mexicanum::plant
+chrysophyllum splendens::plant
 chrystkowo::village
 chryston::village
 chrzanowo::village
@@ -3557,70 +3681,64 @@ chrzanów::village
 chrząstawa mała::village
 chrząstawa wielka::village
 chrząstowo::village
-chróstnik::village
-chróstowo::village
-chróścina::village
-chu chun::village
-chu sar::village
-chub bast::village
-chub bor::village
-chub deraz::village
-chub kanam::village
-chub sorkh::village
-chub tarash mian golal::village
-chub tarash::village
-chub tarashan::village
-chub tashan::village
-chub-e arjaneh::village
 chubagh::village
 chubanlar-e sardarlu::village
 chubanlar::village
 chubanluy-e olya::village
 chubanluy-e sofla::village
 chubar::village
-chubdar kandi::village
+chub bast::village
+chub bor::village
 chubdar-e olya::village
 chubdar-e pain::village
+chubdar kandi::village
+chub deraz::village
+chub-e arjaneh::village
 chubeh daraq::village
 chubeh::village
 chubin dar::village
-chubin::village
 chubineh::village
+chubin::village
+chub kanam::village
 chubra::village
 chubrika::village
+chub sorkh::village
+chub tarashan::village
 chubtarash mahalleh::village
+chub tarash mian golal::village
+chub tarash::village
+chub tashan::village
 chuburkhindji::village
 chuchat yakma::village
 chuchel::village
 chuchot shama::village
 chuchuliga::village
 chuchuligovo::village
+chu chun::village
 chuchuyimlang::village
 chuckchucha::village
 chucuito::village
 chucuyo::village
-chude::village
 chudei::village
+chude::village
 chudintsi::village
 chuen lung::village
 chufolki::village
-chugan::village
 chuganlu::village
+chugan::village
 chughadun::village
 chughanlu::village
 chugolabad::village
 chugunlu::village
-chuhar::village
 chuharpur::village
-chuharwal::village
+chuhar::village
 chuharwali::village
+chuharwal::village
 chuheki::village
 chuhewal::village
 chuin::village
-chuj::village
 chujar::village
-chuk hang::village
-chuk yuen::village
+chuj::village
 chukadeh::village
 chukanlu::village
 chukarka::village
@@ -3629,6 +3747,7 @@ chukat-e abdol karim bazar::village
 chukat-e bala::village
 chukat-e pain::village
 chukat-e vasat::village
+chuk hang::village
 chukhiara::village
 chukilite::village
 chukkat::village
@@ -3637,18 +3756,17 @@ chukovets::village
 chukovezer::village
 chukovo::village
 chuktu::village
-chul bolagh::village
-chul zeyar::village
-chul::village
+chuk yuen::village
 chuladeh::village
-chulak qapanuri::village
 chulak-e asali::village
 chulaki::village
+chulak qapanuri::village
 chulalu::village
+chulanak-e sofla::village
 chulan deym::village
 chulan-e abi::village
-chulanak-e sofla::village
 chulaneh::village
+chul bolagh::village
 chulcheh qeshlaq::village
 chulcheh::village
 chuleh dan::village
@@ -3657,6 +3775,8 @@ chulichan::village
 chulipuram::village
 chullu::village
 chulpo-ri::village
+chul::village
+chul zeyar::village
 chumael::village
 chumalu::village
 chuman::village
@@ -3676,95 +3796,90 @@ chunar char::village
 chunchenan::village
 chunchwad::village
 chuneh khanlu::village
-chung uk tsuen::village
 chungenesh::village
 chungkur-kyshtak::village
 chungthang forest block::village
+chung uk tsuen::village
 chunzeh-ye olya::village
 chunzeh-ye sofla::village
+chupanan::village
 chupan boneh-ye ajand::village
+chupanga::village
+chupankareh::village
 chupan kola::village
 chupan mahalleh::village
 chupan qeshlaqi::village
-chupanan::village
-chupanga::village
-chupankareh::village
 chupi::village
 chuplani::village
 chupli tappeh::village
 chuprene::village
-chur kuchan::village
-chur::village
 churan::village
 churath::village
 churbek::village
+church:教堂
 church hanborough::village
+churchill::village
 church lench::village
 church stowe::village
+churchtown::village
+churchuri::village
+churchu::village
 church village::village
 church warsop::village
 church whitfield::village
-church:教堂
-churchill::village
-churchtown::village
-churchu::village
-churchuri::village
 churchyard:教堂边地
 chureh nab::village
 churet::village
-churi::village
 churicheni::village
 churilovo::village
 churimiyan::village
+churi::village
 churizhi::village
 churk muzan::village
+chur kuchan::village
 churmaq::village
 churs::village
 churteh::village
 churthara::village
 churuk-e olya::village
 churuk-e sofla::village
+chur::village
 churwa::village
+chu sar::village
 chushadestan::village
 chushal::village
 chuspa::village
-chut pyin::village
 chutabad::village
 chutak::village
 chutani::village
 chutash-e yekshanbeh::village
+chut pyin::village
 chutupalu::village
 chuynli::village
 chuypetlovo::village
+chüy::village
 chuzah::village
 chuzu::village
+chwalęcin::village
 chwalibogowice::village
 chwalibogowo::village
 chwalibożyce::village
 chwalimierz::village
+chwalisław::village
 chwaliszewo::village
 chwaliszów::village
-chwalisław::village
-chwalęcin::village
-chwastnica::village
 chwałka::village
 chwałkowice::village
 chwałków::village
 chwałowice::village
 chwałów::village
+chwastnica::village
 chwilog::village
 chwiram::village
 chyasvareh sheykh ahmad::village
-chym-korgon::village
 chymgent::village
+chym-korgon::village
 chyragly::village
-châtillon::village
-chéché::village
-chégamat::village
-chémora::village
-chüy::village
-chłopków::village
-chợ thủ::village
 cibuntu::village
 cicada:蝉
 cicarimanah::village
@@ -3780,18 +3895,19 @@ cicimli::village
 cicrina::village
 cidamón::village
 cider:苹果酒
-ciechanów::village
 ciechanówek::village
-ciechocin::village
-ciechrz::village
-ciechów::village
+ciechanów::village
 ciechłowice::village
-ciele::village
-cieleszyn::village
+ciechocin::village
+ciechów::village
+ciechrz::village
 cieleśnica pgr::village
 cieleśnica::village
+cieleszyn::village
 cielęta::village
 cielętniki::village
+ciele::village
+ciełuchowo::village
 ciemniki::village
 ciemny las::village
 ciencisko::village
@@ -3805,19 +3921,19 @@ ciepłowody::village
 cierpice::village
 cierpiszewo::village
 cierplewo::village
-cieszkowice::village
-cieszkowy::village
-cieszyce::village
-cieszyny::village
-cieszów::village
-ciełuchowo::village
 cieśle::village
 cieślin::village
+cieszkowice::village
+cieszkowy::village
+cieszów::village
+cieszyce::village
+cieszyny::village
+ciężkowo::village
 cigar:雪茄
 cigarette:香烟
+cigîrleni::village
 ciglena::village
 cigoli::village
-cigîrleni::village
 cihadiye::village
 cihangazi::village
 cihangir::village
@@ -3832,7 +3948,6 @@ cimandiri::village
 cimcimax::village
 cimeše::village
 cimișeni::village
-cin::village
 cincartala::village
 cincin::village
 cinema:电影院
@@ -3844,6 +3959,7 @@ cinișeuți::village
 cinli zeynallı::village
 cinolazepam:西诺西泮
 cintepe::village
+cin::village
 cioara::village
 cioburciu::village
 ciosek::village
@@ -3851,32 +3967,38 @@ ciosmy::village
 cipada::village
 cipher:密文
 ciptagumati::village
+cirák::village
 circle:圆圈
-circuit court:巡回法庭
 circuit:电路
+circuit court:巡回法庭
 circulatory system:循环系统
 circumference:圆周
 circumstance:情形
 cirdək::village
 ciribul::village
 ciripcău::village
+cîrnățeni::village
+cîrpești::village
+cirsium hosokawai::plant
+cirsium kawakamii::plant
 cirueña::village
 cirujeda::village
-cirák::village
 cisco::village
-cisne::village
+cîșla::village
+cîșlița-prut::village
 cisneros::village
+cisne::village
 cisownica::village
+cisów::village
 cissa::village
 cissna park::village
-cisów::village
 cistern:蓄水池
 citation:引文
 cite:引证
 citizen:公民
+city:城市
 city council:市政委员会
 city water:自来水
-city:城市
 ciuciulea::village
 ciuciuleni::village
 ciucur-mingir::village
@@ -3887,6 +4009,7 @@ ciupkowo::village
 ciuślice::village
 civan::village
 civciler::village
+civil:公民的
 civil administration:民政
 civil aircraft:民用飞机
 civil aviation:民用航空
@@ -3894,21 +4017,22 @@ civil court:民事法庭
 civil defence:民防
 civil engineer:土木工程师
 civil engineering:土木工程
+civilian:平民
 civil law:民法
-civil liberty:公民自由
 civil liberties:公民自由权
+civil liberty:公民自由
 civil parish:教区
 civil rights:公民权利
 civil servant:公务员
 civil service:公共服务部门
 civil society:公民社会
 civil war:内战
-civil:公民的
-civilian:平民
+civís::village
 civitella del lago::village
 civitella marittima::village
-civís::village
-ciężkowo::village
+cılfır::village
+cırdaxan::village
+cırkürd::village
 clachanmore::village
 claddaghduff::village
 claim:主张
@@ -3916,47 +4040,48 @@ clandulla::village
 clapham::village
 clappersgate::village
 clarborough::village
-clare hall::village
 clareen::village
+clare hall::village
 claremont::village
 clarendon hills::village
 clarina::village
 clarinbridge::village
 clark:克拉克
 clarkebury::village
+clarkia rubicunda::plant
 clarks::village
 clarksville::village
 clash:冲突
-class:类
 class:纲
 class:课程
+class:类
 classic:经典的
+classical:经典的
 classical description:经典描述
 classical music:经典音乐
-classical:经典的
 classification:分类
-classified:分类的
 classified:被分类
+classified:分类的
 classifier:分类器
 classify:分类
 clatonia::village
 clatt::village
 clause:条款
 clausnitz::village
-clawdd poncen::village
 clawddnewydd::village
-clay city::village
-clay coton::village
+clawdd poncen::village
 clay:粘土
+clay city::village
 claycomo::village
+clay coton::village
 claydon::village
 clayhanger::village
-clayton west::village
 clayton::village
-clean up:清理
+clayton west::village
 clean:清理
-clear lake::village
+clean up:清理
 clear:清除
+clear lake::village
 clearview::village
 clearwater::village
 cleatlam::village
@@ -3964,35 +4089,37 @@ cleator::village
 cleehill::village
 cleeve prior::village
 cleghorn::village
+clematis integrifolia::plant
+clematis lanuginosa::plant
 clemmons::village
 cleric:传教士
 cleveland::village
 cleves::village
 click:点击
-cliff village::village
-cliff:峭壁
-cliff:崖
-cliff:悬崖
 cliff:绝壁
+cliff:峭壁
+cliff:悬崖
+cliff:崖
 cliffoney::village
 clifford::village
+cliff village::village
 clifton::village
 climacteric:转变期
 climate:气候
+climăuți::village
 climax::village
 climazolam:氯马唑仑
 climb:攀爬
 climbing:攀岩
-climăuți::village
 clinge::village
 clinic:诊所
 clinical:临床的
-clint::village
-clinton::village
 clinton:克林顿
+clinton::village
+clint::village
 clip:修剪
-clive::village
 clișova::village
+clive::village
 clock:时钟
 clocușna::village
 clodagh eastern colony::village
@@ -4015,10 +4142,10 @@ cloonboo::village
 cloone::village
 cloonfad::village
 cloroqualone:氯喹酮
-close house::village
 close:关闭
-closed wound:闭合损伤
 closed:已关闭的
+closed wound:闭合损伤
+close house::village
 clothes:衣服
 cloud:云
 cloudland::village
@@ -4036,25 +4163,25 @@ clue:线索
 clues:线索
 clugin::village
 clunton::village
-clutch:抓住
 clutch:离合器
+clutch:抓住
 clwt-y-bont::village
 clydach vale::village
 clydach::village
 clyde::village
 clyman::village
 clyne::village
-coach:教练
 coach:长途大巴
+coach:教练
 coachford::village
 coad's green::village
-coal aston::village
-coal city::village
 coal:煤
-coalbrook::village
+coal aston::village
 coalbrookdale::village
 coalbrookvale::village
+coalbrook::village
 coalburn::village
+coal city::village
 coalesce:合并
 coaley::village
 coalford::village
@@ -4065,8 +4192,8 @@ coaltown of wemyss::village
 coalway::village
 coanwood::village
 coarse:粗糙的
-coast guard:海岸警卫队
 coast:海岸
+coast guard:海岸警卫队
 coastline:海岸线
 coat:外套
 coatham mundeville::village
@@ -4076,12 +4203,12 @@ coauthors:合著者们
 cobalt:钴
 cobani::village
 cobargo::village
-cobb::village
 cobbs cross::village
+cobb::village
 cobden::village
+cobîlea::village
 coburlar::village
 cobusca nouă::village
-cobîlea::village
 cocaine:可卡因
 cochrane::village
 cociulia::village
@@ -4097,8 +4224,8 @@ codiponte::village
 codreni::village
 codrul nou::village
 cody::village
-coed-y-paen::village
 coedffranc::village
+coed-y-paen::village
 coefficient:系数
 coerce:强迫
 coexist:共存
@@ -4111,12 +4238,12 @@ cohort:大队
 coin:硬币
 coity::village
 cojușna::village
-cold ashton::village
-cold hesledon::village
-cold water:冷水
 cold:冷
+cold ashton::village
 coldblow::village
+cold hesledon::village
 coldstream::village
+cold water:冷水
 coleman::village
 coleridge::village
 coleta::village
@@ -4138,21 +4265,23 @@ collapalli::village
 collapse:塌陷
 collapsible:可折叠的
 collateral descendant:旁系后代
-colle d'orano::village
-colle malamerenda::village
-colle petroso::village
 collection:搜集物
-collective intelligence:集体智能
 collective:集体的
+collective intelligence:集体智能
+colle d'orano::village
 college:学院
+colle malamerenda::village
 collemezzano::village
 collemontanino::village
 colleoli::village
+colle petroso::village
 collepino::village
-collins::village
+collinsia sparsiflora::plant
 collinston::village
 collinstown::village
+collins::village
 collision:碰撞
+cóll::village
 colmata::village
 colnbrook::village
 colney::village
@@ -4162,12 +4291,12 @@ coloma::village
 colombia:哥伦比亚
 colombian:哥伦比亚人
 colomers::village
-colon::village
 colon:冒号
-colonia palma::village
 colonial:殖民的
+colonia palma::village
 colonist:殖民
 colonița::village
+colon::village
 colony:殖民地
 color:颜色
 colorado:科罗拉多州
@@ -4175,9 +4304,9 @@ coloration:染色
 colored:彩色的
 colorless:无色的
 colour:颜色
-colp::village
 colpach-bas::village
 colpach-haut::village
+colp::village
 coltano::village
 colton::village
 coltura::village
@@ -4188,45 +4317,47 @@ column:列
 columnar:圆柱的
 colyford::village
 com:公司
-combat boot:作战靴
 combat:战斗
+combat boot:作战靴
 combe fishacre::village
-combe pafford::village
 combeinteignhead::village
+combe pafford::village
 combine:合并
 combined locks::village
 combwich::village
-come from:来自
 come:来
 comedy:喜剧
+come from:来自
 comet:彗星
-comfort women:慰安妇
+comərd::village
 comfort:安慰
+comfort women:慰安妇
 comfy:舒服的
 comic:漫画
 comics:漫画
 command:命令
 commander:指挥官
-comment::village
-comment:注释
+commelina lanceolata::plant
 comment:评论
+comment:注释
 commentary:解说
 commentator:评论员
+comment::village
 commercial:商业的
 commission:佣金
 committee:委员会
-common ancestor:共同的祖先
 common:共同的
+common ancestor:共同的祖先
 commonly referred to as:通常被叫做
 commune:公社
 communism:共产主义
-communist party:共产党
 communist:共产党员
+communist party:共产党
 community:社区
 comoros:科摩罗
+companion:伴侣
 companion animal:宠物
 companion animal:陪伴动物
-companion:伴侣
 company:公司
 company:连
 comparative:比较的
@@ -4242,35 +4373,34 @@ compiler:编译器
 complaint:抱怨
 complete:完成
 completely customizable:完全可定制的
+complex:复杂的
 complex features:复杂特征
 complex number:复数
-complex:复杂的
 component:组件
-compound sentence:并列复合句
 compound:化合物
 compounds:化合物
+compound sentence:并列复合句
 compstall::village
 compton::village
+computer:电脑
+computer:计算机
 computer graphics:计算机图形
 computer network:计算机网络
 computer programming:计算机编程
+computers:计算机
 computer scientist:计算机科学家
 computer system:计算机系统
 computer vision:计算机视觉
-computer:电脑
-computer:计算机
-computers:计算机
 computing device:计算设备
 comrie::village
 comstock::village
-comərd::village
 concave:凹的
 conceal:隐藏
 concealed:隐藏的
 concealment:隐藏
 concentrate:集中
-concentration camp:集中营
 concentration:浓度
+concentration camp:集中营
 concept:概念
 conceptual:概念的
 concerned with:涉及
@@ -4279,10 +4409,11 @@ concerto:协奏曲
 conch:海螺
 conclude:结束
 conclusion:结论
-concord::village
 concord:和睦
-concrete:具体的
+concord::village
 concrete:混凝土
+concrete:具体的
+condaminea elegans::plant
 condition:条件
 condom:避孕套
 condrița::village
@@ -4303,8 +4434,8 @@ confident:自信的
 config:配置
 configuration:配置
 configure:配置
-conflict of interest:利益冲突
 conflict:冲突
+conflict of interest:利益冲突
 conformance:一致性
 confront:对抗
 confrontation:对抗
@@ -4318,8 +4449,13 @@ conna::village
 connect:连接
 connel::village
 connor downs::village
+conophytum bilobum::plant
+conostylis bealiana::plant
+conostylis caricina::plant
+conostylis serrulata::plant
 conquer:征服
 conquest:战利品
+conradina verticillata::plant
 conrath::village
 conscience:良心
 conscious:有意识的
@@ -4341,12 +4477,12 @@ constellation:星座
 constellations:星座
 constituency:选区
 constitution:宪法
-constitutional monarchy:君主立宪制
 constitutional:宪法的
+constitutional monarchy:君主立宪制
 constraint:约束
 construct:构造
-construction material:建筑材料
 construction:建筑
+construction material:建筑材料
 consume:消耗
 consumer:消费者
 contact:联系
@@ -4362,13 +4498,13 @@ continent:洲
 continue:继续
 continuity:连续
 continuous:连续的
-contract labor:合同工
 contract:契约
 contraction:收缩
-contribution:捐助
+contract labor:合同工
 contribution:贡献
-contributions:捐助
+contribution:捐助
 contributions:贡献
+contributions:捐助
 contributor:贡献者
 contributors:贡献者
 control:控制
@@ -4388,15 +4524,15 @@ convolutional neural network:卷积神经网络
 convoy::village
 conxem::village
 conyer's green::village
-cook islands:库克
-cook::village
 cook:烹饪
 cooker:炊具
 cookers:炊具
 cookie:饼干
 cooking:烹饪
+cook islands:库克
 cookley::village
 cooksville::village
+cook::village
 coolac::village
 coolaney::village
 coolboy::village
@@ -4405,30 +4541,31 @@ coolkenno::village
 coolrain::village
 coombe::village
 coon valley::village
-cooper's green::village
 cooperate:合作
 cooperation:合作
 cooperative:合作的
-coopers town::village
 coopersale::village
-coordinate plane:坐标平面
-coordinate system:坐标系统
+cooper's green::village
+coopers town::village
 coordinate:坐标
+coordinate plane:坐标平面
 coordinates:坐标
+coordinate system:坐标系统
 coore::village
 cootehall::village
-cop::village
 copanca::village
 copceac::village
 copemish::village
 copister::village
 copley::village
-copper city::village
 copper:铜
+copper city::village
+coprosma elegans::plant
 copthill::village
-copy that:收到
+cop::village
 copy:复制
 copyright:版权
+copy that:收到
 coral:珊瑚
 coralstown::village
 corazzano::village
@@ -4436,6 +4573,7 @@ corbridge::village
 corbu::village
 corby hill::village
 corchia::village
+cordeauxia edulis::plant
 cordova::village
 cordovín::village
 core:核心
@@ -4444,8 +4582,8 @@ corhampton::village
 coriander:香菜
 corjeuți::village
 corjova::village
-corlu::village
 corlăteni::village
+corlu::village
 cormun::village
 corn:包谷
 corn:玉米
@@ -4457,13 +4595,14 @@ corner:角落
 cornerback:侧卫
 cornești::village
 cornfields::village
+cornflower::plant
 cornforth::village
 corning::village
 cornlea::village
 cornova::village
 cornsay colliery::village
-corona::village
 coronado::village
+corona::village
 coropceni::village
 corotna::village
 corpaci::village
@@ -4479,9 +4618,9 @@ correntías altas::village
 correntías bajas::village
 correntías medias::village
 correspondent:驻地记者
+corridor:走廊
 corridor coach:带走廊包厢铁路客车
 corridor gangny::village
-corridor:走廊
 corris::village
 corroy::village
 corrupted:损坏的
@@ -4499,16 +4638,18 @@ corunna::village
 corvo::village
 cosby::village
 coseley::village
+coșernița::village
 cosford::village
 cosgrove::village
 cosine:余弦
+cosmic:宇宙的
 cosmic noise:宇宙噪声
 cosmic rays:宇宙射线
-cosmic:宇宙的
 cost:花费
-costa rica:哥斯达黎加
 costafabbri::village
 costalpino::village
+coștangalia::village
+costa rica:哥斯达黎加
 costești::village
 costuleni::village
 coteala::village
@@ -4517,18 +4658,19 @@ cotesfield::village
 cothen::village
 cotiujeni::village
 cotmanhay::village
-coto ríos::village
 coton::village
 cotoń::village
+coto ríos::village
 cotton:棉花
 cottown::village
+cotylelobium lewisianum::plant
 coubanack::village
 couch:长沙发
 couderay::village
 could:能
 coulobory::village
-coulomb force:库仑力
 coulomb:库仑
+coulomb force:库仑力
 coulterville::village
 coumeenoole::village
 council:委员会
@@ -4539,11 +4681,11 @@ countable:可数的
 counterprotest:反抗议
 counterprotester:反抗议者
 countries:国家
+country:国家
 country club::village
 country life acres::village
-country:国家
-county seat:县政治中心镇
 county:县
+county seat:县政治中心镇
 coup:政变
 coupe green::village
 courage:勇气
@@ -4552,24 +4694,24 @@ course:课程
 court:法院
 courtesan:高级妓女
 courtown::village
-cousin:堂亲
 cousin:表亲
+cousin:堂亲
 cousland::village
 coutts::village
 cova joana::village
-cova rodela::village
 covalent bonding:共价键
 covalent crystal:共价晶体
-cove::village
-coven::village
+cova rodela::village
 covendo::village
 covenham st bartholomew::village
-cover design:封面设计
+coven::village
 cover:封面
-cover:涵盖
 cover:覆盖
+cover:涵盖
 coverage:覆盖
+cover design:封面设计
 coverham::village
+cove::village
 covrurah::village
 covurlui::village
 cow:牛仔
@@ -4579,17 +4721,16 @@ cowardly:懦弱地
 cowboy:牛仔
 cowden::village
 cowgill::village
+cowiea borneensis::plant
 cowie::village
 cowles::village
 cowpen bewley::village
 cowshill::village
 cowthorpe::village
-cox green::village
 coxa:髋
 coxford::village
+cox green::village
 coxhoe::village
-coșernița::village
-coștangalia::village
 crab orchard::village
 crabs hill::village
 crackpot::village
@@ -4598,25 +4739,30 @@ cradley::village
 craft:航行器
 crafthole::village
 cragg vale::village
-crai::village
-craig::village
 craigmore::village
 craigo::village
 craigton::village
+craig::village
 crainville::village
+crai::village
 cranbourne::village
 crane:鹤
 cranham::village
 cranwell::village
-crap:屎
-crap:废物
 crap:废话
+crap:废物
+crap:屎
 crappy:烂
 crapstone::village
+crăsnășeni::village
 crasnogorca::village
+crassocephalum vitellinum::plant
 cratfield::village
 crathie::village
 cratloe::village
+cratoxylum arborescens::plant
+cratoxylum glaucum::plant
+cratoxylum maingayi::plant
 crawley down::village
 crawleyside::village
 crays hill::village
@@ -4636,23 +4782,24 @@ crepaja::village
 crepljani::village
 crescent city::village
 cresco::village
+creševo::village
+crespià::village
 crespi d'adda::village
 crespignano::village
-crespià::village
 cressbrook::village
 cresswell::village
 crestline::village
 creston::village
 crete::village
+crêt::village
 creve coeur::village
 crew:全体人员
-creševo::village
 crhalj::village
 crianlarich::village
 crich::village
-crick::village
 cricket:板球
 cricketer:板球运动员
+crick::village
 criggion::village
 crihana veche::village
 crijep::village
@@ -4664,47 +4811,47 @@ criminal:罪犯
 crimond::village
 crinkill::village
 cripps corner::village
+crișcăuți::village
 crisis:危机
 cristești::village
 cristo rey::village
 critic:评论家
-critical point:临界点
 critical:临界的
 critical:评论的
+critical point:临界点
 criticise:批评
 criticism:批判
 criticize:批评
 criva::village
 crivitz::village
-crișcăuți::village
 crklada::village
 crkvari::village
 crkvenjak::village
 crkvice::village
 crljenice::village
 crna bara::village
-crnaja::village
 crnač::village
+crnaja::village
+crnča::village
+crnče::village
 crnci::village
 crne lokve::village
-crni lug::village
-crni vrh::village
+crniče::village
 crnići-greda::village
 crnići-kula::village
 crnići::village
-crniče::village
 crnički kamenik::village
+crni lug::village
 crniš::village
+crni vrh::village
 crnjevo::village
-crno vrelo::village
-crno::village
 crnobuki::village
 crnodoli::village
 crnoglav::village
 crnokrpe::village
 crnopod::village
-crnča::village
-crnče::village
+crno::village
+crno vrelo::village
 croatia:克罗地亚
 croatian:克罗地亚语
 crockenhill::village
@@ -4728,24 +4875,24 @@ croom::village
 crop:农作物
 crops:农作物
 crosbies::village
-cross ash::village
-cross hills::village
-cross houses::village
-cross plains::village
-cross platform:跨平台
-cross::village
 cross:穿越
 crossakiel::village
+cross ash::village
 crosscrake::village
 crossford::village
 crossgates::village
 crosshaven::village
+cross hills::village
 crosshill::village
+cross houses::village
 crosshouse::village
+cross plains::village
+cross platform:跨平台
+cross::village
 crossville::village
 crossway green::village
 crostwick::village
-crow's nest::village
+crotalaria rotundifolia::plant
 crowd:人群
 crowdon::village
 crowfield::village
@@ -4754,6 +4901,7 @@ crowle::village
 crowmarsh gifford::village
 crown:王冠
 crowpara::village
+crow's nest::village
 croxdale::village
 croxden::village
 croy::village
@@ -4764,99 +4912,125 @@ cruel:残酷的
 cruelty:残酷行为
 cruglic::village
 crugybar::village
-cruise missle:巡航导弹
+cruïlles::village
 cruise:巡航
+cruise missle:巡航导弹
 crumlin::village
 cruquius::village
-cruïlles::village
 crvena crkva::village
-crveni grm::village
 crvenice::village
+crveni grm::village
 crveno brdo::village
 crvica::village
 cry:哭
+cryptandra aridicola::plant
+cryptandra armata::plant
+cryptandra congesta::plant
+cryptandra craigiae::plant
+cryptandra dielsii::plant
+cryptandra distigma::plant
+cryptandra exserta::plant
+cryptandra glabriflora::plant
+cryptandra graniticola::plant
+cryptandra imbricata::plant
+cryptandra inconspicua::plant
+cryptandra intermedia::plant
+cryptandra intonsa::plant
+cryptandra intratropica::plant
+cryptandra micrantha::plant
+cryptandra minutifolia::plant
+cryptandra monticola::plant
+cryptandra multispina::plant
+cryptandra mutila::plant
+cryptandra myriantha::plant
+cryptandra nola::plant
+cryptandra pendula::plant
+cryptandra recurva::plant
+cryptandra stellulata::plant
+cryptandra wilsonii::plant
+cryptantha affinis::plant
+cryptocoryne alba::plant
+cryptocoryne'' × ''willisii::plant
 crystal:水晶
-crêt::village
-crăsnășeni::village
 csabdi::village
 csabrendek::village
+csáfordjánosfa::village
+csákánydoroszló::village
+csákány::village
+csákberény::village
+csánig::village
+csányoszró::village
+csány::village
 csapi::village
 csapod::village
 csarnóta::village
 csaroda::village
+császár::village
 csatár::village
+csávoly::village
 csebény::village
 csehbánya::village
-csehi::village
 csehimindszent::village
-csempeszkopács::village
+csehi::village
 csemő::village
+csempeszkopács::village
+csém::village
 csenyéte::village
+csénye::village
+csép::village
 cserdi::village
+cserénfa::village
+cserépfalu::village
+cserépváralja::village
 cserkút::village
 csernely::village
 cserszegtomaj::village
 csertalakos::village
 csertő::village
-cserénfa::village
-cserépfalu::village
-cserépváralja::village
+csér::village
 csesznek::village
 csesztreg::village
 csesztve::village
 csetény::village
+csévharaszt::village
 csibrák::village
-csikvánd::village
 csikóstőttős::village
+csikvánd::village
 csincse::village
 csipkerek::village
-csobaj::village
 csobád::village
+csobaj::village
 csobánka::village
+csöde::village
+csögle::village
+csókakő::village
+csököly::village
 csokonyavisonta::village
 csokvaomány::village
 csolnok::village
+csólyospálos::village
+csomád::village
 csoma::village
 csombárd::village
-csomád::village
-csonkahegyhát::village
-csonkamindszent::village
-csopak::village
-csurgónagymarton::village
-csáfordjánosfa::village
-csákberény::village
-csákány::village
-csákánydoroszló::village
-csánig::village
-csány::village
-csányoszró::village
-császár::village
-csávoly::village
-csém::village
-csénye::village
-csép::village
-csér::village
-csévharaszt::village
-csókakő::village
-csólyospálos::village
-csór::village
-csót::village
-csöde::village
-csögle::village
-csököly::village
 csömend::village
 csömödér::village
 csömör::village
 csönge::village
+csonkahegyhát::village
+csonkamindszent::village
+csopak::village
 csörnyeföld::village
 csörög::village
 csörötnek::village
+csór::village
 csősz::village
+csót::village
 csővár::village
+csurgónagymarton::village
 cuareim::village
-cuba::village
 cuba:古巴
 cuban:古巴人
+cuba::village
 cube:立方体
 cubells::village
 cubert::village
@@ -4865,9 +5039,9 @@ cubley::village
 cucigliana::village
 cucumber:黄瓜
 cudham::village
+cue:球杆
 cue ball:母球
 cue stick:球杆
-cue:球杆
 cueva grande::village
 cufeu::village
 cuffley::village
@@ -4882,19 +5056,19 @@ cullom::village
 cultivar:培育品种
 cultivate:培养
 cultivation:培养
-cultural heritage:文化遗产
 cultural:文化的
-culture day:文化日
+cultural heritage:文化遗产
 culture:文化
+culture day:文化日
 culuk::village
 cululú::village
 cum:精液
-cuma::village
 cumadere::village
 cumalar::village
 cumali::village
-cumalı::village
 cumalıkızık::village
+cumalı::village
+cuma::village
 cumayanı::village
 cumberland::village
 cumbria:坎布里亚
@@ -4909,11 +5083,13 @@ cuncoliem::village
 cundaim (kundaim)::village
 cundall::village
 cunicea::village
+cún::village
 cup:杯子
 cupboard:橱柜
 cupcini::village
 cupcui::village
 curbridge::village
+curculigo::plant
 curiapo::village
 curiosity:好奇心
 curly:卷曲的
@@ -4938,16 +5114,17 @@ curyn::village
 cusgarne::village
 cushing::village
 cusignano::village
+cușmirca::village
 custer::village
 custody:监护权
 custom:自定义的
 customizable:可定制的
 customize:定制
-cut off:切断
 cut:切割
 cutbush::village
 cute:可爱的
 cutler::village
+cut off:切断
 cuttlefish:乌贼
 cuvarlı::village
 cuxton::village
@@ -4955,7 +5132,6 @@ cuxwold::village
 cuylerville::village
 cuzcurrita de río tirón::village
 cuzcurritilla::village
-cușmirca::village
 cvetkovci::village
 cvetojevac::village
 cvijanović brdo::village
@@ -4971,9 +5147,22 @@ cwmrhydyceirw::village
 cwmtwrch::village
 cwmystwyth::village
 cwrtnewydd::village
+cyanea angustifolia::plant
+cyanea asplenifolia::plant
+cyanea calycina::plant
+cyanothamnus acanthocladus::plant
+cyanothamnus baeckeaceus::plant
+cyanothamnus bussellianus::plant
+cyanothamnus defoliatus::plant
+cyanothamnus fabianoides::plant
+cyanothamnus inconspicuus::plant
+cyanothamnus inflexus::plant
+cyanothamnus montimulliganensis::plant
+cyanothamnus penicillatus::plant
 cyber attack:网络攻击
 cyberspace:网络空间
 cyberwarfare:网络战
+cyclamen parviflorum::plant
 cyclobarbital:环巴比妥
 cyclohexanedimethanamine:环己二甲胺
 cyclone:飓风
@@ -4984,20 +5173,24 @@ cylinder:圆筒
 cymbark::village
 cyncynopol::village
 cynghordy::village
+cynoglossum creticum::plant
+cynometra lenticellata::plant
+cyperus dives::plant
+cyphostemma crotalarioides::plant
 cypress::village
 cyprianka::village
 cyprus:塞浦路斯
+cyrtostachys elegans::plant
 czachowo::village
 czadrów::village
 czaganiec::village
 czajno::village
+czamaninek::village
 czamanin-kolonia::village
 czamanin::village
-czamaninek::village
 czapelki::village
 czapla::village
 czaple::village
-czar::village
 czarmuń::village
 czarne błoto::village
 czarne::village
@@ -5010,20 +5203,21 @@ czarnocin::village
 czarnogoździce::village
 czarnotka::village
 czarnotul::village
+czarnówczyn::village
 czarnowo::village
-czarny bryńsk::village
+czarnów::village
 czarny bór::village
+czarny bryńsk::village
 czarny las-kolonia::village
 czarny las::village
-czarnów::village
-czarnówczyn::village
 czartówiec::village
+czar::village
 czarże::village
 czatkowice::village
 czech:捷克
 czech:捷克语
-czechy::village
 czechyń::village
+czechy::village
 czeczewo::village
 czekanowo::village
 czeladź mała::village
@@ -5034,144 +5228,45 @@ czeputka::village
 czeremcha::village
 czermno::village
 czerna::village
+czerńczyce::village
 czerniak::village
 czernica::village
+czernięcin główny::village
+czernięcin poduchowny::village
 czerniec::village
 czerniewice::village
 czerniewiczki::village
 czerniki::village
 czernikowice::village
-czernikowo::village
 czernikówko::village
+czernikowo::village
 czernina dolna::village
 czernina górna::village
-czernięcin główny::village
-czernięcin poduchowny::village
-czersk Świecki::village
 czerskie rumunki::village
+czersk Świecki::village
 czerteż::village
 czerwieniec::village
 czerwona woda::village
 czerwonków::village
 czerwony kościół::village
-czerńczyce::village
-czeszyce::village
-czeszów::village
 czesławice::village
+częstocice::village
+czeszów::village
+czeszyce::village
+częszyce::village
 czewujewo::village
+czołówek::village
+czołowo::village
+czołpino::village
+czołpin::village
 czorsztyn::village
 czosnówka::village
-czołowo::village
-czołpin::village
-czołpino::village
-czołówek::village
 czumsk duży::village
 czumsk mały::village
 czuple::village
 czwórka::village
-czyste::village
 czystebłota::village
+czyste::village
 czystochleb::village
 czyżewo::village
 czyżowice::village
-częstocice::village
-częszyce::village
-cànoves i samalús::village
-cák::village
-cárcamo::village
-cárdenas::village
-cã mamudo::village
-cërmjan::village
-cîrnățeni::village
-cîrpești::village
-cîșla::village
-cîșlița-prut::village
-cóll::village
-cún::village
-căbăiești::village
-călimănești::village
-călinești::village
-călmățui::village
-căplani::village
-căpriana::village
-cărbuna::village
-cățeleni::village
-cılfır::village
-cırdaxan::village
-cırkürd::village
-cəfərabad::village
-cəfərli::village
-cəfərxan::village
-cəmilli::village
-cəndəhar::village
-cəngan::village
-cəngi::village
-cənubi::village
-cəyirli::village
-chrysanthemum tea::plant
-cryptantha affinis::plant
-clarkia rubicunda::plant
-chervona ruta::plant
-calochortus umbellatus::plant
-camissonia lacustris::plant
-cynometra lenticellata::plant
-collinsia sparsiflora::plant
-clematis integrifolia::plant
-clematis lanuginosa::plant
-cyclamen parviflorum::plant
-curculigo::plant
-conradina verticillata::plant
-chesneya elegans::plant
-capparis elegans::plant
-chaetanthera elegans::plant
-chrysanthemum lavandulifolium::plant
-cyrtostachys elegans::plant
-ceratocephala::plant
-chaerophyllum elegans::plant
-crassocephalum vitellinum::plant
-cyphostemma crotalarioides::plant
-chlorophytum inornatum::plant
-condaminea elegans::plant
-coprosma elegans::plant
-chlorophytum holstii::plant
-chrysanthemum::plant
-cornflower::plant
-centaurium scilloides::plant
-crotalaria rotundifolia::plant
-campanula thyrsoides::plant
-conostylis serrulata::plant
-conostylis bealiana::plant
-cirsium hosokawai::plant
-cirsium kawakamii::plant
-chrysanthemum arisanense::plant
-cyanea asplenifolia::plant
-cyanea calycina::plant
-cryptocoryne alba::plant
-christia obcordata::plant
-cryptandra aridicola::plant
-cryptandra armata::plant
-cryptandra congesta::plant
-cryptandra craigiae::plant
-cryptandra dielsii::plant
-cryptandra distigma::plant
-cryptandra exserta::plant
-canscora bhatiana::plant
-cryptandra glabriflora::plant
-cryptandra graniticola::plant
-cryptandra imbricata::plant
-cryptandra inconspicua::plant
-cryptandra intermedia::plant
-cryptandra intonsa::plant
-cryptandra intratropica::plant
-cryptandra micrantha::plant
-cryptandra minutifolia::plant
-cryptandra monticola::plant
-cryptandra multispina::plant
-cryptandra mutila::plant
-cryptandra myriantha::plant
-cryptandra nola::plant
-cryptandra pendula::plant
-cryptandra recurva::plant
-cryptandra stellulata::plant
-cryptandra wilsonii::plant
-conostylis caricina::plant

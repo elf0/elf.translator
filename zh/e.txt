@@ -1,30 +1,28 @@
-e-wall::village
-e. chawngtui::village
-each other:彼此
-each time:每次
 each:每个
 eachalawakkai::village
 eachankottai::village
+each other:彼此
+each time:每次
 eagarville::village
-eagle barnsdale::village
-eagle::village
 eagle:鹰
+eagle barnsdale::village
 eaglescliffe::village
 eaglesfield::village
 eaglesham::village
+eagle::village
 eagleville::village
 eametsa::village
 eanjum::village
 ear:耳朵
 eardiston::village
-earl sterndale::village
 earlier:早先的
-earliest evidence:最早的证据
 earliest:最早的
+earliest evidence:最早的证据
 earls colne::village
 earls common::village
-early life:早年生活
+earl sterndale::village
 early:早期的
+early life:早年生活
 earn:挣
 earnewâld::village
 earphones:耳机
@@ -37,20 +35,32 @@ easington lane::village
 easington::village
 easky::village
 eassalu::village
+east:东
 east africa:东非
 east ardsley::village
 east barming::village
 east bergholt::village
+eastbridge::village
 east briscoe::village
 east brooklyn::village
+eastbury::village
 east cape girardeau::village
 east carondelet::village
 east choutapalem::village
+eastcombe::village
 east cowick::village
 east drayton::village
 east dundee::village
+easter:复活节
+easter compton::village
+easterlittens::village
+eastermar::village
+eastern:东方的
+easternijtsjerk::village
+easte::village
 east fortune::village
 east galesburg::village
+eastgate::village
 east gillespie::village
 east gresford::village
 east grimstead::village
@@ -59,6 +69,7 @@ east harling::village
 east hazel crest::village
 east hedleyhope::village
 east hodge::village
+easthorpe::village
 east hyde::village
 east india company:东印度公司
 east jorkhali::village
@@ -66,12 +77,19 @@ east knapton::village
 east langdon::village
 east law::village
 east lockinge::village
+eastman::village
 east marton::village
+eastnor::village
+easton in gordano::village
+easton royal::village
+easton::village
 east ord::village
 east palestine::village
 east pasuribania::village
 east prawle::village
 east quantoxhead::village
+eastrea::village
+eastrum::village
 east stoke::village
 east taphouse::village
 east texas::village
@@ -79,32 +97,12 @@ east troy::village
 east tuddenham::village
 east walton::village
 east worldham::village
-east:东
-eastbridge::village
-eastbury::village
-eastcombe::village
-easte::village
-easter compton::village
-easter:复活节
-easterlittens::village
-eastermar::village
-eastern:东方的
-easternijtsjerk::village
-eastgate::village
-easthorpe::village
-eastman::village
-eastnor::village
-easton in gordano::village
-easton royal::village
-easton::village
-eastrea::village
-eastrum::village
+easy:容易
 easy to find:容易找到
 easy to read:容易阅读
 easy to see:容易弄清楚
 easy to understand:容易理解
 easy to use:容易使用
-easy:容易
 eat:吃
 eater:食者
 eaters:食者
@@ -116,32 +114,20 @@ ebana::village
 ebavere::village
 ebba::village
 ebchester::village
-ebdal::village
 ebdalabad::village
+ebdal::village
 ebenweiler::village
-eber::village
-ebergötzen::village
 ebergőc::village
+ebergötzen::village
+eberhardtia aurata::plant
+eber::village
 ebes::village
 ebikro-n'dakro::village
 ebli-ye olya::village
 ebli-ye sofla::village
 ebola:埃博拉病毒
 eboué::village
-ebrahim ali::village
-ebrahim bay::village
-ebrahim beygi::village
-ebrahim beyglu::village
-ebrahim bur::village
-ebrahim hesari::village
-ebrahim hut bazar::village
-ebrahim kandi::village
-ebrahim khesar::village
-ebrahim sami::village
-ebrahim sara::village
-ebrahim::village
 ebrahimabad abu talab::village
-ebrahimabad, zahedan::village
 ebrahimabad-e bala jowayin::village
 ebrahimabad-e bala::village
 ebrahimabad-e beyg zadeh::village
@@ -159,26 +145,43 @@ ebrahimabad-e sofla::village
 ebrahimabad-e yek::village
 ebrahimabad-e zarduiyeh::village
 ebrahimabad::village
+ebrahimabad, zahedan::village
+ebrahim ali::village
+ebrahim bay::village
+ebrahim beygi::village
+ebrahim beyglu::village
+ebrahim bur::village
 ebrahimeh::village
+ebrahim hesari::village
+ebrahim hut bazar::village
 ebrahimi::village
+ebrahim kandi::village
+ebrahim khesar::village
+ebrahim sami::village
+ebrahim sara::village
+ebrahim::village
 ebrişim::village
 ebucesta::village
 eburru::village
+eçara::village
 eccup::village
 eceköy::village
 eceler::village
+e. chawngtui::village
 echimăuți::village
-echte::village
+echites umbellatus::plant
+echium virescens::plant
 echteld::village
 echten::village
+echte::village
 ecikler::village
-eck en wiel::village
 eckelrade::village
 eckelshausen::village
+eck en wiel::village
 ecliptic:黄道
 ecology:生态学
-economic collapse:经济崩溃
 economic:经济的
+economic collapse:经济崩溃
 economy:经济
 ecosphere:生态圈
 ecosystem:生态系统
@@ -214,15 +217,15 @@ edde::village
 eddington::village
 eddy:涡流
 eddyville::village
-ede urua::village
 edebuk::village
 edem ekpat::village
-eden::village
 edenryd::village
-edge::village
+eden::village
+ede urua::village
 edge:边
 edgehead::village
 edgerton::village
+edge::village
 edgmond::village
 ediba::village
 edible:可食的
@@ -256,23 +259,23 @@ edrino::village
 edrisi-ye olya::village
 edrisi-ye sofla::village
 edru::village
-education level:教育水平
 education:教育
+education level:教育水平
 educator:教师
 edulabad::village
 edulakunta::village
 edulavalasa::village
 edumudi::village
-edur::village
-eduru::village
 edurumondi::village
+eduru::village
+edur::village
 eduthanivayal::village
 edve::village
 edvin loach::village
 edward:爱德华
 edwardów::village
-edzell woods::village
 edzell::village
+edzell woods::village
 eede::village
 eedu::village
 eefde::village
@@ -280,34 +283,34 @@ eehongo::village
 eel:鳝鱼
 eelakolanu::village
 eelderwolde::village
-een::village
 eendragt::village
 eenigenburg::village
 eenrum::village
 eense::village
-eerde::village
+een::village
 eerdeent::village
+eerde::village
 eeriksaare::village
 eerikvere::village
 eerma::village
-ees::village
 eesergroen::village
 eeserveen::village
 eesküla::village
 eesnurga::village
+ees::village
 eethen::village
-eext::village
-eexterveen::village
 eexterveenschekanaal::village
-efe::village
+eexterveen::village
+eext::village
 efeler::village
 eferi::village
-effect:作用
-effect:影响
+efe::village
 effect:效果
+effect:影响
+effect:作用
 effective:有效的
-effia::village
 effiat mbioto::village
+effia::village
 efficacy:有效性
 efficient:高效的
 effutu::village
@@ -316,26 +319,31 @@ efoetsy::village
 efrem::village
 efreytor bakalovo::village
 eftekharabad::village
-egattur::village
 egaña::village
+egattur::village
 egbetab::village
 egbizum::village
 egbu::village
 egchel::village
+egerág::village
 egeralja::village
 egeraracsa::village
 egerbakta::village
 egerbocs::village
+eğerci::village
 egercsehi::village
 egerfarmos::village
+eğerlialören, kızılcahamam::village
+eğerlibaşköy, kızılcahamam::village
+eğerlidereköy, kızılcahamam::village
+eğerlikozören, kızılcahamam::village
 egerlövő::village
 egerton::village
 egervölgy::village
-egerág::village
-egg harbor::village
-egg:卵
 egg:蛋
+egg:卵
 egge::village
+egg harbor::village
 eggkleiva::village
 egglesburn::village
 eggleston::village
@@ -346,21 +354,26 @@ eglinton::village
 eglwys brewis::village
 egmond aan den hoef::village
 egmond-binnen::village
+eğner::village
 ego:自我
 egrek::village
 egri bughaz::village
+eğribük::village
+eğridere, yenipazar::village
+eğrikavak::village
+eğriköy, nallıhan::village
 egriqash::village
 egton bridge::village
 egumadurai::village
 eguvarpalayam::village
 egyed::village
-egyhazaskozar::village
 egyházasdengeleg::village
 egyházasfalu::village
 egyházasharaszti::village
 egyházashetye::village
 egyházashollós::village
 egyházaskesző::village
+egyhazaskozar::village
 egyházasrádóc::village
 egypt:埃及
 egyptian:埃及人
@@ -370,9 +383,9 @@ ehmja::village
 ehner::village
 ehsanabad::village
 ehsham::village
+eichstädt::village
 eichstetten::village
 eichstock::village
-eichstädt::village
 eidak::village
 eidbukta::village
 eide::village
@@ -381,35 +394,35 @@ eidi mordeh-ye pain::village
 eidsborg::village
 eidsbygda::village
 eidsfoss::village
+eidsvåg::village
 eidsvik::village
 eidsvoll verk::village
-eidsvåg::village
 eight:八
 eighteen:十八
 eighth:第八
 eighty:八十
 eiguliai::village
-eik::village
-eike::village
 eikeberg::village
 eikefjord::village
-eikeland::village
 eikelandsosen::village
+eikeland::village
 eiken::village
 eikerapen::village
+eike::village
 eikla::village
 eiksund::village
+eik::village
 eimhjellen::village
 eimuri::village
 eina::village
 einbi::village
 einstein:爱因斯坦
 eipri::village
+eisāgi::village
 eisenborn::village
 eisma::village
 eiste::village
 eistvere::village
-eisāgi::village
 eiteråga::village
 either:任一
 eito::village
@@ -433,10 +446,10 @@ ekenäs::village
 ekhtyiarabad-e do ziyarati::village
 ekiasha::village
 ekim-enen::village
-ekinci::village
 ekinciler::village
-ekinli::village
+ekinci::village
 ekinlik::village
+ekinli::village
 ekinova::village
 ekinshi beszhyldyq::village
 ekinveren::village
@@ -453,98 +466,41 @@ ekpene obom::village
 ekpene ukim::village
 ekpene ukpa::village
 ekpindi::village
-ekra sar::village
 ekrad::village
+ekra sar::village
 ekrukhe::village
 ektirli, karpuzlu::village
 ekwari::village
 ekwerazu ogwa::village
 ekzarh antimovo::village
-el algarrobal::village
-el arfji::village
-el azagador::village
-el barco::village
-el barka::village
-el beïda::village
-el bor::village
-el bour::village
-el campillo::village
-el carpio de tajo::village
-el carpio::village
-el casar de escalona::village
-el cerrito::village
-el cortijo::village
-el crucero::village
-el cuartón::village
-el dara::village
-el escorratel::village
-el ezzeiat::village
-el forn::village
-el golâa::village
-el har ihira::village
-el hedd::village
-el hur::village
-el khoubna::village
-el ksar::village
-el kulzom::village
-el lloar::village
-el maffa::village
-el magrun::village
-el masroig::village
-el mdou::village
-el menabha::village
-el mihan::village
-el montmell::village
-el morell::village
-el mozote::village
-el mudamiento::village
-el palau d'anglesola::village
-el palmar de vejer::village
-el pardal::village
-el paso::village
-el pelayo::village
-el pilar de la mola::village
-el pontón::village
-el portal::village
-el rasillo de cameros::village
-el redal::village
-el sahel bahari::village
-el salamuni::village
-el saler::village
-el salvador:萨尔瓦多
-el sena::village
-el soleràs::village
-el tarter::village
-el uweilia::village
-el vilar::village
-el villar de arnedo::village
-el vilosell::village
-elab::village
 elabad::village
 elaborate:精制的
+elab::village
 elackad::village
 elaia::village
 elaiochori::village
 elaiyur (east)::village
-elaiyur (west)::village
 elaiyur::village
+elaiyur (west)::village
 elaldı::village
+el algarrobal::village
 elaman::village
 elamaram::village
 elambal::village
 elamkadu::village
 elamkulam::village
-eland::village
 elandaikudam::village
 elandapatti::village
 elandurai::village
+eland::village
 elanthangudi::village
 elanthankuzhi::village
 elapeedika::village
 elappally::village
 elapse:流逝
-elapsed time:流逝的时间
 elapsed:流逝的
+elapsed time:流逝的时间
+el arfji::village
 elastic:弹性的
 elasticity:弹性
 elati::village
@@ -553,23 +509,38 @@ elavally::village
 elavur::village
 elayaperumalnallur::village
 elayiyeh::village
-elba::village
+el azagador::village
 elbaka::village
+el barco::village
+el barka::village
+elba::village
+elbeğendi::village
+el beïda::village
 elbersdorf::village
 elberta::village
 elbeyi::village
 elbeyli::village
-elbeğendi::village
-elbi::village
 elbiku::village
+elbi::village
+el bor::village
+el bour::village
 elbow:肘
-elbu::village
 elburn::village
+elbu::village
+el campillo::village
+el carpio de tajo::village
+el carpio::village
+el casar de escalona::village
+el cerrito::village
 elchesheim-illingen::village
+el cortijo::village
+el crucero::village
+el cuartón::village
+el dara::village
 eldelek::village
 elden::village
-eldere::village
 elderesi::village
+eldere::village
 elderon::village
 elderslie::village
 eldon lane::village
@@ -579,51 +550,58 @@ elduain::village
 elect:选举
 election:选举
 elective:选举的
-electoral district:选区
 electoral:选举的
+electoral district:选区
+electric:电的
+electrical engineering:电子工程
 electric charge:电荷
 electric circuit:电路
 electric current:电流
 electric field:电场
-electric:电的
-electrical engineering:电子工程
 electrode:电极
+electromagnetic:电磁的
 electromagnetic field:电磁场
 electromagnetic force:电磁力
-electromagnetic:电磁的
 electromagnetism:电磁学
-electron affinity:电子亲合性
 electron:电子
-electronic circuit:电路
+electron affinity:电子亲合性
 electronic:电子的
+electronic circuit:电路
 eledio::village
 eleftherochori::village
 elegance:优雅
-elemen::village
 element:元素
 elements:元素
+elemen::village
 elena::village
 elenov dol::village
 elenovo::village
 elentsite::village
 eleousa::village
 elephant:大象
-eles::village
+el escorratel::village
 eleshnitsa::village
-eleva::village
+eles::village
 elevation:海拔
+eleva::village
 elevci::village
 eleven:十一
 elewijt::village
-eley, Şereflikoçhisar::village
 eleyas::village
+eley, Şereflikoçhisar::village
 elezovići::village
+el ezzeiat::village
 elf:精灵
 elfora::village
+el forn::village
 elgazi::village
 elgiszewo::village
+el golâa::village
 elgsnes::village
 elhan::village
+el har ihira::village
+el hedd::village
+el hur::village
 elia::village
 elibalta::village
 elide:省略
@@ -632,28 +610,30 @@ elika::village
 eliki::village
 elikkattoor::village
 eliktekke::village
-elim::village
 eliminate:消除
+elim::village
 elingen::village
 elisabeth:伊丽莎白
 eliseina::village
 elistvere::village
 elit::village
 eliyathur::village
-elizabeth::village
 elizabeth:伊丽莎白
 elizabethtown::village
+elizabeth::village
 elizaveta::village
 elizewo::village
 elizówka::village
 elk creek::village
-elk grove village::village
-elk mound::village
 elkesley::village
+elk grove village::village
+el khoubna::village
+elk mound::village
+el ksar::village
 elkton::village
+el kulzom::village
 elkunde::village
 elkville::village
-ell::village
 ellakudy::village
 ellakvere::village
 ellamaa::village
@@ -669,60 +649,94 @@ ellinitsa::village
 ellinochori::village
 ellinopyrgos::village
 elliott::village
+ellipanthus beccarii::plant
+ellipanthus tomentosus::plant
 ellipse:椭圆
 ellipsis:省略号
-ellis grove::village
 ellisfield::village
+ellis grove::village
 ellisville::village
+el lloar::village
 elloughton::village
 ellsworth::village
-elm grove::village
+ell::village
 elmabad::village
 elmacık::village
 elmadalı::village
 elmadüzü::village
-elmakuzu::village
+el maffa::village
+el magrun::village
 elmaköy::village
+elmakuzu::village
 elmalı, Çamlıdere::village
-elmalı::village
 elmalık::village
+elmalı::village
 elmapınar::village
+el masroig::village
 elmayolu::village
 elmayurdu::village
 elmdon::village
+el mdou::village
+el menabha::village
+elm grove::village
+el mihan::village
 elmira::village
+el montmell::village
+el morell::village
 elmo::village
+el mozote::village
 elmstead market::village
+el mudamiento::village
 elmwood park::village
 elmwood::village
 elnora::village
 elogbatindi::village
 eloka::village
 elole::village
+elören, Çamlıdere::village
+előszállás::village
 elovitsa::village
 elovo::village
+el palau d'anglesola::village
+el palmar de vejer::village
+el pardal::village
+el paso::village
+el pelayo::village
 elphinstone::village
+el pilar de la mola::village
+el pontón::village
+el portal::village
 elqar::village
-els omellons::village
-els plans::village
-els torms::village
-els vilars d'engordany::village
+el rasillo de cameros::village
+el redal::village
+el sahel bahari::village
 elsah::village
+el salamuni::village
+el saler::village
+el salvador:萨尔瓦多
 elsecar::village
+el sena::village
 elsen::village
 elsewhere:其它地方
 elsfjord::village
 elshitsa::village
 elsie::village
 elsloo::village
+el soleràs::village
+els omellons::village
+els plans::village
 elsrickle::village
-elst::village
 elsthorpe::village
+els torms::village
+elst::village
+els vilars d'engordany::village
+el tarter::village
 elterwater::village
 eltonåsen::village
 eltz::village
 elucapalli::village
 eluvapalli::village
+el uweilia::village
 elvanlar, Çamlıdere::village
 elvanlar::village
 elvanlı::village
@@ -731,31 +745,36 @@ elvazlu::village
 elvenes::village
 elverdinge::village
 elvesæter::village
+el vilar::village
+el villar de arnedo::village
+el vilosell::village
 elvran::village
 elwood::village
 elworth::village
-elyas-e mahmud::village
 elyasabad::village
 elyasan::village
+elyas-e mahmud::village
+elyasi::village
 elyasi-ye ahmad::village
 elyasi-ye khalifeh hoseyn::village
 elyasi-ye saleh matta::village
-elyasi::village
 elyasvand-e olya::village
 elyasvand-e sofla::village
 elyatu::village
 elyerd::village
 elyria::village
 elzanowo::village
-elören, Çamlıdere::village
-előszállás::village
 elżbiecin::village
-em agaleh seyyed sabus::village
-emad avar::village
 emadabad::village
+emad avar::village
 emadiyeh-ye sofla::village
 emaft::village
+em agaleh seyyed sabus::village
 email:电子邮件
+emamabad, corrin::village
+emamabad-e sistaniha::village
+emamabad::village
+emamabad, zahedan::village
 emam abbas-e olya::village
 emam abbas-e sofla::village
 emam abdollah::village
@@ -763,35 +782,30 @@ emam chay::village
 emam cheshmeh::village
 emam darreh::village
 emam dasht::village
+emamdeh::village
+emam-e seh::village
 emam hasan-e olya::village
 emam hasan-e sofla::village
 emam hasan-e vasati::village
+emamiyeh-e olya::village
+emamiyeh-e sofla::village
+emamiyeh::village
+emamiyeh-ye yek::village
 emam kahriz::village
 emam kandi::village
 emam kola::village
 emam qaleh-ye olya::village
 emam qeys::village
+emamqoli kandi-ye olya::village
+emamqoli kandi-ye sofla::village
 emam qoli::village
+emamqoli::village
 emam reza::village
+emamrud::village
 emam safi::village
 emam taqi::village
 emam verdi::village
-emam zamin::village
-emam-e seh::village
 emam::village
-emamabad, corrin::village
-emamabad, zahedan::village
-emamabad-e sistaniha::village
-emamabad::village
-emamdeh::village
-emamiyeh-e olya::village
-emamiyeh-e sofla::village
-emamiyeh-ye yek::village
-emamiyeh::village
-emamqoli kandi-ye olya::village
-emamqoli kandi-ye sofla::village
-emamqoli::village
-emamrud::village
 emamzadeh abazar::village
 emamzadeh abbas::village
 emamzadeh abdallah::village
@@ -799,9 +813,9 @@ emamzadeh abdol aziz::village
 emamzadeh abdollah::village
 emamzadeh ala eddin::village
 emamzadeh ali akbar::village
+emamzadeh aliakbar::village
 emamzadeh ali panjeh si::village
 emamzadeh ali::village
-emamzadeh aliakbar::village
 emamzadeh aqil::village
 emamzadeh askar::village
 emamzadeh baba ahmad::village
@@ -847,29 +861,30 @@ emamzadeh shahzadeh abdollah::village
 emamzadeh shir mard::village
 emamzadeh taqi::village
 emamzadeh varcheh::village
+emamzadeh::village
+emamzadeh-ye bedeh::village
+emamzadeh-ye hoseyn asghar::village
+emamzadeh-ye seyyed ali::village
 emamzadeh yujan::village
 emamzadeh zaher::village
 emamzadeh zakaria::village
 emamzadeh zeyd::village
 emamzadeh zualfaqar::village
-emamzadeh-ye bedeh::village
-emamzadeh-ye hoseyn asghar::village
-emamzadeh-ye seyyed ali::village
-emamzadeh::village
 emamzamen::village
+emam zamin::village
+emanab::village
 eman ikot ebo::village
+emani::village
 eman ukpa::village
 eman::village
-emanab::village
-emani::village
-emarat::village
 emaratlui-ye olya::village
+emarat::village
 embarrass::village
 embassy:大使馆
 embedded:嵌入的
-embo::village
 embodies:表达
 embody:表达
+embo::village
 embroidery:刺绣
 embsay::village
 embūte::village
@@ -907,44 +922,44 @@ emmaste-kurisu::village
 emmaste-selja::village
 emmaste::village
 emmer-compascuum::village
-emmet::village
 emmett::village
+emmet::village
 emmington::village
-emmu::village
 emmuvere::village
-emo::village
+emmu::village
 emotion:情感
 emotional:情感的
+emo::village
 empalme olmos::village
-empe::village
 emperor:皇帝
+empe::village
 empingham::village
 empire:帝国
 employee:雇员
 employer:雇主
-empress::village
-empress:女皇
 empress:皇后
+empress:女皇
+empress::village
 empshott::village
 empty:空的
 emremsultan, nallıhan::village
 emst::village
 emumäe::village
 en:英语
-ena::village
 enable:激活
 enafors::village
-enam::village
 enampore::village
+enam::village
 enanallur::village
 enathi::village
+ena::village
 enayam::village
-enayat::village
 enayatabad::village
 enayati-ye bala::village
+enayatiyeh::village
 enayati-ye pain::village
 enayati-ye vasat::village
-enayatiyeh::village
+enayat::village
 enbekshi::village
 encapsulate:封装
 enchets::village
@@ -962,42 +977,42 @@ endla::village
 endometrium:子宫内膜
 endorphin:内啡肽
 endrefalva::village
-endroyi::village
 endrőc::village
+endroyi::village
 enebakkneset::village
 enemy:敌人
-energy::village
 energy:能量
+energy::village
 enese::village
-enev rat::village
 enevo::village
+enev rat::village
 enfield::village
 engage:忙碌
 engagement:婚约
 engan::village
-enge::village
 engelbert::village
 engelbrechtsmünster::village
 engelen::village
 engelsviken::village
 engesland::village
+enge::village
 engilchek::village
-engin::village
 engine:发动机
 engineer:工程师
 engineering:工程学
+engin::village
 engkuni::village
 england:英格兰
 englisberg::village
+english:英语
 english australians:英格兰裔澳大利亚人
 english poetry:英语诗歌
-english:英语
 engolasters::village
 engrave:雕刻
 engraving:雕刻
 enhancement:增强
-enivere::village
 enişdibi::village
+enivere::village
 enlarge:扩大
 enlist:参军
 enlistment:兵役
@@ -1008,10 +1023,9 @@ enndé::village
 enniskerry::village
 enno::village
 ennu::village
-eno-evong::village
 enodden::village
+eno-evong::village
 enough:足够的
-ens::village
 ensanche luperón::village
 enscherange::village
 enseliler::village
@@ -1019,18 +1033,19 @@ enslave:奴役
 enspijk::village
 ensue:随即发生
 ensuokwe::village
-entente:协约
+ens::village
 entença::village
-enter::village
+entente:协约
 enter:进入
-enterprise::village
 enterprise:企业
+enterprise::village
 entertainment:娱乐
+enter::village
 enthusiast:狂热的支持者
 enthusiastic:狂热的
 entire:整个的
-entirely up to you:完全取决于你
 entirely:整个地
+entirely up to you:完全取决于你
 entitle:叫做
 entity:实体
 entreat:恳求
@@ -1048,25 +1063,29 @@ enyovche::village
 eocypselus vincenti:文森特始雨燕
 eolia::village
 epanochori::village
-epe::village
-epen::village
+epçeler, nallıhan::village
 epenti::village
+epen::village
+epe::village
 ephemeral:短暂的
 ephraim::village
 epic:史诗
 epicho::village
 epilepsy:癫痫
-epileptic seizure:癫痫发作
 epileptic:癫痫的
+epileptic seizure:癫痫发作
 epinephrine:肾上腺素
+epipremnum dahlii::plant
+epipremnum falcifolium::plant
 episode:集
 epistemic:认知的
 epistemology:认知学
 epithelium:上皮
 eplény::village
+epöl::village
 epoxide:环氧化物
-epoxy resin:环氧树脂
 epoxy:环氧的
+epoxy resin:环氧树脂
 eppegem::village
 eppeland::village
 eppeldorf::village
@@ -1077,15 +1096,13 @@ eptagoneia::village
 eptakomi::village
 epuku::village
 epuru::village
-epçeler, nallıhan::village
-epöl::village
 eqbalabad-e sisakht::village
 eqbalabad::village
 eqbali::village
 eqbaliyeh::village
 eqreqayeh::village
-equality::village
 equality:平等
+equality::village
 equation:等式
 equatorial guinea:赤道几内亚
 equipment:设备
@@ -1096,11 +1113,11 @@ eraharam::village
 erajpally::village
 erala::village
 eralivayal::village
-eram sadat::village
-eram::village
 eramalloor::village
 erambu::village
+eram sadat::village
 eramudugolla::village
+eram::village
 erandoli::village
 eraposal::village
 erastvere::village
@@ -1114,22 +1131,55 @@ erbeyli::village
 erbsen::village
 erdal::village
 erdan::village
-erdem::village
 erdemli::village
+erdem::village
 erden::village
 erdőhorváti::village
 erdőkertes::village
 erdőkövesd::village
 erdőkürt::village
-erdősmecske::village
 erdősmárok::village
+erdősmecske::village
 erdőtelek::village
 erect:勃起的
-erectile dysfunction:勃起功能障碍
 erectile:勃起的
+erectile dysfunction:勃起功能障碍
 erection:勃起
 ereda::village
+eremaea asterocarpa::plant
+eremaea atala::plant
+eremaea beaufortioides::plant
+eremaea blackwelliana::plant
+eremaea brevifolia::plant
+eremaea'' × ''codonocarpa::plant
+eremaea dendroidea::plant
+eremaea ebracteata::plant
+eremaea ectadioclada::plant
+eremaea fimbriata::plant
+eremaea hadra::plant
+eremaea pauciflora::plant
+eremaea'' × ''phoenicea::plant
+eremaea purpurea::plant
+eremaea violacea::plant
 eremiya::village
+eremolaena humblotiana::plant
+eremolaena rotundifolia::plant
+eremophila accrescens::plant
+eremophila acrida::plant
+eremophila alatisepala::plant
+eremophila annosicaulis::plant
+eremophila arachnoides::plant
+eremophila arbuscula::plant
+eremophila arenaria::plant
+eremophila glabra'' subsp. ''albicans::plant
+eremophila glabra'' subsp. ''carnosa::plant
+eremophila glabra'' subsp. ''glabra::plant
+eremophila jucunda'' subsp. ''jucunda::plant
+eremophila jucunda'' subsp. ''pulcherrima::plant
+eremophila linsmithii::plant
+eremophila paisleyi::plant
+eremophila pterocarpa'' subsp. ''acicularis::plant
+eremophila pterocarpa'' subsp. ''pterocarpa::plant
 erenkaya::village
 erenköy::village
 erenler::village
@@ -1153,35 +1203,38 @@ erikliyayla::village
 erim::village
 erind::village
 erinpura::village
+eriochilus petricola::plant
+eriochilus scaber::plant
+eriophyllum staechadifolium::plant
 eripurakarai::village
 eritrea:厄立特里亚
 eriyur::village
 erja::village
-erk::village
 erkalkan::village
+erkeç::village
 erke-kashka::village
 erkent::village
-erkeç::village
 erkin-too::village
 erkoca::village
+erk::village
 erler::village
-erm::village
 erma reka::village
+erməni bazar::village
 ermistu::village
 ermoclia::village
-erməni bazar::village
+erm::village
 ernan::village
 ernestowo::village
 ernestynów::village
 ernody::village
+eroğlu::village
 erosion:浸蚀
 erotic:色情的
 erotica:色情作品
 erovete::village
-eroğlu::village
-erp::village
 erpeldange::village
 erps-kwerps::village
+erp::village
 erqut daham::village
 erra-liiva::village
 erramadu::village
@@ -1194,9 +1247,8 @@ ersfjordbotn::village
 ersi::village
 ertaq hajji::village
 ertinj::village
-erts::village
 ertsma::village
-eru::village
+erts::village
 erumalainaickenpatti::village
 erumbali::village
 erundirapatti::village
@@ -1205,36 +1257,40 @@ eruption:爆发
 eruptive:喷发
 eruvatty::village
 eruvessi::village
+eru::village
 ervat::village
 ervik::village
 ervita::village
 erwadi::village
 eryeri::village
+eryngium paniculatum::plant
 eryrys::village
+erythrina burttii::plant
+erythroxylum vaccinifolium::plant
 erzsébet::village
-es capdellà::village
 esanatham::village
 esas::village
 esau and jacob::village
 esbey::village
-esbu kola-ye karim kola::village
 esbu kola::village
+esbu kola-ye karim kola::village
 esbu mahalleh::village
 esbu::village
 escalate:上升
 escalation:上升
+es capdellà::village
 escape:逃脱
-esch::village
+escàs::village
 escharen::village
 escherichia coli:大肠杆菌
 eschette::village
+esch::village
 eschweiler::village
-escàs::village
 eseler::village
 esemen::village
-esen, bulgaria::village
-esen::village
 esenboğa, Çubuk::village
+esen, bulgaria::village
+esençay::village
 esence::village
 esendal::village
 esendere::village
@@ -1245,50 +1301,51 @@ esenköy, nazilli::village
 esenköy::village
 esenler, kızılcahamam::village
 esenler::village
-esenli::village
 esenlik::village
+esenli::village
 esenpınar, gazipaşa::village
 esentepe, nazilli::village
 esentepe::village
+esen::village
+eşen::village
 esenyaka::village
 esenyayla::village
 esenyurt, korkuteli::village
 esenyurt::village
-esençay::village
 esfad-e jadid::village
 esfaderan::village
 esfahak::village
-esfahan kalateh::village
 esfahanak-e abdol::village
 esfahanak-e moshai::village
 esfahanak-e olya::village
 esfahanak-e saki::village
 esfahanak-e sofla::village
 esfahanak::village
+esfahan kalateh::village
 esfahlan::village
 esfahran::village
 esfahrud::village
 esfajerd::village
 esfajin::village
 esfanaj::village
-esfand::village
 esfandabad::village
 esfandan::village
 esfandaran::village
 esfandian::village
+esfandiari::village
 esfandiar mahalleh::village
 esfandiar::village
-esfandiari::village
 esfandiyarsara::village
+esfand::village
 esfangareh::village
 esfanjan::village
 esfanjeh::village
 esfaqansar::village
 esfaranjan::village
 esfarjan::village
-esfeh::village
 esfehanak::village
 esfehanjiq::village
+esfeh::village
 esfejir::village
 esferanjan::village
 esferuj::village
@@ -1297,22 +1354,23 @@ esfestanaj::village
 esfezar::village
 esfian::village
 esfichar::village
-esfid::village
 esfidan::village
-esfin::village
+esfid::village
 esfina::village
+esfin::village
 esfivashi::village
 esfiz::village
 esfurin-e olya::village
 esfurin-e sofla::village
 esgairgeiliog::village
 eshakchi::village
-eshaq bazar::village
 eshaqabad::village
+eshaq bazar::village
 eshaqlu::village
 eshaqvand-e olya::village
 eshaqvand-e sofla::village
 eshera::village
+eshgaftak::village
 eshgaft-e baba mir::village
 eshgaft-e baraftab::village
 eshgaft-e jamushi::village
@@ -1323,36 +1381,35 @@ eshgaft-e mona::village
 eshgaft-e rumeh::village
 eshgaft-e tavileh::village
 eshgaft-e zard::village
-eshgaftak::village
 eshipur::village
-eshkaft gav mishi kuh sorkh::village
-eshkaft shah-e sofla::village
-eshkaft siah::village
+eshkaftan::village
 eshkaft-e dudar::village
 eshkaft-e olya gelal::village
 eshkaft-e qateri murzard::village
 eshkaft-e shiri::village
 eshkaft-e siah::village
-eshkaft::village
-eshkaftan::village
 eshkaftestan::village
+eshkaft gav mishi kuh sorkh::village
 eshkafti::village
+eshkaft shah-e sofla::village
+eshkaft siah::village
+eshkaft::village
 eshkalan::village
 eshkali avaz hoseyn::village
 eshkali mohammad hajji::village
 eshkali seyyedi::village
 eshkali zayer hoseyn::village
 eshkanuiyeh-ye olya::village
-eshkar kola::village
 eshkardasht::village
+eshkar kola::village
 eshkarlet::village
 eshkastegan::village
 eshkavand::village
 eshkelet::village
 eshkeri::village
 eshkhal::village
-eshki::village
 eshkik::village
+eshki::village
 eshkiyet::village
 eshkoftuiyeh::village
 eshkorab::village
@@ -1361,8 +1418,8 @@ eshkur::village
 eshman-e dehgah::village
 eshman-e kamachal::village
 eshmenan talem::village
-eshpala::village
 eshpalam::village
+eshpala::village
 eshqabad-e kohneh::village
 eshqabad::village
 eshqevan::village
@@ -1380,31 +1437,31 @@ esjil::village
 eskabon::village
 eskaleh-ye shahid rajai::village
 eskaman::village
-eskan::village
 eskanan::village
-eskand::village
 eskandan::village
-eskandar kola::village
-eskandar::village
 eskandarabad::village
+eskandari::village
 eskandari-ye baraftab::village
 eskandari-ye barmeyun::village
-eskandari::village
+eskandar kola::village
 eskandarlu::village
+eskandar::village
 eskandeh::village
-eskard::village
+eskand::village
+eskan::village
 eskardin::village
+eskard::village
 eskdale green::village
 eskeleh::village
 esker::village
-eski kâhta::village
 eskiarmutluk::village
-eskibalta::village
 eskibağ, gündoğmuş::village
 eskibağ::village
+eskibalta::village
 eskibel::village
 eskibeyrehatun::village
 eskice::village
+eskiçöte, Çubuk::village
 eskiemirler::village
 eskieymir::village
 eskigedik::village
@@ -1412,6 +1469,7 @@ eskihamidiye::village
 eskihamur::village
 eskihisar::village
 eskikabasakal::village
+eski kâhta::village
 eskikale::village
 eskikarsak, polatlı::village
 eskikavak::village
@@ -1422,39 +1480,27 @@ eskin-e olya::village
 eskin-e sofla::village
 eskin::village
 eskipolatlı, polatlı::village
+eskişehir::village
 eskivang::village
 eskiyol::village
 eskiyürük::village
-eskiçöte, Çubuk::village
-eskişehir::village
 eskolak::village
+eskug::village
 esku mahalleh::village
 esku::village
-eskug::village
 eslah-e boz-e korki animal husbandry station::village
-eslam kandi::village
-eslam mahalleh::village
-eslam qaleh::village
-eslam tappeh::village
 eslamabad (1)::village
 eslamabad (2)::village
 eslamabad barg beydi::village
-eslamabad gamasyab olya::village
-eslamabad gamasyab sofla::village
-eslamabad mohammad hoseyn::village
-eslamabad qanat shahbaz::village
-eslamabad, mirjaveh::village
-eslamabad, nosratabad::village
-eslamabad, zahedan::village
 eslamabad-e 21::village
 eslamabad-e arab::village
 eslamabad-e baba ahmad::village
 eslamabad-e bagh-e nar::village
 eslamabad-e bala::village
 eslamabad-e bezahrud::village
-eslamabad-e chah narenj::village
-eslamabad-e chah-e manj::village
 eslamabad-e chahar gavareh::village
+eslamabad-e chah-e manj::village
+eslamabad-e chah narenj::village
 eslamabad-e chehel cheshmeh::village
 eslamabad-e darshahi::village
 eslamabad-e darvish khanka::village
@@ -1492,58 +1538,72 @@ eslamabad-e tang seh riz::village
 eslamabad-e tang shib::village
 eslamabad-e tang sorkh::village
 eslamabad-e yek::village
+eslamabad gamasyab olya::village
+eslamabad gamasyab sofla::village
+eslamabad, mirjaveh::village
+eslamabad mohammad hoseyn::village
+eslamabad, nosratabad::village
+eslamabad qanat shahbaz::village
 eslamabad::village
+eslamabad, zahedan::village
 eslamdeh::village
 eslamiyeh::village
+eslam kandi::village
 eslamlu ayili::village
 eslamlu::village
+eslam mahalleh::village
 eslampanahabadi jadid::village
+eslam qaleh::village
+eslam tappeh::village
 eslemez::village
 esmaeelabad, mirjaveh::village
 esmaeelabad, nosratabad::village
 esmaeelabad, zahedan::village
+esmailabad-e gorji::village
+esmailabad-e moin::village
+esmailabad-e pain::village
+esmailabad shur qaleh-ye bala::village
+esmailabad shur qaleh-ye pain::village
+esmailabad::village
 esmail ali::village
-esmail aqa mahalleh::village
 esmail aqai::village
+esmail aqa mahalleh::village
 esmail bazar mahrek jamik::village
 esmail gavabar::village
+esmaili kandi::village
+esmaili olya::village
+esmaili::village
+esmailiyeh-ye do::village
+esmailiyeh-ye yek::village
+esmaili-ye olya::village
+esmaili-ye sofla::village
 esmail kahrizi::village
 esmail kal::village
+esmail kandi::village
 esmail kandi-ye do::village
 esmail kandi-ye yek::village
-esmail kandi::village
 esmail khan::village
 esmail kola-ye bozorg::village
 esmail kola-ye kuchek::village
 esmail mahalleh::village
 esmail sara::village
-esmailabad shur qaleh-ye bala::village
-esmailabad shur qaleh-ye pain::village
-esmailabad-e gorji::village
-esmailabad-e moin::village
-esmailabad-e pain::village
-esmailabad::village
-esmaili kandi::village
-esmaili olya::village
-esmaili-ye olya::village
-esmaili-ye sofla::village
-esmaili::village
-esmailiyeh-ye do::village
-esmailiyeh-ye yek::village
 esmatabad::village
+eşmedere::village
+eşmepınar::village
+eşme::village
 esmiabad::village
 esna::village
-espa::village
-espah::village
 espahabdan::village
 espahri::village
+espah::village
 espand::village
 espangun::village
 espart::village
 esparz::village
-espas::village
 espasuiyeh::village
+espas::village
 espatil::village
+espa::village
 especially:特别地
 espeh riz::village
 espeland::village
@@ -1553,20 +1613,21 @@ esperke::village
 esperley lane ends::village
 espetk-e hajji gholam::village
 espeyli::village
-espi kola-ye ramnet::village
-espi kola::village
-espi rud::village
-espiar-e molk::village
 espiarbon::village
-espid darbon::village
-espid::village
+espiar-e molk::village
 espidabad::village
 espidak::village
 espidar::village
+espid darbon::village
+espid::village
 espigan::village
+espi kola::village
+espi kola-ye ramnet::village
 espik::village
+espi rud::village
 espiyari::village
 esponellà::village
+espostoa frutescens::plant
 espre::village
 espu kola::village
 espurez::village
@@ -1574,7 +1635,6 @@ essential:必需的
 essig::village
 esslingen::village
 essu::village
-est::village
 establish:建立
 established:已建立的
 estabraq::village
@@ -1582,38 +1642,38 @@ estación rincón::village
 estadabad::village
 estahlak::village
 estahuiyeh::village
-estaj::village
 estajrud::village
-estak::village
-estakhr sar::village
+estaj::village
+estakhrak::village
 estakhr-e bijar::village
 estakhr-e garuk::village
 estakhr-e pahn::village
 estakhr-e posht::village
-estakhr::village
-estakhrak::village
 estakhrgah::village
 estakhrha::village
-estakhru::village
+estakhr sar::village
 estakhruiyeh::village
+estakhru::village
 estakhruyeh::village
+estakhr::village
+estak::village
 estalaj::village
-estalak::village
 estalakh jan::village
 estalakh kian::village
+estalak::village
 estalkh kuh::village
 estalkh zir::village
 estand::village
 estanest::village
-estar khu::village
 estarabad mahalleh::village
+estaràs::village
 estarband::village
 estarem::village
 estarj::village
-estark::village
 estarkhi::village
+estar khu::village
+estark::village
 estarm::village
-estaràs::village
 estas::village
 estehkam::village
 estehsar::village
@@ -1631,24 +1691,25 @@ estimate:估计
 estir::village
 estollo::village
 estonia:爱沙尼亚
-estonian:爱沙尼亚人
 estonian:爱沙尼亚的
+estonian:爱沙尼亚人
 estonian:爱沙尼亚语
 estral beach::village
 estuary:河口
 estunabad::village
 estunand::village
 estur::village
+est::village
 esuk inwang::village
 esuk odu::village
 eszteregnye::village
 esztergályhorváti::village
 etcherla::village
 etchinghill::village
-ete::village
 etebi idung-iwak::village
 etekli::village
 etes::village
+ete::village
 etezadiyeh::village
 ethanol:乙醇
 ether:醚
@@ -1679,13 +1740,21 @@ etyek::village
 etyemez::village
 etymology:词源
 etzenborn::village
+eucalyptus camphora::plant
 eukaryote:真核生物
 eukaryotic:真核的
+eumorphia prostrata::plant
+euonymus acuminifolius::plant
+euphrasia salisburgensis::plant
 euro:欧元
 europe:欧洲
 european:欧洲人
 eurozone:欧元区
+eustephieae::plant
 eustis::village
+euthamia occidentalis::plant
+euthemis leucocarpa::plant
+euthemis minor::plant
 evaluate:求值
 evaluation:求值
 evangelical:福音教的
@@ -1696,19 +1765,19 @@ evaporate:蒸发
 evaporation:汽化
 evard::village
 evat::village
-evci::village
 evciler::village
+evci::village
 eve:夏娃
 evedon::village
-even function:偶函数
-even if:即使
-even though i do not agree with them:尽管我不赞成他们
-even though:即使
 even:偶
 even:甚至
+even function:偶函数
+even if:即使
 evening:傍晚
 evenstad::village
 event:事件
+even though:即使
+even though i do not agree with them:尽管我不赞成他们
 evenwood::village
 ever:曾经
 everdon::village
@@ -1720,10 +1789,10 @@ eversen::village
 eversley centre::village
 eversley cross::village
 every:每一个
-everyone lied to me:所有人都骗我
 everyone:每个人
-everything you need to know:你所需要知道的一切
+everyone lied to me:所有人都骗我
 everything:一切
+everything you need to know:你所需要知道的一切
 everywhere:处处
 eveyikli::village
 evgeniko::village
@@ -1734,20 +1803,22 @@ evil:邪恶的
 evkafçiftliği::village
 evkuran::village
 evla::village
-evolution:进化
 evoğlu::village
-evren::village
+evolution:进化
 evrenleryavşı, manavgat::village
 evrenli::village
 evrenozovo::village
 evrenseki, manavgat::village
+evren::village
 evretou::village
 evrychou::village
 evsekler::village
+e-wall::village
 ewerby::village
 ewijk::village
 ewing::village
 ewo::village
+exaceae::plant
 exact:精确的
 example:例子
 exbury::village
@@ -1755,6 +1826,7 @@ excelsior estates::village
 excitating:令人兴奋的
 excitation:兴奋
 exclamation:感叹
+excoecaria parvifolia::plant
 execution:处决
 execution:执行
 executive:执行的
@@ -1769,29 +1841,30 @@ existing:现存的
 exit:退出
 exloo::village
 exmorra::village
+exocarpos longifolius::plant
 exochiko::village
 exometochi::village
-exotic animal:外来动物
 exotic:外来的
+exotic animal:外来动物
 expansion:扩张
 expect:期待
 expel:驱逐
 expensive:昂贵的
 experience:体验
 experiment:实验
-experimental mathematics:实验数学
 experimental:实验的
+experimental mathematics:实验数学
 expert:专家
-explain why:解释为什么
 explain:解释
 explains:解释
+explain why:解释为什么
 explanation:解释
 exploit:剥削
 exploitation:剥削
 exploration:探险
 explosion:爆炸
-exponential function:指数函数
 exponential:指数
+exponential function:指数函数
 export:导出
 expression:表达
 expressway:高速公路
@@ -1817,21 +1890,32 @@ eydarshan::village
 eydehavn::village
 eydlu::village
 eydu sohrab::village
-eye::village
 eye:眼睛
 eyeball:眼球
 eyebrow:眉毛
 eyelash:睫毛
 eyelid:眼皮
+eye::village
 eyfi::village
-eyl shirzadi::village
 eylaki-ye bala::village
 eylar::village
 eyleh-ye yek::village
+eyl shirzadi::village
 eymir, elmalı::village
+eymirli::village
 eymir, nallıhan::village
 eymir::village
-eymirli::village
+eynabad::village
+eynallah kandi::village
+eynatan::village
+eynatten::village
+eyn-e do::village
+eyn-e haddad::village
+eyn-e hammad::village
+eynehankuzviran::village
+eynelli::village
+eyn-e sheykh::village
+eyn-e yebareh::village
 eyn khvosh::village
 eyn korreh::village
 eyn molla::village
@@ -1842,29 +1926,19 @@ eyn ol qas::village
 eyn ol rrum::village
 eyn ol zaman::village
 eyn savleh::village
-eyn-e do::village
-eyn-e haddad::village
-eyn-e hammad::village
-eyn-e sheykh::village
-eyn-e yebareh::village
-eynabad::village
-eynallah kandi::village
-eynatan::village
-eynatten::village
-eynehankuzviran::village
-eynelli::village
 eyrecourt::village
 eyrgun::village
-eys::village
 eyshabad-e nizeh::village
 eyshabad::village
 eyshan::village
 eyshgeh::village
-eyvan estakhr::village
+eys::village
+eyüpoğlu::village
 eyvanabad::village
 eyvanak::village
-eyvand-e now::village
 eyvandar::village
+eyvand-e now::village
+eyvan estakhr::village
 eyvani::village
 eyvaq::village
 eyvaraq::village
@@ -1873,7 +1947,6 @@ eyvazallar::village
 eyvazlı::village
 eyvazxanbəyli::village
 eyzadiyeh::village
-eyüpoğlu::village
 ezabad::village
 ezatabad-e ghafariyeh::village
 ezbaram::village
@@ -1881,6 +1954,7 @@ ezbaran::village
 ezeoke nsu::village
 ezerani::village
 ezerets::village
+ežeriekai::village
 ezeriņi::village
 ezeroto::village
 ezerovo::village
@@ -1891,41 +1965,13 @@ eziran::village
 ezmareh-ye olya::village
 ezmareh-ye sofla::village
 eznabad::village
-eznav::village
 eznaveleh::village
-ezz od din::village
+eznav::village
 ezzabad::village
 ezzahabad::village
-ezzat ol din::village
-ezzat-e pain::village
-ezzat::village
 ezzatabad-e sharm dasht::village
 ezzatabad::village
-eçara::village
-eğerci::village
-eğerlialören, kızılcahamam::village
-eğerlibaşköy, kızılcahamam::village
-eğerlidereköy, kızılcahamam::village
-eğerlikozören, kızılcahamam::village
-eğner::village
-eğribük::village
-eğridere, yenipazar::village
-eğrikavak::village
-eğriköy, nallıhan::village
-eşen::village
-eşme::village
-eşmedere::village
-eşmepınar::village
-ežeriekai::village
-echium virescens::plant
-euthamia occidentalis::plant
-eriophyllum staechadifolium::plant
-eucalyptus camphora::plant
-erythrina burttii::plant
-erythroxylum vaccinifolium::plant
-eustephieae::plant
-exaceae::plant
-echites umbellatus::plant
-eryngium paniculatum::plant
-epipremnum dahlii::plant
-epipremnum falcifolium::plant
+ezzat-e pain::village
+ezzat ol din::village
+ezzat::village
+ezz od din::village

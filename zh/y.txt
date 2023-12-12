@@ -1,7 +1,5 @@
-y. ramavaram::village
-ya ali gavabar::village
-ya rud::village
 yaakro::village
+ya ali gavabar::village
 yabalcheni::village
 yabalchevo::village
 yabalkovo::village
@@ -37,12 +35,12 @@ yademan::village
 yadgarpally::village
 yadgud::village
 yadhghat::village
-yadi::village
 yadiki::village
 yadikparou::village
+yadi::village
 yadoga::village
-yadrav::village
 yadravi::village
+yadrav::village
 yadreh::village
 yadu bazar::village
 yadyanawadi::village
@@ -50,42 +48,52 @@ yaffo::village
 yafran::village
 yaganse::village
 yagantipalle::village
+yağca, döşemealtı::village
+yağcıhüseyin, kızılcahamam::village
+yağcılar::village
+yağcıoğlu, polatlı::village
+yağcı::village
+yağdere, sultanhisar::village
 yaggala::village
 yagh bastlu::village
-yagh kuh::village
 yaghdan::village
 yaghian::village
+yagh kuh::village
 yaghleh mazeh::village
 yaghli bolagh::village
 yaghmur ali::village
 yaghvasi::village
+yağlı::village
 yagma, burkina faso::village
+yağmurbaba, polatlı::village
+yağmurlu::village
+yağmur::village
 yagurg::village
-yahala::village
 yahalatenne::village
+yahala::village
 yahaletenna::village
-yahar::village
 yaharchi::village
 yaharlu::village
+yahar::village
 yahilnytsia::village
 yahinovo::village
 yahmul::village
-yahmur::village
 yahmureh-ye do::village
 yahmureh-ye seh::village
 yahmureh-ye yek::village
+yahmur::village
 yahn::village
-yahyaabad-e bala::village
-yahyaabad::village
 yahşelli::village
 yahşibey::village
 yahşihan, Çamlıdere::village
 yahşiler::village
+yahyaabad-e bala::village
+yahyaabad::village
 yaingangpokpi::village
 yajlu::village
-yaka::village
 yakabayat::village
 yakaboy::village
+yakaçiftlikköyü, elmalı::village
 yakacık::village
 yakadagoda::village
 yakademirciler::village
@@ -100,14 +108,14 @@ yakasinek::village
 yakassi::village
 yakatarla::village
 yakavarak::village
-yakaçiftlikköyü, elmalı::village
+yaka::village
 yakgahapitiya::village
-yakh kesh::village
-yakh kārēz::village
 yakhab::village
 yakhak::village
 yakhdan::village
 yakhfervazan::village
+yakh kārēz::village
+yakh kesh::village
 yakhmar::village
 yakhteh khan::village
 yakimovo::village
@@ -127,76 +135,75 @@ yakupabdal::village
 yakupderviş, kazan::village
 yakuphasan, Çubuk::village
 yakuplar::village
-yal boland::village
-yal dagarmani::village
-yal pirəhmədli::village
-yal qeshlaqi::village
-yal rud::village
-yala::village
 yalabad::village
 yalachigere::village
 yalagaung::village
-yalak::village
 yalaklu::village
+yalak::village
 yalal::village
 yalanchi::village
 yalankoz::village
 yalavadal::village
 yalavagi::village
+yala::village
 yalaz::village
 yalbandan-e sara::village
 yalbandan::village
+yal boland::village
 yalbotina::village
-yale::village
+yalçıdibi, manavgat::village
+yal dagarmani::village
 yalebail::village
 yalegoda::village
 yaleh gonbad::village
 yaleh qarshow::village
+yale::village
 yalfan::village
 yalgatinga::village
 yalghuz aghaj::village
 yali qurt::village
-yalka::village
-yalkaya::village
-yalkumbura::village
-yallammawadi::village
-yallapur::village
-yallapuram::village
-yalman::village
-yalmanlar::village
-yalnız::village
-yalnızbağ::village
-yalnızcabağ::village
-yalquz aghaj::village
-yalqışlaq::village
-yalu::village
-yalveh-ye olya::village
-yalveh-ye sofla::village
-yalynkuvate::village
-yalçıdibi, manavgat::village
 yalıköy::village
 yalınca::village
 yalındam::village
 yalınkaş::village
 yalınkuyu, nazilli::village
 yalınlıgediği, korkuteli::village
-yam cheshmeh::village
-yam::village
-yama::village
+yalka::village
+yalkaya::village
+yalkumbura::village
+yallammawadi::village
+yallapuram::village
+yallapur::village
+yalmanlar::village
+yalman::village
+yalnızbağ::village
+yalnızcabağ::village
+yalnız::village
+yal pirəhmədli::village
+yal qeshlaqi::village
+yalqışlaq::village
+yalquz aghaj::village
+yal rud::village
+yalu::village
+yalveh-ye olya::village
+yalveh-ye sofla::village
+yalynkuvate::village
+yamaçdere::village
 yamagarni::village
 yamak::village
+yamané, bam::village
 yamanlar::village
 yamanmulla::village
 yamanur::village
-yamané, bam::village
-yamaq::village
 yamaqan::village
-yamaçdere::village
+yamaq::village
+yama::village
 yambala koudouvele::village
 yambala::village
+yam cheshmeh::village
+yamchi::village
 yamchi-ye olya::village
 yamchi-ye sofla::village
-yamchi::village
 yaminan-e olya::village
 yaminan-e sofla::village
 yamino::village
@@ -205,24 +212,24 @@ yamn::village
 yampi::village
 yamrach::village
 yamut::village
-yan bolagh::village
-yan dasht-e bala::village
+yam::village
 yanalerik::village
 yanarsu::village
 yanarxac::village
 yanatlı::village
 yanaturmysh::village
 yanaz::village
-yanbolagh::village
+yanbolaghi::village
 yanbolaghi-ye olya::village
 yanbolaghi-ye sofla::village
-yanbolaghi::village
+yan bolagh::village
+yanbolagh::village
 yanbolaq::village
+yan dasht-e bala::village
 yanderanlu::village
 yandere::village
 yaneh sar::village
 yanesabad::village
-yang::village
 yanga::village
 yangi arakh::village
 yangijeh::village
@@ -231,71 +238,61 @@ yangou birolo::village
 yangou brindji::village
 yangou gala::village
 yangou gongo::village
-yangou ndarsa::village
 yangoulika::village
+yangou ndarsa::village
 yangrang::village
+yang::village
 yanino::village
+yanık, kızılcahamam::village
+yanıq Ələz::village
+yanıqpəyə::village
+yanışlı::village
 yankassia::village
 yankasso::village
 yankovo::village
 yankovtsi::village
 yanköy, serik::village
-yanlız, finike::village
 yanlızdam, elmalı::village
+yanlız, finike::village
 yanlızpınar, Şereflikoçhisar::village
 yanoba::village
 yanoshi::village
 yanovo::village
 yanpar::village
 yanqaq::village
+yanşaqbinə::village
+yanşaq::village
 yantra::village
 yanuq::village
 yanwath::village
 yanyurt::village
-yanık, kızılcahamam::village
-yanıq Ələz::village
-yanıqpəyə::village
-yanışlı::village
-yanşaq::village
-yanşaqbinə::village
 yaoghin::village
 yapagama::village
-yapal::village
-yapalaparvi::village
 yapağılı::village
+yapalaparvi::village
+yapal::village
+yapıntı::village
 yapolot::village
 yapoutando::village
 yapraklı, elmalı::village
 yapraklı::village
 yapraktepe::village
 yaputih::village
-yapıntı::village
 yaqin ali tappeh::village
+yaqubabad::village
 yaqub ali kandi::village
 yaqub bazar::village
-yaqub lengeh::village
-yaqub mahalleh::village
-yaqub zehi::village
-yaqubabad::village
 yaqubiyeh::village
+yaqub lengeh::village
 yaqublu::village
+yaqub mahalleh::village
 yaquboba::village
+yaqub zehi::village
 yaqul::village
 yaqush::village
 yaqutin-e jadid::village
-yar ahmadlu::village
-yar ali::village
-yar cheli::village
-yar hoseynabad::village
-yar kandi::village
-yar mohammad bazar::village
-yar mohammad-e alam::village
-yar mohammad-e kharut::village
-yar paqlu::village
-yar qoli beyg::village
-yar-e hoseyn::village
-yarabad mirbeyg::village
 yarabad-e olya::village
+yarabad mirbeyg::village
 yarabad::village
 yaradal::village
 yaradullu::village
@@ -306,21 +303,24 @@ yaragoppa::village
 yaraguddi::village
 yaragudri::village
 yaraguppi::village
+yar ahmadlu::village
+yar ali::village
 yarali-ye olya::village
 yarali-ye sofla::village
-yaralujeh::village
 yaralı, polatlı::village
+yaralujeh::village
 yaramale::village
 yaramushi::village
-yaran::village
 yarand::village
+yaran::village
 yarasm::village
 yarazari::village
 yarazarvi::village
 yaraziz::village
-yarbaşı::village
 yarbaşıçandırı, konyaaltı::village
+yarbaşı::village
 yarbolaghi::village
+yar cheli::village
 yard:码
 yardere::village
 yardibi::village
@@ -329,27 +329,34 @@ yardu sando::village
 yarebichna::village
 yarebitsa::village
 yarehanchinal::village
+yar-e hoseyn::village
 yarem qayah-e olya::village
 yarem qayah-e sofla::village
 yarem qayah-e vasat::village
 yarem tappeh::village
 yareshlaman::village
+yarəhmədli::village
 yargatti::village
 yargeleh::village
 yarghin::village
 yargo, kombissiri::village
-yari mahalleh::village
-yari::village
+yar hoseynabad::village
 yariabad::village
 yaribieh::village
 yaribudihal::village
 yarijan-e khaleseh::village
 yarijan-e olya::village
 yarijan-e sofla::village
+yari mahalleh::village
 yarim qayeh::village
 yarinarayanpur::village
 yarine::village
+yari::village
+yarımca::village
+yarımtepe::village
+yarışlı::village
 yarj::village
+yar kandi::village
 yarke::village
 yarkhill::village
 yarlagadda::village
@@ -357,36 +364,39 @@ yarlovo::village
 yarly::village
 yarmakaya::village
 yarmasu::village
+yar mohammad bazar::village
+yar mohammad-e alam::village
+yar mohammad-e kharut::village
 yarn:纺线
 yarnal::village
 yarnfield::village
 yarom gonbad::village
-yarom qayah::village
 yaromjeh bagh::village
+yarom qayah::village
+yar paqlu::village
 yarpole::village
 yarpur::village
-yarpuz::village
 yarpuzlu::village
+yarpuz::village
+yar qoli beyg::village
 yarti qaya::village
+ya rud::village
 yaruşağı::village
 yarvaliabad::village
 yarze::village
-yarımca::village
-yarımtepe::village
-yarışlı::village
-yarəhmədli::village
-yas chaman::village
-yas do chang::village
-yas tappeh::village
-yasan::village
 yasanampura::village
+yasan::village
 yasaqi::village
 yasaqleq::village
-yasar::village
 yasarat::village
+yaşaroğlu::village
+yasar::village
+yaşar::village
 yasavel::village
 yasavol::village
 yasbolagh::village
+yas chaman::village
+yas do chang::village
 yaseh chah::village
 yasel::village
 yasenite::village
@@ -399,18 +409,20 @@ yashma tretiy::village
 yashwantnagar::village
 yasi kand::village
 yasinabad::village
+yaşma::village
 yasna polyana::village
 yasnohorodka::village
-yassougou::village
-yassoumbaga::village
 yassıhüyük::village
 yassıören, kazan::village
+yassougou::village
+yassoumbaga::village
+yas tappeh::village
 yasti bolagh::village
 yasti bulagh::village
 yasti kand::village
 yasti qaleh::village
-yastreb::village
 yastıkköy::village
+yastreb::village
 yasur::village
 yasynets::village
 yasynivka::village
@@ -424,8 +436,8 @@ yatesbury::village
 yatigammana::village
 yatihalagala pallegama::village
 yatihalagala::village
-yatim aghli::village
 yatimadura::village
+yatim aghli::village
 yatipiyangala::village
 yatirawana::village
 yatiwawala::village
@@ -434,23 +446,23 @@ yatiwella::village
 yatolema::village
 yattakule::village
 yau yue wan village::village
-yavar kandi::village
 yavarabad::village
 yavari dayar::village
 yavari::village
+yavar kandi::village
 yavaşlar::village
-yavor::village
 yavorets::village
 yavornitsa::village
 yavorovo::village
-yavru::village
+yavor::village
 yavrucak::village
 yavrudoğan, manavgat::village
+yavru::village
 yavu, demre::village
-yavuz::village
 yavuzköy, köşk::village
 yavuzlar::village
 yavuzlu::village
+yavuz::village
 yawaka::village
 yawkasakrom::village
 yawpami::village
@@ -461,22 +473,22 @@ yaychi::village
 yaycı::village
 yaydere::village
 yayijilu::village
+yayıklı::village
 yaykın::village
-yayla::village
 yaylaalan, manavgat::village
 yaylabaşı::village
 yaylabeyi::village
 yaylacık::village
-yayladamı::village
 yayladağ::village
+yayladamı::village
 yayladibi::village
 yayladüzü::village
 yaylak, Çubuk::village
-yaylak::village
 yaylakent::village
+yaylakılıçlı, kaş::village
 yaylaköy, kuşadası::village
 yaylaköy::village
-yaylakılıçlı, kaş::village
+yaylak::village
 yaylalar::village
 yaylalı, kuyucak::village
 yaylanlı::village
@@ -484,43 +496,38 @@ yaylapalamut, kaş::village
 yaylapınar::village
 yaylasaray::village
 yaylatepe::village
+yayla::village
 yaylayolu::village
 yaylayurt::village
-yaylım::village
 yaylımlı::village
+yaylım::village
 yayman::village
 yayshahr::village
 yayvantepe::village
-yayıklı::village
-yaz galdi::village
-yaza::village
 yazab::village
 yazali::village
 yazan::village
+yaza::village
 yazbar::village
 yazdabad::village
-yazdan chah::village
-yazdan panah::village
-yazdan-e mahallah::village
-yazdan::village
 yazdanabad-e olya::village
 yazdanabad-e sharqi::village
 yazdanabad-e sofla::village
 yazdanabad::village
+yazdan chah::village
+yazdan-e mahallah::village
+yazdan panah::village
+yazdan::village
 yazdeh rud::village
 yazdekan::village
-yazdel::village
 yazdelan::village
+yazdel::village
 yazdgerd::village
 yazdu::village
 yazeli::village
+yaz galdi::village
 yazgeldi::village
 yazi bolaghi::village
-yazlovets::village
-yazlık::village
-yazman::village
-yaztyyel::village
-yazyurdu::village
 yazıbaşı::village
 yazıbeydili::village
 yazıca::village
@@ -529,34 +536,26 @@ yazıhan::village
 yazıkaya::village
 yazıköy::village
 yazılıkaya::village
+yazıören::village
 yazır, finike::village
 yazır, korkuteli::village
 yazır, kumluca::village
 yazır::village
 yazısöğüt::village
-yazıören::village
-yağca, döşemealtı::village
-yağcı::village
-yağcıhüseyin, kızılcahamam::village
-yağcılar::village
-yağcıoğlu, polatlı::village
-yağdere, sultanhisar::village
-yağlı::village
-yağmur::village
-yağmurbaba, polatlı::village
-yağmurlu::village
-yaşar::village
-yaşaroğlu::village
-yaşma::village
+yazlık::village
+yazlovets::village
+yazman::village
+yaztyyel::village
+yazyurdu::village
 ydrefors::village
-ye gavi::village
-year of birth:出生之年
-year of death:死亡之年
 year:年
 yearby::village
-years ago:年前
+year of birth:出生之年
+year of death:死亡之年
 years:年
+years ago:年前
 yeast:酵母
+yèbèlèla::village
 yebôk::village
 yeddanapudi::village
 yeddi bolagh::village
@@ -565,22 +564,24 @@ yedemachindra::village
 yedenipani::village
 yedi daraq::village
 yedigelli::village
-yedigöz::village
 yedigöze::village
+yedigöz::village
 yedikardeş::village
 yedioluk::village
+yediören, Çamlıdere::village
 yediyaprak::village
 yediyol::village
-yediören, Çamlıdere::village
 yedurulanka::village
 yegakor::village
 yeganeh mahalleh::village
 yeganeh::village
+ye gavi::village
 yegavi::village
-yegheg::village
+yeğenli::village
 yeghegis::village
 yeghegnavan::village
 yeghegnut::village
+yegheg::village
 yeghipatrush::village
 yeghnajur::village
 yeghnik::village
@@ -588,29 +589,26 @@ yegi::village
 yegyanzin::village
 yegyaw::village
 yehrezegi::village
-yek baghi::village
-yek borji::village
-yek dang::village
-yek dangeh::village
-yek jofti::village
-yek langi::village
-yek lengeh-ye olya::village
-yek lengeh::village
-yek muki::village
+yekanabad::village
 yekan-e kahriz::village
 yekan-e olya::village
 yekan-e sadi::village
-yekanabad::village
 yekaviyeh-ye do::village
 yekaviyeh-ye seh::village
 yekaviyeh-ye yek::village
+yek baghi::village
+yek borji::village
+yek dangeh::village
 yekdangi::village
+yek dang::village
 yekeh bagh::village
 yekeh chah::village
 yekeh sur::village
 yekeh tut::village
 yekhelqan::village
+yek jofti::village
 yekkeh bagh::village
+yekkehbagh::village
 yekkeh bid::village
 yekkeh chenar::village
 yekkeh pesteh::village
@@ -622,30 +620,35 @@ yekkeh soud-e sofla::village
 yekkeh tappeh::village
 yekkeh tut-e pain::village
 yekkeh tut::village
-yekkehbagh::village
+yek langi::village
 yekleh::village
+yek lengeh::village
+yek lengeh-ye olya::village
 yekmaleh-ye sofla::village
+yek muki::village
 yeknam::village
 yekshaveh::village
 yekvan::village
-yel cheshmeh-ye jadid::village
-yel cheshmeh-ye olya::village
-yel cheshmeh-ye sofla::village
 yelah qarshu::village
 yelalan::village
 yelase::village
 yelatan::village
 yelboulga::village
-yele::village
+yel cheshmeh-ye jadid::village
+yel cheshmeh-ye olya::village
+yel cheshmeh-ye sofla::village
+yèlèla::village
 yelesen::village
+yele::village
+yeləkəsən::village
 yelghol::village
 yeli bolagh::village
 yeli daraq-e olya::village
 yeli daraq-e sofla::village
-yeli-ye olya::village
-yeli-ye sofla::village
 yelihadalagi::village
 yelimunnoli::village
+yeli-ye olya::village
+yeli-ye sofla::village
 yeliyur::village
 yelkaya::village
 yelkenler::village
@@ -659,36 +662,36 @@ yellanki::village
 yellanur::village
 yellareddipet::village
 yelli badraq::village
-yelli::village
 yellibel::village
 yelliburun::village
+yellicedemirciler::village
 yellice, nazilli::village
 yellice::village
-yellicedemirciler::village
 yellicə::village
+yelli::village
 yellou::village
-yellow house::village
 yellow:黄色
+yellow house::village
 yellur::village
 yelpin::village
 yelpratti::village
 yelsui::village
 yelten, korkuteli::village
 yelujeh::village
-yeləkəsən::village
 yeman jeluq::village
 yemen:也门
 yemişli::village
 yenatha::village
 yendayar::village
 yenecik::village
-yenga::village
 yengabad-e chay::village
 yengabad-e kuh::village
+yenga::village
 yengeh hoseyn::village
-yengeh qaleh-ye havadanlu::village
 yengeh qaleh::village
+yengeh qaleh-ye havadanlu::village
 yengejah::village
+yengejeh::village
 yengejeh-ye daliganlu::village
 yengejeh-ye karafs::village
 yengejeh-ye kord::village
@@ -699,59 +702,58 @@ yengejeh-ye qeshlaq::village
 yengejeh-ye reza beyglu::village
 yengejeh-ye sadat::village
 yengejeh-ye yaranmish::village
-yengejeh::village
+yengiabad::village
 yengi arkh::village
 yengi esperan::village
+yengijeh::village
 yengi kahriz::village
 yengi kand-e jame ol sara::village
 yengi kand-e kandesaha::village
+yengikand-e khaneh-ye barq::village
+yengikand-e khusheh mehr::village
 yengi kand-e seyyedlar::village
-yengi kand::village
 yengi kandi::village
+yengi kand::village
+yengikand::village
 yengi molk::village
 yengi orkh::village
+yengi qaleh::village
 yengi qaleh-ye bala::village
 yengi qaleh-ye kasbair::village
 yengi qaleh-ye pain::village
 yengi qaleh-ye shahrak::village
-yengi qaleh::village
-yengiabad::village
-yengijeh::village
-yengikand-e khaneh-ye barq::village
-yengikand-e khusheh mehr::village
-yengikand::village
-yeni dereneci, kızılcahamam::village
-yeni qaralar::village
-yeni qazma::village
-yeni qızmeydan::village
 yenibahçe::village
 yenibardak::village
 yenibelkavak::village
 yenibeyrehatun::village
 yenibucak::village
 yenibudak::village
+yenice, Çubuk::village
 yenice, gündoğmuş::village
+yeniceli::village
 yenice, nallıhan::village
 yenice, polatlı::village
-yenice, Çubuk::village
 yenice::village
-yeniceli::village
 yenicə::village
 yenidal::village
 yenidam::village
+yeni dereneci, kızılcahamam::village
 yenidere::village
 yenidodurga::village
 yenidoğan, polatlı::village
 yenidoğan::village
 yenidumanlar, antalya::village
-yenigün::village
 yenigüney, gazipaşa::village
+yenigün::village
 yenihamidiye::village
 yenikapı::village
-yenikavak::village
 yenikaş::village
+yenikavak::village
 yenikend::village
 yenikent::village
+yenikənd::village
+yenikışla, kumluca::village
+yenikışla::village
 yenikonak::village
 yeniköprü::village
 yeniköseler, polatlı::village
@@ -762,23 +764,23 @@ yeniköy, kuşadası::village
 yeniköy, manavgat::village
 yeniköy, söke::village
 yeniköy::village
-yenikışla, kumluca::village
-yenikışla::village
-yenikənd::village
 yenilmez::village
 yenimehmetli, polatlı::village
 yenimurat::village
 yeniocak::village
 yenipelitcik::village
 yenipınar::village
+yeni qaralar::village
+yeni qazma::village
+yeni qızmeydan::village
 yenisefa::village
+yenişehitlik::village
 yeniyapan::village
 yeniyapar::village
 yeniyayla::village
+yeniyıldız::village
 yeniyol::village
 yeniyurt::village
-yeniyıldız::village
-yenişehitlik::village
 yenki kand-e mirza almasi::village
 yenkuy::village
 yenon::village
@@ -789,14 +791,16 @@ yeqeh::village
 yerad::village
 yerak::village
 yeranos::village
-yeraskh::village
 yeraskhahun::village
+yeraskh::village
 yerazgavors::village
 yerba-peulh::village
 yerdelen::village
 yerebakan::village
 yerek-mankunk::village
+yérétiélé::village
 yergatla::village
+yerği kek::village
 yergoya::village
 yerikoppa::village
 yerisiyeh::village
@@ -813,19 +817,44 @@ yerrobana palle::village
 yersleres::village
 yertula::village
 yerusalimovo::village
-yerği kek::village
 yes:是
 yesaqi::village
 yesemek::village
 yeserlu::village
 yesgaon::village
 yeshin::village
+yeşilbağ::village
+yeşilbahçe::village
+yeşilbaşköy::village
+yeşilbük::village
+yeşilburç::village
+yeşilçam::village
+yeşilçat::village
+yeşilçay::village
+yeşildere::village
+yeşilhisar::village
+yeşilkent::village
+yeşilköy::village
+yeşiller::village
+yeşiloba::village
+yeşilören::village
+yeşilova::village
+yeşilöz::village
+yeşilpınar::village
+yeşiltaş::village
+yeşiltepe::village
+yeşiltömek::village
+yeşilvadi::village
+yeşilyaka::village
+yeşilyayla::village
+yeşilyazı::village
+yeşilyurt::village
 yesterday:昨天
 yet:还
 yetholme::village
 yeti gadda kistapur::village
-yeti::village
 yetimli::village
+yeti::village
 yetkinler::village
 yetlington::village
 yettinkeri::village
@@ -836,63 +865,44 @@ yevlaq::village
 yewai::village
 yewlashy::village
 yeyera::village
-yeylaq marshun::village
 yeylaq-e viznah::village
-yeylaq::village
 yeylaqi-ye darestan::village
 yeylaqi-ye lakeh::village
+yeylaq marshun::village
+yeylaq::village
 yeznabad::village
-yeğenli::village
-yeşilbahçe::village
-yeşilbağ::village
-yeşilbaşköy::village
-yeşilburç::village
-yeşilbük::village
-yeşildere::village
-yeşilhisar::village
-yeşilkent::village
-yeşilköy::village
-yeşiller::village
-yeşiloba::village
-yeşilova::village
-yeşilpınar::village
-yeşiltaş::village
-yeşiltepe::village
-yeşiltömek::village
-yeşilvadi::village
-yeşilyaka::village
-yeşilyayla::village
-yeşilyazı::village
-yeşilyurt::village
-yeşilçam::village
-yeşilçat::village
-yeşilçay::village
-yeşilören::village
-yeşilöz::village
 ygre::village
+yiğitbaşı::village
+yiğitler::village
+yiğitpınarı::village
 yilqan darreh::village
-yin kong::village
 yinchyingpa::village
 yindam::village
 ying pun::village
+yin kong::village
 yinsinbingba::village
 yisi mahalleh::village
 yitiman::village
 yitimu::village
 yizhivtsi::village
-yiğitbaşı::village
-yiğitler::village
-yiğitpınarı::village
+yılankale::village
+yılanlı::village
+yıldızköy::village
+yıldızlı::village
+yıldız::village
+yılmazköy::village
+yılmaz::village
+yıprak::village
 ylay-talaa::village
-yli::village
 ylinen kassa::village
+yli::village
 ynysforgan::village
 ynystawe::village
 ynyswen::village
 ynysybwl::village
 yoar::village
-yoba::village
 yobareh::village
+yoba::village
 yobouakro::village
 yockleton::village
 yodagannawa::village
@@ -900,18 +910,20 @@ yoga:瑜伽
 yoganayagipuram::village
 yoghurt:酸奶
 yoglav::village
+yoğunpelit::village
 yogurt:酸奶
 yoheysheh::village
 yohmor::village
 yokoréa::village
 yokouma::village
 yokuşlu::village
+yolağzı::village
 yolaltı::village
 yolayrıc::village
-yolağzı::village
 yolbaşı::village
 yolbilen::village
 yolboyu::village
+yolçatı::village
 yoldere::village
 yoldüzü::village
 yolgeçen::village
@@ -925,21 +937,21 @@ yolpınar::village
 yolqullar::village
 yolqun aghaj::village
 yoluklar::village
-yolveren::village
-yolçatı::village
 yolüstü::village
+yolveren::village
 yombo::village
 yombuweltenna::village
 yompana::village
 yomuq::village
 yona::village
-yoncalı::village
 yoncalık::village
+yoncalı::village
 yoncatepe::village
 yonchovo::village
 yondaung::village
 yonpane::village
 yoourédoula::village
+yordaneshty::village
 yord-e anjir::village
 yord-e basravi::village
 yord-e jamal::village
@@ -947,11 +959,11 @@ yord-e khalaf::village
 yord-e khordu::village
 yord-e kukherdi::village
 yord-e qasemali::village
-yordaneshty::village
 york:约克
 yorkley::village
 yorkville::village
 yoroko-peulh::village
+yörük::village
 yosht::village
 yosypivka::village
 you:你
@@ -968,19 +980,19 @@ young:年轻的
 youngou-peulh::village
 younora::village
 your:你的
-youth club:青年俱乐部
 youth:花季
+youth club:青年俱乐部
 yovkovo::village
 yovon::village
 yovovtsi::village
 yowlqonluy-e jadid::village
 yowlqonluy-e qadim::village
-yowrqanlu-ye janizeh::village
 yowrqanlu::village
+yowrqanlu-ye janizeh::village
 yoxford::village
 yozghand::village
-yoğunpelit::village
 ypecolsga::village
+y. ramavaram::village
 yrke::village
 yrozon::village
 yrshek::village
@@ -997,6 +1009,10 @@ yttrium:钇
 yuanjia'ao::village
 yuba::village
 yubeh::village
+yucca baileyi::plant
+yücebağ::village
+yücehisar::village
+yüce::village
 yue kok::village
 yuen kong san tsuen::village
 yuen kong tsuen::village
@@ -1004,20 +1020,20 @@ yuen tun tsuen::village
 yuj::village
 yukarıbalcılar::village
 yukarıboğaz::village
-yukarıdere::village
-yukarıdurak::village
-yukarıkartallı::village
-yukarıkuluşağı::village
-yukarıkuyucak::village
-yukarıköselerli::village
-yukarıovacık::village
-yukarısöğütlü::village
-yukarıyenice::village
-yukarıyeniköy::village
 yukarıçamlı::village
 yukarıçamurdere::village
 yukarıçaylı::village
+yukarıdere::village
+yukarıdurak::village
+yukarıkartallı::village
+yukarıköselerli::village
+yukarıkuluşağı::village
+yukarıkuyucak::village
+yukarıovacık::village
 yukarışahinler::village
+yukarısöğütlü::village
+yukarıyenice::village
+yukarıyeniköy::village
 yukhan::village
 yukhary bugur::village
 yukhary dzhalgan::village
@@ -1025,6 +1041,8 @@ yukhary karasakkal::village
 yukhary leninabad::village
 yukhary myulkyulyu::village
 yukhary-uchkovakh::village
+yüksekören::village
+yüksel::village
 yumaklar::village
 yumaklı::village
 yumberry:杨梅
@@ -1033,12 +1051,12 @@ yumruca::village
 yumrucuk::village
 yumrukaya::village
 yumrutaş::village
-yunak::village
 yunaki::village
+yunak::village
 yunatsi::village
-yunes::village
 yunesabad::village
 yuneslu::village
+yunes::village
 yunjaliq::village
 yunjalu::village
 yunjeh char::village
@@ -1046,24 +1064,27 @@ yunji::village
 yunusköy::village
 yunuslar::village
 yunusoğlu::village
-yur mahalleh::village
 yurd chupan::village
 yurd dasht-e zalzaleh::village
-yurd sukhteh::village
 yurd-e shad::village
 yurdhai-ye abdol yusefi::village
 yurdhai-ye miraki::village
+yurd sukhteh::village
+yüreğil::village
+yürekkaya::village
+yürekli::village
+yur mahalleh::village
 yurqol::village
 yurqunabad-e olya::village
 yurqunabad-e sofla::village
 yurre::village
 yursiah-e kola mahalleh::village
-yurt-e kazem::village
-yurt-e zeynal::village
 yurtbaşı::village
 yurtbekler::village
 yurtbeyi::village
 yurtderi::village
+yurt-e kazem::village
+yurt-e zeynal::village
 yurtga::village
 yurtsever::village
 yurtyenice::village
@@ -1071,13 +1092,6 @@ yurukovo::village
 yuryevka::village
 yusafpur allewal::village
 yusafpur darewal::village
-yusef deh::village
-yusef gol::village
-yusef kandi::village
-yusef khan::village
-yusef mahalleh::village
-yusef zehi::village
-yusef-e eslam::village
 yusefabad cham chal::village
 yusefabad-e abdolmeni::village
 yusefabad-e bam::village
@@ -1088,30 +1102,37 @@ yusefabad-e salar::village
 yusefabad-e shah mirza kandi::village
 yusefabad-e tudak::village
 yusefabad::village
+yusef deh::village
+yusef-e eslam::village
+yusef gol::village
 yusefi::village
+yusef kandi::village
 yusefkhan kandi::village
+yusef khan::village
 yuseflu::village
-yush::village
+yusef mahalleh::village
+yusef zehi::village
 yushanlu::village
 yushu::village
+yush::village
 yusifbəyli::village
 yusifcanlı::village
-yusifli::village
 yusiflər::village
-yusof kandi::village
-yusof zehi::village
+yusifli::village
 yusofabad::village
 yusofjerd::village
+yusof kandi::village
 yusoflu::village
+yusof zehi::village
 yusuf bayk::village
 yusufhona::village
 yusufkuyusu::village
-yuva::village
 yuvaca::village
 yuvacık::village
 yuvalar::village
 yuvalı::village
 yuvan::village
+yuva::village
 yuwak::village
 yuwan::village
 yuxarı amburdərə::village
@@ -1123,14 +1144,15 @@ yuxarı bradi::village
 yuxarı bucaq::village
 yuxarı cibikli::village
 yuxarı digah::village
+yuxarı Əbdürrəhmanlı::village
 yuxarı fərəcan::village
-yuxarı güzlək::village
 yuxarı gəyəli::village
+yuxarı güzlək::village
 yuxarı ləki::village
 yuxarı maralyan::village
-yuxarı mollu::village
 yuxarı mərcanlı::village
 yuxarı məzrə::village
+yuxarı mollu::village
 yuxarı nüsüs::village
 yuxarı qaradağlı::village
 yuxarı qaragüvəndli::village
@@ -1138,20 +1160,19 @@ yuxarı qolqəti::village
 yuxarı rəfədinli::village
 yuxarı salamabad::village
 yuxarı seyidəhmədli::village
+yuxarı Şurtan::village
 yuxarı veysəlli::village
 yuxarı xocamsaqlı::village
 yuxarı yeməzli::village
-yuxarı Şurtan::village
-yuxarı Əbdürrəhmanlı::village
-yuz bashi::village
 yuzband::village
-yuzbash kandi::village
-yuzbash mahallehsi::village
 yuzbashevan::village
 yuzbashi chay::village
 yuzbashi kandi::village
 yuzbashilar::village
+yuz bashi::village
+yuzbash kandi::village
 yuzbashlu::village
+yuzbash mahallehsi::village
 yuzhenan::village
 yuzhynets::village
 yuzidar::village
@@ -1160,25 +1181,5 @@ yuzurihara::village
 ywaba::village
 ywadanshe::village
 ywatha::village
-ywathit::village
 ywathitkon::village
-yèbèlèla::village
-yèlèla::village
-yérétiélé::village
-yörük::village
-yüce::village
-yücebağ::village
-yücehisar::village
-yüksekören::village
-yüksel::village
-yürekkaya::village
-yürekli::village
-yüreğil::village
-yılankale::village
-yılanlı::village
-yıldız::village
-yıldızköy::village
-yıldızlı::village
-yılmaz::village
-yılmazköy::village
-yıprak::village
+ywathit::village

@@ -1,3 +1,5 @@
+i:我
+iaf camp::village
 i agree with you:我赞同你
 i am crazy:我疯了
 i am exhausted:我已经筋疲力尽了
@@ -10,83 +12,16 @@ i am sorry:对不起
 i am terrified:我被吓到了
 i am tired:我累了
 i asked:我问道
-i believe you:我相信你
-i do not believe this:我不相信这个
-i do not believe you:我不相信你
-i do not blame you for being a scumbag:我不责备你成为一个小人
-i do not buy it:我不相信
-i do not care if you believe me:我不关心你是否相信我
-i do not care:我不在乎
-i do not even know what that means:我甚至不知道那意味着什么
-i do not even know why:我甚至不知道为什么
-i do not even know you:我甚至不认识你
-i do not even wanna:我甚至不想
-i do not ever say:我不曾说
-i do not fear you:我不怕你
-i do not give a shit:
-i do not have time for this shit:我没时间耗在这堆屎上
-i do not have time to explain:我没时间解释
-i do not have to ask him anything:我不必问他任何事情
-i do not know how to say this:我不知道怎么开口
-i do not know what to say:我不知道该说什么了
-i do not know who you are:我不知道你是谁
-i do not know why:我不知道为什么
-i do not know:我不知道
-i do not like it:我不喜欢它
-i do not like to repeat myself:我不喜欢重复我的话
-i do not mind:我不介意
-i do not need this:我不需要这个
-i do not need you to tell me who i am:我不需要你来告诉我我是谁
-i do not really have the fear of death:我真的不惧死亡
-i do not regret what i have done:我不后悔我所做的
-i do not think he should:我不认为他应该
-i do not think i can:我不认为我能
-i do not think i should:我不认为我应该
-i do not think it should:我不认为它应该
-i do not think people should:我不认为人们应该
-i do not think she should:我不认为她应该
-i do not think so:我不这样认为
-i do not think that should be a problem:我不认为那会成为一个问题
-i do not think they should:我不认为他们应该
-i do not think we should:我不认为我们应该
-i do not think you should:我不认为你应该
-i do not think you understand me:我不认为你懂我
-i do not think:我不认为
-i do not trust anyone:我不信任任何人
-i do not understand you guys at all:我一点都不懂你们这些家伙
-i do not understand:我不明白
-i do not wanna do this:我不想这样做
-i do not want to die:我不想死
-i do what i like to do:我喜欢做什么就做什么
-i have a better idea:我有一个更好的主意
-i have no choice:我没得选
-i have to talk to you:我得和你谈谈
-i hope you are ready:我希望你准备好了
-i hope you:我希望你
-i just do not want anybody:我只是不想任何人
-i know nothing:我什么都不知道
-i know:我知道
-i lied to you:我骗了你
-i love you:我爱你
-i mean it:我是认真的
-i miss you:我想你了
-i need to know:我需要知道
-i promise:我保证
-i remember:我记得
-i said:我说道
-i will be back:我会回来的
-i will repeat what i said one more time:我再次重复我所说的
-i will see what i can do:我来看看我能做什么
-i will see what i can find:我来看看我能发现什么
-i:我
-iaf camp::village
 iatan::village
 ibach::village
 ibban::village
+ibë e poshtme::village
+i believe you:我相信你
 ibenda::village
+ibë::village
 ibhadpada::village
-ibi, burkina faso::village
 ibiaku uruan::village
+ibi, burkina faso::village
 ibieca::village
 ibikpe::village
 ibim::village
@@ -102,24 +37,22 @@ ibrahimwal tarf arshad khan::village
 ibro::village
 ibsley::village
 ibthorpe::village
-ibë e poshtme::village
-ibë::village
 icche gaon::village
+ice:冰
+iceberg:冰山
 ice cream:冰淇淋
 ice cube:冰块
 ice cubes:冰块
 ice field:冰地
+icefield:冰地
 ice hockey:冰球
+iceland:冰岛
 ice sheet:冰原
 ice skates:溜冰鞋
 ice water:冰水
-ice:冰
-iceberg:冰山
-icefield:冰地
-iceland:冰岛
 ichagarh::village
-ichak::village
 ichake::village
+ichak::village
 ichangoor::village
 ichauli::village
 ichhi::village
@@ -132,14 +65,13 @@ ickesburg::village
 icomb::village
 icon:图标
 id:标识符
-ida::village
 idaerd::village
 idagal::village
 idah lik::village
-idahlu-ye khalifeh::village
-idahlu-ye khan::village
 idahlu::village
 idahluy-e bozorg::village
+idahlu-ye khalifeh::village
+idahlu-ye khan::village
 idahluy-e kuchek::village
 idalhond::village
 idamagama::village
@@ -148,8 +80,8 @@ idamelanda::village
 idanha-a-velha::village
 idaotsa::village
 idavere::village
+ida::village
 idbar::village
-ide::village
 idea:主意
 ideal:理想的
 ideford::village
@@ -158,9 +90,10 @@ ideluy-e olya::village
 ideluy-e sofla::village
 identifier:标识符
 ideology:意识形态
+ide::village
 idfa::village
-idi guz::village
 idigh::village
+idi guz::village
 idilevo::village
 idim afia::village
 idin::village
@@ -174,14 +107,62 @@ idol:神像
 idole::village
 idomi::village
 idongo::village
+i do not believe this:我不相信这个
+i do not believe you:我不相信你
+i do not blame you for being a scumbag:我不责备你成为一个小人
+i do not buy it:我不相信
+i do not care:我不在乎
+i do not care if you believe me:我不关心你是否相信我
+i do not even know what that means:我甚至不知道那意味着什么
+i do not even know why:我甚至不知道为什么
+i do not even know you:我甚至不认识你
+i do not even wanna:我甚至不想
+i do not ever say:我不曾说
+i do not fear you:我不怕你
+i do not give a shit:
+i do not have time for this shit:我没时间耗在这堆屎上
+i do not have time to explain:我没时间解释
+i do not have to ask him anything:我不必问他任何事情
+i do not know:我不知道
+i do not know how to say this:我不知道怎么开口
+i do not know what to say:我不知道该说什么了
+i do not know who you are:我不知道你是谁
+i do not know why:我不知道为什么
+i do not like it:我不喜欢它
+i do not like to repeat myself:我不喜欢重复我的话
+i do not mind:我不介意
+i do not need this:我不需要这个
+i do not need you to tell me who i am:我不需要你来告诉我我是谁
+i do not really have the fear of death:我真的不惧死亡
+i do not regret what i have done:我不后悔我所做的
+i do not think:我不认为
+i do not think he should:我不认为他应该
+i do not think i can:我不认为我能
+i do not think i should:我不认为我应该
+i do not think it should:我不认为它应该
+i do not think people should:我不认为人们应该
+i do not think she should:我不认为她应该
+i do not think so:我不这样认为
+i do not think that should be a problem:我不认为那会成为一个问题
+i do not think they should:我不认为他们应该
+i do not think we should:我不认为我们应该
+i do not think you should:我不认为你应该
+i do not think you understand me:我不认为你懂我
+i do not trust anyone:我不信任任何人
+i do not understand:我不明白
+i do not understand you guys at all:我一点都不懂你们这些家伙
+i do not wanna do this:我不想这样做
+i do not want to die:我不想死
 idool::village
+iđoš::village
+i do what i like to do:我喜欢做什么就做什么
 idridgehay::village
 idsegahuizum::village
 idstedt::village
-idu::village
 idung enen uso::village
 idung imo::village
 idung udo::village
+idu::village
 iduyeh::village
 idvor::village
 idzików::village
@@ -199,24 +180,25 @@ igavere::village
 igder-e olya::village
 igder-e sofla::village
 igdir::village
+iğdır::village
 igea::village
 igelsberg::village
 igevere::village
 ightham::village
 iginniarfik::village
+iglène::village
 igliauka::village
 igliczyzna::village
 iglika::village
-iglène::village
 ignacewo::village
 ignackowo::village
 ignalin::village
 ignase::village
+ignăței::village
 ignatovo::village
 ignatovtsi::village
 ignatówka::village
 ignore:忽略
-ignăței::village
 igoeti::village
 igondéga::village
 igoo::village
@@ -227,28 +209,34 @@ ihagama::village
 ihaladiggala::village
 ihalagama niyangama::village
 ihalakande bavulana::village
-iharos::village
 iharosberény::village
+iharos::village
 ihasalu::village
+i have a better idea:我有一个更好的主意
+i have no choice:我没得选
+i have to talk to you:我得和你谈谈
 iherir::village
 ihite::village
 ihitte ogwa::village
 ihlamurlu::village
 ihn::village
+i hope you:我希望你
+i hope you are ready:我希望你准备好了
 iia::village
 iide::village
 iihongo::village
 iikhlas::village
-iila::village
 iilaste::village
+iila::village
 iileh::village
 iira::village
-ij::village
 ijagiri::village
 ijani::village
-ijdan::village
 ijdanak::village
+ijdan::village
 ijhorst::village
+i just do not want anybody:我只是不想任何人
+ij::village
 ijzendoorn::village
 ikalto::village
 ikanga::village
@@ -259,11 +247,13 @@ ikerasaarsuk::village
 ikerasak::village
 ikervár::village
 ikhar::village
-ikla::village
 iklad::village
 iklanberény::village
+ikla::village
 iklin::village
 iklódbördőce::village
+i know:我知道
+i know nothing:我什么都不知道
 iko ekwa::village
 ikoga::village
 ikokoueni::village
@@ -273,9 +263,9 @@ ikornnes::village
 ikot afaha::village
 ikot akan::village
 ikot akata::village
-ikot akpa esa::village
-ikot akpa-ekang::village
 ikot akpabio::village
+ikot akpa-ekang::village
+ikot akpa esa::village
 ikot akpan ese::village
 ikot akpan obio eket::village
 ikot akpanya::village
@@ -285,21 +275,21 @@ ikot eba::village
 ikot ebiyak::village
 ikot ebiyan::village
 ikot ebo::village
-ikot ekan::village
 ikot ekang::village
+ikot ekan::village
 ikot ekid::village
 ikot ekot::village
 ikot ekpo okon::village
-ikot ese::village
 ikot esen oku::village
+ikot ese::village
 ikot esua::village
 ikot etakpo::village
 ikot etor::village
 ikot ibiok::village
 ikot ikpa::village
 ikot ikpuho::village
-ikot inyang osom::village
 ikot inyang-idung::village
+ikot inyang osom::village
 ikot inyang::village
 ikot isong::village
 ikot itina::village
@@ -312,92 +302,102 @@ ikot nte::village
 ikot obio ata::village
 ikot obio eka::village
 ikot obio inyang::village
-ikot obio::village
 ikot obioro::village
+ikot obio::village
 ikot odiong::village
 ikot okudom::village
 ikot onwon ediene::village
 ikot otoinye::village
 ikot udo abia::village
 ikot udo adia::village
-ikot udo oto::village
-ikot udo::village
 ikot udoma::village
+ikot udo oto::village
 ikot udota::village
+ikot udo::village
 ikot ukpong::village
 ikot use ekong::village
 ikpasse::village
 ikram pur::village
-ikri::village
 ikrény::village
-il bolaghi::village
-il chupan::village
-il colle-villa::village
-il colle::village
-il darrehsi::village
-il hesar::village
-il romito::village
-il yurdi::village
-il-e teymur::village
+ikri::village
 ilak::village
 ilal::village
 ilam university farm::village
 ilam::village
-ilan kash::village
-ilan qarah-ye olya::village
-ilan qarah-ye sofla::village
-ilan::village
 ilandaikulam::village
 ilani::village
 ilanjiq::village
+ilan kash::village
+ilanlı::village
 ilanlu tappeh::village
 ilanlu::village
-ilanlı::village
+ilan qarah-ye olya::village
+ilan qarah-ye sofla::village
+ilan::village
 ilard::village
 ilarratza::village
-ilat zamin::village
 ilat-e yalquz aghaj::village
+ilat zamin::village
 ilazgi::village
 ilbak::village
 ilbegi::village
+il bolaghi::village
 ilchi-ye bala::village
+il chupan::village
+il colle::village
+il colle-villa::village
+il darrehsi::village
 ilderjin::village
 ilenuța::village
 ileret::village
+il-e teymur::village
 ilford::village
 ilgininkai::village
+il hesar::village
 ili bolagh::village
+i lied to you:我骗了你
 ilikhi bolaghi::village
-ilinden::village
 ilindentsi::village
+ilinden::village
 ilinitsa::village
 ilino::village
 iliny::village
 iliokali::village
 ilistvere::village
-iliya::village
 iliyabad::village
+iliya::village
 iliysko::village
+ilıcaköy, antalya::village
+ilıcaköy, gazipaşa::village
+ilıcaköy::village
+ilıcak::village
+ilıca, polatlı::village
+ilıca::village
+ilıdağ, köşk::village
+ilıdere::village
+ilıncak::village
+ilıpınar::village
+ilısu::village
 iljaq::village
 iljas::village
 ilkadeh::village
 ilkhaniabad::village
 ilkhanlar::village
+ilkhchi::village
 ilkhchi-ye olya::village
 ilkhchi-ye sofla::village
-ilkhchi::village
 ilkhechi::village
 ilkufi::village
 ill:病的
 illagolla::village
-illegal immigrant:非法移民
 illegal:非法的
-illi::village
+illegal immigrant:非法移民
 illicium verum:八角
 illinka::village
 illinois:伊利诺斯
 illiopolis::village
 illiriia::village
+illi::village
 illocska::village
 illuka::village
 illukpelessa::village
@@ -416,47 +416,43 @@ ilmer::village
 ilmjärve::village
 iloni::village
 ilori::village
+i love you:我爱你
 ilovice::village
+iłowiec::village
+iłownica::village
+iłowo::village
 ilpemada::village
 ilpendam::village
 ilpla::village
+il romito::village
 ilseng::village
 ilshahr::village
 ilsovan::village
 ilton::village
-ilu::village
 ilud::village
 ilukhena::village
 ilukpelessa::village
 iluktenna::village
 ilukwatta::village
 ilumäe::village
+ilu::village
 ilvanaq::village
 ilvar-e panj dangeh::village
 ilvar-e yek dangeh::village
 ilya::village
 ilyich::village
 ilyinsky::village
-ilıca, polatlı::village
-ilıca::village
-ilıcak::village
-ilıcaköy, antalya::village
-ilıcaköy, gazipaşa::village
-ilıcaköy::village
-ilıdağ, köşk::village
-ilıdere::village
-ilıncak::village
-ilıpınar::village
-ilısu::village
+il yurdi::village
+iły::village
 imadpatti::village
 image:图像
 imaginary number:虚数
 imalia narendra::village
 imaliya swaroop::village
-iman::village
 imanabad-e sofla::village
 imanabad::village
 imanlu::village
+iman::village
 imara::village
 imastu::village
 imatu::village
@@ -472,22 +468,24 @@ imbuletenna::village
 imbulgolla::village
 imbulmalgama::village
 imbulpitiya::village
-ime::village
+i mean it:我是认真的
 imehrou::village
 imeni panfilova::village
 imeni sverdlova::village
+imer-e mohammad qoli akhund::village
 imer hajji allahyar::village
 imer mohammad::village
 imer molla sari::village
 imer tureh molla::village
-imer-e mohammad qoli akhund::village
 imeshjeh::village
 imetang::village
+ime::village
 imezdaten::village
 imieré::village
 imiga::village
 imilia::village
 imir::village
+i miss you:我想你了
 imitation:模仿
 imliya::village
 imljani::village
@@ -501,9 +499,9 @@ immigrate:迁入
 immigration:迁入
 imminent:即将到来的
 immoudo::village
+immune:免疫的
 immune response:免疫反应
 immune system:免疫系统
-immune:免疫的
 immunology:免疫学
 immutable:不变的
 imno::village
@@ -511,29 +509,28 @@ imoh::village
 imola::village
 imotica::village
 impair:削弱
+impatiens bokorensis::plant
+impatiens henslowiana::plant
+impatiens johnsiana::plant
 impede:阻碍
-imperial oil limited:帝国石油有限公司
 imperial:帝国的
 imperialism:帝国主义
+imperial oil limited:帝国石油有限公司
 implementation:实现
 implicit differentiation:隐微分
 imply:暗示
 import:导入
 importance:重要性
 important:重要的
-improve performance:改进性能
 improve:改进
+improve performance:改进性能
 impulse:冲动
 impulsive:冲动的
 impulsively:冲动地
 imslandsjøen::village
 imtan::village
 imukvere::village
-in dalag::village
-in eker::village
-in::village
 in:里面
-ina::village
 inab::village
 inaccurate:不准确的
 inadequate:不够的
@@ -541,23 +538,25 @@ inai::village
 inalegolo::village
 inallu::village
 inam asur::village
-inam-veerapur::village
 inamhongal::village
 inamkoppa::village
+inam-veerapur::village
 inana::village
+ináncs::village
+inárcs::village
 inare::village
 inarwa phulbariya::village
 inata::village
 inathukanpatti::village
+ina::village
 inbauk::village
 inbaung::village
-inbin::village
 inbinhla::village
-inbreeding depression:近交衰退
+inbin::village
 inbreeding:近亲繁殖
+inbreeding depression:近交衰退
 inbung::village
 incentive:激励
-inch::village
 inchal::village
 inchanga::village
 inchegan::village
@@ -568,6 +567,7 @@ incheh sabolagh::village
 incheh salah-e olya::village
 incheh salah-e sofla::village
 incheh shahbaz::village
+incheh::village
 incheh-ye hajj mohammad::village
 incheh-ye khoda bandehlu::village
 incheh-ye nurollah::village
@@ -575,12 +575,12 @@ incheh-ye olya::village
 incheh-ye qadim::village
 incheh-ye said nezam::village
 incheh-ye sofla::village
-incheh::village
 inchekeh::village
 inchhan gonda::village
 inchhura::village
 incholi::village
 inchture::village
+inch::village
 incident:事故
 incise:切割
 include:包括
@@ -592,39 +592,40 @@ increase:增加
 incredible:不可思议的
 increment:增量
 incubation:孵化
-inda::village
 indaf::village
-indaing::village
 indainggale::village
 indainggyi::village
+indaing::village
+in dalag::village
 indalur::village
-indara::village
 indaragi::village
+indara::village
 indarpura::village
 indarwa::village
+inda::village
 indeed:事实上
-indefinite integral:不定积分
 indefinite:不确定的
+indefinite integral:不定积分
 indefinitely:无限地
 indent:缩进
-independence day:独立日
 independence:独立
-independent survival:独立生存
-independent variable:自变量
+independence day:独立日
 independent:独立的
 independently:独立地
+independent survival:独立生存
+independent variable:自变量
 indermark::village
 indervelly::village
 index:索引
 india:印度
-indian creek::village
-indian head park::village
-indian point::village
-indian queens::village
 indian:印度人
 indiana:印第安纳
+indian creek::village
+indian head park::village
 indianola::village
 indianoor::village
+indian point::village
+indian queens::village
 indicate:指示
 indie:独立的
 indigenous:本土的
@@ -640,27 +641,29 @@ indonesian:印尼人
 indonesian:印尼语
 indowal::village
 indpur::village
-indra::village
 indra:因陀罗
+indra::village
 indreskomo::village
 indrevevring::village
 induction variable:归纳变量
-indukuru::village
 indukurupeta::village
+indukuru::village
 indupalle::village
 indupur::village
 indura::village
 indurkani::village
 industrial park, semnan::village
+industry:工业
 industry standard:工业标准
 industry::village
-industry:工业
+i need to know:我需要知道
 ineia::village
 inekak::village
+in eker::village
 inequality:不等式
 inertial:惯性的
-inexperience:缺乏经验
 inești::village
+inexperience:缺乏经验
 infalebou::village
 infancy:婴儿期
 infant:婴儿
@@ -698,12 +701,12 @@ ingen::village
 ingküla::village
 inglewood::village
 ingliste::village
-ingon::village
 ingongyi::village
+ingon::village
 ingram::village
 ingredient:食材
-ings::village
 ingstrup::village
+ings::village
 inguruwatta::village
 ingwierrum::village
 ingyintha::village
@@ -712,38 +715,39 @@ inherit:继承
 inheritance:继承
 inherited from:继承自
 inhibit:抑制
-ini::village
 inigala::village
 initial:初始的
 initialise:初始化
 initialize:初始化
+ini::village
 injanlu::village
 injapur::village
-injar::village
 injaram::village
+injar::village
 injection:注射
 injedu::village
-inji::village
 injikollai::village
 injimedu::village
-inju::village
+inji::village
+injoba::plant
 injure:伤害
+inju::village
 injuwarampur::village
 inkberrow::village
 inke::village
 inkoukoumamne::village
 inland:内陆的
 inlet:窄水湾
-inline skates:单排滑鞋
 inline:内联
+inline skates:单排滑鞋
 inman::village
 inmatin::village
-inn din::village
 innambur::village
 innbygda::village
+inn din::village
 innellan::village
-inner product:内积
 innerferrera::village
+inner product:内积
 innfjorden::village
 innisfree::village
 innlegyi::village
@@ -753,12 +757,12 @@ innsbrook::village
 innset::village
 innvik::village
 inootrumangalam::village
-inorganic compound:无机化合物
 inorganic:无机的
+inorganic compound:无机化合物
 inowal::village
 inpatient:住院病人
-input device:输入设备
 input:输入
+input device:输入设备
 inquiry:调查
 insadou::village
 insalabou::village
@@ -773,33 +777,32 @@ insensitive:不敏感的
 insert:插入
 insh::village
 insist:坚持
+insoluble:不可溶解的
 insoluble in alcohol:不溶于酒精
 insoluble in cold water:不溶于冷水
 insoluble in pure water:不溶于纯水
 insoluble in water:不溶于水
-insoluble:不可溶解的
 insomnia:失眠
 install:安装
 instance:实例
 instant:瞬间
-instantaneous speed:瞬时速度
 instantaneous:瞬间的
-instead of:替换
+instantaneous speed:瞬时速度
 instead:替代
-institute of technology:技术学院
+instead of:替换
 institute:学院
+institute of technology:技术学院
 institution:制度
 institutional group home 33::village
 instow::village
 instruct:指导
 instructed:指导
 instruction:指令
-insu::village
 insulin:胰岛素
 insult:侮辱
 insurance:保险
 insurrection:起义
-int khedichhap::village
+insu::village
 intact:完整的
 integer:整数
 integral:积分
@@ -820,18 +823,20 @@ intentional:蓄意的
 interaction:交互
 interactive:交互的
 intercept:截取
-interest paid:已付利息
-interest:兴趣
 interest:利息
+interest:兴趣
 interested in:有兴趣于
+interest paid:已付利息
 interface:接口
 interjection:感叹词
 internal:内部的
+international:国际的
 international airport:国际机场
 international atomic time:国际原子时
 international conference:国际会议
 international cooperation:国际合作
 international exhibition:国际展览会
+internationalism:国际主义
 international law:国际法
 international organization:国际组织
 international peace:国际和平
@@ -839,18 +844,16 @@ international terrorism:国际恐怖主义
 international trade:国际贸易
 international unit:国际单位
 international waters:公海
-international:国际的
-internationalism:国际主义
-internatsional::village
 internatsionalnoye::village
+internatsional::village
 internet:互联网
 internship:实习
 interpolation:插值
 interpret:解释
 interpretation:解释
 interpreter:讲解员
-interrupt:中断
 interrupt:打断
+interrupt:中断
 intersect:相交
 intersex:双性人
 interstate:州际高速公路
@@ -860,6 +863,7 @@ interview:采访
 intestine:肠子
 intha::village
 inthe::village
+int khedichhap::village
 intkhedi sadak::village
 into:进入
 intracellular:细胞内的
@@ -873,8 +877,8 @@ intymak::village
 invalid:无效的
 invalidate:无效
 invasion:入侵
-invasive species:入侵物种
 invasive:入侵
+invasive species:入侵物种
 invent:发明
 invention:发明
 inventor:发明家
@@ -890,6 +894,7 @@ investigate:调查
 investigator:调查者
 investment:投资
 investor:投资者
+in::village
 invitation:邀请
 invite:邀请
 inviter::village
@@ -898,9 +903,6 @@ inyima::village
 inzari::village
 inzele::village
 inzlingen::village
-ináncs::village
-inárcs::village
-io::village
 iodine:碘
 iodomorphine:碘吗啡
 iola::village
@@ -913,6 +915,7 @@ ionize:电离
 ionized:电离的
 ions:离子
 iordanovca::village
+io::village
 iowa:艾奥瓦州
 ipacsfa::village
 ipala, bam::village
@@ -924,20 +927,21 @@ ipolyszög::village
 ipolytarnóc::village
 ipolytölgyes::village
 ipolyvece::village
+ipomea horsfalliae::plant
+ipomoea coccinea::plant
+ipomopsis rubra::plant
 ipota::village
 ipouagui::village
 ippalapally::village
+i promise:我保证
 ipur::village
-ir mahalleh::village
-ira::village
 irab::village
 irahanda::village
 iraiweri::village
-iraj::village
 irajabad::village
+iraj::village
 irakleia::village
 irala::village
-iran shahi::village
 iran:伊朗
 iranabad::village
 iranahatti::village
@@ -947,47 +951,52 @@ irancheh::village
 iranchi::village
 irandankattalai::village
 iraneh::village
-iranian:伊朗人
 iranian:伊朗的
+iranian:伊朗人
 iranikulam::village
+iran shahi::village
 iranshah::village
-iraq::village
 iraq:伊拉克
 iraqi:伊拉克的
+iraq::village
 irar::village
 irasalagundam::village
 irasavadi::village
 irase::village
+ira::village
 iravon::village
 irdemousa::village
 ireby::village
 irechek::village
 iregszemcse::village
 ireland:爱尔兰
+i remember:我记得
 irena::village
 irenji::village
 ireshopeburn::village
 irevanly::village
 irhab::village
-iri-ye olya::village
-iri-ye sofla::village
 iridium:铱
 iril::village
 irimbranallur::village
-irin::village
 irind::village
 irinetsi::village
 iriniko::village
+irin::village
 irish:爱尔兰人
 irish:爱尔兰语
 irishtown::village
+iris nigricans::plant
+iri-ye olya::village
+iri-ye sofla::village
 irka::village
 irlavada::village
-irma::village
-irmak::village
+ir mahalleh::village
 irmakköy::village
 irmaklı::village
+irmak::village
 irman::village
+irma::village
 irmelshausen::village
 irmish::village
 irobo::village
@@ -1009,25 +1018,24 @@ iruste::village
 irvala::village
 irvanlu::village
 irveh::village
-irving::village
 irvington::village
+irving::village
 irządze::village
-is loaded:被加载
-is there anything that distracted you:有什么使你分心吗
 is:是
+isaabad::village
 isa bagh::village
 isa bazar::village
+isabella::village
 isa beyglu::village
+isacova::village
 isa dar::village
 isa golik::village
-isa kand::village
-isa kandi::village
-isa khan::village
-isa khandaq::village
-isaabad::village
-isabella::village
-isacova::village
 isahakyan::village
+i said:我说道
+isa kandi::village
+isa kand::village
+isa khandaq::village
+isa khan::village
 isakovići::village
 isallavi::village
 isalu::village
@@ -1062,6 +1070,11 @@ ishliki::village
 ishwaripur::village
 ishygly::village
 isiala oboro::village
+işıklar, nazilli::village
+işıklar::village
+işıklı::village
+işıktepe::village
+işık::village
 isjek::village
 iska::village
 iskodar::village
@@ -1069,7 +1082,6 @@ iskra::village
 iskrets::village
 iskrzyczyn::village
 iskudar::village
-isla umbú::village
 islallana::village
 islam:伊斯兰教
 islamabad::village
@@ -1078,32 +1090,40 @@ islamism:伊斯兰主义
 islamist:伊斯兰教徒
 islampur, karnataka::village
 islampur::village
-island lake::village
 island:岛
 islandeady::village
+island lake::village
+isla umbú::village
 isle:小岛
 islet:小岛
 isleten::village
+is loaded:被加载
 ismailkhanguda::village
 ismailpur::village
 ismilli::village
 isnit::village
+ișnovăț::village
 isoindoline:异吲哚啉
 isola d'arbia::village
-isola::village
 isolation:隔离
+isola::village
 isoma karyon::village
 isoma::village
+isonandra lanceolata::plant
 isoo::village
+isopogon gardneri::plant
+isopogon heterophyllus::plant
+isopogon panduratus::plant
+išorai::village
 isoti::village
+ispánk::village
 ispan::village
 ispareh::village
 ispas::village
-ispánk::village
 isqat::village
 israel:以色列
-israeli:以色列人
 israeli:以色列的
+israeli:以色列人
 issalissekine::village
 issapougo::village
 issue:问题
@@ -1111,11 +1131,11 @@ istadegi::village
 istanbul:伊斯坦布尔
 istead rise::village
 istenmezeje::village
-istgah kheyam::village
 istgah-e attar::village
 istgah-e azadvar::village
 istgah-e balarud::village
 istgah-e bisheh::village
+istgah-e-cham sanger::village
 istgah-e dowkuheh::village
 istgah-e fariman::village
 istgah-e gor gor::village
@@ -1130,13 +1150,14 @@ istgah-e rah ahn sabzevar::village
 istgah-e sabz ab::village
 istgah-e sankhvast::village
 istgah-e tang-e haft::village
-istgah-e-cham sanger::village
+istgah kheyam::village
+is there anything that distracted you:有什么使你分心吗
 isti baghcheh::village
 isti bolagh::village
 istigol::village
 istiqlol::village
-istoway::village
 istočni trojvrh::village
+istoway::village
 istu chah::village
 istvándi::village
 isufmuçaj::village
@@ -1146,16 +1167,9 @@ iswarigachha::village
 iszkaszentgyörgy::village
 iszkáz::village
 isztimér::village
-it does not matter:没关系
-it heidenskip::village
-it is raining cats and dogs:外面下着大雨
-it is raining heavily:外面下着大雨
-it is raining outside:外面下着雨
-it was not your fault:那不是你的错
-it-agar::village
-it::village
 it:它
 itade::village
+it-agar::village
 itahara uparwar::village
 itaili::village
 italia:意大利
@@ -1169,6 +1183,8 @@ itaura::village
 itch:瘙痒
 itchoo::village
 itchy:痒的
+it does not matter:没关系
+iteaceae::plant
 item:项
 items:项
 iteration:迭代
@@ -1176,7 +1192,11 @@ ithaca::village
 ithakota::village
 ithalar::village
 ithavaram::village
+it heidenskip::village
 itiha ibrahimpur::village
+it is raining cats and dogs:外面下着大雨
+it is raining heavily:外面下着大雨
+it is raining outside:外面下着雨
 itnal::village
 itoi::village
 itraura::village
@@ -1186,20 +1206,29 @@ itself:它自己
 ittamalliyagoda::village
 ittervoort::village
 ituni::village
+it::village
+it was not your fault:那不是你的错
 iujnoe::village
 iuka::village
-iva::village
+ivád::village
 ivak::village
 ivalo::village
-ivan dimov::village
+ivánbattyán::village
 ivanbegovina::village
+ivanča::village
+ivančevo::village
+ivančići::village
 ivanci::village
-ivand::village
+iváncsa::village
+ivánc::village
+ivándárda::village
 ivandeh::village
+ivan dimov::village
+ivand::village
 ivanhrad::village
 ivanili::village
-ivanivka::village
 ivaniškiai::village
+ivanivka::village
 ivanje::village
 ivanjska::village
 ivankivtsi::village
@@ -1210,13 +1239,12 @@ ivanovo, blagoevgrad province::village
 ivanovo::village
 ivanovtsi::village
 ivantsi::village
-ivanča::village
-ivančevo::village
-ivančići::village
+iván::village
 ivar::village
-ivask::village
 ivaski::village
+ivask::village
 ivaste::village
+iva::village
 ivej::village
 ivek::village
 ivel::village
@@ -1230,23 +1258,21 @@ ivorra::village
 ivory coast:科特迪瓦
 ivurawala::village
 ivy:常春藤
-ivád::village
-iván::village
-ivánbattyán::village
-ivánc::village
-iváncsa::village
-ivándárda::village
 iwany::village
 iwickowo::village
 iwiec::village
+i will be back:我会回来的
+i will repeat what i said one more time:我再次重复我所说的
+i will see what i can do:我来看看我能做什么
+i will see what i can find:我来看看我能发现什么
 iwiny::village
 iwno::village
 iyo::village
-iza::village
 izabela::village
-izad khvast-e basri::village
-izadabad::village
 izačić::village
+izadabad::village
+izad khvast-e basri::village
+iza::village
 izbišta::village
 izbiște::village
 izbod::village
@@ -1255,8 +1281,8 @@ izdebno::village
 izernène::village
 izghe::village
 izgrev::village
-izi::village
 iziumske::village
+izi::village
 izkhvor deh::village
 izki::village
 izman-e bala::village
@@ -1266,33 +1292,11 @@ izmény::village
 izsófalva::village
 iztochnik::village
 izvoare::village
-izvor::village
 izvorche::village
 izvorishte::village
 izvornik::village
 izvorovo, haskovo province::village
 izvorovo::village
 izvorsko::village
+izvor::village
 izz al-din::village
-iđoš::village
-iğdır::village
-iłowiec::village
-iłownica::village
-iłowo::village
-iły::village
-işık::village
-işıklar, nazilli::village
-işıklar::village
-işıklı::village
-işıktepe::village
-išorai::village
-ișnovăț::village
-iteaceae::plant
-ipomoea coccinea::plant
-ipomea horsfalliae::plant
-iris nigricans::plant
-injoba::plant
-ipomopsis rubra::plant
-impatiens johnsiana::plant
-impatiens bokorensis::plant
-impatiens henslowiana::plant

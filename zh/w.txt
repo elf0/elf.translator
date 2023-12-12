@@ -1,8 +1,6 @@
-wa shan tsuen::village
-wa-na::village
-waarde::village
 waardenburg::village
 waarder::village
+waarde::village
 waardhuizen::village
 waarland::village
 waat::village
@@ -10,6 +8,7 @@ wabcz-kolonia::village
 wabcz::village
 wabern::village
 wabienice::village
+wąbnice::village
 wabongo::village
 wachao::village
 wachendorf::village
@@ -28,8 +27,8 @@ wadala khurd::village
 wadaparthy::village
 wadapind::village
 wadavali::village
-wadawala::village
 wadawalakanda::village
+wadawala::village
 waddesdon::village
 wadegaon::village
 wadegawhan::village
@@ -45,21 +44,25 @@ wadhel harnampur::village
 wadhel kadim::village
 wadhel khuda bakhashwala::village
 wadhel mauja::village
-wadi al wasaah::village
-wadi jalil::village
 wadiado::village
+wadi al wasaah::village
 wadibah::village
 wadicourt::village
+wadi jalil::village
 wadiya, eastern province::village
 wadiyagoda, eastern province::village
 wadner bk::village
 wadner haveli::village
 wadochowice::village
 wadral::village
+wądroże małe::village
+wądroże::village
+wądroże wielkie::village
 wadsworth::village
 wadway::village
 wadyan::village
 wadzire::village
+wądzyn::village
 waganiec::village
 wage:工资
 wagenberg::village
@@ -76,6 +79,8 @@ waghunde kd::village
 waghura::village
 wagingera::village
 wagou::village
+wągroda::village
+wągrodno::village
 wahacotte::village
 wahangaon::village
 wahid::village
@@ -100,10 +105,10 @@ wajah::village
 wajale::village
 wajjal::village
 wakadi::village
-wake up:醒醒
 wake:醒
 wakefield::village
 wakes colne::village
+wake up:醒醒
 waki::village
 wakro::village
 waksai::village
@@ -112,8 +117,8 @@ wakyang::village
 walagama::village
 walagedara::village
 walakumbura::village
-walala megodagammedda::village
 walala, central province::village
+walala megodagammedda::village
 walalawela::village
 walasiho::village
 walaswewa::village
@@ -123,14 +128,20 @@ walayat abad::village
 walbottle::village
 walbundrie::village
 walcote::village
+wałcz drugi::village
 waldeniya::village
+wałdówko::village
+wałdowo królewskie::village
+wałdowo szlacheckie::village
+wałdowo::village
 waldridge::village
 waldron::village
-walen::village
+walèbo::village
 walentowo::village
 walentynowo::village
-wales::village
+walen::village
 wales:威尔士
+wales::village
 walgama::village
 walgampaya::village
 walgovuwagoda::village
@@ -141,17 +152,19 @@ walhorn::village
 walidpur::village
 walik::village
 walim::village
+wālī::village
 walk:步行
 walkerville::village
-walki::village
 walking stick:拐杖
 walking stick:竹节虫
+walki::village
 walkossam::village
+wałkowa::village
+wałkowiska::village
 walkway:人行道
-wall::village
 wall:墙
-wallace::village
 wallacestone::village
+wallace::village
 wallahagoda::village
 wallana::village
 wallangra::village
@@ -160,43 +173,47 @@ wallet:钱包
 wallington::village
 walliwela::village
 wallpaper:壁纸
+wall::village
 walmart:沃尔玛
 walmoruwa::village
+walnut:核桃
 walnut creek::village
 walnut hill::village
 walnut::village
-walnut:核桃
-walpola::village
 walpoladeniya::village
 walpolamulla::village
+walpola::village
 walsden::village
-walsh island::village
 walsham le willows::village
 walshind::village
+walsh island::village
 walsoorden::village
 walters ash::village
+wâlterswâld::village
 walthall::village
 waltham chase::village
 walthill::village
-walting::village
-waltinga::village
 waltièra::village
+waltinga::village
+walting::village
 walton-on-the-hill::village
 walton::village
 waltonville::village
 waltz:华尔兹舞
-walu::village
 walugama::village
+walu::village
 walwane::village
 walwick::village
 walworth::village
-walèbo::village
+wałycz::village
+wałyczyk::village
+wały::village
 waman::village
 wamba::village
 wamel::village
 wamoon::village
-wan::village
 wanadurga::village
+wa-na::village
 wandal::village
 wandopol::village
 wandowo::village
@@ -204,57 +221,64 @@ wanduramulla::village
 wandynowo::village
 wanegaon::village
 wanféré::village
-wang kelian::village
-wang shan keuk::village
 wangara::village
 wanghte::village
 wangi::village
 wangjiawan::village
+wang kelian::village
 wangoo::village
 wangou::village
-wangtan::village
+wang shan keuk::village
 wangtang::village
+wangtan::village
 wanhöden::village
 wanigam bala::village
 wanihama::village
 wankaner::village
+wān kongmakpin::village
 wankute::village
 wanla::village
 wanlockhead::village
+wān long::village
+wān mae aw::village
+wān na-mon::village
 wanneperveen::village
 wannipola::village
 wanroij::village
 wansford::village
 wanssum::village
+wânswert::village
+want:想要
+wantem::village
+wantmuri::village
 want to know:想知道
 want to say:想说
 want to talk:想谈论
 want to tell:想告诉
-want:想要
-wantem::village
-wantmuri::village
+wan::village
 wapella::village
 wapenveld::village
+wąpielsk::village
 wapienno::village
-wapse::village
 wapserveen::village
+wapse::village
 wapyat::village
 waqash::village
 war:战争
-wara kalirana::village
-wara suleman::village
-wara thatta muhammad shah::village
 waradiwala::village
 waragashinna::village
-warak::village
 warakadeniya::village
 warakagoda::village
 warakalawita::village
+wara kalirana::village
 warakamure::village
 warakar::village
 warakawa::village
+warak::village
 waralaggama::village
 warapitiya::village
+wara suleman::village
+wara thatta muhammad shah::village
 waravanagalavi::village
 waray:瓦瑞语
 wardell::village
@@ -264,31 +288,31 @@ wardsville::village
 warfare:战争
 warfhuizen::village
 warfstermolen::village
-warg::village
 wargaon::village
+warg::village
 wariah::village
 warisfistan::village
 wariswala jattan::village
-wark::village
 warkatne::village
 warkhadpatye::village
 warkocz::village
+wark::village
 warkworth::village
 warlord:军阀
 warlubie::village
-warm water:温水
+warmątowice sienkiewiczowskie::village
 warmley::village
 warmth:温暖
-warmątowice sienkiewiczowskie::village
+warm water:温水
 warnborough green::village
 warner::village
 warnice::village
 warns::village
 warpalice::village
 warren row::village
-warren::village
-warrens::village
 warrensburg::village
+warrens::village
+warren::village
 warrenville::village
 warrion::village
 warrior:战士
@@ -303,21 +327,22 @@ wartowice::village
 warwick bridge::village
 waryah dona::village
 waryah::village
-warzeńska huta::village
-warzyn::village
 warząchewka królewska::village
 warząchewka nowa::village
 warząchewka polska::village
 warzęgowo::village
+warzeńska huta::village
+warzyn::village
 was:是
 wasa dargah::village
 wasawng::village
+wa shan tsuen::village
 washawma::village
 washibe::village
-washing machine:洗衣机
 washingborough::village
-washington::village
+washing machine:洗衣机
 washington:华盛顿
+washington::village
 wasielewko::village
 wasit, hadhramaut::village
 waskerley::village
@@ -325,10 +350,11 @@ wasla bangial::village
 wasnal::village
 wasok::village
 wasoora pulwama::village
+wąsosz::village
 wasp:黄蜂
 waspik::village
-wass::village
 wasser::village
+wass::village
 wastewater:废水
 wataddora::village
 watadeniya::village
@@ -339,17 +365,12 @@ watapuluwa::village
 watawala::village
 watch:表
 watch:观看
-water column:水分层
-water park:水上乐园
-water polo:水球
-water quality:水质
-water vapor:水汽
-water vapour:水汽
 water:水
 waterbody:水体
 waterbury::village
 watercolor:水彩
 watercolour:水彩
+water column:水分层
 watercourse:水道
 waterdown::village
 waterfall:瀑布
@@ -359,22 +380,28 @@ watergang::village
 watergrasshill::village
 waterhouses::village
 waterlandkerkje::village
-waterloo::village
 waterloo:滑铁卢
-waterman::village
+waterloo::village
 waterman:水手
+waterman::village
 watermark:水印
 watermelon:西瓜
 watermill:水磨
+water park:水上乐园
+water polo:水球
 waterproof:防水的
+water quality:水质
 watershed:分水岭
 waterside::village
 watersmeet::village
+water vapor:水汽
+water vapour:水汽
 waterville::village
 watervliet::village
 waterway:航道
-wath::village
+waté::village
 wathumulla::village
+wath::village
 watinga::village
 watorowo::village
 watou::village
@@ -395,13 +422,12 @@ watunde::village
 watupola::village
 waturakumbura::village
 watuwala, eastern province::village
-waté::village
 wauconda::village
-waun-lwyd::village
 waunakee::village
 wauneta::village
-wausa::village
+waun-lwyd::village
 wausaukee::village
+wausa::village
 wauzeka::village
 wave:波
 waveform:波形
@@ -412,39 +438,25 @@ waverveen::village
 wavinna::village
 wavoora::village
 wavy:波浪的
+wąwał::village
+wąwelno::village
 wawinna::village
+wąwolnica::village
+wawrzęcice::village
 wawrzeńczyce::village
 wawrzonkowo::village
 wawrzynki::village
 wawrzyszów::village
-wawrzęcice::village
 wax:蜡
 way:办法
 way:路
 wayikkal::village
 wayland::village
 wayne city::village
-wayne::village
 waynesville::village
-wazir::village
+wayne::village
 wazirabad::village
-wałcz drugi::village
-wałdowo królewskie::village
-wałdowo szlacheckie::village
-wałdowo::village
-wałdówko::village
-wałkowa::village
-wałkowiska::village
-wały::village
-wałycz::village
-wałyczyk::village
-we do not have much time:我们没多少时间了
-we do not know enough about:我们对于...知道得不够多
-we have to fight:我们得战斗
-we need help:我们需要帮助
-we will never concede:我们绝不退让
-we will never give up:我们绝不放弃
-we won the war:我们赢得了战争
+wazir::village
 we:我们
 weak:弱的
 wealth:财富
@@ -460,9 +472,11 @@ website:网站
 webster::village
 webula::village
 wedagolla::village
-wedding anniversary:结婚纪念日
 wedding:婚礼
+wedding anniversary:结婚纪念日
 wedigammedda::village
+we do not have much time:我们没多少时间了
+we do not know enough about:我们对于...知道得不够多
 weed:杂草
 week:周
 weekday:工作日
@@ -471,14 +485,25 @@ weelde::village
 weerde::village
 weerselo::village
 weert::village
-weetaliba::village
 weetalibah::village
+weetaliba::village
 weeting::village
 wegala::village
 wegama lower::village
 wegama::village
+węgierce::village
+węgiersk::village
 wegiriya::village
+węglewo::village
 wegodapola::village
+węgorzyn::village
+węgrce szlacheckie::village
+węgrowo::village
+węgrów::village
+węgry::village
+węgrzce::village
+węgrzynów::village
+we have to fight:我们得战斗
 wehe-den hoorn::village
 wehelpada::village
 wehera::village
@@ -492,8 +517,8 @@ weijland::village
 weiler::village
 weipoort::village
 weird:怪异的
-weiteveen::village
 weißenborn::village
+weiteveen::village
 wekanda::village
 wekumbura::village
 welagama::village
@@ -505,14 +530,14 @@ welangahawatta::village
 welapahala::village
 welata::village
 welbeck::village
-welcome back:欢迎回来
 welcome:欢迎
+welcome back:欢迎回来
 welden::village
 weldon spring heights::village
 weldon::village
 welegedara::village
-welem::village
 welemulla::village
+welem::village
 welfare:福利
 welfrange::village
 welgahawadiya::village
@@ -524,36 +549,39 @@ weliwaranagolla::village
 weliwita ihalagama::village
 weliwita pahalagama::village
 weliwita::village
-well being:福利
-well defined:定义良好的
-well::village
 well:井
 well:良好地
 wellagiriya::village
 wellangolla::village
 wellatota::village
 wellbank::village
+well being:福利
+well defined:定义良好的
 wellerlooi::village
 welletota kadaweediya::village
 wellfield::village
 wellfleet::village
-wellington::village
 wellingtonbridge::village
+wellington::village
 wellow::village
 wells river::village
+well::village
+wełna::village
 welon::village
 welpanala::village
+wełpin::village
 welscheid::village
 welsh frankton::village
 welsh literature in english:威尔士英语文学
 welsh poetry in english:威尔士英语诗歌
-welt::village
 welten::village
+welt::village
 welverdiend::village
 wemtinga::village
 wenasoga::village
 wendens ambo::village
 wenecja::village
+we need help:我们需要帮助
 wenhai::village
 wenkbach::village
 wense::village
@@ -574,8 +602,8 @@ werawala::village
 werchliś::village
 werda::village
 were:是
-werella::village
 werellagama::village
+werella::village
 weremowice::village
 wergea::village
 werinkera::village
@@ -588,55 +616,28 @@ werur::village
 wery::village
 wesley chapel::village
 wesley::village
+wesółka::village
 wesołówka::village
+west:西
 west allotment::village
 west auckland::village
 west blackdene::village
+westborough::village
+westbroek::village
 west burke::village
 west burton::village
+westbury-sub-mendip::village
 west byfleet::village
 west calder::village
+westchester::village
 west chinnock::village
 west chunakhali::village
 west clandon::village
 west cornforth::village
 west cowick::village
-west dundee::village
-west green::village
-west grimstead::village
-west haddon::village
-west hanahai::village
-west harwich::village
-west hill::village
-west kington::village
-west langdon::village
-west line::village
-west lockinge::village
-west lutton::village
-west lydford::village
-west mangad::village
-west marton::village
-west milwaukee::village
-west moors::village
-west neyyoor::village
-west plymouth::village
-west point::village
-west rainton::village
-west runton::village
-west salem::village
-west stratton::village
-west tolgus::village
-west vale::village
-west watta::village
-west woodburn::village
-west-graftdijk::village
-west:西
-westborough::village
-westbroek::village
-westbury-sub-mendip::village
-westchester::village
-westdorp::village
 westdorpe::village
+westdorp::village
+west dundee::village
 westeinde::village
 westendorf::village
 westerbork::village
@@ -646,46 +647,75 @@ westerhoven::village
 westerland::village
 westerlee::village
 westermarsch ii::village
-western sahara:西撒哈拉
-western world:西方世界
-western::village
 western:西方的
 westernieland::village
+western sahara:西撒哈拉
+western::village
+western world:西方世界
 westerstetten::village
 westerton::village
 westervelde::village
 westfield::village
 westgate::village
+west-graftdijk::village
+west green::village
+west grimstead::village
+west haddon::village
+west hanahai::village
+west harwich::village
 westhay::village
 westhead::village
 westhem::village
+west hill::village
 westhoek::village
+west kington::village
 westknollendam::village
+west langdon::village
+west line::village
+west lockinge::village
+west lutton::village
+west lydford::village
 westmaas::village
 westmalle::village
+west mangad::village
 westmarsh::village
+west marton::village
+west milwaukee::village
 westminster::village
 westmont::village
+west moors::village
+west neyyoor::village
+westonbirt::village
 weston colville::village
 weston lullingfields::village
 weston-on-avon::village
 weston-sub-edge::village
 weston::village
-westonbirt::village
 westphalia::village
+west plymouth::village
+west point::village
 westport, nova scotia::village
 westport::village
 westquarter::village
+west rainton::village
+westringia acifolia::plant
+westringia blakeana::plant
 westrozebeke::village
+west runton::village
 westry::village
+west salem::village
+west stratton::village
+west tolgus::village
+west vale::village
 westville::village
 westvleteren::village
+west watta::village
 westwick::village
-westwood::village
+west woodburn::village
 westwoodside::village
+westwood::village
 westwoud::village
 westzaan::village
-wesółka::village
 wetagepota::village
 wetakedeniya::village
 wetakepotha::village
@@ -695,6 +725,7 @@ wetawngkawng::village
 weteggama::village
 weteringbrug::village
 weterou::village
+wętfie::village
 wetheringsett::village
 wetka::village
 wetland:湿地
@@ -703,8 +734,8 @@ wetley rocks::village
 wetsens::village
 wettehena::village
 wettewa::village
-wetto::village
 wetton::village
+wetto::village
 weurt::village
 wewagammedda::village
 wewakele::village
@@ -712,12 +743,14 @@ wewala::village
 wewatenna::village
 wewelmada::village
 wewelobe::village
+we will never concede:我们绝不退让
+we will never give up:我们绝不放弃
+we won the war:我们赢得了战争
 weybread::village
 weyerhaeuser::village
-wezup::village
+wężowice::village
 wezuperbrug::village
-wełna::village
-wełpin::village
+wezup::village
 whale:鲸
 whaplode drove::village
 wharncliffe side::village
@@ -734,18 +767,18 @@ wheeler::village
 wheeling::village
 wheelockville::village
 whelk:螺
-when you are ready:当你准备好时
 when:何时
+when you are ready:当你准备好时
+where:哪儿
 where am i:我在哪儿
 where are you:你们在哪里
 where are you:你在哪里
-where is it:它在哪儿
-where:哪儿
 whereas:反之
+where is it:它在哪儿
 whether:是否
 whey:乳清
-which one:哪一个
 which:哪一个
+which one:哪一个
 whickham::village
 whigstreet::village
 while:当
@@ -763,28 +796,29 @@ whiston::village
 whitbourne::village
 whitchurch hill::village
 whitchurch::village
-white city::village
-white hill::village
-white ladies aston::village
-white lake::village
-white pepper:白胡椒
-white pigeon::village
-white sesame:白芝麻
-white supremacism:白人至上主义
-white supremacist:白人至上主义者
-white supremacy:白人至上
-white-le-head::village
 white:白色
 whitecairns::village
+white city::village
 whitecraig::village
 whitecroft::village
 whitefish bay::village
+white hill::village
+white ladies aston::village
+white lake::village
 whitelaw::village
+white-le-head::village
 whitemoor::village
 whiteness::village
+white pepper:白胡椒
+white pigeon::village
+white poppy::plant
 whitesboro::village
+white sesame:白芝麻
 whiteshill::village
 whiteside::village
+white supremacism:白人至上主义
+white supremacist:白人至上主义者
+white supremacy:白人至上
 whitewater::village
 whiting::village
 whitley chapel::village
@@ -792,23 +826,24 @@ whitley::village
 whitney::village
 whittlesford::village
 whitwell::village
+who:谁
 who are you:你是谁
 who do you think you are:你以为你是谁
-who won:谁赢了
-who you are:你是谁
-who:谁
 whole:整个
 whore:婊子
 whorehouse:妓院
 whose:谁的
+who won:谁赢了
+who you are:你是谁
+why:为何
 why did you lie to me:你为什么骗我
 why did you stop him:你为什么阻止他
 why do not you do:你为什么不做
 why me:为什么是我
-why not do:为什么不做
 why not:为什么不
-why:为何
+why not do:为什么不做
 wiadrów::village
+wiąg::village
 wianne::village
 wiatraczyn::village
 wichorze::village
@@ -818,20 +853,21 @@ wichrowice::village
 wichrów::village
 wichsenstein::village
 wichulec::village
-wick::village
 wickham common::village
 wickrange::village
+wick::village
 wide:宽
 widegates::village
 wideopen::village
 widespread:广泛的
 widi::village
 widlice::village
+widoń::village
 widow:寡妇
 widower:鳏夫
-widoń::village
 width:宽度
 wiecanowo::village
+więckowice::village
 wiedingen::village
 wieldządz::village
 wiele::village
@@ -841,12 +877,22 @@ wielgie::village
 wielichów::village
 wieliczka::village
 wieliszów::village
+wielka kępa::village
 wielka klonia::village
 wielka komorza::village
-wielka kępa::village
+wielka Łąka::village
 wielka lipa::village
 wielka nieszawka::village
-wielka Łąka::village
+wielkie budziska::village
+wielkie czyste::village
+wielkie gacno::village
+wielkie leźno::village
+wielkie Łunawy::village
+wielkie pułkowo::village
+wielkie radowiska::village
+wielkie rychnowo::village
+wielkie stwolno::village
+wielkie zajączkowo::village
 wielki głęboczek::village
 wielki komorsk::village
 wielki konopat::village
@@ -854,22 +900,12 @@ wielki lubień::village
 wielki mędromierz::village
 wielki sosnowiec::village
 wielki wełcz::village
-wielkie budziska::village
-wielkie czyste::village
-wielkie gacno::village
-wielkie leźno::village
-wielkie pułkowo::village
-wielkie radowiska::village
-wielkie rychnowo::village
-wielkie stwolno::village
-wielkie zajączkowo::village
-wielkie Łunawy::village
 wielonek::village
-wielowicz::village
 wielowiczek::village
+wielowicz::village
 wielowieś::village
-wieniec-zalesie::village
 wieniec::village
+wieniec-zalesie::village
 wiercień::village
 wierum::village
 wieruszów::village
@@ -887,15 +923,19 @@ wierzchowiska::village
 wierzchownia::village
 wierzchuca nadbużna::village
 wierzchucice::village
+wierzchucinek::village
 wierzchucin królewski::village
 wierzchucin::village
-wierzchucinek::village
 wierzchy::village
 wierznica::village
 wierzowice małe::village
 wierzowice wielkie::village
-wieszczyce::village
+wieściszowice::village
+więsławice-parcele::village
+więsławice::village
+wieśnica::village
 wieszczęta::village
+wieszczyce::village
 wieszki::village
 wietrzychowice::village
 wietstock::village
@@ -903,9 +943,8 @@ wietszyce::village
 wiewierz::village
 wiewiórczyn::village
 wiewiórki::village
-wieściszowice::village
-wieśnica::village
 wieża::village
+więzowno::village
 wife:妻子
 wig:假发
 wigancice::village
@@ -936,26 +975,27 @@ wilcot::village
 wilcox::village
 wilcza góra::village
 wilcze jary::village
-wilcze::village
 wilczeniec fabiański::village
+wilcze::village
 wilczewko::village
 wilczewo::village
 wilczkowice::village
 wilczkowo::village
 wilczków::village
-wilczy las::village
 wilczyce::village
+wilczy las::village
 wilczyn leśny::village
 wilczyn::village
-wild animal:野生动物
-wild rose::village
 wild:荒野
+wild animal:野生动物
 wildboarclough::village
 wildenthal::village
 wildervank::village
 wildfire:野火
+wildflower::plant
 wildlife:野生生物
 wildno::village
+wild rose::village
 wilford::village
 wilga::village
 wilgersdorf::village
@@ -972,10 +1012,10 @@ wilkowa::village
 wilkowice::village
 wilkowiczki::village
 wilkowo::village
-wilkszyn::village
-wilków wielki::village
 wilków Średzki::village
 wilków::village
+wilków wielki::village
+wilkszyn::village
 will:将
 willard::village
 willemsoord::village
@@ -991,20 +1031,20 @@ willingham::village
 willington::village
 willisville::village
 willoughby::village
-willow hill::village
-willow springs::village
 willow:柳树
 willowbrook::village
+willow hill::village
 willows bank::village
+willow springs::village
 willsbridge::village
 wilmington::village
 wilminstone::village
 wilnis::village
 wilp::village
 wilsill::village
+wilson:威尔森
 wilson city::village
 wilson::village
-wilson:威尔森
 wilsonville::village
 wilsthorpe::village
 wilton dean::village
@@ -1019,15 +1059,15 @@ winceby::village
 wincentowo::village
 winchburgh::village
 winchmore hill::village
-wind point::village
 wind:风
-winde::village
 winder::village
+winde::village
 windgap::village
 windlesham::village
-windmill hill::village
 windmill:风车
+windmill hill::village
 window:窗
+wind point::village
 windsor forest::village
 windsor heights::village
 windsor::village
@@ -1035,13 +1075,13 @@ windstorm:风暴
 winduga::village
 wine:酒
 winestead::village
-wing ning tsuen::village
-wing ping tsuen::village
 wing:翅膀
 wingate::village
 wingello::village
 wingen::village
 wingfield::village
+wing ning tsuen::village
+wing ping tsuen::village
 wingrave::village
 wings:翅膀
 wini::village
@@ -1065,8 +1105,6 @@ winssen::village
 winster::village
 winston::village
 wintelre::village
-winter olympics:冬季奥运会
-winter::village
 winterberg::village
 winterborne muston::village
 winterborne tomson::village
@@ -1076,6 +1114,8 @@ winterbourne earls::village
 winterbourne gunner::village
 winterburn::village
 winteringham::village
+winter olympics:冬季奥运会
+winter::village
 winthrop harbor::village
 winwa::village
 wioska::village
@@ -1088,8 +1128,13 @@ wisbech st mary::village
 wisconsin:威斯康辛
 wisdom:智慧
 wish:希望
-wiski::village
 wiskitno::village
+wiski::village
+wiślica::village
+wiśniewa::village
+wiśniewka::village
+wiśniowa::village
+wiśniówka::village
 wispington::village
 wissenkerke::village
 wistka królewska::village
@@ -1102,8 +1147,8 @@ witanowice::village
 witch:女巫
 with:与
 withdraw:撤回
-withdrawal:体外射精
 withdrawal:撤退
+withdrawal:体外射精
 withee::village
 withermarsh green::village
 withern::village
@@ -1111,60 +1156,65 @@ within:内
 without:没有
 withwan::village
 witikhon::village
+witkówek::village
 witkowo::village
 witków::village
-witkówek::village
 witness:证人
 witoldowo::village
 witoldów::village
 witoroż::village
+witosław::village
 witostowice::village
-witoszyce::village
 witoszów dolny::village
 witoszów górny::village
-witosław::village
+witoszyce::village
+witowąż::village
 witowice::village
 witowo::village
 witowy::village
-witowąż::village
 wittelte::village
 wittenberg::village
 witteveen::village
-witton park::village
 witton-le-wear::village
+witton park::village
 witulin-kolonia::village
 witulin::village
 witunia::village
 witvlei::village
 wiuwert::village
 wiyanamulla::village
-wizna::village
-wiąg::village
-więckowice::village
-więsławice-parcele::village
-więsławice::village
-więzowno::village
-wiślica::village
-wiśniewa::village
-wiśniewka::village
-wiśniowa::village
-wiśniówka::village
 wiżgóry::village
+wizna::village
 wjelsryp::village
+władysławowo::village
+władysławów::village
+włodków dolny::village
+włodzice małe::village
+włodzice wielkie::village
+włodzimierka::village
+włodzimierzewo::village
+włóki::village
+włościborek::village
+włościbórz::village
+włosień::village
+włostowo::village
+włoszanowo::village
+włoszyca lubańska::village
+włoszyca::village
 wnorów::village
-wo hang tai long::village
-wo keng shan::village
-wo liu hang::village
 woama::village
 wodnica::village
 wodniki::village
 wodników górny::village
 woensdrecht::village
 woerdense verlaat::village
+wo hang tai long::village
 wojanów::village
+wójcice::village
 wojciechowo wielkie::village
 wojciechów::village
 wojcieszyn::village
+wójcin::village
 wojczyce::village
 wojdal::village
 wojkowice::village
@@ -1172,11 +1222,15 @@ wojnarowice::village
 wojniaki::village
 wojnowice::village
 wojnowo::village
-wojszyn::village
 wojsławice::village
 wojsławiec::village
+wojszyn::village
 wojtkowice::village
+wójtowice::village
+wójtówka::village
+wójtowskie::village
 wok:锅
+wo keng shan::village
 wola adamowa::village
 wola bachorna::village
 wola dereźniańska::village
@@ -1185,28 +1239,29 @@ wola duża::village
 wola dziankowska::village
 wola filipowska::village
 wola jurkowa::village
+wola kątecka::village
 wola kożuszkowa::village
 wola kulońska::village
-wola kątecka::village
 wola nakonowska::village
+wolaniny::village
+wolanów::village
 wola obszańska::village
 wola olszowa-parcele::village
 wola olszowa::village
 wola piotrowa::village
 wola radzięcka::village
 wola różaniecka::village
+wola sękowa::village
 wola skarbkowa::village
 wola sosnowa::village
 wola stanomińska::village
-wola sękowa::village
-wola zambrowska::village
 wola::village
-wolaniny::village
-wolanów::village
+wola zambrowska::village
 wolbach::village
 wolbromek::village
 wolbromów::village
 woldendorp::village
+wolęcin::village
 wolf:狼
 wolfersheim::village
 wolfgarten::village
@@ -1215,19 +1270,38 @@ wolfhill::village
 wolica::village
 wolice::village
 wolimierz::village
+wo liu hang::village
+wólka biska::village
+wólka czernięcińska::village
+wólka czułczycka::village
+wólka dobryńska::village
+wólka komorowska::village
+wólka korczowska::village
+wólka kościeniewicka::village
+wólka krzymowska::village
+wólka leśna::village
+wólka Łózecka::village
+wólka okopska::village
+wólka plebańska::village
+wólka polinowska::village
+wólka::village
+wólka zabłocka-kolonia::village
+wólka zabłocka::village
 wolkwitz::village
 wollar::village
 wolleka::village
 wollersheim::village
+wöllmarshausen::village
+wólne::village
 wolphaartsdijk::village
 wolsum::village
+wołuszewo::village
 wolvengat::village
 wolverine lake::village
 wolverine::village
 wolverton::village
 wolves:狼
 wolwark::village
-wolęcin::village
 woman:女人
 womb:子宫
 wombat:袋熊
@@ -1253,22 +1327,22 @@ wong yue tan::village
 wonorze::village
 wonotoro::village
 wonrobogo::village
-wons::village
 wonséaly::village
+wons::village
 wooburn green::village
-wood end::village
-wood lake::village
-wood mountain::village
 wood:木头
+wood end::village
 woodford::village
 woodhouse eaves::village
 woodhull::village
-woodland::village
+wood lake::village
 woodlands::village
+woodland::village
 woodlawn::village
-woodman::village
 woodmancott::village
 woodmansterne::village
+woodman::village
+wood mountain::village
 woodnesborough::village
 woodnewton::village
 woodridge::village
@@ -1305,13 +1379,13 @@ workerszell::village
 workhall::village
 works:工厂
 workstation:工作站
-world cup:世界杯
+world:世界
 world championships:世界锦标赛
+world cup:世界杯
 world food programme:世界粮食计划署
 world record:世界记录
 world record holder:世界记录保持者
 world war:世界大战
-world:世界
 worldwide:全世界的
 worm:蠕虫
 wormald green::village
@@ -1326,23 +1400,22 @@ worsen:恶化
 worsley::village
 worsy::village
 wortel::village
-worth::village
 worthen::village
 worthington::village
+worth::village
 worthwhile to do:值得做
 woskrzenice duże::village
 woskrzenice małe::village
 wotten waven::village
 woubrugge::village
 woudsend::village
-would like to know:想要知道
 would:将
+would like to know:想要知道
 wound:伤
 wounded:受伤的
 woussé::village
 wouw::village
 woziwoda::village
-wołuszewo::village
 wrangle::village
 wrath:愤怒
 wrawby::village
@@ -1353,50 +1426,51 @@ wreck:破坏
 wreechen::village
 wrench:扳手
 wrestling:摔角
+wrightia demartiniana::plant
 wrightstown::village
 wrist:腕
 write:写
 writer:作家
 writing:写作
+wróblewo::village
+wróbliniec::village
+wróblowice::village
+wrocisławice::village
 wrociszów dolny::village
 wrociszów górny::village
-wrocisławice::village
 wrocki::village
 wrocławice::village
 wrocławki::village
 wrong:错的
 wronie::village
 wroniniec::village
+wronów::village
 wronowy::village
 wrony::village
-wronów::village
 wrote:写下
 wroxeter::village
+wrząca Śląska::village
+wrząca wielka::village
 wrzeszczyn::village
 wrzeszewo::village
 wrzeszów::village
 wrzosowisko::village
 wrzosy::village
-wrząca wielka::village
-wrząca Śląska::village
-wróblewo::village
-wróbliniec::village
-wróblowice::village
 wszechświęte::village
 wszedzień::village
-wszemirów::village
 wszemiłowice::village
+wszemirów::village
 wszewilki::village
 wtelno::village
-wu shek kok::village
-wudzyn::village
 wudzynek::village
+wudzyn::village
 wuhpatu::village
 wujuh al-hajar::village
 wulgai::village
 wulpen::village
 wunlit::village
 wusaohkao::village
+wu shek kok::village
 wutayyah::village
 wutze::village
 www:万维网
@@ -1405,9 +1479,9 @@ wybcz::village
 wybczyk::village
 wyberton::village
 wybranowo::village
+wybudowanie Łasińskie::village
 wybudowanie michałowo::village
 wybudowanie raciąskie::village
-wybudowanie Łasińskie::village
 wychbold::village
 wycinki::village
 wycoller::village
@@ -1423,111 +1497,38 @@ wylatowo::village
 wymeer::village
 wymokłe::village
 wymondham::village
+wymyślin::village
 wymysłowice::village
 wymysłowo szlacheckie::village
 wymysłowo::village
-wymyślin::village
 wynot::village
 wyns::village
 wynyard::village
 wyocena::village
+wyręba::village
 wyrobki::village
 wyrwa::village
 wyrza::village
-wyręba::village
 wyskok::village
 wysocin::village
 wysocki młyn::village
 wysocko::village
 wysoka krajeńska::village
-wysoka wieś::village
 wysoka::village
-wysoki kościół::village
-wysoki most::village
+wysoka wieś::village
 wysokie brodno::village
 wysokie::village
+wysoki kościół::village
+wysoki most::village
 występ::village
+wyszęcice::village
 wyszkowice::village
 wyszków::village
 wyszogród::village
 wyszomierz::village
 wyszonowice::village
-wyszęcice::village
 wytgaard::village
 wytrębowice::village
 wyville::village
 wziąchowo małe::village
 wziąchowo wielkie::village
-wâlterswâld::village
-wânswert::village
-wójcice::village
-wójcin::village
-wójtowice::village
-wójtowskie::village
-wójtówka::village
-wólka biska::village
-wólka czernięcińska::village
-wólka czułczycka::village
-wólka dobryńska::village
-wólka komorowska::village
-wólka korczowska::village
-wólka kościeniewicka::village
-wólka krzymowska::village
-wólka leśna::village
-wólka okopska::village
-wólka plebańska::village
-wólka polinowska::village
-wólka zabłocka-kolonia::village
-wólka zabłocka::village
-wólka Łózecka::village
-wólka::village
-wólne::village
-wöllmarshausen::village
-wālī::village
-wān kongmakpin::village
-wān long::village
-wān mae aw::village
-wān na-mon::village
-wąbnice::village
-wądroże małe::village
-wądroże wielkie::village
-wądroże::village
-wądzyn::village
-wągroda::village
-wągrodno::village
-wąpielsk::village
-wąsosz::village
-wąwał::village
-wąwelno::village
-wąwolnica::village
-węgierce::village
-węgiersk::village
-węglewo::village
-węgorzyn::village
-węgrce szlacheckie::village
-węgrowo::village
-węgry::village
-węgrzce::village
-węgrzynów::village
-węgrów::village
-wętfie::village
-wężowice::village
-władysławowo::village
-władysławów::village
-włodków dolny::village
-włodzice małe::village
-włodzice wielkie::village
-włodzimierka::village
-włodzimierzewo::village
-włosień::village
-włostowo::village
-włoszanowo::village
-włoszyca lubańska::village
-włoszyca::village
-włościborek::village
-włościbórz::village
-włóki::village
-wildflower::plant
-white poppy::plant
-westringia blakeana::plant
-westringia acifolia::plant
