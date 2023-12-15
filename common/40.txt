@@ -1,0 +1,27 @@
+@ parties::english
+@ parties::english:noun
+@ party::english
+@ party::english:noun
+@$$::english
+@$$::english:noun
+@55::english
+@55::english:noun
+@::english
+@::english:preposition
+@::english:verb
+@::german
+@::german:preposition
+@::hungarian
+@::japanese
+@::portuguese
+@::russian
+@::serbo croatian
+@::spanish
+@::swedish
+@::turkish
+@ed::english
+@ed::english:verb
+@ing::english
+@ing::english:verb
+@s::english
+@s::english:verb
