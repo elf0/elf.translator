@@ -1,108 +1,115 @@
-.---.::japanese
-.---::greek
-.---::japanese
-.---::thai
-.--.-::japanese
-.--.-::thai
-.--..::japanese
-.--..::thai
-.--.::greek
-.--.::japanese
-.--.::thai
-.--::greek
 .--::japanese
+..-::japanese
+.-.::japanese
+...::japanese
+... ydw i::welsh
+.i.::scottish gaelic
+.ج.م::arabic:noun
+.---::thai
+..--::thai
+.-.-::thai
+...-::thai
+.--.::thai
+..-.::thai
+.-..::thai
+....::thai
+... sim, ... não::portuguese:adverb
+.-::japanese
 .--::thai
+..-::thai
+.-.::thai
+...::thai
+.-::thai
+.i.::irish
+.---::japanese
+..--::japanese
+.-.-::japanese
+...-::japanese
+.--.::japanese
+..-.::japanese
+.-..::japanese
+....::japanese
+... yaşındayım::turkish
+.303::film
+.ج.م::arabic
+...and justice for all::film
+.ovl's::english
+...e fuori nevica::film
+...and justice for all.::film
+.---::greek
+..--::greek
+.-.-::greek
+...-::greek
+.--.::greek
+..-.::greek
+.-..::greek
+....::greek
 .-.--::japanese
+.--.-::japanese
+..-.-::japanese
+.-..-::japanese
+.---.::japanese
+..--.::japanese
+.-.-.::japanese
+.--..::japanese
+..-..::japanese
+.-...::japanese
+.357s::english:noun
+.ovls::english:noun
+.coms::english:noun
+... lıyım::turkish
+.i.::irish:adverb
+.45::film
 .-.--::thai
+.--.-::thai
+..-.-::thai
+.-..-::thai
+..--.::thai
+.-.-.::thai
+...-.::thai
+.--..::thai
+..-..::thai
+.-...::thai
+.ovl's::english:noun
+... sim, ... não::portuguese
+.22::english:noun
+.45::english:noun
+.38::english:noun
+.357s::english
+.ovls::english
+.coms::english
+.--::greek
+..-::greek
+.-.::greek
+...::greek
+.com::english:noun
+.500::english:noun
+.38s::english:noun
+.22s::english:noun
+.45s::english:noun
+.txt::english:noun
+.dat::english:noun
+.357::english:noun
+.ovl::english:noun
+.net::english:proper noun
+.-::greek
+.fi::finnish
+...re::film
+.com::english
+.500::english
+.38s::english
+.22s::english
+.45s::english
+.txt::english
+.dat::english
+.net::english
+.357::english
+.ovl::english
+.i.::scottish gaelic:adverb
+...e fuori nevica!::film
 .-.-.-::japanese
 .-.-..::japanese
-.-.-.::japanese
-.-.-.::thai
-.-.-::greek
-.-.-::japanese
-.-.-::thai
-.-..-::japanese
-.-..-::thai
-.-...::japanese
-.-...::thai
-.-..::greek
-.-..::japanese
-.-..::thai
-.-.::greek
-.-.::japanese
-.-.::thai
-.-::greek
-.-::japanese
-.-::thai
-..--.::japanese
-..--.::thai
-..--::greek
-..--::japanese
-..--::thai
-..-.-::japanese
-..-.-::thai
-..-..::japanese
-..-..::thai
-..-.::greek
-..-.::japanese
-..-.::thai
-..-::greek
-..-::japanese
-..-::thai
-... lıyım::turkish
-... sim, ... não::portuguese
-... sim, ... não::portuguese:adverb
-... yaşındayım::turkish
-... ydw i::welsh
-... yılında doğdum::turkish
-...-.::thai
-...-::greek
-...-::japanese
-...-::thai
-....::greek
-....::japanese
-....::thai
-...::greek
-...::japanese
-...::thai
 .22::english
-.22::english:noun
-.22s::english
-.22s::english:noun
-.357::english
-.357::english:noun
-.357s::english
-.357s::english:noun
-.38::english
-.38::english:noun
-.38s::english
-.38s::english:noun
 .45::english
-.45::english:noun
-.45s::english
-.45s::english:noun
-.500::english
-.500::english:noun
-.com::english
-.com::english:noun
-.coms::english
-.coms::english:noun
-.dat::english
-.dat::english:noun
-.fi::finnish
-.i.::irish
-.i.::irish:adverb
-.i.::scottish gaelic
-.i.::scottish gaelic:adverb
-.net::english
-.net::english:proper noun
-.ovl's::english
-.ovl's::english:noun
-.ovl::english
-.ovl::english:noun
-.ovls::english
-.ovls::english:noun
-.txt::english
-.txt::english:noun
-.ج.م::arabic
-.ج.م::arabic:noun
+.38::english
+... yılında doğdum::turkish

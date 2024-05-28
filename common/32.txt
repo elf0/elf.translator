@@ -1,1376 +1,1468 @@
-2 chr::english
-2 chr::english:proper noun
-2 chron.::english
-2 chron.::english:proper noun
-2 chronicles::english
-2 chronicles::english:proper noun
-2 chroniques::french
-2 chroniques::french:proper noun
-2 cor.::english
-2 cor.::english:proper noun
-2 corantaigh::irish
-2 corantaigh::irish:proper noun
-2 corinthians::english
-2 corinthians::english:proper noun
-2 corinthiens::french
-2 corinthiens::french:proper noun
-2 corintios::spanish
-2 corintios::spanish:proper noun
-2 corintis::catalan
-2 corintis::catalan:proper noun
-2 croinicí::irish
-2 croinicí::irish:proper noun
-2 cròniques::catalan
-2 cròniques::catalan:proper noun
-2 crónicas::spanish
-2 crónicas::spanish:proper noun
-2 cv::french
-2 cv::french:noun
-2 eoin::irish
-2 eoin::irish:proper noun
-2 for 1::english
-2 for 1::english:noun
-2 gauge::english
-2 gauge::english:noun
-2 jean::french
-2 jean::french:proper noun
-2 joan::catalan
-2 joan::catalan:proper noun
-2 joh.::english
-2 joh.::english:proper noun
-2 john::english
-2 john::english:proper noun
-2 juan::spanish
-2 juan::spanish:proper noun
-2 kgs::english
-2 kgs::english:proper noun
-2 kings::english
-2 kings::english:proper noun
-2 l::english
-2 l::english:noun
-2 ls::english
-2 ls::english:noun
-2 macabaeigh::irish
-2 macabaeigh::irish:proper noun
-2 macc.::english
-2 macc.::english:proper noun
-2 maccabees::english
-2 maccabees::english:proper noun
-2 mai::romanian
-2 mai::romanian:proper noun
-2 peadar::irish
-2 peadar::irish:proper noun
-2 pedro::spanish
-2 pedro::spanish:proper noun
-2 pere::catalan
-2 pere::catalan:proper noun
-2 pet.::english
-2 pet.::english:proper noun
-2 peter::english
-2 peter::english:proper noun
-2 pierre::french
-2 pierre::french:proper noun
-2 reis::catalan
-2 reis::catalan:proper noun
-2 reyes::spanish
-2 reyes::spanish:proper noun
-2 rois::french
-2 rois::french:proper noun
-2 ríthe::irish
-2 ríthe::irish:proper noun
-2 sam.::english
-2 sam.::english:proper noun
-2 samuel::catalan
-2 samuel::catalan:proper noun
-2 samuel::english
-2 samuel::english:proper noun
-2 samuel::french
-2 samuel::french:proper noun
-2 samuel::spanish
-2 samuel::spanish:proper noun
-2 samúéil::irish
-2 samúéil::irish:proper noun
-2 teasalónaigh::irish
-2 teasalónaigh::irish:proper noun
-2 tesalonicenses::spanish
-2 tesalonicenses::spanish:proper noun
-2 tessalonicencs::catalan
-2 tessalonicencs::catalan:proper noun
-2 thess.::english
-2 thess.::english:proper noun
-2 thessalonians::english
-2 thessalonians::english:proper noun
-2 thessaloniciens::french
-2 thessaloniciens::french:proper noun
-2 tim.::english
-2 tim.::english:proper noun
-2 timoteo::spanish
-2 timoteo::spanish:proper noun
-2 timoteu::catalan
-2 timoteu::catalan:proper noun
-2 timothy::english
-2 timothy::english:proper noun
-2 timothée::french
-2 timothée::french:proper noun
-2 tiomóid::irish
-2 tiomóid::irish:proper noun
-2 tone::english
-2 tone::english:noun
-2'nci::turkish
-2'nci::turkish:adjective
-2's::english
-2's::english:noun
-2+1 road::english
-2+1 road::english:noun
-2+1 roads::english
-2+1 roads::english:noun
-2+1-väg::swedish
-2+1-väg::swedish:noun
-2,4,5-t::english
-2,4,5-t::english:noun
-2,4-d::english
-2,4-d::english:noun
-2,4-dnph::english
-2,4-dnph::english:noun
-2-1 road::english
-2-1 road::english:noun
-2-10-0::english
-2-10-0::english:noun
-2-10-0s::english
-2-10-0s::english:noun
-2-10-10-2::english
-2-10-10-2::english:noun
-2-10-10-2s::english
-2-10-10-2s::english:noun
-2-10-2::english
-2-10-2::english:noun
-2-10-2s::english
-2-10-2s::english:noun
-2-10-4::english
-2-10-4::english:noun
-2-10-4s::english
-2-10-4s::english:noun
-2-12-0::english
-2-12-0::english:noun
-2-12-0s::english
-2-12-0s::english:noun
-2-12-2::english
-2-12-2::english:noun
-2-12-2s::english
-2-12-2s::english:noun
-2-12-4::english
-2-12-4::english:noun
-2-12-4s::english
-2-12-4s::english:noun
-2-2-0::english
-2-2-0::english:noun
-2-2-0s::english
-2-2-0s::english:noun
-2-2-2::english
-2-2-2::english:noun
-2-2-2s::english
-2-2-2s::english:noun
-2-2-4::english
-2-2-4::english:noun
-2-2-4s::english
-2-2-4s::english:noun
-2-3 tree::english
-2-3 tree::english:noun
-2-3-4 tree::english
-2-3-4 tree::english:noun
-2-4 tree::english
-2-4 tree::english:noun
-2-4-0::english
-2-4-0::english:noun
-2-4-0s::english
-2-4-0s::english:noun
-2-4-2::english
-2-4-2::english:noun
-2-4-2s::english
-2-4-2s::english:noun
-2-4-4-2::english
-2-4-4-2::english:noun
-2-4-4-2s::english
-2-4-4-2s::english:noun
-2-4-4::english
-2-4-4::english:noun
-2-4-4s::english
-2-4-4s::english:noun
-2-4-6 block::english
-2-4-6 block::english:noun
-2-4-6 blocks::english
-2-4-6 blocks::english:noun
-2-6-0+0-6-2::english
-2-6-0+0-6-2::english:noun
-2-6-0+0-6-2s::english
-2-6-0+0-6-2s::english:noun
-2-6-0::english
-2-6-0::english:noun
-2-6-0s::english
-2-6-0s::english:noun
-2-6-2::english
-2-6-2::english:noun
-2-6-2s::english
-2-6-2s::english:noun
-2-6-4::english
-2-6-4::english:noun
-2-6-4s::english
-2-6-4s::english:noun
-2-6-6-0::english
-2-6-6-0::english:noun
-2-6-6-0s::english
-2-6-6-0s::english:noun
-2-6-6-2::english
-2-6-6-2::english:noun
-2-6-6-2s::english
-2-6-6-2s::english:noun
-2-6-6-4::english
-2-6-6-4::english:noun
-2-6-6-4s::english
-2-6-6-4s::english:noun
-2-6-6-6::english
-2-6-6-6::english:noun
-2-6-6-6s::english
-2-6-6-6s::english:noun
-2-6-6::english
-2-6-6::english:noun
-2-6-6s::english
-2-6-6s::english:noun
-2-6-8-0::english
-2-6-8-0::english:noun
-2-6-8-0s::english
-2-6-8-0s::english:noun
-2-8-0+0-8-2::english
-2-8-0+0-8-2::english:noun
-2-8-0+0-8-2s::english
-2-8-0+0-8-2s::english:noun
-2-8-0::english
-2-8-0::english:noun
-2-8-0s::english
-2-8-0s::english:noun
-2-8-2::english
-2-8-2::english:noun
-2-8-2s::english
-2-8-2s::english:noun
-2-8-4::english
-2-8-4::english:noun
-2-8-4s::english
-2-8-4s::english:noun
-2-8-6::english
-2-8-6::english:noun
-2-8-6s::english
-2-8-6s::english:noun
-2-8-8-0::english
-2-8-8-0::english:noun
-2-8-8-0s::english
-2-8-8-0s::english:noun
-2-8-8-2::english
-2-8-8-2::english:noun
-2-8-8-2s::english
-2-8-8-2s::english:noun
-2-8-8-4::english
-2-8-8-4::english:noun
-2-8-8-4s::english
-2-8-8-4s::english:noun
-2-8-8-8-2::english
-2-8-8-8-2::english:noun
-2-8-8-8-2s::english
-2-8-8-8-2s::english:noun
-2-8-8-8-4::english
-2-8-8-8-4::english:noun
-2-8-8-8-4s::english
-2-8-8-8-4s::english:noun
-2-a::esperanto
-2-a::esperanto:adjective
-2-a::romanian
-2-a::romanian:adjective
-2-ap::english
-2-ap::english:noun
-2-butanone::english
-2-butanone::english:noun
-2-d::english
-2-d::english:adjective
-2-dimensional::english
-2-dimensional::english:adjective
-2-es::hungarian
-2-es::hungarian:adjective
-2-es::hungarian:noun
-2-fach::german
-2-fach::german:adjective
-2-füssig::german
-2-füssig::german:adjective
-2-füßig::german
-2-füßig::german:adjective
-2-ic::english
-2-ic::english:noun
-2-in-1::english
-2-in-1::english:noun
-2-in-1s::english
-2-in-1s::english:noun
-2-jährig::german
-2-jährig::german:adjective
-2-jährige::german
-2-jährige::german:noun
-2-jährigen::german
-2-jähriger::german
-2-jähriger::german:noun
-2-krona::swedish
-2-krona::swedish:noun
-2-kronan::swedish
-2-kronan::swedish:noun
-2-kronans::swedish
-2-kronans::swedish:noun
-2-kronas::swedish
-2-kronas::swedish:noun
-2-kronor::swedish
-2-kronor::swedish:noun
-2-kronorna::swedish
-2-kronorna::swedish:noun
-2-kronornas::swedish
-2-kronornas::swedish:noun
-2-kronors::swedish
-2-kronors::swedish:noun
-2-köpfig::german
-2-köpfig::german:adjective
-2-mal::german
-2-mal::german:adverb
-2-malig::german
-2-malig::german:adjective
-2-methyl-1,3-butadiene::english
-2-methyl-1,3-butadiene::english:noun
-2-methyl-2-propenoic acid::english
-2-methyl-2-propenoic acid::english:noun
-2-methylbutane::english
-2-methylbutane::english:noun
-2-methylpropane::english
-2-methylpropane::english:noun
-2-methylpropanes::english
-2-methylpropanes::english:noun
-2-metyylibutaaneihin::finnish
-2-metyylibutaaneihin::finnish:noun
-2-metyylibutaaneiksi::finnish
-2-metyylibutaaneiksi::finnish:noun
-2-metyylibutaaneilla::finnish
-2-metyylibutaaneilla::finnish:noun
-2-metyylibutaaneille::finnish
-2-metyylibutaaneille::finnish:noun
-2-metyylibutaaneilta::finnish
-2-metyylibutaaneilta::finnish:noun
-2-metyylibutaanein::finnish
-2-metyylibutaanein::finnish:noun
-2-metyylibutaaneina::finnish
-2-metyylibutaaneina::finnish:noun
-2-metyylibutaaneissa::finnish
-2-metyylibutaaneissa::finnish:noun
-2-metyylibutaaneista::finnish
-2-metyylibutaaneista::finnish:noun
-2-metyylibutaaneitta::finnish
-2-metyylibutaaneitta::finnish:noun
-2-metyylibutaaneja::finnish
-2-metyylibutaaneja::finnish:noun
+23 skidoo::english
 2-metyylibutaani::finnish
-2-metyylibutaani::finnish:noun
-2-metyylibutaania::finnish
-2-metyylibutaania::finnish:noun
-2-metyylibutaanien::finnish
-2-metyylibutaanien::finnish:noun
-2-metyylibutaaniin::finnish
-2-metyylibutaaniin::finnish:noun
-2-metyylibutaaniksi::finnish
-2-metyylibutaaniksi::finnish:noun
-2-metyylibutaanilla::finnish
-2-metyylibutaanilla::finnish:noun
-2-metyylibutaanille::finnish
-2-metyylibutaanille::finnish:noun
-2-metyylibutaanilta::finnish
-2-metyylibutaanilta::finnish:noun
-2-metyylibutaanin::finnish
-2-metyylibutaanin::finnish:noun
-2-metyylibutaanina::finnish
-2-metyylibutaanina::finnish:noun
-2-metyylibutaanissa::finnish
-2-metyylibutaanissa::finnish:noun
-2-metyylibutaanista::finnish
-2-metyylibutaanista::finnish:noun
-2-metyylibutaanit::finnish
-2-metyylibutaanit::finnish:noun
-2-metyylibutaanitta::finnish
-2-metyylibutaanitta::finnish:noun
-2-minütig::german
-2-minütig::german:adjective
-2-monatig::german
-2-monatig::german:adjective
-2-monatlich::german
-2-monatlich::german:adjective
-2-méthylbutane::french
-2-méthylbutane::french:noun
-2-méthylbutanes::french
-2-méthylbutanes::french:noun
-2-méthylpropane::french
-2-méthylpropane::french:noun
-2-méthylpropanes::french
-2-méthylpropanes::french:noun
-2-step garage::english
-2-step garage::english:noun
-2-stündig::german
-2-stündig::german:adjective
-2-tägig::german
-2-tägig::german:adjective
-2-up::english
-2-up::english:adjective
-2-up::english:noun
-2-ups::english
-2-ups::english:noun
-2-öring::swedish
-2-öring::swedish:noun
-2-öringar::swedish
-2-öringar::swedish:noun
-2-öringarna::swedish
-2-öringarna::swedish:noun
-2-öringarnas::swedish
-2-öringarnas::swedish:noun
-2-öringars::swedish
-2-öringars::swedish:noun
-2-öringen::swedish
-2-öringen::swedish:noun
-2-öringens::swedish
-2-öringens::swedish:noun
-2-örings::swedish
+2nd grader::english
+2 tessalonicencs::catalan
 2-örings::swedish:noun
-2-ой::russian
-2-ой::russian:adjective
-2. aik.::finnish
-2. aik.::finnish:proper noun
-2. moos.::finnish
-2. moos.::finnish:proper noun
-2. sam.::finnish
-2. sam.::finnish:proper noun
-2.0::english
-2.0::english:adjective
-2.4 children::english
-2.4 children::english:noun
-2.5d::english
-2.5d::english:adjective
-2.5g::english
-2.5g::english:adjective
-2.5次元::japanese
-2.5次元::japanese:noun
-2.::german
-2.::german:adjective
-2.::icelandic
-2.::icelandic:adjective
-2.::turkish
-2.::turkish:adjective
-2.ª::portuguese
-2.ª::portuguese:adjective
-2.ª::spanish
-2.ª::spanish:adjective
-2.ªs::portuguese
-2.ªs::portuguese:adjective
-2.ªs::spanish
-2.ªs::spanish:adjective
-2.º::portuguese
-2.º::portuguese:adjective
-2.º::spanish
-2.º::spanish:adjective
-2.ºs::portuguese
-2.ºs::portuguese:adjective
-2.ºs::spanish
-2.ºs::spanish:adjective
-2/2::english
-2/2::english:noun
-2/3rds::english
-2/3rds::english:noun
-2/4::english
-2/4::english:noun
-20 000-es::hungarian
+2 corinthians::english:proper noun
 20 000-es::hungarian:adjective
-20 000-es::hungarian:noun
-20'nci::turkish
-20'nci::turkish:adjective
-20's::english
-20's::english:noun
-20-80 rule::english
-20-80 rule::english:proper noun
-20-as::hungarian
-20-as::hungarian:adjective
-20-as::hungarian:noun
-20-eck::german
-20-eck::german:noun
-20-eckig::german
-20-eckig::german:adjective
-20-fach::german
-20-fach::german:adjective
-20-flächner::german
-20-flächner::german:noun
-20-jährig::german
-20-jährig::german:adjective
-20-jährige::german
-20-jährige::german:noun
-20-jährigen::german
-20-jähriger::german
-20-jähriger::german:noun
-20-köpfig::german
-20-köpfig::german:adjective
-20-lapp::swedish
-20-lapp::swedish:noun
-20-lappar::swedish
-20-lappar::swedish:noun
-20-lapparna::swedish
-20-lapparna::swedish:noun
-20-lapparnas::swedish
-20-lapparnas::swedish:noun
-20-lappars::swedish
-20-lappars::swedish:noun
-20-lappen::swedish
-20-lappen::swedish:noun
-20-lappens::swedish
-20-lappens::swedish:noun
-20-lapps::swedish
-20-lapps::swedish:noun
-20-mal::german
-20-mal::german:adverb
-20-minütig::german
-20-minütig::german:adjective
-20-monatig::german
-20-monatig::german:adjective
-20-seitig::german
-20-seitig::german:adjective
+2-metyylibutaani::finnish:noun
+2-dimensional::english
+24 sussex::french
+200 mètres::film
+26-stündig::german
+27-stündig::german
+28-stündig::german
+29-stündig::german
 20-stündig::german
-20-stündig::german:adjective
-20-teilig::german
-20-teilig::german:adjective
-20-tägig::german
-20-tägig::german:adjective
-20-wöchig::german
+21-stündig::german
+22-stündig::german
+23-stündig::german
+24-stündig::german
+25-stündig::german
+2 tiomóid::irish:proper noun
+2o::french:adverb
+2channelers::english:noun
+2-öringarnas::swedish:noun
+24/7::italian:adverb
+22-wöchig::german:adjective
+23-wöchig::german:adjective
+24-wöchig::german:adjective
+25-wöchig::german:adjective
+26-wöchig::german:adjective
+27-wöchig::german:adjective
+28-wöchig::german:adjective
+29-wöchig::german:adjective
 20-wöchig::german:adjective
-20-იანები::georgian
-20-იანები::georgian:noun
-20-იანი წლები::georgian
-20-იანი წლები::georgian:noun
-20.::danish
-20.::german
-20.::german:adjective
-20.::icelandic
-20.::icelandic:adjective
-20.º::portuguese
-20.º::portuguese:adjective
-20.º::spanish
-20.º::spanish:adjective
-20/20::english
-20/20::english:adjective
-200 meters::english
-200 meters::english:noun
-200 metres::english
-200 metres::english:noun
-200 metri::italian
-200 metri::italian:noun
-200 metrin juoksu::finnish
-200 metrin juoksu::finnish:noun
-200 metrin juoksua::finnish
-200 metrin juoksua::finnish:noun
-200 metrin juoksuihin::finnish
-200 metrin juoksuihin::finnish:noun
-200 metrin juoksuiksi::finnish
-200 metrin juoksuiksi::finnish:noun
-200 metrin juoksuilla::finnish
-200 metrin juoksuilla::finnish:noun
-200 metrin juoksuille::finnish
-200 metrin juoksuille::finnish:noun
-200 metrin juoksuilta::finnish
-200 metrin juoksuilta::finnish:noun
-200 metrin juoksuin::finnish
-200 metrin juoksuin::finnish:noun
-200 metrin juoksuina::finnish
-200 metrin juoksuina::finnish:noun
-200 metrin juoksuissa::finnish
-200 metrin juoksuissa::finnish:noun
-200 metrin juoksuista::finnish
-200 metrin juoksuista::finnish:noun
-200 metrin juoksuitta::finnish
-200 metrin juoksuitta::finnish:noun
-200 metrin juoksuja::finnish
-200 metrin juoksuja::finnish:noun
-200 metrin juoksujen::finnish
-200 metrin juoksujen::finnish:noun
-200 metrin juoksuksi::finnish
-200 metrin juoksuksi::finnish:noun
-200 metrin juoksulla::finnish
-200 metrin juoksulla::finnish:noun
-200 metrin juoksulle::finnish
-200 metrin juoksulle::finnish:noun
-200 metrin juoksulta::finnish
-200 metrin juoksulta::finnish:noun
-200 metrin juoksun::finnish
-200 metrin juoksun::finnish:noun
-200 metrin juoksuna::finnish
-200 metrin juoksuna::finnish:noun
-200 metrin juoksussa::finnish
-200 metrin juoksussa::finnish:noun
-200 metrin juoksusta::finnish
-200 metrin juoksusta::finnish:noun
-200 metrin juoksut::finnish
-200 metrin juoksut::finnish:noun
-200 metrin juoksutta::finnish
-200 metrin juoksutta::finnish:noun
-200 metrin juoksuun::finnish
-200 metrin juoksuun::finnish:noun
-200 metriä::finnish
-200 metriä::finnish:noun
-200 mètres::french
-200 mètres::french:noun
-200-as::hungarian
-200-as::hungarian:adjective
-200-as::hungarian:noun
-200-jährig::german
-200-jährig::german:adjective
-200-lapp::swedish
-200-lapp::swedish:noun
-200-lappar::swedish
-200-lappar::swedish:noun
-200-lapparna::swedish
-200-lapparna::swedish:noun
-200-lapparnas::swedish
-200-lapparnas::swedish:noun
-200-lappars::swedish
-200-lappars::swedish:noun
-200-lappen::swedish
-200-lappen::swedish:noun
-200-lappens::swedish
-200-lappens::swedish:noun
-200-lapps::swedish
-200-lapps::swedish:noun
-2000-es::hungarian
-2000-es::hungarian:adjective
-2000-es::hungarian:noun
-2000s::english
-2000s::english:noun
-2000年問題::chinese
-2000年問題::chinese:noun
-2000年问题::chinese
-200::russian
+21-wöchig::german:adjective
+2-örings::swedish
+2-fach::german:adjective
+25-öringarnas::swedish
+2-methylbutane::english:noun
+2 chroniques::french:proper noun
+25-örings::swedish:noun
+20 cigarettes::film
+2.ª::spanish
+2.º::spanish
+20-lapparnas::swedish
+2046::chinese
+2月::chinese
+2.::icelandic:adjective
+2-a::esperanto
+2aj::esperanto
+2an::esperanto
+20-flächner::german
 200::russian:noun
+2.::turkish:adjective
+27-eck::german:noun
+28-eck::german:noun
+20-eck::german:noun
+21-eck::german:noun
+22-eck::german:noun
+24-eck::german:noun
+2::english:preposition
+20000 lieues sous les mers::film
+2channeler::english
+200 metriä::finnish
+2::film
+2000年問題::chinese
+2-3 tree::english:noun
+2-4 tree::english:noun
+2nd graders::english:noun
+2-3 tree::english
+2-4 tree::english
+200 metrin juoksuin::finnish:noun
+200 metrin juoksuun::finnish:noun
+200 metrin juoksuja::finnish:noun
+200 metrin juoksuna::finnish:noun
+2slgbtqqia+::english
+23 skidoo street::english:proper noun
+25-öringar::swedish:noun
+25-öringen::swedish:noun
+2-4-6 block::english:noun
+2nd parties::english:noun
+2-metyylibutaanilla::finnish:noun
+2-metyylibutaanissa::finnish:noun
+2-metyylibutaanilta::finnish:noun
+2-metyylibutaanista::finnish:noun
+2-metyylibutaanitta::finnish:noun
+2-metyylibutaanille::finnish:noun
+2-metyylibutaaniksi::finnish:noun
+2.::german:adjective
+24/7/365::english
+2-stündig::german
+2 corinthians::english
+2os::spanish
+2as::spanish
+23f::spanish
+2ª::spanish
+2º::spanish
+250::chinese
+233::chinese
+2 cròniques::catalan:proper noun
+2 timothy::english
+2-öringar::swedish:noun
+2-öringen::swedish:noun
+2s::english:adjective
+2d::english:adjective
+2e::english:adjective
+2g::english:adjective
+22 luglio::film
+2::malay
+2 eoin::irish:proper noun
+20-80 rule::english
+22 minutes::film
+2-kronan::swedish:noun
+200 mètres::french
+2-metyylibutaanien::finnish:noun
+2-metyylibutaaniin::finnish:noun
+2-metyylibutaanina::finnish:noun
+2-kronan::swedish
+25.º::spanish:adjective
+26.º::spanish:adjective
+27.º::spanish:adjective
+28.º::spanish:adjective
+29.º::spanish:adjective
+20.º::spanish:adjective
+21.º::spanish:adjective
+22.º::spanish:adjective
+23.º::spanish:adjective
+24.º::spanish:adjective
+2.ªs::spanish:adjective
+2.ºs::spanish:adjective
+2ry::english:adjective
+2xl::english:adjective
+2.0::english:adjective
+2-d::english:adjective
+2nd::english:adjective
+22d::english:adjective
+23d::english:adjective
+200-lapps::swedish:noun
+2 rois::french:proper noun
+2e::french:adjective
+2::english:noun
+200 metrin juoksua::finnish:noun
+200 metrin juoksut::finnish:noun
+200 metrin juoksun::finnish:noun
+256th note::english:noun
+2001 – ett rymdäventyr::film
+2 jean::french:proper noun
+2-butanone::english:noun
+21 &amp; over::film
+2つ::japanese
+2日::japanese
+2mix::japanese
+2月::japanese
+2人::japanese
+2.5次元::japanese:noun
+2 samuel::english:proper noun
+200 meters::english
+2 samuel::spanish:proper noun
+23 august::romanian:proper noun
+20-monatig::german
+24-monatig::german
+25-öringarna::swedish
+20-იანი წლები::georgian:noun
+200 metrin juoksuille::finnish:noun
+200 metrin juoksuihin::finnish:noun
+200 metrin juoksuiksi::finnish:noun
+200 metrin juoksuissa::finnish:noun
+200 metrin juoksuitta::finnish:noun
+200 metrin juoksuilta::finnish:noun
+200 metrin juoksuista::finnish:noun
+200 metrin juoksuilla::finnish:noun
+2-metyylibutaaneille::finnish:noun
+2-metyylibutaaneiksi::finnish:noun
+2-metyylibutaaneihin::finnish:noun
+2-metyylibutaaneilla::finnish:noun
+2-metyylibutaaneissa::finnish:noun
+2-metyylibutaaneilta::finnish:noun
+2-metyylibutaaneista::finnish:noun
+2-metyylibutaaneitta::finnish:noun
+20-იანი წლები::georgian
+2-méthylpropanes::french:noun
+2n::catalan
+2 samúéil::irish:proper noun
+2-méthylpropanes::french
+2-öringens::swedish:noun
+2-öringars::swedish:noun
+22. juli::film
+200-lapparnas::swedish:noun
+2.4 children::english:noun
+2. moos.::finnish
+200-lapps::swedish
+2-jähriger::german:noun
+2 thess.::english
+2::english
+2-a::romanian:adjective
+2 timoteu::catalan
+2-4-6 blocks::english:noun
+2-6-0+0-6-2::english:noun
+2-8-0+0-8-2::english:noun
+20-lappens::swedish
+22-eckes::german:noun
+20fed::welsh:adjective
+2-minütig::german
+22-eckes::german
+21ain::welsh:adjective
+22ain::welsh:adjective
+23ain::welsh:adjective
+24ain::welsh:adjective
+25ain::welsh:adjective
+26ain::welsh:adjective
+27ain::welsh:adjective
+28ain::welsh:adjective
+29ain::welsh:adjective
+2010::film
+2030::film
+2040::film
+2050::film
+2001::film
+2081::film
+2002::film
+2012::film
+2033::film
+2424::film
+2084::film
+2016::film
+2046::film
+2037::film
+2067::film
+2018::film
+25/8::film
+2019::film
+2359::film
+24/7::finnish
+2a::esperanto:adjective
+23 august::romanian
+20-80 rule::english:proper noun
+2 maccabees::english
+2 chron.::english
+2 corinthiens::french:proper noun
+2-8-8-8-2s::english
+2-8-8-8-4s::english
+2-10-10-2s::english
+24/24::vietnamese
+2 gauge::english
+2 pere::catalan:proper noun
+200 motels::film
+2 gauge::english:noun
+2 joan::catalan:proper noun
+2-methyl-1,3-butadiene::english
+2-ой::russian
+2 croinicí::irish
+23enni::italian
+24enni::italian
+2-öringarnas::swedish
+2 mai::romanian
+2 corinthiens::french
+2 reyes::spanish:proper noun
+2 reis::catalan
+2-füssig::german
+2 kings::english:proper noun
+2 mai::romanian:proper noun
+2 reis::catalan:proper noun
+200 meters::film
+2 pere::catalan
+23enne::italian
+24enne::italian
+2 joan::catalan
+2 become 1::film
+2000 weeks::film
+200 metri::film
+2 peadar::irish:proper noun
+2號電池::chinese:noun
+23enne::italian:adjective
+24enne::italian:adjective
+200-jährig::german
+20-seitig::german
+20-teilig::german
+2-monatig::german
+2d cir.::english
+22-ecks::german
+22 july::film
+2 cròniques::catalan
+24/7/365::english:adverb
+24 sata::film
+2 macc.::english
+2. aik.::finnish
+2-6-6-6::english:noun
+2-6-6-6::english
+23enni::italian:adjective
+24enni::italian:adjective
+2-ой::russian:adjective
+2. sam.::finnish
+2 peadar::irish
+2001\: a space odyssey::film
+2morrow::english
+2 tone::english
+2 joh.::english
+2 john::english
+2 juan::spanish
+21 jump street::film
+2 cor.::english
+20-eck::german
+21-eck::german
+22-eck::german
+24-eck::german
+27-eck::german
+28-eck::german
+2 pet.::english
+23\:59::film
+22 mei::film
+2 tim.::english
+2 sam.::english
+20-mal::german
+21-mal::german
+22-mal::german
+23-mal::german
+24-mal::german
+25-mal::german
+26-mal::german
+27-mal::german
+28-mal::german
+29-mal::german
+28-jährige::german:noun
+29-jährige::german:noun
+20-jährige::german:noun
+21-jährige::german:noun
+22-jährige::german:noun
+23-jährige::german:noun
+24-jährige::german:noun
+25-jährige::german:noun
+26-jährige::german:noun
+27-jährige::german:noun
+20-lappar::swedish:noun
+2 cor.::english:proper noun
+2'nci::turkish:adjective
+2 pet.::english:proper noun
+24 hrs::film
+2 pedro::spanish
+2 tim.::english:proper noun
+2 sam.::english:proper noun
+2 rois::french
+2 joh.::english:proper noun
+2 john::english:proper noun
+2-10-0::english
+2-12-0::english
+2 juan::spanish:proper noun
+20'nci::turkish
+26+6=1::english
+2-in-1::english
+24 ore::film
+2gether::film
+2-10-2::english
+2-12-2::english
+2 eoin::irish
+2-2-0s::english
+2-4-0s::english
+2-6-0s::english
+2-8-0s::english
+21700s::english
+2-2-2s::english
+2-4-2s::english
+2-6-2s::english
+2-8-2s::english
+25-nbs::english
+2 jean::french
+2-fach::german
+2-2-4s::english
+2-4-4s::english
+2-6-4s::english
+2-8-4s::english
+2/3rds::english
+2-6-6s::english
+2-8-6s::english
+2night::english
+200-lappen::swedish:noun
+200-lappar::swedish:noun
+2-10-4::english
+2-12-4::english
+2faced::english
+25-öringarnas::swedish:noun
+2d cir.::english:proper noun
+20'nci::turkish:adjective
+20-lapp::swedish:noun
+20-lapp::swedish
+24 days::film
+28 days::film
+2 macc.::english:proper noun
+2. aik.::finnish:proper noun
+2-up::english:adjective
+2-köpfig::german
+2.5d::english:adjective
+22nd::english:adjective
+23rd::english:adjective
+21st::english:adjective
+2.5g::english:adjective
+20th::english:adjective
+24th::english:adjective
+25th::english:adjective
+26th::english:adjective
+27th::english:adjective
+28th::english:adjective
+29th::english:adjective
+2ᵈ::english:adjective
+2faced::english:adjective
+20ᵗʰ::english
+2. sam.::finnish:proper noun
+22-ecke::german
+2-6-6-0::english:noun
 200step::english
+27 guns::film
+2-6-6-0::english
+2-6-8-0::english:noun
+2-8-8-0::english:noun
+2-6-8-0::english
+2-8-8-0::english
+2ⁿᵈ::english
 200step::english:noun
+2-6-0+0-6-2s::english:noun
+2-8-0+0-8-2s::english:noun
+20 fingers::film
+2 pedro::spanish:proper noun
+2 for 1::english:noun
+2000 ad::film
+2 for 1::english
+20e::french:adjective
+21e::french:adjective
+2morrow::english:adverb
+2-step garage::english:noun
+24-hour clocks::english
+2ª::portuguese
+2º::portuguese
+24::portuguese:noun
+20-lappar::swedish
+2-füßig::german
+2p::english:noun
+22::english:noun
+2b::english:noun
+2s::english:noun
+2d::english:noun
+26::english:noun
+2h::english:noun
+2l::english:noun
+27-tägig::german
+28-tägig::german
+29-tägig::german
+20-tägig::german
+21-tägig::german
+24-tägig::german
+2-krona::swedish:noun
+2-krona::swedish
+2 tessalonicencs::catalan:proper noun
+2-malig::german
+2048th note::english:noun
+2 corintios::spanish:proper noun
+20.000 leghe sotto i mari::film
+2-metyylibutaaneille::finnish
+2-metyylibutaaneiksi::finnish
+2-metyylibutaaneihin::finnish
+2-metyylibutaaneilla::finnish
+2-metyylibutaaneissa::finnish
+2-metyylibutaaneista::finnish
+2-metyylibutaaneitta::finnish
+2-metyylibutaaneilta::finnish
+2+1-väg::swedish:noun
+2slgbtq+::english:adjective
+2-4-4-2::english
+2-6-6-2::english:noun
+27 club::english
+2 peter::english
+2-6-6-2::english
+2-8-8-2::english:noun
+2-8-8-2::english
+2gether::english
+2-4-4-2::english:noun
+2ª::portuguese:adjective
+2º::portuguese:adjective
+20.::german
+21.::german
+22.::german
+23.::german
+24.::german
+25.::german
+26.::german
+27.::german
+28.::german
+29.::german
+2+1-väg::swedish
+2 kings::english
+24 sussex::french:proper noun
+2-10-0s::english
+2-12-0s::english
+2루수::korean
+25-örings::swedish
+2 thessaloniciens::french
+2-10-0s::english:noun
+2-12-0s::english:noun
+200-lappens::swedish:noun
+200-lappars::swedish:noun
+2-in-1s::english
+2 cv::french
+2.4 children::english
+2-in-1s::english:noun
+2-10-2s::english
+2-12-2s::english
+2001 - ett rymdäventyr::film
+2-10-2s::english:noun
+2-12-2s::english:noun
+24/5::english:adverb
+24-7::english:adverb
+24/7::english:adverb
+2mrw::english:adverb
+25/8::english:adverb
+2dly::english:adverb
+2day::english:adverb
+2moz::english:adverb
+29-fach::german
+20-fach::german
+21-fach::german
+22-fach::german
+23-fach::german
+24-fach::german
+25-fach::german
+26-fach::german
+27-fach::german
+28-fach::german
+2-10-4s::english
+2-12-4s::english
+2-10-4s::english:noun
+2-12-4s::english:noun
+24 horas::portuguese
+2-malig::german:adjective
+2 crónicas::spanish
+24 x 36::french
+2 reyes::spanish
+2gether::english:adverb
+2-methylpropanes::english:noun
+25-fach::german:adjective
+26-fach::german:adjective
+27-fach::german:adjective
+28-fach::german:adjective
+29-fach::german:adjective
+20-fach::german:adjective
+21-fach::german:adjective
+22-fach::german:adjective
+23-fach::german:adjective
+24-fach::german:adjective
+2차적::korean
+2-4-6 blocks::english
+2-jährig::german
+2-methylpropanes::english
+27 club::english:proper noun
+2 peter::english:proper noun
+2-öring::swedish:noun
+22-jährig::german:adjective
+23-jährig::german:adjective
+24-jährig::german:adjective
+25-jährig::german:adjective
+26-jährig::german:adjective
+27-jährig::german:adjective
+28-jährig::german:adjective
+29-jährig::german:adjective
+20-jährig::german:adjective
+21-jährig::german:adjective
+24-cell::english
+2-öring::swedish
+24-cell::english:noun
+2-6-6-4::english:noun
+2,4,5-t::english
+2-6-6-4::english
+2-8-8-4::english:noun
+2-8-8-4::english
 200米::chinese
-200米::chinese:noun
-2010-es::hungarian
-2010-es::hungarian:adjective
-2010s::english
-2010s::english:noun
+2,4,5-t::english:noun
 2019冠状病毒病::chinese
 2019冠狀病毒病::chinese
-2019冠狀病毒病::chinese:noun
-201::english
-201::english:noun
-201::english:proper noun
-201s::english
-201s::english:noun
-2020-as::hungarian
-2020-as::hungarian:adjective
-2020-as::hungarian:noun
-2020s::english
-2020s::english:noun
-2030s::english
-2030s::english:noun
-2040s::english
-2040s::english:noun
-2046::chinese
-2048th note::english
-2048th note::english:noun
-2050s::english
-2050s::english:noun
-2060s::english
-2060s::english:noun
-2070s::english
-2070s::english:noun
-2080s::english
-2080s::english:noun
-2090s::english
-2090s::english:noun
-20:o::swedish
-20:o::swedish:adverb
-20e::dutch
-20e::dutch:adjective
-20e::french
-20e::french:adjective
-20fed::welsh
-20fed::welsh:adjective
-20k::english
-20k::english:noun
-20ks::english
-20ks::english:noun
-20s::english
-20s::english:noun
-20ste::dutch
-20ste::dutch:adjective
-20ste::german
+2-metyylibutaanilla::finnish
+2-metyylibutaanissa::finnish
+2-metyylibutaanilta::finnish
+2-metyylibutaanista::finnish
+2-metyylibutaanitta::finnish
+2-metyylibutaanille::finnish
+2-metyylibutaaniksi::finnish
+2 macabaeigh::irish:proper noun
 20ste::german:adjective
-20th::english
-20th::english:adjective
-20ᵗʰ::english
-20ᵗʰ::english:adjective
-20国集团::chinese
-20國集團::chinese
-20國集團::chinese:proper noun
-21-eck::german
-21-eck::german:noun
-21-eckig::german
-21-eckig::german:adjective
-21-fach::german
-21-fach::german:adjective
-21-jährig::german
-21-jährig::german:adjective
-21-jährige::german
-21-jährige::german:noun
-21-jährigen::german
-21-jähriger::german
-21-jähriger::german:noun
-21-köpfig::german
-21-köpfig::german:adjective
-21-mal::german
-21-mal::german:adverb
-21-minütig::german
-21-minütig::german:adjective
-21-stündig::german
-21-stündig::german:adjective
-21-tägig::german
-21-tägig::german:adjective
-21-wöchig::german
-21-wöchig::german:adjective
-21.::german
-21.::german:adjective
-21.º::spanish
-21.º::spanish:adjective
-212::english
-212::english:proper noun
-21314::chinese
-213::english
-213::english:proper noun
-2160::english
-2160::english:noun
-2160s::english
-2160s::english:noun
-21700::english
-21700::english:noun
-21700s::english
-21700s::english:noun
-2170::english
-2170::english:noun
-2170s::english
-2170s::english:noun
-21ain::welsh
-21ain::welsh:adjective
-21e::dutch
-21e::dutch:adjective
-21e::french
-21e::french:adjective
-21st::english
-21st::english:adjective
-21ste::dutch
-21ste::dutch:adjective
-22-eck::german
-22-eck::german:noun
-22-ecke::german
-22-ecke::german:noun
-22-eckes::german
-22-eckes::german:noun
-22-eckig::german
-22-eckig::german:adjective
-22-ecks::german
-22-ecks::german:noun
-22-fach::german
-22-fach::german:adjective
-22-jährig::german
-22-jährig::german:adjective
-22-jährige::german
-22-jährige::german:noun
-22-jährigen::german
-22-jähriger::german
-22-jähriger::german:noun
-22-köpfig::german
-22-köpfig::german:adjective
-22-mal::german
-22-mal::german:adverb
-22-minütig::german
-22-minütig::german:adjective
-22-stündig::german
-22-stündig::german:adjective
-22-wöchig::german
-22-wöchig::german:adjective
-22.::german
-22.::german:adjective
-22.º::spanish
-22.º::spanish:adjective
-224::english
-224::english:adverb
-22::english
-22::english:noun
-22::korean
-22ain::welsh
-22ain::welsh:adjective
-22d::english
-22d::english:adjective
-22e::dutch
-22e::dutch:adjective
-22nd::english
-22nd::english:adjective
-22s::english
-22s::english:noun
-23 august::romanian
-23 august::romanian:proper noun
-23 skidoo street::english
-23 skidoo street::english:proper noun
-23 skidoo::english
-23-fach::german
-23-fach::german:adjective
-23-jährig::german
-23-jährig::german:adjective
-23-jährige::german
-23-jährige::german:noun
-23-jährigen::german
-23-jähriger::german
-23-jähriger::german:noun
-23-köpfig::german
-23-köpfig::german:adjective
-23-mal::german
-23-mal::german:adverb
-23-minütig::german
-23-minütig::german:adjective
-23-stündig::german
-23-stündig::german:adjective
-23-wöchig::german
-23-wöchig::german:adjective
-23.::german
-23.::german:adjective
-23.º::spanish
-23.º::spanish:adjective
-233::chinese
-23ain::welsh
-23ain::welsh:adjective
-23d::english
-23d::english:adjective
-23e::dutch
-23e::dutch:adjective
-23enne::italian
-23enne::italian:adjective
-23enne::italian:noun
-23enni::italian
-23enni::italian:adjective
-23enni::italian:noun
-23f::spanish
-23f::spanish:proper noun
-23rd::english
-23rd::english:adjective
-24 horas::portuguese
-24 horas::portuguese:adjective
-24 sussex drive::english
-24 sussex drive::english:proper noun
-24 sussex street::english
-24 sussex street::english:proper noun
-24 sussex::english
-24 sussex::english:proper noun
-24 sussex::french
-24 sussex::french:proper noun
-24 x 36::french
-24 x 36::french:noun
-24-7::english
-24-7::english:adverb
-24-cell::english
-24-cell::english:noun
-24-cells::english
-24-cells::english:noun
-24-eck::german
-24-eck::german:noun
-24-eckig::german
-24-eckig::german:adjective
-24-fach::german
-24-fach::german:adjective
-24-hour clock::english
-24-hour clock::english:noun
-24-hour clocks::english
-24-hour clocks::english:noun
-24-hour flu::english
-24-hour flu::english:noun
-24-jährig::german
-24-jährig::german:adjective
-24-jährige::german
-24-jährige::german:noun
-24-jährigen::german
-24-jähriger::german
-24-jähriger::german:noun
-24-köpfig::german
-24-köpfig::german:adjective
-24-mal::german
-24-mal::german:adverb
-24-minütig::german
-24-minütig::german:adjective
-24-monatig::german
-24-monatig::german:adjective
-24-stündig::german
-24-stündig::german:adjective
-24-tägig::german
-24-tägig::german:adjective
-24-wöchig::german
-24-wöchig::german:adjective
-24.::german
-24.::german:adjective
-24.º::spanish
-24.º::spanish:adjective
-24/24::vietnamese
-24/24::vietnamese:adverb
-24/5::english
-24/5::english:adverb
-24/7/365::english
-24/7/365::english:adverb
-24/7::english
-24/7::english:adverb
-24/7::finnish
-24/7::finnish:adverb
-24/7::italian
-24/7::italian:adverb
-24::portuguese
-24::portuguese:noun
-24ain::welsh
-24ain::welsh:adjective
-24e::dutch
-24e::dutch:adjective
-24enne::italian
-24enne::italian:adjective
-24enne::italian:noun
-24enni::italian
-24enni::italian:adjective
-24enni::italian:noun
-24mo::english
-24mo::english:noun
-24mos::english
-24mos::english:noun
-24th::english
-24th::english:adjective
-25-fach::german
-25-fach::german:adjective
-25-jährig::german
-25-jährig::german:adjective
-25-jährige::german
-25-jährige::german:noun
-25-jährigen::german
-25-jähriger::german
-25-jähriger::german:noun
-25-köpfig::german
-25-köpfig::german:adjective
-25-mal::german
-25-mal::german:adverb
-25-minütig::german
-25-minütig::german:adjective
-25-nb::english
-25-nb::english:noun
-25-nbs::english
-25-nbs::english:noun
-25-stündig::german
-25-stündig::german:adjective
-25-wöchig::german
-25-wöchig::german:adjective
-25-öring::swedish
-25-öring::swedish:noun
+200 metrin juoksuin::finnish
+200 metrin juoksuun::finnish
+200 metrin juoksuja::finnish
+200 metrin juoksuna::finnish
 25-öringar::swedish
-25-öringar::swedish:noun
-25-öringarna::swedish
-25-öringarna::swedish:noun
-25-öringarnas::swedish
-25-öringarnas::swedish:noun
-25-öringars::swedish
-25-öringars::swedish:noun
 25-öringen::swedish
-25-öringen::swedish:noun
-25-öringens::swedish
-25-öringens::swedish:noun
-25-örings::swedish
-25-örings::swedish:noun
-25.::german
-25.::german:adjective
-25.º::spanish
-25.º::spanish:adjective
-25/8::english
-25/8::english:adverb
-250::chinese
-256th note::english
-256th note::english:noun
-256th notes::english
-256th notes::english:noun
-25ain::welsh
-25ain::welsh:adjective
-25e::dutch
-25e::dutch:adjective
-25i-nbome::english
-25i-nbome::english:noun
-25th::english
-25th::english:adjective
-26+6=1::english
-26-fach::german
-26-fach::german:adjective
-26-jährig::german
-26-jährig::german:adjective
-26-jährige::german
-26-jährige::german:noun
-26-jährigen::german
-26-jähriger::german
-26-jähriger::german:noun
-26-köpfig::german
-26-köpfig::german:adjective
-26-mal::german
-26-mal::german:adverb
-26-minütig::german
-26-minütig::german:adjective
-26-stündig::german
-26-stündig::german:adjective
-26-wöchig::german
-26-wöchig::german:adjective
-26.2::english
-26.2::english:noun
-26.2s::english
-26.2s::english:noun
-26.::german
-26.::german:adjective
-26.º::spanish
-26.º::spanish:adjective
-26/11::english
-26/11::english:proper noun
-26::chinese
-26::chinese:noun
-26::english
-26::english:noun
-26ain::welsh
-26ain::welsh:adjective
-26e::dutch
-26e::dutch:adjective
-26s::english
-26s::english:noun
-26th::english
-26th::english:adjective
-27 club::english
-27 club::english:proper noun
-27-eck::german
-27-eck::german:noun
-27-eckig::german
-27-eckig::german:adjective
-27-fach::german
-27-fach::german:adjective
-27-jährig::german
-27-jährig::german:adjective
-27-jährige::german
-27-jährige::german:noun
-27-jährigen::german
-27-jähriger::german
-27-jähriger::german:noun
-27-köpfig::german
-27-köpfig::german:adjective
-27-mal::german
-27-mal::german:adverb
-27-minütig::german
-27-minütig::german:adjective
-27-stündig::german
-27-stündig::german:adjective
-27-tägig::german
-27-tägig::german:adjective
-27-wöchig::german
-27-wöchig::german:adjective
-27.::german
-27.::german:adjective
-27.º::spanish
-27.º::spanish:adjective
-27ain::welsh
-27ain::welsh:adjective
-27e::dutch
-27e::dutch:adjective
-27th::english
-27th::english:adjective
-28-eck::german
-28-eck::german:noun
-28-eckig::german
-28-eckig::german:adjective
-28-fach::german
-28-fach::german:adjective
-28-jährig::german
-28-jährig::german:adjective
-28-jährige::german
-28-jährige::german:noun
-28-jährigen::german
-28-jähriger::german
-28-jähriger::german:noun
-28-köpfig::german
-28-köpfig::german:adjective
-28-mal::german
-28-mal::german:adverb
-28-minütig::german
-28-minütig::german:adjective
-28-stündig::german
-28-stündig::german:adjective
-28-tägig::german
-28-tägig::german:adjective
-28-wöchig::german
-28-wöchig::german:adjective
-28.::german
-28.::german:adjective
-28.º::spanish
-28.º::spanish:adjective
-28ain::welsh
-28ain::welsh:adjective
-28e::dutch
-28e::dutch:adjective
-28th::english
-28th::english:adjective
-29-fach::german
-29-fach::german:adjective
-29-jährig::german
-29-jährig::german:adjective
-29-jährige::german
-29-jährige::german:noun
-29-jährigen::german
-29-jähriger::german
-29-jähriger::german:noun
-29-mal::german
-29-mal::german:adverb
-29-minütig::german
-29-minütig::german:adjective
-29-stündig::german
-29-stündig::german:adjective
-29-tägig::german
-29-tägig::german:adjective
-29-wöchig::german
-29-wöchig::german:adjective
-29.::german
-29.::german:adjective
-29.º::spanish
-29.º::spanish:adjective
-29ain::welsh
-29ain::welsh:adjective
-29e::dutch
-29e::dutch:adjective
-29er::english
-29er::english:noun
-29ers::english
-29ers::english:noun
-29th::english
-29th::english:adjective
-2::english
-2::english:adjective
-2::english:adverb
-2::english:noun
-2::english:preposition
-2::french
-2::french:preposition
-2::indonesian
-2::malay
-2:a::swedish
-2:a::swedish:adjective
-2:e::swedish
-2:e::swedish:adjective
-2:nen::finnish
-2:o::swedish
-2:o::swedish:adverb
-2a::english
-2a::english:proper noun
-2a::esperanto
-2a::esperanto:adjective
-2a::spanish
-2a::spanish:adjective
-2aj::esperanto
-2aj::esperanto:adjective
-2ajn::esperanto
-2ajn::esperanto:adjective
-2an::esperanto
-2an::esperanto:adjective
-2ap::english
-2ap::english:noun
-2as::spanish
-2as::spanish:adjective
-2b::chinese
-2b::english
-2b::english:noun
-2bs::english
-2bs::english:noun
-2c-b::dutch
-2c-b::dutch:noun
-2c-b::english
-2c-b::english:noun
-2channeler::english
-2channeler::english:noun
-2channelers::english
-2channelers::english:noun
-2cv::english
-2cv::english:noun
-2cv::french
-2cv::french:noun
-2cvs::english
-2cvs::english:noun
-2d cir.::english
-2d cir.::english:proper noun
-2d parties::english
-2d parties::english:noun
-2d party::english
-2d party::english:noun
-2d::english
-2d::english:adjective
-2d::english:noun
-2day::english
-2day::english:adverb
-2dly::english
-2dly::english:adverb
-2dr::english
-2dr::english:noun
-2e::dutch
-2e::dutch:adjective
-2e::english
-2e::english:adjective
-2e::french
-2e::french:adjective
-2es::catalan
-2es::catalan:adjective
-2fa::english
-2fa::english:noun
-2faced::english
-2faced::english:adjective
-2fold::english
-2fold::english:adjective
-2fold::english:adverb
-2g::english
-2g::english:adjective
-2g::german
-2gether::english
-2gether::english:adverb
-2gl::english
-2gl::english:noun
-2gls::english
-2gls::english:noun
-2h::english
-2h::english:noun
-2hs::english
-2hs::english:noun
-2ic::english
-2ic::english:noun
-2il::welsh
-2il::welsh:adjective
-2l::english
-2l::english:noun
-2ls::english
-2ls::english:noun
-2mass::english
-2mass::english:proper noun
-2mf::english
-2mf::english:noun
-2mix::japanese
-2mix::japanese:noun
-2morrow::english
-2morrow::english:adverb
-2moz::english
-2moz::english:adverb
-2mrw::english
-2mrw::english:adverb
-2n::catalan
-2n::catalan:adjective
-2nd grade::english
-2nd grade::english:noun
-2nd grader::english
-2nd grader::english:noun
-2nd graders::english
-2nd graders::english:noun
+2-4-6 block::english
+200 metri::italian
 2nd parties::english
-2nd parties::english:noun
-2nd party::english
-2nd party::english:noun
-2nd person::english
-2nd person::english:noun
-2nd::english
-2nd::english:adjective
-2ndly::english
-2ndly::english:adverb
-2nf::english
-2nf::english:noun
-2night::english
-2night::english:adverb
-2nite::english
-2nite::english:adverb
-2ns::catalan
-2ns::catalan:adjective
-2o::french
-2o::french:adverb
-2o::spanish
+2d parties::english:noun
+2-methyl-2-propenoic acid::english
+2,4-dnph::english:noun
+2-kronors::swedish:noun
+2c-b::dutch:noun
+21 and over::film
+2 thessalonians::english
+2,4-dnph::english
+200-lapp::swedish:noun
+24/24::vietnamese:adverb
+200-lapp::swedish
+2::english:adverb
+2. moos.::finnish:proper noun
+20,000 leagues under the sea\: captain nemo::film
+200 metrin juoksuille::finnish
+200 metrin juoksuihin::finnish
+200 metrin juoksuissa::finnish
+200 metrin juoksuiksi::finnish
+200 metrin juoksuista::finnish
+200 metrin juoksuitta::finnish
+200 metrin juoksuilta::finnish
+200 metrin juoksuilla::finnish
+2 thess.::english:proper noun
+22-minütig::german:adjective
+23-minütig::german:adjective
+24-minütig::german:adjective
+25-minütig::german:adjective
+26-minütig::german:adjective
+27-minütig::german:adjective
+28-minütig::german:adjective
+29-minütig::german:adjective
+20-minütig::german:adjective
+21-minütig::german:adjective
+27 hours::film
+24 hours::film
+20.º::spanish
+21.º::spanish
+22.º::spanish
+23.º::spanish
+24.º::spanish
+25.º::spanish
+26.º::spanish
+27.º::spanish
+28.º::spanish
+29.º::spanish
+2.ªs::spanish
+2.ºs::spanish
+20-köpfig::german
+21-köpfig::german
+22-köpfig::german
+23-köpfig::german
+24-köpfig::german
+25-köpfig::german
+26-köpfig::german
+27-köpfig::german
+28-köpfig::german
+200-lapparnas::swedish
+2fold::english:adjective
+20/20::english:adjective
+2.::turkish
+2 timoteo::spanish:proper noun
+26 years::film
+29 years::film
+20-lappars::swedish:noun
+21314::chinese
+2-öringar::swedish
+2-öringen::swedish
+2channelers::english
+2000-es::hungarian:noun
+256th notes::english:noun
+2 macabaeigh::irish
+2-kronors::swedish
+200-as::hungarian:noun
 2o::spanish:adjective
-2os::spanish
-2os::spanish:adjective
-2ot::english
-2ot::english:noun
-2ots::english
-2ots::english:noun
-2p::english
-2p::english:noun
-2pl::english
-2pl::english:noun
-2ry::english
-2ry::english:adjective
-2s::english
-2s::english:adjective
-2s::english:noun
-2ses::english
-2ses::english:noun
-2slgbtq+::english
-2slgbtq+::english:adjective
-2slgbtqia+::english
-2slgbtqia+::english:noun
-2slgbtqqia+::english
-2slgbtqqia+::english:noun
-2sls::english
-2sls::english:noun
-2wd::english
-2wd::english:noun
-2wds::english
-2wds::english:noun
-2ww::english
-2ww::english:noun
-2ww::english:proper noun
-2wws::english
-2wws::english:noun
-2x4::english
-2x4::english:noun
-2x4s::english
-2x4s::english:noun
-2xl::english
-2xl::english:adjective
-2¢::english
-2¢::english:noun
-2ª::portuguese
-2ª::portuguese:adjective
-2ª::spanish
-2ª::spanish:adjective
-2ªs::portuguese
-2ªs::portuguese:adjective
-2º::portuguese
-2º::portuguese:adjective
-2º::spanish
-2º::spanish:adjective
-2ºs::portuguese
-2η::greek
-2ᵈ::english
-2ᵈ::english:adjective
+2a::spanish:adjective
+2-mal::german:adverb
+2:o::swedish:adverb
+2-monatlich::german:adjective
+20 000-es::hungarian:noun
+200-as::hungarian
 2ᵈˡʸ::english
-2ᵈˡʸ::english:adverb
-2ⁿᵈ::english
-2ⁿᵈ::english:adjective
-2ちゃんねらー::japanese
+20.::icelandic:adjective
+2 thessalonians::english:proper noun
+2020-as::hungarian:noun
+2ª::spanish:adjective
+2º::spanish:adjective
+2os::spanish:adjective
+2as::spanish:adjective
+2 chroniques::french
 2ちゃんねらー::japanese:noun
-2つ::japanese
-2人::japanese
-2号电池::chinese
-2日::japanese
-2月::chinese
-2月::chinese:noun
-2月::japanese
-2號電池::chinese
-2號電池::chinese:noun
-2루::korean
-2루::korean:noun
-2루수::korean
-2루수::korean:noun
-2월::korean
+2-6-6::english:noun
+2-8-6::english:noun
+2-6-0::english:noun
+2-8-0::english:noun
+2-2-0::english:noun
+2-4-0::english:noun
+21700::english:noun
+25-mal::german:adverb
+26-mal::german:adverb
+27-mal::german:adverb
+28-mal::german:adverb
+29-mal::german:adverb
+20-mal::german:adverb
+21-mal::german:adverb
+22-mal::german:adverb
+23-mal::german:adverb
+24-mal::german:adverb
+2-6-2::english:noun
+2-8-2::english:noun
+2-2-2::english:noun
+2-4-2::english:noun
+25-nb::english:noun
+24mos::english:noun
+2060s::english:noun
+2160s::english:noun
+2070s::english:noun
+2170s::english:noun
+2080s::english:noun
+2090s::english:noun
+2000s::english:noun
+2010s::english:noun
+2020s::english:noun
+2030s::english:noun
+2040s::english:noun
+2-ups::english:noun
+2050s::english:noun
+26.2s::english:noun
+29ers::english:noun
+2-6-4::english:noun
+2-8-4::english:noun
+2-2-4::english:noun
+2,4-d::english:noun
+2-4-4::english:noun
+28 panfilovtsev::film
+2 chron.::english:proper noun
+20:o::swedish:adverb
+2e::dutch
+2ajn::esperanto
+22 yards::film
+2 hearts::film
+29 palms::film
+2slgbtqia+::english:noun
+2 states::film
+200::russian
+2ajn::esperanto:adjective
+2020-as::hungarian
+2-metyylibutaanien::finnish
+2-metyylibutaaniin::finnish
+2-metyylibutaanina::finnish
+200 metrin juoksua::finnish
+200 metrin juoksut::finnish
+200 metrin juoksun::finnish
+2-méthylbutane::french
+2-6-0+0-6-2s::english
+2-8-0+0-8-2s::english
+2000-es::hungarian
+2010-es::hungarian
+20-იანები::georgian
+256th note::english
+2-butanone::english
+2.5次元::japanese
+20-lapparna::swedish:noun
+2010\: odyseja kosmiczna::film
+2001\: odyseja kosmiczna::film
+200 metri::italian:noun
+2-methyl-2-propenoic acid::english:noun
+2::french
+24-hour clock::english:noun
+2ⁿᵈ::english:adjective
+2cv::french:noun
+20ᵗʰ::english:adjective
+2nd graders::english
+20.º::portuguese
+24 sussex::english:proper noun
+2.ªs::portuguese
+2.ºs::portuguese
+2-jährigen::german
+2-jähriger::german
+2-méthylbutanes::french:noun
+2-méthylbutanes::french
+200 metres::english:noun
+2-methyl-1,3-butadiene::english:noun
+23enni::italian:noun
+24enni::italian:noun
+2 samuel::french
+24-monatig::german:adjective
+20-monatig::german:adjective
+2-3-4 tree::english:noun
+23enne::italian:noun
+24enne::italian:noun
+2::english:adjective
+24/7::italian
+2.ª::spanish:adjective
+2.º::spanish:adjective
+2es::catalan
+2ns::catalan
+22-ecks::german:noun
+2-kronorna::swedish:noun
+24 sussex street::english
+2.0::film
+211::film
+2+2::film
+2.o::film
+25 april::film
+2 samuel::french:proper noun
 2월::korean:noun
-2차적::korean
+2루::korean:noun
+2 tone::english:noun
+2night::english:adverb
+2mass::english:proper noun
+2 kgs::english:proper noun
+2'nci::turkish
+2-step garage::english
+20ste::dutch
+21ste::dutch
+26/11::english:proper noun
+2 chr::english:proper noun
+20國集團::chinese:proper noun
+2-10-0::english:noun
+2-12-0::english:noun
+24 horas::portuguese:adjective
+24::portuguese
+2-in-1::english:noun
+2-10-2::english:noun
+2-12-2::english:noun
+25-öringens::swedish:noun
+25-öringars::swedish:noun
+2-4-0s::english:noun
+2-6-0s::english:noun
+2-8-0s::english:noun
+2-2-0s::english:noun
+21700s::english:noun
+2-4-2s::english:noun
+2-6-2s::english:noun
+2-8-2s::english:noun
+2-2-2s::english:noun
+25-nbs::english:noun
+2-4-4s::english:noun
+2-6-4s::english:noun
+2-8-4s::english:noun
+2-2-4s::english:noun
+2/3rds::english:noun
+2-6-6s::english:noun
+2-8-6s::english:noun
+2-10-4::english:noun
+2-12-4::english:noun
+2 thessaloniciens::french:proper noun
+2-minütig::german:adjective
+22-ecke::german:noun
+2000 a.d.::film
+2.ª::portuguese
+2.º::portuguese
+2ªs::portuguese
+2ºs::portuguese
+20,000 lieues sous les mers::film
+20.000 lieues sous les mers::film
+24-hour clocks::english:noun
+2號電池::chinese
+2 samúéil::irish
+2a::english:proper noun
+200-lappen::swedish
+200-lappar::swedish
+2ap::english:noun
+201::english:noun
+2fa::english:noun
+2/2::english:noun
+2¢::english:noun
+2dr::english:noun
+2's::english:noun
+2hs::english:noun
+2ic::english:noun
+2ls::english:noun
+20s::english:noun
+22s::english:noun
+2bs::english:noun
+26s::english:noun
+2wd::english:noun
+2x4::english:noun
+2/4::english:noun
+2ot::english:noun
+2mf::english:noun
+2nf::english:noun
+2cv::english:noun
+2ww::english:noun
+20k::english:noun
+2gl::english:noun
+2 l::english:noun
+2pl::english:noun
+2.::icelandic
+28-jährige::german
+29-jährige::german
+20-jährige::german
+21-jährige::german
+22-jährige::german
+23-jährige::german
+24-jährige::german
+25-jährige::german
+26-jährige::german
+27-jährige::german
+2-stündig::german:adjective
+23 people::film
+201::english:proper noun
+212::english:proper noun
+213::english:proper noun
+2ww::english:proper noun
+28e::dutch
+29e::dutch
+20e::dutch
+21e::dutch
+22e::dutch
+23e::dutch
+24e::dutch
+25e::dutch
+26e::dutch
+27e::dutch
+2-öringens::swedish
+2-öringars::swedish
+2d party::english:noun
+2d party::english
+2il::welsh
+2-kronornas::swedish:noun
+2000年问题::chinese
+2-6-0+0-6-2::english
+2-8-0+0-8-2::english
+2루수::korean:noun
+2号电池::chinese
+20-jähriger::german:noun
+21-jähriger::german:noun
+22-jähriger::german:noun
+23-jähriger::german:noun
+24-jähriger::german:noun
+25-jähriger::german:noun
+26-jähriger::german:noun
+27-jähriger::german:noun
+28-jähriger::german:noun
+29-jähriger::german:noun
+24 x 36::french:noun
+26::chinese:noun
+2ちゃんねらー::japanese
+24-hour flu::english:noun
+22nd of may::film
+2-metyylibutaaneina::finnish:noun
+2p::english
+2a::english
+22::english
+2b::english
+2s::english
+2d::english
+2e::english
+26::english
+2g::english
+2h::english
+2l::english
+200米::chinese:noun
+2-kronor::swedish:noun
+2 ríthe::irish:proper noun
+2-kronor::swedish
+2slgbtqia+::english
+2a::esperanto
+2 ríthe::irish
+2 teasalónaigh::irish:proper noun
+2 samuel::catalan
+27-eckig::german
+28-eckig::german
+20-eckig::german
+21-eckig::german
+22-eckig::german
+24-eckig::german
+2nite::english
+2-6-6::english
+2-8-6::english
+2-metyylibutaanein::finnish:noun
+2-metyylibutaaneja::finnish:noun
+2 tesalonicenses::spanish
+2-4-0::english
+2-6-0::english
+2-8-0::english
+2-2-0::english
+21700::english
+20/20::english
+2ndly::english
+26/11::english
+2 chr::english
+2-4-2::english
+2-6-2::english
+2-8-2::english
+2-2-2::english
+25-nb::english
+2 corintis::catalan
+2 kgs::english
+24mos::english
+2040s::english
+2-ups::english
+2050s::english
+2060s::english
+2160s::english
+2070s::english
+2170s::english
+2080s::english
+2090s::english
+2000s::english
+2010s::english
+2020s::english
+2030s::english
+29ers::english
+26.2s::english
+2mass::english
+2fold::english
+2,4-d::english
+2-4-4::english
+2-6-4::english
+2-8-4::english
+2-2-4::english
+20-flächner::german:noun
+2-tägig::german
+24 frames::film
+2g::german
+2.::german
+20e::french
+21e::french
+2cv::french
+224::english:adverb
+2η::greek
+22::korean
+200 metrin juoksulle::finnish:noun
+200 metrin juoksuksi::finnish:noun
+200 metrin juoksujen::finnish:noun
+200 metrin juoksulla::finnish:noun
+200 metrin juoksuina::finnish:noun
+200 metrin juoksussa::finnish:noun
+200 metrin juoksulta::finnish:noun
+200 metrin juoksusta::finnish:noun
+200 metrin juoksutta::finnish:noun
+2d parties::english
+2+1 roads::english:noun
+24mo::english:noun
+2170::english:noun
+2-ap::english:noun
+2-up::english:noun
+2160::english:noun
+2c-b::english:noun
+26.2::english:noun
+29er::english:noun
+2wws::english:noun
+20's::english:noun
+2-ic::english:noun
+20ks::english:noun
+2gls::english:noun
+2 ls::english:noun
+2sls::english:noun
+201s::english:noun
+2wds::english:noun
+2x4s::english:noun
+2ots::english:noun
+2ses::english:noun
+2cvs::english:noun
+20.::icelandic
+2 timothée::french:proper noun
+24 hours in the life of a woman::film
+2nd grade::english:noun
+22-stündig::german:adjective
+23-stündig::german:adjective
+24-stündig::german:adjective
+25-stündig::german:adjective
+26-stündig::german:adjective
+27-stündig::german:adjective
+28-stündig::german:adjective
+29-stündig::german:adjective
+20-stündig::german:adjective
+21-stündig::german:adjective
+200 metriä::finnish:noun
+21::film
+2b::film
+23::film
+24::film
+28::film
+2k::film
+2c-b::dutch
+25-öringens::swedish
+25-öringars::swedish
+2nd party::english:noun
+24-hour clock::english
+2 pierre::french
+2nd grade::english
+2ᵈˡʸ::english:adverb
+20-wöchig::german
+21-wöchig::german
+22-wöchig::german
+23-wöchig::german
+24-wöchig::german
+25-wöchig::german
+26-wöchig::german
+27-wöchig::german
+28-wöchig::german
+29-wöchig::german
+2-méthylbutane::french:noun
+2+1 roads::english
+20-იანები::georgian:noun
+20-lappars::swedish
+2nd party::english
+2nd person::english:noun
+2-es::hungarian
+2 corintios::spanish
+2048th note::english
+2 timothée::french
+2slgbtqqia+::english:noun
+2 corintis::catalan:proper noun
+2-a::romanian
+2ªs::portuguese:adjective
+2.ª::portuguese:adjective
+2.º::portuguese:adjective
+2:o::swedish
+2:a::swedish
+2:e::swedish
+2 october::film
+24/7::finnish:adverb
+200-lappens::swedish
+200-lappars::swedish
+2 pierre::french:proper noun
+2-öringarna::swedish:noun
+2-es::hungarian:adjective
+2-dimensional::english:adjective
+2000年問題::chinese:noun
+2 timothy::english:proper noun
+26-minütig::german
+27-minütig::german
+28-minütig::german
+29-minütig::german
+20-minütig::german
+21-minütig::german
+22-minütig::german
+23-minütig::german
+24-minütig::german
+25-minütig::german
+2-monatlich::german
+2o::spanish
+2a::spanish
+2b::chinese
+26::chinese
+2-6-6-0s::english
+2-6-8-0s::english
+2-8-8-0s::english
+20-lapps::swedish:noun
+2 teasalónaigh::irish
+2channeler::english:noun
+2-méthylpropane::french:noun
+2-öringarna::swedish
+2-méthylpropane::french
+20.::danish
+20-lapps::swedish
+200-lapparna::swedish:noun
+25i-nbome::english:noun
+2-methylpropane::english
+2-6-6-0s::english:noun
+2-6-8-0s::english:noun
+2-8-8-0s::english:noun
+2-methylpropane::english:noun
+2000-es::hungarian:adjective
+2010-es::hungarian:adjective
+2slgbtq+::english
+2-kronas::swedish:noun
+2 timoteo::spanish
+2 chronicles::english:proper noun
+2-8-8-8-2::english:noun
+2-8-8-8-4::english:noun
+2:nen::finnish
+2\:22::film
+2-jährige::german:noun
+24fps::film
+23 skidoo street::english
+2-kronas::swedish
+20-lappen::swedish:noun
+2020-as::hungarian:adjective
+2-10-10-2::english:noun
+2-jährig::german:adjective
+2-methylbutane::english
+2-4-4-2s::english
+25i-nbome::english
+2-6-6-2s::english
+2-8-8-2s::english
+2-füssig::german:adjective
+200 metres::english
+20-as::hungarian:noun
+20-as::hungarian
+2aj::esperanto:adjective
+2an::esperanto:adjective
+2-a::esperanto:adjective
+2-metyylibutaanit::finnish:noun
+2-metyylibutaanin::finnish:noun
+2-metyylibutaania::finnish:noun
+2-3-4 tree::english
+2-4-4-2s::english:noun
+2-6-6-2s::english:noun
+200 metrin juoksu::finnish:noun
+2-8-8-2s::english:noun
+2-10-10-2::english
+20-seitig::german:adjective
+20-teilig::german:adjective
+2-monatig::german:adjective
+2fold::english:adverb
+2nite::english:adverb
+2 corantaigh::irish:proper noun
+2ndly::english:adverb
+2-8-8-8-2::english
+2-8-8-8-4::english
+20-lappen::swedish
+256th notes::english
+2-kronorna::swedish
+2-jährige::german
+20 000-es::hungarian
+2 tiomóid::irish
+24-cells::english
+2 timoteu::catalan:proper noun
+2-metyylibutaanit::finnish
+2-metyylibutaanin::finnish
+2-metyylibutaania::finnish
+2es::catalan:adjective
+2ns::catalan:adjective
+29th street::film
+2-6-6-4s::english
+2-8-8-4s::english
+24mo::english
+2170::english
+2-ap::english
+2-up::english
+2160::english
+2c-b::english
+26.2::english
+29er::english
+2wws::english
+20's::english
+2-ic::english
+20ks::english
+2gls::english
+2 ls::english
+2sls::english
+201s::english
+2wds::english
+2x4s::english
+2ots::english
+2ses::english
+2cvs::english
+22nd::english
+23rd::english
+21st::english
+2.5d::english
+24/5::english
+24-7::english
+24/7::english
+2mrw::english
+2.5g::english
+25/8::english
+24th::english
+25th::english
+26th::english
+27th::english
+28th::english
+29th::english
+20th::english
+2ᵈ::english
+2dly::english
+2day::english
+2moz::english
+200 metrin juoksu::finnish
+2o::french
+2e::french
+2::french:preposition
+24-cells::english:noun
+200 metrin juoksulle::finnish
+200 metrin juoksuksi::finnish
+200 metrin juoksujen::finnish
+200 metrin juoksulla::finnish
+200 metrin juoksuina::finnish
+200 metrin juoksussa::finnish
+200 metrin juoksutta::finnish
+200 metrin juoksulta::finnish
+200 metrin juoksusta::finnish
+2nd grader::english:noun
+2-6-6-4s::english:noun
+2-8-8-4s::english:noun
+20ste::dutch:adjective
+21ste::dutch:adjective
+20-eckig::german:adjective
+21-eckig::german:adjective
+22-eckig::german:adjective
+24-eckig::german:adjective
+27-eckig::german:adjective
+28-eckig::german:adjective
+24 sussex street::english:proper noun
+2n::catalan:adjective
+24 godziny::film
+2-tägig::german:adjective
+2 maccabees::english:proper noun
+2-köpfig::german:adjective
+2-6-6-6s::english
+23f::spanish:proper noun
+24 sussex::english
+2-füßig::german:adjective
+27-tägig::german:adjective
+28-tägig::german:adjective
+29-tägig::german:adjective
+20-tägig::german:adjective
+21-tägig::german:adjective
+24-tägig::german:adjective
+20-lapparna::swedish
+2 corantaigh::irish
+2::indonesian
+22-köpfig::german:adjective
+23-köpfig::german:adjective
+24-köpfig::german:adjective
+25-köpfig::german:adjective
+26-köpfig::german:adjective
+27-köpfig::german:adjective
+28-köpfig::german:adjective
+20-köpfig::german:adjective
+21-köpfig::german:adjective
+2-6-6-6s::english:noun
+2-metyylibutaaneina::finnish
+200 meters::english:noun
+24-hour flu::english
+2 croinicí::irish:proper noun
+2nd person::english
+20-lapparnas::swedish:noun
+2月::chinese:noun
+23 skidoo::film
+20-jährig::german
+21-jährig::german
+22-jährig::german
+23-jährig::german
+24-jährig::german
+25-jährig::german
+26-jährig::german
+27-jährig::german
+28-jährig::german
+29-jährig::german
+2il::welsh:adjective
+2-1 road::english:noun
+2+1 road::english:noun
+2-mal::german
+20ste::german
+20fed::welsh
+24ain::welsh
+25ain::welsh
+26ain::welsh
+27ain::welsh
+28ain::welsh
+29ain::welsh
+21ain::welsh
+22ain::welsh
+23ain::welsh
+2+1 road::english
+2-1 road::english
+20.º::portuguese:adjective
+2.ªs::portuguese:adjective
+2.ºs::portuguese:adjective
+20-lappens::swedish:noun
+20e::dutch:adjective
+21e::dutch:adjective
+22e::dutch:adjective
+23e::dutch:adjective
+24e::dutch:adjective
+25e::dutch:adjective
+26e::dutch:adjective
+27e::dutch:adjective
+28e::dutch:adjective
+29e::dutch:adjective
+2149\: the aftermath::film
+2-kronans::swedish:noun
+2:a::swedish:adjective
+2:e::swedish:adjective
+2 chronicles::english
+20:o::swedish
+2월::korean
+2루::korean
+24 sussex drive::english
+200-lapparna::swedish
+25-öring::swedish:noun
+20國集團::chinese
+20国集团::chinese
+20th century::film
+200-jährig::german:adjective
+2-8-8-8-2s::english:noun
+2-8-8-8-4s::english:noun
+2-10-10-2s::english:noun
+2mix::japanese:noun
+2 cv::french:noun
+2-metyylibutaanein::finnish
+2-metyylibutaaneja::finnish
+2-kronans::swedish
+25-öringarna::swedish:noun
+2 crónicas::spanish:proper noun
+24 sussex drive::english:proper noun
+25-öring::swedish
+2-kronornas::swedish
+2 samuel::english
+20,000 leagues under the sea::film
+200-as::hungarian:adjective
+2001\: a space odyssey(film)::film
+2-es::hungarian:noun
+2 samuel::spanish
+2.0::english
+2ap::english
+201::english
+2fa::english
+2/2::english
+212::english
+2¢::english
+2dr::english
+2's::english
+2hs::english
+2ic::english
+2ls::english
+20s::english
+213::english
+22s::english
+2bs::english
+26s::english
+2wd::english
+2x4::english
+2-d::english
+2nd::english
+2/4::english
+2ot::english
+224::english
+22d::english
+23d::english
+2mf::english
+2nf::english
+2cv::english
+2ww::english
+2ry::english
+20k::english
+2gl::english
+2xl::english
+2 l::english
+2pl::english
+2019冠狀病毒病::chinese:noun
+2 samuel::catalan:proper noun
+200 mètres::french:noun
+2e::dutch:adjective
+2 tesalonicenses::spanish:proper noun
+20.::german:adjective
+21.::german:adjective
+22.::german:adjective
+23.::german:adjective
+24.::german:adjective
+25.::german:adjective
+26.::german:adjective
+27.::german:adjective
+28.::german:adjective
+29.::german:adjective
+20000 leagues under the sea::film
+20-as::hungarian:adjective
+20-jährigen::german
+21-jährigen::german
+22-jährigen::german
+23-jährigen::german
+24-jährigen::german
+25-jährigen::german
+26-jährigen::german
+27-jährigen::german
+28-jährigen::german
+29-jährigen::german
+20-jähriger::german
+21-jähriger::german
+22-jähriger::german
+23-jähriger::german
+24-jähriger::german
+25-jähriger::german
+26-jähriger::german
+27-jähriger::german
+28-jähriger::german
+29-jähriger::german
+27 sekundmeter, snö::film

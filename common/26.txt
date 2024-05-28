@@ -1,38 +1,63 @@
-&amp; al.::english
-&amp; al.::english:adverb
-&amp; cetera::english
-&amp; cetera::french
-&amp; cetera::middle english
-&amp; hoc genus omne::english
-&amp; seq.::english
-&amp; seqq.::english
+&quot;eucosma&quot; atelosticta::moth
+&quot;eucosma&quot; tholeropis::moth
 &amp; ux.::english
-&amp; ux.::english:noun
-&amp; uxor::english
-&amp;/or::english
-&amp;::catalan
-&amp;::english
-&amp;::french
 &amp;::italian
-&amp;::japanese
-&amp;::latin
-&amp;::portuguese
-&amp;::spanish
-&amp;::swedish
-&amp;c.::english
-&amp;c.::french
-&amp;c.::french:adverb
-&amp;c.::german
-&amp;c.::german:adverb
-&amp;c.::portuguese
-&amp;c.::portuguese:adverb
-&amp;c.::spanish
-&amp;c.::spanish:adverb
-&amp;c::english
+&amp; seq.::english
 &amp;ca.::english
-&amp;ca::english
-&amp;lit::english
-&amp;lit::english:noun
-&amp;lits::english
-&amp;lits::english:noun
+&quot;hagnagora&quot; ignipennis::moth
+&quot;capua&quot; arrecta::moth
+&quot;tortrix&quot; tephrodes::moth
+&amp; ux.::english:noun
+&quot;argyroploce&quot; percnochlaena::moth
+&amp;c.::spanish
+&amp;c.::english
+&quot;eucosma&quot; chlorosticha::moth
+&amp;c::english
+&amp;c.::spanish:adverb
 &amp;̄::latin
+&amp;c.::german
+&amp;ca::english
+&quot;capua&quot; tetraplasia::moth
+&quot;phalonia&quot; pimana::moth
+&amp;c.::french
+&amp;::japanese
+&amp; cetera::english
+&amp;::catalan
+&amp;::swedish
+&amp;::spanish
+&quot;eucosma&quot; chloromima::moth
+&amp;::portuguese
+&quot;capua&quot; euryochra::moth
+&amp; seqq.::english
+&amp;::latin
+&amp;c.::portuguese:adverb
+&amp; uxor::english
+&amp;c.::german:adverb
+&quot;eucosma&quot; cathareutis::moth
+&quot;tortrix&quot; celatrix::moth
+&amp;c.::french:adverb
+&quot;sr.&quot;::film
+&quot;sybra furtiva&quot;::beetle
+&amp;/or::english
+&amp; hoc genus omne::english
+&quot;hagnagora&quot; vittata::moth
+&amp;::english
+&amp;lits::english:noun
+&quot;capua&quot; ptilocrossa::moth
+&amp;lits::english
+&amp; al.::english
+&amp; cetera::middle english
+&quot;hagnagora&quot; mesenata::moth
+&quot;cnephasia&quot; melanophaea::moth
+&amp;::french
+&quot;phalonia&quot; yuccatana::moth
+&quot;acroclita&quot; macroma::moth
+&quot;eucosma&quot; rigens::moth
+&amp; cetera::french
+&amp;lit::english
+&amp; al.::english:adverb
+&amp;lit::english:noun
+&quot;tortrix&quot; cratista::moth
+&quot;eucosma&quot; pentagonaspis::moth
+&amp;c.::portuguese
+&quot;capua&quot; naias::moth

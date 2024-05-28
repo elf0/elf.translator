@@ -1,362 +1,391 @@
-8 ball::english
-8 ball::english:noun
-8 balls::english
-8 balls::english:noun
-8'inci::turkish
-8'inci::turkish:adjective
-8+9::chinese
-8-1-1::english
-8-1-1::english:proper noun
-8-1-1::french
-8-1-1::french:proper noun
-8-1-1::spanish
-8-1-1::spanish:proper noun
+8th grader::english
+801::japanese
+893::japanese
+8o::french:adverb
+8t::scots:adjective
+8-fach::german:adjective
+8.º::spanish
+8424::chinese
+8964::chinese
+8月::chinese
+8.::icelandic:adjective
 8-a::esperanto
-8-a::esperanto:adjective
-8-aj::esperanto
-8-aj::esperanto:adjective
-8-ajn::esperanto
-8-ajn::esperanto:adjective
-8-an::esperanto
-8-an::esperanto:adjective
-8-as::hungarian
-8-as::hungarian:adjective
-8-as::hungarian:noun
-8-bit::english
-8-bit::english:adjective
+8.::turkish:adjective
+80-eck::german:noun
+8x8 rule::english
+8th note::english:noun
+8-flächner::german:noun
+800 bullets::film
+8th note::english
+800 metriä::finnish
+8::film
+8th graders::english:noun
+8.::german:adjective
+8-m::spanish
+811::spanish
+8+9::chinese
+80-20 rule::english
+88 minutes::film
+800 mètres::french
+85.º::spanish:adjective
+86.º::spanish:adjective
+87.º::spanish:adjective
+88.º::spanish:adjective
+89.º::spanish:adjective
+80.º::spanish:adjective
+81.º::spanish:adjective
+82.º::spanish:adjective
+83.º::spanish:adjective
+84.º::spanish:adjective
+8th::english:adjective
+8e::french:adjective
+8つ::japanese
+8月::japanese
+800 numbers::english
+800 meters::english
+86s::english:verb
+8th cir.::english
+80-იანი წლები::georgian:noun
+80-იანი წლები::georgian
+8vus::latin
+8vis::latin
+8vos::latin
+8vas::latin
+8vae::latin
+8vum::latin
+8vam::latin
+8-jähriger::german:noun
+8::english
+80後::chinese:noun
+8-minütig::german
+8::english:verb
+8/12::film
+81/2::film
+8 mm::film
+80-20 rule::english:proper noun
+8-ой::russian
+802.11e::english
+8-flächner::german
+8-füssig::german
+800-jährig::german
+8fed::welsh:adjective
+8-ой::russian:adjective
+80-eck::german
+8x8 rule::english:proper noun
+80-mal::german
+89-mal::german
+8-1-1::spanish:proper noun
+8ᵗʰ::english
+8514/a::english
+8'inci::turkish
+8-ball::film
+8vorum::latin
+8varum::latin
+8 mile::film
+8 thottakkal::film
+8x8x8s::english
+8-fach::german
+8-foot::english
 8-cell::english
-8-cell::english:noun
+802.11e::english:proper noun
+8 ball::english
+8'inci::turkish:adjective
+8-köpfig::german
+82nd::english:adjective
+83rd::english:adjective
+81st::english:adjective
+80th::english:adjective
+84th::english:adjective
+85th::english:adjective
+86th::english:adjective
+87th::english:adjective
+88th::english:adjective
+89th::english:adjective
+8ᵗʰ::english:adjective
+802.11i::english
+8ª::portuguese
+8º::portuguese
+80'inci::turkish
+8-füßig::german
+88::english:noun
+80-tägig::german
+8-eckig::german
+8-wöchig::german
+800-pound gorilla in the room::english:noun
+8º::portuguese:adjective
+8:o::swedish:noun
+8-track::english:noun
+8-track::english
+80-fach::german
+8 balls::english
 8-cells::english
 8-cells::english:noun
-8-eck::german
-8-eck::german:noun
-8-eckig::german
+8 balls::english:noun
 8-eckig::german:adjective
-8-fach::german
-8-fach::german:adjective
-8-flächner::german
-8-flächner::german:noun
-8-foot::english
-8-foot::english:noun
-8-füssig::german
-8-füssig::german:adjective
-8-füßig::german
-8-füßig::german:adjective
-8-jährig::german
-8-jährig::german:adjective
-8-jährige::german
-8-jährige::german:noun
-8-jährigen::german
-8-jähriger::german
-8-jähriger::german:noun
-8-kantig::german
-8-kantig::german:adjective
-8-köpfig::german
-8-köpfig::german:adjective
-8-m::spanish
-8-m::spanish:proper noun
-8-mal::german
-8-mal::german:adverb
-8-minütig::german
-8-minütig::german:adjective
-8-track::english
-8-track::english:noun
-8-tracks::english
-8-tracks::english:noun
-8-tägig::german
-8-tägig::german:adjective
-8-wöchig::german
-8-wöchig::german:adjective
-8-ой::russian
-8-ой::russian:adjective
-8.3::english
-8.3::english:proper noun
-8.::german
-8.::german:adjective
-8.::icelandic
-8.::icelandic:adjective
-8.::turkish
-8.::turkish:adjective
-8.º::portuguese
-8.º::portuguese:adjective
-8.º::spanish
-8.º::spanish:adjective
-80'inci::turkish
-80'inci::turkish:adjective
-80's::english
-80's::english:noun
-80-20 rule::english
-80-20 rule::english:proper noun
-80-as::hungarian
-80-as::hungarian:adjective
-80-as::hungarian:noun
-80-eck::german
-80-eck::german:noun
-80-eckig::german
-80-eckig::german:adjective
-80-fach::german
-80-fach::german:adjective
-80-jährig::german
-80-jährig::german:adjective
-80-mal::german
-80-mal::german:adverb
-80-minütig::german
-80-minütig::german:adjective
-80-tägig::german
-80-tägig::german:adjective
-80-იანები::georgian
-80-იანები::georgian:noun
-80-იანი წლები::georgian
-80-იანი წლები::georgian:noun
-80.::icelandic
-80.::icelandic:adjective
-80.º::spanish
-80.º::spanish:adjective
-800 meters::english
-800 meters::english:noun
-800 metres::english
-800 metres::english:noun
-800 metri::italian
-800 metri::italian:noun
-800 metrin juoksu::finnish
-800 metrin juoksu::finnish:noun
-800 metriä::finnish
-800 metriä::finnish:noun
-800 mètres::french
-800 mètres::french:noun
-800 number::english
-800 number::english:noun
-800 numbers::english
-800 numbers::english:noun
-800-jährig::german
-800-jährig::german:adjective
-800-pound gorilla in the room::english
-800-pound gorilla in the room::english:noun
-800-pound gorilla::english
-800-pound gorilla::english:noun
-800-pound gorillas::english
-800-pound gorillas::english:noun
-800::english
-800::english:noun
-800米::chinese
-800米::chinese:noun
-801::japanese
-801::japanese:noun
-802.11e::english
-802.11e::english:proper noun
-802.11i::english
 802.11i::english:proper noun
-807::english
-807::english:noun
-807s::english
-807s::english:noun
-808::english
-808::english:noun
-808::english:proper noun
-808s::english
-808s::english:noun
-80e::dutch
-80e::dutch:adjective
-80s::english
-80s::english:noun
-80th::english
-80th::english:adjective
+80-fach::german:adjective
+8-jährig::german
+84 charing cross road::film
+80-jährig::german:adjective
+800米::chinese
+8th cir.::english:proper noun
+800 metri::italian
+80'inci::turkish:adjective
+8channers::english
+880 ammonia::english:noun
+80-minütig::german:adjective
+80 jours::film
+8-1-1::spanish
+80.º::spanish
+81.º::spanish
+82.º::spanish
+83.º::spanish
+84.º::spanish
+85.º::spanish
+86.º::spanish
+87.º::spanish
+88.º::spanish
+89.º::spanish
+8-bit::english:adjective
+8.::turkish
 80后::chinese
 80後::chinese
-80後::chinese:noun
-81.º::spanish
-81.º::spanish:adjective
-811::english
-811::english:proper noun
-811::french
-811::french:proper noun
-811::spanish
-811::spanish:proper noun
-81e::dutch
-81e::dutch:adjective
-81st::english
-81st::english:adjective
-82.º::spanish
-82.º::spanish:adjective
-8282::korean
-8282::korean:adverb
-82e::dutch
-82e::dutch:adjective
-82nd::english
-82nd::english:adjective
-83.º::spanish
-83.º::spanish:adjective
-83e::dutch
-83e::dutch:adjective
-83rd::english
-83rd::english:adjective
-84.º::spanish
-84.º::spanish:adjective
-8424::chinese
-8424::chinese:noun
-84e::dutch
-84e::dutch:adjective
-84th::english
-84th::english:adjective
-85.º::spanish
-85.º::spanish:adjective
-8514/a::english
-8514/a::english:noun
-8514/adapter::english
-8514/adapter::english:noun
-8514::english
-8514::english:noun
-85e::dutch
-85e::dutch:adjective
-85er::english
-85er::english:noun
-85ers::english
-85ers::english:noun
-85th::english
-85th::english:adjective
-86.º::spanish
-86.º::spanish:adjective
-86::english
-86::english:verb
-86e::dutch
-86e::dutch:adjective
-86ed::english
+8-mal::german:adverb
 86ed::english:verb
-86ing::english
-86ing::english:verb
-86s::english
-86s::english:verb
-86th::english
-86th::english:adjective
-87.º::spanish
-87.º::spanish:adjective
-87::chinese
-87::chinese:noun
-87e::dutch
-87e::dutch:adjective
-87th::english
-87th::english:adjective
-88.º::spanish
-88.º::spanish:adjective
-880 ammonia::english
-880 ammonia::english:noun
-88::chinese
-88::english
-88::english:noun
-88e::dutch
-88e::dutch:adjective
-88s::english
-88s::english:noun
-88th::english
-88th::english:adjective
-89-mal::german
-89-mal::german:adverb
-89.º::spanish
-89.º::spanish:adjective
-893::japanese
-893::japanese:noun
-8964::chinese
-89e::dutch
-89e::dutch:adjective
-89th::english
-89th::english:adjective
-8::english
-8::english:verb
-8:e::swedish
-8:e::swedish:adjective
-8:o::swedish
 8:o::swedish:adverb
-8:o::swedish:noun
-8ber::english
-8ber::english:proper noun
-8channer::english
-8channer::english:noun
-8channers::english
-8channers::english:noun
-8dr::english
-8dr::english:noun
-8e::dutch
-8e::dutch:adjective
-8e::french
-8e::french:adjective
-8ed::welsh
-8ed::welsh:adjective
-8fed::welsh
-8fed::welsh:adjective
-8m::spanish
-8m::spanish:proper noun
-8n1::english
-8n1::english:noun
-8o::french
-8o::french:adverb
-8t::scots
-8t::scots:adjective
-8th cir.::english
-8th cir.::english:proper noun
-8th grade::english
-8th grade::english:noun
-8th grader::english
-8th grader::english:noun
-8th graders::english
-8th graders::english:noun
-8th note::english
-8th note::english:noun
-8th::english
-8th::english:adjective
-8va::latin
-8va::latin:adjective
-8vae::latin
-8vae::latin:adjective
-8vam::latin
-8vam::latin:adjective
-8varum::latin
-8varum::latin:adjective
-8vas::latin
-8vas::latin:adjective
-8ve::english
-8ve::english:noun
-8ve::latin
-8ve::latin:adjective
-8ves::english
-8ves::english:noun
-8vi::latin
-8vi::latin:adjective
-8vis::latin
-8vis::latin:adjective
-8vo::english
-8vo::english:noun
-8vo::latin
-8vo::latin:adjective
-8vorum::latin
-8vorum::latin:adjective
-8vos::english
-8vos::english:noun
-8vos::latin
-8vos::latin:adjective
-8vum::latin
-8vum::latin:adjective
-8vus::latin
-8x8 rule::english
-8x8 rule::english:proper noun
-8x8::english
-8x8::english:noun
-8x8s::english
-8x8s::english:noun
-8x8x8::english
+800-pound gorilla::english:noun
+80.::icelandic:adjective
+86ing::english:verb
 8x8x8::english:noun
-8x8x8s::english
-8x8x8s::english:noun
-8ª::portuguese
-8ªs::portuguese
-8º::portuguese
-8º::portuguese:adjective
-8ºs::portuguese
-8ᵗʰ::english
-8ᵗʰ::english:adjective
-8つ::japanese
-8月::chinese
-8月::chinese:noun
-8月::japanese
-8頭身::japanese
-8월::korean
+89-mal::german:adverb
+80-mal::german:adverb
+85ers::english:noun
+8e::dutch
+8-aj::esperanto
+8-an::esperanto
+8, avenue lénine::film
+8 femmes::film
+8-aj::esperanto:adjective
+8-an::esperanto:adjective
+80-იანები::georgian
+800-pound gorilla::english
+800 metri::italian:noun
+8channers::english:noun
+8th graders::english
+8-jährigen::german
+8-jähriger::german
+800 metres::english:noun
+800 number::english:noun
+8.º::spanish:adjective
+8va::latin
+8ve::latin
+8vi::latin
+8vo::latin
+881::film
+892::film
+813::film
+808::film
+8½::film
+8mm::film
 8월::korean:noun
+8-1-1::english:proper noun
+8514/a::english:noun
+8x8x8s::english:noun
+8-foot::english:noun
+8 ball::english:noun
+8-cell::english:noun
+8-minütig::german:adjective
+800-pound gorilla in the room::english
+8.º::portuguese
+8ªs::portuguese
+8ºs::portuguese
+8vo::english:noun
+800::english:noun
+8n1::english:noun
+8dr::english:noun
+88s::english:noun
+80s::english:noun
+8ve::english:noun
+807::english:noun
+8x8::english:noun
+808::english:noun
+8.::icelandic
+811::english:proper noun
+8.3::english:proper noun
+808::english:proper noun
+88e::dutch
+89e::dutch
+80e::dutch
+81e::dutch
+82e::dutch
+83e::dutch
+84e::dutch
+85e::dutch
+86e::dutch
+87e::dutch
+800-pound gorillas::english:noun
+8ed::welsh
+8-ajn::esperanto
+8th grade::film
+800 heroes::film
+87::chinese:noun
+8t::scots
+86::english
+88::english
+800米::chinese:noun
+8頭身::japanese
+8-1-1::french:proper noun
+80-eckig::german
+8-kantig::german
+86ing::english
+8x8x8::english
+8-1-1::english
+85ers::english
+8-bit::english
+8-ajn::esperanto:adjective
+8-tägig::german
+8.::german
+811::french
+85er::english:noun
+80's::english:noun
+807s::english:noun
+8x8s::english:noun
+808s::english:noun
+8vos::english:noun
+8ves::english:noun
+8514::english:noun
+80.::icelandic
+8th grade::english:noun
+800 metriä::finnish:noun
+83::film
+88::film
+8ber::english:proper noun
+8th grade::english
+80-იანები::georgian:noun
+8channer::english:noun
+8channer::english
+8-as::hungarian
+8fed::welsh
+8.º::portuguese:adjective
+8:o::swedish
+8:e::swedish
+8282::korean:adverb
+811::french:proper noun
+8-as::hungarian:adjective
+8-wöchig::german:adjective
+8-eck::german:noun
+80-minütig::german
+8vorum::latin:adjective
+8varum::latin:adjective
+800-pound gorillas::english
+8m::spanish
+87::chinese
+88::chinese
+86::english:verb
+800 numbers::english:noun
+8-1-1::french
+8-jährige::german:noun
+8 1/2::film
+8-jährig::german:adjective
+880 ammonia::english
+8-füssig::german:adjective
+800 metres::english
+80-as::hungarian:noun
+80-as::hungarian
+8-a::esperanto:adjective
+800 metrin juoksu::finnish:noun
+800 number::english
+8-jährige::german
+8-tracks::english:noun
+8-tracks::english
+85er::english
+8ber::english
+80's::english
+807s::english
+8x8s::english
+808s::english
+8vos::english
+8ves::english
+82nd::english
+8514::english
+83rd::english
+81st::english
+86ed::english
+84th::english
+85th::english
+86th::english
+87th::english
+88th::english
+89th::english
+80th::english
+800 metrin juoksu::finnish
+8o::french
+8e::french
+8th grader::english:noun
+8 a.m. metro::film
+80-eckig::german:adjective
+8-kantig::german:adjective
+8vis::latin:adjective
+8vos::latin:adjective
+8vas::latin:adjective
+8vae::latin:adjective
+8vam::latin:adjective
+8vum::latin:adjective
+8m::spanish:proper noun
+8-tägig::german:adjective
+8-köpfig::german:adjective
+8-m::spanish:proper noun
+811::spanish:proper noun
+8-füßig::german:adjective
+80-tägig::german:adjective
+8514/adapter::english:noun
+8 millimetri::film
+800 meters::english:noun
+8514/adapter::english
+8424::chinese:noun
+8月::chinese:noun
+80-jährig::german
+8ed::welsh:adjective
+8-eck::german
+8-mal::german
+80e::dutch:adjective
+81e::dutch:adjective
+82e::dutch:adjective
+83e::dutch:adjective
+84e::dutch:adjective
+85e::dutch:adjective
+86e::dutch:adjective
+87e::dutch:adjective
+88e::dutch:adjective
+89e::dutch:adjective
+8:e::swedish:adjective
+8282::korean
+8월::korean
+800-jährig::german:adjective
+8 millimètres::film
+8 o'clock in the morning::film
+8 minutes idle::film
+8-as::hungarian:noun
+8vo::english
+800::english
+8n1::english
+811::english
+8dr::english
+88s::english
+8.3::english
+80s::english
+86s::english
+8ve::english
+807::english
+8x8::english
+808::english
+8th::english
+8va::latin:adjective
+8ve::latin:adjective
+8vi::latin:adjective
+8vo::latin:adjective
+800 mètres::french:noun
+8e::dutch:adjective
+801::japanese:noun
+893::japanese:noun
+80-as::hungarian:adjective

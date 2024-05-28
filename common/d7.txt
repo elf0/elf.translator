@@ -1,141 +1,141 @@
-אבן::arabic
-אבן::arabic:noun
-אהל::arabic
-אהל::arabic:noun
-אחל::arabic
-אחל::arabic:verb
-אי־::old french
-אייפינש::old french
-אייפינש::old french:noun
-אךׄ::arabic
-אךׄ::arabic:noun
-אכׄת::arabic
-אכׄת::arabic:noun
-אל::arabic
-אל::arabic:noun
-אלי::arabic
-אלי::arabic:preposition
-אללה::arabic
-אללה::arabic:proper noun
-אן::arabic
-אסם::arabic
-אסם::arabic:noun
-אסראיל::arabic
-אסראיל::arabic:proper noun
-אפה::arabic
-אפה::arabic:noun
-באב::arabic
-באב::arabic:noun
-בוברגא::old french
-בוברגא::old french:noun
-בלד::arabic
-בלד::arabic:noun
-בצלה::arabic
-בצלה::arabic:noun
-גׄדיד::arabic
-גׄדיד::arabic:adjective
-גׄיל::arabic
-גׄיל::arabic:noun
-גׄמיע::arabic
-גׄמיע::arabic:noun
-דׄלך::arabic
-דׄלך::arabic:pronoun
-דכׄל::arabic
-דכׄל::arabic:verb
-הדׄא::arabic
-הדׄה::arabic
-הרון::arabic
-הרון::arabic:proper noun
-ואד אלחגארה::arabic
-ואד אלחגארה::arabic:proper noun
-זוג֗ה::arabic
-זוג֗ה::arabic:noun
-זכרי::arabic
-זכרי::arabic:proper noun
-חינידׄ::arabic
-חינידׄ::arabic:adverb
-חכמה::arabic
-חכמה::arabic:noun
 טלסם::arabic
 טלסם::arabic:noun
-יוסף::arabic
-יוסף::arabic:proper noun
-יעקוב::arabic
-יעקוב::arabic:proper noun
-כאן::arabic
-כאן::arabic:verb
-כצׄרה::arabic
-כצׄרה::arabic:noun
-כתאב::arabic
-כתאב::arabic:noun
-לחם::arabic
-לחם::arabic:noun
-לילה::arabic
-לילה::arabic:noun
-לכי::arabic
-לם::arabic
-מא::arabic
-מא::arabic:noun
-מאת::arabic
-מאת::arabic:verb
 מג'נון::arabic
-מג'נון::arabic:adjective
-מוסי::arabic
-מוסי::arabic:proper noun
-מחבה::arabic
-מחבה::arabic:noun
-מלך::arabic
-מלך::arabic:noun
-מן::arabic
-מן::arabic:preposition
-מן::arabic:pronoun
-מע::arabic
-מע::arabic:preposition
-מצר::arabic
-מצר::arabic:proper noun
-משכן::old french
-משכן::old french:noun
-נור::arabic
-נור::arabic:noun
-סבח::arabic
-סבח::arabic:verb
-עלי::arabic
-עלי::arabic:preposition
-עפרית::arabic
-עפרית::arabic:noun
-פויירק שנגלייר::old french
-פויירק שנגלייר::old french:noun
-פויירק::old french
-פויירק::old french:noun
-פורצא::old french
-פורצא::old french:noun
-פרטיאה::old french
-פרטיאה::old french:noun
-פרעון::arabic
-פרעון::arabic:proper noun
-קאל::arabic
-קאל::arabic:verb
-קאם::arabic
 קאם::arabic:verb
-קד::arabic
-קוי::arabic
-קוי::arabic:verb
-קום::arabic
+אסם::arabic:noun
 קום::arabic:noun
-קלב::arabic
+לחם::arabic:noun
+כאן::arabic:verb
+אבן::arabic:noun
+סבח::arabic:verb
+נור::arabic:noun
+באב::arabic:noun
+קוי::arabic:verb
 קלב::arabic:noun
-קרדונש::old french
+מאת::arabic:verb
+מלך::arabic:noun
+בלד::arabic:noun
+קאל::arabic:verb
+אהל::arabic:noun
+אפה::arabic:noun
+אחל::arabic:verb
+אךׄ::arabic:noun
+אי־::old french
 קרדונש::old french:noun
-רגׄל::arabic
-רגׄל::arabic:noun
-ר׳::arabic
-ר׳::arabic:noun
+קרדונש::old french
+מצר::arabic:proper noun
+מן::arabic:pronoun
+חינידׄ::arabic:adverb
+זוג֗ה::arabic:noun
+משכן::old french
+זוג֗ה::arabic
+אסראיל::arabic
+כצׄרה::arabic
+הרון::arabic
+לם::arabic
+מן::arabic
+אן::arabic
+מא::arabic
 שא::arabic
+מע::arabic
+קד::arabic
+ר׳::arabic
+אל::arabic
+קאם::arabic
+אסם::arabic
+תׄם::arabic
+קום::arabic
+לחם::arabic
+כאן::arabic
+אבן::arabic
+סבח::arabic
+נור::arabic
+מצר::arabic
+באב::arabic
+קוי::arabic
+הרון::arabic:proper noun
+לכי::arabic
+אלי::arabic
+עלי::arabic
+קלב::arabic
+מאת::arabic
+מלך::arabic
+בלד::arabic
+קאל::arabic
+אהל::arabic
+אפה::arabic
+אחל::arabic
+אךׄ::arabic
+כצׄרה::arabic:noun
+גׄמיע::arabic
+עפרית::arabic
+חינידׄ::arabic
+תסביח::arabic
+גׄדיד::arabic
+אלי::arabic:preposition
+עלי::arabic:preposition
+הדׄא::arabic
+פויירק שנגלייר::old french
+דׄלך::arabic:pronoun
+תסביח::arabic:noun
+גׄמיע::arabic:noun
+עפרית::arabic:noun
+פרעון::arabic:proper noun
+כתאב::arabic
+זכרי::arabic
+כתאב::arabic:noun
+מוסי::arabic
+יעקוב::arabic:proper noun
+בוברגא::old french:noun
+בוברגא::old french
+מוסי::arabic:proper noun
+זכרי::arabic:proper noun
+אייפינש::old french:noun
+פורצא::old french:noun
 שא::arabic:verb
-שאבוייר::old french
+אייפינש::old french
 שאבוייר::old french:verb
+דׄלך::arabic
+אכׄת::arabic
+אכׄת::arabic:noun
+פרטיאה::old french:noun
+פרטיאה::old french
+פויירק::old french:noun
+פויירק::old french
+מן::arabic:preposition
+מע::arabic:preposition
+מג'נון::arabic:adjective
+פויירק שנגלייר::old french:noun
+שאבוייר::old french
+יוסף::arabic
 שאהד::arabic
 שאהד::arabic:verb
-תׄם::arabic
-תסביח::arabic
-תסביח::arabic:noun
+יוסף::arabic:proper noun
+פורצא::old french
+ואד אלחגארה::arabic:proper noun
+משכן::old french:noun
+גׄדיד::arabic:adjective
+חכמה::arabic
+מא::arabic:noun
+ר׳::arabic:noun
+אל::arabic:noun
+חכמה::arabic:noun
+יעקוב::arabic
+גׄיל::arabic
+מחבה::arabic
+גׄיל::arabic:noun
+מחבה::arabic:noun
+פרעון::arabic
+רגׄל::arabic
+הדׄה::arabic
+בצלה::arabic
+לילה::arabic
+דכׄל::arabic
+אללה::arabic
+דכׄל::arabic:verb
+לילה::arabic:noun
+רגׄל::arabic:noun
+בצלה::arabic:noun
+אללה::arabic:proper noun
+ואד אלחגארה::arabic
+אסראיל::arabic:proper noun

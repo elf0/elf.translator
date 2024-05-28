@@ -1,69 +1,62 @@
-ǀxam::english
-ǀxam::english:proper noun
-ǁxegwi::english
-ǁxegwi::english:proper noun
-ǂhoan::english
-ǂhoan::english:proper noun
-ǂhõã::english
-ǂhõã::english:proper noun
-ǂkxʼauǁʼein::english
-ǂkxʼauǁʼein::english:proper noun
-ǃ'oǃkung::english
-ǃ'oǃkung::english:proper noun
-ǃkung::english
-ǃkung::english:proper noun
-ǃo kung::english
-ǃo kung::english:proper noun
-ǃoǃkung::english
-ǃoǃkung::english:proper noun
-ǃoǃung::english
-ǃoǃung::english:proper noun
-ǃxóõ::english
-ǃxóõ::english:proper noun
-ǃxũ::english
-ǃxũ::english:proper noun
-ǎ::mandarin
-ǎi::mandarin
-ǎidūndūn::mandarin
-ǎihuà::mandarin
-ǎinǎi::mandarin
-ǎiqì::mandarin
-ǎirán::mandarin
-ǎiránkěqīn::mandarin
 ǎisuān::mandarin
-ǎixiǎo::mandarin
-ǎixíngxīng::mandarin
-ǎixīng::mandarin
-ǎiyóu::mandarin
-ǎizi::mandarin
-ǎn::mandarin
-ǎng::mandarin
-ǎngēn::mandarin
 ǎnmen::mandarin
-ǎo'ǎi::mandarin
-ǎo::mandarin
+ǒusù::mandarin
+ǒutù::mandarin
+ǒuhé::mandarin
+ǒufā::mandarin
+ǎiqì::mandarin
+Ǣ::old english
+ǣ::old english
+Ƿ::old english
+Ǽ::old english
+ǽ::old english
+Ƕ::gothic
+ǒuhéxìng::mandarin
+ǃ'oǃkung::english
+ǒuránxìng::mandarin
+ǎng::mandarin
 ǎŋ::mandarin
+ǃ'oǃkung::english:proper noun
+ǎixiǎo::mandarin
+ǎixīng::mandarin
+ǂhõã::english:proper noun
+ǃxóõ::english
+ǂhoan::english
+ǃxóõ::english:proper noun
+ǃkung::english
+ǂhoan::english:proper noun
+ǃkung::english:proper noun
+ǁxegwi::english
+ǂhõã::english
+ǁxegwi::english:proper noun
+ǎidūndūn::mandarin
+ǃoǃung::english
+ǃo kung::english
+ǒurán::mandarin
+ǎirán::mandarin
+ǎngēn::mandarin
+ǒuxiàngpài::mandarin
+ǎiránkěqīn::mandarin
+ǎihuà::mandarin
+ǒushù::mandarin
+ǒuhuā::mandarin
+ǎo'ǎi::mandarin
+ǎinǎi::mandarin
+ǒu'ér::mandarin
+ǒu'ěr::mandarin
+ǎiyóu::mandarin
+ǃoǃkung::english:proper noun
+ǀxam::english:proper noun
+ǃxũ::english:proper noun
+ǒutùwù::mandarin
+ǃo kung::english:proper noun
+ǃoǃung::english:proper noun
+ǎixíngxīng::mandarin
+ǎ::mandarin
 Ǐ::mandarin
 ǐ::mandarin
 Ǒ::mandarin
 ǒ::mandarin
-ǒu'ér::mandarin
-ǒu'ěr::mandarin
-ǒu::mandarin
-ǒufā::mandarin
-ǒuhuā::mandarin
-ǒuhé::mandarin
-ǒuhéxìng::mandarin
-ǒurán::mandarin
-ǒuránxìng::mandarin
-ǒushù::mandarin
-ǒusù::mandarin
-ǒutù::mandarin
-ǒutùwù::mandarin
-ǒuxiàng chóngbài::mandarin
-ǒuxiàng::mandarin
-ǒuxiàngjù::mandarin
-ǒuxiàngpài::mandarin
 Ǔ::mandarin
 ǔ::mandarin
 Ǖ::mandarin
@@ -71,15 +64,22 @@
 Ǘ::mandarin
 ǘ::mandarin
 Ǚ::mandarin
+ǹ::mandarin
 ǚ::mandarin
 Ǜ::mandarin
 ǜ::mandarin
-Ǣ::old english
 ǣ::english
-ǣ::old english
-Ƕ::gothic
-Ƿ::old english
-ǹ::mandarin
+ǎizi::mandarin
+ǀxam::english
+ǃxũ::english
+ǎn::mandarin
+ǎo::mandarin
+ǒu::mandarin
 ǹg::mandarin
-Ǽ::old english
-ǽ::old english
+ǎi::mandarin
+ǒuxiàng chóngbài::mandarin
+ǃoǃkung::english
+ǂkxʼauǁʼein::english
+ǒuxiàng::mandarin
+ǂkxʼauǁʼein::english:proper noun
+ǒuxiàngjù::mandarin

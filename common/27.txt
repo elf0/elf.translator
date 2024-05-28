@@ -1,1373 +1,1389 @@
-'00s::english
-'00s::english:noun
-'10s::english
-'10s::english:noun
-'14-'18::english
-'14-'18::english:proper noun
-'20s::english
-'20s::english:noun
-'30s::english
-'30s::english:noun
-'40s::english
-'40s::english:noun
-'45::english
-'45::english:proper noun
-'50s progression::english
-'50s progression::english:noun
-'50s progressions::english
-'50s progressions::english:noun
-'50s::english
-'50s::english:noun
-'60s::english
-'60s::english:noun
-'70s::english
-'70s::english:noun
-'80s::english
-'80s::english:noun
-'90s::english
-'90s::english:noun
-'::chinese
-'::english
-'::esperanto
-'::finnish
-'::polish
-'::scots
-'a'::english
-'a'::english:verb
-'a::english
-'a::english:pronoun
-'a::french
-'ad::english
-'ad::english:verb
-'ad::irish
-'ad::irish:pronoun
-'adsa::irish
-'adsa::irish:pronoun
-'air::english
-'air::english:adjective
-'aircut::english
-'aircut::english:noun
-'aircuts::english
-'aircuts::english:noun
-'akikiki::english
-'akikiki::english:noun
-'akikikis::english
-'akikikis::english:noun
-'alf::english
-'alf::english:noun
-'allo::english
-'alves::english
-'alves::english:noun
-'am::english
-'am::english:noun
-'am::irish
-'am::irish:pronoun
-'ammer::english
-'ammer::english:noun
-'ammers::english
-'ammers::english:noun
-'ammiyya::english
-'ammiyya::english:proper noun
-'ams::english
-'ams::english:noun
-'aporth::english
-'aporth::english:noun
-'aporths::english
-'aporths::english:noun
-'appen::english
-'appen::english:adverb
-'appier::english
-'appier::english:adjective
-'appiest::english
-'appiest::english:adjective
-'appy::english
-'appy::english:adjective
-'aqida::english
-'aqida::english:noun
-'ar leis::irish
-'ar leis::irish:preposition
-'ar leis::irish:pronoun
-'arbour::english
-'arbour::english:noun
-'arbour::english:verb
-'arboured::english
-'arboured::english:verb
-'arbourin'::english
-'arbourin'::english:verb
-'arbours::english
-'arbours::english:noun
-'ard::english
-'ard::english:adjective
-'are'are::english
-'are'are::english:proper noun
-'arf::english
-'arf::english:noun
-'arries::english
-'arries::english:noun
-'arriet::english
-'arriet::english:noun
-'arriets::english
-'arriets::english:noun
-'arry::english
-'arry::english:noun
-'arryese::english
-'arryese::english:proper noun
-'arryish::english
-'arryish::english:adjective
-'arryism::english
-'arryism::english:noun
-'arrys::english
-'arrys::english:noun
-'art::english
-'art::english:noun
-'as::english
-'as::english:verb
-'at::english
-'at::english:pronoun
-'auhelawa::english
-'auhelawa::english:proper noun
-'auhelawa::finnish
-'auhelawa::finnish:noun
-'ava::english
-'ava::english:noun
-'ave it::english
-'ave::english
-'ave::english:verb
-'aven't::english
-'aven't::english:verb
-'avin'::english
-'avin'::english:verb
-'bacco::english
-'bacco::english:noun
-'bodge::english
-'bodge::english:proper noun
-'bootgates::scots
 'bootgates::scots:noun
-'bortion::english
-'bortion::english:noun
-'bortions::english
-'bortions::english:noun
-'bot::english
-'bot::english:noun
-'bots::english
-'bots::english:noun
-'bout ship::english
-'bout ship::english:verb
-'bout::english
-'bout::english:preposition
-'bouta::english
-'boutcha::english
-'boutchu::english
-'boutta::english
-'buked::english
-'buked::english:verb
-'burb::english
-'burb::english:noun
-'burbs::english
-'burbs::english:noun
-'bus::english
-'bus::english:noun
-'buses::english
-'buses::english:noun
-'busses::english
-'busses::english:noun
-'bye::english
-'cause::english
-'cause::scots
-'celli::english
-'celli::english:noun
-'cello::english
-'cello::english:noun
-'cellos::english
-'cellos::english:noun
-'cept::english
-'cept::english:preposition
-'ch::welsh
-'ch::welsh:pronoun
-'change::english
-'change::english:noun
-'cher::english
-'cher::english:noun
-'chers::english
-'chers::english:noun
-'chi::welsh
-'choo::english
-'chuile::irish
-'chute::english
-'chute::english:noun
-'chutes::english
-'chutes::english:noun
-'chutist::english
-'chutist::english:noun
-'chutists::english
-'chutists::english:noun
-'clare::english
-'clare::english:verb
-'coon::english
-'coon::english:noun
-'coons::english
-'coons::english:noun
-'cos::english
-'course::english
-'course::english:adverb
-'couta::english
-'couta::english:noun
-'coutas::english
-'coutas::english:noun
-'coz::english
-'cue::english
-'cue::english:noun
-'cues::english
-'cues::english:noun
-'cuz::english
-'cê::portuguese
-'cê::portuguese:pronoun
-'d best::english
-'d best::english:verb
-'d better::english
-'d better::english:verb
-'d::english
-'d::english:verb
-'dda::welsh
-'dda::welsh:verb
-'deed::english
-'deed::english:adverb
-'dillo::english
-'dillo::english:noun
-'dillos::english
-'dillos::english:noun
-'dis::english
-'dis::english:pronoun
-'do::english
-'do::english:noun
-'dos::english
-'dos::english:noun
-'droid::english
-'droid::english:noun
-'droids::english
-'droids::english:noun
-'drome::english
-'drome::english:noun
-'dromes::english
-'dromes::english:noun
-'dswounds::english
-'e'll::english
-'e's::english
-'e::english
-'e::english:pronoun
-'ead::english
-'ead::english:noun
-'eads::english
-'eads::english:noun
-'ear::english
-'ear::english:verb
-'eard::english
-'eard::english:verb
-'eart::english
-'eart::english:noun
-'earts::english
-'earts::english:noun
-'ee::english
-'ee::english:pronoun
-'eid al-adha::english
-'eid al-adha::english:proper noun
-'eid al-fitr::english
-'eid al-fitr::english:proper noun
-'eid ul-adha::english
-'eid ul-adha::english:proper noun
-'eid ul-fitr::english
-'eid ul-fitr::english:proper noun
-'eid::english
-'eid::english:noun
-'eid::english:proper noun
-'eld::english
-'eld::english:verb
-'ello::english
-'elp::english
-'elp::english:verb
-'em::english
-'em::english:pronoun
-'emselves::english
-'emselves::english:pronoun
-'er indoors::english
-'er indoors::english:pronoun
-'er::dutch
-'er::dutch:adverb
-'er::english
-'er::english:pronoun
-'erb::english
-'erb::english:noun
-'erbs::english
-'erbs::english:noun
-'ere::english
-'ere::english:adverb
-'ey up::english
-'fess up::english
-'fess up::english:verb
-'fessed up::english
-'fessed up::english:verb
-'fesses up::english
-'fesses up::english:verb
-'fessing up::english
-'fessing up::english:verb
-'fit::english
-'fit::english:noun
-'fits::english
-'fits::english:noun
-'flu::english
-'flu::english:noun
-'fore::english
-'fore::english:preposition
-'fraid not::english
-'fraid so::english
-'fraid::english
-'fraid::english:adjective
-'fridge::english
-'fridge::english:noun
-'fridges::english
-'fridges::english:noun
-'fro::english
-'fro::english:noun
-'fros::english
-'fros::english:noun
-'gainst::english
-'gainst::english:preposition
-'ganst::english
-'ganst::english:verb
-'gater::english
-'gater::english:noun
-'gaters::english
-'gaters::english:noun
-'gator::english
-'gator::english:noun
-'gators::english
-'gators::english:noun
-'gram::english
-'gram::english:noun
-'grammable::english
-'grammable::english:adjective
-'grams::english
-'grams::english:noun
-'groid::english
-'groid::english:noun
-'groids::english
-'groids::english:noun
-'hem::english
-'hem::english:pronoun
-'ho::english
-'hon::english
-'hood::english
-'hood::english:noun
-'hoods::english
-'hoods::english:noun
-'hopper::english
-'hopper::english:noun
-'i'iwi::english
-'i'iwi::english:noun
-'i::english
-'i::welsh
-'i::welsh:pronoun
-'icdhonnchaidh::scottish gaelic
-'icdhonnchaidh::scottish gaelic:proper noun
-'icgriogair::scottish gaelic
-'icgriogair::scottish gaelic:proper noun
-'ie::dutch
-'ie::dutch:pronoun
-'igh::english
-'igh::english:adjective
-'ighness::english
-'ighness::english:noun
-'ighnesses::english
-'ighnesses::english:noun
-'ill::english
-'ill::english:noun
-'ille::scottish gaelic
-'ille::scottish gaelic:noun
-'ills::english
-'ills::english:noun
-'im::english
-'im::english:pronoun
-'is::english
-'is::english:pronoun
-'ismah::english
-'ismah::english:noun
-'istorical::english
-'istorical::english:adjective
-'istory::english
-'istory::english:adjective
-'it::english
-'it::english:noun
-'it::english:verb
-'its::english
-'its::english:noun
-'ittin'::english
-'ittin'::english:verb
-'jak::english
-'jak::english:noun
-'jak::english:verb
-'k::dutch
-'k::dutch:pronoun
-'kay::english
-'keeper::english
-'keeper::english:noun
-'keepers::english
-'keepers::english:noun
-'keet::english
-'keet::english:noun
-'keets::english
-'keets::english:noun
-'kini::english
-'kini::english:noun
-'kinis::english
-'kinis::english:noun
-'l::asturian
-'l::catalan
-'l::catalan:pronoun
-'l::italian
-'l::scottish gaelic
-'l::scottish gaelic:verb
-'le::irish
-'le::irish:noun
-'least::english
-'less::english
-'lizabeth::english
-'lizabeth::english:proper noun
-'ll::english
-'ll::english:verb
-'llo::english
-'lo::english
-'loc::english
-'loc::english:noun
-'locs::english
-'locs::english:noun
-'long::english
-'long::english:adverb
-'long::english:preposition
-'longst::english
-'longst::english:adverb
-'longst::english:preposition
-'low::english
-'low::english:verb
-'ls::catalan
-'ls::catalan:pronoun
-'lude::english
-'lude::english:noun
-'ludes::english
-'ludes::english:noun
-'m::catalan
-'m::catalan:pronoun
-'m::dutch
-'m::dutch:pronoun
-'m::english
-'m::english:noun
-'m::english:pronoun
-'m::english:verb
-'m::welsh
-'m::welsh:pronoun
-'ma::welsh
-'ma::welsh:adverb
-'magination::english
-'magination::english:noun
-'mater::english
-'mater::english:noun
-'maters::english
-'maters::english:noun
-'member::english
-'member::english:verb
-'merica::english
-'merica::english:proper noun
-'mid::english
-'mid::english:preposition
-'midst::english
-'midst::english:preposition
-'mirin::english
-'mirin::english:adjective
-'mon::english
-'mon::english:noun
-'mond::welsh
-'mones::english
-'mones::english:noun
-'mong::english
-'mong::english:preposition
-'mongst::english
-'mongst::english:preposition
-'mons::english
-'mons::english:noun
-'murica::english
-'murica::english:proper noun
-'murican::english
-'murican::english:proper noun
-'murikkka::english
-'murikkka::english:noun
-'n appel und 'n ei::german
-'n'::english
-'n::asturian
-'n::asturian:preposition
-'n::catalan
-'n::catalan:pronoun
-'n::dutch
-'n::english
-'n::english:noun
-'n::german
-'n::german:adverb
-'n::italian
-'n::italian:adverb
-'n::italian:preposition
-'n::low german
-'n::low german:pronoun
-'n::welsh
-'n::welsh:pronoun
-'na::irish
-'na::welsh
-'na::welsh:adverb
-'nam::english
-'nam::english:proper noun
-'namgis::english
-'namgis::english:noun
-'naner::english
-'naner::english:noun
-'naners::english
-'naners::english:noun
-'nation::english
-'nauf::german
-'nauf::german:adverb
-'naus::german
-'naus::german:adverb
-'ndrangheta::italian
-'ndrangheta::italian:noun
-'ndrangheta::italian:proper noun
-'ndranghete::italian
-'ndranghete::italian:noun
-'ndranghetista::italian
-'ndranghetista::italian:noun
-'ndranghetiste::italian
-'ndranghetiste::italian:noun
-'ndranghetisti::italian
-'ndranghetisti::italian:noun
-'ndrina::italian
-'ndrina::italian:noun
-'ndrine::italian
-'ndrine::italian:noun
-'nduja::italian
-'nduja::italian:noun
-'ne::german
-'neath::english
-'neath::english:preposition
-'nein::german
-'nein::german:adverb
-'nem::german
-'nen::german
-'ner::german
-'nother::english
-'nough::english
-'nough::english:adverb
-'ns::catalan
-'ns::catalan:pronoun
-'ns::dutch
-'ns::dutch:adverb
-'ns::english
-'ns::english:noun
-'nsyncer::english
-'nsyncer::english:noun
-'nsyncers::english
-'nsyncers::english:noun
-'nuair::irish
-'nuair::irish:adverb
-'nuff said::english
-'nuff::english
-'nuff::english:adverb
-'obby 'oss::english
-'obby 'oss::english:noun
-'obby 'osses::english
-'obby 'osses::english:noun
-'og::english
-'og::english:noun
-'ogs::english
-'ogs::english:noun
-'old::english
-'old::english:verb
-'ole::english
-'ole::english:proper noun
-'oli::serbo croatian
-'oliday::english
-'oliday::english:noun
-'olidays::english
-'olidays::english:noun
-'ologist::english
-'ologist::english:noun
-'ologists::english
-'ologists::english:noun
-'oly::english
-'oly::english:adjective
-'ome::english
-'ome::english:noun
-'omes::english
-'omes::english:noun
-'omics::english
-'omics::english:noun
-'on::irish
-'onest::english
-'onest::english:adjective
-'onesty::english
-'onesty::english:noun
-'oney::english
-'oney::english:noun
-'oneys::english
-'oneys::english:noun
-'onna::english
-'onour::english
-'onour::english:noun
-'onour::english:verb
-'onours::english
-'onours::english:noun
-'onours::english:verb
-'ooligan::english
-'ooligan::english:adjective
-'ope::english
-'ope::english:verb
-'orrible::english
-'orrible::english:adjective
-'orribly::english
-'orribly::english:adverb
-'orrid::english
-'orrid::english:adjective
-'orse::english
-'orse::english:noun
-'orses::english
-'orses::english:noun
-'ospital::english
-'ospital::english:noun
-'ospitals::english
-'ospitals::english:noun
-'oss::english
-'oss::english:noun
-'our::english
-'our::english:noun
-'ours::english
-'ours::english:noun
-'ow::english
-'ow::english:adverb
-'patafysiikka::finnish
-'patafysiikka::finnish:noun
-'pataphysics::english
-'pataphysics::english:noun
-'phags-pa::english
-'phags-pa::english:proper noun
-'phobe::english
-'phobe::english:noun
-'phobes::english
-'phobes::english:noun
-'phone::english
-'phone::english:noun
-'phone::english:verb
-'phoned::english
-'phoned::english:verb
-'phones::english
-'phones::english:noun
-'phones::english:verb
-'phoning::english
-'phoning::english:verb
-'plane::english
-'plane::english:noun
-'planes::english
-'planes::english:noun
-'pon::english
-'pon::english:preposition
-'poonster::english
-'poonster::english:noun
-'poonsters::english
-'poonsters::english:noun
-'preciate::english
-'preciate::english:verb
-'preciated::english
-'preciated::english:verb
-'preciates::english
-'preciates::english:verb
-'preciating::english
-'preciating::english:verb
-'preciation::english
-'preciation::english:noun
-'prentice::english
-'prentice::english:noun
-'prentice::english:verb
-'prenticed::english
-'prenticed::english:verb
-'prentices::english
-'prentices::english:noun
-'prenticing::english
-'prenticing::english:verb
-'puter::english
-'puter::english:noun
-'puters::english
-'puters::english:noun
-'q::english
-'q::english:noun
-'que::english
-'que::english:noun
-'ques::english
-'ques::english:noun
-'r::dutch
-'r::dutch:pronoun
-'r::english
-'r::italian
-'r::welsh
-'ra::english
-'ra::english:proper noun
-'rales::english
-'rales::english:noun
-'rari::english
-'rari::english:noun
-'rat::english
-'rat::english:noun
-'rats::english
-'rats::english:noun
-'re::english
-'re::english:verb
-'rents::english
-'rents::english:noun
-'rest::english
-'rest::english:verb
-'rhoids::english
-'rhoids::english:noun
-'rickshaw::english
-'rickshaw::english:noun
-'rickshaws::english
-'rickshaws::english:noun
-'rithmetic::english
-'rithmetic::english:noun
-'roid rage::english
-'roid rage::english:noun
-'roid::english
-'roid::english:noun
-'roided out::english
-'roided out::english:adjective
-'roids::english
-'roids::english:noun
-'rona::english
-'rona::english:noun
-'roo::english
-'roo::english:noun
-'roos::english
-'roos::english:noun
-'round::english
-'round::english:adverb
-'round::english:preposition
-'rrhoids::english
-'rrhoids::english:noun
-'rt::english
-'rt::english:verb
-'s aithne do::scottish gaelic
-'s aithne do::scottish gaelic:verb
-'s anderdaags::dutch
-'s anderendaags::dutch
-'s avonds::dutch
-'s avonds::dutch:adverb
-'s beò duine an dèidh a shàrachaidh, ach cha bheò e an dèidh a nàrachaidh::scottish gaelic
-'s dinsdags::dutch
-'s dinsdags::dutch:adverb
-'s donderdags::dutch
-'s donderdags::dutch:adverb
-'s dòcha::scottish gaelic
-'s dòcha::scottish gaelic:adverb
-'s e do bheatha::scottish gaelic
-'s e miann na lacha an loch air nach bi i::scottish gaelic
-'s e ur beatha::scottish gaelic
-'s e::scottish gaelic
-'s fhada bhon uair sin::scottish gaelic
-'s fheàrr a bhith cinnteach na caillteach::scottish gaelic
-'s gravenhage::dutch
-'s gravenhage::dutch:proper noun
-'s gravenmoer::dutch
-'s gravenmoer::dutch:proper noun
-'s hertogenbosch::portuguese
-'s hertogenbosch::portuguese:proper noun
-'s lands::dutch
-'s maandags::dutch
-'s maandags::dutch:adverb
-'s math a rinn thu::scottish gaelic
-'s mathaid::scottish gaelic
-'s mathaid::scottish gaelic:adverb
-'s middags::dutch
-'s middags::dutch:adverb
-'s morgens::dutch
-'s morgens::dutch:adverb
-'s nachts::dutch
-'s nachts::dutch:adverb
-'s namiddags::dutch
-'s namiddags::dutch:adverb
-'s noens::dutch
-'s noens::dutch:adverb
-'s ochtends::dutch
-'s ochtends::dutch:adverb
-'s tric a bhios cridhe gheal ann an seiche dhonn::scottish gaelic
-'s urrainn do::scottish gaelic
-'s urrainn do::scottish gaelic:verb
-'s vrijdags::dutch
-'s vrijdags::dutch:adverb
-'s werelds::dutch
-'s winters::dutch
-'s winters::dutch:adverb
-'s woensdags::dutch
-'s woensdags::dutch:adverb
-'s zaterdags::dutch
-'s zaterdags::dutch:adverb
-'s zomers::dutch
-'s zomers::dutch:adverb
-'s zondags::dutch
-'s zondags::dutch:adverb
-'s àirde tuathanach air a chasan na duine-uasal air a ghlùinean::scottish gaelic
-'s-graveland::dutch
-'s-graveland::dutch:proper noun
-'s-gravenambacht::dutch
-'s-gravenambacht::dutch:proper noun
-'s-gravendeel::dutch
-'s-gravendeel::dutch:proper noun
-'s-gravenhage::dutch
-'s-gravenhage::dutch:proper noun
-'s-gravenhoek::dutch
-'s-gravenhoek::dutch:proper noun
-'s-gravenland::dutch
-'s-gravenland::dutch:proper noun
-'s-gravenmoerse vaart::dutch
-'s-gravenmoerse vaart::dutch:proper noun
-'s-gravenpolder::dutch
-'s-gravenpolder::dutch:proper noun
-'s-gravensloot::dutch
-'s-gravensloot::dutch:proper noun
-'s-gravenweg::dutch
-'s-gravenweg::dutch:proper noun
-'s-gravenzande::dutch
-'s-gravenzande::dutch:proper noun
-'s-gravesloot::dutch
-'s-gravesloot::dutch:proper noun
-'s-heer abtskerke::dutch
-'s-heer abtskerke::dutch:proper noun
-'s-heer arendskerke::dutch
-'s-heer arendskerke::dutch:proper noun
-'s-heer hendrikskinderen::dutch
-'s-heer hendrikskinderen::dutch:proper noun
-'s-heerenberg::dutch
-'s-heerenberg::dutch:proper noun
-'s-heerenbroek::dutch
-'s-heerenbroek::dutch:proper noun
-'s-heerenhoek::dutch
-'s-heerenhoek::dutch:proper noun
-'s-hertogenbosch::dutch
-'s-hertogenbosch::dutch:proper noun
-'s-hertogenbosch::english
-'s-hertogenbosch::english:proper noun
-'s-hertogenbosch::polish
-'s-hertogenbosch::polish:proper noun
-'s-hertogenbosch::portuguese
-'s-hertogenbosch::portuguese:proper noun
-'s-molenaarsbuurt::dutch
-'s-molenaarsbuurt::dutch:proper noun
-'s::catalan
-'s::catalan:pronoun
-'s::dutch
-'s::dutch:adverb
-'s::english
-'s::english:adverb
-'s::english:pronoun
-'s::english:verb
-'s::german
-'s::german:pronoun
-'s::irish
-'s::irish:noun
-'s::scottish gaelic
-'s::scottish gaelic:verb
-'sall good::english
-'sall::english
-'san earrach, nuair a bhios a' chaora caol, bidh am maorach reamhar::scottish gaelic
-'san::irish
-'sarvo::english
-'sarvo::english:noun
-'saur::english
-'saur::english:noun
-'saurs::english
-'saurs::english:noun
-'sblood::english
-'sbodikins::english
-'sconset::english
-'sconset::english:proper noun
-'scuse::english
-'scuse::english:noun
-'scuse::english:verb
-'scused::english
-'scused::english:verb
-'scuses::english
-'scuses::english:verb
-'scusing::english
-'scusing::english:verb
-'scutcheon::english
-'scutcheon::english:noun
-'scutcheons::english
-'scutcheons::english:noun
-'sdain::english
-'sdain::english:verb
-'sdained::english
-'sdained::english:verb
-'sdaining::english
-'sdaining::english:verb
-'sdains::english
-'sdains::english:verb
-'sdeath::english
-'sfar::english
-'sfoot::english
-'sheart::english
-'shroom::english
-'shroom::english:noun
-'shrooms::english
-'shrooms::english:noun
-'sides::english
-'sides::english:adverb
-'sides::english:preposition
-'skimo::english
-'skimo::english:noun
-'skimos::english
-'skimos::english:noun
-'snails::english
-'son::scottish gaelic
-'son::scottish gaelic:preposition
-'specially::english
-'specially::english:adverb
-'spectable::english
-'spectable::english:adjective
-'spensive::english
-'spensive::english:adjective
-'spire::english
-'spire::english:verb
-'spired::english
-'spired::english:verb
-'spires::english
-'spires::english:verb
-'spiring::english
-'spiring::english:verb
-'splode::english
-'splode::english:verb
-'splodey::english
-'splodey::english:adjective
-'splodey::english:adverb
-'splosion::english
-'splosion::english:noun
-'splosions::english
-'splosions::english:noun
-'sposin'::english
-'sposin'::english:noun
-'spro::english
-'spro::english:noun
-'spros::english
-'spros::english:noun
-'spáin::irish
+'am::irish:pronoun
+'ad::irish:pronoun
 'spáin::irish:verb
-'spáint::irish
-'spáint::irish:noun
-'spána::irish
+'s dinsdags::dutch
+'bootgates::scots
+'s winters::dutch
+'specially::english
+'preciates::english
+'preciated::english
+'mistaken for strangers'::film
+'n::low german:pronoun
+'fessing up::english:verb
+'splodey::english:adjective
+'t bramelt::dutch
+'boutchu::english
+'t reuvelt::dutch
+'50s progression::english:noun
+'tweren't::english
+'un::irish:preposition
+'s e do bheatha::scottish gaelic
+'50s progression::english
+'twixt-brain::english
+'s woensdags::dutch
+'ndrina::italian:noun
+'ndrina::italian
+'sides::english:preposition
+'ναι::greek:verb
+'twixt::english:preposition
+'midst::english:preposition
+'round::english:preposition
+'k::dutch:pronoun
+'m::dutch:pronoun
+'r::dutch:pronoun
+'t::dutch:pronoun
+'s tric a bhios cridhe gheal ann an seiche dhonn::scottish gaelic
+'i::welsh:pronoun
+'m::welsh:pronoun
+'n::welsh:pronoun
+'u::welsh:pronoun
+'s maandags::dutch
+'are'are::english
+'s aithne do::scottish gaelic
 'spána::irish:noun
 'spána::irish:verb
-'spánadh::irish
-'spánadh::irish:verb
-'spánaim::irish
-'spánaim::irish:verb
-'spánann::irish
-'spánann::irish:verb
-'spánfadh::irish
-'spánfadh::irish:verb
-'spánfaidh::irish
-'spánfaidh::irish:verb
-'spánta::irish
-'sta::italian
-'sta::italian:adjective
-'stache::english
-'stache::english:noun
-'staches::english
-'staches::english:noun
-'stan::english
-'stan::english:noun
-'stans::english
-'stans::english:noun
-'ste::italian
-'ste::italian:adjective
-'sti::italian
-'sti::italian:adjective
-'sti::welsh
-'sto::italian
-'sto::italian:adjective
-'straunt::english
-'straunt::english:noun
-'straunts::english
-'straunts::english:noun
-'straya::english
-'straya::english:proper noun
-'strayan::english
-'strayan::english:adjective
-'strayan::english:noun
-'strayans::english
-'strayans::english:noun
-'struth::english
-'sup::english
-'swounds::english
-'sé::irish
-'t acker::dutch
-'t acker::dutch:proper noun
-'t beijersche::dutch
-'t beijersche::dutch:proper noun
-'t bergje::dutch
-'t bergje::dutch:proper noun
-'t bramelt::dutch
-'t bramelt::dutch:proper noun
-'t broek::dutch
-'t broek::dutch:proper noun
-'t buurtje::dutch
-'t buurtje::dutch:proper noun
-'t coll::dutch
-'t coll::dutch:proper noun
-'t duifje::dutch
-'t duifje::dutch:proper noun
-'t eigen::dutch
-'t eigen::dutch:proper noun
-'t fort::dutch
-'t fort::dutch:proper noun
-'t goy::dutch
-'t goy::dutch:proper noun
-'t haantje::dutch
-'t haantje::dutch:proper noun
-'t harde::dutch
-'t harde::dutch:proper noun
-'t hart::dutch
-'t hart::dutch:proper noun
-'t hasselt::dutch
-'t hasselt::dutch:proper noun
-'t heem::dutch
-'t heem::dutch:proper noun
-'t heeske::dutch
-'t heeske::dutch:proper noun
-'t herselt::dutch
-'t herselt::dutch:proper noun
-'t hoekje::dutch
-'t hoekje::dutch:proper noun
-'t hoekske::dutch
-'t hoekske::dutch:proper noun
-'t hof::dutch
-'t hof::dutch:proper noun
-'t hofke::dutch
-'t hofke::dutch:proper noun
-'t hooft operator::english
-'t hooft operator::english:noun
-'t hooft operators::english
-'t hooft operators::english:noun
-'t hoogezand::dutch
-'t hoogezand::dutch:proper noun
-'t hool::dutch
-'t hool::dutch:proper noun
-'t hoorntje::dutch
-'t hoorntje::dutch:proper noun
-'t horntje::dutch
-'t horntje::dutch:proper noun
-'t hul::dutch
-'t hul::dutch:proper noun
-'t kabel::dutch
-'t kabel::dutch:proper noun
-'t kip::dutch
-'t kip::dutch:proper noun
-'t klooster::dutch
-'t klooster::dutch:proper noun
-'t kofschip::dutch
-'t kret::dutch
-'t kret::dutch:proper noun
-'t kruis::dutch
-'t kruis::dutch:proper noun
-'t laar::dutch
-'t laar::dutch:proper noun
-'t lage van de weg::dutch
-'t lage van de weg::dutch:proper noun
-'t lansink::dutch
-'t lansink::dutch:proper noun
-'t leuken::dutch
-'t leuken::dutch:proper noun
-'t lien::dutch
-'t lien::dutch:proper noun
-'t lo::dutch
-'t lo::dutch:proper noun
-'t loo::dutch
-'t loo::dutch:proper noun
-'t look::dutch
-'t look::dutch:proper noun
-'t malijk::dutch
-'t malijk::dutch:proper noun
-'t marktje::dutch
-'t marktje::dutch:proper noun
-'t noorden::dutch
-'t noorden::dutch:proper noun
-'t nopeind::dutch
-'t nopeind::dutch:proper noun
-'t oever::dutch
-'t oever::dutch:proper noun
-'t oldhof::dutch
-'t oldhof::dutch:proper noun
-'t rak::dutch
-'t rak::dutch:proper noun
-'t reuvelt::dutch
-'t reuvelt::dutch:proper noun
-'t rijpje::dutch
-'t rijpje::dutch:proper noun
-'t rolder::dutch
-'t rolder::dutch:proper noun
-'t rooth::dutch
-'t rooth::dutch:proper noun
-'t rot::dutch
-'t rot::dutch:proper noun
-'t ruige veld::dutch
-'t ruige veld::dutch:proper noun
-'t sandt::dutch
-'t sandt::dutch:proper noun
-'t schoor::dutch
-'t schoor::dutch:proper noun
-'t schot::dutch
-'t schot::dutch:proper noun
-'t sempke::dutch
-'t sempke::dutch:proper noun
-'t stort::dutch
-'t stort::dutch:proper noun
-'t veld::dutch
-'t veld::dutch:proper noun
-'t ven::dutch
-'t ven::dutch:proper noun
-'t villeken::dutch
-'t villeken::dutch:proper noun
+'neath::english:preposition
 't vlaandertje::dutch
-'t vlaandertje::dutch:proper noun
-'t vlot::dutch
-'t vlot::dutch:proper noun
-'t waar::dutch
-'t waar::dutch:proper noun
-'t wad::dutch
-'t wad::dutch:proper noun
-'t weegje::dutch
-'t weegje::dutch:proper noun
-'t weldink::dutch
-'t weldink::dutch:proper noun
-'t wensink::dutch
-'t wensink::dutch:proper noun
-'t wilbert::dutch
-'t wilbert::dutch:proper noun
-'t wild::dutch
-'t wild::dutch:proper noun
-'t winkel::dutch
-'t winkel::dutch:proper noun
-'t witte hek::dutch
-'t witte hek::dutch:proper noun
-'t wolferink::dutch
-'t wolferink::dutch:proper noun
-'t woud::dutch
-'t woud::dutch:proper noun
-'t woudt::dutch
-'t woudt::dutch:proper noun
-'t zand::dutch
-'t zand::dutch:proper noun
-'t zandstervoorwerk::dutch
-'t zandstervoorwerk::dutch:proper noun
-'t zandt::dutch
-'t zandt::dutch:proper noun
-'t zwaantje::dutch
-'t zwaantje::dutch:proper noun
-'t zwering::dutch
-'t zwering::dutch:proper noun
-'t::catalan
-'t::catalan:pronoun
-'t::dutch
-'t::dutch:pronoun
-'t::english
-'t::english:pronoun
-'tache::english
-'tache::english:noun
-'taches::english
-'taches::english:noun
-'tain't::english
-'tain::french
-'taint::english
-'tait::norman
-'tait::norman:verb
-'tard::english
-'tard::english:noun
-'tards::english
-'tards::english:noun
-'tatoe::english
-'tatoe::english:noun
-'tatoes::english
-'tatoes::english:noun
-'tec::english
-'tec::english:noun
-'tec::english:proper noun
-'tecs::english
-'tecs::english:noun
-'ten-shun::english
-'tend to one's knitting::english
-'tend to one's knitting::english:verb
-'tend::english
-'tend::english:verb
-'tended::english
-'tended::english:verb
-'tending::english
-'tending::english:verb
-'tends::english
-'tends::english:verb
-'terp::english
-'terp::english:noun
-'terps::english
-'terps::english:noun
-'th::welsh
-'th::welsh:pronoun
-'til the cows come home::english
-'til::english
-'til::english:preposition
-'till::english
-'tis the season::english
-'tis::english
-'tism::english
-'tism::english:noun
-'tisn't::english
-'titled::english
-'titled::english:adjective
-'tocks::english
-'tocks::english:noun
-'tshall::english
-'tude::english
-'tude::english:noun
-'tudes::english
-'tudes::english:noun
-'tute::english
-'tute::english:noun
-'tutes::english
-'tutes::english:noun
-'twa'n't::english
-'twas::english
-'twasn't::english
-'tween deck::english
+'s morgens::dutch
+'splosion::english:noun
+'arryese::english
+'t hoekske::dutch:proper noun
+'χες::greek:verb
+'t rooth::dutch
+'adsa::irish:pronoun
+'s dòcha::scottish gaelic
+'rithmetic::english
+'arryism::english:noun
+'t rooth::dutch:proper noun
+'arryism::english
 'tween deck::english:noun
-'tween decks::english
-'tween decks::english:noun
-'tween::english
-'tween::english:verb
-'tweenbrain::english
-'tweenbrain::english:noun
-'tweenbrains::english
-'tweenbrains::english:noun
-'twere::english
-'tweren't::english
-'twill::english
-'twixt-brain::english
-'twixt-brain::english:noun
-'twixt-brains::english
-'twixt-brains::english:noun
-'twixt::english
-'twixt::english:preposition
-'twon't::english
-'twou'd::english
-'twou'dn't::english
-'twould::english
-'twouldn't::english
-'türlich::german
-'u::welsh
-'u::welsh:pronoun
-'ud::english
-'ud::english:noun
-'ud::english:verb
-'uds::english
-'uds::english:noun
-'ull::english
-'ull::english:verb
-'ullo::english
-'um::english
-'um::english:pronoun
-'umble::english
-'umble::english:adjective
-'umble::english:verb
-'umbly::english
-'umbly::english:adverb
-'umour::english
-'umour::english:noun
-'umour::english:verb
-'umours::english
-'umours::english:noun
-'umours::english:verb
-'umra::english
-'umra::english:noun
-'un::english
-'un::english:pronoun
-'un::irish
-'un::irish:preposition
-'uns::english
-'uns::english:noun
-'ur::irish
-'urried::english
-'urried::english:verb
-'urries::english
-'urries::english:verb
-'urry::english
-'urry::english:verb
-'urrying::english
-'urrying::english:verb
-'uthman::english
-'uthman::english:proper noun
-'vator::english
-'vator::english:noun
-'vators::english
-'vators::english:noun
-'ve::english
-'ve::english:verb
-'verse::english
-'verse::english:noun
-'verses::english
-'verses::english:noun
-'vert::english
-'vert::english:noun
-'verts::english
-'verts::english:noun
-'vette::english
-'vette::english:noun
-'vettes::english
-'vettes::english:noun
-'w::welsh
-'way::english
-'way::english:adjective
-'way::english:adverb
-'y::welsh
-'za::english
-'za::english:noun
-'zackly::english
-'zactly::english
-'zamination::english
+'splosion::english
+'auhelawa::english
+'hem::english:pronoun
+'dis::english:pronoun
+'n::asturian:preposition
+'s-molenaarsbuurt::dutch
+'orrible::english
+'auhelawa::finnish:noun
+'icdhonnchaidh::scottish gaelic
+'t wilbert::dutch
+'magination::english:noun
 'zamination::english:noun
-'zaminations::english
-'zaminations::english:noun
-'zat::english
-'zine::english
-'zine::english:noun
-'zounds::english
-'γγίζω::greek
-'γγίζω::greek:verb
-'γγιξα::greek
-'γγιξα::greek:verb
-'γώ::greek
-'γώ::greek:pronoun
-'ναι::greek
-'ναι::greek:verb
-'συ::greek
-'συ::greek:pronoun
-'σύ::greek
-'σύ::greek:pronoun
-'χα::greek
-'χα::greek:verb
+'icdhonnchaidh::scottish gaelic:proper noun
+'preciation::english:noun
+'ndrine::italian:noun
+'ndrine::italian
+'t hasselt::dutch
+'tweenbrains::english
+'χαν::greek:verb
+'sto::italian:adjective
+'sta::italian:adjective
+'ste::italian:adjective
+'sti::italian:adjective
+'s-molenaarsbuurt::dutch:proper noun
+'auhelawa::finnish
+'s vrijdags::dutch
+'n::low german
+'t herselt::dutch
+'o surdato 'nnammurato::film
+'s::scottish gaelic
+'l::scottish gaelic
+'bortion::english:noun
+'s gravenmoer::dutch
+'s-gravenhoek::dutch
+'s-gravendeel::dutch
+'s-gravenland::dutch
+'s-gravesloot::dutch
+'s-gravenhage::dutch
+'s gravenhage::dutch
+'tweenbrain::english
+'bortion::english
+'le::irish:noun
+'t kip::dutch:proper noun
+'t villeken::dutch
+'t lo::dutch:proper noun
+'t goy::dutch:proper noun
+'phags-pa::english
+'t ruige veld::dutch
+'t rak::dutch:proper noun
 'χαμε::greek
 'χαμε::greek:verb
-'χαν::greek
-'χαν::greek:verb
+'t wad::dutch:proper noun
 'χατε::greek
 'χατε::greek:verb
-'χε::greek
+'s ochtends::dutch
+'t hul::dutch:proper noun
+'t rot::dutch:proper noun
+'t ven::dutch:proper noun
+'t hof::dutch:proper noun
+'t loo::dutch:proper noun
+'na::irish
+'ur::irish
+'ad::irish
+'le::irish
+'am::irish
+'on::irish
+'un::irish
+'t waar::dutch:proper noun
+'t laar::dutch:proper noun
+'adsa::irish
+'s-heer hendrikskinderen::dutch
+'ooligan::english
+'ar leis::irish:preposition
+'strayan::english:noun
+'s-heer arendskerke::dutch
+'strayan::english
+'s-heer hendrikskinderen::dutch:proper noun
+'murican::english
+'prenticed::english:verb
+'patafysiikka::finnish
+'poonsters::english
+'t buurtje::dutch:proper noun
+'tween decks::english:noun
+'as::english:verb
+'it::english:verb
+'ad::english:verb
+'rt::english:verb
+'ud::english:verb
+'re::english:verb
+'ve::english:verb
+'a'::english:verb
+'ll::english:verb
+'t noorden::dutch:proper noun
+'obby 'oss::english:noun
+'sconset::english:proper noun
+'ndrangheta::italian
+'ndranghete::italian
+'t look::dutch:proper noun
+'ille::scottish gaelic:noun
+'spánta::irish
+'s::catalan
+'t::catalan
+'l::catalan
+'m::catalan
+'n::catalan
+'zaminations::english:noun
+'t fort::dutch:proper noun
+'t hart::dutch:proper noun
+'t beijersche::dutch
+'t veld::dutch:proper noun
+'t coll::dutch:proper noun
+'t wild::dutch:proper noun
+'t woud::dutch:proper noun
+'t kret::dutch:proper noun
+'t zand::dutch:proper noun
+'s-heerenhoek::dutch
+'t vlot::dutch:proper noun
+'t marktje::dutch:proper noun
+'spánaim::irish
+'t hool::dutch:proper noun
+'s-heerenberg::dutch
+'spánaim::irish:verb
+'::english
+'splosions::english:noun
+'s::english:adverb
+'n appel und 'n ei::german
+'t heem::dutch:proper noun
+'s-gravenmoerse vaart::dutch
+'scutcheons::english:noun
+'s namiddags::dutch
+'s donderdags::dutch
+'roided out::english:adjective
+'s-gravenambacht::dutch:proper noun
+'t lien::dutch:proper noun
+'::finnish
+'s-gravenambacht::dutch
+'n::italian:adverb
+'χα::greek:verb
 'χε::greek:verb
+'scutcheon::english
+'t haantje::dutch:proper noun
+'t horntje::dutch:proper noun
+'fridge::english
+'t hoogezand::dutch:proper noun
+'change::english:noun
+'shroom::english:noun
+'change::english
+'shroom::english
+'fridge::english:noun
+'s-hertogenbosch::english
+'s zomers::dutch
+'stache::english:noun
+'stache::english
+'nduja::italian
+'eid al-adha::english:proper noun
+'eid al-fitr::english:proper noun
+'s maandags::dutch:adverb
+'course::english
+'splode::english
+'are'are::english:proper noun
+'splode::english:verb
+'t witte hek::dutch
+'t hoekje::dutch:proper noun
+'s mathaid::scottish gaelic
+'cê::portuguese:pronoun
+'eid ul-adha::english:proper noun
+'eid ul-fitr::english:proper noun
+'spánfaidh::irish
+'s dòcha::scottish gaelic:adverb
+'nation::english
+'t lage van de weg::dutch
+'arryese::english:proper noun
+'ναι::greek
+'uthman::english
+'sé::irish
+'san::irish
+'t duifje::dutch
+'longst::english:adverb
+'spána::irish
+'lizabeth::english:proper noun
+'bodge::english
+'tatoe::english
+'s e ur beatha::scottish gaelic
+'t kip::dutch
+'tache::english
+'twere::english
+'spire::english
+'s winters::dutch:adverb
+'phobe::english
+'clare::english
+'cause::english
+'scuse::english
+'verse::english
+'vette::english
+'chute::english
+'umble::english
+'drome::english
+'phone::english
+'plane::english
+'spánfaidh::irish:verb
+'t weegje::dutch
+'sdain::english
+'mirin::english
+'t laar::dutch
+'t waar::dutch
+'tween::english
+'appen::english
+'t goy::dutch
+'nuair::irish
 'χες::greek
-'χες::greek:verb
-'χουμε::greek
+'bacco::english
+'bodge::english:proper noun
+'dillo::english
+'cello::english
+'skimo::english
+'avin'::english
+'sarvo::english
+'nough::english
+'s zomers::dutch:adverb
+'t rak::dutch
+'ismah::english
+'s-graveland::dutch
+'s-gravenweg::dutch
+'neath::english
+'ey up::english
+'spensive::english:adjective
+'i'iwi::english
+'t wad::dutch
+'bouta::english
+'couta::english
+'aqida::english
+'celli::english
+'t hul::dutch
+'umbly::english
+'preciates::english:verb
+'preciated::english:verb
+'t rot::dutch
+'vator::english
+'gator::english
+'gater::english
+'mater::english
+'puter::english
+'cause::scots
+'ammer::english
+'naner::english
+'umour::english
+'onour::english
+'spros::english
+'t wolferink::dutch
+'terps::english
+'oneys::english
+'t bergje::dutch
+'san earrach, nuair a bhios a' chaora caol, bidh am maorach reamhar::scottish gaelic
+'kinis::english
+'arrys::english
+'saurs::english
+'chers::english
+'course::english:adverb
+'burbs::english
+'omics::english
+'tocks::english
+'keets::english
+'roids::english
+'t ven::dutch
+'rents::english
+'tends::english
+'hoods::english
+'tards::english
+'earts::english
+'verts::english
+'sides::english
+'tudes::english
+'tutes::english
+'ludes::english
+'alves::english
+'rales::english
+'mones::english
+'grams::english
+'orses::english
+'buses::english
+'t hof::dutch
+'coons::english
+'stans::english
+'rickshaw::english:noun
+'sfoot::english
+'twixt::english
+'droid::english
+'groid::english
+'fraid::english
+'orrid::english
+'midst::english
+'onest::english
+'ganst::english
+'least::english
+'twill::english
+'ittin'::english
+'buked::english
+'round::english
+'taint::english
+'ittin'::english:verb
+'t loo::dutch
+'t hoogezand::dutch
+'t wilbert::dutch:proper noun
+'son::scottish gaelic
+'s e::scottish gaelic
+'t duifje::dutch:proper noun
+'twouldn't::english
+'oly::english:adjective
+'way::english:adjective
+'14-'18::english
+'air::english:adjective
+'ard::english:adjective
+'igh::english:adjective
+'fraid::english:adjective
+'orrid::english:adjective
+'onest::english:adjective
+'umble::english:adjective
+'struth::english
+'twou'dn't::english
+'aporth::english:noun
+'mirin::english:adjective
+'sdeath::english
+'aporth::english
+'t rijpje::dutch
+'uthman::english:proper noun
+'t look::dutch
+'t hasselt::dutch:proper noun
+'t malijk::dutch
+'oliday::english
+'rickshaw::english
+'t fort::dutch
+'t hart::dutch
+'straya::english
+'oliday::english:noun
+'s vrijdags::dutch:adverb
+'t bergje::dutch:proper noun
+'istory::english
+'t veld::dutch
+'t coll::dutch
+'t wild::dutch
+'merica::english
+'murica::english
+'zactly::english
+'boutta::english
+'t woud::dutch
+'m::english:noun
+'n::english:noun
+'q::english:noun
+'onesty::english:noun
+'t kret::dutch
+'zackly::english
+'onesty::english
+'t weegje::dutch:proper noun
+'til death do us part::film
+'t zand::dutch
+'t hool::dutch
+'t herselt::dutch:proper noun
+'t vlot::dutch
+'::esperanto
+'t acker::dutch:proper noun
+'tween decks::english
+'s dinsdags::dutch:adverb
+'t oever::dutch
+'χαν::greek
+'s urrainn do::scottish gaelic:verb
+'t rijpje::dutch:proper noun
+'t oever::dutch:proper noun
+'s morgens::dutch:adverb
+'chuile::irish
+'t heem::dutch
+'akikikis::english:noun
+'t witte hek::dutch:proper noun
+'member::english:verb
+'arbour::english:noun
+'keeper::english:noun
+'hopper::english:noun
+'arbour::english
+'hopper::english
+'nother::english
+'keeper::english
+'appier::english
+'arbour::english:verb
+'member::english
+'t acker::dutch
+'ne::german
+'14-'18::english:proper noun
+'cellos::english
+'dillos::english
+'skimos::english
+'zaminations::english
+'m::english:pronoun
+'a::english:pronoun
+'s::english:pronoun
+'t::english:pronoun
+'e::english:pronoun
+'cellos::english:noun
+'dillos::english:noun
+'skimos::english:noun
+'spáin::irish
+'t hoekje::dutch
+'merica::english:proper noun
+'murica::english:proper noun
+'coutas::english
+'namgis::english:noun
+'namgis::english
+'coutas::english:noun
+'vators::english:noun
+'gators::english:noun
+'ammers::english
+'naners::english
+'umours::english
+'onours::english
+'puters::english
+'maters::english
+'gaters::english
+'umours::english:verb
+'onours::english:verb
+'vators::english
+'gators::english
+'puters::english:noun
+'maters::english:noun
+'gaters::english:noun
+'ammers::english:noun
+'naners::english:noun
+'umours::english:noun
+'onours::english:noun
+'ere::english:adverb
+'way::english:adverb
+'t zwaantje::dutch
+'zounds::english
+'rhoids::english:noun
+'droids::english:noun
+'groids::english:noun
+'t lien::dutch
+'droids::english
+'groids::english
+'rhoids::english
+'snails::english
+'t malijk::dutch:proper noun
+'spires::english:verb
+'vettes::english
+'phones::english:noun
+'chutes::english
+'planes::english:noun
+'tatoes::english:noun
+'dromes::english
+'scuses::english:verb
+'phones::english
+'planes::english
+'taches::english:noun
+'t bramelt::dutch:proper noun
+'tatoes::english
+'arries::english:noun
+'phones::english:verb
+'taches::english
+'phobes::english:noun
+'arries::english
+'urries::english
+'night, mother::film
+'verses::english:noun
+'busses::english:noun
+'vettes::english:noun
+'spires::english
+'chutes::english:noun
+'phobes::english
+'verses::english
+'busses::english
+'urries::english:verb
+'dromes::english:noun
+'scuses::english
+'straya::english:proper noun
+'sdains::english
+'sdains::english:verb
+'twou'd::english
+'akikikis::english
+'tain't::english
+'twon't::english
+'tisn't::english
+'aven't::english
+'sblood::english
+'aven't::english:verb
+'ndranghetista::italian
+'ndranghetisti::italian
+'prenticing::english
+'s-graveland::dutch:proper noun
+'s-gravenweg::dutch:proper noun
+'ave it::english
+'t reuvelt::dutch:proper noun
+'fraid not::english
+'t hoorntje::dutch
+'sheart::english
+'sposin'::english:noun
+'d best::english
+'gainst::english
+'longst::english
+'mongst::english
+'d best::english:verb
+'ndranghetiste::italian
+'urrying::english
+'t wolferink::dutch:proper noun
+'twould::english
+'spiring::english
+'scusing::english
+'sposin'::english
+'tending::english
+'phoning::english
+'tshall::english
+'spired::english:verb
+'tended::english
+'titled::english
+'scused::english:verb
+'phoned::english
+'tended::english:verb
+'arriet::english:noun
+'phoned::english:verb
+'arriet::english
+'urried::english
+'aircut::english:noun
+'spired::english
+'aircut::english
+'urried::english:verb
+'scused::english
+'urrying::english:verb
+'spiring::english:verb
+'scusing::english:verb
+'tending::english:verb
+'phoning::english:verb
+'splosions::english
+'tait::norman:verb
+'istory::english:adjective
+'t heeske::dutch:proper noun
+'ar leis::irish
+'t kruis::dutch
+'s::irish:noun
 'χουμε::greek:verb
+'appier::english:adjective
+'s::irish
+'t kruis::dutch:proper noun
+'nsyncers::english
+'eid al-adha::english
+'eid al-fitr::english
+'s-heer abtskerke::dutch:proper noun
+'::polish
+'γγίζω::greek
+'eid ul-adha::english
+'eid ul-fitr::english
+'ille::scottish gaelic
+'appy::english:adjective
+'gainst::english:preposition
+'longst::english:preposition
+'mongst::english:preposition
+'spectable::english:adjective
+'grammable::english:adjective
+'s::scottish gaelic:verb
+'l::scottish gaelic:verb
+'s-hertogenbosch::portuguese:proper noun
+'s hertogenbosch::portuguese:proper noun
+'t sempke::dutch
+'titled::english:adjective
+'ls::catalan:pronoun
+'ns::catalan:pronoun
+'ie::dutch:pronoun
+'naus::german:adverb
+'elp::english:verb
+'ear::english:verb
+'eld::english:verb
+'old::english:verb
+'ope::english:verb
+'ave::english:verb
+'low::english:verb
+'jak::english:verb
+'ull::english:verb
+'nauf::german:adverb
+'nein::german:adverb
+'γγιξα::greek
+'t zandstervoorwerk::dutch:proper noun
+'ch::welsh:pronoun
+'th::welsh:pronoun
+'γγίζω::greek:verb
+'son::scottish gaelic:preposition
+'rickshaws::english:noun
+'s lands::dutch
+'zine::english:noun
+'gram::english:noun
+'tism::english:noun
+'orse::english:noun
+'tude::english:noun
+'tute::english:noun
+'lude::english:noun
+'coon::english:noun
+'stan::english:noun
+'spro::english:noun
+'terp::english:noun
+'kini::english:noun
+'rona::english:noun
+'urry::english:verb
+'umra::english:noun
+'rari::english:noun
+'arry::english:noun
+'oney::english:noun
+'burb::english:noun
+'cher::english:noun
+'saur::english:noun
+'ills::english:noun
+'mons::english:noun
+'roos::english:noun
+'fros::english:noun
+'erbs::english:noun
+'ours::english:noun
+'locs::english:noun
+'tecs::english:noun
+'fits::english:noun
+'bots::english:noun
+'eads::english:noun
+'rats::english:noun
+'omes::english:noun
+'ques::english:noun
+'cues::english:noun
+'roid::english:noun
+'tend::english:verb
+'hood::english:noun
+'tard::english:noun
+'eart::english:noun
+'vert::english:noun
+'eard::english:verb
+'rest::english:verb
+'keet::english:noun
+'arryish::english
+'r::dutch
+'s::dutch
+'t::dutch
+'k::dutch
+'m::dutch
+'n::dutch
+'r::welsh
+'u::welsh
+'w::welsh
+'i::welsh
+'y::welsh
+'m::welsh
+'n::welsh
+'::scots
+'til kingdom come::film
+'t broek::dutch
+'t broek::dutch:proper noun
+'t sempke::dutch:proper noun
+'γγιξα::greek:verb
+'s noens::dutch
+'t heeske::dutch
+'s ochtends::dutch:adverb
+'tween deck::english
+'fess up::english
+'roid rage::english:noun
+'sall good::english
+'fess up::english:verb
+'obby 'oss::english
+'magination::english
+'zamination::english
+'χουμε::greek
+'appiest::english:adjective
+'preciation::english
+'preciating::english
+'s-heer abtskerke::dutch
+'nsyncers::english:noun
+'murican::english:proper noun
+'t weldink::dutch
+'s middags::dutch
+'nduja::italian:noun
+'orrible::english:adjective
+'s anderendaags::dutch
+'s zondags::dutch
+'icgriogair::scottish gaelic:proper noun
+'s::german:pronoun
+'s fhada bhon uair sin::scottish gaelic
+'sto::italian
+'sta::italian
+'ste::italian
+'sti::italian
+'n beetje verliefd::film
+'ls::catalan
+'ns::catalan
+'s avonds::dutch
+'r::italian
+'l::italian
+'n::italian
+'t nopeind::dutch
+'71::film
+'83::film
+'76::film
+'96::film
+'77::film
+'68::film
+'boutcha::english
+'sides::english:adverb
+'tatoe::english:noun
+'tache::english:noun
+'spire::english:verb
+'phobe::english:noun
+'clare::english:verb
+'scuse::english:verb
+'verse::english:noun
+'scuse::english:noun
+'umble::english:verb
+'vette::english:noun
+'chute::english:noun
+'drome::english:noun
+'phone::english:noun
+'plane::english:noun
+'phone::english:verb
+'round::english:adverb
+'sdain::english:verb
+'tween::english:verb
+'t stort::dutch
+'bacco::english:noun
+'cello::english:noun
+'dillo::english:noun
+'skimo::english:noun
+'t lo::dutch
+'avin'::english:verb
+'sarvo::english:noun
+'appen::english:adverb
+'fesses up::english
+'ismah::english:noun
+'i'iwi::english:noun
+'istorical::english:adjective
+'obby 'osses::english:noun
+'aqida::english:noun
+'celli::english:noun
+'t stort::dutch:proper noun
+'couta::english:noun
+'ammiyya::english
+'vator::english:noun
+'gator::english:noun
+'nough::english:adverb
+'ammer::english:noun
+'naner::english:noun
+'umour::english:noun
+'onour::english:noun
+'umour::english:verb
+'onour::english:verb
+'puter::english:noun
+'gater::english:noun
+'mater::english:noun
+'spros::english:noun
+'terps::english:noun
+'bout ship::english
+'kinis::english:noun
+'arrys::english:noun
+'oneys::english:noun
+'burbs::english:noun
+'chers::english:noun
+'saurs::english:noun
+'omics::english:noun
+'tocks::english:noun
+'roids::english:noun
+'rents::english:noun
+'hoods::english:noun
+'verts::english:noun
+'tards::english:noun
+'earts::english:noun
+'tends::english:verb
+'keets::english:noun
+'alves::english:noun
+'rales::english:noun
+'mones::english:noun
+'grams::english:noun
+'buses::english:noun
+'orses::english:noun
+'tudes::english:noun
+'tutes::english:noun
+'ludes::english:noun
+'umbly::english:adverb
+'coons::english:noun
+'stans::english:noun
+'droid::english:noun
+'groid::english:noun
+'ganst::english:verb
+'buked::english:verb
+'prentice::english:noun
+'s urrainn do::scottish gaelic
+'fessed up::english
+'s avonds::dutch:adverb
+'s nachts::dutch
+'cê::portuguese
+'t woudt::dutch
+'t klooster::dutch:proper noun
+'t sandt::dutch
+'t zandt::dutch
+'t woudt::dutch:proper noun
+'t sandt::dutch:proper noun
+'t zandt::dutch:proper noun
+'fraid so::english
+'akikiki::english:noun
+'t hooft operator::english:noun
+'akikiki::english
+'n::italian:preposition
+'prenticing::english:verb
+'spánadh::irish
+'spánadh::irish:verb
+'s-hertogenbosch::english:proper noun
+'s nachts::dutch:adverb
+'am::english:noun
+'do::english:noun
+'za::english:noun
+'ns::english:noun
+'it::english:noun
+'ud::english:noun
+'og::english:noun
+'prentice::english
+'ra::english:proper noun
+'45::english:proper noun
+'er::dutch
+'ns::dutch
+'ie::dutch
+'t kabel::dutch
+'orribly::english
+'t kabel::dutch:proper noun
+'ma::welsh
+'na::welsh
+'ch::welsh
+'th::welsh
+'murikkka::english:noun
+'salem's lot::film
+'scutcheons::english
+'splodey::english
+'t lage van de weg::dutch:proper noun
+'tend to one's knitting::english
+'tend to one's knitting::english:verb
+'t zwering::dutch
+'spáint::irish
+'türlich::german
+'t hooft operator::english
+'spánfadh::irish
+'ndranghetista::italian:noun
+'ndranghetisti::italian:noun
+'spánfadh::irish:verb
+'s zaterdags::dutch:adverb
+'murikkka::english
+'t wensink::dutch
+'t lansink::dutch
+'t schot::dutch
+'ndranghetiste::italian:noun
+'prentice::english:verb
+'t schot::dutch:proper noun
+'m::english
+'n::english
+'a::english
+'q::english
+'r::english
+'s::english
+'d::english
+'t::english
+'e::english
+'i::english
+'straunts::english:noun
+'emselves::english:pronoun
+'s woensdags::dutch:adverb
+'s math a rinn thu::scottish gaelic
+'t leuken::dutch:proper noun
+'t winkel::dutch:proper noun
+'s aithne do::scottish gaelic:verb
+'lizabeth::english
+'arbourin'::english
+'t rolder::dutch:proper noun
+'roid rage::english
+'twixt-brains::english:noun
+'zine::english
+'gram::english
+'fore::english
+'tism::english
+'orse::english
+'lude::english
+'tude::english
+'tute::english
+'coon::english
+'stan::english
+'nuff::english
+'allo::english
+'ello::english
+'ullo::english
+'long::english
+'mong::english
+'choo::english
+'spro::english
+'terp::english
+'kini::english
+'onna::english
+'rona::english
+'appy::english
+'umra::english
+'rari::english
+'arry::english
+'urry::english
+'oney::english
+'sfar::english
+'burb::english
+'cher::english
+'saur::english
+'ills::english
+'mons::english
+'roos::english
+'fros::english
+'twas::english
+'ours::english
+'erbs::english
+'less::english
+'tecs::english
+'locs::english
+'fits::english
+'bots::english
+'rats::english
+'eads::english
+'ques::english
+'cues::english
+'omes::english
+'roid::english
+'e'll::english
+'till::english
+'sall::english
+'tend::english
+'hood::english
+'cept::english
+'vert::english
+'tard::english
+'eard::english
+'eart::english
+'rest::english
+'keet::english
+'deed::english
+'bout::english
+'dswounds::english
+'straunts::english
+'s àirde tuathanach air a chasan na duine-uasal air a ghlùinean::scottish gaelic
+'s::german
+'n::german
+'s beò duine an dèidh a shàrachaidh, ach cha bheò e an dèidh a nàrachaidh::scottish gaelic
+'nuff said::english
+'ow::english:adverb
+'sbodikins::english
+'ospitals::english:noun
+'t hofke::dutch
+'t hofke::dutch:proper noun
+'mon::english:noun
+'roo::english:noun
+'fro::english:noun
+'ava::english:noun
+'erb::english:noun
+'our::english:noun
+'ogs::english:noun
+'ams::english:noun
+'uns::english:noun
+'loc::english:noun
+'dos::english:noun
+'60s::english:noun
+'70s::english:noun
+'80s::english:noun
+'90s::english:noun
+'00s::english:noun
+'10s::english:noun
+'20s::english:noun
+'30s::english:noun
+'40s::english:noun
+'50s::english:noun
+'oss::english:noun
+'its::english:noun
+'uds::english:noun
+'bus::english:noun
+'tec::english:noun
+'fit::english:noun
+'eid::english:noun
+'bot::english:noun
+'rat::english:noun
+'ead::english:noun
+'art::english:noun
+'flu::english:noun
+'ome::english:noun
+'que::english:noun
+'cue::english:noun
+'alf::english:noun
+'arf::english:noun
+'jak::english:noun
+'ill::english:noun
+'nam::english:proper noun
+'tec::english:proper noun
+'eid::english:proper noun
+'ole::english:proper noun
+'obby 'osses::english
+'l::asturian
+'n::asturian
+'er indoors::english:pronoun
+'preciating::english:verb
+'t harde::dutch
+'t harde::dutch:proper noun
+'preciate::english
+'auhelawa::english:proper noun
+'ooligan::english:adjective
+'prentices::english:noun
+'strayan::english:adjective
+'ospitals::english
+'chutists::english:noun
+'ologists::english:noun
+'na sera 'e maggio::film
+'::chinese
+'t leuken::dutch
+'s::dutch:adverb
+'s noens::dutch:adverb
+'t winkel::dutch
+'specially::english:adverb
+'nsyncer::english:noun
+'t hooft operators::english:noun
+'nsyncer::english
+'chutists::english
+'t rolder::dutch
+'ologists::english
+'rickshaws::english
+'ighnesses::english:noun
+'ner::german
+'dda::welsh
+'chi::welsh
+'sti::welsh
+'nem::german
+'nen::german
+'preciate::english:verb
+'ar leis::irish:pronoun
+'stay until tomorrow::film
+'spectable::english
+'t ruige veld::dutch:proper noun
+'poonster::english
+'cept::english:preposition
+'grammable::english
+'bout::english:preposition
+'d better::english
+'fore::english:preposition
+'long::english:preposition
+'mong::english:preposition
+'im::english:pronoun
+'em::english:pronoun
+'um::english:pronoun
+'un::english:pronoun
+'er::english:pronoun
+'is::english:pronoun
+'at::english:pronoun
+'ee::english:pronoun
+'splodey::english:adverb
+'arboured::english:verb
+'s-gravenpolder::dutch:proper noun
+'aporths::english
+'tis pity she's a whore::film
+'rithmetic::english:noun
+'m::english:verb
+'s::english:verb
+'d::english:verb
+'t villeken::dutch:proper noun
+'s e miann na lacha an loch air nach bi i::scottish gaelic
+'aporths::english:noun
+'phags-pa::english:proper noun
+'s zondags::dutch:adverb
+'s-heer arendskerke::dutch:proper noun
+'tait::norman
+'er::dutch:adverb
+'ns::dutch:adverb
+'tain::french
+'olidays::english:noun
+'er indoors::english
+'emselves::english
+'oli::serbo croatian
+'d better::english:verb
+'olidays::english
+'ndrangheta::italian:noun
+'ndranghete::italian:noun
+'ma::welsh:adverb
+'na::welsh:adverb
+'ndrangheta::italian:proper noun
+'s middags::dutch:adverb
+'s-heerenbroek::dutch:proper noun
+'t zandstervoorwerk::dutch
+'arbours::english
+'keepers::english
+'t zwering::dutch:proper noun
+'t beijersche::dutch:proper noun
+'til the cows come home::english
+'s namiddags::dutch:adverb
+'nuair::irish:adverb
+'pataphysics::english:noun
+'50s progressions::english:noun
+'s-heerenhoek::dutch:proper noun
+'s-heerenberg::dutch:proper noun
+'arbours::english:noun
+'keepers::english:noun
+'fesses up::english:verb
+'ighness::english
+'s hertogenbosch::portuguese
+'s-hertogenbosch::portuguese
+'γώ::greek:pronoun
+'deed::english:adverb
+'nuff::english:adverb
+'ten-shun::english
+'long::english:adverb
+'συ::greek:pronoun
+'σύ::greek:pronoun
+'t lansink::dutch:proper noun
+'t wensink::dutch:proper noun
+'bout ship::english:verb
+'s-gravenmoerse vaart::dutch:proper noun
+'fessing up::english
+'ighness::english:noun
+'spánann::irish
+'spánann::irish:verb
+'50s progressions::english
+'fessed up::english:verb
+'arriets::english
+'aircuts::english
+'t weldink::dutch:proper noun
+'nam::english
+'hem::english
+'hon::english
+'mon::english
+'pon::english
+'llo::english
+'roo::english
+'fro::english
+'elp::english
+'sup::english
+'ava::english
+'air::english
+'ear::english
+'erb::english
+'our::english
+'e's::english
+'ogs::english
+'dis::english
+'tis::english
+'ams::english
+'uns::english
+'dos::english
+'loc::english
+'cos::english
+'40s::english
+'50s::english
+'60s::english
+'70s::english
+'80s::english
+'90s::english
+'00s::english
+'10s::english
+'20s::english
+'30s::english
+'oss::english
+'uds::english
+'its::english
+'tec::english
+'bus::english
+'eid::english
+'fit::english
+'mid::english
+'eld::english
+'old::english
+'bot::english
+'ead::english
+'zat::english
+'rat::english
+'ard::english
+'art::english
+'bye::english
+'flu::english
+'ole::english
+'ome::english
+'ope::english
+'ere::english
+'que::english
+'cue::english
+'ave::english
+'alf::english
+'arf::english
+'low::english
+'igh::english
+'oly::english
+'way::english
+'kay::english
+'coz::english
+'cuz::english
+'jak::english
+'til::english
+'ull::english
+'ill::english
+'swounds::english
+'t eigen::dutch
+'a::french
+'rrhoids::english:noun
+'t eigen::dutch:proper noun
+'rrhoids::english
+'arriets::english:noun
+'aircuts::english:noun
+'fridges::english:noun
+'shrooms::english:noun
+'staches::english:noun
+'fridges::english
+'shrooms::english
+'spáint::irish:noun
+'staches::english
+'arboured::english
+'t nopeind::dutch:proper noun
+'poonster::english:noun
+'tweenbrain::english:noun
+'t hoekske::dutch
+'s gravenmoer::dutch:proper noun
+'s-gravenhoek::dutch:proper noun
+'s-gravendeel::dutch:proper noun
+'s-gravenland::dutch:proper noun
+'s-gravesloot::dutch:proper noun
+'s-gravenhage::dutch:proper noun
+'s gravenhage::dutch:proper noun
+'orribly::english:adverb
+'s-gravensloot::dutch:proper noun
+'ammiyya::english:proper noun
+'s anderdaags::dutch
+'s-gravenzande::dutch:proper noun
+'poonsters::english:noun
+'twixt-brain::english:noun
+'istorical::english
+'t kofschip::dutch
+'twasn't::english
+'prentices::english
+'prenticed::english
+'twa'n't::english
+'s-gravensloot::dutch
+'s-gravenpolder::dutch
+'s-gravenzande::dutch
+'icgriogair::scottish gaelic
+'tis the season::english
+'bortions::english:noun
+'s zaterdags::dutch
+'t hooft operators::english
+'dda::welsh:verb
+'s werelds::dutch
+'ospital::english
+'s donderdags::dutch:adverb
+'naus::german
+'χα::greek
+'mond::welsh
+'nauf::german
+'nein::german
+'χε::greek
+'συ::greek
+'σύ::greek
+'γώ::greek
+'roided out::english
+'ighnesses::english
+'t schoor::dutch
+'s-hertogenbosch::polish
+'t haantje::dutch
+'ospital::english:noun
+'t vlaandertje::dutch:proper noun
+'t horntje::dutch
+'t oldhof::dutch
+'arbourin'::english:verb
+'bortions::english
+'l::catalan:pronoun
+'m::catalan:pronoun
+'n::catalan:pronoun
+'s::catalan:pronoun
+'t::catalan:pronoun
+'strayans::english:noun
+'s-heerenbroek::dutch
+'scutcheon::english:noun
+'t schoor::dutch:proper noun
+'appiest::english
+'chutist::english:noun
+'s-hertogenbosch::polish:proper noun
+'ologist::english:noun
+'t klooster::dutch
+'chutist::english
+'ologist::english
+'patafysiikka::finnish:noun
+'strayans::english
+'pataphysics::english
+'spensive::english
+'tweenbrains::english:noun
+'t oldhof::dutch:proper noun
+'sdaining::english
+'til::english:preposition
+'pon::english:preposition
+'mid::english:preposition
+'t zwaantje::dutch:proper noun
+'sdained::english
+'t buurtje::dutch
+'s mathaid::scottish gaelic:adverb
+'sdained::english:verb
+'t noorden::dutch
+'im::english
+'am::english
+'em::english
+'um::english
+'un::english
+'ho::english
+'lo::english
+'do::english
+'za::english
+'ra::english
+'er::english
+'is::english
+'ns::english
+'as::english
+'it::english
+'ad::english
+'at::english
+'rt::english
+'ud::english
+'re::english
+'45::english
+'ee::english
+'ve::english
+'n'::english
+'og::english
+'ow::english
+'a'::english
+'ll::english
+'sconset::english
+'t hoorntje::dutch:proper noun
+'s-hertogenbosch::dutch
+'straunt::english
+'s fheàrr a bhith cinnteach na caillteach::scottish gaelic
+'arryish::english:adjective
+'s-hertogenbosch::dutch:proper noun
+'n::german:adverb
+'twixt-brains::english
+'sdaining::english:verb
+'t marktje::dutch
+'straunt::english:noun
