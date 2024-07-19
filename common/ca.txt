@@ -93,6 +93,7 @@
 ʻamelika hui pū ʻia::hawaiian:proper noun
 ʻeʻehia::hawaiian:noun
 ʻelemākule::hawaiian:noun
+ʻŌʻū::species
 ʻōlelo::hawaiian:verb
 ʻāpono::hawaiian
 ʻoi::hawaiian
@@ -259,6 +260,7 @@
 ʻuku lio::hawaiian
 ʻoia::hawaiian:pronoun
 ʻahahui::hawaiian
+ʻula-ʻai-hawane::species
 ʻoluʻolu::hawaiian:adjective
 ʻanoʻi::hawaiian:verb
 ʿirāq::english:proper noun
@@ -445,6 +447,7 @@
 ʻōhiʻa::hawaiian
 ʻākaʻa::hawaiian
 ʻāʻī::hawaiian:noun
+ʻanianiau::species
 ʻanakē::hawaiian:noun
 ʻakeneki::hawaiian:proper noun
 ʻili lāʻau::hawaiian
@@ -460,6 +463,7 @@
 ʻesetonia::hawaiian:proper noun
 ʻemelē::hawaiian
 ʻenekelakuke::hawaiian
+ʻŌmaʻo::species
 ʻōkolehao::hawaiian
 ʻanaheuheu::hawaiian
 ʻōmalumalu::hawaiian:noun
@@ -471,6 +475,7 @@
 ʻeleweka::hawaiian
 ʻalopeka::hawaiian
 ʻalopeke::hawaiian
+ʻeua rail::species
 ʻakaʻaka::hawaiian:verb
 ʻaluʻalu::hawaiian:verb
 ʻapelika::hawaiian:proper noun
@@ -496,6 +501,7 @@
 ʿain::english
 ʻamelika ʻĀkau::hawaiian:proper noun
 ʻanakala::hawaiian
+ʻakekeʻe::species
 ʻapelila::hawaiian
 ʻaluminuma::hawaiian
 ʻalemanaka::hawaiian
@@ -550,6 +556,7 @@
 ʻo ia::hawaiian:pronoun
 ʻehia::hawaiian:pronoun
 ʻolua::hawaiian:pronoun
+ʻiʻiwi::species
 ʻiole liʻiliʻi::hawaiian:noun
 ʻoumuamua::hawaiian
 ʻilinoe::hawaiian
@@ -674,6 +681,7 @@
 ʻālapakonakolu::hawaiian:noun
 ʻōhelo papa::hawaiian
 ʻūholo uila::hawaiian
+ʻapapane::species
 ʻilioki::hawaiian:proper noun
 ʻĀlaka::hawaiian:proper noun
 ʻalikona::hawaiian:proper noun

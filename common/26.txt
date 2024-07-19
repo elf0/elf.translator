@@ -1,25 +1,36 @@
+&quot;cochranella&quot; riveroi::species
+&quot;bufo&quot; scorteccii::species
 &quot;eucosma&quot; atelosticta::moth
+&quot;agathis&quot; jurassica::species
 &quot;eucosma&quot; tholeropis::moth
 &amp; ux.::english
 &amp;::italian
+&quot;centrolene&quot; quindianum::species
 &amp; seq.::english
 &amp;ca.::english
 &quot;hagnagora&quot; ignipennis::moth
 &quot;capua&quot; arrecta::moth
+&quot;cochranella&quot; ramirezi::species
 &quot;tortrix&quot; tephrodes::moth
+&quot;centrolene&quot; robledoi::species
+&quot;centrolene&quot; petrophilum::species
 &amp; ux.::english:noun
 &quot;argyroploce&quot; percnochlaena::moth
 &amp;c.::spanish
 &amp;c.::english
 &quot;eucosma&quot; chlorosticha::moth
 &amp;c::english
+&quot;centrolene&quot; medemi::species
+&quot;litoria&quot; castanea::species
 &amp;c.::spanish:adverb
 &amp;̄::latin
 &amp;c.::german
 &amp;ca::english
+&quot;colostethus&quot; ruthveni::species
 &quot;capua&quot; tetraplasia::moth
 &quot;phalonia&quot; pimana::moth
 &amp;c.::french
+&quot;cochranella&quot; duidaeana::species
 &amp;::japanese
 &amp; cetera::english
 &amp;::catalan
@@ -41,23 +52,31 @@
 &amp;/or::english
 &amp; hoc genus omne::english
 &quot;hagnagora&quot; vittata::moth
+&quot;cochranella&quot; xanthocheridia::species
 &amp;::english
 &amp;lits::english:noun
 &quot;capua&quot; ptilocrossa::moth
 &amp;lits::english
 &amp; al.::english
 &amp; cetera::middle english
+&quot;cochranella&quot; euhystrix::species
 &quot;hagnagora&quot; mesenata::moth
 &quot;cnephasia&quot; melanophaea::moth
 &amp;::french
+&quot;centrolene&quot; azulae::species
+&quot;haptodus&quot; garnettensis::species
 &quot;phalonia&quot; yuccatana::moth
+&quot;dryosaurus&quot; grandis::species
 &quot;acroclita&quot; macroma::moth
 &quot;eucosma&quot; rigens::moth
 &amp; cetera::french
 &amp;lit::english
+&quot;prostherapis&quot; dunni::species
+&quot;cochranella&quot; geijskesi::species
 &amp; al.::english:adverb
 &amp;lit::english:noun
 &quot;tortrix&quot; cratista::moth
 &quot;eucosma&quot; pentagonaspis::moth
 &amp;c.::portuguese
 &quot;capua&quot; naias::moth
+&quot;hyla&quot; nicefori::species

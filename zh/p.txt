@@ -97,6 +97,7 @@ pattern:模式
 paul:保罗
 pave the way:铺路
 pave:铺
+pavement:人行道
 pavilion:亭子
 paw:兽掌
 pay:付款
@@ -312,6 +313,7 @@ polynomials:多项式
 polyploid:多倍体
 pond:池塘
 ponytail:马尾辫
+poo:屎
 poop:拉屎
 poor:贫穷的
 pop:弹出
@@ -429,6 +431,7 @@ private:私有的
 privilege:特权
 prix:奖金
 prize:奖
+probabilistic:概率的
 probability:概率
 probably:或许
 problem:难题

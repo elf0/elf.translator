@@ -50,6 +50,8 @@ caning:鞭打
 canis:犬属
 cannabis:大麻
 canoe:单桨划艇
+canoe:独木舟
+canoeing:划独木舟
 cantonese:广东话
 cantonese:粤语
 canvas:画布
@@ -96,6 +98,7 @@ carolina:卡罗莱纳
 carp:鲤鱼
 carpet:地毯
 carrefour:家乐福
+carriage:客运马车
 carriage return:回车
 carrion:腐肉
 carrot:胡萝卜
@@ -452,6 +455,8 @@ commission:佣金
 committee:委员会
 common ancestor:共同的祖先
 common:共同的
+commonsense:常识的
+commonsense reasoning:常识推理
 commonly referred to as:通常被叫做
 commune:公社
 communism:共产主义
@@ -484,11 +489,15 @@ component:组件
 compound sentence:并列复合句
 compound:化合物
 compounds:化合物
-computer graphics:计算机图形
+computational geometry:计算几何学
+computer graphics:计算机图形学
 computer network:计算机网络
 computer programming:计算机编程
+computer security:计算机安全
+computer science:计算机科学
 computer scientist:计算机科学家
 computer system:计算机系统
+computer technology:计算机技术
 computer vision:计算机视觉
 computer:电脑
 computer:计算机
@@ -720,6 +729,7 @@ cruelty:残酷行为
 cruise missle:巡航导弹
 cruise:巡航
 cry:哭
+cryptography:密码学
 crystal:水晶
 cuba:古巴
 cuban:古巴人
@@ -729,6 +739,7 @@ cucumber:黄瓜
 cue ball:母球
 cue stick:球杆
 cue:球杆
+cue:提示
 cuisine:烹饪法
 culinary:烹饪的
 cultivar:培育品种

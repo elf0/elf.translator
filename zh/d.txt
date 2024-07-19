@@ -25,6 +25,7 @@ database:数据库
 dataset:数据集
 date:日期
 date:约会
+date back:追溯
 daughter in law:儿媳
 daughter:女儿
 daunting:令人畏惧的
@@ -209,6 +210,7 @@ died:死的
 difference equation:差分方程
 different:不同的
 different authors:不同作者
+different ways:不同方式
 differentiable everywhere:处处可微分
 differentiable function:可微分函数
 differentiable manifold:可微分流形
@@ -256,12 +258,26 @@ disappointment:失望
 disapproval:不赞成
 disaster relief:灾害救助
 disaster:灾害
+discipline:纪律
+discipline:学科
+disciplines:学科
 disclaim:放弃
 disclaimer:免责声明
 disco:迪斯科
 discount:折扣
 discovery:发现
 discreditable:丢脸的
+discriminatory behavior:歧视性行为
+discriminatory intent:歧视性意图
+discriminatory laws:歧视性法律
+discriminatory language:歧视性语言
+discriminatory legislation:歧视性立法
+discriminatory measures:歧视性措施
+discriminatory policies:歧视性政策
+discriminatory provisions:歧视性供应
+discriminaroty treatment:歧视对待
+discriminative training:判别训练
+discriminative model:判别模型
 discus:铁饼
 discuss:讨论
 discussion:讨论

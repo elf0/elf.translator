@@ -68,6 +68,7 @@ scenery:风景
 schedule:计划表
 schizophrenia:精神分裂症
 school:学校
+school discipline:校规
 schools:学校
 schooner:多桅帆船
 science:科学
@@ -254,6 +255,7 @@ shemale:人妖
 sheriff:治安官
 shield:盾
 ship:船
+shipbuilding:造船
 shire:郡
 shock wave:冲击波
 shoe:鞋
@@ -269,6 +271,7 @@ short:短的
 shortage:缺乏
 shortcut:快捷方式
 should:应该
+should not be confused with a:不应该与a混淆
 shout:呼喊
 shovel:铲
 show:显示
@@ -282,6 +285,7 @@ sicily:西西里
 sick:不舒服的
 side effect:副作用
 side:边
+sidewalk:人行道
 siege:攻城
 siege:攻城战
 sierra leone:塞拉利昂
@@ -523,6 +527,7 @@ spam:垃圾信息
 spam:垃圾邮件
 spam:灌水
 span:跨度
+span a to b:跨越a到b
 spanish:西班牙人
 spanish:西班牙的
 spanish:西班牙语
@@ -686,6 +691,7 @@ student:学生
 students:学生们
 studio:工作室
 study:学习
+study:学科
 sturdier:更强壮的
 sturdy:强壮的
 style:风格
@@ -757,6 +763,7 @@ supernovas:超新星
 superset:超集
 supervise:监督
 supervised:监督的
+supervised training:受监督的训练
 support:支持
 supported:被支持
 suppose:假设
