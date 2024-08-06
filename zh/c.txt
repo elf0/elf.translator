@@ -489,6 +489,10 @@ component:组件
 compound sentence:并列复合句
 compound:化合物
 compounds:化合物
+comprise:包含
+comprise:包括
+comprise:构成
+comprise:组成
 computational geometry:计算几何学
 computer graphics:计算机图形学
 computer network:计算机网络
@@ -635,9 +639,11 @@ corn:包谷
 corn:玉米
 corner:角落
 cornerback:侧卫
+corpora:语料库
 corporal:身体的
 corporation:公司
 corps:兵团
+corpus:语料库
 correct:正确的
 correctly:正确地
 correlation:相关性

@@ -55,6 +55,7 @@ effect:效果
 effect:影响
 effect:作用
 effective:有效的
+effectiveness:有效性
 efficacy:有效性
 efficient:高效的
 egg:蛋
@@ -170,6 +171,9 @@ enlistment:兵役
 enough:足够的
 enslave:奴役
 ensue:随即发生
+entailment:蕴涵
+entailment:推理
+entailment:推论
 entente:协约
 enter:进入
 enterprise:企业

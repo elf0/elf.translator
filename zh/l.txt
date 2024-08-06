@@ -1,5 +1,8 @@
 label:标签
-labeled:标记的
+labeled:已标记的
+labeled:已标注的
+labeled data:已标记数据
+labeled data:已标注数据
 labor:分娩
 labor:工人
 laboratory:实验室
@@ -183,6 +186,8 @@ lithium:锂
 lithuania:立陶宛
 litter:产仔
 little:很少的
+little girl:小女孩
+little girl:女童
 live:活的
 livelihood:生计
 liver:肝
@@ -204,6 +209,8 @@ logarithm:对数
 logarithmic function:对数函数
 logarithmic:对数的
 logic:逻辑
+logical:逻辑的
+logical consequence:逻辑结论
 logo:商标
 london:伦敦
 long:长的
