@@ -5,6 +5,7 @@ sad:悲伤的
 sadist:虐待狂
 safe:安全的
 safety belt:安全带
+safety first:安全第一
 safety:安全
 said:说
 sailing ship:帆船
@@ -247,6 +248,8 @@ she:她
 she is a girl:她是一个女孩
 she is a woman:她是一个女人
 she is the mother of the child:她是这个孩子的母亲
+she said:她说
+she says:她说
 shear:修剪
 shears:大剪刀
 sheep:绵羊
@@ -408,12 +411,14 @@ snow:雪
 snowflake:雪花
 so beautiful:如此美丽
 so forth:等等
+so i:所以我
 so on and so forth:如此继续下去
 so on:如此这般
 so on:等等
 so powerful:如此强大
 so that:为了
 so that:以便
+so we:所以我们
 so:如此
 soak:浸泡
 soap:肥皂
@@ -462,6 +467,7 @@ soluble in warm water:溶于温水
 soluble in water:溶于水
 soluble:可溶解的
 solution:解决方案
+solutions:解决方案
 solve the case:解决这个案例
 solve the issue:解决这个问题
 solve the problem:解决这个问题
@@ -515,6 +521,7 @@ southeast:东南
 southern:南方的
 southwest:西南
 sovereign state:主权独立国家
+sovereignty:主权
 soviet union:苏联
 soviet:苏维埃
 soy:酱油
@@ -713,6 +720,8 @@ submarine:潜艇
 submission:提交
 subsequent:后来的
 subset:子集
+subsidiary:子公司
+subsidiaries:子公司
 substance:物质
 subtitle:字幕
 subtract:减

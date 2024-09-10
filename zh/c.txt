@@ -42,6 +42,9 @@ canal:运河
 cancel:取消
 cancer:癌
 candidate:候选人
+candidate:候選人
+candidates:候选人
+candidates:候選人
 candle:蜡烛
 candlestick:烛台
 candy:糖
@@ -339,6 +342,7 @@ classifier:分类器
 classify:分类
 clause:条款
 clay:粘土
+clean energy:清洁能源
 clean up:清理
 clean:清理
 clear:清除
@@ -350,6 +354,7 @@ cliff:悬崖
 cliff:绝壁
 climacteric:转变期
 climate:气候
+climate change:气候变化
 climazolam:氯马唑仑
 climb:攀爬
 climbing:攀岩
@@ -411,6 +416,7 @@ collaborator:通敌者
 collapse:塌陷
 collapsible:可折叠的
 collateral descendant:旁系后代
+colleague:同事
 collection:搜集物
 collective intelligence:集体智能
 collective:集体的
@@ -482,6 +488,7 @@ compiler:编辑者
 complaint:抱怨
 complete:完成
 completely customizable:完全可定制的
+completely:完全地
 complex features:复杂特征
 complex number:复数
 complex:复杂的
@@ -494,6 +501,7 @@ comprise:包括
 comprise:构成
 comprise:组成
 computational geometry:计算几何学
+compute:计算
 computer graphics:计算机图形学
 computer network:计算机网络
 computer programming:计算机编程

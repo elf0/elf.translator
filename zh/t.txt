@@ -89,6 +89,8 @@ terrace:梯田
 terrestrial:陆地的
 terrify:恐吓
 territory:领土
+territorial land:领土
+territorial sea:领海
 terror:恐怖
 terrorism:恐怖主义
 terrorist:恐怖份子
@@ -123,6 +125,7 @@ theatre:剧院
 thee:你
 theft:盗窃
 their:他们的
+their first:他们的第一个
 them:他们
 theme:主题
 then:然后
@@ -173,11 +176,17 @@ this article is about:这篇文章是关于
 this book:这本书
 this feature:这个特征
 this file:这个文件
+this is:这是
 this is because:这是因为
+this is the first time:这是第一次
+this is the first time i know:这是我第一次知道
 this is why:这就是为什么
 this is your life:这是你的人生
+this means that:这意味着
 this term:这个术语
 this time:这次
+this week:本周
+this year:今年
 thomas:托马斯
 thorium:钍
 thoroughfare:通路
@@ -186,6 +195,7 @@ thou:你
 though:然而
 thought:想法
 thousand:千
+thousands of:成千上万的
 thread:线程
 threat:威胁
 threatening:威胁的
@@ -285,6 +295,9 @@ town:城镇
 town council:城镇委员会
 township:镇区
 town water:自来水
+towards:向
+towards:对
+towards:朝
 toxic:有毒的
 toxin:毒素
 toy:玩具
@@ -304,6 +317,17 @@ traitor:叛徒
 trajectory:飞行轨迹
 transducer:换能器
 transform:变换
+transfer:转移
+transfer:转让
+transfer:传输
+transfer:转账
+transfer:轉移
+transfer:传递
+transfer:迁移
+transfer:传送
+transfer:转学
+transfer:转印
+transfer:中转
 transgender:变性
 transient:短暂的
 transistor:晶体管
@@ -320,6 +344,7 @@ transpose:调换
 transposition:变换
 trap:圈套
 travel:旅行
+tread water:踩水
 treason:叛国罪
 treasure:财宝
 treasury:宝库

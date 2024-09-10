@@ -1,6 +1,7 @@
 fabric:纺织品
 facial:脸的
 facial nerve:脸神经
+facilities:设施
 fact:事实
 factor:因子
 factory:工厂
@@ -140,13 +141,18 @@ firearm:火器
 firefighter:消防员
 firm:坚实的
 first:第一的
+first date:第一次约会
 first derivative:一阶导数
+first generation:第一代
 first lady:第一夫人
 first of all:首先
 first person singular:第一人称单数
 first step:第一步
+first thing:第一件事
 first time:第一次
+first world:第一世界
 first world war:第一次世界大战
+first year:第一年
 firstborn:长子
 firstborn:长男
 firstborn:长女
@@ -227,7 +233,6 @@ foreign relations of the united states:美国外交关系
 forest:森林
 forethought:谋划
 forever:永远
-for example:例如
 forget:忘记
 forget what i said about:忘记我说的关于
 forgive:原谅
@@ -245,8 +250,14 @@ formula:公式
 formulae:公式
 formulas:公式
 fort:要塞
+for example:例如
+for instance:例如
 for that reason:因为那个原因
 for the first time:第一次
+for the first time ever:有史以来第一次
+for the first time in history:有史以来第一次
+for the first time in history:历史上第一次
+for the first time in years:多年来第一次
 for the same purpose:为了这个相同的目的
 for the same reason:因为这个相同的原因
 for this reason:因为这个原因
@@ -308,6 +319,7 @@ friction:摩擦力
 fried rice:炒饭
 friend:朋友
 friends:朋友
+friends first:朋友第一
 frighten:吓唬
 frog:青蛙
 from:从
