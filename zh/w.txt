@@ -33,9 +33,19 @@ warrior:战士
 warship:战舰
 wartime:战时
 was:是
+was awarded:被授予
+was born in:诞生于
+was built in:建于
+was buried:被埋葬
+was called:被称为
+was closed:被关闭
+was established in:成立于
 washing machine:洗衣机
 washington:华盛顿
+was introduced:被引入
+was killed:被杀
 wasp:黄蜂
+was published in:出版于
 wastewater:废水
 watch:表
 watch:观看
@@ -179,6 +189,7 @@ whore:婊子
 whorehouse:妓院
 whose:谁的
 who won:谁赢了
+who would:谁会
 who you are:你是谁
 why:为何
 why did you lie to me:你为什么骗我
@@ -254,6 +265,7 @@ worker:工人
 works:工厂
 workstation:工作站
 world:世界
+world championship:世界冠军
 world championships:世界锦标赛
 world cup:世界杯
 world food programme:世界粮食计划署
