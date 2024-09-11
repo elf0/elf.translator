@@ -4,15 +4,15 @@ hacker:黑客
 had:有
 haemorrhage:大出血
 hail:冰雹
+hair:头发
 hair grip:发夹
 hair pin:发针
 hair pin:簪
-hair:头发
 haiti:海地
 half:半
 halifax:哈利法克斯
-hall of fame:名人堂
 hall:大厅
+hall of fame:名人堂
 hallucinogenic drug:致幻药
 halogen:卤素
 ham:火腿
@@ -27,12 +27,12 @@ handicapped:残障的
 handle:处理
 hands:手
 handshake:握手
-hang over:宿醉
 hanging:绞刑
+hang over:宿醉
 happiness:幸福
 happy:快乐的
-hard to tell:很难说
 hard:硬的
+hard to tell:很难说
 hardware:硬件
 hare:长耳兔
 harm:伤害
@@ -49,27 +49,21 @@ hatred:憎恨
 have:有
 have no food:没有食物
 hawaii:夏威夷
-hawaiian islands:夏威夷群岛
 hawaiian:夏威夷人
+hawaiian islands:夏威夷群岛
 hawk:鹰
 hawkeye:鹰眼
 hawking:霍金
 he:他
-he did not make it:他没挺过来
-he said:他说
-he said:他說
-he says:他说
-he was born in los angeles:他出生于洛杉矶
-he was the first:他是第一个
-head of state:国家元首
 head:头
 headache:头痛
 header:标题
+head of state:国家元首
 headphones:耳机
 headset:带麦克风耳机
+health:健康
 health care:健康护理
 health resort:疗养胜地
-health:健康
 healthy:健康的
 heap:堆
 hear:听
@@ -79,24 +73,26 @@ heaven:天堂
 heavy:重的
 hebrew:希伯来人
 hebrew:希伯来语
+he did not make it:他没挺过来
+he died:他死了
+he died in:他死于
 heel:脚跟
-height:高度
 heifer:小母牛
+height:高度
+he joined:他加入了
 helicopter:直升飞机
 helium:氦
 helix:螺旋
 hell:地狱
 hello:你好
 helminths:寄生虫
-help me:帮帮我
 help:帮助
 helpful:有帮助的
+help me:帮帮我
 hemisphere:半球
 hemorrhage:大出血
 hence:因此
 henry:亨利
-her first book:她的第一本书
-her husband:她的丈夫
 her:她的
 heraldry:纹章
 herbaceous:非木的
@@ -105,6 +101,9 @@ hercules:大力神
 here:这里
 heredity:遗传
 heresy:异端
+he returned to:他回到
+her first book:她的第一本书
+her husband:她的丈夫
 heritage:遗产
 hermaphrodite:雌雄同体
 hero:英雄
@@ -112,12 +111,17 @@ heroic:英雄的
 heroin:海洛因
 heroine:女英雄
 hertz:赫兹
+he said:他說
+he said:他说
+he says:他说
 hesitate:犹豫
 hesitation:犹豫
-heterosexual fellatio:异性口交
 heterosexual:异性的
-heuristic function:启发式函数
+heterosexual fellatio:异性口交
 heuristic:启发式的
+heuristic function:启发式函数
+he was born in los angeles:他出生于洛杉矶
+he was the first:他是第一个
 hexagon:六边形
 hexamidine:己脒定
 hibernation:冬眠
@@ -127,17 +131,18 @@ hide:隐藏
 hierarchical:层级的
 hierarchy:层级
 hieroglyph:象形文字
+high:高
 high class:高级的
+higher:更高的
+highest:最高的
 high five:举手击掌
 high latitude:高纬度
+highly customizable:高度可定制的
+highly recommended:强烈推荐
 high performance:高性能
 high quality:高质量
 high school:中学
 high water:潮峰
-high:高
-higher:更高的
-highest:最高的
-highly customizable:高度可定制的
 highway:公路
 hill:山丘
 hillary:希拉里
@@ -149,32 +154,45 @@ hindu:印度教徒
 hinduism:印度教
 hippocampus:海马体
 hire:雇用
-his first book:他的第一本书
-his wife:他的妻子
 his:他的
+his brother:他的兄弟
+his career:他的职业生涯
+his family:他的家庭
+his father:他的父亲
+his first:他的第一个
+his first book:他的第一本书
+his home:他的家
+his life:他的生活
+his mother:他的母亲
+his name:他的名字
+his second:他的第二个
+his son:他的儿子
+his time:他的时间
 historian:历史学家
 historic:历史性的
 historical:历史的
 history:历史
 history of the united states:美国历史
+his wife:他的妻子
+his work:他的工作
 hit:打击
 hitler:希特勒
 hockey:曲棍球
 hoe:锄头
+hold:拥有
 hold hands:牵手
 hold me in your arms:拥我入怀
-hold:拥有
 hole:洞
 holiday:假日
 holland:荷兰地区
 hollywood:好莱坞
 holy:神圣的
-home country:祖国
 home:家
+home country:祖国
 homeland:祖国
+homeless:无家可归的
 homeless man:无家可归的男人
 homeless people:无家可归的人
-homeless:无家可归的
 homemade:自制的
 homemaker:持家者
 homemaker:管家
@@ -183,9 +201,9 @@ homo sapiens:人类
 homosexual:同性恋的
 homosexuality:同性恋
 honda:本田
-honduran politician:洪都拉斯政客
-honduran:洪都拉斯人
 honduran:洪都拉斯的
+honduran:洪都拉斯人
+honduran politician:洪都拉斯政客
 honduras:洪都拉斯
 honey:蜂蜜
 honeycomb:蜂巢
@@ -195,8 +213,8 @@ honor:荣誉
 hood:头巾
 hoof:蹄
 hooker:妓女
-hoover dam:胡佛水坝
 hoover:胡佛
+hoover dam:胡佛水坝
 hope:希望
 hopper:加料斗
 horizon:地平线
@@ -208,18 +226,18 @@ hospital:医院
 hospitalization:住院
 host:主机
 hostage:人质
-hot dog:热狗
-hot water:热水
 hot:热
+hot dog:热狗
 hotel:旅馆
+hot water:热水
 hour:小时
 hours:小时
-house of representatives:众议院
 house:房子
 housefly:家蝇
 household:家族
 househusband:家务男
 housekeeper:女管家
+house of representatives:众议院
 housewife:主妇
 houston:休斯敦
 how:如何
@@ -228,16 +246,16 @@ html:超文本标记语言
 http:超文本传输协议
 https:安全的超文本传输协议
 hug:拥抱
-human beings:人类
-human extinction:人类灭绝
-human labeled:人类标记的
-human rights:人权
-human trafficking:人口贩卖
-human computer interaction:人类计算机交互
 human:人
 human:人类
+human beings:人类
+human computer interaction:人类计算机交互
+human extinction:人类灭绝
 humanitarian:人道主义的
+human labeled:人类标记的
+human rights:人权
 humans:人类
+human trafficking:人口贩卖
 humerus:肱骨
 humid:潮湿的
 humidity:湿度
@@ -245,9 +263,10 @@ humiliation:羞辱
 humor:幽默
 humorous:幽默的
 humour:幽默
-hungarian politician:匈牙利政客
+hundreds of:数以百计的
 hungarian:匈牙利人
 hungarian:匈牙利语
+hungarian politician:匈牙利政客
 hungary:匈牙利
 hunger:饥饿
 hungry:饿
@@ -259,11 +278,11 @@ husband:丈夫
 husbandry:种养殖
 hybrid:杂合的
 hydra:多头蛇怪
+hydrogen:氢
 hydrogen atom:氢原子
 hydrogen bonds:氢键
-hydrogen:氢
 hygrograph:绘湿仪
 hymenoptera:膜翅目
-hyperactivity disorder:多动症
 hyperactivity:活动亢奋
+hyperactivity disorder:多动症
 hypnotic:安眠药

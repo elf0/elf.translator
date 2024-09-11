@@ -1,7 +1,7 @@
 cabbage:卷心菜
 cabin:舱
-cabinet minister:内阁部长
 cabinet:内阁
+cabinet minister:内阁部长
 cable:电缆
 cabo verde:佛得角
 cache:缓存
@@ -18,26 +18,23 @@ caledonia:古苏格兰
 caledonian:古苏格兰人
 calendar:日历
 california:加利福尼亚
-call girl:应召女郎
 call:打电话给
-calm down:冷静
+call girl:应召女郎
 calm:平静
+calm down:冷静
 cambodia:柬埔寨
-cambridge university press:剑桥大学出版社
-cambridge university:剑桥大学
 cambridge:剑桥
+cambridge university:剑桥大学
+cambridge university press:剑桥大学出版社
 camel:骆驼
 camera:相机
 cameroon:喀麦隆
 campaign:战役
 campus:校园
-can you believe it:你能相信吗
-can you feel it:你能感觉到它吗
-can you hear me:你能听到我说话吗
 can:能
 canada:加拿大
-canadian politician:加拿大政客
 canadian:加拿大人
+canadian politician:加拿大政客
 canal:运河
 cancel:取消
 cancer:癌
@@ -59,17 +56,20 @@ cantonese:广东话
 cantonese:粤语
 canvas:画布
 canyon:峡谷
+can you believe it:你能相信吗
+can you feel it:你能感觉到它吗
+can you hear me:你能听到我说话吗
 capability:能力
 capacity:容量
-cape town:开普敦
 cape:披肩
-capital letter:大写字母
+cape town:开普敦
 capital:首都
 capitalisation:资本化
 capitalism:资本主义
-capitalist:资本主义者
 capitalist:资本家
+capitalist:资本主义者
 capitalization:资本化
+capital letter:大写字母
 cappuccino:热牛奶咖啡
 capsule:胶囊
 capsule:膜囊
@@ -77,12 +77,12 @@ captain:船长
 caption:标题
 capture:俘获
 captured:被俘
-car bomb:汽车炸弹
 car:车
-carbon dioxide:二氧化碳
-carbon emission:碳排放
+car bomb:汽车炸弹
 carbon:碳
 carbonate:碳酸盐
+carbon dioxide:二氧化碳
+carbon emission:碳排放
 carboniferous:石炭纪
 card:卡
 care:关心
@@ -90,13 +90,13 @@ career:事业
 career:职业生涯
 careful:小心的
 cargo:货物
-caribbean sea:加勒比海
 caribbean:加勒比的
+caribbean sea:加勒比海
 carl:卡尔
+carnivorous:食肉的
 carnivorous dinosaur:食肉恐龙
 carnivorous mammal:食肉哺乳动物
 carnivorous plant:食肉植物
-carnivorous:食肉的
 carolina:卡罗莱纳
 carp:鲤鱼
 carpet:地毯
@@ -106,8 +106,8 @@ carriage return:回车
 carrion:腐肉
 carrot:胡萝卜
 cart:购物车
-cartesian coordinate:笛卡尔座标
 cartesian:笛卡尔的
+cartesian coordinate:笛卡尔座标
 cartoon:动画片
 case:案件
 cash:现金
@@ -137,10 +137,10 @@ caution:警告
 cavalry:骑兵
 cave:洞穴
 cavity:腔
-cease fire:停火
-cease funding:停止提供资金
 cease:停止
+cease fire:停火
 ceasefire:停火
+cease funding:停止提供资金
 cebu:宿务
 cebuano:宿务语
 celebration:庆祝
@@ -149,8 +149,8 @@ celestial:天空的
 cell:细胞
 cell cycle:细胞周期
 cell division:细胞分裂
-cell phone:蜂窝电话
 cello:大提琴
+cell phone:蜂窝电话
 cellular:细胞的
 cement:水泥
 cemetery:墓地
@@ -159,12 +159,12 @@ cent:美分
 center:中心
 centimeter:厘米
 centipede:蜈蚣
+central:中心的
 central african republic:中非共和国
 central idea:核心思想
+centralization of power:集权
 central nervous system:中枢神经系统
 central processing unit:中央处理单元
-central:中心的
-centralization of power:集权
 centre:中心
 century:世纪
 ceo:首席执行官
@@ -172,8 +172,8 @@ cereal:谷类
 cerebral:大脑的
 cerium:铈
 certain:确定的
-cervical:子宫颈的
 cervical:脖子的
+cervical:子宫颈的
 cetrimonium:西曲铵
 chad:乍得
 chain:连锁
@@ -183,31 +183,31 @@ chairman:主席
 chalcogen:氧族元素
 challenge:挑战
 challenger:挑战者
-chameleon:变色蜥蜴
 chameleon:变色龙
+chameleon:变色蜥蜴
 champion:冠军
 champions:冠军
 championship:冠军身份
 chance:机会
-chancellor:大学校长
 chancellor:大臣
+chancellor:大学校长
 chancellor:总理
 change:改变
 channel:通道
-chaos theory:混沌理论
-chaos:混乱
 chaos:混沌
+chaos:混乱
+chaos theory:混沌理论
 chaplain:牧师
 chapter:章
-character set:字符集
-character:字符
 character:角色
+character:字符
 characteristic:特有的
 characteristics:特性
 characters:字符
+character set:字符集
+charge:电荷
 charge:控告
 charge:收费
-charge:电荷
 charger:充电器
 charles:查尔斯
 chart:图表
@@ -223,6 +223,7 @@ checked:选中的
 checkmate:将死
 cheerleader:啦啦队长
 cheese:奶酪
+chemical:化学的
 chemical affinity:化学亲合性
 chemical attack:化学袭击
 chemical bond:化学键
@@ -239,26 +240,25 @@ chemical structure:化学结构
 chemical symbol:化学符号
 chemical warfare:化学战
 chemical weapon:化学武器
-chemical:化学的
 chemist:化学家
 chemistry:化学
 chess:国际象棋
 chevrolet:雪佛兰
 chicago:芝加哥
 chicken:鸡
+chief:领袖
 chief executive officer:首席执行官
 chief scientist:首席科学家
-chief:领袖
-child labour:童工
 child:小孩
 childhood:幼年
+child labour:童工
 children:孩子们
 chile:智利
 chili:辣椒
 chimpanzee:黑猩猩
 chin:下巴
-china:中国
 china:瓷器
+china:中国
 chinaman:中国佬
 chinese:中国人
 chinese:中文
@@ -272,13 +272,13 @@ choose:选择
 chop:砍
 chorus:合唱队
 chris:克里斯
-christian:克里斯丁
 christian:基督徒
+christian:克里斯丁
 christianity:基督教
 christmas:圣诞节
 chromatin:染色质
-chromium acetylacetonate:乙酰丙酮铬
 chromium:铬
+chromium acetylacetonate:乙酰丙酮铬
 chromosome:染色体
 chromosomes:染色体
 chronic:慢性的
@@ -295,8 +295,8 @@ cinematography:电影摄影学
 cinolazepam:西诺西泮
 cipher:密文
 circle:圆圈
-circuit court:巡回法庭
 circuit:电路
+circuit court:巡回法庭
 circulatory system:循环系统
 circumference:圆周
 circumstance:情形
@@ -304,9 +304,10 @@ cistern:蓄水池
 citation:引文
 cite:引证
 citizen:公民
+city:城市
 city council:市政委员会
 city water:自来水
-city:城市
+civil:公民的
 civil administration:民政
 civil aircraft:民用飞机
 civil aviation:民用航空
@@ -314,6 +315,7 @@ civil court:民事法庭
 civil defence:民防
 civil engineer:土木工程师
 civil engineering:土木工程
+civilian:平民
 civil law:民法
 civil liberties:公民自由权
 civil liberty:公民自由
@@ -323,35 +325,33 @@ civil servant:公务员
 civil service:公共服务部门
 civil society:公民社会
 civil war:内战
-civil:公民的
-civilian:平民
 claim:主张
 clark:克拉克
 clash:冲突
-class:类
 class:纲
 class:课程
+class:类
 classic:经典的
+classical:经典的
 classical description:经典描述
 classical music:经典音乐
-classical:经典的
 classification:分类
-classified:分类的
 classified:被分类
+classified:分类的
 classifier:分类器
 classify:分类
 clause:条款
 clay:粘土
+clean:清理
 clean energy:清洁能源
 clean up:清理
-clean:清理
 clear:清除
 cleric:传教士
 click:点击
-cliff:峭壁
-cliff:崖
-cliff:悬崖
 cliff:绝壁
+cliff:峭壁
+cliff:悬崖
+cliff:崖
 climacteric:转变期
 climate:气候
 climate change:气候变化
@@ -366,8 +366,8 @@ clock:时钟
 clone:克隆
 cloroqualone:氯喹酮
 close:关闭
-closed wound:闭合损伤
 closed:已关闭的
+closed wound:闭合损伤
 clothes:衣服
 cloud:云
 clouds:云
@@ -377,15 +377,15 @@ clown:小丑
 club:俱乐部
 clue:线索
 clues:线索
-clutch:抓住
 clutch:离合器
-coach:教练
+clutch:抓住
 coach:长途大巴
+coach:教练
 coal:煤
 coalesce:合并
 coarse:粗糙的
-coast guard:海岸警卫队
 coast:海岸
+coast guard:海岸警卫队
 coastline:海岸线
 coat:外套
 coauthor:合著者
@@ -396,9 +396,9 @@ cock:公鸡
 cockerel:小公鸡
 cockroach:蟑螂
 code:代码
-code snippet:代码片段
 codec:编解码器
 coder:编码器
+code snippet:代码片段
 coefficient:系数
 coerce:强迫
 coexist:共存
@@ -406,8 +406,8 @@ coffee:咖啡
 coherence:连续性
 cohort:大队
 coin:硬币
-cold water:冷水
 cold:冷
+cold water:冷水
 collaborate:勾结
 collaborate:合作
 collaboration:勾结
@@ -418,8 +418,8 @@ collapsible:可折叠的
 collateral descendant:旁系后代
 colleague:同事
 collection:搜集物
-collective intelligence:集体智能
 collective:集体的
+collective intelligence:集体智能
 college:学院
 collision:碰撞
 colombia:哥伦比亚
@@ -438,41 +438,41 @@ columbia:哥伦比亚
 column:列
 columnar:圆柱的
 com:公司
-combat boot:作战靴
 combat:战斗
+combat boot:作战靴
 combine:合并
-come from:来自
 come:来
 comedy:喜剧
+come from:来自
 comet:彗星
-comfort women:慰安妇
 comfort:安慰
+comfort women:慰安妇
 comfy:舒服的
 comic:漫画
 comics:漫画
 command:命令
 commander:指挥官
-comment:注释
 comment:评论
+comment:注释
 commentary:解说
 commentator:评论员
 commercial:商业的
 commission:佣金
 committee:委员会
-common ancestor:共同的祖先
 common:共同的
+common ancestor:共同的祖先
+commonly referred to as:通常被叫做
 commonsense:常识的
 commonsense reasoning:常识推理
-commonly referred to as:通常被叫做
 commune:公社
 communism:共产主义
-communist party:共产党
 communist:共产党员
+communist party:共产党
 community:社区
 comoros:科摩罗
+companion:伴侣
 companion animal:宠物
 companion animal:陪伴动物
-companion:伴侣
 company:公司
 company:连
 comparative:比较的
@@ -483,37 +483,37 @@ compatibility:兼容性
 competition:竞争
 compilation:编译
 compile:编译
-compiler:编译器
 compiler:编辑者
+compiler:编译器
 complaint:抱怨
 complete:完成
-completely customizable:完全可定制的
 completely:完全地
+completely customizable:完全可定制的
+complex:复杂的
 complex features:复杂特征
 complex number:复数
-complex:复杂的
 component:组件
-compound sentence:并列复合句
 compound:化合物
 compounds:化合物
+compound sentence:并列复合句
 comprise:包含
 comprise:包括
 comprise:构成
 comprise:组成
 computational geometry:计算几何学
 compute:计算
+computer:电脑
+computer:计算机
 computer graphics:计算机图形学
 computer network:计算机网络
 computer programming:计算机编程
-computer security:计算机安全
+computers:计算机
 computer science:计算机科学
 computer scientist:计算机科学家
+computer security:计算机安全
 computer system:计算机系统
 computer technology:计算机技术
 computer vision:计算机视觉
-computer:电脑
-computer:计算机
-computers:计算机
 computing device:计算设备
 comune:自治区
 concave:凹的
@@ -521,8 +521,8 @@ conceal:隐藏
 concealed:隐藏的
 concealment:隐藏
 concentrate:集中
-concentration camp:集中营
 concentration:浓度
+concentration camp:集中营
 concept:概念
 conceptual:概念的
 concerned with:涉及
@@ -532,8 +532,8 @@ conch:海螺
 conclude:结束
 conclusion:结论
 concord:和睦
-concrete:具体的
 concrete:混凝土
+concrete:具体的
 condition:条件
 condom:避孕套
 conduct:引导
@@ -549,8 +549,8 @@ confident:自信的
 config:配置
 configuration:配置
 configure:配置
-conflict of interest:利益冲突
 conflict:冲突
+conflict of interest:利益冲突
 conformance:一致性
 confront:对抗
 confrontation:对抗
@@ -570,8 +570,10 @@ consent:同意
 consequence:结果
 conservatism:保守主义
 conservative:保守的
+conservative party:保守党
 consider:考虑
 considered:考虑过的
+considered to be:被视为
 consistent:一致的
 consistently:连贯地
 consolidation:巩固
@@ -580,13 +582,13 @@ constellation:星座
 constellations:星座
 constituency:选区
 constitution:宪法
-constitution of the united states:美国宪法
-constitutional monarchy:君主立宪制
 constitutional:宪法的
+constitutional monarchy:君主立宪制
+constitution of the united states:美国宪法
 constraint:约束
 construct:构造
-construction material:建筑材料
 construction:建筑
+construction material:建筑材料
 consume:消耗
 consumer:消费者
 contact:联系
@@ -601,13 +603,13 @@ continent:洲
 continue:继续
 continuity:连续
 continuous:连续的
-contract labor:合同工
 contract:契约
 contraction:收缩
-contribution:捐助
+contract labor:合同工
 contribution:贡献
-contributions:捐助
+contribution:捐助
 contributions:贡献
+contributions:捐助
 contributor:贡献者
 contributors:贡献者
 control:控制
@@ -623,23 +625,23 @@ convex:凸的
 convey:运载
 convict:罪犯
 convolutional neural network:卷积神经网络
-cook islands:库克
 cook:烹饪
 cooker:炊具
 cookers:炊具
 cookie:饼干
 cooking:烹饪
+cook islands:库克
 cooperate:合作
 cooperation:合作
 cooperative:合作的
-coordinate plane:坐标平面
-coordinate system:坐标系统
 coordinate:坐标
+coordinate plane:坐标平面
 coordinates:坐标
+coordinate system:坐标系统
 copper:铜
-copy that:收到
 copy:复制
 copyright:版权
+copy that:收到
 coral:珊瑚
 core:核心
 coriander:香菜
@@ -656,22 +658,22 @@ correct:正确的
 correctly:正确地
 correlation:相关性
 correspondent:驻地记者
-corridor coach:带走廊包厢铁路客车
 corridor:走廊
+corridor coach:带走廊包厢铁路客车
 corrupted:损坏的
 corruption:腐败
 cortex:皮层
 cosine:余弦
+cosmic:宇宙的
 cosmic noise:宇宙噪声
 cosmic rays:宇宙射线
-cosmic:宇宙的
 cost:花费
 costa rica:哥斯达黎加
 cotton:棉花
 couch:长沙发
 could:能
-coulomb force:库仑力
 coulomb:库仑
+coulomb force:库仑力
 council:委员会
 council:议会
 count:计数
@@ -680,23 +682,23 @@ counterprotest:反抗议
 counterprotester:反抗议者
 countries:国家
 country:国家
-county seat:县政治中心镇
 county:县
+county seat:县政治中心镇
 coup:政变
 courage:勇气
 course:课程
 court:法院
-court of appeals:上诉法庭
 courtesan:高级妓女
-cousin:堂亲
+court of appeals:上诉法庭
 cousin:表亲
+cousin:堂亲
 covalent bonding:共价键
 covalent crystal:共价晶体
-cover design:封面设计
 cover:封面
-cover:涵盖
 cover:覆盖
+cover:涵盖
 coverage:覆盖
+cover design:封面设计
 cow:牛仔
 coward:懦夫
 cowardly:懦弱地
@@ -704,12 +706,13 @@ cowboy:牛仔
 coxa:髋
 craft:航行器
 crane:鹤
-crap:屎
-crap:废物
 crap:废话
+crap:废物
+crap:屎
 crappy:烂
 crazy:疯狂
 create:创造
+create a new:创建一个新的
 created:已创建的
 creation:创造
 creator:创造者
@@ -723,9 +726,9 @@ crimea:克里米亚
 criminal:罪犯
 crisis:危机
 critic:评论家
-critical point:临界点
 critical:临界的
 critical:评论的
+critical point:临界点
 criticise:批评
 criticism:批判
 criticize:批评
@@ -733,15 +736,15 @@ croatia:克罗地亚
 croatian:克罗地亚语
 crop:农作物
 crops:农作物
-cross platform:跨平台
 cross:穿越
+cross platform:跨平台
 crowd:人群
 crown:王冠
 crucifixion:磨难
 cruel:残酷的
 cruelty:残酷行为
-cruise missle:巡航导弹
 cruise:巡航
+cruise missle:巡航导弹
 cry:哭
 cryptography:密码学
 crystal:水晶
@@ -750,20 +753,20 @@ cuban:古巴人
 cube:立方体
 cubic:立方的
 cucumber:黄瓜
-cue ball:母球
-cue stick:球杆
 cue:球杆
 cue:提示
+cue ball:母球
+cue stick:球杆
 cuisine:烹饪法
 culinary:烹饪的
 cultivar:培育品种
 cultivate:培养
 cultivation:培养
-cultural heritage:文化遗产
 cultural:文化的
+cultural heritage:文化遗产
+culture:文化
 culture day:文化日
 culture of the united states:美国文化
-culture:文化
 cum:精液
 cumbria:坎布里亚
 cumin:孜然
@@ -786,9 +789,9 @@ custody:监护权
 custom:自定义的
 customizable:可定制的
 customize:定制
-cut off:切断
 cut:切割
 cute:可爱的
+cut off:切断
 cuttlefish:乌贼
 cyber attack:网络攻击
 cyberspace:网络空间

@@ -171,9 +171,9 @@ enlistment:兵役
 enough:足够的
 enslave:奴役
 ensue:随即发生
-entailment:蕴涵
 entailment:推理
 entailment:推论
+entailment:蕴涵
 entente:协约
 enter:进入
 enterprise:企业
@@ -228,6 +228,7 @@ escalation:上升
 escape:逃脱
 escherichia coli:大肠杆菌
 especially:特别地
+especially in:特别是在
 esperanto:世界语
 essential:必需的
 establish:建立

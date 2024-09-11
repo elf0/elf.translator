@@ -4,6 +4,7 @@ i am crazy:我疯了
 i am exhausted:我已经筋疲力尽了
 i am joking:我开玩笑的
 i am lucky:我很幸运
+i am not:我不是
 i am not sure:我不确定
 i am not telling you anything:我什么都不会告诉你
 i am scared:我被吓到了
@@ -11,7 +12,9 @@ i am sorry:对不起
 i am terrified:我被吓到了
 i am tired:我累了
 i asked:我问道
+i believe:我相信
 i believe you:我相信你
+i can:我可以
 ice:冰
 iceberg:冰山
 ice cream:冰淇淋
@@ -27,6 +30,7 @@ ice water:冰水
 ichthyologist:鱼类学家
 ichthyology:鱼类学
 icon:图标
+i could:我可以
 id:标识符
 idea:主意
 ideal:理想的
@@ -82,22 +86,27 @@ i do not understand you guys at all:我一点都不懂你们这些家伙
 i do not wanna do this:我不想这样做
 i do not want to die:我不想死
 i do what i like to do:我喜欢做什么就做什么
-i think:我认为
 if:如果
+i feel:我觉得
 if he:如果他
 if i:如果我
+iftar:开斋饭
 if the first:如果第一个
 if they:如果他们
 if we:如果我们
 if you:如果你
 if your:如果你的
-iftar:开斋饭
+if you want:如果你想
 ignore:忽略
+i have:我有
 i have a better idea:我有一个更好的主意
+i have no:我没有
 i have no choice:我没得选
 i have to talk to you:我得和你谈谈
+i hope:我希望
 i hope you:我希望你
 i hope you are ready:我希望你准备好了
+i just:我只是
 i just do not want anybody:我只是不想任何人
 i know:我知道
 i know nothing:我什么都不知道
@@ -117,9 +126,9 @@ i mean it:我是认真的
 i miss you:我想你了
 imitation:模仿
 immediate:立刻的
-immediate vicinity:紧邻
-immediate vicinity:附近
 immediately:立刻地
+immediate vicinity:附近
+immediate vicinity:紧邻
 immersion:浸礼
 immigrant:迁入民
 immigrate:迁入
@@ -296,9 +305,9 @@ interactive:交互的
 intercept:截取
 interest:利息
 interest:兴趣
-interest paid:已付利息
 interested in:有兴趣于
 interesting:有趣的
+interest paid:已付利息
 interface:接口
 interjection:感叹词
 internal:内部的
@@ -330,6 +339,7 @@ interstate:州际高速公路
 intertwine:缠绕
 interval:间隔
 interview:采访
+interview with:采访
 intestine:肠子
 into:进入
 intracellular:细胞内的
@@ -377,7 +387,6 @@ ireland:爱尔兰
 i remember:我记得
 i remember the first time:我记得第一次
 i remember the first time i:我记得我第一次
-i think the first:我认为第一个
 iridium:铱
 irish:爱尔兰人
 irish:爱尔兰语
@@ -386,10 +395,11 @@ irrational:不合理的
 irregular:不规则的
 irregularly shaped:不规则形状的
 is:是
+is about:是关于
 i said:我说道
 is a member of the democratic party:是一个民主党员
+is an important first step:是重要的第一步
 is a village:是一个村庄
-is only the first step:只是第一步
 islam:伊斯兰教
 islamic:伊斯兰的
 islamism:伊斯兰主义
@@ -397,16 +407,17 @@ islamist:伊斯兰教徒
 island:岛
 isle:小岛
 islet:小岛
-is an important first step:是重要的第一步
 is loaded:被加载
+is located in:位于
 is native to:原产于
 is native to europe:原产于欧洲
 is native to north america:原产于北美洲
 is native to south america:原产于南美洲
 is native to western north america:原产于北美洲西部
-it was her first:这是她第一次
+is no longer:不再是
 isoindoline:异吲哚啉
 isolation:隔离
+is only the first step:只是第一步
 israel:以色列
 israeli:以色列的
 israeli:以色列人
@@ -421,16 +432,19 @@ italy:意大利
 itch:瘙痒
 itchy:痒的
 it does not matter:没关系
-it has been estimated:据估算
 item:项
 items:项
 iteration:迭代
+it has been estimated:据估算
+i think:我认为
+i think the first:我认为第一个
 it is raining cats and dogs:外面下着大雨
 it is raining heavily:外面下着大雨
 it is raining outside:外面下着雨
 it is the first:它是第一个
 its:它的
 itself:它自己
+it was her first:这是她第一次
 it was not your fault:那不是你的错
 ivory coast:科特迪瓦
 ivy:常春藤

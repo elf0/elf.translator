@@ -10,6 +10,7 @@ take it easy:放松
 take off:脱下
 taliban:塔利班
 talk:谈话
+talking about:谈论
 tallow:牛羊油
 tamil:泰米尔人
 taniplon:他尼普隆
@@ -26,8 +27,8 @@ task:任务
 taste:尝
 tasteless:无味的
 tasty:可口的
-taxonomy:分类学
 taxonomic rank:分类层级
+taxonomy:分类学
 taylor:泰勒
 tea:茶
 teach:教
@@ -57,6 +58,7 @@ telegraph:电报
 telegraphy:电报
 telephone:电话
 television:电视
+television series:电视剧
 tell:告诉
 tell me:告诉我
 tell me about your family:跟我讲讲你的家庭
@@ -88,9 +90,9 @@ termites:白蚁
 terrace:梯田
 terrestrial:陆地的
 terrify:恐吓
-territory:领土
 territorial land:领土
 territorial sea:领海
+territory:领土
 terror:恐怖
 terrorism:恐怖主义
 terrorist:恐怖份子
@@ -99,10 +101,10 @@ tesla:特斯拉
 test:测试
 texas:德克萨斯
 text:文本
+text corpora:文本集
+text corpora:文本语料库
 textile:纺织品
 textile arts:纺织艺术
-text corpora:文本语料库
-text corpora:文本集
 text to speech:文本转语音
 thai:泰语
 thailand:泰国
@@ -289,15 +291,15 @@ tour:旅游
 tourism:旅游业
 tourist:旅行者
 tournament:锦标赛
+towards:对
+towards:向
+towards:朝
 tower:塔
 towers:塔
 town:城镇
 town council:城镇委员会
 township:镇区
 town water:自来水
-towards:向
-towards:对
-towards:朝
 toxic:有毒的
 toxin:毒素
 toy:玩具
@@ -316,18 +318,18 @@ trait:特征
 traitor:叛徒
 trajectory:飞行轨迹
 transducer:换能器
-transform:变换
-transfer:转移
-transfer:转让
-transfer:传输
-transfer:转账
-transfer:轉移
 transfer:传递
-transfer:迁移
+transfer:传输
 transfer:传送
-transfer:转学
-transfer:转印
+transfer:迁移
 transfer:中转
+transfer:轉移
+transfer:转让
+transfer:转学
+transfer:转移
+transfer:转印
+transfer:转账
+transform:变换
 transgender:变性
 transient:短暂的
 transistor:晶体管
@@ -410,8 +412,8 @@ tv:电视
 twat:屄
 twelfth:第十二
 twelve:十二
-twenty:二十
 twenties:二十几的
+twenty:二十
 twice:两次
 twilight:暮光
 twilight:曙光

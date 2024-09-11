@@ -67,8 +67,8 @@ federal:联合的
 federal law:联邦法律
 federation:联盟
 feed:喂
-feed forward:前馈
 feedback:反馈
+feed forward:前馈
 feel:感觉
 feet:脚
 felid:猫科动物
@@ -141,22 +141,23 @@ firearm:火器
 firefighter:消防员
 firm:坚实的
 first:第一的
+firstborn:长男
+firstborn:长女
+firstborn:长子
+firstborn:头胎
 first date:第一次约会
 first derivative:一阶导数
 first generation:第一代
 first lady:第一夫人
 first of all:首先
 first person singular:第一人称单数
+first round:第一轮
 first step:第一步
 first thing:第一件事
 first time:第一次
 first world:第一世界
 first world war:第一次世界大战
 first year:第一年
-firstborn:长子
-firstborn:长男
-firstborn:长女
-firstborn:头胎
 fiscal year:财政年度
 fish:鱼
 fisher:捕鱼者
@@ -216,6 +217,7 @@ football:足球
 football club:足球俱乐部
 footballer:足球运动员
 footballers:足球运动员
+football team:足球队
 foothill:山脚
 footnote:脚注
 footnotes:脚注
@@ -225,6 +227,7 @@ for:为了
 force:力量
 forced labour:被强制的工人
 foreign:外国的
+foreign affairs:外交事务
 foreign key:外键
 foreign minister:外交部长
 foreign policy:对外政策
@@ -233,10 +236,12 @@ foreign relations of the united states:美国外交关系
 forest:森林
 forethought:谋划
 forever:永远
+for example:例如
 forget:忘记
 forget what i said about:忘记我说的关于
 forgive:原谅
 forgiveness:宽恕
+for instance:例如
 fork:叉子
 form:形式
 formaldehyde:甲醛
@@ -250,13 +255,11 @@ formula:公式
 formulae:公式
 formulas:公式
 fort:要塞
-for example:例如
-for instance:例如
 for that reason:因为那个原因
 for the first time:第一次
 for the first time ever:有史以来第一次
-for the first time in history:有史以来第一次
 for the first time in history:历史上第一次
+for the first time in history:有史以来第一次
 for the first time in years:多年来第一次
 for the same purpose:为了这个相同的目的
 for the same reason:因为这个相同的原因

@@ -5,11 +5,11 @@ gallery:画廊
 gallstone:胆结石
 gambia:冈比亚
 gambling:赌博
+game:游戏
+gamecock:斗鸡
 game development:游戏开发
 game engine:游戏引擎
 game programming:游戏编程
-game:游戏
-gamecock:斗鸡
 games:游戏
 gamete:配子
 gametes:配子
@@ -18,8 +18,8 @@ gandhi:甘地
 garden:花园
 garlic:蒜
 gas:燃气
-gaseous state:气态
 gaseous:气态的
+gaseous state:气态
 gastronomy:烹饪学
 gate:大门
 gateway:网关
@@ -32,9 +32,9 @@ geisha:艺妓
 gekkonidae:壁虎科
 gel:凝胶
 gemstone:宝石
+gender:性
 gender equality:性别平等
 gender neutral:不区分性别的
-gender:性
 gene:基因
 general:一般的
 generally:通常地
@@ -54,107 +54,107 @@ genome:基因组
 genome sequencing:基因组测序
 genre:风格
 gentile:非犹太人
-genus of mammals:哺乳类
-genus:属
 genus:类
+genus:属
+genus of mammals:哺乳类
 geography:地理
-geological formation:地质构造
 geological:地质的
+geological formation:地质构造
 geologist:地质学家
 geology:地质学
-geometric algebra:几何代数学
 geometric:几何的
+geometric algebra:几何代数学
 geometry:几何学
 george:乔治
 georgia:格鲁吉亚
-german actor:德国演员
-german noble:德国贵族
-german politician:德国政客
 german:德国人
 german:德语
+german actor:德国演员
 germanium:锗
+german noble:德国贵族
+german politician:德国政客
 germany:德国
 gestapo:纳粹秘密警察
 gesture:手势
+get:得到
 get hurt:受伤
-get outta here:离开
 get out of here:离开
 get out of my face:滚开
 get out of my way:别挡道
 get out of the way:别挡道
-get:得到
+get outta here:离开
 ghana:加纳
-ghanaian politician:加纳政客
-ghanaian:加纳人
 ghanaian:加纳的
+ghanaian:加纳人
+ghanaian politician:加纳政客
 ghost:鬼魂
 giant:巨大的
 gift:礼物
 ginger:姜
 giraffe:长颈鹿
-girl of eighteen:十八岁的女孩
+girl:姑娘
 girl:女孩
 girl:女生
 girl:少女
-girl:姑娘
 girlfriend:女朋友
+girl of eighteen:十八岁的女孩
 girls:女孩们
-give up:放弃
 give:给
-given name:名
-given:给予的
 given:给定的
+given:给予的
+given name:名
+give up:放弃
 glacier:冰川
 glans:龟头
 glass:玻璃
 glasses:眼镜
 glimpse:瞄一眼
-glitter bomb:闪光弹
 glitter:闪光
+glitter bomb:闪光弹
+global:全球的
 global catastrophe:全球大灾难
+globalization:全球化
 global positioning system:全球定位系统
 global war:全球战争
-global:全球的
-globalization:全球化
-glossy:光滑的
 glossies:光滑纸
+glossy:光滑的
 glove:手套
 glucose:葡萄糖
 glycerol:甘油
 glyph:字形
-go to sleep:去睡觉
 go:去
 goal:目标
 goals:目标
 goat:山羊
 god:神
-gold coast:加纳
-gold coast:黄金海岸
-gold medal:金牌
-gold medalist:金牌获得者
 gold:金子
+gold coast:黄金海岸
+gold coast:加纳
 golden:金的
 goldfish:金鱼
+gold medal:金牌
+gold medalist:金牌获得者
 golf:高尔夫球
 golfer:高尔夫球手
 golfers:高尔夫球手
 gone:死了
+good:好的
 good enough:足够好
 good idea:好主意
 good job:干得好
 good luck:祝你好运
-good:好的
 google:谷歌
+go to sleep:去睡觉
 gout:痛风
 gov:政府
 governance:管治
 governess:女家庭教师
 government:政府
-government of the united states:美国政府
 governmental:政府的
+government of the united states:美国政府
 governor:地方长官
-gradient color:渐变色
 gradient:梯度
+gradient color:渐变色
 gradual:逐渐的
 gradually:逐渐地
 gram:克
@@ -170,11 +170,11 @@ granularity:粒度
 grape:葡萄
 graph:图形
 graphic:图形
-graphic novel:图画小说
 graphical:图形的
+graphic novel:图画小说
 graphs:图形
-grasp:握
 grasp:理解
+grasp:握
 grass:草
 grasshopper:蚱蜢
 grave:坟墓
@@ -184,17 +184,18 @@ gravitational:引力的
 gravity:重力
 gravy:肉汁
 gray:灰色
-great britain:英国
 great:伟大的
+great britain:英国
 greater than:大于
 greece:希腊
 greed:贪婪
 greek:希腊语
 green:绿色
-greenway:林荫道
 greenhouse:温室
 greenland:格陵兰
+greenway:林荫道
 grenada:格林纳达
+grew up:长大
 grey:灰色
 grid:网格
 grief:悲痛
@@ -203,31 +204,32 @@ grinder:磨具
 groom:新郎
 groove:凹槽
 grooves:凹槽
-gross anatomy:总体解剖学
 gross:总收入
+gross anatomy:总体解剖学
+ground:地面
 ground force:陆军
 ground meat:磨肉
-ground:地面
 groundwater:地下水
 group:组
 growth:增长
+grow up:长大
 gt:大于
 guanine:鸟嘌呤
-guardian angel:守护天使
 guardian:监护人
+guardian angel:守护天使
 guatemala:危地马拉
 guess:猜
 guest:宾客
 guide:指引
 guillemet:尖括号
 guilty:有罪的
-guinea bissau:几内亚比绍
 guinea:几内亚
+guinea bissau:几内亚比绍
 guitar:吉他
 guitarist:吉他手
-gulf war syndrome:海湾战争综合症
-gulf war:海湾战争
 gulf:大海湾
+gulf war:海湾战争
+gulf war syndrome:海湾战争综合症
 gun:枪
 gunpowder:黑火药
 guy:家伙

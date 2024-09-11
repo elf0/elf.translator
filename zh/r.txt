@@ -9,6 +9,8 @@ radar:雷达
 radiator:散热器
 radii:半径
 radio:无线电
+radio station:电台
+radio stations:广播电台
 radium:镭
 radius:半径
 radon:氡
@@ -79,9 +81,9 @@ realistic:逼真的
 realistic:现实的
 really:真正地
 real number:实数
-reassessment:重新评估
 reason:原因
 reasonable:合理的
+reassessment:重新评估
 rebel:反叛者
 rebellion:造反
 rebellious:反抗的
@@ -233,6 +235,7 @@ retire:退休
 retirement:退休
 retrieve:取回
 return:返回
+return to:回到
 return to the united states:返回美国
 reusability:可重用性
 reuse:重用
@@ -294,6 +297,7 @@ role:角色
 roll:滚动
 roller skates:滚轮滑鞋
 roman:罗马人
+roman catholic:罗马天主教的
 romania:罗马尼亚
 romanian:罗马尼亚语
 romanization:罗马字母化
@@ -343,8 +347,8 @@ running:运行
 running on:运行在
 running water:自来水
 rural:乡村的
-rural district:乡村地区
 rural district:农村地区
+rural district:乡村地区
 russia:俄国
 russian:俄国人
 russian:俄语
