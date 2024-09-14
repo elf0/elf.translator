@@ -76,6 +76,7 @@ passion:激情
 passport:护照
 password:密码
 past:过去的
+past and present:过去和现在
 paste:粘贴
 pastor:牧师
 patent:专利
@@ -303,6 +304,10 @@ policy:政策
 polish:波兰语
 politic:策略的
 political:政治的
+political and cultural:政治和文化
+political and economic:政治和经济
+political and military:政治和军事
+political and religious:政治和宗教
 political conflict:政治冲突
 political equality:政治平等
 political leader:政治领袖
@@ -450,6 +455,8 @@ producer:生产者
 producer:制作人
 product:产品
 production:产品
+production and consumption:生产和消费
+products and services:产品和服务
 professional:职业的
 professional:专业的
 professional footballer:职业足球运动员
