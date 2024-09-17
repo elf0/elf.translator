@@ -5,6 +5,7 @@ facilities:设施
 fact:事实
 factor:因子
 factory:工厂
+factories:工厂
 faculty:院系
 failure:失败
 faint:微弱的
@@ -286,6 +287,7 @@ fragile:脆弱的
 fragrant:香的
 frame:帧
 framework:框架
+frameworks:框架
 france:法国
 francis:弗朗西斯
 francisco:弗朗西斯科

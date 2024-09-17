@@ -22,6 +22,7 @@ palestinian:巴勒斯坦人
 palladium:钯
 palm:棕榈
 panda:大熊猫
+panda:熊猫
 panama:巴拿马
 panorama:全景
 panther:黑豹
@@ -69,6 +70,7 @@ partial:部分的
 participate:参加
 particle:粒子
 particular:特殊的
+partnership:伙伴关系
 party:党
 party:聚会
 pass away:去世
@@ -111,6 +113,8 @@ peacock:孔雀
 peak:峰
 peanut:花生
 pear:梨
+peasant:农夫
+peasants:农民
 pedant:学究
 pedantic:学究的
 pedestrian:步行者
@@ -202,6 +206,7 @@ phoneme:音素
 phonetic:语音的
 phosphorus:磷
 photo:照片
+photograph:照片
 photography:摄影
 photon:光子
 photonics:光子学
@@ -222,6 +227,7 @@ physicist:物理学家
 physics:物理
 physiological:生理学的
 physiology:生理学
+phytoplankton:浮游植物
 piano:钢琴
 picture:照片
 piecewise:分段的
@@ -249,6 +255,7 @@ pixel:像素
 place:地方
 placeholder:占位符
 place of birth:出生地
+plagiarism:抄袭
 plain:平坦的
 plan:计划
 plane:平面
@@ -259,6 +266,7 @@ plant:植物
 plants:植物
 plantigrade:掌行的
 plastic:塑料
+plastics:塑膠
 plastic surgery:整形外科
 plate:盘子
 platform:平台
@@ -301,6 +309,7 @@ poland:波兰
 polar:极性的
 polar bear:北极熊
 polar coordinate:极坐标
+polarization:两极分化
 polarity:极性
 police:警察
 police dog:警犬
@@ -320,10 +329,14 @@ political prisoner:政治犯
 politician:政客
 politician:政治家
 politics:政治
+pollution:污染
 polonium:钋
 polymer:聚合物
+polymorphism:多态性
 polynomial:多项式
 polynomials:多项式
+polyp:息肉
+polyps:息肉
 polyploid:多倍体
 pomegranate:石榴
 pond:池塘
@@ -445,6 +458,7 @@ prison:监狱
 prisoner:囚犯
 privacy:隐私
 private:私有的
+privatization:私有化
 privilege:特权
 prix:奖金
 prize:奖
@@ -460,9 +474,11 @@ produce:生产
 producer:生产者
 producer:制作人
 product:产品
+products:产品
 production:产品
 production and consumption:生产和消费
 products and services:产品和服务
+profession:专业
 professional:职业的
 professional:专业的
 professional footballer:职业足球运动员
@@ -493,6 +509,7 @@ promote:提升
 pronoun:代词
 pronunciation:读法
 proof:证据
+propaganda:宣传
 propagate:传播
 propagation:传播
 propamidine:普罗帕脒
@@ -576,6 +593,7 @@ pure water:纯水
 purge:清除
 purify:净化
 purine:嘌呤
+purity:纯度
 purple:紫色
 purpose:目的
 pursue:追击
