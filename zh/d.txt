@@ -4,11 +4,11 @@ dagistan:达吉斯坦
 daily:日常的
 dairy:乳制品
 daltonism:色盲
+dam failure:溃坝
 dam:水坝
 damage:损害
 damascus:大马士革
 dame:女士
-dam failure:溃坝
 dance:跳舞
 dancer:舞者
 danger:危险
@@ -19,15 +19,15 @@ darkness:黑暗
 dart:飞镖
 darwin:达尔文
 dash:猛冲
+data scientist:数据科学家
 data:数据
 database:数据库
-data scientist:数据科学家
 dataset:数据集
+date back:追溯
 date:日期
 date:约会
-date back:追溯
-daughter:女儿
 daughter in law:儿媳
+daughter:女儿
 daunting:令人畏惧的
 david:大卫
 davidson:戴维森
@@ -65,15 +65,15 @@ decrease:减少
 dedicate:致力
 dedicated to:致力于
 dedication:奉献
-deep:深的
 deep learning:深度学习
 deep ocean:深海
 deep sea:深海
 deep throat:深喉
 deep water:深水
+deep:深的
 default:默认
-defeat:打败
 defeat:击败
+defeat:打败
 defecate:拉屎
 defecation:排便
 defect:缺陷
@@ -88,15 +88,15 @@ degree:度
 delegate:委托
 delete:删除
 deleted:已删除的
-deletion:缺失
 deletion:删除
+deletion:缺失
 delight:使高兴
 deliver:输送
 delusional:妄想的
 demand:需求
 democracy:民主
-democratic:民主的
 democratic party:民主党
+democratic:民主的
 demodex:螨虫
 demonstrate:示范
 demonstration:示范
@@ -104,15 +104,13 @@ denmark:丹麦
 denominator:分母
 dense:稠密的
 density:密度
-dental:牙齿的
 dental surgeon:牙科医生
+dental:牙齿的
 dentist:牙医
 dentistry:口腔医学
 denuclearization:去核化
 denuclearize:消除核武器
 deoxyribonucleic acid:脱氧核糖核酸
-department:部门
-department:系
 department of agriculture:农业部
 department of defence:国防部
 department of defense:国防部
@@ -125,6 +123,8 @@ department of industry:工业部
 department of labor:劳动部
 department of science and technology:科技部
 department store:百货公司
+department:系
+department:部门
 dependence:依赖
 dependency:依赖
 dependent variable:因变量
@@ -137,8 +137,8 @@ depressant:镇静的
 depression:沮丧
 deprivation:剥夺
 deprive:剥夺
-depth:深度
 depth and breadth:深度和广度
+depth:深度
 derail:出轨
 derivative:导数
 derivatives:导数
@@ -148,8 +148,8 @@ descendant:后代
 descent:下降
 describe:描述
 description:描述
-design:设计
 design anthropology:设计人类学
+design:设计
 designation:称呼
 designer:设计师
 desirable:值得渴望的
@@ -175,20 +175,20 @@ detest:厌恶
 detonate:引爆
 detroit:底特律
 develop:开发
-developed:已开发的
 developed country:发达国家
+developed:已开发的
 developer:开发者
-developing:发展中的
 developing countries:发展中国家
 developing country:发展中国家
+developing:发展中的
 development:开发
 deviant:变态
 deviate:偏离
 deviation:偏差
 device:设备
 devil:魔鬼
-diabetic:糖尿病的
 diabetic retinopathy:糖尿病视网膜病
+diabetic:糖尿病的
 diacritic:附加符号
 diacritics:附加符号
 diagnosis:诊断
@@ -208,35 +208,35 @@ dictate:指示
 dictator:独裁者
 dictionary:词典
 did:做过
-die:死
-died:死的
-died in her arms:死在她的怀中
 die from:死于
+die:死
+died in her arms:死在她的怀中
+died:死的
 difference equation:差分方程
-different:不同的
 different authors:不同作者
-differentiable:可微分的
+different ways:不同方式
+different:不同的
 differentiable everywhere:处处可微分
 differentiable function:可微分函数
 differentiable manifold:可微分流形
+differentiable:可微分的
 differential diagnosis:鉴别诊断
 differential geometry:微分几何
 differentiate:区分
 differentiation:微分
 differently:不同地
-different ways:不同方式
 difficult:困难的
 diffusion:扩散
 dig:挖
 digest:消化
 digestion:消化
-digestive:消化
 digestive system:消化系统
+digestive:消化
 digger:挖掘者
-digit:脚趾
 digit:数字
-digital:数字的
+digit:脚趾
 digital image:数字图像
+digital:数字的
 digitigrade:趾行的
 diiodoethane:二碘乙烷
 dildo:假鸡巴
@@ -249,22 +249,22 @@ diode:二极管
 dioxide:二氧化物
 diplomacy:外交
 diplomat:外交官
-diplomatic:外交的
 diplomatic offensive:外交攻势
+diplomatic:外交的
 direction:方向
 director:导演
 director:局长
 directory:目录
-dirty:脏的
 dirty trick:奇技淫巧
+dirty:脏的
 disable:禁止
 disambiguation:消歧义
 disappointment:失望
 disapproval:不赞成
-disaster:灾害
 disaster relief:灾害救助
-discipline:纪律
+disaster:灾害
 discipline:学科
+discipline:纪律
 disciplines:学科
 disclaim:放弃
 disclaimer:免责声明
@@ -274,9 +274,9 @@ discovery:发现
 discreditable:丢脸的
 discriminaroty treatment:歧视对待
 discrimination:歧視
-discriminatively:区别地
 discriminative model:判别模型
 discriminative training:判别训练
+discriminatively:区别地
 discriminatory behavior:歧视性行为
 discriminatory intent:歧视性意图
 discriminatory language:歧视性语言
@@ -299,16 +299,16 @@ dismiss:解散
 disney:迪士尼
 disorder:混乱
 displacement:位移
-display:显示
 display device:显示设备
+display:显示
 disposable:一次性的
 dispute:争执
 disreputable:声名狼藉的
 dissociate:分离
 dissociation:分离
 dissoluble:可溶解的
-dissolve:解散
 dissolve:溶解
+dissolve:解散
 distance:距离
 distinction:区别
 distress:难受
@@ -317,46 +317,46 @@ disturb:打扰
 disunite:分离
 ditch:沟渠
 dither:抖动
-diverse:多样化
 diverse:多元化
+diverse:多样化
 diversity:多样性
 divide:除
-division:除法
 division:师
+division:除法
 divorce:离婚
 djibouti:吉布提
-dna:脱氧核糖核酸
 dna sequencing:dna测序
+dna:脱氧核糖核酸
 do:做
 dock:船坞
 doctor:医生
 doctors and nurses:医生和护士
 document:文档
-does:做
 does not matter:无关紧要
-dog:狗
+does:做
 dog food:狗粮
 dog meat:狗肉
 dog tag:狗牌
+dog:狗
 doll:玩偶
 dollar:美元
 dolphin:海豚
-domain:定义域
 domain:域
 domain:域名
-domestic:国内的
-domestic:家庭的
+domain:定义域
 domestic abuse:家庭虐待
 domestic animal:家养动物
-domesticate:驯养
-domesticated animal:驯养动物
-domestication:驯养
 domestic cat:家猫
 domestic dog:家犬
 domestic law:国内法
 domestic mammal:家养哺乳动物
 domestic policy:国内政策
 domestic violence:家庭暴力
+domestic:国内的
+domestic:家庭的
+domesticate:驯养
+domesticated animal:驯养动物
+domestication:驯养
 dominica:多米尼克
 dominican:多米尼加
 dominican:多米尼加人
@@ -365,11 +365,11 @@ donetsk:顿涅茨克
 donkey:驴子
 door:门
 dopamine:多巴胺
-dot:点
 dot product:点积
-double:两倍的
+dot:点
 double helix:双螺旋
 double integral:二重积分
+double:两倍的
 doubt:怀疑
 dough:生面团
 douglas:道格拉斯
@@ -377,8 +377,8 @@ dove:鸽子
 down:向下
 downing street:唐宁街
 download:下载
-dozen:打
 dozen:十二个
+dozen:打
 dr:博士
 draft:草案
 dragon:龙
@@ -400,29 +400,29 @@ driver:司机
 drosophila:果蝇
 drought:干旱
 drown:淹死
-drug:药
 drug rehabilitation:戒毒
+drug:药
 drunk:醉的
 dry heat sterilization:干热灭菌法
 duck:鸭
 duct:导管
-due:到期的
 due to:由于
+due:到期的
 duke:公爵
 dull:钝
 dumb:哑的
-dung beetle:蜣螂
 dung beetle:屎壳郎
+dung beetle:蜣螂
 duplicate:重复的
 duplication:复制
 durian:榴莲
-during:期间
 during and after:期间和之后
 during his time:在他的时期
 during the first world war:在第一次世界大战期间
 during the first year:在第一年
 during the time:在这个时期
 during world war ii:在第二次世界大战期间
+during:期间
 dust:灰尘
 dutch:荷兰人
 dutch:荷兰语

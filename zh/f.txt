@@ -1,11 +1,12 @@
 fabric:纺织品
-facial:脸的
+facebook:脸书
 facial nerve:脸神经
+facial:脸的
 facilities:设施
 fact:事实
 factor:因子
-factory:工厂
 factories:工厂
+factory:工厂
 faculty:院系
 failure:失败
 faint:微弱的
@@ -13,18 +14,18 @@ fair:公平的
 faith:信仰
 fake:假的
 falcon:猎鹰
+fall asleep:入睡
 fall:沦陷
 fall:落下
-fall asleep:入睡
 fallopian:输卵管
 fallujah:费卢杰
 false:假的
 falsehood:谬误
 falsity:谬误
 fame:名望
+familiar with:熟悉
 familiar:熟悉的
 familiarize:熟悉
-familiar with:熟悉
 family:家庭
 family:科
 famine:饥荒
@@ -35,8 +36,8 @@ fang:毒牙
 fans:痴迷者
 far:远的
 farce:闹剧
-farm:农田
 farm animal:农场动物
+farm:农田
 farmer:农民
 faroese:法罗人
 faroese:法罗语
@@ -45,16 +46,16 @@ farther:更远的
 fascism:法西斯主义
 fascist:法西斯主义者
 fashion:时尚
+fast food chain:快餐连锁
+fast food:快餐
 fast:快速的
 faster:更快的
 fastest:最快的
-fast food:快餐
-fast food chain:快餐连锁
 fatal:命中注定的
 fate:命运
-father:父亲
 father in law:公公
 father in law:岳父
+father:父亲
 fathom:测深
 fatty:胖子
 fault:错
@@ -64,12 +65,12 @@ fearless:无畏的
 feature:特点
 featured:特色的
 features:特点
-federal:联合的
 federal law:联邦法律
+federal:联合的
 federation:联盟
+feed forward:前馈
 feed:喂
 feedback:反馈
-feed forward:前馈
 feel:感觉
 feet:脚
 felid:猫科动物
@@ -97,28 +98,28 @@ fetishism:拜物教
 few:很少的
 fiber:纤维
 fibre:纤维
-fibrous:纤维的
 fibrous material:纤维材质
+fibrous:纤维的
 fiction:小说
 fictional:虚构的
-field:场
-field:领域
-field:字段
 field effect:场效应
 field of research:研究领域
+field:场
+field:字段
+field:领域
 fifteen:十五
 fifth:第五
 fifty:五十
-fight:打斗
 fight:战斗
+fight:打斗
 figure:图
 fiji:斐济
-file:文件
 file format:文件格式
 file name:文件名
 file system:文件系统
-fill:填充
+file:文件
 fill out:填满
+fill:填充
 film:电影
 films:电影
 final:最终的
@@ -126,27 +127,22 @@ finally:最终
 finance:财政
 financial:财务的
 find:发现
-fine:罚金
 fine tuning:微调
+fine:罚金
 finger:手指
 fingernail:手指甲
 fingerprint:指纹
 finish:结束
 finite:有限的
 finland:芬兰
-finnish:芬兰的
-finnish:芬兰人
-finnish:芬兰语
 finnish politician:芬兰政客
+finnish:芬兰人
+finnish:芬兰的
+finnish:芬兰语
 fire:火
 firearm:火器
 firefighter:消防员
 firm:坚实的
-first:第一的
-firstborn:长男
-firstborn:长女
-firstborn:长子
-firstborn:头胎
 first date:第一次约会
 first derivative:一阶导数
 first generation:第一代
@@ -157,9 +153,14 @@ first round:第一轮
 first step:第一步
 first thing:第一件事
 first time:第一次
-first world:第一世界
 first world war:第一次世界大战
+first world:第一世界
 first year:第一年
+first:第一的
+firstborn:头胎
+firstborn:长女
+firstborn:长子
+firstborn:长男
 fiscal year:财政年度
 fish:鱼
 fisher:捕鱼者
@@ -179,8 +180,8 @@ flammagenitus:火积云
 flare:闪耀
 flatus:屁
 flax:亚麻
-flea:除跳蚤
 flea:跳蚤
+flea:除跳蚤
 fleas:跳蚤
 flexible:灵活的
 flight:飞行
@@ -191,82 +192,82 @@ flooding:洪水
 floor:地板
 florida:佛罗里达
 flour:面粉
-flow:流动
 flow chart:流程图
+flow:流动
 flower:花
-flowering:开花的
 flowering plant:开花植物
+flowering:开花的
 fluid:液体
 fluidic:液体的
 fluorine:氟
 fly:苍蝇
 fly:飞
-focus:焦点
-focus:专心
 focus on:专注于
+focus:专心
+focus:焦点
 fog:雾
+follow me:跟我来
 follow:跟随
 follower:追随者
 following:后面的
 following:接下来的
-follow me:跟我来
-font:字体
 font file:字体文件
-food:食物
+font:字体
 food additive:食品添加剂
 food chain:食物链
+food:食物
 fool:笨蛋
-football:足球
 football club:足球俱乐部
+football team:足球队
+football:足球
 footballer:足球运动员
 footballers:足球运动员
-football team:足球队
 foothill:山脚
 footnote:脚注
 footnotes:脚注
 footpath:人行道
 footway:人行道
+for example:例如
+for instance:例如
+for that reason:因为那个原因
+for the first time ever:有史以来第一次
+for the first time in history:历史上第一次
+for the first time in history:有史以来第一次
+for the first time in years:多年来第一次
+for the first time:第一次
+for the same purpose:为了这个相同的目的
+for the same reason:因为这个相同的原因
+for this reason:因为这个原因
 for:为了
 force:力量
 forced labour:被强制的工人
-foreign:外国的
 foreign affairs:外交事务
 foreign key:外键
 foreign minister:外交部长
 foreign policy:对外政策
-foreign relations:外交关系
 foreign relations of the united states:美国外交关系
+foreign relations:外交关系
+foreign:外国的
 forest:森林
 forethought:谋划
 forever:永远
-for example:例如
-forget:忘记
 forget what i said about:忘记我说的关于
+forget:忘记
 forgive:原谅
 forgiveness:宽恕
-for instance:例如
 fork:叉子
 form:形式
 formaldehyde:甲醛
 format:格式
 formation:编队
 formats:格式
-former:前
 former president:前总统
+former:前
 formosan:台湾人
 formula:公式
 formulae:公式
 formulas:公式
 fort:要塞
-for that reason:因为那个原因
-for the first time:第一次
-for the first time ever:有史以来第一次
-for the first time in history:历史上第一次
-for the first time in history:有史以来第一次
-for the first time in years:多年来第一次
-for the same purpose:为了这个相同的目的
-for the same reason:因为这个相同的原因
-for this reason:因为这个原因
 fortunate:幸运的
 forty:四十
 forum:论坛
@@ -293,9 +294,10 @@ francis:弗朗西斯
 francisco:弗朗西斯科
 frank:弗兰克
 freak:畸形
+free fall:自由下落
+free will:自由意志
 free:免费的
 free:自由的
-freedom:自由
 freedom of abortion:堕胎的自由
 freedom of assembly:集会的自由
 freedom of association:结社的自由
@@ -305,36 +307,35 @@ freedom of information:信息的自由
 freedom of religion:宗教的自由
 freedom of speech:说话的自由
 freedom of the press:出版的自由
-free fall:自由下落
+freedom:自由
 freeway:高速公路
-free will:自由意志
 freezing:冰冻的
-french:法国人
-french:法语
 french actor:法国演员
 french noble:法国贵族
 french politician:法国政客
+french:法国人
+french:法语
 frenzy:狂躁
 frequency:频率
 frequently:频繁地
+fresh water fish:淡水鱼
+fresh water:淡水
 fresh:新鲜的
 freshman:新生
-fresh water:淡水
 freshwater:淡水
-fresh water fish:淡水鱼
 friction:摩擦力
 fried rice:炒饭
 friend:朋友
-friends:朋友
 friends and colleagues:朋友和同事
 friends and family:朋友和家人
 friends first:朋友第一
+friends:朋友
 frighten:吓唬
 frog:青蛙
 from:从
+front line:前线
 front:前面
 frontier:边境
-front line:前线
 frost:霜
 frozen:冰冻的
 fructose:果糖
@@ -342,24 +343,24 @@ fruit:水果
 frustrate:挫败
 frustrating:挫折的
 frustration:挫折
+fry:油炸
 fry:煎
 fry:煎炸
-fry:油炸
 frying:煎
-fuck:干
 fuck off:滚蛋
 fuck you:去你的
+fuck:干
 fuel:燃料
 full:全部
-fully:完全地
 fully customizable:完全可定制的
-function:函数
+fully:完全地
 function of time:关于时间的函数
+function:函数
 functions:函数
-fundamental:基本的
 fundamental concept:基本概念
 fundamental concepts:基本概念
 fundamental force:基本力
+fundamental:基本的
 fungi:真菌
 fungus:真菌
 funnel:漏斗
@@ -368,7 +369,7 @@ fur:毛皮
 furniture:家具
 furry:有毛皮的
 further:进一步的
-fury:暴怒
 fury:勃然大怒
+fury:暴怒
 fusion:融合
 future:未来

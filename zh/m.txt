@@ -1,8 +1,8 @@
 macau:澳门
 macedonia:马其顿
-machine:机器
 machine learning:机器学习
 machine translation:机器翻译
+machine:机器
 macro:宏
 macromolecule:高分子
 macroscopic:宏观的
@@ -21,17 +21,16 @@ magnetic field:磁场
 magnitude:大小
 magnitude:强度
 mahatma:圣人
-maiden:处女的
 maiden flight:首飞
+maiden:处女的
 mail:邮件
 main:主要的
 maintain:维护
 maize:玉米
 majesty:陛下
+major problem:主要问题
 major:主要
 majority:大多数
-major problem:主要问题
-make:制造
 make a mistake:犯一个错误
 make changes:做出改变
 make land:靠岸
@@ -41,6 +40,7 @@ make money:赚钱
 make paper:造纸
 make sense:有道理
 make sure:确认
+make:制造
 making it challenging:使得它具有挑战性
 malawi:马拉维
 malay:马来语
@@ -56,8 +56,8 @@ malta:马耳他
 mammal:哺乳动物
 mammalian:哺乳动物的
 mammals:哺乳动物
-mammary:乳房的
 mammary gland:乳腺
+mammary:乳房的
 man:男人
 manage:管理
 management:管理
@@ -66,8 +66,8 @@ managers:经理们
 manchester:曼彻斯特市
 mandarin:普通话
 mandatory:强制的
-manga:日式漫画
 manga and anime:日式动漫
+manga:日式漫画
 mango:芒果
 mangosteen:山竹
 manhattan:曼哈顿
@@ -84,26 +84,26 @@ manual:手动的
 manually:手动地
 manufacture:制造
 manufacturer:制造商
-many:许多
 many celled:多细胞的
 many other:许多其他
 many years:许多年
+many:许多
 map:地图
 mar:毁
 marathon:马拉松赛跑
 march:游行
 margin:边缘空白
 marijuana:大麻
-marine:海的
 marine animal:海洋动物
+marine snow:海洋雪
+marine:海的
 mariner:海员
 marines:海军陆战队
-marine snow:海洋雪
 maritime:海的
 mark:标记
 marker:标记
-market:市场
 market place:集市
+market:市场
 marmoset:狨猴
 marriage:结婚
 married:已婚的
@@ -142,12 +142,13 @@ mauritius:毛里求斯
 max:麦克斯
 maxilla:上颌骨
 maximum:最大值
+may refer to:可以指
 may:可以
 mayan:玛雅人
 mayhem:伤害罪
 mayor:市长
-may refer to:可以指
 mazda:马自达
+me too:我也是
 me:我
 meal:餐
 mean:意思是
@@ -159,8 +160,8 @@ meanwhile:与此同时
 measure:测量
 measurement:测量
 measuring:测量
-meat:肉
 meat grinder:磨肉机
+meat:肉
 mebroqualone:甲溴喹酮
 mecca:麦加
 mechanical:机械的
@@ -171,15 +172,15 @@ mechanisms:机制
 mecloqualone:甲氯喹酮
 medal:奖牌
 media:媒体
-median:中央的
 median income:中等收入
-medical:医学的
+median:中央的
 medical care:医疗护理
 medical college:医学院
 medical device:医疗设备
 medical purposes:医学目的
 medical school:医学校
 medical thermometer:体温计
+medical:医学的
 medication:药
 medicine:医学
 medieval:中世纪的
@@ -191,46 +192,46 @@ melee:混战
 melon:瓜
 melopsittacus undulatus:虎皮鹦鹉
 melt:融化
-member:成员
 member of parliament:国会议员
 member of the united states congress:美国议会议员
-members:成员
+member:成员
 members of the united states congress:美国议会议员
+members:成员
 membrane:膜
 memorial:纪念碑
 memory:记忆
-men:男人们
-men and women:男男女女
 men and women:男人和女人
 men and women:男性和女性
-menopause:更年期
-men's basketball:男子篮球
+men and women:男男女女
 men's basketball coach:男子篮球教练
 men's basketball team:男子篮球队
 men's basketball tournament:男子篮球联赛
-menses:月经
+men's basketball:男子篮球
 men's footballers:男子足球运动员
 men's ice hockey:男子冰球
-men's soccer:男子足球
 men's soccer players:男子足球运动员
-menstruation:月经
+men's soccer:男子足球
 men's volleyball:男子排球
 men's world record:男子世界记录
-mental:心理的
+men:男人们
+menopause:更年期
+menses:月经
+menstruation:月经
 mental disorder:精神紊乱
 mental health:心理健康
 mental illness:精神病
+mental:心理的
 mention:提到
 menu:菜单
 meow:喵
-mercury:汞
 mercury:水星
+mercury:汞
 mercy:仁慈
 merge:合并
 mermaid:美人鱼
+mess hall:军队食堂
 message:消息
 messenger:信使
-mess hall:军队食堂
 meta:元
 metabolic:新陈代谢的
 metabolism:新陈代谢
@@ -245,12 +246,11 @@ methane:甲烷
 method:方法
 methodology:方法论
 methods:方法
-me too:我也是
 metre:米
 metric:度量
 metro:地铁
-mexican:墨西哥的
 mexican:墨西哥人
+mexican:墨西哥的
 mexico:墨西哥
 mice:老鼠
 michael:迈克尔
@@ -265,21 +265,21 @@ micrometer:微米
 micrometers:微米
 micronesia:密克罗尼西亚
 microscope:显微镜
-microscopic:微观的
 microscopic anatomy:微观解剖学
 microscopic size:微观大小
+microscopic:微观的
 microsecond:微妙
 microsoft:微软
 midday:中午
-middle:中间的
 middle age:中年
 middle ages:中世纪
 middle east:中东
-middle english:中世纪英语
 middle english literature:中古英语文学
+middle english:中世纪英语
+middle:中间的
 midnight:午夜
-midterm:中期
 midterm election:中期选举
+midterm:中期
 might:可能
 migrate:迁徙
 migration:迁徙
@@ -287,15 +287,16 @@ mike:迈克
 mild:温和的
 mile:英里
 miles:英里
+milestone:里程碑
 militant:好战的
 militarism:军国主义
-military:军队
 military and economic:军事和经济
 military base:军事基地
 military confrontation:军事对抗
 military coup:军事政变
 military deployment:军事部署
 military parade:阅兵
+military:军队
 milk:牛奶
 milking:挤奶
 mill:磨坊
@@ -304,23 +305,23 @@ millimeter:毫米
 millimeters:毫米
 millimetre:毫米
 millimetres:毫米
-million:百万
 million years ago:百万年前
+million:百万
 millisecond:毫秒
 mimic:模仿
 mince:切碎
 minced meat:磨肉
 mind:头脑
 minefield:雷区
-mineral:矿物
 mineral water:矿泉水
-minimum:最小的
+mineral:矿物
 minimum:最小值
+minimum:最小的
 minister:部长
 ministerial:内阁的
-ministry:政府部门
 ministry of defence:国防部
 ministry of foreign affairs:外交部
+ministry:政府部门
 minnesota:明尼苏达
 minor:次要
 minus:负号
@@ -351,8 +352,8 @@ moan:呻吟
 moaning:呻吟声
 moanings:呻吟声
 mobile:移动的
-model:模特
 model:模型
+model:模特
 modeling:建模
 modern:现代的
 modify:修改
@@ -366,13 +367,13 @@ moistest:最湿的
 moisture:湿润
 moldova:摩尔多瓦
 mole:内鬼
-molecular:分子的
 molecular biology:分子生物学
 molecular chemistry:分子化学
 molecular formula:分子式
 molecular geometry:分子几何
 molecular physics:分子物理学
 molecular science:分子科学
+molecular:分子的
 molecule:分子
 molecules:分子
 mollusca:软体动物
@@ -382,8 +383,8 @@ momentum:动量
 monaco:摩纳哥
 monarch:君主
 monarchy:君主制
-monastery:寺庙
 monastery:修道院
+monastery:寺庙
 monetary:关于钱的
 money:钱
 monger:小贩
@@ -406,15 +407,15 @@ moonlight:月光
 moose:牛鹿
 mop:拖把
 moral:道德的
-more:更多
 more and more:越来越多的
 more or less:或多或少
-moreover:此外
 more than:多于
+more:更多
+moreover:此外
 moringa:辣木
 morning:早晨
-moroccan:摩洛哥的
 moroccan:摩洛哥人
+moroccan:摩洛哥的
 morocco:摩洛哥
 morpheme:词素
 morphine:吗啡
@@ -422,34 +423,34 @@ morphological:形态学的
 morphology:形态学
 moscow:莫斯科
 mosque:清真寺
-most:大多数
 most important:最重要
 most of the time:大多数时候
 most popular:最流行的
+most:大多数
 motel:汽车旅馆
 moth:蛾
-mother:母亲
 mother in law:婆婆
 mother in law:岳母
+mother:母亲
 motherland:祖国
 motile:能动的
 motility:能动性
 motion:运动
 motivation:动机
+motor nerve:运动神经
 motorboat:快艇
 motorcycle:摩托车
-motor nerve:运动神经
 motorway:高速公路
 mount:登上
 mountain:山
 mountaineer:登山者
-mountaineering:登山
 mountaineering club:登山俱乐部
-mouse:耗子
+mountaineering:登山
 mouse:老鼠
+mouse:耗子
 mouth:嘴
-mouthful:满嘴的
 mouthful:拗口的
+mouthful:满嘴的
 mouthwash:漱口水
 move:移动
 movement:移动
@@ -457,8 +458,8 @@ movie:电影
 mow:割草
 mozambique:莫桑比克
 mtv:音乐电视
-much:许多
 much more complex:复杂得多
+much:许多
 mud:泥
 mudslide:滑坡
 mug:杯子
@@ -468,39 +469,39 @@ mulberry:桑椹
 mule:骡子
 multicellular:多细胞的
 multihull:多体船
-multiple:多的
 multiple integral:多重积分
-municipal:市政的
+multiple:多的
 municipal assembly:市议会
 municipal council:市政委员会
-municipality:自治区
 municipal water:自来水
+municipal:市政的
+municipality:自治区
 murder:谋杀
-muscle:肌肉
 muscle contraction:肌肉收缩
+muscle:肌肉
 musculoskeletal:肌骨的
-museum:博物馆
 museum of art:艺术博物馆
+museum:博物馆
 mushroom:蘑菇
 music:音乐
 musical:音乐的
 musician:音乐家
 musicology:音乐学
 muslim:穆斯林
+must not:一定不能
 must:必须
 mustelidae:鼬科
-must not:一定不能
 mutable:不稳定的
 mutation:突变
 mutilation:残害
-my:我的
-myanmar:缅甸
-myelin:髓磷脂
 my first job:我的第一份工作
 my first thought:我的第一个想法
 my friend:我的朋友
 my friends:我的朋友们
 my heart:我的心
+my:我的
+myanmar:缅甸
+myelin:髓磷脂
 myself:我自己
 mystical:神秘的
 mythology:神话

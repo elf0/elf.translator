@@ -18,45 +18,45 @@ unavailable:不可用的
 unclassified:未分类的
 uncle:叔父
 uncountable:不可数的
-under:下
 under controlled:受控的
+under:下
 undergarment:内衣
 underground:地下
 underneath:在...下面
+understand and appreciate:理解和欣赏
 understand:懂了吗
 understand:理解
-understand and appreciate:理解和欣赏
 underwater:水下的
 underwear:内衣
 undesirable:不想要的
 undo:撤销
 unexpectedly:非期望地
 unfair:不公平的
-unfamiliar:不熟悉
 unfamiliar with:不熟悉
+unfamiliar:不熟悉
 unfortunate:不幸的
 unfortunately:很遗憾
 unfree labour:不自由的工人
 unguligrade:蹄行的
 unhelpful:无帮助的
 unicellular:单细胞的
-uniform:统一的
-uniform:制服
 uniform way:统一的方式
+uniform:制服
+uniform:统一的
 union:联盟
 unique:唯一的
 unisex:不分性别的
 unit:单位
 unite:联合
-united:联合的
 united arab emirates:阿联酋
 united kingdom:英国
-united nations:联合国
 united nations security council:联合国安理会
-united states:美国
-united states census:美国普查
+united nations:联合国
 united states census bureau:美国普查局
+united states census:美国普查
 united states house of representatives elections:美国众议院选举
+united states:美国
+united:联合的
 universal:宇宙的
 universality:普遍性
 university of california:加利福尼亚大学
@@ -65,22 +65,24 @@ university of chicago:芝加哥大学
 university of oxford:牛津大学
 university president:大学校长
 unknown:不知道的
-unlabeled:未标记的
-unlabeled:未标注的
-unlabeled data:未标记数据
 unlabeled data:未标注数据
+unlabeled data:未标记数据
+unlabeled:未标注的
+unlabeled:未标记的
 unless:除非
 unlock:解锁
 unpleasant:让人不悦的
 unravel:解开
 unsuccessful:不成功的
-unsupervised:无监督的
 unsupervised training:无监督训练
+unsupervised:无监督的
 untargeted:非目标的
 unthinkable:不能想象的
 until:直到
 unused features:未使用的特征
 unwanted:不想要的
+up to you:取决于你
+up to you:由你决定
 up:向上
 update:更新
 upgrade:升级
@@ -91,8 +93,6 @@ upright:正直的
 uprising:起义
 upset:心烦
 uptight:死板
-up to you:取决于你
-up to you:由你决定
 uranium:铀
 uranus:天王星
 urban:城市的
@@ -102,22 +102,22 @@ urge:驱使
 urgency:急事
 urgent:紧急的
 urgently:急切地
-uric:尿的
 uric acid:尿酸
+uric:尿的
 url:统一资源定位符
 urology:泌尿外科
 uruguay:乌拉圭
 us:我们
 usa:美国
 usage:用法
-use:使用
 use case:用例
+use:使用
 used:用过的
 useful:有用的
 useless:无用的
-user:用户
 user interface:用户接口
 user name:用户名
+user:用户
 using:使用
 usually:通常地
 uterus:子宫

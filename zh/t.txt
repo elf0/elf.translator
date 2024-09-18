@@ -4,10 +4,10 @@ tag:标签
 tail:尾部
 taiwan:台湾
 tajikistan:塔吉克斯坦
-take:取
 take a moment to:花一些时间
 take it easy:放松
 take off:脱下
+take:取
 taliban:塔利班
 talk:谈话
 talking about:谈论
@@ -19,9 +19,9 @@ tanker:油轮
 tantalize:调戏
 tantalum:钽
 tanzania:坦桑尼亚
+tap water:自来水
 tap:龙头
 tape:磁带
-tap water:自来水
 target:目标
 task:任务
 taste:尝
@@ -34,10 +34,10 @@ tea:茶
 teach:教
 teacher:教师
 teak:柚木
-team:队
 team game:组队游戏
 team sport:组队运动
 team sports:组队运动
+team:队
 tear:撕裂
 teaspoon:茶匙
 teat:乳头
@@ -58,13 +58,13 @@ telecentre:电信中心
 telegraph:电报
 telegraphy:电报
 telephone:电话
-television:电视
 television series:电视剧
-tell:告诉
-tell me:告诉我
+television:电视
 tell me about your family:跟我讲讲你的家庭
 tell me everything:告诉我一切
 tell me why:告诉我为什么
+tell me:告诉我
+tell:告诉
 tellurium:碲
 temperature:温度
 template:模板
@@ -76,19 +76,19 @@ tendency:倾向
 tengri:腾格里
 tengrism:腾格里崇拜
 tennessee:田纳西州
-tennis:网球
 tennis player:网球运动员
+tennis:网球
 tension:紧张
 tensor:张量
 tent:帐篷
 tenth:第十
 terbium:铽
-term:术语
 term:学期
-terms and conditions:条款和条件
+term:术语
 terminology:术语
 termite:白蚁
 termites:白蚁
+terms and conditions:条款和条件
 terrace:梯田
 terrestrial:陆地的
 terrify:恐吓
@@ -102,19 +102,18 @@ terse:简洁的
 tesla:特斯拉
 test:测试
 texas:德克萨斯
-text:文本
-text corpora:文本集
 text corpora:文本语料库
-textile:纺织品
-textile arts:纺织艺术
+text corpora:文本集
 text to speech:文本转语音
+text:文本
+textile arts:纺织艺术
+textile:纺织品
 thai:泰语
 thailand:泰国
 thallium:铊
 than:比
 thank:感谢
 thanks:多谢
-that:那
 that is because:那是因为
 that is it:就是这样
 that is mine:那是我的
@@ -122,28 +121,26 @@ that is not what i said:那不是我说的
 that is right:正确
 that is what i like:那就是我所喜欢的
 that is why:那就是为什么
+that:那
 thaw:解冻
 the:这
 theater:剧场
 theatre:剧院
 thee:你
 theft:盗窃
-their:他们的
 their first:他们的第一个
+their:他们的
 them:他们
 theme:主题
 then:然后
 theology:神学
 theorem:定理
-theoretical:理论的
 theoretical discipline:理论学科
-theory:理论
+theoretical:理论的
 theory of computation:计算理论
+theory:理论
 therapeutic:治疗的
 therapy:疗法
-there:那里
-thereby:因此
-therefore:因此
 there is a lot of:有很多
 there is a village called:有一个村庄叫做
 there is a village known as:有一个村庄以...被知晓
@@ -159,38 +156,42 @@ there is no reason to doubt:没有理由怀疑
 there is nothing to be afraid of:没什么可怕的
 there must be a way:一定有办法
 there must be some way:一定有某种办法
+there:那里
+thereby:因此
+therefore:因此
 thermograph:绘温仪
 thermometer:温度计
 these:这些
-they:他们
 they do not even speak the language:他们甚至不说这种语言
+they:他们
 thick:浓的
 thigh:大腿
 think:想
-third:第三
 third party:第三方
-third person:第三人称
 third person singular:第三人称单数
+third person:第三人称
+third:第三
 thirst:渴
 thirsty:渴
 thirteen:十三
 thirty:三十
-this:这
 this article is about:这篇文章是关于
 this book:这本书
 this feature:这个特征
 this file:这个文件
-this is:这是
 this is because:这是因为
-this is the first time:这是第一次
 this is the first time i know:这是我第一次知道
+this is the first time:这是第一次
 this is why:这就是为什么
 this is your life:这是你的人生
+this is:这是
 this means that:这意味着
+this means that:這意味著
 this term:这个术语
 this time:这次
 this week:本周
 this year:今年
+this:这
 thomas:托马斯
 thorium:钍
 thoroughfare:通路
@@ -227,11 +228,11 @@ tiger:虎
 tight:紧的
 tilde:波浪号
 timber:木材
+time zone:时区
 time:时间
 times:乘
 times:次数
 timestamp:时间戳
-time zone:时区
 timezone:时区
 timor leste:东帝汶
 tin:锡
@@ -249,8 +250,8 @@ toes:脚趾
 together:一起
 toggle:绳栓
 togo:多哥
-toilet:厕所
 toilet paper:厕纸
+toilet:厕所
 tokyo:东京
 told:告诉过
 tolerance:容忍
@@ -263,12 +264,12 @@ tomb:墓室
 tomorrow:明天
 tone:声调
 tonga:汤加
-tongue:舌
 tongue depressor:压舌板
+tongue:舌
 tonight:今晚
 tony:托尼
-too:也
 too heavy:太重
+too:也
 took:拿
 tool:工具
 toolbar:工具栏
@@ -276,9 +277,9 @@ toolbox:工具箱
 toolchain:工具链
 tooth:牙
 toothpaste:牙膏
+top level:顶层
 top:顶部
 topic:主题
-top level:顶层
 topmost:最顶
 torch:火炬
 tornado:龙卷风
@@ -295,22 +296,22 @@ tour:旅游
 tourism:旅游业
 tourist:旅行者
 tournament:锦标赛
-towards:对
 towards:向
+towards:对
 towards:朝
 tower:塔
 towers:塔
-town:城镇
 town council:城镇委员会
-township:镇区
 town water:自来水
+town:城镇
+township:镇区
 toxic:有毒的
 toxin:毒素
 toy:玩具
 toyota:丰田
 track:痕迹
-trade:贸易
 trade and investment:贸易和投资
+trade:贸易
 trademark:商标
 tradition:传统
 traditional:传统的
@@ -323,17 +324,17 @@ trait:特征
 traitor:叛徒
 trajectory:飞行轨迹
 transducer:换能器
-transfer:传递
+transfer:中转
 transfer:传输
 transfer:传送
-transfer:迁移
-transfer:中转
+transfer:传递
 transfer:轉移
-transfer:转让
+transfer:转印
 transfer:转学
 transfer:转移
-transfer:转印
+transfer:转让
 transfer:转账
+transfer:迁移
 transform:变换
 transgender:变性
 transient:短暂的
@@ -345,8 +346,8 @@ translations:翻译
 transmission:传送
 transmit:发送
 transparency:透明
-transport:运输
 transport aircraft:运输机
+transport:运输
 transportation:运输
 transpose:调换
 transposition:变换
@@ -371,8 +372,8 @@ trick:技巧
 trick:诀窍
 tricks:把戏
 trigger:触发器
-trigonometric:三角法的
 trigonometric function:三角函数
+trigonometric:三角法的
 trigonometry:三角学
 trillion:万亿
 trinidad and tobago:特立尼达和多巴哥
@@ -383,15 +384,15 @@ trivial:琐碎的
 troop:军队
 troops:军队
 trophy:战利品
-tropical:热带的
 tropical region:热带地区
-truck:卡车
+tropical:热带的
 truck bomb:卡车炸弹
+truck:卡车
 true:真的
 trump:特朗普
 trunk:躯干
-trust:信任
 trust me:相信我
+trust:信任
 truth:真相
 try:尝试
 tsinghua university:清华大学
@@ -402,9 +403,9 @@ tummy:肚子
 tumor:肿瘤
 tungsten:钨
 tunisia:突尼斯
-turing:图灵
 turing complete:图灵完备
 turing test:图灵测试
+turing:图灵
 turkey:土耳其
 turkish:土耳其语
 turkmenistan:土库曼斯坦
@@ -425,8 +426,8 @@ twice:两次
 twilight:暮光
 twilight:曙光
 twist:扭曲
-two:二
 two years later:两年以后
+two:二
 type:类型
 typhoon:台风
 typical:典型的

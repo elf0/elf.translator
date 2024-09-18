@@ -5,8 +5,8 @@ wait:等
 waiting staff:餐馆服务员
 waitress:女服务员
 waitstaff:餐馆服务员
-wake:醒
 wake up:醒醒
+wake:醒
 wales:威尔士
 walk:步行
 walking stick:拐杖
@@ -18,22 +18,21 @@ wallpaper:壁纸
 walmart:沃尔玛
 walnut:核桃
 waltz:华尔兹舞
-want:想要
 want to know:想知道
 want to say:想说
 want to talk:想谈论
 want to tell:想告诉
-war:战争
+want:想要
 war and peace:战争与和平
+war:战争
 waray:瓦瑞语
 warfare:战争
 warlord:军阀
-warmth:温暖
 warm water:温水
+warmth:温暖
 warrior:战士
 warship:战舰
 wartime:战时
-was:是
 was awarded:被授予
 was born in:诞生于
 was built in:建于
@@ -41,20 +40,27 @@ was buried:被埋葬
 was called:被称为
 was closed:被关闭
 was established in:成立于
-washing machine:洗衣机
-washington:华盛顿
+was founded in:成立于
 was introduced:被引入
 was killed:被杀
-wasp:黄蜂
 was published in:出版于
+was:是
+washing machine:洗衣机
+washington:华盛顿
+wasp:黄蜂
 wastewater:废水
 watch:表
 watch:观看
+water column:水分层
+water park:水上乐园
+water polo:水球
+water quality:水质
+water vapor:水汽
+water vapour:水汽
 water:水
 waterbody:水体
 watercolor:水彩
 watercolour:水彩
-water column:水分层
 watercourse:水道
 waterfall:瀑布
 waterloo:滑铁卢
@@ -62,13 +68,8 @@ waterman:水手
 watermark:水印
 watermelon:西瓜
 watermill:水磨
-water park:水上乐园
-water polo:水球
 waterproof:防水的
-water quality:水质
 watershed:分水岭
-water vapor:水汽
-water vapour:水汽
 waterway:航道
 wave:波
 waveform:波形
@@ -78,93 +79,98 @@ wavy:波浪的
 wax:蜡
 way:办法
 way:路
+we all know:我们都知道
+we also:我们还
+we believe that:我们相信
+we believe that:我们认为
+we can:我们可以
+we do not have much time:我们没多少时间了
+we do not know enough about:我们对于...知道得不够多
+we found that:我们发现
+we have to fight:我们得战斗
+we have to:我们得
+we have:我们有
+we know that:我们知道
+we must:我们必须
+we need help:我们需要帮助
+we need:我们需要
+we should:我们应该
+we will never concede:我们绝不退让
+we will never give up:我们绝不放弃
+we will:我们将
+we won the war:我们赢得了战争
+we'll:我们会
 we:我们
 weak:弱的
-we also:我们还
 wealth:财富
 weapon:武器
 wear:穿戴
 weather:天气
 web:网
 website:网站
-we can:我们可以
-wedding:婚礼
 wedding anniversary:结婚纪念日
+wedding:婚礼
 wednesday:星期三
-we do not have much time:我们没多少时间了
-we do not know enough about:我们对于...知道得不够多
 weed:杂草
 week:周
 weekday:工作日
 weekend:周末
-we have:我们有
-we have to:我们得
-we have to fight:我们得战斗
 weight:重量
 weird:怪异的
-welcome:欢迎
 welcome back:欢迎回来
+welcome:欢迎
 welfare:福利
-well:井
-well:良好地
-we'll:我们会
 well being:福利
 well defined:定义良好的
 well known:众所周知的
+well:井
+well:良好地
 welsh literature in english:威尔士英语文学
 welsh poetry in english:威尔士英语诗歌
-we must:我们必须
-we need:我们需要
-we need help:我们需要帮助
 went:去
 were:是
-we should:我们应该
-west:西
 west coast of the united states:美国西海岸
-western:西方的
+west:西
 western sahara:西撒哈拉
 western world:西方世界
+western:西方的
 wetland:湿地
 wetlands:湿地
-we will:我们将
-we will never concede:我们绝不退让
-we will never give up:我们绝不放弃
-we won the war:我们赢得了战争
 whale:鲸
 what:什么
 whatever:无论什么
 wheat:小麦
 wheel:轮子
 whelk:螺
-when:何时
-when he:当他
 when he first:当他第一次
-when i:当我
-when i first:当我第一次
+when he:当他
 when i first came to:当我第一次来到
 when i first met:当我第一次见到
 when i first saw:当我第一次看到
 when i first started:当我第一次开始
-when she:当她
+when i first:当我第一次
+when i:当我
 when she first:当她第一次
+when she:当她
 when they:当他们
 when to give up:何时放弃
-when we:当我们
-when we first:当我们第一次
 when we first started:当我们第一次开始
-when you:当你
+when we first:当我们第一次
+when we:当我们
 when you are ready:当你准备好时
 when you first:当你第一次
-where:哪儿
+when you:当你
+when:何时
 where am i:我在哪儿
 where are you:你们在哪里
 where are you:你在哪里
-whereas:反之
 where is it:它在哪儿
+where:哪儿
+whereas:反之
 whether:是否
 whey:乳清
-which:哪一个
 which one:哪一个
+which:哪一个
 while:当
 whip:鞭子
 whisker:触须
@@ -174,35 +180,35 @@ whisper:窃窃私语
 whisperer:窃窃私语者
 whistle:吹口哨
 whistling:吹口哨
-white:白色
 white pepper:白胡椒
 white sand:白沙
 white sesame:白芝麻
 white supremacism:白人至上主义
 white supremacist:白人至上主义者
 white supremacy:白人至上
-who:谁
+white:白色
 who are you:你是谁
 who do you think you are:你以为你是谁
-whole:整个
-whole genome sequencing:整个基因组测序
-whore:婊子
-whorehouse:妓院
-whose:谁的
 who won:谁赢了
 who would:谁会
 who you are:你是谁
-why:为何
+who:谁
+whole genome sequencing:整个基因组测序
+whole:整个
+whore:婊子
+whorehouse:妓院
+whose:谁的
 why did you lie to me:你为什么骗我
 why did you stop him:你为什么阻止他
 why do not you do:你为什么不做
 why me:为什么是我
-why not:为什么不
 why not do:为什么不做
-wide:宽
-widely known:被广泛知晓
+why not:为什么不
+why:为何
 wide range:广泛
 wide ranging:广泛
+wide:宽
+widely known:被广泛知晓
 widespread:广泛的
 widow:寡妇
 widower:鳏夫
@@ -211,12 +217,12 @@ wife:妻子
 wig:假发
 wiki:维基
 wikipedia:维基百科
-wild:荒野
 wild animal:野生动物
+wild:荒野
 wildfire:野火
 wildlife:野生生物
-will:将
 will be the first:将是第一个
+will:将
 william:威廉
 willow:柳树
 wilson:威尔森
@@ -239,8 +245,8 @@ wish:希望
 witch:女巫
 with:与
 withdraw:撤回
-withdrawal:撤退
 withdrawal:体外射精
+withdrawal:撤退
 within:内
 without:没有
 witness:证人
@@ -251,13 +257,13 @@ woman:女人
 womb:子宫
 wombat:袋熊
 wombs:子宫
-women:女人们
 women and children:妇女和儿童
 women's world record:女子世界记录
+women:女人们
 won:赢了
-wood:木头
-wood pulp:木浆
 wood pulp paper:木浆纸
+wood pulp:木浆
+wood:木头
 woodworking:木工活
 woody:木的
 wool:羊毛
@@ -267,24 +273,24 @@ workday:工作日
 worker:工人
 works:工厂
 workstation:工作站
-world:世界
 world championship:世界冠军
 world championships:世界锦标赛
 world cup:世界杯
 world food programme:世界粮食计划署
-world record:世界记录
 world record holder:世界记录保持者
-world war:世界大战
+world record:世界记录
 world war i:第一次世界大战
 world war ii:第二次世界大战
+world war:世界大战
+world:世界
 worldwide:全世界的
 worm:蠕虫
 wormhole:虫洞
 worry:担心
 worsen:恶化
 worthwhile to do:值得做
-would:将
 would like to know:想要知道
+would:将
 wound:伤
 wounded:受伤的
 wrath:愤怒

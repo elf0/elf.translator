@@ -1,51 +1,28 @@
-﻿i:我
 i agree with you:我赞同你
+i agree with:我同意
 i am crazy:我疯了
 i am exhausted:我已经筋疲力尽了
 i am joking:我开玩笑的
 i am lucky:我很幸运
-i am not:我不是
 i am not sure:我不确定
 i am not telling you anything:我什么都不会告诉你
+i am not:我不是
 i am scared:我被吓到了
 i am sorry:对不起
 i am terrified:我被吓到了
 i am tired:我累了
 i asked:我问道
-i believe:我相信
+i believe that:我相信
 i believe you:我相信你
+i believe:我相信
 i can:我可以
-ice:冰
-iceberg:冰山
-ice cream:冰淇淋
-ice cube:冰块
-ice cubes:冰块
-ice field:冰地
-icefield:冰地
-ice hockey:冰球
-iceland:冰岛
-ice sheet:冰原
-ice skates:溜冰鞋
-ice water:冰水
-ichthyologist:鱼类学家
-ichthyology:鱼类学
-icon:图标
 i could:我可以
-id:标识符
-idea:主意
-ideal:理想的
-identifier:标识符
-ideology:意识形态
-idiot:白痴
-idiotic:愚蠢的
-ido:伊都语
-idol:神像
 i do not believe this:我不相信这个
 i do not believe you:我不相信你
 i do not blame you for being a scumbag:我不责备你成为一个小人
 i do not buy it:我不相信
-i do not care:我不在乎
 i do not care if you believe me:我不关心你是否相信我
+i do not care:我不在乎
 i do not even know what that means:我甚至不知道那意味着什么
 i do not even know why:我甚至不知道为什么
 i do not even know you:我甚至不认识你
@@ -55,11 +32,11 @@ i do not fear you:我不怕你
 i do not have time for this shit:我没时间耗在这堆屎上
 i do not have time to explain:我没时间解释
 i do not have to ask him anything:我不必问他任何事情
-i do not know:我不知道
 i do not know how to say this:我不知道怎么开口
 i do not know what to say:我不知道该说什么了
 i do not know who you are:我不知道你是谁
 i do not know why:我不知道为什么
+i do not know:我不知道
 i do not like it:我不喜欢它
 i do not like to repeat myself:我不喜欢重复我的话
 i do not mind:我不介意
@@ -67,7 +44,6 @@ i do not need this:我不需要这个
 i do not need you to tell me who i am:我不需要你来告诉我我是谁
 i do not really have the fear of death:我真的不惧死亡
 i do not regret what i have done:我不后悔我所做的
-i do not think:我不认为
 i do not think he should:我不认为他应该
 i do not think i can:我不认为我能
 i do not think i should:我不认为我应该
@@ -80,86 +56,132 @@ i do not think they should:我不认为他们应该
 i do not think we should:我不认为我们应该
 i do not think you should:我不认为你应该
 i do not think you understand me:我不认为你懂我
+i do not think:我不认为
 i do not trust anyone:我不信任任何人
-i do not understand:我不明白
 i do not understand you guys at all:我一点都不懂你们这些家伙
+i do not understand:我不明白
 i do not wanna do this:我不想这样做
 i do not want to die:我不想死
 i do what i like to do:我喜欢做什么就做什么
-if:如果
 i feel:我觉得
+i have a better idea:我有一个更好的主意
+i have a dream:我有一个梦想
+i have a:我有一个
+i have no choice:我没得选
+i have no:我没有
+i have to talk to you:我得和你谈谈
+i have:我有
+i hope you are ready:我希望你准备好了
+i hope you:我希望你
+i hope:我希望
+i just do not want anybody:我只是不想任何人
+i just:我只是
+i know nothing:我什么都不知道
+i know:我知道
+i lied to you:我骗了你
+i love you:我爱你
+i mean it:我是认真的
+i miss you:我想你了
+i need to know:我需要知道
+i promise:我保证
+i remember the first time i:我记得我第一次
+i remember the first time:我记得第一次
+i remember:我记得
+i said:我说道
+i think the first:我认为第一个
+i think:我认为
+i was unable:我不能
+i will be back:我会回来的
+i will repeat what i said one more time:我再次重复我所说的
+i will see what i can do:我来看看我能做什么
+i will see what i can find:我来看看我能发现什么
+i:我
+ice cream:冰淇淋
+ice cube:冰块
+ice cubes:冰块
+ice field:冰地
+ice hockey:冰球
+ice sheet:冰原
+ice skates:溜冰鞋
+ice water:冰水
+ice:冰
+iceberg:冰山
+icefield:冰地
+iceland:冰岛
+ichthyologist:鱼类学家
+ichthyology:鱼类学
+icon:图标
+id:标识符
+idea:主意
+ideal:理想的
+identifier:标识符
+ideology:意识形态
+idiot:白痴
+idiotic:愚蠢的
+ido:伊都语
+idol:神像
 if he:如果他
 if i:如果我
-iftar:开斋饭
 if the first:如果第一个
 if they:如果他们
+if we want:如果我们想要
 if we:如果我们
+if you are:如果你是
+if you have:如果你有
+if you want:如果你想
+if you want:如果您想
 if you:如果你
 if your:如果你的
-if you want:如果你想
+if:如果
+iftar:开斋饭
 ignore:忽略
-i have:我有
-i have a better idea:我有一个更好的主意
-i have no:我没有
-i have no choice:我没得选
-i have to talk to you:我得和你谈谈
-i hope:我希望
-i hope you:我希望你
-i hope you are ready:我希望你准备好了
-i just:我只是
-i just do not want anybody:我只是不想任何人
-i know:我知道
-i know nothing:我什么都不知道
-i lied to you:我骗了你
 ill:病的
-illegal:非法的
 illegal immigrant:非法移民
 illegal immigrants:非法移民
+illegal:非法的
 illicium verum:八角
 illinois:伊利诺斯
 illusionist:魔术师
 illustrator:插图画家
-i love you:我爱你
 image:图像
 imaginary number:虚数
-i mean it:我是认真的
-i miss you:我想你了
 imitation:模仿
+immediate vicinity:紧邻
+immediate vicinity:附近
 immediate:立刻的
 immediately:立刻地
-immediate vicinity:附近
-immediate vicinity:紧邻
 immersion:浸礼
 immigrant:迁入民
 immigrate:迁入
 immigration:迁入
 imminent:即将到来的
-immune:免疫的
 immune response:免疫反应
 immune system:免疫系统
+immune:免疫的
 immunology:免疫学
 immutable:不变的
 impair:削弱
 impede:阻碍
+imperial oil limited:帝国石油有限公司
 imperial:帝国的
 imperialism:帝国主义
-imperial oil limited:帝国石油有限公司
 implementation:实现
 implicit differentiation:隐微分
 imply:暗示
 import:导入
 importance:重要性
 important:重要的
-improve:改进
+impression:印象
 improve performance:改进性能
+improve:改进
 impulse:冲动
 impulsive:冲动的
 impulsively:冲动地
 in:里面
 inaccurate:不准确的
 inadequate:不够的
-inbreeding:近亲繁殖
 inbreeding depression:近交衰退
+inbreeding:近亲繁殖
 incentive:激励
 incident:事故
 incise:切割
@@ -174,16 +196,16 @@ incredible:不可思议的
 increment:增量
 incubation:孵化
 indeed:事实上
-indefinite:不确定的
 indefinite integral:不定积分
+indefinite:不确定的
 indefinitely:无限地
 indent:缩进
-independence:独立
 independence day:独立日
-independent:独立的
-independently:独立地
+independence:独立
 independent survival:独立生存
 independent variable:自变量
+independent:独立的
+independently:独立地
 index:索引
 india:印度
 indian:印度人
@@ -200,9 +222,8 @@ indonesian:印尼人
 indonesian:印尼语
 indra:因陀罗
 induction variable:归纳变量
-industry:工业
 industry standard:工业标准
-i need to know:我需要知道
+industry:工业
 inequality:不等式
 inertial:惯性的
 inexperience:缺乏经验
@@ -227,8 +248,8 @@ influence:影响力
 informal:非正式的
 informally:非正式地
 informatics:信息学
-information:信息
 information theory:信息理论
+information:信息
 infrastructure:基础
 infrequent:不常见
 ingredient:食材
@@ -243,16 +264,16 @@ injection:注射
 injure:伤害
 inland:内陆的
 inlet:窄水湾
-inline:内联
 inline skates:单排滑鞋
+inline:内联
 inner product:内积
 innocent:无辜的
 innovative:革新的
-inorganic:无机的
 inorganic compound:无机化合物
+inorganic:无机的
 inpatient:住院病人
-input:输入
 input device:输入设备
+input:输入
 inquiry:调查
 insect:昆虫
 insecten:昆虫
@@ -260,21 +281,21 @@ insects:昆虫
 insensitive:不敏感的
 insert:插入
 insist:坚持
-insoluble:不可溶解的
 insoluble in alcohol:不溶于酒精
 insoluble in cold water:不溶于冷水
 insoluble in pure water:不溶于纯水
 insoluble in water:不溶于水
+insoluble:不可溶解的
 insomnia:失眠
 install:安装
 instance:实例
 instant:瞬间
-instantaneous:瞬间的
 instantaneous speed:瞬时速度
-instead:替代
+instantaneous:瞬间的
 instead of:替换
-institute:学院
+instead:替代
 institute of technology:技术学院
+institute:学院
 institution:制度
 institutions:机构
 instruct:指导
@@ -294,6 +315,7 @@ intel:英特尔
 intellectual:知识分子
 intellectuals:知识分子
 intelligence:智力
+intelligent:智能的
 intend:打算
 intensify:加强
 intensive:加强的
@@ -303,21 +325,19 @@ interaction:交互
 interactions with each other:彼此交互
 interactive:交互的
 intercept:截取
-interest:利息
+interest paid:已付利息
 interest:兴趣
+interest:利息
 interested in:有兴趣于
 interesting:有趣的
-interest paid:已付利息
 interface:接口
 interjection:感叹词
 internal:内部的
-international:国际的
 international airport:国际机场
 international atomic time:国际原子时
 international conference:国际会议
 international cooperation:国际合作
 international exhibition:国际展览会
-internationalism:国际主义
 international law:国际法
 international organization:国际组织
 international peace:国际和平
@@ -325,21 +345,24 @@ international terrorism:国际恐怖主义
 international trade:国际贸易
 international unit:国际单位
 international waters:公海
+international:国际的
+internationalism:国际主义
 internet:互联网
 internship:实习
 interpolation:插值
 interpret:解释
 interpretation:解释
 interpreter:讲解员
-interrupt:打断
 interrupt:中断
+interrupt:打断
 intersect:相交
 intersex:双性人
 interstate:州际高速公路
 intertwine:缠绕
 interval:间隔
-interview:采访
+intervention:干预
 interview with:采访
+interview:采访
 intestine:肠子
 into:进入
 intracellular:细胞内的
@@ -352,8 +375,8 @@ intuitively:直觉地
 invalid:无效的
 invalidate:无效
 invasion:入侵
-invasive:入侵
 invasive species:入侵物种
+invasive:入侵
 invent:发明
 invention:发明
 inventor:发明家
@@ -377,16 +400,12 @@ ionize:电离
 ionized:电离的
 ions:离子
 iowa:艾奥瓦州
-i promise:我保证
 iran:伊朗
-iranian:伊朗的
 iranian:伊朗人
+iranian:伊朗的
 iraq:伊拉克
 iraqi:伊拉克的
 ireland:爱尔兰
-i remember:我记得
-i remember the first time:我记得第一次
-i remember the first time i:我记得我第一次
 iridium:铱
 irish:爱尔兰人
 irish:爱尔兰语
@@ -394,12 +413,21 @@ iron:铁
 irrational:不合理的
 irregular:不规则的
 irregularly shaped:不规则形状的
-is:是
-is about:是关于
-i said:我说道
 is a member of the democratic party:是一个民主党员
-is an important first step:是重要的第一步
 is a village:是一个村庄
+is about:是关于
+is an important first step:是重要的第一步
+is loaded:被加载
+is located in:位于
+is native to europe:原产于欧洲
+is native to north america:原产于北美洲
+is native to south america:原产于南美洲
+is native to western north america:原产于北美洲西部
+is native to:原产于
+is no longer:不再是
+is only the first step:只是第一步
+is there anything that distracted you:有什么使你分心吗
+is:是
 islam:伊斯兰教
 islamic:伊斯兰的
 islamism:伊斯兰主义
@@ -407,23 +435,13 @@ islamist:伊斯兰教徒
 island:岛
 isle:小岛
 islet:小岛
-is loaded:被加载
-is located in:位于
-is native to:原产于
-is native to europe:原产于欧洲
-is native to north america:原产于北美洲
-is native to south america:原产于南美洲
-is native to western north america:原产于北美洲西部
-is no longer:不再是
 isoindoline:异吲哚啉
 isolation:隔离
-is only the first step:只是第一步
 israel:以色列
-israeli:以色列的
 israeli:以色列人
+israeli:以色列的
 issue:问题
 istanbul:伊斯坦布尔
-is there anything that distracted you:有什么使你分心吗
 it:它
 italia:意大利
 italian:意大利人
@@ -431,25 +449,10 @@ italian:意大利语
 italy:意大利
 itch:瘙痒
 itchy:痒的
-it does not matter:没关系
 item:项
 items:项
 iteration:迭代
-it has been estimated:据估算
-i think:我认为
-i think the first:我认为第一个
-it is raining cats and dogs:外面下着大雨
-it is raining heavily:外面下着大雨
-it is raining outside:外面下着雨
-it is the first:它是第一个
 its:它的
 itself:它自己
-it was her first:这是她第一次
-it was not your fault:那不是你的错
 ivory coast:科特迪瓦
 ivy:常春藤
-i was unable:我不能
-i will be back:我会回来的
-i will repeat what i said one more time:我再次重复我所说的
-i will see what i can do:我来看看我能做什么
-i will see what i can find:我来看看我能发现什么

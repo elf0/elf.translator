@@ -1,5 +1,5 @@
-pacific:太平洋
 pacific region:太平洋区域
+pacific:太平洋
 package:包
 pad:垫子
 paddle:划桨
@@ -11,9 +11,9 @@ paint:油漆
 painter:画家
 pair:对
 pakistan:巴基斯坦
-pakistani:巴基斯坦的
-pakistani:巴基斯坦人
 pakistani politician:巴基斯坦政客
+pakistani:巴基斯坦人
+pakistani:巴基斯坦的
 palace:宫殿
 palau:帕劳
 paleontology:古生物学
@@ -21,9 +21,9 @@ palestine:巴勒斯坦
 palestinian:巴勒斯坦人
 palladium:钯
 palm:棕榈
+panama:巴拿马
 panda:大熊猫
 panda:熊猫
-panama:巴拿马
 panorama:全景
 panther:黑豹
 paper:纸
@@ -36,14 +36,14 @@ parade:游行
 paradise:天堂
 paragraph:段
 paraguay:巴拉圭
-parallel:平行的
 parallel lines:平行线
+parallel:平行的
 parameter:参数
-parasite:寄生虫
 parasite:寄生生物
-parasitic:寄生的
+parasite:寄生虫
 parasitic disease:寄生虫病
 parasitic worm:寄生虫
+parasitic:寄生的
 parasitism:寄生
 parasitology:寄生生物学
 paratroop:伞兵部队
@@ -57,8 +57,8 @@ parish:教区
 park:公园
 parkway:景观大道
 parliament:国会
-parliamentary:议会的
 parliamentary system:议会制
+parliamentary:议会的
 parlor:客厅
 paroxysm:突发
 paroxysmal:突发的
@@ -78,8 +78,8 @@ passenger:乘客
 passion:激情
 passport:护照
 password:密码
-past:过去的
 past and present:过去和现在
+past:过去的
 paste:粘贴
 pastor:牧师
 patent:专利
@@ -99,9 +99,9 @@ patronage:光顾
 patronage:赞助
 pattern:模式
 paul:保罗
+pave the way:铺路
 pave:铺
 pavement:人行道
-pave the way:铺路
 pavilion:亭子
 paw:兽掌
 pay:付款
@@ -141,30 +141,30 @@ pentagram:五角星
 pentanedione:戊二酮
 pentium:奔腾处理器
 peony:牡丹
-people:人们
-people:人民
 people's party:人民党
 people's republic:人民共和国
+people:人们
+people:人民
 peppermint:薄荷
 pepsi:百事可乐
 pepsico:百事公司
 peptide:肽
 per:每
+percent encoding:百分号编码
 percent:百分比
 percentage:百分比
-percent encoding:百分号编码
 perfect:完美
 perfect:完美的
 perform:执行
-performance:表演
 performance:性能
+performance:表演
 performing arts:表演艺术
 perfume:香水
 perhaps:或许
-period:时期
 period:周期
-periodic:周期的
+period:时期
 periodic table:周期表
+periodic:周期的
 peripheral:周围的
 periscope:潜望镜
 permission:许可
@@ -177,20 +177,20 @@ persian:波斯语
 persistence:坚持
 persistent:坚持的
 person:个人
-personal:私人的
 personal information:个人信息
 personal life:私生活
+personal:私人的
 personnel:职员
 peru:秘鲁
 pest:害虫
 pet:宠物
 peter:彼得
 petite:娇小的
-phantom:幻觉
 phantom limb:幻肢
 phantom pain:幻痛
-phase:阶段
+phantom:幻觉
 phase space:相空间
+phase:阶段
 phenallylmal:5-苯基-5-烯丙基巴比妥酸
 phenallylmal:苯烯比妥
 phenomena:现象
@@ -213,8 +213,6 @@ photonics:光子学
 photorealistic:照片级逼真的
 phrase:短语
 phylum:门
-physical:身体的
-physical:物理的
 physical constant:物理常量
 physical exercise:身体锻炼
 physical law:物理定律
@@ -222,6 +220,8 @@ physical properties:物理属性
 physical science:物理学
 physical system:物理系统
 physical therapy:物理治疗
+physical:物理的
+physical:身体的
 physician:内科医生
 physicist:物理学家
 physics:物理
@@ -252,41 +252,42 @@ piss:尿
 pistol:手枪
 pitcher:罐子
 pixel:像素
+place of birth:出生地
 place:地方
 placeholder:占位符
-place of birth:出生地
 plagiarism:抄袭
 plain:平坦的
 plan:计划
 plane:平面
 planet:行星
-planetary:行星的
 planetary system:行星系统
+planetary:行星的
 plant:植物
-plants:植物
 plantigrade:掌行的
+plants:植物
+plastic surgery:整形外科
 plastic:塑料
 plastics:塑膠
-plastic surgery:整形外科
 plate:盘子
 platform:平台
 platinum:铂
-platoon:排
 platoon:小队
+platoon:排
 platypus:鸭嘴兽
 play:玩
 player:玩家
 players:玩家
 playground:游乐场
-please:请
-please do not:请不要
 please do not delete:请别删
 please do not do it:请别那样做
 please do not hesitate:请别犹豫
-please explain why:请解释为什么
+please do not:请不要
 please explain why it is unnecessary:请解释为什么它是不必要的
-pleasure:欢愉
+please explain why:请解释为什么
+please note that:请注意
+please:请
 pleasure:乐意
+pleasure:欢愉
 plot:绘制
 plural:复数
 plurals:复数
@@ -297,27 +298,26 @@ plutonium:钚
 poem:诗
 poet:诗人
 poetry:诗
+point of view:观点
+point out:指出
 point:点
 point:要点
 pointer:指针
-point of view:观点
-point out:指出
 points:点
 poisonous:有毒的
 poker:扑克
 poland:波兰
-polar:极性的
 polar bear:北极熊
 polar coordinate:极坐标
-polarization:两极分化
+polar:极性的
 polarity:极性
-police:警察
+polarization:两极分化
 police dog:警犬
 police service of northern ireland:北爱尔兰警察局
+police:警察
 policy:政策
 polish:波兰语
 politic:策略的
-political:政治的
 political and cultural:政治和文化
 political and economic:政治和经济
 political and military:政治和军事
@@ -326,6 +326,7 @@ political conflict:政治冲突
 political equality:政治平等
 political leader:政治领袖
 political prisoner:政治犯
+political:政治的
 politician:政客
 politician:政治家
 politics:政治
@@ -336,8 +337,8 @@ polymorphism:多态性
 polynomial:多项式
 polynomials:多项式
 polyp:息肉
-polyps:息肉
 polyploid:多倍体
+polyps:息肉
 pomegranate:石榴
 pond:池塘
 ponytail:马尾辫
@@ -347,13 +348,13 @@ poor:贫穷的
 pop:弹出
 pope:教皇
 popular:流行的
-population:人口
 population census:人口普查
 population data:人口数据
 population density:人口密度
+population:人口
 pork:猪肉
-pornographic:色情的
 pornographic film:色情电影
+pornographic:色情的
 pornography:色情文学
 porridge:粥
 port:端口
@@ -382,21 +383,22 @@ pottery:陶器
 pound:英镑
 poverty:贫穷
 powder:粉末
-powdered:粉末状的
 powdered egg:蛋粉
 powdered milk:奶粉
-power:电力
+powdered:粉末状的
+power function:幂函数
 power:力量
 power:幂
+power:电力
 powerboat:快艇
 powerful:有力的
-power function:幂函数
 powerless:无力的
 powerlessness:无力
 practice:实践
 praise:赞美
 pray:祈祷
 prayer:祈祷
+pre-training:预训练
 precipitate:沉淀
 precipitate:陷入
 precipitation:沉积
@@ -412,8 +414,8 @@ preferred:首选的
 prefix:前缀
 pregnancy:妊娠
 pregnant:怀孕的
-prehistoric:史前的
 prehistoric animal:史前动物
+prehistoric:史前的
 prejudice:偏见
 premier:首相
 prepare:准备
@@ -423,17 +425,16 @@ presence:存在
 present:现在的
 presenter:主持人
 preserve:保持
-president:总统
-presidential:总统的
-presidential election:总统选举
 president obama:奥巴马总统
 president of the united states:美国总统
-press:按
+president:总统
+presidential election:总统选举
+presidential:总统的
 press:出版社
+press:按
 pressure:压力
 presume:假定
 pretend:假装
-pre-training:预训练
 pretty sure:十分确定
 prevent:预防
 previous:前一个
@@ -442,16 +443,16 @@ prey:猎物
 price:价格
 prick:鸡巴
 pridnestrovie:德涅斯特
-primary:基本的
 primary key:主键
+primary:基本的
 primate:灵长目动物
-prime:主要的
 prime minister:总理
+prime:主要的
 primitive:基本的
 prince:王子
 princess:公主
-princeton:普林斯顿
 princeton university:普林斯顿大学
+princeton:普林斯顿
 principle:原理
 print:打印
 prison:监狱
@@ -471,28 +472,28 @@ process:处理
 process:过程
 processor:处理器
 produce:生产
-producer:生产者
 producer:制作人
+producer:生产者
 product:产品
-products:产品
-production:产品
 production and consumption:生产和消费
+production:产品
 products and services:产品和服务
+products:产品
 profession:专业
-professional:职业的
-professional:专业的
 professional footballer:职业足球运动员
-professionalism:专业精神
 professional player:职业玩家
 professional player:职业运动员
+professional:专业的
+professional:职业的
+professionalism:专业精神
 professionals:专业人员
 professor:教授
 profile:轮廓
 profound:极深的
 program:程序
 programmable:可编程
-programming:编程
 programming language:编程语言
+programming:编程
 programs:程序
 progress:进度
 progression:进度
@@ -514,10 +515,10 @@ propagate:传播
 propagation:传播
 propamidine:普罗帕脒
 propel:推进
-propeller:螺旋桨
 propeller:推进器
-properties:属性
+propeller:螺旋桨
 properties of life:生命属性
+properties:属性
 property:属性
 property:拥有物
 prophecy:预言
@@ -527,8 +528,8 @@ proposed:提出
 proposed:提议
 propulsion:推进
 prose:散文
-prostitute:妓
 prostitute:卖淫
+prostitute:妓
 prostitution:卖淫
 protactinium:镤
 protect:保护
@@ -549,31 +550,31 @@ province:省
 provisions:规定
 proxy:代理
 pseudo:伪
-psychiatric:精神病学的
 psychiatric disorder:精神紊乱
+psychiatric:精神病学的
 psychiatrist:精神病医生
 psychiatry:精神病学
-psychic:心灵的
 psychic power:心灵的力量
+psychic:心灵的
 psychoactive:影响精神的
 psychology:心理学
 psychopath:变态
-public:公共的
-publication:出版
 public domain:公共域
 public health:公共卫生
+public:公共的
+publication:出版
 publish:发表
 publisher:出版商
 puerto rico:波多黎各
 puke:吐
 puking:呕吐
-pull:拉
 pull over:停车
-pulmonary:肺的
+pull:拉
 pulmonary artery:肺动脉
-pulp:纸浆
+pulmonary:肺的
 pulp magazine:廉价浆纸杂志
 pulp magazines:廉价浆纸杂志
+pulp:纸浆
 pulps:廉价浆纸
 pump:泵
 punch:拳击
@@ -587,9 +588,9 @@ pupil:瞳孔
 puppet:傀儡
 puppet:木偶
 puppy:小狗
-pure:纯的
 pure breed:纯种
 pure water:纯水
+pure:纯的
 purge:清除
 purify:净化
 purine:嘌呤
@@ -601,10 +602,10 @@ pursuit:追击
 push:推
 pushpin:图钉
 pussy:懦夫
-put:放
-putin:普京
 put off:推迟
 put on:穿上
+put:放
+putin:普京
 puzzle:迷
 pyongyang:平壤
 pythagoras:毕达哥拉斯

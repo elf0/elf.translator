@@ -4,41 +4,41 @@ sacred:神圣的
 sad:悲伤的
 sadist:虐待狂
 safe:安全的
-safety:安全
 safety belt:安全带
 safety first:安全第一
+safety:安全
 said:说
 sailing ship:帆船
 sailing yacht:帆艇
-sailor:水手
 sailor moon:美少女战士
-saint:圣
+sailor:水手
 saint christopher and nevis:圣基茨和尼维斯
 saint lucia:圣卢西亚
 saint vincent and the grenadines:圣文森特和格林纳丁斯
+saint:圣
 salad:沙拉
 salary:工资
 salinity:盐度
-salt:盐
 salt lake city:盐湖城
 salt water:咸水
+salt:盐
 samarium:钐
-same:相同的
 same sex marriage:同性婚姻
+same:相同的
 samoa:萨摩亚
 sample:样本
 samsung:三星
+san diego:圣地亚哥
+san francisco:旧金山
+san marino:圣马力诺
 san:圣
-sanctuary:庇护所
 sanctuary:圣地
+sanctuary:庇护所
 sand:沙
 sandbox:沙盒
-san diego:圣地亚哥
 sandwich:三明治
-san francisco:旧金山
-sanitary:卫生的
 sanitary pad:卫生巾
-san marino:圣马力诺
+sanitary:卫生的
 sao tome and principe:圣多美和普林西比
 sapphire:蓝宝石
 saripidem:沙立吡旦
@@ -70,16 +70,16 @@ scenario:情形
 scenery:风景
 schedule:计划表
 schizophrenia:精神分裂症
-school:学校
 school discipline:校规
 school district:校区
+school:学校
 schools:学校
 schooner:多桅帆船
-science:科学
 science fiction:科幻小说
 science of life:生命科学
-scientific:科学的
+science:科学
 scientific law:科学定律
+scientific:科学的
 scientist:科学家
 scientists and engineers:科学家和工程师
 scope:范围
@@ -102,53 +102,53 @@ screencast:屏幕记录
 screenshot:屏幕快照
 script:脚本
 sculpt:雕刻
-sea:海
 sea bathing:海水浴
+sea level:海平面
+sea urchin:海胆
+sea water:海水
+sea:海
 seafood:海鲜
 seahorse:海马
-sea level:海平面
 seaman:海员
 seaport:海港
 search:搜索
 season:季节
-seat:座位
 seat belt:安全带
+seat:座位
 seatbelt:安全带
-sea urchin:海胆
-sea water:海水
 seawater:海水
 secateurs:修枝剪
-second:第二的
-secondary:第二的
 second derivative:二阶导数
 second person singular:第二人称单数
 second step:第二步
+second:第二的
+secondary:第二的
 secret:秘密
-secretary:秘书
 secretary of state:国务卿
+secretary:秘书
 secretion:分泌物
 section:节
 secure:安全的
 security:安全
 seduce:诱惑
 seduction:诱惑
+see you again:再见到你
 see:看见
 seek:寻找
 seems:看起来
-see you again:再见到你
 seize:抓住
 seizure:发作
 select:选择
 selection:选择
 selenium:硒
-self:自己
 self driving car:自动驾驶汽车
+self portrait:自画像
+self similar:自相似的
+self:自己
 selfie:自拍
 selfish:自私的
 selfless:无私的
 selflessness:无私
-self portrait:自画像
-self similar:自相似的
 semantic:语义的
 semantics:语义学
 semicircle:半圆
@@ -164,13 +164,13 @@ sensible:可感知的
 sensitive:敏感的
 sensor:传感器
 sent:气味
-sentence:句子
 sentence:判处
-sentenced to:被判处
+sentence:句子
 sentenced to death:被判处死刑
 sentenced to imprisonment for life:被判处无期徒刑
 sentenced to life imprisonment:被判处无期徒刑
 sentenced to life in prison:被判处无期徒刑
+sentenced to:被判处
 sentinel:哨兵
 sentry:哨兵
 sents:气味
@@ -196,9 +196,9 @@ service:服务
 services and investment:服务和投资
 services and products:服务和产品
 sesame:芝麻
-set:集合
-set:设置
 set fire:纵火
+set:设置
+set:集合
 settle:殖民
 settlement:殖民地
 seven:七
@@ -206,13 +206,12 @@ seventeen:十七
 seventh:第七
 seventieth:第七十
 seventy:七十
-several:几个
 several times:几次
+several:几个
 severe:严重的
 sew:缝纫
 sewing:缝纫
 sex ratio:性别比例
-sexual:性的
 sexual abuse:性虐待
 sexual activity:性活动
 sexual arousal:性唤醒
@@ -225,8 +224,6 @@ sexual fetishism:性崇拜
 sexual harassment:性骚扰
 sexual health:性健康
 sexual intercourse:性交
-sexuality:性别
-sexually:性地
 sexual maturity:性成熟
 sexual misconduct:性冒犯
 sexual orientation:性取向
@@ -236,36 +233,40 @@ sexual reproduction:有性繁殖
 sexual selection:性选择
 sexual slavery:性奴隶
 sexual violence:性暴力
+sexual:性的
+sexuality:性别
+sexually:性地
 seychelles:塞舌尔
-shadow:阴影
 shadow:影子
+shadow:阴影
 shallot:葱
-shallow:浅的
 shallow water:浅水
+shallow:浅的
 shaman:萨满教巫医
 shamanism:萨满教
-shame:羞耻
 shame on you:你应该感到羞耻
+shame:羞耻
 shannon:香农
 share:分享
 sharer:共享者
 shark:鲨鱼
 sharks:鲨鱼
 sharp:锋利的
-she:她
-shear:修剪
-shears:大剪刀
-sheep:绵羊
+she added that:她补充说
 she and her:她和她的
 she is a girl:她是一个女孩
 she is a woman:她是一个女人
 she is the mother of the child:她是这个孩子的母亲
+she said:她说
+she says:她说
+she:她
+shear:修剪
+shears:大剪刀
+sheep:绵羊
 shellfish:贝类
 shelter:庇护所
 shemale:人妖
 sheriff:治安官
-she said:她说
-she says:她说
 shield:盾
 ship:船
 shipbuilding:造船
@@ -279,16 +280,16 @@ shopping center:购物中心
 shopping for what:买什么
 shore:海边
 shoreline:海岸线
+short circuit:短路
+short story:短篇小说
 short:短的
 shortage:缺乏
-short circuit:短路
 shortcut:快捷方式
-short story:短篇小说
-should:应该
 should be:应该是
 should have:应该有
-should not:不应该
 should not be confused with a:不应该与a混淆
+should not:不应该
+should:应该
 shout:呼喊
 shovel:铲
 show:显示
@@ -300,8 +301,8 @@ siberian:西伯利亚的
 sibling:兄弟姐妹
 sicily:西西里
 sick:不舒服的
-side:边
 side effect:副作用
+side:边
 sidewalk:人行道
 siege:攻城
 siege:攻城战
@@ -309,24 +310,24 @@ sierra leone:塞拉利昂
 sight:视觉
 signal:信号
 signature:签名
-signed:有符号的
 signed integer:有符号整数
+signed:有符号的
 significant:有意义的
 silica:二氧化硅
-silicon:硅
 silicon dioxide:二氧化硅
+silicon:硅
 silk:丝绸
 silkworm:蚕
 silla:新罗
 silt:淤塞
-silver:银子
 silver medal:银牌
 silver medalist:银牌获得者
+silver:银子
 similar:相似的
 simon:西蒙
 simple:简单
-simplified:简化的
 simplified version:简化版
+simplified:简化的
 simplify:简化
 simply:简单地
 sin:罪过
@@ -335,17 +336,17 @@ sine:正弦
 sing:唱
 singapore:新加坡
 singer:歌手
-single:单个的
 single celled:单细胞的
 single integral:一重积分
+single:单个的
 singular:单数的
-sink:水槽
 sink water:自来水
+sink:水槽
 sino:中国的
 sinusitis:鼻窦炎
 sir:先生
-sister:姐妹
 sister in law:小姨子
+sister:姐妹
 site:用地
 situation:情形
 six:六
@@ -359,9 +360,9 @@ skates:滑鞋
 skeleton:骨架
 sketch:勾画
 skill:技能
-skin:皮肤
 skin flora:皮肤菌群
 skin microbiota:皮肤微生物群
+skin:皮肤
 skirt:裙子
 sky:天空
 skyline:天际线
@@ -369,18 +370,18 @@ slang:俚语
 slash:斜杠
 slave:奴隶
 slavery:奴隶制
-sleep:睡
 sleep deprivation:睡眠剥夺
+sleep with her:和她上床
+sleep with her:和她做爱
+sleep with her:和她睡觉
+sleep:睡
 sleeper:入睡者
 sleeping beauty:睡美人
 sleepless:失眠的
 sleeplessness:失眠
 sleepwalk:梦游
-sleep with her:和她上床
-sleep with her:和她睡觉
-sleep with her:和她做爱
-sleepy:瞌睡来的
 sleepy:困的
+sleepy:瞌睡来的
 slice:切片
 slices:切片
 slick:光滑的
@@ -399,11 +400,11 @@ slug:鼻涕虫
 slumber:浅睡
 slurp:发出噪音地吃喝
 slut:荡妇
-small:小的
 small animal:小型动物
+small intestine:小肠
+small:小的
 smaller:更小的
 smallest:最小的
-small intestine:小肠
 smart phone:智能手机
 smart watch:智能手表
 smell:嗅
@@ -420,26 +421,35 @@ sneeze:喷嚏
 sniper:狙击手
 snippet:片断
 snooker:台球
+snow leopard:雪豹
 snow:雪
 snowflake:雪花
-snow leopard:雪豹
+so beautiful:如此美丽
+so forth:等等
+so i:所以我
+so on and so forth:如此继续下去
+so on:如此这般
+so on:等等
+so powerful:如此强大
+so that:为了
+so that:以便
+so we:所以我们
 so:如此
 soak:浸泡
 soap:肥皂
-so beautiful:如此美丽
 sober:未醉的
 sober:醒酒
 soccer:足球
-social:社会的
 social and economic:社会和经济
 social and political:社会和政治
 social group:社团
-socialism:社会主义
-socialist:社会主义者
 social media:社交媒体
 social relationship:社会关系
 social science:社会科学
 social scientist:社会科学家
+social:社会的
+socialism:社会主义
+socialist:社会主义者
 society:社会
 sociocultural:社会文化的
 sociologist:社会学家
@@ -447,122 +457,113 @@ sociology:社会学
 sock:短袜
 sock:袜子
 socks:袜子
-sodium:钠
 sodium chloride:氯化钠
+sodium:钠
 sofa:沙发
-so forth:等等
 soften:软化
-software:软件
 software and hardware:软件和硬件
-so i:所以我
-soil:地表
-soil:土壤
+software:软件
 soil scientist:土壤科学家
-solar:太阳的
+soil:土壤
+soil:地表
 solar eclipse:日食
 solar energy:太阳能
 solar system:太阳系
+solar:太阳的
 sold:卖
 soldier:士兵
 sole:脚底板
-solid:固体的
 solid metal:固态金属
 solid state:固态
+solid:固体的
 solitary:独自生存的
 solomon islands:所罗门群岛
-soluble:可溶解的
 soluble in alcohol:溶于酒精
 soluble in boiling water:溶于沸水
 soluble in hot water:溶于热水
 soluble in warm water:溶于温水
 soluble in water:溶于水
+soluble:可溶解的
 solution:解决方案
 solutions:解决方案
-solve:解决
 solve a problem:解决一个问题
-solvent:溶剂
-solver:解算器
 solve the case:解决这个案例
 solve the issue:解决这个问题
 solve the problem:解决这个问题
 solve these problems:解决这些问题
 solve this problem:解决这个问题
+solve:解决
+solvent:溶剂
+solver:解算器
 soma:肉体
 somali:索马里
 somalia:索马里
 somaliland:索马里兰
-somatic:肉体的
 somatic cell:体细胞
 somatic cells:体细胞
+somatic:肉体的
 some:一些
-someone:某人
 someone like you:有人喜欢你
-something:东西
+someone:某人
 something else:其它一些东西
+something:东西
 sometimes:有时
 somewhere:某处
 somnambulate:梦游
+son in law:女婿
+son of a bitch:婊子养的
 son:儿子
 song:歌
 songs:歌
-son in law:女婿
-son of a bitch:婊子养的
 sony:索尼
-so on:等等
 soon:很快
-so on:如此这般
-so on and so forth:如此继续下去
-so powerful:如此强大
 sorghum:高粱
-sorry:抱歉
 sorry:对不起
+sorry:抱歉
 sort:种类
-so that:为了
-so that:以便
 soul:灵魂
-sound:声音
 sound effect:音效
+sound:声音
 soup:汤
-source:源
-source code:源代码
-sources:源
 sour milk:酸奶
-south:南
+source code:源代码
+source:源
+sources:源
 south africa:南非
 south african:南非的
 south american:南美洲的
 south bay:南湾
 south carolina:南卡罗来纳州
-southeast:东南
-southeast asia:东南亚
-southern:南方的
 south korea:韩国
 south korean:韩国的
 south ossetia:南奥塞梯
 south sudan:南苏丹
 south wales:南威尔士
+south:南
+southeast asia:东南亚
+southeast:东南
+southern:南方的
 southwest:西南
 sovereign state:主权独立国家
 sovereignty:主权
-soviet:苏维埃
 soviet union:苏联
-so we:所以我们
+soviet:苏维埃
 soy:酱油
 soybean:大豆
-space:空间
-spacecraft:宇宙飞船
 space and time:空间和时间
 space station:空间站
 space time:时空
+space:空间
+spacecraft:宇宙飞船
 spade:铲
 spain:西班牙
-spam:灌水
 spam:垃圾信息
 spam:垃圾邮件
-span:跨度
+spam:灌水
 span a to b:跨越a到b
-spanish:西班牙的
+span:跨度
 spanish:西班牙人
+spanish:西班牙的
 spanish:西班牙语
 spanking:打屁股
 spark:火花
@@ -582,11 +583,11 @@ specified:指定的
 specify:指定
 spectrum:光谱
 specular:镜面的
-speech:说话
-speech:语音
 speech recognition:语音识别
 speech synthesis:语音合成
 speech to text:语音转文本
+speech:语音
+speech:说话
 speed:速度
 speedboat:快艇
 spell:拼写
@@ -594,11 +595,12 @@ sphecidae:泥蜂科
 sphere:球
 spices:香料
 spinach:菠菜
-spinal:脊柱的
 spinal cord:脊髓
+spinal:脊柱的
 spine:脊柱
 spinster:剩女
 spirit:精神
+spiritual:精神的
 splice:拼接
 split:分开
 spokesman:发言人
@@ -620,28 +622,28 @@ sprint:短跑
 sprinter:短跑运动员
 sprinters:短跑运动员
 squad:班
-square:方的
 square foot:平方英尺
 square inch:平方英寸
 square mile:平方英里
 square root:平方根
 square yard:平方码
+square:方的
 squat:蹲
-squatter:霸占者
 squatter:蹲着的人
+squatter:霸占者
 squid:鱿鱼
 squirrel:松鼠
 sri lanka:斯里兰卡
 stab:刺杀
-stable:稳定的
 stabbing:刺杀
+stable:稳定的
 stack:栈
 stadium:体育馆
 stadium:运动场
 staff:杖
 stage:阶段
-stainless:不锈的
 stainless steel:不锈钢
+stainless:不锈的
 stamp:邮票
 stance:姿态
 standard:标准
@@ -652,12 +654,12 @@ starlike:像星星的
 start:开始
 starvation:饥饿
 starve:饿死
+state terrorism:国家恐怖主义
+state university:州立大学
 state:国家
 state:州
 state:状态
 statement:陈述
-state terrorism:国家恐怖主义
-state university:州立大学
 static:静态的
 station:站
 statism:集权主义
@@ -665,10 +667,10 @@ statistic:统计
 statistics:统计学
 statue:雕像
 status:地位
-stay:停留
 stay away from her:离她远点
 stay safe:注意安全
 stay where you are:呆在原地
+stay:停留
 steak:肉排
 steal:偷
 steel:钢
@@ -677,11 +679,11 @@ stem:茎
 step child:继孩
 step daughter:继女
 step father:继父
-stephen:史蒂芬
 step kid:继孩
 step mother:继母
 step sibling:继兄弟姐妹
 step son:继子
+stephen:史蒂芬
 sternutation:喷嚏
 steve:史蒂夫
 still:静止的
@@ -698,25 +700,25 @@ storm:风暴
 story:故事
 storyline:故事线
 storytelling:讲故事
+straight line:直线
 straight:性取向正常的
 straight:直的
 straightforward:直接的
-straight line:直线
 strain:紧张
-strategic:战略的
 strategic airlifter:战略运输机
+strategic:战略的
 strategy:策略
 straw:秸秆
 strawberry:草莓
 stream:流
-street:街
 street prostitute:站街女
+street:街
 stress:压力
 stretch:拉伸
 string:串
-strip:剥离
 strip club:脱衣舞夜总会
 strip joint:脱衣舞夜总会
+strip:剥离
 stroke:中风
 strong:强壮的
 strontium:锶
@@ -726,8 +728,8 @@ stub:存根
 student:学生
 students:学生们
 studio:工作室
-study:学科
 study:学习
+study:学科
 sturdier:更强壮的
 sturdy:强壮的
 style:风格
@@ -738,8 +740,8 @@ sub:子
 subclass:子类
 subconscious:潜意识
 subcontinent:次大陆
-subcutaneous:皮下的
 subcutaneous tissue:皮下组织
+subcutaneous:皮下的
 subdirectory:子目录
 subdivision:细分
 subject:主题
@@ -757,16 +759,16 @@ subunit:子单位
 suburb:市郊
 subway:地铁
 success:成功
-successful:成功的
 successful career:成功的职业生涯
+successful:成功的
 successfully:成功地
 successor:继任者
 succinct:简洁的
-such:如此
 such as:例如
+such:如此
+suck off:口交
 suck:吸
 sucking off:口交
-suck off:口交
 sudan:苏丹
 sudden:突然的
 suffer:遭受
@@ -775,16 +777,16 @@ sufficient:充足的
 suffix:后缀
 sugar:糖
 suggest:建议
-suicide:自杀的
 suicide bombing:自杀式爆炸
+suicide:自杀的
 suit:适合
 sulfur:硫
 sumatra:苏门答腊
 summary:摘要
 summit:首脑会议
 sumo:相扑
-sun:太阳
 sun bathing:日光浴
+sun:太阳
 sunblock:防晒霜
 sundown:日落
 sunlight:阳光
@@ -800,8 +802,8 @@ supernova:超新星
 supernovas:超新星
 superset:超集
 supervise:监督
-supervised:监督的
 supervised training:受监督的训练
+supervised:监督的
 support:支持
 supported:被支持
 suppose:假设
@@ -809,12 +811,12 @@ suppress:抑制
 suppression:镇压
 supremacism:至上主义
 supremacist:至上主义者
-supreme:最高的
-supreme court:最高法院
 supreme court of the united states:美国最高法院
+supreme court:最高法院
+supreme:最高的
 sure:确信的
-surface:表面
 surface water:地表水
+surface:表面
 surgeon:外科医生
 surgery:外科
 surgical:外科的
@@ -826,8 +828,8 @@ surrealism:超现实主义
 surrender:投降
 surveillance:监视
 survey:审视
-survival:生存
 survival of the fittest:适者生存
+survival:生存
 sushi:寿司
 suspect:怀疑
 suspected:被怀疑的
@@ -852,8 +854,8 @@ sword:剑
 sydney:悉尼
 syllable:音节
 symbol:符号
-symmetric:对称的
 symmetric about:关于...对称
+symmetric:对称的
 symmetrically:对称地
 symmetry:对称
 sympathetic nervous system:交感神经系统
@@ -865,11 +867,11 @@ synonym:同义词
 synonyms:同义词
 syntax:语法
 synthesis:合成
-synthetic:人造的
 synthetic element:人造元素
 synthetic life:人造生命
+synthetic:人造的
 syphilis:梅毒
 syria:叙利亚
+system wide:系统范围
 system:系统
 systems:系统
-system wide:系统范围

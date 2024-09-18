@@ -1,7 +1,7 @@
 rabbit:兔
 raccoon:浣熊
-race:竞赛
 race:种族
+race:竞赛
 racial equality:种族平等
 racing driver:赛车手
 racism:种族主义
@@ -9,29 +9,29 @@ racist:种族主义者
 radar:雷达
 radiator:散热器
 radii:半径
-radio:无线电
 radio station:电台
 radio stations:广播电台
+radio:无线电
 radium:镭
 radius:半径
 radon:氡
 rage:暴怒
 rail:铁轨
 railroad:铁路
-railway:铁路
 railway station:火车站
+railway:铁路
+rain gauge:雨量计
 rain:雨
 rainbow:彩虹
 rainfall:降雨
 rainfall:降雨量
 rainforest:雨林
-rain gauge:雨量计
 rainwater:雨水
-rainy:下雨的
 rainy day:下雨天
 rainy night:雨夜
 rainy season:多雨的季节
 rainy weather:下雨的天气
+rainy:下雨的
 raisin:葡萄干
 rake:钉耙
 rally:集会
@@ -39,8 +39,8 @@ ram:撞击
 ramadan:斋月
 ramming attack:冲撞攻击
 random:随机
-range:范围
 range:值域
+range:范围
 rank:等级
 ransom:赎金
 ransomware:勒索软件
@@ -59,29 +59,30 @@ rasterisation:光栅化
 rasterize:光栅化
 rat:耗子
 rate:比率
-rather:宁可
 rather than:而不是
+rather:宁可
 ratio:比例
 ratiocination:推理
+rational function:有理函数
+rational number:有理数
 rational:合理的
 rational:有理数
 rationale:基本原理
-rational function:有理函数
-rational number:有理数
 raw:未加工的
 ray:光线
-reaction:反馈
 reaction:反应
+reaction:反馈
+read more about:阅读更多关于
 read:读
 readability:可读性
 reader:读者
 ready:准备好的
+real number:实数
 real:真的
 realism:现实主义
-realistic:逼真的
 realistic:现实的
+realistic:逼真的
 really:真正地
-real number:实数
 reason:原因
 reasonable:合理的
 reassessment:重新评估
@@ -105,27 +106,27 @@ recover:恢复
 rectangle:矩形
 rectangular:矩形的
 recursive:递归的
-red:红色
 red black tree:红黑树
-redirect:重定向
 red light district:红灯区
+red:红色
+redirect:重定向
 redo:重做
 reduce:减少
 redundant:冗余的
 reef:礁
+refer to:指
 refer:引用
 referee:裁判
+reference manual:参考手册
 reference:参考
 reference:引用
-reference manual:参考手册
 references:参考
 references:参考文献
 references:参考资料
 referendum:全民投票
-referred to:指
 referred to as:被叫做
+referred to:指
 refers to:指
-refer to:指
 reflectivity:反射率
 reflex:反射
 refractory:顽固的
@@ -148,35 +149,35 @@ reinforcement:增强
 reinstate:恢复
 reject:拒绝
 relate:联系
-related:相关的
 related work:相关工作
+related:相关的
 relation:关系
 relationship:关系
 relative:亲人
 relatively:相对地
+release energy:释放能量
 release:释放
 released:释放的
-release energy:释放能量
 relevant:有关的
 reliable:可靠的
 relic:遗物
 relief:浮雕
-relieve:缓解
 relieve pain:缓解疼痛
+relieve:缓解
 religion:宗教
-religious:宗教的
 religious belief:宗教信仰
+religious:宗教的
 rely on:依赖于
 remember:记住
 remove:移除
 renaissance:文艺复兴
 renault:雷诺
 render:渲染
-renewable:可再生的
 renewable electricity:可再生电力
 renewable energy:可再生能源
 renewable power:可再生能源
 renewable resource:可再生资源
+renewable:可再生的
 renunciation:放弃
 repair:维修
 repeal:废除
@@ -185,35 +186,35 @@ replaceability:可替代性
 replaceable:可替代的
 reply:回复
 report:报告
-represent:表示
 represent as:表示成
+represent:表示
 representation:表示
 representative:代表
 reproduction:繁殖
 reproductive organ:生殖器官
-republic:共和国
-republican:共和国的
-republican party:共和党
 republic of china:中华民国
+republic:共和国
+republican party:共和党
+republican:共和国的
 request:请求
 require:需要
 required:被需要的
 requirement:需求
 requirements:需求
-rescue:救援
 rescue exercise:救援练习
+rescue:救援
+research and development:研究和开发
+research paper:研究论文
 research:研究
 researcher:研究员
 researchers:研究员
-research and development:研究和开发
-research paper:研究论文
 resemble:类似
 resentful:怨恨的
 reserve:保留
 reset:重置
 residence:住处
-residential:住宅的
 residential area:住宅区
+residential:住宅的
 resign:辞去
 resin:树脂
 resolution:分辨率
@@ -226,10 +227,10 @@ rest:休息
 restaurant:餐馆
 restaurants:餐馆
 restore:恢复
-restrict:限制
 restrict:约束
-restriction:限制
+restrict:限制
 restriction:约束
+restriction:限制
 result:结果
 resulting in mass civilian casualties:导致大量平民伤亡
 results:结果
@@ -241,9 +242,9 @@ retinopathy:视网膜病
 retire:退休
 retirement:退休
 retrieve:取回
-return:返回
-return to:回到
 return to the united states:返回美国
+return to:回到
+return:返回
 reusability:可重用性
 reuse:重用
 reveal:揭示
@@ -266,29 +267,29 @@ rhine:莱茵河
 rhinoceros:犀牛
 rhodium:铑
 rhyme:押韵
-rice:大米
 rice noodle:米线
 rice noodles:米线
+rice:大米
 rich:丰富的
 rich:富裕的
 richard:理查德
 riddle:谜语
 ridge:山脊
 rifle:步枪
-right:对的
-right:权利
-right:右
 right ascension:赤经度
 right branch:右分支
-rights:权利
 right wing:右翼
+right:右
+right:对的
+right:权利
+rights:权利
 rigid body:刚体
 rind:皮
 ring:戒指
 rio de janeiro:里约热内卢
 risk:风险
-river:河
 river water:河水
+river:河
 road:路
 roads:路
 roadside bomb:路边炸弹
@@ -303,8 +304,8 @@ roger:听到了
 role:角色
 roll:滚动
 roller skates:滚轮滑鞋
-roman:罗马人
 roman catholic:罗马天主教的
+roman:罗马人
 romania:罗马尼亚
 romanian:罗马尼亚语
 romanization:罗马字母化
@@ -314,31 +315,31 @@ romifidine:罗米非定
 rommel:隆美尔
 rood:路德
 rook shooting:狩乌鸦
+room temperature:室温
 room:房间
 roommate:室友
-room temperature:室温
 rooster:公鸡
 root:根
 rope:麻绳
 rose:玫瑰
 rosemary:迷迭香
-rotary:旋转的
 rotary wing aircraft:旋翼飞机
+rotary:旋转的
 rotate:旋转
 rotten:腐烂的
 rough:粗糙的
-round:圆的
 round down:向下取整
 round up:向上取整
+round:圆的
 rouse:唤醒
 route:路线
 router:路由器
 row:行
-royal:皇家的
 royal australian air force:澳大利亚皇家空军
 royal family:皇室
-rubber:橡胶
+royal:皇家的
 rubber band:橡皮筋
+rubber:橡胶
 rubidium:铷
 ruby:红宝石
 rudder:舵
@@ -352,14 +353,14 @@ rumor:谣言
 run:跑
 run:运行
 rune:字符
-running:运行
 running on:运行在
 running water:自来水
-rural:乡村的
-rural district:农村地区
+running:运行
 rural district:乡村地区
-russia:俄国
+rural district:农村地区
+rural:乡村的
 russia and china:俄罗斯和中国
+russia:俄国
 russian:俄国人
 russian:俄语
 rust:铁锈

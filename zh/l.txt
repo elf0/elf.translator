@@ -1,8 +1,8 @@
 label:标签
-labeled:已标记的
-labeled:已标注的
-labeled data:已标记数据
 labeled data:已标注数据
+labeled data:已标记数据
+labeled:已标注的
+labeled:已标记的
 labor:分娩
 labor:工人
 laboratory:实验室
@@ -16,30 +16,30 @@ lahore:拉合尔
 lake:湖
 lamb:羊羔
 lamp:灯
-land:陆地
 land army:陆军
+land:陆地
 landing:登陆
 landing:着陆
 landman:石油工人
 landmark:地标
 landscape:风景
 landslide:滑坡
-language:语言
 language features:语言特征
+language:语言
 languages:语言
 laos:老挝
 laotian:老挝语
 laptop:笔记本电脑
-large:大的
 large animal:大型动物
 large intestine:大肠
 large scale:大规模的
+large:大的
 largest:最大的
 laser:激光
-last:最后的
 last time:上次
 last week:上周
 last year:去年
+last:最后的
 late:迟的
 later:以后
 latest:最后的
@@ -59,8 +59,8 @@ lawsuit:民事诉讼
 layer:层
 layout:布局
 lazily:懒惰地
-lead:领导
 lead:铅
+lead:领导
 leader:领袖
 leaf:叶
 league:联盟
@@ -79,14 +79,14 @@ lecturers:讲师
 led:发光二极管
 lee:李
 leek:韭菜
-left:左
 left branch:左分支
+left wing:左翼
+left:左
 leftmost:最左
 leftover:残留物
-left wing:左翼
-legal:合法的
 legal guardian:法定监护人
 legal term:法律术语
+legal:合法的
 legend:传说
 legendary:传奇的
 legion:军团
@@ -94,8 +94,8 @@ legislate:立法
 legislation:立法
 legislative:立法的
 legitimate:合法的
-legitimation:合法化
 legitimation of power:权力的合法化
+legitimation:合法化
 lego:乐高
 leiodidae:球蕈甲科
 leisure:闲暇
@@ -105,21 +105,21 @@ length:长度
 leopard:豹
 lesbian:女同性恋
 lesotho:莱索托
-less:少的
 less developed country:欠发达国家
-lesson:课程
 less than:小于
-let:让
+less:少的
+lesson:课程
 let me out:让我出去
 let me repeat what i said:让我重复我所说的
 let me see what i can do for you:让我看看能为你做些什么
 let me take a look:让我看看
+let us:让我们
 let's get started:让我们开始吧
 let's go:我们走
+let:让
 letter:信
 letter:字母
 lettuce:生菜
-let us:让我们
 leukemia:白血病
 level:等级
 lever:杠杆
@@ -139,64 +139,64 @@ lie:说谎
 lie:躺卧
 lie:躺臥
 liechtenstein:列支敦士登
-life:生命
 life form:生命形式
 life on earth:地球上的生命
 life science:生命科学
 life span:寿命
+life:生命
 lifetime:一生
 lift:举起
+light novel:轻小说
+light year:光年
 light:光
 lighthouse:灯塔
 lightning:闪电
-light novel:轻小说
 lightweight:轻量级的
-light year:光年
-lignified:木的
 lignified tissue:木组织
+lignified:木的
 lignify:木化
-like:喜欢
-like dogs:喜欢狗
 like dogs:像狗一样
+like dogs:喜欢狗
 like the first:就像第一
+like:喜欢
 likewise:同样地
 limb:肢
-limbic:边缘的
 limbic system:边缘系统
+limbic:边缘的
 limit:极限
 limit:限制
 limits:极限
 lincoln:林肯
-line:线
-lineal descendant:直系后代
-linear:线性的
-linear algebra:线性代数
-linear function:线性函数
 line by line:一行接一行
 line feed:换行
+line:线
+lineal descendant:直系后代
+linear algebra:线性代数
+linear function:线性函数
+linear:线性的
 linguistic:语言的
 linguistics:语言学
 link:连接
 linnaeus:林奈
 lion:狮子
-lipstick:唇膏
 lipstick:口红
+lipstick:唇膏
 liquid:液体
 liquidation:清算
 lirequinil:利瑞喹尼
 list:列表
 listed:列出的
-listen:听
 listen up:听好
+listen:听
 listeria:李斯特菌
 literary:文学的
 literature:文学
 lithium:锂
 lithuania:立陶宛
 litter:产仔
-little:很少的
 little girl:女童
 little girl:小女孩
+little:很少的
 live:活的
 livelihood:生计
 liver:肝
@@ -207,9 +207,9 @@ lizard:蜥蜴
 llama:羊驼
 load:加载
 lobster:龙虾
-local:本地的
 local fast food chain:本地快餐连锁
 local government:地方政府
+local:本地的
 locate:定位
 location:位置
 lock:锁
@@ -217,24 +217,24 @@ lockheed:洛克希德
 locomotion:移动
 log:日志
 logarithm:对数
-logarithmic:对数的
 logarithmic function:对数函数
+logarithmic:对数的
 logic:逻辑
-logical:逻辑的
 logical consequence:逻辑结论
+logical:逻辑的
 logo:商标
 london:伦敦
+long live the king:国王万岁
+long live:国万岁
 long:长的
 longitude:经度
-long live:国万岁
-long live the king:国王万岁
 look:看
 looks like:看起来像
 loop:环
 loot:战利品
 lord:主人
-los angeles:洛杉矶
 los angeles times:洛杉矶时报
+los angeles:洛杉矶
 lose:丢失
 lossless:无损的
 losslessly:无损地
@@ -244,17 +244,17 @@ louis:路易斯
 louisiana:路易斯安那州
 love:爱
 lover:爱人
-low:低的
-lower:降低
-lower respiratory tract:下呼吸道
-lowest:最低的
 low water:潮谷
+low:低的
+lower respiratory tract:下呼吸道
+lower:降低
+lowest:最低的
 lt:小于
 luck:运气
 lucky:幸运的
 luhansk:卢甘斯克
-lunar:月亮的
 lunar eclipse:月食
+lunar:月亮的
 lunatic:疯子
 lunch:午餐
 lung:肺

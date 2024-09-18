@@ -26,8 +26,8 @@ carp:鲤鱼
 cat:猫
 caterpillar:毛毛虫
 cattle:家牛
-chameleon:变色龙
 chameleon:变色蜥蜴
+chameleon:变色龙
 chicken:鸡
 chimpanzee:黑猩猩
 cicada:蝉
@@ -40,16 +40,16 @@ dinosaurs:恐龙
 dog:狗
 dolphin:海豚
 domestic animal:家养动物
-domesticated animal:驯养动物
 domestic cat:家猫
 domestic dog:家犬
+domesticated animal:驯养动物
 donkey:驴子
 dove:鸽子
 dragon:龙
 dragonfly:蜻蜓
 duck:鸭
-dung beetle:蜣螂
 dung beetle:屎壳郎
+dung beetle:蜣螂
 eagle:鹰
 eel:鳝鱼
 elf:精灵
@@ -74,8 +74,8 @@ helminths:寄生虫
 homo sapiens:人类
 horse:马
 housefly:家蝇
-human:人类
 human beings:人类
+human:人类
 hydra:多头蛇怪
 invertebrate:无脊椎动物
 jellyfish:水母
@@ -101,8 +101,8 @@ mule:骡子
 ox:牛
 oyster:牡蛎
 panther:黑豹
-parasite:寄生虫
 parasite:寄生生物
+parasite:寄生虫
 parasitic worm:寄生虫
 parrot:鹦鹉
 peacock:孔雀
@@ -120,8 +120,8 @@ rabbit:兔
 rat:耗子
 rooster:公鸡
 sable:黑貂
-seahorse:海马
 sea urchin:海胆
+seahorse:海马
 serpent:蛇
 shark:鲨鱼
 sheep:绵羊

@@ -1,11 +1,11 @@
 babbage:巴贝奇
 baby:婴儿
-bachelor:学士
 bachelor of arts:文学士
 bachelor of science:理学士
-back:背
-back to:回到
+bachelor:学士
 back to your:回到你的
+back to:回到
+back:背
 backbone:脊柱
 background:背景
 backpack:背包
@@ -16,8 +16,8 @@ bacon:烟熏肉
 bacteria:细菌
 bacteriology:细菌学
 bacterium:细菌
-bad:坏的
 bad news:坏消息
+bad:坏的
 badge:徽章
 badges:徽章
 bag:袋子
@@ -26,16 +26,16 @@ bahamas:巴哈马
 bahrain:巴林
 bail:保释
 baku:巴库
-balance:平衡
 balance of power:权力的平衡
-balkan:巴尔干的
+balance:平衡
 balkan peninsula:巴尔干半岛
+balkan:巴尔干的
 ball:球
 ballet:芭蕾舞
 ballhall:舞厅
 balloon:气球
-ballot:投票
 ballot box:投票箱
+ballot:投票
 ballroom:舞厅
 baltimore:巴尔的摩
 bamboo:竹子
@@ -43,9 +43,9 @@ banana:香蕉
 band:带
 bangkok:曼谷
 bangladesh:孟加拉国
+bank vault:金库
 bank:银行
 bankruptcy:破产
-bank vault:金库
 bar:酒吧
 barack obama:巴拉克奥巴马
 barbados:巴巴多斯
@@ -53,22 +53,22 @@ barcelona:巴塞罗那
 barebone:皮包骨头的人
 barf:呕吐
 barium:钡
-barley:大麦
 bark:吠
-barn:谷仓
+barley:大麦
 barn swallow:家燕
+barn:谷仓
 barque:三桅帆船
 barrel:枪管
 barrier:屏障
 baryon:重子
 base:基地
 base:基质
-baseball:棒球
 baseball player:棒球运动员
-based:基于
-based on:基于
+baseball:棒球
 based on our:基于我们的
 based on these:基于这些
+based on:基于
+based:基于
 bashar:巴沙尔
 basic:基本的
 basketball:篮球
@@ -83,8 +83,8 @@ batrachuperus tibetanus:西藏山溪鲵
 batrachuperus yenyuanensis:鹽源山溪鯢
 battalion:大队
 battalion:营
-battery:电池
 batteries:电池
+battery:电池
 battle:战役
 battlefield:战场
 battleground:战场
@@ -93,20 +93,26 @@ baulderstone:鲍德斯通集团
 bay:海湾
 bayou:长沼
 bbc:英国广播公司
+be careful:小心
+be considered:被视为
+be familiar with:熟悉
+be instructed:被指导
+be native to:原产于
+be quiet:安静
+be stolen:被偷
 be:成为
 beach:海滩
 beachwear:海滩装
 bean:豆
+bear market:熊市
+bear the blame:忍受责备
 bear:忍受
 bear:熊
 beard:胡子
-bear market:熊市
-bear the blame:忍受责备
 beast:野兽
 beasts:野兽
 beat:打
 beatboxing:口技音乐
-beautiful:美丽的
 beautiful beaches:美丽的海滩
 beautiful china:美丽的中国
 beautiful city:美丽的城市
@@ -132,80 +138,74 @@ beautiful wife:美丽的妻子
 beautiful woman:美丽的女人
 beautiful women:美丽的女人们
 beautiful works:美丽的作品
-beauty:美人
+beautiful:美丽的
 beauty and the beast:美女与野兽
-became:成为
+beauty:美人
 became the first:成为第一个
-be careful:小心
-because:因为
+became:成为
 because all:因为所有的
 because he:因为他
 because i:因为我
-because it:因为它
 because it could:因为它可以
+because it:因为它
 because of this:因此
 because of you:因为你
 because our:因为我们的
 because the first:因为第一个
 because their:因为他们的
 because they:因为他们
-because we:因为我们
 because we don't:因为我们不
+because we:因为我们
+because:因为
 become:成为
-be considered:被视为
 bed:床
 bee:蜜蜂
 beef:牛肉
 beefsteak:牛排
 beeswax:蜡
 beetle:甲虫
-be familiar with:熟悉
-before:之前
 before and after:之前和之后
-before him:在他面前
 before god:在上帝面前
+before him:在他面前
+before:之前
 began:开始
 begin:开始
 behavior:行为
 behaviour:行为
-beijing:北京
 beijing time:北京时间
+beijing:北京
 being:生物
-be instructed:被指导
 belarus:白俄罗斯
 belgium:比利时
 belief:信仰
-believe:相信
 believe me:相信我
+believe:相信
 belize:伯利茲
 bell:钟
 belly:腹
 below:之下
 belt:带子
-be native to:原产于
 bend:弯曲
 bending:弯曲
 beneficial:有益的
-beneficiary:受益人
 beneficiaries:受益人
+beneficiary:受益人
 benefit:利益
 bengali:孟加拉语
 benghazi:班加西
 benin:贝宁
 benz:奔驰
-be quiet:安静
 berlin:柏林
 bermuda:百慕大
 beryllium:铍
-best:最好
 best friend:最好的朋友
 best practices:最佳实践
 best solution:最佳解决方案
 best solution:最好的解决办法
-be stolen:被偷
+best:最好
 bestseller:畅销商品
-bestselling:畅销的
 bestselling novel:畅销小说
+bestselling:畅销的
 bet:打赌
 betray:背叛
 better:更好
@@ -219,26 +219,26 @@ bibliography:参考书目
 bicycle:自行车
 bifurcate:分叉
 bifurcation:分叉
-big:大
 big data:大数据
+big:大
 bike:自行车
-bilateral:两边的
 bilateral and multilateral:双边和多边
 bilateral symmetry:两边对称性
-bill:比尔
+bilateral:两边的
 bill clinton:比尔克林顿
+bill:比尔
 billboard:广告牌
 billion:十亿
 binary:二元的
 biochemistry:生物化学
 biodiversity:生物多樣性
-biographical dictionary:传记词典
 biographical dictionary of the united states congress:美国议会传记词典
+biographical dictionary:传记词典
 biography:传记
 bioinformatics:生物信息学
-biological:生物学的
 biological classification:生物分类
 biological systems:生物学系统
+biological:生物学的
 biologist:生物学家
 biology:生物学
 biomolecule:生物分子
@@ -248,9 +248,9 @@ biotic:生物的
 bird:鸟
 birds:鸟
 birmingham:伯明翰市
-birth:出生
 birth certificate:出生证明
 birth control:计划生育
+birth:出生
 birthday:生日
 birthplace:出生地
 bishop:主教
@@ -260,23 +260,21 @@ bit:比特
 bitch:母狗
 bitmap:位图
 bitterly:严重地
-black:黑色
-blackberry:黑莓
-blacklist:黑名单
 black and white:黑人和白人
 black friday:黑色星期五
 black hole:黑洞
 black holes:黑洞
 black pepper:黑胡椒
 black powder:黑火药
-blood pressure:血压
-blood pressure:血壓
 black sesame:黑芝麻
+black:黑色
+blackberry:黑莓
+blacklist:黑名单
 blade:刀刃
 blame:责备
 blank:空白的
-blanket:被子
 blanket:毛毯
+blanket:被子
 blasphemy:亵渎
 bless:祝福
 blessing:祝福
@@ -285,30 +283,32 @@ blink:眨眼
 blister:水疱
 block:块
 blockage:堵塞
-blockchain:区块链
 blockchain technology:区块链技术
+blockchain:区块链
 blockchains:区块链
 blog:博客
-blood:血
 blood brain barrier:血脑屏障
+blood pressure:血压
+blood pressure:血壓
 blood relative:血亲
-bloodshed:流血
 blood vessel:血管
+blood:血
+bloodshed:流血
 bloody:有血的
 blow:吹
 blowjob:口交
-blue:蓝色
 blue whale:蓝鲸
+blue:蓝色
 blueberry:蓝莓
 blueprint:蓝图
 board:板
 boat:船
 boatman:船夫
 bob:鲍伯
-bobby:警察
 bobby pin:发夹
-body:尸体
+bobby:警察
 body of water:水体
+body:尸体
 bog:沼泽
 bogus:假的
 boil:沸腾
@@ -318,33 +318,33 @@ boiling point:沸点
 boiling water:沸水
 bolivia:玻利维亚
 bomb:炸弹
-bomber:轰炸机
 bomber:自爆人
+bomber:轰炸机
 bombers:自爆人
 bombing:爆炸
-bone:骨头
 bone marrow:骨髓
+bone:骨头
 boner:勃起的鸡巴
 bonus:奖金
-book:书
 book publishing:图书出版
+book:书
 books:书
 bookstore:书店
 boots:靴子
 booze:豪饮
-border:边
 border clash:边界冲突
 border patrol:边境巡逻
 border security:边境安全
+border:边
 borderlands:边缘地带
 boring:无趣的
-born:生于
 born and raised:出生和长大
 born in:出生于
+born:生于
 borne:携带的
 boron:硼
-bosnia and herzegovina:波黑
 bosnia and herzegovina:波斯尼亚和黑塞哥维那
+bosnia and herzegovina:波黑
 boss:老板
 boston:波士顿
 bot:机器人
@@ -354,8 +354,8 @@ bother:烦
 botswana:博茨瓦纳
 bottled:瓶装的
 bottleneck:瓶颈
-bottom:底
 bottom line:底线
+bottom:底
 bouncy castle:充气城堡
 boundary:边界
 bouvet island:布韦岛
@@ -370,10 +370,9 @@ boy:男孩
 boyfriend:男友
 boys:男孩们
 bra:乳罩
-brackish:淡海混合的
 brackish water:淡海混合水
+brackish:淡海混合的
 braid:辫子
-brainchild:智力作品
 brain activity:大脑活动
 brain death:脑死亡
 brain drain:人才流失
@@ -382,16 +381,17 @@ brain hemorrhage:脑溢血
 brain scan:脑部扫描
 brain surgery:脑外科
 brain tumor:脑瘤
+brainchild:智力作品
 brainwash:洗脑
-branch:分支
 branch of biology:生物学分支
-brand:烙印
+branch:分支
 brand:商标
+brand:烙印
 brandy:白兰地
 brave:勇敢的
 brazil:巴西
-brazilian:巴西的
 brazilian:巴西人
+brazilian:巴西的
 bread:面包
 breadth:宽度
 breakfast:早餐
@@ -400,12 +400,12 @@ breast cancer:乳腺癌
 breastfeeding:母乳喂养
 breath:呼吸
 breathe:呼吸
-breed:繁殖
 breed:品种
+breed:繁殖
 brefonalol:布福洛尔
-brew:酿造
 brew:泡
 brew:煮
+brew:酿造
 brian:布莱恩
 bribe:贿赂
 brick:砖
@@ -425,29 +425,29 @@ bring her here:带她过来
 bring her home:带她回家
 bring her in:带她进来
 britain:英国
-british:英国的
 british cat party:英国猫党
 british government:英国政府
 british politician:英国政客
+british:英国的
+broad sense:广义
 broad:宽阔的
 broadcast:广播
-broad sense:广义
 broccoli:西兰花
 broken:破损的
-bronze:青铜
 bronze medal:铜牌
+bronze:青铜
 brook:小溪
 brooks:小溪
 brothel:妓院
-brother:兄弟
-brother in law:姐夫
 brother in law:妹夫
+brother in law:姐夫
+brother:兄弟
 brothers:兄弟们
-brown:褐色
 brown bear:棕熊
+brown:褐色
 browser:浏览器
-bruce:布鲁斯
 bruce lee:李小龙
+bruce:布鲁斯
 brunei:文莱
 brussels:布鲁塞尔
 bucket:桶
@@ -458,12 +458,12 @@ buddhist:佛教徒
 buddy:伙伴
 budgerigar:虎皮鹦鹉
 budget:预算
-bug:虫子
 bug:缺陷
+bug:虫子
 build:构建
-building:建筑
 building material:建筑材料
 building materials:建筑材料
+building:建筑
 buildings:建筑
 built:建好的
 builtin:内建的
@@ -485,51 +485,52 @@ bureaucrats:官僚们
 burial:埋葬
 burkina faso:布基纳法索
 burma:缅甸
-burning:燃烧的
 burning temperature:着火温度
+burning:燃烧的
 burp:打嗝
 burst:爆发
 burundi:布隆迪
-bus:公交车
-business:生意
-businessman:男商人
-business community:商界
-business continuity:业务连续性
-business leaders:商界领袖
-business leaders:商业领袖
-business model:商业模式
-business model:业务模式
-business person:商人
-business plan:商业计划
-businesswoman:女商人
 bus station:汽车枢纽站
 bus stop:公交站台
-but:但
+bus:公交车
+business community:商界
+business continuity:业务连续性
+business leaders:商业领袖
+business leaders:商界领袖
+business model:业务模式
+business model:商业模式
+business person:商人
+business plan:商业计划
+business:生意
+businessman:男商人
+businesswoman:女商人
 but actually:但实际上
 but at the same time:但与此同时
 but he:但他
-but i:但我
 but i have to:但我必须
-but if:但如果
+but i:但我
 but if we:但是如果我们
+but if you:但如果你
+but if:但如果
 but it:但它
-but now:但现在
 but now:但是现在
+but now:但现在
 but researchers:但研究人员
 but right now:但是现在
-but sometimes:但有时候
-but when he:但是当他
 but she:但她
+but sometimes:但有时候
 but that does not mean:但那并不意味着
-but this does not mean:但这并不意味着
 but the fact is:但事实是
 but the truth is:但事实是
 but their:但它们的
 but they:但他们
+but this does not mean:但这并不意味着
 but this:但这
 but we:但我们
-but you:但你
+but when he:但是当他
 but you can't:但你不能
+but you:但你
+but:但
 butler:男管家
 butter:黄油
 butterfly:蝴蝶
@@ -537,11 +538,11 @@ button:按钮
 button:钮扣
 butyrellite:泥炭沼泽黄油
 buy:买
-by:被
 by convention:依照惯例
 by default:默认情况下
 by learning:通过学习
 by the way:顺便提一下
+by:被
 bystander:旁观者
 bystanders:旁观者
 byte:字节
