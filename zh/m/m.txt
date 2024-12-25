@@ -237,6 +237,8 @@ mental illness:精神病
 mental:心理的
 mention:提到
 menu:菜单
+menu items:菜单项
+menu bar:菜单条
 meow:喵
 mercury:水星
 mercury:汞
@@ -310,6 +312,8 @@ military confrontation:军事对抗
 military coup:军事政变
 military deployment:军事部署
 military parade:阅兵
+military unit:军事单位
+military units:军事单位
 military:军队
 milk:牛奶
 milking:挤奶
@@ -422,6 +426,7 @@ moose:牛鹿
 mop:拖把
 moral:道德的
 more and more:越来越多的
+more complex:更复杂的
 more or less:或多或少
 more than:多于
 more:更多
@@ -440,6 +445,8 @@ mosque:清真寺
 most important:最重要
 most of the time:大多数时候
 most popular:最流行的
+most powerful:大多数强大的
+most significant:大多数有意义的
 most:大多数
 motel:汽车旅馆
 moth:蛾
@@ -462,6 +469,8 @@ mountaineering club:登山俱乐部
 mountaineering:登山
 mouse:老鼠
 mouse:耗子
+mouse:鼠标
+mouse event:鼠标事件
 mouth:嘴
 mouthful:拗口的
 mouthful:满嘴的

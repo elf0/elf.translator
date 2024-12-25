@@ -20,6 +20,7 @@ calendar:日历
 california:加利福尼亚
 call girl:应召女郎
 call:打电话给
+call:调用
 calm down:冷静
 calm:平静
 cambodia:柬埔寨
@@ -31,6 +32,11 @@ camera:相机
 cameroon:喀麦隆
 campaign:战役
 campus:校园
+can also provide:也能提供
+can also refer to:也可以指
+can also see:也可以看到
+can also use:也能用
+can be used to:能被用于
 can you believe it:你能相信吗
 can you feel it:你能感觉到它吗
 can you hear me:你能听到我说话吗
@@ -74,6 +80,7 @@ cappuccino:热牛奶咖啡
 capsule:胶囊
 capsule:膜囊
 captain:船长
+captain:舰长
 caption:标题
 capture:俘获
 captured:被俘
@@ -110,6 +117,8 @@ cartesian coordinate:笛卡尔座标
 cartesian:笛卡尔的
 cartoon:动画片
 case:案件
+case:案例
+case study:案例研究
 cash:现金
 cashier:出纳
 cassava:木薯
@@ -221,6 +230,7 @@ cheap:廉价的
 cheat:不忠
 cheat:作弊
 check:检查
+check it out:检查
 checked:选中的
 checkmate:将死
 cheerleader:啦啦队长
@@ -386,6 +396,7 @@ clue:线索
 clues:线索
 clutch:抓住
 clutch:离合器
+cm:厘米
 coach:教练
 coach:长途大巴
 coal:煤
@@ -503,6 +514,7 @@ complex features:复杂特征
 complex number:复数
 complex:复杂的
 component:组件
+compound eyes:复眼
 compound sentence:并列复合句
 compound:化合物
 compounds:化合物
@@ -628,6 +640,7 @@ contributors:贡献者
 control:控制
 controller:控制器
 controllers:控制器
+convenience:便利
 convenient:便利的
 convention:约定
 conversation:对话
@@ -726,6 +739,7 @@ crap:废物
 crap:废话
 crappy:烂
 crazy:疯狂
+create a:创造一个
 create a new:创建一个新的
 create:创造
 created:已创建的

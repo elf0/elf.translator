@@ -99,6 +99,7 @@ i shall never:我永远不会
 i think the first:我认为第一个
 i think:我认为
 i told you:我告诉过你
+i told you:我跟你说过
 i was unable:我不能
 i will be back:我会回来的
 i will be with you:我会与你同在
@@ -108,11 +109,18 @@ i will repeat what i said one more time:我再次重复我所说的
 i will see what i can do:我来看看我能做什么
 i will see what i can find:我来看看我能发现什么
 i would never:我永远不会
+i'm in:我进去了
 i've never:我从来没有
-i’ve had enough:我受够了
-i’m watching you:我盯着你的
+i've had enough:我受够了
+i've been fishing:我一直在钓鱼
+i've been fishing:我一直在摸鱼
+i've been fishing:我一直在偷懒
+i'm watching you:我盯着你的
+i'm gonna:我要
+i'll make my own decisions:我会做出自己的决定
 i'll never:我永远不会
-i’ll see you later:我会来看你的
+i'll see myself out:不用送了
+i'll see you later:我会来看你的
 i:我
 ice cream:冰淇淋
 ice cube:冰块
@@ -147,6 +155,8 @@ illegal:非法的
 illicium verum:八角
 illinois:伊利诺斯
 illusionist:魔术师
+illustrate:举例说明
+illustrates:举例说明
 illustrator:插图画家
 image:图像
 imaginary number:虚数
@@ -170,6 +180,7 @@ impede:阻碍
 imperial oil limited:帝国石油有限公司
 imperial:帝国的
 imperialism:帝国主义
+implement:实现
 implementation:实现
 implicit differentiation:隐微分
 imply:暗示
@@ -183,11 +194,13 @@ impulse:冲动
 impulsive:冲动的
 impulsively:冲动地
 in:里面
+in:英寸
 inaccurate:不准确的
 inadequate:不够的
 inbreeding depression:近交衰退
 inbreeding:近亲繁殖
 incentive:激励
+inch:英寸
 incident:事故
 incise:切割
 include:包括
@@ -195,6 +208,7 @@ including:包括
 inclusion:包含
 income:收入
 incorporate:合并
+incorrigible:无可救药的
 increase:增加
 increased:增加了
 incredible:不可思议的
@@ -281,6 +295,7 @@ input device:输入设备
 input:输入
 inquiry:调查
 insect:昆虫
+insecta:昆虫纲
 insecten:昆虫
 insects:昆虫
 insensitive:不敏感的
@@ -387,6 +402,7 @@ invention:发明
 inventor:发明家
 inverse function:反函数
 invertebrate:无脊椎动物
+invertebrates:无脊椎动物
 invest:投资
 investigate:调查
 investigator:调查者
@@ -421,7 +437,10 @@ irregularly shaped:不规则形状的
 is a member of the democratic party:是一个民主党员
 is a village:是一个村庄
 is about:是关于
+is always used to:总是被用作
 is an important first step:是重要的第一步
+is called:被叫做
+is called:被调用
 is loaded:被加载
 is located in:位于
 is native to europe:原产于欧洲
@@ -431,6 +450,7 @@ is native to western north america:原产于北美洲西部
 is native to:原产于
 is no longer:不再是
 is only the first step:只是第一步
+is resized:被重设大小
 is there anything that distracted you:有什么使你分心吗
 is:是
 islam:伊斯兰教
@@ -448,6 +468,9 @@ israeli:以色列的
 issue:问题
 istanbul:伊斯坦布尔
 it:它
+it feels:感觉
+it is up to:它取决于
+it is up to you:它取决于你
 italia:意大利
 italian:意大利人
 italian:意大利语

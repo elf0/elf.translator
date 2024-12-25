@@ -346,6 +346,7 @@ poo:屎
 poop:拉屎
 poor:贫穷的
 pop:弹出
+pop-up:弹出
 pope:教皇
 popular:流行的
 population census:人口普查
@@ -386,10 +387,14 @@ powder:粉末
 powdered egg:蛋粉
 powdered milk:奶粉
 powdered:粉末状的
-power function:幂函数
 power:力量
 power:幂
 power:电力
+power function:幂函数
+power outage:断电
+power outage:停电
+power outages:断电
+power outages:停电
 powerboat:快艇
 powerful:有力的
 powerless:无力的
@@ -480,6 +485,7 @@ production:产品
 products and services:产品和服务
 products:产品
 profession:专业
+professional football:职业足球
 professional footballer:职业足球运动员
 professional player:职业玩家
 professional player:职业运动员
@@ -569,6 +575,9 @@ puerto rico:波多黎各
 puke:吐
 puking:呕吐
 pull over:停车
+pull down:拉下
+pull-down:下拉
+pull-down menu:下拉菜单
 pull:拉
 pulmonary artery:肺动脉
 pulmonary:肺的

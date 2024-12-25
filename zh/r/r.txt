@@ -51,6 +51,7 @@ ransomware:勒索软件
 rap:说唱
 rape:强奸
 rapid:急速的
+rapid oscillation:急速的振动
 rapidly:急速地
 rapper:说唱者
 rapping:说唱
@@ -114,8 +115,10 @@ red black tree:红黑树
 red light district:红灯区
 red:红色
 redirect:重定向
+redirect to:重定向到
 redo:重做
 reduce:减少
+reduce damage:减少损害
 redundant:冗余的
 reef:礁
 refer to:指
@@ -147,6 +150,7 @@ register:注册
 registration:注册
 regret:后悔
 rehabilitation:康复
+reimplement:重新实现
 reindeer:驯鹿
 reinforce:增强
 reinforcement:增强
@@ -275,6 +279,7 @@ rhyme:押韵
 rice noodle:米线
 rice noodles:米线
 rice:大米
+rich:有钱的
 rich:丰富的
 rich:富裕的
 richard:理查德

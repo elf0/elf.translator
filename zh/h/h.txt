@@ -26,6 +26,7 @@ hand:手
 handbag:手提袋
 handicapped:残障的
 handle:处理
+handlers:处理函数
 hands:手
 handshake:握手
 hang over:宿醉
@@ -143,6 +144,9 @@ heterosexual fellatio:异性口交
 heterosexual:异性的
 heuristic function:启发式函数
 heuristic:启发式的
+hexapod:六足
+hexapod:六只脚的
+hexapod invertebrates:六足无脊椎动物
 hexagon:六边形
 hexamidine:己脒定
 hibernation:冬眠
@@ -187,6 +191,7 @@ his home:他的家
 his life:他的生活
 his mother:他的母亲
 his name:他的名字
+his own:他自己的
 his second:他的第二个
 his son:他的儿子
 his time:他的时间
@@ -269,6 +274,7 @@ houston:休斯敦
 how we help:我们如何帮助
 how:如何
 however:然而
+however sometimes:然而有时候
 html:超文本标记语言
 http:超文本传输协议
 https:安全的超文本传输协议

@@ -59,6 +59,7 @@ savages:野蛮人
 save:保存
 saw:锯
 say:说
+say it to my face:当着我的面说
 scalar product:标量积
 scale:比例
 scandal:丑闻
@@ -78,8 +79,10 @@ schooner:多桅帆船
 science fiction:科幻小说
 science of life:生命科学
 science:科学
-scientific law:科学定律
 scientific:科学的
+scientific american:科学美国人
+scientific exploration:科学探险
+scientific law:科学定律
 scientist:科学家
 scientists and engineers:科学家和工程师
 scope:范围
@@ -263,6 +266,7 @@ she is a woman:她是一个女人
 she is the mother of the child:她是这个孩子的母亲
 she said:她说
 she says:她说
+she was:她曾是
 she:她
 shear:修剪
 shears:大剪刀
@@ -289,6 +293,7 @@ short story:短篇小说
 short:短的
 shortage:缺乏
 shortcut:快捷方式
+shortcut:快捷键
 should be:应该是
 should have:应该有
 should not be confused with a:不应该与a混淆
@@ -352,6 +357,7 @@ sir:先生
 sister in law:小姨子
 sister:姐妹
 site:用地
+site:站点
 situation:情形
 six:六
 sixteen:十六
@@ -450,6 +456,8 @@ soccer:足球
 social and economic:社会和经济
 social and political:社会和政治
 social group:社团
+social behavior:社会性行为
+social insects:社会化的昆虫
 social media:社交媒体
 social relationship:社会关系
 social science:社会科学
@@ -509,6 +517,7 @@ somaliland:索马里兰
 somatic cell:体细胞
 somatic cells:体细胞
 somatic:肉体的
+some kind of:某种
 some sort of:某种
 some sort of:某种形式的
 some sort of:某種
@@ -544,6 +553,7 @@ sources:源
 south africa:南非
 south african:南非的
 south american:南美洲的
+south australia:南澳大利亚州
 south bay:南湾
 south carolina:南卡罗来纳州
 south korea:韩国
@@ -672,6 +682,7 @@ state:国家
 state:州
 state:状态
 statement:陈述
+statement:语句
 static:静态的
 station:站
 statism:集权主义
@@ -752,6 +763,7 @@ students:学生们
 studio:工作室
 study:学习
 study:学科
+study:研究
 sturdier:更强壮的
 sturdy:强壮的
 style:风格

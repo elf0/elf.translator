@@ -27,6 +27,8 @@ familiar with:熟悉
 familiar:熟悉的
 familiarize:熟悉
 family:家庭
+family member:家庭成员
+family members:家庭成员
 family:科
 famine:饥荒
 famous:著名的
@@ -103,6 +105,8 @@ fibrous material:纤维材质
 fibrous:纤维的
 fiction:小说
 fictional:虚构的
+fictional character:虚构的角色
+fictional character:虚构的人物
 field effect:场效应
 field of research:研究领域
 field:场
@@ -128,6 +132,8 @@ finally:最终
 finance:财政
 financial:财务的
 find:发现
+find out:发现
+finds out:发现
 fine tuning:微调
 fine:罚金
 finger:手指
@@ -167,6 +173,7 @@ fish:鱼
 fisher:捕鱼者
 fisherman:渔夫
 fishing:捕鱼
+fishing:摸鱼
 fishmonger:鱼贩
 fishwife:卖鱼女
 fishwife:泼妇
@@ -197,6 +204,7 @@ flow chart:流程图
 flow:流动
 flower:花
 flowering plant:开花植物
+flowering plants:开花植物
 flowering:开花的
 fluid:液体
 fluidic:液体的
@@ -212,6 +220,10 @@ follow:跟随
 follower:追随者
 following:后面的
 following:接下来的
+following discussion:接下来的讨论
+following discussion:后面的讨论
+following discussion:以下讨论
+following statement:以下语句
 font file:字体文件
 font:字体
 food additive:食品添加剂
@@ -301,6 +313,7 @@ free fall:自由下落
 free will:自由意志
 free:免费的
 free:自由的
+free:释放
 freedom of abortion:堕胎的自由
 freedom of assembly:集会的自由
 freedom of association:结社的自由
