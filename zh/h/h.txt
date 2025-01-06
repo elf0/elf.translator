@@ -48,6 +48,9 @@ harvard:哈佛
 haryana:哈里亚纳邦(印度)
 has:有
 hat:帽子
+hatch:孵化
+hatch from eggs:从蛋孵化而来
+hatched from eggs:从蛋孵化而来
 hate:恨
 hatred:憎恨
 have been found:已被发现
@@ -283,6 +286,7 @@ html:超文本标记语言
 http:超文本传输协议
 https:安全的超文本传输协议
 hug:拥抱
+human activities:人类活动
 human beings:人类
 human computer interaction:人类计算机交互
 human extinction:人类灭绝

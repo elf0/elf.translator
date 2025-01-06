@@ -208,6 +208,7 @@ activism:行动主义
 activist:活动家
 activist:活跃者
 activity:活动
+activities:活动
 actor:演员
 actress:女演员
 actually:实际上
@@ -245,6 +246,8 @@ adopt:收养
 adoption:收养
 adrenaline:肾上腺素
 adult:成人的
+adult:成年
+adult:成年的
 adult insect:成年昆虫
 adult insects:成年昆虫
 adultery:通奸
@@ -685,8 +688,9 @@ apostasy:信仰背弃
 app:应用程序
 appeal:上诉
 appear:出现
-appearance:出现
+appears:出现
 appears to:呈现给
+appearance:出现
 append:附加
 appetite:食欲
 appetizing:美味的
@@ -914,6 +918,7 @@ atomic weight:原子量
 atomic:原子的
 attack:攻击
 attempt:尝试
+attempt to control:尝试控制
 attendance:出席
 attention deficit hyperactivity disorder:注意力欠缺多动症
 attention deficit:注意力欠缺

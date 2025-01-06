@@ -7,6 +7,7 @@ daltonism:色盲
 dam failure:溃坝
 dam:水坝
 damage:损害
+damage crops:损害农作物
 damascus:大马士革
 dame:女士
 dance:跳舞
@@ -298,6 +299,7 @@ discus:铁饼
 discuss:讨论
 discussion:讨论
 disease:疾病
+diseases:疾病
 disguise:伪装
 disgust:厌恶
 dish:盘子
