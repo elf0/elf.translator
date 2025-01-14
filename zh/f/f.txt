@@ -181,6 +181,7 @@ fisher:捕鱼者
 fisherman:渔夫
 fishing:捕鱼
 fishing:摸鱼
+fishing village:渔村
 fishmonger:鱼贩
 fishwife:卖鱼女
 fishwife:泼妇
@@ -219,6 +220,7 @@ fluorine:氟
 fly:苍蝇
 fly:飞
 focus on:专注于
+focuses on:专注于
 focus:专心
 focus:焦点
 fog:雾
@@ -300,6 +302,7 @@ foundation:基金
 founder:创始人
 four:四
 fourteen:十四
+fourteenth:第十四
 fourth:第四
 fox:狐狸
 foxy:狡猾的
@@ -377,6 +380,7 @@ fuel:燃料
 full:全部
 fully customizable:完全可定制的
 fully:完全地
+functionality:功能性
 function of time:关于时间的函数
 function:函数
 functions:函数

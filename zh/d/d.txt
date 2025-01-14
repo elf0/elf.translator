@@ -70,6 +70,8 @@ decrease:减少
 dedicate:致力
 dedicated to:致力于
 dedication:奉献
+deduce:推导
+deduced:被推导
 deep learning:深度学习
 deep ocean:深海
 deep sea:深海
@@ -251,6 +253,8 @@ diiodoethane:二碘乙烷
 dildo:假鸡巴
 dim:昏暗的
 dimer:二聚体
+dimension:维度
+dimensions:维度
 dinner:晚餐
 dinosaur:恐龙
 dinosaurs:恐龙
@@ -261,6 +265,9 @@ diplomat:外交官
 diplomatic offensive:外交攻势
 diplomatic:外交的
 direction:方向
+directional derivative:方向导数
+directional derivatives:方向导数
+directly:直接地
 director:导演
 director:局长
 directory:目录
@@ -381,6 +388,7 @@ dot product:点积
 dot:点
 double helix:双螺旋
 double integral:二重积分
+double integrals:二重积分
 double:两倍的
 doubt:怀疑
 dough:生面团

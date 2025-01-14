@@ -3,6 +3,8 @@ tablet:手写板
 tag:标签
 tail:尾部
 taiwan:台湾
+tangent:正切
+tangents:正切
 tajikistan:塔吉克斯坦
 take a moment to:花一些时间
 take breath:深呼吸
@@ -110,6 +112,9 @@ text corpora:文本语料库
 text corpora:文本集
 text to speech:文本转语音
 text:文本
+textbook:课本
+textbook:教科书
+textbook:教科書
 textile arts:纺织艺术
 textile:纺织品
 thai:泰语
@@ -135,6 +140,7 @@ thee:你
 theft:盗窃
 their eggs:它们的蛋
 their first:他们的第一个
+their village:他们的村子
 their:他们的
 them:他们
 theme:主题
@@ -215,6 +221,8 @@ those:那些
 thou:你
 though:然而
 thought:想法
+thoughtful:深思熟虑的
+thoughtfully:深思熟虑地
 thoughts:思想
 thousand:千
 thousands of:成千上万的
@@ -222,6 +230,7 @@ thread:线程
 threat:威胁
 threatening:威胁的
 three:三
+three dimensional:三维的
 threesome:三人性爱
 threshold:阀值
 thrill:刺激
@@ -331,6 +340,7 @@ trade:贸易
 trademark:商标
 tradition:传统
 traditional:传统的
+traditional village:传统村落
 tragedy:悲剧
 trail:痕迹
 train:火车
@@ -395,6 +405,8 @@ trillion:万亿
 trinidad and tobago:特立尼达和多巴哥
 trioxane:三𫫇烷
 trip:旅程
+triple integral:三重积分
+triple integrals:三重积分
 trish:翠西
 trivial:琐碎的
 troop:军队
@@ -449,6 +461,7 @@ two:二
 type:类型
 typhoon:台风
 typical:典型的
+typical village::典型的村子
 typo:误字
 tyranny:极权
 tyrant:暴君

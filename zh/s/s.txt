@@ -63,6 +63,8 @@ say:说
 says:说
 say it to my face:当着我的面说
 scalar product:标量积
+scalar function:标量函数
+scalar functions:标量函数
 scale:比例
 scandal:丑闻
 scandium:钪
@@ -118,6 +120,8 @@ seahorse:海马
 seaman:海员
 seaport:海港
 search:搜索
+seaside:海边的
+seaside village:海边的村子
 season:季节
 seat belt:安全带
 seat:座位
@@ -160,6 +164,8 @@ selfless:无私的
 selflessness:无私
 semantic:语义的
 semantics:语义学
+semester:学期
+semesters:学期
 semicircle:半圆
 semicolon:分号
 semiformal:半正式的
@@ -418,6 +424,7 @@ slurp:发出噪音地吃喝
 slut:荡妇
 small animal:小型动物
 small intestine:小肠
+small village:小村子
 small:小的
 smaller:更小的
 smallest:最小的
@@ -803,7 +810,9 @@ subunit:子单位
 suburb:市郊
 subway:地铁
 success:成功
+successful:成功的
 successful career:成功的职业生涯
+successful experience:成功的经验
 successful:成功的
 successfully:成功地
 successor:继任者

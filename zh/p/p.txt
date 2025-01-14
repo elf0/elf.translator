@@ -19,6 +19,7 @@ palau:帕劳
 paleontology:古生物学
 palestine:巴勒斯坦
 palestinian:巴勒斯坦人
+palestinian:巴勒斯坦的
 palladium:钯
 palm:棕榈
 panama:巴拿马
@@ -39,6 +40,8 @@ paraguay:巴拉圭
 parallel lines:平行线
 parallel:平行的
 parameter:参数
+parametrization:参数化
+parametrizations:参数化
 parasite:寄生生物
 parasite:寄生虫
 parasitic disease:寄生虫病
@@ -67,6 +70,8 @@ parse:分析
 parser:分析器
 part:部分
 partial:部分的
+partial derivative:偏导数
+partial derivatives:偏导数
 participate:参加
 particle:粒子
 particular:特殊的
@@ -109,6 +114,7 @@ pazinaclone:帕秦克隆
 pea:豌豆
 peace:和平
 peaceful:和平的
+peaceful village:宁静的村庄
 peacock:孔雀
 peak:峰
 peanut:花生
@@ -231,6 +237,7 @@ physiology:生理学
 phytoplankton:浮游植物
 piano:钢琴
 picture:照片
+picturesque village:风景如画的村庄
 piecewise:分段的
 pierce:刺穿
 pig:猪
@@ -260,6 +267,9 @@ plagiarism:抄袭
 plain:平坦的
 plan:计划
 plane:平面
+planes:平面
+plane curve:平面曲线
+plane curves:平面曲线
 planet:行星
 planetary system:行星系统
 planetary:行星的
@@ -311,6 +321,7 @@ poker:扑克
 poland:波兰
 polar bear:北极熊
 polar coordinate:极坐标
+polar coordinates:极坐标
 polar:极性的
 polarity:极性
 polarization:两极分化
@@ -411,6 +422,8 @@ pre-training:预训练
 precipitate:沉淀
 precipitate:陷入
 precipitation:沉积
+precise:精确的
+precisely:精确地
 precision:精度
 predator:捕食者
 predecessor:前任

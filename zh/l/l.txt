@@ -106,6 +106,7 @@ leisure:闲暇
 lemon:柠檬
 lemonade:柠檬水
 length:长度
+lengths:长度
 leopard:豹
 lesbian:女同性恋
 lesotho:莱索托
@@ -175,6 +176,8 @@ limits:极限
 lincoln:林肯
 line by line:一行接一行
 line feed:换行
+line integral:线积分
+line integrals:线积分
 line:线
 lineal descendant:直系后代
 linear algebra:线性代数
@@ -216,6 +219,8 @@ load:加载
 lobster:龙虾
 local fast food chain:本地快餐连锁
 local government:地方政府
+local villager:当地村民
+local villagers:当地村民
 local:本地的
 locate:定位
 location:位置
@@ -229,6 +234,7 @@ logarithmic:对数的
 logic:逻辑
 logical consequence:逻辑结论
 logical:逻辑的
+logically:有逻辑地
 logo:商标
 london:伦敦
 long live the king:国王万岁

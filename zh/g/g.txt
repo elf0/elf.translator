@@ -40,6 +40,7 @@ gender:性
 gene:基因
 general:将军
 general:一般的
+generalize:归纳
 generally:通常地
 generate:生成
 generation:代
@@ -68,8 +69,11 @@ geology:地质学
 geometric algebra:几何代数学
 geometric:几何的
 geometry:几何学
+geometry of space:空间几何学
 george:乔治
 georgia:格鲁吉亚
+georgia:乔治亚州
+georgia institute of technology:乔治亚州技术学院
 german actor:德国演员
 german noble:德国贵族
 german politician:德国政客
@@ -118,6 +122,7 @@ glitter:闪光
 global and regional:全球和区域
 global catastrophe:全球大灾难
 global positioning system:全球定位系统
+global village:地球村
 global war:全球战争
 global:全球的
 globalization:全球化
@@ -163,6 +168,8 @@ government:政府
 governmental:政府的
 governor:地方长官
 gradient color:渐变色
+gradient vector:梯度向量
+gradient vectors:梯度向量
 gradient:梯度
 gradual:逐渐的
 gradually:逐渐地
