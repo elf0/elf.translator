@@ -170,6 +170,8 @@ despite:尽管
 destiny:命运
 destroy:摧毁
 destroyer:驱逐舰
+destroyed:被摧毁的
+destroyed village:被摧毁的村庄
 detail:细节
 detailed description:细节描述
 details:细节
@@ -429,6 +431,7 @@ duct:导管
 due to:由于
 due:到期的
 duke:公爵
+duke university:杜克大学
 dull:钝
 dumb:哑的
 dung beetle:屎壳郎

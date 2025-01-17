@@ -6,13 +6,17 @@ the area of the circle:这个圆的面积
 the arthropod phylum:节肢动物门
 the article:这篇文章
 the article is about:这篇文章是关于
+the australian national university:澳大利亚国立大学
 the author of the bestselling novel:畅销小说作者
 the author of the famous novel:著名小说作者
 the author of the light novels:轻小说作者
-the author of the popular novel:流行小说作者
+the author of the popular novel:流行小说作者\
 the beginning of the 21st century:21世纪之初
 the book:这本书
 the book is about:这本书是关于
+the chinese university:中文大学
+the chinese university of hong kong:香港中文大学
+the chinese university of hong kong:香港中文大學
 the class insecta:昆虫纲
 the commonwealth heads of government meeting:大英国协政府首脑会议
 the constitution of the united states:美国宪法
@@ -54,6 +58,8 @@ the good news is that:好消息是
 the government of liberia:利比里亚政府
 the government of the united states:美国政府
 the guardian:卫报
+the hebrew university:希伯来大学
+the hebrew university of jerusalem:耶路撒冷希伯来大学
 the median income:中位收入
 the most powerful man:最有权力的男人
 the most powerful person:最有权力的人
@@ -66,7 +72,9 @@ the new york times:纽约时报
 the new york:纽约
 the next day:第二天
 the novel is about:这部小说是关于
+the ohio state university:俄亥俄州立大学
 the only:唯一
+the open university:开放大学
 the people's republic of bangladesh:孟加拉人民共和国
 the people's republic of china:中华人民共和国
 the people's republic of kenya:肯尼亚人民共和国
@@ -89,6 +97,7 @@ the school:这所学校
 the so-called:所谓的
 the song is about:这首歌曲是关于
 the soviet union:苏联
+the state university of new york:纽约州立大学
 the story is about:这个故事是关于
 the supreme court of the united states:美国最高法院
 the supreme court:最高法院
@@ -112,7 +121,71 @@ the united states marine corps:美国海军陆战队
 the united states marine:美国海军陆战队
 the united states navy:美国海军
 the united states:美国
+the university of adelaide:阿德莱德大学
+the university of alabama:阿拉巴马大学
+the university of alberta:阿尔伯塔大学
+the university of arizona:亚利桑那大学
+the university of bern:伯尔尼大学
+the university of birmingham:伯明翰大学
+the university of british columbia:不列颠哥伦比亚大学
+the university of british columbia:英属哥伦比亚大学
+the university of california:加州大学
+the university of california:加州大學
+the university of california:加利福尼亚大学
+the university of california, berkeley:加州大学伯克利分校
+the university of california, los angeles:加州大学洛杉矶分校
+the university of cambridge:剑桥大学
+the university of canterbury:坎特伯雷大学
 the university of chicago:芝加哥大学
+the university of chicago:芝加哥大學
+the university of edinburgh:爱丁堡大学
+the university of exeter:埃克塞特大学
+the university of florida:佛罗里达大学
+the university of georgia:佐治亚大学
+the university of glasgow:格拉斯哥大学
+the university of hawaii:夏威夷大学
+the university of hong kong:香港大学
+the university of hong kong:香港大學
+the university of houston:休斯顿大学
+the university of illinois:伊利诺伊大学
+the university of kansas:堪萨斯大学
+the university of kentucky:肯塔基大学
+the university of leeds:利兹大学
+the university of liverpool:利物浦大学
+the university of london:伦敦大学
+the university of manchester:曼彻斯特大学
+the university of maryland:马里兰大学
+the university of melbourne:墨尔本大学
+the university of michigan:密歇根大学
+the university of michigan:密西根大学
+the university of minnesota:明尼苏达大学
+the university of missouri:密苏里大学
+the university of new south wales:新南威尔士大学
+the university of nottingham:诺丁汉大学
+the university of oxford:牛津大学
+the university of pennsylvania:宾夕法尼亚大学
+the university of pittsburgh:匹兹堡大学
+the university of queensland:昆士兰大学
+the university of rochester:罗切斯特大学
+the university of san francisco:旧金山大学
+the university of sheffield:谢菲尔德大学
+the university of south wales:南威尔士大学
+the university of southampton:南安普敦大学
+the university of southern california:南加州大学
+the university of sydney:悉尼大学
+the university of texas:得克萨斯大学
+the university of texas at austin:德克萨斯大学奥斯汀分校
+the university of tokyo:东京大学
+the university of toronto:多伦多大学
+the university of toronto:多倫多大學
+the university of utah:犹他大学
+the university of vienna:维也纳大学
+the university of virginia:弗吉尼亚大学
+the university of waterloo:滑铁卢大学
+the university of wisconsin:威斯康星大学
+the university of wisconsin:威斯康辛大学
+the university of wyoming:怀俄明大学
+the university of york:约克大学
 the village:这个村子
 the washington post:华盛顿邮报
 the wedding night:新婚之夜
