@@ -24,14 +24,14 @@ mahatma:圣人
 maiden flight:首飞
 maiden:处女的
 mail:邮件
-main:主要的
-main point:要点
-main point:重点
-main point:重點
 main idea:主要思想
 main idea:主要想法
 main ideas:主要思想
 main ideas:主要想法
+main point:要点
+main point:重点
+main point:重點
+main:主要的
 maintain:维护
 maize:玉米
 majesty:陛下
@@ -40,10 +40,10 @@ major:主要
 majority:大多数
 make a mistake:犯一个错误
 make changes:做出改变
-make it clear:澄清
-make it clear:明确
-make it clear:表明
 make it clear:搞清楚
+make it clear:明确
+make it clear:澄清
+make it clear:表明
 make it clear:说清楚
 make land:靠岸
 make landfall:靠岸
@@ -70,12 +70,12 @@ mammalian:哺乳动物的
 mammals:哺乳动物
 mammary gland:乳腺
 mammary:乳房的
-man:男人
+man with black hair:黑发的男人
+man with blond hair:金发的男人
 man with long hair:长头发的男人
 man with no hair:没头发的男人
 man with short hair:短头发的男人
-man with black hair:黑发的男人
-man with blond hair:金发的男人
+man:男人
 manage:管理
 management:管理
 manager:经理
@@ -103,18 +103,18 @@ manufacture:制造
 manufacturer:制造商
 many celled:多细胞的
 many insects:许多昆虫
+many of them:他们中的许多人
+many of you:你们中的许多人
+many of:许多
 many other:许多其他
-many people:许多人
 many people:很多人
+many people:许多人
 many times:多次
 many times:很多时候
-many years:许多年
 many years:多年
-many of:许多
-many of you:你们中的许多人
-many of them:他们中的许多人
-many:许多
+many years:许多年
 many:很多
+many:许多
 map:地图
 mar:毁
 marathon:马拉松赛跑
@@ -151,8 +151,8 @@ mascara:睫毛膏
 masculine:男性的
 mask:面具
 mass:大量
-massachusetts:麻萨诸塞州
 massachusetts institute of technology:麻萨诸塞州技术学院
+massachusetts:麻萨诸塞州
 mast:桅杆
 master:大师
 mastery:掌握
@@ -174,13 +174,15 @@ mauritius:毛里求斯
 max:麦克斯
 maxilla:上颌骨
 maximum:最大值
-may refer to:可以指
 may god be with you:愿神与你同在
+may refer to:可以指
 may the force be with you:愿力量与你同在
 may:可以
 mayan:玛雅人
 mayhem:伤害罪
 mayor:市长
+mayoral election:市长选举
+mayoral:市长
 mazda:马自达
 mcgill university:麦吉尔大学
 mcmaster university:麦克马斯特大学
@@ -220,8 +222,8 @@ medical university:医科大学
 medical:医学的
 medication:药
 medicine:医学
-medieval:中世纪的
 medieval village:中世纪村庄
+medieval:中世纪的
 mediterranean sea:地中海
 meet:遇见
 meeting:会议
@@ -237,8 +239,8 @@ members of the united states congress:美国议会议员
 members:成员
 membrane:膜
 memorial:纪念碑
-memorize:记住
 memorise:记住
+memorize:记住
 memorizing:记住
 memory:记忆
 men and women:男人和女人
@@ -263,10 +265,11 @@ mental health:心理健康
 mental illness:精神病
 mental:心理的
 mention:提到
-menu:菜单
-menu items:菜单项
 menu bar:菜单条
+menu items:菜单项
+menu:菜单
 meow:喵
+merchant navy:国家商船队
 mercury:水星
 mercury:汞
 mercy:仁慈
@@ -298,8 +301,8 @@ mexico:墨西哥
 mice:老鼠
 michael:迈克尔
 michelangelo:米开朗基罗
-michigan:密西根
 michigan state university:密歇根州立大学
+michigan:密西根
 microanatomy:微观解剖学
 microbe:微生物
 microbial:微生物的
@@ -469,8 +472,8 @@ morpheme:词素
 morphine:吗啡
 morphological:形态学的
 morphology:形态学
-moscow:莫斯科
 moscow state university:莫斯科国立大学
+moscow:莫斯科
 mosque:清真寺
 most important:最重要
 most of the time:大多数时候
@@ -493,23 +496,23 @@ motorboat:快艇
 motorcycle:摩托车
 motorway:高速公路
 mount:登上
-mountain:山
 mountain village:山村
+mountain:山
 mountaineer:登山者
 mountaineering club:登山俱乐部
 mountaineering:登山
+mouse event:鼠标事件
 mouse:老鼠
 mouse:耗子
 mouse:鼠标
-mouse event:鼠标事件
 mouth:嘴
 mouthful:拗口的
 mouthful:满嘴的
 mouthwash:漱口水
 move:移动
 movement:移动
-movie:电影
 movie maker:电影制作人
+movie:电影
 mow:割草
 mozambique:莫桑比克
 mtv:音乐电视

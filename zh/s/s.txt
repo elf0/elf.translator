@@ -28,8 +28,8 @@ same:相同的
 samoa:萨摩亚
 sample:样本
 samsung:三星
-san diego:圣地亚哥
 san diego state university:圣地亚哥州立大学
+san diego:圣地亚哥
 san francisco:旧金山
 san marino:圣马力诺
 san:圣
@@ -60,12 +60,12 @@ savages:野蛮人
 save:保存
 saved:拯救了
 saw:锯
+say it to my face:当着我的面说
 say:说
 says:说
-say it to my face:当着我的面说
-scalar product:标量积
 scalar function:标量函数
 scalar functions:标量函数
+scalar product:标量积
 scale:比例
 scandal:丑闻
 scandium:钪
@@ -84,13 +84,13 @@ schooner:多桅帆船
 science fiction:科幻小说
 science of life:生命科学
 science:科学
-scientific:科学的
 scientific american:科学美国人
 scientific exploration:科学探险
 scientific law:科学定律
+scientific:科学的
 scientist:科学家
-scientists:科学家
 scientists and engineers:科学家和工程师
+scientists:科学家
 scope:范围
 score:得分
 scorn:轻蔑
@@ -121,8 +121,8 @@ seahorse:海马
 seaman:海员
 seaport:海港
 search:搜索
-seaside:海边的
 seaside village:海边的村子
+seaside:海边的
 season:季节
 seat belt:安全带
 seat:座位
@@ -170,6 +170,7 @@ semesters:学期
 semicircle:半圆
 semicolon:分号
 semiformal:半正式的
+senate election:参议院选举
 senate:参议院
 send:发送
 senegal:塞内加尔
@@ -210,9 +211,9 @@ serpent:蛇
 servant:仆人
 server:服务器
 service:服务
-services:服务
 services and investment:服务和投资
 services and products:服务和产品
+services:服务
 sesame:芝麻
 set fire:纵火
 set:设置
@@ -345,8 +346,8 @@ silver medal:银牌
 silver medalist:银牌获得者
 silver:银子
 similar:相似的
-simon:西蒙
 simon fraser university:西蒙弗雷泽大学
+simon:西蒙
 simple:简单
 simplified version:简化版
 simplified:简化的
@@ -356,8 +357,8 @@ sin:罪过
 since:自从
 sine:正弦
 sing:唱
-singapore:新加坡
 singapore management university:新加坡管理大学
+singapore:新加坡
 singer:歌手
 single celled:单细胞的
 single integral:一重积分
@@ -404,10 +405,10 @@ sleeping beauty:睡美人
 sleepless:失眠的
 sleeplessness:失眠
 sleepwalk:梦游
-sleepy:困的
-sleepy:瞌睡来的
-sleepy:昏昏欲睡的
 sleepy village:昏昏欲睡的村庄
+sleepy:困的
+sleepy:昏昏欲睡的
+sleepy:瞌睡来的
 slice:切片
 slices:切片
 slick:光滑的
@@ -472,8 +473,8 @@ sober:醒酒
 soccer:足球
 social and economic:社会和经济
 social and political:社会和政治
-social group:社团
 social behavior:社会性行为
+social group:社团
 social insects:社会化的昆虫
 social media:社交媒体
 social relationship:社会关系
@@ -546,8 +547,8 @@ someone like you:有人喜欢你
 someone:某人
 something else:其它一些东西
 something:东西
-sometimes:有时
 sometimes all you need is:有时你所需要的只是
+sometimes:有时
 somewhere:某处
 somnambulate:梦游
 son in law:女婿
@@ -604,6 +605,7 @@ spam:垃圾邮件
 spam:灌水
 span a to b:跨越a到b
 span:跨度
+spanish navy:西班牙海军
 spanish:西班牙人
 spanish:西班牙的
 spanish:西班牙语
@@ -698,14 +700,16 @@ starlike:像星星的
 start:开始
 starvation:饥饿
 starve:饿死
+state election:州选举
+state elections:州选举
 state terrorism:国家恐怖主义
 state university:州立大学
 state:国家
-states:国家
 state:州
 state:状态
-statement:陈述
 statement:语句
+statement:陈述
+states:国家
 static:静态的
 station:站
 statism:集权主义
@@ -730,6 +734,7 @@ steak:肉排
 steal:偷
 steel:钢
 stele:石碑
+stem cell:干细胞
 stem:茎
 step child:继孩
 step daughter:继女
@@ -741,7 +746,6 @@ step son:继子
 stephen:史蒂芬
 sternutation:喷嚏
 steve:史蒂夫
-stem cell:干细胞
 still:静止的
 stimulant:兴奋剂
 stimulation:刺激
@@ -817,15 +821,14 @@ subunit:子单位
 suburb:市郊
 subway:地铁
 success:成功
-successful:成功的
 successful career:成功的职业生涯
 successful experience:成功的经验
 successful:成功的
 successfully:成功地
 successor:继任者
 succinct:简洁的
-such as:例如
 such as a book:例如一本书
+such as:例如
 such:如此
 suck off:口交
 suck:吸
@@ -903,6 +906,8 @@ swamp:林湿地
 swan:天鹅
 swaziland:斯威士兰
 sweden:瑞典
+swedish navy:瑞典海军
+swedish:瑞典的
 swedish:瑞典语
 sweetener:甜味剂
 swimmer:游泳者

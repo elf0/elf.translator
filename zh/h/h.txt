@@ -32,8 +32,8 @@ handshake:握手
 hang over:宿醉
 hanging:绞刑
 happiness:幸福
-happy birthday:生日快乐
 happy birthday to you:祝你生日快乐
+happy birthday:生日快乐
 happy:快乐的
 hard to tell:很难说
 hard:硬的
@@ -41,21 +41,21 @@ hardware:硬件
 hare:长耳兔
 harm:伤害
 harmful:有害的
+harmonic analysis:调和分析
 harmonic:调和
 harmonic:调和的
-harmonic analysis:调和分析
 harmonica:口琴
 harp:竖琴
 harry:骚扰
-harvard:哈佛
+harvard university press:哈佛大学出版社
 harvard university:哈佛大学
 harvard university:哈佛大學
-harvard university press:哈佛大学出版社
+harvard:哈佛
 haryana:哈里亚纳邦(印度)
 has:有
 hat:帽子
-hatch:孵化
 hatch from eggs:从蛋孵化而来
+hatch:孵化
 hatched from eggs:从蛋孵化而来
 hate:恨
 hatred:憎恨
@@ -106,15 +106,15 @@ health:健康
 healthy:健康的
 heap:堆
 hear:听
+heart surgery:心脏外科
 heart:心
 heart:心脏
-heart surgery:心脏外科
 heat:热
 heaven:天堂
 heavy:重的
+hebrew university:希伯来大学
 hebrew:希伯来人
 hebrew:希伯来语
-hebrew university:希伯来大学
 heel:脚跟
 heifer:小母牛
 height:高度
@@ -123,14 +123,14 @@ helicopters:直升机
 helium:氦
 helix:螺旋
 hell:地狱
-hello:你好
 hello everyone:大家好
+hello:你好
 helminths:寄生虫
-help:帮助
 help and support:帮助和支持
 help me:帮帮我
-help you:帮助你们
 help you:帮助你
+help you:帮助你们
+help:帮助
 helpful:有帮助的
 hemisphere:半球
 hemorrhage:大出血
@@ -160,11 +160,11 @@ heterosexual fellatio:异性口交
 heterosexual:异性的
 heuristic function:启发式函数
 heuristic:启发式的
-hexapod:六足
-hexapod:六只脚的
-hexapod invertebrates:六足无脊椎动物
 hexagon:六边形
 hexamidine:己脒定
+hexapod invertebrates:六足无脊椎动物
+hexapod:六只脚的
+hexapod:六足
 hibernation:冬眠
 hiccup:打嗝
 hickey:吻痕
@@ -215,8 +215,8 @@ his wife:他的妻子
 his work:他的工作
 his:他的
 historian:历史学家
-historic:历史性的
 historic village:历史悠久的村庄
+historic:历史性的
 historical:历史的
 history of the united states:美国历史
 history:历史
@@ -228,8 +228,8 @@ hold hands:牵手
 hold me in your arms:拥我入怀
 hold:拥有
 hole:洞
-holiday:假日
 holiday village:度假村
+holiday:假日
 holland:荷兰地区
 hollywood:好莱坞
 holy:神圣的
@@ -257,8 +257,8 @@ honduras:洪都拉斯
 honey:蜂蜜
 honeycomb:蜂巢
 honeymoon:蜜月
-hong kong:香港
 hong kong university of science and technology:香港科技大学
+hong kong:香港
 honor:荣誉
 hood:头巾
 hoof:蹄
@@ -292,8 +292,8 @@ housewife:主妇
 housing:住宅
 houston:休斯敦
 how:如何
-however:然而
 however sometimes:然而有时候
+however:然而
 html:超文本标记语言
 http:超文本传输协议
 https:安全的超文本传输协议

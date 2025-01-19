@@ -1,3 +1,5 @@
+u.s. navy:美国海军
+u.s.:美国
 ubiquitous:到处存在的
 udder:牛羊等反刍动物的乳房
 uefa:欧洲足球协会联盟
@@ -59,9 +61,8 @@ united states:美国
 united:联合的
 universal:宇宙的
 universality:普遍性
-university:大学
-university:大學
 university education:大学教育
+university library:大学图书馆
 university of alabama:阿拉巴马大学
 university of amsterdam:阿姆斯特丹大学
 university of applied science:应用科学大学
@@ -71,15 +72,15 @@ university of auckland:奥克兰大学
 university of birmingham:伯明翰大学
 university of bristol:布里斯托大学
 university of bristol:布里斯托尔大学
-university of british columbia:英属哥伦比亚大学
 university of british columbia:不列颠哥伦比亚大学
-university of california:加利福尼亚大学
-university of california:加州大学
-university of california:加州大學
+university of british columbia:英属哥伦比亚大学
 university of california, berk:加州大学伯克利分校
 university of california, berkeley:加州大学伯克利分校
 university of california, irvine:加州大学欧文分校
 university of california, riverside:加州大学河滨分校
+university of california:加利福尼亚大学
+university of california:加州大学
+university of california:加州大學
 university of cambridge:剑桥大学
 university of central florida:中佛罗里达大学
 university of chicago:芝加哥大学
@@ -146,7 +147,6 @@ university of wisconsin:威斯康星大学
 university of wyoming:怀俄明大学
 university of york:约克大学
 university of zurich:苏黎世大学
-university library:大学图书馆
 university president:大学校长
 university president:大學校長
 university press:大学出版社
@@ -159,6 +159,8 @@ university student:大学生
 university student:大學生
 university students:大学生
 university students:大學生
+university:大学
+university:大學
 unknown:不知道的
 unlabeled data:未标注数据
 unlabeled data:未标记数据
@@ -202,7 +204,9 @@ uric:尿的
 url:统一资源定位符
 urology:泌尿外科
 uruguay:乌拉圭
+us navy:美国海军
 us:我们
+us:美国
 usa:美国
 usage:用法
 use case:用例

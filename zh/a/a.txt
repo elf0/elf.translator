@@ -5,8 +5,8 @@ a bottle of water:一瓶水
 a brain:一个大脑
 a brief:一个简短的
 a bucket of water:一桶水
-a bug:一只虫子
 a bug:一个缺陷
+a bug:一只虫子
 a case:一个案例
 a city:一个城市
 a clear:一个明确的
@@ -15,7 +15,6 @@ a complete:一个完整的
 a cup of water:一杯水
 a decade ago:十年前
 a family:一个家庭
-a few:几
 a few days before:几天前
 a few days later:几天后
 a few months ago:几个月前
@@ -26,10 +25,11 @@ a few weeks ago:几周前
 a few years ago:几年前
 a few years ago:幾年前
 a few years later:几年后
-a girl:一个少女
-a girl:一个姑娘
-a girl:一个女生
+a few:几
 a girl:一个女孩
+a girl:一个女生
+a girl:一个姑娘
+a girl:一个少女
 a good:一个好的
 a is central to b:a是b的中心
 a letter:一封信
@@ -53,12 +53,12 @@ a pool of water:一池水
 a predator:一个捕食者
 a problem:一个问题
 a queen:一个王后
-a rich:一个有钱的
-a rich:一个富有的
-a rich man:一个有钱的男人
 a rich man:一个富翁
+a rich man:一个有钱的男人
 a rich woman:一个富婆
 a rich woman:一个有钱的女人
+a rich:一个富有的
+a rich:一个有钱的
 a short:一个简短的
 a significant:一个有意义的
 a simple:一个简单的
@@ -122,10 +122,10 @@ about two years ago:大约两年前
 about us:关于我们
 about:关于
 about:大约
-above:上面的
-above:以上
 above discussion:上面的讨论
 above discussion:以上讨论
+above:上面的
+above:以上
 abraham lincoln:亚伯拉罕林肯
 abraham:亚伯拉罕
 absement:位移积分
@@ -208,8 +208,8 @@ active:活跃的
 activism:行动主义
 activist:活动家
 activist:活跃者
-activity:活动
 activities:活动
+activity:活动
 actor:演员
 actress:女演员
 actually:实际上
@@ -246,11 +246,11 @@ adolf:阿道夫
 adopt:收养
 adoption:收养
 adrenaline:肾上腺素
+adult insect:成年昆虫
+adult insects:成年昆虫
 adult:成人的
 adult:成年
 adult:成年的
-adult insect:成年昆虫
-adult insects:成年昆虫
 adultery:通奸
 adulthood:成年期
 advanced features:高级特征
@@ -545,8 +545,8 @@ amsterdam:阿姆斯特丹
 amulet:护身符
 amusement park:游乐园
 an american:一个美国人
-an archive:一份档案
 an archive:一个档案
+an archive:一份档案
 an example:一个例子
 an important factor:一个重要因素
 an important:一个重要的
@@ -577,8 +577,8 @@ ancient chinese:古代中国人
 ancient egypt:古埃及
 ancient egyptian:古埃及人
 ancient greece:古希腊
-ancient greek:古希腊文
 ancient greek:古希腊人
+ancient greek:古希腊文
 ancient philosophy:古典哲学
 ancient rome:古罗马
 ancient village:远古村落
@@ -627,9 +627,9 @@ anniversary:周年纪念日
 annotation:注解
 announce:宣告
 announced a series of:宣布了一系列
-annual:年度的
 annual meeting:年会
 annual report:年度报告
+annual:年度的
 anode:正极
 anonymous:匿名的
 anonymously:匿名地
@@ -643,8 +643,8 @@ another:另一个
 answer my question:回答我的问题
 answer:回答
 answer:答案
-ant:蚂蚁
 ant species:蚂蚁物种
+ant:蚂蚁
 antarctic:南极洲的
 antarctica:南极洲
 antenna:触角
@@ -693,9 +693,9 @@ apostasy:信仰背弃
 app:应用程序
 appeal:上诉
 appear:出现
-appears:出现
-appears to:呈现给
 appearance:出现
+appears to:呈现给
+appears:出现
 append:附加
 appetite:食欲
 appetizing:美味的
@@ -752,8 +752,8 @@ are you telling me that:你要告诉我
 are:是
 area:地区
 area:面积
-areas:面积
 area:领域
+areas:面积
 arena:竞技场
 argentina:阿根廷
 argentine:阿根廷
@@ -794,8 +794,8 @@ art style:艺术风格
 art:艺术
 artemisinin:青蒿素
 artery:动脉
-arthur:亚瑟
 arthropod:节肢动物
+arthur:亚瑟
 article:文章
 articles:文章
 artifact:人造物品
@@ -837,8 +837,8 @@ as you know:如你所知
 as you see:如你所见
 as you wish:如你所愿
 as:当作
-asexual reproduction:无性繁殖
 asexual and sexual reproduction:无性和有性繁殖
+asexual reproduction:无性繁殖
 asexual:无性的
 ash:灰
 asia:亚洲
@@ -917,16 +917,16 @@ atlanta:亚特兰大
 atlantic:大西洋
 atlas:地图册
 atmosphere:大气
-atmospheric:大气的
 atmospheric oxygen:大气中的氧
+atmospheric:大气的
 atom:原子
 atomic nucleus:原子核
 atomic number:原子序数
 atomic weight:原子量
 atomic:原子的
 attack:攻击
-attempt:尝试
 attempt to control:尝试控制
+attempt:尝试
 attendance:出席
 attention deficit hyperactivity disorder:注意力欠缺多动症
 attention deficit:注意力欠缺

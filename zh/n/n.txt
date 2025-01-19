@@ -31,27 +31,27 @@ national park:国家公园
 national security:国家安全
 national socialism:国家社会主义
 national team:国家队
-national university:国立大学
 national university of singapore:新加坡国立大学
 national university of singapore:新加坡國立大學
+national university:国立大学
 national:国家的
 nationalism:民族主义
 nationalist:民族主义者
 nationality:国籍
-native:本地的
-native village:故乡
 native village:家乡
 native village:家鄉
-natural disaster:自然灾害
-natural disasters:自然灾害
+native village:故乡
+native:本地的
 natural disaster:自然災害
+natural disaster:自然灾害
 natural disasters:自然災害
+natural disasters:自然灾害
 natural environment:自然环境
 natural food:天然食品
-natural heritage:自然遗产
-natural history:自然历史
 natural gas:天然气
 natural gas:天然氣
+natural heritage:自然遗产
+natural history:自然历史
 natural landscape:自然景观
 natural language processing:自然语言处理
 natural language:自然语言
@@ -65,18 +65,18 @@ natural phenomena:自然现象
 natural phenomenon:自然现象
 natural philosophy:自然哲学
 natural products:天然产品
-natural resource:自然资源
 natural resource:自然資源
-natural resources:自然资源
+natural resource:自然资源
 natural resources:自然資源
+natural resources:自然资源
 natural rubber:天然橡胶
 natural science:自然科学
 natural sciences:自然科学
 natural scientist:自然科学家
 natural selection:自然选择
 natural world:自然历史
-natural:自然的
 natural:天然的
+natural:自然的
 nature park:自然公园
 nature:大自然
 nauru:瑙鲁
@@ -93,11 +93,11 @@ near earth asteroid:近地小行星
 near earth space:近地空间
 near earth:近地的
 near:接近
-nearby:附近
 nearby villages:附近的村子
+nearby:附近
 nearest:最近的
-nearly:几乎
 nearly all:几乎所有的
+nearly:几乎
 necessary:必要的
 necopidem:奈可吡旦
 need to know:需要知道
@@ -139,9 +139,9 @@ net:网络
 netherlands:荷兰
 network:网络
 neural activity:神经活动
-neural crest:神经嵴
 neural crest cell:神经嵴细胞
 neural crest cells:神经嵴细胞
+neural crest:神经嵴
 neural network:神经网络
 neural networks:神经网络
 neural progenitor cell:神经祖细胞
@@ -262,8 +262,8 @@ north korea:朝鲜
 north pole:北极
 north:北
 northeast:东北
-northeastern:东北的
 northeastern university:东北大学
+northeastern:东北的
 northern cyprus:北塞浦路斯
 northern:北方的
 northwestern university:西北大学

@@ -4,8 +4,8 @@ labeled data:已标记数据
 labeled:已标注的
 labeled:已标记的
 labor:分娩
-labor:工人
 labor:劳动力
+labor:工人
 laboratory:实验室
 labour:分娩
 labour:工人
@@ -164,8 +164,8 @@ lignify:木化
 like dogs:像狗一样
 like dogs:喜欢狗
 like the first:就像第一
-like you:喜欢你们
 like you:喜欢你
+like you:喜欢你们
 like:喜欢
 likewise:同样地
 limb:肢
@@ -186,8 +186,8 @@ linear function:线性函数
 linear:线性的
 linguistic:语言的
 linguistics:语言学
-link:连接
 link to:连接到
+link:连接
 linnaeus:林奈
 lion:狮子
 lipstick:口红
@@ -218,6 +218,7 @@ lizard:蜥蜴
 llama:羊驼
 load:加载
 lobster:龙虾
+local election:地方选举
 local fast food chain:本地快餐连锁
 local government:地方政府
 local villager:当地村民

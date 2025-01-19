@@ -1,5 +1,6 @@
 i agree with you:我赞同你
 i agree with:我同意
+i am coming with you:我跟你一起
 i am crazy:我疯了
 i am exhausted:我已经筋疲力尽了
 i am in a relationship with:我正在恋爱
@@ -12,7 +13,6 @@ i am scared:我被吓到了
 i am sorry:对不起
 i am terrified:我被吓到了
 i am tired:我累了
-i am coming with you:我跟你一起
 i asked:我问道
 i believe that:我相信
 i believe you:我相信你
@@ -88,9 +88,9 @@ i love you:我爱你
 i mean it:我是认真的
 i mean you no harm:我对你没恶意
 i mean you no hurt:我不会伤害你
-i miss you:我想你了
 i miss you so much:我太想你了
 i miss you so much:我太想你们了
+i miss you:我想你了
 i need to know:我需要知道
 i never:我从来不
 i promise:我保证
@@ -104,8 +104,6 @@ i think:我认为
 i told you:我告诉过你
 i told you:我跟你说过
 i was unable:我不能
-i will:我会
-i will:我将
 i will be back:我会回来的
 i will be with you:我会与你同在
 i will never forget:我永远不会忘记
@@ -113,17 +111,25 @@ i will never:我永远不会
 i will repeat what i said one more time:我再次重复我所说的
 i will see what i can do:我来看看我能做什么
 i will see what i can find:我来看看我能发现什么
+i will:我会
+i will:我将
 i would never:我永远不会
+i'll make my own decisions:我会做出自己的决定
+i'll never:我永远不会
+i'll see myself out:不用送了
+i'll see you later:我会来看你的
+i'll:我会
+i'll:我将
 i'm a lesbian:我是一个女同性恋
 i'm from america:我来自美国
 i'm from australia:我来自澳大利亚
 i'm from brazil:我来自巴西
 i'm from brussels:我来自布鲁塞尔
-i'm from denmark:我来自丹麦
-i'm from estonia:我来自爱沙尼亚
 i'm from canada:我来自加拿大
 i'm from china:我来自中国
+i'm from denmark:我来自丹麦
 i'm from england:我来自英格兰
+i'm from estonia:我来自爱沙尼亚
 i'm from finland:我来自芬兰
 i'm from france:我来自法国
 i'm from germany:我来自德国
@@ -151,33 +157,28 @@ i'm from tokyo:我来自东京
 i'm from toronto:我来自多伦多
 i'm from uganda:我来自乌干达
 i'm from ukraine:我来自乌克兰
+i'm gonna go away:我要离开
+i'm gonna tell you something:我要告诉你些事情
+i'm gonna tell you:我要告诉你
+i'm gonna:我要
 i'm in:我进去了
 i'm looking for:我在找
-i'm not sure:我不确定
 i'm not sure what happened:我不确定发生了什么
 i'm not sure what you mean:我不确定你的意思
 i'm not sure what you want me to do:我不确定你想要我做什么
+i'm not sure:我不确定
 i'm ready for love:我准备好恋爱了
 i'm ready for you:我为你准备好了
 i'm ready to go back:我准备好回去了
 i'm ready to go home:我准备好回家了
 i'm ready to play:我准备好演奏了
 i'm ready to talk:我准备好谈了
-i'm gonna tell you:我要告诉你
-i'm gonna tell you something:我要告诉你些事情
-i've never:我从来没有
-i've had enough:我受够了
-i've been fishing:我一直在钓鱼
-i've been fishing:我一直在摸鱼
-i've been fishing:我一直在偷懒
 i'm watching you:我盯着你的
-i'm gonna:我要
-i'll:我会
-i'll:我将
-i'll make my own decisions:我会做出自己的决定
-i'll never:我永远不会
-i'll see myself out:不用送了
-i'll see you later:我会来看你的
+i've been fishing:我一直在偷懒
+i've been fishing:我一直在摸鱼
+i've been fishing:我一直在钓鱼
+i've had enough:我受够了
+i've never:我从来没有
 i:我
 ice cream:冰淇淋
 ice cube:冰块
@@ -203,8 +204,8 @@ idiot:白痴
 idiotic:愚蠢的
 ido:伊都语
 idol:神像
-idyllic:田园风光的
 idyllic village:田园乡村
+idyllic:田园风光的
 iftar:开斋饭
 ignore:忽略
 ill:病的
@@ -255,8 +256,8 @@ improvements:改进
 impulse:冲动
 impulsive:冲动的
 impulsively:冲动地
-in:里面
 in:英寸
+in:里面
 inaccurate:不准确的
 inadequate:不够的
 inbreeding depression:近交衰退
@@ -289,9 +290,11 @@ independent:独立的
 independently:独立地
 index:索引
 india:印度
+indian navy:印度海军
 indian:印度人
-indiana:印第安纳
+indian:印度的
 indiana university:印第安纳大学
+indiana:印第安纳
 indicate:指示
 indie:独立的
 indigenous:本土的
@@ -351,10 +354,10 @@ inline skates:单排滑鞋
 inline:内联
 inner product:内积
 innocent:无辜的
-innovation:革新
 innovation:创新
 innovation:創新
 innovation:改革
+innovation:革新
 innovative:革新的
 inorganic compound:无机化合物
 inorganic:无机的
@@ -365,9 +368,9 @@ inquiry:调查
 insect:昆虫
 insecta:昆虫纲
 insecten:昆虫
-insects:昆虫
 insecticide:杀虫剂
 insecticides:杀虫剂
+insects:昆虫
 insensitive:不敏感的
 insert:插入
 insist:坚持
@@ -491,8 +494,8 @@ ionization energy:电离能
 ionize:电离
 ionized:电离的
 ions:离子
-iowa:艾奥瓦州
 iowa state university:爱荷华州立大学
+iowa:艾奥瓦州
 iran:伊朗
 iranian:伊朗人
 iranian:伊朗的
@@ -539,22 +542,24 @@ israeli:以色列人
 israeli:以色列的
 issue:问题
 istanbul:伊斯坦布尔
-it:它
 it feels:感觉
-it is up to:它取决于
 it is up to you:它取决于你
+it is up to:它取决于
+it:它
 italia:意大利
+italian navy:意大利海军
 italian:意大利人
+italian:意大利的
 italian:意大利语
 italy:意大利
 itch:瘙痒
 itchy:痒的
 item:项
 items:项
-iteration:迭代
-iterated:迭代的
 iterated integral:迭代积分
 iterated integrals:迭代积分
+iterated:迭代的
+iteration:迭代
 its:它的
 itself:它自己
 ivory coast:科特迪瓦

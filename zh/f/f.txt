@@ -26,9 +26,9 @@ fame:名望
 familiar with:熟悉
 familiar:熟悉的
 familiarize:熟悉
-family:家庭
 family member:家庭成员
 family members:家庭成员
+family:家庭
 family:科
 famine:饥荒
 famous:著名的
@@ -67,6 +67,7 @@ fearless:无畏的
 feature:特点
 featured:特色的
 features:特点
+federal election:联邦选举
 federal law:联邦法律
 federal:联合的
 federation:联盟
@@ -104,9 +105,9 @@ fibre:纤维
 fibrous material:纤维材质
 fibrous:纤维的
 fiction:小说
-fictional:虚构的
-fictional character:虚构的角色
 fictional character:虚构的人物
+fictional character:虚构的角色
+fictional:虚构的
 field effect:场效应
 field of research:研究领域
 field:场
@@ -130,15 +131,15 @@ films:电影
 final:最终的
 finally:最终
 finance:财政
-financial:财务的
-financial:金融的
 financial crisis:金融危机
 financial institutions:金融机构
 financial markets:金融市场
 financial services:金融服务
 financial system:金融体系
-find:发现
+financial:财务的
+financial:金融的
 find out:发现
+find:发现
 finds out:发现
 fine tuning:微调
 fine:罚金
@@ -179,9 +180,9 @@ fiscal year:财政年度
 fish:鱼
 fisher:捕鱼者
 fisherman:渔夫
+fishing village:渔村
 fishing:捕鱼
 fishing:摸鱼
-fishing village:渔村
 fishmonger:鱼贩
 fishwife:卖鱼女
 fishwife:泼妇
@@ -206,8 +207,8 @@ float:浮点数
 flood:洪水
 flooding:洪水
 floor:地板
-florida:佛罗里达
 florida international university:佛罗里达国际大学
+florida:佛罗里达
 flour:面粉
 flow chart:流程图
 flow:流动
@@ -221,19 +222,19 @@ fluorine:氟
 fly:苍蝇
 fly:飞
 focus on:专注于
-focuses on:专注于
 focus:专心
 focus:焦点
+focuses on:专注于
 fog:雾
 follow me:跟我来
 follow:跟随
 follower:追随者
+following discussion:以下讨论
+following discussion:后面的讨论
+following discussion:接下来的讨论
+following statement:以下语句
 following:后面的
 following:接下来的
-following discussion:接下来的讨论
-following discussion:后面的讨论
-following discussion:以下讨论
-following statement:以下语句
 font file:字体文件
 font:字体
 food additive:食品添加剂
@@ -338,6 +339,7 @@ freedom:自由
 freeway:高速公路
 freezing:冰冻的
 french actor:法国演员
+french navy:法国海军
 french noble:法国贵族
 french politician:法国政客
 french:法国人
@@ -381,9 +383,9 @@ fuel:燃料
 full:全部
 fully customizable:完全可定制的
 fully:完全地
-functionality:功能性
 function of time:关于时间的函数
 function:函数
+functionality:功能性
 functions:函数
 fundamental concept:基本概念
 fundamental concepts:基本概念

@@ -59,6 +59,7 @@ paris:巴黎
 parish:教区
 park:公园
 parkway:景观大道
+parliament election:国会选举
 parliament:国会
 parliamentary system:议会制
 parliamentary:议会的
@@ -69,9 +70,9 @@ parrot:鹦鹉
 parse:分析
 parser:分析器
 part:部分
-partial:部分的
 partial derivative:偏导数
 partial derivatives:偏导数
+partial:部分的
 participate:参加
 particle:粒子
 particular:特殊的
@@ -113,8 +114,8 @@ pay:付款
 pazinaclone:帕秦克隆
 pea:豌豆
 peace:和平
-peaceful:和平的
 peaceful village:宁静的村庄
+peaceful:和平的
 peacock:孔雀
 peak:峰
 peanut:花生
@@ -141,8 +142,8 @@ penetration:插入
 penguin:企鹅
 penicillin:青霉素
 peninsula:半岛
-pennsylvania:宾夕法尼亚
 pennsylvania state university:宾夕法尼亚州立大学
+pennsylvania:宾夕法尼亚
 penny:便士
 pentagon:五边形
 pentagram:五角星
@@ -268,10 +269,10 @@ placeholder:占位符
 plagiarism:抄袭
 plain:平坦的
 plan:计划
-plane:平面
-planes:平面
 plane curve:平面曲线
 plane curves:平面曲线
+plane:平面
+planes:平面
 planet:行星
 planetary system:行星系统
 planetary:行星的
@@ -360,8 +361,8 @@ ponytail:马尾辫
 poo:屎
 poop:拉屎
 poor:贫穷的
-pop:弹出
 pop-up:弹出
+pop:弹出
 pope:教皇
 popular:流行的
 population census:人口普查
@@ -382,15 +383,17 @@ portland:波特兰
 portrait:肖像
 portray:饰演
 portugal:葡萄牙
+portuguese navy:葡萄牙海军
 portuguese:葡萄牙人
+portuguese:葡萄牙的
 portuguese:葡萄牙语
 position:位置
 positive:正的
 possess:占有
 possession:占有
 possible:可能的
-post:投递
 post office:邮局
+post:投递
 postal:邮政的
 posthumous:死后的
 posthumously:死后
@@ -405,15 +408,16 @@ powder:粉末
 powdered egg:蛋粉
 powdered milk:奶粉
 powdered:粉末状的
+power function:幂函数
+power outage:停电
+power outage:断电
+power outages:停电
+power outages:断电
 power:力量
 power:幂
 power:电力
-power function:幂函数
-power outage:断电
-power outage:停电
-power outages:断电
-power outages:停电
 powerboat:快艇
+powerful navy:强大的海军
 powerful:有力的
 powerless:无力的
 powerlessness:无力
@@ -422,6 +426,7 @@ praise:赞美
 pray:祈祷
 prayer:祈祷
 pre-training:预训练
+preamble:导言
 precipitate:沉淀
 precipitate:陷入
 precipitation:沉积
@@ -434,7 +439,6 @@ predefine:预定义
 predefined:预定义的
 predict:预测
 prediction:预测
-preamble:导言
 preface:序言
 preferred:首选的
 prefix:前缀
@@ -461,9 +465,9 @@ press:按
 pressure:压力
 presume:假定
 pretend:假装
-pretty:美丽的
-pretty sure:十分确定
 prettiest village:最美的村庄
+pretty sure:十分确定
+pretty:美丽的
 prevent:预防
 previous:前一个
 prey:捕食
@@ -479,16 +483,16 @@ prime:主要的
 primitive:基本的
 prince:王子
 princess:公主
-princeton university:普林斯顿大学
 princeton university:普林斯頓大學
+princeton university:普林斯顿大学
 princeton:普林斯顿
 principle:原理
 print:打印
 prison:监狱
 prisoner:囚犯
 privacy:隐私
-private:私有的
 private university:私立大学
+private:私有的
 privatization:私有化
 privilege:特权
 prix:奖金
@@ -496,8 +500,8 @@ prize:奖
 probabilistic:概率的
 probability:概率
 probably:或许
-problem:难题
 problem:问题
+problem:难题
 problems:问题
 procedure:步骤
 process:处理
@@ -594,6 +598,7 @@ psychology:心理学
 psychopath:变态
 public domain:公共域
 public health:公共卫生
+public transit:公共交通
 public university:公立大学
 public:公共的
 publication:出版
@@ -602,10 +607,10 @@ publisher:出版商
 puerto rico:波多黎各
 puke:吐
 puking:呕吐
-pull over:停车
 pull down:拉下
-pull-down:下拉
+pull over:停车
 pull-down menu:下拉菜单
+pull-down:下拉
 pull:拉
 pulmonary artery:肺动脉
 pulmonary:肺的

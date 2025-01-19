@@ -40,15 +40,15 @@ ballroom:舞厅
 baltimore:巴尔的摩
 bamboo:竹子
 banana:香蕉
-band:带
 band:乐队
+band:带
 bangkok:曼谷
 bangladesh:孟加拉国
 bank vault:金库
 bank:银行
 bankruptcy:破产
-bar:酒吧
 bar:条
+bar:酒吧
 barack obama:巴拉克奥巴马
 barbados:巴巴多斯
 barcelona:巴塞罗那
@@ -72,15 +72,15 @@ based on these:基于这些
 based on:基于
 based:基于
 bashar:巴沙尔
-basic:基本的
 basic concept:基本概念
 basic concepts:基本概念
 basic information::基本信息
-basic principle:基本原理
-basic principles:基本原理
 basic principle:基本原则
+basic principle:基本原理
 basic principles:基本原则
+basic principles:基本原理
 basic training:基础训练
+basic:基本的
 basketball:篮球
 basque:巴斯克语
 bastard:私生子
@@ -147,13 +147,13 @@ beautiful small town:美丽的小镇
 beautiful smile:美丽的笑容
 beautiful spots:美丽的地点
 beautiful town:美丽的城镇
+beautiful village:美丽的村庄
 beautiful wife:美丽的妻子
 beautiful woman:美丽的女人
 beautiful women:美丽的女人们
 beautiful works:美丽的作品
 beautiful young woman:年轻漂亮的女人
 beautiful young:年轻漂亮的
-beautiful village:美丽的村庄
 beautiful:美丽的
 beauty and the beast:美女与野兽
 beauty:美人
@@ -165,9 +165,9 @@ because he:因为他
 because i:因为我
 because it could:因为它可以
 because it:因为它
-because of:因为
 because of this:因此
 because of you:因为你
+because of:因为
 because our:因为我们的
 because the first:因为第一个
 because their:因为他们的
@@ -192,8 +192,8 @@ began:开始
 begin:开始
 behavior:行为
 behaviour:行为
-beijing time:北京时间
 beijing college of political science and law:北京政法学院
+beijing time:北京时间
 beijing university of aeronautics and astronautics:北京航空航天大學
 beijing:北京
 being:生物
@@ -209,9 +209,9 @@ below:之下
 belt:带子
 bend:弯曲
 bending:弯曲
-beneficial:有益的
 beneficial insects:有益的昆虫
 beneficial insects:益虫
+beneficial:有益的
 beneficiaries:受益人
 beneficiary:受益人
 benefit:利益
@@ -357,9 +357,9 @@ bone marrow:骨髓
 bone:骨头
 boner:勃起的鸡巴
 bonus:奖金
+book cover:书的封面
 book publishing:图书出版
 book:书
-book cover:书的封面
 books:书
 bookstore:书店
 boots:靴子
@@ -405,7 +405,6 @@ bra:乳罩
 brackish water:淡海混合水
 brackish:淡海混合的
 braid:辫子
-brain:大脑
 brain activity:大脑活动
 brain death:脑死亡
 brain drain:人才流失
@@ -414,6 +413,7 @@ brain hemorrhage:脑溢血
 brain scan:脑部扫描
 brain surgery:脑外科
 brain tumor:脑瘤
+brain:大脑
 brainchild:智力作品
 brainwash:洗脑
 branch of biology:生物学分支
@@ -423,6 +423,7 @@ brand:烙印
 brandy:白兰地
 brave:勇敢的
 brazil:巴西
+brazilian navy:巴西海军
 brazilian:巴西人
 brazilian:巴西的
 bread:面包
@@ -460,6 +461,7 @@ bring her in:带她进来
 britain:英国
 british cat party:英国猫党
 british government:英国政府
+british navy:英国海军
 british politician:英国政客
 british:英国的
 broad sense:广义
