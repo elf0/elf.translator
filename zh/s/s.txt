@@ -1,3 +1,4 @@
+sable island:黑貂岛
 sable:黑貂
 saccharomyces:酵母
 sacred:神圣的
@@ -5,15 +6,39 @@ sad:悲伤的
 sadist:虐待狂
 safe:安全的
 safety belt:安全带
+safety car:安全车
+safety culture:安全文化
 safety first:安全第一
+safety glass:安全玻璃
+safety lamp:安全灯
+safety science:安全科学
 safety:安全
 said:说
 sailing ship:帆船
 sailing yacht:帆艇
 sailor moon:美少女战士
 sailor:水手
+saint andrew:圣安德鲁
+saint anne:圣安妮
+saint anthony:圣安东尼
 saint christopher and nevis:圣基茨和尼维斯
+saint david:圣大卫
+saint elizabeth:圣伊丽莎白
+saint francis:圣弗朗西斯
+saint george:圣乔治
+saint james:圣詹姆士
+saint john:圣约翰
+saint joseph:圣约瑟夫
+saint lawrence:圣劳伦斯
+saint louis:圣路易斯
 saint lucia:圣卢西亚
+saint martin:圣马丁
+saint mary:圣玛丽
+saint michael:圣迈克尔
+saint paul:圣保罗
+saint peter:圣彼得
+saint stephen:圣史蒂芬
+saint thomas:圣托马斯
 saint vincent and the grenadines:圣文森特和格林纳丁斯
 saint:圣
 salad:沙拉
@@ -26,6 +51,7 @@ samarium:钐
 same sex marriage:同性婚姻
 same:相同的
 samoa:萨摩亚
+sample space:样本空间
 sample:样本
 samsung:三星
 san diego state university:圣地亚哥州立大学
@@ -35,7 +61,10 @@ san marino:圣马力诺
 san:圣
 sanctuary:圣地
 sanctuary:庇护所
+sand lizard:沙蜥蜴
+sand river:沙河
 sand:沙
+sandbox game:沙盒游戏
 sandbox:沙盒
 sandwich:三明治
 sanitary pad:卫生巾
@@ -78,11 +107,25 @@ schedule:计划表
 schizophrenia:精神分裂症
 school discipline:校规
 school district:校区
+school psychology:学校心理学
+school teacher:学校教师
 school:学校
 schools:学校
 schooner:多桅帆船
+science center:科学中心
+science centre:科学中心
+science education:科学教育
 science fiction:科幻小说
+science foundation:科学基金
+science history:科学历史
+science magazine:科学杂志
+science museum:科学博物馆
+science news:科学新闻
 science of life:生命科学
+science park:科学公园
+science research:科学研究
+science writer:科学作家
+science writing:科学写作
 science:科学
 scientific american:科学美国人
 scientific exploration:科学探险
@@ -97,26 +140,55 @@ scorn:轻蔑
 scornful:轻蔑的
 scornfully:轻蔑地
 scorpion:蝎子
+scotland club:苏格兰俱乐部
+scotland football:苏格兰足球
 scotland government:苏格兰政府
+scotland road:苏格兰路
 scotland:苏格兰
 scots:苏格兰语
 scott:斯考特
+scottish accent:苏格兰口音
+scottish cabinet:苏格兰内阁
+scottish council:苏格兰议会
+scottish culture:苏格兰文化
+scottish education:苏格兰教育
+scottish english:苏格兰英语
+scottish football:苏格兰足球
 scottish government:苏格兰政府
+scottish history:苏格兰历史
+scottish independence:苏格兰独立
+scottish law:苏格兰法律
+scottish mythology:苏格兰神话
+scottish nationalism:苏格兰民族主义
+scottish police:苏格兰警察
+scottish politics:苏格兰政治
+scottish power:苏格兰电力
+scottish railway:苏格兰铁路
+scottish renaissance:苏格兰文艺复兴
+scottish television:苏格兰电视
 scottish:苏格兰
 scottish:苏格兰人
 scottish:苏格兰的
+scout team:侦察队
 scout:侦察
 scrap:碎片
 scrappy:细碎的
 scraps:碎片
 scratch:刮痕
+screen resolution:屏幕分辨率
 screen:屏幕
 screencast:屏幕记录
 screenshot:屏幕快照
+script editor:脚本编辑器
 script:脚本
 sculpt:雕刻
 sea bathing:海水浴
+sea bed:海床
+sea bird:海鸟
+sea grass:海草
+sea horse:海马
 sea level:海平面
+sea salt:海盐
 sea urchin:海胆
 sea water:海水
 sea:海
@@ -124,6 +196,11 @@ seafood:海鲜
 seahorse:海马
 seaman:海员
 seaport:海港
+search algorithm:搜索算法
+search problem:搜索问题
+search radar:搜索雷达
+search theory:搜索理论
+search tree:搜索树
 search:搜索
 seaside village:海边的村子
 seaside:海边的
@@ -138,14 +215,30 @@ second person singular:第二人称单数
 second step:第二步
 second:第二的
 secondary:第二的
+secret ballot:秘密投票
+secret diary:秘密日记
+secret garden:秘密花园
+secret girlfriend:秘密女朋友
+secret invasion:秘密入侵
+secret police:秘密警察
+secret service:秘密服务
+secret society:秘密社会
+secret treaty:秘密条约
+secret trial:秘密审判
+secret weapon:秘密武器
 secret:秘密
 secretary of state:国务卿
 secretary:秘书
 secretion:分泌物
 section:节
 secure:安全的
+security administration:安全管理
+security bug:安全缺陷
 security bureau:安全局
+security committee:安全委员会
 security council:安全委员会
+security department:安全部门
+security management:安全管理
 security:安全
 seduce:诱惑
 seduction:诱惑
@@ -254,6 +347,7 @@ sexual behaviour:性行为
 sexual dimorphism:性二态
 sexual exploitation:性剥削
 sexual fetishism:性崇拜
+sexual freedom:性自由
 sexual harassment:性骚扰
 sexual health:性健康
 sexual intercourse:性交
@@ -270,6 +364,9 @@ sexual:性的
 sexuality:性别
 sexually:性地
 seychelles:塞舌尔
+shadow cabinet:影子内阁
+shadow chancellor:影子大臣
+shadow factory:影子工厂
 shadow government:影子政府
 shadow minister:影子部长
 shadow:影子
@@ -410,7 +507,10 @@ sky:天空
 skyline:天际线
 slang:俚语
 slash:斜杠
+slave ship:奴隶船
+slave trade:奴隶贸易
 slave:奴隶
+slavery society:奴隶制社会
 slavery:奴隶制
 sleep deprivation:睡眠剥夺
 sleep with her:和她上床
@@ -457,6 +557,8 @@ smart phone:智能手机
 smart watch:智能手表
 smell:嗅
 smile:微笑
+smith college:史密斯学院
+smith college:史密斯學院
 smith:史密斯
 smog:烟雾
 smoke:烟
@@ -514,7 +616,12 @@ sodium:钠
 sofa:沙发
 soften:软化
 software and hardware:软件和硬件
+software developer:软件开发者
+software development:软件开发
+software engineer:软件工程师
+software engineering:软件工程学
 software:软件
+soil science:土壤科学
 soil scientist:土壤科学家
 soil:土壤
 soil:地表
@@ -578,6 +685,8 @@ son of a bitch:婊子养的
 son:儿子
 song:歌
 songs:歌
+sony entertainment:索尼娱乐
+sony music:索尼音乐
 sony:索尼
 soon:很快
 sorghum:高粱
