@@ -21,6 +21,7 @@ bad:坏的
 badge:徽章
 badges:徽章
 bag:袋子
+baghdad government:巴格达政府
 baghdad:巴格达
 bahamas:巴哈马
 bahrain:巴林
@@ -43,6 +44,7 @@ banana:香蕉
 band:乐队
 band:带
 bangkok:曼谷
+bangladesh government:孟加拉政府
 bangladesh:孟加拉国
 bank vault:金库
 bank:银行
@@ -193,6 +195,7 @@ begin:开始
 behavior:行为
 behaviour:行为
 beijing college of political science and law:北京政法学院
+beijing government:北京政府
 beijing time:北京时间
 beijing university of aeronautics and astronautics:北京航空航天大學
 beijing:北京
@@ -423,7 +426,9 @@ brand:烙印
 brandy:白兰地
 brave:勇敢的
 brazil:巴西
+brazilian government:巴西政府
 brazilian navy:巴西海军
+brazilian:巴西
 brazilian:巴西人
 brazilian:巴西的
 bread:面包
@@ -504,7 +509,10 @@ buildings:建筑
 built:建好的
 builtin:内建的
 bulgaria:保加利亚
+bulgarian government:保加利亚政府
+bulgarian:保加利亚
 bulgarian:保加利亚人
+bulgarian:保加利亚的
 bulgarian:保加利亚语
 bulging:鼓胀
 bull:公牛
