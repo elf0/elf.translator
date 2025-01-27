@@ -301,6 +301,7 @@ after:后
 afternoon:下午
 again:再
 again:又
+against government:反对政府
 against:反对
 against:对抗
 age distribution:年龄分布
@@ -354,6 +355,7 @@ airport:飞机场
 airstrike:空袭
 alabama:亚拉巴马州
 alan:艾伦
+alaska government:阿拉斯加州政府
 alaska:阿拉斯加州
 albania:阿尔巴尼亚
 albanian:阿尔巴尼亚语
@@ -482,6 +484,7 @@ amend:改进
 amendment to the united states constitution:美国宪法修正案
 amendment:修正案
 america first:美国第一
+america government:美国政府
 america:美国
 america:美洲
 american adults:美国成年人
@@ -550,6 +553,7 @@ amphibious warfare:两栖战争
 amphibious:两栖的
 amplitude:振幅
 amputation:截肢
+amsterdam government:阿姆斯特丹政府
 amsterdam:阿姆斯特丹
 amulet:护身符
 amusement park:游乐园
@@ -608,6 +612,7 @@ angeles:杉矶
 anger:愤怒
 angle:角
 angling:钓鱼
+angola government:安哥拉政府
 angola:安哥拉
 anguilla:安圭拉
 animal and plant:动物和植物
@@ -626,6 +631,7 @@ animation:动画
 anime:日式动画
 anise:茴芹
 aniseed:茴芹
+ankara government:安卡拉政府
 ankara:安卡拉
 ankle:踝关节
 anna:安娜
@@ -644,6 +650,7 @@ anonymous:匿名的
 anonymously:匿名地
 another country:另一个国家
 another example:另一个例子
+another government:另一个政府
 another person:另一个人
 another problem:另一个问题
 another way:另一个方法
@@ -759,11 +766,13 @@ are you serious:你认真的吗
 are you sure:你确定吗
 are you telling me that:你要告诉我
 are:是
+area government:地区政府
 area:地区
 area:面积
 area:领域
 areas:面积
 arena:竞技场
+argentina government:阿根廷政府
 argentina:阿根廷
 argentine government:阿根廷政府
 argentine:阿根廷
@@ -774,7 +783,9 @@ argument:参数
 aristotle:亚里士多德
 arithmetic logic unit:算术逻辑单元
 arithmetic:算术
+arizona government:亚利桑那州政府
 arizona:亚利桑那州
+arkansas government:阿肯色州政府
 arkansas:阿肯色州
 armada:舰队
 armed conflict:武装冲突
@@ -969,6 +980,7 @@ australian national university:澳大利亚国立大学
 australian national university:澳洲国立大学
 australian:澳大利亚人
 australians:澳大利亚人
+austria government:奥地利政府
 austria:奥地利
 author:作者
 authoritarian government:独裁政府
@@ -1015,4 +1027,5 @@ axe:斧
 axes:斧
 axis:轴
 axon:轴突
+azerbaijan government:阿塞拜疆政府
 azerbaijan:阿塞拜疆

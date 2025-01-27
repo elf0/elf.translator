@@ -26,6 +26,7 @@ railway station:火车站
 railway:铁路
 rain gauge:雨量计
 rain:雨
+rainbow government:彩虹政府
 rainbow:彩虹
 rainfall:降雨
 rainfall:降雨量
@@ -149,7 +150,9 @@ region:军区
 region:区域
 regional government:地区政府
 regional:区域的
+register government:注册政府
 register:注册
+registration government:注册政府
 registration:注册
 regret:后悔
 rehabilitation:康复
@@ -198,6 +201,7 @@ replace:替代
 replaceability:可替代性
 replaceable:可替代的
 reply:回复
+report government:报告政府
 report:报告
 represent as:表示成
 represent:表示
@@ -206,6 +210,7 @@ representative:代表
 representatives elections:代表选举
 reproduction:繁殖
 reproductive organ:生殖器官
+republic government:共和国政府
 republic of china:中华民国
 republic:共和国
 republican party:共和党
@@ -244,6 +249,7 @@ rest:休息
 restaurant:餐馆
 restaurants:餐馆
 restore:恢复
+restrict government:限制政府
 restrict:约束
 restrict:限制
 restriction:约束
@@ -275,6 +281,7 @@ revised:修订的
 revision:修订版
 revisionism:修正主义
 revisit:重游
+revolution government:革命政府
 revolution:革命
 revolutionary:革命的
 revolver:左轮手枪
@@ -335,6 +342,7 @@ roman government:罗马政府
 roman:罗马
 roman:罗马人
 roman:罗马的
+romania government:罗马尼亚政府
 romania:罗马尼亚
 romanian government:罗马尼亚政府
 romanian:罗马尼亚
@@ -409,4 +417,5 @@ rust:铁锈
 rutgers university:罗格斯大学
 ruthenium:钌
 rutter:航海手册
+rwanda government:卢旺达政府
 rwanda:卢旺达
