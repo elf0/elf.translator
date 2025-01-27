@@ -295,6 +295,7 @@ index:索引
 india government:印度政府
 india:印度
 indian government:印度政府
+indian medicine:印度医学
 indian navy:印度海军
 indian:印度
 indian:印度人
@@ -344,6 +345,12 @@ influence:影响力
 informal:非正式的
 informally:非正式地
 informatics:信息学
+information network:信息网络
+information service:信息服务
+information services:信息服务
+information system:信息系统
+information systems:信息系统
+information technology:信息技术
 information theory:信息理论
 information:信息
 infrastructure:基础
@@ -406,6 +413,9 @@ instructed:指导
 instruction:指令
 insulin:胰岛素
 insult:侮辱
+insurance company:保险公司
+insurance corporation:保险公司
+insurance service:保险服务
 insurance:保险
 insurrection:起义
 intact:完整的
@@ -492,6 +502,7 @@ invertebrates:无脊椎动物
 invest:投资
 investigate:调查
 investigator:调查者
+investment corporation:投资公司
 investment:投资
 investor:投资者
 invitation:邀请
@@ -515,7 +526,9 @@ iranian:伊朗
 iranian:伊朗人
 iranian:伊朗的
 iraq government:伊拉克政府
+iraq war:伊拉克战争
 iraq:伊拉克
+iraqi council:伊拉克议会
 iraqi government:伊拉克政府
 iraqi:伊拉克
 iraqi:伊拉克的

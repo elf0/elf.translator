@@ -13,6 +13,7 @@ a clear:一个明确的
 a company called:一家名为
 a complete:一个完整的
 a cup of water:一杯水
+a day:一日
 a decade ago:十年前
 a family:一个家庭
 a few days before:几天前
@@ -31,6 +32,7 @@ a girl:一个女生
 a girl:一个姑娘
 a girl:一个少女
 a good:一个好的
+a half:一半
 a is central to b:a是b的中心
 a letter:一封信
 a long time ago:很久以前
@@ -59,6 +61,7 @@ a rich woman:一个富婆
 a rich woman:一个有钱的女人
 a rich:一个富有的
 a rich:一个有钱的
+a secret:一个秘密
 a short:一个简短的
 a significant:一个有意义的
 a simple:一个简单的
@@ -132,7 +135,9 @@ absement:位移积分
 absence:缺席
 absent:缺席的
 absition:位移积分
+absolute monarchy:绝对君主制
 absolute power:绝对权力
+absolute value:绝对值
 absolute:绝对
 absolutely:绝对地
 abstract syntax tree:抽象语法树
@@ -147,6 +152,7 @@ abusive:谩骂的
 acadagnostus:古球接子
 acadagnostus:针球接子
 academic:学院的
+academy awards:学院奖
 academy of engineering:工程院
 academy of sciences:科学院
 academy:学院
@@ -156,6 +162,7 @@ accelerator:加速器
 accent:口音
 accept:接受
 acceptable:可接受的
+access control:访问控制
 access:访问
 accessdate:访问日期
 accessibility:可访问性
@@ -201,6 +208,7 @@ acronym:首字母缩写词
 across:穿过
 act:行动
 actinium:锕
+action party:行动党
 action plan:行动计划
 action potential:动作电位
 action:行动
@@ -234,6 +242,7 @@ adequately:充分地
 adequately:足够地
 adimolol:阿地洛尔
 adjective:形容词
+administration council:管理委员会
 administration:管理
 administrative:行政的
 administrator:管理员
@@ -242,6 +251,7 @@ admiration:赞美
 admit:准入
 admit:承认
 adolescence:青春期
+adolf hitler:阿道夫希特勒
 adolf:阿道夫
 adopt:收养
 adoption:收养
@@ -260,6 +270,10 @@ advantages:优点
 advent:基督降临
 adventist:基督再临论者
 adventists:基督再临论者
+adventure comics:冒险漫画
+adventure film:冒险电影
+adventure game:冒险游戏
+adventure novel:冒险小说
 adventure:冒险
 adverb:副词
 adverbial:副词的
@@ -273,16 +287,22 @@ aesthetics:美学
 affection:感动
 affinity:亲合力
 afghan government:阿富汗政府
+afghan war:阿富汗战争
 afghan:阿富汗
 afghanistan government:阿富汗政府
 afghanistan:阿富汗
 afloqualone:氟喹酮
 afloqualone:氨氟喹酮
 afraid:担忧
+africa league:非洲联盟
 africa:非洲
 african american english:非裔美国人英语
+african campaign:非洲战役
 african countries:非洲国家
+african elephant:非洲大象
 african government:非洲政府
+african music:非洲音乐
+african states:非洲国家
 african union:非洲联盟
 african:非洲
 african:非洲人
@@ -344,6 +364,9 @@ airbase:空军基地
 airborne:空气中的
 aircraft carrier:航空母舰
 aircraft carriers:航空母舰
+aircraft engine:飞机发动机
+aircraft engines:飞机发动机
+aircraft manufacturer:飞机制造商
 aircraft:飞机
 airfield:机场
 airlift:空运
@@ -353,9 +376,11 @@ airliner:客机
 airplane:飞机
 airport:飞机场
 airstrike:空袭
+alabama senate:亚拉巴马州参议院
 alabama:亚拉巴马州
 alan:艾伦
 alaska government:阿拉斯加州政府
+alaska senate:阿拉斯加州参议院
 alaska:阿拉斯加州
 albania:阿尔巴尼亚
 albanian:阿尔巴尼亚语
@@ -372,6 +397,7 @@ alcoholic:含酒精的
 alcoholic:酒鬼
 alderman:市议员
 alex:亚历克斯
+alexander island:亚历山大岛
 alexander:亚历山大
 algae:藻
 algebra:代数
@@ -379,6 +405,7 @@ algebraic function:代数函数
 algebraic:代数的
 algeria:阿尔及利亚
 algerian government:阿尔及利亚政府
+algerian war:阿尔及利亚战争
 algerian:阿尔及利亚
 algerian:阿尔及利亚人
 algerian:阿尔及利亚的
@@ -421,9 +448,11 @@ all your:你所有的
 all:全体
 all:全部
 all:所有
+allen county:艾伦县
 allen:艾伦
 allergy:过敏
 alley:巷
+alliance party:联盟党
 alliance:联盟
 alligator:短吻鳄
 allocated resources:被分配的资源
@@ -462,6 +491,7 @@ altruism:利他主义
 altruist:利他主义者
 altruistic:利他的
 alum:矾
+aluminium alloy:铝合金
 aluminium cyanide:氰化铝
 aluminium:铝
 alumna:女校友
@@ -485,6 +515,7 @@ amendment to the united states constitution:美国宪法修正案
 amendment:修正案
 america first:美国第一
 america government:美国政府
+america online:美国在线
 america:美国
 america:美洲
 american adults:美国成年人
@@ -553,6 +584,7 @@ amphibious warfare:两栖战争
 amphibious:两栖的
 amplitude:振幅
 amputation:截肢
+amsterdam arena:阿姆斯特丹竞技场
 amsterdam government:阿姆斯特丹政府
 amsterdam:阿姆斯特丹
 amulet:护身符
@@ -607,6 +639,7 @@ android:机器人
 andromeda:仙女座
 andy:安迪
 anemia:贫血
+angel investor:天使投资者
 angel:天使
 angeles:杉矶
 anger:愤怒
@@ -624,14 +657,21 @@ animal rights:动物权利
 animal sacrifice:动物祭品
 animal shelter:动物庇护所
 animal species:动物物种
+animal welfare:动物福利
 animal:动物
 animals:动物
 animate:动画
+animation film:动画电影
+animation magazine:动画杂志
+animation studio:动画工作室
 animation:动画
 anime:日式动画
 anise:茴芹
 aniseed:茴芹
 ankara government:安卡拉政府
+ankara province:安卡拉省
+ankara university:安卡拉大学
+ankara university:安卡拉大學
 ankara:安卡拉
 ankle:踝关节
 anna:安娜
@@ -703,6 +743,7 @@ ape:猿
 apex predator:顶端捕食者
 aphasia:失语症
 apoidea:蜂
+apollo theatre:阿波罗剧院
 apollo:阿波罗
 apology:道歉
 apostasy:信仰背弃
@@ -715,7 +756,13 @@ appears:出现
 append:附加
 appetite:食欲
 appetizing:美味的
+apple computer:苹果电脑
+apple computer:苹果计算机
+apple music:苹果音乐
+apple tv:苹果电视
 apple:苹果
+application software:应用程序软件
+application software:应用软件
 application wide:应用程序范围
 application:应用
 application:应用程序
@@ -737,6 +784,7 @@ aprobarbital:阿普比妥
 aquatic animal:水生动物
 aquatic:水生的
 arab world:阿拉伯世界
+arabic alphabet:阿拉伯语字母
 arabic:阿拉伯的
 arabic:阿拉伯语
 arbitrary:任意的
@@ -766,6 +814,8 @@ are you serious:你认真的吗
 are you sure:你确定吗
 are you telling me that:你要告诉我
 are:是
+area code:地区代码
+area council:地区议会
 area government:地区政府
 area:地区
 area:面积
@@ -774,18 +824,24 @@ areas:面积
 arena:竞技场
 argentina government:阿根廷政府
 argentina:阿根廷
+argentine army:阿根廷军队
+argentine football:阿根廷足球
 argentine government:阿根廷政府
+argentine navy:阿根廷海军
 argentine:阿根廷
 argentinian:阿根廷人
 argon:氩
 argue:争论
 argument:参数
+aristotle university:亚里士多德大学
 aristotle:亚里士多德
 arithmetic logic unit:算术逻辑单元
 arithmetic:算术
 arizona government:亚利桑那州政府
+arizona senate:亚利桑那州参议院
 arizona:亚利桑那州
 arkansas government:阿肯色州政府
+arkansas senate:阿肯色州参议院
 arkansas:阿肯色州
 armada:舰队
 armed conflict:武装冲突
@@ -796,7 +852,9 @@ armed forces:部隊
 armed groups:武装团体
 armed groups:武装组织
 armenia:亚美尼亚
+armenian catholic:亚美尼亚天主教
 armenian government:亚美尼亚政府
+armenian kingdom:亚美尼亚王国
 armenian:亚美尼亚
 armenian:亚美尼亚人
 armenian:亚美尼亚的
@@ -812,10 +870,24 @@ array:数组
 arrest:逮捕
 arrow:箭
 arsenic:砷
+art awards:艺术奖
+art center:艺术中心
+art club:艺术俱乐部
+art critic:艺术评论家
+art film:艺术电影
 art gallery:艺术画廊
+art history:艺术历史
+art institute:艺术学院
+art museum:艺术博物馆
+art punk:艺术朋克
+art school:艺术学校
+art schools:艺术学校
 art style:艺术风格
+art theatre:艺术剧院
+art university:艺术大学
 art:艺术
 artemisinin:青蒿素
+artery disease:动脉疾病
 artery:动脉
 arthropod:节肢动物
 arthur:亚瑟
@@ -865,7 +937,12 @@ asexual reproduction:无性繁殖
 asexual:无性的
 ash:灰
 asia:亚洲
+asian elephant:亚洲大象
+asian film:亚洲电影
 asian government:亚洲政府
+asian music:亚洲音乐
+asian news:亚洲新闻
+asian television:亚洲电视
 asian:亚洲
 asian:亚洲人
 asian:亚洲的
@@ -882,10 +959,13 @@ assad government:阿萨德政府
 assad:阿萨德
 assam:阿萨姆邦
 assamese:阿萨姆人
+assault rifle:突击步枪
 assault:突击
+assembly language:汇编语言
 assembly:汇编
 assess:评估
 assessment:评估
+asset management:资产管理
 asset:资产
 assets:资产
 asshole:屁眼
@@ -940,6 +1020,8 @@ athlete:运动员
 athletes:运动员
 athletic:运动的
 athletics:田径
+atlanta campaign:亚特兰大战役
+atlanta university:亚特兰大大学
 atlanta:亚特兰大
 atlantic:大西洋
 atlas:地图册
@@ -1028,4 +1110,5 @@ axes:斧
 axis:轴
 axon:轴突
 azerbaijan government:阿塞拜疆政府
+azerbaijan province:阿塞拜疆省
 azerbaijan:阿塞拜疆

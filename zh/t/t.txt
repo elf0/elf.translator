@@ -353,7 +353,12 @@ toxin:毒素
 toy:玩具
 toyota:丰田
 track:痕迹
+trade agreement:贸易协议
 trade and investment:贸易和投资
+trade association:贸易协会
+trade center:贸易中心
+trade route:贸易路线
+trade union:贸易联盟
 trade:贸易
 trademark:商标
 tradition:传统
@@ -361,8 +366,11 @@ traditional village:传统村落
 traditional:传统的
 tragedy:悲剧
 trail:痕迹
+train station:火车站
 train:火车
 train:训练
+training day:训练日
+training ship:训练船
 training:训练
 trait:特征
 traitor:叛徒
@@ -391,6 +399,7 @@ transmission:传送
 transmit:发送
 transparency:透明
 transport aircraft:运输机
+transport ship:运输船
 transport:运输
 transportation:运输
 transpose:调换
