@@ -68,8 +68,10 @@ feature:特点
 featured:特色的
 features:特点
 federal election:联邦选举
+federal government:联邦政府
 federal law:联邦法律
 federal:联合的
+federal:联邦的
 federation:联盟
 fee:费用
 feed forward:前馈
@@ -266,6 +268,8 @@ for:为了
 force:力量
 forced labour:被强制的工人
 foreign affairs:外交事务
+foreign government:外国政府
+foreign governments:外国政府
 foreign key:外键
 foreign minister:外交部长
 foreign policy:对外政策

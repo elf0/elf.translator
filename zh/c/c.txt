@@ -180,6 +180,7 @@ center:中心
 centimeter:厘米
 centipede:蜈蚣
 central african republic:中非共和国
+central government:中央政府
 central idea:核心思想
 central nervous system:中枢神经系统
 central processing unit:中央处理单元
@@ -292,9 +293,39 @@ china and india:中国和印度
 china:中国
 china:瓷器
 chinaman:中国佬
+chinese ambassador:中国大使
+chinese citizens:中国公民
+chinese communist:中国共产党
+chinese companies:中国企业
+chinese companies:中国公司
+chinese companies:中國企業
+chinese company:中国公司
+chinese culture:中国文华
+chinese economy:中国经济
+chinese embassy:中国大使馆
+chinese government:中国政府
+chinese hackers::中国黑客
+chinese history:中国历史
+chinese investor:中国投资者
+chinese investors:中国投资者
+chinese mainland:中国大陆
+chinese market:中国市场
+chinese medicine:中医
 chinese navy:中国海军
+chinese people:中国人民
+chinese philosophy:中国哲学
+chinese politician:中国政客
+chinese population:中国人口
+chinese premier:中国国家总理
+chinese president:中国国家主席
+chinese proverb:中国谚语
+chinese restaurant:中餐馆
+chinese scientists:中国科学家
+chinese students:中国学生
+chinese tourists:中国游客
 chinese university of hong kong:香港中文大学
 chinese university of hong kong:香港中文大學
+chinese women:中国女人
 chinese:中国人
 chinese:中国的
 chinese:中文
@@ -427,6 +458,10 @@ coach:教练
 coach:长途大巴
 coal:煤
 coalesce:合并
+coalition government:联合政府
+coalition government:聯合政府
+coalition:联合
+coalition:聯合
 coarse:粗糙的
 coast guard:海岸警卫队
 coast:海岸
