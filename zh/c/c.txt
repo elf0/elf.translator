@@ -4,6 +4,7 @@ cabinet committee:内阁委员会
 cabinet government:内阁政府
 cabinet members:内阁成员
 cabinet minister:内阁部长
+cabinet office:内阁办公室
 cabinet secretary:内阁秘书
 cabinet:内阁
 cable:电缆
@@ -54,8 +55,10 @@ can you feel it:你能感觉到它吗
 can you hear me:你能听到我说话吗
 can:能
 canada building:加拿大建筑
+canada council:加拿大议会
 canada government:加拿大政府
 canada:加拿大
+canadian army:加拿大陆军
 canadian government:加拿大政府
 canadian navy:加拿大海军
 canadian politician:加拿大政客
@@ -110,6 +113,10 @@ car bomb:汽车炸弹
 car:车
 carbon dioxide:二氧化碳
 carbon emission:碳排放
+carbon fiber:碳纤维
+carbon fibre:碳纤维
+carbon neutrality:碳中立
+carbon steel:碳钢
 carbon:碳
 carbonate:碳酸盐
 carboniferous:石炭纪
@@ -129,6 +136,7 @@ carnivorous mammal:食肉哺乳动物
 carnivorous plant:食肉植物
 carnivorous:食肉的
 carolina government:卡罗莱纳州政府
+carolina league:卡罗莱纳联盟
 carolina state:卡罗莱纳州
 carolina:卡罗莱纳
 carp:鲤鱼
@@ -168,6 +176,7 @@ caterpillar:毛毛虫
 cathedral:大教堂
 cathedrals:大教堂
 cathode:负极
+catholic church:天主教教堂
 catholic union:天主教联盟
 catholic university:天主教大学
 catholic:天主教
@@ -188,14 +197,18 @@ cebuano:宿务语
 celebration:庆祝
 celery:芹菜
 celestial:天空的
+cell biology:细胞生物学
 cell cycle:细胞周期
 cell division:细胞分裂
+cell membrane:细胞膜
+cell nucleus:细胞核
 cell phone:蜂窝电话
 cell:细胞
 cello:大提琴
 cellular:细胞的
 cement:水泥
 cemetery:墓地
+census bureau:普查局
 census of population:人口普查
 census:普查
 cent:美分
@@ -221,6 +234,7 @@ cervical:脖子的
 cetrimonium:西曲铵
 chad government:乍得政府
 chad:乍得
+chain reaction:连锁反应
 chain rule:链式法则
 chain:连锁
 chain:链条
@@ -248,6 +262,7 @@ chaos:混乱
 chaos:混沌
 chaplain:牧师
 chapter:章
+character encoding:字符编码
 character set:字符集
 character:字符
 character:角色
@@ -258,6 +273,8 @@ charge:控告
 charge:收费
 charge:电荷
 charger:充电器
+charles river:查尔斯河
+charles university:查尔斯大学
 charles:查尔斯
 charming village:迷人的村子
 charming villages:迷人的村庄
@@ -309,6 +326,7 @@ childhood:幼年
 children:孩子们
 chile government:智利政府
 chile:智利
+chilean army:智利陆军
 chilean government:智利政府
 chilean navy:智利海军
 chilean:智利
@@ -318,8 +336,15 @@ chili:辣椒
 chimpanzee:黑猩猩
 chin:下巴
 china and india:中国和印度
+china army:中国陆军
 china association:中国协会
 china government:中国政府
+china internet:中国互联网
+china navy:中国海军
+china news:中国新闻
+china railway:中国铁路
+china sea:中国海
+china standard:中国标准
 china:中国
 china:瓷器
 chinaman:中国佬
@@ -647,14 +672,31 @@ comprise:组成
 computational geometry:计算几何学
 computational:计算的
 compute:计算
+computer animation:电脑动画
+computer animation:计算机动画
+computer architecture:计算机架构
+computer engineering:计算机工程学
+computer game:电脑游戏
+computer game:计算机游戏
+computer games:电脑游戏
+computer games:计算机游戏
 computer graphics:计算机图形学
+computer hardware:电脑硬件
+computer hardware:计算机硬件
+computer history:计算机历史
 computer network:计算机网络
+computer program:电脑程序
+computer program:计算机程序
 computer programming:计算机编程
 computer science:计算机科学
 computer scientist:计算机科学家
 computer security:计算机安全
+computer software:电脑软件
+computer software:计算机软件
 computer system:计算机系统
 computer technology:计算机技术
+computer virus:电脑病毒
+computer virus:计算机病毒
 computer vision:计算机视觉
 computer:电脑
 computer:计算机
@@ -668,6 +710,7 @@ concealment:隐藏
 concentrate:集中
 concentration camp:集中营
 concentration:浓度
+concept car:概念车
 concept:概念
 conceptual:概念的
 conceptually:概念地
@@ -740,6 +783,8 @@ constitutional:宪法的
 constraint:约束
 construct:构造
 construction material:建筑材料
+construction permit:建筑许可
+construction worker:建筑工人
 construction:建筑
 consultant:顾问
 consume:消耗
@@ -802,6 +847,8 @@ copper:铜
 copy that:收到
 copy:复制
 copyright:版权
+coral reef:珊瑚礁
+coral sea:珊瑚海
 coral:珊瑚
 core:核心
 coriander:香菜
@@ -892,6 +939,7 @@ creator:创造者
 creed:信条
 creek:小河
 crew:全体人员
+cricket team:板球队
 cricket:板球
 cricketer:板球运动员
 crime:罪行
@@ -924,10 +972,12 @@ cruise missle:巡航导弹
 cruise:巡航
 cry:哭
 cryptography:密码学
+crystal ball:水晶球
 crystal:水晶
 cuba government:古巴政府
 cuba:古巴
 cuban government:古巴政府
+cuban revolution:古巴革命
 cuban:古巴
 cuban:古巴人
 cuban:古巴的
@@ -946,6 +996,7 @@ cultivation:培养
 cultural heritage:文化遗产
 cultural village:文化村
 cultural:文化的
+culture club:文化俱乐部
 culture day:文化日
 culture of the united states:美国文化
 culture:文化
@@ -969,6 +1020,7 @@ curve:曲线
 curves:曲线
 custody:监护权
 custom:自定义的
+customer relationship:客户关系
 customer service:客户服务
 customer:客户
 customers:客户

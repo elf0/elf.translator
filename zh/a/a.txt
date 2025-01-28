@@ -636,6 +636,7 @@ anderson:安德森
 andorra:安道尔
 andrew:安德鲁
 android:机器人
+andromeda galaxy:仙女座星系
 andromeda:仙女座
 andy:安迪
 anemia:贫血
@@ -860,6 +861,7 @@ armenian:亚美尼亚人
 armenian:亚美尼亚的
 armenian:亚美尼亚语
 arms control:军备控制
+army academy:陆军学院
 army group:集团军
 army:军队
 army:陆军
@@ -1023,6 +1025,13 @@ athletics:田径
 atlanta campaign:亚特兰大战役
 atlanta university:亚特兰大大学
 atlanta:亚特兰大
+atlantic coast:大西洋海岸
+atlantic conference:大西洋会议
+atlantic forest:大西洋森林
+atlantic hurricane:大西洋飓风
+atlantic league:大西洋联盟
+atlantic states:大西洋国家
+atlantic university:大西洋大學
 atlantic:大西洋
 atlas:地图册
 atmosphere:大气
@@ -1111,4 +1120,4 @@ axis:轴
 axon:轴突
 azerbaijan government:阿塞拜疆政府
 azerbaijan province:阿塞拜疆省
-azerbaijan:阿塞拜疆
+azerbaijan:阿塞拜

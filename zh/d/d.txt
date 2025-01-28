@@ -9,12 +9,15 @@ dam:水坝
 damage crops:损害农作物
 damage:损害
 damascus government:大马士革政府
+damascus university:大马士革大学
 damascus:大马士革
 dame:女士
 dance:跳舞
 dancer:舞者
 danger:危险
 daniel:丹尼尔
+danish academy:丹麦学院
+danish film:丹麦电影
 danish government:丹麦政府
 danish navy:丹麦海军
 danish:丹麦
@@ -25,7 +28,13 @@ darkness:黑暗
 dart:飞镖
 darwin:达尔文
 dash:猛冲
+data analysis:数据分析
+data center:数据中心
+data protection:数据保护
+data science:数据科学
 data scientist:数据科学家
+data structure:数据结构
+data type:数据类型
 data:数据
 database:数据库
 dataset:数据集
@@ -36,7 +45,9 @@ daughter in law:儿媳
 daughter:女儿
 daunting:令人畏惧的
 david:大卫
+davidson college:戴维森学院
 davidson:戴维森
+davis entertainment:戴维斯娱乐
 davis:戴维斯
 day:日
 dead:死的
@@ -89,6 +100,7 @@ defeat:打败
 defecate:拉屎
 defecation:排便
 defect:缺陷
+defence association:防卫协会
 defence:防卫
 deficit:欠缺
 define:定义
@@ -107,6 +119,7 @@ deliver:输送
 delusional:妄想的
 demand:需求
 democracy government:民主政府
+democracy party:民主党
 democracy:民主
 democratic government:民主政府
 democratic party:民主党
@@ -118,6 +131,7 @@ denmark government:丹麦政府
 denmark:丹麦
 denominator:分母
 dense:稠密的
+density function:密度函数
 density:密度
 dental surgeon:牙科医生
 dental:牙齿的
@@ -164,6 +178,7 @@ descent:下降
 describe:描述
 description:描述
 design anthropology:设计人类学
+design museum:设计博物馆
 design:设计
 designation:称呼
 designer:设计师
@@ -172,7 +187,11 @@ desire:渴望
 desired behavior:渴望的行为
 desired effect:渴望的效果
 desk:书桌
+desktop computer:桌面电脑
+desktop computer:桌面计算机
+desktop environment:桌面环境
 desktop:桌面
+despicable me:卑鄙的我
 despicable:卑鄙的
 despite:尽管
 destiny:命运
@@ -185,11 +204,16 @@ detailed description:细节描述
 details:细节
 detain:扣留
 detect:检测
+detective comics:侦探漫画
+detective fiction:侦探小说
+detective novel:侦探小说
 detective:侦探
 deter:阻止
 deteriorate:恶化
 detest:厌恶
 detonate:引爆
+detroit news:底特律新闻
+detroit river:底特律河
 detroit:底特律
 develop:开发
 developed country:发达国家
@@ -198,6 +222,10 @@ developer:开发者
 developing countries:发展中国家
 developing country:发展中国家
 developing:发展中的
+development bank:开发银行
+development environment:开发环境
+development goals:开发目标
+development hell:开发地狱
 development:开发
 deviant:变态
 deviate:偏离
@@ -236,6 +264,7 @@ difference:差别
 difference:差异
 different authors:不同作者
 different ways:不同方式
+different world:不同的世界
 different:不同的
 differentiable everywhere:处处可微分
 differentiable function:可微分函数
@@ -324,6 +353,10 @@ dishwashing:洗盘子
 disintegrate:解体
 disk:磁盘
 dismiss:解散
+disney animation:迪士尼动画
+disney company:迪士尼公司
+disney princess:迪士尼公主
+disney world:迪士尼世界
 disney:迪士尼
 disorder:混乱
 displacement:位移
@@ -460,7 +493,10 @@ during the time:在这个时期
 during world war ii:在第二次世界大战期间
 during:期间
 dust:灰尘
+dutch football:荷兰足球
 dutch government:荷兰政府
+dutch language:荷兰语
+dutch literature:荷兰文学
 dutch navy:荷兰海军
 dutch republic:荷兰共和国
 dutch:荷兰
@@ -474,3 +510,24 @@ dynamical systems theory:动态系统理论
 dynamics:动力学
 dynasty:朝代
 dysfunction:功能障碍
+early christianity:早期基督教
+earth orbit:地球轨道
+earth science:地球科学
+east african:东非洲
+east bay:东海湾
+east berlin:东柏林
+east boston:东波士顿
+east carolina:东卡罗莱纳
+east coast:东海岸
+east england:东英格兰
+east florida:东佛罗里达
+east india:东印度
+east indian:东印度
+east japan:东日本
+east london:东伦敦
+east malaysia:东马来西亚
+east river:东河
+easter island:复活节岛
+easter road:复活节路
+egyptian army:埃及陆军
+egyptian museum:埃及博物馆
