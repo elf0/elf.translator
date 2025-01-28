@@ -22,6 +22,9 @@ radon:氡
 rage:暴怒
 rail:铁轨
 railroad:铁路
+railway bridge:铁路桥
+railway bureau:铁路局
+railway company:铁路公司
 railway police:铁路警察
 railway station:火车站
 railway:铁路
@@ -225,8 +228,13 @@ requirements:需求
 rescue exercise:救援练习
 rescue:救援
 research and development:研究和开发
+research center:研究中心
+research council:研究委员会
+research laboratory:研究实验室
 research paper:研究论文
+research program:研究程序
 research university:研究型大学
+research vessel:研究船
 research:研究
 researcher:研究员
 researchers:研究员
@@ -242,6 +250,7 @@ resin:树脂
 resolution:分辨率
 resolve:解决
 resort to:诉诸
+resource management:资源管理
 resource:资源
 resources:资源
 respect:尊敬
@@ -333,6 +342,10 @@ robert:罗伯特
 robot:机器人
 robust:健壮的
 rock:岩石
+rockefeller center:洛克菲勒中心
+rockefeller foundation:洛克菲勒基金
+rockefeller university:洛克菲勒大学
+rockefeller university:洛克菲勒大學
 rockefeller:洛克菲勒
 rocket:火箭
 roger:听到了

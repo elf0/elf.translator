@@ -189,6 +189,7 @@ sea grass:海草
 sea horse:海马
 sea level:海平面
 sea salt:海盐
+sea snail:海蜗牛
 sea urchin:海胆
 sea water:海水
 sea:海
@@ -239,6 +240,12 @@ security committee:安全委员会
 security council:安全委员会
 security department:安全部门
 security management:安全管理
+security police:安全警察
+security policy:安全政策
+security service:安全服务
+security software:安全软件
+security system:安全系统
+security systems:安全系统
 security:安全
 seduce:诱惑
 seduction:诱惑
@@ -272,6 +279,7 @@ semiformal:半正式的
 senate election:参议院选举
 senate:参议院
 send:发送
+senegal river:塞内加尔河
 senegal:塞内加尔
 senior:前辈
 sense:感官
@@ -290,6 +298,7 @@ sentenced to:被判处
 sentinel:哨兵
 sentry:哨兵
 sents:气味
+seoul metro:首尔地铁
 seoul:首尔
 separate:分离
 separation of powers:权力的分离
@@ -300,7 +309,19 @@ sequences:序列
 sequencing:测序
 serbia government:塞尔维亚政府
 serbia:塞尔维亚
+serbian army:塞尔维亚军队
+serbian campaign:塞尔维亚战役
+serbian culture:塞尔维亚文化
+serbian empire:塞尔维亚帝国
 serbian government:塞尔维亚政府
+serbian language:塞尔维亚语言
+serbian league:塞尔维亚联盟
+serbian nationalism:塞尔维亚民族主义
+serbian nationalist:塞尔维亚民族主义者
+serbian passport:塞尔维亚护照
+serbian president:塞尔维亚总统
+serbian revolution:塞尔维亚革命
+serbian uprising:塞尔维亚起义
 serbian:塞尔维亚
 serbian:塞尔维亚人
 serbian:塞尔维亚的
@@ -315,12 +336,16 @@ serpent:蛇
 servant:仆人
 server:服务器
 service center:服务中心
+service committee:服务委员会
 service:服务
 services and investment:服务和投资
 services and products:服务和产品
+services department:服务部门
 services:服务
+sesame street:芝麻街
 sesame:芝麻
 set fire:纵火
+set theory:集合理论
 set:设置
 set:集合
 settle government:殖民政府
@@ -403,6 +428,7 @@ shemale:人妖
 sheriff:治安官
 shield:盾
 ship:船
+shipbuilding corporation:造船公司
 shipbuilding:造船
 shire:郡
 shock wave:冲击波
@@ -461,6 +487,7 @@ silver:银子
 similar:相似的
 simon fraser university:西蒙弗雷泽大学
 simon:西蒙
+simple plan:简单计划
 simple:简单
 simplified version:简化版
 simplified:简化的
@@ -468,10 +495,20 @@ simplify:简化
 simply:简单地
 sin:罪过
 since:自从
+sine wave:正弦波
 sine:正弦
 sing:唱
+singapore english:新加坡英语
 singapore government:新加坡政府
+singapore island:新加坡岛
 singapore management university:新加坡管理大学
+singapore police:新加坡警察
+singapore river:新加坡河
+singapore time:新加坡时间
+singapore tourism:新加坡旅游业
+singapore university:新加坡大学
+singapore university:新加坡大學
+singapore zoo:新加坡动物园
 singapore:新加坡
 singer:歌手
 single celled:单细胞的
@@ -483,6 +520,7 @@ sink:水槽
 sino:中国的
 sinusitis:鼻窦炎
 sir:先生
+sister city:姐妹城市
 sister in law:小姨子
 sister:姐妹
 site:用地
@@ -499,6 +537,7 @@ skates:滑鞋
 skeleton:骨架
 sketch:勾画
 skill:技能
+skin cancer:皮肤癌
 skin flora:皮肤菌群
 skin microbiota:皮肤微生物群
 skin:皮肤
@@ -507,6 +546,10 @@ sky:天空
 skyline:天际线
 slang:俚语
 slash:斜杠
+slave labor:奴隶劳动力
+slave labor:奴隶工人
+slave labour:奴隶工人
+slave market:奴隶市场
 slave ship:奴隶船
 slave trade:奴隶贸易
 slave:奴隶
@@ -591,6 +634,10 @@ soak:浸泡
 soap:肥皂
 sober:未醉的
 sober:醒酒
+soccer association:足球协会
+soccer federation:足球联盟
+soccer league:足球联盟
+soccer team:足球队
 soccer:足球
 social and economic:社会和经济
 social and political:社会和政治
@@ -616,13 +663,49 @@ sodium:钠
 sofa:沙发
 soften:软化
 software and hardware:软件和硬件
+software application:软件应用
+software application:软件应用程序
+software applications:软件应用
+software architecture:软件架构
+software art:软件艺术
+software bug:软件缺陷
+software company:软件公司
+software component:软件组件
+software deployment:软件部署
+software design:软件设计
 software developer:软件开发者
 software development:软件开发
 software engineer:软件工程师
 software engineering:软件工程学
+software framework:软件框架
+software license:软件许可证
+software patent:软件专利
+software patents:软件专利
+software performance:软件性能
+software platform:软件平台
+software quality:软件质量
+software requirements:软件需求
+software security:软件安全
+software system:软件系统
+software technology:软件技术
+software update:软件更新
 software:软件
+soil biology:土壤生物学
+soil carbon:土壤碳
+soil chemistry:土壤化学
+soil classification:土壤分类
+soil ecology:土壤生态学
+soil management:土壤管理
+soil mechanics:土壤力学
+soil physics:土壤物理
+soil pollution:土壤污染
+soil salinity:土壤盐度
 soil science:土壤科学
 soil scientist:土壤科学家
+soil series:土壤系列
+soil structure:土壤结构
+soil test:土壤测试
+soil type:土壤类型
 soil:土壤
 soil:地表
 solar eclipse:日食
@@ -685,6 +768,7 @@ son of a bitch:婊子养的
 son:儿子
 song:歌
 songs:歌
+sony corporation:索尼公司
 sony entertainment:索尼娱乐
 sony music:索尼音乐
 sony:索尼
@@ -695,6 +779,9 @@ sorry:抱歉
 sort:种类
 sorts of:各种
 soul:灵魂
+sound art:声音艺术
+sound design:声音设计
+sound designer:声音设计师
 sound effect:音效
 sound:声音
 soup:汤
@@ -704,10 +791,15 @@ source:源
 sources:源
 south africa:南非
 south african:南非的
+south america:南美洲
 south american:南美洲的
+south atlantic:南大西洋
 south australia:南澳大利亚州
 south bay:南湾
+south beach:南海滩
+south boston:南波士顿
 south carolina:南卡罗来纳州
+south china:南中国
 south india:南印度
 south korea:韩国
 south korean:韩国的
@@ -739,6 +831,8 @@ spam:垃圾邮件
 spam:灌水
 span a to b:跨越a到b
 span:跨度
+spanish academy:西班牙学院
+spanish armada:西班牙舰队
 spanish government:西班牙政府
 spanish navy:西班牙海军
 spanish:西班牙
@@ -827,6 +921,26 @@ stainless steel:不锈钢
 stainless:不锈的
 stamp:邮票
 stance:姿态
+standard arabic:标准阿拉伯语
+standard bank:标准银行
+standard basque:标准巴斯克语
+standard cantonese:标准粤语
+standard deviation:标准偏差
+standard english:标准英语
+standard form:标准形式
+standard french:标准法语
+standard german:标准德语
+standard gravity:标准重力
+standard input:标准输入
+standard language:标准语言
+standard mandarin:标准普通话
+standard model:标准模型
+standard output:标准输出
+standard score:标准得分
+standard state:标准状态
+standard swedish:标准瑞典语
+standard temperature:标准温度
+standard time:标准时间
 standard:标准
 stanford university:斯坦福大学
 stanford university:斯坦福大學
@@ -884,6 +998,7 @@ step kid:继孩
 step mother:继母
 step sibling:继兄弟姐妹
 step son:继子
+stephen hawking:史蒂芬霍金
 stephen:史蒂芬
 sternutation:喷嚏
 steve:史蒂夫
@@ -1023,7 +1138,16 @@ supreme court of the united states:美国最高法院
 supreme court:最高法院
 supreme:最高的
 sure:确信的
+surface charge:表面电荷
+surface chemistry:表面化学
+surface gravity:表面重力
+surface integral:表面积分
+surface physics:表面物理
+surface pressure:表面压力
+surface science:表面科学
+surface temperature:表面温度
 surface water:地表水
+surface wave:表面波
 surface:表面
 surgeon:外科医生
 surgery:外科
@@ -1047,6 +1171,8 @@ sustainable:可持续的
 suture:缝合
 swallow:吞咽
 swamp:林湿地
+swan lake:天鹅湖
+swan river:天鹅河
 swan:天鹅
 swaziland:斯威士兰
 sweden government:瑞典政府
@@ -1060,6 +1186,14 @@ swimmer:游泳者
 swimming:游泳
 swimsuit:泳衣
 swing:秋千
+swiss academy:瑞士学院
+swiss american:瑞士美国人
+swiss bank:瑞士银行
+swiss cheese:瑞士奶酪
+swiss chocolate:瑞士巧克力
+swiss constitution:瑞士宪法
+swiss council:瑞士议会
+swiss film:瑞士电影
 swiss government:瑞士政府
 swiss:瑞士
 swiss:瑞士人
@@ -1092,6 +1226,42 @@ syria government:叙利亚政府
 syria:叙利亚
 syrian government:叙利亚政府
 syrian:叙利亚的
+system administration:系统管理
+system administrator:系统管理员
+system analysis:系统分析
+system architecture:系统架构
+system call:系统调用
+system design:系统设计
+system development:系统开发
+system dynamics:系统动力学
+system engineering:系统工程学
+system management:系统管理
+system model:系统模型
+system monitor:系统监视器
+system programming:系统编程
+system requirements:系统需求
+system resource:系统资源
+system restore:系统恢复
+system safety:系统安全
+system software:系统软件
+system theory:系统理论
+system time:系统时间
 system wide:系统范围
 system:系统
+systems analysis:系统分析
+systems architecture:系统架构
+systems biology:系统生物学
+systems design:系统设计
+systems development:系统开发
+systems ecology:系统生态学
+systems engineer:系统工程师
+systems engineering:系统工程学
+systems management:系统管理
+systems modeling:系统建模
+systems neuroscience:系统神经科学
+systems programming:系统编程
+systems psychology:系统心理学
+systems science:系统科学
+systems scientist:系统科学家
+systems theory:系统理论
 systems:系统
