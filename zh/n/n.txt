@@ -18,6 +18,8 @@ narcotic:麻醉药
 narrow:狭窄的
 nasa:国家航空航天局
 nasdaq:纳斯达克
+nation alliance:国家联盟
+nation army:国家军队
 nation government:国家政府
 nation:国家
 national academy of engineering:国家工程院
@@ -82,13 +84,19 @@ nature park:自然公园
 nature:大自然
 nauru:瑙鲁
 nausea:恶心
+naval base:海军的基地
 naval:海军的
 navigate:导航
+navigation system:导航系统
 navigation:导航
+navy aircraft:海军飞机
+navy blue:海军蓝色
 navy:海军
 nazi german:纳粹德国人
 nazi germany:纳粹德国
 nazi government:纳粹政府
+nazi party:纳粹党
+nazi propaganda:纳粹宣传
 nazi:纳粹
 nazis:纳粹们
 nazism:纳粹主义
@@ -140,8 +148,16 @@ nervous disorder:神经紊乱
 nervous system:神经系统
 nervous:神经的
 nest:巢
+net animation:网络动画
+net neutrality:网络中立
 net:网络
+netherlands academy:荷兰学院
+netherlands army:荷兰军队
+netherlands army:荷兰陆军
+netherlands film:荷兰电影
 netherlands government:荷兰政府
+netherlands institute:荷兰学院
+netherlands navy:荷兰海军
 netherlands:荷兰
 network analysis:网络分析
 network architecture:网络架构
@@ -150,6 +166,7 @@ network management:网络管理
 network service:网络服务
 network television:网络电视
 network theory:网络理论
+network world:网络世界
 network:网络
 neural activity:神经活动
 neural crest cell:神经嵴细胞
@@ -205,6 +222,11 @@ new york:纽约
 new zealand:新西兰
 new:新的
 newer:更新的
+news archive:新闻档案
+news magazine:新闻杂志
+news media:新闻媒体
+news online:新闻在线
+news press:新闻出版社
 news:新闻
 newspaper:报纸
 newton:牛顿
@@ -220,6 +242,7 @@ niece:堂妹
 niece:堂姐
 niece:表妹
 niece:表姐
+niger river:尼日尔河
 niger:尼日尔
 nigeria government:尼日利亚政府
 nigeria:尼日利亚
@@ -252,6 +275,7 @@ nobody move:所有人不许动
 nocturnal animal:夜行动物
 nocturnal:夜间活动的
 node:节点
+noise pollution:噪音污染
 noise:噪音
 nomenclature:命名法
 nominate:推荐
@@ -307,6 +331,8 @@ northern:北方的
 northwestern university:西北大学
 norway government:挪威政府
 norway:挪威
+norwegian army:挪威军队
+norwegian army:挪威陆军
 norwegian campaign:挪威战役
 norwegian government:挪威政府
 norwegian navy:挪威海军

@@ -3,10 +3,15 @@ labeled data:已标注数据
 labeled data:已标记数据
 labeled:已标注的
 labeled:已标记的
+labor party:工人党
+labor rights:工人权利
+labor union:工人联盟
 labor:分娩
 labor:劳动力
 labor:工人
 laboratory:实验室
+labour congress:工人代表大会
+labour organization:工人组织
 labour party:工人党
 labour:分娩
 labour:工人
@@ -19,11 +24,13 @@ lake:湖
 lamb:羊羔
 lamp:灯
 land army:陆军
+land transport:陆地运输
 land:陆地
 landing:登陆
 landing:着陆
 landman:石油工人
 landmark:地标
+landscape architecture:风景建筑学
 landscape:风景
 landslide:滑坡
 language features:语言特征
@@ -48,6 +55,7 @@ late:迟的
 later:以后
 latest:最后的
 latest:最近的
+latin alphabet:拉丁文字母
 latin:拉丁文
 latitude:纬度
 latrophilin:蛛毒素受体
@@ -56,8 +64,12 @@ latvia government:拉脱维亚政府
 latvia:拉脱维亚
 laugh:笑
 laughter:笑声
+launch system:发射系统
 launch:发射
+law center:法律中心
+law institute:法律学院
 law:法律
+lawrence university:劳伦斯大学
 lawrence:劳伦斯
 laws of motion:运动定律
 lawsuit:民事诉讼
@@ -107,6 +119,8 @@ legitimate:合法
 legitimate:合法的
 legitimation of power:权力的合法化
 legitimation:合法化
+lego batman:乐高蝙蝠侠
+lego movie:乐高电影
 lego:乐高
 legs:腿
 leiodidae:球蕈甲科
@@ -141,13 +155,18 @@ levy:征收
 liar:说谎者
 liberal:自由的
 liberalism:自由主义
+liberation army:解放军队
+liberation organization:解放组织
+liberation war:解放战争
 liberation:解放
 liberia government:利比里亚政府
 liberia:利比里亚
 libertarian:自由主义者
+liberty bell:自由钟
 liberty university:自由大学
 liberty university:自由大學
 liberty:自由
+library science:图书馆科学
 library:图书馆
 libya government:利比亚政府
 libya:利比亚
@@ -166,7 +185,9 @@ life:生命
 lifetime:一生
 lift:举起
 light novel:轻小说
+light pollution:光污染
 light year:光年
+light years:光年
 light:光
 lighthouse:灯塔
 lightning:闪电
@@ -185,9 +206,13 @@ limb:肢
 limbic system:边缘系统
 limbic:边缘的
 limit government:限制政府
+limit theorem:极限定理
 limit:极限
 limit:限制
 limits:极限
+lincoln cathedral:林肯大教堂
+lincoln center:林肯中心
+lincoln highway:林肯公路
 lincoln:林肯
 line by line:一行接一行
 line feed:换行
@@ -206,6 +231,7 @@ linnaeus:林奈
 lion:狮子
 lipstick:口红
 lipstick:唇膏
+liquid crystal:液体水晶
 liquid:液体
 liquidation:清算
 lirequinil:利瑞喹尼
@@ -216,6 +242,7 @@ listen:听
 listeria:李斯特菌
 literary:文学的
 literature:文学
+lithium ion:锂离子
 lithium:锂
 lithuania government:立陶宛政府
 lithuania:立陶宛
@@ -225,6 +252,7 @@ little girl:小女孩
 little:很少的
 live:活的
 livelihood:生计
+liver cancer:肝癌
 liver:肝
 liverpool:利物浦
 livestock:家畜
@@ -240,8 +268,12 @@ local villager:当地村民
 local villagers:当地村民
 local:本地的
 locate:定位
+location identifier:位置标识符
 location:位置
 lock:锁
+lockheed constellation:洛克希德星座
+lockheed corporation:洛克希德公司
+lockheed martin:洛克希德马丁
 lockheed:洛克希德
 locomotion:移动
 log:日志
@@ -253,6 +285,15 @@ logical consequence:逻辑结论
 logical:逻辑的
 logically:有逻辑地
 logo:商标
+london academy:伦敦学院
+london bridge:伦敦桥
+london corporation:伦敦公司
+london council:伦敦议会
+london road:伦敦路
+london studio:伦敦工作室
+london university:伦敦大学
+london university:伦敦大學
+london zoo:伦敦动物园
 london:伦敦
 long live the king:国王万岁
 long live:国万岁
@@ -273,6 +314,7 @@ lost:失去的
 louder:大声点
 louis:路易斯
 louisiana:路易斯安那州
+love you:爱你
 love:爱
 lover:爱人
 low water:潮谷
@@ -289,6 +331,7 @@ lunar:月亮的
 lunatic:疯子
 lunch:午餐
 lund university:隆德大学
+lung cancer:肺癌
 lung:肺
 lupus:狼
 lupus:狼疮
@@ -298,3 +341,5 @@ luxembourg:卢森堡
 lychee:荔枝
 lymphocyte:淋巴细胞
 lyric:歌词
+machine code:机器代码
+madrid metro:马德里地铁

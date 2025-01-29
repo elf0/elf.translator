@@ -12,6 +12,7 @@ hair:头发
 haiti government:海地政府
 haiti:海地
 half:半
+halifax explosion:哈利法克斯爆炸
 halifax:哈利法克斯
 hall of fame:名人堂
 hall:大厅
@@ -20,6 +21,8 @@ halogen:卤素
 ham:火腿
 hamburg:汉堡
 hamburger:汉堡包
+hamilton college:汉密尔顿学院
+hamilton college:汉密尔顿學院
 hamilton:汉密尔顿
 hammer:锤子
 hammers:锤子
@@ -48,6 +51,9 @@ harmonic:调和的
 harmonica:口琴
 harp:竖琴
 harry:骚扰
+harvard college:哈佛学院
+harvard college:哈佛學院
+harvard magazine:哈佛杂志
 harvard university press:哈佛大学出版社
 harvard university:哈佛大学
 harvard university:哈佛大學
@@ -101,19 +107,32 @@ headache:头痛
 header:标题
 headphones:耳机
 headset:带麦克风耳机
+health administration:健康管理
 health and safety:健康和安全
 health care:健康护理
+health economics:健康經濟學
+health economics:健康经济学
+health insurance:健康保险
 health resort:疗养胜地
+health service:健康服务
 health:健康
 healthy:健康的
 heap:堆
 hear:听
+heart disease:心脏疾病
 heart surgery:心脏外科
 heart:心
 heart:心脏
+heat capacity:热容量
+heat island:热岛
+heat pump:热泵
+heat transfer:热传输
+heat transfer:热传递
 heat:热
 heaven:天堂
 heavy:重的
+hebrew alphabet:希伯来语字母
+hebrew bible:希伯来语圣经
 hebrew university:希伯来大学
 hebrew:希伯来人
 hebrew:希伯来语
@@ -186,6 +205,8 @@ higher:更高的
 highest:最高的
 highly customizable:高度可定制的
 highly recommended:强烈推荐
+highway safety:公路安全
+highway system:公路系统
 highway:公路
 hill:山丘
 hillary:希拉里
@@ -214,6 +235,7 @@ his own:他自己的
 his second:他的第二个
 his son:他的儿子
 his time:他的时间
+his village:他的村子
 his wife:他的妻子
 his work:他的工作
 his:他的
@@ -221,10 +243,13 @@ historian:历史学家
 historic village:历史悠久的村庄
 historic:历史性的
 historical:历史的
+history institute:历史学院
+history museum:历史博物馆
 history of the united states:美国历史
 history:历史
 hit:打击
 hitler:希特勒
+hockey centre:曲棍球中心
 hockey:曲棍球
 hoe:锄头
 hold hands:牵手
@@ -239,6 +264,7 @@ holy:神圣的
 home country:祖国
 home village:家乡
 home:家
+homeland union:祖国联盟
 homeland:祖国
 homeless man:无家可归的男人
 homeless people:无家可归的人
@@ -252,6 +278,7 @@ homo sapiens:人类
 homo:人属
 homosexual:同性恋的
 homosexuality:同性恋
+honda center:本田中心
 honda:本田
 honduran government:洪都拉斯政府
 honduran politician:洪都拉斯政客
@@ -271,17 +298,24 @@ hoof:蹄
 hooker:妓女
 hoover dam:胡佛水坝
 hoover:胡佛
+hope college:希望學院
 hope:希望
 hopper:加料斗
+horizon league:地平线联盟
 horizon:地平线
 horizontal:水平的
+horror fiction:恐怖小说
+horror film:恐怖电影
 horror:恐怖
 horse:马
 hosiery:袜子
 hospital:医院
 hospitalization:住院
 host:主机
+hostage crisis:人质危机
 hostage:人质
+hot air:热空气
+hot chocolate:热巧克力
 hot dog:热狗
 hot water:热水
 hot:热
@@ -306,10 +340,18 @@ https:安全的超文本传输协议
 hug:拥抱
 human activities:人类活动
 human beings:人类
+human brain:人类大脑
 human computer interaction:人类计算机交互
+human evolution:人类进化
 human extinction:人类灭绝
+human genome:人类基因组
+human history:人类历史
 human labeled:人类标记的
+human league:人类联盟
 human rights:人权
+human services:人类服务
+human settlement:人类殖民地
+human shield:人盾
 human trafficking:人口贩卖
 human:人
 human:人类
@@ -342,6 +384,7 @@ hybrid:杂合的
 hydra:多头蛇怪
 hydrogen atom:氢原子
 hydrogen bonds:氢键
+hydrogen peroxide:氢过氧化物
 hydrogen:氢
 hygrograph:绘湿仪
 hymenoptera:膜翅目

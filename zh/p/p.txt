@@ -1,4 +1,9 @@
+pacific campaign:太平洋战役
+pacific coast:太平洋海岸
+pacific hurricane:太平洋飓风
+pacific league:太平洋联盟
 pacific region:太平洋区域
+pacific war:太平洋战争
 pacific:太平洋
 package:包
 pad:垫子
@@ -10,28 +15,41 @@ pain:痛
 paint:油漆
 painter:画家
 pair:对
+pakistan army:巴基斯坦军队
+pakistan army:巴基斯坦陆军
 pakistan government:巴基斯坦政府
+pakistan military:巴基斯坦军队
+pakistan navy:巴基斯坦海军
 pakistan:巴基斯坦
 pakistani government:巴基斯坦政府
 pakistani politician:巴基斯坦政客
+pakistani taliban:巴基斯坦塔利班
 pakistani:巴基斯坦
 pakistani:巴基斯坦人
 pakistani:巴基斯坦的
+palace museum:宫殿博物馆
 palace:宫殿
 palau:帕劳
 paleontology:古生物学
+palestine campaign:巴勒斯坦战役
 palestine government:巴勒斯坦政府
 palestine:巴勒斯坦
 palestinian government:巴勒斯坦政府
+palestinian people:巴勒斯坦人民
 palestinian:巴勒斯坦
 palestinian:巴勒斯坦人
 palestinian:巴勒斯坦的
 palladium:钯
+palm beach:棕榈海滩
+palm oil:棕榈油
+palm tree:棕榈树
 palm:棕榈
+panama canal:巴拿马运河
 panama:巴拿马
 panda:大熊猫
 panda:熊猫
 panorama:全景
+panther party:黑豹党
 panther:黑豹
 paper:纸
 papua new guinea:巴布亚新几内亚
@@ -43,6 +61,7 @@ parade:游行
 paradise:天堂
 paragraph:段
 paraguay government:巴拉圭政府
+paraguay river:巴拉圭河
 paraguay:巴拉圭
 parallel lines:平行线
 parallel:平行的
@@ -62,8 +81,11 @@ paratroopers:伞兵们
 paratroops:伞兵部队
 parent:父母
 parenthesis:圆括号
+paris agreement:巴黎协议
+paris commune:巴黎公社
 paris government:巴黎政府
 paris:巴黎
+parish church:教区教堂
 parish:教区
 park:公园
 parkway:景观大道
@@ -82,6 +104,8 @@ partial derivative:偏导数
 partial derivatives:偏导数
 partial:部分的
 participate:参加
+particle accelerator:粒子加速器
+particle physics:粒子物理
 particle:粒子
 particular:特殊的
 partnership:伙伴关系
@@ -122,6 +146,7 @@ paw:兽掌
 pay:付款
 pazinaclone:帕秦克隆
 pea:豌豆
+peace treaty:和平条约
 peace:和平
 peaceful village:宁静的村庄
 peaceful:和平的
@@ -150,8 +175,11 @@ penetrate:插入
 penetration:插入
 penguin:企鹅
 penicillin:青霉素
+peninsula campaign:半岛战役
 peninsula:半岛
+pennsylvania railroad:宾夕法尼亚铁路
 pennsylvania state university:宾夕法尼亚州立大学
+pennsylvania state:宾夕法尼亚州
 pennsylvania:宾夕法尼亚
 penny:便士
 pentagon:五边形
@@ -160,11 +188,15 @@ pentanedione:戊二酮
 pentium:奔腾处理器
 peony:牡丹
 people government:人民政府
+people magazine:人民杂志
+people power:人民力量
 people's government:人民政府
 people's party:人民党
 people's republic:人民共和国
 people:人们
 people:人民
+people:民
+people:百姓
 peppermint:薄荷
 pepsi:百事可乐
 pepsico:百事公司
@@ -176,6 +208,9 @@ percentage:百分比
 perfect:完美
 perfect:完美的
 perform:执行
+performance art:表演艺术
+performance artist:表演艺术家
+performance center:表演中心
 performance:性能
 performance:表演
 performing arts:表演艺术
@@ -217,6 +252,8 @@ phenallylmal:5-苯基-5-烯丙基巴比妥酸
 phenallylmal:苯烯比妥
 phenomena:现象
 phenomenon:现象
+philadelphia museum:费城博物馆
+philadelphia union:费城联盟
 philadelphia:费城
 philip:菲利普
 philippines government:菲律宾政府
@@ -224,6 +261,7 @@ philippines:菲律宾
 philosopher:哲学家
 philosopphy:哲学
 phoenix bridge:凤凰桥
+phoenix park:凤凰公园
 phoenix:凤凰
 phone:电话
 phoneme:音素
@@ -252,6 +290,7 @@ physics:物理
 physiological:生理学的
 physiology:生理学
 phytoplankton:浮游植物
+piano concerto:钢琴协奏曲
 piano:钢琴
 picture:照片
 picturesque village:风景如画的村庄
@@ -269,6 +308,7 @@ pilot:领航员
 pimpinella anisum:茴芹
 pinball:弹珠台
 pineapple:菠萝
+pink film:粉红色电影
 pink:粉红色
 pint:品脫
 pirate:海盗
@@ -276,6 +316,7 @@ piratical:海盗的
 piss:尿
 pistol:手枪
 pitcher:罐子
+pixel art:像素艺术
 pixel:像素
 place government:地方政府
 place of birth:出生地
@@ -291,19 +332,24 @@ planes:平面
 planet:行星
 planetary system:行星系统
 planetary:行星的
+plant pathology:植物病理学
+plant physiology:植物生理学
 plant:植物
 plantigrade:掌行的
 plants:植物
+plastic pollution:塑料污染
 plastic surgery:整形外科
 plastic:塑料
 plastics:塑膠
 plate:盘子
+platform game:平台游戏
 platform:平台
 platinum:铂
 platoon:小队
 platoon:排
 platypus:鸭嘴兽
 play:玩
+player character:玩家角色
 player:玩家
 players:玩家
 playground:游乐场
@@ -344,6 +390,7 @@ polar coordinates:极坐标
 polar:极性的
 polarity:极性
 polarization:两极分化
+police department:警察部门
 police dog:警犬
 police government:警察政府
 police service of northern ireland:北爱尔兰警察局
@@ -404,6 +451,8 @@ portrait:肖像
 portray:饰演
 portugal government:葡萄牙政府
 portugal:葡萄牙
+portuguese army:葡萄牙军队
+portuguese army:葡萄牙陆军
 portuguese government:葡萄牙政府
 portuguese navy:葡萄牙海军
 portuguese:葡萄牙
@@ -523,6 +572,8 @@ privilege:特权
 prix:奖金
 prize:奖
 probabilistic:概率的
+probability density:概率密度
+probability theory:概率理论
 probability:概率
 probably:或许
 problem:问题
@@ -554,6 +605,7 @@ profile:轮廓
 profound:极深的
 program:程序
 programmable:可编程
+programming interface:编程接口
 programming language:编程语言
 programming:编程
 programs:程序
@@ -561,6 +613,8 @@ progress:进度
 progression:进度
 prohibit:禁止
 prohibition:禁令
+project management:项目管理
+project manager:项目经理
 project:项目
 projectile:投射体
 prokaryote:原核生物
@@ -597,6 +651,7 @@ protactinium:镤
 protect:保护
 protected:受保护的
 protection:保护
+protein synthesis:蛋白质合成
 protein:蛋白质
 protest:抗议
 protester:抗议者
@@ -615,6 +670,7 @@ provincial:省的
 provisional government:临时政府
 provisional:临时的
 provisions:规定
+proxy server:代理服务器
 proxy:代理
 pseudo government:伪政府
 pseudo:伪
