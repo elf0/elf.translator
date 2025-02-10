@@ -81,6 +81,10 @@ gentile:非犹太人
 genus of mammals:哺乳类
 genus:属
 genus:类
+geographic region:地理区域
+geographic regions:地理区域
+geographical region:地理区域
+geographical regions:地理区域
 geography:地理
 geological formation:地质构造
 geological:地质的
@@ -230,6 +234,7 @@ gradually:逐渐地
 gram:克
 grammar school:语法学校
 grammar:语法
+grammars:语法
 grammatical person:语法人称
 grammatical:语法的
 grand:盛大的

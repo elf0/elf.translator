@@ -33,6 +33,7 @@ landmark:地标
 landscape architecture:风景建筑学
 landscape:风景
 landslide:滑坡
+lang:语言
 language features:语言特征
 language institute:语言学院
 language:语言
@@ -80,6 +81,7 @@ lazily:懒惰地
 lead:铅
 lead:领导
 leader:领袖
+leaders:领导们
 leaf:叶
 league:联盟
 leak:泄漏
@@ -201,6 +203,7 @@ like the first:就像第一
 like you:喜欢你
 like you:喜欢你们
 like:喜欢
+likely:很有可能的
 likewise:同样地
 limb:肢
 limbic system:边缘系统
@@ -227,6 +230,8 @@ linguistic:语言的
 linguistics:语言学
 link to:连接到
 link:连接
+link:链接
+links:链接
 linnaeus:林奈
 lion:狮子
 lipstick:口红
@@ -317,9 +322,11 @@ louisiana:路易斯安那州
 love you:爱你
 love:爱
 lover:爱人
+low birth rate:低出生率
 low water:潮谷
 low:低的
 lower respiratory tract:下呼吸道
+lower:小写字母
 lower:降低
 lowest:最低的
 lt:小于

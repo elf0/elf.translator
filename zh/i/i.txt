@@ -227,6 +227,7 @@ image:图像
 imaginary number:虚数
 imitation game:模仿游戏
 imitation:模仿
+immediate region:紧邻区域
 immediate vicinity:紧邻
 immediate vicinity:附近
 immediate:立刻的
@@ -254,6 +255,8 @@ implicit differentiation:隐微分
 imply:暗示
 import:导入
 importance:重要性
+important role:重要的角色
+important role:重要角色
 important:重要的
 impression:印象
 improve performance:改进性能
@@ -371,6 +374,7 @@ infinite:无限的
 inflation:通货膨胀
 inflection point:拐点
 influence:影响力
+info:信息
 informal:非正式的
 informally:非正式地
 informatics:信息学
@@ -397,6 +401,7 @@ inhibit:抑制
 initial:初始的
 initialise:初始化
 initialize:初始化
+initiative:倡议
 injection:注射
 injure:伤害
 inland:内陆的
@@ -481,7 +486,12 @@ interesting:有趣的
 interface:接口
 interim government:临时政府
 interim government:过渡政府
+interior design:室内设计
+interior:内部的
 interjection:感叹词
+intermediate region:中间区域
+intermediate:中间
+intermediate:中间的
 internal:内部的
 international airport:国际机场
 international atomic time:国际原子时
@@ -548,6 +558,7 @@ investment:投资
 investor:投资者
 invitation:邀请
 invite:邀请
+invoke:调用
 involve:包括
 iodine:碘
 iodomorphine:碘吗啡
@@ -592,10 +603,12 @@ irregularly shaped:不规则形状的
 is a member of the democratic party:是一个民主党员
 is a village:是一个村庄
 is about:是关于
+is acceptable:是可接受的
 is always used to:总是被用作
 is an important first step:是重要的第一步
 is called:被叫做
 is called:被调用
+is derived from:源自
 is loaded:被加载
 is located in:位于
 is native to europe:原产于欧洲
@@ -614,6 +627,8 @@ islamic:伊斯兰的
 islamism:伊斯兰主义
 islamist:伊斯兰教徒
 island:岛
+island:岛屿
+islands:群岛
 isle:小岛
 islet:小岛
 isoindoline:异吲哚啉

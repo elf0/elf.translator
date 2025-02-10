@@ -32,6 +32,7 @@ odd:奇
 odor:气味
 odorless:无气味的
 of course:当然
+of the year:年度
 of:的
 off:关闭
 offensive:令人不愉快的
@@ -86,6 +87,7 @@ once upon a time:很久很久以前
 once you:一旦你
 once:一次
 one after another:一个接一个地
+one belt and one road:一带一路
 one by one:一个接一个
 one day:一日
 one hundred dollars:一百美元
@@ -143,6 +145,7 @@ opinion:看法
 opinion:见解
 opium war:鸦片战争
 opium:鸦片
+opponent:对手
 opportunity:机会
 oppose:阻止
 opposed to:相对于
@@ -174,10 +177,21 @@ organisms:生物
 organization:组织
 organize:组织
 orgasm:性高潮
+origin:来源
+origin:起源
 original sin:原罪
 original:原始的
 originally:起初
 orthogonal:正交的
+oscar for best actor:奥斯卡最佳男演员
+oscar for best actress:奥斯卡最佳女演员
+oscar for best costume:奥斯卡最佳服装
+oscar for best director:奥斯卡最佳导演
+oscar for best film::奥斯卡最佳电影
+oscar for best foreign language film::奥斯卡最佳外语电影
+oscar for best original screenplay:奥斯卡最佳原创电影剧本
+oscar for best screenplay:奥斯卡最佳电影剧本
+oscar for best song:奥斯卡最佳歌曲
 oscar:奥斯卡
 oscillation:振动
 oscillation:振荡

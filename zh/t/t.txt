@@ -197,6 +197,8 @@ they do not even speak the language:他们甚至不说这种语言
 they:他们
 thick:浓的
 thigh:大腿
+thing:东西
+thing:事情
 things:东西
 things:事情
 things:事物
@@ -223,6 +225,8 @@ this is your life:这是你的人生
 this is:这是
 this means that:这意味着
 this means that:這意味著
+this means:这意味着
+this means:这意味著
 this sort of thing:这样的事情
 this sort of:這種
 this term:这个术语
@@ -318,6 +322,7 @@ tool:工具
 toolbar:工具栏
 toolbox:工具箱
 toolchain:工具链
+tools:工具
 tooth:牙
 toothpaste:牙膏
 top level:顶层
@@ -353,6 +358,7 @@ toxic:有毒的
 toxin:毒素
 toy:玩具
 toyota:丰田
+trace back:追溯
 track:痕迹
 trade agreement:贸易协议
 trade and investment:贸易和投资
@@ -376,6 +382,8 @@ training:训练
 trait:特征
 traitor:叛徒
 trajectory:飞行轨迹
+tram:有轨电车
+tram station:有轨电车站
 transducer:换能器
 transfer:中转
 transfer:传输
@@ -416,6 +424,8 @@ treatment:对待
 treatment:疗法
 treaty:条约
 tree:树
+tremble:战栗
+tremble:颤抖
 trend:趋势
 trial:审判
 triangle:三角形
