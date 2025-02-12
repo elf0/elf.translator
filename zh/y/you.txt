@@ -9,6 +9,7 @@ you are absolutely correct:你绝对正确
 you are absolutely right:你绝对正确
 you are alive:你还活着
 you are already dead:你已经死了
+you are always:你总是
 you are amazing:你真令人惊奇
 you are an idiot:你是个傻子
 you are awesome:你超级棒
@@ -44,6 +45,11 @@ you are my world:你是我的世界
 you are no longer alone:你不再孤单
 you are not alone:你不孤单
 you are not irreplaceable:你不是不可替代的
+you are not my boss:你不是我的老板
+you are not my enemy:你不是我的敌人
+you are not my friend:你不是我的朋友
+you are not my type:你不是我喜欢的类型
+you are not my type:你不是我的菜
 you are quite right:你十分正确
 you are right:你是对的
 you are seeing:你正在看
@@ -52,6 +58,16 @@ you are strongly encouraged to do:强烈地鼓励你做
 you are stupid:你真蠢
 you are the best:你是最棒的
 you are the first:你是第一个
+you are the only one i can ask:你是我唯一能问的人
+you are the only one i can talk to about this:你是我唯一能说这个的人
+you are the only one i can talk to:你是我唯一能说的人
+you are the only one i can tell:你是我唯一能告诉的人
+you are the only one i can trust:你是我唯一能信任的人
+you are the only one i have:你是我唯一所有的人
+you are the only one i love:你是我唯一爱的人
+you are the only one i need:你是我唯一需要的人
+you are the only one i trust:你是我唯一信任的人
+you are the only one i want:你是我唯一想要的人
 you are the quarry:你是猎物
 you are the sunshine of my life:你就是我生命中的阳光
 you are the universe:你就是宇宙
@@ -120,6 +136,8 @@ you think:您認為
 you think:您认为
 you want:您想要
 you were saying:你说什么
+you were the only one i loved:你是我曾经唯一所爱
+you were the only one i loved:你曾是我唯一所爱
 you will need:你将需要
 you will need:您将需要
 you will:你们会
