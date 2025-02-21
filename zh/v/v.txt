@@ -1584,6 +1584,7 @@ variable width encoding:可变宽度编码
 variable width font:比例字体
 variable yield:可变当量
 variable:变量
+variables:变量
 variadic function:可變參數函數
 variadic macro in the c preprocessor:可变参数宏
 variadic template:可变参数模板

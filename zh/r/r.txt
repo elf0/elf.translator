@@ -3103,7 +3103,9 @@ recoilless rifle:无后座力炮
 recoleta:雷科莱塔
 recombinant virus:重组病毒
 recombination:重組
+recommend:建议
 recommend:推荐
+recommended:建议
 recommender system:推薦系統
 reconciliation:和解
 reconfigurable computing:可重組計算
@@ -4273,6 +4275,7 @@ regions of thailand:泰国地区
 regions of the faroe islands:法罗群岛地区
 regions of venezuela:委內瑞拉的地區
 regions of western australia:西澳大利亚地区
+regions:地区
 regionstog:丹麦区域铁路公司
 regioselectivity:区域选择性
 regis university:瑞吉斯大學
