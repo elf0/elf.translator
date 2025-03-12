@@ -4066,6 +4066,7 @@ land value tax:地價稅
 land warfare:地面戰
 land warrior:大地勇士單兵作戰系統
 land's end:兰兹角
+land:土地
 land:陆地
 landak regency:萬那縣
 landana firefinch:淡嘴火雀
@@ -11058,6 +11059,7 @@ level sensor:液位计
 level set method:水平集方法
 level set:水平集
 level staff:水准尺
+level:水平
 level:等级
 leveling effect:拉平效应
 levelized cost of electricity:均化能源成本

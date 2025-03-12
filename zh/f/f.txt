@@ -145,6 +145,7 @@ factories:工厂
 factorio:异星工厂
 factorization:因式分解
 factors of production:生产要素
+factors:因素
 factory bluffs:法克特里海崖
 factory cove:法克特里灣
 factory method pattern:工厂方法
@@ -7920,6 +7921,7 @@ food technology:食品技术
 food truck:美食車
 food waste in the united kingdom:英國食物浪費現象
 food web:食物网
+food:食品
 food:食物
 foodborne illness:食源性疾病
 foodservice:飲食業
@@ -12660,6 +12662,7 @@ function space:函数空间
 function tree:功能樹
 function word:虚词
 function:函数
+function:功能
 functional analysis:泛函分析
 functional beverage:機能性飲料
 functional calculus:函数演算
@@ -12690,11 +12693,13 @@ functional verification:功能验证
 functionalism:功能主义
 functionality:功能性
 functions:函数
+functions:功能
 functor category:函子範疇
 functor:函子
 funcusvermis:前卫虫螈属
 fund for peace:和平基金會
 fund of funds:组合型基金
+fund:基金
 fundal height:宮底高度
 fundamental analysis:基本分析
 fundamental attribution error:基本歸因謬誤
@@ -13207,6 +13212,7 @@ future university hakodate:公立函館未來大學
 future value:終值
 future x cops:未來警察
 future:未来
+future:未来的
 futures contract:期货
 futures exchange:期貨交易所
 futures industry association:美國期貨業協會
