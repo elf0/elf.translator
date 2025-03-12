@@ -7573,6 +7573,7 @@ kilogram per cubic metre:千克每立方米
 kilogram:千克
 kilohertz:千赫兹
 kilometer:千米
+kilometers:公里
 kilometre zero:公路原點
 kilometre:公里
 kilometre:千米
@@ -10417,6 +10418,7 @@ knowledge management:知识管理
 knowledge organization:資訊組織
 knowledge representation and reasoning:知识表示
 knowledge translation:知識轉譯
+knowledge:知識
 knowledge:知识
 known plaintext attack:已知明文攻击
 known:已知的
