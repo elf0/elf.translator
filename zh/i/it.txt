@@ -4,6 +4,7 @@ it a brief:它一个简短的
 it a chance:它一个机会
 it a choice:它一个选择
 it a clear:它一个明确的
+it a club:它一个俱乐部
 it a comfort zone:它一个舒适区
 it a conscious thought:它一个有意识的想法
 it a consequence:它一个结果
@@ -29,15 +30,18 @@ it a long time ago:它很久以前
 it a long time:它很长一段时间
 it a love:它一个爱
 it a magical name:它一个神奇的名字
+it a miss:它一个小姐
 it a month:它一个月
 it a mouth:它一个嘴
 it a name:它一个名字
+it a name:它一个名称
 it a nation:它一个国家
 it a new begin:它一个新的开始
 it a new definition:它一个新的定义
 it a new input:它一个新的输入
 it a new life:它一个新的生命
 it a new name:它一个新的名字
+it a new name:它一个新的名称
 it a new object:它一个新的对象
 it a new:它一个新的
 it a perfect choice:它一个完美的选择
@@ -51,6 +55,7 @@ it a rebirth:它一个重生
 it a rest:它一个休息
 it a revolution:它一个革命
 it a rich:它一个丰富的
+it a run:它一个运行
 it a season:它一个季节
 it a secret from:它一个秘密从
 it a secret:它一个秘密
@@ -62,8 +67,11 @@ it a special signal:它一个特殊的信号
 it a special:它一个特别的
 it a special:它一个特殊的
 it a strong:它一个强大的
+it a style:它一个风格
 it a symbol:它一个符号
+it a temporary title:它一个临时的标题
 it a temporary:它一个临时的
+it a thought:它一个想法
 it a try and:它一个尝试和
 it a try:它一个尝试
 it a unique:它一个唯一的
@@ -76,12 +84,14 @@ it a year:它一年
 it a zero:它一个零
 it a:它一
 it a:它一个
+it abbreviate:它缩写
 it abolish:它废除
 it abort:它中止
 it about china:它关于中国
 it about:它关于
 it about:它大约
 it above:它上面的
+it absolute:它绝对
 it accelerate:它加速
 it accept:它接受
 it access:它访问
@@ -146,6 +156,8 @@ it affects everything:它影响一切
 it affects girls and boys:它影响女孩和男孩
 it affects my lung:它影响我的肺
 it affects ovarian follicle:它影响卵泡
+it affects skin:它影响皮肤
+it affects you:它影响你
 it affects:它影响
 it after all:它毕竟
 it after all:它畢竟
@@ -167,11 +179,14 @@ it align:它对齐
 it alive:它活着的
 it all night:它整夜
 it all off:它全部关闭
+it all out:它所有外
 it all over:它全部结束
+it all place:它所有的地方
 it all started from an intro:硬戳
 it all the time:它所有的时间
 it all:它全部
 it all:它所有
+it all:它所有的
 it allot:它分配
 it allow you:它允许你
 it allow:它允许
@@ -568,12 +583,14 @@ it always:它一直
 it always:它总是
 it am:它是
 it america:它美国
+it an acceptable:它一个可接受的
 it an adjective or:它一个形容词或
 it an:它一个
 it analyst:它分析师
 it analyze:它分析
 it anchor:它锚
 it and alaska is:它与阿拉斯加州是
+it and all:它和所有
 it and allah:它与安拉
 it and amazon:它与亚马逊
 it and america:它和美国
@@ -586,15 +603,22 @@ it and death:它与死亡
 it and defeat it:它和击败它
 it and douglas:它和道格拉斯
 it and earth:它和地球
+it and feel it:它和感觉它
 it and freedom:它和自由
 it and function:它与功能
+it and give it:它和给它
 it and godzilla:它与哥斯拉
+it and google:它和谷歌
 it and health:它与健康
 it and help:它和帮助
 it and her wine:它和她的酒
 it and hopes:它和希望
 it and how to choose it:它和如何选择它
+it and how to choose:它和如何选择
 it and how to get it:它和如何得到它
+it and how to:它和如何
+it and it help:它和它帮助
+it and its angel:它和它的天使
 it and its clients:它和它的客户
 it and its complex:它和它的复杂
 it and its compounds:它和它的化合物
@@ -615,7 +639,9 @@ it and our imagination:它与我们的想象
 it and our:它和我们的
 it and outer space:它与外层空间
 it and prevent:它和阻止
+it and resolve it:它和解决它
 it and satisfy his:它和满足他的
+it and send:它和发送
 it and strengthen:它和加强
 it and telecommunications:它和电信
 it and that:它与那
@@ -629,6 +655,7 @@ it and your option:它和你的选项
 it and:它与
 it and:它和
 it animation:它动画
+it annex:它吞并
 it announce:它宣告
 it another advantage:它另一个优势
 it another life:它另一个生命
@@ -671,6 +698,7 @@ it as a first step:它作为第一步
 it as a function:它当作一个函数
 it as a good begin:它当作一个好的开始
 it as a good start:它当作一个好的开始
+it as a good:它当作一个好的
 it as a joke:它当作一个笑话
 it as a learning:它当作一个学习
 it as a living:它当作一个活
@@ -679,17 +707,23 @@ it as a murder:它当作一个谋杀
 it as a perfect:它当作一个完美的
 it as a person:它作为一个人
 it as a phenomenon:它当作一个现象
+it as a post office:它当作一个邮局
+it as a problem:它当作一个难题
 it as a publishing:它当作一个出版
+it as a question:它当作一个问题
 it as a request:它当作一个请求
 it as a slogan:它当作一个口号
 it as a target:它当作一个目标
 it as a tool:它当作一个工具
 it as a:它当作一
 it as a:它当作一个
+it as an absolute:它当作一个绝对
 it as an entity:它当作一个实体
 it as an extra:它当作一个额外的
 it as an interesting challenge:它当作一个有趣的挑战
+it as an interesting:它当作一个有趣的
 it as an iron:它当作一个铁
+it as an issue:它当作一个问题
 it as an order:它当作一个命令
 it as an:它当作一个
 it as another:它当作另一个
@@ -699,6 +733,7 @@ it as early as:它早在
 it as entertainment:它当作娱乐
 it as essence:它当作本质
 it as evidence:它作为证据
+it as fact:它当作事实
 it as gospel:它当作福音
 it as her house:它当作她的房子
 it as her:它当作她的
@@ -724,6 +759,7 @@ it as vegetable:它当作蔬菜
 it as well as its consequences:它以及它的后果
 it as well as:它以及
 it as well:它也
+it as you:它当作你
 it as your home:它当作你的家
 it as your:它当作你的
 it as:它当作
@@ -735,6 +771,8 @@ it at a club:它在一个俱乐部
 it at a place:它在一个地方
 it at all:它在所有
 it at amazon:它在亚马逊
+it at an hour:它在一个小时
+it at breakfast:它在早餐
 it at different time:它在不同的时间
 it at each place:它在每个地方
 it at first:它首先
@@ -764,8 +802,10 @@ it attempted murder:它谋杀未遂
 it attend:它参加
 it attract:它吸引
 it auction:它拍卖
+it auto:它汽车
 it auto:它自动
 it autograph:它亲笔签名
+it automatic:它自动的
 it automatically:它自动地
 it available:它可用的
 it average:它平均
@@ -775,6 +815,7 @@ it awake:它唤醒
 it award:它授予
 it awards:它奖
 it away:它离
+it back to front:它回到前面
 it back to me:它回到我
 it back to your:它回到你的
 it back to:它回到
@@ -785,6 +826,7 @@ it bark:它吠
 it based on exponential:它基于指数
 it based on:它基于
 it based:它基于
+it be an open:它成为一个开
 it be hallucination:它成为幻觉
 it be society:它成为社会
 it be:它成为
@@ -832,6 +874,7 @@ it become grass:它成为草
 it become some kind of:它成为某种
 it become:它成为
 it been:它已经
+it before it even:它之前它甚至
 it before it kill:它之前它杀
 it before it was:它之前它是
 it before or:它之前或
@@ -895,7 +938,12 @@ it calculate:它计算
 it call:它调用
 it calm:它平静
 it came from the nightosphere:惡夜魔境
+it can a:它可以一
+it can a:它能一
+it can accelerate wound:它可以加速伤
 it can accelerate:它可以加速
+it can accelerate:它能加速
+it can accept connection:它可以接受连接
 it can accept data:它可以接受数据
 it can accept human:它可以接受人类
 it can accept parameter:它可以接受参数
@@ -909,6 +957,8 @@ it can adequately:它可以充分地
 it can admit:它可以承认
 it can again:它可以又
 it can aid clients:它可以帮助客户
+it can aid energy:它可以帮助能量
+it can aid you:它可以帮助你
 it can aid:它可以帮助
 it can all:它可以全部
 it can also keep:它可以也保持
@@ -918,9 +968,13 @@ it can also refer to their participation:它也可以指他们的参与
 it can also refer to:它也可以指
 it can analyze:它可以分析
 it can answer questions:它可以回答问题
+it can answer:它可以回答
 it can appear at:它可以出现在
 it can approach you:它可以接近你
+it can assist governments:它可以协助政府
+it can at high:它可以在高
 it can at:它可以在
+it can attack you:它可以攻击你
 it can attack:它可以攻击
 it can attract more:它可以吸引更多
 it can auto-detect:它可以自动检测
@@ -928,6 +982,9 @@ it can auto:它可以自动
 it can avoid:它可以避免
 it can balance:它可以平衡
 it can be a:它可以成为一
+it can be a:它可以成为一个
+it can be a:它能成为一
+it can be an:它可以成为一个
 it can be considered a:它可以被视为一
 it can be considered a:它可以被视为一个
 it can be considered:它可以被视为
@@ -935,6 +992,8 @@ it can be stolen:它可以被偷
 it can be used to develop:它可以被用于开发
 it can be used to make:它可以被用于制造
 it can be used to:它可以被用于
+it can be you:它可以成为你
+it can be:它可以成为
 it can become a:它可以成为一
 it can become automatic:它可以成为自动的
 it can become effective:它可以成为有效的
@@ -943,16 +1002,21 @@ it can become reality:它可以成为现实
 it can become your:它可以成为你的
 it can bend:它可以弯曲
 it can better achieve:它能更好实现
+it can better control:它可以更好的控制
 it can better:它可以更好
 it can better:它能更好
 it can break or:它可以打破或
+it can break you:它可以打破你
 it can break your:它可以打破你的
 it can break:它可以打破
 it can break:它能打破
+it can build:它可以构建
 it can burst and:它可以爆发和
 it can buy a:它可以买一个
 it can buy:它可以买
+it can buy:它可以買
 it can calculate:它可以计算
+it can call:它可以调用
 it can cause a:它可以引起一
 it can cause a:它能引起一
 it can cause acne:它可以引起痤疮
@@ -962,16 +1026,19 @@ it can cause:它可以引起
 it can cause:它能引起
 it can challenge:它可以挑战
 it can change a person:它可以改变一个人
+it can change a student:它可以改变一个学生
 it can change a:它可以改变一个
 it can change a:它能改变一个
 it can change agriculture:它可以改变农业
 it can change direction:它可以改变方向
 it can change everything:它可以改变一切
 it can change everything:它能改变一切
+it can change expensive:它可以改变昂贵的
 it can change from:它可以改变从
 it can change god:它可以改变上帝
 it can change its:它可以改变它的
 it can change me:它可以改变我
+it can change my:它可以改变我的
 it can change our:它可以改变我们的
 it can change our:它能改变我们的
 it can change people:它可以改变人们
@@ -981,24 +1048,30 @@ it can change tomorrow:它可以改变明天
 it can change you:它可以改变你
 it can change your:它可以改变你的
 it can change:它可以改变
+it can change:它能改变
 it can check each:它可以检查每个
 it can check:它可以检查
 it can choose peace:它可以选择和平
 it can choose:它可以选择
 it can clear:它可以清除
+it can climb:它可以攀爬
 it can collaborate:它可以合作
 it can come from anyone:它可以来自任何人
 it can come from anywhere:它可以来自任何地方
 it can come from blogs:它可以来自博客
 it can come from china:它可以来自中国
 it can come from:它可以来自
+it can come:它可以来
 it can come:它能来
 it can comfort:它可以舒適
 it can complete:它可以完成
 it can comprise no:它可以包含不
 it can compute:它可以计算
+it can compute:它能计算
+it can config:它可以配置
 it can configure:它可以配置
 it can connect several:它可以连接几个
+it can connect to:它可以连接到
 it can connect:它可以连接
 it can contain and:它能包含和
 it can contain arbitrary:它可以包含任意的
@@ -1009,6 +1082,7 @@ it can contain:它可以包含
 it can control a:它可以控制一
 it can control appetite:它可以控制食欲
 it can control thought:它可以控制思想
+it can control:它可以控制
 it can convert all:它可以转换所有
 it can convert and:它可以转换和
 it can convert to:它可以转换到
@@ -1016,20 +1090,29 @@ it can convert:它可以转换
 it can copy any:它可以复制任何
 it can copy entire:它可以复制整个
 it can copy:它可以复制
+it can correct:它可以正确的
 it can count:它可以计数
+it can cover:它可以涵盖
 it can cover:它可以覆盖
 it can create a story:它可以创造一个故事
+it can create a:它可以创造一
 it can create a:它可以创造一个
 it can create everything:它可以创造一切
 it can create music:它可以创造音乐
+it can create:它可以创造
 it can create:它能创造
+it can cross:它可以穿越
 it can customize:它可以定制
 it can cut off:它可以切断
+it can cut or:它可以切割或
+it can cut:它可以切割
 it can cut:它能切割
+it can damage you:它可以损害你
 it can damage your:它可以损害你的
 it can decide who:它可以决定谁
 it can decipher:它可以破译
 it can decode these:它可以解码这些
+it can decode:它可以解码
 it can delete files:它可以删除文件
 it can deliver:它可以输送
 it can describe our:它可以描述我们的
@@ -1042,18 +1125,29 @@ it can destroy:它可以摧毁
 it can destroy:它能摧毁
 it can detect a:它可以检测一个
 it can detect and:它可以检测和
+it can detect camera:它可以检测相机
+it can detect carbon dioxide:它可以检测二氧化碳
 it can detect defect:它可以检测缺陷
+it can detect file:它可以检测文件
+it can detect simple:它可以检测简单
+it can detect stock:它可以检测股票
 it can detect:它可以检测
 it can develop children:它可以开发孩子们
 it can develop:它可以开发
+it can die:它可以死
 it can differentiate:它可以区分
 it can discover new:它可以发现新的
 it can display information:它可以显示信息
+it can display:它可以显示
 it can display:它能显示
+it can dissolve gold:它可以溶解金
 it can dissolve in water:它可以溶解在水中
 it can dissolve many:它可以溶解许多
+it can dissolve nitrocellulose:它能溶解硝酸纤维素
+it can dissolve you:它可以溶解你
 it can dissolve:它可以溶解
 it can dissolve:它能溶解
+it can do airdrop:它可以做空投
 it can do anything:它可以做任何事
 it can do but:它可以做但
 it can do everything:它能做一切
@@ -1061,12 +1155,19 @@ it can do four:它可以做四
 it can do many:它可以做很多
 it can do many:它能做許多
 it can do many:它能做许多
+it can do more:它可以做更多
+it can do what:它能做什么
 it can do:它可以做
 it can do:它能做
+it can download:它可以下载
 it can drill:它可以钻孔
 it can earn service:它可以挣服务
+it can earn:它可以挣
 it can eat:它可以吃
 it can edit:它可以编辑
+it can effect:它能影响
+it can effective:它可以有效的
+it can effective:它能有效的
 it can effectively balance:它可以有效地平衡
 it can effectively control:它可以有效地控制
 it can effectively detect:它能有效地检测
@@ -1085,24 +1186,34 @@ it can eliminate:它可以消除
 it can emphasize:它可以强调
 it can encourage individuals:它可以鼓励个人
 it can end my life:它可以结束我的生命
+it can end my:它可以结束我的
 it can end:它可以结束
 it can enlarge:它可以放大
+it can enter air:它可以进入空气
 it can enter:它可以进入
+it can enter:它能进入
+it can escape:它可以逃脱
 it can establish a:它可以建立一个
 it can estimate and:它可以估计和
 it can exchange:它可以交换
 it can exist:它可以存在
 it can explain everything:它可以解释一切
 it can export to:它可以导出到
+it can extend:它可以扩展
 it can feel very:它可以感觉非常
 it can feel:它可以感觉
 it can find even:它可以发现甚至
+it can find heart:它可以发现心
 it can find:它可以发现
+it can fingerprint:它可以指纹
+it can flow operations:它可以流动操作
 it can flow:它可以流动
 it can fly:它可以飞
 it can fly:它能飞
 it can focus on a:它可以专注于一个
+it can follow you:它可以跟随你
 it can follow your:它可以跟随你的
+it can follow:它可以跟随
 it can free:它可以自由的
 it can free:它可以释放
 it can generate watermark:它可以生成水印
@@ -1121,16 +1232,22 @@ it can give you:它可以给你
 it can give you:它能给你
 it can give:它可以给
 it can give:它能给
+it can go wrong:它可以去错的
+it can go:它可以去
+it can guide geneticist:它可以指引遗传学家
 it can handle any:它可以处理任何
 it can handle complex:它可以处理复杂
 it can handle different:它可以处理不同的
+it can handle grayscale:它可以处理灰度图像
 it can handle high:它可以处理高
 it can handle more:它可以处理更多
 it can handle various:它可以处理各种
 it can handle:它可以处理
 it can handle:它能处理
+it can have a:它可以有一
 it can have a:它可以有一个
 it can have depth:它可以有深度
+it can have many:它可以有很多
 it can have many:它可以有许多
 it can have more than:它可以有超过
 it can have more:它可以有更多
@@ -1138,10 +1255,13 @@ it can have some:它可以有一些
 it can have such:它可以有如此
 it can have this:它可以有这
 it can have three:它可以有三
+it can have you:它可以有你
 it can have:它可以有
 it can help a person:它可以帮助一个人
 it can help a:它可以帮助一
 it can help a:它可以帮助一个
+it can help all:它可以帮助所有
+it can help athletes:它可以帮助运动员
 it can help auto:它可以帮助汽车
 it can help avoid:它可以帮助避免
 it can help balance:它可以帮助平衡
@@ -1150,6 +1270,7 @@ it can help buy:它可以帮助买
 it can help change:它可以帮助改变
 it can help children:它可以帮助孩子
 it can help children:它可以帮助孩子们
+it can help cities:它可以帮助城市
 it can help clients:它能帮助客户
 it can help companies:它可以帮助企业
 it can help companies:它可以帮助公司
@@ -1157,6 +1278,7 @@ it can help connect:它可以帮助连接
 it can help consumers:它可以帮助消费者
 it can help consumers:它能帮助消费者
 it can help control:它能帮助控制
+it can help create:它可以帮助创造
 it can help customers:它可以帮助客户
 it can help customers:它能帮助客户
 it can help data center:它可以帮助数据中心
@@ -1180,6 +1302,7 @@ it can help limit:它可以帮助限制
 it can help lower:它可以帮助降低
 it can help machines:它能帮助机器
 it can help manufacturers:它可以帮助制造商
+it can help me:它可以帮助我
 it can help nokia:它可以帮助诺基亚
 it can help oil and gas:它可以帮助石油和天然气
 it can help open:它可以帮助开
@@ -1242,6 +1365,7 @@ it can help you:它可以帮助你
 it can help you:它能帮助你
 it can help:它可以帮助
 it can help:它能帮助
+it can hide:它可以隐藏
 it can hurt us:它可以伤害我们
 it can hurt:它可以伤害
 it can identify errors:它可以识别错误
@@ -1250,6 +1374,7 @@ it can identify specific:它可以识别特定的
 it can identify:它可以识别
 it can ignore all:它可以忽略所有
 it can impact men and women:它可以影响男性和女性
+it can impact:它可以影响
 it can impede:它可以阻碍
 it can import and:它可以导入和
 it can import:它可以导入
@@ -1276,6 +1401,7 @@ it can include a:它可以包括一个
 it can include all:它可以包括所有
 it can include data:它可以包括数据
 it can include environment:它可以包括环境
+it can include life skills:它可以包括生活技能
 it can include life:它可以包括生活
 it can include microorganism:它可以包括微生物
 it can include numbers:它可以包括数字
@@ -1292,21 +1418,26 @@ it can infect anyone:它可以感染任何人
 it can infect you:它可以感染你
 it can infect:它可以感染
 it can influence consumer:它可以影响消费者
+it can influence you:它可以影响你
 it can inherit properties:它可以继承属性
 it can inhibit bacteria:它可以抑制细菌
 it can inhibit:它可以抑制
 it can install development:它可以安装开发
+it can install:它可以安装
 it can instant:它可以瞬间
 it can interpret text:它可以解释文本
 it can interpret:它可以解释
 it can invent any:它可以发明任何
+it can invest myth:它可以投资神话
 it can invest:它可以投资
+it can invite:它可以邀请
 it can involve:它可以包括
 it can jump:它可以跳
 it can jump:它能跳
 it can just provide:它可以只提供
 it can keep food:它可以保持食物
 it can keep it:它可以保持它
+it can keep us:它可以保持我们
 it can keep:它可以保持
 it can kill:它可以杀
 it can kill:它能杀
@@ -1316,27 +1447,40 @@ it can leak or:它可以泄漏或
 it can learn and:它可以学习和
 it can learn to:它可以学习到
 it can learn:它可以学习
+it can leave:它可以离开
+it can let its:它可以让它的
 it can let us see:它可以让我们看见
+it can let us:它可以让我们
 it can let you know:它可以让你知道
 it can let you:它可以让你
 it can let:它可以让
+it can let:它能让
 it can lift car:它可以举起汽车
 it can lift:它能举起
 it can limit growth:它可以限制增长
+it can limit:它可以限制
+it can limit:它能限制
+it can link to:它可以链接到
 it can load:它可以加载
 it can lock:它可以锁
+it can look:它可以看
 it can lower blood pressure:它可以降低血压
 it can lower blood sugar level:它可以降低血糖
+it can lower blood:它可以降低血
+it can lower fund:它可以降低基金
 it can lower:它可以降低
+it can lower:它能降低
 it can make love:它可以做爱
 it can manage simple:它可以管理简单
 it can manage:它能管理
 it can manufacture:它可以制造
 it can match:它可以匹配
+it can measure blood flow:它可以测量血液流动
 it can measure blood:它可以测量血液
 it can measure temperature:它能测量温度
 it can measure various:它能测量各种
 it can measure:它可以测量
+it can melt:它可以融化
 it can melt:它能融化
 it can mix and:它可以混合和
 it can move energy:它可以移动能源
@@ -1349,13 +1493,16 @@ it can offer a:它可以提供一个
 it can offer complex:它可以提供复杂的
 it can offer help:它可以提供帮助
 it can offer many of:它可以提供许多
+it can offer many:它可以提供许多
 it can offer solutions:它可以提供解决方案
 it can offer some:它可以提供一些
 it can offer various:它可以提供各种
 it can offer:它可以提供
+it can open us:它可以打开我们
 it can open you:它可以打开你
 it can open:它可以开
 it can open:它可以打开
+it can open:它能开
 it can or can't:它能或不能
 it can order:它可以命令
 it can organize and:它可以组织和
@@ -1369,6 +1516,7 @@ it can perform different:它可以执行不同的
 it can perform simple:它可以执行简单
 it can perform various:它可以执行各种
 it can perform:它可以执行
+it can play:它可以玩
 it can potential:它可以潜在
 it can predict and:它可以预测和
 it can predict when:它可以预测何时
@@ -1401,6 +1549,7 @@ it can process any:它可以处理任何
 it can process high:它可以处理高
 it can process millions:它可以处理数百万
 it can process more than:它可以处理超过
+it can process more:它可以处理更多
 it can process:它可以处理
 it can process:它能处理
 it can produce gasoline:它可以生产汽油
@@ -1442,14 +1591,18 @@ it can reach very:它可以达到非常
 it can reach:它可以达到
 it can reach:它能达到
 it can read:它可以读
+it can real:它可以真的
 it can recognize a:它可以识别一
 it can recognize and:它可以识别和
 it can recognize complex:它可以识别复杂的
 it can recognize face:它可以识别脸
 it can recognize:它可以识别
+it can recommend:它可以推荐
 it can record all:它可以记录所有
+it can record all:它可以记录所有的
 it can record and:它可以记录和
 it can record microphone:它可以记录麦克风
+it can record you:它可以记录你
 it can record your:它可以记录你的
 it can record:它可以记录
 it can recover all:它可以恢复所有
@@ -1472,6 +1625,8 @@ it can reduce:它能减少
 it can reflect a person:它可以反映一个人
 it can reflect or:它可以反映或
 it can reject any:它可以拒绝任何
+it can reject:它可以拒绝
+it can release:它可以释放
 it can relieve eye:它可以缓解眼睛
 it can relieve:它可以缓解
 it can remember:它能记住
@@ -1483,8 +1638,10 @@ it can request:它可以请求
 it can require disney:它可以要求迪士尼
 it can resolve some:它可以解决一些
 it can resolve:它可以解决
+it can rest:它可以休息
 it can restore some:它可以恢复一些
 it can restore:它可以恢复
+it can restrict:它可以限制
 it can return a:它可以返回一个
 it can return:它可以返回
 it can reveal:它可以揭示
@@ -1498,19 +1655,30 @@ it can safe:它能安全的
 it can satisfy many:它可以满足许多
 it can satisfy people:它能满足人们
 it can satisfy:它可以满足
+it can save a:它可以保存一
+it can save name:它可以保存名称
 it can save new:它可以保存新的
 it can save photos:它可以保存照片
 it can save:它可以保存
 it can say:它可以说
 it can scar:它可以疤痕
+it can sculpt or:它可以雕刻或
 it can search and:它可以搜索和
 it can search:它可以搜索
 it can secret:它可以秘密
+it can see me:它能看见我
+it can select:它可以选择
+it can self:它可以自我
 it can sell or:它可以出售或
+it can sell:它能出售
 it can send an:它可以发送一个
 it can send and:它可以发送和
+it can send data:它可以发送数据
+it can send information:它可以发送信息
+it can send or:它可以发送或
 it can send:它可以发送
 it can set:它可以设置
+it can show a:它可以显示一个
 it can show:它可以显示
 it can show:它能显示
 it can simplify:它可以简化
@@ -1522,22 +1690,30 @@ it can smell:它能嗅
 it can snow:它可以雪
 it can soften blood vessel:它能软化血管
 it can solve all:它能解决所有
+it can solve all:它能解决所有的
 it can solve some:它可以解决一些
 it can solve:它可以解决
 it can soon begin:它可以很快开始
 it can soon start:它可以很快开始
 it can sort of:它可以排序的
 it can speak:它可以说话
+it can split a:它能分开一个
 it can split:它能分开
 it can start conversation:它可以开始对话
+it can start win:它可以开始赢得
+it can stop publication:它可以停止出版物
 it can stress you:它可以压力你
 it can stretch:它可以拉伸
+it can study:它可以研究
 it can suck:它可以吸
 it can support all:它可以支持所有
 it can support any:它可以支持任何
+it can support euro:它可以支持欧元
 it can support future:它可以支持未来的
 it can support hot:它能支持热
+it can support hot:它能支持熱
 it can support hundreds of:它可以支持数以百计的
+it can support or:它可以支持或
 it can support other:它可以支持其他的
 it can support:它可以支持
 it can take any:它可以取任何
@@ -1547,17 +1723,22 @@ it can teach you:它可以教你
 it can teach you:它能教你
 it can tell governments:它可以告诉政府
 it can tell hospital:它可以告诉医院
+it can tell me:它能告诉我
 it can tell passengers:它可以告诉乘客
 it can tell scientists:它可以告诉科学家
 it can tell them:它可以告诉他们
+it can tell us:它可以告诉我们
+it can tell us:它能告诉我们
 it can tell you:它可以告诉你
 it can tell you:它能告诉你
 it can tell:它可以告诉
 it can test:它可以测试
 it can then support:它可以然后支持
 it can threat:它可以威胁
+it can through:它可以通过
 it can tolerate:它可以容忍
 it can tolerate:它能容忍
+it can touch you:它能触摸你
 it can train you:它可以训练你
 it can transport:它可以运输
 it can try some:它可以尝试一些
@@ -1568,6 +1749,7 @@ it can understand:它可以理解
 it can unite or:它可以联合或
 it can upload:它可以上傳
 it can use all:它可以使用所有
+it can use all:它可以使用所有的
 it can use depth:它可以使用深度
 it can use file:它可以使用文件
 it can use its:它可以使用它的
@@ -1578,9 +1760,12 @@ it can use this:它可以使用这
 it can use:它可以使用
 it can utilize:它可以利用
 it can vary:它可以变化
+it can visit:它可以访问
 it can wait a:它可以等待一
+it can wait that:它能等那
 it can wait:它可以等
 it can wait:它可以等待
+it can welcome you:它可以欢迎你
 it can win war:它可以赢得战争
 it can win:它能赢得
 it can work a:它可以工作一个
@@ -1615,13 +1800,19 @@ it cancer:它癌症
 it cannot accept this:它不能接受这
 it cannot access any:它不能访问任何
 it cannot be a:它不能成为一
+it cannot be a:它不能成为一个
 it cannot be quiet:它不能安静
 it cannot be stolen:它不能被偷
 it cannot be used to:它不能被用于
+it cannot be you:它不能成为你
+it cannot be:它不能成为
+it cannot change you:它不能改变你
 it cannot change your:它不能改变你的
 it cannot choose:它不能选择
+it cannot come:它不能来
 it cannot compromise:它不能妥协
 it cannot contain:它不能包含
+it cannot control:它不能控制
 it cannot create wealth:它不能创造财富
 it cannot create:它不能创造
 it cannot define us:它不能定义我们
@@ -1629,8 +1820,11 @@ it cannot define you:它不能定义你
 it cannot detect:它不能检测
 it cannot differentiate:它不能区分
 it cannot do justice:它不能做正义
+it cannot do position:它不能做位置
+it cannot do what:它不能做什么
 it cannot do:它不能做
 it cannot establish causality:它不能建立因果关系
+it cannot find:它不能发现
 it cannot fly:它不能飞
 it cannot forever:它不能永远
 it cannot give:它不能给
@@ -1645,12 +1839,19 @@ it cannot lead:它不能领导
 it cannot leave this:它不能离开这
 it cannot offer any:它不能提供任何
 it cannot open:它不能打开
+it cannot predict sea:它不能预测海
 it cannot predict:它不能预测
+it cannot print:它不能打印
 it cannot prove a:它不能证明一
 it cannot prove:它不能证明
+it cannot say what:它不能说什么
 it cannot see or:它不能看见或
+it cannot send:它不能发送
 it cannot solve our:它不能解决我们的
+it cannot support fax:它不能支持传真
 it cannot support:它不能支持
+it cannot teach you:它不能教你
+it cannot tell us:它不能告诉我们
 it cannot tell you:它不能告诉你
 it cannot tell your:它不能告诉你的
 it cannot tolerate any:它不能容忍任何
@@ -1660,6 +1861,7 @@ it cannot work:它不能工作
 it cannot:它不能
 it care:它关心
 it case:它案例
+it castrate:它阉割
 it catholic:它天主教
 it cause:它引起
 it causes:它原因
@@ -1670,6 +1872,7 @@ it challenge google:它挑战谷歌
 it challenge:它挑战
 it challenges every step:它挑战每一步
 it challenges student team:它挑战学生团队
+it challenges us all:它挑战我们所有
 it challenges you:它挑战你
 it challenges:它挑战
 it change you:它改变你
@@ -1680,6 +1883,7 @@ it changed colour:它改变了颜色
 it changed course:它改变了课程
 it changed everything:它改变了一切
 it changed her face:它改变了她的脸
+it changed her life:它改变了她的生活
 it changed his plans:它改变了他的计划
 it changed human history:它改变了人类历史
 it changed its:它改变了它的
@@ -1691,6 +1895,8 @@ it changed my entire:它改变了我的整个
 it changed my future:它改变了我的未来
 it changed my life forever:它改变了我的生命永远
 it changed my life:它改变了我的生命
+it changed my life:它改变了我的生活
+it changed my:它改变了我的
 it changed our behavior:它改变了我们的行为
 it changed our personality:它改变了我们的人格
 it changed our work:它改变了我们的工作
@@ -1707,6 +1913,7 @@ it charge:它收费
 it charisma:它魅力
 it charming:它迷人
 it charts:它图表
+it chase:它追逐
 it cheating:它作弊
 it check:它检查
 it chemistry:它化学
@@ -1724,6 +1931,7 @@ it clear:它清除
 it click:它点击
 it climb:它攀爬
 it close:它关闭
+it closed:它闭
 it coast to:它海岸到
 it coast:它海岸
 it cock:它公鸡
@@ -1750,12 +1958,14 @@ it completely:它完全地
 it compress:它压缩
 it comprise:它包含
 it comprise:它包括
+it compromise:它妥协
 it compute:它计算
 it conceal:它隐藏
 it concentrate:它集中
 it conclude:它结束
 it conditions:它条件
 it conduct:它引导
+it config:它配置
 it conflict:它冲突
 it confuse:它混淆
 it connect to a:它连接到一个
@@ -1772,6 +1982,7 @@ it contact:它联系
 it contain:它包含
 it continue:它持续
 it continue:它继续
+it continues at:它继续在
 it continues down:它继续向下
 it continues exit:它继续退出
 it continues providing effective:它继续提供有效的
@@ -1783,6 +1994,7 @@ it control me:它控制我
 it control us:它控制我们
 it control you:它控制你
 it control:它控制
+it controlling you:它控制你
 it controlling:它控制
 it conversion:它转换
 it convert:它转换
@@ -1799,18 +2011,25 @@ it cost:它成本
 it cost:它花费
 it costs:它成本
 it could attract:它能吸引
+it could be:它能成为
 it could correctly:它能正确地
 it could decide whether:它能决定是否
+it could do:它能做
 it could drown him:它能淹死他
+it could end:它能结束
+it could fly and:它能飞和
 it could give us:它能给我们
 it could have:它能有
 it could help improve:它能帮助改善
 it could help this:它能帮助这
 it could help you get:它能帮助你得到
+it could help you:它能帮助你
 it could kill:它能杀
 it could own a:它能拥有一
+it could pierce my:它能刺穿我的
 it could provide:它能提供
 it could recover:它能恢复
+it could run:它能跑
 it could work:它能工作
 it could:它能
 it count:它计数
@@ -1829,6 +2048,7 @@ it crying:它哭
 it cultivate:它培养
 it curiosity:它好奇心
 it current:它当前
+it current:它目前的
 it currently accept:它目前接受
 it currently deploy:它目前部署
 it currently has a:它目前有一个
@@ -1857,6 +2077,7 @@ it danger:它危险
 it dangerous:它危险的
 it dark:它黑暗的
 it deal:它处理
+it death:它死
 it death:它死亡
 it decay:它腐烂
 it decide:它决定
@@ -1867,12 +2088,15 @@ it declare:它声明
 it decode:它解码
 it decompose:它分解
 it decrease:它减少
+it dedicate:它致力
 it dedicated to:它致力于
 it deeper and deeper:它深深地
 it default:它默认
+it defeat you:它击败你
 it defeat you:它打败你
 it defeat:它击败
 it defeat:它打败
+it define him:它定义他
 it define you:它定义你
 it define:它定义
 it delegate:它委托
@@ -1885,6 +2109,7 @@ it demands hero:它要求英雄
 it demands immediate satisfaction:它要求立刻的满足
 it demands individuals:它要求个人
 it demands of:它要求的
+it demands professionalism:它要求专业精神
 it demands your time:它要求你的时间
 it demands:它要求
 it democracy:它民主
@@ -1952,6 +2177,7 @@ it does not work:它不工作
 it does some:它做一些
 it does three:它做三
 it does:它做
+it dolphin island:它海豚岛
 it dolphin:它海豚
 it don't cost you:它不花费你
 it don't hate you:它不恨你
@@ -1960,6 +2186,7 @@ it don't:它不
 it done:它完成
 it doubt:它怀疑
 it down:它向下
+it download:它下載
 it download:它下载
 it drama:它戏剧
 it draw:它画
@@ -1968,12 +2195,14 @@ it drift:它漂
 it drink:它喝
 it drown:它淹死
 it drum:它鼓
+it duck:它鸭
 it due to:它由于
 it during the first world war:它在第一次世界大战期间
 it dust:它灰尘
 it each day:它每天
 it earn:它挣
 it east asia:它东亚
+it east:它东
 it easy to understand:它容易理解
 it easy:它容易
 it eat:它吃
@@ -1981,6 +2210,7 @@ it editorial:它社论
 it edits:它编辑
 it edu:它教育
 it effect:它影响
+it effective:它有效的
 it effectively abolish:它有效地废除
 it effectively annex:它有效地吞并
 it effectively control:它有效地控制
@@ -2008,11 +2238,13 @@ it england:它英格兰
 it enlarge:它扩大
 it enlarge:它放大
 it enormous:它巨大的
+it enough time and:它足够的时间和
 it enough time:它足够的时间
 it enough:它足够的
 it enslave:它奴役
 it enter:它进入
 it enterprise:它企业
+it entire:它整个
 it erupt:它爆发
 it escape:它逃脱
 it especially:它尤其
@@ -2020,10 +2252,13 @@ it establish:它建立
 it established in:它成立于
 it estimate:它估计
 it evaporate:它蒸发
+it even affects:它甚至影响
 it even allow:它甚至允许
+it even be:它甚至成为
 it even become:它甚至成为
 it even began testing:它甚至开始测试
 it even better:它甚至更好
+it even can be:它甚至可以成为
 it even can become:它甚至可以成为
 it even can improve:它甚至可以改善
 it even changed:它甚至改变了
@@ -2033,6 +2268,8 @@ it even cover:它甚至覆盖
 it even describe:它甚至描述
 it even eat:它甚至吃
 it even exist:它甚至存在
+it even farther:它甚至更远的
+it even found:它甚至找到
 it even give:它甚至给
 it even had a:它甚至有一
 it even had a:它甚至有一个
@@ -2049,14 +2286,20 @@ it even has:它甚至有
 it even hold:它甚至拥有
 it even if they:它即使他们
 it even if:它即使
+it even impacts:它甚至影响
 it even in the dark:它甚至在黑暗中
 it even include:它甚至包括
+it even increase:它甚至增加
 it even increased:它甚至增加了
 it even invite:它甚至邀请
+it even knows how to:它甚至知道如何
+it even knows when:它甚至知道何时
 it even let:它甚至让
 it even links to:它甚至链接到
+it even look:它甚至看
 it even may:它甚至可以
 it even means:它甚至意味着
+it even more:它甚至更多
 it even offer:它甚至提供
 it even one nanosecond:它甚至一纳秒
 it even open:它甚至开
@@ -2070,6 +2313,7 @@ it even start:它甚至开始
 it even suggest:它甚至建议
 it even support:它甚至支持
 it even test:它甚至测试
+it even was:它甚至是
 it even work:它甚至工作
 it even worse:它更糟的是
 it even:它甚至
@@ -2085,6 +2329,7 @@ it eventually:它最终
 it ever exist:它曾经存在
 it ever so:它曾经如此
 it ever stop:它曾经停止
+it ever was:它曾经是
 it ever:它曾经
 it every day:它每一天
 it every day:它每天
@@ -2111,9 +2356,11 @@ it explains:它解释
 it exploit:它剥削
 it explore:它探索
 it export:它出口
+it export:它导出
 it exports dangerous missile:它出口危险的导弹
 it exports luxury goods:它出口奢侈品
 it exports:它出口
+it expression and form:它表达和形式
 it expression:它表达
 it extend:它扩展
 it extra:它额外的
@@ -2159,10 +2406,12 @@ it feels very odd:感觉非常奇
 it feels very:感觉非常
 it feels when you:感觉当你
 it feels:感觉
+it fifteen minutes:它十五分钟
 it fifteen:它十五
 it fifty:它五十
 it fight:它战斗
 it fill:它填充
+it final:它最终的
 it finally at:它最终在
 it finally provide:它最终提供
 it finally:它最终
@@ -2190,10 +2439,12 @@ it food:它食物
 it for him:它为了他
 it for the first time:它第一次
 it for:它为了
+it forever changed:它永远改变了
 it forever:它永远
 it forget:它忘记
 it forgive:它原谅
 it form:它形式
+it formats:它格式
 it found:它找到
 it four:它四
 it free will:它自由意志
@@ -2268,8 +2519,11 @@ it from your memory:它从你的记忆
 it from your:它从你的
 it from:它从
 it frustrate:它挫败
+it fuck:它干
 it fuel:它燃料
+it full:它全部
 it function:它功能
+it further economies of scale:它进一步的规模经济
 it further:它进一步的
 it gaze:它凝视
 it general:它一般的
@@ -2279,7 +2533,9 @@ it give you a:它给你一个
 it give you:它给你
 it give:它给
 it global:它全球的
+it go this:它去这
 it go:它去
+it goat mountain:它山羊山
 it goat:它山羊
 it god:它上帝
 it good enough:它足够好
@@ -2511,6 +2767,7 @@ it has a different:它有一个不同的
 it has a diverse:它有一个多样化
 it has a down:它有一个向下
 it has a factory:它有一个工厂
+it has a false bottom:它有一个假的底
 it has a false:它有一个假的
 it has a familiar:它有一个熟悉的
 it has a fast:它有一个快速的
@@ -2533,8 +2790,11 @@ it has a graphical user interface:它有一个图形用户界面
 it has a great:它有一个伟大的
 it has a green:它有一个绿色
 it has a grey:它有一个灰色
+it has a half:它有一个半
 it has a happy:它有一个快乐的
 it has a healthy:它有一个健康的
+it has a high:它有一个高
+it has a historic:它有一个历史性的
 it has a hole:它有一个洞
 it has a key:它有一个关键
 it has a keyboard:它有一个键盘
@@ -2542,7 +2802,9 @@ it has a king:它有一个国王
 it has a kitchen:它有一个厨房
 it has a land:它有一个土地
 it has a large:它有一个大的
+it has a leather:它有一个皮革
 it has a library:它有一个图书馆
+it has a list of:它有一个列表的
 it has a list:它有一个列表
 it has a lithium-ion battery:它有一个锂离子电池
 it has a lock:它有一个锁
@@ -2558,6 +2820,7 @@ it has a modern:它有一个现代
 it has a monopoly:它有一个垄断
 it has a moral:它有一个道德的
 it has a motion:它有一个运动
+it has a mouth:它有一个嘴
 it has a mystical:它有一个神秘的
 it has a name:它有一个名字
 it has a name:它有一个名称
@@ -2576,6 +2839,7 @@ it has a part:它有一部分
 it has a perfect:它有一个完美的
 it has a period:它有一个时期
 it has a pink:它有一个粉红色
+it has a population:它有一个人口
 it has a precise:它有一个精确的
 it has a private:它有一个私人
 it has a problem:它有一个问题
@@ -2591,6 +2855,7 @@ it has a reflect:它有一个反映
 it has a relationship:它有一个关系
 it has a reliable:它有一个可靠的
 it has a request:它有一个请求
+it has a rich:它有一个丰富的
 it has a romantic:它有一个浪漫的
 it has a root:它有一个根
 it has a run:它有一个运行
@@ -2609,12 +2874,14 @@ it has a simple structure:它有一个简单的结构
 it has a simple syntax:它有一个简单的语法
 it has a simple text editor:它有一个简单的文本编辑器
 it has a simple three:它有一个简单的三
+it has a simple:它有一个简单
 it has a simple:它有一个简单的
 it has a small coastline:它有一个小的海岸线
 it has a small population:它有一个小的人口
 it has a small:它有一个小的
 it has a social:它有一个社交
 it has a software:它有一个软件
+it has a special processor:它有一个特殊的处理器
 it has a special vocabulary:它有一个特殊的词汇
 it has a special:它有一个特殊的
 it has a specific:它有一个特定的
@@ -2625,12 +2892,16 @@ it has a story:它有一个故事
 it has a strategic:它有一个战略
 it has a strong and:它有一个强大的和
 it has a strong community:它有一个强大的社区
+it has a strong:它有一个强壮的
 it has a strong:它有一个强大的
 it has a studio:它有一个工作室
 it has a summer vacation:它有一个暑假
+it has a sun:它有一个太阳
+it has a supply chain:它有一个供应链
 it has a swimming pool:它有一个游泳池
 it has a system:它有一个系统
 it has a taboo:它有一个禁忌
+it has a taproot:它有一个主根
 it has a team:它有一个团队
 it has a theme:它有一个主题
 it has a thousand:它有一千
@@ -2641,6 +2912,8 @@ it has a tower:它有一个塔
 it has a traditional:它有一个传统的
 it has a true:它有一个真
 it has a uk:它有一个英国
+it has a unique:它有一个唯一的
+it has a unique:它有一个独特的
 it has a user:它有一个用户
 it has a valid:它有一个有效的
 it has a very good:它有一个很好
@@ -2654,6 +2927,7 @@ it has a wide:它有一个宽
 it has a window:它有一个窗
 it has a work:它有一个工作
 it has a world:它有一个世界
+it has a year:它有一年
 it has a youth:它有一个青年
 it has a:它有一
 it has a:它有一个
@@ -2661,8 +2935,14 @@ it has abnormal:它有异常
 it has about nine:它有大约九
 it has about:它有大约
 it has active:它有活跃的
+it has adequate plans:它有足够的计划
 it has adventure:它有冒险
 it has air and:它有空气和
+it has all facilities:它有所有的设施
+it has all necessary:它有所有必要的
+it has all you:它有所有你
+it has all:它有所有
+it has all:它有所有的
 it has amazon:它有亚马逊
 it has an abstract:它有一个抽象的
 it has an active:它有一个活跃的
@@ -2677,8 +2957,10 @@ it has an automatic transmission:它有一个自动变速器
 it has an east:它有一个东
 it has an egg:它有一个蛋
 it has an elevator:它有一个电梯
+it has an embassy:它有一个大使馆
 it has an empty:它有一个空的
 it has an english language:它有一个英语
+it has an english:它有一个英语
 it has an event:它有一个事件
 it has an extensive:它有一个广泛的
 it has an imperial:它有一个帝国的
@@ -2692,6 +2974,7 @@ it has an international airport:它有一个国际机场
 it has an island:它有一个岛屿
 it has an old world:它有一个旧世界
 it has an old-world:它有一个旧世界
+it has an online learning:它有一个在线学习
 it has an online:它有一个在线
 it has an open:它有一个开
 it has an option:它有一个选项
@@ -2714,8 +2997,10 @@ it has around:它有大约
 it has atlantic and:它有大西洋和
 it has average rainfall:它有平均降雨
 it has batman:它有蝙蝠侠
+it has beautiful beach:它有美丽的海滩
 it has beautiful oval:它有美丽的椭圆
 it has beautiful scenery and:它有美丽的风景和
+it has beautiful scenery:它有美丽的风景
 it has beautiful:它有美丽的
 it has become our:它有成为我们的
 it has been a blessing:它已经一个祝福
@@ -2753,15 +3038,18 @@ it has been work:它已经工作
 it has been:它已经
 it has better security:它有更好的安全
 it has better transparency:它有更好的透明
+it has big prayer:它有大祈祷
 it has big:它有大
 it has black and:它有黑色和
 it has blue and:它有蓝色和
 it has broad green:它有宽阔的绿色
 it has catania:它有卡塔尼亞
 it has challenges:它有挑战
+it has classical curves:它有经典的曲线
 it has color:它有颜色
 it has community and:它有社区和
 it has consequences:它有后果
+it has cost money:它有成本钱
 it has custom:它有自定义的
 it has data show:它有数据显示
 it has depth:它有深度
@@ -2773,12 +3061,16 @@ it has different:它有不同的
 it has direct:它有直接的
 it has dust:它有灰尘
 it has eight:它有八
+it has electricity:它有電
 it has eleven:它有十一
+it has emotions:它有情感
 it has employment opportunity:它有就业机会
 it has enormous potential:它有巨大的潜力
+it has enough battery:它有足够的电池
 it has enough energy:它有足够的能量
 it has enough information:它有足够的信息
 it has enough money:它有足够的钱
+it has enough renewable energy:它有足够的可再生能源
 it has enough signature:它有足够的签名
 it has enough space:它有足够的空间
 it has everything you need:它有一切你需要
@@ -2807,6 +3099,7 @@ it has hands:它有手
 it has heart:它有心脏
 it has helicopters and:它有直升机和
 it has help:它有帮助
+it has high:它有高
 it has his role:它有他的角色
 it has hotel:它有酒店
 it has include:它有包括
@@ -2814,6 +3107,7 @@ it has independent:它有独立的
 it has infect:它有感染
 it has internet:它有互联网
 it has issues:它有问题
+it has its application programming interface:它有它的应用程序编程接口
 it has its application:它有它的应用程序
 it has its beauty:它有它的美
 it has its challenges:它有它的挑战
@@ -2829,6 +3123,7 @@ it has its time:它有它的时间
 it has its:它有它的
 it has king:它有国王
 it has laws:它有法律
+it has limit:它有限制
 it has little:它有很少的
 it has majority voting:它有多数投票
 it has many advantages:它有很多优势
@@ -2837,8 +3132,12 @@ it has many advantages:它有许多优势
 it has many applications:它有很多应用
 it has many applications:它有许多应用
 it has many beach:它有许多海滩
+it has many behavior:它有很多行為
+it has many beneficial:它有很多有益的
 it has many button:它有许多按钮
 it has many car:它有许多汽车
+it has many dialect:它有很多方言
+it has many difference:它有很多不同
 it has many different:它有很多不同的
 it has many different:它有许多不同的
 it has many disguise:它有许多伪装
@@ -2853,6 +3152,7 @@ it has many lake:它有许多湖泊
 it has many layer:它有很多层
 it has many limit:它有许多限制
 it has many name:它有很多名字
+it has many origin:它有許多起源
 it has many parameter:它有很多参数
 it has many requirements:它有许多要求
 it has many rich:它有许多丰富的
@@ -2864,6 +3164,7 @@ it has many version:它有很多版本
 it has many:它有很多
 it has many:它有許多
 it has many:它有许多
+it has market potential:它有市场潜力
 it has me:它有我
 it has meaning:它有意义
 it has metal:它有金属
@@ -2888,10 +3189,12 @@ it has our address:它有我们的地址
 it has patience:它有耐心
 it has perfect:它有完美的
 it has pocket:它有口袋
+it has potential but:它有潜力但
 it has potential:它有潜力
 it has power and:它有力量和
 it has power:它有力量
 it has project links:它有项目链接
+it has public trust issues:它有公众信任问题
 it has public trust:它有公众信任
 it has purpose:它有目的
 it has rain and:它有雨和
@@ -2901,6 +3204,7 @@ it has resources:它有资源
 it has rich culture:它有丰富的文化
 it has rich vegetation:它有丰富的植被
 it has robust:它有健壮的
+it has romantic window:它有浪漫的窗
 it has romantic:它有浪漫的
 it has rule:它有规则
 it has sea:它有海
@@ -2909,6 +3213,7 @@ it has select:它有选择
 it has seven:它有七
 it has several advantages:它有几个优点
 it has several applications:它有几个应用程序
+it has several desktop environment:它有几个桌面环境
 it has several new:它有几个新的
 it has several parameter:它有几个参数
 it has several platform:它有几个平台
@@ -2949,6 +3254,7 @@ it has some very:它有一些非常
 it has some:它有一些
 it has soul:它有灵魂
 it has specific companies:它有特定的公司
+it has strategic logic:它有战略逻辑
 it has strict limit:它有严格的限制
 it has strict:它有严格的
 it has structure and:它有结构和
@@ -2956,6 +3262,7 @@ it has structure:它有结构
 it has subtitles:它有字幕
 it has support:它有支持
 it has symbol:它有符号
+it has teeth:它有牙
 it has ten:它有十
 it has that:它有那
 it has the:它有这
@@ -2964,6 +3271,7 @@ it has this:它有这
 it has three layer:它有三层
 it has three:它有三
 it has trade and:它有贸易和
+it has tradition:它有传统
 it has traditional web design:它有传统的网页设计
 it has tutorials:它有教程
 it has tv and:它有电视和
@@ -2975,14 +3283,18 @@ it has various university:它有各种大学
 it has various:它有各种
 it has very calm:它有非常平静
 it has very different:它有非常不同的
+it has very important:它有非常重要的
 it has very large:它有非常大的
 it has very mild:它有非常温和的
 it has very rich:它有非常丰富的
 it has very:它有非常
 it has volcano:它有火山
+it has water and:它有水和
 it has water:它有水
+it has weight:它有重量
 it has wheel:它有輪
 it has white or:它有白色或
+it has white tire:它有白色轮胎
 it has white:它有白色
 it has wings and:它有翅膀和
 it has wings:它有翅膀
@@ -3024,11 +3336,14 @@ it hold:它拥有
 it holy:它神圣的
 it honeymoon:它蜜月
 it honor:它荣誉
+it hook:它钩
 it hope:它希望
 it hopes these innovation:它希望这些创新
 it hopes to:它希望到
 it hopes:它希望
+it hot:它热
 it hot:它熱
+it hotel:它酒店
 it how to do:它如何做
 it how to learn:它如何学习
 it how to play:它如何玩
@@ -3040,6 +3355,7 @@ it hurt my soul:它伤害我的灵魂
 it hurt when you:它伤害当你
 it hurt:它伤害
 it i can:它我可以
+it i cannot say:它我不能说
 it i could:它我可以
 it i do:它我做
 it i don't know:它我不知道
@@ -3049,8 +3365,10 @@ it i want:它我想
 it i will:它我会
 it i:它我
 it if he:它如果他
+it if i can:它如果我能
 it if i could:它如果我能
 it if i:它如果我
+it if it be:它如果它成为
 it if they can:它如果他们能
 it if they:它如果他们
 it if we don't:它如果我们不
@@ -3058,7 +3376,9 @@ it if we:它如果我们
 it if you are:它如果你是
 it if you can:它如果你能
 it if you have:它如果你有
+it if you need:它如果你需要
 it if you want:它如果你想
+it if you were:它如果你是
 it if you:它如果你
 it if:它如果
 it ignore:它忽略
@@ -3111,6 +3431,7 @@ it in winter:它在冬季
 it in:它英寸
 it in:它里面
 it inaccurate:它不准确的
+it include many game mode:它包括许多游戏模式
 it include many game:它包括许多游戏
 it include:它包括
 it including:它包括
@@ -3170,18 +3491,24 @@ it is a bad:它是一个坏的
 it is a balance:它是一个平衡
 it is a ball:它是一个球
 it is a bar:它是一个酒吧
+it is a basement:它是一个地下室
 it is a basic:它是一个基本的
 it is a beautiful city:它是一个美丽的城市
 it is a beautiful:它是一个美丽的
 it is a bee:它是一只蜜蜂
+it is a big game:它是一个大游戏
 it is a big:它是一个大
 it is a billion:它是一个十亿
+it is a biosphere:它是一个生物圈
+it is a blank page:它是一个空白的页
 it is a blank:它是一个空白的
 it is a blessing:它是一个祝福
 it is a blockchain:它是一个区块链
 it is a blog:它是一个博客
+it is a blue button:它是一个蓝色按钮
 it is a blue:它是一个蓝色
 it is a book:它是一本书
+it is a boxer:它是一个拳击手
 it is a brand:它是一个品牌
 it is a browser:它是一个浏览器
 it is a building:它是一个建筑
@@ -3198,6 +3525,7 @@ it is a chain:它是一个连锁
 it is a challenge:它是一个挑战
 it is a charge:它是一个电荷
 it is a charming:它是一个迷人的
+it is a cheap:它是一个廉价的
 it is a circle:它是一个圆圈
 it is a city and:它是一个城市和
 it is a city of:它是一个城市的
@@ -3219,9 +3547,11 @@ it is a complete:它是一个完整的
 it is a complex:它是一个复杂的
 it is a concept:它是一个概念
 it is a conceptual framework:它是一个概念框架
+it is a concrete class:它是一个具体的类
 it is a concrete:它是一个具体的
 it is a condition:它是一个条件
 it is a configuration management:它是一个配置管理
+it is a configuration:它是一个配置
 it is a conscious:它是一个有意识的
 it is a constant:它是一个常量
 it is a constitutional monarchy:它是一个君主立宪制
@@ -3231,6 +3561,7 @@ it is a continuous:它是一个连续的
 it is a control:它是一个控制
 it is a convention:它是一个约定
 it is a core:它是一个核心
+it is a country:它是一个国家
 it is a create:它是一个创造
 it is a crime:它是一个犯罪
 it is a cross platform:它是一个跨平台
@@ -3247,6 +3578,8 @@ it is a data structure:它是一个数据结构
 it is a data:它是一个数据
 it is a database management system:它是一个数据库管理系统
 it is a database:它是一个数据库
+it is a daughter:它是一个女儿
+it is a dead tree:它是一个死的树
 it is a debt:它是一个债务
 it is a decision:它是一个决定
 it is a declaration:它是一个声明
@@ -3260,6 +3593,7 @@ it is a development:它是一个发展
 it is a device:它是一个设备
 it is a different:它是一个不同的
 it is a distributed database:它是一个分布式数据库
+it is a doubt:它是一个怀疑
 it is a draft:它是一个草案
 it is a dublin:它是一个都柏林
 it is a fact:它是一个事实
@@ -3267,13 +3601,16 @@ it is a failure:它是一个失败
 it is a family:它是一个家庭
 it is a fast:它是一个快速的
 it is a federal government:它是一个联邦政府
+it is a fictional:它是一个虚构的
 it is a field:它是一个领域
+it is a file:它是一个文件
 it is a finnish:它是一个芬兰
 it is a fist:它是一个拳
 it is a flag:它是一个旗
 it is a flexible:它是一个灵活的
 it is a formula:它是一个公式
 it is a forum:它是一个论坛
+it is a fraction:它是一个分数
 it is a fragile:它是一个脆弱的
 it is a framework:它是一个框架
 it is a free:它是一个免费的
@@ -3281,12 +3618,18 @@ it is a friend:它是一个朋友
 it is a function:它是一个函数
 it is a function:它是一个功能
 it is a galaxy:它是一个星系
+it is a game change:它是一个游戏改变
 it is a game:它是一个游戏
+it is a garbage:它是一个垃圾
 it is a gas:它是一个气体
+it is a gear:它是一个齿轮
+it is a gesture:它是一个手势
 it is a gift:它是一个礼物
 it is a girl:它是一个女孩
 it is a global:它是一个全球
 it is a good idea:它是一个好的主意
+it is a good morning:它是一个早上好
+it is a good:它是一个好的
 it is a google:它是一个谷歌
 it is a government agency:它是一个政府机构
 it is a government:它是一个政府
@@ -3303,32 +3646,44 @@ it is a high-quality:它是一个高质量
 it is a high-tech:它是一个高科技
 it is a high:它是一个高
 it is a historical:它是一个历史的
+it is a human:它是一个人
+it is a human:它是一个人类
 it is a journey:它是一个旅程
+it is a joy:它是一个欢乐
+it is a jump:它是一个跳
+it is a jungle:它是一个丛林
 it is a key:它是一个关键
 it is a knowledge:它是一个知识
 it is a laboratory:它是一个实验室
+it is a lake:它是一个湖
 it is a lake:它是一个湖泊
 it is a language construct:它是一个语言结构
 it is a large:它是一个大的
+it is a lava:它是一个熔岩
 it is a law:它是一个法律
 it is a learning:它是一个学习
 it is a legitimate:它是一个合法的
+it is a library:它是一个图书馆
 it is a lie:它是一个谎言
 it is a life:它是一个生活
 it is a lightweight:它是一个轻量级
 it is a lightweight:它是一个轻量级的
 it is a link:它是一个连接
+it is a link:它是一个链接
 it is a list:它是一个列表
 it is a living:它是一个活
 it is a local:它是一个本地的
+it is a location:它是一个地理位置
 it is a log:它是一个日志
 it is a logistics:它是一个物流
+it is a long green:它是一个长的绿色
 it is a long term:它是一个长期
 it is a long:它是一个长的
 it is a major crop:它是一个主要的农作物
 it is a major tourism:它是一个主要的旅游
 it is a major:它是一个主要的
 it is a man:它是一个人
+it is a manufacturer:它是一个制造商
 it is a map:它是一个地图
 it is a market capitalization:它是一个市值
 it is a market:它是一个市场
@@ -3352,6 +3707,7 @@ it is a music:它是一个音乐
 it is a must:它是一个必须
 it is a national park:它是一个国家公园
 it is a national space:它是一个国家空间
+it is a national:它是一个国家的
 it is a natural:它是一个自然的
 it is a neologism:它是一个新词
 it is a network:它是一个网络
@@ -3363,12 +3719,14 @@ it is a new user interface:它是一个新的用户界面
 it is a new variable:它是一个新的变量
 it is a new world:它是一个新的世界
 it is a new:它是一个新的
+it is a newer:它是一个更新的
 it is a one:它是一个一
 it is a open source:它是一个开源
 it is a pacific:它是一个太平洋
 it is a pair:它是一对
 it is a paris:它是一个巴黎
 it is a park:它是一个公园
+it is a part:它是一个部分
 it is a party:它是一个党
 it is a passion:它是一个激情
 it is a password:它是一个密码
@@ -3379,6 +3737,7 @@ it is a pedestrian:它是一个行人
 it is a peninsula:它是一个半岛
 it is a perfect:它是一个完美的
 it is a person:它是一个人
+it is a person:它是一個人
 it is a phrase:它是一个短语
 it is a picturesque village:它是一个风景如画的村庄
 it is a place:它是一个地方
@@ -3388,35 +3747,44 @@ it is a point:它是一个点
 it is a pointer:它是一个指针
 it is a policy:它是一个政策
 it is a political party:它是一个政党
+it is a politician:它是一个政治家
 it is a poor:它是一个贫穷的
 it is a popular:它是一个流行的
+it is a population:它是一个人口
 it is a port:它是一个港口
 it is a position:它是一个位置
 it is a price:它是一个价格
+it is a problem:它是一个问题
 it is a process:它是一个过程
 it is a product:它是一个产品
 it is a professional:它是一个专业
 it is a professional:它是一个专业的
 it is a program:它是一个程序
+it is a programmable:它是一个可编程
 it is a project:它是一个项目
 it is a proposition:它是一个命题
 it is a protected:它是一个受保护的
+it is a protocol:它是一个协议
 it is a pseudo:它是一个伪
 it is a public-policy:它是一个公共政策
 it is a public:它是一个公共
 it is a quality:它是一个质量
+it is a real number:它是一个实数
 it is a real time:它是一个实时
 it is a reasonable:它是一个合理的
 it is a rectangular:它是一个矩形的
 it is a red:它是一个红色
 it is a region:它是一个区域
+it is a related:它是一个相关的
 it is a relation:它是一个关系
 it is a relationship:它是一个关系
 it is a reliable:它是一个可靠的
 it is a religion:它是一个宗教
 it is a research:它是一个研究
+it is a reserve:它是一个保留
 it is a resource:它是一个资源
 it is a result:它是一个结果
+it is a rich:它是一个丰富的
 it is a roman:它是一个罗马
 it is a rule:它是一个规则
 it is a sacred:它是一个神圣的
@@ -3442,6 +3810,7 @@ it is a simple device:它是一个简单的设备
 it is a simple phenomenon:它是一个简单的现象
 it is a simple program:它是一个简单的程序
 it is a simple tool:它是一个简单的工具
+it is a simple:它是一个简单
 it is a simple:它是一个简单的
 it is a six:它是一个六
 it is a small:它是一个小的
@@ -3455,13 +3824,16 @@ it is a source code:它是一个源代码
 it is a sovereign democracy:它是一个主权民主
 it is a sovereign state:它是一个主权国家
 it is a sparse matrix:它是一个稀疏矩阵
+it is a special computer vision:它是一个特殊的计算机视觉
 it is a special image:它是一个特殊的图像
 it is a special:它是一个特殊的
+it is a species:它是一种
 it is a spectrum:它是一个光谱
 it is a sphere:它是一个球
 it is a square:它是一个正方形
 it is a stable:它是一个稳定的
 it is a standard:它是一个标准
+it is a state:它是一个国家
 it is a state:它是一个状态
 it is a statement:它是一个声明
 it is a static:它是一个静态的
@@ -3473,11 +3845,13 @@ it is a string:它是一串
 it is a structure:它是一个结构
 it is a study:它是一个研究
 it is a subject:它是一个主题
+it is a subset:它是一个子集
 it is a successful:它是一个成功的
 it is a sudden:它是一个突然的
 it is a symbol:它是一个符号
 it is a symmetric:它是一个对称的
 it is a system:它是一个系统
+it is a target:它是一个目标
 it is a task:它是一个任务
 it is a team:它是一个团队
 it is a technical analysis:它是一个技术分析
@@ -3490,12 +3864,17 @@ it is a text file:它是一个文本文件
 it is a thousand:它是一个千
 it is a tool:它是一个工具
 it is a torch:它是一个火炬
+it is a trademark:它是一个商标
 it is a training:它是一个培训
 it is a tree:它是一个树
 it is a true:它是一个真
+it is a tube:它是一个管子
 it is a turkish:它是一个土耳其
 it is a two:它是一个二
 it is a typical:它是一个典型的
+it is a uniform:它是一个统一的
+it is a unique:它是一个独特的
+it is a university:它是一个大学
 it is a us:它是一个美国
 it is a use:它是一个使用
 it is a useful tool:它是一个有用的工具
@@ -3505,15 +3884,20 @@ it is a verb:它是一个动词
 it is a very good:它是一个很好
 it is a very:它是一个非常
 it is a viable:它是一个可行的
+it is a virus:它是一个病毒
+it is a vital:它是一个重要的
 it is a voice:它是一个语音
 it is a volcanic island:它是一个火山岛
 it is a volcano:它是一个火山
 it is a wallet:它是一个钱包
+it is a warning:它是一个警告
 it is a well known:它是一个众所周知的
+it is a well-known:它是一个众所周知的
 it is a wheel:它是一个轮子
 it is a white:它是一个白色
 it is a wide:它是一个宽
 it is a witness:它是一个证人
+it is a woman:它是一个女人
 it is a world:它是一个世界
 it is a worm:它是一个蠕虫
 it is a wound:它是一个伤
@@ -3522,11 +3906,19 @@ it is a:它是一
 it is a:它是一个
 it is about a hero:它是关于一个英雄
 it is about a:它是关于一个
+it is about an:它是关于一个
 it is about anything:它是关于任何事
+it is about auto:它是关于自动
+it is about balance:它是关于平衡
+it is about basketball:它是关于篮球
+it is about be:它是关于成为
+it is about choice:它是关于选择
 it is about christmas:它是关于圣诞节
+it is about collaboration:它是关于合作
 it is about color:它是关于颜色
 it is about control:它是关于控制
 it is about data and:它是关于数据和
+it is about data:它是关于数据
 it is about divorce:它是关于离婚
 it is about do:它是关于做
 it is about establish:它是关于建立
@@ -3534,37 +3926,65 @@ it is about extend:它是关于扩展
 it is about freedom of religion:它是关于宗教自由
 it is about gender equality:它是关于性别平等
 it is about germany:它是关于德国
+it is about god:它是关于上帝
+it is about government:它是关于政府
 it is about happiness:它是关于幸福
+it is about help:它是关于帮助
 it is about her:它是关于她的
 it is about how to lead your:它是关于如何领导你的
+it is about how to:它是关于如何
+it is about how:它是关于如何
 it is about identify:它是关于识别
 it is about image:它是关于图像
 it is about insurance:它是关于保险
 it is about interest:它是关于兴趣
 it is about justice:它是关于正义
+it is about keep:它是关于保持
 it is about laws and:它是关于法律和
+it is about laws:它是关于法律
+it is about learning:它是关于学习
 it is about limit:它是关于限制
 it is about loss:它是关于损失
+it is about love:它是关于爱
 it is about me protect:它是关于我保护
+it is about me:它是关于我
 it is about my brother:它是关于我的兄弟
 it is about my daughter:它是关于我的女儿
 it is about my son:它是关于我的儿子
+it is about my:它是关于我的
 it is about our watch:它是关于我们的手表
+it is about person:它是关于个人
 it is about prevent:它是关于阻止
 it is about prevent:它是关于预防
 it is about providing support:它是关于提供支持
+it is about providing:它是关于提供
+it is about relationship:它是关于关系
 it is about responsibility:它是关于责任
 it is about same-sex marriage:它是关于同性婚姻
+it is about same-sex:它是关于同性
+it is about sell:它是关于出售
+it is about set:它是关于设置
+it is about state:它是关于国家
 it is about stop:它是关于停止
+it is about success:它是关于成功
 it is about the rest of the world:它是关于世界其他地方
+it is about time:它是关于时间
 it is about twice:它是关于两次
 it is about understanding and:它是关于理解和
+it is about understanding:它是关于理解
+it is about us:它是关于我们
 it is about using high:它是关于使用高
+it is about using:它是关于使用
+it is about what:它是关于什么
+it is about you:它是关于你
 it is about your daughter:它是关于你的女儿
 it is about your father:它是关于你的父亲
 it is about zero emissions:它是关于零排放
+it is about zero:它是关于零
 it is about:它是关于
+it is about:它是大约
 it is absolute coordinates:它是绝对坐标
+it is absolute:它是绝对
 it is abstract:它是抽象的
 it is absurd:它是荒谬的
 it is according to quantity:它是根据数量
@@ -3575,6 +3995,7 @@ it is active:它是活跃的
 it is addiction and:它是上瘾和
 it is adelaide:它是阿德莱德
 it is adequate:它是足够的
+it is afghan:它是阿富汗
 it is afghanistan:它是阿富汗
 it is africa:它是非洲
 it is aggression:它是侵略
@@ -3588,6 +4009,7 @@ it is all new:它是所有新的
 it is all very:它是所有非常
 it is all:它是全部
 it is all:它是所有
+it is all:它是所有的
 it is allow:它是允许
 it is america:它是美国
 it is amphibious:它是两栖的
@@ -3599,18 +4021,22 @@ it is an achievement:它是一个成就
 it is an active:它是一个活跃的
 it is an adult:它是一个成人的
 it is an advertisement:它是一个广告
+it is an algebra:它是一个代数
 it is an alive:它是一个活着的
 it is an always:它是一个总是
 it is an ancient:它是一个古
+it is an animal feed:它是一个动物喂
 it is an animal:它是一个动物
 it is an apple:它是一个苹果
 it is an application:它是一个应用
 it is an area:它是一个地区
 it is an arena:它是一个竞技场
 it is an asian:它是一个亚洲的
+it is an atom:它是一个原子
 it is an attitude:它是一个态度
 it is an automation:它是一个自动化
 it is an early:它是一个早期的
+it is an education:它是一个教育
 it is an elite:它是一个精英
 it is an ellipse:它是一个椭圆
 it is an embassy:它是一个大使馆
@@ -3618,6 +4044,7 @@ it is an emerging markets:它是一个新兴市场
 it is an emirate:它是一个酋长国
 it is an empire:它是一个帝国
 it is an empty:它是一个空的
+it is an endocrine gland:它是一个内分泌腺
 it is an energy-saving:它是一个节能
 it is an energy:它是一个能源
 it is an enterprise:它是一个企业
@@ -3628,6 +4055,7 @@ it is an event:它是一个事件
 it is an evil:它是一个邪恶的
 it is an expression:它是一个表达
 it is an icon:它是一个图标
+it is an ideal:它是一个理想的
 it is an image:它是一个图像
 it is an important center:它是一个重要的中心
 it is an important consideration:它是一个重要的考虑
@@ -3642,12 +4070,15 @@ it is an individual:它是一个个体
 it is an industrial robot:它是一个工业机器人
 it is an infinite:它是一个无限的
 it is an information network:它是一个信息网络
+it is an information:它是一个信息
 it is an innovation:它是一个创新
 it is an installation:它是一个安装
 it is an insurance:它是一个保险
+it is an integer:它是一个整数
 it is an interactive:它是一个交互的
 it is an interesting question:它是一个有趣的问题
 it is an interesting read:它是一个有趣的读
+it is an interesting:它是一个有趣的
 it is an international organization:它是一个国际组织
 it is an international:它是一个国际
 it is an intrinsic semiconductor:它是一个本征半导体
@@ -3668,6 +4099,8 @@ it is an open-source:它是一个开源
 it is an open:它是一个开
 it is an operating system:它是一个操作系统
 it is an opportunity:它是一个机会
+it is an option:它是一个选项
+it is an organisation:它是一个组织
 it is an organization:它是一个组织
 it is an ultrafilter:它是一个超滤子
 it is an underground:它是一个地下
@@ -3677,20 +4110,28 @@ it is anna:它是安娜
 it is anonymous:它是匿名的
 it is apple:它是苹果
 it is application layer software:它是应用层软件
+it is application layer:它是应用层
 it is approach:它是接近
 it is appropriate or:它是适当的或
 it is appropriate:它是适当的
 it is approximately:它是大约
+it is arbitrary:它是任意的
 it is arizona:它是亚利桑那州
 it is art:它是艺术
 it is asia:它是亚洲
 it is asynchronous:它是异步的
 it is at a:它是在一个
+it is at bottom:它是在底
+it is at midnight:它是在午夜
 it is at present:它是目前
+it is at rest:它是在休息
 it is at this:它是在这
+it is at you:它是在你
 it is at your:它是在你的
+it is at:它是在
 it is australia:它是澳大利亚
 it is austria:它是奥地利
+it is auto:它是自动
 it is automatic and:它是自动的和
 it is automatic:它是自动的
 it is available at:它是可用的在
@@ -3730,6 +4171,7 @@ it is based:它是基于
 it is beautiful:它是美丽的
 it is because he is:它是因为他是
 it is because when we:它是因为当我们
+it is before:它是之前
 it is belgium:它是比利时
 it is believed that about:据信大约
 it is believed that all:据信所有
@@ -3771,6 +4213,7 @@ it is believed that trump:据信特朗普
 it is believed that:据信
 it is belize:它是伯利兹
 it is beneficial:它是有益的
+it is better just:它是更好的只
 it is biotechnology:它是生物技术
 it is black and:它是黑色和
 it is blood:它是血液
@@ -3781,15 +4224,19 @@ it is bran:它是麦麸
 it is brazil:它是巴西
 it is bright:它是明亮的
 it is britain:它是英国
+it is broadcast can:它是广播可以
 it is buddhism:它是佛教
 it is burgundy:它是勃艮第
 it is but:它是但
+it is call:它是打电话给
 it is called protein:它被叫做蛋白质
 it is called:它被叫做
 it is called:它被调用
 it is cambodia:它是柬埔寨
 it is canada:它是加拿大
+it is capitalism you:它是资本主义你
 it is capitalism:它是资本主义
+it is catalyst:它是催化剂
 it is cavalry:它是骑兵
 it is certain:它是确定的
 it is charming:它是迷人的
@@ -3799,6 +4246,7 @@ it is china:它是中国
 it is china:它是中國
 it is christ:它是基督
 it is christianity:它是基督教
+it is chronic:它是慢性的
 it is classic:它是经典的
 it is classical:它是古典
 it is code:它是代码
@@ -3811,21 +4259,26 @@ it is commitment:它是承诺
 it is community and:它是社区和
 it is completely customizable:它是完全可定制的
 it is complex and:它是复杂和
+it is complex reality:它是复杂的现实
 it is complex:它是复杂的
 it is computer science education:它是计算机科学教育
 it is computer:它是电脑
 it is concealed:它是隐藏的
 it is connect:它是连接
 it is conquer or:它是征服或
+it is conscious:它是有意识的
 it is consciousness:它是意识
 it is consider:它是考虑
+it is construct:它是构造
 it is contact:它是联系
 it is contained in a:它是包含在一
 it is continuous:它是连续的
 it is correct:它是正确的
 it is costa rica:它是哥斯达黎加
+it is cotton:它是棉花
 it is cover:它是涵盖
 it is cover:它是覆盖
+it is create:它是创造
 it is cricket:它是板球
 it is criticize:它是批评
 it is croatia:它是克罗地亚
@@ -3860,14 +4313,17 @@ it is development research:它是开发研究
 it is different:它是不同的
 it is difficult:它是困难的
 it is direct action:它是直接行动
+it is dirty:它是脏的
 it is disposable:它是一次性的
 it is divide:它是除
 it is do:它是做
+it is door to door:它是门到门
 it is door to:它是门到
 it is dream:它是梦
 it is due to:它是由于
 it is each student:它是每个学生
 it is easy:它是容易
+it is economic:它是经济的
 it is education:它是教育
 it is effective:它是有效的
 it is efficient:它是高效的
@@ -3875,6 +4331,7 @@ it is egyptian:它是埃及人
 it is einstein:它是爱因斯坦
 it is electric:它是电的
 it is emphasize:它是强调
+it is empty space and:它是空的空间和
 it is empty space:它是空的空间
 it is empty:它是空的
 it is encourage:它是鼓励
@@ -3882,6 +4339,7 @@ it is encrypted:它是加密的
 it is energy-saving:它是节能
 it is energy:它是能量
 it is england:它是英格兰
+it is enough column:它是足够的柱
 it is enough:它是足够的
 it is entertainment:它是娱乐
 it is equipment related:它是设备相关的
@@ -3897,6 +4355,7 @@ it is every:它是每一个
 it is everyone:它是每个人
 it is everything:它是一切
 it is evil:它是邪恶的
+it is exchange:它是交换
 it is exile:它是流亡
 it is exist:它是存在
 it is expensive:它是昂贵的
@@ -3910,7 +4369,9 @@ it is fair:它是公平的
 it is fake:它是假的
 it is false:它是假的
 it is famous:它是著名的
+it is fascism:它是法西斯主义
 it is fast:它是快速的
+it is fear:它是恐惧
 it is feed:它是喂
 it is fictional:它是虚构的
 it is finite:它是有限的
@@ -3918,6 +4379,7 @@ it is fire:它是火
 it is first:它是第一的
 it is flexible:它是灵活的
 it is fluid:它是液体
+it is food and:它是食品和
 it is food and:它是食物和
 it is food:它是食物
 it is for you:它是为了你
@@ -3944,6 +4406,7 @@ it is genius:它是天才
 it is germany:它是德国
 it is global:它是全球
 it is gloucestershire:它是格洛斯特郡
+it is god who:它是上帝谁
 it is god:它是上帝
 it is god:它是神
 it is gold:它是金
@@ -3954,11 +4417,13 @@ it is gray and:它是灰色和
 it is great and:它是伟大的和
 it is great:它是伟大的
 it is green and:它是绿色和
+it is green:它是綠色
 it is gymnastics:它是体操
 it is halal food:它是清真食品
 it is half:它是半
 it is halifax:它是哈利法克斯
 it is hand:它是手
+it is hands:它是手
 it is happiness:它是幸福
 it is hard:它是硬的
 it is harmful:它是有害的
@@ -3973,23 +4438,31 @@ it is healthy:它是健康的
 it is heaven:它是天堂
 it is hell:它是地狱
 it is helpful:它是有帮助的
+it is her:它是她的
 it is heresy:它是异端
+it is high quality:它是高质量
 it is high:它是高
 it is highly customizable:它是高度可定制的
 it is his creator:它是他的创造者
+it is his dimension:它是他的維度
 it is his friend:它是他的朋友
 it is his monaco:它是他的摩纳哥
 it is his:它是他的
 it is history:它是历史
 it is holy:它是神圣的
 it is home:它是家
+it is horizontal:它是水平的
 it is hot:它是熱
 it is how it:它是如何它
+it is how to:它是如何
+it is how:它是如何
+it is human activity:它是人类活动
 it is human beings in order to:它是人类为了
 it is human consciousness:它是人类意识
 it is human:它是人
 it is human:它是人类
 it is hungary:它是匈牙利
+it is hydrogen:它是氢
 it is hygiene:它是卫生学
 it is iceland:它是冰岛
 it is ideal and:它是理想的和
@@ -4016,6 +4489,8 @@ it is individual:它是个别的
 it is industrial:它是工业的
 it is infinite:它是无限的
 it is information:它是信息
+it is innocent:它是无辜的
+it is innovative:它是创新的
 it is institution:它是制度
 it is instruct:它是指导
 it is intact:它是完整的
@@ -4042,6 +4517,7 @@ it is language and:它是语言和
 it is large:它是大的
 it is latin america and:它是拉丁美洲和
 it is legal:它是合法的
+it is legitimate:它是合法
 it is legitimate:它是合法的
 it is level and:它是水平和
 it is liberal:它是自由的
@@ -4079,6 +4555,7 @@ it is long term:它是长期
 it is long-term and:它是长期和
 it is long-term:它是长期
 it is lossless:它是无损的
+it is love:它是爱
 it is low:它是低的
 it is magical:它是神奇的
 it is magnetism:它是磁
@@ -4087,9 +4564,12 @@ it is manufacture:它是制造
 it is many:它是很多
 it is market:它是市场
 it is maryland:它是马里兰州
+it is me:它是我
 it is meaningful:它是有意义的
 it is measure:它是测量
+it is media:它是媒体
 it is medieval style:它是中世纪的风格
+it is medieval:它是中世纪的
 it is mention:它是提到
 it is meta:它是元
 it is metal:它是金属
@@ -4114,6 +4594,7 @@ it is moral:它是道德的
 it is more complex than:它是更复杂的比
 it is more than:它是超过
 it is more their:它是更多他们的
+it is more:它是更多
 it is morocco:它是摩洛哥
 it is mud:它是泥
 it is mumbai:它是孟买
@@ -4122,6 +4603,7 @@ it is mutiny:它是哗变
 it is my alcohol:它是我的酒精
 it is my belief:它是我的信仰
 it is my blog:它是我的博客
+it is my destiny:它是我的命运
 it is my english:它是我的英语
 it is my home:它是我的家
 it is my honour:它是我的榮譽
@@ -4191,21 +4673,28 @@ it is normal:它是正常的
 it is norway:它是挪威
 it is not a:它是不是一
 it is not a:它是不是一个
+it is not all:它是不是所有的
 it is not always:它是不是总是
 it is not at:它是不是在
 it is not better:它是不是更好
 it is not enough:它是不够的
 it is not just:它是不是只
+it is not one:它是不是一
+it is not real:它是不是真的
 it is not said:它是不是说
 it is not that:它是不是那
 it is not without:它是不是没有
+it is not you:它是不是你
 it is not your:它是不是你的
 it is not:它是不是
 it is now:它是现在
+it is ocean:它是海洋
 it is odd:它是奇
 it is of course:它是当然
 it is offer:它是提供
 it is one hour:它是一小时
+it is one meter:它是一米
+it is one metre:它是一米
 it is one part:它是一部分
 it is one:它是一
 it is online game:它是在线游戏
@@ -4214,12 +4703,15 @@ it is only about:它是只有大约
 it is only once:它是只有一次
 it is only when he:它是只有当他
 it is opaque:它是不透明的
+it is open source and:它是开放源代码和
 it is open source and:它是开源和
+it is open source software:它是开放源代码软件
 it is open source software:它是开源软件
 it is open source:它是开源
 it is open:它是开
 it is optimistic:它是乐观的
 it is optional:它是可选的
+it is or not:它是或不是
 it is organic:它是有机的
 it is organize:它是组织
 it is our bible:它是我们的圣经
@@ -4242,6 +4734,7 @@ it is our weapon:它是我们的武器
 it is our:它是我们的
 it is ours:它是我们的
 it is pakistan:它是巴基斯坦
+it is part instruct:它是部分指导
 it is part:它是部分
 it is partnership:它是伙伴关系
 it is party:它是党
@@ -4250,6 +4743,7 @@ it is peace:它是和平
 it is peaceful:它是和平的
 it is pennsylvania:它是宾夕法尼亚州
 it is people:它是人们
+it is perfect it:它是完美的它
 it is perfect love:它是完美的愛
 it is perfect screen:它是完美的屏幕
 it is perfect:它是完美的
@@ -4272,12 +4766,15 @@ it is privilege:它是特权
 it is product:它是产品
 it is professional:它是专业
 it is programmable:它是可编程
+it is protected:它是受保护的
 it is protection:它是保护
+it is prove:它是证明
 it is provisional:它是临时的
 it is public information:它是公共的信息
 it is public record:它是公共记录
 it is purple and:它是紫色和
 it is purple:它是紫色
+it is push:它是推
 it is quiet:它是安静的
 it is race:它是种族
 it is raining cats and dogs:外面下着大雨
@@ -4293,9 +4790,11 @@ it is reasonable:它是合理的
 it is receive:它是收到
 it is recently:它是最近
 it is recommend:它是建议
+it is recommend:它是推荐
 it is recommended to:它是建议到
 it is recommended you:它是建议你
 it is recommended:它是建议
+it is record:它是记录
 it is reflect:它是反映
 it is related:它是相关的
 it is reliable:它是可靠的
@@ -4310,6 +4809,7 @@ it is respect:它是尊重
 it is responsibility:它是责任
 it is restrict:它是限制
 it is reveal:它是揭示
+it is rich:它是丰富的
 it is right and:它是正确的和
 it is right:它是对的
 it is right:它是正确的
@@ -4318,8 +4818,10 @@ it is risk:它是风险
 it is rome:它是罗马
 it is rotten:它是腐烂的
 it is round:它是圆的
+it is royal:它是皇家
 it is run and:它是运行和
 it is running perfect:它是运行完美
+it is russia and:它是俄罗斯和
 it is russia:它是俄罗斯
 it is sacred:它是神圣的
 it is safe:它是安全的
@@ -4330,6 +4832,7 @@ it is satan:它是撒但
 it is scarce:它是稀缺的
 it is science:它是科学
 it is scientific:它是科学的
+it is scrap meat:它是廢料肉
 it is scrap:它是廢料
 it is secure:它是安全的
 it is see and:它是看见和
@@ -4350,16 +4853,21 @@ it is singapore:它是新加坡
 it is slovenia:它是斯洛文尼亚
 it is small and:它是小的和
 it is small:它是小的
+it is smooth:它是光滑的
 it is snow:它是雪
 it is so absolute:它是如此绝对
 it is so absurd:它是如此荒谬的
+it is so ancient:它是如此古
 it is so beautiful and:它是如此美丽和
 it is so beautiful:它是如此美丽
 it is so easy to use:它是如此容易使用
 it is so easy:它是如此容易
 it is so fashion:它是如此时尚
+it is so important:它是如此重要
+it is so important:它是如此重要的
 it is so light:它是如此光
 it is so open:它是如此开
+it is so related:它是如此相关的
 it is so sensitive:它是如此敏感
 it is so simple:它是如此简单
 it is so structure:它是如此结构
@@ -4369,38 +4877,47 @@ it is social and:它是社交和
 it is social:它是社会的
 it is society:它是社会
 it is sociology:它是社会学
+it is software:它是软件
+it is solid ivory:它是固体象牙
 it is solid:它是固体
 it is solve:它是解决
 it is some sort of:它是某种
 it is something:它是东西
 it is sometimes spell:它是有时拼写
 it is south carolina:它是南卡罗来纳州
+it is southeast:它是东南
 it is space:它是空間
 it is space:它是空间
 it is spain:它是西班牙
 it is specific:它是特定的
+it is spell:它是拼写
 it is spirit:它是精神
 it is spiritual:它是精神的
 it is spontaneous order:它是自发秩序
 it is square:它是方的
 it is stable:它是稳定的
+it is stage and:它是阶段和
 it is static:它是静态的
 it is still important:它是仍然重要的
 it is strategic:它是战略
 it is strength:它是力量
+it is strict:它是严格的
 it is subjective:它是主观的
 it is successful:它是成功的
 it is such:它是如此
 it is sudden:它是突然的
+it is sufficient if:它是充足的如果
 it is sufficient:它是充足的
 it is suit:它是适合
 it is sunday:它是星期天
+it is sustainable and:它是可持续的和
 it is sustainable:它是可持续的
 it is switzerland:它是瑞士
 it is symmetric multiprocessing:它是对称多处理
 it is syphilis:它是梅毒
 it is system:它是系统
 it is terrorism:它是恐怖主义
+it is thai:它是泰国
 it is thailand:它是泰国
 it is that:它是那
 it is the first campus elevator:它是第一个校园电梯
@@ -4457,6 +4974,7 @@ it is through international:它是通过国际
 it is through me:它是通过我
 it is through no:它是通过不
 it is through our:它是通过我们的
+it is through service:它是通过服务
 it is through theology:它是通过神学
 it is through these:它是通过这些
 it is through work:它是通过工作
@@ -4486,6 +5004,7 @@ it is too narrow:那太窄了
 it is too short:那太短了
 it is too simple:那太简单了
 it is too small:那太小了
+it is touch:它是触摸
 it is tourism:它是旅游业
 it is toxic:它是有毒的
 it is traditional:它是传统的
@@ -4498,12 +5017,14 @@ it is turkey:它是土耳其
 it is twice:它是两次
 it is two:它是二
 it is typical:它是典型的
+it is ugly:它是丑的
 it is uk:它是英国
 it is understood he:据了解他
 it is understood she:据了解她
 it is understood they:据了解他们
 it is understood:据了解
 it is unfair:它是不公平的
+it is unfortunate:它是不幸的
 it is unique:它是唯一的
 it is unique:它是独特的
 it is up to them:它取决于他们
@@ -4513,6 +5034,7 @@ it is up to you:那取决于你
 it is up to:它取决于
 it is use it:它是使用它
 it is useful:它是有用的
+it is useless extend:它是无用的扩展
 it is useless:它是无用的
 it is user define:它是用户定义
 it is user:它是用户
@@ -4538,12 +5060,18 @@ it is very fragile:它是非常脆弱的
 it is very fresh:它是非常新鲜的
 it is very good but:它是很好但
 it is very healthy:它是非常健康
+it is very important:它是非常重要的
 it is very interesting:它是非常有趣的
 it is very lightweight:它是非常轻量级
 it is very lightweight:它是非常轻量级的
 it is very low:它是非常低的
+it is very near:它是非常接近
+it is very new:它是非常新的
 it is very open:它是非常开
+it is very pain:它是非常痛
 it is very peaceful:它是非常和平的
+it is very personal:它是非常私人的
+it is very proud:它是非常自豪的
 it is very safe:它是非常安全的
 it is very sensitive:它是非常敏感
 it is very similar:它是非常相似的
@@ -4565,21 +5093,32 @@ it is voluntary:它是自愿的
 it is war:它是战争
 it is water:它是水
 it is waterproof:它是防水的
+it is well known:它是众所周知的
 it is western australia:它是西澳大利亚州
 it is western europe:它是西欧
+it is what type:它是什么类型
+it is what:它是什么
 it is white and:它是白色和
 it is widespread and:它是广泛的和
 it is wireless:它是无线的
 it is wisdom:它是智慧
 it is with faith:它是与信仰
+it is wolves i:它是狼我
 it is wolves:它是狼
 it is work:它是工作
+it is world famous:它是世界著名的
 it is world:它是世界
 it is write-protect:它是写保护
 it is wrong:它是错的
+it is you at:它是你在
+it is you choose:它是你选择
+it is you need:它是你需要
+it is you want:它是你想要
 it is you who will:它是你谁将
 it is you who:它是你谁
 it is you:它是你
+it is you:它是你们
+it is young:它是年轻的
 it is zero emission:它是零排放
 it is zero emissions:它是零排放
 it is zero:它是零
@@ -4591,11 +5130,13 @@ it joe:它乔
 it join:它连接
 it jump:它跳
 it just am:它只是
+it just cause:它只引起
 it just define:它只定义
 it just for you:它只为你
 it just is:它只是
 it just knows how to:它只知道如何
 it just knows you have:它只知道你有
+it just knows you:它只知道你
 it just like another room:它就像另一个房间
 it just like:它就像
 it just means we:它只意味着我们
@@ -4627,18 +5168,24 @@ it kiss:它吻
 it knock:它敲
 it know:它知道
 it knows all things:它知道所有事物
+it knows all things:它知道所有的事情
+it knows all things:它知道所有的事物
 it knows how to access:它知道如何访问
 it knows how to display:它知道如何显示
 it knows how to manage:它知道如何管理
 it knows how to overcome:它知道如何克服
+it knows how to show:它知道如何显示
 it knows how to:它知道如何
+it knows i can:它知道我能
 it knows if i:它知道如果我
 it knows it cannot:它知道它不能
 it knows magic:它知道魔法
 it knows more about:它知道更多关于
+it knows that:它知道那
 it knows what you want:它知道你想要什么
 it knows who you are:它知道你是谁
 it knows who:它知道谁
+it knows you:它知道你
 it knows your brain:它知道你的大脑
 it knows your calendar:它知道你的日历
 it knows your emotion:它知道你的情绪
@@ -4648,6 +5195,7 @@ it lack:它缺乏
 it landing:它着陆
 it last time:它上次
 it last week:它上周
+it later are all:它以后是所有
 it later:它以后
 it latin:它拉丁语
 it laugh:它笑
@@ -4663,10 +5211,14 @@ it leave:它离开
 it left:它左
 it legitimate:它合法
 it let me analyze:它让我分析
+it let me have:它让我有
+it let me know:它让我知道
 it let people:它让人们
 it let the united states:它让美国
 it let us:它让我们
+it let you know:它让你知道
 it let:它让
+it level with his:它水平与他的
 it level:它水平
 it lick:它舔
 it life:它生命
@@ -4829,9 +5381,12 @@ it match:它匹配
 it material:它材料
 it matter:它问题
 it may achieve all:它可以实现所有
+it may at:它可以在
 it may be used to:它可以被用于
 it may change from:它可以改变从
+it may change you:它可以改变你
 it may change your:它可以改变你的
+it may change:它可以改变
 it may control:它可以控制
 it may create a new:它可以创建一个新的
 it may describe:它可以描述
@@ -4845,6 +5400,7 @@ it may handle any:它可以处理任何
 it may handle security:它可以处理安全
 it may help decrease:它可以帮助减少
 it may help keep:它可以帮助保持
+it may help me:它可以帮助我
 it may help people:它可以帮助人们
 it may help reduce:它可以帮助减少
 it may help relieve:它可以帮助缓解
@@ -4863,8 +5419,10 @@ it may improve digestion:它可以改善消化
 it may improve muscle:它可以改善肌肉
 it may improve our:它可以改善我们的
 it may improve people:它可以改善人们
+it may include one:它可以包括一
 it may include:它可以包括
 it may increase:它可以增加
+it may leave:它可以离开
 it may let others:它可以让其他人
 it may let you:它可以让你
 it may offer useful:它可以提供有用的
@@ -4882,9 +5440,11 @@ it may provide useful:它可以提供有用的
 it may provide:它可以提供
 it may reduce body:它可以减少身体
 it may refer to:它可以指
+it may return to:它可以返回到
 it may send a:它可以发送一个
 it may simply:它可以简单地
 it may sound:它可以声音
+it may tell us:它可以告诉我们
 it may work:它可以工作
 it may:它可以
 it meaning:它意义
@@ -4892,9 +5452,11 @@ it meaningless:它无意义的
 it means a cell:它意味着一个细胞
 it means a particle:它意味着一个粒子
 it means a party:它意味着一个聚会
+it means a:它意味着一
 it means accept:它意味着接受
 it means allow:它意味着允许
 it means beer:它意味着啤酒
+it means chinese women:它意味着中国的妇女
 it means commitment:它意味着承诺
 it means connect:它意味着连接
 it means customers:它意味着客户
@@ -4905,6 +5467,7 @@ it means different things:它意味着不同的事情
 it means drying:它意味着干燥
 it means easy to understand and:它意味著容易理解和
 it means equality before the law:它意味着法律面前人人平等
+it means equality:它意味着平等
 it means everything:它意味着一切
 it means extinction:它意味着灭绝
 it means forever:它意味着永远
@@ -4912,9 +5475,12 @@ it means freedom:它意味着自由
 it means he is:它意味着他是
 it means he let:它意味着他让
 it means history is:它意味着历史是
+it means i:它意味着我
 it means independence:它意味着独立
 it means individuals can:它意味着个人可以
+it means inflammation:它意味着炎症
 it means jail:它意味着监狱
+it means jobs:它意味着工作
 it means know:它意味着知道
 it means learn:它意味着学习
 it means liberty:它意味着自由
@@ -4937,15 +5503,22 @@ it means that:它意味着那
 it means understanding:它意味着理解
 it means using various:它意味着使用各种
 it means we should:它意味着我们应该
+it means we want:它意味着我们想要
 it means we:它意味着我们
 it means what will:它意味着什么会
 it means work or:它意味着工作或
 it means work or:它意味著工作或
+it means you are:它意味着你是
 it means you believe:它意味著你相信
 it means you can drive:它意味着你可以驾驶
+it means you can:它意味着你可以
+it means you can:它意味著你可以
 it means you have a:它意味着你有一个
 it means you have a:它意味著你有一
+it means you have:它意味着你有
+it means you have:它意味著你有
 it means you help:它意味着你帮助
+it means you need:它意味着你需要
 it means you:它意味着你
 it means your body:它意味着你的身体
 it means your web design:它意味着你的网页设计
@@ -4953,6 +5526,7 @@ it means:它意味着
 it means:它意味著
 it measure:它测量
 it meditation:它冥想
+it meet:它遇见
 it melt:它融化
 it memorize:它记住
 it mention:它提到
@@ -4961,10 +5535,13 @@ it might allow doctors:它可能允许医生
 it might allow them:它可能允许他们
 it might also have:它可能也有
 it might as well:它可能也
+it might be you:它可能成为你
 it might be your:它可能成为你的
+it might be:它可能成为
 it might become a:它可能成为一
 it might become:它可能成为
 it might come from anywhere:它可能来自任何地方
+it might come:它可能来
 it might contain:它可能包含
 it might cover a:它可能覆盖一
 it might cover all:它可能涵盖所有
@@ -4982,13 +5559,21 @@ it might have:它可能有
 it might help her:它可能帮助她的
 it might help him:它可能帮助他
 it might help if i:它可能帮助如果我
+it might help if:它可能帮助如果
 it might help them:它可能帮助他们
 it might help you:它可能帮助你
+it might hide:它可能隐藏
+it might hurt:它可能伤害
 it might include drawing:它可能包括绘画
+it might include reset:它可能包括重置
 it might include study:它可能包括学习
 it might include:它可能包括
+it might increase:它可能增加
+it might influence:它可能影响
 it might look:它可能看
 it might need more:它可能需要更多
+it might not all:它可能不是所有
+it might not have:它可能不是有
 it might not:它可能不是
 it might offer some:它可能提供一些
 it might offer:它可能提供
@@ -4996,17 +5581,24 @@ it might open:它可能开
 it might or might:它可能或可能
 it might output:它可能输出
 it might provide some:它可能提供一些
+it might release:它可能释放
 it might require us:它可能要求我们
 it might require:它可能需要
 it might run to:它可能跑到
+it might send:它可能发送
 it might show green:它可能显示绿色
 it might show yellow:它可能显示黄色
 it might still contain:它可能仍然包含
+it might still look:它可能仍然看
 it might still need:它可能仍然需要
 it might still not:它可能仍然不是
 it might still:它可能仍然
 it might suffer:它可能遭受
+it might suit you:它可能适合你
+it might suit:它可能适合
+it might tell us:它可能告诉我们
 it might use different:它可能使用不同的
+it might use:它可能使用
 it might very:它可能非常
 it might work once:它可能工作一次
 it might work:它可能工作
@@ -5014,6 +5606,7 @@ it might:它可能
 it milk:它牛奶
 it mimic:它模仿
 it mislead:它误导
+it missing:它不见了
 it mistake:它错误
 it mix:它混合
 it mobilize:它动员
@@ -5033,6 +5626,7 @@ it more:它更多
 it move:它移动
 it murder:它谋杀
 it music:它音乐
+it must a:它必须一
 it must accept these:它必须接受这些
 it must act:它必须行动
 it must all end:它必须全部结束
@@ -5045,6 +5639,7 @@ it must appear:它必须出现
 it must apply:它必须应用
 it must awake:它必须唤醒
 it must balance french:它必须平衡法国
+it must balance:它必须平衡
 it must be careful:它必须小心
 it must be considered a:它必须被视为一个
 it must be considered:它必须被视为
@@ -5081,8 +5676,10 @@ it must do more:它必须做更多
 it must do:它必须做
 it must end:它必须结束
 it must enter:它必须进入
+it must experience:它必须体验
 it must explain:它必须解释
 it must fight:它必须战斗
+it must follow:它必须跟随
 it must give us:它必须给我们
 it must give you:它必须给你
 it must have a clear:它必须有一个明确的
@@ -5094,6 +5691,7 @@ it must have an:它必须有一个
 it must have been:它必须已经
 it must have content:它必须有内容
 it must have enough:它必须有足够的
+it must have given:它必须有给定的
 it must have government:它必须有政府
 it must have help:它必须有帮助
 it must have hurt:它必须有伤害
@@ -5115,14 +5713,20 @@ it must include everything:它必须包括一切
 it must include female:它必须包括女性
 it must include security:它必须包括安全
 it must include studies:它必须包括研究
+it must include you:它必须包括你
 it must include your:它必须包括你的
+it must include:它必须包括
 it must increase and:它必须增加和
 it must increase survival:它必须增加生存
 it must involve:它必须包括
+it must jump:它必须跳
+it must keep:它必须保持
 it must kill:它必须杀
 it must know:它必须知道
 it must lock:它必须锁
 it must manage:它必须管理
+it must mark:它必须标记
+it must match:它必须匹配
 it must move:它必须移动
 it must navigate:它必须导航
 it must not:它一定不能
@@ -5140,14 +5744,18 @@ it must release political prisoner:它必须释放政治犯
 it must rely on:它必须依赖于
 it must retaliate:它必须报复
 it must return a:它必须返回一个
+it must return:它必须返回
 it must root:它必须根
 it must run:它必须运行
 it must satisfy all:它必须满足所有
 it must satisfy:它必须满足
+it must say:它必须说
 it must send a:它必须发送一个
 it must send:它必须发送
+it must set:它必须设置
 it must show:它必须显示
 it must simply report:它必须简单地报告
+it must solve:它必须解决
 it must specify a:它必须指定一个
 it must specify this:它必须指定这
 it must stop send:它必须停止发送
@@ -5155,6 +5763,7 @@ it must stop:它必须停止
 it must strengthen our:它必须加强我们的
 it must strengthen:它必须加强
 it must suffer:它必须遭受
+it must support high:它必须支持高
 it must taste:它必须尝
 it must teach us:它必须教我们
 it must teach:它必须教
@@ -5166,6 +5775,7 @@ it must work:它必须工作
 it must:它必须
 it my children:它我的孩子们
 it my fault:它我的错
+it my son:它我的儿子
 it my:它我的
 it myself:它我自己
 it natural:它自然的
@@ -5179,10 +5789,12 @@ it nearly stopped his:它几乎停止了他的
 it nearly test:它几乎测试
 it nearly work:它几乎工作
 it nearly:它几乎
+it need foreign help:它需要外国的帮助
 it need:它需要
 it needed hardware:它需要的硬件
 it needed:它需要的
 it needs a bottom line:它需要一个底线
+it needs a business case:它需要一个商业案例
 it needs a business:它需要一个商业
 it needs a clear business:它需要一个明确的商业
 it needs a complete sentence:它需要一个完整的句子
@@ -5192,6 +5804,7 @@ it needs a definition:它需要一个定义
 it needs a doctor:它需要一个医生
 it needs a european:它需要一个欧洲
 it needs a framework:它需要一个框架
+it needs a ghost:它需要一个鬼魂
 it needs a healthy:它需要一个健康的
 it needs a help:它需要一个帮助
 it needs a hero:它需要一个英雄
@@ -5205,13 +5818,16 @@ it needs a new world:它需要一个新的世界
 it needs a new:它需要一个新的
 it needs a platform:它需要一个平台
 it needs a series:它需要一系列
+it needs a simple:它需要一个简单
 it needs a small:它需要一个小的
 it needs a special place:它需要一个特别的地方
 it needs a special:它需要一个特殊的
 it needs a three:它需要一个三
+it needs a title:它需要一个标题
 it needs a village:它需要一个村庄
 it needs a:它需要一
 it needs a:它需要一个
+it needs all:它需要所有
 it needs an ecosystem:它需要一个生态系统
 it needs an enemy:它需要一个敌人
 it needs an external:它需要一个外部的
@@ -5237,12 +5853,15 @@ it needs fascism:它需要法西斯主义
 it needs faster evolution:它需要更快的进化
 it needs fog:它需要雾
 it needs food:它需要食物
+it needs foreign help:它需要外国的帮助
 it needs freedom and:它需要自由和
 it needs freedom:它需要自由
 it needs fuel:它需要燃料
 it needs further research and development:它需要进一步的研究和开发
+it needs further research:它需要进一步的研究
 it needs hacker:它需要黑客
 it needs hardware control:它需要硬件控制
+it needs heat:它需要热
 it needs help:它需要帮助
 it needs hope:它需要希望
 it needs improvement:它需要改进
@@ -5252,6 +5871,7 @@ it needs kill:它需要杀
 it needs more of:它需要更多的
 it needs more than:它需要超过
 it needs new blood vessel:它需要新的血管
+it needs new blood:它需要新的血
 it needs new partners:它需要新的伙伴
 it needs new protein:它需要新的蛋白质
 it needs nuclear weapon:它需要核武器
@@ -5334,11 +5954,14 @@ it not:它不是
 it note:它注意
 it notice:它注意
 it now also:它现在也
+it now begin:它现在开始
+it now can:它现在可以
 it now connect:它现在连接
 it now contain:它现在包含
 it now control:它现在控制
 it now cover:它现在涵盖
 it now deploy:它现在部署
+it now give:它现在给
 it now has a:它现在有一个
 it now has about:它现在有大约
 it now has capacity:它现在有能力
@@ -5348,6 +5971,7 @@ it now has:它现在有
 it now hold:它现在拥有
 it now include:它现在包括
 it now knows:它现在知道
+it now look:它现在看
 it now make:它现在制造
 it now must decide:它现在必须决定
 it now offer:它现在提供
@@ -5390,6 +6014,7 @@ it once again:它再次
 it once did:它曾经做过
 it once had ocean:它曾经有海洋
 it once or twice:它一次或两次
+it once or:它一次或
 it once was:它曾经是
 it once you get it:它一旦你得到它
 it once you:它一旦你
@@ -5415,22 +6040,33 @@ it or access their:它或访问他们的
 it or anything:它或任何事
 it or bile:它或胆汁
 it or change it:它或改变它
+it or choose:它或选择
 it or don't:它或不
+it or even:它或甚至
+it or hands handle:它或手处理
 it or he let:它或他让
 it or help it:它或帮助它
+it or help youth:它或帮助青年
 it or if they:它或如果他们
 it or is:它或是
+it or it:它或它
 it or its vendor:它或它的供应商
 it or keep it:它或保持它
+it or leave it:它或离开它
 it or legislate against:它或立法反对
 it or like it:它或喜欢它
 it or move it:它或移动它
+it or not:它或不是
+it or other:它或其他的
 it or overcome it:它或克服它
+it or pink it:它或粉红色它
 it or pink:它或粉红色
 it or pretend it:它或假装它
 it or remember it:它或记住它
 it or suppress it:它或抑制它
 it or think it:它或认为它
+it or undo it:它或撤销它
+it or use it:它或使用它
 it or use this:它或使用这
 it or walk or:它或步行或
 it or why:它或為什麼
@@ -5471,10 +6107,14 @@ it past:它过去的
 it paste:它粘贴
 it pave:它铺
 it pearl:它珍珠
+it per:它每
 it perfect balance and:它完美的平衡和
+it perfect if you:它完美的如果你
 it perfect:它完美
 it perfect:它完美的
 it perform:它执行
+it performance:它性能
+it perhaps says:它也许说
 it perhaps thirty:它也许三十
 it perhaps:它也许
 it perhaps:它或许
@@ -5484,6 +6124,7 @@ it pierce:它刺穿
 it pink:它粉红色
 it piss:它尿
 it plan:它计划
+it plans more:它计划更多
 it plans to:它计划到
 it plans:它计划
 it play:它玩
@@ -5499,6 +6140,7 @@ it pop:它弹出
 it portrait:它肖像
 it position:它位置
 it possess:它占有
+it potential:它潜在
 it power:它力量
 it practice:它实践
 it praise:它赞美
@@ -5517,12 +6159,14 @@ it prevent:它防止
 it prevent:它阻止
 it prevent:它预防
 it prey:它捕食
+it prices:它价格
 it print:它打印
 it prisoner:它囚犯
 it probably:它或许
 it process:它处理
 it produce:它生产
 it products:它产品
+it professional curiosity:它专业的好奇心
 it professional:它专业
 it professional:它专业的
 it prohibit:它禁止
@@ -5640,6 +6284,7 @@ it really:它真正地
 it reboot:它重新启动
 it receive:它收
 it receive:它收到
+it recent:它最近的
 it recently admitted:它最近承认
 it recently agree:它最近同意
 it recently discover:它最近发现
@@ -5676,6 +6321,7 @@ it refers to any one:它指任何一
 it refers to:它指
 it reflect:它反映
 it reforms:它改革
+it register:它注册
 it reinforce:它增强
 it reject:它拒绝
 it related:它相关的
@@ -5716,16 +6362,20 @@ it return to:它回到
 it return:它返回
 it reuse:它重用
 it reveal:它揭示
+it revise:它修订
 it revolution:它革命
+it reward:它奖赏
 it rhyme:它押韵
 it rhythm:它节奏
 it rich:它丰富的
 it right:它权利
 it right:它正确的
 it ring:它戒指
+it rise to:它增加到
 it rise:它上升
 it rise:它增加
 it risk:它风险
+it risks:它风险
 it ritual:它仪式
 it river:它河
 it roll:它滚动
@@ -5743,11 +6393,14 @@ it safe:它安全的
 it said about:它说大约
 it said amazon offer:它说亚马逊提供
 it said andrew:它说安德鲁
+it said computer program:它说计算机程序
 it said denmark:它说丹麦
 it said doctors will:它说医生将
 it said every user:它说每个用户
 it said fight:它说战斗
 it said governments must:它说政府必须
+it said he:它说他
+it said his wife:它说他的妻子
 it said i won:它说我赢了
 it said it also:它说它也
 it said it had:它说它有
@@ -5756,10 +6409,12 @@ it said it would:它说它将
 it said it:它说它
 it said its agent:它说它的代理人
 it said kenya:它说肯尼亚
+it said kiev must:它说基辅必须
 it said kiev:它说基辅
 it said launch:它说发射
 it said luxury goods:它说奢侈品
 it said malaysia:它说马来西亚
+it said microsoft:它说微软
 it said no evidence:它说没有证据
 it said only those:它说只有那些
 it said palestinians will:它说巴勒斯坦人将
@@ -5778,14 +6433,21 @@ it said their fight:它说他们的战斗
 it said their house:它说他们的房子
 it said these soldier:它说这些士兵
 it said they:它说他们
+it said this was:它说这是
 it said this would:它说这将
 it said this:它说这
 it said three:它说三
+it said wake:它说醒
+it said were:它说是
+it said you was:它说你是
 it said your home:它说你的家
 it said:它说
+it sanctions:它制裁
 it satisfy:它满足
 it save:它保存
+it saved his life:它拯救了他的生命
 it saved my life:它拯救了我的生命
+it saved my life:它拯救了我的生活
 it saved:它拯救了
 it say:它说
 it says a:它说一个
@@ -5799,10 +6461,13 @@ it says he went:它说他去
 it says he:它说他
 it says here:它说这里
 it says hospital:它说医院
+it says i:它说我
+it says if you:它说如果你
 it says if your big:它说如果你的大
 it says it can:它说它可以
 it says it has:它说它有
 it says it want:它说它想要
+it says it will:它说它会
 it says it would:它说它将
 it says it:它说它
 it says its goal:它说它的目标
@@ -5822,13 +6487,18 @@ it says the:它说这
 it says they should not:它说他们不应该
 it says they:它说他们
 it says this is a:它说这是一个
+it says this is:它说这是
 it says this may:它说这可以
 it says this would:它说这将
 it says three:它说三
+it says trans fat:它说反式脂肪
 it says vehicle:它说车辆
 it says violate gun:它说违反枪
+it says we have:它说我们有
+it says will offer:它说将提供
 it says women must:它说妇女必须
 it says you think i:它说你觉得我
+it says zero drugs:它说零药物
 it says zero:它说零
 it says:它说
 it scientific:它科学
@@ -5839,6 +6509,7 @@ it screen:它屏幕
 it search:它搜索
 it secret:它秘密
 it secure:它安全的
+it security research group:它安全研究组
 it security research:它安全研究
 it security standards:網路安全標準
 it security:它安全
@@ -5853,26 +6524,33 @@ it seems you like:它看起来你喜欢
 it seems:它看起来
 it seize:它抓住
 it select:它选择
+it self:它自己
 it self:它自我
 it sell:它出售
 it send:它发送
+it sensitive:它敏感的
 it separate:它分离
 it server:它服务器
 it service center:它服务中心
 it service management:資訊科技服務管理
+it service:它服务
 it services:它服务
 it set a standard:它设置一个标准
+it set off:它设置关闭
 it set:它设置
 it seven:它七
+it several important:它几个重要的
 it several months ago:它几个月前
 it several times:它几次
 it several:它几个
 it severe:它严重的
 it share:它分享
+it should a:它应该一
 it should accelerate to:它应该加速到
 it should accelerate:它应该加速
 it should accept various:它应该接受各种
 it should acquire very:它应该获得非常
+it should aid:它应该帮助
 it should allow:它应该允许
 it should automatically:它应该自动地
 it should avoid:它应该避免
@@ -5942,16 +6620,20 @@ it should be very:它应该是非常
 it should be visible:它应该是可见的
 it should be who we are:它应该是我们是谁
 it should be wireless:它应该是无线的
+it should be you:它应该成为你
 it should be your choice:它应该是你的选择
 it should be your purpose:它应该是你的目的
 it should be your servant:它应该是你的仆人
 it should be your:它应该是你的
+it should be:它应该成为
 it should be:它应该是
+it should begin running:它应该开始运行
 it should break:它应该打破
 it should challenge reader:它应该挑战读者
 it should close:它应该关闭
 it should come from me:它应该来自我
 it should come from:它应该来自
+it should come:它应该来
 it should contain a:它应该包含一
 it should contain more:它应该包含更多
 it should contain no:它应该包含不
@@ -5969,26 +6651,35 @@ it should drink:它应该喝
 it should end:它应该结束
 it should establish and:它应该建立和
 it should exist:它应该存在
+it should feel real:它应该感觉真的
 it should feel:它应该感觉
+it should fill:它应该填充
 it should focus on understanding:它应该专注于理解
 it should generate a:它应该生成一个
 it should give it:它应该给它
 it should give us:它应该给我们
 it should give users:它应该给用户
 it should give you:它应该给你
+it should give:它应该给
+it should go:它应该去
 it should handle:它应该处理
 it should have a future:它应该有一个未来
 it should have a small:它应该有一个小的
 it should have a specific:它应该有一个特定的
 it should have a website:它应该有一个网站
+it should have a:它应该有一
 it should have a:它应该有一个
 it should have an appropriate:它应该有一个适当的
 it should have an:它应该有一个
 it should have at least one:它应该有至少一个
+it should have enough:它应该有足够的
 it should have higher:它应该有更高的
+it should have produce:它应该有生产
+it should have tools:它应该有工具
 it should have:它应该有
 it should help them:它应该帮助他们
 it should help us:它应该帮助我们
+it should help you:它应该帮助你
 it should however:它应该然而
 it should ideal:它应该理想
 it should improve people:它应该改善人们
@@ -6006,7 +6697,12 @@ it should intensify:它应该加强
 it should invest:它应该投资
 it should involve a:它应该包括一个
 it should keep:它应该保持
+it should learn:它应该学习
 it should let people:它应该让人们
+it should let users:它应该让用户
+it should link:它应该链接
+it should look:它应该看
+it should match:它应该匹配
 it should move:它应该移动
 it should no longer:它应该不再
 it should not become a:它不应该成为一
@@ -6019,6 +6715,7 @@ it should not send:它不应该发送
 it should not stop:它不应该停止
 it should not:它不应该
 it should obtain:它应该获得
+it should offer more:它应该提供更多
 it should offer:它应该提供
 it should open:它应该开
 it should origin:它应该起源
@@ -6034,15 +6731,18 @@ it should provide one:它应该提供一
 it should provide:它应该提供
 it should push:它应该推
 it should reach room temperature:它应该达到室温
+it should real:它应该真的
 it should recover:它应该恢复
 it should reflect everything:它应该反映一切
 it should reflect your:它应该反映你的
 it should reflect:它应该反映
 it should register:它应该注册
 it should require companies:它应该要求企业
+it should restore:它应该恢复
 it should return a:它应该返回一个
 it should return:它应该返回
 it should reveal some:它应该揭示一些
+it should reveal:它应该揭示
 it should rise to:它应该上升到
 it should run:它应该跑
 it should say:它应该说
@@ -6053,11 +6753,16 @@ it should start and:它应该开始和
 it should stop accept:它应该停止接受
 it should stop:它应该停止
 it should study and:它应该研究和
+it should suit him:它应该适合他
+it should support:它应该支持
+it should tell me:它应该告诉我
 it should tell people:它应该告诉人们
+it should tell us:它应该告诉我们
 it should tell users:它应该告诉用户
 it should think:它应该认为
 it should unlock:它应该解锁
 it should use intel:它应该使用英特尔
+it should use:它应该使用
 it should wait:它应该等待
 it should win about:它应该赢得大约
 it should work:它应该工作
@@ -6087,6 +6792,8 @@ it snow let it:它雪让它
 it snow:它雪
 it snowball:它雪球
 it so i:它所以我
+it so important:它如此重要
+it so peaceful was:它如此和平的是
 it so peaceful:它如此和平的
 it so perfect:它如此完美
 it so powerful:它如此强大
@@ -6107,6 +6814,7 @@ it solve:它解决
 it some data:它一些数据
 it some fruit:它一些水果
 it some kind of:它某种
+it some more:它一些更多
 it some signal:它一些信号
 it some support:它一些支持
 it some thought:它一些想法
@@ -6115,7 +6823,10 @@ it some unit of time:它一些时间单位
 it some:它一些
 it sometimes allow:它有时允许
 it sometimes appear:它有时出现
+it sometimes even:它有时甚至
+it sometimes feel:它有时感觉
 it sometimes include:它有时包括
+it sometimes look:它有时看
 it sometimes means only:它有时意味着只有
 it sometimes reach:它有时达到
 it sometimes read:它有时读
@@ -6123,6 +6834,7 @@ it sometimes still:它有时仍然
 it sometimes will:它有时会
 it sometimes:它有时
 it sometimes:它有时候
+it soon be:它很快成为
 it soon became a:它很快成为一个
 it soon became:它很快成为
 it soon start:它很快开始
@@ -6147,6 +6859,7 @@ it squid:它鱿鱼
 it standing:它站立
 it start:它开始
 it state capitalism:它国家资本主义
+it states:它国家
 it static:它静态的
 it stay here:它留在这里
 it stay in:它呆在
@@ -6157,6 +6870,7 @@ it steam:它蒸汽
 it still allow:它仍然允许
 it still believe:它仍然相信
 it still can solve:它仍然能解决
+it still cannot:它仍然不能
 it still care:它仍然关心
 it still contain:它仍然包含
 it still continue:它仍然继续
@@ -6167,18 +6881,22 @@ it still feel:它仍然感觉
 it still give:它仍然给
 it still had a:它仍然有一
 it still had a:它仍然有一个
+it still half:它仍然半
 it still has a:它仍然有一
 it still has a:它仍然有一个
 it still has all:它仍然有所有
 it still has big:它仍然有大
 it still has claw:它仍然有爪
 it still has its:它仍然有它的
+it still has many:它仍然有很多
 it still has many:它仍然有许多
 it still has power:它仍然有力量
 it still has some:它仍然有一些
 it still has sugar:它仍然有糖
 it still has their:它仍然有他们的
+it still has this:它仍然有这
 it still has work:它仍然有工作
+it still has:它仍然有
 it still have some:它仍然有一些
 it still host:它仍然主机
 it still hurt:它仍然伤害
@@ -6194,11 +6912,14 @@ it still lack:它仍然缺乏
 it still look:它仍然看
 it still looks like a:它仍然看起来像一个
 it still may:它仍然可以
+it still more:它仍然更多
 it still must:它仍然必须
 it still needs a:它仍然需要一
 it still needs a:它仍然需要一个
 it still needs an:它仍然需要一个
+it still needs development:它仍然需要开发
 it still needs raw material:它仍然需要原材料
+it still needs work:它仍然需要工作
 it still needs:它仍然需要
 it still offer:它仍然提供
 it still orbit:它仍然轨道
@@ -6212,8 +6933,11 @@ it still reflect:它仍然反映
 it still require:它仍然要求
 it still require:它仍然需要
 it still retain:它仍然保持
+it still return:它仍然返回
+it still running:它仍然运行
 it still show:它仍然显示
 it still sold:它仍然卖
+it still suck:它仍然吸
 it still suggest:它仍然建议
 it still support:它仍然支持
 it still think:它仍然认为
@@ -6221,6 +6945,7 @@ it still uses steel:它仍然使用钢
 it still uses:它仍然使用
 it still work:它仍然工作
 it still:它仍然
+it stone cold:它石头冷
 it stone:它石头
 it stop:它停止
 it stopped her:它停止了她的
@@ -6232,6 +6957,7 @@ it stream:它流
 it strength:它力量
 it strengthen you:它加强你
 it strengthen:它加强
+it stress:它压力
 it stretch:它拉伸
 it strictly:它严格地
 it structure and purpose:它结构和目的
@@ -6259,6 +6985,7 @@ it suffer:它遭受
 it suggest:它建议
 it suit you:它适合你
 it suit:它适合
+it sunset:它日落
 it super earth:它超级地球
 it supervise:它监督
 it support all type:它支持所有类型
@@ -6286,6 +7013,7 @@ it tell:它告诉
 it ten years ago:它十年前
 it ten:它十
 it test:它测试
+it thai:它泰国
 it thailand:它泰国
 it than knowledge:它比知识
 it than phone:它比手机
@@ -6303,6 +7031,7 @@ it the only:它唯一的
 it the:它这
 it their:它他们的
 it then look:它然后看
+it then uses:它然后使用
 it then:它然后
 it thereby connect:它因此连接
 it thereby:它因此
@@ -6324,6 +7053,8 @@ it through a blood:它通过一个血
 it through a waterfall:它通过一个瀑布
 it through a:它通过一个
 it through adolescence and:它通过青春期和
+it through air:它通过空气
+it through an airlock:它通过一个气闸舱
 it through cocktail:它通过鸡尾酒
 it through development and:它通过发展和
 it through his camera:它通过他的相机
@@ -6331,6 +7062,7 @@ it through his eyes:它通过他的眼睛
 it through his feet:它通过他的脚
 it through his hair:它通过他的头发
 it through its:它通过它的
+it through my head:它通过我的头
 it through touch:它通过触摸
 it through us:它通过我们
 it through various water:它通过各种水
@@ -6346,17 +7078,22 @@ it thus:它因此
 it tick:它蜱
 it time:它时间
 it title:它标题
+it to a test:它到一个测试
 it to all server:它到所有服务器
 it to another young:它到另一个年轻的
+it to come:它到来
 it to his face:它到他的脸
 it to iran:它到伊朗
 it to mars:它到火星
 it to me:它到我
 it to our next:它到我们的下一个
+it to reveal:它到揭示
 it to spain and:它到西班牙和
 it to tokyo:它到东京
+it to you:它到你
 it to:它到
 it today:它今天
+it together yet:它一起还
 it together:它一起
 it together:它在一起
 it tolerate:它容忍
@@ -6400,6 +7137,7 @@ it train:它训练
 it transfer:它传输
 it transfer:它传送
 it transfer:它转移
+it transfer:它转让
 it transition:它转变
 it transport:它运输
 it travel:它旅行
@@ -6429,6 +7167,8 @@ it until they retire:它直到他们退休
 it until:它直到
 it up:它向上
 it update:它更新
+it updates and:它更新和
+it updates code:它更新代码
 it updates:它更新
 it upgrade:它升级
 it use mathematics:它使用数学
@@ -6442,19 +7182,24 @@ it uses a conversion:它使用一个转换
 it uses a new:它使用一个新的
 it uses a seed:它使用一个种子
 it uses a series:它使用一系列
+it uses a simple:它使用一个简单
 it uses a simple:它使用一个简单的
 it uses a standard:它使用一个标准
+it uses a unique:它使用一个唯一的
+it uses a unique:它使用一个独特的
 it uses a:它使用一
 it uses a:它使用一个
 it uses air:它使用空气
 it uses already familiar:它使用已经熟悉的
 it uses amazon:它使用亚马逊
 it uses an event:它使用一个事件
+it uses an interesting:它使用一个有趣的
 it uses an open:它使用一个开
 it uses and extend:它使用和扩展
 it uses another:它使用另一个
 it uses artificial intelligence:它使用人工智能
 it uses auto:它使用汽车
+it uses bacteriophage viruses:它使用噬菌体病毒
 it uses bacteriophage:它使用噬菌体
 it uses behavior:它使用行为
 it uses behaviour:它使用行为
@@ -6466,12 +7211,14 @@ it uses coal:它使用煤
 it uses cold lake:它使用冷湖
 it uses command:它使用命令
 it uses component object model:它使用组件对象模型
+it uses component object:它使用组件对象
 it uses computer ranking:它使用计算机排名
 it uses data center:它使用数据中心
 it uses deception:它使用欺騙
 it uses decimal fraction:它使用十进制分数
 it uses deep neural network:它使用深度神经网络
 it uses different methods:它使用不同的方法
+it uses different muscle:它使用不同的肌肉
 it uses different scripting language:它使用不同的脚本语言
 it uses documents:它使用文档
 it uses earth:它使用地球
@@ -6487,8 +7234,10 @@ it uses five:它使用五
 it uses four:它使用四
 it uses free:它使用自由的
 it uses glucose:它使用葡萄糖
+it uses google autocomplete:它使用谷歌自动完成
 it uses high energy:它使用高能源
 it uses high performance glass:它使用高性能玻璃
+it uses high performance:它使用高性能
 it uses high radio:它使用高无线电
 it uses higher:它使用更高的
 it uses hypnosis techniques:它使用催眠技术
@@ -6505,6 +7254,7 @@ it uses machine learning:它使用机器学习
 it uses machine-learning technology:它使用机器学习技术
 it uses many open source:它使用许多开源
 it uses many:它使用许多
+it uses matrix implementation:它使用矩阵实现
 it uses matrix:它使用矩阵
 it uses maximum likelihood estimation:它使用最大似然估计
 it uses metadata and:它使用元数据和
@@ -6535,12 +7285,14 @@ it uses risk assessment and:它使用风险评估和
 it uses roman or:它使用罗马或
 it uses rules:它使用规则
 it uses safe:它使用安全的
+it uses sample:它使用样本
 it uses sculpture:它使用雕塑
 it uses search techniques:它使用搜索技术
 it uses sensor:它使用传感器
 it uses silicon and:它使用硅和
 it uses six:它使用六
 it uses solar energy:它使用太阳能
+it uses solid black carbon:它使用固体黑碳
 it uses solid semiconductor:它使用固体半导体
 it uses solid:它使用固体
 it uses some machine learning:它使用一些机器学习
@@ -6550,7 +7302,9 @@ it uses spam:它使用垃圾邮件
 it uses specific construct:它使用特定的构造
 it uses statistic:它使用统计
 it uses stem cell:它使用幹細胞
+it uses strategy:它使用战略
 it uses symmetry conditions:它使用对称条件
+it uses systems modeling:它使用系统建模
 it uses template:它使用模板
 it uses these hook:它使用这些钩
 it uses third-party:它使用第三方
@@ -6577,6 +7331,7 @@ it uses wood:它使用木头
 it uses xylitol:它使用木糖醇
 it uses your device:它使用你的设备
 it uses zero-knowledge proof:它使用零知识证明
+it uses zero-knowledge:它使用零知识
 it uses zinc:它使用锌
 it uses:它使用
 it using a:它使用一个
@@ -6630,6 +7385,7 @@ it very easy:它非常容易
 it very insult:它非常侮辱
 it very sensitive:它非常敏感
 it very simple:它非常简单
+it very suit:它非常适合
 it very vulgar:它非常粗俗的
 it very:它非常
 it vibrate:它振动
@@ -6643,43 +7399,59 @@ it wait:它等
 it wait:它等待
 it wake:它醒
 it want:它想要
+it was a baby:它是一个婴儿
 it was a bar:它是一个酒吧
 it was a basic:它是一个基本的
+it was a beautiful:它是一个美丽的
+it was a better:它是一个更好的
 it was a big bang:它是一个大爆炸
+it was a big:它是一个大
 it was a blank:它是一个空白的
+it was a blink:它是一眨眼
 it was a body:它是一个身体
 it was a bomb:它是一个炸弹
+it was a bone:它是一个骨骼
 it was a bottle:它是一个瓶
 it was a boy:它是一个男孩
 it was a business:它是一个商业
+it was a challenge:它是一个挑战
+it was a child:它是一个孩子
 it was a concept:它是一个概念
 it was a continent:它是一个大陆
 it was a continuous:它是一个连续的
 it was a deep:它是一个深的
 it was a desktop:它是一个桌面
 it was a failure:它是一个失败
+it was a family:它是一个家庭
 it was a fire:它是一个火
 it was a five:它是一个五
 it was a flag:它是一个旗
 it was a former:它是一个前
+it was a free:它是一个自由的
 it was a game:它是一个游戏
 it was a great:它是一个伟大的
 it was a heap:它是一个堆
+it was a hole:它是一个洞
 it was a holy:它是一个神圣的
 it was a house:它是一个住宅
+it was a human:它是一个人
 it was a kill:它是一个杀
 it was a laboratory:它是一个实验室
+it was a lake:它是一个湖
+it was a lake:它是一个湖泊
 it was a legitimate:它是一个合法的
 it was a lie:它是一个谎言
 it was a living:它是一个活
 it was a major news:它是一个主要的新闻
 it was a male:它是一个男性
 it was a man:它是一个人
+it was a man:它是一个男人
 it was a master:它是一个大师
 it was a milestone:它是一个里程碑
 it was a military:它是一个军事
 it was a mistake:它是一个错误
 it was a mixed language:它是一个混合语
+it was a monastery:它是一个修道院
 it was a monitor:它是一个监视器
 it was a museum:它是一个博物馆
 it was a navigation:它是一个导航
@@ -6692,6 +7464,8 @@ it was a parliament:它是一个议会
 it was a peaceful:它是一个和平的
 it was a pearl:它是一个珍珠
 it was a perfect:它是一个完美的
+it was a place:它是一个地方
+it was a plough:它是一个犁
 it was a private:它是一个私人
 it was a process:它是一个过程
 it was a public:它是一个公众
@@ -6703,14 +7477,18 @@ it was a record:它是一个记录
 it was a ring:它是一个戒指
 it was a sail:它是一个帆
 it was a saturday:它是一个星期六
+it was a scientific:它是一个科学
 it was a secret:它是一个秘密
 it was a series:它是一系列
+it was a simple:它是一个简单
 it was a small:它是一个小的
 it was a smile:它是一个微笑
 it was a sort:它是一种类
+it was a spanish:它是一个西班牙
 it was a special:它是一个特殊的
 it was a sprain:它是一个扭伤
 it was a stable:它是一个稳定的
+it was a state:它是一个国家
 it was a static:它是一个静态的
 it was a story:它是一个故事
 it was a student:它是一个学生
@@ -6720,15 +7498,46 @@ it was a time:它是一个时间
 it was a tool:它是一个工具
 it was a toy:它是一个玩具
 it was a treatment:它是一个治疗
+it was a tuesday:它是一个星期二
 it was a tumor:它是一个肿瘤
+it was a us:它是一个美国
 it was a vampire:它是一个吸血鬼
 it was a very:它是一个非常
+it was a winter sport:它是一个冬季运动
 it was a winter:它是一个冬季
 it was a workday:它是一个工作日
 it was a:它是一
 it was a:它是一个
+it was about a:它是关于一
+it was about a:它是关于一个
+it was about an:它是关于一个
+it was about christmas:它是关于圣诞节
+it was about collaboration:它是关于合作
+it was about complex:它是关于复杂
+it was about control:它是关于控制
+it was about environment:它是关于环境
+it was about his:它是关于他的
+it was about humanity:它是关于人性
+it was about image:它是关于图像
+it was about justice:它是关于正义
+it was about my son:它是关于我的儿子
+it was about my:它是关于我的
+it was about nation:它是关于国家
+it was about navy:它是关于海军
+it was about passion:它是关于激情
+it was about quality:它是关于质量
+it was about rape:它是关于强奸
+it was about same-sex:它是关于同性
+it was about service:它是关于服务
+it was about this:它是关于这
+it was about time:它是关于时间
+it was about trying:它是关于试图
+it was about using:它是关于使用
+it was about you:它是关于你
+it was about:它是关于
 it was about:它是大约
 it was abstract:它是抽象的
+it was absurd and:它是荒谬的和
 it was absurd:它是荒谬的
 it was according to plan:它是根据计划
 it was africa:它是非洲
@@ -6742,18 +7551,26 @@ it was always important:它是总是重要的
 it was always:它是总是
 it was america:它是美国
 it was an absolute:它是一个绝对
+it was an accusation:它是一个指控
 it was an ambitious:它是一个雄心勃勃
 it was an angel:它是一个天使
 it was an answer:它是一个回答
+it was an apple:它是一个苹果
+it was an early:它是一个早期的
+it was an empty:它是一个空的
 it was an end:它是一个结束
 it was an engineering:它是一个工程学
+it was an entire:它是一个整个
 it was an expensive:它是一个昂贵的
 it was an important international:它是一个重要的国际
+it was an important:它是一个重要的
 it was an independent:它是一个独立的
 it was an information system:它是一个信息系统
 it was an information:它是一个信息
+it was an island:它是一个岛
 it was an open:它是一个开
 it was an:它是一个
+it was and things:它是和事情
 it was animation:它是动画
 it was approach:它是接近
 it was asia:它是亚洲
@@ -6782,8 +7599,10 @@ it was based:它是基于
 it was beautiful:它是美丽的
 it was beauty:它是美
 it was because it had:它是因为它有
+it was before:它是之前
 it was better:它是更好的
 it was big frank:它是大弗兰克
+it was black and blue:它是黑色和蓝色
 it was black and:它是黑色和
 it was black market:它是黑市
 it was black:它是黑色
@@ -6798,6 +7617,7 @@ it was built in:它建于
 it was burgundy:它是勃艮第
 it was buried:它被埋葬
 it was by learning:它是通过学习
+it was cake:它是蛋糕
 it was california:它是加利福尼亚州
 it was called a:它被称为一个
 it was called an accident:它被称为一个意外
@@ -6823,13 +7643,18 @@ it was cancer:它是癌症
 it was charles v:它是查理五世
 it was chicken:它是鸡
 it was china and:它是中国和
+it was china:它是中国
+it was chocolate fish:它是巧克力鱼
+it was christmas:它是圣诞节
 it was closed:它被关闭
+it was cold:它是冷
 it was colonialism:它是殖民主义
 it was common:它是共同的
 it was communities:它是社区
 it was complex:它是复杂的
 it was computer science:它是计算机科学
 it was connect:它是连接
+it was consistent:它是一致的
 it was continuous:它是连续的
 it was correct:它是正确的
 it was cover:它是覆盖
@@ -6839,6 +7664,7 @@ it was cute:它是可爱的
 it was dangerous:它是危险的
 it was dark:它是黑暗的
 it was dead:它是死的
+it was deadly web:它是致命的网
 it was deadly:它是致命的
 it was death:它是死亡
 it was depth:它是深度
@@ -6847,9 +7673,12 @@ it was dick:它是迪克
 it was different with:它是不同的与
 it was different:它是不同的
 it was difficult in the dark:它是困难的在黑暗中
+it was difficult:它是困难的
 it was dog-ear:它是狗耳朵
 it was dream:它是梦
+it was drugs:它是毒品
 it was early:它是早期的
+it was earth:它是地球
 it was easy:它是容易
 it was education:它是教育
 it was effective:它是有效的
@@ -6872,6 +7701,7 @@ it was five:它是五
 it was for picture:它是为了照片
 it was fortunate:它是幸运的
 it was founded in:它成立于
+it was four years:它是四年
 it was four:它是四
 it was france:它是法国
 it was free and:它是免费的和
@@ -6887,6 +7717,7 @@ it was genius:它是天才
 it was germany:它是德国
 it was go:它是去
 it was god:它是上帝
+it was god:它是神
 it was gold:它是金
 it was good and:它是好的和
 it was good:它是好的
@@ -6909,14 +7740,18 @@ it was her first:这是她第一次
 it was her ghost:它是她的鬼魂
 it was her:它是她的
 it was hinduism:它是印度教
+it was his wife:它是他的妻子
 it was history:它是历史
 it was home:它是家
 it was horse:它是马
+it was hot outside:它是热外面
+it was human:它是人
 it was human:它是人类
 it was humid and:它是潮湿的和
 it was i want:它是我想
 it was ice:它是冰
 it was ideal:它是理想的
+it was if you:它是如果你
 it was illegal:它是非法
 it was illegal:它是非法的
 it was impossible:它是不可能的
@@ -6936,20 +7771,29 @@ it was iron:它是铁
 it was isaac:它是以撒
 it was italian:它是意大利语
 it was kazakhstan:它是哈萨克斯坦
+it was kill:它是杀
 it was killed:它被杀
 it was kitchen:它是厨房
+it was known:它是已知的
 it was kyrgyzstan:它是吉尔吉斯斯坦
 it was large:它是大的
+it was left-hand drive:它是左手驾驶
 it was left-hand:它是左手
 it was legal:它是合法的
+it was life:它是生活
 it was liquid:它是液体
 it was live:它是活的
 it was local:它是本地的
 it was love:它是愛
 it was lucky i:它是幸运的我
+it was lucky she:它是幸运的她
 it was lucky:它是幸运的
 it was ludwig:它是路德维希
+it was manifest:它是清单
+it was many years:它是很多年
 it was mass:它是质量
+it was me:它是我
+it was medieval:它是中世纪的
 it was military:它是军事
 it was milk and:它是牛奶和
 it was mississippi:它是密西西比州
@@ -6959,23 +7803,29 @@ it was my birthday:它是我的生日
 it was my childhood:它是我的童年
 it was my happiness:它是我的幸福
 it was my honor:它是我的荣誉
+it was my name:它是我的名字
 it was my need:它是我的需要
 it was my room:它是我的房间
 it was my safety:它是我的安全
+it was my security blanket:它是我的安全毛毯
 it was my security:它是我的安全
 it was my:它是我的
 it was nasa:它是美国国家航空航天局
 it was natural:它是自然的
 it was necessary:它是必要的
+it was nectar:它是花蜜
 it was needed:它是需要的
 it was network traffic:它是网络流量
 it was new:它是新的
 it was news:它是新闻
 it was no:它是不
+it was noon:它是中午
+it was normal childhood:它是正常的童年
 it was normal:它是正常的
 it was not a:它是不是一
 it was not enough:它是不够的
 it was not your fault:那不是你的错
+it was not:它是不是
 it was numbers:它是数字
 it was open:它是开
 it was optimize:它是优化
@@ -6987,7 +7837,9 @@ it was party:它是党
 it was peaceful:它是和平的
 it was perfect size:它是完美的大小
 it was perfect:它是完美的
+it was physical:它是物理的
 it was pink and:它是粉红色和
+it was plain:它是平原
 it was playboy:它是花花公子
 it was poisonous:它是有毒的
 it was possess:它是占有
@@ -7004,6 +7856,7 @@ it was quiet:它是安静的
 it was rabbit:它是兔
 it was racist:它是种族主义者
 it was rape:它是强奸
+it was real:它是真的
 it was realistic:它是现实的
 it was reasonable:它是合理的
 it was recently:它是最近
@@ -7024,24 +7877,31 @@ it was safe:它是安全的
 it was seafood:它是海鮮
 it was secret or:它是秘密或
 it was secure:它是安全的
+it was sell:它是出售
 it was sexual:它是性的
 it was silence or:它是沉默或
+it was similar:它是相似的
 it was singapore:它是新加坡
 it was slow work:它是慢的工作
 it was small:它是小的
 it was smooth and:它是光滑的和
 it was smooth:它是光滑的
+it was so abnormal:它是如此异常
 it was so beautiful and:它是如此美丽和
 it was so beautiful:它是如此美丽
 it was so cold:它是如此冷
 it was so diverse:它是如此多样化
 it was so easy:它是如此容易
 it was so expensive:它是如此昂贵的
+it was so important:它是如此重要
 it was so like:它是如此喜欢
 it was so open:它是如此开
+it was so pain:它是如此疼痛
 it was so powerful:它是如此强大
+it was so private:它是如此私人
 it was so quiet:它是如此安静的
 it was so simple:它是如此简单
+it was so weird:它是如此怪异的
 it was so:它是如此
 it was some kind of virus:它是某种病毒
 it was some sort of:它是某种
@@ -7051,13 +7911,18 @@ it was spiritual:它是精神的
 it was spontaneous:它是自发的
 it was stable:它是稳定的
 it was state policies:它是国家政策
+it was static:它是静态的
 it was stone:它是石头
 it was success after:它是成功后
 it was successful:它是成功的
 it was suggest:它是建议
 it was sunday:它是星期天
 it was sweden:它是瑞典
+it was syrup:它是糖漿
+it was tail:它是尾
+it was thai:它是泰国
 it was thailand:它是泰国
+it was that:它是那
 it was the first time:它是第一次
 it was the most beautiful:它是最美
 it was the only fact:它是唯一的事实
@@ -7073,16 +7938,22 @@ it was their:它是他们的
 it was therefore impossible:它是因此不可能的
 it was this:它是这
 it was those:它是那些
+it was three:它是三
 it was through his:它是通过他的
 it was through my:它是通过我的
+it was through:它是通过
 it was time that:它是时间那
 it was toad:它是蟾蜍
+it was tom:它是汤姆
+it was touch and go:它是触摸和去
 it was touch and:它是触摸和
 it was toxic:它是有毒的
 it was tractor:它是拖拉机
 it was true:它是真的
 it was two:它是二
 it was u.s.:它是美国
+it was underground:它是地下
+it was unfair:它是不公平的
 it was uniform:它是统一的
 it was unsuccessful:它是不成功的
 it was up to you:它是取决于你
@@ -7105,7 +7976,10 @@ it was world:它是世界
 it was wrong:它是错的
 it was yellow and:它是黄色和
 it was yesterday:它是昨天
+it was you who:它是你谁
+it was you:它是你
 it was:它是
+it watch:它观看
 it water:它水
 it wave:它波
 it we are not:它我们不是
@@ -7120,11 +7994,16 @@ it we:它我们
 it wear:它穿戴
 it weight:它重量
 it welcome:它欢迎
+it went right:它去正确的
 it went:它去
+it were a better:它是一个更好的
 it were a big:它是一个大
 it were a children:它是一个孩子
 it were a choice:它是一个选择
+it were a citation:它是一个引文
 it were a clear:它是一个明确的
+it were a cloud:它是一个云
+it were a common noun:它是一个普通名词
 it were a crime:它是一个犯罪
 it were a crystal ball:它是一个水晶球
 it were a dog:它是一个狗
@@ -7136,12 +8015,17 @@ it were a guitar:它是一个吉他
 it were a holy:它是一个神圣的
 it were a joke:它是一个笑话
 it were a kiss:它是一个吻
+it were a law:它是一个法律
+it were a lie:它是一个谎言
 it were a linked list:它是一个链表
 it were a mistake:它是一个错误
 it were a person:它是一个人
 it were a physical:它是一个物理的
 it were a point:它是一个点
 it were a public library:它是一个公共图书馆
+it were a public:它是一个公共
+it were a question:它是一个问题
+it were a saving:它是一个储蓄
 it were a savior:它是一个救世主
 it were a secret:它是一个秘密
 it were a shame:它是一个羞耻
@@ -7150,18 +8034,23 @@ it were a soldier:它是一个士兵
 it were a state:它是一个州
 it were a storefront:它是一个店面
 it were a tennis:它是一个网球
+it were a text:它是一个文本
 it were a touch:它是一个触摸
 it were a toy:它是一个玩具
 it were a victory:它是一个胜利
 it were a wrestling:它是一个摔跤
+it were a young:它是一个年轻的
 it were a:它是一
 it were a:它是一个
+it were about love:它是关于爱
+it were acid:它是酸的
 it were alive:它是活着的
 it were an accusation:它是一个指控
 it were an ancient:它是一个古
 it were any corporation:它是任何公司
 it were any other:它是任何其他
 it were approximate:它是近似的
+it were bad:它是坏的
 it were bleeding and:它是出血和
 it were but an:它是但一个
 it were different:它是不同的
@@ -7169,11 +8058,13 @@ it were empty:它是空的
 it were fresh and:它是新鲜的和
 it were fresh:它是新鲜的
 it were good:它是好的
+it were harmful:它是有害的
 it were home:它是家
 it were honey:它是蜂蜜
 it were i or:它是我或
 it were important:它是重要的
 it were impossible:它是不可能的
+it were league:它是联盟
 it were manifest:它是清单
 it were mud:它是泥
 it were necessary:它是必要的
@@ -7182,20 +8073,28 @@ it were perfect:它是完美的
 it were pig:它是猪
 it were possible:它是可能的
 it were praise:它是赞美
+it were san:它是圣
 it were scatter:它是分散
+it were sell:它是出售
 it were small:它是小的
+it were so:它是如此
 it were some sort of magic:它是某种魔法
 it were some:它是一些
+it were synchronous:它是同步的
 it were the first:它是第一次
 it were the next day:它是第二天
 it were the only thing:它是唯一的东西
 it were their right:它是他们的权利
+it were three:它是三
 it were through a:它是通过一个
 it were true:它是真
 it were true:它是真的
+it were water:它是水
+it were watercolor:它是水彩
 it were work:它是工作
 it were wrong:它是错的
 it were yesterday:它是昨天
+it were you who:它是你谁
 it were:它是
 it what you want:它你想要什么
 it what:它什么
@@ -7231,22 +8130,31 @@ it white:它白色
 it who:它谁
 it whole:它整个
 it why:它为什么
+it wide:它宽
+it will a:它会一
+it will a:它将一
 it will abolish:它会废除
 it will abort:它会中止
 it will abort:它将中止
 it will accelerate scientists:它将加速科学家
+it will accelerate you:它会加速你
 it will accelerate your:它会加速你的
+it will accelerate:它会加速
 it will accelerate:它将加速
 it will accept their:它将接受他们的
 it will accept those:它会接受那些
 it will accept:它将接受
+it will access:它会访问
 it will achieve this:它将实现这
 it will achieve:它将实现
 it will acquire more:它将获得更多
 it will acquire:它将获得
+it will add:它会加
+it will advocate:它将倡导
 it will aid:它会帮助
 it will aid:它将帮助
 it will all come from:它将全部来自
+it will all come:它将全部来
 it will all:它将全部
 it will allow all:它将允许所有
 it will allow consumers:它将允许消费者
@@ -7272,14 +8180,17 @@ it will allow:它将允许
 it will always get:它将总是得到
 it will always:它会一直
 it will always:它将一直
+it will answer:它将回答
 it will appear a:它会出现一个
 it will appear:它会出现
 it will approach:它将接近
+it will arrest:它将逮捕
 it will ask why:它会问为什么
 it will ask you:它会问你
 it will ask:它会问
 it will assess your:它会评估你的
 it will assess:它将评估
+it will assist agent:它将协助代理人
 it will assist more:它将协助更多
 it will assist:它将协助
 it will attack:它将攻击
@@ -7293,6 +8204,7 @@ it will attract:它将吸引
 it will auto detect:它将自动检测
 it will auto:它会自动
 it will auto:它将自动
+it will automatic:它会自动的
 it will automatically increase:它会自动地增加
 it will automatically return:它会自动地返回
 it will automatically:它会自动地
@@ -7300,6 +8212,9 @@ it will automatically:它将自动地
 it will balance:它会平衡
 it will be a:它会成为一
 it will be a:它将成为一
+it will be a:它将成为一个
+it will be an:它会成为一个
+it will be an:它将成为一个
 it will be calgary:它将成为卡尔加里
 it will be china:它将成为中国
 it will be connect:它将成为连接
@@ -7311,11 +8226,15 @@ it will be our:它将成为我们的
 it will be the first:它将是第一个
 it will be the only:它将成为唯一
 it will be used to:它将被用于
+it will be you:它会成为你
+it will be you:它将成为你
+it will be you:它将成为你们
 it will be your:它会成为你的
 it will be your:它将成为你们的
 it will be your:它将成为你的
 it will be:它会成为
 it will be:它将成为
+it will beat you:它会打你
 it will become a:它会成为一
 it will become a:它将成为一
 it will become all:它将成为所有
@@ -7338,17 +8257,26 @@ it will begin with:它将开始与
 it will begin:它会开始
 it will begin:它将开始
 it will bend until:它会弯曲直到
+it will bend:它会弯曲
 it will better:它将更好
 it will break bottleneck:它将打破瓶颈
 it will break her:它会打破她的
 it will break her:它将打破她的
 it will break my heart:它会打破我的心
+it will break my:它会打破我的
 it will break my:它将打破我的
+it will break you:它会打破你
 it will break:它将打破
 it will build an:它将构建一个
+it will call a default:它会调用一个默认
 it will call a:它会调用一个
+it will call an:它将调用一个
 it will call another:它将调用另一个
+it will call:它会调用
+it will call:它将调用
+it will calm:它会平静
 it will cancel:它将取消
+it will cause:它会引起
 it will cause:它将引起
 it will challenge people:它会挑战人们
 it will challenge you:它将挑战你
@@ -7356,6 +8284,7 @@ it will challenge:它将挑战
 it will change a:它将改变一个
 it will change all:它将改变所有
 it will change america:它将改变美国
+it will change and:它会改变和
 it will change cities:它将改变城市
 it will change color:它会改变颜色
 it will change everything:它将改变一切
@@ -7365,16 +8294,21 @@ it will change our:它将改变我们的
 it will change their:它将改变他们的
 it will change things:它会改变事情
 it will change us:它将改变我们
+it will change you:它会改变你
+it will change you:它将改变你
 it will change your:它会改变你的
 it will change your:它将改变你的
 it will change:它会改变
 it will change:它将改变
 it will chase:它将追逐
+it will check:它会检查
 it will check:它将检查
 it will chin with:它将下巴与
 it will choose friends:它会选择朋友
+it will choose:它会选择
 it will choose:它将选择
 it will close five:它将关闭五
+it will close:它会关闭
 it will close:它将关闭
 it will come from germany:它将来自德国
 it will come from my:它将来自我的
@@ -7383,7 +8317,9 @@ it will come from your:它将来自你的
 it will come from:它将来自
 it will come to:它将来到
 it will come:它会来
+it will come:它将来
 it will compare and:它将比较和
+it will complete:它将完成
 it will comprise a:它将包括一
 it will comprise a:它将包括一个
 it will comprise many:它将包括许多
@@ -7392,6 +8328,7 @@ it will compute:它将计算
 it will connect all:它将连接所有
 it will connect and:它将连接和
 it will connect the:它将连接这
+it will connect to:它将连接到
 it will connect:它将连接
 it will consider any:它将考虑任何
 it will consider restrict:它将考虑限制
@@ -7405,6 +8342,7 @@ it will consume more:它将消耗更多
 it will consume:它会消耗
 it will consume:它将消耗
 it will contact every:它将联系每个
+it will contact you:它将联系你
 it will contact your:它将联系你的
 it will contain a:它将包含一个
 it will contain better:它将包含更好的
@@ -7422,14 +8360,21 @@ it will continue:它会继续
 it will continue:它将持续
 it will continue:它将继续
 it will control us:它将控制我们
+it will control you:它会控制你
+it will control you:它将控制你
 it will control your:它会控制你的
 it will control your:它将控制你的
+it will copy:它将复制
+it will correct:它会正确的
 it will correctly:它将正确地
 it will cost about:它将花费大约
 it will cost around:它将花费大约
+it will cost eight:它将花费八
 it will cost me:它将花费我
+it will cost more:它会花费更多
 it will cost our:它将花费我们的
 it will cost them:它将花费他们
+it will cost us:它会花费我们
 it will cost you:它会花费你
 it will cost you:它将花费你
 it will cost:它将花费
@@ -7439,6 +8384,7 @@ it will cover:它将涵盖
 it will cover:它将覆盖
 it will create a new:它将创建一个新的
 it will create a:它将创造一个
+it will create an:它将创造一个
 it will create employment:它将创造就业
 it will create growth:它会创造增长
 it will create more:它将创造更多
@@ -7450,15 +8396,20 @@ it will cross:它将穿越
 it will cue:它会提示
 it will cut:它将切割
 it will damage our:它将损害我们的
+it will damage you:它将损坏你
 it will damage your:它将损坏你的
+it will damage:它会损坏
 it will decide china:它将决定中国
 it will decide my:它将决定我的
 it will decode:它将解码
 it will decompose:它将分解
+it will decrease once:它会减少一次
 it will define a:它会定义一
 it will define these:它将定义这些
+it will define:它将定义
 it will deform:它将变形
 it will demand and:它将需求和
+it will deploy demand:它将部署需求
 it will deploy:它会部署
 it will deploy:它将部署
 it will describe how to:它将描述如何
@@ -7469,6 +8420,7 @@ it will destroy the:它将摧毁这
 it will destroy you:它会摧毁你
 it will destroy you:它将摧毁你
 it will detect you are:它会检测你是
+it will detect you:它会检测你
 it will detect:它会检测
 it will deter future:它将阻止未来的
 it will deter:它会阻止
@@ -7485,7 +8437,9 @@ it will display a:它将显示一
 it will display a:它将显示一个
 it will display more:它会显示更多
 it will display text:它将显示文本
+it will display you:它会显示你
 it will display your:它会显示你的
+it will display:它将显示
 it will dissolve:它会溶解
 it will dissolve:它将溶解
 it will do an:它会做一个
@@ -7494,7 +8448,12 @@ it will do its:它将做它的
 it will do many:它会做很多
 it will do:它会做
 it will do:它将做
+it will download:它会下载
+it will download:它将下载
+it will dull:它会钝
+it will eat:它会吃
 it will edu:它会教育
+it will effect all:它将影响所有
 it will effectively balance:它将有效地平衡
 it will effectively improve:它将有效地提高
 it will effectively improve:它将有效地改善
@@ -7520,6 +8479,7 @@ it will encourage users:它会鼓励用户
 it will encourage:它将鼓励
 it will end:它会结束
 it will end:它将结束
+it will enter:它将进入
 it will establish a:它将建立一
 it will establish a:它将建立一个
 it will establish an:它将建立一个
@@ -7535,12 +8495,15 @@ it will explore and:它将探索和
 it will explore current:它将探索当前
 it will explore different:它将探索不同的
 it will explore:它将探索
+it will extend:它将扩展
 it will fall:它会落下
+it will feel real:它会感觉真的
 it will feel:它会感觉
 it will fight to:它将战斗到
 it will finally:它将最终
 it will find a:它将发现一个
 it will finish:它将结束
+it will flow:它会流动
 it will fly:它会飞
 it will fly:它将飞
 it will focus on innovation:它将专注于创新
@@ -7554,17 +8517,22 @@ it will forever:它会永远
 it will generate a:它将生成一个
 it will generate all:它会生成所有
 it will generate an:它会生成一个
+it will generate you:它会生成你
 it will generate your:它会生成你的
+it will generate:它将生成
+it will get a:它会得到一个
 it will get many:它会得到很多
 it will get some:它会得到一些
 it will get you:它会得到你
 it will get:它会得到
 it will get:它将得到
 it will give all:它会给所有
+it will give all:它会给所有的
 it will give me:它会给我
 it will give me:它将给我
 it will give more:它将给更多
 it will give news:它会给新闻
+it will give product design:它将给产品设计
 it will give product:它将给产品
 it will give researchers:它将给研究人员
 it will give students:它会给学生
@@ -7581,6 +8549,7 @@ it will give your:它会给你的
 it will give:它会给
 it will give:它将给
 it will go there:它会去那里
+it will go to india:它会去到印度
 it will go to:它会去到
 it will go:它会去
 it will gradually:它会逐渐地
@@ -7606,6 +8575,7 @@ it will have:它会有
 it will have:它将有
 it will help all of us:它将帮助我们所有人
 it will help america:它将帮助美国
+it will help american:它将帮助美国人
 it will help americans:它将帮助美国人
 it will help analyze:它将帮助分析
 it will help any:它将帮助任何
@@ -7622,9 +8592,13 @@ it will help give:它将帮助给
 it will help her:它会帮助她的
 it will help him:它将帮助他
 it will help if you:它将帮助如果你
+it will help if:它将帮助如果
 it will help india:它将帮助印度
 it will help keep:它将帮助保持
 it will help maine:它将帮助缅因州
+it will help many:它会帮助很多
+it will help me:它会帮助我
+it will help me:它将帮助我
 it will help new:它将帮助新的
 it will help organisation:它将帮助组织
 it will help organizations:它将帮助组织
@@ -7667,18 +8641,22 @@ it will help you understand:它会帮助你理解
 it will help you understand:它将帮助你理解
 it will help you win:它将帮助你赢得
 it will help you:它会帮助你
+it will help you:它会帮助你们
 it will help you:它将帮助你
 it will help:它将帮助
 it will hide it:它会隐藏它
+it will hide you:它会隐藏你
 it will hide your:它会隐藏你的
 it will hinder:它会妨碍
 it will hit him:它会打击他
 it will hit:它会打击
+it will hold:它将拥有
 it will hurt a:它将伤害一
 it will hurt consumers:它会伤害消费者
 it will hurt him:它会伤害他
 it will hurt him:它将伤害他
 it will hurt if you:它会伤害如果你
+it will hurt if:它会伤害如果
 it will hurt more:它会伤害更多
 it will hurt their:它会伤害他们的
 it will hurt them:它会伤害他们
@@ -7689,7 +8667,11 @@ it will identify and:它将识别和
 it will identify:它将识别
 it will ignore the:它会忽略这
 it will ignore:它会忽略
+it will impact communities:它将影响社区
+it will impact you:它会影响你
 it will impact your:它会影响你的
+it will impact:它会影响
+it will impact:它将影响
 it will improve network:它将提高网络
 it will improve our:它将改进我们的
 it will improve safety:它将提高安全
@@ -7720,12 +8702,15 @@ it will include three:它将包括三
 it will include town:它将包括城镇
 it will include:它将包括
 it will increase and:它将增加和
+it will increase concentration:它会增加浓度
 it will increase efficiency:它将增加效率
 it will increase human:它会增加人
 it will increase insulin:它会增加胰岛素
 it will increase more than:它将增加超过
 it will increase product:它将增加产品
 it will increase their:它将增加他们的
+it will increase you:它会增加你
+it will increase you:它将增加你
 it will increase your:它会增加你的
 it will increase your:它将增加你的
 it will increase:它会增加
@@ -7735,11 +8720,13 @@ it will increasingly:它将越来越多地
 it will infect the:它会感染这
 it will infect:它会感染
 it will influence my:它将影响我的
+it will influence:它将影响
 it will install some:它会安装一些
 it will install:它将安装
 it will interpret a:它将解释一个
 it will invest more than:它将投资超过
 it will invest:它将投资
+it will invite western:它将邀请西方
 it will jump:它会跳
 it will just require:它将只需要
 it will keep all:它将保持所有
@@ -7747,37 +8734,52 @@ it will keep time:它将保持时间
 it will keep you:它会保持你
 it will keep:它会保持
 it will keep:它将保持
+it will kill:它会杀
 it will kill:它将杀
+it will know you:它会知道你
 it will know your:它会知道你的
+it will know:它将知道
 it will lack:它将缺乏
 it will launch a:它会发射一
 it will lead a:它将领导一个
+it will lead:它将领导
 it will leak:它会泄漏
 it will leave me:它将离开我
 it will leave you:它会离开你
+it will leave:它将离开
 it will legislate:它将立法
 it will let industry:它会让工业
 it will let them:它会让他们
 it will let you know:它会让你知道
 it will let you:它会让你
+it will let:它会让
 it will limit america:它将限制美国
 it will limit human:它将限制人类
 it will limit:它会限制
 it will limit:它将限制
 it will link:它将连接
+it will link:它将链接
 it will load and:它会加载和
 it will load:它会加载
 it will load:它将加载
 it will lock:它将锁
+it will look:它会看
+it will look:它将看
 it will love you:它会爱你
+it will lower you:它会降低你
 it will lower your:它会降低你的
+it will lower:它会降低
 it will lower:它将降低
 it will maintain and:它将维护和
 it will make money:它会赚钱
 it will manage and:它将管理和
+it will manage you:它会管理你
 it will manage your:它会管理你的
+it will manage:它会管理
 it will manage:它将管理
+it will manufacture many:它会制造很多
 it will match any:它会匹配任何
+it will match:它会匹配
 it will match:它将匹配
 it will measure:它将测量
 it will mobilize all:它会动员所有
@@ -7816,22 +8818,29 @@ it will no longer receive:它将不再收到
 it will no longer support:它将不再支持
 it will no longer use:它将不再使用
 it will no longer:它将不再
+it will no:它将不
 it will obtain another:它将获得另一个
 it will obtain global:它将获得全球
 it will offer a:它会提供一个
 it will offer a:它将提供一
 it will offer a:它将提供一个
+it will offer all:它将提供所有的
 it will offer an:它将提供一个
 it will offer high:它将提供高
+it will offer more:它会提供更多
+it will offer patient:它将提供患者
 it will offer satellite:它将提供卫星
 it will offer technical support:它将提供技术支持
 it will offer three:它将提供三
+it will offer:它会提供
 it will offer:它将提供
 it will once again be:它将再次成为
 it will once again:它将再次
 it will open a new:它会打开一个新的
+it will open a:它会打开一个
 it will open a:它将打开一个
 it will open their:它会打开他们的
+it will open you:它会打开你
 it will open your:它会打开你的
 it will open:它会开
 it will open:它会打开
@@ -7841,14 +8850,18 @@ it will optimize financing:它将优化融资
 it will organize and:它将组织和
 it will organize:它会组织
 it will out:它将外
+it will output:它将输出
 it will overall:它将整体
 it will overflow to:它会溢出到
+it will own a:它将拥有一
 it will own:它将拥有
 it will participate:它将参与
+it will participate:它将参加
 it will perform a:它将执行一个
 it will pop up a:它会弹出一个
 it will pop up an:它会弹出一个
 it will prepare:它将准备
+it will press:它会按
 it will prevent access:它会阻止访问
 it will prevent any:它将阻止任何
 it will prevent earth:它将阻止地球
@@ -7903,6 +8916,8 @@ it will purchase more:它将购买更多
 it will purchase:它将购买
 it will push:它将推
 it will put a:它将放一个
+it will put off:它将推迟
+it will put:它将放
 it will quit:它将退出
 it will random:它会随机
 it will reach a:它将达到一个
@@ -7911,10 +8926,13 @@ it will reach the:它将达到这
 it will reach:它将达到
 it will read:它会读
 it will receive:它将收到
+it will record you:它会记录你
 it will record your:它会记录你的
+it will record:它会记录
 it will recover:它会恢复
 it will redefine:它将重新定义
 it will redirect to a:它将重定向到一个
+it will redirect to:它将重定向到
 it will reduce carbon emission:它将减少碳排放
 it will reduce data:它将减少数据
 it will reduce eye:它会减少眼睛
@@ -7952,12 +8970,14 @@ it will require:它将需要
 it will reset:它将重置
 it will resolve a:它将解决一个
 it will restore the:它将恢复这
+it will retain:它将保持
 it will return a:它会返回一个
 it will return a:它将返回一个
 it will return all:它将返回所有
 it will return an:它会返回一个
 it will return an:它将返回一个
 it will return to:它会回到
+it will return to:它将返回到
 it will return with:它将返回与
 it will return you:它会返回你
 it will return:它会返回
@@ -7977,8 +8997,11 @@ it will run you:它将运行你
 it will run:它会运行
 it will run:它将运行
 it will satisfy all your:它将满足你所有的
+it will save you:它将保存你
+it will save:它会保存
 it will say:它会说
 it will say:它将说
+it will search you:它会搜索你
 it will search your:它会搜索你的
 it will select a:它将选择一个
 it will select:它将选择
@@ -7989,6 +9012,7 @@ it will send a:它将发送一个
 it will send and:它将发送和
 it will send request:它将发送请求
 it will send signals:它会发送信号
+it will send:它将发送
 it will set or:它将设置或
 it will set:它将设置
 it will share:它将分享
@@ -8006,13 +9030,17 @@ it will simplify the:它将简化这
 it will simply:它将简单地
 it will smile or:它会微笑或
 it will soften:它会软化
+it will solve his:它将解决他的
 it will solve:它会解决
 it will solve:它将解决
+it will soon be:它将很快成为
 it will soon become:它将很快成为
 it will soon begin:它将很快开始
+it will soon close:它将很快关闭
 it will soon fly:它会很快飞
 it will soon offer:它将很快提供
 it will soon stop:它将很快停止
+it will soon:它会很快
 it will soon:它将很快
 it will speak:它会说话
 it will start an:它将开始一个
@@ -8025,6 +9053,7 @@ it will still attempt:它将仍然尝试
 it will still use:它将仍然使用
 it will still:它将仍然
 it will stop accept:它将停止接受
+it will stop bullet:它会停止子弹
 it will stop load:它将停止加载
 it will stop send:它将停止发送
 it will stop support:它将停止支持
@@ -8036,30 +9065,42 @@ it will strengthen our:它将加强我们的
 it will strengthen:它将加强
 it will study a:它将研究一个
 it will study mars:它将研究火星
+it will study:它将研究
 it will suck:它会吸
 it will suit our:它将适合我们的
+it will suit us:它将适合我们
 it will suit you:它会适合你
+it will suit:它将适合
+it will support application programming interface:它将支持应用程序编程接口
 it will support application:它将支持应用程序
 it will support art:它将支持艺术
 it will support future:它将支持未来的
 it will support research:它将支持研究
+it will support three:它将支持三
 it will support up:它将支持向上
 it will support:它将支持
 it will sustain:它将持续
 it will target:它将目标
 it will teach him:它会教他
 it will teach him:它将教他
+it will teach us:它会教我们
 it will teach you:它会教你
 it will teach you:它将教你
 it will teach your:它将教你的
+it will teach:它将教
 it will tell reader:它会告诉读者
+it will tell us:它会告诉我们
+it will tell us:它将告诉我们
 it will tell you:它会告诉你
 it will tell you:它将告诉你
+it will tell:它将告诉
 it will test and:它将测试和
 it will test limit:它将测试限制
 it will test new:它将测试新的
 it will test this:它将测试这
+it will test you:它将测试你
 it will test your:它将测试你的
+it will test:它将测试
 it will thaw:它会解冻
 it will threat:它将威胁
 it will throw:它将抛
@@ -8068,13 +9109,17 @@ it will train them:它将训练他们
 it will train you:它会训练你
 it will travel:它将旅行
 it will try:它将尝试
+it will twist you:它会扭曲你
 it will twist your:它会扭曲你的
 it will twist:它将扭曲
+it will unlock:它将解锁
+it will update:它将更新
 it will use a:它将使用一
 it will use a:它将使用一个
 it will use all:它将使用所有
 it will use artificial intelligence:它将使用人工智能
 it will use blockchain technology:它将使用区块链技术
+it will use blockchain:它将使用区块链
 it will use height:它将使用高度
 it will use laser:它将使用激光
 it will use lightning network:它将使用闪电网络
@@ -8090,6 +9135,7 @@ it will use:它将使用
 it will utilize:它将利用
 it will very directly:它将非常直接地
 it will vote against:它将投票反对
+it will vote:它将投票
 it will wait:它会等待
 it will wait:它将等待
 it will welcome visitors:它将欢迎游客
@@ -8109,6 +9155,7 @@ it with a:它与一
 it with a:它与一个
 it with africa:它与非洲
 it with alcohol:它与酒精
+it with all others:它与所有其他人
 it with all our weight:它与我们所有的重量
 it with an:它与一个
 it with animal fat:它与动物脂肪
@@ -8120,7 +9167,9 @@ it with different languages:它与不同的语言
 it with drugs and:它与毒品和
 it with elegance:它与优雅
 it with eraser:它与橡皮擦
+it with etoposide:它与依托泊苷
 it with food:它与食物
+it with friends:它与朋友
 it with goldman sachs:它与高盛
 it with google and:它与谷歌与
 it with him:它与他
@@ -8133,9 +9182,12 @@ it with intel:它与英特尔
 it with interest:它与兴趣
 it with life:它与生活
 it with love:它与爱
+it with many effects:它与许多影响
 it with mattress:它与床垫
 it with me:它与我
+it with meat:它与肉
 it with memory and:它与记忆和
+it with multiple inheritance:它与多重继承
 it with my eye:它与我的眼睛
 it with my finger:它与我的手指
 it with my phone:它与我的电话
@@ -8144,6 +9196,7 @@ it with other applications:它与其他的应用程序
 it with our brand:它与我们的品牌
 it with our photography:它与我们的摄影
 it with passion and:它与激情和
+it with products:它与产品
 it with religion:它与宗教
 it with revolution:它与革命
 it with science and:它与科学和
@@ -8151,6 +9204,7 @@ it with stress:它与压力
 it with teach:它与教
 it with their:它与他们的
 it with these vibration:它与这些振动
+it with third-party:它与第三方
 it with this:它与这
 it with trade goods:它与贸易商品
 it with us:它与我们
@@ -8179,6 +9233,7 @@ it workers:它工人
 it worry:它担心
 it worsen:它恶化
 it worship:它崇拜
+it would accelerate discussion:它将加速讨论
 it would accelerate:它将加速
 it would accomplish a:它将完成一
 it would achieve:它将实现
@@ -8196,6 +9251,7 @@ it would attract:它将吸引
 it would awake:它将唤醒
 it would award:它将授予
 it would be a:它将成为一
+it would be a:它将成为一个
 it would be:它将成为
 it would become a:它将成为一
 it would become my:它将成为我的
@@ -8208,17 +9264,25 @@ it would begin seek:它将开始寻找
 it would begin training:它将开始训练
 it would begin:它将开始
 it would break everything:它将打破一切
+it would break her:它将打破她的
 it would break poor:它将打破贫穷的
 it would break their:它将打破他们的
+it would break:它将打破
 it would buy:它将买
 it would cancel about:它将取消大约
 it would cause:它将引起
 it would cease publication:它将停止出版
+it would challenge:它将挑战
 it would change china:它将改变中国
+it would change commerce:它将改变商业
 it would change history:它将改变历史
 it would change how:它将改变如何
 it would change:它将改变
+it would clear:它将清除
+it would close factories:它将关闭工厂
 it would close:它将关闭
+it would combine:它将合并
+it would come:它将来
 it would complete the:它将完成这
 it would consider the:它将考虑这
 it would consider:它将考虑
@@ -8226,18 +9290,25 @@ it would contain austria:它将包含奥地利
 it would continue protect:它将继续保护
 it would continue:它将继续
 it would cost about:它将花费大约
+it would cost banks:它将花费银行
+it would cost more:它将花费更多
 it would cost:它将成本
 it would cost:它将花费
+it would cover national park:它将涵盖国家公园
 it would cover:它将涵盖
 it would cover:它将覆盖
 it would create a new:它将创建一个新的
 it would create a:它将创造一个
+it would create an:它将创造一个
 it would create:它将创造
+it would cross:它将穿越
 it would cut off:它将切断
+it would decrease:它将减少
 it would destroy their:它将摧毁他们的
 it would deter all:它将阻止所有
 it would do its:它将做它的
 it would effect every:它将影响每一个
+it would effect:它将影响
 it would effectively balance:它将有效地平衡
 it would effectively:它将有效地
 it would eliminate all:它将消除所有
@@ -8248,10 +9319,13 @@ it would encourage citizens:它将鼓励公民
 it would encourage eu:它将鼓励欧盟
 it would encourage:它将鼓励
 it would end my life:它将结束我的生命
+it would end my:它将结束我的
+it would end with:它将结束与
 it would establish:它将建立
 it would exist:它将存在
 it would focus on japan:它将专注于日本
 it would focus on revenue:它将专注于收入
+it would free it:它将释放它
 it would free itself:它将释放它自己
 it would get:它将得到
 it would give eric:它将给埃里克
@@ -8261,12 +9335,16 @@ it would handle three:它将处理三
 it would have a:它将有一
 it would have a:它将有一个
 it would have an:它将有一个
+it would have:它将有
 it would help if i:它将帮助如果我
 it would help if we:它将帮助如果我们
 it would help if you:它将帮助如果你
+it would help if:它将帮助如果
 it would help kraft heinz:它将帮助卡夫亨氏
+it would help me:它将帮助我
 it would help people:它将帮助人们
 it would help us:它将帮助我们
+it would help you:它将帮助你
 it would help:它将帮助
 it would hire:它将雇用
 it would improve china:它将改善中国
@@ -8276,8 +9354,12 @@ it would include a:它将包括一个
 it would include production:它将包括生产
 it would include:它将包括
 it would incorporate:它将合并
+it would increase:它将增加
 it would invest:它将投资
+it would kill:它将杀
 it would know how to:它将知道如何
+it would leave:它将离开
+it would limit:它将限制
 it would link:它将连接
 it would maintain a:它将维护一个
 it would match her:它将匹配她的
@@ -8308,6 +9390,7 @@ it would offer some:它将提供一些
 it would offer:它将提供
 it would open many:它将打开许多
 it would open:它将开
+it would open:它将打开
 it would perform a:它将执行一
 it would prohibit:它将禁止
 it would protect all:它将保护所有
@@ -8318,8 +9401,10 @@ it would provide an:它将提供一个
 it would provide:它将提供
 it would purchase:它将购买
 it would push:它将推
+it would quit:它将退出
 it would reach:它将达到
 it would recognize:它将识别
+it would record many:它将记录许多
 it would record:它将记录
 it would redefine my:它将重新定义我的
 it would reduce:它将减少
@@ -8332,9 +9417,14 @@ it would require companies:它将要求公司
 it would require the u.s.:它将要求美国
 it would require:它将要求
 it would require:它将需要
+it would restrict:它将限制
 it would return:它将返回
 it would reveal your:它将揭示你的
 it would run a:它将运行一个
+it would run:它将运行
+it would sell:它将出售
+it would send a:它将发送一个
+it would send:它将发送
 it would set:它将设置
 it would show a:它将显示一个
 it would show him:它将显示他
@@ -8345,22 +9435,32 @@ it would soon restrict:它将很快限制
 it would soon:它将很快
 it would start allow:它将开始允许
 it would start:它将开始
+it would stop accept:它将停止接受
 it would stop or:它将停止或
 it would stop plastic:它将停止塑料
+it would stop providing:它将停止提供
+it would stop using:它将停止使用
 it would stop:它将停止
 it would strengthen:它将加强
 it would suit yoga:它将适合瑜伽
 it would support all:它将支持所有
 it would support bitcoin:它将支持比特币
 it would support china:它将支持中国
+it would support legislation:它将支持立法
 it would support:它将支持
+it would tell us:它将告诉我们
+it would unlock:它将解锁
 it would use a:它将使用一个
 it would use more:它将使用更多
 it would use qualcomm:它将使用高通
 it would use:它将使用
 it would violate international human rights law:它将违反国际人权法
+it would win her:它将赢得她的
 it would work only:它将工作只有
+it would work:它将工作
+it would wreck:它将破坏
 it would:它将
+it wreck:它破坏
 it write:它写
 it year:它年
 it yet:它还

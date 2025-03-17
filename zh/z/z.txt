@@ -980,6 +980,7 @@ zebra cannot:斑马不能
 zebra car:斑马汽车
 zebra change:斑马改变
 zebra child protection:斑马儿童保护
+zebra child:斑马儿童
 zebra companies are:斑马公司是
 zebra companies:斑马公司
 zebra cookie:斑马饼干
@@ -1013,6 +1014,7 @@ zebra philosophy:斑马哲学
 zebra pleco:斑馬下鈎鯰
 zebra population:斑马种群
 zebra print:斑马打印
+zebra real:斑马真的
 zebra rescue team member:斑马救援队成员
 zebra rescue:斑马救援
 zebra ridge:斑馬嶺
@@ -1022,6 +1024,9 @@ zebra skin:斑马皮肤
 zebra spinyeel:條紋刺鰍
 zebra style:斑马风格
 zebra system:斑马系统
+zebra technologies complete:斑马技术完成
+zebra technologies corporation:斑马技术公司
+zebra technologies:斑马技术
 zebra technologies:斑马技术公司
 zebra technology:斑马技术
 zebra to giraffe:斑马到长颈鹿
@@ -1086,6 +1091,8 @@ zebrafish pigment:斑马鱼色素
 zebrafish platform:斑马鱼平台
 zebrafish provide:斑马鱼提供
 zebrafish research:斑马鱼研究
+zebrafish resource center:斑马鱼资源中心
+zebrafish resource:斑马鱼资源
 zebrafish retina:斑马鱼视网膜
 zebrafish show:斑马鱼显示
 zebrafish sleep:斑马鱼睡
@@ -1213,6 +1220,7 @@ zeiskam:蔡斯卡姆
 zeiss planar:普拉纳结构
 zeitgeist and:时代精神与
 zeitgeist and:时代精神和
+zeitgeist asset management enter:时代精神资产管理进入
 zeitgeist asset management:时代精神资产管理
 zeitgeist conference:时代精神会议
 zeitgeist is:时代精神是
@@ -1320,6 +1328,11 @@ zen and the art of motorcycle maintenance:禅与摩托车维修艺术
 zen and:禅宗与
 zen and:禅宗和
 zen approach:禅宗方法
+zen buddhism and:禅宗佛教和
+zen buddhism has:禅宗佛教有
+zen buddhism help:禅宗佛教帮助
+zen buddhism is:禅宗佛教是
+zen buddhism or:禅宗佛教或
 zen buddhism:禅宗佛教
 zen buddhist:禅宗佛教徒
 zen calm:禅宗平静
@@ -1337,23 +1350,30 @@ zen exercise:禅宗练习
 zen experience:禅宗体验
 zen follower:禅宗追随者
 zen garden and a:禅宗花园和一个
+zen garden and:禅宗花园和
+zen garden is:禅宗花园是
 zen garden:禅宗花园
 zen habit:禅宗习惯
+zen has:禅宗有
 zen in japan:禅宗在日本
 zen institutions:禅宗机构
 zen is:禅宗是
 zen koan is:禅宗公案是
 zen koan:禅宗公案
+zen koi is free:禅宗锦鲤是免费的
 zen koi:禅宗锦鲤
 zen literature and:禅宗文学和
 zen literature:禅宗文学
+zen master:禅宗大师
 zen master:禪師
 zen may be considered:禅宗可以被视为
 zen may:禅宗可以
 zen meditation and:禅坐和
 zen meditation is:禅坐是
 zen meditation:禅坐
+zen meditation:禅宗冥想
 zen mode:禅宗模式
+zen monastery:禅宗修道院
 zen monastery:禅宗寺庙
 zen monk:禅宗僧侣
 zen music:禅宗音乐
@@ -1362,6 +1382,7 @@ zen now:禅宗现在
 zen of:禅宗的
 zen or:禅宗或
 zen paradox:禅宗悖论
+zen philosophy and meditation:禅宗哲学和冥想
 zen philosophy:禅宗哲学
 zen practice:禅宗实践
 zen priest:禅宗祭司
@@ -1383,6 +1404,7 @@ zen studies:禅宗研究
 zen study:禅宗研究
 zen style design of:禅宗风格设计的
 zen style:禅宗风格
+zen tea:禅宗茶
 zen teach:禅宗教
 zen temple:禅宗庙
 zen term:禅宗术语
@@ -1392,6 +1414,7 @@ zen training:禅宗训练
 zen wisdom:禅宗智慧
 zen wong:俊倩
 zen writer:禅宗作家
+zen-buddhism or:禅宗佛教或
 zen:禅宗
 zenaida dove:鳴哀鴿
 zenaida doves:哀鸽属
@@ -1497,13 +1520,17 @@ zenit:澤尼特
 zenith and nadir:天顶和天底
 zenith and speculation:天顶和投机
 zenith and:天顶和
+zenith angle:天顶角
 zenith as well as:天顶以及
+zenith bank was:天顶银行是
+zenith bank:天顶银行
 zenith bank:贊尼特銀行
 zenith camera is:天頂攝影機是
 zenith camera:天頂攝影機
 zenith can:天顶可以
 zenith city prison:天顶城市监狱
 zenith city:天顶城市
+zenith direction and:天頂方向和
 zenith electronics:天頂電子
 zenith glacier:天頂冰川
 zenith is:天顶是
@@ -1513,9 +1540,12 @@ zenith of:天顶的
 zenith orbit:天顶轨道
 zenith plateau:天顶高原
 zenith pocket watch:天顶怀表
+zenith satellite system:天顶卫星系统
+zenith satellite systems:天顶卫星系统
 zenith satellite:天顶卫星
 zenith steel:天顶钢
 zenith telescope:天頂望遠鏡
+zenith to horizon:天顶到地平线
 zenith to:天顶到
 zenith was:天顶是
 zenith:天頂
@@ -1663,6 +1693,7 @@ zero applications:零应用程序
 zero apps:零应用程序
 zero are:零是
 zero argument:零参数
+zero art:零艺术
 zero as long as:零只要
 zero asset:零资产
 zero assets:零资产
@@ -1679,6 +1710,7 @@ zero automation:零自动化
 zero average:零平均
 zero axis:零轴
 zero back:零背
+zero background technique:零背景技术
 zero background:零背景
 zero baggage:零行李
 zero balance transfer:零平衡传输
@@ -1687,6 +1719,7 @@ zero band:零带
 zero bar:零酒吧
 zero barrel:零桶
 zero based numbering:從零開始的編號
+zero be:零成为
 zero big bank:零大银行
 zero big:零大
 zero birth rate:零出生率
@@ -1695,6 +1728,7 @@ zero bit:零位元
 zero bleeding:零出血
 zero blessing:零祝福
 zero blog:零博客
+zero blood:零血
 zero boilerplate:零样板
 zero books:零书
 zero branco:泽罗布兰科
@@ -1714,13 +1748,21 @@ zero can:零能
 zero capacity:零容量
 zero capital gains tax is:零资本利得税是
 zero capital gains tax:零资本利得税
+zero carbon buildings commitment:零碳建筑承诺
 zero carbon buildings:零碳建筑
 zero carbon center is:零碳中心是
 zero carbon center:零碳中心
+zero carbon design certification:零碳设计认证
+zero carbon design:零碳设计
 zero carbon dioxide:零二氧化碳
 zero carbon economy:零碳经济
 zero carbon emission village:零碳排放村
 zero carbon emission:零碳排放
+zero carbon emissions and:零碳排放和
+zero carbon emissions goals:零碳排放目标
+zero carbon emissions means:零碳排放意味着
+zero carbon emissions target:零碳排放目标
+zero carbon emissions:零碳排放
 zero carbon energy carrier:零碳能量载体
 zero carbon energy source:零碳能源
 zero carbon energy target:零碳能源目标
@@ -1729,6 +1771,8 @@ zero carbon europe:零碳欧洲
 zero carbon footprint:零碳足跡
 zero carbon fuel:零碳燃料
 zero carbon future:零碳未来
+zero carbon housing:零碳住房
+zero carbon infrastructure:零碳基础设施
 zero carbon project:零碳项目
 zero carbon standards:零碳标准
 zero carbon systems:零碳系统
@@ -1746,6 +1790,7 @@ zero casualty:零伤亡
 zero celsius:零摄氏度
 zero certification:零认证
 zero chance:零机会
+zero chaplain:零牧师
 zero character:零字符
 zero characters:零字符
 zero charge:零收费
@@ -1762,6 +1807,7 @@ zero classification:零分类
 zero click attack:零点击攻击
 zero click:零点击
 zero client:零客户
+zero clients and:零客户和
 zero clients:零客户
 zero climate target:零气候目标
 zero climate:零气候
@@ -1820,8 +1866,10 @@ zero cuts:零削减
 zero cutting:零切割
 zero data loss:零数据损失
 zero data:零数据
+zero day attack:零日攻击
 zero day recover:零日恢复
 zero day threat:零日威胁
+zero day threats:零日威胁
 zero day viruses:零日病毒
 zero day vulnerability:零日攻击
 zero day:零日
@@ -1852,6 +1900,7 @@ zero determinant:零行列式
 zero deviation:零偏差
 zero devices:零设备
 zero difference:零差异
+zero digit is:零数字是
 zero digit:零数字
 zero dimension:零维度
 zero dimensional space:零維空間
@@ -1860,6 +1909,8 @@ zero discover:零发现
 zero discrimination and zero:零歧视和零
 zero discrimination day is:零歧视日是
 zero discrimination day:零歧视日
+zero discrimination is:零歧視是
+zero discrimination is:零歧视是
 zero discrimination:零歧視
 zero discrimination:零歧视
 zero discussion:零讨论
@@ -1867,6 +1918,7 @@ zero display:零显示
 zero distance:零距离
 zero distortion:零失真
 zero distribution:零分布
+zero divide:零除
 zero divisor:零因子
 zero dollar:零美元
 zero dollars:零美元
@@ -1921,6 +1973,8 @@ zero emission technologies:零排放技术
 zero emission transport:零排放运输
 zero emission truck:零排放卡车
 zero emission vehicle and:零排放车辆与
+zero emission vehicle infrastructure:零排放车辆基础设施
+zero emission vehicle tariff:零排放车辆关税
 zero emission vehicle technology:零排放车辆技术
 zero emission vehicle:零排放车辆
 zero emission vessel:零排放容器
@@ -1934,6 +1988,7 @@ zero emissions economy:零排放经济
 zero emissions engine:零排放发动机
 zero emissions hydrogen:零排放氢
 zero emissions of:零排放的
+zero emissions plan:零排放计划
 zero emissions target:零排放目标
 zero emissions transportation:零排放运输
 zero emissions vehicle:零排放车辆
@@ -1945,6 +2000,8 @@ zero encryption:零加密
 zero energy balance:零能量平衡
 zero energy building is:零碳建築是
 zero energy building:零碳建築
+zero energy building:零能源建筑
+zero energy buildings:零能源建筑
 zero energy density:零能量密度
 zero energy greenhouse:零能源溫室
 zero energy:零能源
@@ -1962,6 +2019,7 @@ zero euro:零欧元
 zero evaporation:零蒸发
 zero evidence:零证据
 zero exit status:零退出状态
+zero exit:零退出
 zero expectation:零期待
 zero experience:零体验
 zero experience:零经验
@@ -1979,6 +2037,7 @@ zero fertilizer:零肥料
 zero field splitting:零场分裂
 zero field:零字段
 zero fill:零填充
+zero film:零电影
 zero fish:零鱼
 zero float:零浮点数
 zero flux:零通量
@@ -1999,21 +2058,36 @@ zero goal:零目标
 zero goal:零目標
 zero goals:零目标
 zero gram:零克
+zero gravity and:零重力和
 zero gravity astronaut:零重力宇航员
 zero gravity can reduce:零重力可以减少
+zero gravity can:零重力可以
 zero gravity cause:零重力引起
+zero gravity combat:零重力战斗
+zero gravity conditions:零重力条件
+zero gravity corporation:零重力公司
 zero gravity environment:零重力环境
+zero gravity environments:零重力环境
+zero gravity european:零重力欧洲
 zero gravity experience:零重力体验
 zero gravity flight:零重力飞行
+zero gravity issues:零重力问题
 zero gravity position is:零重力位置是
+zero gravity position:零重力位置
 zero gravity research and:零重力研究和
 zero gravity research facility is:零重力研究设施是
 zero gravity research facility:零重力研究设施
+zero gravity research:零重力研究
+zero gravity simulation:零重力仿真
+zero gravity space travel:零重力太空旅行
+zero gravity space:零重力空間
 zero gravity sports:零重力运动
+zero gravity to:零重力到
 zero gravity:零重力
 zero greenhouse gas emissions:零温室气体排放
 zero greenhouse gas:零温室气体
 zero greenhouse-gas emissions:零温室气体排放
+zero greenhouse-gas:零温室气体
 zero growth action:零增长行动
 zero growth and:零增长和
 zero growth is possible:零增长是可能的
@@ -2028,6 +2102,7 @@ zero guarantee:零担保
 zero had never seen:零从未见过
 zero halal:零清真
 zero halliburton:零哈里伯顿
+zero harm to zero:零伤害到零
 zero harm:零伤害
 zero has:零有
 zero hate crime:零仇恨犯罪
@@ -2049,21 +2124,25 @@ zero human bank:零人类银行
 zero human:零人
 zero human:零人类
 zero hunger and healthy:零饥饿和健康
+zero hunger and:零饥饿和
 zero hunger challenge is:零饥饿挑战是
 zero hunger challenge:零饥饿挑战
 zero hunger equation:零饥饿方程
 zero hunger future:零饥饿未来的
 zero hunger goal:零饥饿目标
 zero hunger goals:零饥饿目标
+zero hunger target:零饥饿目标
 zero hunger world:零饥饿世界
 zero hunger:零饥饿
 zero ideal:零理想
 zero ideal:零理想的
 zero if and only if:零当且仅当
+zero illegal:零非法
 zero immigration:零移民
 zero impact factory:零影响工厂
 zero impact growth:零影响增长
 zero impact:零影响
+zero incident safety culture:零事故安全文化
 zero incident:零事故
 zero income means zero:零收入意味着零
 zero income tax:零所得稅
@@ -2077,6 +2156,7 @@ zero infrastructure:零基础设施
 zero initialize:零初始化
 zero ink:零墨水
 zero input:零输入
+zero insert:零插入
 zero insertion force:零插拔力插座
 zero installation:零安装
 zero instance identifier:零实例标识符
@@ -2084,12 +2164,19 @@ zero instance:零实例
 zero instruction set computer:零指令集
 zero intake:零摄入
 zero integer:零整数
+zero interest rate money:零利率貨幣
+zero interest rate policies:零利率政策
 zero interest rate policy:零利率
+zero interest rate policy:零利率政策
+zero interest rate:零利率
+zero interest-rate policy:零利率政策
+zero interest-rate:零利率
 zero interest:零兴趣
 zero interest:零利息
 zero introduce:零介绍
 zero investment:零投资
 zero investments:零投资
+zero iranian:零伊朗
 zero is a very:零是一个非常
 zero is acceptable:零是可接受的
 zero is an integer:零是一个整数
@@ -2113,6 +2200,7 @@ zero knowledge proof is:零知识证明是
 zero knowledge proof systems:零知识证明系统
 zero knowledge proof technologies:零知识证明技术
 zero knowledge proof technology:零知识证明技术
+zero knowledge proof:零知識證明
 zero knowledge proof:零知识证明
 zero knowledge protocol:零知识协议
 zero knowledge technology:零知识技术
@@ -2130,6 +2218,8 @@ zero levels:零水平
 zero limit:零限制
 zero limits state:零极限状态
 zero limits:零极限
+zero line is:零线是
+zero line means:零线意味着
 zero line:零线
 zero links:零链接
 zero liquid:零液体
@@ -2157,6 +2247,7 @@ zero matrix:零矩陣
 zero means:零意味着
 zero means:零意味著
 zero members:零成员
+zero mercury and carbon dioxide:零汞和二氧化碳
 zero mercury:零汞
 zero metal:零金属
 zero might:零可能
@@ -2169,11 +2260,13 @@ zero momentum:零动量
 zero money:零钱
 zero months:零月
 zero morphism:零態射
+zero most:零大多数
 zero must:零必须
 zero nation:零国家
 zero natural gas:零天然氣
 zero need:零需要
 zero negotiations:零谈判
+zero network:零网络
 zero newton:零牛顿
 zero no:零不
 zero now:零现在
@@ -2186,12 +2279,14 @@ zero of:零的
 zero offset:零偏移
 zero ohm:零歐姆
 zero oil:零油
+zero one:零一
 zero online:零在线
 zero only:零只有
 zero open:零开
 zero opportunities:零机会
 zero opportunity cost:零机会成本
 zero option:双零方案
+zero option:零选项
 zero or even:零或甚至
 zero or more function:零或更多函数
 zero or more outcome:零或更多结果
@@ -2199,6 +2294,7 @@ zero or more:零或更多
 zero or near zero:零或接近零
 zero or negative number:零或负数
 zero or negative:零或负的
+zero or once:零或一次
 zero or one:零或一
 zero or protect:零或保护
 zero or still:零或静止的
@@ -2211,6 +2307,7 @@ zero ounce:零盎司
 zero output voltage:零输出电压
 zero output:零输出
 zero overprinting:零套印
+zero ozone:零臭氧
 zero packet loss:零丢包
 zero page:零页
 zero pages:零页
@@ -2223,19 +2320,28 @@ zero performance:零性能
 zero period:零周期
 zero period:零时期
 zero personality:零人格
+zero pet population growth:零宠物人口增长
 zero pet:零宠物
 zero phase angle:零相角
 zero picture:零照片
 zero plastic waste:零塑料垃圾
 zero plastic:零塑料
+zero player game:零玩家游戏
 zero player game:零玩家遊戲
+zero player:零玩家
 zero plus:零加
 zero pocket:零口袋
 zero point agreement:零点协议
+zero point and:零点和
+zero point energy field:零点能量场
 zero point energy is:零點能量是
+zero point energy:零点能量
 zero point energy:零點能量
 zero point field:零点场
 zero point module:零点模块
+zero point offset:零点偏移
+zero point or:零点或
+zero point two:零点二
 zero point:零点
 zero pointer:零指针
 zero points:零点
@@ -2244,7 +2350,9 @@ zero pollutant:零污染物
 zero pollution action plan:零污染行动计划
 zero pollution and zero:零污染与零
 zero pollution and:零污染和
+zero pollution emissions of:零污染排放的
 zero pollution emissions:零污染排放
+zero pollution of solar energy:零污染的太阳能
 zero pollution of:零污染的
 zero pollution vessel:零污染容器
 zero pollution:零污染
@@ -2265,6 +2373,8 @@ zero problem:零问题
 zero problems:零问题
 zero process:零处理
 zero processor:零处理器
+zero product defect:零产品缺陷
+zero product:零产品
 zero production downtime:零生产停机时间
 zero production:零生产
 zero productivity:零生产率
@@ -2277,6 +2387,7 @@ zero publicity:零宣传
 zero punctuation:零标点符号
 zero purchase:零购买
 zero quality loss:零质量损失
+zero quality of life:零质量的生活
 zero quality of:零质量的
 zero quality:零质量
 zero radiation:零辐射
@@ -2305,6 +2416,7 @@ zero revenue:零收入
 zero risk bias:零风险偏误
 zero risk device:零风险设备
 zero risk factor:零风险因素
+zero risk investments:零风险投资
 zero risk is an:零风险是一个
 zero risk of:零风险的
 zero risk value:零风险值
@@ -2331,6 +2443,8 @@ zero second:零秒
 zero security incident:零安全事故
 zero security system:零安全系统
 zero security:零安全
+zero self:零自我
+zero sensitive log:零敏感日志
 zero sensitive:零敏感
 zero service:零服务
 zero set:零设置
@@ -2359,6 +2473,7 @@ zero start:零开始
 zero starvation:零饥饿
 zero state:零州
 zero state:零状态
+zero strategy:零战略
 zero stress and zero:零压力和零
 zero stress:零压力
 zero structure:零结构
@@ -2393,19 +2508,30 @@ zero this:零这
 zero thought:零思想
 zero threat:零威胁
 zero time:零时间
+zero to a:零到一
+zero to death:零到死亡
+zero to design hero:零到设计英雄
 zero to five:零到五
+zero to four:零到四
+zero to game:零到游戏
 zero to hero and:零到英雄和
 zero to hero:零到英雄
+zero to nine:零到九
 zero to one hundred:零到一百
+zero to one point:零到一点
 zero to one:零到一
 zero to ten:零到十
 zero to three:零到三
+zero to zero:零到零
 zero to:零到
 zero tolerance and:零容忍和
 zero tolerance approach:零容忍方法
 zero tolerance attitude:零容忍态度
 zero tolerance culture:零容忍文化
+zero tolerance drug:零容忍毒品
+zero tolerance drug:零容忍药物
 zero tolerance food safety:零容忍食品安全
+zero tolerance food:零容忍食品
 zero tolerance immigration policy:零容忍移民政策
 zero tolerance immigration:零容忍移民
 zero tolerance is:零容忍是
@@ -2428,11 +2554,13 @@ zero transaction cost:零交易成本
 zero transaction fee:零交易费用
 zero transaction:零交易
 zero transactions:零交易
+zero transgender characters:零变性字符
 zero transgender:零变性
 zero transport:零运输
 zero trend:零趋势
 zero trust access security:零信任访问安全
 zero trust architecture:零信任安全模型
+zero trust enterprise or:零信任企业或
 zero trust enterprise security:零信任企业安全
 zero trust environments:零信任环境
 zero trust is a:零信任是一
@@ -2451,6 +2579,7 @@ zero understanding:零理解
 zero unemployment:零失業
 zero use or:零使用或
 zero use:零使用
+zero user:零用户
 zero users give:零用户给
 zero users:零用户
 zero usually:零通常
@@ -2468,14 +2597,20 @@ zero violence:零暴力
 zero visibility:零能見度
 zero volt:零伏特
 zero voltage switch:零电压开关
+zero voltage switch:零電壓開關
 zero voltage:零电压
 zero voltage:零電壓
 zero volume:零体积
 zero voting:零投票
+zero wait state:零等待状态
+zero wait time:零等待时间
 zero wait:零等待
 zero warning:零警告
 zero was good:零是好的
 zero was:零是
+zero waste cities:零垃圾城市
+zero waste life:零垃圾生活
+zero waste:零垃圾
 zero waste:零廢棄
 zero water:零水
 zero website:零网站
@@ -2497,6 +2632,7 @@ zero world:零世界
 zero yard:零码
 zero year:零年
 zero years:零年
+zero zero zero:零零零
 zero zero:零零
 zero-alcohol beer:零酒精啤酒
 zero-calorie drink:零卡路里饮料
@@ -2504,16 +2640,21 @@ zero-calorie intake with:零卡路里摄入与
 zero-calorie saccharin or:零卡路里糖精或
 zero-calorie sweetener:零卡路里甜味剂
 zero-carbon aluminium smelting:零碳铝冶炼
+zero-carbon ambassador:零碳大使
 zero-carbon building can:零碳建筑可以
 zero-carbon buildings:零碳建筑
 zero-carbon city:零碳城市
 zero-carbon economy:零碳经济
 zero-carbon education project:零碳教育项目
+zero-carbon electricity:零碳電
+zero-carbon emissions and:零碳排放和
 zero-carbon energy and:零碳能源和
 zero-carbon energy goals:零碳能源目标
 zero-carbon energy is:零碳能源是
+zero-carbon energy production:零碳能源生产
 zero-carbon energy source:零碳能源
 zero-carbon energy system:零碳能源系统
+zero-carbon energy systems:零碳能源系统
 zero-carbon energy technologies:零碳能源技术
 zero-carbon energy:零碳能源
 zero-carbon fuel:零碳燃料
@@ -2528,36 +2669,53 @@ zero-carbon product:零碳产品
 zero-carbon project:零碳项目
 zero-carbon ship:零碳船
 zero-carbon sources:零碳源
+zero-carbon technologies:零碳技术
+zero-carbon technology:零碳技术
 zero-carbon transport and:零碳运输和
 zero-carbon version:零碳版本
 zero-carbon vessel:零碳船
+zero-carbon world:零碳世界
 zero-click environment:零点击环境
 zero-commission e-commerce platform:零佣金电子商务平台
+zero-commission service:零佣金服务
+zero-commitment option:零承诺选项
 zero-configuration command:零配置命令
+zero-configuration network:零配置网络
+zero-configuration tool:零配置工具
 zero-copy protocol:零复制协议
 zero-cost abstraction:零成本抽象
 zero-cost download:零成本下载
 zero-cost index fund:零成本指数基金
+zero-cost platforms:零成本平台
 zero-cost transactions:零成本交易
+zero-day and:零日和
+zero-day attack:零日攻击
 zero-day auto:零日自动
+zero-day code:零日代码
 zero-day cyberattack:零日网络攻击
 zero-day file and:零日文件和
+zero-day file:零日文件
+zero-day is:零日是
 zero-day malware and:零日恶意软件和
 zero-day malware attack:零日恶意软件攻击
 zero-day malware:零日恶意软件
+zero-day protection and process:零日保护和过程
 zero-day protection:零日保护
 zero-day recover:零日恢复
 zero-day security:零日安全
+zero-day software:零日软件
 zero-day threat:零日威胁
 zero-day threats and:零日威胁和
 zero-day threats:零日威胁
 zero-day viruses:零日病毒
 zero-defect culture and:零缺陷文化和
 zero-defect quality:零缺陷质量
+zero-degree protest:零度抗议
 zero-degree weather:零度天气
 zero-distance communication:零距离沟通
 zero-distance employment:零距离就业
 zero-distance service:零距离服务
+zero-distortion technology:零失真技术
 zero-dollar agriculture:零美元农业
 zero-dollar difference:零美元差异
 zero-downtime deployment:零停机时间部署
@@ -2574,10 +2732,12 @@ zero-emission car will:零排放汽车将
 zero-emission car:零排放汽车
 zero-emission city:零排放城市
 zero-emission concept:零排放概念
+zero-emission economy:零排放经济
 zero-emission electric vehicles and:零排放电动汽车和
 zero-emission energy society:零排放能源社会
 zero-emission energy source:零排放能源
 zero-emission energy technology:零排放能源技术
+zero-emission energy to:零排放能源到
 zero-emission energy uses:零排放能源使用
 zero-emission energy:零排放能源
 zero-emission fuel cell electric vehicles:零排放燃料电池电动汽车
@@ -2586,6 +2746,7 @@ zero-emission fuel cell technology:零排放燃料电池技术
 zero-emission fuel cell:零排放燃料电池
 zero-emission fuel:零排放燃料
 zero-emission future:零排放未来的
+zero-emission hydrogen fuel cell:零排放氢燃料电池
 zero-emission hydrogen:零排放氢
 zero-emission infrastructure:零排放基础设施
 zero-emission nuclear energy is:零排放核能是
@@ -2634,6 +2795,7 @@ zero-emissions source:零排放源
 zero-emissions sources:零排放源
 zero-emissions standards:零排放标准
 zero-emissions strategy:零排放战略
+zero-emissions target:零排放目标
 zero-emissions technologies:零排放技术
 zero-emissions technology:零排放技术
 zero-emissions tesla:零排放特斯拉
@@ -2650,17 +2812,27 @@ zero-fee transactions:零费用交易
 zero-fuel airplane:零燃料飞机
 zero-fuel oil refining:零燃料油精炼
 zero-gravity airplane:零重力飛機
+zero-gravity combat:零重力戰鬥
+zero-gravity conditions:零重力条件
 zero-gravity environment:零重力环境
 zero-gravity environments and:零重力环境和
+zero-gravity environments:零重力环境
+zero-gravity flight:零重力飛行
 zero-gravity flight:零重力飞行
 zero-gravity football skills:零重力足球技巧
+zero-gravity football:零重力足球
+zero-gravity games and movies:零重力游戏和电影
 zero-gravity games and:零重力游戏和
+zero-gravity games:零重力游戏
+zero-gravity human:零重力人类
 zero-gravity of:零重力的
 zero-gravity photo:零重力照片
 zero-gravity research capacity:零重力研究能力
+zero-gravity research:零重力研究
 zero-gravity sequence:零重力序列
 zero-gravity space:零重力空間
 zero-gravity space:零重力空间
+zero-gravity to:零重力到
 zero-growth action:零增长行动
 zero-growth network:零增长网络
 zero-growth policies:零增长政策
@@ -2669,10 +2841,13 @@ zero-hour attack:零小时攻击
 zero-hours contract:零小时合同
 zero-hunger challenge:零饥饿挑战
 zero-interest car:零利息汽车
+zero-interest-rate policy:零利率政策
 zero-knowledge architecture:零知识架构
 zero-knowledge argument:零知识参数
+zero-knowledge company:零知识公司
 zero-knowledge components:零知识组件
 zero-knowledge cryptography:零知识密码学
+zero-knowledge encryption model:零知识加密模型
 zero-knowledge encryption services:零知识加密服务
 zero-knowledge encryption technology:零知识加密技术
 zero-knowledge end-to-end encryption:零知识端到端加密
@@ -2692,6 +2867,7 @@ zero-knowledge proof provides:零知识证明提供
 zero-knowledge proof technology:零知识证明技术
 zero-knowledge proof usually require:零知识证明通常需要
 zero-knowledge proof usually:零知识证明通常
+zero-knowledge proof:零知識證明
 zero-knowledge property:零知识属性
 zero-knowledge protocol:零知识协议
 zero-knowledge range:零知识范围
@@ -2705,8 +2881,15 @@ zero-knowledge-proof generation:零知识证明生成
 zero-length slice:零长度切片
 zero-marginal cost society:零边际成本社会
 zero-marginal-cost economy:零边际成本经济
+zero-one loss:零一损失
+zero-one sequences and:零一序列与
+zero-player game:零玩家游戏
+zero-point energy field:零点能量场
 zero-point energy is:零點能量是
+zero-point energy:零点能源
+zero-point energy:零点能量
 zero-point field:零点场
+zero-point set:零点设置
 zero-return assets:零返回资产
 zero-risk exit:零风险退出
 zero-sum game and double standard:零和博弈和双重标准
@@ -2729,6 +2912,7 @@ zero-tolerance initiative:零容忍倡议
 zero-tolerance laws:零容忍法律
 zero-tolerance marijuana:零容忍大麻
 zero-tolerance policies:零容忍政策
+zero-tolerance policy is:零容忍政策是
 zero-tolerance policy:零容忍政策
 zero-tolerance quality control:零容忍质量控制
 zero-tolerance regulatory policy:零容忍监管政策
@@ -2736,8 +2920,10 @@ zero-tolerance regulatory:零容忍监管
 zero-tolerance strategy:零容忍策略
 zero-tolerance test:零容忍测试
 zero-trust environments:零信任环境
+zero-trust network architecture:零信任网络架构
 zero-trust network security:零信任网络安全
 zero-trust network:零信任网络
+zero-trust security models:零信任安全模型
 zero-trust security:零信任安全
 zero-trust systems and:零信任系统和
 zero-value transactions still:零值交易仍然
@@ -5913,6 +6099,7 @@ zimbabwe and brazil:津巴布韦和巴西
 zimbabwe and burma:津巴布韦和缅甸
 zimbabwe and burundi:津巴布韦和布隆迪
 zimbabwe and cape verde:津巴布韦和佛得角
+zimbabwe and china convert:津巴布韦和中国转换
 zimbabwe and china:津巴布韦与中国
 zimbabwe and china:津巴布韦和中国
 zimbabwe and congo:津巴布韦与刚果
@@ -5923,7 +6110,9 @@ zimbabwe and indonesia:津巴布韦和印度尼西亚
 zimbabwe and kenya:津巴布韦和肯尼亚
 zimbabwe and malawi:津巴布韦和马拉维
 zimbabwe and many african countries:津巴布韦和很多非洲国家
+zimbabwe and many african:津巴布韦和很多非洲
 zimbabwe and mozambique:津巴布韦和莫桑比克
+zimbabwe and my mom:津巴布韦和我的妈妈
 zimbabwe and namibia also:津巴布韦和纳米比亚也
 zimbabwe and namibia will:津巴布韦和纳米比亚将
 zimbabwe and namibia:津巴布韦和纳米比亚
@@ -5932,6 +6121,7 @@ zimbabwe and niger:津巴布韦和尼日尔
 zimbabwe and nigeria:津巴布韦和尼日利亚
 zimbabwe and nigeria:辛巴威和奈及利亞
 zimbabwe and sierra leone:津巴布韦和塞拉利昂
+zimbabwe and somali:津巴布韦和索马里
 zimbabwe and somalia:津巴布韦和索马里
 zimbabwe and south africa:津巴布韦和南非
 zimbabwe and sri lanka:津巴布韦和斯里兰卡
@@ -5955,6 +6145,7 @@ zimbabwe association of:津巴布韦协会的
 zimbabwe association:津巴布韦协会
 zimbabwe at the olympics:奥林匹克运动会津巴布韦代表团
 zimbabwe at:津巴布韦在
+zimbabwe be:津巴布韦成为
 zimbabwe became:津巴布韦成为
 zimbabwe began:津巴布韦开始
 zimbabwe bird:津巴布韦鸟
@@ -5975,16 +6166,20 @@ zimbabwe craton:津巴布韦克拉通
 zimbabwe cricket:津巴布韦板球
 zimbabwe crisis:津巴布韦危机
 zimbabwe crocodile:津巴布韦鳄鱼
+zimbabwe culture:津巴布韦文化
 zimbabwe currency:津巴布韦货币
 zimbabwe defeat:津巴布韦击败
 zimbabwe defence forces:津巴布韦国防军
+zimbabwe defence:津巴布韦防卫
 zimbabwe defender:津巴布韦后卫
 zimbabwe demands:津巴布韦要求
 zimbabwe democracy institute:津巴布韦民主研究所
 zimbabwe democracy:津巴布韦民主
 zimbabwe dollars:津巴布韦美元
 zimbabwe economic recovery:津巴布韦经济复苏
+zimbabwe economy:津巴布韦经济
 zimbabwe election in some cases:津巴布韦选举在某些情况下
+zimbabwe election violence:津巴布韦选举暴力
 zimbabwe election:津巴布韦选举
 zimbabwe elections:津巴布韦选举
 zimbabwe elephant:津巴布韦大象
@@ -5994,6 +6189,7 @@ zimbabwe family:津巴布韦家庭
 zimbabwe finally:津巴布韦最终
 zimbabwe football association:津巴布韋足球協會
 zimbabwe fuel protests:津巴布韋燃油示威
+zimbabwe gov:津巴布韦政府
 zimbabwe government must:津巴布韦政府必须
 zimbabwe government online:津巴布韦政府在线
 zimbabwe government websites:津巴布韦政府网站
@@ -6003,11 +6199,13 @@ zimbabwe has been:津巴布韦已经
 zimbabwe has:津巴布韦有
 zimbabwe have:津巴布韦有
 zimbabwe high court:津巴布韦高等法院
+zimbabwe hotel:津巴布韦酒店
 zimbabwe human rights:津巴布韦人权
 zimbabwe improve:津巴布韦改善
 zimbabwe infrastructure:津巴布韦基础设施
 zimbabwe international book:津巴布韦国际书
 zimbabwe international trade:津巴布韦国际贸易
+zimbabwe international:津巴布韦国际
 zimbabwe investigate:津巴布韦调查
 zimbabwe invite:津巴布韦邀请
 zimbabwe is located in southern africa:津巴布韦位于南部非洲
@@ -6036,6 +6234,8 @@ zimbabwe olympic committee:辛巴威奧林匹克委員會
 zimbabwe once:津巴布韦一次
 zimbabwe once:津巴布韦曾经
 zimbabwe open university:津巴布韦开放大学
+zimbabwe open:津巴布韦开
+zimbabwe or afghan:津巴布韦或阿富汗
 zimbabwe or afghanistan:津巴布韦或阿富汗
 zimbabwe or cuba:津巴布韦或古巴
 zimbabwe or:津巴布韦或
@@ -6058,6 +6258,7 @@ zimbabwe president robert:津巴布韦总统罗伯特
 zimbabwe president they should:津巴布韦总统他们应该
 zimbabwe president:津巴布韦总统
 zimbabwe presidential election:津巴布韦总统选举
+zimbabwe prime minister:津巴布韦总理
 zimbabwe prison:津巴布韦监狱
 zimbabwe produce:津巴布韦生产
 zimbabwe project:津巴布韦项目
@@ -6074,6 +6275,7 @@ zimbabwe sample:津巴布韦样品
 zimbabwe sanctions:津巴布韦制裁
 zimbabwe says:津巴布韦说
 zimbabwe should:津巴布韦应该
+zimbabwe state:津巴布韦国家
 zimbabwe stone sculpture:津巴布韦石雕
 zimbabwe suddenly:津巴布韦突然
 zimbabwe teacher:津巴布韦教师
@@ -6082,19 +6284,24 @@ zimbabwe to:津巴布韦到
 zimbabwe tobacco revenue:津巴布韦烟草收入
 zimbabwe tobacco:津巴布韦烟叶
 zimbabwe tobacco:津巴布韦烟草
+zimbabwe today:津巴布韦今天
 zimbabwe tourism:津巴布韦旅游
 zimbabwe trillion:津巴布韦万亿
 zimbabwe troops:津巴布韦军队
+zimbabwe vice-president:津巴布韦副总统
 zimbabwe violence:津巴布韦暴力
 zimbabwe was:津巴布韦是
 zimbabwe was:辛巴威是
+zimbabwe who cannot access:津巴布韦谁不能访问
 zimbabwe who cannot:津巴布韦谁不能
 zimbabwe who:津巴布韦谁
 zimbabwe will achieve:津巴布韦将实现
 zimbabwe will be the:津巴布韦将成为这
+zimbabwe will be:津巴布韦将成为
 zimbabwe will invite western:津巴布韦将邀请西方
 zimbabwe will:津巴布韦将
 zimbabwe with:津巴布韦与
+zimbabwe would be a:津巴布韦将成为一个
 zimbabwe would:津巴布韦将
 zimbabwe:津巴布韦
 zimbabwe:辛巴威
@@ -6137,6 +6344,7 @@ zinc air batteries:锌空气电池
 zinc air battery operation:锌空气电池操作
 zinc air battery still:锌空气电池仍然
 zinc air:锌空气
+zinc alloy layer:锌合金层
 zinc alloy steel:锌合金钢
 zinc alloy:锌合金
 zinc also protect:锌也保护
@@ -6146,12 +6354,15 @@ zinc and acid:锌和酸
 zinc and aluminium:锌和铝
 zinc and cadmium:锌和镉
 zinc and calcium can:锌和钙可以
+zinc and calcium signal:锌和钙信号
 zinc and calcium signaling:锌和钙信号
 zinc and calcium:锌和钙
+zinc and chlorine:锌和氯
 zinc and chromium:锌和铬
 zinc and cloth:锌和布
 zinc and copper are:锌和铜是
 zinc and copper can:锌和铜可以
+zinc and copper markets:锌和铜市场
 zinc and copper resources:锌和铜资源
 zinc and copper:锌和铜
 zinc and cryolite salt:锌和冰晶石盐
@@ -6170,8 +6381,10 @@ zinc and molybdenum:锌和钼
 zinc and natural gas are:锌和天然气是
 zinc and nickel consumption:锌和镍消费
 zinc and nickel:锌和镍
+zinc and platinum:锌和铂
 zinc and potassium:锌和钾
 zinc and protein:锌和蛋白质
+zinc and selenium:锌与硒
 zinc and selenium:锌和硒
 zinc and sodium:锌和钠
 zinc and sulfur:锌和硫
@@ -6225,6 +6438,7 @@ zinc chromate:鉻酸鋅
 zinc cold:锌冷
 zinc committee:锌委员会
 zinc companies:锌企业
+zinc compound:锌化合物
 zinc compounds into:锌化合物进入
 zinc compounds replace lead:锌化合物替代铅
 zinc compounds replace:锌化合物替代
@@ -6252,6 +6466,7 @@ zinc finger:锌指
 zinc flower:锌花
 zinc fluoride:氟化锌
 zinc food:锌食品
+zinc four:锌四
 zinc from:锌从
 zinc gluconate:葡萄糖酸锌
 zinc group:锌组
@@ -6260,6 +6475,7 @@ zinc has:锌有
 zinc hinge:锌铰链
 zinc hydride:氢化锌
 zinc hydroxide:氫氧化鋅
+zinc hydroxide:锌氢氧化物
 zinc implant:锌植入物
 zinc in biology:生物学中的锌
 zinc industry:锌工业
@@ -6279,6 +6495,7 @@ zinc layer:锌层
 zinc lead:锌铅
 zinc level less than:锌水平小于
 zinc level:锌水平
+zinc levels are:锌水平是
 zinc levels lower:锌水平降低
 zinc levels:锌水平
 zinc loss:锌损失
@@ -6290,6 +6507,7 @@ zinc may prevent and:锌可以预防和
 zinc may:锌可以
 zinc mercury batteries:锌汞电池
 zinc mercury:锌汞
+zinc metal with hydrochloric acid:锌金属与盐酸
 zinc metal:锌金属
 zinc mineral is:锌矿物是
 zinc mineral:锌矿物
@@ -6307,6 +6525,7 @@ zinc or copper:锌或铜
 zinc or oxygen atom:锌或氧原子
 zinc or potassium:锌或钾
 zinc or tin:锌或锡
+zinc or vitamin:锌或维生素
 zinc or zinc ore:锌或锌矿石
 zinc or:锌或
 zinc ore:锌矿石
@@ -6328,6 +6547,7 @@ zinc oxide markets:氧化锌市场
 zinc oxide or avobenzone:氧化锌或阿伏苯宗
 zinc oxide or zinc phosphate:氧化锌或磷酸锌
 zinc oxide or:氧化锌或
+zinc oxide production line:氧化锌生产线
 zinc oxide production:氧化锌生产
 zinc oxide semiconductor:氧化锌半导体
 zinc oxide varistor:氧化鋅壓敏電阻
@@ -6341,6 +6561,7 @@ zinc peroxide:过氧化锌
 zinc phosphate:磷酸锌
 zinc phosphide:磷化锌
 zinc piping:锌管道
+zinc poisoning:锌中毒
 zinc porphyrin:锌卟啉
 zinc price:锌价格
 zinc prices:锌价格
@@ -6361,6 +6582,7 @@ zinc refining:锌精炼
 zinc release:锌释放
 zinc replace:锌替代
 zinc requirement:锌需求
+zinc research organization:锌研究组织
 zinc research:锌研究
 zinc resource:锌资源
 zinc resources:锌资源
@@ -6380,9 +6602,12 @@ zinc selenide is:硒化锌是
 zinc selenide material is a:硒化锌材料是一
 zinc selenide material:硒化锌材料
 zinc selenide:硒化锌
+zinc should:锌应该
 zinc signals and:锌信号和
 zinc signals:锌信号
+zinc silicon:锌硅
 zinc silver oxide:锌氧化银
+zinc smelting and:锌冶炼和
 zinc smelting:锌冶炼
 zinc source:锌源
 zinc statue:锌雕像
@@ -6405,9 +6630,11 @@ zinc sulfide powder:硫化锌粉末
 zinc sulfide:硫化锌
 zinc sunscreen:锌防晒霜
 zinc superoxide dismutase:锌超氧化物歧化酶
+zinc superoxide:锌超氧化物
 zinc support:锌支持
 zinc surface:锌表面
 zinc symptoms:锌症状
+zinc team members have:锌队成员有
 zinc team members:锌队成员
 zinc team:锌团队
 zinc team:锌队
@@ -6424,6 +6651,7 @@ zinc to lake:锌到湖泊
 zinc to:锌到
 zinc toxicity is:锌中毒是
 zinc toxicity:锌中毒
+zinc toxicity:锌毒性
 zinc transfer:锌转移
 zinc transport:锌运输
 zinc treatment:锌治疗
@@ -6440,7 +6668,12 @@ zinc-air battery:锌空气电池
 zinc-carbon batteries can:锌碳电池可以
 zinc-carbon battery:锌碳电池
 zinc-carbon cells:锌碳细胞
+zinc-finger nuclease:锌指核酸酶
 zinc-ion battery:锌离子电池
+zinc-manganese batteries overcome:锌锰电池克服
+zinc-manganese batteries:锌锰电池
+zinc-manganese battery:锌锰电池
+zinc-mercury batteries:锌汞电池
 zinc-nickel alloy:锌镍合金
 zinc-rich food zinc:锌丰富的食物锌
 zinc-telluride crystal:碲化锌晶体
@@ -6503,6 +6736,7 @@ zion packaging:錫安包裝
 zion square:锡安广场
 zion suzuki:鈴木彩艷
 zion three:錫安三
+zion william:錫安威廉
 zion's hill:宰恩斯希尔
 zion:錫安
 zionism:錫安主義
@@ -6559,6 +6793,7 @@ zirchow:齐尔肖
 zircon:鋯石
 zirconium acetylacetonate:乙酰丙酮锆
 zirconium alloy fuel component:锆合金燃料组件
+zirconium alloy fuel components:锆合金燃料组件
 zirconium alloy:锆合金
 zirconium and hafnium:锆和铪
 zirconium and zirconium alloy:锆和锆合金
@@ -6810,6 +7045,7 @@ zombie as:僵尸当作
 zombie at:僵尸在
 zombie attack:僵尸攻击
 zombie bank:僵尸银行
+zombie banks and:僵尸银行和
 zombie banks support:僵尸银行支持
 zombie banks:僵尸银行
 zombie bear:僵尸熊
@@ -6820,6 +7056,7 @@ zombie boy:僵尸男孩
 zombie brand:僵尸品牌
 zombie bride:僵尸新娘
 zombie bug:僵尸虫
+zombie but:僵尸但
 zombie by:僵尸被
 zombie can:丧尸可以
 zombie capitalism:僵尸资本主义
@@ -6827,6 +7064,9 @@ zombie car:僵尸汽车
 zombie car:僵尸车
 zombie cat:丧尸猫
 zombie cat:僵尸猫
+zombie cells and:僵尸细胞和
+zombie cells are:僵尸细胞是
+zombie cells will:僵尸细胞将
 zombie cells:僵尸细胞
 zombie challenge:僵尸挑战
 zombie check:僵尸检查
@@ -6838,6 +7078,7 @@ zombie comedy:僵尸喜剧
 zombie comics:僵尸漫画
 zombie commander:僵尸指挥官
 zombie community:僵尸社区
+zombie companies are:僵尸公司是
 zombie companies:僵尸公司
 zombie company:僵尸企业
 zombie computer:僵尸电脑
@@ -6858,6 +7099,8 @@ zombie dog:丧尸犬
 zombie dog:僵尸犬
 zombie dog:僵尸狗
 zombie drama:僵尸戏剧
+zombie drug:僵尸药
+zombie drug:僵尸药物
 zombie drug:殭屍藥
 zombie dust:僵尸尘
 zombie economics:僵尸经济学
@@ -6867,8 +7110,12 @@ zombie enemy:丧尸敌人
 zombie epidemic:僵尸流行病
 zombie face:僵尸脸
 zombie farm:僵尸农场
+zombie fiction is about:僵尸小说是关于
 zombie fiction:僵尸小说
+zombie film:丧尸电影
+zombie film:僵尸电影
 zombie film:喪屍片
+zombie films:僵尸电影
 zombie follower:僵尸追随者
 zombie form:僵尸形式
 zombie from:僵尸从
@@ -6923,6 +7170,7 @@ zombie network:僵尸网络
 zombie networks:僵尸网络
 zombie nightmare:僵尸噩梦
 zombie no longer:僵尸不再
+zombie no:僵尸不
 zombie novel:僵尸小说
 zombie office:僵尸办公室
 zombie or:僵尸或
@@ -6934,6 +7182,7 @@ zombie pathogen:僵尸病原体
 zombie phenomenon:丧尸现象
 zombie pickup truck:僵尸皮卡
 zombie pig:僵尸猪
+zombie pirate cat:僵尸海盗猫
 zombie pirate:僵尸海盗
 zombie planet:僵尸行星
 zombie population:僵尸人口
@@ -7033,16 +7282,23 @@ zonda department:松達縣
 zonda glacier:佐達冰川
 zondoma province:宗多馬省
 zone activities:地带活动
+zone activity:地带活动
+zone aggression:地带侵犯
 zone also:地带也
 zone and:地带和
 zone are:地带是
 zone bit recording:区位记录
 zone cave:地带洞穴
+zone challenges:地带挑战
+zone coercion:地带胁迫
+zone competition:地带竞争
+zone conflict:地带冲突
 zone cover:地带覆盖
 zone defense:區域聯防
 zone fighter:流星人间
 zone finally:地带最终
 zone is:地带是
+zone issues:地带问题
 zone let:地带让
 zone melting:區域熔煉
 zone museum:地带博物馆
@@ -7096,14 +7352,17 @@ zonotrichia:帶鹀屬
 zonta international:崇德社
 zonza:宗扎
 zoo administration:动物园管理
+zoo after:动物园后
 zoo alice:动物园爱丽丝
 zoo also:动物园也
 zoo also:動物園也
 zoo and animal market:动物园和动物市场
+zoo and botanical garden:動物園和植物園
 zoo and flower:动物园和花
 zoo and garden:动物园和花园
 zoo and i:动物园和我
 zoo and laboratory animal:动物园和实验动物
+zoo and mineral water pump:动物园和矿泉水泵
 zoo and mineral water:动物园和矿泉水
 zoo and nature park:动物园和自然公园
 zoo and register:动物园和注册
@@ -7112,6 +7371,7 @@ zoo and:动物园与
 zoo and:动物园和
 zoo and:動物園和
 zoo animal:动物园动物
+zoo animals and:动物园动物和
 zoo animals:动物园动物
 zoo anthropomorphic jade earring:人獸形玉耳飾
 zoo ape:动物园猿
@@ -7119,8 +7379,10 @@ zoo aquarium de madrid:马德里动物园
 zoo are:动物园是
 zoo area:动物园地区
 zoo as well as:动物园以及
+zoo ask:动物园问
 zoo association:动物园协会
 zoo attract:动物园吸引
+zoo be:动物园成为
 zoo became:动物园成为
 zoo before:动物园之前
 zoo began a:动物园开始一个
@@ -7132,6 +7394,7 @@ zoo boss:动物园老板
 zoo building:动物园建筑
 zoo can:动物园可以
 zoo cat:动物园猫
+zoo classification:动物园分类
 zoo close:动物园关闭
 zoo club:动物园俱乐部
 zoo community:动物园社区
@@ -7151,16 +7414,22 @@ zoo elephant:动物园大象
 zoo emphasize:动物园强调
 zoo encourage:动物园鼓励
 zoo environments:动物园环境
+zoo even:动物园甚至
+zoo even:動物園甚至
 zoo exhibit:动物园展览
 zoo experience:动物园体验
 zoo farm:动物园农场
 zoo feed:动物园喂
+zoo game will start:动物园游戏将开始
 zoo game:动物园游戏
 zoo gate:动物园大门
+zoo global:动物园全球
+zoo global:动物园全球的
 zoo gorilla:动物园大猩猩
 zoo had:动物园有
 zoo has an open:动物园有一个开
 zoo has been:动物园已经
+zoo has many picnic:动物园有许多野餐
 zoo has:动物园有
 zoo has:動物園有
 zoo hatch:动物园孵化
@@ -7184,6 +7453,7 @@ zoo kill:动物园杀
 zoo knox:动物园诺克斯
 zoo license:动物园许可证
 zoo lincoln:动物园林肯
+zoo lion:动物园狮
 zoo lion:动物园狮子
 zoo management:动物园管理
 zoo manager:动物园经理
@@ -7197,6 +7467,7 @@ zoo must:动物园必须
 zoo of:动物园的
 zoo offer:动物园提供
 zoo offer:動物園提供
+zoo officials said:动物园官员说
 zoo officials say:动物园官员说
 zoo officials:动物园官员
 zoo once:动物园一次
@@ -7211,25 +7482,37 @@ zoo participate:动物园参与
 zoo participate:动物园参加
 zoo participate:動物園参加
 zoo pig:动物园猪
+zoo plan:动物园计划
 zoo plans:动物园计划
+zoo project:动物园项目
 zoo protection:动物园保护
 zoo receive:动物园收到
+zoo record:动物园记录
 zoo representatives:动物园代表
+zoo research:动物园研究
+zoo researchers:动物园研究人员
+zoo reveal:动物园揭示
+zoo safari park is one:动物园野生动物园是一
 zoo safari park:动物园野生动物园
 zoo safety:动物园安全
 zoo said:动物园说
 zoo says:动物园说
 zoo school:动物园学校
 zoo science:动物园科学
+zoo should:动物园应该
 zoo spider:動物園蜘蛛
 zoo spokesman:动物园发言人
 zoo standards:动物园标准
 zoo start:动物园开始
 zoo station:动物园站
+zoo station:動物園站
 zoo story:动物园故事
 zoo story:動物園故事
 zoo tea:动物园茶
+zoo teacher experiment show:动物园教师实验显示
 zoo teacher:动物园教师
+zoo team:动物园团队
+zoo team:动物园队
 zoo technology and:动物园技术和
 zoo technology:动物园技术
 zoo to tree:动物园到树
@@ -7248,8 +7531,11 @@ zoo was closed:动物园被关闭
 zoo was established in:动物园成立于
 zoo was founded in:动物园成立于
 zoo was:动物园是
+zoo was:動物園是
 zoo website:动物园网站
 zoo welcome:动物园欢迎
+zoo wildlife:动物园野生动物
+zoo will:动物园会
 zoo will:动物园将
 zoo with my mother:动物园与我的母亲
 zoo with:动物园与
@@ -7935,6 +8221,7 @@ zumsteinspitze:楚姆施泰因峰
 zumwalt class destroyer:朱姆沃爾特級驅逐艦
 zun lion:尊狮
 zun own:尊拥有
+zun wine:尊酒
 zun:尊
 zunbil dynasty:訶達羅支
 zuncich hill:聰齊赫山
