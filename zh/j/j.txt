@@ -1732,11 +1732,13 @@ jamaica airline:牙买加航空公司
 jamaica airport:牙买加机场
 jamaica also:牙买加也
 jamaica and america:牙买加和美国
+jamaica and argentina:牙买加和阿根廷
 jamaica and barbados:牙买加和巴巴多斯
 jamaica and belize:牙买加和伯利兹
 jamaica and brazil:牙买加和巴西
 jamaica and chile:牙买加和智利
 jamaica and china:牙买加和中国
+jamaica and cuba:牙买加、古巴
 jamaica and cuba:牙买加和古巴
 jamaica and detroit:牙买加和底特律
 jamaica and dominican republic:牙买加和多明尼加
@@ -1745,26 +1747,44 @@ jamaica and egypt:牙买加和埃及
 jamaica and england:牙买加和英格兰
 jamaica and ethiopia:牙买加和埃塞俄比亚
 jamaica and france:牙买加和法国
+jamaica and grenada:牙买加、格林纳达
 jamaica and guatemala:牙买加和危地马拉
 jamaica and guyana export:牙买加和圭亚那出口
+jamaica and guyana:牙买加和圭亚那
+jamaica and haiti:海地和牙买加
+jamaica and haiti:牙买加及海地
 jamaica and haiti:牙买加和海地
+jamaica and india:牙买加及印度
 jamaica and india:牙买加和印度
+jamaica and ireland:牙买加、爱尔兰
+jamaica and japan:日本与牙买加
+jamaica and japan:牙买加和日本
 jamaica and kenya:牙买加和肯尼亚
 jamaica and mexico:牙买加和墨西哥
+jamaica and monaco:牙买加与摩纳哥
 jamaica and move to:牙买加和移动到
+jamaica and new zealand:牙买加、新西兰
 jamaica and new zealand:牙买加和新西兰
 jamaica and nicaragua:牙买加和尼加拉瓜
 jamaica and nigeria:牙买加和尼日利亚
 jamaica and panama:牙买加和巴拿马
+jamaica and peru:牙买加、秘鲁
 jamaica and peru:牙买加和秘鲁
 jamaica and poland:牙买加和波兰
 jamaica and puerto rico:牙买加和波多黎各
+jamaica and saint vincent and the grenadines:牙买加以及圣文森特和格林纳丁斯
 jamaica and samoa:牙买加和萨摩亚
 jamaica and scotland:牙买加和苏格兰
+jamaica and south africa:牙买加和南非
 jamaica and spain:牙买加与西班牙
+jamaica and spain:牙买加和西班牙
 jamaica and the bahamas:牙买加和巴哈马
+jamaica and trinidad and tobago:牙买加 和特立尼达和多巴哥
+jamaica and trinidad and tobago:牙买加、特立尼达和多巴哥
 jamaica and trinidad and tobago:牙买加和特立尼达和多巴哥
 jamaica and uganda:牙买加和乌干达
+jamaica and ukraine:牙买加和乌克兰
+jamaica and uruguay:牙买加和乌拉圭
 jamaica and venezuela:牙买加和委内瑞拉
 jamaica and:牙买加与
 jamaica and:牙买加和
@@ -2609,6 +2629,7 @@ japan and all:日本和所有
 japan and america:日本与美国
 japan and america:日本和美国
 japan and amsterdam have:日本和阿姆斯特丹有
+japan and andorra:日本以及安道尔
 japan and andorra:日本和安道尔
 japan and any country:日本和任何国家
 japan and argentina:日本和阿根廷
@@ -2616,24 +2637,49 @@ japan and asia:日本与亚洲
 japan and asia:日本和亚洲
 japan and australia at:日本和澳大利亚在
 japan and australia were:日本和澳大利亚是
+japan and australia:日本-澳大利亚
+japan and australia:日本、澳大利亚
 japan and australia:日本与澳大利亚
+japan and australia:日本及澳大利亚
 japan and australia:日本和澳大利亚
+japan and australia:澳大利亚、日本
+japan and australia:澳大利亚和日本
 japan and austria:日本和奥地利
+japan and bahrain:日本和巴林
+japan and bangladesh:日本和孟加拉国
 japan and barbados:日本和巴巴多斯
 japan and beijing:日本和北京
 japan and belarus:日本和白俄罗斯
+japan and belgium:日本、比利时
 japan and belgium:日本和比利时
 japan and bhutan:日本和不丹
+japan and brazil:巴西、日本
+japan and brazil:巴西和日本
+japan and brazil:日本、巴西
 japan and brazil:日本与巴西
+japan and brazil:日本以及巴西
+japan and brazil:日本及巴西
 japan and brazil:日本和巴西
+japan and brazil:日本與巴西
+japan and brazil:日本队和巴西
 japan and britain:日本与英国
 japan and britain:日本和英国
+japan and bulgaria:日本、保加利亚
 japan and california:日本和加利福尼亚
+japan and cambodia:日本和柬埔寨
 japan and cameroon:日本和喀麦隆
 japan and canada also:日本和加拿大也
 japan and canada will:日本和加拿大将
+japan and canada:加拿大、日本
+japan and canada:加拿大与日本
+japan and canada:日本、加拿大
+japan and canada:日本以及加拿大
+japan and canada:日本加拿大
+japan and canada:日本及加拿大
 japan and canada:日本和加拿大
+japan and canada:日本與加拿大
 japan and central asia:日本与中亚
+japan and chile:日本、智利
 japan and chile:日本与智利
 japan and chile:日本和智利
 japan and china agree:日本和中国同意
@@ -2650,13 +2696,51 @@ japan and china should:日本和中国应该
 japan and china taiwan:日本和中国台湾
 japan and china through:日本和中国通过
 japan and china will:日本和中国将
+japan and china:中国、日本
+japan and china:中国与日本
+japan and china:中国和日本
+japan and china:中国或日本
+japan and china:中国跟日本
+japan and china:中国，日本
+japan and china:中國和日本
+japan and china:中國與日本
+japan and china:日本、中国
+japan and china:日本、中国
+japan and china:日本、中国
+japan and china:日本、中国
+japan and china:日本、中国
+japan and china:日本、中國
+japan and china:日本、和中國
 japan and china:日本与中国
+japan and china:日本人和中国
+japan and china:日本以及中国
+japan and china:日本以及中國
+japan and china:日本作为中国
+japan and china:日本到中国
+japan and china:日本及中国
+japan and china:日本及中國
+japan and china:日本向中国
+japan and china:日本和”中国
 japan and china:日本和中华人民共和国
 japan and china:日本和中国
 japan and china:日本和中國
+japan and china:日本对中国
+japan and china:日本或中國
+japan and china:日本现在中国
+japan and china:日本甚至中国
+japan and china:日本與中國
+japan and china:日本跟中国
+japan and china:日本，中国
+japan and china:日本，中國
+japan and colombia:日本以及哥伦比亚
+japan and colombia:日本和哥伦比亚
 japan and costa rica:日本和哥斯达黎加
+japan and croatia:日本和克罗地亚
+japan and cuba:日本 和 古巴
+japan and cuba:日本和古巴
 japan and cyprus:日本和塞浦路斯
 japan and death:日本与死亡
+japan and denmark:日本、丹麦
 japan and denmark:日本和丹麦
 japan and drainage and:日本和排水和
 japan and east asia:日本与东亚
@@ -2666,6 +2750,7 @@ japan and ecuador:日本和厄瓜多尔
 japan and egypt:日本和埃及
 japan and elsewhere:日本和其它地方
 japan and emerging markets:日本和新兴市场
+japan and estonia:日本及爱沙尼亚
 japan and estonia:日本和爱沙尼亚
 japan and eu countries:日本和欧盟国家
 japan and eu:日本和欧盟
@@ -2679,8 +2764,15 @@ japan and european nation:日本和欧洲国家
 japan and european:日本和欧洲的
 japan and fifth air force:日本和第五空军
 japan and fiji:日本和斐济
+japan and finland:日本、芬兰
+japan and finland:日本和芬兰
+japan and finland:芬兰或者日本
 japan and france are:日本和法国是
+japan and france:日本、法国
+japan and france:日本及法国
 japan and france:日本和法国
+japan and france:法国、日本
+japan and france:法国和日本
 japan and german:日本和德国的
 japan and germany are:日本和德国是
 japan and germany have:日本和德国有
@@ -2688,18 +2780,34 @@ japan and germany were:日本与德国是
 japan and germany were:日本和德国是
 japan and germany will:日本和德国将
 japan and germany would:日本和德国将
+japan and germany:德国、日本
+japan and germany:德国与日本
+japan and germany:德国和日本
+japan and germany:日本、德国
+japan and germany:日本、德国
 japan and germany:日本与德国
+japan and germany:日本以及德国
+japan and germany:日本及德国
+japan and germany:日本和对德国
 japan and germany:日本和德国
+japan and germany:日本德国
+japan and germany:日本的和德国
+japan and germany:日本馆和德国
+japan and germany:日本，德国
 japan and gibraltar:日本和直布罗陀
 japan and greece are:日本和希腊是
+japan and greece:日本以及希腊
 japan and greece:日本和希腊
 japan and greenland:日本和格陵兰
 japan and hawaii:日本和夏威夷
 japan and hollywood:日本和好莱坞
 japan and hong kong media:日本与香港媒体
 japan and hong kong:日本和香港
+japan and hungary:日本-匈牙利
 japan and hungary:日本与匈牙利
 japan and hungary:日本和匈牙利
+japan and hungary:日本與匈牙利
+japan and iceland:冰岛和日本
 japan and iceland:日本和冰岛
 japan and india also:日本和印度也
 japan and india are:日本和印度是
@@ -2710,22 +2818,54 @@ japan and india mistake:日本和印度错误
 japan and india must:日本和印度必须
 japan and india to:日本和印度到
 japan and india will:日本和印度将
+japan and india:印度与日本
+japan and india:印度和日本
+japan and india:日本、印度
+japan and india:日本、印度
+japan and india:日本、印度
 japan and india:日本与印度
+japan and india:日本以及印度
+japan and india:日本印度
+japan and india:日本及印度
 japan and india:日本和印度
+japan and india:日本與印度
 japan and indian markets:日本和印度市场
 japan and indonesia will:日本和印度尼西亚将
+japan and indonesia:日本、印尼
+japan and indonesia:日本、印度尼西亚
+japan and indonesia:日本及印度尼西亚
 japan and indonesia:日本和印尼
 japan and indonesia:日本和印度尼西亚
 japan and international:日本和国际
 japan and iran became:日本和伊朗成为
+japan and iran:日本、伊朗
 japan and iran:日本和伊朗
 japan and iraq:日本和伊拉克
+japan and ireland:日本、爱尔兰
+japan and ireland:日本和爱尔兰
+japan and israel:以色列与日本
+japan and israel:日本、以色列
 japan and israel:日本和以色列
+japan and italy:意大利和日本
+japan and italy:意大利和日本
+japan and italy:日本、意大利
+japan and italy:日本与意大利
+japan and italy:日本及意大利
 japan and italy:日本和意大利
+japan and japan:日本与日本
+japan and japan:日本人, 日本
+japan and japan:日本人和日本
+japan and japan:日本以及日本
+japan and japan:日本全日本
+japan and japan:日本及日本
+japan and japan:日本和日本
+japan and japan:日本國和日本
+japan and japan:日本與日本
 japan and japanese people:日本和日本人
 japan and japanese:日本与日本人
 japan and jordan cannot:日本和约旦不能
 japan and jordan:日本和约旦
+japan and kazakhstan:哈萨克斯坦和日本
 japan and kazakhstan:日本和哈萨克斯坦
 japan and kiribati:日本和基里巴斯
 japan and korea also:日本和韩国也
@@ -2736,50 +2876,82 @@ japan and korea were:日本和韩国是
 japan and korea will:日本和韩国将
 japan and korea:日本与韩国
 japan and korea:日本和韩国
+japan and kuwait:日本与科威特
 japan and kyoto:日本和京都
+japan and laos:日本和老挝
 japan and latin america:日本和拉丁美洲
+japan and lebanon:日本与黎巴嫩
 japan and lebanon:日本和黎巴嫩
+japan and lebanon:日本與黎巴嫩
+japan and lebanon:黎巴嫩和日本
 japan and lithuania:日本和立陶宛
 japan and london:日本和伦敦
 japan and luxembourg:日本和卢森堡
 japan and mainland china:日本和中国大陆
 japan and malay:日本和馬來
+japan and malaysia:日本、马来西亚
 japan and malaysia:日本与马来西亚
+japan and malaysia:日本及马来西亚
 japan and malaysia:日本和马来西亚
 japan and maldives:日本和马尔代夫
 japan and manchukuo:日本和满洲国
 japan and many european:日本和许多欧洲
 japan and many other countries:日本和许多其他国家
+japan and mauritius:日本 - 毛里求斯
 japan and mexico to:日本和墨西哥到
 japan and mexico were:日本和墨西哥是
+japan and mexico:墨西哥和日本
+japan and mexico:日本、墨西哥
+japan and mexico:日本及墨西哥
 japan and mexico:日本和墨西哥
+japan and mexico:日本與墨西哥
+japan and mexico:日本還有墨西哥
 japan and middle east:日本和中东
+japan and monaco:日本和摩纳哥
 japan and mongolia:日本和蒙古
 japan and most emerging market:日本和大多数新兴市场
 japan and most eu:日本和大多数欧盟
+japan and myanmar:日本、缅甸
 japan and myanmar:日本和缅甸
 japan and nazi germany:日本和納粹德國
 japan and nepal:日本和尼泊尔
 japan and netherlands:日本与荷兰
+japan and new zealand:日本、新西兰
 japan and new zealand:日本与新西兰
+japan and new zealand:日本及新西兰
 japan and new zealand:日本和新西兰
+japan and nigeria:日本、和尼日利亚
 japan and nigeria:日本和尼日利亚
+japan and north korea:日本、朝鲜
 japan and north korea:日本与朝鲜
+japan and north korea:日本及朝鲜
+japan and north korea:日本和朝鲜
+japan and north korea:朝鲜和日本
 japan and north:日本和北
+japan and norway:挪威和日本
+japan and norway:日本及挪威
 japan and norway:日本和挪威
 japan and oceania:日本和大洋洲
 japan and other:日本和其他的
 japan and ourselves:日本和我们自己
 japan and overseas:日本和海外
 japan and overseas:日本和海外的
+japan and pakistan:日本及巴基斯坦
 japan and pakistan:日本和巴基斯坦
 japan and paris:日本和巴黎
 japan and part:日本和部分
 japan and peace:日本与和平
+japan and philippines:日本及菲律宾
+japan and philippines:日本和菲律宾
 japan and poland:日本和波兰
+japan and portugal:日本、葡萄牙
+japan and portugal:日本及葡萄牙
 japan and portugal:日本和葡萄牙
 japan and powerful:日本和有力的
 japan and qatar will:日本和卡塔尔将
+japan and qatar:日本与卡塔尔
+japan and qatar:日本和卡塔尔
+japan and qatar:日本队和卡塔尔
 japan and racial equality:日本和种族平等
 japan and romania:日本和罗马尼亚
 japan and romania:日本和羅馬尼亞
@@ -2787,23 +2959,51 @@ japan and russia also:日本和俄罗斯也
 japan and russia can:日本和俄罗斯可以
 japan and russia still:日本和俄罗斯仍然
 japan and russia would:日本和俄罗斯将
+japan and russia:俄国和日本
+japan and russia:俄罗斯、日本
+japan and russia:俄罗斯与日本
+japan and russia:俄罗斯和日本
+japan and russia:日本、俄国
+japan and russia:日本、俄罗斯
+japan and russia:日本与俄国
 japan and russia:日本与俄罗斯
+japan and russia:日本及俄罗斯
+japan and russia:日本同俄罗斯
+japan and russia:日本和 俄罗斯
 japan and russia:日本和俄国
 japan and russia:日本和俄罗斯
 japan and san marino:日本和圣马力诺
 japan and san:日本和圣
+japan and saudi arabia:日本及沙特阿拉伯
 japan and saudi arabia:日本和沙特阿拉伯
 japan and scandinavia:日本和斯堪的纳维亚
 japan and senegal:日本与塞内加尔
 japan and senegal:日本和塞内加尔
+japan and senegal:日本对抗塞内加尔
+japan and senegal:日本队和塞内加尔
+japan and senegal:日本，塞内加尔
 japan and serbia will:日本和塞尔维亚将
 japan and serbia:日本和塞尔维亚
 japan and several european:日本和几个欧洲
 japan and singapore are:日本和新加坡是
+japan and singapore:新加坡、日本
+japan and singapore:新加坡与日本
+japan and singapore:新加坡和日本
+japan and singapore:新加坡日本
+japan and singapore:日本、新加坡
+japan and singapore:日本-新加坡
+japan and singapore:日本、新加坡
+japan and singapore:日本人和新加坡
+japan and singapore:日本以及新加坡
+japan and singapore:日本及新加坡
 japan and singapore:日本和新加坡
+japan and singapore:日本或是新加坡
+japan and singapore:日本新加坡
+japan and singapore:日本與新加坡
 japan and some emerging markets:日本和一些新兴市场
 japan and some european:日本和一些欧洲
 japan and south africa:日本和南非
+japan and south africa:日本，南非
 japan and south korea already:日本和韩国已经
 japan and south korea also:日本和韩国也
 japan and south korea and:日本和韩国与
@@ -2823,9 +3023,26 @@ japan and south korea need:日本和韩国需要
 japan and south korea report:日本和韩国报告
 japan and south korea were:日本和韩国是
 japan and south korea will:日本和韩国将
+japan and south korea:日本、韩国
+japan and south korea:日本、韩国
+japan and south korea:日本、韩国
+japan and south korea:日本 韩国
+japan and south korea:日本/韩国
+japan and south korea:日本、 韩国
+japan and south korea:日本、韩国
 japan and south korea:日本与韩国
+japan and south korea:日本以及韩国
+japan and south korea:日本及韩国
+japan and south korea:日本和和韩国
 japan and south korea:日本和大韩民国
 japan and south korea:日本和韩国
+japan and south korea:日本跟韩国
+japan and south korea:日本队和韩国
+japan and south korea:日本韩国
+japan and south korea:日本，韩国
+japan and south korea:韩国、日本
+japan and south korea:韩国及日本
+japan and south korea:韩国和日本
 japan and south:日本与南
 japan and south:日本和南
 japan and southeast asia:日本与东南亚
@@ -2835,11 +3052,30 @@ japan and southeast:日本和東南
 japan and southern europe:日本和南欧
 japan and spain this week:日本和西班牙本周
 japan and spain were:日本和西班牙是
+japan and spain:日本、西班牙
 japan and spain:日本与西班牙
+japan and spain:日本以及西班牙
+japan and spain:日本及西班牙
 japan and spain:日本和西班牙
+japan and spain:西班牙和日本
+japan and sri lanka:斯里兰卡和日本
+japan and sri lanka:日本和斯里兰卡
+japan and sweden:日本 & 瑞典
+japan and sweden:日本、瑞典
+japan and sweden:日本以及瑞典
+japan and sweden:日本及瑞典
+japan and sweden:日本和 瑞典
 japan and sweden:日本和瑞典
+japan and sweden:日本與瑞典
+japan and sweden:日本，及瑞典
 japan and switzerland already:日本和瑞士已经
+japan and switzerland:日本、瑞士
+japan and switzerland:日本及瑞士
 japan and switzerland:日本和瑞士
+japan and switzerland:日本瑞士
+japan and switzerland:日本，瑞士
+japan and switzerland:瑞士、日本
+japan and switzerland:瑞士和日本
 japan and syria:日本和叙利亚
 japan and taiwan should:日本和台湾应该
 japan and taiwan will:日本和台湾将
@@ -2849,7 +3085,15 @@ japan and thai:日本与泰国
 japan and thai:日本和泰国
 japan and thai:日本和泰国的
 japan and thailand are:日本和泰国是
+japan and thailand:日本、泰国
+japan and thailand:日本、泰国
+japan and thailand:日本与泰国
+japan and thailand:日本人和泰国
+japan and thailand:日本及泰国
 japan and thailand:日本和泰国
+japan and thailand:泰国、日本
+japan and thailand:泰国及日本
+japan and thailand:泰国和日本
 japan and the rest of the world:日本和世界其他地方
 japan and the soviet union agree:日本和苏联同意
 japan and the soviet union:日本与苏联
@@ -2880,6 +3124,7 @@ japan and timor-leste:日本和东帝汶
 japan and tokyo:日本和东京
 japan and translation:日本和翻译
 japan and turkey vote:日本和土耳其投票
+japan and turkey:日本、土耳其
 japan and turkey:日本和土耳其
 japan and u.s. agree:日本和美国同意
 japan and u.s. officials:日本和美国官员
@@ -2890,21 +3135,33 @@ japan and uk:日本与英国
 japan and uk:日本和英国
 japan and ukraine were:日本和乌克兰是
 japan and ukraine:日本和乌克兰
+japan and united arab emirates:日本和阿拉伯联合酋长国
+japan and united states:日本&美国
+japan and united states:日本及美国
+japan and united states:日本和美国
+japan and united states:美国和日本
 japan and usa market:日本和美国市场
 japan and usa silicon valley:日本和美国硅谷
 japan and usa silicon:日本和美国硅
 japan and usa will:日本和美国将
 japan and usa:日本和美国
+japan and venezuela:日本和委内瑞拉
 japan and vietnam also:日本和越南也
 japan and vietnam reflect:日本和越南反映
+japan and vietnam:日本、越南
 japan and vietnam:日本与越南
+japan and vietnam:日本乃至越南
+japan and vietnam:日本及越南
 japan and vietnam:日本和越南
+japan and vietnam:越南与日本
+japan and vietnam:越南和日本
 japan and weapons of mass destruction:日本与大规模杀伤性武器
 japan and west germany:日本和西德
 japan and west:日本和西
 japan and western europe:日本与西欧
 japan and western europe:日本和西欧
 japan and worldwide:日本和全世界的
+japan and yemen:日本以及也门
 japan and:日本与
 japan and:日本和
 japan animator expo:日本動畫人展覽會
@@ -15897,42 +16154,74 @@ jordan already has:约旦已经有
 jordan already:约旦已经
 jordan also:约旦也
 jordan and afghan:约旦和阿富汗
+jordan and afghanistan:约旦和阿富汗
 jordan and albania:约旦和阿尔巴尼亚
 jordan and algeria:约旦和阿尔及利亚
 jordan and america:约旦和美国
 jordan and argentina:约旦和阿根廷
 jordan and avoid:约旦和避免
+jordan and bahrain:约旦以及巴林
 jordan and bahrain:约旦和巴林
 jordan and bangladesh:约旦与孟加拉国
 jordan and bolivia:约旦和玻利维亚
+jordan and china:约旦和中国
 jordan and cold case:约旦和铁证悬案
+jordan and comoros:约旦以及科摩罗
+jordan and costa rica:约旦和哥斯达黎加
+jordan and cyprus:约旦以及塞浦路斯
+jordan and cyprus:约旦和塞浦路斯
 jordan and damascus:约旦和大马士革
 jordan and ecuador:约旦和厄瓜多尔
 jordan and egypt agree:约旦和埃及同意
 jordan and egypt are:约旦和埃及是
 jordan and egypt say:约旦和埃及说
+jordan and egypt:埃及与约旦
+jordan and egypt:埃及和约旦
+jordan and egypt:埃及跟约旦
+jordan and egypt:约旦、埃及
 jordan and egypt:约旦和埃及
+jordan and egypt:约旦，和埃及
 jordan and ethiopia:约旦和埃塞俄比亚
 jordan and europe:约旦和欧洲
+jordan and france:约旦和法国
+jordan and germany:约旦以及德国
 jordan and germany:约旦和德国
 jordan and haiti:约旦和海地
 jordan and her home country:约旦和她的祖国
+jordan and india:约旦、印度
 jordan and india:约旦和印度
 jordan and international:约旦和国际
+jordan and iran:约旦和伊朗
 jordan and iraq would:约旦和伊拉克将
+jordan and iraq:约旦、伊拉克
 jordan and iraq:约旦与伊拉克
+jordan and iraq:约旦及伊拉克
 jordan and iraq:约旦和伊拉克
 jordan and israel agree:约旦和以色列同意
+jordan and israel:以色列&约旦
+jordan and israel:以色列、约旦
+jordan and israel:以色列与约旦
+jordan and israel:以色列和约旦
+jordan and israel:以色列视与约旦
+jordan and israel:约旦、以色列
 jordan and israel:约旦与以色列
+jordan and israel:约旦及以色列
 jordan and israel:约旦和以色列
 jordan and italy:约旦和意大利
 jordan and kenya:约旦和肯尼亚
 jordan and kuwait:约旦和科威特
+jordan and lebanon:约旦、黎巴嫩
 jordan and lebanon:约旦和黎巴嫩
+jordan and lebanon:约旦或黎巴嫩
+jordan and lebanon:黎巴嫩 约旦
+jordan and lebanon:黎巴嫩和约旦
 jordan and liberia:约旦和利比里亚
+jordan and libya:约旦、利比亚
 jordan and libya:约旦和利比亚
+jordan and luxembourg:卢森堡和约旦
 jordan and luxembourg:约旦和卢森堡
 jordan and malawi:约旦和马拉维
+jordan and mexico:约旦和墨西哥
 jordan and mongolia:约旦和蒙古
 jordan and montenegro:约旦和黑山
 jordan and morocco have:约旦和摩洛哥有
@@ -15940,26 +16229,44 @@ jordan and morocco:约旦和摩洛哥
 jordan and myanmar:约旦和缅甸
 jordan and new zealand:约旦和新西兰
 jordan and nigeria:约旦和尼日利亚
+jordan and norway:约旦和挪威
+jordan and oman:约旦、阿曼
 jordan and oman:约旦和阿曼
 jordan and pakistan were:约旦和巴基斯坦是
 jordan and pakistan:约旦和巴基斯坦
 jordan and palestine and:约旦和巴勒斯坦和
 jordan and palestine:约旦和巴勒斯坦
+jordan and qatar:约旦和卡塔尔
+jordan and russia:约旦和俄罗斯
 jordan and rwanda:约旦和卢旺达
 jordan and saudi arabia are:约旦和沙特阿拉伯是
 jordan and saudi arabia:约旦与沙特阿拉伯
 jordan and saudi arabia:约旦和沙特阿拉伯
+jordan and singapore:约旦和新加坡
+jordan and slovakia:约旦及斯洛伐克
 jordan and somali:约旦和索马里
 jordan and somalia:约旦和索马里
+jordan and south africa:约旦和南非
 jordan and south korea:约旦和韩国
 jordan and sri lanka:约旦和斯里兰卡
+jordan and sweden:约旦和瑞典
 jordan and syria a:约旦和叙利亚一
 jordan and syria began:约旦和叙利亚开始
+jordan and syria:叙利亚、约旦
+jordan and syria:叙利亚与约旦
+jordan and syria:叙利亚及约旦
+jordan and syria:叙利亚和约旦
+jordan and syria:约旦以及叙利亚
 jordan and syria:约旦和叙利亚
+jordan and syria:约旦河叙利亚
 jordan and the united arab emirates:约旦和阿联酋
 jordan and the united states:约旦和美国
 jordan and togo:约旦和多哥
+jordan and tunisia:约旦、突尼斯
 jordan and tunisia:约旦和突尼斯
+jordan and turkey:土耳其和约旦
+jordan and turkey:约旦、土耳其
+jordan and turkey:约旦到土耳其
 jordan and turkey:约旦和土耳其
 jordan and ukraine:约旦和乌克兰
 jordan and united arab emirates:约旦和阿联酋
