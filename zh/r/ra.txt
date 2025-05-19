@@ -7669,6 +7669,7 @@ range at sustain:范围在持续
 range at:范围在
 range ball:范围球
 range ballistic missile:范围弹道导弹
+range based:基于范围的
 range battery:范围电池
 range began:范围开始
 range begin:范围开始
@@ -8109,6 +8110,7 @@ range within of:范围内的
 range within:范围内
 range would:范围将
 range you:范围你
+range-based:基于范围的
 range:值域
 range:范围
 rangecourt:朗日库尔
