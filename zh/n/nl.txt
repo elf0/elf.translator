@@ -1,0 +1,93 @@
+NLB 1 (Mui Wo Ferry Pier → Tai O (via Mui Wo Old Town and Sha Tsui Correctional Institution)):嶼巴1號線 (梅窩碼頭 → 大澳 (經梅窩舊墟及沙咀懲教所))
+NLB 1 (Mui Wo Ferry Pier → Tai O (via Mui Wo Old Town)):嶼巴1號線 (梅窩碼頭 → 大澳 (經梅窩舊墟))
+NLB 1 (Mui Wo Ferry Pier → Tai O (via Sha Tsui Correctional Institution)):嶼巴1號線 (梅窩碼頭 → 大澳 (經沙咀懲教所))
+NLB 1 (Mui Wo Ferry Pier → Tai O):嶼巴1號線 (梅窩碼頭 → 大澳)
+NLB 1 (Tai O → Mui Wo Ferry Pier (via Mui Wo Old Town and Sha Tsui Correctional Institution)):嶼巴1號線 (大澳 → 梅窩碼頭 (經梅窩舊墟及沙咀懲教所))
+NLB 1 (Tai O → Mui Wo Ferry Pier (via Mui Wo Old Town)):嶼巴1號線 (大澳 → 梅窩碼頭 (經梅窩舊墟))
+NLB 1 (Tai O → Mui Wo Ferry Pier (via Sha Tsui Correctional Institution)):嶼巴1號線 (大澳 → 梅窩碼頭 (經沙咀懲教所))
+NLB 1 (Tai O → Mui Wo Ferry Pier):NLB 1 (大澳 → 梅窩碼頭)
+NLB 11 (Sha Tsui Correctional Institution → Tung Chung Station (via Tong Fuk Correctional Institution)):嶼巴11線 (沙咀懲教所 → 東涌站 (經塘福懲教所))
+NLB 11 (Sha Tsui Correctional Institution → Tung Chung Station):嶼巴11線 (沙咀懲教所 → 東涌站)
+NLB 11 (Shui Hau → Tung Chung Station):嶼巴11線 (水口 → 東涌站)
+NLB 11 (Tai O → Tung Chung Station (via North Lantau Hospital)):嶼巴11線 (大澳 → 東涌站 (經北大嶼山醫院))
+NLB 11 (Tai O → Tung Chung Station (via Sha Tsui Correctional Institution and Tong Fuk Correctional Institution)):嶼巴11線 (大澳 → 東涌站 (經沙咀懲教所及塘福懲教所))
+NLB 11 (Tai O → Tung Chung Station (via Sha Tsui Correctional Institution)):嶼巴11線 (大澳 → 東涌站 (經沙咀懲教所))
+NLB 11 (Tai O → Tung Chung Station (via Tong Fuk Correctional Institution)):嶼巴11線 (大澳 → 東涌站 (經塘福懲教所))
+NLB 11 (Tai O → Tung Chung Station):嶼巴11線 (大澳 → 東涌站)
+NLB 11 (Tung Chung Station → Tai O (via North Lantau Hospital)):嶼巴11線 (東涌站 → 大澳 (經北大嶼山醫院))
+NLB 11 (Tung Chung Station → Tai O (via Sha Tsui Correctional Institution and Tong Fuk Correctional Institution)):嶼巴11線 (東涌站 → 大澳 (經沙咀懲教所及塘福懲教所))
+NLB 11 (Tung Chung Station → Tai O (via Sha Tsui Correctional Institution)):嶼巴11線 (東涌站 → 大澳 (經沙咀懲教所))
+NLB 11 (Tung Chung Station → Tai O (via Tong Fuk Correctional Institution)):嶼巴11線 (東涌站 → 大澳 (經塘福懲教所))
+NLB 11 (Tung Chung Station → Tai O):嶼巴11線 (東涌站 → 大澳)
+NLB 11:嶼巴11線
+NLB 11A (Shek Pik → Tung Chung Station (via Tong Fuk Correctional Institution)):嶼巴11A線 (石壁 → 東涌站 (經塘福懲教所))
+NLB 11A (Shek Pik → Tung Chung Station):嶼巴11A線 (石壁 → 東涌站)
+NLB 11A (Tung Chung Station → Shek Pik (via Tong Fuk Correctional Institution)):嶼巴11A線 (東涌站 → 石壁 (經塘福懲教所))
+NLB 11A (Tung Chung Station → Shek Pik):嶼巴11A線 (東涌站 → 石壁)
+NLB 1:嶼巴1號線
+NLB 2 (Mui Wo Ferry Pier → Ngong Ping):嶼巴2號線 (梅窩碼頭 → 昂坪)
+NLB 2 (Ngong Ping → Mui Wo Ferry Pier):嶼巴2號線 (昂坪 → 梅窩碼頭)
+NLB 21 (Ngong Ping → Tai O):嶼巴21線 (昂坪 → 大澳)
+NLB 21 (Tai O → Ngong Ping):嶼巴21線 (大澳 → 昂坪)
+NLB 21:嶼巴21線
+NLB 23 (Ngong Ping → Tung Chung Tat Tung Road):嶼巴23線 (昂坪 → 東涌達東路)
+NLB 23 (Tung Chung Tat Tung Road → Ngong Ping):嶼巴23線 (東涌達東路 → 昂坪)
+NLB 23:嶼巴23線
+NLB 2:嶼巴2號線
+NLB 34 (Shek Mun Kap → Tung Chung Tat Tung Road (omit Chek Lap Kok New Village)):嶼巴34線 (石門甲 → 東涌達東路 (不經赤鱲角新村))
+NLB 34 (Shek Mun Kap → Tung Chung Tat Tung Road):嶼巴34線 (石門甲 → 東涌達東路)
+NLB 34 (Tung Chung Tat Tung Road → Shek Mun Kap (omit Chek Lap Kok New Village)):嶼巴34線 (東涌達東路 → 石門甲 (不經赤鱲角新村))
+NLB 34 (Tung Chung Tat Tung Road → Shek Mun Kap):嶼巴34線 (東涌達東路 → 石門甲)
+NLB 34:嶼巴34線
+NLB 36 (Siu Ho Wan → Tung Chung Tat Tung Road):嶼巴36線 (小蠔灣 → 東涌達東路)
+NLB 36 (Tung Chung Tat Tung Road → Siu Ho Wan):嶼巴36線 (東涌達東路 → 小蠔灣)
+NLB 36:嶼巴36線
+NLB 37 (Yat Tung Estate → Ying Tung Estate):嶼巴37線 (逸東邨 → 迎東邨)
+NLB 37 (Ying Tung Estate → Yat Tung Estate):嶼巴37線 (迎東邨 → 逸東邨)
+NLB 37:嶼巴37線
+NLB 37H (Ying Tung Estate ↺ Mun Tung Estate):嶼巴37H線 (迎東邨 ↺ 滿東邨)
+NLB 37M (Ying Tung Estate ↺ Tung Chung Station):嶼巴37M線 (迎東邨 ↺ 東涌站)
+NLB 37P (Yung Yat House Yat Tung Estate → Caribbean Coast):嶼巴37P線 (逸東邨雍逸樓 → 映灣園)
+NLB 37P (Yung Yat House Yat Tung Estate → E Wun Secondary School):嶼巴37P線 (逸東邨雍逸樓 → 怡文中學)
+NLB 37S (Tung Chung Development Pier → Tung Chung Station):嶼巴37S線 (東涌發展碼頭 → 東涌站)
+NLB 38 (Yat Tung Estate ↺ Tung Chung Station):嶼巴38線 (逸東邨 ↺ 東涌站)
+NLB 38:嶼巴38線
+NLB 38X (Yung Yat House Yat Tung Estate ↺ Tung Chung Station):嶼巴38X線 (逸東邨雍逸樓 ↺ 東涌站)
+NLB 39M (Mun Tung Estate → Tung Chung Station):嶼巴39M線 (滿東邨 → 東涌站)
+NLB 39M (Tung Chung Station ↺ Mun Tung Estate):嶼巴39M線 (東涌站 ↺ 滿東邨)
+NLB 39M:嶼巴39M線
+NLB 3M (Mui Wo Ferry Pier → Tung Chung Station (via North Lantau Hospital)):嶼巴3M線（梅窩碼頭 → 東涌站（經北大嶼山醫院））
+NLB 3M (Mui Wo Ferry Pier → Tung Chung Station):嶼巴3M線（梅窩碼頭 → 東涌站）
+NLB 3M (Pui O → Tung Chung Station):嶼巴3M線（貝澳 → 東涌站）
+NLB 3M (Tung Chung Station → Mui Wo Ferry Pier (via North Lantau Hospital)):嶼巴3M線 (東涌站 → 梅窩碼頭 (經北大嶼山醫院))
+NLB 3M (Tung Chung Station → Mui Wo Ferry Pier):嶼巴3M線 (東涌站 → 梅窩碼頭)
+NLB 3M:嶼巴3M線
+NLB 4 (Mui Wo Ferry Pier → Shui Hau (via Tong Fuk Correctional Institution)):嶼巴4號線 (梅窩碼頭 → 水口 (經塘福懲教所))
+NLB 4 (Mui Wo Ferry Pier → Tong Fuk):嶼巴4號線 (梅窩碼頭 → 塘福)
+NLB 4 (Shui Hau → Mui Wo Ferry Pier):嶼巴4號線 (水口 → 梅窩碼頭)
+NLB 4 (Tong Fuk → Mui Wo Ferry Pier (via Mui Wo Old Town)):嶼巴4號線 (塘福 → 梅窩碼頭 (經梅窩舊墟))
+NLB 4 (Tong Fuk → Mui Wo Ferry Pier):嶼巴4號線 (塘福 → 梅窩碼頭)
+NLB 4:嶼巴4號線
+NLB A35 (HZMB HK Port → Mui Wo Ferry Pier (via Mui Wo Old Market)):嶼巴A35線 (大橋香港口岸 → 梅窩碼頭 (經梅窩舊墟))
+NLB A35 (HZMB HK Port → Mui Wo Ferry Pier):嶼巴A35線 (大橋香港口岸 → 梅窩碼頭)
+NLB A35 (Mui Wo Ferry Pier → HZMB HK Port (via Mui Wo Old Market)):嶼巴A35線（梅窩碼頭 → 大橋香港口岸（經梅窩舊墟））
+NLB A35 (Mui Wo Ferry Pier → HZMB HK Port (via Tung Chung Town Centre)):嶼巴A35線（梅窩碼頭 → 大橋香港口岸（經東涌市中心））
+NLB A35 (Mui Wo Ferry Pier → HZMB HK Port):嶼巴A35線（梅窩碼頭 → 大橋香港口岸）
+NLB A35:嶼巴A35線
+NLB N1 (Mui Wo Ferry Pier → Tai O):嶼巴N1線 (梅窩碼頭 → 大澳)
+NLB N1:嶼巴N1線
+NLB N35 (HZMB HK Port → Mui Wo Ferry Pier):嶼巴N35線 (大橋香港口岸 → 梅窩碼頭)
+NLB N35 (Mui Wo Ferry Pier → HZMB HK Port):嶼巴N35線（梅窩碼頭 → 大橋香港口岸）
+NLB N35:嶼巴N35線
+NLB N37 (Ying Tung Estate ↺ Tung Chung Station):嶼巴N37線 (迎東邨 ↺ 東涌站)
+NLB N37:嶼巴N37線
+NLB N38 (Tung Chung Station → Yat Tung Estate):嶼巴N38線 (東涌站 → 逸東邨)
+NLB N38 (Yat Tung Estate → Tung Chung Station):嶼巴N38線 (逸東邨 → 東涌站)
+NLB N38:嶼巴N38線
+NLSI Lui Kwok Pat Fung College:新生命教育協會呂郭碧鳳中學
+NLSI Peace Evangelical Secondary School:新生命教育協會平安福音中學
+Nlai River:那赖河
+Nlex Public Lighting 'G' Substation:北大嶼山幹線街燈變電站‵Ｇ‵
+nl dukhov all russian research institute of automation:杜霍夫全苏自动化研究所
+nlb komercijalna banka:科摩西亚尔纳银行
+nlsi lui kwok pat fong college:新生命教育協會呂郭碧鳳中學

@@ -1,0 +1,1005 @@
+KM Ling Car Accessories:衔伶汽車音響裝飾中心
+KMB 1 (Chuk Yuen Estate → Star Ferry):九巴1號線（竹園邨→尖沙咀碼頭）
+KMB 1 (Star Ferry → Chuk Yuen Estate):九巴1號線（尖沙咀碼頭→竹園邨）
+KMB 10 (Choi Wan ↺ Tai Kok Tsui):九巴10線（彩雲↺大角咀）
+KMB 10:九巴10線
+KMB 11 (Diamond Hill Station → Kowloon Station):九巴11線（鑽石山站→九龍站）
+KMB 11 (Kowloon Station → Diamond Hill Station):九巴11線（九龍站→鑽石山站）
+KMB 11:九巴11線
+KMB 11B (Kowloon City Ferry → Kwun Tong (Tsui Ping Road)):九巴11B線（九龍城碼頭→觀塘（翠屏道））
+KMB 11B (Kwun Tong (Tsui Ping Road) → Kowloon City Ferry):九巴11B線（觀塘（翠屏道）→九龍城碼頭）
+KMB 11B:九巴11B線
+KMB 11C (Chuk Yuen Estate → Sau Mau Ping (Upper)):九巴11C線（竹園邨→上秀茂坪）
+KMB 11C (Sau Mau Ping (Upper) → Chuk Yuen Estate):九巴11C線（上秀茂坪→竹園邨）
+KMB 11C:九巴11C線
+KMB 11D (Kwun Tong Ferry → Lok Fu):九巴11D線（觀塘碼頭→樂富）
+KMB 11D (Lok Fu → Kwun Tong Ferry):九巴11D線（樂富→觀塘碼頭）
+KMB 11D:九巴11D線
+KMB 11K (Chuk Yuen Estate → Hung Hom Station):九巴11K線（竹園邨→紅磡站）
+KMB 11K (Hung Hom Station → Chuk Yuen Estate):九巴11K線（紅磡站→竹園邨）
+KMB 11K:九巴11K線
+KMB 11X (Hung Hom Station → On Tai (North)):九巴11X線（紅磡站→安泰（北））
+KMB 11X (On Tai (North) → Hung Hom Station):九巴11X線（安泰（北）→紅磡站）
+KMB 11X:九巴11X線
+KMB 12 (Hoi Lai Estate → Tsim Sha Tsui East (Mody Road)):九巴12線（海麗邨→尖沙咀東（麼地道） ）
+KMB 12 (Tsim Sha Tsui East (Mody Road) → Hoi Lai Estate):九巴12線（尖沙咀東（麼地道） →海麗邨）
+KMB 12:九巴12線
+KMB 12A (Cheung Sha Wan (Hoi Tat Estate) → Whampoa Garden):九巴12A線（長沙灣（海達邨）→黃埔花園）
+KMB 12A (Whampoa Garden → Cheung Sha Wan (Hoi Tat Estate)):九巴12A線（黃埔花園→長沙灣（海達邨））
+KMB 12A:九巴12A線
+KMB 12P (Hoi Lai Estate → Hung Hom Station):九巴12P線（海麗邨→紅磡站）
+KMB 13 (Anderson → Sham Shui Po (Yen Chow Street)):九巴13線（安達臣→深水埗（欽州街））
+KMB 13 (Sham Shui Po (Yen Chow Street) → Anderson):九巴13線（深水埗（欽州街）→安達臣）
+KMB 13:九巴13線
+KMB 13D (Island Harbourview → Po Tat):九巴13D線（維港灣→寶達）
+KMB 13D (Po Tat → Island Harbourview) (not via Sham Mong Road):九巴13D線（寶達→維港灣，不經深旺道）
+KMB 13D (Po Tat → Island Harbourview):九巴13D線（寶達→維港灣）
+KMB 13D:九巴13D線
+KMB 13M (Kwun Tong (Elegance Road) ↺ Po Tat):九巴13M線（觀塘（雅麗道）↺寶達）
+KMB 13M (Po Tat → Kwun Tong Station) (via Tseung Kwan O Road):九巴13M線（寶達→觀塘站，經將軍澳道）
+KMB 13M:九巴13M線
+KMB 13P (Po Tat → Cheung Sha Wan (Lai Kok Estate)):九巴13P線（寶達→長沙灣（麗閣邨））
+KMB 13X (Choi Fook → Tsim Sha Tsui East):九巴13X線（彩福→尖沙咀東）
+KMB 13X (Po Tat → Tsim Sha Tsui East) (not via Richland Gardens and not calling at Cooke Street):九巴13X線（寶達→尖沙咀東，不經麗晶花園及不停曲街）
+KMB 13X (Po Tat → Tsim Sha Tsui East) (not via Richland Gardens):九巴13X線（寶達→尖沙咀東，不經麗晶花園）
+KMB 13X (Po Tat → Tsim Sha Tsui East):九巴13X線（寶達→尖沙咀東）
+KMB 13X (Tsim Sha Tsui East → Po Tat) (not via Richland Gardens):九巴13X線（尖沙咀東→寶達，不經麗晶花園）
+KMB 13X (Tsim Sha Tsui East → Po Tat):九巴13X線（尖沙咀東→寶達）
+KMB 13X:九巴13X線
+KMB 14 (China Ferry Terminal → Lei Yue Mun Estate):九巴14線（中港碼頭→鯉魚門邨）
+KMB 14 (Lei Yue Mun Estate → China Ferry Terminal):九巴14線（鯉魚門邨→中港碼頭）
+KMB 14:九巴14線
+KMB 14B (Lam Tin (Kwong Tin Estate) → Ngau Tau Kok):九巴14B線（藍田（廣田邨）→牛頭角）
+KMB 14B (Lok Wah → Lam Tin (Kwong Tin Estate)):九巴14B線（樂華→藍田（廣田邨））
+KMB 14B (Ngau Tau Kok → Lam Tin (Kwong Tin Estate)):九巴14B線（牛頭角→藍田（廣田邨））
+KMB 14B:九巴14B線
+KMB 14D (Choi Hung → Yau Tong):九巴14D線（彩虹→油塘）
+KMB 14D (Lam Tin (Kwong Tin Estate) → Choi Hung):九巴14D線（藍田（廣田邨）→彩虹）
+KMB 14D (Yau Tong → Choi Hung):九巴14D線（油塘→彩虹）
+KMB 14D:九巴14D線
+KMB 14H (Yau Tong ↺ Shun Lee):九巴14H線（油塘↺順利）
+KMB 14H:九巴14H線
+KMB 14S (Yau Tong ↺ Tseung Kwan O Chinese Permanent Cemetery):九巴14S線（油塘↺將軍澳華人永遠墳場）
+KMB 14S:九巴14S線
+KMB 14X (Yau Tong (Shung Tak Wai) ↺ Tsim Sha Tsui):九巴14X線（油塘（崇德圍）↺尖沙咀）
+KMB 15 (Hung Hom (Hung Luen Road) → Ping Tin):九巴15線（紅磡（紅鸞道） → 平田）
+KMB 15 (Ping Tin → Hung Hom (Hung Luen Road)):九巴15線（平田 → 紅磡（紅鸞道））
+KMB 15:九巴15線
+KMB 15A (Ping Tin → Tsz Wan Shan (North)):九巴15A線（平田→慈雲山（北））
+KMB 15A (Tsz Wan Shan (North) → Ping Tin):九巴15A線（慈雲山（北） → 平田）
+KMB 15A:九巴15A線
+KMB 15X (Hung Hom Station → Lam Tin (Kwong Tin Estate)):九巴15X線（紅磡站→藍田（廣田邨））
+KMB 15X (Lam Tin (Kwong Tin Estate) → Hung Hom Station):九巴15X線（藍田（廣田邨）→紅磡站）
+KMB 16 (Lam Tin (Kwong Tin Estate) → Mong Kok (Park Avenue)):九巴16線（藍田（廣田邨）→旺角（柏景灣））
+KMB 16 (Mong Kok (Park Avenue) → Lam Tin (Kwong Tin Estate)):九巴16線（旺角（柏景灣） → 藍田（廣田邨））
+KMB 16 (Ping Tin → Mong Kok (Park Avenue)):九巴16線（平田→旺角（柏景灣））
+KMB 16:九巴16線
+KMB 16M (Kwun Tong (Yue Man Square) ↺ Lam Tin (Hong Wah Court)):九巴16M線（觀塘（裕民坊）↺藍田（康華苑））
+KMB 16M:九巴16M線
+KMB 16P (Kwun Tong Ferry → Mong Kok (Park Avenue)):九巴16P線（觀塘碼頭→旺角（柏景灣））
+KMB 16P (Mong Kok (Park Avenue) → Kwun Tong Ferry):九巴16P線（旺角（柏景灣）→觀塘碼頭）
+KMB 16X (Lam Tin (Kwong Tin Estate) → Mong Kok (Park Avenue)):九巴16X線（藍田（廣田邨）→旺角（柏景灣））
+KMB 16X (Mong Kok (Park Avenue) → Lam Tin (Kwong Tin Estate)):九巴16X線（旺角（柏景灣）→藍田（廣田邨））
+KMB 17 (Ho Man Tin (Oi Man Estate) → Kwun Tong (Yue Man Square)):九巴17線（何文田（愛民邨）→觀塘（裕民坊））
+KMB 17 (Kowloon Bay Station → Ho Man Tin (Oi Man Estate)):九巴17線（九龍灣站 → 何文田（愛民邨））
+KMB 17 (Kwun Tong (Yue Man Square) → Ho Man Tin (Oi Man Estate)):九巴17線（觀塘（裕民坊）→何文田（愛民邨））
+KMB 17 (Richland Gardens → Ho Man Tin (Oi Man Estate)):九巴17線（麗晶花園 → 何文田（愛民邨））
+KMB 17:九巴17線
+KMB 18 (Cheung Sha Wan (Hoi Tat Estate) ↺ Ho Man Tin (Oi Man Estate)):九巴18線（長沙灣（海達邨）↺何文田（愛民邨））
+KMB 18:九巴18線
+KMB 19 (Anderson → Diamond Hill (Kai Cheung Court)):九巴19線（安達臣→鑽石山（啟翔苑））
+KMB 19 (Diamond Hill (Kai Cheung Court) → Anderson):九巴19線（鑽石山（啟翔苑）→安達臣）
+KMB 19:九巴19線
+KMB 1:九巴1號線
+KMB 1A (Sau Mau Ping (Central) → Star Ferry):九巴1A線 （中秀茂坪 → 尖沙咀碼頭）
+KMB 1A (Tsim Sha Tsui Ferry Pier → Sau Mau Ping (Central)):九巴1A線 （尖沙咀碼頭 → 中秀茂坪）
+KMB 1A:九巴1A線
+KMB 2 (Cheung Sha Wan (So Uk Estate) → Star Ferry):九巴2號線（長沙灣（蘇屋邨）→尖沙咀碼頭）
+KMB 2 (Star Ferry → Cheung Sha Wan (So Uk Estate)):九巴2號線（尖沙咀碼頭→長沙灣（蘇屋邨））
+KMB 203C (Tai Hang Tung → Tsim Sha Tsui East (Mody Road)):九巴203C線（大坑東→尖沙咀東（麼地道） ）
+KMB 203C (Tsim Sha Tsui East (Mody Road) → Sham Shui Po (Tai Hang Tung)) (via Begonia Road):九巴203C線（尖沙咀東（麼地道）→深水埗（大坑東），經海棠路）
+KMB 203C (Tsim Sha Tsui East (Mody Road) → Sham Shui Po (Tai Hang Tung)):九巴203C線（尖沙咀東（麼地道） →深水埗（大坑東））
+KMB 203C:九巴203C線
+KMB 203E (Choi Hung → Kowloon Station):九巴203E線（彩虹→九龍站）
+KMB 203E (Kowloon Station → Choi Hung):九巴203E線（九龍站→彩虹）
+KMB 203E:九巴203E線
+KMB 203S (Chak On Estate → Tsim Sha Tsui East (Mody Road)):九巴203S線（澤安邨→尖沙咀東（麼地道） ）
+KMB 208 (Broadcast Drive → Tsim Sha Tsui East):九巴208線 (廣播道 → 尖沙咀東)
+KMB 208 (Tsim Sha Tsui East → Broadcast Drive):九巴208線 (尖沙咀東 → 廣播道)
+KMB 208:九巴208線
+KMB 21 (Choi Wan → Hung Hom Station):九巴21線（彩雲→紅磡站）
+KMB 21 (Hung Hom Station → Choi Wan):九巴21線（紅磡站→彩雲）
+KMB 211 (Tsui Chuk Garden ↺ Wong Tai Sin Station):九巴211線（翠竹花園↺黃大仙站）
+KMB 211:九巴211線
+KMB 211A (Lok Fu ↺ Tsui Chuk Garden):九巴211A線（樂富↺翠竹花園）
+KMB 213A (On Tat → Choi Hung Station):九巴213A線（安達→彩虹站）
+KMB 213B (On Tai → Kwun Tong (Ting Fu Street)):九巴213B線（安泰→觀塘（定富街））
+KMB 213D (Sau Mau Ping (Central) ↺ Mong Kok):九巴213D線（中秀茂坪↺旺角）
+KMB 213E (Anderson → Kowloon Station):九巴213E線（安達臣→九龍站）
+KMB 213E (Kowloon Station→ Anderson ):九巴213E線（九龍站→安達臣）
+KMB 213E:九巴213E線
+KMB 213M (On Tai ↺ Lam Tin Station):九巴213M線（安泰↺藍田站）
+KMB 213M:九巴213M線
+KMB 213S (On Tat ↺ Lam Tin Station):九巴213S線（安達↺藍田站）
+KMB 213X (On Tai (South) ↺ Tsim Sha Tsui) (via Kwun Tong Bypass on outbound trip):九巴213X線（安泰（南）↺尖沙咀，去程經觀塘繞道）
+KMB 213X (On Tai (South) ↺ Tsim Sha Tsui):九巴213X線（安泰（南） ↺ 尖沙咀）
+KMB 214 (Cheung Sha Wan (Kom Tsun Street) → Yau Tong):九巴214線（長沙灣（甘泉街）→油塘）
+KMB 214 (Po Tat → Cheung Sha Wan (Kom Tsun Street)):九巴214線（寶達→長沙灣（甘泉街））
+KMB 214 (Yau Tong → Cheung Sha Wan (Kom Tsun Street)):九巴214線（油塘→長沙灣（甘泉街））
+KMB 214:九巴214線
+KMB 214P (On Sau Road → Cheung Sha Wan (Kom Tsun Street)):九巴214P線（安秀道→長沙灣（甘泉街））
+KMB 215P (Lam Tin (Kwong Tin Estate) → Kowloon Station):九巴215P線（藍田（廣田邨）→九龍站）
+KMB 215X (Kowloon Station → Lam Tin (Kwong Tin Estate)):九巴215X線（九龍站→藍田（廣田邨））
+KMB 215X (Lam Tin (Kwong Tin Estate) → Kowloon Station) (not calling at Cooke Street):九巴215X線（藍田（廣田邨）→九龍站，不停曲街）
+KMB 215X (Lam Tin (Kwong Tin Estate) → Kowloon Station):九巴215X線（藍田（廣田邨）→九龍站）
+KMB 215X:九巴215X線
+KMB 216M (Lam Tin Station ↺ Yau Tong Station):九巴216M線（藍田站↺油塘站）
+KMB 216M:九巴216M線
+KMB 219X (Ko Ling Road ↺ Tsim Sha Tsui):九巴219X線（高嶺道↺尖沙咀）
+KMB 219X (Laguna City ↺ Tsim Sha Tsui):九巴219X線（麗港城↺尖沙咀）
+KMB 219X:九巴219X線
+KMB 21:九巴21線
+KMB 224X (Kai Tak ↺ Tsim Sha Tsui East):九巴224X線（啟德↺尖沙咀東）
+KMB 224X (Kai Yip ↺ Tsim Sha Tsui East) (not calling at Cooke Street):九巴224X線（啟業↺尖沙咀東，不停曲街）
+KMB 224X (Kai Yip ↺ Tsim Sha Tsui East):九巴224X線（啟業↺尖沙咀東）
+KMB 224X:九巴224X線
+KMB 23 (Kwun Tong Ferry ↺ Shun Lee):九巴23線（觀塘碼頭↺順利）
+KMB 23 (Shun Tin → Kwun Tong Ferry):九巴23線（順天→觀塘碼頭）
+KMB 234A (Sea Crest Villa → Tsuen Wan West Station):九巴234A線（浪翠園 → 荃灣西站）
+KMB 234A (Tsuen Wan West Station → Sea Crest Villa):九巴234A線（荃灣西站 → 浪翠園）
+KMB 234A:九巴234A線
+KMB 234B (Sea Crest Villa → Tsuen Wan West Station):九巴234B線（浪翠園 → 荃灣西站）
+KMB 234B (Tsuen Wan West Station → Sea Crest Villa):九巴234B線（荃灣西站 → 浪翠園）
+KMB 234B:九巴234B線
+KMB 234P (Tsuen Wan (Bayview Garden) -> Star Ferry):九巴234P線 （荃灣（灣景花園）→尖沙咀碼頭）
+KMB 234X (Tsim Sha Tsui East (Mody Road) -> Tsuen Wan (Bayview Garden)):九巴234X線（尖沙咀東（麼地道）→荃灣（灣景花園））
+KMB 234X (Tsuen Wan (Bayview Garden) -> Tsim Sha Tsui East (Mody Road)):九巴234X線（荃灣（灣景花園）→尖沙咀東（麼地道））
+KMB 234X:九巴234X線
+KMB 235M (Kwai Chung (On Yam Estate) → Kwai Fong Station):九巴235M線（葵涌（安蔭邨）→葵芳站）
+KMB 235M (Kwai Fong Station → Kwai Chung (On Yam Estate)):九巴235M線（葵芳站→葵涌（安蔭邨））
+KMB 235M:九巴235M線
+KMB 238M (Riviera Gardens -> Tsuen Wan Station):九巴238M線（海濱花園→荃灣站）
+KMB 238M (Tsuen Wan Station -> Riviera Gardens):九巴238M線（荃灣站→海濱花園）
+KMB 238M:九巴238M線
+KMB 238P (Riviera Gardens → China Ferry Terminal):九巴238P線（海濱花園 → 中港碼頭）
+KMB 238X (China Ferry Terminal -> Riviera Gardens):九巴238X線（中港碼頭→海濱花園）
+KMB 238X (Riviera Gardens → China Ferry Terminal):九巴238X線（海濱花園→中港碼頭）
+KMB 238X:九巴238X線
+KMB 23:九巴23線
+KMB 23M (Lok Wah ↺ Shun Lee) (via Kowloon Bay on return):九巴23M線（樂華↺順利，回程經九龍灣）
+KMB 23M (Lok Wah ↺ Shun Lee):九巴23M線（樂華↺順利）
+KMB 23M:九巴23M線
+KMB 24 (Kai Yip ↺ Mong Kok) (via Kowloon Bay en route to Kai Yip):九巴24線（啟業↺旺角，回程經九龍灣）
+KMB 24 (Kai Yip ↺ Mong Kok) (via Kowloon Bay en route to Mong Kok):九巴24線（啟業↺旺角，去程經九龍灣）
+KMB 24 (Kai Yip ↺ Mong Kok):九巴24線（啟業↺旺角）
+KMB 241X (Kowloon City Ferry → Tsing Yi (Cheung Ching Estate)):九巴241X線（九龍城碼頭→青衣（長青邨））
+KMB 241X (Tsing Yi (Cheung Ching Estate) → Kowloon City Ferry):九巴241X線（青衣（長青邨）→九龍城碼頭）
+KMB 241X:九巴241X線
+KMB 243M (Mayfair Gardens → Tsuen Wan (Discovery Park)):九巴243M線（美景花園→荃灣（愉景新城））
+KMB 243M (Tsuen Wan (Discovery Park) → Mayfair Gardens):九巴243M線（荃灣（愉景新城）→美景花園）
+KMB 248M (Cheung Wang → Tsing Yi Station):九巴248M線 (長宏 → 青衣站)
+KMB 248M (Tsing Yi Station → Cheung Wang):九巴248M線 (青衣站 → 長宏)
+KMB 248M:九巴248M線
+KMB 249M (Tsing Yi Station ↺ Mayfair Gardens):九巴249M線 (青衣站 ↺ 美景花園)
+KMB 249M:九巴249M線
+KMB 24:九巴24線
+KMB 251A (Kam Sheung Road Station ↺ Sheung Tsuen):九巴251A線（錦上路站 ↺ 上村）
+KMB 251A:九巴251A線
+KMB 251B (Pat Heung Road ↺ Sheung Tsuen):九巴251B線（八鄉路 ↺ 上村）
+KMB 251B:九巴251B線
+KMB 251M (Sheung Tsuen → Tsuen Wan Station):九巴251M線（上村 → 荃灣站）
+KMB 252 (So Kwun Wat → Tuen Mun Road Interchange):九巴252線（掃管笏 → 屯門公路轉車站）
+KMB 252 (Tuen Mun Road Interchange → So Kwun Wat):九巴252線（屯門公路轉車站 → 掃管笏）
+KMB 252:九巴252線
+KMB 252B (Handsome Court → Tsim Sha Tsui):九巴252B線（恆順園 → 尖沙咀）
+KMB 252B:九巴252B線
+KMB 252X (Handsome Court → Lam Tin Station):九巴252X線（恆順園 → 藍田站）
+KMB 252X (Lam Tin Station → Chi Lok Fa Yuen):九巴252X線（藍田站 → 置樂花園）
+KMB 252X:九巴252X線
+KMB 258A (Hung Shui Kiu (Hung Fuk Estate) → Lam Tin Station):九巴258A線（洪水橋（洪福邨） → 藍田站）
+KMB 258D (Lam Tin Station → Po Tin):九巴258D線（藍田站 → 寶田）
+KMB 258D (Po Tin → Lam Tin Station):九巴258D線（寶田 → 藍田站）
+KMB 258D:九巴258D線
+KMB 258P (Hung Shui Kiu (Hung Fuk Estate) → Lam Tin Station):九巴258P線（洪水橋（洪福邨） → 藍田站）
+KMB 258P (Lam Tin Station → Hung Tin Road Hung Fuk Estate):九巴258P線（藍田站 → 洪天路洪福邨）
+KMB 258S (Tai Hing → Lam Tin Station):九巴258S線（大興 → 藍田站）
+KMB 258X (Kwun Tong Ferry → Po Tin):九巴258X線（觀塘碼頭 → 寶田）
+KMB 258X (Po Tin → Kwun Tong Ferry):九巴258X線（寶田 → 觀塘碼頭）
+KMB 259B (Tuen Mun Pier Head → Tsim Sha Tsui):九巴259B線（屯門碼頭 → 尖沙咀）
+KMB 259B:九巴259B線
+KMB 259C (Sun Tuen Mun Centre → Tsim Sha Tsui):九巴259C線（新屯門中心 → 尖沙咀）
+KMB 259C:九巴259C線
+KMB 259D:九巴259D線
+KMB 259E (Glorious Garden → Tsuen Wan Station):九巴259E線（富健花園 → 荃灣站）
+KMB 259E (Lung Mun Oasis → Tsuen Wan Station):九巴259E線（龍門居 → 荃灣站）
+KMB 259E:九巴259E線
+KMB 259X (Kwun Tong Ferry → Lung Mun Oasis):九巴259X線（觀塘碼頭 → 龍門居）
+KMB 259X (Lung Mun Oasis → Kwun Tong Ferry):九巴259X線（龍門居 → 觀塘碼頭）
+KMB 26 (Shun Tin → Tsim Sha Tsui East):九巴26線（順天→尖沙咀東）
+KMB 26 (Tsim Sha Tsui East → Shun Tin):九巴26線（尖沙咀東→順天）
+KMB 260B (Tuen Mun Central → Tsim Sha Tsui):九巴260B線（屯門市中心 → 尖沙咀）
+KMB 260B:九巴260B線
+KMB 260C (Kwai Fong Station → Sam Shing):九巴260C線（葵芳站 → 三聖）
+KMB 260C (Sam Shing → Kwai Fong Station):九巴260C線（三聖 → 葵芳站）
+KMB 260C:九巴260C線
+KMB 260X (Hung Hom Station → Po Tin):九巴260X線（紅磡站 → 寶田）
+KMB 260X (Po Tin → Hung Hom Station):九巴260X線（寶田 → 紅磡站）
+KMB 260X (Tai Hing → Hung Hom Station):九巴260X線（大興 → 紅磡站）
+KMB 260X:九巴260X線
+KMB 261 (Cheung Wah → Sam Shing):九巴261線（祥華 → 三聖）
+KMB 261 (Sam Shing → Cheung Wah):九巴261線（三聖 → 祥華）
+KMB 261:九巴261線
+KMB 261B (Sam Shing → Kowloon Station):九巴261B線（三聖 → 九龍站）
+KMB 261B (So Kwun Wat → Kowloon Station):九巴261B線（掃管笏 → 九龍站）
+KMB 261B:九巴261B線
+KMB 261P (Siu Hong Court → Tin Ping Estate):九巴261P線（兆康苑 → 天平邨）
+KMB 261P (Tin Ping Estate → Siu Hong Court):九巴261P線（天平邨 → 兆康苑）
+KMB 261S (Po Tin → Tin Ping Estate):九巴261S線（寶田 → 天平邨）
+KMB 261X (Cheung Wah → So Kwun Wat):九巴261X線（祥華 → 掃管笏）
+KMB 261X (So Kwun Wat → Cheung Wah):九巴261X線（掃管笏 → 祥華）
+KMB 263 (Sha Tin Station → Tuen Mun Station):九巴263線（沙田站 → 屯門站）
+KMB 263 (Tuen Mun Station → Sha Tin Station):九巴263線（屯門站 → 沙田站）
+KMB 263:九巴263線
+KMB 263A (Hong Kong Science Park → Tuen Mun Station):九巴263A線（香港科學園 → 屯門站）
+KMB 263A (Tuen Mun Station → Hong Kong Science Park):九巴263A線（屯門站 → 香港科學園）
+KMB 263A:九巴263A線
+KMB 263C (Tai Po Industrial Estate → Tuen Mun Station):九巴263C線（大埔工業邨 → 屯門站）
+KMB 263C (Tuen Mun Station → Tai Po Industrial Estate):九巴263C線（屯門站 → 大埔工業邨）
+KMB 263C:九巴263C線
+KMB 267X (Lam Tin Station → Siu Hong Court):九巴267X線（藍田站 → 兆康苑）
+KMB 267X (Siu Hong Court → Lam Tin Station):九巴267X線（兆康苑 → 藍田站）
+KMB 267X:九巴267X線
+KMB 268 (Pat Heung Road → Yau Pok Road Light Public Housing (South)):九巴268線（八鄉路→攸壆路簡約公屋 (南)）
+KMB 268 (Yau Pok Road Light Public Housing (South) → Pat Heung Road):九巴268線（攸壆路簡約公屋 (南)→八鄉路）
+KMB 268:九巴268線
+KMB 268C (Kwun Tong Ferry → Long Ping Station):九巴268C線（觀塘碼頭 → 朗屏站）
+KMB 268C (Long Ping Station → Kwun Tong Ferry):九巴268C線（朗屏站 → 觀塘碼頭）
+KMB 268C:九巴268C線
+KMB 268X (Hung Shui Kiu (Hung Fuk Estate) → West Kowloon Station):九巴268X線（洪水橋（洪福邨） → 西九龍站）
+KMB 268X (West Kowloon Station → Hung Shui Kiu (Hung Fuk Estate)):九巴268X線（西九龍站 → 洪水橋（洪福邨））
+KMB 269C (Kwun Tong Ferry → Tin Shui Wai Town Centre):九巴269C線（觀塘碼頭 → 天水圍市中心）
+KMB 269C (Tin Shui Wai Town Centre → Kwun Tong Ferry):九巴269C線（天水圍市中心 → 觀塘碼頭）
+KMB 269C:九巴269C線
+KMB 26:九巴26線
+KMB 26M (Choi Hung ↺ Kwun Tong):九巴26M線（彩虹↺觀塘）
+KMB 26M:九巴26M線
+KMB 26X (Shun Tin → Tsim Sha Tsui East):九巴26X線（順天→尖沙咀東）
+KMB 26X (Tsim Sha Tsui East → Shun Tin):九巴26X線（尖沙咀東→順天）
+KMB 27 (Shun Tin ↺ Mong Kok):九巴27線（順天↺旺角）
+KMB 270A (Sheung Shui → Tsim Sha Tsui East (Mody Road)):九巴270A線（上水→尖沙咀東（麼地道））
+KMB 270A (Tsim Sha Tsui East (Mody Road) → Sheung Shui):九巴270A線（尖沙咀東（麼地道）→上水）
+KMB 270A:九巴270A線
+KMB 271 (Jordan (West Kowloon Station) → Tai Po (Fu Heng)) (Route 1):九巴271線（佐敦（西九龍站） → 大埔（富亨））（走線①）
+KMB 271 (Jordan (West Kowloon Station) → Tai Po (Fu Heng)) (Route 2):九巴271線（佐敦（西九龍站） → 大埔（富亨））（走線②）
+KMB 271 (Tai Po (Fu Heng) → Jordan (West Kowloon Station)):九巴271線（大埔（富亨） → 佐敦（西九龍站））
+KMB 271:九巴271線
+KMB 271B (Jordan (West Kowloon Station) → Tai Po (Fu Heng)):九巴271B線（佐敦（西九龍站） → 大埔（富亨））
+KMB 271B (Tai Po (Fu Heng) → Jordan (West Kowloon Station)):九巴271B線（大埔（富亨） → 佐敦（西九龍站））
+KMB 272A (Pak Shek Kok → University Station):九巴272A線（白石角 → 大學站）
+KMB 272A (University Station → Mayfair by the Sea):九巴272A線（大學站 → 逸瓏灣）
+KMB 272A (University Station ↺ Pak Shek Kok):九巴272A線（大學站 ↺ 白石角）
+KMB 272A:九巴272A線
+KMB 272K (University Station → Hong Kong Science Park (non-stop)):九巴272K線（大學站 → 香港科學園（不停站））
+KMB 272K (University Station ↺ Hong Kong Science Park):九巴272K線（大學站 ↺ 香港科學園）
+KMB 272K:九巴272K線
+KMB 273A (Choi Yuen ↺ Wah Ming) (via Ching Shing Road):九巴273A線（彩園 ↺ 華明） （經清城路）
+KMB 273A (Choi Yuen ↺ Wah Ming):九巴273A線（彩園 ↺ 華明）
+KMB 273A:九巴273A線
+KMB 273B (Ching Ho Estate ↺ Sheung Shui Station):九巴273B線（清河邨 ↺ 上水站）
+KMB 273D (Sheung Shui ↺ Wah Ming) (via Ching Ho):九巴273D線（上水 ↺ 華明） （經清河）
+KMB 273D (Sheung Shui ↺ Wah Ming):九巴273D線（上水 ↺ 華明）
+KMB 274 (Sheung Shui (Tai Ping) → Wu Kai Sha Station):九巴274線（上水（太平） → 烏溪沙站）
+KMB 274X (Kwun Tong Ferry → Tai Po Central):九巴274X線（觀塘碼頭 → 大埔中心）
+KMB 275R (Wu Kau Teng → Tai Po Market Station):九巴275R線（烏蛟騰→大埔墟站）
+KMB 276 (Sheung Shui → Tin Tsz):九巴276線 (上水 → 天慈)
+KMB 276 (Tin Tsz → Sheung Shui):九巴276線 (天慈 → 上水)
+KMB 276:九巴276線
+KMB 276A (Sheung Shui (Tai Ping) → Tin Heng Estate):九巴276A線 （上水（太平） → 天恆邨）
+KMB 276A (Tin Heng Estate → Sheung Shui (Tai Ping)):九巴276A線 （天恆邨 → 上水（太平））
+KMB 276A:九巴276A線
+KMB 276B (Sheung Shui (Choi Yuen) → Tin Heng Estate):九巴276B線 （上水（彩園） → 天富）
+KMB 276B (Tin Heng Estate → Sheung Shui (Choi Yuen)):九巴276B線 （天富 → 上水（彩園））
+KMB 276P (Sheung Shui → Tin Shui Wai Station):九巴276P線 (上水 → 天水圍站)
+KMB 276P (Tin Shui Wai Station → Sheung Shui):九巴276P線 (天水圍站 → 上水)
+KMB 277A (Lam Tin Station → Sha Tau Kok):九巴277A線（藍田站 → 沙頭角）
+KMB 277A (Sha Tau Kok → Lam Tin Station):九巴277A線 （沙頭角 → 藍田站）
+KMB 277E (Lam Tin Station → Sheung Shui (Tin Ping)):九巴277E線（藍田站 → 上水（天平））
+KMB 277E (Sheung Shui (Tin Ping) → Lam Tin Station):九巴277E線（上水（天平） → 藍田站）
+KMB 277E:九巴277E線
+KMB 277P (Lam Tin Station → Sheung Shui (Tin Ping)):九巴277P線（藍田站 → 上水（天平））
+KMB 277P (Sheung Shui (Tin Ping) → Lam Tin Station):九巴277P線（上水（天平）→藍田站）
+KMB 277X (Lam Tin Station → Luen Wo Hui):九巴277X線（藍田站 → 聯和墟）
+KMB 277X (Luen Wo Hui → Lam Tin Station) (Omit Wah Ming):九巴277X線（聯和墟 → 藍田站）（不經華明）
+KMB 277X (Luen Wo Hui → Lam Tin Station):九巴277X線 (聯和墟 → 藍田站)
+KMB 277X (Wah Ming → Lam Tin Station):九巴277X線 (華明 → 藍田站)
+KMB 277X:九巴277X線
+KMB 278K (Luen Wo Hui ↺ Fanling Station):九巴278K線 (聯和墟 ↺ 粉嶺站)
+KMB 278X (Sheung Shui → Tsuen Wan (Nina Tower)):九巴278X線（上水 → 荃灣（如心廣場））
+KMB 278X (Tsuen Wan (Nina Tower) → Sheung Shui):九巴278X線（荃灣（如心廣場） → 上水）
+KMB 278X (Tsuen Wan (Nina Tower) → Sheung Shui):九巴278X线（荃湾（如心广场） → 上水）
+KMB 278X:九巴278X線
+KMB 278X:九巴278X线
+KMB 279A (Luen Wo Hui → Tsing Yi Station):九巴279A線（聯和墟 → 青衣站）
+KMB 279X (Luen Wo Hui → Tsing Yi Station):九巴279X線（聯和墟 → 青衣站）
+KMB 279X (Tsing Yi Station → Luen Wo Hui):九巴279X線（青衣站 → 聯和墟）
+KMB 27:九巴27線
+KMB 27X (Olympic Station → Shun Tin):九巴27X線（奧運站→順天）
+KMB 27X (Shun Tin → Olympic Station):九巴27X線（順天→奧運站）
+KMB 28 (Lok Wah → Star Ferry):九巴28線（樂華→尖沙咀碼頭）
+KMB 28 (Star Ferry → Lok Wah):九巴28線（尖沙咀碼頭→樂華）
+KMB 281B (Shek Mun Estate → Tsim Sha Tsui East (Mody Road)):九巴281B線（碩門邨 → 尖沙咀東（麼地道））
+KMB 282 (Shatin Central ↺ San Tin Wai):九巴282線（沙田市中心↺新田圍）
+KMB 282:九巴282線
+KMB 283 (Shatin Central ↺ Mei Chung Court):九巴283線（沙田市中心↺美松苑）
+KMB 284 (Shatin Central ↺ Ravana Garden):九巴284線（沙田市中心↺濱景花園）
+KMB 286X (Hin Keng ↺ Sham Shui Po):九巴286X線（顯徑 ↺ 深水埗）
+KMB 286X:九巴286X線
+KMB 287 (University Station ↺ GO PARK Sai Sha):九巴287線（大學站 ↺ 西沙 GO PARK）
+KMB 287:九巴287線
+KMB 288 (Shui Chuen O (Upper) ↺ Sha Tin Central):九巴288線 (水泉澳(上) ↺ 沙田市中心)
+KMB 289K (Chevalier Garden → University Station):九巴289K線（富安花園 → 大學站）
+KMB 289K (University Station ↺ Chevalier Garden):九巴289K線（大學站 ↺ 富安花園）
+KMB 289K:九巴289K線
+KMB 289R (Wong Shek Pier → Sha Tin Central):九巴289R線（黃石碼頭 → 沙田市中心）
+KMB 28:九巴28線
+KMB 28B (Choi Fook → Kai Tak (Kai Ching Estate)):九巴28B線（彩福→啟德（啟晴邨））
+KMB 28B (Kai Tak (Kai Ching Estate) → Choi Fook) (via Ngau Tau Kok Bus Terminus):九巴28B線（啟德（啟晴邨）→彩福，經牛頭角總站）
+KMB 28B (Kai Tak (Kai Ching Estate) → Choi Fook):九巴28B線（啟德（啟晴邨）→彩福）
+KMB 28B:九巴28B線
+KMB 28S (Kwun Tong (Yue Man Square) → Lok Wah):九巴28S線（觀塘（裕民坊）→樂華）
+KMB 290 (Hang Hau (North) (Tseung Kwan O Hospital) → Tsuen Wan West Station):九巴290線（坑口（北）（將軍澳醫院）→荃灣西站）
+KMB 290 (Tsuen Wan West Station → Hang Hau (North) (Tseung Kwan O Hospital)):九巴290線（荃灣西站→坑口（北）（將軍澳醫院））
+KMB 290:九巴290線
+KMB 290A (Sau Mau Ping (Upper) → Tsuen Wan West Station):九巴290A線（上秀茂坪→荃灣西站）
+KMB 290A (Tseung Kwan O (Choi Ming) → Tsuen Wan West Station):九巴290A線（將軍澳（彩明）→荃灣西站）
+KMB 290A (Tsuen Wan West Station → Tseung Kwan O (Choi Ming)):九巴290A線（荃灣西站→將軍澳（彩明））
+KMB 290A:九巴290A線
+KMB 291P (H.K.U.S.T. (South) → Mong Kok):九巴291P線（香港科技大學（南）→旺角）
+KMB 292P (Sai Kung → Kwun Tong):九巴292P線（西貢 → 觀塘）
+KMB 292P:九巴292P線
+KMB 296A (Sheung Tak ↺ Ngau Tau Kok Station):九巴296A線（尚德↺牛頭角站）
+KMB 296C (Cheung Sha Wan (Hoi Ying Estate) → Sheung Tak):九巴296C線（長沙灣（海盈邨）→尚德）
+KMB 296C (Sheung Tak → Cheung Sha Wan (Hoi Ying Estate)):九巴296C線（尚德→長沙灣（海盈邨））
+KMB 296C:九巴296C線
+KMB 296D (Kowloon Station → Sheung Tak):九巴296D線（九龍站→尚德）
+KMB 296D (Sheung Tak → Kowloon Station):九巴296D線（尚德→九龍站）
+KMB 296D:九巴296D線
+KMB 296M (Hong Shing Garden → Hang Hau Station):九巴296M線（康盛花園→坑口站）
+KMB 297 (Hung Hom (Hung Luen Road) → Po Lam):九巴297線（紅磡（紅鸞道）→寶林）
+KMB 297 (Po Lam → Hung Hom (Hung Luen Road)):九巴297線（寶林→紅磡（紅鸞道））
+KMB 297:九巴297線
+KMB 297P (Hang Hau (North) (Tseung Kwan O Hospital) → Hung Hom (Hung Luen Road)):九巴297P線（坑口（北）（將軍澳醫院）→紅磡（紅鸞道））
+KMB 299X (Sai Kung → Sha Tin Central (via Sha Kok Mei)):九巴299X線（西貢 → 沙田市中心（經沙角尾））
+KMB 299X (Sai Kung → Sha Tin Central):九巴299X線（西貢 → 沙田市中心）
+KMB 299X (Sha Tin Central → Sai Kung):九巴299X線（沙田市中心 → 西貢）
+KMB 299X:九巴299X線
+KMB 29M (Shun Lee ↺ San Po Kong):九巴29M線（順利↺新蒲崗）
+KMB 29M:九巴29M線
+KMB 2:九巴2號線
+KMB 2A (Lok Wah → Mei Foo):九巴2A線（樂華→美孚）
+KMB 2A (Mei Foo → Lok Wah):九巴2A線（美孚→樂華）
+KMB 2A:九巴2A線
+KMB 2B (Cheung Sha Wan → Chuk Yuen Estate):九巴2B線（長沙灣→竹園邨）
+KMB 2B (Chuk Yuen Estate → Cheung Sha Wan):九巴2B線（竹園邨→長沙灣）
+KMB 2B:九巴2B線
+KMB 2D (Chak On Estate → Wong Tai Sin):九巴2D線（澤安邨→黃大仙）
+KMB 2D (Wong Tai Sin → Chak On Estate):九巴2D線（黃大仙→澤安邨）
+KMB 2D:九巴2D線
+KMB 2E (Kowloon City Ferry → Pak Tin (North)):九巴2E線（九龍城碼頭→白田（北））
+KMB 2E (Pak Tin (North) → Kowloon City Ferry):九巴2E線（白田（北）→九龍城碼頭）
+KMB 2E:九巴2E線
+KMB 2F (Cheung Sha Wan → Tsz Wan Shan (North)):九巴2F線（長沙灣→慈雲山（北））
+KMB 2F (Tsz Wan Shan (North) → Cheung Sha Wan) (via Hammer Hill Road):九巴2F線（慈雲山（北）→長沙灣，經斧山道）
+KMB 2F (Tsz Wan Shan (North) → Cheung Sha Wan):九巴2F線（慈雲山（北）→長沙灣）
+KMB 2F:九巴2F線
+KMB 2P (Cheung Sha Wan → Tsz Wan Shan (North)):九巴2P線（長沙灣→慈雲山（北））
+KMB 2X (Choi Fook → Mei Foo):九巴2X線（彩福→美孚）
+KMB 2X (Mei Foo → Choi Fook):九巴2X線（美孚→彩福）
+KMB 30 (Cheung Sha Wan → Tsuen Wan (Allway Gardens)):九巴30線（長沙灣 → 荃灣（荃威花園））
+KMB 30 (Tsuen Wan (Allway Gardens) → Cheung Sha Wan):九巴30線（荃灣（荃威花園） →長沙灣）
+KMB 30:九巴30線
+KMB 30X (Tsuen Wan (Allway Gardens) → Whampoa Garden):九巴30X線（荃灣（荃威花園） →黃埔花園）
+KMB 30X (Whampoa Garden → Tsuen Wan (Allway Gardens)) (not via Yeung Uk Road):九巴30X線（黃埔花園→荃灣（荃威花園） ，不經楊屋道）
+KMB 30X (Whampoa Garden → Tsuen Wan (Allway Gardens)):九巴30X線（黃埔花園→荃灣（荃威花園） ）
+KMB 30X:九巴30X線
+KMB 31 (Tsuen Wan West Station ↺ Shek Lei):九龍巴士31線（荃灣西站 ↺ 石籬）
+KMB 31 (Tsuen Wan West Station ↺ Shek Lei):九龙巴士31线（荃湾西站 ↺ 石篱）
+KMB 31:九巴31線
+KMB 31B (Olympic Station → Shek Lei (Tai Loong Street)):九巴31B線（奧運站→石籬（大隴街））
+KMB 31B (Shek Lei (Tai Loong Street) → Olympic Station):九巴31B線（石籬（大隴街）→奧運站）
+KMB 31B:九巴31B線
+KMB 31M (Kwai Fong Station -> Shek Kai House Shek Lei Estate):九巴31M線（葵芳站→石籬邨石佳樓）
+KMB 31M (Kwai Fong Station -> Shek Lei (Lei Pui Street)):九巴31M線（葵芳站→石籬（梨貝街））
+KMB 31M (Shek Lei (Lei Pui Street) -> Kwai Fong Station):九巴31M線（石籬（梨貝街）→葵芳站）
+KMB 31M:九巴31M線
+KMB 31P (Shek Lei Commercial Complex -> Kwai Fong Station):九巴31P線（石籬商場→葵芳站）
+KMB 32 (Olympic Station → Shek Wai Kok):九巴32線（奧運站 → 石圍角）
+KMB 32 (Shek Wai Kok → Olympic Station):九巴32線（石圍角 → 奧運站）
+KMB 32:九巴32線
+KMB 32M (Kwai Fong Station ↺ Cheung Shan):九巴32M線（葵芳站 ↺ 象山）
+KMB 32M:九巴32M線
+KMB 33 (Tsuen Wan West Station → Yau Tong):九巴33B線（荃灣西站 → 油塘）
+KMB 33 (Tsuen Wan West Station → Yau Tong):九巴33線（荃灣西站 → 油塘）
+KMB 33 (Yau Tong → Tsuen Wan West Station):九巴33線（油塘 → 荃灣西站）
+KMB 33:九巴33線
+KMB 33A (Mong Kok (Park Avenue) → Tsuen Wan (Nina Tower)):九巴33A線（旺角（柏景灣） → 荃灣（如心廣場））
+KMB 33A (Tsuen Wan (Nina Tower) → Mong Kok (Park Avenue)):九巴33A線（荃灣（如心廣場） → 旺角（柏景灣））
+KMB 33A:九巴33A線
+KMB 33B (Yau Tong → Tsuen Wan West Station):九巴33B線（油塘 → 荃灣西站）
+KMB 34 (Bayview Garden -> Kwai Shing (Central)):九巴34線（灣景花園→葵盛（中））
+KMB 34 (Fu On House Tai Wo Hau Estate -> Kwai Shing (Central)):九巴34線（大窩口邨富安樓→葵盛（中））
+KMB 34 (Kwai Shing (Central) -> Bayview Garden):九巴34線（葵盛（中）→灣景花園）
+KMB 34:九巴34線
+KMB 34M (Bayview Garden ↺ Tsuen Wan Station):九巴34M線（灣景花園↺荃灣站）
+KMB 36 (Tsuen Wan West Station ↺ Lei Muk Shue):九巴36線（荃灣西站 ↺ 梨木樹）
+KMB 36 (Tsuen Wan West Station ↺ Lei Muk Shue):九巴36线（荃湾西站 ↺ 梨木树）
+KMB 36:九巴36線
+KMB 36:九巴36线
+KMB 36A (Lei Muk Shue ↺ Sham Shui Po):九巴36A線（梨木樹↺深水埗）
+KMB 36A:九巴36A線
+KMB 36B (Jordan (West Kowloon Station) → Lei Muk Shue):九巴36B線（佐敦（西九龍站） → 梨木樹）
+KMB 36B (Lei Muk Shue → Jordan (West Kowloon Station)):九巴36B線（梨木樹 → 佐敦（西九龍站））
+KMB 36B (Lei Muk Shue → Jordan (West Kowloon Station)):九巴36B线（梨木树 → 佐敦（西九龙站））
+KMB 36B:九巴36B線
+KMB 36M (Kwai Fong Station → Lei Muk Shue):九巴36M線（葵芳站 → 梨木樹）
+KMB 36M (Kwai Fong Station → Lei Muk Shue):九巴36M线（葵芳站 → 梨木树）
+KMB 36M (Lei Muk Shue → Kwai Fong Station):九巴36M線（梨木樹 → 葵芳站）
+KMB 36M (Lei Muk Shue → Kwai Fong Station):九巴36M线（梨木树 → 葵芳站）
+KMB 36M:九巴36M線
+KMB 36M:九巴36M线
+KMB 37M (Kwai Hing Station ↺ Kwai Shing Central):九巴37M線（葵興站 ↺ 葵盛中）
+KMB 37M (Kwai Hing Station ↺ Kwai Shing Central):九巴37M线（葵兴站 ↺ 葵盛中）
+KMB 37M:九巴37M線
+KMB 37M:九巴37M线
+KMB 38 (Kwai Shing (East) → Ping Tin):九巴38線（葵盛（東） → 平田）
+KMB 38 (Ping Tin → Kwai Shing (East)):九巴38線（平田 → 葵盛（東））
+KMB 38:九巴38線
+KMB 38A (Mei Foo -> Riviera Gardens):九巴38A線（美孚→海濱花園）
+KMB 38A (Riviera Gardens -> Mei Foo):九巴38A線（海濱花園→美孚）
+KMB 38A:九巴38A線
+KMB 38B (Riviera Gardens -> Shek Mun Estate):九巴38B線（海濱花園→碩門邨）
+KMB 38B (Shek Mun Estate -> Riviera Gardens):九巴38B線（碩門邨→海濱花園）
+KMB 38B:九巴38B線
+KMB 38P (Kwai Shing (Central) → Ping Tin):九巴38P線（葵盛（中） → 平田）
+KMB 38P (Ping Tin → Kwai Shing (Central)):九巴38P線（平田 → 葵盛（中））
+KMB 39A (Tsuen Wan West Station ↺ Tsuen Wan (Allway Gardens)):九巴39A線（荃灣西站 ↺ 荃灣（荃威花園））
+KMB 39M (Tsuen Wan (Allway Gardens) ↺ Tsuen Wan Station):九巴39M線（荃灣（荃威花園） ↺荃灣站）
+KMB 39M:九巴39M線
+KMB 3B (Hung Hom (Hung Luen Road) → Tsz Wan Shan (Central)) (not via Ching Fai House):九巴3B線（紅磡（紅鸞道）→慈雲山（中））（不經正暉樓）
+KMB 3B (Hung Hom (Hung Luen Road) → Tsz Wan Shan (Central)):九巴3B線（紅磡（紅鸞道）→慈雲山（中））
+KMB 3B (Tsz Wan Shan (Central) → Hung Hom (Hung Luen Road)):九巴3B線（慈雲山（中）→紅磡（紅鸞道））
+KMB 3B:九巴3B線
+KMB 3C (China Ferry Terminal → Tsz Wan Shan (North)):九巴3C線（中港碼頭→慈雲山（北））
+KMB 3C (Tsz Wan Shan (North) → China Ferry Terminal):九巴3C線（慈雲山（北）→中港碼頭）
+KMB 3C:九巴3C線
+KMB 3D (Ching Hong House → Kwun Tong (Yue Man Square)):九巴3D線（正康樓→觀塘（裕民坊））
+KMB 3D (Kwun Tong (Yue Man Square) → Tsz Wan Shan (Central)):九巴3D線（觀塘（裕民坊）→慈雲山（中））
+KMB 3D (Kwun Tong (Yue Man Square) → Tsz Wan Shan (South)):九巴3D線（觀塘（裕民坊）→慈雲山（南））
+KMB 3D (Tsz Wan Shan (Central) → Kwun Tong (Yue Man Square)):九巴3D線（慈雲山（中）→觀塘（裕民坊））
+KMB 3D (Tsz Wan Shan (South) → Kwun Tong (Yue Man Square)):九巴3D線（慈雲山（南）→觀塘（裕民坊））
+KMB 3D:九巴3D線
+KMB 3M (Choi Wan → Tsz Wan Shan (North)):九巴3M線（彩雲→慈雲山（北））
+KMB 3M (Choi Wan → Tsz Wan Shan (South)):九巴3M線（彩雲→慈雲山（南））
+KMB 3M (Tsz Wan Shan (North) → Choi Wan):九巴3M線（慈雲山（北）→彩雲）
+KMB 3M:九巴3M線
+KMB 3S (Diamond Hill Station ↺ Diamond Hill Crematorium):九巴3S線（鑽石山站↺鑽石山火葬場）
+KMB 3S:九巴3S線
+KMB 3X (Jordan (West Kowloon Station) → Tsz Wan Shan (North)):九巴3X線（佐敦（西九龍站）→慈雲山（北））
+KMB 3X (Tsz Wan Shan (North) → China Ferry Terminal) (via Fu Shan):九巴3X線（慈雲山（北）→中港碼頭） （經富山）
+KMB 3X (Tsz Wan Shan (North) → China Ferry Terminal):九巴3X線（慈雲山（北）→中港碼頭）
+KMB 3X:九巴3X線
+KMB 40 (Laguna City → Tsuen Wan (Belvedere Garden)):九巴40線（麗港城 → 荃灣（麗城花園））
+KMB 40 (Tsuen Wan (Belvedere Garden) → Laguna City) (via Cheung Lai Street):九巴40線（荃灣（麗城花園） → 麗港城）（經長荔街）
+KMB 40 (Tsuen Wan (Belvedere Garden) → Laguna City):九巴40線（荃灣（麗城花園） → 麗港城）
+KMB 40:九巴40線
+KMB 40A (Kwai Hing Station → Ping Tin):九巴40A線（葵興站 → 平田）
+KMB 40A (Ping Tin → Kwai Hing Station):九巴40A線（平田 → 葵興站）
+KMB 40B (Kwai Chung Estate → Ping Tin):九巴40B線（葵涌邨 → 平田）
+KMB 40P (Kwun Tong Ferry → Tsuen Wan (Nina Tower)):九巴40P線（觀塘碼頭 → 荃灣（如心廣場））
+KMB 40P (Tsuen Wan (Nina Tower) → Kwun Tong Ferry):九巴40P線（荃灣（如心廣場） → 觀塘碼頭）
+KMB 42C (Lam Tin Station → Tsing Yi (Cheung Hang Estate)):九巴42C線（藍田站 → 青衣（長亨邨））
+KMB 42C (Tsing Yi (Cheung Hang Estate) → Lam Tin Station):九巴42C線（青衣（長亨邨） → 藍田站）
+KMB 42C:九巴42C線
+KMB 43X (Ma On Shan (Yiu On) → Tsuen Wan West Station):九巴43X線（馬鞍山（耀安）→荃灣西站）
+KMB 43X (Po Tai Street → Tsuen Wan West Station):九巴43X線（保泰街→荃灣西站）
+KMB 43X (Tsuen Wan West Station → Ma On Shan (Yiu On)):九巴43X線（荃灣西站→馬鞍山（耀安））
+KMB 43X:九巴43X線
+KMB 44 (Mong Kok East Station → Tsing Yi Estate):九巴44線（旺角東站→青衣邨）
+KMB 44 (Tsing Yi Estate → Mong Kok East Station):九巴44線（青衣邨→旺角東站）
+KMB 44:九巴44線
+KMB 45 (Kowloon City Ferry → Kwai Chung (Lai Yiu Estate)):九巴45線（九龍城碼頭→葵涌（麗瑤邨））
+KMB 45 (Kwai Chung (Lai Yiu Estate) → Kowloon City Ferry):九巴45線（葵涌（麗瑤邨）→九龍城碼頭）
+KMB 45:九巴45線
+KMB 46 (Jordan (West Kowloon Station) → Kwai Chung (Lai Yiu Estate)):九巴46線（佐敦（西九龍站）→葵涌（麗瑤邨））
+KMB 46 (Kwai Chung (Lai Yiu Estate) → Jordan (West Kowloon Station)):九巴46線（葵涌（麗瑤邨）→佐敦（西九龍站））
+KMB 46:九巴46線
+KMB 46X (Hin Keng → Mei Foo):九巴46X線（顯徑 → 美孚）
+KMB 46X (Mei Foo → Hin Keng):九巴46X線（美孚 → 顯徑）
+KMB 46X:九巴46X線
+KMB 48X (Tsuen Wan (Bayview Garden) → Wo Che):九巴48X線（荃灣（灣景花園）→禾輋）
+KMB 48X (Wo Che → Tsuen Wan (Bayview Garden)):九巴48X線（禾輋→荃灣（灣景花園））
+KMB 48X:九巴48X線
+KMB 49 (Tseung Kwan O Industrial Estate → Tsing Yi (Ching Fu Court)):九巴49線（將軍澳工業邨→青衣（青富苑））
+KMB 49 (Tsing Yi (Ching Fu Court) → Tseung Kwan O Industrial Estate):九巴49線（青衣（青富苑）→將軍澳工業邨）
+KMB 49:九巴49線
+KMB 5 (Fu Shan → Star Ferry):九巴5號線（富山→尖沙咀碼頭）
+KMB 5 (Star Ferry → Fu Shan):九巴5號線（尖沙咀碼頭→富山）
+KMB 51 (Tsuen Wan (Nina Tower) ↺ Sheung Tsuen):九巴51線（荃灣（如心廣場）↺上村）
+KMB 51:九巴51線
+KMB 52X (Mong Kok (Park Avenue) → Tuen Mun Central):九巴52X線（旺角（柏景灣） → 屯門市中心）
+KMB 52X (So Kwun Wat → Mong Kok (Park Avenue)):九巴52X線（掃管笏 → 旺角（柏景灣））
+KMB 52X (Tuen Mun Central → Mong Kok (Park Avenue)):九巴52X線（屯門市中心 → 旺角（柏景灣））
+KMB 52X:九巴52X線
+KMB 53 (Tsuen Wan West Station → Yuen Long (Yoho Mall)):九巴53線（荃灣西站 → 元朗（形點））
+KMB 53 (Yuen Long (Yoho Mall) → Tsuen Wan (Nina Tower)):九巴53線（元朗（形點） → 荃灣（如心廣場））
+KMB 53:九巴53線
+KMB 54 (Yuen Long (West) ↺ Sheung Tsuen):九巴54線（元朗（西） ↺ 上村）
+KMB 54:九巴54線
+KMB 57M (Lai King (North) → Shan King):九巴57M線（荔景（北） → 山景）
+KMB 57M (Shan King → Lai King (North)):九巴57M線（山景 → 荔景（北））
+KMB 57M:九巴57M線
+KMB 58M (Kin Sang → Kwai Fong Station):九巴58M線（建生 → 葵芳站）
+KMB 58M (Kwai Fong Station → Leung King Estate):九巴58M線（葵芳站 → 良景邨）
+KMB 58M (Leung King Estate → Kwai Fong Station (omit Kin Sang)):九巴58M線（良景邨 → 葵芳站（不經建生））
+KMB 58M (Leung King Estate → Kwai Fong Station):九巴58M線（良景邨 → 葵芳站）
+KMB 58M (Po Tin → Kwai Fong Station):九巴58M線（寶田 → 葵芳站）
+KMB 58M:九巴58M線
+KMB 58P (Kwai Fong Station → Tin King Estate (Tin Yue House)):九巴58P線（葵芳站 → 田景邨（田裕樓））
+KMB 58X (Kin Sang → Mong Kok East Station):九巴58X線（建生 → 旺角東站）
+KMB 58X (Leung King Estate → Mong Kok East Station):九巴58X線（良景邨 → 旺角東站）
+KMB 58X (Mong Kok East Station → Leung King Estate):九巴58X線（旺角東站 → 良景邨）
+KMB 58X:九巴58X線
+KMB 59A (Kwai Fong (Kwai Tsui Estate) → Tuen Mun Pier Head):九巴59A線（葵芳（葵翠邨） → 屯門碼頭）
+KMB 59A (Tuen Mun Pier Head → Kwai Fong (Kwai Tsui Estate)):九巴59A線（屯門碼頭 → 葵芳（葵翠邨））
+KMB 59A:九巴59A線
+KMB 59M (Sun Tuen Mun Centre → Tsuen Wan Station):九巴59M線（新屯門中心 → 荃灣站）
+KMB 59M (Tsuen Wan Station → Tuen Mun Pier Head):九巴59M線（荃灣站 → 屯門碼頭）
+KMB 59M (Tuen Mun Pier Head → Tsuen Wan Station):九巴59M線（屯門碼頭 → 荃灣站）
+KMB 59M (Yuet Wu Villa → Tsuen Wan Station):九巴59M線（悅湖山莊 → 荃灣站）
+KMB 59M:九巴59M線
+KMB 59X (Lung Mun Oasis → Mong Kok East Station):九巴59X線（龍門居 → 旺角東站）
+KMB 59X (Mong Kok East Station → Tuen Mun Pier Head):九巴59X線（旺角東站 → 屯門碼頭）
+KMB 59X (Sun Tuen Mun Centre → Mong Kok East Station (via Lung Mun Oasis)):九巴59X線（新屯門中心 → 旺角東站（經龍門居））
+KMB 59X (Tuen Mun Pier Head → Mong Kok East Station):九巴59X線（屯門碼頭 → 旺角東站）
+KMB 59X:九巴59X線
+KMB 5:九巴5號線
+KMB 5A (Kai Tak (Kai Ching Estate) → Star Ferry):九巴5A線（啟德（啟晴邨）→尖沙咀碼頭）
+KMB 5A (Star Ferry → Kai Tak (Kai Ching Estate)):九巴5A線（尖沙咀碼頭→啟德（啟晴邨））
+KMB 5A:九巴5A線
+KMB 5C (Star Ferry → Tsz Wan Shan (Central)) (not via Ching Fai House):九巴5C線（尖沙咀碼頭→慈雲山（中））（不經正暉樓）
+KMB 5C (Star Ferry → Tsz Wan Shan (Central)):九巴5C線（尖沙咀碼頭→慈雲山（中））
+KMB 5C (Tsz Wan Shan (Central) → Star Ferry):九巴5C線（慈雲山（中）→尖沙咀碼頭）
+KMB 5C (Yuk Wah Street → Star Ferry):九巴5C線（毓華街→尖沙咀碼頭）
+KMB 5C:九巴5C線
+KMB 5D (Telford Gardens ↺ Hung Hom):九巴5D線（德福花園↺紅磡）
+KMB 5D:九巴5D線
+KMB 5M (Kai Tak (Tak Long Estate) ↺ Kowloon Bay Station):九巴5M線（啟德（德朗邨） ↺ 九龍灣站）
+KMB 5M:九巴5M線
+KMB 5P (Star Ferry → Tsz Wan Shan (Central)):九巴5P線（尖沙咀碼頭→慈雲山（中））
+KMB 5P (Tsz Wan Shan (Central) → Star Ferry):九巴5P線（慈雲山（中）→尖沙咀碼頭）
+KMB 5R (Kai Tak Cruise Terminal → Kwun Tong (apm)):九巴5R線（啟德郵輪碼頭→觀塘（apm））
+KMB 5R (Kai Tak Cruise Terminal ↺ Kwun Tong (apm)):九巴5R線（啟德郵輪碼頭↺觀塘（apm））
+KMB 5R (Ngau Tau Kok Station → Kai Tak Cruise Terminal):九巴5R線（牛頭角站→啟德郵輪碼頭）
+KMB 5R:九巴5R線
+KMB 6 (Lai Chi Kok → Star Ferry):九巴6號線（荔枝角→尖沙咀碼頭）
+KMB 6 (Star Ferry → Lai Chi Kok):九巴6號線（尖沙咀碼頭→荔枝角）
+KMB 60M (Tsuen Wan Station → Tuen Mun Station):九巴60M線（荃灣站 → 屯門站）
+KMB 60M (Tuen Mun Station → Tsuen Wan Station):九巴60M線（屯門站 → 荃灣站）
+KMB 60M:九巴60M線
+KMB 60X (Tuen Mun Central → West Kowloon Station):九巴60X線（屯門市中心 → 西九龍站）
+KMB 60X (West Kowloon Station → Tuen Mun Central):九巴60X線（西九龍站 → 屯門市中心）
+KMB 60X:九巴60X線
+KMB 61M (Kwai Hing Station → Yau Oi (South)):九巴61M線（葵興站 → 友愛（南））
+KMB 61M (Lai King (North) → Yau Oi (South)):九巴61M線（荔景（北） → 友愛（南））
+KMB 61M (Yau Oi (South) → Lai King (North)):九巴61M線（友愛（南） → 荔景（北））
+KMB 61M:九巴61M線
+KMB 61X (Tuen Mun Central → Kowloon City Ferry):九巴61X線（屯門市中心 → 九龍城碼頭）
+KMB 61X:九巴61X線
+KMB 62X:九巴62X線
+KMB 63X (Hung Shui Kiu (Hung Fuk Estate) → West Kowloon Station):九巴63X線（洪水橋（洪福邨） → 西九龍站）
+KMB 63X (West Kowloon Station → Hung Shui Kiu (Hung Fuk Estate)):九巴63X線（西九龍站 → 洪水橋（洪福邨））
+KMB 63X:九巴63X線
+KMB 64K (Tai Po Market Station → Yuen Long (West)):九巴64K線（大埔墟站 → 元朗（西））
+KMB 64K (Yuen Long (West) → Tai Po Market Station):九巴64K線（元朗（西） → 大埔墟站）
+KMB 64K:九巴64K線
+KMB 64S (Sheung Tsuen → Kam Sheung Road Station):九巴64S線（上村 → 錦上路站）
+KMB 65K (Kadoorie Farm → Tai Po Central):九巴65K線（嘉道理農場 → 大埔中心）
+KMB 65K:九巴65K線
+KMB 66M (Tai Hing → Tsuen Wan (Nina Tower)):九巴66M線（大興 → 荃灣（如心廣場））
+KMB 66M (Tsuen Wan (Nina Tower) → Tai Hing):九巴66M線（荃灣（如心廣場） → 大興）
+KMB 66M:九巴66M線
+KMB 66X (Olympic Station → Tai Hing):九巴66X線（奧運站 → 大興）
+KMB 66X (Tai Hing → Olympic Station):九巴66X線（大興 → 奧運站）
+KMB 66X:九巴66X線
+KMB 67A (Kwai Fong (Kwai Tsui Estate) → Po Tin):九巴67A線（葵芳（葵翠邨）→寶田）
+KMB 67A (Po Tin → Kwai Fong (Kwai Tsui Estate)):九巴67A線（寶田→葵芳（葵翠邨））
+KMB 67M (Kwai Fong Station → Siu Hong Court):九巴67M線（葵芳站 → 兆康苑）
+KMB 67M (Siu Hong Court → Kwai Fong Station):九巴67M線（兆康苑 → 葵芳站）
+KMB 67M:九巴67M線
+KMB 67X (Mong Kok East Station → Siu Hong Court):九巴67X線（旺角東站 → 兆康苑）
+KMB 67X (Siu Hong Court → Mong Kok East Station):九巴67X線（兆康苑 → 旺角東站）
+KMB 67X:九巴67X線
+KMB 68 (Park Yoho ↺ Yoho Mall):九巴68線（峻巒 ↺ 形點）
+KMB 68A (Long Ping Estate → Tsing Yi Station):九巴68A線（朗屏邨 → 青衣站）
+KMB 68A (Tsing Yi Station → Long Ping Estate):九巴68A線（青衣站 → 朗屏邨）
+KMB 68A:九巴68A線
+KMB 68E (Tsing Yi Station → Yuen Long Park):九巴68E線（青衣站 → 元朗公園）
+KMB 68E (Yuen Long Park → Tsing Yi Station):九巴68E線（元朗公園 → 青衣站）
+KMB 68E:九巴68E線
+KMB 68F (Park Yoho ↺ Yuen Long Park):九巴68F線（峻巒 ↺ 元朗公園）
+KMB 68X (Hung Shui Kiu (Hung Fuk Estate) → Mong Kok (Park Avenue)):九巴68X線（洪水橋（洪福邨） → 旺角（柏景灣））
+KMB 68X (Mong Kok (Park Avenue) → Hung Shui Kiu (Hung Fuk Estate)):九巴68X線（旺角（柏景灣）→洪水橋（洪福邨））
+KMB 68X (Yuen Long (West) → Mong Kok (Park Avenue)):九巴68X線（元朗（西） → 旺角（柏景灣））
+KMB 68X:九巴68X線
+KMB 69 (Tin Shui Wai Town Centre → Yuen Long (Tak Yip Street)):九巴69線 （天水圍市中心 → 元朗（德業街））
+KMB 69 (Yuen Long (Tak Yip Street) → Tin Shui Wai Town Centre):九巴69線 （元朗（德業街） → 天水圍市中心）
+KMB 69:九巴69線
+KMB 69C (Kwun Tong Ferry → Tin Yan Estate):九巴69C線（觀塘碼頭 → 天恩邨）
+KMB 69C (Tin Yan Estate → Kwun Tong Ferry):九巴69C線（天水圍市中心 → 觀塘碼頭）
+KMB 69M (Kwai Fong Station → Tin Shui Wai Town Centre):九巴69M線（葵芳站 → 天水圍市中心）
+KMB 69M (Tin Shui Wai Town Centre → Kwai Fong Station):九巴69M線（天水圍市中心 → 葵芳站）
+KMB 69M:九巴69M線
+KMB 69P (Tin Yiu → Kwai Fong Station):九巴69P線（天耀 → 葵芳站）
+KMB 69X (Tin Shui → West Kowloon Station):九巴69X線（天瑞 → 西九龍站）
+KMB 69X (Tin Yiu → West Kowloon Station):九巴69X線（天耀 → 西九龍站）
+KMB 69X (West Kowloon Station → Tin Shui):九巴69X線（西九龍站 → 天瑞）
+KMB 69X:九巴69X線
+KMB 6:九巴6號線
+KMB 6C (Kowloon City Ferry → Mei Foo):九巴6C線（九龍城碼頭→美孚）
+KMB 6C (Mei Foo → Kowloon City Ferry):九巴6C線（美孚→九龍城碼頭）
+KMB 6C:九巴6C線
+KMB 6D (Mei Foo → Ngau Tau Kok):九巴6D線（美孚→牛頭角）
+KMB 6D (Ngau Tau Kok → Mei Foo):九巴6D線（牛頭角→美孚）
+KMB 6D:九巴6D線
+KMB 6E (Cheung Sha Wan (So Uk Estate) → Lei Yue Mun Estate):九巴6E線（長沙灣（蘇屋邨）→鯉魚門邨）
+KMB 6E (Lei Yue Mun Estate → Cheung Sha Wan (So Uk Estate)):九巴6E線（鯉魚門邨→長沙灣（蘇屋邨））
+KMB 6F (Cheung Sha Wan (Lai Kok Estate) → Kowloon City Ferry):九巴6F線（長沙灣（麗閣邨）→九龍城碼頭）
+KMB 6F (Kowloon City Ferry → Cheung Sha Wan (Lai Kok Estate)):九巴6F線（九龍城碼頭→長沙灣（麗閣邨））
+KMB 6F:九巴6F線
+KMB 6P (Cheung Sha Wan (So Uk Estate) → Lei Yue Mun Estate):九巴6P線（長沙灣（蘇屋邨）→鯉魚門邨）
+KMB 6P (Lei Yue Mun Estate → Cheung Sha Wan (So Uk Estate)):九巴6P線（鯉魚門邨→長沙灣（蘇屋邨））
+KMB 6P:九巴6P線
+KMB 7 (Lok Fu → Star Ferry):九巴7號線（樂富→尖沙咀碼頭）
+KMB 7 (Star Ferry → Lok Fu):九巴7號線（尖沙咀碼頭→樂富）
+KMB 70K (Fanling (Wah Ming) ↺ Sheung Shui (Ching Ho)):九巴70K線（粉嶺（華明）↺上水（清河））
+KMB 70K:九巴70K線
+KMB 72 (Cheung Sha Wan → Tai Po (Tai Wo)):九巴72線（長沙灣→大埔（太和））
+KMB 72 (Tai Po (Tai Wo) → Cheung Sha Wan):九巴72線（大埔（太和）→長沙灣）
+KMB 72A (Tai Po Industrial Estate → Tai Wai Station):九巴72A線（大埔工業邨→大圍站）
+KMB 72A (Tai Wai Station → Tai Po Industrial Estate):九巴72A線（大圍站→大埔工業邨）
+KMB 72K (Fu Tip Bus Terminus ↺ Tai Wo):九巴72K線（富蝶總站 ↺ 太和）
+KMB 72K:九巴72K線
+KMB 73K (Man Kam To (San Uk Ling Village) → Sheung Shui):九巴73K線（文錦渡（新屋嶺村）→上水）
+KMB 73K (Sheung Shui → Man Kam To (San Uk Ling Village)):九巴73K線（上水→文錦渡（新屋嶺村））
+KMB 73K:九巴73K線
+KMB 73X (Fu Shin Estate → Tsuen Wan (Nina Tower)):九巴73X線（富善邨 → 荃灣（如心廣場））
+KMB 73X (Tsuen Wan (Nina Tower) → Fu Shin Estate):九巴73X線（荃灣（如心廣場） → 富善邨）
+KMB 73X:九巴73X線
+KMB 74 (Fu Tip Bus Terminus → Yau Tong):九巴74線（富蝶總站 → 油塘）
+KMB 74 (Yau Tong → Fu Tip Bus Terminus):九巴74線（油塘 → 富蝶總站）
+KMB 74:九巴74線
+KMB 74A (Kai Yip → Tai Po (Tai Wo)):九巴74A線（啟業 → 大埔（太和））
+KMB 74A (Tai Po (Tai Wo) → Kai Yip):九巴74A線（大埔（太和） → 啟業）
+KMB 74A:九巴74A線
+KMB 74B (Kowloon Bay → Tai Po Central):九巴74B線（九龍灣 → 大埔中心）
+KMB 74B (Tai Po Central → Kwun Tong Ferry):九巴74B線（大埔中心 → 觀塘碼頭）
+KMB 74C (Kau Lung Hang → Kwun Tong Ferry):九巴74C線（九龍坑 → 觀塘碼頭）
+KMB 74D (Kau Lung Hang → Kwun Tong Ferry):九巴74D線（九龍坑 → 觀塘碼頭）
+KMB 74D (Kwun Tong Ferry → Tai Po Central):九巴74D線（觀塘碼頭 → 大埔中心）
+KMB 74E (Kwun Tong Ferry → Tai Mei Tuk):九巴74E線（觀塘碼頭 → 大美督）
+KMB 74E (Tai Mei Tuk → Kwun Tong Ferry):九巴74E線（大美督 → 觀塘碼頭）
+KMB 74E:九巴74E線
+KMB 74F (Kwun Tong Ferry → The Education University of Hong Kong):九巴74F線（觀塘碼頭 → 香港教育大學）
+KMB 74F (The Education University of Hong Kong → Kwun Tong Ferry):九巴74F線（香港教育大學 → 觀塘碼頭）
+KMB 74F:九巴74F線
+KMB 74K (Tai Po Market Station → EduHK → Sam Mun Tsai → Tai Po Market Station):九巴74K線（大埔墟站 → 香港教育大學 → 三門仔 → 大埔墟站）
+KMB 74K (Tai Po Market Station → Sam Mun Tsai → EduHK → Tai Po Market Station):九巴74K線（大埔墟站 → 三門仔 → 香港教育大學 → 大埔墟站）
+KMB 74P (Hong Kong Science Park → Kwun Tong Ferry):九巴74P線（香港科學園 → 觀塘碼頭）
+KMB 74P (Kwun Tong Ferry → Tai Po Central):九巴74P線（觀塘碼頭 → 大埔中心）
+KMB 74P (Tai Po Central → Kwun Tong Ferry):九巴74P線（大埔中心 → 觀塘碼頭）
+KMB 74X (Kwong Fuk Estate → Kwun Tong Ferry):九巴74X線（廣福邨 → 觀塘碼頭）
+KMB 74X (Kwun Tong Ferry → Tai Po Central):九巴74X線（觀塘碼頭 → 大埔中心）
+KMB 74X (Tai Po Central → Kwun Tong Ferry):九巴74X線（大埔中心 → 觀塘碼頭）
+KMB 74X (Wan Tau Tong Estate → Kwun Tong Ferry):九巴74X線（運頭塘邨 → 觀塘碼頭）
+KMB 74X:九巴74X線
+KMB 75X (Kowloon City Ferry → Tai Po (Fu Shin)) (via Tai Po Central Bus Terminus):九巴75X線（九龍城碼頭→大埔（富善））（經大埔中心總站）
+KMB 75X (Kowloon City Ferry → Tai Po (Fu Shin)):九巴75X線（九龍城碼頭→大埔（富善））
+KMB 75X (Tai Po (Fu Shin) → Kowloon City Ferry):九巴75X線（大埔（富善）→九龍城碼頭）
+KMB 76 (Yau Pok Road Light Public Housing (South) ↺ Sheung Shui Station (Choi Yuen Road)):九巴76線（攸壆路簡約公屋 (南)↺上水站 (彩園路)）
+KMB 76:九巴76線
+KMB 76K (Ching Ho Estate → Long Ping Estate):九巴76K線（清河邨 → 朗屏邨）
+KMB 76K (Long Ping Estate → Ching Ho Estate):九巴76K線（朗屏邨 → 清河邨）
+KMB 76K (Wah Ming → Long Ping Estate):九巴76K線（華明 → 朗屏邨）
+KMB 76K:九巴76K線
+KMB 77K (Bing Kong → Yuen Long (West)):九巴77K線（丙崗 → 元朗（西））
+KMB 77K (Sheung Shui → Yuen Long (Fung Cheung Road)):九巴77K線（上水 → 元朗（鳳翔路））
+KMB 77K (Yuen Long (Fung Cheung Road) → Sheung Shui):九巴77K線（元朗（鳳翔路） → 上水）
+KMB 77K:九巴77K線
+KMB 78 (Sha Tau Kok → Sheung Shui (Tai Ping)):九巴78線（沙頭角 → 上水（太平））
+KMB 78A (Queen's Hill ↺ Fanling Station) (omit Shan Lai Court):九巴78A線（皇后山 ↺ 粉嶺站）（不經山麗苑）
+KMB 78A (Queen's Hill ↺ Fanling Station):九巴78A線（皇后山 ↺ 粉嶺站）
+KMB 78A:九巴78A線
+KMB 78B (Queen's Hill → Sheung Shui (Choi Yuen)) (omits Fanling South):九巴78B線（皇后山 → 上水（彩園））（不經粉嶺南）
+KMB 78B (Queen's Hill → Sheung Shui (Choi Yuen)):九巴78B線（皇后山 → 上水（彩園））
+KMB 78B (Sheung Shui (Choi Yuen) → Queen's Hill):九巴78B線（上水（彩園） → 皇后山）
+KMB 78K (Sha Tau Kok → Fanling (Wah Ming)):九巴78K線（沙頭角→粉嶺（華明））
+KMB 78K (Sha Tau Kok → Sheung Shui (Tai Ping)):九巴78K線（沙頭角→上水（太平））
+KMB 78K (Sheung Shui (Tai Ping) → Sha Tau Kok):九巴78K線（上水（太平）→沙頭角）
+KMB 78K:九巴78K線
+KMB 78S (Sha Tau Kok → Sheung Shui):九巴78S線（沙頭角→上水）
+KMB 78S (Sheung Shui → Sha Tau Kok):九巴78S線（上水→沙頭角）
+KMB 79K (Fanling Station → Ta Kwu Ling (Tsung Yuen Ha)):九巴79K線（粉嶺站→打鼓嶺（松園下））
+KMB 79K (Sheung Shui → Ta Kwu Ling (Tsung Yuen Ha)):九巴79K線（上水→打鼓嶺（松園下））
+KMB 79K (Ta Kwu Ling (Tsung Yuen Ha) → Fanling Station):九巴79K線（打鼓嶺（松園下）→粉嶺站）
+KMB 79K (Ta Kwu Ling (Tsung Yuen Ha) → Sheung Shui):九巴79K線（打鼓嶺（松園下）→上水）
+KMB 79K:九巴79K線
+KMB 7:九巴7號線
+KMB 7B (Hung Hom (Hung Luen Road) → Lok Fu):九巴7B線（紅磡（紅鸞道）→樂富）
+KMB 7B (Lok Fu → Hung Hom (Hung Luen Road)):九巴7B線（樂富→紅磡（紅鸞道））
+KMB 7B:九巴7B線
+KMB 7M (Lok Fu ↺ Chuk Yuen Estate):九巴7M線 (樂富 ↺ 竹園邨)
+KMB 7M:九巴7M線
+KMB 8 (Kowloon Station → Star Ferry):九巴8號線（九龍站→尖沙咀碼頭）
+KMB 8 (Star Ferry → Kowloon Station):九巴8號線（尖沙咀碼頭→九龍站）
+KMB 80 (Kwun Tong Ferry → Mei Lam):九巴80線（觀塘碼頭 → 美林）
+KMB 80 (Mei Lam → Kwun Tong Ferry) (Morning special departures omit Hin Keng):九巴80線（美林 → 觀塘碼頭）（晨早特別班次，不經顯徑）
+KMB 80 (Mei Lam → Kwun Tong Ferry):九巴80線（美林 → 觀塘碼頭）
+KMB 80:九巴80線
+KMB 80A (Mei Lam → Kwun Tong Ferry):九巴80A線（美林 → 觀塘碼頭）
+KMB 80P (Hin Keng → Kwun Tong Ferry):九巴80P線（顯徑 → 觀塘碼頭）
+KMB 80X (Chun Shek → Kwun Tong Ferry):九巴80X線（秦石 → 觀塘碼頭）
+KMB 80X (Jat Min Chuen Street → Kwun Tong Ferry):九巴80X線（乙明邨街 → 觀塘碼頭）
+KMB 80X (Kwun Tong Ferry → Chun Shek):九巴80X線（觀塘碼頭 → 秦石）
+KMB 80X (Sun Tin Wai → Kwun Tong Ferry):九巴80X線（新田圍 → 觀塘碼頭）
+KMB 80X:九巴80X線
+KMB 81 (Wo Che -> Jordan (West Kowloon Station)):九巴81線（禾輋→佐敦（西九龍站））
+KMB 82X (Ravana Garden ↺ Wong Tai Sin):九巴82X線（濱景花園↺黃大仙）
+KMB 83X ( Shui Chuen O→ Kwun Tong Ferry):九巴83X線（水泉澳 → 觀塘碼頭）
+KMB 83X ( Wong Nai Tau→ Kwun Tong Ferry):九巴83X線（黃泥頭 → 觀塘碼頭）
+KMB 83X (Kwun Tong Ferry → Shui Chuen O):九巴83X線（觀塘碼頭 → 水泉澳）
+KMB 83X (Kwun Tong Ferry → Wong Nai Tau):九巴83X線（觀塘碼頭 → 黃泥頭）
+KMB 83X:九巴83X線
+KMB 86 (Mei Foo → Wong Nai Tau):九巴86線（美孚→黃泥頭）
+KMB 86 (Wong Nai Tau → Mei Foo):九巴86線（黃泥頭→美孚）
+KMB 868 (Sha Tin Racecourse → Tuen Mun Central):九巴868線（沙田馬場 → 屯門市中心）
+KMB 868 (Tuen Mun Central → Sha Tin Racecourse):九巴868線（屯門市中心 → 沙田馬場）
+KMB 868:九巴868線
+KMB 86:九巴86線
+KMB 872 (Sha Tin Racecourse → Tai Po Central):九巴872線（沙田馬場 → 大埔中心）
+KMB 872:九巴872線
+KMB 872X (Sha Tin Racecourse → Tai Po Central):九巴872X線（沙田馬場 → 大埔中心）
+KMB 87K ( Kam Ying Court → University Station) (Morning Special Departures):九巴87K線（錦英苑 → 大學站）（清晨特別班次）
+KMB 87K (Ma On Shan Town Centre → University Station):九巴87K線（馬鞍山市中心 → 大學站）
+KMB 87K (University Station → Lee On) (Midnight Special Departures):九巴87K線（大學站 → 利安）（深夜特別班次）
+KMB 87K (University Station ↺ Kam Ying Court) (Not via Chung On):九巴87K線（大學站 ↺ 錦英苑）（ 不經頌安）
+KMB 87K (University Station ↺ Kam Ying Court):九巴87K線（大學站 ↺ 錦英苑）
+KMB 87K:九巴87K線
+KMB 87P ( Lee On → Chung On):九巴87P線（利安 → 頌安）
+KMB 87S (Kam Ying Court ↺ University Station):九巴87S線（錦英苑 ↺ 大學站）
+KMB 87S (University Station ↺ Kam Ying Court):九巴87S線（大學站 ↺ 錦英苑）
+KMB 88 (Sau Mau Ping (Central) → Tai Wai Station):九巴88線 （中秀茂坪 → 大圍站）
+KMB 88 (Tai Wai Station → Sau Mau Ping (Central)):九巴88線 （大圍站 → 中秀茂坪）
+KMB 88:九巴88線
+KMB 88X (Ping Tin → Sui Wo Court) (Route A):九巴88X線（平田 → 穗禾苑）（走線A）
+KMB 88X (Ping Tin → Sui Wo Court) (Route B):九巴88X線（平田 → 穗禾苑）（走線B）
+KMB 88X (Sui Wo Court → Ping Tin) (Route A):九巴88X線（穗禾苑 → 平田）（走線A）
+KMB 88X Sui Wo Court → Ping Tin) (Route B):九巴88X線（穗禾苑 → 平田）（走線B）
+KMB 88X:九巴88X線
+KMB 89 (Kwun Tong (Tsui Ping North Estate) → Lek Yuen):九巴89線（觀塘（翠屏北邨） → 瀝源）
+KMB 89 (Lek Yuen → Kwun Tong (Tsui Ping North Estate)):九巴89線（瀝源 → 觀塘（翠屏北邨））
+KMB 89:九巴89線
+KMB 89B (Ngau Tau Kok → Sha Tin Wai):九巴89B線（牛頭角 → 沙田圍）
+KMB 89B (Sha Tin Wai → Ngau Tau Kok):九巴89B線（沙田圍 → 牛頭角）
+KMB 89B:九巴89B線
+KMB 89C (Heng On → Kwun Tong (Tsui Ping Road)) (Morning special departures omit Siu Lek Yuen):九巴89C線（恆安 → 觀塘（翠屏道））（晨早特別班次，不經小瀝源）
+KMB 89C (Heng On → Kwun Tong (Tsui Ping Road)):九巴89C線（恆安 → 觀塘（翠屏道））
+KMB 89C (Kwun Tong (Tsui Ping Road) → Heng On):九巴89C線（觀塘（翠屏道） → 恆安）
+KMB 89C:九巴89C線
+KMB 89D (Lam Tin Station → Wu Kai Sha Station) (Evening Peak departures omit Choi Hung):九巴89D線 （藍田站 → 烏溪沙站）（黃昏特別班次，不經彩虹）
+KMB 89D (Lam Tin Station → Wu Kai Sha Station):九巴89D線（藍田站 → 烏溪沙站）
+KMB 89D (Wu Kai Sha Station → Lam Tin Station):九巴89D線 (烏溪沙站 → 藍田站)
+KMB 89D:九巴89D線
+KMB 89P (Ma On Shan Town Centre → Lam Tin Station):九巴89P線 (馬鞍山市中心 → 藍田站)
+KMB 89X (Kwun Tong (Tsui Ping Road) → Sha Tin Station):九巴89X線（觀塘（翠屏道） → 沙田站）
+KMB 89X (Sha Tin Station → Kwun Tong (Tsui Ping Road)):九巴89X線（沙田站 → 觀塘（翠屏道））
+KMB 89X:九巴89X線
+KMB 8:九巴8號線
+KMB 8A (Whampoa Garden ↺ Star Ferry):九巴8A線（黃埔花園↺尖沙咀碼頭）
+KMB 8A:九巴8A線
+KMB 8P (Laguna Verde ↺ Star Ferry):九巴8P線（海逸豪園↺尖沙咀碼頭）
+KMB 9 (Choi Fook → Tsim Sha Tsui East (Mody Road)):九巴9號線（彩福→尖沙咀東（麼地道） ）
+KMB 9 (Tsim Sha Tsui East (Mody Road) → Choi Fook):九巴9號線（尖沙咀東（麼地道） →彩福）
+KMB 90 (Shek Mun Estate → Tseung Kwan O (Choi Ming)):九巴90線（碩門邨 → 將軍澳（彩明））
+KMB 90 (Tseung Kwan O (Choi Ming) → Shek Mun Estate):九巴90線 （將軍澳（彩明） → 碩門邨）
+KMB 90:九巴90線
+KMB 91 (Clear Water Bay → Diamond Hill Station):九巴91線（清水灣→鑽石山站）
+KMB 91 (Diamond Hill Station → Clear Water Bay):九巴91線（鑽石山站→清水灣）
+KMB 91 (Pik Hoi House Choi Hung Estate → Clear Water Bay):九巴91線（彩虹邨碧海樓→清水灣）
+KMB 91:九巴91線
+KMB 91M (Diamond Hill Railway Station → Po Lam):九巴91M線（鑽石山鐵路站 → 寶林）
+KMB 91M (H.K.U.S.T. (North) → Po Lam):九巴91M線（香港科技大學（北） → 寶林）
+KMB 91M (Po Lam → Diamond Hill Railway Station (via New Clear Water Bay Road)):九巴91M線（寶林 → 鑽石山鐵路站（經新清水灣道））
+KMB 91M (Po Lam → Diamond Hill Railway Station):九巴91M線（寶林 → 鑽石山鐵路站）
+KMB 91M:九巴91M線
+KMB 91P (Diamond Hill Railway Station → H.K.U.S.T. (North)):九巴91P線（鑽石山鐵路站 → 香港科技大學（北））
+KMB 91P (H.K.U.S.T. (South) → Choi Hung Station):九巴91P線（香港科技大學（南） → 彩虹站）
+KMB 91R (Clear Water Bay → Choi Ming):九巴91R線（清水灣→彩明）
+KMB 91S (Clear Water Bay → Kwun Tong):九巴91S線（清水灣 → 觀塘）
+KMB 91S:九巴91S線
+KMB 92 (Diamond Hill Railway Station → Sai Kung (Express)):九巴92線（鑽石山鐵路站 → 西貢（特快））
+KMB 92 (Diamond Hill Railway Station → Sai Kung (Express, not stopping at Sai Kung Police Station)):九巴92線（鑽石山鐵路站 → 西貢（特快、不停西貢警署））
+KMB 92 (Diamond Hill Railway Station → Sai Kung (not stopping at Sai Kung Police Station)):九巴92線（鑽石山鐵路站 → 西貢（不停西貢警署））
+KMB 92 (Diamond Hill Railway Station → Sai Kung):九巴92線（鑽石山鐵路站 → 西貢）
+KMB 92 (Sai Kung → Choi Hung Station (Express)):九巴92線（西貢 → 彩虹站（特快））
+KMB 92 (Sai Kung → Diamond Hill Railway Station (diverted via New Clear Bay Road)):九巴92線（西貢 → 鑽石山鐵路站（改經新清水灣道））
+KMB 92 (Sai Kung → Diamond Hill Railway Station):九巴92線（西貢 → 鑽石山鐵路站）
+KMB 92:九巴92線
+KMB 92R (Sai Kung → Star Ferry):九巴92R線（西貢 → 尖沙咀碼頭）
+KMB 93K (Mong Kok East Station → Po Lam):九巴93K線（旺角東站→寶林）
+KMB 93K (Po Lam → Mong Kok East Station):九巴93K線（寶林→旺角東站）
+KMB 93K:九巴93K線
+KMB 94 (Sai Kung → Wong Shek Pier):九巴94線（西貢 → 黃石碼頭）
+KMB 94 (Wong Shek Pier → Sai Kung (skip Sai Kung Police Station)):九巴94線（黃石碼頭 → 西貢（不停西貢警署））
+KMB 94 (Wong Shek Pier → Sai Kung):九巴94線（黃石碼頭 → 西貢）
+KMB 94:九巴94線
+KMB 95M (Kwun Tong (Elegance Road) → Tsui Lam):九巴95M線（觀塘（雅麗道） → 翠林）
+KMB 95M (Tsui Lam → Kwun Tong (Elegance Road)):九巴95M線（翠林 → 觀塘（雅麗道））
+KMB 95M:九巴95M線
+KMB 96 (Hong Sing Garden → Tai Po Industrial Estate):九巴96線（康盛花園 → 大埔工業邨）
+KMB 96 (Tai Po Industrial Estate → Hong Sing Garden):九巴96線（大埔工業邨 → 康盛花園）
+KMB 96:九巴96線
+KMB 96R (Diamond Hill Station → Wong Shek Pier (skip Sai Kung Police Station)):九巴96R線（鑽石山站 → 黃石碼頭（不停西貢警署））
+KMB 96R (Diamond Hill Station → Wong Shek Pier):九巴96R線（鑽石山站 → 黃石碼頭）
+KMB 96R (Wong Shek Pier → Diamond Hill Station (Express)):九巴96R線（黃石碼頭 → 鑽石山站（特快））
+KMB 96R (Wong Shek Pier → Diamond Hill Station):九巴96R線（黃石碼頭 → 鑽石山站）
+KMB 96R:九巴96R線
+KMB 98 (Tseung Kwan O Industrial Estate → Ngau Tau Kok Station) (Evening special departures):九巴98線（將軍澳工業邨 → 牛頭角站）（夜間特別班次）
+KMB 98 (Tseung Kwan O Industrial Estate ↺ Ngau Tau Kok Station):九巴98線（將軍澳工業邨 ↺ 牛頭角站）
+KMB 98:九巴98線
+KMB 98A (Hang Hau (North) (Tseung Kwan O Hospital) ↺ Ngau Tau Kok Station):九巴98A線（坑口（北）（將軍澳醫院）↺牛頭角站）
+KMB 98C (Hang Hau (North) (Tseung Kwan O Hospital) → Mei Foo):九巴98C線（坑口（北）（將軍澳醫院）→美孚）
+KMB 98C (Mei Foo → Hang Hau (North) (Tseung Kwan O Hospital)):九巴98C線（美孚→坑口（北）（將軍澳醫院））
+KMB 98C:九巴98C線
+KMB 98D (Hang Hau (North) (Tseung Kwan O Hospital) → Tsim Sha Tsui East) (via Po Shun Road):九巴98D線（坑口（北）（將軍澳醫院）→尖沙咀東）（經寶順路）
+KMB 98D (Hang Hau (North) (Tseung Kwan O Hospital) → Tsim Sha Tsui East):九巴98D線（坑口（北）（將軍澳醫院）→尖沙咀東）
+KMB 98D (Tsim Sha Tsui East → Hang Hau (North) (Tseung Kwan O Hospital)):九巴98D線（尖沙咀東→坑口（北）（將軍澳醫院））
+KMB 98D:九巴98D線
+KMB 99 (Heng On → Sai Kung (skip Sai Kung Police Station)):九巴99線（恆安 → 西貢（不停西貢警署））
+KMB 99 (Heng On → Sai Kung):九巴99線（恆安 → 西貢）
+KMB 99 (Sai Kung → Heng On (omit Sha Kok Mei)):九巴99線（西貢 → 恆安（不經沙角尾））
+KMB 99 (Sai Kung → Heng On):九巴99線（西貢 → 恆安）
+KMB 99:九巴99線
+KMB 99R (Sai Kung (North) → University Station):九巴99R線（西貢（北） → 大學站）
+KMB 99R (University Station → Sai Kung (North)):九巴99R線（大學站 → 西貢（北））
+KMB 99R:九巴99R線
+KMB 9:九巴9號線
+KMB B1 (Lok Ma Chau Station (Futian) → Tin Tsz):九巴B1線 (落馬洲站（福田） → 天慈)
+KMB B1 (Tin Tsz → Lok Ma Chau Station (Futian)):九巴B1線 (天慈 → 落馬洲站（福田）)
+KMB B1:九巴B1線
+KMB B9 (Heung Yuen Wai Port (Liantang)→ Tuen Mun Station):九巴B9線 (香園圍口岸（蓮塘） → 屯門站)
+KMB B9 (Tuen Mun Station → Heung Yuen Wai Port (Liantang)):九巴B9線 (屯門站 → 香園圍口岸（蓮塘）)
+KMB B9:九巴B9線
+KMB B9A (Heung Yuen Wai Port (Liantang)→ Yuen Long (West)):九巴B9A線 (香園圍口岸（蓮塘） → 元朗（西）)
+KMB B9A (Yuen Long (West) → Heung Yuen Wai Port (Liantang)):九巴B9A線 (元朗（西） → 香園圍口岸（蓮塘）)
+KMB Customer Service Centre:九巴顧客服務中心
+KMB Dai Wah Street Depot:九巴大華街車廠
+KMB Depot:九巴車廠
+KMB Fare Saver:九巴特惠站
+KMB Headquarters:九巴總部
+KMB Kowloon Bay Depot:九巴九龍灣車廠
+KMB Lai Chi Kok Depot:九巴荔枝角車廠
+KMB N213 (Tsim Sha Tsui East (Mody Road) → On Tai (West)):九巴N213線（尖沙咀東（麼地道） →安泰（西））
+KMB N213:九巴N213線
+KMB N214 (Yau Tong → Mei Foo):九巴N214線（油塘→美孚）
+KMB N214:九巴N214線
+KMB N216 (Hung Hom Station → Yau Tong):九巴N216線（紅磡站→油塘）
+KMB N216 (Yau Tong → Hung Hom Station):九巴N216線（油塘→紅磡站）
+KMB N216:九巴N216線
+KMB N252 (Mei Foo → Sam Shing):九巴N252線（美孚 → 三聖）
+KMB N252:九巴N252線
+KMB N260 (Mei Foo → Tuen Mun Pier Head):九巴N260線（美孚 → 屯門碼頭）
+KMB N260 (Tuen Mun Pier Head → Mei Foo):九巴N260線（屯門碼頭 → 美孚）
+KMB N260:九巴N260線
+KMB N3D (Kwun Tong (Yue Man Square) → Tsz Wan Shan (Central)):九巴N3D線（觀塘（裕民坊）→慈雲山（中））
+KMB N3D (Tsz Wan Shan (Central) → Kwun Tong (Yue Man Square)):九巴N3D線（慈雲山（中）→觀塘（裕民坊））
+KMB N3D:九巴N3D線
+KMB Overhaul Centre:九巴總修中心
+KMB Route 251C (Kong Ha Wai ↺ Yuen Long):九巴251C線（江夏圍 ↺ 元朗）
+KMB Route 259D (Lei Yue Mun Estate -> Lung Mun Oasis):九巴259D線（鯉魚門邨→龍門居）
+KMB Route 259D (Lung Mun Oasis -> Lei Yue Mun Estate):九巴259D線（龍門居→鯉魚門邨）
+KMB Route 259D (Yuet Wu Villa -> Lei Yue Mun Estate):九巴259D線（悅湖山莊→鯉魚門邨）
+KMB Route 41M (Tsing Yi Ferry -> Tsuen Wan Station):九巴41M線（青衣碼頭→荃灣站）
+KMB Route 41M (Tsuen Wan Station -> Tsing Yi Ferry):九巴41M線（荃灣站→青衣碼頭）
+KMB Route 41M:九巴41M線
+KMB Route 61X (Kowloon City Ferry → Tuen Mun Central):九巴61X線（九龍城碼頭 → 屯門市中心）
+KMB Route 62P (Tuen Mun Central -> Lei Yue Mun Estate):九巴62P線（屯門市中心→鯉魚門邨）
+KMB Route 62X (Lei Yue Mun Estate -> Siu Hong Station (South)):九巴62X線（鯉魚門邨 → 兆康站（南））
+KMB Route 62X (Siu Hong Station (South) -> Lei Yue Mun Estate):九巴62X線（兆康站（南）→鯉魚門邨）
+KMB Route 81 (Jordan (West Kowloon Station) → Wo Che):九巴81線（佐敦（西九龍站）→禾輋）
+KMB Route 81:九巴81線
+KMB Sha Tin Depot:九巴沙田車廠
+KMB Sheung Shui Depot:九巴上水車廠
+KMB Staff Rest Area:九巴員工休息室
+KMB Staff Rest Room:九巴員工休息室
+KMB Staff Self-service Restaurant:九巴員工自助餐廳
+KMB T74 (Tai Po Tai Wo → Kwun Tong Ferry):九巴T74線（大埔太和 → 觀塘碼頭）
+KMB T80 (Hin Keng → Kowloon Bay):九巴T80線（顯徑 → 九龍灣）
+KMB T80 (Mei Tin → Kowloon Bay):九巴T80線（美田 → 九龍灣）
+KMB Tai Po Depot:九巴大埔車廠
+KMB Tin Shui Wai Depot:九巴天水圍車廠
+KMB Tseung Kwan O Depot:九巴将军澳车厂
+KMB Tseung Kwan O Depot:九巴將軍澳車廠
+KMB Tsing Yi Depot:九巴青衣車廠
+KMB Tuen Mun - Chek Lap Kok Tunnel Depot A:九巴屯門－赤鱲角隧道A廠
+KMB Tuen Mun - Chek Lap Kok Tunnel Depot B:九巴屯門－赤鱲角隧道B廠
+KMB Tuen Mun Depot:九巴屯門車廠
+KMB Tuen Mun South Depot:九巴屯門南廠
+KMB W2 (Jordan (West Kowloon Station) → Laguna Park):九巴W2線（佐敦（西九龍站）→麗港公園）
+KMB W2 (Jordan (West Kowloon Station) ↺ Kwun Tong):九巴W2線（佐敦（西九龍站）↺觀塘）
+KMB W2 (Ngau Tau Kok Station (Millennium City) → Jordan (West Kowloon Station)):九巴W2線（牛頭角站（創紀之城）→佐敦（西九龍站））
+KMB W2:九巴W2線
+KMB W3 (Sheung Shui → West Kowloon Station):九巴W3線（上水 → 西九龍站）
+KMB W3 (West Kowloon Station → Sheung Shui):九巴W3線（西九龍站 → 上水）
+KMB W3:九巴W3線
+KMB W4 (High Speed Rail (West Kowloon Station) ↺ Hong Kong Palace Museum):九巴W4線（高鐵（西九龍站）↺香港故宮文化博物館）
+KMB W4:九巴W4線
+KMB Wang Lee Bus Depot:九巴宏利巴士廠
+KMB X42C (Hong Cheung House Cheung Hong Estate → Yau Tong):九巴X42C線（長康邨康祥樓 → 油塘）
+KMB X42C (Tsing Yi (Cheung Hang Estate) → Yau Tong) (Omit Ching Fu Court):九巴X42C線（青衣（長亨邨） → 油塘）（不經青富苑）
+KMB X42C (Tsing Yi (Cheung Hang Estate) → Yau Tong):九巴X42C線（青衣（長亨邨） → 油塘）
+KMB X42C (Yau Tong → Tsing Yi (Cheung Hang Estate)):九巴X42C線（油塘 → 青衣（長亨邨））
+KMB X42P (Tsing Yi (Cheung On Estate) → Lam Tin Station):九巴X42P線（青衣（長安邨） → 藍田站）
+KMB X6C (Kowloon Bay → Mei Foo):九巴X6C線（九龍灣→美孚）
+KMB X6C (Mei Foo → Kowloon Bay):九巴X6C線（美孚→九龍灣）
+KMB X6C:九巴X6C線
+KMB X89D (Kwun Tong Ferry → Nai Chung):九巴X89D線 (觀塘碼頭 → 泥涌)
+KMB X89D (Nai Chung → Kwun Tong Ferry) (via Yiu Sha Road):九巴X89D線 (泥涌 → 觀塘碼頭) (經耀沙路)
+KMB X89D (Nai Chung → Kwun Tong Ferry):九巴X89D線 (泥涌 → 觀塘碼頭)
+KMB X89D:九巴X89D線
+KMB Yuen Long Depot:九巴元朗車廠
+KMB Yuet Lun Street Depot:九巴月輪街車廠
+KMU Gang-Shan Hospital:高醫岡山醫院
+Km 0 Obelisk:河江Km0公路原点
+Kmitów:克米季夫
+Kmowledge City South(Shenxiezhongxin):知识城南(审协中心)站
+Kmytiv:克米季夫
+Kmytiw:克米季夫
+Kmítiv:克米季夫
+Kmîtiv:克米季夫
+km and:千米和
+km deep:千米深的
+km diameter:千米直径
+km family:千米家庭
+km high:千米高
+km line:千米线
+km long:千米长的
+km of black sea beach:千米的黑海海滩
+km of cable:千米的电缆
+km of cast-iron:千米的铸铁
+km of coast:千米的海岸
+km of coastline:千米的海岸线
+km of high-density:千米的高密度
+km of nerve:千米的神经
+km of open:千米的开
+km of railway electrification:千米的铁路电气化
+km of wall:千米的墙
+km of water:千米的水
+km of:千米的
+km or:千米或
+km orbit:千米轨道
+km per hour:千米每小时
+km per:千米每
+km radius:千米半径
+km to:千米到
+km tunnel system:千米隧道系統
+km tunnel:千米隧道
+km waterway:千米航道
+km wide:千米宽
+km-long coastline:千米长的海岸线
+km-long run:千米长的跑
+km-long wall:千米长的墙
+km:千米
+kmanek haburas unidade nasional timor oan:帝汶人民团结繁荣党
+kmb football team:九龍巴士足球隊
+kmc chain industrial:桂盟
+kmeria:单性木兰属
