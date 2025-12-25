@@ -2413,6 +2413,7 @@ is a business organization:是一个商业组织
 is a business trade:是一个商业贸易
 is a business:是一个商业
 is a business:是一个生意
+is a butterfly:是一只蝴蝶
 is a button:是一个按钮
 is a buy:是一个买
 is a bytecode:是一个字节码
@@ -2425,7 +2426,7 @@ is a calm:是一个平静
 is a canadian actor:是一个加拿大演员
 is a canadian actress:是一个加拿大女演员
 is a canadian former:是一个加拿大前
-is a canadian:是一个加拿大
+is a canadian:是一个加拿大人
 is a canadian:是一个加拿大的
 is a cancer kill:是一个癌症杀
 is a cancer patient:是一个癌症患者
@@ -2529,6 +2530,7 @@ is a city of:是一个城市的
 is a city plan:是一个城市计划
 is a city rich:是一个城市丰富的
 is a city:是一个城市
+is a civil parish:是一个教区
 is a civilian:是一个平民
 is a class file:是一个类文件
 is a class variable:是一个类变量
@@ -2614,6 +2616,7 @@ is a common need:是一个共同的需要
 is a common source:是一个共同的源
 is a common theme:是一个共同的主题
 is a common:是一个共同的
+is a commune:是一个公社
 is a communication protocol:是一个通信协议
 is a communist:是一个共产党员
 is a community and:是一个社区和
@@ -3475,6 +3478,8 @@ is a generation:是一代
 is a generator:是一个生成器
 is a genius:是一个天才
 is a genocide:是一个种族灭绝
+is a genus:是一个
+is a geologic formation:是一种地质构造
 is a geologist:是一个地质学家
 is a german music:是一个德国的音乐
 is a german name:是一个日耳曼名字
@@ -4282,12 +4287,13 @@ is a moral responsibility:是一道德责任
 is a moral:是一个道德的
 is a more complex:是一个更复杂的
 is a more than:是一个超过
+is a moth:是一种蛾
 is a mother and:是一个母亲和
 is a mother:是一个母亲
 is a mother:是一位母親
 is a motion graphics:是一个运动图形
 is a motorcycle:是一个摩托车
-is a mountain:是一个山
+is a mountain:是一座山
 is a movie:是一部电影
 is a muggle family:是一个麻瓜家庭
 is a multilateral treaty:是一个多边条约
@@ -4931,6 +4937,7 @@ is a protected park:是一个受保护的公园
 is a protected species:是一个受保护的物种
 is a protected:是一个受保护的
 is a protection of:是一个保护的
+is a protein:是一种蛋白质
 is a protocol and:是一个协议和
 is a protocol-independent:是一个协议独立的
 is a protocol:是一个协议
@@ -5001,8 +5008,10 @@ is a quote:是一个引用
 is a race:是一个种族
 is a racist:是一个种族主义者
 is a radar station:是一个雷达站
+is a radio station:是一个无线电台
 is a radio:是一个无线电
-is a railway and:是一个铁路和
+is a railway station:是一个火车站
+is a railway:是一条铁路
 is a random choice:是一个随机选择
 is a random error:是一个随机错误
 is a random value:是一个随机值
@@ -5156,8 +5165,9 @@ is a rigorous:是一个严格的
 is a ring:是一个戒指
 is a risk factor:是一个风险因素
 is a risk:是一个风险
-is a road:是一个路
-is a road:是一个道路
+is a river:是一条河
+is a road:是一条路
+is a road:是一条道路
 is a roads:是一个路
 is a robot-control:是一个机器人控制
 is a robot:是一个机器人
@@ -5189,6 +5199,7 @@ is a rule or:是一个规则或
 is a rule-of-law country:是一个法治国家
 is a rule:是一个规则
 is a run:是一个运行
+is a rural locality:是一个农村
 is a russia and:是一个俄罗斯和
 is a russia:是一个俄罗斯
 is a sacred day:是一个神圣的日
@@ -5325,6 +5336,7 @@ is a service platform:是一个服务平台
 is a service-discovery:是一个服务发现
 is a service:是一个服务
 is a set:是一个集合
+is a settlement:是一个聚居区
 is a seven year:是一个七年
 is a seven-layer:是一个七层
 is a seven:是一个七
@@ -5575,7 +5587,6 @@ is a special:是一个特殊的
 is a species of:是一个物种的
 is a species only:是一种只有
 is a species:是一个物种
-is a species:是一种
 is a specific function:是一个特定的功能
 is a specific place:是一个特定的地方
 is a specific protein:是一个特定的蛋白质
@@ -6240,8 +6251,11 @@ is a video:是一个视频
 is a view-model:是一个视图模型
 is a view:是一个视图
 is a villa:是一个别墅
+is a village in:是一个村，它位于
+is a village located in:是一个村，它位于
 is a village or a:是一个村庄或一
 is a village or:是一个村庄或
+is a village situated in:是一个村，它位于
 is a village:是一个村
 is a village:是一个村庄
 is a violence:是一个暴力
@@ -6586,7 +6600,6 @@ is about discipline:是关于纪律
 is about discover:是关于发现
 is about discovery:是关于发现
 is about discrimination:是关于歧视
-is about distance or:是关于距离或
 is about distance:是关于距离
 is about diversity and:是关于多样性和
 is about diversity:是关于多样性
@@ -7707,7 +7720,6 @@ is an exploration:是一个探索
 is an export:是一个出口
 is an expression:是一个表达
 is an extend:是一个扩展
-is an extended family or:是一个大家庭或
 is an extended family:是一个大家庭
 is an extensible chat:是一个可扩展的聊天
 is an extensible framework:是一个可扩展的框架
@@ -8087,7 +8099,6 @@ is an insurance market:是一个保险市场
 is an insurance-center:是一个保险中心
 is an insurgency:是一个叛乱
 is an integer expression:是一个整数表达
-is an integer or:是一个整数或
 is an integer property:是一个整数属性
 is an integer type:是一个整数类型
 is an integer value:是一个整数值
@@ -8122,7 +8133,6 @@ is an interesting viewpoint:是一个有趣的观点
 is an interesting walk:是一个有趣的步行
 is an interesting:是一个有趣的
 is an interface converter:是一个接口转换器
-is an interface or:是一个接口或
 is an interface:是一个接口
 is an intergovernmental organization:是一个政府间组织
 is an interior design studio:是一个室内设计工作室
@@ -8226,7 +8236,6 @@ is an iterated function system:是一个迭代函数系统
 is an iterator:是一个迭代器
 is an law enforcement agency:是一个执法机构
 is an legend:是一个传说
-is an object or:是一个对象或
 is an object oriented language:是一个面向对象的语言
 is an object oriented:是一个面向对象的
 is an object relationship:是一个对象关系
@@ -8404,7 +8413,6 @@ is an open:是一个开
 is an opera:是一个歌剧
 is an operating system and:是一个操作系统和
 is an operating system component:是一个操作系统组件
-is an operating system or:是一个操作系统或
 is an operating system upgrade:是一个操作系统升级
 is an operating system:是一个操作系统
 is an operation:是一个操作
