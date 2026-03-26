@@ -1,12 +1,8 @@
-N 2nd Ring Rd:二环北路
-N 2nd Ring Rd:辛家庙立交
-N 3rd Ring Rd:北三环路
-N 4th Ring Rd. W:北四环西路
-N 4th Ring Rd. W:北四環西路
-N Plaza:國際百貨
-N Ramp of Longlan-Fulong Interchange:龙澜福龙立交N匝道
-N Wing:N栋
-N Wing:N棟
+n 2nd ring rd:二环北路
+n 2nd ring rd:辛家庙立交
+n 3rd ring rd:北三环路
+n 4th ring rd. w:北四环西路
+n 4th ring rd. w:北四環西路
 n butyl lactate:乳酸正丁酯
 n butylamine:正丁胺
 n butylbenzene:正丁苯
@@ -16,4 +12,8 @@ n heptane:正庚烷
 n methylformamide:甲基甲酰胺
 n methylmethanimine:亚甲基甲胺
 n phenylhydroxylamine:苯胲
+n plaza:國際百貨
 n propylbenzene:正丙苯
+n ramp of longlan-fulong interchange:龙澜福龙立交n匝道
+n wing:n栋
+n wing:n棟

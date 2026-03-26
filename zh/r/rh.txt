@@ -1,99 +1,4 @@
-RHB Bank:兴业银行
-RHB Investment Bank:兴业投资银行
-RHB Investment Bank:興業投資銀行
-RHRR Services Carwash:洗車店
-RHRR Services Carwash:洗车店
-Rha:伏尔加河
-Rhaeadr y Rhein:萊茵瀑布
-Rhaeadrau Iguazú:伊瓜苏瀑布
-Rhaedestus:泰基爾達
-Rhagae:雷伊
-Rhanbarth Brčko:布尔奇科区
-Rhanbarth Brčko:布爾奇科區
-Rhanbarth Ymreolaethol Tibet:西藏
-Rhapolis:沃利斯克
-Rhatanais:伏尔加顿斯克
-Rhatanais:伏爾加頓斯克
-Rheilffordd Dyffryn Ebwy:艾巴山谷线
-Rhein Avenue:萊茵河大道
-Rhein Mictlāmpa-Westfalen:北莱茵-威斯特法伦州
-Rhein Mictlāmpa-Westfalen:北萊茵－威斯特法倫
-Rhein:莱茵河
-Rheinfall:萊茵瀑布
-Rheinland-Pfalz:莱茵兰-普法尔茨
-Rhenania Palatina:莱茵兰-普法尔茨
-Rhenania Septentrionalis-Vestfalia:北莱茵-威斯特法伦州
-Rhenania Septentrionalis-Vestfalia:北萊茵－威斯特法倫
-Rhenania del Nord - Westfalia:北莱茵-威斯特法伦
-Rhenania del Nord - Westfalia:北莱茵-威斯特法伦州
-Rhenania del Nord - Westfalia:北萊因-西發里亞
-Rhenania del Nord - Westfalia:北萊茵－威斯特法倫
-Rhenfallet:萊茵瀑布
-Rhenish Church Grace School:禮賢會恩慈學校
-Rhenish Church Pang Hok Ko Memorial College:禮賢會彭學高紀念中學
-Rhenish Church Secondary School:禮賢會中學
-Rhenish Mansion:礼贤楼
-Rhenish Mansion:禮賢樓
-Rhenlando-Palatenio:莱茵兰-普法尔茨
-Rhenock:Rì nà zōng dìqū
-Rhenock:日纳宗
-Rhenus-Inferior:下莱茵省
-Rhenus:莱茵河
-Rhin:莱茵河
-Rhine Court Block B:禮賢閣B座
-Rhine Court Block C:禮賢閣C座
-Rhine Court:禮賢閣
-Rhine Falls:萊茵瀑布
-Rhine Garden:海韻花園
-Rhine Heights:萊茵閣
-Rhine Kaskazini-Westfalia:北莱茵-威斯特法伦州
-Rhine Kaskazini-Westfalia:北萊茵－威斯特法倫
-Rhine Terrace:海韻臺
-Rhine Two (GrandBuy) Bus Terminal:莱茵汇(广百)总站
-Rhine:莱茵河
-Rhineland-Palatinate:莱茵兰-普法尔茨
-Rhinfallet:萊茵瀑布
-Rhino Rock:犀牛石
-Rhino:犀牛
-Rho:魯胡
-Rho:鲁胡
-Rhode Island:罗得岛州
-Rhode Island:羅德島州
-Rhodensis Insula:罗得岛州
-Rhodensis Insula:羅德島州
-Rhodfa Orllewinol:西方大道
-Rhodope Mountains:罗多彼山脉
-Rhodope:罗多彼山脉
-Rhodopen:罗多彼山脉
-Rhodopes:罗多彼山脉
-Rhoi:莱茵河
-Rhondda Cynon Taf:朗达卡嫩塔夫
-Rhondda Cynon Taff:朗达卡嫩塔夫
-Rhondda Road:朗德道
-Rhonghua Zhonglu:榮華中路
-Rhonghua Zhonglu:荣华中路
-Rhuddlani vár:廬德蘭城堡
-Rhuddlanin linna:廬德蘭城堡
-Rhufain:Luómǎ
-Rhufain:罗马
-Rhufain:羅馬
-Rhufain:羅馬/罗马
-Rhumel River:魯梅爾河
-Rhumel:魯梅爾河
-Rhummel:魯梅爾河
-Rhydychen:牛津
-Rhyfall:萊茵瀑布
-Rhymnus:乌拉尔河
-Rhymnus:烏拉河
-Rhythm Alley:享巷
-Rhythm Garden:采頤花園
-Rhythm Square:律动广场
-Rhäin:莱茵河
-Rhénanie-Palatinat:莱茵兰-普法尔茨
-Rhénanie-du-Nord-Westphalie:北莱茵-威斯特法伦
-Rhénanie-du-Nord-Westphalie:北莱茵-威斯特法伦州
-Rhénanie-du-Nord-Westphalie:北萊因-西發里亞
-Rhénanie-du-Nord-Westphalie:北萊茵－威斯特法倫
+rha:伏尔加河
 rhabdalestes leleupi:利氏紋鮭脂鯉
 rhabdalestes:紋鮭脂鯉屬
 rhabdinopora:棒孔筆石
@@ -107,10 +12,7 @@ rhabdodontidae:凹齒龍科
 rhabdodontomorpha:凹齿龙形态类
 rhabdomyolysis:横纹肌溶解症
 rhabdomyosarcoma and brain:横纹肌肉瘤和脑
-rhabdomyosarcoma and:横纹肌肉瘤和
-rhabdomyosarcoma can:横纹肌肉瘤可以
 rhabdomyosarcoma cells:横纹肌肉瘤细胞
-rhabdomyosarcoma or:横纹肌肉瘤或
 rhabdomyosarcoma study:横纹肌肉瘤研究
 rhabdomyosarcoma:横纹肌肉瘤
 rhabdomys:紋鼠屬
@@ -169,15 +71,18 @@ rhadinoloricaria macromystax:大唇柔甲鯰
 rhadinosaurus:纖龍屬
 rhadinovirus:蛛猴病毒屬
 rhadiodromus:拉迪歐獸屬
+rhaeadr y rhein:萊茵瀑布
+rhaeadrau iguazú:伊瓜苏瀑布
+rhaedestus:泰基爾達
 rhaenyra the cruel:殘忍的雷妮拉
 rhaetian alps:雷蒂亚山脉
-rhaetian railway is:雷蒂亚铁路是
 rhaetian railway train:雷蒂亚铁路火车
 rhaetian railway:雷蒂亚铁路
 rhaetian:瑞替期
 rhaetic:雷蒂亚语
 rhaeticosaurus:瑞替龙属
 rhaetulus crenatus:鹿角鍬形蟲
+rhagae:雷伊
 rhagastis:白肩天蛾屬
 rhagionidae:鷸虻
 rhagomys:椏鼠屬
@@ -216,6 +121,9 @@ rhamphorhynchoidea:喙嘴翼龍亞目
 rhamphorhynchus:喙嘴翼龍屬
 rhamphospora nymphaeae:钩孢黑粉菌科
 rhamphosuchus:喙嘴鳄属
+rhanbarth brčko:布尔奇科区
+rhanbarth brčko:布爾奇科區
+rhanbarth ymreolaethol tibet:西藏
 rhaphicera:網眼蝶屬
 rhaphidophora decursiva:爬树龙
 rhaphidophora:崖角藤属
@@ -229,6 +137,7 @@ rhaphiolepis:石斑木属
 rhapis excelsa:棕竹
 rhapis gracilis:细棕竹
 rhapis:棕竹属
+rhapolis:沃利斯克
 rhaponticum carthamoides:鹿草
 rhaponticum:祈州漏卢属
 rhapontigenin:丹叶大黄素
@@ -240,8 +149,13 @@ rhapsody of spring:春天的狂想
 rhapsody of the seas:海洋迎風號
 rhapsody on a theme of paganini:帕格尼尼主題狂想曲
 rhaptopetalum:织瓣花属
+rhatanais:伏尔加顿斯克
+rhatanais:伏爾加頓斯克
 rhauderfehn:劳德芬
 rhaunen:劳嫩
+rhb bank:兴业银行
+rhb investment bank:兴业投资银行
+rhb investment bank:興業投資銀行
 rhea corner:里阿角
 rheasilvia:雷亞希爾維亞盆地
 rhedaer bach:雷達巴赫河
@@ -251,10 +165,15 @@ rhegmatorhina:裸眼蚁鵙属
 rheic ocean:瑞亞克洋
 rheiderland:赖德兰
 rheiformes:美洲鸵鸟目
+rheilffordd dyffryn ebwy:艾巴山谷线
+rhein avenue:萊茵河大道
 rhein express:莱茵快車
 rhein kraft:萊茵力量
 rhein kreis neuss:诺伊斯莱茵县
+rhein mictlāmpa-westfalen:北莱茵-威斯特法伦州
+rhein mictlāmpa-westfalen:北萊茵－威斯特法倫
 rhein neckar arena:普瑞泽柔竞技场
+rhein:莱茵河
 rheinau:萊瑙
 rheinbach:莱茵巴赫
 rheinberg:莱茵贝格
@@ -263,8 +182,7 @@ rheinbrohl:莱茵布罗尔
 rheine:赖讷
 rheineck:萊茵埃克
 rheinenergiestadion:莱茵能源体育场
-rheingau and:莱茵高和
-rheingau is:莱茵高是
+rheinfall:萊茵瀑布
 rheingau region:莱茵高地区
 rheingau wine:莱茵高葡萄酒
 rheingau:莱茵高
@@ -272,9 +190,9 @@ rheinhausen:莱茵豪森
 rheinheimera:莱茵海默氏菌属
 rheinische post:莱茵邮报
 rheinische zeitung:莱茵报
+rheinland-pfalz:莱茵兰-普法尔茨
 rheinlandliga:莱茵兰足球联赛
 rheinmetall air defence:萊茵金屬防空系統
-rheinmetall and:莱茵金属和
 rheinmetall auto:莱茵金属汽车
 rheinmetall company:莱茵金属公司
 rheinmetall man:莱茵金属男人
@@ -292,24 +210,34 @@ rheinturm:莱茵塔
 rheinwaldhorn:萊茵瓦爾德峰
 rheinwiesenlager:莱茵草原大营
 rheinzabern:莱茵察本
+rhenania del nord - westfalia:北莱茵-威斯特法伦
+rhenania del nord - westfalia:北莱茵-威斯特法伦州
+rhenania del nord - westfalia:北萊因-西發里亞
+rhenania del nord - westfalia:北萊茵－威斯特法倫
+rhenania palatina:莱茵兰-普法尔茨
+rhenania septentrionalis-vestfalia:北莱茵-威斯特法伦州
+rhenania septentrionalis-vestfalia:北萊茵－威斯特法倫
 rhene:宽胸蝇虎属
 rhenen:雷嫩
+rhenfallet:萊茵瀑布
 rheniite:輝錸礦
+rhenish church grace school:禮賢會恩慈學校
+rhenish church pang hok ko memorial college:禮賢會彭學高紀念中學
+rhenish church secondary school:禮賢會中學
+rhenish mansion:礼贤楼
+rhenish mansion:禮賢樓
 rhenish massif:莱茵板岩山脉
 rhenish missionary society begin:礼贤会开始
 rhenish missionary society:礼贤会
 rhenish republic:莱茵共和国
 rhenium and iridium:铼和铱
 rhenium and tellurium:铼和碲
-rhenium and:铼和
 rhenium atom:铼原子
 rhenium diboride:二硼化铼
 rhenium disulfide:二硫化铼
 rhenium ditelluride:二碲化铼
-rhenium has:铼有
 rhenium heptafluoride:七氟化铼
 rhenium hexafluoride:六氟化铼
-rhenium is:铼是
 rhenium metal:铼金属
 rhenium pentachloride:五氯化铼
 rhenium tetraiodide:四碘化铼
@@ -318,7 +246,12 @@ rhenium trioxide fluoride:高铼酰氟
 rhenium trioxide:三氧化铼
 rhenium trioxynitrate:硝酸三氧铼
 rhenium:铼
+rhenlando-palatenio:莱茵兰-普法尔茨
+rhenock:rì nà zōng dìqū
+rhenock:日纳宗
 rhens:伦斯
+rhenus-inferior:下莱茵省
+rhenus:莱茵河
 rheobatrachus silus:胃育溪蟾
 rheobatrachus vitellinus:孵溪蟾
 rheocles derhami:德氏溪漢魚
@@ -330,14 +263,10 @@ rheocles wrightae:賴特溪漢魚
 rheocricotopus:趋流摇蚊属
 rheodytes:溪龜屬
 rheology and food:流变学和食品
-rheology and:流变学与
-rheology and:流变学和
-rheology is:流变学是
 rheology product line:流变学产品线
 rheology product:流变学产品
 rheology training:流变学培训
 rheology:流变学
-rheometer and:流变仪和
 rheometer system:流变仪系统
 rheometer:流变仪
 rheomithres:雷奥米塞里斯
@@ -348,8 +277,6 @@ rhesus macaque:普通獼猴
 rhetoric and indology:修辞学和印度学
 rhetoric and literature:修辞学和文学
 rhetoric and philosophy:修辞学和哲学
-rhetoric and:修辞学与
-rhetoric and:修辞学和
 rhetoric be:修辞学成为
 rhetoric became:修辞学成为
 rhetoric professor:修辞学教授
@@ -368,7 +295,6 @@ rheum rhabarbarum:波叶大黄
 rheum webbianum:喜马拉雅大黄
 rheum:眵
 rheumatic fever:風溼熱
-rheumatism and:风湿与
 rheumatism:风湿
 rheumatoid arthritis:類風濕性關節炎
 rheumatoid disease of the spine:脊椎類風濕性疾病
@@ -379,6 +305,7 @@ rhianus:赫里亚努斯
 rhie won bok:李元馥
 rhim gazelle:细角瞪羚
 rhin:林河
+rhin:莱茵河
 rhina ancylostoma:圆犁头鳐
 rhinacanthus nasutus:灵芝草
 rhinacanthus:灵枝草属
@@ -391,27 +318,29 @@ rhine and danube:莱茵河与多瑙河
 rhine and danube:莱茵河和多瑙河
 rhine and neckar:莱茵河和内卡河
 rhine and southern europe:莱茵河和南欧
-rhine and:莱茵河与
-rhine and:莱茵河和
 rhine area:莱茵河地区
 rhine bottle:莱茵河瓶
-rhine can:莱茵河可以
 rhine capitalism:莱茵河资本主义
+rhine court block b:禮賢閣b座
+rhine court block c:禮賢閣c座
+rhine court:禮賢閣
 rhine crisis:莱茵河危机
 rhine crisis:萊茵危機
 rhine falls:萊茵瀑布
 rhine franconian dialects:莱茵法兰克语
 rhine from:莱茵河从
+rhine garden:海韻花園
 rhine glacier melt:莱茵河冰川融化
 rhine glacier:莱茵河冰川
 rhine gorge:萊茵峽谷
+rhine heights:萊茵閣
 rhine institute:莱茵河研究所
 rhine into:莱茵河进入
 rhine is germany:莱茵河是德国
-rhine is:莱茵河是
+rhine kaskazini-westfalia:北莱茵-威斯特法伦州
+rhine kaskazini-westfalia:北萊茵－威斯特法倫
 rhine legend:莱茵河传说
 rhine opera:莱茵河歌剧
-rhine or:莱茵河或
 rhine plain:莱茵河平原
 rhine port:莱茵河港口
 rhine province:莱茵省
@@ -420,16 +349,14 @@ rhine research center:莱茵河研究中心
 rhine research:莱茵河研究
 rhine river delta:莱茵河三角洲
 rhine river:莱茵河河
-rhine to:莱茵河到
+rhine terrace:海韻臺
+rhine two (grandbuy) bus terminal:莱茵汇(广百)总站
 rhine union:莱茵河联盟
-rhine valley and:莱茵河谷和
 rhine valley began:莱茵河谷开始
-rhine valley of:莱茵河谷的
 rhine valley region:莱茵河谷地区
 rhine valley:莱茵河山谷
 rhine valley:莱茵河谷
 rhine valley:莱茵河谷地
-rhine was:莱茵河是
 rhine water quality:莱茵河水质
 rhine water:莱茵河水
 rhine waterway:莱茵河航道
@@ -438,19 +365,14 @@ rhine:莱茵河
 rhinecanthus abyssus:黑柄銼鱗魨
 rhinecanthus assasi:阿氏銼鱗魨
 rhinecanthus lunula:月銼鱗魨
-rhineland and his:莱茵兰和他的
-rhineland and:莱茵兰和
-rhineland area of:莱茵兰地区的
 rhineland area:莱茵兰地区
 rhineland bastard:萊茵蘭雜種
 rhineland coup:莱茵兰政变
-rhineland is an:莱茵兰是一个
-rhineland is:莱茵兰是
 rhineland massacres:萊茵蘭大屠殺
 rhineland or switzerland:莱茵兰或瑞士
-rhineland or:莱茵兰或
 rhineland region:莱茵兰地区
 rhineland territory:莱茵兰领土
+rhineland-palatinate:莱茵兰-普法尔茨
 rhineland:莱茵兰
 rhinelephas:瑞尼灰蝶屬
 rhinelepis aspera:南美銼鱗甲鯰
@@ -461,20 +383,17 @@ rhinestone:仿製金剛石
 rhineura floridana:佛罗里达蚓蜥
 rhineura:佛罗里达蚓蜥属
 rhineuridae:佛罗里达蚓蜥科
+rhinfallet:萊茵瀑布
 rhingia:鼻颜蚜蝇属
-rhinitis and:鼻炎和
-rhinitis or:鼻炎或
 rhinitis treatment:鼻炎治疗
 rhinitis:鼻炎
 rhino rock:犀牛岩
+rhino rock:犀牛石
+rhino:犀牛
 rhinobatos:犁頭鰩屬
 rhinocarcinosoma:突鼻蟹体鲎属
 rhinoceros and elephant:犀牛和大象
-rhinoceros and:犀牛与
-rhinoceros and:犀牛和
-rhinoceros are:犀牛是
 rhinoceros auklet:角嘴海雀
-rhinoceros beetle is:犀牛甲虫是
 rhinoceros beetle:犀牛甲虫
 rhinoceros cockroach:犀牛蟑螂
 rhinoceros come:犀牛来
@@ -482,10 +401,8 @@ rhinoceros embryo:犀牛胚胎
 rhinoceros entertainment:犀牛娱乐
 rhinoceros hornbill:馬來犀鳥
 rhinoceros in love:恋爱的犀牛
-rhinoceros is:犀牛是
 rhinoceros lack teeth:犀牛缺乏牙
 rhinoceros lack:犀牛缺乏
-rhinoceros or:犀牛或
 rhinoceros sondaicus annamiticus:越南爪哇犀
 rhinoceros species and all:犀牛物种和所有
 rhinoceros species:犀牛物种
@@ -557,16 +474,12 @@ rhinotermitidae:鼻白蟻科
 rhinotitan:鼻雷兽属
 rhinotomy:劓刑
 rhinotyphlops:尖鼻盲蛇屬
-rhinovirus also:鼻病毒也
-rhinovirus and coronavirus are:鼻病毒和冠状病毒是
+rhinovirus and coronavirus:鼻病毒和冠状病毒
 rhinovirus and human coronavirus:鼻病毒和人类冠状病毒
-rhinovirus and:鼻病毒和
 rhinovirus cause:鼻病毒引起
 rhinovirus infection:鼻病毒感染
-rhinovirus or:鼻病毒或
 rhinovirus serotype:鼻病毒血清型
 rhinovirus to these:鼻病毒到这些
-rhinovirus to:鼻病毒到
 rhinovirus:鼻病毒
 rhiostoma:隅口螺属
 rhipaeosaurus:吻頰龍屬
@@ -588,7 +501,6 @@ rhizina:根盘菌属
 rhizinaceae:根盘菌科
 rhizobacter:根瘤杆菌属
 rhizobia and mycorrhiza:根瘤菌和菌根
-rhizobia and:根瘤菌和
 rhizobia:根瘤菌
 rhizobiaceae:根瘤菌科
 rhizobium:根瘤菌属
@@ -607,10 +519,8 @@ rhizogoniales:桧藓目
 rhizoid:假根
 rhizomarasmius:根皮伞属
 rhizome and root:根茎和根
-rhizome and:根茎和
 rhizome growth:根茎增长
 rhizome material:根茎材料
-rhizome or:根茎或
 rhizome system:根茎系统
 rhizome:根茎
 rhizomnium pseudopunctatum:擬毛燈蘚
@@ -638,7 +548,6 @@ rhizopus:根黴
 rhizosoleniaceae:根管藻科
 rhizosomichthys totae:哥倫比亞莖鼻鯰
 rhizosphere bacteria:根际细菌
-rhizosphere of:根际的
 rhizosphere:根际
 rhizostoma pulmo:桶水母
 rhizostomatidae:根口水母科
@@ -669,6 +578,8 @@ rho tauri:天节二
 rho tucanae:鳥喙五
 rho ursae majoris:三師一
 rho virginis:九卿一
+rho:魯胡
+rho:鲁胡
 rhodacarellus:仿胭螨属
 rhodacaridae:胭螨科
 rhodacarus:胭螨属
@@ -678,42 +589,37 @@ rhodamine:罗丹明
 rhodamnia:玫瑰木属
 rhodanobacteraceae:罗丹诺杆菌科
 rhodanthe manglesii:鱗托菊
-rhode island and:羅德島州和
 rhode island avenue:罗德岛大道
 rhode island college:羅德島學院
 rhode island red:羅德島紅雞
 rhode island school of design:羅德島設計學院
 rhode island state house and water:罗德岛州议会大厦和水
-rhode island state house and:罗德岛州议会大厦和
 rhode island state house:罗德岛州议会大厦
 rhode island tercentenary half dollar:罗德岛州三百周年半美元
 rhode island's congressional districts:羅德島州國會選區
+rhode island:罗得岛州
 rhode island:羅德島州
 rhodella:红球藻属
 rhodellophyceae:红球藻纲
+rhodensis insula:罗得岛州
+rhodensis insula:羅德島州
 rhodes and kos:罗得岛和科斯岛
 rhodes and mykonos:罗得岛和米科诺斯岛
 rhodes and santorini:罗得岛和圣托里尼
-rhodes and:罗得岛和
 rhodes bluff:羅德斯海崖
-rhodes can:罗得岛可以
 rhodes footbridge:罗得人行桥
 rhodes hall:罗得岛大厅
 rhodes head:羅茲角
 rhodes hold:罗得岛拥有
 rhodes house:羅德樓
 rhodes international airport:罗得岛迪亚戈拉斯国际机场
-rhodes is:罗得岛是
 rhodes offer:罗得岛提供
-rhodes or:罗得岛或
 rhodes park:罗得岛公园
 rhodes peak:羅德斯峰
 rhodes scholarship to oxford university:罗德奖学金到牛津大学
-rhodes scholarship to:罗德奖学金到
 rhodes scholarship:罗德奖学金
 rhodes today:罗得岛今天
 rhodes:罗得岛
-rhodesia also:羅德西亞也
 rhodesia at the olympics:奥林匹克运动会罗得西亚代表团
 rhodesia:羅德西亞
 rhodesian action party:罗德西亚行动党
@@ -741,18 +647,17 @@ rhodeus spinalis:刺鰭鰟鮍
 rhodeus suigensis:細鰟鮍
 rhodeus uyekii:朝鮮鰟鮍
 rhodeus:鰟鮍屬
+rhodfa orllewinol:西方大道
 rhodiginus:宽头地长蝽属
 rhodinia verecunda:銀目天蠶蛾
 rhodinia:透目大蚕蛾属
 rhodinol:玫瑰醇
 rhodiola crenulata:大花红景天
-rhodiola rosea and:红景天和
 rhodiola rosea:红景天
 rhodiola:红景天属
 rhodite:銠金礦
 rhodium and gold:铑和金
 rhodium and silicon:铑和硅
-rhodium and:铑和
 rhodium atom:铑原子
 rhodium catalyst:铑催化剂
 rhodium group:铑组
@@ -935,7 +840,10 @@ rhodoneura:黑线网蛾属
 rhodonite:薔薇輝石
 rhodope mountains:罗多彼山脉
 rhodope prefecture:罗多彼州
+rhodope:罗多彼山脉
 rhodopechys:红翅沙雀属
+rhodopen:罗多彼山脉
+rhodopes:罗多彼山脉
 rhodophana:红柱菇属
 rhodopis:洛多庇斯
 rhodoplanes:红游动菌属
@@ -961,6 +869,7 @@ rhodt unter rietburg:里特堡下罗特
 rhodymenia:红皮藻属
 rhoetosaurus:瑞拖斯龍屬
 rhogeessa:美洲黄蝠属
+rhoi:莱茵河
 rhoiptelea:马尾树
 rhomaleopakhus:强腕龙属
 rhomaleosauridae:彪龍科
@@ -988,12 +897,15 @@ rhombomantis:菱螳属
 rhombophryne:日博指盘蛙属
 rhombophyllum:菱叶草属
 rhombosoleidae:菱鰈科
-rhombus or:菱形或
 rhombus:菱形
 rhomphaia:长柄逆刃刀
 rhondda cynon taf council:朗达卡嫩塔夫委员会
 rhondda cynon taf:朗达卡嫩塔夫
+rhondda cynon taff:朗达卡嫩塔夫
+rhondda road:朗德道
 rhonestock:羅內施托克山
+rhonghua zhonglu:榮華中路
+rhonghua zhonglu:荣华中路
 rhoose cardiff international airport railway station:加的夫国际机场站
 rhopalidae:姬缘蝽科
 rhopalocnemis:双柱蛇菰属
@@ -1015,14 +927,24 @@ rhopospina:岭雀鹀属
 rhossili:羅西里
 rhotanella:小袖蜡蝉属
 rhovanion:羅馬尼安
+rhrr services carwash:洗車店
+rhrr services carwash:洗车店
 rhubarb pie:大黃餡餅
 rhubarb:食用大黄
 rhuddanian:鲁丹期
 rhuddlan castle:里茲蘭城堡
+rhuddlani vár:廬德蘭城堡
+rhuddlanin linna:廬德蘭城堡
+rhufain:luómǎ
+rhufain:罗马
+rhufain:羅馬
+rhufain:羅馬/罗马
 rhumb line:恒向线
 rhumba:伦巴
 rhume:魯默河
 rhumel river:魯梅爾河
+rhumel:魯梅爾河
+rhummel:魯梅爾河
 rhumspringe:鲁姆施普林格
 rhus chinensis:盐肤木
 rhus copallinum:亮葉漆樹
@@ -1039,23 +961,19 @@ rhyacophilidae:流石蛾科
 rhycherus filamentosus:穗躄魚
 rhycherus gloveri:格氏穗躄魚
 rhydian vaughan:鳳小岳
+rhydychen:牛津
+rhyfall:萊茵瀑布
 rhyme and reason:押韵和原因
-rhyme and:押韵与
-rhyme and:押韵和
-rhyme and:押韻和
 rhyme dictionary:韻書
 rhyme if and only if:押韵当且仅当
-rhyme is:押韵是
-rhyme of:押韵的
 rhyme or dialogue:押韵或对话
-rhyme or:押韵或
-rhyme or:押韻或
 rhyme scheme:韵法
-rhyme should not:押韵不应该
 rhyme skills:押韵技巧
 rhyme style:押韵风格
 rhyme:押韵
 rhyme:押韻
+rhymnus:乌拉尔河
+rhymnus:烏拉河
 rhynchactis leptonema:吻巨棘角鮟鱇
 rhynchactis macrothrix:巨絲吻巨棘角鮟鱇
 rhynchactis microthrix:短絲吻長角鮟鱇
@@ -1132,8 +1050,8 @@ rhyssella:小皱姬蜂属
 rhythm action game:节奏动作游戏
 rhythm activities:节奏活动
 rhythm alex:节奏亚历克斯
+rhythm alley:享巷
 rhythm also appear:节奏也出现
-rhythm also:节奏也
 rhythm amplitude to nearly:节奏振幅到几乎
 rhythm amplitude:节奏振幅
 rhythm analysis:节奏分析
@@ -1160,7 +1078,6 @@ rhythm and habit:节奏和习惯
 rhythm and harmony:节奏与和声
 rhythm and language:节奏和语言
 rhythm and life:节奏和生命
-rhythm and melody and:节奏和旋律和
 rhythm and melody:节奏与旋律
 rhythm and melody:节奏和旋律
 rhythm and meter:节奏和米
@@ -1173,19 +1090,13 @@ rhythm and sound:节奏和声音
 rhythm and structure:节奏和结构
 rhythm and style:节奏与风格
 rhythm and wave:节奏和波
-rhythm and wine and:节奏和酒和
-rhythm and:节奏与
-rhythm and:节奏和
-rhythm are:节奏是
-rhythm at:节奏在
+rhythm and wine:节奏和酒
 rhythm band:节奏乐队
 rhythm break:节奏打破
 rhythm breath:节奏呼吸
 rhythm breathing exercise:节奏呼吸练习
 rhythm breathing:节奏呼吸
-rhythm but:节奏但
 rhythm can create:节奏可以创造
-rhythm can:节奏可以
 rhythm changes:节奏变化
 rhythm class:节奏类
 rhythm continue:节奏继续
@@ -1203,16 +1114,12 @@ rhythm interrupt:节奏打断
 rhythm is different:节奏是不同的
 rhythm is irregular:节奏是不规则的
 rhythm is sacred:节奏是神圣的
-rhythm is:节奏是
 rhythm jump:节奏跳
 rhythm magazine:节奏杂志
 rhythm management:节奏管理
 rhythm marimba:节奏马林巴
-rhythm may:节奏可以
 rhythm might break:节奏可能打破
-rhythm might:节奏可能
 rhythm must have meaning:节奏必须有意义
-rhythm must:节奏必须
 rhythm nation:節奏國度
 rhythm nation:节奏国家
 rhythm of destiny:伴我縱橫
@@ -1220,43 +1127,35 @@ rhythm of drum:节奏的鼓
 rhythm of the rain:雨中的旋律
 rhythm of the wave:海韻
 rhythm of thought:节奏的思想
-rhythm of:节奏的
 rhythm or vibration:节奏或振动
-rhythm or:节奏或
 rhythm process:节奏处理
 rhythm project:节奏项目
 rhythm refers to:节奏指
 rhythm says:节奏说
 rhythm shooter:节奏射手
 rhythm should be:节奏应该是
-rhythm should:节奏应该
 rhythm speed:节奏速度
+rhythm square:律动广场
 rhythm style:节奏风格
 rhythm tasks:节奏任务
 rhythm tengoku:节奏天国
 rhythm therapy:节奏疗法
 rhythm to another:节奏到另一个
-rhythm to:节奏到
 rhythm together:节奏在一起
 rhythm training:节奏训练
-rhythm transform and:节奏变换和
 rhythm transform:节奏变换
 rhythm type:节奏类型
 rhythm violence:节奏暴力
 rhythm was perfect:节奏是完美的
-rhythm was:节奏是
 rhythm will:节奏会
-rhythm will:节奏将
 rhythm with cleveland:节奏与克利夫兰
 rhythm with geometry:节奏与几何学
-rhythm with:节奏与
 rhythm-and-blues singer:节奏布鲁斯歌手
 rhythm:节奏
 rhythmic gymnastics grand prix:韻律體操大獎賽
 rhythmic gymnastics include:艺术体操包括
 rhythmic gymnastics team:艺术体操队
 rhythmic gymnastics world championships:世界韻律體操錦標賽
-rhythmic gymnastics you can:艺术体操你可以
 rhythmic gymnastics you:艺术体操你
 rhythmic gymnastics:艺术体操
 rhythmite:韻律岩
@@ -1274,3 +1173,9 @@ rhyton:来通
 rhyu si min:柳時敏
 rhyzodiastes xii:習氏狼條脊甲
 rhyzodiastes:狼條脊甲屬
+rhäin:莱茵河
+rhénanie-du-nord-westphalie:北莱茵-威斯特法伦
+rhénanie-du-nord-westphalie:北莱茵-威斯特法伦州
+rhénanie-du-nord-westphalie:北萊因-西發里亞
+rhénanie-du-nord-westphalie:北萊茵－威斯特法倫
+rhénanie-palatinat:莱茵兰-普法尔茨

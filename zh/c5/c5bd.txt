@@ -7,14 +7,14 @@
 Žaboč:扎博奇
 Žabynja:扎比尼亞
 Žadkivka:扎德基夫卡
-Žalal-Abadin alue:贾拉拉巴德州
+Žalal-abadin alue:贾拉拉巴德州
 Žalalabatska oblast:贾拉拉巴德州
 Žalgirio arena:綠林體育館
-Žaliasis Kyšulys:佛得角
-Žaliasis Kyšulys:佛得角 / 維德角
-Žaliasis Kyšulys:維德角
+Žaliasis kyšulys:佛得角
+Žaliasis kyšulys:佛得角 / 維德角
 Žaliasis kyšulys:佛得角半島
-Žaliojo Kyšulio garbės konsulatas:佛得角名誉领事馆
+Žaliasis kyšulys:維德角
+Žaliojo kyšulio garbės konsulatas:佛得角名誉领事馆
 Žambilas apgabals:江布尔州
 Žambilas apgabals:江布州
 Žambylo sritis:江布尔州
@@ -34,61 +34,60 @@
 Žatai:扎泰
 Žataj:扎泰
 Žatajus:扎泰
-Železara Smederevo:河钢集团塞尔维亚公司
-Železničná trať Golmud – Lhasa:qīngzàng tiělù
-Železniční trať Golmud–Lhasa:qīngzàng tiělù
-Železniční trať Jŏnggwang – Sasu:長津線
-Železniční trať Jŏnggwang – Sasu:长津线
-Železniční trať Peking – Jüan-pching:jīngyuán tiělù
-Železniční trať Peking – Jüan-pching:京原线
-Železniční trať Peking – Pao-tchou:京包線
-Železniční trať Peking – Pao-tchou:京包线
-Železniška proga Činghaj–Tibet:qīngzàng tiělù
+Železara smederevo:河钢集团塞尔维亚公司
+Železničná trať golmud – lhasa:qīngzàng tiělù
+Železniční trať golmud–lhasa:qīngzàng tiělù
+Železniční trať jŏnggwang – sasu:長津線
+Železniční trať jŏnggwang – sasu:长津线
+Železniční trať peking – jüan-pching:jīngyuán tiělù
+Železniční trať peking – jüan-pching:京原线
+Železniční trať peking – pao-tchou:京包線
+Železniční trať peking – pao-tchou:京包线
+Železniška proga Činghaj–tibet:qīngzàng tiělù
 Železnodorožnyj:热列兹诺多罗日内
-Železnogorsk-Ilimski:热列兹诺戈尔斯克-伊利姆斯基
-Železnogorsk-Ilimskij:热列兹诺戈尔斯克-伊利姆斯基
+Železnogorsk-ilimski:热列兹诺戈尔斯克-伊利姆斯基
+Železnogorsk-ilimskij:热列兹诺戈尔斯克-伊利姆斯基
 Železnogorsk:热列兹诺戈尔斯克
 Železnogorskas:热列兹诺戈尔斯克
 Železnovodsk:热列兹诺沃茨克
 Železnovodskas:热列兹诺沃茨克
-Željeznička pruga Qinghai–Tibet:qīngzàng tiělù
-Željeznička pruga Qingzang:qīngzàng tiělù
-Željeznogorsk-Ilimski:热列兹诺戈尔斯克-伊利姆斯基
+Željeznička pruga qinghai–tibet:qīngzàng tiělù
+Željeznička pruga qingzang:qīngzàng tiělù
+Željeznogorsk-ilimski:热列兹诺戈尔斯克-伊利姆斯基
 Željeznogorsk:热列兹诺戈尔斯克
 Željeznovodsk:热列兹诺沃茨克
 Želví věž:龜塔
 Želví věž:龟塔
-Želvý Ostrov:龟岛
-Žemutinio Changajaus aimakas:前杭愛
-Žemutinio Changajaus aimakas:前杭愛省
-Žemutinio Changajaus aimakas:前杭爱省
-Žemutinio Naugardo sritis:下諾夫哥羅德州
-Žemutinio Naugardo sritis:下诺夫哥罗德州
-Žemutinis Bestjachas:下別斯佳赫
-Žemutinis Kotas:下科托省
-Žemutinis Naugardas:下諾夫哥羅德
-Žemutinis Naugardas:下诺夫哥罗德
-Žemutinis Tagilas:下塔吉尔
-Žemutinis Tagilas:下塔吉爾
-Žemutinis-Reinas:下莱茵省
-Žemutinė Bavarija:下巴伐利亚行政区
-Žemutinė Saksonija:下萨克森州
-Žemutinė Saksonija:下薩克森州
-Žemutinės Silezijos vaivadija:下西里西亚省
-Žemutinės Silezijos vaivadija:下西里西亞省
-Žemutinės Upės padalinys:下河区
+Želvý ostrov:龟岛
+Žemutinio changajaus aimakas:前杭愛
+Žemutinio changajaus aimakas:前杭愛省
+Žemutinio changajaus aimakas:前杭爱省
+Žemutinio naugardo sritis:下諾夫哥羅德州
+Žemutinio naugardo sritis:下诺夫哥罗德州
+Žemutinis bestjachas:下別斯佳赫
+Žemutinis kotas:下科托省
+Žemutinis naugardas:下諾夫哥羅德
+Žemutinis naugardas:下诺夫哥罗德
+Žemutinis tagilas:下塔吉尔
+Žemutinis tagilas:下塔吉爾
+Žemutinis-reinas:下莱茵省
+Žemutinė bavarija:下巴伐利亚行政区
+Žemutinė saksonija:下萨克森州
+Žemutinė saksonija:下薩克森州
+Žemutinės silezijos vaivadija:下西里西亚省
+Žemutinės silezijos vaivadija:下西里西亞省
+Žemutinės upės padalinys:下河区
 Žemyninis regionas:陆上领地
-Žemės Kraštas:兰兹角
-Ženeva:Rìnèiwǎ
+Žemės kraštas:兰兹角
+Ženeva:rìnèiwǎ
 Ženeva:日內瓦
 Ženeva:日内瓦
-Žengžou:Zhèngzhōu Shì
 Žengžou:zhèngzhōu shì
 Žengžou:郑州市
 Žengžou:鄭州
 Žengžou:鄭州市
 Ženiv:熱尼夫
-Ženēva:Rìnèiwǎ
+Ženēva:rìnèiwǎ
 Ženēva:日內瓦
 Ženēva:日内瓦
 Žerdeli:熱爾傑利
@@ -123,7 +122,7 @@
 Žiguljovsk:日古廖夫斯克
 Žigulëvsk:日古廖夫斯克
 Žiguļovska:日古廖夫斯克
-Žikace:Rìkāzé Shì
+Žikace:rìkāzé shì
 Žikace:日喀则市
 Žikace:日喀則市
 Žilinski kraj:日利纳州
@@ -155,45 +154,45 @@
 Žlobin:日洛宾
 Žlobina:日洛宾
 Žlobinas:日洛宾
-Žltá rieka:Huáng Hé
+Žltá rieka:huáng hé
 Žltá rieka:ㄏㄨㄤˊㄏㄜˊ
 Žltá rieka:黃河
 Žltá rieka:黄河
 Žlté more:黃海
 Žlté more:黄海
-Žlutá řeka:Huáng Hé
+Žlutá řeka:huáng hé
 Žlutá řeka:ㄏㄨㄤˊㄏㄜˊ
 Žlutá řeka:玛曲
 Žlutá řeka:瑪曲
 Žlutá řeka:黃河
 Žlutá řeka:黄河
-Žluté hory:Huángshān Guójiā Fēngjǐng Míngshèng Qū
+Žluté hory:huángshān guójiā fēngjǐng míngshèng qū
 Žluté moře:黃海
 Žluté moře:黄海
 Žmijivka:日米伊夫卡
 Žmiïvka:日米伊夫卡
-Žoan Pesoa:若昂佩索阿
-Žoao Pesoa:若昂佩索阿
+Žoan pesoa:若昂佩索阿
+Žoao pesoa:若昂佩索阿
 Žoinvile:若茵维莱
 Žoinvilis:若茵维莱
 Žori:若雷
 Žoros:若雷
 Žory:若雷
-Žoužuang:Zhōuzhuāng Zhèn
+Žoužuang:zhōuzhuāng zhèn
 Žoužuang:周庄镇
 Žoužuang:周莊鎮
 Žovkva:若夫克瓦
 Žovnyne:若夫尼涅
-Žovta Krutša:若夫塔克魯恰
-Žovta Kruča:若夫塔克魯恰
-Žovtyj Brid:若夫季布里德
-Žuana da Novas sala:新胡安岛
+Žovta krutša:若夫塔克魯恰
+Žovta kruča:若夫塔克魯恰
+Žovtyj brid:若夫季布里德
+Žuana da novas sala:新胡安岛
 Žuaunpesoa:若昂佩索阿
-Žuazeira du Norti:北茹阿澤魯
-Žuazeiro do Nortė:北茹阿澤魯
+Žuazeira du norti:北茹阿澤魯
+Žuazeiro do nortė:北茹阿澤魯
 Žubrovytši:茹布羅維奇
 Žubrovyči:茹布羅維奇
-Žuej-ťin:Ruìjīn Shì
+Žuej-ťin:ruìjīn shì
 Žuej-ťin:瑞金
 Žuej-ťin:瑞金市
 Žukivci:茹基夫齊
@@ -209,21 +208,21 @@
 Žuky:茹基
 Župania:茹帕尼亚
 Župania:茹帕尼亞
-Županija Blekinge:布萊金厄省
-Županija Gävleborg:耶夫勒堡省
-Županija Halland:哈兰省
-Županija Jämtland:耶姆特兰省
-Županija Jönköping:延雪平省
-Županija Kronoberg:克鲁努贝里省
-Županija Skåne:斯科讷省
-Županija Södermanland:南曼兰省
-Županija Värmland:韦姆兰省
-Županija Västmanland:西曼兰省
-Županija Västra Götaland:西约塔兰省
+Županija blekinge:布萊金厄省
+Županija gävleborg:耶夫勒堡省
+Županija halland:哈兰省
+Županija jämtland:耶姆特兰省
+Županija jönköping:延雪平省
+Županija kronoberg:克鲁努贝里省
+Županija skåne:斯科讷省
+Županija södermanland:南曼兰省
+Županija värmland:韦姆兰省
+Županija västmanland:西曼兰省
+Županija västra götaland:西约塔兰省
 Županija Örebro:厄勒布鲁省
 Županija Östergötland:东约特兰省
-Županijski park Fox Island:Fúkèsī dǎo xiàn gōngyuán
-Županijski park Fox Island:福克斯岛县公园
+Županijski park fox island:fúkèsī dǎo xiàn gōngyuán
+Županijski park fox island:福克斯岛县公园
 Županja:茹帕尼亚
 Županja:茹帕尼亞
 Žuraky:茹拉基
@@ -243,7 +242,7 @@
 Žučkivci:茹奇基夫齊
 Žvan:日萬
 Žvan:日萬河
-Žydrasis Nilas:青尼罗河
+Žydrasis nilas:青尼罗河
 Žydų autonominė sritis:犹太自治州
 Žydų autonominė sritis:猶太自治州
 Žyhajlivka:日蓋利夫卡
@@ -273,5 +272,5 @@
 Žėižmarē:熱日馬里艾
 Žłobin:日洛宾
 Žūnija:朱尼耶
-Ž’-čao:Rìzhào Shì
+Ž’-čao:rìzhào shì
 Ž’-čao:日照市

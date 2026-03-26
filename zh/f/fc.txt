@@ -1,8 +1,3 @@
-FC Chelsea:切尔西足球俱乐部
-FC Chelsea:車路士足球會
-FC Group Building:發昌集團大廈
-FC Packaging:永富容器
-FCT:阿布贾
 fc aarau:阿勞足球俱樂部
 fc ajka:奧伊考足球會
 fc akhmat grozny:格羅茲尼艾卡馬特足球會
@@ -37,23 +32,17 @@ fc balzers:巴爾薩斯足球會
 fc barcelona and qatar airways:巴塞罗那足球俱乐部和卡塔尔航空
 fc barcelona and unicef:巴塞罗那足球俱乐部与联合国儿童基金会
 fc barcelona and unicef:巴塞罗那足球俱乐部和联合国儿童基金会
-fc barcelona and:巴塞罗那足球俱乐部与
-fc barcelona and:巴塞罗那足球俱乐部和
 fc barcelona became:巴塞罗那足球俱乐部成为
 fc barcelona coach:巴塞罗那足球俱乐部教练
 fc barcelona footballer:巴塞罗那足球俱乐部足球运动员
 fc barcelona futsal:巴塞罗那足球俱乐部室内足球队
-fc barcelona is:巴塞罗那足球俱乐部是
 fc barcelona museum:巴塞羅那足球俱樂部博物館
 fc barcelona website:巴塞罗那足球俱乐部网站
-fc barcelona will:巴塞罗那足球俱乐部将
 fc barcelona:巴塞罗那足球俱乐部
 fc basel:巴塞爾足球俱樂部
 fc bayern campus:拜仁校园
-fc bayern munich and:拜仁慕尼黑足球俱乐部和
 fc bayern munich ii:拜仁慕尼黑足球俱乐部二队
 fc bayern munich in international football:拜仁慕尼黑国际比赛史
-fc bayern munich is:拜仁慕尼黑足球俱乐部是
 fc bayern munich junior team:拜仁慕尼黑青年队
 fc bayern munich:拜仁慕尼黑足球俱乐部
 fc belite orli pleven:普列文貝利特鷹足球會
@@ -65,6 +54,8 @@ fc bunyodkor:賓約哥足球會
 fc carl zeiss jena:耶拿卡尔蔡司足球俱乐部
 fc cartagena:卡塔赫纳足球俱乐部
 fc chambly oise:查貝利足球會
+fc chelsea:切尔西足球俱乐部
+fc chelsea:車路士足球會
 fc chelyabinsk:車里雅賓斯克足球會
 fc chiasso:基亞索足球會
 fc chita:赤塔足球會
@@ -115,6 +106,7 @@ fc goa:果阿邦足球會
 fc gomel:戈梅利足球俱乐部
 fc gorodeya:戈羅傑亞足球會
 fc groningen:格羅寧根足球會
+fc group building:發昌集團大廈
 fc haka:哈卡足球俱乐部
 fc halifax town:夏利法斯鎮足球會
 fc hansa rostock:汉莎罗斯托克足球俱乐部
@@ -213,6 +205,7 @@ fc ordino:奧爾迪諾足球俱樂部
 fc orenburg:奥伦堡足球俱乐部
 fc oryol:奧廖爾足球會
 fc osaka:大阪足球會
+fc packaging:永富容器
 fc pari nizhny novgorod:下诺夫哥罗德足球俱乐部
 fc partizan minsk:明斯克柏迪遜足球會
 fc pirin gotse delchev:戈采代爾切夫足球俱樂部
@@ -330,3 +323,4 @@ fcc group:西班牙營建集團
 fci levadia tallinn:塔林莱瓦迪亚足球俱乐部
 fci tallinn:塔林因福内特足球俱乐部
 fcm young boys diekirch:德基爾奇小男孩足球俱樂部
+fct:阿布贾

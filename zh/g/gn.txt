@@ -1,35 +1,3 @@
-GNS:dáwǎ cuò
-GNS:zhāxī cuò
-GNS:扎西错
-GNS:达瓦错
-GNSS Research Center:卫星导航定位技术研究中心
-Gnangsangle:Gé nán gé sāng gé liè
-Gnangsangle:格楠格桑格列
-Gnathong:Nà táng
-Gnathong:纳塘
-Gnativka:格納季夫卡
-Gng Sports Club:撞乃基運動吧
-Gnilec:赫尼莱茨河
-Gnili Elanets:赫尼利葉拉涅茨河
-Gninëe-Bisau:Jīnèiyà Bǐshào
-Gninëe-Bisau:几内亚比绍
-Gninëe-Bisau:几内亚比绍 / 幾內亞比索
-Gninëe-Bisau:幾內亞比索
-Gninëe-Bisau:幾內亞比紹
-Gninëe-Bisau:畿內亞比紹
-Gnivan:赫尼萬
-Gniła Lipa:格尼拉利帕河
-Gnot-Ou:有乌
-Gnot-Ou:有烏
-Gnove Caledonie:新喀里多尼亚
-Gnove Gurize:新哥里察
-Gnove Gurize:新戈里察
-Gnove York:紐約
-Gnove York:纽约
-Gnove Zelande:新西兰
-Gnove Zelande:新西蘭
-Gnove Zelande:紐西蘭
-Gnove Zelande:紐西蘭/新西兰
 gn store nord:大北公司
 gnadendorf:格纳登多夫
 gnadensee:格納登湖
@@ -38,8 +6,10 @@ gnaeus julius agricola:阿古利可拉
 gnaeus naevius:奈维乌斯
 gnaeus pompeius trogus:特洛古斯
 gnagna province:尼亞尼亞省
-gnam mtsho:Nàmù Cuò
+gnam mtsho:nàmù cuò
 gnam mtsho:纳木错
+gnangsangle:gé nán gé sāng gé liè
+gnangsangle:格楠格桑格列
 gnaphalieae:鼠麴草族
 gnaphalium polycaulon:多莖鼠麴草
 gnaphalium sylvaticum:林地鼠麴草
@@ -56,6 +26,8 @@ gnathochromis permaxillaris:全顎頜麗魚
 gnathochromis pfefferi:法氏頜麗魚
 gnathodentex:金帶齒頜鯛
 gnathomortis:死颌龙属
+gnathong:nà táng
+gnathong:纳塘
 gnathophis andriashevi:安氏頜吻鰻
 gnathophis asanoi:阿氏頜吻鰻
 gnathophis bathytopos:黑腸頜吻鰻
@@ -98,11 +70,11 @@ gnathostomatidae:颚口线虫科
 gnathostomulid:颚口动物门
 gnathotriche:顎蛺蝶屬
 gnathovorax:噬頜龍屬
+gnativka:格納季夫卡
 gnaviyani atoll:尼亚维亚尼环礁
 gneiskopf peak:格奈斯科普夫峰
 gneiss and granulite:片麻岩和麻粒岩
 gneiss and schist:片麻岩和片岩
-gneiss and:片麻岩和
 gneiss hills:奈斯山脈
 gneiss lake:奈斯湖
 gneiss point:奈斯角
@@ -119,16 +91,26 @@ gneven:格内芬
 gnevkow:格内夫科
 gnewitz:格内维茨
 gneysovaya peak:格涅伊索瓦亞峰
+gng sports club:撞乃基運動吧
 gniew castle:格涅夫城堡
 gniew:格涅夫
 gniewkowo:格涅夫科沃
-gniezno are:格涅兹诺是
 gniezno cathedral:圣母升天圣亚德伯圣殿总主教座堂
 gniezno county:格涅茲諾縣
 gniezno doors:格涅兹诺门
 gniezno voivodeship:格涅兹诺省
 gniezno:格涅兹诺
+gnilec:赫尼莱茨河
+gnili elanets:赫尼利葉拉涅茨河
+gninëe-bisau:jīnèiyà bǐshào
+gninëe-bisau:几内亚比绍
+gninëe-bisau:几内亚比绍 / 幾內亞比索
+gninëe-bisau:幾內亞比索
+gninëe-bisau:幾內亞比紹
+gninëe-bisau:畿內亞比紹
 gnipahellir:格尼巴
+gnivan:赫尼萬
+gniła lipa:格尼拉利帕河
 gnk dinamo zagreb:萨格勒布迪纳摩足球俱乐部
 gnly:颗粒溶素
 gnocchi:玉棋
@@ -136,7 +118,6 @@ gnoien:格诺因
 gnole:豺狼人
 gnome engines:地精发动机
 gnome island:諾姆島
-gnome sort was:侏儒排序是
 gnome sort:侏儒排序
 gnome:地精
 gnomefish:青鯥屬
@@ -149,11 +130,23 @@ gnophos:幽尺蛾属
 gnorismoneura:丛卷蛾属
 gnosca:尼奧斯卡
 gnosia:古诺希亚
-gnosticism is a:諾斯底主義是一
-gnosticism is:諾斯底主義是
-gnosticism was a:諾斯底主義是一
-gnosticism was:諾斯底主義是
 gnosticism:諾斯底主義
+gnot-ou:有乌
+gnot-ou:有烏
 gnotzheim:格诺茨海姆
+gnove caledonie:新喀里多尼亚
+gnove gurize:新哥里察
+gnove gurize:新戈里察
+gnove york:紐約
+gnove york:纽约
+gnove zelande:新西兰
+gnove zelande:新西蘭
+gnove zelande:紐西蘭
+gnove zelande:紐西蘭/新西兰
+gns:dáwǎ cuò
+gns:zhāxī cuò
+gns:扎西错
+gns:达瓦错
+gnss research center:卫星导航定位技术研究中心
 gnutz:格努茨
 gnyal smad:列麦乡

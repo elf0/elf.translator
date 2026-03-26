@@ -1,82 +1,49 @@
-UHerat:赫拉特
-Uhabeshi:Āisàiébǐyà
-Uhabeshi:埃塞俄比亚
-Uhabeshi:埃塞俄比亚 / 衣索比亞
-Uhabeshi:埃塞俄比亞
-Uhabeshi:衣索比亞
-Uhajus:Wūhǎi
-Uhajus:Wūhǎi Shì
-Uhajus:乌海市
-Uhajus:烏海
-Uhajus:烏海市
-Uhamas:瓦姆省
-Uhamas–Pendė:瓦姆-彭代省
-Uhan:Wǔhàn shì
-Uhan:武汉市
-Uhan:武漢
-Uhan:武漢市
-Uhanas:Wǔhàn shì
-Uhanas:武汉市
-Uhanas:武漢
-Uhanas:武漢市
-Uhang 1-gil:于杭1街
-Uhang 3-gil:乌杭3街
-Uhang 5-gil:乌杭5街
-Uhang-ri:于杭里
-Uharte Helezina:伊納克瑟布爾島
-Uharte Helezina:伊纳克塞瑟布尔岛
-Uharte loriatsuak:Géluòliàosuǒ
-Uharte loriatsuak:格洛廖索
-Uhartediaren itsasoa:群岛海
-Uhaņa:Wǔhàn shì
-Uhaņa:武汉市
-Uhaņa:武漢
-Uhaņa:武漢市
-Uheeset:乌格斯图
-Uher Qûlûû Gaqaa:乌和尔楚鲁嘎查
-Uher Qûlûû Nûûr:乌和尔楚鲁诺尔
-Uher Qûlûût:乌和日楚鲁图
-Uherqin Hôôlai:乌和日新浩来
-Uherqin Ôbôô Forest Farm:乌和尔沁敖包林场
-Uhindi:Yìndù
-Uhindi:印度
-Uhniv:烏格尼夫
-Uhniw:烏格尼夫
-Uhnów:烏格尼夫
-Uholanzi:Hélán
-Uholanzi:荷兰
-Uholanzi:荷兰 / 荷蘭
-Uholanzi:荷蘭
-Uhorniki:烏戈爾尼基
-Uhornyky:烏戈爾尼基
-Uhrenmuseum:钟表博物馆
-Uhrenturm St. Markus:圣马可时钟塔
-Uhrenturm:钟楼
-Uhriin Gôl Gaqa:乌和林稿勒嘎查
-Uhriin Gôl Pasture:勿和林高勒牧场
-Uhriin Gôl:乌和林高勒
-Uhroidy:烏赫羅伊季
-Uhroiidî:烏赫羅伊季
-Uhrojidi:烏赫羅伊季
-Uhrojidy:烏赫羅伊季
-Uhroïdy:烏赫羅伊季
-Uhrshawan Battery:二沙灣砲台
-Uhrturm von Dolmabahçe:多爾瑪巴赫切鐘樓
-Uhrturm von Izmir:伊兹密尔钟楼
-Uhta:乌赫塔
-Uhtua:卡列瓦拉
-Uhu:Wúhú Shì
-Uhu:芜湖市
-Uhu:蕪湖
-Uhu:蕪湖市
-Uhyeon-dong:牛岘洞
-Uhyeon-dong:牛峴洞
-Uhíyu’:俄亥俄州
-Uhņiva:烏格尼夫
+uhabeshi:Āisàiébǐyà
+uhabeshi:埃塞俄比亚
+uhabeshi:埃塞俄比亚 / 衣索比亞
+uhabeshi:埃塞俄比亞
+uhabeshi:衣索比亞
+uhajus:wūhǎi
+uhajus:wūhǎi shì
+uhajus:乌海市
+uhajus:烏海
+uhajus:烏海市
+uhamas:瓦姆省
+uhamas–pendė:瓦姆-彭代省
+uhan:wǔhàn shì
+uhan:武汉市
+uhan:武漢
+uhan:武漢市
+uhanas:wǔhàn shì
+uhanas:武汉市
+uhanas:武漢
+uhanas:武漢市
+uhang 1-gil:于杭1街
+uhang 3-gil:乌杭3街
+uhang 5-gil:乌杭5街
+uhang-ri:于杭里
 uhart cize:于阿尔特锡兹
 uhart mixe:于阿尔米克斯
+uharte helezina:伊納克瑟布爾島
+uharte helezina:伊纳克塞瑟布尔岛
+uharte loriatsuak:géluòliàosuǒ
+uharte loriatsuak:格洛廖索
+uhartediaren itsasoa:群岛海
+uhaņa:wǔhàn shì
+uhaņa:武汉市
+uhaņa:武漢
+uhaņa:武漢市
+uheeset:乌格斯图
+uher qûlûû gaqaa:乌和尔楚鲁嘎查
+uher qûlûû nûûr:乌和尔楚鲁诺尔
+uher qûlûût:乌和日楚鲁图
+uherat:赫拉特
+uherqin hôôlai:乌和日新浩来
+uherqin Ôbôô forest farm:乌和尔沁敖包林场
 uhf television broadcasting:超高頻電視廣播
 uhf television yamanashi:山梨電視台
+uhindi:yìndù
+uhindi:印度
 uhingen:乌英根
 uhlsport:优斯宝
 uhm hyun kyung:嚴賢璟
@@ -85,9 +52,42 @@ uhm jung hwa:嚴正化
 uhm tae goo:嚴泰九
 uhm tae woong:嚴泰雄
 uhniv:乌赫尼夫
+uhniv:烏格尼夫
+uhniw:烏格尼夫
+uhnów:烏格尼夫
+uholanzi:hélán
+uholanzi:荷兰
+uholanzi:荷兰 / 荷蘭
+uholanzi:荷蘭
+uhorniki:烏戈爾尼基
+uhornyky:烏戈爾尼基
+uhrenmuseum:钟表博物馆
+uhrenturm st. markus:圣马可时钟塔
+uhrenturm:钟楼
+uhriin gôl gaqa:乌和林稿勒嘎查
+uhriin gôl pasture:勿和林高勒牧场
+uhriin gôl:乌和林高勒
+uhroidy:烏赫羅伊季
 uhroidy:烏赫羅伊迪
+uhroiidî:烏赫羅伊季
+uhrojidi:烏赫羅伊季
+uhrojidy:烏赫羅伊季
+uhroïdy:烏赫羅伊季
+uhrshawan battery:二沙灣砲台
+uhrturm von dolmabahçe:多爾瑪巴赫切鐘樓
+uhrturm von izmir:伊兹密尔钟楼
 uhrynkivtsi:烏格林基夫齊
 uhsn:留學少女
+uhta:乌赫塔
 uhtred of bamburgh:班堡的乌特雷德
 uhtrex:超高温实验堆
+uhtua:卡列瓦拉
+uhu:wúhú shì
+uhu:芜湖市
+uhu:蕪湖
+uhu:蕪湖市
 uhwudong:於乙宇同
+uhyeon-dong:牛岘洞
+uhyeon-dong:牛峴洞
+uhíyu’:俄亥俄州
+uhņiva:烏格尼夫

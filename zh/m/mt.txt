@@ -1,422 +1,414 @@
-MT Biker:登山者
-MT49 CAFE:芒果樹49號咖啡店
-MT:蒙大拿州
-MT:馬托格羅索州
-MT:马托格罗索州
-MTN-Irancell Telecom:Irancelll电话卡
-MTR Academy:港鐵學院
-MTR Airport Express:港鐵機場快綫
-MTR Airport Express:港铁机场快线
-MTR Bus 506 (Glorious Garden → Tuen Mun Station):港鐵巴士506綫（富健花園 → 屯門站）
-MTR Bus 506 (Tuen Mun Ferry Pier ↺ Siu Lun):港鐵巴士506綫（屯門碼頭 ↺ 兆麟）
-MTR Bus 506:港鐵巴士506綫
-MTR Bus K51 (Fu Tai → Siu Hong Station (South)):港鐵巴士K51綫（富泰 → 兆康站（南））
-MTR Bus K51 (Fu Tai → Tai Lam):港鐵巴士K51綫（富泰 → 大欖）
-MTR Bus K51 (Siu Hong Station (South) → Fu Tai):港鐵巴士K51綫（兆康站（南） → 富泰）
-MTR Bus K51 (Tai Lam → Fu Tai):港鐵巴士K51綫（大欖 → 富泰）
-MTR Bus K51:港鐵巴士K51綫
-MTR Bus K52 (Lung Kwu Tan → Tuen Mun Station):港鐵巴士K52綫（龍鼓灘 → 屯門站）
-MTR Bus K52 (Tuen Mun Station → Lung Kwu Tan):港鐵巴士K52綫（屯門站 → 龍鼓灘）
-MTR Bus K52:港鐵巴士K52綫
-MTR Bus K53 (Tuen Mun Station ↺ So Kwun Wat):港鐵巴士K53綫（屯門站 ↺ 掃管笏）
-MTR Bus K53/K58 through service (Tuen Mun Station → So Kwun Wat → Fu Tai):港鐵巴士K53/K58直通運行綫（屯門站 → 掃管笏 → 富泰）
-MTR Bus K53:港鐵巴士K53綫
-MTR Bus K58 (Fu Tai → Castle Peak Bay):港鐵巴士K58綫（富泰 → 青山灣）
-MTR Bus K58 (So Kwun Wat → Fu Tai):港鐵巴士K58綫（掃管笏 → 富泰）
-MTR Bus K58/K53 through service (Fu Tai → So Kwun Wat → Tuen Mun Station):港鐵巴士K58/K53直通運行綫（富泰 → 掃管笏 → 屯門站）
-MTR Bus K58:港鐵巴士K58綫
-MTR Bus K65:港鐵巴士K65綫
-MTR Bus K65A (Lau Fau Shan → Tin Shui Wai Station):港鐵巴士K65A綫（流浮山 → 天水圍站）
-MTR Bus K65A (Tin Shui Wai Station → Lau Fau Shan):港鐵巴士K65A綫（天水圍站 → 流浮山）
-MTR Bus K66 (Long Ping → Tai Tong):港鐵巴士K66綫（朗屏 → 大棠）
-MTR Bus K66 (Tai Tong → Long Ping):港鐵巴士K66綫（大棠 → 朗屏）
-MTR Bus K66:港鐵巴士K66綫
-MTR Bus K68 (Yuen Long Industrial Estate ↺ Yuen Long Park):港鐵巴士K68綫（元朗工業邨 ↺ 元朗公園）
-MTR Bus K68:港鐵巴士K68綫
-MTR Bus K73 (HKFYG Lee Shau Kee College → Long Ping):港鐵巴士K73綫（香港青年協會李兆基書院 → 朗屏）
-MTR Bus K73 (Tin Ching → Yuen Long (West) (omit Long Ping)):港鐵巴士K73綫（天晴 → 元朗（西）（不經朗屏））
-MTR Bus K73 (Tin Heng → Yuen Long (West)):港鐵巴士K73綫（天恆 → 元朗（西））
-MTR Bus K73 (Tin Yan → Yuen Long (West)):港鐵巴士K73綫（天恩 → 元朗（西））
-MTR Bus K73 (Yuen Long (West) → Tin Heng):港鐵巴士K73綫（元朗（西） → 天恆）
-MTR Bus K73:港鐵巴士K73綫
-MTR Bus K74 (Tin Shui ↺ Au Tau):港鐵巴士K74綫（天瑞 ↺ 凹頭）
-MTR Bus K74:港鐵巴士K74綫
-MTR Bus K75:港鐵巴士K75綫
-MTR Bus K75A (Tin Shui Wai Station ↺ Hung Shui Kiu):港鐵巴士K75A綫（天水圍站 ↺ 洪水橋）
-MTR Bus K75P (Shek Po Road → Hung Shui Kiu):港鐵巴士K75P綫（石埗路 → 洪水橋）
-MTR Bus K75P (Tin Shui ↺ Hung Shui Kiu):港鐵巴士K75P綫（天瑞 ↺ 洪水橋）
-MTR Bus K75S (Tin Shui Wai Station ↺ Hung Fuk Estate):港鐵巴士K75S綫（天水圍站 ↺ 洪福邨）
-MTR Bus K76 (Tin Heng → Tin Shui Wai Station):港鐵巴士K76綫（天恆 → 天水圍站）
-MTR Bus K76 (Tin Shui Wai Station → Tin Heng):港鐵巴士K76綫（天水圍站 → 天恆）
-MTR Bus K76:港鐵巴士K76綫
-MTR Bus Route K65:港鐵巴士K65綫
-MTR Bus:港鐵巴士
-MTR Chai Wan Depot:港鐵柴灣車廠
-MTR Disneyland Resort Line (Northbound):港鐵迪士尼綫 (上)
-MTR Disneyland Resort Line (Southbound):港鐵迪士尼綫 (下)
-MTR Disneyland Resort Line:港鐵迪士尼綫
-MTR East Rail Line (Lok Ma Chau Spur Line):港鐵東鐵綫（落馬洲支綫）
-MTR East Rail Line (Lok Ma Chau Spur Line):港铁东铁线（落马洲支线）
-MTR East Rail Line (Racecourse Spur):港鐵東鐵綫馬場支綫
-MTR East Rail Line:港鐵東鐵綫
-MTR East Rail Line:港铁东铁线
-MTR East Rail Lines:港鐵東鐵
-MTR Exhibition Ctr Stn West Substation:港鐵會議展覽中心站西變電站
-MTR Fare Saver:港鐵特惠站
-MTR Fare Saver:港铁特惠站
-MTR Feeder Bus K12 (Eightland Gardens → Tai Po Market Station):港鐵接駁巴士K12綫（八號花園 → 大埔墟站）
-MTR Feeder Bus K12 (Tai Po Market Station → Eightland Gardens):港鐵接駁巴士K12綫（大埔墟站 → 八號花園）
-MTR Feeder Bus K12:港鐵接駁巴士K12綫
-MTR Feeder Bus K14 (Tai Po Mega Mall → Tai Po Market Station):港鐵接駁巴士K14綫（大埔超級城 → 大埔墟站）
-MTR Feeder Bus K14:港鐵接駁巴士K14綫
-MTR Freight Head Office:港鐵貨運總辦事處
-MTR HKU Station Ventilation and Plant Building:港鐵香港大學站通風及機房大樓
-MTR Headquarters Building:港鐵總部大樓
-MTR Ho Tung Lau Depot:港鐵何東樓灣車廠
-MTR Ho Tung Lau Depot:港鐵何東樓車廠
-MTR Hong Kong Ventilation Building:港鐵香港通風樓
-MTR Hong Kong Ventilation Building:港铁香港通风楼
-MTR Hung Hom Building:港鐵紅磡大樓
-MTR Hung Shui Kiu Bus Depot:港鐵洪水橋巴士廠
-MTR Island Line:港鐵港島綫
-MTR Island Line:港铁港岛线
-MTR Kam Tin Building:港鐵錦田大樓
-MTR Kowloon Bay Depot:港鐵九龍灣車廠
-MTR Kowloon Ventilation Building:港鐵九龍通風大樓
-MTR Kowloon Ventilation Building:港铁九龙通风大楼
-MTR Kwun Tong Line:港鐵觀塘綫
-MTR Kwun Tong Line:港铁观塘线
-MTR Northern Link:港鐵北環綫
-MTR Quarry Bay Substation:港鐵鰂魚涌配電站
-MTR Quarry Bay Substation:港铁鲗鱼涌配电站
-MTR Requisition:港鐵屯門南延線用地
-MTR Requisition:港铁屯门南延线用地
-MTR Siu Ho Wan Depot:港鐵小濠灣車廠
-MTR Siu Ho Wan Depot:港铁小濠湾车厂
-MTR Siu Hong Station (North):港鐵兆康站（北）
-MTR Siu Hong Station (North):港铁兆康站（北）
-MTR Siu Hong Station (South):港鐵兆康站（南）
-MTR Siu Hong Station (South):港铁兆康站（南）
-MTR South Island Line (West):港鐵南港島綫（西段）
-MTR South Island Line (West):港铁南港岛线（西段）
-MTR South Island Line:港鐵南港島綫
-MTR South Island Line:港铁南港岛线
-MTR Tai Kok Tsui Intake Structure:港鐵大角咀海水泵房
-MTR Tai Po Bus Maintenance Centre:港鐵大埔巴士維修中心
-MTR Tai Po Kau Staff Club House:港鐵大埔滘員工會所
-MTR Tai Wai Depot:港鐵大圍車廠
-MTR Tin Shui Wai Station:港鐵天水圍站
-MTR Tseung Kwan O Depot:港鐵將軍澳車廠
-MTR Tseung Kwan O Depot:港铁将军澳车厂
-MTR Tseung Kwan O Line:港鐵將軍澳綫
-MTR Tseung Kwan O Line:港铁将军澳线
-MTR Tsuen Wan Depot:港鐵荃灣車廠
-MTR Tsuen Wan Line (Northbound):港鐵荃灣綫
-MTR Tsuen Wan Line (Northbound):港铁荃湾线
-MTR Tsuen Wan Line (Southbound):港鐵荃灣綫
-MTR Tsuen Wan Line:港鐵荃灣綫
-MTR Tsuen Wan Line:港铁荃湾线
-MTR Tuen Ma Line Phase 1:港鐵屯馬綫一期
-MTR Tuen Ma Line:港鐵屯馬綫
-MTR Tuen Ma Line:港铁屯马线
-MTR Tuen Mun Building:港鐵屯門大樓
-MTR Tuen Mun Building:港铁屯门大楼
-MTR Tuen Mun Depot:港鐵屯門車廠
-MTR Tuen Mun Depot:港铁屯门车厂
-MTR Tuen Mun Station:港鐵屯門站
-MTR Tung Chung Line:港鐵東涌綫
-MTR Tung Chung Line:港铁东涌线
-MTR Urban Lines:港鐵市區綫
-MTR Ventilation Shaft:港鐵通風槽
-MTR Ventilation Shafts:港鐵通風井
-MTR Whampoa Station Exit A:港鐵黃埔站A出口
-MTR Whampoa Station Exit B:港鐵黃埔站B出口
-MTR Wong Chuk Hang Depot:港鐵黃竹坑車廠
-MTR XRL Kwai Chung Ventilation Building:葵涌高鐵通風樓
-MTR Yuen Long Station:港鐵元朗站
-Mt Jia Luo:加羅山
-Mt Pingfeng South Peak:屏風山南峰
-Mt Qiding Emplacement:旗顶山炮台
-Mt Qomolangma Base Camp:珠峰大本营
-Mt Tsopu:措普峰
-Mt. Atago:愛宕山
-Mt. Atago:爱宕山
-Mt. Baak Ngaak:白額山
-Mt. Baibin:白賓山
-Mt. Baigu:白姑大山
-Mt. Bailaka:百拉咔山
-Mt. Banping (Gaonan Highway):半屏山(高楠公路)
-Mt. Banping Park:半屏山公園
-Mt. Beiding:北頂山
-Mt. Beiwuzhi:北五指山
-Mt. Bitou:bítóushān
-Mt. Bitou:ㄅㄧˊㄊㄡˊㄕㄢ
-Mt. Bitou:鼻头山
-Mt. Bitou:鼻頭山
-Mt. Butler Road Temporary Refuse Collection Point:畢拉山道臨時垃圾收集站
-Mt. Butler Viewing Point:畢拿山觀景台
-Mt. Caigongkeng (Magnet Rock):菜公坑山(反經石)
-Mt. Caigongkeng:菜公坑山
-Mt. Cengwang National Nature Reserve:岑王老山国家级自然保护区
-Mt. Chishiliu:赤石六山
-Mt. Cuichi Sancha:翠池三叉山
-Mt. Dajian:大尖山
-Mt. Dajianhou:大尖後山
-Mt. Dalunwei Trail Entrance:大仑尾山步道口
-Mt. Dalunwei Trail Entrance:大崙尾山步道口
-Mt. Dalunwei:大仑尾山
-Mt. Dalunwei:大崙尾山
-Mt. Danfeng:dānfèngshān
-Mt. Danfeng:ㄉㄢㄈㄥˋㄕㄢ
-Mt. Danfeng:丹凤山
-Mt. Danfeng:丹鳳山
-Mt. Daoxiang:稻香山
-Mt. Datun South Peak:大屯山南峰
-Mt. Datun West Peak:大屯山西峰
-Mt. Datun:大屯山
-Mt. Dede:德德山
-Mt. Ding Southwest Peak:頂山西南峰
-Mt. Ding:頂山
-Mt. Dinghu:頂湖山
-Mt. Dingliao:頂寮山
-Mt. Dingshanxi:頂山溪山
-Mt. Dingzhonggu:頂中股山
-Mt. Donghua:東華山
-Mt. Duk Gu:獨孤山
-Mt. Emei Partnerschaft Stein:峨眉山友谊石
-Mt. Emei Partnership Stone:峨眉山友谊石
-Mt. Erping Ding:二坪頂山
-Mt. Erzi:二子山
-Mt. Everest Ticket Office:珠穆朗玛峰国家公园售票处
-Mt. Ewei:鵝尾山
-Mt. Fenghuang Park:凤凰山公园
-Mt. Fuji replica:富士山微缩模型
-Mt. Fushiping:富士坪山
-Mt. Gaan Tau:梘頭山
-Mt. Gaoding:高頂山
-Mt. Guangwu South Peak:光武山南峰
-Mt. Guangwu:光武山
-Mt. Guanyin:觀音山
-Mt. Guizikeng:貴子坑山
-Mt. Halapei:嗄嘮別山
-Mt. High West Viewing Point:西高山觀景台
-Mt. High West Viewing Point:西高山观景台
-Mt. Honglu:烘爐山
-Mt. Hu:湖山
-Mt. Huang Tang:黃塘山
-Mt. Huangzui North Peak:磺嘴山北峰
-Mt. Huangzui:磺嘴山
-Mt. Huasan East Peak:huà shān dōng fēng
-Mt. Huasan East Peak:华山东峰
-Mt. Huasan North Peak:huà shān běi fēng
-Mt. Huasan North Peak:华山北峰
-Mt. Huasan West Peak:huà shān xī fēng
-Mt. Huasan West Peak:华山西峰
-Mt. Huzai Rolling Tower (Downward):虎仔山迴車塔(下行)
-Mt. Huzai Rolling Tower (Upward):虎仔山迴車塔(上行)
-Mt. Jiao Zi:轿子山
-Mt. Jingbu:井步山
-Mt. Jiu Nu:九女山
-Mt. La Vie:南嶼嵩林
-Mt. Laogui:老圭山
-Mt. Liding:笠頂山
-Mt. Liuyi:吳酒桶頭山
-Mt. Liwu:立霧山
-Mt. Longevity:壽山森林步道導覽
-Mt. Longtou Scenic Area:龍頭山風景區
-Mt. Lukuping (鹿堀坪):鹿堀坪山
-Mt. Mafan:瑪蕃山
-Mt. Menghuanhu:夢幻湖山
-Mt. Miantian:面天山
-Mt. Mikasa:三笠山
-Mt. Misikuan:密西可灣山
-Mt. Muzhishan Hiking Trail:拇指山登山口
-Mt. Ngong Tau:昂頭山
-Mt. Nicholson Microwave Station:聶歌信山微波通訊站
-Mt. Onami:Dai Nanzan
-Mt. Paektu Museum:白头山综合博物馆
-Mt. Pan Pan:盘盘山
-Mt. Parker Road Barbecue Area Site 1:柏架山道燒烤區一號場
-Mt. Parker Road Barbecue Area Site 2:柏架山道燒烤區二號場
-Mt. Parker Road Barbecue Area Site 3:柏架山道燒烤區三號場
-Mt. Parker Road Barbecue Area Site 4:柏架山道燒烤區四號場
-Mt. Qigu:七股山
-Mt. Qilian:唭哩岸山
-Mt. Qingtiangang East Peak:擎天崗山東峰
-Mt. Qingtiangang East Peak:擎天崗東峰
-Mt. Qingtiangang:擎天崗山
-Mt. Qiwei First Hiking Gate:旗尾山第一登山口
-Mt. Qiwei Second Hiking Gate:旗尾山第二登山口
-Mt. Qiwei Third Hiking Gate:旗尾山第三登山口
-Mt. Qiwei Trail:旗尾山步道
-Mt. Qixing East Peak:七星山東峰
-Mt. Qixing North peak:七星山北峰
-Mt. Qixing:七星山
-Mt. Qiyan West Peak:奇岩山西峰
-Mt. Qiyan:奇岩山
-Mt. Qiyan:旗鹽山
-Mt. Rokkō:六甲山
-Mt. Sakura:內橫屏山
-Mt. Sanparakan:桑巴拉堪山
-Mt. Shamao Trail (Dapu Trail Entrance):紗帽山步道(大埔登山口路線)
-Mt. Shamao Trail (Yangming Pond Trail Entrance):紗帽山步道(陽明湖登山口路線)
-Mt. Shamao:紗帽山
-Mt. Shanzhuhu:山豬湖山
-Mt. Shetou Observatory:蛇頭山觀景台
-Mt. Shetou:蛇頭山
-Mt. Shi Men:石門山
-Mt. Shiti:石梯嶺
-Mt. Son:嵩山
-Mt. Sow:相山
-Mt. Touke:頭嵙山
-Mt. Tsaitou:菜頭崙
-Mt. Tudigongbi:土地公鼻山
-Mt. Wakakusa:若草山
-Mt. Wen Jian Platform:文間山平台
-Mt. Woniushan Geological Park:卧牛山地质公园
-Mt. Wuerchahu Trail:無耳茶壺山登山步道
-Mt. Wutai:霧台山
-Mt. Wutou:霧頭山
-Mt. Xiadie'er:霞迭爾山
-Mt. Xiangtian:向天山
-Mt. Xiangtianchi:向天池山
-Mt. Xiaocao South Peak:小草山南峰
-Mt. Xiaocao:小草山
-Mt. Xiaoguanyin N. North Peak:小觀音山北北峰
-Mt. Xiaoguanyin Northwest Peak:小觀音山西北峰
-Mt. Xiaoguanyin West Peak:小觀音山西峰
-Mt. Xiaoguanyin:小觀音山
-Mt. Xiaopingding:小坪頂山
-Mt. Xiaoson:小嵩山
-Mt. Xiaqigu:下七股山
-Mt. Xikan:西崁山
-Mt. Xinbeitou:新北投山
-Mt. Xinglin:杏林山
-Mt. Yaniliu:亞泥笛山
-Mt. Yin Zai:银仔山
-Mt. Yotei:羊蹄山
-Mt. Yuchohu:玉稠湖山
-Mt. Zhong-zheng First Trail Entrance:中正山第一登山口
-Mt. Zhong-zheng Observation Deck:中正山觀景臺
-Mt. Zhong-zheng Parking Lot Trail Entrance:中正山停車場登山口
-Mt. Zhong-zheng Parking Lot:中正山停車場
-Mt. Zhong-zheng Trail:中正山親山步道
-Mt. Zhongzheng:中正山
-Mt. Zhuang-zi-ding:莊子頂山
-Mt. Zhugao South Peak:竹篙山南峰
-Mt. Zhuzi Front Peak:竹子山前峰
-Mt. Zhuzi North Peak:竹子山北峰
-Mt. Zhuzi:竹子山
-Mt. Zhuzihu:竹子湖山
-Mt. Zumu:足母山
-Mt.Clarity Body-Mind Creative Park:澄山心理園區
-Mt.Xianshan Neiborhood:岘山小区
-Mtatsminda Park:姆塔茨明达公园
-Mtatsminda Park:姆塔茨明達公園
-Mtatsminda Parkı:姆塔茨明达公园
-Mtatsminda Parkı:姆塔茨明達公園
-Mtatsminda-Park:姆塔茨明达公园
-Mtatsminda-Park:姆塔茨明達公園
-Mtatsmindan puisto:姆塔茨明达公园
-Mtatsmindan puisto:姆塔茨明達公園
-Mtc Bus (Neihu):大都会客运内湖站
-Mtc Bus (Neihu):大都會客運內湖站
-Mto Mississippi:密西西比河
-Mto Mwekundu:紅河
-Mto Mwekundu:红河
-Mto Spey:斯佩河
-Mts'cheta-Mtianeetien:姆茨赫塔-姆季阿涅季州
-Mtsc'hetha-Mthianethi:姆茨赫塔-姆季阿涅季州
-Mtscheta-Mtianeti:姆茨赫塔-姆季阿涅季州
-Mtsheta-Mtianeti:姆茨赫塔-姆季阿涅季州
-Mtshetha-Mthianethi:姆茨赫塔-姆季阿涅季州
-Mtsinje wa Mississippi:密西西比河
-Mtsinje wa Senegal:塞内加尔河
-Mtsinje wa Ubangi:烏班吉河
-Mtsinje wa Volga:伏尔加河
-Mtsinje wa Yangtze:Cháng Jiāng
-Mtsinje wa Yangtze:長江
-Mtsinje wa Yangtze:长江
-Mtsjeta-Mtianeti:姆茨赫塔-姆季阿涅季州
-Mtsketha-Mthianethi suyu:姆茨赫塔-姆季阿涅季州
-Mtskheta Municipality:姆茨赫塔市
-Mtskheta-Mtianeti:姆茨赫塔-姆季阿涅季州
-Mtskheta:姆茨赫塔
-Mtskhetan piirikunta:姆茨赫塔市
-Mtskhetis Munitsip'alit'et'i:姆茨赫塔市
-Mtsqueta-Mtianécia:姆茨赫塔-姆季阿涅季州
-Mtsxeta-Mtianeti:姆茨赫塔-姆季阿涅季州
-Mtsxêta-Mtîanêtî:姆茨赫塔-姆季阿涅季州
-Mtwara Region:姆特瓦拉區
-Mtwara Region:姆特華拉區
-Mtwara bölgesi:姆特瓦拉區
-Mtwara bölgesi:姆特華拉區
-Mtwara piirkond:姆特瓦拉區
-Mtwara piirkond:姆特華拉區
-Mtwara:姆特瓦拉區
-Mtwara:姆特華拉區
-Mtwaran alue:姆特瓦拉區
-Mtwaran alue:姆特華拉區
+mt biker:登山者
+mt jia luo:加羅山
 mt orkim harmony:歐爾金和諧號
+mt pingfeng south peak:屏風山南峰
+mt qiding emplacement:旗顶山炮台
+mt qomolangma base camp:珠峰大本营
 mt sierra college:谢拉山学院
+mt tsopu:措普峰
+mt. atago:愛宕山
+mt. atago:爱宕山
+mt. baak ngaak:白額山
+mt. baibin:白賓山
+mt. baigu:白姑大山
+mt. bailaka:百拉咔山
+mt. banping (gaonan highway):半屏山(高楠公路)
+mt. banping park:半屏山公園
+mt. beiding:北頂山
+mt. beiwuzhi:北五指山
+mt. bitou:bítóushān
+mt. bitou:ㄅㄧˊㄊㄡˊㄕㄢ
+mt. bitou:鼻头山
+mt. bitou:鼻頭山
+mt. butler road temporary refuse collection point:畢拉山道臨時垃圾收集站
+mt. butler viewing point:畢拿山觀景台
+mt. caigongkeng (magnet rock):菜公坑山(反經石)
+mt. caigongkeng:菜公坑山
+mt. cengwang national nature reserve:岑王老山国家级自然保护区
+mt. chishiliu:赤石六山
+mt. cuichi sancha:翠池三叉山
+mt. dajian:大尖山
+mt. dajianhou:大尖後山
+mt. dalunwei trail entrance:大仑尾山步道口
+mt. dalunwei trail entrance:大崙尾山步道口
+mt. dalunwei:大仑尾山
+mt. dalunwei:大崙尾山
+mt. danfeng:dānfèngshān
+mt. danfeng:ㄉㄢㄈㄥˋㄕㄢ
+mt. danfeng:丹凤山
+mt. danfeng:丹鳳山
+mt. daoxiang:稻香山
+mt. datun south peak:大屯山南峰
+mt. datun west peak:大屯山西峰
+mt. datun:大屯山
+mt. dede:德德山
+mt. ding southwest peak:頂山西南峰
+mt. ding:頂山
+mt. dinghu:頂湖山
+mt. dingliao:頂寮山
+mt. dingshanxi:頂山溪山
+mt. dingzhonggu:頂中股山
+mt. donghua:東華山
+mt. duk gu:獨孤山
+mt. emei partnerschaft stein:峨眉山友谊石
+mt. emei partnership stone:峨眉山友谊石
+mt. erping ding:二坪頂山
+mt. erzi:二子山
+mt. everest ticket office:珠穆朗玛峰国家公园售票处
+mt. ewei:鵝尾山
+mt. fenghuang park:凤凰山公园
+mt. fuji replica:富士山微缩模型
+mt. fushiping:富士坪山
+mt. gaan tau:梘頭山
+mt. gaoding:高頂山
+mt. guangwu south peak:光武山南峰
+mt. guangwu:光武山
+mt. guanyin:觀音山
+mt. guizikeng:貴子坑山
+mt. halapei:嗄嘮別山
+mt. high west viewing point:西高山觀景台
+mt. high west viewing point:西高山观景台
+mt. honglu:烘爐山
+mt. hu:湖山
+mt. huang tang:黃塘山
+mt. huangzui north peak:磺嘴山北峰
+mt. huangzui:磺嘴山
+mt. huasan east peak:huà shān dōng fēng
+mt. huasan east peak:华山东峰
+mt. huasan north peak:huà shān běi fēng
+mt. huasan north peak:华山北峰
+mt. huasan west peak:huà shān xī fēng
+mt. huasan west peak:华山西峰
+mt. huzai rolling tower (downward):虎仔山迴車塔(下行)
+mt. huzai rolling tower (upward):虎仔山迴車塔(上行)
+mt. jiao zi:轿子山
+mt. jingbu:井步山
+mt. jiu nu:九女山
+mt. la vie:南嶼嵩林
+mt. laogui:老圭山
+mt. liding:笠頂山
+mt. liuyi:吳酒桶頭山
+mt. liwu:立霧山
+mt. longevity:壽山森林步道導覽
+mt. longtou scenic area:龍頭山風景區
+mt. lukuping (鹿堀坪):鹿堀坪山
+mt. mafan:瑪蕃山
+mt. menghuanhu:夢幻湖山
+mt. miantian:面天山
+mt. mikasa:三笠山
+mt. misikuan:密西可灣山
+mt. muzhishan hiking trail:拇指山登山口
+mt. ngong tau:昂頭山
+mt. nicholson microwave station:聶歌信山微波通訊站
+mt. onami:dai nanzan
+mt. paektu museum:白头山综合博物馆
+mt. pan pan:盘盘山
+mt. parker road barbecue area site 1:柏架山道燒烤區一號場
+mt. parker road barbecue area site 2:柏架山道燒烤區二號場
+mt. parker road barbecue area site 3:柏架山道燒烤區三號場
+mt. parker road barbecue area site 4:柏架山道燒烤區四號場
+mt. qigu:七股山
+mt. qilian:唭哩岸山
+mt. qingtiangang east peak:擎天崗山東峰
+mt. qingtiangang east peak:擎天崗東峰
+mt. qingtiangang:擎天崗山
+mt. qiwei first hiking gate:旗尾山第一登山口
+mt. qiwei second hiking gate:旗尾山第二登山口
+mt. qiwei third hiking gate:旗尾山第三登山口
+mt. qiwei trail:旗尾山步道
+mt. qixing east peak:七星山東峰
+mt. qixing north peak:七星山北峰
+mt. qixing:七星山
+mt. qiyan west peak:奇岩山西峰
+mt. qiyan:奇岩山
+mt. qiyan:旗鹽山
+mt. rokkō:六甲山
+mt. sakura:內橫屏山
+mt. sanparakan:桑巴拉堪山
+mt. shamao trail (dapu trail entrance):紗帽山步道(大埔登山口路線)
+mt. shamao trail (yangming pond trail entrance):紗帽山步道(陽明湖登山口路線)
+mt. shamao:紗帽山
+mt. shanzhuhu:山豬湖山
+mt. shetou observatory:蛇頭山觀景台
+mt. shetou:蛇頭山
+mt. shi men:石門山
+mt. shiti:石梯嶺
+mt. son:嵩山
+mt. sow:相山
+mt. touke:頭嵙山
+mt. tsaitou:菜頭崙
+mt. tudigongbi:土地公鼻山
+mt. wakakusa:若草山
+mt. wen jian platform:文間山平台
+mt. woniushan geological park:卧牛山地质公园
+mt. wuerchahu trail:無耳茶壺山登山步道
+mt. wutai:霧台山
+mt. wutou:霧頭山
+mt. xiadie'er:霞迭爾山
+mt. xiangtian:向天山
+mt. xiangtianchi:向天池山
+mt. xiaocao south peak:小草山南峰
+mt. xiaocao:小草山
+mt. xiaoguanyin n. north peak:小觀音山北北峰
+mt. xiaoguanyin northwest peak:小觀音山西北峰
+mt. xiaoguanyin west peak:小觀音山西峰
+mt. xiaoguanyin:小觀音山
+mt. xiaopingding:小坪頂山
+mt. xiaoson:小嵩山
+mt. xiaqigu:下七股山
+mt. xikan:西崁山
+mt. xinbeitou:新北投山
+mt. xinglin:杏林山
+mt. yaniliu:亞泥笛山
+mt. yin zai:银仔山
+mt. yotei:羊蹄山
+mt. yuchohu:玉稠湖山
+mt. zhong-zheng first trail entrance:中正山第一登山口
+mt. zhong-zheng observation deck:中正山觀景臺
+mt. zhong-zheng parking lot trail entrance:中正山停車場登山口
+mt. zhong-zheng parking lot:中正山停車場
+mt. zhong-zheng trail:中正山親山步道
+mt. zhongzheng:中正山
+mt. zhuang-zi-ding:莊子頂山
+mt. zhugao south peak:竹篙山南峰
+mt. zhuzi front peak:竹子山前峰
+mt. zhuzi north peak:竹子山北峰
+mt. zhuzi:竹子山
+mt. zhuzihu:竹子湖山
+mt. zumu:足母山
+mt.clarity body-mind creative park:澄山心理園區
+mt.xianshan neiborhood:岘山小区
+mt49 cafe:芒果樹49號咖啡店
+mt:蒙大拿州
+mt:馬托格羅索州
+mt:马托格罗索州
 mtarfa:姆塔尔法
+mtatsminda park:姆塔茨明达公园
+mtatsminda park:姆塔茨明達公園
+mtatsminda parkı:姆塔茨明达公园
+mtatsminda parkı:姆塔茨明達公園
+mtatsminda-park:姆塔茨明达公园
+mtatsminda-park:姆塔茨明達公園
+mtatsmindan puisto:姆塔茨明达公园
+mtatsmindan puisto:姆塔茨明達公園
+mtc bus (neihu):大都会客运内湖站
+mtc bus (neihu):大都會客運內湖站
 mthatha:烏姆塔塔
 mthethwa clan:穆提特瓦帝國
-mtho lding:Tuōlín Zhèn
 mtho lding:tuōlín zhèn
 mtho lding:托林镇
 mtirala national park:姆蒂拉拉國家公園
+mtn-irancell telecom:irancelll电话卡
+mto mississippi:密西西比河
+mto mwekundu:紅河
+mto mwekundu:红河
+mto spey:斯佩河
 mtori:香蕉汤
 mtower:港务集团大厦
+mtr academy:港鐵學院
 mtr advertising:港鐵廣告
+mtr airport express:港鐵機場快綫
+mtr airport express:港铁机场快线
 mtr airport:港鐵機場
-mtr and:港鐵和
+mtr bus 506 (glorious garden → tuen mun station):港鐵巴士506綫（富健花園 → 屯門站）
+mtr bus 506 (tuen mun ferry pier ↺ siu lun):港鐵巴士506綫（屯門碼頭 ↺ 兆麟）
+mtr bus 506:港鐵巴士506綫
+mtr bus k51 (fu tai → siu hong station (south)):港鐵巴士k51綫（富泰 → 兆康站（南））
+mtr bus k51 (fu tai → tai lam):港鐵巴士k51綫（富泰 → 大欖）
+mtr bus k51 (siu hong station (south) → fu tai):港鐵巴士k51綫（兆康站（南） → 富泰）
+mtr bus k51 (tai lam → fu tai):港鐵巴士k51綫（大欖 → 富泰）
+mtr bus k51:港鐵巴士k51綫
+mtr bus k52 (lung kwu tan → tuen mun station):港鐵巴士k52綫（龍鼓灘 → 屯門站）
+mtr bus k52 (tuen mun station → lung kwu tan):港鐵巴士k52綫（屯門站 → 龍鼓灘）
+mtr bus k52:港鐵巴士k52綫
+mtr bus k53 (tuen mun station ↺ so kwun wat):港鐵巴士k53綫（屯門站 ↺ 掃管笏）
+mtr bus k53/k58 through service (tuen mun station → so kwun wat → fu tai):港鐵巴士k53/k58直通運行綫（屯門站 → 掃管笏 → 富泰）
+mtr bus k53:港鐵巴士k53綫
+mtr bus k58 (fu tai → castle peak bay):港鐵巴士k58綫（富泰 → 青山灣）
+mtr bus k58 (so kwun wat → fu tai):港鐵巴士k58綫（掃管笏 → 富泰）
+mtr bus k58/k53 through service (fu tai → so kwun wat → tuen mun station):港鐵巴士k58/k53直通運行綫（富泰 → 掃管笏 → 屯門站）
+mtr bus k58:港鐵巴士k58綫
+mtr bus k65:港鐵巴士k65綫
+mtr bus k65a (lau fau shan → tin shui wai station):港鐵巴士k65a綫（流浮山 → 天水圍站）
+mtr bus k65a (tin shui wai station → lau fau shan):港鐵巴士k65a綫（天水圍站 → 流浮山）
+mtr bus k66 (long ping → tai tong):港鐵巴士k66綫（朗屏 → 大棠）
+mtr bus k66 (tai tong → long ping):港鐵巴士k66綫（大棠 → 朗屏）
+mtr bus k66:港鐵巴士k66綫
+mtr bus k68 (yuen long industrial estate ↺ yuen long park):港鐵巴士k68綫（元朗工業邨 ↺ 元朗公園）
+mtr bus k68:港鐵巴士k68綫
+mtr bus k73 (hkfyg lee shau kee college → long ping):港鐵巴士k73綫（香港青年協會李兆基書院 → 朗屏）
+mtr bus k73 (tin ching → yuen long (west) (omit long ping)):港鐵巴士k73綫（天晴 → 元朗（西）（不經朗屏））
+mtr bus k73 (tin heng → yuen long (west)):港鐵巴士k73綫（天恆 → 元朗（西））
+mtr bus k73 (tin yan → yuen long (west)):港鐵巴士k73綫（天恩 → 元朗（西））
+mtr bus k73 (yuen long (west) → tin heng):港鐵巴士k73綫（元朗（西） → 天恆）
+mtr bus k73:港鐵巴士k73綫
+mtr bus k74 (tin shui ↺ au tau):港鐵巴士k74綫（天瑞 ↺ 凹頭）
+mtr bus k74:港鐵巴士k74綫
+mtr bus k75:港鐵巴士k75綫
+mtr bus k75a (tin shui wai station ↺ hung shui kiu):港鐵巴士k75a綫（天水圍站 ↺ 洪水橋）
+mtr bus k75p (shek po road → hung shui kiu):港鐵巴士k75p綫（石埗路 → 洪水橋）
+mtr bus k75p (tin shui ↺ hung shui kiu):港鐵巴士k75p綫（天瑞 ↺ 洪水橋）
+mtr bus k75s (tin shui wai station ↺ hung fuk estate):港鐵巴士k75s綫（天水圍站 ↺ 洪福邨）
+mtr bus k76 (tin heng → tin shui wai station):港鐵巴士k76綫（天恆 → 天水圍站）
+mtr bus k76 (tin shui wai station → tin heng):港鐵巴士k76綫（天水圍站 → 天恆）
+mtr bus k76:港鐵巴士k76綫
+mtr bus route k65:港鐵巴士k65綫
 mtr bus:港鐵巴士
+mtr chai wan depot:港鐵柴灣車廠
 mtr cnr changchun emu:港鐵市區綫中國長春製列車
 mtr corporation:港鐵公司
 mtr crrc changchun emu:港鐵屯馬綫中國製列車
+mtr disneyland resort line (northbound):港鐵迪士尼綫 (上)
+mtr disneyland resort line (southbound):港鐵迪士尼綫 (下)
+mtr disneyland resort line:港鐵迪士尼綫
+mtr east rail line (lok ma chau spur line):港鐵東鐵綫（落馬洲支綫）
+mtr east rail line (lok ma chau spur line):港铁东铁线（落马洲支线）
+mtr east rail line (racecourse spur):港鐵東鐵綫馬場支綫
+mtr east rail line:港鐵東鐵綫
+mtr east rail line:港铁东铁线
+mtr east rail lines:港鐵東鐵
 mtr east:港鐵東
+mtr exhibition ctr stn west substation:港鐵會議展覽中心站西變電站
 mtr fare adjustment mechanism:可加可減機制
+mtr fare saver:港鐵特惠站
+mtr fare saver:港铁特惠站
+mtr feeder bus k12 (eightland gardens → tai po market station):港鐵接駁巴士k12綫（八號花園 → 大埔墟站）
+mtr feeder bus k12 (tai po market station → eightland gardens):港鐵接駁巴士k12綫（大埔墟站 → 八號花園）
+mtr feeder bus k12:港鐵接駁巴士k12綫
+mtr feeder bus k14 (tai po mega mall → tai po market station):港鐵接駁巴士k14綫（大埔超級城 → 大埔墟站）
+mtr feeder bus k14:港鐵接駁巴士k14綫
+mtr freight head office:港鐵貨運總辦事處
+mtr headquarters building:港鐵總部大樓
+mtr hku station ventilation and plant building:港鐵香港大學站通風及機房大樓
+mtr ho tung lau depot:港鐵何東樓灣車廠
+mtr ho tung lau depot:港鐵何東樓車廠
 mtr hong kong station:港鐵香港站
+mtr hong kong ventilation building:港鐵香港通風樓
+mtr hong kong ventilation building:港铁香港通风楼
+mtr hung hom building:港鐵紅磡大樓
+mtr hung shui kiu bus depot:港鐵洪水橋巴士廠
 mtr hyundai rotem emu:港鐵東鐵綫現代列車
 mtr in train tv:港鐵車廂電視
-mtr is:港鐵是
+mtr island line:港鐵港島綫
+mtr island line:港铁港岛线
+mtr kam tin building:港鐵錦田大樓
+mtr kowloon bay depot:港鐵九龍灣車廠
+mtr kowloon ventilation building:港鐵九龍通風大樓
+mtr kowloon ventilation building:港铁九龙通风大楼
 mtr ktt:九廣通
+mtr kwun tong line:港鐵觀塘綫
+mtr kwun tong line:港铁观塘线
+mtr northern link:港鐵北環綫
 mtr ocean park station:港鐵海洋公園站
 mtr ocean:港鐵海洋
-mtr or:港鐵或
 mtr quarry bay station:港鐵鰂魚涌站
+mtr quarry bay substation:港鐵鰂魚涌配電站
+mtr quarry bay substation:港铁鲗鱼涌配电站
+mtr requisition:港鐵屯門南延線用地
+mtr requisition:港铁屯门南延线用地
 mtr rotem emu:港鐵市區綫韓製列車
+mtr siu ho wan depot:港鐵小濠灣車廠
+mtr siu ho wan depot:港铁小濠湾车厂
+mtr siu hong station (north):港鐵兆康站（北）
+mtr siu hong station (north):港铁兆康站（北）
+mtr siu hong station (south):港鐵兆康站（南）
+mtr siu hong station (south):港铁兆康站（南）
+mtr south island line (west):港鐵南港島綫（西段）
+mtr south island line (west):港铁南港岛线（西段）
+mtr south island line:港鐵南港島綫
+mtr south island line:港铁南港岛线
 mtr station:港鐵站
+mtr tai kok tsui intake structure:港鐵大角咀海水泵房
+mtr tai po bus maintenance centre:港鐵大埔巴士維修中心
+mtr tai po kau staff club house:港鐵大埔滘員工會所
+mtr tai wai depot:港鐵大圍車廠
+mtr tin shui wai station:港鐵天水圍站
+mtr tseung kwan o depot:港鐵將軍澳車廠
+mtr tseung kwan o depot:港铁将军澳车厂
+mtr tseung kwan o line:港鐵將軍澳綫
+mtr tseung kwan o line:港铁将军澳线
+mtr tsuen wan depot:港鐵荃灣車廠
+mtr tsuen wan line (northbound):港鐵荃灣綫
+mtr tsuen wan line (northbound):港铁荃湾线
+mtr tsuen wan line (southbound):港鐵荃灣綫
+mtr tsuen wan line:港鐵荃灣綫
+mtr tsuen wan line:港铁荃湾线
+mtr tuen ma line phase 1:港鐵屯馬綫一期
+mtr tuen ma line:港鐵屯馬綫
+mtr tuen ma line:港铁屯马线
+mtr tuen mun building:港鐵屯門大樓
+mtr tuen mun building:港铁屯门大楼
+mtr tuen mun depot:港鐵屯門車廠
+mtr tuen mun depot:港铁屯门车厂
+mtr tuen mun station:港鐵屯門站
+mtr tung chung line:港鐵東涌綫
+mtr tung chung line:港铁东涌线
 mtr urban lines vision train:港鐵市區綫中國青島四方製列車
+mtr urban lines:港鐵市區綫
+mtr ventilation shaft:港鐵通風槽
+mtr ventilation shafts:港鐵通風井
+mtr whampoa station exit a:港鐵黃埔站a出口
+mtr whampoa station exit b:港鐵黃埔站b出口
+mtr wong chuk hang depot:港鐵黃竹坑車廠
+mtr xrl kwai chung ventilation building:葵涌高鐵通風樓
+mtr yuen long station:港鐵元朗站
 mtr yuen long:港鐵元朗
 mtr:港鐵
+mts'cheta-mtianeetien:姆茨赫塔-姆季阿涅季州
 mtsamboro:姆仓博罗
+mtsc'hetha-mthianethi:姆茨赫塔-姆季阿涅季州
+mtscheta-mtianeti:姆茨赫塔-姆季阿涅季州
 mtsensk:姆岑斯克
 mtsensky district:姆岑斯克區
+mtsheta-mtianeti:姆茨赫塔-姆季阿涅季州
+mtshetha-mthianethi:姆茨赫塔-姆季阿涅季州
 mtsho gla ma:cuò lǎngmǎ
 mtsho gla ma:错朗玛
-mtsho mgo la:Cōng gǔ lā
+mtsho mgo la:cōng gǔ lā
 mtsho mgo la:聪古拉
-mtsho samad:Cuòměi Xiàn
+mtsho samad:cuòměi xiàn
 mtsho samad:措美县
 mtsho samad:措美縣
-mtsho sna rdzong:Cuònà Shì
+mtsho sna rdzong:cuònà shì
 mtsho sna rdzong:錯那市
 mtsho sna rdzong:错那市
-mtsho sna:Cuònà Shì
+mtsho sna:cuònà shì
 mtsho sna:錯那市
 mtsho sna:错那市
+mtsinje wa mississippi:密西西比河
+mtsinje wa senegal:塞内加尔河
+mtsinje wa ubangi:烏班吉河
+mtsinje wa volga:伏尔加河
+mtsinje wa yangtze:cháng jiāng
+mtsinje wa yangtze:長江
+mtsinje wa yangtze:长江
+mtsjeta-mtianeti:姆茨赫塔-姆季阿涅季州
+mtsketha-mthianethi suyu:姆茨赫塔-姆季阿涅季州
+mtskheta municipality:姆茨赫塔市
 mtskheta municipality:姆茨赫塔市鎮
+mtskheta-mtianeti:姆茨赫塔-姆季阿涅季州
 mtskheta:姆茨赫塔
+mtskhetan piirikunta:姆茨赫塔市
+mtskhetis munitsip'alit'et'i:姆茨赫塔市
+mtsqueta-mtianécia:姆茨赫塔-姆季阿涅季州
+mtsxeta-mtianeti:姆茨赫塔-姆季阿涅季州
+mtsxêta-mtîanêtî:姆茨赫塔-姆季阿涅季州
 mtubatuba:姆圖巴圖巴
 mtv and barbie:音乐电视和芭比娃娃
-mtv and:音乐电视和
 mtv rap:音乐电视说唱
 mtv unplugged in new york:纽约不插电
 mtv:音乐电视
 mtv:音樂電視網
 mtwara airport:姆特瓦拉机场
+mtwara bölgesi:姆特瓦拉區
+mtwara bölgesi:姆特華拉區
+mtwara piirkond:姆特瓦拉區
+mtwara piirkond:姆特華拉區
 mtwara port:姆特瓦拉港
 mtwara region:姆特瓦拉區
+mtwara region:姆特華拉區
 mtwara:姆特瓦拉
+mtwara:姆特瓦拉區
+mtwara:姆特華拉區
+mtwaran alue:姆特瓦拉區
+mtwaran alue:姆特華拉區

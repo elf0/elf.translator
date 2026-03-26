@@ -1,43 +1,23 @@
-CTB Sheung Wan Servicing Site:城巴上环车场
-CTB Sheung Wan Servicing Site:城巴上環車場
-CTB Tung Chung Depot:城巴东涌车厂
-CTB Tung Chung Depot:城巴東涌車廠
-CTBC Administration Building:中國信託行政大樓
-CTBC Bank:中国信托商业银行
-CTBC Bank:中國信託商業銀行
-CTBC Bank:中國信託銀行
-CTBC Bussiness School:中信金融管理學院
-CTBC Financial Management College:中信金融管理學院
-CTBC Financial Park A:A棟
-CTBC Financial Park:中国信托金融园区
-CTBC Financial Park:中國信託金融園區
-CTBC Real Estate:中信房屋
-CTBC Technology Building:中國信託科技大樓
-CTBC University of Technology:中信科技大學
-CTF Finance Centre (Canton East Tower):周大福金融中心（广州东塔）
-CTF Finance Centre:广州周大福金融中心
-CTF Finance Centre:廣州周大福金融中心
-CTF Services Limited:周大福創建有限公司
-CTM:澳門電訊
-CTM:澳门电讯
-CTMA Centre:兆萬中心
-CTS Court:中旅閣
-CTS Guangfu Building:華視光復大樓
-CTS House:中旅集團大廈
-CTSP Houli Office:中科后里辦公室
-CTT, Correios de Macau Serviços de Certificação E Signtrust:郵電局, 澳門郵政電子認證服務
-CTTM (Chi-tu-tie-ma) Bicycle Shop:赤兔鐵馬單車館
-CTU Training Centre (Shek Lei Campus):职工盟培训中心(石篱校舍)
-CTU Training Centre (Shek Lei Campus):職工盟培訓中心(石籬校舍)
-CTi Television:中天電視
-Ctrip:携程
 ct scan:计算机体层成像
+ctb sheung wan servicing site:城巴上环车场
+ctb sheung wan servicing site:城巴上環車場
+ctb tung chung depot:城巴东涌车厂
+ctb tung chung depot:城巴東涌車廠
+ctbc administration building:中國信託行政大樓
+ctbc bank:中国信托商业银行
 ctbc bank:中國信託商業銀行
+ctbc bank:中國信託銀行
 ctbc brothers:中信兄弟
 ctbc business school:中信金融管理學院
+ctbc bussiness school:中信金融管理學院
 ctbc financial holding:中國信託金融控股
+ctbc financial management college:中信金融管理學院
+ctbc financial park a:a棟
+ctbc financial park:中国信托金融园区
 ctbc financial park:中國信託金融園區
 ctbc flying oyster:中信飛牡蠣
+ctbc real estate:中信房屋
+ctbc technology building:中國信託科技大樓
 ctbc university of technology:中信科技大學
 cteipolia:梳冬夜蛾属
 ctenacanthidae:栉棘鲨科
@@ -102,17 +82,33 @@ ctesias describe:克特西亚斯描述
 ctesias:克特西亚斯
 ctesibius:克特西比乌斯
 ctesiphon and predecessor:泰西封和前任
-ctesiphon and:泰西封和
 ctesiphon:泰西封
+ctf finance centre (canton east tower):周大福金融中心（广州东塔）
+ctf finance centre:广州周大福金融中心
+ctf finance centre:廣州周大福金融中心
+ctf services limited:周大福創建有限公司
 ctf services:周大福創建
 cthulhu mythos:克蘇魯神話
 cthulhu:克蘇魯
 cti entertainment:中天娛樂台
 cti international:中天電視海外頻道
 cti news:中天新聞台
+cti television:中天電視
 cti variety:中天綜合台
+ctm:澳門電訊
+ctm:澳门电讯
+ctma centre:兆萬中心
 ctrain:卡加利輕鐵
+ctrip:携程
+cts court:中旅閣
 cts education and culture:華視教育體育文化台
+cts guangfu building:華視光復大樓
+cts house:中旅集團大廈
 cts main channel:華視主頻
 cts news and info:華視新聞資訊台
+ctsp houli office:中科后里辦公室
+ctt, correios de macau serviços de certificação e signtrust:郵電局, 澳門郵政電子認證服務
+cttm (chi-tu-tie-ma) bicycle shop:赤兔鐵馬單車館
+ctu training centre (shek lei campus):职工盟培训中心(石篱校舍)
+ctu training centre (shek lei campus):職工盟培訓中心(石籬校舍)
 ctv classic:中視經典台

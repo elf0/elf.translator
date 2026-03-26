@@ -1,69 +1,43 @@
-IYalendi:Àiěrlán
-IYalendi:愛爾蘭
-IYalendi:愛爾蘭共和國
-IYalendi:爱尔兰
-IYalendi:爱尔兰 / 愛爾蘭
-IYemen:也門
-IYemen:也门
-IYemen:葉門
-IYemeni:Yěmén
-IYemeni:也門
-IYemeni:也门
-IYemeni:也门 / 葉門
-IYemeni:葉門
-IYerusalem:耶路撒冷
-IYosithiya:奥地利
-IYosithiya:奧地利
-IYuganda:乌干达
-IYuganda:烏干達
-IYukhureni:Wūkèlán
-IYukhureni:乌克兰
-IYukhureni:乌克兰/烏克蘭
-IYukhureni:烏克蘭
-IYunayithedi Steyitsi:Měiguó
-IYunayithedi Steyitsi:美国
-IYunayithedi Steyitsi:美國
-Iyang-myeon:梨阳面
-Iyang-myeon:梨陽面
-Iyashi no Sato:西湖療癒根場
-Iye de Barbuda:巴布达岛屿
-Iye de Barbuda:巴布達島嶼
-Iye del Reyunion:Liúníwāng
-Iye del Reyunion:留尼汪
-Iylanda:Bīngdǎo
-Iylanda:冰岛
-Iylanda:冰岛 / 冰島
-Iylanda:冰島
-Iymek:依买克村
-Iyo County:伊予郡
-Iyo Province:伊豫国
-Iyo Province:伊豫國
-Iyo no kuni:伊豫国
-Iyo no kuni:伊豫國
-Iyo-Gun:伊予郡
-Iyo-Miyanoshita Station:伊予宮野下站
-Iyo-Nagahama Station:伊予長濱站
-Iyo-Shi:伊予市
-Iyo-nada:伊予滩
-Iyo-shi:伊予市
-Iyo-Ōzu Station:伊予大洲站
-Iyo:伊予市
-Iyrcopolis:汉特-曼西斯克
-Iyrcopolis:漢特-曼西斯克
-iYandola:Āndàoěr
-iYandola:安道尔
-iYandola:安道尔 / 安道爾
-iYandola:安道爾
 iya station:揖屋站
 iya valley:祖谷溪
 iyaguchi station:祖谷口站
+iyalendi:Àiěrlán
+iyalendi:愛爾蘭
+iyalendi:愛爾蘭共和國
+iyalendi:爱尔兰
+iyalendi:爱尔兰 / 愛爾蘭
+iyandola:Āndàoěr
+iyandola:安道尔
+iyandola:安道尔 / 安道爾
+iyandola:安道爾
 iyang station:梨阳站
-iyar is:以珥月是
+iyang-myeon:梨阳面
+iyang-myeon:梨陽面
 iyar:以珥月
-iyi. Mbaey:溪流。 姆貝
-iyi. Mpaghara Carapeguá - Mpaghara Paraguarí:溪流。 卡拉佩瓜區 - 巴拉瓜里區
-iyi. Mpaghara Paraguarí - District nke Acahay:溪流。 巴拉瓜里區 - 阿卡海區
-iyi. Yuquyry:玉曲溪
+iyashi no sato:西湖療癒根場
+iye de barbuda:巴布达岛屿
+iye de barbuda:巴布達島嶼
+iye del reyunion:liúníwāng
+iye del reyunion:留尼汪
+iyemen:也門
+iyemen:也门
+iyemen:葉門
+iyemeni:yěmén
+iyemeni:也門
+iyemeni:也门
+iyemeni:也门 / 葉門
+iyemeni:葉門
+iyerusalem:耶路撒冷
+iyi. mbaey:溪流。 姆貝
+iyi. mpaghara carapeguá - mpaghara paraguarí:溪流。 卡拉佩瓜區 - 巴拉瓜里區
+iyi. mpaghara paraguarí - district nke acahay:溪流。 巴拉瓜里區 - 阿卡海區
+iyi. yuquyry:玉曲溪
+iylanda:bīngdǎo
+iylanda:冰岛
+iylanda:冰岛 / 冰島
+iylanda:冰島
+iymek:依买克村
+iyo county:伊予郡
 iyo doi station:伊予土居站
 iyo himi station:伊予冰見站
 iyo hirano station:伊予平野站
@@ -77,7 +51,11 @@ iyo miyanoshita station:伊予宮野下站
 iyo miyoshi station:伊予三芳站
 iyo nagahama station:伊予長濱站
 iyo nakayama station:伊予中山站
+iyo no kuni:伊豫国
+iyo no kuni:伊豫國
 iyo province:伊予國
+iyo province:伊豫国
+iyo province:伊豫國
 iyo sakurai station:伊予櫻井站
 iyo sangawa station:伊予寒川站
 iyo shirataki station:伊予白瀧站
@@ -87,10 +65,30 @@ iyo tomita station:伊予富田站
 iyo wake station:伊予和氣站
 iyo yokota station:伊予橫田站
 iyo yoshida station:伊予吉田站
+iyo-gun:伊予郡
+iyo-miyanoshita station:伊予宮野下站
+iyo-nada:伊予滩
+iyo-nagahama station:伊予長濱站
+iyo-shi:伊予市
+iyo-Ōzu station:伊予大洲站
 iyo:伊予
+iyo:伊予市
 iyokan:伊予柑
 iyoki station:伊與喜站
 iyonada monogatari:伊予灘物語號列車
 iyoshi station:伊予市站
+iyosithiya:奥地利
+iyosithiya:奧地利
 iyotetsu:伊予鐵道
+iyrcopolis:汉特-曼西斯克
+iyrcopolis:漢特-曼西斯克
+iyuganda:乌干达
+iyuganda:烏干達
+iyukhureni:wūkèlán
+iyukhureni:乌克兰
+iyukhureni:乌克兰/烏克蘭
+iyukhureni:烏克蘭
 iyuku:稚龍屬
+iyunayithedi steyitsi:měiguó
+iyunayithedi steyitsi:美国
+iyunayithedi steyitsi:美國

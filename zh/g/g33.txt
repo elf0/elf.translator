@@ -1,12 +1,10 @@
-G3 Jingtai ExpressWay:京台高速
-G3 Jingtai ExpressWay:京臺高速
-G3 Jingtai Expressway:京台高速
-G3 Jingtai Expressway:京臺高速
-G30 Lianyungang–Khorgas Expressway:連霍高速
-G3011 Liuge Expressway:柳格高速
-G3014 Kuia Expressway:奎阿高速
-G3015 Kuita Expressway:奎塔高速
-G334/Xicheng/Bajiazi:G334/西城/八家子
-G334/서성/팔가자:G334/西城/八家子
-G335 Hwy:335国道
-G335-تاشيولى:335国道
+g3 jingtai expressway:京台高速
+g3 jingtai expressway:京臺高速
+g30 lianyungang–khorgas expressway:連霍高速
+g3011 liuge expressway:柳格高速
+g3014 kuia expressway:奎阿高速
+g3015 kuita expressway:奎塔高速
+g334/xicheng/bajiazi:g334/西城/八家子
+g334/서성/팔가자:g334/西城/八家子
+g335 hwy:335国道
+g335-تاشيولى:335国道

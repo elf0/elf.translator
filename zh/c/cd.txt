@@ -1,9 +1,6 @@
-CD Bakery & Deli:友誼餅家小館
-CDK700 Dome of UCAS:中国科学院大学70cm望远镜圆顶
-CDK700 Dome of UCAS:中國科學院大學70cm望遠鏡圓頂
-CDW Building:中染大廈
 cd alcoyano:阿尔科亚诺体育俱乐部
 cd badajoz:巴达霍斯体育俱乐部
+cd bakery & deli:友誼餅家小館
 cd boiro:博伊羅體育會
 cd guijuelo:吉胡埃洛体育俱乐部
 cd lugo:卢戈体育俱乐部
@@ -22,4 +19,7 @@ cddb:光碟資料庫
 cdg express:戴高乐机场快线
 cdgval:戴高樂機場內線
 cdh investments:鼎晖投资
+cdk700 dome of ucas:中国科学院大学70cm望远镜圆顶
+cdk700 dome of ucas:中國科學院大學70cm望遠鏡圓頂
 cdw building:中國染廠大廈
+cdw building:中染大廈

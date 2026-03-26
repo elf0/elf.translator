@@ -1,14 +1,14 @@
-C1 Public toilet at Ka-Ho Height Barbecue Park:C1 路環九澳高頂燒烤公園公廁
-C1 Sanitário Público do Parque de Merendas do Altinho de Ká-Hó:C1 路環九澳高頂燒烤公園公廁
-C10 Public toilet at Hac Sa Beach:C10 路環黑沙海灘公廁
-C10 Sanitário Público da Praia de Hác-Sá:C10 路環黑沙海灘公廁
-C11 Public toilet at Rua de Hac Sá Long Chao Kok in Coloane:C11 路環黑沙龍爪角公廁
-C11 Sanitário público da Rua de Hac Sá Long Chao Kok:C11 路環黑沙龍爪角公廁
-C12 Public toilet at the barbecue area of Hac Sa Beach in Coloane:C12 路環黑沙海灘燒烤區公廁
-C12 Sanitário público da Zona de Churrasco da Praia de Hac Sá:C12 路環黑沙海灘燒烤區公廁
-C15 Public Toilet in Seac Pai Van Community Complex, Coloane:C15 路環石排灣社區綜合大樓公廁
-C15 Sanitários públicos do Complexo Comunitário de Seac Pai Van:C15 路環石排灣社區綜合大樓公廁
-C16 Public toilet in Seac Pai Van Urban Park in Coloane (north):C16 路環石排灣市區公園公廁(北)
-C16 Sanitários públicos do Parque Urbano Seac Pai Van de Coloane (norte):C16 路環石排灣市區公園公廁(北)
-C17 Public toilet in Seac Pai Van Urban Park in Coloane (south):C17 路環石排灣市區公園公廁(南)
-C17 Sanitários públicos do Parque Urbano Seac Pai Van de Coloane (sul):C17 路環石排灣市區公園公廁(南)
+c1 public toilet at ka-ho height barbecue park:c1 路環九澳高頂燒烤公園公廁
+c1 sanitário público do parque de merendas do altinho de ká-hó:c1 路環九澳高頂燒烤公園公廁
+c10 public toilet at hac sa beach:c10 路環黑沙海灘公廁
+c10 sanitário público da praia de hác-sá:c10 路環黑沙海灘公廁
+c11 public toilet at rua de hac sá long chao kok in coloane:c11 路環黑沙龍爪角公廁
+c11 sanitário público da rua de hac sá long chao kok:c11 路環黑沙龍爪角公廁
+c12 public toilet at the barbecue area of hac sa beach in coloane:c12 路環黑沙海灘燒烤區公廁
+c12 sanitário público da zona de churrasco da praia de hac sá:c12 路環黑沙海灘燒烤區公廁
+c15 public toilet in seac pai van community complex, coloane:c15 路環石排灣社區綜合大樓公廁
+c15 sanitários públicos do complexo comunitário de seac pai van:c15 路環石排灣社區綜合大樓公廁
+c16 public toilet in seac pai van urban park in coloane (north):c16 路環石排灣市區公園公廁(北)
+c16 sanitários públicos do parque urbano seac pai van de coloane (norte):c16 路環石排灣市區公園公廁(北)
+c17 public toilet in seac pai van urban park in coloane (south):c17 路環石排灣市區公園公廁(南)
+c17 sanitários públicos do parque urbano seac pai van de coloane (sul):c17 路環石排灣市區公園公廁(南)

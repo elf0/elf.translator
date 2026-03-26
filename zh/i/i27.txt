@@ -1,5 +1,4 @@
-I'ares'ky:亞列什基
-I'timād-ud-Daulah's Tomb:小泰姬陵
+i'ares'ky:亞列什基
 i'll accept your help:我将接受你的帮助
 i'll accept your invitation:我将接受你的邀请
 i'll accept your statement:我会接受你的声明
@@ -30,13 +29,12 @@ i'll appeal:我会上诉
 i'll apply:我会应用
 i'll arrest:我将逮捕
 i'll ask florence:我会问佛罗伦萨
-i'll ask her:我会问她的
 i'll ask him when i:我会问他当我
 i'll ask my father:我会问我的父亲
 i'll ask my son:我会问我的儿子
 i'll ask my:我将问我的
-i'll ask you a:我会问你一个
 i'll ask you why:我会问你为什么
+i'll ask you:我会问你
 i'll ask:我会问
 i'll ask:我将问
 i'll assume:我将假定
@@ -86,7 +84,6 @@ i'll call him:我会打电话给他
 i'll call it:我会打电话给它
 i'll call you about:我会打电话给你关于
 i'll call you after:我会打电话给你后
-i'll call you if:我会打电话给你如果
 i'll call you when i:我会打电话给你当我
 i'll call you when we:我会打电话给你当我们
 i'll call you:我会打电话给你
@@ -101,7 +98,6 @@ i'll challenge it:我会挑战它
 i'll challenge this:我会挑战这
 i'll challenge:我会挑战
 i'll challenge:我将挑战
-i'll change her:我会改变她的
 i'll change it:我会改变它
 i'll change them:我会改变他们
 i'll change you:我会改变你
@@ -164,7 +160,7 @@ i'll die without you:我会死没有你
 i'll die:我会死
 i'll die:我将死
 i'll discover:我会发现
-i'll discuss current and:我将讨论当前和
+i'll discuss current:我将讨论当前
 i'll discuss how to:我将讨论如何
 i'll discuss:我会讨论
 i'll discuss:我将讨论
@@ -177,14 +173,14 @@ i'll do many things:我会做很多东西
 i'll do more:我将做更多
 i'll do some investigation:我会做一些调查
 i'll do some:我会做一些
-i'll do you a:我会做你一个
+i'll do you:我会做你
 i'll do your best:我会尽力
 i'll do your hair:我会做你的头发
 i'll do:我会做
 i'll do:我将做
 i'll dream:我会梦
 i'll drink:我会喝
-i'll drive it or:我会驾驶它或
+i'll drive it:我会驾驶它
 i'll drive:我会驾驶
 i'll eat:我会吃
 i'll eat:我将吃
@@ -196,7 +192,7 @@ i'll expect:我会期待
 i'll expect:我将期待
 i'll explain another time:我将解释另一个时间
 i'll explain average:我将解释平均
-i'll explain how to install and:我将解释如何安装和
+i'll explain how to install:我将解释如何安装
 i'll explain how to use data structure:我将解释如何使用数据结构
 i'll explain it:我将解释它
 i'll explain myself:我将解释我自己
@@ -236,7 +232,6 @@ i'll free:我将释放
 i'll frighten you:我会吓唬你
 i'll frighten:我会吓唬
 i'll get a cloth:我会得到一个布
-i'll get a:我会得到一个
 i'll get another:我会得到另一个
 i'll get another:我将得到另一个
 i'll get him:我将得到他
@@ -252,21 +247,14 @@ i'll get some:我会得到一些
 i'll get those:我会得到那些
 i'll get:我会得到
 i'll get:我将得到
-i'll give him a:我会给他一
-i'll give him a:我会给他一个
 i'll give him that:我会给他那
-i'll give it a:我会给它一个
-i'll give them a:我会给他们一个
-i'll give them an:我会给他们一个
+i'll give him:我会给他
+i'll give it:我会给它
 i'll give them my:我会给他们我的
+i'll give them:我会给他们
 i'll give up:我会放弃
-i'll give you a:我会给你一
-i'll give you a:我会给你一个
-i'll give you a:我将给你一个
 i'll give you all:我会给你所有
 i'll give you an example:我会给你一个例子
-i'll give you an:我会给你一个
-i'll give you an:我将给你一个
 i'll give you everything:我会给你一切
 i'll give you gold:我会给你金子
 i'll give you money:我会给你钱
@@ -283,6 +271,7 @@ i'll give you the:我会给你这
 i'll give you this:我会给你这
 i'll give you three:我会给你三
 i'll give you:我会给你
+i'll give you:我将给你
 i'll give:我会给
 i'll give:我将给
 i'll go there:我会去那里
@@ -292,23 +281,21 @@ i'll grow up:我会长大
 i'll handle:我会处理
 i'll handle:我将处理
 i'll hate:我会恨
-i'll have a:我将有一个
 i'll have an orange juice:我会有一个橙汁
 i'll have enough time:我将有足够的时间
 i'll have some wine:我将有一些酒
 i'll have some:我会有一些
-i'll have:我会有
 i'll have:我将有
 i'll he:我将他
 i'll hear:我会听
 i'll hear:我将听
 i'll help clean:我会帮助清理
 i'll help him start:我会帮助他开始
-i'll help if i can:我将帮助如果我能
+i'll help if i:我将帮助如果我
 i'll help if you want:我将帮助如果你想
 i'll help myself:我会帮助我自己
 i'll help them:我会帮助他们
-i'll help you in any way i can:我将帮助你以任何方式我可以
+i'll help you in any way i:我将帮助你以任何方式我
 i'll help you:我会帮助你
 i'll help you:我会帮助你们
 i'll help you:我将帮助你
@@ -329,10 +316,10 @@ i'll introduce some:我将介绍一些
 i'll introduce you:我将介绍你
 i'll introduce:我会介绍
 i'll introduce:我将介绍
-i'll invent a:我会发明一个
+i'll invent:我会发明
 i'll invest:我会投资
 i'll investigate:我会调查
-i'll invite them to:我会邀请他们到
+i'll invite them:我会邀请他们
 i'll invite:我会邀请
 i'll invite:我将邀请
 i'll jump:我会跳
@@ -382,22 +369,20 @@ i'll let you back to your:我会让你回到你的
 i'll let you choose:我会让你选择
 i'll let you go:我会让你去
 i'll let you guess:我会让你猜
-i'll let you guys and:我会让你们和
-i'll let you know a:我会让你知道一
+i'll let you guys:我会让你们
 i'll let you know about:我会让你知道关于
 i'll let you know if i:我会让你知道如果我
 i'll let you know if they:我会让你知道如果他们
 i'll let you know if we:我会让你知道如果我们
-i'll let you know if:我会让你知道如果
-i'll let you know if:我将让你知道如果
 i'll let you know when i:我会让你知道当我
 i'll let you know when i:我将让你知道当我
 i'll let you know when she:我会让你知道当她
 i'll let you know when they:我会让你知道当他们
 i'll let you know when you:我将让你知道当你
 i'll let you know:我会让你知道
+i'll let you know:我将让你知道
 i'll let you read:我会让你读
-i'll let you return to:我会让你回到
+i'll let you return:我会让你回
 i'll let you start:我会让你开始
 i'll let you study:我会让你学习
 i'll let you:我会让你
@@ -448,7 +433,6 @@ i'll never go:我永远不会去
 i'll never hate:我永远不会恨
 i'll never have any:我永远不会有任何
 i'll never have enough money:我永远不会有足够的钱
-i'll never have:我永远不会有
 i'll never hear:我永远不会听
 i'll never hurt:我永远不会伤害
 i'll never know:我永远不会知道
@@ -555,7 +539,7 @@ i'll respect:我会尊重
 i'll retire:我会退休
 i'll retire:我将退休
 i'll return to teach:我会回到教
-i'll return to:我会回到
+i'll return:我会回
 i'll return:我会返回
 i'll return:我将返回
 i'll run:我会跑
@@ -570,7 +554,7 @@ i'll say i:我会说我
 i'll say if i:我会说如果我
 i'll say more:我会说更多
 i'll say our budget:我会说我们的预算
-i'll say taiwan is:我会说台湾是
+i'll say taiwan:我会说台湾
 i'll say:我会说
 i'll search:我会搜索
 i'll see myself out:不用送了
@@ -641,7 +625,6 @@ i'll teach:我将教
 i'll telephone:我将电话
 i'll tell any:我会告诉任何
 i'll tell daddy:我会告诉爸爸
-i'll tell her:我会告诉她的
 i'll tell him everything:我会告诉他一切
 i'll tell him that:我会告诉他那
 i'll tell him you:我会告诉他你
@@ -655,11 +638,9 @@ i'll tell them all:我会告诉他们所有
 i'll tell them you:我会告诉他们你
 i'll tell them:我会告诉他们
 i'll tell you a secret:我会告诉你一个秘密
-i'll tell you a:我会告诉你一个
 i'll tell you about:我会告诉你关于
 i'll tell you about:我将告诉你关于
 i'll tell you all:我会告诉你所有
-i'll tell you at:我会告诉你在
 i'll tell you everything:我会告诉你一切
 i'll tell you how:我会告诉你如何
 i'll tell you how:我将告诉你如何
@@ -710,7 +691,7 @@ i'll use:我将使用
 i'll vomit:我会呕吐
 i'll vote:我会投票
 i'll vote:我将投票
-i'll wait if i have:我将等待如果我有
+i'll wait if i:我将等待如果我
 i'll wait:我会等
 i'll wait:我会等待
 i'll wait:我将等
@@ -723,11 +704,9 @@ i'll wish:我会希望
 i'll work a few years:我会工作几年
 i'll work:我会工作
 i'll worry:我会担心
-i'll write a book or:我会写一本书或
 i'll write a book:我会写一本书
-i'll write a:我会写一
 i'll write from moscow:我会写从莫斯科
-i'll write music and:我会写音乐与
+i'll write music:我会写音乐
 i'll write twenty:我会写二十
 i'll write:我会写
 i'll write:我将写
@@ -808,9 +787,6 @@ i'm looking for a little girl:我在找一个小女孩
 i'm looking for a new place:我在找一个新的地方
 i'm looking for a new:我在找一个新的
 i'm looking for a woman:我在找一个女人
-i'm looking for a:我在找一
-i'm looking for a:我在找一个
-i'm looking for an:我在找一个
 i'm looking for any:我在找任何
 i'm looking for april:我在找四月
 i'm looking for dad:我在找爸爸
@@ -819,7 +795,7 @@ i'm looking for friends:我在找朋友
 i'm looking for him:我在找他
 i'm looking for money:我在找钱
 i'm looking for my cat:我在找我的猫
-i'm looking for my dog or:我在找我的狗或
+i'm looking for my dog:我在找我的狗
 i'm looking for my gun:我在找我的枪
 i'm looking for my key:我在找我的钥匙
 i'm looking for my name:我在找我的名字
@@ -837,14 +813,12 @@ i'm looking for your wings:我在找你的翅膀
 i'm looking for your:我在找你的
 i'm looking for:我在找
 i'm not a robot:不是機器人啊
-i'm not sure a:我不确定一个
 i'm not sure about:我不确定关于
 i'm not sure everyone will:我不确定每个人都会
 i'm not sure he:我不确定他
 i'm not sure how to deal:我不确定如何处理
 i'm not sure how to:我不确定如何
 i'm not sure i agree with:我不确定我同意
-i'm not sure i can:我不确定我可以
 i'm not sure i could:我不确定我可以
 i'm not sure i hear:我不确定我听
 i'm not sure i know:我不确定我知道
@@ -860,7 +834,6 @@ i'm not sure i'll:我不确定我会
 i'm not sure i'll:我不确定我将
 i'm not sure i:我不确定我
 i'm not sure if i:我不确定如果我
-i'm not sure if:我不确定如果
 i'm not sure investors:我不确定投资者
 i'm not sure israel:我不确定以色列
 i'm not sure it:我不确定它
@@ -868,11 +841,9 @@ i'm not sure maduro:我不确定马杜罗
 i'm not sure manhattan:我不确定曼哈顿
 i'm not sure max:我不确定麦克斯
 i'm not sure motorola:我不确定摩托罗拉
-i'm not sure my body is:我不确定我的身体是
+i'm not sure my body:我不确定我的身体
 i'm not sure my:我不确定我的
-i'm not sure of:我不确定的
 i'm not sure people:我不确定人们
-i'm not sure science and:我不确定科学和
 i'm not sure science:我不确定科学
 i'm not sure she even hear:我不确定她甚至听
 i'm not sure she even notice:我不确定她甚至注意
@@ -882,17 +853,14 @@ i'm not sure that:我不确定那
 i'm not sure the:我不确定这
 i'm not sure these discussions:我不确定这些讨论
 i'm not sure these:我不确定这些
-i'm not sure they even have:我不确定他们甚至有
+i'm not sure they even:我不确定他们甚至
 i'm not sure they will say:我不确定他们会说
 i'm not sure they will:我不确定他们会
 i'm not sure they:我不确定他们
-i'm not sure this is:我不确定这是
 i'm not sure this will:我不确定这会
 i'm not sure this:我不确定这
 i'm not sure those:我不确定那些
 i'm not sure we can recognize those:我不确定我们可以识别那些
-i'm not sure we can:我不确定我们可以
-i'm not sure we have:我不确定我们有
 i'm not sure we'll:我不确定我们会
 i'm not sure we:我不确定我们
 i'm not sure what happened:我不确定发生了什么
@@ -906,10 +874,7 @@ i'm not sure which one:我不确定哪一个
 i'm not sure who is best:我不确定谁是最好
 i'm not sure who:我不确定谁
 i'm not sure why:我不确定为什么
-i'm not sure you are:我不确定你是
 i'm not sure you can do anything:我不确定你可以做任何事
-i'm not sure you can:我不确定你可以
-i'm not sure you should:我不确定你应该
 i'm not sure you'll:我不确定你会
 i'm not sure you:我不确定你
 i'm not sure your:我不确定你的
@@ -925,6 +890,7 @@ i'm ready to talk:我准备好谈了
 i'm really excited about the opening of the tuen ma line:屯馬開通真的很興奮
 i'm standing on a million lives:我立於百萬生命之上
 i'm watching you:我盯着你的
+i'timād-ud-daulah's tomb:小泰姬陵
 i've been fishing:我一直在偷懒
 i've been fishing:我一直在摸鱼
 i've been fishing:我一直在钓鱼
