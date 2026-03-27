@@ -5099,7 +5099,6 @@ quanzhi science & technology park:全至科技园
 quanzhikejichuangxin park:全至科技创新园
 quanzhong driving school:全忠驾校
 quanzhong road:泉中路
-quanzhou:emporium mondial de la chine des song et des yuan:泉州：宋元中国的世界海洋商贸中心
 quanzhou city art gallery:泉州市藝術館
 quanzhou county:quánzhōu xiàn
 quanzhou county:全州县
@@ -5131,6 +5130,7 @@ quanzhou-naning expressway:泉南高速
 quanzhou-nanning expressway:泉南高速
 quanzhou-nanning expressway:衡枣高速
 quanzhou-nanning expwy:泉南高速
+quanzhou:emporium mondial de la chine des song et des yuan:泉州：宋元中国的世界海洋商贸中心
 quanzhou:emporium of the world in song-yuan china:泉州：宋元中国的世界海洋商贸中心
 quanzhou:markt- und handelsplatz der song-yuan-dynastie:泉州：宋元中国的世界海洋商贸中心
 quanzhou:quánzhōu
@@ -5733,10 +5733,6 @@ quartic equation:四次方程
 quartic function:四次函數
 quartic plane curve:四次平面曲线
 quartier 7:第七区
-quartier:estancia abelenda:區域:埃斯坦西亞阿貝倫達
-quartier:estancia abelenda:街区:estancia abelenda
-quartier:potrero jara:社区:波特雷罗·哈拉
-quartier:potrero jara:社區:波特雷羅哈拉
 quartier acahay - quartier caballero:acahay 區 - caballero 區
 quartier asiatique:巴黎唐人街
 quartier cerro roke - quartier cerro corá:社區 cerro roke - 社區 cerro corá
@@ -5801,6 +5797,10 @@ quartier unha:运河洞
 quartier unha:運河洞
 quartier yvyraity - quartier costa irala:yvyraity 社區 - costa irala 社區
 quartier yvyraity:yvyraity 社區
+quartier:estancia abelenda:區域:埃斯坦西亞阿貝倫達
+quartier:estancia abelenda:街区:estancia abelenda
+quartier:potrero jara:社区:波特雷罗·哈拉
+quartier:potrero jara:社區:波特雷羅哈拉
 quartiere cristiano:基督徒区
 quartiere di adriano - quartiere di planta urbana:鄰里 adriano irala - 鄰里 planta urbana
 quartiere di adriano irala - quartiere di cerro verde:鄰里 adriano irala - 鄰里 cerro verde

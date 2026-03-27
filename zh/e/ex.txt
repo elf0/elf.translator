@@ -5388,7 +5388,6 @@ exit a1 of zhongguancun station:中关村站a1口
 exit a1:a1出口
 exit a2 to hong‘anwei metro station:鸿安围地铁站a2口
 exit a2:a2出口
-exit a:a出口
 exit a:a入口
 exit a:a出口
 exit a:菊树站 a出入口
@@ -5421,7 +5420,6 @@ exit b1:b1出口
 exit b2, xiangmei north station:香梅北 b2出口
 exit b2:b2出口
 exit b3, xiangmei north station:香梅北 b3出口
-exit b:b出口
 exit b:b入口
 exit b:b出口
 exit b:菊树站 b出入口
@@ -5440,7 +5438,6 @@ exit c1:c1出口
 exit c2:c2 出口
 exit c2:c2出口
 exit c:b出口
-exit c:c出口
 exit c:c出口
 exit c:菊树站 c出入口
 exit canada:退出加拿大
@@ -5474,7 +5471,6 @@ exit d2:d2 出口
 exit d2:d2出口
 exit d3, shenzhen technology university station:技术大学站 d3出口
 exit d:d出口
-exit d:d出口
 exit d:菊树站 d出入口
 exit date:退出日期
 exit day:退出日
@@ -5488,7 +5484,6 @@ exit e1:e1出口
 exit e2 of higher education mega center north station:大学城北站e2口
 exit e2:e2出口
 exit e:e出口
-exit e:e出口
 exit elf:退出精灵
 exit end:退出结束
 exit environment:退出环境
@@ -5501,7 +5496,6 @@ exit events:退出事件
 exit exam:退出考试
 exit experienced:退出经验丰富的
 exit f:f出口
-exit f:f出口
 exit fee:退出费用
 exit feel:退出感觉
 exit films:退出电影
@@ -5513,11 +5507,9 @@ exit from:退出从
 exit function return:退出函数返回
 exit function:退出函数
 exit g:g出口
-exit g:g出口
 exit game:退出游戏
 exit games:退出游戏
 exit golf:退出高爾夫球
-exit h:h出口
 exit h:h出口
 exit here:退出这里
 exit human rights council:退出人权理事会
@@ -18179,6 +18171,7 @@ express partner:快递合作伙伴
 express price:快递价格
 express process:快递处理
 express rail link:吉隆坡机场快铁
+express rapi:t:rapi:t号快列
 express rapi:tα (aeropuerto de kansai => namba):rapi:tα号快列 (關西空港 => 難波)
 express rapi:tα (kansai airport => namba):rapi:tα号快列 (關西空港 => 難波)
 express rapi:tα (namba => aeropuerto de kansai):rapi:tα号快列 (難波 => 關西空港)
@@ -18187,7 +18180,6 @@ express rapi:tβ (aeropuerto de kansai => namba):rapi:tβ号快列 (關西空港
 express rapi:tβ (kansai airport => namba):rapi:tβ号快列 (關西空港 => 難波)
 express rapi:tβ (namba => aeropuerto de kansai):rapi:tβ号快列 (難波 => 關西空港)
 express rapi:tβ (namba => kansai airport):rapi:tβ号快列 (難波 => 關西空港)
-express rapi:t:rapi:t号快列
 express script:快递脚本
 express scripts:快捷藥方
 express security:快递安全

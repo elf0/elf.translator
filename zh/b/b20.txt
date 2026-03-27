@@ -1,4 +1,3 @@
-b set pharmacy:富宥康
 b access line of yanzhou cross-sea bridge:盐州跨海大桥b连接线
 b area (east wing):b区（东翼）
 b area:b区
@@ -13,5 +12,6 @@ b outlet:華欣書店
 b persei:天船增十
 b ramp of nanping interchange:南坪立交b匝道
 b robo kabutack:铁甲小宝
+b set pharmacy:富宥康
 b wing:b栋
 b wing:b棟

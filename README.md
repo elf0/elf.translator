@@ -1,3 +1,3 @@
 # elf.translator
 A natural language translator.
-Items: 69,203,955
+Items: 68,907,959

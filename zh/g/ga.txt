@@ -14584,8 +14584,8 @@ gate b:b门
 gate before:大门之前
 gate began:大门开始
 gate by:大门被
-gate c:c门
 gate c:c閘
+gate c:c门
 gate command:大门命令
 gate control theory:門控理論
 gate d:d门
