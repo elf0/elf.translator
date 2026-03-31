@@ -3184,7 +3184,20 @@ real apple:真的苹果
 real art:真的艺术
 real astronaut:真的宇航员
 real attitude:真的态度
+real audiencia of buenos aires:布宜諾斯艾利斯皇家審問院
+real audiencia of concepción:康塞普西翁皇家審問院
+real audiencia of cusco:庫斯科皇家審問院
+real audiencia of guadalajara:瓜達拉哈拉皇家審問院
+real audiencia of guatemala:瓜地馬拉皇家審問院
+real audiencia of lima:利馬皇家審問院
+real audiencia of manila:馬尼拉皇家審問院
+real audiencia of mexico:墨西哥皇家審問院
+real audiencia of panama:巴拿馬皇家審問院
+real audiencia of panamá:巴拿馬皇家審問院
 real audiencia of quito:基多审问院
+real audiencia of quito:基多皇家審問院
+real audiencia of santiago:聖地牙哥皇家審問院
+real audiencia of santo domingo:聖多明哥皇家審問院
 real audiencia:皇家審問院
 real authority:真的权威
 real baby:真的婴儿
@@ -6655,6 +6668,7 @@ reality now:现实现在
 reality of god:現實的上帝
 reality of human nature:現實的人性
 reality of life:現實的生活
+reality of politics:政治現實
 reality office:现实办公室
 reality often define:现实常常定义
 reality often:现实常常
@@ -14273,6 +14287,7 @@ reconstruction model:重建模型
 reconstruction network:重建网络
 reconstruction of ancient greece:重建的古希腊
 reconstruction of ancient:重建的古
+reconstruction of germany:德国重建
 reconstruction of moscow:重建的莫斯科
 reconstruction of public facilities:重建的公共设施
 reconstruction of track:重建的痕迹
@@ -23436,7 +23451,9 @@ reform notary:改革公证
 reform now:改革现在
 reform of arbitrage opportunities:改革的套利机会
 reform of course:改革当然
+reform of judaism:犹太教改革
 reform of politics:改革的政治
+reform of russian orthography:俄语正写法改革
 reform of the united nations security council:联合国安全理事会改革
 reform of the united nations:联合国改革
 reform offer:改革提供
@@ -23469,8 +23486,11 @@ reform part:改革部分
 reform partnership:改革伙伴关系
 reform party candidate:改革党候选人
 reform party chairman:改革党主席
+reform party of canada:加拿大改革党
 reform party of canada:加拿大改革黨
+reform party of estonia:爱沙尼亚改革党
 reform party of the united states of america:美国改革党
+reform party of the united states:美国改革党
 reform party win:改革党赢得
 reform party:改革党
 reform path:改革路径
@@ -23672,6 +23692,7 @@ reformatsky reaction:列福尔马茨基反应
 reformatų bažnyčia:归正教会
 reformed christianity:加爾文主義
 reformed church in america:美国归正会
+reformed church of america:美国归正教会
 reformed church:归正教会
 reformed egyptian:改良埃及文
 reformed government of the republic of china:中華民國維新政府
@@ -23816,7 +23837,9 @@ reforms menu:改革菜单
 reforms must continue:改革必须继续
 reforms need time:改革需要时间
 reforms need:改革需要
+reforms of alexander ii:亚历山大二世改革
 reforms of french orthography:法语正写法改革
+reforms of peter the great:彼得大帝改革
 reforms of russian orthography:俄语正写法改革
 reforms of the hongwu emperor:洪武之治
 reforms offer:改革提供
@@ -24860,6 +24883,9 @@ regent hill:壹鑾
 regent honeyeater:王吸蜜鳥
 regent hong kong:香港麗晶酒店
 regent kindergarten:丽城幼儿园
+regent of japan:日本攝政
+regent of norway:挪威攝政
+regent of thailand:泰國攝政
 regent on the hill:帝峯豪苑
 regent on the park:御花園
 regent palisades:帝柏园
@@ -25854,25 +25880,68 @@ region of a state:地区的一个州
 region of asturias:地区的阿斯图里亚斯
 region of banská bystrica:班斯卡-比斯特里察州
 region of bratislava:布拉迪斯拉发州
+region of brittany:布列塔尼地区
+region of bromberg:比得哥什地区
+region of bulgaria:保加利亚军区
+region of california:加利福尼亚地区
+region of california:加利福尼亚州区域
+region of central macedonia:中马其顿地区
+region of china:中国地区
 region of constantinople:地区的君士坦丁堡
 region of crete:克里特大区
 region of crete:克里特管理区
+region of england:英格兰地区
+region of finland:芬兰军区
+region of guinea:几内亚地区
+region of iceland:冰岛地区
+region of india:印度地区
+region of iran:伊朗地区
+region of kashmir:克什米尔地区
 region of košice:科希策州
+region of león:里昂地区
+region of lithuania:立陶宛地区
+region of macedonia:马其顿军区
+region of macedonia:马其顿地区
 region of mali:地区的马里
 region of murcia:穆尔西亚地区
 region of nitra:尼特拉州
+region of normandy:诺曼底地区
+region of palestine:巴勒斯坦地区
 region of peace:地区的和平
 region of plymouth:地区的普利茅斯
 region of prešov:普雷绍夫州
+region of russia:俄罗斯军区
 region of russia:地区的俄罗斯
+region of scotland:苏格兰地区
 region of siberia:地区的西伯利亚
+region of sicily:西西里军区
+region of sicily:西西里地区
 region of sky:地区的天空
+region of slovenia:斯洛文尼亚地区
 region of southern denmark:南丹麦大区
+region of sudan:苏丹地区
+region of sweden:瑞典地区
+region of switzerland:瑞士地区
+region of sydney:悉尼地区
+region of syria:叙利亚地区
 region of syria:地区的叙利亚
+region of thailand:泰国地区
+region of the philippines:菲律宾地区
 region of the soviet union:地区的苏联
+region of the united states:美国地区
 region of trenčín:特伦钦州
 region of trnava:特尔纳瓦州
+region of ukraine:乌克兰军区
+region of ukraine:乌克兰地区
+region of ukraine:烏克蘭地区
+region of valencia:巴伦西亚地区
+region of valencia:瓦伦西亚地区
+region of vysočina:高地区域
+region of vysočina:高地地区
 region of waterloo international airport:滑鐵盧區國際機場
+region of waterloo:滑铁卢地区
+region of west prussia:西普鲁士地区
+region of york:约克地区
 region of Žilina:日利纳州
 region offer:区域提供
 region offer:地区提供
@@ -26375,6 +26444,7 @@ regional government funding:地区政府资金
 regional government hopes:地区政府希望
 regional government intend:地区政府打算
 regional government of andalusia:安达卢西亚政府
+regional government of lima:利马地区政府
 regional government officials:地区政府官员
 regional government plans:地区政府计划
 regional government relation:地区政府关系
@@ -26454,6 +26524,7 @@ regional railroad:区域的铁路
 regional rainfall pattern:区域的降雨模式
 regional rainfall:区域的降雨
 regional ranking:区域的排名
+regional representative council of indonesia:印尼地方代表理事会
 regional representative council:地方代表理事会
 regional research and development:区域的研究和开发
 regional research:区域的研究
@@ -26989,44 +27060,86 @@ regions need:地区需要
 regions network:地区网络
 regions networks:地区网络
 regions of africa:地区的非洲
+regions of africa:非洲地区
 regions of ancient greece:古希腊地区
+regions of asia:亚洲地区
 regions of asturias:地区的阿斯图里亚斯
+regions of bosnia and herzegovina:波黑地区
 regions of brazil:巴西地理分区
 regions of burkina faso:布基納法索大區
+regions of california:加利福尼亚地区
 regions of chad:乍得行政区划
+regions of china:中国地区
+regions of colombia:哥伦比亚地区
 regions of denmark:丹麦大区
+regions of england:英格兰地区
 regions of eritrea:厄立特里亚行政区划
 regions of ethiopia:埃塞俄比亚行政区划
+regions of europe:欧洲地区
 regions of finland:芬兰行政区
 regions of greece:希腊大区
 regions of guinea bissau:几内亚比绍行政区划
+regions of guinea:几内亚地区
+regions of guyana:圭亚那地区
 regions of guyana:圭亚那行政区划
 regions of iceland:冰岛地区
+regions of india:印度地区
 regions of india:地区的印度
+regions of iran:伊朗地区
 regions of iran:伊朗地區
 regions of italy:地区的意大利
 regions of japan:地区的日本
 regions of korea:朝鮮半島地方區分
+regions of korea:朝鲜地区
+regions of lithuania:立陶宛地区
+regions of macedonia:马其顿地区
+regions of malawi:马拉维地区
 regions of mali:马里行政区划
 regions of malta:马耳他地区
 regions of morocco:摩洛哥行政区划
 regions of namibia:纳米比亚行政区划
+regions of new york:纽约地区
 regions of new zealand:紐西蘭一級行政區劃
 regions of norway:挪威分區
+regions of oceania:大洋洲地区
+regions of oregon:俄勒冈地区
 regions of papua new guinea:巴布亞新幾內亞大區
 regions of peru:秘鲁大区
+regions of poland:波兰地区
 regions of portugal:地区的葡萄牙
+regions of quebec:魁北克地区
+regions of québec:魁北克地区
 regions of russia:地区的俄罗斯
+regions of scotland:苏格兰地区
 regions of senegal:塞内加尔行政区划
 regions of slovakia:斯洛伐克州份
+regions of slovenia:斯洛文尼亚地区
+regions of south asia:南亚地区
+regions of south sudan:南苏丹地区
+regions of spain:西班牙地区
+regions of sweden:瑞典地区
+regions of switzerland:瑞士地区
+regions of sydney:悉尼地区
+regions of taiwan:台湾地区
 regions of taiwan:台湾地理区划
+regions of taiwan:台灣地区
+regions of taiwan:臺灣地区
 regions of tajikistan:塔吉克斯坦行政区划
+regions of tanzania:坦桑尼亚地区
 regions of tanzania:坦桑尼亞行政區劃
 regions of thai:地区的泰国人
 regions of thailand:泰国地区
 regions of the faroe islands:法罗群岛地区
+regions of the middle east:中东地区
+regions of the netherlands:荷兰地区
+regions of the philippines:菲律宾地区
+regions of the united states:美国地区
+regions of turkey:土耳其地区
+regions of ukraine:乌克兰地区
+regions of ukraine:烏克蘭地区
 regions of venezuela:委內瑞拉的地區
 regions of western australia:西澳大利亚地区
+regions of western sahara:西撒哈拉地区
 regions offer:地区提供
 regions only:地区只有
 regions open:地区开
@@ -32968,6 +33081,7 @@ relation name:关系名字
 relation network:关系网络
 relation networks:关系网络
 relation not:关系不是
+relation of production:生产关系
 relation oliver:关系奥利弗
 relation or history:关系或历史
 relation quality:关系质量
@@ -33429,6 +33543,7 @@ relationship not:关系不是
 relationship now:关系现在
 relationship obstacles:关系障碍
 relationship of blessing:关系的祝福
+relationship of trust:信托关系
 relationship of trust:关系的信任
 relationship often:关系常常
 relationship only:关系只有
@@ -37378,7 +37493,10 @@ religion no longer:宗教不再
 religion not:宗教不是
 religion now:宗教现在
 religion occupation:宗教职业
+religion of ancient rome:古罗马宗教
 religion of humanity:人道教
+religion of india:印度宗教
+religion of israel:以色列宗教
 religion of peace:和平宗教
 religion offer:宗教提供
 religion often:宗教常常
@@ -39690,6 +39808,7 @@ remote sensing measurement:遥感测量
 remote sensing method:遥感方法
 remote sensing methods:遥感方法
 remote sensing networks:遥感网络
+remote sensing of environment:环境遥感
 remote sensing platform:遥感平台
 remote sensing platforms:遥感平台
 remote sensing policy:遥感政策
@@ -45929,6 +46048,7 @@ representative of stainless steel products:代表的不锈钢产品
 representative of technological innovation:代表的技术创新
 representative of technology upgrade:代表的技术升级
 representative of the first:代表的第一次
+representative of the government:政府代表
 representative office in moscow for the taipei moscow economic and cultural coordination commission:臺北莫斯科經濟文化協調委員會駐莫斯科代表處
 representative office in taipei for the moscow taipei coordination commission on economic and cultural cooperation:莫斯科台北經濟文化協調委員會
 representative office of taiwan:台湾代表处
@@ -46251,6 +46371,7 @@ reproduction efforts:繁殖努力
 reproduction management:繁殖管理
 reproduction method:繁殖方法
 reproduction number:繁殖数
+reproduction of plants:植物繁殖
 reproduction of skin cells:繁殖的皮肤细胞
 reproduction or migration:繁殖或迁徙
 reproduction or overall health:繁殖或整体健康
@@ -46638,6 +46759,8 @@ republic cup:共和国杯
 republic current:共和国目前的
 republic currently:共和国目前
 republic data:共和国数据
+republic day of india:印度共和国日
+republic day of india:印度共和國日
 republic day parade:共和国日游行
 republic day parade:共和國日游行
 republic day:共和国日
@@ -46738,8 +46861,17 @@ republic o the congo:刚果共和国
 republic o the congo:刚果共和国 / 剛果共和國
 republic o the congo:剛果共和國
 republic o the congo:剛果（布）
+republic of abkhazia:阿布哈兹共和国
+republic of abkhazia:阿布哈茲共和国
 republic of adygea:阿迪格共和国
 republic of adygea:阿迪格共和國
+republic of afghanistan:阿富汗共和国
+republic of albania:阿尔巴尼亚共和国
+republic of algeria:阿尔及利亚共和国
+republic of altai:阿尔泰共和国
+republic of altai:阿爾泰共和国
+republic of amalfi:阿马尔菲共和国
+republic of ambazonia:安巴佐尼亚共和国
 republic of ancona:安科纳共和国
 republic of angola pavilion:安哥拉馆
 republic of angola, government of the province of luanda, talatona municipal administration, camama urban district administration:安哥拉共和国, 罗安达省政府, 塔拉托纳市政府, 卡马马市区政府
@@ -46748,17 +46880,53 @@ republic of angola, kilamba kiaxi municipality, new life urban district, residen
 republic of angola, kilamba kiaxi municipality, new life urban district, residents' commission  of the neighbourhood of cambamba:安哥拉共和國，基蘭巴 橋西市，新生活都市區，坎班巴居民區居民委員會
 republic of angola, luanda province government, talatona municipal administration, university town urban district administration:安哥拉共和国、罗安达省政府、塔拉托纳市政府、大學城城市地區行政部門
 republic of angola, luanda province government, talatona municipal administration, university town urban district administration:安哥拉共和國、羅安達省政府、塔拉托納市政府、大学城城市地区行政部门
+republic of angola:安哥拉共和国
 republic of anguilla:安圭拉共和国
 republic of aras:阿拉斯共和國
+republic of argentina:阿根廷共和国
+republic of armenia:亚美尼亚共和国
+republic of armenia:亞美尼亞共和国
 republic of artsakh:阿尔察赫共和国
+republic of athens:雅典共和国
+republic of austria:奥地利共和国
+republic of austria:奧地利共和国
+republic of azerbaijan:亞塞拜然共和国
+republic of azerbaijan:阿塞拜疆共和国
 republic of baden:巴登共和国
 republic of baja california:下加利福尼亚共和国
+republic of belarus:白俄罗斯共和国
+republic of belarus:白俄羅斯共和国
+republic of benin:贝宁共和国
 republic of biak na bato:边那巴多共和国
+republic of bihać:比哈奇共和国
+republic of bolivia:玻利维亚共和国
+republic of bophuthatswana:博普塔茨瓦纳共和国
+republic of bosnia and herzegovina:波斯尼亚和黑塞哥维纳共和国
 republic of bosnia and herzegovina:波斯尼亚和黑塞哥维那共和国
+republic of bosnia and herzegovina:波黑共和国
+republic of botswana:博茨瓦納共和国
+republic of botswana:博茨瓦纳共和国
+republic of brazil:巴西共和国
+republic of bulgaria:保加利亚共和国
+republic of bulgaria:保加利亞共和国
+republic of burundi:布隆迪共和国
+republic of bénin:贝宁共和国
 republic of cabinda:卡宾达共和国
+republic of cabo verde:佛得角共和国
+republic of cabo verde:維德角共和国
+republic of california:加利福尼亚共和国
+republic of cameroon:喀麦隆共和国
+republic of cameroun:喀麦隆共和国
 republic of canada:加拿大共和国
+republic of cape verde:佛得角共和国
+republic of cape verde:維德角共和国
+republic of catalonia:加泰罗尼亚共和国
+republic of catalonia:加泰羅尼亞共和国
 republic of central albania:中阿尔巴尼亚共和国
 republic of central lithuania:中立陶宛共和國
+republic of chad:乍得共和国
+republic of chad:查德共和国
+republic of chile:智利共和国
 republic of china air force academy:中華民國空軍軍官學校
 republic of china air force museum:空軍軍史館
 republic of china air force thunder tiger aerobatics team:中華民國空軍雷虎特技小組
@@ -46803,28 +46971,80 @@ republic of china stamp:中华民国邮票
 republic of china translator:中华民国翻译家
 republic of china:中华民国
 republic of chocolate:巧克力共和國
+republic of colombia:哥伦比亚共和国
+republic of colombia:哥倫比亞共和国
+republic of congo:刚果共和国
+republic of corsica:科西嘉共和国
 republic of cospaia:科斯帕亚共和国
+republic of costa rica:哥斯达黎加共和国
 republic of crimea:克里米亚共和国
 republic of crimea:克里米亞共和國
 republic of croatia square:克罗地亚共和国广场
 republic of croatia square:克羅埃西亞共和國廣場
+republic of croatia:克罗地亚共和国
+republic of cuba:古巴共和国
 republic of cyprus:sàipǔlùsī
 republic of cyprus:塞浦路斯
 republic of cyprus:塞浦路斯/賽普勒斯
+republic of cyprus:塞浦路斯共和国
 republic of cyprus:賽普勒斯
+republic of czechoslovakia:捷克斯洛伐克共和国
+republic of côte d'ivoire:科特迪瓦共和国
 republic of dahomey:達荷美共和國
+republic of djibouti:吉布地共和国
+republic of djibouti:吉布提共和国
+republic of dubrovnik:杜布罗夫尼克共和国
 republic of east florida:东佛罗里达共和国
+republic of ecuador:厄瓜多共和国
+republic of ecuador:厄瓜多尔共和国
+republic of egypt:埃及共和国
+republic of el salvador:萨尔瓦多共和国
+republic of equatorial guinea:赤道几内亚共和国
+republic of estonia:愛沙尼亞共和国
+republic of estonia:爱沙尼亚共和国
 republic of ezo:蝦夷共和國
 republic of fiji military forces:斐濟軍隊
+republic of fiji:斐济共和国
+republic of finland:芬兰共和国
 republic of florence became:佛罗伦萨共和国成为
 republic of florence decided:佛罗伦萨共和国决定
 republic of florence:佛罗伦萨共和国
+republic of florida:佛罗里达共和国
+republic of formosa:台湾共和国
 republic of formosa:臺灣民主國
+republic of gabon:加蓬共和国
+republic of gambia:冈比亚共和国
+republic of geneva:日内瓦共和国
 republic of genoa:热那亚共和国
+republic of genova:热那亚共和国
+republic of georgia:格魯吉亞共和国
+republic of georgia:格鲁吉亚共和国
+republic of ghana:加纳共和国
+republic of gran colombia:大哥倫比亞共和国
+republic of greece:希腊共和国
+republic of greece:希臘共和国
+republic of guatemala:危地馬拉共和国
+republic of guatemala:危地马拉共和国
+republic of guinea bissau:几内亚比绍共和国
+republic of guinea-bissau:几内亚比绍共和国
+republic of guinea:几内亚共和国
+republic of guyana:圭亚那共和国
+republic of guyana:蓋亞那共和国
+republic of haiti:海地共和国
+republic of hawaii:夏威夷共和国
 republic of hawaii:夏威夷共和國
+republic of heaven:天堂共和国
 republic of heaven:天堂共和國
+republic of honduras:洪都拉斯共和国
+republic of hungary:匈牙利共和国
+republic of iceland:冰岛共和国
 republic of independent guiana:独立圭亚那共和国
+republic of india:印度共和国
 republic of indian stream:印第安溪共和国
+republic of indonesia:印尼共和国
+republic of indonesia:印度尼西亚共和国
+republic of indonesia:印度尼西亞共和国
+republic of iraq:伊拉克共和国
 republic of ireland and australia:爱尔兰和澳大利亚
 republic of ireland and malta:爱尔兰和马耳他
 republic of ireland and the united kingdom:爱尔兰和英国
@@ -46837,14 +47057,22 @@ republic of ireland:愛爾蘭
 republic of ireland:愛爾蘭共和國
 republic of ireland:爱尔兰
 republic of ireland:爱尔兰 / 愛爾蘭
+republic of ireland:爱尔兰共和国
+republic of italy:意大利共和国
+republic of ivory coast:科特迪瓦共和国
 republic of jamtland:耶姆特兰共和国
 republic of kalmykia:卡尔梅克共和国
 republic of kalmykia:卡爾梅克共和國
+republic of kampuchea:柬埔寨共和国
 republic of karakalpakstan:卡拉卡尔帕克斯坦共和国
 republic of karakalpakstan:卡拉卡爾帕克共和國
 republic of karelia:卡累利阿共和国
+republic of kazakhstan:哈萨克斯坦共和国
+republic of kenya:肯尼亚共和国
 republic of khakassia:哈卡斯共和国
 republic of khakassia:哈卡斯共和國
+republic of kiribati:吉里巴斯共和国
+republic of kiribati:基里巴斯共和国
 republic of korea air force:韓國空軍
 republic of korea armed forces:大韓民國國軍
 republic of korea army special warfare command:韓國陸軍特戰司令部
@@ -46854,42 +47082,138 @@ republic of korea navy special warfare flotilla:韓國海軍特戰戰團
 republic of korea navy:韓國海軍
 republic of korea pavilion:韩国馆
 republic of korea reserve forces:韓國預備軍
+republic of kosova:科索沃共和国
+republic of kosovo:科索沃共和国
+republic of krakow:克拉科夫共和国
+republic of kraków:克拉科夫共和国
 republic of kuwait:科威特共和国
+republic of kyrgyzstan:吉尔吉斯斯坦共和国
+republic of kyrgyzstan:吉爾吉斯共和国
 republic of lakotah proposal:拉科塔共和国
+republic of latvia:拉脱维亚共和国
+republic of lebanon:黎巴嫩共和国
+republic of liberia:利比里亚共和国
+republic of lithuania:立陶宛共和国
+republic of liège:列日共和国
 republic of logone:洛贡共和国
 republic of lower canada:下加拿大共和国
+republic of lucca:卢卡共和国
+republic of macedonia:北馬其頓共和国
+republic of macedonia:北马其顿共和国
+republic of macedonia:马其顿共和国
+republic of madagascar:马达加斯加共和国
 republic of mahabad:马哈巴德共和国
+republic of mainz:美因茨共和国
+republic of malawi:马拉维共和国
+republic of maldives:马尔代夫共和国
+republic of mali:马里共和国
+republic of malta:马耳他共和国
+republic of marshall islands:马绍尔群岛共和国
 republic of maryland:马里兰共和国
+republic of mauritius:毛里求斯共和国
+republic of mexico:墨西哥共和国
 republic of mississippi:密西西比共和國
+republic of moldavia:摩尔多瓦共和国
+republic of moldavia:摩爾多瓦共和国
+republic of moldova:摩尔多瓦共和国
+republic of moldova:摩爾多瓦共和国
 republic of molossia:莫洛西亞共和國
+republic of montenegro:蒙特內哥羅共和国
+republic of montenegro:黑山共和国
 republic of mordovia:莫尔多瓦共和国
 republic of mordovia:莫爾多瓦共和國
 republic of mountainous armenia:亚美尼亚山地共和国
+republic of mozambique:莫桑比克共和国
 republic of mulhouse:米卢斯共和国
+republic of nagorno-karabakh:纳戈尔诺-卡拉巴赫共和国
+republic of namibia:納米比亞共和国
+republic of namibia:纳米比亚共和国
+republic of nauru:瑙鲁共和国
+republic of new granada:新格拉纳达共和国
 republic of new granada:新格瑞那達共和國
+republic of nicaragua:尼加拉瓜共和国
+republic of niger:尼日尔共和国
+republic of noli:诺利共和国
 republic of north macedonia:mǎqídùn
 republic of north macedonia:北馬其頓
+republic of north macedonia:北馬其頓共和国
 republic of north macedonia:北馬其頓共和國
 republic of north macedonia:北马其顿
 republic of north macedonia:北马其顿 / 北馬其頓
+republic of north macedonia:北马其顿共和国
 republic of north ossetia – alania:北奥塞梯—阿兰共和国
 republic of north ossetia – alania:北奧塞梯—阿蘭
 republic of north ossetia – alania:北奧塞梯—阿蘭共和國
+republic of north ossetia:北奧塞梯共和国
+republic of novgorod:大诺夫哥罗德共和国
+republic of pakistan:巴基斯坦共和国
+republic of palau:帕劳共和国
+republic of palau:帛琉共和国
+republic of panama:巴拿马共和国
+republic of paraguay:巴拉圭共和国
+republic of peru:秘鲁共和国
+republic of philippines:菲律宾共和国
+republic of philippines:菲律賓共和国
 republic of pirates:海盜共和國
+republic of pisa:比萨共和国
 republic of pisa:比薩共和國
+republic of poland:波兰共和国
+republic of poland:波蘭共和国
 republic of pontus:本都共和國
+republic of portugal:葡萄牙共和国
+republic of prekmurje:普雷克穆列共和国
+republic of ragusa:拉古萨共和国
 republic of ragusa:拉古薩共和國
+republic of ragusa:杜布罗夫尼克共和国
+republic of rio grande:里奥格兰德共和国
+republic of rome:罗马共和国
+republic of rome:羅馬共和制
+republic of rome:羅馬共和国
+republic of rose island:玫瑰岛共和国
 republic of rose island:玫瑰島共和國
 republic of rotuma:罗图马共和国
+republic of russia:俄罗斯共和国
+republic of russia:俄羅斯共和国
+republic of rwanda:卢旺达共和国
+republic of san marino:圣马力诺共和国
 republic of saugeais:索热共和国
+republic of senegal:塞内加尔共和国
+republic of serbia:塞尔维亚共和国
+republic of serbia:塞爾維亞共和国
 republic of serbian krajina:塞爾維亞克拉伊納共和國
+republic of seychelles:塞舌尔共和国
 republic of siena:錫耶納共和國
+republic of siena:锡耶纳共和国
+republic of sierra leone:塞拉利昂共和国
+republic of sierra leone:獅子山共和国
 republic of singapore air force:新加坡共和国空军
 republic of singapore navy:新加坡共和国海军
+republic of singapore:新加坡共和国
+republic of slovakia:斯洛伐克共和国
+republic of slovenia:斯洛文尼亚共和国
+republic of slovenia:斯洛文尼亞共和国
+republic of somalia:索馬里共和国
+republic of somalia:索马里共和国
 republic of somaliland representative office in taiwan:索馬利蘭共和國駐台灣代表處
+republic of somaliland:索马里兰共和国
 republic of sonora:索诺拉共和国
+republic of south africa:南非共和国
 republic of south maluku:南马鲁古共和国
+republic of south ossetia:南奥塞梯共和国
+republic of south sudan:南苏丹共和国
+republic of south sudan:南蘇丹共和国
+republic of south vietnam:南越南共和国
+republic of spain:西班牙共和国
 republic of spanish haiti:西班牙海地共和国
+republic of sri lanka:斯里兰卡共和国
+republic of sudan:苏丹共和国
+republic of sudan:蘇丹共和国
+republic of suriname:苏里南共和国
+republic of syria:叙利亚共和国
+republic of taiwan:台湾共和国
+republic of tajikistan:塔吉克共和国
+republic of tajikistan:塔吉克斯坦共和国
+republic of tanzania:坦桑尼亚共和国
 republic of tarnobrzeg:塔尔诺布热格共和国
 republic of texas start:德克萨斯共和国开始
 republic of texas:德克萨斯共和国
@@ -46905,14 +47229,32 @@ republic of the congo:刚果共和国 / 剛果共和國
 republic of the congo:剛果共和國
 republic of the congo:剛果（布）
 republic of the floridas:佛罗里达共和国
+republic of the gambia:冈比亚共和国
+republic of the netherlands:荷兰共和国
 republic of the north solomons:北所罗门共和国
+republic of the philippines:菲律宾共和国
 republic of the rif:里夫共和国
 republic of the rio grande:里奥格兰德共和国
 republic of the united states of indonesia cabinet:印度尼西亚联邦共和国内阁
+republic of togo:多哥共和国
+republic of trinidad and tobago:特立尼达和多巴哥共和国
+republic of tunisia:突尼斯共和国
+republic of tunisia:突尼西亞共和国
+republic of turkey:土耳其共和国
+republic of turkmenistan:土库曼斯坦共和国
+republic of turkmenistan:葉門共和国
+republic of türkiye:土耳其共和国
+republic of uganda:乌干达共和国
+republic of uganda:烏干達共和国
 republic of uhtua:东卡累利阿共和国
 republic of upper volta:上伏塔共和國
+republic of upper volta:上沃尔特共和国
+republic of utrecht:乌得勒支共和国
+republic of uzbekistan:乌兹别克斯坦共和国
+republic of vanuatu:瓦努阿图共和国
 republic of venezuela:委内瑞拉共和国
 republic of venice:威尼斯共和国
+republic of viet-nam:越南共和国
 republic of vietnam airborne division:越南共和國空降師
 republic of vietnam judiciary police:越南共和国司法警察
 republic of vietnam marine division:越南共和國海軍陸戰師
@@ -46920,9 +47262,18 @@ republic of vietnam military forces:越南共和國軍
 republic of vietnam national police field force:越南共和国国家警察野战部队
 republic of vietnam national police:越南共和國國家警察
 republic of vietnam navy:越南共和國海軍
+republic of vietnam:越南共和国
+republic of việt nam:越南共和国
+republic of weimar:魏玛共和国
 republic of west florida:西佛罗里达共和国
 republic of west papua:西巴布亚共和国
+republic of yemen:也门共和国
+republic of yemen:葉門共和国
+republic of yugoslavia:南斯拉夫共和国
+republic of zambia:赞比亚共和国
 republic of zamboanga:三寶顏共和國
+republic of zimbabwe:津巴布韦共和国
+republic of zürich:苏黎世共和国
 republic offer:共和国提供
 republic officials:共和国官员
 republic once:共和国一次
@@ -47205,10 +47556,31 @@ republican party member:共和党成员
 republican party members:共和党成员
 republican party needs:共和党需要
 republican party nomination:共和党提名
+republican party of alabama:亚拉巴马州共和党
+republican party of alaska:阿拉斯加州共和党
 republican party of armenia:亚美尼亚共和党
+republican party of california:加利福尼亚州共和党
+republican party of chile:智利共和党
+republican party of china:中国共和党
+republican party of crimea:克里米亚共和党
 republican party of florida chairman:佛羅里達州共和黨主席
+republican party of florida:佛罗里达州共和党
 republican party of florida:佛羅里達州共和黨
+republican party of georgia:格鲁吉亚共和党
+republican party of guam:关岛共和党
+republican party of havana:哈瓦那共和党
 republican party of labour and justice:劳动和正义共和党
+republican party of liberty:自由共和党
+republican party of michigan:密歇根州共和党
+republican party of new york state:纽约州共和党
+republican party of new york:纽约州共和党
+republican party of ohio:俄亥俄州共和党
+republican party of pennsylvania:宾夕法尼亚州共和党
+republican party of portugal:葡萄牙共和党
+republican party of texas:德克萨斯共和党
+republican party of the united states:美国共和党
+republican party of ukraine:乌克兰共和党
+republican party of utah:犹他州共和党
 republican party offer:共和党提供
 republican party office:共和党办公室
 republican party officials:共和党官员
@@ -53709,6 +54081,7 @@ research council estimate:研究委员会估计
 research council from:研究委员会从
 research council future:研究委员会未来
 research council income:研究委员会收入
+research council of zimbabwe:津巴布韦研究委员会
 research council population health:研究委员会人口健康
 research council professor:研究委员会教授
 research council report:研究委员会报告
@@ -56616,6 +56989,8 @@ reserve bank information and transfer:储备银行信息和转账
 reserve bank information:储备银行信息
 reserve bank manage:储备银行管理
 reserve bank needs:储备银行需要
+reserve bank of australia:澳大利亚储备银行
+reserve bank of australia:澳洲储备银行
 reserve bank of australia:澳洲儲備銀行
 reserve bank of boston:储备银行的波士顿
 reserve bank of fiji:斐济储备银行
@@ -56624,10 +56999,14 @@ reserve bank of india last year:印度储备银行去年
 reserve bank of india recently:印度储备银行最近
 reserve bank of india will continue:印度储备银行将继续
 reserve bank of india:印度储备银行
+reserve bank of malawi:马拉维储备银行
 reserve bank of new zealand is new zealand:新西兰储备银行是新西兰
 reserve bank of new zealand last year:新西兰储备银行去年
 reserve bank of new zealand was established in:新西兰储备银行成立于
 reserve bank of new zealand:新西兰储备银行
+reserve bank of south africa:南非储备银行
+reserve bank of vanuatu:瓦努阿图储备银行
+reserve bank of zimbabwe:津巴布韦储备银行
 reserve bank of zimbabwe:辛巴威儲備銀行
 reserve bank or union bank:储备银行或联盟银行
 reserve bank payment system:储备银行支付系统
@@ -57710,6 +58089,7 @@ residents nutrition:居民营养
 residents obtain:居民获得
 residents of america:居民的美国
 residents of canada:居民的加拿大
+residents of hong kong:香港居民
 residents of yuzhno-sakhalinsk:居民的南萨哈林斯克
 residents offer:居民提供
 residents often:居民常常
@@ -57931,7 +58311,9 @@ resign:辞去
 resignation from the house of commons of the united kingdom:英國國會議員辭職方式
 resignation letter:辭職信
 resignation means:辭職意味著
+resignation of chrystia freeland:方慧蘭辭職
 resignation of pope benedict xvi:教宗本篤十六世辭職
+resignation of suharto:蘇哈托辭職
 resignation or any other:辭職或任何其他
 resignation or death:辭職或死亡
 resignation reflect:辭職反映
@@ -66290,9 +66672,12 @@ resurrection monastery:復活修道院
 resurrection morning:復活早晨
 resurrection not:復活不是
 resurrection of christ cannot:復活的基督不能
+resurrection of christ:基督復活
 resurrection of christ:復活的基督
 resurrection of jesus:復活的耶穌
 resurrection of jesus:耶稣复活
+resurrection of jesus:耶稣復活
+resurrection of jesus:耶穌復活
 resurrection of the little match girl:卖火柴女孩的再临
 resurrection parish:耶穌復活堂
 resurrection story:復活故事
@@ -67751,6 +68136,8 @@ retire your family:退休你的家庭
 retire your:退休你的
 retire:退休
 retired cadre's entertainment center:老干部活动中心
+retired emperor of china:中国太上皇
+retired emperor of china:中國太上皇
 retired emperor:太上皇
 retired employees management bureau:离退休人员管理部
 retired faculty activity center:离退休教职工活动中心
@@ -68569,6 +68956,7 @@ return of passport:返回的护照
 return of photograph:返回的照片
 return of rights after:返回的权利后
 return of spontaneous circulation:自主循环再现
+return of the king:王回
 return of the lucky stars:福星闖江湖
 return of the obra dinn:奧伯拉丁的回歸
 return of the one armed swordsman:獨臂刀王
@@ -70976,7 +71364,9 @@ review lesson:复习课程
 review method:复习方法
 review methods:复习方法
 review my:复习我的
+review of agricultural economics:農業經濟學評論
 review of environmental economics and policy:環境經濟及政策評論
+review of politics:政治評論
 review past:复习过去的
 review plans:复习计划
 review press:評論出版社
@@ -71475,6 +71865,8 @@ revolution network:革命网络
 revolution not:革命不是
 revolution now:革命现在
 revolution of dignity:尊严革命
+revolution of iran:伊朗革命
+revolution of july:七月革命
 revolution offer:革命提供
 revolution once:革命一次
 revolution only:革命只有
@@ -71640,6 +72032,7 @@ revolutionary christianity:革命的基督教
 revolutionary civil war:革命的内战
 revolutionary combat:革命的战斗
 revolutionary committee decided:革命委员会决定
+revolutionary committee of shandong province:山东省革命委员会
 revolutionary committee of the chinese kuomintang:中国国民党革命委员会
 revolutionary committee:革命委员会
 revolutionary communard party:革命公社社员党
@@ -71650,8 +72043,11 @@ revolutionary communist international:革命共产国际
 revolutionary communist league of bangladesh:孟加拉国联合共产主义联盟
 revolutionary communist league:革命共產主義聯盟
 revolutionary communist movement of greece:希腊革命共产主义运动
+revolutionary communist party of argentina:阿根廷革命共产党
 revolutionary communist party of china:中国革命共产党
+revolutionary communist party of côte d'ivoire:科特迪瓦革命共产党
 revolutionary communist party of india:印度革命共产党
+revolutionary communist party of ivory coast:科特迪瓦革命共产党
 revolutionary communist party of turkey:土耳其革命共产党
 revolutionary communist party of uruguay:乌拉圭革命共产党
 revolutionary communist party:革命共产党
@@ -71876,6 +72272,7 @@ revolutionary social network:革命的社会网络
 revolutionary social-democratic party:革命的社会民主党
 revolutionary socialism:革命的社会主义
 revolutionary socialism:革命社會主義
+revolutionary socialist party of india:印度革命社会党
 revolutionary socialist party:革命社会党
 revolutionary socialist:革命的社会主义者
 revolutionary society:革命的社会

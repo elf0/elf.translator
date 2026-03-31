@@ -1986,6 +1986,7 @@ field map grid:场地图网格
 field map:场地图
 field market demand:领域市场需求
 field market:领域市场
+field marshal of the united kingdom:英国陸軍元帥
 field marshal:陸軍元帥
 field materials:场材料
 field means:字段意味着
@@ -2062,10 +2063,12 @@ field of important work:领域的重要工作
 field of interest:场的兴趣
 field of interest:领域的兴趣
 field of knowledge:领域的知识
+field of light:光场
 field of manufacturing companies:领域的制造业公司
 field of marketing:领域的市场营销
 field of mars:战神广场
 field of mars:戰神廣場
+field of mathematics:数学领域
 field of morality:领域的道德
 field of nanotechnology:领域的纳米技术
 field of performance advantages:领域的性能优势
@@ -2082,6 +2085,7 @@ field of research has been:研究领域已经
 field of research include:研究领域包括
 field of research:研究领域
 field of science finally:领域的科学最终
+field of science:科学领域
 field of science:领域的科学
 field of sculpture:领域的雕塑
 field of sets:集合域
@@ -2089,6 +2093,8 @@ field of some proper noun:领域的一些专有名词
 field of standardization:领域的标准化
 field of strategic:领域的战略
 field of study prove:领域的研究证明
+field of study:学科领域
+field of study:研究领域
 field of study:领域的研究
 field of tank combat:场的坦克战斗
 field of technology:领域的技术
@@ -2702,11 +2708,15 @@ fields of law:领域的法律
 fields of learning:领域的学习
 fields of life:领域的生活
 fields of logistics:领域的物流
+fields of mathematics:数学领域
 fields of paleobotany:领域的古植物学
 fields of power:领域的力量
 fields of psychology:领域的心理学
 fields of research:领域的研究
+fields of science:科学领域
 fields of science:领域的科学
+fields of study:学科领域
+fields of study:研究领域
 fields of study:领域的学习
 fields of study:领域的研究
 fields of technical support services:领域的技术支持服务
@@ -3301,6 +3311,12 @@ fifth regiment:第五团
 fifth region:第五地区
 fifth republic fashion:第五共和国时尚
 fifth republic movement:第五共和國運動
+fifth republic of korea:韩国第五共和国
+fifth republic of south korea:大韓民國第五共和國
+fifth republic of south korea:大韩民国第五共和国
+fifth republic of south korea:韩国第五共和国
+fifth republic of the philippines:菲律宾第五共和国
+fifth republic of venezuela:委内瑞拉第五共和国
 fifth republic:第五共和国
 fifth republic:第五共和國
 fifth research:第五研究
@@ -9359,6 +9375,17 @@ finance minister lou jiwei:财政部长楼继伟
 finance minister martin:财政部长马丁
 finance minister meeting:财政部长会议
 finance minister michael:财政部长迈克尔
+finance minister of canada:加拿大财政部长
+finance minister of france:法国财政部长
+finance minister of germany:德国财政部长
+finance minister of germany:德國财政部长
+finance minister of india:印度财政部长
+finance minister of israel:以色列财政部长
+finance minister of malaysia:马来西亚财政部长
+finance minister of malta:马耳他财政部长
+finance minister of nigeria:尼日利亚财政部长
+finance minister of russia:俄罗斯财政部长
+finance minister of the people's republic of china:中华人民共和国财政部长
 finance minister oscar:财政部长奥斯卡
 finance minister paul:财政部长保罗
 finance minister peter:财政部长彼得
@@ -9911,6 +9938,9 @@ financial district at midnight:金融区在午夜
 financial district continues:金融区继续
 financial district employment:金融区就业
 financial district hotel:金融区酒店
+financial district of manhattan:曼哈顿金融区
+financial district of san francisco:旧金山金融区
+financial district of san francisco:舊金山金融区
 financial district to recently:金融区到最近
 financial district:金融区
 financial documents:金融的文档
@@ -10765,6 +10795,7 @@ financial services action:金融服务行动
 financial services activities:金融服务活动
 financial services activity:金融服务活动
 financial services administration:金融服务管理
+financial services agency of japan:日本金融廳
 financial services agency:金融廳
 financial services agreement:金融服务协议
 financial services alliance:金融服务联盟
@@ -11665,6 +11696,7 @@ financing networks:融资网络
 financing news:融资新闻
 financing norm:融资规范
 financing obligation:融资义务
+financing of terrorism:恐怖主义融资
 financing of terrorism:融资的恐怖主义
 financing offer:融资提供
 financing office:融资办公室
@@ -16281,6 +16313,7 @@ fire danger:火危险
 fire data:火数据
 fire death:火死亡
 fire department hydrant:消防局消防栓
+fire department of new york city:纽约市消防局
 fire department(xiangxin s. road):消防局(向心南路)
 fire department, new taipei city government:新北市政府消防局
 fire department:嘉義市政府消防局第一分隊
@@ -16493,6 +16526,7 @@ fire novel:火小说
 fire nuclear weapon:火核武器
 fire observation:火观察
 fire of grape:火的葡萄
+fire of love:愛火
 fire of moscow:莫斯科大火
 fire off:火关闭
 fire offer:火提供
@@ -17413,6 +17447,7 @@ first era of northern domination:越南第一次北屬時期
 first family corruption:第一家庭腐败
 first family enter:第一家庭进入
 first family of the republic of china:中華民國第一家庭
+first family of the united states:美国第一家庭
 first family office:第一家庭办公室
 first family office:第一家庭辦公室
 first family vacation:第一家庭度假
@@ -17611,15 +17646,38 @@ first lady marcos:第一夫人马科斯
 first lady mary:第一夫人玛丽
 first lady michel:第一夫人米歇爾
 first lady missing:第一夫人失踪
+first lady of argentina:阿根廷第一夫人
+first lady of armenia:亚美尼亚第一夫人
+first lady of china:中华人民共和国第一夫人
+first lady of china:中国第一夫人
+first lady of egypt:埃及第一夫人
 first lady of hell:第一夫人的地狱
+first lady of north korea:北韓第一夫人
+first lady of north korea:朝鮮民主主義人民共和國第一夫人
 first lady of north korea:朝鲜民主主义人民共和国第一夫人
+first lady of pakistan:巴基斯坦第一夫人
+first lady of russia:俄罗斯第一夫人
+first lady of russia:俄羅斯第一夫人
 first lady of south africa:南非第一夫人
+first lady of south korea:南韓第一夫人
+first lady of south korea:大韓民國第一夫人
+first lady of south korea:大韩民国第一夫人
 first lady of south korea:韓國第一夫人
+first lady of south korea:韩国第一夫人
+first lady of syria:敘利亞第一夫人
+first lady of tanzania:坦桑尼亚第一夫人
+first lady of texas:德克萨斯州第一夫人
 first lady of the czech republic:捷克第一夫人
 first lady of the republic of china:中华民国第一配偶列表
+first lady of the u.s.:美国第一夫人
 first lady of the united states hillary:美国第一夫人希拉里
 first lady of the united states:美国第一夫人
+first lady of tunisia:突尼斯第一夫人
+first lady of turkey:土耳其第一夫人
+first lady of ukraine:乌克兰第一夫人
 first lady of ukraine:烏克蘭第一夫人
+first lady of venezuela:委內瑞拉第一夫人
+first lady of zambia:赞比亚第一夫人
 first lady office:第一夫人办公室
 first lady or her family:第一夫人或她的家庭
 first lady perfume:第一夫人香水
@@ -17913,8 +17971,21 @@ first reaction:第一的反应
 first record:第一的记录
 first red scare:第一次紅色恐慌
 first republic day:第一共和国日
+first republic of armenia:亚美尼亚第一共和国
 first republic of armenia:亞美尼亞第一共和國
+first republic of austria:奥地利第一共和国
+first republic of austria:奧地利第一共和国
+first republic of costa rica:哥斯达黎加第一共和国
+first republic of czechoslovakia:捷克斯洛伐克第一共和国
+first republic of iraq:伊拉克第一共和国
 first republic of iraq:伊拉克第一共和國
+first republic of maldives:马尔代夫第一共和国
+first republic of nigeria:尼日利亚第一共和国
+first republic of poland:波兰第一共和国
+first republic of the philippines:菲律宾第一共和国
+first republic of uganda:乌干达第一共和国
+first republic of venezuela:委内瑞拉第一共和国
+first republic of vietnam:越南第一共和国
 first republic:第一共和国
 first responder:先遣急救員
 first road:第一的道路
@@ -19996,6 +20067,7 @@ fist band:拳乐队
 fist boxing:拳拳击
 fist bump:碰拳
 fist class:拳类
+fist of god:神拳
 fist of legend:精武英雄
 fist of the blue sky:蒼天之拳
 fist of the north star:北斗神拳
@@ -20216,6 +20288,7 @@ five block:五块
 five blues lake national park:五藍湖國家公園
 five boat:五船
 five bob:五鲍伯
+five books of moses:摩西五书
 five books:五书
 five bottle:五瓶
 five box:五盒
@@ -20599,6 +20672,7 @@ five nurse:五护士
 five ocean:五洋
 five ocean:五海洋
 five of diamond:五的钻石
+five of eleven:十一五
 five oil:五油
 five old and eight middle aged:五老八中
 five old men peaks:wǔ lǎo fēng
@@ -20946,10 +21020,13 @@ five year macro:五年宏
 five year mission:五年任务
 five year plan cover:五年计划覆盖
 five year plan include:五年计划包括
+five year plan of india:印度五年計劃
+five year plan of india:印度五年计划
 five year plan work:五年计划工作
 five year plan:五年計劃
 five year plan:五年计划
 five year plans of china:中华人民共和国国民经济和社会发展五年规划
+five year plans of india:印度五年计划
 five year plans of south korea:韩国经济开发五年计划
 five year plans of the soviet union:蘇聯五年計劃
 five year plans of vietnam:越南五年計劃
@@ -21203,6 +21280,14 @@ five-year phase:五年阶段
 five-year plan under:五年计划下
 five-year plan:五年計劃
 five-year plan:五年计划
+five-year plans of bhutan:不丹五年计划
+five-year plans of china:中华人民共和国五年计划
+five-year plans of china:中国五年计划
+five-year plans of india:印度五年计划
+five-year plans of nepal:尼泊尔五年计划
+five-year plans of south korea:韩国五年计划
+five-year plans of the people's republic of china:中华人民共和国五年计划
+five-year plans of the soviet union:苏联五年计划
 five-year plans:五年计划
 five-year project:五年项目
 five-year reform:五年改革

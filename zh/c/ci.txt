@@ -2156,11 +2156,15 @@ circle logo:圆标志
 circle method:圆方法
 circle object:圆对象
 circle of confusion:模糊圈
+circle of eight:八圆
 circle of fifths:五度圈
 circle of forces:牵引圆
+circle of iron:铁圆
 circle of latitude:纬线
 circle of life:生生不息
 circle of palms plaza:棕榈圈广场
+circle of the day:日圆
+circle of the moon:月亮圆
 circle of the rhine:萊茵圈
 circle of water:在水一方
 circle once:圆一次
@@ -2339,6 +2343,7 @@ circuit court case:巡回法庭案件
 circuit court domestic violence:巡回法庭家庭暴力
 circuit court judge:巡回法庭法官
 circuit court jury:巡回法庭陪审团
+circuit court of missouri:密苏里州巡回法庭
 circuit court panel:巡回法庭面板
 circuit court:巡回法庭
 circuit de barcelona-catalunya:加泰罗尼亚赛道
@@ -3255,6 +3260,7 @@ cistercian abbey of fontenay:丰特莱的西斯特尔教团修道院
 cistercians:熙笃会
 cisterciënzer abdij van fontenay:丰特莱的西斯特尔教团修道院
 cistermas:消防水箱
+cistern of pulcheria:普爾喀麗亞蓄水池
 cistern provide:蓄水池提供
 cistern:蓄水池
 cisterna magna:枕大池
@@ -3293,10 +3299,24 @@ citad dal vatican:梵蒂冈
 citad dal vatican:梵蒂岡
 citad ho chi minh:胡志明市
 citadel hồ-dynastiet:西都城
+citadel of aleppo:阿勒頗城堡
 citadel of aleppo:阿勒颇城堡
+citadel of amman:安曼城堡
+citadel of besançon:贝桑松城塞
+citadel of cairo:开罗城堡
+citadel of cairo:開羅城堡
 citadel of damascus:大马士革城堡
+citadel of lille:里尔城塞
 citadel of lille:里爾城塞
+citadel of liège:列日要塞
+citadel of mainz:美因茨城堡
+citadel of mainz:美因茨要塞
+citadel of namur:那慕尔要塞
 citadel of qaitbay:奎貝堡
+citadel of quebec:魁北克城堡
+citadel of saigon:西貢城堡
+citadel of saladin:萨拉丁城堡
+citadel of saladin:薩拉丁城堡
 citadel of the ho dynasty:西都城
 citadel van aleppo:阿勒颇城堡
 citadel van de ho-dynastie:西都城
@@ -4045,10 +4065,30 @@ cities network:城市网络
 cities networks:城市网络
 cities no longer:城市不再
 cities now:城市现在
+cities of iran:伊朗城市
+cities of israel:以色列城市
+cities of italy:意大利城市
+cities of italy:義大利城市
+cities of japan:日本城市
 cities of last things:幸福城市
+cities of london:伦敦城市
+cities of malaysia:馬來西亞城市
+cities of malaysia:马来西亚城市
 cities of military glory:军事荣耀之城
+cities of new zealand:紐西蘭城市
 cities of refuge and levi:逃城和利未
 cities of refuge:逃城
+cities of salt:盐城市
+cities of scotland:蘇格蘭城市
+cities of serbia:塞爾維亞城市
+cities of spain:西班牙城市
+cities of sweden:瑞典城市
+cities of the netherlands:荷兰城市
+cities of the netherlands:荷蘭城市
+cities of the philippines:菲律宾城市
+cities of turkey:土耳其城市
+cities of ukraine:乌克兰城市
+cities of ukraine:烏克蘭城市
 cities offer:城市提供
 cities often:城市常常
 cities once again:城市再次
@@ -4509,7 +4549,23 @@ citizen nomination:公民提名
 citizen observation:公民观察
 citizen oceanography:公民海洋学
 citizen of a kind:市民德熙
+citizen of canada:加拿大公民
+citizen of india:印度公民
+citizen of italy:意大利公民
+citizen of italy:義大利公民
+citizen of new zealand:新西兰公民
+citizen of new zealand:紐西蘭公民
+citizen of russia:俄罗斯公民
+citizen of russia:俄羅斯公民
+citizen of singapore:新加坡公民
+citizen of the european union:欧盟公民
+citizen of the united states:美国公民
+citizen of the usa:美国公民
+citizen of the world:世界公民
 citizen of the year:公民年度
+citizen of turkey:土耳其公民
+citizen of ukraine:乌克兰公民
+citizen of ukraine:烏克蘭公民
 citizen one:公民一
 citizen online:公民在线
 citizen only:公民只有
@@ -4940,6 +4996,77 @@ citizens notice:公民注意
 citizens now:公民现在
 citizens obey:公民服从
 citizens obtain:公民获得
+citizens of albania:阿尔巴尼亚公民
+citizens of america:美国公民
+citizens of argentina:阿根廷公民
+citizens of australia:澳大利亚公民
+citizens of australia:澳洲公民
+citizens of belgium:比利時公民
+citizens of brazil:巴西公民
+citizens of canada:加拿大公民
+citizens of chile:智利公民
+citizens of china:中华人民共和国公民
+citizens of china:中国公民
+citizens of china:中國公民
+citizens of china:中華人民共和國公民
+citizens of denmark:丹麥公民
+citizens of denmark:丹麦公民
+citizens of dutch:荷兰公民
+citizens of estonia:愛沙尼亞公民
+citizens of estonia:爱沙尼亚公民
+citizens of france:法国公民
+citizens of france:法國公民
+citizens of germany:德国公民
+citizens of germany:德國公民
+citizens of greece:希臘公民
+citizens of haiti:海地公民
+citizens of india:印度公民
+citizens of indonesia:印尼公民
+citizens of indonesia:印度尼西亞公民
+citizens of iran:伊朗公民
+citizens of ireland:愛爾蘭公民
+citizens of ireland:愛爾蘭共和國公民
+citizens of ireland:爱尔兰公民
+citizens of israel:以色列公民
+citizens of italy:意大利公民
+citizens of italy:義大利公民
+citizens of japan:日本公民
+citizens of malaysia:馬來西亞公民
+citizens of malaysia:马来西亚公民
+citizens of mexico:墨西哥公民
+citizens of moldova:摩尔多瓦公民
+citizens of mongolia:蒙古国公民
+citizens of new zealand:新西兰公民
+citizens of new zealand:紐西蘭公民
+citizens of norway:挪威公民
+citizens of poland:波蘭公民
+citizens of portugal:葡萄牙公民
+citizens of russia:俄罗斯公民
+citizens of russia:俄羅斯公民
+citizens of serbia:塞尔维亚公民
+citizens of serbia:塞爾維亞公民
+citizens of singapore:新加坡公民
+citizens of south africa:南非公民
+citizens of south korea:大韓民國公民
+citizens of south korea:韓國公民
+citizens of south korea:韩国公民
+citizens of sweden:瑞典公民
+citizens of switzerland:瑞士公民
+citizens of taiwan:中華民國公民
+citizens of taiwan:台灣公民
+citizens of taiwan:臺灣公民
+citizens of thailand:泰国公民
+citizens of thailand:泰國公民
+citizens of the european union:欧盟公民
+citizens of the soviet union:苏联公民
+citizens of the united kingdom:英国公民
+citizens of the united states:美国公民
+citizens of the universe:宇宙公民
+citizens of the world:世界公民
+citizens of turkey:土耳其公民
+citizens of ukraine:乌克兰公民
+citizens of ukraine:烏克蘭公民
+citizens of uzbekistan:烏茲別克公民
 citizens offer:公民提供
 citizens often:公民常常
 citizens online:公民在线
@@ -5038,6 +5165,7 @@ citizens trying:公民试图
 citizens understand:公民理解
 citizens unfamiliar with:公民不熟悉
 citizens unfamiliar:公民不熟悉
+citizens union of georgia:格鲁吉亚公民联盟
 citizens union:公民联盟
 citizens use:公民使用
 citizens using several different:公民使用几个不同的
@@ -5156,6 +5284,17 @@ citizenship mode:公民模式
 citizenship network:公民网络
 citizenship oath:公民宣誓
 citizenship obligation:公民义务
+citizenship of india:印度公民
+citizenship of russia:俄罗斯公民
+citizenship of russia:俄羅斯公民
+citizenship of serbia:塞尔维亚公民
+citizenship of serbia:塞爾維亞公民
+citizenship of singapore:新加坡公民
+citizenship of south korea:大韓民國公民
+citizenship of south korea:韓國公民
+citizenship of south korea:韩国公民
+citizenship of the european union:欧盟公民
+citizenship of the united kingdom:英国公民
 citizenship of the united states:美国公民
 citizenship offer:公民提供
 citizenship office:公民办公室
@@ -5587,6 +5726,7 @@ city ballet:城市芭蕾舞
 city band:城市乐队
 city bangkok:城市曼谷
 city bank acquire:城市银行获得
+city bank of new york:紐約城市銀行
 city bank purchase:城市银行购买
 city bank:城市銀行
 city bank:城市银行
@@ -5823,6 +5963,7 @@ city clinical:城市临床
 city close:城市关闭
 city cloud solutions:城市云解决方案
 city cloud:城市云
+city club of portland:波特兰城市俱乐部
 city club:城市俱乐部
 city coach:城市教练
 city code:城市代码
@@ -5833,11 +5974,14 @@ city college be:城市学院成为
 city college become:城市学院成为
 city college campus:城市学院校园
 city college fields:城市学院领域
+city college of city university of new york:纽约市立大学城市学院
 city college of dongguan university of technology:东莞理工学院城市学院
 city college of new york and the university of arizona:纽约市立学院和亚利桑那大学
 city college of new york and university of arizona:纽约市立学院和亚利桑那大学
+city college of new york:纽约城市学院
 city college of new york:纽约市立学院
 city college of san francisco:旧金山城市学院
+city college of san francisco:舊金山城市學院
 city college of science and technology:重庆大学城市科技学院
 city college offer:城市学院提供
 city college plymouth:普利茅斯城市学院
@@ -5953,7 +6097,24 @@ city council members:市政委员会成员
 city council members:市议会成员
 city council news:市议会新闻
 city council north road:議會北路
+city council of amsterdam:阿姆斯特丹市议会
+city council of baltimore:巴爾的摩市議會
+city council of chicago:芝加哥市議會
+city council of chicago:芝加哥市议会
+city council of los angeles:洛杉矶市议会
+city council of los angeles:洛杉磯市議會
+city council of madrid:马德里市议会
 city council of malabo:马拉博市政厅
+city council of penang island:槟岛市议会
+city council of philadelphia:费城市议会
+city council of riga:里加市議會
+city council of sevastopol:塞瓦斯托波尔市议会
+city council of singapore:新加坡市政委员会
+city council of singapore:新加坡市議會
+city council of surabaya:泗水市議會
+city council of tehran:德黑兰市议会
+city council of tehran:德黑蘭市議會
+city council of tirana:地拉那市議會
 city council own:市议会拥有
 city council prohibit:市议会禁止
 city council proposed:市议会提出
@@ -6297,6 +6458,7 @@ city government finally:市政府最终
 city government has been:市政府已经
 city government hire:市政府雇用
 city government look:城市政府看
+city government of manila:马尼拉市政府
 city government office:市政府办公室
 city government officials:市政府官员
 city government once again:市政府再次
@@ -6347,6 +6509,8 @@ city hall mrt station:政府大廈地鐵站
 city hall of bata:巴塔市政厅
 city hall of montevideo:蒙得维的亚市政厅
 city hall of nagasaki:长崎市政府
+city hall of paris:巴黎大会堂
+city hall of paris:巴黎市政廳
 city hall of quebec city:魁北克市政厅
 city hall of tilburg:蒂爾堡市政廳
 city hall plaza:市政厅广场
@@ -6784,6 +6948,7 @@ city of adelaide:阿德萊德市
 city of armadale:阿瑪代爾市
 city of arroyo pora-sub urbano:的城市 arroyo pora-sub urbano
 city of arts and sciences:藝術科學城
+city of asylum:庇护城市
 city of auburn:奥本议会
 city of banja luka:巴尼亚卢卡市
 city of bankstown:賓士鎮市
@@ -6795,6 +6960,7 @@ city of belgrade:贝尔格莱德市
 city of belgrade:贝尔格莱德市/貝爾格勒市/貝爾格萊德
 city of belmont:貝爾蒙特市
 city of birmingham symphony orchestra:伯明翰市立交響樂團
+city of birmingham:伯明翰城市
 city of blue mountains:藍山市
 city of boroondara:博伦达拉市
 city of botany bay:植物学湾市
@@ -6802,6 +6968,7 @@ city of bradford:布拉德福德市
 city of brisbane:布里斯本市政府
 city of brussels offer:布鲁塞尔提供
 city of brussels:布鲁塞尔
+city of buffalo:水牛城市
 city of burnside:濱世市
 city of busselton:巴瑟顿郡
 city of canada bay:加拿大灣市
@@ -6809,11 +6976,17 @@ city of canning:坎寧市
 city of canterbury:坎特伯雷市
 city of cape town:開普敦市
 city of capitals:首都之城
+city of cardiff:卡迪夫城市
 city of carlisle:卡萊爾市
 city of charles sturt:司徒德市
 city of chelmsford:切爾姆斯福德市
 city of clarence:克拉伦斯市
+city of columbia:哥倫比亞城市
+city of commerce:商业城市
 city of cuzco:科斯科古城
+city of darkness:黑暗城市
+city of design:設計城市
+city of desire:慾望城市
 city of dream casino:新濠天地娛樂場
 city of dream casino:新濠天地娱乐场
 city of dreams switching station and substation:新濠天地开关站及变电站
@@ -6823,6 +6996,7 @@ city of durham:达勒姆城
 city of edinburgh:爱丁堡
 city of ekurhuleni metropolitan municipality:埃庫魯萊尼市大都會自治市
 city of ember:微光城市
+city of enterprise:企业城市
 city of film:电影之都
 city of glenorchy:格兰诺奇市
 city of gold coast:黃金海岸市
@@ -6834,8 +7008,12 @@ city of hawkesbury:霍克斯伯里市
 city of hobart:霍巴特市
 city of holdfast bay:霍尔德法斯特湾市
 city of holroyd:好萊德市
+city of hope:希望城市
 city of hurstville:好市圍市
+city of independence:独立城市
+city of industry:工业城市
 city of ipswich:伊普斯威奇市政府
+city of japan:日本城市
 city of kirishima tourism association:霧島市觀光協會
 city of kogarah:高嘉華自治市
 city of kwinana:奎那那
@@ -6847,6 +7025,7 @@ city of literature:文学之城
 city of london corporation:倫敦市法團
 city of london police:倫敦市警察
 city of london school:伦敦市学校
+city of london:伦敦城市
 city of london:伦敦市
 city of london:倫敦市
 city of manchester stadium:曼徹斯特市球場
@@ -6858,6 +7037,9 @@ city of mount isa:伊薩山市政府
 city of novi sad:諾維薩德市
 city of novi sad:诺维萨德市
 city of onkaparinga:安加白令嘉市
+city of pain:西班牙城市
+city of panama:巴拿马城市
+city of paradise:天堂城市
 city of parramatta:巴拉馬打市
 city of peace welcome:和平之城欢迎
 city of peace:和平之城
@@ -6870,20 +7052,28 @@ city of port phillip:菲利普港市
 city of prospect:蒲庶庇市
 city of quito:基多旧城
 city of randwick:蘭域市
+city of reading:閱讀城市
 city of rockdale:石谷市
 city of rockingham:洛金漢市
+city of rome:羅馬城市
 city of ryde:賴德市
 city of salford:索爾福德城
 city of salisbury:梳士巴利市
+city of salt:盐城市
+city of san francisco:旧金山城市
 city of san marino:圣马力诺
 city of san marino:聖馬力諾
 city of san marino:聖馬力諾市
+city of seattle:西雅图城市
 city of shellharbour:蜆殼港
 city of shoalhaven:肖尔黑文市
+city of sin:中国城市
+city of sin:中國城市
 city of south perth:南伯斯市
 city of st albans:聖奧爾本斯市
 city of stars:星光之城
 city of stirling:史特靈市
+city of strasbourg:斯特拉斯堡城市
 city of subotica:苏博蒂察市
 city of subotica:蘇博蒂察市
 city of sunderland:桑德蘭市
@@ -6894,6 +7084,7 @@ city of sydney:悉尼市
 city of tea tree gully:茶樹涌市
 city of ten thousand buddhas:万佛圣城
 city of the living dead:喪屍食人城
+city of the philippines:菲律宾城市
 city of the year:城市年度
 city of townsville:湯斯維爾市政府
 city of tshwane metropolitan municipality:茨瓦內市大都會自治市
@@ -7515,13 +7706,22 @@ city university of hong kong press:香港城市大學出版社
 city university of hong kong school of law:香港城市大學法律學院
 city university of hong kong:香港城市大学
 city university of hong kong:香港城市大學
+city university of hong-kong:香港城市大学
+city university of hong-kong:香港城市大學
+city university of london:伦敦城市大学
+city university of london:倫敦城市大學
 city university of macau new campus (planning):澳門城市大學新校舍 (規劃中)
 city university of macau:城市大學
 city university of macau:澳門城市大學
 city university of macau:澳门城市大学
 city university of new york and the university of california:纽约市立大学和加利福尼亚大学
 city university of new york system:纽约市立大学系统
+city university of new york:紐約城市大學
+city university of new york:纽约城市大学
 city university of new york:纽约市立大学
+city university of seattle:西雅图城市大学
+city university of seattle:西雅圖城市大學
+city university of wenzhou:温州城市大学
 city university professor:城市大学教授
 city university:城市大学
 city university:城市大學
@@ -7672,6 +7872,7 @@ city-state athens:城邦雅典
 city-state country:城邦国家
 city-state democracy:城邦民主
 city-state network:城邦网络
+city-state of athens:雅典城邦
 city-state politics:城邦政治
 city-state republic:城邦共和国
 city-state should be:城邦应该是
@@ -8614,6 +8815,7 @@ civil aviation noise:民用航空噪音
 civil aviation northeast:民用航空东北
 civil aviation officials:民用航空官员
 civil aviation organisation:民用航空组织
+civil aviation organization of iran:伊朗民用航空组织
 civil aviation organization:民用航空组织
 civil aviation organizations:民用航空组织
 civil aviation products:民用航空产品
@@ -8645,6 +8847,12 @@ civil aviation:民用航空
 civil awards and decorations:民事勋章
 civil code and bankruptcy:民法典和破产
 civil code draft:民法典草案
+civil code of argentina:阿根廷民法典
+civil code of france:法国民法典
+civil code of france:法國民法典
+civil code of germany:德国民法典
+civil code of germany:德國民法典
+civil code of japan:日本民法典
 civil code of the people's republic of china:中华人民共和国民法典
 civil code part:民法典部分
 civil code:民法典
@@ -8853,6 +9061,10 @@ civil engineering with management:土木工程与管理
 civil engineering with modern language:土木工程与现代语言
 civil engineering work:土木工程工作
 civil engineering:土木工程
+civil ensign of australia:澳大利亚民船旗
+civil ensign of fiji:斐济民船旗
+civil ensign of new zealand:紐西蘭民船旗
+civil ensign of the united kingdom:英国民船旗
 civil ensign:民船旗
 civil equality:公民的平等
 civil flag:民用旗
@@ -9088,6 +9300,7 @@ civil service housing:公教住宅
 civil service including:公职人员包括
 civil service of japan:日本公務員
 civil service of the people's republic of china:中华人民共和国公务员
+civil service of the state:国家公职人员
 civil service protection and training commission:公務人員保障暨培訓委員會
 civil service retirement age:公职人员退休年龄
 civil service retirement:公职人员退休
@@ -9286,6 +9499,11 @@ civil war monument:内战纪念碑
 civil war movie:内战电影
 civil war museum:内战博物馆
 civil war novel:内战小说
+civil war of el salvador:萨尔瓦多内战
+civil war of finland:芬兰内战
+civil war of tajikistan:塔吉克内战
+civil war of tajikistan:塔吉克斯坦内战
+civil war of the united states:美国内战
 civil war of wa:倭國大亂
 civil war or international conflict:内战或国际冲突
 civil war or revolution:内战或革命

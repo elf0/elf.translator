@@ -192,6 +192,7 @@ ba'an bridge:八安大桥(清水街)
 ba'an bridge:八安大橋
 ba'an bridge:八安大橋(清水街)
 ba'an:岜安
+ba'ath party of syria:敘利亞阿拉伯復興社會黨
 ba'ath party:阿拉伯復興社會黨
 ba'athism:阿拉伯复兴社会主义
 ba'athist iraq:伊拉克复兴党政权
@@ -1458,19 +1459,51 @@ bachelor graduates:学士毕业生
 bachelor honor:学士荣誉
 bachelor information technology:学士信息技术
 bachelor of accountancy:會計學學士
+bachelor of accounting:会计学学士
+bachelor of agriculture:农学学士
 bachelor of applied science:應用科學學士
+bachelor of architecture:建筑学士
+bachelor of art:艺术学士
 bachelor of arts and bachelor of laws:文学士和法学学士
 bachelor of arts:文学士
+bachelor of business administration:工商管理学士
 bachelor of business administration:工商管理學學士
+bachelor of civil engineering:土木工程学士
 bachelor of computer science:计算机科学学士
+bachelor of economics:經濟學学士
 bachelor of economics:经济学学士
+bachelor of education:教育学士
 bachelor of education:教育學學士
 bachelor of engineering:工学学士
+bachelor of engineering:工程学学士
+bachelor of human resource management:人力资源管理学士
+bachelor of information management:信息管理学士
+bachelor of journalism:新闻学学士
+bachelor of jurisprudence:法学学士
+bachelor of law:法律学士
 bachelor of laws:法学学士
+bachelor of laws:法律学士
+bachelor of literature:文学学士
+bachelor of management:管理学学士
+bachelor of mathematics:数学学士
+bachelor of mechanical engineering:机械工程学士
+bachelor of medicine:医学学士
+bachelor of music education:音乐教育学士
+bachelor of music:音乐学士
+bachelor of nursing:护理学学士
+bachelor of pedagogy:教育学学士
 bachelor of philosophy:哲学学士
+bachelor of physical education:体育教育学士
 bachelor of science:理学士
 bachelor of science:理學學士
+bachelor of science:科学学士
+bachelor of social science:社会科学学士
 bachelor of social science:社會科學學士
+bachelor of software engineering:软件工程学士
+bachelor of technology:技术学士
+bachelor of technology:科技学士
+bachelor of theology:神学学士
+bachelor of theology:神學学士
 bachelor of theology:神學學士
 bachelor offer:学士提供
 bachelor or master's degree:学士或硕士
@@ -1735,6 +1768,7 @@ back mountain gorilla was killed:背山地大猩猩被杀
 back mountain gorilla:背山地大猩猩
 back mountain:背山
 back muscle:背肌肉
+back of the mountain:山背
 back office include:後勤辦公室包括
 back office:後勤辦公室
 back oil:背油
@@ -6651,7 +6685,12 @@ badge logo:徽章标志
 badge look:徽章看
 badge man:徽章人
 badge mix:徽章混合
+badge of jersey:泽西岛徽章
+badge of jersey:澤西島徽章
+badge of jersey:澤西徽章
 badge of shame:羞恥徽章
+badge of shame:羞耻徽章
+badge of tokelau:托克劳徽章
 badge of tokelau:托克勞徽章
 badge print:徽章打印
 badge printing:徽章印刷
@@ -6681,6 +6720,7 @@ badges help:徽章帮助
 badges influence:徽章影响
 badges of fury:不二神探
 badges of rank:徽章的等级
+badges of shame:羞耻徽章
 badges of the united states air force:美国空军徽章
 badges of the united states army:美國陸軍徽章
 badges of the united states marine corps:美國海軍陸戰隊技能章
@@ -6799,9 +6839,14 @@ badminton asia championships:亚洲羽毛球锦标赛
 badminton asia junior championships:亞洲青年羽毛球錦標賽
 badminton asia team championships:亞洲羽毛球團體錦標賽
 badminton asia:亞洲羽毛球聯合會
+badminton association of england:英格兰羽毛球协会
 badminton association of india:印度羽毛球协会
 badminton association of indonesia:全印度尼西亞羽毛球協會
+badminton association of indonesia:印尼羽毛球协会
+badminton association of indonesia:印度尼西亚羽毛球协会
+badminton association of japan:日本羽毛球协会
 badminton association of malaysia:馬來西亞羽毛球總會
+badminton association of malaysia:马来西亚羽毛球协会
 badminton association of thailand:泰国羽毛球协会
 badminton association:羽毛球协会
 badminton at the african games:全非運動會羽球比賽
@@ -7507,6 +7552,7 @@ bag of cement:袋的水泥
 bag of desiccant:袋的干燥剂
 bag of goldfish:袋子的金鱼
 bag of green silk:袋子的绿色丝绸
+bag of money:钱袋
 bag of words model:词袋模型
 bag offer:袋提供
 bag on:袋子上面
@@ -15936,9 +15982,11 @@ balance of compute:平衡的计算
 balance of cost:平衡的成本
 balance of customer relationship:平衡的客户关系
 balance of economic development:平衡的经济发展
+balance of energy:能量平衡
 balance of force:平衡的力量
 balance of nature and so on:生态平衡等等
 balance of nature:生态平衡
+balance of nature:自然平衡
 balance of nutrient:平衡的营养
 balance of payments and external debt:国际收支和外债
 balance of payments and international investment:国际收支和国际投资
@@ -15969,13 +16017,16 @@ balance of payments:国际收支
 balance of plant:電廠輔助設備
 balance of power is me:权力的平衡是我
 balance of power should be:权力的平衡应该是
+balance of power:力量平衡
 balance of power:权力的平衡
+balance of power:电力平衡
 balance of purpose:平衡的目的
 balance of skills:平衡的技能
 balance of support:平衡的支持
 balance of tea:平衡的茶
 balance of terror:恐怖平衡
 balance of trade:淨出口
+balance of trade:贸易平衡
 balance on the road:平衡在路上
 balance once:平衡一次
 balance one:平衡一
@@ -17513,7 +17564,10 @@ ball of cocaine:球的可卡因
 ball of death:球的死亡
 ball of development:球的发展
 ball of dust:球的尘
+ball of fire:火球
 ball of wax:球的蜡
+ball of wind:風球
+ball of wind:风球
 ball once:球一次
 ball only:球只有
 ball or another ball:球或另一个球
@@ -18271,7 +18325,10 @@ balsa puerto district:巴爾薩港區
 balsam garden:香脂花园
 balsam gland:香脂腺
 balsam of life:香脂的生活
+balsam of mecca:麦加香脂
 balsam of peru:秘魯香
+balsam of peru:秘魯香脂
+balsam of peru:秘鲁香脂
 balsam:香脂
 balsamic vinegar:意大利香醋
 balsaminaceae:凤仙花科
@@ -23657,6 +23714,9 @@ bank now has around:银行现在有大约
 bank now:银行现在
 bank object:银行对象
 bank of abyssinia gurdshola branch:abyssinia 银行 gurdshola 分行
+bank of agriculture:农业银行
+bank of albania:阿爾巴尼亞銀行
+bank of algeria:阿尔及利亚银行
 bank of america and jpmorgan chase:美國銀行和摩根大通
 bank of america center:美國銀行中心
 bank of america corporate center:美國銀行企業中心
@@ -23671,7 +23731,15 @@ bank of america stock:美國銀行股票
 bank of america tower:美国银行中心
 bank of america tower:美國銀行中心
 bank of america tower:美國銀行塔
+bank of america:美国银行
 bank of america:美國銀行
+bank of america:美洲銀行
+bank of america:美洲银行
+bank of amsterdam:阿姆斯特丹銀行
+bank of amsterdam:阿姆斯特丹银行
+bank of aotearoa:新西兰银行
+bank of asia:亚洲银行
+bank of asia:亞洲銀行
 bank of ayudhya:大城银行
 bank of bahrain and kuwait:巴林和科威特銀行
 bank of banks:银行的银行
@@ -23681,8 +23749,18 @@ bank of beijing:北京银行
 bank of beijing:北京银行(深圳分行营业部)
 bank of beijing:方正大厦
 bank of beijing:方正大廈
+bank of beirut:贝鲁特银行
+bank of bermuda:百慕達銀行
+bank of bilbao:毕尔巴鄂银行
+bank of bombay:孟买银行
+bank of boston:波士顿银行
+bank of botswana:波札那銀行
+bank of brazil:巴西銀行
+bank of brazil:巴西银行
 bank of canada study:加拿大銀行研究
 bank of canada:加拿大銀行
+bank of canada:加拿大银行
+bank of canton:廣州銀行
 bank of canton:廣東銀行
 bank of central african states:中部非洲国家银行
 bank of changsha:长沙银行
@@ -23752,6 +23830,7 @@ bank of china(yongqiao branch):中国银行埇桥分行
 bank of china. meihua shanzhuang sub-branch:中国银行 南京梅花山庄支行
 bank of china:zhōng guó yín háng
 bank of china:zhōngguó yínháng
+bank of china:中国銀行
 bank of china:中国银行
 bank of china:中国银行(台山通济路支行)
 bank of china:中国银行(工程大学支行)
@@ -23763,8 +23842,11 @@ bank of china:中国银行（济南分行）
 bank of china:中國銀行
 bank of china:中國銀行(氹仔支行)
 bank of china:中國銀行（濟南分行）
+bank of china:中國银行
 bank of china:銀行的中國
 bank of chongqing:重庆银行总行
+bank of commerce:商业銀行
+bank of commerce:商业银行
 bank of communication of china:交通银行
 bank of communication:交通银行
 bank of communications beijing:交通銀行北京
@@ -23790,8 +23872,12 @@ bank of cyprus international bank:塞浦路斯银行国际银行
 bank of cyprus international:塞浦路斯银行国际
 bank of cyprus overseas companies:塞浦路斯银行海外公司
 bank of cyprus overseas:塞浦路斯银行海外
+bank of cyprus:塞浦路斯銀行
 bank of cyprus:塞浦路斯银行
+bank of cyprus:賽普勒斯銀行
+bank of dalian:大连銀行
 bank of dalian:大连银行
+bank of denmark:丹麦银行
 bank of dongguan basketball center:东莞篮球中心
 bank of dongguan basketball centre:东莞银行篮球中心
 bank of dongguan international:東莞銀行（國際）
@@ -23833,34 +23919,65 @@ bank of england stock:英格兰银行股票
 bank of england today:英格兰银行今天
 bank of england will:英格兰银行会
 bank of england would:英格兰银行将
+bank of england:英格兰銀行
 bank of england:英格兰银行
+bank of england:英格蘭銀行
+bank of england:英格蘭银行
+bank of eritrea:厄利垂亞銀行
+bank of eritrea:厄立特里亚银行
 bank of estonia economist:爱沙尼亚银行经济学家
 bank of estonia still:爱沙尼亚银行仍然
+bank of estonia:愛沙尼亞銀行
+bank of estonia:愛沙尼亞银行
 bank of estonia:爱沙尼亚银行
+bank of finland:芬兰银行
 bank of finland:芬蘭銀行
 bank of france:法兰西银行
+bank of georgia:格鲁吉亚银行
+bank of ghana:迦納銀行
 bank of greece note:希腊银行注意
 bank of greece:希腊银行
+bank of greece:希臘銀行
 bank of guangzhou tower:廣州銀行大廈
 bank of guangzhou:广州银行
 bank of guizhou:贵州银行
 bank of guyana:圭亚那银行
+bank of guyana:蓋亞那銀行
+bank of handan:邯郸银行
 bank of hangzhou and bank of nanjing:杭州银行和南京银行
+bank of hangzhou:杭州銀行
 bank of hangzhou:杭州银行
 bank of harbin (qiqihar branch):哈尔滨银行（齐齐哈尔分行）
 bank of harbin (qiqihar branch):哈爾濱銀行（齊齊哈爾分行）
+bank of hawaii:夏威夷銀行
 bank of hawaii:夏威夷銀行股份
+bank of hawaii:夏威夷银行
+bank of holland:荷兰银行
+bank of holland:荷蘭銀行
+bank of hong kong:香港銀行
 bank of hubei:湖北银行
+bank of india:印度銀行
+bank of indonesia:印尼銀行
+bank of indonesia:印度尼西亚银行
+bank of indonesia:印度尼西亞銀行
 bank of iraq:伊拉克银行
 bank of ireland accept:爱尔兰银行接受
 bank of ireland push:爱尔兰银行推
 bank of ireland theatre:爱尔兰银行剧院
+bank of ireland:愛爾蘭銀行
+bank of ireland:愛爾蘭银行
 bank of ireland:爱尔兰银行
+bank of israel:以色列銀行
 bank of israel:以色列银行
 bank of italy became:意大利银行成为
 bank of italy estimate:意大利银行估计
+bank of italy:意大利銀行
 bank of italy:意大利银行
+bank of italy:義大利銀行
+bank of iwate:岩手銀行
+bank of iwate:岩手银行
 bank of jamaica:牙买加银行
+bank of jamaica:牙買加銀行
 bank of japan and swiss national bank:日本银行和瑞士国家银行
 bank of japan began:日本银行开始
 bank of japan begin:日本银行开始
@@ -23871,46 +23988,96 @@ bank of japan meeting:日本银行会议
 bank of japan own:日本银行拥有
 bank of japan start:日本银行开始
 bank of japan will:日本银行会
+bank of japan:日本銀行
 bank of japan:日本银行
 bank of jerusalem complete:耶路撒冷银行完成
 bank of jerusalem:耶路撒冷银行
 bank of jiangsu:江苏银行
+bank of jiangsu:江蘇省銀行
 bank of jiangsu:江蘇銀行
+bank of jilin:吉林銀行
 bank of jilin:吉林银行
+bank of jiujiang:九江銀行
+bank of jiujiang:九江银行
 bank of kaohsiung:高雄銀行
+bank of kigali:基加利銀行
 bank of korea money museum:韩国银行货币博物馆
 bank of korea plans:韩国银行计划
 bank of korea report:韩国银行报告
+bank of korea:朝鲜银行
 bank of korea:韩国银行
 bank of kyoto:京都銀行
+bank of kyoto:京都银行
 bank of latvia:拉脫維亞銀行
+bank of latvia:拉脱维亚银行
+bank of lebanon:黎巴嫩銀行
+bank of lebanon:黎巴嫩银行
+bank of lithuania:立陶宛銀行
 bank of lithuania:立陶宛银行
+bank of manhattan:曼哈頓銀行
+bank of mauritius:模里西斯银行
+bank of mauritius:毛里求斯银行
 bank of mauritius:毛里裘斯銀行
 bank of mexico today:墨西哥银行今天
+bank of mexico:墨西哥銀行
 bank of mexico:墨西哥银行
 bank of mongolia:蒙古銀行
+bank of mongolia:蒙古银行
 bank of montreal head office:蒙特利尔银行总行大楼
 bank of montreal national historic site:蒙特利尔银行国家历史遗址
 bank of montreal:滿地可銀行
+bank of montreal:蒙特利尔银行
+bank of montreal:蒙特利爾銀行
+bank of montréal:蒙特利尔银行
+bank of montréal:蒙特利爾銀行
+bank of mozambique:莫桑比克銀行
+bank of namibia:納米比亞銀行
 bank of nanjing:南京银行
 bank of new england:新英格兰银行
+bank of new york mellon:纽约梅隆银行
+bank of new york:紐約銀行
+bank of new york:纽约银行
+bank of new zealand:新西兰银行
 bank of ningbo:宁波银行
+bank of ningbo:寧波銀行
 bank of north america:北美银行
+bank of norway:挪威銀行
+bank of norway:挪威银行
 bank of nova scotia:银行的新斯科舍省
 bank of panshin:板信商業銀行
 bank of papua new guinea:巴布亚新几内亚银行
+bank of papua new guinea:巴布亞新幾內亞銀行
+bank of papua new guinea:巴布亞紐幾內亞銀行
+bank of pennsylvania:宾夕法尼亚银行
+bank of poland:波兰银行
+bank of portugal:葡萄牙銀行
+bank of portugal:葡萄牙银行
 bank of qingdao:青岛银行
+bank of rome:罗马银行
+bank of rome:羅馬銀行
+bank of russia:俄罗斯银行
+bank of russia:俄羅斯銀行
 bank of russia:银行的俄罗斯
 bank of saint george:圣乔治银行
 bank of scotland:苏格兰银行
+bank of scotland:蘇格蘭銀行
 bank of shanghai headquarters:上海银行大厦
 bank of shanghai:shànghǎi yínháng
 bank of shanghai:上海銀行
 bank of shanghai:上海银行
+bank of sierra leone:塞拉利昂銀行
 bank of singapore:新加坡銀行
+bank of slovenia:斯洛文尼亚银行
+bank of slovenia:斯洛文尼亞銀行
 bank of slovenia:斯洛維尼亞銀行
 bank of somaliland:索馬利蘭銀行
+bank of somaliland:索马里兰银行
+bank of south pacific:南太平洋银行
+bank of south sudan:南蘇丹銀行
 bank of spain:西班牙銀行
+bank of spain:西班牙银行
+bank of sweden:瑞典銀行
+bank of sweden:瑞典银行
 bank of taiwan (ministry of health and welfare):台灣銀行(健保署)
 bank of taiwan renwu branch:台銀仁武分行
 bank of taiwan-chiabei branch(nice plaza station):táiwānyínxíngjiāběifēnháng(nàisīguǎngchǎngzhàn)
@@ -23921,11 +24088,15 @@ bank of taiwan-chiayi branch:táiwānyínxíngjiāyìfēnháng
 bank of taiwan-chiayi branch:ㄊㄞˊㄨㄢㄧㄣˊㄒㄧㄥˊㄐㄧㄚㄧˋㄈㄣㄏㄤˊ
 bank of taiwan-chiayi branch:台湾银行嘉义分行
 bank of taiwan-chiayi branch:臺灣銀行嘉義分行
+bank of taiwan:台湾銀行
 bank of taiwan:台湾银行
+bank of taiwan:台灣銀行
 bank of taiwan:臺灣銀行
 bank of taiwan:臺銀人壽
+bank of taizhou:台州銀行
 bank of taizhou:台州银行
 bank of tanzania:坦桑尼亚银行
+bank of tanzania:坦桑尼亞銀行
 bank of thailand caution:泰国银行警告
 bank of thailand complete:泰国银行完成
 bank of thailand consider:泰国银行考虑
@@ -23934,15 +24105,34 @@ bank of thailand learning:泰国银行学习
 bank of thailand museum:泰国银行博物馆
 bank of thailand uses:泰国银行使用
 bank of thailand:泰国银行
+bank of thailand:泰國銀行
+bank of the nation:国家銀行
+bank of the nation:国家银行
 bank of the orient:建東銀行
+bank of the people:人民銀行
+bank of the people:人民银行
 bank of the republic of haiti:海地共和国银行
 bank of the ryukyus:琉球銀行
 bank of the south:南方银行
+bank of the u.s.:美国银行
+bank of the united states:美国银行
+bank of tianjin:天津銀行
 bank of tianjin:天津银行
+bank of tibet:西藏銀行
 bank of tibet:西藏银行
+bank of tokyo:东京银行
+bank of tokyo:東京銀行
+bank of toronto:多伦多银行
+bank of uganda:乌干达银行
 bank of uganda:烏干達銀行
+bank of united states:美国银行
+bank of united states:美國銀行
+bank of united states:美國银行
+bank of venezuela:委内瑞拉银行
+bank of west africa:西非银行
 bank of wood:银行的木头
 bank of yokohama:橫濱銀行
+bank of zambia:尚比亞銀行
 bank offer:銀行提供
 bank offer:银行提供
 bank office:银行办公室
@@ -24590,6 +24780,7 @@ bankruptcy negotiations:破产谈判
 bankruptcy not his fault:破产不是他的错
 bankruptcy not once:破产不是一次
 bankruptcy not:破产不是
+bankruptcy of lehman brothers:雷曼兄弟破产
 bankruptcy of lehman brothers:雷曼兄弟迷你債券事件
 bankruptcy office:破產辦公室
 bankruptcy or can't:破产或不能
@@ -25043,6 +25234,7 @@ banks notice:银行注意
 banks now hold:银行现在拥有
 banks now:银行现在
 banks of course:银行当然
+banks of iceland:冰岛银行
 banks of snow:银行的雪
 banks offer bonus:银行提供奖金
 banks offer international services:银行提供国际服务
@@ -28944,6 +29136,8 @@ baptisten kerk:浸礼宗教会
 baptistenkirche:浸礼宗教会
 baptisterium san giovanni:洗禮堂
 baptistery of neon:尼安洗礼堂
+baptistery of parma:帕爾馬洗禮堂
+baptistery of pisa:比薩洗禮堂
 baptistery:洗禮堂
 baptisti kirik:浸礼宗教会
 baptistický kostel:浸礼宗教会
@@ -29281,6 +29475,9 @@ bar nightlife:酒吧夜生活
 bar none:酒吧没有
 bar of all revelation:酒吧的所有啟示
 bar of all:酒吧的所有
+bar of gold:金巴爾
+bar of gold:金条
+bar of ireland:愛爾蘭酒吧
 bar of users:条的用户
 bar offer:酒吧提供
 bar once:酒吧一次
@@ -30049,6 +30246,7 @@ barber hesitate:理发师犹豫
 barber institute:理发师学院
 barber know:理发师知道
 barber look:理发师看
+barber of seville:塞维利亚理发师
 barber or hairdresser:理发师或美发师
 barber paradox:理发师悖论
 barber perch:胸點梅鱸
@@ -30085,6 +30283,8 @@ barbian:巴尔比亚诺
 barbianello:巴尔比亚内洛
 barbican centre:巴比肯藝術中心
 barbican estate:巴比肯屋村
+barbican of kraków:克拉科夫瓮城
+barbican of warsaw:华沙瓮城
 barbican tube station:巴比肯站
 barbican:瓮城
 barbie also receive:芭比娃娃也收到
@@ -31632,6 +31832,11 @@ baron mordo:莫度男爵
 baron mount:男爵登上
 baron munchausen:閔希豪森男爵
 baron nearly:男爵几乎
+baron of breda:布雷达男爵
+baron of empire:帝国男爵
+baron of hell:地狱男爵
+baron of hell:地獄男爵
+baron of renfrew:倫弗魯男爵
 baron or baron:男爵或男爵
 baron own:男爵拥有
 baron package:男爵包
@@ -31911,6 +32116,7 @@ barrel naphthenic acid:桶环烷酸
 barrel northeast:桶东北
 barrel of honey:桶的蜂蜜
 barrel of oil:桶的油
+barrel of oil:油桶
 barrel of talc:桶的滑石
 barrel oil:桶油
 barrel one:桶一
@@ -33326,6 +33532,7 @@ baseball experts:棒球专家
 baseball factory:棒球工廠
 baseball families:棒球家庭
 baseball federation of asia:亞洲棒球總會
+baseball federation of japan:日本棒球联盟
 baseball federation:棒球联盟
 baseball feel:棒球感觉
 baseball field of pingzhen dist.:píngzhènbàngqiúchǎng
@@ -38721,6 +38928,15 @@ basic law for the federal republic of germany:德意志聯邦共和國基本法
 basic law give:基本法给
 basic law hopes:基本法希望
 basic law library:基本法图书馆
+basic law of germany:德国基本法
+basic law of germany:德國基本法
+basic law of hong kong:香港基本法
+basic law of macao:澳門基本法
+basic law of macao:澳门基本法
+basic law of macau:澳門基本法
+basic law of macau:澳门基本法
+basic law of oman:阿曼基本法
+basic law of saudi arabia:沙烏地阿拉伯基本法
 basic law of saudi arabia:沙特阿拉伯基本法
 basic law prohibit:基本法禁止
 basic law require:基本法要求
@@ -39878,6 +40094,7 @@ basilica minore di nostra signora dei miracoli di caacupé:卡库佩奇迹圣母
 basilica minore di nostra signora dei miracoli di caacupé:卡庫佩奇蹟聖母小教堂
 basilica of bom jesus:慈悲耶稣大殿
 basilica of candelaria:坎德拉里亚圣殿
+basilica of constantine:君士坦丁巴西利卡
 basilica of jesus de medinaceli:梅迪纳塞利耶稣圣殿
 basilica of jesus the adolescent:青年耶穌聖殿
 basilica of maxentius:君士坦丁大会堂
@@ -39907,6 +40124,7 @@ basilica of saint mary major:聖母大殿
 basilica of saint mary of the chorus:圣母圣殿
 basilica of saint paul outside the walls:城外圣保禄大殿
 basilica of saint paul outside the walls:城外圣保罗教堂
+basilica of saint peter:圣彼得巴西利卡
 basilica of saint remi:圣勒弥爵圣殿
 basilica of saint servatius:圣瑟法斯圣殿
 basilica of saint titus:圣提多教堂（公元前6世纪《哥提那法案》）
@@ -39916,6 +40134,7 @@ basilica of saints nazarius and celsus:圣纳扎留斯圣塞尔苏斯圣殿
 basilica of san bernardino:圣伯尔纳定圣殿
 basilica of san frediano:圣弗雷迪亚诺圣殿
 basilica of san gaudenzio:圣高登扎奥大殿
+basilica of san pedro:圣彼得巴西利卡
 basilica of san saturnino:聖撒多寧聖殿
 basilica of san simpliciano:圣星波里新圣殿
 basilica of san vitale:聖維塔堂
@@ -40056,6 +40275,7 @@ basket hap:磚紋臼齒麗鯛
 basket hilted sword:笼手剑
 basket interference:籃上干擾
 basket message:籃訊息
+basket of fruit:水果籃
 basket of stock:籃的股票
 basket star:蔓蛇尾目
 basket:籃
@@ -40132,6 +40352,9 @@ basketball as:篮球当作
 basketball assistant coach:篮球助理教练
 basketball assistant:篮球助理
 basketball association history:篮球协会历史
+basketball association of america:美国篮球协会
+basketball association of america:美洲篮球协会
+basketball association of the philippines:菲律宾篮球协会
 basketball association:篮球协会
 basketball at the asian games:亞洲運動會籃球比賽
 basketball at the sea games:东南亚运动会篮球比赛
@@ -40637,6 +40860,7 @@ basque princess:巴斯克公主
 basque province:巴斯克省
 basque rather than:巴斯克而不是
 basque region and catalonia:巴斯克地区和加泰罗尼亚
+basque region of spain:西班牙巴斯克地区
 basque region:巴斯克区域
 basque region:巴斯克地区
 basque regional government:巴斯克地区政府
@@ -41919,6 +42143,7 @@ batman ninja:忍者蝙蝠俠
 batman ninja:蝙蝠侠忍者
 batman now:蝙蝠侠现在
 batman of course:蝙蝠侠当然
+batman of the future:未来蝙蝠侠
 batman once:蝙蝠侠一次
 batman or spider:蝙蝠侠或蜘蛛
 batman or superman:蝙蝠侠或超人
@@ -42108,6 +42333,7 @@ battalion landing:营着陆
 battalion leader:营领袖
 battalion nest:营巢
 battalion now:营现在
+battalion of death:死亡营
 battalion of dragon:营的龙
 battalion online propaganda show:营在线宣传显示
 battalion online:营在线
@@ -43347,14 +43573,18 @@ battle might not:战役可能不是
 battle mode:战役模式
 battle monument:战役纪念碑
 battle node:战役节点
+battle of aachen:亚琛战役
 battle of aachen:亞琛戰役
 battle of abbeville:阿布維爾戰役
+battle of abbeville:阿布维尔战役
 battle of abensberg:阿本斯贝格之战
+battle of abensberg:阿本斯贝格战役
 battle of abritus:阿伯里圖斯戰役
 battle of abydos:阿卑多斯戰役
 battle of actium:阿克提姆海战
 battle of ad decimum:阿德底斯姆战役
 battle of aden airport:亞丁機場戰役
+battle of aden:亚丁战役
 battle of aden:亞丁戰役
 battle of adrianople:阿德里安堡戰役
 battle of adwa:阿杜瓦战役
@@ -43364,6 +43594,7 @@ battle of agincourt:阿金库尔战役
 battle of agnadello:阿尼亞代洛戰役
 battle of agusan hill:阿古桑山戰鬥
 battle of ain jalut:阿音札鲁特战役
+battle of aitape:艾塔佩战役
 battle of aizkraukle:埃兹卡乌克战役
 battle of aizu:會津戰爭
 battle of ajnadayn:阿季奈迪恩战役
@@ -43380,105 +43611,160 @@ battle of albemarle sound:阿爾伯馬爾灣海戰
 battle of alberta:阿尔伯塔德比
 battle of albuera:拉阿尔武埃拉之战
 battle of alcatraz:阿爾卡特拉斯島戰鬥
+battle of alcolea:阿尔科莱阿战役
 battle of aldie:奧迪之役
 battle of aldy:蘇扎戰役
 battle of aleppo:阿勒颇战役
 battle of alesia:阿莱西亚之战
+battle of alessandria:亚历山大战役
+battle of alexandria:亚历山大战役
+battle of algiers:阿尔及尔战役
 battle of algiers:阿爾及爾戰役
 battle of aljubarrota:阿尔茹巴罗塔战役
 battle of allenstein:阿伦施泰因之战
+battle of almansa:阿尔曼萨战役
 battle of almansa:阿爾曼薩戰役
+battle of alnwick:阿尼克战役
+battle of alsace:阿尔萨斯战役
 battle of ambur:安布爾戰役
+battle of amiens:亚眠战役
 battle of amorgos:阿瑪格斯戰役
 battle of an:鞌之戰
 battle of anadan:阿纳丹战斗
 battle of anchialus:安基阿盧斯戰役
 battle of ancona:安科納戰役
+battle of ancyra:安卡拉战役
 battle of andernach:安德纳赫之战
+battle of andong:安东战役
 battle of andong:安東戰役
 battle of anegawa:姊川之戰
 battle of angamos:安加莫斯战役
 battle of angaur:安加爾戰役
+battle of anghiari:安吉亚里战役
+battle of angol:安哥拉战役
+battle of angora:安卡拉战役
+battle of angora:安哥拉战役
 battle of ankara:安卡拉之战
+battle of ankara:安卡拉战役
 battle of anqing:安庆之战
 battle of antietam:安提頓戰役
 battle of antioch on the meander:门德雷斯河畔安条克战役
 battle of antonov airport:安托諾夫機場爭奪戰
 battle of anzio:鵝卵石行動
 battle of aquia creek:阿維亞溪之役
+battle of ar-raqqah:拉卡战役
 battle of arausio:阿勞西奧戰役
 battle of ardres:阿德爾戰役
+battle of argentoratum:斯特拉斯堡战役
 battle of arita nakaide:有田中井手之戰
 battle of arnemuiden:阿訥默伊登海戰
 battle of arnhem:阿纳姆战役
 battle of arques:阿爾克戰役
+battle of arracourt:阿拉库尔战役
+battle of arras:阿拉斯战役
 battle of arras:阿拉斯戰役
 battle of arsuf:阿爾蘇夫戰役
 battle of artemivsk:阿爾特米夫斯克戰役
 battle of artenay:阿尔特奈战役
 battle of artois:阿圖瓦戰役
 battle of arzobispo:阿索维斯波之战
+battle of ascalon:阿斯卡隆战役
 battle of ascalon:阿斯卡隆戰役
 battle of asculum:阿斯庫路姆戰役
+battle of aspern:阿斯珀恩战役
 battle of atchoukpa:阿丘克帕戰役
+battle of atlanta:亚特兰大战役
 battle of attu:阿圖島戰役
 battle of auberoche:歐布羅什戰役
+battle of auerstedt:奥尔施泰特战役
+battle of augsburg:奥格斯堡战役
+battle of augusta:奥格斯堡战役
 battle of auray:欧赖战役
+battle of austerlitz:奥斯特利茨战役
 battle of austerlitz:奧斯特利茨戰役
 battle of avarayr:阿瓦拉尔战役
+battle of avdiivka:阿夫迪伊夫卡战役
 battle of avdiivka:阿夫迪伊夫卡戰役
+battle of avdiivka:阿夫迪夫卡战役
 battle of awazu:粟津之戰
 battle of ayacucho:阿亚库乔战役
+battle of azaz:阿扎兹战役
 battle of ba gia:巴嘉戰役
 battle of ba:巴西之战
 battle of badr:巴德尔之役
 battle of badung strait:巴塘海峡战役
 battle of baekgang:白江口之战
+battle of bagdad:巴格达战役
+battle of baghdad:巴格达战役
 battle of baghuz fawqani:巴古斯村戰役
 battle of baguashan:八卦山之役
 battle of baguio:碧瑤戰役
+battle of baguio:碧瑶战役
 battle of baideng:白登之围
 battle of baitag bogd:北塔山事件
+battle of bakhmach:巴赫马奇战役
+battle of bakhmut:巴赫穆特战役
 battle of bakhmut:巴赫穆特戰役
+battle of baku:巴库战役
 battle of baku:巴庫戰役
+battle of balaclava:巴拉克拉瓦战役
 battle of balaclava:巴拉克拉瓦戰役
+battle of balaklava:巴拉克拉瓦战役
 battle of ball's bluff:李斯堡之役
+battle of baltimore:巴尔的摩战役
 battle of baltimore:巴爾的摩戰役
 battle of ban me thuot:邦美蜀戰役
 battle of bannockburn:班诺克本战役
 battle of banquan:阪泉之战
 battle of bantry bay:班特里灣海戰
 battle of baotou:包头战役
+battle of bapaume:巴波姆战役
 battle of bapheus:巴菲烏斯之戰
 battle of barari ghat:伯拉里加特戰役
 battle of barnet:巴内特战役
 battle of basra:巴士拉戰役
 battle of bassignano:巴西尼亞諾戰役
+battle of bastogne:巴斯托涅战役
+battle of bautzen:包岑战役
 battle of bazeilles:巴泽耶战役
 battle of bear paw:贝尔波战役
 battle of beas river:比亞斯河戰役
 battle of beaufort:博福特戰役
+battle of beaugency:博让西战役
 battle of beaune la rolande:博讷拉罗朗德战役
 battle of bedriacum:貝德里亞庫姆戰役
 battle of beehive:蜂巢之战
+battle of beersheba:贝尔谢巴战役
 battle of beicang:北仓之战
 battle of beijing:北京之戰
+battle of beijing:北京战役
+battle of belgium:比利时战役
 battle of belleau wood:贝洛森林战役
 battle of belmont:伯蒙特之役
 battle of benavente:贝纳文特之战
+battle of benevento:贝内文托战役
+battle of beneventum:贝内文托战役
 battle of berdiansk:别尔江斯克战役
 battle of berestechko:貝雷斯泰奇科戰役
 battle of berezina:別列津納河戰役
+battle of berezina:别列津纳河战役
+battle of bergen:卑尔根战役
+battle of bergen:蒙斯战役
 battle of bergerac:貝傑拉克戰役
+battle of bergerac:贝尔热拉克战役
+battle of berlin:柏林战役
 battle of berlin:柏林戰役
 battle of beverhoutsveld:贝弗豪茨费尔德战役
 battle of bi:邲之战
 battle of biak:比亞克島戰役
+battle of białystok:比亚韦斯托克战役
 battle of bibracte:比布拉克特战役
 battle of bicocca:比科卡会战
 battle of big bethel:大伯特利之役
 battle of big black river bridge:大黑河橋之戰
+battle of big hole:大洞战役
 battle of bir hakeim:比爾哈基姆戰役
+battle of bismarck sea:俾斯麦海战役
 battle of blaauwberg:布勞烏堡戰役
 battle of blackburn's ford:布力般淺灘之役
 battle of blackstock's farm:布萊克斯托克農場戰役
@@ -43490,6 +43776,7 @@ battle of bloody ridge:血染岭战斗
 battle of blore heath:布洛希思之役
 battle of boju:柏舉之戰
 battle of boma:白马之战
+battle of borneo:婆罗洲战役
 battle of borodino:博羅季諾戰役
 battle of bosworth field:博斯沃思原野戰役
 battle of boulgarophygon:保加罗菲格战役
@@ -43497,29 +43784,50 @@ battle of bound brook:邦德溪戰役
 battle of bouvines:布汶战役
 battle of bowang:博望坡之戰
 battle of brandywine:布兰迪万河战役
+battle of brest:布雷斯特战役
 battle of brignais:布里涅战役
 battle of brihuega:布里韋加戰役
 battle of britain:不列顛戰役
+battle of britain:英国战役
+battle of brovary:布罗瓦里战役
 battle of brovary:布羅瓦雷戰役
 battle of brunanburh:布魯南博爾之戰
+battle of bryansk:布良斯克战役
 battle of bubiyan:布比延島海戰
+battle of bucha:布恰战役
 battle of bucha:布查戰役
+battle of buda:布达战役
+battle of budapest:布达佩斯战役
 battle of buir lake:明太祖第六次北伐
 battle of bukgwan:北關大捷
+battle of bukhara:布哈拉战役
+battle of bukit chandu:鸦片山战役
 battle of bukit timah:武吉知馬戰役
+battle of bunker hill:邦克山战役
 battle of bunker hill:邦克山戰役
+battle of burma:緬甸战役
+battle of burma:缅甸战役
+battle of busan:釜山战役
 battle of busan:釜山浦海戰
 battle of buxar:布克萨尔战役
 battle of byeokjegwan:碧蹄館之戰
+battle of błonie:布沃涅战役
 battle of cable street:卡布尔街之战
+battle of caen:卡昂战役
 battle of cagayan de misamis:卡加延德米薩米斯戰鬥
+battle of cajamarca:卡哈馬卡战役
 battle of cajamarca:卡哈马卡战役
 battle of calais:加来战役
 battle of calcinato:卡爾奇納托戰役
+battle of caldiero:卡尔迪耶罗战役
+battle of callao:卡亚俄战役
+battle of callinicum:拉卡战役
 battle of callinicus:卡利基努斯战役
 battle of caltavuturo:卡尔塔武图罗战役
 battle of camaret:卡馬雷戰役
 battle of camas creek:卡默斯溪战役
+battle of cambrai:康布雷战役
+battle of camden:卡姆登战役
 battle of camden:卡姆登戰役
 battle of camlann:剑栏之战
 battle of camp allegheny:亞利加尼營之戰
@@ -43539,16 +43847,24 @@ battle of cape spartivento:斯巴提芬托角海战
 battle of caporetto:卡波雷托戰役
 battle of carchemish:卡赫美士战役
 battle of cardedeu:卡德德乌之战
+battle of cardedeu:卡德德乌战役
 battle of carillon:鐘琴堡戰役
 battle of carrhae:卡莱战役
+battle of cartagena de indias:卡塔赫纳战役
+battle of cartagena:卡塔赫纳战役
 battle of casal novo:卡薩爾諾夫戰役
 battle of caseros:卡塞罗斯战役
+battle of cassino:卡西诺战役
 battle of castelfranco veneto:威尼托自由堡之战
+battle of castelnaudary:卡斯泰尔诺达里战役
 battle of castiglione:卡斯蒂廖内战役
 battle of castillon:卡斯蒂永战役
 battle of castle itter:伊特尔堡之战
+battle of castlebar:卡斯尔巴战役
 battle of castlebar:卡斯爾巴戰役
+battle of castricum:卡斯特里克姆战役
 battle of castricum:卡斯特里克姆戰役
+battle of caucasus:高加索战役
 battle of central henan:豫中会战
 battle of cephalonia:凯法利尼亚战役
 battle of cer:策爾戰役
@@ -43558,48 +43874,72 @@ battle of chaksana:查克沙納戰役
 battle of chaldiran:查尔迪兰战役
 battle of chamdo:昌都战役
 battle of champaubert:尚波贝尔之战
+battle of champaubert:尚波贝尔战役
+battle of champtoceaux:尚托索战役
 battle of chancellorsville:錢斯勒斯維爾戰役
 battle of chang'an:李郭之亂
 battle of changban:长坂坡之战
 battle of changde:常德会战
+battle of changde:常德战役
 battle of changhsing:火燒庄戰役
 battle of changping:长平之战
 battle of changsha:长沙会战
+battle of changsha:长沙战役
 battle of changshao:长勺之战
 battle of chantilly:尚蒂利战役
 battle of chapu:乍浦之战
+battle of charleroi:沙勒罗瓦战役
 battle of charleroi:沙勒羅瓦戰役
+battle of chasiv yar:恰西夫亚尔战役
 battle of chasiv yar:恰西夫亞爾戰役
 battle of chausa:楚烏薩戰役
 battle of chelsea creek:切爾西灣戰鬥
 battle of chemulpo bay:仁川海战
 battle of chengpu:城濮之战
 battle of cheoin:處仁城戰鬥
+battle of chernihiv:切尔尼戈夫战役
+battle of chernobyl:切尔诺贝利战役
 battle of chester station:卻斯特站之役
+battle of chełm:海乌姆战役
 battle of chiatung:步月樓戰役
 battle of chiayi:嘉義之役
 battle of chickamauga:奇卡莫加战役
 battle of chilcheollyang:漆川梁海戰
 battle of chinagodrar:奇内戈德拉之战
 battle of chippawa:奇帕瓦戰役
+battle of chippenham:奇彭纳姆战役
 battle of chipyong ni:砥平里之戰
 battle of chishui river:四渡赤水
+battle of chocim:霍京战役
+battle of chongqing:重庆战役
+battle of chornobyl:切尔诺贝利战役
 battle of chosin reservoir order of battle:长津湖战役参战部队序列
 battle of chosin reservoir:长津湖战役
 battle of chotusitz:霍图西采会战
+battle of christmas island:圣诞岛战役
 battle of christmas island:聖誕島戰役
 battle of chuenpi:穿鼻之战
 battle of chuisha:垂沙之戰
+battle of chuncheon:春川战役
 battle of chuncheon:春川戰役
 battle of chungju:彈琴臺之戰
 battle of civitate:奇維塔特戰役
 battle of clavijo:克拉維霍戰役
+battle of clavijo:克拉维霍战役
+battle of cocherel:科什雷勒战役
 battle of cocherel:科什雷勒戰役
 battle of cockpit point:科克皮特角之役
 battle of cold harbor:冷港之役
+battle of concepcion:康塞普西翁战役
+battle of concepción:康塞普西翁战役
+battle of constantinople:君士坦丁堡战役
+battle of copenhagen:哥本哈根战役
+battle of coral sea:珊瑚海战役
+battle of corinth:科林斯战役
 battle of coronel:科罗内尔海战
 battle of corunna:科魯尼亞戰役
 battle of corupedium:庫魯佩迪安戰役
+battle of coruña:拉科鲁尼亚战役
 battle of corycus:科里庫斯戰役
 battle of cos:科斯島戰役
 battle of cottonwood:卡顿伍德战役
@@ -43608,71 +43948,108 @@ battle of covadonga:科瓦東加戰役
 battle of cowpens:考彭斯戰役
 battle of crannon:克蘭農戰役
 battle of cravant:克拉旺戰役
+battle of crete:克里特岛战役
 battle of crete:克里特島戰役
+battle of crimea:克里米亚战役
 battle of crocus field:克羅庫斯平原戰役
 battle of culloden:卡洛登战役
 battle of cunaxa:库纳克萨战役
 battle of cynoscephalae:庫諾斯克法萊戰役
+battle of czarnobyl:切尔诺贝利战役
 battle of czarnowo:恰尔诺沃之战
 battle of dachen archipelago:大陳島撤退
 battle of dadaejin:多大浦之戰
 battle of dafei river:大非川之战
+battle of dakar:达喀尔战役
 battle of dakar:達喀爾戰役
 battle of dalan baljut:十三翼之战
 battle of dalinghe:大凌河之役
 battle of damascus:大马士革之战
+battle of damascus:大马士革战役
 battle of dan no ura:壇之浦之戰
 battle of dandanaqan:丹丹納干戰役
 battle of danghangpo:唐項浦海戰
+battle of dara:德拉省战役
+battle of dara:达拉战役
 battle of dara:達拉戰役
+battle of daraa:德拉省战役
 battle of dasman palace:達斯曼宮戰役
 battle of dawan cheng:达坂城之战
 battle of dazhongji:大中集战斗
 battle of debaltseve:傑巴利采沃戰役
+battle of debaltseve:杰巴利采沃战役
+battle of debaltseve:杰巴利采韦战役
+battle of debrecen:德布勒森战役
 battle of debrecen:德布勒森戰役
+battle of delhi:德里战役
+battle of demetrias:德米特里阿斯战役
+battle of demyansk:傑米揚斯克战役
 battle of denain:德南戰役
+battle of dengbu island:登步岛战役
 battle of dengbu island:登步島戰役
+battle of denmark:丹麦战役
+battle of derna:德尔纳战役
+battle of derne:德尔纳战役
 battle of dettingen:德廷根战役
 battle of dhale:達利戰役
 battle of diabaly:迪阿巴利戰鬥
 battle of diamond rock:鑽石岩海戰
 battle of didao:狄道之战
 battle of didgori:迪德格里战役
+battle of dien bien phu:奠边府战役
 battle of dien bien phu:奠邊府戰役
+battle of dieppe:迪耶普战役
 battle of dinant:迪南戰役
 battle of dinder:丁德爾戰役
 battle of dioubouldou:迪烏布爾杜戰役
+battle of diu:第乌战役
 battle of djebok:約伯克戰鬥
+battle of djerba:杰尔巴岛战役
+battle of dnieper:第聂伯河战役
 battle of dobro pole:多布羅峰戰役
 battle of dogger bank:多格爾沙洲海戰
+battle of dompaire:栋派尔战役
 battle of dompaire:棟派爾戰役
 battle of donbas:頓巴斯戰役
+battle of donbas:顿巴斯战役
+battle of donetsk airport:顿涅茨克机场战役
+battle of dong dang:同登战役
 battle of dong yin:東引海戰
 battle of dongkou:洞口之战
+battle of dongshan island:东山岛战役
 battle of dongshan:八六海戰
 battle of dongxing:東興之戰
 battle of douma:杜马战役
 battle of dranesville:恩斯維爾之役
+battle of dresde:德累斯顿战役
 battle of dresden:德勒斯登戰役
+battle of dresden:德累斯顿战役
 battle of dreux:德勒战役
 battle of dublin:都柏林战役
 battle of dulu:渡瀘之戰
 battle of dunkirk began:敦刻尔克战役开始
 battle of dunkirk begin:敦刻尔克战役开始
+battle of dunkirk:敦克爾克战役
 battle of dunkirk:敦刻尔克战役
 battle of dupplin moor:杜普林沼地之战
 battle of durbe:杜尔贝战役
+battle of durocortorum:兰斯战役
 battle of dutch harbor:荷蘭港戰役
 battle of dyrrhachium:底耳哈琴會戰
 battle of east chongwu:烏坵海戰
 battle of eastern henan:豫東戰鬥
 battle of ebelsberg:埃伯斯貝格戰役
+battle of ebersberg:埃伯斯贝格战役
 battle of eccles hill:埃克爾斯之役
 battle of edessa:埃德萨之战
 battle of edson's ridge:埃德森岭战役
+battle of el alamein:阿拉曼战役
 battle of el alamein:阿莱曼战役
+battle of el obeid:欧拜伊德战役
+battle of elchingen:埃尔兴根战役
 battle of elchingen:埃爾興根戰役
 battle of elizabeth city:伊麗莎白市之役
+battle of empress augusta bay:奥古斯塔皇后湾战役
 battle of empress augusta bay:奧古斯塔皇后灣海戰
 battle of endor:安鐸戰役
 battle of enerhodar:埃内尔霍达尔战役
@@ -43682,13 +44059,18 @@ battle of evesham:伊夫舍姆战役
 battle of eylau:埃劳战役
 battle of failaka:菲拉卡島戰役
 battle of fakashan:法卡山戰役
+battle of falkirk:福尔柯克战役
 battle of falkirk:福爾柯克之役
+battle of fallujah:费卢杰战役
 battle of famars:法马尔斯战役
 battle of fancheng:樊城之戰
+battle of fehrbellin:费尔贝林战役
 battle of fei river:淝水之戰
 battle of fengqiu:封丘之战
 battle of fengwudong:鳳梧洞戰役
 battle of fishing creek:釣魚溪戰役
+battle of flanders:佛兰德战役
+battle of fleurus:弗勒吕斯战役
 battle of fleurus:弗勒呂斯戰役
 battle of flodden:弗洛登战役
 battle of fontenoy:豐特努瓦戰役
@@ -43697,35 +44079,55 @@ battle of fornovo:福尔诺沃战役
 battle of fort bull:布爾堡戰役
 battle of fort donelson:唐納爾遜堡之戰
 battle of fort pillow:枕头堡之战
+battle of fort smith:史密斯堡战役
 battle of fort sumter:桑特堡戰役
+battle of fort sumter:萨姆特堡战役
 battle of fort washington:華盛頓堡攻城戰
+battle of fougères:富热尔战役
 battle of four lakes:四湖战役
+battle of france:法国战役
+battle of france:法國战役
 battle of france:法國戰役
 battle of frankenhausen:弗兰肯豪森战役
 battle of frankfurt:法蘭克福戰役
+battle of franklin:富兰克林战役
+battle of frastanz:弗拉斯坦茨战役
+battle of fredericksburg:弗雷德里克堡战役
 battle of fredericksburg:弗雷德里克堡戰役
 battle of freiburg:弗萊堡戰役
+battle of friedland:弗里德兰战役
 battle of friedland:弗里德蘭戰役
 battle of friedlingen:弗里德林根戰役
 battle of fuengirola:豐希羅拉戰役
+battle of fujian:福建战役
 battle of fujigawa:富士川之戰
 battle of fushun:撫清之戰
+battle of fuzhou:福州战役
 battle of fuzhou:馬江之役
 battle of gabiene:伽比埃奈戰役
 battle of gabon:加彭戰役
+battle of gabon:加蓬战役
 battle of gaixia:垓下之战
 battle of galicia:加利西亚战役
+battle of gangneung:江陵战役
 battle of gangut:甘古特会战
 battle of gaoliang river:高梁河之战
 battle of gaugamela:高加米拉戰役
 battle of gazala:加扎拉戰役
+battle of gela:杰拉战役
+battle of gemas:金马士战役
+battle of gembloux:让布卢战役
 battle of geok tepe:第二次盖奥克泰佩战役
 battle of george square:乔治广场之战
 battle of gerberoy:热尔伯鲁瓦战役
 battle of germantown:日耳曼敦战役
+battle of gerona:赫罗纳战役
 battle of gettysburg:蓋茨堡之役
+battle of ghazni:加兹尼战役
 battle of gia cuc:嘉庫戰役
+battle of girona:赫罗纳战役
 battle of glen shiel:格伦希尔战役
+battle of gniew:格涅夫战役
 battle of gnila lipa:格尼拉利帕河戰役
 battle of go cong:鵝貢戰役
 battle of gol zarriun:布哈拉之戰
@@ -43738,22 +44140,34 @@ battle of grand port:大港海戰
 battle of grauholz:格劳霍尔茨战役
 battle of gravelotte:格拉沃洛特战役
 battle of graz:格拉茨之战
+battle of graz:格拉茨战役
+battle of greece:希腊战役
+battle of greece:希臘战役
 battle of greenbrier river:格林布賴爾河之役
+battle of grodno:格罗德诺战役
+battle of grozny:格罗兹尼战役
 battle of grozny:格羅茲尼戰役
 battle of grunwald:格伦瓦德之战
 battle of guadalacete:瓜達拉塞提戰役
+battle of guadalcanal:瓜达尔卡纳尔岛战役
 battle of guadalete:瓜达莱特战役
 battle of guadarrama:瓜達拉馬戰役
+battle of guam:关岛战役
 battle of guam:關島戰役
 battle of guandu:官渡之战
 battle of guanghua:光化戰鬥
 battle of guangning:廣寧之戰
+battle of guangzhou:广州战役
 battle of guilford court house:吉爾福德縣府戰役
 battle of guiling:桂陵之战
+battle of gujrat:古吉拉特战役
 battle of gumbinnen:贡宾嫩战役
+battle of guningtou:古寧頭战役
 battle of guningtou:古寧頭戰役
 battle of haeju:海州海战
 battle of haengju:幸州山城之戰
+battle of hainan island:海南岛战役
+battle of hainan island:海南島战役
 battle of hainan island:海南島戰役
 battle of hakodate:箱館戰爭
 battle of halbe:哈爾伯戰役
@@ -43763,10 +44177,14 @@ battle of halmyros:阿尔米洛斯战役
 battle of hamakouladji:哈瑪科拉吉戰鬥
 battle of hampton roads:漢普頓錨地海戰
 battle of han river:汉水之战
+battle of hanau:哈瑙战役
 battle of hanau:哈瑙戰役
 battle of hancock:漢考克之役
 battle of handan:邯郸之战
+battle of handan:邯郸战役
 battle of hansan island:闲山岛海战
+battle of harbin:哈尔滨战役
+battle of hard:哈尔德战役
 battle of harem:哈利姆镇战役
 battle of harim:哈里姆战役
 battle of harlem heights:哈林高地戰役
@@ -43774,14 +44192,18 @@ battle of hartsville:赫斯維爾之役
 battle of hastenbeck:哈斯滕贝克战役
 battle of hastings began:黑斯廷斯之战开始
 battle of hastings:黑斯廷斯之战
+battle of hastings:黑斯廷斯战役
 battle of hatteras inlet batteries:哈爾及哈特拉斯堡之役
 battle of hattin:哈丁战役
 battle of havana:夏灣拿戰役
 battle of heartbreak ridge:伤心岭战役
 battle of hefei:合肥之戰
 battle of hel:海爾半島戰役
+battle of heligoland bight:黑尔戈兰湾战役
 battle of helm's deep:聖盔谷之戰
+battle of helsinki:赫尔辛基战役
 battle of hengyang:衡阳保卫战
+battle of hengyang:衡阳战役
 battle of heraclea:赫拉克利亞戰役
 battle of hernani:埃尔纳尼之战
 battle of hetsugigawa:戶次川之戰
@@ -43789,24 +44211,35 @@ battle of highbury:高貝利之戰
 battle of hitotoribashi:人取橋之戰
 battle of hlukhiv:赫卢希夫战役
 battle of hochkirch:霍克齊戰役
+battle of hochkirch:霍赫基希战役
 battle of hoengsong:横城战役
 battle of hohenfriedberg:霍恩弗里德贝格战役
+battle of hohenlinden:霍恩林登战役
 battle of hohenlinden:霍恩林登戰役
 battle of hoke's run:瀑布市之役
 battle of hokuetsu:北越戰爭
+battle of hollandia:荷兰战役
+battle of hollandia:荷蘭战役
 battle of holy apostles monastery:聖使徒修道院戰鬥
 battle of homs:霍姆斯战役
 battle of hong kong order of battle:香港保衛戰作戰序列
 battle of hong kong:香港保衛戰
+battle of hong kong:香港战役
 battle of hormozdgan:荷姆茲甘戰役
 battle of hosn:霍森村战斗
 battle of hostomel:霍斯托梅爾戰役
+battle of hoth:霍斯战役
+battle of huangqiao:黄桥战役
 battle of huangtiandang:黄天荡之战
+battle of hue:顺化战役
+battle of huete:韦特战役
+battle of huizhou:惠州战役
 battle of hulao pass:虎牢关之战
 battle of hulao:虎牢之戰
 battle of huliaipole:胡利亚伊波莱战役
 battle of humen shijing:虎門石井戰鬥
 battle of huoyi:霍邑之战
+battle of huế:顺化战役
 battle of hyelion and leimocheir:門德雷斯河谷戰役
 battle of ia drang:德浪河谷戰役
 battle of ichi no tani:一之谷之戰
@@ -43816,6 +44249,8 @@ battle of ilipa:伊利帕战役
 battle of ilovaisk:伊洛瓦伊斯克战役
 battle of imafuku:今福之戰
 battle of imenas:伊梅纳斯战斗
+battle of imjin river:临津江战役
+battle of imjin:临津江战役
 battle of imphal:英帕尔战役
 battle of in arab:阿拉伯內部戰鬥
 battle of inchon:仁川登陆
@@ -43827,36 +44262,55 @@ battle of irtysh river:额尔齐斯河之战
 battle of isandlwana:伊散德爾瓦納戰役
 battle of ishibashiyama:石橋山之戰
 battle of isly:伊斯利战役
+battle of ismailia:伊斯梅利亚战役
 battle of issus:伊蘇斯戰役
+battle of italy:意大利战役
 battle of ivankiv:伊万基夫战役
 battle of ivry:伊夫里战役
 battle of iwo jima:硫磺岛战役
+battle of iwo jima:硫磺島战役
+battle of izium:伊久姆战役
 battle of izium:伊久姆戰役
 battle of jangsari:长沙里登陆战
 battle of jao modo:昭莫多之战
 battle of jarama:哈拉马河战役
+battle of jargeau:雅尔若战役
 battle of jargeau:雅爾若戰役
+battle of jarosław:雅罗斯拉夫尔战役
 battle of jassin:雅辛戰役
+battle of java sea:爪哇海战役
 battle of jemappes:热马普战役
+battle of jena:耶拿战役
+battle of jericho:耶利哥战役
+battle of jerusalem:耶路撒冷战役
 battle of jiangxia:江夏之战
 battle of jianqiao:八一四空战
 battle of jianwei:建威之战
 battle of jieqiao:界橋之戰
 battle of jieting:街亭之戰
+battle of jieting:街亭战役
 battle of jiksan:稷山之戰
 battle of jinan:济南战役
 battle of jingxing:井陘之戰
 battle of jinyang:晉陽之戰
+battle of jinzhou:金州战役
+battle of jinzhou:锦州战役
+battle of jiujiang:九江战役
 battle of jiuliancheng:九連城之戰
 battle of julu:巨鹿之战
+battle of junik:尤尼克战役
 battle of junik:尤尼克戰役
 battle of jushi:車師之戰
 battle of jutland:日德兰海战
 battle of jwawon:坐原战役
+battle of kabul:喀布尔战役
 battle of kadesh:卡迭石战役
 battle of kaiyuan:开铁之战
+battle of kalach:卡拉奇战役
 battle of kalgan:张家口战役
+battle of kalisz:卡利什战役
 battle of kambula:坎布拉战役
+battle of kampar:金宝战役
 battle of kampar:金寶戰役
 battle of kampinos forest:坎皮諾斯森林戰役
 battle of kanagawa:神流川之戰
@@ -43869,33 +44323,46 @@ battle of kars:卡爾斯戰役
 battle of karuse:卡魯塞戰役
 battle of kashii:樫井之戰
 battle of kasserine pass:凱賽林隘口戰役
+battle of kazan:喀山战役
 battle of kejielang:克节朗战役
 battle of kempen:肯彭戰役
 battle of kesselsdorf:凱撒斯多夫會戰
+battle of khalkhin gol:哈拉哈河战役
 battle of khalkhyn temple:哈爾哈廟戰鬥
+battle of kharkiv:哈尔科夫战役
 battle of kharkov:哈爾科夫戰役
+battle of khartoum:喀土穆战役
 battle of khasham:哈沙姆之战
 battle of khe sanh:溪生战役
 battle of kherlen:胪朐河之战
 battle of kherson:赫尔松战役
 battle of khirbet al joz:基伯特约兹村战斗
+battle of khotyn:霍京战役
 battle of khovd:科布多之战
 battle of khunan:高加索山之戰
+battle of kiev:基辅战役
 battle of kilimanjaro:吉力馬札羅山戰役
+battle of kinsale:金赛尔战役
 battle of kinston:京斯敦之役
 battle of kiyosu castle:萱津之戰
 battle of kleidion:克雷迪昂战役
 battle of ko chang:大象島海戰
+battle of kock:科茨克战役
 battle of kolberg:科爾貝格戰役
 battle of kollaa:柯拉战役
+battle of kolwezi:科卢韦齐战役
 battle of kontum:崑嵩戰役
 battle of kopidnadon:柯皮那顿战役
 battle of korea strait:朝鮮海峽海戰
 battle of korsakov:科尔萨科夫海战
+battle of kos:科斯岛战役
+battle of kosovo:科索沃战役
 battle of kota bharu:日本入侵马来亚战争
 battle of kowloon:九龍海戰
 battle of kranji:克蘭芝戰役
 battle of kreminna:克雷明納戰役
+battle of kreminna:克雷明纳战役
+battle of kreta:克里特岛战役
 battle of krtsanisi:克尔齐尼西战役
 battle of kruty:克鲁特战役
 battle of kuisegawa:杭瀨川之戰
@@ -43907,101 +44374,155 @@ battle of kumsong:金城戰役
 battle of kunersdorf:庫勒斯道夫戰役
 battle of kunlun pass:昆仑关战役
 battle of kunyang:昆陽之戰
+battle of kurakhove:库拉霍沃战役
 battle of kurakhove:库拉霍韦战役
 battle of kurikara pass:俱利伽羅峠之戰
 battle of kursk begin:库尔斯克会战开始
 battle of kursk:库尔斯克会战
+battle of kursk:库尔斯克战役
+battle of kursk:庫爾斯克战役
 battle of kyiv end:基辅战役结束
 battle of kyiv:基辅战役
 battle of kyongju:慶州戰役
+battle of kyushu:九州战役
 battle of la bisbal:拉比斯瓦尔之战
+battle of la coruña:拉科鲁尼亚战役
 battle of la malmaison:拉马尔迈松战役
+battle of la plata:拉普拉塔战役
 battle of la rochelle:拉罗谢尔海战
 battle of la suffel:拉薩菲爾戰役
 battle of la virgen:拉维尔亨战役
 battle of lagos:拉各斯海战
 battle of lahasusu:同江之役
 battle of lake benacus:貝納庫斯湖戰役
+battle of lake erie:伊利湖战役
 battle of lake erie:伊利湖戰役
 battle of lake george:喬治湖戰役
+battle of lake khasan:哈桑湖战役
 battle of lake khasan:张鼓峰事件
+battle of lake peipus:楚德湖战役
 battle of lake poyang:鄱陽湖之戰
 battle of lake trasimene:特拉西美诺湖战役
+battle of lake trasimeno:特拉西梅诺湖战役
 battle of lalakaon:拉拉卡翁托斯战役
+battle of landshut:兰茨胡特战役
 battle of lanfeng:兰封会战
 battle of langfang:廊坊阻击战
 battle of langshan jiang:狼山江之战
+battle of lao cai:老街战役
+battle of laon:拉昂战役
 battle of laoshan:老山战役
 battle of lashio:腊戍战役
+battle of latakia:拉塔基亚战役
 battle of lauffeld:勞費爾德戰役
 battle of lazikou:腊子口战役
 battle of le bourget:第一次勒布爾熱战役
 battle of le mans:勒芒战役
 battle of le mesnil patry:勒梅尼勒帕特里战役
+battle of lebedyn:莱贝丁战役
 battle of lechaeum:利開翁之役
 battle of legnano:莱尼亚诺战役
 battle of legnica:莱格尼察战役
 battle of leipzig:莱比锡战役
+battle of lemberg:利沃夫战役
 battle of lena:萊納之戰
+battle of lens:朗斯战役
 battle of lens:朗斯戰役
 battle of lepanto:勒班陀戰役
 battle of leuctra:留克特拉戰役
 battle of leuthen:洛伊滕战役
 battle of leuze:勒茲戰役
+battle of lexington and concord:列克星敦和康科德战役
+battle of lexington:列克星敦战役
 battle of leybar bridge:萊巴爾橋戰役
+battle of leyte gulf:莱特湾战役
 battle of leyte gulf:雷伊泰灣海戰
+battle of leyte:莱特岛战役
 battle of leyte:雷伊泰島戰役
 battle of liaoluo bay:崇禎明荷海戰
 battle of liaoyang:辽阳会战
 battle of liegnitz:李格尼茨戰役
 battle of ligny:利尼战役
+battle of lihula:利胡拉战役
 battle of limanowa:利馬諾瓦戰役
+battle of lincoln:林肯战役
 battle of lingbi:灵璧战斗
 battle of linth river:林斯河戰役
 battle of liyang:黎阳之战
+battle of liège:列日战役
 battle of loano:洛阿諾戰役
 battle of lobositz:羅布西茨戰役
 battle of lodi:洛迪之战
+battle of lodi:洛迪战役
+battle of lodz:罗兹战役
 battle of long island:長島會戰
 battle of longue pointe:長岬之戰
+battle of lopera:洛佩拉战役
 battle of lopera:洛佩拉戰役
+battle of lorraine:洛林战役
 battle of los angeles:洛杉矶之战
 battle of loulan:樓蘭之戰
 battle of loulin:婁林之戰
 battle of lucheng:卤城之战
+battle of luding bridge:泸定桥战役
 battle of luding bridge:泸定桥战斗
+battle of lund:隆德战役
+battle of luoyang:洛阳战役
+battle of lutetia:巴黎战役
 battle of lutos:盧托斯戰役
 battle of lutter:盧特戰役
 battle of lutterberg:盧特堡戰役
+battle of luzon:吕宋岛战役
 battle of luzon:呂宋島戰役
+battle of luçon:吕宋岛战役
+battle of lviv:利沃夫战役
+battle of lwów:利沃夫战役
+battle of lyman:利曼战役
 battle of lyman:利曼戰役
+battle of lysychansk:利西昌斯克战役
 battle of lysychansk:利西昌斯克戰役
 battle of lyuban:柳班战役
+battle of lào cai:老街战役
+battle of lübeck:吕贝克战役
+battle of lạng sơn:谅山战役
 battle of maaloula:馬盧納戰鬥
 battle of maastricht:馬斯垂克戰役
 battle of macau:葡荷澳門戰役
 battle of machias:馬柴厄斯海戰
 battle of mactan:麥克坦島戰役
 battle of madagascar:馬達加斯加戰役
+battle of madagascar:马达加斯加战役
+battle of madang:马当战役
 battle of madonna dell'olmo:庫內奧戰役
 battle of maeso:买肖城之战
+battle of magdeburg:马格德堡战役
 battle of magenta:馬真塔戰役
 battle of magetobriga:马格托布里加战役
 battle of magnesia:馬格尼西亞戰役
 battle of mahiwa:馬希瓦戰役
+battle of maidstone:梅德斯通战役
 battle of mainz:美因茲戰役
+battle of malacca:马六甲战役
+battle of malakal:马拉卡勒战役
 battle of malakoff:馬拉科夫戰役
+battle of malakoff:马拉科夫战役
+battle of malaya:马来亚战役
 battle of maldon:马尔登战役
 battle of maling:馬陵之戰
 battle of malka nidzhe:小尼傑山戰役
 battle of maloyaroslavets:小雅羅斯拉韋茨戰役
 battle of malplaquet:馬爾普拉凱戰役
+battle of malta:马耳他战役
 battle of manado:万鸦老战役
 battle of manila bay:馬尼拉灣海戰
+battle of manila bay:马尼拉湾战役
+battle of manila:马尼拉战役
+battle of mansoura:曼苏拉战役
 battle of manzikert:曼齐刻尔特战役
 battle of marais des cygnes:梅里德辛河之战
 battle of marathon:马拉松战役
 battle of marengo:馬倫戈戰役
+battle of marengo:马伦戈战役
 battle of marignano:马里尼亚诺战役
 battle of maritsa:马里查战役
 battle of mariupol:马里乌波尔战役
@@ -44010,6 +44531,7 @@ battle of markada:马卡达战役
 battle of mars la tour:馬斯拉圖爾戰役
 battle of marsaglia:馬爾薩利亞戰役
 battle of marseille:馬賽戰役
+battle of marseille:马赛战役
 battle of marston moor:马斯顿荒原战役
 battle of marv:梅爾夫戰役
 battle of mataquito:马塔基托战役
@@ -44018,17 +44540,24 @@ battle of mayi:马邑之谋
 battle of maysalun:麦塞隆战役
 battle of mazagran:馬薩格蘭戰役
 battle of mcdowell:麥克道威之役
+battle of mecca:麦加战役
 battle of medenine:梅德宁战役
 battle of megalopolis:梅格洛玻利斯戰役
+battle of meissen:迈森战役
+battle of mekelle:默克萊战役
 battle of melle:梅勒戰役
+battle of memel:尼曼河战役
 battle of memel:梅梅爾戰役
 battle of memmingen:梅明根戰役
 battle of memories:记忆大师
+battle of menglianggu:孟良崮战役
 battle of mentana:門塔納戰役
+battle of mentana:门塔纳战役
 battle of merowe airport:麥洛維機場戰役
 battle of messana:墨沙拿戰役
 battle of metz:梅斯战役
 battle of meung sur loire:羅亞爾河畔默恩戰役
+battle of mexico city:墨西哥城战役
 battle of miajadas:米亚哈达斯之战
 battle of midway began:中途岛海战开始
 battle of midway:中途岛海战
@@ -44039,15 +44568,21 @@ battle of millesimo:米萊西莫之戰
 battle of mimasetoge:三增峠之戰
 battle of mimigawa:耳川之戰
 battle of minatogawa:凑川之战
+battle of mindanao:棉兰老岛战役
 battle of mindanao:棉蘭老島戰役
+battle of minden:明登战役
 battle of minden:明登戰役
 battle of mindoro:民都洛島戰役
 battle of mingtiao:鸣条之战
+battle of minsk:明斯克战役
 battle of miyajima:嚴島之戰
 battle of miyako bay:宮古灣海戰
 battle of mizushima:水島之戰
 battle of mobei:漠北之战
 battle of mobile bay:莫比尔湾战役
+battle of modena:摩德纳战役
+battle of mogadishu:摩加迪沙战役
+battle of mogilev:莫吉廖夫战役
 battle of mohi:蒂萨河之战
 battle of mohrungen:莫龙根之战
 battle of mollwitz:莫爾維茨會戰
@@ -44056,37 +44591,50 @@ battle of monastir:莫納斯提爾戰役
 battle of monmouth:蒙茅斯战役
 battle of monroe's crossroads:門羅十字路口前哨戰
 battle of mons graupius:格劳庇乌山战役
+battle of mons:蒙斯战役
 battle of monte cassino:卡西諾山戰役
 battle of monte laturce:蒙特拉圖塞戰役
+battle of montenegro:黑山战役
 battle of montenotte:蒙特諾特之戰
 battle of montereau:蒙特羅戰役
+battle of monterey:蒙特雷战役
+battle of monterrey:蒙特雷战役
 battle of montgisard:蒙吉萨战役
 battle of montiel:蒙鐵爾戰役
+battle of montiel:蒙铁尔战役
 battle of montmirail:蒙米拉伊之战
 battle of morek:莫克镇战役
+battle of morlaix:莫尔莱战役
 battle of morotai:摩羅泰島戰役
 battle of mortimer's cross:莫蒂默斯克罗斯战役
+battle of moscow:莫斯科战役
 battle of moscow:莫斯科戰役
 battle of moshchun:莫遜戰役
+battle of mosul:摩苏尔战役
 battle of motien pass:摩天嶺之戰
 battle of mount dingjun:定军山之战
+battle of mount gilboa:基利波战役
 battle of mount li:犬戎攻周之戰
 battle of mount qi:祁山之战
 battle of mount song:松山战役
 battle of muddy flat:泥城之戰
 battle of mukden:奉天会战
+battle of mulhouse:米卢斯战役
 battle of munda:蒙達戰役
 battle of muraki castle:村木砦之戰
+battle of muret:米雷战役
 battle of muret:米雷戰役
 battle of mursa major:穆尔萨战役
 battle of mutanchiang:牡丹江战役
 battle of mutina:摩德納戰役
+battle of mutina:摩德纳战役
 battle of muye:牧野之战
 battle of myeongnyang:鸣梁海战
 battle of mykolaiv:尼古拉耶夫战役
 battle of mylae:米列海戰
 battle of myonessus:米奥内苏斯战役
 battle of myriokephalon:密列奥塞法隆战役
+battle of mülhausen:米卢斯战役
 battle of nagara gawa:長良川之戰
 battle of nagashino:長篠之戰
 battle of nahavand:纳哈万德战役
@@ -44096,41 +44644,69 @@ battle of nam dong:南东战役
 battle of nambanje:納姆班傑戰役
 battle of nan'ao island:南澳岛之战
 battle of nanchang:南昌会战
+battle of nanchang:南昌战役
 battle of nancy:南锡战役
+battle of nanjing:南京战役
 battle of nanking:南京保卫战
+battle of nanking:南京战役
 battle of nanpeng archipelago:南澎列岛之战
 battle of nanpi:南皮之战
+battle of nanri island:南日岛战役
 battle of nanri island:南日島戰役
 battle of nanshan:南山会战
+battle of nanshan:南山战役
 battle of nanyang:南阳之战
+battle of narbonne:纳博讷战役
 battle of narva:納爾瓦戰役
+battle of narva:纳尔瓦战役
+battle of narvik:纳尔维克战役
 battle of naseby:内斯比战役
 battle of nasib border crossing:納西布邊境管制站戰役
 battle of nauheim:瑙海姆戰役
+battle of navarino:皮洛斯战役
 battle of navarino:纳瓦里诺海战
 battle of neerwinden:下温登战役
 battle of neopatras:新帕特雷战役
+battle of neuve chapelle:新沙佩勒战役
+battle of neva:涅瓦河战役
+battle of nevel:涅韋爾战役
 battle of neville's cross:内维尔十字之战
 battle of new bern:新伯恩之役
 battle of new orleans:新奥尔良之战
+battle of new orleans:新奥尔良战役
+battle of new york:纽约战役
+battle of newport:纽波特战役
 battle of ngasaunggyan:牙嵩延戰役
 battle of ngomano:尼戈文奴戰役
+battle of niangziguan:娘子关战役
+battle of nicopolis:尼科波利斯战役
 battle of nicopolis:尼科波利斯戰役
+battle of niemen:尼曼河战役
 battle of nieuwpoort:紐波特會戰
+battle of nineveh:尼尼微战役
 battle of ning jin:宁锦之战
 battle of ningpo:浙东之战
 battle of ningyuan:宁远之战
+battle of ningyuan:宁远战役
 battle of nocera:诺切拉战役
 battle of norada:野良田合戰
 battle of norfolk:諾福克戰役
+battle of norfolk:诺福克战役
+battle of normandy:诺曼底战役
 battle of north point:北角之役
+battle of northampton:北安普顿战役
 battle of northern burma and western yunnan:滇西缅北战役
 battle of northern henan:豫北戰鬥
+battle of norway:挪威战役
 battle of noryang:露梁海戰
+battle of novara:诺瓦拉战役
 battle of novo litovoskaya:新列托沃斯卡亞戰役
+battle of nuremberg:纽伦堡战役
 battle of ocheretyne:奧切列季涅戰役
 battle of octodurus:奥克托杜鲁斯战役
 battle of odaihara:小田井原之战
+battle of odesa:敖德萨战役
+battle of odessa:敖德萨战役
 battle of okehazama:桶狹間之戰
 battle of okhtyrka:奥赫特尔卡战役
 battle of okinawa:沖繩島戰役
@@ -44139,40 +44715,61 @@ battle of okpo:玉浦海战
 battle of olasch:奧拉施之戰
 battle of old baldy:老秃山战役
 battle of old trafford:奧脫福大戰
+battle of oliva:奥利瓦战役
 battle of ollantaytambo:奧林太坦坡戰役
 battle of olpae:奥尔匹之战
+battle of omdurman:恩图曼战役
 battle of omdurman:恩圖曼戰役
 battle of one tree hill:獨樹山之役
 battle of ongjin peninsula:甕津戰役
+battle of ongjin:瓮津战役
+battle of ongjin:甕津战役
 battle of onjong:温井战斗
 battle of ontario:安大略之战
 battle of opis:俄庇斯之战
+battle of opis:俄庇斯战役
 battle of ordal:奥达尔之战
+battle of orel:奥廖尔战役
+battle of orikhiv:奧里希夫战役
 battle of orkynia:歐基尼亞戰役
+battle of orleans:奥尔良战役
+battle of orléans:奥尔良战役
+battle of ormoc bay:奥尔莫克湾战役
 battle of ormoc bay:奧爾莫克灣戰役
+battle of orsha:奥尔沙战役
+battle of orsza:奥尔沙战役
 battle of osan:烏山戰役
 battle of oshikibata:折敷畑之战
 battle of otterlo:奥特洛战役
+battle of oudenaarde:奥德纳尔德战役
 battle of oudenarde:奧德納德戰役
 battle of ourique:奥里基战役
 battle of p'ohang dong:浦項戰役
 battle of pakchon:博川戰鬥
+battle of palembang:巨港战役
+battle of palestro:帕莱斯特罗战役
 battle of palikao:八里橋之戰
+battle of palma:帕尔马战役
 battle of pangongluo:班公洛之战
 battle of panipat:帕尼帕特战役
 battle of panium:帕尼翁戰役
 battle of paraitakene:帕萊塔西奈戰役
 battle of paris:巴黎之战
+battle of paris:巴黎战役
+battle of parma:帕尔马战役
 battle of paro lake:破虏湖战役
 battle of parwan:八魯灣之戰
 battle of pasir panjang:巴西班讓戰役
+battle of pasir panjang:巴西班让战役
 battle of passchendaele:帕森达勒战役
 battle of patay:帕提戰役
 battle of pavia:帕维亚之战
 battle of pea ridge:豌豆岭战役
+battle of peking:北京战役
 battle of pelekanon:佩勒卡農戰役
 battle of peleliu:貝里琉戰役
 battle of pell's point:沛爾岬之戰
+battle of penang:槟城战役
 battle of penang:檳城海戰
 battle of penco:彭科战役
 battle of pengcheng:彭城之戰
@@ -44180,89 +44777,135 @@ battle of penghu:澎湖海战
 battle of perryville:佩里维尔战役
 battle of peteroa:佩特罗阿战役
 battle of pharsalus:法萨卢斯战役
+battle of philadelphia:费城战役
+battle of philippi:腓立比战役
 battle of philippi:腓立比戰役
+battle of philippine sea:菲律宾海战役
+battle of philippopolis:普罗夫迪夫战役
 battle of philomelion:菲羅梅隆戰役
 battle of pichincha:皮钦查战役
 battle of pindus:班都斯戰役
 battle of pingxingguan:平型关战役
 battle of pirano:皮拉諾戰役
+battle of piski:皮斯基战役
+battle of pisky:皮斯基战役
 battle of pisky:皮斯基戰役
 battle of plassey:普拉西战役
 battle of plataea:普拉提亚战役
 battle of plattsburgh:尚普蘭湖戰役
 battle of pliska:普利斯卡战役
+battle of plovdiv:普罗夫迪夫战役
+battle of plymouth:普利茅斯战役
 battle of pochonbo:普天堡战役
 battle of poitiers:普瓦捷战役
+battle of poland:波兰战役
+battle of poland:波蘭战役
+battle of polesella:波莱塞拉战役
+battle of poltava:波尔塔瓦战役
 battle of poltava:波爾塔瓦會戰
 battle of polvoraria:波尔沃拉里亚战役
 battle of pombal:蓬巴爾戰役
 battle of pont du feneau:弗諾橋戰役
 battle of pontvallain:蓬瓦兰战役
+battle of poona:浦那战役
 battle of popasna:波帕斯纳战役
 battle of pork chop hill:石峴洞北山戰鬥
 battle of port arthur:旅顺口海战
 battle of port republic:共和港之役
 battle of port walthall junction:沃索爾港口之役
+battle of portland:波特蘭战役
 battle of posolskeya:波索利斯卡亞戰役
+battle of praga:布拉格战役
 battle of praga:普拉加战役
+battle of prague:布拉格战役
 battle of prenzlau:普伦茨劳战役
+battle of preveza:普雷韦扎战役
 battle of prilep:普里萊普戰役
 battle of princeton:普林斯顿战役
 battle of proctor's creek:波特溪之役
 battle of prokhorovka:普洛霍羅夫卡戰役
 battle of providien:普羅維迪恩海戰
+battle of pune:浦那战役
 battle of pungdo:豐島海戰
 battle of pydna:彼得那戰役
 battle of pylos:派娄斯之战
+battle of pylos:皮洛斯战役
 battle of pyongtaek:平泽战役
+battle of pyongyang:平壤战役
 battle of qatwan:卡特万之战
 battle of qianshi:乾時之戰
 battle of qianshuiyuan:淺水原之戰
 battle of qichun:蕲春之战
 battle of qingshanli:青山里战役
 battle of quatre bras:四臂村戰役
+battle of quebec:魁北克战役
 battle of quebec:魁北克戰役
 battle of quiapo:基亚波战役
 battle of quiberon bay:基伯龙湾海战
 battle of raate road:拉泰路之战
 battle of radda:拉達戰鬥
 battle of radom:拉多姆戰役
+battle of rafa:拉法战役
+battle of rafah:拉法战役
 battle of rain:賴恩戰役
+battle of ramadi:拉马迪战役
 battle of ramillies:拉米伊之战
+battle of ramillies:拉米伊战役
 battle of ramree island:兰里岛之战
 battle of raphia:拉菲亞戰役
+battle of raqqa:拉卡战役
 battle of raseiniai:拉塞尼艾戰役
 battle of ratisbon:雷根斯堡之戰
 battle of rawa:拉瓦戰役
+battle of ray:雷伊战役
+battle of rayy:雷伊战役
 battle of re'im:雷姆戰役
 battle of red cliffs:赤壁之戰
 battle of redinha:雷迪尼亞戰役
+battle of regensburg:雷根斯堡战役
+battle of rehe:热河战役
 battle of rehe:熱河戰役
+battle of reichenberg:赖兴贝格战役
+battle of reims:兰斯战役
 battle of reims:蘭斯戰役
 battle of renty:朗蒂戰役
 battle of rethymno:雷西姆诺战役
+battle of rey:雷伊战役
+battle of rhodes:罗得岛战役
+battle of riade:利雅得战役
 battle of riade:里阿德戰役
 battle of rich mountain:里奇山之役
+battle of richmond:里士满战役
 battle of ridaniya:里達尼亞戰役
 battle of ridgeway:瑞基威之役
+battle of riga:里加战役
 battle of rimini:里米尼战役
 battle of rivoli:里沃利戰役
+battle of riyadh:利雅得战役
 battle of riyadh:利雅德戰役
 battle of roanoke island:羅諾克島之役
 battle of rocoux:羅庫爾戰役
 battle of rocroi:罗克鲁瓦战役
+battle of romani:罗马尼亚战役
+battle of romania:罗马尼亚战役
+battle of roncevaux pass:龙塞斯瓦列斯山口战役
 battle of roosebeke:罗泽贝克战役
 battle of rorke's drift:羅克渡口戰役
 battle of rossbach:罗斯巴赫战役
+battle of rostov:罗斯托夫战役
 battle of rostov:羅斯托夫戰役
+battle of rotterdam:鹿特丹战役
 battle of rubizhne:魯比日內戰役
 battle of rufiji delta:魯菲吉河三角洲海戰
 battle of ruspina:魯斯皮納戰役
 battle of ruxukou:濡须口之战
+battle of rzhev:勒热夫战役
+battle of sa'dah:萨达战役
 battle of saada:萨达战役
 battle of saalfeld:萨尔费尔德战役
 battle of sabbath day point:安息日點戰役
 battle of sacile:萨奇莱之战
+battle of sacile:萨奇莱战役
 battle of sadad:萨达德战役
 battle of safira:塞菲拉戰鬥
 battle of sagami bay:相模灣海戰
@@ -44270,66 +44913,95 @@ battle of sagrajas:萨拉卡战役
 battle of saguntum:萨贡托之战
 battle of sailor's creek:水手溪之役
 battle of saint cast:聖卡戰役
+battle of saint denis:圣但尼战役
 battle of saint eustache:聖厄斯塔什之役
+battle of saint mihiel:圣米耶勒战役
 battle of saint mihiel:聖米耶勒戰役
 battle of saint omer:聖奧梅爾戰役
 battle of saint pierre:聖皮埃爾之戰
+battle of saint-denis:圣但尼战役
+battle of saint-omer:圣奥梅尔战役
+battle of saint-quentin:圣康坦战役
 battle of sainte foy:聖福瓦戰役
 battle of saipan:塞班島戰役
 battle of salamis:萨拉米斯战役
 battle of salsu:薩水之戰
 battle of saltanovka:薩塔諾夫卡戰役
+battle of salween river:怒江战役
 battle of samara bend:薩馬拉河之戰
+battle of sambre:桑布尔河战役
 battle of san cala:聖卡拉之戰
+battle of san diego:圣地亚哥战役
 battle of san jacinto:圣哈辛托战役
+battle of san marino:圣马力诺战役
 battle of san marino:聖馬利諾戰役
+battle of san mateo:圣马特奥战役
 battle of san patricio:圣帕特里西奥之战
 battle of san pietro:聖皮耶特羅戰役
 battle of sandepu:黑沟台会战
 battle of sanfengshan:三峰山之战
 battle of sanhe:三河之战
+battle of sanhe:三河战役
 battle of sankt michael:圣米夏埃尔之战
 battle of santa clara:圣克拉拉战役
+battle of santa cruz de tenerife:圣克鲁斯-德特内里费战役
+battle of santa cruz islands:圣克鲁斯群岛战役
 battle of santa rosa:聖羅莎戰役
+battle of santiago:圣地亚哥战役
 battle of saragarhi:萨拉加希之战
 battle of saraqib:萨拉凯卜战役
+battle of saratoga:萨拉托加战役
 battle of sarikamish:薩利卡米什戰役
 battle of sarimbun beach:莎琳汶沙灘戰役
 battle of sariwon:沙里院戰役
 battle of sarmin:萨明之战
+battle of sasu:泗水战役
 battle of sasu:蛇水之战
 battle of saule:苏勒战役
+battle of saumur:索米尔战役
 battle of savo island:薩沃島海戰
 battle of savra:薩夫拉之戰
 battle of sayan mountains:薩彥嶺之戰
 battle of schellenberg:谢伦山之战
+battle of scheveningen:斯海弗宁恩战役
 battle of schleiz:施莱茨之战
 battle of schliengen:施林根之战
+battle of schliengen:施林根战役
 battle of sderot:斯代羅特戰役
+battle of sebastopolis:塞瓦斯托波尔战役
 battle of sebastopolis:赛巴斯托城战役
 battle of sedan:色当会战
+battle of sedan:色当战役
 battle of sekes tash:赛克孜塔什战役
 battle of sekigahara:關原之戰
 battle of sellasia:塞拉西亞戰役
 battle of seminara:塞米納拉戰役
+battle of seminara:塞米纳拉战役
 battle of sempach:森帕赫战役
 battle of seneffe:瑟內夫戰役
+battle of senta:森塔战役
 battle of seonghwan:成歡之戰
 battle of seoul:漢城戰役
+battle of serbia:塞尔维亚战役
 battle of settepozzi:塞特波齐战役
+battle of sevastopol:塞瓦斯托波尔战役
 battle of seven oaks:七株橡樹之戰
 battle of seven pines:七松之役
 battle of sewell's point:西維爾角之役
 battle of shaho:沙河会战
 battle of shanggao:上高会战
+battle of shanggao:上高战役
+battle of shanghai:上海战役
 battle of shanghai:淞沪会战
 battle of shanhai pass:一片石之战
+battle of shanhai pass:山海关战役
 battle of shaobo:邵伯战斗
 battle of shayuan:沙苑之戰
 battle of shepherdstown:雪柏鎮戰役
 battle of shigino:鴫野之戰
 battle of shiloh:夏羅之役
 battle of shiojiritoge:盐尻峠之战
+battle of shipu:石浦战役
 battle of shipu:石浦海戰
 battle of shiroyama:城山之战
 battle of shiting:石亭之戰
@@ -44338,29 +45010,45 @@ battle of short hills:矮山戰役
 battle of shuangqiaozhen:雙橋鎮戰鬥
 battle of shubra khit:舒卜拉希特戰役
 battle of shumshu:占守岛战役
+battle of shusha:舒沙战役
+battle of sicily:西西里岛战役
 battle of sidi bou othman:西迪布奧斯曼戰役
 battle of siffin:隋芬之战
 battle of sincouwaan:茜草灣戰役
+battle of singapore:新加坡战役
+battle of sinop:锡诺普战役
 battle of sinop:锡诺普海战
+battle of sinope:锡诺普战役
+battle of sinsheim:辛斯海姆战役
 battle of sinsheim:辛斯海姆戰役
+battle of siping:四平战役
 battle of siversk:錫韋爾斯克戰役
 battle of slavutych:斯拉武特奇戰役
 battle of slivice:斯利维采战役
+battle of sluis:斯勒伊斯战役
 battle of sluys:斯勒伊斯海战
 battle of smolensk:斯摩棱斯克之戰
+battle of smolensk:斯摩棱斯克战役
+battle of snake island:蛇岛战役
+battle of soissons:苏瓦松战役
 battle of soissons:蘇瓦松戰役
+battle of soledar:索萊達爾战役
 battle of soledar:索萊達爾戰役
 battle of solferino:索尔费里诺战役
 battle of solway moss:索维莫斯战役
 battle of somosierra:索莫謝拉戰役
+battle of somosierra:索莫谢拉战役
 battle of song jin:松錦之戰
 battle of soor:索爾戰役
 battle of south guangxi:桂南会战
 battle of south henan:豫南会战
 battle of south mills:南米爾斯之役
 battle of south mountain:南山之役
+battle of south mountain:南山战役
 battle of south shanxi:中條山會戰
+battle of spercheios:斯佩耳刻俄斯河战役
 battle of sphacteria:斯法克特里亚之战
+battle of spicheren:斯皮什伦战役
 battle of spicheren:斯皮什倫战役
 battle of spokane plains:斯波坎平原战役
 battle of spotsylvania court house:史波特斯凡尼亞郡府戰役
@@ -44372,6 +45060,7 @@ battle of stalingrad victory:斯大林格勒战役胜利
 battle of stalingrad:斯大林格勒战役
 battle of stamford bridge:斯坦福桥战役
 battle of starobilsk:舊比利斯克戰役
+battle of staten island:史泰登岛战役
 battle of staten island:史泰登島戰役
 battle of steenkerque:斯滕凱爾克戰役
 battle of stelai:斯特莱战役
@@ -44379,10 +45068,14 @@ battle of steyr:斯泰爾戰役
 battle of stiklestad:斯蒂克莱斯塔德战役
 battle of stirling bridge:斯特靈橋之役
 battle of stony point:斯托尼角战役
+battle of strasbourg:斯特拉斯堡战役
+battle of strasburg:斯特拉斯堡战役
 battle of sufa:蘇法戰役
 battle of sumy:苏梅战役
+battle of sunda strait:巽他海峡战役
 battle of sunher:三河之戰
 battle of sunomata gawa:墨俁川之戰
+battle of suomussalmi:苏奥穆斯萨尔米战役
 battle of suomussalmi:蘇奧穆斯薩爾米戰役
 battle of surabaya:泗水战役
 battle of surfaces:場地之戰
@@ -44395,8 +45088,10 @@ battle of svitlodarsk:斯維特洛達爾斯克戰役
 battle of swally:苏瓦里战役
 battle of swift creek:史威夫特溪之役
 battle of taejon:大田戰役
+battle of tagliacozzo:塔利亚科佐战役
 battle of taierzhuang:台兒莊戰役
 battle of taillebourg:塔耶堡戰役
+battle of taiyuan:太原战役
 battle of taiyuan:太原會戰
 battle of talas:怛罗斯战役
 battle of tamatave:塔马塔夫海战
@@ -44404,18 +45099,27 @@ battle of tamsui:淡水之役
 battle of tanga:坦噶戰役
 battle of tangdao:唐岛之战
 battle of tannenberg line:坦能堡防線戰役
+battle of tarakan:打拉根战役
+battle of taranto:塔兰托战役
 battle of taranto:塔蘭托戰役
 battle of tarawa:塔拉瓦戰役
+battle of tarentum:塔兰托战役
 battle of tashan:塔山战役
 battle of tashkent:泥沼之戰
 battle of taze:丹西戰役
+battle of tczew:特切夫战役
 battle of tedorigawa:手取川之戰
 battle of tel hai:塔勒哈伊衝突
 battle of telamon:泰拉蒙战役
 battle of tellidede:泰爾利代代戰役
+battle of tengchong:腾冲战役
+battle of tertry:泰尔特里战役
 battle of tertry:泰爾特里戰役
 battle of teruel:特魯爾戰役
+battle of teruel:特鲁埃尔战役
 battle of tewkesbury:蒂克斯伯里战役
+battle of texel:泰瑟尔战役
+battle of thames:泰晤士河战役
 battle of thapsus:薩普蘇斯戰役
 battle of the admin box:第二次若开战役
 battle of the aegates:埃加特斯群島海戰
@@ -44459,11 +45163,14 @@ battle of the eastern solomons:東所羅門海戰
 battle of the ebro:厄波羅河戰役
 battle of the eurymedon:歐里梅敦戰役
 battle of the falkland islands:福克蘭群島海戰
+battle of the field:这场战役
 battle of the frigidus:冷河战役
 battle of the frontiers:邊境戰役
 battle of the golden spurs:金马刺战役
 battle of the granicus:格拉尼庫斯河戰役
+battle of the great wall:长城战役
 battle of the gulf of corinth:科林斯湾战役
+battle of the hague:海牙战役
 battle of the herrings:鯡魚之戰
 battle of the hill of the jews:猶太山戰役
 battle of the hills:香檳山戰役
@@ -44488,6 +45195,8 @@ battle of the milvian bridge:米尔维安大桥战役
 battle of the monongahela:莫農加希拉戰役
 battle of the morannon:黑門之戰
 battle of the morcuera:莫奎拉戰役
+battle of the netherlands:荷兰战役
+battle of the netherlands:荷蘭战役
 battle of the neva:涅瓦河之戰
 battle of the nile:尼羅河河口海戰
 battle of the north cape:北角海战
@@ -44497,6 +45206,7 @@ battle of the paracel islands:西沙海战
 battle of the pelennor fields:帕蘭諾平原戰役
 battle of the persian gate:波斯門戰役
 battle of the philippine sea:菲律賓海海戰
+battle of the philippines:菲律宾战役
 battle of the pips:果核戰鬥
 battle of the plains of abraham:亞伯拉罕平原戰役
 battle of the port of carthage:迦太基港口戰
@@ -44535,60 +45245,91 @@ battle of the yalu river:黄海海战
 battle of the yarmuk:雅尔穆克战役
 battle of the yser:艾泽尔河战役
 battle of the zab:扎卜河战役
+battle of thebes:底比斯战役
 battle of thebes:底比斯戰役
 battle of thermopylae:温泉关战役
+battle of thyatira:推雅推喇战役
 battle of tianmenling:天门岭之战
+battle of tianshui:天水战役
 battle of ticinus:提基努斯河會戰
 battle of ticonderoga:提康德羅加堡戰役
 battle of tienhaara:蒂恩哈拉戰役
 battle of tientsin:天津之战
 battle of tigharghar:泰赫爾戰鬥
 battle of timbuktu:廷巴克圖戰鬥
+battle of timor:帝汶岛战役
 battle of timor:帝汶戰役
 battle of tin keraten:廷凯拉滕战斗
 battle of tinchebray:坦什布赖战役
 battle of tinian:天寧島戰役
 battle of tippecanoe:蒂珀卡努战役
+battle of tolentino:托伦蒂诺战役
+battle of tolosa:图卢兹战役
+battle of tong pass:潼关战役
 battle of tong pass:潼關之戰
 battle of tongues:舌战
+battle of toretsk:托列茨克战役
+battle of torgau:托尔高战役
 battle of torgau:托爾高戰役
+battle of toulon:土伦战役
+battle of toulouse:图卢兹战役
 battle of toungoo:同古戰役
+battle of tourcoing:图尔宽战役
 battle of tourcoing:圖爾寬戰役
+battle of tours:图尔战役
 battle of tours:圖爾戰役
 battle of towton:陶顿战役
 battle of trafalgar:特拉法加海戰
+battle of transylvania:特兰西瓦尼亚战役
 battle of tranter's creek:特勞恩德灣之役
+battle of trasimeno:特拉西梅诺湖战役
+battle of trebbia:特雷比亚河战役
 battle of tremseh:特列伊穆斯大屠杀
+battle of trenton:特伦顿战役
 battle of trenton:特倫頓戰役
 battle of triangle hill:上甘岭战役
 battle of trostianets:特罗斯佳涅茨战役
 battle of tsaritsyn:察里津战役
+battle of tskhinvali:茨欣瓦利战役
 battle of tsushima:对马海峡海战
 battle of tucapel:图卡佩尔战役
 battle of tuchola forest:突丘拉森林戰役
+battle of tudela:图德拉战役
 battle of tudela:圖德拉戰役
+battle of tunis:突尼斯战役
+battle of tunisia:突尼斯战役
 battle of tunmen:屯門海戰
 battle of turckheim:蒂尔凯姆战役
+battle of turin:都灵战役
+battle of turnhout:蒂伦豪特战役
 battle of tutung:头屯河战役
 battle of uedahara:上田原之戰
 battle of ueno:上野戰爭
 battle of uhud:武侯德戰役
+battle of uijeongbu:议政府市战役
+battle of uijeongbu:议政府战役
 battle of ukino:浮野之戰
 battle of ulan butung:烏蘭布通之戰
 battle of ulm:乌尔姆之战
+battle of ulm:乌尔姆战役
+battle of ulm:烏爾姆战役
 battle of ulundi:烏倫迪之役
 battle of uman:烏曼戰役
 battle of umm qasr:乌姆盖斯尔战役
 battle of unsan:云山战斗
+battle of uppsala:乌普萨拉战役
 battle of uruzgan:烏魯茲甘戰役
 battle of utsunomiya castle:宇都宮城之戰
+battle of valcour island:瓦尔库尔岛战役
 battle of valcour island:瓦庫爾島戰役
 battle of valmy:瓦爾密戰役
+battle of varese:瓦雷泽战役
 battle of varese:瓦雷澤戰役
 battle of varna:瓦尔纳战役
 battle of vaslui:瓦斯盧伊戰役
 battle of vasylkiv:瓦西里基夫战役
 battle of vauchamps:沃尚之戰
+battle of velikiye luki:大卢基战役
 battle of velikiye luki:大盧基戰役
 battle of vella gulf:维拉湾海战
 battle of verchen:費爾興戰役
@@ -44598,7 +45339,11 @@ battle of verdun end:凡尔登战役结束
 battle of verdun start:凡尔登战役开始
 battle of verdun:凡尔登战役
 battle of verneuil:韦尔讷伊战役
+battle of verona:维罗纳战役
+battle of vicksburg:维克斯堡战役
+battle of victoria:维多利亚战役
 battle of vienna:维也纳之战
+battle of vienna:维也纳战役
 battle of vigo bay:维哥湾海战
 battle of vijaya:阇槃之战
 battle of vila franca do campo:蓬塔德爾加達海戰
@@ -44610,22 +45355,28 @@ battle of villiers:尚皮尼战役
 battle of vimeiro:维梅鲁之战
 battle of vimy ridge:維米嶺戰役
 battle of visayas:米沙鄢群島戰役
+battle of vistula:维斯瓦河战役
 battle of vitoria:维多利亚战役
 battle of vittorio veneto:维托里奥威尼托战役
 battle of volnovakha:沃尔诺瓦哈战役
 battle of volochayevka:沃洛恰耶夫卡戰役
+battle of voronezh:沃罗涅日战役
 battle of vrbanja bridge:弗尔巴尼亚桥之战
 battle of vuhledar:武赫萊達爾戰役
+battle of vukovar:武科瓦尔战役
 battle of vukovar:武科瓦爾戰役
+battle of vyazma:维亚济马战役
 battle of wadi akarit:瓦迪阿卡里特战役
 battle of wagram:瓦格拉姆之战
 battle of wake island:威克島戰役
 battle of wakefield:韦克菲尔德战役
+battle of walcheren:瓦尔赫伦岛战役
 battle of walong:瓦弄战役
 battle of wanjialing:万家岭战役
 battle of warburg:瓦爾堡戰役
 battle of ware bottom church:韋爾低地教堂之役
 battle of warsaw:华沙战役
+battle of warsaw:華沙战役
 battle of waterloo:滑铁卢战役
 battle of waxhaws:沃克斯華戰役
 battle of wei river:潍水之战
@@ -44642,20 +45393,28 @@ battle of white hall:白廳之役
 battle of white horse hill:白马山战役
 battle of white marsh:怀特马什战役
 battle of white mountain:白山战役
+battle of white plains:怀特普莱恩斯战役
 battle of white plains:白原戰役
 battle of white wolf mountain:白狼山之战
 battle of williamsburg:威廉斯堡之戰
+battle of williamsburg:威廉斯堡战役
 battle of wilson's creek:威尔逊克里克战役
 battle of winchelsea:溫奇爾西海戰
 battle of winterthur:温特图尔战役
 battle of wolkowisk:瓦夫卡維斯克戰役
+battle of wonju:原州战役
 battle of wonju:原州戰役
+battle of wonsan:元山战役
 battle of woosung:吴淞战役
 battle of worcester:伍斯特战役
+battle of wuchang:武昌战役
 battle of wuhan:武汉会战
+battle of wuhan:武汉战役
 battle of wuyuan:五原战役
 battle of wuzhang plains:五丈原之戰
+battle of wuzhou:梧州战役
 battle of xiakou:夏口之战
+battle of xiang river:湘江战役
 battle of xiangji temple:香积寺之战
 battle of xiangjiang river:血战湘江
 battle of xiangyang:襄樊之战
@@ -44672,22 +45431,29 @@ battle of xiushui river:修水会战
 battle of xuchang:許昌戰鬥
 battle of xuge:繻葛之战
 battle of xuzhou:徐州会战
+battle of xuzhou:徐州战役
 battle of yamazaki:山崎之戰
 battle of yamen:崖门海战
 battle of yan ford:延津之战
 battle of yan province:兖州之战
+battle of yan'an:延安战役
+battle of yancheng:盐城战役
 battle of yancheng:郾城之戰
 battle of yangcheng:阳城之战
 battle of yangcun:杨村之战
 battle of yangi hissar:英吉沙战役
 battle of yangping:陽平關之戰
 battle of yanling:鄢陵之战
+battle of yanzhou:兖州战役
 battle of yarkand:叶尔羌战役
+battle of yaroslavl:雅罗斯拉夫尔战役
 battle of yashima:屋島之戰
 battle of yaunis khan:汗尤尼斯戰役
 battle of ye:邺之战
 battle of yehuling:野狐嶺戰役
+battle of yelets:叶列茨战役
 battle of yenangyaung:仁安羌之战
+battle of yenangyaung:仁安羌战役
 battle of yesil kol nor:伊西洱库尔淖尔之战
 battle of yijiangshan islands:一江山岛战役
 battle of yijing:易京之戰
@@ -44699,11 +45465,20 @@ battle of yiwu:伊吾保卫战
 battle of yongjiazhen:雍家镇战斗
 battle of yorktown:約克鎮戰役
 battle of ypres:伊普爾之役
+battle of ypres:伊珀尔战役
 battle of yu oc:玉奧之戰
+battle of zadar:扎达尔战役
 battle of zahleh:扎赫勒战役
+battle of zama:扎马战役
 battle of zama:札馬戰役
+battle of zamość:扎莫希奇战役
+battle of zboriv:兹博里夫战役
+battle of zborov:兹博里夫战役
+battle of zeila:泽拉战役
 battle of zenta:森塔战役
+battle of zhangjiawan:张家湾战役
 battle of zhangjiawan:張家灣戰役
+battle of zhenbao island:珍宝岛战役
 battle of zhizhi:郅支围城战
 battle of zhongdu:中都之战
 battle of zhovti vody:若夫季沃德戰役
@@ -44712,6 +45487,7 @@ battle of zinjibar:津吉巴尔之战
 battle of zlatitsa:茲拉蒂察戰役
 battle of zonchio:佐奇奧戰役
 battle of zorndorf:曹恩道夫戰役
+battle of zunyi:遵义战役
 battle of zusmarshausen:楚斯馬斯豪森戰役
 battle off samar:薩馬島海戰
 battle off ulsan:蔚山海战
@@ -45882,6 +46658,7 @@ bay of bourgneuf:布尔讷夫湾
 bay of campeche:坎佩切湾
 bay of fires:火焰湾
 bay of fundy:芬迪湾
+bay of gibraltar:直布羅陀海灣
 bay of gibraltar:直布羅陀灣
 bay of imari:伊万里湾
 bay of imari:伊萬里灣

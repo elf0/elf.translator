@@ -532,7 +532,9 @@ bucket might allow:桶可能允许
 bucket name and domain name:桶名称和域名
 bucket name:桶名称
 bucket nearly:桶几乎
+bucket of blood:血桶
 bucket of type:桶的类型
+bucket of water:水桶
 bucket or object:桶或对象
 bucket or test suite:桶或测试套件
 bucket ownership:桶所有权
@@ -1935,6 +1937,7 @@ budget number:预算数字
 budget numbers:预算数字
 budget obviously:预算显然
 budget of the united kingdom:英国中央政府预算
+budget of the united kingdom:英国预算
 budget office and state:預算辦公室和州
 budget office earlier this year:预算办公室今年早些时候
 budget office estimate:预算办公室估计
@@ -6121,6 +6124,7 @@ buildings need:建筑需要
 buildings no longer:建筑不再
 buildings now convert:建筑现在转换
 buildings now:建筑现在
+buildings of the united states:美国建筑
 buildings offer:建筑提供
 buildings officials:建筑官员
 buildings once:建筑曾经
@@ -8636,6 +8640,7 @@ bund bull:外滩牛
 bund bull:外滩金融牛
 bund center:外滩中心
 bund der danziger:但泽人联邦
+bund of shanghai:上海外滩
 bund road:本迪路
 bund sightseeing tunnel:上海外滩观光隧道
 bund sightseeing tunnel:外滩观光隧道
@@ -9440,13 +9445,21 @@ bureau municipal de la santé:市立衛生局
 bureau must give:局必须给
 bureau nine:局九
 bureau note:局注意
+bureau of administration:管理局
+bureau of agriculture:农业局
 bureau of alcohol:局的酒精
 bureau of american ethnology:美国民族学局
 bureau of audiovisual and music industry development, ministry of culture:文化部影視及流行音樂產業局
 bureau of audiovisual and music industry development:文化部影視及流行音樂產業局
 bureau of buddhist and tibetan affairs:宣政院
+bureau of budget:预算局
+bureau of census:人口普查局
+bureau of census:普查局
+bureau of citizenship and immigration services:公民和移民服务局
 bureau of consular affairs, ministry of foreign affairs:外交部領事事務局
 bureau of consular affairs:美國國務院領事事務局
+bureau of corporations:企业局
+bureau of counterterrorism:反恐局
 bureau of cultural affairs, kaohsiung city government:高雄市政府文化局
 bureau of cultural heritage:文化部文化資產局
 bureau of diplomatic security:美國外交安全局
@@ -9456,33 +9469,53 @@ bureau of economic analysis emphasize:经济分析局强调
 bureau of economic analysis estimate:经济分析局估计
 bureau of economic analysis officials:经济分析局官员
 bureau of economic analysis:经济分析局
+bureau of education:教育局
+bureau of energy:能源局
 bureau of engraving and printing:美国铸印局
 bureau of enquiry and analysis for civil aviation safety:法国航空事故调查处
+bureau of forestry:林业局
 bureau of geology and minerals:地矿局
 bureau of health and welfare, lienchiang county:連江縣政府衛生福利局
 bureau of health:健保局
 bureau of immigration bicutan detention center:移民局比古坦拘留中心
+bureau of immigration:移民局
 bureau of indian affairs:印第安事務局
 bureau of industry and security:产业安全保障局
+bureau of industry and security:工业和安全局
 bureau of international information programs:美国国务院国际信息局
 bureau of international security and nonproliferation:国际安全与防扩散局
 bureau of investigation and statistics:國民政府軍事委員會調查統計局
+bureau of investigation:调查局
 bureau of justice statistics:美国司法统计局
+bureau of justice:司法局
 bureau of labor funds, ministry of labor:勞動部勞動基金運用局
 bureau of labor insurance, ministry of labor:勞動部勞工保險局
 bureau of labor statistics:美國勞動統計局
+bureau of land management:土地管理局
 bureau of land management:美國內政部土地管理局
 bureau of letters and calls:信访局
 bureau of meteorology:澳洲氣象局
 bureau of military affairs:枢密院
+bureau of military intelligence:軍事情報局
 bureau of narcotics and dangerous drugs:麻醉药物和危险药物管理局
 bureau of natural resources and environment:富美市社自然资源和环境局
+bureau of navigation:导航局
+bureau of occupational safety and health:職業安全健康局
+bureau of police:警察局
+bureau of printing:印刷局
 bureau of prison:局的监狱
 bureau of prohibition:禁酒局
+bureau of public health:公共卫生局
+bureau of public works:公共工程局
 bureau of refugee:局的难民
+bureau of religion:宗教局
 bureau of shrines:神社局
 bureau of standards, metrology and inspection, ministry of economic affairs:經濟部標準檢驗局
+bureau of standards:标准局
+bureau of state security:国家保安局
 bureau of the european parliament:歐洲議會事務局
+bureau of trade:贸易局
+bureau of transportation:运输局
 bureau office:局办公室
 bureau office:局辦公室
 bureau official website:局官方网站

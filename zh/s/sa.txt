@@ -810,6 +810,7 @@ sacra di san michele:聖彌額爾修道院
 sacra mensa:萨克拉桌山
 sacral plexus:骶神经丛
 sacramenia:萨克拉梅尼亚
+sacrament of marriage:婚姻聖禮
 sacrament:聖禮
 sacramental bread:聖體
 sacramental:聖儀
@@ -4791,6 +4792,8 @@ safety notification:安全通告
 safety obligation:安全义务
 safety observation tool:安全观察工具
 safety observation:安全观察
+safety of food:食品安全
+safety of food:食物安全
 safety of high energy particle collision experiments:高能粒子对撞实验的安全性
 safety off:安全关闭
 safety office:安全办公室
@@ -21570,6 +21573,9 @@ sami five:萨米五
 sami medical center:萨米医疗中心
 sami museum:萨米博物馆
 sami offer:萨米提供
+sami parliament of finland:芬兰萨米议会
+sami parliament of norway:挪威萨米议会
+sami parliament of sweden:瑞典萨米议会
 sami parliament:萨米议会
 sami pasha mosque:萨米帕夏清真寺
 sami pasha:萨米帕夏
@@ -28779,6 +28785,8 @@ sanghamitta:僧伽蜜多
 sanghangcun:桑杭村
 sanghar district:桑加尔县
 sanghar:桑克尔
+sangharaja of thailand:泰国僧王
+sangharaja of thailand:泰國僧王
 sangharaja:僧王
 sangharakshita decided:僧护决定
 sangharakshita:僧护
@@ -29837,6 +29845,8 @@ sanjaing:sānjiāng cūn
 sanjaing:三江村
 sanjak bey:桑賈克貝伊
 sanjak of karasi:卡拉西桑贾克
+sanjak of novi pazar:新帕扎尔桑贾克
+sanjak of smederevo:斯梅代雷沃桑贾克
 sanjak:桑贾克
 sanjary:桑扎里
 sanjaya of mataram:珊阇耶
@@ -32350,6 +32360,7 @@ santa carmem:圣卡尔门
 santa carolina:聖卡羅里納島
 santa casa da misericórdia de macau centro de reabilitação de cegos:仁慈堂澳門盲人重建中心
 santa casa da misericórdia de macau:仁慈堂慈善會
+santa casa da misericórdia of macau:澳門仁慈堂大樓
 santa casa da misericórdia:仁慈堂大樓
 santa casa della misericordia:仁慈堂大樓
 santa catalina de mossa district:聖卡塔利納德莫薩區
@@ -33207,6 +33218,9 @@ santiago metropolitan region:聖地牙哥首都大區
 santiago millas:圣地亚哥米利亚斯
 santiago morning:圣地亚哥早晨体育俱乐部
 santiago nonualco:聖地牙哥諾努阿爾科
+santiago of chile:智利圣地亚哥
+santiago of chile:智利聖地亞哥
+santiago of chile:智利聖地牙哥
 santiago principles:圣地亚哥原则
 santiago texacuangos:聖地牙哥特克薩寬戈斯
 santiago wanderers:圣地亚哥流浪者体育俱乐部
@@ -37350,6 +37364,11 @@ satellite obtain:卫星获得
 satellite ocean environment dynamics:卫星海洋环境动力学
 satellite ocean:卫星海洋
 satellite oceanography:卫星海洋学
+satellite of earth:地球卫星
+satellite of jupiter:木星卫星
+satellite of neptune:海王星卫星
+satellite of pluto:冥王星卫星
+satellite of saturn:土星卫星
 satellite offer:卫星提供
 satellite office and cebu:卫星办公室和宿务
 satellite office said:卫星办公室说

@@ -29432,6 +29432,7 @@ income economy:收入经济
 income effect:收入效果
 income effects:收入影响
 income egyptian:收入埃及
+income elasticity of demand:需求收入弹性
 income elasticity of demand:需求的所得彈性
 income elasticity:收入弹性
 income elements:收入元素
@@ -29948,6 +29949,7 @@ incontinence diary:失禁日记
 incontinence foundation:失禁基金
 incontinence include:失禁包括
 incontinence market:失禁市场
+incontinence of urine:尿失禁
 incontinence patients:失禁患者
 incontinence problem:失禁问题
 incontinence problems:失禁问题
@@ -33842,8 +33844,19 @@ independence day march:独立日游行
 independence day memorial stele:独立礼纪念碑
 independence day message:独立日消息
 independence day military parade:独立日阅兵
+independence day of belarus:白俄罗斯独立日
 independence day of cambodia:柬埔寨独立日
+independence day of finland:芬兰独立日
+independence day of georgia:格鲁吉亚独立日
+independence day of india:印度独立日
+independence day of indonesia:印尼独立日
+independence day of pakistan:巴基斯坦独立日
+independence day of the united states:美国独立日
+independence day of ukraine:乌克兰独立日
+independence day of ukraine:烏克蘭独立日
 independence day of ukraine:烏克蘭獨立日
+independence day of united states:美国独立日
+independence day of united states:美國独立日
 independence day parade:独立日游行
 independence day publish:独立日发表
 independence day sales season:独立日销售季节
@@ -33918,8 +33931,62 @@ independence museum:独立博物馆
 independence national historical park:国家独立历史公园
 independence negotiations:独立谈判
 independence number:独立数
+independence of algeria:阿尔及利亚独立
+independence of america:美国独立
+independence of argentina:阿根廷独立
+independence of azerbaijan:阿塞拜疆独立
+independence of bangladesh:孟加拉独立
+independence of belarus:白俄罗斯独立
+independence of belgium:比利时独立
 independence of brazil:巴西独立
+independence of bulgaria:保加利亚独立
+independence of catalonia:加泰罗尼亚独立
+independence of chile:智利独立
+independence of croatia:克罗地亚独立
+independence of cuba:古巴独立
+independence of eritrea:厄立特里亚独立
+independence of finland:芬兰独立
+independence of greece:希腊独立
+independence of hong kong:香港独立
+independence of india:印度独立
+independence of indonesia:印度尼西亚独立
+independence of israel:以色列独立
+independence of korea:朝鲜独立
+independence of korea:韩国独立
+independence of kosovo:科索沃独立
+independence of lithuania:立陶宛独立
 independence of malaya party:马来亚独立党
+independence of malaya:马来亚独立
+independence of malaysia:马来西亚独立
+independence of mexico:墨西哥独立
+independence of moldova:摩尔多瓦独立
+independence of montenegro:黑山独立
+independence of mozambique:莫桑比克独立
+independence of nigeria:尼日利亚独立
+independence of outer mongolia:外蒙古独立
+independence of pakistan:巴基斯坦独立
+independence of panama:巴拿马独立
+independence of paraguay:巴拉圭独立
+independence of peru:秘鲁独立
+independence of portugal:葡萄牙独立
+independence of puerto rico:波多黎各独立
+independence of quebec:魁北克独立
+independence of singapore:新加坡独立
+independence of slovenia:斯洛文尼亚独立
+independence of south sudan:南苏丹独立
+independence of sri lanka:斯里兰卡独立
+independence of suriname:苏里南独立
+independence of taiwan:台湾独立
+independence of taiwan:台灣独立
+independence of texas:德克萨斯独立
+independence of the country:国家独立
+independence of the philippines:菲律宾独立
+independence of the united states:美国独立
+independence of tunisia:突尼斯独立
+independence of ukraine:乌克兰独立
+independence of uruguay:乌拉圭独立
+independence of uzbekistan:乌兹别克斯坦独立
+independence of venezuela:委内瑞拉独立
 independence or death:独立或死亡
 independence or dependence relationship:独立或依赖关系
 independence or freedom:独立或自由
@@ -33938,6 +34005,9 @@ independence park:独立公园
 independence party and others:独立党和其他人
 independence party election:独立党选举
 independence party leader:独立党领袖
+independence party of america:美国独立党
+independence party of minnesota:明尼苏达独立党
+independence party of new york:纽约独立党
 independence party reject:独立党拒绝
 independence party was founded in:独立党成立于
 independence party website:独立党网站
@@ -33988,6 +34058,9 @@ independence vote near:独立投票接近
 independence vote:独立投票
 independence walk:独立步行
 independence war end:独立战争结束
+independence war of bangladesh:孟加拉国独立战争
+independence war of bangladesh:孟加拉独立战争
+independence war of romania:罗马尼亚独立战争
 independence war victory:独立战争胜利
 independence war:独立战争
 independence was great:独立是伟大的
@@ -34325,6 +34398,8 @@ independent combine:独立的合并
 independent command:独立的命令
 independent commander:独立的指挥官
 independent commission against corruption investigation:廉政公署调查
+independent commission against corruption of hong kong:香港廉政公署
+independent commission against corruption of new south wales:新南威尔士州廉政公署
 independent commission against corruption training camp:廉政公署訓練營
 independent commission against corruption training camp:廉政公署训练营
 independent commission against corruption:廉政公署
@@ -36162,6 +36237,7 @@ index of arctic:索引的北极
 index of computing articles:数据结构与算法术语列表
 index of economic freedom:经济自由度指数
 index of language articles:语言列表
+index of psychology articles:心理学文章索引
 index on censorship:查禁目錄
 index one of them:索引他们中的一个
 index one:索引一
@@ -40941,6 +41017,11 @@ indigenous inhabitants of the new territories:新界原居民
 indigenous ketagalan boulevard protest:凱道部落
 indigenous knowledge:本土的知識
 indigenous knowledge:本土的知识
+indigenous language of australia:澳洲原住民語言
+indigenous language of mexico:墨西哥原住民語言
+indigenous language of north america:北美洲原住民語言
+indigenous language of south america:南美洲原住民語言
+indigenous language of the americas:美洲原住民語言
 indigenous language research:原住民語言研究
 indigenous language:原住民語言
 indigenous languages of the americas:美洲原住民語言
@@ -40979,8 +41060,30 @@ indigenous peoples in canada:加拿大原住民
 indigenous peoples in chile:智利原住民
 indigenous peoples issue:原住民问题
 indigenous peoples march:原住民游行
+indigenous peoples of africa:非洲原住民
+indigenous peoples of australia:澳大利亚原住民
+indigenous peoples of australia:澳洲原住民
+indigenous peoples of bolivia:玻利維亞原住民
+indigenous peoples of brazil:巴西原住民
+indigenous peoples of california:加利福尼亚原住民
+indigenous peoples of canada:加拿大原住民
+indigenous peoples of central america:中美洲原住民
+indigenous peoples of chile:智利原住民
+indigenous peoples of colombia:哥倫比亞原住民
+indigenous peoples of guatemala:危地馬拉原住民
+indigenous peoples of guatemala:瓜地馬拉原住民
+indigenous peoples of honduras:洪都拉斯原住民
+indigenous peoples of mexico:墨西哥原住民
+indigenous peoples of north america:北美洲原住民
+indigenous peoples of oceania:大洋洲原住民
+indigenous peoples of russia:俄羅斯原住民
 indigenous peoples of siberia:西伯利亚原住民
+indigenous peoples of south america:南美洲原住民
+indigenous peoples of taiwan:台湾原住民
+indigenous peoples of taiwan:台灣原住民
+indigenous peoples of taiwan:臺灣原住民
 indigenous peoples of the americas:美洲原住民
+indigenous peoples of the united states:美国原住民
 indigenous peoples rights:原住民权利
 indigenous peoples series:原住民系列
 indigenous peoples:原住民
@@ -44328,8 +44431,10 @@ industrial and commercial bank of china:中国工商银行江门分行
 industrial and commercial bank of china:中国工商银行蓼城大道支行
 industrial and commercial bank of china:中國工商銀行
 industrial and commercial bank of china:中國工商銀行江門分行
+industrial and commercial bank of china:中國工商银行
 industrial and commercial bank of china:工商银行
 industrial and commercial bank of china:工银亚洲(华商银行)
+industrial and commercial bank of vietnam:越南工商银行
 industrial and commercial bank:工商银行
 industrial and organizational psychology:工業與組織心理學
 industrial applications:工业的应用
@@ -44338,6 +44443,7 @@ industrial area:工業區
 industrial assets:工业的资产
 industrial automation:工业的自动化
 industrial bank of china:中国工商银行
+industrial bank of japan:日本兴业银行
 industrial bank of japan:日本興業銀行
 industrial bank of korea:ibk企业银行
 industrial bank of korea:中小企業銀行
@@ -45390,7 +45496,9 @@ industry not:工业不是
 industry now:工业现在
 industry obtain:工业获得
 industry of china:中华人民共和国工业
+industry of china:中国工业
 industry of iran:伊朗產業
+industry of vietnam:越南工业
 industry offer:工业提供
 industry office:工业办公室
 industry officials:工业官员
@@ -54662,7 +54770,9 @@ infrastructure node:基础设施节点
 infrastructure now:基础设施现在
 infrastructure object:基础设施对象
 infrastructure obviously:基础设施显然
+infrastructure of changi airport:新加坡樟宜机场基础设施
 infrastructure of entertainment:基础设施的娱乐
+infrastructure of singapore changi airport:新加坡樟宜机场基础设施
 infrastructure offer:基础设施提供
 infrastructure office:基础设施办公室
 infrastructure once:基础设施一次
@@ -56655,6 +56765,8 @@ inland riffle sculpin:貪食杜父魚
 inland salento:内陆的萨伦托
 inland sea cover:内海覆盖
 inland sea map:内海地图
+inland sea of japan:日本内海
+inland sea of seto:瀨戶内海
 inland sea:内海
 inland silverside:美洲原銀漢魚
 inland sparta:内陆的斯巴达
@@ -64597,6 +64709,7 @@ institute now has more than:研究所现在有超过
 institute now:研究所现在
 institute of acoustics, chinese academy of sciences:中国科学院声学研究所
 institute of acoustics, chinese academy of sciences:中國科學院聲學研究所
+institute of acoustics:声学研究所
 institute of advanced millimeter-wave technology:先进毫米波技术集成攻关研究院
 institute of advanced studies in humanities and social sciences:人文社科高等研究院
 institute of applied mechanics:應用力學館
@@ -64606,21 +64719,32 @@ institute of archaeology:考古學研究所
 institute of archaeology:考古學研究所(被服庫)
 institute of architecture and landscape:北京大学建筑与景观设计学院
 institute of architecture and landscape:北京大學建築與景觀設計學院
+institute of architecture:建筑学院
+institute of art:艺术学院
 institute of asian and african countries:莫斯科国立大学亚非学院
 institute of astronomy:研究所的天文学
 institute of atomic and molecular sciences, academia sinica:zhōngyāng yánjiùyuàn yuánzǐ yǔ fēnzǐ kēxué yánjiùsuǒ
 institute of atomic and molecular sciences, academia sinica:原分所
 institute of automation:中国科学院自动化研究所
+institute of automation:自动化学院
+institute of automation:自动化研究所
+institute of aviation medicine:航空医学研究所
+institute of aviation:航空学院
+institute of aviation:航空研究所
 institute of biological chemistry:生物化学研究所
 institute of biological chemistry:生物化學研究所
 institute of biomedical problems:俄罗斯科学院生物医学问题研究所
 institute of biomedical sciences:生物医学科学研究所
 institute of biomedical sciences:生物醫學科學研究所
+institute of biotechnology:生物技术研究所
 institute of botany, chinese academy of sciences:中国科学院植物研究所
 institute of botany, chinese academy of sciences:中國科學院植物研究所
 institute of british columbia:研究所的不列颠哥伦比亚省
+institute of business administration:工商管理学院
+institute of business studies:商學研究所
 institute of cancer research:癌症研究院
 institute of carl:研究所的卡尔
+institute of catalan studies:加泰罗尼亚研究学院
 institute of cellular and organismic biology:細胞與個體生物學研究所
 institute of cellular and organismic biology:细胞与个体生物学研究所
 institute of certified management accountants:澳大利亚认证管理会计师协会
@@ -64628,6 +64752,7 @@ institute of cetacean research:日本鯨類研究所
 institute of chartered accountants of scotland:蘇格蘭特許會計師公會
 institute of chemistry, chinese academy of sciences:中国科学院化学研究所
 institute of chemistry, chinese academy of sciences:中國科學院化學研究所
+institute of chemistry:化学学院
 institute of chemistry:化学研究所
 institute of chemistry:化學研究所
 institute of chinese literature and philosophy:中国文哲研究所
@@ -64637,11 +64762,16 @@ institute of chinese studies (ics):中华研究院
 institute of chinese studies (ics):中華研究院
 institute of chinese studies:中國文化研究所
 institute of christ the king sovereign priest:基督至尊君王司鐸團
+institute of civil engineering:土木工程学院
 institute of collaborative innovation:協同創新研究所
+institute of computer science:计算机科学学院
 institute of computer technology:计算机实验室
 institute of contemporary arts:當代藝術學院
 institute of creative industries design (icid):國立成功大學 創意產業設計研究所
 institute of credit management:英国信用管理学院
+institute of culture:文化学院
+institute of culture:文化研究所
+institute of design:设计学院
 institute of diplomacy and international affairs:外交部外交及国际事务学院
 institute of diplomacy and international affairs:外交部外交及國際事務學院
 institute of earth sciences:地球科学研究所
@@ -64649,22 +64779,33 @@ institute of earth sciences:地球科學研究所
 institute of economics of the russian academy of sciences:俄罗斯科学院经济研究所
 institute of economics:經濟學研究所
 institute of economics:经济学研究所
+institute of education:教育学院
+institute of education:教育研究所
 institute of education:教育研究院
 institute of electrical and electronics engineers:电气电子工程师学会
 institute of electrical engineering, chinese academy of sciences:中国科学院电工研究所
 institute of electrical engineering, chinese academy of sciences:中國科學院電工研究所
+institute of electronics:电子学研究所
+institute of energy:能源学院
 institute of engineering education taiwan:中華工程教育學會
 institute of engineering north gate:工程学院南门
 institute of engineering north gate:工程學院南門
 institute of engineering:工程学院
 institute of engineering:工程學院
+institute of engineers:工程师学院
+institute of ethnography:民族学研究所
 institute of ethnology:民族学研究所
 institute of ethnology:民族學研究所
 institute of european and american studies:欧美研究所
 institute of european and american studies:歐美研究所
+institute of finance management:金融管理研究所
+institute of forestry:林业学院
+institute of forestry:林业研究所
+institute of france:法国学院
 institute of fruit tree research, guangdong academy of agricultural sciences:广东省农业科学院果树研究所
 institute of fundamental and frontier sciences:基础与前沿研究院
 institute of geochemistry:中国科学院地球化学研究所
+institute of geochemistry:地球化学研究所
 institute of geochemistry:科学院地化所站
 institute of geologist:研究所的地质学家
 institute of health:研究所的健康
@@ -64673,14 +64814,19 @@ institute of high energy physics, cas:中國科學院高能物理研究所
 institute of high energy physics:中国科学院高能物理研究所
 institute of high voltage and insulation technology:高电压及绝缘技术研究所
 institute of high voltage and insulation technology:高電壓及絕緣技術研究所
+institute of higher education:高等教育研究所
 institute of history and philology:历史语言研究所
 institute of history and philology:歷史語言研究所
+institute of history:历史学院
+institute of history:历史研究所
 institute of horticulture (hong kong):香港園藝學會
+institute of hotel management:酒店管理学院
 institute of hydrobiology:中国科学院水生生物研究所
 institute of industrial science:東京大學生產技術研究所
 institute of information science:資訊科學研究所
 institute of information science:资讯科学研究所
 institute of information technologies bsuir:信息技术学院 bsuir
+institute of information technology:信息技术学院
 institute of innovation:研究所的創新
 institute of inorganic chemistry:研究所的无机化学
 institute of insight:研究所的洞察力
@@ -64690,42 +64836,65 @@ institute of internal auditors:国际内部审计师协会
 institute of international education estimate:国际教育协会估计
 institute of international education:国际教育协会
 institute of international education:国际教育学院
+institute of international finance:国际金融学院
+institute of international law:国际法学院
+institute of international law:国际法研究所
 institute of international relations prague:布拉格国际关系研究所
 institute of international relations scholar:国际关系学院学者
 institute of international relations, national chengchi university:國立政治大學國際關係研究中心
 institute of international relations:国际关系学院
+institute of international studies:国际研究学院
+institute of law:法律学院
+institute of law:法律研究所
+institute of literature:文学研究所
+institute of management:管理学院
+institute of materials:材料学院
 institute of mathematical statistics:国际数理统计学会
+institute of mathematics:数学学院
+institute of mathematics:数学研究所
 institute of mechanics, chinese academy of sciences:中国科学院力学研究所
 institute of mechanics, chinese academy of sciences:中國科學院力學研究所
 institute of medical specialists:康匯專科醫療中心
+institute of medicine:医学学院
+institute of medicine:医学研究所
 institute of microbiology, cas:中国科学院微生物研究所
 institute of microelectronics:微电子所（集成电路学院）
 institute of microelectronics:微電子所
 institute of microelectronics:微電子研究院
 institute of modern history (imh), academia sinica:近代史研究所
+institute of molecular biology:分子生物学研究所
 institute of molecular biology:分子生物研究所
 institute of national remembrance:国家记忆研究院
+institute of natural science:自然科学学院
 institute of nuclear and new energy technolog:清华大学核能与新能源技术研究院
 institute of nuclear and new energy technology:核能与新能源技术研究院
 institute of nuclear and new energy technology:核能與新能源技術研究院
 institute of nuclear and new energy technology:清华大学
 institute of nuclear physics of the academy of sciences of the republic of uzbekistan:乌兹别克斯坦科学院核物理研究所
+institute of oceanography:海洋学研究所
 institute of optics and electronics:中国科学院光电技术研究所
 institute of oriental manuscripts of the russian academy of sciences:俄罗斯科学院东方文献研究所
 institute of pacific relations:太平洋国际学会
 institute of party history and literature:中国共产党中央委员会党史和文献研究院
+institute of petroleum:石油学院
+institute of philosophy:哲学学院
+institute of philosophy:哲学研究所
 institute of physical education①:广州体院
 institute of physical education②:广州体院
 institute of physical education③:广州体院
 institute of physics and power engineering:莱朋斯基物理和动力工程研究院
 institute of physics, chinese academy of sciences:中国科学院物理研究所
 institute of physics, chinese academy of sciences:中國科學院物理研究所
+institute of physics:物理学院
 institute of physics:物理研究所
 institute of physics:研究所的物理
 institute of physics:英国物理学会
 institute of plant and microbial biology:植物暨微生物学研究所
 institute of plant and microbial biology:植物暨微生物學研究所
 institute of policy studies:政策研究所
+institute of political science:政治学研究所
+institute of politics:政治学院
+institute of politics:政治研究所
 institute of politics:研究所的政治
 institute of postgraduate studies and research (ipsr):高等教育与研究所
 institute of postgraduate studies and research (ipsr):高等教育与研究所（ipsr）
@@ -64736,22 +64905,40 @@ institute of process engineering, chinese academy of sciences:中国科学院过
 institute of process engineering, chinese academy of sciences:中國科學院過程工程研究所（東區）
 institute of process engineering, chinese academy of sciences:中國科學院過程工程研究所（西區）
 institute of professional education and knowledge:高峰進修學院
+institute of psychiatry:精神病学研究所
 institute of psychology, chinese academy of sciences:中国科学院心理研究所
 institute of psychology, chinese academy of sciences:中國科學院心理研究所
+institute of public health:公共卫生学院
+institute of public relations:公共关系学院
 institute of radio engineers:无线电工程师学会
+institute of radium:镭研究所
 institute of red professors:红色教授学院
 institute of related work:研究所的相关工作
+institute of religion:宗教研究所
 institute of revolutionary practice:革命實踐研究院
+institute of russian literature:俄罗斯文学研究所
 institute of science and technology austria:奥地利科技學院
+institute of science and technology:科技学院
 institute of science tokyo hospital:東京科學大學醫院
 institute of science tokyo:東京科學大學
+institute of science:科学学院
+institute of scientific information:科学信息研究所
 institute of semiconductors, chinese academy of sciences:中国科学院半导体研究所
 institute of semiconductors, chinese academy of sciences:中國科學院半導體研究所
+institute of sexology:性學研究所
+institute of sociology:社会学研究所
+institute of software:软件学院
+institute of software:软件研究所
 institute of space and astronautical science:宇宙科学研究所
 institute of space and telecommunications law:空间和电信法研究所
+institute of space science:空间科学研究所
+institute of space technology:航天技术研究所
+institute of spain:西班牙学院
+institute of state and law:国家与法律研究所
 institute of statistical science:統計所
 institute of statistical science:统计所
 institute of sustainable development:研究所的可持续发展
+institute of systems science:系统科学学院
 institute of systems science:系统科学院
 institute of technical education:工艺教育学院
 institute of technology estimate:技术学院估计
@@ -64760,17 +64947,23 @@ institute of technology karnataka:技术学院卡纳塔克邦
 institute of technology police officer:技术学院警察
 institute of technology:工業學院
 institute of technology:技术学院
+institute of technology:科技学院
 institute of the estonian language:爱沙尼亚语言研究院
+institute of theology:神学学院
 institute of theoretical physics, chinese academy of sciences:中国科学院理论物理研究所
 institute of theoretical physics, chinese academy of sciences:中國科學院理論物理研究所
 institute of tibetan plateau research, itp cas:中国科学院青藏高原研究所
 institute of tibetan plateau research, itp cas:中國科學院青藏高原研究所
 institute of transportation:交通部運輸研究所
+institute of tropical medicine:熱帶醫學研究所
 institute of vertebrate paleontology and paleoanthropology:中国科学院古脊椎动物与古人类研究所
 institute of water policy:水资源政策研究所
 institute of work:研究所的工作
+institute of world economy and politics:世界经济与政治研究所
 institute of yilan county history:宜蘭縣史館
+institute of youth:青年学院
 institute of zoology, cas:中国科学院动物研究所
+institute of zoology:动物学研究所
 institute offer:学院提供
 institute offer:研究所提供
 institute office:学院办公室
@@ -64937,6 +65130,7 @@ institution is necessary:制度是必要的
 institution of civil engineers:土木工程師學會
 institution of engineering and technology:國際工程技術學會
 institution of hydroenergy:水能研究院
+institution of marriage:婚姻制度
 institution of mechanical engineers:機械工程師學會
 institution or law:制度或法律
 institution or mechanisms:制度或机制
@@ -65333,9 +65527,11 @@ institutions no longer:机构不再
 institutions now:机构现在
 institutions nurture:机构培养
 institutions of drugs:机构的药品
+institutions of higher education:高等教育机构
 institutions of president:机构的总统
 institutions of public:机构的公共
 institutions of researchers began:机构的研究人员开始
+institutions of the european union:欧盟机构
 institutions of the european union:歐洲聯盟機構
 institutions offer actor training:机构提供演员培训
 institutions offer certification:机构提供认证
@@ -66760,6 +66956,7 @@ insurance company know:保险公司知道
 insurance company loss:保险公司损失
 insurance company munich re:保险公司慕尼黑再保险
 insurance company no longer:保险公司不再
+insurance company of north america:北美洲保险公司
 insurance company offer:保险公司提供
 insurance company or agent:保险公司或代理人
 insurance company or employer:保险公司或雇主
@@ -67642,6 +67839,7 @@ intangible cultural heritage list:非物质文化遗产列表
 intangible cultural heritage management:非物质文化遗产管理
 intangible cultural heritage month:非物质文化遗产月
 intangible cultural heritage museum:非物质文化遗产博物馆
+intangible cultural heritage of the nation:国家非物质文化遗产
 intangible cultural heritage park station:非遗博览园站
 intangible cultural heritage policy:非物质文化遗产政策
 intangible cultural heritage production:非物质文化遗产生产
@@ -67813,6 +68011,7 @@ integral methods:积分方法
 integral metric:积分度量
 integral nationalism:整合民族主义
 integral object:积分对象
+integral of motion:运动积分
 integral policy:积分政策
 integral representation:积分表示
 integral revolution:积分革命
@@ -67834,6 +68033,7 @@ integral:国际伽玛射线天体物理实验室
 integral:积分
 integralism:整合主義
 integrals cannot:积分不能
+integrals of motion:运动积分
 integrals of simple function:积分的简单函数
 integrals:积分
 integrase catalysis:整合酶催化
@@ -72801,8 +73001,12 @@ interhalogen:互卤化物
 interim championship:临时冠军
 interim committee:暂定委员会
 interim government hopes:临时政府希望
+interim government of ambazonia:安巴佐尼亚临时政府
+interim government of bangladesh:孟加拉国临时政府
+interim government of iran:伊朗临时政府
 interim government of iran:伊朗臨時政府
 interim government of somalia:索马里临时政府
+interim government of somalia:索马里过渡政府
 interim government officials and security:临时政府官员和安全
 interim government officials:临时政府官员
 interim government plans:临时政府计划
@@ -72993,8 +73197,20 @@ interior magnetic field:内部的磁场
 interior metal:内部的金属
 interior minister friedrich:內政部長弗里德里希
 interior minister hans:內政部長漢斯
+interior minister of afghanistan:阿富汗內政部長
+interior minister of austria:奧地利內政部長
+interior minister of france:法國內政部長
+interior minister of germany:德國內政部長
+interior minister of hungary:匈牙利內政部長
+interior minister of pakistan:巴基斯坦內政部長
+interior minister of prussia:普魯士內政部長
 interior minister of the gaza strip:加沙走廊內政部
 interior minister:內政部長
+interior ministry of georgia:喬治亞內政部
+interior ministry of israel:以色列內政部
+interior ministry of pakistan:巴基斯坦內政部
+interior ministry of russia:俄羅斯內政部
+interior ministry of turkey:土耳其內政部
 interior ministry official:內政部官員
 interior ministry secretary:內政部秘書
 interior ministry:內政部
@@ -75494,11 +75710,13 @@ international cemetery:国际墓地
 international center for academic exchange:国际学术交流中心
 international center for relativistic astrophysics:国际相对论天体物理中心
 international center for transitional justice:国际转型正义中心
+international center of photography:摄影国际中心
 international center on small hydropower:国际小水电中心
 international center:国际中心
 international central bank:国际中央银行
 international centre for settlement of investment disputes:国际投资争端解决中心
 international centre for theoretical physics:国际理论物理中心
+international centre of photography:摄影国际中心
 international centre offer:国际中心提供
 international centre:国际中心
 international centre:国际的中心
@@ -75839,6 +76057,7 @@ international commerce centre:环球贸易广场
 international commerce centre:環球貿易廣場
 international commerce:国际商业
 international commercial aviation:国际商用航空
+international commercial bank of china:中国国际商业银行
 international commercial bank:国际商业银行
 international commercial building:國際商業大樓
 international commercial law and international:国际商法和国际
@@ -75859,6 +76078,7 @@ international commitment:国际承诺
 international committee for weights and measures:國際度量衡委員會
 international committee geneva:国际委员会日内瓦
 international committee members:国际委员会成员
+international committee of mediterranean games:地中海运动会国际委员会
 international committee of the fourth international:第四国际国际委员会
 international committee of the red cross and international federation of red cross and red crescent societies:红十字国际委员会和红十字会与红新月会国际联合会
 international committee of the red cross and kenya:红十字国际委员会和肯尼亚
@@ -77652,7 +77872,11 @@ international film consultant:国际电影顾问
 international film distribution:国际电影发行
 international film festival and their:国际电影节和他们的
 international film festival association:国际电影节协会
+international film festival of india:印度国际电影节
 international film festival of india:印度國際影展
+international film festival of kerala:喀拉拉邦国际电影节
+international film festival of marrakech:马拉喀什国际电影节
+international film festival of rotterdam:鹿特丹国际电影节
 international film festival rotterdam:鹿特丹影展
 international film festival:国际电影节
 international film industry:国际电影业
@@ -81122,6 +81346,7 @@ international scholar:国际学者
 international school attached to no.4 highschool of xy:襄阳四中国际学校
 international school foundation:國際學校基金
 international school of beijing:北京顺义国际学校
+international school of france:法國國際學校
 international school of macao:澳門國際學校
 international school of nanshan shenzhen:深圳市南山外籍人员子女学校
 international school of qiushi:开封市求实国际学校
@@ -82901,10 +83126,15 @@ international university london:国际大学伦敦
 international university network was founded in:国际大学网络成立于
 international university network:国际大学网络
 international university networks:国际大学网络
+international university of africa:非洲国际大学
 international university of applied sciences:国际应用科学大学
+international university of catalonia:加泰罗尼亚国际大学
+international university of east africa:东非国际大学
 international university of health and welfare:國際醫療福祉大學
 international university of japan:国际大学
+international university of japan:日本国际大学
 international university of monaco:摩納哥國際大學
+international university of monaco:摩纳哥国际大学
 international university online:国际大学在线
 international university organizations:国际大学组织
 international university partners:国际大学合作伙伴
@@ -86801,6 +87031,7 @@ interpretation models:解释模型
 interpretation obviously:解释显然
 interpretation of bible:解释的圣经
 interpretation of events:解释的事件
+interpretation of probability:概率解释
 interpretation opinion:解释意见
 interpretation or application:解释或应用
 interpretation or conclusion:解释或结论
@@ -91073,6 +91304,7 @@ inuit how to:因纽特人如何
 inuit knowledge:因纽特人知识
 inuit leader:因纽特人领袖
 inuit mythology:因纽特人神话
+inuit of labrador:拉布拉多因纽特人
 inuit organization:因纽特人组织
 inuit overall:因纽特人整体
 inuit people:因纽特人民
@@ -91290,18 +91522,48 @@ invasion movie:入侵电影
 invasion of all time:入侵的所有时间
 invasion of armenia:入侵的亞美尼亞
 invasion of astro monster:怪獸大戰爭
+invasion of britain:英国入侵
+invasion of burma:緬甸入侵
+invasion of cambodia:柬埔寨入侵
+invasion of china:中國入侵
+invasion of cuba:古巴入侵
+invasion of england:英格蘭入侵
+invasion of ethiopia:埃塞俄比亚入侵
+invasion of france:法国入侵
+invasion of france:法國入侵
+invasion of germany:德国入侵
+invasion of germany:德國入侵
+invasion of great britain:英国入侵
+invasion of greece:希臘入侵
 invasion of iceland:英國入侵冰島
+invasion of india:印度入侵
+invasion of iraq:伊拉克入侵
+invasion of italy:意大利入侵
+invasion of italy:義大利入侵
+invasion of japan:日本入侵
+invasion of japan:日本军事入侵
 invasion of lingayen gulf:仁牙因灣戰役
 invasion of matabeleland:入侵的馬塔貝萊蘭
 invasion of normandy by philip ii of france:法國入侵諾曼第
+invasion of normandy:诺曼底入侵
 invasion of palawan:巴拉望島戰役
 invasion of poland:波蘭戰役
+invasion of russia:俄罗斯入侵
+invasion of russia:俄罗斯军事入侵
+invasion of russia:俄羅斯入侵
 invasion of ryukyu:慶長琉球之役
+invasion of soviet union:苏联入侵
+invasion of spain:西班牙入侵
+invasion of sweden:瑞典入侵
+invasion of thailand:泰國入侵
 invasion of the body snatchers:天外魔花
 invasion of the kuril islands:千島群島登陸行動
 invasion of the neptune men:宇宙快速船
+invasion of the soviet union:苏联入侵
 invasion of the spice islands:入侵香料群島
+invasion of the united kingdom:英国入侵
 invasion of the waikato:入侵懷卡托
+invasion of ukraine:烏克蘭入侵
 invasion of yugoslavia:南斯拉夫戰役
 invasion path:入侵路径
 invasion pathway:入侵途径

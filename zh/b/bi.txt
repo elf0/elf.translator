@@ -690,6 +690,8 @@ bible class:圣经课程
 bible code:圣经密码
 bible college and seminary:聖經學院和神學院
 bible college and trade school:圣经学院和贸易学校
+bible college of new zealand:紐西蘭聖經學院
+bible college of wales:威尔斯圣经学院
 bible college:圣经学校
 bible college:圣经学院
 bible college:聖經學院
@@ -862,6 +864,8 @@ bible not:圣经不是
 bible not:聖經不是
 bible now:圣经现在
 bible number:圣经数字
+bible of the devil:魔鬼圣经
+bible of the devil:魔鬼聖經
 bible offer:圣经提供
 bible offer:聖經提供
 bible often:圣经常常
@@ -2052,6 +2056,7 @@ bienen-brunnen:蜂蜜噴泉
 bienenhandels- und agrarinvestitionsunternehmen:蜜蜂贸易和农业投资公司
 bieniów:佐洛奇夫卡
 biennale foundation:雙年展基金
+biennale of venice:威尼斯雙年展
 biennale:雙年展
 biennial plant:二年生植物
 biennio rosso:红色两年
@@ -4681,6 +4686,8 @@ big iron:大铁
 big island and kauai:大岛和考艾岛
 big island jetty:五屿岛码头
 big island jetty:五嶼島碼頭
+big island of hawaii:夏威夷大岛
+big island of hawaii:夏威夷大島
 big island resident:大岛居民
 big island standards:大岛标准
 big island:大岛
@@ -13450,6 +13457,8 @@ biology methods:生物学方法
 biology model:生物学模型
 biology module:生物学模块
 biology observation:生物学观察
+biology of behaviour:行为生物学
+biology of cancer:癌症生物学
 biology online:生物学在线
 biology open:生物学打开
 biology option:生物学选项
@@ -14816,7 +14825,9 @@ bird neutrino:鸟中微子
 bird now:鸟现在
 bird occasionally await:鸟偶尔等待
 bird occasionally:鸟偶尔
+bird of god:神鸟
 bird of paradise:天堂鳥
+bird of paradise:天堂鸟
 bird of paradise:极乐鸟
 bird of prey center:猛禽中心
 bird of prey centre:猛禽中心
@@ -15291,10 +15302,15 @@ birds not:鸟不是
 birds now:鸟现在
 birds occasionally:鸟偶尔
 birds of america:美国鸟类
+birds of america:美洲鸟类
+birds of china:中国鸟
+birds of fire:火鸟
+birds of paradise:天堂鸟
 birds of paradise:鸟的天堂
 birds of paradise:鸟类的天堂
 birds of prey:鸟的猎物
 birds of prey:鸟类的猎物
+birds of the world:世界鸟类
 birds often:鸟常常
 birds often:鸟类常常
 birds once:鸟类曾经
@@ -16135,6 +16151,8 @@ birth of a beauty:美女的誕生
 birth of agriculture:出生的农业
 birth of freedom:出生的自由
 birth of infect:出生的感染
+birth of jesus:耶稣出生
+birth of jesus:耶穌出生
 birth of john:出生的約翰
 birth of mani:摩尼誕生圖
 birth of prince george:出生的喬治王子
@@ -16426,6 +16444,7 @@ birthday number:生日数
 birthday number:生日数字
 birthday numbers:生日数字
 birthday obviously:生日显然
+birthday of muhammad:穆罕默德生日
 birthday on the road:生日在路上
 birthday only:生日只有
 birthday or anniversary:生日或周年纪念日
@@ -16519,6 +16538,7 @@ birthplace jamaica:出生地牙买加
 birthplace museum:出生地博物馆
 birthplace nicosia:出生地尼科西亚
 birthplace obtain:出生地获得
+birthplace of park chung hee:朴正熙出生地
 birthplace principle:出生地原则
 birthplace singapore:出生地新加坡
 birthplace to robert:出生地到罗伯特
@@ -16984,6 +17004,7 @@ bishop glacier:比紹普冰川
 bishop grant:主教授予
 bishop grosseteste university:格羅斯泰特主教大學
 bishop hall jubilee school:何明華會督銀禧中學
+bishop henry of finland:芬蘭主教亨利
 bishop henry:主教亨利
 bishop i:主教我
 bishop icon:主教图标
@@ -17020,15 +17041,181 @@ bishop nicholas:主教尼古拉斯
 bishop notice:主教注意
 bishop now:主教现在
 bishop odin:主教奥丁
+bishop of alessandria:亚历山大主教
+bishop of alessandria:亚历山德里亚主教
+bishop of alessandria:亞歷山大港主教
+bishop of alexandria:亚历山大主教
+bishop of alexandria:亚历山德里亚主教
+bishop of alexandria:亞歷山大港主教
+bishop of amasea:阿馬西亞主教
+bishop of amasia:阿馬西亞主教
+bishop of amiens:亚眠主教
+bishop of angoulême:昂古莱姆主教
+bishop of arezzo:阿雷佐主教
+bishop of argentina:阿根廷主教
+bishop of auckland:奥克兰主教
+bishop of augsburg:奧格斯堡主教
+bishop of avignon:阿维尼翁主教
+bishop of bangor:班戈主教
 bishop of bari:主教的巴里
+bishop of basel:巴塞尔主教
 bishop of bath and wells:巴斯暨韦尔斯主教
+bishop of bayeux:巴约主教
+bishop of beijing:北京主教
+bishop of benevento:貝內文托主教
+bishop of bergen:卑爾根主教
+bishop of berlin:柏林主教
+bishop of bologna:博洛尼亚主教
+bishop of boston:波士顿主教
+bishop of breslau:弗羅茨瓦夫主教
+bishop of brno:布爾諾主教
+bishop of buckingham:白金漢主教
+bishop of buenos aires:布宜諾斯艾利斯主教
+bishop of byzantium:拜占庭主教
+bishop of chartres:沙特尔主教
+bishop of chester:切斯特主教
+bishop of chiayi:嘉義主教
+bishop of chicago:芝加哥主教
+bishop of chichester:奇切斯特主教
+bishop of chile:智利主教
+bishop of christchurch:基督城主教
+bishop of cincinnati:辛辛那提主教
+bishop of ciudad rodrigo:罗德里戈城主教
+bishop of clermont:克莱蒙主教
+bishop of como:科莫主教
+bishop of constantinople:君士坦丁堡主教
+bishop of copenhagen:哥本哈根主教
+bishop of dover:多佛主教
 bishop of durham:达勒姆主教
+bishop of edinburgh:愛丁堡主教
+bishop of ely:伊利主教
+bishop of ephesus:以弗所主教
+bishop of exeter:埃克塞特主教
+bishop of ferrara:费拉拉主教
+bishop of finland:芬蘭主教
+bishop of frascati:弗拉斯卡蒂主教
+bishop of freising:弗赖辛主教
+bishop of geneva:日內瓦主教
+bishop of genève:日內瓦主教
+bishop of gibraltar:直布羅陀主教
+bishop of glasgow:格拉斯哥主教
+bishop of glendalough:格倫達洛主教
+bishop of gloucester:格洛斯特主教
+bishop of gniezno:格涅兹诺主教
+bishop of gubbio:古比奥主教
+bishop of hereford:赫里福德主教
+bishop of hildesheim:希尔德斯海姆主教
+bishop of hong kong:香港主教
+bishop of iceland:冰島主教
+bishop of ireland:愛爾蘭主教
 bishop of jerusalem:主教的耶路撒冷
+bishop of jerusalem:耶路撒冷主教
+bishop of kiev:基辅主教
+bishop of konstanz:康斯坦茨主教
+bishop of krakow:克拉科夫主教
+bishop of kraków:克拉科夫主教
+bishop of kyiv:基辅主教
+bishop of langres:朗格勒主教
+bishop of lausanne:洛桑主教
+bishop of le mans:勒芒主教
+bishop of león:里昂主教
+bishop of limerick:利默里克主教
+bishop of lincoln:林肯主教
+bishop of lindisfarne:林迪斯法恩主教
+bishop of lisieux:利雪主教
+bishop of liverpool:利物浦主教
+bishop of liège:列日主教
+bishop of llandaff:蘭達夫主教
 bishop of london:伦敦主教
+bishop of london:倫敦主教
+bishop of lucca:卢卡主教
+bishop of lugdunum:里昂主教
+bishop of lyon:里昂主教
+bishop of macau:澳門主教
+bishop of mainz:美因茨主教
+bishop of mainz:美茵茨主教
+bishop of marseille:马赛主教
+bishop of meaux:莫城主教
+bishop of metz:梅斯主教
+bishop of milan:米兰主教
+bishop of milan:米蘭主教
+bishop of monmouth:蒙茅斯主教
+bishop of munster:明斯特主教
+bishop of münster:明斯特主教
+bishop of naples:那不勒斯主教
+bishop of nashville:纳什维尔主教
+bishop of newfoundland:纽芬兰主教
+bishop of oakland:奥克兰主教
+bishop of orleans:奧爾良主教
+bishop of orléans:奧爾良主教
+bishop of osnabrück:奥斯纳布吕克主教
+bishop of oxford:牛津主教
+bishop of paderborn:帕德博恩主教
+bishop of padova:帕多瓦主教
+bishop of padua:帕多瓦主教
+bishop of panamá:巴拿馬主教
+bishop of paris:巴黎主教
+bishop of passau:帕绍主教
+bishop of philadelphia:费城主教
+bishop of piacenza:皮亚琴察主教
+bishop of plasencia:皮亚琴察主教
 bishop of poitiers:主教的普瓦捷
+bishop of poitiers:普瓦捷主教
 bishop of port:主教的港口
+bishop of pyongyang:平壤主教
+bishop of ravenna:拉文納主教
+bishop of regensburg:雷根斯堡主教
+bishop of reims:兰斯主教
+bishop of rennes:雷恩主教
+bishop of richmond:里士满主教
+bishop of riga:里加主教
+bishop of rochester:羅徹斯特主教
+bishop of roman:罗马主教
+bishop of rome:罗马主教
+bishop of rome:羅馬主教
+bishop of saint-denis:聖但尼主教
+bishop of salamanca:萨拉曼卡主教
+bishop of salzburg:萨尔茨堡主教
+bishop of salzburg:薩爾茨堡主教
+bishop of santiago de chile:聖地亞哥主教
+bishop of santiago:聖地亞哥主教
+bishop of schwerin:什未林主教
+bishop of seville:塞維亞主教
+bishop of sherborne:舍伯恩主教
+bishop of siena:锡耶纳主教
+bishop of singapore:新加坡主教
+bishop of soissons:苏瓦松主教
+bishop of stockholm:斯德哥尔摩主教
+bishop of strasbourg:史特拉斯堡主教
+bishop of strasbourg:斯特拉斯堡主教
+bishop of strasburg:史特拉斯堡主教
+bishop of strasburg:斯特拉斯堡主教
+bishop of strassburg:史特拉斯堡主教
+bishop of strassburg:斯特拉斯堡主教
+bishop of tarbes:塔布主教
+bishop of toledo:托萊多主教
+bishop of trier:特里尔主教
+bishop of uppsala:乌普萨拉主教
+bishop of urbino:乌尔比诺主教
+bishop of urgell:乌赫尔主教
+bishop of utrecht:乌得勒支主教
+bishop of utrecht:乌特勒支主教
+bishop of utrecht:烏得勒支主教
+bishop of valence:瓦朗斯主教
+bishop of valença:瓦朗斯主教
+bishop of verdun:凡尔登主教
 bishop of victoria:維多利亞主教
+bishop of vigevano:维杰瓦诺主教
+bishop of vilnius:维尔纽斯主教
+bishop of vitoria:維多利亞主教
+bishop of wakefield:韦克菲尔德主教
+bishop of warmia:瓦尔米亚主教
+bishop of wilno:维尔纽斯主教
 bishop of winchester:温彻斯特主教
+bishop of wroclaw:弗羅茨瓦夫主教
+bishop of wrocław:弗羅茨瓦夫主教
+bishop of york:约克主教
+bishop of zagreb:萨格勒布主教
 bishop once:主教曾经
 bishop or bishop:主教或主教
 bishop or count:主教或伯爵

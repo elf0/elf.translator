@@ -3836,6 +3836,7 @@ james the less:小雅各
 james to:涂謹申
 james township:詹姆斯镇区
 james tsai:蔡仁堅
+james v of scotland:苏格兰詹姆斯五世
 james v visit:詹姆斯五世访问
 james v:詹姆斯五世
 james vi and i:詹姆士六世及一世
@@ -7476,12 +7477,21 @@ japanese numbers:日语数字
 japanese numerals:日語數字
 japanese occupation of attu:日軍佔領阿圖島
 japanese occupation of british borneo:英屬婆羅洲日佔時期
+japanese occupation of burma:緬甸日治時期
 japanese occupation of cambodia:柬埔寨日占时期
 japanese occupation of hong kong:香港日佔時期
+japanese occupation of hong kong:香港日治時期
+japanese occupation of indonesia:印尼日治時期
+japanese occupation of indonesia:印度尼西亞日治時期
 japanese occupation of kiska:日軍佔領基斯卡島
+japanese occupation of korea:朝鲜日治時期
 japanese occupation of malaya:马来亚日占时期
 japanese occupation of nauru:瑙鲁日占时期
 japanese occupation of singapore:新加坡日佔時期
+japanese occupation of singapore:新加坡日治時期
+japanese occupation of taiwan:台湾日治時期
+japanese occupation of taiwan:台灣日治時期
+japanese occupation of taiwan:臺灣日治時期
 japanese occupation of the dutch east indies:荷屬東印度日佔時期
 japanese occupation of the philippines:菲律賓日佔時期
 japanese occupation:日治時期
@@ -7604,8 +7614,12 @@ japanese school of beijing:北京日本人学校
 japanese school of beijing:日本驻中华人民共和国大使馆附属北京日本人学校
 japanese school of dalian:大连日本人学校
 japanese school of guangzhou:广州日本人外籍人员子女学校
+japanese school of guangzhou:广州日本人学校
 japanese school of johannesburg:约翰内斯堡日本人学校
+japanese school of melbourne:墨尔本日本人学校
+japanese school of prague:布拉格日本人学校
 japanese school of suzhou:苏州日本人外籍人员子女学校
+japanese school of suzhou:苏州日本人学校
 japanese school:日僑學校
 japanese school:日本人学校
 japanese school:日语学校
@@ -8327,6 +8341,7 @@ jargon explosion:术语爆炸
 jargon file:新黑客词典
 jargon file:术语文件
 jargon name:术语名称
+jargon of cricket:板球术语
 jargon:术语
 jargon:行話
 jariban district:贾里班区

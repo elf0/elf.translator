@@ -2567,6 +2567,7 @@ labor park (mrt shijia station):勞工公園(捷運獅甲站)
 labor park:láodòng gōngyuán
 labor park:勞工公園
 labor participation:劳动力参与
+labor party of the united states:美国工人党
 labor party:工人党
 labor platforms and online:劳动力平台和在线
 labor platforms:劳动力平台
@@ -3153,6 +3154,8 @@ laboratory of dr:实验室的博士
 laboratory of intelligent collaborative computing:智能计算研究院
 laboratory of jonathan:实验室的乔纳森
 laboratory of literature:实验室的文学
+laboratory of molecular biology:分子生物学实验室
+laboratory of ornithology:鳥類學實驗室
 laboratory offer:实验室提供
 laboratory officials:实验室官员
 laboratory open:实验室开
@@ -3658,8 +3661,13 @@ labour parliament:工人议会
 labour party candidate:工人党候选人
 labour party conference:工人党会议
 labour party leader:工人党领袖
+labour party of albania:阿爾巴尼亞勞動黨
+labour party of brazil:巴西工人党
 labour party of indonesia:印度尼西亞工黨
+labour party of ireland:爱尔兰工人党
 labour party of malaya:马来亚劳工党
+labour party of new zealand:新西兰工人党
+labour party of turkey:土耳其工人党
 labour party pakistan:巴基斯坦劳动党
 labour party:勞動黨
 labour party:工人党
@@ -3892,6 +3900,7 @@ labweh:拉布韦
 labynkyr lake:拉本克爾湖
 labyrinth cut:迷宮切割
 labyrinth of lies:謊言迷宮
+labyrinth of passion:激情迷宮
 labyrinth streets:迷宮街道
 labyrinth:迷宮
 labyrinthitis:迷路炎
@@ -6247,6 +6256,8 @@ lagoon ecosystem:潟湖生态系统
 lagoon island:潟湖島
 lagoon mirim:米林潟湖
 lagoon nebula:礁湖星雲
+lagoon of szczecin:什切青潟湖
+lagoon of venice:威尼斯潟湖
 lagoon point:拉贡角
 lagoon triggerfish:叉斑锉鳞鲀
 lagoon would:潟湖将
@@ -8782,15 +8793,40 @@ lake núbia:努比亚湖
 lake ober see:奧伯塞湖
 lake occasionally:湖泊偶尔
 lake of blood:湖的血液
+lake of bracciano:布拉恰诺湖
+lake of como:科莫湖
+lake of death:死湖
 lake of dojran:多伊蘭湖
 lake of dream:梦之湖
 lake of dreams:梦之湖
+lake of egypt:埃及湖
+lake of fire:火湖
+lake of geneva:日內瓦湖
+lake of geneva:日内瓦湖
 lake of impeccable clarity:澄明湖
+lake of kastoria:卡斯托里亚湖
+lake of lucerne:卢塞恩湖
+lake of lucerne:琉森湖
+lake of lugano:盧加諾湖
+lake of ohrid:奥赫里德湖
+lake of ontario:安大略湖
+lake of shkodër:斯库台湖
+lake of skadar:斯库台湖
 lake of tears:淚湖
 lake of the clouds:雲彩湖
 lake of the new moon:新月湖
 lake of the woods:伍茲湖
+lake of thun:图恩湖
 lake of tunis:突尼斯湖
+lake of tunis:突尼西亞湖
+lake of varese:瓦雷泽湖
+lake of varese:瓦雷澤湖
+lake of zug:楚格湖
+lake of zug:祖格湖
+lake of zurich:苏黎世湖
+lake of zurich:蘇黎世湖
+lake of zürich:苏黎世湖
+lake of zürich:蘇黎世湖
 lake offer:湖提供
 lake ogawara:小川原湖
 lake ohakuri:奧哈庫里湖
@@ -11871,6 +11907,8 @@ land await:土地等待
 land awards:土地奖
 land back:土地回
 land bank illegal:土地銀行非法
+land bank of taiwan:台湾土地银行
+land bank of taiwan:台灣土地銀行
 land bank of taiwan:土地銀行
 land bank of taiwan:土地银行
 land bank of taiwan:臺灣土地銀行
@@ -11992,6 +12030,7 @@ land council:土地委员会
 land council:土地理事会
 land council:土地议会
 land country:陆地国家
+land court of hawaiʻi:夏威夷州土地法院
 land court:土地法院
 land cover and land use:土地覆盖和土地利用
 land cover and their:土地覆盖和他们的
@@ -12415,19 +12454,28 @@ land odyssey:陆地奥德赛
 land of bad:天眼救援
 land of black gold:黑金之國
 land of canaan:土地的迦南
+land of darkness:黑暗陆地
 land of frankincense:乳香之地
+land of freedom:自由土地
 land of gold:純金的地
+land of gold:金柏林
 land of goshen:歌珊地
 land of happiness:幸福的國家
 land of hope and glory:希望与光荣的土地
+land of hunger:饥饿土地
 land of india:土地的印度
 land of islam:土地的伊斯兰教
 land of israel speak:以色列地说话
+land of israel:以色列土地
 land of israel:以色列地
+land of liberty:自由土地
+land of lithuania:立陶宛土地
 land of mine:拆彈少年
 land of nod:挪得之地
 land of oz:奧茲國
 land of punt:邦特之地
+land of sin:中国土地
+land of sin:中国陆地
 land of splendor:万象江山
 land of splendor:萬象江山
 land of stranger:土地的陌生人
@@ -12801,6 +12849,7 @@ land transactions:土地交易
 land transfer:土地转移
 land transfer:土地转让
 land transparency:土地透明
+land transport authority of singapore:新加坡陆路交通管理局
 land transport authority:陆路交通管理局
 land transport biofuel:陆地运输生物燃料
 land transport infrastructure:陆地运输基础设施
@@ -14017,6 +14066,8 @@ landscape morphology:景观形态学
 landscape needs:景观需要
 landscape node:景观节点
 landscape obviously:景观显然
+landscape of agriculture:农业景观
+landscape of agriculture:农业风景
 landscape of opportunities:景观的机会
 landscape offer:景观提供
 landscape oil painting:风景油画
@@ -24507,11 +24558,19 @@ language obstruction:语言障碍
 language obviously:语言显然
 language ocean:語言海洋
 language ocean:语言海洋
+language of africa:非洲語言
+language of africa:非洲语言
 language of course:语言当然
 language of flowers:花语
+language of india:印度語言
+language of india:印度语言
+language of music:音乐语言
 language of my father:語言的我的父親
 language of the birds:鸟语
+language of the european union:欧盟语言
+language of the philippines:菲律宾语言
 language of thought hypothesis:心語假說
+language of thought:思想语言
 language offer:语言提供
 language office:语言办公室
 language official website:语言官方网站
@@ -24653,6 +24712,7 @@ language policies:语言政策
 language policy and language:语言政策与语言
 language policy and legislation:语言政策和立法
 language policy in taiwan during martial law:國語政策
+language policy of france:法国语言政策
 language policy:語言政策
 language policy:语言政策
 language politics:语言政治
@@ -25410,41 +25470,106 @@ languages need:语言需要
 languages now:语言现在
 languages of africa:非洲语言
 languages of angola:安哥拉語言
+languages of angola:安哥拉语言
+languages of art:艺术语言
+languages of asia:亚洲语言
+languages of australia:澳大利亚语言
+languages of australia:澳洲语言
 languages of bangladesh:孟加拉國語言
+languages of belarus:白俄罗斯语言
 languages of belgium:比利时语言
+languages of bhutan:不丹语言
+languages of brunei:文莱语言
+languages of burma:缅甸语言
+languages of cameroon:喀麦隆语言
 languages of canada:加拿大語言
+languages of canada:加拿大语言
+languages of chile:智利语言
 languages of china:中国语言
+languages of design:设计语言
+languages of east asia:东亚语言
 languages of east asia:東亞語言
 languages of egypt:埃及語言
+languages of england:英格兰语言
+languages of estonia:爱沙尼亚语言
 languages of europe and india:欧洲语言和印度
 languages of europe:欧洲语言
+languages of finland:芬兰语言
+languages of france:法国语言
 languages of france:法國語言
 languages of germany:德国语言
 languages of gibraltar:直布罗陀语言
+languages of greece:希腊语言
+languages of greenland:格陵兰语言
 languages of guatemala:瓜地馬拉語言
 languages of hong kong:香港語文
+languages of hong kong:香港语言
+languages of hungary:匈牙利语言
 languages of india:印度语言
+languages of indonesia:印尼语言
+languages of indonesia:印度尼西亚语言
+languages of ireland:爱尔兰语言
 languages of israel:以色列语言
+languages of italy:意大利语言
 languages of japan:日本語言
+languages of japan:日本语言
+languages of latvia:拉脱维亚语言
 languages of liechtenstein:列支敦士登语言
+languages of lithuania:立陶宛语言
+languages of luxembourg:卢森堡语言
+languages of macau:澳门语言
 languages of malaysia:馬來西亞語言
+languages of malaysia:马来西亚语言
+languages of mexico:墨西哥语言
+languages of mongolia:蒙古语言
+languages of myanmar:缅甸语言
+languages of nepal:尼泊尔语言
+languages of new caledonia:新喀里多尼亚语言
+languages of new zealand:新西兰语言
+languages of north america:北美洲语言
 languages of oceania:大洋洲諸語言
+languages of oceania:大洋洲语言
 languages of pakistan:巴基斯坦語言
+languages of pakistan:巴基斯坦语言
+languages of papua new guinea:巴布亚新几内亚语言
+languages of paraguay:巴拉圭语言
+languages of peru:秘鲁语言
+languages of romania:罗马尼亚语言
+languages of russia:俄罗斯语言
+languages of science:科学语言
 languages of serbia:塞尔维亚语言
 languages of singapore:新加坡语言
+languages of somalia:索马里语言
 languages of south africa:南非语言
+languages of south america:南美洲语言
+languages of south asia:南亚语言
+languages of south korea:韩国语言
 languages of spain:西班牙语言
+languages of suriname:苏里南语言
+languages of sweden:瑞典语言
 languages of switzerland:瑞士语言
+languages of taiwan:台湾语言
 languages of taiwan:臺灣語言列表
+languages of the americas:美洲语言
 languages of the balkans:巴尔干语言
 languages of the caucasus:高加索诸语言
+languages of the eu:欧盟语言
+languages of the european union:欧盟语言
 languages of the european union:歐洲聯盟語言
+languages of the netherlands:荷兰语言
+languages of the philippines:菲律宾语言
 languages of the philippines:菲律賓語言
 languages of the roman empire:罗马帝国语言
 languages of the soviet union:苏联语言
+languages of the united kingdom:英国语言
 languages of the united states:美国语言
+languages of the world:世界语言
+languages of transnistria:德涅斯特河沿岸语言
+languages of turkey:土耳其语言
+languages of ukraine:乌克兰语言
 languages of ukraine:烏克蘭語言
 languages of uzbekistan:乌兹别克斯坦语言
+languages of yugoslavia:南斯拉夫语言
 languages offer:语言提供
 languages official language:语言官方语言
 languages often:语言常常
@@ -41453,6 +41578,7 @@ latin dictionary:拉丁语词典
 latin document:拉丁语文献
 latin edition:拉丁文版本
 latin edition:拉丁语版本
+latin empire of constantinople:君士坦丁堡拉丁帝国
 latin empire:拉丁帝国
 latin europe:拉丁歐洲
 latin exam:拉丁语考试
@@ -44382,59 +44508,167 @@ law no longer:法律不再
 law not:法律不是
 law now:法律现在
 law obligation:法律义务
+law of abkhazia:阿布哈兹法律
 law of agency:代理
+law of albania:阿爾巴尼亞法律
+law of andorra:安道爾法律
+law of anguilla:安圭拉法律
+law of antigua and barbuda:安提瓜和巴布達法律
+law of argentina:阿根廷法律
+law of aruba:阿魯巴法律
 law of attract:法律的吸引
+law of australia:澳洲法律
+law of austria:奧地利法律
+law of azerbaijan:阿塞拜疆法律
+law of belarus:白俄羅斯法律
+law of belgium:比利時法律
+law of belize:伯利茲法律
+law of bermuda:百慕大法律
+law of bhutan:不丹法律
+law of bolivia:玻利維亞法律
+law of bosnia and herzegovina:波斯尼亞和黑塞哥維那法律
+law of brazil:巴西法律
+law of bulgaria:保加利亞法律
+law of burkina faso:布基納法索法律
+law of burundi:布隆迪法律
+law of cambodia:柬埔寨法律
 law of canada:加拿大法律
+law of chile:智利法律
+law of china:中华人民共和国法律
+law of china:中国法律
+law of china:中國法律
+law of china:中華人民共和國法律
+law of colombia:哥倫比亞法律
 law of constancy of interfacial angles:面角守恒定律
 law of cosines:餘弦定理
+law of costa rica:哥斯達黎加法律
 law of cotangents:余切定理
+law of croatia:克羅地亞法律
+law of cuba:古巴法律
 law of definite proportions:定比定律
 law of demand:需求定律
 law of demeter:得墨忒耳定律
+law of denmark:丹麥法律
+law of denmark:丹麦法律
 law of desire:慾望之規條
 law of development:法律的发展
 law of dilution:稀释定律
+law of ecuador:厄瓜多爾法律
 law of effect:效果律
+law of england:英格兰法律
+law of england:英格蘭法律
+law of estonia:愛沙尼亞法律
+law of ethiopia:埃塞俄比亞法律
 law of excluded middle will:排中律会
 law of excluded middle:排中律
+law of finland:芬蘭法律
 law of force:法律的力量
+law of france:法国法律
+law of france:法國法律
+law of georgia:格魯吉亞法律
+law of germany:德国法律
+law of germany:德國法律
+law of gibraltar:直布羅陀法律
+law of grenada:格林納達法律
+law of guatemala:危地馬拉法律
+law of guernsey:根西島法律
+law of haiti:海地法律
+law of honduras:洪都拉斯法律
+law of hong kong:香港法律
 law of hong kong:香港法律制度
+law of hungary:匈牙利法律
+law of iceland:冰島法律
 law of identity:同一律
+law of india:印度法律
+law of indiana:印第安納州法律
+law of ireland:爱尔兰法律
+law of israel:以色列法律
+law of italy:意大利法律
+law of italy:義大利法律
 law of jante:詹代法則
 law of japan:日本法律
+law of jersey:澤西島法律
+law of kosovo:科索沃法律
 law of large numbers:大數法則
+law of latvia:拉脫維亞法律
+law of lebanon:黎巴嫩法律
+law of lithuania:立陶宛法律
+law of louisiana:路易斯安那州法律
+law of luxembourg:盧森堡法律
+law of malaysia:馬來西亞法律
+law of malaysia:马来西亚法律
 law of malaysia:马来西亚法律制度
 law of mass action:質量作用定律
+law of mauritius:模里西斯法律
+law of mexico:墨西哥法律
 law of moses and israel:摩西律法和以色列
 law of moses said:摩西律法说
 law of moses:摩西律法
 law of multiple proportions:倍比定律
+law of nature:自然法律
+law of new jersey:紐澤西州法律
+law of new york:紐約州法律
+law of new york:纽约州法律
 law of noncontradiction:无矛盾律
+law of north korea:北韓法律
+law of north korea:朝鮮民主主義人民共和國法律
+law of north korea:朝鲜民主主义人民共和国法律
 law of north korea:朝鲜法律
+law of northern ireland:北爱尔兰法律
+law of norway:挪威法律
 law of obligations:債權
 law of one price:一價定律
+law of palestine:巴勒斯坦法律
+law of panama:巴拿馬法律
+law of paraguay:巴拉圭法律
+law of peru:秘魯法律
+law of poland:波蘭法律
 law of political responsibilities:政治責任法
+law of portugal:葡萄牙法律
+law of quebec:魁北克法律
 law of rent:地租理论
 law of return:回歸法
+law of romania:羅馬尼亞法律
+law of russia:俄罗斯法律
 law of russia:俄羅斯法律
+law of scotland:苏格兰法律
+law of scotland:蘇格蘭法律
+law of serbia:塞爾維亞法律
 law of sines equation:正弦定理等式
 law of sines:正弦定理
 law of singapore:新加坡法律
+law of slovakia:斯洛伐克法律
+law of slovenia:斯洛文尼亞法律
+law of south korea:南韓法律
+law of south korea:大韩民国法律
+law of south korea:韓國法律
 law of south korea:韩国法律
+law of spain:西班牙法律
+law of sri lanka:斯里兰卡法律
 law of succession:王位繼承法
 law of superposition:叠覆律
 law of supply and demand:供给和需求
 law of supply:供给
 law of suspects:惩治嫌疑犯法
+law of sweden:瑞典法律
+law of switzerland:瑞士法律
 law of taiwan:中華民國法律
+law of taiwan:台湾法律
+law of taiwan:台灣法律
+law of taiwan:臺灣法律
 law of tangents:正切定理
+law of the bahamas:巴哈馬法律
 law of the european union:欧盟法律
 law of the horse:马法
 law of the instrument:工具规律
 law of the iterated logarithm:重对数律
 law of the jungle:森林法則
+law of the netherlands:荷蘭法律
+law of the people's republic of china:中华人民共和国法律
 law of the people's republic of china:中華人民共和國法律
+law of the soviet union:苏联法律
 law of the soviet union:蘇聯法律
+law of the united kingdom:英国法律
 law of the united states:美国法律
 law of the wall:壁面定律
 law of the west:西部法律
@@ -44442,14 +44676,22 @@ law of thought:思维规律
 law of three stages:三階段定律
 law of total expectation:雙重期望值定理
 law of total probability:全機率定理
+law of transnistria:德涅斯特河沿岸法律
 law of trichotomy:三分律
 law of triviality:帕金森瑣碎定理
+law of turkey:土耳其法律
+law of tuvalu:圖瓦盧法律
+law of ukraine:烏克蘭法律
+law of uruguay:烏拉圭法律
 law of value cannot:价值规律不能
 law of value preserve:价值规律保持
 law of value still influence:价值规律仍然影响
 law of value still:价值规律仍然
 law of value:价值规律
 law of vatican city:梵蒂冈法律
+law of vatican city:梵蒂岡法律
+law of venezuela:委内瑞拉法律
+law of vietnam:越南法律
 law of war assume:战争法假定
 law of war manual:战争法手册
 law of war:战争法
@@ -44687,6 +44929,8 @@ law school lecturers:法学院讲师
 law school legal clinic:法学院法律诊所
 law school library:法学院图书馆
 law school of berytus:贝里图斯法律学校
+law school of harvard university:哈佛大学法学院
+law school of são paulo:圣保罗法学院
 law school offer:法学院提供
 law school open:法学院开
 law school or business school:法学院或商学院
@@ -44747,7 +44991,9 @@ law society note:律師會注意
 law society of hong kong:香港律師會
 law society of manitoba:緬尼吐巴省律師會
 law society of new brunswick:紐賓士域省律師會
+law society of northern ireland:北愛爾蘭律師會
 law society of ontario:安大略省律師會
+law society of upper canada:上加拿大律師會
 law society receive:律師會收到
 law society swimming:律師會游泳
 law society website:律師會網站
@@ -44985,6 +45231,8 @@ lawn square:芝生广场
 lawn tennis and croquet club:草地网球和槌球俱乐部
 lawn tennis and croquet:草地网球和槌球
 lawn tennis association analyst:草地网球协会分析师
+lawn tennis association of malaysia:马来西亚草地网球协会
+lawn tennis association of thailand:泰国草地网球协会
 lawn tennis association:草地网球协会
 lawn tennis championship:草地网球锦标赛
 lawn tennis club museum:草地网球俱乐部博物馆
@@ -45414,17 +45662,37 @@ laws no longer:法律不再
 laws not:法律不是
 laws now:法律现在
 laws of attract:法律的吸引
+laws of australia:澳洲法律
+laws of belgium:比利時法律
+laws of bhutan:不丹法律
 laws of cricket:板球比赛规则
+laws of england:英格兰法律
+laws of england:英格蘭法律
 laws of eshnunna:伊施嫩納法典
+laws of hong kong:香港法律
 laws of human nature:法律的人性
+laws of india:印度法律
 laws of levi:法律的利未
+laws of mainland china:中国大陆法律
+laws of malaysia:馬來西亞法律
+laws of malaysia:马来西亚法律
 laws of motion or einstein:运动定律或爱因斯坦
 laws of motion still:运动定律仍然
 laws of motion:运动定律
+laws of nature:自然法律
+laws of new jersey:紐澤西州法律
+laws of new york:紐約州法律
+laws of new york:纽约州法律
 laws of power:法律的力量
 laws of reason:法律的原因
 laws of robotics:机器人法则
+laws of scotland:苏格兰法律
+laws of scotland:蘇格蘭法律
+laws of serbia:塞爾維亞法律
+laws of singapore:新加坡法律
 laws of the indies:印度等地法律汇编
+laws of the people's republic of china:中华人民共和国法律
+laws of the united states:美国法律
 laws of thermodynamics:熱力學定律
 laws offer:法律提供
 laws only three years:法律只有三年
@@ -46001,6 +46269,8 @@ layer now:层现在
 layer number:层数
 layer object:层对象
 layer ocean:层海洋
+layer of abstraction:抽象化层
+layer of abstraction:抽象层
 layer of activist:层的活动家
 layer of atmosphere:层的大气
 layer of carbon:层的碳

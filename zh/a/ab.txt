@@ -355,6 +355,7 @@ abbey building is austria:修道院建筑是奥地利
 abbey building:修道院建筑
 abbey choir:修道院合唱
 abbey chronicle:修道院编年史
+abbey church of saint peter:圣伯多禄修道院教堂
 abbey church of saint savin sur gartempe:加尔唐普河畔圣萨万教堂
 abbey church of saint-savin sur gartempe:圣塞文-梭尔-加尔坦佩教堂
 abbey church of sainte foy:圣斐德斯教堂
@@ -374,17 +375,46 @@ abbey located:修道院位于
 abbey members:修道院成员
 abbey mill:修道院磨坊
 abbey nunatak:阿比冰原島峰
+abbey of arbroath:阿布羅斯修道院
+abbey of bury st edmunds:圣埃德蒙兹伯里修道院
+abbey of cluny:克吕尼修道院
+abbey of dunfermline:鄧弗姆林修道院
+abbey of ely:伊利修道院
+abbey of evesham:伊夫舍姆修道院
 abbey of fontenay:丰特奈修道院
+abbey of fulda:富尔达修道院
+abbey of lorsch:洛尔施修道院
+abbey of marmoutier:马尔穆捷修道院
 abbey of melk:修道院的梅爾克
+abbey of melk:梅爾克修道院
+abbey of monte cassino:卡西諾山修道院
+abbey of montserrat:蒙特塞拉特修道院
+abbey of payerne:帕耶讷修道院
+abbey of quedlinburg:奎德林堡修道院
+abbey of reading:雷丁修道院
+abbey of ripoll:里波尔修道院
 abbey of saint acheul:圣阿葛勒修道院
+abbey of saint denis:圣但尼修道院
+abbey of saint denis:聖但尼修道院
 abbey of saint gall:圣加仑修道院
 abbey of saint genevieve:聖女日南斐法修道院
 abbey of saint germain d'auxerre:聖日耳曼修道院
+abbey of saint mary:圣玛丽修道院
 abbey of saint maurice d'agaune:天主教聖莫里斯自治會院區
+abbey of saint victor:圣维克托修道院
+abbey of saint vincent:圣文森特修道院
+abbey of saint-denis:圣但尼修道院
+abbey of saint-denis:聖但尼修道院
+abbey of saint-pierre:圣彼得修道院
 abbey of santa giustina:圣儒斯蒂娜圣殿
 abbey of santo domingo de silos:西洛斯的聖多明戈修道院
+abbey of seckau:塞考修道院
+abbey of st albans:聖奧爾本斯修道院
 abbey of st maria del monte:山上圣母修道院
+abbey of st mary:圣玛丽修道院
+abbey of st. albans:聖奧爾本斯修道院
 abbey of the dormition:圣母升天修道院
+abbey of tihany:蒂豪尼修道院
 abbey park:修道院公园
 abbey period:修道院时期
 abbey press:修道院出版社
@@ -12573,6 +12603,7 @@ abuse must end:虐待必须结束
 abuse my name:虐待我的名字
 abuse my spouse:虐待我的配偶
 abuse my:虐待我的
+abuse of children:儿童虐待
 abuse of law:虐待的法律
 abuse of notation:濫用符號
 abuse of power:濫權

@@ -1147,38 +1147,111 @@ vice president myint swe:副总统敏瑞
 vice president needs:副总统需要
 vice president nelson:副总统纳尔逊
 vice president nicholas:副总统尼古拉斯
+vice president of abkhazia:阿布哈兹副总统
+vice president of afghanistan:阿富汗副总统
+vice president of algeria:阿爾及利亞副总统
+vice president of angola:安哥拉副总统
 vice president of angola:安哥拉副總統
+vice president of argentina:阿根廷副总统
+vice president of armenia:亚美尼亚副总统
 vice president of azerbaijan:阿塞拜疆副总统
+vice president of bolivia:玻利维亚副总统
 vice president of botswana:博茨瓦纳副总统
 vice president of brazil:巴西副总统
+vice president of bulgaria:保加利亚副总统
+vice president of burma:缅甸副总统
+vice president of burundi:布隆迪副总统
 vice president of china:中华人民共和国副主席
+vice president of colombia:哥伦比亚副总统
+vice president of costa rica:哥斯达黎加副总统
 vice president of cuba:古巴共和国副主席
+vice president of cuba:古巴副总统
 vice president of cyprus:塞浦路斯副总统
+vice president of ecuador:厄瓜多尔副总统
 vice president of egypt:埃及副总统
+vice president of el salvador:萨尔瓦多副总统
+vice president of equatorial guinea:赤道几内亚副总统
+vice president of ghana:加纳副总统
 vice president of guatemala:危地马拉副总统
+vice president of guyana:圭亚那副总统
 vice president of honduras:宏都拉斯副總統
+vice president of honduras:洪都拉斯副总统
+vice president of india:印度副总统
+vice president of indonesia:印尼副总统
+vice president of indonesia:印度尼西亚副总统
+vice president of iran:伊朗副总统
+vice president of iraq:伊拉克副总统
+vice president of ivory coast:科特迪瓦副总统
+vice president of kazakhstan:哈萨克斯坦副总统
+vice president of kenya:肯尼亚副总统
+vice president of kiribati:基里巴斯副总统
+vice president of kurdistan region:伊拉克库尔德斯坦副总统
 vice president of laos:寮人民民主共和國副主席
+vice president of liberia:利比里亞副总统
+vice president of malawi:马拉维副总统
+vice president of maldives:马尔代夫副总统
+vice president of mauritius:毛里求斯副总统
+vice president of mexico:墨西哥副总统
+vice president of mongolia:蒙古國副总统
 vice president of myanmar:缅甸副总统
 vice president of namibia:納米比亞副總統
 vice president of nepal:尼泊尔副总统
+vice president of nicaragua:尼加拉瓜副总统
+vice president of niger:尼日尔副总统
+vice president of nigeria:尼日利亚副总统
 vice president of pakistan:巴基斯坦副总统
+vice president of palau:帕劳副总统
+vice president of palestine:巴勒斯坦國副总统
+vice president of panama:巴拿马副总统
+vice president of paraguay:巴拉圭副总统
+vice president of peru:秘鲁副总统
 vice president of policy:副总统的政策
 vice president of russia:俄罗斯副总统
+vice president of rwanda:卢旺达副总统
 vice president of seychelles:塞舌尔副总统
+vice president of sierra leone:塞拉利昂副总统
+vice president of somalia:索马里副总统
 vice president of somaliland:索馬利蘭副總統
+vice president of somaliland:索马里兰副总统
+vice president of south korea:大韓民國副总统
+vice president of south korea:大韩民国副总统
 vice president of south korea:韩国副总统
+vice president of south sudan:南苏丹副总统
 vice president of sudan:苏丹副总统
+vice president of sudan:蘇丹副总统
+vice president of suriname:苏里南副总统
+vice president of switzerland:瑞士副总统
+vice president of syria:叙利亚副总统
+vice president of taiwan:中華民國副总统
+vice president of taiwan:台湾副总统
+vice president of tanzania:坦桑尼亚副总统
 vice president of the confederate states of america:美利堅聯盟國副總統
 vice president of the european commission:歐盟執委會副主席
 vice president of the european parliament:歐洲議會副議長
+vice president of the gambia:冈比亚副总统
 vice president of the legislative yuan:立法院副院長
+vice president of the nation:国家副总统
+vice president of the philippines:菲律宾副总统
 vice president of the philippines:菲律賓副總統
 vice president of the republic of china:中華民國副總統
+vice president of the soviet union:苏联副总统
+vice president of the u.s.:美国副总统
+vice president of the united arab emirates:阿联酋副总统
 vice president of the united arab emirates:阿联酋副总统列表
 vice president of the united states joe:美国副总统乔
 vice president of the united states:美国副总统
+vice president of turkey:土耳其副总统
 vice president of turkey:土耳其副總統
+vice president of turkmenistan:土库曼斯坦副总统
+vice president of uganda:乌干达副总统
+vice president of united states:美国副总统
+vice president of united states:美國副总统
+vice president of uruguay:乌拉圭副总统
+vice president of venezuela:委内瑞拉副总统
 vice president of vietnam:越南社會主義共和國副主席
+vice president of yemen:也门副总统
+vice president of yugoslavia:南斯拉夫副总统
+vice president of zambia:赞比亚副总统
 vice president of zimbabwe:津巴布韦副总统
 vice president peter:副总统彼得
 vice president richard:副总统理查德
@@ -1230,8 +1303,36 @@ vice-president john:副总统约翰
 vice-president joseph:副总统约瑟夫
 vice-president martin:副总统马丁
 vice-president mike:副总统迈克
+vice-president of argentina:阿根廷副总统
+vice-president of botswana:博茨瓦纳副总统
+vice-president of brazil:巴西副总统
+vice-president of burundi:布隆迪副总统
+vice-president of egypt:埃及副总统
+vice-president of ghana:加纳副总统
+vice-president of india:印度副总统
+vice-president of indonesia:印尼副总统
+vice-president of indonesia:印度尼西亚副总统
+vice-president of iraq:伊拉克副总统
+vice-president of ivory coast:科特迪瓦副总统
+vice-president of kenya:肯尼亚副总统
+vice-president of kiribati:基里巴斯副总统
+vice-president of malawi:马拉维副总统
+vice-president of mauritius:毛里求斯副总统
+vice-president of mexico:墨西哥副总统
+vice-president of myanmar:缅甸副总统
+vice-president of nigeria:尼日利亚副总统
+vice-president of palau:帕劳副总统
+vice-president of panama:巴拿马副总统
+vice-president of seychelles:塞舌尔副总统
+vice-president of sierra leone:塞拉利昂副总统
+vice-president of somaliland:索马里兰副总统
+vice-president of tanzania:坦桑尼亚副总统
+vice-president of the gambia:冈比亚副总统
+vice-president of the philippines:菲律宾副总统
 vice-president of the united states michael:美国副总统迈克尔
 vice-president of the united states:美国副总统
+vice-president of zambia:赞比亚副总统
+vice-president of zimbabwe:津巴布韦副总统
 vice-president provides:副总统提供
 vice-president richard:副总统理查德
 vice-president rodriguez:副总统罗德里格斯
@@ -1292,8 +1393,11 @@ viceroy of southern rivers:南河总督
 viceroy of the three eastern provinces:東三省總督
 viceroy of yun gui:雲貴總督
 viceroy of zhili:直隸總督
+viceroyalty of la plata:拉普拉塔總督轄區
 viceroyalty of new granada:新格拉納達總督轄區
+viceroyalty of new granada:新格拉纳达總督轄區
 viceroyalty of peru:秘魯總督轄區
+viceroyalty of perú:秘魯總督轄區
 viceroyalty:總督轄區
 viceroys in china:总督
 vicetia:维琴察
@@ -1669,6 +1773,7 @@ victim node:受害者节点
 victim not:受害者不是
 victim now:受害者现在
 victim of consumption:受害者的消费
+victim of the holocaust:納粹大屠殺受害者
 victim only:受害者只有
 victim open:受害者打开
 victim or alexander:受害者或亚历山大
@@ -1948,11 +2053,13 @@ victims not:受害者不是
 victims now:受害者现在
 victims obtain:受害者获得
 victims of communism memorial foundation:共產主義受難者紀念基金會
+victims of crime:犯罪受害者
 victims of iranian censorship act:表達法
 victims of memory:受害者的记忆
 victims of police husband:受害者的警察丈夫
 victims of prejudice:受害者的偏見
 victims of technology:受害者的技术
+victims of the holocaust:納粹大屠殺受害者
 victims offer:受害者提供
 victims often:受害者常常
 victims one:受害者一
@@ -2216,6 +2323,7 @@ victoria cross for australia:澳大利亚维多利亚十字勋章
 victoria cross for new zealand:新西兰维多利亚十字勋章
 victoria cross hero:维多利亚十字勋章英雄
 victoria cross is for military:维多利亚十字勋章是为了军事
+victoria cross of canada:加拿大维多利亚十字勋章
 victoria cross twice:维多利亚十字勋章两次
 victoria cross:维多利亚十字勋章
 victoria crowned pigeon:維多利亞鳳冠鳩
@@ -2774,6 +2882,7 @@ victory nunatak:勝利冰原島峰
 victory of american troops:胜利的美军
 victory of soul:胜利的灵魂
 victory of the daleks:戴立克得勝
+victory of the revolution:革命胜利
 victory or death:胜利或死亡
 victory or peace:胜利或和平
 victory over japan day:第二次世界大战对日战争胜利纪念日
@@ -8764,6 +8873,7 @@ villa nomé family hostel:villa nomé 家庭旅馆
 villa nueva:比亞努埃瓦
 villa oasis:翠麗豪園
 villa oceania:海典居
+villa of hadrian:哈德良别墅
 villa of livia:莉薇婭別墅
 villa of palm spring:棕櫚泉渡假民宿
 villa of the mysteries:神秘別墅
@@ -9319,11 +9429,22 @@ village neuf:维拉日讷夫
 village night market:乡村夜市
 village now:村庄现在
 village nurse:乡村护士
+village of bath:巴斯村
+village of clinton:克林顿村
+village of elm:榆树村
 village of giant:村庄的巨人
+village of greenwich:格林尼治村
+village of hyde park:海德公园村
 village of indian:村庄的印度
+village of montgomery:蒙哥馬利村
+village of newcastle:新堡村
+village of ovid:奧維德村
+village of scotia:苏格兰村庄
 village of seven:村的七
 village of villagers:村的村民
 village of wall:村庄的墙
+village of waterford:沃特福德村
+village of waterloo:滑鐵盧村
 village offer:村提供
 village office:村公所
 village office:村办公室
@@ -14165,6 +14286,7 @@ virtue name:美德名字
 virtue of a few years:美德的几年
 virtue of a portion:美德的一部分
 virtue of force:美德的力量
+virtue of justice:正义美德
 virtue only:美德只有
 virtue or excellence:美德或卓越
 virtue or good:美德或善
@@ -14924,6 +15046,7 @@ viruses lack:病毒缺乏
 viruses mix:病毒混合
 viruses need:病毒需要
 viruses no longer:病毒不再
+viruses of plants:植物病毒
 viruses often:病毒常常
 viruses or any other technologies:病毒或任何其他技术
 viruses or any other virus:病毒或任何其他病毒
@@ -15193,8 +15316,10 @@ visa requirements for bulgarian citizens:保加利亚公民签证要求
 visa requirements for cambodian citizens:柬埔寨公民签证要求
 visa requirements for canadian citizens:加拿大公民签证要求
 visa requirements for chilean citizens:智利公民簽證要求
+visa requirements for chinese citizens of hong kong:香港中国公民签证要求
 visa requirements for chinese citizens of hong kong:香港特別行政區護照持有人簽證要求
 visa requirements for chinese citizens of macau:澳門特別行政區護照持有人簽證要求
+visa requirements for chinese citizens of macau:澳门中国公民签证要求
 visa requirements for chinese citizens:中国公民签证要求
 visa requirements for ecuadorian citizens:厄瓜多公民簽證要求
 visa requirements for emirati citizens:阿聯酋公民簽證要求
@@ -15325,6 +15450,9 @@ viscosity will:黏度会
 viscosity:黏度
 viscount ask:子爵问
 viscount melville sound:梅尔维尔子爵海峡
+viscount of barcelona:巴塞罗那子爵
+viscount of limoges:利摩日子爵
+viscount of narbonne:纳博讷子爵
 viscount severn:塞文子爵
 viscount slim:斯利姆子爵
 viscount some:子爵一些
@@ -17841,6 +17969,7 @@ visual art language:视觉艺术语言
 visual art materials:视觉艺术材料
 visual art minor:视觉艺术次要
 visual art museum:视觉艺术博物馆
+visual art of the united states:美国视觉艺术
 visual art performance:视觉艺术表演
 visual art practice:视觉艺术实践
 visual art project:视觉艺术项目
@@ -17861,6 +17990,7 @@ visual arts center:視覺藝術中心
 visual arts centre:視覺藝術中心
 visual arts curriculum:視覺藝術課程
 visual arts education:視覺藝術教育
+visual arts of indigenous peoples of the americas:美洲原住民視覺藝術
 visual arts performance:視覺藝術表演
 visual arts platform:視覺藝術平台
 visual arts study group:視覺藝術研究小組

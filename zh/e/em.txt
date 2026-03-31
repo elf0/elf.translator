@@ -852,7 +852,10 @@ emancipation increased:解放增加了
 emancipation is final:解放是最终的
 emancipation means:解放意味着
 emancipation of africa:解放的非洲
+emancipation of jews:犹太人解放
 emancipation of labour:劳动解放社
+emancipation of women:女人解放
+emancipation of women:妇女解放
 emancipation or reach:解放或达到
 emancipation park:解放公园
 emancipation policy:解放政策
@@ -1646,6 +1649,7 @@ embaphias:碟龙属
 embarcadero center:内河码头中心
 embarcadero station:內河碼頭站
 embargo laws:禁運法律
+embargo of cuba:古巴禁運
 embargo policy:禁運政策
 embargo seven days:禁運七天
 embargo seven:禁運七
@@ -1806,8 +1810,10 @@ embassy of china:中国驻瑞典大使馆
 embassy of china:中国驻美国大使馆
 embassy of china:中国驻黎巴嫩大使馆
 embassy of china:中國大使館
+embassy of china:中國大使馆
 embassy of china:中國駐瑞典大使館
 embassy of china:中華人民共和國大使館
+embassy of china:中華人民共和國大使馆
 embassy of china:中華人民共和國駐阿富汗伊斯蘭共和國大使館
 embassy of china:中華人民共和國駐馬其頓共和國大使館
 embassy of china:對中國人民共和國大使館
@@ -1849,6 +1855,7 @@ embassy of hungary:匈牙利大使馆
 embassy of iceland:冰岛驻华大使馆
 embassy of india:印度大使馆
 embassy of india:印度驻华大使馆
+embassy of indonesia:印尼大使馆
 embassy of indonesia:印度尼西亚大使馆
 embassy of iran:伊朗大使馆
 embassy of iraq:伊拉克大使馆
@@ -1943,6 +1950,7 @@ embassy of slovakia:斯洛伐克大使馆
 embassy of slovenia:斯洛文尼亚大使馆
 embassy of somalia:索马里大使馆
 embassy of south africa:南非大使馆
+embassy of south korea:大韩民国大使馆
 embassy of south korea:韩国大使馆
 embassy of south korea:韩国驻华大使馆
 embassy of south sudan:南苏丹大使馆
@@ -3638,9 +3646,17 @@ eminium:黑花天南星属
 emir abdelkader mosque:埃米爾阿卜杜卡迪爾清真寺
 emir assaf mosque:阿萨夫埃米尔清真寺
 emir hotel:埃米爾酒店
+emir of afghanistan:阿富汗埃米爾
+emir of cordoba:哥多華埃米爾
+emir of cordoba:科尔多瓦埃米爾
+emir of córdoba:哥多華埃米爾
+emir of córdoba:科尔多瓦埃米爾
 emir of kuwait:科威特埃米爾
 emir of qatar cup:卡塔爾酋長盃
 emir of qatar:卡塔尔埃米尔
+emir of qatar:卡塔尔埃米爾
+emir of qatar:卡塔爾埃米爾
+emir of qatar:卡達埃米爾
 emir sultan mosque:埃米尔苏丹清真寺
 emir:埃米爾
 emira arab ini:Ālābó liánhé qiúchángguó
@@ -3734,26 +3750,49 @@ emirate member:酋长国成员
 emirate o dubai:杜拜酋長國
 emirate o dubai:迪拜酋长国
 emirate of abu dhabi:阿布扎比酋长国
+emirate of adrar:阿德拉尔酋长国
 emirate of afghanistan:阿富汗酋长国
 emirate of ajman:阿治曼酋長國
+emirate of ajman:阿治曼酋长国
+emirate of aleppo:阿勒颇酋长国
+emirate of armenia:亚美尼亚酋长国
 emirate of bari:巴里酋長國
+emirate of bari:巴里酋长国
 emirate of bukhara:布哈拉酋長國
+emirate of bukhara:布哈拉酋长国
+emirate of cordoba:科尔多瓦酋长国
+emirate of cordova:科尔多瓦酋长国
 emirate of crete:克里特埃米爾國
+emirate of cyrenaica:昔兰尼加酋长国
 emirate of cyrenaica:昔蘭尼加酋長國
+emirate of córdoba:科尔多瓦酋长国
 emirate of diriyah:德拉伊耶酋长国
 emirate of dubai:迪拜酋长国
+emirate of fujairah:富吉拉酋长国
 emirate of fujairah:富查伊拉酋长国
 emirate of granada:格拉納達酋長國
+emirate of granada:格拉纳达酋长国
+emirate of grenada:格拉纳达酋长国
 emirate of jabal shammar:舍迈尔山酋长国
+emirate of kuwait:科威特酋长国
 emirate of muhammara:穆罕馬拉酋長國
+emirate of najd:内志酋长国
 emirate of nejd and hasa:内志与哈萨酋长国
 emirate of nejd:内志酋长国
+emirate of ras al khaimah:拉斯海玛酋长国
 emirate of ras al khaimah:拉斯海瑪酋長國
+emirate of ras al-khaimah:拉斯海玛酋长国
+emirate of riyadh:利雅得酋长国
 emirate of sharjah believe:沙迦酋长国相信
 emirate of sharjah:沙迦酋长国
+emirate of sicily:西西里酋长国
 emirate of tbilisi:第比利斯埃米爾國
+emirate of tbilisi:第比利斯酋长国
+emirate of tiflis:第比利斯酋长国
 emirate of transjordan:外约旦酋长国
 emirate of umm al quwain:烏姆蓋萬酋長國
+emirate of umm al quwain:烏姆蓋萬酋长国
+emirate of umm al-quwain:烏姆蓋萬酋长国
 emirate officials:酋长国官员
 emirate plans:酋长国计划
 emirate project:酋长国项目
@@ -4609,6 +4648,7 @@ emissions norm:排放规范
 emissions now:排放现在
 emissions ocean thermal energy conversion:排放海洋热能转换
 emissions ocean:排放海洋
+emissions of carbon dioxide:二氧化碳排放
 emissions of carbon dioxide:排放的二氧化碳
 emissions of environmental protection:排放的环保
 emissions of ethylene oxide:排放的环氧乙烷
@@ -5885,10 +5925,13 @@ emperor even:皇帝甚至
 emperor ever:皇帝曾经
 emperor face:皇帝脸
 emperor far:皇帝远的
+emperor fei of chen:陈废帝
 emperor fei of chen:陳廢帝
 emperor fei of jin:晋废帝
+emperor fei of northern qi:北齐废帝
 emperor fei of northern qi:高殷
 emperor fei of western wei:元钦
+emperor fei of western wei:西魏废帝
 emperor fei:废帝
 emperor ferdinand ii:皇帝斐迪南二世
 emperor fire:皇帝火
@@ -5904,6 +5947,7 @@ emperor frederick:皇帝弗雷德里克
 emperor friedrich:皇帝弗里德里希
 emperor from:皇帝从
 emperor fushimi:伏見天皇
+emperor gao of southern qi:南齐高帝
 emperor gao of southern qi:蕭道成
 emperor gao:高帝
 emperor gaozong of song:宋高宗
@@ -5936,7 +5980,9 @@ emperor go tsuchimikado:後土御門天皇
 emperor go uda:後宇多天皇
 emperor go:皇帝去
 emperor gong of jin:晋恭帝
+emperor gong of later zhou:后周恭帝
 emperor gong of song:宋恭帝
+emperor gong of western wei:西魏恭帝
 emperor gong of western wei:魏恭帝
 emperor gong:恭帝
 emperor goose:帝雁
@@ -6055,8 +6101,10 @@ emperor michael iii:皇帝米海尔三世
 emperor michael:皇帝迈克尔
 emperor min of jin:晋愍帝
 emperor min:愍帝
+emperor ming of cao wei:曹魏明帝
 emperor ming of han:汉明帝
 emperor ming of jin:晉明帝
+emperor ming of northern zhou:北周明帝
 emperor ming of northern zhou:周明帝
 emperor ming of song:宋明帝
 emperor ming of southern qi:齐明帝
@@ -6091,11 +6139,35 @@ emperor norton:皇帝诺顿
 emperor norton:诺顿一世
 emperor now:皇帝现在
 emperor odysseus:皇帝奥德修斯
+emperor of austria-hungary:奥匈帝国皇帝
 emperor of austria:奥地利皇帝
+emperor of austria:奧地利皇帝
+emperor of brazil:巴西皇帝
+emperor of bulgaria:保加利亚皇帝
+emperor of bulgaria:保加利亞皇帝
+emperor of byzantium:拜占庭皇帝
+emperor of cao wei:曹魏皇帝
 emperor of central africa:中非皇帝
 emperor of china qin shi huang:中国皇帝秦始皇
 emperor of china:中国皇帝
+emperor of china:中國皇帝
 emperor of constantinople:皇帝的君士坦丁堡
+emperor of dali:大理皇帝
+emperor of dali:大禮皇帝
+emperor of eastern wu:孫吳皇帝
+emperor of ethiopia:埃塞俄比亚皇帝
+emperor of ethiopia:埃塞俄比亞皇帝
+emperor of ethiopia:衣索比亞皇帝
+emperor of former qin:前秦皇帝
+emperor of former shu:前蜀皇帝
+emperor of former yan:前燕皇帝
+emperor of france:法国皇帝
+emperor of france:法國皇帝
+emperor of germany:德国皇帝
+emperor of germany:德國皇帝
+emperor of haiti:海地皇帝
+emperor of han zhao:汉赵皇帝
+emperor of hispania:西班牙皇帝
 emperor of ice cream:皇帝的冰淇淋
 emperor of india:印度皇帝
 emperor of japan award:天皇授予
@@ -6104,10 +6176,34 @@ emperor of japan from:天皇从
 emperor of japan:天皇
 emperor of japan:皇帝的日本
 emperor of korea:韓國皇帝
+emperor of korea:韩国皇帝
+emperor of later qin:后秦皇帝
+emperor of manchukuo:满洲国皇帝
 emperor of mexico:墨西哥君主列表
+emperor of mexico:墨西哥皇帝
+emperor of ming xia:明夏皇帝
+emperor of northern qi:北齐皇帝
+emperor of northern wei:北魏皇帝
+emperor of northern yan:北燕皇帝
+emperor of northern zhou:北周皇帝
 emperor of rome:皇帝的罗马
+emperor of rome:罗马皇帝
+emperor of rome:羅馬皇帝
+emperor of russia:俄国皇帝
+emperor of russia:俄罗斯皇帝
+emperor of russia:俄羅斯皇帝
 emperor of russia:全俄羅斯的皇帝
+emperor of serbia:塞尔维亚皇帝
+emperor of southern han:南汉皇帝
+emperor of southern qi:南齐皇帝
+emperor of southern tang:南唐皇帝
+emperor of spain:西班牙皇帝
+emperor of sui dynasty:隋朝皇帝
 emperor of the french:法国人的皇帝
+emperor of the french:法国皇帝
+emperor of vietnam:越南皇帝
+emperor of việt nam:越南皇帝
+emperor of western yan:西燕皇帝
 emperor offer:皇帝提供
 emperor often:皇帝常常
 emperor only:皇帝只有
@@ -6118,6 +6214,7 @@ emperor palace restaurant:海富海鮮酒家
 emperor palace:皇帝宫殿
 emperor paul i:纪念碑帝paul我
 emperor paul:皇帝保罗
+emperor pedro i of brazil:巴西皇帝佩德罗一世
 emperor pedro i:皇帝佩德罗一世
 emperor penguin:皇帝企鹅
 emperor peter i:皇帝彼得一世
@@ -6164,6 +6261,7 @@ emperor shang of han:汉殇帝
 emperor shang of tang:唐殇帝
 emperor shang:殤帝
 emperor shao of song:刘义符
+emperor shao of song:宋少帝
 emperor shao:少帝
 emperor shapur i:皇帝沙普尔一世
 emperor shapur ii:皇帝沙普尔二世
@@ -6245,8 +6343,11 @@ emperor wen of han:汉文帝
 emperor wen of song:宋文帝
 emperor wen of sui:隋文帝
 emperor wen of western wei:元宝炬
+emperor wen of western wei:西魏文帝
 emperor wen:文帝
+emperor wencheng of northern wei:北魏文成帝
 emperor wencheng of northern wei:魏文成帝
+emperor wencheng of northern yan:北燕文成帝
 emperor wencheng:文成帝
 emperor wenmu:文穆帝
 emperor went:皇帝去
@@ -6254,17 +6355,23 @@ emperor wenxuan of northern qi:齐文宣帝
 emperor wenzong of tang:唐文宗
 emperor will:皇帝会
 emperor william i:皇帝威廉一世
+emperor william ii of germany:德国皇帝威廉二世
+emperor william ii of germany:德國皇帝威廉二世
 emperor william ii:皇帝威廉二世
 emperor william:皇帝威廉
 emperor wish:皇帝希望
 emperor worship:皇帝崇拜
 emperor would:皇帝将
+emperor wu of chen:陈武帝
 emperor wu of chen:陈霸先
 emperor wu of han:汉武帝
 emperor wu of jin:司馬炎
+emperor wu of later zhao:后赵武帝
 emperor wu of liang:梁武帝
+emperor wu of northern zhou:北周武帝
 emperor wu of northern zhou:周武帝
 emperor wu of song:宋武帝
+emperor wu of southern qi:南齐武帝
 emperor wu of southern qi:齐武帝
 emperor wu:武帝
 emperor wucheng of northern qi:齐武成帝
@@ -6278,10 +6385,12 @@ emperor xianzong of western xia:夏献宗
 emperor xiaohe:孝和帝
 emperor xiaojing of eastern wei:魏孝静帝
 emperor xiaomin of northern zhou:周孝闵帝
+emperor xiaoming of northern wei:北魏孝明帝
 emperor xiaoming of northern wei:魏孝明帝
 emperor xiaoming:孝明帝
 emperor xiaowen of northern wei:魏孝文帝
 emperor xiaowu of jin:晋孝武帝
+emperor xiaowu of northern wei:北魏孝武帝
 emperor xiaowu of northern wei:魏孝武帝
 emperor xiaowu of song:宋孝武帝
 emperor xiaowu:孝武帝
@@ -6293,6 +6402,7 @@ emperor xizong of jin:金熙宗
 emperor xizong of tang:唐僖宗
 emperor xuan of chen:陈宣帝
 emperor xuan of han:汉宣帝
+emperor xuan of northern zhou:北周宣帝
 emperor xuan of northern zhou:周宣帝
 emperor xuan:宣帝
 emperor xuanwu of northern wei:魏宣武帝
@@ -6864,16 +6974,40 @@ empire needs:帝国需要
 empire no longer:帝国不再
 empire novel:帝国小说
 empire now:帝国现在
+empire of ashanti:阿散蒂帝国
 empire of atlantium:亞特蘭蒂姆帝國
+empire of austria:奥地利帝国
+empire of austria:奧地利帝国
+empire of brazil:巴西帝国
 empire of brazil:巴西帝國
+empire of charlemagne:查理曼帝国
+empire of china:中国帝国
+empire of ethiopia:埃塞俄比亚帝国
+empire of ghana:加纳帝国
+empire of gold:金帝国
 empire of gold:黃金帝國
 empire of great fulo:大福洛帝国
+empire of haiti:海地帝国
 empire of haiti:海地帝國
+empire of india:印度帝国
+empire of iran:伊朗帝国
 empire of japan:大日本帝国
+empire of japan:日本帝国
 empire of light:光影帝國
 empire of lust:情慾王朝
+empire of mali:马里帝国
+empire of manchuria:满洲帝国
+empire of napoleon:拿破仑帝国
 empire of nicaea:尼西亚帝国
+empire of pain:西班牙帝国
+empire of rome:罗马帝国
+empire of rome:羅馬帝国
+empire of russia:俄罗斯帝国
+empire of russia:俄羅斯帝国
+empire of sin:中国帝国
+empire of spain:西班牙帝国
 empire of the dead:亡靈帝國
+empire of the sun:太阳帝国
 empire of thessalonica:塞萨洛尼基帝国
 empire of trebizond:特拉比松帝国
 empire of vietnam:越南帝国
@@ -9019,9 +9153,11 @@ empress dowager xu:順聖太后
 empress dowager zheng:孝明太皇太后
 empress dowager:皇太后
 empress duan:段皇后
+empress elisabeth of austria:奥地利皇后伊丽莎白
 empress elisabeth park:伊丽莎白皇后公园
 empress elisabeth:女皇伊丽莎白
 empress elisabeth:皇后伊丽莎白
+empress elizabeth of austria:奥地利皇后伊丽莎白
 empress elizabeth:皇后伊丽莎白
 empress erzhu:爾朱皇后
 empress fang:孝烈皇后
@@ -9062,6 +9198,46 @@ empress mu:穆皇后
 empress myeongseong:明成皇后
 empress nagako:香淳皇后
 empress nara:清高宗继皇后
+empress of asia:亚洲皇后
+empress of asia:亞洲皇后
+empress of australia:澳洲女皇
+empress of austria:奥地利皇后
+empress of austria:奧地利女皇
+empress of austria:奧地利皇后
+empress of brazil:巴西皇后
+empress of britain:英国女皇
+empress of canada:加拿大女皇
+empress of cao wei:曹魏皇后
+empress of england:英格兰皇后
+empress of england:英格蘭女皇
+empress of former qin:前秦皇后
+empress of former shu:前蜀皇后
+empress of former yan:前燕皇后
+empress of france:法国皇后
+empress of france:法國皇后
+empress of india:印度女皇
+empress of india:印度皇后
+empress of iran:伊朗皇后
+empress of japan:日本皇后
+empress of later qin:后秦皇后
+empress of later zhao:后赵皇后
+empress of mexico:墨西哥女皇
+empress of northern qi:北齐皇后
+empress of northern wei:北魏皇后
+empress of northern zhou:北周皇后
+empress of rome:罗马皇后
+empress of rome:羅馬皇后
+empress of russia:俄国女皇
+empress of russia:俄罗斯女皇
+empress of russia:俄罗斯皇后
+empress of russia:俄羅斯女皇
+empress of russia:俄羅斯皇后
+empress of shu han:蜀汉皇后
+empress of southern tang:南唐皇后
+empress of spain:西班牙女皇
+empress of tang dynasty:唐朝皇后
+empress of the french:法国皇后
+empress of xia:夏皇后
 empress or emperor:皇后或皇帝
 empress place building:皇后坊大厦
 empress plaza:帝后廣場

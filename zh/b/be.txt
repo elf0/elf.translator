@@ -22366,6 +22366,7 @@ bed needs:床需要
 bed not:床不是
 bed nucleus:床核
 bed of earth:床的地球
+bed of gold:金床
 bed of rose:床的玫瑰
 bed online test:床在线测试
 bed online:床在线
@@ -26566,6 +26567,7 @@ behavior needs:行为需要
 behavior norm:行为规范
 behavior observation:行为观察
 behavior obtain:行为获得
+behavior of consumers:消费者行为
 behavior of meat:行为的肉
 behavior of storm:行为的风暴
 behavior offer:行为提供
@@ -26963,6 +26965,7 @@ behaviour means:行为意味着
 behaviour model:行为模型
 behaviour models:行为模型
 behaviour needs:行为需要
+behaviour of animals:动物行为
 behaviour of users:行为的用户
 behaviour often:行为常常
 behaviour only:行为只有
@@ -34935,9 +34938,14 @@ belfran road:巴芬道
 belfriede in belgien und frankreich:比利时和法国钟楼
 belfries of belgium and france:比利时和法国的钟楼
 belfries of belgium and france:比利时和法国钟楼
+belfry of bruges:布魯日鐘樓
 belfry of bruges:布鲁日钟楼
+belfry of ghent:根特鐘樓
 belfry of ghent:根特钟楼
+belfry of mons:蒙斯钟楼
 belfry of namur:那慕尔钟楼
+belfry of thuin:蒂安鐘樓
+belfry of thuin:蒂安钟楼
 belfry of tournai:图尔奈钟楼
 belfry:鐘樓
 belfry:钟楼
@@ -37271,6 +37279,7 @@ bell tower historical site:明昌晨鐘
 bell tower historical site:明昌晨钟
 bell tower hotel:钟楼饭店
 bell tower north:钟楼北
+bell tower of xi'an:西安鐘樓
 bell tower of xi'an:西安钟楼
 bell tower roundabout:钟楼环岛
 bell tower south:钟楼南
@@ -49661,6 +49670,8 @@ bey be:贝伊成为
 bey became:贝伊成为
 bey hamam:天堂浴室
 bey mosque:贝伊清真寺
+bey of tunis:突尼斯贝伊
+bey of tunisia:突尼斯贝伊
 bey soo khiang:马士强
 bey sur seille:塞耶河畔贝
 bey:贝伊

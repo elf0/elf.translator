@@ -3528,6 +3528,7 @@ rule of law will protect him:法治将保护他
 rule of law will:法治会
 rule of law work include:法治工作包括
 rule of law work:法治工作
+rule of law:法律规则
 rule of law:法治
 rule of life:规则的生活
 rule of man:人治
@@ -3540,6 +3541,7 @@ rule of sarrus:萨吕法则
 rule of the octave:八度原则
 rule of the shorter term:较短期限法则
 rule of thumb am:經驗法則是
+rule of thumb:拇指规则
 rule of thumb:經驗法則
 rule of tincture:纹章颜色规则
 rule of wen and jing:文景之治
@@ -3722,7 +3724,12 @@ ruler moulay:统治者穆莱
 ruler move:尺移动
 ruler muhammad:统治者穆罕默德
 ruler no longer:统治者不再
+ruler of abu dhabi:阿布扎比酋长国统治者
 ruler of all:统治者的所有
+ruler of bulgaria:保加利亚统治者
+ruler of dubai:迪拜酋长国统治者
+ruler of johor:柔佛统治者
+ruler of serbia:塞尔维亚统治者
 ruler or adventure:统治者或冒险
 ruler or any government:统治者或任何政府
 ruler or kingdom:统治者或王国
@@ -4116,12 +4123,20 @@ rules negotiations:规则谈判
 rules no longer:规则不再
 rules no one:规则没有人
 rules now:规则现在
+rules of association football:足球规则
+rules of baseball:棒球规则
 rules of basketball:國際籃球規則
 rules of behavior:规则的行为
+rules of chess:国际象棋规则
 rules of classification:规则的分类
+rules of cricket:板球规则
+rules of evidence:证据规则
+rules of football:足球规则
 rules of globalization:规则的全球化
 rules of go:圍棋規則比較
 rules of golf:高爾夫規則
+rules of inference:推理规则
+rules of language:语言规则
 rules of life:规则的生活
 rules of logic:规则的逻辑
 rules of memory:规则的记忆
@@ -4131,6 +4146,11 @@ rules of selection:规则的选择
 rules of success from:规则的成功从
 rules of survival:終結戰場
 rules of the day:规则的日
+rules of the game:游戏规则
+rules of the supreme court:最高法院规则
+rules of thumb:拇指规则
+rules of war:战争规则
+rules of warfare:战争规则
 rules offer:规则提供
 rules officials:规则官员
 rules on:规则上面
@@ -8682,6 +8702,7 @@ russia october:俄国十月
 russia of course:俄罗斯当然
 russia of military aggression:俄罗斯的军事侵犯
 russia of the future:未來俄羅斯
+russia of the future:未来俄罗斯
 russia offer:俄罗斯出价
 russia offer:俄罗斯提供
 russia often:俄罗斯常常
@@ -9692,6 +9713,7 @@ russie:俄罗斯
 russie:俄罗斯 / 俄羅斯
 russie:俄羅斯
 russification of belarus:白俄罗斯的俄罗斯化
+russification of finland:芬蘭俄羅斯化
 russification of finland:芬蘭的俄羅斯化
 russification of ukraine:乌克兰的俄罗斯化
 russification policy:俄羅斯化政策

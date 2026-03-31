@@ -2050,6 +2050,8 @@ gender neutral:不区分性别的
 gender neutrality in english:英语中的性别中立表现
 gender neutrality:性別中立
 gender nonconformity:非常規性別
+gender of god in christianity:基督教的神性
+gender of god:神性
 gender parity index:性別平等指數
 gender pay gap data:性别薪酬差距数据
 gender pay gap problem:性别薪酬差距问题
@@ -3886,9 +3888,13 @@ general ocampo department:奧坎波將軍縣
 general ocean conditions:一般的海洋条件
 general ocean:一般的海洋
 general of agile cavalry:骠骑将军
+general of air army:空军将军
+general of army:陆军将军
+general of cavalry:骑兵将军
 general of ili:伊犁將軍
 general of the armies:美國陸軍特级上将
 general of the army:陸軍上將
+general of the police:警察将军
 general of the salvation army:救世军大将
 general office of the central military commission:中央军事委员会办公厅
 general office of the central military commission:中央軍事委員會辦公廳
@@ -4190,9 +4196,13 @@ general staff encryption:总参谋部加密
 general staff estimate:总参谋部估计
 general staff even:总参谋部甚至
 general staff headquarters:参议府
+general staff of armed forces:武装力量总参谋部
+general staff of iranian armed forces:伊朗武装部队总参谋部
 general staff of the armed forces of the russian federation:俄罗斯联邦武装力量总参谋部
 general staff of the russian navy:总部的俄罗斯海军
 general staff of the ukrainian armed forces:乌克兰武装部队总参谋部
+general staff of ukraine:乌克兰总参谋部
+general staff of vietnam people's army:越南人民军总参谋部
 general staff order:总参谋部命令
 general staff said:总参谋部说
 general staff spokesman:总参谋部发言人
@@ -6450,6 +6460,7 @@ generation of business leaders:代的商业领袖
 generation of business:代的商业
 generation of cancer treatment:代的癌症治疗
 generation of cell:代的细胞
+generation of chaos:混沌代
 generation of chemistry:代的化学
 generation of children:世代的孩子
 generation of children:代的孩子
@@ -6530,6 +6541,7 @@ generation of journalists:代的记者
 generation of kids:代的孩子
 generation of kids:代的孩子们
 generation of light source semiconductor:代的光源半导体
+generation of love:爱世代
 generation of market winners:代的市场赢家
 generation of math teacher:代的数学教师
 generation of memory:代的記憶
@@ -8151,6 +8163,7 @@ genetics meetings:遗传学会议
 genetics modeling and education:遗传学建模和教育
 genetics modeling:遗传学建模
 genetics needs:遗传学需要
+genetics of cancer:癌症遗传学
 genetics of fate:遗传学的命运
 genetics or agriculture:遗传学或农学
 genetics or kidney problem:遗传学或肾脏问题
@@ -9142,6 +9155,7 @@ genocide jack:种族灭绝杰克
 genocide laws:种族灭绝法律
 genocide memorial:种族灭绝纪念碑
 genocide museum:种族灭绝博物馆
+genocide of palestinians:巴勒斯坦人种族灭绝
 genocide of serbs in the independent state of croatia:克罗地亚独立国对塞尔维亚人的种族迫害
 genocide olympics:种族灭绝奥运会
 genocide or any other:种族灭绝或任何其他
@@ -9547,6 +9561,9 @@ genre browser:风格浏览器
 genre come:风格来
 genre fiction:大眾文學
 genre movies:风格电影
+genre of film:电影风格
+genre of literature:文学风格
+genre of music:音乐风格
 genre of online game:风格的网络游戏
 genre painting and portrait:风俗画和肖像
 genre painting:风俗画
@@ -9918,6 +9935,9 @@ geographic regions of greece:希臘地理區域
 geographic regions structure:地理区域结构
 geographic regions work:地理区域工作
 geographic regions:地理区域
+geographical centre of europe:欧洲地理中心
+geographical centre of europe:歐洲地理中心
+geographical centre of switzerland:瑞士地理中心
 geographical centre:地理中心
 geographical dictionary of the kingdom of poland:波兰王国地理词典
 geographical distribution of dutch speakers:荷蘭語地理分佈
@@ -10139,180 +10159,336 @@ geography markup language:地理标记语言
 geography matter:地理问题
 geography means:地理意味着
 geography obviously:地理显然
+geography of abkhazia:阿布哈兹地理
 geography of afghanistan:阿富汗地理
 geography of africa:非洲地理
 geography of albania:阿尔巴尼亚地理
+geography of albania:阿爾巴尼亞地理
 geography of algeria:阿尔及利亚地理
+geography of algeria:阿爾及利亞地理
 geography of american samoa:美属萨摩亚地理
 geography of andorra:安道尔地理
 geography of angola:安哥拉地理
+geography of anguilla:安圭拉地理
+geography of antarctica:南极洲地理
+geography of antigua and barbuda:安地卡及巴布達地理
 geography of argentina:阿根廷地理
 geography of arizona:亚利桑那州地理
+geography of arizona:亞利桑那州地理
+geography of arkansas:阿肯色州地理
 geography of armenia:亚美尼亚地理
+geography of armenia:亞美尼亞地理
+geography of asia:亚洲地理
 geography of asia:亞洲地理
+geography of australia:澳大利亚地理
 geography of australia:澳大利亞地理
+geography of australia:澳洲地理
+geography of austria:奥地利地理
 geography of austria:奧地利地理
 geography of azerbaijan:阿塞拜疆地理
 geography of bahrain:巴林地理
 geography of bangladesh:孟加拉国地理
+geography of bangladesh:孟加拉國地理
+geography of barbados:巴巴多斯地理
 geography of beijing:北京地理
 geography of belarus:白俄羅斯地理
+geography of belarus:白羅斯地理
 geography of belgium:比利时地理
+geography of belgium:比利時地理
 geography of belize:伯利茲地理
+geography of benin:貝寧地理
 geography of benin:贝宁地理
 geography of bermuda:百慕大地理
+geography of bermuda:百慕達地理
 geography of bhutan:不丹地理
 geography of bolivia:玻利維亞地理
+geography of bosnia and herzegovina:波士尼亞與赫塞哥維納地理
 geography of bosnia and herzegovina:波斯尼亚和黑塞哥维那地理
+geography of bosnia and herzegovina:波斯尼亞和黑塞哥維那地理
+geography of bosnia and herzegovina:波黑地理
 geography of botswana:博茨瓦纳地理
 geography of brazil:巴西地理
+geography of british columbia:不列颠哥伦比亚省地理
 geography of british columbia:卑詩省地理
 geography of brunei:文莱地理
+geography of brunei:汶萊地理
 geography of bulgaria:保加利亞地理
+geography of burkina faso:布吉納法索地理
 geography of burkina faso:布基纳法索地理
+geography of burma:緬甸地理
+geography of burma:缅甸地理
+geography of burundi:布隆迪地理
+geography of california:加利福尼亚州地理
 geography of cambodia:柬埔寨地理
 geography of cameroon:喀麥隆地理
 geography of canada:加拿大地理
+geography of cape verde:佛得角地理
 geography of cape verde:維德角地理
+geography of central african republic:中非共和國地理
+geography of central america:中美洲地理
 geography of chad:乍得地理
 geography of chile:智利地理
+geography of china:中华人民共和国地理
 geography of china:中国地理
+geography of china:中國地理
+geography of china:中華人民共和國地理
+geography of colombia:哥伦比亚地理
 geography of colombia:哥倫比亞地理
+geography of colorado:科罗拉多州地理
 geography of cornwall:康沃爾地理
 geography of costa rica:哥斯達黎加地理
+geography of croatia:克羅地亞地理
 geography of croatia:克羅埃西亞地理
 geography of cuba:古巴地理
 geography of cyprus:塞浦路斯地理
+geography of czech republic:捷克地理
+geography of côte d'ivoire:科特迪瓦地理
+geography of delaware:特拉华州地理
 geography of denmark:丹麥地理
+geography of denmark:丹麦地理
 geography of djibouti:吉布提地理
 geography of dominica:多米尼克地理
+geography of east timor:東帝汶地理
 geography of ecuador:厄瓜多地理
+geography of ecuador:厄瓜多尔地理
+geography of ecuador:厄瓜多爾地理
 geography of egypt:埃及地理
 geography of el salvador:薩爾瓦多地理
 geography of england:英格蘭地理
 geography of equatorial guinea:赤道几内亚地理
 geography of eritrea:厄立特里亚地理
+geography of eritrea:厄立特里亞地理
 geography of estonia:愛沙尼亞地理
+geography of eswatini:斯威士蘭地理
 geography of ethiopia:埃塞俄比亞地理
+geography of ethiopia:衣索比亞地理
 geography of europe fact:欧洲地理事实
 geography of europe:欧洲地理
+geography of europe:歐洲地理
 geography of fiji:斐济地理
+geography of fiji:斐濟地理
 geography of finland:芬兰地理
+geography of finland:芬蘭地理
+geography of florida:佛罗里达州地理
 geography of food:食品地理学
+geography of food:食物地理
 geography of france:法国地理
+geography of france:法國地理
 geography of french polynesia:法属波利尼西亚地理
+geography of gabon:加蓬地理
+geography of gambia:岡比亞地理
+geography of georgia:佐治亚州地理
+geography of georgia:格魯吉亞地理
+geography of georgia:格鲁吉亚地理
 geography of germany:德国地理
+geography of germany:德國地理
 geography of ghana:加納地理
+geography of ghana:迦納地理
+geography of great britain:英国地理
+geography of greece:希腊地理
 geography of greece:希臘地理
 geography of greenland:格陵兰地理
+geography of greenland:格陵蘭地理
+geography of grenada:格林納達地理
+geography of guam:关岛地理
 geography of guam:關島地理
+geography of guatemala:危地馬拉地理
+geography of guatemala:危地马拉地理
 geography of guatemala:瓜地馬拉地理
+geography of guinea-bissau:幾內亞比紹地理
+geography of guinea:几内亚地理
 geography of guinea:幾內亞地理
 geography of guyana:圭亞那地理
 geography of haiti:海地地理
+geography of hawaii:夏威夷地理
 geography of honduras:洪都拉斯地理
 geography of hong kong:香港地理
 geography of hunan:湖南地理
 geography of hungary:匈牙利地理
+geography of iceland:冰岛地理
 geography of iceland:冰島地理
+geography of idaho:爱达荷州地理
 geography of india:印度地理
 geography of indonesia:印度尼西亚地理
+geography of indonesia:印度尼西亞地理
 geography of iran:伊朗地理
 geography of iraq:伊拉克地理
 geography of ireland:愛爾蘭地理
 geography of israel:以色列地理
+geography of italy:意大利地理
 geography of italy:義大利地理
 geography of ivory coast:科特迪瓦地理
 geography of jamaica:牙買加地理
 geography of japan and united nations:日本地理和联合国
 geography of japan:日本地理
 geography of jordan:約旦地理
+geography of jordan:约旦地理
 geography of kazakhstan:哈萨克斯坦地理
+geography of kenya:肯亞地理
 geography of kenya:肯尼亚地理
 geography of kiribati:基里巴斯地理
+geography of korea:朝鲜地理
+geography of korea:韩国地理
 geography of kosovo:科索沃地理
 geography of kuala lumpur:吉隆坡地理
 geography of kuwait:科威特地理
 geography of kyrgyzstan:吉尔吉斯斯坦地理
 geography of laos:老挝地理
+geography of laos:老撾地理
 geography of latvia:拉脫維亞地理
+geography of latvia:拉脱维亚地理
 geography of lebanon:黎巴嫩地理
+geography of lesotho:萊索托地理
+geography of lesotho:賴索托地理
 geography of liberia:利比里亚地理
+geography of liberia:利比里亞地理
 geography of libya:利比亞地理
+geography of liechtenstein:列支敦士登地理
 geography of liechtenstein:列支敦斯登地理
 geography of lithuania:立陶宛地理
 geography of luxembourg:卢森堡地理
+geography of luxembourg:盧森堡地理
 geography of macau:澳門地理
+geography of macau:澳门地理
 geography of madagascar:馬達加斯加地理
+geography of madagascar:马达加斯加地理
+geography of maine:缅因州地理
+geography of malawi:馬拉維地理
 geography of malawi:马拉维地理
+geography of malaysia:馬來西亞地理
 geography of malaysia:马来西亚地理
+geography of maldives:馬爾代夫地理
+geography of maldives:馬爾地夫地理
 geography of mali:馬里地理
+geography of malta:馬耳他地理
 geography of malta:马耳他地理
+geography of mars:火星地理
+geography of martinique:馬提尼克地理
+geography of massachusetts:马萨诸塞州地理
+geography of mauritania:毛里塔尼亚地理
+geography of mauritania:毛里塔尼亞地理
 geography of mauritania:茅利塔尼亞地理
+geography of mauritius:毛里求斯地理
 geography of mexico:墨西哥地理
+geography of minnesota:明尼蘇達州地理
+geography of missouri:密苏里地理
 geography of moldova:摩爾多瓦地理
+geography of monaco:摩納哥地理
 geography of monaco:摩纳哥地理
 geography of mongolia:蒙古国地理
+geography of montenegro:蒙特內哥羅地理
 geography of montenegro:黑山地理
 geography of morocco:摩洛哥地理
 geography of mozambique:莫桑比克地理
 geography of mumbai:孟买地理
+geography of myanmar:緬甸地理
 geography of myanmar:缅甸地理
 geography of namibia:納米比亞地理
 geography of nauru:瑙魯地理
 geography of nepal:尼泊尔地理
+geography of nepal:尼泊爾地理
+geography of new caledonia:新喀里多尼亚地理
 geography of new caledonia:新喀里多尼亞地理
+geography of new york:纽约州地理
+geography of new zealand:新西兰地理
 geography of new zealand:新西蘭地理
+geography of new zealand:紐西蘭地理
 geography of nicaragua:尼加拉瓜地理
 geography of niger:尼日爾地理
 geography of nigeria:尼日利亞地理
 geography of niue:纽埃地理
+geography of north america:北美洲地理
+geography of north carolina:北卡罗来纳州地理
+geography of north korea:北韓地理
+geography of north korea:朝鮮地理
 geography of north korea:朝鮮民主主義人民共和國地理
+geography of north korea:朝鲜地理
+geography of north macedonia:北馬其頓地理
 geography of north macedonia:北马其顿地理
 geography of norway and geography of sweden:挪威地理和瑞典地理
 geography of norway:挪威地理
+geography of oceania:大洋洲地理
+geography of oklahoma:奧克拉荷馬州地理
 geography of oman:阿曼地理
+geography of ontario:安大略地理
 geography of ontario:安大略省地理
 geography of pakistan:巴基斯坦地理
 geography of palau:帕勞地理
+geography of palau:帛琉地理
 geography of palestine:地理的巴勒斯坦
 geography of panama:巴拿馬地理
+geography of panama:巴拿马地理
 geography of papua new guinea:巴布亞新幾內亞地理
 geography of paraguay:巴拉圭地理
+geography of peru:秘魯地理
 geography of peru:秘鲁地理
 geography of pluto:冥王星地理
+geography of poland:波兰地理
 geography of poland:波蘭地理
 geography of portugal:葡萄牙地理
 geography of puerto rico:波多黎各地理
 geography of qatar:卡塔尔地理
+geography of quebec:魁北克地理
 geography of quebec:魁北克省地理
+geography of queensland:昆士蘭州地理
+geography of religion:宗教地理
+geography of religion:宗教地理学
+geography of rhode island:罗得岛州地理
 geography of romania:羅馬尼亞地理
 geography of russia:俄罗斯地理
+geography of russia:俄羅斯地理
 geography of rwanda:盧安達地理
+geography of rwanda:盧旺達地理
+geography of saint kitts and nevis:圣基茨和尼维斯地理
+geography of saint kitts and nevis:聖基茨和尼維斯地理
+geography of saint lucia:聖盧西亞地理
+geography of saint vincent and the grenadines:聖文森特和格林納丁斯地理
 geography of samoa:萨摩亚地理
+geography of samoa:薩摩亞地理
 geography of san marino:圣马力诺地理
+geography of san marino:聖馬力諾地理
+geography of saudi arabia:沙烏地阿拉伯地理
 geography of saudi arabia:沙特阿拉伯地理
 geography of scotland:蘇格蘭地理
 geography of senegal:塞內加爾地理
+geography of senegal:塞内加尔地理
 geography of serbia:塞爾維亞地理
+geography of seychelles:塞舌爾地理
 geography of shanghai:上海地理
 geography of sierra leone:塞拉利昂地理
 geography of singapore:新加坡地理
 geography of slovakia:斯洛伐克地理
 geography of slovenia:斯洛文尼亞地理
+geography of solomon islands:所羅門群島地理
+geography of somalia:索馬利亞地理
 geography of somalia:索馬里地理
 geography of south africa:南非地理
 geography of south america:南美洲地理
+geography of south korea:大韩民国地理
+geography of south korea:韓國地理
 geography of south korea:韩国地理
 geography of spain:西班牙地理
 geography of sri lanka:斯里兰卡地理
+geography of sri lanka:斯里蘭卡地理
+geography of sudan:蘇丹地理
+geography of suriname:苏里南地理
+geography of suriname:蘇里南地理
+geography of swaziland:斯威士蘭地理
 geography of sweden:瑞典地理
 geography of switzerland:瑞士地理
+geography of syria:叙利亚地理
 geography of syria:敘利亞地理
+geography of são tomé and príncipe:聖多美普林西比地理
+geography of taiwan:中華民國地理
+geography of taiwan:台湾地理
 geography of taiwan:台灣地理
+geography of taiwan:臺灣地理
 geography of tajikistan:塔吉克斯坦地理
 geography of tanzania:坦桑尼亚地理
+geography of tanzania:坦桑尼亞地理
 geography of tasmania:塔斯马尼亚州地理
+geography of texas:德克薩斯州地理
+geography of thailand:泰国地理
 geography of thailand:泰國地理
 geography of the bahamas:巴哈馬地理
 geography of the central african republic:中非共和國地理
@@ -10324,41 +10500,65 @@ geography of the falkland islands:福克兰群岛地理
 geography of the faroe islands:法羅群島地理
 geography of the federated states of micronesia:密克羅尼西亞聯邦地理
 geography of the gambia:冈比亚地理
+geography of the gambia:岡比亞地理
 geography of the isle of man:曼島地理
 geography of the maldives:马尔代夫地理
 geography of the marshall islands:馬紹爾群島地理
+geography of the netherlands:荷兰地理
 geography of the netherlands:荷蘭地理
 geography of the northern mariana islands:北馬里亞納群島地理
 geography of the northwest territories:西北地区地理
+geography of the people's republic of china:中华人民共和国地理
 geography of the philippines:菲律宾地理
 geography of the pitcairn islands:皮特凯恩地理
 geography of the republic of the congo:刚果共和国地理
 geography of the solomon islands:所羅門群島地理
+geography of the soviet union:苏联地理
 geography of the soviet union:蘇聯地理
 geography of the united arab emirates:阿拉伯联合酋长国地理
+geography of the united kingdom:英国地理
 geography of the united kingdom:英國地理
 geography of the united states:美国地理
 geography of tibet:西藏地理
+geography of tibet:西藏自治区地理
 geography of timor leste:东帝汶地理
+geography of timor-leste:東帝汶地理
 geography of togo:多哥地理
 geography of tonga:東加地理
+geography of trinidad and tobago:特立尼达和多巴哥地理
 geography of trinidad and tobago:特立尼達和多巴哥地理
+geography of tristan da cunha:特里斯坦-达库尼亚地理
 geography of tunisia:突尼斯地理
 geography of turkey:土耳其地理
 geography of turkmenistan:土库曼斯坦地理
 geography of tuvalu:圖瓦盧地理
+geography of uganda:烏干達地理
+geography of ukraine:乌克兰地理
 geography of ukraine:烏克蘭地理
+geography of united arab emirates:阿拉伯联合酋长国地理
+geography of united arab emirates:阿拉伯聯合酋長國地理
+geography of united states:美国地理
+geography of united states:美國地理
+geography of uruguay:乌拉圭地理
 geography of uruguay:烏拉圭地理
+geography of utah:犹他州地理
 geography of uzbekistan:乌兹别克斯坦地理
 geography of vanuatu:瓦努阿图地理
+geography of vanuatu:瓦努阿圖地理
 geography of vatican city:梵蒂冈地理
+geography of vatican city:梵蒂岡地理
 geography of venezuela:委內瑞拉地理
+geography of venezuela:委内瑞拉地理
 geography of victoria:维多利亚州地理
 geography of vietnam:越南地理
+geography of virginia:弗吉尼亚州地理
 geography of wales:威爾士地理
+geography of wales:威爾斯地理
+geography of yemen:也門地理
 geography of yemen:也门地理
 geography of yukon:育空地區地理
 geography of zambia:贊比亞地理
+geography of zimbabwe:津巴布韋地理
 geography of zimbabwe:津巴布韦地理
 geography offer:地理提供
 geography on-demand:地理按需
@@ -10611,11 +10811,13 @@ geology of charon:冥卫一地质
 geology of hong kong:香港地質
 geology of indonesia:印尼地質
 geology of mars:火星地質
+geology of mars:火星地质学
 geology of mercury:水星地質
 geology of nepal:尼泊爾地質
 geology of pluto:冥王星地质
 geology of taiwan:台灣地質
 geology of the moon:月球地質
+geology of the moon:月球地质学
 geology of venus:金星地質
 geology or botany:地质学或植物学
 geology professor henry:地质学教授亨利
@@ -12748,6 +12950,7 @@ german commentator:德国的评论员
 german communist party:德国的共产党
 german communities:德国人社区
 german communities:德语社区
+german community of belgium:比利时德语社区
 german community:德语社区
 german companies and banks:德国的公司和银行
 german companies:德国的企业
@@ -13968,6 +14171,8 @@ germans kill:德意志人杀
 germans of croatia:克罗地亚德意志人
 germans of hungary:匈牙利德意志人
 germans of kazakhstan:哈薩克斯坦的德意志人
+germans of poland:波兰德意志人
+germans of romania:罗马尼亚德意志人
 germans of romania:羅馬尼亞德裔
 germans of yugoslavia:南斯拉夫德意志人
 germans start:德意志人开始

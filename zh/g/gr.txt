@@ -387,9 +387,11 @@ graduate recruitment:畢業生招聘
 graduate school of asia pacific studies:早稻田大学大学院亚洲太平洋研究科
 graduate school of business:商科研究生院（lg商务楼）
 graduate school of chinese academy of social sciences:中国社会科学院研究生院
+graduate school of duke university:杜克大学研究生院
 graduate school of education:教育学院
 graduate school of education:教育學院
 graduate school of international studies [gsis]:国际研究大学院 [gsis]
+graduate school of journalism:新闻学研究生院
 graduate school of public health [gsph]:健康研究生院
 graduate school:研究生院
 graduate student accommodation:研究生住宿
@@ -1238,6 +1240,7 @@ grammar might teach us:语法可能教我们
 grammar nazi daughter:语法纳粹女儿
 grammar nazi:语法纳粹
 grammar norm:语法规范
+grammar of old english:古英语语法
 grammar or accent:语法或口音
 grammar or alphabet:语法或字母
 grammar or culture:语法或文化
@@ -1629,6 +1632,8 @@ grand bay comprehensive activity center:大灣綜合活動中心
 grand bay resort:墾丁怡灣渡假酒店
 grand bay view hotel & resort:華麗海灣酒店
 grand bazaar market:大巴扎市场
+grand bazaar of isfahan:伊斯法罕大巴扎
+grand bazaar of tehran:德黑蘭大巴扎
 grand bazaar:2-1大巴扎
 grand bazaar:大巴扎
 grand bazaar:大巴扎市场
@@ -1673,6 +1678,8 @@ grand camel:盛大的骆驼
 grand campaign:盛大的战役
 grand canal forest park:大运河森林公园
 grand canal of alsace:阿尔萨斯大运河
+grand canal of china:中国大运河
+grand canal of venice:威尼斯大运河
 grand canal zhongxing bridge:京杭运河众兴大桥
 grand canal zhongxing bridge:京杭運河眾興大橋
 grand canal:jīngháng dàyùnhé
@@ -1769,19 +1776,39 @@ grand duchess charlotte bridge:夏洛特大公橋
 grand duchy of baden:巴登大公國
 grand duchy of berg:贝格大公国
 grand duchy of finland:芬兰大公国
+grand duchy of finland:芬兰大公國
+grand duchy of finland:芬蘭大公國
 grand duchy of frankfurt:法蘭克福大公國
 grand duchy of hesse:黑森大公国
+grand duchy of hesse:黑森大公國
+grand duchy of krakow:克拉科夫大公國
+grand duchy of kraków:克拉科夫大公國
 grand duchy of lithuania and poland:立陶宛大公国和波兰
 grand duchy of lithuania retain:立陶宛大公国保持
 grand duchy of lithuania:立陶宛大公国
+grand duchy of lithuania:立陶宛大公國
+grand duchy of luxembourg:盧森堡大公國
+grand duchy of luxemburg:盧森堡大公國
+grand duchy of moscow:莫斯科大公國
 grand duchy of oldenburg:奥尔登堡大公国
+grand duchy of oldenburg:奥尔登堡大公國
 grand duchy of posen:波森大公國
+grand duchy of posen:波茲南大公國
+grand duchy of poznan:波茲南大公國
+grand duchy of poznań:波茲南大公國
+grand duchy of ryazan:梁赞大公國
+grand duchy of salzburg:薩爾茨堡大公國
 grand duchy of the lower rhine:下萊茵大公國
 grand duchy of tuscany:托斯卡纳大公国
+grand duchy of tver:特維爾大公國
+grand duchy of tver:特维尔大公國
+grand duchy of vladimir:弗拉基米爾大公國
+grand duchy of warsaw:華沙大公國
 grand duchy:大公國
 grand duke has been:大公爵已经
 grand duke leopold i:大公爵利奥波德一世
 grand duke of finland:芬蘭大公
+grand duke of luxembourg:盧森堡大公爵
 grand duke will:大公爵会
 grand duke:大公爵
 grand dynasty hotel:大宗大宇饭店
@@ -1938,6 +1965,7 @@ grand lisboa palace:澳門上葡京
 grand lisboa:新葡京
 grand lisboa:澳門新葡京酒店
 grand lodge of china:中國美生總會
+grand lodge of france:法国总会所
 grand lodge:全麗山莊
 grand lodge:总会所
 grand londres:大伦敦
@@ -1995,6 +2023,7 @@ grand mosque seizure:麦加禁寺围困事件
 grand mountain:盛大的山
 grand mufti ahmad:大穆夫提艾哈迈德
 grand mufti of jerusalem:耶路撒冷大穆夫提
+grand mufti of syria:敘利亞大穆夫提
 grand mufti:大穆夫提
 grand music:盛大的音乐
 grand muveran:大穆韋蘭山
@@ -2080,8 +2109,12 @@ grand prince inpyeong:麟坪大君
 grand prince jinan:鎮安大君
 grand prince neungchang:綾昌大君
 grand prince neungwon:綾原大君
+grand prince of finland:芬蘭大親王
+grand prince of kiev:基輔大親王
 grand prince of kiev:基辅罗斯统治者年表
+grand prince of kyiv:基輔大親王
 grand prince of vladimir:弗拉基米尔大公
+grand prince of vladimir:弗拉基米爾大親王
 grand prince uian:義安大君
 grand prince wolsan:月山大君
 grand prince yangnyeong:讓寧大君
@@ -2133,9 +2166,38 @@ grand prix museum:大賽車博物館
 grand prix national des lettres:法国文学大奖
 grand prix night:大奖赛夜
 grand prix now:大奖赛现在
+grand prix of america:美国大奖赛
+grand prix of america:美洲大奖赛
 grand prix of america:美洲大獎賽
+grand prix of belgium:比利时大奖赛
+grand prix of belgium:比利時大奖赛
+grand prix of brazil:巴西大奖赛
+grand prix of canada:加拿大大奖赛
+grand prix of europe:欧洲大奖赛
+grand prix of europe:歐洲大奖赛
 grand prix of figure skating final:国际滑冰联盟花样滑冰大奖赛总决赛
+grand prix of figure skating:花样滑冰大奖赛
 grand prix of finland:国际滑冰联盟花样滑冰大奖赛芬兰站
+grand prix of france:法国大奖赛
+grand prix of germany:德国大奖赛
+grand prix of germany:德國大奖赛
+grand prix of india:印度大奖赛
+grand prix of italy:意大利大奖赛
+grand prix of italy:義大利大奖赛
+grand prix of japan:日本大奖赛
+grand prix of las vegas:拉斯维加斯大奖赛
+grand prix of miami:迈阿密大奖赛
+grand prix of monaco:摩納哥大奖赛
+grand prix of monaco:摩纳哥大奖赛
+grand prix of monza:蒙扎大奖赛
+grand prix of paris:巴黎大奖赛
+grand prix of qatar:卡塔尔大奖赛
+grand prix of rome:罗马大奖赛
+grand prix of singapore:新加坡大奖赛
+grand prix of south africa:南非大奖赛
+grand prix of sweden:瑞典大奖赛
+grand prix of the americas:美洲大奖赛
+grand prix of turkey:土耳其大奖赛
 grand prix officials:大奖赛官员
 grand prix organize:大奖赛组织
 grand prix podium:大奖赛领奖台
@@ -2225,6 +2287,7 @@ grand slam cup:大满贯杯
 grand slam deng yaping:大满贯邓亚萍
 grand slam milestone:大满贯里程碑
 grand slam now:大满贯现在
+grand slam of golf:高尔夫球大满贯
 grand slam plans:大满贯计划
 grand slam quarter:大满贯四分之一
 grand slam result:大满贯结果
@@ -2282,9 +2345,11 @@ grand temple of mount heng:南岳大庙
 grand temple:兜率宮
 grand teton national park:大蒂頓國家公園
 grand teton:大提頓峰
+grand theater of bordeaux:波尔多大剧院
 grand theater station:大剧院站
 grand theater:dàjùyuàn
 grand theater:大剧院
+grand theatre of poznań:波茲南大劇院
 grand theatre:大剧院
 grand theatre:大劇院
 grand theft auto clone:类侠盗猎车手游戏
@@ -5535,6 +5600,7 @@ gravitation exist:引力存在
 gravitation field:引力场
 gravitation lens:引力透镜
 gravitation needs:引力需要
+gravitation of the moon:月球引力
 gravitation of the moon:月球重力場
 gravitation or electricity:引力或電
 gravitation physics and astrophysics:引力物理和天体物理学
@@ -5857,6 +5923,7 @@ gravity movie:重力电影
 gravity national park:重力國家公園
 gravity no longer:重力不再
 gravity of earth:地球引力
+gravity of earth:地球重力
 gravity of office:重力的办公室
 gravity operate:重力操作
 gravity option:重力选项
@@ -7831,6 +7898,7 @@ great fire of london:倫敦大火
 great fire of meireki:明曆大火
 great fire of rome:羅馬大火
 great fire:伟大的火
+great firewall of china:中国防火长城
 great firewall should be:防火长城应该是
 great firewall:防火长城
 great first date questions you:伟大的第一次约会问题你
@@ -8558,6 +8626,7 @@ great microscope:伟大的显微镜
 great microsoft:伟大的微软
 great midfielder:伟大的中场
 great midterm election:伟大的中期选举
+great migration of african americans:非裔美国人大遷徙
 great migration:伟大的迁徙
 great migration:大遷徙
 great migrations of the serbs:塞爾維亞人大遷徙
@@ -9641,6 +9710,7 @@ great synagogue in lyon:里昂大猶太會堂
 great synagogue of bordeaux:波尔多大犹太会堂
 great synagogue of europe:欧洲大犹太会堂
 great synagogue of florence:佛罗伦萨大犹太会堂
+great synagogue of london:倫敦大猶太會堂
 great synagogue of marseille:马赛大犹太会堂
 great synagogue of rome:羅馬大猶太會堂
 great synagogue of stockholm:斯德哥尔摩犹太会堂
@@ -9937,6 +10007,7 @@ great wall of china hoax:长城骗局
 great wall of china restaurant:长城餐厅
 great wall of china should be:长城应该是
 great wall of china:chángchéng
+great wall of china:中国长城
 great wall of china:司马台长城
 great wall of china:娘子关长城
 great wall of china:汉长城
@@ -9944,8 +10015,10 @@ great wall of china:镇边城城墙
 great wall of china:镇边废邑城墙
 great wall of china:長城
 great wall of china:长城
+great wall of gorgan:戈尔干长城
 great wall of qi:齐长城
 great wall of sand:沙長城
+great wall of sand:沙长城
 great wall pan asia holdings:長城環亞控股
 great wall restaurant:长城酒家
 great wall station:chángchéng zhàn
@@ -13096,6 +13169,7 @@ greek original:希腊原始的
 greek orthodox archdiocese of america:希臘正教美國總教區
 greek orthodox archdiocese of australia:希臘正教澳大利亞總教區
 greek orthodox archdiocese of thyateira and great britain:希臘正教推雅推喇暨大不列顛總教區
+greek orthodox church of jerusalem:耶路撒冷希臘正教會
 greek orthodox church of the annunciation:希腊正教会圣母领报堂
 greek orthodox church retain:希臘正教會保持
 greek orthodox church:希臘正教會
@@ -13434,6 +13508,7 @@ greek text:希腊文本
 greek text:希腊的文本
 greek text:希腊语文本
 greek the:希腊这
+greek theater of syracuse:锡拉库萨希腊剧场
 greek theater:希腊剧场
 greek theater:希腊的剧场
 greek theatre of syracuse:錫拉庫沙希臘劇場
@@ -15573,6 +15648,7 @@ green lentil:绿色小扁豆
 green letter:绿色信
 green letter:绿色字母
 green level:绿色水平
+green liberal party of switzerland:瑞士綠色自由黨
 green liberal party:綠色自由黨
 green library:绿色图书馆
 green life community:綠生活社區
@@ -15905,12 +15981,34 @@ green party korea:綠色黨
 green party leader:綠黨領袖
 green party northern ireland:北愛爾蘭綠黨
 green party of aotearoa new zealand:奥特亚罗瓦新西兰绿党
+green party of aotearoa:新西蘭綠黨
+green party of aotearoa:紐西蘭綠黨
 green party of armenia:亞美尼亞綠黨
+green party of austria:奧地利綠黨
+green party of bangladesh:孟加拉綠黨
+green party of brazil:巴西綠黨
 green party of british columbia:卑詩綠黨
+green party of bulgaria:保加利亞綠黨
 green party of canada:加拿大綠黨
 green party of england and wales:英格兰和威尔士绿党
+green party of fiji:斐濟綠黨
+green party of florida:佛羅里達州綠黨
+green party of germany:德國綠黨
+green party of hungary:匈牙利綠黨
+green party of ireland:愛爾蘭綠黨
+green party of latvia:拉脫維亞綠黨
+green party of new zealand:新西蘭綠黨
+green party of new zealand:紐西蘭綠黨
+green party of nigeria:奈及利亞綠黨
+green party of northern ireland:北愛爾蘭綠黨
+green party of ontario:安大略綠黨
 green party of switzerland:瑞士綠黨
+green party of the united states:美国綠黨
 green party of the united states:美国绿党
+green party of ukraine:烏克蘭綠黨
+green party of vancouver:溫哥華綠黨
+green party of zambia:尚比亞綠黨
+green party of zambia:贊比亞綠黨
 green party taiwan:台灣綠黨
 green party:綠黨
 green passport:绿色护照
@@ -18833,6 +18931,7 @@ greyfriars bobby fountain:忠犬巴比雕像
 greyfriars kirk:灰衣修士教堂
 greyfriars kirkyard:灰衣修士教堂墓地
 greyhawk:灰鷹
+greyhound lines of canada:加拿大灰狗巴士
 greyhound lines:灰狗巴士
 greyhound racing:賽狗
 greyhound:格雷伊獵犬
@@ -19044,6 +19143,7 @@ grid node:网格节点
 grid north:方格北
 grid of phoenix:网格的凤凰
 grid of streets:网格的街道
+grid of streets:街道网格
 grid open compute project:网格开放计算项目
 grid open:网格开
 grid operation:网格操作
@@ -21590,6 +21690,7 @@ group of dog:组的狗
 group of female:组的女性
 group of five:五国集团
 group of flightless bird:组的不会飞的鸟
+group of four:四组
 group of four:组的四
 group of friends in defense of the charter of the united nations:捍衛聯合國憲章之友小組
 group of friends:组的朋友
@@ -21611,6 +21712,7 @@ group of students offer:组的学生提供
 group of students:组的学生
 group of thirty report:三十人小组报告
 group of thirty:三十人小组
+group of three:三组
 group of three:组的三
 group of two:两国集团
 group offer:组提供

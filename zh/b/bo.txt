@@ -502,6 +502,7 @@ board now:板现在
 board object:板对象
 board of audit and inspection:监查院
 board of audit:會計檢查院
+board of control:控制板
 board of directors activities:董事会活动
 board of directors against him:董事会反对他
 board of directors against:董事会反对
@@ -2480,6 +2481,7 @@ body of christ healthy and function:基督的身体健康和功能
 body of christ healthy:基督的身体健康
 body of christ needs:基督的身体需要
 body of christ:基督的身体
+body of christ:基督身体
 body of proof:逝者之證
 body of water:水体
 body of water:水體
@@ -5953,6 +5955,7 @@ bombing danger:爆炸危险
 bombing kill:爆炸杀
 bombing memorial:爆炸纪念碑
 bombing network:爆炸网络
+bombing of bangkok:曼谷爆炸
 bombing of berlin in world war ii:柏林大轰炸
 bombing of bucharest in world war ii:轰炸布加勒斯特
 bombing of chongqing:重庆大轰炸
@@ -5965,6 +5968,7 @@ bombing of guernica:格尔尼卡大轰炸
 bombing of hamburg in world war ii:汉堡大轰炸
 bombing of kassa:轰炸卡萨
 bombing of kobe in world war ii:神戶大空襲
+bombing of london:倫敦爆炸
 bombing of nagoya:名古屋大空襲
 bombing of north korea:轟炸北韓行動
 bombing of obersalzberg:轰炸上萨尔茨堡山
@@ -7996,9 +8000,12 @@ book next time:书下次
 book norman:书诺曼
 book not:书不是
 book now:书现在
+book of abraham:亚伯拉罕书
 book of abraham:亞伯拉罕書
 book of amos:阿摩司書
 book of baruch:巴錄書
+book of beauty:美人书
+book of blood:血书
 book of burial:葬书
 book of chen:陈书
 book of commandments:誡命書
@@ -8007,6 +8014,7 @@ book of common prayer:公禱書
 book of concord:協同書
 book of course:书当然
 book of daniel:但以理書
+book of days:天书
 book of dede korkut:先祖阔尔库特书
 book of deuteronomy:申命記
 book of discipline:书的纪律
@@ -8019,21 +8027,26 @@ book of ezekiel:以西結書
 book of ezra include:以斯拉記包括
 book of ezra:以斯拉記
 book of five:书的五
+book of games:游戏书
 book of gates:地狱之书
 book of genesis:創世記
 book of gods and strange things:神異經
 book of habakkuk:哈巴谷書
 book of haggai:哈該書
 book of han:汉书
+book of history:历史书
 book of hosea:何西阿書
 book of hours:時禱書
 book of imaginary beings:幻兽辞典
 book of isaiah has one:以賽亞書有一
 book of isaiah:以賽亞書
+book of isaiah:以赛亚书
+book of jeremiah:耶利米书
 book of jeremiah:耶利米書
 book of jin:晋书
 book of job:約伯記
 book of joel:約珥書
+book of john:约翰书
 book of jonah:約拿書
 book of joseph:约瑟之书
 book of joshua:約書亞記
@@ -8047,6 +8060,7 @@ book of knowledge:书的知识
 book of lamentations:耶利米哀歌
 book of leviticus:利未記
 book of liang:梁书
+book of life:生命书
 book of magic:书的魔法
 book of malachi:瑪拉基書
 book of micah:彌迦書
@@ -8059,9 +8073,12 @@ book of nehemiah:尼希米記
 book of northern qi:北齐书
 book of numbers:民數記
 book of obadiah:俄巴底亞書
+book of optics:光学书
 book of photograph:书的照片
 book of pirate:书的海盗
+book of poetry:诗歌书
 book of potions:魔藥之書
+book of prayer:祈祷书
 book of proverbs:箴言
 book of qi:南齐书
 book of questions:书的问题
@@ -8069,8 +8086,15 @@ book of records:书的记录
 book of revelation:启示录
 book of rites:礼记
 book of ruth:路得記
+book of samuel:撒母耳书
+book of sin:中国图书
 book of sirach:便西拉智訓
 book of song:宋书
+book of song:歌书
+book of songs:歌书
+book of southern han:南汉书
+book of southern qi:南齐书
+book of southern tang:南唐书
 book of southern tang:南唐書
 book of soyga:索亞之書
 book of sui:隋书
@@ -8083,8 +8107,10 @@ book of truth:书的真理
 book of vermilion fish:朱砂鱼谱
 book of wei:魏书
 book of wisdom:所羅門智訓
+book of wisdom:智慧书
 book of wumu:武穆遺書
 book of zechariah:撒迦利亞書
+book of zephaniah:西番雅书
 book of zephaniah:西番雅書
 book of zhou:周书
 book offer:书提供
@@ -9053,11 +9079,14 @@ books now:书现在
 books now:书籍现在
 books obviously:书显然
 books occasionally:书籍偶尔
+books of blood:血书
 books of chronicles:歷代志
 books of engraving:书的雕刻
 books of french poetry:书的法国诗歌
+books of magic:魔法书
 books of moses said:书籍的摩西说
 books of prophecy:书的预言
+books of samuel:撒母耳书
 books of samuel:撒母耳记
 books of secret:书的秘密
 books of travel:书的旅行
@@ -11257,6 +11286,7 @@ borough of barrow in furness:巴罗因弗内斯自治市
 borough of bedford:貝德福德區
 borough of berwick upon tweed:特威德河畔貝里克區
 borough of broxtowe:薄士桃
+borough of camden:卡姆登自治市鎮
 borough of darlington:達靈頓區
 borough of dartford:達特福德區
 borough of eastleigh:伊斯特利區
@@ -13960,7 +13990,19 @@ botanical garden elements:植物園元素
 botanical garden is canada:植物園是加拿大
 botanical garden main entrance:植物园正门站
 botanical garden metro station(century oasis garden):地铁植物园站(世纪绿洲)
+botanical garden of buitenzorg:茂物植物园
+botanical garden of buitenzorg:茂物植物園
+botanical garden of geneva:日內瓦植物園
+botanical garden of geneva:日内瓦植物园
+botanical garden of medellín:麦德林植物园
+botanical garden of moscow:莫斯科植物园
+botanical garden of naples:那不勒斯植物園
+botanical garden of padova:帕多瓦植物园
+botanical garden of rio de janeiro:里約熱內盧植物園
+botanical garden of rio de janeiro:里约热内卢植物园
+botanical garden of rome:罗马植物园
 botanical garden of the university of vienna:維也納大學植物園
+botanical garden of the university of vienna:维也纳大学植物园
 botanical garden south entrance:华南植物园南门站
 botanical garden street:植物園街
 botanical garden west entrance:植物园西门站
@@ -14924,11 +14966,14 @@ bottle of atorvastatin:瓶的阿托伐他汀
 bottle of beverage:瓶的饮料
 bottle of chloral hydrate:瓶的水合氯醛
 bottle of coca-cola:瓶的可口可乐
+bottle of milk:牛奶瓶
 bottle of water:瓶的水
 bottle of well water:瓶的井水
 bottle of wine of course:瓶的酒当然
 bottle of wine:瓶的葡萄酒
 bottle of wine:瓶的酒
+bottle of wine:葡萄酒瓶
+bottle of wine:酒瓶
 bottle once:瓶一次
 bottle open:瓶打开
 bottle opener and pen:开瓶器和笔
@@ -15135,6 +15180,7 @@ bottom my:底我的
 bottom natural resources:底自然资源
 bottom node:底节点
 bottom number:底数
+bottom of the sea:海底
 bottom paper:底纸
 bottom pattern:底模式
 bottom petri dish:底培养皿

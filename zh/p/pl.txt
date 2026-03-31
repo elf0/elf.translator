@@ -424,6 +424,7 @@ place of meeting:地方的会议
 place of meeting:地方的會議
 place of palm:地方的棕榈
 place of red-roof:地方的红色屋顶
+place of safety:安全地方
 place of some very:地方的一些非常
 place of surrender:地方的投降
 place of those:地方的那些
@@ -1125,6 +1126,7 @@ plain museum:平原博物院
 plain of catania:卡塔尼亚平原
 plain of egypt:平原的埃及
 plain of jars:石缸平原
+plain of kosovo:科索沃平原
 plain of mud:平原的泥
 plain of the cul de sac:库尔德萨克平原
 plain old telephone service:普通老式电话服务
@@ -1796,10 +1798,14 @@ plan notebook:计划笔记本
 plan now:计划现在
 plan number:计划数
 plan obviously:计划显然
+plan of action:行动计划
 plan of attack:计划的攻击
+plan of chicago:芝加哥计划
 plan of quality:计划的质量
+plan of reforms:改革计划
 plan of study:计划的研究
 plan of tuxtepec:图斯特佩克纲领
+plan of union:联盟计划
 plan offer:计划提供
 plan office:计划办公室
 plan often:计划常常
@@ -2246,7 +2252,12 @@ plane media:平面媒体
 plane motion:平面运动
 plane of incidence:入射平面
 plane of material culture:平面的物質文化
+plane of polarization:極化平面
+plane of reference:参考平面
+plane of reference:參考平面
 plane of rotation:旋轉平面
+plane of symmetry:对称平面
+plane of the sky:天空平面
 plane online:平面在线
 plane optimization:平面优化
 plane or direction:平面或方向
@@ -2312,6 +2323,7 @@ planes are random:平面是随机
 planes concept:平面概念
 planes control:平面控制
 planes define:平面定义
+planes of symmetry:对称平面
 planes or surface:平面或表面
 planes trilogy:平面三部曲
 planes wide:平面宽
@@ -2432,10 +2444,14 @@ planet nine:第九行星
 planet nine:行星九
 planet not:行星不是
 planet ocean:行星海洋
+planet of dinosaurs:恐龙行星
+planet of evil:惡行星
+planet of ice:冰行星
 planet of the apes reboot:人猿星球重新启动
 planet of the apes series:人猿星球系列
 planet of the apes:人猿星球
 planet of the ood:渥德星球
+planet of the solar system:太阳系行星
 planet once:行星曾经
 planet or dwarf planet:行星或矮行星
 planet or lightweight brown dwarf:行星或轻量级棕矮星
@@ -4341,6 +4357,7 @@ plants needed me:植物需要我
 plants new:植物新的
 plants now:植物现在
 plants obtain:植物获得
+plants of new zealand:新西兰植物
 plants of nitrogen:植物的氮
 plants of the world online:世界植物在线
 plants offer:植物提供
@@ -9276,6 +9293,7 @@ player now:玩家现在
 player object:玩家对象
 player obtain:玩家获得
 player of games:玩家的游戏
+player of the game:游戏玩家
 player one:玩家一
 player online game only:玩家在线游戏只有
 player online game:玩家在线游戏
@@ -9749,6 +9767,9 @@ players notice:玩家注意
 players now have:玩家现在有
 players now:玩家现在
 players obviously:玩家显然
+players of the game:游戏玩家
+players of united states of america:美国玩家
+players of united states of america:美國玩家
 players offer:玩家提供
 players often:玩家常常
 players one:玩家一

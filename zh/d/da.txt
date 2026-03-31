@@ -6764,6 +6764,7 @@ daily music:日常的音乐
 daily needs:日常的需要
 daily news and analysis:每日新闻与分析
 daily news building:每日新聞大樓
+daily news of los angeles:洛杉矶每日新闻报
 daily news:每日新闻报
 daily newspaper and magazine:日报和杂志
 daily newspaper and publishing press:日报和出版出版社
@@ -12946,12 +12947,20 @@ dance notation:舞谱
 dance number:舞蹈数字
 dance numbers:舞蹈数字
 dance of a dream:愛君如夢
+dance of cambodia:柬埔寨舞蹈
+dance of china:中国舞蹈
+dance of china:中國舞蹈
 dance of death:舞蹈的死亡
 dance of energy:舞蹈的能量
 dance of form:舞蹈的形式
 dance of horror:舞蹈的恐怖
+dance of india:印度舞蹈
+dance of indonesia:印尼舞蹈
+dance of indonesia:印度尼西亚舞蹈
+dance of indonesia:印度尼西亞舞蹈
 dance of joy:舞蹈的欢乐
 dance of survival:舞蹈的生存
+dance of thailand:泰國舞蹈
 dance of the drunk mantis:南北醉拳
 dance of the happy shades:快乐影子之舞
 dance of the phoenix:且听凤鸣
@@ -30507,8 +30516,13 @@ date now:日期现在
 date numbers:日期数字
 date obese:约会肥胖的
 date object:日期对象
+date of birth:出生日期
+date of death:死亡约会
+date of easter:复活节日期
+date of easter:復活節日期
 date of easter:復活節的計算
 date of issue:日期的问题
+date of publication:出版日期
 date of the birth of jesus:耶稣的出生日期
 date offer:日期提供
 date once again:日期再次
@@ -31683,11 +31697,13 @@ daughter notice:女儿注意
 daughter now:女儿现在
 daughter occasionally:女儿偶尔
 daughter of david adler:女儿的大卫阿德勒
+daughter of earth:地球女兒
 daughter of emperor xiaoming of northern wei:元姑娘
 daughter of france:女儿的法国
 daughter of hong kong:香港的女兒
 daughter of kandarpadharma:伊萨那跋摩
 daughter of muhammad:女兒的穆罕默德
+daughter of shanghai:上海女兒
 daughter of the party:黨的女兒
 daughter often:女儿常常
 daughter once:女儿一次
@@ -34250,6 +34266,7 @@ daxing coal dam:大兴煤坝
 daxing coal dam:大興煤壩
 daxing community:大兴社区
 daxing district no.7 middle school:大兴区第七中学
+daxing district of beijing:北京市大兴区
 daxing district people's court:大兴区人民法院
 daxing district renhe hospital:大兴区仁和医院
 daxing district:dàxīng qū
@@ -35090,26 +35107,47 @@ day nuclear weapon:日核武器
 day number:日数
 day nunatak:達伊冰原島峰
 day observation:日观察
+day of anger:憤怒日
 day of arafah:阿拉法日
+day of atonement:贖罪日
 day of atorvastatin:日的阿托伐他汀
 day of christmas carol:日的聖誕頌歌
+day of culture:文化日
 day of defeat:胜利之日
+day of dignity and freedom:尊严与自由日
 day of dog:日的狗
+day of empire:帝国日
+day of independence:独立日
 day of infamy speech:國恥演說
+day of judgement:审判日
 day of judgement:日的审判
+day of knowledge:知識日
+day of knowledge:知识日
+day of kyiv:基輔日
+day of kyiv:基辅日
+day of light:光日
 day of music:日的音乐
+day of potsdam:波茨坦日
 day of prayer:全球禱告日
 day of prayer:日的祈祷
+day of reconciliation:和解日
 day of remembrance for truth and justice:真相與正義紀念日
 day of remembrance of the victims of political repressions:政治迫害受害者纪念日
+day of rest:休息日
+day of resurrection:復活日
 day of resurrection:日的復活
+day of revenge:复仇日
 day of songun:先军节
 day of testing:日的测试
 day of the dead parade:亡灵节游行
 day of the dead ritual:亡灵节仪式
 day of the dead:亡灵节
+day of the dog:狗日
 day of the foundation of the republic:人民政權創建日
+day of the moon:月球日
+day of the revolution:革命日
 day of the shining star:光明星节
+day of the sun:太阳日
 day of the tentacle:瘋狂時代
 day of the tiles:砖瓦之日
 day of the warrior:勇士之日
@@ -35120,9 +35158,11 @@ day of ukrainian literature and language:烏克蘭文字及語言日
 day of unity of ukraine:乌克兰统一日
 day of valor:巴丹日
 day of victory in the great fatherland liberation war:祖國解放戰爭勝利紀念日
+day of victory:胜利日
 day of week:日的星期
 day of yoga:日的瑜伽
 day of yogurt:日的酸奶
+day of youth:青年日
 day off! - re-use store:day off! - 二手
 day off! - second hand store:day off! - 二手
 day off! - Секонд Хенд:day off! - 二手
@@ -36153,6 +36193,7 @@ daylight means:日光意味着
 daylight minutes:日光分钟
 daylight mode:日光模式
 daylight modeling:日光建模
+daylight of spring:春日光
 daylight or temperature:日光或温度
 daylight pattern:日光模式
 daylight photos:日光照片
@@ -36673,6 +36714,7 @@ days of fasting:天的禁食
 days of fear:天的恐惧
 days of fight:天的战斗
 days of file recover:天的文件恢复
+days of fire:火天
 days of flood:天的洪水
 days of flower:天的花
 days of food:天的食物
@@ -36684,6 +36726,7 @@ days of frustration:天的挫折
 days of future past:天的未来过去的
 days of game time:天的游戏时间
 days of garbage:天的垃圾
+days of gold:金天
 days of government meeting:天的政府会议
 days of government meetings:天的政府会议
 days of grace period:天的寬限期
@@ -36718,6 +36761,7 @@ days of learning:天的学习
 days of liberty:天的自由
 days of life:天的生命
 days of life:天的生活
+days of light:光天
 days of light:天的光
 days of liquid:天的液体
 days of love:天的愛

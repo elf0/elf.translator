@@ -414,14 +414,24 @@ occupation list:职业列表
 occupation moral:职业道德的
 occupation narrative:佔領故事
 occupation now:职业现在
+occupation of china:中國职业
+occupation of france:法國佔領
+occupation of germany:德國佔領
+occupation of indonesia:印尼佔領
 occupation of istanbul:占领君士坦丁堡
 occupation of japan:同盟國軍事佔領日本
+occupation of japan:日本佔領
 occupation of liberec:苏军侵占利贝雷茨
 occupation of mongolia:外蒙古撤销自治
+occupation of mongolia:蒙古佔領
 occupation of ningbo:浙江之战
+occupation of rome:羅馬佔領
+occupation of spain:西班牙佔領
+occupation of taiwan:中華民國佔領
 occupation of the baltic states:佔領波羅的海國家
 occupation of the dominican republic:佔領多明尼加
 occupation of the gaza strip by the united arab republic:阿拉伯聯合共和國佔領加沙地帶
+occupation of the netherlands:荷蘭佔領
 occupation of the rhineland:占领莱茵兰
 occupation of the ruhr:占领鲁尔
 occupation or ethnicity:职业或族群
@@ -1108,6 +1118,7 @@ ocean observation:海洋观察
 ocean odyssey:海洋奥德赛
 ocean of corn:海洋的玉米
 ocean of fire:海洋的火
+ocean of magma:岩漿海洋
 ocean of patience:洋的耐心
 ocean offer:海洋提供
 ocean oil well:海洋油井
@@ -1497,6 +1508,7 @@ ocean university of china (laoshan campus):中国海洋大学（崂山校区）
 ocean university of china (laoshan campus):中國海洋大學（嶗山校區）
 ocean university of china station:海洋大学站
 ocean university of china:中国海洋大学
+ocean university of china:中國海洋大學
 ocean university of china:海洋大学
 ocean university of china:海洋大學
 ocean university:海洋大学

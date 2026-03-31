@@ -1111,6 +1111,7 @@ year ocean:年海洋
 year october:年十月
 year odyssey:年奥德赛
 year of action:年的行动
+year of africa:非洲年
 year of age:年的年龄
 year of amazon:年的亚马逊
 year of analysis:年的分析
@@ -1144,6 +1145,7 @@ year of development:年的发展
 year of development:年的开发
 year of discussions:年的讨论
 year of downtime:年的停机时间
+year of dragon:龙年
 year of drinking water:年的饮用水
 year of drought:年的干旱
 year of economic expansion:年的经济扩张
@@ -1216,14 +1218,17 @@ year of security updates:年的安全更新
 year of service:年的服务
 year of sin:年的罪过
 year of sleep:年的睡眠
+year of snake:蛇年
 year of study:年的学习
 year of study:年的研究
 year of teach:年的教
 year of testing:年的测试
+year of the dog:狗年
 year of the elephant:象年
 year of the five emperors:五帝之年
 year of the four emperors:四帝之年
 year of the three emperors:三帝之年
+year of the world:世界年
 year of the:年的这
 year of time:年的时间
 year of trade:年的贸易
@@ -3827,6 +3832,7 @@ years of the holocaust:年的納粹大屠殺
 years of the lamps:巨燈紀
 years of the new republic:年的新共和
 years of the soviet union:年的苏联
+years of the sun:太阳年
 years of the sun:太陽紀
 years of the trees:雙樹紀
 years of theology:年的神学
@@ -8181,7 +8187,11 @@ yew chung international school (primary section):耀中國際學校(小學部)
 yew chung international school (secondary):耀中國際學校 (中學)
 yew chung international school of beijing welcome:北京耀中国际学校欢迎
 yew chung international school of beijing:北京耀中国际学校
+yew chung international school of chongqing:重庆耀中国际学校
+yew chung international school of hong kong:香港耀中國際學校
 yew chung international school of qingdao:青島耀中國際學校
+yew chung international school of shanghai:上海耀中国际学校
+yew chung international school of shanghai:上海耀中國際學校
 yew chung international school of shanghai:上海耀中外籍人员子女学校
 yew chung international school:耀中国际学校
 yew chung international school:耀中國際學校

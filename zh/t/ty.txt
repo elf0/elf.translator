@@ -693,6 +693,7 @@ type of case:类型的案件
 type of cash:类型的现金
 type of cell death:类型的细胞死亡
 type of cell:类型的细胞
+type of cell:细胞类型
 type of cells towards:类型的细胞向
 type of cells:类型的细胞
 type of cent:类型的美分
@@ -805,6 +806,7 @@ type of data set:类型的数据集
 type of data source:类型的数据源
 type of data structure:类型的数据结构
 type of data-flow analysis:类型的数据流分析
+type of data:数据类型
 type of data:类型的数据
 type of database search:类型的数据库搜索
 type of database:类型的数据库
@@ -1158,6 +1160,7 @@ type of monomer:类型的单体
 type of mosquito:类型的蚊
 type of motion:类型的运动
 type of motivation:类型的动机
+type of motorcycle:摩托车类型
 type of mouse:类型的老鼠
 type of mouse:类型的鼠标
 type of movie:类型的电影
@@ -1347,6 +1350,7 @@ type of rifle:类型的步枪
 type of risk:类型的风险
 type of risks:类型的风险
 type of road:类型的道路
+type of rock:岩石类型
 type of rock:类型的岩石
 type of rocket:类型的火箭
 type of role:类型的角色
@@ -1375,6 +1379,7 @@ type of sensor uses:类型的传感器使用
 type of sensor:类型的传感器
 type of serial communication:类型的串行通信
 type of server:类型的服务器
+type of service:服务类型
 type of service:类型的服务
 type of services:类型的服务
 type of session hijacking:类型的会话劫持

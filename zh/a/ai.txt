@@ -474,6 +474,7 @@ aid north:帮助北
 aid nutrition researchers:帮助营养研究人员
 aid nutrition:帮助营养
 aid observation:帮助观察
+aid of the soviet union:苏联帮助
 aid officials:帮助官员
 aid or prevent:帮助或预防
 aid organisation:外援组织
@@ -2595,6 +2596,30 @@ air force not:空军不是
 air force now:空军现在
 air force nuclear weapon:空军核武器
 air force nurse:空军护士
+air force of bulgaria:保加利亚空军
+air force of chile:智利空军
+air force of colombia:哥伦比亚空军
+air force of côte d'ivoire:科特迪瓦空军
+air force of equatorial guinea:赤道几内亚空军
+air force of guatemala:危地马拉空军
+air force of india:印度空军
+air force of iran:伊朗空军
+air force of ivory coast:科特迪瓦空军
+air force of kenya:肯尼亚空军
+air force of kyrgyzstan:吉尔吉斯斯坦空军
+air force of mali:马里空军
+air force of peru:秘鲁空军
+air force of spain:西班牙空军
+air force of taiwan:中華民國空军
+air force of taiwan:台湾空军
+air force of tanzania:坦桑尼亚空军
+air force of thailand:泰国空军
+air force of the united states:美国空军
+air force of ukraine:乌克兰空军
+air force of ukraine:烏克蘭空军
+air force of venezuela:委内瑞拉空军
+air force of zimbabwe:津巴布韦空军
+air force of zimbabwe:辛巴威空军
 air force off:空军关闭
 air force office:空军办公室
 air force officer:空军长官
@@ -5451,6 +5476,7 @@ airfield landing:机场着陆
 airfield lighting report:机场照明报告
 airfield lighting system:机场照明系统
 airfield lighting:机场照明
+airfield of aalborg:奥尔堡机场
 airfield project:机场项目
 airfield run:机场跑
 airfield temperature:机场温度
@@ -6269,6 +6295,8 @@ airport authority civil work depot:機場管理局土木工程項目維修站
 airport authority hong kong:香港機場管理局
 airport authority maintenance headquarters:机场管理局维修总部
 airport authority maintenance headquarters:機場管理局維修總部
+airport authority of india:印度机场管理局
+airport authority of india:印度機場管理局
 airport authority:机场管理局
 airport authority:機場管理局
 airport automation baggage:机场自动化行李
@@ -6748,6 +6776,9 @@ airport north:機場北
 airport not:机场不是
 airport now:机场现在
 airport of alicante:机场的阿利坎特
+airport of bilbao:毕尔巴鄂机场
+airport of bilbao:毕尔巴鄂機場
+airport of bilbao:畢爾巴鄂機場
 airport of marseille:机场的马赛
 airport offer:机场提供
 airport offer:機場提供

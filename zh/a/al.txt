@@ -2053,6 +2053,9 @@ albanian writer:阿尔巴尼亚语作家
 albanian:阿尔巴尼亚语
 albanians and greeks:阿爾巴尼亞人和希臘人
 albanians in turkey:土耳其的阿爾巴尼亞人
+albanians of croatia:克羅地亞阿爾巴尼亞人
+albanians of kosovo:科索沃阿爾巴尼亞人
+albanians of north macedonia:北馬其頓阿爾巴尼亞人
 albanians:阿爾巴尼亞人
 albanias ambassade:阿尔巴尼亚大使馆
 albanias æreskonsulat:阿尔巴尼亚名誉领事馆
@@ -3258,6 +3261,7 @@ alcohol just:酒精只
 alcohol kill:酒精杀
 alcohol language:酒精语言
 alcohol law:酒類法律
+alcohol laws of new jersey:新泽西州酒精法律
 alcohol laws:酒精法律
 alcohol level:酒精水平
 alcohol license:酒精许可证
@@ -3683,6 +3687,7 @@ alderfly:泥蛉科
 alderman banni:市议员班尼
 alderman michael:市议员迈克尔
 alderman nicholas:市议员尼古拉斯
+alderman of new york city:纽约市议员
 alderman said:市议员说
 alderman:市议员
 alderney:Àoěrdéní dǎo
@@ -4439,6 +4444,7 @@ alexander hear:亚历山大听
 alexander help:亚历山大帮助
 alexander hislop:希斯录
 alexander hotel:亚历山大酒店
+alexander i of yugoslavia:南斯拉夫亚历山大一世
 alexander i order:亚历山大一世命令
 alexander i:亚历山大一世
 alexander i:亚历山大我
@@ -4490,6 +4496,7 @@ alexander nunataks:亞歷山大冰原島峰
 alexander of aphrodisias:阿佛洛狄西亚的亚历山大
 alexander of battenberg:王子亚历山大一世陵墓
 alexander of corinth:科林斯的亞歷山大
+alexander of jerusalem:耶路撒冷亚历山大
 alexander of masovia:馬佐夫舍的亞歷山大
 alexander of megalopolis:梅格洛玻利斯的亞歷山大
 alexander offer:亚历山大提供
@@ -4637,6 +4644,7 @@ alexandria govrenorate:亞歷山大省
 alexandria highway:亚历山德里亚的高速公路
 alexandria hotel and annex:亞歷山大酒店及其附屬建築
 alexandria in the caucasus:高加索的亞歷山卓
+alexandria of egypt:埃及亞歷山大港
 alexandria on the indus:印度河畔亞歷山卓
 alexandria park:亚历山德里亚公园
 alexandria port:亚历山大港
@@ -4972,6 +4980,8 @@ algebra formulas:代数公式
 algebra homomorphism:代數同態
 algebra i:代数我
 algebra now:代数现在
+algebra of concepts:概念代数
+algebra of logic:逻辑代数
 algebra of physical space:物理空间代数
 algebra of sets:集合代数
 algebra or social science class:代数或社会科学课程
@@ -6585,6 +6595,7 @@ alice newton:爱丽丝牛顿
 alice nine:爱丽丝九
 alice no longer:爱丽丝不再
 alice now:爱丽丝现在
+alice of antioch:安条克爱丽丝
 alice patten:彭雅思
 alice paul:爱丽丝保罗
 alice police:爱丽丝警察
@@ -30127,6 +30138,8 @@ alliance news:联盟新闻
 alliance now:联盟现在
 alliance obligation:联盟义务
 alliance ocean:联盟海洋
+alliance of american football:橄榄球联盟
+alliance of american football:美式足球联盟
 alliance of asian liberal arts universities:亞洲博雅大學聯盟
 alliance of builders of islamic iran:伊斯蘭伊朗建設者聯盟
 alliance of concerned teachers:关心教师联盟
@@ -30134,6 +30147,7 @@ alliance of democracies:民主联盟基金会
 alliance of digital humanities organizations:國際數位人文組織聯盟
 alliance of european national movements:歐洲民族運動聯盟
 alliance of free democrats:自由民主主义者联盟
+alliance of hope:希望联盟
 alliance of independent social democrats:独立社会民主人士联盟
 alliance of liberals and democrats for europe group:欧洲自由民主联盟党团
 alliance of liberals and democrats for europe party:歐洲自由民主聯盟黨
@@ -30143,6 +30157,8 @@ alliance of palestinian forces:巴勒斯坦力量联盟
 alliance of resuming british sovereignty over hong kong and independence:香港歸英獨立聯盟
 alliance of sahel states:萨赫勒国家邦联
 alliance of small island states:小岛屿国家联盟
+alliance of the centre:中心联盟
+alliance of the future:未来联盟
 alliance of the overseas:海外联盟
 alliance of the revolutionary socialists:革命社会主义者联盟
 alliance of valiant arms:戰地之王
@@ -30169,6 +30185,7 @@ alliance partners:联盟合作伙伴
 alliance partnership:联盟伙伴关系
 alliance party leader:联盟党领袖
 alliance party of northern ireland:北愛爾蘭聯盟黨
+alliance party of northern ireland:北爱尔兰联盟党
 alliance party:联盟党
 alliance passengers:联盟乘客
 alliance pattern:联盟模式
@@ -30367,6 +30384,9 @@ allied irish banks:愛爾蘭聯合銀行
 allied kajima building:聯合鹿島大廈
 allied leaders of world war ii:第二次世界大戰同盟國領袖
 allied naval bombardments of japan during world war ii:二战期间同盟国海军对日炮击
+allied occupation of austria:奧地利盟軍佔領時期
+allied occupation of germany:德國盟軍佔領時期
+allied occupation of japan:日本盟軍佔領時期
 allied occupation:盟軍佔領時期
 allied occupied austria:同盟國軍事佔領奧地利
 allied occupied germany:同盟國軍事佔領德國
@@ -30374,6 +30394,7 @@ allied plaza:聯合廣場
 allied powers and lithuania:同盟国和立陶宛
 allied powers britain:同盟国英国
 allied powers enter:同盟国进入
+allied powers of world war ii:第二次世界大战同盟国
 allied powers should extend their:同盟国应该扩展他们的
 allied powers:同盟国
 allied war crimes during world war ii:第二次世界大戰的同盟國戰爭罪行
@@ -34531,6 +34552,7 @@ alphabet magnet:字母磁铁
 alphabet murder:字母谋杀
 alphabet of human thought:人类思维字母
 alphabet of sirach:便西拉的字母
+alphabet of spanish:西班牙语字母
 alphabet or alphabet:字母或字母
 alphabet or numbers:字母或数字
 alphabet plus:字母加
@@ -43491,6 +43513,7 @@ alumni now hold:校友现在拥有
 alumni now:校友现在
 alumni nurture:校友培养
 alumni occupation:校友职业
+alumni of the university of edinburgh:爱丁堡大学校友
 alumni office:校友办公室
 alumni officials:校友官员
 alumni often:校友常常

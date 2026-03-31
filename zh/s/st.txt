@@ -102,6 +102,7 @@ st james's square:圣詹姆士广场
 st joachim's hall:圣雅敬礼堂
 st joachim's hall:聖雅敬禮堂
 st johann im pongau:蓬高地區聖約翰
+st john ambulance of malaysia:馬來西亞聖約翰救護機構
 st john ambulance:聖約翰救護機構
 st john at hampstead:漢普斯特德聖約翰教堂
 st john chrysostom altarpiece:圣金口若望祭坛画
@@ -2460,6 +2461,7 @@ stadium of domitian:圖密善競技場
 stadium of light:光明球場
 stadium of olympic sports center:西安奥体中心体育场
 stadium of philippopolis:普羅夫迪夫羅馬競技場
+stadium of philippopolis:普羅夫迪夫體育場
 stadium of qiqihar university east campus:齊齊哈爾大學東校區體育場
 stadium of qiqihar university east campus:齐齐哈尔大学东校区体育场
 stadium of qiqihar university west second campus:齊齊哈爾大學西二校區體育場
@@ -2764,6 +2766,7 @@ staff is another:杖是另一个
 staff living area of xiangzhou power supply bureau:襄州供电局职工生活区
 staff mini fitness room:職員小型健身室
 staff motorcycle parking lot:員工機車停車場
+staff of moses:摩西杖
 staff only:禁止進入
 staff quarters (q1):员工宿舍 (q1)
 staff quarters (q1):員工宿舍 (q1)
@@ -4233,6 +4236,7 @@ standard bank analyst:标准银行分析师
 standard bank centre:標準銀行中心
 standard bank from:标准银行从
 standard bank interest:标准银行利息
+standard bank of south africa:南非标准银行
 standard bank suffer:标准银行遭受
 standard bank:标准银行
 standard banks:标准银行
@@ -5023,6 +5027,8 @@ standard genes:标准基因
 standard genetic analysis:标准遗传分析
 standard genetic code:标准遗传密码
 standard german name:标准德语名字
+standard german of germany:德国标准德语
+standard german of germany:德國標準德語
 standard german phonology:標準德語音系
 standard german:标准德语
 standard german:標準德語
@@ -5491,6 +5497,8 @@ standard model extension:标准模型扩充
 standard model format:标准模型格式
 standard model higgs boson:标准模型希格斯玻色子
 standard model is wrong:标准模型是错的
+standard model of cosmology:宇宙学标准模型
+standard model of particle physics:粒子物理标准模型
 standard model particle:标准模型粒子
 standard model prediction:标准模型预测
 standard model theory:标准模型理论
@@ -5638,10 +5646,13 @@ standard of video:标准的视频
 standard offer:标准提供
 standard office:标准办公室
 standard oil companies:标准石油公司
+standard oil company of california:加利福尼亚标准石油公司
+standard oil company of new jersey:新泽西州标准石油公司
 standard oil company:标准石油公司
 standard oil control:标准石油控制
 standard oil cultivate:标准石油培养
 standard oil kingdom:标准石油王国
+standard oil of california:加利福尼亚标准石油
 standard oil trust form:标准石油信托形式
 standard oil trust:标准石油信托
 standard oil:标准油
@@ -7256,6 +7267,7 @@ standards core option:标准核心选项
 standards core:标准核心
 standards corporation:标准公司
 standards could:标准能
+standards council of canada:加拿大标准委员会
 standards council:标准委员会
 standards council:标准理事会
 standards cover:标准涵盖
@@ -8301,6 +8313,7 @@ star of the grand cross of the iron cross:大铁十字星章
 star of the sea catholic church:天主教海星堂
 star of the sea catholic kindergarten:海星幼稚園
 star of the sea mass centre:海星彌撒中心
+star of the sea:海星星
 star of the west:西部之星号货轮
 star oil:星油
 star on the road:星星在路上
@@ -9224,6 +9237,7 @@ stars move:星星移动
 stars named after people:以人名命名的恆星
 stars need:星星需要
 stars no longer:星星不再
+stars of the sea:海星星
 stars on earth:星映天下
 stars or angel:星星或天使
 stars or events:星星或事件
@@ -11269,11 +11283,15 @@ state band festival:状态带节日
 state band:国家乐队
 state band:州乐队
 state band:状态带
+state bank of ethiopia:埃塞俄比亚国家银行
 state bank of india is the only:印度国家银行是唯一
 state bank of india plans:印度国家银行计划
 state bank of india:印度国家银行
+state bank of morocco:摩洛哥国家银行
+state bank of pakistan:巴基斯坦国家银行
 state bank of pakistan:巴基斯坦國家銀行
 state bank of the russian empire:俄羅斯帝國國家銀行
+state bank of the soviet union:苏联国家银行
 state bank of the ussr:苏联国家银行
 state bank of vietnam:越南国家银行
 state bank of vietnam:越南國家銀行
@@ -11653,11 +11671,21 @@ state council aids work:国家理事会艾滋病工作
 state council information office invite:国务院新闻办公室邀请
 state council information office organize:国务院新闻办公室组织
 state council information office:国务院新闻办公室
+state council of adygea:阿迪格共和国国家议会
+state council of ceylon:錫蘭國務會議
 state council of china:中华人民共和国国务院
+state council of china:中国国家委员会
+state council of chuvashia:楚瓦什共和国国家议会
+state council of crimea:克里米亚国家议会
 state council of crimea:克里米亞國家議會
 state council of east germany:德意志民主共和国国务委员会
+state council of georgia:乔治亚州州议会
 state council of joseon:議政府
+state council of poland:波兰国家委员会
+state council of south korea:南韓國務會議
+state council of south korea:韓國國務會議
 state council of south korea:韩国国务会议
+state council of tatarstan:鞑靼斯坦共和国国家议会
 state council of the komi republic:科米共和国国家议会
 state council of the republic of tatarstan:韃靼斯坦共和國國務委員會
 state council of the soviet union:蘇聯國務委員會
@@ -11668,6 +11696,7 @@ state council:国家议会
 state council:國務會議
 state council:州委员会
 state council:州议会
+state councillor of the people's republic of china:中华人民共和国国务委员
 state councillor yang jiechi and i:国务委员杨洁篪和我
 state councillor yang jiechi:国务委员杨洁篪
 state councillor:国务委员
@@ -11683,6 +11712,7 @@ state court rules:州法院规则
 state court systems:州法院系统
 state court:国家法院
 state court:州法院
+state courts of singapore:新加坡国家法院
 state courts:国家法院
 state courts:州法院
 state create:国家创造
@@ -11861,6 +11891,8 @@ state duma finally:国家杜马最终
 state duma financial markets committee:国家杜马金融市场委员会
 state duma financial markets:国家杜马金融市场
 state duma member:国家杜马成员
+state duma of russia:俄国国家杜马
+state duma of russia:俄罗斯国家杜马
 state duma open:国家杜马开
 state duma plans:国家杜马计划
 state duma receive:国家杜马收到
@@ -12070,6 +12102,22 @@ state fiscal year:国家财政年度
 state fish:国家鱼
 state fish:州鱼
 state fishing industry:国家渔业
+state flag of austria:奥地利政府旗
+state flag of costa rica:哥斯達黎加政府旗
+state flag of georgia:佐治亚州州旗
+state flag of georgia:喬治亞州州旗
+state flag of georgia:喬治亞州旗
+state flag of germany:德国州旗
+state flag of germany:德國州旗
+state flag of new york:紐約州州旗
+state flag of new york:纽约州州旗
+state flag of norway:挪威政府旗
+state flag of peru:秘鲁政府旗
+state flag of south australia:南澳大利亚州州旗
+state flag of victoria:維多利亞州旗
+state flag of victoria:维多利亚州州旗
+state flag of victoria:维多利亚州旗
+state flag of western australia:西澳大利亚州州旗
 state flag:国家旗
 state flag:州旗
 state flag:政府旗
@@ -12082,6 +12130,8 @@ state flower and state:州花与州
 state flower:州花
 state focuses on:国家专注于
 state food and drug administration no longer:国家食品药品监督管理局不再
+state food and drug administration of china:中华人民共和国国家食品药品监督管理局
+state food and drug administration of china:中国国家食品药品监督管理局
 state food and drug administration standard:国家食品药品监督管理局标准
 state food and drug administration:国家食品药品监督管理局
 state food safety hazard analysis:国家食品安全危害分析
@@ -12209,6 +12259,13 @@ state government intend:州政府打算
 state government jobs:州政府工作
 state government medical college:州政府医学院
 state government needs:州政府需要
+state government of georgia:喬治亞州政府
+state government of johor:柔佛州政府
+state government of penang:槟城州政府
+state government of sabah:沙巴州政府
+state government of sarawak:砂拉越州政府
+state government of victoria:維多利亞州政府
+state government of victoria:维多利亚州政府
 state government offer:州政府提供
 state government office secretary:州政府办公室秘书
 state government office:州政府办公室
@@ -12404,6 +12461,7 @@ state human rights:州人权
 state hydro meteorological administration:气象水文局
 state i:国家我
 state i:状态我
+state ideology of the soviet union:苏联国家意识形态
 state ideology:国家意识形态
 state if you:国家如果你
 state illegal:状态非法
@@ -12436,6 +12494,8 @@ state industrial policy:国家产业政策
 state industry:国家工业
 state influence:国家影响
 state influence:国家影响力
+state information center of china:中华人民共和国国家信息中心
+state information center of china:中国国家信息中心
 state information center of china:国家信息中心
 state information center:国家信息中心
 state information or data:状态信息或数据
@@ -12638,6 +12698,7 @@ state level:国家水平
 state level:州水平
 state levels and consciousness:状态水平和意识
 state levels:状态水平
+state library of berlin:柏林国家图书馆
 state library of new south wales:新南威爾斯州立圖書館
 state library of queensland:昆士蘭州立圖書館
 state library of south australia:南澳洲州立圖書館
@@ -12878,14 +12939,38 @@ state occupation:国家职业
 state ocean:国家海洋
 state oceanic administration organize:国家海洋局组织
 state oceanic administration:国家海洋局
+state of aden:亞丁州
+state of aleppo:阿勒颇州
+state of angola:安哥拉州
 state of art:状态的艺术
 state of atlanta:州的亚特兰大
+state of australia:澳大利亚国家
+state of australia:澳大利亚州
+state of baden-württemberg:巴登-符腾堡州
+state of bavaria:巴伐利亚州
+state of berlin:柏林州
+state of bombay:孟買州
+state of brandenburg:勃兰登堡州
+state of bremen:不來梅州
+state of bremen:不来梅州
 state of buenos aires:布宜诺斯艾利斯国
 state of burma:緬甸國
+state of california:加利福尼亚州
 state of charge:電量狀態
+state of chen:陈州
+state of chihuahua:奇瓦瓦州
+state of chu:楚河州
+state of chuuk:楚克州
+state of civil war:内战状态
 state of cold:状态的冷
+state of consciousness:意识状态
+state of control:控制状态
+state of costa rica:哥斯達黎加州
 state of decision:状态的决定
+state of defense:防御州
 state of deseret:德撒律州
+state of durango:杜兰戈州
+state of durango:杜蘭戈州
 state of east indonesia:東印度尼西亞國
 state of east java:东爪哇国
 state of east sumatra:东苏门答腊国
@@ -12902,35 +12987,142 @@ state of emergency prohibit:紧急状态禁止
 state of emergency rule:紧急状态规则
 state of emergency would:紧急状态将
 state of emergency:紧急状态
+state of exception:例外状态
 state of fear from:恐惧状态从
 state of fear:恐惧状态
+state of florida:佛罗里达州
 state of free lebanon:自由黎巴嫩國
+state of georgia:喬治亞州
 state of haiti:海地國
+state of haiti:海地州
 state of hanover:汉诺威州
+state of hawaii:夏威夷州
 state of health:電池健康狀態
+state of hesse:黑森州
+state of hidalgo:伊达尔戈州
+state of honduras:洪都拉斯州
+state of huang:黄州
+state of hyderabad:海得拉巴州
+state of illinois:伊利诺斯州
+state of independence:独立国家
+state of independence:独立状态
+state of india:印度州
+state of indiana:印第安纳州
+state of johor:柔佛州
+state of kano:卡諾州
 state of katanga:加丹加国
+state of kelantan:吉兰丹州
+state of king:王州
+state of lagos:拉哥斯州
+state of liberty:自由国家
+state of liberty:自由州
 state of life:状态的生活
+state of lincoln:林肯州
+state of liu:柳州
+state of lower saxony:下萨克森州
 state of madura:马都拉国
+state of malacca:马六甲州
+state of malaysia:馬來西亞州
+state of malaysia:马来西亚州
 state of matter:物质状态
+state of mecklenburg-vorpommern:梅克伦堡-前波美拉尼亚州
+state of mecklenburg:梅克伦堡州
+state of melekeok:梅莱凯奥克州
+state of melekeok:梅萊凱奧克州
 state of mexico began:墨西哥州开始
+state of mexico:墨西哥国家
 state of mexico:墨西哥州
+state of michigan:密西根州
+state of minnesota:明尼苏达州
+state of miranda:米兰达州
+state of missouri:密苏里州
+state of montana:蒙塔納州
 state of motion performance:状态的运动性能
+state of méxico:墨西哥国家
+state of méxico:墨西哥州
+state of natural disaster:自然灾害状态
+state of nature:自然状态
 state of nature:自然狀態
+state of new south wales:新南威尔士州
+state of new york:紐約州
+state of new york:纽约州
+state of nicaragua:尼加拉瓜州
+state of north dakota:北達科塔州
+state of north rhine-westphalia:北莱茵-威斯特法伦州
+state of north rhine-westphalia:北萊因-西發里亞州
+state of north rhine-westphalia:北萊茵－威斯特法倫州
+state of ohio:俄亥俄州
+state of oregon:俄勒冈州
 state of origin series:起源州系列赛
 state of pasundan:巴巽丹国
+state of penang:槟城州
+state of pennsylvania:宾夕法尼亚州
+state of perak:霹靂州
+state of prussia:普魯士州
 state of qatar pavilion:卡塔尔馆
+state of qatar:卡塔尔州
 state of refugee:州的难民
+state of rhineland-palatinate:莱茵兰-普法尔茨州
+state of rio de janeiro:里約熱內盧州
+state of rio de janeiro:里约热内卢州
+state of saarland:萨尔州
+state of saarland:薩爾蘭州
+state of sabah:沙巴州
+state of salzburg:萨尔茨堡州
+state of salzburg:薩爾茨堡州
+state of sao paulo:圣保罗州
+state of sao paulo:聖保羅州
+state of sarawak:砂拉越州
+state of saxony:萨克森州
+state of saxony:薩克森州
+state of schleswig-holstein:石勒苏益格-荷尔斯泰因州
+state of selangor:雪蘭莪州
+state of shu:楚河州
+state of singapore:新加坡州
+state of society:社会状态
 state of somaliland:索馬利蘭國
+state of song:宋州
+state of south baden:南巴登州
+state of south dakota:南達科塔州
 state of south sumatra:南苏门答腊国
+state of sucre:苏克雷州
+state of sucre:蘇克雷州
+state of survival:生存状态
+state of syria:叙利亚州
 state of syria:敘利亞國
+state of são paulo:圣保罗州
+state of são paulo:聖保羅州
+state of tension:紧张状态
+state of texas:德克萨斯州
 state of the art:技術發展現狀
+state of the city:城市国家
+state of the city:城市州
 state of the comoros:科摩罗国
+state of the european union:欧盟国家
 state of the nation:国情咨文
 state of the presidi:卫戍国
+state of the sea:海州
 state of the teutonic order:条顿骑士团国
+state of the united states:美国国家
+state of the united states:美国州
+state of thessaloniki:塞萨洛尼基州
+state of thessaloniki:塞薩洛尼基州
+state of thuringia:图林根州
+state of trujillo:特鲁希略州
+state of tyrol:蒂羅爾州
+state of victoria:維多利亞州
+state of victoria:维多利亚州
 state of vietnam control:越南国控制
 state of vietnam referendum:越南国公民投票
 state of vietnam:越南国
+state of virginia:弗吉尼亚州
+state of war:战争状态
+state of washington:华盛顿州
+state of washington:華盛頓州
+state of west bengal:西孟加拉邦州
+state of west virginia:西弗吉尼亚州
+state of wisconsin:威斯康辛州
+state of xing:兴州
 state offer:州提供
 state office:国家办公室
 state office:州办公室
@@ -13083,6 +13275,15 @@ state park system:州立公园系统
 state park:州立公园
 state parliament election:州议会选举
 state parliament elections:州议会选举
+state parliament of bavaria:巴伐利亚州议会
+state parliament of berlin:柏林州议会
+state parliament of brandenburg:勃兰登堡州议会
+state parliament of bremen:不来梅州议会
+state parliament of hesse:黑森州议会
+state parliament of saxony:萨克森州议会
+state parliament of schleswig-holstein:石勒苏益格-荷尔斯泰因州议会
+state parliament of thuringia:图林根州议会
+state parliament of victoria:维多利亚州议会
 state parliament:国家议会
 state parliament:州议会
 state parole:国家假释
@@ -13137,6 +13338,8 @@ state plan changes:国家计划变化
 state plan:国家计划
 state plan:州计划
 state plane:状态平面
+state planning commission of china:中華人民共和國國家計劃委員會
+state planning commission of north korea:朝鮮民主主義人民共和國國家計劃委員會
 state planning commission of north korea:朝鲜民主主义人民共和国国家计划委员会
 state planning commission:國家計劃委員會
 state plans:国家计划
@@ -13216,6 +13419,9 @@ state portrait:国家肖像
 state position:状态位置
 state possible:国家可能的
 state post bureau director:国家邮政局局长
+state post bureau of china:中华人民共和国国家邮政局
+state post bureau of china:中国国家邮政局
+state post bureau of the people's republic of china:中华人民共和国国家邮政局
 state post bureau:国家邮政局
 state postulate:狀態原則
 state power and crimes against humanity:国家权力和危害人类罪
@@ -13234,6 +13440,7 @@ state practice:国家实践
 state prepare:国家准备
 state presence:国家存在
 state presence:状态存在
+state president of south africa:南非国家总统
 state president:国家总统
 state president:州总统
 state pressure:国家压力
@@ -13257,7 +13464,9 @@ state privacy rules:州隐私规则
 state privacy:州隐私
 state privilege:国家特权
 state privilege:州特权
+state prize of russia:俄罗斯国家奖
 state prize of the russian federation:俄罗斯联邦国家奖
+state prize of the soviet union:苏联国家奖
 state prize:国家奖
 state problem:国家问题
 state problem:状态问题
@@ -13348,6 +13557,7 @@ state railroad:州鐵路
 state railroad:州铁路
 state railway company:国家铁路公司
 state railway deutsche bahn:国家铁路德国铁路
+state railway of thailand:泰国国家铁路
 state railway of thailand:泰國國家鐵路局
 state railway:国家铁路
 state ranking:国家排名
@@ -13561,6 +13771,8 @@ state semiconductor:国家半导体
 state senate and state:州参议院和国家
 state senate election:州参议院选举
 state senate minority leader:州参议院少数党领袖
+state senate of california:加利福尼亚州参议院
+state senate of new york:纽约州参议院
 state senate:国家参议院
 state senate:州参议院
 state sensor:状态传感器
@@ -13909,6 +14121,7 @@ state trying:国家试图
 state tv:国家电视
 state type:状态类型
 state under:状态下
+state union of serbia and montenegro:塞尔维亚和黑山国家联盟
 state union:国家联盟
 state unit:国家单位
 state unit:州单位
@@ -13936,6 +14149,8 @@ state university lose:州大学丢失
 state university of applied sciences:国家应用科学大学
 state university of campinas:坎皮纳斯州立大学
 state university of feira de santana:費拉迪聖安娜州立大學
+state university of haiti:海地国家大学
+state university of moscow:莫斯科国家大学
 state university of music and performing arts stuttgart:斯图加特国立音乐与表演艺术大学
 state university of new york campus:纽约州立大学校园
 state university of new york college of environmental science and forestry:纽约州立大学环境与森林学院
@@ -13943,7 +14158,12 @@ state university of new york maritime college:纽约州立大学海事学院
 state university of new york press:纽约州立大学出版社
 state university of new york system:纽约州立大学系统
 state university of new york:纽约州立大学
+state university of nizhny novgorod:下诺夫哥罗德州立大学
 state university of novi pazar:新帕扎尔国立大学
+state university of rio de janeiro:里约热内卢州立大学
+state university of são paulo:圣保罗州立大学
+state university of texas:德克萨斯州大学
+state university of texas:德克萨斯州立大学
 state university offer:州立大学提供
 state university officials:州立大学官员
 state university own:州立大学拥有
@@ -13961,6 +14181,7 @@ state university sports:州立大学运动
 state university start:国家大学开始
 state university student:州大學生
 state university students:州立大学学生
+state university system of florida:佛罗里达州立大学系统
 state university system of florida:佛羅里達州立大學系統
 state university system:州立大学系统
 state university was established in:州立大学成立于
@@ -14368,8 +14589,10 @@ statement no doubt:陈述毫无疑问
 statement not:声明不是
 statement now:语句现在
 statement object:语句对象
+statement of belief:信仰声明
 statement of changes in equity:所有者权益变动表
 statement of evidence:声明的证据
+statement of faith:信仰声明
 statement of form:声明的形式
 statement of intent:陈述的意图
 statement of opinion:声明的意见
@@ -14774,12 +14997,21 @@ states no longer:国家不再
 states now:国家现在
 states occasionally:国家偶尔
 states of alderney:奥尔德尼议会
+states of america:美国国家
+states of america:美洲国家
+states of australia:澳大利亚国家
 states of guernsey:根西议会
+states of holland:荷兰国家
+states of mexico:墨西哥国家
 states of nigeria:尼日利亚州份
+states of persian gulf:波斯湾国家
 states of sudan:苏丹行政区划
 states of the german confederation:德意志邦聯成員邦國
 states of the german empire:德意志帝國的邦國
+states of the u.s.:美国国家
+states of the united states:美国国家
 states of the weimar republic:魏玛共和国邦国列表
+states of united states:美国国家
 states of venezuela:委内瑞拉州份
 states offer:国家提供
 states often:国家常常
@@ -15993,10 +16225,12 @@ statue is volgograd:雕像是伏尔加格勒
 statue location:雕像位置
 statue look:雕像看
 statue now:雕像现在
+statue of alfred the great:阿尔弗雷德大帝雕像
 statue of ashurnasirpal ii:阿淑尔纳西尔帕二世雕像
 statue of big buddha head:大佛头
 statue of brothers:兄弟雕像
 statue of buddha for academic achievement:學業成就佛
+statue of charles ii:查理二世雕像
 statue of chiang kai-shek:蔣公銅像
 statue of confucious:孔子銅像
 statue of confucius:先师孔子行教像
@@ -16004,11 +16238,14 @@ statue of confucius:孔子像
 statue of confucius:孔子塑像
 statue of confucius:孔子雕像
 statue of cosimo i:科西莫一世雕塑
+statue of david:大卫雕像
 statue of dr sun yat-sen:孫中山銅像
 statue of dr. mackay:馬偕銅像
 statue of fjcu motto:校訓碑
 statue of fok ying tung:霍英東像
 statue of former president cai yuanpei:蔡元培像
+statue of freedom:自由塑像
+statue of freedom:自由雕像
 statue of general sabusu:萨布素将军雕像
 statue of george vi:英皇佐治六世銅像
 statue of great shun:大舜石图园
@@ -16046,7 +16283,9 @@ statue of liberty was my mother:自由女神像是我的母亲
 statue of liberty welcome:自由女神像欢迎
 statue of liberty will:自由女神像会
 statue of liberty would:自由女神像将
+statue of liberty:自由塑像
 statue of liberty:自由女神像
+statue of liberty:自由雕像
 statue of lin zexu:林则徐像
 statue of master xuanzang:玄奘法师像
 statue of menelik ii:孟尼利克二世雕像
@@ -16055,12 +16294,16 @@ statue of miguel de cervantes:塞凡提斯像
 statue of peace:慰安妇少女铜像
 statue of peace:慰安婦少女銅像
 statue of peace:慰安婦銅像
+statue of peter pan:彼得潘雕像
 statue of prof. li pei:李佩先生塑像
 statue of prof. wang shouguan:王绶琯先生铜像
 statue of professor li dazhao:李大釗像
 statue of professor li dazhao:李大钊像
 statue of queen isabel ii:伊莎贝尔二世雕像
+statue of ramesses ii:拉美西斯二世雕像
 statue of saint michael the archangel:圣天使堡
+statue of saladin:萨拉丁雕像
+statue of sekhmet:塞赫麦特雕像
 statue of shakyamuni emerging:釋迦出山像
 statue of sir thomas jackson, 1st baronet:昃臣爵士銅像
 statue of sir thomas jackson, 1st baronet:昃臣爵士铜像
@@ -16075,6 +16318,7 @@ statue of tran hung dao:陈兴道
 statue of tran hung dao:陳興道
 statue of unity:团结雕像
 statue of urbain le verrier:于尔班·勒威耶雕像
+statue of william iii:威廉三世雕像
 statue of xian xinghai:冼星海像
 statue of zeus at olympia:奧林匹亞宙斯神像
 statue of zhan tianyou:詹公天佑之像
@@ -16305,7 +16549,13 @@ status negotiations:地位谈判
 status network:地位网络
 status now:地位现在
 status of any:地位的任何
+status of borough:自治市鎮地位
+status of indian cities:印度城市地位
+status of jerusalem:耶路撒冷地位
 status of muslims:地位的穆斯林
+status of taiwan:台灣地位
+status of taiwan:臺灣地位
+status of women:妇女地位
 status or brave:地位或勇敢的
 status or citizenship:地位或公民
 status or geography:地位或地理
@@ -19003,6 +19253,7 @@ stele for the wonder of the world (stair0):天下奇觀碑(臺階0)
 stele forest:西安碑林
 stele in:石碑里面
 stele of bongseon honggyeongsa:天安奉先弘慶寺碣記碑
+stele of hammurabi:汉谟拉比石碑
 stele of huang wei:黃偉石碑
 stele of huang wei:黄伟石碑
 stele of peom by du fu about watching taishan (stair315):杜工部望嶽詩石(臺階315)
@@ -19393,6 +19644,7 @@ stem cell:干细胞
 stem cell:幹細胞
 stem diameter:茎直径
 stem down:茎向下
+stem duchy of franconia:弗兰肯部落公国
 stem duchy:部落公国
 stem education:茎教育
 stem experiences:茎经验
@@ -22486,6 +22738,11 @@ stock exchange nas:证券交易所纳斯
 stock exchange nasdaq:证券交易所纳斯达克
 stock exchange needs:证券交易所需要
 stock exchange news:证券交易所新闻
+stock exchange of hong kong:香港证券交易所
+stock exchange of singapore:新加坡股票交易所
+stock exchange of singapore:新加坡证券交易所
+stock exchange of thailand:泰国股票交易所
+stock exchange of thailand:泰国证券交易所
 stock exchange of thailand:泰國證券交易所
 stock exchange officials:证券交易所官员
 stock exchange open:证券交易所开
@@ -27519,14 +27776,22 @@ strait of belle isle project:贝尔岛海峡项目
 strait of belle isle:贝尔岛海峡
 strait of bonifacio:博尼法喬海峽
 strait of canso:坎索海峡
+strait of denmark:丹麦海峡
 strait of dover:多佛尔海峡
+strait of dover:多佛海峡
 strait of dover:多佛爾海峽
+strait of florida:佛罗里达海峡
+strait of formosa:台湾海峡
+strait of formosa:臺灣海峡
 strait of georgia:乔治亚海峡
 strait of gibraltar:直布罗陀海峡
+strait of gibraltar:直布羅陀海峡
 strait of gibraltar:直布羅陀海峽
 strait of hormuz and gulf of oman:霍爾木茲海峽和阿曼灣
 strait of hormuz:霍尔木兹海峡
 strait of hormuz:霍爾木茲海峽
+strait of johor:柔佛海峡
+strait of kerch:刻赤海峡
 strait of logistics:海峡的物流
 strait of magellan and cape horn:麦哲伦海峡和合恩角
 strait of magellan coast:麦哲伦海峡海岸
@@ -27535,6 +27800,7 @@ strait of magellan from:麦哲伦海峡从
 strait of magellan:麥哲倫海峽
 strait of magellan:麦哲伦海峡
 strait of magellan:麦哲伦海峡 / 麥哲倫海峽
+strait of makassar:望加锡海峡
 strait of malacca and andaman sea:马六甲海峡和安达曼海
 strait of malacca and singapore:马六甲海峡和新加坡
 strait of malacca and sri lanka:马六甲海峡和斯里兰卡
@@ -27548,6 +27814,11 @@ strait of messina:墨西拿海峡
 strait of otranto:奧特朗托海峽
 strait of sicily:西西里海峡
 strait of sicily:西西里海峽
+strait of singapore:新加坡海峡
+strait of sunda:巽他海峡
+strait of taiwan:台湾海峡
+strait of taiwan:台灣海峡
+strait of taiwan:臺灣海峡
 strait of tartary:鞑靼海峽
 strait of tartary:韃靼海峽
 strait open:海峡开
@@ -30373,6 +30644,9 @@ strategy no longer:策略不再
 strategy now:策略现在
 strategy number:战略数
 strategy object:策略对象
+strategy of technology:技术战略
+strategy of tension:紧张战略
+strategy of terror:恐怖策略
 strategy of unbalanced growth:不均衡發展策略
 strategy offer:战略提供
 strategy offer:策略提供
@@ -31833,6 +32107,7 @@ stream nutrition:流营养
 stream object:流对象
 stream observer:流观察者
 stream ocean:流海洋
+stream of consciousness:意识流
 stream of consciousness:意识流文学
 stream of fire:流的火
 stream of french art:流的法国艺术
@@ -32989,9 +33264,15 @@ street north:街道北
 street now:街现在
 street observation:街观察
 street ocean:街道海洋
+street of chiayi:嘉義街
+street of crocodiles:鳄鱼街
 street of fury:龍虎砵蘭街
 street of peranakan shophouses:娘惹店屋街
+street of sin:中国街
+street of sin:中國街
+street of sin:中國街道
 street of the prophets:先知街
+street of women:女人街
 street offer:街提供
 street offer:街道提供
 street office:街办公室
@@ -33455,7 +33736,13 @@ streets of aboriginal cuisines:原住民一條街
 streets of china cuisines:博愛街
 streets of china cuisines:各省一條街
 streets of fire:狠將奇兵
+streets of london:伦敦街道
+streets of london:倫敦街道
+streets of macau:澳門街道
+streets of philadelphia:費城街道
+streets of philadelphia:费城街道
 streets of rage:怒之鐵拳系列
+streets of shanghai:上海街道
 streets offer:街道提供
 streets often:街道常常
 streets open:街道开
@@ -38111,10 +38398,13 @@ structure obstacles and requirements:结构障碍和要求
 structure obstacles:结构障碍
 structure of any specific:结构的任何特定的
 structure of cardboard:结构的纸板
+structure of earth:地球结构
 structure of ferritic stainless steel:结构的铁素体不锈钢
 structure of knowledge:结构的知识
+structure of language:语言结构
 structure of life:结构的生命
 structure of message:结构的消息
+structure of molecules:分子结构
 structure of plastic:结构的塑料
 structure of production:结构的生产
 structure of protein:结构的蛋白质
@@ -38123,8 +38413,11 @@ structure of steel:结构的钢
 structure of structure:结构的结构
 structure of the british army:英國陸軍架構
 structure of the canadian federal government:加拿大聯邦政府架構
+structure of the earth:地球结构
 structure of the hong kong police force:香港警務處架構
+structure of the united states air force:美国空军结构
 structure of the united states air force:美国空军编制
+structure of the united states armed forces:美国军队结构
 structure offer:结构提供
 structure often:结构常常
 structure only:结构只有
@@ -43595,6 +43888,7 @@ studies of course:研究当然
 studies of diseases:研究的疾病
 studies of eye:研究的眼睛
 studies of flower:研究的花
+studies of religion:宗教研究
 studies of the year:研究年度
 studies offer:研究提供
 studies office:研究办公室
@@ -46231,12 +46525,31 @@ study ocean physics:研究海洋物理
 study ocean:研究海洋
 study of architecture:研究的架构
 study of course:研究当然
+study of education:教育学科
+study of education:教育研究
+study of folklore:民俗研究
 study of freedom:研究的自由
 study of grammar structure:研究的语法结构
+study of hadith:聖訓研究
+study of history:历史研究
+study of islam:伊斯兰教研究
+study of language:語言研究
+study of language:语言学习
+study of language:语言研究
+study of law:法律学科
+study of law:法律研究
 study of life:研究的生活
 study of literature:学科的文学
+study of man:男性研究
+study of markets:市场研究
 study of patients:研究的病人
 study of phenomena:研究的现象
+study of religion:宗教研究
+study of the bible:圣经学习
+study of the bible:圣经研究
+study of the bible:聖經研究
+study of the law:法律学科
+study of the law:法律研究
 study offer:研究提供
 study office:学习办公室
 study office:研究办公室
@@ -48022,6 +48335,7 @@ style novel:风格小说
 style object:风格对象
 style of african culture:风格的非洲文化
 style of amusement park:风格的游乐园
+style of architecture:建筑风格
 style of art:风格的艺术
 style of beauty:风格的美
 style of beijing:风格的北京
@@ -48054,7 +48368,9 @@ style of image:风格的图像
 style of interaction:风格的交互
 style of interface:风格的接口
 style of learning:风格的学习
+style of life:生活风格
 style of life:风格的生活
+style of music:音乐风格
 style of music:风格的音乐
 style of oil painting:风格的油画
 style of open:风格的开
@@ -48085,6 +48401,7 @@ style of website:风格的网站
 style of west:风格的西
 style of wine:风格的葡萄酒
 style of worship:风格的崇拜
+style of writing:写作风格
 style office:风格办公室
 style offset:风格偏移
 style often:风格常常

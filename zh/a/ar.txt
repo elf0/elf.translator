@@ -188,6 +188,7 @@ arab davlatlari uyushmasi:阿拉伯国家联盟
 arab davlatlari uyushmasi:阿拉伯聯盟
 arab democratic union party:阿拉伯民主联盟党
 arab diaspora:阿拉伯人大流散
+arab federation of iraq and jordan:伊拉克和约旦阿拉伯联邦
 arab federation:阿拉伯联邦
 arab games:泛阿拉伯运动会
 arab gas pipeline:阿拉伯天然气管道
@@ -234,6 +235,9 @@ arab news:阿拉伯新聞
 arab parliament:阿拉伯议会联盟
 arab philosophy:阿拉伯哲学
 arab raid against rome:阿拉伯人突襲羅馬
+arab republic of egypt:埃及阿拉伯共和國
+arab republic of libya:利比亞阿拉伯共和國
+arab republic of syria:敘利亞阿拉伯共和國
 arab republic:阿拉伯共和國
 arab revolt:阿拉伯起义
 arab saudi:shātè Ālābó
@@ -926,6 +930,7 @@ arabs market:阿拉伯人市场
 arabs need:阿拉伯人需要
 arabs no longer:阿拉伯人不再
 arabs now:阿拉伯人现在
+arabs of iran:伊朗阿拉伯人
 arabs of jerusalem:阿拉伯人的耶路撒冷
 arabs or any other muslim:阿拉伯人或任何其他穆斯林
 arabs or jews:阿拉伯人或犹太人
@@ -2406,16 +2411,24 @@ archaeological institute of america:美國考古研究所
 archaeological landscape of the first coffee plantations in the south east of cuba:古巴东南第一个咖啡种植园考古风景区
 archaeological methods:考古学的方法
 archaeological museum in zagreb:薩格勒布考古學博物館
+archaeological museum of bologna:博洛尼亚考古学博物馆
 archaeological museum of chania:哈尼亚考古博物馆
 archaeological museum of chios:希俄斯考古博物馆
+archaeological museum of corfu:克基拉島考古博物館
 archaeological museum of corfu:科孚考古博物馆
+archaeological museum of delphi:德尔斐考古学博物馆
 archaeological museum of granada:格拉纳达考古博物馆
+archaeological museum of heraklion:伊拉克利翁考古博物館
+archaeological museum of heraklion:伊拉克利翁考古学博物馆
+archaeological museum of istanbul:伊斯坦堡考古博物館
+archaeological museum of olympia:奧林匹亞考古博物館
 archaeological museum of rethymno:雷西姆诺考古博物馆
 archaeological museum of rhodes:罗得考古博物馆
 archaeological museum of sparta:斯巴達考古博物館
 archaeological museum of termez:帖爾米茲考古學博物館
 archaeological museum of thera:锡拉考古博物馆
 archaeological museum of thessaloniki:塞萨洛尼基考古博物馆
+archaeological museum of thessaloniki:塞薩洛尼基考古博物館
 archaeological museum:考古博物館
 archaeological museum:考古学博物馆
 archaeological museum:考古学的博物馆
@@ -2554,7 +2567,9 @@ archaeology involve:考古学包括
 archaeology may support:考古学可以支持
 archaeology module:考古学模块
 archaeology museum:考古学博物馆
+archaeology of china:中国考古学
 archaeology of israel:以色列考古学
+archaeology of knowledge:知识考古学
 archaeology of shipwrecks:沉船考古學
 archaeology or mineralogy:考古学或矿物学
 archaeology professor:考古学教授
@@ -2656,6 +2671,11 @@ archaraeoncus:前延首蛛属
 archbasilica of saint john lateran:拉特朗圣若望大殿
 archbishop house:主教公署
 archbishop lo kuang memorial building:焯炤館
+archbishop of athens:雅典總主教
+archbishop of benevento:貝內文托總主教
+archbishop of boston:波士頓總主教
+archbishop of breslau:弗羅茨瓦夫總主教
+archbishop of cambrai:康布雷總主教
 archbishop of canterbury criticise:坎特伯雷大主教批评
 archbishop of canterbury from:坎特伯雷大主教从
 archbishop of canterbury george:坎特伯雷大主教乔治
@@ -2664,12 +2684,45 @@ archbishop of canterbury says:坎特伯雷大主教说
 archbishop of canterbury thomas:坎特伯雷大主教托马斯
 archbishop of canterbury william:坎特伯雷大主教威廉
 archbishop of canterbury:坎特伯雷大主教
+archbishop of canterbury:坎特伯雷總主教
+archbishop of capua:卡普阿總主教
 archbishop of cologne:科隆總主教
+archbishop of genoa:热那亚總主教
+archbishop of genova:热那亚總主教
 archbishop of hong kong:香港大主教
+archbishop of huế:順化總主教
+archbishop of krakow:克拉科夫總主教
+archbishop of kraków:克拉科夫總主教
+archbishop of lima:利馬總主教
+archbishop of madrid:馬德里總主教
+archbishop of mainz:美因茨總主教
+archbishop of manfredonia:曼弗雷多尼亞總主教
+archbishop of manila:馬尼拉總主教
+archbishop of milan:米兰總主教
+archbishop of milan:米蘭總主教
+archbishop of nanjing:南京總主教
+archbishop of nanking:南京總主教
+archbishop of new york:紐約總主教
+archbishop of palermo:巴勒莫總主教
+archbishop of paris:巴黎總主教
+archbishop of pisa:比薩總主教
+archbishop of salzburg:薩爾茨堡總主教
+archbishop of seoul:首爾總主教
+archbishop of serbia:塞爾維亞總主教
+archbishop of taipei:台北總主教
+archbishop of taipei:臺北總主教
+archbishop of toledo:托萊多總主教
+archbishop of toulouse:圖盧茲總主教
 archbishop of uppsala:烏普薩拉大主教
+archbishop of utrecht:乌得勒支總主教
+archbishop of vienna:維也納總主教
+archbishop of vienne:維也納總主教
+archbishop of westminster:西敏總主教
+archbishop of wrocław:弗羅茨瓦夫總主教
 archbishop of york let:约克大主教让
 archbishop of york recently:约克大主教最近
 archbishop of york:约克大主教
+archbishop of york:约克總主教
 archbishop or bishop:總主教或主教
 archbishop or patriarch:總主教或宗主教
 archbishop's palace of santiago de chile:圣地亚哥总主教宫
@@ -2877,6 +2930,7 @@ archipelago hawaii:夏威夷群岛
 archipelago jūra:群岛海
 archipelago national park:群岛海国家公园
 archipelago national park:群島國家公園
+archipelago of gothenburg:哥德堡群島
 archipelago of san bernardo:聖貝爾納多群島
 archipelago sea:群岛海
 archipelago:群島
@@ -3642,14 +3696,54 @@ architecture motherboard:架构主板
 architecture needs:建筑学需要
 architecture needs:架构需要
 architecture network:架构网络
+architecture of ancient greece:古希腊建筑
+architecture of ancient rome:古罗马建筑
+architecture of armenia:亚美尼亚建筑
+architecture of australia:澳洲建筑
+architecture of bhutan:不丹建筑
+architecture of cambodia:柬埔寨建筑
+architecture of canada:加拿大建筑
 architecture of cathedrals and great churches:教堂建筑
+architecture of china:中华人民共和国建筑
+architecture of china:中国建筑
+architecture of china:中國建筑
+architecture of denmark:丹麦建筑
 architecture of embedded:架构的嵌入
+architecture of europe:欧洲建筑
+architecture of germany:德国建筑
 architecture of hong kong:香港建築
+architecture of india:印度建筑
+architecture of indonesia:印度尼西亚建筑
+architecture of iran:伊朗建筑
+architecture of japan:日本建筑
+architecture of jiangxi:江西建筑
 architecture of jiangxi:赣派建筑
+architecture of korea:韩国建筑
 architecture of macau:澳門建築
+architecture of madagascar:马达加斯加建筑
+architecture of mexico:墨西哥建筑
+architecture of monaco:摩纳哥建筑
+architecture of myanmar:缅甸建筑
 architecture of norway:挪威建築
+architecture of peru:秘鲁建筑
+architecture of portugal:葡萄牙建筑
+architecture of russia:俄罗斯建筑
+architecture of singapore:新加坡建筑
+architecture of south korea:韩国建筑
+architecture of spain:西班牙建筑
+architecture of sumatra:苏门答腊建筑
+architecture of sweden:瑞典建筑
+architecture of taiwan:台湾建筑
 architecture of taiwan:臺灣建築
+architecture of thailand:泰国建筑
 architecture of the song dynasty:宋朝建筑
+architecture of the soviet union:苏联建筑
+architecture of the united kingdom:英国建筑
+architecture of the united states:美国建筑
+architecture of the world:世界建筑
+architecture of tibet:西藏建筑
+architecture of united states:美国建筑
+architecture of vietnam:越南建筑
 architecture offer:架构提供
 architecture office:架构办公室
 architecture open source:架构开源
@@ -3917,6 +4011,7 @@ archives management:檔案管理
 archives nationales de l'angola:安哥拉国家档案馆
 archives nationales de l'angola:安哥拉國家檔案館
 archives of macao:澳門檔案館
+archives of manitoba:曼尼托巴省档案馆
 archives of sexual behavior:性行為檔案
 archives of yuhuan:玉环市档案馆
 archives reading room:档案应用阅览室
@@ -3929,6 +4024,7 @@ archives:飲水樓
 archivilla:班門弄
 archivio nazionale dell'angola:安哥拉国家档案馆
 archivio nazionale dell'angola:安哥拉國家檔案館
+archivist of the united states:美国档案管理员
 archivist of the united states:美國檔案管理員
 archivist paul:档案管理员保罗
 archivist said:档案管理员说
@@ -16272,6 +16368,7 @@ area of armenia:地区的亚美尼亚
 area of assessment:领域的评估
 area of catalysis:领域的催化
 area of concentration:领域的浓度
+area of conflict:冲突地区
 area of diode:面积的二极管
 area of direction:领域的方向
 area of experiment:领域的实验
@@ -16295,6 +16392,7 @@ area of network:面积的网络
 area of ocean:面积的海洋
 area of order theory:领域的序理论
 area of outstanding natural beauty:杰出自然风景区
+area of poland:波兰地区
 area of politics:领域的政治
 area of rainforest:面积的雨林
 area of refuge:隔火層
@@ -16754,6 +16852,8 @@ areas of research:领域的研究
 areas of risk:领域的风险
 areas of specification:领域的规范
 areas of study would:领域的研究将
+areas of study:学科领域
+areas of study:研究领域
 areas of study:领域的研究
 areas of testing:领域的测试
 areas of titanium:领域的钛
@@ -16906,6 +17006,7 @@ arena mode:竞技场模式
 arena moscow:竞技场莫斯科
 arena of stars:云星剧场
 arena of valor:傳說對決
+arena of verona:维罗纳竞技场
 arena offer:竞技场提供
 arena omsk:鄂木斯克體育館
 arena pantanal:潘塔納爾競技場
@@ -18258,6 +18359,7 @@ argument name:参数名称
 argument no one will:参数没有人会
 argument no one:参数没有人
 argument of periapsis:近心點幅角
+argument of perihelion:近日点参数
 argument or result type:参数或结果类型
 argument or return value:参数或返回值
 argument position:参数位置
@@ -20123,34 +20225,121 @@ armed forces need:部隊需要
 armed forces no longer support maduro:武装部队不再支持马杜罗
 armed forces no longer:武装部队不再
 armed forces now:武装部队现在
+armed forces of albania:阿尔巴尼亚武装力量
+armed forces of albania:阿尔巴尼亚武装部队
+armed forces of albania:阿爾巴尼亞武装力量
+armed forces of argentina:阿根廷三軍
+armed forces of argentina:阿根廷武装力量
+armed forces of argentina:阿根廷武装部队
 armed forces of armenia:亚美尼亚武装力量
+armed forces of armenia:亚美尼亚武装部队
+armed forces of artsakh:阿尔察赫武装部队
+armed forces of austria-hungary:奥匈帝国武装部队
+armed forces of azerbaijan:阿塞拜疆武装力量
+armed forces of azerbaijan:阿塞拜疆武装部队
+armed forces of bangladesh:孟加拉国武装部队
+armed forces of bangladesh:孟加拉國部隊
+armed forces of belarus:白俄罗斯武装部队
 armed forces of belarus:白俄羅斯武裝部隊
+armed forces of brazil:巴西武装力量
+armed forces of brazil:巴西武装部队
+armed forces of bulgaria:保加利亚武装部队
+armed forces of cameroon:喀麦隆武装部队
+armed forces of chile:智利武装力量
+armed forces of chile:智利武装部队
+armed forces of china:中华人民共和国武装力量
 armed forces of china:中国军队
+armed forces of china:中国武装力量
+armed forces of china:中華人民共和國武装力量
+armed forces of colombia:哥伦比亚武装力量
+armed forces of croatia:克罗地亚武装部队
 armed forces of croatia:克羅埃西亞軍事
 armed forces of different countries:武装部队的不同的国家
+armed forces of el salvador:萨尔瓦多武装部队
+armed forces of germany:德国武装部队
 armed forces of germany:武装部队的德国
 armed forces of honduras:洪都拉斯軍事
+armed forces of india:印度武装部队
+armed forces of iran:伊朗武装力量
+armed forces of iran:伊朗武装部队
+armed forces of iraq:伊拉克武装力量
+armed forces of iraq:伊拉克武装部队
+armed forces of iraq:伊拉克部隊
+armed forces of italy:意大利武装部队
+armed forces of kazakhstan:哈萨克斯坦武装部队
+armed forces of kyrgyzstan:吉尔吉斯斯坦武装力量
 armed forces of liberia:利比里亚武装部队
+armed forces of libya:利比亚武装力量
+armed forces of libya:利比亚武装部队
+armed forces of malta:马耳他武装部队
+armed forces of mexico:墨西哥武装部队
+armed forces of moldova:摩尔多瓦武装部队
+armed forces of mongolia:蒙古国武装力量
+armed forces of mongolia:蒙古国武装部队
+armed forces of mongolia:蒙古武装部队
+armed forces of montenegro:黑山武装力量
+armed forces of nigeria:尼日利亚武装部队
+armed forces of pakistan:巴基斯坦武装力量
+armed forces of pakistan:巴基斯坦武装部队
+armed forces of paraguay:巴拉圭武装部队
 armed forces of paraguay:巴拉圭軍事
+armed forces of peru:秘鲁武装力量
+armed forces of peru:秘鲁武装部队
+armed forces of portugal:葡萄牙三軍
+armed forces of portugal:葡萄牙武装部队
+armed forces of russia:俄罗斯武装力量
+armed forces of russia:俄罗斯武装部队
+armed forces of russia:俄罗斯部队
+armed forces of russia:俄罗斯部隊
+armed forces of russia:俄羅斯部隊
 armed forces of saudi arabia:沙特皇家武装部队
+armed forces of saudi arabia:沙特阿拉伯武装力量
+armed forces of south korea:大韩民国武装部队
+armed forces of south korea:韩国武装部队
+armed forces of south russia:南俄罗斯武装力量
 armed forces of south russia:南俄罗斯武装部队
+armed forces of south sudan:南苏丹武装力量
+armed forces of spain:西班牙三軍
+armed forces of spain:西班牙武装力量
+armed forces of spain:西班牙武装部队
+armed forces of sri lanka:斯里兰卡武装部队
+armed forces of tajikistan:塔吉克斯坦武装力量
 armed forces of tajikistan:塔吉克斯坦武裝力量
 armed forces of the argentine republic:阿根廷军事
 armed forces of the democratic republic of afghanistan:阿富汗民主共和国武装力量
 armed forces of the dominican republic:多明尼加軍事
+armed forces of the islamic republic of iran:伊朗伊斯兰共和国武装力量
+armed forces of the islamic republic of iran:伊朗伊斯兰共和国武装部队
 armed forces of the kyrgyz republic:吉尔吉斯斯坦军事
+armed forces of the netherlands:荷兰武装部队
 armed forces of the people's republic of china:中华人民共和国军事
+armed forces of the people's republic of china:中华人民共和国武装力量
 armed forces of the philippines knows:菲律宾武装部队知道
 armed forces of the philippines modernization:菲律宾武装部队现代化
 armed forces of the philippines:菲律宾武装部队
 armed forces of the republic of kazakhstan:哈萨克斯坦共和国武装力量
 armed forces of the republic of moldova:摩尔多瓦武装部队
 armed forces of the republic of uzbekistan:乌兹别克斯坦武装力量
+armed forces of the soviet union:苏联武装力量
+armed forces of the soviet union:苏联武装部队
+armed forces of the soviet union:苏联部队
+armed forces of the united kingdom:英国武装部队
+armed forces of the united states:美国武装力量
+armed forces of the united states:美国武装部队
+armed forces of the united states:美国部队
 armed forces of transnistria:德涅斯特河沿岸军事
+armed forces of transnistria:德涅斯特河沿岸武装力量
+armed forces of turkmenistan:土库曼斯坦武装部队
 armed forces of turkmenistan:土庫曼武裝部隊
 armed forces of ukraine receive:乌克兰武装部队收到
+armed forces of ukraine:乌克兰武装力量
 armed forces of ukraine:乌克兰武装部队
+armed forces of ukraine:烏克蘭武装部队
 armed forces of uruguay:乌拉圭武装部队
+armed forces of uzbekistan:乌兹别克斯坦武装力量
+armed forces of venezuela:委内瑞拉武装力量
+armed forces of venezuela:委内瑞拉武装部队
+armed forces of yugoslavia:南斯拉夫武装力量
 armed forces offer:武装部队提供
 armed forces or arm:武装部队或武装
 armed forces or armed groups:武装部队或武装团体
@@ -20813,6 +21002,7 @@ armenians in myanmar:亞美尼亞裔緬甸人
 armenians in pakistan:巴基斯坦的亞美尼亞人
 armenians in the first:亚美尼亚人在第一
 armenians lack:亚美尼亚人缺乏
+armenians of iran:伊朗亚美尼亚人
 armenians only:亚美尼亚人只有
 armenians protest:亚美尼亚人抗议
 armenians say:亚美尼亚人说
@@ -20930,7 +21120,9 @@ armira glacier:阿爾米拉冰川
 armissan:阿尔米桑
 armistice army:停战军
 armistice between russia and the central powers:俄國與同盟國停戰協定
+armistice of belgrade:貝爾格萊德停戰協定
 armistice of cassibile:卡西比爾停戰協定
+armistice of mudanya:穆丹雅停戰協定
 armistice of mudros:穆兹罗斯停战协定
 armistice of salonica:薩羅尼卡停戰協定
 armistice of versailles:凡爾賽停戰協定
@@ -21797,35 +21989,140 @@ army nurse:军队护士
 army nurse:陆军护士
 army nutrition:陆军营养
 army occasionally:军队偶尔
+army of argentina:阿根廷军队
+army of argentina:阿根廷陆军
+army of armenia:亚美尼亚军队
+army of armenia:亚美尼亚陆军
+army of austria-hungary:奥匈帝国军队
+army of austria-hungary:奥匈帝国陆军
+army of azerbaijan:阿塞拜疆军队
+army of azerbaijan:阿塞拜疆陆军
+army of belarus:白俄罗斯军队
+army of brazil:巴西军队
+army of brazil:巴西陆军
+army of cameroon:喀麦隆军队
+army of chile:智利军队
+army of chile:智利陆军
+army of colombia:哥伦比亚军队
 army of conquest:征服軍
 army of darkness:魔誡英豪
 army of egg:军队的蛋
+army of egypt:埃及军队
+army of egypt:埃及陆军
+army of england:英格蘭军队
+army of finland:芬兰军队
+army of finland:芬兰陆军
+army of france:法国军队
+army of france:法国陆军
+army of france:法國军队
+army of france:法國陆军
+army of georgia:格鲁吉亚军队
+army of georgia:格鲁吉亚陆军
+army of germany:德国军队
+army of germany:德国陆军
+army of germany:德國陆军
 army of ghosts:鬼軍
 army of god:天军
+army of guatemala:危地马拉军队
+army of helvetia:瑞士军队
+army of helvetia:瑞士陆军
+army of holland:荷兰军队
+army of holland:荷兰陆军
+army of hungary:匈牙利军队
+army of india:印度军队
+army of india:印度陆军
+army of iran:伊朗军队
+army of iran:伊朗陆军
+army of iraq:伊拉克军队
+army of iraq:伊拉克陆军
+army of italy:意大利军队
+army of italy:意大利陆军
+army of jamaica:牙买加军队
 army of karelia:卡累利阿軍團
+army of liberation:解放军队
+army of mexico:墨西哥军队
+army of mexico:墨西哥陆军
+army of morocco:摩洛哥军队
+army of nazi germany:納粹德國陆军
+army of nazi germany:纳粹德国陆军
 army of new mexico:新墨西哥軍團
+army of nigeria:尼日利亚军队
+army of nigeria:尼日利亚陆军
+army of northern virginia:北弗吉尼亚军队
 army of northern virginia:北維吉尼亞軍團
+army of norway:挪威军队
+army of norway:挪威陆军
 army of observation:军队的观察
+army of pakistan:巴基斯坦军队
+army of pakistan:巴基斯坦陆军
+army of paraguay:巴拉圭军队
+army of paraguay:巴拉圭陆军
+army of peru:秘鲁军队
+army of peru:秘鲁陆军
+army of poland:波兰军队
+army of poland:波兰陆军
+army of poland:波蘭军队
+army of portugal:葡萄牙军队
+army of portugal:葡萄牙陆军
+army of qatar:卡塔尔军队
+army of qatar:卡塔尔陆军
 army of republika srpska:塞族共和国军
+army of republika srpska:塞族共和国军队
+army of romania:罗马尼亚军队
+army of romania:罗马尼亚陆军
+army of rome:罗马军队
+army of rome:罗马陆军
 army of soldier:军队的士兵
+army of spain:西班牙军队
+army of spain:西班牙陆军
+army of sri lanka:斯里兰卡陆军
 army of support:军队的支持
+army of switzerland:瑞士军队
+army of switzerland:瑞士陆军
+army of syria:叙利亚军队
+army of syria:叙利亚陆军
+army of tanzania:坦桑尼亚军队
+army of texas:德克萨斯军队
+army of texas:德克萨斯陆军
 army of the czech republic:捷克軍事
 army of the dead:活屍大軍
 army of the duchy of warsaw:華沙公國軍
 army of the holy roman empire:神聖羅馬帝國軍隊
+army of the islamic republic of iran:伊朗伊斯兰共和国军队
+army of the islamic republic of iran:伊朗伊斯兰共和国陆军
 army of the men of the naqshbandi order:纳克什班迪教团军
+army of the netherlands:荷兰军队
+army of the netherlands:荷兰陆军
 army of the peninsula:半島軍團
+army of the people:人民军队
+army of the people:人民陆军
+army of the philippines:菲律宾军队
+army of the philippines:菲律宾陆军
 army of the potomac:波多马克军团
 army of the republic of bosnia and herzegovina:波斯尼亚和黑塞哥维那共和国军
 army of the republic of vietnam:越南共和國陸軍
+army of the revolution:革命军队
 army of the socialist republic of romania:罗马尼亚社会主义共和国军
+army of the soviet union:苏联军队
+army of the soviet union:苏联陆军
+army of the united states:美国军队
+army of the united states:美国陆军
 army of the united states:美國的陸軍
 army of the western garden:西园八校尉
 army of thieves:神偷大軍
 army of tokyo bay:東京灣兵團
 army of two:無間特攻系列
+army of ukraine:乌克兰军队
+army of ukraine:乌克兰陆军
+army of ukraine:烏克蘭军队
+army of ukraine:烏克蘭陆军
+army of venezuela:委内瑞拉军队
+army of venezuela:委内瑞拉陆军
+army of virginia:弗吉尼亚军队
 army of virginia:維吉尼亞軍團
 army of war crime:军队的战争罪
+army of yemen:也门军队
+army of yugoslavia:南斯拉夫军队
 army offer:陆军提供
 army officer:军队长官
 army officials said at least:陆军官员说至少
@@ -24000,6 +24297,7 @@ arsenal house west wing:警政大樓西翼
 arsenal metróállomás:阿仙奴站
 arsenal military academy:烈火军校
 arsenal of democracy:民主兵工廠
+arsenal of venice:威尼斯兵工廠
 arsenal player of the season:阿森纳赛季最佳球员
 arsenal ship:武库舰
 arsenal stadium:海布里球场
@@ -24152,6 +24450,8 @@ arsuz bleak:科奇伊歐白魚
 arsy:阿尔西
 arszenyjev:黄土坎子
 arséniev:黄土坎子
+art academy of cincinnati:辛辛那提艺术学院
+art academy of düsseldorf:杜塞尔多夫艺术学院
 art academy of latvia:拉脱维亚美术学院
 art academy:艺术学院
 art accelerate:艺术加速
@@ -25047,10 +25347,13 @@ art gallery etc:画廊等等
 art gallery exhibit:艺术画廊展览
 art gallery focuses on:艺术画廊专注于
 art gallery of ballarat:巴拉瑞特美術館
+art gallery of new south wales:新南威爾士州美術館
 art gallery of new south wales:新南威爾士美術館
 art gallery of ontario hold:安大略美术馆拥有
 art gallery of ontario:安大略美术馆
+art gallery of ontario:安大略美術館
 art gallery of south australia:南澳美術館
+art gallery of uzbekistan:烏茲別克美術館
 art gallery of western australia:西澳大利亞美術館
 art gallery or museum:艺术画廊或博物馆
 art gallery problem:美术馆问题
@@ -25148,7 +25451,12 @@ art installation:艺术安装
 art instinct:艺术本能
 art institute before:艺术学院之前
 art institute campus:艺术学院校园
+art institute of california:加利福尼亚艺术学院
+art institute of chicago:芝加哥艺术学院
 art institute of chicago:芝加哥藝術博物館
+art institute of cincinnati:辛辛那提艺术学院
+art institute of portland:波特兰艺术学院
+art institute of san francisco:旧金山艺术学院
 art institute professor:艺术学院教授
 art institute recently:艺术学院最近
 art institute study:艺术学院学习
@@ -25355,6 +25663,7 @@ art museum is a public:艺术博物馆是一个公共
 art museum is california:艺术博物馆是加利福尼亚州
 art museum is located in:艺术博物馆位于
 art museum of georgia:喬治亞美術館
+art museum of the chinese university of hong kong:香港中文大學文物館
 art museum or gallery:艺术博物馆或画廊
 art museum parkway (wuquan 1st st.):měishùyuándào(wǔquányījiē)
 art museum parkway (wuquan 1st st.):ㄇㄟˇㄕㄨˋㄩㄢˊㄉㄠˋ(ㄨˇㄑㄩㄢˊㄧㄐㄧㄝ)
@@ -25423,20 +25732,43 @@ art observation:艺术观察
 art of african art:艺术的非洲艺术
 art of alchemy:艺术的炼金术
 art of ancient egypt:古埃及艺术
+art of ancient greece:古希腊艺术
 art of animation:動畫藝術廊
+art of architecture:建筑艺术
+art of australia:澳洲艺术
+art of canada:加拿大艺术
+art of china:中国艺术
+art of china:中國艺术
 art of close-up:艺术的特写
 art of communication:艺术的沟通
+art of drawing:绘画艺术
+art of east asia:东亚艺术
+art of europe:欧洲艺术
 art of fashion:艺术的时尚
 art of fighting:龍虎之拳
+art of fugue:赋格艺术
 art of imitation:艺术的模仿
+art of italy:意大利艺术
+art of japan:日本艺术
+art of literature:文学艺术
 art of living foundation:生活的藝術基金會
 art of logistics:艺术的物流
 art of man:艺术的男人
+art of music:音乐艺术
+art of netherlands:荷兰艺术
+art of oceania:大洋洲艺术
+art of painting:绘画艺术
+art of poetry:诗歌艺术
 art of purgatory:艺术的炼狱
+art of sculpture:雕塑艺术
 art of the devil:邪降前傳
 art of the umbrella movement:雨傘革命的藝術
+art of the united kingdom:英国艺术
+art of the united states:美国艺术
 art of today:艺术的今天
 art of video games:艺术的视频游戏
+art of war:战争艺术
+art of warfare:战争艺术
 art offer:艺术提供
 art often:艺术常常
 art on ice:歌舞冰上
@@ -25713,11 +26045,13 @@ art store:艺术商店
 art story:艺术故事
 art street:藝術街
 art structure:艺术结构
+art student league of new york:纽约艺术学生联盟
 art student league:艺术学生联盟
 art student participate:艺术学生参加
 art student scam:高價畫作詐騙術
 art student:艺术学生
 art students league of new york:紐約藝術學生聯盟
+art students league of new york:纽约艺术学生联盟
 art students league:艺术学生联盟
 art students:艺术学生
 art studies:艺术研究
@@ -26089,6 +26423,8 @@ artery is located in:动脉位于
 artery measurement:动脉测量
 artery occlusion function:动脉闭塞功能
 artery occlusion:动脉闭塞
+artery of pterygoid canal:翼管动脉
+artery of round ligament of uterus:子宫圆韧带动脉
 artery of the pterygoid canal:翼管動脈
 artery open:动脉开
 artery or vein:动脉或静脉
@@ -29124,6 +29460,7 @@ arts and industries building:藝術和產業大樓
 arts building:雅緻大廈
 arts center:艺术会馆
 arts centre melbourne:維多利亞藝術中心
+arts centre of christchurch:基督城藝術中心
 arts centre:藝術中心
 arts college:艺术学院
 arts court:美藝苑

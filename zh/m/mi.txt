@@ -409,6 +409,7 @@ miami tv:迈阿密电视
 miami u.s.:迈阿密美国
 miami university art museum:迈阿密大学艺术博物馆
 miami university blockchain club:迈阿密大学区块链俱乐部
+miami university of ohio:俄亥俄迈阿密大学
 miami university professor:迈阿密大学教授
 miami university:迈阿密大学
 miami using:迈阿密使用
@@ -10237,7 +10238,9 @@ militarization and neutral:军事化和中立
 militarization and self:军事化和自我
 militarization and surveillance:军事化和监视
 militarization management:军事化管理
+militarization of police:警察军事化
 militarization of police:警察軍事化
+militarization of the police:警察军事化
 militarization procedure:军事化程序
 militarization projects:军事化项目
 militarization threat:军事化威胁
@@ -10256,6 +10259,7 @@ military academy connect:军校连接
 military academy graduates:军校毕业生
 military academy has:军校有
 military academy incident:陸軍士官學校事件
+military academy of serbia:塞尔维亚军校
 military academy of the bolivarian army:委内瑞拉军事学院
 military academy of the general staff of the armed forces of russia:俄罗斯总参谋部军事学院
 military academy of the korean empire:大韩帝国陆军武官学校
@@ -11147,6 +11151,7 @@ military district air force:军区空军
 military district commander:军区司令员
 military district commander:军区指挥官
 military district hospital:军区医院
+military district of hawaii:夏威夷军区
 military district:军区
 military districts of russia:俄罗斯军区
 military diver:军事潜水员
@@ -11389,6 +11394,8 @@ military governance:军事治理
 military government agree:军政府同意
 military government hopes:军政府希望
 military government members:军政府成员
+military government of argentina:阿根廷军政府
+military government of brazil:巴西军政府
 military government of cuba:美國第一次佔領古巴
 military government of the philippine islands:美國菲律賓群島軍政府
 military government recently:军政府最近
@@ -11460,21 +11467,45 @@ military history book:军事历史书
 military history museum:军事历史博物馆
 military history of ancient rome:古罗马军事史
 military history of asian americans:亚裔美国人军事史
+military history of asian americans:亞裔美國人軍事史
 military history of barbados:巴貝多軍事
 military history of canada comprise:加拿大军事史包含
 military history of canada:加拿大军事史
+military history of canada:加拿大軍事史
+military history of catalonia:加泰羅尼亞軍事史
+military history of chad:查德軍事史
+military history of china:中国军事历史
 military history of china:中国军事史
+military history of china:中國軍事史
 military history of europe:歐洲軍事史
 military history of france:法国军事史
+military history of france:法國軍事史
+military history of germany:德国军事历史
+military history of germany:德國軍事史
 military history of greece during world war ii:第二次世界大戰期間的希臘
 military history of hong kong:香港軍事史
 military history of india:印度军事史
+military history of india:印度軍事史
+military history of iran:伊朗軍事史
+military history of italy:義大利軍事史
+military history of japan:日本軍事史
+military history of liechtenstein:列支敦士登軍事史
 military history of poland during world war ii:第二次世界大戰期間的波蘭軍事史
+military history of russia:俄羅斯軍事史
 military history of scotland:蘇格蘭軍事
+military history of scotland:蘇格蘭軍事史
+military history of south africa:南非軍事史
 military history of south america:南美洲军事史
+military history of taiwan:中華民國軍事史
+military history of taiwan:台灣軍事史
+military history of taiwan:臺灣軍事史
+military history of thailand:泰國軍事史
+military history of the netherlands:荷蘭軍事史
 military history of the philippines during world war ii:第二次世界大戰期間的菲律賓
 military history of the soviet union:苏联军事史
+military history of the united states:美国军事历史
 military history of the united states:美國軍事史
+military history of turkey:土耳其軍事史
 military history records:军事历史记录
 military history research centre:军事历史研究中心
 military history:军事历史
@@ -11517,6 +11548,7 @@ military india:军事印度
 military industrial complex:军事工业复合体
 military industry cooperation:军事工业合作
 military industry corporation:军事工业公司
+military industry of israel:以色列军事工业
 military industry:军事工业
 military industry:军队工业
 military influence:军事影响
@@ -11695,6 +11727,7 @@ military mechanisms:军事机制
 military medal of honor:從軍記章
 military media relation:军事媒体关系
 military media:军事媒体
+military medical academy of vietnam:越南军医学院
 military medical academy:军医学院
 military medical education:军事医学教育
 military medical university:军事医科大学
@@ -11751,6 +11784,7 @@ military movies:军事电影
 military muscle:军事肌肉
 military museum (line 1):jūnshì bówùguǎn
 military museum (line 1):军事博物馆
+military museum of finland:芬兰军事博物馆
 military museum of finland:芬蘭軍事博物館
 military museum of the chinese people's revolution:中国人民革命军事博物馆
 military museum of the chinese people's revolution:中國人民革命軍事博物館
@@ -11810,14 +11844,368 @@ military ocean noise:军事海洋噪音
 military ocean strategy:军事海洋战略
 military ocean surveillance system:军事海洋监视系统
 military ocean:军事海洋
+military of abkhazia:阿布哈茲军事
+military of afghanistan:阿富汗军事
+military of afghanistan:阿富汗军队
+military of afghanistan:阿富汗軍隊
+military of albania:阿尔巴尼亚军事
+military of albania:阿尔巴尼亚军队
+military of albania:阿爾巴尼亞軍隊
+military of algeria:阿尔及利亚军事
+military of algeria:阿爾及利亞軍隊
+military of ancient egypt:古埃及军事
 military of ancient greece:古希腊军事
+military of ancient rome:古罗马军事
+military of ancient rome:古罗马军队
 military of ancient rome:古羅馬軍事
+military of angola:安哥拉军队
+military of argentina:阿根廷军事
+military of argentina:阿根廷军队
+military of argentina:阿根廷軍隊
+military of armenia:亚美尼亚军队
+military of armenia:亞美尼亞軍隊
+military of australia:澳大利亚军事
+military of australia:澳大利亚军队
+military of australia:澳大利亚軍隊
+military of australia:澳洲軍隊
+military of austria-hungary:奥匈帝国军事
+military of austria-hungary:奥匈帝国军队
+military of austria-hungary:奥匈帝国軍隊
+military of austria:奥地利军队
+military of austria:奧地利军队
+military of austria:奧地利軍隊
+military of azerbaijan:亞塞拜然軍隊
+military of azerbaijan:阿塞拜疆军事
+military of azerbaijan:阿塞拜疆军队
+military of bahrain:巴林军事
+military of bangladesh:孟加拉国军队
+military of bangladesh:孟加拉國軍隊
+military of bangladesh:孟加拉軍隊
+military of belarus:白俄罗斯军事
+military of belarus:白俄罗斯军队
+military of belarus:白俄羅斯軍隊
+military of belgium:比利时军队
+military of belgium:比利時軍隊
+military of bhutan:不丹军事
+military of bhutan:不丹军队
+military of bolivia:玻利维亚军事
+military of bolivia:玻利维亚军队
+military of brazil:巴西军事
+military of brazil:巴西军队
+military of brazil:巴西軍隊
+military of brunei:汶莱军事
+military of bulgaria:保加利亚军事
+military of bulgaria:保加利亚军队
+military of bulgaria:保加利亚軍隊
+military of bulgaria:保加利亞軍隊
+military of cambodia:柬埔寨军事
+military of cambodia:柬埔寨軍隊
+military of cameroon:喀麦隆军队
+military of canada:加拿大军事
+military of canada:加拿大军队
+military of canada:加拿大軍隊
+military of cape verde:佛得角军队
+military of chad:乍得军事
+military of chad:查德军队
+military of chad:查德軍隊
+military of chile:智利军事
+military of chile:智利军队
+military of chile:智利軍隊
+military of china:中华人民共和国军事
+military of china:中华人民共和国军队
+military of china:中国军事
+military of china:中国军队
+military of china:中國軍隊
+military of china:中華人民共和國軍隊
+military of colombia:哥伦比亚军事
+military of colombia:哥伦比亚军队
+military of colombia:哥倫比亞軍隊
+military of comoros:葛摩軍隊
+military of costa rica:哥斯达黎加军事
+military of croatia:克罗地亚军队
+military of croatia:克羅地亞軍隊
+military of croatia:克羅埃西亞軍隊
+military of cuba:古巴军事
+military of cuba:古巴军队
+military of cuba:古巴軍隊
+military of denmark:丹麥軍隊
+military of denmark:丹麦军事
+military of denmark:丹麦军队
+military of denmark:丹麦軍隊
+military of egypt:埃及军队
+military of egypt:埃及軍隊
+military of el salvador:萨尔瓦多军队
+military of england:英格蘭军队
+military of federated states of micronesia:密克罗尼西亚联邦军事
+military of fiji:斐济军队
+military of fiji:斐濟軍隊
+military of finland:芬兰军事
+military of finland:芬兰军队
+military of finland:芬蘭軍隊
+military of france:法国军事
+military of france:法国军队
+military of france:法国軍隊
+military of france:法國军队
+military of france:法國軍隊
+military of gambia:冈比亚军事
+military of gambia:冈比亚军队
+military of georgia:喬治亞軍隊
+military of georgia:格魯吉亞軍隊
+military of georgia:格鲁吉亚军事
+military of georgia:格鲁吉亚军队
+military of germany:德国军事
+military of germany:德国军队
+military of germany:德國軍隊
+military of greece:希腊军事
+military of greece:希腊军队
+military of greece:希腊軍隊
+military of greece:希臘军队
+military of greece:希臘軍隊
+military of guatemala:危地馬拉軍隊
+military of guatemala:危地马拉军事
+military of guatemala:危地马拉军队
+military of haiti:海地軍隊
+military of honduras:洪都拉斯军队
+military of hong kong:香港军事
+military of hong kong:香港軍隊
+military of hungary:匈牙利军事
+military of hungary:匈牙利军队
+military of hungary:匈牙利軍隊
+military of india:印度军事
+military of india:印度军队
+military of india:印度軍隊
+military of indonesia:印尼军队
+military of indonesia:印尼軍隊
+military of indonesia:印度尼西亚军事
+military of indonesia:印度尼西亚军队
+military of indonesia:印度尼西亞軍隊
+military of iran:伊朗军事
+military of iran:伊朗军队
+military of iran:伊朗軍隊
+military of iraq:伊拉克军事
+military of iraq:伊拉克军队
+military of iraq:伊拉克軍隊
+military of israel:以色列军事
+military of israel:以色列军队
+military of israel:以色列軍隊
+military of italy:意大利军事
+military of italy:意大利军队
+military of italy:意大利軍隊
+military of italy:義大利軍隊
+military of jamaica:牙买加军事
+military of jamaica:牙买加军队
+military of japan:日本军事
+military of japan:日本军队
+military of japan:日本軍隊
+military of jordan:約旦军队
+military of jordan:約旦軍隊
+military of jordan:约旦军事
+military of jordan:约旦军队
+military of jordan:约旦軍隊
+military of kazakhstan:哈萨克斯坦军事
+military of kazakhstan:哈薩克軍隊
+military of kiribati:基里巴斯军事
 military of korea:朝鮮半島軍事
+military of korea:朝鲜军事
+military of korea:朝鲜军队
+military of korea:朝鲜軍隊
+military of korea:韩国军事
+military of korea:韩国军队
+military of kuwait:科威特军事
+military of kuwait:科威特军队
+military of kuwait:科威特軍隊
+military of kyrgyzstan:吉尔吉斯斯坦军事
+military of kyrgyzstan:吉尔吉斯斯坦军队
+military of laos:老挝军事
+military of latvia:拉脫維亞軍隊
+military of latvia:拉脱维亚军事
+military of lebanon:黎巴嫩军队
+military of lebanon:黎巴嫩軍隊
+military of liberia:利比里亚军队
+military of libya:利比亚军事
+military of libya:利比亞軍隊
+military of lithuania:立陶宛军队
+military of lithuania:立陶宛軍隊
+military of luxembourg:卢森堡军事
+military of luxembourg:盧森堡軍隊
+military of macau:澳門軍隊
+military of malawi:马拉维军事
+military of malaysia:馬來西亞軍隊
+military of malaysia:马来西亚军事
+military of malaysia:马来西亚军队
+military of mali:馬利军队
+military of mali:马里军队
+military of marshall islands:马绍尔群岛军事
+military of mexico:墨西哥军队
+military of mexico:墨西哥軍隊
+military of mongolia:蒙古军事
+military of mongolia:蒙古军队
+military of mongolia:蒙古国军事
+military of mongolia:蒙古軍隊
+military of montenegro:黑山軍隊
+military of morocco:摩洛哥军队
+military of myanmar:緬甸军事
+military of myanmar:緬甸軍隊
+military of myanmar:缅甸军事
+military of myanmar:缅甸军队
+military of nauru:瑙鲁军事
+military of nepal:尼泊尔军队
+military of nepal:尼泊爾军事
+military of nepal:尼泊爾軍隊
+military of new zealand:新西兰军事
+military of new zealand:新西兰军队
+military of new zealand:紐西蘭軍隊
+military of nicaragua:尼加拉瓜军事
+military of nigeria:尼日利亚军事
+military of nigeria:尼日利亚军队
+military of north korea:北韓軍隊
+military of north korea:朝鮮軍隊
+military of north korea:朝鲜军事
+military of north korea:朝鲜军队
+military of north korea:朝鲜民主主义人民共和国军事
+military of north korea:朝鲜軍隊
+military of northern cyprus:北賽普勒斯军事
+military of norway:挪威军事
+military of norway:挪威军队
+military of norway:挪威軍隊
+military of oman:阿曼军队
+military of oman:阿曼軍隊
+military of pakistan:巴基斯坦军事
+military of pakistan:巴基斯坦军队
+military of pakistan:巴基斯坦軍隊
+military of palau:帕劳军事
+military of palestine:巴勒斯坦军事
+military of panama:巴拿马军队
+military of papua new guinea:巴布亚新几内亚军事
+military of papua new guinea:巴布亚新几内亚军队
+military of paraguay:巴拉圭军事
+military of paraguay:巴拉圭军队
+military of paraguay:巴拉圭軍隊
+military of peru:秘魯軍隊
+military of peru:秘鲁军事
+military of peru:秘鲁军队
+military of peru:秘鲁軍隊
+military of poland:波兰军事
+military of poland:波兰军队
+military of poland:波蘭军队
+military of poland:波蘭軍隊
+military of portugal:葡萄牙军队
+military of portugal:葡萄牙軍隊
 military of portuguese macau:駐澳葡軍
+military of qatar:卡塔尔军事
+military of qatar:卡塔尔军队
+military of qatar:卡塔爾軍隊
+military of qatar:卡達軍隊
+military of romania:罗马尼亚军队
+military of romania:羅馬尼亞軍隊
+military of russia:俄国军队
+military of russia:俄罗斯军事
+military of russia:俄罗斯军队
+military of russia:俄罗斯軍隊
+military of russia:俄羅斯军队
+military of russia:俄羅斯軍隊
+military of rwanda:卢旺达军事
 military of saint lucia:聖露西亞軍事
+military of samoa:萨摩亚军事
+military of saudi arabia:沙特阿拉伯军事
+military of saudi arabia:沙特阿拉伯軍隊
+military of scotland:蘇格蘭軍隊
+military of serbia:塞尔维亚军事
+military of serbia:塞尔维亚军队
+military of serbia:塞爾維亞軍隊
+military of singapore:新加坡军事
+military of singapore:新加坡军队
+military of singapore:新加坡軍隊
+military of slovakia:斯洛伐克军事
+military of slovenia:斯洛文尼亞军队
+military of slovenia:斯洛文尼亞軍隊
+military of somalia:索馬里軍隊
+military of south africa:南非军事
+military of south africa:南非軍隊
+military of south korea:南韓軍隊
+military of south korea:大韩民国军事
+military of south korea:大韩民国军队
+military of south korea:韓國军队
+military of south korea:韓國軍隊
+military of south korea:韩国军事
+military of south korea:韩国军队
+military of south ossetia:南奥塞梯军事
+military of south ossetia:南奥塞梯军队
+military of spain:西班牙军队
+military of spain:西班牙軍隊
+military of sri lanka:斯里兰卡军事
+military of sri lanka:斯里蘭卡军事
+military of sri lanka:斯里蘭卡軍隊
+military of sudan:蘇丹軍隊
+military of suriname:苏里南军事
+military of suriname:苏里南军队
+military of sweden:瑞典军事
+military of sweden:瑞典军队
+military of sweden:瑞典軍隊
+military of switzerland:瑞士军事
+military of switzerland:瑞士军队
+military of switzerland:瑞士軍隊
+military of syria:叙利亚军事
+military of syria:叙利亚军队
+military of syria:敘利亞軍隊
+military of tajikistan:塔吉克斯坦军事
+military of tajikistan:塔吉克斯坦军队
+military of tanzania:坦桑尼亚军事
+military of tanzania:坦桑尼亚军队
+military of thailand:泰国军队
+military of thailand:泰國军队
+military of thailand:泰國軍隊
+military of the european union:欧盟军事
+military of the gambia:冈比亚军事
+military of the gambia:冈比亚军队
 military of the ming dynasty:明朝軍事
+military of the netherlands:荷兰军队
+military of the netherlands:荷蘭軍隊
 military of the ottoman empire:鄂圖曼帝國軍隊
+military of the people's republic of china:中华人民共和国军事
+military of the people's republic of china:中华人民共和国军队
 military of the qing dynasty:清军
+military of the soviet union:苏联军事
+military of the soviet union:苏联军队
+military of the soviet union:苏联軍隊
+military of the united arab emirates:阿联酋军队
+military of the united kingdom:英国军事
+military of the united kingdom:英国军队
+military of the united kingdom:英国軍隊
+military of the united states:美国军事
+military of the united states:美国军队
+military of togo:多哥军事
+military of togo:多哥军队
+military of tonga:東加軍隊
+military of transnistria:德涅斯特河沿岸军事
+military of transnistria:德涅斯特河沿岸軍隊
+military of tunisia:突尼斯军事
+military of tunisia:突尼斯軍隊
+military of turkey:土耳其军事
+military of turkey:土耳其军队
+military of turkey:土耳其軍隊
+military of turkmenistan:土库曼斯坦军队
+military of tuvalu:图瓦卢军事
+military of ukraine:乌克兰军事
+military of ukraine:乌克兰军队
+military of ukraine:乌克兰軍隊
+military of ukraine:烏克蘭军队
+military of ukraine:烏克蘭軍隊
+military of uruguay:乌拉圭军事
+military of uzbekistan:乌兹别克斯坦军事
+military of vanuatu:瓦努阿图军事
+military of venezuela:委內瑞拉軍隊
+military of venezuela:委内瑞拉军事
+military of venezuela:委内瑞拉军队
+military of venezuela:委内瑞拉軍隊
+military of vietnam:越南军事
+military of vietnam:越南军队
+military of vietnam:越南軍隊
+military of yemen:也門軍隊
+military of yemen:也门军事
+military of yemen:也门军队
+military of yugoslavia:南斯拉夫军队
+military of yugoslavia:南斯拉夫軍隊
 military offensive:军事攻势
 military offer:军队提供
 military office:军事办公室
@@ -11876,36 +12264,70 @@ military orbit:军事轨道
 military order:军事命令
 military order:军事订单
 military order:军队订单
+military ordinariate of argentina:阿根廷軍中教長區
 military ordinariate of austria:天主教奧地利軍中教長區
+military ordinariate of austria:奧地利軍中教長區
 military ordinariate of belgium:天主教比利時軍中教長區
+military ordinariate of belgium:比利時軍中教長區
 military ordinariate of bolivia:天主教玻利維亞軍中教長區
+military ordinariate of bolivia:玻利維亞軍中教長區
 military ordinariate of bosnia and herzegovina:天主教波斯尼亞和黑塞哥維那軍中教長區
+military ordinariate of bosnia and herzegovina:波士尼亞與赫塞哥維納軍中教長區
+military ordinariate of bosnia and herzegovina:波斯尼亞和黑塞哥維那軍中教長區
 military ordinariate of brazil:天主教巴西軍中教長區
+military ordinariate of brazil:巴西軍中教長區
+military ordinariate of canada:加拿大軍中教長區
 military ordinariate of canada:天主教加拿大軍中教長區
 military ordinariate of chile:天主教智利軍中教長區
+military ordinariate of chile:智利軍中教長區
+military ordinariate of colombia:哥倫比亞軍中教長區
 military ordinariate of colombia:天主教哥倫比亞軍中教長區
+military ordinariate of croatia:克羅地亞軍中教長區
+military ordinariate of croatia:克羅埃西亞軍中教長區
 military ordinariate of croatia:天主教克羅地亞軍中教長區
+military ordinariate of ecuador:厄瓜多爾軍中教長區
+military ordinariate of ecuador:厄瓜多軍中教長區
 military ordinariate of ecuador:天主教厄瓜多爾軍中教長區
 military ordinariate of el salvador:天主教薩爾瓦多軍中教長區
+military ordinariate of el salvador:薩爾瓦多軍中教長區
 military ordinariate of germany:天主教德國軍中教長區
+military ordinariate of germany:德國軍中教長區
+military ordinariate of hungary:匈牙利軍中教長區
 military ordinariate of hungary:天主教匈牙利軍中教長區
+military ordinariate of indonesia:印尼軍中教長區
+military ordinariate of indonesia:印度尼西亞軍中教長區
 military ordinariate of indonesia:天主教印度尼西亞軍中教長區
 military ordinariate of italy:天主教義大利軍中教長區
+military ordinariate of italy:義大利軍中教長區
 military ordinariate of kenya:天主教肯亞軍中教長區
+military ordinariate of kenya:肯亞軍中教長區
 military ordinariate of korea:天主教韓國軍中教長區
 military ordinariate of lithuania:天主教立陶宛軍中教長區
+military ordinariate of lithuania:立陶宛軍中教長區
 military ordinariate of new zealand:天主教紐西蘭軍中教長區
+military ordinariate of new zealand:紐西蘭軍中教長區
 military ordinariate of paraguay:天主教巴拉圭軍中教長區
+military ordinariate of paraguay:巴拉圭軍中教長區
 military ordinariate of peru:天主教秘魯軍中教長區
+military ordinariate of peru:秘魯軍中教長區
 military ordinariate of poland:天主教波蘭軍中教長區
+military ordinariate of poland:波蘭軍中教長區
 military ordinariate of portugal:天主教葡萄牙軍中教長區
+military ordinariate of portugal:葡萄牙軍中教長區
 military ordinariate of slovakia:天主教斯洛伐克軍中教長區
+military ordinariate of slovakia:斯洛伐克軍中教長區
+military ordinariate of south africa:南非軍中教長區
+military ordinariate of south korea:韓國軍中教長區
+military ordinariate of spain:西班牙軍中教長區
 military ordinariate of the dominican republic:天主教多明尼加共和國軍中教長區
 military ordinariate of the netherlands:天主教荷蘭軍中教長區
+military ordinariate of the netherlands:荷蘭軍中教長區
 military ordinariate of the philippines:天主教菲律賓軍中教長區
 military ordinariate of the south african defence force:天主教南非軍中教長區
 military ordinariate of uganda:天主教烏干達軍中教長區
+military ordinariate of uganda:烏干達軍中教長區
 military ordinariate of venezuela:天主教委內瑞拉軍中教長區
+military ordinariate of venezuela:委內瑞拉軍中教長區
 military ordinariate:軍中教長區
 military organ:军队器官
 military organisation to public:军事组织到公共
@@ -12006,6 +12428,7 @@ military police command - tainan military police:憲兵指揮部-臺南憲兵隊
 military police company:宪兵连
 military police from russia:宪兵从俄罗斯
 military police from:宪兵从
+military police of paraná:巴拉那州宪兵
 military police training center:憲兵訓練中心
 military police training center:憲訓中心
 military police vehicle:宪兵车辆
@@ -12038,6 +12461,7 @@ military power and institutions:军事力量和机构
 military power and technology:军事力量和技术
 military power can be:军事力量可以成为
 military power cannot:军事力量不能
+military power of the people's republic of china:中华人民共和国军事力量
 military power projection:军事力量投射
 military power push:军事力量推
 military power ranking:军事力量排名
@@ -12808,6 +13232,10 @@ militia members help:民兵成员帮助
 militia members say they:民兵成员说他们
 militia members:民兵成员
 militia obey:民兵服从
+militia of canada:加拿大民兵
+militia of china:中国民兵
+militia of china:中國民兵
+militia of china:中華人民共和國民兵
 militia of jesus christ:民兵的耶稣基督
 militia of jesus christ:民兵的耶穌基督
 militia officials:民兵官员
@@ -19245,6 +19673,7 @@ minister mary:部长玛丽
 minister may perform all these:部长可以执行所有这些
 minister meeting:部长会议
 minister mention:部长提到
+minister mentor of singapore:新加坡内阁资政
 minister mentor:内阁资政
 minister miao wei:部长苗圩
 minister michael:部长迈克尔
@@ -19260,19 +19689,78 @@ minister needs:部长需要
 minister ng eng hen:部长黄永宏
 minister nicole:部长妮科尔
 minister norman:部长诺曼
+minister of agriculture:农业部长
+minister of army:陆军部长
+minister of aviation:航空部长
+minister of budget:预算部长
 minister of civil affairs:中华人民共和国民政部部长
+minister of commerce:商业部长
+minister of culture and tourism:文化与旅游部长
+minister of culture of russia:俄罗斯文化部长
+minister of culture:文化部长
+minister of development:发展部长
+minister of economy and finance:经济和财政部长
+minister of economy:经济部长
+minister of education:教育部长
 minister of energy transition and water transformation:马来西亚能源及水务转型部
+minister of energy:能源部长
+minister of environment and energy:环境和能源部长
+minister of environment and forest:环境与森林部长
+minister of environment:环境部长
+minister of environmental protection:环境保护部长
+minister of finance:财政部长
+minister of foreign affairs:外交事务部长
+minister of government:政府部长
+minister of higher education:高等教育部长
+minister of human resources:人力资源部长
+minister of immigration:移民部长
+minister of industry and commerce:工业和商业部长
+minister of industry and energy:工业和能源部长
+minister of industry:工业部长
+minister of international development:国际发展部长
+minister of international trade and industry:国际贸易与工业部长
+minister of international trade:国际贸易部长
 minister of intra german relations:德國聯邦德內關係部
 minister of justice and attorney general of canada:加拿大司法部長暨檢察總長
+minister of justice:司法部长
+minister of law:法律部长
 minister of magic:部长的魔法
+minister of national defense:國防部长
+minister of national security:国家安全部长
+minister of navy:海军部长
+minister of propaganda:宣传部长
+minister of public education:公共教育部长
+minister of public enterprises:公共企业部长
+minister of public health:公共卫生部长
+minister of public safety:公共安全部长
+minister of public security:公共安全部长
+minister of public welfare:公共福利部长
+minister of public works:公共工程部长
+minister of science and technology:科技部长
+minister of security:安全部长
+minister of social services:社会服务部长
 minister of state for defence procurement and industry:國防採購國務大臣
 minister of state for development:發展事務國務大臣
 minister of state for security:安全事務國務大臣
 minister of state for universities:大學國務大臣
 minister of state receive:國務大臣收到
 minister of state:國務大臣
+minister of technology:科技部长
+minister of the economy:经济部长
+minister of the environment:环境部长
+minister of the government:政府部长
 minister of the left:左大臣
+minister of the navy:海军部长
 minister of the right:右大臣
+minister of tourism:旅游部长
+minister of trade and industry:贸易与工业部长
+minister of trade:贸易部长
+minister of traffic:交通部长
+minister of transport:运输部长
+minister of transportation:运输部长
+minister of war and navy:战争和海军部长
+minister of war:战争部长
+minister of welfare:福利部长
 minister once:部长曾经
 minister or leader:部长或领袖
 minister or member of parliament:部长或国会议员
@@ -21611,6 +22099,8 @@ minute object:分钟对象
 minute observation and general:分钟观察和一般的
 minute observation:分钟观察
 minute of anger:分钟的愤怒
+minute of angle:角分
+minute of arc:弧分
 minute of breathing space:分钟的呼吸空间
 minute of discussion:分钟的讨论
 minute of happiness:分钟的幸福
@@ -23098,6 +23588,7 @@ miracle girls:奇蹟女孩
 miracle green house:綠舍奇蹟健康蔬食
 miracle home:奇蹟之家
 miracle mineral supplement:神奇矿物溶液
+miracle of bern:伯爾尼奇跡
 miracle of chile:智利奇迹
 miracle of the house of brandenburg:勃蘭登堡王室的奇蹟
 miracle of the jealous husband:嫉妒丈夫的神迹
@@ -25961,6 +26452,7 @@ mission nombre de dios:天主圣名传教站
 mission not:使命不是
 mission now:任务现在
 mission of china to the european union:中国驻欧盟使团
+mission of hope:希望使命
 mission of murder:任务的谋杀
 mission once again:任务再次
 mission one:任务一
@@ -26139,11 +26631,14 @@ mission successfully:任务成功地
 mission suddenly:任务突然
 mission suffer:任务遭受
 mission sui iuris of afghanistan:天主教阿富汗自治傳教區
+mission sui iuris of cayman islands:開曼群島自治傳教區
 mission sui iuris of funafuti:天主教富納富提自治傳教區
+mission sui iuris of funafuti:富納富提自治傳教區
 mission sui iuris of tajikistan:天主教塔吉克斯坦自治傳教區
 mission sui iuris of the cayman islands:天主教開曼群島自治傳教區
 mission sui iuris of the turks and caicos islands:天主教特克斯和凱科斯自治傳教區
 mission sui iuris of tokelau:天主教托克勞自治傳教區
+mission sui iuris of tokelau:托克勞自治傳教區
 mission sui iuris:自治傳教區
 mission support and system:任务支持和系统
 mission support:任务支持

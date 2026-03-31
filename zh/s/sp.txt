@@ -1237,9 +1237,15 @@ space of city:空間的城市
 space of city:空间的城市
 space of drugs:空间的毒品
 space of flows:流空间
+space of freedom:自由空間
+space of freedom:自由空间
+space of functions:函数空間
+space of functions:函数空间
 space of gong culture:高地鑼文化區
 space of guan yu:空间的关羽
 space of life:空间的生活
+space of sequences:序列空間
+space of sequences:序列空间
 space of several hours:空间的几个小时
 space of water:空间的水
 space offer:空間提供
@@ -1456,6 +1462,7 @@ space research and technology:空间研究与技术
 space research and technology:空间研究和技术
 space research association:空间研究协会
 space research center:空间研究中心
+space research centre of polish academy of sciences:波兰科学院空间研究中心
 space research centre:空间研究中心
 space research committee:空间研究委员会
 space research corporation:空间研究公司
@@ -4682,6 +4689,7 @@ spanish nun:西班牙修女
 spanish nun:西班牙的修女
 spanish nurse:西班牙护士
 spanish occupation:西班牙佔領
+spanish of the americas:美洲西班牙语
 spanish offer:西班牙提供
 spanish office:西班牙辦公室
 spanish official:西班牙官員
@@ -4956,6 +4964,7 @@ spanish retail clothing:西班牙零售服装
 spanish retail:西班牙零售
 spanish revolution:西班牙革命
 spanish rice:西班牙大米
+spanish riding school of vienna:维也纳西班牙骑术学校
 spanish riding school:西班牙马术学校
 spanish riding school:西班牙骑术学校
 spanish right:西班牙右
@@ -5545,6 +5554,7 @@ spark meaningful:火花有意义的
 spark movement:火花运动
 spark needs:火花需要
 spark new zealand:新西兰电信
+spark of life:生命火花
 spark oil:火花油
 spark or catalyst:火花或催化剂
 spark or confidence:火花或信心
@@ -5922,6 +5932,8 @@ speaking in tongues:說方言
 spear glacier:斯皮爾冰川
 spear nunatak:斯皮爾冰原島峰
 spear of fuchai:吴王夫差矛
+spear of longinus:朗基努斯槍
+spear of wind:風槍
 spear phishing:魚叉式網路釣魚
 spear thrower:投槍器
 spear:槍
@@ -5959,6 +5971,7 @@ special advantages:特别的优势
 special afternoon:特别的下午
 special agent oso:特務歐寶
 special agent:特別探員
+special air service of new zealand:新西兰特种空勤团
 special air service:特种空勤团
 special aircraft:特别的飞机
 special alchemy:特别的炼金术
@@ -6173,6 +6186,7 @@ special economic zone and international tourism:经济特区和国际旅游
 special economic zone committee:经济特区委员会
 special economic zone development:经济特区发展
 special economic zone fund:经济特区基金
+special economic zone of china:中国经济特区
 special economic zone project:经济特区项目
 special economic zone projects:经济特区项目
 special economic zone road traffic safety:经济特区道路交通安全
@@ -6316,6 +6330,7 @@ special forces brigade:特種部隊旅
 special forces headquarters:特種部隊總部
 special forces lieutenant colonel:特種部隊中校
 special forces need:特種部隊需要
+special forces of india:印度特種部隊
 special forces of serbia:塞尔维亚特种部队
 special forces patrol:特種部隊巡邏
 special forces soldier:特種部隊士兵
@@ -7702,8 +7717,10 @@ species of insects:种的昆虫
 species of mammals:物种的哺乳动物
 species of moth:种的蛾
 species of parrot:种的鹦鹉
+species of plant:植物物种
 species of plant:物种的植物
 species of plants:种的植物
+species of tree:树种
 species of tree:物种的树
 species of tree:种的树
 species of war:物种的战争
@@ -12314,6 +12331,9 @@ speed of calculation:速度的计算
 speed of change:速度的改变
 speed of dark:黑暗的速度
 speed of decision making:速度的决策
+speed of flight:飛行速度
+speed of flight:飞行速度
+speed of gravity:引力速度
 speed of internet connection:速度的互联网连接
 speed of light across:光速穿过
 speed of light begin:光速开始
@@ -13144,6 +13164,7 @@ sphere model:球模型
 sphere models include:球模型包括
 sphere models:球模型
 sphere now:球现在
+sphere of fire:火球
 sphere of influence:勢力範圍
 sphere open:球打开
 sphere packing:最密堆积
@@ -13902,6 +13923,7 @@ spiral galaxy appears:螺旋星系出现
 spiral galaxy:螺旋星系
 spiral ganglion:螺旋神经节
 spiral model:螺旋模型
+spiral of archimedes:阿基米德螺线
 spiral of silence:沉默螺旋
 spiral snacks:旋味
 spiral:螺线
@@ -14178,11 +14200,22 @@ spirit no longer:精神不再
 spirit not:精神不是
 spirit now:精神现在
 spirit obtain:精神获得
+spirit of adventure:冒險精神
+spirit of criticism:批判精神
 spirit of ecstasy:飞翔女神
+spirit of freedom:自由精神
+spirit of metal:金属精神
 spirit of mojave:宇宙女孩
+spirit of rebellion:造反精神
+spirit of saint louis:圣路易斯精神
+spirit of st. louis:圣路易斯精神
 spirit of the dead watching:死亡的幽靈在注視
 spirit of the dragon:李小龍傳
+spirit of the law:法律精神
 spirit of the north:北方之靈
+spirit of ukraine:乌克兰精神
+spirit of washington:华盛顿精神
+spirit of washington:華盛頓精神
 spirit often:精神常常
 spirit only:精神只有
 spirit or consciousness:精神或意识
@@ -15139,7 +15172,9 @@ spokesperson mustafa:发言人穆斯塔法
 spokesperson najib:发言人纳吉布
 spokesperson natalie:发言人娜塔莉
 spokesperson navy:发言人海军
+spokesperson of ministry of foreign affairs:外交部发言人
 spokesperson of the government of spain:西班牙政府發言人
+spokesperson of the government:政府发言人
 spokesperson office:发言人办公室
 spokesperson oliver:发言人奥利弗
 spokesperson paul:发言人保罗
@@ -15953,6 +15988,8 @@ sport nutrition products:运动营养产品
 sport nutrition:运动营养
 sport obviously:运动显然
 sport of athletics:田径
+sport of athletics:田径运动
+sport of shooting:射击运动
 sport open:体育运动开
 sport opportunities:运动机会
 sport optics:运动光学
@@ -16297,6 +16334,7 @@ sports car championship:跑车锦标赛
 sports car chevrolet corvette:跑车雪佛兰科尔维特
 sports car circuit board:跑车电路板
 sports car circuit:跑车电路
+sports car club of america:美国跑车俱乐部
 sports car club:跑车俱乐部
 sports car company:跑车公司
 sports car concept:跑车概念
@@ -16608,6 +16646,7 @@ sports nutrition powder market:运动营养粉末市场
 sports nutrition products:运动营养产品
 sports nutrition science services:运动营养科学服务
 sports nutrition:运动营养
+sports of athletics:田径运动
 sports office, new taipei city government:新北市政府體育處
 sports office:运动办公室
 sports open:运动开

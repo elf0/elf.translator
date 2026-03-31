@@ -3366,8 +3366,13 @@ valley networks:山谷网络
 valley of geysers:間歇泉谷
 valley of gold:山谷的金子
 valley of hanging fig roots:垂榕谷
+valley of kashmir:克什米尔山谷
+valley of kashmir:克什米尔谷地
 valley of mexico area:墨西哥谷地区
 valley of mexico:墨西哥谷
+valley of mexico:墨西哥谷地
+valley of méxico:墨西哥谷地
+valley of peshawar:白沙瓦谷地
 valley of saints:圣徒谷
 valley of stele of diamond sutra:經石峪
 valley of stele of diamond sutra:经石峪
@@ -3375,10 +3380,12 @@ valley of tears:淚之谷戰役
 valley of ten thousand smokes:萬煙谷
 valley of the fallen:烈士谷
 valley of the kings:帝王谷
+valley of the moon:月球山谷
 valley of the queens:王后谷
 valley of the slavyanka river:谷斯拉维亚卡河
 valley of the sugar mills:甘蔗谷
 valley of the ten peaks:十峰山谷
+valley of toluca:托卢卡山谷
 valley of wales:山谷的威尔士
 valley offer:山谷提供
 valley office:山谷办公室
@@ -4721,6 +4728,7 @@ value of games:值的游戏
 value of innovation:值的创新
 value of internet of things:值的物联网
 value of knowledge:值的知識
+value of life:生命值
 value of logic from:值的逻辑从
 value of materials:值的材料
 value of one:值的一
@@ -4732,6 +4740,7 @@ value of silicon:值的硅
 value of society:值的社会
 value of things:值的事情
 value of three:值的三
+value of time:时间值
 value of trust:值的信任
 value of wisdom:值的智慧
 value offer:值提供
@@ -6531,6 +6540,7 @@ vapor mixture:蒸气混合物
 vapor mixture:蒸氣混合物
 vapor or mist:蒸氣或薄霧
 vapor poisoning:蒸气中毒
+vapor pressure of water:水蒸氣壓
 vapor pressure:蒸氣壓
 vapor products:蒸气产品
 vapor quality:蒸氣量

@@ -3163,6 +3163,7 @@ age of consent in north america:北美洲各國最低合法性交年齡
 age of consent in oceania:大洋洲各國最低合法性交年齡
 age of consent in south america:南美洲各國最低合法性交年齡
 age of consent in the united states:美国同意年龄
+age of consent:同意年龄
 age of consent:最低合法性行為年齡
 age of criminal responsibility from:刑事责任年龄从
 age of criminal responsibility has been:刑事责任年龄已经
@@ -3170,7 +3171,9 @@ age of criminal responsibility would:刑事责任年龄将
 age of criminal responsibility:刑事责任年龄
 age of discovery:地理大发现
 age of dog:年龄的狗
+age of earth:地球年龄
 age of earth:地球的年齡
+age of elements:元素年龄
 age of empires:世紀帝國系列
 age of enlightenment:啟蒙時代
 age of glory:情牵南苑
@@ -3180,9 +3183,14 @@ age of majority:成人年龄
 age of mythology:神话世纪
 age of oil:石油時代
 age of reason:年龄的原因
+age of retirement:退休年龄
 age of revolution:革命时代
 age of sail:帆船時代
+age of sexual consent:性同意年龄
+age of the earth:地球年龄
+age of the universe:宇宙年龄
 age of the universe:宇宙的年龄
+age of universe:宇宙年龄
 age of wonders:奇迹时代
 age offer:年龄提供
 age only:年龄只有
@@ -3488,6 +3496,7 @@ ageing mission:老化任务
 ageing model:老化模型
 ageing muscle:老化肌肉
 ageing nuclear power plant:老化核电厂
+ageing of the population:人口老化
 ageing or death:老化或死亡
 ageing or performance:老化或性能
 ageing oslo:老化奥斯陆
@@ -5056,9 +5065,12 @@ agricultural bank of china:中国农业银行(城郊支行)
 agricultural bank of china:中国农业银行(深圳分行营业部)
 agricultural bank of china:中国农业银行(黄冈遗爱湖支行)
 agricultural bank of china:中国农业银行江门分行
+agricultural bank of china:中國农业银行
 agricultural bank of china:中國存業銀行
 agricultural bank of china:中國農業銀行
 agricultural bank of china:中國農業銀行江門分行
+agricultural bank of greece:希腊农业银行
+agricultural bank of libya:利比亚农业银行
 agricultural bank of taiwan:全國農業金庫
 agricultural bank recently:农业银行最近
 agricultural bank residental area:农业银行家属院
@@ -5888,6 +5900,7 @@ agriculture innovation:农业创新
 agriculture inspector:农业督察
 agriculture institutions:农业机构
 agriculture instruct:农业指导
+agriculture insurance company of india:印度农业保险公司
 agriculture insurance company:农业保险公司
 agriculture insurance:农业保险
 agriculture intervention:农业干预
@@ -5954,6 +5967,8 @@ agriculture metal:农业金属
 agriculture methods:农业方法
 agriculture micronutrient:农业微量营养素
 agriculture minister alexander:农业部长亚历山大
+agriculture minister of germany:德国农业部长
+agriculture minister of israel:以色列农业部长
 agriculture minister:农业部长
 agriculture modernization:农业现代化
 agriculture more:农业更多
@@ -5973,6 +5988,9 @@ agriculture not:农业不是
 agriculture now produce:农业现在生产
 agriculture now:农业现在
 agriculture obviously:农业显然
+agriculture of ancient greece:古希腊农业
+agriculture of indonesia:印度尼西亚农业
+agriculture of the soviet union:苏联农业
 agriculture offer:农业提供
 agriculture office:农业办公室
 agriculture officials:农业官员

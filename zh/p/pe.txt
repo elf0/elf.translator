@@ -69,6 +69,7 @@ peace advocate:和平倡导
 peace after:和平后
 peace agreement by:和平协议被
 peace agreement end:和平协议结束
+peace agreement of hat yai:合艾和平协议
 peace agreement:和平协议
 peace agreements and reconciliation:和平协议与和解
 peace agreements:和平协议
@@ -640,12 +641,15 @@ peace of basel:巴塞爾和約
 peace of bautzen:包岑条约
 peace of callias:卡里阿斯和約
 peace of constance:康斯坦茨和约
+peace of leoben:萊奧本和平
+peace of nicias:尼西阿斯和平
 peace of nicias:尼西阿斯和约
 peace of passau:帕紹和約
 peace of prague:布拉格和約
 peace of rueil:吕埃耶和约
 peace of ryswick:雷斯威克條約
 peace of utrecht:烏得勒支和約
+peace of vienna:维也纳和平
 peace of westphalia:威斯特伐利亚和约
 peace offensive:和平攻势
 peace offer:和平提供
@@ -865,6 +869,7 @@ peace treaty after:和平条约后
 peace treaty issue:和平条约问题
 peace treaty means:和平条约意味着
 peace treaty negotiations:和平条约谈判
+peace treaty of paris:巴黎和平条约
 peace treaty will:和平条约会
 peace treaty would:和平条约将
 peace treaty:和平条约
@@ -2997,8 +3002,10 @@ peer to peer web hosting:對等網路代管
 peer to peer:對等網路
 peer-review:同行評審
 peer:同级
+peerage of england:英格兰貴族爵位
 peerage of england:英格蘭貴族爵位
 peerage of france:法国爵位
+peerage of france:法國貴族爵位
 peerage of great britain:大不列顛貴族爵位
 peerage of ireland:愛爾蘭貴族爵位
 peerage of scotland:蘇格蘭貴族爵位
@@ -6281,6 +6288,7 @@ peninsula national park:半岛国家公园
 peninsula neanderthal:半岛尼安德特人
 peninsula noble:半岛贵族
 peninsula north:半岛北
+peninsula of brittany:布列塔尼半岛
 peninsula of nuclear weapon:半岛的核武器
 peninsula offer:半岛提供
 peninsula or isthmus:半岛或地峡
@@ -9371,21 +9379,55 @@ people obey:人们服从
 people obtain:人们获得
 people obviously:人们显然
 people occasionally:人们偶尔
+people of bahrain:巴林人民
 people of blood:人们的血液
+people of china:中国人民
+people of china:中國人民
+people of china:中華人民共和國人民
 people of color require:人们的颜色需要
 people of color:人们的颜色
 people of color:人民的颜色
 people of democracy:人民的民主
+people of france:法国人民
+people of freedom:自由人民
+people of freedom:自由民
+people of germany:德国人民
 people of god:人民的上帝
+people of hong kong:香港人民
 people of hope:人民的希望
+people of israel:以色列人民
+people of israel:以色列民
+people of italy:意大利人民
+people of japan:日本人民
 people of liberty:人民的自由
 people of life:人们的生命
 people of life:人们的生活
+people of love:愛民
+people of love:爱民
 people of mecca:人民的麥加
 people of money:人们的钱
 people of nazareth:人民的拿撒勒
+people of palestine:巴勒斯坦人民
+people of poland:波蘭人民
+people of rome:罗马市民
+people of rome:羅馬人民
+people of russia:俄罗斯人民
+people of russia:俄羅斯人民
+people of scotland:蘇格蘭人民
 people of siberia:人们的西伯利亚
+people of south africa:南非人民
+people of taiwan:中華民國人民
+people of taiwan:台湾人民
+people of taiwan:台灣人民
+people of taiwan:臺灣人民
 people of the book:有經者
+people of the netherlands:荷蘭人民
+people of the united states:美国人民
+people of the web:网民
+people of ukraine:乌克兰人民
+people of ukraine:烏克蘭人民
+people of united states:美国人民
+people of united states:美國人民
 people of venezuela:人民的委内瑞拉
 people of work:人们的工作
 people off:人们关闭
@@ -10740,6 +10782,8 @@ people's army history:人民军历史
 people's army insurgency:人民军叛乱
 people's army martyrs memorial tower:人民军烈士追悼塔
 people's army of komuch:科穆奇人民军
+people's army of poland:波兰人民军
+people's army of viet-nam:越南人民军
 people's army of vietnam:越南人民军
 people's army once:人民军曾经
 people's army tank:人民军坦克
@@ -10751,7 +10795,12 @@ people's artist of the ussr:苏联人民艺术家
 people's assembly elections:人民议会选举
 people's assembly members:人民议会成员
 people's assembly of abkhazia:阿布哈兹人民议会
+people's assembly of albania:阿尔巴尼亚人民议会
+people's assembly of dagestan:达吉斯坦共和国人民议会
+people's assembly of egypt:埃及人民议会
 people's assembly of gagauzia:加告兹人民议会
+people's assembly of serbia:塞尔维亚人民议会
+people's assembly of syria:叙利亚人民议会
 people's assembly:人民议会
 people's athlete:人民体育人
 people's avenue:人民大道
@@ -10854,6 +10903,8 @@ people's committee:人民委员会
 people's commune:人民公社
 people's communist party of turkey:土耳其人民共产党
 people's congress:人民大会
+people's consultative assembly of indonesia:印尼人民协商会议
+people's consultative assembly of indonesia:印度尼西亚人民协商会议
 people's consultative assembly:人民协商会议
 people's council & people's committee:巴地头顿省人民委员会
 people's council and people's committee of tu son:慈山市人民会同与委员会
@@ -10888,10 +10939,15 @@ people's democratic dictatorship needs:人民民主专政需要
 people's democratic dictatorship:人民民主专政
 people's democratic organisation for independence and socialism:争取独立和社会主义人民民主组织
 people's democratic party of afghanistan:阿富汗人民民主黨
+people's democratic party of nigeria:奈及利亞人民民主黨
 people's democratic party of tajikistan:塔吉克斯坦人民民主党
+people's democratic party of tajikistan:塔吉克斯坦人民民主黨
 people's democratic party of uzbekistan:乌兹别克斯坦人民民主党
 people's democratic party:人民民主黨
 people's democratic republic of ethiopia:埃塞俄比亚人民民主共和国
+people's deputy of russia:俄羅斯人民代表
+people's deputy of the soviet union:苏联人民代表
+people's deputy of ukraine:乌克兰人民代表
 people's deputy of ukraine:烏克蘭人民代表
 people's deputy:人民代表
 people's east road:rénmín dōng lù
@@ -10915,6 +10971,8 @@ people's government forestry:人民政府林业
 people's government mayor:人民政府市长
 people's government of fancheng district:樊城区政府
 people's government of guangdong province:广东省人民政府
+people's government of jiangsu province:江苏省人民政府
+people's government of jiangsu province:江蘇省人民政府
 people's government of liuzhou:柳州市人民政府
 people's government of nansha district:南沙区人民政府
 people's government of nansha district:南沙區人民政府
@@ -10922,6 +10980,8 @@ people's government of qingdao city:青岛市人民政府
 people's government of sansha pref., hainan prov., p.r.c.:三沙市人民政府
 people's government of tibet autonomous region:西藏自治区人民政府
 people's government of xinjiang uygur autonomous region:新疆维吾尔自治区人民政府
+people's government of yunnan province:云南省人民政府
+people's government of yunnan province:雲南省人民政府
 people's government of zaoyang county-level city:枣阳市人民政府
 people's government office:人民政府办公室
 people's government order:人民政府命令
@@ -10942,6 +11002,7 @@ people's hospital (north):人民医院北
 people's hospital 1:留医部 ①
 people's hospital no. 4:dì sì rénmín yīyuàn
 people's hospital of dongguan city:东莞市人民医院
+people's hospital of guangxi zhuang autonomous region:广西壮族自治区人民医院
 people's hospital of hanshan county:含山縣人民醫院
 people's hospital of lanting town:兰亭镇人民医院
 people's hospital of qingyuan (east):市人民(东)
@@ -11007,6 +11068,7 @@ people's liberation front:人民解放阵线
 people's liberation insurgent army:人民解放反叛军
 people's liberation monument:抗战胜利纪功碑暨人民解放纪念碑
 people's liberation movement:人民解放运动
+people's liberation war of yugoslavia:南斯拉夫人民解放战争
 people's liberation war:人民解放战争
 people's life first:國民生活第一
 people's literature publishing house once:人民文学出版社曾经
@@ -11016,6 +11078,7 @@ people's middle road:rénmínzhōng lù
 people's mojahedin organization of iran:伊朗人民聖戰者組織
 people's movement against the eu:反歐盟人民運動
 people's movement of kosovo:科索沃人民运动
+people's movement of ukraine:乌克兰人民运动
 people's movement of ukraine:烏克蘭人民運動
 people's movement party:人民运动党
 people's movement:人民运动
@@ -11045,16 +11108,34 @@ people's party for reconstruction and democracy:争取重建与民主人民党
 people's party government:人民党政府
 people's party leader:人民党领袖
 people's party members:人民党成员
+people's party of abkhazia:阿布哈兹人民党
+people's party of armenia:亚美尼亚人民党
+people's party of canada:加拿大人民党
 people's party of canada:加拿大人民黨
+people's party of catalonia:加泰罗尼亚人民党
+people's party of development:发展人民党
+people's party of finland:芬兰人民党
+people's party of galicia:加利西亚人民党
 people's party of kazakhstan:哈萨克斯坦人民党
+people's party of korea:朝鲜人民党
+people's party of montenegro:黑山人民党
 people's party of panama:巴拿马人民党
+people's party of russia:俄罗斯人民党
 people's party of south ossetia:南奥塞梯人民党
+people's party of spain:西班牙人民党
+people's party of thailand:泰国人民党
 people's party of tibet:西藏人民党
+people's party of ukraine:乌克兰人民党
 people's party officials:人民党官员
 people's party:人民党
 people's plaza:rénmín guǎngchǎng
 people's plaza:人民广场
 people's police academy number 2:第二号人民警察高等学校
+people's police of china:中华人民共和国人民警察
+people's police of china:中国人民警察
+people's police of china:中國人民警察
+people's police of china:中華人民共和國人民警察
+people's police of the people's republic of china:中华人民共和国人民警察
 people's police school:人民警察学校
 people's police:人民警察
 people's power party:人民力量党
@@ -11075,25 +11156,64 @@ people's radical party:人民激進黨
 people's radio hong kong:香港人民廣播電台
 people's republic be:人民共和国成为
 people's republic include:人民共和国包括
+people's republic of albania:阿尔巴尼亚人民共和国
 people's republic of angola:安哥拉人民共和国
+people's republic of azerbaijan:阿塞拜疆人民共和国
+people's republic of bangladesh:孟加拉人民共和国
+people's republic of bangladesh:孟加拉国人民共和国
+people's republic of belarus:白俄罗斯人民共和国
 people's republic of benin:貝南人民共和國
+people's republic of benin:贝宁人民共和国
+people's republic of bosnia and herzegovina:波斯尼亚和黑塞哥维那人民共和国
+people's republic of bulgaria:保加利亚人民共和国
+people's republic of bulgaria:保加利亞人民共和国
 people's republic of bulgaria:保加利亞人民共和國
+people's republic of bulgarian:保加利亚人民共和国
+people's republic of cambodia:柬埔寨人民共和国
 people's republic of china marriage certificate:中华人民共和国结婚证
 people's republic of china pavilion:中国馆
 people's republic of china's civilian motor vehicle license plates:中华人民共和国民用机动车号牌
+people's republic of china:中国人民共和国
 people's republic of china:人民共和国的中国
+people's republic of congo:刚果人民共和国
+people's republic of croatia:克罗地亚人民共和国
+people's republic of donetsk:頓涅茨克人民共和国
+people's republic of donetsk:顿涅茨克人民共和国
+people's republic of hungary:匈牙利人民共和国
+people's republic of kampuchea:柬埔寨人民共和国
 people's republic of kampuchea:柬埔寨人民共和國
 people's republic of korea:朝鮮人民共和國
+people's republic of korea:朝鲜人民共和国
+people's republic of luhansk:卢甘斯克人民共和国
+people's republic of luhansk:盧甘斯克人民共和国
+people's republic of macedonia:马其顿人民共和国
+people's republic of mongolia:蒙古人民共和国
+people's republic of montenegro:黑山人民共和国
 people's republic of mozambique:莫桑比克人民共和国
+people's republic of poland:波兰人民共和国
+people's republic of poland:波蘭人民共和国
+people's republic of romania:罗马尼亚人民共和国
+people's republic of romania:羅馬尼亞人民共和国
+people's republic of serbia:塞尔维亚人民共和国
+people's republic of slovenia:斯洛文尼亚人民共和国
+people's republic of south yemen:南也门人民共和国
+people's republic of south yorkshire:南约克郡人民共和国
 people's republic of the congo:剛果人民共和國
+people's republic of ukraine:乌克兰人民共和国
+people's republic of ukraine:烏克蘭人民共和国
+people's republic of yugoslavia:南斯拉夫人民共和国
 people's republic of zanzibar:尚吉巴人民共和國
+people's republic of zanzibar:桑給巴爾人民共和国
+people's republic of zanzibar:桑给巴尔人民共和国
 people's republic:人民共和国
 people's revolutionary army:人民革命军
 people's revolutionary militia:人民革命民兵
 people's revolutionary party government:人民革命党政府
 people's revolutionary party incident:人民革命党事件
 people's revolutionary party of benin:贝宁人民革命党
+people's revolutionary party of kampuchea:柬埔寨人民革命党
 people's revolutionary party of kangleipak:康格雷帕克人民革命党
+people's revolutionary party of vietnam:越南人民革命党
 people's revolutionary party win:人民革命党赢得
 people's revolutionary party:人民革命党
 people's revolutionary youth union of kampuchea:柬埔寨人民革命青年联盟
@@ -12426,7 +12546,10 @@ perception is about:知觉是关于
 perception is impossible:知觉是不可能的
 perception is reality:知觉是现实
 perception is visual:知觉是视觉的
+perception of depth:深度知觉
+perception of motion:运动知觉
 perception of object:知觉的对象
+perception of time:时间知觉
 perception pattern:知觉模式
 perception system:知觉系统
 perception test:知觉测试
@@ -20329,6 +20452,7 @@ period needs:周期需要
 period needs:时期需要
 period nomenclature:时期命名法
 period now:时期现在
+period of civil war:内战时期
 period of contraction:时期的收缩
 period of culture:时期的文化
 period of development:时期的发展
@@ -20340,15 +20464,19 @@ period of greek history:时期的希腊历史
 period of hibernation:时期的冬眠
 period of high-speed:时期的高速度
 period of history:时期的历史
+period of independence:独立时期
 period of innovation:时期的创新
 period of life:时期的生活
+period of martial law:戒严时期
 period of microsoft:时期的微软
 period of military aggression:时期的军事侵略
 period of mobilization for the suppression of communist rebellion:動員戡亂
+period of oscillation:振动周期
 period of peace:时期的和平
 period of political repression:时期的政治迫害
 period of professional work experience:时期的专业工作经验
 period of professional work:时期的专业工作
+period of reconstruction:重建时期
 period of reject:时期的拒绝
 period of study:时期的研究
 period of suffering:时期的痛苦
@@ -20356,6 +20484,7 @@ period of sustainable development:时期的可持续发展
 period of tennis:时期的网球
 period of travel look:时期的旅行看
 period of uncertainty:时期的不确定性
+period of war:战争时期
 period of work:时期的工作
 period offer:时期提供
 period only a few:时期只有几
@@ -20453,6 +20582,7 @@ periodic table apps:元素周期表应用程序
 periodic table contain:元素周期表包含
 periodic table give:周期表给
 periodic table help:周期表帮助
+periodic table of elements:元素周期表
 periodic table offer:周期表提供
 periodic table predict:周期表预测
 periodic table trend:周期表趋势
@@ -20999,6 +21129,7 @@ permit website:许可网站
 permit work:许可工作
 permit would:许可将
 permit:许可
+permittivity of vacuum:真空电容率
 permittivity:电容率
 permjo:彼尔姆
 permjo:彼爾姆
@@ -21546,12 +21677,14 @@ persecution of chinese people in nazi germany:纳粹德国对中国人的迫害
 persecution of christians in the roman empire:羅馬帝國鎮壓基督教
 persecution of christians in the soviet union:苏联对基督徒的迫害
 persecution of christians:對基督徒的迫害
+persecution of diocletian:戴克里先迫害
 persecution of falun gong:对法轮功的镇压
 persecution of homosexuals in nazi germany:纳粹德国对同性恋的迫害及屠杀
 persecution of jehovah's witnesses:耶和华见证人的被迫害史
 persecution of jews:迫害的犹太人
 persecution of journalists:迫害的记者
 persecution of muslims:對穆斯林的迫害
+persecution of religion in ancient rome:古羅馬宗教迫害
 persecution of the montagnard in vietnam:越南對高地民族的迫害
 persecution of uyghurs in china:新疆种族灭绝指控
 persecution or conflict:迫害或冲突
@@ -24758,6 +24891,7 @@ peter i monument:彼得雕像
 peter i of alexandria:亚历山大的彼得一世
 peter i:彼得一世
 peter i:彼得我
+peter ii of brazil:巴西佩德罗二世
 peter ii of sicily:皮埃特羅二世
 peter ii:佩德罗二世
 peter iii:彼得三世
@@ -24968,6 +25102,7 @@ peter the great introduce:彼得大帝介绍
 peter the great learn:彼得大帝学习
 peter the great military academy of the strategic missile forces:捷尔任斯基军事工程学院
 peter the great museum of anthropology and ethnography:内阁的好奇心
+peter the great of russia:俄罗斯彼得大帝
 peter the great saint petersburg:彼得大帝圣彼得堡
 peter the great statue:彼得大帝雕像
 peter the great wish:彼得大帝希望

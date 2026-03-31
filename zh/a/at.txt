@@ -15730,15 +15730,27 @@ atmosphere model:大气模型
 atmosphere modeling:大气建模
 atmosphere models:大气模型
 atmosphere now:大气现在
+atmosphere of earth:地球大气
 atmosphere of earth:地球大气层
+atmosphere of jupiter:木星大气层
 atmosphere of jupiter:木星大氣層
+atmosphere of mars:火星大气
+atmosphere of mars:火星大气层
 atmosphere of mars:火星大氣層
+atmosphere of mercury:水星大气
+atmosphere of mercury:水星大气层
 atmosphere of mercury:水星大氣
 atmosphere of pluto:冥王星大气层
+atmosphere of saturn:土星大气层
+atmosphere of the earth:地球大气
+atmosphere of the earth:地球大气层
+atmosphere of the moon:月球大气层
 atmosphere of the moon:月球大氣層
 atmosphere of titan:土衛六大氣層
 atmosphere of triton:海卫一大气层
 atmosphere of uranus:天王星大氣層
+atmosphere of venus:金星大气
+atmosphere of venus:金星大气层
 atmosphere of venus:金星大氣層
 atmosphere open:大气开
 atmosphere or dust:大气或尘
@@ -18467,23 +18479,38 @@ attorney general of barbados:巴巴多斯律政司
 attorney general of british columbia:卑詩省律政廳長
 attorney general of california:加利福尼亚检察长
 attorney general of gibraltar:直布羅陀律政司
+attorney general of hong kong:香港律政司
+attorney general of ireland:愛爾蘭律政司
 attorney general of israel:以色列檢察總長
 attorney general of malaysia:马来西亚总检察长
 attorney general of montserrat:蒙特塞拉特島律政司
+attorney general of new brunswick:紐賓士域省律政司
 attorney general of new south wales:新南威爾士州律政司
 attorney general of new york:纽约州州检察长
+attorney general of nigeria:尼日利亞律政司
 attorney general of oklahoma:俄克拉荷马州总检察长
+attorney general of ontario:安大略省律政司
 attorney general of ontario:安大略省律政廳長
+attorney general of quebec:魁北克省律政司
 attorney general of queensland:昆士蘭州律政司
+attorney general of singapore:新加坡律政司
 attorney general of south australia:南澳州律政司
 attorney general of tasmania:塔斯曼尼亞州律政司
 attorney general of the australian capital territory:澳洲首都領地律政司
 attorney general of the gambia:岡比亞檢察總長
 attorney general of the northern territory:北領地律政司
+attorney general of upper canada:上加拿大律政司
 attorney general of victoria:維多利亞州律政司
 attorney general of washington:華盛頓州州檢察長
 attorney general of western australia:西澳州律政司
 attorney general:律政司
+attorney-general of barbados:巴巴多斯律政司
+attorney-general of gibraltar:直布羅陀律政司
+attorney-general of ireland:愛爾蘭律政司
+attorney-general of new south wales:新南威爾士州律政司
+attorney-general of ontario:安大略省律政司
+attorney-general of queensland:昆士蘭州律政司
+attorney-general of singapore:新加坡律政司
 attorney-general:律政司
 attosecond laser:阿秒激光
 attosecond laser:阿秒激光器

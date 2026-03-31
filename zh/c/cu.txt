@@ -2035,6 +2035,8 @@ cuisine and tradition:菜系和传统
 cuisine culture:菜系文化
 cuisine francaise:法樂琪
 cuisine minji:明吉小館
+cuisine of china:中国菜系
+cuisine of china:中國菜系
 cuisine of kentucky:肯塔基州飲食
 cuisine of luxembourg:盧森堡飲食
 cuisine of the midwestern united states:美国中西部饮食
@@ -2448,6 +2450,7 @@ cult movies:邪教电影
 cult novel:邪教小说
 cult object:邪教对象
 cult of beauty:邪教的美
+cult of celebrity:名流邪教
 cult of image:邪教的图像
 cult of mary:邪教的玛丽
 cult of personality and one:个人崇拜和一
@@ -2915,6 +2918,7 @@ cultural center:文化中心
 cultural center:文化会馆
 cultural center:文化會館
 cultural center:文化馆
+cultural centre of belém:贝伦文化中心
 cultural centre square:文化中心广场
 cultural centre square:文化中心廣場
 cultural centre:文化中心
@@ -3210,9 +3214,12 @@ cultural heritage matter:文化遗产问题
 cultural heritage ming tombs:文化遗产明十三陵
 cultural heritage museum:文化遗产博物馆
 cultural heritage of mankind:文化遗产的人类
+cultural heritage of quebec:魁北克省文化遗产
 cultural heritage of serbia:塞尔维亚文化遗产
+cultural heritage of the nation:国家文化遗产
 cultural heritage or human life:文化遗产或人类生命
 cultural heritage organisation:文化遗产组织
+cultural heritage organization of iran:伊朗文化遗产组织
 cultural heritage organization:文化遗产组织
 cultural heritage organizations:文化遗产组织
 cultural heritage park, ministry of culture:wénhuàbùwénhuàzīchǎnyuánqū
@@ -3256,6 +3263,8 @@ cultural history is one:文化史是一
 cultural history methodology:文化史方法论
 cultural history museum:文化史博物馆
 cultural history of taiwan:台灣文化史
+cultural history of taiwan:臺灣文化史
+cultural history of the united states:美国文化史
 cultural history:文化史
 cultural history:文化的历史
 cultural home:文化的家
@@ -4693,73 +4702,186 @@ culture now so:文化现在如此
 culture now:文化现在
 culture observation:文化观察
 culture of africa:非洲文化
+culture of algeria:阿尔及利亚文化
+culture of ancient greece:古希腊文化
+culture of ancient rome:古罗马文化
 culture of ancient rome:古羅馬文化
+culture of armenia:亚美尼亚文化
 culture of armenia:亞美尼亞文化
+culture of asia:亚洲文化
 culture of australia:澳大利亚文化
+culture of australia:澳洲文化
+culture of austria:奥地利文化
 culture of austria:奧地利文化
+culture of azerbaijan:亞塞拜然文化
+culture of bangladesh:孟加拉文化
 culture of belarus:白俄罗斯文化
+culture of belarus:白俄羅斯文化
 culture of belgium:比利时文化
+culture of belgium:比利時文化
+culture of benin:贝宁文化
 culture of brazil:巴西文化
+culture of britain:英国文化
+culture of buddhism:佛教文化
 culture of bulgaria:保加利亞文化
+culture of burma:緬甸文化
+culture of burma:缅甸文化
 culture of canada:加拿大文化
+culture of capitalism:资本主义文化
+culture of catalonia:加泰罗尼亚文化
+culture of catalonia:加泰羅尼亞文化
+culture of china:中华人民共和国文化
+culture of china:中国文化
+culture of china:中國文化
+culture of china:中華人民共和國文化
 culture of croatia:克羅埃西亞文化
+culture of cuba:古巴文化
 culture of denmark:丹麥文化
+culture of east asia:东亚文化
+culture of egypt:埃及文化
 culture of england:英格兰文化
+culture of england:英格蘭文化
 culture of estonia:愛沙尼亞文化
+culture of ethiopia:衣索比亞文化
+culture of europe:欧洲文化
+culture of europe:歐洲文化
+culture of fiji:斐济文化
+culture of finland:芬兰文化
+culture of finland:芬蘭文化
+culture of florida:佛罗里达州文化
 culture of france:法国文化
+culture of france:法國文化
+culture of georgia:格魯吉亞文化
 culture of germany:德国文化
+culture of germany:德國文化
+culture of gibraltar:直布羅陀文化
+culture of golasecca:戈拉塞卡文化
+culture of greece:希腊文化
 culture of greece:希臘文化
 culture of haiti:海地文化
 culture of hong kong:香港文化
+culture of hunan:湖南文化
 culture of hunan:湖湘文化
 culture of hungary:匈牙利文化
+culture of iceland:冰岛文化
+culture of iceland:冰島文化
 culture of india:印度文化
+culture of indonesia:印尼文化
+culture of indonesia:印度尼西亚文化
 culture of iran:伊朗文化
+culture of ireland:愛爾蘭文化
+culture of ireland:爱尔兰文化
 culture of israel from:以色列文化从
 culture of israel:以色列文化
+culture of italy:意大利文化
 culture of italy:義大利文化
 culture of japan:日本文化
+culture of jiangxi:江西文化
 culture of jiangxi:赣文化
+culture of judaism:犹太教文化
 culture of korea:朝鲜半岛文化
+culture of korea:朝鲜文化
+culture of korea:韩国文化
 culture of latvia:拉脫維亞文化
+culture of libya:利比亞文化
+culture of life:生活文化
 culture of lithuania:立陶宛文化
+culture of luxembourg:卢森堡文化
 culture of macau:澳門文化
+culture of macau:澳门文化
+culture of macedonia:马其顿文化
+culture of maine:缅因州文化
+culture of mainland china:中国大陆文化
+culture of malaysia:馬來西亞文化
 culture of malaysia:马来西亚文化
 culture of mauritius:毛里求斯文化
 culture of mexico:墨西哥文化
+culture of mongolia:蒙古文化
 culture of mongolia:蒙古族文化
 culture of mumbai:孟买文化
+culture of myanmar:緬甸文化
 culture of myanmar:缅甸文化
 culture of nepal:尼泊尔文化
+culture of netherlands:荷兰文化
+culture of netherlands:荷蘭文化
+culture of new york city:纽约文化
+culture of new york:纽约文化
+culture of new zealand:新西兰文化
 culture of new zealand:紐西蘭文化
+culture of north carolina:北卡罗来纳州文化
+culture of north korea:北韓文化
+culture of north korea:朝鮮文化
 culture of north korea:朝鮮民主主義人民共和國文化
+culture of north korea:朝鲜文化
+culture of north korea:朝鲜民主主义人民共和国文化
+culture of northern ireland:北愛爾蘭文化
+culture of norway:挪威文化
+culture of palestine:巴勒斯坦文化
+culture of papua new guinea:巴布亞新畿內亞文化
+culture of paraguay:巴拉圭文化
+culture of paris:巴黎文化
+culture of peace:和平文化
 culture of peru:秘鲁文化
+culture of poland:波兰文化
 culture of poland:波蘭文化
 culture of portugal:葡萄牙文化
+culture of poverty:贫困文化
 culture of qatar:卡塔尔文化
+culture of quebec:魁北克文化
+culture of romania:罗马尼亚文化
 culture of romania:羅馬尼亞文化
+culture of rome:罗马文化
+culture of rome:羅馬文化
 culture of russia:俄罗斯文化
+culture of russia:俄羅斯文化
+culture of safety:安全文化
 culture of samoa:萨摩亚文化
+culture of scotland:苏格兰文化
+culture of scotland:蘇格蘭文化
+culture of serbia:塞尔维亚文化
 culture of serbia:塞爾維亞文化
 culture of shanghai:上海文化
 culture of shenzhen:深圳文化
 culture of singapore:新加坡文化
 culture of slovakia:斯洛伐克文化
+culture of socialism with chinese characteristics:中国特色社会主义文化
 culture of south africa:南非文化
+culture of south korea:大韓民國文化
+culture of south korea:韓國文化
 culture of south korea:韩国文化
 culture of spain:西班牙文化
 culture of sri lanka:斯里蘭卡文化
+culture of suriname:苏里南文化
 culture of sweden:瑞典文化
+culture of switzerland:瑞士文化
+culture of taiwan:中華民國文化
+culture of taiwan:台湾文化
+culture of taiwan:台灣文化
 culture of taiwan:臺灣文化
+culture of thailand:泰国文化
+culture of thailand:泰國文化
 culture of the netherlands:荷兰文化
+culture of the netherlands:荷蘭文化
 culture of the people's republic of china:中华人民共和国文化
 culture of the song dynasty:宋朝文化
+culture of the soviet union:苏联文化
 culture of the soviet union:蘇聯文化
+culture of the united kingdom:英国文化
 culture of the united kingdom:英國文化
 culture of the united states:美国文化
+culture of tibet:西藏文化
+culture of tunisia:突尼斯文化
+culture of turkey:土耳其文化
 culture of turkmenistan:土庫曼文化
+culture of ukraine:乌克兰文化
+culture of ukraine:烏克蘭文化
 culture of vanuatu:瓦努阿图文化
+culture of vatican city:梵蒂岡文化
+culture of venezuela:委内瑞拉文化
+culture of vermont:佛蒙特州文化
 culture of vietnam:越南文化
+culture of wales:威尔士文化
+culture of wales:威爾斯文化
 culture of western sahara:西撒哈拉文化
 culture of zimbabwe:津巴布韦文化
 culture offer:文化提供
@@ -6139,20 +6261,40 @@ cup needs:杯需要
 cup noodle:杯麵
 cup noodles:合味道
 cup north:杯北
+cup of algeria:阿尔及利亚杯
+cup of austria:奥地利杯
 cup of blessing:杯的祝福
 cup of blood:杯的血
+cup of bosnia and herzegovina:波黑杯
 cup of butter:杯的黄油
+cup of china:中国杯
+cup of china:中國杯
 cup of china:国际滑冰联盟花样滑冰大奖赛中国站
+cup of coffee:咖啡杯
 cup of coffee:杯的咖啡
+cup of congo:刚果杯
+cup of croatia:克罗地亚杯
+cup of croatia:克羅地亞杯
 cup of cup:杯的杯
+cup of gold:金杯
 cup of green tea:杯的綠茶
 cup of hot:杯的熱
 cup of joe:杯的乔
 cup of milk:杯的牛奶
+cup of montenegro:黑山杯
+cup of nice:尼斯杯
+cup of poland:波兰杯
+cup of poland:波蘭杯
+cup of portugal:葡萄牙杯
 cup of prophecy:杯的预言
 cup of qing:一杯青
+cup of russia:俄罗斯杯
+cup of russia:俄羅斯杯
+cup of serbia:塞尔维亚杯
+cup of serbia:塞爾維亞杯
 cup of solid gold:鞏金甌
 cup of spinach:杯的菠菜
+cup of tea:茶杯
 cup of water:杯的水
 cup of whole wheat flour:杯的全麥麵粉
 cup of wisdom:杯子的智慧
@@ -6558,6 +6700,7 @@ curie discover:居里发现
 curie fire:居里火
 curie foundation:居里基金
 curie global:居里全球
+curie institute of paris:巴黎居里研究所
 curie institute:居里研究所
 curie island:居里島
 curie laboratory:居里实验室
@@ -7241,6 +7384,10 @@ currency now:货币现在
 currency numbers:货币数字
 currency of choice:货币的选择
 currency of consent:货币的同意
+currency of germany:德国货币
+currency of iran:伊朗货币
+currency of taiwan:台湾货币
+currency of the united kingdom:英国货币
 currency only:货币只有
 currency open:货币开
 currency operations:货币操作
@@ -13749,6 +13896,7 @@ curse of the bambino:貝比魯斯魔咒
 curse of the billy goat:山羊魔咒
 curse of the colonel:肯德基爺爺詛咒
 curse of the deserted:荒村公寓
+curse of the devil:魔鬼詛咒
 curse of the golden flower:满城尽带黄金甲
 curse of the ninth:第九交響曲魔咒
 curse of the pharaohs:法老的詛咒
@@ -13914,7 +14062,10 @@ curvature influence:曲率影响
 curvature information:曲率信息
 curvature line:曲率线
 curvature math:曲率数学
+curvature of space time:时空曲率
 curvature of space:曲率的空间
+curvature of spacetime:时空曲率
+curvature of the universe:宇宙曲率
 curvature or volume:曲率或体积
 curvature pen:曲率笔
 curvature problems:曲率问题

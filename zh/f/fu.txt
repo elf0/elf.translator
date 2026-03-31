@@ -7007,6 +7007,7 @@ function of laser weapons:功能的激光武器
 function of memory:功能的记忆
 function of pseudogene:功能的假基因
 function of society:功能的社会
+function of state:状态函数
 function of time:关于时间的函数
 function of wood:功能的木材
 function offer:功能提供
@@ -7836,10 +7837,13 @@ functions now return:函数现在返回
 functions now use:函数现在使用
 functions now:函数现在
 functions now:功能现在
+functions of bounded variation:有界变差函数
 functions of cells:功能的细胞
 functions of enzyme:功能的酶
 functions of gene family members:功能的基因家族成员
+functions of money:貨幣功能
 functions of port:功能的端口
+functions of state:状态函数
 functions offer:函数提供
 functions on demand:功能按需
 functions operate:函数操作
@@ -9576,6 +9580,7 @@ funeral meat:葬礼肉
 funeral monument:葬礼纪念碑
 funeral music:葬礼音乐
 funeral not:葬礼不是
+funeral of elizabeth ii:伊丽莎白二世葬礼
 funeral only:葬礼只有
 funeral organize:葬礼组织
 funeral parade:葬礼游行
@@ -13488,6 +13493,7 @@ fusion musician:融合音乐家
 fusion mutation:融合突变
 fusion nameplate:融合铭牌
 fusion of culture:融合的文化
+fusion of helium:氦融合
 fusion of influence:融合的影响
 fusion of powers:议行合一
 fusion of religion:融合的宗教
@@ -16154,6 +16160,7 @@ future game updates:未来的游戏更新
 future game:未来游戏
 future game:未来的游戏
 future gamer:未来的玩家
+future games of london:伦敦未来游戏
 future games:未来游戏
 future games:未来的游戏
 future gene drive:未来的基因驱动

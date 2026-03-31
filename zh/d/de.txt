@@ -2618,8 +2618,10 @@ death of christ:死亡的基督
 death of cold:死亡的冷
 death of comfort:死亡的安慰
 death of count:死亡的计数
+death of death:死死
 death of distance:死亡的距离
 death of elisa lam:藍可兒死亡事件
+death of evil:惡死
 death of fear:死亡的恐惧
 death of form:死亡的形式
 death of freedom:死亡的自由
@@ -6590,6 +6592,7 @@ declaration now:声明现在
 declaration of arbroath:阿布羅斯宣言
 declaration of boulogne:布倫宣言
 declaration of breda:布雷达宣言
+declaration of faith:信仰声明
 declaration of financial interests:利益申報
 declaration of geneva:日內瓦宣言
 declaration of helsinki:赫爾辛基宣言
@@ -6600,6 +6603,7 @@ declaration of independence:獨立宣言列表
 declaration of intent:声明的意图
 declaration of istanbul:伊斯坦堡宣言
 declaration of neutrality:中立宣言
+declaration of paris:巴黎声明
 declaration of pillnitz:皮尔尼茨宣言
 declaration of st james's palace:聖詹姆士宮宣言
 declaration of the rights of man and of the citizen:人权和公民权宣言
@@ -6850,7 +6854,10 @@ decollo in parapendio flyniton:flyniton 滑翔伞起飞
 decolonisation of africa:非洲的非殖民化
 decolonization and social emancipation movement:非殖民化和社会解放运动
 decolonization efforts:去殖民化努力
+decolonization of africa:非洲去殖民化
+decolonization of asia:亞洲去殖民化
 decolonization of the americas:美洲非殖民化
+decolonization of ukraine:烏克蘭去殖民化
 decolonization:去殖民化
 decolonization:反殖民化
 decomino:十格骨牌
@@ -7249,7 +7256,10 @@ decree said:政令说
 decree would:政令将
 decree:政令
 decretum gratiani:格拉提安教令集
+decriminalization of drugs:毒品除罪化
 decriminalization of homosexuality:同性性行為的非刑事化
+decriminalization of homosexuality:同性戀除罪化
+decriminalization of prostitution:性交易除罪化
 decriminalization of sex work:公娼
 decriminalization policy:除罪化政策
 decriminalization:除罪化
@@ -10488,6 +10498,7 @@ defect management:缺陷管理
 defect mark:缺陷标记
 defect mass:缺陷质量
 defect model:缺陷模型
+defect of birth:出生缺陷
 defect often:缺陷常常
 defect operation:缺陷操作
 defect or damage:缺陷或损坏
@@ -10597,6 +10608,9 @@ defence force:防卫力量
 defence forces have been:国防军已经
 defence forces militia:国防军民兵
 defence forces of georgia:格鲁吉亚武装部队
+defence forces of ireland:愛爾蘭国防军
+defence forces of ireland:爱尔兰国防军
+defence forces of the european union:欧盟国防军
 defence forces of the european union:歐盟軍事
 defence forces said:国防军说
 defence forces soon:国防军很快
@@ -10647,6 +10661,14 @@ defence minister martin:国防部长马丁
 defence minister mike:国防部长迈克
 defence minister mohamad sabu:国防部长末沙布
 defence minister ng eng hen:国防部长黄永宏
+defence minister of armenia:亚美尼亚国防部长
+defence minister of germany:德国国防部长
+defence minister of germany:德國国防部长
+defence minister of india:印度国防部长
+defence minister of israel:以色列国防部长
+defence minister of pakistan:巴基斯坦国防部长
+defence minister of poland:波兰国防部长
+defence minister of yugoslavia:南斯拉夫国防部长
 defence minister oscar:国防部长奥斯卡
 defence minister paul:国防部长保罗
 defence minister recently:国防部长最近
@@ -12386,10 +12408,13 @@ definition of friend:定义的朋友
 definition of friends:定义的朋友
 definition of happiness:定义的幸福
 definition of health:定义的健康
+definition of life:生命定义
 definition of memory:定义的记忆
+definition of music:音乐定义
 definition of music:音乐的定义
 definition of nationality:定义的国籍
 definition of overtime:定义的加班
+definition of planet:行星定义
 definition of planet:行星定義
 definition of race:定义的种族
 definition of recession:定义的经济衰退
@@ -12917,6 +12942,7 @@ degree of anonymity:度的匿名
 degree of anxiety:度的焦虑
 degree of application:度的应用
 degree of approximation:度的近似
+degree of arc:弧度
 degree of art:度的艺术
 degree of association:度的关联
 degree of assurance:度的保证
@@ -13059,6 +13085,7 @@ degree of form:度的形式
 degree of freedom and space:度的自由和空間
 degree of freedom of choice:度的选择的自由
 degree of freedom:度的自由
+degree of freedom:自由度
 degree of frustration:度的挫折
 degree of function:度的功能
 degree of functionality:度的功能性
@@ -13114,6 +13141,7 @@ degree of interoperability:度的互操作性
 degree of invention:度的发明
 degree of investor confidence:度的投资者信心
 degree of investor protection:度的投资者保护
+degree of ionization:电离度
 degree of iron deficiency:度的缺铁
 degree of ketosis:度的酮症
 degree of kidney:度的肾脏
@@ -13214,6 +13242,7 @@ degree of punishment:度的惩罚
 degree of purpose:度的目的
 degree of radiation:度的辐射
 degree of reaction:反动度
+degree of reaction:反應度
 degree of real-time:度的实时
 degree of reconciliation:度的和解
 degree of recover:度的恢复
@@ -13874,6 +13903,7 @@ deity king:神王
 deity knows:神知道
 deity love:神爱
 deity of christ:神的基督
+deity of the sun:太阳神
 deity ritual:神仪式
 deity shiva:神湿婆
 deity statue:神雕像
@@ -14688,6 +14718,7 @@ deletion of files:删除的文件
 deletion of high:删除的高
 deletion of important files:删除的重要文件
 deletion of one or more files:删除的一个或多个文件
+deletion of page:页缺失
 deletion operation:删除操作
 deletion operations:删除操作
 deletion option:删除选项
@@ -17327,6 +17358,7 @@ democratic friends:民主的朋友
 democratic front for the liberation of palestine:解放巴勒斯坦民主陣線
 democratic front for the reunification of korea:祖國統一民主主義戰線
 democratic front of albania:阿尔巴尼亚民主阵线
+democratic front of albania:阿爾巴尼亞民主陣線
 democratic front:民主陣線
 democratic future:民主的未来
 democratic future:民主的未来的
@@ -17342,6 +17374,7 @@ democratic government and providing security:民主政府和提供安全
 democratic government decided:民主政府决定
 democratic government museum:民主政府博物馆
 democratic government of albania:阿尔巴尼亚民主政府
+democratic government of albania:阿爾巴尼亞民主政府
 democratic government origin:民主政府起源
 democratic government plan:民主政府计划
 democratic government plans:民主政府计划
@@ -17404,6 +17437,7 @@ democratic left party:民主左翼党
 democratic left people's party:民主左翼人民党
 democratic left scotland:民主左翼苏格兰
 democratic left:民主左翼
+democratic liberal party of armenia:亞美尼亞民主自由黨
 democratic liberal party:民主自由黨
 democratic liberalism:民主的自由主义
 democratic liberation:民主的解放
@@ -17514,16 +17548,60 @@ democratic party needs:民主党需要
 democratic party nomination:民主党提名
 democratic party now:民主党现在
 democratic party obtain:民主党获得
+democratic party of alabama:亚拉巴马州民主党
+democratic party of albania:阿尔巴尼亚民主党
+democratic party of albania:阿爾巴尼亞民主党
 democratic party of albania:阿爾巴尼亞民主黨
+democratic party of arkansas:阿肯色州民主党
+democratic party of armenia:亚美尼亚民主党
 democratic party of armenia:亞美尼亞民主黨
+democratic party of artsakh:阿尔察赫民主党
+democratic party of australia:澳大利亚民主党
+democratic party of azerbaijan:阿塞拜疆民主党
+democratic party of benin:贝宁民主党
+democratic party of chile:智利民主党
+democratic party of cyprus:塞浦路斯民主党
+democratic party of côte d'ivoire:科特迪瓦民主党
+democratic party of equatorial guinea:赤道几内亚民主党
+democratic party of germany:德国民主党
+democratic party of guam:关岛民主党
+democratic party of hong kong:香港民主党
+democratic party of indiana:印第安纳州民主党
+democratic party of indonesia:印尼民主党
 democratic party of iranian kurdistan:伊朗库尔德斯坦民主党
+democratic party of italy:意大利民主党
+democratic party of ivory coast:科特迪瓦民主党
+democratic party of japan:日本民主党
 democratic party of kazakhstan:哈薩克民主黨
+democratic party of korea:朝鲜民主党
+democratic party of korea:韩国民主党
 democratic party of kosovo:科索沃民主党
+democratic party of labour:工人民主党
+democratic party of minnesota:明尼苏达民主党
+democratic party of moldova:摩尔多瓦民主党
+democratic party of mongolia:蒙古民主党
+democratic party of pennsylvania:宾夕法尼亚州民主党
 democratic party of pensioners of slovenia:斯洛維尼亞退休者民主黨
+democratic party of peru:秘鲁民主党
+democratic party of republika srpska:塞族共和国民主党
+democratic party of roma:罗马民主党
 democratic party of russia:俄罗斯民主党
+democratic party of senegal:塞内加尔民主党
+democratic party of serbia:塞尔维亚民主党
+democratic party of serbs:塞爾維亞族民主党
+democratic party of slovenia:斯洛文尼亚民主党
 democratic party of socialists of montenegro:黑山社会主义者民主党
+democratic party of south africa:南非民主党
+democratic party of tajikistan:塔吉克斯坦民主党
+democratic party of tajikistan:塔吉克民主党
+democratic party of texas:德克萨斯民主党
+democratic party of thailand:泰国民主党
 democratic party of the left:左派民主黨
+democratic party of the philippines:菲律宾民主党
+democratic party of the united states:美国民主党
+democratic party of turkmenistan:土库曼斯坦民主党
 democratic party of turkmenistan:土庫曼斯坦民主黨
+democratic party of ukraine:乌克兰民主党
 democratic party of vietnam:越南民主党
 democratic party office:民主党办公室
 democratic party officials and u.s. government:民主党官员和美国政府
@@ -17597,6 +17675,7 @@ democratic procedure:民主的程序
 democratic process:民主的过程
 democratic programmable:民主的可编程
 democratic progressive party (headquarters):民主進步黨中央黨部
+democratic progressive party of hong kong:香港民主進步黨
 democratic progressive party:民主進步黨
 democratic project:民主的项目
 democratic provisional government:民主的臨時政府
@@ -17796,6 +17875,9 @@ democratization level:民主化水平
 democratization of art:民主化的艺术
 democratization of blockchain:民主化的区块链
 democratization of knowledge:知识民主化
+democratization of south korea:韓國民主化
+democratization of south korea:韩国民主化
+democratization of spain:西班牙民主化
 democratization of trust:民主化的信任
 democratization or democracy:民主化或民主
 democratization policy council:民主化政策委员会
@@ -20059,9 +20141,13 @@ density no longer:密度不再
 density nylon:密度尼龙
 density of air:空气密度
 density of hair follicle:密度的毛囊
+density of population:人口密度
+density of population:种群密度
 density of scientific:密度的科学
+density of sea water:海水密度
 density of social relationship:密度的社交关系
 density of states:状态密度
+density of the universe:宇宙密度
 density only:密度只有
 density open:密度开
 density optical disc:密度光碟
@@ -21227,6 +21313,8 @@ department news:部门新闻
 department no longer:部门不再
 department notice:部门注意
 department now:部门现在
+department of administration:管理系
+department of administration:管理部门
 department of agriculture and food:農業食品部
 department of agriculture and new york state:农业部和纽约州
 department of agriculture began:农业部开始
@@ -21248,15 +21336,25 @@ department of agriculture tell:农业部告诉
 department of agriculture website:农业部网站
 department of agriculture work:农业部工作
 department of agriculture would:农业部将
+department of agriculture:农业系
 department of agriculture:农业部
+department of agriculture:农业部门
+department of air:空气系
+department of aircraft production:飞机生产部门
 department of alaska:阿拉斯加署
 department of ancash:安卡什大区
 department of animal science:中興大學動物科學系
+department of architecture:建筑学系
+department of architecture:建筑系
 department of arequipa:阿雷基帕大区
 department of asian affairs:中华人民共和国外交部亚洲司
 department of automation:自动化系
 department of automation:自動化系
+department of aviation:航空系
+department of aviation:航空部门
 department of ayacucho:阿亚库乔大区
+department of biology:生物学系
+department of buildings:建筑系
 department of business administration:工業與資訊管理學系
 department of cajamarca:卡哈马卡大区
 department of canadian heritage:加拿大文化遺產部
@@ -21274,9 +21372,12 @@ department of chinese studies:馬大中文系
 department of chinese studies:马大中文系
 department of civil engineering:土木工程系
 department of civil judgement enforcement:巴地头顿省民事案执法局
+department of communication studies:传播学系
 department of computer science and technology:計算機科學與科技系
 department of computer science and technology:计算机科学与技术系
+department of computer science:计算机科学系
 department of conscription administration:內政部役政司
+department of construction:建筑系
 department of construction:胡志明市建设局
 department of consular affairs:外交部领事司
 department of culture and sports:胡志明市文化体育厅
@@ -21375,8 +21476,11 @@ department of defense website:国防部网站
 department of defense will begin testing:国防部将开始测试
 department of defense would:国防部将
 department of defense:国防部
+department of disease control:疾病控制部门
 department of divinities:神祇官
 department of economic development:部门的经济发展
+department of economics:經濟學系
+department of economics:经济学系
 department of education acquire:教育部获得
 department of education and bloomberg:教育部和彭博
 department of education and training:教育厅
@@ -21403,9 +21507,13 @@ department of education website:教育部网站
 department of education will:教育部会
 department of education would:教育部将
 department of education, taoyuan:桃園市政府教育局
+department of education:教育系
 department of education:教育部
+department of education:教育部门
 department of electrical & electronic:電機系系所
+department of electrical engineering:电子工程系
 department of electrical engineering:电机工程与应用电子技术系
+department of electrical engineering:電機工程學系
 department of electrical engineering:電機工程與應用電子技術系
 department of electronic engineering:电子工程系
 department of electronic engineering:電子工程系
@@ -21469,18 +21577,28 @@ department of energy violate:能源部违反
 department of energy website:能源部网站
 department of energy wide:能源部宽
 department of energy:能源部
+department of energy:能源部门
 department of engineering physics:工程物理系
 department of engineering science:工程科學系
+department of english:英语系
+department of environment:环境系
+department of environmental protection:环保部门
 department of finance at tilburg university:财政部在蒂尔堡大学
 department of finance canada:加拿大財政部
 department of finance control:财政部控制
 department of finance website:财政部网站
 department of finance:财政部
+department of finance:财政部门
+department of finance:金融系
 department of foreign affairs and trade:澳大利亚外交贸易部
 department of foreign language and literature:外国语言文学系
 department of foreign language and literature:外國語言文學系
+department of forest:森林系
+department of geography:地理学系
+department of geography:地理系
 department of geomatics:測量系館
 department of government efficiency:政府效率部
+department of government:政府部门
 department of health (outbound) office:衞生署（出境）辦公室
 department of health and aged care:澳洲衛生和老年護理部
 department of health and human services:卫生部和人类服务
@@ -21517,6 +21635,8 @@ department of health:卫生局
 department of health:卫生部
 department of health:衛生局
 department of history, national chengchi university:國立政治大學歷史學系
+department of history:历史系
+department of home:家系
 department of homeland security agent:国土安全部特工
 department of homeland security also has:国土安全部也有
 department of homeland security and customs:国土安全部和海关
@@ -21569,6 +21689,7 @@ department of homeland security will propose:国土安全部将提议
 department of homeland security would:国土安全部将
 department of homeland security:国土安全部
 department of huancavelica:萬卡韋利卡大區
+department of human resources:人力资源部门
 department of hydraulic engineering:水力水电工程系
 department of hydraulic engineering:水力水電工程系
 department of ica:伊卡大区
@@ -21579,67 +21700,102 @@ department of industry and development:工业部和发展
 department of industry and trade:工商厅
 department of industry and ubs:工业部与瑞银集团
 department of industry:工业部
+department of industry:工业部门
 department of information and communications:通信专通厅
 department of information management, chung yuan christian university:資訊管理學系
 department of information networking technology:資訊網路技術系
+department of information:信息系
 department of international relations and cooperation said:南非国际关系与合作部说
 department of international relations and cooperation:南非国际关系与合作部
+department of international relations:國際關係學系
 department of islamic development malaysia:马来西亚伊斯兰教发展局
+department of journalism:新闻学系
 department of junín:胡宁大区
 department of junín:胡寧大區
+department of justice:司法部门
 department of la libertad:拉利伯塔德大区
 department of labor building:美国劳工部大楼
 department of labor:劳动部
 department of lambayeque:兰巴耶克大区
 department of lambayeque:蘭巴耶克大區
+department of law:法律系
 department of lima:利馬大區
+department of linguistics:语言学系
 department of loreto:洛雷托大区
 department of lorraine:洛林专區
 department of madre de dios:马德雷德迪奥斯大区
+department of markets:市场系
+department of materials:材料系
 department of mathematical sciences:数学科学系
+department of mathematics:数学系
 department of mathematics:鴻經館
 department of mechanical engineering:机械工程系
 department of mechanical engineering:機械工程系
 department of moquegua:莫克瓜大区
 department of music, school of art and communication:艺术与传播学院音乐系
 department of music:音乐楼
+department of music:音乐系
+department of national security:国家安全部门
 department of natural resources and environment:财源环境厅
+department of navy:海军系
 department of nuclear and fossil power projects:核能火力发电工程处
 department of nuclear and fossil power projects:核能火力發電工程處
 department of numbers:部门的数字
 department of organizations:部门的组织
 department of paraguari:巴拉瓜裡省
 department of pasco:帕斯科大区
+department of pathology:病理学系
+department of peace studies:和平研究系
+department of philosophy:哲学系
 department of physical education:体育部
+department of physics:物理学系
 department of physics:物理系
 department of piura:皮乌拉大区
 department of piura:皮烏拉大區
 department of planning and investment:计划投资厅
+department of police:警察部门
+department of political science:政治学系
 department of political science:政治學系
 department of precision instrument:精密仪器系
 department of precision instrument:精密儀器系
 department of precision instruments (9003 building):9003大楼
 department of precision instruments (9003 building):9003大樓
+department of propaganda:宣传部门
+department of psychology:心理学系
+department of public health:公共卫生系
+department of public safety:公共安全部门
 department of puno:普诺大区
 department of renewable energy:再生能源處
 department of revenue web site:部门的收入网站
 department of revenue:部门的收入
+department of safety:安全部门
 department of science and technolgy of shangdong province:山东省科学技术厅
 department of science and technology:科技部
+department of security:安全部门
+department of social anthropology:社會人類學系
+department of sociology:社会学系
+department of sports:运动系
+department of sports:运动部门
 department of statistics, malaysia:馬來西亞統計局
 department of statistics, malaysia:马来西亚统计局
 department of statistics:统计局
 department of stomatology, qiqihar hospital of traditional chinese medicine:齊齊哈爾市中醫醫院口腔科
 department of stomatology, qiqihar hospital of traditional chinese medicine:齐齐哈尔市中医医院口腔科
+department of surgery:外科系
 department of tacna:塔克纳大区
 department of taxation, taoyuan:地方稅務局
+department of the environment:环境系
+department of the navy:海军系
 department of thought:部门的思想
 department of tourism and recreation mangagement:觀光與遊憩管理系
 department of trade and industry:贸易工业部
 department of tumbes:通贝斯大区
 department of ucayali:乌卡亚利大区
+department of war:战争部门
 department of water conservancy dormitory:shuǐlì sùshè
 department of water conservancy dormitory:水利宿舍
+department of water:水系
+department of water:水部门
 department of western philosophy:系的西方哲学
 department of work:部门的工作
 department offer:系提供
@@ -22086,6 +22242,9 @@ dependensi ross:罗斯属地
 dependent and independent variables:自变量和因变量
 dependent clause:從屬子句
 dependent personality disorder:依賴型人格障礙
+dependent territory of new zealand:新西兰属地
+dependent territory of norway:挪威属地
+dependent territory of the united kingdom:英国属地
 dependent territory:属地
 dependent type system seems:依赖类型系统看起来
 dependent type system:依赖类型系统
@@ -24014,6 +24173,7 @@ deprivation and health:剥夺和健康
 deprivation jail:剥夺监狱
 deprivation levels:剥夺水平
 deprivation of rights:剥夺的权利
+deprivation of sleep:睡眠剥夺
 deprivation or abuse:剥夺或虐待
 deprivation percentage:剥夺百分比
 deprivation problem:剥夺问题
@@ -24527,17 +24687,35 @@ deputy president of kenya:肯尼亚副总统
 deputy president of south africa:南非副總統
 deputy prime minister alins:副總理阿林斯
 deputy prime minister luigi:副總理路易吉
+deputy prime minister of albania:阿爾巴尼亞副總理
 deputy prime minister of australia:澳大利亚副总理
+deputy prime minister of australia:澳洲副總理
+deputy prime minister of azerbaijan:亞塞拜然副總理
 deputy prime minister of canada:加拿大副總理
+deputy prime minister of egypt:埃及副總理
+deputy prime minister of france:法國副總理
 deputy prime minister of greece:希腊副总理
+deputy prime minister of greece:希臘副總理
+deputy prime minister of iran:伊朗副總理
+deputy prime minister of israel:以色列副總理
+deputy prime minister of japan:日本副總理
 deputy prime minister of malaysia:马来西亚副首相
+deputy prime minister of mongolia:蒙古國副總理
+deputy prime minister of new zealand:紐西蘭副總理
 deputy prime minister of pakistan:巴基斯坦副總理
+deputy prime minister of poland:波蘭副總理
 deputy prime minister of prussia:普鲁士副内阁首长
+deputy prime minister of russia:俄羅斯副總理
 deputy prime minister of singapore teo chee hean:新加坡副总理张志贤
 deputy prime minister of singapore:新加坡副总理
+deputy prime minister of singapore:新加坡副總理
 deputy prime minister of spain:西班牙副首相
+deputy prime minister of thailand:泰國副總理
+deputy prime minister of the government:政府副總理
 deputy prime minister of the united kingdom:英國副首相
+deputy prime minister of ukraine:烏克蘭副總理
 deputy prime minister of vietnam:越南副總理
+deputy prime minister of yemen:也門副總理
 deputy prime minister recently:副總理最近
 deputy prime minister:副總理
 deputy secretary general of the state council:中华人民共和国国务院副秘书长
@@ -24786,6 +24964,7 @@ derby meeting:德比会议
 derby missile:德比导弹
 derby museum and art gallery:德比博物馆与艺术画廊
 derby museum:德比博物馆
+derby of the americas:美洲德比
 derby online:德比在线
 derby opponent:德比对手
 derby participants:德比参与者
@@ -26210,6 +26389,7 @@ description of all phenomena:描述的所有现象
 description of death:描述的死亡
 description of hell:描述的地獄
 description of how to:描述的如何
+description of language:语言描述
 description of photos:描述的照片
 description of plymouth colony:描述的普利茅斯殖民地
 description of symptoms:描述的症状
@@ -26328,6 +26508,7 @@ desert lidless skink:沙地泛蜥
 desert locust:沙漠蝗蟲
 desert líbic:利比亚沙漠
 desert monitor:荒漠巨蜥
+desert of sin:中国荒漠
 desert pavement:岩漠
 desert planet tatooine:沙漠行星塔图因
 desert planet:沙漠行星
@@ -26796,6 +26977,7 @@ design and aerodynamics:设计和空气动力学
 design and aesthetics:设计和美学
 design and analysis algorithms:设计和分析算法
 design and analysis company:设计和分析公司
+design and analysis of algorithms:算法设计与分析
 design and analysis of algorithms:设计和算法分析
 design and analysis option:设计和分析选项
 design and analysis process:设计与分析过程
@@ -29331,8 +29513,11 @@ design observer:设计观察者
 design obstacles:设计障碍
 design obtain:设计获得
 design ocean:设计海洋
+design of cities:城市設計
+design of cities:城市设计
 design of design:設計的設計
 design of design:设计的设计
+design of drugs:药物设计
 design of experiments:试验设计
 design of furniture:設計的家具
 design of goods:设计的商品
@@ -40144,6 +40329,11 @@ development bank kfw:开发银行德国复兴信贷银行
 development bank manage:开发银行管理
 development bank meeting:开发银行会议
 development bank netherlands:开发银行荷兰
+development bank of japan:日本开发银行
+development bank of sarawak:砂拉越发展银行
+development bank of singapore:新加坡发展银行
+development bank of south africa:南非发展银行
+development bank of south africa:南非开发银行
 development bank partners:开发银行合作伙伴
 development bank plans:开发银行计划
 development bank reflect:开发银行反映
@@ -41175,11 +41365,13 @@ development obligation:开发义务
 development of a child:发展的一个孩子
 development of a new device:发展的一个新的设备
 development of a nuclear reactor:发展的一个核反应堆
+development of agriculture:农业发展
 development of another direction:发展的另一个方向
 development of antibiotic:开发的抗生素
 development of applications:开发的应用
 development of artificial intelligence algorithms:开发的人工智能算法
 development of brain:发展的大脑
+development of children:儿童发展
 development of children:发展的儿童
 development of china:发展的中国
 development of civilization:发展的文明
@@ -41193,6 +41385,7 @@ development of deism:发展的自然神论
 development of dependence:发展的依赖
 development of electric bicycle:开发的电动自行车
 development of enterprise production:发展的企业生产
+development of enterprise:企业发展
 development of enterprise:发展的企业
 development of fashion:开发的时尚
 development of ferritic stainless steel:开发的铁素体不锈钢
@@ -41205,6 +41398,8 @@ development of hotel:开发的酒店
 development of importance:发展的重要性
 development of key strategic:发展的关键战略
 development of knowledge:发展的知识
+development of land:土地开发
+development of language:语言发展
 development of logic:发展的逻辑
 development of many label:开发的很多标签
 development of mathematical model:发展的数学模型
@@ -41227,10 +41422,12 @@ development of professional software:开发的专业软件
 development of purpose:开发的目的
 development of real-time stream:开发的实时流
 development of relationship:发展的关系
+development of religion:宗教发展
 development of research:发展的研究
 development of researchers:发展的研究人员
 development of risks:发展的风险
 development of science and technology:发展的科技
+development of science:科学发展
 development of several:发展的几个
 development of software:开发的软件
 development of solutions:开发的解决方案

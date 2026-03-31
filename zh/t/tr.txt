@@ -1937,6 +1937,7 @@ trade policy issue:贸易政策问题
 trade policy issues:贸易政策问题
 trade policy lever:贸易政策杠杆
 trade policy minister:贸易政策部长
+trade policy of south korea:韩国贸易政策
 trade policy office:贸易政策办公室
 trade policy preference:贸易政策偏好
 trade policy problems:贸易政策问题
@@ -2283,6 +2284,7 @@ trade union boss:工会老板
 trade union bureaucrats:工会官僚们
 trade union cabinet:工会内阁
 trade union center:工会中心
+trade union centre of india:印度工会中心
 trade union centre:工会中心
 trade union chairman:工会主席
 trade union club:工会俱乐部
@@ -5227,6 +5229,7 @@ traditional medicine international development:传统医学国际发展
 traditional medicine international:传统医学国际
 traditional medicine intervention:传统医学干预
 traditional medicine museum:传统医学博物馆
+traditional medicine of india:印度传统医学
 traditional medicine origin:传统医学起源
 traditional medicine practice:传统医学实践
 traditional medicine professor:传统医学教授
@@ -13409,12 +13412,19 @@ transfer of five-year:转移的五年
 transfer of five:转移的五
 transfer of goods:转让的商品
 transfer of greenhouse gas emission reduction:转让的温室气体减排
+transfer of heat:热传输
+transfer of heat:热传递
 transfer of ideal:转移的理想
 transfer of impulse:转移的冲动
 transfer of information:传递的信息
+transfer of knowledge:知識轉移
+transfer of knowledge:知识转移
 transfer of learning:学习迁移
 transfer of merit:迴向
+transfer of power:电力传输
 transfer of soul:转让的灵魂
+transfer of technology:技术转移
+transfer of technology:技术转让
 transfer of the portuguese court to brazil:葡萄牙王室播遷巴西
 transfer office:轉移辦公室
 transfer office:转移办公室
@@ -15016,6 +15026,7 @@ translation note:翻译注意
 translation object:翻译对象
 translation of apollo:翻译的阿波罗
 translation of best practice:翻译的最佳实践
+translation of bible:圣经翻译
 translation of book:翻译的书
 translation of gender role:翻译的性别角色
 translation of hao jingfang:翻译的郝景芳
@@ -15024,6 +15035,7 @@ translation of poetry:翻译的诗歌
 translation of research:翻译的研究
 translation of sophocles:翻译的索福克勒斯
 translation of stem cell technologies:翻译的干细胞技术
+translation of the bible:圣经翻译
 translation of thomas:翻译的托马斯
 translation offer:翻译提供
 translation office:翻译办公室
@@ -15268,6 +15280,7 @@ translations of arabic media:翻译的阿拉伯语媒体
 translations of aristotle:翻译的亚里士多德
 translations of novel:翻译的小说
 translations of plato:翻译的柏拉图
+translations of the bible:圣经翻译
 translations often:翻译常常
 translations or interpretation:翻译或解释
 translations page:翻译页
@@ -15384,6 +15397,7 @@ transmission location:传送位置
 transmission media:传送媒体
 transmission medium:传递介质
 transmission network:传送网络
+transmission of data:数据传送
 transmission of the greek classics:古希腊著作的流传
 transmission optimization mechanism:传送优化机制
 transmission optimization:传送优化
@@ -15605,6 +15619,7 @@ transparency minister:透明部长
 transparency mode:透明模式
 transparency network:透明网络
 transparency of financial markets:透明的金融市场
+transparency of government:政府透明
 transparency of management:透明的管理
 transparency of transactions:透明的交易
 transparency option:透明选项
@@ -16034,6 +16049,7 @@ transport decisions:运输决策
 transport demand:运输需求
 transport demands:运输要求
 transport density:运输密度
+transport department of hong kong:香港運輸署
 transport department office of the commissioners:运输署署长办公室
 transport department office of the commissioners:運輸署署長辦公室
 transport department vehicle examination complex:運輸署車輛檢驗綜合大樓
@@ -17318,6 +17334,7 @@ transportation rules:运输规则
 transportation safety and policy:运输安全和政策
 transportation safety and security:运输安全和安全
 transportation safety board chairman:運輸安全委員會主席
+transportation safety board of canada:加拿大運輸安全委員會
 transportation safety board:運輸安全委員會
 transportation safety bureau:运输安全局
 transportation safety committee chairman:运输安全委员会主席
@@ -19384,6 +19401,7 @@ treasury executive office for asset forfeiture:资产没收国库执行办公室
 treasury gardens:财政部花园
 treasury hall:宝库大厅
 treasury islands:特雷熱里群島
+treasury of atreus:阿特柔斯宝库
 treasury of atreus:阿特柔斯寶庫
 treasury section:出納處
 treasury stock:库藏股
@@ -20266,6 +20284,7 @@ treatment now:治疗现在
 treatment object:治疗对象
 treatment obligation:治疗义务
 treatment observation:治疗观察
+treatment of cancer:癌症治疗
 treatment offer:治疗提供
 treatment offer:疗法提供
 treatment often:治疗常常
@@ -20625,145 +20644,297 @@ treaty no longer:条约不再
 treaty norm:条约规范
 treaty now:条约现在
 treaty obligation:条约义务
+treaty of aachen:亚琛条约
+treaty of addis ababa:亚的斯亚贝巴条约
 treaty of addis ababa:亞的斯亞貝巴條約
+treaty of aigun:瑷珲条约
 treaty of aigun:璦琿條約
 treaty of aix la chapelle:亞琛和約
+treaty of aix-la-chapelle:亚琛条约
 treaty of al hudaybiya:侯代比亚和约
 treaty of allahabad:阿拉哈巴德条约
+treaty of alliance:联盟条约
 treaty of alton:奥尔顿条约
+treaty of amiens:亚眠条约
 treaty of amiens:亞眠和約
 treaty of amity and cooperation in southeast asia:东南亚友好合作条约
+treaty of amritsar:阿姆利则条约
 treaty of amsterdam:阿姆斯特丹条约
+treaty of anagni:阿纳尼条约
 treaty of andelot:昂代洛條約
+treaty of ankara:安卡拉条约
 treaty of apamea:阿帕米亞和約
+treaty of aranjuez:阿兰胡埃斯条约
+treaty of arras:阿拉斯条约
 treaty of athis sur orge:奥尔日河畔阿蒂斯条约
+treaty of baden:巴登条约
 treaty of bakhchisarai:巴赫奇薩賴條約
+treaty of bangkok:曼谷条约
+treaty of barcelona:巴塞罗那条约
 treaty of bardo:巴尔杜条约
+treaty of basel:巴塞尔条约
 treaty of batum:巴统条约
+treaty of bautzen:包岑条约
+treaty of beijing:北京条约
 treaty of belgrade:貝爾格勒和約
+treaty of belgrade:贝尔格莱德条约
+treaty of berlin:柏林条约
 treaty of berlin:柏林條約
 treaty of bern:伯爾尼條約
+treaty of bila tserkva:白采尔克瓦条约
 treaty of bonn:波恩協議
+treaty of bonn:波恩条约
+treaty of breda:布雷达条约
 treaty of breslau:布雷斯勞條約
+treaty of brest:布列斯特条约
 treaty of bromberg:布龍貝格條約
+treaty of bromberg:比得哥什条约
+treaty of bruges:布鲁日条约
+treaty of brussels:布鲁塞尔条约
+treaty of buchach:布恰奇条约
 treaty of buchach:布恰奇條約
+treaty of bucharest:布加勒斯特条约
 treaty of bucharest:布加勒斯特條約
+treaty of buczacz:布恰奇条约
+treaty of bydgoszcz:比得哥什条约
+treaty of caen:卡昂条约
 treaty of caen:康城和約
+treaty of cambrai:康布雷条约
 treaty of campo formio:坎波福爾米奧條約
+treaty of canterbury:坎特伯雷条约
 treaty of canton:中瑞挪廣州和約貿易章程
 treaty of chaumont:休蒙條約
+treaty of ciudad juárez:华雷斯城条约
+treaty of constantinople:君士坦丁堡条约
 treaty of constantinople:君士坦丁堡條約
+treaty of copenhagen:哥本哈根条约
 treaty of craiova:克拉约瓦条约
+treaty of cudnów:丘德尼夫条约
 treaty of darin:達林條約
 treaty of devol:迪沃尔条约
+treaty of dover:多佛条约
+treaty of dresden:德累斯顿条约
+treaty of edinburgh:爱丁堡条约
 treaty of elche:埃尔切条约
+treaty of european union:欧洲联盟条约
+treaty of european union:欧盟条约
 treaty of federation:俄罗斯联邦条约
+treaty of federation:联盟条约
 treaty of fes:非斯条约
+treaty of fez:非斯条约
 treaty of fontainebleau:枫丹白露条约
+treaty of fort wayne:韦恩堡条约
 treaty of fredrikshamn:弗雷德里克港和约
 treaty of friendship and alliance between the government of mongolia and tibet:蒙藏條約
 treaty of gallipoli:加里波利條約
+treaty of ganghwa:江华岛条约
 treaty of georgievsk:乔治亚夫斯克条约
 treaty of ghent end:根特条约结束
 treaty of ghent peace:根特条约和平
 treaty of ghent:根特条约
 treaty of good neighbourship:德波睦鄰條約
+treaty of granada:格拉纳达条约
+treaty of greenville:格林维尔条约
 treaty of gulistan:古利斯坦条约
 treaty of gyehae:癸亥条约
 treaty of hadiach:哈佳奇条约
+treaty of hague:海牙条约
+treaty of hamburg:汉堡条约
+treaty of huangpu:黄埔条约
 treaty of hubertusburg:胡贝图斯堡条约
+treaty of hue:顺化条约
+treaty of hué:顺化条约
+treaty of huế:顺化条约
+treaty of iași:雅西条约
+treaty of istanbul:伊斯坦布尔条约
 treaty of jassy:雅西和约
+treaty of jassy:雅西条约
 treaty of jeddah:吉达条约
+treaty of kalisz:卡利什条约
 treaty of karlowitz conclude:卡洛维茨条约结束
 treaty of karlowitz:卡洛维茨条约
 treaty of kars:卡尔斯条约
+treaty of kiakhta:恰克图条约
+treaty of kiel:基尔条约
 treaty of kiel:基爾條約
+treaty of kraków:克拉科夫条约
 treaty of kulja:中俄伊犁塔爾巴哈臺通商章程
+treaty of kyakhta:恰克图条约
+treaty of lahore:拉合尔条约
 treaty of lausanne monument and museum:洛桑条约纪念碑
 treaty of lausanne monument:洛桑条约纪念碑
+treaty of lausanne:洛桑条约
+treaty of leipzig:莱比锡条约
+treaty of lima:利马条约
+treaty of limerick:利默里克条约
 treaty of lisbon would:里斯本条约将
 treaty of lisbon:里斯本条约
 treaty of livadia:里瓦几亚条约
+treaty of locarno:洛迦诺条约
 treaty of lodi:洛迪和約
+treaty of lodi:洛迪条约
 treaty of london:伦敦条约
+treaty of lund:隆德条约
 treaty of lyubutsk:柳布茨克条约
+treaty of maastricht:马斯特里赫特条约
+treaty of madrid:马德里条约
+treaty of manila:马尼拉条约
 treaty of meerssen:梅尔森条约
 treaty of melno:梅爾諾湖和約
 treaty of merseburg:梅泽堡条约
+treaty of moscow:莫斯科条约
 treaty of moscow:莫斯科條約
+treaty of munster:明斯特条约
 treaty of mutual cooperation and security between the united states and japan:美日安保條約
+treaty of münster:明斯特条约
+treaty of nanjing:南京条约
 treaty of nanking:南京条约
+treaty of nerchinsk:尼布楚条约
 treaty of nerchinsk:尼布楚條約
 treaty of neuberg:诺伊贝格条约
 treaty of neuilly sur seine:讷伊条约
+treaty of neutrality:中立条约
+treaty of new york:纽约条约
 treaty of nice:尼斯条约
+treaty of nijmegen:奈梅亨条约
+treaty of nissa:尼斯条约
+treaty of niš:尼什条约
 treaty of nonsuch:楠萨奇条约
+treaty of northampton:北安普顿条约
 treaty of nystad:尼斯塔德和約
 treaty of oliva:奥利瓦条约
+treaty of oregon:俄勒冈条约
 treaty of osimo:奧西莫條約
+treaty of osnabrück:奥斯纳布吕克条约
+treaty of oxford:牛津条约
 treaty of paris and paris peace accords:巴黎条约和巴黎和平協約
 treaty of paris between italy and the allied powers:對義大利和約
 treaty of paris end:巴黎条约结束
 treaty of paris:巴黎条约
 treaty of passarowitz:帕萨罗维茨条约
 treaty of peace and friendship between japan and china:中日和平友好條約
+treaty of peace:和平条约
+treaty of peking:北京条约
+treaty of pereiaslav:佩列亚斯拉夫条约
+treaty of pereyaslav:佩列亚斯拉夫条约
+treaty of perleberg:佩勒贝格条约
 treaty of perth:珀斯条约
+treaty of petropolis:圣彼得堡条约
 treaty of phoenice:腓尼基和約
+treaty of picquigny:皮基尼条约
 treaty of picquigny:皮基尼條約
 treaty of polyanovka:波利亞諾夫卡條約
+treaty of portsmouth:朴次茅斯条约
 treaty of portsmouth:朴茨茅斯和约
+treaty of portsmouth:朴茨茅斯条约
+treaty of požarevac:波扎雷瓦茨条约
+treaty of prague:布拉格条约
 treaty of punakha:普那卡条约
+treaty of pyrenees:比利牛斯山脉条约
+treaty of rapallo:拉帕洛条约
 treaty of rapallo:拉帕洛條約
 treaty of rarotonga:南太平洋无核区条约
 treaty of rastatt:拉什塔特和約
+treaty of rastatt:拉施塔特条约
+treaty of rawalpindi:拉瓦尔品第条约
 treaty of rhandeia:朗戴亚条约
+treaty of ribe:里伯条约
 treaty of ribemont:里布蒙条约
 treaty of riga:里加和约
+treaty of riga:里加条约
+treaty of rijswijk:赖斯韦克条约
+treaty of ripon:里彭条约
+treaty of rome:罗马条约
 treaty of rome:羅馬條約
 treaty of roskilde:罗斯基勒条约
 treaty of saigon:西貢條約
 treaty of saint clair sur epte:埃普特河畔圣克莱尔条约
+treaty of saint germain:圣日耳曼条约
+treaty of saint petersburg:圣彼得堡条约
+treaty of saint-germain:圣日耳曼条约
+treaty of san francisco:旧金山条约
 treaty of san francisco:舊金山和約
 treaty of san ildefonso:聖伊德方索條約
 treaty of san stefano:聖斯特凡諾條約
+treaty of saragossa:萨拉戈萨条约
+treaty of senlis:桑利斯条约
 treaty of shaoxing:紹興和議
 treaty of shimoda:日俄和亲通好条约
 treaty of shimonoseki:马关条约
+treaty of singapore:新加坡条约
+treaty of st. louis:圣路易斯条约
+treaty of st. petersburg:圣彼得堡条约
+treaty of stettin:什切青条约
+treaty of stockholm:斯德哥尔摩条约
 treaty of stolbovo:斯托爾博沃和約
+treaty of stralsund:施特拉尔松德条约
+treaty of sèvres:塞夫尔条约
 treaty of taipei:中日和約
+treaty of tarascon:塔拉斯孔条约
 treaty of tarawa:塔拉瓦條約
 treaty of tarbagatai:中俄勘分西北界约记
 treaty of tartu:塔尔图和约
+treaty of tartu:塔尔图条约
 treaty of tempe:坦佩和约
+treaty of teschen:泰申条约
 treaty of teusina:特乌西纳和约
 treaty of thapathali:藏尼条约
 treaty of the bogue:虎门条约
 treaty of the dardanelles:達達尼爾條約
+treaty of the european union:欧盟条约
+treaty of the hague:海牙条约
 treaty of the pyrenees:比利牛斯條約
+treaty of thorn:托伦条约
+treaty of tianjin:天津条约
 treaty of tientsin:天津条约
 treaty of tlatelolco:特拉特洛科條約
+treaty of tolentino:托伦蒂诺条约
 treaty of tolentino:托倫蒂諾條約
 treaty of tordesillas:托德西利亚斯条约
 treaty of torrellas:托雷利亚斯条约
+treaty of tours:图尔条约
 treaty of tours:圖爾條約
 treaty of trianon:特里亞農條約
+treaty of tripoli:的黎波里条约
 treaty of troyes:特魯瓦條約
+treaty of troyes:特鲁瓦条约
+treaty of turin:都灵条约
 treaty of turkmenchay:土库曼恰伊条约
+treaty of union:联盟条约
+treaty of utrecht:乌得勒支条约
+treaty of utrecht:乌特勒支条约
+treaty of utrecht:烏特勒支条约
 treaty of venice:威尼斯和约
+treaty of venice:威尼斯条约
 treaty of verdun:凡尔登条约
+treaty of vereeniging:弗里尼欣条约
 treaty of versailles with germany:凡尔赛条约与德国
 treaty of versailles:凡尔赛条约
 treaty of vienna:維也納條約
+treaty of vienna:维也纳条约
+treaty of vilna:维尔纽斯条约
+treaty of vilnius:维尔纽斯条约
+treaty of vordingborg:沃尔丁堡条约
 treaty of waitangi:懷唐伊條約
 treaty of wanghia:望廈條約
+treaty of warsaw:华沙条约
+treaty of washington:华盛顿条约
 treaty of wedmore:韋德莫爾條約
+treaty of westminster:西敏条约
+treaty of whampoa:黃埔条约
 treaty of whampoa:黄埔条约
+treaty of xanten:克桑滕条约
 treaty of xanten:克桑滕條約
 treaty of yandabo:杨达坡条约
+treaty of zamora:萨莫拉条约
 treaty of zamora:薩莫拉條約
 treaty of zaragoza:萨拉戈萨条约
+treaty of zboriv:兹博里夫条约
+treaty of zborov:兹博里夫条约
 treaty of zgorzelec:兹戈热莱茨条约
 treaty of zuhab:佐哈布條約
+treaty of zurich:苏黎世条约
+treaty of zürich:苏黎世条约
 treaty on basic relations between japan and the republic of korea:日韩基本条约
 treaty on conventional armed forces in europe:欧洲常规武装力量条约
 treaty on open skies:開放天空條約
@@ -21183,17 +21354,28 @@ tree noise:树噪音
 tree nut allergy:樹堅果過敏
 tree nutrition:树营养
 tree object:树对象
+tree of death:死亡树
 tree of depth:树的深度
+tree of evolution:演化树
+tree of evolution:进化树
 tree of eyes:树的眼睛
 tree of fire:树的火
+tree of freedom:自由树
 tree of happiness:树的幸福
+tree of hope:希望树
+tree of knowledge system:知识系统树
 tree of knowledge:智慧樹
+tree of knowledge:知识树
 tree of languages:树的语言
+tree of liberty:自由树
 tree of life web project:生命之树网络项目
+tree of life:生命树
 tree of love:树的爱
 tree of prosperity show:吉祥树表演
 tree of prosperity show:吉祥樹表演
+tree of pythagoras:毕达哥拉斯树
 tree of savior:救世者之樹
+tree of smoke:烟树
 tree of the knowledge of good and evil:知善恶树
 tree of wisdom:智慧树
 tree offer:树提供
@@ -21408,6 +21590,7 @@ treecreeper:旋木雀科
 treefish:鋸首平鮋
 treehopper:角蝉科
 treehouse of horror xxii:恐怖的樹屋第二十二集
+treehouse of horror:恐怖樹屋
 treehouse:樹屋
 treelodge @ punggol:绿馨苑
 treemapping:矩形式树状结构绘图法
@@ -22445,6 +22628,7 @@ triangle metal:三角形金属
 triangle notebook:三角形笔记本
 triangle number:三角形数
 triangle numbers:三角形数字
+triangle of darkness:黑暗三角形
 triangle of life:生命三角
 triangle of metal:三角形的金属
 triangle of reference:語義三角
@@ -22688,6 +22872,7 @@ tribe of benjamin:便雅悯支派
 tribe of dan:但支派
 tribe of diaomin boutique hostel:碉民部落精品民宿
 tribe of hip hop:嘻哈民族
+tribe of israel:以色列部落
 tribe of judah:犹大支派
 tribe of levi you:利未支派你
 tribe of levi:利未支派
@@ -22839,6 +23024,7 @@ tribunal means everyone:法庭意味着每个人
 tribunal means:法庭意味着
 tribunal member:法庭成员
 tribunal members:法庭成员
+tribunal of commerce:商业法庭
 tribunal of god:法庭的上帝
 tribunal order:法庭命令
 tribunal pour enfants:少年法庭
@@ -23703,6 +23889,9 @@ trilogy look:三部曲看
 trilogy maintain:三部曲维护
 trilogy needs:三部曲需要
 trilogy no longer:三部曲不再
+trilogy of error:錯誤三部曲
+trilogy of films:电影三部曲
+trilogy of life:生命三部曲
 trilogy of sky:三部曲的天空
 trilogy package:三部曲包
 trilogy presentation:三部曲演示
@@ -24019,6 +24208,7 @@ trinity college historical society:三一学院历史学会
 trinity college kirk:三一学院教堂
 trinity college library:三一学院图书馆
 trinity college london:倫敦聖三一學院
+trinity college of dublin:都柏林三一学院
 trinity college open:三一学院开
 trinity college provides:三一学院提供
 trinity college student:三一学院学生
@@ -24617,6 +24807,7 @@ triumphal arch and funeral monument:凯旋门和葬礼纪念碑
 triumphal arch and funeral:凯旋门和葬礼
 triumphal arch be:凯旋门成为
 triumphal arch from:凯旋门从
+triumphal arch of moscow:莫斯科凯旋门
 triumphal arch of moscow:莫斯科凱旋門
 triumphal arch of orange:奥朗日凯旋门
 triumphal arch:凯旋门

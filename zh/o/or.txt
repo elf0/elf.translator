@@ -25726,6 +25726,8 @@ oracle corporation:甲骨文公司
 oracle health:塞納公司
 oracle machine:預言機
 oracle night:神諭之夜
+oracle of apollo:阿波羅神諭
+oracle of delphi:德尔斐神諭
 oracle park:甲骨文球場
 oracle:神諭
 oracolo nechung:乃琼寺
@@ -26239,9 +26241,14 @@ orbit media:轨道媒体
 orbit method:轨道方法
 orbit mission:轨道任务
 orbit motion:轨道运动
+orbit of earth:地球轨道
 orbit of mars twice:火星轨道两次
 orbit of mars:火星轨道
+orbit of saturn:土星轨道
+orbit of the earth:地球轨道
 orbit of the moon:月球軌道
+orbit of the moon:月球轨道
+orbit of venus:金星轨道
 orbit offer:轨道提供
 orbit or star type:轨道或恒星类型
 orbit or star:轨道或恒星
@@ -26390,6 +26397,7 @@ orchard:果树园
 orchard:果樹園
 orches:奥尔什
 orchestra dell'accademia nazionale di santa cecilia:圣切契利亚音乐学院管弦乐团
+orchestra of paris:巴黎管弦樂團
 orchestra premiere:管弦樂團首演
 orchestra:管弦樂團
 orchestrated objective reduction:协调客观还原
@@ -26823,6 +26831,7 @@ order of pope pius ix:教宗庇護九世騎士團勳章
 order of precedence:排名顺序
 order of prince yaroslav the wise:智者雅羅斯拉夫王子勛章
 order of propitious clouds:卿雲勳章
+order of protection:保护命令
 order of rama:拉玛勋章
 order of reaction:反应级数
 order of saint augustine:圣奥古斯丁修道会
@@ -26894,6 +26903,7 @@ order of the solar temple:太阳圣殿教
 order of the star of south africa:南非之星勳章
 order of the state of the republic of turkey:土耳其共和国国家勋章
 order of the sun of peru:秘鲁太阳勋章
+order of the sun:太阳目
 order of the taegeuk:太極章
 order of the thistle:薊花勳章
 order of the visitation of holy mary:聖母訪親女修會
@@ -26904,6 +26914,7 @@ order of things:订单的事情
 order of ushakov:乌沙科夫勋章
 order of victory:胜利勋章
 order of vytautas the great:維陶塔斯大帝勳章
+order of war:战争命令
 order of war:戰爭命令
 order of wen hu:文虎勳章
 order of world scouts:世界童軍會社
@@ -30880,6 +30891,7 @@ oriental hotel:东亚大酒店
 oriental hotel:光華國際商務大飯店
 oriental house:東方大廈
 oriental info port:东方信息港
+oriental institute of the university of chicago:芝加哥大學東方研究所
 oriental institute:東方研究所
 oriental international plaza:东方国际广场
 oriental kopi @ bandar puteri华阳:华阳
@@ -31125,14 +31137,27 @@ origin movie:起源电影
 origin myth:起源神话
 origin no longer:来源不再
 origin now:起源现在
+origin of language:語言起源
 origin of language:语言的起源
+origin of language:语言起源
 origin of life on earth:起源的地球上的生命
+origin of life:生命起源
+origin of mankind:人类起源
+origin of mankind:人類起源
 origin of music:起源的音乐
 origin of replication component:复制起点组件
 origin of replication:复制起点
+origin of species:物种起源
 origin of the albanians:阿尔巴尼亚人起源问题
+origin of the earth:地球起源
 origin of the huns:匈人的起源
+origin of the moon:月亮起源
 origin of the moon:月球的起源
+origin of the moon:月球起源
+origin of the name:名字来源
+origin of the solar system:太阳系起源
+origin of the universe:宇宙起源
+origin of the world:世界起源
 origin of water on earth:地球上水的来源
 origin old english:起源古英语
 origin one:起源一

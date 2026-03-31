@@ -880,6 +880,7 @@ elasticity model:弹性模型
 elasticity models:弹性模型
 elasticity module:弹性模块
 elasticity number:弹性数
+elasticity of demand:需求弹性
 elasticity parameter:弹性参数
 elasticity problems:弹性问题
 elasticity testing:弹性测试
@@ -1307,9 +1308,12 @@ election climate:選舉氣候
 election clouds:选举云
 election commentator:选举评论员
 election commission chairman:選舉委員會主席
+election commission of bangladesh:孟加拉選舉委員會
 election commission of india:印度选举委员会
+election commission of india:印度選舉委員會
 election commission of malaysia:馬來西亞選舉委員會
 election commission of malaysia:马来西亚选举委员会
+election commission of thailand:泰國選舉委員會
 election commission receive:選舉委員會收到
 election commission secretary:選舉委員會秘書
 election commission sunday:選舉委員會星期日
@@ -1317,6 +1321,7 @@ election commission:選舉委員會
 election commissioner:選舉專員
 election commitment:选举承诺
 election commitment:選舉承諾
+election committee of hong kong:香港選舉委員會
 election committee:选举委员会
 election committee:選舉委員會
 election community:选举社区
@@ -1475,6 +1480,10 @@ election not:选举不是
 election observation and research:选举观察和研究
 election observation:选举观察
 election observer:选举观察者
+election of israel:以色列選舉
+election of legislative council:立法會選舉
+election of president:总统选举
+election of president:总统選舉
 election offer:选举提供
 election office:选举办公室
 election official says:选举官员说
@@ -1923,6 +1932,32 @@ electoral commission of south africa:南非選舉委員會
 electoral count act:选举计数法
 electoral cross:选举的十字
 electoral democracy:选举的民主
+electoral district of auburn:奥本选区
+electoral district of buckingham:白金漢選區
+electoral district of canterbury:坎特伯雷选区
+electoral district of glass house:玻璃屋选区
+electoral district of gordon:戈登选区
+electoral district of horsham:霍舍姆选区
+electoral district of hume:休姆選區
+electoral district of ipswich:伊普斯威奇選區
+electoral district of jordan:佐敦選區
+electoral district of kennedy:肯尼迪選區
+electoral district of melbourne:墨爾本選區
+electoral district of monmouth:蒙茅斯選區
+electoral district of mount isa:伊薩山選區
+electoral district of new england:新英格蘭選區
+electoral district of newcastle:泰恩河畔纽卡斯尔选区
+electoral district of north sydney:北悉尼选区
+electoral district of perth:珀斯选区
+electoral district of rainbow:彩虹選區
+electoral district of richmond:列治文选区
+electoral district of richmond:列治文選區
+electoral district of sherwood:舍伍德选区
+electoral district of stirling:史特靈選區
+electoral district of sydney:悉尼选区
+electoral district of sydney:悉尼選區
+electoral district of sydney:雪梨選區
+electoral district of waterford:沃特福德選區
 electoral district:选区
 electoral district:選區
 electoral districts of poland:波蘭選區
@@ -3176,6 +3211,7 @@ electrolysis laboratory:电解实验室
 electrolysis market:电解市场
 electrolysis method:电解方法
 electrolysis model:电解模型
+electrolysis of water:水电解
 electrolysis of water:水電解
 electrolysis operation:电解操作
 electrolysis polishing:电解抛光
@@ -4554,7 +4590,9 @@ element node:元素节点
 element of choice:元素的选择
 element of chromium:元素的铬
 element of emotion:元素的情感
+element of fire:火元素
 element of fusion:元素的融合
+element of light:光元素
 element of success:元素的成功
 element of syntax format:元素的语法格式
 element of water:元素的水
@@ -4965,15 +5003,20 @@ elements not:元素不是
 elements now:元素现在
 elements of all projects:元素的所有项目
 elements of any type:元素的任何类型
+elements of architecture:建筑元素
 elements of art and principles:艺术元素和原则
 elements of art:元素的艺术
 elements of art:艺术元素
 elements of beauty:元素的美
 elements of bread:元素的麵包
+elements of chemistry:化学元素
+elements of chemistry:化學元素
 elements of color:元素的颜色
 elements of culture:元素的文化
 elements of international law:萬國公法
+elements of life:生命元素
 elements of meditation:元素的冥想
+elements of nature:自然元素
 elements of physics:元素的物理
 elements of solution:元素的解决方案
 elements of style:元素的风格
@@ -8111,6 +8154,7 @@ ellipsis actually:省略号实际上
 ellipsis button:省略号按钮
 ellipsis:省略号
 ellipsoid hill:埃利普索伊德山
+ellipsoid of reference:参考椭球
 ellipsoid:椭球
 ellipsoidal coordinates:橢球坐標系
 ellipsometry:橢圓偏振技術

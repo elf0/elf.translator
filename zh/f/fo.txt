@@ -2704,6 +2704,7 @@ folk metal:民谣金属
 folk museum museum:民俗博物馆博物馆
 folk museum:民俗博物馆
 folk music and dance:民間音樂和舞蹈
+folk music of ireland:愛爾蘭民間音樂
 folk music:民間音樂
 folk pop:流行民謠
 folk psychology:民間心理學
@@ -2770,6 +2771,8 @@ folklore institute:民俗学院
 folklore institute:民俗研究所
 folklore material:民俗材料
 folklore museum:民俗博物馆
+folklore of italy:義大利民俗
+folklore of spain:西班牙民俗
 folklore origin:民俗起源
 folklore performance:民俗表演
 folklore phenomena:民俗现象
@@ -5585,6 +5588,7 @@ food cooperative workers:食品合作社工人
 food cooperative:食品合作社
 food corner:呼呼開飯
 food corner:轉角食堂
+food corporation of india:印度食品公司
 food corporation:食品公司
 food corporations:食品企业
 food corruption:食品腐败
@@ -8259,6 +8263,7 @@ foot odor still:脚臭仍然
 foot odor:脚臭
 foot of ground:脚的地面
 foot of man:脚的男人
+foot of the mountain:山脚
 foot of water:脚的水
 foot of your bed:脚的你的床
 foot once:脚一次
@@ -8464,26 +8469,65 @@ football as well:足球也
 football as:足球当作
 football assistant:足球助理
 football association chairman:足球协会主席
+football association of albania:阿尔巴尼亚足球协会
+football association of bosnia and herzegovina:波斯尼亚和黑塞哥维那足球协会
 football association of bosnia and herzegovina:波斯尼亞和黑塞哥維那足球協會
+football association of bosnia and herzegovina:波黑足球协会
+football association of brunei darussalam:文莱足球协会
 football association of brunei darussalam:汶萊國家足球協會
+football association of brunei:文莱足球协会
+football association of canada:加拿大足球协会
+football association of china:中国足球协会
+football association of china:中國足球协会
+football association of cuba:古巴足球协会
 football association of cuba:古巴足球協會
+football association of england:英格兰足球协会
+football association of finland:芬兰足球协会
 football association of finland:芬蘭足球協會
 football association of greenland:格陵兰足球协会
+football association of hong kong:香港足球协会
+football association of iceland:冰岛足球协会
 football association of iceland:冰島足球協會
+football association of indonesia:印尼足球协会
+football association of indonesia:印度尼西亚足球协会
 football association of indonesia:印度尼西亞足球協會
 football association of ireland:愛爾蘭足球協會
+football association of ireland:爱尔兰足球协会
+football association of kelantan:吉兰丹足球协会
 football association of malawi:馬拉維足球協會
+football association of malawi:马拉维足球协会
 football association of malaysia:馬來西亞足球總會
+football association of malaysia:马来西亚足球协会
 football association of maldives:馬爾代夫足球協會
+football association of maldives:马尔代夫足球协会
+football association of moldova:摩尔多瓦足球协会
+football association of montenegro:黑山足球协会
 football association of montenegro:黑山足球協會
+football association of norway:挪威足球协会
+football association of pahang:彭亨足球协会
+football association of penang:槟城足球协会
+football association of perlis:玻璃市州足球协会
+football association of perlis:玻璃市足球协会
+football association of portugal:葡萄牙足球协会
+football association of republika srpska:塞族共和国足球协会
+football association of sarawak:砂拉越足球协会
 football association of serbia and montenegro:塞爾維亞和黑山足球總會
+football association of serbia:塞尔维亚足球协会
 football association of serbia:塞爾維亞足球協會
+football association of singapore:新加坡足球协会
 football association of singapore:新加坡足球協會
+football association of slovenia:斯洛文尼亚足球协会
 football association of slovenia:斯洛文尼亞足球協會
+football association of sweden:瑞典足球协会
+football association of thailand:泰国足球协会
 football association of thailand:泰國足球協會
 football association of the czech republic:捷克足球協會
+football association of turkmenistan:土库曼斯坦足球协会
+football association of wales:威尔士足球协会
 football association of wales:威爾斯足球協會
+football association of yugoslavia:南斯拉夫足球协会
 football association of zambia:贊比亞足球協會
+football association of zambia:赞比亚足球协会
 football association said:足球协会说
 football association was established in:足球协会成立于
 football association was founded in:足球协会成立于
@@ -8605,6 +8649,7 @@ football club manager:足球俱乐部经理
 football club manchester:足球俱乐部曼彻斯特
 football club members:足球俱乐部成员
 football club museum:足球俱乐部博物馆
+football club of salamanca:萨拉曼卡足球俱乐部
 football club offer:足球俱乐部提供
 football club official website:足球俱乐部官方网站
 football club or our support:足球俱乐部或我们的支持
@@ -8657,6 +8702,7 @@ football create:足球创造
 football crisis:足球危机
 football crowd:足球人群
 football culture:足球文化
+football cup of bosnia and herzegovina:波斯尼亚和黑塞哥维那足球杯
 football cup:足球杯
 football data network media:足球数据网络媒体
 football data:足球数据
@@ -8719,6 +8765,7 @@ football father:足球父亲
 football federation american samoa:美屬薩摩亞足球總會
 football federation islamic republic of iran:伊朗足球協會
 football federation of armenia:亞美尼亞足球總會
+football federation of australia:澳大利亚足球联盟
 football federation of belarus:白俄羅斯足球總會
 football federation of belize:伯利茲足球協會
 football federation of burundi:布隆迪足球協會
@@ -8729,6 +8776,7 @@ football federation of kosovo:科索沃足球聯盟
 football federation of macedonia:北马其顿足球协会
 football federation of sri lanka:斯里蘭卡足球協會
 football federation of the islamic republic of mauritania:毛里塔尼亞足球協會
+football federation of the soviet union:苏联足球联盟
 football federation of timor leste:東帝汶足球協會
 football federation of turkmenistan:土庫曼斯坦足球協會
 football federation samoa:薩摩亞足球協會
@@ -9216,6 +9264,7 @@ football trial:足球审判
 football trophy:足球奖杯
 football tv:足球电视
 football uniform:足球制服
+football union of russia:俄罗斯足球联盟
 football union:足球联合
 football union:足球联盟
 football update:足球更新
@@ -12609,6 +12658,7 @@ forbestra:福綃蝶屬
 forbidden city concert hall:中山公园音乐堂
 forbidden city cop:大內密探零零發
 forbidden city moat:筒子河
+forbidden city of beijing:北京故宫
 forbidden city public relations:故宫公共关系
 forbidden city ticket:故宫票
 forbidden city:gùgōng
@@ -12997,7 +13047,15 @@ force needs:力需要
 force networks:力网络
 force not:力不是
 force of force:力量的力量
+force of habit:习惯力量
+force of infection:感染力
+force of life:生命力
+force of life:生活力
 force of modern man:力的现代男性
+force of nature:自然力
+force of nature:自然力量
+force of the people:人民力量
+force of the revolution:革命力量
 force of truth:力量的真理
 force only:力只有
 force open:力打开
@@ -13556,6 +13614,7 @@ ford now own:福特现在拥有
 ford now:福特现在
 ford nunataks:福特冰原島峰
 ford obtain:福特获得
+ford of europe:歐洲福特
 ford offer:福特提供
 ford officials said:福特官员说
 ford officials:福特官员
@@ -13995,6 +14054,8 @@ foreign exchange reserves investment:外汇储备投资
 foreign exchange reserves management policy:外汇储备管理政策
 foreign exchange reserves management:外汇储备管理
 foreign exchange reserves of china:中华人民共和国外汇储备
+foreign exchange reserves of china:中国外汇储备
+foreign exchange reserves of the people's republic of china:中华人民共和国外汇储备
 foreign exchange reserves reach:外汇储备达到
 foreign exchange reserves rise:外汇储备上升
 foreign exchange reserves rise:外汇储备增长
@@ -14346,6 +14407,47 @@ foreign minister li zhaoxing:外交部长李肇星
 foreign minister louis:外交部长路易斯
 foreign minister marcelo:外交部长马塞洛
 foreign minister nicholas:外交部长尼古拉斯
+foreign minister of argentina:阿根廷外交部长
+foreign minister of armenia:亚美尼亚外交部长
+foreign minister of australia:澳大利亚外交部长
+foreign minister of austria-hungary:奥匈帝国外交部长
+foreign minister of austria:奥地利外交部长
+foreign minister of brazil:巴西外交部长
+foreign minister of canada:加拿大外交部长
+foreign minister of chad:乍得外交部长
+foreign minister of china:中华人民共和国外交部长
+foreign minister of china:中国外交部长
+foreign minister of china:中華人民共和國外交部长
+foreign minister of finland:芬兰外交部长
+foreign minister of france:法国外交部长
+foreign minister of france:法國外交部长
+foreign minister of gabon:加蓬外交部长
+foreign minister of georgia:格鲁吉亚外交部长
+foreign minister of germany:德国外交部长
+foreign minister of greece:希腊外交部长
+foreign minister of hungary:匈牙利外交部长
+foreign minister of india:印度外交部长
+foreign minister of indonesia:印尼外交部长
+foreign minister of iran:伊朗外交部长
+foreign minister of israel:以色列外交部长
+foreign minister of italy:意大利外交部长
+foreign minister of lithuania:立陶宛外交部长
+foreign minister of mexico:墨西哥外交部长
+foreign minister of pakistan:巴基斯坦外交部长
+foreign minister of poland:波兰外交部长
+foreign minister of poland:波蘭外交部长
+foreign minister of portugal:葡萄牙外交部长
+foreign minister of russia:俄罗斯外交部长
+foreign minister of singapore:新加坡外交部长
+foreign minister of south korea:大韩民国外交部长
+foreign minister of south korea:韓國外交部长
+foreign minister of south korea:韩国外交部长
+foreign minister of thailand:泰国外交部长
+foreign minister of the netherlands:荷兰外交部长
+foreign minister of the people's republic of china:中华人民共和国外交部长
+foreign minister of the soviet union:苏联外交部长
+foreign minister of turkey:土耳其外交部长
+foreign minister of ukraine:乌克兰外交部长
 foreign minister osman:外交部长奥斯曼
 foreign minister paul:外交部长保罗
 foreign minister peter:外交部长彼得
@@ -14614,7 +14716,12 @@ foreign policy mistakes:外交政策错误
 foreign policy muscle:外交政策肌肉
 foreign policy now:外交政策现在
 foreign policy obviously:外交政策显然
+foreign policy of china:中华人民共和国外交政策
+foreign policy of china:中国外交政策
+foreign policy of china:中国对外政策
+foreign policy of china:中國外交政策
 foreign policy of the russian empire:俄罗斯帝国外交政策
+foreign policy of the soviet union:苏联外交政策
 foreign policy of the united states:美国外交政策
 foreign policy official:外交政策官員
 foreign policy officials:外交政策官员
@@ -14749,9 +14856,12 @@ foreign relations of bhutan:不丹外交
 foreign relations of bosnia and herzegovina:波斯尼亚和黑塞哥维那建交列表
 foreign relations of brazil:巴西外交
 foreign relations of brunei:文莱外交
+foreign relations of brunei:文莱外交关系
+foreign relations of burma:缅甸外交关系
 foreign relations of cambodia:柬埔寨外交
 foreign relations of cameroon:喀麥隆外交
 foreign relations of canada:加拿大外交
+foreign relations of cape verde:佛得角外交关系
 foreign relations of china:中华人民共和国外交
 foreign relations of estonia:爱沙尼亚外交
 foreign relations of eswatini:斯威士蘭外交
@@ -14760,6 +14870,8 @@ foreign relations of france:法國外交
 foreign relations of georgia:格鲁吉亚外交
 foreign relations of germany:德國外交
 foreign relations of guatemala:危地马拉外交
+foreign relations of guinea-bissau:几内亚比绍外交关系
+foreign relations of guinea:几内亚外交关系
 foreign relations of guinea:幾內亞外交
 foreign relations of haiti:海地外交
 foreign relations of hong kong:香港對外事務
@@ -14769,11 +14881,13 @@ foreign relations of israel:以色列外交
 foreign relations of italy:義大利外交
 foreign relations of japan:日本外交
 foreign relations of kazakhstan:哈萨克斯坦外交
+foreign relations of kazakhstan:哈萨克斯坦外交关系
 foreign relations of korea:朝鲜半岛外交
 foreign relations of kosovo:科索沃外交
 foreign relations of kyrgyzstan:吉尔吉斯斯坦外交
 foreign relations of laos:老撾外交
 foreign relations of latvia:拉脱维亚外交
+foreign relations of liberia:利比里亚外交关系
 foreign relations of lithuania:立陶宛外交
 foreign relations of macau:澳門對外事務
 foreign relations of malaysia:马来西亚外交
@@ -14781,6 +14895,7 @@ foreign relations of mauritius:毛里裘斯外交
 foreign relations of mongolia:蒙古国外交
 foreign relations of montenegro:黑山外交
 foreign relations of myanmar:缅甸外交
+foreign relations of myanmar:缅甸外交关系
 foreign relations of nepal:尼泊尔外交
 foreign relations of nicaragua:尼加拉瓜外交
 foreign relations of north korea:朝鮮民主主義人民共和國外交
@@ -14797,6 +14912,8 @@ foreign relations of south africa:南非外交
 foreign relations of south korea:韩国外交
 foreign relations of south ossetia:南奥塞梯建交列表
 foreign relations of south sudan:南蘇丹建交列表
+foreign relations of spain:西班牙外交关系
+foreign relations of sri lanka:斯里兰卡外交关系
 foreign relations of suriname:苏里南外交
 foreign relations of taiwan:中華民國外交
 foreign relations of tajikistan:塔吉克斯坦外交
@@ -14809,6 +14926,7 @@ foreign relations of the ryukyu kingdom:琉球国外交
 foreign relations of the sahrawi arab democratic republic:阿拉伯撒哈拉民主共和国外交
 foreign relations of the sovereign military order of malta:马耳他骑士团建交列表
 foreign relations of the soviet union:苏联外交
+foreign relations of the soviet union:苏联外交关系
 foreign relations of the united kingdom:英国外交
 foreign relations of the united states:美国外交
 foreign relations of the united states:美国外交关系
@@ -14816,6 +14934,7 @@ foreign relations of timor leste:東帝汶外交
 foreign relations of turkmenistan:土库曼斯坦外交
 foreign relations of ukraine:烏克蘭外交
 foreign relations of uzbekistan:乌兹别克斯坦外交
+foreign relations of uzbekistan:乌兹别克斯坦外交关系
 foreign relations of vanuatu:瓦努阿图外交
 foreign relations of vietnam:越南外交
 foreign relations office:外交关系办公室
@@ -14903,6 +15022,8 @@ foreign, commonwealth and development office:外交与英联邦事务部
 foreign-exchange market suddenly:外汇市场突然
 foreign-exchange reserves actually:外汇储备实际上
 foreign-exchange reserves data:外汇储备数据
+foreign-exchange reserves of china:中华人民共和国外汇储备
+foreign-exchange reserves of china:中国外汇储备
 foreign-exchange reserves:外汇储备
 foreign-key constraint:外键约束
 foreign-key properties:外键属性
@@ -15261,6 +15382,7 @@ forest city hab pengangkutan:森林城市交通中心
 forest city international school:嘉德圣玛丽森林城市国际学校
 forest city international school:嘉德聖瑪麗森林城市國際學校
 forest city last year:森林城市去年
+forest city of cleveland:克里夫蘭森林城市
 forest city phoenix hotel:森林城市大酒店
 forest city plans:森林城市计划
 forest city project:森林城市项目
@@ -15599,19 +15721,26 @@ forest nenets language:森林涅涅茨语
 forest networks:森林网络
 forest north:森林北
 forest now:森林现在
+forest of arden:阿登森林
 forest of argonne:阿戈讷
+forest of compiègne:贡比涅森林
 forest of dean to canadian:迪恩森林到加拿大
 forest of dean:迪恩森林
+forest of death:死亡森林
 forest of famous scholars:名士林
+forest of fontainebleau:枫丹白露森林
 forest of fontainebleau:楓丹白露森林
 forest of halatte:阿拉特森林
 forest of hardwood tree:森林的硬木树
+forest of macclesfield:馬格斯菲特森林
+forest of montmorency:蒙莫朗西森林
 forest of piano:琴之森
 forest of proud spirit:aogúlín
 forest of proud spirit:傲骨林
 forest of rambouillet:朗布依埃森林
 forest of remembrance:死難者樹林
 forest of secrets:秘密之森
+forest of sherwood:舍伍德森林
 forest of steles at great south gate:碑林
 forest of three-line love letters:三行情书林
 forest offer:森林提供
@@ -17824,6 +17953,7 @@ form of globalization:形式的全球化
 form of god:形式的神
 form of good:形式的善
 form of government:政体
+form of government:政府形式
 form of grape juice:形式的葡萄汁
 form of graphical user interface:形式的图形用户界面
 form of greed:形式的贪婪
@@ -17927,6 +18057,7 @@ form of liberation:形式的解放
 form of liberty:形式的自由
 form of life:形式的生命
 form of life:形式的生活
+form of life:生命形式
 form of light:形式的光
 form of lighting:形式的照明
 form of limit:形式的限制
@@ -17949,6 +18080,7 @@ form of malaria:形式的疟疾
 form of male:形式的男性
 form of malware attack:形式的恶意软件攻击
 form of malware:形式的恶意软件
+form of man:男性形式
 form of management contract:形式的管理合同
 form of management:形式的管理
 form of market fetishism:形式的市场拜物教
@@ -21372,6 +21504,9 @@ former president mary:前总统玛丽
 former president michael:前总统迈克尔
 former president nelson:前总统纳尔逊
 former president no longer:前总统不再
+former president of afghanistan:阿富汗前总统
+former president of brazil:巴西前总统
+former president of pakistan:巴基斯坦前总统
 former president park geun-hye:前总统朴槿惠
 former president rajapaksa:前总统拉贾帕克萨
 former president ramos:前总统拉莫斯
@@ -23165,6 +23300,7 @@ fort museum:要塞博物馆
 fort niagara state park:尼亚加拉堡州立公园
 fort nossa senhora do bom parto:燒灰爐炮台
 fort novosel:魯克爾堡
+fort of buenos aires:布宜诺斯艾利斯要塞
 fort provintia:chìkǎnlóu
 fort provintia:普羅民遮城遺跡
 fort provintia:赤崁樓
@@ -23393,11 +23529,24 @@ fortress masada:要塞马萨达
 fortress metro tower:康泽花园
 fortress metro tower:康澤花園
 fortress museum:要塞博物馆
+fortress of freedom:自由堡
+fortress of hotin:霍京要塞
 fortress of hovd:科布多旧城
+fortress of ivangorod:伊万哥罗德要塞
+fortress of kars:卡爾斯堡
 fortress of klis:克利斯要塞
+fortress of knin:克宁要塞
+fortress of lahore:拉合尔堡
+fortress of lahore:拉合爾堡
+fortress of luxembourg:卢森堡要塞
 fortress of luxembourg:盧森堡要塞
 fortress of mainz:美因茨要塞
+fortress of metz:梅斯堡
+fortress of metz:梅斯要塞
+fortress of shlisselburg:什利謝利堡要塞
+fortress of shusha:舒沙堡
 fortress of solitude:孤独堡垒
+fortress of suomenlinna:芬兰堡要塞
 fortress port arthur:要塞亚瑟港
 fortress press:要塞出版社
 fortress prison:要塞监狱
@@ -24116,6 +24265,7 @@ forum now:论坛现在
 forum of arcadius:阿卡狄奧斯广场
 forum of augustus:奧古斯都議事廣場
 forum of caesar:凱撒廣場
+forum of citizens:公民论坛
 forum of constantine:君士坦丁广场
 forum of nerva:內爾瓦廣場
 forum of theodosius:狄奥多西广场
@@ -25690,6 +25840,7 @@ foundation obesity prevention center:基金肥胖预防中心
 foundation obesity prevention centre:基金肥胖预防中心
 foundation obesity:基金肥胖
 foundation of medical professionals alliance in taiwan:臺灣醫界聯盟基金會
+foundation of the state:国家基金
 foundation of women's rights promotion and development:婦女權益促進發展基金會
 foundation plan:基金计划
 foundation press:基金出版社
@@ -26310,6 +26461,7 @@ fountain design:噴泉設計
 fountain glacier:方丹冰川
 fountain lighting:噴泉照明
 fountain of arethusa:林仙泉
+fountain of justice:正義噴泉
 fountain of life:噴泉的生命
 fountain of love:噴泉的愛
 fountain of moses:摩西喷泉或快乐水道桥喷泉
@@ -26428,6 +26580,7 @@ four board:四板
 four boat:四船
 four book:四书
 four books and five classics:四书五经
+four books of architecture:建筑四书
 four books:四书
 four bottle:四瓶
 four bowl:四碗
@@ -26664,6 +26817,7 @@ four grasp:四抓
 four great ancient civilizations:四大文明古国
 four great books of song:宋四大書
 four great inventions and silkworm:四大发明和蚕
+four great inventions of china:中国四大发明
 four great inventions:四大发明
 four great towers of china:中国四大名楼
 four green steps:绿色四步
@@ -27637,6 +27791,7 @@ fourteen years better:十四年更好
 fourteen years:十四年
 fourteen:十四
 fourteenth air force:美國第十四航空隊
+fourteenth amendment of the constitution:宪法第十四修正案
 fourteenth amendment to the united states constitution:美国宪法第十四修正案
 fourteenth amendment:第十四修正案
 fourteenth centuries:第十四世纪
@@ -28063,6 +28218,13 @@ fourth referred to:第四指
 fourth regiment:第四团
 fourth reich:第四帝國
 fourth republic began:第四共和国开始
+fourth republic of korea:韩国第四共和国
+fourth republic of madagascar:馬達加斯加第四共和國
+fourth republic of nigeria:奈及利亞第四共和國
+fourth republic of south korea:大韓民國第四共和國
+fourth republic of south korea:大韩民国第四共和国
+fourth republic of south korea:韩国第四共和国
+fourth republic of the philippines:菲律宾第四共和国
 fourth republic:第四共和国
 fourth republic:第四共和國
 fourth research:第四研究

@@ -296,6 +296,7 @@ phantom limb pain:幻肢疼痛
 phantom limb pain:幻肢痛
 phantom limb syndrome:幻肢综合症
 phantom limb:幻肢
+phantom of death:死亡幻觉
 phantom of death:靈性出竅
 phantom of heilbronn:海尔布隆幽灵
 phantom of the kill:殺戮魅影
@@ -363,6 +364,7 @@ pharaoh let:法老让
 pharaoh menes:法老美尼斯
 pharaoh menkaure:法老孟卡拉
 pharaoh merneptah:法老麦伦普塔
+pharaoh of egypt:埃及法老
 pharaoh once:法老一次
 pharaoh order:法老命令
 pharaoh own:法老拥有
@@ -472,6 +474,7 @@ pharmacogenomics work:药物基因组学工作
 pharmacogenomics:药物基因组学
 pharmacognosy textbook:生药学教科书
 pharmacognosy:生药学
+pharmacokinetics of estradiol:雌二醇药物代谢动力学
 pharmacokinetics:药物代谢动力学
 pharmacology affects:药理学影响
 pharmacology and architecture:药理学和建筑学
@@ -1978,6 +1981,7 @@ philadelphia navy:费城海军
 philadelphia needs him:費城需要他
 philadelphia needs:費城需要
 philadelphia newspaper:费城报纸
+philadelphia of jordan:約旦安曼
 philadelphia offer:費城提供
 philadelphia offer:费城提供
 philadelphia office:费城办公室
@@ -2181,6 +2185,7 @@ philesia:垂花属
 philesiaceae:垂花科
 philetaerus:菲萊泰羅斯
 philetor:新几内亚掠蝠属
+philharmonia orchestra of london:倫敦愛樂管弦樂團
 philharmonia orchestra:愛樂管弦樂團
 philharmonie de paris:巴黎愛樂廳
 philharmonie luxembourg:盧森堡音樂廳
@@ -2249,8 +2254,10 @@ philip hawke:菲利普霍克
 philip hear:菲利普听
 philip huang chao ming:黃兆明
 philip i:腓力一世
+philip ii of spain:西班牙腓力二世
 philip ii sometimes:腓力二世有时
 philip ii:腓力二世
+philip iii of spain:西班牙腓力三世
 philip iii:腓力三世
 philip include:菲利普包括
 philip install:菲利普安装
@@ -2261,6 +2268,8 @@ philip is an actor:菲利普是一个演员
 philip island chocolate factory:菲利普岛巧克力工厂
 philip island:菲利普岛
 philip iv and charles ii:腓力四世和查理二世
+philip iv of france:法国腓力四世
+philip iv of spain:西班牙腓力四世
 philip iv:腓力四世
 philip jackson:菲利普杰克逊
 philip jaisohn:徐載弼
@@ -2348,6 +2357,7 @@ philip together:菲利普在一起
 philip v become:腓力五世成为
 philip v continue:腓力五世继续
 philip v continues:腓力五世继续
+philip v of spain:西班牙腓力五世
 philip v:腓力五世
 philip was a complex:菲利普是一个复杂的
 philip was a good:菲利普是一个好的
@@ -3312,12 +3322,20 @@ philosopher needs:哲学家需要
 philosopher norman:哲学家诺曼
 philosopher novalis:哲学家诺瓦利斯
 philosopher of art:哲学家的艺术
+philosopher of culture:文化哲学家
+philosopher of language:語言哲學家
+philosopher of language:语言哲学家
+philosopher of law:法律哲学家
+philosopher of physics:物理哲學家
+philosopher of religion:宗教哲学家
+philosopher of religion:宗教哲學家
 philosopher of science karl:科学哲学家卡尔
 philosopher of science paul:科学哲学家保罗
 philosopher of science thomas kuhn:科学哲学家托马斯库恩
 philosopher of science thomas:科学哲学家托马斯
 philosopher of science william:科学哲学家威廉
 philosopher of science:科学哲学家
+philosopher of technology:技术哲学家
 philosopher once said:哲学家曾经说
 philosopher once:哲学家曾经
 philosopher or ideal:哲学家或理想
@@ -3731,40 +3749,68 @@ philosophy no longer:哲学不再
 philosophy not:哲学不是
 philosophy now:時下哲學
 philosophy of a knife:刀的哲学
+philosophy of action:行动哲学
 philosophy of architecture:建筑美学
+philosophy of aristotle:亚里士多德哲学
+philosophy of arithmetic:算术哲学
+philosophy of art:艺术哲学
+philosophy of artificial intelligence:人工智能哲学
 philosophy of artificial intelligence:人工智能哲學
+philosophy of biology:生物学哲学
 philosophy of biology:生物學哲學
+philosophy of buddhism:佛教哲学
 philosophy of catholic schools:哲学的天主教学校
 philosophy of chemistry:化学哲学
 philosophy of computer science:計算機科學的哲學
+philosophy of criminal law:刑法哲学
+philosophy of culture:文化哲学
 philosophy of culture:文化哲學
 philosophy of design:设计哲学
+philosophy of education:教育哲学
 philosophy of education:教育哲學
+philosophy of environment:环境哲学
+philosophy of existence:存在哲学
 philosophy of film:电影哲学
+philosophy of geography:地理哲学
 philosophy of geography:地理哲學
 philosophy of happiness:幸福哲学
 philosophy of healthcare:醫療衛生哲學
+philosophy of hinduism:印度教哲学
 philosophy of history with history:历史哲学与历史
 philosophy of history:历史哲学
 philosophy of history:哲学的历史
 philosophy of honor:哲学的荣誉
+philosophy of india:印度哲学
+philosophy of information:信息哲学
 philosophy of information:資訊哲學
+philosophy of knowledge:知识哲学
 philosophy of language and logic:语言哲学和逻辑
 philosophy of language:语言哲学
 philosophy of law and real-life:法律哲学和现实生活
 philosophy of law:法律哲学
 philosophy of life:人生哲学
+philosophy of life:生命哲学
 philosophy of literature:哲学的文学
+philosophy of logic:逻辑哲学
 philosophy of love:戀愛哲學
+philosophy of management:管理哲学
 philosophy of mathematics:数学哲学
+philosophy of medicine:医学哲学
 philosophy of mind and philosophy of language:心灵哲学和语言哲学
+philosophy of mind:心智哲学
 philosophy of mind:心灵哲学
 philosophy of money from:哲学的钱从
 philosophy of money:哲学的钱
 philosophy of music:音乐哲学
+philosophy of nature:自然哲学
+philosophy of organism:生物哲学
 philosophy of philosophy:哲学的哲学
 philosophy of physics:物理哲学
+philosophy of physics:物理学哲学
+philosophy of politics:政治哲学
 philosophy of poverty:哲学的贫困
+philosophy of probability:概率哲学
+philosophy of psychology:心理学哲学
 philosophy of psychology:心理學哲學
 philosophy of religion it:宗教哲学它
 philosophy of religion:宗教哲学
@@ -3776,8 +3822,12 @@ philosophy of science:科学哲学
 philosophy of self:自我哲学
 philosophy of social science:社会科学哲学
 philosophy of space and time:时空哲学
+philosophy of statistics:统计学哲学
 philosophy of technology:技术哲学
+philosophy of the spirit:精神哲学
+philosophy of time:时间哲学
 philosophy of virtue:哲学的美德
+philosophy of war:战争哲学
 philosophy of war:戰爭哲學
 philosophy of wine rather than:哲学的葡萄酒而不是
 philosophy of wine:哲学的葡萄酒
@@ -7239,6 +7289,7 @@ photography mode:摄影模式
 photography module:摄影模块
 photography monitor:摄影监视器
 photography month:摄影月
+photography museum of thessaloniki:塞萨洛尼基摄影博物馆
 photography museum:摄影博物馆
 photography network:摄影网络
 photography no longer:摄影不再
@@ -10286,6 +10337,9 @@ physics needs:物理学需要
 physics needs:物理需要
 physics network:物理网络
 physics now:物理学现在
+physics of gravity:引力物理
+physics of gravity:引力物理学
+physics of gravity:重力物理
 physics of matter:物理学的物质
 physics office:物理办公室
 physics operations:物理操作
@@ -10589,6 +10643,7 @@ physiology learning products:生理学学习产品
 physiology learning:生理学学习
 physiology measurement:生理学测量
 physiology of dinosaurs:恐龙生理学
+physiology of plants:植物生理学
 physiology or disease pathology:生理学或疾病病理学
 physiology or medicine prize:生理学或医学奖
 physiology or medicine:生理学或医学

@@ -654,6 +654,7 @@ jockey club mount davis youth hostel:赛马会摩星岭青年旅舍
 jockey club multiservice centre of the blind:賽馬會盲人綜合服務中心
 jockey club museum of climate change:賽馬會氣候變化博物館
 jockey club new life institute of psychiatric rehabilitation:賽馬會新生精神康復學院
+jockey club of turkey:土耳其賽馬會
 jockey club one health tower:賽馬會健康一體化大樓
 jockey club ping shek youth s.p.o.t.:賽馬會坪石青年空間
 jockey club postgraduate hall no. 1:賽馬會研究生宿舍一座
@@ -1680,6 +1681,7 @@ john i:約翰一世
 john i:約翰我
 john i:约翰我
 john if you tell:约翰如果你告诉
+john ii of france:法国约翰二世
 john ii of portugal:若昂二世
 john ii:约翰二世
 john iii of portugal:若昂三世
@@ -1848,6 +1850,7 @@ john of gaunt:冈特的约翰
 john of hildesheim:约翰的希尔德斯海姆
 john of kronstadt:喀琅施塔得的圣伊望
 john of leiden:萊頓的約翰
+john of london:伦敦约翰
 john of nepomuk:臬玻穆的若望
 john of patmos:拔摩島的約翰
 john of portugal:葡萄牙的若昂
@@ -4984,14 +4987,22 @@ journal is a log:日志是一个日志
 journal keep:日志保持
 journal management:日志管理
 journal of abnormal psychology:變態心理學期刊
+journal of aerospace:航空航天期刊
 journal of alternative and complementary medicine:替代與補充醫學雜誌
+journal of animal ethics:动物伦理学期刊
 journal of applied physics:应用物理学杂志
+journal of asian studies:亚洲研究期刊
+journal of astrophysics and astronomy:天体物理学和天文学期刊
 journal of biological chemistry:生物化学杂志
+journal of biology:生物学期刊
 journal of black studies:黑人研究期刊
 journal of chinese information processing:中文信息学报
 journal of chinese linguistics:中国语言学报
+journal of clinical medicine:臨床醫學期刊
+journal of clinical research:臨床研究期刊
 journal of clinical sleep medicine:临床睡眠医学杂志
 journal of cognitive neuroscience:认知神经科学期刊
+journal of conchology:貝類學期刊
 journal of conflict resolution:衝突解決期刊
 journal of contemporary asia:當代亞洲期刊
 journal of contingencies and crisis management:突發事件及危機管理期刊
@@ -5000,32 +5011,56 @@ journal of democracy:民主期刊
 journal of developmental origins of health and disease:都哈杂志
 journal of discourses:證道錄
 journal of east asian studies:東亞研究期刊
+journal of ecology:生态学期刊
 journal of ecology:生態學期刊
+journal of economics:经济学期刊
+journal of educational psychology:教育心理学期刊
 journal of educational psychology:教育心理學期刊
 journal of environmental economics and management:環境經濟及管理期刊
 journal of environmental psychology:環境心理學期刊
 journal of experimental social psychology:實驗社會心理學期刊
 journal of financial studies:財務金融學刊
 journal of fluid mechanics:流体力学期刊
+journal of food engineering:食品工程期刊
 journal of food science:食品科学期刊
+journal of food science:食品科學期刊
 journal of geophysical research:地球物理研究期刊
+journal of global security studies:全球安全研究期刊
 journal of health and social behavior:健康與社會行為期刊
+journal of health management:健康管理期刊
+journal of homosexuality:同性恋期刊
 journal of homosexuality:同性戀期刊
 journal of interpretation research:解說研究期刊
 journal of investigative dermatology:皮肤病学研究
 journal of japanese studies:日本研究期刊
+journal of jurisprudence:法学期刊
 journal of land use and environmental law:土地利用與環境法期刊
+journal of library:圖書館期刊
 journal of marriage and family:婚姻與家庭期刊
+journal of material culture:物質文化期刊
+journal of mathematics:数学期刊
+journal of medicine:医学期刊
+journal of men's studies:男性研究期刊
 journal of moral philosophy:當代哲學期刊
+journal of mycology:真菌學期刊
 journal of occupational and environmental medicine:職業及環境醫學期刊
+journal of organic chemistry:有机化学期刊
+journal of ornithology:鳥類學期刊
 journal of personality and social psychology:个性与社会心理学杂志
+journal of physics:物理期刊
 journal of political economy:政治经济学杂志
 journal of political ideologies:政治意识形态学刊
+journal of political science:政治学期刊
 journal of proteome research:蛋白質組研究期刊
 journal of renewable and sustainable energy:可再生與可持續能源期刊
+journal of science and technology:科技期刊
+journal of science:科学期刊
 journal of sex research:性研究期刊
+journal of social structure:社会结构期刊
+journal of southeast asian studies:东南亚研究期刊
 journal of southeast asian studies:東南亞研究期刊
 journal of symbolic logic:数理逻辑学期刊
+journal of technology:科技期刊
 journal of the american chemical society:美国化学会志
 journal of the american oriental society:美国东方学会杂志
 journal of the american society of nephrology:美國腎臟學會期刊
@@ -5241,6 +5276,7 @@ journalists arrest:记者逮捕
 journalists as well as:记者以及
 journalists as well:记者也
 journalists ask:记者问
+journalists association of korea:韩国记者协会
 journalists association says:记者协会说
 journalists association:记者协会
 journalists at the u.s. border:记者在美国边

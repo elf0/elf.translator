@@ -543,6 +543,7 @@ practice new skills:实践新的技能
 practice new:实践新的
 practice now:实践现在
 practice of law:法律事务
+practice of medicine:医学实践
 practice of political violence:实践的政治暴力
 practice of research:实践的研究
 practice of silence:实践的沉默
@@ -842,8 +843,10 @@ praetorian guard:罗马禁卫军
 praetorian prefect:禁卫军长官
 praetorian prefecture of africa:阿非利加大区
 praetorian prefecture of gaul:高卢大区
+praetorian prefecture of gaul:高卢近卫大区
 praetorian prefecture of illyricum:伊利里亚大区
 praetorian prefecture of italy:意大利大区
+praetorian prefecture of italy:意大利近卫大区
 praetorian prefecture of the east:东方大区
 praetorian prefecture:近卫大区
 prag hauptbahnhof:布拉格中央火车站
@@ -6435,6 +6438,9 @@ prehistoric world:史前的世界
 prehistoric:史前的
 prehistory and protohistory of poland:波兰史前时期
 prehistory of china:中国史前文化
+prehistory of china:中國史前時代
+prehistory of europe:歐洲史前時代
+prehistory of taiwan:臺灣史前時代
 prehistory of taiwan:臺灣史前時期
 prehistory of the united states:史前美國
 prehistory:史前時代
@@ -6608,9 +6614,14 @@ premier link:卓裕大道
 premier najib:首相纳吉布
 premier of alberta:阿尔伯塔省省长
 premier of anguilla:安圭拉總理
+premier of bavaria:巴伐利亚首相
 premier of british columbia:不列颠哥伦比亚省省长
+premier of canada:加拿大首相
 premier of china:中华人民共和国国务院总理
+premier of france:法国首相
+premier of france:法國首相
 premier of gauteng:豪登省省長
+premier of iran:伊朗首相
 premier of limpopo:林波波省省長
 premier of manitoba:緬尼托巴省省長
 premier of montserrat:蒙特塞拉特總理
@@ -6619,11 +6630,15 @@ premier of nevis:尼维斯总理
 premier of new brunswick:新不伦瑞克省省长
 premier of new south wales:新南威爾士州長
 premier of newfoundland and labrador:纽芬兰与拉布拉多省省长
+premier of north korea:北韓首相
+premier of north korea:朝鮮首相
 premier of north korea:朝鲜民主主义人民共和国总理
+premier of north korea:朝鲜首相
 premier of north west:西北省省長
 premier of nova scotia:诺瓦斯科舍省省长
 premier of nunavut:努納武特地區行政長官
 premier of ontario:安大略省省長
+premier of poland:波兰首相
 premier of prince edward island:爱德华王子岛省省长
 premier of quebec:魁北克省省长
 premier of sarawak:砂拉越总理
@@ -7397,6 +7412,11 @@ presbyterian church in ireland:爱尔兰长老会
 presbyterian church in taiwan:台灣基督長老教會
 presbyterian church in the united states of america:美北长老会
 presbyterian church in the united states:美南长老会
+presbyterian church of canada:加拿大長老教會
+presbyterian church of england:英格蘭長老教會
+presbyterian church of taiwan:台灣長老教會
+presbyterian church of taiwan:臺灣長老教會
+presbyterian church of wales:威爾斯長老教會
 presbyterian church:長老教會
 presbyterian mission agency:美北长老会差会
 presbyterian polity:長老制
@@ -7531,6 +7551,7 @@ presence of carbonate:存在的碳酸盐
 presence of diabetes symptoms:存在的糖尿病症状
 presence of drugs:存在的药物
 presence of fast food:存在的快餐
+presence of god:上帝存在
 presence of god:存在的上帝
 presence of iron:存在的铁
 presence of key market:存在的关键市场
@@ -9273,134 +9294,286 @@ president obama:奥巴马总统
 president obiang nguema international airport:奥比昂·恩圭马总统国际机场
 president obiang nguema international airport:奧比昂·恩格瑪總統國際機場
 president obviously:总统显然
+president of abkhazia:阿布哈兹总统
 president of abkhazia:阿布哈茲總統
 president of afghanistan will visit:阿富汗总统将访问
 president of afghanistan:阿富汗总统
 president of albania:阿尔巴尼亚总统
+president of albania:阿爾巴尼亞总统
 president of algeria:阿尔及利亚总统
+president of ambazonia:安巴佐尼亚总统
+president of america:美国总统
 president of angola:安哥拉总统
+president of anjouan:昂儒昂岛总统
 president of argentina begin:阿根廷总统开始
 president of argentina:阿根廷总统
 president of armenia robert:亚美尼亚总统罗伯特
 president of armenia:亚美尼亚总统
 president of artsakh:阿尔察赫总统
 president of austria:奥地利总统
+president of austria:奧地利总统
 president of azerbaijan website:阿塞拜疆总统网站
 president of azerbaijan:阿塞拜疆总统
 president of bangladesh:孟加拉国总统
+president of bangladesh:孟加拉总统
 president of barbados:巴巴多斯总统
+president of bashkortostan:巴什科尔托斯坦共和国总统
 president of belarus alexander:白俄罗斯总统亚历山大
 president of belarus:白俄罗斯总统
+president of belarus:白俄羅斯总统
+president of belarus:白罗斯总统
 president of benin:贝宁总统
 president of bolivia win:玻利维亚总统赢得
+president of bolivia:玻利維亞总统
 president of bolivia:玻利维亚总统
 president of botswana:博茨瓦纳总统
+president of brasil:巴西总统
 president of brazil:巴西总统
 president of bulgaria:保加利亚总统
+president of bulgaria:保加利亞总统
 president of burkina faso:布基纳法索总统
+president of burma:緬甸总统
+president of burma:缅甸总统
+president of burundi:布隆迪总统
+president of buryatia:布里亚特共和国总统
+president of cabo verde:佛得角总统
+president of cameroon:喀麥隆总统
+president of cameroon:喀麦隆总统
+president of canada:加拿大总统
+president of cape verde:佛得角总统
+president of central african republic:中非共和国总统
+president of central african republic:中非共和國总统
+president of central african republic:中非总统
 president of chad:乍得总统
+president of chechnya:车臣共和国总统
 president of chile:智利总统
 president of china:中华人民共和国主席
+president of china:中国总统
 president of colombia:哥伦比亚总统
+president of colombia:哥倫比亞总统
+president of columbia:哥伦比亚总统
+president of columbia:哥倫比亞总统
 president of comoros:科摩罗总统
+president of congo-brazzaville:刚果共和国总统
+president of congo-brazzaville:剛果共和國总统
+president of congo:刚果共和国总统
+president of congo:刚果总统
+president of congo:剛果共和國总统
+president of costa rica:哥斯大黎加总统
+president of costa rica:哥斯达黎加总统
+president of costa rica:哥斯達黎加总统
+president of crimea:克里米亚总统
 president of croatia:克罗地亚总统
 president of cuba:古巴共和国主席
+president of cuba:古巴总统
 president of cyprus:塞浦路斯总统
+president of cyprus:賽普勒斯总统
+president of czechia:捷克总统
+president of czechoslovakia:捷克斯洛伐克总统
+president of côte d'ivoire:科特迪瓦总统
+president of côte d'ivoire:象牙海岸总统
+president of democratic republic of the congo:刚果民主共和国总统
+president of democratic republic of the congo:剛果民主共和國总统
 president of djibouti:吉布提总统
+president of dominica:多米尼克总统
+president of east timor:东帝汶总统
+president of east timor:東帝汶总统
 president of ecuador:厄瓜多尔总统
+president of ecuador:厄瓜多总统
+president of egypt:埃及总统
 president of egypt:埃及總統
 president of el salvador:萨尔瓦多总统
+president of equatorial guinea:赤道几内亚总统
+president of eritrea:厄立特里亚总统
 president of estonia:爱沙尼亚总统
+president of ethiopia:埃塞俄比亚总统
+president of ethiopia:衣索比亞总统
 president of fiji:斐济总统
 president of finland:芬兰总统
 president of france:法国总统
+president of france:法國总统
 president of french polynesia:法屬玻里尼西亞主席
+president of gabon:加蓬总统
+president of gambia:冈比亚总统
 president of georgia:格魯吉亞總統
+president of georgia:格鲁吉亚总统
+president of germany:德国总统
 president of germany:德國聯邦總統
 president of ghana john:加纳总统约翰
 president of ghana:加纳总统
 president of greece:希腊总统
 president of guatemala jimmy:危地马拉总统吉米
 president of guatemala:危地马拉总统
+president of guatemala:瓜地馬拉总统
+president of guinea-bissau:几内亚比绍总统
 president of guinea:几内亚总统
 president of guyana:圭亚那总统
 president of haiti was paul:海地总统是保罗
 president of haiti:海地总统
 president of harvard university:哈佛大学校长
+president of haïti:海地总统
+president of honduras:宏都拉斯总统
+president of honduras:洪都拉斯总统
 president of hungary:匈牙利总统
 president of iceland:冰岛总统
+president of iceland:冰島总统
 president of ichkeria:伊奇克里亚车臣共和国总统
+president of india:印度总统
 president of india:印度總統
 president of indonesia suharto:印度尼西亚总统蘇哈托
+president of indonesia:印尼总统
 president of indonesia:印度尼西亚总统
+president of indonesia:印度尼西亞总统
 president of iran:伊朗总统
 president of iraq:伊拉克总统
 president of ireland douglas:爱尔兰总统道格拉斯
 president of ireland michael:爱尔兰总统迈克尔
 president of ireland's cup:愛爾蘭總統盃
+president of ireland:愛爾蘭总统
 president of ireland:爱尔兰总统
 president of israel:以色列总统
+president of italian republic:意大利共和国总统
 president of italy:意大利总统
+president of italy:義大利总统
+president of ivory coast:科特迪瓦总统
+president of ivory coast:象牙海岸总统
 president of kazakhstan and prime minister of india:哈萨克斯坦总统和印度总理
 president of kazakhstan proposed:哈萨克斯坦总统提出
 president of kazakhstan suddenly:哈萨克斯坦总统突然
 president of kazakhstan:哈萨克斯坦总统
+president of kenya:肯亞总统
 president of kenya:肯亞總統
+president of kenya:肯尼亚总统
+president of kiribati:吉里巴斯总统
+president of kiribati:基里巴斯总统
 president of kiribati:基里巴斯總統
+president of korea:韩国总统
 president of kosovo:科索沃总统
 president of kurdistan region:伊拉克库尔德斯坦总统
 president of kyrgyzstan:吉尔吉斯斯坦总统
 president of laos:老挝人民民主共和国主席
 president of latvia:拉脫維亞總統
+president of latvia:拉脱维亚总统
 president of lebanon:黎巴嫩总统
+president of liberia:利比里亚总统
+president of liberia:賴比瑞亞总统
+president of libya:利比亚总统
+president of lithuania:立陶宛总统
 president of lithuania:立陶宛總統
+president of macedonia:北马其顿总统
+president of macedonia:马其顿总统
+president of madagascar:馬達加斯加总统
+president of madagascar:马达加斯加总统
+president of malawi:馬拉威总统
+president of malawi:马拉维总统
+president of maldives:马尔代夫总统
+president of mali:马里总统
 president of malta:马耳他总统
+president of marshall islands:马绍尔群岛总统
+president of mauritania:毛里塔尼亚总统
+president of mauritius:毛里求斯总统
 president of mauritius:毛里裘斯总统
 president of mexico:墨西哥总统
+president of micronesia:密克罗尼西亚总统
 president of moldova igor:摩尔多瓦总统伊戈尔
 president of moldova:摩尔多瓦总统
 president of mongolia:蒙古国总统
+president of mongolia:蒙古國总统
+president of mongolia:蒙古总统
+president of montenegro:蒙特內哥羅总统
 president of montenegro:蒙特內哥羅總統
+president of montenegro:黑山总统
+president of mozambique:莫桑比克总统
+president of myanmar:緬甸总统
 president of myanmar:缅甸总统
+president of méxico:墨西哥总统
+president of nagorno-karabakh:纳戈尔诺-卡拉巴赫总统
+president of namibia:納米比亞总统
 president of namibia:納米比亞總統
+president of namibia:纳米比亚总统
 president of nauru:瑙鲁总统
 president of nepal:尼泊尔总统
+president of nepal:尼泊爾总统
+president of nicaragua:尼加拉瓜总统
+president of niger:尼日尔总统
 president of nigeria ask:尼日利亚总统问
 president of nigeria:尼日利亚总统
+president of nigeria:尼日利亞总统
 president of north korea:朝鮮民主主義人民共和國主席
 president of north macedonia:北马其顿总统
+president of north yemen:北也门总统
+president of northern cyprus:北塞浦路斯总统
 president of northern cyprus:北賽普勒斯總統
 president of pakistan:巴基斯坦总统
+president of palau:帕劳总统
+president of palau:帛琉总统
 president of palau:帛琉總統
+president of palestine:巴勒斯坦总统
 president of panama:巴拿马总统
 president of paraguay:巴拉圭总统
 president of peking university:北京大学校长
+president of peru:秘鲁总统
+president of philippines:菲律宾总统
+president of philippines:菲律賓总统
 president of poland:波兰总统
 president of portugal:葡萄牙总统
+president of puntland:邦特兰总统
+president of republic of china:中华民国总统
+president of republic:共和国总统
 president of republika srpska:塞族共和国总统
+president of rhodesia:羅德西亞总统
 president of romania:罗马尼亚总统
 president of russia emphasize:俄罗斯总统强调
 president of russia in the first:俄罗斯总统在第一
 president of russia invite:俄罗斯总统邀请
 president of russia suddenly:俄罗斯总统突然
 president of russia will participate:俄罗斯总统将参加
+president of russia:俄国总统
 president of russia:俄罗斯总统
+president of russia:俄羅斯总统
+president of rwanda:卢旺达总统
+president of sao tome and principe:圣多美和普林西比总统
 president of senegal:塞内加尔总统
 president of serbia and montenegro:塞尔维亚和黑山总统
+president of serbia:塞尔维亚总统
 president of serbia:塞爾維亞總統
+president of seychelles:塞舌尔总统
+president of sierra leone:塞拉利昂总统
 president of singapore:新加坡总统
 president of slovakia:斯洛伐克总统
+president of slovenia:斯洛文尼亚总统
+president of slovenia:斯洛文尼亞总统
+president of somalia:索马里总统
 president of somaliland:索马里兰总统
 president of south africa:南非总统
+president of south carolina:南卡罗来纳州总统
+president of south korea:南韓总统
+president of south korea:大韓民國总统
+president of south korea:大韩民国总统
+president of south korea:韓國总统
 president of south korea:韓國總統
+president of south korea:韩国总统
 president of south ossetia:南奥塞梯总统
+president of south sudan:南苏丹总统
+president of south vietnam:越南共和国总统
+president of south yemen:南也门总统
 president of south yemen:南也门领导人列表
+president of spain:西班牙总统
 president of sri lanka:斯里兰卡总统
+president of sudan:苏丹总统
 president of suriname:苏里南总统
+president of switzerland:瑞士总统
 president of syria bashar:叙利亚总统巴沙尔
 president of syria:叙利亚总统
+president of syria:敘利亞总统
+president of são tomé and príncipe:圣多美和普林西比总统
+president of taiwan:中華民國总统
+president of taiwan:台湾总统
 president of tajikistan visit:塔吉克斯坦总统访问
+president of tajikistan:塔吉克总统
 president of tajikistan:塔吉克斯坦总统
+president of tanzania:坦桑尼亚总统
+president of tatarstan:鞑靼斯坦共和国总统
 president of the american association for the advancement of science:美国科学促进会主席
 president of the board of trade:貿易局主席
 president of the canary islands:加那利群岛自治政府主席
@@ -9410,6 +9583,7 @@ president of the constitutional court of korea:韩国宪法法院院长
 president of the control yuan:監察院院長
 president of the council of ministers:部长会议主席
 president of the council of state:国务委员会主席
+president of the country:国家总统
 president of the czech republic hire:捷克总统雇用
 president of the czech republic:捷克总统
 president of the democratic republic of the congo:刚果民主共和国总统
@@ -9431,11 +9605,13 @@ president of the gambia:冈比亚总统
 president of the government of catalonia:加泰隆尼亞政府主席
 president of the government of new caledonia:新喀里多尼亞政府主席
 president of the international olympic committee:国际奥林匹克委员会主席
+president of the islamic republic of iran:伊朗伊斯兰共和国总统
 president of the ivory coast:科特迪瓦总统
 president of the king's bench division:皇座法庭所屬分庭庭長
 president of the legislative council of hong kong:香港立法會主席
 president of the legislative yuan:立法院院長
 president of the maldives:马尔代夫总统
+president of the nation:国家总统
 president of the national assembly of laos:老挝国会主席
 president of the national assembly of venezuela:委內瑞拉全國代表大會議長
 president of the palestinian national authority:巴勒斯坦民族权力机构主席
@@ -9445,18 +9621,23 @@ president of the philippines ramos:菲律宾总统拉莫斯
 president of the philippines rodrigo:菲律宾总统罗德里戈
 president of the philippines:菲律宾总统
 president of the pontifical commission for vatican city state:宗座梵蒂岡城國委員會主席
+president of the region:地区总统
 president of the regional government of andalusia:安达卢西亚政府主席
 president of the regional government of madeira:马德拉自治区主席列表
 president of the republic of china:中華民國總統
 president of the republic of texas:德克薩斯共和國總統
 president of the sahrawi arab democratic republic:撒拉威阿拉伯民主共和國總統
 president of the senate of the czech republic:捷克參議院議長
+president of the soviet union:苏联总统
 president of the soviet union:蘇聯總統
 president of the state affairs of north korea:朝鲜民主主义人民共和国国务委员会委员长
 president of the state of palestine:巴勒斯坦总统
+president of the state:国家总统
 president of the supreme court of the united kingdom:英國最高法院院長
 president of the supreme people's court:中华人民共和国最高人民法院院长
 president of the swiss confederation:瑞士總統
+president of the u.s.:美国总统
+president of the united arab emirates:阿联酋总统
 president of the united arab emirates:阿联酋总统列表
 president of the united nations general assembly:联合国大会主席
 president of the united states accept:美国总统接受
@@ -9499,12 +9680,18 @@ president of the united states william:美国总统威廉
 president of the united states without:美国总统没有
 president of the united states would:美国总统将
 president of the united states:美国总统
+president of the us:美国总统
+president of the usa:美国总统
 president of the world bank group:世界银行行长
 president of the yemen arab republic:北也门总统
 president of tianjin university:天津大学校长列表
 president of timor leste:东帝汶总统
+president of timor-leste:东帝汶总统
+president of timor-leste:東帝汶总统
+president of togo:多哥总统
 president of transnistria:德涅斯特河沿岸总统
 president of trinidad and tobago:千里達及托巴哥總統
+president of trinidad and tobago:特立尼达和多巴哥总统
 president of tsinghua university:清华大学校长
 president of tunisia:突尼斯总统
 president of turkey recep:土耳其总统雷杰普
@@ -9512,18 +9699,38 @@ president of turkey:土耳其总统
 president of turkmenistan invite:土库曼斯坦总统邀请
 president of turkmenistan propose:土库曼斯坦总统提议
 president of turkmenistan:土库曼斯坦总统
+president of türkiye:土耳其总统
 president of uganda recently:乌干达总统最近
 president of uganda:乌干达总统
+president of uganda:烏干達总统
+president of ukraine:乌克兰总统
+president of ukraine:烏克蘭总统
 president of ukraine:烏克蘭總統
 president of united republic of tanzania:坦桑尼亚总统列表
+president of united states:美国总统
+president of united states:美國总统
+president of upper volta:上沃尔特总统
+president of uruguay:乌拉圭总统
+president of usa:美国总统
+president of usa:美國总统
 president of uzbekistan emphasize:乌兹别克斯坦总统强调
 president of uzbekistan invite:乌兹别克斯坦总统邀请
 president of uzbekistan:乌兹别克斯坦总统
 president of vanuatu:瓦努阿图总统
+president of venezuela:委內瑞拉总统
 president of venezuela:委内瑞拉总统
 president of vietnam:越南社会主义共和国主席
+president of west germany:西德总统
+president of western sahara:西撒哈拉总统
+president of yemen arab republic:阿拉伯也门共和国总统
 president of yemen:也门总统
+president of yugoslavia:南斯拉夫总统
+president of zambia:赞比亚总统
+president of zanzibar:桑给巴尔总统
 president of zanzibar:桑给巴尔总统列表
+president of zimbabwe:津巴布韋总统
+president of zimbabwe:津巴布韦总统
+president of zimbabwe:辛巴威总统
 president of zimbabwe:辛巴威總統
 president offer:总统提供
 president office:总统办公室
@@ -9865,6 +10072,7 @@ presidential challenger:总统的挑战者
 presidential choice:总统的选择
 presidential citizens medal:總統公民獎章
 presidential commission could:总统委员会能
+presidential commission of uganda:乌干达总统委员会
 presidential commission says:总统委员会说
 presidential commission:总统委员会
 presidential corruption:总统的腐败
@@ -9970,6 +10178,14 @@ presidential palace as well as:总统府以及
 presidential palace historical site:主席府遗迹区
 presidential palace is legal:总统府是合法的
 presidential palace of chile:拉莫内达宫
+presidential palace of georgia:喬治亞總統府
+presidential palace of georgia:格魯吉亞總統府
+presidential palace of syria:叙利亚总统府
+presidential palace of syria:敘利亞總統府
+presidential palace of são tomé e príncipe:圣多美和普林西比总统府
+presidential palace of tirana:地拉那總統府
+presidential palace of vietnam:越南主席府
+presidential palace of yemen:也門總統府
 presidential palace said:总统府说
 presidential palace spokesman:总统府发言人
 presidential palace:主席府
@@ -11059,6 +11275,7 @@ presumption based on:推定基于
 presumption based:推定基于
 presumption gain:推定收益
 presumption of death:宣告死亡
+presumption of good faith:善意推定
 presumption of guilt:有罪推定
 presumption of innocence:无罪推定原则
 presumption of state responsibility:推定的国家责任
@@ -15449,6 +15666,7 @@ price elastic:价格弹性的
 price elasticity and price:价格弹性和价格
 price elasticity greater than:价格弹性大于
 price elasticity model:价格弹性模型
+price elasticity of demand:需求价格弹性
 price elasticity of demand:需求的价格弹性
 price elasticity of supply:供给的价格弹性
 price elasticity:价格弹性
@@ -15673,6 +15891,7 @@ price of oil start:油价开始
 price of oil will:油价会
 price of oil would:油价将
 price of oil:油价
+price of petroleum:石油价格
 price offensive:价格攻势
 price offer:价格提供
 price operation:价格操作
@@ -16297,6 +16516,7 @@ prices not:价格不是
 prices now:价格现在
 prices obviously:价格显然
 prices of chemical elements:元素价格列表
+prices of production:生产价格
 prices offer:价格提供
 prices often:价格常常
 prices on the other hand:价格另一方面
@@ -17180,132 +17400,300 @@ prime minister needs:总理需要
 prime minister new:总理新的
 prime minister nomination:总理提名
 prime minister now:总理现在
+prime minister of abkhazia:阿布哈兹总理
+prime minister of abkhazia:阿布哈茲总理
 prime minister of abkhazia:阿布哈茲總理
 prime minister of afghanistan:阿富汗总理
+prime minister of albania:阿尔巴尼亚总理
 prime minister of algeria:阿尔及利亚总理
 prime minister of andorra:安道爾首相
+prime minister of angola:安哥拉总理
+prime minister of antigua and barbuda:安提瓜和巴布达总理
+prime minister of armenia:亚美尼亚总理
 prime minister of armenia:亞美尼亞總理
+prime minister of artsakh:阿尔察赫总理
 prime minister of aruba:阿魯巴首相
 prime minister of australia scott:澳大利亞總理斯科特
 prime minister of australia william:澳大利亞總理威廉
+prime minister of australia:澳大利亚总理
 prime minister of australia:澳大利亞總理
+prime minister of australia:澳洲总理
+prime minister of azerbaijan:阿塞拜疆总理
+prime minister of bahamas:巴哈马总理
 prime minister of bahrain:巴林首相
 prime minister of bangladesh:孟加拉国总理
+prime minister of bangladesh:孟加拉总理
 prime minister of barbados:巴巴多斯总理
+prime minister of belarus:白俄罗斯总理
+prime minister of belarus:白罗斯总理
 prime minister of belgium charles:比利时首相查尔斯
+prime minister of belgium:比利时总理
 prime minister of belgium:比利时首相
+prime minister of belize:伯利兹总理
+prime minister of benin:贝宁总理
+prime minister of bhutan:不丹总理
+prime minister of bosnia and herzegovina:波斯尼亚和黑塞哥维那总理
+prime minister of bosnia and herzegovina:波黑总理
+prime minister of brazil:巴西总理
 prime minister of brunei:文莱首相
+prime minister of bulgaria:保加利亚总理
+prime minister of burkina faso:布基纳法索总理
+prime minister of burma:緬甸总理
+prime minister of burma:缅甸总理
 prime minister of burundi:布隆迪总理
+prime minister of cambodia:柬埔寨总理
 prime minister of cameroon:喀麦隆总理
+prime minister of canada:加拿大总理
 prime minister of canada:加拿大總理
+prime minister of cape verde:佛得角总理
+prime minister of central african republic:中非共和国总理
+prime minister of central african republic:中非总理
+prime minister of ceylon:锡兰总理
+prime minister of chad:乍得总理
+prime minister of china:中华人民共和国总理
+prime minister of china:中国总理
+prime minister of china:中國总理
+prime minister of china:中華人民共和國总理
+prime minister of comoros:科摩罗总理
+prime minister of congo-brazzaville:刚果共和国总理
+prime minister of congo:刚果共和国总理
+prime minister of congo:刚果总理
+prime minister of crimea:克里米亚总理
 prime minister of crimea:克里米亞部長會議主席
 prime minister of croatia:克罗地亚总理
 prime minister of cuba:古巴总理
+prime minister of curacao:库拉索总理
+prime minister of curaçao:库拉索总理
+prime minister of czech republic:捷克共和国总理
+prime minister of czech republic:捷克总理
+prime minister of czechoslovakia:捷克斯洛伐克总理
+prime minister of côte d'ivoire:科特迪瓦总理
+prime minister of côte d'ivoire:象牙海岸总理
+prime minister of democratic kampuchea:民主柬埔寨总理
+prime minister of denmark:丹麦总理
+prime minister of djibouti:吉布提总理
+prime minister of dominica:多米尼克总理
 prime minister of east timor:东帝汶总理
 prime minister of egypt:埃及总理
+prime minister of equatorial guinea:赤道几内亚总理
 prime minister of estonia:愛沙尼亞總理
+prime minister of estonia:爱沙尼亚总理
+prime minister of eswatini:斯威士兰总理
 prime minister of ethiopia:埃塞俄比亚总理
+prime minister of ethiopia:衣索比亞总理
 prime minister of fiji:斐济总理
+prime minister of finland:芬兰总理
+prime minister of finland:芬蘭总理
 prime minister of france:法国总理
+prime minister of france:法國总理
 prime minister of gabon:加蓬总理
 prime minister of georgia:格鲁吉亚总理
+prime minister of germany:德国总理
+prime minister of germany:德國总理
 prime minister of ghana:加纳总理
 prime minister of greece:希腊总理
+prime minister of greece:希臘总理
 prime minister of greenland:格陵兰总理
+prime minister of grenada:格林纳达总理
+prime minister of guinea-bissau:几内亚比绍总理
+prime minister of guinea-bissau:幾內亞比索总理
+prime minister of guinea:几内亚总理
+prime minister of guinea:幾內亞总理
+prime minister of guyana:圭亚那总理
+prime minister of haiti:海地总理
 prime minister of haiti:海地總理
+prime minister of haïti:海地总理
 prime minister of humor:总理的幽默
 prime minister of hungary:匈牙利总理
 prime minister of iceland:冰岛总理
+prime minister of iceland:冰島总理
 prime minister of india after:印度总理后
 prime minister of india agree:印度总理同意
 prime minister of india must admit:印度总理必须承认
 prime minister of india understand:印度总理理解
 prime minister of india:印度总理
+prime minister of indonesia:印尼总理
+prime minister of indonesia:印度尼西亚总理
 prime minister of indonesia:印度尼西亚总理列表
+prime minister of iran:伊朗总理
 prime minister of iran:伊朗總理
 prime minister of iraq:伊拉克总理
+prime minister of ireland:爱尔兰总理
 prime minister of israel visit:以色列总理访问
 prime minister of israel:以色列总理
 prime minister of italy:意大利总理
+prime minister of italy:義大利总理
+prime minister of ivory coast:科特迪瓦总理
+prime minister of ivory coast:象牙海岸总理
 prime minister of jamaica:牙买加总理
 prime minister of japan:內閣總理大臣
+prime minister of japan:日本总理
 prime minister of jordan:约旦首相
 prime minister of kazakhstan:哈萨克斯坦总理
 prime minister of kenya:肯尼亚总理
 prime minister of korea:朝鮮半島政府首腦
+prime minister of korea:朝鲜总理
+prime minister of korea:韩国总理
 prime minister of kosovo:科索沃总理
 prime minister of kurdistan region:伊拉克库尔德斯坦总理
+prime minister of kuwait:科威特总理
+prime minister of kyrgyzstan:吉尔吉斯斯坦总理
+prime minister of laos:寮國总理
+prime minister of laos:老挝总理
 prime minister of laos:老挝政府总理
 prime minister of latvia:拉脫維亞總理
+prime minister of latvia:拉脱维亚总理
 prime minister of lebanon would:黎巴嫩总理将
 prime minister of lebanon:黎巴嫩总理
+prime minister of lesotho:莱索托总理
+prime minister of libya:利比亚总理
 prime minister of lithuania:立陶宛总理
+prime minister of luhansk people's republic:卢甘斯克人民共和国总理
+prime minister of luxembourg:卢森堡总理
 prime minister of luxembourg:卢森堡首相
+prime minister of macedonia:北马其顿总理
+prime minister of macedonia:马其顿总理
 prime minister of madagascar:马达加斯加总理
 prime minister of malawi:马拉维总理
+prime minister of malaysia:马来西亚总理
 prime minister of malaysia:马来西亚首相
+prime minister of mali:马里总理
 prime minister of malta:馬耳他總理
+prime minister of malta:马耳他总理
+prime minister of manchukuo:满洲国总理
+prime minister of mauritania:毛里塔尼亚总理
 prime minister of mauritius:毛里求斯总理
 prime minister of moldova is moldova:摩尔多瓦总理是摩尔多瓦
 prime minister of moldova:摩尔多瓦总理
+prime minister of mongolia:蒙古国总理
 prime minister of mongolia:蒙古國總理
+prime minister of mongolia:蒙古总理
+prime minister of montenegro:蒙特內哥羅总理
 prime minister of montenegro:蒙特內哥羅總理
+prime minister of montenegro:黑山总理
+prime minister of mozambique:莫桑比克总理
+prime minister of myanmar:緬甸总理
 prime minister of myanmar:緬甸總理
+prime minister of myanmar:缅甸总理
+prime minister of nagorno-karabakh:纳戈尔诺-卡拉巴赫总理
 prime minister of namibia:纳米比亚总理
 prime minister of nepal:尼泊尔总理
+prime minister of nepal:尼泊爾总理
+prime minister of netherlands:荷兰总理
 prime minister of new zealand:新西兰总理
+prime minister of newfoundland:纽芬兰总理
+prime minister of niger:尼日尔总理
 prime minister of nigeria:尼日利亚总理
 prime minister of niue:纽埃总理
+prime minister of north korea:朝鲜总理
+prime minister of north korea:朝鲜民主主义人民共和国总理
 prime minister of north macedonia:北马其顿总理
+prime minister of north vietnam:越南民主共和国总理
+prime minister of north yemen:北也门总理
+prime minister of northern cyprus:北塞浦路斯总理
 prime minister of northern cyprus:北賽普勒斯總理
 prime minister of norway:挪威首相
 prime minister of pakistan:巴基斯坦总理
+prime minister of palestine:巴勒斯坦总理
 prime minister of papua new guinea:巴布亚新几内亚总理
+prime minister of peru:秘鲁总理
 prime minister of poland:波兰总理
+prime minister of poland:波蘭总理
+prime minister of portugal:葡萄牙总理
 prime minister of portugal:葡萄牙總理
+prime minister of republika srpska:塞族共和国总理
+prime minister of rhodesia:羅德西亞总理
 prime minister of romania:罗马尼亚总理
 prime minister of russia dmitry:俄罗斯总理德米特里
+prime minister of russia:俄国总理
 prime minister of russia:俄罗斯总理
+prime minister of russia:俄羅斯总理
 prime minister of rwanda:卢旺达总理
+prime minister of saint kitts and nevis:圣基茨和尼维斯总理
+prime minister of saint lucia:圣卢西亚总理
+prime minister of saint vincent and the grenadines:圣文森特和格林纳丁斯总理
 prime minister of samoa:萨摩亚总理
+prime minister of sao tome and principe:圣多美和普林西比总理
 prime minister of saudi arabia:沙特阿拉伯首相
 prime minister of senegal:塞内加尔总理
 prime minister of serbia and montenegro:塞尔维亚和黑山总理
 prime minister of serbia:塞尔维亚总理
+prime minister of serbia:塞爾維亞总理
 prime minister of seychelles:塞舌尔总理
+prime minister of sierra leone:塞拉利昂总理
+prime minister of singapore:新加坡总理
 prime minister of singapore:新加坡總理
+prime minister of sint maarten:荷属圣马丁总理
+prime minister of sint maarten:荷屬聖馬丁总理
 prime minister of sint maarten:荷屬聖馬丁首相
+prime minister of slovakia:斯洛伐克总理
 prime minister of slovakia:斯洛伐克總理
+prime minister of slovenia:斯洛文尼亚总理
 prime minister of slovenia:斯洛文尼亚总理列表
 prime minister of solomon islands:所罗门群岛总理
+prime minister of somalia:索马里总理
 prime minister of south africa:南非总理
+prime minister of south korea:大韩民国总理
+prime minister of south korea:韓國总理
 prime minister of south korea:韩国国务总理
+prime minister of south korea:韩国总理
 prime minister of south ossetia:南奥塞梯总理
+prime minister of south vietnam:越南共和国总理
+prime minister of south yemen:也门民主人民共和国总理
+prime minister of spain:西班牙总理
 prime minister of spain:西班牙首相
+prime minister of sri lanka:斯里兰卡总理
+prime minister of sri lanka:斯里蘭卡总理
+prime minister of sudan:苏丹总理
+prime minister of suriname:苏里南总理
+prime minister of swaziland:斯威士兰总理
+prime minister of sweden:瑞典总理
 prime minister of sweden:瑞典首相
+prime minister of syria:叙利亚总理
+prime minister of syria:敘利亞总理
 prime minister of syria:敘利亞總理
+prime minister of são tomé and príncipe:圣多美和普林西比总理
 prime minister of tajikistan:塔吉克斯坦总理
+prime minister of tanzania:坦桑尼亚总理
 prime minister of thailand:泰国总理
+prime minister of thailand:泰國总理
 prime minister of the bahamas:巴哈马总理
 prime minister of the central african republic:中非共和国总理
 prime minister of the cook islands:库克群岛总理
+prime minister of the country:国家总理
 prime minister of the czech republic:捷克总理
 prime minister of the donetsk people's republic:顿涅茨克人民共和国总理
 prime minister of the gambia:冈比亚总理
+prime minister of the gambia:岡比亞总理
+prime minister of the government:政府总理
 prime minister of the luhansk people's republic:卢甘斯克人民共和国总理
 prime minister of the nagorno karabakh republic:阿尔察赫总理
 prime minister of the netherlands antilles:荷属安的列斯总理
 prime minister of the netherlands says:荷兰首相说
+prime minister of the netherlands:荷兰总理
 prime minister of the netherlands:荷兰首相
+prime minister of the people's republic of china:中华人民共和国总理
 prime minister of the philippines:菲律宾总理
 prime minister of the sahrawi arab democratic republic:撒拉威阿拉伯民主共和國總理
+prime minister of the soviet union:苏联总理
 prime minister of the state of palestine:巴勒斯坦总理
+prime minister of the state:国家总理
+prime minister of the state:州总理
+prime minister of the united arab emirates:阿联酋总理
 prime minister of the united kingdom david:英国首相大卫
 prime minister of the united kingdom tony:英国首相托尼
 prime minister of the united kingdom:英国首相
+prime minister of the united states:美国总理
+prime minister of timor leste:东帝汶总理
+prime minister of timor-leste:东帝汶总理
 prime minister of togo:多哥总理
+prime minister of tonga:東加总理
 prime minister of tonga:汤加首相
+prime minister of transnistria:德涅斯特河沿岸总理
 prime minister of transnistria:德涅斯特河沿岸總理
+prime minister of trinidad and tobago:特立尼达和多巴哥总理
+prime minister of tunisia:突尼斯总理
+prime minister of tunisia:突尼西亞总理
 prime minister of tunisia:突尼西亞總理
 prime minister of turkey recep:土耳其总理雷杰普
 prime minister of turkey:土耳其总理
@@ -17313,12 +17701,18 @@ prime minister of turkmenistan:土库曼斯坦总理
 prime minister of tuvalu:图瓦卢总理
 prime minister of uganda:乌干达总理
 prime minister of ukraine:乌克兰总理
+prime minister of united arab emirates:阿拉伯联合酋长国总理
+prime minister of united arab emirates:阿联酋总理
+prime minister of upper volta:上沃尔特总理
 prime minister of uzbekistan:乌兹别克斯坦总理
 prime minister of vanuatu:瓦努阿图总理
 prime minister of vietnam:越南总理
+prime minister of western sahara:西撒哈拉总理
 prime minister of yemen:也门总理
+prime minister of yugoslavia:南斯拉夫总理
 prime minister of yugoslavia:南斯拉夫總理
 prime minister of zambia:赞比亚总理
+prime minister of zimbabwe:津巴布韦总理
 prime minister offer:总理提供
 prime minister office:总理办公室
 prime minister office:总理府
@@ -17695,6 +18089,7 @@ prince became:王子成为
 prince become:王子成为
 prince begin:王子开始
 prince believe:王子相信
+prince bishop of liège:列日采邑主教
 prince bishop:采邑主教
 prince bishopric of augsburg:奥格斯堡采邑主教区
 prince bishopric of brixen:布雷萨诺内采邑主教区
@@ -17708,6 +18103,7 @@ prince bishopric of utrecht:乌得勒支采邑主教区
 prince bishopric of warmia:瓦尔米亚采邑主教区
 prince bishopric of worms:沃尔姆斯采邑主教区
 prince captain:王子船长
+prince carl of denmark:丹麦王子卡尔
 prince carl philip:王子卡尔菲利普
 prince carl:王子卡尔
 prince caspian:賈思潘王子
@@ -17716,6 +18112,7 @@ prince centre:太子中心
 prince charles island:查爾斯王子島
 prince charles mountains:查爾斯王子山脈
 prince charles of prussia:普魯士的卡爾
+prince charles of wales:威尔士王子查尔斯
 prince charles strait:查爾斯王子海峽
 prince charles:王子查尔斯
 prince charlie:王子查理
@@ -17746,6 +18143,9 @@ prince community:王子社区
 prince complex:王子复杂
 prince concert:王子音乐会
 prince consort bank:西卫滩
+prince consort of denmark:丹麥王夫
+prince consort of holland:荷蘭王夫
+prince consort of the netherlands:荷蘭王夫
 prince consort s:西卫滩
 prince consort:王夫
 prince constantin of liechtenstein:列支敦斯登的康斯坦丁
@@ -17780,6 +18180,9 @@ prince edward island:愛德華王子島省
 prince edward island:爱德华王子岛
 prince edward island:爱德华王子岛省
 prince edward islands:爱德华王子群岛
+prince edward of england:英格兰王子爱德华
+prince edward of wales:威尔斯王子爱德华
+prince edward of wales:威爾斯太子
 prince edward park:太子花苑
 prince edward restaurant:太子餐廳
 prince edward road / nullah road garden:太子道／水渠道花園
@@ -17836,6 +18239,7 @@ prince george circuit:喬治王子賽道
 prince george give:王子乔治给
 prince george land:乔治地岛
 prince george may refer to:喬治王子可以指
+prince george of cambridge:劍橋喬治王子
 prince george of denmark:丹麦的乔治王子
 prince george of greece and denmark:希臘和丹麥的喬治王子
 prince george of wales:威尔士的乔治王子
@@ -18001,35 +18405,58 @@ prince nirajan of nepal:尼拉詹王子
 prince noodles:王子麵
 prince notice:王子注意
 prince octavius of great britain:大不列颠的奥克塔维厄斯王子
+prince of abkhazia:阿布哈茲王子
 prince of amber:王子的琥珀
 prince of anhua rebellion:安化王之乱
 prince of asturias:阿斯圖里亞斯親王
+prince of belgium:比利時王子
+prince of bulgaria:保加利亚王子
+prince of cambridge:剑桥王子
+prince of central park:中央公園王子
 prince of chenliu:陈留王
 prince of chernigov:切尔尼戈夫王公列表
 prince of chu:楚王
 prince of dai:代王
+prince of denmark:丹麥王子
+prince of denmark:丹麦王子
+prince of egypt:埃及王子
+prince of galilee:加利利王子
+prince of greece and denmark:希腊及丹麦王子
+prince of greece:希腊王子
+prince of greece:希臘王子
 prince of hailing:海陵王
+prince of jordan:约旦王子
 prince of jutland:圣战豪情
 prince of kiev:王子的基辅
 prince of lanling:蘭陵王
 prince of lie:王子的谎言
 prince of lu:鲁王
+prince of luxembourg:卢森堡王子
+prince of monaco:摩纳哥王子
 prince of moscow:莫斯科大公
 prince of murom:穆罗姆统治者列表
 prince of ning rebellion:寧王之亂
 prince of ning:宁王
 prince of novgorod:诺夫哥罗德大公
 prince of orange:奧蘭治親王
+prince of parma:帕尔马王子
 prince of pereyaslavl:佩列亚斯拉夫王公列表
 prince of persia:波斯王子系列
 prince of polotsk:波洛茨克统治者列表
+prince of portugal:葡萄牙王子
+prince of prussia:普魯士王子
 prince of qi:齐王
+prince of serbia:塞爾維亞王子
 prince of something:王子的东西
 prince of songkla university:宋卡王子大學
+prince of spain:西班牙王子
 prince of stride:疾走王子
+prince of sweden:瑞典王子
 prince of tears:淚王子
+prince of tennis:网球王子
 prince of the church:教會親王
 prince of the holy roman empire:帝國親王
+prince of the united kingdom:英国王子
 prince of tmutarakan:特穆塔拉干统治者列表
 prince of turov:图罗夫统治者列表
 prince of tver:特维尔大公
@@ -18048,7 +18475,9 @@ prince of wales trophy:威爾斯親王盃
 prince of wales's stakes:威爾斯親王錦標
 prince of wales-brücke:威尔士亲王大桥
 prince of wales-sziget:威尔士亲王岛
+prince of wales:威尔士王子
 prince of wales:威爾士親王
+prince of wales:威爾斯王子
 prince of waterloo:滑铁卢亲王
 prince of wolf:狼王子
 prince of yan:燕王
@@ -18077,6 +18506,7 @@ prince philip dental hospital:菲臘牙科醫院
 prince philip designers prize:菲利普親王設計獎
 prince philip glacier:菲利普親王冰川
 prince philip movement:菲利普亲王运动
+prince philip of greece:希臘王子菲利普
 prince philip:王子菲利普
 prince plans:王子计划
 prince plaza:太子广场
@@ -18214,6 +18644,11 @@ prince's heights (stage ii):太子閣第二期
 prince's palace of monaco:摩納哥親王宮
 prince's spring:王子泉
 prince's terrace:太子台
+prince-bishop of augsburg:奥格斯堡采邑主教
+prince-bishop of liège:列日采邑主教
+prince-bishop of montenegro:黑山采邑主教
+prince-bishop of münster:明斯特采邑主教
+prince-bishop of strasbourg:斯特拉斯堡采邑主教
 prince-bishop:采邑主教
 prince-of-wales-insel:威尔士亲王岛
 prince-of-wales-insel:威爾士親王島
@@ -18223,6 +18658,21 @@ prince:王爵
 princely abbey of corvey:柯维修道院
 princely abbey of fulda:富尔达修道院
 princely county of gorizia and gradisca:戈里齊亞和格拉迪斯
+princely state of bahawalpur:巴哈瓦尔布尔土邦
+princely state of bharatpur:婆罗多布尔土邦
+princely state of bhopal:博帕尔土邦
+princely state of bikaner:比卡內爾土邦
+princely state of bundi:本迪土邦
+princely state of gwalior:瓜廖尔土邦
+princely state of hyderabad:海得拉巴土邦
+princely state of jammu and kashmir:查谟和克什米尔土邦
+princely state of junagadh:朱納格特土邦
+princely state of kashmir:克什米尔土邦
+princely state of khairpur:海爾布爾土邦
+princely state of kolhapur:戈爾哈布爾土邦
+princely state of mysore:迈索尔土邦
+princely state of patiala:伯蒂亚拉土邦
+princely state of udaipur:烏代浦土邦
 princely state:土邦
 princeps pastorum:牧者的王子
 princeps senatus:首席元老
@@ -18345,6 +18795,7 @@ princess charlotte and prince louis:夏洛特公主和路易王子
 princess charlotte bay:夏洛特公主湾
 princess charlotte elizabeth:夏洛特公主伊丽莎白
 princess charlotte exist:夏洛特公主存在
+princess charlotte of cambridge:劍橋夏洛特公主
 princess charlotte of denmark:丹麥的夏洛特公主
 princess charlotte says:夏洛特公主说
 princess charlotte want:夏洛特公主想要
@@ -18364,6 +18815,8 @@ princess comet:彗星公主
 princess comment:公主评论
 princess connect:公主连接
 princess consent:公主同意
+princess consort of monaco:摩納哥王妃
+princess consort of monaco:摩纳哥王妃
 princess consort:王妃
 princess continue:公主继续
 princess cookie:餅乾公主
@@ -18590,10 +19043,26 @@ princess nora of liechtenstein:列支敦斯登的諾拉
 princess notice:公主注意
 princess nukata:額田王
 princess of asturias awards:阿斯图里亚斯亲王奖
+princess of asturias:阿斯图里亚斯公主
+princess of belgium:比利时公主
+princess of brazil:巴西公主
+princess of china:中国公主
+princess of china:中國公主
+princess of greece:希臘公主
+princess of hanover:漢諾威公主
 princess of heart:公主的心
 princess of helium:公主的氦
+princess of lamballe:朗巴勒公主
+princess of mars:火星公主
+princess of prussia:普魯士公主
+princess of rome:罗马公主
+princess of thailand:泰国公主
+princess of the sun:太阳公主
+princess of the united kingdom:英国公主
 princess of wales theatre:威爾斯王妃劇院
+princess of wales:威尔士公主
 princess of wales:威爾士王妃
+princess of wales:威爾斯公主
 princess of xiaohe:小河公主
 princess olga of greece and denmark:希臘和丹麥的奧爾加
 princess once:公主一次
@@ -18961,11 +19430,15 @@ principal's living quarters:校長宿舍
 principal's office:校長室
 principality of achaea:亚该亚侯国
 principality of albania:阿尔巴尼亚公国
+principality of albania:阿爾巴尼亞親王國
+principality of andorra:安道爾親王國
 principality of anhalt:安哈尔特亲王国
 principality of antioch:安條克公國
 principality of aschaffenburg:阿沙芬堡親王國
 principality of bulgaria:保加利亞大公國
+principality of bulgaria:保加利亞親王國
 principality of capua:卡普阿公国
+principality of catalonia:加泰罗尼亚親王國
 principality of catalonia:加泰隆尼亞公國
 principality of chernigov:切尔尼戈夫公国
 principality of galicia:加利奇公國
@@ -18977,10 +19450,14 @@ principality of khachen:哈琴公国
 principality of kiev:基辅大公国
 principality of leyen:莱延侯国
 principality of lichtenberg:利希滕贝格公国
+principality of liechtenstein:列支敦士登親王國
 principality of lippe:利珀亲王国
+principality of liège:列日親王國
 principality of lucca and piombino:卢卡和皮翁比诺公国
 principality of marlborough:馬爾堡公國
 principality of monaco pavilion:摩纳哥馆
+principality of monaco:摩納哥親王國
+principality of montenegro:蒙特內哥羅親王國
 principality of montenegro:黑山公國
 principality of moscow:莫斯科大公国
 principality of orange:奧蘭治親王國
@@ -18997,6 +19474,7 @@ principality of theodoro:狄奧多羅公國
 principality of tver:特维尔大公国
 principality of volhynia:沃里尼亚公国
 principality of waldeck and pyrmont:瓦爾代克和皮爾蒙特親王國
+principality of wales:威尔士親王國
 principality of wales:威爾斯親王國
 principality of wy:瓦依公國
 principality of yaroslavl:雅羅斯拉夫爾公國
@@ -19186,17 +19664,25 @@ principle of compositionality:复合性原理
 principle of democratic centralism:原理的民主集中制
 principle of double effect:雙重效果論
 principle of economics:原则的经济学
+principle of economy:经济原则
+principle of equality:平等原则
+principle of equivalence:等价原理
 principle of explosion:爆炸原理
 principle of faunal succession:化石层序律
 principle of inheritance:原则的继承
 principle of lateral continuity:側向連續律
+principle of law:法律原则
 principle of least privilege:最小权限原则
 principle of lizard:原则的蜥蜴
 principle of locality:定域性原理
+principle of neutrality:中立原则
 principle of original horizontality:原初水平律
+principle of rationality:理性原则
 principle of relativity:相对性原理
 principle of sufficient reason:充足理由律
 principle of things:原则的事情
+principle of uncertainty:不确定性原则
+principle of uncertainty:不确定性原理
 principle of virtual work:虛功原理
 principle offer:原则提供
 principle offer:原理提供
@@ -19517,8 +20003,11 @@ principles of hindu reckoning:印度算术原理
 principles of induction heating:原则的感应加热
 principles of interpretation:原则的解释
 principles of islamic jurisprudence:伊斯兰法学原理
+principles of law:法律原则
 principles of management:原则的管理
 principles of nation:原则的国家
+principles of natural justice:自然公正原则
+principles of physical science:物理学原则
 principles of textile:原则的纺织品
 principles of the constitution:钦定宪法大纲
 principles offer:原则提供
@@ -21032,6 +21521,7 @@ prison de socrate:关押苏格拉底的监狱
 prison death bed:监狱死亡床
 prison death:监狱死亡
 prison debate:监狱辩论
+prison department of malaysia:马来西亚监狱部门
 prison department:监狱部门
 prison design:监狱设计
 prison discipline:监狱纪律
@@ -21418,6 +21908,7 @@ prisoner nurse:囚犯护士
 prisoner of conscience amos yee:良心犯余澎杉
 prisoner of conscience anwar:良心犯安瓦尔
 prisoner of conscience zhu yufu:良心犯朱虞夫
+prisoner of conscience:良心囚犯
 prisoner of conscience:良心犯
 prisoner of hope:囚犯的希望
 prisoner of jesus christ:囚犯的耶稣基督
@@ -25533,6 +26024,7 @@ privilege management infrastructure:授權管理基礎建設
 privilege model:特权模型
 privilege needs:特权需要
 privilege of a person:特权的一个人
+privilege of koszyce:科希策特权
 privilege of koszyce:科希策特權
 privilege of six:特权的六
 privilege or advantage:特权或优势
@@ -26527,8 +27019,10 @@ problem novel:问题小说
 problem now:问题现在
 problem obviously:问题显然
 problem of apollonius:阿波罗尼奥斯问题
+problem of consciousness:意识难题
 problem of course:问题当然
 problem of evil:罪惡問題
+problem of free will:自由意志问题
 problem of induction:归纳问题
 problem of multiple generality:多重普遍性问题
 problem of other minds:他心問題
@@ -26536,6 +27030,7 @@ problem of points:點數分配問題
 problem of principle:问题的原则
 problem of production:问题的生产
 problem of religious language:宗教语言问题
+problem of time:时间问题
 problem of time:時間問題
 problem of two emperors:雙帝問題
 problem of universals:共相問題
@@ -27169,6 +27664,8 @@ problems number theory:问题数论
 problems of course:问题当然
 problems of criticism:问题的批评
 problems of peace and socialism:和平与社会主义问题
+problems of peace and socialism:和平和社会主义问题
+problems of philosophy:哲学问题
 problems offer:问题提供
 problems often:问题常常
 problems once again:问题再次
@@ -28657,9 +29154,13 @@ process object:处理对象
 process obviously:过程显然
 process occasionally:过程偶尔
 process of adaptive control:过程的自适应控制
+process of conversion:转换过程
+process of decay:腐烂过程
 process of democracy:过程的民主
 process of each process:过程的每个过程
 process of energy exchange:过程的能量交换
+process of evolution:演化过程
+process of evolution:进化过程
 process of food safety:过程的食品安全
 process of invest:处理的投资
 process of management:过程的管理
@@ -32757,6 +33258,7 @@ product of high quality:产品的高质量
 product of international:产品的国际
 product of national security:产品的国家安全
 product of nutrition:产品的营养
+product of society:社会产品
 product of the year:产品年度
 product of wealth:产品的财富
 product off:产品关闭
@@ -35389,6 +35891,7 @@ production of export:产品的出口
 production of food quality:生产的食品质量
 production of food:生产的食品
 production of food:生产的食物
+production of food:食品生产
 production of glass:生产的玻璃
 production of gold:生产的金
 production of goods:生产的商品
@@ -38097,6 +38600,7 @@ profession is canada:专业是加拿大
 profession is you:专业是你
 profession it:专业它
 profession needs:专业需要
+profession of medicine:医学专业
 profession of soldier:專業的士兵
 profession open:专业开
 profession opportunity:专业机会
@@ -42823,10 +43327,13 @@ professor now:教授现在
 professor occasionally:教授偶尔
 professor of anthropology:教授的人类学
 professor of bible:教授的聖經
+professor of botany:植物学教授
 professor of clinical:教授的临床
 professor of computer science:教授的计算机科学
 professor of historical theology:教授的歷史神學
+professor of medicine:医学教授
 professor of new testament:教授的新約聖經
+professor of philosophy:哲学教授
 professor of philosophy:教授的哲学
 professor of teach:教授的教
 professor of the russian academy of sciences:俄罗斯科学院教授
@@ -45498,7 +46005,10 @@ progressive aspect:进行体
 progressive conservatism:进步保守主义
 progressive conservative association of nova scotia:新斯科舍进步保守党
 progressive conservative party of canada:加拿大進步保守黨
+progressive conservative party of manitoba:緬尼吐巴省進步保守黨
+progressive conservative party of new brunswick:紐賓士域省進步保守黨
 progressive conservative party of ontario government:安大略進步保守黨政府
+progressive conservative party of ontario:安大略省進步保守黨
 progressive conservative party of ontario:安大略進步保守黨
 progressive conservative party:進步保守黨
 progressive democratic tribune:民主进步论坛
@@ -45527,6 +46037,10 @@ progressive party candidate henry:进步党候选人亨利
 progressive party candidate:进步党候选人
 progressive party leader:进步党领袖
 progressive party nomination:进步党提名
+progressive party of brazil:巴西进步党
+progressive party of canada:加拿大进步党
+progressive party of china:中国进步党
+progressive party of the philippines:菲律宾进步党
 progressive party of working people:劳动人民进步党
 progressive party:进步党
 progressive realism:進步現實主義
@@ -45538,6 +46052,7 @@ progressive scan line:逐行扫描线
 progressive scan technology:逐行扫描技术
 progressive scan:逐行扫描
 progressive slovakia:進步斯洛伐克
+progressive socialist party of ukraine:乌克兰进步社会党
 progressive socialist party of ukraine:烏克蘭進步社會黨
 progressive socialist party:进步社会党
 progressive supranuclear palsy:進行性上眼神經核麻痺症
@@ -45891,6 +46406,7 @@ prohibition in the united states:美國禁酒令
 prohibition include:禁令包括
 prohibition is racist:禁令是種族主義
 prohibition museum:禁酒博物馆
+prohibition of drugs:毒品禁令
 prohibition of image:禁令的图像
 prohibition on face covering regulation:禁止蒙面規例
 prohibition party candidate:禁酒党候选人
@@ -49478,11 +49994,14 @@ proof of heaven:天堂的证据
 proof of payment:信用乘车方式
 proof of purpose has been:证据的目的已经
 proof of purpose:证据的目的
+proof of space:空間證明
 proof of stake:持有量證明
 proof of the man:人性的证明
+proof of vaccination:疫苗接種證明
 proof of work algorithm:工作量證明算法
 proof of work algorithms:工作量證明算法
 proof of work currency:工作量證明货币
+proof of work:工作證明
 proof of work:工作量證明
 proof or absolute:证据或绝对
 proof or explanation:证据或解释
@@ -49780,6 +50299,7 @@ propaganda music:政治宣传音乐
 propaganda myth:宣传神话
 propaganda network:宣传网络
 propaganda of his party:宣传的他的党
+propaganda of nazi germany:纳粹德国政治宣传
 propaganda of the deed:行動宣傳
 propaganda offensive and lie:宣传攻势和谎言
 propaganda offensive:宣传攻势
@@ -49981,6 +50501,8 @@ propagation network:传播网络
 propagation networks:传播网络
 propagation neural network algorithm:传播神经网络算法
 propagation neural network:传播神经网络
+propagation of christianity:基督教传播
+propagation of islam:伊斯兰教传播
 propagation of some crops:传播的一些农作物
 propagation of uncertainty:误差传播
 propagation option:传播选项
@@ -50664,6 +51186,8 @@ prophet muhammad said:先知穆罕默德说
 prophet muhammad:先知穆罕默德
 prophet notice:先知注意
 prophet of hero:先知的英雄
+prophet of islam:伊斯兰教先知
+prophet of truth:真相先知
 prophet offer:先知提供
 prophet once:先知曾经
 prophet only:先知只有
@@ -52088,6 +52612,8 @@ prostitution network and drugs:卖淫网络和毒品
 prostitution network:卖淫网络
 prostitution networks:卖淫网络
 prostitution not:卖淫不是
+prostitution of children:儿童卖淫
+prostitution of children:儿童性交易
 prostitution phenomenon:性交易现象
 prostitution points:卖淫点
 prostitution policy:卖淫政策
@@ -55144,7 +55670,9 @@ protection of diplomats convention:关于防止和惩处侵害应受国际保护
 protection of high:保护的高
 protection of information:保护的信息
 protection of irrigation system:保护的灌溉系统
+protection of nature:自然保护
 protection of norm:保护的规范
+protection of the environment:环境保护
 protection of the harbour ordinance:保護海港條例
 protection of the varieties of chinese:中國漢語方言保護
 protection offer:保护提供
@@ -55455,10 +55983,23 @@ protectorate general to pacify the east:安东都护府
 protectorate general to pacify the north:安北都护府
 protectorate general to pacify the west:安西大都护府
 protectorate governments:保护国政府
+protectorate of aden:亚丁保护国
+protectorate of albania:阿尔巴尼亚保护国
+protectorate of annam:安南保护国
+protectorate of annan:安南保护国
 protectorate of bohemia and moravia:波希米亞和摩拉維亞保護國
+protectorate of cambodia:柬埔寨保护国
+protectorate of france:法国保护国
+protectorate of laos:寮國保护国
+protectorate of laos:老挝保护国
 protectorate of missions:保教权
+protectorate of morocco:摩洛哥保护国
+protectorate of nigeria:尼日利亚保护国
+protectorate of peru:秘鲁保护国
+protectorate of san martín:圣马丁保护国
 protectorate of south arabia:南阿拉伯保护国
 protectorate of the western regions:西域都護府
+protectorate of uganda:乌干达保护国
 protectorate of uganda:烏干達保護國
 protectorate parliament:保护国议会
 protectorate status:保护国地位
@@ -56933,6 +57474,10 @@ protocol network:协议网络
 protocol neutral:协议中立
 protocol now:协议现在
 protocol nurse:协议护士
+protocol of florence:佛罗伦萨协议
+protocol of london:伦敦协议
+protocol of peace:和平协议
+protocol of rio de janeiro:里约热内卢协议
 protocol offer:协议提供
 protocol on blinding laser weapons:关于激光致盲武器的议定书
 protocol on economic relations:巴黎经济议定书
@@ -66668,171 +67213,555 @@ province northeast:省东北
 province now:省现在
 province n°1:第一省
 province occidentale:西方省
+province of a coruña:拉科魯尼亞省
+province of a coruña:拉科鲁尼亚省
+province of aceh:亚齐省
+province of aceh:亞齊省
+province of acomayo:阿科馬約省
+province of adana:亚丁省
+province of adana:亞丁省
+province of adana:阿达纳省
 province of agrigento:阿格里真托省
+province of albacete:阿尔瓦塞特省
 province of albacete:阿爾瓦塞特省
+province of aleppo:阿勒頗省
+province of aleppo:阿勒颇省
+province of alessandria:亚历山大省
+province of alessandria:亚历山德里亚省
 province of alessandria:亞歷山德里亞省
+province of alexandria:亚历山大省
+province of alexandria:亚历山德里亚省
+province of algiers:阿尔及尔省
+province of algiers:阿爾及爾省
 province of alicante:阿利坎特省
 province of ancona:安科納省
+province of ancona:安科纳省
+province of andahuaylas:安達韋拉斯省
+province of antwerp:安特卫普省
+province of aosta:奥斯塔省
+province of araba:阿拉瓦省
+province of arauco:阿劳科省
 province of arezzo:阿雷佐省
+province of artsakh:阿尔察赫省
 province of ascoli piceno:阿斯科利皮切諾省
 province of asti:阿斯蒂省
+province of asturias:阿斯图里亚斯省
+province of asturias:阿斯圖里亞斯省
+province of auckland:奥克兰省
 province of avellino:阿韋利諾省
+province of avila:阿维拉省
+province of azerbaijan:阿塞拜疆省
 province of badajoz:巴达霍斯省
+province of badajoz:巴達霍斯省
+province of bahrain:巴林省
+province of balochistan:俾路支斯坦省
 province of barcelona:巴塞罗那省
+province of barcelona:巴塞羅那省
+province of barcelona:巴塞隆納省
 province of bari:巴里省
+province of basra:巴士拉省
+province of batangas:八打雁省
 province of belluno:貝盧諾省
+province of belluno:贝卢诺省
 province of benevento:貝內文托省
+province of benevento:贝内文托省
+province of benghazi:班加西省
+province of benguela:本吉拉省
 province of bergamo:貝加莫省
+province of bergamo:貝爾加莫省
+province of bergamo:贝加莫省
+province of bergamo:贝尔加莫省
 province of biella:比耶拉省
+province of biscay:比斯开省
 province of bologna:博洛尼亚省
+province of bolzano:博尔扎诺省
+province of bombay:孟买省
+province of bombay:孟買省
+province of bosnia and herzegovina:波斯尼亚和黑塞哥维那省
+province of bosnia and herzegovina:波斯尼亞省
+province of boumerdès:布米尔达斯省
 province of brabant:布拉班特省
 province of brandenburg:勃兰登堡省
+province of brescia:布雷西亚省
 province of brescia:布雷西亞省
 province of brindisi:布林迪西省
+province of britain:不列顛省
+province of britannia:不列颠尼亚省
+province of brittany:布列塔尼省
+province of buenos aires:布宜諾斯艾利斯省
+province of buenos aires:布宜诺斯艾利斯省
 province of bumbunga:邦邦加省
 province of burgos:布尔戈斯省
+province of burma:緬甸省
+province of burma:缅甸省
+province of bursa:布尔萨省
+province of cagliari:卡利亚里省
 province of cagliari:卡利亞里省
+province of caltanissetta:卡尔塔尼塞塔省
 province of caltanissetta:卡爾塔尼塞塔省
+province of camagüey:卡馬圭省
 province of campobasso:坎波巴索省
 province of canada governance:加拿大省治理
 province of canada:加拿大省
+province of canta:坎塔省
+province of cantabria:坎塔布里亚省
 province of canterbury:坎特伯雷教省
+province of canterbury:坎特伯雷省
+province of carhuaz:卡爾瓦斯省
+province of carolina:卡罗莱纳省
 province of carolina:卡羅萊納省
+province of cartagena de indias:卡塔赫纳省
+province of cartagena:卡塔赫纳省
 province of caserta:卡塞塔省
 province of catania:卡塔尼亞省
 province of catanzaro:卡坦扎罗省
+province of cauquenes:考克內斯省
+province of cebu:宿务省
+province of cebu:宿霧省
 province of chieti:基耶蒂省
+province of chincheros:欽切羅斯省
+province of cienfuegos:西恩富戈斯省
 province of ciudad real:雷阿爾城省
+province of comayagua:科马亚瓜省
 province of como:科莫省
+province of concepción:康塞普西翁省
+province of cordoba:哥多華省
+province of cordoba:科尔多瓦省
+province of corrientes:科连特斯省
 province of cosenza:科森扎省
 province of cremona:克雷莫納省
+province of crotone:克罗托内省
 province of crotone:克羅托內省
 province of cuenca:昆卡省
+province of cuneo:库内奥省
 province of cuneo:庫內奧省
+province of cusco:庫斯科省
+province of cáceres:卡塞雷斯省
+province of cádiz:加的斯省
+province of córdoba:哥多華省
+province of córdoba:科尔多瓦省
+province of dalmatia:達爾馬提亞省
+province of damascus:大馬士革省
+province of damascus:大马士革省
+province of derna:德尔纳省
+province of drenthe:德伦特省
+province of east jersey:東澤西省
+province of east prussia:東普魯士省
+province of east timor:东帝汶省
+province of east timor:東帝汶省
+province of egypt:埃及省
 province of enna:恩納省
+province of enna:恩纳省
+province of errachidia:拉希迪耶省
+province of esmeraldas:埃斯梅拉达斯省
 province of fermo:費爾莫省
 province of ferrara:費拉拉省
+province of ferrara:费拉拉省
+province of finland:芬蘭省
+province of firenze:佛罗伦萨省
+province of florence:佛罗伦萨省
 province of florence:佛羅倫斯省
 province of foggia:福賈省
+province of formosa:台湾省
+province of formosa:臺灣省
+province of france:法国省
+province of freedom:自由省
 province of frosinone:弗罗西诺内省
+province of galatia:加拉太省
+province of galicia:加利西亚省
+province of gaziantep:加济安泰普省
+province of gaziantep:加濟安泰普省
+province of gelderland:海尔德兰省
+province of gelderland:海爾德蘭省
+province of genoa:热那亚省
 province of genoa:熱那亞省
+province of genova:热那亚省
 province of georgia:佐治亞省
+province of georgia:喬治亞省
+province of georgia:格鲁吉亚省
 province of german bohemia:德意志波希米亞省
+province of gerona:赫罗纳省
+province of girgenti:阿格里真托省
+province of girona:赫罗纳省
 province of girona:赫羅納省
+province of gitega:基特加省
 province of gorizia:戈里齊亞省
+province of gorizia:戈里齐亚省
 province of granada:格拉納達省
+province of granada:格拉纳达省
+province of groningen:格罗宁根省
+province of groningen:格羅寧根省
+province of grosseto:格罗塞托省
 province of grosseto:格羅塞托省
+province of guadalajara:瓜达拉哈拉省
 province of guadalajara:瓜達拉哈拉省
+province of guangdong:广东省
+province of guangdong:廣東省
+province of guantánamo:关塔那摩省
+province of hannover:汉诺威省
+province of hannover:漢諾威省
 province of hanover:汉诺威省
+province of hanover:漢諾威省
+province of havana:哈瓦那省
+province of hesse:黑森省
 province of hohenzollern:霍亨索伦省
+province of holland:荷兰省
+province of holland:荷蘭省
+province of homs:荷姆斯省
+province of homs:霍姆斯省
+province of huaraz:瓦拉斯省
+province of huaura:瓦烏拉省
 province of huelva and very:韋爾瓦省和非常
 province of huelva:韋爾瓦省
+province of huelva:韦尔瓦省
 province of huesca:韋斯卡省
+province of huesca:韦斯卡省
+province of hunan:湖南省
+province of idlib:伊德利卜省
 province of imperia:因佩里亞省
+province of isernia:伊塞尔尼亚省
 province of isernia:伊塞爾尼亞省
+province of isfahan:伊斯法罕省
+province of istanbul:伊斯坦堡省
+province of istanbul:伊斯坦布尔省
+province of italy:義大利省
+province of izmir:伊兹密尔省
+province of karabakh:卡拉巴赫省
+province of karaman:卡拉曼省
+province of khorasan:呼罗珊省
+province of konya:科尼亚省
+province of konya:科尼亞省
+province of kosovo:科索沃省
+province of kuching:古晉省
+province of kuching:古晋省
+province of kunduz:昆都士省
+province of kuopio:庫奧皮奧省
+province of kurdistan:庫爾德斯坦省
 province of kurhessen:黑森選侯省
+province of kırklareli:克爾克拉雷利省
 province of l'aquila:拉奎拉省
+province of la coruña:拉科魯尼亞省
+province of la coruña:拉科鲁尼亚省
+province of la romana:羅馬納省
 province of la spezia:拉斯佩齊亞省
+province of la spezia:拉斯佩齐亚省
+province of lagos:拉哥斯省
+province of languedoc:朗格多克省
 province of las californias:加利福尼亞省
+province of las palmas:拉斯帕尔马斯省
 province of las palmas:拉斯帕爾馬斯省
 province of latina:拉蒂纳省
 province of lecce:萊切省
 province of lecco:萊科省
+province of león:里昂省
+province of lima:利馬省
+province of lima:利马省
+province of limburg:林堡省
+province of linares:利納雷斯省
+province of livorno:利佛諾省
 province of livorno:里窝那省
+province of liège:列日省
 province of lleida:莱里达省
 province of lodi:洛迪省
+province of lower canada:下加拿大省
+province of lower silesia:下西里西亚省
+province of luanda:罗安达省
+province of luanda:羅安達省
+province of lucca:卢卡省
 province of lucca:盧卡省
 province of lugo:卢戈省
+province of lugo:盧戈省
+province of luxembourg:卢森堡省
+province of luxembourg:盧森堡省
+province of lérida:莱里达省
+province of macedonia:马其顿省
 province of macerata:馬切拉塔省
+province of macerata:马切拉塔省
+province of madrid:馬德里省
+province of madrid:马德里省
 province of magdeburg:馬格德堡省
+province of magdeburg:马格德堡省
 province of maine:緬因省
+province of malaga:馬拉加省
+province of malaga:马拉加省
+province of maluku:马鲁古省
+province of managua:馬拿瓜省
+province of managua:馬那瓜省
+province of manitoba:曼尼托巴省
+province of mantova:曼圖亞省
+province of mantova:曼托瓦省
+province of mantua:曼圖亞省
 province of mantua:曼托瓦省
 province of maryland:马里兰省
 province of massachusetts bay:马萨诸塞湾省
+province of matanzas:馬坦薩斯省
 province of matera:馬泰拉省
+province of matera:马泰拉省
 province of medio campidano:中坎皮达诺省
+province of mendoza:門多薩省
+province of mendoza:门多萨省
 province of messina:墨西拿省
+province of mikkeli:米凱利省
+province of milan:米兰省
 province of milan:米蘭省
+province of milano:米兰省
+province of milano:米蘭省
 province of modena:摩德納省
+province of modena:摩德纳省
+province of montevideo:蒙得維的亞省
+province of montevideo:蒙得维的亚省
 province of monza and brianza:蒙扎和布里安扎省
+province of málaga:馬拉加省
+province of málaga:马拉加省
+province of namur:那慕尔省
+province of namur:那慕爾省
+province of naples:拿坡里省
 province of naples:那不勒斯省
+province of napoli:拿坡里省
+province of napoli:那不勒斯省
 province of nassau:拿騷省
+province of nassau:拿骚省
+province of natal:纳塔尔省
+province of navarre:納瓦拉省
+province of neuquén:内乌肯省
 province of new hampshire:新罕布什爾省
 province of new jersey:新泽西省
+province of new south wales:新南威尔士省
+province of new york:紐約省
 province of new york:纽约省
+province of new-york:纽约省
+province of newfoundland:纽芬兰省
+province of north brabant:北布拉班特省
+province of north brabant:北布拉邦省
 province of north carolina:北卡罗来纳省
+province of north holland:北荷兰省
+province of north holland:北荷蘭省
 province of north west:西北省
 province of novara:諾瓦拉省
+province of novara:诺瓦拉省
+province of nuoro:努奥罗省
 province of nuoro:努奧羅省
 province of ogliastra:奧利亞斯特拉省
+province of ontario:安大略省
+province of ordu:奧爾杜省
+province of oristano:奥里斯塔诺省
 province of oristano:奧里斯塔諾省
+province of oulu:奥卢省
+province of oulu:奧盧省
 province of ourense:奥伦塞省
 province of oviedo:奥维耶多省
+province of padova:帕多瓦省
 province of padua:帕多瓦省
 province of palencia:帕伦西亚省
 province of palermo:巴勒莫省
+province of panamá:巴拿馬省
+province of panamá:巴拿马省
+province of papua:巴布亚省
+province of papua:西巴布亚省
+province of paraguay:巴拉圭省
+province of parma:帕尔马省
 province of parma:帕爾馬省
 province of pavia:帕維亞省
+province of pennsylvania:宾夕法尼亚州省
 province of pennsylvania:宾夕法尼亚省
 province of perugia:佩魯賈省
+province of perugia:佩鲁贾省
+province of pesaro and urbino:佩萨罗和乌尔比诺省
 province of pesaro and urbino:佩薩羅和烏爾比諾省
 province of pescara:佩斯卡拉省
+province of petsamo:佩琴加省
 province of piacenza:皮亚琴察省
+province of picardy:皮卡第省
+province of pisa:比萨省
 province of pisa:比薩省
 province of pistoia:皮斯托亞省
+province of pomerania:波美拉尼亞省
 province of pontevedra:蓬特韋德拉省
+province of pontevedra:蓬特韦德拉省
 province of pordenone:波代諾內省
 province of posen:波森省
+province of posen:波茲南省
 province of potenza:波坦察省
 province of prato:普拉托省
+province of prince edward island:愛德華王子島省
+province of prince edward island:爱德华王子岛省
+province of provence:普罗旺斯省
 province of prussia:普魯士省
+province of puntarenas:蓬塔雷納斯省
+province of quebec:魁北克省
+province of québec:魁北克省
+province of rabat:維多利亞省
+province of ragusa:拉古萨省
 province of ragusa:拉古薩省
 province of ravenna:拉文納省
+province of reggio calabria:雷焦卡拉布里亚省
 province of reggio calabria:雷焦卡拉布里亞省
+province of reggio emilia:雷焦艾米利亚省
 province of reggio emilia:雷焦艾米利亞省
 province of rieti:列蒂省
 province of rimini:里米尼省
+province of rio de janeiro:里約熱內盧省
+province of roma:罗马省
+province of roma:羅馬省
+province of rome:罗马省
 province of rome:羅馬省
+province of rovigo:罗维戈省
 province of rovigo:羅維戈省
 province of salamanca:萨拉曼卡省
+province of salerno:萨莱诺省
 province of salerno:薩萊諾省
+province of salta:萨尔塔省
+province of san antonio:圣安东尼奥省
+province of san antonio:聖安東尼奧省
+province of san josé:圣何塞省
+province of san josé:聖荷西省
+province of san juan:圣胡安省
+province of san juan:聖胡安省
+province of san luis:圣路易斯省
+province of san luis:聖路易斯省
+province of san salvador:聖薩爾瓦多省
+province of santa clara:圣克拉拉省
+province of santa cruz de tenerife:圣克鲁斯-德特内里费省
+province of santa cruz:聖克魯斯省
+province of santa fe:圣菲省
+province of santa fe:聖塔菲省
+province of santa fe:聖菲省
+province of santander:桑坦德省
+province of santiago de cuba:古巴圣地亚哥省
+province of santiago de los caballeros:圣地牙哥省
+province of santiago:古巴圣地亚哥省
+province of santiago:圣地亚哥省
+province of santiago:聖地亞哥省
+province of santiago:聖地牙哥省
+province of santo domingo:聖多明哥省
+province of sassari:萨萨里省
 province of sassari:薩薩里省
+province of savona:萨沃纳省
 province of savona:薩沃納省
 province of saxony:萨克森省
+province of saxony:薩克森省
+province of schleswig-holstein:石勒苏益格-荷尔斯泰因省
 province of segovia:塞哥維亞省
+province of segovia:塞哥维亚省
+province of sevilla:塞維亞省
+province of sevilla:塞维利亚省
+province of seville:塞維亞省
 province of seville:塞維利亞省
+province of seville:塞维利亚省
+province of shirvan:希爾凡省
+province of sicily:西西里省
+province of siem reap:暹粒省
 province of siena:錫耶納省
+province of siena:锡耶纳省
+province of siirt:錫爾特省
+province of silesia:西里西亞省
+province of siracusa:锡拉库萨省
+province of sivas:錫瓦斯省
+province of sivas:锡瓦斯省
+province of socorro:索科罗省
 province of sondrio:松德里奧省
+province of sondrio:桑治奧省
 province of soria:索里亚省
 province of south carolina:南卡羅萊納省
+province of south holland:南荷兰省
+province of south holland:南荷蘭省
+province of south prussia:南普魯士省
 province of south sardinia:南撒丁省
+province of spain:西班牙省
+province of st. joseph:圣约瑟夫省
+province of sulu:蘇魯省
 province of syracuse:錫拉庫薩省
+province of syracuse:锡拉库萨省
+province of syria:叙利亚省
+province of syria:敘利亞省
+province of são paulo:聖保羅省
+province of tacna:塔克納省
+province of tacna:塔克纳省
+province of taiwan:台湾省
+province of taiwan:台灣省
+province of taiwan:臺灣省
+province of talca:塔爾卡省
+province of taranto:塔兰托省
 province of taranto:塔蘭托省
+province of tarragona:塔拉戈納省
 province of tarragona:塔拉戈纳省
+province of tegucigalpa:德古西加巴省
+province of temeşvar:蒂米什瓦拉省
 province of teramo:泰拉莫省
 province of terni:特爾尼省
 province of teruel:特魯埃爾省
+province of teruel:特鲁埃尔省
+province of the netherlands:荷兰省
+province of the netherlands:荷蘭省
 province of the sudetenland:苏台德省
 province of toledo:托萊多省
+province of trabzon:特拉布宗省
 province of trapani:特拉帕尼省
+province of trento:特伦托省
 province of treviso:特雷維索省
 province of trieste:的里雅斯特省
+province of tripoli:的黎波里省
+province of trujillo:特鲁希略省
+province of tunja:通哈省
+province of turin:杜林省
+province of turin:都灵省
 province of turin:都靈省
+province of tébessa:泰贝萨省
 province of udine:烏迪內省
+province of uesca:韦斯卡省
+province of upper canada:上加拿大省
 province of upper silesia:上西里西亞省
+province of utrecht:乌得勒支省
+province of utrecht:乌特勒支省
+province of utrecht:烏得勒支省
+province of utrecht:烏特勒支省
+province of vaasa:瓦萨省
+province of valdivia:瓦尔迪维亚省
+province of valdivia:瓦爾迪維亞省
+province of valencia:巴伦西亚省
 province of valencia:巴倫西亞省
+province of valencia:瓦伦西亚省
+province of valencia:瓦倫西亞省
+province of valencia:華倫西亞省
+province of valladolid:巴利亚多利德省
 province of valladolid:巴利亞多利德省
+province of valència:巴伦西亚省
+province of valència:瓦伦西亚省
+province of valència:瓦倫西亞省
+province of varese:瓦雷泽省
 province of varese:瓦雷澤省
+province of venezia:威尼斯省
 province of venice:威尼斯省
 province of vercelli:韋爾切利省
+province of vercelli:韦尔切利省
 province of verona:維羅納省
+province of verona:维罗纳省
 province of vibo valentia:維博瓦倫蒂亞省
+province of vibo valentia:维博瓦伦蒂亚省
 province of vicenza:維琴察省
+province of vicenza:维琴察省
+province of victoria:維多利亞省
+province of victoria:维多利亚省
+province of viipuri:維堡省
+province of virginia:弗吉尼亚省
+province of viterbo:維泰博省
 province of viterbo:维泰博省
+province of vizcaya:比斯开省
+province of wellington:威靈頓省
+province of west africa:西非省
+province of west jersey:西澤西省
+province of west pakistan:西巴基斯坦省
+province of west papua:西巴布亚省
+province of west prussia:西普鲁士省
 province of westphalia:威斯特法伦省
+province of westphalia:西發里亞省
 province of york:約克教省
+province of york:约克省
 province of zamora:萨莫拉省
+province of zaragoza:萨拉戈萨省
 province of zaragoza:薩拉戈薩省
+province of zeeland:泽兰省
+province of zeeland:澤蘭省
 province offer:省提供
 province officials:省官员
 province oil:省油
@@ -68519,6 +69448,8 @@ provincial government information:省政府信息
 provincial government initiative:省政府倡议
 provincial government institutions:省政府机构
 provincial government needs:省政府需要
+provincial government of ontario:安大略省政府
+provincial government of quebec:魁北克省政府
 provincial government official:省政府官員
 provincial government officials:省政府官员
 provincial government partners:省政府合作伙伴
@@ -69957,13 +70888,34 @@ provisional government is absolutely:临时政府是绝对地
 provisional government lack:临时政府缺乏
 provisional government lack:臨時政府缺乏
 provisional government members:临时政府成员
+provisional government of albania:阿尔巴尼亚临时政府
+provisional government of albania:阿爾巴尼亞臨時政府
+provisional government of algeria:阿爾及利亞臨時政府
 provisional government of bangladesh:孟加拉人民共和國臨時政府
+provisional government of bangladesh:孟加拉国临时政府
+provisional government of bangladesh:孟加拉臨時政府
+provisional government of belgium:比利時臨時政府
+provisional government of cuba:古巴臨時政府
 provisional government of cuba:美國第二次佔領古巴
+provisional government of czechoslovakia:捷克斯洛伐克臨時政府
+provisional government of hawaii:夏威夷临时政府
 provisional government of hawaii:夏威夷臨時政府
+provisional government of korea:韩国临时政府
+provisional government of kosovo:科索沃臨時政府
+provisional government of latvia:拉脱维亚临时政府
+provisional government of lithuania:立陶宛臨時政府
+provisional government of mexico:墨西哥临时政府
 provisional government of mexico:墨西哥臨時政府
+provisional government of milan:米兰临时政府
+provisional government of milan:米蘭臨時政府
 provisional government of national unity:民族团结临时政府
+provisional government of russia:俄国临时政府
+provisional government of russia:俄国臨時政府
+provisional government of russia:俄罗斯临时政府
+provisional government of russia:俄羅斯臨時政府
 provisional government of the democratic federal yugoslavia:南斯拉夫民主联邦临时政府
 provisional government of the french republic:法蘭西共和國臨時政府
+provisional government of the people's republic of bangladesh:孟加拉人民共和国临时政府
 provisional government of the republic of china:中華民國臨時政府
 provisional government of the republic of korea:大韩民国临时政府
 provisional government of the republic of poland:波兰共和国临时政府

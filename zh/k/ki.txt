@@ -5538,6 +5538,7 @@ king airport:国王机场
 king albert park mrt station:阿尔柏王园地铁站
 king albert park:阿尔柏王园
 king albert:国王阿尔伯特
+king alexander i of yugoslavia:南斯拉夫国王亚历山大一世
 king alexander i:国王亚历山大一世
 king alexander ii:国王亚历山大二世
 king alexander iii:国王亚历山大三世
@@ -5549,6 +5550,7 @@ king alfonso i:国王阿方索一世
 king alfonso i:王阿方索一世
 king alfonso ii:国王阿方索二世
 king alfonso xii:国王阿方索十二世
+king alfonso xiii of spain:西班牙国王阿方索十三世
 king alfonso xiii:国王阿方索十三世
 king alfonso xiii:王阿方索十三世
 king alfred the great:国王阿尔弗雷德大帝
@@ -5751,6 +5753,7 @@ king car kavalan whisky distillery:金車威士忌酒廠
 king carl:国王卡尔
 king carloman:国王卡洛曼
 king carlos i:国王卡洛斯一世
+king carlos iii of spain:西班牙国王卡洛斯三世
 king carlos iii:国王卡洛斯三世
 king carlos iii:王卡洛斯三世
 king carlos:国王卡洛斯
@@ -5769,8 +5772,10 @@ king changed:王改变了
 king charge:国王控告
 king charlemagne:国王查理曼
 king charles hotel:国王查尔斯酒店
+king charles i of england:英格兰国王查理一世
 king charles i:国王查理一世
 king charles i:王查理一世
+king charles ii of england:英格兰国王查理二世
 king charles ii:国王查理二世
 king charles ii:王查理二世
 king charles iv of spain:国王卡洛斯四世
@@ -5780,10 +5785,13 @@ king charles ix of sweden:国王卡尔九世
 king charles ix:国王查理九世
 king charles the fat:国王胖子查理
 king charles the fat:王胖子查理
+king charles v of france:法国国王查理五世
 king charles v:国王查理五世
 king charles v:王查理五世
+king charles vi of france:法国国王查理六世
 king charles vi:国王查理六世
 king charles vi:王查理六世
+king charles vii of france:法国国王查理七世
 king charles vii:国王查理七世
 king charles viii:国王查理八世
 king charles viii:王查理八世
@@ -5846,7 +5854,9 @@ king company:王公司
 king conrad:国王康拉德
 king consent:国王同意
 king consent:王同意
+king consort of spain:西班牙配國王
 king consort:配國王
+king constantine ii of greece:希腊国王康斯坦丁二世
 king constantine ii:国王康斯坦丁二世
 king constantine ii:王康斯坦丁二世
 king consume:王消耗
@@ -5941,6 +5951,7 @@ king edward vi:国王爱德华六世
 king edward vii bridge:爱德华七世国王大桥
 king edward vii grant:国王爱德华七世授予
 king edward vii land:愛德華七世地
+king edward vii of the united kingdom:英国国王爱德华七世
 king edward vii school:国王爱德华七世学校
 king edward vii school:愛德華七世國中
 king edward vii school:爱德华七世国中
@@ -6027,6 +6038,8 @@ king george boulevard:英皇佐治大道
 king george county:国王乔治县
 king george i:国王乔治一世
 king george i:王乔治一世
+king george ii of britain:英国国王乔治二世
+king george ii of great britain:英国国王乔治二世
 king george ii return:国王乔治二世返回
 king george ii:国王乔治二世
 king george ii:王乔治二世
@@ -6044,6 +6057,8 @@ king george v invite:王乔治五世邀请
 king george v memorial park, kowloon:九龍佐治五世紀念公園
 king george v memorial park, kowloon:九龙佐治五世纪念公园
 king george v memorial park:佐治五世紀念公園
+king george v of hanover:汉诺威国王乔治五世
+king george v of the united kingdom:英国国王乔治五世
 king george v school:第五世乔治王中学
 king george v school:第五世喬治王中學
 king george v school:英皇佐治五世學校
@@ -6054,6 +6069,7 @@ king george vi and queen:国王乔治六世和王后
 king george vi bridge:乔治六世国王大桥
 king george vi coronation:王乔治六世加冕
 king george vi memorial chapel:喬治六世紀念禮拜堂
+king george vi of the united kingdom:英国国王乔治六世
 king george vi once said:国王乔治六世曾经说
 king george vi:国王乔治六世
 king george vi:王乔治六世
@@ -6088,6 +6104,7 @@ king guy:王家伙
 king gyeongmun's ear tale:国王长着驴耳朵
 king haakon bay:哈康國王灣
 king haakon v:国王哈康五世
+king haakon vii of norway:挪威国王哈康七世
 king haakon vii sea:哈康七世海
 king haakon vii:国王哈康七世
 king haakon vii:王哈康七世
@@ -6098,6 +6115,7 @@ king had been:王已经
 king had this:王有这
 king halo:帝皇光輝
 king hammurabi:国王汉谟拉比
+king harald v of norway:挪威国王哈拉尔五世
 king harald v:国王哈拉尔五世
 king harbour restaurant:海皇漁港
 king harry:王哈利
@@ -6117,20 +6135,29 @@ king helicopters:王直升机
 king hell:王地狱
 king henry and his wife:国王亨利和他的妻子
 king henry i defeat:国王亨利一世击败
+king henry i of england:英格兰国王亨利一世
 king henry i:国王亨利一世
 king henry i:王亨利一世
+king henry ii of england:英格兰国王亨利二世
+king henry ii of france:法国国王亨利二世
 king henry ii:国王亨利二世
 king henry ii:王亨利二世
+king henry iii of england:英格兰国王亨利三世
+king henry iii of france:法国国王亨利三世
 king henry iii:国王亨利三世
 king henry iii:王亨利三世
+king henry iv of england:英格兰国王亨利四世
 king henry iv:国王亨利四世
 king henry iv:王亨利四世
+king henry v of england:英格兰国王亨利五世
 king henry v:国王亨利五世
 king henry v:王亨利五世
+king henry vi of england:英格兰国王亨利六世
 king henry vi:国王亨利六世
 king henry vi:王亨利六世
 king henry vii:国王亨利七世
 king henry vii:王亨利七世
+king henry viii of england:英格兰国王亨利八世
 king henry viii:国王亨利八世
 king henry viii:王亨利八世
 king henry wake:王亨利醒
@@ -6202,8 +6229,11 @@ king is the only:王是唯一的
 king island emu:王島鴯鶓
 king island:国王岛
 king james i of aragon:国王海梅一世
+king james i of england:英格兰国王詹姆斯一世
+king james i of scotland:苏格兰国王詹姆斯一世
 king james i:国王詹姆斯一世
 king james i:王詹姆斯一世
+king james ii of england:英格兰国王詹姆斯二世
 king james ii:国王詹姆斯二世
 king james ii:王詹姆斯二世
 king james iii of scotland:国王詹姆斯三世
@@ -6230,9 +6260,14 @@ king jian of zhou:周简王
 king jig:国王吉格
 king jig:王吉格
 king jingmin of wei:魏景湣王
+king john ii of france:法国国王约翰二世
 king john ii of portugal:王若昂二世
 king john ii:国王约翰二世
+king john iii of portugal:葡萄牙国王约翰三世
 king john iii:国王约翰三世
+king john of denmark:丹麦国王约翰
+king john of england:英格兰国王约翰
+king john of saxony:萨克森国王约翰
 king john:国王约翰
 king john:王約翰
 king john:王约翰
@@ -6298,7 +6333,9 @@ king lear has three:李爾王有三
 king lear:李爾王
 king leave:王离开
 king leong mansion:景亮大廈
+king leopold i of belgium:比利时国王利奥波德一世
 king leopold i:国王利奥波德一世
+king leopold ii of belgium:比利时国王利奥波德二世
 king leopold ii:国王利奥波德二世
 king let:国王让
 king letsie iii:国王莱齐耶三世
@@ -6321,6 +6358,7 @@ king lok house:景樂樓
 king long:金龙联合汽车
 king look:国王看
 king look:王看
+king louis i of hungary:匈牙利国王路易一世
 king louis i:国王路易一世
 king louis vi:国王路易六世
 king louis x:国王路易十世
@@ -6331,6 +6369,7 @@ king louis xiii:国王路易十三
 king louis xiv:国王路易十四
 king louis xv:国王路易十五
 king louis xvi and queen:国王路易十六和王后
+king louis xvi of france:法国国王路易十六
 king louis xvi:国王路易十六
 king louis xviii:国王路易十八
 king louis:国王路易斯
@@ -6351,7 +6390,9 @@ king man house ho man tin estate:何文田邨景文樓
 king man house:景文樓
 king man street:敬民街
 king mangsong mangtsen:国王芒松芒赞
+king manuel i of portugal:葡萄牙国王曼努埃尔一世
 king manuel i:国王曼努埃尔一世
+king manuel ii of portugal:葡萄牙国王曼努埃尔二世
 king manuel ii:国王曼努埃尔二世
 king martin:国王马丁
 king math tutor class:賢錄文教文理補習班
@@ -6424,63 +6465,272 @@ king odin:国王奥丁
 king odysseus:国王奥德修斯
 king oedipus:国王俄狄浦斯
 king of a city:国王的一个城市
+king of abkhazia:阿布哈兹国王
+king of afghanistan:阿富汗国王
+king of akkad:阿卡德国王
+king of alba:苏格兰国王
+king of alba:蘇格蘭国王
+king of albania:阿尔巴尼亚国王
 king of all israel:王的所有以色列
+king of annam:安南国王
+king of annam:安南王
+king of anuradhapura:阿努拉德普勒国王
+king of aquitaine:阿基坦国王
 king of aragon's staircase:阿拉贡国王台阶
+king of aragon:阿拉贡国王
+king of aram damascus:亞蘭大馬士革王
+king of armenia:亚美尼亚国王
+king of armenia:亚美尼亚王
+king of armenia:亞美尼亞国王
 king of armenia:王的亞美尼亞
+king of ashanti:阿散蒂王
+king of assyria:亚述国王
+king of asturias:阿斯图里亚斯国王
+king of athens:雅典国王
+king of australia:澳大利亚国王
+king of austrasia:奥斯特拉西亚国王
+king of austrasia:奥斯特拉西亚王
+king of babylon:巴比伦国王
+king of babylon:巴比伦王
+king of baekje:百济国王
+king of baekje:百济王
 king of bahrain:巴林国王
+king of bavaria:巴伐利亚国王
 king of beggars:武狀元蘇乞兒
+king of belgium:比利时国王
+king of belgium:比利時国王
 king of bhutan:不丹国王
+king of bithynia:比提尼亞国王
+king of bohemia:波希米亚国王
+king of britain:英国国王
+king of buganda:布干达国王
+king of bulgaria:保加利亚国王
+king of burgundy:勃艮第国王
+king of burgundy:勃艮第王
+king of burma:緬甸王
+king of burma:缅甸国王
+king of burma:缅甸王
 king of cake:国王的蛋糕
 king of california:加州之王
+king of cambodia:柬埔寨国王
+king of canada:加拿大国王
 king of chair:国王的椅子
 king of champa:占婆君主列表
+king of champa:占婆国王
+king of champa:占婆王
+king of changsha:長沙王
+king of changsha:长沙王
+king of chile:智利国王
+king of china:中国国王
+king of circle:漢堡王
+king of comedy:喜剧王
+king of comedy:喜劇王
+king of corsica:科西嘉国王
 king of course:王当然
+king of croatia:克罗地亚国王
+king of cyprus:塞浦路斯国王
 king of cyprus:王的塞浦路斯
+king of dali:大理国王
+king of denmark:丹麥国王
+king of denmark:丹麦国王
 king of diseases:国王的疾病
+king of dublin:都柏林国王
 king of easter island:拉帕努伊国王
+king of egypt:埃及国王
+king of egypt:埃及王
 king of egypt:王的埃及
+king of england and ireland:英格兰和爱尔兰国王
+king of england:英格兰国王
+king of england:英格兰王
+king of england:英格蘭国王
+king of england:英格蘭王
+king of eswatini:史瓦帝尼国王
+king of eswatini:斯威士兰国王
+king of ethiopia:埃塞俄比亚国王
+king of etruria:伊特鲁里亚国王
+king of fiji:斐济国王
+king of finland:芬兰国王
+king of fire:火王
+king of france:法国国王
+king of france:法國国王
+king of funan:扶南王
+king of galicia:加利西亚国王
+king of games:游戏王
+king of georgia:格鲁吉亚国王
+king of goguryeo:高句丽王
+king of gondor:剛鐸王
+king of goryeo:高麗国王
+king of goryeo:高麗王
+king of great britain:英国国王
+king of greece:希腊国王
+king of greece:希臘国王
+king of gwynedd:圭内斯国王
+king of haiti:海地国王
+king of hanover:汉诺威国王
+king of hawaii:夏威夷国王
+king of hawaii:夏威夷王
 king of hearts:红桃k
+king of hell:地獄王
+king of hispania:西班牙国王
+king of holland:荷兰国王
+king of holland:荷蘭国王
+king of huainan:淮南王
+king of hungary:匈牙利国王
+king of hungary:匈牙利王
+king of iceland:冰岛国王
 king of india halal restaurant:印度王子
+king of india:印度国王
+king of iran:伊朗国王
+king of iraq:伊拉克国王
+king of ireland:愛爾蘭王
+king of ireland:爱尔兰国王
+king of israel:以色列国王
+king of israel:以色列王
 king of israel:王的以色列
+king of italy:意大利国王
 king of italy:意大利國王
+king of japan:日本国王
 king of jerusalem and sicily:耶路撒冷国王和西西里
 king of jerusalem:耶路撒冷国王
+king of jerusalem:耶路撒冷王
+king of jordan:約旦国王
+king of jordan:约旦国王
+king of kandy:康提王
 king of karaoke:k歌之王
+king of kartli:卡尔特利国王
+king of kent:肯特国王
+king of kent:肯特王
 king of kings:王中之王
+king of korea:朝鲜国王
+king of korea:朝鲜王
+king of lagos:老挝国王
+king of laos:老挝国王
+king of lesotho:莱索托国王
+king of libya:利比亚国王
+king of libya:利比亞国王
+king of light:光王
+king of lithuania:立陶宛国王
+king of macedonia:马其顿国王
+king of macedonia:马其顿王
+king of madagascar:马达加斯加国王
+king of magadha:摩揭陀国王
 king of mahjong:麻雀王
+king of malaysia:马来西亚国王
 king of malaysia:马来西亚最高元首
 king of mask:国王的面具
 king of medicine palace:药王宫
 king of monster:王的怪物
+king of montenegro:黑山国王
+king of morocco:摩洛哥国王
 king of na gold seal:汉委奴国王印
+king of naples and sicily:那不勒斯和西西里国王
 king of naples:王的那不勒斯
+king of naples:那不勒斯国王
+king of navarre:納瓦拉国王
+king of nepal:尼泊尔国王
+king of new zealand:新西兰国王
+king of norway:挪威国王
+king of orléans:奥尔良国王
+king of pagan:蒲甘王
+king of pain:西班牙国王
+king of paris:巴黎国王
+king of parthia:帕提亚国王
+king of pergamon:帕加马国王
+king of poland:波兰国王
+king of poland:波蘭国王
+king of portugal:葡萄牙国王
+king of prome:卑谬王
+king of provence:普罗旺斯国王
+king of rama:羅摩王
+king of reims:兰斯国王
 king of robbery:悍匪
 king of romania:罗马尼亚君主列表
+king of romania:罗马尼亚国王
 king of rome:罗马国王
+king of rome:羅馬王
 king of ruthenia:魯塞尼亞國王
 king of ryukyu:琉球君主列表
+king of ryukyu:琉球国王
+king of ryukyu:琉球王
+king of sagaing:实皆王
+king of sagaing:實皆王
+king of saint vincent and the grenadines:圣文森特和格林纳丁斯国王
+king of sardinia:撒丁国王
+king of sardinia:撒丁王
+king of saudi arabia:沙地阿拉伯国王
+king of saudi arabia:沙烏地阿拉伯国王
 king of saudi arabia:沙特阿拉伯国王
 king of saxony bird of paradise:薩克森風鳥
+king of saxony:萨克森国王
+king of scotland:苏格兰国王
+king of scotland:蘇格蘭国王
+king of serbia:塞尔维亚国王
 king of service:国王的服务
+king of shambhala:香巴拉国王
 king of sheng jian:正宗上海生煎皇
+king of sicily:西西里国王
+king of sicily:西西里岛国王
+king of sicily:西西里王
+king of silla:新罗王
+king of snake:蛇王
+king of soissons:苏瓦松国王
+king of south africa:南非国王
 king of soy milk:世界豆漿大王
+king of spain:西班牙国王
+king of sparta:斯巴达国王
+king of sparta:斯巴达王
 king of spicy crab temple street:廟街辣蟹皇
+king of sri lanka:斯里兰卡国王
+king of staten island:史泰登岛国王
 king of steel:国王的钢
+king of steel:钢王
 king of stories:故事大王
+king of sumer:苏美尔国王
+king of swaziland:史瓦帝尼国王
+king of swaziland:斯威士兰国王
+king of sweden and norway:瑞典-挪威国王
+king of sweden:瑞典国王
 king of sword:王的剑
+king of syria and iraq:伊拉克与叙利亚国王
+king of syria:叙利亚国王
+king of syrmia:斯雷姆国王
+king of tahiti:大溪地国王
+king of thailand:泰国国王
+king of thailand:泰國国王
+king of the french:法国国王
 king of the gods:主神
 king of the hill:山丘之王
+king of the mountain:山王
 king of the narrow sea:狹海之王
+king of the netherlands:荷兰国王
+king of the netherlands:荷蘭国王
+king of the night:夜王
 king of the ring:擂台之王
 king of the romans:羅馬人的國王
 king of the salmon:高鰭粗鰭魚
+king of the sun:太阳王
+king of the united kingdom:英国国王
+king of the universe:宇宙王
 king of thorn:古城荊棘王
+king of tonga:汤加国王
+king of troy:特洛伊王
+king of tunisia:突尼斯国王
+king of united kingdom:英国国王
+king of united kingdom:英國国王
+king of valencia:巴伦西亚国王
+king of wales:威尔士王
+king of wales:威爾斯王
 king of walnut trees:古核桃树王
+king of westphalia:西發里亞国王
 king of wine:国王的葡萄酒
 king of wine:王的葡萄酒
+king of wolves:狼王
 king of wu:吴王
+king of wuyue:吴越国王
 king of xinjiang:新疆王
+king of yugoslavia:南斯拉夫国王
 king offer:王提供
+king olav v of norway:挪威国王奥拉夫五世
 king olav v:国王奥拉夫五世
 king oliver:国王奥利弗
 king on house:景安樓
@@ -6536,12 +6786,19 @@ king phalo airport:東倫敦機場
 king phenomenon:王现象
 king philip augustus:国王菲利普奥古斯都
 king philip i:国王腓力一世
+king philip ii of france:法国国王腓力二世
+king philip ii of spain:西班牙国王腓力二世
 king philip ii:国王腓力二世
 king philip ii:王腓力二世
+king philip iii of france:法国国王腓力三世
+king philip iii of spain:西班牙国王腓力三世
 king philip iii:国王腓力三世
 king philip iii:王腓力三世
+king philip iv of france:法国国王腓力四世
+king philip iv of spain:西班牙国王腓力四世
 king philip iv:国王腓力四世
 king philip iv:王腓力四世
+king philip of belgium:比利时国王菲利普
 king philip v:国王腓力五世
 king philip v:王腓力五世
 king philip's war:菲利普國王戰爭
@@ -6875,10 +7132,14 @@ king will never:国王永远不会
 king will start:王将开始
 king will:国王会
 king will:王会
+king william i of the netherlands:荷兰国王威廉一世
 king william i:国王威廉一世
 king william i:王威廉一世
+king william ii of england:英格兰国王威廉二世
+king william ii of the netherlands:荷兰国王威廉二世
 king william ii:国王威廉二世
 king william ii:王威廉二世
+king william iii of the netherlands:荷兰国王威廉三世
 king william iii:国王威廉三世
 king william iii:王威廉三世
 king william island:威廉王島
@@ -7236,133 +7497,307 @@ kingdom no longer:王国不再
 kingdom north:王国北
 kingdom not:王国不是
 kingdom now:王国现在
+kingdom of abkhazia:阿布哈兹王国
 kingdom of abkhazia:阿布哈茲王國
+kingdom of afghanistan:阿富汗王国
 kingdom of afghanistan:阿富汗王國
+kingdom of africa:非洲王国
 kingdom of aksum:阿克苏姆王国
+kingdom of alba:苏格兰王国
+kingdom of alba:蘇格蘭王国
 kingdom of alba:阿爾巴王國
 kingdom of albania:阿尔巴尼亚王国
 kingdom of amber:齋浦爾土邦
+kingdom of anuradhapura:阿努拉德普勒王国
+kingdom of aquitaine:阿基坦王国
 kingdom of aquitaine:阿基坦王國
 kingdom of aragon:阿拉贡王国
+kingdom of arborea:阿尔博雷亚王国
 kingdom of arles:阿尔勒王国
+kingdom of armenia:亚美尼亚王国
+kingdom of armenia:亞美尼亞王国
 kingdom of artsakh:阿尔察赫王国
+kingdom of ashanti:阿散蒂王国
 kingdom of asturias:阿斯图里亚斯王国
+kingdom of atropatene:阿塞拜疆王国
+kingdom of australia:澳洲界
+kingdom of austrasia:奥斯特拉西亚王国
 kingdom of ava:阿瓦王朝
+kingdom of axum:阿克蘇姆王国
+kingdom of ayutthaya:大城王国
+kingdom of bagan:蒲甘王国
 kingdom of bahrain pavilion:巴林馆
+kingdom of bahrain:巴林王国
+kingdom of bavaria:巴伐利亚王国
 kingdom of bavaria:巴伐利亞王國
+kingdom of bayern:巴伐利亚王国
+kingdom of belgium:比利时王国
+kingdom of belgium:比利時王国
 kingdom of benin:貝寧王國
+kingdom of benin:贝宁王国
+kingdom of bhutan:不丹王国
+kingdom of bithynia:比提尼亞王国
+kingdom of bohemia:波希米亚王国
 kingdom of bohemia:波希米亞王國
 kingdom of bora bora:博拉博拉王国
 kingdom of bosnia:波士尼亞王國
+kingdom of brazil:巴西王国
+kingdom of buganda:布干达王国
+kingdom of bulgaria:保加利亚王国
+kingdom of bulgaria:保加利亞王国
+kingdom of bungku:邦库王国
+kingdom of burgundy:勃艮第王国
 kingdom of burgundy:勃艮第王國
+kingdom of burma:缅甸王国
 kingdom of burundi:布隆迪王国
+kingdom of cagliari:卡利亚里王国
+kingdom of cambodia:柬埔寨王国
 kingdom of capital:王国的首都
 kingdom of cappadocia:卡帕多西亚王国
+kingdom of carthage:迦太基王国
 kingdom of castile:卡斯蒂利亚王国
+kingdom of ceredigion:開雷迪吉昂王国
 kingdom of chakla:明正土司
+kingdom of champa:占婆王国
+kingdom of champasak:占巴塞王国
 kingdom of champasak:占巴塞王國
+kingdom of champassak:占巴塞王国
+kingdom of chenla:真腊王国
+kingdom of chiang mai:清迈王国
+kingdom of chile:智利王国
 kingdom of cochin:科欽王國
+kingdom of congo:刚果王国
+kingdom of corsica:科西嘉王国
+kingdom of croatia:克罗地亚王国
 kingdom of croatia:克羅埃西亞王國
 kingdom of cusco:库斯科王国
 kingdom of cyprus:塞浦路斯王国
+kingdom of córdoba:科尔多瓦王国
+kingdom of dalmatia:达尔马提亚王国
 kingdom of dalmatia:達爾馬提亞王國
 kingdom of darkness:界的黑暗
+kingdom of deira:德伊勒王国
+kingdom of denkyira:登基拉王国
+kingdom of denmark:丹麥王国
 kingdom of denmark:丹麥王國
 kingdom of denmark:丹麦王国
 kingdom of derge:德格王
+kingdom of dongning:东宁王国
 kingdom of dreams:王国的梦想
+kingdom of dublin:都柏林王国
 kingdom of dublin:都柏林王國
+kingdom of east anglia:东盎格利亚王国
 kingdom of east anglia:東盎格利亞王國
+kingdom of egypt:埃及王国
 kingdom of egypt:埃及王國
 kingdom of enclava:恩克拉瓦王国
 kingdom of ends:目的王國
+kingdom of england:英格兰王国
+kingdom of england:英格蘭王国
 kingdom of england:英格蘭王國
 kingdom of essex:埃塞克斯王國
+kingdom of eswatini:斯威士兰王国
+kingdom of ethiopia:埃塞俄比亚界
+kingdom of ethiopia:埃塞俄比亞界
+kingdom of ethiopia:衣索比亞界
 kingdom of etruria:伊特鲁里亚王国
 kingdom of fiji:斐济王国
+kingdom of finland:芬兰王国
+kingdom of finland:芬蘭王国
 kingdom of france:法蘭西王國
+kingdom of funan:扶南王国
 kingdom of galicia and lodomeria:加利西亚和洛多梅里亚王国
+kingdom of galicia:加利西亚王国
 kingdom of galicia:加利西亞王國
+kingdom of gallaecia:加利西亚王国
+kingdom of gallura:加卢拉王国
 kingdom of gampola:甘波罗王国
 kingdom of gauda:高达王国
 kingdom of georgia defeat:格鲁吉亚王国击败
 kingdom of georgia:格鲁吉亚王国
 kingdom of germany:德意志王国
+kingdom of ghana:加纳王国
+kingdom of god:神界
+kingdom of goguryeo:高句丽王国
+kingdom of granada:格拉纳达王国
 kingdom of great britain:大不列顛王國
+kingdom of greece:希腊王国
+kingdom of greece:希臘王国
 kingdom of greece:希臘王國
+kingdom of grenada:格拉纳达王国
+kingdom of guge:古格王国
 kingdom of gwynedd:圭内斯王国
+kingdom of gwynedd:格温内斯王国
+kingdom of hadhramaut:哈德拉毛王国
+kingdom of haiti:海地王国
 kingdom of haiti:海地王國
+kingdom of hannover:汉诺威王国
+kingdom of hannover:漢諾威王国
 kingdom of hanover:汉诺威王国
+kingdom of hanover:漢諾威王国
+kingdom of hawaii:夏威夷王国
 kingdom of hejaz and nejd:内志与汉志王国
 kingdom of hejaz:汉志王国
+kingdom of holland:荷兰王国
 kingdom of hungary:匈牙利王国
 kingdom of iberia:伊比利亞王國
+kingdom of iceland:冰岛王国
 kingdom of iceland:冰島王國
+kingdom of illyria:伊利里亚王国
 kingdom of illyria:伊利里亞王國
 kingdom of imereti:伊梅雷蒂王国
+kingdom of iran:伊朗王国
+kingdom of iraq:伊拉克王国
 kingdom of iraq:伊拉克王國
+kingdom of ireland:愛爾蘭王国
 kingdom of ireland:愛爾蘭王國
+kingdom of ireland:爱尔兰王国
+kingdom of israel:以色列王国
 kingdom of israel:以色列王國
+kingdom of italy:意大利王国
+kingdom of italy:義大利王国
+kingdom of jaffna:贾夫纳王国
+kingdom of jerusalem:耶路撒冷王国
 kingdom of jerusalem:耶路撒冷王國
+kingdom of jordan:约旦王国
 kingdom of judah:猶大王國
+kingdom of kaimana:凯马纳王国
 kingdom of kakheti:卡赫蒂王国
+kingdom of kampuchea:柬埔寨王国
+kingdom of kandy:康提王国
 kingdom of kandy:康提王國
 kingdom of kartli:卡尔特利王国
+kingdom of kent:肯特王国
 kingdom of kent:肯特王國
 kingdom of khotan:于阗
+kingdom of kochi:科钦王国
 kingdom of kongo:刚果王国
+kingdom of korea:朝鲜王国
 kingdom of kotte:科提王國
 kingdom of kurdistan:庫德斯坦王國
 kingdom of kush:庫施王國
 kingdom of laos:寮王國
+kingdom of laos:老挝王国
+kingdom of lesotho:莱索托王国
+kingdom of lesotho:賴索托王国
+kingdom of libya:利比亚王国
 kingdom of libya:利比亞王國
 kingdom of lindsey:林赛王国
 kingdom of lingtsang:林葱土司
 kingdom of lithuania:立陶宛王国
+kingdom of livonia:立窝尼亚王国
 kingdom of loango:盧安果王國
+kingdom of lotharingia:洛塔林吉亚王国
 kingdom of luang phrabang:琅勃拉邦王国
+kingdom of luang prabang:琅勃拉邦王国
 kingdom of luwu:卢雾王国
+kingdom of macedonia:马其顿王国
+kingdom of madagascar:马达加斯加王国
+kingdom of magadha:摩揭陀王国
+kingdom of majapahit:满者伯夷王国
 kingdom of majorca:馬略卡王國
+kingdom of malacca:马六甲王国
+kingdom of mali:马里王国
 kingdom of mangalai:曼尕賴
+kingdom of manila:马尼拉王国
 kingdom of mapungubwe:马蓬古布韦
 kingdom of matamba:马塔姆巴王国
+kingdom of mauretania:毛里塔尼亚王国
+kingdom of maynila:马尼拉王国
 kingdom of mewar:乌代浦土邦
 kingdom of middag:大肚王國
+kingdom of mitanni:米坦尼王国
+kingdom of montenegro:蒙特內哥羅王国
 kingdom of montenegro:黑山王国
+kingdom of morocco:摩洛哥王国
 kingdom of mrauk u:妙乌王国
+kingdom of murcia:穆尔西亚王国
+kingdom of mustang:木斯塘王国
+kingdom of myanmar:缅甸王国
 kingdom of mysore:迈索尔王国
+kingdom of mysuru:迈索尔王国
 kingdom of naples against:那不勒斯王国对抗
 kingdom of naples continue:那不勒斯王国继续
+kingdom of naples:拿坡里王国
 kingdom of naples:那不勒斯王国
+kingdom of napoli:拿坡里王国
+kingdom of napoli:那不勒斯王国
 kingdom of navarre:納瓦拉王國
+kingdom of nepal:尼泊尔王国
+kingdom of nepal:尼泊爾王国
 kingdom of nepal:尼泊爾王國
+kingdom of netherlands:荷兰王国
+kingdom of new granada:新格拉纳达王国
+kingdom of north sudan:北苏丹王国
 kingdom of north sudan:北蘇丹王國
+kingdom of norway:挪威王国
 kingdom of nri:尼里王国
+kingdom of osroene:奥斯若恩王国
+kingdom of pagan:蒲甘王国
+kingdom of palmyra:帕尔米拉王国
+kingdom of pamplona:潘普洛納王国
+kingdom of pamplona:潘普洛纳王国
 kingdom of pergamon:帕加馬王國
+kingdom of pergamon:帕加马王国
+kingdom of plants:植物界
+kingdom of poland:波兰王国
+kingdom of poland:波蘭王国
 kingdom of pong:蓬国
 kingdom of pontus:本都王国
+kingdom of portugal:葡萄牙王国
 kingdom of portugal:葡萄牙王國
 kingdom of powo:波密土王
+kingdom of powys:波伊斯王国
+kingdom of prome:卑谬王国
+kingdom of prussia:普魯士王国
 kingdom of prussia:普魯士王國
+kingdom of quito:基多王国
 kingdom of raigama:羅依伽摩
 kingdom of rarotonga:拉罗汤加王国
 kingdom of redonda:雷東達王國
+kingdom of romania:罗马尼亚王国
+kingdom of romania:羅馬尼亞王国
 kingdom of romania:羅馬尼亞王國
+kingdom of rome:罗马王国
+kingdom of rwanda:卢旺达王国
+kingdom of ryukyu:琉球王国
+kingdom of sarawak:砂拉越王国
+kingdom of sardinia:撒丁王国
 kingdom of sardinia:薩丁尼亞王國
+kingdom of saudi arabia:沙烏地阿拉伯王国
+kingdom of saudi arabia:沙特阿拉伯王国
 kingdom of saxony:萨克森王国
+kingdom of saxony:薩克森王国
 kingdom of scotland:苏格兰王国
+kingdom of scotland:蘇格蘭王国
 kingdom of sedang:色當王國
+kingdom of sennar:森纳尔王国
+kingdom of serbia:塞尔维亚王国
+kingdom of serbia:塞爾維亞王国
+kingdom of sicily:西西里王国
 kingdom of sicily:西西里王國
 kingdom of sikkim:锡金王国
 kingdom of simien:塞米恩王国
 kingdom of singapura:新加坡王国
+kingdom of sky:天空王国
+kingdom of slavonia:斯拉沃尼亚王国
 kingdom of slavonia:斯拉沃尼亞王國
+kingdom of soissons:苏瓦松王国
 kingdom of soissons:蘇瓦松王國
 kingdom of sophene:索菲尼王國
+kingdom of spain:西班牙王国
 kingdom of strathclyde:斯特拉斯克莱德王国
+kingdom of sunda:巽他王国
 kingdom of sussex:薩塞克斯王國
+kingdom of swaziland:斯威士兰王国
+kingdom of sweden:瑞典王国
+kingdom of syracuse:叙拉古王国
+kingdom of syria:叙利亚王国
+kingdom of syrmia:斯雷姆王国
 kingdom of tahiti:塔希提王国
+kingdom of tahiti:大溪地王国
 kingdom of tavolara:塔沃拉臘王國
+kingdom of thaton:直通王国
 kingdom of the algarve:阿尔加维王国
 kingdom of the burgundians:勃艮第人王國
 kingdom of the isles:群島王國
@@ -7378,15 +7813,37 @@ kingdom of the south:南方王国
 kingdom of the suebi:苏维汇王国
 kingdom of the two sicilies:兩西西里王國
 kingdom of thessalonica:萨洛尼卡王国
+kingdom of thonburi:吞武里王国
+kingdom of thrace:色雷斯王国
+kingdom of tlemcen:特莱姆森王国
 kingdom of tlemcen:特萊姆森王國
+kingdom of tonga:汤加王国
+kingdom of travancore:特拉凡哥尔王国
 kingdom of tungning:臺灣明鄭時期
+kingdom of tunis:突尼斯王国
+kingdom of tunis:突尼西亞王国
 kingdom of tunisia:突尼斯王国
+kingdom of tunisia:突尼西亞王国
+kingdom of valencia:巴伦西亚王国
+kingdom of valencia:瓦伦西亚王国
 kingdom of valencia:瓦倫西亞王國
+kingdom of vientiane:万象王国
+kingdom of vientiane:萬象王国
 kingdom of vientiane:萬象王國
+kingdom of viguera:比格拉王国
+kingdom of viti:斐济王国
+kingdom of wales:威尔士王国
 kingdom of westphalia:威斯特法倫王國
+kingdom of wuli:五里界
+kingdom of yemen:也门王国
 kingdom of yemen:葉門穆塔瓦基利亞王國
+kingdom of york:约克王国
+kingdom of yugoslavia:南斯拉夫王国
 kingdom of yugoslavia:南斯拉夫王國
+kingdom of zazzau:扎造王国
+kingdom of zhangzhung:象雄王国
 kingdom of zimbabwe:津巴布韋王國
+kingdom of zimbabwe:津巴布韦王国
 kingdom once:王国曾经
 kingdom or adventure:王国或冒险
 kingdom or alliance:王国或联盟
@@ -9349,6 +9806,7 @@ kiss my:吻我的
 kiss my:親吻我的
 kiss myself:親吻我自己
 kiss nightclub fire:圣玛利亚城夜总会火灾
+kiss of death:死吻
 kiss of judas:犹大之吻
 kiss of the dragon:龙之吻
 kiss of the rose princess:薔薇公主之吻
@@ -9630,6 +10088,7 @@ kita toyotsu station:北豐津信號場
 kita urawa station:北浦和車站
 kita uwajima station:北宇和島車站
 kita village:木太村
+kita ward of tokyo:東京都北區
 kita ward:北区
 kita ward:北區
 kita yamagata station:北山形站

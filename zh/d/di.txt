@@ -1100,6 +1100,12 @@ dialect levelling:语言均一化
 dialect literature:方言文学
 dialect name:方言名称
 dialect noun:方言名词
+dialect of arabic:阿拉伯语方言
+dialect of english:英语方言
+dialect of greek:希腊语方言
+dialect of japanese:日语方言
+dialect of rome:罗马方言
+dialect of rome:羅馬方言
 dialect research:方言研究
 dialect speak:方言说话
 dialect support:方言支持
@@ -1623,6 +1629,7 @@ diameter line:直径线
 diameter magellan telescopes:直径麦哲伦望远镜
 diameter measurement:直径测量
 diameter near:直径接近
+diameter of earth:地球直径
 diameter of gold:直径的金
 diameter or length:直径或长度
 diameter propeller:直径螺旋桨
@@ -3903,12 +3910,15 @@ dictionary market:词典市场
 dictionary match:词典匹配
 dictionary meaning:词典意义
 dictionary model:词典模型
+dictionary of american english:美国英语词典
 dictionary of american naval fighting ships:美國海軍軍艦辭典
 dictionary of greek and roman biography and mythology:希腊罗马传记与神话学辞典
 dictionary of greek and roman geography:希腊罗马地理学辞典
 dictionary of national biography:牛津國家人物傳記大辭典
+dictionary of old english:古英语词典
 dictionary of received ideas:庸见词典
 dictionary of sydney:悉尼字典
+dictionary of sydney:悉尼词典
 dictionary of the khazars:哈扎尔辞典
 dictionary online languages:词典在线语言
 dictionary online:词典在线
@@ -5009,6 +5019,7 @@ difference need:差异需要
 difference needs:差异需要
 difference not:差异不是
 difference note:差异注意
+difference of age:年龄差异
 difference of course:区别当然
 difference of course:差别当然
 difference of course:差异当然
@@ -11465,6 +11476,7 @@ differential fault analysis:差別錯誤分析
 differential form:微分形式
 differential galois theory:微分伽罗瓦理论
 differential game:微分对策
+differential geometry of curves:曲线微分几何
 differential geometry:微分几何
 differential gps:差分全球定位系统
 differential inclusion:微分包含式
@@ -12297,6 +12309,7 @@ diffusion modeling:扩散建模
 diffusion models:扩散模型
 diffusion motion:扩散运动
 diffusion my:扩散我的
+diffusion of innovation:创新扩散
 diffusion of innovations:創新擴散理論
 diffusion of knowledge:扩散的知识
 diffusion of responsibility:责任分散
@@ -17784,74 +17797,829 @@ diocese agree:教區同意
 diocese and prince bishopric of schwerin:什未林采邑主教区
 diocese hopes:教區希望
 diocese in europe:聖公會歐洲教區
+diocese of aachen:亞琛教區
+diocese of aba:阿巴教區
+diocese of abakaliki:阿巴卡利基教區
 diocese of aberdeen and orkney:聖公會阿伯丁暨奧克尼教區
+diocese of aberdeen:阿伯丁教區
+diocese of abomey:阿波美教區
+diocese of acerra:阿切拉教區
+diocese of adilabad:阿迪拉巴德教區
 diocese of africa:阿非利加管区
+diocese of agboville:阿博維爾教區
+diocese of agra:阿格拉教區
+diocese of agrigento:阿格里真托教區
+diocese of aitape:艾塔佩教區
+diocese of ajaccio:阿雅克肖教區
+diocese of ambanja:安班扎教區
+diocese of ambatondrazaka:安巴通德拉扎卡教區
+diocese of ambositra:安布西特拉教區
+diocese of amiens:亞眠教區
+diocese of andong:安東教區
+diocese of andria:安德里亞教區
 diocese of angola:聖公會安哥拉教區
+diocese of anguo:安国教區
+diocese of antipolo:安蒂波洛教區
+diocese of anuradhapura:阿努拉德普勒教區
 diocese of argyll and the isles:聖公會阿蓋爾暨群島教區
+diocese of arica:阿里卡教區
+diocese of arlington:阿靈頓教區
+diocese of armagh:阿馬教區
+diocese of arras:阿拉斯教區
+diocese of ascoli piceno:阿斯科利皮切諾教區
 diocese of asia:亚细亚管区
+diocese of asti:阿斯蒂教區
+diocese of astorga:阿斯托加教區
+diocese of atlanta:亞特蘭大教區
+diocese of auckland:奧克蘭教區
+diocese of augsburg:奧格斯堡教區
+diocese of auki:奧基教區
+diocese of austin:奧斯汀教區
+diocese of autun:歐坦教區
+diocese of avellino:阿韋利諾教區
+diocese of aversa:阿韋爾薩教區
+diocese of avezzano:阿韋扎諾教區
+diocese of awka:奧卡教區
+diocese of azogues:阿索格斯教區
+diocese of babahoyo:巴巴奧約教區
+diocese of bacolod:巴科洛德教區
+diocese of badulla:巴杜勒教區
+diocese of bafia:巴菲亞教區
+diocese of bafoussam:巴富薩姆教區
+diocese of bagdogra:巴格多格拉教區
+diocese of baltimore:巴爾的摩教區
+diocese of bambari:班巴里教區
+diocese of bandung:萬隆教區
+diocese of banfora:邦福拉教區
 diocese of bangor:班戈教區
+diocese of banja luka:巴尼亞盧卡教區
+diocese of banjarmasin:馬辰教區
+diocese of baoding:保定教區
+diocese of barcelona:巴塞隆納教區
+diocese of bareilly:巴雷利教區
+diocese of barrancabermeja:巴蘭卡韋梅哈教區
+diocese of basankusu:巴桑庫蘇教區
+diocese of basel:巴塞爾教區
+diocese of basse-terre:巴斯特爾教區
+diocese of bata:巴塔教區
 diocese of bath and wells:巴斯暨韋爾斯教區
+diocese of baton rouge:巴吞魯日教區
+diocese of batouri:巴圖里教區
+diocese of batticaloa:拜蒂克洛教區
+diocese of beaumont:博蒙特教區
+diocese of beihai:北海教區
+diocese of beijing:北京教區
+diocese of beirut:貝魯特教區
+diocese of belleville:貝爾維爾教區
+diocese of bengbu:蚌埠教區
+diocese of berlin:柏林教區
+diocese of bethlehem:伯利恆教區
+diocese of biella:比耶拉教區
+diocese of bilbao:畢爾巴鄂教區
+diocese of birmingham:伯明翰教區
+diocese of bismarck:俾斯麥教區
 diocese of blackburn:布萊克本教區
+diocese of bluefields:布盧菲爾茲教區
+diocese of bogor:茂物教區
+diocese of bondoukou:邦杜庫教區
+diocese of bossangoa:博桑戈阿教區
+diocese of bouar:布阿爾教區
 diocese of bradford:布拉德福德教區
+diocese of breda:布雷達教區
+diocese of brescia:布雷西亞教區
+diocese of breslau:弗羅茨瓦夫教區
+diocese of bridgetown:布里奇敦教區
 diocese of bristol:布里斯托爾教區
+diocese of brno:布爾諾教區
+diocese of broken bay:布羅肯灣教區
+diocese of bruges:布魯日教區
+diocese of bubanza:布班扎教區
+diocese of buenaventura:布埃納文圖拉教區
+diocese of buenos aires:布宜諾斯艾利斯教區
+diocese of buffalo:水牛城教區
+diocese of bunia:布尼亞教區
+diocese of burlington:伯靈頓教區
+diocese of busan:釜山教區
+diocese of buta:布塔教區
+diocese of butare:布塔雷教區
+diocese of butuan:武端教區
+diocese of buéa:布埃亞教區
+diocese of bydgoszcz:比得哥什教區
+diocese of bắc ninh:北寧教區
+diocese of cabanatuan:甲萬那端教區
+diocese of cabimas:卡維馬斯教區
+diocese of cajamarca:卡哈馬卡教區
+diocese of calbayog:甲描育教區
+diocese of callao:卡亞俄教區
+diocese of caltanissetta:卡爾塔尼塞塔教區
+diocese of camden:卡姆登教區
 diocese of canterbury:坎特伯雷教區
+diocese of capodistria:科佩爾教區
 diocese of carlisle:卡萊爾教區
+diocese of carora:卡羅拉教區
+diocese of cartagena:卡塔赫納教區
+diocese of caserta:卡塞塔教區
 diocese of cashel and ossory:聖公會卡舍爾暨奧索里教區
+diocese of cayenne:卡宴教區
+diocese of cebu:宿霧教區
+diocese of celje:采列教區
+diocese of chalatenango:查拉特南戈教區
+diocese of changde:常德教區
+diocese of chanthaburi:庄他武里教區
+diocese of charlotte:夏洛特教區
 diocese of chelmsford:切姆斯福德教區
+diocese of chengdu:成都教區
 diocese of chester:切斯特教區
+diocese of chiang mai:清邁教區
+diocese of chiang rai:清萊教區
+diocese of chiayi:嘉義教區
+diocese of chicago:芝加哥教區
 diocese of chichester:席車士打教區
+diocese of chillán:奇廉教區
+diocese of chimoio:希莫尤教區
+diocese of chinhoyi:奇諾伊教區
+diocese of chioggia:基奧賈教區
+diocese of chios:希俄斯教區
+diocese of chipata:奇帕塔教區
+diocese of christchurch:基督城教區
+diocese of chulucanas:丘盧卡納斯教區
+diocese of chuncheon:春川教區
+diocese of chur:庫爾教區
+diocese of ciego de avila:謝戈德阿維拉教區
+diocese of cienfuegos:西恩富戈斯教區
+diocese of ciudad guayana:圭亞那城教區
+diocese of ciudad real:雷阿爾城教區
+diocese of ciudad valles:巴耶斯城教區
+diocese of clifton:克利夫頓教區
+diocese of coimbatore:哥印拜陀教區
+diocese of coimbra:科英布拉教區
+diocese of cologne:科隆教區
+diocese of como:科莫教區
+diocese of constantine:君士坦丁教區
+diocese of constantinople:君士坦丁堡教區
+diocese of copenhagen:哥本哈根教區
+diocese of coroico:科羅伊科教區
+diocese of corpus christi:科珀斯克里斯蒂教區
 diocese of coventry:考文垂教區
+diocese of cremona:克雷莫納教區
+diocese of cuenca:昆卡教區
+diocese of cuernavaca:庫埃納瓦卡教區
+diocese of cuneo:庫內奧教區
+diocese of cyangugu:尚古古教區
+diocese of cádiz:加的斯教區
+diocese of daejeon:大田教區
+diocese of dali:大理教區
+diocese of dallas:達拉斯教區
+diocese of daloa:達洛亞教區
+diocese of daming:大名教區
+diocese of dapaong:達龐教區
+diocese of darjeeling:大吉嶺教區
+diocese of datong:大同教區
+diocese of david:戴維教區
+diocese of de aar:德阿爾教區
+diocese of dedza:代扎教區
+diocese of delhi:德里教區
 diocese of derby:德比教區
 diocese of derry and raphoe:聖公會德里暨拉福教區
+diocese of des moines:得梅因教區
+diocese of detroit:底特律教區
+diocese of dili:帝力教區
+diocese of dindigul:丁迪古爾教區
+diocese of diphu:迪普教區
+diocese of djougou:朱古教區
+diocese of doba:多巴教區
+diocese of dolisie:多利西教區
 diocese of down and dromore:聖公會唐暨德羅莫爾教區
+diocese of drohiczyn:德羅希琴教區
 diocese of dublin and glendalough:聖公會都柏林暨格蘭達洛教區
+diocese of dubrovnik:杜布羅夫尼克教區
+diocese of dunedin:但尼丁教區
 diocese of durham:達勒姆教區
 diocese of eastern kowloon:香港聖公會東九龍教區
+diocese of ebolowa:埃博洛瓦教區
+diocese of edinburgh:愛丁堡教區
 diocese of edinburgh:聖公會愛丁堡教區
+diocese of edmonton:埃德蒙頓教區
+diocese of eger:埃格爾教區
 diocese of egypt:埃及管区
+diocese of el tigre:埃爾蒂格雷教區
+diocese of eldoret:埃爾多雷特教區
+diocese of eluru:埃盧魯教區
 diocese of ely:伊利教區
+diocese of escuintla:埃斯昆特拉教區
+diocese of eshowe:埃紹韋教區
+diocese of essen:埃森教區
+diocese of europe:歐洲教區
 diocese of exeter:埃克塞特教區
+diocese of ełk:埃烏克教區
+diocese of fairbanks:費爾班克斯教區
+diocese of farafangana:法拉凡加納教區
+diocese of faro:法魯教區
+diocese of fidenza:菲登扎教區
+diocese of foligno:福利尼奧教區
+diocese of francistown:弗朗西斯敦教區
+diocese of gaborone:哈博羅內教區
+diocese of galle:加勒教區
+diocese of gamboma:甘博馬教區
+diocese of ganzhou:贛州教區
+diocese of ganzhou:赣州教區
+diocese of gaoua:加瓦教區
+diocese of gap:加普教區
+diocese of gary:加里教區
 diocese of gaul:高卢管区
+diocese of geneva:日內瓦教區
+diocese of georgetown:喬治敦教區
+diocese of geraldton:傑拉爾頓教區
+diocese of ghent:根特教區
+diocese of girardota:希拉多塔教區
+diocese of girgenti:阿格里真托教區
+diocese of gizo:吉薩教區
 diocese of glasgow and galloway:聖公會格拉斯哥暨加洛韋教區
 diocese of gloucester:格洛斯特教區
+diocese of goaso:戈阿索教區
+diocese of gorakhpur:戈勒克布爾教區
+diocese of goroka:戈羅卡教區
+diocese of gothenburg:哥德堡教區
+diocese of grand island:格蘭德艾蘭教區
+diocese of grand rapids:大急流城教區
+diocese of grand-bassam:大巴薩姆教區
+diocese of great falls:大瀑布城教區
+diocese of grodno:格羅德諾教區
+diocese of guanare:瓜納雷教區
+diocese of guaranda:瓜蘭達教區
+diocese of guarenas:瓜雷納斯教區
+diocese of guasdualito:瓜斯杜阿利托教區
 diocese of guildford:吉爾福德教區
+diocese of guiratinga:吉拉廷加教區
+diocese of gumla:古姆拉教區
+diocese of guntur:貢土爾教區
+diocese of haarlem:哈倫教區
+diocese of haarlem:哈勒姆教區
+diocese of haimen:海門教區
+diocese of hakha:哈卡教區
+diocese of hamhung:咸興教區
+diocese of hanzhong:漢中教區
+diocese of hasselt:哈瑟爾特教區
+diocese of helsinki:赫爾辛基教區
 diocese of hereford:赫里福德教區
+diocese of hinche:安什教區
+diocese of hiroshima:廣島教區
+diocese of holguín:奧爾金教區
 diocese of hong kong and macao:聖公會港澳教區
+diocese of hong kong island:香港島教區
 diocese of hong kong island:香港聖公會香港島教區
+diocese of hong kong:香港教區
+diocese of hongdong:洪洞教區
+diocese of honolulu:檀香山教區
+diocese of hpa-an:帕安教區
+diocese of hsinchu:新竹教區
+diocese of huacho:瓦喬教區
+diocese of hualien:花蓮教區
+diocese of huancavelica:萬卡韋利卡教區
+diocese of huaraz:瓦拉斯教區
+diocese of huehuetenango:韋韋特南戈教區
+diocese of hwange:萬蓋教區
+diocese of hyderabad:海得拉巴教區
+diocese of härnösand:海訥桑德教區
+diocese of hưng hóa:興化教區
+diocese of iaşi:雅西教區
+diocese of iași:雅西教區
+diocese of idiofa:伊迪奧法教區
+diocese of ihosy:伊胡西教區
+diocese of ikot ekpene:伊科特埃佩內教區
+diocese of iligan:伊利甘教區
+diocese of ilorin:伊洛林教區
+diocese of imola:伊莫拉教區
+diocese of impfondo:因普豐多教區
+diocese of incheon:仁川教區
+diocese of inhambane:伊尼揚巴內教區
+diocese of innsbruck:因斯布魯克教區
+diocese of inongo:伊農戈教區
+diocese of ipiales:伊皮亞萊斯教區
+diocese of iquique:伊基克教區
+diocese of irapuato:伊拉普阿托教區
+diocese of iringa:伊林加教區
+diocese of irkutsk:伊爾庫茨克教區
+diocese of jackson:傑克遜教區
+diocese of jacmel:雅克梅勒教區
+diocese of jaffna:賈夫納教區
+diocese of jaipur:齋浦爾教區
+diocese of jalandhar:賈朗達爾教區
+diocese of jayapura:查亞普拉教區
+diocese of jerusalem:耶路撒冷教區
+diocese of jhansi:占西教區
+diocese of ji'an:吉安教區
+diocese of jiangmen:江門教區
+diocese of jilin:吉林教區
+diocese of jingxian:景縣教區
+diocese of jining:集宁教區
+diocese of jinotega:希諾特加教區
+diocese of juneau:朱諾教區
+diocese of juticalpa:胡蒂卡爾帕教區
+diocese of kaišiadorys:凱希亞多里斯教區
+diocese of kakamega:卡卡梅加教區
+diocese of kalibo:卡利博教區
+diocese of kalisz:卡利什教區
+diocese of kamina:卡米納教區
+diocese of kandi:康提教區
+diocese of kandy:康提教區
+diocese of kangding:康定教區
+diocese of kano:卡諾教區
+diocese of kansas city:堪薩斯城教區
+diocese of kaohsiung:高雄教區
+diocese of kaolack:考拉克教區
+diocese of karaganda:卡拉干達教區
+diocese of kasese:卡塞塞教區
+diocese of kasongo:卡松戈教區
+diocese of katiola:卡蒂奧拉教區
+diocese of kavieng:卡維恩教區
+diocese of kayes:卡伊教區
+diocese of keetmanshoop:基特曼斯胡普教區
+diocese of kengtung:景棟教區
+diocese of keningau:根地咬教區
+diocese of kerema:凱里馬教區
+diocese of kericho:凱里喬教區
+diocese of khunti:昆蒂教區
+diocese of kigoma:基戈馬教區
+diocese of kikwit:基奎特教區
+diocese of kimbe:金貝教區
+diocese of kimberley:金伯利教區
+diocese of kindu:金杜教區
+diocese of kingston:金斯敦教區
+diocese of kingston:金斯頓教區
+diocese of kingstown:金斯敦教區
+diocese of kinkala:金卡拉教區
+diocese of kisantu:基桑圖教區
+diocese of kitale:基塔萊教區
+diocese of kitui:基圖伊教區
+diocese of klerksdorp:克萊克斯多普教區
+diocese of koforidua:科福里杜亞教區
+diocese of kokstad:科克斯塔德教區
+diocese of koper:科佩爾教區
+diocese of kotor:科托爾教區
+diocese of košice:科希策教區
+diocese of kraków:克拉科夫教區
+diocese of kribi:克里比教區
+diocese of kroonstad:克龍斯塔德教區
+diocese of kumba:昆巴教區
+diocese of kumbo:昆博教區
+diocese of kundiawa:孔迪亞瓦教區
+diocese of kurnool:卡努爾教區
+diocese of kurunegala:庫魯內格勒教區
+diocese of kyoto:京都教區
+diocese of la ceiba:拉塞瓦教區
+diocese of la guaira:拉瓜伊拉教區
+diocese of lae:萊城教區
+diocese of laghouat:艾格瓦特教區
+diocese of lahore:拉合爾教區
+diocese of lamego:拉梅古教區
+diocese of lamezia terme:拉梅齊亞泰爾梅教區
+diocese of lancaster:蘭加斯特教區
+diocese of langres:朗格勒教區
+diocese of lansing:蘭辛教區
+diocese of lanusei:拉努塞伊教區
+diocese of laoag:拉瓦格教區
+diocese of las vegas:拉斯維加斯教區
+diocese of lashio:臘戍教區
+diocese of latacunga:拉塔昆加教區
+diocese of laval:拉瓦勒教區
+diocese of le mans:勒芒教區
+diocese of legnica:萊格尼察教區
 diocese of leicester:萊斯特教區
+diocese of les cayes:萊凱教區
+diocese of leshan:樂山教區
 diocese of lichfield:利奇菲爾德教區
+diocese of lichinga:利欣加教區
+diocese of limburg:林堡教區
 diocese of limerick and killaloe:聖公會利默里克暨基拉盧教區
+diocese of limerick:利默里克教區
+diocese of limoges:利摩日教區
+diocese of linares:利納雷斯教區
+diocese of lincoln:林肯教區
 diocese of lincoln:聖公會林肯教區
+diocese of linhai:臨海教區
+diocese of linköping:林雪平教區
+diocese of lins:林茨教區
+diocese of linz:林茨教區
+diocese of lisala:利薩拉教區
+diocese of lisbon:里斯本教區
+diocese of lishui:麗水教區
+diocese of little rock:小石城教區
+diocese of liverpool:利物浦教區
+diocese of liège:列日教區
 diocese of llandaff:蘭達夫教區
+diocese of lodi:洛迪教區
+diocese of lodwar:洛德瓦爾教區
+diocese of loikaw:壘固教區
+diocese of lokoja:洛科賈教區
+diocese of lokossa:洛科薩教區
 diocese of london:倫敦教區
+diocese of long xuyên:龍川教區
+diocese of los teques:洛斯特克斯教區
+diocese of lucknow:勒克瑙教區
+diocese of lugano:盧加諾教區
+diocese of lugo:盧戈教區
+diocese of luleå:呂勒奧教區
+diocese of lund:隆德教區
+diocese of luoyang:洛陽教區
+diocese of luçon:呂松教區
+diocese of lviv:利沃夫教區
+diocese of macau:澳門教區
+diocese of machala:馬查拉教區
+diocese of machiques:馬奇克斯教區
+diocese of madison:麥迪遜教區
+diocese of maiduguri:邁杜古里教區
+diocese of maintirano:邁因蒂拉努教區
+diocese of mainz:美因茨教區
+diocese of mainz:美茵茨教區
+diocese of malaga:馬拉加教區
+diocese of malakal:馬拉卡勒教區
+diocese of malang:瑪琅教區
+diocese of maliana:瑪利亞娜教區
+diocese of malindi:馬林迪教區
+diocese of malolos:馬洛洛斯教區
+diocese of malta:馬爾他教區
+diocese of mamfe:馬姆費教區
+diocese of mananjary:馬南扎里教區
+diocese of manchester:曼徹斯特教區
+diocese of mansa:曼薩教區
+diocese of mantua:曼托瓦教區
+diocese of mar del plata:馬德普拉塔教區
+diocese of maralal:馬臘拉爾教區
+diocese of marquette:馬凱特教區
+diocese of marsabit:馬薩比特教區
+diocese of masvingo:馬斯溫戈教區
+diocese of matagalpa:馬塔加爾帕教區
+diocese of matanzas:馬坦薩斯教區
+diocese of maturín:馬圖林教區
+diocese of maumere:毛梅雷教區
+diocese of mawlamyine:毛淡棉教區
+diocese of mbalmayo:姆巴爾馬約教區
 diocese of meath and kildare:聖公會米斯暨基爾代爾教區
+diocese of meaux:莫城教區
+diocese of meerut:密拉特教區
+diocese of melbourne:墨爾本教區
+diocese of melipilla:梅利皮亞教區
+diocese of memphis:孟菲斯教區
+diocese of mende:芒德教區
+diocese of menongue:梅農蓋教區
+diocese of meru:梅魯教區
+diocese of metz:梅斯教區
+diocese of middlesbrough:米杜士堡教區
+diocese of minna:明納教區
+diocese of miri:美里教區
+diocese of modena:摩德納教區
 diocese of moesiae:默西亚管区
+diocese of mongomo:蒙戈莫教區
+diocese of mongu:芒古教區
 diocese of monmouth:蒙茅斯教區
+diocese of montauban:蒙托邦教區
+diocese of montego bay:蒙特哥貝教區
+diocese of monterey:蒙特雷教區
+diocese of monteria:蒙特里亞教區
+diocese of montería:蒙特里亞教區
+diocese of monze:蒙澤教區
+diocese of moosonee:穆索尼教區
+diocese of mopti:莫普提教區
+diocese of morombe:穆龍貝教區
+diocese of mouila:穆伊拉教區
+diocese of moundou:蒙杜教區
+diocese of mpika:姆皮卡教區
+diocese of mthatha:烏姆塔塔教區
+diocese of mtwara:姆特瓦拉教區
+diocese of mukachevo:穆卡切沃教區
+diocese of multan:木爾坦教區
+diocese of murang'a:穆拉雅教區
+diocese of murska sobota:穆爾斯卡索博塔教區
+diocese of musoma:穆索馬教區
+diocese of mutare:穆塔雷教區
+diocese of muyinga:穆因加教區
+diocese of myitkyina:密支那教區
+diocese of mzuzu:姆祖祖教區
+diocese of málaga:馬拉加教區
+diocese of münster:明斯特教區
+diocese of n'dali:恩達利教區
+diocese of nakhon sawan:那空沙旺教區
+diocese of namur:那慕爾教區
+diocese of nancheng:南城教區
+diocese of nanjing:南京教區
+diocese of nanking:南京教區
+diocese of nantes:南特教區
+diocese of nanyang:南陽教區
+diocese of nashville:納什維爾教區
+diocese of natitingou:納蒂廷古教區
+diocese of ndola:恩多拉教區
+diocese of nellore:內洛爾教區
+diocese of new westminster:新威斯敏斯特教區
 diocese of newcastle:紐卡斯爾教區
+diocese of nha trang:芽莊教區
+diocese of nice:尼斯教區
+diocese of niigata:新潟教區
+diocese of ningbo:寧波教區
+diocese of ningyuan:寧遠教區
+diocese of nitra:尼特拉教區
+diocese of nkongsamba:恩康桑巴教區
 diocese of norwich:諾里奇教區
+diocese of novara:諾瓦拉教區
+diocese of novo mesto:新梅斯托教區
+diocese of novosibirsk:新西伯利亞教區
+diocese of nuevo laredo:新拉雷多教區
+diocese of oakland:奧克蘭教區
+diocese of oita:大分教區
+diocese of ondjiva:翁吉瓦教區
+diocese of orange county:橙縣教區
+diocese of orizaba:奧里薩巴教區
+diocese of orlando:奧蘭多教區
+diocese of orleans:奧爾良教區
+diocese of orléans:奧爾良教區
+diocese of osimo:奧西莫教區
+diocese of oslo:奧斯陸教區
+diocese of ouahigouya:瓦希古亞教區
 diocese of oxford:牛津教區
+diocese of oyem:奧耶姆教區
+diocese of padang:巴東教區
+diocese of padua:帕多瓦教區
+diocese of pala:帕拉教區
+diocese of pamiers:帕米耶教區
+diocese of pamplona:潘普洛納教區
+diocese of panama:巴拿馬城教區
+diocese of panama:巴拿馬教區
+diocese of panamá:巴拿馬城教區
+diocese of panamá:巴拿馬教區
+diocese of paraguay:巴拉圭教區
+diocese of paramaribo:帕拉馬里博教區
+diocese of parañaque:帕拉尼亞克教區
+diocese of paris:巴黎教區
+diocese of parma:帕爾馬教區
+diocese of pasig:帕西格教區
+diocese of pathein:勃生教區
+diocese of pavia:帕維亞教區
+diocese of pelplin:佩爾普林教區
+diocese of pembroke:彭布羅克教區
+diocese of pesaro:佩薩羅教區
+diocese of pescia:佩夏教區
+diocese of peterborough:彼得伯勒教區
+diocese of phan thiết:潘切教區
+diocese of phoenix:鳳凰城教區
+diocese of pinsk:平斯克教區
+diocese of pistoia:皮斯托亞教區
+diocese of plasencia:普拉森西亞教區
+diocese of plymouth:普利茅斯教區
+diocese of poitiers:普瓦捷教區
 diocese of pontus:本都管区
+diocese of poona:浦那教區
+diocese of port blair:布萊爾港教區
+diocese of port harcourt:哈科特港教區
+diocese of port pirie:皮里港教區
+diocese of port victoria:維多利亞教區
+diocese of port-vila:維拉港教區
+diocese of portland:波特蘭教區
+diocese of porto novo:波多諾伏教區
+diocese of porto:波爾圖教區
+diocese of portsmouth:朴次茅斯教區
+diocese of poznań:波茲南教區
+diocese of pozzuoli:波佐利教區
+diocese of prague:布拉格教區
+diocese of prato:普拉托教區
+diocese of puerto cabello:卡貝略港教區
+diocese of puerto iguazú:伊瓜蘇港教區
+diocese of pune:浦那教區
+diocese of puntarenas:蓬塔雷納斯教區
+diocese of punto fijo:蓬托菲霍教區
+diocese of puqi:蒲圻教區
+diocese of pyongyang:平壤教區
+diocese of pécs:佩奇教區
+diocese of périgueux:佩里格教區
+diocese of qacha's nek:加查斯內克教區
+diocese of quebec:魁北克教區
+diocese of quelimane:克利馬內教區
+diocese of radom:拉多姆教區
+diocese of ragusa:拉古薩教區
+diocese of ragusa:杜布羅夫尼克教區
+diocese of raleigh:羅利教區
+diocese of rarotonga:拉羅湯加教區
+diocese of ratnapura:拉特納普勒教區
+diocese of regensburg:雷根斯堡教區
+diocese of reykjavik:雷克雅未克教區
+diocese of reykjavík:雷克雅未克教區
+diocese of richmond:里奇蒙教區
+diocese of rieti:列蒂教區
+diocese of rimini:里米尼教區
+diocese of riobamba:里奧班巴教區
+diocese of riohacha:里奧阿查教區
 diocese of ripon:里彭暨利茲教區
+diocese of rochester:羅徹斯特教區
 diocese of rochester:聖公會羅徹斯特教區
+diocese of roermond:魯爾蒙德教區
 diocese of rome:天主教羅馬教區
+diocese of rome:羅馬教區
+diocese of roseau:羅索教區
+diocese of rotterdam:鹿特丹教區
+diocese of ruhengeri:魯亨蓋里教區
+diocese of rumbek:倫拜克教區
+diocese of rutana:魯塔納教區
+diocese of saint albans:聖奧爾本斯教區
+diocese of saint augustine:聖奧古斯丁教區
+diocese of saint john:聖約翰教區
+diocese of saint-denis:聖但尼教區
+diocese of saitama:埼玉教區
+diocese of salem:塞勒姆教區
+diocese of salford:索爾福德教區
 diocese of salisbury:索爾茲伯里教區
+diocese of salt lake city:鹽湖城教區
+diocese of salzburg:薩爾茨堡教區
+diocese of san bernardino:聖貝納迪諾教區
 diocese of san carlos:天主教圣卡洛斯教区
+diocese of san carlos:聖卡洛斯教區
+diocese of san cristóbal:聖克里斯托瓦爾教區
+diocese of san diego:聖地牙哥教區
+diocese of san juan de la maguana:聖胡安德拉馬瓜納教區
+diocese of san juan:聖約翰教區
+diocese of san luis:聖路易斯教區
+diocese of san marcos:聖馬科斯教區
+diocese of san martín:聖馬丁教區
+diocese of san pedro:聖佩德羅教區
+diocese of san severo:聖塞韋羅教區
+diocese of san-pédro:聖佩德羅教區
+diocese of sandakan:山打根教區
+diocese of sandomierz:桑多梅日教區
+diocese of santa ana:聖安娜教區
+diocese of santa rosa:聖羅莎教區
+diocese of santander:桑坦德教區
+diocese of santarém:聖塔倫教區
+diocese of santiago de chile:聖地牙哥教區
+diocese of santiago:聖地牙哥教區
+diocese of santo domingo:聖多明哥教區
+diocese of santorini:聖托里尼教區
+diocese of sanyuan:三原教區
+diocese of saratov:薩拉托夫教區
+diocese of satna:瑟德納教區
+diocese of satu mare:薩圖馬雷教區
+diocese of segovia:塞哥維亞教區
+diocese of senigallia:塞尼加利亞教區
+diocese of shanghai:上海教區
+diocese of shangqiu:商丘教區
+diocese of shantou:汕頭教區
 diocese of sheffield:設菲爾德教區
+diocese of shimoga:希莫加教區
+diocese of shrewsbury:什魯斯伯里教區
+diocese of shunde:順德教區
+diocese of sibolga:實武牙教區
+diocese of sibu:詩巫教區
+diocese of siedlce:謝德爾采教區
+diocese of sikasso:錫卡索教區
+diocese of sincelejo:辛塞萊霍教區
+diocese of singapore:新加坡教區
+diocese of sisak:錫薩克教區
+diocese of siuna:休納教區
+diocese of skopje:斯科普里教區
+diocese of soacha:索阿查教區
 diocese of sodor and man:索多暨馬恩教區
+diocese of solwezi:索盧韋齊教區
+diocese of southwark:薩瑟克教區
 diocese of southwell and nottingham:紹斯韋爾暨諾丁漢教區
+diocese of spokane:斯波坎教區
 diocese of st albans:聖奧爾本斯教區
 diocese of st asaph:聖阿瑟夫教區
 diocese of st davids:聖戴維茲教區
 diocese of st edmundsbury and ipswich:圣埃德蒙兹贝里暨伊普斯威奇教区
+diocese of st. albans:聖奧爾本斯教區
+diocese of st. louis:聖路易斯教區
+diocese of stockholm:斯德哥爾摩教區
+diocese of strasbourg:斯特拉斯堡教區
+diocese of subotica:蘇博蒂察教區
+diocese of sumbawanga:松巴萬加教區
+diocese of sunyani:蘇尼亞尼教區
+diocese of surabaya:泗水教區
+diocese of surat thani:素叻他尼教區
+diocese of susa:蘇薩教區
+diocese of suwon:水原教區
+diocese of suzhou:蘇州教區
 diocese of swansea and brecon:斯旺西暨布雷肯教區
+diocese of sydney:悉尼教區
+diocese of syrmia:斯雷姆教區
+diocese of szombathely:松博特海伊教區
+diocese of são tomé and príncipe:聖多美普林西比教區
+diocese of tagbilaran:塔比拉蘭教區
+diocese of tagum:塔古姆教區
+diocese of taichung:台中教區
+diocese of taichung:臺中教區
+diocese of tainan:台南教區
+diocese of tainan:臺南教區
+diocese of taiwan:台灣教區
+diocese of takamatsu:高松教區
+diocese of talca:塔爾卡教區
+diocese of tampico:坦皮科教區
+diocese of tanga:湯加教區
+diocese of tarija:塔里哈教區
+diocese of tarnów:塔爾努夫教區
+diocese of techiman:泰奇曼教區
+diocese of temuco:特木科教區
+diocese of tenkodogo:滕科多戈教區
+diocese of teotihuacan:特奧蒂瓦坎教區
+diocese of tepic:特皮克教區
 diocese of the east:东方管区
 diocese of the french armed forces:天主教法國武裝部隊教區
+diocese of thiès:捷斯教區
+diocese of tianjin:天津教區
+diocese of timika:蒂米卡教區
+diocese of timişoara:蒂米什瓦拉教區
+diocese of timișoara:蒂米什瓦拉教區
+diocese of timmins:蒂明斯教區
+diocese of toledo:托萊多教區
+diocese of tonga:湯加教區
+diocese of torit:托里特教區
+diocese of toronto:多倫多教區
+diocese of toruń:托倫教區
+diocese of tournai:圖爾奈教區
+diocese of trapani:特拉帕尼教區
+diocese of trenton:特倫頓教區
+diocese of treviso:特雷維索教區
+diocese of tricarico:特里卡里科教區
+diocese of trieste:的里雅斯特教區
+diocese of trincomalee:亭可馬里教區
+diocese of trivento:特里文托教區
+diocese of trois-rivières:三河城教區
 diocese of truro:特魯羅教區
+diocese of tsiroanomandidy:齊魯阿努曼迪迪教區
+diocese of tula:圖拉教區
+diocese of tula:蒂勒教區
+diocese of tulle:蒂勒教區
+diocese of tumaco:圖馬科教區
+diocese of tzaneen:察嫩教區
+diocese of uijeongbu:議政府教區
+diocese of utrecht:烏得勒支教區
+diocese of uvira:烏維拉教區
+diocese of uyo:烏約教區
+diocese of valdivia:瓦尔迪维亚教區
+diocese of valence:瓦朗斯教區
+diocese of valença:瓦朗斯教區
+diocese of valle de chalco:查爾科鎮教區
+diocese of vancouver island:溫哥華島教區
+diocese of vanimo:瓦尼莫教區
+diocese of varanasi:瓦拉納西教區
+diocese of varaždin:瓦拉日丁教區
+diocese of venado tuerto:貝納多圖埃托教區
+diocese of viana do castelo:維亞納堡教區
+diocese of vic:比克教區
+diocese of victoria:維多利亞教區
+diocese of vienna:維也納教區
+diocese of vienne:維也納教區
+diocese of vila real:雷阿爾城教區
+diocese of vilkaviškis:維爾卡維什基斯教區
+diocese of villarrica:比亞里卡教區
+diocese of vilnius:維爾紐斯教區
+diocese of vinh:榮市教區
+diocese of visby:維斯比教區
+diocese of viseu:維塞烏教區
+diocese of viterbo:維泰博教區
+diocese of vitoria:維多利亞教區
+diocese of wabag:瓦巴格教區
+diocese of wagga wagga:沃加沃加教區
 diocese of wakefield:韋克菲爾德教區
+diocese of warri:瓦里教區
+diocese of wau:瓦烏教區
 diocese of western china:聖公會華西教區
 diocese of western kowloon:香港聖公會西九龍教區
+diocese of westminster:西敏教區
+diocese of willemstad:威廉斯塔德教區
+diocese of wilmington:威爾明頓教區
+diocese of winchester:温彻斯特教區
 diocese of winchester:溫徹斯特教區
+diocese of witbank:威特班克教區
+diocese of wonju:原州教區
+diocese of wrexham:雷克瑟姆教區
+diocese of wroclaw:弗羅茨瓦夫教區
+diocese of wrocław:弗羅茨瓦夫教區
+diocese of wuchang:武昌教區
+diocese of wuhu:蕪湖教區
+diocese of wuzhou:梧州教區
+diocese of xiamen:廈門教區
+diocese of xiangyang:襄陽教區
+diocese of xiwanzi:西湾子教區
+diocese of xuanhua:宣化教區
+diocese of xuzhou:徐州教區
+diocese of yagoua:亞瓜教區
+diocese of yakima:雅基馬教區
+diocese of yamoussoukro:亞穆蘇克羅教區
+diocese of yan'an:延安教區
+diocese of yanji:延吉教區
+diocese of yokadouma:約卡杜馬教區
+diocese of yongjia:永嘉教區
+diocese of yongnian:永年教區
+diocese of yongping:永平教區
+diocese of yopal:約帕爾教區
 diocese of york:約克教區
+diocese of yoro:約羅教區
+diocese of yuanling:沅陵教區
+diocese of yuci:榆次教區
+diocese of yujiang:餘江區教區
+diocese of yujiang:餘江教區
+diocese of zanzibar:桑給巴爾教區
+diocese of zhaoxian:趙縣教區
+diocese of zhengzhou:鄭州教區
+diocese of zhoucun:周村教區
+diocese of zhytomyr:日托米爾教區
 diocese:教區
 diocles of syracuse:狄奥克勒斯
 diocletian and constantine:戴克里先和君士坦丁
@@ -18328,6 +19096,8 @@ diploma levels:文凭水平
 diploma management:文凭管理
 diploma mill:文憑工廠
 diploma module:文凭模块
+diploma of education:教育文凭
+diploma of higher education:高等教育文凭
 diploma open source:文凭开放源代码
 diploma opportunity:文凭机会
 diploma option:文凭选项
@@ -18648,6 +19418,7 @@ diplomatic effort:外交的努力
 diplomatic efforts:外交的努力
 diplomatic future:外交的未来
 diplomatic hell:外交的地狱
+diplomatic history of world war ii:第二次世界大战外交史
 diplomatic history of world war ii:第二次世界大戰外交史
 diplomatic history:外交史
 diplomatic history:外交的历史
@@ -18657,6 +19428,7 @@ diplomatic isolationism:外交的孤立主义
 diplomatic manner:外交的方式
 diplomatic memoir:外交的回忆录
 diplomatic milestone:外交的里程碑
+diplomatic mission of russia:俄羅斯外交代表機構
 diplomatic mission:外交代表機構
 diplomatic offensive:外交攻势
 diplomatic office of belgium:驻比利时
@@ -19818,6 +20590,7 @@ direction of future:方向的未来
 direction of home:方向的家
 direction of light:方向的光
 direction of potential changes:方向的潜在变化
+direction of prayer:祈祷方向
 direction of standardization:方向的标准化
 direction offer:方向提供
 direction offset:方向偏移
@@ -20182,9 +20955,12 @@ director norman:导演诺曼
 director note:导演注意
 director nunatak:迪雷克托冰原島峰
 director of audiography:音效指導
+director of central intelligence agency:中央情报局局长
 director of central intelligence:中央情報總監
 director of immigration v chong fung yuen:莊豐源案
+director of music:音乐导演
 director of national intelligence:國家情報總監
+director of photography:摄影导演
 director of policy planning:政策規劃辦公室主任
 director of program management:导演的程序管理
 director of public prosecutions:刑事檢控專員
@@ -20422,6 +21198,8 @@ directory name:目录名称
 directory networks:目录网络
 directory now:目录现在
 directory object:目录对象
+directory of services:服务目录
+directory of websites:网站目录
 directory operations:目录操作
 directory or command:目录或命令
 directory or contain:目录或包含
@@ -24967,6 +25745,7 @@ discussion organizations:讨论组织
 discussion origin:讨论起源
 discussion outcome:讨论结果
 discussion page:讨论页
+discussion pages of articles:文章讨论页
 discussion pages:讨论页
 discussion panel:讨论面板
 discussion part:讨论部分
@@ -26191,6 +26970,7 @@ diseases now:疾病现在
 diseases of affluence:文明病
 diseases of civilization:疾病的文明
 diseases of poverty:貧窮病
+diseases of poverty:贫困疾病
 diseases often:疾病常常
 diseases once:疾病一次
 diseases open:疾病开
@@ -27188,6 +27968,7 @@ disorder impacts:混乱影响
 disorder influence:混乱影响
 disorder is their enemy:混乱是他们的敌人
 disorder of consciousness:意識障礙
+disorder of consciousness:意识混乱
 disorder offer:混乱提供
 disorder or disease:混乱或疾病
 disorder strategy:混乱战略
@@ -30607,8 +31388,10 @@ distribution of land:分布的土地
 distribution of metal:分布的金属
 distribution of node:分布的节点
 distribution of population:分布的人口
+distribution of power:幂分布
 distribution of random number:分布的随机数
 distribution of role:分布的角色
+distribution of species:物种分布
 distribution of streets:分布的街道
 distribution of tissue expression:分布的组织表达
 distribution of vehicle technologies:分布的车辆技术
@@ -30743,7 +31526,12 @@ district court judge:地方法院法官
 district court jury:地方法院陪审团
 district court jury:地方法院陪審團
 district court of guam:关岛地区法院
+district court of hawaii:夏威夷州地方法院
+district court of hong kong:香港區域法院
+district court of the united states:美国地方法院
 district court of the virgin islands:维尔京群岛地区法院
+district court of tokyo:东京地方法院
+district court of tokyo:東京地方法院
 district court or supreme court:地方法院或最高法院
 district court patent:地方法院专利
 district court recently:地方法院最近
@@ -32051,6 +32839,7 @@ district of duchy of lauenburg:劳恩堡公国县
 district of ferizaj:烏羅舍瓦茨區
 district of gjakova:賈科維察區
 district of gjilan:格尼拉內區
+district of hong kong:香港區域
 district of itauguá:伊陶瓜區
 district of liptovský mikuláš:利普托夫斯基米库拉什区
 district of louisiana:路易斯安那特区
@@ -32069,6 +32858,7 @@ district of pristina:普里什蒂納區
 district of prizren:普里茲倫區
 district of rožňava:罗日尼亚瓦区
 district of senica:塞尼察区
+district of texas:德克薩斯州區域
 district of topoľčany:托波尔恰尼区
 district of yaguarón - district of carapeguá:亞瓜龍區 - 卡拉佩瓜區
 district of yaguarón - district of paraguarí:亞瓜龍區 - 巴拉瓜里區
@@ -33938,9 +34728,11 @@ diversity of ganglion cell:多样性的神经节细胞
 diversity of ganglion cells:多样性的神经节细胞
 diversity of gift:多样性的礼物
 diversity of life:多样性的生命
+diversity of life:生命多样性
 diversity of opinion:多样性的意见
 diversity of rice:多样性的大米
 diversity of snow crystal:多样性的雪晶体
+diversity of species:物种多样性
 diversity of thought:多样性的思想
 diversity of use case:多样性的用例
 diversity offer:多样性提供
@@ -34194,7 +34986,9 @@ divinity and humanity:神性与人性
 divinity and humanity:神性和人性
 divinity and mission:神性和使命
 divinity and normal humanity:神性和正常的人性
+divinity of christ:基督神性
 divinity of jesus:神性的耶穌
+divinity of jesus:耶稣神性
 divinity schools:神性学校
 divinity so powerful:神性如此强大
 divinity so:神性如此
@@ -34284,6 +35078,7 @@ division norman:师诺曼
 division normandy:师诺曼底
 division nose:师鼻子
 division of atheism:师的无神论
+division of aviation:航空师
 division of colleagues:师的同事
 division of korea:朝鲜半岛南北分治
 division of labour also require:分工也需要

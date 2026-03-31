@@ -1603,6 +1603,8 @@ poet king:诗人国王
 poet knows:诗人知道
 poet laugh:诗人笑
 poet laureate andrew:桂冠诗人安德鲁
+poet laureate of great britain:英国桂冠诗人
+poet laureate of the united kingdom:英国桂冠诗人
 poet laureate of the united kingdom:英國桂冠詩人
 poet laureate:桂冠诗人
 poet lawrence:诗人劳伦斯
@@ -1981,6 +1983,7 @@ poetry of expression:诗歌的表达
 poetry of joseph stalin:斯大林诗歌
 poetry of mao zedong:毛泽东诗词
 poetry of the day after:後青春期的詩
+poetry of the united states:美国诗歌
 poetry offer:诗歌提供
 poetry often open:诗歌常常打开
 poetry often provide:诗歌常常提供
@@ -3107,20 +3110,28 @@ point of analysis:点的分析
 point of attack:点的攻击
 point of ayre:艾爾角
 point of connection give:点的连接给
+point of contact:联系点
 point of decision-making:点的决策
+point of entry:入口点
 point of expression:点的表达
 point of home depot:点的家得宝
 point of ideal:点的理想
 point of impact:点的影响
 point of interaction:点的交互
+point of interaction:相互作用点
+point of interest:兴趣点
 point of interest:興趣點
 point of land:点的土地
+point of light:光点
 point of light:点的光
 point of order:秩序問題
+point of origin:起源点
 point of pain:点的疼痛
 point of presence:网络服务提供点
+point of reference:参考点
 point of rocks station:巨岩点车站
 point of sale:銷售時點情報系統
+point of sales:销售点
 point of sleep:点的睡眠
 point of time:点的时间
 point of view and art process:观点和艺术处理
@@ -4081,8 +4092,11 @@ points of data:点的数据
 points of difference:点的差异
 points of failure:点的失败
 points of information:点的信息
+points of interest:兴趣点
 points of light show:点的光显示
+points of light:光点
 points of light:点的光
+points of origin:起源点
 points of resources:点的资源
 points of steel:点的钢
 points of temperature data:点的温度数据
@@ -5623,6 +5637,7 @@ polarization identity:极化恒等式
 polarization means:两极分化意味着
 polarization of income:两极分化的收入
 polarization of jobs:两极分化的工作
+polarization of light:光極化
 polarization of thought:两极分化的思想
 polarization of wealth:两极分化的财富
 polarization phenomenon:两极分化现象
@@ -6144,6 +6159,7 @@ police collaboration as well as protection:警察合作以及保护
 police collaboration:警察合作
 police colleagues:警察同事
 police college footbridge:警官学院人行天桥
+police college of finland:芬兰警察学院
 police college:警察学院
 police college:警察學院
 police colonel:警察上校
@@ -6493,8 +6509,24 @@ police novel:警察小说
 police now attend:警察现在参加
 police now:警察现在
 police occasionally:警察偶尔
+police of armenia:亞美尼亞警察
+police of austria:奧地利警察
+police of berlin:柏林警察
+police of brazil:巴西警察
+police of colombia:哥倫比亞警察
 police of denmark:丹麥警察
+police of denmark:丹麦警察
+police of finland:芬蘭警察
+police of germany:德国警察
+police of germany:德國警察
+police of hungary:匈牙利警察
+police of israel:以色列警察
+police of north korea:朝鲜警察
+police of poland:波蘭警察
 police of russia:俄罗斯警察
+police of russia:俄羅斯警察
+police of serbia:塞爾維亞警察
+police of são paulo:聖保羅警察
 police of the czech republic:捷克共和國警察
 police offer:警察提供
 police office:滨江区公安分局西兴派出所江南实验学校警务室
@@ -6857,6 +6889,7 @@ police surveillance technologies:警察监视技术
 police surveillance:警察监视
 police surveillance:警察監視
 police suspect:警察怀疑
+police system of japan:日本警察系統
 police system:警察系統
 police system:警察系统
 police systems:警察系统
@@ -8607,6 +8640,8 @@ policy occasionally:政策偶尔
 policy of deliberate ambiguity:戰略模糊
 policy of economic liberalism:政策的經濟自由主義
 policy of henry viii:政策的亨利八世
+policy of isolation:隔离政策
+policy of neutrality:中立政策
 policy offer:政策提供
 policy office:政策办公室
 policy office:政策辦公室
@@ -10206,6 +10241,7 @@ political culture and ideology:政治文化与意识形态
 political culture and ideology:政治文化和意识形态
 political culture continues:政治文化继续
 political culture emphasize:政治文化强调
+political culture of canada:加拿大政治文化
 political culture practice:政治文化实践
 political culture:政治文化
 political culture:政治的文化
@@ -10745,6 +10781,10 @@ political system is perfect:政治制度是完美的
 political system lack:政治制度缺乏
 political system must include:政治制度必须包括
 political system no longer:政治制度不再
+political system of china:中华人民共和国政治制度
+political system of china:中国政治制度
+political system of china:中國政治制度
+political system of china:中華人民共和國政治制度
 political system or tendency:政治制度或倾向
 political system provides:政治制度提供
 political system reform:政治制度改革
@@ -11490,117 +11530,306 @@ politics news:政治新闻
 politics no longer:政治不再
 politics not:政治不是
 politics now:政治现在
+politics of abkhazia:阿布哈兹政治
+politics of abkhazia:阿布哈茲政治
+politics of afghanistan:阿富汗政治
+politics of africa:非洲政治
 politics of albania:阿尔巴尼亚政治
+politics of albania:阿爾巴尼亞政治
+politics of alberta:亞伯達省政治
 politics of alberta:艾伯塔政治
+politics of algeria:阿尔及利亚政治
+politics of algeria:阿爾及利亞政治
+politics of american samoa:美屬薩摩亞政治
 politics of andorra:安道尔政治
+politics of andorra:安道爾政治
+politics of anguilla:安圭拉政治
 politics of argentina:阿根廷政治
+politics of armenia:亚美尼亚政治
 politics of armenia:亞美尼亞政治
 politics of australia:澳大利亚政治
+politics of australia:澳洲政治
+politics of austria:奥地利政治
 politics of austria:奧地利政治
+politics of azerbaijan:亞塞拜然政治
 politics of azerbaijan:阿塞拜疆政治
+politics of barbados:巴貝多政治
+politics of bavaria:巴伐利亚政治
+politics of belarus:白俄罗斯政治
 politics of belarus:白俄羅斯政治
+politics of belarus:白羅斯政治
 politics of belgium:比利时政治
+politics of belgium:比利時政治
+politics of bermuda:百慕大政治
+politics of bermuda:百慕達政治
 politics of bhutan:不丹政治
 politics of bosnia and herzegovina:波士尼亞與赫塞哥維納政治
+politics of bosnia and herzegovina:波黑政治
+politics of botswana:博茨瓦納政治
+politics of botswana:博茨瓦纳政治
 politics of brazil:巴西政治
 politics of brunei:文莱政治
+politics of brunei:汶莱政治
+politics of brunei:汶萊政治
+politics of bulgaria:保加利亚政治
 politics of bulgaria:保加利亞政治
+politics of burkina faso:布吉納法索政治
+politics of burma:緬甸政治
+politics of burma:缅甸政治
+politics of california:加利福尼亚州政治
 politics of cambodia:柬埔寨政治
 politics of canada:加拿大政治
 politics of chad:乍得政治
+politics of chad:查德政治
+politics of chengdu:成都政治
 politics of china:中华人民共和国政治
+politics of china:中国政治
+politics of china:中國政治
+politics of china:中華人民共和國政治
+politics of chongqing:重庆政治
+politics of climate change:气候变化政治
 politics of climate change:氣候變化政治
 politics of colombia:哥伦比亚政治
+politics of colorado:科罗拉多州政治
+politics of costa rica:哥斯大黎加政治
+politics of costa rica:哥斯达黎加政治
 politics of costa rica:哥斯達黎加政治
+politics of croatia:克罗地亚政治
+politics of croatia:克羅地亞政治
 politics of croatia:克羅埃西亞政治
 politics of cuba:古巴政治
+politics of cyprus:塞浦路斯政治
 politics of cyprus:賽普勒斯政治
 politics of denmark:丹麥政治
+politics of denmark:丹麦政治
+politics of east germany:東德政治
 politics of egypt:埃及政治
+politics of england:英格兰政治
+politics of equatorial guinea:赤道幾內亞政治
+politics of eritrea:厄立特里亚政治
 politics of estonia:愛沙尼亞政治
+politics of estonia:爱沙尼亚政治
+politics of ethiopia:埃塞俄比亚政治
+politics of europe:欧洲政治
 politics of europe:歐洲政治
+politics of european union:欧洲联盟政治
+politics of european union:欧盟政治
+politics of fiji:斐济政治
+politics of finland:芬兰政治
 politics of finland:芬蘭政治
+politics of food:食品政治
+politics of france:法国政治
 politics of france:法國政治
+politics of french polynesia:法属波利尼西亚政治
+politics of gabon:加蓬政治
+politics of gauteng:豪登省政治
+politics of georgia:佐治亚州政治
+politics of georgia:喬治亞政治
+politics of georgia:格鲁吉亚政治
+politics of germany:德国政治
 politics of germany:德國政治
+politics of gibraltar:直布羅陀政治
 politics of greece:希腊政治
+politics of greece:希臘政治
+politics of greenland:格陵兰政治
+politics of grenada:格林纳达政治
+politics of guam:关岛政治
+politics of guam:關島政治
 politics of guatemala:危地马拉政治
 politics of hainan:海南政治
 politics of haiti:海地政治
+politics of haïti:海地政治
+politics of henan:河南政治
+politics of honduras:洪都拉斯政治
 politics of hong kong:香港政治
+politics of hunan:湖南政治
 politics of hungary:匈牙利政治
+politics of iceland:冰岛政治
 politics of iceland:冰島政治
 politics of india:印度政治
+politics of indonesia:印尼政治
 politics of iran:伊朗政治
+politics of iraq:伊拉克政治
+politics of ireland:愛爾蘭共和國政治
+politics of ireland:愛爾蘭政治
+politics of ireland:爱尔兰政治
 politics of israel:以色列政治
+politics of italy:意大利政治
 politics of italy:義大利政治
 politics of jamaica:牙买加政治
 politics of japan:日本政治
+politics of jiangxi:江西政治
+politics of jilin:吉林政治
+politics of kazakhstan:哈萨克斯坦政治
+politics of kiribati:基里巴斯政治
 politics of korea:朝鮮半島政治
+politics of korea:朝鲜政治
+politics of korea:韩国政治
 politics of kosovo:科索沃政治
+politics of kyrgyzstan:吉尔吉斯斯坦政治
+politics of language:語言政治
+politics of laos:老挝政治
 politics of laos:老撾政治
 politics of latvia:拉脫維亞政治
+politics of latvia:拉脱维亚政治
+politics of liberia:利比里亚政治
+politics of libya:利比亚政治
+politics of libya:利比亞政治
 politics of liechtenstein:列支敦士登政治
+politics of liechtenstein:列支敦斯登政治
 politics of lithuania:立陶宛政治
+politics of luxembourg:卢森堡政治
 politics of luxembourg:盧森堡政治
 politics of macau:澳門政治
+politics of macau:澳门政治
+politics of madagascar:馬達加斯加政治
 politics of madagascar:馬達加斯加政治史
+politics of malaysia:馬來西亞政治
 politics of malaysia:马来西亚政治
 politics of malta:馬爾他政治
+politics of malta:马耳他政治
 politics of manitoba:马尼托巴省政府
+politics of mexico:墨西哥政治
+politics of moldova:摩尔多瓦政治
 politics of moldova:摩爾多瓦政治
+politics of monaco:摩纳哥政治
+politics of mongolia:蒙古国政治
 politics of mongolia:蒙古國政治
 politics of montenegro:蒙特內哥羅政治
+politics of montenegro:黑山政治
+politics of montserrat:蒙特塞拉特政治
+politics of mozambique:莫桑比克政治
+politics of myanmar:緬甸政治
 politics of myanmar:缅甸政治
+politics of nepal:尼泊尔政治
+politics of new caledonia:新喀里多尼亚政治
+politics of new caledonia:新喀里多尼亞政治
+politics of new zealand:新西兰政治
 politics of new zealand:紐西蘭政治
 politics of nicaragua:尼加拉瓜政治
+politics of nigeria:尼日利亚政治
+politics of north carolina:北卡罗来纳州政治
+politics of north korea:北韓政治
+politics of north korea:朝鮮政治
 politics of north korea:朝鮮民主主義人民共和國政治
+politics of north korea:朝鲜政治
+politics of north korea:朝鲜民主主义人民共和国政治
 politics of north macedonia:北馬其頓政治
+politics of north west:西北省政治
+politics of northern cyprus:北賽普勒斯政治
+politics of northern ireland:北爱尔兰政治
 politics of norway and politics of sweden:挪威政治和瑞典政治
 politics of norway:挪威政治
+politics of outer space:太空政治
+politics of pakistan:巴基斯坦政治
 politics of palau:帕劳政治
+politics of palestine:巴勒斯坦政治
+politics of panama:巴拿马政治
+politics of papua new guinea:巴布亚新几内亚政治
 politics of paraguay:巴拉圭政治
+politics of peru:秘魯政治
 politics of peru:秘鲁政治
+politics of piracy:海盗政治
 politics of poland:波蘭政治
 politics of portugal:葡萄牙政治
+politics of puerto rico:波多黎各政治
 politics of qatar:卡塔尔政治
 politics of quebec:魁北克政治
+politics of romania:罗马尼亚政治
 politics of romania:羅馬尼亞政治
+politics of russia:俄罗斯政治
 politics of russia:俄羅斯政治
+politics of rwanda:盧旺達政治
 politics of samoa:萨摩亚政治
+politics of samoa:薩摩亞政治
 politics of san marino:圣马力诺政治
 politics of saskatchewan:薩克其萬省政府
 politics of scotland:苏格兰政治
+politics of scotland:蘇格蘭政治
+politics of serbia:塞尔维亚政治
 politics of serbia:塞爾維亞政治
+politics of shanghai:上海政治
+politics of sicily:西西里政治
 politics of singapore:新加坡政治
 politics of slovakia:斯洛伐克政治
+politics of slovenia:斯洛文尼亚政治
 politics of slovenia:斯洛維尼亞政治
+politics of solomon islands:所罗门群岛政治
 politics of south africa:南非政治
+politics of south america:南美洲政治
+politics of south korea:大韓民國政治
+politics of south korea:大韩民国政治
+politics of south korea:韓國政治
 politics of south korea:韩国政治
+politics of south ossetia:南奥塞梯政治
+politics of south ossetia:南奧塞梯政治
+politics of south sudan:南苏丹政治
 politics of spain:西班牙政治
 politics of sri lanka:斯里兰卡政治
+politics of sri lanka:斯里蘭卡政治
+politics of sudan:苏丹政治
 politics of sudan:蘇丹政治
+politics of suriname:苏里南政治
 politics of sweden:瑞典政治
 politics of switzerland:瑞士政治
+politics of syria:叙利亚政治
+politics of syria:敘利亞政治
 politics of taiwan:中華民國政治
+politics of taiwan:台湾政治
+politics of taiwan:台灣政治
+politics of taiwan:臺灣政治
+politics of tajikistan:塔吉克政治
+politics of tanzania:坦桑尼亚政治
+politics of texas:德克薩斯州政治
 politics of thailand:泰国政治
+politics of thailand:泰國政治
+politics of the bahamas:巴哈马政治
 politics of the cook islands:库克群岛政治
 politics of the czech republic:捷克政治
 politics of the democratic republic of the congo:刚果民主共和国政治
+politics of the european union:欧盟政治
 politics of the european union:歐盟政治
 politics of the islamic republic of afghanistan:阿富汗政治
+politics of the nation:国家政治
 politics of the netherlands:荷兰政治
+politics of the netherlands:荷蘭政治
 politics of the northwest territories:西北地区政府
+politics of the people's republic of china:中华人民共和国政治
+politics of the philippines:菲律宾政治
 politics of the philippines:菲律賓政治
 politics of the republic of ireland:愛爾蘭共和國政治
+politics of the soviet union:苏联政治
+politics of the u.s.:美国政治
 politics of the united kingdom:英国政治
 politics of the united states:美国政治
+politics of thuringia:图林根政治
+politics of togo:多哥政治
+politics of tokelau:托克勞政治
+politics of tonga:汤加政治
+politics of transnistria:德涅斯特河沿岸政治
 politics of tunisia:突尼斯政治
+politics of tunisia:突尼西亞政治
 politics of turkey:土耳其政治
 politics of turkmenistan:土库曼斯坦政治
+politics of uganda:烏干達政治
+politics of ukraine:乌克兰政治
 politics of ukraine:烏克蘭政治
+politics of united states:美国政治
+politics of united states:美國政治
+politics of uruguay:乌拉圭政治
+politics of uzbekistan:乌兹别克斯坦政治
+politics of vancouver:溫哥華政治
 politics of vanuatu:瓦努阿图政治
+politics of vatican city:梵蒂冈政治
 politics of vatican city:梵蒂岡城國政治
+politics of vatican city:梵蒂岡政治
+politics of venezuela:委内瑞拉政治
 politics of vietnam:越南政治
+politics of virginia:弗吉尼亚州政治
+politics of wales:威爾斯政治
+politics of western sahara:西撒哈拉政治
+politics of yemen:也門政治
+politics of yunnan:云南政治
 politics offer:政治提供
 politics often:政治常常
 politics once again:政治再次
@@ -12374,8 +12603,11 @@ pollution modeling:污染建模
 pollution monitor:污染监视器
 pollution nearly:污染几乎
 pollution obligation:污染义务
+pollution of air:空气污染
 pollution of fossil energy:污染的化石能源
 pollution of the ganges:恒河污染
+pollution of the water:水污染
+pollution of water:水污染
 pollution often:污染常常
 pollution opportunities:污染机会
 pollution or climate change:污染或气候变化
@@ -16507,6 +16739,7 @@ pope could be:教宗能成为
 pope could:教宗能
 pope could:教皇能
 pope county:波普縣
+pope cyril of alexandria:亚历山大教宗西里尔
 pope cyril:教宗西里尔
 pope damasus i:達瑪穌一世
 pope damasus ii:達瑪穌二世
@@ -16747,8 +16980,13 @@ pope no longer:教宗不再
 pope now:教宗现在
 pope now:教皇现在
 pope obviously:教宗显然
+pope of alexandria:亚历山大教宗
 pope of avignon:教宗的亞維農
 pope of color:教皇的颜色
+pope of rome:罗马教宗
+pope of rome:罗马教皇
+pope of rome:羅馬教宗
+pope of rome:羅馬教皇
 pope once again:教皇再次
 pope or bishop:教皇或主教
 pope order:教皇命令
@@ -17678,6 +17916,10 @@ popular front for the liberation of palestine:解放巴勒斯坦人民阵线
 popular front for the liberation of the occupied arabian gulf:解放被占领的阿拉伯湾人民阵线
 popular front government:人民陣線政府
 popular front incident:人民阵线事件
+popular front of azerbaijan:亞塞拜然人民陣線
+popular front of estonia:愛沙尼亞人民陣線
+popular front of latvia:拉脫維亞人民陣線
+popular front of moldova:摩爾多瓦人民陣線
 popular front:人民陣線
 popular fruit:流行的水果
 popular full moon party:流行的滿月派對
@@ -18441,6 +18683,7 @@ popular social website:流行的社交網站
 popular social-media:流行的社交媒体
 popular social-network game:流行的社交网络游戏
 popular social:流行的社交
+popular socialist party of mexico:墨西哥人民社会党
 popular socialist party of mexico:墨西哥社会主义人民党
 popular socialist party:人民社会党
 popular software applications:流行的软件应用程序
@@ -19326,6 +19569,7 @@ population health technology:人口健康技术
 population health:人口健康
 population health:种群健康
 population history and sub:人口历史和子
+population history of china:中国人口历史
 population history of china:中国人口史
 population history principles:人口历史原则
 population history:人口历史
@@ -19475,25 +19719,79 @@ population number:人口数
 population number:人口数字
 population numbers:人口数字
 population obesity:人口肥胖
+population of afghanistan:阿富汗人口
+population of andorra:安道爾人口
+population of argentina:阿根廷人口
+population of armenia:亞美尼亞人口
+population of australia:澳大利亚人口
+population of australia:澳洲人口
 population of canada by province and territory:加拿大各省和地区人口列表
+population of canada:加拿大人口
 population of cancer:人口的癌症
 population of canterbury:人口的坎特伯雷
 population of chicken:人口的鸡
 population of children:人口的儿童
 population of china:人口的中国
 population of course:人口当然
+population of croatia:克罗地亚人口
+population of croatia:克羅埃西亞人口
+population of denmark:丹麥人口
+population of denmark:丹麦人口
+population of england:英格兰人口
+population of england:英格蘭人口
+population of europe:欧洲人口
+population of europe:歐洲人口
 population of four:人口的四
+population of hong kong:香港人口
 population of india:人口的印度
+population of india:印度人口
 population of infant:人口的婴儿
 population of israelites:人口的以色列人
+population of italy:意大利人口
+population of italy:義大利人口
+population of japan:日本人口
+population of lithuania:立陶宛人口
 population of luxembourg:人口的卢森堡
+population of macau:澳門人口
+population of macau:澳门人口
+population of mexico:墨西哥人口
+population of nigeria:尼日利亚人口
+population of north korea:北韓人口
+population of north korea:朝鮮人口
+population of north korea:朝鮮民主主義人民共和國人口
+population of north korea:朝鲜人口
 population of only:人口的只有
+population of pakistan:巴基斯坦人口
+population of peru:秘魯人口
+population of peru:秘鲁人口
 population of pudong:浦东新区人口
+population of russia:俄罗斯人口
+population of russia:俄羅斯人口
+population of scotland:苏格兰人口
+population of scotland:蘇格蘭人口
+population of slovakia:斯洛伐克人口
 population of south korea:人口的韩国
+population of south korea:南韓人口
+population of south korea:大韓民國人口
+population of south korea:韓國人口
+population of south korea:韩国人口
 population of switzerland:人口的瑞士
+population of taiwan:中華民國人口
+population of taiwan:台湾人口
+population of taiwan:台灣人口
+population of taiwan:臺灣人口
+population of thailand:泰国人口
+population of thailand:泰國人口
+population of the united kingdom:英国人口
 population of the united states:人口的美国
+population of the united states:美国人口
+population of the world:世界人口
+population of ukraine:乌克兰人口
+population of ukraine:烏克蘭人口
+population of urban area:市区人口
 population of users:人口的用户
 population of vietnam:人口的越南
+population of yemen:也门人口
 population offer:人口提供
 population often:人口常常
 population once:人口一次
@@ -20721,6 +21019,7 @@ port authority explosion:港务局爆炸
 port authority hopes:港务局希望
 port authority invest:港务局投资
 port authority of new york and new jersey:紐約與新澤西港務局
+port authority of new york:纽约港务局
 port authority officials estimate:港务局官员估计
 port authority officials:港务局官员
 port authority plan:港务局计划
@@ -21375,12 +21674,15 @@ port of amsterdam plans:阿姆斯特丹港计划
 port of amsterdam:阿姆斯特丹港
 port of anping:安平港
 port of antwerp:安特衛普港
+port of arkhangelsk:阿爾漢格爾斯克港口
 port of ashdod:阿什杜德港
 port of bakauheni:峇高黑尼港
 port of baltimore:巴爾的摩港
 port of beirut:貝魯特港
 port of berbera:柏培拉港
 port of berdiansk:別爾江斯克港
+port of berdiansk:別爾江斯克港口
+port of berdyansk:別爾江斯克港口
 port of bilbao:毕尔巴鄂港
 port of bitung:比通港
 port of boston:波士頓港
@@ -21399,7 +21701,9 @@ port of dandong:丹东港
 port of dar es salaam:达累斯萨拉姆港
 port of djibouti to ethiopia:吉布提港到埃塞俄比亚
 port of djibouti:吉布提港
+port of dover:多佛尔港口
 port of dover:多佛港
+port of durrës:都拉斯港口
 port of eilat:埃拉特港
 port of entry discover:口岸发现
 port of entry:口岸
@@ -21413,11 +21717,14 @@ port of gothenburg has four:哥德堡港有四
 port of gothenburg:哥德堡港
 port of guangzhou:广州港
 port of haifa:海法港
+port of haifa:海法港口
 port of hakata:博多港
 port of hakodate:函館港
 port of hamburg is germany:汉堡港是德国
 port of hamburg with india:汉堡港与印度
 port of hamburg:汉堡港
+port of helsingborg:赫尔辛堡港口
+port of helsinki:赫尔辛基港口
 port of hiroshima:廣島港
 port of holyhead:霍利黑德港
 port of hong kong:香港港口
@@ -21435,12 +21742,14 @@ port of jingtang:京唐港
 port of kaohsiung:高雄港
 port of karachi through:卡拉奇港通过
 port of karachi:卡拉奇港
+port of karachi:卡拉奇港口
 port of keelung:基隆港
 port of kherson:赫爾松港
 port of khorgos:霍爾果斯口岸
 port of kobe:神戶港
 port of koper:科佩尔港
 port of latakia:拉塔基亚港
+port of lianyungang:连云港港口
 port of liverpool building:利物浦港务大厦
 port of liverpool suffer:利物浦港遭受
 port of liverpool was called:利物浦港被称为
@@ -21453,6 +21762,8 @@ port of los angeles:洛杉磯港
 port of macau:澳門內港碼頭
 port of maoming:茂名港
 port of mariupol:马里乌波尔港
+port of mariupol:马里乌波尔港口
+port of marseille:馬賽港口
 port of meizhou bay:泉州港
 port of mykolaiv:尼古拉耶夫港
 port of nagasaki:長崎港
@@ -21464,31 +21775,41 @@ port of naples:那不勒斯港
 port of new orleans:紐奧良港
 port of new york and new jersey:紐約和紐澤西港
 port of ningbo zhoushan:宁波舟山港
+port of odesa:敖德萨港口
 port of odesa:敖德薩港
+port of odessa:敖德萨港口
 port of osaka:大阪港
+port of oslo:奥斯陆港口
+port of penang:槟城港口
 port of penang:檳城港口
 port of piraeus:比雷埃夫斯港
 port of pula:港口的普拉
 port of qingdao qianwan（qqct）:青岛前湾集装箱码头
 port of qingdao qianwan（qqct）:青島前灣集裝箱碼頭
 port of qinhuangdao:秦皇岛港
+port of qinhuangdao:秦皇岛港口
 port of rajin:罗津港
 port of rajin:羅津港
+port of registration:注册端口
 port of rijeka:里耶卡港
 port of rizhao:日照港
+port of rostock:罗斯托克港口
 port of rotterdam area:鹿特丹港地区
 port of rotterdam is a typical:鹿特丹港是一个典型的
 port of rotterdam:鹿特丹港
+port of saint petersburg:聖彼得堡港口
 port of san francisco:舊金山港
 port of seattle needs:西雅圖港需要
 port of seattle:西雅圖港
 port of sevastopol:塞瓦斯托波爾港
 port of shanghai:上海港
+port of shanghai:上海港口
 port of shantou:汕头港
 port of shantou:汕頭港
 port of shenzhen:深圳港
 port of singapore is southeast asia:新加坡港是东南亚
 port of singapore:新加坡港
+port of singapore:新加坡港口
 port of sinuiju:新义州港
 port of songnim:松林港
 port of southampton:南安普敦港
@@ -21498,6 +21819,8 @@ port of spain streets:西班牙港街道
 port of spain time:西班牙港时间
 port of spain:西班牙港
 port of speinas:西班牙港
+port of st. petersburg:聖彼得堡港口
+port of stockton:史塔克頓港口
 port of su'ao:蘇澳港
 port of suzhou:苏州港
 port of szczecin:什切青港
@@ -21517,6 +21840,7 @@ port of tianjin:东疆港区
 port of tianjin:天津港
 port of tokyo:東京港
 port of trieste:的里雅斯特港
+port of trieste:的里雅斯特港口
 port of vancouver:溫哥華港口局
 port of ventspils:文茨皮尔斯港
 port of vladivostok:符拉迪沃斯托克港
@@ -22867,6 +23191,7 @@ portrait of antoine and marie anne lavoisier:拉瓦锡夫妇
 portrait of artist:肖像的艺术家
 portrait of deng xiaoping:邓小平画像
 portrait of eleanor of toledo:托莱多的埃利诺拉肖像
+portrait of elizabeth i:伊丽莎白一世肖像
 portrait of emperor maximilian i:皇帝马克西米利安一世肖像
 portrait of henry:肖像的亨利
 portrait of innocent x:教皇诺森十世像
@@ -27063,6 +27388,7 @@ postal code and street:邮政编码和街道
 postal code data:邮政编码数据
 postal code field:邮政编码字段
 postal code interpretation:邮政编码解释
+postal code of china:中华人民共和国邮政编码
 postal code search:邮政编码搜索
 postal code system:邮政编码系统
 postal code:邮政编码
@@ -27286,6 +27612,7 @@ postmark is london:邮戳是伦敦
 postmark:邮戳
 postmasburg:波斯特馬斯堡
 postmaster general of canada:加拿大郵政署長
+postmaster general of hong kong:香港郵政司
 postmaster general:郵政司
 postmaterialism:後物質主義
 postmillennialism:千禧年后论
@@ -34293,7 +34620,12 @@ power of light:力量的光
 power of modern weapon:力量的现代武器
 power of numbers:力量的数字
 power of principles:力量的原则
+power of scotland:苏格兰电力
 power of siberia:中俄东线天然气管道
+power of soul:灵魂力量
+power of ten:十幂
+power of the people:人民力量
+power of three:三力量
 power off testing:不送電測試
 power offer:力量提供
 power offer:电力提供

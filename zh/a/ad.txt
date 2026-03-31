@@ -5059,10 +5059,12 @@ administration my father:管理我的父亲
 administration my:管理我的
 administration navigation:管理导航
 administration networks:管理网络
+administration of business:商业管理
 administration of chinese domain name:管理的中文域名
 administration of commerce, ministry of economic affairs:經濟部商業發展署
 administration of justice act:司法行政法令
 administration of south ossetia:南奥塞梯临时行政实体
+administration of the united states:美国管理
 administration of urban road:shì lùzhèng chù
 administration of urban road:市路政处
 administration of urban road:市路政處
@@ -5234,6 +5236,9 @@ administrative commission of the urbanisation of the talatona:塔拉托纳城市
 administrative convenience:行政的便利
 administrative court judge:行政法院法官
 administrative court members:行政法院成员
+administrative court of albania:阿爾巴尼亞行政法院
+administrative court of austria:奧地利行政法院
+administrative court of thailand:泰国行政法院
 administrative court order:行政法院命令
 administrative court reinstate:行政法院恢复
 administrative court:行政法院
@@ -5246,12 +5251,29 @@ administrative detention programs:行政拘留程序
 administrative detention standards:行政拘留标准
 administrative detention:行政拘留
 administrative difference:行政的差异
+administrative district of freiburg:弗莱堡行政区
+administrative district of stuttgart:斯图加特行政区
+administrative district of tübingen:蒂宾根行政区
 administrative district:行政区
 administrative districts of serbia:塞尔维亚大行政区
 administrative division and population:行政区划和人口
 administrative division code statistic:行政区划代码统计
 administrative division code:行政区划代码
 administrative division codes of the people's republic of china:中华人民共和国行政区划代码
+administrative division of chile:智利行政区划
+administrative division of chile:智利行政區劃
+administrative division of france:法国行政区划
+administrative division of france:法國行政區劃
+administrative division of lithuania:立陶宛行政区划
+administrative division of lithuania:立陶宛行政區劃
+administrative division of nazi germany:納粹德國行政區劃
+administrative division of nazi germany:纳粹德国行政区划
+administrative division of poland:波兰行政区划
+administrative division of poland:波兰行政區劃
+administrative division of poland:波蘭行政区划
+administrative division of poland:波蘭行政區劃
+administrative division of ukraine:乌克兰行政区划
+administrative division of ukraine:烏克蘭行政區劃
 administrative division:行政区划
 administrative division:行政區劃
 administrative divisions of albania:阿爾巴尼亞行政區劃
@@ -5383,6 +5405,10 @@ administrative professionals day:秘书节
 administrative protection:行政的保护
 administrative purpose:行政的目的
 administrative read:行政的读
+administrative region of greece:希腊行政区划
+administrative region of nunavut:努纳武特地区行政区划
+administrative region of quebec:魁北克省行政区划
+administrative region of quebec:魁北克行政区划
 administrative region:上巴伐利亚行政区
 administrative region:上弗兰肯行政区
 administrative region:上普法尔茨行政区
@@ -5627,6 +5653,7 @@ admiral makarov:海军上将马卡罗夫
 admiral michael:海军上将迈克尔
 admiral mike:海军上将迈克
 admiral nelson:海军上将纳尔逊
+admiral of england:英格兰海军上将
 admiral of france:法國海軍上將
 admiral of the fleet of the soviet union:蘇聯海軍元帥
 admiral of the fleet:海軍元帥

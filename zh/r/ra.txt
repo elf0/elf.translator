@@ -597,8 +597,12 @@ race no longer:种族不再
 race nutrition plan:竞赛营养计划
 race nutrition plans:竞赛营养计划
 race nutrition:竞赛营养
+race of argentina:阿根廷竞赛
 race of champions:世界车王争霸赛
+race of malaysia:马来西亚种族
+race of the united states:美国种族
 race of three-eye:竞赛的三眼
+race of united states:美国种族
 race off-road vehicle:种族越野车
 race offer:种族提供
 race officials provide proof:种族官员提供证据
@@ -2235,6 +2239,7 @@ radiculopathy:神經根病變
 radigan point:拉迪甘角
 radii distance:半径距离
 radii greater than:半径大于
+radii of curvature:曲率半径
 radii will:半径会
 radii:半径
 radiicephalus:长体细尾粗鳍鱼
@@ -2428,6 +2433,7 @@ radio controlled helicopter:遙控直升機
 radio controlled model:遙控模型
 radio conversation:无线电对话
 radio core:无线电核心
+radio corporation of america:美国无线电公司
 radio corporation:无线电公司
 radio courses:无线电课程
 radio coverage pattern:无线电覆盖模式
@@ -3216,8 +3222,12 @@ radius of convergence:收敛半径
 radius of curvature at least:曲率半径至少
 radius of curvature less than:曲率半径小于
 radius of curvature:曲率半径
+radius of earth:地球半径
 radius of gyration:迴轉半徑
+radius of jupiter:木星半径
 radius of maximum wind:最大风速半径
+radius of the earth:地球半径
+radius of the sun:太阳半径
 radius only:半径只有
 radius path:半径路径
 radius property:半径属性
@@ -4007,6 +4017,8 @@ railroad map:铁路地图
 railroad missile regiment:铁路导弹团
 railroad missile:铁路导弹
 railroad monopoly:铁路垄断
+railroad museum of new england:新英格兰铁路博物馆
+railroad museum of pennsylvania:宾夕法尼亚州铁路博物馆
 railroad museum:铁路博物馆
 railroad network:铁路网络
 railroad networks:铁路网络
@@ -4433,6 +4445,7 @@ railway material:铁路材料
 railway materials:铁路材料
 railway military transportation:铁路军事运输
 railway military:铁路军事
+railway minister of india:印度铁路部长
 railway minister:铁路部长
 railway missile:铁路导弹
 railway model will be:铁路模型将成为
@@ -4679,6 +4692,7 @@ railway transport court:铁路运输法院
 railway transport department:铁路运输部门
 railway transport enterprise:铁路运输企业
 railway transport enterprises:铁路运输企业
+railway transport of ukraine:乌克兰铁路运输
 railway transport operations:铁路运输操作
 railway transport safety equipment:铁路运输安全设备
 railway transport safety protection:铁路运输安全保护
@@ -4699,6 +4713,7 @@ railway transshipment:铁路转运
 railway travel:铁路旅行
 railway traveler:铁路旅行者
 railway troops and military:铁道兵和军事
+railway troops of russia:俄罗斯铁道兵
 railway troops:铁道兵
 railway truck:铁路货车
 railway tunnel connect:铁路隧道连接
@@ -4929,10 +4944,13 @@ rain nearly:雨几乎
 rain night:雨夜
 rain no longer:雨不再
 rain now:雨现在
+rain of animals:动物雨
 rain of animals:動物從天而降
 rain of blessing:雨的祝福
+rain of blood:血雨
 rain of fertility:雨的生育能力
 rain of flowers along the silk road:丝路花雨
+rain of gold:金雨
 rain of revolution:革命之雨
 rain offer:雨提供
 rain often:雨常常
@@ -5228,6 +5246,7 @@ rainbow now:彩虹现在
 rainbow of color:彩虹的颜色
 rainbow of colour:彩虹的颜色
 rainbow of hong kong:香港彩虹
+rainbow of macau:澳門彩虹
 rainbow once:彩虹一次
 rainbow option:彩虹选项
 rainbow or spectrum:彩虹或光谱
@@ -8281,6 +8300,7 @@ range of mass:范围的质量
 range of math problems:范围的数学问题
 range of mental health:范围的心理健康
 range of microorganism:范围的微生物
+range of motion:运动范围
 range of network environments:范围的网络环境
 range of object:范围的对象
 range of opportunities:范围的机会
@@ -8329,6 +8349,7 @@ range of test:范围的测试
 range of thomson:范围的汤姆森
 range of traditional signal processing:范围的传统的信号处理
 range of transform:范围的变换
+range of use:使用范围
 range of user:范围的用户
 range of users:范围的用户
 range of value:范围的值
@@ -8794,6 +8815,7 @@ ranking not:排名不是
 ranking now:排名现在
 ranking object:排名对象
 ranking of kings:國王排名
+ranking of population:人口排名
 ranking offer:排名提供
 ranking once again:排名再次
 ranking opportunities:排名机会
@@ -10551,6 +10573,7 @@ rate of birth defect:比率的出生缺陷
 rate of climb:爬升率
 rate of convergence:收斂速度
 rate of fire:射速
+rate of flow:流动比率
 rate of infusion:输注速率
 rate of natural increase:人口自然增长率
 rate of profit has:利润率有

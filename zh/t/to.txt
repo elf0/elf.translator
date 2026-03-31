@@ -34112,15 +34112,25 @@ tour navigate:旅游导航
 tour news:旅游新闻
 tour nikolskaïa:尼科尔斯卡娅塔
 tour noir:努瓦爾峰
+tour of austria:奥地利旅游
 tour of beijing:环北京自行车赛
+tour of bermuda:百慕大旅游
 tour of california:环加州自行车赛
+tour of china:中国旅游
 tour of china:环中国国际公路自行车赛
 tour of chongming island:环崇明岛国际公路自行车赛
+tour of france:法国旅游
+tour of germany:德国旅游
 tour of guangxi:环广西公路自行车世巡赛
+tour of hainan:海南旅游
 tour of hainan:环海南岛国际公路自行车赛
 tour of hong kong shanghai:環滬港國際自行車大賽
+tour of huangshan:黄山旅游
+tour of iran:伊朗旅游
 tour of qinghai lake:环青海湖国际公路自行车赛
+tour of serbia:塞尔维亚旅游
 tour of the mongoose:貓鼬之旅巡迴演唱會
+tour of vietnam:越南旅游
 tour office:旅游办公室
 tour operations:旅游操作
 tour operator:遊程承攬業
@@ -35687,6 +35697,7 @@ tournament must be:锦标赛必须成为
 tournament net:锦标赛网络
 tournament news and nintendo:锦标赛新闻和任天堂
 tournament news:锦标赛新闻
+tournament of the americas:美洲锦标赛
 tournament officials will ask:锦标赛官员会问
 tournament officials:锦标赛官员
 tournament or world cup:锦标赛或世界杯
@@ -38864,21 +38875,28 @@ tower nine:塔九
 tower north:北爵軒
 tower north:塔北
 tower now:塔现在
+tower of art:艺术塔
 tower of babel:巴別塔
+tower of babylon:巴比伦塔
+tower of belem:贝伦塔
 tower of belém:貝倫塔
 tower of belém:贝伦塔
 tower of block:塔的块
 tower of david museum:大卫塔博物馆
 tower of david:大卫塔
+tower of death:死亡塔
 tower of fantasy:幻塔
 tower of flies:苍蝇塔
+tower of gediminas:格迪米纳斯塔
 tower of god:神之塔
 tower of hanoi problem:汉诺塔问题
 tower of hanoi:汉诺塔
+tower of hanoi:河内塔
 tower of hercules:大力士塔
 tower of hercules:海格力斯塔
 tower of jericho:耶利哥塔
 tower of light:光之塔
+tower of light:光塔
 tower of london and buckingham palace:伦敦塔和白金汉宫
 tower of london became:伦敦塔成为
 tower of london exhibition explore:伦敦塔展览探索
@@ -38887,14 +38905,18 @@ tower of london model:伦敦塔模型
 tower of london test:伦敦塔测试
 tower of london three:伦敦塔三
 tower of london:伦敦塔
+tower of london:倫敦塔
 tower of pisa:塔的比萨
+tower of power:电力塔
 tower of reflection:倒影楼
 tower of reflection:倒影樓
 tower of saviors:神魔之塔
 tower of secret:塔的秘密
+tower of song:宋塔
 tower of the century:世紀之塔
 tower of the century:世纪之塔
 tower of the sun await:太陽之塔等待
+tower of the sun:太阳塔
 tower of the sun:太陽之塔
 tower of the winds:風之塔
 tower of the winds:风之塔
@@ -39059,6 +39081,9 @@ towers located:塔位于
 towers location:塔位置
 towers of bologna:博洛尼亞諸塔
 towers of fable:塔的寓言
+towers of hanoi:河内塔
+towers of london:伦敦塔
+towers of london:倫敦塔
 towers of rock:塔的岩石
 towers offer:塔提供
 towers once:塔曾经
@@ -39175,8 +39200,12 @@ town governments:城镇政府
 town had been:城镇已经
 town hall and roland on the marketplace of bremen:不来梅市市场的市政厅和罗兰城
 town hall meeting:市民大会
+town hall of bern:伯尔尼市政厅
+town hall of bremen:不来梅市政厅
 town hall of mongomo:蒙戈莫市政厅
+town hall of paris:巴黎市政厅
 town hall of rebola:雷博拉市政厅
+town hall of vilnius:维尔纽斯市政厅
 town hall tower:市政廳鐘樓
 town hall:地方政府大樓
 town hall:塔林市政廳
@@ -39244,10 +39273,12 @@ town needs:城镇需要
 town newspaper:城镇报纸
 town no longer:城镇不再
 town now:城镇现在
+town of bamberg:班贝格城镇
 town of bassendean:巴森丁鎮
 town of cambridge:劍橋鎮
 town of east fremantle:東弗里曼特爾鎮
 town of gawler:高勒鎮
+town of lakeside:湖畔鄉鎮
 town of mosman park:莫斯曼公園鎮
 town of st. george:圣乔治斯
 town of victoria park:維多利亞公園鎮
@@ -39349,6 +39380,27 @@ towns of japan:町
 townshend acts:湯森法令
 township and village enterprises:乡镇企业
 township council:镇区委员会
+township of albion:阿尔比恩镇区
+township of amherst:阿默斯特鎮區
+township of buckingham:白金漢鎮區
+township of gloucester:格洛斯特鎮區
+township of halifax:哈利法克斯鎮區
+township of liverpool:利物浦鎮區
+township of manchester:曼彻斯特镇区
+township of manchester:曼徹斯特鎮區
+township of newport:纽波特镇区
+township of shelburne:謝爾本鎮區
+township of st. joseph:圣约瑟夫镇区
+township of sydney:悉尼鎮區
+township of sydney:悉尼镇区
+township of washington:华盛顿鎮區
+township of washington:华盛顿镇区
+township of washington:華盛頓鎮區
+township of waterloo:滑鐵盧鎮區
+township of waterloo:滑铁卢镇区
+township of whitby:惠特比鎮區
+township of york:約克鎮區
+township of york:约克镇区
 township office:zhèngōngsuǒ
 township office:ㄓㄣˋㄍㄨㄥㄙㄨㄛˇ
 township office:公所前

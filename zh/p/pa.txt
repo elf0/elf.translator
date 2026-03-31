@@ -705,6 +705,10 @@ pacific fleet currently:太平洋舰队目前
 pacific fleet had been:太平洋舰队已经
 pacific fleet navy:太平洋舰队海军
 pacific fleet no longer:太平洋舰队不再
+pacific fleet of russia:俄国太平洋舰队
+pacific fleet of russia:俄罗斯太平洋舰队
+pacific fleet of russia:俄羅斯太平洋舰队
+pacific fleet of russia:俄羅斯太平洋艦隊
 pacific fleet said:太平洋舰队说
 pacific fleet spokesman:太平洋舰队发言人
 pacific fleet this year:太平洋舰队今年
@@ -2714,6 +2718,7 @@ pages of structure:页的结构
 pages of support:页的支持
 pages of text:页的文本
 pages of the book:页的这本书
+pages of the project:项目页
 pages of this book:页的这本书
 pages of war crime:页的战争罪行
 pages of websites offer:页的网站提供
@@ -2834,6 +2839,7 @@ pagoda of fogong temple:應縣木塔
 pagoda of monk wansong:万松老人塔
 pagoda of the tree spirit:樹靈塔
 pagoda of tiangong temple:天宫寺塔
+pagoda of tianning temple:天宁寺塔
 pagoda of yunlong temple:云龙寺塔
 pagoda peak:帕戈達峰
 pagoda pizhi:辟支塔
@@ -4274,6 +4280,7 @@ painter michelangelo:画家米开朗基罗
 painter mond:画家蒙德
 painter norman:画家诺曼
 painter now:画家现在
+painter of history:历史画家
 painter of landscape:画家的风景
 painter of note:画家的注意
 painter of the wind:風之畫師
@@ -7406,9 +7413,12 @@ palace of culture and science:科学文化宫
 palace of culture and sports:文化和體育宮
 palace of culture of tirana:地拉那文化宮
 palace of culture:文化宮
+palace of culture:文化宮殿
 palace of cyan god:青帝宮
 palace of daphne:达佛涅宫
 palace of depression:萧条宫
+palace of diocletian:戴克里先宫殿
+palace of diocletian:戴克里先宮殿
 palace of earthly honour:翊坤宮
 palace of earthly tranquility:kūnnínggōng
 palace of earthly tranquility:坤宁宫
@@ -7444,7 +7454,10 @@ palace of nations:万国宫
 palace of nations:万国宫/断腿木椅
 palace of nine perfections:隋仁寿宫唐九成宫遗址
 palace of panwang:盘王殿
+palace of parliament:议会宫殿
+palace of phaistos:斐斯托斯宫殿
 palace of placentia:普拉森舍宫
+palace of pleasure:愉快宮殿
 palace of poitiers:普瓦捷宮
 palace of prolonging happiness:yánxǐgōng
 palace of prolonging happiness:延禧宫
@@ -7475,6 +7488,7 @@ palace of the king of rome:罗马王宫殿
 palace of the kings of majorca:馬約卡王宮
 palace of the legion of honour:荣勋宫
 palace of the ministry of revenues and treasury:財政部長宮
+palace of the nation:国家宫殿
 palace of the national military circle:國家軍事宮
 palace of the parliament:羅馬尼亞議會宮
 palace of the parliament:议会宫
@@ -13668,6 +13682,7 @@ pantheism:泛神论
 panthenol:泛醇
 pantheon fossae:潘提翁槽溝
 pantheon of illustrious men:名人墓地
+pantheon of rome:罗马万神殿
 pantheon:万神殿
 pantheon:先贤祠
 panther cap:黑豹帽
@@ -13706,6 +13721,7 @@ pantherophis obsoletus:豹斑蛇
 pantherophis:豹斑蛇屬
 panthessaliko stadium:泛色萨利体育场
 panthiades:潘灰蝶属
+panthéon of paris:巴黎万神殿
 panthéon:万神殿
 panti natural reserve:班底山森林保护区
 panti usu:潘蒂烏蘇山
@@ -16682,6 +16698,7 @@ paradox of the plankton:浮游生物悖論
 paradox of thrift:節儉悖論
 paradox of tolerance:宽容悖论
 paradox of value:钻石与水悖论
+paradox of voting:投票悖论
 paradox problem:悖论问题
 paradox solutions:悖论解决方案
 paradox sports:悖论运动
@@ -17756,6 +17773,7 @@ paramoti:帕拉莫蒂
 paramouchir:幌筵岛
 paramouchir:幌筵島
 paramount building:百樂門大廈
+paramount chief of basutoland:巴苏陀兰最高酋长
 paramount chief:最高酋长
 paramount garden:百乐花园
 paramount global:派拉蒙全球
@@ -21396,6 +21414,8 @@ parish children:教区儿童
 parish church and village:教区教堂和乡村
 parish church date:教区教堂日期
 parish church just:教区教堂只
+parish church of saint mary:圣玛丽教区教堂
+parish church of st mary:圣玛丽教区教堂
 parish church was built in:教区教堂建于
 parish church:堂区教堂
 parish church:教区教堂
@@ -21426,6 +21446,13 @@ parish library:教区图书馆
 parish life:教区生活
 parish magazine:教区杂志
 parish networks:堂区网络
+parish of kingston:金斯敦堂区
+parish of orleans:奥尔良堂区
+parish of orleans:奥尔良教区
+parish of saint george:圣乔治教区
+parish of saint george:圣乔治斯堂区
+parish of san pedro:圣彼得教区
+parish of st mary:圣玛丽堂区
 parish of the falkland islands:福克蘭群島牧區
 parish office:主教座堂
 parish office:堂区办公室
@@ -23177,6 +23204,7 @@ parliament be:议会成为
 parliament began:国会开始
 parliament began:议会开始
 parliament begin:议会开始
+parliament building of quebec:魁北克国会大厦
 parliament building:国会大厦
 parliament building:国会建筑
 parliament building:议会建筑
@@ -23257,6 +23285,10 @@ parliament health:议会健康
 parliament hill:国会山
 parliament hinge:议会铰链
 parliament hope:议会希望
+parliament house of australia:澳大利亚国会大厦
+parliament house of australia:澳洲国会大厦
+parliament house of singapore:新加坡国会大厦
+parliament house of thailand:泰国国会大厦
 parliament house:国会大厦
 parliament house:议会房子
 parliament human-rights:议会人权
@@ -23298,60 +23330,280 @@ parliament needs:议会需要
 parliament network:议会网络
 parliament note:议会注意
 parliament now:议会现在
+parliament of abkhazia:阿布哈兹议会
+parliament of afghanistan:阿富汗国会
+parliament of afghanistan:阿富汗议会
+parliament of albania:阿尔巴尼亚国会
 parliament of albania:阿尔巴尼亚议会
 parliament of algeria:阿尔及利亚议会
+parliament of andorra:安道尔议会
+parliament of angola:安哥拉议会
 parliament of antigua and barbuda:安提瓜和巴布达议会
+parliament of argentina:阿根廷国会
+parliament of argentina:阿根廷议会
+parliament of armenia:亚美尼亚国会
+parliament of armenia:亚美尼亚议会
 parliament of aruba:阿鲁巴议会
+parliament of asturias:阿斯图里亚斯议会
 parliament of australia:澳大利亚国会
+parliament of australia:澳大利亚议会
+parliament of australia:澳洲国会
+parliament of austria:奥地利国会
+parliament of austria:奥地利议会
+parliament of austria:奧地利国会
+parliament of austria:奧地利议会
+parliament of azerbaijan:阿塞拜疆议会
+parliament of bahrain:巴林国会
+parliament of bangladesh:孟加拉国会
+parliament of bangladesh:孟加拉国国会
+parliament of bangladesh:孟加拉国议会
 parliament of barbados:巴巴多斯议会
+parliament of belarus:白俄罗斯议会
+parliament of belgium:比利时国会
+parliament of belgium:比利时议会
+parliament of belize:伯利兹议会
+parliament of benin:贝宁议会
 parliament of bermuda through:百慕大议会通过
 parliament of bermuda:百慕大议会
+parliament of bhutan:不丹国会
 parliament of bhutan:不丹議會
+parliament of bhutan:不丹议会
+parliament of bosnia and herzegovina:波斯尼亚和黑塞哥维那议会
+parliament of bosnia and herzegovina:波黑国会
+parliament of bosnia and herzegovina:波黑议会
 parliament of botswana:博茨瓦纳议会
+parliament of britain:英国国会
+parliament of britain:英国议会
+parliament of british columbia:不列颠哥伦比亚省议会
+parliament of brittany:布列塔尼议会
+parliament of brussels:布鲁塞尔议会
+parliament of brussels:布鲁塞尔首都大区议会
+parliament of bulgaria:保加利亚议会
+parliament of burkina faso:布基纳法索议会
+parliament of burma:缅甸国会
+parliament of burma:缅甸议会
 parliament of burundi:布隆迪议会
 parliament of cambodia:柬埔寨国会
+parliament of cambodia:柬埔寨议会
+parliament of cameroon:喀麦隆议会
+parliament of canada:加拿大国会
 parliament of canada:加拿大國會
+parliament of canada:加拿大议会
+parliament of cantabria:坎塔布里亚议会
 parliament of catalonia:加泰罗尼亚议会
+parliament of chad:乍得议会
+parliament of chechnya:车臣共和国议会
+parliament of china:中国国会
+parliament of china:中国议会
+parliament of costa rica:哥斯达黎加国会
+parliament of costa rica:哥斯达黎加议会
 parliament of course:议会当然
+parliament of croatia:克罗地亚国会
+parliament of croatia:克罗地亚议会
+parliament of curaçao:库拉索议会
+parliament of cyprus:塞浦路斯议会
+parliament of denmark:丹麥国会
+parliament of denmark:丹麦国会
+parliament of denmark:丹麦议会
+parliament of djibouti:吉布提议会
+parliament of dominica:多米尼克议会
 parliament of egypt:埃及议会
+parliament of england:英格兰国会
+parliament of england:英格兰议会
+parliament of england:英格蘭国会
 parliament of england:英格蘭國會
+parliament of equatorial guinea:赤道几内亚议会
+parliament of estonia:愛沙尼亞国会
+parliament of estonia:爱沙尼亚国会
+parliament of estonia:爱沙尼亚议会
+parliament of eswatini:史瓦帝尼议会
 parliament of eswatini:斯威士兰议会
+parliament of ethiopia:埃塞俄比亚议会
+parliament of europe:欧洲议会
+parliament of europe:歐洲议会
+parliament of federation of malaya:马来亚联合邦国会
 parliament of fiji:斐济议会
+parliament of finland:芬兰国会
+parliament of finland:芬兰议会
 parliament of finland:芬蘭議會
+parliament of france:法国国会
+parliament of france:法国议会
+parliament of france:法國议会
+parliament of gabon:加彭议会
 parliament of gabon:加蓬议会
 parliament of galicia:加利西亚议会
+parliament of georgia:乔治亚州议会
+parliament of georgia:佐治亚州议会
+parliament of georgia:喬治亞议会
 parliament of georgia:格鲁吉亚议会
+parliament of germany:德国国会
+parliament of germany:德国议会
+parliament of ghana:加纳国会
 parliament of ghana:加纳议会
+parliament of gibraltar:直布罗陀议会
+parliament of great britain:英国国会
+parliament of great britain:英国议会
+parliament of greece:希腊国会
+parliament of greece:希腊议会
+parliament of greenland:格陵兰议会
 parliament of grenada:格林纳达议会
+parliament of guyana:圭亚那议会
+parliament of hesse:黑森州议会
+parliament of hungary:匈牙利国会
+parliament of hungary:匈牙利议会
+parliament of iceland:冰岛议会
+parliament of india:印度国会
 parliament of india:印度议会
+parliament of indonesia:印尼国会
+parliament of indonesia:印尼议会
+parliament of indonesia:印度尼西亚国会
+parliament of iran:伊朗议会
+parliament of iraq:伊拉克国会
+parliament of iraq:伊拉克议会
+parliament of ireland:爱尔兰国会
+parliament of ireland:爱尔兰议会
+parliament of italy:意大利国会
+parliament of italy:意大利议会
+parliament of italy:義大利议会
+parliament of ivory coast:科特迪瓦议会
+parliament of jamaica:牙买加国会
 parliament of jamaica:牙买加议会
+parliament of japan:日本国会
+parliament of jordan:约旦国会
+parliament of jordan:约旦议会
 parliament of kazakhstan:哈萨克斯坦议会
 parliament of kenya:肯尼亚议会
+parliament of kiribati:基里巴斯议会
+parliament of kosovo:科索沃议会
+parliament of kuwait:科威特国会
+parliament of kyrgyzstan:吉尔吉斯斯坦议会
+parliament of laos:老挝国会
+parliament of latvia:拉脱维亚议会
+parliament of lebanon:黎巴嫩国会
 parliament of lebanon:黎巴嫩议会
 parliament of lesotho:莱索托议会
+parliament of liberia:利比里亚议会
+parliament of libya:利比亚议会
+parliament of liechtenstein:列支敦士登议会
+parliament of lithuania:立陶宛议会
+parliament of luxembourg:卢森堡国会
+parliament of luxembourg:卢森堡议会
+parliament of macedonia:北马其顿议会
+parliament of macedonia:马其顿议会
 parliament of madagascar:马达加斯加议会
+parliament of malawi:马拉维议会
+parliament of malaysia:馬來西亞国会
 parliament of malaysia:马来西亚国会
+parliament of malaysia:马来西亚议会
+parliament of malta:馬爾他议会
+parliament of malta:马耳他国会
 parliament of malta:马耳他议会
+parliament of mauritania:毛里塔尼亚议会
 parliament of moldova:摩尔多瓦议会
+parliament of mongolia:蒙古国议会
+parliament of mongolia:蒙古议会
 parliament of montenegro:蒙特內哥羅國會
+parliament of montenegro:蒙特內哥羅议会
+parliament of montenegro:黑山议会
 parliament of morocco:摩洛哥议会
+parliament of mozambique:莫桑比克议会
+parliament of myanmar:缅甸国会
+parliament of myanmar:缅甸议会
 parliament of namibia:纳米比亚议会
 parliament of nauru:瑙鲁议会
+parliament of nepal:尼泊尔议会
+parliament of netherlands:荷兰国会
+parliament of netherlands:荷兰议会
+parliament of new south wales:新南威尔士议会
+parliament of new zealand:新西兰国会
+parliament of new zealand:新西兰议会
+parliament of nigeria:奈及利亞议会
+parliament of nigeria:尼日利亚国会
+parliament of nigeria:尼日利亚议会
+parliament of north macedonia:北马其顿议会
+parliament of northern cyprus:北塞浦路斯议会
+parliament of northern ireland:北爱尔兰国会
+parliament of northern ireland:北爱尔兰议会
+parliament of norway:挪威国会
+parliament of norway:挪威议会
+parliament of oman:阿曼议会
+parliament of ontario:安大略省议会
+parliament of pain:西班牙国会
+parliament of pain:西班牙议会
+parliament of pakistan:巴基斯坦国会
 parliament of pakistan:巴基斯坦國會
+parliament of pakistan:巴基斯坦议会
+parliament of papua new guinea:巴布亚新几内亚国会
+parliament of papua new guinea:巴布亚新几内亚议会
+parliament of paraguay:巴拉圭国会
+parliament of paris:巴黎国会
+parliament of paris:巴黎议会
 parliament of poland:波兰共和国议会
+parliament of poland:波兰国会
 parliament of poland:波兰议会
 parliament of poland:波蘭共和國議會
+parliament of portugal:葡萄牙国会
+parliament of portugal:葡萄牙议会
+parliament of quebec:魁北克省议会
+parliament of quebec:魁北克议会
+parliament of queensland:昆士兰州议会
+parliament of québec:魁北克省议会
+parliament of québec:魁北克议会
+parliament of republika srpska:塞族共和国议会
 parliament of romania:罗马尼亚议会
+parliament of russia:俄罗斯国会
+parliament of russia:俄罗斯议会
 parliament of rwanda:卢旺达议会
 parliament of saint lucia:圣卢西亚议会
+parliament of saint vincent and the grenadines:圣文森特和格林纳丁斯议会
+parliament of samoa:萨摩亚议会
+parliament of scotland:苏格兰国会
 parliament of scotland:苏格兰王国议会
+parliament of scotland:苏格兰议会
+parliament of scotland:蘇格蘭议会
+parliament of senegal:塞内加尔国会
+parliament of senegal:塞内加尔议会
+parliament of serbia:塞尔维亚国会
+parliament of serbia:塞尔维亚议会
+parliament of seychelles:塞舌尔议会
+parliament of sierra leone:塞拉利昂国会
 parliament of sierra leone:塞拉利昂议会
+parliament of singapore:新加坡国会
 parliament of singapore:新加坡國會
+parliament of singapore:新加坡议会
 parliament of sint maarten:圣马丁议会
+parliament of sint maarten:荷属圣马丁议会
+parliament of slovakia:斯洛伐克国会
+parliament of slovakia:斯洛伐克议会
+parliament of slovenia:斯洛文尼亚议会
+parliament of solomon islands:所罗门群岛议会
+parliament of somalia:索马里议会
 parliament of somaliland:索马里兰议会
+parliament of south africa:南非国会
 parliament of south africa:南非议会
 parliament of south ossetia:南奥塞梯议会
+parliament of spain:西班牙国会
+parliament of spain:西班牙议会
+parliament of sri lanka:斯里兰卡国会
+parliament of sri lanka:斯里兰卡议会
 parliament of sri lanka:斯里蘭卡議會
+parliament of sudan:苏丹国会
+parliament of sudan:苏丹议会
+parliament of suriname:苏里南议会
+parliament of swaziland:史瓦帝尼议会
+parliament of swaziland:斯威士兰议会
+parliament of sweden:瑞典国会
+parliament of sweden:瑞典议会
+parliament of switzerland:瑞士国会
+parliament of switzerland:瑞士议会
+parliament of syria:叙利亚国会
+parliament of syria:叙利亚议会
+parliament of tajikistan:塔吉克斯坦议会
+parliament of tanzania:坦桑尼亚议会
+parliament of tasmania:塔斯马尼亚州议会
+parliament of thailand:泰国国会
+parliament of thailand:泰国议会
+parliament of thailand:泰國国会
 parliament of the bahamas:巴哈马议会
 parliament of the balearic islands:巴利阿里群岛议会
 parliament of the brussels capital region:布鲁塞尔首都大区议会
@@ -23362,16 +23614,47 @@ parliament of the chechen republic of ichkeria:伊奇克里亚车臣共和国议
 parliament of the cook islands:库克群岛议会
 parliament of the czech republic:捷克议会
 parliament of the democratic republic of the congo:刚果民主共和国议会
+parliament of the european union:欧盟议会
 parliament of the federation of bosnia and herzegovina:波斯尼亚和黑塞哥维那联邦议会
 parliament of the french community:法语社群议会
 parliament of the german speaking community:德语社群议会
+parliament of the netherlands:荷兰国会
+parliament of the netherlands:荷兰议会
 parliament of the republic of the congo:刚果共和国议会
+parliament of the uk:英国国会
+parliament of the uk:英国议会
+parliament of the united arab emirates:阿联酋议会
+parliament of the united kingdom:英国国会
 parliament of the united kingdom:英国议会
+parliament of togo:多哥议会
+parliament of tokelau:托克劳议会
+parliament of tonga:汤加议会
+parliament of transnistria:德涅斯特河沿岸议会
 parliament of trinidad and tobago:特立尼达和多巴哥议会
+parliament of tunisia:突尼斯议会
+parliament of turkey:土耳其国会
+parliament of turkey:土耳其议会
+parliament of turkmenistan:土库曼斯坦议会
 parliament of tuvalu:图瓦卢议会
 parliament of uganda:乌干达议会
+parliament of ukraine:乌克兰国会
+parliament of ukraine:乌克兰议会
+parliament of united kingdom:英国国会
+parliament of united kingdom:英国议会
+parliament of united kingdom:英國国会
+parliament of united kingdom:英國议会
+parliament of uruguay:乌拉圭国会
+parliament of uzbekistan:乌兹别克斯坦议会
 parliament of vanuatu:瓦努阿图议会
+parliament of venezuela:委内瑞拉国会
+parliament of venezuela:委内瑞拉议会
+parliament of victoria:维多利亚州议会
+parliament of vojvodina:伏伊伏丁那议会
 parliament of wallonia:瓦隆尼亚议会
+parliament of yemen:也门议会
+parliament of yugoslavia:南斯拉夫议会
+parliament of zambia:赞比亚议会
+parliament of zimbabwe:津巴布韦议会
 parliament of zimbabwe:辛巴威議會
 parliament one:国会一
 parliament open:国会开
@@ -23558,6 +23841,7 @@ parliamentary state:议会的国家
 parliamentary statue:议会的雕像
 parliamentary strategy:议会的战略
 parliamentary support:议会的支持
+parliamentary system of government:政府议会制
 parliamentary system:議會制
 parliamentary system:议会制
 parliamentary time:议会的时间
@@ -24683,6 +24967,8 @@ part of changsha metro line 1:長沙地鐵1號線段部
 part of changsha metro line 1:長沙地铁1号线段部
 part of course:部分当然
 part of speech:詞類
+part of sweden:瑞典部分
+part of the united states:美国部分
 part offer:部分提供
 part oil:部分油
 part one by one:部分一个接一个
@@ -28857,46 +29143,72 @@ party now:党现在
 party nucleus:党核
 party obtain:党获得
 party of action and solidarity:行动和团结党
+party of action:行动党
 party of algerian renewal:阿爾及利亞復興黨
 party of bulgarian social democrats:保加利亚社会民主人士党
+party of catholic people:天主教人民党
+party of citizen participation:公民参与党
 party of clement:党的克莱门特
 party of communist unification in the canaries:加那利群岛共产主义统一党
+party of communists of catalonia:加泰罗尼亚共产党人党
 party of communists of kyrgyzstan:吉尔吉斯斯坦共产党人党
 party of communists of the republic of moldova:摩尔多瓦共和国共产党人党
 party of crooks and thieves:騙子與小偷黨
 party of democratic kampuchea:民主柬埔寨党
+party of democratic left:民主左翼党
 party of democratic revival of ukraine:乌克兰民主复兴党
 party of democratic socialism:民主社会主义党
 party of democrats:民主人士党
 party of eighteen:党的十八
 party of european socialists women:欧洲社会党妇女
 party of european socialists:欧洲社会党
+party of freedom and justice:自由与正义党
 party of freedom and justice:自由和正义党
+party of freedom and solidarity:自由和团结党
 party of greens of ukraine:烏克蘭綠黨
 party of growth:成长党
+party of hope:希望党
 party of independence and labour:独立和劳动党
 party of industrialists and entrepreneurs of turkmenistan:土库曼斯坦工业家和企业家党
 party of iran:党的伊朗
 party of italian communists:意大利共产党人党
 party of john newton:党的约翰牛顿
+party of justice:正义党
+party of justice:正義党
 party of kanak liberation:卡纳克解放党
+party of labor:工人党
 party of labour of albania against:阿尔巴尼亚劳动党反对
 party of labour of albania continue:阿尔巴尼亚劳动党继续
 party of labour of albania:阿尔巴尼亚劳动党
 party of labour of austria:奥地利劳动党
 party of labour of basel:巴塞尔劳动党
+party of labour:工人党
+party of law and justice:法律和正义党
+party of law and justice:法律與公正党
 party of liberation and socialism:解放与社会主义党
+party of liberty and justice:自由与正义党
+party of liberty and justice:自由和正义党
+party of life:生活党
+party of life:生活派對
 party of narodnik communists:民粹派共产党
 party of new communists:新共产党人党
+party of one:一党
 party of patriots of kazakhstan:哈萨克斯坦爱国者党
 party of peaceful renovation:和平革新党
+party of power:力量党
 party of progress and socialism:进步与社会主义党
+party of progress:社会进步党
+party of reform and development:改革与发展党
+party of reform and development:改革和发展党
+party of reform:改革党
 party of regions officials:地区党官员
 party of regions:地区党
 party of russia's rebirth:俄罗斯复兴党
 party of settler:党的定居者
+party of sicilians:西西里人党
 party of sixteen:党的十六
 party of slovak revival:斯洛伐克复兴党
+party of social justice:社會正義党
 party of socialists and democrats:社会主义者和民主人士党
 party of socialists of the republic of moldova:摩爾多瓦共和國社會主義者黨
 party of the angolan communist community:安哥拉共产主义共同体党
@@ -28905,9 +29217,19 @@ party of the communists of catalonia:加泰罗尼亚共产党人党
 party of the corsican nation:科西嘉民族黨
 party of the dictatorship of the proletariat:无产阶级专政党
 party of the european left:歐洲左派黨
+party of the future:未来党
+party of the nation:国家党
+party of the people:人民党
+party of the people:民党
 party of the radical left:激进左翼党
+party of the revolution:革命党
+party of the state:国家党
+party of the sun:太阳党
+party of the truth:真理党
 party of the united struggle for africans in angola:安哥拉非洲人联合斗争党
 party of togolese unity:多哥统一党
+party of truth:真理党
+party of youth:青年党
 party offer:党提供
 party office:党办公室
 party officials and their:党官员和他们的
@@ -30888,6 +31210,8 @@ passport no longer:护照不再
 passport notary:护照公证人
 passport now:护照现在
 passport of china citizens:护照的中国公民
+passport of kosovo:科索沃护照
+passport of north macedonia:北马其顿护照
 passport office:护照办公室
 passport open:护照开
 passport open:护照打开
@@ -36545,8 +36869,19 @@ patriarch hall:祖師堂
 patriarch heraclius:宗主教希拉克略
 patriarch michael:宗主教迈克尔
 patriarch nikon of moscow:尼孔
+patriarch of alexandria:亚历山大宗主教
+patriarch of alexandria:亞歷山大港宗主教
 patriarch of alexandria:亞歷山大牧首
 patriarch of antioch:安提阿牧首
+patriarch of antioch:安条克宗主教
+patriarch of aquileia:阿奎萊亞宗主教
+patriarch of armenia:亞美尼亞宗主教
+patriarch of constantinople:君士坦丁堡宗主教
+patriarch of jerusalem:耶路撒冷宗主教
+patriarch of lisbon:里斯本宗主教
+patriarch of moscow:莫斯科宗主教
+patriarch of serbia:塞尔维亚宗主教
+patriarch of venice:威尼斯宗主教
 patriarch or pope:宗主教或教宗
 patriarch pimen i of moscow:皮缅
 patriarch said:宗主教说
@@ -36556,8 +36891,14 @@ patriarch theo:宗主教西奥
 patriarch:宗主教
 patriarchal clan system:宗法
 patriarchal cross:宗主教十字
+patriarchate of bulgaria:保加利亞牧首區
 patriarchate of cilicia:亞美尼亞禮天主教基里基雅宗主教區
+patriarchate of georgia:格鲁吉亚牧首區
+patriarchate of kyiv:基輔牧首區
 patriarchate of lisbon:天主教里斯本宗主教區
+patriarchate of moscow:莫斯科牧首區
+patriarchate of romania:羅馬尼亞牧首區
+patriarchate of rome:羅馬牧首區
 patriarchate of venice:天主教威尼斯宗主教區
 patriarchate:牧首區
 patriarchy:父權
@@ -36688,6 +37029,7 @@ patriot mission:爱国者任务
 patriot movement:愛國者運動
 patriot murder:爱国者谋杀
 patriot of ukraine:乌克兰爱国者
+patriot of ukraine:烏克蘭愛國者
 patriot one:爱国者一
 patriot park:爱国者公园
 patriot party:愛國黨
@@ -36817,6 +37159,7 @@ patron die:赞助人死
 patron george:赞助人乔治
 patron iran:赞助人伊朗
 patron john:赞助人约翰
+patron of art:艺术赞助人
 patron or expect:赞助人或期待
 patron relationship:赞助人关系
 patron saint:主保聖人
@@ -37059,6 +37402,7 @@ pattern now:模式现在
 pattern object:模式对象
 pattern observation:模式观察
 pattern observer:模式观察者
+pattern of behaviour:行为模式
 pattern of color:模式的颜色
 pattern of concepts:模式的概念
 pattern of development:模式的发展

@@ -1009,6 +1009,7 @@ voice of america said:美国之音说
 voice of america still:美国之音仍然
 voice of america website:美国之音网站
 voice of america:美国之音
+voice of europe:欧洲语音
 voice of fju:輔大之聲
 voice of free china:自由中国之声
 voice of free libya:自由利比亞之聲
@@ -1782,6 +1783,7 @@ voivodayōtl huēyi polonia:大波兰省
 voivodayōtl huēyi polonia:大波蘭省
 voivodayōtl tepitzin polonia:小波兰省
 voivodayōtl tepitzin polonia:小波蘭省
+voivode of transylvania:特兰西瓦尼亚沃伊沃德
 voivode:沃伊沃德
 voivodeni:沃伊沃代尼鄉
 voivodeships of poland:波蘭各省列表
@@ -3286,6 +3288,7 @@ volume of bone marrow:体积的骨髓
 volume of carbon:体积的碳
 volume of crystal glass:体积的水晶玻璃
 volume of distribution:分佈體積
+volume of distribution:分布体积
 volume of fluid method:流体体积法
 volume of fluid:体积的流体
 volume of fluid:体积的液体
@@ -4545,6 +4548,8 @@ vote network:投票网络
 vote northwest:投票西北
 vote now:投票现在
 vote number:投票数
+vote of conscience:良心投票
+vote of conscience:良知投票
 vote once:投票一次
 vote only:投票只有
 vote open:投票开
@@ -5197,7 +5202,9 @@ voyage information:航行信息
 voyage into:航行进入
 voyage kaohsiung by cosmos oasis:天成逸旅-舶寓高雄
 voyage north:航行北
+voyage of exploration:探险航行
 voyage of time:时间之旅
+voyage of time:时间旅行
 voyage once:航行一次
 voyage optimization:航行优化
 voyage or fight:航行或战斗

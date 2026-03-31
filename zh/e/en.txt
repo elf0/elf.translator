@@ -2414,18 +2414,27 @@ encyclopedia galactica:银河百科全书
 encyclopedia jump:百科全书跳
 encyclopedia nipponica:日本大百科全書
 encyclopedia of animal rights:百科全书的动物权利
+encyclopedia of art:艺术百科全书
 encyclopedia of buddhist arts:世界佛教美術圖說大辭典
+encyclopedia of canada:加拿大百科全书
 encyclopedia of china publishing house:中国大百科全书出版社
 encyclopedia of china:中国大百科全书
+encyclopedia of china:中国百科全书
 encyclopedia of chinese chess openings:中国象棋开局编号
+encyclopedia of esperanto:世界语百科全书
 encyclopedia of invention:百科全书的发明
+encyclopedia of islam:伊斯兰教百科全书
 encyclopedia of korean culture:韓國民族文化大百科事典
+encyclopedia of life:生命百科全书
 encyclopedia of life:网络生命大百科
 encyclopedia of mathematics:数学百科全书
+encyclopedia of modern ukraine:现代乌克兰百科全书
+encyclopedia of science fiction:科幻小说百科全书
 encyclopedia of suggest:百科全书的建议
 encyclopedia of the brethren of purity:精诚兄弟会典
 encyclopedia of the philosophical sciences:哲学科学百科全书纲要
 encyclopedia of triangle centers:三角形各中心百科全书
+encyclopedia of ukraine:乌克兰百科全书
 encyclopedia of ukraine:烏克蘭百科全書
 encyclopedia of volcano:百科全书的火山
 encyclopedia or ignorance:百科全书或无知
@@ -2807,6 +2816,7 @@ end of a project:结束的一个项目
 end of begin:结束的开始
 end of communism in hungary:匈牙利民主化運動
 end of consciousness:结束的意识
+end of discussion:讨论结束
 end of end:结束的结束
 end of fear:结束的恐惧
 end of file:檔案結尾
@@ -2816,14 +2826,21 @@ end of life care plan:临终关怀计划
 end of life care:临终关怀
 end of life product:產品壽命結束
 end of life state:结束的生命状态
+end of message:消息结束
 end of the first visit:结束的第一次访问
+end of the first world war:第一次世界大战结束
+end of the game:游戏结束
 end of the han dynasty:東漢末年
+end of the second world war:第二次世界大战结束
+end of the war:战争结束
 end of things:结束的事情
 end of time:结束的时间
 end of train device:列车尾部安全防护装置
 end of transmission character:传输结束字符
 end of watch:火線赤子情
+end of world war i:第一次世界大战结束
 end of world war ii in europe:第二次世界大戰歐洲戰場的結束
+end of world war ii:第二次世界大战结束
 end one china:结束一个中国
 end one:结束一
 end opponent:结束对手
@@ -3276,6 +3293,8 @@ endeavour strait:奮進號海峽
 endelave:恩迪拉維島
 endellion quartet:安德里昂四重奏
 endemic goitre:地方性甲状腺肿
+endemic species of taiwan:台灣特有種
+endemic species of taiwan:臺灣特有種
 endemic species:特有種
 endemism:特有现象
 endemol:恩德莫爾
@@ -3797,6 +3816,7 @@ enemy observation:敌人观察
 enemy of poetry:敌人的诗歌
 enemy of the people:人民公敵
 enemy of the state:国家公敌
+enemy of the state:国家敌人
 enemy offensive:敌人攻势
 enemy once:敌人一次
 enemy one:敵人一
@@ -5139,6 +5159,7 @@ energy company help:能源公司帮助
 energy company intend:能源公司打算
 energy company needs:能源公司需要
 energy company obligation:能源公司义务
+energy company of ukraine:烏克蘭能源公司
 energy company panda:能源公司熊猫
 energy company plans:能源公司计划
 energy company purchase:能源公司购买
@@ -6660,6 +6681,7 @@ energy observer:能源观察者
 energy of a typical:能源的一个典型的
 energy of action:能源的行动
 energy of creation:能量的创造
+energy of iran:伊朗能源
 energy of motion:能量的运动
 energy of tension:能源的紧张
 energy of these:能源的这些
@@ -6851,7 +6873,13 @@ energy policy must include all:能源政策必须包括所有
 energy policy must include:能源政策必须包括
 energy policy network:能源政策网络
 energy policy of china:中华人民共和国能源政策
+energy policy of china:中国能源政策
+energy policy of china:中華人民共和國能源政策
 energy policy of india:印度能源政策
+energy policy of russia:俄羅斯能源政策
+energy policy of taiwan:中華民國能源政策
+energy policy of taiwan:臺灣能源政策
+energy policy of the soviet union:苏联能源政策
 energy policy projects:能源政策项目
 energy policy questions:能源政策问题
 energy policy recommendations:能源政策建议
@@ -12152,6 +12180,7 @@ english novel and movie:英语小说和电影
 english novel:英语小说
 english now:英语现在
 english occasionally:英语偶尔
+english of england:英格兰英语
 english of our time:英语的我们的时间
 english offer:英语提供
 english office:英语办公室
@@ -20755,8 +20784,11 @@ entex industries:恩騰產業
 entfremdungszone des kernkraftwerks tschernobyl:切尔诺贝利核电站隔离区
 enthalpy change of solution:溶解熱
 enthalpy of fusion:熔化热
+enthalpy of reaction:反应焓
+enthalpy of reaction:反應焓
 enthalpy of sublimation:升华热
 enthalpy of vaporization:汽化热
+enthalpy of vaporization:汽化焓
 enthalpy recover:焓恢复
 enthalpy:焓
 enthemonae:本海葵亞目
@@ -25469,9 +25501,11 @@ entropy model:熵模型
 entropy models:熵模型
 entropy number:熵数
 entropy obey:熵服从
+entropy of activation:活化熵
 entropy of any state:熵的任何状态
 entropy of entanglement:糾纏熵
 entropy of mixing:混合熵
+entropy of vaporization:汽化熵
 entropy operations:熵操作
 entropy optimization:熵优化
 entropy principle:熵原理
@@ -26756,10 +26790,14 @@ environment now:环境现在
 environment object:环境对象
 environment observation:环境观察
 environment obviously:环境显然
+environment of china:中华人民共和国环境
+environment of china:中国环境
 environment of china:中国的自然环境
 environment of hong kong:香港生態
 environment of india:印度环境
+environment of korea:朝鲜环境
 environment of north korea:朝鲜环境
+environment of the people's republic of china:中华人民共和国环境
 environment offer:环境提供
 environment office:环境办公室
 environment officials:环境官员

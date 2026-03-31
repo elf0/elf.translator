@@ -2414,6 +2414,8 @@ siege of akasaka:赤坂城之戰
 siege of albazin:雅克萨战役
 siege of antibes:昂蒂布圍城戰
 siege of antioch:安条克围城战
+siege of antioch:安条克攻城战
+siege of ascalon:阿斯卡隆攻城
 siege of astorga:阿斯托尔加之围
 siege of barcelona:巴塞隆納圍城戰
 siege of bastogne:巴斯托涅战役
@@ -2426,6 +2428,7 @@ siege of bukhara:不花剌之战
 siege of burgos:布哥斯圍城戰
 siege of bursa:布爾薩圍城戰
 siege of busanjin:釜山鎮之戰
+siege of byzantium:拜占庭攻城战
 siege of caizhou:蔡州之战
 siege of calais:加來圍城戰
 siege of catubig:卡圖比戰役
@@ -2434,6 +2437,7 @@ siege of charleston:查爾斯頓圍城戰
 siege of chencang:陈仓之围
 siege of chernihiv:切尔尼戈夫战役
 siege of chihaya:千早城之戰
+siege of constantinople:君士坦丁堡攻城戰
 siege of dapur:达普尔攻城战
 siege of de'an:德安之战
 siege of detroit:底特律圍城戰
@@ -2475,6 +2479,8 @@ siege of la rochelle:拉罗谢尔围城战
 siege of leningrad:列寧格勒圍城戰
 siege of limoges:利摩日圍城戰
 siege of lisbon:圍攻里斯本
+siege of lisbon:里斯本攻城战
+siege of los angeles:洛杉矶攻城战
 siege of madrid:马德里保卫战
 siege of mafeking:馬弗京戰役
 siege of mantua:曼圖亞圍城戰
@@ -2503,8 +2509,10 @@ siege of paris:巴黎围城战
 siege of petersburg:彼得斯堡圍城戰
 siege of petropavlovsk:彼得羅巴甫洛夫斯克圍城戰
 siege of pilsen:比尔森攻城战
+siege of plzeň:比尔森攻城战
 siege of port arthur:旅順會戰
 siege of prague:布拉格攻城
+siege of prague:布拉格攻城战
 siege of rometta:罗梅塔之围
 siege of sarajevo:塞拉耶佛圍城戰役
 siege of savannah:薩凡納圍城戰
@@ -2520,6 +2528,7 @@ siege of strasbourg:斯特拉斯堡围困战
 siege of suemori:末森城之戰
 siege of suiyang:睢阳之战
 siege of suncheon:順天城之戰
+siege of sur:泰尔攻城战
 siege of takamatsu:備中高松城之戰
 siege of the argentine embassy and ambassador's residence in venezuela:阿根廷駐委內瑞拉大使館及官邸圍困事件
 siege of the chinese university of hong kong:香港中文大學衝突
@@ -2530,10 +2539,12 @@ siege of toyama:越中征伐
 siege of troitsky monastery:圣三一修道院围城战
 siege of tsingtao:青島戰役
 siege of turin:都靈圍城戰
+siege of tyre:泰尔攻城战
 siege of ueda:上田合戰
 siege of uozu:魚津城之戰
 siege of veracruz:維拉克魯茲包圍戰
 siege of vicksburg:維克斯堡攻城戰
+siege of vicksburg:维克斯堡攻城战
 siege of wasit:瓦西特围城战
 siege of yong'an:永安之戰
 siege of yongqiu:雍丘之战
@@ -2812,6 +2823,7 @@ sierra club continue:塞拉俱乐部继续
 sierra club continues:塞拉俱乐部继续
 sierra club decided:塞拉俱乐部决定
 sierra club exhibit:塞拉俱乐部展览
+sierra club of canada:加拿大塞拉俱乐部
 sierra club was founded in:塞拉俱乐部成立于
 sierra club:塞拉俱乐部
 sierra colorada:塞拉科洛拉達
@@ -3491,6 +3503,7 @@ sign means:签名意味着
 sign name:手語名
 sign network enterprise:签名网络企业
 sign network:签名网络
+sign of four:四签名
 sign of the cross:十字聖號
 sign of the horns:摇滚手势
 sign of the spring of divine water:神水泉
@@ -7111,6 +7124,7 @@ silicon valley news:硅谷新闻
 silicon valley newspaper:硅谷报纸
 silicon valley no longer:硅谷不再
 silicon valley now:硅谷现在
+silicon valley of china:中国硅谷
 silicon valley of china:中國矽谷
 silicon valley office culture:硅谷办公室文化
 silicon valley office:硅谷办公室
@@ -16253,6 +16267,7 @@ singapore international hotel:新加坡国际酒店
 singapore international monetary exchange:新加坡国际金融交易所
 singapore international passport:新加坡国际护照
 singapore international photography:新加坡国际摄影
+singapore international school of bangkok:曼谷新加坡國際學校
 singapore international school:新加坡国际学校
 singapore international school:新加坡國際學校
 singapore international water week:新加坡国际水周
@@ -20640,6 +20655,8 @@ sister networks:姐妹网络
 sister newspaper:姐妹報紙
 sister newspaper:姐妹报纸
 sister no longer:姐妹不再
+sister of mercy:仁慈姐妹
+sister of pearl:珍珠姐妹
 sister or brother:姐妹或兄弟
 sister or child:姐妹或孩子
 sister or daughter:姐妹或女儿
@@ -24151,6 +24168,7 @@ size of chicken:大小的鸡
 size of display from:大小的显示从
 size of display:大小的显示
 size of dog:大小的狗
+size of earth:地球大小
 size of file:大小的文件
 size of laptop:大小的笔记本电脑
 size of mars:大小的火星
@@ -24166,6 +24184,7 @@ size of penis:大小的阴茎
 size of pigeon:大小的鸽子
 size of plastic bag:大小的塑料袋
 size of silicon:大小的硅
+size of the earth:地球大小
 size of the hole:大小的洞
 size of western europe:大小的西欧
 size only:大小只有

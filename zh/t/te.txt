@@ -3217,10 +3217,12 @@ team of programmer:团队的程序员
 team of recruitment:团队的招聘
 team of scientists:团队的科学家
 team of short track speed skating:队的短道速滑
+team of six:六队
 team of students:团队的学生
 team of students:队的学生
 team of teacher:团队的教师
 team of team:团队的团队
+team of three:三队
 team of three:团队的三
 team of wine experts:团队的葡萄酒专家
 team offer:团队提供
@@ -9238,6 +9240,8 @@ technology of internet of things applications:技术的物联网应用
 technology of products:技术的产品
 technology of society:技术的社会
 technology of solar air-conditioning systems:技术的太阳能空调系统
+technology of television:电视技术
+technology of war:战争技术
 technology offer:技术提供
 technology office:技术办公室
 technology officials:技术官员
@@ -10493,6 +10497,8 @@ teeth know:牙知道
 teeth look:牙看
 teeth means:牙意味著
 teeth need:牙需要
+teeth of the dog:狗牙
+teeth of the sea:海牙
 teeth or bathing:牙或洗澡
 teeth or use mouthwash:牙或使用漱口水
 teeth out:牙外
@@ -13004,6 +13010,7 @@ television continues:电视继续
 television contract:电视合同
 television cooking:电视烹饪
 television corporation and china:电视公司和中国
+television corporation of singapore:新加坡电视公司
 television corporation:电视公司
 television could:电视能
 television council:电视委员会
@@ -13250,6 +13257,7 @@ television not:电视不是
 television novel:电视小说
 television now:电视现在
 television of mauritania:毛里塔尼亚电视台
+television of the united kingdom:英国电视
 television offer:电视提供
 television oita system:大分電視台
 television only:电视只有
@@ -16387,6 +16395,7 @@ temperature negative feedback:温度负反馈
 temperature observation:温度观察
 temperature of air:温度的空气
 temperature of love:愛情的溫度
+temperature of the human body:人体温度
 temperature often:温度常常
 temperature on the road:温度在路上
 temperature operation:温度操作
@@ -16973,23 +16982,32 @@ temple nán pǔtuó:nán pǔtuó sì
 temple nán pǔtuó:南普陀寺
 temple of agriculture:先农坛
 temple of all religion:神庙的所有宗教
+temple of amun:阿蒙神庙
 temple of ancient monarchs:历代帝王庙
 temple of antoninus and faustina:安托尼努斯和法烏斯提那神廟
+temple of aphaia:阿法埃娅神庙
 temple of aphaia:阿法埃婭神廟
 temple of apollo epicurius:巴赛的阿波罗•伊壁鸠鲁神庙
 temple of apollo palatinus:巴拉丁諾山阿波羅神廟
 temple of apollo sosianus:阿波羅索西烏斯神廟
+temple of apollo:阿波罗神庙
 temple of artemis:阿耳忒弥斯神庙
+temple of asclepius:阿斯克勒庇俄斯庙
+temple of asclepius:阿斯克勒庇俄斯神庙
 temple of athena nike:雅典娜勝利神廟
+temple of athena:雅典娜神庙
 temple of azure clouds:碧云寺
+temple of baal:巴力庙
 temple of bel:貝爾廟
 temple of caesar:凯撒神庙
 temple of castor and pollux:卡斯托尔和波吕克斯神庙
 temple of claudius:克勞狄神廟
 temple of confucius zuoying:左營孔子廟
+temple of confucius:孔子庙
 temple of confucius:孔庙
 temple of confucius:文庙
 temple of debod:德波神廟
+temple of delphi:德尔斐神庙
 temple of divine providence:天佑国家圣殿
 temple of divus augustus:奧古斯都神廟
 temple of dragon king:龙王庙
@@ -17012,6 +17030,7 @@ temple of guanyin:观音寺
 temple of hadrian:9.哈德良神庙
 temple of hadrian:哈德良神廟
 temple of hathor:哈索尔神庙
+temple of hatshepsut:哈特谢普苏特神庙
 temple of he zhizhang:賀秘監祠
 temple of he zhizhang:贺秘监祠
 temple of heaven awards:天坛奖
@@ -17025,20 +17044,35 @@ temple of heaven:天壇
 temple of heavenly queen of sung chinh:崇正天后宮
 temple of hephaestus:赫淮斯托斯神庙
 temple of hephaestus:赫菲斯托斯神庙(火神廟)
+temple of hera:赫拉神庙
 temple of hercules victor:胜利者海克力斯神庙
+temple of honor:荣誉圣殿
+temple of horus:荷鲁斯神庙
+temple of israel:以色列圣殿
+temple of jerusalem:耶路撒冷圣殿
+temple of jerusalem:耶路撒冷神庙
+temple of juno:朱诺神庙
 temple of jupiter:朱庇特神殿
+temple of juturna:朱图尔纳神庙
+temple of khonsu:孔斯神庙
 temple of king ashoka:阿育王寺
+temple of kom ombo:考姆翁布神庙
 temple of life:庙的生活
 temple of lingze king:灵泽王庙
 temple of literature:文庙
 temple of literature:文廟
 temple of mars ultor:戰神復仇者神廟
+temple of mercury:水星庙
 temple of monte grisa:格里萨山朝圣教堂
+temple of music:音乐圣殿
 temple of mut:穆特神庙围场
 temple of ningbo's patron deity:宁波府城隍庙
 temple of ningbo's patron deity:寧波府城隍廟
+temple of peace:和平神庙
 temple of portunus:波图努斯神庙
+temple of ptah:卜塔神庙
 temple of pythian apollo:阿波罗神庙
+temple of ramesses ii:拉美西斯二世神庙
 temple of romulus:罗慕路斯神殿
 temple of saturn:农神庙
 temple of taffeh:塔法神庙
@@ -17057,11 +17091,14 @@ temple of the goddess of mercy:观音寺
 temple of the sebastoi:撒巴斯多斯神庙
 temple of the six banyan trees:liùróng sì
 temple of the six banyan trees:六榕寺
+temple of the sun:太阳庙
+temple of the sun:太阳神庙
 temple of the three mountain-kings:三山國王廟
 temple of the three windows:三窗庙
 temple of the tooth:佛牙寺
 temple of thousand buddha pagoda:千佛塔寺
 temple of three religions:寺润三教堂
+temple of thutmose iii:图特摩斯三世神庙
 temple of tianjun:天君庙
 temple of venus and roma:维纳斯和罗马神庙
 temple of venus genetrix:維納斯神廟
@@ -17475,6 +17512,7 @@ temporary cancel:临时取消
 temporary candidate:临时候选人
 temporary cannabis:临时大麻
 temporary capital city:临时首都
+temporary capital of lithuania:立陶宛临时首都
 temporary capital of lithuania:立陶宛臨時首都
 temporary capital:临时首都
 temporary capital:陪都
@@ -18508,6 +18546,7 @@ ten billion:十十亿
 ten block:十块
 ten blow:十吹
 ten boer:滕布尔
+ten books of architecture:建筑十书
 ten books:十书
 ten bottle:十瓶
 ten box:十盒
@@ -18936,6 +18975,7 @@ ten years of governance:十年的治理
 ten years of illegal:十年的非法
 ten years of investment:十年的投资
 ten years of life:十年的生命
+ten years of marriage:结婚十年
 ten years of negotiations:十年的谈判
 ten years of plan:十年的计划
 ten years of practice:十年的实践
@@ -20059,6 +20099,7 @@ tennis and win:网球和赢得
 tennis and yoga:网球和瑜伽
 tennis as well:网球也
 tennis association analyst:网球协会分析师
+tennis association of bosnia and herzegovina:波斯尼亚和黑塞哥维那网球协会
 tennis association:网球协会
 tennis at least:网球至少
 tennis at the asian games:亞洲運動會網球比賽
@@ -22480,6 +22521,7 @@ territori palestinesi:巴勒斯坦國
 territoria septentrio-occidentalia:西北地区
 territorial abbey of monte oliveto maggiore:天主教大橄欖山自治會院區
 territorial abbey of montevergine:天主教韋爾吉內山自治會院區
+territorial abbey of pannonhalma:蓬農豪爾毛自治會院區
 territorial abbey of tokwon:天主教德源自治會院區
 territorial abbey:自治會院區
 territorial assembly of wallis and futuna:瓦利斯和富图纳领地大会
@@ -22691,9 +22733,12 @@ territory of new guinea:新幾內亞領地
 territory of orleans:奥尔良领地
 territory of papua and new guinea:巴布亚和新几内亚领地
 territory of papua:巴布亞領地
+territory of poland:波兰领土
 territory of states:领土的国家
 territory of the military commander in serbia:塞尔维亚军事指挥官区
 territory of the saar basin:萨尔盆地地区
+territory of the u.s.:美国领土
+territory of the united states:美国领土
 territory of wisconsin:wēisīkāngxīng zhōu
 territory of wisconsin:威斯康星州
 territory of wisconsin:威斯康辛州
@@ -27035,6 +27080,7 @@ testing numerical analysis:测试数值分析
 testing object-oriented programs:测试面向对象的程序
 testing object-oriented:测试面向对象的
 testing of all mechanisms:测试的所有机制
+testing of drugs:药物测试
 testing of emerging technologies:测试的新兴技术
 testing of fate:测试的命运
 testing of key:测试的关键

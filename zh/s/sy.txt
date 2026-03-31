@@ -816,7 +816,12 @@ symbol means:符号意味着
 symbol menu:符号菜单
 symbol name:符号名称
 symbol object:符号对象
+symbol of anarchism:无政府主义符号
+symbol of christianity:基督教符号
+symbol of life:生命符号
 symbol of military force:符号的军事力量
+symbol of peace:和平符号
+symbol of venus:金星符号
 symbol offer:符号提供
 symbol or graphic object:符号或图形对象
 symbol or image:符号或图像
@@ -1115,6 +1120,7 @@ symphony center:芝加哥交響中心
 symphony garden:朗峰園
 symphony lake:交响乐湖
 symphony of lights:幻彩詠香江
+symphony of psalms:詩篇交響曲
 symphony of silence:寂靜交響樂
 symphony of the seas:海洋交响号
 symphony on a french mountain air:法國山歌交響曲
@@ -1464,9 +1470,12 @@ synagogue don isaac abravanel:阿巴伯內爾猶太會堂
 synagogue of alanta:阿蘭塔猶太會堂
 synagogue of barcelona:巴塞隆納猶太會堂
 synagogue of casale monferrato:卡薩萊蒙費拉托猶太會堂
+synagogue of cordoba:哥多華猶太會堂
+synagogue of córdoba:哥多華猶太會堂
 synagogue of guebwiller:蓋布維萊爾猶太會堂
 synagogue of la chaux de fonds:拉紹德封猶太會堂
 synagogue of lausanne:洛桑犹太会堂
+synagogue of philippopolis:普羅夫迪夫猶太會堂
 synagogue of the israelite argentine congregation:阿根廷以色列犹太会堂
 synagogue of tomar:托馬爾猶太會堂
 synagogue of trieste:的里雅斯德猶太會堂
@@ -2342,9 +2351,12 @@ synthesis model:合成模型
 synthesis models:合成模型
 synthesis module:合成模块
 synthesis network:合成网络
+synthesis of ammonia:氨合成
 synthesis of androgen:合成的雄激素
 synthesis of aryan:合成的雅利安人
 synthesis of carbon nanotubes:碳纳米管的合成
+synthesis of cholesterol:膽固醇合成
+synthesis of gold:金合成
 synthesis of leukotriene:合成的白三烯
 synthesis of life:合成的生活
 synthesis of nanomaterials:合成的纳米材料
@@ -5508,6 +5520,7 @@ system occasionally:系统偶尔
 system of a down:堕落体制
 system of alliance:系统的联盟
 system of belief:系统的信仰
+system of classification:分类系统
 system of color:系统的颜色
 system of control:系统的控制
 system of course:系统当然
@@ -5521,6 +5534,8 @@ system of form:系統的形式
 system of form:系统的形式
 system of germany:系统的德国
 system of glyph:系统的字形
+system of government:政府系統
+system of government:政府系统
 system of graduation:系統的畢業
 system of ground:系统的地面
 system of ideal truth:系統的理想真相
@@ -5530,10 +5545,14 @@ system of key materials:系统的关键材料
 system of knowledge:系統的知識
 system of learning:系统的学习
 system of linear equations:线性方程组
+system of logic:逻辑系统
+system of measurement:测量系统
 system of morality:系統的道德
 system of music teach:系统的音乐教
 system of name:系统的名字
 system of national accounts:国民经济核算体系
+system of nature:自然系統
+system of nature:自然系统
 system of organization:系统的组织
 system of people's congress:人民代表大会制度
 system of platforms:系统的平台
@@ -7956,6 +7975,9 @@ systems now:系统现在
 systems of administration:系统的管理
 systems of complex devices:系统的复杂设备
 systems of electron:系统的电子
+systems of government:政府系统
+systems of logic:逻辑系统
+systems of measurement:测量系统
 systems of smartphone:系统的智能手机
 systems of supercomputer:系统的超级计算机
 systems of systems:系统的系统

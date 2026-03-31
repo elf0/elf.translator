@@ -4108,16 +4108,20 @@ wall now:墙现在
 wall object:墙对象
 wall of daodejing:道德經壁
 wall of fame:名人墙
+wall of fire:火墙
 wall of fort zeelandia:热兰遮城残迹
 wall of fort zeelandia:熱蘭遮城殘跡
+wall of glass:玻璃墙
 wall of grief:悲伤之墙
 wall of ignorance:墙的无知
 wall of lead:墙的铅
+wall of love:爱墙
 wall of security:墙的安全
 wall of shame:耻辱墙
 wall of snuff bottle:墙的鼻烟壶
 wall of sound:墙的声音
 wall of text:墙的文本
+wall of wind:风墙
 wall once:墙一次
 wall once:墙曾经
 wall open:墙打开
@@ -15004,6 +15008,7 @@ war metal:战争金属
 war metaphor:战争隐喻
 war military:战争军事
 war minister alexander:战争部长亚历山大
+war minister of france:法国战争部长
 war minister:战争部长
 war missing:战争失踪
 war missing:战争失踪的
@@ -15019,6 +15024,7 @@ war mother:战争母亲
 war murder:战争谋杀
 war museum committee:战争博物馆委员会
 war museum north:战争博物馆北
+war museum of athens:雅典战争博物馆
 war museum of chania:哈尼亚战争博物馆
 war museum of thessaloniki:塞萨洛尼基战争博物馆
 war museum open:战争博物馆开
@@ -15043,26 +15049,49 @@ war novel:战争小说
 war now:战争现在
 war nurse:战争护士
 war obviously:战争显然
+war of abkhazia:阿布哈兹战争
 war of actium:亞克興戰爭
 war of aggression:侵略战争
+war of algeria:阿尔及利亚战争
+war of arauco:阿劳科战争
 war of attrition:埃以消耗战争
+war of being:生物战争
+war of brazil:巴西战争
 war of brothers:兄弟之战
 war of canudos:卡努杜斯农民起义
+war of canudos:卡努杜斯战争
+war of castro:卡斯特罗战争
 war of chioggia:基奧賈戰爭
 war of course:战争当然
 war of devolution:遗产战争
+war of dutch independence:荷兰独立战争
 war of faith:追风者
+war of ferrara:费拉拉战争
+war of finland:芬兰战争
+war of freedom:自由战争
+war of granada:格拉纳达战争
+war of greek independence:希腊独立战争
 war of ideas:意識形態戰爭
 war of ideology:战争的意识形态
+war of ifni:伊夫尼战争
 war of independence etc:獨立戰爭等等
+war of independence of brazil:巴西独立战争
 war of independence victory column is located in:独立战争胜利纪念柱位于
 war of independence victory column:独立战争胜利纪念柱
+war of independence:独立战争
 war of independence:獨立戰爭
 war of internet addiction:网瘾战争
+war of iraq:伊拉克战争
 war of knives:利刀之戰
+war of liberation:解放战争
 war of money:錢的戰爭
 war of opinion:战争的意见
+war of propaganda:宣传战争
+war of reform:改革战争
+war of religion:宗教战争
 war of saint sardos:聖薩爾多戰爭
+war of scottish independence:苏格兰独立战争
+war of spanish independence:西班牙独立战争
 war of succession:王位繼承戰爭
 war of survival:战争的生存
 war of terror:战争的恐怖
@@ -15084,12 +15113,14 @@ war of the heavenly horses:汉攻大宛之战
 war of the league of cambrai:康布雷同盟戰爭
 war of the league of cognac:科涅克同盟戰爭
 war of the mantuan succession:曼托瓦及蒙費拉托爵位繼承戰爭
+war of the pacific:太平洋战争
 war of the pacific:硝石战争
 war of the polish succession:波兰王位继承战争
 war of the portuguese succession:葡萄牙王位繼承戰爭
 war of the pyrenees:庇里牛斯山戰爭
 war of the quadruple alliance:四国同盟战争
 war of the reunions:重盟战争
+war of the revolution:革命战争
 war of the ring:魔戒聖戰
 war of the second coalition:第二次反法同盟
 war of the sicilian vespers:西西里晚祷战争
@@ -15098,6 +15129,9 @@ war of the spanish succession:西班牙王位繼承戰爭
 war of the third coalition:第三次反法同盟
 war of the three henrys:三亨利之戰
 war of the two capitals:天曆之變
+war of three kingdoms:三国战争
+war of transnistria:德涅斯特河沿岸战争
+war of troy:特洛伊战争
 war of words:战争的言论
 war of wrath:憤怒之戰
 war office in london:战争办公室在伦敦
@@ -16212,6 +16246,7 @@ warning not:警告不是
 warning notice:警告注意
 warning now:警告现在
 warning of attack:警告的攻击
+warning of danger:危险警告
 warning of deflation:警告的通货紧缩
 warning officials:警告官员
 warning online:警告在线
@@ -16405,6 +16440,7 @@ warrant card:委任證
 warrant officer courses:准尉课程
 warrant officer dewey:准尉杜威
 warrant officer jim:准尉吉姆
+warrant officer of the navy:海军准尉
 warrant officer rank:准尉等级
 warrant officer:准尉
 warranty:保用證
@@ -30437,6 +30473,7 @@ water occasionally:水偶尔
 water ocean:水海洋
 water of baptism:水的洗禮
 water of crystallization:结晶水
+water of milk:乳水
 water offer:水提供
 water office:水辦公室
 water officials and cover:水官员和覆盖
@@ -33135,6 +33172,7 @@ wave of processor:波的处理器
 wave of refugee:波的难民
 wave of restrict:波的限制
 wave of tariff:波的关税
+wave of water:水波
 wave of workers:波的工人
 wave operating system:波操作系统
 wave operations:波操作
@@ -33278,6 +33316,8 @@ wave them:波他们
 wave then:波然后
 wave theory and thin film:波理论和薄膜
 wave theory master:波理论大师
+wave theory of light:光波理論
+wave theory of light:光波理论
 wave theory:波理論
 wave theory:波理论
 wave therapy:波疗法
@@ -33871,12 +33911,16 @@ way now:办法现在
 way of course:办法当然
 way of king county:路的国王县
 way of philosophy:哲學之道
+way of tea:茶路
 way of the celestial masters:天师道
 way of the five pecks of rice:五斗米道
+way of the future:未来路
 way of the gods according to the confucian tradition:儒宗神教
 way of the li family:李家道
 way of the peaceful warrior:深夜加油站遇見蘇格拉底
+way of the world:世界路
 way of university:大學之道
+way of youth:青年路
 way on commercial building:維安商業大廈
 way once:路一次
 way open:路开

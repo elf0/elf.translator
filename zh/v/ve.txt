@@ -2563,6 +2563,7 @@ velocity model:速度模型
 velocity models:速度模型
 velocity network:速度网络
 velocity of port:速度的端口
+velocity of propagation:传播速度
 velocity or acceleration:速度或加速度
 velocity or mass:速度或质量
 velocity or temperature:速度或温度
@@ -6179,6 +6180,7 @@ version of docsis:版本的有线电缆数据服务接口规范
 version of each file:版本的每个文件
 version of earth history:版本的地球历史
 version of earth:版本的地球
+version of english:英语版本
 version of ethics:版本的道德
 version of european:版本的欧洲
 version of events:版本的事件

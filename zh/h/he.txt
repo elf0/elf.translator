@@ -16018,6 +16018,7 @@ head number:头数
 head nurse:头护士
 head nutrition:头营养
 head of bhairava:陪胪之首
+head of femur:股骨头
 head of government emphasize:政府首脑强调
 head of government named:政府首脑命名的
 head of government:政府首脑
@@ -16064,6 +16065,7 @@ head of the chuvash republic:楚瓦什共和国首脑
 head of the commonwealth:英聯邦元首
 head of the donetsk people's republic:顿涅茨克人民共和国首脑
 head of the komi republic:科米共和国首脑
+head of the lake:湖头
 head of the luhansk people's republic:卢甘斯克人民共和国首脑
 head of the republic of adygea:阿迪格共和國首腦
 head of the republic of bashkortostan:巴什科尔托斯坦共和国首脑
@@ -16076,8 +16078,10 @@ head of the republic of karelia:卡累利阿共和国首脑
 head of the republic of khakassia:哈卡斯共和国首脑
 head of the republic of mordovia:莫尔多瓦共和国首脑
 head of the republic of tuva:图瓦共和国首脑
+head of the river:河头
 head of the sakha republic:薩哈共和國首腦
 head of the udmurt republic:乌德穆尔特共和国首脑
+head of water:水头
 head office of taiwan water corporation:臺灣自來水公司總管理處
 head office of unicef hong kong:聯合國兒童基金香港委員會辦事處
 head office:头办公室
@@ -16547,6 +16551,7 @@ headquarters of the scout association of macau:澳門童軍總會總部
 headquarters of the scout association of macau:澳门童军总会总部
 headquarters of the united nations needs:联合国总部大楼需要
 headquarters of the united nations:联合国总部大楼
+headquarters of the united nations:联合国總部
 headquarters office:總部辦公室
 headquarters or base:總部或基地
 headquarters or:總部或
@@ -23570,6 +23575,7 @@ heart now:心脏现在
 heart obviously:心显然
 heart of a dog:狗心
 heart of africa:心脏的非洲
+heart of america:美国心
 heart of asia monument:亚洲大陆地理中心
 heart of asia:亚心
 heart of astrology:心的占星术
@@ -23578,10 +23584,14 @@ heart of borneo:婆罗洲之心
 heart of christ:心臟的基督
 heart of darkness:黑暗的心
 heart of dragon:龍的心
+heart of evil:惡心
 heart of glass:玻璃心
 heart of greed:溏心風暴
+heart of ice:冰心
 heart of love river:愛河之心
 heart of love river:爱河之心
+heart of love:愛心
+heart of love:爱心
 heart of memory:心脏的记忆
 heart of mexico city:心臟的墨西哥城
 heart of neolithic orkney:新石器时代奥克尼的中心
@@ -23589,6 +23599,9 @@ heart of oak:橡樹之心
 heart of palm:棕榈心
 heart of silicon valley:心脏的硅谷
 heart of smile park:公園之心
+heart of stone:石头心
+heart of the angel:天使心
+heart of the sea:海心
 heart of the woods:森灵之心
 heart off:心脏关闭
 heart often:心常常
@@ -24494,10 +24507,17 @@ heat networks investment project:热网络投资项目
 heat networks:热网络
 heat of africa:热的非洲
 heat of combustion:燃烧热
+heat of dilution:稀释热
+heat of evaporation:汽化热
+heat of evaporation:蒸发热
 heat of passion:热的激情
+heat of reaction:反应热
 heat of revenge:热的复仇
 heat of summer:热的夏季
+heat of the night:夜热
+heat of the sun:太阳热
 heat of thigh:热的大腿
+heat of vaporization:汽化热
 heat often kill:热常常杀
 heat often:热常常
 heat oil:热油
@@ -25139,6 +25159,8 @@ heavenly forest:只是爱着你
 heavenly in laws:我外母唔係人
 heavenly kingdom of everlasting satisfaction:万顺天国
 heavenly kingdom of the great mingshun:大明顺天国
+heavenly lake of tian shan:天山天池
+heavenly lake of tianshan:天山天池
 heavenly lake:天池
 heavenly market enclosure:天市垣
 heavenly mother:天上母親
@@ -26083,9 +26105,11 @@ heavyweight champion david:重量级冠军大卫
 heavyweight champion lenno:重量级冠军伦诺
 heavyweight champion mike:重量级冠军迈克
 heavyweight champion now hold:重量级冠军现在拥有
+heavyweight champion of the world:世界重量级冠军
 heavyweight champion:重量级冠军
 heavyweight champions league:重量级冠军联赛
 heavyweight champions:重量级冠军
+heavyweight championship of the world:世界重量级冠军
 heavyweight championship:重量级冠军
 heavyweight championship:重量级冠军赛
 heavyweight championships:重量级冠军
@@ -26746,6 +26770,7 @@ hebrew under:希伯来语下
 hebrew university and the university of pennsylvania:希伯来大学和宾夕法尼亚大学
 hebrew university bombing:希伯来大学爆炸
 hebrew university of jerusalem:耶路撒冷希伯來大學
+hebrew university of jerusalem:耶路撒冷希伯来大学
 hebrew university professor:希伯来大学教授
 hebrew university researchers and students:希伯来大学研究人员和学生
 hebrew university researchers:希伯来大学研究人员
@@ -30194,6 +30219,7 @@ helen liang memorial secondary school (sha tin):梁文燕紀念中學(沙田)
 helen lin:林澄枝
 helen many:海倫很多
 helen of greece and denmark:希臘和丹麥的埃列娜
+helen of troy:特洛伊海倫
 helen quach:郭美貞
 helen resort:海倫度假村
 helen shoal:yitong ansha
@@ -37311,6 +37337,8 @@ hemisphere language:半球语言
 hemisphere map:半球地图
 hemisphere markets:半球市场
 hemisphere of radius:半球的半径
+hemisphere of the brain:大脑半球
+hemisphere of the earth:地球半球
 hemisphere parietal lobe:半球顶叶
 hemisphere process:半球处理
 hemisphere project:半球项目
@@ -39909,6 +39937,7 @@ henry i:亨利我
 henry ice rise:亨利冰隆
 henry ii and thomas:亨利二世和托马斯
 henry ii became:亨利二世成为
+henry ii of england:英格蘭亨利二世
 henry ii order:亨利二世命令
 henry ii period:亨利二世时期
 henry ii style:亨利二世风格
@@ -39987,6 +40016,7 @@ henry now:亨利现在
 henry nunataks:亨利冰原島峰
 henry o:蒋锡礽
 henry of flanders:佛兰德的亨利
+henry of navarre:納瓦拉亨利
 henry of prussia:普魯士的海因里希
 henry of scotland:苏格兰的亨利
 henry of speyer:施派尔的亨利
@@ -40082,6 +40112,8 @@ henry viii and elizabeth i:亨利八世和伊丽莎白一世
 henry viii and his six:亨利八世和他的六
 henry viii and his third:亨利八世和他的第三
 henry viii and queen victoria:亨利八世和维多利亚女王
+henry viii of england:英格兰亨利八世
+henry viii of england:英格蘭亨利八世
 henry viii protest:亨利八世抗議
 henry viii protest:亨利八世抗议
 henry viii reject:亨利八世拒绝
@@ -50108,6 +50140,7 @@ hero charlie:英雄查理
 hero chris taylor:英雄克里斯泰勒
 hero chris:英雄克里斯
 hero city of ukraine:乌克兰英雄城市
+hero city of ukraine:烏克蘭英雄城市
 hero city:英雄城市
 hero claim:英雄主张
 hero class:英雄类
@@ -50251,14 +50284,24 @@ hero network:英雄网络
 hero norman:英雄诺曼
 hero now:英雄现在
 hero odysseus:英雄奥德修斯
+hero of abkhazia:阿布哈茲英雄
 hero of alexandria:亚历山大的海伦
 hero of artsakh:阿尔察赫英雄
+hero of azerbaijan:阿塞拜疆英雄
 hero of belarus:白俄罗斯英雄
+hero of belarus:白俄羅斯英雄
+hero of chemistry:化学英雄
+hero of city:城市英雄
+hero of czechoslovakia:捷克斯洛伐克英雄
+hero of kazakhstan:哈萨克斯坦英雄
 hero of kazakhstan:哈薩克斯坦英雄
 hero of labour of the russian federation:俄罗斯联邦劳动英雄
 hero of labour:劳动英雄
 hero of robots:機甲英雄
+hero of russia:俄罗斯英雄
+hero of russia:俄羅斯英雄
 hero of socialist labour:社会主义劳动英雄
+hero of soviet union:苏联英雄
 hero of the czechoslovak socialist republic:捷克斯洛伐克社会主义共和国英雄
 hero of the donetsk people's republic:顿涅茨克人民共和国英雄
 hero of the german democratic republic:德意志民主共和国英雄
@@ -50266,12 +50309,17 @@ hero of the luhansk people's republic:盧甘斯克人民共和國英雄
 hero of the mongolian people's republic:蒙古人民共和国英雄
 hero of the people's armed forces:人民武装力量英雄
 hero of the people's republic of bulgaria:保加利亚人民共和国英雄
+hero of the people:人民英雄
 hero of the republic of cuba:古巴共和国英雄
 hero of the russian federation:俄罗斯联邦英雄
 hero of the socialist republic of romania:罗马尼亚社会主义共和国英雄
+hero of the soviet union:苏联英雄
 hero of the soviet union:蘇聯英雄
 hero of tomorrow:江湖接班人
+hero of ukraine:乌克兰英雄
 hero of ukraine:烏克蘭英雄
+hero of uzbekistan:乌兹别克斯坦英雄
+hero of war:战争英雄
 hero official website:英雄官方网站
 hero only:英雄只有
 hero or heroine:英雄或英雌

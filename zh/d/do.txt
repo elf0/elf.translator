@@ -2636,6 +2636,7 @@ doctor of course:医生当然
 doctor of design:医生的设计
 doctor of education:教育博士
 doctor of engineering:工程學博士
+doctor of geneva:日内瓦医生
 doctor of juridical science:司法學博士
 doctor of law:法學博士
 doctor of letters:文学博士
@@ -2948,6 +2949,27 @@ doctorate diploma:博士文凭
 doctorate engineering:博士工程学
 doctorate information security:博士信息安全
 doctorate levels:博士水平
+doctorate of business administration:工商管理博士
+doctorate of canon law:教会法博士
+doctorate of civil law:民法博士
+doctorate of education:教育博士
+doctorate of engineering:工程学博士
+doctorate of jurisprudence:法学博士
+doctorate of law:法律博士
+doctorate of laws:法律博士
+doctorate of literature:文学博士
+doctorate of literature:文學博士
+doctorate of medicine:医学博士
+doctorate of music:音乐博士
+doctorate of pharmacy:药学博士
+doctorate of philosophy:哲学博士
+doctorate of physical therapy:物理治疗博士
+doctorate of psychology:心理学博士
+doctorate of public health:公共卫生博士
+doctorate of science:科学博士
+doctorate of theology:神学博士
+doctorate of theology:神學博士
+doctorate of veterinary medicine:兽医学博士
 doctorate or professional degree:博士或专业学位
 doctorate research:博士研究
 doctorate study:博士学习
@@ -7806,6 +7828,7 @@ domain number:域数
 domain object instance:域对象实例
 domain object:域对象
 domain of a function:定义域
+domain of definition:定义域
 domain of discourse from:论域从
 domain of discourse:论域
 domain of holomorphy:全純域
@@ -9023,6 +9046,7 @@ domestication event:驯化事件
 domestication history:驯化历史
 domestication hypothesis:驯化假说
 domestication is an evolution:驯化是一个进化
+domestication of animals:动物驯化
 domestication of crops:驯化的农作物
 domestication origin:驯化起源
 domestication period:驯化时期
@@ -9490,14 +9514,26 @@ dominion garden:東美花園
 dominion heights:明麗閣
 dominion hill:多米尼昂山
 dominion of british west florida:英屬西佛羅里達自治領
+dominion of canada:加拿大自治領
 dominion of ceylon:錫蘭自治領
+dominion of ceylon:锡兰自治領
+dominion of fiji:斐济自治領
 dominion of fiji:斐济自治领
+dominion of fiji:斐濟自治領
+dominion of ghana:加納自治領
 dominion of ghana:加纳自治领
+dominion of india:印度自治領
 dominion of india:印度自治领
+dominion of kenya:肯亞自治領
+dominion of mauritius:模里西斯自治領
 dominion of new england:新英格蘭自治領
+dominion of new zealand:新西兰自治領
+dominion of new zealand:新西蘭自治領
 dominion of new zealand:紐西蘭自治領
 dominion of newfoundland:紐芬蘭自治領
 dominion of pakistan:巴基斯坦自治領
+dominion of sierra leone:塞拉利昂自治領
+dominion of sweden:瑞典自治領
 dominion public building:自治领公共大楼
 dominion radio astrophysical observatory:自治领射电天体物理台
 dominion range:多明尼昂山脈
@@ -10868,6 +10904,7 @@ don't think me:不认为我
 don't think my nerve:不认为我的神经
 don't think my parents:不认为我的父母
 don't think my son will:不认为我的儿子会
+don't think of me:我不想
 don't think of storm:不认为的风暴
 don't think racism:不认为种族主义
 don't think she kill:不认为她杀
@@ -12799,6 +12836,7 @@ dongchenzhuang:东陈庄
 dongchenzhuangcun:东陈庄村
 dongcheon dong:東川洞
 dongcheon of goguryeo:东川王
+dongcheon of goguryeo:高句丽东川
 dongcheon-dong:东川洞
 dongcheon-dong:東川洞
 dongcheon-ri:东川里
@@ -22599,6 +22637,7 @@ door of his heart:门的他的心
 door of humility:謙卑之門
 door of humility:谦卑之门
 door of return:回歸之門
+door of return:回门
 door of security command:门的安全命令
 door once:门一次
 door one card:门一卡

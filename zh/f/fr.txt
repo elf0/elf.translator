@@ -4726,6 +4726,7 @@ free choice:自由的選擇
 free christian:自由的基督徒
 free christian:释放基督徒
 free chromium:自由的铬
+free church of scotland:苏格兰自由教会
 free church of scotland:蘇格蘭自由教會
 free church:自由教会
 free cider and christmas cookie:免费的苹果酒和圣诞节曲奇
@@ -6403,6 +6404,7 @@ free tools:免费的工具
 free toy:免费的玩具
 free trade agreement as well as:自由貿易協定以及
 free trade agreement negotiation:自由貿易協定談判
+free trade agreement of the americas:美洲自由貿易協定
 free trade agreement status:自由貿易協定地位
 free trade agreement:自由貿易協定
 free trade and free market:自由貿易和自由市場
@@ -6469,9 +6471,14 @@ free uniform:免费的制服
 free united states:自由的美国
 free universe:自由的宇宙
 free university compiler:自由大學編譯器
+free university of amsterdam:阿姆斯特丹自由大學
 free university of berlin established in:柏林自由大学成立于
 free university of berlin:柏林自由大学
+free university of berlin:柏林自由大學
 free university of bozen bolzano:博尔扎诺自由大学
+free university of brussels:布魯塞爾自由大學
+free university of poland:波蘭自由大學
+free university of west berlin:西柏林自由大學
 free university:自由大學
 free update:免费的更新
 free updates:免费的更新
@@ -7272,6 +7279,7 @@ freedom now:自由现在
 freedom number:自由数字
 freedom obtain:自由获得
 freedom of abortion:堕胎的自由
+freedom of action:行动自由
 freedom of assembly and compassion:集會自由和憐憫
 freedom of assembly and freedom of religion:集會自由和宗教自由
 freedom of assembly and freedom of speech:集會自由和言論自由
@@ -7280,15 +7288,21 @@ freedom of assembly:集會自由
 freedom of association include:結社自由包括
 freedom of association:結社自由
 freedom of association:结社的自由
+freedom of belief:信仰自由
 freedom of choice about:选择的自由关于
 freedom of choice as well:选择的自由也
 freedom of choice is you:选择的自由是你
 freedom of choice provides:选择的自由提供
 freedom of choice so:选择的自由如此
 freedom of choice:选择的自由
+freedom of choice:选择自由
+freedom of clothing:服装自由
+freedom of conscience:良心自由
+freedom of contract:契约自由
 freedom of contract:契约自由原则
 freedom of expression in canada:加拿大的言论自由
 freedom of expression:表达的自由
+freedom of expression:表达自由
 freedom of information activist:信息自由活动家
 freedom of information advocate:信息自由倡导
 freedom of information and human rights:信息自由与人权
@@ -7331,6 +7345,8 @@ freedom of religion and freedom of the press:宗教自由和新闻自由
 freedom of religion and human rights:宗教自由和人权
 freedom of religion in china:中華人民共和國宗教自由
 freedom of religion in north korea:朝鲜宗教自由
+freedom of religion in qatar:卡塔爾宗教自由
+freedom of religion in singapore:新加坡宗教自由
 freedom of religion include:宗教自由包括
 freedom of religion is our:宗教自由是我们的
 freedom of religion means:宗教自由意味着
@@ -7355,6 +7371,7 @@ freedom of speech protest:言論自由抗議
 freedom of speech spirit:言論自由精神
 freedom of speech:言論自由
 freedom of speech:说话的自由
+freedom of the media:媒体自由
 freedom of the press and democracy:新闻自由和民主
 freedom of the press and freedom of information legislation:新闻自由和信息自由立法
 freedom of the press and freedom of information:新闻自由和信息自由
@@ -7379,6 +7396,7 @@ freedom of thought report:思想自由報告
 freedom of thought require:思想自由要求
 freedom of thought would:思想自由将
 freedom of thought:思想自由
+freedom of trade:贸易自由
 freedom on the net:网络自由度报告
 freedom online:自由在线
 freedom only:自由只有
@@ -7409,6 +7427,11 @@ freedom party begin:自由党开始
 freedom party members:自由党成员
 freedom party of albania:阿尔巴尼亚自由党
 freedom party of austria:奥地利自由党
+freedom party of canada:加拿大自由党
+freedom party of new york:纽约自由党
+freedom party of ontario:安大略省自由党
+freedom party of ontario:安大略自由党
+freedom party of switzerland:瑞士自由党
 freedom party:自由党
 freedom peace:自由和平
 freedom philosopher:自由哲學家
@@ -9724,6 +9747,7 @@ french insist:法国坚持
 french installation:法国安装
 french institute alliance:法国学院联盟
 french institute for research in computer science and automation:法国国家信息与自动化研究所
+french institute of barcelona:巴塞罗那法语学院
 french institute:法国学院
 french institute:法国研究所
 french institute:法语学院
@@ -9743,6 +9767,7 @@ french international exhibition:法国国际展览会
 french international hospital:法国国际医院
 french international school (lycée francais international):法國國際學校
 french international school - tseung kwan o campus:法國國際學校將軍澳校舍
+french international school of beijing:北京法国国际学校
 french international school of hong kong:香港法國國際學校
 french international school of odesa:敖德薩法國國際學校
 french international school:法国国际学校
@@ -10337,6 +10362,7 @@ french occupation of malta:法國佔領馬爾他
 french occupation of the ruhr:法国占领鲁尔
 french ocean:法国海洋
 french odyssey:法国奥德赛
+french of france:法国法语
 french of france:法國法語
 french office in taipei:法國在台協會
 french officials began:法国官员开始
@@ -10736,6 +10762,8 @@ french protection:法国保护
 french protection:法国的保护
 french protectorate in morocco:法屬摩洛哥
 french protectorate of cambodia:柬埔寨保护国
+french protectorate of cambodia:柬埔寨法国保护国
+french protectorate of cambodia:柬埔寨法國保護國
 french protectorate of laos:老挝保护国
 french protectorate of tunisia:法属突尼斯
 french protectorate:法国保护国
@@ -10992,8 +11020,10 @@ french scholar and historian:法国学者和历史学家
 french scholar:法国学者
 french school at athens:法国雅典学院
 french school holiday:法国学校假日
+french school of athens:雅典法国学校
 french school of kuala lumpur:吉隆坡法国学校
 french school of seoul:首尔法兰西学校
+french school of shanghai:上海法国学校
 french school of the far east:法國遠東學院
 french school:法国学校
 french school:法语学校
@@ -14343,6 +14373,7 @@ friend of a friend vocabulary:朋友的朋友词汇
 friend of a friend who:朋友的朋友谁
 friend of a friend:朋友的朋友
 friend of children:朋友的孩子
+friend of china:中国朋友
 friend of course:朋友当然
 friend of god:朋友的神
 friend of museum:朋友的博物馆
@@ -15351,6 +15382,7 @@ friends not loser:朋友不是失败者
 friends not:朋友不是
 friends notice:朋友注意
 friends now:朋友现在
+friends of animals:动物朋友
 friends of course:朋友当然
 friends of innovative technology industry park:信友创新科技产业园
 friends of jesus:朋友的耶穌

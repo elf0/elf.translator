@@ -137,10 +137,16 @@ obelisk hill:石碑山
 obelisk honour:方尖碑榮譽
 obelisk mountain:奧貝利斯克山
 obelisk of axum:阿克苏姆方尖碑
+obelisk of buenos aires:布宜諾斯艾利斯方尖碑
+obelisk of buenos aires:布宜诺斯艾利斯方尖碑
 obelisk of montecitorio:蒙地奇托利歐方尖碑
+obelisk of montevideo:蒙得維的亞方尖碑
 obelisk of montevideo:蒙得维的亚方尖碑
+obelisk of são paulo:圣保罗方尖碑
+obelisk of são paulo:聖保羅方尖碑
 obelisk of theodosius:图特摩斯三世方尖碑
 obelisk of theodosius:狄奥多西方尖碑
+obelisk of thutmose iii:图特摩斯三世方尖碑
 obelisk project:方尖碑项目
 obelisk von luxor:卢克索方尖碑
 obelisk „heldenstadt leningrad“:列宁格勒的英雄城市方尖碑
@@ -2319,6 +2325,7 @@ obligation:責務
 obligatory contour principle:必異規則
 oblinghem:奥布兰盖姆
 oblique case:斜格
+oblique muscle of eye:眼斜肌
 oblique muscle:斜肌
 oblique shock:斜激波
 oblique type:伪斜体
@@ -2801,8 +2808,15 @@ observatory court:天文臺圍
 observatory guesthouse:迎宾楼
 observatory hill:天文台山
 observatory mansion:天文台閣
+observatory of geneva:日內瓦天文台
+observatory of geneva:日内瓦天文台
+observatory of paris:巴黎天文台
+observatory of potsdam:波茨坦天文台
+observatory of strasbourg:史特拉斯堡天文台
 observatory of strasbourg:斯特拉斯堡天文台
 observatory of the penha hill:主教山眺望台
+observatory of turin:杜林天文台
+observatory of turin:都灵天文台
 observatory road:天文台道
 observatory road:天文臺道
 observatory:天文台

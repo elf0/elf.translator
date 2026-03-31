@@ -596,6 +596,7 @@ road now:路现在
 road now:道路现在
 road obstacle:道路障碍
 road obstacles:道路障碍
+road of life:生活道路
 road offer:路提供
 road once:路曾经
 road online:路在线
@@ -1174,6 +1175,7 @@ roads kill:路杀
 roads link:路连接
 roads magazine:路杂志
 roads network:路网络
+roads of fire:火路
 roads online platform international:路在线平台国际
 roads online platform:路在线平台
 roads online:路在线
@@ -1205,6 +1207,7 @@ roadside bomb models:路边炸弹模型
 roadside bomb:路边炸弹
 roadside hawk:大嘴鵟
 roadside station:道之驛
+roadstead of brest:布雷斯特泊地
 roadstead of brest:布雷斯特湾
 roadstead:泊地
 roadworks warning:道路施工警告
@@ -4120,6 +4123,8 @@ rock music blogs:摇滚乐博客
 rock music from:摇滚乐从
 rock music history:摇滚乐历史
 rock music in russia:俄罗斯摇滚乐
+rock music of canada:加拿大摇滚乐
+rock music of the united kingdom:英国摇滚乐
 rock music pioneer:摇滚乐先驱
 rock music will never:摇滚乐永远不会
 rock music will:摇滚乐会
@@ -5872,6 +5877,7 @@ role nurse:角色护士
 role obligation:角色义务
 role of participation:角色的参与
 role of right hand:角色的右手
+role of women:女人角色
 role often:角色常常
 role one:角色一
 role only:角色只有
@@ -8779,6 +8785,7 @@ roman markets:罗马市场
 roman mass unit:罗马质量单位
 roman mass:罗马质量
 roman master:罗马的大师
+roman mausoleum of córdoba:科尔多瓦罗马陵墓
 roman mausoleum:罗马陵墓
 roman mayor:罗马市长
 roman media:罗马的媒体
@@ -8859,6 +8866,7 @@ roman people from:罗马人从
 roman people:罗马人
 roman people:罗马人民
 roman people:罗马民
+roman period of greece:希腊罗马时期
 roman period:罗马时期
 roman persecution:罗马的迫害
 roman persecution:罗马迫害
@@ -9042,6 +9050,7 @@ roman tacitus:罗马人塔西佗
 roman tam:羅文
 roman techniques:罗马技术
 roman technology:罗马技术
+roman temple of córdoba:科尔多瓦罗马神庙
 roman temple of vic:比克羅馬神廟
 roman temple of Évora:塔維拉羅馬神廟
 roman temple:古罗马神庙
@@ -9055,6 +9064,7 @@ roman text:罗马文本
 roman theater:罗马剧场
 roman theater:罗马剧院
 roman theatre and museum:罗马剧院和博物馆
+roman theatre of florence:佛罗伦萨罗马剧场
 roman theatre of orange:奧朗日古羅馬劇場
 roman theatre of philippopolis:普羅夫迪夫羅馬劇場
 roman theatre:罗马剧场
@@ -9845,6 +9855,7 @@ romanian:罗马尼亚的
 romanian:罗马尼亚语
 romanians and all:羅馬尼亞人和所有
 romanians in kazakhstan:哈薩克斯坦的羅馬尼亞人
+romanians of serbia:塞爾維亞羅馬尼亞人
 romanians:羅馬尼亞人
 romanias ambassade:罗马尼亚大使馆
 romanias æreskonsulat:罗马尼亚名誉领事馆
@@ -9880,18 +9891,26 @@ romaniya:罗马尼亚 / 羅馬尼亞
 romaniya:羅馬尼亞
 romanization and barbarian invasion:罗马化和蛮族入侵
 romanization of arabic:阿拉伯語羅馬化
+romanization of arabic:阿拉伯语罗马化
 romanization of belarusian:白俄罗斯语罗马化
+romanization of bengali:孟加拉语罗马化
+romanization of bulgarian:保加利亚语罗马化
 romanization of bulgarian:保加利亞語羅馬化
 romanization of chinese:汉字拉丁化
 romanization of georgian:喬治亞字母羅馬化
+romanization of greek:希腊语罗马化
 romanization of greek:希臘語羅馬化
+romanization of hebrew:希伯来语罗马化
 romanization of inuktitut:伊努克提圖特語拉丁化
 romanization of japanese:日语罗马字
 romanization of khmer:高棉语罗马化
 romanization of korean:韓語羅馬字表記法
+romanization of korean:韩语罗马化
 romanization of kyrgyz:柯尔克孜语罗马化
 romanization of persian:波斯語拉丁化
+romanization of persian:波斯语罗马化
 romanization of russian:俄语罗马化
+romanization of ukrainian:乌克兰语罗马化
 romanization of ukrainian:烏克蘭語羅馬化
 romanization of wu chinese:吴语拉丁化方案
 romanization system:罗马化系统
@@ -13555,7 +13574,9 @@ root node object:根节点对象
 root node:根节点
 root number:根数
 root object:根对象
+root of penis:阴茎根
 root of penis:陰莖根
+root of spinal nerve:脊神经根
 root of unity:单位根
 root offer:根提供
 root oil:根油
@@ -14075,6 +14096,7 @@ rose forest:玫瑰森林
 rose fossil:玫瑰化石
 rose foundation:玫瑰基金
 rose from:玫瑰从
+rose garden of the white house:白宫玫瑰园
 rose garden:寶苑
 rose garden:月季园
 rose garden:玫瑰园
@@ -14177,6 +14199,7 @@ rose museum:玫瑰博物馆
 rose no longer:玫瑰不再
 rose not:玫瑰不是
 rose notre dame:玫瑰圣母
+rose of york:約克玫瑰
 rose offer:玫瑰提供
 rose oil:蔷薇花油
 rose open:玫瑰开
@@ -17810,13 +17833,16 @@ royal academy exhibition:皇家学院展览
 royal academy from:皇家学院从
 royal academy hall:皇家学院大厅
 royal academy of arts:皇家艺术研究院
+royal academy of belgium:比利时皇家学院
 royal academy of dance:皇家舞蹈学院
 royal academy of dramatic art website:皇家戏剧艺术学院网站
 royal academy of dramatic art:皇家戏剧艺术学院
 royal academy of engineering research council:皇家工程院研究委员会
 royal academy of engineering:皇家工程院
+royal academy of london:伦敦皇家学院
 royal academy of sciences:皇家科学院
 royal academy of sciences:皇家科學院
+royal academy of scotland:苏格兰皇家学院
 royal academy of turku:奥布皇家学院
 royal academy schools:皇家学院学校
 royal academy:皇家学院
@@ -17842,6 +17868,7 @@ royal air force and royal:皇家空军和皇家
 royal air force college:皇家空军学院
 royal air force ensign:英國皇家空軍軍旗
 royal air force museum london:皇家空軍博物館
+royal air force of oman:阿曼皇家空军
 royal air force officer:皇家空军长官
 royal air force police:英國皇家空軍憲兵
 royal air force tornado:皇家空军龙卷风
@@ -17965,6 +17992,7 @@ royal baby george:皇家婴儿乔治
 royal baby name:皇家婴儿名称
 royal baby:皇家婴儿
 royal babylon:皇家巴比伦
+royal badge of wales:威尔士皇家徽章
 royal badge of wales:威爾斯皇家徽章
 royal badge:皇家徽章
 royal bafokeng stadium:皇家班巴夫肯球場
@@ -17981,7 +18009,9 @@ royal bank and citibank:皇家银行和花旗银行
 royal bank credit card:皇家银行信用卡
 royal bank of canada website:加拿大皇家銀行網站
 royal bank of canada:加拿大皇家銀行
+royal bank of canada:加拿大皇家银行
 royal bank of scotland was the only:蘇格蘭皇家銀行是唯一
+royal bank of scotland:苏格兰皇家银行
 royal bank of scotland:蘇格蘭皇家銀行
 royal bank plaza:皇家銀行廣場
 royal bank:皇家銀行
@@ -18049,6 +18079,7 @@ royal botanic gardens, kew:伦敦基尤皇家植物园
 royal botanic gardens:皇家植物園
 royal botanic society:皇家植物学会
 royal botanical garden of madrid:皇家植物園
+royal botanical garden of madrid:馬德里皇家植物園
 royal botanical garden:皇家植物園
 royal bottom:皇家底
 royal boundary:皇家边界
@@ -18120,6 +18151,9 @@ royal caribbean:皇家加勒比地区
 royal caribbean:皇家加勒比的
 royal castel:君爵堡
 royal castle and wawel:皇家城堡和瓦维尔山
+royal castle of laeken:拉肯皇家城堡
+royal castle of warsaw:华沙皇家城堡
+royal castle of warsaw:華沙皇家城堡
 royal castle:皇家城堡
 royal castle:皇家的城堡
 royal cathedral:皇家大教堂
@@ -18439,7 +18473,44 @@ royal family members:王室成员
 royal family members:皇室成员
 royal family needs:王室需要
 royal family news:皇室新闻
+royal family of belgium:比利时王室
+royal family of belgium:比利時王室
+royal family of brunei:汶萊王室
+royal family of brunei:汶萊皇室
+royal family of bulgaria:保加利亞王室
+royal family of canada:加拿大王室
+royal family of canada:加拿大皇室
 royal family of david:王室的大卫
+royal family of egypt:埃及王室
+royal family of france:法国王室
+royal family of france:法国皇室
+royal family of france:法國王室
+royal family of france:法國皇室
+royal family of greece:希腊王室
+royal family of greece:希臘王室
+royal family of hawaii:夏威夷王室
+royal family of hawaii:夏威夷皇室
+royal family of italy:意大利王室
+royal family of morocco:摩洛哥王室
+royal family of pahang:彭亨州皇室
+royal family of qatar:卡達王室
+royal family of romania:罗马尼亚王室
+royal family of romania:羅馬尼亞王室
+royal family of saudi arabia:沙地阿拉伯王室
+royal family of saudi arabia:沙烏地阿拉伯王室
+royal family of saudi arabia:沙特阿拉伯王室
+royal family of saudi arabia:沙特阿拉伯皇室
+royal family of serbia:塞尔维亚王室
+royal family of thailand:泰国王室
+royal family of thailand:泰國王室
+royal family of thailand:泰國皇室
+royal family of the united kingdom:英国王室
+royal family of the united kingdom:英国皇室
+royal family of tonga:汤加王室
+royal family of united kingdom:英国王室
+royal family of united kingdom:英国皇室
+royal family of united kingdom:英國王室
+royal family of united kingdom:英國皇室
 royal family order of charles iii:查爾斯三世王室勳章
 royal family order of elizabeth ii:伊利沙伯二世皇室勳章
 royal family order of george v:喬治五世王室勳章
@@ -18548,6 +18619,9 @@ royal golden eagle:新加坡金鷹集團
 royal goldsmith:皇家金匠
 royal gorilla and fat:皇家大猩猩和脂肪
 royal gorilla:皇家大猩猩
+royal government of bhutan:不丹皇家政府
+royal government of laos:老挝皇家政府
+royal government of laos:老撾皇家政府
 royal government:皇家政府
 royal gramma:藍紋鱸
 royal grammar school:皇家文法学校
@@ -18579,6 +18653,7 @@ royal health:皇家健康
 royal heart:皇家心
 royal heritage:皇家遗产
 royal high court:皇家高等法院
+royal high school of edinburgh:爱丁堡皇家中学
 royal high school:皇家中学
 royal high:皇家高
 royal highland centre:皇家高地中心
@@ -18656,6 +18731,7 @@ royal inspector:皇家督察
 royal institute of british architects:英國皇家建築師協會
 royal institute of philosophy:皇家哲學院
 royal institute of technology:皇家技术学院
+royal institute of the netherlands:荷兰皇家研究所
 royal institute:皇家学院
 royal institute:皇家研究所
 royal institution christmas lectures:英国皇家科学院圣诞讲座
@@ -18720,10 +18796,16 @@ royal leicester:皇家莱斯特
 royal letter:皇家信
 royal levee:皇家堤
 royal library and part:皇家圖書館和部分
+royal library of belgium:比利时皇家图书馆
 royal library of belgium:比利時皇家圖書館
 royal library of berlin:皇家圖書館的柏林
+royal library of denmark:丹麥皇家圖書館
+royal library of denmark:丹麦皇家图书馆
+royal library of sweden:瑞典皇家图书馆
+royal library of sweden:瑞典皇家圖書館
 royal library of the hague:皇家圖書館的海牙
 royal library of the netherlands:荷蘭皇家圖書館
+royal library of turin:都灵皇家图书馆
 royal library of turin:都靈皇家圖書館
 royal library:皇家图书馆
 royal library:皇家圖書館
@@ -18817,6 +18899,7 @@ royal military academy sandhurst:桑赫斯特皇家军事学院
 royal military academy:皇家军事学院
 royal military canal:皇家军事运河
 royal military college museum:皇家军事学院博物馆
+royal military college of canada:加拿大皇家军事学院
 royal military college:皇家军事学院
 royal military museum:皇家军事博物馆
 royal military police:皇家宪兵
@@ -18824,12 +18907,14 @@ royal military school:皇家军事学校
 royal military training:皇家军事训练
 royal military:皇家军事
 royal military:皇家军队
+royal mint of spain:西班牙皇家鑄幣廠
 royal mint theatre:皇家铸币局剧院
 royal mint:皇家鑄幣廠
 royal mirage:皇家海市蜃楼
 royal mistress:王室情婦
 royal mole:皇家摩尔
 royal monastery:皇家修道院
+royal monetary authority of bhutan:不丹皇家金融管理局
 royal monetary authority:皇家金融管理局
 royal monopoly:皇家垄断
 royal montreal golf club:皇家蒙特婁高爾夫俱樂部
@@ -18850,7 +18935,9 @@ royal mummy:皇家木乃伊
 royal museum for central africa:中非皇家博物館
 royal museum merge:皇家博物馆合并
 royal museum of art:皇家艺术博物馆
+royal museum of berlin:柏林皇家博物馆
 royal museum of fine arts antwerp:皇家安特衛普美術館
+royal museum of scotland:苏格兰皇家博物馆
 royal museum of the armed forces and military history:皇家軍隊與軍事史博物館
 royal museum:皇家博物馆
 royal museums of art and history:皇家艺术与历史博物馆
@@ -18901,6 +18988,8 @@ royal navy lieutenant:皇家海军中尉
 royal navy models:皇家海军模型
 royal navy museum:皇家海军博物馆
 royal navy needs:皇家海军需要
+royal navy of oman:阿曼皇家海军
+royal navy of the united kingdom:英国皇家海军
 royal navy officials:皇家海军官员
 royal navy order:皇家海军命令
 royal navy plans:皇家海军计划
@@ -19021,19 +19110,24 @@ royal palace garden:皇家宫殿花园
 royal palace of amsterdam:阿姆斯特丹王宫
 royal palace of aranjuez:阿蘭胡埃斯王宮
 royal palace of brussels:布魯塞爾王宮
+royal palace of buda:布达皇宫
 royal palace of cambodia:金邊王宮
 royal palace of carditello:卡迪泰洛王宫
 royal palace of caserta:卡塞塔王宮
 royal palace of fez:非斯皇宫
 royal palace of la almudaina:阿尔穆戴纳王宫
 royal palace of la granja de san ildefonso:圣伊尔德丰索宫
+royal palace of luang prabang:琅勃拉邦皇宫
 royal palace of madrid:王宫
 royal palace of madrid:马德里王宫
+royal palace of madrid:马德里皇宫
 royal palace of milan:米兰王宫
+royal palace of milan:米兰皇宫
 royal palace of naples:那不勒斯王宫
 royal palace of portici:波蒂奇宫
 royal palace of rabat:拉巴特皇宫
 royal palace of turin:都灵王宫
+royal palace of venice:威尼斯皇宫
 royal palace of yogyakarta:日惹皇宫
 royal palace was the:皇家宫殿是这
 royal palace:皇宫
@@ -19319,6 +19413,7 @@ royal society meetings:皇家学会会议
 royal society of artists:皇家学会的艺术家
 royal society of arts and sciences in gothenburg:哥德堡皇家艺术与科学院
 royal society of arts:皇家藝術學會
+royal society of canada:加拿大皇家学会
 royal society of canada:加拿大皇家學會
 royal society of chemistry green chemistry:英国皇家化学学会绿色化学
 royal society of chemistry organic chemistry:英国皇家化学学会有机化学
@@ -19326,9 +19421,13 @@ royal society of chemistry publishing:英国皇家化学学会出版
 royal society of chemistry representatives:英国皇家化学学会代表
 royal society of chemistry:英国皇家化学学会
 royal society of edinburgh:爱丁堡皇家学会
+royal society of great britain:英国皇家学会
 royal society of literature:皇家文學學會
+royal society of london:伦敦皇家学会
 royal society of medicine:皇家醫學會
 royal society of new south wales:新南威尔士皇家学会
+royal society of new zealand:新西兰皇家学会
+royal society of st. george:圣乔治皇家学会
 royal society open science:皇家学会开放科学
 royal society prizes for science books:英国皇家学会科学图书奖
 royal society publish:皇家学会发表
@@ -19479,7 +19578,12 @@ royal united kingdom:皇家英国
 royal united services institute:皇家聯合研究所
 royal university center:皇家大学中心
 royal university hospital:皇家大学医院
+royal university of bhutan:不丹皇家大學
+royal university of ireland:愛爾蘭皇家大學
+royal university of malta:马耳他皇家大学
 royal university of phnom penh:金边皇家大学
+royal university of phnom penh:金邊皇家大學
+royal university of rome:罗马皇家大学
 royal university:皇家大学
 royal university:皇家大學
 royal vacation:皇家度假
@@ -19501,6 +19605,7 @@ royal victorian chain:皇家維多利亞鏈章
 royal victorian order:皇家維多利亞勳章
 royal view hotel:帝景酒店
 royal villa of monza:蒙扎的皇家别墅
+royal villa of monza:蒙扎皇家别墅
 royal villa:六也別墅
 royal villa:皇家别墅
 royal village:皇家村

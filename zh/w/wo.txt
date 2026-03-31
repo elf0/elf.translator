@@ -1368,6 +1368,8 @@ wolves need each other:狼需要彼此
 wolves need:狼需要
 wolves needed me:狼需要我
 wolves occasionally:狼偶尔
+wolves of the night:夜狼
+wolves of the sea:海狼
 wolves or bear:狼或熊
 wolves or brown bear:狼或棕熊
 wolves or dog:狼或狗
@@ -3512,6 +3514,9 @@ women now:妇女现在
 women obey:女人服从
 women obtain:妇女获得
 women obviously:女人显然
+women of china:中华人民共和国妇女
+women of china:中国妇女
+women of china:中國女人
 women of color:女人的颜色
 women of color:妇女的颜色
 women of colour:女人的颜色
@@ -3523,9 +3528,12 @@ women of earth:女人的地球
 women of history:妇女的历史
 women of hope:妇女的希望
 women of ideal:女人的理想
+women of russia:俄罗斯女人
 women of the bauhaus:包豪斯中的女性
 women of the tang dynasty:唐宫燕
 women of the world:世界女人奇譚
+women of troy:特洛伊女人
+women of troy:特洛伊妇女
 women of various:妇女的各种
 women offer:女人提供
 women office:妇女办公室
@@ -9121,6 +9129,7 @@ workers club:工人俱乐部
 workers come from:工人来自
 workers come:工人来
 workers committee:工人委员会
+workers communist party of france:法国工人共产党
 workers communist party:工人共产党
 workers complete:工人完成
 workers consciousness:工人意识
@@ -9316,10 +9325,25 @@ workers participate:工人参与
 workers participate:工人参加
 workers participation:工人参与
 workers party leader:工人党领袖
+workers party of america:美国工人党
 workers party of bangladesh:孟加拉国工人党
+workers party of bangladesh:孟加拉工人党
+workers party of belgium:比利时工人党
+workers party of brazil:巴西工人党
 workers party of britain:不列顛工人黨
+workers party of ethiopia:埃塞俄比亚工人党
+workers party of ethiopia:衣索比亞工人党
+workers party of finland:芬兰工人党
+workers party of hungary:匈牙利工人党
 workers party of india:印度工人党
+workers party of ireland:爱尔兰工人党
 workers party of jamaica:牙买加工人党
+workers party of luxembourg:卢森堡工人党
+workers party of new zealand:新西兰工人党
+workers party of singapore:新加坡工人党
+workers party of the united states:美国工人党
+workers party of turkey:土耳其工人党
+workers party of vietnam:越南工人党
 workers party youth:工人党青年
 workers party:工人党
 workers peace:工人和平
@@ -11735,6 +11759,17 @@ world cup need:世界杯需要
 world cup needs:世界杯需要
 world cup news:世界杯新闻
 world cup now:世界杯现在
+world cup of baseball:棒球世界盃
+world cup of beach soccer:沙灘足球世界盃
+world cup of darts:飛鏢世界杯
+world cup of golf:高尔夫球世界杯
+world cup of golf:高爾夫球世界盃
+world cup of hockey:曲棍球世界杯
+world cup of rugby:橄榄球世界杯
+world cup of ski mountaineering:滑雪登山世界杯
+world cup of soccer:足球世界杯
+world cup of soccer:足球世界盃
+world cup of wrestling:摔跤世界杯
 world cup officials:世界杯官员
 world cup on:世界杯上面
 world cup online:世界杯在线
@@ -13686,15 +13721,18 @@ world of adventure:世界的冒险
 world of adventure:世界的冒險
 world of angri:世界的安格里
 world of art:世界的艺术
+world of art:艺术世界
 world of beauty trail:美的社區步道
 world of changes:世界的变化
 world of clown:世界的小丑
 world of coca cola:可口可樂世界
+world of coca-cola:可口可乐世界
 world of coca-cola:可口可樂世界
 world of color:芊彩餐廳
 world of commerce:世界的商业
 world of confrontation:世界的对抗
 world of course:世界当然
+world of dance:舞蹈世界
 world of darkness:世界的黑暗
 world of darkness:黑暗世界
 world of design:世界的设计
@@ -13711,30 +13749,43 @@ world of glass:世界的玻璃
 world of global supply chain:世界的全球供应链
 world of goo:粘粘世界
 world of good:世界的善
+world of greyhawk:灰鷹世界
 world of horror:恐怖的世界
 world of hurt:世界的伤害
 world of illegal:世界的非法
 world of illusion:世界的錯覺
+world of islam:伊斯兰教世界
 world of issues:世界的问题
+world of kids:儿童世界
 world of london:世界的伦敦
 world of machine vision components:世界的机器视觉组件
+world of magic:魔法世界
+world of martial arts:武術世界
 world of military:世界的军事
+world of motion:运动世界
 world of murder:世界的谋杀
 world of musician professor:世界的音乐家教授
 world of musician:世界的音乐家
 world of open source:世界的开放源代码
 world of our city:世界的我们的城市
+world of pain:西班牙世界
 world of paper:世界的纸
 world of physics:世界的物理学
 world of professional digital photography:世界的专业数码摄影
 world of professional:世界的专业
+world of radio:无线电世界
 world of science:世界的科学
+world of science:科学世界
 world of scientific:世界的科学
 world of shadow:世界的阴影
 world of smartphone:世界的智能手机
+world of soccer:足球世界
 world of soul:世界的灵魂
 world of speed:世界的速度
+world of speed:速度世界
 world of spirit:世界的精神
+world of sport:运动世界
+world of sports:运动世界
 world of tank:世界的坦克
 world of tanks game:坦克世界游戏
 world of tanks knowledge base:坦克世界知识库
@@ -14499,6 +14550,7 @@ world series drought:世界系列干旱
 world series game:世界系列游戏
 world series most valuable player award:世界大賽最有價值球員獎
 world series of darts:世界飞镖大赛
+world series of golf:高爾夫球世界大賽
 world series of mahjong:世界麻將大賽
 world series of poker bracelet:世界撲克大賽手鐲
 world series of poker champion:世界扑克大赛冠军
@@ -16353,7 +16405,9 @@ worship of angel:崇拜的天使
 worship of christ:崇拜的基督
 worship of god:崇拜的上帝
 worship of god:崇拜的神
+worship of nature:自然崇拜
 worship of the living:生祠
+worship of the sun:太阳崇拜
 worship one:崇拜一
 worship opportunities:崇拜机会
 worship other god:崇拜其他的神

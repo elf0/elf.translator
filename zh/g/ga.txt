@@ -2139,6 +2139,7 @@ gallery network:画廊网络
 gallery notice:画廊注意
 gallery now:画廊现在
 gallery object:画廊对象
+gallery of apollo:阿波罗画廊
 gallery of beauties:美人画廊
 gallery of flags of dependent territories:属地旗帜列表
 gallery of head of government standards:政府首脑旗帜列表
@@ -4030,10 +4031,15 @@ game obstacle:游戏障碍
 game obviously:游戏显然
 game of all time:游戏的所有时间
 game of chance:博弈遊戲
+game of chance:机会游戏
+game of danger:危险游戏
 game of dares:大膽遊戲
+game of death:死亡游戏
 game of death:死亡遊戲
 game of games:游戏的游戏
 game of honor:游戏的荣誉
+game of life:生命游戏
+game of logic:逻辑游戏
 game of outlaws:猎恶游戏
 game of skill:技巧遊戲
 game of statue:游戏的雕像
@@ -4043,6 +4049,7 @@ game of the amazons:亞馬遜棋
 game of the goose:賽鵝圖
 game of the seven kingdoms:七国象棋
 game of the three kingdoms:三國暗棋
+game of war:战争游戏
 game offer:游戏提供
 game office:游戏办公室
 game officials:游戏官员
@@ -5239,12 +5246,16 @@ games noodle:游戏面条
 games now:游戏现在
 games nurse:游戏护士
 games of all time:游戏的所有时间
+games of chance:机会游戏
 games of chance:游戏的机会
 games of incomplete information:游戏的不完全信息
 games of luck:游戏的运气
 games of mathematics:游戏的数学
 games of patience:游戏的耐心
 games of skill:游戏的技能
+games of strategy:战略游戏
+games of strategy:策略游戏
+games of the future:未来游戏
 games of the small states of europe:歐洲小國運動會
 games off:游戏关闭
 games offer:游戏提供
@@ -11586,6 +11597,7 @@ gaozi:高資街道
 gaozi:高资街道
 gaozituo:高子坨
 gaozjiazhuang:高家庄
+gaozu of southern han:南汉高祖
 gaozu:高祖
 gaozui:高咀
 gaozuicun:高嘴村
@@ -12300,6 +12312,7 @@ garden of chinese zodiac:生肖倩影 – 童樂苑
 garden of cultivation:艺圃
 garden of eden has eight:伊甸園有八
 garden of eden:伊甸園
+garden of england:英格兰花园
 garden of erudition:博學園
 garden of exotic plants:趣异植物园
 garden of exotic plants:趣異植物園
@@ -12309,6 +12322,9 @@ garden of four seasons:四季同馨 - 廣蔭庭
 garden of gethsemane:客西马尼园
 garden of harmonious interests:xié qù yuán
 garden of harmonious interests:谐趣园
+garden of heaven:天堂花园
+garden of hesperides:赫斯珀里得斯花园
+garden of holland:荷兰花园
 garden of joy:怡庭
 garden of life:「生命·愛」花園
 garden of mau san:茂生園農莊
@@ -12316,6 +12332,8 @@ garden of medicinal plants:药用植物园
 garden of medicinal plants:藥用植物園
 garden of memories:howick尼克松女士小园
 garden of ninfa:寧芙花園
+garden of paradise:天堂花园
+garden of peace:和平花园
 garden of pleasance:怡园
 garden of principal shin:辛園
 garden of queen amalia:罗马古城
@@ -15633,6 +15651,8 @@ gazette date:公报日期
 gazette had been:公报已经
 gazette he:公报他
 gazette news:公报新闻
+gazette of madrid:马德里公报
+gazette of the united states:美国公报
 gazette office:公报办公室
 gazette questions:公报问题
 gazette report:公报报告

@@ -506,39 +506,72 @@ academy news:学院新闻
 academy nomination:学院提名
 academy now:学院现在
 academy ocean:学院海洋
+academy of achievement:成就学院
 academy of aerospace liquid propulsion technology:航天推进技术研究院
 academy of aerospace solid propulsion technology:航天动力技术研究院
 academy of agricultural science:农科院站
+academy of agriculture:农业学院
+academy of antwerp:安特卫普学院
 academy of applied pharmaceutical sciences:加拿大制药技术学院
+academy of architecture:建筑学院
 academy of art university was founded in:旧金山艺术大学成立于
 academy of art university:旧金山艺术大学
+academy of art:艺术学院
 academy of arts & design:美术学院
 academy of arts & design:美術學院
 academy of arts and design building:美术学院大楼
 academy of arts and design building:美術學院大樓
+academy of athens:雅典学院
+academy of berlin:柏林学院
+academy of budapest:布达佩斯学院
+academy of business administration:工商管理学院
 academy of conservatory building:音乐学院楼
 academy of country music awards:乡村音乐学院奖
+academy of country music:乡村音乐学院
+academy of design:设计学院
+academy of drama:戏剧学院
 academy of engineering:工程院
+academy of esperanto:世界语学院
+academy of europe:欧洲学院
 academy of finance - aof:财政学院
+academy of finance:财政学院
+academy of finance:金融学院
 academy of fine arts building:美术学院楼
 academy of fine arts vienna twice:维也纳美术学院两次
 academy of fine arts vienna was established in:维也纳美术学院成立于
 academy of fine arts vienna:维也纳美术学院
+academy of football:足球学院
 academy of foreign intelligence:对外情报学院
+academy of geneva:日内瓦学院
+academy of history:历史学院
+academy of information technology:信息技术学院
 academy of korean studies:韓國學中央研究院
+academy of kraków:克拉科夫学院
+academy of law:法律学院
+academy of management:管理学院
+academy of marxism:马克思主义学院
 academy of media arts cologne offer:科隆媒体艺术学院提供
 academy of media arts cologne:科隆媒体艺术学院
+academy of medicine:医学学院
 academy of military medical sciences:中国人民解放军军事科学院军事医学研究院
 academy of military science:軍事科學院
 academy of motion picture arts and sciences:电影艺术与科学学院
+academy of music:音乐学院
 academy of national defense science:朝鲜国防科学院
+academy of natural sciences:自然科学学院
+academy of parma:帕尔马学院
 academy of people's police:人民警察学院
 academy of performing arts in bratislava:布拉迪斯拉发表演艺术学院
 academy of performing arts in prague:布拉格表演艺术学院
 academy of persian language and literature:波斯語暨文學研究院
+academy of philadelphia:费城学院
+academy of plato:柏拉图学院
 academy of political science and law building:政法学院楼
 academy of public security forces:澳門保安部隊高等學校
+academy of saint joseph:圣约瑟夫学院
 academy of san carlos:圣卡洛斯学院
+academy of science and technology:科技学院
+academy of science:科学学院
 academy of sciences and industry research:科学院和工业研究
 academy of sciences award:科学院授予
 academy of sciences be:科学院成为
@@ -582,9 +615,17 @@ academy of sciences website:科学院网站
 academy of sciences:科学院
 academy of sciences:科学院站
 academy of sciences:科學院
+academy of social science:社会科学学院
 academy of st martin in the fields:圣马丁室内乐团
+academy of st petersburg:圣彼得堡学院
+academy of state administration:国家管理学院
+academy of technologies:技术学院
+academy of technology:技术学院
+academy of technology:科技学院
 academy of the hebrew language:希伯來語言學院
 academy of the social sciences in australia:澳洲社會科學院
+academy of theology:神学学院
+academy of vilnius:维尔纽斯学院
 academy offer:学院提供
 academy office:学院办公室
 academy officials:学院官员
@@ -1642,6 +1683,9 @@ acceleration levels:加速度水平
 acceleration limit:加速度限制
 acceleration match:加速度匹配
 acceleration measurement:加速度测量
+acceleration of free fall:自由落體加速度
+acceleration of gravity:引力加速度
+acceleration of gravity:重力加速度
 acceleration parameter:加速度参数
 acceleration peak:加速度峰值
 acceleration range:加速度范围
@@ -12786,6 +12830,7 @@ acid molecule:酸分子
 acid molecules:酸分子
 acid not:酸不是
 acid ocean:酸的海洋
+acid of carbon:碳酸
 acid or alkali poisoning:酸或碱中毒
 acid or alkali:酸或碱
 acid or enzyme:酸或酶
@@ -14005,6 +14050,7 @@ acrophyseter:尖喙鲸屬
 acropimpla:顶姬蜂属
 acropogon:茎花桐属
 acropole:雅典卫城
+acropolis museum of athens:雅典卫城博物馆
 acropolis museum:卫城博物馆
 acropolis of athens:雅典衛城
 acropolis of rhodes:罗得卫城
@@ -14354,9 +14400,14 @@ act new zealand:行動紐西蘭
 act now:行动现在
 act of abjuration:荷兰独立宣言
 act of congress:美國國會法令
+act of faith:信仰行动
 act of independence of lithuania:立陶宛獨立法案
+act of law:法律行动
 act of parliament:國會法令
 act of restoration of the ukrainian state:乌克兰国家恢复法案
+act of revenge:复仇行动
+act of state:国家行动
+act of terror:恐怖行动
 act of the re establishment of the state of lithuania:立陶宛復國法案
 act of valor:勇者行动
 act on national flag and anthem:国旗及国歌相关法律

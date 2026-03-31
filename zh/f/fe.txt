@@ -315,6 +315,7 @@ fear obstacle:恐惧障碍
 fear of accusation:恐惧的指控
 fear of all those:恐惧的所有那些
 fear of annihilation:恐惧的湮灭
+fear of castration:阉割恐惧
 fear of children:恐童
 fear of choice:恐惧的选择
 fear of clown:恐惧的小丑
@@ -608,6 +609,7 @@ feather lake:羽毛湖
 feather mattress:羽毛床垫
 feather mountain:羽山
 feather necklace:羽毛项链
+feather of truth:真理羽毛
 feather or memory foam pillow:羽毛或记忆泡沫枕头
 feather palm forest:羽毛棕榈森林
 feather palm:羽毛棕榈
@@ -975,6 +977,7 @@ federal air marshal service:联邦空中警察署
 federal air transport agency:俄罗斯联邦航空运输署
 federal air:聯邦航空
 federal and civil:联邦的和公民的
+federal antimonopoly service of russia:俄羅斯聯邦反壟斷局
 federal antimonopoly service:聯邦反壟斷局
 federal aviation administration (usa):联邦航空管理局（美国
 federal aviation administration (yhdysvallat):联邦航空管理局（美国
@@ -1073,6 +1076,8 @@ federal constitution and federal law:联邦宪法和联邦法律
 federal constitution as well as:联邦宪法以及
 federal constitution court will:联邦宪法法院会
 federal constitution court:联邦宪法法院
+federal constitution of malaysia:马来西亚联邦宪法
+federal constitution of switzerland:瑞士联邦宪法
 federal constitution:联邦宪法
 federal constitution:联邦的宪法
 federal constitutional court:德国联邦宪法法院
@@ -1080,6 +1085,7 @@ federal control:联邦的控制
 federal corporation:泰豐輪胎
 federal corruption investigation:联邦的腐败调查
 federal corruption:联邦的腐败
+federal council of switzerland:瑞士联邦院
 federal council:联邦院
 federal court accept:联邦法院接受
 federal court agree:联邦法院同意
@@ -1102,6 +1108,8 @@ federal court of appeal:联邦法院的上诉
 federal court of australia:澳大利亚联邦法院
 federal court of justice:德国联邦最高法院
 federal court of malaysia:马来西亚联邦法院
+federal court of switzerland:瑞士联邦法院
+federal court of the united states:美国联邦法院
 federal court order:联邦法院命令
 federal court recently:联邦法院最近
 federal court show:联邦法院显示
@@ -1127,6 +1135,10 @@ federal district court:聯邦地區法院
 federal district courts:聯邦地區法院
 federal district judge repeal:聯邦地區法官廢除
 federal district judge:聯邦地區法官
+federal district of brazil:巴西联邦区
+federal district of brazil:巴西聯邦區
+federal district of mexico:墨西哥联邦区
+federal district of mexico:墨西哥聯邦區
 federal district:联邦区
 federal district:聯邦區
 federal district:聯邦地區
@@ -1335,10 +1347,26 @@ federal government needs:联邦政府需要
 federal government networks:联邦政府网络
 federal government now provide:联邦政府现在提供
 federal government now:联邦政府现在
+federal government of australia:澳大利亚联邦政府
+federal government of australia:澳洲联邦政府
+federal government of belgium:比利时联邦政府
 federal government of belgium:比利時聯邦政府
+federal government of brazil:巴西联邦政府
+federal government of canada:加拿大联邦政府
+federal government of ethiopia:埃塞俄比亚联邦政府
 federal government of germany:德国内阁
+federal government of germany:德国联邦政府
+federal government of india:印度联邦政府
+federal government of iraq:伊拉克联邦政府
+federal government of malaysia:馬來西亞联邦政府
+federal government of malaysia:马来西亚联邦政府
+federal government of mexico:墨西哥联邦政府
+federal government of russia:俄罗斯联邦政府
+federal government of russia:俄羅斯联邦政府
 federal government of somalia as well as:索马里联邦政府以及
 federal government of somalia:索马里联邦政府
+federal government of switzerland:瑞士联邦政府
+federal government of the united states:美国联邦政府
 federal government of the united states:美國聯邦政府
 federal government offer:联邦政府提供
 federal government office:联邦政府办公室
@@ -1590,9 +1618,17 @@ federal records:联邦的记录
 federal register:聯邦公報
 federal report:联邦的报告
 federal representatives:联邦的代表
+federal republic of brazil:巴西聯邦共和國
+federal republic of cameroon:喀麥隆聯邦共和國
 federal republic of central america:中美洲联邦共和国
+federal republic of central america:中美洲聯邦共和國
 federal republic of mindanao:棉兰老联邦共和国
+federal republic of nigeria:奈及利亞聯邦共和國
+federal republic of nigeria:尼日利亞聯邦共和國
+federal republic of somalia:索馬利亞聯邦共和國
+federal republic of somalia:索馬里聯邦共和國
 federal republic of yugoslavia:南斯拉夫联盟共和国
+federal republic of yugoslavia:南斯拉夫聯邦共和國
 federal republic:聯邦共和國
 federal requirements and community:联邦的要求和社区
 federal requirements:联邦的要求
@@ -1789,6 +1825,7 @@ federation member:联盟成员
 federation members:联盟成员
 federation model:联盟模型
 federation needs:联盟需要
+federation of agriculture:农业联盟
 federation of american scientists:美國科學家聯盟
 federation of arab republics:阿拉伯共和國聯邦
 federation of asian chemical societies:亚洲化学学会联合会
@@ -1801,6 +1838,7 @@ federation of disabled persons:错那县残疾人联合会
 federation of ethiopia and eritrea:埃塞俄比亞和厄立特里亞聯邦
 federation of european biochemical societies:欧洲生物化学联合会
 federation of expellees:被驱逐者联合会
+federation of freedom:自由联盟
 federation of gay games:同乐运动会联合会
 federation of german industries:德国工业联合会
 federation of hong kong and kowloon labour unions:港九勞工社團聯會
@@ -1810,15 +1848,20 @@ federation of international bandy:國際班迪球聯合會
 federation of international polo:國際馬球總會
 federation of international robot soccer association:國際機器人足球協會
 federation of korean trade unions:韩国劳动组合总联盟
+federation of labor:工人联盟
+federation of labour:工人联盟
 federation of malaya agreement:马来亚联合邦协议
 federation of malaya independence:马来亚联合邦独立
 federation of malaya:马来亚联合邦
+federation of malaya:马来亚联盟
+federation of malaysia:马来西亚联盟
 federation of medical students taiwan:台灣醫學生聯合會
 federation of nigeria:尼日利亚联邦
 federation of public housing estates:公屋聯會
 federation of rhodesia and nyasaland:羅德西亞與尼亞薩蘭聯邦
 federation of south arabia:南阿拉伯聯邦
 federation of states:联邦制的国家
+federation of students:学生联盟
 federation of the emirates of south arabia:南阿拉伯酋长国联邦
 federation of the socialist workers of france:法國社會主義工人聯盟
 federation of trade unions of kazakhstan:哈萨克斯坦工会联合会
@@ -3719,8 +3762,11 @@ felli:小蝶跳棋
 fellodistomidae:壮穴科
 fellow healty box:費洛檬
 fellow honor:院士荣誉
+fellow of american academy of arts and sciences:美国文理科学院院士
+fellow of royal society of edinburgh:爱丁堡皇家学会院士
 fellow of the royal astronomical society:皇家天文学会院士
 fellow of the royal society:皇家学会院士
+fellow of the world academy of sciences:世界科学院院士
 fellow traveller:同路人
 fellow:院士
 fellowship of the royal society of edinburgh:爱丁堡皇家学会会员
@@ -9734,6 +9780,7 @@ ferdinand hamer:韩默理
 ferdinand i and his wife:斐迪南一世和他的妻子
 ferdinand i:斐迪南一世
 ferdinand ii became:斐迪南二世成为
+ferdinand ii of aragon:阿拉贡斐迪南二世
 ferdinand ii:斐迪南二世
 ferdinand iii:斐迪南三世
 ferdinand verbiest:南怀仁
@@ -10864,6 +10911,7 @@ festival meal:节日餐
 festival media:节日媒体
 festival mode:节日模式
 festival now:节日现在
+festival of india:印度节日
 festival of political songs:政治歌曲節
 festival of the lion king:獅子王慶典
 festival offer:节日提供

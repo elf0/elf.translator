@@ -3502,6 +3502,9 @@ nobiliary particle:貴族姓氏助詞
 nobility amendment:貴族修正案
 nobility and religious:貴族和宗教的
 nobility cooperate:貴族合作
+nobility of denmark:丹麥貴族
+nobility of france:法國貴族
+nobility of spain:西班牙貴族
 nobility of spain:貴族的西班牙
 nobility still:貴族仍然
 nobility:貴族
@@ -5160,7 +5163,9 @@ nomen nudum:裸名
 nomenclature describe:命名法描述
 nomenclature include:命名法包括
 nomenclature it:命名法它
+nomenclature of inorganic chemistry:无机化学命名法
 nomenclature of monoclonal antibodies:单克隆抗体命名法
+nomenclature of organic chemistry:有机化学命名法
 nomenclature of territorial units for statistics:地域統計單位命名法
 nomenclature should be:命名法应该是
 nomenclature:命名法
@@ -10682,6 +10687,9 @@ north island giant moa:北方巨恐鳥
 north island line:北港島綫
 north island main trunk:北島主幹鐵路線
 north island northeast:北岛东北
+north island of new zealand:新西兰北岛
+north island of new zealand:新西蘭北島
+north island of new zealand:紐西蘭北島
 north island residents:北岛居民
 north island robin:新西兰鸲鹟
 north island said:北岛说
@@ -11416,6 +11424,7 @@ north norwegian:北挪威
 north nujiang road:nùjiāng běilù
 north nujiang road:怒江北路
 north ocean:北洋
+north of center:中心北
 north of chang-an:北長安
 north of cilou:北崎漏
 north of ding-an:北頂安
@@ -11426,10 +11435,14 @@ north of me:北的我
 north of mecca:北的麥加
 north of nan-ding bridge:南萣橋北
 north of port:北的港口
+north of portugal:葡萄牙北部大區
 north of public housing:國宅北
 north of sec. 4 simen rd.:西門路四段北
+north of shanghai:上海北
 north of shangri-la:北的香格里拉
 north of si-shu:北喜樹
+north of south:南北
+north of south:大阪北
 north of town:北的城镇
 north of yan-cheng:北鹽埕
 north of yongkang industrial park:永康工業區北
@@ -11909,6 +11922,9 @@ north shore mail:北岸邮件
 north shore medical center:北岸醫學中心
 north shore monster:北岸水怪
 north shore mountain:北岸山
+north shore of long island:長島北岸
+north shore of sydney:悉尼北岸
+north shore of sydney:雪梨北岸
 north shore park:北岸公园
 north shore piano:北岸钢琴
 north shore rescue:北岸救援
@@ -11961,6 +11977,7 @@ north south transport corridor:北南运输走廊
 north south university:北南大学
 north south:北南
 north springfield:北斯普林菲尔德
+north square of chongqing north railway station:重庆北站北广场
 north square of hongqiao park:虹桥公园北广场
 north square of nanjing south railway station:南京南站北广场
 north square of nanjing south railway station:南京南站北廣場
@@ -12623,7 +12640,12 @@ northeast normal university professor:东北师范大学教授
 northeast normal university track and field gymnasium:东北师范大学田径馆
 northeast normal university track and field gymnasium:東北師範大學田徑館
 northeast normal university:东北师范大学
+northeast of brazil:巴西东北部
+northeast of brazil:巴西東北部
 northeast of course:东北当然
+northeast of england:英格兰东北
+northeast of england:英格兰东北部
+northeast of england:英格蘭東北部
 northeast ohio:东北俄亥俄
 northeast ohio:东北俄亥俄州
 northeast pacific ocean:东北太平洋
@@ -12649,6 +12671,9 @@ northeast railway:东北铁路
 northeast region include:东北地区包括
 northeast region manufacturing technology:东北地区制造业技术
 northeast region museum:东北地区博物馆
+northeast region of brazil:巴西东北部
+northeast region of india:印度东北地区
+northeast region of india:印度东北部
 northeast region:东北区域
 northeast region:东北地区
 northeast region:东北部
@@ -13221,6 +13246,8 @@ northern praying mantis:螳螂拳
 northern premier league:英格蘭北部超級聯賽
 northern problems:北方的问题
 northern producer:北方的生产者
+northern province of sri lanka:斯里兰卡北部省
+northern province of sri lanka:斯里蘭卡北部省
 northern province, sierra leone:北方省
 northern province, zambiya:北方省 (赞比亚)
 northern province:北方的省
@@ -13242,6 +13269,7 @@ northern redbelly dace:北美紅腹魚
 northern region branch office, highway bureau:公路局北區養護工程分局
 northern region currently:北部地區目前
 northern region engineering office, taiwan water corporation:台灣自來水公司 北區工程處
+northern region of brazil:巴西北部地區
 northern region office, national property administration, mof:財政部國有財產署北區分署
 northern region water resources office:石門大草坪(北區水資源局)
 northern region, malawi:北部区
@@ -13635,6 +13663,10 @@ northwest nepal:西北尼泊尔
 northwest new mexico:西北新墨西哥州
 northwest normal university:西北师范大学
 northwest of corsica:西北的科西嘉
+northwest of england:英格兰西北
+northwest of england:英格兰西北部
+northwest of england:英格蘭西北
+northwest of england:英格蘭西北部
 northwest ohio:西北俄亥俄
 northwest ohio:西北俄亥俄州
 northwest ordinance:西北土地法令
@@ -13688,6 +13720,8 @@ northwest state:西北州
 northwest students have opportunities:西北学生有机会
 northwest students:西北学生
 northwest suburb:西北郊區
+northwest territories of canada:加拿大西北地区
+northwest territories of canada:加拿大西北地區
 northwest territories:西北地区
 northwest territories:西北地區
 northwest territory:西北領地
@@ -13704,6 +13738,7 @@ northwest university became:西北大学成为
 northwest university chang'an campus:西北大学长安校区
 northwest university first hospital:西北大学第一医院
 northwest university hospital:西北大学医院
+northwest university of china:中国西北大学
 northwest university of political science and law chang’an campus:西北政法大学长安校区
 northwest university of political science and law yanta campus:西北政法大学雁塔校区
 northwest university of politics and law:西北政法大学

@@ -1471,11 +1471,15 @@ mode of baptism:模式的洗禮
 mode of comedy:模式的喜剧
 mode of development:模式的开发
 mode of existence:模式的存在
+mode of expression:表达模式
 mode of imitation:模式的模仿
 mode of instruction soon:模式的指令很快
 mode of knowledge:模式的知识
 mode of life:模式的生活
+mode of life:生活模式
+mode of mechanical ventilation:機械通氣模式
 mode of online education:模式的在线教育
+mode of operation:操作模式
 mode of overseas shop:模式的海外购物
 mode of overseas:模式的海外
 mode of presence:模式的存在
@@ -2306,6 +2310,7 @@ model of memory:模型的记忆
 model of personality:模型的人格
 model of richard:模型的理查德
 model of skills:模型的技能
+model of the solar system:太阳系模型
 model offensive:模型攻势
 model offer:模型提供
 model office:模型办公室
@@ -3883,6 +3888,7 @@ modern animals:现代动物
 modern animals:现代的动物
 modern animate:现代动画
 modern animation in the united states:现代美国动画
+modern animation of the united states:美国现代动画
 modern animation:现代动画
 modern answer:现代的回答
 modern answer:现代答案
@@ -4020,6 +4026,7 @@ modern art instruction:现代艺术指令
 modern art market:现代艺术市场
 modern art museum graz:现代美术馆
 modern art museum of fort worth:沃斯堡現代美術館
+modern art museum of new york:纽约现代艺术博物馆
 modern art museum of paris:巴黎现代艺术博物馆
 modern art museum:现代艺术博物馆
 modern art oxford:现代艺术牛津
@@ -6743,6 +6750,7 @@ modern landscape:现代风景
 modern language and business management:现代语言与商业管理
 modern language and business:现代语言与商业
 modern language apps:现代语言应用程序
+modern language association of america:美国现代语言协会
 modern language association:现代语言协会
 modern language association:美國現代語言學會
 modern language center:现代语言中心
@@ -9869,6 +9877,7 @@ modernization of four:现代化的四
 modernization of production systems:现代化的生产系统
 modernization of production:现代化的生产
 modernization of security technology:现代化的安全技术
+modernization of south korea:韩国现代化
 modernization of toy:现代化的玩具
 modernization often:现代化常常
 modernization order:现代化订单
@@ -14288,8 +14297,72 @@ monarch house ii:大華商業大廈
 monarch industry:上阳赋
 monarch italian:君主意大利
 monarch now:君主现在
+monarch of antigua and barbuda:安地卡及巴布達君主
+monarch of antigua and barbuda:安提瓜和巴布达君主
+monarch of antigua and barbuda:安提瓜和巴布達君主
 monarch of art:君主的艺术
+monarch of australia:澳大利亚君主
+monarch of australia:澳洲君主
+monarch of barbados:巴巴多斯君主
+monarch of barbados:巴貝多君主
+monarch of belgium:比利时君主
+monarch of belgium:比利時君主
+monarch of belize:伯利兹君主
+monarch of belize:伯利茲君主
+monarch of belize:貝里斯君主
+monarch of cambodia:柬埔寨君主
+monarch of canada:加拿大君主
+monarch of ceylon:錫蘭君主
+monarch of ceylon:锡兰君主
+monarch of denmark:丹麥君主
+monarch of denmark:丹麦君主
+monarch of england:英格兰君主
+monarch of england:英格蘭君主
+monarch of france:法国君主
+monarch of france:法國君主
+monarch of great britain:英国君主
+monarch of grenada:格林納達君主
+monarch of grenada:格林纳达君主
+monarch of grenada:格瑞那達君主
+monarch of india:印度君主
+monarch of ireland:愛爾蘭君主
+monarch of ireland:爱尔兰君主
+monarch of jamaica:牙买加君主
+monarch of jamaica:牙買加君主
+monarch of lesotho:莱索托君主
+monarch of luxembourg:卢森堡君主
+monarch of luxembourg:盧森堡君主
+monarch of new zealand:新西兰君主
+monarch of new zealand:新西蘭君主
+monarch of new zealand:紐西蘭君主
+monarch of norway:挪威君主
+monarch of pakistan:巴基斯坦君主
+monarch of papua new guinea:巴布亚新几内亚君主
+monarch of papua new guinea:巴布亞新幾內亞君主
+monarch of papua new guinea:巴布亞新畿內亞君主
+monarch of papua new guinea:巴布亞紐幾內亞君主
+monarch of poland:波兰君主
+monarch of poland:波蘭君主
+monarch of portugal:葡萄牙君主
+monarch of saint lucia:圣卢西亚君主
+monarch of saint lucia:聖盧西亞君主
+monarch of saint lucia:聖露西亞君主
+monarch of scotland:苏格兰君主
+monarch of scotland:蘇格蘭君主
+monarch of south africa:南非君主
+monarch of spain:西班牙君主
+monarch of sweden:瑞典君主
+monarch of thailand:泰国君主
+monarch of thailand:泰國君主
+monarch of the netherlands:荷兰君主
+monarch of the netherlands:荷蘭君主
 monarch of the united kingdom:英国君主
+monarch of tonga:東加君主
+monarch of tonga:汤加君主
+monarch of tonga:湯加君主
+monarch of tuvalu:吐瓦魯君主
+monarch of tuvalu:图瓦卢君主
+monarch of tuvalu:圖瓦盧君主
 monarch officials:君主官员
 monarch or parade marshal:君主或游行元帅
 monarch or parliament:君主或议会
@@ -14347,18 +14420,28 @@ monarchy of australia and governor-general of australia:澳大利亚君主和澳
 monarchy of australia:澳大利亚君主
 monarchy of barbados:巴貝多女王
 monarchy of belize:伯利兹君主
+monarchy of britain:英国君主制
 monarchy of cambodia:柬埔寨君主
 monarchy of canada:加拿大君主
+monarchy of canada:加拿大君主制
 monarchy of fiji:斐济君主
+monarchy of france:法国君主制
+monarchy of germany:德国君主制
+monarchy of germany:德國君主制
+monarchy of greece:希腊君主制
 monarchy of grenada:格林纳达君主
+monarchy of italy:意大利君主制
 monarchy of jamaica:牙買加君主
+monarchy of july:七月君主制
 monarchy of lesotho:賴索托君主列表
 monarchy of liechtenstein:列支敦士登君主
 monarchy of luxembourg:卢森堡大公
 monarchy of monaco:摩納哥君主
 monarchy of new zealand:紐西蘭君主
+monarchy of norway:挪威君主制
 monarchy of pakistan:巴基斯坦君主
 monarchy of papua new guinea:巴布亞新畿內亞君主
+monarchy of portugal:葡萄牙君主制
 monarchy of saint kitts and nevis:圣基茨和尼维斯君主
 monarchy of saint lucia:圣卢西亚君主
 monarchy of saint vincent and the grenadines:聖文森及格瑞那丁君主
@@ -14366,9 +14449,13 @@ monarchy of solomon islands:所羅門群島君主
 monarchy of south africa:南非君主
 monarchy of spain:西班牙君主
 monarchy of sweden:瑞典君主
+monarchy of thailand:泰国君主制
 monarchy of thailand:泰國君主
+monarchy of thailand:泰國君主制
 monarchy of the bahamas:巴哈马君主
 monarchy of the netherlands:荷兰君主
+monarchy of the netherlands:荷兰君主制
+monarchy of the united kingdom:英国君主制
 monarchy of tuvalu:圖瓦盧君主
 monarchy or japan:君主制或日本
 monarchy or violate:君主制或违反
@@ -14530,21 +14617,36 @@ monastery now:修道院现在
 monastery nunatak:莫納斯特里冰原島峰
 monastery of alcobaça:阿尔科巴萨修道院
 monastery of arkadi:阿卡迪奥修道院
+monastery of cluny:克吕尼修道院
+monastery of fulda:富尔达修道院
+monastery of great lavra:大拉伏拉修道院
+monastery of horezu:霍雷祖修道院
 monastery of iviron:伊维龙修道院
 monastery of ljubanishta:聖瑙姆修道院
 monastery of mary of thien phuoc:天福圣母丹院
+monastery of montserrat:蒙特塞拉特修道院
 monastery of pedralbes:佩德拉比修道院
+monastery of ripoll:里波尔修道院
 monastery of saint anthony:圣安东尼修道院
+monastery of saint anthony:聖安東尼修道院
 monastery of saint euthymius:聖歐蒂米奧救世主修道院
+monastery of saint george:圣乔治修道院
 monastery of saint john the theologian:神学家圣约翰修道院
+monastery of saint john:圣约翰修道院
 monastery of saint mary deipara:叙利亚修道院
 monastery of saint mary of guadalupe:王家瓜達露佩聖母修道院
 monastery of saint naum:聖瑙姆修道院
 monastery of saint saviour:圣救主修道院
 monastery of saint thaddeus:聖賽迪斯修院
+monastery of saint vincent:圣文森特修道院
 monastery of saint:修道院的圣
+monastery of san paolo:圣保罗修道院
+monastery of san paolo:聖保羅修道院
+monastery of san salvador:聖薩爾瓦多修道院
 monastery of san:修道院的圣
 monastery of sant cugat:圣库加特修道院
+monastery of santa clara:圣克拉拉修道院
+monastery of santo tirso:圣蒂尔苏修道院
 monastery of sister:修道院的姐妹
 monastery of stoudios:斯图狄奥斯修道院
 monastery of toledo:修道院的托萊多
@@ -15296,8 +15398,11 @@ monetaria caputserpentis:雪山寶螺
 monetaria moneta:货贝
 monetaria:货贝属
 monetarism:货币主义
+monetary authority of brunei darussalam:文莱金融管理局
 monetary authority of macao:澳門金融管理局
 monetary authority of macao:澳门金融管理局
+monetary authority of macau:澳門金融管理局
+monetary authority of macau:澳门金融管理局
 monetary authority of singapore even:新加坡金融管理局甚至
 monetary authority of singapore has been:新加坡金融管理局已经
 monetary authority of singapore international:新加坡金融管理局国际
@@ -15439,6 +15544,8 @@ monetary policy needs more:货币政策需要更多
 monetary policy needs:货币政策需要
 monetary policy now:货币政策现在
 monetary policy observation:货币政策观察
+monetary policy of the united states:美国货币政策
+monetary policy of the usa:美国货币政策
 monetary policy officials:货币政策官员
 monetary policy operate:货币政策操作
 monetary policy operation:货币政策操作
@@ -18561,6 +18668,8 @@ monsoon flooding:季风洪水
 monsoon means:季风意味着
 monsoon month:季风月
 monsoon months:季风月
+monsoon of india:印度季风
+monsoon of south asia:南亚季风
 monsoon or typhoon:季风或台风
 monsoon palace:季风宫
 monsoon palace:季风宫殿
@@ -19901,6 +20010,7 @@ montenegrin olympic committee:黑山奧林匹克委員會
 montenegrin passport:黑山护照
 montenegrin perper:蒙特內哥羅佩佩
 montenegrin volunteer corps:黑山志願軍
+montenegrins of kosovo:科索沃蒙特內哥羅人
 montenegrins of kosovo:科索沃蒙特內哥羅族
 montenegrins:蒙特內哥羅人
 montenegro airlines:蒙特內哥羅航空
@@ -20688,6 +20798,7 @@ month of fight:月的战斗
 month of food:月的食物
 month of golf:月的高尔夫球
 month of growth:月的增长
+month of hathor:哈索尔月
 month of language class:月的语言课程
 month of life:月的生活
 month of meeting:月的会议
@@ -22672,17 +22783,21 @@ monument naturel des travertins de truso:特鲁索石灰华自然遗迹
 monument naturel du rocher de sakhidari:萨希达里岩石自然遗迹
 monument netherlands:纪念碑荷兰
 monument nunataks:莫紐門特冰原島峰
+monument of independence:独立纪念碑
 monument of japan kilometre zero (nihombashi):日本公路原點展示碑
 monument of jiangsu road:江苏路纪念碑
 monument of king le thai to:黎太祖黄帝纪念台
 monument of king:纪念碑的国王
 monument of liberty:自由紀念碑
+monument of liberty:自由纪念碑
+monument of lihula:利胡拉纪念碑
 monument of loyalty:大城忠心紀念館
 monument of loyalty:大城忠心纪念馆
 monument of phraya ratsadanupradit mahitsaraphakdi:許心美雕像
 monument of remembrance (gëlle fra):憲法廣場
 monument of silesian insurgents:西里西亚起义纪念碑
 monument of spread light across the land:光被八表
+monument of states:国家纪念碑
 monument of the discoveries:發現者紀念碑
 monument of the four moors:四摩尔人纪念碑
 monument of the great victory of yenangyaung:仁安羌大捷紀念碑
@@ -23433,6 +23548,7 @@ moon not:月亮不是
 moon now:月亮现在
 moon obey:月亮服从
 moon occasionally:月亮偶尔
+moon of jupiter:木星月亮
 moon offer:月球提供
 moon once:月亮一次
 moon once:月亮曾经
@@ -35648,13 +35764,21 @@ mosque learning:清真寺学习
 mosque massacre:清真寺屠杀
 mosque member:清真寺成员
 mosque no longer:清真寺不再
+mosque of bodrum:博德鲁姆清真寺
+mosque of cordoba:科尔多瓦清真寺
 mosque of cristo de la luz:光辉基督清真寺
+mosque of córdoba:科尔多瓦清真寺
+mosque of damascus:大马士革清真寺
 mosque of ibn tulun:伊本·图伦清真寺
 mosque of islamic solidarity:團結清真寺
+mosque of kota iskandar:依斯干达城清真寺
 mosque of kota iskandar:依斯干達城清真寺
+mosque of rome:罗马清真寺
 mosque of rome:羅馬大清真寺
+mosque of selim i:塞利姆一世清真寺
 mosque of sultan ibrahim han:苏尔坦·本·易卜拉欣清真寺
 mosque of the companions:同伴清真寺
+mosque of the prophet:先知清真寺
 mosque office:清真寺办公室
 mosque officials:清真寺官员
 mosque or community center:清真寺或社区中心
@@ -46178,6 +46302,7 @@ motion mode:运动模式
 motion model:运动模型
 motion models:运动模型
 motion module:运动模块
+motion of molecules:分子运动
 motion of no confidence:不信任动议
 motion once:运动一次
 motion optimization:运动优化
@@ -50145,15 +50270,21 @@ mountain of details:山的细节
 mountain of evidence show:山的证据显示
 mountain of evidence:山的证据
 mountain of food waste:山的食物垃圾
+mountain of god:神山
+mountain of gold:金子山
+mountain of gold:金山
 mountain of happiness he:山的幸福他
 mountain of information:山的信息
 mountain of iron:山的铁
 mountain of lie:山的谎言
+mountain of love:愛山
 mountain of metal:山的金属
 mountain of overtime he:山的加班他
 mountain of overtime:山的加班
 mountain of pearl:山的珍珠
 mountain of revolution:山的革命
+mountain of smoke:烟山
+mountain of the sun:太阳山
 mountain of work:山的工作
 mountain offer:山提供
 mountain ok people:山地歐克人
@@ -52681,6 +52812,7 @@ movies no longer:电影不再
 movies now:电影现在
 movies of all time:电影的所有时间
 movies of course:电影当然
+movies of the united states:美国电影
 movies once:电影一次
 movies online:电影在线
 movies only:电影只有

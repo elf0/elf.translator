@@ -1116,6 +1116,7 @@ glass nurse:玻璃护士
 glass object:玻璃对象
 glass observation:玻璃观察
 glass of water theory:杯水主义
+glass of water:水玻璃
 glass office:玻璃办公室
 glass oil lamp:玻璃油灯
 glass oil painting:玻璃油画
@@ -11400,36 +11401,55 @@ glossamia aprion:澳大利亞舌天竺鯛
 glossary cover:词汇表涵盖
 glossary describe:词汇表描述
 glossary include:词汇表包括
+glossary of aerospace engineering:航空航天工程词汇表
+glossary of agriculture:农业词汇表
 glossary of anime and manga:日本動漫迷使用術語列表
+glossary of architecture:建筑学词汇表
 glossary of astronomy:天文學辭彙
 glossary of baseball terms:棒球術語列表
 glossary of basketball terms:籃球術語
+glossary of biology:生物学词汇表
 glossary of brexit terms:英國脫歐術語彙編
 glossary of buddhism:佛教用语列表
 glossary of chemical formulae:有机化合物列表
 glossary of chemistry terms:化学术语词汇表
+glossary of chemistry:化学词汇表
+glossary of civil engineering:土木工程词汇表
 glossary of classical physics:經典物理術語
 glossary of cricket terms:板球术语列表
 glossary of cue sports terms:撞球術語列表
+glossary of ecology:生态学词汇表
+glossary of economics:经济学词汇表
 glossary of entomology terms:鱗翅目術語表
+glossary of environmental science:环境科学词汇表
 glossary of flamenco terms:法蘭明歌詞彙表
 glossary of general topology:拓撲學術語
+glossary of geography:地理学词汇表
+glossary of geology:地质学词汇表
 glossary of golf:高爾夫詞彙
 glossary of graph theory:图论术语
+glossary of graph theory:图论词汇表
 glossary of hinduism terms:印度宗教与哲学词汇列表
 glossary of islam:伊斯蘭教詞彙列表
 glossary of japanese words of dutch origin:日語之荷蘭語借詞
 glossary of japanese words of portuguese origin:日語之葡萄牙語借詞
+glossary of logic:逻辑词汇表
 glossary of mathematical symbols:数学符号表
+glossary of medicine:医学词汇表
 glossary of meteoritics:隕石學辭彙
+glossary of meteorology:气象学词汇表
 glossary of music terminology:音乐术语列表
+glossary of philosophy:哲学词汇表
 glossary of physics:物理学词汇表
+glossary of project management:项目管理词汇表
+glossary of robotics:机器人学词汇表
 glossary of scheme theory:概形論術語
 glossary of sound laws in the indo european languages:印欧语语音定律概览
 glossary of sudoku:数独术语
 glossary of tennis terms:網球術語列表
 glossary of vexillology:旗帜学用语
 glossary of video game terms:電子遊戲術語列表
+glossary of virology:病毒学词汇表
 glossary page:词汇表页
 glossary provides:词汇表提供
 glossary term:词汇表术语

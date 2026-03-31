@@ -11299,8 +11299,10 @@ use of key:使用的关键
 use of label:使用的标签
 use of laboratory:使用的实验室
 use of land:使用的土地
+use of land:土地使用
 use of language:使用的語言
 use of language:使用的语言
+use of language:語言使用
 use of laser:使用的激光器
 use of lighting equipment:使用的照明設備
 use of lighting equipment:使用的照明设备
@@ -11369,6 +11371,7 @@ use of vehicle:使用的车辆
 use of volatile organic compound material:使用的挥发性有机化合物材料
 use of waste heat:使用的废热
 use of water:使用的水
+use of weapons:武器使用
 use of website:使用的网站
 use of white space:使用的白色空间
 use of work equipment:使用的工作設備

@@ -414,6 +414,9 @@ face not yet:脸还没有
 face now:脸现在
 face object:脸对象
 face occasionally:脸偶尔
+face of the moon:月亮脸
+face of the moon:月亮臉
+face of the sun:太阳脸
 face often:脸常常
 face on moon south pole:月球南极人脸
 face on the screen:脸在屏幕上
@@ -1878,6 +1881,7 @@ factories:工厂
 factorio:异星工厂
 factorization attempt:因式分解尝试
 factorization method:因式分解方法
+factorization of polynomials:多项式因式分解
 factorization problem:因式分解问题
 factorization problems:因式分解问题
 factorization:因式分解
@@ -2100,6 +2104,7 @@ factors of production costs:生产要素成本
 factors of production eventually:生产要素最终
 factors of production prices:生产要素价格
 factors of production:生产要素
+factors of safety:安全因素
 factors of security:因素的安全
 factors often:因素常常
 factors on the one hand:因素一方面
@@ -5719,27 +5724,43 @@ fall bitcoin:落下比特币
 fall creek township:福尔克里克镇区
 fall guys:糖豆人
 fall of antwerp:安特卫普围困
+fall of antwerp:安特卫普沦陷
 fall of babylon:巴比倫陷落
 fall of communism in albania:阿爾巴尼亞共產主義政權的垮台
+fall of constantinople:君士坦丁堡沦陷
 fall of constantinople:君士坦丁堡的陷落
+fall of denmark:丹麦沦陷
 fall of edo:江戶開城
 fall of europe:沦陷的欧洲
+fall of france:法国沦陷
 fall of gallipoli:佔領加里波利
 fall of giants:巨人的陨落
+fall of greece:希腊沦陷
+fall of hong kong:香港沦陷
 fall of jericho:耶利哥戰役
+fall of kabul:喀布尔沦陷
 fall of man:人的堕落
 fall of maximilien robespierre:热月政变
 fall of ming:大明劫
 fall of mosul:摩蘇爾陷落
+fall of nanjing:南京沦陷
+fall of nanking:南京沦陷
+fall of paris:巴黎沦陷
 fall of paris:沦陷的巴黎
 fall of phnom penh:金邊陷落
+fall of poland:波兰沦陷
+fall of rome:罗马沦陷
+fall of shanghai:上海沦陷
 fall of singapore:新加坡戰役
+fall of singapore:新加坡沦陷
 fall of the assad regime:阿薩德政權垮台
 fall of the berlin wall and dissolution of the soviet union:柏林墙倒塌和苏联解体
 fall of the berlin wall:柏林墙倒塌
 fall of the fascist regime in italy:格兰迪决议
 fall of the inner german border:德國國內邊界開放
 fall of the western roman empire:罗马帝国的衰落
+fall of wuhan:武汉沦陷
+fall of yugoslavia:南斯拉夫沦陷
 fall out boy:打倒男孩
 fall river township:福尔里弗镇区
 fall rot:紅色方案
@@ -5755,7 +5776,9 @@ falla de anatolia oriental:東安那托利亞斷層
 fallacies of definition:定義謬誤
 fallacinal:迷人醛
 fallacy of accent:加重語氣
+fallacy of begging the question:乞題謬誤
 fallacy of composition:合成謬誤
+fallacy of distribution:分布謬誤
 fallacy of division:分割謬誤
 fallacy of exclusive premises:互斥前提謬誤
 fallacy of four terms:四詞謬誤
@@ -9953,7 +9976,14 @@ family nurse:家庭护士
 family nutrition:家庭营养
 family obligation:家庭义务
 family obviously:家庭显然
+family of ali:阿里科
+family of blood:血液科
+family of jesus:耶稣家庭
+family of jesus:耶穌家庭
+family of love:爱科
+family of man:男性科
 family of origin:原生家庭
+family of plants:植物科
 family of sets:集合族
 family offer:家庭提供
 family office design:家庭办公室设计
@@ -10158,6 +10188,7 @@ family planning organisation:计划生育组织
 family planning organizations:计划生育组织
 family planning phase:计划生育阶段
 family planning policies of china:中华人民共和国计划生育
+family planning policies of china:中国计划生育政策
 family planning policies:计划生育政策
 family planning policy:计划生育政策
 family planning practice:计划生育实践
@@ -15873,6 +15904,11 @@ far east media:远东媒体
 far east movement:遠東韻律
 far east network:远东网络
 far east nondestructive testing:远东无损检测
+far east of russia:俄国远东
+far east of russia:俄罗斯远东
+far east of russia:俄罗斯遠東
+far east of russia:俄羅斯远东
+far east of russia:俄羅斯遠東
 far east or central asia:远东或中亚
 far east organization:遠東機構
 far east partners:远东伙伴
@@ -22500,6 +22536,7 @@ faun and a witch:法翁和一个女巫
 faun and his family:法翁与他的家庭
 faun:法翁
 fauna of australia:澳洲動物相
+fauna of puerto rico:波多黎各動物相
 fauna of scotland:蘇格蘭動物相
 fauna:動物相
 faunis eumeus:串珠環蝶

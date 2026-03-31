@@ -3972,6 +3972,7 @@ meaning of angel:意义的天使
 meaning of classical liberalism:意义的古典自由主义
 meaning of information:意义的信息
 meaning of life is very important:生命的意義是非常重要的
+meaning of life:生命意义
 meaning of life:生命的意義
 meaning of meaning:意义的意义
 meaning only:意义只有
@@ -7631,6 +7632,7 @@ measure ocean health:测量海洋健康
 measure ocean salinity:测量海洋盐度
 measure ocean temperature:测量海洋温度
 measure ocean:测量海洋
+measure of distance:距离测量
 measure of time:测量的时间
 measure of wine from:测量的葡萄酒从
 measure oil:测量油
@@ -9898,6 +9900,8 @@ mechanics march:力学游行
 mechanics module:力学模块
 mechanics monument:力学纪念碑
 mechanics of human sexuality:性的力学
+mechanics of materials:材料力学
+mechanics of soil:土壤力学
 mechanics or farmer:力学或农民
 mechanics phenomena:力学现象
 mechanics predict:力学预测
@@ -10361,6 +10365,7 @@ mechanization level reach:机械化水平达到
 mechanization level:机械化水平
 mechanization levels:机械化水平
 mechanization methods:机械化方法
+mechanization of agriculture:农业机械化
 mechanization of production:机械化的生产
 mechanization of today:机械化的今天
 mechanization operation:机械化操作
@@ -10542,7 +10547,11 @@ medal hopes:奖牌希望
 medal is special:奖牌是特别的
 medal level:奖牌水平
 medal look:奖牌看
+medal of courage:勇氣獎章
+medal of culture:文化獎章
 medal of devotion for national defense:献身国防纪念章
+medal of excellence:卓越獎章
+medal of freedom:自由獎章
 medal of guarding the frontiers:卫国戍边纪念章
 medal of honor award:荣誉勋章授予
 medal of honor games:荣誉勋章游戏
@@ -10551,8 +10560,11 @@ medal of honor reboot:荣誉勋章重新启动
 medal of honor series:荣誉勋章系列
 medal of honor usually:荣誉勋章通常
 medal of honor:荣誉勋章
+medal of honour:榮譽獎章
+medal of liberty:自由獎章
 medal of military valor:银制勇敢勋章
 medal of national defense service:国防服役纪念章
+medal of national defense:國防獎章
 medal of nesterov:涅斯捷羅夫獎章
 medal of peace mission:和平使命纪念章
 medal of pushkin:普希金獎章
@@ -12213,10 +12225,37 @@ media obligation:媒体义务
 media observation:媒体观察
 media observer:媒体观察者
 media obviously:媒体显然
+media of china:中华人民共和国媒体
+media of china:中国媒体
+media of china:中國媒体
 media of choice:媒体的选择
+media of exchange:交换媒介
+media of france:法国媒体
 media of history:媒体的历史
 media of hong kong:香港傳媒
+media of hong kong:香港媒体
+media of japan:日本媒体
+media of korea:朝鲜媒体
+media of korea:韩国媒体
 media of macau:澳門媒體
+media of macau:澳门媒体
+media of malaysia:马来西亚媒体
+media of new york city:纽约市媒体
+media of north korea:朝鲜媒体
+media of north korea:朝鲜民主主义人民共和国媒体
+media of paraguay:巴拉圭媒体
+media of russia:俄罗斯媒体
+media of singapore:新加坡媒体
+media of south korea:韩国媒体
+media of taiwan:台湾媒体
+media of thailand:泰国媒体
+media of the netherlands:荷兰媒体
+media of the people's republic of china:中华人民共和国媒体
+media of the united kingdom:英国媒体
+media of the united states:美国媒体
+media of ukraine:乌克兰媒体
+media of vietnam:越南媒体
+media of zimbabwe:津巴布韦媒体
 media offensive:媒体攻势
 media offer:媒体提供
 media office spokesman:媒体办公室发言人
@@ -13136,6 +13175,10 @@ medical college association:医学院协会
 medical college hospital:医学院医院
 medical college in new york:医学院在纽约
 medical college merge:医学院合并
+medical college of nanchang university:南昌大学医学院
+medical college of new york university:纽约大学医学院
+medical college of ohio:俄亥俄医学院
+medical college of virginia:弗吉尼亚医学院
 medical college of wisconsin:威斯康星醫學院
 medical college ranking:医学院排名
 medical college:医学院
@@ -13700,7 +13743,9 @@ medical university hospital:医科大学医院
 medical university karolinska institute:医科大学卡罗林斯卡学院
 medical university of graz:格拉茨医科大学
 medical university of innsbruck:因斯布鲁克医科大学
+medical university of lodz:罗兹医科大学
 medical university of lublin:盧布林醫科大學
+medical university of the americas:美洲医科大学
 medical university of vienna:维也纳医科大学
 medical university study:医科大学研究
 medical university:医科大学
@@ -20079,6 +20124,8 @@ melody make:旋律制造
 melody meaning:旋律意义
 melody movies:旋律电影
 melody nursery:美樂幼兒園
+melody of memory:記憶旋律
+melody of memory:记忆旋律
 melody of oblivion:忘却的旋律
 melody of youth:青春旋律
 melody or accompaniment:旋律或伴奏
@@ -20695,7 +20742,10 @@ member now:成员现在
 member nurse:成员护士
 member object:成员对象
 member of aids:成员的艾滋病
+member of cabinet:内阁成员
+member of chamber of deputies:众议院成员
 member of customer support:成员的客户支持
+member of house of representatives:众议院成员
 member of parliament and foreign affairs spokesperson:国会议员和外交事务发言人
 member of parliament datuk seri:国会议员拿督斯里
 member of parliament david:国会议员大卫
@@ -20706,14 +20756,18 @@ member of parliament propose:国会议员提议
 member of parliament proposed:国会议员提议
 member of parliament robert:国会议员罗伯特
 member of parliament william:国会议员威廉
+member of parliament:国会成员
 member of parliament:国会议员
 member of pointer:成员的指针
 member of society:成员的社会
 member of standard:成员的标准
 member of the chinese academy of engineering:中国工程院院士
 member of the european parliament:歐洲議會議員
+member of the european union:欧盟成员
+member of the government:政府成员
 member of the legislative yuan:立法委員
 member of the royal college of psychiatrists:英國皇家精神科醫學院
+member of the united nations:联合国成员
 member of the united states congress:美国议会议员
 member offset:成员偏移
 member oman:成员阿曼
@@ -21248,9 +21302,14 @@ members notice:成员注意
 members now:成员现在
 members obligation:成员义务
 members occasionally:成员偶尔
+members of cabinet:内阁成员
+members of government:政府成员
 members of law:成员的法律
 members of members:成员的成员
+members of parliament:国会成员
 members of society:成员的社会
+members of the european union:欧盟成员
+members of the united nations:联合国成员
 members of the united states congress:美国议会议员
 members of value-initialize:成员的值初始化
 members offer:成员提供
@@ -21704,6 +21763,7 @@ memoirs of eminent monks:高僧傳
 memoization:记忆化
 memoji:拟我表情
 memolli nunatak:梅莫利冰原島峰
+memorandum of understanding:理解備忘錄
 memorandum of understanding:諒解備忘錄
 memorandum opinion:備忘意見書
 memorandum order:備忘錄命令
@@ -22363,11 +22423,13 @@ memory obviously:记忆显然
 memory of colour:记忆的颜色
 memory of encaustic tile:昔有琉璃瓦
 memory of father:记忆的父亲
+memory of nation:国家记忆
 memory of ocean:记忆的海洋
 memory of sky:记忆的天空
 memory of the world park:世界记忆遗产公园
 memory of the world programme:世界记忆计划
 memory of vietnam:记忆的越南
+memory of water:水记忆
 memory of what happened:记忆的发生了什么
 memory of women:记忆的女人
 memory only:记忆只有
@@ -27146,6 +27208,7 @@ mermaid kiss:美人鱼吻
 mermaid love:美人鱼爱
 mermaid melody pichi pichi pitch:真珠美人鱼
 mermaid mummy:人魚木乃伊
+mermaid of warsaw:华沙美人鱼
 mermaid or seahorse:美人鱼或海马
 mermaid parade:美人鱼游行
 mermaid princess:人魚公主
@@ -28563,6 +28626,7 @@ metabolism means:新陈代谢意味着
 metabolism mechanism:代谢机制
 metabolism model:新陈代谢模型
 metabolism needs:新陈代谢需要
+metabolism of drugs:药物代谢
 metabolism or antioxidant network:代谢或抗氧化剂网络
 metabolism or antioxidant networks:代谢或抗氧化剂网络
 metabolism or body energy:新陈代谢或身体能量
@@ -31358,6 +31422,7 @@ method not:方法不是
 method now has this:方法现在有这
 method now:方法现在
 method object:方法对象
+method of administration:管理方法
 method of characteristics:特征线法
 method of choice:方法的选择
 method of complements:补数
@@ -31373,6 +31438,8 @@ method of mean weighted residuals:加权余量法
 method of personal development:方法的个人发展
 method of self-discovery:方法的自我发现
 method of spiritual victory:精神胜利法
+method of suicide:自杀的方法
+method of suicide:自殺方法
 method of undetermined coefficients:待定係數法
 method offer:方法提供
 method once:方法一次
@@ -31626,6 +31693,8 @@ methodology list:方法论列表
 methodology module:方法学模块
 methodology module:方法论模块
 methodology needs:方法论需要
+methodology of economics:经济学方法论
+methodology of science:科学方法论
 methodology offer:方法论提供
 methodology or analysis:方法论或分析
 methodology or technology decision:方法论或技术决定
@@ -32119,7 +32188,11 @@ methods object:方法对象
 methods obviously:方法显然
 methods of control:方法的控制
 methods of detecting exoplanets:系外行星偵測法
+methods of inquiry:调查方法
+methods of mathematical physics:数学物理方法
 methods of penis:方法的阴茎
+methods of science:科学方法
+methods of scouting:童軍活動方法
 methods of teach:方法的教
 methods of war:方法的战争
 methods offer:方法提供
@@ -32955,6 +33028,8 @@ metro north railroad:大都會北方鐵路
 metro north:地铁北
 metro northwest:地铁西北
 metro oasis:城市綠洲
+metro of bogotá:波哥大地铁
+metro of mexico city:墨西哥城地铁
 metro offer:地铁提供
 metro only:地铁只有
 metro open:地铁开
@@ -33135,6 +33210,7 @@ metropolitan area is home:都市圈是家
 metropolitan area network standards:城域网标准
 metropolitan area network support:城域网支持
 metropolitan area network:城域网
+metropolitan area of barcelona:巴塞罗那都市圈
 metropolitan area outer underground discharge channel:首都圈外郭放水路
 metropolitan area traffic network:都市圈交通网络
 metropolitan area traffic:都市圈交通
@@ -33208,6 +33284,7 @@ metropolitan missionary baptist church:大都会传教士浸信会教堂
 metropolitan municipalities in turkey:土耳其都會市
 metropolitan museum of art:大都會藝術博物館
 metropolitan opera live in hd:大都会歌剧院高清直播
+metropolitan opera of new york:紐約大都會歌劇院
 metropolitan opera:大都會歌劇院
 metropolitan park (north door):都會公園(北門)
 metropolitan park-wenhua rd.:台南都会公园(文华路)

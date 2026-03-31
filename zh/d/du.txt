@@ -1256,64 +1256,125 @@ duchy of amalfi:阿马尔菲公国
 duchy of anhalt:安哈尔特公国
 duchy of aosta:奥斯塔公国
 duchy of aquitaine:亞奎丹公國
+duchy of aquitaine:阿基坦公國
 duchy of athens:雅典公国
+duchy of athens:雅典公國
 duchy of austria:奥地利公国
+duchy of austria:奥地利公國
+duchy of austria:奧地利公國
+duchy of baden:巴登公國
+duchy of bar:巴爾公國
 duchy of bavaria:巴伐利亚公国
+duchy of bavaria:巴伐利亚公國
+duchy of belz:貝爾茲公國
+duchy of benevento:貝內文托公國
 duchy of benevento:贝内文托公国
 duchy of berg:貝格伯國
 duchy of bohemia:波希米亚公国
+duchy of bourbon:波旁公國
 duchy of brabant:布拉班特公国
+duchy of brabant:布拉班特公國
+duchy of braunschweig:不伦瑞克公國
+duchy of bretagne:布列塔尼公國
+duchy of brieg:布熱格公國
 duchy of brittany:布列塔尼公国
+duchy of brittany:布列塔尼公國
 duchy of brunswick:不伦瑞克公国
 duchy of brzeg:布熱格公國
+duchy of bukovina:布科維納公國
 duchy of bukovina:布科维纳公国
 duchy of burgundy:勃艮第公國
 duchy of cantabria:坎塔布里亚公国
 duchy of carinthia:克恩頓公國
 duchy of carniola:卡尼奧拉公國
 duchy of castro:卡斯特罗公国
+duchy of cieszyn:切申公國
 duchy of cleves:克莱沃公国
 duchy of cornwall:康沃尔公国
 duchy of courland and semigallia:库尔兰和瑟米加利亚公国
+duchy of courland:庫爾蘭公國
 duchy of croatia:克罗地亚公国
+duchy of croatia:克羅地亞公國
+duchy of estland:愛沙尼亞公國
+duchy of estonia:愛沙尼亞公國
 duchy of ferrara:費拉拉公國
 duchy of florence:佛羅倫斯公國
 duchy of franconia:弗兰肯公国
+duchy of gaeta:加埃塔公國
 duchy of gascony:加斯科涅公國
 duchy of greater poland:大波兰公爵
+duchy of guastalla:瓜斯塔拉公國
 duchy of guelders:海尔德公国
+duchy of hanover:漢諾威公國
 duchy of holstein:荷尔斯泰因公国
+duchy of holstein:荷尔斯泰因公國
+duchy of jülich:于利希公國
+duchy of kalisz:卡利什公國
+duchy of krnov:克爾諾夫公國
+duchy of kuyavia:庫亞維公國
+duchy of lancaster:蘭加斯特公國
+duchy of lancaster:蘭卡斯特公國
 duchy of lancaster:蘭開斯特公國
 duchy of legnica:萊格尼察公國
+duchy of liegnitz:萊格尼察公國
 duchy of limburg:林堡公國
+duchy of lithuania:立陶宛公國
 duchy of livonia:立窝尼亚公国
 duchy of lorraine:洛林公国
+duchy of lorraine:洛林公國
 duchy of lucca:卢卡公国
 duchy of luxembourg:卢森堡公国
+duchy of luxembourg:盧森堡公國
+duchy of luxemburg:盧森堡公國
+duchy of magdeburg:馬德堡公國
 duchy of magdeburg:马格德堡公国
 duchy of mantua:曼切華公國
+duchy of mantua:曼圖亞公國
+duchy of mantua:曼托瓦公國
 duchy of masovia:馬佐夫舍公國
 duchy of massa and carrara:马萨与卡拉拉公国
 duchy of milan:米兰公国
+duchy of milan:米兰公國
+duchy of milan:米蘭公國
 duchy of modena and reggio:摩德納和雷焦公國
+duchy of modena:摩德納公國
+duchy of moscow:莫斯科公國
+duchy of munich:慕尼黑公國
 duchy of nassau:拿騷公國
+duchy of nassau:拿骚公國
+duchy of normandy:諾曼底公國
 duchy of normandy:諾曼第公國
 duchy of oldenburg:奥尔登堡公国
+duchy of orléans:奧爾良公國
 duchy of parma and piacenza:帕爾馬公國
+duchy of parma:帕尔马公國
+duchy of parma:帕爾馬公國
+duchy of poland:波蘭公國
 duchy of pomerania:波美拉尼亞公國
+duchy of posen:波茲南公國
+duchy of poznań:波茲南公國
+duchy of prussia:普魯士公國
 duchy of prussia:普鲁士公国
 duchy of rome:罗马都督区
+duchy of rome:羅馬公國
 duchy of salzburg:萨尔茨堡公国
+duchy of salzburg:薩爾茨堡公國
 duchy of samogitia:萨莫吉提亚公国
 duchy of savoy:萨伏依公国
+duchy of savoy:薩伏依公國
 duchy of saxony:萨克森公国
+duchy of saxony:萨克森公國
+duchy of saxony:薩克森公國
 duchy of schleswig:石勒苏益格公国
+duchy of schleswig:石勒苏益格公國
 duchy of siewierz:谢维日公国
 duchy of silesia:西里西亞公國
 duchy of spoleto:斯波莱托公国
 duchy of styria:施蒂利亞公國
 duchy of swabia:士瓦本公國
+duchy of swabia:施瓦本公國
 duchy of teschen:泰申公国
+duchy of teschen:泰申公國
 duchy of thuringia:图林根公国
 duchy of troppau:奥帕瓦公国
 duchy of urbino:烏爾比諾公國
@@ -4548,9 +4609,11 @@ dukark:敦刻尔克
 dukascopy bank:杜高斯贝银行
 duke 2 (sri damansara link):大使路－淡江大道（斯里白沙罗连贯公路）
 duke 2 (sri damansara link):大使路－淡江大道（斯里白沙羅連貫公路）
+duke ai of chen:陈哀公
 duke ai of lu:魯哀公
 duke ai of qi:齊哀公
 duke ai of qin:秦哀公
+duke ai of song:宋哀公
 duke ai:哀公
 duke alexander of oldenburg:歐登堡的亞歷山大
 duke alexander:公爵亚历山大
@@ -4580,10 +4643,13 @@ duke carlos:公爵卡洛斯
 duke changwon:王祉
 duke chapel:杜克教堂
 duke charles of mecklenburg:梅克倫堡的卡爾
+duke cheng of chen:陈成公
 duke cheng of jin:晋成公
 duke cheng of lu:魯成公
 duke cheng of qi:齊成公
 duke cheng of qin:秦成公
+duke cheng of song:宋成公
+duke cheng of zhongshan:中山成公
 duke cheng:成公
 duke chu of jin:晉出公
 duke chu of wey:衛出公
@@ -4598,6 +4664,7 @@ duke dao of cao:曹悼公
 duke dao of jin:晋悼公
 duke dao of qi:齊悼公
 duke dao of qin:秦悼公
+duke dao of song:宋悼公
 duke dao:悼公
 duke de kašijasas:卡希亚斯公爵城
 duke de kašijasas:卡希亞斯公爵城
@@ -4634,6 +4701,7 @@ duke henry vii:公爵亨利七世
 duke henry:公爵亨利
 duke hold:公爵拥有
 duke hu of chen:胡公满
+duke hu of chen:陈胡公
 duke hu of qi:齊胡公
 duke hu:胡公
 duke huai of jin:晋怀公
@@ -4646,8 +4714,11 @@ duke huan of qin:秦桓公
 duke huan of tian qi:田午
 duke huan of wey:衛桓公
 duke huan of zheng:鄭桓公
+duke hui of chen:陈惠公
 duke hui of jin:晋惠公
 duke hui of qi:齊惠公
+duke hui of song:宋惠公
+duke hui of western zhou:西周惠公
 duke hui:惠公
 duke humfrey's library:漢弗萊公爵圖書館
 duke is right:公爵是对的
@@ -4656,6 +4727,7 @@ duke jian of qi:齊簡公
 duke jian of qin:秦簡公
 duke jing of qi:齊景公
 duke jing of qin:秦景公
+duke jing of song:宋景公
 duke jing:景公
 duke kang of qi:齊康公
 duke kang of qin:秦康公
@@ -4671,44 +4743,79 @@ duke law:公爵法律
 duke li of chen:陳厲公
 duke li of jin:晉厲公
 duke li of qi:齊厲公
+duke li of song:宋厲公
 duke li:厲公
 duke lie of jin:晋烈公
 duke life:公爵生活
 duke ligong of qin:秦厲共公
 duke like:公爵喜欢
+duke ling of chen:陈灵公
 duke ling of jin:晉靈公
 duke ling of qi:齊靈公
 duke ling of qin:秦靈公
 duke ling of wey:衛靈公
 duke ling:灵公
 duke look:公爵看
+duke louis of chartres:沙特尔公爵路易斯
 duke louis:公爵路易斯
 duke mansion:公爵大廈
 duke min of lu:魯閔公
 duke mu of cao:曹缪公
+duke mu of chen:陈穆公
 duke mu of chen:陳穆公
 duke mu of qin:秦穆公
+duke mu of song:宋穆公
 duke mu:穆公
 duke now:公爵现在
 duke nukem forever:永远的毁灭公爵
+duke of aarschot:阿尔斯霍特公爵
 duke of abercorn:阿伯康公爵
+duke of addis abeba:亚的斯亚贝巴公爵
 duke of alba:阿尔瓦公爵
+duke of albany:奥尔巴尼公爵
 duke of albany:奧爾巴尼公爵
+duke of albuquerque:阿尔伯克基公爵
 duke of alburquerque:阿尔布克尔克公爵
+duke of alençon:阿朗松公爵
+duke of algete:阿尔赫特公爵
+duke of amalfi:阿马尔菲公爵
+duke of angoulême:昂古莱姆公爵
+duke of anhalt:安哈尔特公爵
+duke of aosta:奥斯塔公爵
 duke of aquitaine:阿基坦公爵
 duke of argyll:阿盖尔公爵
+duke of athens:雅典公爵
 duke of atholl:阿索爾公爵
+duke of austria:奥地利公爵
+duke of austria:奧地利公爵
+duke of auvergne:奥弗涅公爵
+duke of bar:巴尔公爵
+duke of bavaria:巴伐利亚公爵
 duke of beaufort:博福特公爵
 duke of bedford's vole:沟牙田鼠
+duke of bedford:貝德福德公爵
 duke of bedford:贝德福德公爵
 duke of berry:贝里公爵
+duke of bohemia:波希米亚公爵
+duke of bolton:博尔顿公爵
+duke of bordeaux:波尔多公爵
 duke of bourbon:波旁公爵
 duke of brabant:布拉班特公爵
+duke of braganza:布拉干薩公爵
+duke of bragança:布拉干薩公爵
+duke of brandon:布蘭登公爵
+duke of braunschweig:不伦瑞克公爵
+duke of brieg:布熱格公爵
+duke of brittany:布列塔尼公爵
+duke of brzeg:布熱格公爵
 duke of buccleuch:巴克盧公爵
 duke of buckingham in october:白金汉公爵在十月
 duke of buckingham soon:白金汉公爵很快
 duke of buckingham:白金汉公爵
+duke of buckingham:白金漢公爵
+duke of burgundy:勃艮第公爵
 duke of burgundy:勃艮第统治者列表
+duke of bytom:比托姆公爵
 duke of cambridge admitted he:剑桥公爵承认他
 duke of cambridge admitted:剑桥公爵承认
 duke of cambridge already:剑桥公爵已经
@@ -4717,72 +4824,204 @@ duke of cambridge became:剑桥公爵成为
 duke of cambridge said:剑桥公爵说
 duke of cambridge will attend:剑桥公爵将参加
 duke of cambridge:剑桥公爵
+duke of cambridge:劍橋公爵
+duke of carniola:克拉尼斯卡公爵
+duke of castro:卡斯特罗公爵
+duke of chartres:沙特尔公爵
+duke of chevreuse:舍夫勒斯公爵
+duke of cieszyn:切申公爵
 duke of clarence and avondale:克拉倫斯和阿文代爾公爵
 duke of clarence and st andrews:克拉倫斯和聖安德魯斯公爵
 duke of clarence:克拉倫斯公爵
 duke of connaught and strathearn:康諾特和斯特拉森公爵
 duke of cornwall:康沃爾公爵
+duke of courland:庫爾蘭公爵
 duke of course:公爵当然
 duke of cumberland and strathearn:坎伯蘭和斯特拉森公爵
 duke of cumberland and teviotdale:坎伯蘭和特維奧特戴爾公爵
 duke of cumberland:坎伯蘭公爵
+duke of cádiz:加的斯公爵
+duke of dalmatia:达尔马提亚公爵
+duke of dalmatia:達爾馬提亞公爵
 duke of devonshire:德文郡公爵
 duke of edinburgh award:愛丁堡公爵獎勵
 duke of edinburgh cup:愛丁堡公爵杯
 duke of edinburgh training camp:愛丁堡公爵訓練營
 duke of edinburgh:愛丁堡公爵
+duke of edinburgh:爱丁堡公爵
+duke of enghien:昂吉安公爵
+duke of estonia:愛沙尼亞公爵
+duke of exeter:埃克塞特公爵
 duke of ferrara and of modena:費拉拉和摩德納公爵列表
+duke of ferrara:费拉拉公爵
 duke of fife:法夫公爵
+duke of finland:芬兰公爵
+duke of finland:芬蘭公爵
+duke of florence:佛罗伦萨公爵
+duke of franconia:弗兰肯公爵
+duke of gaeta:加埃塔公爵
+duke of galicia:加利奇公爵
+duke of gandia:甘迪亚公爵
+duke of gascony:加斯科涅公爵
+duke of genoa:热那亚公爵
 duke of gloucester and edinburgh:格洛斯特和爱丁堡公爵
 duke of gloucester islands:格洛斯特公爵群島
 duke of gloucester:格洛斯特公爵
+duke of gniezno:格涅兹诺公爵
+duke of gordon:戈登公爵
 duke of grafton:葛拉夫頓公爵
+duke of greater poland:大波兰公爵
+duke of guastalla:瓜斯塔拉公爵
+duke of guise:吉斯公爵
+duke of guyenne:吉耶讷公爵
+duke of hamilton:汉密尔顿公爵
 duke of hamilton:漢密爾頓公爵
 duke of hereford:赫里福德公爵
+duke of holstein:荷尔斯泰因公爵
 duke of inverness:印威內斯公爵
+duke of jülich:于利希公爵
+duke of kalisz:卡利什公爵
 duke of kent and strathearn:肯特和斯特拉森公爵
 duke of kent:根德公爵
+duke of kent:肯特公爵
+duke of kingston:京斯敦公爵
 duke of la torre:拉托雷公爵
 duke of lancaster:蘭卡斯特公爵
+duke of lauenburg:劳恩堡公爵
+duke of lauzun:洛赞公爵
+duke of leeds:利兹公爵
+duke of leeds:里茲公爵
+duke of legnica:萊格尼察公爵
 duke of leinster hotel:伦敦伦斯特公爵酒店
 duke of leinster hotel:倫斯特公爵酒店
 duke of leinster:倫斯特公爵
+duke of lennox:倫諾克斯公爵
+duke of limburg:林堡公爵
+duke of lorraine:洛林公爵
+duke of lotharingia:洛塔林吉亚公爵
+duke of lucca:卢卡公爵
+duke of luxembourg:卢森堡公爵
+duke of luxembourg:盧森堡公爵
+duke of luxemburg:卢森堡公爵
+duke of luxemburg:盧森堡公爵
+duke of madrid:馬德里公爵
+duke of manchester:曼彻斯特公爵
 duke of manchester:曼徹斯特公爵
+duke of mantoue:曼圖亞公爵
+duke of mantoue:曼托瓦公爵
+duke of mantua:曼圖亞公爵
+duke of mantua:曼托瓦公爵
+duke of mecklenburg:梅克伦堡公爵
+duke of medinaceli:梅迪纳塞利公爵
 duke of medinaceli:梅锡纳塞利公爵
+duke of milan:米兰公爵
+duke of milan:米蘭公爵
+duke of modena:摩德納公爵
+duke of modena:摩德纳公爵
+duke of monmouth:蒙茅斯公爵
 duke of montmorency:蒙莫朗西公爵
 duke of montrose:蒙特羅斯公爵
 duke of mouchy:穆希公爵
+duke of naples:那不勒斯公爵
+duke of narbonne:纳博讷公爵
+duke of nassau:拿騷公爵
+duke of nassau:拿骚公爵
 duke of nemours:訥穆爾公爵
+duke of nemours:讷穆尔公爵
+duke of newcastle upon tyne:泰恩河畔纽卡斯尔公爵
+duke of newcastle upon tyne:紐卡素公爵
+duke of newcastle-upon-tyne:泰恩河畔纽卡斯尔公爵
+duke of newcastle:新堡公爵
+duke of newcastle:泰恩河畔纽卡斯尔公爵
+duke of newcastle:紐卡素公爵
 duke of newcastle:纽卡斯尔公爵
+duke of niemodlin:涅莫德林公爵
 duke of norfolk complete:诺福克公爵完成
+duke of norfolk:諾福克公爵
 duke of norfolk:诺福克公爵
+duke of normandy:諾曼底公爵
 duke of normandy:诺曼底公爵
 duke of northumberland:諾森伯蘭公爵
+duke of noto:诺托公爵
+duke of oldenburg:奥尔登堡公爵
+duke of orleans:奥尔良公爵
+duke of orleans:奧爾良公爵
+duke of orléans:奥尔良公爵
+duke of orléans:奧爾良公爵
+duke of osuna:奥苏纳公爵
+duke of palma de mallorca:帕尔马公爵
+duke of palma de mallorca:帕爾馬公爵
+duke of palma:帕尔马公爵
+duke of palma:帕爾馬公爵
+duke of parma:帕尔马公爵
+duke of parma:帕爾馬公爵
+duke of piacenza:皮亚琴察公爵
+duke of plasencia:皮亚琴察公爵
+duke of poland:波兰公爵
+duke of poland:波蘭公爵
+duke of pomerania:波美拉尼亞公爵
+duke of portland:波特兰公爵
+duke of portland:波特蘭公爵
+duke of poznań:波茲南公爵
+duke of prussia:普魯士公爵
 duke of queensberry:昆斯伯里公爵
 duke of richelieu:黎塞留公爵
+duke of richmond:列治文公爵
+duke of richmond:里士满公爵
+duke of richmond:里士滿公爵
 duke of richmond:里奇蒙公爵
 duke of rothesay:羅撒西公爵
+duke of rothesay:羅斯西公爵
 duke of roxburghe:羅克斯堡公爵
 duke of rutland:拉特蘭公爵
 duke of saint simon:圣西门公爵
+duke of sandomierz:桑多梅日公爵
+duke of savoy:薩伏依公爵
+duke of saxony:萨克森公爵
+duke of saxony:薩克森公爵
+duke of schleswig-holstein:石勒苏益格-荷尔斯泰因公爵
+duke of schleswig:石勒苏益格公爵
 duke of segovia:塞戈維亞公爵
+duke of seville:塞維亞公爵
+duke of seville:塞维利亚公爵
 duke of seville:西維爾公爵
 duke of shao:召公奭
+duke of shrewsbury:什魯斯伯里公爵
+duke of siewierz:謝維日公爵
+duke of silesia:西里西亞公爵
 duke of somerset and his friend:萨默塞特公爵和他的朋友
 duke of somerset was killed:萨默塞特公爵被杀
 duke of somerset:萨默塞特公爵
+duke of spoleto:斯波莱托公爵
 duke of st albans:聖奧爾本斯公爵
+duke of st. albans:聖奧爾本斯公爵
 duke of sussex:薩塞克斯公爵
 duke of sutherland:薩瑟蘭公爵
 duke of swabia:士瓦本公爵
+duke of swabia:施瓦本公爵
 duke of teck:特克公爵
+duke of teschen:泰申公爵
 duke of the infantado:因凡塔多公爵
+duke of thuringia:图林根公爵
+duke of toulouse:图卢兹公爵
+duke of touraine:图赖讷公爵
+duke of transylvania:特兰西瓦尼亚公爵
+duke of trévise:特雷維索公爵
+duke of uceda:乌塞达公爵
 duke of urach:乌拉赫公爵
+duke of urbino:乌尔比诺公爵
+duke of venice:威尼斯公爵
+duke of viseu:維塞烏公爵
+duke of warsaw:华沙公爵
+duke of warsaw:華沙公爵
+duke of wellington:威靈頓公爵
+duke of wellington:惠灵顿公爵
 duke of westminster:西敏公爵
 duke of windsor invent:温莎公爵发明
 duke of windsor social service building:温莎公爵社会服务大厦
 duke of windsor social service building:溫莎公爵社會服務大廈
 duke of windsor:温莎公爵
+duke of wrocław:弗羅茨瓦夫公爵
 duke of ye:沈諸梁
 duke of york accuse:约克公爵指控
 duke of york and albany:约克和奥尔巴尼公爵
@@ -4794,6 +5033,7 @@ duke of york islands:約克公爵群島
 duke of york no longer:约克公爵不再
 duke of york will visit:约克公爵将访问
 duke of york's theatre:约克公爵剧院
+duke of york:約克公爵
 duke of york:约克公爵
 duke of zhou:周公旦
 duke office:公爵办公室
@@ -4883,30 +5123,39 @@ duke university thompson:杜克大学汤普森
 duke university:公爵大学
 duke university:杜克大学
 duke wellington house:威靈頓公爵大廈
+duke wen of chen:陈文公
 duke wen of chen:陳文公
 duke wen of eastern zhou:东周君
 duke wen of jin:晋文公
 duke wen of qi:齊文公
 duke wen of qin:秦文公
+duke wen of song:宋文公
 duke wen:文公
 duke went:公爵去
 duke whistle:公爵吹口哨
 duke wilhelm in bavaria:巴伐利亞的威廉
 duke will:公爵会
+duke william of nassau:拿騷公爵威廉
+duke william of nassau:拿骚公爵威廉
+duke william of normandy:诺曼底公爵威廉
 duke william pretend:公爵威廉假装
 duke william:公爵威廉
 duke would:公爵将
+duke wu of chen:陈武公
 duke wu of chen:陳武公
 duke wu of jin:晉武公
 duke wu of lu:魯武公
 duke wu of qi:齊武公
 duke wu of qin:秦武公
+duke wu of song:宋武公
+duke wu of western zhou:西周武公
 duke wu of wey:衛武公
 duke wu of zheng:鄭武公
 duke wu:武公
 duke xi of chen:陳僖公
 duke xi of lu:魯僖公
 duke xi of qi:齊僖公
+duke xi of song:宋釐公
 duke xi:釐公
 duke xian of jin:晋献公
 duke xian of qi:齊獻公
@@ -4918,14 +5167,17 @@ duke xiang of qi:齐襄公
 duke xiang of qin:秦襄公
 duke xiang of song:宋襄公
 duke xiang:襄公
+duke xiao of chen:陈孝公
 duke xiao of chen:陳孝公
 duke xiao of qi:齊孝公
 duke xiao of qin:秦孝公
 duke xiao:孝公
+duke xuan of chen:陈宣公
 duke xuan of chen:陳宣公
 duke xuan of lu:魯宣公
 duke xuan of qi:齊宣公
 duke xuan of qin:秦宣公
+duke xuan of song:宋宣公
 duke xuan of wey:衛宣公
 duke xuan:宣公
 duke yang of lu:魯煬公
@@ -4934,6 +5186,7 @@ duke yi of chen:陳夷公
 duke yi of lu:魯懿公
 duke yi of wey:衛懿公
 duke yin of lu:鲁隐公
+duke you of chen:陈幽公
 duke you of chen:陳幽公
 duke you of jin:晋幽公
 duke you of lu:魯幽公
@@ -4948,6 +5201,7 @@ duke zhuang ii of wey:衛後莊公
 duke zhuang of chen:陳莊公
 duke zhuang of lu:魯莊公
 duke zhuang of qin:秦莊公
+duke zhuang of song:宋莊公
 duke zhuang of wey:衛莊公
 duke zhuang of zheng:鄭莊公
 duke zhuang:莊公
@@ -5251,6 +5505,10 @@ duma key:魔島
 duma majority:杜马多数
 duma member:杜马成员
 duma members:杜马成员
+duma of astrakhan oblast:阿斯特拉罕州杜马
+duma of chukotka autonomous okrug:楚科奇自治区杜马
+duma of stavropol krai:斯塔夫罗波尔边疆区杜马
+duma of tomsk:托木斯克州杜马
 duma open:杜马开
 duma plans:杜马计划
 duma receive:杜马收到
@@ -9885,6 +10143,8 @@ duty means:责任意味着
 duty not:责任不是
 duty nurse:责任护士
 duty of care:謹慎責任
+duty of confidentiality:保密義務
+duty of loyalty:忠實義務
 duty or accident:责任或意外
 duty or obligation:责任或义务
 duty or principle:责任或原则
