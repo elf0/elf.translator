@@ -2291,6 +2291,7 @@ staden:斯塔登
 stadhuis brugge:市政廳
 stadhuis delft:市政廳
 stadhuis en roland-standbeeld op het marktplein van bremen:不来梅市市场的市政厅和罗兰城
+stadhuis metro station:市政厅地铁站
 stadhuis van brussel:布鲁塞尔市政厅
 stadhuis van chełm:海乌姆市政厅
 stadhuis van helsinki:赫尔辛基市政厅
@@ -2448,6 +2449,7 @@ stadium massacre:体育馆屠杀
 stadium merdeka:默迪卡体育馆
 stadium merdeka:默迪卡體育場
 stadium merdeka:默迪卡體育館
+stadium metro station:体育场地铁站
 stadium mrt station:体育场地铁站
 stadium museum:体育馆博物馆
 stadium must:澳門科技大學運動場
@@ -4055,6 +4057,7 @@ standard air compressor:标准空气压缩机
 standard air force:标准空军
 standard air:标准空气
 standard airbag:标准安全气囊
+standard aircraft corporation:标准飞机公司
 standard aircraft:标准航空器
 standard aircraft:标准飞机
 standard airplane:标准飞机
@@ -4878,6 +4881,7 @@ standard equipment include:标准设备包括
 standard equipment list:标准设备列表
 standard equipment:标准设备
 standard error and analysis of variance:标准误差和方差分析
+standard error stream:标准错误流
 standard error value:标准误差值
 standard error:标准误差
 standard error:标准错误
@@ -5871,6 +5875,7 @@ standard printed circuit board:标准印制电路板
 standard printing:标准印刷
 standard privacy:标准隐私
 standard private:标准私人
+standard probability space:标准概率空间
 standard probability theory:标准概率理论
 standard probability:标准概率
 standard probiotic:标准益生菌
@@ -6446,6 +6451,7 @@ standard time information:标准时间信息
 standard time interval:标准时间间隔
 standard time is china:标准时间是中国
 standard time means:標準時間意味著
+standard time offset:标准时间偏移
 standard time or civil time:標準時間或民用時
 standard time server:标准时间服务器
 standard time signal:标准时间信号
@@ -7752,6 +7758,7 @@ stanford prison experiment:斯坦福监狱实验
 stanford research park:史丹佛研究園區
 stanford residences victoria harbour:尚臻維港
 stanford residences victoria harbour:尚臻维港 shàng zhēn wéi gǎng
+stanford shopping center:史丹福購物中心
 stanford stadium:史丹福體育場
 stanford stadium:斯坦福体育场
 stanford torus:史丹佛環面
@@ -7819,6 +7826,7 @@ stanford university law professor:斯坦福大学法律教授
 stanford university law school:斯坦福大学法学院
 stanford university law:斯坦福大学法律
 stanford university libraries:史丹福大學圖書館
+stanford university library:史丹福大學圖書館
 stanford university library:斯坦福大学图书馆
 stanford university management professor:斯坦福大学管理学教授
 stanford university management:斯坦福大学管理学
@@ -7832,6 +7840,7 @@ stanford university physicist:斯坦福大学物理学家
 stanford university physics laboratory:斯坦福大学物理实验室
 stanford university physics:斯坦福大学物理
 stanford university predict:斯坦福大学预测
+stanford university press:史丹福大学出版社
 stanford university press:史丹福大學出版社
 stanford university private:斯坦福大学私人
 stanford university professor and google:斯坦福大学教授和谷歌
@@ -10877,6 +10886,7 @@ state actually has:状态实际上有
 state actually:状态实际上
 state address:国家地址
 state address:州地址
+state administration council:国家管理委员会
 state administration council:國家管理委員會
 state administration database:国家管理数据库
 state administration for industry and commerce:中华人民共和国国家工商行政管理总局
@@ -10927,6 +10937,7 @@ state air quality:国家空气质量
 state air quality:州空气质量
 state air:国家空气
 state air:州空气
+state aircraft factory:国家飞机工厂
 state aircraft:国家航空器
 state aircraft:国家飞机
 state airline:国家航空公司
@@ -11384,6 +11395,7 @@ state based on:国家基于
 state based on:状态基于
 state based:国家基于
 state based:状态基于
+state basketball league:国家篮球联盟
 state basketball:州篮球
 state bauhaus:州包豪斯
 state be:国家成为
@@ -11968,6 +11980,7 @@ state due to:国家由于
 state due to:州由于
 state duma (second building):国家杜马（第二座大楼）
 state duma begin:国家杜马开始
+state duma chairman:国家杜马主席
 state duma committee:国家杜马委员会
 state duma election:国家杜马选举
 state duma elections:国家杜马选举
@@ -12007,8 +12020,10 @@ state edu:国家教育
 state edu:州教育
 state education and environment:国家教育和环境
 state education awards:州教育奖
+state education committee:国家教育委员会
 state education is free:国家教育是免费的
 state education officials said:州教育官员说
+state education system:州教育系统
 state education systems:国家教育系统
 state education:国家教育
 state education:州教育
@@ -12146,6 +12161,7 @@ state farm claim:国家农场主张
 state farm insurance agent:州农场保险代理人
 state farm insurance company:州立农业保险公司
 state farm insurance:国家农场保险
+state farm stadium:州农场体育场
 state farm stadium:州立農業體育場
 state farm:国家农场
 state farm:州农场
@@ -12186,6 +12202,7 @@ state fiscal year:国家财政年度
 state fish:国家鱼
 state fish:州鱼
 state fishing industry:国家渔业
+state flag day:州旗日
 state flag of austria:奥地利政府旗
 state flag of costa rica:哥斯達黎加政府旗
 state flag of georgia:佐治亚州州旗
@@ -12226,6 +12243,8 @@ state food:国家食物
 state food:州食品
 state foodborne illness:州食源性疾病
 state football coach:州足球教练
+state football federation:国家足球联盟
+state football league:国家足球联盟
 state football leagues in brazil:巴西各州足球联赛
 state football:国家足球
 state football:州足球
@@ -12644,6 +12663,7 @@ state into:国家进入
 state into:州进入
 state into:状态进入
 state invention:国家发明
+state investigation bureau:国家调查局
 state investigation:国家调查
 state investigation:州调查
 state investigation:状态调查
@@ -13364,6 +13384,7 @@ state park is you:州立公园是你
 state park offer:州立公园提供
 state park police:州立公园警察
 state park resort:州立公园度假村
+state park system:国家公园系统
 state park system:州立公园系统
 state park:国家公园
 state park:州立公园
@@ -13638,6 +13659,7 @@ state puppet:国家木偶
 state purchase:国家购买
 state purpose:国家目的
 state push:国家推
+state pushkin museum:国家普希金博物馆
 state qatar:国家卡塔尔
 state quality mark of the ussr:苏联国家质量标志
 state quality:国家质量
@@ -13684,6 +13706,7 @@ state recover:状态恢复
 state refers to:国家指
 state refers to:状态指
 state reflect:状态反映
+state reform party:国家改革党
 state reform:国家改革
 state reforms:国家改革
 state regime:国家政权
@@ -13859,7 +13882,12 @@ state secretary:国家秘书
 state secretary:州秘书
 state secretary:州秘書
 state security committee of the republic of belarus:白俄羅斯共和國國家安全委員會
+state security committee:国家安全委员会
+state security council:国家安全委员会
+state security council:国家安全理事会
+state security department:国家安全部门
 state security department:州安全部门
+state security police:国家安全警察
 state security:国家保安
 state security:国家安全
 state security:州安全
@@ -14000,6 +14028,8 @@ state street center subway:州街中心地铁
 state street corporation:道富公司
 state street cross:州街穿越
 state street global advisors:道富环球
+state street station:州街站
+state street subway:州街地铁
 state street:国家街
 state street:国家街道
 state street:州街
@@ -14040,6 +14070,7 @@ state surrogacy:州代孕
 state surveillance projects:国家监视项目
 state surveillance:国家监视
 state swimming association:国家游泳协会
+state swimming centre:国家游泳中心
 state swimming:国家游泳
 state swimming:状态游泳
 state symphony orchestra of the democratic people's republic of korea:朝鮮國立交響樂團
@@ -14100,6 +14131,7 @@ state tell:国家告诉
 state tell:状态告诉
 state temple of the martial god:祀典武廟
 state tennessee:国家田纳西州
+state tennis centre:国家网球中心
 state tennis representative:国家网球代表
 state tennis:国家网球
 state term:状态术语
@@ -14465,6 +14497,7 @@ state your mission:状态你的任务
 state your:国家你的
 state your:状态你的
 state youth basketball coach:州青年篮球教练
+state youth theatre:国家青年剧院
 state youth:国家青年
 state youth:州青年
 state zoo:国家动物园
@@ -18753,6 +18786,7 @@ steel digging:钢挖掘
 steel diver:鋼鐵潛艦
 steel door:钢门
 steel dot:钢点
+steel drum band:钢鼓乐队
 steel drum:钢鼓
 steel due to:钢由于
 steel dust:钢灰尘
@@ -19415,6 +19449,7 @@ steles in valley of stele of diamond sutra:經石峪石刻群
 stelgidopteryx:毛翅燕属
 stelgistrum:疣杜父鱼属
 stelis:银光兰属
+stella adler academy:斯特拉阿德勒学院
 stella adler:斯特拉阿德勒
 stella agree:斯特拉同意
 stella always said no one:斯特拉总是说没有人
@@ -20733,6 +20768,7 @@ steven poon:潘國濂
 steven universe:史帝芬宇宙
 steven wong:王史提芬
 stevenage and portsmouth:斯蒂夫尼奇和朴茨茅斯
+stevenage football club:斯蒂夫尼奇足球俱乐部
 stevenage said:斯蒂夫尼奇说
 stevenage:斯蒂夫尼奇
 stevens cliff:史蒂文斯崖
@@ -23429,6 +23465,7 @@ stockholm city hall shop:斯德哥爾摩市政廳禮品店
 stockholm city hall:斯德哥尔摩市政厅
 stockholm city hall:斯德哥爾摩市政廳
 stockholm city line:斯德哥爾摩城市鐵路
+stockholm city museum:斯德哥尔摩城市博物馆
 stockholm city museum:斯德哥爾摩市立博物館
 stockholm city name:斯德哥尔摩城市名称
 stockholm city theatre:斯德哥尔摩城市剧院
@@ -23525,6 +23562,7 @@ stockholm police:斯德哥尔摩警察
 stockholm pollutant:斯德哥尔摩污染物
 stockholm postal code:斯德哥尔摩邮政编码
 stockholm prize:斯德哥尔摩奖
+stockholm public library:斯德哥尔摩公共图书馆
 stockholm public library:斯德哥尔摩市立图书馆
 stockholm public transport:斯德哥尔摩公共交通
 stockholm region:斯德哥尔摩地区
@@ -26607,6 +26645,7 @@ storm screen:风暴屏幕
 storm season:风暴季节
 storm series:风暴系列
 storm shadow missile systems:风暴阴影导弹系统
+storm shadow missile:风暴影导弹
 storm shadow:暴风影导弹
 storm shadow:风暴影子
 storm shadow:风暴阴影
@@ -29905,6 +29944,7 @@ strategic technology management:战略技术管理
 strategic technology manager:战略技术经理
 strategic technology office:战略技术办公室
 strategic technology partners:战略技术伙伴
+strategic technology plan:战略技术计划
 strategic technology platform:战略技术平台
 strategic technology roadmap:战略技术路线
 strategic technology trend:战略技术趋势
@@ -41089,6 +41129,7 @@ students after:学生后
 students again:学生们又
 students again:学生又
 students against corruption education:学生反对腐败教育
+students against discrimination:学生反对歧视
 students against:学生反对
 students age range from:学生年龄范围从
 students age range:学生年龄范围
@@ -48056,6 +48097,7 @@ stuttgart and prague:斯图加特和布拉格
 stuttgart and singapore:斯图加特与新加坡
 stuttgart and tokyo:斯图加特和东京
 stuttgart area:斯图加特地区
+stuttgart army airfield:斯图加特陆军机场
 stuttgart ballet:斯图加特芭蕾舞
 stuttgart beer festival:斯图加特啤酒节
 stuttgart beer:斯图加特啤酒
@@ -48104,6 +48146,7 @@ stuttgart south:斯图加特南
 stuttgart sports car:斯图加特跑车
 stuttgart stadtbahn:司徒加特城鐵
 stuttgart state opera:斯图加特国家歌剧
+stuttgart state theatre:斯图加特国家剧院
 stuttgart state:斯图加特国家
 stuttgart state:斯图加特州
 stuttgart stock exchange is germany:斯图加特证券交易所是德国

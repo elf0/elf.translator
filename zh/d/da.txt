@@ -2121,6 +2121,7 @@ dad is apollo:爸爸是阿波罗
 dad is back:爸爸回来了
 dad is blue:爸爸是蓝色
 dad is daughter:爸爸是女儿
+dad is daughter:爸爸是女兒
 dad is impossible:爸爸是不可能的
 dad is mummy:爸爸是木乃伊
 dad is right:爸爸是对的
@@ -3308,10 +3309,12 @@ daegot:大串面
 daegu airport:大邱機場
 daegu bank buk-gucheong branch:大邱銀行北區廳支店
 daegu bank headquarters 2:大邱銀行第二本店
+daegu bank station:大邱銀行站
 daegu bank station:大邱银行站
 daegu bank:大邱銀行
 daegu bank:大邱银行
 daegu baseball stadium:大邱市民運動場棒球場
+daegu catholic university:大邱天主教大学
 daegu class frigate:大邱级巡防舰
 daegu fc:大邱足球俱樂部
 daegu gyeongbuk institute of science and technology:大邱庆北科学技术院
@@ -3319,6 +3322,7 @@ daegu gymnasium:大邱體育館
 daegu health college:大邱保健大学
 daegu international airport:大邱国际机场
 daegu international airport:大邱國際機場
+daegu international marathon:大邱国际马拉松
 daegu line:大邱線
 daegu line:大邱线
 daegu marathon:大邱马拉松
@@ -5712,6 +5716,7 @@ dahu fude temple:大湖福德宫
 dahu fude temple:大湖福德宮
 dahu lane, shantian road:山田路大湖巷
 dahu park metro station:大湖公園站
+dahu park station:大湖公園站
 dahu park:dà hú gōng yuán
 dahu park:大湖公园
 dahu park:大湖公園
@@ -9455,6 +9460,8 @@ dalian development area station:开发区站
 dalian development area:kāi fā qū zhàn
 dalian development area:大连经济技术开发区
 dalian dialect:大连话
+dalian football association:大连市足球协会
+dalian forest zoo:大连市森林动物园
 dalian forest zoo:大连森林动物园
 dalian greenland center:大连绿地中心
 dalian harbor seal national nature reserve, liaoning:辽宁大连斑海豹国家级自然保护区
@@ -9462,12 +9469,17 @@ dalian hi tech zone:大连高新技术产业园区
 dalian hi think computer:大连华信
 dalian institute of chemical physics:中国科学院大连化学物理研究所
 dalian intermediate people's court:大连市中级人民法院
+dalian international airport:大连国际机场
 dalian international finance conference center:大連國際金融會議中心
 dalian international marathon:大连国际马拉松
 dalian international trade center:大連國際貿易中心
 dalian islet:大连屿
+dalian japanese school:大连日本人学校
 dalian jiaotong university:大连交通大学
+dalian jinzhou stadium:大连金州体育场
 dalian jinzhouwan international airport:大连金州湾国际机场
+dalian laodong park:大连劳动公园
+dalian laodong park:大连市劳动公园
 dalian luneng ocean hot spring:鲁能温泉假日酒店
 dalian marathon:大连马拉松
 dalian maritime university:大连海事大学
@@ -9480,6 +9492,7 @@ dalian metro line 1:大连地铁1号线
 dalian metro line 2:大连地铁2号线
 dalian metro:大连地铁
 dalian minzu university:大连民族大学
+dalian modern museum:大连现代博物馆
 dalian naval academy:中国人民解放军海军大连舰艇学院
 dalian neusoft university of information:大连东软信息学院
 dalian new world department store:新世界百货
@@ -9499,6 +9512,7 @@ dalian road feihong road:大连路飞虹路
 dalian road section 1:大連路一段
 dalian road section 2:大連路二段
 dalian road section 3:大連路三段
+dalian road station:大连路站
 dalian road tunnel:大连路隧道
 dalian road tunnel:大連路隧道
 dalian road xingang road:大连路新港路
@@ -9528,6 +9542,7 @@ dalian university of foreign languages:dàlián wàiguóyǔ dàxué
 dalian university of foreign languages:大连外国语大学
 dalian university of technology press:大连理工大学出版社
 dalian university of technology:大连理工大学
+dalian university stadium:大连大学体育场
 dalian university:大连大学
 dalian village:大連里
 dalian village:打廉村
@@ -10131,6 +10146,7 @@ dallas also offer:達拉斯也提供
 dallas and denver:達拉斯和丹佛
 dallas and oklahoma city:達拉斯和奧克拉荷馬市
 dallas and seattle:達拉斯和西雅圖
+dallas art museum:达拉斯艺术博物馆
 dallas baptist university:達拉斯浸信會大學
 dallas buyers club suffer:达拉斯买家俱乐部遭受
 dallas buyers club:达拉斯买家俱乐部
@@ -10160,6 +10176,7 @@ dallas heart:達拉斯心臟
 dallas hilton:达拉斯希尔顿酒店
 dallas hilton:達拉斯希爾頓
 dallas love field:达拉斯爱田机场
+dallas market center:达拉斯市场中心
 dallas mavericks:達拉斯獨行俠
 dallas museum of art this:达拉斯艺术博物馆这
 dallas museum of art:达拉斯艺术博物馆
@@ -11514,6 +11531,7 @@ damaliscus:转角牛羚属
 damallsvenskan:瑞典女子足球超級聯賽
 damam:达曼
 damamas:达曼
+daman and diu:达曼和第乌
 daman and nicobar islands:达曼和尼科巴群岛
 daman hongren:弘忍
 daman hotel:达曼酒店
@@ -11702,6 +11720,7 @@ damascus hopes:大马士革希望
 damascus hospital:大馬士革醫院
 damascus hotel:大马士革酒店
 damascus intend:大马士革打算
+damascus international airport:大馬士革国际机场
 damascus international airport:大马士革国际机场
 damascus international:大马士革国际
 damascus is located in:大马士革位于
@@ -16064,6 +16083,7 @@ danish brewing:丹麦酿酒
 danish brick:丹麦砖
 danish bridge:丹麦桥
 danish bridge:丹麦的桥
+danish broadcast corporation:丹麦广播公司
 danish broadcast:丹麦广播
 danish broadcasting corporation:丹麦广播公司
 danish broadcasting:丹麦广播
@@ -16300,6 +16320,10 @@ danish food:丹麦的食品
 danish food:丹麦食品
 danish food:丹麦食物
 danish football association:丹麥足球協會
+danish football association:丹麦足球协会
+danish football champions:丹麦足球冠军
+danish football championship:丹麦足球冠军
+danish football championships:丹麦足球冠军
 danish football player of the year:丹麥足球先生
 danish football team:丹麦足球队
 danish football:丹麦足球
@@ -16703,6 +16727,7 @@ danish royal family:丹麦皇室
 danish royal library:丹麦皇家图书馆
 danish royal navy:丹麦皇家海军
 danish royal palace:丹麦皇家宫殿
+danish royal theatre:丹麦皇家剧院
 danish royal:丹麦皇家
 danish rule:丹麦规则
 danish ruler:丹麦统治者
@@ -16815,6 +16840,7 @@ danish telescope:丹麦望远镜
 danish television series:丹麦电视剧
 danish television station:丹麦电视台
 danish television:丹麦电视
+danish tennis association:丹麦网球协会
 danish tennis:丹麦网球
 danish territory:丹麦领土
 danish text:丹麦文本
@@ -17699,6 +17725,7 @@ danzhutou community:丹竹头社区
 danzhutou metro station 1:丹竹头地铁站 ①
 danzhutou metro station 2:丹竹头地铁站 ②
 danzhutou metro station 3:丹竹头地铁站 ③
+danzhutou metro station:丹竹头地铁站
 danzhutou primary school:丹竹头小学
 danzhutou station:丹竹头站
 danzhutou station:丹竹頭站
@@ -19040,6 +19067,7 @@ daqin island:大钦岛
 daqin line:大秦线
 daqin pagoda:大秦塔
 daqin pagoda:大秦寺塔
+daqin railway company:大秦铁路公司
 daqin railway:大秦铁路
 daqin roast duck:大秦果木烤鸭
 daqin tal town:dà qìn tā lā zhèn
@@ -19078,6 +19106,7 @@ daqing north road:大庆北路
 daqing oil field:大庆油田
 daqing park:大庆公园
 daqing park:大慶公園
+daqing petroleum institute:大庆石油学院
 daqing radio and television tower:大庆广播电视塔
 daqing rd.danjiang rd.crossing:大庆路丹江路口
 daqing river:dàqīng hé
@@ -19120,6 +19149,8 @@ daqing village:大慶里
 daqing wan:万大庆
 daqing west railway station:大庆西站
 daqing west road:大庆西路
+daqing west station:大庆西站
+daqing west station:大慶西站
 daqing west:大庆西
 daqing west:大慶西
 daqing-guangzhou expressway:大广高速
@@ -20848,6 +20879,7 @@ darling street:打令街
 darlinghurst:達令赫斯特
 darlington and east:达灵顿和东
 darlington county:达灵顿县
+darlington football club:达灵顿足球俱乐部
 darlington probation station:達靈頓緩刑站
 darlington railway station:達靈頓站
 darlington railway:达灵顿铁路
@@ -21117,6 +21149,7 @@ darwin community college:达尔文社区学院
 darwin complete:达尔文完成
 darwin continue:达尔文继续
 darwin convention centre:达尔文会议中心
+darwin core archive:达尔文核心档案
 darwin costs:达尔文成本
 darwin davis:达尔文戴维斯
 darwin day:达尔文日
@@ -21745,6 +21778,7 @@ dashi line:大石线
 dashi memorial archway:大石牌坊
 dashi metro main station:地铁大石总站
 dashi metro station:地铁大石站（新光快速）
+dashi metro station:大石地铁站
 dashi middle school:大石中学
 dashi river:dàshí hé
 dashi river:大石河
@@ -24453,6 +24487,7 @@ data center world:数据中心世界
 data center would be used to illegal:数据中心将被用于非法
 data center would:数据中心将
 data center:数据中心
+data centre test:数据中心测试
 data centre:数据中心
 data challenge:数据挑战
 data challenges and successful:数据挑战和成功的
@@ -24871,6 +24906,7 @@ data effectiveness:数据有效性
 data efficiency ratio:数据效率比
 data efficiency services:数据效率服务
 data efficiency:数据效率
+data element definition:数据元素定义
 data element type:数据元类型
 data element:数据元
 data element:数据元素
@@ -29733,7 +29769,9 @@ database management system prevent:数据库管理系统阻止
 database management system provides:数据库管理系统提供
 database management system services:数据库管理系统服务
 database management system software:数据库管理系统软件
+database management system:数据库管理系統
 database management system:数据库管理系统
+database management systems:数据库管理系统
 database management tasks:数据库管理任务
 database management team:数据库管理团队
 database management technology:数据库管理技术
@@ -30888,6 +30926,8 @@ date questions you:约会问题你
 date questions:约会问题
 date range:日期范围
 date rape drug:約會強姦藥物
+date rape drug:约会强奸药物
+date rape drugs:约会强奸药物
 date rape:约会强奸
 date rather than:日期而不是
 date real:日期真的
@@ -31272,6 +31312,7 @@ datong bridge no.2:大同二號橋
 datong bridge no.3:大同三號橋
 datong bridge no.4:大同四號橋
 datong bridge station:大通桥站
+datong bridge station:大通橋站
 datong bridge:大同桥
 datong bridge:大同橋
 datong cinema (closed):大同戲院 (關閉)
@@ -31298,6 +31339,7 @@ datong film company:大同影片公司
 datong high school:大同中学
 datong horse:大通马
 datong house:大同之家
+datong huairen airport:大同怀仁机场
 datong hui and tu autonomous county:大通回族土族自治县
 datong hui and tu autonomous county:大通回族土族自治縣
 datong jhen-an temple:大同鎮安宮
@@ -33205,6 +33247,7 @@ davis contract:戴维斯合同
 davis could:戴维斯能
 davis county:戴维斯县
 davis create:戴维斯创造
+davis cup champions:戴维斯杯冠军
 davis cup:台維斯盃
 davis cup:戴維斯杯
 davis cup:戴维斯杯
@@ -33217,6 +33260,7 @@ davis design:戴維斯設計
 davis discover:戴维斯发现
 davis effectively:戴维斯有效地
 davis emphasize:戴维斯强调
+davis entertainment company:戴维斯娱乐公司
 davis entertainment:戴維斯娛樂
 davis entertainment:戴维斯娱乐
 davis estimate:戴维斯估计
@@ -34612,6 +34656,8 @@ daxing airport express:大兴机场线
 daxing airport express:大興機場線
 daxing airport expressway:大兴机场高速
 daxing airport station:大兴机场
+daxing airport station:大兴机场站
+daxing airport station:大興機場站
 daxing airport:dàxīng jīchǎng zhàn
 daxing airport:大兴机场
 daxing airport:大興機場
@@ -34638,6 +34684,7 @@ daxing farm:大兴农场
 daxing farm:大興農場
 daxing high school:大興高中
 daxing hui ethnic township:大兴回族乡
+daxing international airport:大兴国际机场
 daxing line:北京地铁大兴线
 daxing line:大兴线
 daxing line:大興线
@@ -34680,6 +34727,7 @@ daxing west road section 1:大興西路一段
 daxing west road:大兴西路
 daxing west shinpu 6th st. street corner:大興西路新埔六街口
 daxing xincheng station:大兴新城站
+daxing xincheng station:大興新城站
 daxing'ancun:大兴安村
 daxing'anling cold-temperate zone botanical garden:大兴安岭寒温带植物园
 daxing'anling oroqen airport:大兴安岭鄂伦春机场

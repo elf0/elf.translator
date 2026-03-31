@@ -4911,6 +4911,7 @@ aircraft down:飞机向下
 aircraft downtime:飞机停机时间
 aircraft dynamics and control:飞机动力学与控制
 aircraft dynamics:飞机动力学
+aircraft earth station:航空器地球站
 aircraft economy:飞机经济
 aircraft efficiency:飞机效率
 aircraft electrification:飞机电气化
@@ -6449,6 +6450,7 @@ airport continues:机场继续
 airport contract:机场合同
 airport control centre:机场控制中心
 airport control tower:机场控制塔
+airport control tower:機場控制塔
 airport control towers:机场控制塔
 airport control:机场控制
 airport control:機場控制
@@ -6504,6 +6506,8 @@ airport east metro station:机场东地铁站
 airport east ring road side road:机场东环路辅路
 airport east ring road:机场东环路
 airport east rolling stock depot:机场东车辆段
+airport east station:机场东站
+airport east station:機場東站
 airport east:机场东
 airport east:機場東
 airport economic club:白云国际机场空港俱乐部
@@ -6961,6 +6965,7 @@ airport security data:机场安全数据
 airport security equipment:机场安全设备
 airport security experience:机场安保体验
 airport security funding:机场安保资金
+airport security police:机场安全警察
 airport security policy:机场安全政策
 airport security system:机场安全系统
 airport security systems:机场安全系统
@@ -7015,6 +7020,7 @@ airport south road elevated bridge:機場南路高架
 airport south road elevated bridge:機場路高架
 airport south road overpass:机场南路天桥
 airport south station:机场南站
+airport south station:機場南站
 airport south(terminal 1):机场南（1号航站楼）
 airport south:机场南
 airport south:機場南
@@ -7043,6 +7049,7 @@ airport sub:機場子
 airport subway:机场地铁
 airport support:机场支持
 airport support:機場支持
+airport surveillance radar:机场监视雷达
 airport surveillance:机场监视
 airport system interchange:機場系統交流道
 airport system is safe:机场系统是安全的

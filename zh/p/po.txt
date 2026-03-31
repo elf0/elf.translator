@@ -1018,7 +1018,9 @@ podgorica airport:波德戈里察機場
 podgorica airport:波德里查國際機場
 podgorica capital city:波德戈里察首都市
 podgorica capital city:波德里查首都市
+podgorica city stadium:波德戈里察城市体育场
 podgorica city stadium:波德戈里察城市體育場
+podgorica city stadium:波德里查城市體育場
 podgorica clock tower:钟楼
 podgorica railway station:波德戈里察車站
 podgorica stadium:波德戈里察体育场
@@ -1515,6 +1517,7 @@ poet and novelist about:诗人和小说家关于
 poet and novelist:诗人和小说家
 poet and painter:诗人与画家
 poet and painter:诗人和画家
+poet and peasant:诗人与农夫
 poet and philosopher:诗人和哲学家
 poet and playwright:诗人与剧作家
 poet and playwright:诗人和剧作家
@@ -2254,6 +2257,7 @@ pohang district:浦港区域
 pohang district:浦港區域
 pohang earthquake:浦项地震
 pohang guyok:浦港區域
+pohang gyeongju airport:浦項慶州機場
 pohang gyeongju airport:浦項機場
 pohang passenger line terminal:浦项客运总站
 pohang station:浦項站
@@ -5319,6 +5323,7 @@ poland finally agree:波兰最终同意
 poland finally:波兰最终
 poland finance:波兰金融
 poland follow:波兰跟随
+poland football association:波兰足球协会
 poland for the first time:波兰第一次
 poland from german:波兰从德国人
 poland from:波兰从
@@ -6878,6 +6883,7 @@ police spokesman:警察发言人
 police spokesperson said:警察发言人说
 police spokesperson:警察发言人
 police sports and recreation club:警察體育遊樂會
+police sports association:警察运动协会
 police standards:警察标准
 police start:警察开始
 police state corruption:警察国家腐败
@@ -13172,6 +13178,7 @@ poltava (tỉnh):波尔塔瓦州
 poltava (tỉnh):波爾塔瓦州
 poltava airbase:波爾塔瓦空军基地
 poltava governorate:波爾塔瓦省
+poltava international airport:波爾塔瓦国际机场
 poltava oblast:波尔塔瓦州
 poltava oblast:波爾塔瓦州
 poltava oblastı:波尔塔瓦州
@@ -14072,6 +14079,7 @@ polymer-electrolyte membrane:聚合物电解质膜
 polymer:聚合物
 polymerase acid:聚合酶酸
 polymerase and ribosome:聚合酶和核糖体
+polymerase chain reaction:聚合酶连锁反应
 polymerase chain reaction:聚合酶链式反应
 polymerase eliminate:聚合酶消除
 polymerase gene:聚合酶基因
@@ -14207,6 +14215,7 @@ polynomial regression modeling:多项式回归建模
 polynomial regression problem:多项式回归问题
 polynomial regression:多项式回归
 polynomial relationship:多项式关系
+polynomial remainder theorem:多项式余数定理
 polynomial remainder theorem:餘式定理
 polynomial represent:多项式表示
 polynomial ring:多项式环
@@ -14220,6 +14229,7 @@ polynomial state feedback:多项式状态反馈
 polynomial state:多项式状态
 polynomial structure:多项式结构
 polynomial tell:多项式告诉
+polynomial time algorithm:多项式时间算法
 polynomial time approximation scheme:多项式时间近似算法
 polynomial time reduction:多项式时间归约
 polynomial time:多項式時間
@@ -19375,6 +19385,7 @@ population attend:人口参加
 population attract:人口吸引
 population average:人口平均
 population background:人口背景
+population balance equation:人口平衡方程
 population balance:人口平衡
 population balance:种群平衡
 population be:人口成为
@@ -20447,6 +20458,7 @@ pork and wine:猪肉和葡萄酒
 pork as well:猪肉也
 pork as well:豬肉也
 pork ball:貢丸
+pork barrel politics:豬肉桶政治
 pork barrel:政治分肥
 pork barrel:猪肉桶
 pork be:猪肉成为
@@ -22926,6 +22938,7 @@ portland book:波特兰图书
 portland building:寶齡大廈
 portland building:砵蘭街大廈
 portland business alliance:波特兰商业联盟
+portland business journal:波特兰商业期刊
 portland business:波特兰商业
 portland campus:波特兰校园
 portland canal:波特兰运河
@@ -22937,6 +22950,7 @@ portland cement:波特兰水泥
 portland cement:波特蘭水泥
 portland center:波特兰中心
 portland children:波特兰儿童
+portland city club:波特兰城市俱乐部
 portland city council:波特兰市议会
 portland city:波特兰城市
 portland class cruiser:波特蘭級重巡洋艦
@@ -23046,6 +23060,7 @@ portland state aerospace:波特兰州航空航天
 portland state study show:波特兰州研究显示
 portland state university chemistry:波特蘭州立大學化學
 portland state university:波特蘭州立大學
+portland state vikings:波特蘭州維京人
 portland state:波特兰州
 portland stone buildings:波特兰石建筑
 portland stone:波特兰石
@@ -23453,7 +23468,10 @@ portsmouth city council:朴茨茅斯市议会
 portsmouth coach:朴茨茅斯教练
 portsmouth defender:朴茨茅斯后卫
 portsmouth diocese:朴次茅斯教區
+portsmouth football club:朴次茅斯足球俱乐部
 portsmouth football club:朴茨茅斯足球俱乐部
+portsmouth football club:樸茨茅夫足球俱乐部
+portsmouth football club:樸茨茅斯足球俱乐部
 portsmouth guildhall:朴茨茅斯市政廳
 portsmouth harbour railway station:朴次茅斯港站
 portsmouth high:朴茨茅斯高
@@ -24050,6 +24068,7 @@ portuguese casino:葡萄牙賭場
 portuguese castle:葡萄牙人城堡
 portuguese castle:葡萄牙城堡
 portuguese catholic university:葡萄牙天主教大学
+portuguese catholic university:葡萄牙天主教大學
 portuguese catholic university:葡萄牙的天主教大学
 portuguese catholic:葡萄牙天主教
 portuguese catholic:葡萄牙的天主教
@@ -24412,6 +24431,7 @@ portuguese media:葡萄牙媒体
 portuguese member:葡萄牙成员
 portuguese mexicans:葡裔墨西哥人
 portuguese midfielder:葡萄牙中场
+portuguese military academy:葡萄牙军事学院
 portuguese military:葡萄牙军队
 portuguese military:葡萄牙軍隊
 portuguese minister:葡萄牙部长
@@ -24676,6 +24696,7 @@ portuguese territory:葡萄牙的领土
 portuguese territory:葡萄牙领土
 portuguese these opportunities:葡萄牙这些机会
 portuguese these:葡萄牙这些
+portuguese third republic:葡萄牙第三共和国
 portuguese threat:葡萄牙人威胁
 portuguese timor:葡屬帝汶
 portuguese to africa:葡萄牙人到非洲
@@ -33547,6 +33568,7 @@ poverty philosophy:贫穷哲学
 poverty plan:贫困计划
 poverty plan:贫穷计划
 poverty plans:贫困计划
+poverty point culture:贫困点文化
 poverty policies:贫困政策
 poverty policy:贫困政策
 poverty population:贫困人口
@@ -34007,6 +34029,7 @@ powell island:鮑威爾島
 powell just:鮑威爾只
 powell lake:鮑威爾湖
 powell mountain:鮑威爾山
+powell river airport:鮑威爾河機場
 powell river:鮑威爾河
 powell rock:鮑威爾岩
 powell street station:跑華街站
@@ -35180,6 +35203,7 @@ power system application development:电力系统应用开发
 power system application:电力系统应用
 power system assets:电力系统资产
 power system automation equipment:电力系统自动化设备
+power system automation:电力系统自动化
 power system control operations:电力系统控制操作
 power system data:电力系统数据
 power system design engineers:电力系统设计工程师们
@@ -35203,6 +35227,7 @@ power system reliability:电力系统可靠性
 power system resource:电力系统资源
 power system security:电力系统安全
 power system services:电力系统服务
+power system simulation:电力系统仿真
 power system software:电力系统软件
 power system soon:电力系统很快
 power system structure:电力系统结构

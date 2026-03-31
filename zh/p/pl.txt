@@ -1146,6 +1146,7 @@ plain requirements:平原要求
 plain river:平原河
 plain river:平原河流
 plain road:平坦的路
+plain sea snake:平原海蛇
 plain she:平原她
 plain snake eel:單色蛇鰻
 plain state:平原状态
@@ -3428,6 +3429,7 @@ plant database:植物数据库
 plant death:植物死亡
 plant decay:植物腐烂
 plant decision-making:植物决策
+plant defense mechanism:植物防御机制
 plant defense:植物防御
 plant density:植物密度
 plant descendant:植物后代
@@ -4024,6 +4026,7 @@ plant uses:植物使用
 plant usually:植物通常
 plant vaccine:植物疫苗
 plant valley:植物山谷
+plant variety protection:植物多样性保护
 plant variety:植物多样性
 plant vegetable:植物蔬菜
 plant village:植物村庄
@@ -11727,6 +11730,7 @@ please tell others:请告诉其他人
 please tell them this:请告诉他们这
 please tell them:请告诉他们
 please tell these reader:请告诉这些读者
+please tell us:请告诉我们
 please tell your friend:请告诉你的朋友
 please tell your friends and family:请告诉你的朋友和家人
 please tell your friends:请告诉你的朋友
@@ -13457,6 +13461,7 @@ plymouth barracuda:普利茅斯梭子魚
 plymouth brethren:普利茅斯弟兄会
 plymouth business school:普利茅斯商学院
 plymouth cathedral:普利茅斯主教座堂
+plymouth city airport:普利茅斯城市機場
 plymouth city council leader:普利茅斯市议会领袖
 plymouth city council:普利茅斯市议会
 plymouth coast:普利茅斯海岸

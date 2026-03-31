@@ -2517,6 +2517,7 @@ velociraptor:伶盜龍屬
 velociraptorinae:伶盜龍亞科
 velocisaurus:速龍屬
 velocity addition formula:速度加成式
+velocity addition formula:速度加法公式
 velocity addition rule:速度加法规则
 velocity addition:速度加法
 velocity and acceleration value:速度和加速度值
@@ -2566,6 +2567,8 @@ velocity describe:速度描述
 velocity deviation:速度偏差
 velocity dimension:速度维度
 velocity dispersion:速度离散
+velocity distribution function:速度分布函数
+velocity distribution function:速率分布函数
 velocity distribution:速度分布
 velocity enhancement:速度增强
 velocity exercises:速度练习
@@ -3688,6 +3691,7 @@ venetzia:威尼斯
 veney:沃内
 veneza:威尼斯
 venezia fc:威尼斯足球俱樂部
+venezia football club:威尼斯足球俱乐部
 venezia mestre railway station:威尼斯梅斯特雷車站
 venezia mestre:威尼斯梅斯特雷
 venezia santa lucia railway station:威尼斯聖盧西亞車站
@@ -4006,6 +4010,7 @@ venezuela sharing:委内瑞拉共享
 venezuela should allow:委内瑞拉应该允许
 venezuela should be:委内瑞拉应该是
 venezuela spent:委内瑞拉花
+venezuela standard time:委内瑞拉标准时间
 venezuela still:委內瑞拉仍然
 venezuela suffer:委内瑞拉遭受
 venezuela supreme court judge:委内瑞拉最高法院法官
@@ -4537,6 +4542,7 @@ ventspils castle:雲特史比斯城堡
 ventspils city council:文茨皮尔斯市议会
 ventspils district:文茨皮爾斯區
 ventspils high tech:文茨皮尔斯高科技
+ventspils international airport:文茨皮尔斯国际机场
 ventspils international airport:文茨皮尔斯机场
 ventspils local government:文茨皮尔斯地方政府
 ventspils municipality:文茨皮爾斯市鎮
@@ -6676,6 +6682,7 @@ vertex label:顶点标签
 vertex normal:頂點法向量
 vertex number:顶点数
 vertex operator algebra:頂點算子代數
+vertex operator algebra:顶点算子代数
 vertex pharmaceuticals:福泰製藥
 vertex position:顶点位置
 vertex san diego:顶点圣地亚哥

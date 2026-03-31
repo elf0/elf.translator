@@ -1377,6 +1377,7 @@ liancheng garden:蓮城花園
 liancheng great wall:長城
 liancheng great wall:长城
 liancheng guanzhishan airport:连城冠豸山机场
+liancheng guanzhishan airport:連城冠豸山機場
 liancheng jinhe metro station:連城錦和站
 liancheng no. 1 village:连城一村
 liancheng no. 2 village:连城二村
@@ -3075,6 +3076,7 @@ lianhua ercun:莲花二村
 lianhua ercun:莲花二村 ②
 lianhua ercun:莲花二村社区
 lianhua ercun:蓮花二村社區
+lianhua film company:联华电影公司
 lianhua intersection:联华街口
 lianhua intersection:聯華街口
 lianhua intersection:莲花路口
@@ -3109,6 +3111,7 @@ lianhua reservoir:liánhuā shuǐkù
 lianhua reservoir:莲花水库
 lianhua residential area:莲花住宅区
 lianhua road station:莲花路站
+lianhua road station:蓮花路站
 lianhua road:liánhuā lù
 lianhua road:联华路
 lianhua road:莲花路
@@ -3190,6 +3193,7 @@ lianhuachi park:莲花池公园
 lianhuachi road:莲花池路
 lianhuachi subdistrict:liánhuāchí jiēdào
 lianhuachi subdistrict:莲花池街道
+lianhuachi west road:莲花池西路
 lianhuachi west street:莲花池西街
 lianhuachi:liánhuāchí xiāng
 lianhuachi:莲花池
@@ -3972,7 +3976,9 @@ lianyungang ganyuqu hospital of tcm:连云港市赣榆区中医院
 lianyungang guanhe middle school:连云港市官河中学
 lianyungang heilin middle school:连云港市黑林中学
 lianyungang high school:连云港高级中学
+lianyungang huaguoshan airport:连云港花果山机场
 lianyungang huaguoshan airport:連雲港花果山國際機場
+lianyungang huaguoshan airport:連雲港花果山機場
 lianyungang huaihai opera:连云港市淮海戏
 lianyungang huandun middle school:连云港市欢墩中学
 lianyungang huanghailu primary school:连云港市黄海路小学
@@ -5776,9 +5782,11 @@ liberia city:利比里亚城市
 liberia college:利比里亚学院
 liberia college:賴比瑞亞學院
 liberia country:利比里亚国家
+liberia destiny party:利比里亚命运党
 liberia during:利比里亚期间
 liberia election:利比里亚选举
 liberia enter:利比里亚进入
+liberia football association:利比里亚足球协会
 liberia football association:利比里亞足球協會
 liberia from:利比里亚从
 liberia government:利比里亚政府
@@ -5993,6 +6001,8 @@ liberty and security:自由和安全
 liberty and self-governance:自由和自治
 liberty and self:自由与自我
 liberty and socialism:自由和社会主义
+liberty and solidarity:自由与团结
+liberty and solidarity:自由和团结
 liberty and sovereignty:自由与主权
 liberty and sovereignty:自由和主权
 liberty and union now:自由与联盟现在
@@ -6179,6 +6189,7 @@ liberty roundabout:自由圓環
 liberty school:自由学校
 liberty science center:自由科学中心
 liberty sculpture park:自由雕塑公园
+liberty sculpture park:自由雕塑公園
 liberty ship:自由船
 liberty ship:自由轮
 liberty show:自由显示
@@ -6221,6 +6232,7 @@ liberty towers:自由塔
 liberty township:利伯蒂镇区
 liberty training:自由训练
 liberty tree:自由树
+liberty union party:自由联盟党
 liberty union:自由联盟
 liberty university professor:自由大学教授
 liberty university:自由大学
@@ -8803,9 +8815,12 @@ liechtenstein bus:列支敦斯登巴士
 liechtenstein castle:列支敦士登城堡
 liechtenstein castle:列支敦斯登城堡
 liechtenstein citizens:列支敦士登公民
+liechtenstein city palace:列支敦士登城市宫殿
+liechtenstein city palace:列支敦斯登城市宮殿
 liechtenstein city:列支敦士登城市
 liechtenstein city:列支敦斯登城市
 liechtenstein cuisine:列支敦斯登飲食
+liechtenstein football association:列支敦士登足球协会
 liechtenstein football association:列支敦士登足球協會
 liechtenstein football cup:列支敦士登盃
 liechtenstein football:列支敦士登足球
@@ -8836,6 +8851,7 @@ liechtenstein palace:列支敦士登宫殿
 liechtenstein passport:列支敦士登护照
 liechtenstein politician:列支敦士登政治家
 liechtenstein prince:列支敦士登王子
+liechtenstein state library:列支敦士登国家图书馆
 liechtenstein state library:列支敦士登國家圖書館
 liechtenstein team:列支敦士登队
 liechtenstein top:列支敦士登顶部
@@ -9015,6 +9031,7 @@ lienz dolomites:利恩茨多洛米蒂山脈
 lienz:利恩茨
 lieoux:列乌
 liepa parish:利耶帕堂区
+liepaja international airport:利耶帕亚国际机场
 liepaja:利耶帕亚
 liepaya:利耶帕亚
 liepen:利彭
@@ -11213,6 +11230,9 @@ life outside:生活外面
 life over the years:生活多年来
 life overall:生活整体
 life overture:生命序曲
+life pacific college:生命太平洋学院
+life pacific college:生命太平洋學院
+life pacific university:生命太平洋大學
 life pacific university:生命太平洋學院
 life pacific:生命太平洋
 life pages:生活页
@@ -13098,6 +13118,8 @@ light grid:光网格
 light grind:光磨
 light group:光组
 light guinea:光几内亚
+light gun game:光枪游戏
+light gun games:光枪游戏
 light gun shooter:光枪射击游戏
 light gun:光枪
 light gun:光線槍
@@ -14312,6 +14334,7 @@ lighting control software system:照明控制软件系统
 lighting control solution:照明控制解决方案
 lighting control solutions:照明控制解决方案
 lighting control switch:照明控制开关
+lighting control system:照明控制系統
 lighting control system:照明控制系统
 lighting control system:燈光控制系統
 lighting control systems:照明控制系统
@@ -16545,6 +16568,7 @@ lijiang road:漓江路
 lijiang road:漓江道
 lijiang road:砺江路
 lijiang rural cooperative bank:漓江农村合作银行
+lijiang sanyi airport:丽江三义机场
 lijiang sanyi international airport:丽江三义国际机场
 lijiang sanyi international airport:麗江三義國際機場
 lijiang shanghaixinjiyuan school:丽江上海新纪元学校
@@ -19762,7 +19786,9 @@ lille and strasbourg:里尔和斯特拉斯堡
 lille cathedral:里尔主教座堂
 lille cathedral:里爾主教座堂
 lille catholic university:里尔天主教大学
+lille catholic university:里爾天主教大學
 lille city government:里尔市政府
+lille europe station:里尔欧洲站
 lille europe station:里爾歐洲站
 lille europe:里尔欧洲
 lille europe:里爾歐洲
@@ -19770,6 +19796,7 @@ lille flandres station:里尔佛兰德站
 lille football club:里尔足球俱乐部
 lille in france:里尔在法国
 lille kari rock:利萊卡里岩
+lille lesquin airport:里尔莱坎机场
 lille mayor:里尔市长
 lille metro:里尔地铁
 lille midfielder:里尔中场
@@ -19836,6 +19863,7 @@ lilongvo:利隆圭
 lilongvė:利隆圭
 lilongwe and mzuzu:利隆圭和姆祖祖
 lilongwe district:利隆圭縣
+lilongwe international airport:利隆圭国际机场
 lilongwe:利隆圭
 lilongxiashan:lǐlóngxiàshān
 lilongxiashan:ㄌㄧˇㄌㄨㄥˊㄒㄧㄚˋㄕㄢ
@@ -20052,6 +20080,7 @@ lima cathedral:利马主教座堂
 lima cricket:利馬板球
 lima district:利馬區
 lima group:利馬集團
+lima international airport:利马国际机场
 lima kedai toll plaza:五间店收费站
 lima kedai:五间店
 lima latin america:利馬拉丁美洲
@@ -20624,6 +20653,7 @@ limit american companies:限制美国公司
 limit american:限制美国人
 limit americans:限制美国人
 limit americans:限制美國人
+limit and colimit:极限与余极限
 limit and continuity:极限与连续
 limit and control you:限制和控制你
 limit and control:限制和控制
@@ -22500,6 +22530,7 @@ lincoln began:林肯开始
 lincoln believe:林肯相信
 lincoln bible:林肯圣经
 lincoln biography:林肯传记
+lincoln bishop university:林肯主教大學
 lincoln bishop:林肯主教
 lincoln bomber:林肯轰炸机
 lincoln boulevard:林肯大道
@@ -22693,6 +22724,8 @@ lincoln park high school:林肯公园高中
 lincoln park medical research:林肯公园医学研究
 lincoln park store:林肯公园商店
 lincoln park zoo:林肯公园动物园
+lincoln park zoo:林肯公园動物園
+lincoln park zoo:林肯公園動物園
 lincoln park:林肯公园
 lincoln park:林肯公園
 lincoln penny:林肯便士
@@ -25944,6 +25977,8 @@ lingnan industrial park:岭南工业园
 lingnan kindergarten & day nursery:嶺南幼稚園
 lingnan life:岭南生活
 lingnan lu:岭南路
+lingnan mingzhu gymnasium:岭南明珠体育馆
+lingnan mingzhu gymnasium:岭南明珠體育館
 lingnan modern clinical:岭南现代临床
 lingnan modern:岭南现代
 lingnan normal university:嶺南師範學院
@@ -32144,6 +32179,7 @@ lishuicun:丽水村
 lishuicun:梨水村
 lishuicun:里水村
 lishuiqiao (line 13):立水桥
+lishuiqiao south station:立水桥南站
 lishuiqiao south:立水桥南
 lishuiqiao station:立水桥站
 lishuiqiao west road:lìshuǐ qiáo xī lù
@@ -40872,6 +40908,7 @@ lithium iodate:碘酸锂
 lithium iodide:碘化锂
 lithium ion and lithium metal:锂离子和锂金属
 lithium ion and lithium:锂离子和锂
+lithium ion batteries:锂离子电池
 lithium ion battery application:锂离子电池应用
 lithium ion battery applications:锂离子电池应用
 lithium ion battery design:锂离子电池设计
@@ -41404,6 +41441,7 @@ lithuania decided:立陶宛决定
 lithuania defeat:立陶宛击败
 lithuania energy minister:立陶宛能源部
 lithuania enter:立陶宛进入
+lithuania football association:立陶宛足球协会
 lithuania government:立陶宛政府
 lithuania have been:立陶宛已经
 lithuania hopes:立陶宛希望
@@ -45401,6 +45439,7 @@ liuliping:六里坪镇
 liulipu:六里堡
 liulipucun:六里铺村
 liuliqiao community:六里桥社区
+liuliqiao east station:六里桥东站
 liuliqiao east:liùlĭqiáodōng
 liuliqiao east:六里桥东
 liuliqiao station:六里桥站
@@ -46996,6 +47035,7 @@ liuzhou rail transit line 2 (on construction):柳州轨道交通2号线(在建)
 liuzhou rail transit line 2:柳州轨道交通2号线（在建）
 liuzhou rail transit network:柳州轨道交通线网
 liuzhou rail transit:柳州轨道交通
+liuzhou railway bureau:柳州铁路局
 liuzhou railway station:柳州站
 liuzhou road:柳州路
 liuzhou senior high school (gaoxin campus):柳州高级中学（高新校区）
@@ -47597,6 +47637,7 @@ liver function and physiology:肝功能和生理学
 liver function enhancement:肝功能增强
 liver function is normal:肝功能是正常的
 liver function might not:肝功能可能不是
+liver function test:肝功能测试
 liver function tests:肝功能測試
 liver function value:肝功能值
 liver function:肝功能
@@ -47794,6 +47835,7 @@ liverpool club:利物浦俱乐部
 liverpool coach:利物浦教练
 liverpool college:利物浦學院
 liverpool come:利物浦来
+liverpool community college:利物浦社區學院
 liverpool complete:利物浦完成
 liverpool conference:利物浦会议
 liverpool control:利物浦控制
@@ -47959,6 +48001,7 @@ liverpool town hall:利物浦市政厅
 liverpool township:利物浦鎮區
 liverpool train station:利物浦火车站
 liverpool train:利物浦火车
+liverpool university college:利物浦大學學院
 liverpool university hospital:利物浦大学医院
 liverpool university press:利物浦大学出版社
 liverpool university press:利物浦大學出版社
@@ -47971,6 +48014,8 @@ liverpool was established in:利物浦成立于
 liverpool was founded in:利物浦成立于
 liverpool water:利物浦水
 liverpool website:利物浦网站
+liverpool west derby:利物浦西德比
+liverpool west derby:利物浦西打比
 liverpool will create more:利物浦将创造更多
 liverpool will hope they:利物浦将希望他们
 liverpool will provide:利物浦将提供
@@ -47986,6 +48031,7 @@ liverpool women's hospital:利物浦女子醫院
 liverpool women:利物浦妇女
 liverpool won:利物浦赢了
 liverpool working-class:利物浦工人阶级
+liverpool world museum:利物浦世界博物馆
 liverpool would win the:利物浦将赢得这
 liverpool would:利物浦将
 liverpool you have to:利物浦你必须
@@ -48494,6 +48540,7 @@ livingston community:利文斯顿社区
 livingston county:利文斯頓縣
 livingston county:利文斯顿县
 livingston decided:利文斯顿决定
+livingston football club:利文斯顿足球俱乐部
 livingston football:利文斯顿足球
 livingston hall:利文斯顿大厅
 livingston has a ready:利文斯顿有一个准备好的

@@ -1942,6 +1942,9 @@ valencia dialekto:巴伦西亚语
 valencia dialekto:巴倫西亞語
 valencia fallas:法雅節
 valencia fine art:瓦倫西亞美術
+valencia football club:巴伦西亚足球俱乐部
+valencia football club:瓦伦西亚足球俱乐部
+valencia football club:華倫西亞足球俱乐部
 valencia gardens:慧蘭花園
 valencia island:巴伦西亚岛
 valencia island:瓦伦西亚岛
@@ -1955,6 +1958,10 @@ valencia marathon:瓦伦西亚马拉松
 valencia metro:巴伦西亚地铁
 valencia municipality:巴伦西亚自治区
 valencia municipality:瓦伦西亚自治区
+valencia north station:巴伦西亚北站
+valencia north station:瓦伦西亚北站
+valencia north station:瓦倫西亞北站
+valencia north station:華倫西亞北站
 valencia north:瓦倫西亞北
 valencia open:瓦伦西亚公开赛
 valencia province:巴伦西亚省
@@ -4381,6 +4388,7 @@ value discount:值折扣
 value discovery:值发现
 value discussion:值讨论
 value display:值显示
+value distribution theory:值分布理论
 value distribution:值分布
 value diverse:值多元化
 value diversity:值多样性
@@ -5362,6 +5370,7 @@ vamberk:萬貝爾克
 vammala:万玛拉
 vampeta:雲比達
 vampire abilities:吸血鬼能力
+vampire academy series:吸血鬼学院系列
 vampire academy:吸血鬼学院
 vampire algae:吸血鬼藻
 vampire alliance:吸血鬼联盟
@@ -5974,11 +5983,17 @@ vancouver giants:溫哥華巨人
 vancouver granville:溫哥華加蘭護選區
 vancouver hastings:溫哥華喜士定選區
 vancouver headquarters:溫哥華總部
+vancouver international airport:温哥华国际机场
+vancouver international airport:溫哥華国际机场
 vancouver international airport:溫哥華國際機場
 vancouver international film festival:温哥华国际电影节
 vancouver is canada:溫哥華是加拿大
 vancouver island coal:溫哥華島煤
+vancouver island colony:温哥华岛殖民地
+vancouver island university:温哥华岛大学
 vancouver island university:溫哥華島大學
+vancouver island wolf:温哥华岛狼
+vancouver island wolves:温哥华岛狼
 vancouver island:温哥华岛
 vancouver island:溫哥華島
 vancouver kensington:溫哥華堅盛頓選區
@@ -5997,6 +6012,7 @@ vancouver park board:溫哥華公園及康樂局
 vancouver point grey:溫哥華灰角選區
 vancouver police:溫哥華警察
 vancouver province:溫哥華省
+vancouver public library:温哥华公共图书馆
 vancouver public library:溫哥華公共圖書館
 vancouver quadra:溫哥華奎特拉選區
 vancouver quilchena:溫哥華奎秦拿選區
@@ -6009,11 +6025,13 @@ vancouver south:溫哥華南
 vancouver strathcona:溫哥華士達孔拿選區
 vancouver sun:溫哥華太陽報
 vancouver system:温哥华参考文献格式
+vancouver talmud torah:溫哥華塔木德妥拉
 vancouver to dallas:溫哥華到達拉斯
 vancouver university:溫哥華島大學
 vancouver version:溫哥華版本
 vancouver west end:溫哥華西端區選區
 vancouver whitecaps fc:溫哥華白浪足球會
+vancouver winter olympics:温哥华冬季奥运会
 vancouver yaletown:溫哥華耶魯鎮選區
 vancouver:温哥华
 vancouver:溫哥華
@@ -6610,6 +6628,7 @@ vapor atmosphere:蒸气大气层
 vapor barrier:蒸气屏障
 vapor classification and equipment:蒸气分类与设备
 vapor classification:蒸气分类
+vapor cloud explosion:蒸气云爆炸
 vapor clouds:蒸气云
 vapor compatibility:蒸气兼容性
 vapor compress:蒸气压缩
@@ -12710,6 +12729,7 @@ vatican city:fàndìgāng
 vatican city:梵蒂冈
 vatican city:梵蒂冈城市
 vatican city:梵蒂岡
+vatican climate forest:梵蒂岡氣候森林
 vatican coin:梵蒂冈硬币
 vatican committee:梵蒂冈委员会
 vatican conference:梵蒂冈会议
@@ -12834,6 +12854,8 @@ vatican says:梵蒂冈说
 vatican scandal:梵蒂冈丑闻
 vatican scientists:梵蒂冈科学家
 vatican secret archive:梵蒂冈秘密档案
+vatican secret archives:梵蒂冈秘密档案馆
+vatican secret archives:梵蒂岡秘密檔案館
 vatican secret:梵蒂冈秘密
 vatican secretary of state:梵蒂冈国务卿
 vatican security:梵蒂冈保安

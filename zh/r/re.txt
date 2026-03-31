@@ -608,7 +608,12 @@ reaction consume:反应消耗
 reaction consume:反應消耗
 reaction content:反应内容
 reaction continue:反应持续
+reaction control system:反应控制系统
+reaction control system:反應控制系統
+reaction control system:反馈控制系统
 reaction control system:姿态控制发动机
+reaction control systems:反应控制系统
+reaction control systems:反馈控制系统
 reaction control:反应控制
 reaction control:反馈控制
 reaction coordinate:反应坐标
@@ -2806,6 +2811,7 @@ reader emails:读者电子邮件
 reader enough:读者足够的
 reader enter:读者进入
 reader even:读者甚至
+reader experience team:读者体验团队
 reader experience:读者体验
 reader feedback:读者反馈
 reader feel:读者感觉
@@ -3009,6 +3015,7 @@ reading food label:閱讀食品標籤
 reading food label:閱讀食物標籤
 reading food:閱讀食品
 reading food:閱讀食物
+reading football club:雷丁足球俱乐部
 reading format:閱讀格式
 reading frame:閱讀框架
 reading glasses:閱讀眼鏡
@@ -18262,6 +18269,7 @@ red velvetfish:紅絨鮋
 red vented bulbul:黑喉红臀鹎
 red vented cockatoo:菲律宾凤头鹦鹉
 red verdun:红色凡尔登
+red verona marble:红色维罗纳大理石
 red version:红色版本
 red victoria:红色维多利亚
 red vienna:紅色維也納
@@ -18820,6 +18828,7 @@ redmond office:雷德蒙德办公室
 redmond said:雷德蒙德说
 redmond says:雷德蒙德说
 redmond site:雷德蒙德站点
+redmond technology station:雷德蒙德科技站
 redmond technology:雷德蒙德科技
 redmond university:雷德蒙德大学
 redmond:雷德蒙德
@@ -37134,6 +37143,7 @@ religion and art:宗教和艺术
 religion and artistic freedom:宗教和艺术自由
 religion and atheism:宗教和无神论
 religion and background:宗教和背景
+religion and belief:宗教与信仰
 religion and belief:宗教和信仰
 religion and better health:宗教和更好的健康
 religion and business travel:宗教和商业旅行
@@ -37176,6 +37186,7 @@ religion and food:宗教和食物
 religion and foreign policy work:宗教与外交政策工作
 religion and foreign policy:宗教与外交政策
 religion and freedom:宗教和自由
+religion and gender:宗教与性
 religion and genocide:宗教和种族灭绝
 religion and geography:宗教地理学
 religion and global development:宗教和全球发展
@@ -37197,6 +37208,8 @@ religion and his age:宗教和他的年龄
 religion and his theory:宗教与他的理论
 religion and history:宗教与历史
 religion and history:宗教和历史
+religion and homosexuality:宗教与同性恋
+religion and homosexuality:宗教和同性恋
 religion and homosexuality:宗教和同性戀
 religion and horror:宗教与恐怖
 religion and how to keep:宗教和如何保持
@@ -37250,6 +37263,7 @@ religion and peace:宗教与和平
 religion and peacebuilding:宗教与和平
 religion and people:宗教和人民
 religion and people:宗教和百姓
+religion and personality:宗教与人格
 religion and philosophy courses:宗教和哲学课程
 religion and philosophy department:宗教和哲学系
 religion and philosophy master:宗教和哲学大师
@@ -42370,6 +42384,7 @@ reni takagi:高城蕾妮
 renieblas:雷涅夫拉斯
 renigunta:雷尼贡塔
 renin and aldosterone:肾素和醛固酮
+renin angiotensin system:肾素血管紧张素系统
 renin levels:肾素水平
 renin measurement:肾素测量
 renin ratio:肾素比
@@ -44439,6 +44454,7 @@ report any new:報告任何新的
 report any pain:报告任何疼痛
 report any potential conflict:报告任何潜在的冲突
 report any potential:报告任何潜在的
+report any problems:报告任何问题
 report any:報告任何
 report any:报告任何
 report anything:报告任何事
@@ -46853,6 +46869,8 @@ republic asset:共和国资产
 republic asteroid:共和国小行星
 republic at sea:共和国在海
 republic athletes:共和国运动员
+republic aviation company:共和国航空公司
+republic aviation corporation:共和国航空公司
 republic aviation:共和国航空
 republic await:共和国等待
 republic award:共和国授予
@@ -48573,6 +48591,8 @@ request contributions:请求捐助
 request contributors:请求贡献者
 request control:请求控制
 request coordination:请求协调
+request copyright permission:请求版权许可
+request copyright permission:请求著作權许可
 request count:请求计数
 request customer:请求客户
 request data:请求数据
@@ -71931,6 +71951,7 @@ revolution come:革命来
 revolution committee:革命委员会
 revolution company:革命公司
 revolution continue:革命继续
+revolution continues alliance:革命继续联盟
 revolution continues:革命继续
 revolution controversy:革命争论
 revolution could:革命能
@@ -72829,6 +72850,7 @@ reynolds just:雷诺兹只
 reynolds knows hollywood:雷诺兹知道好莱坞
 reynolds knows:雷诺兹知道
 reynolds look:雷诺兹看
+reynolds metal company:雷诺兹金属公司
 reynolds metal:雷诺兹金属
 reynolds now hide:雷诺兹现在隐藏
 reynolds now:雷诺兹现在

@@ -2292,15 +2292,18 @@ kiev apartment:基辅公寓
 kiev area:基辅地区
 kiev arsenal january uprising:基辅兵工厂起义
 kiev arsenal:基輔兵工廠
+kiev art school:基辅艺术学校
 kiev ballet:基辅芭蕾舞
 kiev battalion of volunteer:基辅营的志愿者
 kiev battalion:基辅营
 kiev be:基辅成为
 kiev bolshevik uprising:基輔布爾什維克起義
+kiev bolshevik uprising:基辅布尔什维克起义
 kiev brand:基辅品牌
 kiev cake:基辅蛋糕
 kiev camera:基辅相机
 kiev cannot:基辅不能
+kiev cave monastery:基輔洞穴修道院
 kiev cave monastery:基辅洞穴修道院
 kiev cave:基辅洞穴
 kiev center:基辅中心
@@ -2387,6 +2390,7 @@ kiev tank:基辅坦克
 kiev television tower:基辅电视塔
 kiev television:基辅电视
 kiev time:基辅时间
+kiev tv tower:基辅电视塔
 kiev university:基輔大学
 kiev university:基輔大學
 kiev university:基辅大学
@@ -3296,6 +3300,7 @@ kilo class submarine:基洛级潜艇
 kilo:基尔
 kilo:基爾
 kilobit of information:千比特的信息
+kilobit per second:千比特每秒
 kilobit per:千比特每
 kilobit:千比特
 kilobyte computer:千字节计算机
@@ -3332,6 +3337,8 @@ kilometer interval:千米间隔
 kilometer line:千米线
 kilometer long:千米长的
 kilometer null:零公里点
+kilometer per hour:千米每小时
+kilometer per second:千米每秒
 kilometer road:千米道路
 kilometer waterway:千米航道
 kilometer-square array (lhaaso):电磁粒子/缪子平方千米阵列
@@ -3503,6 +3510,9 @@ kilometre of cable:公里的电缆
 kilometre of coastline:公里的海岸线
 kilometre of forest:公里的森林
 kilometre of road:公里的道路
+kilometre per hour:公里每小时
+kilometre per hour:千米每小时
+kilometre per second:公里每秒
 kilometre per second:千米每秒
 kilometre per:公里每
 kilometre per:千米每
@@ -5657,6 +5667,7 @@ king and his wife:国王和他的妻子
 king and his wife:王和他的妻子
 king and i:国王与我
 king and i:国王和我
+king and i:王与我
 king and i:王和我
 king and john:王和约翰
 king and johnson:国王和约翰逊
@@ -6303,6 +6314,7 @@ king is safe:王是安全的
 king is the only:王是唯一的
 king island emu:王島鴯鶓
 king island:国王岛
+king james bible:国王詹姆士圣经
 king james i of aragon:国王海梅一世
 king james i of england:英格兰国王詹姆斯一世
 king james i of scotland:苏格兰国王詹姆斯一世
@@ -6810,6 +6822,7 @@ king of westphalia:西發里亞国王
 king of wine:国王的葡萄酒
 king of wine:王的葡萄酒
 king of wolves:狼王
+king of women:女人们的王
 king of wu:吴王
 king of wuyue:吴越国王
 king of xinjiang:新疆王
@@ -7081,6 +7094,7 @@ king street north:国王街北
 king street patriot:国王街爱国者
 king street retail:国王街零售
 king street south:国王街南
+king street station:国王街站
 king street station:景街站
 king street west:国王街西
 king street wharf:京街碼頭
@@ -8155,6 +8169,7 @@ kingston children's centre:京斯敦幼兒園
 kingston college:金斯頓學院
 kingston court:京都閣
 kingston future:金斯顿未来
+kingston grammar school:金斯顿语法学校
 kingston health science:金斯顿健康科学
 kingston health:金斯顿健康
 kingston heights:景峯閣
@@ -8347,6 +8362,7 @@ kinki daigaku (kindai university):近畿大學
 kinki expressway:近畿自動車道
 kinki expressway:近畿高速公路
 kinki kids:近畿小子
+kinki nippon railway:近畿日本铁路
 kinki proportional representation block:近畿比例代表區
 kinki region:近畿地区
 kinki sharyo:近畿車輛
@@ -8546,6 +8562,7 @@ kinsey scale:金賽量表
 kinshasa airport:金沙萨机场
 kinshasa airport:金沙薩機場
 kinshasa democratic republic of the congo temple:剛果民主共和國金夏沙聖殿
+kinshasa international airport:金沙萨国际机场
 kinshasa province:金夏沙省
 kinshasa province:金沙萨省
 kinshasa university:金夏沙大學
@@ -8933,6 +8950,7 @@ kirchheim im innkreis:因河地区基希海姆
 kirchheim unter teck:泰克山下基希海姆
 kirchheimbolanden:基希海姆博兰登
 kirchhoff and robert:基尔霍夫和罗伯特
+kirchhoff integral theorem:基尔霍夫积分定理
 kirchhoff integral theorem:基爾霍夫積分定理
 kirchhoff matrix:基尔霍夫矩阵
 kirchhoff theory:基尔霍夫理论
@@ -10902,6 +10920,7 @@ kitchen sink cookie:厨房水槽饼干
 kitchen sink drama:厨房水槽戏剧
 kitchen sink or bathtub:廚房水槽或浴缸
 kitchen sink painter:厨房水槽画家
+kitchen sink press:厨房水槽出版社
 kitchen sink realism:厨槽现实主义
 kitchen sink:厨房水槽
 kitchen sink:廚房水槽

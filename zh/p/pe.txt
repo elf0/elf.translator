@@ -486,6 +486,7 @@ peace eye:和平眼
 peace family:和平家庭
 peace federation:和平联盟
 peace film festival:和平电影节
+peace film prize:和平电影奖
 peace film:和平电影
 peace finally:和平最终
 peace flag:和平旗
@@ -791,7 +792,9 @@ peace respect:和平尊重
 peace return:和平返回
 peace revolution:和平革命
 peace rhine:和平莱茵河
+peace river airport:和平河機場
 peace river center:和平河中心
+peace river region:和平河地区
 peace river regional district:和平河地區
 peace river suspension bridge:皮斯河吊桥
 peace river:和平河
@@ -3734,6 +3737,7 @@ peking pork:京都排骨
 peking road sitting-out area:北京道休憩處
 peking road:北京路
 peking road:北京道
+peking roast duck:北京烤鸭
 peking station hostel:北京站青年旅舍
 peking südbahnhof:北京南站
 peking television:北京电视
@@ -3774,6 +3778,7 @@ peking university global alumni:北京大学全球校友
 peking university global:北京大学全球
 peking university graduates:北京大学毕业生
 peking university gymnasium:北京大学体育馆
+peking university gymnasium:北京大學體育館
 peking university health science center:北京大学医学部
 peking university health:北京大学健康
 peking university hong kong:北京大学香港
@@ -3787,6 +3792,7 @@ peking university law school professor:北京大学法学院教授
 peking university law school:北京大学法学院
 peking university legal clinic:北京大学法律诊所
 peking university library:北京大学图书馆
+peking university library:北京大學图书馆
 peking university library:北京大學圖書館
 peking university literature:北京大学文学
 peking university look:北京大学看
@@ -4736,7 +4742,10 @@ penang sports school (smk mutiara impian):槟城州体育学校
 penang sports school (smk mutiara impian):檳城州體育學校
 penang state assembly building:槟城州立法议会建筑
 penang state assembly building:檳城州立法議會建築
+penang state election:槟城州选举
+penang state government:槟城州政府
 penang state legislative assembly:槟城州议会
+penang state mosque:槟城州清真寺
 penang state mosque:槟城州立清真寺
 penang state mosque:檳城州立清真寺
 penang state stadium:槟城州立体育场
@@ -5319,7 +5328,9 @@ pengdu middle school:彭杜中学
 pengducun:彭杜村
 pengducun:彭杜村乡
 pengduqiewan:彭都切晚
+penge east station:彭奇東站
 penge west railway station:彭奇西站
+penge west station:彭奇西站
 penge west:彭奇西
 penge:彭奇
 pengembangan timur pangkalan udara changi:樟宜空军基地东扩建
@@ -6839,6 +6850,7 @@ pennsylvania province:宾夕法尼亚州省
 pennsylvania province:宾夕法尼亚省
 pennsylvania railroad company:宾夕法尼亚铁路公司
 pennsylvania railroad company:賓夕法尼亞鐵路公司
+pennsylvania railroad museum:宾夕法尼亚州铁路博物馆
 pennsylvania railroad:宾夕法尼亚州铁路
 pennsylvania railroad:宾夕法尼亚鐵路
 pennsylvania railroad:宾夕法尼亚铁路
@@ -6864,6 +6876,8 @@ pennsylvania state archive:宾夕法尼亚州档案
 pennsylvania state border:宾夕法尼亚州边界
 pennsylvania state capitol:賓夕法尼亞州議會大廈
 pennsylvania state farm:宾夕法尼亚州农场
+pennsylvania state flag:宾夕法尼亚州州旗
+pennsylvania state flag:賓夕法尼亞州州旗
 pennsylvania state heavyweight champion:宾夕法尼亚州重量级冠军
 pennsylvania state heavyweight:宾夕法尼亚州重量级
 pennsylvania state law:宾夕法尼亚州法律
@@ -6892,6 +6906,7 @@ pennsylvania train station:宾夕法尼亚州火车站
 pennsylvania transportation:宾夕法尼亚运输
 pennsylvania turnpike:賓州收費公路
 pennsylvania u.s.:宾夕法尼亚州美国
+pennsylvania university press:宾夕法尼亚大学出版社
 pennsylvania university:宾夕法尼亚大学
 pennsylvania university:宾夕法尼亚大學
 pennsylvania university:賓夕法尼亞州大學
@@ -7009,6 +7024,7 @@ pensa:奔薩
 pensacola bay bridge:彭萨科拉海湾大桥
 pensacola beach:彭萨科拉海滩
 pensacola class cruiser:彭萨科拉级重巡洋舰
+pensacola international airport:彭萨科拉国际机场
 pensacola mountains:彭薩科拉山脈
 pensacola:彭萨科拉
 pensacola:彭薩科拉
@@ -8357,6 +8373,7 @@ people check websites:人们检查网站
 people check:人们检查
 people check:人民检查
 people chewing:人们咀嚼
+people choice awards:人民选择奖
 people choice awards:民选择奖
 people choice:人们选择
 people choice:人民选择
@@ -9646,6 +9663,7 @@ people policies:人民政策
 people policy:人民政策
 people politics:人民政治
 people poor:人们贫穷的
+people power day:人民力量日
 people power fund:人民力量基金
 people power monument:人民力量纪念碑
 people power party:人民力量党
@@ -12340,8 +12358,10 @@ perak parkinson's association:霹雳帕金森协会
 perak river:霹雳河
 perak river:霹靂河
 perak road:大路后（霹雳路）
+perak royal museum:霹雳州皇家博物馆
 perak stadium:霹雳体育场
 perak stadium:霹靂體育場
+perak state council:霹靂州议会
 perak state legislative assembly:霹雳州议会
 perak state:霹靂州
 perak suyu:霹雳州
@@ -15753,6 +15773,7 @@ perfect world and the united states:完美世界与美国
 perfect world cinemas:完美世界影城
 perfect world entertainment:完美世界娱乐
 perfect world foundation:完美世界基金
+perfect world games:完美世界游戏
 perfect world international:完美世界国际
 perfect world network:完美世界网络
 perfect world pictures:完美世界影视
@@ -17041,6 +17062,7 @@ performance areas:表演领域
 performance armour:性能装甲
 performance art and sculpture:表演艺术与雕塑
 performance art center:表演艺术中心
+performance art centre:表演艺术中心
 performance art company:表演艺术公司
 performance art experiment:行为艺术实验
 performance art in new york city:行为艺术在纽约市
@@ -20432,6 +20454,7 @@ perigē:佩里格
 perigė-1:佩里格-1
 perigė-2:佩里格-2
 perigė:佩里格
+perihelion and aphelion:近日点和远日点
 perihelion and aphelion:近日點和遠日點
 perihelion distance:近日点距离
 perihelion motion:近日点运动
@@ -21279,6 +21302,7 @@ perna viridis:青口
 pernach:箭羽錘
 pernambouc:伯南布哥州
 pernambucan revolt:伯南布哥起义
+pernambuco football championship:伯南布哥州足球锦标赛
 pernambuco pygmy owl:伯南布哥鵂鶹
 pernambuco:伯南布哥州
 pernambucum:伯南布哥州
@@ -21393,6 +21417,7 @@ peroz iii:卑路斯三世
 perpendicular angle:垂直角
 perpendicular armour:垂直装甲
 perpendicular axis theorem:垂直軸定理
+perpendicular axis theorem:垂直轴定理
 perpendicular bisector:垂直平分線
 perpendicular block:垂直块
 perpendicular column:垂直柱
@@ -21855,6 +21880,7 @@ persephone theatre:珀耳塞福涅剧院
 persephone:珀耳塞福涅
 persepoli:波斯波利斯
 persepolis and japan:波斯波利斯和日本
+persepolis football club:波斯波利斯足球俱乐部
 persepolis:波斯波利斯
 perserschutt:波斯废墟
 perseus arm:英仙臂
@@ -22105,6 +22131,7 @@ persijos įlanka:波斯灣
 persik kediri:佩斯克諫義里
 persil:寶瀅
 persimmon hotel:柿子紅快捷旅店
+persimmon leaf tea:柿叶茶
 persimmon oil:柿油
 persimmon plc:柿子公司
 persimmon tree:柿树
@@ -23405,6 +23432,7 @@ perth depot:珀斯仓库
 perth e kinross:珀斯和金罗斯
 perth east:珀斯东
 perth eta kinross:珀斯和金罗斯
+perth football club:珀斯足球俱乐部
 perth forever:珀斯永远
 perth garden:巴富花園
 perth gazette:珀斯公报
@@ -23451,6 +23479,7 @@ perth residents:珀斯居民
 perth royal:珀斯皇家
 perth scotland:珀斯苏格兰
 perth show:珀斯显示
+perth soccer club:珀斯足球俱乐部
 perth stadium:伯斯體育場
 perth stadium:珀斯体育场
 perth stadium:珀斯体育馆

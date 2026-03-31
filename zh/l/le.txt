@@ -2289,6 +2289,7 @@ leaf tea:葉茶
 leaf team:叶队
 leaf tiger-tail:叶虎尾
 leaf tiger:叶虎
+leaf tissue structure:叶组织结构
 leaf tissue:叶组织
 leaf to pebble:叶到卵石
 leaf tree:叶树
@@ -5842,6 +5843,7 @@ learning management system notice:学习管理系统布告
 learning management system software:学习管理系统软件
 learning management system standard:学习管理系统标准
 learning management system:学习管理系统
+learning management systems:学习管理系统
 learning management tasks:学习管理任务
 learning management theme:学习管理主题
 learning management tool:学习管理工具
@@ -8367,6 +8369,7 @@ lebanon at the olympics:奥林匹克运动会黎巴嫩代表团
 lebanon became:黎巴嫩成为
 lebanon bombing:黎巴嫩爆炸
 lebanon border:黎巴嫩边界
+lebanon broadcasting corporation:黎巴嫩广播公司
 lebanon cabinet:黎巴嫩内阁
 lebanon campaign:黎巴嫩战役
 lebanon cancel:黎巴嫩取消
@@ -8386,6 +8389,7 @@ lebanon emigrant:黎巴嫩移民
 lebanon etc:黎巴嫩等等
 lebanon experience:黎巴嫩体验
 lebanon finally:黎巴嫩最终
+lebanon football association:黎巴嫩足球协会
 lebanon government:黎巴嫩政府
 lebanon has been:黎巴嫩已经
 lebanon has forty-one:黎巴嫩有四十一
@@ -8471,6 +8475,7 @@ lebedev and his wife:列别杰夫和他的妻子
 lebedev institute of precision mechanics and computer engineering:列别捷夫精密机械与计算技术研究所
 lebedev institute:列别杰夫研究所
 lebedev physical institute:列別捷夫物理研究所
+lebedev physics institute:列别杰夫物理研究所
 lebedev said:列别杰夫说
 lebedev studio:列别杰夫工作室
 lebedev:列别杰夫
@@ -10299,6 +10304,7 @@ leeds attract:利兹吸引
 leeds be:利兹成为
 leeds beckett university:利茲貝克特大學
 leeds boss:利兹老板
+leeds bradford airport:利兹布拉德福德机场
 leeds bradford airport:里茲布拉福機場
 leeds bradford international airport:利兹布拉德福德国际机场
 leeds bradford:利兹布拉德福德
@@ -14101,6 +14107,7 @@ lego foundation:樂高基金
 lego friends:乐高朋友
 lego fusion town master:乐高融合城镇大师
 lego fusion:乐高融合
+lego game series:乐高游戏系列
 lego game:乐高游戏
 lego games:乐高游戏
 lego golden gate bridge:乐高金门大桥
@@ -14109,6 +14116,7 @@ lego harry potter:乐高哈利波特
 lego harry potter:樂高哈利波特
 lego harry:乐高哈利
 lego harry:樂高哈利
+lego hero factory:樂高英雄工廠
 lego history:乐高历史
 lego horse:乐高马
 lego house:乐高房子
@@ -14990,6 +14998,7 @@ leiden scale:萊頓溫標
 leiden science:莱顿科学
 leiden to alkmaar:莱顿到阿尔克马尔
 leiden university library:莱顿大学图书馆
+leiden university library:萊頓大學圖書館
 leiden university medical center:萊頓大學醫學中心
 leiden university:莱顿大学
 leiden university:萊頓大學
@@ -15288,6 +15297,7 @@ leipzig campaign:莱比锡战役
 leipzig card:莱比锡卡
 leipzig christmas market:莱比锡圣诞市场
 leipzig city centre:莱比锡市中心
+leipzig city tunnel:萊比錫城市隧道
 leipzig class corvette:莱比锡级护卫舰
 leipzig class cruiser:萊比錫級輕巡洋艦
 leipzig coach:莱比锡教练
@@ -15319,6 +15329,7 @@ leipzig street:莱比锡街道
 leipzig trade:莱比锡贸易
 leipzig trial:莱比锡审判
 leipzig university library:莱比锡大学图书馆
+leipzig university library:萊比錫大學圖書館
 leipzig university:莱比锡大学
 leipzig university:莱比锡大學
 leipzig university:萊比錫大学
@@ -18718,7 +18729,9 @@ lesotho and tunisia:莱索托和突尼斯
 lesotho and uganda:莱索托和乌干达
 lesotho and zambia:莱索托和赞比亚
 lesotho at the olympics:奥林匹克运动会莱索托代表团
+lesotho football association:莱索托足球协会
 lesotho football association:萊索托足球協會
+lesotho football association:賴索托足球协会
 lesotho giant:莱索托巨人
 lesotho government:莱索托政府
 lesotho highland:莱索托高地
@@ -26677,6 +26690,7 @@ lewis hamilton:刘易斯汉密尔顿
 lewis has three:刘易斯有三
 lewis have been:刘易斯已经
 lewis help:刘易斯帮助
+lewis henry morgan:刘易斯亨利摩根
 lewis hesitate:刘易斯犹豫
 lewis high school:刘易斯高中
 lewis hodous:何乐益
@@ -26704,6 +26718,7 @@ lewis like:刘易斯喜欢
 lewis listen:刘易斯听
 lewis look:刘易斯看
 lewis love:刘易斯爱
+lewis lung carcinoma:刘易斯肺癌
 lewis machine gun:刘易斯机枪
 lewis madison:刘易斯麦迪逊
 lewis mention:刘易斯提到
@@ -27076,6 +27091,7 @@ leyte:莱特岛
 leyton midland road railway station:萊頓米德蘭路站
 leyton tube station:萊頓站
 leytonstone high road railway station:萊頓斯通高路站
+leytonstone high road:萊頓斯通高路
 leytonstone station:萊頓斯通站
 leytonstone tube station:萊頓斯通站
 leytonstone:萊頓斯通

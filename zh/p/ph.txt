@@ -1835,6 +1835,7 @@ philadelphia area to beijing:费城地区到北京
 philadelphia area:费城地区
 philadelphia art club:费城艺术俱乐部
 philadelphia art curator:费城艺术策展人
+philadelphia art museum:费城艺术博物馆
 philadelphia art:费城艺术
 philadelphia artist:费城艺术家
 philadelphia asian:费城亚洲
@@ -1854,6 +1855,7 @@ philadelphia brigade:費城旅
 philadelphia building:费城建筑
 philadelphia bus stop:费城巴士站
 philadelphia business advertisement:费城商业广告
+philadelphia business journal:费城商业期刊
 philadelphia business leaders:费城商界领袖
 philadelphia business:费城商业
 philadelphia campaign:费城战役
@@ -1893,6 +1895,7 @@ philadelphia court:费城法院
 philadelphia cream cheese:费城奶油芝士
 philadelphia cricket club:费城板球俱乐部
 philadelphia customs:费城海关
+philadelphia daily news:费城每日新闻
 philadelphia daily news:费城每日新闻报
 philadelphia dance academy:费城舞蹈学院
 philadelphia dance:費城舞蹈
@@ -1955,7 +1958,9 @@ philadelphia independence day parade:费城独立日游行
 philadelphia independence day:费城独立日
 philadelphia independence:费城独立
 philadelphia indie-rock:费城独立摇滚
+philadelphia international airport:費城国际机场
 philadelphia international airport:費城國際機場
+philadelphia international airport:费城国际机场
 philadelphia international film festival:费城国际电影节
 philadelphia international:费城国际
 philadelphia internet:费城互联网
@@ -1989,6 +1994,7 @@ philadelphia mint:费城铸币局
 philadelphia mosque:费城清真寺
 philadelphia museum of art:费城艺术博物馆
 philadelphia museum:费城博物馆
+philadelphia music academy:费城音乐学院
 philadelphia mutual fund manager:费城共同基金经理
 philadelphia mutual fund:费城共同基金
 philadelphia mutual-fund manager:费城共同基金经理
@@ -2323,6 +2329,9 @@ philip look:菲利普看
 philip marshall:菲利普马歇尔
 philip may:文菲臘
 philip morris asian art:菲利普莫里斯亚洲艺术
+philip morris companies:菲利普莫里斯公司
+philip morris company:菲利普莫里斯公司
+philip morris corporation:菲利普莫里斯公司
 philip morris international com:菲利普莫里斯国际公司
 philip morris international plans:菲利普莫里斯国际计划
 philip morris international:菲利普莫里斯国际
@@ -2838,6 +2847,9 @@ philippines film:菲律宾电影
 philippines find:菲律宾发现
 philippines first lady:菲律宾第一夫人
 philippines five:菲律宾五
+philippines football association:菲律宾足球协会
+philippines football federation:菲律宾足球联盟
+philippines football league:菲律宾足球联盟
 philippines football league:菲律賓足球聯賽
 philippines foreign policy:菲律宾外交政策
 philippines forum:菲律宾论坛
@@ -2914,6 +2926,7 @@ philippines last week:菲律宾上周
 philippines last year:菲律宾去年
 philippines law:菲律宾法律
 philippines legislature:菲律宾立法机关
+philippines liberation medal:菲律賓解放獎章
 philippines liberation:菲律宾解放
 philippines lower:菲律宾降低
 philippines market:菲律宾市场
@@ -3007,6 +3020,7 @@ philippines spanish:菲律宾西班牙语
 philippines spell:菲律宾拼写
 philippines spent:菲律宾花费
 philippines standard time:菲律宾标准时间
+philippines standard time:菲律賓标准时间
 philippines state:菲律宾国家
 philippines states:菲律宾国家
 philippines still:菲律宾仍然
@@ -8369,6 +8383,7 @@ phrase search:短语搜索
 phrase should be:短语应该是
 phrase show:短语显示
 phrase structure grammar:短语结构语法
+phrase structure grammars:短语结构语法
 phrase structure rules:片語結構規則
 phrase structure tree:短语结构树
 phrase structure:短语结构

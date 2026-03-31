@@ -3507,9 +3507,11 @@ flight control surfaces:飞行操纵面
 flight control system include:飞行控制系统包括
 flight control system or sometimes:飞行控制系统或有时
 flight control system:飛行控制系統
+flight control system:飛行控制系统
 flight control system:飞行控制系统
 flight control systems and ground:飞行控制系统和地面
 flight control systems and propulsion:飞行控制系统和推进
+flight control systems:飛行控制系统
 flight control systems:飞行控制系统
 flight control team:飞行控制团队
 flight control technologies:飞行控制技术
@@ -3584,6 +3586,7 @@ flight dispatcher:飞行签派员
 flight display system:飞行显示系统
 flight display:飞行显示
 flight distance record:飛行距離記錄
+flight distance record:飞行距离记录
 flight distance will reach:飞行距离将达到
 flight distance:飞行距离
 flight dream:飛行夢
@@ -3750,7 +3753,9 @@ flight management computers:飞行管理计算机
 flight management control processor:飞行管理控制处理器
 flight management software:飞行管理软件
 flight management system of information:飞行管理系统的信息
+flight management system:飛行管理系統
 flight management system:飞行管理系统
+flight management systems:飞行管理系统
 flight management:飞行管理
 flight manual:飞行手册
 flight map:飞行地图
@@ -5190,6 +5195,7 @@ florestal:弗洛雷斯塔尔
 floreszee:弗洛勒斯海
 floret pentagonal tiling:花形五邊形鑲嵌
 florfenicol:氟甲砜霉素
+floriana football club:弗洛里亚纳足球俱乐部
 floriana:弗洛里亚纳
 florianopolis:弗洛里亚诺波利斯
 florianopolo:弗洛里亚诺波利斯
@@ -5297,6 +5303,7 @@ florida association:佛罗里达协会
 florida atlantic university high school:佛罗里达大西洋大学高中
 florida atlantic university product:佛罗里达大西洋大学产品
 florida atlantic university:佛罗里达大西洋大学
+florida atlantic university:佛罗里达州大西洋大学
 florida atlantic:佛罗里达大西洋
 florida attack:佛罗里达州攻击
 florida autism center:佛罗里达州自闭症中心
@@ -5368,6 +5375,7 @@ florida coastline:佛罗里达海岸线
 florida coca cola:佛罗里达可口可乐
 florida colleagues:佛罗里达州同事
 florida college students:佛罗里达学院学生
+florida college system:佛罗里达学院系统
 florida college:佛罗里达学院
 florida colony:佛罗里达州殖民地
 florida committee:佛罗里达委员会
@@ -5705,9 +5713,13 @@ florida spanish:佛罗里达西班牙
 florida speed park:佛罗里达速度公园
 florida speed:佛罗里达速度
 florida state capitol:佛羅里達州議會大廈
+florida state constitution:佛罗里达州宪法
+florida state government:佛罗里达州政府
 florida state league:佛州聯盟
+florida state league:佛罗里达州联盟
 florida state of emergency:佛罗里达州紧急状态
 florida state seminoles:佛罗里达州立大学塞米诺尔队
+florida state senate:佛罗里达州参议院
 florida state university and florida:佛罗里达州立大学和佛罗里达州
 florida state university and the university of edinburgh:佛罗里达州立大学和爱丁堡大学
 florida state university and university of florida:佛罗里达州立大学和佛罗里达大学
@@ -6107,6 +6119,7 @@ flow heat transfer:流动传热
 flow improve:流动改进
 flow include:流动包括
 flow information:流动信息
+flow injection analysis:流动注射分析
 flow injection:流动注射
 flow instability:流动不稳定性
 flow interaction:流动交互
@@ -6944,6 +6957,7 @@ fluid design:流体设计
 fluid distribution:流体分布
 fluid domain:流体域
 fluid dynamics analysis:流體動力學分析
+fluid dynamics prize:流体动力学奖
 fluid dynamics:流体动力学
 fluid dynamics:流體動力學
 fluid dynamics:液体动力学
@@ -7603,6 +7617,7 @@ flux capacitor:通量电容器
 flux condition:通量条件
 flux conditions:通量条件
 flux contribution:通量贡献
+flux control coefficient:通量控制系数
 flux data set:通量数据集
 flux density and dynamic range:通量密度和动态范围
 flux density:通量密度

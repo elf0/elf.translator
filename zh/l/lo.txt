@@ -6278,6 +6278,7 @@ london bridge hospital:伦敦桥医院
 london bridge kill:伦敦桥杀
 london bridge location:伦敦桥地理位置
 london bridge or victoria:伦敦桥或维多利亚
+london bridge station:伦敦桥站
 london bridge station:倫敦橋站
 london bridge subway:伦敦桥地铁
 london bridge terror:伦敦桥恐怖
@@ -6285,6 +6286,8 @@ london bridge train station:伦敦桥火车站
 london bridge:伦敦桥
 london bridge:倫敦桥
 london bridge:倫敦橋
+london broadcasting company:伦敦广播公司
+london broadcasting corporation:伦敦广播公司
 london brothel:伦敦妓院
 london buddhist centre:伦敦佛教中心
 london building:伦敦建筑
@@ -6354,6 +6357,8 @@ london city centre:伦敦市中心
 london city college:伦敦城市学院
 london city government:伦敦市政府
 london city island:伦敦城市岛
+london city university:伦敦城市大学
+london city university:倫敦城市大學
 london city:伦敦城市
 london clash:伦敦冲突
 london class container ship:地中海倫敦級貨櫃船
@@ -6459,6 +6464,7 @@ london dispersion force:色散力
 london docklands:倫敦碼頭區
 london doctor:伦敦医生
 london doctors:伦敦医生
+london drama centre:倫敦戲劇中心
 london dream:伦敦梦
 london driver:伦敦司机
 london drugs:倫敦藥房
@@ -6523,7 +6529,9 @@ london female:伦敦女性
 london festival:伦敦节日
 london field:伦敦领域
 london fields railway station:倫敦場站
+london film academy:伦敦电影学院
 london film and comic:伦敦电影和漫画
+london film company:伦敦电影公司
 london film critic:伦敦电影评论家
 london film festival official website:伦敦电影节官方网站
 london film festival:伦敦电影节
@@ -6742,6 +6750,7 @@ london life:倫敦生活
 london line:伦敦线
 london literature:伦敦文学
 london liverpool street:伦敦利物浦街
+london liverpool street:倫敦利物浦街
 london liverpool:伦敦利物浦
 london lobsters:伦敦龙虾
 london location:伦敦位置
@@ -6769,6 +6778,7 @@ london market insurance company:伦敦市场保险公司
 london market price:伦敦市场价格
 london market:伦敦市场
 london markets:伦敦市场
+london marylebone station:伦敦马里波恩站
 london marylebone:伦敦马里波恩
 london master:伦敦大师
 london match:伦敦匹配
@@ -6859,6 +6869,7 @@ london olympics:倫敦奥运会
 london once:伦敦曾经
 london only:伦敦只有
 london open:伦敦开
+london opera centre:伦敦歌剧中心
 london or belfast:伦敦或贝尔法斯特
 london or berlin:伦敦或柏林
 london or cairo:伦敦或开罗
@@ -7012,6 +7023,7 @@ london roof:伦敦屋顶
 london roommate:伦敦室友
 london rowing club:伦敦划船俱乐部
 london rowing:伦敦划船
+london royal academy:伦敦皇家学院
 london royal college of art:伦敦皇家艺术学院
 london royal:伦敦皇家
 london rules:伦敦规则
@@ -7043,6 +7055,7 @@ london service:伦敦服务
 london services:伦敦服务
 london seven:伦敦七
 london sevens:倫敦國際七人欖球賽
+london sewerage system:倫敦下水道系統
 london shangri-la:伦敦香格里拉
 london shooting:伦敦射击
 london shrek:伦敦史瑞克
@@ -7152,6 +7165,7 @@ london team report:伦敦团队报告
 london team:伦敦团队
 london team:伦敦队
 london telephone:伦敦电话
+london television centre:伦敦电视中心
 london tell you:伦敦告诉你
 london tell:伦敦告诉
 london temple:伦敦神庙
@@ -7172,6 +7186,7 @@ london to australia:伦敦到澳大利亚
 london to bahrain:伦敦到巴林
 london to beirut:伦敦到贝鲁特
 london to birmingham:伦敦到伯明翰
+london to brighton:伦敦到布莱顿
 london to cape town:伦敦到开普敦
 london to glasgow:伦敦到格拉斯哥
 london to istanbul:伦敦到伊斯坦布尔
@@ -7194,6 +7209,8 @@ london tour:伦敦旅游
 london tourism:伦敦旅游
 london tourists:伦敦游客
 london tower bridge replica:伦敦塔桥微缩模型
+london tower bridge:伦敦塔桥
+london tower bridge:倫敦塔橋
 london tower:伦敦塔
 london tower:倫敦塔
 london towers:伦敦塔
@@ -7246,6 +7263,11 @@ london underground:伦敦地铁
 london uniform:伦敦制服
 london united states:伦敦美国
 london university agree:伦敦大学同意
+london university college:伦敦大学学院
+london university college:伦敦大学學院
+london university college:伦敦大學学院
+london university college:倫敦大學学院
+london university college:倫敦大學學院
 london university graduates:伦敦大学毕业生
 london university union:伦敦大学联盟
 london university:伦敦大学
@@ -7268,6 +7290,7 @@ london victoria station:倫敦維多利亞車站
 london victoria:伦敦维多利亚
 london victoria:倫敦維多利亞
 london village:伦敦村庄
+london virginia company:伦敦弗吉尼亚公司
 london visit:伦敦访问
 london vote:伦敦投票
 london walk:伦敦步行
@@ -7279,6 +7302,8 @@ london was a potential:伦敦是一个潜在的
 london was established in:伦敦成立于
 london was mexico:伦敦是墨西哥
 london water supply:伦敦供水
+london waterloo station:伦敦滑铁卢站
+london waterloo station:倫敦滑鐵盧站
 london waterloo station:倫敦滑鐵盧車站
 london waterloo:伦敦滑铁卢
 london waterloo:倫敦滑鐵盧
@@ -7287,6 +7312,7 @@ london web design:伦敦网页设计
 london website:伦敦网站
 london wedding:伦敦婚礼
 london week:伦敦周
+london weekend television:伦敦周末电视
 london weekend television:倫敦週末電視
 london weekend:伦敦周末
 london welcome:伦敦欢迎
@@ -7294,6 +7320,7 @@ london west end theatre:伦敦西区剧院
 london west:伦敦西
 london wetland centre:伦敦湿地中心
 london wetland:伦敦湿地
+london wetlands centre:伦敦湿地中心
 london whale:伦敦鲸
 london who:伦敦谁
 london wikipedia:伦敦维基百科
@@ -14417,6 +14444,8 @@ longkou road:lóngkǒu lù
 longkou road:龙口路
 longkou village:龙口村
 longkou west road:龙口西路
+longkou west station:龍口西站
+longkou west station:龙口西站
 longkou west(suiyuan residential district) bus terminal:龙口西穗园小区总站
 longkou west:龙口西
 longkou xi lu middle:龙口西路中站
@@ -16413,6 +16442,7 @@ longxi reservoir:龙溪水库
 longxi river:lóngxī hé
 longxi river:龍溪河
 longxi river:龙溪河
+longxi road station:龍溪路站
 longxi road station:龙溪路站
 longxi road:彩虹路
 longxi road:瀧溪路
@@ -16705,6 +16735,9 @@ longyan community:龙岩社区
 longyan dialect:龙岩话
 longyan feng:龙眼峰
 longyan guanzhaishan airport:龙岩冠豸山机场
+longyan guanzhishan airport:龍岩冠豸山機場
+longyan guanzhishan airport:龍巖冠豸山機場
+longyan guanzhishan airport:龙岩冠豸山机场
 longyan lane:龙延里
 longyan north road:龙眼北路
 longyan old bus station:深圳老汽车站
@@ -17251,6 +17284,7 @@ look and learn:看和学习
 look and listen:看和听
 look and play:看和玩
 look and quiet manner:看和安静的方式
+look and read:看与读
 look and say sequence:外觀數列
 look and screenshot:看和屏幕快照
 look any:看任何
@@ -19973,6 +20007,7 @@ loss theory:损失理论
 loss threat:损失威胁
 loss threshold:损失阈
 loss through:损失通过
+loss time life:损失时间生命
 loss time:损失时间
 loss too:损失也
 loss transfer:损失转移
@@ -21582,6 +21617,7 @@ louisiana spices:路易斯安那州香料
 louisiana state capitol:路易斯安那州議會大廈
 louisiana state legislature:路易斯安那州议会
 louisiana state penitentiary:路易斯安那州立监狱
+louisiana state representative:路易斯安那州州代表
 louisiana state senate:路易斯安那州参议院
 louisiana state university school of medicine:路易斯安那州立大学医学院
 louisiana state university system:路易斯安那州立大學系統
@@ -21607,7 +21643,9 @@ louisville city fc:路易維爾城足球俱樂部
 louisville city hall:路易维尔市政厅
 louisville colonels:路易斯維爾上校
 louisville grays:路易斯維爾灰
+louisville international airport:路易维尔国际机场
 louisville kentucky temple:肯塔基州路易斯維爾聖殿
+louisville science center:路易维尔科学中心
 louisville township:路易斯维尔镇区
 louisville township:路易維爾鎮區
 louisville university:路易維爾大學
@@ -21774,6 +21812,7 @@ louts:卢茨河
 loutsk:盧茨克
 loutzviller:卢茨维莱尔
 louvagny:卢瓦尼
+louvain catholic university:鲁汶天主教大学
 louvain la neuve:新鲁汶
 louvain university:鲁汶大学
 louvain:鲁汶
@@ -22185,6 +22224,7 @@ love and faithfulness:愛和忠信
 love and fame:愛和名望
 love and family:爱与家庭
 love and family:爱和家庭
+love and fashion:爱与时尚
 love and fashion:爱和时尚
 love and fear:爱与恐惧
 love and fear:爱和恐惧
@@ -22321,6 +22361,7 @@ love and marriage:爱与结婚
 love and marriage:爱和婚姻
 love and marriage:爱和结婚
 love and marry:爱和结婚
+love and mary:爱和玛丽
 love and mask:爱与面具
 love and math:爱与数学
 love and mathematics:爱与数学
@@ -23414,6 +23455,7 @@ love is beautiful:爱是美丽的
 love is beauty:爱是美
 love is biggest:爱是最大的
 love is blood:爱是血
+love is blue:愛是藍色
 love is cancer:爱是癌
 love is change:爱是改变
 love is cheap:爱是廉价的
@@ -23759,6 +23801,8 @@ love los angeles:爱洛杉矶
 love louis:爱路易斯
 love louisiana:爱路易斯安那州
 love love love love:爱爱爱爱
+love love love:愛愛愛
+love love love:爱爱爱
 love love:愛愛
 love love:爱爱
 love lunch:愛午餐
@@ -24878,6 +24922,7 @@ love with love:爱与爱
 love with me:爱与我
 love with us:爱与我们
 love with you:爱与你
+love without distance:爱没有距离
 love without goals:爱没有目标
 love without label:爱没有标签
 love without truth:爱没有真相

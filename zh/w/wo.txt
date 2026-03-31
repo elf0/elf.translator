@@ -583,6 +583,7 @@ woking address:沃金地址
 woking again:沃金又
 woking attack:沃金攻击
 woking factory:沃金工厂
+woking football club:沃金足球俱乐部
 woking grammar school:沃金文法学校
 woking park:沃金公园
 woking sand:沃金沙
@@ -1590,6 +1591,7 @@ woman astronomer:女性天文学家
 woman asylum:女性庇护
 woman at a brothel:女人在一个妓院
 woman at her feet:女人在她的脚
+woman at home:女人在家
 woman at home:女人在家里
 woman at its head:女人在它的头
 woman at least:女人至少
@@ -5746,6 +5748,7 @@ woodlands north mrt station:兀兰北地铁站
 woodlands north road:兀兰北路
 woodlands north rts:兀兰北捷运系统
 woodlands north rts:兀蘭北捷運系統
+woodlands north station:兀兰北站
 woodlands north:兀兰北
 woodlands north:兀蘭北
 woodlands regional library:兀兰区域圖書館
@@ -9145,6 +9148,7 @@ workers beat:工人打
 workers became:工人成为
 workers because:工人因为
 workers become:工人成为
+workers beer company:工人啤酒公司
 workers before:工人之前
 workers began:工人开始
 workers begin:工人开始
@@ -9196,6 +9200,7 @@ workers cut off:工人切断
 workers day:工人日
 workers deal:工人处理
 workers decided:工人决定
+workers defense committee:工人防衛委員會
 workers democracy:工人民主
 workers democratic party:工人民主党
 workers describe:工人描述
@@ -9455,6 +9460,7 @@ workers sleep:工人睡
 workers slowly:工人慢慢地
 workers social security:工人社会保障
 workers soft skills:工人软技能
+workers solidarity alliance:工人团结联盟
 workers solidarity:工人团结
 workers solve:工人解决
 workers some:工人一些
@@ -9543,6 +9549,7 @@ workers world:工人世界
 workers would be considered:工人将被视为
 workers would be:工人将成为
 workers would:工人将
+workers youth league:工人青年联盟
 workers youth:工人青年
 workers' cultural palace:工人文化宫
 workers' party of korea north pyongan provincial party commitee:朝鲜劳动党 平安北道党委员会
@@ -10495,6 +10502,7 @@ world airport code:世界机场代码
 world airport traffic report:世界机场交通报告
 world airport:世界机场
 world airport:世界機場
+world all stars:世界所有的星星
 world all:世界全部
 world all:世界所有
 world all:世界所有的
@@ -10719,6 +10727,7 @@ world art style:世界艺术风格
 world art:世界艺术
 world artificial intelligence:世界人工智能
 world artistic gymnastics championships:世界競技體操錦標賽
+world artists association:世界艺术家协会
 world as well as many other areas:世界以及许多其他领域
 world as well as:世界以及
 world as well:世界也
@@ -10764,6 +10773,7 @@ world auction:世界拍卖
 world audience:世界听众
 world authority:世界权威
 world autism awareness day:世界提高自闭症意识日
+world autism day:世界自閉症日
 world autism day:世界自闭症日
 world autism:世界自閉症
 world autism:世界自闭症
@@ -10942,6 +10952,7 @@ world bank in china:世界银行在中国
 world bank in india:世界银行在印度
 world bank information:世界银行信息
 world bank infrastructure:世界银行基础设施
+world bank institute:世界銀行研究所
 world bank institute:世界银行学院
 world bank institute:世界银行研究所
 world bank intend:世界银行打算
@@ -11066,6 +11077,7 @@ world baseball softball confederation:世界棒壘球總會
 world baseball softball:世界棒球壘球
 world baseball:世界棒球
 world basketball challenge:世界篮球挑战
+world basketball championship:世界篮球锦标赛
 world basketball king:世界篮球王
 world basketball:世界篮球
 world battery:世界电池
@@ -11112,6 +11124,7 @@ world bible schools:世界圣经学校
 world bible:世界圣经
 world bible:世界聖經
 world bicycle day activities:世界自行车日活动
+world bicycle day:世界自行車日
 world bicycle day:世界自行车日
 world bicycle partner:世界自行车合作伙伴
 world bicycle:世界自行车
@@ -11180,9 +11193,11 @@ world boxing championship:世界拳击冠军
 world boxing council middleweight champion:世界拳击理事会中量级冠军
 world boxing council middleweight:世界拳击理事会中量级
 world boxing council:世界拳击理事会
+world boxing federation:世界拳击联盟
 world boxing news:世界拳击新闻
 world boxing organisation:世界拳击组织
 world boxing organization:世界拳击组织
+world boxing union:世界拳击联盟
 world boxing:世界拳击
 world boxing:世界拳擊聯盟
 world braille day:世界盲文日
@@ -11333,6 +11348,7 @@ world champion sebastian:世界冠軍塞巴斯蒂安
 world champion troy:世界冠軍特洛伊
 world champion:世界冠军
 world champion:世界冠軍
+world champions cup:世界冠军杯
 world champions:世界冠军
 world championship and european champion:世界冠军和欧洲冠军
 world championship bathtub:世界冠军浴缸
@@ -11356,6 +11372,7 @@ world championship silver medal:世界冠军银牌
 world championship team:世界冠军队
 world championship tennis:世界网球锦标赛
 world championship trophy:世界冠军奖杯
+world championship wrestling:世界冠军摔角
 world championship wrestling:世界冠軍摔角
 world championship year:世界冠军年
 world championship:世界冠军
@@ -11482,6 +11499,7 @@ world clown association:世界小丑协会
 world clown:世界小丑
 world club champion football:国际足球冠军俱乐部
 world club champions:世界俱乐部冠军
+world club championship:世界俱乐部锦标赛
 world club cup:世界俱乐部杯
 world club:世界俱乐部
 world coal:世界煤
@@ -11585,6 +11603,7 @@ world copyright:世界版权
 world corn:世界玉米
 world corporation:世界公司
 world corrosion:世界腐蚀
+world cotton day:世界棉花日
 world cotton mill:世界棉纺厂
 world cotton production:世界棉花生产
 world cotton:世界棉花
@@ -11953,6 +11972,7 @@ world curling championships:世界冰壶锦标赛
 world curling:世界冰壶
 world curling:世界冰壺
 world currency symbol:世界货币符号
+world currency unit:世界货币单位
 world currency:世界货币
 world currently:世界目前
 world curriculum:世界課程
@@ -12066,6 +12086,7 @@ world dinosaur:世界恐龙
 world diplomacy:世界外交
 world diplomat:世界外交官
 world directory:世界目录
+world disarmament conference:世界裁军会议
 world disarmament:世界裁军
 world disaster:世界灾害
 world discipline:世界紀律
@@ -12217,6 +12238,7 @@ world elk:世界麋鹿
 world embassy:世界大使馆
 world embryology:世界胚胎学
 world emissions:世界排放
+world emoji day:世界繪文字日
 world emoji day:世界表情图标日
 world empire:世界帝国
 world employment report:世界就业报告
@@ -12270,6 +12292,7 @@ world enjoy life:世界享受生活
 world enter:世界进入
 world enterprises:世界企业
 world entertainment capital:世界娱乐首都
+world entertainment wrestling:世界娛樂摔角
 world entertainment:世界娱乐
 world entrepreneur:世界企业家
 world entrepreneurs:世界企业家
@@ -12515,6 +12538,7 @@ world food prices continue:世界食品价格继续
 world food prices:世界食品价格
 world food prize events:世界粮食奖事件
 world food prize:世界粮食奖
+world food prize:世界食物奖
 world food production:世界食物生产
 world food programme ambassador:世界粮食计划署大使
 world food programme country:世界粮食计划署国家
@@ -12660,6 +12684,7 @@ world glacier:世界冰川
 world glass:世界玻璃
 world glaucoma week:世界青光眼周
 world glaucoma:世界青光眼
+world gliding championship:世界滑翔锦标赛
 world gliding:世界滑翔
 world global conference:世界全球会议
 world global:世界全球
@@ -12675,6 +12700,7 @@ world gold medal:世界金牌
 world gold standard:世界金本位
 world gold:世界金
 world goldfish:世界金鱼
+world golf championship:世界高尔夫球锦标赛
 world golf championships:世界高尔夫球锦标赛
 world golf hall of fame:世界高爾夫名人堂
 world golf:世界高尔夫球
@@ -12729,6 +12755,7 @@ world ground:世界地面
 world group:世界组
 world growth:世界增长
 world gym:世界健身俱樂部
+world gymnastics championship:世界体操锦标赛
 world gymnastics:世界体操
 world habitat awards:世界人居奖
 world habitat:世界栖息地
@@ -12756,6 +12783,7 @@ world happiness day:世界幸福日
 world happiness report:世界幸福報告
 world happiness report:世界幸福报告
 world happiness report:世界快樂報告
+world happiness reports:世界幸福报告
 world happiness summit:世界幸福首脑会议
 world happiness:世界幸福
 world harmonica:世界口琴
@@ -12911,6 +12939,7 @@ world heavyweight champion anthony:世界重量级冠军安东尼
 world heavyweight champion from:世界重量级冠军从
 world heavyweight champion jack:世界重量级冠军杰克
 world heavyweight champion:世界重量级冠军
+world heavyweight champions:世界重量级冠军
 world heavyweight championship once:世界重量级冠军一次
 world heavyweight championship:世界重量級冠軍
 world heavyweight championship:世界重量级冠军
@@ -12928,9 +12957,15 @@ world hepatitis day provides:世界肝炎日提供
 world hepatitis day:世界肝炎日
 world hepatitis:世界肝炎
 world her story:世界她的故事
+world heritage center:世界遗产中心
+world heritage centre:世界遗产中心
+world heritage cities:世界遗产城市
+world heritage city:世界遗产城市
 world heritage committee last year:世界遺產委員會去年
+world heritage committee:世界遗产委员会
 world heritage committee:世界遺產委員會
 world heritage convention:保护世界文化和自然遗产公约
+world heritage list:世界遗产列表
 world heritage site and international biosphere reserve:世界遗产和国际生物圈保护区
 world heritage site and international biosphere:世界遗产和国际生物圈
 world heritage site angkor wat:世界遗产吴哥窟
@@ -12972,6 +13007,7 @@ world history and cultural heritage:世界史和文化遗产
 world history be:世界史成为
 world history courses:世界史课程
 world history emphasize:世界史强调
+world history encyclopedia:世界历史百科全书
 world history encyclopedia:世界歷史百科全書
 world history organisation:世界史组织
 world history research:世界史研究
@@ -13133,6 +13169,7 @@ world interior design day:世界室内设计日
 world interior design:世界室内设计
 world international:世界国际
 world internet conference in china:世界互联网大会在中国
+world internet conference:世界互联网会议
 world internet conference:世界互联网大会
 world internet development report:世界互联网发展报告
 world internet of things:世界物联网
@@ -13269,12 +13306,14 @@ world japan:世界日本
 world jazz:世界爵士乐
 world jesus:世界耶稣
 world jew:世界犹太人
+world jewellery museum:世界珠宝博物馆
 world jewellery:世界珠宝
 world jewish congress:世界猶太人大會
 world journal:世界日志
 world journalists:世界记者
 world journey:世界旅行
 world joyland:環球動漫嬉戲谷
+world judo championship:世界柔道锦标赛
 world judo championships:世界柔道錦標賽
 world judo day:世界柔道日
 world judo grand prix:世界柔道大奖赛
@@ -13293,6 +13332,7 @@ world justice project:世界正義工程
 world justice:世界正义
 world justice:世界正義
 world kachin:世界克钦
+world karate championship:世界空手道锦标赛
 world karate federation:世界空手道聯盟
 world karate:世界空手道
 world keep:世界保持
@@ -13349,6 +13389,7 @@ world landslide:世界滑坡
 world language:世界語言
 world language:世界语言
 world languages:世界语言
+world largest cities:世界最大的城市
 world largest entertainment company:世界最大的娛樂公司
 world largest:世界最大的
 world laser:世界激光
@@ -13590,6 +13631,7 @@ world mind:世界心智
 world mingren:世界圍棋名人爭霸戰
 world minutes:世界分钟
 world miss university:世界大學小姐
+world miss university:世界小姐大学
 world miss:世界小姐
 world missile:世界导弹
 world mission society church of god (wmc) english.watv.org (ahn sahng hong, passover, elohim):shàngdì de jiàohuì shìjiè fúyīn xuānjiào xiéhuì (wmc) chinese.watv.org (Ān shāng hóng, nián yúyuè jié, yé luò)
@@ -13631,6 +13673,7 @@ world most popular:世界最流行的
 world most:世界大多数
 world mother:世界母亲
 world motocross:世界摩托车越野赛
+world motorcycle championship:世界摩托车锦标赛
 world motorcycle drag racing:世界摩托车直线加速赛
 world motorcycle:世界摩托車
 world motorcycle:世界摩托车
@@ -13669,6 +13712,7 @@ world music outlier:世界音乐异常值
 world music producer:世界音乐制作人
 world music singer:世界音乐歌手
 world music:世界音乐
+world muslim league:世界穆斯林联盟
 world muslim:世界穆斯林
 world muslims:世界穆斯林
 world must change:世界必须改变
@@ -13780,6 +13824,8 @@ world obesity day:世界肥胖日
 world obesity:世界肥胖
 world object:世界对象
 world obtain:世界获得
+world ocean conference:世界海洋会议
+world ocean day:世界海洋日
 world ocean:世界洋
 world ocean:世界海洋
 world oceans day theme:世界海洋日主题
@@ -13866,6 +13912,7 @@ world of tennis:世界的网球
 world of the five gods:五神傳說
 world of thought:世界的思想
 world of thoughts:世界的思想
+world of tomorrow:明日世界
 world of understanding:世界的理解
 world of warcraft and minecraft:魔兽世界和我的世界
 world of warcraft arena global championship:魔兽世界竞技场全球锦标赛
@@ -13983,6 +14030,7 @@ world parachuting:世界跳伞
 world paradigm:世界范式
 world parallel bars champion:世界双杠冠军
 world parallel bars:世界双杠
+world park base:世界公园基地
 world park:世界公园
 world parkinson:世界帕金森
 world parliament:世界国会
@@ -14046,6 +14094,7 @@ world peace centre:世和中心
 world peace centre:世界和平中心
 world peace committee:世界和平委员会
 world peace conference:世界和平会议
+world peace congress:世界和平代表大会
 world peace council award:世界和平理事會授予
 world peace council:世界和平委员会
 world peace council:世界和平理事会
@@ -14218,6 +14267,7 @@ world population will reach:世界人口将达到
 world population will:世界人口会
 world population without:世界人口没有
 world population would:世界人口将
+world population year:世界人口年
 world population:世界人口
 world pork:世界猪肉
 world pork:世界豬肉
@@ -14443,6 +14493,7 @@ world religion:世界宗教
 world rembrandt:世界伦勃朗
 world remember:世界记住
 world renewable energy:世界可再生能源
+world renju championship:世界连珠锦标赛
 world report and other:世界報告和其他的
 world report:世界報告
 world report:世界报告
@@ -14517,6 +14568,7 @@ world rubber:世界橡胶
 world rubber:世界橡膠
 world rugby and referee:世界橄榄球和裁判
 world rugby and rugby:世界橄榄球和橄榄球
+world rugby council:世界橄榄球理事会
 world rugby hall of fame:世界橄榄球名人堂
 world rugby look:世界橄榄球看
 world rugby nations cup:橄欖球國家盃
@@ -14590,6 +14642,7 @@ world sea:世界海
 world seafood demand:世界海鮮需求
 world seafood:世界海鮮
 world seafood:世界海鲜
+world seagrass day:世界海草日
 world seagrass:世界海草
 world search:世界搜索
 world secretary:世界秘书
@@ -14655,6 +14708,7 @@ world she:世界她
 world ship:世界船
 world shipbuilding:世界造船
 world shooter:世界射手
+world shooting championship:世界射击锦标赛
 world shooting:世界射击
 world shop:世界购物
 world shopping center:世界购物中心
@@ -14705,7 +14759,10 @@ world smile day:世界微笑日
 world smile:世界微笑
 world snail:世界蜗牛
 world snake:世界蛇
+world snooker academy:世界斯诺克学院
+world snooker championship:世界台球锦标赛
 world snooker championship:世界斯诺克锦标赛
+world snooker federation:世界台球联盟
 world snooker tour chairman:世界斯诺克巡回赛主席
 world snooker tour:世界斯诺克巡回赛
 world snooker:世界台球
@@ -14716,6 +14773,7 @@ world so that:世界以便
 world so:世界如此
 world soccer association:世界足球协会
 world soccer championship:世界足球锦标赛
+world soccer magazine:世界足球杂志
 world soccer tournament:世界足球锦标赛
 world soccer:世界足球
 world social and economic:世界社会和经济
@@ -14739,6 +14797,7 @@ world socialist party of india:印度世界社会党
 world socialist party of the united states:美国世界社会党
 world socialist party:世界社会党
 world socialist web site:世界社會主義網站
+world socialist website:世界社会主义者网站
 world society:世界社会
 world softball:世界壘球
 world software:世界软件
@@ -14889,6 +14948,7 @@ world table tennis tournament:世界乒乓球锦标赛
 world table tennis:世界乒乓球
 world taekwondo beach:世界跆拳道海滩
 world taekwondo championships:世界跆拳道錦標賽
+world taekwondo federation:世界跆拳道联盟
 world taekwondo:世界跆拳道
 world taekwondo:世界跆拳道聯盟
 world taiwan:世界台湾
@@ -14939,6 +14999,7 @@ world temperature:世界温度
 world template:世界模板
 world ten:世界十
 world tennis champion:世界网球冠军
+world tennis championship:世界网球锦标赛
 world tennis day:世界网球日
 world tennis league:世界网球联赛
 world tennis tournament:世界网球锦标赛
@@ -15018,6 +15079,7 @@ world toilet college:世界厕所学院
 world toilet day every year:世界厕所日每年
 world toilet day was yesterday:世界厕所日是昨天
 world toilet day:世界厕所日
+world toilet day:世界廁所日
 world toilet organisation:世界厕所组织
 world toilet organization:世界厕所组织
 world toilet organization:世界廁所組織
@@ -15096,6 +15158,7 @@ world trade center station:世貿中心站
 world trade center taichung:台中世界贸易中心
 world trade center:shìmào zhōngxīn
 world trade center:世界貿易中心
+world trade center:世界贸易中心
 world trade center:世贸中心
 world trade center:台中世貿中心
 world trade center:臺中世貿中心
@@ -15149,6 +15212,7 @@ world trade organization rules:世界贸易组织规则
 world trade organization studies:世界贸易组织研究
 world trade organization summit:世界贸易组织首脑会议
 world trade organization:世界贸易组织
+world trade organizations:世界贸易组织
 world trade park:shìmàogōngyuán
 world trade park:ㄕˋㄇㄠˋㄍㄨㄥㄩㄢˊ
 world trade park:世貿公園
@@ -15250,6 +15314,7 @@ world university badminton championships:世界大學生羽毛球錦標賽
 world university baseball championship:世界大學棒球錦標賽
 world university championship action:世界大学锦标赛行动
 world university championship:世界大学锦标赛
+world university consortium:世界大學聯盟
 world university discipline ranking:世界大学学科排名
 world university influence ranking:世界大学影响力排名
 world university professional ranking:世界大学专业排名
@@ -15647,6 +15712,8 @@ world wildlife conference:世界野生动物会议
 world wildlife crime report:世界野生动物犯罪报告
 world wildlife crime report:世界野生生物犯罪报告
 world wildlife day:世界野生动物日
+world wildlife foundation:世界野生动物基金
+world wildlife foundation:世界野生生物基金
 world wildlife fund will:世界野生动物基金会
 world wildlife fund:世界野生动物基金
 world wildlife fund:世界野生生物基金
@@ -15733,14 +15800,22 @@ world would never:世界将永远不会
 world would never:世界永远不会
 world would stop:世界将停止
 world would:世界将
+world wrestling alliance:世界摔角联盟
+world wrestling alliance:世界摔跤联盟
+world wrestling association:世界摔角协会
 world wrestling association:世界摔角協會
+world wrestling association:世界摔跤协会
+world wrestling championship:世界摔跤锦标赛
 world wrestling championships:世界摔跤锦标赛
 world wrestling council:世界摔角理事会
+world wrestling council:世界摔跤委员会
 world wrestling entertainment:世界摔角娛樂
 world wrestling entertainment:世界摔角娱乐
 world wrestling entertainment:世界摔跤娱乐
 world wrestling federation:世界摔角联盟
 world wrestling federation:世界摔跤联盟
+world wrestling league:世界摔角联盟
+world wrestling league:世界摔跤联盟
 world wrestling:世界摔角
 world wrestling:世界摔跤
 world write:世界写
@@ -15757,10 +15832,14 @@ world you:世界你
 world you:世界你们
 world youth academy:世界青年学院
 world youth and student:世界青年和学生
+world youth champion:世界青年冠军
 world youth champion:世界青年冠軍
+world youth champions:世界青年冠军
+world youth championship:世界青年冠军
 world youth championship:世界青年锦标赛
 world youth championships:世界青年冠军
 world youth conference:世界青年会议
+world youth congress:世界青年代表大会
 world youth cup:世界青年杯
 world youth day celebration:世界青年日庆祝
 world youth day in france:世界青年日在法国

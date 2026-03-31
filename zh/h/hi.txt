@@ -1052,6 +1052,7 @@ higashi kushiro station:東釧路車站
 higashi kuyakusho mae station:東區役所前車站
 higashi kuyakusho-mae (higashi ward office):东区政府前
 higashi kuyakusho-mae (higashi ward office):東區政府前
+higashi kyushu expressway:东九州高速公路
 higashi maizuru station:東舞鶴車站
 higashi matsubara station:東松原站
 higashi matsudo station:東松戶車站
@@ -1626,6 +1627,7 @@ high alloy industry:高合金工业
 high alloy iron:高合金铁
 high alloy stainless steel:高合金不锈钢
 high alloy steel:高合金鋼
+high alloy steel:高合金钢
 high alloy tool steel:高合金工具钢
 high alloy:高合金
 high alps:高阿尔卑斯山
@@ -1683,6 +1685,7 @@ high and three kilometers:高和三公里
 high and use:高和使用
 high and volume:高和体积
 high and wide:高和宽
+high androgen levels:高雄激素水平
 high androgen:高雄激素
 high angle rescue training area:高空拯救訓練場
 high angle rescue training area:高空拯救训练场
@@ -1881,6 +1884,7 @@ high blood levels:高血水平
 high blood levels:高血液水平
 high blood lipids and insulin resistance:高血脂和胰岛素抵抗
 high blood lipids:高血脂
+high blood potassium:高血钾
 high blood pressure affects more than:高血压影响超过
 high blood pressure affects:高血压影响
 high blood pressure and breast cancer:高血压和乳腺癌
@@ -1960,6 +1964,7 @@ high blood pressure treatment:高血压治疗
 high blood pressure:高血压
 high blood sodium levels:高血钠水平
 high blood sodium:高血钠
+high blood sugar:高血糖
 high blood-pressure:高血压
 high blood:高血
 high blood:高血液
@@ -1985,6 +1990,9 @@ high breast:高乳房
 high breath:高呼吸
 high brick wall:高砖墙
 high brick:高砖
+high bridge park:高橋公園
+high bridge station:高桥站
+high bridge station:高橋站
 high bridge:高桥
 high bridge:高橋
 high bright:高明亮的
@@ -2711,6 +2719,7 @@ high dynamic range:高动态范围
 high dynamic range:高動態範圍
 high dynamics:高动力学
 high earth orbit:高地球軌道
+high earth orbit:高地球轨道
 high earth:高地球
 high east:高东
 high economic efficiency:高经济效率
@@ -2847,6 +2856,7 @@ high engine:高发动机
 high english language:高英语
 high english:高英语
 high entropy alloy:高熵合金
+high entropy oxide:高熵氧化物
 high entropy:高熵
 high entry point:高入口点
 high environment temperature:高环境温度
@@ -3032,6 +3042,7 @@ high from floor:高从地板
 high from:高从
 high fructose corn syrup and obesity:高果糖浆和肥胖
 high fructose corn syrup:高果糖浆
+high fructose syrup:高果糖糖漿
 high fructose:高果糖
 high fruit and vegetable:高水果和蔬菜
 high fruit:高水果
@@ -3721,6 +3732,7 @@ high light:高光
 high lighting:高照明
 high limestone:高石灰岩
 high limit:高极限
+high line park:高线公园
 high line:高線公園
 high line:高线
 high link:高链接
@@ -4184,6 +4196,7 @@ high performance compute:高性能计算
 high performance computer system:高性能计算机系统
 high performance computer:高性能电脑
 high performance computer:高性能计算机
+high performance computers:高性能计算机
 high performance computing activities:高性能计算活动
 high performance computing and data center applications:高性能计算与数据中心应用程序
 high performance computing and programming language:高性能计算和编程语言
@@ -5488,6 +5501,7 @@ high risk ship:高风险船
 high risk situation:高风险情况
 high risk situation:高风险情形
 high risk strategy:高风险战略
+high risk template:高风险模板
 high risk type:高风险类型
 high risk use:高风险使用
 high risk vascular:高风险血管
@@ -6379,6 +6393,7 @@ high speed circuit switched data:高速電路交換數據
 high speed civil transport:高速民用运输机计划
 high speed development:高速度发展
 high speed downlink packet access:高速下行分组接入
+high speed internet:高速率互联网
 high speed packet access:高速封包存取
 high speed photography:高速摄影
 high speed photometer:高速光度計
@@ -13423,6 +13438,7 @@ highland mountain pass:高地山道
 highland museum:高地博物馆
 highland needs master:高地需要大师
 highland needs:高地需要
+highland papua province:高地巴布亚省
 highland papua:巴布亚高原省
 highland papua:高地巴布亚
 highland papua:高地巴布亚省
@@ -13773,6 +13789,7 @@ highway transportation safety administration:公路运输安全管理
 highway transportation:公路运输
 highway truck:公路卡车
 highway trust fund:公路信任基金
+highway trust fund:公路信托基金
 highway trust:公路信任
 highway tunnel and ball:公路隧道和球
 highway tunnel lighting:公路隧道照明
@@ -14572,6 +14589,7 @@ hilmi yahaya:希尔米雅也
 hilmənd vilayəti:希奧曼省
 hilmənd vilayəti:赫尔曼德省
 hilmənd vilayəti:赫爾曼德省
+hilo international airport:希洛国际机场
 hilo international airport:希洛國際機場
 hilo:希洛
 hilpoltstein:希尔波尔特施泰因
@@ -37292,6 +37310,7 @@ history of martinique:馬提尼克歷史
 history of mass spectrometry:质谱法历史
 history of massachusetts:马萨诸塞州历史
 history of masturbation:自慰史
+history of materialism:唯物主义历史
 history of materials science:材料科技史
 history of mathematics course:数学史课程
 history of mathematics:数学史
@@ -37357,6 +37376,7 @@ history of newfoundland and labrador:紐芬蘭與拉布拉多省歷史
 history of nicaragua:尼加拉瓜历史
 history of niger:尼日尔历史
 history of nigeria:尼日利亚历史
+history of nihilism:虚无主义历史
 history of ningbo:宁波历史
 history of niue:纽埃历史
 history of north africa:北非历史
@@ -38371,6 +38391,7 @@ hitara:喜塔腊氏
 hitchcock heights:希契科克高地
 hitchens's razor:希钦斯剃刀
 hitchhiking:順風車
+hitchin and harpenden:希欽和哈彭登
 hitchin system:希钦系统
 hitchin:希欽
 hite brewery:海特啤酒

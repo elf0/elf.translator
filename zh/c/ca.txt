@@ -747,6 +747,7 @@ cable is connect:电缆是连接
 cable is copper:电缆是铜
 cable it:电缆它
 cable landing point:电缆登陆点
+cable landing points:电缆登陆点
 cable landing station:电缆登陆站
 cable landing:电缆登陆
 cable landing:电缆着陆
@@ -2818,6 +2819,7 @@ caihong 2nd road:彩虹二路
 caihong avenue:彩虹大道
 caihong bridge east:彩虹桥东
 caihong bridge station:彩虹桥站
+caihong bridge station:彩虹橋站
 caihong bridge:彩虹桥
 caihong bridge:彩虹桥站
 caihong bridge:彩虹橋
@@ -3259,6 +3261,7 @@ cairns convention centre:凱恩斯會議中心
 cairns cove:凱恩斯灣
 cairns foreshore promenade:凯恩斯前滩步道
 cairns glacier:克爾恩斯冰川
+cairns international airport:凯恩斯国际机场
 cairns international airport:凯恩斯机场
 cairns pop up arena:凱恩斯快閃體育館
 cairns rainbowfish:凱恩斯銀漢魚
@@ -3349,6 +3352,7 @@ cairo hotel:开罗旅馆
 cairo hotel:开罗酒店
 cairo institute:开罗研究所
 cairo international airport:开罗国际机场
+cairo international airport:開羅国际机场
 cairo international airport:開羅國際機場
 cairo international book fair:开罗国际书展
 cairo international conference centre:开罗国际会议中心
@@ -3369,6 +3373,7 @@ cairo meeting:开罗会议
 cairo metro workers:開羅地鐵工人
 cairo metro:开罗地铁
 cairo metro:開羅地鐵
+cairo military academy:开罗军事学院
 cairo military hospital:开罗军队医院
 cairo monorail:开罗单轨
 cairo montenotte:卡伊罗蒙特诺泰
@@ -3424,6 +3429,7 @@ cairo university:開羅大學
 cairo until:开罗直到
 cairo violence continues:开罗暴力继续
 cairo violence:开罗暴力
+cairo west airport:開羅西機場
 cairo witnesses:开罗证人
 cairo would:开罗将
 cairo zoo:开罗动物园
@@ -5226,6 +5232,7 @@ calcutta flag:加尔各答旗
 calcutta flag:加爾各答旗
 calcutta mathematical society:加尔各答数学学会
 calcutta metro:加尔各答地铁
+calcutta polo club:加尔各答马球俱乐部
 calcutta stock exchange:加尔各答证券交易所
 calcutta university:加尔各答大学
 calcutta university:加爾各答大學
@@ -5250,6 +5257,7 @@ caldas:卡尔达斯省
 caldas:卡爾達斯省
 caldazinha:卡尔达齐尼亚
 caldearenas:卡尔德亚雷纳斯
+caldecott broadcast centre:加利谷广播中心
 caldecott hill:郝德傑山
 caldecott honor:凯迪克荣誉
 caldecott medal:凱迪克獎
@@ -5735,6 +5743,7 @@ calgary health trust:卡尔加里健康信托
 calgary hotel:卡尔加里酒店
 calgary international airport as well as:卡尔加里国际机场以及
 calgary international airport became:卡尔加里国际机场成为
+calgary international airport:卡加利国际机场
 calgary international airport:卡尔加里国际机场
 calgary international film festival:卡尔加里国际电影节
 calgary international:卡尔加里国际
@@ -5754,6 +5763,7 @@ calgary peace:卡尔加里和平
 calgary police:卡尔加里警察
 calgary power:卡尔加里电力
 calgary pride parade:卡尔加里骄傲游行
+calgary public library:卡加利公共圖書館
 calgary public library:卡尔加里公共图书馆
 calgary recently:卡尔加里最近
 calgary regiment:卡尔加里团
@@ -6574,16 +6584,22 @@ california state and local government:加利福尼亚州和地方政府
 california state assembly:加利福尼亚州众议院
 california state board of equalization:加利福尼亞州公平委員會
 california state capitol:加利福尼亞州議會大廈
+california state constitution:加利福尼亚州宪法
 california state controller:加利福尼亞州審計長
 california state court:加利福尼亚州法院
+california state flag:加利福尼亚州州旗
 california state flag:加利福尼亚州旗
+california state flag:加利福尼亞州州旗
+california state government:加利福尼亚州政府
 california state high school:加利福尼亚州高中
+california state highway:加利福尼亚州公路
 california state history:加利福尼亚州历史
 california state insurance:加利福尼亚州保险
 california state law require:加利福尼亚州法律要求
 california state law:加利福尼亚州法律
 california state legislature:加利福尼亞州議會
 california state lottery:加利福尼亚州彩票
+california state militia:加利福尼亚州民兵
 california state office:加利福尼亚州办公室
 california state poker championship:加利福尼亚州扑克冠军赛
 california state poker:加利福尼亚州扑克
@@ -8785,6 +8801,7 @@ cambodia saved:柬埔寨拯救了
 cambodia scouts:柬埔寨國家童軍總會
 cambodia services and products:柬埔寨服务和产品
 cambodia special economic zone:柬埔寨经济特区
+cambodia standard time:柬埔寨标准时间
 cambodia start:柬埔寨开始
 cambodia still:柬埔寨仍然
 cambodia stop:柬埔寨停止
@@ -8856,6 +8873,7 @@ cambogia:柬埔寨
 camboja:gāomián
 camboja:柬埔寨
 cambon et salvergues:康邦和萨尔韦格
+camborne and redruth:坎伯恩和雷德魯斯
 camborne:坎伯恩
 cambosia:gāomián
 cambosia:柬埔寨
@@ -8914,6 +8932,7 @@ cambridge academy:剑桥学院
 cambridge actor:剑桥演员
 cambridge airport:剑桥机场
 cambridge airport:劍橋機場
+cambridge algebra system:剑桥代数系统
 cambridge analysis company scandal:剑桥分析公司丑闻
 cambridge analysis company:剑桥分析公司
 cambridge analysis:剑桥分析
@@ -8946,6 +8965,7 @@ cambridge and santa barbara:剑桥和圣巴巴拉
 cambridge and singapore researchers:剑桥和新加坡研究人员
 cambridge and the university of arizona:剑桥和亚利桑那大学
 cambridge and the university of manchester:剑桥和曼彻斯特大学
+cambridge antibody technology:剑桥抗体科技
 cambridge apartment:剑桥公寓
 cambridge apostles:剑桥使徒
 cambridge arc:剑桥弧
@@ -9176,6 +9196,7 @@ cambridge public school district:劍橋公立學校
 cambridge quantum-matter:剑桥量子物质
 cambridge quantum:剑桥量子
 cambridge railway station:劍橋站
+cambridge reference sequence:剑桥参考序列
 cambridge report:剑桥报告
 cambridge require:剑桥要求
 cambridge research laboratory:剑桥研究实验室
@@ -9188,8 +9209,10 @@ cambridge rules:剑桥规则
 cambridge scholar:剑桥学者
 cambridge school:剑桥学校
 cambridge schools:剑桥学校
+cambridge science centre:剑桥科学中心
 cambridge science:剑桥科学
 cambridge scientific abstracts:劍橋科學摘要
+cambridge scientific center:剑桥科学中心
 cambridge scientist john:剑桥科学家约翰
 cambridge scientist:剑桥科学家
 cambridge scientists:剑桥科学家
@@ -9254,11 +9277,13 @@ cambridge university astronomer:剑桥大学天文学家
 cambridge university award:剑桥大学授予
 cambridge university college:剑桥大学学院
 cambridge university computer scientist:剑桥大学计算机科学家
+cambridge university constituency:剑桥大学选区
 cambridge university cricket:剑桥大学板球
 cambridge university earth science:剑桥大学地球科学
 cambridge university economics:剑桥大学经济学
 cambridge university energy policy:剑桥大学能源政策
 cambridge university english:剑桥大学英语
+cambridge university footlights:剑桥大学脚灯社
 cambridge university health partners:剑桥大学健康伙伴
 cambridge university health:剑桥大学健康
 cambridge university hopes:剑桥大学希望
@@ -9268,6 +9293,7 @@ cambridge university is located in:剑桥大学位于
 cambridge university lecturer:剑桥大学讲师
 cambridge university lecturers:剑桥大学讲师
 cambridge university library:剑桥大学图书馆
+cambridge university library:劍橋大學圖書館
 cambridge university physicist:剑桥大学物理学家
 cambridge university physics professor:剑桥大学物理学教授
 cambridge university physics:剑桥大学物理学
@@ -9276,6 +9302,7 @@ cambridge university population:剑桥大学人口
 cambridge university press edition:剑桥大学出版社版本
 cambridge university press series:剑桥大学出版社系列
 cambridge university press:剑桥大学出版社
+cambridge university press:劍橋大学出版社
 cambridge university press:劍橋大學出版社
 cambridge university professor john:剑桥大学教授约翰
 cambridge university professor:剑桥大学教授
@@ -9385,6 +9412,7 @@ camden place:卡姆登地方
 camden police station:卡姆登警察局
 camden professor of ancient history:卡姆登古代史教授
 camden road railway station:卡姆登路站
+camden road station:卡姆登路站
 camden road:卡姆登路
 camden scholar:卡姆登学者
 camden social services:卡姆登社会服务
@@ -10130,6 +10158,7 @@ cameron and his team:卡梅伦和他的团队
 cameron and his wife:卡梅伦和他的妻子
 cameron and johnson:卡梅伦和约翰逊
 cameron answer:卡梅伦回答
+cameron art museum:喀麦隆艺术博物馆
 cameron ask:卡梅伦问
 cameron attack:卡梅伦攻击
 cameron became:卡梅伦成为
@@ -10312,6 +10341,8 @@ cameroon currently:喀麦隆目前
 cameroon education:喀麦隆教育
 cameroon english:喀麦隆英语
 cameroon exit:喀麦隆退出
+cameroon football association:喀麥隆足球协会
+cameroon football association:喀麦隆足球协会
 cameroon football federation:喀麦隆足球联盟
 cameroon football:喀麦隆足球
 cameroon government:喀麦隆政府
@@ -10715,6 +10746,7 @@ campbell nunatak:坎貝爾冰原島峰
 campbell peak:坎貝爾峰
 campbell plateau:坎貝爾高原
 campbell ridges:坎貝爾嶺
+campbell river airport:坎貝爾河機場
 campbell river:坎貝爾河
 campbell river:坎贝尔河
 campbell road:坎貝爾路
@@ -10888,6 +10920,7 @@ camping weekend:露营周末
 camping will:露营会
 camping wolf:露營好物生活網
 camping world stadium:露營世界體育場
+camping world stadium:露营世界体育场
 camping world truck series:露营世界卡车系列
 camping world:露营世界
 camping:露营
@@ -17996,6 +18029,7 @@ can reply:能回复
 can report all safety:可以报告所有安全
 can report errors:可以报告错误
 can report fire:可以报告火
+can report it:可以报告它
 can report problems or:可以报告问题或
 can report problems:可以报告问题
 can report some routing:可以报告一些路由
@@ -20521,6 +20555,7 @@ canada auto:加拿大汽车
 canada average:加拿大平均
 canada aviation and space museum have:加拿大航空航天博物馆有
 canada aviation and space museum:加拿大航空航天博物馆
+canada aviation museum:加拿大航空博物馆
 canada aviation:加拿大航空
 canada balsam:加拿大胶
 canada balsam:加拿大香脂
@@ -21065,6 +21100,7 @@ canada revenue agency:加拿大税务局
 canada revenue:加拿大收入
 canada rogers cup:加拿大罗杰斯杯
 canada rogers:加拿大罗杰斯
+canada rugby league:加拿大橄榄球联盟
 canada running:加拿大跑步
 canada safety:加拿大安全
 canada said:加拿大说
@@ -21094,6 +21130,7 @@ canada should:加拿大应该
 canada show:加拿大显示
 canada sixth:加拿大第六
 canada so:加拿大如此
+canada soccer association:加拿大足球协会
 canada soccer hall of fame:加拿大足球名人堂
 canada soccer:加拿大足球
 canada society:加拿大社会
@@ -21206,6 +21243,7 @@ canada was the only:加拿大是唯一的
 canada was:加拿大是
 canada waste:加拿大垃圾
 canada water station:加拿大塘站
+canada water station:加拿大水站
 canada water:加拿大塘
 canada water:加拿大水
 canada we think will:加拿大我们认为会
@@ -21339,6 +21377,7 @@ canadian airport:加拿大机场
 canadian airport:加拿大機場
 canadian airport:加拿大的机场
 canadian airspace:加拿大领空
+canadian alliance party:加拿大联盟党
 canadian alliance:加拿大人联盟
 canadian alliance:加拿大联盟
 canadian alliance:加拿大聯盟
@@ -21518,6 +21557,7 @@ canadian automotive industry:加拿大汽车行业
 canadian autumn:加拿大秋季
 canadian average:加拿大平均
 canadian average:加拿大的平均
+canadian aviation museum:加拿大航空博物馆
 canadian aviation:加拿大航空
 canadian bacon:加拿大煙肉
 canadian bail:加拿大保释
@@ -21754,6 +21794,7 @@ canadian civilian:加拿大平民
 canadian civilization museum:加拿大文明博物馆
 canadian civilization:加拿大文明
 canadian classical guitar:加拿大古典吉他
+canadian classical music:加拿大古典音乐
 canadian classroom:加拿大的教室
 canadian client:加拿大客户
 canadian clients:加拿大客户
@@ -22090,6 +22131,7 @@ canadian envoy:加拿大特使
 canadian ernest:加拿大人欧内斯特
 canadian eskimo dog:加拿大愛斯基摩犬
 canadian eskimo:加拿大的爱斯基摩人
+canadian esperanto association:加拿大世界语协会
 canadian ethnicity:加拿大族群
 canadian event:加拿大的事件
 canadian excellence:加拿大卓越
@@ -22159,6 +22201,7 @@ canadian fiction:加拿大小说
 canadian figure skating:加拿大花样滑冰
 canadian figure-skating:加拿大花样滑冰
 canadian film and television:加拿大电影和电视
+canadian film center:加拿大电影中心
 canadian film centre:加拿大电影中心
 canadian film critic:加拿大电影评论家
 canadian film director:加拿大电影导演
@@ -22199,6 +22242,7 @@ canadian food inspection agency:加拿大食品檢驗局
 canadian food safety:加拿大食品安全
 canadian food:加拿大食品
 canadian food:加拿大食物
+canadian football association:加拿大足球协会
 canadian football league:加拿大加式足球聯盟
 canadian football league:加拿大式足球联盟
 canadian football:加拿大式足球
@@ -22417,6 +22461,7 @@ canadian human rights:加拿大的人权
 canadian humor:加拿大幽默
 canadian humour:加拿大幽默
 canadian hunter:加拿大猎人
+canadian hurricane center:加拿大飓风中心
 canadian hurricane centre or:加拿大飓风中心或
 canadian hurricane centre:加拿大飓风中心
 canadian hurricane:加拿大飓风
@@ -22762,6 +22807,7 @@ canadian multimedia:加拿大多媒体
 canadian museum of history:加拿大历史博物馆
 canadian museum:加拿大博物馆
 canadian museum:加拿大的博物馆
+canadian music association:加拿大音乐协会
 canadian music awards:加拿大音乐奖
 canadian music charts:加拿大单曲榜
 canadian music competition:加拿大音乐比赛
@@ -22793,6 +22839,7 @@ canadian national vimy memorial:加拿大國家維米紀念碑
 canadian national-security:加拿大国家安全
 canadian nationalism:加拿大民族主义
 canadian nationalism:加拿大民族主義
+canadian nationalist party:加拿大民族主义者党
 canadian nationality law:加拿大國籍法
 canadian nationality:加拿大国籍
 canadian nationality:加拿大國籍
@@ -22837,6 +22884,7 @@ canadian nurse:加拿大护士
 canadian nurse:加拿大的护士
 canadian nutrition:加拿大营养
 canadian oat:加拿大燕麦
+canadian obesity network:加拿大肥胖网络
 canadian occupation:加拿大职业
 canadian ocean:加拿大海洋
 canadian office:加拿大办公室
@@ -22865,6 +22913,7 @@ canadian online:加拿大在线
 canadian online:加拿大的在线
 canadian open mathematics challenge:加拿大数学公开挑战赛
 canadian open:加拿大公開賽
+canadian opera company:加拿大歌剧公司
 canadian opera:加拿大歌剧
 canadian opportunities:加拿大机会
 canadian or new zealand accent:加拿大或新西兰口音
@@ -22893,6 +22942,7 @@ canadian pacific airplane:加拿大太平洋飞机
 canadian pacific and canadian:加拿大太平洋和加拿大
 canadian pacific hotel:加拿大太平洋酒店
 canadian pacific northwest:加拿大太平洋西北地区
+canadian pacific railroad:加拿大太平洋鐵路
 canadian pacific railroad:加拿大太平洋铁路
 canadian pacific railway are canada:加拿大太平洋鐵路是加拿大
 canadian pacific railway are:加拿大太平洋鐵路是
@@ -22955,6 +23005,7 @@ canadian people:加拿大的人民
 canadian permafrost:加拿大永久冻土
 canadian permanent residence:加拿大永久居留
 canadian pet food:加拿大寵物食品
+canadian petroleum companies:加拿大石油公司
 canadian petroleum safety council:加拿大石油安全委员会
 canadian petroleum safety:加拿大石油安全
 canadian petroleum:加拿大的石油
@@ -23241,6 +23292,7 @@ canadian root:加拿大的根
 canadian rose:加拿大玫瑰
 canadian royal navy:加拿大皇家海军
 canadian royal:加拿大皇家
+canadian rugby union:加拿大橄榄球联盟
 canadian rugby:加拿大橄榄球
 canadian rye:加拿大裸麥
 canadian sacrifice:加拿大牺牲
@@ -23329,6 +23381,7 @@ canadian sniper:加拿大狙击手
 canadian sniper:加拿大狙擊手
 canadian sniper:加拿大的狙击手
 canadian snow:加拿大雪
+canadian soccer association:加拿大足球协会
 canadian soccer association:加拿大足球協會
 canadian soccer league system:加拿大足球聯賽系統
 canadian soccer:加拿大的足球
@@ -23487,7 +23540,10 @@ canadian theme:加拿大的主题
 canadian three:加拿大的三
 canadian timber:加拿大木材
 canadian timber:加拿大的木材
+canadian tire center:加拿大輪胎中心
+canadian tire center:加拿大轮胎中心
 canadian tire centre:加拿大輪胎中心
+canadian tire centre:加拿大轮胎中心
 canadian tire dealer:加拿大轮胎经销商
 canadian tire money:加拿大轮胎钱
 canadian tire series:加拿大轮胎系列
@@ -23543,6 +23599,7 @@ canadian university campus:加拿大的大学校园
 canadian university of toronto:加拿大多伦多大学
 canadian university or college:加拿大大学或学院
 canadian university press:加拿大大学出版社
+canadian university press:加拿大大學出版社
 canadian university professor:加拿大大学教授
 canadian university professors:加拿大大学教授
 canadian university ranking:加拿大大学排名
@@ -26244,6 +26301,7 @@ candelabrochaete:叠生星毛革菌属
 candelaria barbouri:坎德拉里蜥屬
 candelaria de la frontera:坎德拉里亞德拉弗龍特拉
 candelaria department:坎德拉里亞縣
+candelaria metro station:坎德拉里亚地铁站
 candelaria station:坎德拉里亚站
 candelaria:坎德拉里亚
 candelariaceae:黄烛衣科
@@ -29604,6 +29662,7 @@ canterbury to:坎特伯雷到
 canterbury tourism:坎特伯雷旅游
 canterbury travel insurance:坎特伯雷旅游保险
 canterbury united dragons:坎特伯雷聯龍隊
+canterbury university college:坎特伯雷大學學院
 canterbury university:坎特伯雷大学
 canterbury university:坎特伯雷大學
 canterbury welcome:坎特伯雷欢迎
@@ -29826,6 +29885,7 @@ canton tower east station:广州塔东站
 canton tower east:广州塔东站
 canton tower is:广州塔是
 canton tower road:广州塔路
+canton tower station:廣州塔站
 canton tower west:广州塔西
 canton tower:guǎngzhōu tǎ
 canton tower:gwongzau taap
@@ -31270,6 +31330,7 @@ caopu dong:草埔東社區
 caopu metro station 7:草埔地铁站 ⑦
 caopu metro station bus terminus (end):草铺地铁站公交总站 (下客区)
 caopu metro station bus terminus (start) but not in use:草铺地铁站公交总站 (上客区) 未启用
+caopu metro station:草埔地铁站
 caopu station:草埔站
 caopu subdistrict:草铺街道
 caopu tunnel:草埔隧道
@@ -32861,6 +32922,7 @@ capcom community:卡普空社区
 capcom cup:卡普空杯
 capcom developers:卡普空开发人员
 capcom game:卡普空游戏
+capcom sports club:卡普空运动俱乐部
 capcom vancouver:卡普空温哥华
 capcom vancouver:卡普空温哥华工作室
 capcom want:卡普空想要
@@ -33691,6 +33753,8 @@ capital airline:首都航空公司
 capital airport express:北京地铁首都机场线
 capital airport express:首都机场线
 capital airport express:首都機場線
+capital airport expressway:首都机场高速公路
+capital airport expressway:首都機場高速公路
 capital airport holding:首都机场集团
 capital airport hotel:首都机场酒店
 capital airport subdistrict:首都机场街道
@@ -35063,6 +35127,7 @@ capitol region education council:国会大厦地区教育委员会
 capitol region:国会大厦地区
 capitol shooting:国会大厦射击
 capitol shootout:国会大厦枪战
+capitol south station:国会大厦南站
 capitol south station:國會大廈南站
 capitol square:坎皮多怡歐廣場
 capitol statue:国会大厦雕像
@@ -42767,6 +42832,7 @@ carnegie mellon university researchers:卡内基梅隆大学研究人员
 carnegie mellon university scientists:卡内基梅隆大学科学家
 carnegie mellon university software engineering:卡内基梅隆大学软件工程
 carnegie mellon university today:卡内基梅隆大学今天
+carnegie mellon university:卡內基梅隆大學
 carnegie mellon university:卡内基梅隆大学
 carnegie mellon:卡內基梅隆
 carnegie moscow center:卡內基莫斯科中心
@@ -48108,6 +48174,7 @@ cat and its:猫和它的
 cat and life cat hotel:貓館
 cat and monkey:猫和猴
 cat and mouse:猫与老鼠
+cat and mouse:猫和老鼠
 cat and rabbit:猫和兔
 cat and robot:猫和机器人
 cat and white cat:猫和白猫
@@ -48682,6 +48749,7 @@ catalan heritage:加泰罗尼亚遗产
 catalan history:加泰罗尼亚历史
 catalan history:加泰罗尼亚语历史
 catalan independence movement:加泰隆尼亞獨立運動
+catalan independence referendum:加泰罗尼亚独立公民投票
 catalan independence:加泰罗尼亚独立
 catalan independence:加泰罗尼亚的独立
 catalan influence:加泰罗尼亚语影响
@@ -52990,6 +53058,7 @@ cavity pressure sensor:腔压力传感器
 cavity pressure:腔压力
 cavity quantum cascade laser:腔量子级联激光器
 cavity quantum electrodynamics:腔量子电动力学
+cavity quantum electrodynamics:腔量子電動力學
 cavity ring down spectroscopy:光腔衰荡光谱
 cavity search:腔搜索
 cavity structure:腔结构

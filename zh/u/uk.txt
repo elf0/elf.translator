@@ -399,6 +399,8 @@ uk business school:英国商学院
 uk business:英国商业
 uk butterfly:英国蝴蝶
 uk buy:英国买
+uk cabinet office:英国内阁办公室
+uk cabinet secretary:英国内阁秘书
 uk cabinet:联合王国内阁
 uk cabinet:英国内阁
 uk cabinet:英國内阁
@@ -781,6 +783,7 @@ uk fashion:英国时尚
 uk female students:英国女性学生
 uk female:英国女性
 uk film council:联合王国电影理事会
+uk film council:英国电影理事会
 uk film:联合王国电影
 uk finally:英国最终
 uk finance:英国财政
@@ -883,6 +886,7 @@ uk government contract:英国政府合同
 uk government corruption:英国政府腐败
 uk government decided:英国政府决定
 uk government decides:英国政府决定
+uk government department:英国政府部门
 uk government do:英国政府做
 uk government employees:英国政府员工
 uk government encourage:英国政府鼓励
@@ -953,6 +957,7 @@ uk green building:英国绿色建筑
 uk green finance strategy:英国绿色金融战略
 uk green:英国绿色
 uk greenhouse gas emissions:英国温室气体排放
+uk grid reference:英国网格参考
 uk gross domestic product:英国国内生产总值
 uk ground fuel:英国地面燃料
 uk ground:英国地面
@@ -1028,6 +1033,7 @@ uk in the future:英国在未来
 uk in this field:英国在这个领域
 uk include:英国包括
 uk increase:英国增加
+uk independence party:英国独立党
 uk independence party:英國獨立黨
 uk independence:英国独立
 uk independent schools:英国独立的学校
@@ -1044,6 +1050,7 @@ uk information assurance:英国信息保障
 uk information management committee:英国信息管理委员会
 uk information management:英国信息管理
 uk information:英国信息
+uk infrared telescope:英国红外线望远镜
 uk infrastructure:英国基础设施
 uk initiative:英国倡议
 uk innovation centre:英国创新中心
@@ -1330,6 +1337,8 @@ uk organizations:英国组织
 uk outbreak:英国爆发
 uk output:英国输出
 uk overall:英国整体
+uk overseas territory:英国海外领土
+uk overseas territory:英國海外领土
 uk overseas:英国海外
 uk own:英国拥有
 uk ownership:英国所有权
@@ -1478,6 +1487,8 @@ uk record:英国记录
 uk recruitment levels:英国招聘水平
 uk recruitment:英国招聘
 uk referendum:英国公民投票
+uk reform party:英国改革党
+uk reform party:英國改革党
 uk regime:英国政权
 uk region:英国地区
 uk regions:英国地区
@@ -1892,6 +1903,7 @@ uk would:联合王国将
 uk would:英国将
 uk yellow fever:英国黄热病
 uk yield curve:英国收益率曲线
+uk youth parliament:英国青年议会
 uk youth:英国青年
 uk zero carbon:英国零碳
 uk zero:英国零
@@ -2198,6 +2210,7 @@ ukraine and russia:俄罗斯同乌克兰
 ukraine and russia:俄罗斯和乌克兰
 ukraine and russia:俄罗斯还是乌克兰
 ukraine and russia:俄罗斯，乌克兰
+ukraine and russia:烏克蘭和俄羅斯
 ukraine and serbia:乌克兰、塞尔维亚
 ukraine and serbia:乌克兰和塞尔维亚
 ukraine and sierra leone:乌克兰和塞拉利昂
@@ -2939,6 +2952,7 @@ ukrainian flag:乌克兰旗
 ukrainian flag:乌克兰的旗
 ukrainian food:乌克兰的食物
 ukrainian food:乌克兰食品
+ukrainian football association:乌克兰足球协会
 ukrainian football club from:乌克兰足球俱乐部从
 ukrainian football club:乌克兰足球俱乐部
 ukrainian football team:乌克兰足球队
@@ -2993,6 +3007,7 @@ ukrainian government:乌克兰政府
 ukrainian governments:乌克兰政府
 ukrainian greek catholic church:乌克兰希腊礼天主教会
 ukrainian greek catholic:乌克兰希腊天主教
+ukrainian greek catholicism:乌克兰希腊天主教
 ukrainian greek-catholic:乌克兰希腊天主教
 ukrainian greeks:希臘裔烏克蘭人
 ukrainian ground forces:乌克兰陆军
@@ -3037,6 +3052,7 @@ ukrainian intelligence officer:乌克兰情报官员
 ukrainian interim government:乌克兰临时政府
 ukrainian interior design:乌克兰室内设计
 ukrainian international airline:乌克兰国际航空公司
+ukrainian international legion:乌克兰国际军团
 ukrainian international:乌克兰国际
 ukrainian internet news:乌克兰互联网新闻
 ukrainian internet party:乌克兰的互联网党
@@ -3112,6 +3128,8 @@ ukrainian method:乌克兰方法
 ukrainian military base:乌克兰军事基地
 ukrainian military facilities:乌克兰的军事设施
 ukrainian military helicopter:乌克兰军用直升机
+ukrainian military organisation:乌克兰军事组织
+ukrainian military organization:乌克兰军事组织
 ukrainian military target:乌克兰军事目标
 ukrainian military unit:乌克兰军事单位
 ukrainian military units:乌克兰军事单位
@@ -3378,6 +3396,7 @@ ukrainian sovereignty and territorial integrity:乌克兰主权和领土完整
 ukrainian sovereignty:乌克兰主权
 ukrainian sovereignty:乌克兰的主权
 ukrainian soviet army:乌克兰苏维埃集团军
+ukrainian soviet government:乌克兰苏维埃政府
 ukrainian soviet republic:乌克兰苏维埃共和国
 ukrainian soviet republic:烏克蘭蘇維埃共和國
 ukrainian soviet socialist republic became:乌克兰苏维埃社会主义共和国成为

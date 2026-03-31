@@ -86,6 +86,7 @@ miami address:迈阿密地址
 miami after:迈阿密后
 miami airport east:迈阿密机场东
 miami airport south:迈阿密机场南
+miami airport station:邁阿密機場站
 miami airport:迈阿密机场
 miami airport:邁阿密機場
 miami already:迈阿密已经
@@ -289,6 +290,7 @@ miami international airport cancel:迈阿密国际机场取消
 miami international airport hotel elevator:迈阿密国际机场酒店电梯
 miami international airport:迈阿密国际机场
 miami international airport:邁亞密國際機場
+miami international airport:邁阿密国际机场
 miami international autodrome:迈阿密国际赛道
 miami international boat:迈阿密国际船
 miami international film festival:迈阿密国际电影节
@@ -420,6 +422,7 @@ miami tropics:迈阿密热带队
 miami tunnel:迈阿密隧道
 miami tv:迈阿密电视
 miami u.s.:迈阿密美国
+miami university airport:迈阿密大学机场
 miami university art museum:迈阿密大学艺术博物馆
 miami university blockchain club:迈阿密大学区块链俱乐部
 miami university of ohio:俄亥俄迈阿密大学
@@ -1695,6 +1698,7 @@ mice infrared:老鼠红外线
 mice instinct:老鼠本能
 mice lack:老鼠缺乏
 mice like:老鼠喜欢
+mice love rice:老鼠愛大米
 mice love rice:老鼠爱大米
 mice measure:老鼠测量
 mice meat:老鼠肉
@@ -2395,6 +2399,7 @@ michigan soon:密西根州很快
 michigan stadium:密西根体育场
 michigan stadium:密西根體育場
 michigan state capitol:密西根州議會大廈
+michigan state government:密西根州政府
 michigan state spartans:密歇根州立大学斯巴达人队
 michigan state university a total of:密歇根州立大学一共
 michigan state university and johns hopkins university:密歇根州立大学和约翰霍普金斯大学
@@ -2415,12 +2420,15 @@ michigan state university professor:密歇根州立大学教授
 michigan state university researchers:密歇根州立大学研究人员
 michigan state university sparta:密歇根州立大学斯巴达
 michigan state university:密歇根州立大学
+michigan state university:密西根州大学
+michigan state university:密西根州大學
 michigan state:密西根州
 michigan state:密西根州州
 michigan supreme court:密西根州最高法院
 michigan technological university:密西根理工大學
 michigan territory:密歇根领地
 michigan township:密歇根镇区
+michigan university press:密西根大学出版社
 michigan university:密歇根州大学
 michigan university:密歇根州大學
 michigan university:密西根大学
@@ -4248,6 +4256,7 @@ microsoft gadgets:微软小工具
 microsoft game developer:微软游戏开发者
 microsoft game studio:微软游戏工作室
 microsoft game:微软游戏
+microsoft games studio:微软游戏工作室
 microsoft games:微软游戏
 microsoft gaming:微软游戏
 microsoft general manager:微软总经理
@@ -4567,6 +4576,7 @@ microsoft proposed:微软提出
 microsoft proud:微软自豪的
 microsoft provide:微软提供
 microsoft provides:微软提供
+microsoft public license:微软公共许可证
 microsoft public:微软公共
 microsoft publish:微软发表
 microsoft publisher:微软出版商
@@ -5028,6 +5038,7 @@ microwave astronomy:微波天文學
 microwave auditory effect:微波聽覺效應
 microwave background data analysis:微波背景数据分析
 microwave background radiation:微波背景輻射
+microwave background radiation:微波背景辐射
 microwave background:微波背景
 microwave bag:微波袋
 microwave baking equipment install:微波烘焙设备安装
@@ -6719,6 +6730,7 @@ midland office:米德兰办公室
 midland plaza:中源廣場
 midland power:米德兰电力
 midland public:米德兰公共
+midland railroad company:米德兰铁路公司
 midland railroad:米德兰铁路
 midland railway company:米德兰铁路公司
 midland railway war memorial:米德兰铁路战争纪念碑
@@ -7057,6 +7069,7 @@ midterm election season:中期选举季节
 midterm election victory:中期选举胜利
 midterm election year:中期选举年
 midterm election years:中期选举年
+midterm election years:中期選舉年
 midterm election:中期选举
 midterm election:中期選舉
 midterm elections:中期选举
@@ -7305,6 +7318,7 @@ miffy rabbit:米菲兔
 miffy:米菲
 mifu rd.:米芾路
 mifucun:米福村
+mifune dinosaur museum:御船町恐龙博物馆
 mifune-machi:御船町
 mifune:御船町
 mifunesaurus:御船龍
@@ -9369,6 +9383,7 @@ milano cadorna railway station:米蘭卡多爾納車站
 milano central:米兰中央车站
 milano centrale railway station:米兰中央车站
 milano centrale:米兰中央车站
+milano design week:米蘭設計周
 milano pizzeria:義大利米蘭手工窯烤披薩
 milano porta garibaldi railway station:米蘭加里波底門站
 milano viale:米萊諾大道
@@ -11284,6 +11299,7 @@ military education and training:军事教育与培训
 military education and training:军事教育和培训
 military education and training:军事教育和训练
 military education and training:军训
+military education institute:军事教育学院
 military education institutions:军事教育机构
 military education plans:军事教育计划
 military education resource:军事教育资源
@@ -11496,6 +11512,7 @@ military goals:军事目标
 military governance:军事治理
 military governance:军事管治
 military government agree:军政府同意
+military government council:军事政府委员会
 military government hopes:军政府希望
 military government members:军政府成员
 military government of argentina:阿根廷军政府
@@ -12471,6 +12488,7 @@ military paralysis:军事瘫痪
 military parameter:军事参数
 military parasitism:军事寄生
 military parents:军事父母
+military park station:军事公园站
 military park:军事公园
 military part:军事部分
 military participate:军队参与
@@ -13996,6 +14014,7 @@ mill bridge:磨坊桥
 mill building:磨坊建筑
 mill buildings:磨坊建筑
 mill city museum:磨坊城市博物館
+mill city museum:磨坊城市博物馆
 mill colonnade:磨坊温泉长廊
 mill dam:磨坊水库
 mill day:磨坊日
@@ -14101,6 +14120,7 @@ millennium atlânticobank:千年大西洋銀行
 millennium atlânticobank:千年大西洋银行
 millennium bridge:千禧桥
 millennium bridge:千禧橋
+millennium business center:千纪商业中心
 millennium celebrations:庆祝千禧年活动
 millennium challenge corporation:千禧年挑战公司
 millennium city 1 car park:創紀之城1期停車場
@@ -14620,6 +14640,7 @@ million dollar lottery:百万美元彩票
 million dollar mile:百万美元英里
 million dollar minute:百万美元分钟
 million dollar mouse:百万美元老鼠
+million dollar password:百万美元密码
 million dollar piano:百万美元钢琴
 million dollar problem:百万美元问题
 million dollar problems:百万美元问题
@@ -15249,6 +15270,7 @@ milluni peak:米柳尼峰
 millwa qaqa:米爾瓦加加山
 millwall brick:米尔沃砖
 millwall bushwackers:米尔沃游击队
+millwall football club:米爾沃爾足球俱乐部
 millwall:米爾沃爾
 millénaire de la russie:千年俄罗斯纪念碑
 milmarcos:米尔马尔科斯
@@ -18840,6 +18862,7 @@ mingxin:明新
 mingxin:明新村
 mingxincun:明新村
 mingxindong:明新洞
+mingxing film company:明星电影公司
 mingxing reservoir:míngxīng shuǐkù
 mingxing reservoir:明星水库
 mingxing road station:明星路站
@@ -21002,6 +21025,7 @@ minnesota home:明尼苏达家
 minnesota hospital:明尼苏达医院
 minnesota house of representatives:明尼苏达州众议院
 minnesota ice:明尼苏达冰
+minnesota independence party:明尼苏达独立党
 minnesota international:明尼苏达国际
 minnesota internet:明尼苏达互联网
 minnesota knows this:明尼苏达知道这
@@ -21042,10 +21066,14 @@ minnesota starvation experiment:明尼苏达饥饿实验
 minnesota starvation:明尼苏达饥饿
 minnesota state capitol:明尼苏达州议会大厦
 minnesota state chancellor:明尼苏达州大臣
+minnesota state flag:明尼苏达州州旗
+minnesota state flag:明尼蘇達州州旗
 minnesota state government:明尼苏达州政府
 minnesota state lottery officials:明尼苏达州彩票官员
 minnesota state lottery:明尼苏达州彩票
+minnesota state moorhead:明尼苏达州穆尔黑德
 minnesota state police officer:明尼苏达州警察
+minnesota state senate:明尼苏达州参议院
 minnesota state university moorhead:明尼苏达州立大学穆尔黑德分校
 minnesota state university:明尼苏达州立大学
 minnesota state:明尼苏达州
@@ -21067,6 +21095,7 @@ minnesota transfer:明尼苏达转学
 minnesota transfer:明尼苏达转移
 minnesota twins:明尼苏达双城
 minnesota united fc:明尼蘇達聯足球會
+minnesota university press:明尼苏达大学出版社
 minnesota vikings:明尼蘇達維京人
 minnesota vixen:明尼蘇達雌狐
 minnesota west:明尼苏达西
@@ -21396,6 +21425,7 @@ minoshima station:箕島站
 minospace:微纳星空
 minosumi-shimo:箕角下
 minosumi:箕角
+minot international airport:迈诺特国际机场
 minot point:米諾特角
 minot skyrockets:迈诺特空中火箭
 minot:迈诺特
@@ -21892,6 +21922,7 @@ minsk harry:明斯克哈利
 minsk hopes:明斯克希望
 minsk ii:新明斯克協議
 minsk in the united states:明斯克在美国
+minsk international airport:明斯克国际机场
 minsk international book:明斯克国际书
 minsk international book:明斯克国际图书
 minsk international film festival:明斯克国际电影节
@@ -23911,6 +23942,7 @@ miramar hotel and investment:美麗華酒店企業
 miramar hotel:美丽华酒店
 miramar hotel:美麗華酒店
 miramar restaurant:美麗華餐廳
+miramar shopping centre:美麗華購物中心
 miramar tower:美麗華大廈
 miramar villa block east:美麗邨東座
 miramar villa block west:美麗邨西座
@@ -26404,6 +26436,7 @@ mission continues:使命继续
 mission control back to earth:任务控制回到地球
 mission control center:任务控制中心
 mission control center:使命控制中心
+mission control centre:任务控制中心
 mission control room:任务控制室
 mission control space:任务控制空间
 mission control system:任务控制系统
@@ -27414,6 +27447,7 @@ mississippi shareholders shudder:密西西比州股东战栗
 mississippi shareholders:密西西比州股东
 mississippi silvery minnow:密西西比突頜魚
 mississippi state capitol:密西西比州議會大廈
+mississippi state flag:密西西比州州旗
 mississippi state senate:密西西比州参议院
 mississippi state university:密西西比州立大学
 mississippi state:密西西比州州
@@ -27495,6 +27529,7 @@ missouri military academy:密苏里军校
 missouri militia:密苏里州民兵
 missouri monastery:密苏里修道院
 missouri pacific railroad:密苏里太平洋铁路
+missouri pacific railway:密苏里太平洋铁路
 missouri pacific:密苏里太平洋
 missouri port:密苏里港口
 missouri region:密苏里地区
@@ -27518,8 +27553,12 @@ missouri state capitol:密蘇里州議會大廈
 missouri state coach:密苏里州教练
 missouri state court:密苏里州法院
 missouri state courts:密苏里州法院
+missouri state flag:密苏里州州旗
+missouri state flag:密蘇里州州旗
 missouri state highway:密苏里州公路
 missouri state insurance:密苏里州保险
+missouri state militia:密苏里州民兵
+missouri state senate:密苏里州参议院
 missouri state university:密蘇里州立大學
 missouri state:密苏里州
 missouri suyu:密苏里州
@@ -27532,6 +27571,7 @@ missouri university of science and technology:密蘇里科技大學
 missouri university:密苏里大学
 missouri valley conference coach:密苏里山谷会议教练
 missouri valley conference:密苏里山谷会议
+missouri valley league:密苏里山谷联盟
 missouri valley:密苏里山谷
 missouri wine:密苏里葡萄酒
 missouri wine:密苏里酒

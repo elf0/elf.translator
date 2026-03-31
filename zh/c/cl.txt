@@ -241,6 +241,7 @@ clapham common tube station:克拉珀姆公園站
 clapham common:克拉珀姆公地
 clapham high school:克拉珀姆高中
 clapham high street railway station:克拉珀姆高街站
+clapham high street:克拉珀姆高街
 clapham junction railway station:克拉珀姆交匯站
 clapham north tube station:克拉珀姆北站
 clapham north:克拉珀姆北
@@ -405,6 +406,7 @@ clark as well as:克拉克以及
 clark ask:克拉克问
 clark at three:克拉克在三
 clark atlanta university:克拉克亚特兰大大学
+clark atlanta university:克拉克亞特蘭大大學
 clark atlanta:克拉克亚特兰大
 clark be:克拉克成为
 clark beach:克拉克海滩
@@ -439,6 +441,7 @@ clark county food bank:克拉克县食物银行
 clark county is located in:克拉克县位于
 clark county law:克拉克縣法律
 clark county library:克拉克县图书馆
+clark county museum:克拉克县博物馆
 clark county outbreak:克拉克县爆发
 clark county population:克拉克縣人口
 clark county public health:克拉克县公共卫生
@@ -491,6 +494,7 @@ clark insist:克拉克坚持
 clark international airport corporation:克拉克国际机场公司
 clark international airport:kèlākè guójì jīchǎng
 clark international airport:克拉克国际机场
+clark international airport:克拉克国际機場
 clark international airport:克拉克國際機場
 clark is a novelist:克拉克是一个小说家
 clark is superman:克拉克是超人
@@ -552,6 +556,7 @@ clark state:克拉克州
 clark still:克拉克仍然
 clark stopped:克拉克停止了
 clark street station:克拉克街車站
+clark street tunnel:克拉克街隧道
 clark street:克拉克街
 clark student:克拉克学生
 clark studio:克拉克工作室
@@ -1063,6 +1068,7 @@ class no longer:课程不再
 class note:类注意
 class now:类现在
 class number formula:类数公式
+class number problem:类数问题
 class number:类数
 class object or simple:类对象或简单
 class object:类对象
@@ -2540,6 +2546,7 @@ classical greek civilization:古典希腊文明
 classical greek column:古典希腊柱
 classical greek language:古典希腊语
 classical greek literature:古典希腊文学
+classical greek period:古典希腊时期
 classical greek philosopher:古典希腊哲学家
 classical greek philosophy:古典希腊哲学
 classical greek poetry:古典希腊诗歌
@@ -2605,6 +2612,7 @@ classical ideal:古典理想
 classical ideal:古典理想的
 classical importance:经典的重要性
 classical india:古典印度
+classical indian dance:古典印度舞蹈
 classical indian manual:古典印度手册
 classical indian painting:古典印度绘画
 classical indian religion:古典印度宗教
@@ -5652,6 +5660,8 @@ clementi camp:金文泰兵营
 clementi mall:金文泰广场
 clementi mrt station:金文泰地铁站
 clementi neighbourhood police post:金文泰邻里警岗
+clementi public library:金文泰公共图书馆
+clementi public library:金文泰公共圖書館
 clementi road:金文泰路
 clementi road:金文泰道
 clementi secondary school:金文泰中学
@@ -5730,6 +5740,7 @@ clerkenwell:克勒肯維爾
 clerlande:克莱尔朗德
 clermain:克莱曼
 clermont airport:克莱蒙机场
+clermont auvergne university:克莱蒙奥弗涅大学
 clermont county:克莱蒙县
 clermont d'excideuil:克莱蒙代克西德伊
 clermont de beauregard:克莱蒙德博尔加
@@ -5807,6 +5818,7 @@ cleveland and suggest:克利夫兰和建议
 cleveland and sydney:克利夫兰和悉尼
 cleveland area:克利夫兰地区
 cleveland arena:克利夫兰竞技场
+cleveland art museum:克利夫兰艺术博物馆
 cleveland auto:克利夫兰汽车
 cleveland avenue, heinlenville:企季崙街
 cleveland banks:克利夫兰银行
@@ -5887,6 +5899,8 @@ cleveland establish:克利夫兰建立
 cleveland europe:克利夫兰欧洲
 cleveland event:克利夫兰事件
 cleveland eventually:克利夫兰最终
+cleveland forest cities:克里夫蘭森林城市
+cleveland forest city:克里夫蘭森林城市
 cleveland gazette:克利夫兰公报
 cleveland give:克利夫兰给
 cleveland glacier:克里夫蘭冰川
@@ -5962,6 +5976,7 @@ cleveland police:克利夫兰警察
 cleveland press:克利夫兰出版社
 cleveland prize:克利夫兰奖
 cleveland public library:克利夫兰公共图书馆
+cleveland public library:克里夫蘭公共圖書館
 cleveland public power customers:克利夫兰公共电力客户
 cleveland public relations:克利夫兰公共关系
 cleveland public:克利夫兰公共
@@ -5979,6 +5994,7 @@ cleveland stadium:克里夫蘭體育場
 cleveland start:克利夫兰开始
 cleveland state university:克里夫兰州立大学
 cleveland state:克利夫兰状态
+cleveland street scandal:克利夫兰街丑闻
 cleveland street scandal:克利夫兰路丑闻
 cleveland street station:克里夫蘭街車站
 cleveland street:克利夫兰街
@@ -9401,6 +9417,7 @@ climate issues and policy:气候问题和政策
 climate issues:气候问题
 climate jobs:气候工作
 climate journalists:气候记者
+climate justice action:气候正义行动
 climate justice advocate:气候正义倡导
 climate justice alliance:气候正义联盟
 climate justice ambassador:气候正义大使
@@ -11550,6 +11567,8 @@ clinical practice standards:临床实践标准
 clinical practice to research:临床实践到研究
 clinical practice:临床实践
 clinical predict:临床预测
+clinical prediction rule:临床预测规则
+clinical prediction rules:临床预测规则
 clinical prediction:临床预测
 clinical pregnancy:临床妊娠
 clinical presence:临床存在
@@ -11657,6 +11676,7 @@ clinical research and treatment:临床研究和治疗
 clinical research applications:临床研究应用程序
 clinical research assistant:临床研究助理
 clinical research association:临床研究协会
+clinical research bureau:临床研究局
 clinical research center:临床研究中心
 clinical research center:臨床研究中心
 clinical research centre:临床研究中心
@@ -13819,6 +13839,7 @@ closed society:闭社会
 closed software and technology:闭软件和技术
 closed software:闭软件
 closed solutions:闭解决方案
+closed source software:闭源软件
 closed source:閉源軟體
 closed source:闭源
 closed space detect:闭空间检测
@@ -13835,6 +13856,7 @@ closed streets:闭街道
 closed structure design:闭结构设计
 closed structure:闭结构
 closed sub:闭子
+closed subgroup theorem:闭子群定理
 closed subgroup:闭子群
 closed subset:闭子集
 closed suitcase:闭行李箱
@@ -17928,7 +17950,9 @@ club wolves:俱乐部狼
 club won:俱乐部赢了
 club work rules:俱乐部工作规则
 club work:俱乐部工作
+club world championship:俱乐部世界冠军
 club world championship:俱乐部世界锦标赛
+club world championships:俱乐部世界冠军
 club world cup:俱乐部世界杯
 club world:俱乐部世界
 club would soon:俱乐部将很快
@@ -18157,6 +18181,7 @@ clyde employees:克莱德员工
 clyde estuary:克莱德河口
 clyde expressway:克莱德高速公路
 clyde find:克莱德发现
+clyde football club:克莱德足球俱乐部
 clyde frog:克莱德青蛙
 clyde is female:克莱德是女性
 clyde kill:克莱德杀

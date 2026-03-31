@@ -1975,6 +1975,8 @@ yongfeng road:永豐路
 yongfeng road:永鳳路
 yongfeng road:高新大道永丰路
 yongfeng south road:永豐南路
+yongfeng south station:永丰南站
+yongfeng south station:永豐南站
 yongfeng south:永丰南
 yongfeng station:永丰站
 yongfeng station:永豐站
@@ -3809,6 +3811,7 @@ yongxing east road:永兴东路
 yongxing elementary school:永興國小
 yongxing gaqaa:永兴嘎查
 yongxing huayuan:盛和永兴花苑
+yongxing island airport:永兴岛机场
 yongxing island:永兴岛
 yongxing island:永興岛
 yongxing jiayuan:永兴佳园
@@ -4056,6 +4059,7 @@ yongzhou east interchange:永州东互通
 yongzhou east:永州东
 yongzhou expressway:甬舟高速
 yongzhou lingling airport:永州零陵机场
+yongzhou lingling airport:永州零陵機場
 yongzhou power station:国家能源集团永州发电有限公司
 yongzhou railway station:永州站
 yongzhou road:雍州路
@@ -4341,6 +4345,7 @@ york boulevard:约克大道
 york business school:约克商学院
 york campus:约克校园
 york castle museum:約克城堡博物館
+york castle museum:约克城堡博物馆
 york castle:約克城堡
 york castle:约克城堡
 york cathedral:約克大教堂
@@ -4431,6 +4436,8 @@ york river:約克河
 york river:约克河
 york road community:约克路社区
 york road corridor:约克路走廊
+york road stadium:約克路體育場
+york road station:约克路站
 york road:約道
 york road:约克路
 york rose:約克玫瑰
@@ -4457,7 +4464,9 @@ york to newcastle:约克到纽卡斯尔
 york township:約克鎮區
 york township:约克镇区
 york united fc:約克聯足球俱樂部
+york university observatory:約克大學天文台
 york university station:約克大學站
+york university station:约克大学站
 york university:約克大學
 york university:约克大学
 york university:约克大學
@@ -7369,6 +7378,7 @@ you are every thing:你是每一个东西
 you are every:你是每一个
 you are everyone:你是每个人
 you are everything:你就是一切
+you are everything:你是一切
 you are evil:你是邪恶的
 you are existence:你是存在
 you are expensive:你是昂贵的
@@ -31933,6 +31943,7 @@ you you can:你你可以
 you you were a:你你是一个
 you you were right:你你是对的
 you you were:你你是
+you you you:你你你
 you you:你们你们
 you you:你你
 you you:悠悠
@@ -47003,6 +47014,8 @@ your user name and password:你的用户名和密码
 your user name:你们的用户名
 your user name:你的用户名
 your user or:你的用户或
+your user page:你的用户页
+your user pages:你的用户页
 your user:你的用户
 your username and password:你的用户名和密码
 your username:你们的用户名
@@ -48200,6 +48213,7 @@ youth art awards:青年艺术奖
 youth art park:青年艺术公园
 youth art week:青年艺术周
 youth art:青年艺术
+youth artist awards:青年艺术家奖
 youth artists:青年艺术家
 youth assistance:青年援助
 youth association:青年协会
@@ -48599,6 +48613,7 @@ youth initiative:青年倡议
 youth innovation fund:青年创新基金
 youth innovation:青年创新
 youth institute:青年研究所
+youth international party:青年国际党
 youth international:青年国际
 youth international:青年国际的
 youth internship and employment:青年实习和就业

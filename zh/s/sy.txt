@@ -201,6 +201,7 @@ sydney apartment:悉尼公寓
 sydney architect:悉尼建筑师
 sydney architects:悉尼建筑师
 sydney area:悉尼地区
+sydney art school:悉尼艺术学校
 sydney art:悉尼艺术
 sydney artist richard:悉尼艺术家理查德
 sydney artist:悉尼艺术家
@@ -276,6 +277,7 @@ sydney council:悉尼委员会
 sydney court:悉尼法院
 sydney cove:悉尼灣
 sydney cricket ground:悉尼板球場
+sydney dance company:悉尼舞蹈公司
 sydney dance:悉尼舞蹈
 sydney data center:悉尼数据中心
 sydney dealer:悉尼经销商
@@ -301,7 +303,9 @@ sydney elite:悉尼精英
 sydney english academy:悉尼英语学院
 sydney english language:悉尼英语
 sydney english:悉尼英语
+sydney entertainment centre:悉尼娛樂中心
 sydney entertainment centre:悉尼娱乐中心
+sydney entertainment centre:雪梨娛樂中心
 sydney entertainment:悉尼娱乐
 sydney environment institute:悉尼环境研究所
 sydney environment:悉尼环境
@@ -325,7 +329,9 @@ sydney fish market:悉尼魚市場
 sydney flight:悉尼飞行
 sydney food:悉尼食品
 sydney food:悉尼食物
+sydney football club:悉尼足球俱乐部
 sydney football stadium:雪梨足球場
+sydney football stadium:雪梨足球體育場
 sydney football:悉尼足球
 sydney friedman:悉尼弗里德曼
 sydney funnel web spider:悉尼漏斗網蜘蛛
@@ -375,6 +381,7 @@ sydney institute of language and commerce:上海大学悉尼工商学院
 sydney institute:悉尼学院
 sydney institute:悉尼研究所
 sydney interior design:悉尼室内设计
+sydney international airport:悉尼国际机场
 sydney international piano competition:悉尼国际钢琴比赛
 sydney international:雪梨國際賽
 sydney investors:悉尼投资者
@@ -424,6 +431,7 @@ sydney olympic park athletic centre:雪梨奧林匹克公園田徑中心
 sydney olympic park tennis centre:悉尼奥林匹克公园网球中心
 sydney olympic park:悉尼奥林匹克公园
 sydney olympic park:悉尼奧林匹克公園
+sydney olympic park:悉尼奧運公園
 sydney olympic stadium:悉尼奥林匹克体育场
 sydney olympic:悉尼奧運
 sydney olympic:雪梨奧運
@@ -547,6 +555,8 @@ sydney terror:悉尼恐怖
 sydney test:悉尼测试
 sydney theater company:悉尼剧场公司
 sydney theater:悉尼剧场
+sydney theatre companies:悉尼剧场公司
+sydney theatre company:悉尼剧场公司
 sydney theatre company:悉尼剧院公司
 sydney theatre:悉尼剧院
 sydney this year:悉尼今年
@@ -572,6 +582,7 @@ sydney train:悉尼火车
 sydney trains:悉尼火車
 sydney twelve:悉尼十二人
 sydney unit:悉尼单位
+sydney university regiment:悉尼大学团
 sydney university:悉尼大学
 sydney university:悉尼大學
 sydney university:雪梨大学
@@ -2908,6 +2919,7 @@ syria and lebanon:叙利亚和黎巴嫩
 syria and lebanon:叙利亚在黎巴嫩
 syria and lebanon:叙利亚黎巴嫩
 syria and lebanon:叙利亚，黎巴嫩
+syria and lebanon:敘利亞和黎巴嫩
 syria and lebanon:黎巴嫩、叙利亚
 syria and lebanon:黎巴嫩和叙利亚
 syria and libya:利比亚和叙利亚
@@ -3071,6 +3083,7 @@ syria explosion:叙利亚爆炸
 syria father:叙利亚父亲
 syria federation:叙利亚联盟
 syria food:叙利亚食品
+syria football association:叙利亚足球协会
 syria for the first time:叙利亚第一次
 syria forever:叙利亚永远
 syria free:叙利亚释放

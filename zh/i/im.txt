@@ -465,6 +465,7 @@ image edit:图像编辑
 image editing and screen:图像编辑和屏幕
 image editing app:图像编辑应用程序
 image editing functions:影像編輯功能
+image editing program:图像编辑程序
 image editing software:图像编辑软件
 image editing tasks:图像编辑任务
 image editing:图像编辑
@@ -508,6 +509,7 @@ image fields:图像领域
 image fight:夢幻戰鬥
 image file format:图像文件格式
 image file format:图形文件格式
+image file formats:图像文件格式
 image file name:图像文件名
 image file or any other:图像文件或任何其他
 image file sequence:图像文件序列
@@ -999,6 +1001,7 @@ image sensor diagonal:图像传感器对角
 image sensor elements:图像传感器元素
 image sensor extend:图像传感器扩展
 image sensor field:图像传感器领域
+image sensor format:图像传感器格式
 image sensor group:图像传感器组
 image sensor hardware:图像传感器硬件
 image sensor include:图像传感器包括
@@ -1337,6 +1340,7 @@ imam ahmad:伊玛目艾哈迈德
 imam ahmed bin alis helgedom:伊玛目艾哈迈德·本·阿里圣陵
 imam ahmed bin alis helgedom:伊瑪目艾哈邁德·本·阿里聖陵
 imam al-ghazali:伊玛目安萨里
+imam ali mosque:伊玛目阿里清真寺
 imam ali shrine:伊玛目阿里清真寺
 imam ali:伊玛目阿里
 imam exchange:伊玛目交换
@@ -2663,6 +2667,7 @@ immigration tide:移民潮
 immigration to a new country:移民到一个新的国家
 immigration to a new:移民到一个新的
 immigration to air quality:移民到空气质量
+immigration to argentina:移民到阿根廷
 immigration to argentina:移民阿根廷
 immigration to australia:移民澳大利亚
 immigration to canada:移民到加拿大
@@ -2670,7 +2675,9 @@ immigration to canada:移民加拿大
 immigration to denmark:移民到丹麦
 immigration to drug prices:移民到药品价格
 immigration to euro:移民到欧元
+immigration to france:移民到法國
 immigration to human rights:移民到人权
+immigration to israel:移民到以色列
 immigration to japan:在日本的外國人
 immigration to lithuania:移民到立陶宛
 immigration to mexico:移民到墨西哥
@@ -7848,6 +7855,7 @@ important cultural center:重要文化中心
 important cultural center:重要的文化中心
 important cultural heritage:重要文化遗产
 important cultural heritage:重要的文化遗产
+important cultural landscape:重要文化的景观
 important cultural property of japan:日本重要文化財產
 important cultural property:重要文化財產
 important culture:重要文化

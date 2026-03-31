@@ -5980,6 +5980,7 @@ energy flow:能源流动
 energy flow:能量流动
 energy fluid or field:能量流体或场
 energy fluid:能量流体
+energy flux density:能量通量密度
 energy flux-density:能量通量密度
 energy flux:能量通量
 energy fly:能量飞
@@ -9211,6 +9212,7 @@ engine management and control:发动机管理和控制
 engine management computers:发动机管理计算机
 engine management sensor:发动机管理传感器
 engine management system:发动机管理系统
+engine management systems:发动机管理系统
 engine management technology:发动机管理技术
 engine management:发动机管理
 engine manufacture:发动机制造
@@ -9287,6 +9289,7 @@ engine platforms and technology:发动机平台和技术
 engine platforms:发动机平台
 engine position:发动机位置
 engine power:发动机电力
+engine pressure ratio:发动机压力比
 engine principle:发动机原则
 engine problem:发动机问题
 engine problems:发动机问题
@@ -10917,7 +10920,9 @@ england and wales cricket:英格兰和威尔士板球
 england and wales every year:英格兰和威尔士每年
 england and wales experience:英格兰和威尔士体验
 england and wales vote:英格兰和威尔士投票
+england and wales:英格兰与威尔士
 england and wales:英格兰和威尔士
+england and wales:英格蘭和威爾斯
 england and world cricket:英格兰和世界板球
 england are champions:英格兰是冠军
 england are third:英格兰是第三
@@ -10958,6 +10963,7 @@ england conquer:英格兰征服
 england continue:英格兰继续
 england could:英格兰能
 england create:英格兰创造
+england cricket team:英格兰板球队
 england cricket team:英格蘭板球隊
 england cricket:英格兰板球
 england cricketer:英格兰板球运动员
@@ -11980,6 +11986,7 @@ english language level test:英语语言水平测试
 english language level:英语水平
 english language level:英语语言水平
 english language levels:英语水平
+english language literature:英语语言文学
 english language magazine:英语杂志
 english language market:英语市场
 english language markets:英语市场
@@ -20291,6 +20298,7 @@ entertainment car:娱乐车
 entertainment career:娱乐事业
 entertainment center and water park:娱乐中心和水上乐园
 entertainment center or tv:娱乐中心或电视
+entertainment center station:娱乐中心站
 entertainment center we:娱乐中心我们
 entertainment center will include:娱乐中心将包括
 entertainment center will:娱乐中心会
@@ -25504,10 +25512,12 @@ entropy and energy:熵和能量
 entropy and hinge loss:熵和铰链损失
 entropy and information capacity:熵和信息容量
 entropy and information:熵和信息
+entropy and life:熵与生活
 entropy and perceptron:熵和感知器
 entropy and shannon entropy:熵和香农熵
 entropy and statistic:熵和统计
 entropy and temperature:熵和温度
+entropy and time:熵与时间
 entropy approach:熵方法
 entropy calculations:熵计算
 entropy can't:熵不能

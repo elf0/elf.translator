@@ -3558,6 +3558,7 @@ sochi conflict:索契衝突
 sochi forum:索契论坛
 sochi games:索契游戏
 sochi gold medalist:索契金牌获得者
+sochi international airport:索契国际机场
 sochi international airport:索契國際機場
 sochi international film festival:索契国际电影节
 sochi international:索契国际
@@ -6077,6 +6078,7 @@ social needs:社会的需要
 social nerve:社会的神经
 social net:社交网络
 social network analysis and complex:社会网络分析与复杂
+social network analysis:社交网络分析
 social network analysis:社会网络分析
 social network analytics:社会网络分析
 social network and environment:社会网络和环境
@@ -6088,12 +6090,15 @@ social network design:社会网络设计
 social network does:社会网络做
 social network experiment:社会网络实验
 social network game:社交网络游戏
+social network games:社交网络游戏
 social network mechanism:社会网络机制
 social network message:社会网络消息
 social network projects:社会网络项目
 social network require:社会网络需要
 social network script:社会网络脚本
+social network service:社交网络服务
 social network service:社会网络服务
+social network services:社交网络服务
 social network services:社会网络服务
 social network site:社会网络站点
 social network structure and dynamics:社会网络结构和动力学
@@ -7613,6 +7618,7 @@ socialist commune:社会主义者公社
 socialist composer:社会主义者作曲家
 socialist congress:社会主义者代表大会
 socialist democracy party:社会主义民主党
+socialist democracy party:社会主义者民主党
 socialist democracy:社会主义民主制
 socialist destourian party:社會主義憲政黨
 socialist economics:社会主义经济学
@@ -9446,6 +9452,7 @@ sodium polonide:釙化鈉
 sodium polyacrylate is safe:聚丙烯酸钠是安全的
 sodium polyacrylate:聚丙烯酸钠
 sodium polysulfide:钠多硫化物
+sodium potassium pump:钠钾泵
 sodium price:钠价格
 sodium propionate:丙酸钠
 sodium proton:钠质子
@@ -16412,6 +16419,7 @@ solid fuel missile:固体燃料导弹
 solid fuel propulsion:固体燃料推进
 solid fuel rocket engine:固体燃料火箭发动机
 solid fuel rocket propulsion:固体燃料火箭推进
+solid fuel rocket:固体燃料火箭
 solid fuel standard:固体燃料标准
 solid fuel:固体燃料
 solid fuel:固體燃料
@@ -16478,6 +16486,7 @@ solid light sources:固体光源
 solid light:固体光
 solid lithium battery:固体锂电池
 solid lithium:固体锂
+solid logic technology:固体逻辑技术
 solid lubricant:固体润滑剂
 solid magnet:固体磁铁
 solid marker:固体标记
@@ -16821,6 +16830,7 @@ solid waste collection:固体垃圾收集
 solid waste fuel:固体垃圾燃料
 solid waste management system:固体垃圾管理系统
 solid waste management:固体垃圾管理
+solid waste pollution:固体垃圾污染
 solid waste:固体垃圾
 solid water and sand:固体的水和沙
 solid water ice:固体水冰
@@ -19951,6 +19961,7 @@ somali farmer:索马里农民
 somali federal government:索马里联邦政府
 somali fiscal:索马里伯劳
 somali fisherman:索马里渔夫
+somali football association:索马里足球协会
 somali football federation:索馬里足球協會
 somali foreign minister:索马里外交部长
 somali frankincense:索马里乳香
@@ -20098,6 +20109,7 @@ somali women:索马里妇女
 somali workers:索马里工人
 somali world health organization:索马里世界卫生组织
 somali world:索马里世界
+somali youth league:索馬里青年联盟
 somali youth league:索马里青年联盟
 somali youth:索马里青年
 somali:suǒmǎlǐ
@@ -37388,6 +37400,7 @@ son of liberty:儿子的自由
 son of saul:索尔之子
 son of solar:光子豆豆
 son of the mask:小鬼也摩登
+son of woman:女人的兒子
 son of zorn:佐恩之子
 son often:儿子常常
 son oliver:儿子奥利弗
@@ -39392,6 +39405,7 @@ songjiang factory:松江工廠
 songjiang lu:sōngjiāng lù
 songjiang mosque:松江清真寺
 songjiang nanjing metro station:松江南京站
+songjiang nanjing station:松江南京站
 songjiang nanjing:sōng jiāng nán jīng
 songjiang nanjing:松江南京
 songjiang new village:松江新村
@@ -40116,6 +40130,8 @@ songshan (métro de taïpei):sōng shān
 songshan (métro de taïpei):松山
 songshan => taipower building:松山 => 台電大樓
 songshan airport metro station:松山機場站
+songshan airport station:松山机场站
+songshan airport station:松山機場站
 songshan airport:sōng shān jī chǎng
 songshan airport:松山机场
 songshan airport:松山機場
@@ -40652,6 +40668,7 @@ songyuan bay:松園灣
 songyuan binjiang middle school:松原市滨江中学
 songyuan bridge:松园大桥
 songyuan chaganhu airport:松原查干湖机场
+songyuan chaganhu airport:松原查干湖機場
 songyuan city government:松原市政府
 songyuan city:sōngyuán shì
 songyuan city:松原市
@@ -41179,6 +41196,7 @@ sony energy devices corporation:索尼能源设备
 sony energy:索尼能源
 sony engineers:索尼工程师
 sony entertainment network:索尼娛樂網絡
+sony entertainment network:索尼娱乐网络
 sony entertainment television:索尼娱乐电视
 sony entertainment tv:索尼娱乐电视
 sony entertainment:索尼娛樂
@@ -41262,13 +41280,17 @@ sony music and apple:索尼音乐与苹果
 sony music and tencent:索尼音乐和腾讯
 sony music app:索尼音乐应用程序
 sony music artist:索尼音乐艺术家
+sony music artists:索尼音乐艺术家
 sony music ceo:索尼音乐首席执行官
+sony music china:索尼音乐中国
 sony music entertainment ireland:索尼音乐娱乐爱尔兰
 sony music entertainment japan:日本索尼音樂娛樂
 sony music entertainment:索尼音乐娱乐
 sony music family:索尼音乐家庭
 sony music finland:索尼音乐芬兰
 sony music global:索尼音乐全球
+sony music japan:索尼音乐日本
+sony music korea:索尼音乐韩国
 sony music nash:索尼音乐纳什
 sony music own:索尼音乐拥有
 sony music publishing:索尼音樂發行
@@ -46410,6 +46432,7 @@ south airlines:南部航空
 south airport:南机场
 south akesu road:阿克苏南路
 south akesu road:阿克蘇南路
+south alabama university:南阿拉巴馬州大學
 south alabama:南阿拉巴馬州
 south alliance:南盟
 south alligator:南短吻鳄
@@ -46681,6 +46704,7 @@ south ats park:民航局南部飛航服務園區
 south auckland:南奧克蘭
 south australia and queensland:南澳大利亚州和昆士兰州
 south australia and western australia:南澳大利亚州和西澳大利亚州
+south australia company:南澳大利亚公司
 south australia desert:南澳大利亚州荒漠
 south australia government:南澳大利亚州政府
 south australia has been:南澳大利亚州已经
@@ -46688,6 +46712,7 @@ south australia health department:南澳大利亚州卫生部
 south australia hopes:南澳大利亚州希望
 south australia is a great:南澳大利亚州是一个伟大的
 south australia is located in:南澳大利亚州位于
+south australia museum:南澳大利亚博物馆
 south australia state:南澳大利亚州州
 south australia:南澳大利亚
 south australia:南澳大利亚州
@@ -46772,6 +46797,7 @@ south bekasi:南勿加泗
 south beleriand:南貝爾蘭
 south belfast:南貝爾法斯特
 south believe:南相信
+south bellevue station:南贝尔维尤站
 south bellevue:南贝尔维尤
 south beloit:南伯洛伊特
 south bengal:孟南
@@ -46807,6 +46833,7 @@ south branch:南枝
 south brazil:南巴西
 south bridge road:南桥路
 south bridge road:桥南路
+south bridge street:南桥街道
 south bridge:南桥
 south bridge:南橋
 south brisbane:南布里斯班
@@ -46850,6 +46877,7 @@ south cambridgeshire district:南劍橋郡
 south cambridgeshire:劍橋郡南
 south cambridgeshire:南劍橋郡
 south cameroon plateau:南喀麥隆高原
+south cameroon plateau:南喀麦隆高原
 south cameroon:南喀麦隆
 south camp:南營地
 south campus of hnust:湖南科技大学（南校区）
@@ -46901,6 +46929,7 @@ south carolina church:南卡罗来纳州教堂
 south carolina city:南卡罗来纳州城市
 south carolina coach:南卡罗来纳州教练
 south carolina coast:南卡罗来纳州海岸
+south carolina colony:南卡罗莱纳殖民地
 south carolina community:南卡罗来纳州社区
 south carolina court:南卡罗来纳州法院
 south carolina customers:南卡罗来纳州客户
@@ -46938,12 +46967,14 @@ south carolina said:南卡罗来纳州说
 south carolina senate:南卡罗来纳州参议院
 south carolina state house:南卡羅來納州議會大廈
 south carolina state:南卡罗来纳州州
+south carolina state:南卡罗莱纳州
 south carolina statesman:南卡罗来纳州政治家
 south carolina subsidiary:南卡罗来纳州子公司
 south carolina supreme court:南卡罗来纳州最高法院
 south carolina teacher:南卡罗来纳州教师
 south carolina town:南卡罗来纳州城镇
 south carolina university:南卡罗来纳州大学
+south carolina university:南卡罗莱纳大学
 south carolina will cease:南卡罗来纳州将停止
 south carolina workers party:南卡罗来纳工人党
 south carolina:南卡罗来纳州
@@ -46962,6 +46993,7 @@ south caucasus mountain:南高加索山
 south caucasus nation:南高加索国家
 south caucasus natural gas:南高加索天然气
 south caucasus railway:南高加索鐵路
+south caucasus railway:南高加索铁路
 south caucasus region:南高加索地区
 south caucasus republic:南高加索共和国
 south caucasus state:南高加索州
@@ -47177,7 +47209,11 @@ south climate cooperation:南气候合作
 south clinic:南诊所
 south coast air quality:南海岸空气质量
 south coast can be:南海岸可以成为
+south coast line:南岸线
 south coast line:南海岸線
+south coast line:南海岸线
+south coast plaza:南岸廣場
+south coast railway:南岸铁路
 south coast weed:南海岸杂草
 south coast:南岸
 south coast:南海岸
@@ -47255,6 +47291,7 @@ south dakota senate:南达科他州参议院
 south dakota state capitol:南達科他州議會大廈
 south dakota state university:南達科塔州立大學
 south dakota state:南达科他州州
+south dakota state:南達科塔州
 south dakota supreme court:南达科他州最高法院
 south dakota tourism:南达科他州旅游
 south dakota town:南达科他州城镇
@@ -47271,6 +47308,7 @@ south dandong:南丹东
 south dandong:南丹東
 south darfur and west darfur:南达尔富尔州和西达尔富尔州
 south darfur state:南达尔富尔州
+south darfur state:南達爾富爾州
 south darfur:南达尔富尔州
 south darfur:南達爾富爾
 south dashe:大社南
@@ -47307,12 +47345,14 @@ south district:南區
 south district:南部区
 south district:南部區
 south division:南师
+south dixie highway:南迪克西公路
 south dixon:南迪克森
 south dobruja:南多布羅加
 south dock:南碼頭
 south dock:南船塢
 south dongcheng road:东城南路
 south dongcheng road:东城路
+south dongting lake:南洞庭湖
 south dongting lake:南洞庭湖自然保护区
 south door open:南门开
 south door:南门
@@ -47431,6 +47471,8 @@ south florida studio:南佛罗里达工作室
 south florida subdivision:南佛罗里达细分
 south florida sun sentinel:南佛罗里达太阳哨兵
 south florida sun:南佛罗里达太阳
+south florida university:南佛罗里达大学
+south florida university:南佛羅里達州大學
 south florida website:南佛罗里达网站
 south florida:南佛罗里达
 south florida:南佛罗里达州
@@ -47599,6 +47641,7 @@ south hampstead:南汉普斯特德
 south hancheng road:hanchengnanlu
 south hancheng road:汉城南路
 south hanchun alley:涵春南巷
+south harrison township:南哈里森鎮區
 south harrison:南哈里森
 south harrow tube station:南哈羅站
 south harwich:南哈里奇
@@ -47721,13 +47764,17 @@ south india:南印度
 south india:印度南部
 south indian actor:南印度演员
 south indian actor:南印度演員
+south indian architecture:南印度建筑
 south indian bank:南印度银行
 south indian cities:南印度城市
 south indian films:南印度电影
 south indian food:南印度食物
 south indian girl:南印度女孩
+south indian lake:南印度湖
 south indian music:南印度音乐
 south indian musician:南印度的音乐家
+south indian ocean:南印度洋
+south indian style:南印度风格
 south indian:南印度
 south indian:南印度人
 south indian:南印度的
@@ -47756,6 +47803,7 @@ south island of new zealand:新西蘭南島
 south island of new zealand:紐西蘭南島
 south island piopio:新西蘭鶇鶲
 south island residents think:南岛居民认为
+south island school:南岛学校
 south island school:南島中學
 south island west coast:南岛西海岸
 south island:南兄弟岛
@@ -47816,6 +47864,7 @@ south jutlandic:南日德兰语
 south juzi street:局子南街
 south kaisyuan park:南凱旋公園
 south kalimantan pavilion:南加里曼丹馆
+south kalimantan province:南加里曼丹省
 south kalimantan:南加里曼丹
 south kalimantan:南加里曼丹省
 south kalimantan:南婆罗洲
@@ -47838,6 +47887,7 @@ south kensington department:南肯辛顿部门
 south kensington has enough:南肯辛顿有足够的
 south kensington museum:南肯辛顿博物馆
 south kensington schools:南肯辛顿学校
+south kensington station:南肯辛頓站
 south kensington tube station:南肯辛頓站
 south kensington:南肯辛頓
 south kensington:南肯辛顿
@@ -47866,6 +47916,7 @@ south konming road:空明南路
 south kordofan and blue nile state:南科尔多凡州和青尼罗州
 south kordofan and blue nile:南科尔多凡州和青尼罗河
 south kordofan and west kordofan:南科尔多凡州和西科尔多凡州
+south kordofan state:南科爾多凡州
 south kordofan:南科尔多凡州
 south korea abolish:韩国废除
 south korea about:韩国大约
@@ -48101,6 +48152,7 @@ south korea and western europe:韩国和西欧
 south korea and western government:韩国和西方政府
 south korea and withdraw:韩国和撤回
 south korea are the only:韩国是唯一
+south korea army:南朝鲜军队
 south korea as well as:韩国以及
 south korea as well:韩国也
 south korea at the olympics:奧林匹克運動會韓國代表團
@@ -48527,6 +48579,9 @@ south lawn of the white house:白宫南草坪
 south lawn:南草坪
 south league:南联盟
 south lebanon army:南黎巴嫩军
+south lebanon army:南黎巴嫩军队
+south lebanon conflict:南黎巴嫩冲突
+south lebanon township:南黎巴嫩鎮區
 south lebanon:南黎巴嫩
 south ledge:南礁
 south leith parish church:利斯南教堂
@@ -48551,6 +48606,7 @@ south liverpool:南利物浦
 south lizhuang:南李庄村
 south lobby:南登录大厅
 south lombok:南龙目岛
+south london line:南伦敦线
 south london line:南倫敦線
 south london:南伦敦
 south london:南倫敦
@@ -48592,6 +48648,7 @@ south maju:南马驹村
 south malaita island:马拉马西凯岛
 south malaita:南馬萊塔島
 south maldives:南马尔代夫
+south maluku republic:南马鲁古共和国
 south maluku:南马鲁古
 south manchester:南曼彻斯特
 south manchuria railway zone:南滿洲鐵道附屬地
@@ -48620,6 +48677,7 @@ south memphis:南孟菲斯
 south meridian mark:香港子午線南標柱
 south mexico:南墨西哥
 south miami mayor philip:南迈阿密市长菲利普
+south miami station:南迈阿密站
 south miami station:南邁阿密站
 south miami:南迈阿密
 south miami:南邁阿密
@@ -48649,8 +48707,10 @@ south mountain area:南山地区
 south mountain community library:南山社区图书馆
 south mountain freeway:南山高速公路
 south mountain park:南山公园
+south mountain park:南山公園
 south mountain road:南山路
 south mountain swimming association:南山游泳會
+south mountain tunnel:南山隧道
 south mountain:南山
 south mumbai:孟买南区
 south nanyang road:南洋南路
@@ -48716,6 +48776,7 @@ south or east:南或东
 south or north:南或北
 south or west:南或西
 south orange county:南奧蘭治縣
+south oregon university:南俄勒冈大学
 south orkney islands:南奥克尼群岛
 south oroville:南奧羅維爾
 south osaka:南大阪市
@@ -48770,6 +48831,8 @@ south pacific ocean and indian ocean:南太平洋与印度洋
 south pacific ocean and indian ocean:南太平洋和印度洋
 south pacific ocean:南太平洋
 south pacific private:南太平洋私人
+south pacific railroad:南太平洋鐵路
+south pacific railroad:南太平洋铁路
 south pacific reef:南太平洋礁
 south pacific region:南太平洋区域
 south pacific region:南太平洋地区
@@ -48790,9 +48853,11 @@ south pacific:南洋酒店
 south padre island:南帕德雷島
 south pagai:南巴蓋島
 south palm:南棕榈
+south papua province:南巴布亚省
 south papua:南巴布亚
 south papua:南巴布亚省
 south parade:南游行
+south paris arena:南巴黎竞技场
 south paris:南巴黎
 south park controversies:南方公园受争议的剧集列表
 south park flag:南方公園旗幟
@@ -48978,6 +49043,7 @@ south ring street:环城南路
 south ring street:環城南路
 south ring:环城南路
 south ring:環城南路
+south river station:南河站
 south river:南河
 south road hawk:南路鹰
 south road:南路
@@ -48999,14 +49065,19 @@ south russia:南俄罗斯
 south russia:南俄羅斯
 south russians:南俄羅斯人
 south sacristy:南圣器室
+south saint paul:南圣保罗
 south sakhalin:南库页岛
 south sakhalin:南庫頁島
+south salem township:南塞勒姆鎮區
 south salem:南塞勒姆
+south salt lake:南盐湖
 south sami:南萨米
 south san francisco conference center:南旧金山会议中心
+south san francisco:南圣弗朗西斯科
 south san francisco:南旧金山
 south san francisco:南舊金山
 south san:南圣
+south sandwich islands:南三明治群岛
 south sandwich islands:南桑威奇群島
 south sandwich plate:南桑威奇板块
 south sandwich trench:南桑德韋奇海溝
@@ -49023,10 +49094,14 @@ south scientific cooperation:南科学合作
 south scotland:南苏格兰
 south sea apartments:南海大厦
 south sea apartments:南海大廈
+south sea company:南海公司
 south sea company:南海泡沫事件
 south sea fleet:中国人民解放军南部战区海军
+south sea fleet:南海艦隊
+south sea island:南海岛
 south sea pearl:南海珍珠
 south sea road:南海路
+south sea stock:南海股票
 south sea villa:南海小築
 south sea:南極海
 south sea:南海
@@ -49071,6 +49146,7 @@ south shenbin road:申濱南路
 south shendi road:申迪南路
 south shengxin road:勝辛南路
 south shengxin road:胜辛南路
+south shetland archipelago:南昔德蘭群島
 south shetland islands:南设得兰群岛
 south shetland islands:南设德兰群岛
 south shetland trough:南設得蘭海溝
@@ -49090,6 +49166,7 @@ south shuiqu alley:水曲南巷
 south shulin railway station:南樹林車站
 south shulin station:南树林火车站
 south shulin station:南樹林火車站
+south shulin station:南樹林站
 south shulin station:南樹林車站
 south shulin:nán shù lín
 south shulin:南树林
@@ -49172,6 +49249,7 @@ south street restaurant:南街餐馆
 south street seaport area:南街海港地区
 south street seaport museum:南街海港博物馆
 south street seaport:南街海港
+south street station:南街站
 south street yifu primary school:南街逸夫小学
 south street:nánxiǎo jiē
 south street:南大街
@@ -49245,6 +49323,7 @@ south sudan are children:南苏丹是儿童
 south sudan arm:南苏丹武装
 south sudan army rape:南苏丹军队强奸
 south sudan army:南苏丹军队
+south sudan army:南苏丹陆军
 south sudan as well as:南苏丹以及
 south sudan at the olympics:奧林匹克運動會南蘇丹代表團
 south sudan basketball:南苏丹篮球
@@ -49342,6 +49421,8 @@ south sudanese passport:南苏丹护照
 south sudanese pound:南蘇丹鎊
 south sugar:南糖
 south sulawesi pavilion:南苏拉威西馆
+south sulawesi province:南苏拉威西省
+south sulawesi province:南蘇拉威西省
 south sulawesi:南苏拉威西
 south sulawesi:南苏拉威西岛
 south sulawesi:南苏拉威西省
@@ -49350,6 +49431,7 @@ south sumatera:南苏门答腊
 south sumatera:南蘇門答臘
 south sumatra pavilion:南苏门答腊馆
 south sumatra province:南苏门答腊省
+south sumatra province:南蘇門答臘省
 south sumatra:南苏门答腊
 south sumatra:南苏门答腊省
 south sumatra:南蘇門答臘
@@ -49371,6 +49453,7 @@ south taihu mountain road:太湖山南路
 south taihua rd.:太华南路
 south taijian:南太涧村
 south taimali bridge:南太麻里橋
+south tainan station:南臺南站
 south taiping river road west xisha road:太平河南路西沙西路
 south taishan avenue:泰山大道南段
 south taiwan bus main station:南台灣客運總站
@@ -49444,6 +49527,7 @@ south tongpu line:南同蒲线
 south tongpu railway:南同蒲线
 south tongxie road:同协南路
 south tottenham railway station:南托特納姆站
+south tottenham station:南托特納姆站
 south tottenham:南托特納姆
 south towards:南向
 south towards:南朝
@@ -49603,6 +49687,7 @@ south west africa campaign:西南非洲戰役
 south west africa people:西南非洲人民
 south west africa:西南非洲
 south west african police:西南非洲警察
+south west aviation:南西航空
 south west bay:西南灣
 south west community development council:西南区
 south west community development council:西南社区发展理事会
@@ -49633,6 +49718,7 @@ south william:南威廉
 south williams:南威廉斯
 south wilmington:南威爾明頓
 south wilson:南威爾遜
+south wimbledon station:南溫布頓站
 south wimbledon tube station:南溫布頓站
 south wimbledon:南溫布頓
 south wind blow:南風吹
@@ -49702,6 +49788,8 @@ south yemen:也门民主人民共和国
 south yemen:南也門
 south yemen:南也门
 south yemen:南葉門
+south yemeni dinar:南也門第納爾
+south yemeni dinar:南葉門第納爾
 south yemeni:南也門
 south yemeni:南也门
 south yemeni:南葉門
@@ -49902,6 +49990,7 @@ southeast airline:東南航空公司
 southeast alaska:阿拉斯加狹地
 southeast alberta:东南艾伯塔省
 southeast alliance:东南联盟
+southeast anatolia region:东南安那托利亚地区
 southeast anatolia:东南安那托利亚
 southeast anatolia:東南安納托利亞
 southeast and east:东南和东
@@ -50097,6 +50186,7 @@ southeast coast:東南海岸
 southeast coastline:东南海岸线
 southeast college:东南学院
 southeast community college:东南社区学院
+southeast community college:東南社區學院
 southeast community development council:东南社区发展理事会
 southeast community:东南社区
 southeast construction:东南建筑
@@ -51107,6 +51197,7 @@ southwest jiaotong university school hospital:西南交大校医院
 southwest jiaotong university station:西南交大站
 southwest jiaotong university:西南交大
 southwest jiaotong university:西南交通大学
+southwest jiaotong university:西南交通大學
 southwest kansas:西南堪薩斯州
 southwest key:西南钥匙
 southwest king:西南王
@@ -51130,6 +51221,7 @@ southwest minnesota state university:西南明尼苏达州立大学
 southwest minnesota:西南明尼苏达
 southwest minzu university (hangkonggang campus):西南民族大学（航空港校区）
 southwest minzu university:西南民族大学
+southwest minzu university:西南民族大學
 southwest mississippi:西南密西西比州
 southwest missouri state:西南密苏里州
 southwest monsoon:西南季风
@@ -51150,14 +51242,17 @@ southwest ontario:西南安大略
 southwest ontario:西南安大略省
 southwest or northeast:西南或东北
 southwest or west:西南或西
+southwest pacific area:西南太平洋地区
 southwest pacific ocean:西南太平洋
 southwest pacific:西南太平洋
+southwest papua province:西南巴布亚省
 southwest papua:西南巴布亚省
 southwest penang island district police headquarters:西南县警区总部
 southwest peninsula:西南半岛
 southwest people's republic:西南人民共和国
 southwest people:西南人民
 southwest petroleum university:西南石油大学
+southwest petroleum university:西南石油大學
 southwest petroleum:西南石油
 southwest planning region:西南部规划区 (保加利亚)
 southwest poland:西南波兰
@@ -51813,6 +51908,7 @@ soviet space program:苏联太空计划
 soviet spirit:苏维埃精神
 soviet sport:苏维埃运动
 soviet sports:苏维埃运动
+soviet state bank:苏维埃国家银行
 soviet state founder:苏维埃国家创始人
 soviet state:苏维埃国家
 soviet states:苏维埃国家

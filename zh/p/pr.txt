@@ -993,6 +993,7 @@ prague i:布拉格我
 prague in this new:布拉格在这个新的
 prague institute:布拉格研究所
 prague integrated transport:布拉格综合交通
+prague international marathon:布拉格国际马拉松
 prague iron industry:布拉格铁工业
 prague iron:布拉格铁
 prague is no longer:布拉格不再是
@@ -1012,6 +1013,7 @@ prague mayor:布拉格市长
 prague metro:布拉格地铁
 prague metronome:布拉格節拍器
 prague museum:布拉格博物馆
+prague music academy:布拉格音乐学院
 prague nightlife:布拉格夜生活
 prague offensive:布拉格攻势
 prague offensive:布拉格攻勢
@@ -10847,6 +10849,8 @@ pressure game:压力游戏
 pressure gas:压力气体
 pressure get:压力得到
 pressure glove:压力手套
+pressure gradient force:压力梯度力
+pressure gradient force:压强梯度力
 pressure gradient force:壓強梯度力
 pressure gradient:压力梯度
 pressure gradient:压强梯度
@@ -11259,6 +11263,7 @@ preston england temple:英国普雷斯顿圣殿
 preston estimate:普雷斯顿估计
 preston explains:普雷斯顿解释
 preston family:普雷斯顿家庭
+preston football club:普雷斯顿足球俱乐部
 preston gordon:普雷斯顿戈登
 preston grasshopper:普雷斯顿蚱蜢
 preston had a plan:普雷斯顿有一个计划
@@ -18624,6 +18629,7 @@ prince stadium:王子體育場
 prince start:王子开始
 prince station:王子站
 prince still:王子仍然
+prince street station:王子街站
 prince street station:王子街車站
 prince street:王子街
 prince su:肃亲王
@@ -19332,6 +19338,7 @@ princeton alumni:普林斯顿校友
 princeton and crawford:普林斯顿和克劳福德
 princeton and harvard:普林斯顿和哈佛
 princeton architecture:普林斯顿架构
+princeton art museum:普林斯顿艺术博物馆
 princeton asylum project:普林斯顿庇护项目
 princeton authors:普林斯顿作者
 princeton battlefield:普林斯顿战场
@@ -19440,11 +19447,14 @@ princeton university historian:普林斯顿大学历史学家
 princeton university in the united states:普林斯顿大学在美国
 princeton university is world:普林斯顿大学是世界
 princeton university library:普林斯頓大學圖書館
+princeton university library:普林斯顿大学图书馆
 princeton university math:普林斯顿大学数学
 princeton university mathematician:普林斯顿大学数学家
+princeton university observatory:普林斯顿大学天文台
 princeton university physicist:普林斯顿大学物理学家
 princeton university physics:普林斯顿大学物理
 princeton university press:普林斯頓大學出版社
+princeton university press:普林斯顿大学出版社
 princeton university professor and columbia:普林斯顿大学教授和哥伦比亚
 princeton university professor andrew:普林斯顿大学教授安德鲁
 princeton university professor michael:普林斯顿大学教授迈克尔
@@ -21019,6 +21029,7 @@ printing how to:印刷如何
 printing hue:印刷色相
 printing image:印刷图像
 printing industry and information:印刷工业和信息
+printing industry press:印刷工业出版社
 printing industry technology:印刷工业技术
 printing industry:印刷工业
 printing ink field:印刷墨水领域
@@ -21469,6 +21480,7 @@ priscus:普利斯庫斯
 prisdorf:普里斯多夫
 priseaca:普里塞亞卡鄉
 prishtina international airport adem jashari terminal:普里什蒂纳国际机场阿德姆·贾沙里航站楼
+prishtina international airport:普里什蒂纳国际机场
 prishtina rahvusvaheline lennujaam:普里斯提納國際機場
 prishtina university:普里什蒂纳大学
 prishtina:普里什蒂纳
@@ -22085,6 +22097,7 @@ pristimera:扁蒴藤属
 pristina airport:普里什蒂纳机场
 pristina and belgrade:普里什蒂纳和贝尔格莱德
 pristina internasionale lughawe:普里斯提納國際機場
+pristina international airport:普里什蒂纳国际机场
 pristina international airport:普里斯提納國際機場
 pristina municipality:普里什蒂纳市镇
 pristina nemzetközi repülőtér adem jašari terminál:普里什蒂纳国际机场阿德姆·贾沙里航站楼
@@ -24110,6 +24123,7 @@ private health insurance fund:私人健康保险基金
 private health insurance plan:私人健康保险计划
 private health insurance plans:私人健康保险计划
 private health insurance:私人健康保险
+private health insurance:私人健康保險
 private health insurance:私人醫療保險
 private health plans:私人健康计划
 private health-insurance:私人健康保险
@@ -25486,6 +25500,7 @@ private space:私人空间
 private space:私有的空间
 private spacecraft:私人宇宙飞船
 private spacecraft:私人航天器
+private spaceflight companies:私人航天公司
 private spaceflight:民营航天
 private spaceflight:私人航天
 private spanish lesson:私人西班牙语课程
@@ -26465,7 +26480,9 @@ probability current:機率流
 probability curve:概率曲线
 probability curves:概率曲线
 probability density distillation:概率密度蒸馏
+probability density function:概率密度函数
 probability density function:機率密度函數
+probability density functions:概率密度函数
 probability density rather than:概率密度而不是
 probability density value:概率密度值
 probability density:概率密度
@@ -26517,6 +26534,7 @@ probability machine:概率机器
 probability markets:概率市场
 probability mass and uncertainty:概率质量和不确定性
 probability mass function:概率质量函数
+probability mass functions:概率质量函数
 probability mass:概率质量
 probability match:概率匹配
 probability math and models:概率数学和模型
@@ -41248,6 +41266,7 @@ professional negotiations:专业的谈判
 professional network and knowledge:专业网络和知识
 professional network and market:专业的网络和市场
 professional network platforms:专业网络平台
+professional network service:专业网络服务
 professional network:专业的网络
 professional network:专业网络
 professional networks include:专业网络包括
@@ -43947,6 +43966,10 @@ program delete:程序删除
 program denominator:程序分母
 program depends on:程序依赖于
 program description:程序描述
+program design language:程序設計語言
+program design language:程序設計语言
+program design language:程序设计語言
+program design language:程序设计语言
 program design:程序設計
 program designer:程序設計師
 program details:程序细节
@@ -44661,7 +44684,9 @@ programmable logic controller design:可编程逻辑控制器设计
 programmable logic controller enter:可编程逻辑控制器进入
 programmable logic controller input:可编程逻辑控制器输入
 programmable logic controller:可编程逻辑控制器
+programmable logic controllers:可编程逻辑控制器
 programmable logic device:可程式化邏輯裝置
+programmable logic device:可编程逻辑设备
 programmable logic devices:可编程逻辑设备
 programmable logic elements:可编程逻辑元素
 programmable logic has:可编程逻辑有
@@ -47092,6 +47117,7 @@ project disciplines:项目学科
 project discover:项目发现
 project discovery:项目发现
 project discussion and voting:项目讨论和投票
+project discussion page:项目讨论页
 project discussion:项目讨论
 project discussions:项目讨论
 project distribution:项目分布
@@ -51257,6 +51283,7 @@ prophet and her follower:先知和她的追随者
 prophet and his follower:先知和他的追随者
 prophet and king:先知和王
 prophet and loss:先知和损失
+prophet and messenger:先知与信使
 prophet and president:先知和总统
 prophet and priest:先知和祭司
 prophet and representative:先知和代表
@@ -56196,6 +56223,7 @@ protein and calcium:蛋白质和钙
 protein and calorie:蛋白质和卡路里
 protein and cancer:蛋白质和癌症
 protein and cell applications:蛋白质和细胞应用
+protein and cell:蛋白质与细胞
 protein and cellulose:蛋白质和纤维素
 protein and cherry:蛋白质和樱桃
 protein and creatine:蛋白质和肌酸
@@ -56776,6 +56804,7 @@ protein translation:蛋白质翻译
 protein transport:蛋白质运输
 protein trimer:蛋白三聚體
 protein type:蛋白质类型
+protein tyrosine phosphatase:蛋白质酪氨酸磷酸酶
 protein tyrosine phosphatase:蛋白酪氨酸磷酸酶
 protein tyrosine phosphorylation:蛋白质酪氨酸磷酸化
 protein tyrosine:蛋白质酪氨酸

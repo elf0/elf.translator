@@ -888,6 +888,7 @@ eu letter:欧盟信
 eu level:欧盟水平
 eu lighting:欧盟照明
 eu like:欧盟喜欢
+eu literature prize:欧盟文学奖
 eu location:欧盟位置
 eu logistics:欧盟物流
 eu long-term budget:欧盟长期预算
@@ -929,6 +930,7 @@ eu merge:欧盟合并
 eu methods:欧盟方法
 eu mexico:欧盟墨西哥
 eu military alliance:欧盟军事同盟
+eu military committee:欧盟军事委员会
 eu military:欧盟军事
 eu military:欧盟军队
 eu milk market:欧盟牛奶市场
@@ -3123,6 +3125,8 @@ europe car:欧洲汽车
 europe center:欧洲中心
 europe ceo:欧洲首席执行官
 europe certification:欧洲认证
+europe champions cup:欧洲冠军杯
+europe champions cup:歐洲冠军杯
 europe championship:欧洲冠军
 europe championship:欧洲锦标赛
 europe championship:歐洲锦标赛
@@ -4084,6 +4088,8 @@ european atherosclerosis:欧洲动脉粥样硬化
 european athlete:欧洲运动员
 european athletes:欧洲的运动员
 european athletes:欧洲运动员
+european athletics association:欧洲田径协会
+european athletics championship:欧洲田径锦标赛
 european athletics championships:歐洲田徑錦標賽
 european athletics indoor championships:歐洲室內田徑錦標賽
 european athletics:欧洲田径
@@ -4160,9 +4166,11 @@ european banks:欧洲银行
 european baroque:欧洲巴洛克艺术
 european base:欧洲基地
 european base:欧洲的基地
+european baseball championship:欧洲棒球锦标赛
 european baseball:欧洲棒球
 european based:欧洲基于
 european basketball champions league:欧洲篮球冠军联赛
+european basketball championship:欧洲篮球锦标赛
 european basketball week:欧洲篮球周
 european basketball:欧洲篮球
 european bat:欧洲蝙蝠
@@ -4457,6 +4465,7 @@ european challenges:欧洲挑战
 european chamber music:欧洲室内乐
 european champion and european:欧洲冠军和欧洲
 european champion and world:欧洲冠军和世界
+european champion cup:欧洲冠军杯
 european champion fan hui:欧洲冠军樊麾
 european champion lyon provide:欧洲冠军里昂提供
 european champion portugal:欧洲冠军葡萄牙
@@ -4605,6 +4614,7 @@ european club association:歐洲足球會協會
 european club competition:欧洲俱乐部竞争
 european club football:欧洲俱乐部足球
 european club rugby:欧洲俱乐部橄榄球
+european club soccer:欧洲俱乐部足球
 european club:欧洲俱乐部
 european club:欧洲的俱乐部
 european coach:欧洲教练
@@ -5227,6 +5237,7 @@ european design and construction:欧洲设计和建筑
 european design association:欧洲设计协会
 european design center:欧洲设计中心
 european design consultant:欧洲设计顾问
+european design institute:欧洲设计学院
 european design:欧洲的设计
 european design:欧洲设计
 european designer:欧洲的设计师
@@ -5386,9 +5397,12 @@ european emerging markets:欧洲新兴市场
 european emigrant:欧洲的移民
 european emigrant:欧洲移民
 european emigration:來自歐洲的移民
+european emission standard:欧洲排放标准
+european emission standards:欧洲排放标准
 european emission standards:欧洲汽车尾气排放标准
 european emission:欧洲排放
 european emission:欧洲的排放
+european emissions standards:欧洲排放标准
 european emissions:欧洲排放
 european emissions:欧洲的排放
 european emperor:欧洲皇帝
@@ -5549,6 +5563,7 @@ european fashion:欧洲时尚
 european fashion:欧洲的时尚
 european fast fashion:欧洲的快时尚
 european federalism:欧洲联邦主义
+european federation cup:欧洲联盟杯
 european federation of taiwanese associations:歐洲台灣協會聯合會
 european federation:欧洲联盟
 european feel:欧洲的感觉
@@ -5688,6 +5703,7 @@ european free trade association countries:欧洲自由贸易联盟国家
 european free trade association court:欧洲自由贸易联盟法院
 european free trade association member:欧洲自由贸易联盟成员
 european free trade association:欧洲自由贸易联盟
+european freedom union:欧洲自由联盟
 european freeway:欧洲高速公路
 european french residents:欧洲法国居民
 european french translation solutions:欧洲法语翻译解决方案
@@ -5855,6 +5871,7 @@ european growth strategy:欧洲增长战略
 european growth:欧洲增长
 european guests:欧洲客人
 european gun:欧洲的枪
+european gymnastics championship:欧洲体操锦标赛
 european gymnastics championships:歐洲體操錦標賽
 european gymnastics:欧洲体操
 european gymnastics:欧洲的体操
@@ -6105,6 +6122,7 @@ european invasion:欧洲入侵
 european invasion:欧洲的入侵
 european invention:欧洲发明
 european invention:欧洲的发明
+european inventor awards:欧洲发明家奖
 european inventor:欧洲发明家
 european investigation:欧洲调查
 european investment and business:欧洲投资和商业
@@ -6574,6 +6592,7 @@ european mozzarella:欧洲马苏里拉奶酪
 european mudminnow:蔭魚
 european multimedia products:欧洲多媒体产品
 european multimedia:欧洲多媒体
+european museum forum:欧洲博物馆论坛
 european museum of the year award:欧洲年度博物馆奖
 european museum standard:欧洲博物馆标准
 european museum:欧洲博物馆
@@ -6809,6 +6828,7 @@ european parliament consider:欧洲议会考虑
 european parliament constituencies in france:法國歐洲議會選區
 european parliament constituencies in the republic of ireland:愛爾蘭歐洲議會選區
 european parliament constituencies in the united kingdom:英國歐洲議會選區
+european parliament constituency:欧洲议会选区
 european parliament constituency:歐洲議會選區
 european parliament continues:欧洲议会继续
 european parliament currently:欧洲议会目前
@@ -6851,6 +6871,8 @@ european parliament would:欧洲议会将
 european parliament:欧洲国会
 european parliament:欧洲议会
 european parliament:歐洲議會
+european parliamentary election:欧洲议会的选举
+european parliamentary elections:欧洲议会的选举
 european parliamentary:欧洲议会的
 european part of russia:俄国欧洲部分
 european part of russia:俄罗斯欧洲部分
@@ -6914,6 +6936,7 @@ european payment service:欧洲支付服务
 european payment services:欧洲支付服务
 european payment system:欧洲支付系统
 european payment:欧洲支付
+european peace university:欧洲和平大学
 european peace:欧洲和平
 european peace:欧洲的和平
 european peach:欧洲的桃
@@ -6962,6 +6985,7 @@ european physician:欧洲医生
 european physicist:欧洲物理学家
 european physicist:欧洲的物理学家
 european physics:欧洲物理
+european physiology modules:欧洲生理学模块
 european piano:欧洲钢琴
 european picnic:欧洲野餐
 european pied flycatcher:斑姬鹟
@@ -7332,6 +7356,8 @@ european request:欧洲的请求
 european requirements:欧洲的要求
 european requirements:欧洲要求
 european rescue:欧洲救援
+european research council:欧洲研究委员会
+european research council:欧洲研究理事会
 european research institutions:欧洲的研究机构
 european research:欧洲的研究
 european researchers analyze:欧洲的研究人员分析
@@ -7554,6 +7580,7 @@ european ship:欧洲的船
 european ship:欧洲船
 european shipbuilding:欧洲造船
 european shipyard:欧洲造船厂
+european shooting championship:欧洲射击锦标赛
 european shooting:欧洲射击
 european shop:欧洲购物
 european shopping center:欧洲购物中心
@@ -7594,6 +7621,7 @@ european smartphone market data:欧洲智能手机市场数据
 european smartphone:欧洲智能手机
 european smelt:胡瓜魚
 european smoking:欧洲吸烟
+european soccer championship:欧洲足球锦标赛
 european soccer league:欧洲足球联盟
 european soccer nation:欧洲足球国家
 european soccer team:欧洲足球队
@@ -8194,6 +8222,7 @@ european union blockchain:欧盟区块链
 european union brand:欧盟品牌
 european union broadcasting:欧盟广播
 european union budget and human resources:欧盟预算和人力资源
+european union budget:欧洲联盟预算
 european union budget:欧盟预算
 european union buildings:欧盟建筑
 european union cancel:欧盟取消
@@ -8207,12 +8236,15 @@ european union center:欧盟中心
 european union centre in taiwan:臺灣歐洲聯盟中心
 european union chamber of commerce in china:中国欧盟商会
 european union chamber orchestra:欧洲联盟室内乐团
+european union citizens:欧洲联盟公民
+european union citizenship:欧洲联盟公民
 european union citizenship:欧盟公民
 european union civil service tribunal:歐洲聯盟公務員法庭
 european union classification:欧盟分类
 european union clause:欧盟条款
 european union clients:欧盟客户
 european union climate:欧盟气候
+european union committee:欧洲联盟委员会
 european union companies:欧盟公司
 european union compass:欧洲联盟指南针
 european union competition:欧盟竞争
@@ -8224,6 +8256,8 @@ european union continues:欧洲联盟继续
 european union continues:欧盟继续
 european union copyright:欧盟版权
 european union could:欧盟能
+european union council:欧洲联盟委员会
+european union council:欧洲联盟理事会
 european union council:欧盟理事会
 european union countries agree:欧盟国家同意
 european union countries and iran:欧盟国家和伊朗
@@ -8428,6 +8462,7 @@ european union police:欧洲联盟警察
 european union police:欧盟警察
 european union policies:欧盟政策
 european union policy:欧盟政策
+european union politics:欧洲联盟政治
 european union politics:歐盟政治學
 european union pollution:欧盟污染
 european union population:欧盟人口
@@ -8780,10 +8815,12 @@ european writing school:欧洲写作学校
 european year:欧洲年
 european you:欧洲你
 european youth card:欧洲青年卡
+european youth championship:欧洲青年锦标赛
 european youth forum:欧洲青年论坛
 european youth love:欧洲青年爱
 european youth olympic festival:歐洲青少年奧林匹克運動會
 european youth olympic games:欧洲青年奥林匹克运动会
+european youth olympics:欧洲青年奥运会
 european youth parliament:欧洲青年议会
 european youth:欧洲青年
 european zeitgeist:欧洲时代精神

@@ -2244,7 +2244,9 @@ xunfeng road:熏风路
 xunfeng:郇封镇
 xunfengcun:郇封村
 xunfenggang metro station:地铁浔峰岗站
+xunfenggang metro station:浔峰岗地铁站
 xunfenggang metro yard:浔峰岗停车场
+xunfenggang north station:浔峰岗北站
 xunfenggang north:浔峰岗北
 xunfenggang station:浔峰岗站
 xunfenggang station:潯峰崗站
@@ -2881,7 +2883,10 @@ xuzhou ground pot:徐州地锅
 xuzhou guanyin airport terminal 1:徐州观音国际机场t1航站楼
 xuzhou guanyin airport terminal 2:徐州观音国际机场t2航站楼
 xuzhou guanyin airport:xúzhōu guānyīn guójì jīchǎng
+xuzhou guanyin airport:徐州觀音機場
 xuzhou guanyin airport:徐州观音国际机场
+xuzhou guanyin airport:徐州观音机场
+xuzhou guanyin airport:徐州观音機場
 xuzhou guanyin international airport:徐州观音国际机场
 xuzhou jiulishan airbase:徐州九里山空军基地
 xuzhou marathon:徐州马拉松

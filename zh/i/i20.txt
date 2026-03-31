@@ -1610,6 +1610,7 @@ i am born:我是生于
 i am boss:我是老板
 i am brazilian:我是巴西
 i am brazilian:我是巴西人
+i am bread:我是面包
 i am bread:我是麵包
 i am bruce lee:我是李小龍
 i am buddhist:我是佛教徒
@@ -1681,6 +1682,7 @@ i am egyptian:我是埃及人
 i am elizabeth:我是伊丽莎白
 i am emperor:我是皇帝
 i am english:我是英语
+i am entertainment:我是娛樂
 i am eric:我是埃里克
 i am eternity:我是永恆
 i am ethiopian:我是埃塞俄比亚人
@@ -1746,6 +1748,7 @@ i am green paint:我是绿色油漆
 i am green:我是绿色
 i am greta:我是格蕾塔
 i am groot:我是格魯特
+i am groot:我是格鲁特
 i am ground control:我是地面控制
 i am guilty:我是有罪的
 i am half bulgarian:我是半保加利亚人
@@ -2592,6 +2595,7 @@ i am truth:我是真理
 i am turing:我是图灵
 i am ugly:我是丑的
 i am ukrainian:我是乌克兰人
+i am unicorn:我是独角兽
 i am unique:我是独特的
 i am uruguay:我是乌拉圭
 i am us citizen:我是美国公民
@@ -2628,6 +2632,7 @@ i am with you:我是与你们
 i am woman hear:我是女人听
 i am woman:我是女人
 i am work:我是工作
+i am wrath:我是愤怒
 i am wrong:我是错的
 i am yahweh:我是雅威
 i am yellow:我是黄色
@@ -2649,6 +2654,7 @@ i analyze:我分析
 i and a few:我和几
 i and a woman:我和一个女人
 i and administrator:我和管理员
+i and albert:我和阿尔伯特
 i and all christians:我和所有基督徒
 i and all of us:我和我们所有人
 i and all people:我和所有的人
@@ -15011,6 +15017,7 @@ i love canada:我爱加拿大
 i love capitalism:我爱资本主义
 i love carrot:我爱胡萝卜
 i love cat:我爱猫
+i love chemistry:我愛化學
 i love chicago:我愛芝加哥
 i love chicago:我爱芝加哥
 i love children and families:我爱孩子和家庭
@@ -15180,6 +15187,7 @@ i love lee taly:我愛李太利
 i love lee:我爱李
 i love leonardo:我爱莱昂纳多
 i love letter:我愛字母
+i love liberty:我愛自由
 i love liberty:我爱自由
 i love life:我愛生活
 i love life:我爱生命
@@ -23074,6 +23082,7 @@ i want liberty:我想自由
 i want liberty:我想要自由
 i want life:我想要生活
 i want love now:我想要爱现在
+i want love:我想要愛
 i want love:我想要爱
 i want magic:我想要魔法
 i want male:我想要男性

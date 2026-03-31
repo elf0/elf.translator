@@ -4820,6 +4820,7 @@ yueyang north railway station:岳阳北站
 yueyang railway station:岳阳站
 yueyang road:月阳路
 yueyang sanhe airport:岳阳三荷机场
+yueyang sanhe airport:岳陽三荷機場
 yueyang service area:岳阳服务区
 yueyang street:yuèyáng jiē
 yueyang street:岳阳街
@@ -6911,6 +6912,7 @@ yulin tollbooth:鱼鳞收费站
 yulin town:榆林镇
 yulin university:榆林学院
 yulin xisha airport:榆林西沙机场
+yulin xisha airport:榆林西沙機場
 yulin yuyang airport:榆林榆陽機場
 yulin'ercun:榆林二村
 yulin-grotten:榆林窟
@@ -7073,6 +7075,7 @@ yulong river:玉隆河
 yulong river:玉龍河
 yulong river:玉龙河
 yulong river:遇龙河
+yulong road station:玉龍路站
 yulong road station:玉龙路站
 yulong road:御龙路
 yulong road:愉龙路
@@ -7085,6 +7088,8 @@ yulong road:裕隆路
 yulong road:雨龙路
 yulong shuiku:玉龙水库
 yulong snow mountain ropeway:玉龙雪山索道
+yulong snow mountain:玉龍雪山
+yulong snow mountain:玉龙雪山
 yulong square:玉龙广场
 yulong street west:西玉龙街
 yulong street:宇龙街
@@ -8484,6 +8489,7 @@ yunjin lake (north lake):云锦湖（北湖）
 yunjin lake park:云锦湖公园
 yunjin mansion:云锦公馆
 yunjin neighborhood:云锦小区
+yunjin road station:云锦路站
 yunjin road:云锦路
 yunjin shan:云锦山
 yunjin:云锦
@@ -8754,6 +8760,7 @@ yunnan lane:雲南里
 yunnan lar gibbon:云南白掌长臂猿
 yunnan library:云南图书馆
 yunnan library:云南省图书馆
+yunnan lijiang dongba:云南丽江东巴
 yunnan lijiang minzu orphan school:云南省丽江民族孤儿学校
 yunnan lijiang:云南丽江
 yunnan lu:云南路

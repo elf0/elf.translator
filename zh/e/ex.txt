@@ -4077,10 +4077,12 @@ exeter style:埃克塞特风格
 exeter team:埃克塞特团队
 exeter township:埃克塞特鎮區
 exeter township:埃克塞特镇区
+exeter university college:埃克塞特大學學院
 exeter university:埃克塞特大学
 exeter university:埃克塞特大學
 exeter university:艾克斯特大学
 exeter university:艾克斯特大學
+exeter war memorial:埃克塞特战争纪念碑
 exeter youth:埃克塞特青年
 exeter:埃克塞特
 exeter:艾克斯特
@@ -4286,6 +4288,7 @@ exhibition centre and photos:展览中心和照片
 exhibition centre offer:展览中心提供
 exhibition centre station public transport interchange public toilet:會展站公共運輸交匯處公廁
 exhibition centre station:展覽中心站
+exhibition centre station:展览中心站
 exhibition centre station:會展站
 exhibition centre:展览中心
 exhibition centre:會展
@@ -12289,6 +12292,7 @@ expert in this field:专家在这个领域
 expert in this matter:专家在这个问题上
 expert independent:专家独立的
 expert indicate:专家指示
+expert infantry badge:专家步兵徽章
 expert infertility:专家不孕
 expert information:专家信息
 expert input:专家输入
@@ -14658,6 +14662,7 @@ exploitation fiction:剥削小说
 exploitation film:剝削電影
 exploitation film:剥削电影
 exploitation films:剥削电影
+exploitation horror film:剥削恐怖电影
 exploitation image database:剥削图像数据库
 exploitation image:剥削图像
 exploitation including child labour:剥削包括童工
@@ -16708,6 +16713,7 @@ explosively pumped flux compression generator:爆炸磁通量壓縮發生器
 explosives engineering:爆破工程
 expo 2025 osaka, kansai, japan:2025年日本国际博览会
 expo center south:博览中心南
+expo center station:博览中心站
 expo center:博覽中心
 expo center:博览中心
 expo centre:世博中心
@@ -16797,6 +16803,7 @@ exponential increase:指数增加
 exponential information age:指数信息时代
 exponential information:指数信息
 exponential innovation:指数创新
+exponential integral function:指数积分函数
 exponential integral:指数积分
 exponential integrals:指数积分
 exponential invest:指数投资

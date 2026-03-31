@@ -3226,6 +3226,7 @@ xiamen diamond league:钻石联赛厦门站
 xiamen egret stadium:厦门白鹭体育场
 xiamen first class post bureau relic site of qing dynasty:大清厦门一等邮局遗址
 xiamen first class post bureau relic site of qing dynasty:大清廈門一等郵局遺址
+xiamen football association:厦门市足球协会
 xiamen foreign language school:厦门外国语学校
 xiamen gaoqi international airport terminal 4:厦门机场t4航站楼
 xiamen gaoqi international airport:厦门高崎国际机场
@@ -3234,10 +3235,13 @@ xiamen gaoqi railway station:厦门高崎站
 xiamen huaqiao middle school:厦门市华侨中学
 xiamen huaqiao middle school:廈門市華僑中學
 xiamen institute of technology:厦门工学院
+xiamen international airport:厦门国际机场
 xiamen international bank:厦门国际银行
 xiamen international centre:厦门绿发新时代广场
 xiamen international expo center:厦门国际博览中心
 xiamen international expo center:廈門國際博覽中心
+xiamen international marathon:厦门国际马拉松
+xiamen international school:厦门国际学校
 xiamen island area:厦门岛面积
 xiamen island ring boulevard:环岛干道
 xiamen island:厦门岛
@@ -3273,6 +3277,8 @@ xiamen national accounting institute:廈門國家會計學院
 xiamen no. 3 middle school:厦门市第三中学
 xiamen north railway station:xiàménbĕi zhàn
 xiamen north railway station:厦门北站
+xiamen north station:厦门北站
+xiamen north station:廈門北站
 xiamen north:厦门北
 xiamen north:廈門北
 xiamen people's stadium:厦门市人民体育场
@@ -6428,6 +6434,7 @@ xiangmihu sub-district:hoengmatwu-gaaidou
 xiangmihu sub-district:xiāngmìhú jiēdào
 xiangmihu sub-district:香蜜湖街道
 xiangmihu terminus:香蜜湖总站
+xiangmihu west station:香蜜湖西站
 xiangmihu west:香蜜湖西
 xiangmihu:hoengmatwu-gaaidou
 xiangmihu:香蜜湖
@@ -16742,6 +16749,7 @@ xibeet:希勃图
 xibeet:希波图
 xibei bridge no.2:西北二橋
 xibei bridge station:西北桥站
+xibei bridge station:西北橋站
 xibei bridge:西北桥
 xibei bridge:西北橋
 xibei canal park:xīběi yùnhé gōngyuán
@@ -17111,6 +17119,7 @@ xichang dialect:西昌話
 xichang electrical centre:西场电器城
 xichang interchange:西场立交
 xichang qingshan airport:西昌青山机场
+xichang qingshan airport:西昌青山機場
 xichang railway station:西昌站
 xichang road crossing:曦城路口
 xichang road:xīchāng lù
@@ -17457,6 +17466,7 @@ xicun avenue:西村大道
 xicun bus terminal:西村(水厂)公交站场
 xicun bus terminal:西村水厂总站
 xicun metro station:地铁西村站
+xicun metro station:西村地铁站
 xicun road:西村路
 xicun station:西村站
 xicun township government:西村乡政府
@@ -20652,6 +20662,7 @@ xili industrial area:西丽工业区
 xili industrial area:西麗工業區
 xili junction:细沥立交
 xili lake station:西丽湖站
+xili lake station:西麗湖站
 xili lake:西丽湖
 xili lake:西里湖
 xili lake:西麗湖
@@ -22800,6 +22811,7 @@ xincun nongchang:新村农场
 xincun reservoir:xīncūn shuǐkù
 xincun reservoir:新村水库
 xincun road station:新村路站
+xincun road station:新路站
 xincun road:新村路
 xincun south rd:新村南路
 xincun street:新村大街
@@ -24190,6 +24202,7 @@ xingfu jiayuan:幸福家苑
 xingfu mansion:许驸马府
 xingfu market:幸福市场
 xingfu market:幸福市場
+xingfu metro station:幸福地铁站
 xingfu neighborhood:幸福小区
 xingfu new street:幸福新街
 xingfu north road:幸福北路
@@ -27023,6 +27036,7 @@ xinhua elementary school:兴华国小
 xinhua elementary school:興華國小
 xinhua ercun:新华二村
 xinhua farm:新华农场
+xinhua film company:新华电影公司
 xinhua film company:新華影業公司
 xinhua gate:新华门
 xinhua gate:新華門
@@ -27100,6 +27114,8 @@ xinhua riverside garden:新湖明珠城南区
 xinhua road sports center:新华路体育中心
 xinhua road sports centre stadium:新华路体育场
 xinhua road sports centre:新华路体育中心
+xinhua road stadium:新华路体育场
+xinhua road stadium:新華路體育場
 xinhua road:sanwaa lu
 xinhua road:slanwaa lu
 xinhua road:xīnhuá lù
@@ -27366,6 +27382,10 @@ xinijia:细倪家
 xinijingcun:西泥井村
 xining airport:西宁机场
 xining airport:西宁機場
+xining caojiabao airport:西宁曹家堡机场
+xining caojiabao airport:西寧曹家堡機場
+xining caojiabu airport:西宁曹家堡机场
+xining caojiabu airport:西寧曹家堡機場
 xining caojiapu international airport:xīníng cáojiāpù jīchǎng
 xining caojiapu international airport:西宁曹家堡国际机场
 xining city:xīníng shì
@@ -27396,6 +27416,8 @@ xining subdistrict:西宁街道
 xining village:西寧里
 xining west railway station:西宁西站
 xining west road:西宁西路
+xining ximen stadium:西宁西门体育场
+xining ximen stadium:西寧西門體育場
 xining-hotan expressway:西和高速
 xining:xīníng
 xining:xīníng jiēdào
@@ -27633,6 +27655,7 @@ xinjiang county:新絳縣
 xinjiang county:新绛县
 xinjiang cuisine:新疆菜
 xinjiang daily:新疆日报
+xinjiang data project:新疆数据项目
 xinjiang data project:新疆數據項目
 xinjiang even fingered gecko:新疆漠虎
 xinjiang flying tigers:新疆广汇飞虎篮球俱乐部
@@ -27661,6 +27684,7 @@ xinjiang people's press:新疆人民出版社
 xinjiang people's theater:新疆人民剧场
 xinjiang police college:新疆警察学院
 xinjiang police files:新疆公安文件
+xinjiang police files:新疆警察文件
 xinjiang primary school:xīnjiāng xiǎoxué
 xinjiang primary school:新江小学
 xinjiang primary school:新江小學
@@ -29041,6 +29065,7 @@ xinpu district:新浦区
 xinpu fude temple:新埔福德祠
 xinpu lu entrance:新浦路口
 xinpu minsheng metro station:新埔民生站
+xinpu minsheng station:新埔民生站
 xinpu minsheng:xīn pǔ mín shēng
 xinpu minsheng:新埔民生
 xinpu no.3 primary school:新浦第三小学
@@ -29384,6 +29409,7 @@ xinsha elementary school:新沙小学
 xinsha interchange:新沙立交
 xinsha jiyuehui:新沙·集悅彙
 xinsha jiyuehui:新沙·集悦汇
+xinsha metro station:新沙地铁站
 xinsha park:新沙公园
 xinsha port company:新沙港务公司
 xinsha primary school:新沙小学
@@ -29579,6 +29605,7 @@ xinsheng south road exit:新生南路出口
 xinsheng south road section 1:新生南路一段
 xinsheng south road section 2:新生南路二段
 xinsheng south road section 3:新生南路三段
+xinsheng south road:新生南路
 xinsheng st. intersection:新生街口
 xinsheng st.:新生街
 xinsheng station:新生站
@@ -31574,6 +31601,7 @@ xinzao haijing road:新造海景路
 xinzao heping road:新造和平路
 xinzao hospital:新造医院
 xinzao local police office:新造派出所
+xinzao metro station:新造地铁站
 xinzao metro yard:新造车辆段
 xinzao park:新造公园
 xinzao road tunnel:新造路隧道
@@ -31723,6 +31751,7 @@ xinzheng county:新政县
 xinzheng county:新郑县
 xinzheng county:新鄭县
 xinzheng east:新郑东
+xinzheng international airport:新郑国际机场
 xinzheng international airport:新郑机场
 xinzheng rd:新正路
 xinzheng road:新政路
@@ -32052,6 +32081,7 @@ xinzhuang labors center:新莊勞工中心
 xinzhuang line:新庄线
 xinzhuang lisu and dai ethnic township:新庄傈僳族傣族乡
 xinzhuang longfeng post office:新莊龍鳳郵局
+xinzhuang metro station:莘庄地铁站
 xinzhuang north side knowledge industrial park:新莊北側知識產業園區
 xinzhuang office, national taxation bureau of northern area, ministry of finance:財政部北區國稅局新莊稽徵所
 xinzhuang park:新庄公园
@@ -33278,6 +33308,7 @@ xishan ecological park:西山生态公园
 xishan elementary school:溪山國小
 xishan elementary school:溪山實小
 xishan forest park:西山森林公园
+xishan forest park:西山森林公園
 xishan island:西山岛
 xishan island:西山島
 xishan miao pu:溪山苗圃

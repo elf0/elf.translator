@@ -2379,6 +2379,7 @@ hokkaido garden:北海道花园
 hokkaido government:北海道政府
 hokkaido ham:北海道火腿
 hokkaido heritage:北海道遗产
+hokkaido information university:北海道信息大學
 hokkaido ingredient:北海道食材
 hokkaido is japan:北海道是日本
 hokkaido is located in:北海道位于
@@ -2418,6 +2419,7 @@ hokkaido tour:北海道旅游
 hokkaido tv:北海道电视
 hokkaido university botanical gardens:北海道大學植物園
 hokkaido university general museum:北海道大學綜合博物館
+hokkaido university hospital:北海道大學醫院
 hokkaido university museum:北海道大學綜合博物館
 hokkaido university of education:北海道教育大學
 hokkaido university poplar avenue:北大白杨林荫道
@@ -3306,7 +3308,10 @@ holland fen:荷兰粉
 holland festival:荷兰节日
 holland garden:康蘭苑
 holland gin:荷蘭琴酒
+holland land company:荷兰土地公司
 holland lop:荷兰垂耳兔
+holland park station:荷兰公园站
+holland park station:荷蘭公園站
 holland park tube station:荷蘭公園站
 holland park:荷兰公园
 holland park:荷蘭公園
@@ -3315,6 +3320,7 @@ holland river:荷兰河流
 holland road baptist church:荷兰路浸信会教堂
 holland road:荷兰路
 holland road:荷蘭路
+holland state park:荷兰国家公园
 holland street:荷蘭街
 holland township:霍兰镇区
 holland tunnel and manhattan:荷蘭隧道和曼哈頓
@@ -3329,6 +3335,7 @@ holland village way:荷兰村大道
 holland village, singapura:荷兰村
 holland village:荷兰村
 holland village:荷蘭村
+holland water line:荷兰水线
 holland windmill b&b:荷蘭堡民宿
 holland-bukit timah grc:荷兰–武吉知马集选区
 holland:hélán
@@ -3827,6 +3834,7 @@ hollywood office:好莱坞办公室
 hollywood online:好莱坞在线
 hollywood or tamil:好莱坞或泰米尔
 hollywood outbreak:好莱坞爆发
+hollywood pacific theatre:好莱坞太平洋剧院
 hollywood pair:好莱坞对
 hollywood palladium:好莱坞钯
 hollywood park poker:好莱坞公园扑克
@@ -3881,6 +3889,7 @@ hollywood road:好莱坞路
 hollywood road:荷李活道
 hollywood role:好莱坞角色
 hollywood romantic comedy:好莱坞浪漫喜剧
+hollywood roosevelt hotel:好莱坞罗斯福酒店
 hollywood roosevelt hotel:好萊塢羅斯福酒店
 hollywood roosevelt:好莱坞罗斯福
 hollywood royal family:好莱坞皇室
@@ -6626,14 +6635,22 @@ homosexuality and adolescence:同性恋和青少年
 homosexuality and aids:同性恋与艾滋病
 homosexuality and alcoholism:同性恋和酗酒
 homosexuality and bisexuality:同性恋和双性恋
+homosexuality and buddhism:同性恋与佛教
+homosexuality and christianity:同性恋与基督教
+homosexuality and christianity:同性恋和基督教
 homosexuality and divorce:同性恋和离婚
 homosexuality and gambling:同性恋和赌博
 homosexuality and heterosexuality:同性恋和异性恋
 homosexuality and islam:同性恋与伊斯兰教
+homosexuality and islam:同性恋和伊斯兰教
+homosexuality and judaism:同性恋与犹太教
+homosexuality and judaism:同性恋和犹太教
+homosexuality and morality:同性恋和道德
 homosexuality and pedophilia:同性恋和恋童
 homosexuality and prostitution:同性恋和卖淫
 homosexuality and psychology:同性戀和心理學
 homosexuality and race:同性恋和种族
+homosexuality and religion:同性恋与宗教
 homosexuality and religion:宗教與同性戀
 homosexuality and same sex marriage:同性恋和同性婚姻
 homosexuality and same sex marriage:同性戀和同性婚姻
@@ -12860,6 +12877,7 @@ hongqiao river:hóngqiáo xī
 hongqiao river:虹桥溪
 hongqiao river:虹橋溪
 hongqiao road station:虹桥路站
+hongqiao road station:虹橋路站
 hongqiao road:hóngqiáo lù
 hongqiao road:红桥路
 hongqiao road:虹桥路
@@ -13094,6 +13112,7 @@ hongshan east road:hóngshān dōnglù
 hongshan east road:紅山東路
 hongshan east road:红山东路
 hongshan forest zoo:南京红山森林动物园
+hongshan forest zoo:红山森林动物园
 hongshan gymnasium:红山体育馆
 hongshan he:hóng shānhé
 hongshan lake:hóng shān hú
@@ -15815,6 +15834,7 @@ hoover in this way:胡佛以這種方式
 hoover industrial building:豪华工业大厦
 hoover industrial building:豪華工業大廈
 hoover influence:胡佛影响
+hoover institute press:胡佛研究所出版社
 hoover institute:胡佛研究所
 hoover institution library and archives:胡佛研究所圖書檔案館
 hoover institution press:胡佛研究所出版社
@@ -16469,6 +16489,7 @@ hope many people:希望许多人
 hope many:希望很多
 hope many:希望許多
 hope market:希望市场
+hope mars mission:希望火星任务
 hope mary:希望玛丽
 hope mcdonald's:希望麦当劳
 hope means:希望意味着
@@ -18041,6 +18062,7 @@ hormone research:激素研究
 hormone sample:激素样本
 hormone secretion:激素分泌
 hormone secretion:激素分泌物
+hormone sensitive lipase:激素敏感脂酶
 hormone sensitive:激素敏感
 hormone sensitive:激素敏感的
 hormone signal:激素信号
@@ -18168,6 +18190,7 @@ hornblende bluffs:霍恩布倫德海崖
 hornblendite:角閃石岩
 hornby vellard:霍恩比填海工程
 horncastle:霍恩卡斯爾
+hornchurch and upminster:霍恩徹奇和上敏斯特
 hornchurch station:霍恩徹奇站
 hornchurch tube station:霍恩徹奇站
 hornchurch:霍恩徹奇
@@ -19927,6 +19950,7 @@ hospital information management:医院信息管理
 hospital information network:医院信息网络
 hospital information services:医院信息服务
 hospital information system:医院信息系统
+hospital information system:醫院信息系統
 hospital information systems and health:医院信息系统和健康
 hospital information systems:医院信息系统
 hospital information technology:医院信息技术
@@ -21451,6 +21475,7 @@ hot ground:热地面
 hot growth:热增长
 hot gun just:热枪只
 hot gun:热枪
+hot hand fallacy:熱手謬誤
 hot hand:熱手謬誤
 hot hatch:小型跑車
 hot he still:热他仍然
@@ -21936,6 +21961,8 @@ hot water beach:热水海滩
 hot water boiler safety:热水锅炉安全
 hot water boiler:热水锅炉
 hot water bottle:湯婆
+hot water bottle:热水瓶
+hot water bottle:熱水瓶
 hot water can kill:热水可以杀
 hot water cannot:热水不能
 hot water capacity:热水容量
@@ -24667,6 +24694,7 @@ houhoujiayingzi:后侯家营子
 houhoushang:后侯尚村
 houhu avenue:后湖大道
 houhu boulevard station:后湖大道站
+houhu boulevard station:後湖大道站
 houhu boulevard:后湖大道
 houhu boulevard:後湖大道
 houhu community:后湖社区
@@ -25578,6 +25606,7 @@ hounslow council:豪恩斯洛议会
 hounslow east tube station:豪恩斯洛東站
 hounslow east:豪恩斯洛東
 hounslow station:豪恩斯洛站
+hounslow west station:豪恩斯洛西站
 hounslow west tube station:豪恩斯洛西站
 hounslow west:豪恩斯洛西
 hounslow:豪恩斯洛
@@ -30364,6 +30393,7 @@ houston time:休斯敦时间
 houston too:休斯敦也
 houston township:休斯敦鎮區
 houston township:休斯敦镇区
+houston tunnel system:休斯敦隧道系统
 houston university:休士頓大学
 houston university:休士頓大學
 houston university:休斯敦大学

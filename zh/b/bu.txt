@@ -874,6 +874,7 @@ budapest home:布达佩斯家
 budapest hotel:布达佩斯酒店
 budapest in recent years:布达佩斯近年来
 budapest initiative:布达佩斯倡议
+budapest international airport:布达佩斯国际机场
 budapest international wine:布达佩斯国际葡萄酒
 budapest international:布达佩斯国际
 budapest is a very:布达佩斯是一个非常
@@ -890,6 +891,7 @@ budapest memorandum:布達佩斯備忘錄
 budapest metro system:布达佩斯地铁系统
 budapest metro:布达佩斯地铁
 budapest mit donau-ufern, burgviertel buda und andrássy-straße:布达佩斯（多瑙河两岸、布达城堡区和安德拉什大街）
+budapest music academy:布达佩斯音乐学院
 budapest nightlife:布达佩斯夜生活
 budapest now:布达佩斯现在
 budapest nyugati station:布达佩斯西站
@@ -1720,6 +1722,7 @@ budget continues:预算继续
 budget contract:预算合同
 budget contribution:预算贡献
 budget control agreement:预算控制协议
+budget control committee:预算控制委员会
 budget control:預算控制
 budget control:预算控制
 budget coordination:预算协调
@@ -2579,6 +2582,7 @@ buffalo darter:野牛鏢鱸
 buffalo grass:水牛草
 buffalo hart township:布法罗哈特镇区
 buffalo hill:水牛山
+buffalo history museum:水牛城历史博物馆
 buffalo lake:水牛湖
 buffalo meat:水牛肉
 buffalo metro rail:布法罗轻轨
@@ -5113,6 +5117,7 @@ building information model and building:建筑信息模型和建筑
 building information model:建筑信息模型
 building information model:建筑物信息模型
 building information modeling:建築信息模型
+building information models:建筑信息模型
 building information system:建筑信息系统
 building information:建筑信息
 building information:建筑物信息
@@ -10639,6 +10644,7 @@ burma province:緬甸省
 burma province:缅甸省
 burma question:缅甸问题
 burma railroad:缅甸铁路
+burma railway company:缅甸铁路公司
 burma railway:泰緬鐵路
 burma railway:缅甸铁路
 burma reach:缅甸达到
@@ -10659,6 +10665,7 @@ burma security:缅甸安全
 burma socialist party:缅甸社会党
 burma socialist programme party:緬甸社會主義綱領黨
 burma soldier:缅甸士兵
+burma standard time:缅甸标准时间
 burma still:缅甸仍然
 burma street:緬甸街
 burma student:缅甸学生
@@ -10848,6 +10855,7 @@ burnaby mountain:本拿比山
 burnaby north:本拿比北
 burnaby north:本拿比北選區
 burnaby public library:本拿比公共图书馆
+burnaby public library:本拿比公共圖書館
 burnaby resident:本拿比居民
 burnaby residents:本拿比居民
 burnaby school district:本拿比学区
@@ -11271,6 +11279,7 @@ burns hopes:伯恩斯希望
 burns insist:伯恩斯坚持
 burns invite:伯恩斯邀请
 burns jackson:伯恩斯杰克逊
+burns lake airport:伯恩斯湖機場
 burns lake:伯恩斯湖
 burns law library:伯恩斯法律图书馆
 burns law:伯恩斯法律
@@ -12773,6 +12782,7 @@ busan dosicheoldo ilhoseon:釜山都市铁道1号线
 busan gudeok stadium:釜山九德运动场
 busan harbor bridge:釜山港大桥
 busan ilbo:釜山日報
+busan international airport:釜山国际机场
 busan international film festival:釜山國際電影節
 busan international finance center·busan bank:国际金融中心·釜山银行
 busan jungbu gyeongchalseo:釜山中部警察署
@@ -12802,6 +12812,7 @@ busan open:釜山挑戰賽
 busan port international terminal:釜山港国际旅客客运站
 busan ring expressway:釜山外环高速公路
 busan ring expressway:釜山外環高速公路
+busan sajik gymnasium:釜山社稷體育館
 busan science center:釜山科学体验馆
 busan sea life aquarium:釜山水族馆
 busan seobu intercity bus terminal:釜山西部长途汽车站
@@ -13214,6 +13225,7 @@ bushaltestelle:公车站
 bushang:卜上
 bushang:堡上
 bushangcun:堡上村
+bushbuckridge residents association:布希巴克里奇居民协会
 bushbuckridge:布希巴克里奇
 bushcha:布夏
 bushehr (lalawigan):布什爾省
@@ -14452,6 +14464,10 @@ business details:商业细节
 business detect:商业检测
 business developer:商业开发者
 business developers:商业开发人员
+business development companies:商业发展公司
+business development companies:商业开发公司
+business development company:商业发展公司
+business development company:商业开发公司
 business development:商務拓展
 business device:商业设备
 business devices:商业设备
@@ -14512,6 +14528,7 @@ business education curriculum:商业教育课程
 business education environment:商业教育环境
 business education experience:商业教育体验
 business education experience:商业教育经验
+business education initiative:商业教育倡议
 business education platforms:商业教育平台
 business education social science:商业教育社会科学
 business education training companies:商业教育培训公司
@@ -15976,6 +15993,7 @@ business process management technology:业务流程管理技术
 business process management tool:业务流程管理工具
 business process management tools:业务流程管理工具
 business process management:业务流程管理
+business process management:商业过程管理
 business process model and notation:业务流程模型和标记法
 business process modeling:业务过程建模
 business process models:业务过程模型
@@ -16048,6 +16066,7 @@ business records:商业记录
 business recover:商业恢复
 business reference books:商业参考书
 business reference books:商业参考书籍
+business reference model:商业参考模型
 business reference:商业参考
 business references:商业参考
 business reform:商业改革

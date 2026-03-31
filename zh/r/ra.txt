@@ -426,6 +426,7 @@ race and family secret:种族与家庭秘密
 race and family:种族和家庭
 race and freedom:种族与自由
 race and genetic engineering:种族和基因工程
+race and health:种族与健康
 race and health:种族和健康
 race and hispanic:种族和西班牙裔
 race and history:种族与历史
@@ -4415,6 +4416,7 @@ railway facilities:铁路设施
 railway factory:铁路工厂
 railway field:铁路领域
 railway finance:铁路金融
+railway football club:铁路足球俱乐部
 railway form:铁路形式
 railway forum:铁路论坛
 railway from:铁路从
@@ -4453,6 +4455,7 @@ railway information infrastructure:铁路信息基础设施
 railway information system:铁路信息系统
 railway information:铁路信息
 railway informatization:铁路信息化
+railway infrastructure company:铁路基础设施公司
 railway infrastructure:铁路基础
 railway infrastructure:铁路基础设施
 railway institute:铁路研究所
@@ -5298,6 +5301,7 @@ rainbow kids yoga:彩虹孩子瑜伽
 rainbow kids:彩虹孩子
 rainbow kindergarten:彩虹幼儿园
 rainbow kingdom:彩虹王国
+rainbow lake airport:彩虹湖機場
 rainbow lake:彩虹湖
 rainbow lawn:幻彩園
 rainbow layer:彩虹层
@@ -6683,6 +6687,7 @@ raman said:拉曼说
 raman says:拉曼说
 raman scattering:拉曼效应
 raman scattering:拉曼散射
+raman sideband cooling:拉曼边带冷却
 raman signal:拉曼信号
 raman signals:拉曼信号
 raman singh:拉曼辛格
@@ -7751,6 +7756,7 @@ random number generation function:随机数生成函数
 random number generation:随机数生成
 random number generator attack:随机数生成器攻击
 random number generator using:随机数生成器使用
+random number generator:随机数字生成器
 random number generator:随机数生成器
 random number instruction:随机数指令
 random number methods:随机数方法
@@ -8623,6 +8629,7 @@ rangoli:蓝果丽
 rangon:仰光
 rangong:然公
 rangoon bombing:仰光爆炸事件
+rangoon international airport:仰光国际机场
 rangoon river:仰光河
 rangoon road:仰光路
 rangoon university:仰光大学
@@ -10704,6 +10711,7 @@ rate commitment:比率承诺
 rate continue:比率持续
 rate continues:比率继续
 rate determining step:速率控制步驟
+rate distortion theory:比率失真理論
 rate divide:比率除
 rate equation:速率方程
 rate field:保證率球場

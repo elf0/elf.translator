@@ -668,6 +668,7 @@ obesity health alliance:肥胖健康联盟
 obesity health promotion:肥胖症健康促进
 obesity health:肥胖健康
 obesity health:肥胖症健康
+obesity hypoventilation syndrome:肥胖換氣不足症候群
 obesity hypoventilation syndrome:肥胖肺换气不足综合征
 obesity in saudi arabia:沙特阿拉伯的肥胖症
 obesity in the past:肥胖在过去
@@ -1087,6 +1088,7 @@ object computer:对象电脑
 object computer:对象计算机
 object concept:对象概念
 object constant:对象常量
+object constraint language:对象约束语言
 object constraint:对象约束
 object construct:对象构造
 object contain enough information:对象包含足够的信息

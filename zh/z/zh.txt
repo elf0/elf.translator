@@ -2853,6 +2853,8 @@ zhangjiajie bus terminal:张家界中心汽车站
 zhangjiajie fresh fish - even fresher by third madam:张家界吃鱼鲜三娘更鲜
 zhangjiajie glass bridge:张家界大峡谷玻璃桥
 zhangjiajie grand canyon skywalk:张家界玻璃大桥
+zhangjiajie hehua airport:张家界荷花机场
+zhangjiajie hehua airport:張家界荷花機場
 zhangjiajie hehua international airport:张家界荷花国际机场
 zhangjiajie national forest park:張家界國家森林公園
 zhangjiajie sunshine hotel:张家界阳光酒店
@@ -6950,6 +6952,7 @@ zhejiang chinese medical university:中医药大学
 zhejiang chinese medical university:浙江中医药大学
 zhejiang chinese medical university:浙江中医药大学(滨文校区)
 zhejiang chouzhou commercial bank:浙江稠州商业银行
+zhejiang city college:浙江城市学院
 zhejiang conservatory of music station:音乐学院站
 zhejiang conservatory of music:浙江音乐学院
 zhejiang conservatory of music:音乐学院
@@ -7004,9 +7007,11 @@ zhejiang natural science:浙江省自然科学
 zhejiang news:浙江新闻
 zhejiang normal university:浙江师范大学
 zhejiang ocean university:浙江海洋大学
+zhejiang ocean university:浙江海洋大學
 zhejiang online news:浙江在线新闻
 zhejiang online:浙江在线
 zhejiang people's radio:浙江人民广播电台
+zhejiang police college:浙江警察学院
 zhejiang police vocational college:浙江警官职业学院
 zhejiang product:浙江省产品
 zhejiang province:浙江省
@@ -7068,6 +7073,7 @@ zhejiang university of technology cricket field:浙江工业大学板球场
 zhejiang university of technology:zhèjiāng gōngyè dàxué
 zhejiang university of technology:浙江工业大学
 zhejiang university press:浙江大学出版社
+zhejiang university press:浙江大學出版社
 zhejiang university professor:浙江大学教授
 zhejiang university proposed:浙江大学提出
 zhejiang university school of medicine:浙江大学医学院
@@ -7088,8 +7094,10 @@ zhejiang wanli university:浙江万里学院
 zhejiang wenzhou high school:浙江省温州中学
 zhejiang wenzhou high school:温州中学
 zhejiang women's volleyball team:浙江女排
+zhejiang writers association:浙江省作家协会
 zhejiang xiangshan lushan islands marine ecology national nature reserve:浙江象山韭山列岛海洋生态国家级自然保护区
 zhejiang xiaobaihua yue opera troupe:浙江小百花越剧团
+zhejiang xingye bank:浙江兴业银行
 zhejiang yiwu:浙江省义乌市
 zhejiang yue opera troupe:浙江越剧团
 zhejiang zhoushan high school:浙江省舟山中學
@@ -8599,6 +8607,7 @@ zhengzhou central hospital:郑州中心医院
 zhengzhou city administration:郑州市城市管理
 zhengzhou city:郑州市城市
 zhengzhou commodity exchange:郑州商品交易所
+zhengzhou dongjiao airport:郑州东郊机场
 zhengzhou east railway station:郑州东站
 zhengzhou east:郑州东
 zhengzhou east:郑州東
@@ -8667,12 +8676,15 @@ zhengzhou people's park:郑州市人民公园
 zhengzhou police university:郑州警察学院
 zhengzhou professional technical institute of electronic & information:郑州电子信息职业技术学院
 zhengzhou radio and telivision university (zhengdong new area campus):郑州电大(郑东新区分校)
+zhengzhou railway bureau:郑州铁路局
+zhengzhou railway bureau:鄭州铁路局
 zhengzhou railway station:郑州站
 zhengzhou railway vocational &technical college:郑州铁路职业技术学院
 zhengzhou road:郑州路
 zhengzhou road:鄭州路
 zhengzhou science and technology museum:郑州科学技术馆
 zhengzhou shang city:郑州商城遗址
+zhengzhou shangjie airport:郑州上街机场
 zhengzhou shi:zhèngzhōu shì
 zhengzhou shi:郑州市
 zhengzhou shi:鄭州
@@ -8693,6 +8705,9 @@ zhengzhou vocational university of information and technology:郑州信息科技
 zhengzhou west railway station:郑州西站
 zhengzhou west:郑州西
 zhengzhou winter:郑州市冬季
+zhengzhou xinzheng airport:郑州新郑机场
+zhengzhou xinzheng airport:鄭州新郑机场
+zhengzhou xinzheng airport:鄭州新鄭機場
 zhengzhou xinzheng international airport:郑州新郑国际机场
 zhengzhou yellow river highway bridge:郑州黄河公路大桥
 zhengzhou yutong bus co., ltd. new energy factory:郑州宇通客车新能源厂区
@@ -9104,6 +9119,7 @@ zhenping lane:鎮平巷
 zhenping no.1 road:镇平一路
 zhenping park:鎮平公園
 zhenping road station:镇坪路站
+zhenping road station:镇平路站
 zhenping road:鎮坪路
 zhenping road:镇坪路
 zhenping road:镇平路
@@ -14213,6 +14229,7 @@ zhongshan north:中山北
 zhongshan park front road:中山公园前路
 zhongshan park metro station:中山公园地铁站
 zhongshan park station:中山公园站
+zhongshan park station:中山公園站
 zhongshan park:zhōng shān gōngyuán
 zhongshan park:zhōngshān gōngyuán
 zhongshan park:zhōngshāngōngyuán
@@ -14865,6 +14882,7 @@ zhongwei road:中圍路
 zhongwei shapotou airport:中卫沙坡头机场
 zhongwei village:中围村
 zhongwei village:中圍里
+zhongwei xiangshan airport:中卫香山机场
 zhongwei:zhōngwèi shì
 zhongwei:中卫
 zhongwei:中卫乡
@@ -15002,11 +15020,13 @@ zhongxiao east road section 5:忠孝東路五段
 zhongxiao east road section 6:忠孝東路六段
 zhongxiao east road section 7:忠孝东路七段
 zhongxiao east road section 7:忠孝東路七段
+zhongxiao east road:忠孝东路
 zhongxiao east road:忠孝東路
 zhongxiao east road:石橋
 zhongxiao elementary school:忠孝国小
 zhongxiao elementary school:忠孝國小
 zhongxiao fuxing metro station:忠孝復興站
+zhongxiao fuxing station:忠孝復興站
 zhongxiao fuxing:zhōng xiào fù xìng
 zhongxiao fuxing:忠孝复兴
 zhongxiao fuxing:忠孝復興
@@ -15058,6 +15078,7 @@ zhongxiao west road section 1:忠孝西路一段
 zhongxiao west road tunnel:忠孝西路地下道
 zhongxiao west road:忠孝西路
 zhongxiao xinsheng metro station:忠孝新生站
+zhongxiao xinsheng station:忠孝新生站
 zhongxiao xinsheng:zhōng xiào xīn shēng
 zhongxiao xinsheng:忠孝新生
 zhongxiao&wenhuan.rd.sec.1intersection:忠孝路文化北路一段口
@@ -15378,6 +15399,8 @@ zhongxing road section 4:中興路四段
 zhongxing road section 5:中興路五段
 zhongxing road section 5:中興路四段
 zhongxing road section 6:中興路六段
+zhongxing road station:中兴路站
+zhongxing road station:中興路站
 zhongxing road:zunghing lu
 zhongxing road:东门中兴路
 zhongxing road:中兴路
@@ -19338,6 +19361,7 @@ zhuhai hope star experimental school:北大希望之星实验学校
 zhuhai hope star experimental school:北大希望之星實驗學校
 zhuhai intercity railway station:城軌珠海站
 zhuhai intercity railway station:城轨珠海站
+zhuhai international airport:珠海国际机场
 zhuhai international airshow center:珠海国际航展中心
 zhuhai international circuit:zhūhǎi guójì sàichēchǎng
 zhuhai international circuit:珠海国际赛车场
@@ -19346,6 +19370,9 @@ zhuhai international golf club:珠海国际高尔夫俱乐部
 zhuhai international school:珠海国际学校
 zhuhai jinwan airport:zhūhǎi jīnwān jīchǎng
 zhuhai jinwan airport:珠海金湾机场
+zhuhai jinwan airport:珠海金湾機場
+zhuhai jinwan airport:珠海金灣机场
+zhuhai jinwan airport:珠海金灣機場
 zhuhai jiuzhou middle school:珠海市九洲中学
 zhuhai museum（old）:珠海博物馆（旧址）
 zhuhai must science & technology research institute:珠海澳科大科技研究院
@@ -19369,6 +19396,8 @@ zhuhai rd. & fuxing 1st rd. intersection:珠海復興一路口
 zhuhai road:珠海路
 zhuhai road:竹海路
 zhuhai road:逐海路
+zhuhai sanzao airport:珠海三灶机场
+zhuhai sanzao airport:珠海三灶機場
 zhuhai special economic zone hotel:珠海特区大酒店
 zhuhai special economic zone hotel:珠海特區大酒店
 zhuhai sports centre:tǐyù zhōngxīn

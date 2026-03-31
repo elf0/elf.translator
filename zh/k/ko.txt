@@ -714,6 +714,8 @@ kochi broadcasting:高知放送
 kochi gakuen college:高知学园短期大学
 kochi inter:河內ic
 kochi inter:河内ic
+kochi international airport:科钦国际机场
+kochi international airport:科钦国际機場
 kochi jinja-mae (kochi jinja shrine):河內神社前
 kochi jinja-mae (kochi jinja shrine):河内神社前
 kochi junior college:高知短期大学
@@ -2252,6 +2254,7 @@ kolkata class destroyer:加尔各答级驱逐舰
 kolkata district:加爾各答縣
 kolkata for:加尔各答为了
 kolkata has been:加尔各答已经
+kolkata international airport:加尔各答国际机场
 kolkata international:加尔各答国际
 kolkata is located in:加尔各答位于
 kolkata knight:加尔各答骑士
@@ -2566,6 +2569,7 @@ koltsevaya:环状线
 koltsovo airport:科利佐沃机场
 koltsovo airport:科利佐沃機場
 koltsovo havalimanı:科利佐沃國際機場
+koltsovo international airport:科利佐沃国际机场
 koltsovo international airport:科利佐沃國際機場
 koltsovo xalqaro aeroporti:科利佐沃國際機場
 koltsovo:科利佐沃
@@ -7000,6 +7004,7 @@ korea aerospace administration:大韓民國宇宙航空廳
 korea aerospace industries:韩国航空宇宙产业
 korea aerospace research institute:韩国航空宇宙研究院
 korea aerospace university station:韓國航空大站
+korea aerospace university:韩国航空航天大学
 korea agree:韩国同意
 korea agreement:韩国协议
 korea already:韩国已经
@@ -7113,6 +7118,7 @@ korea avaratra:朝鲜
 korea avaratra:朝鲜 / 北韓
 korea baduk association:韩国棋院
 korea baseball organization:韓國棒球委員會
+korea basketball association:朝鲜篮球协会
 korea basketball:韩国篮球
 korea battery:韩国电池
 korea bay:西朝鮮灣
@@ -7126,6 +7132,7 @@ korea box office:韩国票房
 korea broadcasting corporation:韩国广播公司
 korea broadcasting:韩国广播
 korea buddhist federation:朝鮮佛教徒聯盟
+korea buddhist federation:朝鲜佛教徒联盟
 korea business forum:韩国商业论坛
 korea business:韩国商业
 korea can't:韩国不能
@@ -7233,7 +7240,10 @@ korea find:韩国发现
 korea food and drug:韩国食品和药品
 korea food:韩国食品
 korea food:韩国食物
+korea football association:朝鲜足球协会
 korea football association:韓國足球協會
+korea football association:韩国足球协会
+korea football league:韩国足球联盟
 korea forest:韩国森林
 korea forum:韩国论坛
 korea foundation:韓國國際交流財團
@@ -7270,12 +7280,14 @@ korea heritage service:國家遺產廳
 korea high:韩国高
 korea history:朝鲜历史
 korea history:韩国历史
+korea hockey association:韩国曲棍球协会
 korea hopes:韩国希望
 korea hospital:韩国医院
 korea hotel:朝鲜酒店
 korea i:韩国我
 korea in recent years:韩国近年来
 korea independence party:韓國獨立黨
+korea independence party:韩国独立党
 korea independence:朝鲜独立
 korea independence:韩国独立
 korea independent commission against corruption:國家清廉委員會
@@ -7353,6 +7365,7 @@ korea metal week:韩国金属周
 korea metal:韩国金属
 korea meteorological administration:气象厅
 korea military academy:陆军士官学校
+korea military academy:韩国军事学院
 korea minting and security printing corporation:韓國造幣公社
 korea music content association:韓國音樂內容協會
 korea music copyright association:韓國音樂著作權協會
@@ -7483,6 +7496,8 @@ korea space launch vehicle:韩国空间运载火箭
 korea space:韩国空间
 korea stamp exhibition hall:朝鲜邮票展示场
 korea stamp museum:朝鮮郵票博物館
+korea stamp museum:朝鲜邮票博物馆
+korea standard time:韩国标准时间
 korea start:韩国开始
 korea still:韩国仍然
 korea stock exchange:韩国证券交易所
@@ -7525,6 +7540,7 @@ korea trade:韩国贸易
 korea transport:韩国运输
 korea transportation:韩国运输
 korea trip:韩国旅程
+korea trust bank:韩国信托银行
 korea tungsten company fc:大韓重石足球會
 korea under japanese rule:朝鮮日治時期
 korea univ.:高丽大学
@@ -7558,6 +7574,7 @@ korea utaro:朝鮮民主主義人民共和國
 korea utaro:朝鲜
 korea utaro:朝鲜 / 北韓
 korea volleyball federation:韓國排球聯盟
+korea volleyball federation:韩国排球联盟
 korea war:朝鲜战争
 korea was next:韩国是下一个
 korea was vietnam:韩国是越南
@@ -8857,6 +8874,7 @@ korɛ ya súdi:韩国 / 南韓
 kos airport:科斯岛机场
 kos has various bar:科斯岛有各种酒吧
 kos has various:科斯岛有各种
+kos international airport:科斯岛国际机场
 kos sederhana apartment, taman jinjang baru:新增光花园中价公寓
 kos sederhana apartment, taman jinjang baru:新增光花園中價公寓
 kos will satisfy:科斯岛将满足
@@ -8949,6 +8967,7 @@ koshien bowl:甲子园碗
 koshien bowl:甲子園碗
 koshien junior college:甲子园短期大学
 koshien line:甲子园线
+koshien south ground:甲子園南運動場
 koshien stadium:阪神甲子園球場
 koshien station:甲子园站
 koshien station:甲子園站

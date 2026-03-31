@@ -606,6 +606,7 @@ public and residents:公眾和居民
 public and restaurants:公众和餐馆
 public and retail investors:公众和零售投资者
 public and road safety:公共与道路安全
+public and science:公众与科学
 public and scientific resources:公共和科学资源
 public and scientific:公众和科学的
 public and scientists:公众与科学家
@@ -683,6 +684,7 @@ public arm:公共手臂
 public array:公共数组
 public art center:公共藝術中心
 public art design:公共藝術設計
+public art fund:公共艺术基金
 public art fund:公共藝術基金
 public art is mediation:公共藝術是調解
 public art mural:公共藝術壁畫
@@ -829,6 +831,7 @@ public bicycle management center:公共自行车管理中心
 public bicycle service:公共自行车服务
 public bicycle sharing system:公共自行车共享系统
 public bicycle sharing:公共自行车共享
+public bicycle system:公共自行车系统
 public bicycle systems:公共自行车系统
 public bicycle:公共自行車
 public bicycle:公共自行车
@@ -896,10 +899,13 @@ public broadcast system:公共广播系统
 public broadcast:公众广播
 public broadcast:公共广播
 public broadcasting association:公共广播协会
+public broadcasting company:公共广播公司
+public broadcasting corporation:公共广播公司
 public broadcasting corporation:公共廣播公司
 public broadcasting in the united states:美国公共广播
 public broadcasting network:公共广播网络
 public broadcasting service:公共广播服务
+public broadcasting services:公共广播服务
 public broadcasting system:公共广播系统
 public broadcasting system:公共廣播系統
 public broadcasting television station:公共广播电视台
@@ -1041,6 +1047,8 @@ public child:公共儿童
 public children:公共儿童
 public choice and government failure:公共选择与政府失灵
 public choice problem:公共选择问题
+public choice theory:公众选择理论
+public choice theory:公共选择理论
 public choice theory:公共選擇理論
 public choice theory:公眾選擇理論
 public choice:公众选择
@@ -1614,6 +1622,7 @@ public education institutions:公共教育机构
 public education is free:公共教育是免费的
 public education is key:公众教育是关键
 public education materials:公眾教育材料
+public education minister:公共教育部长
 public education needs:公共教育需要
 public education network:公共教育网络
 public education or quality assurance:公共教育或品質保證
@@ -2325,6 +2334,7 @@ public health initiative:公共卫生倡议
 public health innovation:公共卫生创新
 public health inquiry:公共卫生调查
 public health inspector:公共卫生督察
+public health institute:公共健康学院
 public health institute:公共卫生学院
 public health institute:公共卫生研究所
 public health institutions and private:公共卫生机构和私人
@@ -4761,6 +4771,7 @@ public science foundation:公共科学基金
 public science library:公共科学图书馆
 public science:公众科学
 public science:公共科学
+public scientific library:公共科学图书馆
 public scientific:公共科学
 public scientist:公共科学家
 public scientists:公共科学家
@@ -5235,6 +5246,7 @@ public service venue:公共服务场所
 public service work:公共服务工作
 public service:公共服务
 public services and procurement canada:加拿大公務及採購部
+public services federation:公共服务联盟
 public services:公共服务
 public set:公共设置
 public sex:公開性行為
@@ -5799,7 +5811,9 @@ public transport system get:公共交通系统得到
 public transport system will be:公共交通系统将成为
 public transport system:公共交通系統
 public transport system:公共交通系统
+public transport system:公共运输系统
 public transport systems:公共交通系统
+public transport systems:公共运输系统
 public transport technologies:公共交通技术
 public transport technology:公共交通技术
 public transport terminus at fu tip estate:富蝶邨公共交通總站
@@ -5824,6 +5838,8 @@ public transport workers:公共交通工人
 public transport would:公共交通将
 public transport:公共交通
 public transport:公共运输
+public transportation system:公共运输系统
+public transportation systems:公共运输系统
 public transportation:公共运输
 public travel security:公共旅行安全
 public travel:公共旅行
@@ -6064,6 +6080,8 @@ public welfare and supply chain:公共福利和供应链
 public welfare committee:公共福利委员会
 public welfare facilities:公共福利设施
 public welfare fund:公共福利基金
+public welfare medal:公共福利獎章
+public welfare minister:公共福利部长
 public welfare policy in switzerland:瑞士公共福利政策
 public welfare projects:公共福利项目
 public welfare spending:公共社会福利
@@ -10485,8 +10503,10 @@ pune court:浦那法院
 pune district:浦那縣
 pune expressway:浦那高速公路
 pune fc:浦那足球俱乐部
+pune football club:浦那足球俱乐部
 pune international airport:浦那国际机场
 pune international centre:浦那国际中心
+pune international marathon:浦那国际马拉松
 pune international:浦那国际
 pune marathon:浦那马拉松
 pune market:浦那市场
@@ -10553,6 +10573,8 @@ punggi:豊基
 punggol bus interchange:榜鹅临时转换站
 punggol central:榜鹅中路
 punggol coast mrt station:榜鵝海岸地鐵站
+punggol coast station:榜鵝海岸站
+punggol coast station:榜鹅海岸站
 punggol coast:榜鵝海岸
 punggol coast:榜鹅海岸
 punggol digital district:榜鹅数码园区
@@ -13529,6 +13551,7 @@ purple dot:紫色点
 purple dress:紫色连衣裙
 purple dye:紫色染料
 purple earth hypothesis:紫色地球假說
+purple earth hypothesis:紫色地球假说
 purple economy:紫色经济
 purple elements:紫色元素
 purple elephant:紫色大象
@@ -15560,6 +15583,8 @@ putler:普特勒
 putlitz:普特利茨
 putnam county:帕特南縣
 putnam township:帕特南鎮區
+putney bridge station:帕特尼桥站
+putney bridge station:帕特尼橋站
 putney bridge tube station:帕特尼橋站
 putney bridge:帕特尼桥
 putney bridge:帕特尼橋

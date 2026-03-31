@@ -1513,6 +1513,7 @@ jiamusi airport:佳木斯东郊国际机场
 jiamusi airport:佳木斯机场
 jiamusi city:佳木斯市
 jiamusi dongjiao airport:佳木斯东郊机场
+jiamusi dongjiao airport:佳木斯东郊機場
 jiamusi railway station:佳木斯站
 jiamusi sanhetun general airport:佳木斯三合屯通用机场
 jiamusi university was established in:佳木斯大学成立于
@@ -2887,6 +2888,7 @@ jianghan qu:jiānghàn qū
 jianghan qu:江汉区
 jianghan qu:江漢區
 jianghan road station:江汉路站
+jianghan road station:江漢路站
 jianghan road:江汉路
 jianghan road:江漢路
 jianghan university hankou campus:江汉大学汉口校区
@@ -3698,6 +3700,7 @@ jiangning park:江宁公园
 jiangning park:江寧公園
 jiangning road exit:江宁路出口
 jiangning road station:江宁路站
+jiangning road station:江寧路站
 jiangning road:江宁路
 jiangning road:江寧路
 jiangning subdistrict:江宁街道
@@ -4525,6 +4528,7 @@ jiangxi province:jiangxi sheng
 jiangxi province:江西省
 jiangxi province:江西省省
 jiangxi provincial committee of the chinese communist party:中国共产党江西省委员会
+jiangxi provincial museum:江西省的博物馆
 jiangxi provincial parliament:江西省議會
 jiangxi pruwinsya:jiāngxī
 jiangxi pruwinsya:江西省
@@ -4708,6 +4712,7 @@ jiangyi:姜驿
 jiangyi:姜驿乡
 jiangyi:江宜
 jiangyi:江益
+jiangyin bund station:江阴外滩站
 jiangyin bund:江阴外滩
 jiangyin city:jiāngyīn shì
 jiangyin city:江阴市
@@ -6920,6 +6925,8 @@ jiaotong university history museum:交大校史博物館
 jiaotong university history museum:交大校史博物馆
 jiaotong university road:交通大学路
 jiaotong university road:交通大學路
+jiaotong university station:交通大学站
+jiaotong university station:交通大學站
 jiaotong university:交通大学
 jiaotong university:交通大學
 jiaotong university·xingqing palace:jiaotongdaxue·xingqinggong
@@ -7714,6 +7721,8 @@ jiaxing catholic church:嘉兴圣母显灵堂
 jiaxing community:佳興新村
 jiaxing county:嘉兴县
 jiaxing county:嘉興县
+jiaxing east station:嘉兴东站
+jiaxing education college:嘉兴教育学院
 jiaxing elementary school:嘉兴国小
 jiaxing elementary school:嘉興國小
 jiaxing highway service road:jiāxíng gōnglù fǔlù
@@ -7723,6 +7732,7 @@ jiaxing highway:jiāxíng gōnglù
 jiaxing highway:嘉行公路
 jiaxing junior high school:嘉興國中
 jiaxing media:嘉行传媒
+jiaxing nanhu airport:嘉兴南湖机场
 jiaxing park:jiāxìnggōngyuán
 jiaxing park:ㄐㄧㄚㄒㄧㄥˋㄍㄨㄥㄩㄢˊ
 jiaxing park:嘉兴公园
@@ -9175,6 +9185,8 @@ jiexue:解学
 jieyan road:街盐路
 jieyang academy:揭阳学宫
 jieyang airport railway station:揭阳机场站
+jieyang chaoshan airport:揭陽潮汕机场
+jieyang chaoshan airport:揭陽潮汕機場
 jieyang chaoshan international airport terminal:揭阳潮汕国际机场航站楼
 jieyang chaoshan international airport:揭阳潮汕国际机场
 jieyang city:jiēyáng shì
@@ -10069,9 +10081,11 @@ jilin elementary school:吉林國小
 jilin elevated road:jílín dàlù
 jilin elevated road:吉林快速路
 jilin ertaizi airport:吉林二台子机场
+jilin ertaizi airport:吉林二台子機場
 jilin forestry:吉林省林业
 jilin fortune shopping mall:jílín cáifù gòuwùguǎngchǎng
 jilin gaqaa:吉林嘎查
+jilin jianzhu university:吉林建筑大学
 jilin leishi:雞林類事
 jilin main street:jílín dàjiē
 jilin main street:吉林大街
@@ -11684,6 +11698,7 @@ jinan public transport trolleybus k104:济南公交k104路
 jinan public transport trolleybus night 102:济南公交夜102路
 jinan qingqi:濟南輕騎
 jinan quantum technology research institution:济南量子技术研究院
+jinan railway bureau:济南铁路局
 jinan railway station north:济南站北
 jinan railway station square bus station:济南火车站广场汽车站
 jinan railway station west square:济南西站西广场
@@ -11707,6 +11722,7 @@ jinan round city expressway:济南绕城高速
 jinan round city expressway:濟南繞城高速
 jinan street:jìnán jiē
 jinan street:济南街
+jinan taishan jiangjun:济南泰山将军
 jinan taishan:济南泰山
 jinan temple:金安宮
 jinan tiansheng:济南天盛
@@ -11749,6 +11765,7 @@ jinan yaoqiang international airport:遥墙机场
 jinan yellow river bridge:济南黄河大桥
 jinan zhangqiu district hospital of tcm:中医院
 jinan zhangqiu second experimental middle school:实验二中
+jinan zhangzhuang airport:济南张庄机场
 jinan zhenzhu spring hotel:济南珍珠泉宾馆
 jinan zhenzhu spring hotel:濟南珍珠泉賓館
 jinan zoo fairy kingdom amusement park:济南动物园精灵王国
@@ -15735,6 +15752,7 @@ jinhai inn:近海旅馆
 jinhai lake station:金海湖站
 jinhai lake:金海湖
 jinhai road crossing, bao'an boulevard:宝安大道金海路口
+jinhai road station:金海路站
 jinhai road:近海路
 jinhai road:金海路
 jinhai street:金海街
@@ -15986,6 +16004,7 @@ jinhua court:金华阁
 jinhua dialect:金華方言
 jinhua dialect:金華話
 jinhua east:金华东
+jinhua education college:金华教育学院
 jinhua electronic plaza:金华数码广场
 jinhua experimental primary school:金华实验小学
 jinhua ham:金华火腿
@@ -16290,6 +16309,7 @@ jinji of silla:真智王
 jinji primary school:金鸡小学
 jinji reservoir:jīnjī shuǐkù
 jinji reservoir:金鸡水库
+jinji road station:金鸡路站
 jinji road:jīnjī lù
 jinji road:金吉路
 jinji road:金雞路
@@ -17095,6 +17115,8 @@ jinma longyuan:金马隆源
 jinma palace:金马饭店
 jinma public parking lot:金馬公有停車場
 jinma river:金马河
+jinma road station:金馬路站
+jinma road station:金马路站
 jinma road:金馬路
 jinma road:金马路
 jinma theatre:金马剧院
@@ -19494,6 +19516,7 @@ jinzhu stream:金竹溪
 jinzhu street:金竹街
 jinzhu village:金竹里
 jinzhu west road:金珠西路
+jinzhu west road:金竹西路
 jinzhu:jīnzhú
 jinzhu:jīnzhú shēzú xiāng
 jinzhu:筋竹镇
@@ -20891,6 +20914,7 @@ jiujiang economic and technological development area:九江经济技术开发区
 jiujiang great bridge:九江大桥
 jiujiang great bridge:九江大橋
 jiujiang lushan airport:九江庐山机场
+jiujiang north station:九江北站
 jiujiang north:九江北
 jiujiang railway station:九江站
 jiujiang road at huanghe road:九江路黃河路
@@ -21931,6 +21955,7 @@ jiuzhaigou beef noodle:九寨溝牛肉麵
 jiuzhaigou county:九寨沟县
 jiuzhaigou county:九寨溝縣
 jiuzhaigou earthquake:九寨沟地震
+jiuzhaigou huanglong airport:九寨沟黄龙机场
 jiuzhaigou national park:九寨沟国家公园
 jiuzhaigou nature reserve:九寨沟自然保护区
 jiuzhaigou park:九寨沟公园

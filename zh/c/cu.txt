@@ -839,6 +839,7 @@ cuban missile crisis end:古巴导弹危机结束
 cuban missile crisis finally end:古巴导弹危机最终结束
 cuban missile crisis finally:古巴导弹危机最终
 cuban missile crisis:古巴导弹危机
+cuban missile crisis:古巴导弹危機
 cuban missile:古巴导弹
 cuban missile:古巴的导弹
 cuban model:古巴模特
@@ -4406,6 +4407,7 @@ culture continue:文化继续
 culture continues:文化继续
 culture control us:文化控制我们
 culture control:文化控制
+culture convenience club:文化便利俱乐部
 culture convenience club:文化便利俱樂部
 culture conversation:文化对话
 culture cooperation:文化合作
@@ -4957,6 +4959,8 @@ culture page:文化页
 culture palace:文化宮殿
 culture paper:文化纸
 culture paradigm:文化范式
+culture park station:文化公园站
+culture park station:文化公園站
 culture park:成都市文化公园
 culture park:文化公园
 culture park:文化公園
@@ -18544,6 +18548,7 @@ customs flag:海关旗
 customs food:海关食品
 customs from:海关从
 customs frontline:海關戰線
+customs gold unit:海关金单位
 customs goods:海关商品
 customs hall:海关大厅
 customs have been:海关已经
@@ -18664,6 +18669,7 @@ customs sanctions:海关制裁
 customs security:海关安全
 customs service:海关服务
 customs services:海关服务
+customs ship flag:海关船旗
 customs ship:海关船
 customs show:海关显示
 customs slang:海关俚语

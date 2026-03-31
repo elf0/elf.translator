@@ -997,6 +997,7 @@ huafeng qianhai bay phase ii:華豐·前海灣二期
 huafeng reservoir:华丰水库
 huafeng road linyi road:华丰路临沂路
 huafeng road station:华丰路站
+huafeng road station:華豐路站
 huafeng road:华丰路
 huafeng road:华凤路
 huafeng road:华峰路
@@ -1209,6 +1210,7 @@ huaguoshan avenue:花果山大道
 huaguoshan metro station:花果山地铁站
 huaguoshan neighborhood committee:花果山居委会
 huaguoshan park station:花果山公园站
+huaguoshan park station:花果山公園站
 huaguoshan park:花果山公园
 huaguoshan park:花果山公園
 huaguoshan road:花果山路
@@ -1494,6 +1496,8 @@ huaihua south:怀化南
 huaihua south:懷化南
 huaihua university:懷化學院
 huaihua zhijiang airport:怀化芷江机场
+huaihua zhijiang airport:懷化芷江机场
+huaihua zhijiang airport:懷化芷江機場
 huaihua-tongren expressway:銅懷高速
 huaihua:huáihuà shì
 huaihua:怀化
@@ -2182,7 +2186,9 @@ hualien city:花莲市
 hualien city:花蓮市
 hualien country lodge:遠山林舍民宿
 hualien county constituency:花蓮縣立法委員選舉區
+hualien county council:花莲县议会
 hualien county council:花蓮縣議會
+hualien county flag:花莲县县旗
 hualien county government service center:花蓮縣政府南區服務中心
 hualien county government:花蓮縣政府
 hualien county yuli junior high school:花蓮縣立玉里國民中學
@@ -2661,6 +2667,8 @@ huanan rd:华南路
 huanan road:华南路
 huanan road:花南路
 huanan road:華南路
+huanan seafood market:华南海鲜市场
+huanan seafood market:華南海鲜市场
 huanan seafood wholesale market:武汉华南海鲜批发市场
 huanan street:华南街
 huanan street:華南街
@@ -5445,6 +5453,7 @@ huangpu coach terminal:黄圃客运站
 huangpu coach terminal:黄埔汽车客运站
 huangpu dadao dong:黄埔大道东站
 huangpu dadao station:黃埔大道站
+huangpu dadao station:黄埔大道站
 huangpu dadao:黄埔大道
 huangpu district:huángpǔ qū
 huangpu district:黃埔區
@@ -8636,6 +8645,7 @@ huaxi:華西鎮
 huaxi:骅西街道
 huaxia animes industrial park:华夏动漫产业园
 huaxia art center:华夏艺术中心
+huaxia art centre:华夏艺术中心
 huaxia art centre:華夏藝術中心
 huaxia avenue:华夏大道
 huaxia bank:huáxià yínháng
@@ -9387,6 +9397,8 @@ huazhong road:华中路
 huazhong south road:华中南路
 huazhong street:華中街
 huazhong subdistrict:骅中街道
+huazhong technology university:华中科技大学
+huazhong technology university:华中科技大學
 huazhong university of science & technology union shenzhen hospital east:协和深圳医院东
 huazhong university of science & technology union shenzhen hospital:协和深圳医院
 huazhong university of science and technology enter:华中科技大学进入
@@ -11916,8 +11928,11 @@ huixin industrial park:晖信工业园
 huixin line:回新线
 huixin road:汇新路
 huixin road:汇鑫道
+huixin west street:惠新西街
 huixin xijie beikou station:惠新西街北口站
+huixin xijie beikou:惠新西街北口
 huixin xijie nankou station:惠新西街南口站
+huixin xijie nankou:惠新西街南口
 huixin xijie:惠新西街輔路
 huixin xijie:惠新西街辅路
 huixin:惠新
@@ -12197,6 +12212,7 @@ huizhou north railway station:惠州北站
 huizhou north:惠州北
 huizhou olympic stadium:惠州奥林匹克体育场
 huizhou pingtan airport:惠州平潭机场
+huizhou pingtan airport:惠州平潭機場
 huizhou port:惠州港
 huizhou pully acoustic technology co., ltd.:惠州普力电声科技有限公司
 huizhou qu:徽州区
@@ -13624,6 +13640,7 @@ human behavior and health:人的行为和健康
 human behavior and information technology knowledge:人的行为和信息技术知识
 human behavior and team:人的行为和团队
 human behavior as:人的行为当作
+human behavior genetics:人类行为遗传学
 human behavior is complex:人的行为是复杂的
 human behavior:人的行为
 human behavior:人类行为
@@ -13633,6 +13650,7 @@ human behaviour and choice:人类行为和选择
 human behaviour and our:人类行为和我们的
 human behaviour and stress:人类行为和压力
 human behaviour expert:人类行为专家
+human behaviour genetics:人类行为遗传学
 human behaviour influence:人类行为影响
 human behaviour is symbol:人类行为是符号
 human behaviour pattern:人类行为模式
@@ -14703,6 +14721,7 @@ human development research:人类发展研究
 human development researchers:人类发展研究人员
 human development studies:人类发展研究
 human development study:人类发展研究
+human development theory:人类发展理论
 human development trust:人类发展信托
 human development:人发展
 human development:人类发展
@@ -15261,6 +15280,7 @@ human genome editing:人类基因组编辑
 human genome encode:人类基因组编码
 human genome has been:人类基因组已经
 human genome near:人类基因组接近
+human genome organisation:人类基因组组织
 human genome organisation:国际人类基因组组织
 human genome organization:人类基因组组织
 human genome potential:人类基因组潜在
@@ -15574,6 +15594,7 @@ human immunodeficiency virus antibody:人类免疫缺陷病毒抗体
 human immunodeficiency virus infection:人类免疫缺陷病毒感染
 human immunodeficiency virus:人免疫缺陷病毒
 human immunodeficiency virus:人类免疫缺陷病毒
+human immunodeficiency viruses:人类免疫缺陷病毒
 human immunodeficiency:人免疫缺陷
 human immunodeficiency:人类免疫缺陷
 human immunology project:人类免疫学项目
@@ -15683,6 +15704,7 @@ human investment partnership:人投资合伙企业
 human investment:人投资
 human investment:人类投资
 human ion channel:人类离子通道
+human iron metabolism:人类铁代谢
 human iron metabolism:人類鐵代謝
 human is a threat:人是一个威胁
 human is fact:人是事實
@@ -16007,9 +16029,11 @@ human migration:人类迁徙
 human military:人类军事
 human military:人类军队
 human milk bank:人乳捐獻
+human milk bank:人乳銀行
 human milk feed:人乳喂
 human milk microbiome:母乳微生物群
 human milk nutrition:人乳营养
+human milk oligosaccharide:人乳寡醣
 human milk sugar:人乳糖
 human milk:人乳
 human milk:人类乳
@@ -16299,6 +16323,7 @@ human pandemic:人类瘟疫
 human papilloma virus vaccine:人乳头状瘤病毒疫苗
 human papilloma virus:人乳头状瘤病毒
 human papilloma virus:人类乳头状瘤病毒
+human papilloma viruses:人乳头状瘤病毒
 human papilloma:人乳头状瘤
 human papilloma:人类乳头状瘤
 human papillomavirus infection:人類乳突病毒
@@ -16501,6 +16526,7 @@ human problems:人类问题
 human process:人类处理
 human process:人类过程
 human process:人过程
+human processor model:人处理器模型
 human processor:人类处理器
 human product:人类产品
 human production and life:人类生产和生活
@@ -16535,6 +16561,7 @@ human protein dataset:人类蛋白质数据集
 human protein phosphorylation:人类蛋白质磷酸化
 human protein:人类蛋白质
 human protein:人蛋白质
+human proteome organization:人类蛋白质组组织
 human proteome organization:人類蛋白質組組織
 human proteome project would:人类蛋白质组计划将
 human proteome project:人类蛋白质组计划
@@ -19570,6 +19597,7 @@ humboldt penguin:秘鲁企鹅
 humboldt prize:洪堡奖
 humboldt ranking:洪堡排名
 humboldt research award:洪堡研究奖
+humboldt research prize:洪堡研究奖
 humboldt river:洪堡河
 humboldt said:洪堡说
 humboldt school:洪堡学校
@@ -19983,6 +20011,7 @@ hummingbird feed:蜂鸟喂
 hummingbird flight speed:蜂鸟飞行速度
 hummingbird flight:蜂鸟飞行
 hummingbird hawk moth:小豆长喙天蛾
+hummingbird hawk moth:蜂鸟鹰蛾
 hummingbird heartbeat:蜂鳥般的心跳
 hummingbird model:蜂鸟模型
 hummingbird moth:蜂鸟蛾
@@ -20434,6 +20463,7 @@ hunakalia:xiōngyálì
 hunakalia:匈牙利
 hunan - guangxi railway:湘桂线
 hunan agricultural university:湖南农业大学
+hunan art school:湖南省艺术学校
 hunan bible institute:湖南圣经学院
 hunan bingqi yuejin electro-mechanical co., ltd.:湖南兵器跃进机电有限公司
 hunan botanical garden:湖南省植物园
@@ -20503,6 +20533,7 @@ hunan road:湖南路
 hunan science and technology museum:湖南省科学技术馆
 hunan self study university:湖南自修大学旧址
 hunan snow wolves:湖南柏宁篮球俱乐部
+hunan snow wolves:湖南雪狼
 hunan softshell turtle:砂鳖
 hunan style snack:湖南味小吃
 hunan subdistrict:湖南街道
@@ -20522,6 +20553,8 @@ hunan university of science and technology:湖南科技大學
 hunan university of technology and business:湖南工商大学
 hunan university of technology:湖南工业大学
 hunan university of technology:湖南工業大學
+hunan university press:湖南大学出版社
+hunan university press:湖南大學出版社
 hunan university station:湖南大学站
 hunan university:湖南大学
 hunan university:湖南大學
@@ -21896,6 +21929,7 @@ hungary economy:匈牙利经济
 hungary elections:匈牙利选举
 hungary event:匈牙利事件
 hungary expect:匈牙利期待
+hungary football association:匈牙利足球协会
 hungary from:匈牙利从
 hungary government:匈牙利政府
 hungary has been:匈牙利已经
@@ -23591,6 +23625,7 @@ hurgada:古尔代盖
 hurgada:古尔代盖/洪加達
 hurgada:洪加達
 hurghada international airport:古尔代盖国际机场
+hurghada international airport:洪加達国际机场
 hurghada:古尔代盖
 hurghada:古尔代盖/洪加達
 hurghada:洪加達

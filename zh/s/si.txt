@@ -255,6 +255,7 @@ sialioujia bridge:下六甲橋
 sialkot district:锡亚尔科特县
 sialkot export:锡亚尔科特出口
 sialkot international airport:錫亞爾科特國際機場
+sialkot international airport:锡亚尔科特国际机场
 sialkot:锡亚尔科特
 sialoglycoprotein:唾液酸糖蛋白
 sialun:下崙
@@ -1412,6 +1413,7 @@ sick puppies:生病的小狗
 sick-leave wage:病假工资
 sick:不舒服的
 sickerode:锡克罗德
+sickle and hammer:镰刀与锤子
 sickle and hammer:镰刀和锤子
 sickle cell anemia:镰刀细胞贫血
 sickle cell disease:鐮刀型紅血球疾病
@@ -5478,6 +5480,8 @@ sihudian:四湖店
 sihui avenue middle:四会大道中
 sihui avenue north:四会大道北
 sihui avenue south:四会大道南
+sihui east station:四惠东站
+sihui east station:四惠東站
 sihui east:四惠东
 sihui railway station:四會站
 sihui road:sì huì lù
@@ -8205,6 +8209,7 @@ silver flower pool:銀花潭
 silver flower:银子花
 silver fortune plaza:荊威廣場
 silver fountain terrace:銀泉臺
+silver fox rabbit:銀狐兔
 silver fox:銀狐
 silver from:银子从
 silver fulminate:雷酸银
@@ -8245,9 +8250,11 @@ silver jubilee mansion:銀禧大廈
 silver king:銀王
 silver labeo:拉德氏野鯪
 silver lactate:乳酸银
+silver lake college:銀湖學院
 silver lake garden:銀湖花園
 silver lake offer:銀湖提供
 silver lake road:銀湖路
+silver lake station:銀湖站
 silver lake township:锡尔弗莱克镇区
 silver lake:銀湖
 silver lamprey:銀色單鰭七鰓鰻
@@ -8263,6 +8270,7 @@ silver lotus medal of honour:銀蓮花榮譽勳章
 silver lotus:銀蓮花
 silver mansion:兆暉大廈
 silver maple leaf:銀楓葉
+silver marten rabbit:銀貂兔
 silver marten:銀貂
 silver medal after:银牌后
 silver medal and cross:银牌和十字
@@ -8278,6 +8286,7 @@ silver mine cave:銀礦洞
 silver mirror reaction:銀鏡反應
 silver mirror:銀鏡
 silver molybdate:钼酸银
+silver mountain station:銀山站
 silver mountain:銀山
 silver nanoparticle:纳米银
 silver needle noodles:米篩目
@@ -8364,6 +8373,7 @@ silver streak zephyr:银色闪电微风号列车
 silver stream path:銀泉徑
 silver stream waterfall:銀河洞
 silver street railway station:銀街站
+silver street station:銀街站
 silver street:銀街
 silver stripe round herring:日本銀帶鯡
 silver subfluoride:一氟化二银
@@ -10090,6 +10100,7 @@ simon fraser red leafs:西門菲沙大學家族隊
 simon fraser university public policy:西蒙弗雷泽大学公共政策
 simon fraser university students:西蒙弗雷泽大学学生
 simon fraser university:西蒙弗雷泽大学
+simon fraser university:西蒙弗雷澤大學
 simon fraser university:西門菲莎大學
 simon from nuremberg:西蒙从纽伦堡
 simon from:西蒙从
@@ -10569,6 +10580,7 @@ simple climate:简单气候
 simple clinical:简单临床
 simple cloning:简单克隆
 simple closed curve:简单闭曲线
+simple closed curves:简单闭曲线
 simple closed:简单闭
 simple cloth:简单布
 simple clothing:简单服装
@@ -10858,6 +10870,7 @@ simple hand:简单手
 simple handle:简单手柄
 simple handwriting recognition:简单手写识别
 simple hardware:简单硬件
+simple harmonic motion:简单谐波运动
 simple harmonic motion:簡諧運動
 simple harmonic:简单谐波
 simple health:简单健康
@@ -15322,6 +15335,7 @@ sine and cosine functions:正弦和余弦函数
 sine and cosine part:正弦和余弦部分
 sine and cosine wave:正弦和余弦波
 sine and cosine:正弦和余弦
+sine and cosine:正弦和餘弦
 sine condition:正弦条件
 sine curve:正弦曲线
 sine curves:正弦曲线
@@ -16039,6 +16053,7 @@ singapore at the olympics:奧林匹克運動會新加坡代表團
 singapore athletics:新加坡田径
 singapore attack:新加坡攻击
 singapore avoid:新加坡避免
+singapore badminton association:新加坡羽毛球协会
 singapore badminton association:新加坡羽毛球協會
 singapore ballet academy:新加坡芭蕾舞学院
 singapore ballet:新加坡芭蕾舞
@@ -16091,6 +16106,7 @@ singapore cabinet:新加坡内阁
 singapore cable car:花芭山缆车
 singapore cable:新加坡电缆
 singapore calendar:新加坡日历
+singapore calligraphy centre:新加坡书法中心
 singapore cambridge:新加坡剑桥
 singapore campus:新加坡校园
 singapore can also provide:新加坡也能提供
@@ -16151,6 +16167,7 @@ singapore college:新加坡学院
 singapore colombo plan students:新加坡科伦坡计划学生
 singapore colombo plan:新加坡科伦坡计划
 singapore committee:新加坡委员会
+singapore community shield:新加坡社区盾
 singapore community shield:新加坡社區盾
 singapore community:新加坡社区
 singapore companies and workers:新加坡公司和工人
@@ -16382,6 +16399,7 @@ singapore high court:新加坡高等法院
 singapore high line:新加坡高线
 singapore high school:新加坡高中
 singapore high:新加坡高
+singapore history museum:新加坡历史博物馆
 singapore hokkien huay kuan:新加坡福建会馆
 singapore holding company:新加坡控股公司
 singapore honor international:新加坡荣誉国际
@@ -16498,8 +16516,10 @@ singapore jewellery:新加坡珠寶
 singapore judge:新加坡法官
 singapore judiciary:新加坡司法機關
 singapore just:新加坡只
+singapore justice party:新加坡正义党
 singapore keep:新加坡保持
 singapore korean:新加坡韩语
+singapore labour party:新加坡工人党
 singapore lack:新加坡缺乏
 singapore land authority:新加坡土地管理局
 singapore land tower:新置地大廈
@@ -16518,6 +16538,7 @@ singapore limited company:新加坡有限公司
 singapore limited liability partnership:新加坡有限责任合伙
 singapore link:新加坡链接
 singapore lionsxii:新加坡十二獅
+singapore literature prize:新加坡文学奖
 singapore literature prize:新加坡文學獎
 singapore liver cancer:新加坡肝癌
 singapore location:新加坡位置
@@ -16792,6 +16813,7 @@ singapore standard:新加坡标准
 singapore standards:新加坡标准
 singapore start:新加坡开始
 singapore state investor:新加坡国家投资者
+singapore state team:新加坡国家队
 singapore state wealth fund:新加坡国家财富基金
 singapore state:新加坡国家
 singapore state:新加坡州
@@ -16838,6 +16860,7 @@ singapore technologies:新加坡技术
 singapore technology company:新加坡科技公司
 singapore technology:新加坡技术
 singapore telecommunications:新加坡电信
+singapore tennis association:新加坡网球协会
 singapore territorial waters:新加坡领海
 singapore this year:新加坡今年
 singapore time:新加坡时间
@@ -16873,6 +16896,7 @@ singapore university of social sciences:新加坡社科大學
 singapore university of social sciences:新跃社科大学
 singapore university of technology and design campus:新加坡科技设计大学校园
 singapore university of technology and design:新加坡科技設計大學
+singapore university press:新加坡大学出版社
 singapore university:新加坡大学
 singapore university:新加坡大學
 singapore users:新加坡用户
@@ -20699,6 +20723,7 @@ sistan a baluchestan:錫斯坦－俾路支斯坦省
 sistan a baluchestan:锡斯坦和俾路支斯坦省
 sistan an baluchestan province:錫斯坦－俾路支斯坦省
 sistan an baluchestan province:锡斯坦和俾路支斯坦省
+sistan and balochistan:锡斯坦和俾路支省
 sistan and baluchestan province:錫斯坦和俾路支斯坦省
 sistan and baluchestan province:錫斯坦－俾路支斯坦省
 sistan and baluchestan province:锡斯坦和俾路支斯坦省
@@ -21644,6 +21669,7 @@ siti mastura muhammad:茜蒂玛斯杜拉
 siti o mekisiko:墨西哥城
 siti zaharah sulaiman:茜蒂扎哈拉苏莱曼
 sitia area:锡蒂亚地区
+sitia public airport:锡蒂亚公共机场
 sitia public:锡蒂亚公共
 sitia:锡蒂亚
 sitian:寺天
@@ -22904,6 +22930,7 @@ six days recover:六天恢复
 six days seven night:六天七夜
 six days since they:六天自从他们
 six days to seven:六天到七
+six days war:六天战争
 six days we:六天我们
 six days you:六天你
 six days:六天
@@ -22952,6 +22979,7 @@ six escape:六逃脱
 six ethnic folk culture garden:六族民俗文化探祕園
 six european:六欧洲
 six excellence:六卓越
+six factor formula:六因子公式
 six factor:六因子
 six factors:六因素
 six family:六科
@@ -23059,6 +23087,7 @@ six methods:六方法
 six metre:六米
 six micrometers:六微米
 six microphone:六麦克风
+six mile township:六英里鎮區
 six mile:六英里
 six miles from mecca:六英里从麦加
 six miles from moscow:六英里从莫斯科
@@ -23893,6 +23922,7 @@ sixty degree:六十度
 sixty different:六十不同的
 sixty dollars:六十美元
 sixty dome mosque:六十圆顶清真寺
+sixty dome mosque:六十圓頂清真寺
 sixty eight years:六十八年
 sixty eight:六十八
 sixty five days:六十五天

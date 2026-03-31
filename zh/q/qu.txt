@@ -1285,6 +1285,7 @@ quality control method:质量控制方法
 quality control methods:质量控制方法
 quality control mode:质量控制模式
 quality control module:质量控制模块
+quality control music:质量控制音乐
 quality control network:质量控制网络
 quality control object:质量控制对象
 quality control of production:质量控制的生产
@@ -2001,6 +2002,7 @@ quality management standards:质量管理标准
 quality management system certification:质量管理系统认证
 quality management system:品質系統
 quality management system:质量管理系统
+quality management systems:质量管理系统
 quality management team:质量管理团队
 quality management textbook:质量管理教科书
 quality management tools:质量管理工具
@@ -4280,6 +4282,7 @@ quantum field theory calculations:量子场论计算
 quantum field theory in curved spacetime:彎曲時空中的量子場論
 quantum field theory model:量子场论模型
 quantum field theory textbook:量子场论教科书
+quantum field theory:量子场理论
 quantum field theory:量子场论
 quantum field:量子场
 quantum field:量子领域
@@ -4484,6 +4487,8 @@ quantum matrix:量子矩阵
 quantum matter institute:量子物质研究所
 quantum matter:量子物质
 quantum matter:量子问题
+quantum measurement problem:量子测量问题
+quantum measurement theory:量子测量理论
 quantum measurement:量子测量
 quantum mechanics absolute:量子力学绝对
 quantum mechanics absolutely:量子力学绝对地
@@ -4610,6 +4615,7 @@ quantum optics experiment:量子光学实验
 quantum optics physicist:量子光学物理学家
 quantum optics scientists:量子光学科学家
 quantum optics:量子光学
+quantum optimization algorithms:量子优化算法
 quantum optimization:量子优化
 quantum orbit:量子轨道
 quantum organisation:量子组织
@@ -5141,6 +5147,9 @@ quanzhou dialects:泉州话
 quanzhou east:泉州东
 quanzhou food safety:泉州市食品安全
 quanzhou jingjiang international airport:泉州晋江国际机场
+quanzhou jinjiang airport:泉州晉江機場
+quanzhou jinjiang airport:泉州晋江机场
+quanzhou jinjiang airport:泉州晋江機場
 quanzhou jinjiang international airport:泉州晋江国际机场
 quanzhou maritime museum:泉州海外交通史博物馆
 quanzhou normal university:泉州师范学院
@@ -6993,8 +7002,10 @@ queens north:皇后區北
 queens of diamonds and hearts:東西宮略
 queens of langkasuka:海上的女皇
 queens of the stone age:石器時代女王
+queens plaza station:皇后區廣場站
 queens plaza station:皇后廣場車站
 queens plaza:皇后區廣場
+queens public library:皇后區公共圖書館
 queens public library:皇后圖書館
 queens rather than:皇后區而不是
 queens road peckham railway station:女王路佩卡姆站
@@ -7108,6 +7119,7 @@ queenstown development:皇后镇开发
 queenstown district court:皇后镇地方法院
 queenstown farm:皇后鎮農場
 queenstown farm:皇后镇农场
+queenstown international airport:皇后镇国际机场
 queenstown international marathon:皇后镇国际马拉松
 queenstown international:皇后镇国际
 queenstown lake:皇后镇湖
@@ -7115,6 +7127,7 @@ queenstown molecular biology:皇后镇分子生物学
 queenstown mrt station:女皇镇地铁站
 queenstown neighbourhood police centre:女皇镇邻里警局
 queenstown public library:女皇鎮公共圖書館
+queenstown public library:女皇镇公共图书馆
 queenstown road:皇后镇路
 queenstown smc:女皇镇单选区
 queenstown stadium:女皇鎮體育場
@@ -8253,6 +8266,7 @@ quetiapine:喹硫平
 quetigny:克蒂尼
 quetta district:奎达县
 quetta international airport:奎达国际机场
+quetta international airport:奎達国际机场
 quetta railway station:奎達車站
 quetta shura:奎达舒拉
 quetta:奎达
@@ -9544,6 +9558,7 @@ quito cathedral:基多主教座堂
 quito ecuador temple:厄瓜多爾基多聖殿
 quito glacier:基多冰川
 quito government:基多政府
+quito international airport:基多国际机场
 quito is ecuador:基多是厄瓜多尔
 quito kanton:基托縣
 quito meeting:基多会议

@@ -3002,7 +3002,9 @@ general aviation building:通用航空建筑
 general aviation classification:通用航空分类
 general aviation community:通用航空社区
 general aviation companies:通用航空公司
+general aviation company:一般的航空公司
 general aviation company:通用航空公司
+general aviation corporation:一般的航空公司
 general aviation corporation:通用航空公司
 general aviation cover:通用航空涵盖
 general aviation demonstration:通用航空示范
@@ -8379,6 +8381,7 @@ geneva human rights:日内瓦人权
 geneva initiative:日内瓦倡议
 geneva institutions:日内瓦机构
 geneva international airport association:日内瓦国际机场协会
+geneva international airport:日內瓦国际机场
 geneva international airport:日内瓦国际机场
 geneva international conference:日内瓦国际会议
 geneva international discussions:日内瓦国际讨论
@@ -8422,6 +8425,7 @@ geneva or new york:日内瓦或纽约
 geneva organization:日内瓦组织
 geneva organize:日内瓦组织
 geneva parliament:日内瓦议会
+geneva peace conference:日内瓦和平会议
 geneva peace:日内瓦和平
 geneva phase:日内瓦阶段
 geneva phonograms convention:保护录音制品制作者防止未经许可复制其录音制品公约
@@ -9494,6 +9498,7 @@ genome study:基因组研究
 genome surgeon:基因组外科医生
 genome syndrome:基因组综合症
 genome synthesis:基因组合成
+genome taxonomy database:基因组分类学数据库
 genome technologies:基因组技术
 genome technology center:基因组技术中心
 genome technology:基因组技术
@@ -10115,6 +10120,8 @@ geography and natural resources:地理和自然資源
 geography and natural resources:地理和自然资源
 geography and nature:地理和自然
 geography and physics:地理和物理
+geography and place:地理和地方
+geography and places:地理和地方
 geography and platform optimization:地理和平台优化
 geography and political science:地理学和政治学
 geography and politics:地理与政治
@@ -10147,6 +10154,7 @@ geography and travel:地理和旅行
 geography and urban planning:地理与城市规划
 geography and war:地理和战争
 geography and water:地理学和水
+geography and wealth:地理与财富
 geography and weather:地理和天气
 geography and welfare geography:地理学与福利地理学
 geography and welfare:地理学与福利
@@ -11149,6 +11157,7 @@ george and cape town:乔治和开普敦
 george and charles:乔治和查尔斯
 george and charlotte:乔治和夏洛特
 george and daughter-in-law mary:乔治和儿媳玛丽
+george and dragon:乔治与龙
 george and dragon:乔治和龙
 george and ebola virus:乔治与伊波拉病毒
 george and edward:乔治和爱德华
@@ -11448,6 +11457,7 @@ george marshall:乔治马歇尔
 george martin:乔治马丁
 george mason patriot:乔治梅森爱国者
 george mason university:乔治梅森大学
+george mason university:乔治梅森大學
 george mason university:喬治梅森大學
 george mason:乔治梅森
 george mason:喬治梅森
@@ -11627,6 +11637,7 @@ george was very helpful:乔治是非常有帮助的
 george washington and thomas:乔治华盛顿和托马斯
 george washington book:乔治华盛顿书
 george washington bridge:乔治华盛顿桥
+george washington bridge:喬治華盛頓橋
 george washington carver:乔治华盛顿卡弗
 george washington coffee:乔治华盛顿咖啡
 george washington dollar:乔治华盛顿美元
@@ -11660,6 +11671,9 @@ george washington university space policy:乔治华盛顿大学空间政策
 george washington university space:乔治华盛顿大学空间
 george washington university student:乔治华盛顿大学学生
 george washington university:乔治华盛顿大学
+george washington university:喬治华盛顿大学
+george washington university:喬治华盛顿大學
+george washington university:喬治華盛頓大學
 george washington:乔治华盛顿
 george washington:喬治华盛顿
 george washington:喬治華盛頓
@@ -11747,10 +11761,12 @@ georgetown university business school:乔治城大学商学院
 georgetown university college:乔治城大学学院
 georgetown university college:喬治城大學學院
 georgetown university hospital:乔治城大学医院
+georgetown university hospital:乔治敦大学医院
 georgetown university law center collaborate:乔治敦大学法律中心合作
 georgetown university law center:乔治敦大学法律中心
 georgetown university law:乔治城大学法律
 georgetown university medical center:喬治城大學醫學中心
+georgetown university observatory:乔治敦大学天文台
 georgetown university press:乔治城大学出版社
 georgetown university privacy and technology:乔治城大学隐私与技术
 georgetown university privacy:乔治城大学隐私
@@ -12060,6 +12076,7 @@ georgia politician:乔治亚州政治人物
 georgia politics:格鲁吉亚政治
 georgia port plans:格鲁吉亚港口计划
 georgia port:格鲁吉亚港口
+georgia power company:乔治亚州电力公司
 georgia power:乔治亚州电力
 georgia power:格鲁吉亚电力
 georgia południowa i sandwich południowy:南乔治亚和南桑威奇群岛
@@ -12073,6 +12090,7 @@ georgia prevention:格鲁吉亚预防
 georgia prison:乔治亚州监狱
 georgia professional:乔治亚州专业
 georgia protester:格鲁吉亚抗议者
+georgia public broadcasting:格鲁吉亚公共广播
 georgia public health:格鲁吉亚公共卫生
 georgia public sector:格鲁吉亚公共部门
 georgia public service:乔治亚州公共服务
@@ -12112,10 +12130,18 @@ georgia southern university students:佐治亚南方大学学生
 georgia southern university:佐治亚南方大学
 georgia southwest:格鲁吉亚西南
 georgia southwestern state university:佐治亚西南州立大学
+georgia standard time:格魯吉亞标准时间
+georgia standard time:格鲁吉亚标准时间
 georgia start:格鲁吉亚开始
 georgia state capitol:佐治亚州议会大厦
+georgia state courts:喬治亞州法院
+georgia state flag:佐治亚州州旗
+georgia state flag:喬治亞州州旗
+georgia state flag:喬治亞州旗
+georgia state government:喬治亞州政府
 georgia state senate:佐治亚州参议院
 georgia state university college of law:佐治亚州立大学法学院
+georgia state university:喬治亞州大學
 georgia state university:喬治亞州立大學
 georgia state:乔治亚州州
 georgia state:喬治亞州
@@ -13518,6 +13544,8 @@ german language learn:德语学习
 german language learning:德语学习
 german language lesson:德语课程
 german language level:德语水平
+german language literature:德语语言文学
+german language literature:日耳曼语言文学
 german language markets:德语市场
 german language media:德语媒体
 german language requirements:德语要求
@@ -13742,6 +13770,7 @@ german organizations:德国的组织
 german orientalism:德国的东方主义
 german origin:德国的起源
 german origin:德语起源
+german orthography reform:德语正寫法改革
 german orthography:德語正寫法
 german orthography:德语正寫法
 german ostmark:德国东线马克
@@ -14006,6 +14035,7 @@ german spring:德国的春季
 german standard german:德國標準德語
 german standard:德国的标准
 german standards:德国的标准
+german state theatre:德语国家剧院
 german state:德国的国家
 german state:德语国家
 german state:日耳曼国家
@@ -14685,6 +14715,7 @@ germany and samoa:德国和萨摩亚
 germany and saudi arabia:德国、沙特阿拉伯
 germany and saudi arabia:德国和沙特阿拉伯
 germany and scandinavia:德国和斯堪的纳维亚
+germany and scandinavia:德國和斯堪的納維亞
 germany and scotland:德国和苏格兰
 germany and serbia:德国和塞尔维亚
 germany and several european:德国和几个欧洲
@@ -14971,6 +15002,7 @@ germany finally:德国最终
 germany financial market:德国金融市场
 germany five:德国五
 germany follow:德国跟随
+germany football association:德国足球协会
 germany football coach:德国足球教练
 germany football:德国足球
 germany football:德國足球
@@ -15396,6 +15428,7 @@ germany yesterday:德国昨天
 germany you will:德国你会
 germany you:德国你
 germany your:德国你的
+germany youth team:德国青年队
 germany youth:德国青年
 germany:déguó
 germany:德国

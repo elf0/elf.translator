@@ -3614,6 +3614,7 @@ graphic ability:图形能力
 graphic accelerator:图形加速器
 graphic adapter:图形适配器
 graphic adventure game:图形冒险游戏
+graphic adventure games:图形冒险游戏
 graphic adventure:图形冒险
 graphic advertisement:图形广告
 graphic analysis:图形分析
@@ -4381,6 +4382,7 @@ graphics field:图形领域
 graphics fields:图形领域
 graphics file format support:图形文件格式支持
 graphics file format:图形文件格式
+graphics file formats:图形文件格式
 graphics file type:图形文件类型
 graphics file:图形文件
 graphics files:图形文件
@@ -12557,6 +12559,7 @@ greek classical culture:希腊古典文化
 greek classical element:希腊古典元素
 greek classical music:希腊古典音乐
 greek classical mythology:希腊古典神话
+greek classical period:希腊古典时期
 greek classical philosophy:希腊古典哲学
 greek classical:希腊古典
 greek classical:希腊的古典
@@ -12756,6 +12759,7 @@ greek envoy:希腊特使
 greek epic:希腊史诗
 greek etc:希腊等等
 greek ethics:希腊伦理学
+greek euro coin:希腊的欧元硬币
 greek euro coins:希臘的歐元硬幣
 greek euro:希腊欧元
 greek euro:希腊的欧元
@@ -12817,7 +12821,9 @@ greek food:希腊的食物
 greek food:希腊食品
 greek food:希腊食物
 greek foot:希腊脚
+greek football association:希腊足球协会
 greek football club:希腊足球俱乐部
+greek football cup:希腊足球杯
 greek football cup:希臘足球盃
 greek football league system:希腊足球联赛系统
 greek football:希腊足球
@@ -13040,6 +13046,7 @@ greek landscape:希腊风景
 greek language class:希腊语课程
 greek language has three:希腊语有三
 greek language learning:希腊语学习
+greek language question:希腊语言问题
 greek language schools:希腊语学校
 greek language uses:希腊语使用
 greek language:希腊的语言
@@ -13124,6 +13131,7 @@ greek members:希腊成员
 greek merchant ship:希腊商船
 greek metal:希腊的金属
 greek method:希腊的方法
+greek military academy:希腊军事学院
 greek military government:希腊军政府
 greek military physician:希腊军事医生
 greek military:希腊军事
@@ -13557,6 +13565,7 @@ greek stone:希腊石头
 greek story end:希腊故事结束
 greek story:希腊故事
 greek story:希腊的故事
+greek strawberry tree:希腊草莓树
 greek strawberry:希腊草莓
 greek street:希腊街
 greek street:希腊街道
@@ -15672,6 +15681,8 @@ green juice:绿色蔬果汁
 green jungle:绿色丛林
 green junglefowl:綠原雞
 green just:绿色只
+green justice party:綠色正义党
+green justice party:绿色正义党
 green key certification:绿色钥匙认证
 green key hotel:绿色钥匙酒店
 green key:绿色钥匙
@@ -16137,6 +16148,7 @@ green pea:绿色豌豆
 green peace volunteer:綠色和平志愿者
 green peace:綠色和平
 green peace:绿色和平
+green peach aphid:绿色桃蚜虫
 green peafowl in china:绿孔雀在中国
 green peafowl:绿孔雀
 green pear:绿色梨
@@ -17097,6 +17109,7 @@ green world hotel grand nanjing:洛碁南京大飯店
 green world hotel song jiang:洛碁松江大飯店
 green world hotel:洛碁大飯店建北商旅
 green world hotels nan gang:洛碁大飯店南港館
+green world hypothesis:绿色世界假说
 green world map:绿色世界地图
 green world station hotel:洛碁驛大飯店
 green world zhonghua:洛碁大飯店中華館
@@ -17427,6 +17440,7 @@ greenhouse cultivation:温室栽培
 greenhouse demonstration:温室示范
 greenhouse design:温室设计
 greenhouse design:溫室設計
+greenhouse development rights:温室发展权利
 greenhouse door:温室门
 greenhouse effect and climate change:温室效应和气候变化
 greenhouse effect and global warming:温室效应和全球变暖
@@ -17784,6 +17798,7 @@ greenland dog:格陵蘭犬
 greenland eskimo:格陵兰爱斯基摩人
 greenland event:格陵兰事件
 greenland flag:格陵兰旗
+greenland football association:格陵兰足球协会
 greenland garden block a:碧翠園a座
 greenland garden block b:碧翠園b座
 greenland garden:碧翠園
@@ -18004,6 +18019,7 @@ greenway:经国园道
 greenwayodendron:梁栋木属
 greenwell glacier:格林韋爾冰川
 greenwich academy:格林尼治学院
+greenwich and woolwich:格林尼治和伍利奇
 greenwich area:格林尼治地区
 greenwich centre:怡安中心
 greenwich design:格林尼治设计
@@ -18024,6 +18040,7 @@ greenwich park:格林威治公園
 greenwich park:格林尼治公园
 greenwich peninsula:格林威治半島
 greenwich peninsula:格林尼治半岛
+greenwich royal observatory:格林尼治皇家天文台
 greenwich royal:格林尼治皇家
 greenwich standard time:格林尼治标准时间
 greenwich station:格林尼治站
@@ -19012,6 +19029,7 @@ grey swan cyclone:灰色天鹅飓风
 grey swan:灰色天鹅
 grey sweater:灰色毛衣
 grey sweatshirt:灰色运动衫
+grey system theory:灰色系统理论
 grey system:灰色系统
 grey systems theory:灰色系统理论
 grey tailed mountaingem:灰尾宝石蜂鸟
@@ -19329,6 +19347,7 @@ grid product:网格产品
 grid project:网格项目
 grid projects:网格项目
 grid provides:网格提供
+grid reference system:网格参考系统
 grid reference:网格参考
 grid report:网格报告
 grid representation:网格表示
@@ -20501,6 +20520,7 @@ ground assets:地面资产
 ground assistance:地面援助
 ground atomic bomb:地面原子弹
 ground attack aircraft:地面攻击机
+ground attack aircraft:地面攻击飞机
 ground attack airplane:地面攻击飞机
 ground attack missile:地面攻击导弹
 ground attack missions:地面攻击任务
@@ -20589,6 +20609,7 @@ ground control part:地面控制部分
 ground control point:地面控制点
 ground control points:地面控制点
 ground control radar:地面控制雷达
+ground control series:地面控制系列
 ground control software:地面控制软件
 ground control station:地面控制站
 ground control system:地面控制系統

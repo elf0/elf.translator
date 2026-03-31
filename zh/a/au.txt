@@ -170,8 +170,10 @@ auburn botanic gardens:奧本植物園
 auburn council:奥本议会
 auburn hospital:奥本医院
 auburn prison:奥本监狱
+auburn public library:奥本公共图书馆
 auburn tigers:奥本大学老虎队
 auburn township:奧本鎮區
+auburn train station:奥本火车站
 auburn university:奥本大学
 auburn university:奥本大學
 auburn university:奧本大學
@@ -237,6 +239,7 @@ auckland government:奧克蘭政府
 auckland grammar school:奧克蘭文法學校
 auckland harbour bridge:奧克蘭海灣大橋
 auckland hospital:奧克蘭醫院
+auckland international airport:奥克兰国际机场
 auckland island merganser:奧克蘭秋沙鴨
 auckland island:奥克兰岛
 auckland island:奧克蘭島
@@ -261,6 +264,7 @@ auckland stillbirth:奧克蘭死產
 auckland teal:奧克蘭鴨
 auckland tourism:奧克蘭旅游
 auckland tuatara:奧克蘭喙頭蜥
+auckland university college:奧克蘭大學學院
 auckland university of technology and university of auckland:奥克兰理工大学和奥克兰大学
 auckland university of technology encourage:奥克兰理工大学鼓励
 auckland university of technology graduates:奥克兰理工大学毕业生
@@ -1430,6 +1434,8 @@ audio editing and audio:音频编辑和音频
 audio editing environment:音频编辑环境
 audio editing is no longer:音频编辑不再是
 audio editing option:音频编辑选项
+audio editing program:音频编辑程序
+audio editing programs:音频编辑程序
 audio editing software:音频编辑软件
 audio editing solutions:音频编辑解决方案
 audio editing techniques:音频编辑技术
@@ -1490,6 +1496,7 @@ audio fiction:音频小说
 audio field:音频领域
 audio file converter:音频文件转换器
 audio file format:音频文件格式
+audio file formats:音频文件格式
 audio file is what:音频文件是什么
 audio file or text:音频文件或文本
 audio file or video:音频文件或视频
@@ -1725,6 +1732,8 @@ audio professional:音频专业
 audio professionals:音频专业人员
 audio program:音频程序
 audio programmer:音频程序员
+audio programming language:音频编程语言
+audio programming languages:音频编程语言
 audio programming:音频编程
 audio programs:音频程序
 audio project:音频项目
@@ -2344,6 +2353,7 @@ august and october:八月和十月
 august and september:八月和九月
 august answer:八月回答
 august bank holiday:八月銀行假日
+august bank holiday:八月银行假日
 august began:八月开始
 august birthday:八月生日
 august blog:八月博客
@@ -2957,6 +2967,7 @@ aurora sky:极光天空
 aurora solar energy project:极光太阳能项目
 aurora solar energy:极光太阳能
 aurora sometimes:极光有时
+aurora space station:极光空间站
 aurora start:极光开始
 aurora station:极光站
 aurora team:极光团队
@@ -3205,6 +3216,7 @@ austin health:奥斯汀健康
 austin heights:和丽园
 austin high school:奥斯汀中学
 austin high school:奥斯汀高中
+austin history center:奥斯汀历史中心
 austin home:奥斯汀家
 austin hospital:奥斯汀医院
 austin hospital:柯士甸醫院
@@ -3747,6 +3759,8 @@ australia boss:澳大利亚老板
 australia brain:澳大利亚脑
 australia brand:澳大利亚品牌
 australia brisbane:澳大利亚布里斯班
+australia broadcasting company:澳大利亚广播公司
+australia broadcasting company:澳洲广播公司
 australia business forum:澳大利亚商业论坛
 australia business innovation:澳大利亚商业创新
 australia business school:澳大利亚商学院
@@ -4966,6 +4980,7 @@ austria federation:奥地利联盟
 austria finance minister:奥地利财政部长
 austria financial markets:奥地利金融市场
 austria find:奥地利发现
+austria football association:奥地利足球协会
 austria for the first time:奥地利第一次
 austria four:奥地利四
 austria freemasonry:奥地利共济会
@@ -6725,6 +6740,7 @@ autism rehabilitation:自闭症康复
 autism related:自闭症相关的
 autism research and clinical:自闭症研究和临床
 autism research center:自闭症研究中心
+autism research centre:自闭症研究中心
 autism research laboratory:自闭症研究实验室
 autism research:自閉症研究
 autism research:自闭症研究
@@ -7328,6 +7344,7 @@ auto website:汽车网站
 auto websites:汽车网站
 auto week about:汽车周关于
 auto week:汽车周
+auto wiki browser:自动维基浏览器
 auto wind:汽车风
 auto worker:汽车工人
 auto workers and farmer:汽车工人和农民

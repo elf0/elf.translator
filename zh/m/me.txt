@@ -3347,6 +3347,7 @@ meadow bunting:三道眉草鹀
 meadow cove:美督南岸
 meadow ecosystem:草甸生态系统
 meadow grass:草甸草
+meadow lake airport:草甸湖機場
 meadow lake:草甸湖
 meadow land:草甸土地
 meadow lane:美度徑體育場
@@ -3918,6 +3919,7 @@ meaning and professional purpose:意义和专业目的
 meaning and purpose:意义与目的
 meaning and purpose:意义和目的
 meaning and reduce ambiguity:意义和减少歧义
+meaning and reference:意义和引用
 meaning and responsibility:意义和责任
 meaning and satisfaction:意义和满足
 meaning and secure social structure:意义和安全的社会结构
@@ -10603,6 +10605,7 @@ medal:獎章
 medallic art company:奖章艺术公司
 medallion heights:金徽閣
 medan hokkien:棉蘭福建話
+medan international airport:棉蘭国际机场
 medan kereta 8 aras:云顶酒店
 medan kereta 8 aras:雲頂酒店
 medan kidd bus station:美丹傑車站
@@ -10881,6 +10884,7 @@ media and development:媒体和发展
 media and devices:媒体和设备
 media and digital art:媒体和数字艺术
 media and diplomacy:媒体与外交
+media and drama:媒体与戏剧
 media and dream:媒体和梦
 media and e-commerce web site:媒体和电子商务网站
 media and e-commerce:媒体和电子商务
@@ -11596,6 +11600,7 @@ media continue:媒体继续
 media continues:媒体继续
 media contract:媒体合同
 media contributor:媒体贡献者
+media control interface:媒体控制接口
 media control interface:媒體控制介面
 media control:媒体控制
 media controller:媒体控制器
@@ -11612,6 +11617,7 @@ media cooperation:媒体合作
 media copy:媒体复制
 media copyright and internet:媒体版权和互联网
 media copyright protection alliance:媒体版权保护联盟
+media copyright questions:媒体版权问题
 media copyright sharing alliance:媒体版权共享联盟
 media copyright:媒体版权
 media core:媒体核心
@@ -11930,6 +11936,7 @@ media games:媒体游戏
 media gateway connect:媒体网关连接
 media gateway control protocol:媒体网关控制协议
 media gateway control:媒体网关控制
+media gateway controller:媒体网关控制器
 media gateway protocol:媒体网关协议
 media gateway server:媒体网关服务器
 media gateway:媒体网关
@@ -17734,6 +17741,7 @@ meilan district:美蘭
 meilan district:美蘭區
 meilan interchange:美兰立交
 meilan lake station:美兰湖站
+meilan lake station:美蘭湖站
 meilan lake:美兰湖
 meilan lake:美蘭湖
 meilan open-cut tunnel:梅蘭明隧道
@@ -17771,6 +17779,7 @@ meili reservoir:méilì shuǐkù
 meili reservoir:眉力水库
 meili road:梅丽路
 meili road:美利路
+meili snow mountain:梅里雪山
 meili snow mountains:梅里雪山
 meili:milai-cin
 meili:méilǐ zhèn
@@ -19434,6 +19443,7 @@ melbourne activist:墨尔本活动家
 melbourne address:墨尔本地址
 melbourne air traffic control:墨尔本航空管制
 melbourne aircraft carrier:墨尔本航空母舰
+melbourne airport line:墨尔本机场线
 melbourne airport:墨尔本机场
 melbourne airport:墨尔本機場
 melbourne airport:墨爾本机场
@@ -19484,6 +19494,7 @@ melbourne australia:墨尔本澳大利亚
 melbourne bank:墨尔本银行
 melbourne base:墨尔本基地
 melbourne beach:墨尔本海滩
+melbourne bible institute:墨尔本圣经学院
 melbourne bike:墨尔本自行车
 melbourne biotechnology company:墨尔本生物技术公司
 melbourne biotechnology:墨尔本生物技术
@@ -19557,6 +19568,7 @@ melbourne economy:墨尔本经济
 melbourne education:墨尔本教育
 melbourne energy:墨尔本能源
 melbourne esports:墨尔本电子竞技
+melbourne exhibition centre:墨尔本展览中心
 melbourne factory:墨尔本工厂
 melbourne family:墨尔本家庭
 melbourne federal court:墨尔本联邦法院
@@ -19589,6 +19601,7 @@ melbourne institute:墨尔本学院
 melbourne institute:墨尔本研究所
 melbourne institute:墨爾本研究所
 melbourne international airport:墨尔本国际机场
+melbourne international airport:墨爾本国际機場
 melbourne international art:墨尔本国际艺术
 melbourne international coffee:墨尔本国际咖啡
 melbourne international film festival:墨尔本国际电影节
@@ -19716,10 +19729,12 @@ melbourne town hall:墨尔本市政厅
 melbourne trade:墨尔本贸易
 melbourne train:墨尔本火车
 melbourne training:墨尔本培训
+melbourne tram network:墨尔本有轨电车网络
 melbourne tram:墨尔本有轨电车
 melbourne travel:墨尔本旅行
 melbourne tribe:墨尔本部落
 melbourne twice:墨尔本两次
+melbourne university press:墨尔本大学出版社
 melbourne university:墨尔本大学
 melbourne university:墨尔本大學
 melbourne university:墨爾本大學
@@ -20057,6 +20072,7 @@ mellon and his brother andrew:梅隆和他的兄弟安德鲁
 mellon and his brother:梅隆和他的兄弟
 mellon arena:梅隆竞技场
 mellon asset management:梅隆资产管理
+mellon bank center:梅隆銀行中心
 mellon bank:梅隆银行
 mellon business school and computer science:梅隆商学院和计算机科学
 mellon business school:梅隆商学院
@@ -22797,6 +22813,7 @@ memphis hospital:孟菲斯医院
 memphis hotel:孟菲斯酒店
 memphis hustle:曼菲斯疾行
 memphis institute:孟菲斯研究所
+memphis international airport:孟菲斯国际机场
 memphis international airport:孟菲斯國際機場
 memphis international:孟菲斯国际
 memphis is a young:孟菲斯是一个年轻的
@@ -26131,6 +26148,7 @@ meottomyces:近假脐菇属
 meow boss:喵波士
 meow hear:喵听
 meow meow cat:喵喵猫
+meow meow meow:喵喵喵
 meow meow:喵喵
 meow street:喵街
 meow wolf:喵狼
@@ -26667,11 +26685,13 @@ mercury and volatile organic compound:汞和挥发性有机化合物
 mercury and xenon arc:汞和氙弧
 mercury and xenon:汞和氙
 mercury arc lamp:汞弧灯
+mercury arc rectifier:汞弧整流器
 mercury arc valve:水銀整流器
 mercury arc:汞弧
 mercury as:汞当作
 mercury assessment:汞评估
 mercury asset management:水星資產管理
+mercury asset management:水星资产管理
 mercury astronaut virgil:水星宇航员维吉尔
 mercury astronaut:水星宇航员
 mercury at the same time:水星同时
@@ -26774,6 +26794,7 @@ mercury monitoring system:汞監測系統
 mercury monitoring:汞監測
 mercury morris:汞莫里斯
 mercury mountaineer:水星登山者
+mercury music prize:水星音乐奖
 mercury music:水星音乐
 mercury name:水星名称
 mercury nash:汞纳什
@@ -27998,6 +28019,7 @@ message ask:消息问
 message at least:消息至少
 message attack:消息攻击
 message attempt:消息尝试
+message authentication code:消息身份验证代码
 message authentication code:訊息鑑別碼
 message authentication:信息鉴定
 message authentication:消息身份验证
@@ -28491,6 +28513,7 @@ messina chasma:墨西拿深谷
 messina chasmata:墨西拿峽谷
 messina conference:墨西拿会议
 messina earthquake:墨西拿地震
+messina football club:墨西拿足球俱乐部
 messina province:墨西拿省
 messina said:墨西拿说
 messina says:墨西拿说
@@ -28504,6 +28527,7 @@ messine:墨西拿
 messingen:梅辛根
 messinian erosional crisis:墨西拿期侵蝕危機
 messinian evaporite:墨西拿期蒸發岩
+messinian salinity crisis:墨西拿期鹽度危機
 messinian salinity crisis:墨西拿鹽度危機
 messinian:墨西拿期
 messinský prieliv:墨西拿海峡
@@ -29511,6 +29535,7 @@ metal had been:金属已经
 metal half dollar:金属半美元
 metal half:金属半
 metal halide and sodium:金属卤化物和钠
+metal halide lamp:金属卤化物灯
 metal halide lamp:金屬鹵化物燈
 metal halide:金属卤化物
 metal halides:金属卤化物
@@ -29534,6 +29559,7 @@ metal heat sink:金属散热片
 metal heat:金属热
 metal heaven:金属天堂
 metal help:金属帮助
+metal hero series:金属英雄系列
 metal hero series:金屬英雄系列
 metal hero:金属英雄
 metal high:金属高
@@ -30719,6 +30745,7 @@ meter oxidation:米氧化
 meter peak:米峰值
 meter per hour:米每小时
 meter per month:米每月
+meter per second:米每秒
 meter per:米每
 meter perimeter:米周长
 meter perpendicular wall:米垂直墙
@@ -33014,6 +33041,7 @@ metriorhynchus:中喙鳄属
 metrizable space:乌雷松度量化定理
 metro 14:地铁14号线
 metro 4 foundation:捷四基地
+metro a line:地铁一线
 metro a:羅馬地鐵a線
 metro administration:地铁管理
 metro adventure:地铁冒险
@@ -34564,6 +34592,7 @@ mexico do:墨西哥做
 mexico doctor:墨西哥医生
 mexico does:墨西哥做
 mexico don't:墨西哥不
+mexico drug war:墨西哥毒品战争
 mexico due to:墨西哥由于
 mexico earlier this year:墨西哥今年早些时候
 mexico earthquake:墨西哥地震
@@ -34591,6 +34620,7 @@ mexico fireworks:墨西哥烟火
 mexico five:墨西哥五
 mexico flour:墨西哥面粉
 mexico food:墨西哥食品
+mexico football association:墨西哥足球协会
 mexico football:墨西哥足球
 mexico for the first time:墨西哥第一次
 mexico foreign minister:墨西哥外交部长

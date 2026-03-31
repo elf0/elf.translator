@@ -951,6 +951,7 @@ road traffic death:道路交通死亡
 road traffic decrease:道路交通减少
 road traffic environmental protection:道路交通环保
 road traffic experts:道路交通专家
+road traffic incident:道路交通事故
 road traffic information:道路交通信息
 road traffic infrastructure:道路交通基础设施
 road traffic isolation facilities:道路交通隔离设施
@@ -1538,6 +1539,7 @@ robert burns:罗伯特伯恩斯
 robert caldwell:罗伯特考德威尔
 robert cali:罗伯特卡利
 robert call:罗伯特打电话给
+robert campbell highway:罗伯特坎贝尔公路
 robert can tell you:罗伯特可以告诉你
 robert carter:罗伯特卡特
 robert carver:罗伯特卡弗
@@ -1593,6 +1595,7 @@ robert goddard:罗伯特戈达德
 robert gode:罗伯特戈德
 robert gordon university currently:罗伯特戈登大学目前
 robert gordon university:罗伯特戈登大学
+robert gordon university:罗伯特戈登大學
 robert gordon:罗伯特戈登
 robert govett:郭维德
 robert grant:罗伯特格兰特
@@ -3799,6 +3802,7 @@ roches sur marne:马恩河畔罗什
 rochessauve:罗什索沃
 rochesson:罗谢松
 rochester airport:羅徹斯特機場
+rochester and strood:羅徹斯特和斯特魯德
 rochester castle:羅切斯特城堡
 rochester cathedral:羅徹斯特座堂
 rochester college:羅徹斯特學院
@@ -4130,6 +4134,7 @@ rock looks like:岩石看起来像
 rock magnetism:岩石磁
 rock magnetism:岩石磁性
 rock mass analysis:岩石质量分析
+rock mass classification:岩石质量分类
 rock mass:岩石质量
 rock master:岩石大师
 rock material:岩石材料
@@ -4751,6 +4756,7 @@ rocket room:火箭房间
 rocket said:火箭说
 rocket satellite:火箭卫星
 rocket science and google:火箭科学和谷歌
+rocket science games:火箭科学游戏
 rocket science trying:火箭科学试图
 rocket science:火箭科学
 rocket scientist robert:火箭科学家罗伯特
@@ -5310,6 +5316,7 @@ rogers and alfred:罗杰斯和阿尔弗雷德
 rogers and allen:罗杰斯和艾伦
 rogers and andrew:罗杰斯和安德鲁
 rogers and foreign minister:罗杰斯和外交部长
+rogers and hammerstein:罗杰斯和哈默施泰因
 rogers and her colleague:罗杰斯和她的同事
 rogers and her colleagues:罗杰斯和她的同事
 rogers and her students:罗杰斯和她的学生
@@ -6094,6 +6101,7 @@ rolex hopes:劳力士希望
 rolex invent:劳力士发明
 rolex journal:劳力士日志
 rolex laboratory:劳力士实验室
+rolex learning center:劳力士学习中心
 rolex learning:劳力士学习
 rolex logo:劳力士标志
 rolex master:劳力士大师
@@ -6309,6 +6317,7 @@ roma ostiense railway station:羅馬奧斯蒂恩塞車站
 roma parish:罗马教区
 roma people:羅馬人民
 roma street railway station:羅馬街站
+roma street station:羅馬街站
 roma street:罗马街
 roma street:羅馬街道
 roma termini railway station:罗马特米尼车站
@@ -8488,6 +8497,7 @@ roman catholic president:罗马天主教的总统
 roman catholic priest:罗马天主教的祭司
 roman catholic principles:罗马天主教的原则
 roman catholic religious belief:罗马天主教的宗教信仰
+roman catholic saint:罗马天主教圣人
 roman catholic saint:罗马天主教的圣
 roman catholic statue:罗马天主教的雕像
 roman catholic study:罗马天主教的研究
@@ -8661,6 +8671,7 @@ roman elite:罗马精英
 roman emperor caligula:羅馬皇帝卡利古拉
 roman emperor constantine:羅馬皇帝君士坦丁
 roman emperor diocletian:羅馬皇帝戴克里先
+roman emperor hadrian:罗马皇帝哈德良
 roman emperor hadrian:羅馬皇帝哈德良
 roman emperor john:罗马皇帝约翰
 roman emperor julian:羅馬皇帝朱利安
@@ -9724,6 +9735,7 @@ romanian films:罗马尼亚电影
 romanian finance minister:罗马尼亚财政部长
 romanian flag:罗马尼亚旗
 romanian food:罗马尼亚食物
+romanian football association:罗马尼亚足球协会
 romanian football federation:羅馬尼亞足球總會
 romanian football:罗马尼亚足球
 romanian foreign minister:罗马尼亚外交部长
@@ -9941,6 +9953,7 @@ romanian suurlähetystö:罗马尼亚大使馆
 romanian systems engineer:罗马尼亚系统工程师
 romanian teacher:罗马尼亚的教师
 romanian team:罗马尼亚队
+romanian television company:罗马尼亚电视公司
 romanian tennis player:罗马尼亚网球运动员
 romanian tennis:罗马尼亚网球
 romanian territory:罗马尼亚的领土
@@ -9976,6 +9989,7 @@ romanian women and children:罗马尼亚妇女和儿童
 romanian women:罗马尼亚女人
 romanian women:罗马尼亚妇女
 romanian worker:罗马尼亚工人
+romanian workers party:罗马尼亚工人党
 romanian workers:罗马尼亚工人
 romanian writer norman:罗马尼亚作家诺曼
 romanian writer:罗马尼亚作家
@@ -13673,6 +13687,7 @@ root failure:根失败
 root fiber:根纤维
 root fibre:根纤维
 root file system:根文件系统
+root file systems:根文件系统
 root file:根文件
 root files:根文件
 root finding algorithm:求根算法
@@ -14189,6 +14204,8 @@ rose black tea:玫瑰红茶
 rose books:玫瑰书
 rose bowl game:玫瑰碗
 rose bowl game:玫瑰碗赛
+rose bowl stadium:玫瑰碗体育场
+rose bowl stadium:玫瑰碗體育場
 rose bowl:玫瑰碗
 rose box:玫瑰盒子
 rose bradford:玫瑰布拉德福德
@@ -14274,6 +14291,7 @@ rose forest:玫瑰森林
 rose fossil:玫瑰化石
 rose foundation:玫瑰基金
 rose from:玫瑰从
+rose garden arena:玫瑰花园竞技场
 rose garden of the white house:白宫玫瑰园
 rose garden:寶苑
 rose garden:月季园
@@ -15192,6 +15210,7 @@ rot:腐
 rota council:罗塔委员会
 rota d'imagna:罗塔迪马尼亚
 rota greca:罗塔格雷卡
+rota international airport:罗塔国际机场
 rota international airport:羅塔國際機場
 rota island:罗塔岛
 rota naval base:罗塔海军基地
@@ -18070,6 +18089,7 @@ royal admiral:皇家海軍上將
 royal adventure:皇家冒险
 royal aerospace:皇家航空航天
 royal aesthetics:皇家美学
+royal africa company:皇家非洲公司
 royal african companies:皇家非洲公司
 royal african company:皇家非洲公司
 royal african pearl:皇家非洲珍珠
@@ -18113,7 +18133,9 @@ royal albert house:皇家阿尔伯特音乐厅
 royal albert:皇家阿尔伯特
 royal albion:皇家阿尔比恩
 royal alex:皇家亚历克斯
+royal alexander theatre:皇家亚历山大剧院
 royal alexandra hospital:皇家亚历山大医院
+royal alexandra theatre:皇家亚历山大剧院
 royal alexandra theatre:皇家亞歷珊卓劇院
 royal alley:皇家巷
 royal alliance:皇家联盟
@@ -18171,6 +18193,7 @@ royal army:皇家军队
 royal army:皇家陆军
 royal arrangement:皇家安排
 royal arsenal:皇家兵工廠
+royal art academy:皇家艺术学院
 royal art museum:皇家艺术博物馆
 royal art:皇家艺术
 royal artillery museum:皇家砲兵博物館
@@ -18213,6 +18236,7 @@ royal baby george:皇家婴儿乔治
 royal baby name:皇家婴儿名称
 royal baby:皇家婴儿
 royal babylon:皇家巴比伦
+royal baccarat scandal:皇家百家樂醜聞
 royal badge of wales:威尔士皇家徽章
 royal badge of wales:威爾斯皇家徽章
 royal badge:皇家徽章
@@ -18221,6 +18245,7 @@ royal bafokeng stadium:皇家班巴夫肯球場
 royal bahrain:皇家巴林
 royal bali ximending:皇家巴黎會館
 royal ball:皇家球
+royal ballet school:皇家芭蕾舞学校
 royal ballet school:皇家芭蕾舞學院
 royal ballet:皇家芭蕾舞
 royal ballroom:皇家舞厅
@@ -18308,6 +18333,7 @@ royal botanical garden:皇家植物園
 royal bottom:皇家底
 royal boundary:皇家边界
 royal bournemouth hospital:皇家伯恩茅斯医院
+royal bournemouth hospital:皇家伯恩茅斯醫院
 royal bournemouth:皇家伯恩茅斯
 royal box:皇家的盒子
 royal box:皇家盒子
@@ -18328,6 +18354,7 @@ royal brother:皇家兄弟
 royal brunei airlines:汶萊皇家航空
 royal brunei armed forces:汶萊軍事
 royal brunei:皇家文莱
+royal building academy:皇家建筑学院
 royal building authority:皇家建筑权威
 royal building:榮富大廈
 royal building:皇家大厦
@@ -18356,6 +18383,7 @@ royal canadian mounted police headquarters:加拿大皇家騎警總部
 royal canadian mounted police:加拿大皇家騎警
 royal canadian mounted police:皇家加拿大騎警
 royal canadian navy:加拿大皇家海軍
+royal canadian navy:皇家加拿大海军
 royal canadian whisky:皇家加拿大威士忌
 royal canadian yacht club:皇家加拿大游艇俱乐部
 royal canadian:皇家加拿大
@@ -18615,6 +18643,7 @@ royal dutch geographical society:荷兰皇家地理学会
 royal dutch navy:皇家荷兰海军
 royal dutch petroleum company:皇家荷兰石油公司
 royal dutch shell:皇家荷兰壳
+royal dutch shell:皇家荷兰壳牌
 royal dutch:皇家荷兰
 royal eagle:皇家鹰
 royal easter:皇家复活节
@@ -18840,6 +18869,7 @@ royal george hotel:皇家乔治酒店
 royal george theatre:皇家乔治剧院
 royal george:皇家乔治
 royal giant:皇家巨人
+royal gibraltar police:皇家直布罗陀警察
 royal gibraltar police:皇家直布羅陀警察
 royal gibraltar post office:皇家直布罗陀邮局
 royal gibraltar:皇家直布罗陀
@@ -18871,6 +18901,7 @@ royal greenhouses of laeken:拉肯皇家溫室
 royal greenland academy:皇家格陵兰学院
 royal greenland own:皇家格陵兰拥有
 royal greenland:皇家格陵兰
+royal greenwich observatory:皇家格林尼治天文台
 royal greenwich:皇家格林尼治
 royal griffin:皇家狮鹫
 royal group building:來來集團大廈
@@ -19007,6 +19038,7 @@ royal jubilee:海禧華庭
 royal judge:皇家法官
 royal kensington and chelsea:肯辛頓和切爾西區
 royal khmer airlines:皇家高棉航空
+royal khmer aviation:皇家高棉航空
 royal khmer university became:皇家高棉大学成为
 royal khmer:皇家高棉
 royal king:皇家国王
@@ -19020,6 +19052,7 @@ royal knight:皇家骑士
 royal knoll block 1:豪峰嶺第一座
 royal knoll block 2:豪峰嶺第二座
 royal kurgan:皇家库尔干
+royal lake resort:皇家湖度假村
 royal lake:皇家湖
 royal lancaster:皇家蘭卡斯特
 royal lancer:皇家槍騎兵
@@ -19028,9 +19061,12 @@ royal land grant:皇家土地授予
 royal land:皇家土地
 royal landmark:皇家地标
 royal lao air force:老挝王国空军
+royal lao army:皇家老挝陆军
 royal lao government in exile:老挝王家流亡政府
+royal lao government:皇家老挝政府
 royal lao government:老挝皇家政府
 royal lao police:老挝皇家警察
+royal laos army:皇家老挝陆军
 royal latin school:皇家拉丁学校
 royal law:皇家法律
 royal league:皇家联盟
@@ -19072,6 +19108,7 @@ royal livestock:皇家家畜
 royal lodge:皇家小屋
 royal logistic corps:皇家後勤部隊
 royal london hospital:皇家伦敦医院
+royal london hospital:皇家倫敦醫院
 royal london:皇家伦敦
 royal look:皇家看
 royal lottery:皇家彩票
@@ -19082,12 +19119,15 @@ royal magazine:皇家杂志
 royal magnolia:蘭芳閣
 royal mail company:皇家郵政公司
 royal mail hotel:皇家郵政酒店
+royal mail ship:皇家郵政船
 royal mail ship:英国皇家邮轮
 royal mail:皇家邮件
 royal mail:皇家郵政
 royal majesty:皇家陛下
 royal malay:皇家馬來
 royal malaysia police museum:马来西亚皇家警察博物馆
+royal malaysia police:皇家馬來西亞警察
+royal malaysia police:皇家马来西亚警察
 royal malaysia police:马来西亚皇家警察
 royal malaysian air force gong kedak camp:貢格達空軍基地
 royal malaysian air force gong kedak camp:贡格达空军基地
@@ -19099,6 +19139,7 @@ royal malaysian naval academy:馬來西亞皇家海軍學院
 royal malaysian naval academy:马来西亚皇家海军学院
 royal malaysian navy:馬來西亞皇家海軍
 royal malaysian navy:马来西亚皇家海军
+royal malaysian police:皇家马来西亚警察
 royal malaysian:皇家马来西亚
 royal malta:皇家马耳他
 royal manas national park:皇家瑪納斯國家公園
@@ -19112,6 +19153,7 @@ royal map:皇家地图
 royal marechaussee:荷蘭皇家憲兵隊
 royal marina plaza:科尔海悦酒店
 royal marina plaza:科爾海悅酒店
+royal marines division:皇家海军陆战队师
 royal marines museum:皇家海軍陸戰隊博物館
 royal marines:皇家海军陆战队
 royal marines:皇家海軍陸戰隊
@@ -19282,6 +19324,7 @@ royal netherlands east indies army:荷兰皇家东印度陆军
 royal netherlands football association:皇家荷兰足球协会
 royal netherlands meteorological institute:荷兰皇家气象研究所
 royal netherlands navy currently:荷蘭皇家海軍目前
+royal netherlands navy:皇家荷兰海军
 royal netherlands navy:荷蘭皇家海軍
 royal netherlands:皇家荷兰
 royal new zealand air force:紐西蘭皇家空軍
@@ -19292,6 +19335,9 @@ royal new zealand police college:皇家新西兰警察学院
 royal new zealand:皇家新西兰
 royal newcastle:皇家纽卡斯尔
 royal news:皇家新闻
+royal niger companies:皇家尼日公司
+royal niger companies:皇家尼日尔公司
+royal niger company:皇家尼日公司
 royal niger company:皇家尼日尔公司
 royal niger:皇家尼日尔
 royal nigeria company increasingly:皇家尼日利亚公司越来越多地
@@ -19307,6 +19353,7 @@ royal noble consort uibin seong:宜嬪成氏
 royal noble consort wonbin hong:元嬪洪氏
 royal noble consort yeongbin yi:暎嬪李氏
 royal noble:皇家贵族
+royal norfolk regiment:皇家诺福克团
 royal north devon:皇家北德文郡
 royal north shore hospital:皇家北岸醫院
 royal north:皇家北
@@ -19314,6 +19361,7 @@ royal northern college of music:皇家北方音乐学院
 royal northumberland fusiliers:皇家诺森柏兰燧发枪团
 royal norwegian air force:挪威皇家空军
 royal norwegian navy:挪威皇家海軍
+royal norwegian navy:皇家挪威海军
 royal norwegian society of sciences and letters:挪威皇家科学与文学院
 royal norwegian:皇家挪威
 royal notary:皇家公证人
@@ -19328,6 +19376,7 @@ royal officials:皇家官员
 royal one:皇家一
 royal one:皇家的一
 royal ontario museum:皇家安大略博物館
+royal ontario museum:皇家安大略博物馆
 royal opera house:皇家歌剧院
 royal opera house:皇家歌劇院
 royal opera:皇家歌剧
@@ -19407,6 +19456,7 @@ royal pari:皇家巴黎
 royal park foundation half marathon:皇家公园基金半程马拉松
 royal park hotel:帝都酒店
 royal park station:皇家公园站
+royal park station:皇家公園站
 royal park theatre:皇家公园剧院
 royal park:复兴公园
 royal park:御園
@@ -19541,6 +19591,7 @@ royal relationship:皇家关系
 royal relic:皇家遗物
 royal representatives:皇家的代表
 royal rescue:皇家救援
+royal research ship:皇家研究船
 royal research:皇家研究
 royal resolution:皇家分辨率
 royal resort:皇家度假村
@@ -19702,7 +19753,10 @@ royal soldier:皇家士兵
 royal solomon islands police force:所罗门群岛皇家警察部队
 royal sovereign class battleship:君權級戰艦
 royal space:皇家空间
+royal spanish academy:皇家西班牙学院
 royal spanish academy:西班牙皇家学院
+royal spanish college:皇家西班牙学院
+royal spanish college:皇家西班牙學院
 royal spanish football federation:西班牙皇家足球協會
 royal spanish:皇家西班牙
 royal spanish:皇家西班牙人
@@ -19756,6 +19810,7 @@ royal sydney yacht squadron:皇家悉尼遊艇中隊
 royal sydney:皇家悉尼
 royal tag:皇家标签
 royal tank corps:皇家坦克兵团
+royal tank museum:皇家坦克博物馆
 royal tank regiment:皇家坦克团
 royal tank regiment:皇家坦克團
 royal tank:皇家坦克
@@ -19777,6 +19832,7 @@ royal thai air force:泰國皇家空軍
 royal thai armed forces:泰国皇家军队
 royal thai army:泰國皇家陸軍
 royal thai army:皇家泰国军队
+royal thai army:皇家泰国陆军
 royal thai consulate general in nanning:泰王国驻南宁总领事馆
 royal thai consulate general in penang:泰国驻槟城领事馆
 royal thai consulate general in xi'an:泰王国驻西安总领事馆
@@ -19831,6 +19887,7 @@ royal troops:皇家军队
 royal tunbridge wells:皇家坦布里奇韦尔斯
 royal turtle nest:皇家海龟巢
 royal turtle:皇家海龟
+royal typewriter company:皇家打字机公司
 royal typewriter:皇家打字机
 royal tyrrell museum of palaeontology:加拿大皇家蒂勒尔博物馆
 royal ulster constabulary:皇家阿爾斯特警察
@@ -19852,12 +19909,16 @@ royal vassal:皇家的附庸
 royal venue:皇家场所
 royal veterinary college:皇家獸醫學院
 royal victoria dlr station:皇家維多利亞站
+royal victoria dock:皇家維多利亞碼頭
 royal victoria dock:皇家维多利亚码头
 royal victoria hall:皇家维多利亚大厅
+royal victoria hospital:皇家維多利亞醫院
 royal victoria hospital:皇家维多利亚医院
 royal victoria hotel:dìyuán wéiduōlìyà dàjiŭdiàn
 royal victoria hotel:帝元维多利亚大酒店
+royal victoria park:皇家維多利亞公園
 royal victoria park:皇家维多利亚公园
+royal victoria station:皇家維多利亞站
 royal victoria station:皇家维多利亚站
 royal victoria theatre:皇家维多利亚剧院
 royal victoria:皇家維多利亞
@@ -19905,6 +19966,7 @@ royal women:皇家妇女
 royal worcester:烏斯特瓷器
 royal world:皇家世界
 royal writer:皇家作家
+royal yacht britannia:皇家遊艇不列顛尼亞號
 royal yacht club:皇家游艇俱乐部
 royal yacht:皇家快艇
 royal yacht:皇家遊艇

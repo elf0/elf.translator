@@ -1156,12 +1156,15 @@ us band:美国乐队
 us bangla airlines:孟加拉優速航空
 us bank account:美国银行账户
 us bank card:美国银行卡
+us bank center:美国银行中心
 us bank conference:美国银行会议
 us bank morgan stanley:美国银行摩根士丹利
 us bank morgan:美国银行摩根
+us bank stadium:美国银行体育场
 us bank stadium:美国银行体育馆
 us bank stadium:美国银行运动场
 us bank:美国银行
+us bankruptcy court:美国破产法院
 us bankruptcy negotiations:美国破产谈判
 us bankruptcy:美国破产
 us banks debate:美国银行辩论
@@ -1179,6 +1182,7 @@ us based:美国基于
 us basic:我们基本的
 us basketball player:美国篮球运动员
 us basketball shoe:美国篮球鞋
+us basketball team:美国篮球队
 us basketball:美国篮球
 us battery manufacturer:美国电池制造商
 us battery:美国电池
@@ -1455,6 +1459,8 @@ us cell biologist:美国细胞生物学家
 us cell:美国细胞
 us cellular network:美国蜂窝网络
 us cement:美国水泥
+us census bureau:美国人口普查局
+us census bureau:美国普查局
 us census:美国人口普查
 us center:我们中心
 us center:美国中心
@@ -1497,6 +1503,7 @@ us chemical weapon:美国化学武器
 us chemistry:我们化学
 us chemistry:美国化学
 us chess champion:美国国际象棋冠军
+us chess championship:美国国际象棋锦标赛
 us chess championship:美國國際象棋錦標賽
 us chess:美国国际象棋
 us chicken legs:美国鸡腿
@@ -1588,6 +1595,7 @@ us client account:美国客户账户
 us client:美国客户
 us clients:美国客户
 us climate action network:美国气候行动网络
+us climate alliance:美国气候联盟
 us climate change:美国气候变化
 us climate model:美国气候模型
 us climate policy:美国气候政策
@@ -1799,6 +1807,7 @@ us cooperate:美国合作
 us cooperation:美国合作
 us copper:美国铜
 us copyright law:美国版权法律
+us copyright office:美国版权办公室
 us copyright:我们版权
 us copyright:美国版权
 us core inflation:美国核心通胀
@@ -2139,6 +2148,7 @@ us east coast to us:美国东海岸到美国
 us east coast trade:美国东海岸贸易
 us east coast:美国东岸
 us east coast:美国东海岸
+us east coast:美国東岸
 us east-coast:美国东海岸
 us east:我们东
 us east:美国东
@@ -2540,6 +2550,7 @@ us food waste:美国食品垃圾
 us food:我们食物
 us food:美国食品
 us food:美国食物
+us football association:美国足球协会
 us football coach:美国足球教练
 us football:我们足球
 us football:美国足球
@@ -2736,6 +2747,7 @@ us god:我们上帝
 us god:我们神
 us gold coin:美国金币
 us gold:美国金
+us golf association:美国高尔夫球协会
 us golfer:美国高尔夫球手
 us good things:我们好的东西
 us good:我们善
@@ -3401,8 +3413,10 @@ us intermediate:美国中间
 us internal audit:美国内部审计
 us international development:美国国际发展
 us international investment:美国国际投资
+us international keyboard:美国国际键盘
 us international mathematical olympiad:美国国际数学奥林匹克
 us international trade:美国国际贸易
+us international university:美国国际大学
 us international:我们国际
 us international:美国国际
 us internet and social media:美国互联网和社交媒体
@@ -3529,6 +3543,7 @@ us jury order:美国陪审团命令
 us jury:美国陪审团
 us just:我们只
 us just:美国只
+us justice department:美国司法部门
 us justice:我们正义
 us keep our factories:我们保持我们的工厂
 us keep our:我们保持我们的
@@ -3565,6 +3580,7 @@ us korean war veteran:美国朝鲜战争老兵
 us korean war:美国朝鲜战争
 us kurds:美国库尔德人
 us label:美国标签
+us labor party:美国工人党
 us labor:美国劳动力
 us labor:美国工人
 us laboratory:美国实验室
@@ -3771,6 +3787,7 @@ us many years:我们许多年
 us many:我们很多
 us map:美国地图
 us mariana islands:美国马里亚纳群岛
+us marijuana party:美国大麻党
 us marines publication:美国海军陆战队出版
 us marines receive:美国海军陆战队收到
 us marines:美国海军陆战队
@@ -3867,6 +3884,7 @@ us might a composer:我们可能一个作曲家
 us might reject:美国可能拒绝
 us militarism:美国军国主义
 us militarization:美国军事化
+us military academy:美国军事学院
 us military academy:美国军校
 us military action:美国军事行动
 us military aid:美国军事援助
@@ -3887,6 +3905,7 @@ us military force:美国军事力量
 us military government:美国军政府
 us military hardware:美国军事硬件
 us military hero:美国军事英雄
+us military history:美国军事历史
 us military hospital:美国军队医院
 us military institutions:美国军事机构
 us military intervention:美国军事干预
@@ -4068,6 +4087,7 @@ us navy arctic:美国海军北极
 us navy aviation unit:美国海军航空单位
 us navy aviation:美国海军航空
 us navy award:美国海军授予
+us navy band:美国海军乐队
 us navy base:美国海军基地
 us navy began:美国海军开始
 us navy boat:美国海军船
@@ -4411,6 +4431,7 @@ us own:美国拥有
 us pacific air force:美国太平洋空军
 us pacific army:美国太平洋陆军
 us pacific fleet:美国太平洋舰队
+us pacific fleet:美国太平洋艦隊
 us pacific northwest:美国太平洋西北地区
 us pacific ocean:美国太平洋
 us pacific standard time:美国太平洋标准时间
@@ -4431,6 +4452,7 @@ us parents:我们家长
 us parents:我们父母
 us parents:美国家长
 us parents:美国父母
+us park police:美国公园警察
 us park:美国公园
 us parliamentary system:美国议会制
 us parse:我们分析
@@ -4526,6 +4548,7 @@ us physicist:美国物理学家
 us pickup truck:美国皮卡
 us picture:我们照片
 us pig:美国猪
+us pirate party:美国海盗党
 us plan:我们计划
 us plan:美国计划
 us plans:美国计划
@@ -5006,6 +5029,7 @@ us ronald:我们罗纳德
 us rouse:我们唤醒
 us route:美国路线
 us rowing:美国划船
+us rubber company:美国橡胶公司
 us rubber manufacturer:美国橡胶制造商
 us rubber:美国橡胶
 us rugby:美国橄榄球
@@ -6024,6 +6048,7 @@ us weapons historian:美国武器历史学家
 us weapons manufacturers would:美国武器制造商将
 us weapons:我们武器
 us weapons:美国武器
+us weather bureau:美国天气局
 us weather forecasting:美国天气预报
 us weather:美国天气
 us web design:美国网页设计
@@ -6035,6 +6060,7 @@ us welcome:我们欢迎
 us welcome:美国欢迎
 us west coast market:美国西岸市场
 us west coast training:美国西海岸培训
+us west coast:美国西岸
 us west coast:美国西海岸
 us west texas:美国西德克萨斯
 us west:美国西
@@ -6241,6 +6267,8 @@ usa aircraft:美国飞机
 usa airline:美国航空公司
 usa airport:美国机场
 usa airstrike:美国空袭
+usa alaska anchorage:美國阿拉斯加州安克雷奇
+usa alaska juneau:美国阿拉斯加州朱诺
 usa alaska:美國阿拉斯加州
 usa all:美国所有
 usa all:美国所有的
@@ -6264,6 +6292,7 @@ usa and cambodia:美国和柬埔寨
 usa and canada network:美国和加拿大网络
 usa and canada:美国与加拿大
 usa and canada:美国和加拿大
+usa and canada:美國和加拿大
 usa and canadian buy:美国和加拿大的买
 usa and canadian:美国和加拿大
 usa and canadian:美国和加拿大的
@@ -6863,6 +6892,8 @@ usa river:美國河
 usa river:美國河流
 usa road trip:美国公路旅行
 usa rugby coach:美国橄榄球教练
+usa rugby league:美国橄榄球联盟
+usa rugby union:美国橄榄球联盟
 usa rugby:美国橄榄球
 usa said:美国说
 usa sailor:美国水手
@@ -17333,6 +17364,7 @@ user structure:用户结构
 user studies and experiment:用户研究和实验
 user studies:用户研究
 user study:用户研究
+user sub page:用户子页
 user sub:用户子
 user submission:用户提交
 user subnet:用户子网
@@ -17479,6 +17511,7 @@ user wake:用户醒
 user wallet:用户钱包
 user want to know:用户想知道
 user want:用户想要
+user warning template:用户警告模板
 user warning:用户警告
 user was not enough:用户是不够的
 user watch:用户观看
