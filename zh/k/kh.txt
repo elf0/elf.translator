@@ -24,6 +24,8 @@ khabarovsk (vùng):哈巴罗夫斯克边疆区
 khabarovsk (vùng):哈巴羅夫斯克邊疆區
 khabarovsk - fuyuan:哈巴罗夫斯克—抚远
 khabarovsk airlines:哈巴罗夫斯克航空
+khabarovsk airport:伯力机场
+khabarovsk airport:伯力機場
 khabarovsk bridge:哈巴羅夫斯克大橋
 khabarovsk krai:伯力边疆区
 khabarovsk krai:伯力邊疆區
@@ -179,6 +181,7 @@ khajoori khas:卡乔奥里卡斯
 khaju bridge:哈鸠橋
 khaju bridge:郝久古桥
 khajuraho airport:克久拉霍机场
+khajuraho airport:克久拉霍機場
 khajuraho:克久拉霍
 khajurâho:克久拉霍
 khajyn:哈任
@@ -257,6 +260,7 @@ kham bu:kāngbù xiāng
 kham bu:康布乡
 kham bu:康布鄉
 kham keut:披耶康吉
+kham people:康民
 kham tam sa:披耶巴
 kham thien street:钦天街
 kham-táng-hiông:崁頂鄉
@@ -561,6 +565,7 @@ kharkiv choral synagogue:哈爾科夫合唱猶太會堂
 kharkiv government building airstrike:哈爾科夫政府大樓空襲
 kharkiv institute of physics and technology:哈尔科夫物理技术研究所
 kharkiv international airport:哈爾科夫國際機場
+kharkiv metro:哈尔科夫地铁
 kharkiv metro:哈爾科夫地鐵
 kharkiv morozov machine building design bureau:哈尔科夫机械制造设计局
 kharkiv national kotlyarevsky university of arts:哈尔科夫国立艺术学院
@@ -571,11 +576,15 @@ kharkiv oblast:哈爾科夫地州
 kharkiv oblast:哈爾科夫州
 kharkiv oblasta:哈爾科夫地州
 kharkiv oblastı:哈爾科夫地州
+kharkiv offensive:哈尔科夫攻势
 kharkiv opera house:哈爾科夫歌劇院
 kharkiv polytechnic institute:哈尔科夫理工学院
 kharkiv railway station:哈爾科夫車站
 kharkiv raion:哈尔科夫区
 kharkiv raion:哈爾科夫區
+kharkiv region:哈尔科夫军区
+kharkiv region:哈尔科夫地区
+kharkiv river:哈爾科夫河
 kharkiv sritis:哈爾科夫地州
 kharkiv state academy of design and arts:哈爾科夫設計與藝術學院
 kharkiv séng:哈爾科夫地州
@@ -583,6 +592,9 @@ kharkiv terület:哈爾科夫地州
 kharkiv tractor plant:哈尔科夫拖拉机厂
 kharkiv tv tower:哈尔科夫电视塔
 kharkiv ukrainian drama theatre:哈爾科夫烏克蘭模範劇院
+kharkiv university:哈尔科夫大学
+kharkiv university:哈爾科夫大学
+kharkiv university:哈爾科夫大學
 kharkiv vilayəti:哈爾科夫地州
 kharkiv vilâyeti:哈爾科夫地州
 kharkiv:哈尔科夫
@@ -627,6 +639,7 @@ khartom:喀土穆
 khartonivtsi:哈爾托尼夫齊
 khartoum accuse:喀土穆指控
 khartoum airport:喀土穆机场
+khartoum airport:喀土穆機場
 khartoum army:喀土穆军队
 khartoum break:喀土穆打破
 khartoum central government:喀土穆中央政府
@@ -642,15 +655,18 @@ khartoum jail:喀土穆监狱
 khartoum massacre:喀土穆大屠殺
 khartoum more:喀土穆更多
 khartoum north:北喀土穆
+khartoum province:喀土穆省
 khartoum rally:喀土穆集会
 khartoum regime:喀土穆政权
 khartoum says:喀土穆说
 khartoum sometimes:喀土穆有时
+khartoum stadium:喀土穆體育場
 khartoum state government proposed:喀土穆州政府提出
 khartoum state government:喀土穆州政府
 khartoum state:喀土穆州
 khartoum through:喀土穆通过
 khartoum university:喀土穆大学
+khartoum university:喀土穆大學
 khartoum:喀土穆
 khartoum:喀土穆州
 khartse la:卡策拉
@@ -671,9 +687,12 @@ kharytonivka:哈里托尼夫卡
 khas people:卡斯人
 khasa kingdom:亚泽王朝
 khasab airport:海塞卜机场
+khasab airport:海塞卜機場
 khasab:海塞卜
+khasan lake:哈桑湖
 khasan railway station:哈桑
 khasan railway station:哈桑站
+khasan station:哈桑站
 khasan:哈桑
 khasan:哈桑湖
 khasansky district:哈桑区
@@ -717,6 +736,7 @@ khata:哈达
 khatanbulag:哈坦布拉格苏木
 khatanbulag:哈腾布拉格苏木
 khatanga gulf:哈坦加灣
+khatanga river:哈坦加河
 khatanga:哈坦加
 khatangabukta:哈坦加灣
 khatauli rural:卡陶利鲁拉尔
@@ -729,6 +749,7 @@ khathog monastery:卡拖寺
 khatib bongsu park connector:卡迪蒙苏公园连道
 khatib camp:卡迪军营
 khatib mrt station:卡迪地铁站
+khatib station:卡迪站
 khatib:卡迪
 khatib:海推布
 khatiguda:卡蒂古达
@@ -863,6 +884,7 @@ khemis el khechna district:海米斯海什納區
 khemis el khechna:海米斯海什納
 khemis miliana district:海米斯米利亞納區
 khemis miliana:海米斯米利亞納
+khemisset province:海米萨特省
 khemisset:海米萨特
 khemkaran:凯姆卡兰
 khenchela eanangoddi:汉舍莱省
@@ -931,10 +953,13 @@ kherson governorate:赫爾松省
 kherson international airport:赫尔松国际机场
 kherson international airport:赫爾松國際機場
 kherson oblast:赫尔松州
+kherson offensive:赫尔松攻势
 kherson province:赫尔松省
 kherson railway station:赫爾松車站
 kherson raion:赫尔松区
+kherson region:赫尔松军区
 kherson region:赫尔松地区
+kherson regions:赫尔松地区
 kherson urban hromada:赫尔松市镇
 kherson watermelon:赫爾松西瓜
 kherson:赫尔松
@@ -979,6 +1004,7 @@ khim-chiu-chhī:qīnzhōu shì
 khim-chiu-chhī:欽州市
 khim-chiu-chhī:钦州市
 khimki forest park:希姆基森林公园
+khimki forest:希姆基森林
 khimki genius:希姆基天才
 khimki hospital:希姆基医院
 khimki want:希姆基想要
@@ -1126,6 +1152,7 @@ khmelnytskyi oblast:赫梅利尼茨基州
 khmelnytskyi railway station:赫梅利尼茨基車站
 khmelnytskyi raion:赫梅利尼茨基区
 khmelnytskyi raion:赫梅利尼茨基區
+khmelnytskyi uprising:赫梅利尼茨基起义
 khmelnytskyi:赫梅利尼茨基
 khmelnytskyj oblast:赫梅利尼茨基州
 khmelnytskyj:赫梅利尼茨基
@@ -1134,10 +1161,12 @@ khmelychtche:赫梅利謝
 khmelyshche:赫梅利謝
 khmelyska:赫梅利西卡
 khmer activist:高棉活动家
+khmer alphabet:高棉字母
 khmer and indonesia:高棉和印度尼西亚
 khmer and malay:高棉和馬來
 khmer architects:高棉建筑师
 khmer architectural style:高棉建筑风格
+khmer architecture:高棉建筑
 khmer army:高棉军队
 khmer art:高棉艺术
 khmer capital:高棉首都
@@ -1180,10 +1209,13 @@ khmer loeu:高地高棉人
 khmer martial art:高棉武术
 khmer massage:高棉按摩
 khmer music:高棉音乐
+khmer mythology:高棉神话
 khmer national armed forces:高棉國家軍隊
 khmer national solidarity party:高棉民族团结党
+khmer nationalism:高棉民族主义
 khmer nationalism:高棉民族主義
 khmer new year:高棉新年
+khmer numbers:高棉数字
 khmer numerals:高棉數字
 khmer peasants:高棉农民
 khmer people's national liberation front:高棉人民民族解放阵线
@@ -1280,6 +1312,7 @@ khoang la san mountain:十層大山
 khobar:寇巴尔
 khobi municipality:霍比市
 khobi municipality:霍比市鎮
+khobi river:霍比河
 khobi:霍比
 khobi:霍比河
 khobin piirikunta:霍比市
@@ -1328,6 +1361,7 @@ khoisan languages:科伊桑语系
 khoisan:科伊桑人
 khoja niyas hajji rebellion:托克逊战役
 khoja niyaz:和加尼牙孜
+khojaly airport:霍賈雷機場
 khojaly district:霍賈雷區
 khojaly massacre:霍賈利大屠殺
 khojaly:霍賈雷
@@ -1372,6 +1406,7 @@ khomasi ringkond:霍马斯区
 khomeini's letter to mikhail gorbachev:霍梅尼致信戈尔巴乔夫
 khomeinism:霍梅尼主义
 khomeni schrein:霍梅尼陵墓
+khomeyn county:霍梅恩县
 khomeyn:霍梅恩
 khomeynishahr:霍梅尼沙赫爾
 khomianka:霍緬卡
@@ -1458,9 +1493,12 @@ khoptianka:霍普強卡
 khopyor:霍皮奧爾河
 khor fakkan:豪尔费坎港
 khor fakkan:豪爾費坎
+khor river:霍尔河
 khor virap:霍爾維拉普
 khor:霍尔
 khora:宏創方
+khorasan arabic:呼罗珊阿拉伯语
+khorasan arabs:呼罗珊阿拉伯人
 khorasan branch:呼罗珊分支
 khorasan meridionale:南呼罗珊省
 khorasan meridionale:南呼羅珊省
@@ -1533,6 +1571,7 @@ khorosna:霍羅斯納
 khorostets:霍羅斯捷齊
 khorostkiv:霍羅斯特基夫
 khoroujivka:霍魯日夫卡
+khorramabad airport:霍拉馬巴德機場
 khorramabad:霍拉馬巴德
 khorramdarreh:霍拉姆達雷
 khorramshahr and aba:霍拉姆沙赫尔和阿巴
@@ -1554,6 +1593,7 @@ khorāsān-e razavī provints:禮薩呼羅珊省
 khorāsān-e shomali:北呼罗珊省
 khorāsān-e shomali:北呼羅珊省
 khoshut khanate:和硕特汗国
+khoshut khanate:和硕特汗國
 khoshut:和硕特
 khosilot farkhor:法霍收獲足球會
 khosrov i:霍斯羅夫一世
@@ -1579,6 +1619,8 @@ khotan river:和田河
 khotiachiv:霍季亞奇夫
 khotiatchiv:霍季亞奇夫
 khotimlia:霍季姆利亞
+khotin fortress:霍京要塞
+khotin uprising:霍京起义
 khotin:霍京
 khotin:霍廷
 khotine:霍廷
@@ -1594,6 +1636,7 @@ khotsoun:霍聰
 khotsun:霍聰
 khotyn fortress:霍京要塞
 khotyn raion:霍京區
+khotyn uprising:霍京起义
 khotyn:霍京
 khotynets:霍特涅茨
 khotynetsky district:霍特涅茨區
@@ -1623,6 +1666,7 @@ khouèng xékong:塞公省
 khovanshchina:霍望奇納
 khovanskoye cemetery:霍万斯基公墓
 khovd airport:科布多机场
+khovd airport:科布多機場
 khovd province:xīnbā'ěrhǔ yòu qí
 khovd province:科布多盟
 khovd province:科布多省
@@ -1631,6 +1675,7 @@ khovd sum:科布多苏木
 khovd séng:xīnbā'ěrhǔ yòu qí
 khovd séng:科布多盟
 khovd séng:科布多省
+khovd university:科布多大学
 khovd:xīnbā'ěrhǔ yòu qí
 khovd:科布多
 khovd:科布多盟
@@ -1645,6 +1690,7 @@ khowai:科瓦伊
 khowar:科瓦語
 khowst:霍斯特省
 khoy county:霍伊
+khoy county:霍伊县
 khoy thuon:贵敦
 khoy:霍伊
 khoyor melkhiit:双梅尔希特湖
@@ -1879,6 +1925,7 @@ khug thang:库让
 khui ma:昆馬
 khui ma:昆马
 khujand airport:苦盏机场
+khujand airport:苦盞機場
 khujand:苦盏
 khujand:苦盞
 khujirt airport:呼吉尔特机场
@@ -1910,6 +1957,7 @@ khulsanurus:胡山尾龙属
 khulunbuir:呼伦贝尔
 khumarawayh ibn ahmad ibn tulun:胡马赖韦
 khumba:斑馬總動員
+khumbu glacier:坤布冰川
 khumbu glacier:坤布冰河
 khumbu glacier:昆布冰川
 khumbu icefall:昆布冰瀑
@@ -1975,6 +2023,7 @@ khunjerab pass:红其拉甫山口
 khunjerab pass:红其拉甫达坂
 khunjerab port:红其拉甫口岸
 khunjerab port:红其拉甫港口
+khunjerab railway:红其拉甫铁路
 khunjerab road:hóngqí lāfǔ lù
 khunjerab road:红其拉普路
 khunjerab road:红其拉甫路

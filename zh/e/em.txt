@@ -23,6 +23,7 @@ email account:电子邮件账户
 email activities:电子邮件活动
 email activity:电子邮件活动
 email address and telephone number:電子郵件地址和電話號碼
+email address:电子邮件地址
 email address:電子郵件地址
 email addresses and business card:电子邮件地址和名片
 email addresses and domain name:电子邮件地址和域名
@@ -850,7 +851,9 @@ emancipation hall:解放大厅
 emancipation increase:解放增加
 emancipation increased:解放增加了
 emancipation is final:解放是最终的
+emancipation manifesto:解放宣言
 emancipation means:解放意味着
+emancipation memorial:解放纪念碑
 emancipation of africa:解放的非洲
 emancipation of jews:犹太人解放
 emancipation of labour:劳动解放社
@@ -858,6 +861,7 @@ emancipation of women:女人解放
 emancipation of women:妇女解放
 emancipation or reach:解放或达到
 emancipation park:解放公园
+emancipation party:解放党
 emancipation policy:解放政策
 emancipation power:解放力量
 emancipation principles:解放原则
@@ -2328,6 +2332,7 @@ embedded stage:嵌入阶段
 embedded standard:嵌入标准
 embedded statement:嵌入语句
 embedded structure:嵌入结构
+embedded submanifold:嵌入子流形
 embedded subtitles:嵌入的字幕
 embedded symbol:嵌入的符号
 embedded synthesizer:嵌入合成器
@@ -2371,6 +2376,8 @@ embedded system technology:嵌入式系统技术
 embedded system toolbox:嵌入式系统工具箱
 embedded system usually:嵌入式系统通常
 embedded system:嵌入式系统
+embedded system:嵌入系统
+embedded systems:嵌入系统
 embedded tail:嵌入的尾
 embedded technologies:嵌入技术
 embedded technology:嵌入技术
@@ -2381,6 +2388,7 @@ embedded timeline:嵌入的时间轴
 embedded timestamp:嵌入的时间戳
 embedded type information:嵌入类型信息
 embedded type:嵌入类型
+embedded use:嵌入使用
 embedded value report:内含价值报告
 embedded value results:内含价值结果
 embedded value:内含价值
@@ -2803,6 +2811,8 @@ emei bridge:峨嵋橋
 emei bridge:峨嵋橋頭
 emei hotel:峨眉山大酒店
 emei leaf warbler:峨眉柳莺
+emei mountain:峨嵋山
+emei mountain:峨眉山
 emei music frog:仙琴蛙
 emei parking lots:éméitíngchēchǎng
 emei parking lots:ㄜˊㄇㄟˊㄊㄧㄥˊㄔㄜㄔㄤˇ
@@ -3010,6 +3020,7 @@ emergency medical services:緊急醫療服務
 emergency medical technician:緊急醫療技術員
 emergency medicine education:急診醫學教育
 emergency medicine:急診醫學
+emergency medicine:急诊医学
 emergency need:紧急情况需要
 emergency needs:紧急情况需要
 emergency office:紧急情况办公室
@@ -3491,6 +3502,7 @@ emerichas:莱茵河畔埃默里希
 emerih am rajn:莱茵河畔埃默里希
 emeringen:埃默林根
 emerique:莱茵河畔埃默里希
+emeritus professor:榮譽退休教授
 emeritus:榮譽退休
 emerkingen:埃默京根
 emersacker:埃默斯阿克
@@ -4188,6 +4200,7 @@ emission investments:排放投资
 emission label:排放标签
 emission laboratory:排放实验室
 emission level:排放水平
+emission level:排放等级
 emission levels:排放水平
 emission limit and speed:排放限制和速度
 emission limit:排放限制
@@ -4825,6 +4838,7 @@ emlichheim:埃姆利希海姆
 emlingen:埃姆林根
 emm rock:埃姆岩
 emma avenue:艷馬道
+emma dahl:艾瑪達爾
 emma hopes:艾瑪希望
 emma island:艾瑪島
 emma miyazawa:宫泽艾玛
@@ -4871,6 +4885,7 @@ emmental cheese:埃曼塔尔干酪
 emmental:埃默河谷
 emmer:二粒小麦
 emmerbach:埃默巴赫河
+emmerdale farm:愛默戴爾農場
 emmerdale:愛默戴爾
 emmerek:莱茵河畔埃默里希
 emmerich am rhein:莱茵河畔埃默里希
@@ -4888,6 +4903,7 @@ emmerting:埃默廷
 emmerzhausen:埃默茨豪森
 emmet and his friends:埃米特和他的朋友
 emmet county:埃米特县
+emmet township:埃米特鎮區
 emmet township:埃米特镇区
 emmet wan:溫俊
 emmet:埃米特
@@ -6128,6 +6144,7 @@ emperor nam van centre:英皇南灣中心
 emperor name:皇帝姓名
 emperor napoleon ii:皇帝拿破仑二世
 emperor napoleon iii:皇帝拿破仑三世
+emperor napoleon:皇帝拿破崙
 emperor nearly:皇帝几乎
 emperor need:皇帝需要
 emperor needs:皇帝需要
@@ -6212,10 +6229,12 @@ emperor or empress:皇帝或皇后
 emperor order:皇帝命令
 emperor palace restaurant:海富海鮮酒家
 emperor palace:皇帝宫殿
+emperor palpatine:皇帝白卜庭
 emperor paul i:纪念碑帝paul我
 emperor paul:皇帝保罗
 emperor pedro i of brazil:巴西皇帝佩德罗一世
 emperor pedro i:皇帝佩德罗一世
+emperor penguin:皇帝企鵝
 emperor penguin:皇帝企鹅
 emperor peter i:皇帝彼得一世
 emperor peter iii:皇帝彼得三世
@@ -6860,7 +6879,10 @@ empire attract:帝国吸引
 empire award for best actor:帝國獎最佳男主角
 empire award for best actress:帝國獎最佳女主角
 empire award for best film:帝国奖最佳电影
+empire awards:帝国奖
 empire awards:帝國獎
+empire bank:帝国銀行
+empire bank:帝国银行
 empire based on simple:帝国基于简单
 empire based on:帝国基于
 empire based:帝国基于
@@ -6888,10 +6910,13 @@ empire centre:帝国中心
 empire centre:帝國中心
 empire challenge:帝国挑战
 empire changed:帝国改变了
+empire cinema:帝国电影院
+empire citizen:帝国公民
 empire city savings bank:帝国城市储蓄银行
 empire city:帝国城市
 empire civil war:帝国内战
 empire club:帝国俱乐部
+empire college:帝国学院
 empire colonialism:帝国殖民主义
 empire comics:帝国漫画
 empire companies:帝国公司
@@ -6910,12 +6935,14 @@ empire court:蟾宮大廈
 empire cover:帝国涵盖
 empire cover:帝国覆盖
 empire create:帝国创造
+empire crown:帝国王冠
 empire day:帝国日
 empire decided:帝国决定
 empire defeat:帝国击败
 empire defeat:帝国打败
 empire disintegrate:帝国解体
 empire dissolve:帝国解散
+empire eagle:帝国鹰
 empire earth:地球帝国系列
 empire end:帝国结束
 empire engineers:帝国工程师
@@ -6966,6 +6993,7 @@ empire look:帝国看
 empire magazine:帝国杂志
 empire management:帝国管理
 empire market:帝国市场
+empire marshal:帝国元帅
 empire military:帝国军事
 empire monarch:帝国君主
 empire music:帝国音乐
@@ -7045,6 +7073,7 @@ empire regions:帝国地区
 empire relationship:帝国关系
 empire resort:帝国度假村
 empire resources:帝国资源
+empire river:帝国河
 empire room:帝国房间
 empire saved him:帝国拯救了他
 empire saved:帝国拯救了
@@ -7102,6 +7131,7 @@ empire technology:帝国技术
 empire test pilot:帝国试飞员
 empire that:帝国那
 empire theater:帝国剧场
+empire theatre:帝国剧场
 empire theatre:帝国剧院
 empire then:帝国然后
 empire they:帝国他们
@@ -7113,6 +7143,8 @@ empire to global economy:帝国到全球经济
 empire to republic:帝国到共和国
 empire to revolutionary republic:帝国到革命的共和国
 empire together:帝国在一起
+empire tower:帝国塔
+empire towers:帝国塔
 empire township:恩派尔镇区
 empire trade:帝国贸易
 empire trilogy:帝国三部曲
@@ -9110,6 +9142,8 @@ empresa de construção ferroviária da china (crcc):中国铁道建筑总公司
 empresa de construção ferroviária da china (crcc):中國鐵道建築總公司 (crcc)
 empresa de ferrocarriles ecuatorianos:厄瓜多爾鐵道路線
 empresas polar:極地公司
+empress airport:皇后機場
+empress alexandra:皇后亚历山大
 empress and her son:皇后和她的儿子
 empress anna:女皇安娜
 empress anna:皇后安娜
@@ -9169,6 +9203,7 @@ empress go sakuramachi:後櫻町天皇
 empress gou:苟皇后
 empress guangxian:光獻皇后
 empress guo:郭皇后
+empress hall:皇后大廳
 empress han:恭淑皇后
 empress hang:杭皇后
 empress he:何皇后
@@ -9190,6 +9225,7 @@ empress mary:皇后玛丽
 empress masako:雅子皇后
 empress matilda:女皇玛蒂尔达
 empress matilda:玛蒂尔达皇后
+empress matilda:皇后玛蒂尔达
 empress meng:昭慈圣献皇后
 empress michiko:美智子上皇后
 empress mingdao:明悼毛皇后
@@ -9256,12 +9292,14 @@ empress shi:史皇后
 empress sima:司马皇后
 empress song:宋皇后
 empress spider:皇后蜘蛛
+empress station:皇后站
 empress suiko:推古天皇
 empress sun:孝恭章皇后
 empress sunjeonghyo:純貞孝皇后
 empress sunmyeonghyo:純明孝皇后
 empress taimu:太穆皇后
 empress teimei:貞明皇后
+empress theatre:皇后剧院
 empress to another:皇后到另一个
 empress tudan:徒單皇后
 empress wang:王皇后
@@ -9778,6 +9816,7 @@ emu and fiscal policy:鸸鹋和财政政策
 emu education:鸸鹋教育
 emu farm:鸸鹋农场
 emu fat:鸸鹋脂肪
+emu meat:鸸鹋肉
 emu oil and pill:鸸鹋油和药丸
 emu oil:鸸鹋油
 emu war:鴯鶓戰爭

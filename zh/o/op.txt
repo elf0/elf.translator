@@ -4,6 +4,7 @@ op mall:海之戀商場
 op-ene-bliibereg:普隆比埃
 opa locka station:奧帕洛卡站
 opa station:渔波站
+opa station:漁波站
 opa:渔波
 opa:漁波
 opabinia:歐巴賓海蠍
@@ -262,6 +263,7 @@ opatija:奥帕蒂亚
 opatija:奧帕蒂亞
 opatoro:奧帕托羅
 opava district:奧帕瓦縣
+opava river:奥帕瓦河
 opava start:奥帕瓦开始
 opava:奥帕瓦
 opc manufacturing:東方綫路製造
@@ -302,6 +304,7 @@ opegraphaceae:孔文衣科
 opel after:欧宝后
 opel and french battery:欧宝和法国电池
 opel and general motors:欧宝和通用汽车
+opel arena:欧宝竞技场
 opel auto:欧宝汽车
 opel brand:欧宝品牌
 opel buy:欧宝买
@@ -743,8 +746,10 @@ open chinese market:打开中国市场
 open chromatin:打开染色质
 open circuit test:開路測試
 open circuit voltage:開路電壓
+open cities:开城市
 open citizenship:打开公民
 open city:不設防城市
+open city:开城市
 open clash:开冲突
 open class:打开类
 open climate data:开气候数据
@@ -758,6 +763,7 @@ open clothing:开服装
 open cloud:开云
 open cluster:疏散星团
 open coach:开放车厢
+open cobalt:开钴
 open cockpit:开驾驶舱
 open cockpit:打开驾驶舱
 open coconut:开椰
@@ -860,6 +866,7 @@ open database license:开放数据库许可证
 open database:开数据库
 open database:打开数据库
 open day:开日
+open days:开天
 open de limoges:利摩日网球公开赛
 open de rouen:鲁昂网球公开赛
 open deal:打开处理
@@ -975,6 +982,7 @@ open eye:开眼
 open eye:开眼睛
 open eyes and ear:开眼睛和耳朵
 open eyes:开眼睛
+open face:开脸
 open fact:开事实
 open failed:打开失败
 open feedback:开反馈
@@ -1024,6 +1032,7 @@ open from breakfast:打开从早餐
 open from:打开从
 open front rounded vowel:開前圓唇元音
 open front unrounded vowel:開前不圓唇元音
+open function:开函数
 open function:开功能
 open function:打开函数
 open functions:打开功能
@@ -1433,6 +1442,7 @@ open nomination:开提名
 open notebook:打开笔记本
 open nuclear weapon:开核武器
 open observation:开观察
+open ocean:开洋
 open ocean:开海洋
 open offer:开出价
 open offer:开提供
@@ -1540,7 +1550,9 @@ open prediction:开预测
 open presentation:打开演示
 open price:开价格
 open primaries in the united states:開放式投票
+open problem:开问题
 open problem:未解決的問題
+open problems:开问题
 open process:开处理
 open product:开产品
 open programs:打开程序
@@ -1574,6 +1586,7 @@ open recover:打开恢复
 open recruitment process:开招聘过程
 open recruitment:开招聘
 open refrigerator:打开冰箱
+open region:开区域
 open registration:开注册
 open reject:开拒绝
 open relationship:开放式关系
@@ -1598,7 +1611,9 @@ open road films:开路影业
 open road test phase:开道路测试阶段
 open road test:开道路测试
 open road testing:开道路测试
+open road:开路
 open road:开道路
+open roads:开路
 open role:开角色
 open room:打开房间
 open rules and international law:开规则和国际法
@@ -1653,6 +1668,7 @@ open simple:打开简单
 open size:开大小
 open skies:開放天空
 open skull:开头骨
+open sky:打开天空
 open skylight:开天窗
 open skylight:打开天窗
 open sleep:开睡眠
@@ -2755,6 +2771,7 @@ open source would:开放源代码将
 open source would:开源将
 open source:开放源代码
 open source:开源
+open sources:开源
 open space design:開放空間設計
 open space:開放空間
 open specific:打开特定的
@@ -2786,6 +2803,7 @@ open support ticket:开支持票
 open support:开支持
 open suppression:开镇压
 open switch:开开关
+open syllable:开音节
 open syllable:開音節
 open symbol:打开符号
 open system information:打开系统信息
@@ -2887,6 +2905,7 @@ open toilet:打开厕所
 open top bus:開蓬巴士
 open tour:打开旅游
 open towards:开向
+open town:开城镇
 open trade and investment:开贸易和投资
 open trade:开贸易
 open training:开训练
@@ -2902,6 +2921,7 @@ open twice:开两次
 open under:开下
 open unfamiliar:打开不熟悉
 open unit disk:开单位圆盘
+open universe:开宇宙
 open university business school:开放大学商学院
 open university cyprus:开放大学塞浦路斯
 open university education:开放大学教育
@@ -2959,6 +2979,7 @@ open visit:开访问
 open volume:打开卷
 open vote:开投票
 open voting:开投票
+open vowel:开元音
 open vowel:開元音
 open wagon:敞車
 open wait:开等待
@@ -2982,6 +3003,7 @@ open water test:开放水域测试
 open water training:开放水域训练
 open water woman:开放水域女性
 open water:开放水域
+open water:开水
 open we:打开我们
 open weapon:打开武器
 open weather app:打开天气应用程序
@@ -3880,6 +3902,7 @@ opera box-office:歌剧票房
 opera buffa:喜歌剧
 opera building project:歌剧建筑项目
 opera building:歌剧建筑
+opera cake:歌剧蛋糕
 opera cake:歐培拉
 opera cannot:歌剧不能
 opera career:歌剧事业
@@ -4775,6 +4798,7 @@ operation bernhard:伯恩哈德行动
 operation big switch:朝鲜战争战俘遣返问题
 operation big:操作大
 operation birke:樺木行動
+operation blockade:操作封鎖
 operation blue star:藍星行動
 operation bluecoat:藍衣行動
 operation board:操作板
@@ -4804,6 +4828,7 @@ operation centre:操作中心
 operation chahar:平綏鐵路沿線作戰
 operation challenges:操作挑战
 operation chaos:操作混乱
+operation character:操作角色
 operation characteristics:操作特性
 operation chastise:惩戒行动
 operation check systems:操作检查系统
@@ -5208,6 +5233,7 @@ operation southern watch:南方守望行动
 operation sovereign borders:主权边界行动
 operation space:操作空間
 operation space:操作空间
+operation spear:操作槍
 operation specification requirements:操作规范要求
 operation specification:操作规范
 operation spectrum:光谱行动
@@ -5602,6 +5628,8 @@ operations suddenly:操作突然
 operations suit:操作适合
 operations support systems:操作支持系统
 operations support:操作支持
+operations system:操作系統
+operations system:操作系统
 operations tasks:操作任务
 operations team control:操作团队控制
 operations team using:操作团队使用
@@ -5690,10 +5718,12 @@ operator from:操作员从
 operator function:操作员函数
 operator functor:算子函子
 operator give:算子给
+operator grammar:算子语法
 operator he:操作员他
 operator help:操作员帮助
 operator his daughter:操作员他的女儿
 operator house:操作员房子
+operator ideal:算子理想
 operator input:操作员输入
 operator interaction:操作员交互
 operator interface and programmable:操作员接口和可编程
@@ -5758,6 +5788,7 @@ operator symbol:算子符号
 operator system:操作员系统
 operator system:算子系统
 operator tag:操作员标签
+operator theory:算子理論
 operator theory:算子理论
 operator through:操作员通过
 operator to operator:操作员到操作员
@@ -5786,6 +5817,7 @@ operetta performance:轻歌剧表演
 operetta state:轻歌剧国家
 operetta:轻歌剧
 opernhaus oslo:奧斯陸歌劇院
+opernhaus station:市劇院站
 opernhaus wuppertal:伍珀塔尔歌剧院
 opernhaus:市劇院
 opernturm:歌剧院塔楼
@@ -5899,6 +5931,7 @@ ophir chasma:俄斐峽谷
 ophisops:睑窗蜥属
 ophisternon bengalense:孟加拉蛇胸鱔
 ophisurus macrorhynchos:大吻沙蛇鰻
+ophiuchus supercluster:蛇夫座超星系團
 ophiuchus:蛇夫座
 ophiurida:真蛇尾目
 ophiuridae:真蛇尾科
@@ -6029,6 +6062,7 @@ opinion is you:看法是你
 opinion it:意见它
 opinion kitchen:意见厨房
 opinion leader:意見領袖
+opinion leader:意见领袖
 opinion leadership:意見領袖
 opinion make:意见制造
 opinion means:意见意味着
@@ -6300,6 +6334,7 @@ opoczno:奧波奇諾
 opojaz:诗学语言研究会
 opola provinco:奥波莱省
 opola provinco:奧波萊省
+opole cathedral:奥波莱主教座堂
 opole hérað:奥波莱省
 opole hérað:奧波萊省
 opole lubelskie:盧布林地區奧波萊
@@ -6358,6 +6393,11 @@ opoptera:美環蝶屬
 oporapa:奧波拉帕
 oporelu:奧波雷盧鄉
 opornyy point:奧波爾內角
+oporto cathedral:波尔图主教座堂
+oporto cathedral:波爾圖主教座堂
+oporto diocese:波爾圖教區
+oporto university:波尔图大学
+oporto university:波爾圖大學
 oporto:波尔图
 oporto:波爾圖
 opossum:負鼠科
@@ -6968,6 +7008,7 @@ opportunity cost tell:机会成本告诉
 opportunity cost theory:机会成本理论
 opportunity cost you:机会成本你
 opportunity cost:机会成本
+opportunity costs:机会成本
 opportunity council hopes:机会委员会希望
 opportunity council:机会委员会
 opportunity count:机会计数
@@ -8110,7 +8151,9 @@ optimization practice:优化实践
 optimization presentation:优化演示
 optimization principle:优化原则
 optimization principle:优化原理
+optimization problem:优化问题
 optimization problem:最佳化問題
+optimization problems:优化问题
 optimization procedure:优化程序
 optimization process simple:优化过程简单
 optimization process:优化处理

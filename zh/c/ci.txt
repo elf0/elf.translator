@@ -72,6 +72,7 @@ ciad:查德
 ciadoncha:锡亚东查
 ciadoux:锡亚杜
 ciadîr-lunga:恰德爾倫加
+ciampino airfield:钱皮诺机场
 ciampino airport:钱皮诺机场
 ciampino:钱皮诺
 cian shuangsi:前雙溪
@@ -492,6 +493,7 @@ cien road:慈恩路
 cien west road:慈恩西路
 cienciano:施恩施雅奴體育會
 cieneguilla:謝內吉亞區
+cienfuegos cathedral:西恩富戈斯大教堂
 cienfuegos in new york:西恩富戈斯在纽约
 cienfuegos province:西恩富戈斯省
 cienfuegos:西恩富戈斯
@@ -505,9 +507,11 @@ cierges:谢尔日
 cierp gaud:谢尔戈
 cierva cove:西爾瓦灣
 cierzac:谢尔扎克
+cieszyn county:切申县
 cieszyn county:切申縣
 cieszyn hotel:切申酒店
 cieszyn silesia:切申西里西亚
+cieszyn silesia:切申西里西亞
 cieszyn:切申
 cieszynka:切申卡河
 ciethaek:jiékè
@@ -1402,6 +1406,7 @@ cincinnati doctor:辛辛那提医生
 cincinnati event:辛辛那提事件
 cincinnati faith and justice:辛辛那提信仰和正义
 cincinnati faith:辛辛那提信仰
+cincinnati freedom:辛辛那提自由
 cincinnati girl:辛辛那提女孩
 cincinnati group:辛辛那提组
 cincinnati high school:辛辛那提高中
@@ -1437,6 +1442,7 @@ cincinnati north kentucky:辛辛那提北肯塔基州
 cincinnati north:辛辛那提北
 cincinnati now offer:辛辛那提现在提供
 cincinnati now:辛辛那提现在
+cincinnati observatory:辛辛那提天文台
 cincinnati obviously:辛辛那提显然
 cincinnati officials:辛辛那提官员
 cincinnati once:辛辛那提一次
@@ -1510,6 +1516,7 @@ cinderella discourse:灰姑娘话语
 cinderella effect:灰姑娘效應
 cinderella find:灰姑娘发现
 cinderella forgive:灰姑娘原谅
+cinderella game:灰姑娘游戏
 cinderella game:灰姑娘遊戲
 cinderella games offer children:灰姑娘游戏提供儿童
 cinderella games:灰姑娘游戏
@@ -1541,8 +1548,18 @@ cindy au:歐倩怡
 cindy chi:紀欣伶
 cindy mi:米雯娟
 cindy yen:袁詠琳
+cine action:中国行动
+cine city:中国城市
+cine city:中國城市
+cine film:中国电影
+cine film:中國电影
+cine film:中華人民共和國电影
+cine films:中国电影
+cine films:中國电影
+cine films:中華人民共和國电影
 cine legend:传奇影城
 cine legend:傳奇影城
+cine sony:中國索尼
 cine-art house:影藝戲院
 cine:zhōngguó
 cine:中国
@@ -1747,6 +1764,7 @@ cingoli:钦戈利
 cingong police station:勤工派出所
 cingping rd.:慶平路
 cingpu metro station:青埔站
+cingpu station:青埔站
 cingpu street:青埔街
 cingpu:qīng pǔ
 cingpu:青埔
@@ -1807,6 +1825,7 @@ cinnamomum subavenium:细叶香桂
 cinnamomum tamala:柴桂
 cinnamomum verum:锡兰肉桂
 cinnamomum:肉桂属
+cinnamon basil:桂皮羅勒
 cinnamon bittern:栗苇鳽
 cinnamon challenge:肉桂粉大挑戰
 cinnamon clownfish:黑双锯鱼
@@ -1815,6 +1834,7 @@ cinnamon has:桂皮有
 cinnamon headed green pigeon:棕头绿鸠
 cinnamon hummingbird:桂红蜂鸟
 cinnamon neopipo:栗红霸鹟
+cinnamon oil:桂皮油
 cinnamon roll day:肉桂卷日
 cinnamon roll:肉桂捲
 cinnamon sided hummingbird:栗胁蜂鸟
@@ -1871,6 +1891,7 @@ cintamani:如意寶珠
 cintano:钦塔诺
 cintas:信達思
 cinte tesino:钦泰泰西诺
+cintegabelle station:桑特加贝勒站
 cintegabelle:桑特加贝勒
 cintiley residences:xīnlì dàshà
 cintiley residences:新丽大厦
@@ -1929,12 +1950,14 @@ cipher academy:暗號學園的伊呂波
 cipher alphabet:密碼字母
 cipher bureau:密碼局
 cipher disk:密碼盤
+cipher feedback:密文反馈
 cipher language:密碼語言
 cipher suite configuration also provides:密码套件配置也提供
 cipher suite configuration:密码套件配置
 cipher suite define:密码套件定义
 cipher suite list:密码套件列表
 cipher suite:密码套件
+cipher system:密碼系統
 cipher:密文
 cipher:密碼
 ciphertext and its:密文和它的
@@ -2127,6 +2150,7 @@ circle education:圆教育
 circle end:圆圈结束
 circle example:圆圈例子
 circle from:圆圈从
+circle function:圆函数
 circle games:圆圈游戏
 circle garden:永光花園
 circle group:圓群
@@ -2198,6 +2222,7 @@ circle time and lunch:圆时间和午餐
 circle time:圆圈时间
 circle time:圆时间
 circle to circle:圆到圆
+circle tower:圆塔
 circle tower:永光中心
 circle troops:行政圈军
 circle until:圆圈直到
@@ -2535,6 +2560,7 @@ circuit protection technology:电路保护技术
 circuit protection:电路保护
 circuit provides:电路提供
 circuit race:电路种族
+circuit rank:电路等级
 circuit reduce:电路减少
 circuit reference:电路参考
 circuit reliability:电路可靠性
@@ -2993,6 +3019,8 @@ cirque du freak:怪奇馬戲團
 cirque du soleil entertainment:太阳马戏娱乐
 cirque du soleil:太阳马戏
 cirque fjord:瑟克峽灣
+cirque glacier:冰斗冰川
+cirque lake:冰斗湖
 cirque pyongyang:平壤马戏团
 cirque wall:冰斗墙
 cirque:冰斗
@@ -3115,6 +3143,7 @@ cisco:思科系统
 ciserano:奇塞拉诺
 cisery:锡斯里
 cisgender men and women:順性別男性和女性
+cisgender woman:順性別女性
 cisgender:順性別
 cisgenderism:順性別主義
 cisgiordania:約旦河西岸地區
@@ -3163,6 +3192,7 @@ cishih-erfen:七十二份
 cishou si station:慈寿寺站
 cishousi (line 6):císhòusì
 cishousi (line 6):慈寿寺
+cishousi station:慈寿寺站
 cishousi:císhòusì
 cishousi:慈寿寺
 cishuncun:慈顺村
@@ -3230,6 +3260,7 @@ cisplatin toxicity:顺铂毒性
 cisplatin treatment:顺铂治疗
 cisplatin was very effective:顺铂是非常有效的
 cisplatin:顺铂
+cisplatina province:西斯普拉廷省
 cisplatina:西斯普拉廷
 cisplatine war:西斯普拉廷战争
 cispr:国际无线电干扰特别委员会
@@ -3299,6 +3330,9 @@ citad dal vatican:梵蒂冈
 citad dal vatican:梵蒂岡
 citad ho chi minh:胡志明市
 citadel hồ-dynastiet:西都城
+citadel island:城堡岛
+citadel mountain:城堡山
+citadel mountain:要塞山
 citadel of aleppo:阿勒頗城堡
 citadel of aleppo:阿勒颇城堡
 citadel of amman:安曼城堡
@@ -3318,6 +3352,12 @@ citadel of saigon:西貢城堡
 citadel of saladin:萨拉丁城堡
 citadel of saladin:薩拉丁城堡
 citadel of the ho dynasty:西都城
+citadel park:城堡公园
+citadel park:城堡公園
+citadel park:要塞公園
+citadel peak:城堡峰
+citadel station:城堡站
+citadel theatre:城堡剧院
 citadel van aleppo:阿勒颇城堡
 citadel van de ho-dynastie:西都城
 citadel:城堡
@@ -3395,9 +3435,12 @@ citation count:引文计数
 citation data:引文数据
 citation database:引文数据库
 citation form:引文形式
+citation format:參考文獻格式
 citation format:引文格式
+citation formats:參考文獻格式
 citation formats:引文格式
 citation generator:引文生成器
+citation guide:引文指引
 citation impact and research:引文影响和研究
 citation impact and team:引文影响与团队
 citation impact:引文影响
@@ -3429,7 +3472,10 @@ citation source:引文源
 citation style language:引文格式语言
 citation style:引文风格
 citation system:引文系统
+citation template:引文模板
+citation tool:參考文獻工具
 citation tool:引文工具
+citation tools:參考文獻工具
 citation tools:引文工具
 citation:參考文獻
 citation:引文
@@ -3506,9 +3552,11 @@ citibank operation:花旗银行操作
 citibank photography prize:花旗银行摄影奖
 citibank photography:花旗银行摄影
 citibank plans:花旗银行计划
+citibank plaza:花旗銀行廣場
 citibank predict:花旗银行预测
 citibank provides credit card:花旗银行提供信用卡
 citibank provides:花旗银行提供
+citibank singapore:花旗銀行新加坡
 citibank singapore:花旗银行新加坡
 citibank taiwan:花旗（台灣）商業銀行
 citibank tower:花旗銀行
@@ -3913,6 +3961,7 @@ cities development alliance:城市发展联盟
 cities development fund:城市发展基金
 cities development initiative:城市发展倡议
 cities development:城市发展
+cities district:城市區域
 cities do:城市做
 cities don't exist:城市不存在
 cities don't:城市不
@@ -4122,6 +4171,7 @@ cities participate:城市参加
 cities partnership:城市伙伴关系
 cities plan:城市计划
 cities platform:城市平台
+cities police:城市警察
 cities policies:城市政策
 cities policy:城市政策
 cities population:城市人口
@@ -4305,7 +4355,9 @@ citigroup and morgan stanley:花旗集团和摩根士丹利
 citigroup and nasdaq:花旗集团和纳斯达克
 citigroup asia:花旗集团亚洲
 citigroup bank:花旗集团银行
+citigroup center:花旗集团中心
 citigroup center:花旗集團中心
+citigroup centre:花旗集团中心
 citigroup ceo michael:花旗集团首席执行官迈克尔
 citigroup ceo:花旗集团首席执行官
 citigroup economist:花旗集团经济学家
@@ -4339,8 +4391,10 @@ citizen action:公民行动
 citizen activism:公民行动主义
 citizen activist:公民活动家
 citizen advocate:公民倡导
+citizen agreement:公民协议
 citizen alan:公民艾伦
 citizen alexander:公民亚历山大
+citizen alliance:公民联盟
 citizen ambassador:公民大使
 citizen analysts:公民分析师
 citizen and a good muslim:公民和一个好的穆斯林
@@ -4466,6 +4520,7 @@ citizen feedback:公民反馈
 citizen fitness center:全民健身广场
 citizen flag:公民旗
 citizen focus:公民焦点
+citizen force:公民力量
 citizen forum:公民论坛
 citizen foundation:公民基金
 citizen four:公民四
@@ -4508,6 +4563,7 @@ citizen journalism colleagues:公民新闻同事
 citizen journalism website:公民新闻网站
 citizen journalism:公民新闻
 citizen journalist:民間記者
+citizen journalists:公民记者
 citizen kane:公民凯恩
 citizen knows:公民知道
 citizen lab publish:公民实验室发表
@@ -4542,6 +4598,7 @@ citizen musician:公民音乐家
 citizen nationalism:公民民族主义
 citizen needs:公民需要
 citizen neologism:公民新词
+citizen news:公民新闻
 citizen news:眾新聞
 citizen no longer:公民不再
 citizen node:公民节点
@@ -4599,6 +4656,7 @@ citizen per:公民每
 citizen peter:公民彼得
 citizen petition:公民请愿
 citizen plans:公民计划
+citizen plaza:公民廣場
 citizen police:公民警察
 citizen politics:公民政治
 citizen population growth:公民人口增长
@@ -4615,6 +4673,7 @@ citizen protection:公民保护
 citizen protest:公民抗議
 citizen protest:公民抗议
 citizen publication:公民出版
+citizen rally:公民集会
 citizen ranking:公民排名
 citizen ratio:公民比例
 citizen records:公民记录
@@ -4631,10 +4690,13 @@ citizen responsibility and action:公民责任和行动
 citizen responsibility:公民责任
 citizen return:公民返回
 citizen revolution movement:公民革命运动
+citizen revolution:公民革命
+citizen rights:公民权利
 citizen role:公民角色
 citizen run:公民跑
 citizen safety:公民安全
 citizen said:公民说
+citizen saint:公民圣人
 citizen sandy:公民桑迪
 citizen says:公民说
 citizen schools:公民学校
@@ -4642,6 +4704,7 @@ citizen science community:公众科学社区
 citizen science is a flexible:公众科学是一个灵活的
 citizen science projects:公众科学项目
 citizen science:公众科学
+citizen science:公民科学
 citizen scientist project:公民科学家项目
 citizen scientist projects:公民科学家项目
 citizen scientist study:公民科学家研究
@@ -4845,6 +4908,7 @@ citizens are christians:公民是基督徒
 citizens are jews:公民是犹太人
 citizens are safe:公民是安全的
 citizens arm:公民武装
+citizens arrest:公民逮捕
 citizens as well as government officials:公民以及政府官员
 citizens as well as ruler:公民以及统治者
 citizens as well as:公民以及
@@ -4878,6 +4942,7 @@ citizens blog:公民博客
 citizens breath:公民呼吸
 citizens breathe:公民呼吸
 citizens brigade:公民旅
+citizens building:公民建筑
 citizens by:公民被
 citizens can buy:公民可以买
 citizens can challenge arm:公民可以挑战武装
@@ -4903,6 +4968,7 @@ citizens consume:公民消耗
 citizens continue:公民继续
 citizens could:公民能
 citizens council:公民委员会
+citizens council:公民议会
 citizens create:公民创造
 citizens crime:公民犯罪
 citizens culture:公民文化
@@ -4931,9 +4997,11 @@ citizens estimate:公民估计
 citizens expect:公民期待
 citizens fair trial:公民公平的审判
 citizens family member:公民家庭成员
+citizens federation:公民联盟
 citizens finally:公民最终
 citizens financial group:公民金融集團
 citizens for:公民为了
+citizens force:公民力量
 citizens forum:公民论坛
 citizens forums:公民论坛
 citizens found:公民找到
@@ -5157,6 +5225,7 @@ citizens through:公民通过
 citizens to global enterprises:公民到全球企业
 citizens to rome:公民到罗马
 citizens today:公民今天
+citizens together:公民一起
 citizens took:公民拿
 citizens training:公民训练
 citizens trust:公民信任
@@ -5196,6 +5265,7 @@ citizens work:公民工作
 citizens worship:公民崇拜
 citizens would:公民将
 citizens:公民
+citizenship act:公民行动
 citizenship activities:公民活动
 citizenship allow:公民允许
 citizenship amendment act protests:公民身份法修正案示威
@@ -5316,6 +5386,7 @@ citizenship rather than:公民而不是
 citizenship report:公民報告
 citizenship report:公民报告
 citizenship responsibility:公民责任
+citizenship rights:公民权利
 citizenship schools:公民学校
 citizenship service:公民服务
 citizenship services bureau:公民服务局
@@ -5397,6 +5468,7 @@ citrus long horned beetle:星天牛
 citrus margarita:长实金柑
 citrus obovata:长寿金柑
 citrus taiwanica:南庄橙
+citrus taxonomy:柑橘属分类学
 citrus tree:柑橘属树
 citrus unshiu:温州蜜柑
 citrus:柑橘属
@@ -5499,6 +5571,7 @@ city air:城市空气
 city airport information:城市机场信息
 city airport system:城市機場系統
 city airport systems:城市机场系统
+city airport:卡利亚里机场
 city airport:城市机场
 city airport:城市機場
 city airport:城市飞机场
@@ -5776,6 +5849,7 @@ city blueprint:城市蓝图
 city blues:城市藍調
 city bobo dioulasso:城市博博迪乌拉索
 city bonn:城市波恩
+city books:城市书
 city bookstore tour:城市书店旅游
 city bookstore:城市书店
 city border:城市边界
@@ -5909,6 +5983,7 @@ city centre team:市中心团队
 city centre to city centre:市中心到市中心
 city centre train station:市中心火车站
 city centre very:市中心非常
+city centre:城市中心
 city centre:市中心
 city century:城市世纪
 city ceo:城市首席执行官
@@ -5927,6 +6002,7 @@ city championships:城市冠军
 city changed:城市改变了
 city changes:城市变化
 city chapter:城市章
+city charter:城市特許狀
 city chat:城市聊天
 city chicago:城市芝加哥
 city chicken:城市鸡
@@ -5940,6 +6016,7 @@ city choose:城市选择
 city chronicle:城市编年史
 city church:城市教堂
 city cinema:城市电影院
+city circle:城市漢堡
 city circuit:城市电路
 city circuit:环城大道
 city circuit:環城大道
@@ -6135,12 +6212,16 @@ city council vote:市议会投票
 city council votes:市议会投票
 city council wish:市议会希望
 city council would:市议会将
+city council:城市议会
 city council:市政委员会
 city council:市議會
 city council:市议会
 city country:城市国家
+city county:城市县
+city county:雷根斯堡县
 city courier:城市速遞
 city court judge:城市法院法官
+city court:城市大堂
 city court:城市法院
 city coventry:城市考文垂
 city cover:城市封面
@@ -6228,6 +6309,7 @@ city display:城市显示
 city distance:城市距离
 city distribution center:城市配送中心
 city distribution:城市分布
+city district:城市區域
 city do:城市做
 city doctor:城市医生
 city doctors:城市医生
@@ -6348,6 +6430,7 @@ city field:城市字段
 city field:城市领域
 city fifteen minutes:城市十五分钟
 city fifteen:城市十五
+city fight:城市战斗
 city finally:城市最终
 city finance:城市财政
 city finance:城市金融
@@ -6490,6 +6573,7 @@ city ground:城市足球場
 city group:城市组
 city growth soon:城市增长很快
 city growth:城市增长
+city gymnasium:城市体育馆
 city gymnasium:市体育馆
 city had a shelter:城市有一个庇护所
 city had been:城市已经
@@ -6524,6 +6608,7 @@ city hall square:市民广场
 city hall square:市民廣場
 city hall station:市政府車站
 city hall:城市大厅
+city hall:城市礼堂
 city hall:大会堂
 city hall:大會堂
 city hall:市厅
@@ -6752,6 +6837,7 @@ city landscape lighting into:城市景观照明进入
 city landscape lighting:城市景观照明
 city landscape or fortification:城市景观或防御工事
 city landscape:城市景观
+city landscape:城市风景
 city largest:城市最大的
 city laundry:城市洗衣
 city law center:城市法律中心
@@ -6824,6 +6910,7 @@ city lyon:城市里昂
 city machine:城市机器
 city machines:城市机器
 city magazine:城市杂志
+city magistrate:城市裁判官
 city man:城市男人
 city manage:城市管理
 city management and artificial intelligence:城市管理和人工智能
@@ -7197,6 +7284,7 @@ city parents:城市父母
 city park bridge:城市公园桥
 city park pond:城市公园池塘
 city park:城市公园
+city park:城市公園
 city park:小火锅
 city park:西派金沙
 city park:青年公园
@@ -7248,6 +7336,7 @@ city play:城市玩
 city player:城市玩家
 city players:城市玩家
 city playground:城市游乐场
+city plaza:城市廣場
 city plaza:大都會廣場
 city plaza:關閘天地
 city poem:城市诗
@@ -7323,6 +7412,8 @@ city purchase:城市购买
 city quality of life indices:世界最佳宜居城市
 city race:城市竞赛
 city rail link:城市铁路线
+city railroad:城市鐵路
+city railroad:城市铁路
 city railway:城市铁路
 city rally or festival:城市集会或节日
 city rally:城市集会
@@ -7530,6 +7621,8 @@ city square mall:城市廣場
 city stadium:城市体育场
 city stadium:城市体育馆
 city stadium:城市运动场
+city stadium:城市體育場
+city stadium:雷根斯堡體育場
 city standard:城市标准
 city standards:城市标准
 city star airlines:城市之星航空
@@ -7537,7 +7630,10 @@ city star hotel:城市之星酒店
 city star:城市之星酒店
 city start:城市开始
 city state to empire:城邦到帝国
+city state:城市国家
+city state:城市州
 city state:城邦
+city states:城市国家
 city station:城市站
 city stationery:城邦文仪
 city stationery:城邦文儀
@@ -7599,6 +7695,7 @@ city swimmer:城市游泳者
 city swimming pool:城市游泳池
 city swimming:城市游泳
 city sydney:城市悉尼
+city symphony:城市交響曲
 city system:城市系統
 city system:城市系统
 city systems:城市系统
@@ -7624,6 +7721,7 @@ city temple:城市神庙
 city test:城市测试
 city text:城市文本
 city thameslink railway station:城市泰晤士連線站
+city thameslink:城市泰晤士連線
 city than anyone:城市比任何人
 city than new york:城市比纽约
 city thanksgiving:城市感恩节
@@ -7674,6 +7772,7 @@ city traffic problem:城市交通问题
 city traffic:城市交通
 city train:城市火车
 city training:城市训练
+city tram:城市有轨电车
 city transport:城市运输
 city transportation expert:城市运输专家
 city transportation:城市运输
@@ -7684,6 +7783,7 @@ city trilogy:城市三部曲
 city try:城市尝试
 city tsukuba:城市筑波市
 city tunnel:城市隧道
+city tv:城市电视
 city twice:城市两次
 city two:城市二
 city type:城市类型
@@ -7692,6 +7792,7 @@ city uk:城市英国
 city under water:城市下水
 city under:城市下
 city underground:城市地下
+city union:城市联盟
 city unique:城市独特的
 city university business school:城市大学商学院
 city university club:城市大学俱乐部
@@ -7723,8 +7824,11 @@ city university of seattle:西雅图城市大学
 city university of seattle:西雅圖城市大學
 city university of wenzhou:温州城市大学
 city university professor:城市大学教授
+city university:卡利亚里大学
 city university:城市大学
 city university:城市大學
+city university:雷根斯堡大学
+city university:雷根斯堡大學
 city unless:城市除非
 city until:城市直到
 city update:城市更新
@@ -7805,6 +7909,7 @@ city welcome:城市欢迎
 city west:城市西
 city what:城市什么
 city when you:城市当你
+city wiki:城市维基
 city will be:城市会成为
 city will be:城市将成为
 city will follow you:城市将跟随你
@@ -9260,6 +9365,7 @@ civil rights revolution:公民权利革命
 civil rights to equality:公民权利到平等
 civil rights would:公民权利将
 civil rights:公民权利
+civil rights:公民的权利
 civil secretariat quetta:州政府办公室
 civil servant exam:公务员考试
 civil servant family pair up:結對認親
@@ -10041,6 +10147,7 @@ civilization or nature:文明或自然
 civilization origin:文明起源
 civilization paradigm:文明范式
 civilization park:文明公园
+civilization party:文明党
 civilization practice:文明实践
 civilization practice:文明實踐
 civilization principles:文明原则
@@ -10067,6 +10174,7 @@ civilization standardization demonstration:文明标准化示范
 civilization standardization:文明标准化
 civilization start:文明开始
 civilization state:文明体国家
+civilization state:文明国家
 civilization stop:文明停止
 civilization story:文明故事
 civilization studies:文明研究
@@ -10175,6 +10283,7 @@ cixi city:cíxī shì
 cixi city:慈溪市
 cixi city:慈谿
 cixi city:慈谿市
+cixi county:慈谿县
 cixi hengyuan plaza hotel:慈溪恒元广场酒店
 cixi road:cislai lu
 cixi road:慈溪路

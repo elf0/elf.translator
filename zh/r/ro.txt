@@ -8,6 +8,7 @@ roach insist:罗奇坚持
 roach motel:蟑螂屋
 roach notice:罗奇注意
 roach reports:罗奇报告
+roach river:罗奇河
 roach said:罗奇说
 roach says:罗奇说
 roach to singapore:罗奇到新加坡
@@ -392,6 +393,7 @@ road hero:馬路英雄
 road hero:马路英雄
 road high:道路高
 road hole:路洞
+road home:路家
 road hospital:路医院
 road hotel:路酒店
 road i only run:路我只有跑
@@ -660,6 +662,7 @@ road rage:路怒症
 road railway project:路铁路项目
 road railway station:路火车站
 road railway:路铁路
+road rallying:道路拉力赛
 road rash:暴力摩托系列
 road rash:路疹
 road real:路真的
@@ -778,6 +781,7 @@ road salt:路盐
 road salt:道路盐
 road scholar:道路学者
 road school:路学校
+road section:路节
 road security:道路安全
 road self-confidence:道路自信
 road sensor:道路传感器
@@ -818,6 +822,7 @@ road solutions still:道路解决方案仍然
 road solutions:道路解决方案
 road soon:路很快
 road soon:道路很快
+road south:路南
 road south:道路南
 road space:道路空間
 road space:道路空间
@@ -1241,12 +1246,15 @@ roannes saint mary:罗阿讷圣马里
 roanoke bass:穴鈍鱸
 roanoke college:罗阿诺克学院
 roanoke colony:罗阿诺克殖民地
+roanoke county:罗阿诺克县
 roanoke hogsucker:卡羅萊納黑豬魚
 roanoke hotel:罗阿诺克酒店
 roanoke island land:罗阿诺克岛土地
 roanoke island:罗阿诺克岛
 roanoke logperch:王小鱸
 roanoke river:罗阿诺克河
+roanoke station:罗阿诺克站
+roanoke valley:罗阿诺克山谷
 roanoke:罗阿诺克
 roaring by the window:窗邊咆哮
 roaring cliffs:羅林崖
@@ -1267,6 +1275,7 @@ roast a cup:烤一杯
 roast and package:烤和包
 roast barley:烤大麦
 roast bean:烤豆
+roast beef:烤牛肉
 roast beef:英式燒牛肉
 roast cat sold:烤猫卖
 roast cat:烤猫
@@ -1464,6 +1473,7 @@ robeco:荷全
 robecq:罗贝克
 robella:罗贝拉
 robersart:罗贝萨尔
+robert academy:罗伯特学院
 robert accept:罗伯特接受
 robert adam and his brother:罗伯特亚当和他的兄弟
 robert adam:罗伯特亚当
@@ -1506,6 +1516,7 @@ robert as:罗伯特当作
 robert ask:罗伯特问
 robert at their:罗伯特在他们的
 robert atkinson:罗伯特阿特金森
+robert awards:罗伯特奖
 robert awards:羅伯獎
 robert back:罗伯特回
 robert baden:罗伯特巴登
@@ -1613,6 +1624,7 @@ robert i:罗贝尔一世
 robert ii:罗贝尔二世
 robert island:甘泉岛
 robert island:甘泉島
+robert island:罗伯特岛
 robert island:羅伯特島
 robert jackson:罗伯特杰克逊
 robert jacquinot de besange:饶家驹
@@ -1839,6 +1851,7 @@ robin hood statue:罗宾汉雕像
 robin hood strategy:罗宾汉战略
 robin hood strategy:罗宾汉策略
 robin hood:罗宾汉
+robin king:羅賓王
 robin lake:羅賓湖
 robin li began:李彦宏开始
 robin li said:李彦宏说
@@ -1893,6 +1906,7 @@ robinson brother:罗宾逊兄弟
 robinson centre:罗宾逊中心
 robinson club:罗宾逊俱乐部
 robinson college:罗宾逊学院
+robinson college:罗宾逊學院
 robinson community learning:罗宾逊社区学习
 robinson community:罗宾逊社区
 robinson continue:罗宾逊继续
@@ -2310,6 +2324,7 @@ robot farm:机器人农场
 robot farmer:机器人农民
 robot feedback:机器人反馈
 robot fetishism:恋机器人癖
+robot fetishism:机器人拜物教
 robot field:机器人领域
 robot fields:机器人领域
 robot fight:机器人战斗
@@ -2480,6 +2495,7 @@ robot market:机器人市场
 robot markets:机器人市场
 robot marriage:机器人结婚
 robot mascot:机器人吉祥物
+robot master:机器人大师
 robot may help us:机器人可以帮助我们
 robot mechanisms and design:机器人机制和设计
 robot mechanisms:机器人机制
@@ -2502,6 +2518,7 @@ robot modules:机器人模块
 robot monomer prices:机器人单体价格
 robot monomer:机器人单体
 robot monster:机器人怪物
+robot monster:机器人魔鬼
 robot moon base:机器人月球基地
 robot moon:机器人月球
 robot morality:机器人道德
@@ -2900,6 +2917,7 @@ robotics department:机器人学系
 robotics engineer:机器人学工程师
 robotics expert:机器人学专家
 robotics experts:机器人学专家
+robotics glossary:机器人学词汇表
 robotics innovation center:机器人学创新中心
 robotics innovation:机器人学创新
 robotics lecturer:机器人学讲师
@@ -3665,6 +3683,7 @@ rochal:羅沙利
 rochau:罗豪
 rochdale cenotaph:罗奇代尔纪念碑
 rochdale principles:罗虚戴尔原则
+rochdale village:羅奇代爾村
 rochdale:羅奇代爾
 roche agree:罗氏同意
 roche and gene:罗氏与基因
@@ -3693,6 +3712,7 @@ roche enter:罗氏进入
 roche enterprises:罗氏企业
 roche ester:罗氏酯
 roche et raucourt:罗什和罗库尔
+roche family:罗氏科
 roche faurio:福里奧峰
 roche has been:罗氏已经
 roche hopes:罗氏希望
@@ -3781,12 +3801,16 @@ rochesson:罗谢松
 rochester airport:羅徹斯特機場
 rochester castle:羅切斯特城堡
 rochester cathedral:羅徹斯特座堂
+rochester college:羅徹斯特學院
 rochester community sports complex stadium:羅徹斯特社區體育園區足球場
 rochester institute of technology professor:罗彻斯特理工学院教授
 rochester institute of technology:罗彻斯特理工学院
 rochester razorsharks:罗彻斯特剃刀鲨队
 rochester subway:罗切斯特地铁
 rochester township:罗切斯特镇区
+rochester township:羅徹斯特鎮區
+rochester university:羅徹斯特大学
+rochester university:羅徹斯特大學
 rochester:羅徹斯特
 rochetoirin:罗什图瓦兰
 rochetrejoux:罗什特勒茹
@@ -3910,6 +3934,7 @@ rock art:岩石艺术
 rock ask:岩石问
 rock asphalt:柏油
 rock back:岩石背
+rock balance:岩石平衡
 rock balancing:岩石平衡
 rock bar:岩石酒吧
 rock barge:岩石驳船
@@ -3942,6 +3967,7 @@ rock carvings on po toi island:蒲台島石刻
 rock castle:岩石城堡
 rock cat:岩石猫
 rock catfish:南非澳岩鱨
+rock cave:岩石山洞
 rock cave:岩石洞穴
 rock cavy:岩豚鼠
 rock centre:岩石中心
@@ -3988,6 +4014,7 @@ rock climbing school:攀岩学校
 rock climbing skills:攀岩技能
 rock climbing tradition:攀岩传统
 rock climbing wall:攀岩墙
+rock climbing:岩石攀登
 rock climbing:攀岩
 rock cocaine:岩石可卡因
 rock cod:潯鱈
@@ -4027,6 +4054,7 @@ rock dove:原鸽
 rock dragon:石龙
 rock drawings in valcamonica:卡莫尼卡谷地岩画
 rock dredging:岩石疏浚
+rock drill:岩石电钻
 rock dust:岩石尘
 rock dust:岩石灰尘
 rock embedded:岩石嵌入
@@ -4057,6 +4085,7 @@ rock gold:岩石金
 rock greenling:长线六线鱼
 rock hall:岩石大厅
 rock handmade:洛克台式手創飲品
+rock hard:岩石硬度
 rock has more than:岩石有超过
 rock hat:岩石帽子
 rock haunting ringtail possum:岩卷尾袋貂属
@@ -4102,8 +4131,10 @@ rock magnetism:岩石磁
 rock magnetism:岩石磁性
 rock mass analysis:岩石质量分析
 rock mass:岩石质量
+rock master:岩石大师
 rock material:岩石材料
 rock materials:岩石材料
+rock mechanics:岩石力学
 rock mechanics:岩石力學
 rock melt:岩石融化
 rock mineral:岩石矿物
@@ -4187,6 +4218,7 @@ rock reach:岩石达到
 rock reaction:岩石反应
 rock real:岩石真的
 rock record:岩石记录
+rock records:岩石记录
 rock records:滾石唱片
 rock relief:岩石浮雕
 rock require:岩石需要
@@ -4237,6 +4269,7 @@ rock temperature will:岩石温度会
 rock temperature:岩石温度
 rock temple:岩石庙
 rock temple:岩石神庙
+rock texture:岩石紋理
 rock they:岩石他们
 rock throw:岩石抛
 rock thrush:矶鸫属
@@ -4333,6 +4366,7 @@ rockefeller center:洛克斐勒中心
 rockefeller center:洛克菲勒中心
 rockefeller centre officials:洛克菲勒中心官员
 rockefeller centre:洛克菲勒中心
+rockefeller chapel:洛克菲勒教堂
 rockefeller chapel:洛克菲勒礼拜堂
 rockefeller children:洛克菲勒儿童
 rockefeller christmas tree lighting:洛克菲勒圣诞树照明
@@ -4395,6 +4429,7 @@ rockefeller republican:洛克菲勒共和党
 rockefeller researchers:洛克菲勒研究人员
 rockefeller river:洛克菲勒河
 rockefeller said:洛克菲勒说
+rockefeller scholarship:洛克菲勒獎學金
 rockefeller scientist:洛克菲勒科学家
 rockefeller scientists:洛克菲勒科学家
 rockefeller sculpture:洛克菲勒雕塑
@@ -4474,6 +4509,7 @@ rocket artillery:火箭炮
 rocket as well as:火箭以及
 rocket association:火箭协会
 rocket attack:火箭攻击
+rocket ball:火箭球
 rocket base baikonur cosmodrome:火箭基地拜科努尔航天发射场
 rocket base:火箭基地
 rocket based combined cycle:火箭基组合循环
@@ -4484,6 +4520,7 @@ rocket billionaire:火箭亿万富翁
 rocket boat:火箭船
 rocket bomb:火箭炸弹
 rocket book:火箭书
+rocket boy:火箭男孩
 rocket brigade:火箭旅
 rocket car:火箭车
 rocket catcher:火箭捕手
@@ -4536,6 +4573,8 @@ rocket engine research:火箭发动机研究
 rocket engine test facility:火箭发动机试车台
 rocket engine test:火箭发动机测试
 rocket engine:火箭发动机
+rocket engineer:火箭工程师
+rocket engines:火箭发动机
 rocket equation:火箭方程
 rocket eventually:火箭最终
 rocket experiment:火箭实验
@@ -4575,6 +4614,7 @@ rocket garden:火箭花园
 rocket gas:火箭燃气
 rocket gear:火箭齿轮
 rocket general manager:火箭总经理
+rocket girl:火箭女孩
 rocket girl:火箭少女
 rocket girls:火箭女孩
 rocket girls:火箭女孩们
@@ -4639,6 +4679,7 @@ rocket limited company:火箭有限公司
 rocket logo:火箭标志
 rocket long march:火箭长征
 rocket look:火箭看
+rocket mail:火箭邮件
 rocket malfunction:火箭故障
 rocket man movies:火箭人电影
 rocket man now:火箭人现在
@@ -4827,6 +4868,7 @@ rockford peach:罗克福德桃
 rockford residents:罗克福德居民
 rockford township:罗克福德镇区
 rockford:罗克福德
+rockhampton airport:洛坎普頓機場
 rockhampton hospital:洛咸頓醫院
 rockhampton region:洛坎普頓區政府
 rockhampton:洛坎普頓
@@ -4863,6 +4905,8 @@ rockson mansion:樂新大廈
 rockstar games presents table tennis:實況桌球
 rocksteady:慢拍摇滚
 rockstedt:罗克施泰特
+rockville station:羅克維爾站
+rockville township:羅克維爾鎮區
 rockville:羅克維爾
 rockwell automation representative:洛克威爾自動化代表
 rockwell automation:洛克威爾自動化
@@ -4905,6 +4949,7 @@ rockya-ri:鹿野里
 rocky’s spot:洛基異國料理
 roclincourt:罗克兰库尔
 rococo and romanticism:洛可可和浪漫主义
+rococo architecture:洛可可建筑
 rococo art:洛可可艺术
 rococo garden:洛可可花园
 rococo hall:洛可可大厅
@@ -5017,6 +5062,7 @@ rodershausen:罗德斯豪森
 rodewald:罗德瓦尔德
 rodewisch:罗德维施
 rodez af:罗德兹足球俱乐部
+rodez airport:罗德兹机场
 rodez cathedral:罗德兹主教座堂
 rodez hospital:罗德兹医院
 rodez station:罗德兹站
@@ -5059,6 +5105,8 @@ rodoanel de moscou:莫斯科環城公路
 rodolfo aguilar delgado:鲁道夫阿吉拉尔德尔加多
 rodome:罗多姆
 rodong sinmun:勞動新聞
+rodong station:芦洞站
+rodong station:蘆洞站
 rodong-ri:芦洞里
 rodong-ri:蘆洞里
 rodong-ri:長安里
@@ -5178,6 +5226,7 @@ roebizjne:魯比日內
 roeboides:突頜脂鯉屬
 roebtsovsk:魯布佐夫斯克
 roebtsovsk:鲁布佐夫斯克
+roehampton university:羅漢普頓大學
 roehampton:羅漢普頓
 roel sterckx:胡司德
 roelos de sayago:罗埃洛斯德萨亚戈
@@ -5335,6 +5384,7 @@ rogers love:罗杰斯爱
 rogers media support:罗杰斯媒体支持
 rogers media:罗杰斯媒体
 rogers mention:罗杰斯提到
+rogers mountain:罗杰斯山
 rogers needs:罗杰斯需要
 rogers nelson:罗杰斯纳尔逊
 rogers nicholas:罗杰斯尼古拉斯
@@ -5866,6 +5916,8 @@ role model organisation:榜样组织
 role model very:榜样非常
 role model who:榜样谁
 role model:榜样
+role model:角色模型
+role models:角色模型
 role must change:角色必须改变
 role needed:角色需要的
 role needs:角色需要
@@ -5938,6 +5990,7 @@ role skills:角色技能
 role sometimes:角色有时
 role start:角色开始
 role still:角色仍然
+role strain:角色紧张
 role strength:角色力量
 role stress:角色压力
 role suit:角色适合
@@ -6241,14 +6294,23 @@ rollwitz:罗尔维茨
 roltrusi'o zei.kongos:刚果民主共和国
 roltrusi'o zei.kongos:剛果民主共和國
 roly poly toy:不倒翁
+rom river:羅馬河
 rom:luómǎ
 rom:罗马
 rom:罗马市
 rom:羅馬
 rom:羅馬/罗马
+roma church:罗马教堂
+roma cities:羅馬城市
+roma city:羅馬城市
 roma class ironclad:罗马级铁甲舰
+roma cup:罗马杯
 roma ostiense railway station:羅馬奧斯蒂恩塞車站
+roma parish:罗马教区
+roma people:羅馬人民
 roma street railway station:羅馬街站
+roma street:罗马街
+roma street:羅馬街道
 roma termini railway station:罗马特米尼车站
 roma tiburtina railway station:羅馬蒂布爾蒂納車站
 roma tre university:罗马第三大学
@@ -6280,6 +6342,7 @@ romainya:罗马尼亚
 romainya:羅馬尼亞
 romallo:罗马洛
 roman academy of sciences:罗马科学院
+roman academy:罗马学院
 roman accent:罗马口音
 roman activity:罗马活动
 roman agora:羅馬阿哥拉
@@ -6322,6 +6385,7 @@ roman and rabbi:罗马和拉比
 roman and roman:罗马人和罗马
 roman and romanesque:罗马和罗马式
 roman and the four steps:羅文四步合唱團
+roman anthony:罗马的安东尼
 roman antiquities:罗马古物
 roman apartment:罗马公寓
 roman aqueduct:古羅馬水道
@@ -6339,6 +6403,7 @@ roman armada:罗马舰队
 roman armenia:亞美尼亞行省
 roman army:罗马军队
 roman army:罗马的军队
+roman army:罗马陆军
 roman army:羅馬陸軍
 roman arrangement:罗马安排
 roman arrangement:罗马的安排
@@ -6361,6 +6426,7 @@ roman authority:罗马的权威
 roman authors:罗马的作者
 roman background:罗马背景
 roman bank:罗马银行
+roman banks:罗马银行
 roman bathing practice:罗马沐浴实践
 roman baths of caracalla:罗马卡拉卡拉浴场
 roman baths:罗马浴室
@@ -6378,7 +6444,9 @@ roman bridge of lugo:盧戈羅馬橋
 roman bridge of salamanca:薩拉曼卡羅馬橋
 roman bridge:罗马桥
 roman bridge:羅馬橋樑
+roman britain:罗马不列顛
 roman britain:罗马英国
+roman britannia:罗马不列颠尼亚
 roman building:罗马建筑
 roman buildings:罗马建筑
 roman calendar:罗马历法
@@ -8459,7 +8527,9 @@ roman catholic territorial prelature of yauyos:天主教堯約斯自治監督區
 roman catholic tradition:罗马天主教的传统
 roman catholic woman:罗马天主教的女性
 roman catholic worship:罗马天主教的崇拜
+roman catholic:罗马天主教
 roman catholic:罗马天主教的
+roman catholicism:罗马天主教
 roman cavalry:罗马骑兵
 roman cavalry:羅馬騎兵
 roman cement:罗马水泥
@@ -8468,6 +8538,7 @@ roman censor:監察官
 roman chair:羅馬椅
 roman chamomile essential oil:罗马洋甘菊精油
 roman chamomile:罗马洋甘菊
+roman chapel:罗马教堂
 roman character set:罗马字符集
 roman characters:罗马字符
 roman charity:羅馬人的慈悲
@@ -8554,6 +8625,7 @@ roman currency:罗马货币
 roman cursive:罗马书写体
 roman dacia:達契亞行省
 roman dagger:罗马匕首
+roman dalmatia:罗马达尔马提亚
 roman de la rose:玫瑰传奇
 roman defense:罗马防御
 roman definition:罗马定义
@@ -8582,6 +8654,7 @@ roman edu:罗马教育
 roman education:罗马教育
 roman education:罗马的教育
 roman egypt:罗马埃及
+roman egyptian:罗马埃及
 roman elections:罗马人选举
 roman elements:罗马元素
 roman elite:罗马精英
@@ -8600,6 +8673,7 @@ roman emperor:羅馬皇帝
 roman empire coin:羅馬帝國硬幣
 roman empire exist:羅馬帝國存在
 roman empire port:羅馬帝國港口
+roman empire:罗马帝国
 roman empire:羅馬帝國
 roman empress:罗马女皇
 roman empress:罗马皇后
@@ -8637,6 +8711,7 @@ roman festival:罗马节日
 roman find:罗马人发现
 roman fish:罗马鱼
 roman folklore:罗马民俗
+roman font:罗马字体
 roman foot:罗马脚
 roman force:罗马力量
 roman form:罗马的形式
@@ -8702,6 +8777,7 @@ roman history:罗马历史
 roman history:罗马的历史
 roman holiday plaza:罗马假日广场
 roman holiday square:罗马假日广场
+roman holiday:罗马假日
 roman holiday:羅馬假期
 roman hotel:罗马酒店
 roman house:罗马住宅
@@ -8737,14 +8813,18 @@ roman inventor:罗马发明家
 roman inventor:罗马的发明家
 roman investors:罗马的投资者
 roman is a nigger:罗马是一个黑鬼
+roman italia:罗马意大利
+roman italy:罗马意大利
 roman jail:罗马监狱
 roman jews:罗马犹太人
 roman jews:罗马的犹太人
 roman kids:罗马的孩子
 roman kiln:罗马窑
+roman king:罗马人国王
 roman king:罗马国王
 roman kingdom:罗马王国
 roman kingdom:羅馬王國
+roman knight:罗马骑士
 roman knowledge:罗马知识
 roman lake:罗马湖
 roman land:罗马土地
@@ -8759,6 +8839,8 @@ roman law as:罗马法当作
 roman law expert:罗马法专家
 roman law studies:罗马法研究
 roman law:罗马法
+roman law:罗马法律
+roman laws:罗马法律
 roman lead:罗马的铅
 roman leader:罗马领袖
 roman legend:罗马传说
@@ -8794,6 +8876,7 @@ roman merchant ship:罗马商船
 roman messenger:罗马信使
 roman method:罗马的方法
 roman mile:罗马英里
+roman milestone:罗马里程碑
 roman military base:罗马军事基地
 roman military commander:罗马军事指挥官
 roman military frontiers and fortifications:罗马军事边界和防御工事
@@ -8803,6 +8886,7 @@ roman military units:罗马军事单位
 roman military:罗马军事
 roman military:罗马军队
 roman military:罗马的军事
+roman military:罗马軍隊
 roman mining:罗马采矿业
 roman monarch:罗马君主
 roman monarchy:罗马的君主制
@@ -8825,6 +8909,7 @@ roman nationality:罗马国籍
 roman navy:罗马海军
 roman navy:羅馬海軍
 roman necropolis:罗马大墓地
+roman nettle:罗马荨麻
 roman news:罗马新闻
 roman nightlife:罗马夜生活
 roman nightlife:罗马的夜生活
@@ -8832,6 +8917,8 @@ roman noble:罗马贵族
 roman nose:罗马鼻
 roman nose:罗马鼻子
 roman number:罗马数
+roman number:罗马数字
+roman numbers:罗马数字
 roman numerals and fraction:罗马数字和分数
 roman numerals converter:罗马数字转换器
 roman numerals still:罗马数字仍然
@@ -8854,6 +8941,7 @@ roman painting:罗马的绘画
 roman palace:罗马宫殿
 roman palace:罗马的宫殿
 roman pannonia:罗马潘诺尼亚
+roman pantheon:罗马万神殿
 roman parallel:罗马平行的
 roman parish:罗马教区
 roman parrot:罗马鹦鹉
@@ -8923,6 +9011,7 @@ roman public transport:罗马的公共交通
 roman public:罗马公共
 roman purple:罗马紫色
 roman question:罗马问题
+roman questions:罗马问题
 roman rather than:罗马而不是
 roman ratio:罗马的比例
 roman reader:罗马读者
@@ -8949,6 +9038,7 @@ roman republic:罗马的共和制
 roman research:罗马研究
 roman residents protest:罗马居民抗议
 roman residents:罗马居民
+roman revolution:罗马革命
 roman ring:罗马戒指
 roman rite:羅馬禮
 roman ritual:罗马仪式
@@ -8959,6 +9049,7 @@ roman road system:罗马道路系统
 roman road:罗马的道路
 roman road:罗马路
 roman road:罗马道路
+roman roads:罗马路
 roman roads:羅馬道路
 roman rock:罗马岩石
 roman rome from:罗马罗马从
@@ -8968,6 +9059,7 @@ roman root:罗马根
 roman root:罗马的根
 roman rota:教廷法院
 roman route:罗马路线
+roman ruins:罗马废墟
 roman ruler:罗马的统治者
 roman ruler:罗马统治者
 roman said:罗马人说
@@ -8989,6 +9081,7 @@ roman sculpture:罗马雕塑
 roman sea:罗马的海
 roman senate:罗马参议院
 roman senate:羅馬元老院
+roman settlement:罗马殖民地
 roman settler:罗马定居者
 roman settler:罗马的定居者
 roman shepherd:罗马牧羊人
@@ -9000,6 +9093,7 @@ roman siege engines:古罗马攻城器械
 roman skull:罗马人头骨
 roman slave:罗马奴隶
 roman slogan:罗马口号
+roman snail:罗马蜗牛
 roman society:罗马社会
 roman soldier:罗马士兵
 roman soldier:罗马的士兵
@@ -9089,6 +9183,7 @@ roman tradition:罗马传统
 roman tradition:罗马的传统
 roman traffic:罗马交通
 roman tragedy:罗马悲剧
+roman transliteration:罗马字母转写
 roman travel:罗马旅行
 roman traveler:罗马旅行者
 roman tribe:罗马部落
@@ -9101,6 +9196,7 @@ roman twelfth:罗马第十二
 roman type:羅馬體
 roman typeface:罗马字体
 roman umbrella:罗马伞
+roman university:罗马大学
 roman upper class:罗马上层阶级
 roman use:罗马使用
 roman vacation motel:羅馬假期汽車旅館
@@ -9189,6 +9285,7 @@ romanesque and gothic architecture:罗马式和哥特式建筑
 romanesque architectural style:罗马式建筑风格
 romanesque architecture and sculpture:罗曼式建筑与雕塑
 romanesque architecture:罗曼式建筑
+romanesque architecture:罗马式建筑
 romanesque art and sculpture:罗马式艺术和雕塑
 romanesque art:罗马式美术
 romanesque art:罗马式艺术
@@ -9199,12 +9296,15 @@ romanesque castle:罗马式城堡
 romanesque cathedral:罗马式大教堂
 romanesque church:罗马式教堂
 romanesque column:罗马式柱
+romanesque construction:罗马式建筑
 romanesque design as well as some:罗马式设计以及一些
 romanesque design:罗马式设计
 romanesque painting:罗马式绘画
+romanesque period:罗马式时期
 romanesque prague:罗马式布拉格
 romanesque revival architecture:羅曼復興式建築
 romanesque san:罗马式圣
+romanesque sculpture:罗马式雕塑
 romanesque structure:罗马式结构
 romanesque style:罗马式风格
 romanesque towers:罗马式塔
@@ -9212,11 +9312,23 @@ romanesque visual art:罗马式视觉艺术
 romanesque:罗马式
 romange:罗芒日
 romangordo:罗曼戈尔多
+romani alphabet:羅馬尼亞字母
+romani culture:罗马尼亚文化
+romani culture:羅馬尼亞文化
 romani holocaust:吞灭
+romani jews:罗马尼亚犹太人
 romani language:罗姆语
+romani language:罗马尼亚语言
+romani languages:罗马尼亚语言
+romani literature:罗马尼亚文学
+romani music:罗马尼亚音乐
+romani mythology:罗马尼亚神话
+romani nationalism:羅馬尼亞民族主義
 romani people in slovakia:斯洛伐克羅姆人
 romani people in the czech republic:捷克羅姆人
 romani people:罗姆人
+romani population:羅馬尼亞人口
+romani slavery:罗马尼亚奴隶制度
 romani:luómăníyà
 romani:罗马尼亚
 romani:罗马尼亚 / 羅馬尼亞
@@ -9522,10 +9634,12 @@ romanian boxing:罗马尼亚拳击
 romanian boy:罗马尼亚男孩
 romanian branch:罗马尼亚分支
 romanian bread:罗马尼亚面包
+romanian bridgehead:罗马尼亚桥头堡
 romanian bridgehead:羅馬尼亞橋頭堡
 romanian business:罗马尼亚商业
 romanian cabinet:罗马尼亚内阁
 romanian calendar:羅馬尼亞曆
+romanian campaign:罗马尼亚战役
 romanian canadian:罗马尼亚加拿大
 romanian candidate:罗马尼亚候选人
 romanian capital market:罗马尼亚资本市场
@@ -9570,12 +9684,14 @@ romanian corn exports:罗马尼亚玉米出口
 romanian corn:罗马尼亚玉米
 romanian count:罗马尼亚伯爵
 romanian count:罗马尼亚计数
+romanian coup:罗马尼亚政变
 romanian court:罗马尼亚法院
 romanian crime:罗马尼亚犯罪
 romanian cuisine:羅馬尼亞飲食
 romanian cultural center in beijing:北京罗马尼亚文化中心
 romanian culture and civilization:罗马尼亚文化和文明
 romanian culture:罗马尼亚文化
+romanian cup:罗马尼亚杯
 romanian currency:罗马尼亚货币
 romanian cyrillic alphabet:羅馬尼亞語西里爾字母
 romanian deadlift:罗马尼亚硬拉
@@ -9586,6 +9702,7 @@ romanian director:罗马尼亚导演
 romanian doctors:罗马尼亚的医生
 romanian domain name registrar:罗马尼亚域名注册商
 romanian domain name:罗马尼亚域名
+romanian drama:罗马尼亚戏剧
 romanian economy:罗马尼亚的经济
 romanian economy:罗马尼亚经济
 romanian education:罗马尼亚教育
@@ -9617,6 +9734,8 @@ romanian founders:罗马尼亚创始人
 romanian friend:罗马尼亚朋友
 romanian furniture export:罗马尼亚家具出口
 romanian furniture:罗马尼亚家具
+romanian germans:罗马尼亚德意志人
+romanian germans:罗马尼亚的德意志人
 romanian girl:罗马尼亚女孩
 romanian girl:罗马尼亚姑娘
 romanian gold:罗马尼亚金
@@ -9635,6 +9754,7 @@ romanian heritage:罗马尼亚遗产
 romanian hero:罗马尼亚英雄
 romanian higher education:罗马尼亚的高等教育
 romanian history:罗马尼亚历史
+romanian history:罗马尼亚语历史
 romanian human rights:罗马尼亚人权
 romanian immigrants:罗马尼亚移民
 romanian immigration:罗马尼亚移民
@@ -9649,16 +9769,20 @@ romanian internet:罗马尼亚互联网
 romanian internship:罗马尼亚实习
 romanian iron:罗马尼亚铁
 romanian jail:罗马尼亚监狱
+romanian jew:罗马尼亚犹太人
 romanian jews:罗马尼亚犹太人
 romanian jews:罗马尼亚的犹太人
 romanian journalists:罗马尼亚记者
 romanian judge:罗马尼亚法官
+romanian king:罗马尼亚国王
 romanian kingdom:罗马尼亚王国
 romanian kunniakonsulaatti:罗马尼亚名誉领事馆
 romanian land forces:羅馬尼亞陸軍
 romanian landscape:罗马尼亚景观
 romanian language:罗马尼亚的语言
+romanian language:罗马尼亚语言
 romanian language:羅馬尼亞語
+romanian languages:罗马尼亚语言
 romanian law allow:罗马尼亚法律允许
 romanian law:罗马尼亚法律
 romanian league:罗马尼亚联盟
@@ -9690,7 +9814,9 @@ romanian mountain:罗马尼亚山
 romanian movie:罗马尼亚电影
 romanian music:罗马尼亚音乐
 romanian musician:罗马尼亚的音乐家
+romanian mythology:罗马尼亚神话
 romanian name:罗马尼亚人名
+romanian nation:罗马尼亚语国家
 romanian national anthem:罗马尼亚国歌
 romanian national bank:罗马尼亚国家银行
 romanian national day:罗马尼亚国庆日
@@ -9740,8 +9866,10 @@ romanian poet:罗马尼亚诗人
 romanian police:罗马尼亚警察
 romanian politician:罗马尼亚政客
 romanian politician:罗马尼亚的政治家
+romanian politics:罗马尼亚政治
 romanian population:罗马尼亚人口
 romanian port:罗马尼亚港口
+romanian premier:罗马尼亚首相
 romanian president:罗马尼亚总统
 romanian prime minister:罗马尼亚总理
 romanian prince:罗马尼亚王子
@@ -9762,6 +9890,7 @@ romanian railway:罗马尼亚铁路
 romanian regions:罗马尼亚地区
 romanian relation:罗马尼亚的关系
 romanian representative:罗马尼亚的代表
+romanian republic:罗马尼亚共和国
 romanian researchers:罗马尼亚的研究人员
 romanian retail assets:罗马尼亚零售资产
 romanian retail:罗马尼亚零售
@@ -9801,6 +9930,7 @@ romanian soldier:罗马尼亚士兵
 romanian space agency:羅馬尼亞太空總署
 romanian state:罗马尼亚国家
 romanian state:罗马尼亚的状态
+romanian state:罗马尼亚语国家
 romanian student:罗马尼亚学生
 romanian students:罗马尼亚学生
 romanian students:罗马尼亚的学生
@@ -9836,6 +9966,7 @@ romanian water:罗马尼亚水
 romanian werewolf:罗马尼亚狼人
 romanian wheat:罗马尼亚小麦
 romanian whist:罗马尼亚惠斯特
+romanian wikipedia:罗马尼亚语维基百科
 romanian wikipedia:羅馬尼亞語維基百科
 romanian wine:罗马尼亚葡萄酒
 romanian wine:羅馬尼亞葡萄酒
@@ -9995,6 +10126,7 @@ romantic belief:浪漫的信念
 romantic beverage:浪漫的饮料
 romantic bicycle:浪漫的自行车
 romantic birthday:浪漫的生日
+romantic blue:浪漫的藍色
 romantic bone:浪漫的骨头
 romantic book:浪漫的书
 romantic books:浪漫的书
@@ -10553,9 +10685,11 @@ rombiolo:龙比奥洛
 romblon island:朗布隆島
 romblon:朗布隆省
 rombly:龙布利
+rome academy:罗马学院
 rome accommodation:罗马住宿
 rome admitted:罗马承认
 rome adventure:罗马冒险
+rome adventure:羅馬冒險
 rome after:罗马后
 rome against:罗马反对
 rome airport hotel:罗马机场酒店
@@ -10667,6 +10801,7 @@ rome ciampino:罗马钱皮诺
 rome city centre:罗马市中心
 rome city council:罗马市议会
 rome city:罗马城市
+rome city:羅馬城市
 rome climate:罗马气候
 rome community:罗马社区
 rome company:罗马公司
@@ -10679,10 +10814,13 @@ rome could:罗马能
 rome court:羅馬閣
 rome criticise:罗马批评
 rome criticize:罗马批评
+rome cup:罗马杯
 rome currently:罗马目前
 rome deal:罗马处理
 rome declaration:罗马声明
 rome deprive:罗马剥夺
+rome derby:罗马德比
+rome derby:羅馬德比
 rome diamond league:罗马钻石联赛
 rome during:罗马期间
 rome earlier this month:罗马本月早些时候
@@ -10737,6 +10875,9 @@ rome is our:罗马是我们的
 rome is very:罗马是非常
 rome is you:罗马是你
 rome italy temple:義大利羅馬聖殿
+rome italy:罗马意大利
+rome italy:羅馬意大利
+rome italy:羅馬義大利
 rome jail:罗马监狱
 rome january term course:罗马一月学期课程
 rome january:罗马一月
@@ -10755,6 +10896,7 @@ rome mayor virginia:罗马市长弗吉尼亚
 rome mayor:罗马市长
 rome mayoral:罗马市长
 rome meeting:罗马会议
+rome metro:罗马地铁
 rome metro:羅馬地鐵
 rome metropolitan area:羅馬都會區
 rome military:罗马军事
@@ -10763,6 +10905,7 @@ rome needs:罗马需要
 rome new year parade:罗马新年游行
 rome new year:罗马新年
 rome now:罗马现在
+rome observatory:羅馬天文台
 rome offer:罗马提供
 rome office:罗马办公室
 rome olympic stadium:罗马奥林匹克体育场
@@ -10794,6 +10937,8 @@ rome private:罗马私人
 rome prize:罗马奖
 rome protect:罗马保护
 rome prove:罗马证明
+rome province:罗马省
+rome province:羅馬省
 rome public transport:罗马公共交通
 rome quarter:罗马四分之一
 rome railway station:罗马火车站
@@ -10832,9 +10977,14 @@ rome too:罗马也
 rome tourism:罗马旅游
 rome tournament:罗马锦标赛
 rome township:罗马镇区
+rome township:羅馬鎮區
 rome train station:罗马火车站
+rome tram:罗马有轨电车
+rome tram:羅馬有軌電車
 rome treaty:罗马条约
 rome umbrella:罗马伞
+rome university:罗马大学
+rome university:羅馬大學
 rome until:罗马直到
 rome vatican:罗马梵蒂冈
 rome wait:罗马等待
@@ -10918,6 +11068,7 @@ romexpo:罗马尼亚展览中心
 romeyer:罗梅耶
 romeïky:羅梅伊基
 romford railway station:羅姆福德站
+romford station:羅姆福德站
 romford:羅姆福德
 romi park:朴璐美
 romifidine:罗米非定
@@ -10988,6 +11139,7 @@ romulan bird-of-prey:罗慕伦猛禽
 romulan border:罗慕伦边界
 romulan commander:罗慕伦指挥官
 romulan cruiser:罗慕伦巡洋舰
+romulan empire:罗慕伦帝国
 romulan government:罗慕伦政府
 romulan neutral:罗慕伦中立
 romulan republic:罗慕伦共和国
@@ -10995,6 +11147,7 @@ romulan secret police:罗慕伦秘密警察
 romulan senate:罗慕伦参议院
 romulan society:罗慕伦社会
 romulan space:罗慕伦空间
+romulan starship:罗慕伦星舰
 romulan vessel:罗慕伦船
 romulan war:罗慕伦战争
 romulan:罗慕伦
@@ -11270,6 +11423,7 @@ rongbuk monastery:绒布寺
 rongcao:容草
 rongcha:绒岔
 rongchang avenue:荣昌大道
+rongchang county:荣昌县
 rongchang district:róngchāng qū
 rongchang district:榮昌區
 rongchang district:荣昌区
@@ -11284,6 +11438,7 @@ rongchang:榮昌區
 rongchang:荣场
 rongchang:荣昌
 rongchang:荣昌区
+rongchangdongjie station:荣昌东街站
 rongchangdongjie:róngchāngdōngjiē
 rongchangdongjie:荣昌东街
 rongchao binhai building:荣超滨海大厦
@@ -11618,6 +11773,7 @@ rongjin:榕津
 rongjing dongjie station:荣京东街站
 rongjing lu:榕景路站
 rongjing road:融津路
+rongjingdongjie station:荣京东街站
 rongjingdongjie:róngjīngdōngjiē
 rongjingdongjie:荣京东街
 rongjiuwan:容九湾
@@ -11765,6 +11921,7 @@ rongshudong:榕樹崠
 rongshugang:榕樹崗
 rongshugong:榕樹公
 rongshui bridge:融水大桥
+rongshui county:融水县
 rongshui miao autonomous county:róngshuǐ miáozú zìzhì xiàn
 rongshui miao autonomous county:融水苗族自治县
 rongshui miao autonomous county:融水苗族自治縣
@@ -11984,6 +12141,7 @@ ronin warriors:魔神坛斗士
 roniviridae:桿状套病毒科
 ronnametre:容米
 ronneburg:龙讷堡
+ronneby airport:龙讷比机场
 ronneby municipality:龙讷比市镇
 ronneby:龙讷比
 ronnenberg:罗嫩贝格
@@ -12116,6 +12274,7 @@ roof fly:屋顶飞
 roof form:屋顶形式
 roof garden bar:屋頂花園酒吧
 roof garden:屋頂花園
+roof garden:屋顶花园
 roof glass:屋顶玻璃
 roof had been:屋顶已经
 roof half gallon:屋顶半加仑
@@ -12560,6 +12719,8 @@ room noise:房间噪音
 room not:房间不是
 room now:房间现在
 room number:房间数
+room number:罗马数字
+room number:羅馬数字
 room occasionally:房间偶尔
 room of a country:房间的一个国家
 room of a famous:房间的一个著名的
@@ -12919,6 +13080,7 @@ roosevelt about germany:罗斯福关于德国
 roosevelt about:罗斯福关于
 roosevelt accept:罗斯福接受
 roosevelt agree:罗斯福同意
+roosevelt airfield:罗斯福机场
 roosevelt airport:罗斯福机场
 roosevelt always:罗斯福总是
 roosevelt and franklin:罗斯福与富兰克林
@@ -12976,9 +13138,11 @@ roosevelt coffee:罗斯福咖啡
 roosevelt college:罗斯福学院
 roosevelt comprise:罗斯福组成
 roosevelt continue:罗斯福继续
+roosevelt corollary:罗斯福推论
 roosevelt corollary:羅斯福推論
 roosevelt county:罗斯福县
 roosevelt court:罗斯福法院
+roosevelt dam:罗斯福水坝
 roosevelt decided:罗斯福决定
 roosevelt decides:罗斯福决定
 roosevelt dime:罗斯福十美分硬币
@@ -13080,6 +13244,7 @@ roosevelt to edward:罗斯福到爱德华
 roosevelt too:罗斯福也
 roosevelt township:罗斯福镇区
 roosevelt university lake:羅斯福大學湖
+roosevelt university:罗斯福大学
 roosevelt university:羅斯福大學
 roosevelt war library:罗斯福战争图书馆
 roosevelt war:罗斯福战争
@@ -13392,6 +13557,7 @@ rooster laugh:公鸡笑
 rooster line:公鸡线
 rooster needs:公鸡需要
 rooster ring:公雞戒指
+rooster river:公鸡河
 rooster rock:公鸡岩石
 rooster seems:公鸡看起来
 rooster spirit:公鸡精神
@@ -13436,6 +13602,7 @@ root canal work:根管工作
 root canal:根管
 root cap:根冠
 root carbon:根碳
+root category:根分类
 root cause analysis and system:根本原因分析和系统
 root cause analysis require:根本原因分析需要
 root cause analysis system:根本原因分析系统
@@ -13603,6 +13770,7 @@ root puritans:根清教徒
 root ratio:根比例
 root record:根记录
 root ribbon:根絲帶
+root river:根河
 root root:根根
 root rot still:根腐病仍然
 root rot:根腐病
@@ -13624,6 +13792,7 @@ root size:根大小
 root soup:根汤
 root source:根源
 root sources:根源
+root space:根空间
 root starch:根淀粉
 root storage device:根存储设备
 root strategy:根战略
@@ -13804,6 +13973,9 @@ rosa khutor alpine resort:羅莎庫塔滑雪度假村
 rosa khutor extreme park:玫瑰莊園極限公園
 rosa khutor:羅莎庫塔滑
 rosa laevigata:金樱子
+rosa luksembourg:罗莎卢森堡
+rosa luxembourg:罗莎卢森堡
+rosa luxemburg:罗莎卢森堡
 rosa macrophylla:大叶蔷薇
 rosa maria velasco:韋羅莎
 rosa moyesii:华西蔷薇
@@ -13866,6 +14038,7 @@ rosario and san:罗萨里奥与圣
 rosario and san:罗萨里奥和圣
 rosario become:罗萨里奥成为
 rosario begin:罗萨里奥开始
+rosario cathedral:罗萨里奥主教座堂
 rosario central:罗萨里奥中央
 rosario church:罗萨里奥教堂
 rosario de la frontera department:羅薩里奧德拉弗龍特拉縣
@@ -13881,6 +14054,7 @@ rosario international airport:罗萨里奥国际机场
 rosario islands:羅薩里奧群島
 rosario mention:罗萨里奥提到
 rosario said:罗萨里奥说
+rosario strait:罗萨里奥海峡
 rosario university:罗萨里奥大学
 rosario:罗萨里奥
 rosarito:羅薩里多
@@ -13921,6 +14095,7 @@ roscigno:罗希尼奥
 roscio municipality:羅斯西奧市
 roscoe and conway:罗斯科和康威
 roscoe boulevard:罗斯科大道
+roscoe brady:罗斯科布雷迪
 roscoe button:罗斯科按钮
 roscoe decided:罗斯科决定
 roscoe glacier:羅斯科冰川
@@ -13929,6 +14104,7 @@ roscoe lecture:罗斯科讲座
 roscoe promontory:羅斯科角
 roscoe put on:罗斯科穿上
 roscoe said:罗斯科说
+roscoe station:罗斯科站
 roscoe township:罗斯科镇区
 roscoe village:罗斯科村
 roscoe:罗斯科
@@ -14033,6 +14209,8 @@ rose center for earth and space:罗斯地球和空间中心
 rose center:玫瑰中心
 rose chair:玫瑰椅
 rose challenge:玫瑰挑战
+rose chapel:玫瑰小堂
+rose chapel:玫瑰教堂
 rose charcoal kiln:玫瑰木炭窑
 rose charcoal:玫瑰木炭
 rose children:玫瑰儿童
@@ -14172,6 +14350,7 @@ rose lane:玫瑰里
 rose language:玫瑰语言
 rose last year:玫瑰去年
 rose law firm:罗斯律师事务所
+rose lawn:玫瑰草坪
 rose lee:玫瑰李
 rose let:玫瑰让
 rose line:玫瑰线
@@ -14195,17 +14374,20 @@ rose mont blanc:玫瑰勃朗峰
 rose month:玫瑰月
 rose moon:玫瑰月亮
 rose motel:玫瑰汽车旅馆
+rose mountain:玫瑰山
 rose museum:玫瑰博物馆
 rose no longer:玫瑰不再
 rose not:玫瑰不是
 rose notre dame:玫瑰圣母
 rose of york:約克玫瑰
 rose offer:玫瑰提供
+rose oil:玫瑰油
 rose oil:蔷薇花油
 rose open:玫瑰开
 rose or sleeping beauty:玫瑰或睡美人
 rose oxide:玫瑰醚
 rose painting:樂斯梅林
+rose palace:玫瑰宫殿
 rose parade theme:玫瑰花车游行主题
 rose parade:玫瑰巡遊
 rose parade:玫瑰游行
@@ -14312,6 +14494,7 @@ rose was a scholar:玫瑰是一个学者
 rose was at washington:玫瑰是在华盛顿
 rose was her name:玫瑰是她的名字
 rose was special:玫瑰是特别的
+rose water:玫瑰水
 rose water:蔷薇水
 rose west:玫瑰西
 rose when i:玫瑰当我
@@ -14341,6 +14524,7 @@ rose:玫瑰
 rose:蔷薇属
 roseate spoonbill:玫瑰琵鷺
 roseate tern:紅燕鷗
+roseau river:羅索河
 roseau:羅索
 roseburia:罗斯氏菌属
 rosecliff:玫瑰園
@@ -14481,6 +14665,7 @@ rosengarten group:羅森加滕山脈
 rosengarten:玫瑰花园
 rosengartenspitze:羅森加滕峰
 rosenhan experiment:罗森汉恩实验
+rosenheim station:罗森海姆站
 rosenheim station:罗森海姆车站
 rosenheim university of applied sciences:罗森海姆应用技术大学
 rosenheim:罗森海姆
@@ -14576,6 +14761,7 @@ rosja:俄罗斯 / 俄羅斯
 rosja:俄羅斯
 rosjal:羅沙利
 roskilde cathedral:罗斯基勒主教座堂
+roskilde cathedral:罗斯基勒大教堂
 roskilde county:羅斯基勒郡
 roskilde domkirke:罗斯基勒主教座堂
 roskilde domkyrka:罗斯基勒主教座堂
@@ -14584,6 +14770,7 @@ roskilde festival:罗斯基勒音乐节
 roskilde fjord:罗斯基勒峡湾
 roskilde municipality:羅斯基勒市鎮
 roskilde railway station:罗斯基勒站
+roskilde station:罗斯基勒站
 roskilde university:罗斯基勒大学
 roskilde:罗斯基勒
 roskildei székesegyház:罗斯基勒主教座堂
@@ -14639,6 +14826,7 @@ rosoŝo:罗索希
 rosoš:罗索希
 rospebach:羅斯珀巴赫河
 rospez:罗斯佩兹
+rosporden station:罗斯波尔当站
 rosporden:罗斯波尔当
 rosport:罗斯波特
 rospuda:羅斯普達河
@@ -14713,15 +14901,19 @@ rossio:罗西乌广场
 rossivka:羅西夫卡
 rossiwka:羅西夫卡
 rossiya airlines:俄罗斯国家航空
+rossiya bank:俄罗斯银行
 rossiya bank:俄羅斯銀行
 rossiya bosh konsulligi:俄罗斯总领事馆
 rossiya elchixonasi:俄罗斯大使馆
 rossiya federatsiyasi:俄罗斯
 rossiya federatsiyasi:俄羅斯
+rossiya hotel:俄罗斯酒店
 rossiya hotel:俄羅斯酒店
 rossiya konsulligi:俄罗斯领事馆
 rossiya segodnya:今日俄罗斯
 rossiya tekisligi:东欧平原
+rossiya tournament:俄罗斯锦标赛
+rossiya tv:俄罗斯电视
 rossiya:Éluósī
 rossiya:俄罗斯
 rossiya:俄罗斯 / 俄羅斯
@@ -14776,8 +14968,12 @@ rostochium:羅斯托克
 rostock and kiel:罗斯托克和基尔
 rostock hauptbahnhof:罗斯托克火车总站
 rostock port authority:罗斯托克港务局
+rostock port:罗斯托克港口
 rostock power station:羅斯托克發電廠
 rostock s bahn:羅斯托克城市快鐵
+rostock university:罗斯托克大学
+rostock university:罗斯托克大學
+rostock university:羅斯托克大學
 rostock zoo:罗斯托克动物园
 rostock-laage airport:罗斯托克－拉格机场
 rostock-laage flygplats:罗斯托克－拉格机场
@@ -14805,6 +15001,7 @@ rostov (tỉnh):罗斯托夫州
 rostov (tỉnh):羅斯托夫州
 rostov aan de don:頓河畔羅斯托夫
 rostov aan de don:顿河畔罗斯托夫
+rostov airport:顿河畔罗斯托夫机场
 rostov aon d'n don:頓河畔羅斯托夫
 rostov aon d'n don:顿河畔罗斯托夫
 rostov arena:羅斯托夫競技場
@@ -14834,6 +15031,7 @@ rostov oblasta:罗斯托夫州
 rostov oblasta:羅斯托夫州
 rostov on don pre trial detention center hostage crisis:頓河畔羅斯托夫看守所人質危機
 rostov on don:顿河畔罗斯托夫
+rostov region:罗斯托夫地区
 rostov sopra u donu:頓河畔羅斯托夫
 rostov sopra u donu:顿河畔罗斯托夫
 rostov state transport university:羅斯托夫國立交通大學
@@ -15136,6 +15334,7 @@ rotation ratio:转动比
 rotation sensor:转动传感器
 rotation speed:转动速度
 rotation system:转动系统
+rotation vector:转动向量
 rotation:转动
 rotational energy:旋转动能
 rotational frequency:轉速
@@ -15199,6 +15398,7 @@ roth an der our:乌尔河畔罗特
 roth apud prüm:罗特拜普吕姆
 rothan-rodongjagu:芦滩劳动者区
 rothan-rodongjagu:蘆灘勞動者區
+rothau station:罗托站
 rothau:罗托
 rothbach:罗特巴克
 rothbroicher bach:羅特布羅赫巴赫河
@@ -15216,6 +15416,7 @@ rotherham child sexual exploitation scandal:羅瑟勒姆性侵案
 rotherham college:羅瑟勒姆學院
 rotherham:羅瑟勒姆
 rotherhithe railway station:羅瑟希德站
+rotherhithe station:羅瑟希德站
 rotherhithe:羅瑟希德
 rothesay:羅斯西
 rothia kristinae:克氏羅氏菌
@@ -15372,6 +15573,7 @@ rottenmann:羅滕曼
 rottenschwil:羅滕施維爾
 rotterdam ahoy:鹿特丹阿侯伊體育館
 rotterdam airport:鹿特丹机场
+rotterdam airport:鹿特丹機場
 rotterdam and amsterdam:鹿特丹和阿姆斯特丹
 rotterdam and antwerp:鹿特丹和安特卫普
 rotterdam and beijing:鹿特丹和北京
@@ -15402,6 +15604,7 @@ rotterdam climate:鹿特丹气候
 rotterdam conference:鹿特丹会议
 rotterdam convention:关于在国际贸易中对某些危险化学品和农药采用事先知情同意程序的鹿特丹公约
 rotterdam create:鹿特丹创造
+rotterdam derby:鹿特丹德比
 rotterdam entrepreneur:鹿特丹企业家
 rotterdam eye:鹿特丹眼
 rotterdam film festival:鹿特丹电影节
@@ -15452,7 +15655,9 @@ rotterdam suffer:鹿特丹遭受
 rotterdam the hague airport:鹿特丹海牙机场
 rotterdam the hague:鹿特丹海牙
 rotterdam tournament:鹿特丹锦标赛
+rotterdam tram:鹿特丹有轨电车
 rotterdam university:鹿特丹大学
+rotterdam university:鹿特丹大學
 rotterdam welcome:鹿特丹欢迎
 rotterdam would:鹿特丹将
 rotterdam zoo:鹿特丹动物园
@@ -15471,7 +15676,9 @@ rotue huánshān:huánshān lù
 rotue huánshān:环山路
 rotula aquatica:轮冠木
 rotularia:輪管蟲屬
+rotuma airport:罗图马機場
 rotuma group:羅圖馬群島
+rotuma island:罗图马岛
 rotuma:罗图马
 rotumans:罗图马人
 rotunda cidade nova:新城圆形地
@@ -15602,6 +15809,7 @@ roudouliao:肉豆寮
 roue de paris:巴黎摩天輪
 rouelbeau castle:鲁埃尔博城堡
 rouelles:鲁埃勒
+rouen airport:鲁昂机场
 rouen and marseille:鲁昂和马赛
 rouen business school:鲁昂商学院
 rouen castle:鲁昂城堡
@@ -15614,6 +15822,7 @@ rouen employees:鲁昂员工
 rouen fire:鲁昂火
 rouen hospital:鲁昂医院
 rouen is a perfect:鲁昂是一个完美的
+rouen metropolis:鲁昂大都市
 rouen mountains:魯昂山脈
 rouen museum:鲁昂博物馆
 rouen norman:鲁昂诺曼
@@ -16179,7 +16388,9 @@ rousseau peak:盧梭峰
 rousseloy:鲁斯卢瓦
 rousset les vignes:鲁塞莱维涅
 roussieux:鲁雪
+roussillon plain:鲁西永平原
 roussillon region:鲁西永地区
+roussillon war:鲁西永战争
 roussillon:鲁西永
 roussin's black salt:陆森黑盐
 roussin's red salt:陆森红盐
@@ -17513,6 +17724,7 @@ rovan:鲁昂
 rovaniemen palloseura:羅瓦涅米足球俱樂部
 rovaniemi airport located:罗瓦涅米机场位于
 rovaniemi airport:罗瓦涅米机场
+rovaniemi airport:羅瓦涅米機場
 rovaniemi art museum:罗瓦涅米艺术博物馆
 rovaniemi city centre:罗瓦涅米市中心
 rovaniemi meeting:罗瓦涅米会议
@@ -17573,6 +17785,7 @@ rovio entertainment:罗维奥娱乐
 rovito:罗维托
 roviño:罗维尼
 roviño:羅維尼
+rovno amber:罗夫诺琥珀
 rovno:罗夫诺
 rovno:里夫內
 rovnoe:罗夫诺耶
@@ -17608,6 +17821,7 @@ row attribute:行属性
 row before:行之前
 row black:行黑色
 row board:行板
+row boat:行船
 row boundary:行边界
 row building:行建筑
 row calculations:行计算
@@ -17636,6 +17850,7 @@ row had been:行已经
 row has been:行已经
 row header:行标题
 row high:行高
+row home:行家
 row house in sumiyoshi:住吉的长屋
 row house:行房子
 row identifier:行标识符
@@ -17685,6 +17900,7 @@ row size:行大小
 row sort:行排序
 row source:行源
 row sources:行源
+row space:行空間
 row space:行空间
 row statement:行语句
 row sub:行子
@@ -17850,6 +18066,7 @@ royal adelaide hospital:皇家阿德莱德医院
 royal adelaide:皇家阿德莱德
 royal administration:皇家管理
 royal administrative centre:皇家行政中心
+royal admiral:皇家海軍上將
 royal adventure:皇家冒险
 royal aerospace:皇家航空航天
 royal aesthetics:皇家美学
@@ -17899,6 +18116,7 @@ royal alex:皇家亚历克斯
 royal alexandra hospital:皇家亚历山大医院
 royal alexandra theatre:皇家亞歷珊卓劇院
 royal alley:皇家巷
+royal alliance:皇家联盟
 royal alpaca and baby:皇家羊驼和婴儿
 royal alpaca:皇家羊驼
 royal american:皇家的美国人
@@ -17931,6 +18149,7 @@ royal archcathedral basilica of saints stanislaus and wenceslaus:瓦維爾主教
 royal architecture:皇家建筑学
 royal archive:皇家档案
 royal archive:皇家檔案
+royal archives:皇家檔案館
 royal arctic institute:皇家北极学院
 royal arctic institute:皇家北极研究所
 royal arctic:皇家北极
@@ -17944,6 +18163,7 @@ royal armoured corps:皇家装甲兵团
 royal armouries museum:皇家兵械庫博物館
 royal armouries:皇家兵械庫
 royal armoury of turin:都灵皇家军械库
+royal armoury:皇家军械库
 royal army and military:皇家军队与军事
 royal army education:皇家陆军教育
 royal army medical corps:皇家陆军军医队
@@ -17986,6 +18206,7 @@ royal author:皇家作者
 royal authority:皇家权威
 royal auto:皇家汽车
 royal automobile club:皇家汽车俱乐部
+royal aviation:皇家航空
 royal await:皇家等待
 royal baby birth:皇家婴儿出生
 royal baby george:皇家婴儿乔治
@@ -17995,6 +18216,7 @@ royal babylon:皇家巴比伦
 royal badge of wales:威尔士皇家徽章
 royal badge of wales:威爾斯皇家徽章
 royal badge:皇家徽章
+royal badges:皇家徽章
 royal bafokeng stadium:皇家班巴夫肯球場
 royal bahrain:皇家巴林
 royal bali ximending:皇家巴黎會館
@@ -18061,6 +18283,7 @@ royal blood:皇家血
 royal blood:皇家血液
 royal blue hap:異齒大咽非鯽
 royal blue:皇室藍
+royal blue:皇家藍色
 royal boarding school:皇家寄宿学校
 royal boat:皇家的船
 royal bodyguard:皇家保鏢
@@ -18073,6 +18296,7 @@ royal borough of greenwich:格林威治區
 royal borough of kensington and chelsea:肯辛頓和切爾西區
 royal borough of kingston upon thames:泰晤士河畔京士頓區
 royal borough of windsor and maidenhead:溫莎-梅登黑德
+royal borough:皇家自治市鎮
 royal botanic garden edinburgh:愛丁堡皇家植物園
 royal botanic gardens victoria:维多利亚皇家植物园
 royal botanic gardens, kew:伦敦基尤皇家植物园
@@ -18092,6 +18316,7 @@ royal breakfast:皇家早餐
 royal breast:皇家乳房
 royal bride:皇家新娘
 royal bridge:皇家桥
+royal bridge:皇家橋
 royal brief:皇家简报
 royal brisbane hospital:皇家布里斯班医院
 royal brisbane:皇家布里斯班
@@ -18171,10 +18396,13 @@ royal champion:皇家冠军
 royal chancellor:皇家总理
 royal chapel of all saints:诸圣皇家礼拜堂
 royal chapel of st katherine upon the hoe:圣杰灵皇家礼拜堂
+royal chapel:皇家小堂
+royal chapel:皇家教堂
 royal chapel:皇家禮拜堂
 royal chaplain:皇家牧师
 royal chapter:皇家章
 royal chariot:皇家戰車
+royal charleroi:皇家沙勒罗瓦
 royal charles:皇家查尔斯
 royal charlotte reef:皇路礁
 royal charter:皇家特許狀
@@ -18192,8 +18420,10 @@ royal chocolate:皇家巧克力
 royal choice:皇家的选择
 royal christmas message:英皇聖誕文告
 royal christmas:皇家圣诞节
+royal chronicle:皇家编年史
 royal church:皇家教堂
 royal cinque ports golf club:皇家五港高爾夫俱樂部
+royal citadel:皇家城堡
 royal cities:皇家城市
 royal city national park:皇家城市国家公园
 royal city national park:皇家城市國家公園
@@ -18351,11 +18581,14 @@ royal diamond:皇鑽海
 royal dick can offer:皇家迪克可以提供
 royal dick:皇家迪克
 royal dignity:皇家尊严
+royal dock:皇家碼頭
 royal dock:皇家船坞
+royal dock:皇家船塢
 royal doctor:皇家医生
 royal documents:皇家文件
 royal dog:皇家犬
 royal dog:皇家狗
+royal dog:皇家碼頭
 royal door:皇家门
 royal dornoch golf club:皇家多諾赫高爾夫俱樂部
 royal dornoch:皇家多诺赫
@@ -18412,6 +18645,7 @@ royal engineers:皇家工程师
 royal engineers:英國皇家工兵部隊
 royal entertainment:皇家娱乐
 royal entomological society:英国皇家昆虫学会
+royal entry:皇家入口
 royal entry:迎駕劇
 royal escape:皇家逃脱
 royal europe:皇家欧洲
@@ -18537,12 +18771,14 @@ royal farm:皇家农场
 royal fashion:皇家时尚
 royal father:皇家父亲
 royal father:皇家的父亲
+royal fellow:皇家院士
 royal festival hall:皇家節日音樂廳
 royal festival hall:皇家节日大厅
 royal festival:皇家节日
 royal film:皇家电影
 royal finance:皇家财政
 royal fireworks:皇家烟火
+royal fish:皇家鱼
 royal flag:皇家旗
 royal flag:皇家旗幟
 royal flags of thailand:泰国王室旗帜
@@ -18642,6 +18878,8 @@ royal guard of honour:皇家仪仗队
 royal guard:禁軍
 royal guelphic order:皇家圭尔夫勋章
 royal guest:皇家宾客
+royal gymnasium:皇家体育馆
+royal gymnasium:皇家體育館
 royal hall:皇家大厅
 royal hand:皇家的手
 royal harp:皇家竖琴
@@ -18706,6 +18944,9 @@ royal house:皇家的房子
 royal households of the united kingdom:英國皇室內廷
 royal human:皇家人
 royal hungarian army:匈牙利王国陆军
+royal hungary:皇家匈牙利
+royal hunt:皇家猎杀
+royal hunter:皇家猎人
 royal hunting:皇家狩獵
 royal husband:皇家丈夫
 royal husband:皇家的丈夫
@@ -18778,6 +19019,7 @@ royal knight academy:皇家骑士学院
 royal knight:皇家骑士
 royal knoll block 1:豪峰嶺第一座
 royal knoll block 2:豪峰嶺第二座
+royal kurgan:皇家库尔干
 royal lake:皇家湖
 royal lancaster:皇家蘭卡斯特
 royal lancer:皇家槍騎兵
@@ -18791,8 +19033,10 @@ royal lao government:老挝皇家政府
 royal lao police:老挝皇家警察
 royal latin school:皇家拉丁学校
 royal law:皇家法律
+royal league:皇家联盟
 royal league:皇家联赛
 royal leicester:皇家莱斯特
+royal leopard:皇家豹
 royal letter:皇家信
 royal levee:皇家堤
 royal library and part:皇家圖書館和部分
@@ -18869,6 +19113,8 @@ royal marechaussee:荷蘭皇家憲兵隊
 royal marina plaza:科尔海悦酒店
 royal marina plaza:科爾海悅酒店
 royal marines museum:皇家海軍陸戰隊博物館
+royal marines:皇家海军陆战队
+royal marines:皇家海軍陸戰隊
 royal marines:英國皇家海軍陸戰隊
 royal marriage:皇家婚姻
 royal marriage:皇家的婚姻
@@ -18907,6 +19153,7 @@ royal military school:皇家军事学校
 royal military training:皇家军事训练
 royal military:皇家军事
 royal military:皇家军队
+royal military:皇家軍隊
 royal mint of spain:西班牙皇家鑄幣廠
 royal mint theatre:皇家铸币局剧院
 royal mint:皇家鑄幣廠
@@ -19073,6 +19320,7 @@ royal notary:皇家公证人
 royal nova scotia:皇家新斯科舍省
 royal oak tube station:皇家橡站
 royal observatory of belgium:比利時皇家天文台
+royal observatory:皇家天文台
 royal ocean:皇家海洋
 royal office:皇家办公室
 royal office:皇家辦公室
@@ -19155,6 +19403,7 @@ royal para:皇家帕拉
 royal parade:皇家游行
 royal paramaribo:皇家帕拉马里博
 royal pardon:皇家特赦
+royal pari:皇家巴黎
 royal park foundation half marathon:皇家公园基金半程马拉松
 royal park hotel:帝都酒店
 royal park station:皇家公园站
@@ -19163,6 +19412,7 @@ royal park:复兴公园
 royal park:御園
 royal park:復興公園
 royal park:皇家公园
+royal park:皇家公園
 royal parks of london:伦敦御苑
 royal parrot:皇家鹦鹉
 royal parrotfinch:皇鹦雀
@@ -19181,6 +19431,7 @@ royal peak plaza:華誠中心
 royal peak:前海润峯府
 royal peak:前海潤峯府
 royal penguin:皇家企鵝
+royal penguin:皇家企鹅
 royal peninsula hotel:皇家半岛酒店
 royal peninsula:半岛豪庭
 royal peninsula:半島豪庭
@@ -19258,6 +19509,7 @@ royal project farm:皇家项目农场
 royal project:皇家项目
 royal projects:皇家项目
 royal property:皇家財產
+royal prosecutor:皇家檢察官
 royal protection:皇家保护
 royal protocol:皇家协议
 royal prussia:皇家普魯士
@@ -19305,7 +19557,10 @@ royal ritual:皇家仪式
 royal river:皇家河
 royal riviera:皇家里维埃拉
 royal road:波斯御道
+royal road:皇家路
+royal road:皇家道路
 royal roads university:加拿大皇家大學
+royal roads:皇家路
 royal robe:皇家的长袍
 royal robe:皇家长袍
 royal roi hotel:余舍行旅
@@ -19363,6 +19618,7 @@ royal seasons hotel:皇家季節酒店
 royal seasons hotel:皇家季節酒店(台中館)
 royal seat:皇家座位
 royal secret:皇家秘密
+royal secretariat:皇家秘書處
 royal secretary:皇家的秘书
 royal security:皇家保安
 royal security:皇家安全
@@ -19449,6 +19705,7 @@ royal space:皇家空间
 royal spanish academy:西班牙皇家学院
 royal spanish football federation:西班牙皇家足球協會
 royal spanish:皇家西班牙
+royal spanish:皇家西班牙人
 royal speedboat:皇家快艇
 royal spokesman:皇家发言人
 royal spokesperson:皇家发言人
@@ -19467,6 +19724,7 @@ royal statistic:皇家统计
 royal statistical society last year:皇家统计学会去年
 royal statistical society:皇家统计学会
 royal status:皇家地位
+royal stoa:皇家柱廊
 royal street structure:皇家街结构
 royal street:皇家街
 royal street:皇家街道
@@ -19511,6 +19769,7 @@ royal tenerife:皇家特内里费岛
 royal tennis club:皇家网球俱乐部
 royal tennis:皇家网球
 royal tent:皇家帐篷
+royal tern:皇家燕鷗
 royal terrace:御皇臺
 royal tetra:克氏青脂鯉
 royal thai air force museum:泰國皇家空軍博物館
@@ -19543,6 +19802,7 @@ royal tobacco factory:皇家烟厂
 royal tobacco:皇家烟草
 royal tomb of king suro station:首露王陵站
 royal tomb of king suro:首露王陵
+royal tomb:皇家墓室
 royal tombs in neungsan-ri, buyeo (baekje historic areas):扶餘 陵山里 古墳群
 royal tombs of baekje (ancient tombs in neungsan-ri, buyeo):扶餘 陵山里 古墳群 百济王陵园
 royal tombs of selca e poshtme:下塞爾塞皇家陵墓
@@ -19600,6 +19860,7 @@ royal victoria hotel:帝元维多利亚大酒店
 royal victoria park:皇家维多利亚公园
 royal victoria station:皇家维多利亚站
 royal victoria theatre:皇家维多利亚剧院
+royal victoria:皇家維多利亞
 royal victoria:皇家维多利亚
 royal victorian chain:皇家維多利亞鏈章
 royal victorian order:皇家維多利亞勳章
@@ -19625,6 +19886,7 @@ royal warship:皇家战舰
 royal water:皇家水
 royal watercolour:皇家水彩
 royal we:尊嚴複數
+royal wedding:皇家婚礼
 royal west of england academy:西英格兰皇家学院
 royal wharf:皇家碼頭
 royal whisky:皇家威士忌
@@ -19763,6 +20025,7 @@ rozhajë:罗扎伊
 rozhajë:羅扎伊
 rozhanivka:羅扎尼夫卡
 rozhdestveno memorial estate:罗日德斯特韦诺庄园
+rozhdestvensky monastery:罗日杰斯特文斯基修道院
 rozhdestvensky:罗日杰斯特文斯基
 rozhen peninsula:羅任半島
 rozhniativ raion:羅日尼亞蒂夫區

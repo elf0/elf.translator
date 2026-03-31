@@ -16,6 +16,7 @@ pyanan:南山
 pyang zhuang language:扶平语
 pyaozersky:皮亚奥泽尔斯基
 pyapon district:壁磅县
+pyapon river:壁磅河
 pyapon township:壁磅镇区
 pyapon:壁磅
 pyapon:壁磅县
@@ -35,6 +36,7 @@ pyatthat:比亚达
 pyawbwe township:標貝鎮區
 pyawbwe:標貝
 pyawbwe:標貝鎮區
+pyay airport:卑谬机场
 pyay district:卑謬縣
 pyay district:卑谬县
 pyay township:卑谬镇区
@@ -88,6 +90,7 @@ pyeongan-dong:平安洞
 pyeongbang:坪方里
 pyeongchang bus terminal:平昌汽车客运站
 pyeongchang community service center:平昌居委会
+pyeongchang county:平昌县
 pyeongchang county:平昌郡
 pyeongchang elementary school:平昌小学
 pyeongchang high school:平昌高中
@@ -96,12 +99,15 @@ pyeongchang national livestock cooperative federation:平昌畜牧合作联盟
 pyeongchang nonghyup:平昌农协
 pyeongchang olympic market:平昌奥林匹克市场
 pyeongchang olympic stadium:平昌奧林匹克體育場
+pyeongchang olympics:平昌奥运会
 pyeongchang police station:平昌派出所
 pyeongchang police station:平昌警察局
 pyeongchang post office:平昌邮局
+pyeongchang river:平昌河
 pyeongchang service station (to gangneung):平昌服务站
 pyeongchang service station (to incheon):平昌服务站
 pyeongchang stadium:平昌综合运动场
+pyeongchang station:平昌站
 pyeongchang youth hostel:平昌青年旅舍
 pyeongchang-daero:平昌大路
 pyeongchang-dong:平仓洞
@@ -124,6 +130,7 @@ pyeongchon-ri:平村里
 pyeongdae-ri:坪岱里
 pyeongdong station:平洞站
 pyeongeun-myeon:平恩面
+pyeonggang county:平江县
 pyeonggang station:平江站
 pyeonggang-eup:平康邑
 pyeonggang:平江
@@ -373,6 +380,7 @@ pyongchon 2-dong:平川二洞
 pyongchon guyok:平川區域
 pyongdok line:平德線
 pyongdok line:平德线
+pyonggang county:平康县
 pyonggang county:平康郡
 pyonggang station:平康站
 pyonggang-gun:平康郡
@@ -391,6 +399,7 @@ pyongra line:平羅線
 pyongsan county:平山郡
 pyongsan shin clan:平山申氏
 pyongsong coal industry university:平城石炭工业大学
+pyongsong station:平城站
 pyongsong-si:平城市
 pyongsong:平城
 pyongsong:平城市
@@ -421,6 +430,7 @@ pyongyang and seoul:平壤与首尔
 pyongyang and seoul:平壤和首尔
 pyongyang and washington:平壤与华盛顿
 pyongyang and washington:平壤和华盛顿
+pyongyang arena:平壤市竞技场
 pyongyang arena:柳京鄭周永體育館
 pyongyang art:平壤艺术
 pyongyang automation instrument factory:平壤自动化仪器工厂
@@ -471,6 +481,7 @@ pyongyang government:平壤政府
 pyongyang grand theatre:平壤大劇場
 pyongyang grand theatre:平壤大劇院
 pyongyang grant:平壤授予
+pyongyang gymnasium:平壤体育馆
 pyongyang gymnasium:平壤體育館
 pyongyang half marathon:平壤半程马拉松
 pyongyang han tok su university of light industry:韩德铢平壤轻工业大学
@@ -488,6 +499,7 @@ pyongyang lack:平壤缺乏
 pyongyang launch:平壤发射
 pyongyang locomotive depot:平壤机务段
 pyongyang marathon:平壤馬拉松
+pyongyang marathon:平壤马拉松
 pyongyang maternity hospital:平壤妇产医院
 pyongyang maternity hospital:平壤產科醫院
 pyongyang medical college of kim il sung university:平壤医学大学
@@ -495,6 +507,7 @@ pyongyang medical university:平壤醫學大學
 pyongyang meeting:平壤会议
 pyongyang meeting:平壤會議
 pyongyang metro:平壤地鐵
+pyongyang metro:平壤地铁
 pyongyang middle school no.1:平壤第一中学校
 pyongyang mountain:平壤山
 pyongyang municipal nursing home:平壤养老院
@@ -556,6 +569,8 @@ pyongyang time:平壤时间
 pyongyang traffic:平壤交通
 pyongyang train station:平壤火车站
 pyongyang train:平壤训练
+pyongyang tram:平壤有軌電車
+pyongyang tram:平壤有轨电车
 pyongyang trolleybus plant:平壤无轨电车工厂
 pyongyang tv tower:平壤电视塔
 pyongyang twice:平壤两次
@@ -631,6 +646,7 @@ pyramid expert:金字塔专家
 pyramid familiar:金字塔熟悉的
 pyramid form:金字塔形式
 pyramid fountain:金字塔噴泉
+pyramid game:金字塔游戏
 pyramid games:金字塔游戏
 pyramid head:三角頭
 pyramid hill:大金鐘
@@ -645,6 +661,7 @@ pyramid is located in:金字塔位于
 pyramid island:金字塔岛屿
 pyramid laboratory:金字塔实验室
 pyramid lake:金字塔湖
+pyramid list:金字塔列表
 pyramid look:金字塔看
 pyramid management:金字塔管理
 pyramid market:金字塔市场
@@ -696,6 +713,7 @@ pyramid of userkaf:乌瑟卡夫金字塔
 pyramid of userkaf:烏塞爾卡夫金字塔
 pyramid ownership structure:金字塔所有权结构
 pyramid ownership:金字塔所有权
+pyramid peak:金字塔峰
 pyramid phenomenon:金字塔现象
 pyramid point:皮拉米德角
 pyramid power:金字塔力量
@@ -717,6 +735,7 @@ pyramid show:金字塔显示
 pyramid skylight:金字塔天窗
 pyramid slope:金字塔斜率
 pyramid stage:金字塔阶段
+pyramid station:金字塔站
 pyramid still:金字塔仍然
 pyramid stone:金字塔石头
 pyramid structure:金字塔结构
@@ -882,6 +901,7 @@ pyrimethamine lower:乙胺嘧啶降低
 pyrimethamine:乙胺嘧啶
 pyrimidine amide:嘧啶酰胺
 pyrimidine analogue:嘧啶类似物
+pyrimidine biosynthesis:嘧啶生物合成
 pyrimidine dehydrogenase:嘧啶脱氢酶
 pyrimidine dimer:嘧啶二聚体
 pyrimidine metabolism:嘧啶代謝
@@ -1015,6 +1035,7 @@ pyrrhus of epirus:皮洛士
 pyrrole:吡咯
 pyrrolidine:吡咯烷
 pyrroline:吡咯啉
+pyrrolizidine alkaloid:吡咯里西啶生物鹼
 pyrrolizidine:吡咯里西啶
 pyrroloquinoline quinone:吡咯并喹啉醌
 pyrrolysine:吡咯赖氨酸
@@ -1057,6 +1078,7 @@ pyshchache:皮夏切
 pyshchatyntsi:皮夏京齊
 pyshchugsky district:佩休格區
 pyshkivtsi:皮什基夫齊
+pyshma river:佩什马河
 pyshma:佩什马
 pyshminsky district:佩什马区
 pyskowice:佩斯科維采
@@ -1093,6 +1115,8 @@ pythagoras peak:畢達哥拉斯峰
 pythagoras proposed:毕达哥拉斯提出
 pythagoras questions:毕达哥拉斯问题
 pythagoras said:毕达哥拉斯说
+pythagoras theorem:毕达哥拉斯定理
+pythagoras tree:毕达哥拉斯树
 pythagoras was content:毕达哥拉斯是内容
 pythagoras would:毕达哥拉斯将
 pythagoras:毕达哥拉斯
@@ -1131,6 +1155,7 @@ python europaeus:欧洲巨蟒
 python four or five:蟒蛇四或五
 python four:蟒蛇四
 python head:蟒蛇头
+python plan:蟒蛇计划
 python problem:蟒蛇问题
 python root tree:巨蟒树
 python study:蟒蛇研究
@@ -1147,6 +1172,7 @@ pyura chilensis:鋼纖海鞘
 pyura:腕海鞘屬
 pyuria:膿尿
 pyuridae:腕海鞘科
+pyusawhti militia:骠绍梯民兵
 pyusawhti militias:骠绍梯民兵
 pyusawhti:骠绍梯
 pyvesa:皮維薩河

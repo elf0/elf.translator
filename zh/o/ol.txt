@@ -100,6 +100,7 @@ olbernhau:奥尔伯恩豪
 olbers's paradox:奧伯斯佯謬
 olbersdorf:奥尔伯斯多夫
 olbersleben:奥尔伯斯莱本
+olbia airport:奧爾比亞機場
 olbia railway station:奧爾比亞車站
 olbia:奧爾比亞
 olborga:奥尔堡
@@ -2119,6 +2120,7 @@ oldenborg:奥尔登堡
 oldenborstel:奥尔登博斯特尔
 oldenbourg:奥尔登堡
 oldenburg in holstein:荷尔斯泰因地区奥尔登堡
+oldenburg university:奥尔登堡大学
 oldenburg:奥尔登堡
 oldenburgum:奥尔登堡
 oldenhorn:奥尔登峰
@@ -2721,6 +2723,7 @@ olentangy glacier:奧倫坦吉冰川
 oleny island:奧列尼島
 olenya air base:奧列尼亞空軍基地
 olenyok gulf:奧列尼奧克灣
+olenyok river:奥列尼奥克河
 olenyok:奥列尼奥克
 olenyoksky district:奧列尼奧克區
 olenëk:奥列尼奥克
@@ -2737,6 +2740,7 @@ oleshky urban hromada:奥莱什基市镇
 oleshky:奧萊什基
 olesjky:奧萊什基
 oleski:奧萊什基
+olesko castle:奥莱斯科城堡
 olesko castle:奧萊斯科城堡
 olesko:奥莱斯科
 olesno county:奧萊斯諾縣
@@ -2797,6 +2801,7 @@ olga bay:奥尔加湾（石门湾）
 olga bay:奥莉加湾
 olga gorodetskaya:郭静云
 olga ilich:安珈賢
+olga lake:石门湖
 olga of kiev:基辅的奥莉加
 olga:石門
 olga:石门
@@ -2871,6 +2876,7 @@ oligonucleotide:寡核苷酸
 oligonychus:小爪螨属
 oligopithecidae:漸新猿科
 oligopithecus:漸新猿
+oligopoly theory:寡占理论
 oligopoly:寡占
 oligoporus:寡孔菌属
 oligopsony:买方寡头垄断
@@ -3268,6 +3274,8 @@ olonecas:奧洛涅茨
 olonets government of southern karelia:南卡累利阿奥洛涅茨政府
 olonets governorate:奧洛涅茨省
 olonets karelia:奥努斯卡累利阿
+olonets karelia:奧洛涅茨卡累利阿
+olonets province:奧洛涅茨省
 olonets:奧洛涅茨
 olonetsky district:奧洛涅茨區
 olonez:奧洛涅茨
@@ -3323,9 +3331,11 @@ olson's extinction:奥尔森灭绝事件
 olson's petrel:小聖赫勒拿島海燕
 olstad glacier:奧爾斯塔德冰川
 olszanica:奥尔沙尼察
+olszanka river:維利尚卡河
 olszanka wielka:大維利尚卡
 olszanka:維利尚卡
 olszany:維利沙尼
+olsztyn castle:奥尔什丁城堡
 olsztyn county:奧爾什丁縣
 olsztyn university:奥尔什丁大学
 olsztyn voivodeship:奧爾什丁省
@@ -3374,6 +3384,7 @@ olympia kyklos:奧林匹克之環
 olympia london:奧林匹亞展覽中心
 olympia plaza:國都廣場
 olympia stadion:伦敦奥林匹克体育场
+olympia stadium:奧林匹亞體育場
 olympia undae:奧林比亞沙丘地
 olympia werke:奥林匹亚公司
 olympia:世运食品
@@ -3410,6 +3421,8 @@ olympic athletes' village:奥运村
 olympic avenue bridge:奥林匹克大道桥
 olympic avenue light public housing:世運道簡約公屋
 olympic avenue:世運道
+olympic badminton:奧運羽毛球
+olympic baseball:奧運棒球
 olympic bmx centre:奧林匹克小輪車中心
 olympic bmx track:小轮车赛场
 olympic boxing:奥林匹克的拳击
@@ -3443,6 +3456,7 @@ olympic committee of portugal:葡萄牙奧林匹克委員會
 olympic committee of serbia:塞爾維亞奧林匹克委員會
 olympic committee of slovenia:斯洛文尼亞奧林匹克委員會
 olympic committee of the democratic people's republic of korea:朝鮮民主主義人民共和國奧林匹克委員會
+olympic committee:奧運委員會
 olympic congress:奧林匹克大會
 olympic convention center:奥林匹克会议中心
 olympic council of asia:亚洲奥林匹克理事会
@@ -3455,8 +3469,10 @@ olympic diploma:奥林匹克奖状
 olympic esports series:奧林匹克電子競技運動會
 olympic federation of ireland:愛爾蘭奧林匹克總會
 olympic flag:奥林匹克的旗
+olympic flag:奧運旗幟
 olympic flame:奥林匹克圣火
 olympic flight museum:奥林匹克飞行博物馆
+olympic football:奧運足球
 olympic forest park:奥林匹克森林公园
 olympic forest park:奧林匹克森林公園
 olympic future:奥林匹克的未来
@@ -3503,9 +3519,11 @@ olympic invite:奥林匹克的邀请
 olympic lao pun tao kong shrine (teochew chinese):奥林匹本頭公廟
 olympic laurel:奥林匹克桂冠奖
 olympic market:欧林匹克市场
+olympic mascot:奧運吉祥物
 olympic maths academy:奥数学院
 olympic medal table:奧林匹克運動會獎牌榜
 olympic medal:奧林匹克運動會獎牌
+olympic medal:奧運獎章
 olympic mountains:奥林匹克山脉
 olympic movement achieve:奥林匹克运动实现
 olympic movement and education:奥林匹克运动与教育
@@ -3527,8 +3545,10 @@ olympic park railway station:奥林匹克公园站
 olympic park:Àolínpǐkè gōngyuán
 olympic park:奥林匹克公园
 olympic park:奧林匹克公園
+olympic park:奧運公園
 olympic peninsula:奧林匹克半島
 olympic plaza:奥林匹克广场
+olympic port:奧運港口
 olympic półwysep:奧林匹克半島
 olympic record:奥林匹克运动会纪录
 olympic saling center:Ào fān zhōngxīn
@@ -3536,7 +3556,9 @@ olympic saling center:奥帆中心
 olympic schiereiland:奧林匹克半島
 olympic sliding centre:阿爾卑西亞滑行中心
 olympic soccer:奥林匹克的足球
+olympic soccer:奧運足球
 olympic spirit:奥林匹克的精神
+olympic spirit:奧運精神
 olympic sport center:奥体中心
 olympic sport centre - aquatic centre:澳門奧林匹克游泳館
 olympic sport centre - aquatic centre:澳门奥林匹克游泳馆
@@ -3568,14 +3590,17 @@ olympic stadium was built in:奥林匹克体育场建于
 olympic stadium:Àotĭ zhōngxīn
 olympic stadium:奥体中心
 olympic stadium:奥林匹克体育场
+olympic stadium:奧運體育場
 olympic stadium:奧體中心
 olympic stadium:金边奥林匹克体育场
 olympic station bus terminus:奧運站總站
 olympic station public transport interchange:奧運站公共運輸交匯處
 olympic station:奧運站
 olympic street:奥林匹克街
+olympic swimming:奧運游泳
 olympic symbols:奥林匹克五环
 olympic things:奥林匹克的东西
+olympic torch:奧運火炬
 olympic tower:奥林匹克大厦
 olympic truce foundation:奧林匹克休戰基金
 olympic truce:奧林匹克休戰
@@ -3705,6 +3730,7 @@ olympics project:奥运会项目
 olympics prove:奥运会证明
 olympics provides:奥运会提供
 olympics real:奥运会真的
+olympics record:奥运会记录
 olympics records and four:奥运会记录和四
 olympics records:奥运会记录
 olympics return:奥运会回

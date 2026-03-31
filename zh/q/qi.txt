@@ -794,6 +794,7 @@ qianfeng farm:前锋农场
 qianfeng reservoir:qiánfēng shuǐkù
 qianfeng reservoir:前锋水库
 qianfeng road station:前锋路站
+qianfeng road:前峰路
 qianfeng road:前鋒路
 qianfeng road:前锋路
 qianfeng softball field:前峰壘球場
@@ -1710,6 +1711,7 @@ qianlaoxigou:前老西沟
 qianle:谦乐
 qianli chuan:千里船
 qianli nan:前李南
+qianli technology:千里科技
 qianli:乾立
 qianli:前李
 qianli:千里
@@ -1851,6 +1853,7 @@ qianlong court block 1:潜龙苑1栋
 qianlong court block 2:潜龙苑2栋
 qianlong dynasty:乾隆王朝
 qianlong emperor:乾隆帝
+qianlong emperor:乾隆皇帝
 qianlong garden:níng shòu gōng huāyuán
 qianlong garden:宁寿宫花园
 qianlong garden:潛龍花園
@@ -1863,6 +1866,7 @@ qianlong huacheng (area b):潛龍·華城b區
 qianlong huacheng (area b):潜龙·华城b区
 qianlong huacheng (area c):潛龍·華城c區
 qianlong huacheng (area c):潜龙·华城c区
+qianlong period:乾隆时期
 qianlong school:潜龙学校
 qianlong tongbao:乾隆通寶
 qianlong westernmost ji gong stele:乾隆纪功碑
@@ -1978,6 +1982,7 @@ qianmen str:qiánmén dàjiē
 qianmen str:前门大街
 qianmen street:qiánmén dàjiē
 qianmen street:前门大街
+qianmen street:前门街道
 qianmen subdistrict:qiánmén jiēdào
 qianmen subdistrict:前門街道
 qianmen subdistrict:前门街道
@@ -2276,6 +2281,7 @@ qianshan rd. overpass:潜山路
 qianshan river:qiānshàn gǎng
 qianshan river:qiānshān hé
 qianshan river:前山水道 (前山河)
+qianshan river:前山河
 qianshan river:千善溪
 qianshan river:鉛山河
 qianshan river:铅山河
@@ -2508,6 +2514,7 @@ qiantancun:前滩村
 qiantancun:前潭村
 qiantang 100:钱塘100
 qiantang basin:钱塘江流域
+qiantang county:钱塘县
 qiantang district:錢塘區
 qiantang district:钱塘区
 qiantang river bridge:钱塘江大桥
@@ -2633,6 +2640,7 @@ qianwan park:前湾公园
 qianwan park:前灣公園
 qianwan river:前湾河
 qianwan station:前湾站
+qianwan station:前灣站
 qianwan:前塆
 qianwan:前湾
 qianwan:前灣
@@ -3874,6 +3882,7 @@ qiaoshi:桥市乡
 qiaoshiying:巧什营镇
 qiaoshuicun:桥水村
 qiaoshun road:桥顺路
+qiaosi station:乔司站
 qiaosi:qiáosì xiāng
 qiaosi:乔司
 qiaosi:桥寺乡
@@ -3923,6 +3932,10 @@ qiaotou park:桥头公园
 qiaotou reservoir:qiáotóu shuǐkù
 qiaotou reservoir:桥头水库
 qiaotou road:桥头路
+qiaotou station:桥头村站
+qiaotou station:桥头站
+qiaotou station:桥头镇站
+qiaotou station:橋頭站
 qiaotou subdistrict:桥头街道
 qiaotou town:qiáo tóu zhèn
 qiaotou town:qiáotóu zhèn
@@ -4011,6 +4024,7 @@ qiaowa:qiáowǎ zhèn
 qiaowa:乔洼
 qiaowa:乔瓦镇
 qiaowaitun:桥外屯
+qiaowan station:桥湾站
 qiaowan:乔湾
 qiaowan:桥湾
 qiaowan:桥湾镇
@@ -4214,6 +4228,7 @@ qiaozhou garden:僑洲花園
 qiaozhu alley:桥珠巷
 qiaozhu:桥柱
 qiaozhuang east railway station:乔庄东站
+qiaozhuang east:乔庄东
 qiaozhuang:qiáozhuāng zhèn
 qiaozhuang:乔庄
 qiaozhuang:乔庄村
@@ -4301,6 +4316,8 @@ qibao church:七宝天主教堂
 qibao jesus church:七宝耶稣堂
 qibao old street:七寶老街
 qibao old town:七宝古镇
+qibao station:七堡站
+qibao station:七宝站
 qibao vanke mall:七宝万科广场
 qibao'ancun:七保安村
 qibao:七堡
@@ -4393,6 +4410,7 @@ qichudi:期初底
 qichun county:qichun xian
 qichun county:蕲春县
 qichun county:蘄春
+qichun county:蘄春县
 qichun county:蘄春縣
 qichun xian:蕲春县
 qichun xian:蘄春
@@ -4524,6 +4542,7 @@ qiding railway station:崎頂車站
 qiding range:崎頂靶場
 qiding shan:七峰山
 qiding shan:齐顶山
+qiding station:崎頂站
 qiding village:崎頂村
 qiding village:崎頂里
 qiding(nanhua street):崎頂(南華街)
@@ -4544,6 +4563,7 @@ qidong - nagqu national highway:啓東-那曲公路
 qidong busterminal:启东汽车站
 qidong county:祁东县
 qidong county:祁東
+qidong county:祁東县
 qidong county:祁東縣
 qidong haigong shipbuilding industrial park:启东海工船舶工业园
 qidong haigong shipbuilding industrial park:啟東海工船舶工業園
@@ -4606,6 +4626,7 @@ qidu 2nd interchange:七堵二交流道
 qidu district:七堵區
 qidu railway station:七堵車站
 qidu road:汽渡路
+qidu station:七堵站
 qidu tunnel:七堵隧道
 qidu:qī dǔ
 qidu:qīdū zhèn
@@ -5133,6 +5154,7 @@ qiji:祁集镇
 qijia 2nd road:旗甲二路
 qijia citang:漆家祠堂
 qijia culture:齊家文化
+qijia culture:齐家文化
 qijia fenchang:齐家分场
 qijia park:七甲公園
 qijia street:七甲街
@@ -5552,10 +5574,12 @@ qilian hotel:祁连大酒店
 qilian hotel:祁连宾馆
 qilian metro station:唭哩岸站
 qilian minzu middle school:祁连县民族中学
+qilian mountain:唭哩岸山
 qilian mountains:祁连山
 qilian no.1 complete primary school:祁连县第一完全小学
 qilian no.2 primary school:祁连县第二小学
 qilian people's hospital:祁连县人民医院
+qilian station:唭哩岸站
 qilian street:祁连街
 qilian traditional tibetan hospital:祁连县藏医院
 qilian:qilian xian
@@ -5639,6 +5663,7 @@ qilihe district:七里河區
 qilihe exit ramp:七里河下匝道
 qilihe north road:七里河北路
 qilihe sports park:七里河体育公园
+qilihe stadium:七里河体育场
 qilihe subdistrict:七里河街道
 qilihe west road:七里河西路
 qilihe:七里河
@@ -5687,6 +5712,7 @@ qilin science and technology:麒麟科技
 qilin street:琪林街
 qilin subdistrict:qílín jiēdào
 qilin subdistrict:麒麟街道
+qilin tram:麒麟有轨电车
 qilin trams:麒麟有轨电车
 qilin villa reception:麒麟山庄接待处
 qilin village:麒麟里
@@ -5817,6 +5843,8 @@ qilizhuangcun:七里庄村
 qillwaqucha urqu:克爾瓦科查奧爾科山
 qillwiri:克爾維里山
 qilong chengzhang senior high schoo:启龙成章高级中学
+qilong station:骑龙站
+qilong station:麒龙站
 qilong temple:七龍宮
 qilong township:启隆镇
 qilong'ao:七龙坳
@@ -5878,6 +5906,8 @@ qilu subdistrict:qīlù jiēdào
 qilu subdistrict:七路街道
 qilu taishuiyuan:齐鲁泰顺院
 qilu university of technology:齐鲁工业大学
+qilu university:齐鲁大学
+qilu university:齐鲁大學
 qilu:qīlù jiēdào
 qilu:七路
 qilu:七路街道
@@ -6195,6 +6225,7 @@ qincaiyu:芹菜峪
 qinchang west road:秦昌西路
 qinchangcun:秦厂村
 qincheng prison:秦城监狱
+qincheng prison:秦城監獄
 qincheng:旭來街街道
 qincheng:旭来街街道
 qincheng:琴城镇
@@ -6208,6 +6239,7 @@ qinchuan river:秦川河
 qinchuan road:秦川路
 qinchuan:琴川街道
 qinchuan:秦川镇
+qinchuangyuanzhongxin station:秦创原中心站
 qinchuangyuanzhongxin:秦创原中心
 qinchunyucun:秦淳于村
 qinci park:亲慈公园
@@ -6395,6 +6427,7 @@ qingbai:清白
 qingbaijiang district:qīngbáijiāng qū
 qingbaijiang district:青白江区
 qingbaijiang district:青白江區
+qingbaijiang east:青白江东
 qingbaijiang:qingbaijiang qu
 qingbaijiang:青白江
 qingbaijiang:青白江区
@@ -6430,6 +6463,8 @@ qingbo street:qīngbō jiē
 qingbo street:清波街
 qingbo:清波社区
 qingbu middle school:清布中学
+qingbu station:清㘵站
+qingbu station:青埔站
 qingbu:清㘵
 qingbu:清布
 qingbu:青埔
@@ -6491,6 +6526,8 @@ qingche lake:清澈湖
 qingcheng county:qìngchéng xiàn
 qingcheng county:庆城县
 qingcheng county:慶城縣
+qingcheng county:清城县
+qingcheng county:青城县
 qingcheng district:qīngchéng qū
 qingcheng district:清城
 qingcheng district:清城区
@@ -6534,6 +6571,7 @@ qingchongcun:清冲村
 qingchuan bridge:晴川桥
 qingchuan bridge:清川大桥
 qingchuan county:qīngchuān xiàn
+qingchuan county:清川县
 qingchuan county:青川县
 qingchuan county:青川縣
 qingchuan railway station:青川站
@@ -7047,6 +7085,7 @@ qinghai lake and glacier:青海湖和冰川
 qinghai lake lake:青海湖湖
 qinghai lake protected area:青海湖保护区
 qinghai lake:青海湖
+qinghai library:青海省图书馆
 qinghai lu:情海路
 qinghai meishu e. 2nd rd. intersection northwest):qīnghǎiměishùdōngèrlùkǒu(xīběicè)
 qinghai meishu e. 2nd rd. intersection northwest):ㄑㄧㄥㄏㄞˇㄇㄟˇㄕㄨˋㄉㄨㄥㄦˋㄌㄨˋㄎㄡˇ(ㄒㄧㄅㄟˇㄘㄜˋ)
@@ -7145,8 +7184,11 @@ qinghe county transportation bureau:清河县交通运输局
 qinghe county:qīnghé xiàn
 qinghe county:清河县
 qinghe county:清河縣
+qinghe county:青和县
 qinghe county:青河县
 qinghe county:青河縣
+qinghe dam:清河水库
+qinghe dam:清河水庫
 qinghe district:qīnghé qū
 qinghe district:清河区
 qinghe district:清河區
@@ -7183,6 +7225,7 @@ qinghe railway bridge:清河铁路桥
 qinghe railway station:清河站
 qinghe reservoir:qīnghé shuĭkù
 qinghe reservoir:清河水库
+qinghe reservoir:清河水庫
 qinghe river:清河
 qinghe road:qīnghé lù
 qinghe road:清河路
@@ -7197,6 +7240,7 @@ qinghe subdistrict:qīnghé jiēdào
 qinghe subdistrict:清和街道
 qinghe subdistrict:清河办事处
 qinghe subdistrict:清河街道
+qinghe town:清河城镇
 qinghe town:清河镇
 qinghe town:青河鎮
 qinghe town:青河镇
@@ -7209,6 +7253,7 @@ qinghe vocation education center:清河职教中心
 qinghe west road:清河西路
 qinghe xiaoying bridge:清河小营桥
 qinghe xiaoyingqiao station:清河小营桥站
+qinghe xiaoyingqiao:清河小营桥
 qinghe yuan:清河园
 qinghe zhan:清河站
 qinghe:qinghe xian
@@ -7315,6 +7360,7 @@ qinghu reservoir:清湖水库
 qinghu road:清湖路
 qinghu school:清湖学校
 qinghu south road:清湖南路
+qinghu station:清湖站
 qinghu stream:清湖水
 qinghu villa:青湖山庄
 qinghu village cross-river bridge:清湖村跨河桥
@@ -7360,6 +7406,8 @@ qinghua road:清華路
 qinghua street:清华街
 qinghua subdistrict:清华街道
 qinghua temple:清化寺
+qinghua university:清华大学
+qinghua university:清华大學
 qinghua village:qīnghuá lǐ
 qinghua village:ㄑㄧㄥㄏㄨㄚˊㄌㄧˇ
 qinghua village:清化里
@@ -7398,6 +7446,8 @@ qinghuadong reservoir:qīnghuádòng shuǐkù
 qinghuadong reservoir:清华洞水库
 qinghuadongluxikou eastbound:清华东路西口（俸伯方向）
 qinghuadongluxikou eastbound:清華東路西口（俸伯方向）
+qinghuadongluxikou station:清华东路西口站
+qinghuadongluxikou station:清華東路西口站
 qinghuadongluxikou westbound (planned):清华东路西口站（规划）
 qinghuadongluxikou westbound (planned):清華東路西口站（規劃）
 qinghuadongluxikou westbound:清华东路西口（清华东路西口方向）
@@ -7468,6 +7518,8 @@ qingjian:青尖
 qingjiang basin (bailong):清江河
 qingjiang biota:清江生物群
 qingjiang branch:清江圖書館
+qingjiang bridge:清江桥
+qingjiang county:清江县
 qingjiang elementary school:qīngjiāngguóxiǎo
 qingjiang elementary school:ㄑㄧㄥㄐㄧㄤㄍㄨㄛˊㄒㄧㄠˇ
 qingjiang elementary school:清江国小
@@ -7748,6 +7800,7 @@ qingliu county:清流县
 qingliu county:清流縣
 qingliu lane:清流巷
 qingliu no.1 ring road:清流环一路
+qingliu prison:清流监狱
 qingliu river:qīngliú hé
 qingliu river:清流河
 qingliu xian:qīngliú xiàn
@@ -7772,6 +7825,7 @@ qinglong basin (luan):青龙河流域
 qinglong bridge:青龙桥
 qinglong chicken:青龍山土雞餐聽
 qinglong community:青龙社区
+qinglong county:青龙县
 qinglong east st:青龙东街
 qinglong falls:青龍瀑布
 qinglong lake park:青龙湖公园
@@ -7800,6 +7854,8 @@ qinglong road:清龙路
 qinglong road:青龙路
 qinglong south road:青龙南路
 qinglong st. & qingfu st. intersection:青隆青福街口
+qinglong station:清龙站
+qinglong station:青龙站
 qinglong street:青龍街
 qinglong street:青龙街
 qinglong subdistrict:青龙街道
@@ -7877,8 +7933,10 @@ qinglongpu:青龙铺
 qinglongqiao railway station:青龍橋車站
 qinglongqiao railway station:青龙桥站
 qinglongqiao railway station:青龙桥车站
+qinglongqiao station:青龙桥站
 qinglongqiao subdistrict:青龙桥街道
 qinglongqiao west railway station:青龙桥西站
+qinglongqiao west:青龙桥西
 qinglongqiao:青龍橋
 qinglongqiao:青龙桥
 qinglongqiao:青龙桥街道
@@ -8003,6 +8061,7 @@ qingnian avenue:青年大道
 qingnian canal:雷州青年运河
 qingnian community:青年社区
 qingnian community:青年社區
+qingnian dajie:青年大街
 qingnian ecological park:青年生态园
 qingnian farm:青年农场站
 qingnian guanghua rd. intersection:qīngniánguānghuálùkǒu
@@ -8068,6 +8127,7 @@ qingniangongyuan:青年公园街道
 qingniangongyuan:青年公園街道
 qingnianhe bridge:青年河桥
 qingnianhu park:青年湖公园
+qingnianlu station:青年路站
 qingnianlu subdistrict:qīngniánlù jiēdào
 qingnianlu subdistrict:青年路街道
 qingnianlu:qīngniánlù
@@ -8211,6 +8271,7 @@ qingpu qu:青浦区
 qingpu qu:青浦區
 qingpu road section 1:青埔路一段
 qingpu road section 2:青埔路二段
+qingpu station:青埔站
 qingpu subdistrict:qìng pú jiē dào bàn shì chǔ
 qingpu subdistrict:庆葡街道办事处
 qingpu subdistrict:清浦街道
@@ -8316,6 +8377,8 @@ qingshan bridge:青山橋
 qingshan community:青山社区
 qingshan community:青山社區
 qingshan dam:青山壩
+qingshan dam:青山水库
+qingshan dam:青山水庫
 qingshan district government:青山区政府
 qingshan district:qīngshān qū
 qingshan district:青山区
@@ -8324,6 +8387,7 @@ qingshan elementary and junior high school:qīngshānguómínzhōngxiǎoxué
 qingshan elementary and junior high school:ㄑㄧㄥㄕㄢㄍㄨㄛˊㄇㄧㄣˊㄓㄨㄥㄒㄧㄠˇㄒㄩㄝˊ
 qingshan elementary and junior high school:青山国民中小学
 qingshan elementary and junior high school:青山國民中小學
+qingshan group:青山组
 qingshan island:qīngshān dǎo
 qingshan island:青山岛
 qingshan lake:青山湖
@@ -8469,6 +8533,7 @@ qingsheng reservoir:庆胜水库
 qingsheng road section 1 lane 132:青昇路一段132巷口
 qingsheng road section 1:青昇路一段
 qingsheng road:青昇路
+qingsheng station:庆盛站
 qingsheng street:庆胜街
 qingsheng temple:青昇宮
 qingsheng yuan bakery:庆生园
@@ -8616,6 +8681,9 @@ qingshui station(zhongshan road):清水車站(中山路)
 qingshui station(zhongzheng street):清水車站(中正街)
 qingshui station:qīngshuǐchēzhàn
 qingshui station:ㄑㄧㄥㄕㄨㄟˇㄔㄜㄓㄢˋ
+qingshui station:清水县站
+qingshui station:清水站
+qingshui station:清水縣站
 qingshui station:清水車站
 qingshui station:清水车站
 qingshui street:清水街
@@ -8894,6 +8962,7 @@ qingtang garden:青塘園
 qingtang river:qīngtáng hé
 qingtang road:清塘路
 qingtang site:青塘遗址
+qingtang station:清塘站
 qingtang'aocun:清塘坳村
 qingtang:qīngtáng zhèn
 qingtang:清塘
@@ -9126,6 +9195,7 @@ qingximen:清溪门社区
 qingxin 1st road:庆新一路
 qingxin avenue:清新大道
 qingxin bridge:清新大桥
+qingxin county:清新县
 qingxin district government:清新区政府
 qingxin district:qīngxīn qū
 qingxin district:tsing san ku
@@ -9388,7 +9458,11 @@ qingyuan city:清遠市
 qingyuan county:qìngyuán xiàn
 qingyuan county:庆元县
 qingyuan county:慶元
+qingyuan county:慶元县
 qingyuan county:慶元縣
+qingyuan county:清源县
+qingyuan county:清远县
+qingyuan county:清遠县
 qingyuan district:qīngyuán qū
 qingyuan district:清苑区
 qingyuan district:清苑區
@@ -9402,6 +9476,7 @@ qingyuan hospital of tcm:清远市中医院
 qingyuan huaqiao middle school:清远华侨中学
 qingyuan industry and trade vocational technical school:清远工贸职业技术学校
 qingyuan international hotel:青源国际大酒店
+qingyuan jiedushi:清源节度使
 qingyuan lu station:清源路站
 qingyuan lu:qīngyuán lù
 qingyuan maglev tourist line:清远磁悬浮旅游专线
@@ -9490,6 +9565,7 @@ qingyuancun:清源村
 qingyuancun:青园村
 qingyuanhao:庆元号
 qingyuanhe:清源河
+qingyuanlu station:清源路站
 qingyuanlu:qīngyuánlù
 qingyuanlu:清源路
 qingyuanshan:qīngyuánshān
@@ -9695,9 +9771,13 @@ qingzhigen:青枝根村
 qingzhong:青钟
 qingzhongcun:庆中村
 qingzhongcun:青冢村
+qingzhou bridge:清洲桥
+qingzhou bridge:清洲橋
 qingzhou bridge:青洲大桥
 qingzhou city:青州市
 qingzhou experimental school:清州实验中学
+qingzhou museum:青州博物馆
+qingzhou museum:青州市博物馆
 qingzhou tongda packaging machinery co., ltd.:青州市通达包装机械有限公司
 qingzhou town:辽庆州古城
 qingzhou township:青州乡
@@ -9718,6 +9798,7 @@ qingzhou:青州市
 qingzhou:青州鎮
 qingzhou:青州镇
 qingzhoucun:庆洲村
+qingzhoushi north:青州市北
 qingzhoushi railway station:青州市站
 qingzhoushi train station ticket office:青州市站售票处
 qingzhoushi:青州市
@@ -9809,6 +9890,7 @@ qinhuai:覃懷街道
 qinhuangdao beidaihe airport:秦皇岛北戴河机场
 qinhuangdao dayang wine business:秦皇島大洋酒業
 qinhuangdao olympic sports center stadium:秦皇岛奥林匹克体育中心
+qinhuangdao port:秦皇岛港口
 qinhuangdao railway station:秦皇岛站
 qinhuangdao rd:秦皇岛路
 qinhuangdao road ferry:秦皇岛路渡口
@@ -9943,11 +10025,13 @@ qinling 7st rd.(w.):秦岭西七路
 qinling 8st rd.(e.):秦岭东八路
 qinling 8st rd.(w.):秦岭西八路
 qinling area:秦岭地区
+qinling campaign:秦岭战役
 qinling giant panda will become:秦岭大熊猫将成为
 qinling giant panda:秦岭大熊猫
 qinling mountains:秦岭
 qinling mountains:秦嶺
 qinling north road:秦陵北路
+qinling panda:秦岭大熊猫
 qinling panda:秦嶺大熊貓
 qinling road:秦岭路
 qinling road:秦陵路
@@ -10329,6 +10413,7 @@ qionglai air base:邛崃机场
 qionglai city:qiónglái shì
 qionglai city:邛崃市
 qionglai city:邛崍市
+qionglai county:邛崃县
 qionglai mountains:邛崃山
 qionglai:邛崃
 qionglai:邛崃市
@@ -10960,6 +11045,7 @@ qishan 1st road intersection:岐山一路口
 qishan 2nd road:岐山二路
 qishan avenue:岐山大道
 qishan county:qíshān xiàn
+qishan county:奇山县
 qishan county:岐山县
 qishan county:岐山縣
 qishan depot:岐山车辆段
@@ -10981,6 +11067,9 @@ qishan river:旗山溪
 qishan road:岐山路
 qishan second north road:qíshān bĕièrlù
 qishan second north road:岐山北二路
+qishan station:岐山站
+qishan station:崎山站
+qishan station:旗山站
 qishan subdistrict:qíshān jiēdào
 qishan subdistrict:岐山街道
 qishan train station- sugar railway museum:旗山車站-糖鐵故事館
@@ -11808,6 +11897,7 @@ qixia barrutia:棲霞區
 qixia city:qīxiá shì
 qixia city:栖霞市
 qixia city:棲霞市
+qixia county:栖霞县
 qixia district:栖霞区
 qixia district:棲霞區
 qixia gold mine accident:笏山金矿爆炸事故
@@ -11945,6 +12035,7 @@ qixin interchange:启新立交桥
 qixin rd gudai rd:七莘路顾戴路
 qixin road station:七莘路站
 qixin road:七莘路
+qixin road:启新路
 qixin road:齐心路
 qixin road:齐新路
 qixin street:qǐ xīn jiē
@@ -11974,6 +12065,7 @@ qixing fishing fillage:七星渔村
 qixing huayuan:七星花园
 qixing lake:七星湖
 qixing lu entrance:七星路口
+qixing mountain:七星山
 qixing reservoir:七星水库
 qixing residential area:启兴生活区
 qixing river:qīxīng hé
@@ -12120,6 +12212,9 @@ qiyan:戚堰
 qiyanbeicun:齐堰北村
 qiyancun:栖岩村
 qiyang avenue:祁阳大道
+qiyang county:岐阳县
+qiyang county:祁阳县
+qiyang county:祁陽县
 qiyang dialect:祁阳话
 qiyang expressway:启扬高速
 qiyang expressway:啟揚高速

@@ -956,6 +956,7 @@ hochstetter family:霍赫施泰特家族
 hochstetter peak:霍赫斯特特峰
 hochstraße hangan:hángān gāojiàlù
 hochtaunuskreis:上陶努斯县
+hochtief airport:豪赫蒂夫機場
 hochtief:豪赫蒂夫
 hochtor:霍赫托爾峰
 hochvernagtspitze:霍赫費爾納格特峰
@@ -1158,6 +1159,7 @@ hodges connect:霍奇斯连接
 hodges glacier:霍奇斯冰川
 hodges hopes:霍奇斯希望
 hodges knoll:霍奇斯穹丘
+hodges meteorite:霍奇斯隕石
 hodges needs:霍奇斯需要
 hodges plans:霍奇斯计划
 hodges point:霍奇斯角
@@ -1677,6 +1679,8 @@ hohhot ring expressway:呼和浩特繞城高速
 hohhot ring expressway:呼和浩特绕城高速
 hohhot shengle international airport:呼和浩特盛樂國際機場
 hohhot stadium station:呼和浩特体育场站
+hohhot stadium:呼和浩特市体育场
+hohhot stadium:呼和浩特市體育場
 hohhot subway:呼和浩特地铁
 hohhot-beihai expressway:呼北高速
 hohhot-jungar railway:呼准铁路
@@ -2360,6 +2364,8 @@ hokkaido country club:北海道鄉村俱樂部
 hokkaido crab:北海道螃蟹
 hokkaido cultural broadcasting:北海道文化放送
 hokkaido culture:北海道文化
+hokkaido dialect:北海道方言
+hokkaido dog:北海道犬
 hokkaido earthquake:北海道地震
 hokkaido east:北海道东
 hokkaido east:北海道東
@@ -2372,12 +2378,14 @@ hokkaido finland:北海道芬兰
 hokkaido garden:北海道花园
 hokkaido government:北海道政府
 hokkaido ham:北海道火腿
+hokkaido heritage:北海道遗产
 hokkaido ingredient:北海道食材
 hokkaido is japan:北海道是日本
 hokkaido is located in:北海道位于
 hokkaido island:北海道岛
 hokkaido kani shogun:北海道 蟹將軍
 hokkaido koma ga take:北海道駒岳
+hokkaido komagatake:北海道駒岳
 hokkaido legislative assembly:北海道議會
 hokkaido mainland:北海道本土
 hokkaido marathon:北海道馬拉松
@@ -2418,6 +2426,7 @@ hokkaido university:北海道大学
 hokkaido university:北海道大學
 hokkaido wind:北海道风
 hokkaido wolf:北海道狼
+hokkaido wolves:北海道狼
 hokkaido zoo:北海道動物園
 hokkaido:běihǎi dào
 hokkaido:北海道
@@ -2603,6 +2612,7 @@ holboca:霍爾博卡鄉
 holboellia coriacea:鹰爪枫
 holboellia:八月瓜属
 holboo:好来宝
+holborn station:霍本站
 holborn tube station:霍本站
 holborn viaduct power station:霍爾本高架橋發電廠
 holborn viaduct:霍本高架橋
@@ -3053,6 +3063,7 @@ holiday hot:假日热
 holiday hotel:假日旅馆
 holiday hotel:假日酒店
 holiday hours:假日小时
+holiday house:假日住宅
 holiday hunger:假日饥饿
 holiday information:假日信息
 holiday inn (under construction):holiday inn（建設中）
@@ -3105,6 +3116,7 @@ holiday inn:杭州国际假日酒店
 holiday insurance:假日保险
 holiday island:假日岛
 holiday journey:假日旅行
+holiday lake:假日湖
 holiday laptop:假日笔记本电脑
 holiday letter:假日信
 holiday life:假日生活
@@ -3160,6 +3172,7 @@ holiday picnic:假日野餐
 holiday picture:假日照片
 holiday plan:假日计划
 holiday plans:假日计划
+holiday plaza:假日廣場
 holiday podcast:假日播客
 holiday pop-up:假日弹出
 holiday postcard:假日明信片
@@ -3210,6 +3223,7 @@ holiday stress:假日压力
 holiday sweater:假日毛衣
 holiday syndrome:假日综合症
 holiday tea:假日茶
+holiday theatre:假日剧场
 holiday theatre:假日剧院
 holiday theme graphics:假日主题图形
 holiday theme:假日主题
@@ -3286,15 +3300,25 @@ holland class offshore patrol vessel:荷蘭級巡邏艦
 holland class submarine:霍蘭級潛艇
 holland close:賀良里
 holland codes:霍爾蘭六邊形
+holland college:荷兰学院
+holland council:荷兰议会
+holland fen:荷兰粉
+holland festival:荷兰节日
 holland garden:康蘭苑
+holland gin:荷蘭琴酒
 holland lop:荷兰垂耳兔
 holland park tube station:荷蘭公園站
+holland park:荷兰公园
 holland park:荷蘭公園
 holland range:霍蘭山脈
+holland river:荷兰河流
 holland road baptist church:荷兰路浸信会教堂
+holland road:荷兰路
+holland road:荷蘭路
 holland street:荷蘭街
 holland township:霍兰镇区
 holland tunnel and manhattan:荷蘭隧道和曼哈頓
+holland tunnel:荷兰隧道
 holland tunnel:荷蘭隧道
 holland village (singapore):荷兰村
 holland village kindergarten:荷蘭村幼稚園
@@ -3345,7 +3369,9 @@ hollandia australis:南荷兰
 hollandia australis:南荷兰省
 hollandia australis:南荷蘭
 hollandia australis:南荷蘭省
+hollandia films:荷兰电影
 hollandia főkonzulátusa:荷兰总领事馆
+hollandia hut:荷兰小屋
 hollandia nagykövetsége:荷兰大使馆
 hollandia septentrionalis:北荷兰
 hollandia septentrionalis:北荷兰省
@@ -3387,6 +3413,7 @@ hollington tong:董显光
 hollingworth cliffs:霍林沃思崖
 hollnich:霍尔尼希
 hollnseth:霍尔恩塞特
+hollola church:霍洛拉教堂
 hollola:霍洛拉
 hollow cathode lamp:空心阴极灯
 hollow earth:地球空洞说
@@ -3396,6 +3423,7 @@ hollow point bullet:中空彈
 hollow structural section:截面空心零件
 hollow tree:空心樹
 holloway road tube station:霍洛威路站
+holloway road:霍洛韋路
 holloway:霍洛韋
 hollowsnout grenadier:真腔吻鱈
 hollstadt:霍尔施塔特
@@ -3403,10 +3431,12 @@ holluschickie bay:霍盧施基灣
 holly and ivy:冬青和常春藤
 holly and phoenix feather:冬青和凤凰羽毛
 holly and snow:冬青和雪
+holly bridge:冬青桥
 holly building:合麗大樓
 holly building:好利洋樓
 holly court:冬青閣
 holly drive:冬青徑
+holly family:冬青科
 holly forest:冬青森林
 holly home:靜思書軒
 holly hope:冬青希望
@@ -3414,6 +3444,7 @@ holly hunter:冬青猎人
 holly intend:冬青打算
 holly jolly secrets:歡樂的秘密
 holly mansion:豪麗大廈
+holly mountain:冬青山
 holly plant:冬青植物
 holly restaurant:青葉海鮮酒家
 holly road:冬青道
@@ -3432,6 +3463,7 @@ hollywood & dine:好萊塢快餐店
 hollywood a few:好莱坞几
 hollywood a place:好莱坞一个地方
 hollywood academy:好莱坞学院
+hollywood accounting:好莱坞会计学
 hollywood acquisition:好莱坞收购
 hollywood acting:好莱坞演技
 hollywood actor and director:好莱坞演员和导演
@@ -3533,6 +3565,7 @@ hollywood big:好莱坞大
 hollywood black:好莱坞黑色
 hollywood blacklist begin:好莱坞黑名单开始
 hollywood blacklist:好莱坞黑名单
+hollywood blacklist:好莱坞黑名單
 hollywood blacklist:荷里活黑名單
 hollywood blockchain:好莱坞区块链
 hollywood blog:好莱坞博客
@@ -3553,6 +3586,7 @@ hollywood butler:好莱坞管家
 hollywood cafe:荷里活冰室
 hollywood camera:好莱坞相机
 hollywood campus:好莱坞校园
+hollywood canteen:好莱坞餐厅
 hollywood car:好莱坞车
 hollywood career:好莱坞事业
 hollywood career:好莱坞职业生涯
@@ -3702,6 +3736,7 @@ hollywood horror film:好莱坞恐怖电影
 hollywood horror:好莱坞恐怖
 hollywood hospital:好莱坞医院
 hollywood hot:好莱坞热
+hollywood hotel:好莱坞旅馆
 hollywood hotel:好莱坞酒店
 hollywood house:活麟大廈
 hollywood husband:好莱坞丈夫
@@ -3931,6 +3966,7 @@ hollywood was a high:好莱坞是一个高
 hollywood was right:好莱坞是对的
 hollywood wax museum:荷里活蠟像館
 hollywood way:好莱坞路
+hollywood week:好莱坞周
 hollywood werewolf:好莱坞狼人
 hollywood western film:好莱坞西部片
 hollywood while:好莱坞当
@@ -3958,6 +3994,7 @@ holmes and many other experts:霍姆斯和许多其他专家
 holmes and mayor jenny:霍姆斯和市长珍妮
 holmes and parsons:霍姆斯和帕森斯
 holmes appear:霍姆斯出现
+holmes beach:霍姆斯海滩
 holmes block:霍姆斯海崖
 holmes chapel:霍姆斯查珀爾
 holmes college:霍姆斯学院
@@ -3990,6 +4027,7 @@ holmes student center:霍姆斯学生中心
 holmes student:霍姆斯学生
 holmes summit:霍姆斯峰
 holmes tell:霍姆斯告诉
+holmes township:霍姆斯鎮區
 holmes trial:霍姆斯审判
 holmes trujillo:霍姆斯特鲁希略
 holmes vow:霍姆斯发誓
@@ -4004,6 +4042,7 @@ holmipterus:侯氏翅鲎属
 holmium acetate:乙酸钬
 holmium acetylacetonate:乙酰丙酮钬
 holmium arsenide:砷化钬
+holmium compounds:钬化合物
 holmium diantimonide:二锑化钬
 holmium iodate:碘酸钬
 holmium laser treatment:钬激光治疗
@@ -4319,6 +4358,7 @@ holy cathedral:神圣的大教堂
 holy catholic:神圣的天主教
 holy causes:神圣的原因
 holy center:神圣的中心
+holy child:神圣的儿童
 holy child:神圣的孩子
 holy children:神圣的孩子们
 holy choice:神圣的选择
@@ -4833,6 +4873,7 @@ homa bay:霍马湾郡
 homage to catalonia:向加泰罗尼亚致敬
 homalanthus:澳杨属
 homalia:扁枝藓属
+homalin airport:霍马林机场
 homalin township:霍马林镇区
 homalin:霍马林
 homalium ceylanicum:斯里兰卡天料木
@@ -5166,6 +5207,7 @@ home designer:家设计师
 home dimension:家维度
 home director:家导演
 home directory:家目录
+home directory:家目錄
 home discipline:家纪律
 home do:家做
 home doctor:善聽空間
@@ -5391,6 +5433,7 @@ home is sailor:家是水手
 home is suit:家是适合
 home is wait:家是等待
 home is you:家是你
+home is:家是
 home island:家岛
 home isolation observation:家隔离观察
 home isolation:家隔离
@@ -5833,6 +5876,7 @@ homeinn selected:如家商旅酒店
 homeinn:如家酒店
 homeinns:如家neo（上海南京路黄河路店）
 homel region:哥麥利州
+homel region:戈梅利地区
 homel region:戈梅利州
 homel':哥麥利
 homel':戈梅利
@@ -5857,10 +5901,12 @@ homeland coffee:加園咖啡
 homeland court:信梓軒
 homeland defense:國土防禦
 homeland fighter's party:祖国斗士党
+homeland force:祖国力量
 homeland from:祖国从
 homeland governments:祖国政府
 homeland hot spring hotel:家園溫泉旅店
 homeland is heaven:家乡是天堂
+homeland league:祖国联盟
 homeland needs hero:祖国需要英雄
 homeland needs:祖国需要
 homeland news:家乡新闻
@@ -6189,6 +6235,7 @@ homeothermy:温体动物
 homeotic gene:同源基因
 homeowner association:房產所有者協會
 homeownership in the united states:房地產自有率
+homer airport:荷马机场
 homer and aeschylus:荷马和埃斯库罗斯
 homer and euripides:荷马和欧里庇得斯
 homer and his three:荷马和他的三
@@ -6371,6 +6418,7 @@ homicide team:杀人团队
 homicide unit:杀人单位
 homicide:杀人
 homie food & dessert:閨•家
+homiel region:戈梅利地区
 homiel:哥麥利
 homiel:戈梅利
 homieĺ:哥麥利
@@ -6545,6 +6593,7 @@ homosalate:胡莫柳酯
 homoscedasticity and heteroscedasticity:异方差
 homosclerophorida:同骨海绵目
 homoserine dehydrogenase:高丝氨酸脱氢酶
+homoserine lactone:高丝氨酸内酯
 homoserine:高丝氨酸
 homosexual activity:同性恋的活动
 homosexual behavior in animals:動物同性性行為
@@ -6660,6 +6709,7 @@ homotomidae:榕木虱科
 homotopy category:同倫範疇
 homotopy group:同倫群
 homotopy theory:同伦论
+homotopy theory:同倫理論
 homotopy type theory:同伦类型论
 homotopy:同倫
 homovanillic acid:高香草酸
@@ -6676,8 +6726,11 @@ homs govrenorate:荷姆斯
 homs govrenorate:霍姆斯省
 homs grand mill:霍姆斯格兰德面粉厂
 homs military academy:霍姆斯军事学院
+homs province:荷姆斯省
+homs province:霍姆斯省
 homs séng:荷姆斯
 homs séng:霍姆斯省
+homs university:霍姆斯大學
 homs-guvernementet:荷姆斯
 homs-guvernementet:霍姆斯省
 homs:荷姆斯
@@ -7087,6 +7140,7 @@ honduran constitution:洪都拉斯宪法
 honduran construction worker:洪都拉斯建筑工人
 honduran consulate:洪都拉斯领事馆
 honduran crisis:洪都拉斯危机
+honduran cup:洪都拉斯杯
 honduran currency:洪都拉斯货币
 honduran doctor:洪都拉斯医生
 honduran doctor:洪都拉斯的医生
@@ -7116,6 +7170,7 @@ honduran media:洪都拉斯媒体
 honduran members:洪都拉斯成员
 honduran military intelligence officer:洪都拉斯军事情报官员
 honduran military:洪都拉斯军事
+honduran military:洪都拉斯军队
 honduran milk snake:洪都拉斯牛奶蛇
 honduran mother:洪都拉斯母亲
 honduran mother:洪都拉斯的母亲
@@ -7541,12 +7596,14 @@ honey too:蜂蜜也
 honey treatment:蜂蜜治疗
 honey tree:蜂蜜树
 honey usually:蜂蜜通常
+honey war:蜂蜜战争
 honey was effective:蜂蜜是有效的
 honey water:蜂蜜水
 honey will continue:蜂蜜将继续
 honey will dissolve in water:蜂蜜会溶解在水中
 honey will dissolve:蜂蜜会溶解
 honey will:蜂蜜会
+honey wine:蜂蜜酒
 honey would:蜂蜜将
 honey-cake and apple:蜂蜜蛋糕和苹果
 honey:蜂蜜
@@ -7555,12 +7612,15 @@ honeycomb comprise:蜂巢包括
 honeycomb conjecture:蜂窝猜想
 honeycomb cowfish:多角三棱角箱魨
 honeycomb energy:蜂巢能源
+honeycomb glacier:蜂巢冰川
 honeycomb grouper:網紋石斑魚
+honeycomb grouper:蜂巢石斑魚
 honeycomb it:蜂巢它
 honeycomb model:蜂巢模型
 honeycomb moray:黑孔鯙
 honeycomb ridge:蜂巢嶺
 honeycomb structure:蜂巢结构
+honeycomb structure:蜂房结构
 honeycomb toffee:椪糖
 honeycomb:蜂巢
 honeycomb:蜂房
@@ -7577,6 +7637,7 @@ honeymoon arrangement:蜜月安排
 honeymoon bed:蜜月床
 honeymoon bride:蜜月新娘
 honeymoon bridge:蜜月桥
+honeymoon bridge:蜜月橋
 honeymoon capital:蜜月首都
 honeymoon continue:蜜月持续
 honeymoon cystitis:蜜月膀胱炎
@@ -7616,6 +7677,7 @@ honeymoon they:蜜月他们
 honeymoon this:蜜月这
 honeymoon time:蜜月时间
 honeymoon to europe:蜜月到欧洲
+honeymoon tour:蜜月旅游
 honeymoon tourism:蜜月旅游
 honeymoon travel:蜜月旅行
 honeymoon video:蜜月视频
@@ -11363,6 +11425,7 @@ hongdo-ri:红岛里
 hongdo:鴻島
 hongdo:鸿岛
 hongdodong:弘道洞
+hongdong county:洪洞县
 hongdong-myeon:洪东面
 hongdong-myeon:洪東面
 hongdong:洪东面
@@ -11693,7 +11756,9 @@ honghe road west:红河西路
 honghe road:hónghé lù
 honghe road:红河路
 honghe station:洪河站
+honghe station:红河站
 honghe subdistrict:红河街道
+honghe tram:红河有轨电车
 honghe:honghe xian
 honghe:hónghé hānízú yízú zìzhìzhōu
 honghe:hónghé zhèn
@@ -11737,6 +11802,7 @@ honghor tal:黄花塔拉苏木
 honghu 2nd street east:洪湖二街东
 honghu city:hónghú shì
 honghu city:洪湖市
+honghu county:洪湖县
 honghu industrial area:红湖工业区
 honghu park 1:洪湖公园 ①
 honghu park 2:洪湖公园 ②
@@ -12034,6 +12100,7 @@ hongju lane, gongye road:工業路宏巨巷
 hongjun 1st road:红军一路
 hongjun laozu:鴻鈞老祖
 hongjun road:红军路
+hongjun song:红军歌
 hongjun street:紅軍街
 hongjun street:紅軍街下穿隧道
 hongjun street:红军街
@@ -12069,18 +12136,23 @@ hongkengwu:洪坑坞
 hongkengxincun:洪坑新村
 hongkong and shanghai hotels:香港上海大酒店
 hongkong and yaumati ferry:油蔴地小輪
+hongkong bank:香港銀行
 hongkong billiard sports academy:香港桌球學院
 hongkong chinese bank:香港華人銀行
 hongkong chinese limited:香港華人有限公司
+hongkong chinese:香港中文
 hongkong cuisine:三合院
 hongkong electric centre:港燈中心
 hongkong electric company car park building:香港電燈公司停車場大樓
 hongkong electric company:香港電燈
 hongkong hi-tec enterprises:香港新高企業有限公司
+hongkong holiday:香港假日
 hongkong hotel:香港大酒店
+hongkong hotel:香港酒店
 hongkong international terminals:香港國際貨櫃碼頭
 hongkong különleges közigazgatási régió képviselete:香港經濟貿易辦事處
 hongkong land wish:香港置地希望
+hongkong land:香港土地
 hongkong land:香港置地
 hongkong post building:香港郵政大樓
 hongkong post central mail centre:香港郵政中央郵件中心
@@ -12139,12 +12211,17 @@ hongkou football stadium:虹口足球场
 hongkou hospital:溧阳市中医院泓口分院
 hongkou hotel:虹口大酒店
 hongkou park incident:虹口公园爆炸事件
+hongkou park:虹口公园
+hongkou park:虹口公園
 hongkou qu:hóngkǒu qū
 hongkou qu:虹口区
 hongkou qu:虹口區
 hongkou reservoir:hóngkǒu shuǐkù
 hongkou reservoir:洪口水库
 hongkou river:泓口河
+hongkou stadium:虹口体育场
+hongkou stadium:虹口体育馆
+hongkou stadium:虹口體育場
 hongkou(taojia):泓口(陶家村)
 hongkou:hóngkǒu qū
 hongkou:洪口乡
@@ -12200,6 +12277,8 @@ honglian road:hónglián lù
 honglian road:洪莲路
 honglian road:紅蓮路
 honglian road:红莲路
+honglian station:红联站
+honglian station:红莲站
 honglian:洪莲村
 honglian:紅聯
 honglian:红联
@@ -12247,6 +12326,7 @@ hongling middle school:深圳市红岭中学高中部
 hongling north metro station:红岭北地铁站
 hongling north road:红岭北路
 hongling north station:红岭北站
+hongling north:红岭北
 hongling road:hónglíng lù
 hongling road:红岭路
 hongling road:红菱路
@@ -12257,6 +12337,7 @@ hongling south metro station:红岭南地铁站
 hongling south road:红岭南路
 hongling south station:红岭南站
 hongling south:红岭南
+hongling station:洪嶺站
 hongling station:紅嶺站
 hongling station:红岭站
 hongling west road:红岭西路
@@ -12466,6 +12547,7 @@ hongmian ya yuan:红棉雅苑
 hongmian:红棉
 hongmiao reservoir:红庙水库
 hongmiao road:红庙路
+hongmiao station:九龙山站
 hongmiao station:红庙站
 hongmiao street:红庙街
 hongmiao:hóngmiào zhèn
@@ -12743,6 +12825,9 @@ hongqiao airport terminal 2 station (suburban railway):虹橋2號航站樓站（
 hongqiao airport terminal 2:虹桥2号航站楼
 hongqiao airport terminal 2:虹橋2號航站樓
 hongqiao airport:虹桥机场
+hongqiao airport:虹桥機場
+hongqiao airport:虹桥飞机场
+hongqiao airport:虹橋機場
 hongqiao alley:虹桥巷
 hongqiao area:虹桥地区
 hongqiao ave:红桥大道
@@ -12776,8 +12861,15 @@ hongqiao river:虹桥溪
 hongqiao river:虹橋溪
 hongqiao road station:虹桥路站
 hongqiao road:hóngqiáo lù
+hongqiao road:红桥路
 hongqiao road:虹桥路
+hongqiao road:虹桥镇路
+hongqiao road:虹橋路
 hongqiao soccer:虹桥足球
+hongqiao stadium:红桥体育场
+hongqiao stadium:虹桥体育场
+hongqiao station:洪桥镇站
+hongqiao station:红桥站
 hongqiao station:虹桥站
 hongqiao street:虹桥街
 hongqiao subdistrict:hóngqiáo jiēdào
@@ -12837,6 +12929,7 @@ hongqihegou (3):hóngqíhégōu
 hongqihegou (3):红旗河沟 (3)
 hongqihegou (6):红旗河沟 (6)
 hongqihegou station:紅旗河溝站
+hongqihegou station:红旗河沟站
 hongqihegou:hóngqíhégōu
 hongqihegou:红旗河沟
 hongqili bridge north:洪奇沥大桥北
@@ -12987,6 +13080,7 @@ hongshan barrutia:洪山区
 hongshan barrutia:洪山區
 hongshan community:弘善社区
 hongshan community:红山社区
+hongshan culture:紅山文化
 hongshan culture:红山文化
 hongshan district government:红山区政府
 hongshan district no.11 elementary school:红山区第十一小学
@@ -13000,6 +13094,7 @@ hongshan east road:hóngshān dōnglù
 hongshan east road:紅山東路
 hongshan east road:红山东路
 hongshan forest zoo:南京红山森林动物园
+hongshan gymnasium:红山体育馆
 hongshan he:hóng shānhé
 hongshan lake:hóng shān hú
 hongshan lake:hóngshān hú
@@ -13028,6 +13123,8 @@ hongshan road:洪山路
 hongshan road:红山路
 hongshan shuiku:洪山水库
 hongshan square station:洪山广场站
+hongshan stadium:红山体育场
+hongshan stadium:红山体育馆
 hongshan station:紅山站
 hongshan station:红山站
 hongshan sub-district:红山街道
@@ -13447,6 +13544,7 @@ hongtoushan:紅頭山
 hongtoushan:红透山镇
 hongtsailin barrack:紅柴林營區
 hongtu boulevard station:宏图大道站
+hongtu boulevard:宏图大道
 hongtu daban:hóngtǔ dá bǎn
 hongtu fortress:红土堡
 hongtu river:hóngtǔ hé
@@ -13512,8 +13610,10 @@ hongtuzhun:紅土埻
 hongtuzigou:红土子沟
 hongtuzui:红土咀
 hongu:红谷
+hongui line:洪仪线
 hongui line:洪儀線
 hongui station:洪仪站
+hongui station:洪儀站
 hongui-ri:紅義里
 hongui-ri:红义里
 hongui:洪仪
@@ -13565,6 +13665,8 @@ hongwei reservoir:红卫水库
 hongwei road:宏伟路
 hongwei road:宏威路
 hongwei road:红卫路
+hongwei station:宏伟站
+hongwei station:红卫站
 hongwei street:红卫街
 hongwei wudui:红卫五队
 hongwei:hóngwèi jiēdào
@@ -13620,6 +13722,8 @@ hongwon station:洪原站
 hongwon-eup:洪原邑
 hongwon:洪原
 hongwu emperor:朱元璋
+hongwu emperor:洪武皇帝
+hongwu period:洪武时期
 hongwu road:hóngwŭ lù
 hongwu road:洪屋路
 hongwu road:洪武路
@@ -14241,6 +14345,7 @@ honitulasi:洪都拉斯
 honji suijaku:本地垂迹说
 honji:本地
 honjiichi:本地市
+honjin station:本陣站
 honjin station:本陣車站
 honjin:本陣
 honjitsu wa taian nari:今日諸事大吉
@@ -14366,9 +14471,11 @@ honolulu police officer:檀香山警察
 honolulu residents:檀香山居民
 honolulu retire:檀香山退休
 honolulu she:檀香山她
+honolulu skyline:檀香山天際線
 honolulu star advertiser:檀香山星广报
 honolulu station:檀香山站
 honolulu street:檀香山街道
+honolulu university:檀香山大學
 honolulu university:美國檀香山文理及人文大學
 honolulu zoo:檀香山動物園
 honolulu:檀香山
@@ -15405,6 +15512,7 @@ honour and passion:寶家衛國
 honour building:定安大廈
 honour court:康年閣
 honour cross:榮譽十字
+honour culture:榮譽文化
 honour house:金勳大廈
 honour industrial centre:安力工業中心
 honour murder:榮譽謀殺
@@ -15525,6 +15633,7 @@ hoof sample:蹄样品
 hoof:蹄
 hoofddorp:霍夫多普
 hoofdstad:首都省
+hoogeveen airport:霍赫芬機場
 hoogeveen:霍赫芬
 hooggerechtshof van canada:加拿大最高法院
 hooghan tsé bee Ádaalyaaí bikéyah:津巴布韋
@@ -15568,6 +15677,7 @@ hook height:钩高度
 hook horror:恐爪怪
 hook insert:钩插入
 hook it:钩它
+hook kick:钩踢
 hook kiss:钩吻
 hook launch:钩发射
 hook line:钩线
@@ -15605,6 +15715,7 @@ hooked on the game:超能游戏者
 hooked squid:爪魷科
 hooker fund:妓女基金
 hooker island:胡克島
+hooker mountain:妓女山
 hooker reaction:胡克反应
 hooker street:妓女街
 hooker:妓女
@@ -15647,6 +15758,7 @@ hooreg:胡日格
 hoorgiin:kèěrgēnzhuó jiēdào
 hoorgiin:克尔根卓街道
 hoori:火折尊
+hoorn islands:霍伦群岛
 hoorn islands:霍恩群島
 hoorn van afrika:非洲之角
 hoorn:霍伦
@@ -15667,6 +15779,7 @@ hoover became the first:胡佛成为第一个
 hoover became:胡佛成为
 hoover began:胡佛开始
 hoover cake shop:豪華餅店
+hoover company:胡佛公司
 hoover conference:胡佛会议
 hoover court:豪华阁
 hoover court:豪華閣
@@ -15682,6 +15795,8 @@ hoover dam:胡佛大坝/胡佛大壩
 hoover dam:胡佛大壩
 hoover dam:胡佛水坝
 hoover dam:胡佛水壩
+hoover dam:胡佛水库
+hoover dam:胡佛水庫
 hoover design:胡佛設計
 hoover design:胡佛设计
 hoover die:胡佛死
@@ -15711,6 +15826,7 @@ hoover mansion:豪華大廈
 hoover mansion:靄華大廈
 hoover once said:胡佛曾经说
 hoover once:胡佛曾经
+hoover park:胡佛公園
 hoover plan:胡佛计划
 hoover presidential library:胡佛总统图书馆
 hoover prove:胡佛证明
@@ -15719,6 +15835,8 @@ hoover recently complete:胡佛最近完成
 hoover recently:胡佛最近
 hoover report:胡佛報告
 hoover report:胡佛报告
+hoover reservoir:胡佛水库
+hoover reservoir:胡佛水庫
 hoover revolution:胡佛革命
 hoover said:胡佛说
 hoover says:胡佛说
@@ -16368,6 +16486,7 @@ hope most:希望大多数
 hope mother:希望母亲
 hope motor company:希望公司
 hope motorola:希望摩托罗拉
+hope mountain:希望山
 hope murder:希望谋杀
 hope museum:希望博物馆
 hope my children:希望我的孩子们
@@ -16430,8 +16549,10 @@ hope our:希望我们的
 hope panda:希望熊猫
 hope parents:希望家长
 hope parents:希望父母
+hope park:希望公园
 hope park:希望公園
 hope participants:希望参与者
+hope party:希望党
 hope patients:希望患者
 hope paul:希望保罗
 hope peace:希望和平
@@ -16573,6 +16694,7 @@ hope tank:希望坦克
 hope taylor:希望泰勒
 hope team:希望团队
 hope technology:希望技术
+hope technology:希望科技
 hope tennis:希望网球
 hope tesla:希望特斯拉
 hope that person approach:希望那个人接近
@@ -16671,6 +16793,7 @@ hope trade:希望贸易
 hope tree:希望树
 hope trump:希望特朗普
 hope turkey:希望土耳其
+hope tv:希望电视
 hope u.s.:希望美国
 hope university:希望大学
 hope until:希望直到
@@ -17478,6 +17601,7 @@ horatius bonar:波纳
 horb am neckar:内卡河畔霍尔布
 horbacher bach:霍巴赫巴赫河
 horbali:霍爾巴利
+horben castle:霍尔本城堡
 horben:霍尔本
 horbova:霍爾博瓦
 horbove:戈爾博韋
@@ -17939,6 +18063,7 @@ hormone testing and hormone:激素测试和激素
 hormone testing:激素测试
 hormone testosterone:激素睾酮
 hormone theory:激素理论
+hormone therapy:激素疗法
 hormone therapy:激素療法
 hormone transport:激素运输
 hormone treatment and surgery:激素治疗和外科
@@ -18043,6 +18168,7 @@ hornblende bluffs:霍恩布倫德海崖
 hornblendite:角閃石岩
 hornby vellard:霍恩比填海工程
 horncastle:霍恩卡斯爾
+hornchurch station:霍恩徹奇站
 hornchurch tube station:霍恩徹奇站
 hornchurch:霍恩徹奇
 horne glacier:霍恩冰川
@@ -18343,6 +18469,7 @@ horror center:恐怖中心
 horror channel:恐怖通道
 horror character:恐怖角色
 horror christmas market:恐怖圣诞市场
+horror cinema:恐怖电影院
 horror click:恐怖点击
 horror club:恐怖俱乐部
 horror coach:恐怖教练
@@ -18373,6 +18500,7 @@ horror exhibition:恐怖展览
 horror exist:恐怖存在
 horror experience:恐怖体验
 horror experience:恐怖经验
+horror express:恐怖快递
 horror fiction and horror film:恐怖小说和恐怖电影
 horror fiction:恐怖小说
 horror film currently:恐怖电影目前
@@ -18384,6 +18512,7 @@ horror film series:恐怖电影系列
 horror film theme:恐怖电影主题
 horror film:恐怖电影
 horror film:恐怖電影
+horror films:恐怖电影
 horror first person shooter:恐怖第一人称射击游戏
 horror flu season:恐怖流感季
 horror game should do:恐怖游戏应该做
@@ -18395,6 +18524,7 @@ horror genre:恐怖风格
 horror has many different:恐怖有许多不同的
 horror he:恐怖他
 horror high:恐怖高
+horror hotel:恐怖旅馆
 horror hotel:恐怖酒店
 horror i could bear:恐怖我可以忍受
 horror i could:恐怖我可以
@@ -18405,12 +18535,15 @@ horror income:恐怖收入
 horror ivan:恐怖伊凡
 horror legend:恐怖传说
 horror legislation:恐怖立法
+horror literature:恐怖文学
 horror literature:恐怖文學
 horror magazine:恐怖杂志
 horror map:恐怖地图
 horror master:恐怖大师
 horror memory:恐怖记忆
 horror monster:恐怖怪物
+horror movie:恐怖电影
+horror movies:恐怖电影
 horror night:恐怖夜
 horror novel cover:恐怖小说封面
 horror novel:恐怖小说
@@ -18430,11 +18563,13 @@ horror or anxiety:恐怖或焦虑
 horror perpetrate:恐怖犯下
 horror photographer:恐怖攝影師
 horror picture:恐怖照片
+horror planet:恐怖行星
 horror poet:恐怖诗人
 horror point:恐怖点
 horror project:恐怖项目
 horror prop:恐怖道具
 horror punk:恐怖朋克
+horror punk:恐怖龐克
 horror read:恐怖读
 horror reality:恐怖现实
 horror report:恐怖报告
@@ -18479,6 +18614,7 @@ horror unite:恐怖联合
 horror version:恐怖版本
 horror video game:恐怖视频游戏
 horror video:恐怖视频
+horror vision:恐怖视觉
 horror visual novel:恐怖视觉小说
 horror we all:恐怖我们都
 horror we:恐怖我们
@@ -18546,6 +18682,7 @@ horse awards:马奖
 horse back:马回
 horse back:马背
 horse ballet:马芭蕾舞
+horse band:马带
 horse base:马基地
 horse be:马成为
 horse bean:马豆
@@ -18639,6 +18776,7 @@ horse genome:马基因组
 horse god:马神
 horse goddess who:马女神谁
 horse goddess:马女神
+horse gram:马克
 horse grazing:马放牧
 horse guards parade:皇家骑兵卫队阅兵场
 horse guards parade:騎兵衛隊閱兵場
@@ -18667,14 +18805,19 @@ horse investments:马投资
 horse invite:马邀请
 horse is dangerous:马是危险的
 horse is you:马是你
+horse island:马岛
 horse jack:马杰克
 horse jail:马监狱
 horse jump:马跳
 horse kick:马踢
+horse king:马王
 horse knows:马知道
 horse lady:马女士
+horse lake:马拉克
+horse lake:马拉科
 horse lake:马湖
 horse lamp:马灯
+horse latitude:马纬度
 horse latitudes:副熱帶高壓
 horse laugh:马笑
 horse legs:马腿
@@ -18692,6 +18835,8 @@ horse meat fat:马肉脂肪
 horse meat scandal:马肉丑闻
 horse meat:马肉
 horse memorial:马纪念碑
+horse milk:马乳
+horse mill:马磨坊
 horse missing:马不见了
 horse model:马模型
 horse models:马模型
@@ -18727,7 +18872,9 @@ horse pasture:马驹草场
 horse peak:马峰
 horse pegasus:马珀伽索斯
 horse people:马人民
+horse people:马民
 horse piss:马尿
+horse play:马玩
 horse plus:马加
 horse poetry:马诗
 horse point state park:马点州立公园
@@ -18762,6 +18909,7 @@ horse related:马相关的
 horse return:马返回
 horse riding club:室內馬術館
 horse riding club:室内马术馆
+horse river:马河
 horse road:马路
 horse rocket:马火箭
 horse rose:马玫瑰
@@ -18875,6 +19023,7 @@ horseradish or bean juice:辣根或豆汁
 horseradish or bean:辣根或豆
 horseradish peroxidase and alkaline phosphatase:辣根过氧化物酶和碱性磷酸酶
 horseradish peroxidase:辣根过氧化物酶
+horseradish peroxidase:辣根過氧化物酶
 horseradish tree:辣根树
 horseradish vodka:辣根伏特加
 horseradish:辣根
@@ -18911,6 +19060,7 @@ horsfieldia kingii:大叶风吹楠
 horsfieldia pandurifolia:琴叶风吹楠
 horsfieldia:风吹楠属
 horsforth:霍斯福斯
+horsham station:霍舍姆站
 horsham we:霍舍姆我们
 horsham:霍舍姆
 horshamosaurus:霍舍姆龙属
@@ -18972,6 +19122,7 @@ horticulture business:园艺生意
 horticulture club:园艺俱乐部
 horticulture college:园艺学院
 horticulture company:园艺公司
+horticulture department:园艺系
 horticulture development project:园艺发展项目
 horticulture development:园艺发展
 horticulture enterprises:园艺企业
@@ -19040,10 +19191,12 @@ horumonyaki:內臟燒烤
 horus and greek:荷鲁斯和希腊
 horus and seth:荷鲁斯和塞特
 horus became:荷鲁斯成为
+horus bird:荷鲁斯鸟
 horus falcon:荷鲁斯猎鹰
 horus heresy:荷鲁斯异端
 horus name:荷鲁斯名字
 horus station:荷鲁斯站
+horus temple:荷鲁斯神庙
 horus was called:荷鲁斯被称为
 horus:荷鲁斯
 horvaatia aukonsulaat:克罗地亚名誉领事馆
@@ -19167,6 +19320,7 @@ hoshi o katta hi:買下星星的日子
 hoshiarpur district:霍希亚布尔县
 hoshiarpur:霍希亚布尔
 hoshida station:星田站
+hoshigaoka station:星丘站
 hoshigaoka station:星之丘車站
 hoshigaoka-kami:星丘上
 hoshigaoka-naka:星丘中
@@ -19462,6 +19616,8 @@ hospital block:医院块
 hospital blood alcohol:医院血液酒精
 hospital blood:医院血
 hospital blood:医院血液
+hospital boat:医院船
+hospital boat:醫院船
 hospital bombing:医院爆炸
 hospital bone marrow:医院骨髓
 hospital boss:医院老板
@@ -20187,6 +20343,8 @@ hospital sg buloh pintu d:雙溪毛糯醫院d門
 hospital share:医院分享
 hospital she:医院她
 hospital ship:医疗船
+hospital ship:医院船
+hospital ship:醫院船
 hospital shooting:医院射击
 hospital should be:医院应该是
 hospital signal:医院信号
@@ -20227,6 +20385,7 @@ hospital stopped:医院停止了
 hospital store:医院商店
 hospital strategic:医院战略
 hospital strategy:医院战略
+hospital street:医院街
 hospital stress:医院压力
 hospital structure:医院结构
 hospital stub:医院存根
@@ -20792,6 +20951,7 @@ hostage crisis failure:人质危机失败
 hostage crisis had been:人质危机已经
 hostage crisis:人质危机
 hostage diplomacy:人質外交
+hostage diplomacy:人质外交
 hostage drama:人质戏剧
 hostage exchange:人质交换
 hostage fund:人质基金
@@ -20990,11 +21150,14 @@ hot ash:热灰
 hot ass:热屁股
 hot assets:热资产
 hot atom:热原子
+hot atom:熱原子
 hot autumn:火热之秋
 hot backup system:热备份系统
 hot backup:热备份
 hot ball:热球
 hot band:热乐队
+hot band:热带
+hot band:熱带
 hot barley tea:热大麦茶
 hot barley:热大麦
 hot barrel:熱桶
@@ -21099,6 +21262,7 @@ hot chocolate wait:热巧克力等
 hot chocolate with friends at home:热巧克力与朋友在家里
 hot chocolate with friends:热巧克力与朋友
 hot chocolate:热巧克力
+hot chocolate:熱巧克力
 hot christmas:热圣诞节
 hot cider:热苹果酒
 hot cities:热城市
@@ -21161,6 +21325,7 @@ hot dark matter:热暗物质
 hot data center:热数据中心
 hot data links:热数据链接
 hot data:热数据
+hot date:热约会
 hot days:热天
 hot days:熱天
 hot deform:热变形
@@ -21321,6 +21486,7 @@ hot juice:热汁
 hot july:热七月
 hot junction temperature:热结温
 hot jupiter planet:熱木星行星
+hot jupiter:热木星
 hot jupiter:熱木星
 hot just:热只
 hot kiss:热吻
@@ -21421,6 +21587,7 @@ hot mustard:辣芥末醬
 hot n cold:忽冷忽热
 hot nebula:热星云
 hot needle:热针
+hot neptune:热海王星
 hot neptune:熱海王星
 hot network:热网络
 hot new year:热新年
@@ -21524,6 +21691,7 @@ hot rifle:热步枪
 hot right:热右
 hot river:热河
 hot river:热河流
+hot river:熱河
 hot road:热路
 hot roast beef sandwich:热烤牛肉三明治
 hot roast chicken:热烤鸡
@@ -21564,6 +21732,7 @@ hot sand:熱沙
 hot sandwich:热三明治
 hot sandwich:熱三明治
 hot saturn:热土星
+hot saturn:熱土星
 hot sauce or alcohol:辣醬或酒精
 hot sauce:辣醬
 hot sauna:热桑拿
@@ -21593,6 +21762,7 @@ hot smoke and gas:热烟和气体
 hot smoke:热烟
 hot snack:热小吃
 hot snake:热蛇
+hot snow:热雪
 hot soap:热肥皂
 hot solar cell:热太阳能电池
 hot solid:热固体
@@ -21600,6 +21770,7 @@ hot song:热歌曲
 hot soon:热很快
 hot soup:热汤
 hot source:热源
+hot source:熱源
 hot sources:热源
 hot space:热空间
 hot spanish:热西班牙
@@ -21644,6 +21815,9 @@ hot stove:热灶
 hot stream:热流
 hot strip:热剥离
 hot stuff:發燒舖
+hot sub:热子
+hot sub:熱子
+hot subdwarf:熱次矮星
 hot substance:热物质
 hot sugar:热糖
 hot sulfur:热硫
@@ -21706,8 +21880,10 @@ hot tonight:热今晚
 hot topic:热主题
 hot touch:热触摸
 hot towel:热毛巾
+hot tower:热塔
 hot tower:熱塔
 hot towers:热塔
+hot towers:熱塔
 hot toy:热玩具
 hot transactions:熱交易
 hot transfer:热转印
@@ -21733,6 +21909,7 @@ hot vegetable:热蔬菜
 hot vulcanization:热硫化
 hot walking:热步行
 hot wall:热墙
+hot wallet:热钱包
 hot wallet:熱錢包
 hot war:幻影特攻
 hot water also help:热水也帮助
@@ -21855,6 +22032,7 @@ hot water will:热水会
 hot water with some cold water:热水与一些冷水
 hot water would:热水将
 hot water:热水
+hot water:熱水
 hot wax:热蜡
 hot we:热我们
 hot weather and world cup:热天气和世界杯
@@ -21933,6 +22111,8 @@ hotai motor:和泰汽車
 hotak dynasty:漢達基王朝
 hotaka station:穗高站
 hotaka yamakawa:山川穗高
+hotan airport:和田机场
+hotan airport:和田機場
 hotan central coach terminal:和田县经济新区中心客运站
 hotan city:hétián shì
 hotan city:和田市
@@ -22580,6 +22760,7 @@ hotel indigo:英迪格曼谷酒店
 hotel indigo:英迪格酒店
 hotel indonesia:印度尼西亞大酒店
 hotel industry standard:酒店行业标准
+hotel infinity:旅馆无穷
 hotel information systems:酒店信息系统
 hotel information:旅馆信息
 hotel information:酒店信息
@@ -23408,6 +23589,7 @@ hoth therapeutic:霍斯治疗的
 hoth:霍斯
 hothem cliffs:霍特姆崖
 hothl r14:巨蛋旅店
+hotin fortress:霍京要塞
 hotin, raionul sumî, regiunea sumî:霍廷
 hotin:霍京
 hotina:霍京
@@ -23420,6 +23602,7 @@ hotlin gôl cun:胡特林高勒村
 hotlin gôl:胡特林高勒
 hotline bling:熱線響起
 hotline center:熱線中心
+hotline miami:熱線邁阿密
 hotline receive:熱線收到
 hotline:熱線
 hotonnes:奥托讷
@@ -23687,6 +23870,8 @@ houbantaixiaoxiyingzi:后半台小西营子
 houbantun:后板屯
 houbanzhi:後半治
 houbao middle road:后堡中路
+houbao station:后堡站
+houbao station:後堡站
 houbao:hòubǎo
 houbao:后堡
 houbao:後堡
@@ -23733,6 +23918,7 @@ houbi river bridge:後壁溪橋
 houbi river:後壁溪
 houbi sta.:后壁车站
 houbi sta.:後壁車站
+houbi station:後壁站
 houbi train station:後壁火車站
 houbi vil.:後壁里
 houbi village:後壁里
@@ -24243,6 +24429,9 @@ hougang secondary school:后港中学
 hougang single member constituency:後港單選區
 hougang smc:后港单选区
 hougang stadium:后港体育场
+hougang stadium:後港體育場
+hougang station:后港站
+hougang station:後港站
 hougang street:後港街
 hougang tian hou temple:後港天后宮
 hougang united fc:後港聯足球會
@@ -24478,6 +24667,7 @@ houhoujiayingzi:后侯家营子
 houhoushang:后侯尚村
 houhu avenue:后湖大道
 houhu boulevard station:后湖大道站
+houhu boulevard:后湖大道
 houhu boulevard:後湖大道
 houhu community:后湖社区
 houhu community:後湖社區
@@ -24886,6 +25076,8 @@ houkou:侯口镇
 houkousancun:候口三村
 houkouyicun:候口一村
 houku rd. intersection:後崛路口
+houku river:后堀河
+houku river:後堀河
 houku river:後堀溪
 houku village:後堀村
 houku:后堀
@@ -24969,6 +25161,7 @@ houli sports park:后里運動公園
 houli station(houli elementary school):后里車站(后里國小)
 houli station:hòulǐchēzhàn
 houli station:ㄏㄡˋㄌㄧˇㄔㄜㄓㄢˋ
+houli station:后里站
 houli station:后里車站
 houli station:后里车站
 houli swimming pool:hòulǐyóuyǒngchí
@@ -25383,7 +25576,10 @@ hounsfield scale:亨氏單位
 hounslow central tube station:豪恩斯洛中央站
 hounslow council:豪恩斯洛议会
 hounslow east tube station:豪恩斯洛東站
+hounslow east:豪恩斯洛東
+hounslow station:豪恩斯洛站
 hounslow west tube station:豪恩斯洛西站
+hounslow west:豪恩斯洛西
 hounslow:豪恩斯洛
 hounuanquanzi:后暖泉子
 houpaicun:后排村
@@ -29019,6 +29215,7 @@ houshanlu:后山陆
 houshannao:后山垴
 houshanpe park:後山埤公園
 houshanpi metro station:後山埤站
+houshanpi station:後山埤站
 houshanpi:hòu shān pí
 houshanpi:后山埤
 houshanpi:後山埤
@@ -29474,6 +29671,7 @@ housing consumption:住宅消费
 housing consumption:住房消费
 housing contract:住房合同
 housing contributions:住房贡献
+housing cooperative:住宅合作社
 housing cooperative:住房合作社
 housing coordination:住房协调
 housing corporation:住房公司
@@ -29485,6 +29683,7 @@ housing costs:住宅成本
 housing costs:住房成本
 housing council:住房委员会
 housing council:住房理事会
+housing court:住宅大堂
 housing crises:住房危机
 housing crisis and climate change:住房危机和气候变化
 housing crisis and high:住房危机和高
@@ -29828,6 +30027,7 @@ housing problem:住宅问题
 housing problem:住房問題
 housing problem:住房问题
 housing problem:住房难题
+housing problems:住宅问题
 housing problems:住房问题
 housing process:住房过程
 housing product:住房产品
@@ -30058,6 +30258,7 @@ houston centre:休斯敦中心
 houston centre:好時中心
 houston children museum:休斯敦儿童博物馆
 houston children:休斯敦儿童
+houston chinatown:休斯敦唐人街
 houston chronicle commentator chris:休斯敦纪事报评论员克里斯
 houston chronicle commentator:休斯敦纪事报评论员
 houston chronicle rocket:休斯敦纪事报火箭
@@ -30077,6 +30278,7 @@ houston court:曉順閣
 houston dash:休士頓衝鋒
 houston data center:休斯敦数据中心
 houston discuss:休斯敦讨论
+houston downtown:休士頓市中心
 houston dynamo fc:休斯敦迪纳摩
 houston dynamo in international competition:休斯敦迪纳摩
 houston dynamo records and statistics:休斯敦迪纳摩
@@ -30135,6 +30337,8 @@ houston region:休斯敦地区
 houston renewable energy:休斯敦可再生能源
 houston resident:休斯敦居民
 houston residents:休斯敦居民
+houston rocket:休士頓火箭
+houston rocket:休斯敦火箭
 houston rockets sold:休斯敦火箭卖
 houston rockets team:休斯敦火箭队
 houston rockets today:休斯敦火箭今天
@@ -30146,6 +30350,8 @@ houston series:休斯敦系列
 houston ship:休斯敦船
 houston state:休斯敦州
 houston still:休斯敦仍然
+houston street:休士頓街
+houston street:休斯敦街
 houston street:厚誠街
 houston street:豪斯顿街
 houston support:休斯敦支持
@@ -30156,13 +30362,20 @@ houston texans:休斯敦得州人
 houston texas temple:德克薩斯州休士頓聖殿
 houston time:休斯敦时间
 houston too:休斯敦也
+houston township:休斯敦鎮區
 houston township:休斯敦镇区
+houston university:休士頓大学
+houston university:休士頓大學
+houston university:休斯敦大学
+houston university:休斯敦大學
 houston we have a problem:休斯敦我们有一个问题
 houston we have:休斯敦我们有
 houston weather:休斯敦天气
 houston with u.s. shale:休斯敦与美国页岩
 houston with us shale:休斯敦与美国页岩
 houston would:休斯敦将
+houston zoo:休士頓動物園
+houston zoo:休斯敦动物园
 houston zoo:休斯敦動物園
 houston-area this year:休斯敦地区今年
 houston:休士頓
@@ -30226,6 +30439,7 @@ houtaitun:后台屯
 houtaizi:后台子
 houtala:后塔垃
 houtan line:侯谭线
+houtan station:侯潭站
 houtan station:后滩站
 houtan village:後潭里
 houtan:侯潭
@@ -30327,6 +30541,7 @@ houtong railway station:猴硐車站
 houtong road:侯硐路
 houtong road:侯硐路 侯牡公路
 houtong shinto shrine:侯硐神社
+houtong station:猴硐站
 houtong village:猴硐里
 houtong-ri:湖通里
 houtong:hóu dòng
@@ -30743,6 +30958,7 @@ houyezhuangcun:后叶庄村
 houyezhuangcun:后野庄村
 houyi metro station:後驛站
 houyi shopping district:後驛成衣商圈
+houyi station:後驛站
 houyi street:後驛街
 houyi village:後驛里
 houyi:hòu yì
@@ -31018,6 +31234,7 @@ houzhuang road:后庄路
 houzhuang station:hòuzhuāngchēzhàn
 houzhuang station:ㄏㄡˋㄓㄨㄤㄔㄜㄓㄢˋ
 houzhuang station:后庄车站
+houzhuang station:後庄站
 houzhuang station:後庄車站
 houzhuang village:hòuzhuāng lǐ
 houzhuang village:ㄏㄡˋㄓㄨㄤㄌㄧˇ
@@ -31104,6 +31321,8 @@ houzui:猴嘴街道
 houzuxiangcun:后祖祥村
 hou’erzhai:猴儿寨
 hovasaurus:霍瓦蜥屬
+hovd province:科布多省
+hovd river:科布多河
 hovd tartomány:xīnbā'ěrhǔ yòu qí
 hovd tartomány:科布多盟
 hovd tartomány:科布多省
@@ -41978,8 +42197,10 @@ howqua:伍秉鑒
 howraghat:霍沃拉加特
 howrah bridge:拉宾德拉大桥
 howrah bridge:豪拉大桥
+howrah bridge:豪拉橋
 howrah district:豪拉縣
 howrah railway station:豪拉交匯站
+howrah station:豪拉站
 howrah to:豪拉到
 howrah train station:豪拉火车站
 howrah:豪拉
@@ -41993,6 +42214,7 @@ hoxtolgay town:和什托洛盖镇
 hoxtolgay village:和什托洛盖村
 hoxtolgay:和什托洛盖镇
 hoxton railway station:霍克斯頓站
+hoxton station:霍克斯頓站
 hoxton:霍克斯頓
 hoxud county:héshuò xiàn
 hoxud county:和硕县
@@ -42002,6 +42224,7 @@ hoxud:和硕县
 hoxud:和碩縣
 hoy au lau, yue kwong chuen:漁光村海鷗樓
 hoy au lau:海鷗樓
+hoy island:霍伊岛
 hoy kong lau:海港樓
 hoy park:朴孝俊
 hoy uhartea:霍伊島

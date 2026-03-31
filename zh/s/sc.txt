@@ -78,6 +78,7 @@ scalar context:标量上下文
 scalar control:标量控制
 scalar curvature and metric:数量曲率和度量
 scalar curvature:数量曲率
+scalar curvature:标量曲率
 scalar data type:标量数据类型
 scalar data:标量数据
 scalar encoding:标量编码
@@ -85,6 +86,7 @@ scalar energy:标量能量
 scalar expression:标量表达
 scalar feedback:标量反馈
 scalar field theory:标量场论
+scalar field:标量场
 scalar field:纯量场
 scalar function:标量函数
 scalar functions:标量函数
@@ -94,6 +96,7 @@ scalar interaction:标量相互作用
 scalar levels:标量水平
 scalar markets:标量市场
 scalar material:标量材料
+scalar meson:标量介子
 scalar microprocessor:标量微处理器
 scalar model:标量模型
 scalar multiplication:标量乘法
@@ -110,6 +113,8 @@ scalar potential:純量勢
 scalar process:标量处理
 scalar processor:标量处理器
 scalar product:标量积
+scalar projection:标量投影
+scalar quantization:标量量化
 scalar rather than:标量而不是
 scalar response:标量响应
 scalar sub:标量子
@@ -173,6 +178,7 @@ scale model range rover evoque:比例模型路虎揽胜极光
 scale model target:比例模型目标
 scale model with extra color:比例模型与额外的颜色
 scale model:比例模型
+scale models:比例模型
 scale numbers:比例数字
 scale observation:比例观察
 scale of temperature:溫標
@@ -553,6 +559,7 @@ scarborough castle:斯卡伯勒城堡
 scarborough centre station:士嘉堡中心站
 scarborough city centre:士嘉堡城市中心
 scarborough civic centre:士嘉堡市政中心
+scarborough college:斯卡伯勒學院
 scarborough country:斯卡伯勒国家
 scarborough development:斯卡伯勒开发
 scarborough fair finally:斯卡伯勒集市最终
@@ -916,6 +923,7 @@ scattering group:散射组
 scattering interaction:散射相互作用
 scattering layer:散射层
 scattering length:散射长度
+scattering lengths:散射长度
 scattering light wave:散射光波
 scattering light:散射光
 scattering loss:散射损失
@@ -1183,6 +1191,7 @@ schaffhouse sur zorn:佐恩河畔沙富斯
 schaffhouse:沙夫豪森
 schafflund:沙夫伦德
 schaffusa:沙夫豪森
+schafisheim castle:沙菲沙伊姆城堡
 schafisheim:沙菲沙伊姆
 schafkopf:羊头牌
 schafmatt:沙夫馬特山
@@ -1253,6 +1262,7 @@ scharndorf:沙恩多夫
 scharnebeck:沙讷贝克
 scharnhorst class battleship:沙恩霍斯特级战列舰
 scharnhorst class cruiser:沙恩霍斯特级大巡洋舰
+scharnitz abbey:沙尔尼茨修道院
 scharnitz:沙尔尼茨
 scharnstein:沙恩施泰因
 scharon bluff:沙龍海崖
@@ -2038,6 +2048,7 @@ schlesinger:施莱辛格
 schlesiske voivodskap:西里西亚省
 schlesiske voivodskap:西里西亞省
 schleswig cathedral:什勒斯維希主教座堂
+schleswig cathedral:石勒苏益格主教座堂
 schleswig war:石勒蘇益格戰爭
 schleswig-holstein:什勒斯維希—霍爾斯坦邦
 schleswig-holstein:石勒苏益格-荷尔斯泰因
@@ -2234,6 +2245,7 @@ schmidt explains:施密特解释
 schmidt family foundation:施密特家庭基金
 schmidt family:施密特家庭
 schmidt from:施密特从
+schmidt glacier:施密特冰川
 schmidt government:施密特政府
 schmidt help:施密特帮助
 schmidt hills:施密特山
@@ -2259,10 +2271,12 @@ schmidt open:施密特开
 schmidt operator:施密特算子
 schmidt own:施密特拥有
 schmidt peak:施密特峰
+schmidt peninsula:施密特半岛
 schmidt peter:施密特彼得
 schmidt plans:施密特计划
 schmidt predict:施密特预测
 schmidt reaction:施密特反应
+schmidt reaction:施密特反應
 schmidt receive:施密特收到
 schmidt recently:施密特最近
 schmidt reports:施密特报告
@@ -2334,6 +2348,7 @@ schneibstein:施奈布斯泰因山
 schneider admit:施奈德承认
 schneider answer:施奈德回答
 schneider children:施奈德儿童
+schneider company:施奈德公司
 schneider cup:施奈德杯
 schneider describe:施奈德描述
 schneider electric and gas:施耐德电气和气体
@@ -2904,6 +2919,7 @@ school applications:学校应用程序
 school apply:学校应用
 school approach:学校方法
 school arch:学校拱
+school architecture:学校建筑
 school archive:学校档案
 school arrangement:学校安排
 school art:学校艺术
@@ -3530,6 +3546,7 @@ school house:学校房子
 school house:書院大樓
 school how to:学校如何
 school hungry:学校饿
+school hygiene:学校卫生学
 school i go there:学校我去那里
 school i went:学校我去
 school i:学校我
@@ -3734,6 +3751,7 @@ school materials:学校材料
 school math exam:学校数学考试
 school math:学校数学
 school mathematics:学校数学
+school meal:学校餐
 school meal:營養午餐
 school means:学校意味着
 school media center:学校媒体中心
@@ -4546,6 +4564,7 @@ school uniform skirt:校服裙
 school uniform style:校服风格
 school uniform type:校服类型
 school uniform when you:校服当你
+school uniform:学校制服
 school uniform:校服
 school uniforms in england:英格兰校服
 school uniforms in japan:日本校服
@@ -5231,6 +5250,7 @@ schools partners:学校合作伙伴
 schools plan:学校计划
 schools police department:学校警察部门
 schools policy:学校政策
+schools portal:学校入口
 schools prepare:学校准备
 schools prevent:学校防止
 schools prevent:学校预防
@@ -5748,6 +5768,7 @@ schwedtsee:施韋特湖
 schweede:ruìdiǎn
 schweede:瑞典
 schwegenheim:施韦根海姆
+schweich lecture:施韦希讲座
 schweich said:施韦希说
 schweich:施韦希
 schweickershausen:施韦克斯豪森
@@ -5811,6 +5832,8 @@ schwerer gustav:古斯塔夫超重型鐵道炮
 schwerin an der warthe:斯克維日納
 schwerin became:什未林成为
 schwerin castle:什未林城堡
+schwerin cathedral:什未林主教座堂
+schwerin cathedral:什未林大教堂
 schwerin cathedral:施威林主教座堂
 schwerin hauptbahnhof:什未林火车总站
 schwerin:什未林
@@ -7335,6 +7358,7 @@ science fiction writers have been:科幻小说作家已经
 science fiction writers will:科幻小说作家会
 science fiction writers:科幻小说作家
 science fiction writing:科幻小说写作
+science fiction:科学小说
 science fiction:科學幻想
 science fiction:科幻小说
 science field:科学领域
@@ -7531,6 +7555,7 @@ science island:科学岛
 science issues:科学问题
 science jobs:科学工作
 science joke:科学笑话
+science journal:科学期刊
 science journalism:科学新闻学
 science journalists too:科学记者也
 science journalists:科学记者
@@ -7650,6 +7675,7 @@ science museum:科學技術館
 science museum:科學館
 science my religion:科学我的宗教
 science my:科学我的
+science myth:科学神话
 science need philosophy:科学需要哲学
 science need:科学需要
 science needs art:科学需要艺术
@@ -7876,6 +7902,7 @@ science reality:科学现实
 science recently:科学最近
 science recommend:科学建议
 science record:科学记录
+science records:科学记录
 science reference:科学参考
 science reflect:科学反映
 science reform:科学改革
@@ -8486,6 +8513,7 @@ scientific applications:科学应用程序
 scientific applications:科学的应用
 scientific applications:科学的应用程序
 scientific approach is based on:科学的方法是基于
+scientific approach:科学方法
 scientific approach:科学的接近
 scientific approach:科学的方法
 scientific apps:科学应用程序
@@ -8970,6 +8998,7 @@ scientific engineer:科学工程师
 scientific engineers:科学工程师
 scientific english:科学英语
 scientific enlightenment:科学启蒙
+scientific enterprise:科学事业
 scientific enterprise:科学企业
 scientific enterprise:科学的企业
 scientific enterprises:科学企业
@@ -8995,6 +9024,7 @@ scientific etc:科学等等
 scientific ethics:科学的伦理学
 scientific ethics:科学道德
 scientific euphemism:科学委婉
+scientific european:科学欧洲
 scientific event:科学事件
 scientific events:科学事件
 scientific evidence and best practices:科学证据和最佳实践
@@ -9066,6 +9096,7 @@ scientific family:科学的家庭
 scientific fascism:科学法西斯主义
 scientific feed:科学喂
 scientific feed:科学的喂
+scientific fiction:科学小说
 scientific field continue:科学领域继续
 scientific field data:科学领域数据
 scientific field:科学场
@@ -9234,6 +9265,7 @@ scientific inquiry:科学调查
 scientific insight:科学洞察力
 scientific insight:科学的洞察力
 scientific installation:科学安装
+scientific institute:科学学院
 scientific institute:科学研究所
 scientific institution:科学制度
 scientific institutions and association:科学机构和协会
@@ -9370,6 +9402,7 @@ scientific link:科学链接
 scientific literacy:科學素養
 scientific literature providing:科學文獻提供
 scientific literature reveal:科學文獻揭示
+scientific literature:科学文学
 scientific literature:科學文獻
 scientific log:科学日志
 scientific logic:科学的逻辑
@@ -9470,6 +9503,8 @@ scientific method require:科学方法要求
 scientific method require:科学方法需要
 scientific method we:科学方法我们
 scientific method:科学方法
+scientific methodology:科学方法论
+scientific methods:科学方法
 scientific metrology:科学计量学
 scientific milestone:科学里程碑
 scientific military:科学的军事
@@ -9486,10 +9521,13 @@ scientific mistake:科学错误
 scientific mistakes:科学错误
 scientific mode:科学模式
 scientific mode:科学的模式
+scientific model:科学模型
 scientific model:科學模型
+scientific modeling:科学建模
 scientific modelling programs:科学建模程序
 scientific modelling skills:科学建模技能
 scientific modelling:科学建模
+scientific models:科学模型
 scientific modern:科学的现代
 scientific modernization:科学现代化
 scientific morality:科学的道德
@@ -9500,6 +9538,7 @@ scientific myth:科学神话
 scientific mythology:科学神话
 scientific name is derived from:學名源自
 scientific name:學名
+scientific name:科学名称
 scientific narrative:科学故事
 scientific nation:科学国家
 scientific nature:科学自然
@@ -9583,6 +9622,7 @@ scientific parameter:科学的参数
 scientific parent:科学父母
 scientific parent:科学的父母
 scientific parents:科学父母
+scientific park:科学公园
 scientific parlor game:科学的客厅游戏
 scientific parlor:科学的客厅
 scientific part:科学的部分
@@ -9608,6 +9648,8 @@ scientific persecution:科学迫害
 scientific personality:科学人格
 scientific phenomena:科学现象
 scientific phenomenon:科学现象
+scientific philosopher:科学哲学家
+scientific philosophy:科学哲学
 scientific philosophy:科学的哲学
 scientific photograph:科学照片
 scientific photography:科学摄影
@@ -9755,6 +9797,7 @@ scientific questions through clinical:科学问题通过临床
 scientific questions:科学的问题
 scientific questions:科学问题
 scientific race:科学竞赛
+scientific racism:科学种族主义
 scientific racism:科學種族主義
 scientific racist:科学种族主义者
 scientific rain:科学的雨
@@ -9783,6 +9826,7 @@ scientific record:科学的记录
 scientific record:科学记录
 scientific records:科学记录
 scientific recruitment:科学的招聘
+scientific reductionism:科学还原论
 scientific reference:科学参考
 scientific reference:科学的参考
 scientific references:科学参考
@@ -9816,6 +9860,8 @@ scientific research institute of obstetrics and gynecology named after d. o. ott
 scientific research methods:科学的研究方法
 scientific research or write:科学的研究或写
 scientific research:科学的研究
+scientific research:科学研究
+scientific researchers:科学研究人员
 scientific resource:科学的资源
 scientific resource:科学资源
 scientific resources:科学的资源
@@ -10061,6 +10107,7 @@ scientific theory must ask itself:科学理论必须问它自己
 scientific theory should be:科学理论应该是
 scientific theory testing:科学理论测试
 scientific theory would:科学理论将
+scientific theory:科学理論
 scientific theory:科学理论
 scientific theory:科学的理论
 scientific thermocouple theory:科学的热电偶理论
@@ -11571,6 +11618,7 @@ scipio africanus:大西庇阿
 scipio consent:西庇阿同意
 scipio hear:西庇阿听
 scipio said:西庇阿说
+scipio township:西庇阿鎮區
 scipio township:西庇阿镇区
 scipio:西庇阿
 scipionyx:希皮奧內爪龍屬
@@ -11600,6 +11648,7 @@ scissors export:剪刀出口
 scissors hands:剪刀手
 scissors have been:剪刀已经
 scissors in china:剪刀在中国
+scissors kick:剪刀踢
 scissors no longer:剪刀不再
 scissors open and close:剪刀打开和关闭
 scissors open:剪刀打开
@@ -12194,6 +12243,7 @@ scorpion died:蝎子死的
 scorpion eat:蝎子吃
 scorpion fish:蝎子鱼
 scorpion girl:蝎子女孩
+scorpion grass:蝎子草
 scorpion i:蝎子王一世
 scorpion ii:蝎子王二世
 scorpion king:蝎子王
@@ -12241,6 +12291,8 @@ scotch whisky sunglasses:蘇格蘭威士忌太陽眼鏡
 scotch whisky:蘇格蘭威士忌
 scoter:海番鸭属
 scotia arc:斯科舍島弧
+scotia bank:苏格兰银行
+scotia bank:蘇格蘭銀行
 scotia bay:斯科舍灣
 scotia itsasoa:斯科舍海
 scotia place:卡加利活動中心
@@ -12333,6 +12385,8 @@ scotland boss:苏格兰老板
 scotland brand:苏格兰品牌
 scotland by:苏格兰被
 scotland cannot:苏格兰不能
+scotland cap:苏格兰帽
+scotland cap:蘇格蘭帽
 scotland change six:苏格兰改变六
 scotland change:苏格兰改变
 scotland city:苏格兰城市
@@ -12341,6 +12395,7 @@ scotland coach:苏格兰教练
 scotland continue:苏格兰继续
 scotland could:苏格兰能
 scotland could:蘇格蘭能
+scotland county:苏格兰县
 scotland county:蘇格蘭縣
 scotland culture:蘇格蘭文化
 scotland currently:苏格兰目前
@@ -12350,6 +12405,7 @@ scotland defender:苏格兰后卫
 scotland director:苏格兰导演
 scotland each year:苏格兰每年
 scotland economy:苏格兰经济
+scotland edinburgh:苏格兰爱丁堡
 scotland effort:苏格兰努力
 scotland estimate:苏格兰估计
 scotland even:苏格兰甚至
@@ -12368,6 +12424,8 @@ scotland has:苏格兰有
 scotland head coach frank:苏格兰主教练弗兰克
 scotland head coach:苏格兰主教练
 scotland health:苏格兰健康
+scotland highland:苏格兰高地
+scotland highland:蘇格蘭高地
 scotland hope:苏格兰希望
 scotland hopes:苏格兰希望
 scotland in the future:苏格兰在未来
@@ -12408,10 +12466,12 @@ scotland obtain:苏格兰获得
 scotland offer:苏格兰提供
 scotland offer:蘇格蘭提供
 scotland office:蘇格蘭事務部
+scotland office:蘇格蘭辦公室
 scotland or elsewhere:苏格兰或其它地方
 scotland or ireland:苏格兰或爱尔兰
 scotland or northern ireland:苏格兰或北爱尔兰
 scotland or wales:苏格兰或威尔士
+scotland perth:苏格兰珀斯
 scotland plans:苏格兰计划
 scotland poetry:苏格兰诗歌
 scotland policy and public:苏格兰政策和公共
@@ -12432,6 +12492,7 @@ scotland sevens:愛丁堡國際七人欖球賽
 scotland should become canada:苏格兰应该成为加拿大
 scotland so:苏格兰如此
 scotland south:苏格兰南
+scotland southeast:苏格兰东南部
 scotland spent:苏格兰花费
 scotland spokesman:苏格兰发言人
 scotland st andrews:苏格兰圣安德鲁斯
@@ -12600,6 +12661,7 @@ scott follow:斯科特跟随
 scott ford:斯科特福特
 scott foundation:斯科特基金
 scott frank:斯科特弗兰克
+scott glacier:斯科特冰川
 scott gordon:斯科特戈登
 scott hall:斯科特大厅
 scott hamilton:斯科特汉密尔顿
@@ -12617,6 +12679,7 @@ scott introduce:斯科特介绍
 scott invite:斯科特邀请
 scott is a mile:斯科特是一英里
 scott is an absolute:斯科特是一个绝对
+scott island:斯科特岛
 scott island:斯科特島
 scott israel said:斯科特以色列说
 scott israel:斯科特以色列
@@ -12634,6 +12697,7 @@ scott king:斯科特王
 scott kriens:斯科特克林斯
 scott laboratory:斯科特实验室
 scott laugh:斯科特笑
+scott lee:斯科特勒
 scott leung:梁文廣
 scott like:斯科特喜欢
 scott lin:林耀英
@@ -12645,6 +12709,7 @@ scott model:斯科特模型
 scott monument:司各特纪念塔
 scott monument:斯科特纪念碑
 scott morgan:斯科特摩根
+scott mountain:斯科特山
 scott movie:斯科特电影
 scott museum:斯科特博物馆
 scott must once again:斯科特必须再次
@@ -12662,6 +12727,7 @@ scott paper:斯科特纸
 scott park:斯科特公园
 scott parker:斯科特帕克
 scott paul:斯科特保罗
+scott peak:斯科特峰
 scott peninsula:斯科特半島
 scott peter:斯科特彼得
 scott photo:斯科特照片
@@ -12719,7 +12785,9 @@ scott thomas:斯科特托马斯
 scott thomas:斯考特托马斯
 scott thompson:斯科特汤普森
 scott through:斯科特通过
+scott township:斯科特鎮區
 scott township:斯科特镇区
+scott township:斯考特鎮區
 scott trust:斯科特信托
 scott university:斯科特大学
 scott uplands:斯科特高地
@@ -12747,6 +12815,7 @@ scott's seaside sparrow:斯氏海滨沙鹀
 scott:斯科特
 scott:斯考特
 scottburgh:斯科特堡
+scottish abbey:苏格兰修道院
 scottish academy:苏格兰学院
 scottish accent:苏格兰口音
 scottish accent:苏格兰的口音
@@ -12786,6 +12855,7 @@ scottish approach:苏格兰方法
 scottish architect charles:苏格兰建筑师查尔斯
 scottish architect:苏格兰建筑师
 scottish architects:苏格兰建筑师
+scottish area:苏格兰地区
 scottish argentines:苏格兰裔阿根廷人
 scottish army:苏格兰军队
 scottish army:苏格兰的军队
@@ -12802,6 +12872,7 @@ scottish association:苏格兰关联
 scottish astronomer:苏格兰天文学家
 scottish athlete eric:苏格兰运动员埃里克
 scottish athlete:苏格兰运动员
+scottish aviation:苏格兰航空
 scottish awards:苏格兰奖
 scottish background:苏格兰背景
 scottish bagpipes:苏格兰风笛
@@ -12889,6 +12960,7 @@ scottish club:苏格兰的俱乐部
 scottish coal mine:苏格兰煤矿
 scottish coast:苏格兰海岸
 scottish coastline:苏格兰海岸线
+scottish college:苏格兰学院
 scottish colonist:苏格兰殖民
 scottish colonization of the americas:苏格兰美洲殖民地
 scottish colony:苏格兰殖民地
@@ -12912,6 +12984,7 @@ scottish council elections:苏格兰议会选举
 scottish council:苏格兰人委员会
 scottish council:苏格兰理事会
 scottish council:苏格兰议会
+scottish county:苏格兰县
 scottish court:苏格兰法院
 scottish crime record:苏格兰犯罪记录
 scottish crime:苏格兰犯罪
@@ -13009,6 +13082,7 @@ scottish fantasy:蘇格蘭幻想曲
 scottish farm:苏格兰农场
 scottish farmer:苏格兰农民
 scottish father:苏格兰父亲
+scottish field:苏格兰场
 scottish film:苏格兰电影
 scottish films:苏格兰电影
 scottish financial risk:苏格兰金融风险
@@ -13046,6 +13120,7 @@ scottish form:苏格兰形式
 scottish fortification:苏格兰防御工事
 scottish francis:苏格兰人弗朗西斯
 scottish freedom:苏格兰的自由
+scottish freemasonry:苏格兰共济会
 scottish friend:苏格兰朋友
 scottish fund manager:苏格兰基金经理
 scottish fund:苏格兰基金
@@ -13098,6 +13173,7 @@ scottish grass:苏格兰草
 scottish green:苏格兰绿色
 scottish greens:苏格兰绿党
 scottish groom:苏格兰新郎
+scottish guardian:苏格兰监护人
 scottish guinea:苏格兰几内亚
 scottish guitarist:苏格兰吉他手
 scottish hamlet:苏格兰哈姆雷特
@@ -13403,6 +13479,7 @@ scottish public:苏格兰公共
 scottish public:苏格兰的公共
 scottish publication:苏格兰出版物
 scottish puppy:苏格兰小狗
+scottish queen:苏格兰王后
 scottish railway:苏格兰铁路
 scottish reader:苏格兰读者
 scottish real:苏格兰人真的
@@ -13421,6 +13498,7 @@ scottish register:苏格兰注册
 scottish renaissance:苏格兰文艺复兴
 scottish renewable energy:苏格兰可再生能源
 scottish representatives:苏格兰代表
+scottish republicanism:苏格兰共和主义
 scottish research activity:苏格兰研究活动
 scottish research:苏格兰研究
 scottish researchers analyze:苏格兰研究人员分析
@@ -13534,6 +13612,7 @@ scottish travel:苏格兰旅行
 scottish tribe:苏格兰部落
 scottish troops:苏格兰军队
 scottish troops:苏格兰的军队
+scottish tv:苏格兰电视
 scottish twist:苏格兰的扭曲
 scottish uniform:苏格兰制服
 scottish united presbyterian mission:苏格兰长老会差会
@@ -13595,6 +13674,7 @@ scottish:苏格兰的
 scottishpower:蘇格蘭電力
 scotts bluff national monument:斯科茨布拉夫國家紀念區
 scottsdale office:斯科茨代爾辦公室
+scottsdale stadium:斯科茨代爾體育場
 scottsdale:斯科茨代爾
 scount association of hong kong island district headquarters:香港童軍總會離島區童軍總部
 scouring pad:百潔布
@@ -13631,6 +13711,7 @@ scout fields:侦察领域
 scout game tape:侦察游戏磁带
 scout game:侦察游戏
 scout group:侦察组
+scout helicopter:侦察直升機
 scout helicopters:侦察直升机
 scout hill:童軍山
 scout law:童軍規律
@@ -14418,6 +14499,7 @@ screen temperature:屏幕温度
 screen test:屏幕测试
 screen text editor:屏幕文本编辑器
 screen text:屏幕文本
+screen theory:屏幕理论
 screen this:屏幕这
 screen those:屏幕那些
 screen three:屏幕三
@@ -14546,6 +14628,7 @@ screenplay sometimes allow:剧本有时允许
 screenplay sometimes:剧本有时
 screenplay title:剧本标题
 screenplay writer:剧本作家
+screenplay writers:剧本作家
 screenplay writing:剧本写作
 screenplay:剧本
 screensaver:螢幕保護裝置
@@ -14569,6 +14652,7 @@ screenwriter stephen:編劇史蒂芬
 screenwriter william:編劇威廉
 screenwriter:編劇
 screw cannot:螺絲不能
+screw cap:螺絲帽
 screw conveyor:螺旋输送机
 screw joint:螺纹接点
 screw position:螺絲位置
@@ -14708,6 +14792,8 @@ script is necessary:脚本是必要的
 script issue:脚本问题
 script kiddie:脚本小子
 script kids:脚本小孩
+script language:脚本語言
+script language:脚本语言
 script language:腳本語言
 script layer:脚本层
 script layout:脚本布局
@@ -15140,6 +15226,7 @@ sculpture park is located in:雕塑公园位于
 sculpture park(tourist center):雕塑公園(遊客中心)
 sculpture park:石雕公園
 sculpture park:雕塑公园
+sculpture park:雕塑公園
 sculpture part:雕塑部分
 sculpture prayer:雕塑祈祷
 sculpture prize:雕塑奖
@@ -15191,6 +15278,7 @@ scum manifesto:人渣宣言
 scum's wish:人渣的本愿
 scundu:斯昆杜鄉
 scunthorpe problem:斯肯索普问题
+scunthorpe problems:斯肯索普问题
 scunthorpe will be:斯肯索普将成为
 scunthorpe:斯肯索普
 scuol:施庫奧爾
@@ -15225,6 +15313,7 @@ scusa ma ti chiamo amore:熟男我愛你
 scut mot center:华工大车检中心
 scut zhengmen road:华南理工大学正门路
 scutarcopagia:盾弧樱蛤属
+scutari lake:斯库台湖
 scutari:斯库台
 scutellarein:野黄芩素
 scutellaria baicalensis:黄芩

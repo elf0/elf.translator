@@ -214,6 +214,7 @@ pseudo china:伪中国
 pseudo chinese:伪中国语
 pseudo class select:伪类选择
 pseudo class:伪类
+pseudo code:伪代码
 pseudo column:伪列
 pseudo compilation:伪编译
 pseudo concept:伪概念
@@ -230,6 +231,7 @@ pseudo elements:伪元素
 pseudo energy-saving:伪节能
 pseudo file system:伪文件系统
 pseudo fiscal policy:伪财政政策
+pseudo genes:伪基因
 pseudo government:伪政府
 pseudo great rhombicuboctahedron:偽大斜方截半立方體
 pseudo hadamard transform:偽阿達瑪變換
@@ -271,6 +273,8 @@ pseudo registration:伪注册
 pseudo riemannian manifold:伪黎曼流形
 pseudo satellite:伪卫星
 pseudo scholarship:偽學術
+pseudo science:伪科学
+pseudo scientific:伪科学
 pseudo scymnus:西姆努斯
 pseudo secret:伪秘密
 pseudo select:伪选择
@@ -662,6 +666,7 @@ pseudopulicidae:似蚤科
 pseudopus:假普蛇蜥属
 pseudopyrenula:拟核衣属
 pseudopythina:假蛄蛤屬
+pseudorabies virus:伪狂犬病病毒
 pseudorabies:伪狂犬病
 pseudoramibacter:假枝杆菌属
 pseudorandom binary sequence:偽亂數二進位數列
@@ -767,6 +772,7 @@ pseudoungulata:假有蹄類
 pseudounipolar neuron:假单极神经元
 pseudouridine:假尿嘧啶核苷
 pseudovates:拟预螳属
+pseudovector meson:赝矢量介子
 pseudovector:赝矢量
 pseudovertagus aluco:鸮蟹守螺
 pseudovespicula dracaena:無鱗擬項鰭鮋
@@ -883,17 +889,21 @@ psittiparus:白胸鸦雀属
 psittrichasiidae:彼斯奎氏鸚鵡亞科
 pskof-oblast:普斯科夫州
 pskof:普斯科夫
+pskov airport:普斯科夫機場
 pskov and novgorod republic:普斯科夫和诺夫哥罗德共和国
 pskov governorate:普斯科夫省
 pskov gölü:普斯科夫湖
 pskov has ice:普斯科夫有冰
 pskov koʻli:普斯科夫湖
+pskov kremlin:普斯科夫克里姆林宫
 pskov krom:普斯科夫克罗姆
 pskov museum:普斯科夫博物馆
 pskov oblast:普斯科夫州
 pskov oblasta:普斯科夫州
 pskov oblastı:普斯科夫州
+pskov province:普斯科夫省
 pskov region:普斯科夫地区
+pskov republic:普斯科夫共和国
 pskov republic:普斯科夫共和國
 pskov vilayəti:普斯科夫州
 pskov viloyati:普斯科夫州
@@ -1603,6 +1613,7 @@ psychonauts:脑航员
 psychoneuroimmunology:心理神经免疫学
 psychonotis:靈灰蝶屬
 psychopath charles:变态查尔斯
+psychopath diary:变态日记
 psychopath diary:精神病患者日記
 psychopath trait:变态特征
 psychopath:变态

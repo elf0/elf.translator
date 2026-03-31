@@ -301,6 +301,7 @@ image caption:图像标题
 image card:图像卡
 image carrier:图像载体
 image case:图像案例
+image category:图像分类
 image cause:图像引起
 image cells:图像细胞
 image center and right:图像中心和右
@@ -422,6 +423,7 @@ image default:图像默认
 image defect:图像缺陷
 image definition:图像定义
 image deform:图像变形
+image deletion:图像缺失
 image density:图像密度
 image depth data:图像深度数据
 image depth prediction:图像深度预测
@@ -555,6 +557,7 @@ image he:图像他
 image height:图像高度
 image help:图像帮助
 image higher:图像更高的
+image histogram:图像直方图
 image histogram:影像直方圖
 image host:图像主机
 image hosting service:网络相册
@@ -603,6 +606,7 @@ image line:图像线
 image link:图像链接
 image links:图像链接
 image liquefaction:图像液化
+image list:图像列表
 image load time:图像加载时间
 image load:图像加载
 image location:图像位置
@@ -837,6 +841,7 @@ image processing tools:图像处理工具
 image processing will:图像处理会
 image processing work:图像处理工作
 image processing:图像处理
+image processor:图像处理器
 image processor:圖像處理器
 image producer:图像制作人
 image product:图像产品
@@ -1252,6 +1257,8 @@ imagination could:想象能
 imagination create:想象创造
 imagination department:想象部门
 imagination economy:想象经济
+imagination entertainment:想象娛樂
+imagination entertainment:想象娱乐
 imagination exercise:想象练习
 imagination he:想象他
 imagination i:想象我
@@ -1331,9 +1338,11 @@ imam ahmed bin alis helgedom:伊玛目艾哈迈德·本·阿里圣陵
 imam ahmed bin alis helgedom:伊瑪目艾哈邁德·本·阿里聖陵
 imam al-ghazali:伊玛目安萨里
 imam ali shrine:伊玛目阿里清真寺
+imam ali:伊玛目阿里
 imam exchange:伊玛目交换
 imam go:伊玛目去
 imam has been:伊玛目已经
+imam hasan:伊玛目哈桑
 imam hossein university:伊玛目侯赛因大学
 imam husayn shrine:伊玛目侯赛因圣陵
 imam hussain bus terminus:亚兹德长途汽车站
@@ -1364,6 +1373,7 @@ imam:伊玛目
 imam:前进镇
 imamate in shia doctrine:伊瑪目教義
 imamate of oman:阿曼伊瑪目國
+imamiya station:今宫站
 imamiya station:今宮車站
 imamiya:今宫
 imamiyaebisu station:今宮戎站
@@ -1422,6 +1432,7 @@ imazatocho 1-chome:今里町1丁目
 imazatocho 2-chome:今里町2丁目
 imazatocho:今里町
 imazatosuji line:今里筋線
+imazu line:今津线
 imazu station:今津站
 imazu:今津
 imazucho:今津町
@@ -1433,6 +1444,7 @@ imbabura volcano:因巴布拉火山
 imbak canyon conservation area:英拔峡谷保育区
 imbe station:伊部站
 imbersago:因贝尔萨戈
+imbi road:燕美路
 imbi station:燕美站
 imbi:燕美
 imbiah falls:英比奥瀑布
@@ -3352,6 +3364,7 @@ imo:伊莫州
 imoco volley:科內利亞諾女排俱樂部
 imok-ri:梨木里
 imokjeong-ri:木井里
+imola cathedral:伊莫拉主教座堂
 imola cause:伊莫拉引起
 imola individual:伊莫拉个体
 imola management:伊莫拉管理
@@ -5126,6 +5139,7 @@ imperfect us:不夠善良的我們
 imperfect victim:不完美受害人
 imperfect-information game:不完美信息游戏
 imperfective aspect:非完整体
+imperia province:因佩里亞省
 imperia:因佩里亞
 imperial academy of arts:帝國藝術學院
 imperial academy:國子監
@@ -5475,6 +5489,7 @@ imperialism means:帝国主义意味着
 imperialism or colonization:帝国主义或殖民
 imperialism period:帝国主义时期
 imperialism still:帝国主义仍然
+imperialism studies:帝国主义研究
 imperialism therefore:帝国主义因此
 imperialism through:帝国主义通过
 imperialism to independence:帝国主义到独立
@@ -5490,7 +5505,9 @@ imperobator:強戰龍屬
 impersonal verb:无人称动词
 impetigo:膿痂疹
 impflingen:因普夫林根
+impfondo airport:因普豐多機場
 impfondo:因普豐多
+imphal campaign:英帕尔战役
 imphal east district:東因帕爾縣
 imphal peace museum:因帕尔和平博物馆
 imphal west district:西因帕爾縣
@@ -12407,6 +12424,7 @@ impossible choice:不可能的選擇
 impossible circumstances:不可能的情况
 impossible color:不可能的顏色
 impossible color:不可能的颜色
+impossible colour:不可能的颜色
 impossible command:不可能的命令
 impossible complex:不可能的复杂
 impossible concept:不可能的概念
@@ -12618,6 +12636,7 @@ impossible travel:不可能的旅行
 impossible triangle:不可能的三角形
 impossible trident:魔鬼叉子
 impossible trinity:三元悖论
+impossible trinity:不可能的三位一體
 impossible truth:不可能的真理
 impossible universe:不可能的宇宙
 impossible unless:不可能的除非
@@ -17388,6 +17407,7 @@ improvements you:改进你
 improvements:改进
 improvisation and collaboration:即興和合作
 improvisation collective:即興集體
+improvisation comedy:即興喜劇
 improvisation:即興
 improvisational theatre:即興劇場
 improvised explosive device:簡易爆炸裝置

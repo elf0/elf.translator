@@ -11,6 +11,8 @@ uk actor jonathan:英国演员乔纳森
 uk actor:英国演员
 uk address is located in:英国地址位于
 uk address:英国地址
+uk admiralty:英国海军部
+uk admiralty:英國海军部
 uk adopt:英国收养
 uk adult:英国成年人
 uk adults admit they:英国成年人承认他们
@@ -47,6 +49,7 @@ uk alumni:英国校友
 uk always:英国总是
 uk amazon:英国亚马逊
 uk ambassador:英国大使
+uk ambassador:英國大使
 uk analysis:英国分析
 uk analysts:英国分析师
 uk analyze:英国分析
@@ -381,6 +384,9 @@ uk brands:英国品牌
 uk bridge:英国桥
 uk broadcast:英国广播
 uk broadcasting:英国广播
+uk budget:联合王国预算
+uk budget:英国预算
+uk budget:英國預算
 uk building:英国建筑
 uk bus:英国公交车
 uk business and energy:英国商业和能源
@@ -393,6 +399,9 @@ uk business school:英国商学院
 uk business:英国商业
 uk butterfly:英国蝴蝶
 uk buy:英国买
+uk cabinet:联合王国内阁
+uk cabinet:英国内阁
+uk cabinet:英國内阁
 uk cambridge curriculum:英国剑桥课程
 uk cambridge:英国剑桥
 uk campus:英国校园
@@ -423,6 +432,8 @@ uk celebrity:英国名流
 uk cell:英国细胞
 uk cellular network:英国蜂窝网络
 uk cement:英国水泥
+uk census:英国人口普查
+uk census:英國人口普查
 uk central bank:英国中央银行
 uk central government:英国中央政府
 uk centre:英国中心
@@ -433,6 +444,7 @@ uk challenger:英国挑战者
 uk champion said:英国冠军说
 uk champion:英国冠军
 uk championship:斯诺克英国锦标赛
+uk championship:英国锦标赛
 uk chancellor:英国总理
 uk change:英国改变
 uk changed:英国改变了
@@ -463,10 +475,13 @@ uk cities:英国城市
 uk citizen peter:英国公民彼得
 uk citizen:联合王国公民
 uk citizen:英国公民
+uk citizen:英國公民
 uk citizens and residents:英国公民和居民
 uk citizens:联合王国公民
 uk citizens:英国公民
+uk citizens:英國公民
 uk citizenship:英国公民
+uk citizenship:英國公民
 uk city:英国城市
 uk civil aviation industry:英国民用航空工业
 uk civil aviation:英国民用航空
@@ -506,6 +521,7 @@ uk college:英国学院
 uk colony:英国殖民地
 uk comedy:英国喜剧
 uk comic:英国漫画
+uk comics:英国漫画
 uk committee:英国委员会
 uk community refugee:英国社区难民
 uk community:英国社区
@@ -529,6 +545,7 @@ uk conflict:英国冲突
 uk conservative party conference:英国保守党会议
 uk conservative party:英国保守党
 uk consider:英国考虑
+uk constitution:英国宪法
 uk construction companies:英国建筑公司
 uk construction trade magazine:英国建筑贸易杂志
 uk construction week:英国建筑周
@@ -571,6 +588,7 @@ uk court:联合王国法院
 uk court:英国法院
 uk courts:联合王国法院
 uk courts:英国法院
+uk courts:英國法院
 uk cousin:英国表亲
 uk create:英国创造
 uk credit card:英国信用卡
@@ -589,6 +607,7 @@ uk customers:英国客户
 uk customs:英国海关
 uk dance singles and albums charts:英國舞曲榜
 uk dance:英国舞蹈
+uk dance:英國舞蹈
 uk dark matter collaboration:英國暗物質合作計畫
 uk data center:英国数据中心
 uk data privacy:英国数据隐私
@@ -649,6 +668,7 @@ uk domestic market:英国国内市场
 uk drainage:英国排水
 uk drama school:英国戏剧学校
 uk drama:英国戏剧
+uk drama:英國戲劇
 uk drink:英国饮料
 uk drinking water:英国饮用水
 uk driver:英国司机
@@ -663,7 +683,10 @@ uk each:英国每个
 uk early:英国早期的
 uk earth observation satellite:英国地球观测卫星
 uk east coast:英国东海岸
+uk economy:英国经济
 uk edition:英国版本
+uk education:英国教育
+uk education:英國教育
 uk effectively:英国有效地
 uk election:英国选举
 uk elections and voting:英国选举和投票
@@ -701,7 +724,9 @@ uk engineering:英国工程学
 uk engineers:英国工程师
 uk england:英国英格兰
 uk english language:英国英语
+uk english:联合王国英语
 uk english:英国英语
+uk english:英國英语
 uk enter:英国进入
 uk enterprise networks:英国企业网络
 uk enterprise:英国企业
@@ -776,6 +801,7 @@ uk fintech companies:英国金融科技企业
 uk fintech:英国金融科技
 uk fire:英国火
 uk flag:英国旗
+uk flag:英國旗
 uk flood:英国洪水
 uk food and agriculture:英国食品和农业
 uk food and drink:英国食品与饮料
@@ -821,6 +847,8 @@ uk gender pay gap report:英国性别薪酬差距报告
 uk gender pay gap:英国性别薪酬差距
 uk general manager:英国总经理
 uk general:英国将军
+uk geography:英国地理
+uk geography:英國地理
 uk give:英国给
 uk global:联合王国全球
 uk global:英国全球
@@ -911,7 +939,12 @@ uk government will push:英国政府将推
 uk government will:英国政府会
 uk government wish:英国政府希望
 uk government would:英国政府将
+uk government:联合王国政府
 uk government:英国政府
+uk government:英國政府
+uk governments:联合王国政府
+uk governments:英国政府
+uk governments:英國政府
 uk graduates:英国毕业生
 uk grandparent:英国祖父母
 uk graphene battery market:英国石墨烯电池市场
@@ -931,6 +964,7 @@ uk had more than:英国有超过
 uk hairstyle:英国发型
 uk halifax:英国哈利法克斯
 uk hardcore:英国硬核
+uk hardcore:英國硬核
 uk has a proud:英国有一个自豪的
 uk has approximately:英国有大约
 uk has been:英国已经
@@ -965,6 +999,7 @@ uk higher education system:英国高等教育系统
 uk higher education:英国高等教育
 uk higher-education:英国高等教育
 uk history:英国历史
+uk history:英國历史
 uk holding company:英国控股公司
 uk honor:英国荣誉
 uk hope:英国希望
@@ -994,6 +1029,7 @@ uk in this field:英国在这个领域
 uk include:英国包括
 uk increase:英国增加
 uk independence party:英國獨立黨
+uk independence:英国独立
 uk independent schools:英国独立的学校
 uk independent singles and albums charts:英國獨立單曲和專輯榜
 uk independent:英国独立的
@@ -1104,6 +1140,7 @@ uk law school:英国法学院
 uk law will require:英国法律将要求
 uk law:联合王国法律
 uk law:英国法律
+uk law:英國法律
 uk laws:英国法律
 uk layout:英国布局
 uk learn:英国学习
@@ -1134,6 +1171,7 @@ uk longitude:英国经度
 uk lung cancer:英国肺癌
 uk magazine:英国杂志
 uk mail:英国邮件
+uk mail:英國郵政
 uk major port:英国主要港口
 uk major:英国主要
 uk male artist:英国男性艺术家
@@ -1157,6 +1195,7 @@ uk mathematician:英国数学家
 uk mathematics:英国数学
 uk means:英国意味着
 uk meat:英国肉
+uk media:英国媒体
 uk medical research council:英国医学研究委员会
 uk medical research council:英国医学研究理事会
 uk medical research:英国医学研究
@@ -1173,6 +1212,8 @@ uk military base:英国军事基地
 uk military manual:英国军事手册
 uk military:英国军事
 uk military:英国军队
+uk military:英国軍隊
+uk military:英國軍隊
 uk million women study:英国百万妇女研究
 uk million:英国百万
 uk millions:英国数百万
@@ -1300,6 +1341,9 @@ uk park:英国公园
 uk park:英国园
 uk parliament:联合王国议会
 uk parliament:英国国会
+uk parliament:英国议会
+uk parliament:英國国会
+uk parliament:英國议会
 uk participants:英国参与者
 uk participate:联合王国参加
 uk participate:英国参加
@@ -1308,6 +1352,7 @@ uk partner:英国合作伙伴
 uk partners:英国合作伙伴
 uk partnership:英国伙伴关系
 uk passport:联合王国护照
+uk passport:英国护照
 uk patent:英国专利
 uk patents:英国专利
 uk patient:英国患者
@@ -1318,6 +1363,7 @@ uk payment:英国支付
 uk peace:英国和平
 uk pension:英国退休金
 uk people:英国民
+uk people:英國人民
 uk peptide:英国肽
 uk permanent representative to the united nations in new york:英国常驻联合国代表在纽约
 uk permanent representative to the united nations:英国常驻联合国代表
@@ -1340,9 +1386,15 @@ uk plutonium sample:英国钚样品
 uk plutonium:英国钚
 uk poet laureate:英国桂冠诗人
 uk police websites lack:英国警察网站缺乏
+uk police:联合王国警察
 uk police:英国警察
+uk police:英國警察
 uk policy studies:英国政策研究
 uk policy:英国政策
+uk politics:英国政治
+uk politics:英國政治
+uk population:英国人口
+uk population:英國人口
 uk pork:英国猪肉
 uk port:英国港口
 uk post office:英国邮局
@@ -1597,6 +1649,7 @@ uk speech:英国语音
 uk spokesman:英国发言人
 uk spokesperson:英国发言人
 uk sport:英国体育运动
+uk sport:英国运动
 uk sports car:英国跑车
 uk spring:英国春季
 uk stage:英国阶段
@@ -1634,6 +1687,7 @@ uk studio ranking:英国工作室排名
 uk studio:英国工作室
 uk study:英国学习
 uk study:英国研究
+uk style:英国风格
 uk submarine:英国潜艇
 uk subsidiaries:英国子公司
 uk subsidiary:英国子公司
@@ -1680,6 +1734,7 @@ uk test:英国测试
 uk textile manufacturing:英国纺织品制造业
 uk textile:英国纺织品
 uk the:英国这
+uk theme:英國主題
 uk think:英国认为
 uk threat:英国威胁
 uk through:英国通过
@@ -1738,6 +1793,9 @@ uk under:英国下
 uk unionist party:英國統一黨
 uk unit:英国单位
 uk university of edinburgh:英国爱丁堡大学
+uk university:英国大学
+uk university:英国大學
+uk university:英國大學
 uk until:英国直到
 uk update:英国更新
 uk use:英国使用
@@ -1766,6 +1824,7 @@ uk vitamin:英国维生素
 uk vote:英国投票
 uk votes:英国投票
 uk wage:英国工资
+uk wales:英國威爾斯
 uk wall:英国墙
 uk want:英国想要
 uk warning:英国警告
@@ -1952,12 +2011,15 @@ ukrain:烏克蘭
 ukraina ambassáda:乌克兰大使馆
 ukraina bosh konsulligi:乌克兰总领事馆
 ukraina elchixonasi:乌克兰大使馆
+ukraina hotel:乌克兰酒店
 ukraina iseseisvuse tänav:烏克蘭獨立街
 ukraina konsulaat:乌克兰领事馆
 ukraina konsulligi:乌克兰领事馆
 ukraina konsuláhta:乌克兰领事馆
 ukraina peakonsulaat:乌克兰总领事馆
 ukraina saatkond:乌克兰大使馆
+ukraina society:乌克兰社会
+ukraina stadium:乌克兰体育场
 ukraina váldokonsuláhta:乌克兰总领事馆
 ukraina:wūkèlán
 ukraina:乌克兰
@@ -2240,6 +2302,7 @@ ukraine crisis continues:乌克兰危机继续
 ukraine crisis show:乌克兰危机显示
 ukraine crisis would:乌克兰危机将
 ukraine crisis:乌克兰危机
+ukraine crisis:烏克蘭危機
 ukraine culture:乌克兰文化
 ukraine currently:乌克兰目前
 ukraine cyber attack:乌克兰网络攻击
@@ -2249,6 +2312,7 @@ ukraine debt:乌克兰债务
 ukraine diplomat:乌克兰外交官
 ukraine discuss:乌克兰讨论
 ukraine dissident:乌克兰持不同政见者
+ukraine dnipro:乌克兰第聂伯河
 ukraine drama:乌克兰戏剧
 ukraine during:乌克兰期间
 ukraine economic crisis:乌克兰经济危机
@@ -2273,9 +2337,11 @@ ukraine experts:乌克兰专家
 ukraine export:乌克兰出口
 ukraine factory:乌克兰工厂
 ukraine family law:乌克兰家庭法
+ukraine famine:乌克兰饥荒
 ukraine famous:乌克兰著名的
 ukraine finally:乌克兰最终
 ukraine finance minister:乌克兰财政部长
+ukraine flag:烏克蘭旗幟
 ukraine for the first time:乌克兰第一次
 ukraine foreign policy:乌克兰外交政策
 ukraine freedom:乌克兰自由
@@ -2312,6 +2378,7 @@ ukraine international:乌克兰国际
 ukraine intervention:乌克兰干预
 ukraine into:乌克兰进入
 ukraine invasion:乌克兰入侵
+ukraine invasion:烏克蘭入侵
 ukraine investigate:乌克兰调查
 ukraine investigation:乌克兰调查
 ukraine is a democratic:乌克兰是一个民主的
@@ -2332,6 +2399,8 @@ ukraine issues:乌克兰问题
 ukraine kiev:乌克兰基辅
 ukraine landmark:乌克兰地标
 ukraine landmass:乌克兰大陆
+ukraine language:乌克兰语言
+ukraine language:烏克蘭語言
 ukraine last year:乌克兰去年
 ukraine lower:乌克兰降低
 ukraine lunch:乌克兰午餐
@@ -2369,6 +2438,7 @@ ukraine now intend:乌克兰现在打算
 ukraine now:乌克兰现在
 ukraine of course:乌克兰当然
 ukraine of the future:未来乌克兰
+ukraine offensive:乌克兰攻势
 ukraine offer:乌克兰提供
 ukraine official website:乌克兰官方网站
 ukraine officials:乌克兰官员
@@ -2399,8 +2469,10 @@ ukraine politician:乌克兰政治家
 ukraine power:乌克兰电力
 ukraine president end:乌克兰总统结束
 ukraine president:乌克兰总统
+ukraine president:烏克蘭总统
 ukraine presidential election:乌克兰总统选举
 ukraine problem:乌克兰问题
+ukraine problems:乌克兰问题
 ukraine produce:乌克兰生产
 ukraine prohibit:乌克兰禁止
 ukraine protest:乌克兰抗议
@@ -2471,6 +2543,7 @@ ukraine visa application centre:乌克兰签证申请中心
 ukraine visa application centre:烏克蘭簽證申請中心
 ukraine vote:乌克兰投票
 ukraine want:乌克兰想要
+ukraine war:乌克兰战争
 ukraine was a principle:乌克兰是一个原则
 ukraine was a semi-presidential republic:乌克兰是一个半总统制
 ukraine was different:乌克兰是不同的
@@ -2532,6 +2605,7 @@ ukrainian airliner:乌克兰客机
 ukrainian airport:乌克兰机场
 ukrainian airspace:乌克兰的领空
 ukrainian airspace:乌克兰领空
+ukrainian alphabet:乌克兰字母
 ukrainian alphabet:乌克兰语字母
 ukrainian ambassador:乌克兰大使
 ukrainian americans in new york city:紐約市的烏克蘭人
@@ -2686,6 +2760,7 @@ ukrainian catholic:乌克兰天主教
 ukrainian cave:乌克兰洞穴
 ukrainian cease-fire:乌克兰停火
 ukrainian census record:乌克兰的人口普查记录
+ukrainian census:乌克兰人口普查
 ukrainian census:乌克兰的人口普查
 ukrainian central bank said:乌克兰中央银行说
 ukrainian central bank:乌克兰中央银行
@@ -2805,11 +2880,13 @@ ukrainian education:乌克兰教育
 ukrainian education:乌克兰的教育
 ukrainian efforts:乌克兰努力
 ukrainian election:乌克兰选举
+ukrainian elections:乌克兰选举
 ukrainian elite:乌克兰精英
 ukrainian embassy or consulate:乌克兰大使馆或领事馆
 ukrainian embassy:乌克兰大使馆
 ukrainian embroidery:烏克蘭刺綉
 ukrainian emergency:乌克兰紧急情况
+ukrainian encyclopedia:乌克兰百科全书
 ukrainian energy company:乌克兰能源公司
 ukrainian energy minister:乌克兰能源部
 ukrainian energy minister:乌克兰能源部长
@@ -2951,8 +3028,10 @@ ukrainian infertility:乌克兰不孕
 ukrainian infrastructure minister:乌克兰基础设施部长
 ukrainian infrastructure:乌克兰基础设施
 ukrainian infrastructure:乌克兰的基础设施
+ukrainian institute:乌克兰学院
 ukrainian institute:烏克蘭學院
 ukrainian institutions:乌克兰机构
+ukrainian insurgency:乌克兰叛乱
 ukrainian insurgent army:烏克蘭反抗軍
 ukrainian intelligence officer:乌克兰情报官员
 ukrainian interim government:乌克兰临时政府
@@ -2993,6 +3072,7 @@ ukrainian language teacher:乌克兰语教师
 ukrainian language:乌克兰的语言
 ukrainian language:乌克兰语
 ukrainian language:乌克兰语言
+ukrainian languages:乌克兰语言
 ukrainian latin alphabet:乌克兰语拉丁字母
 ukrainian law:乌克兰法律
 ukrainian law:乌克兰的法律
@@ -3003,6 +3083,7 @@ ukrainian legislation:乌克兰立法
 ukrainian liberation army:乌克兰解放军
 ukrainian liberation:乌克兰解放
 ukrainian literature:乌克兰文学
+ukrainian literature:乌克兰语文学
 ukrainian love:乌克兰的爱
 ukrainian lutheran church:烏克蘭信義會
 ukrainian male:乌克兰男性
@@ -3011,6 +3092,7 @@ ukrainian manufacture:乌克兰制造
 ukrainian manufacturer:乌克兰制造商
 ukrainian manufacturers:乌克兰的制造商
 ukrainian marine corps:乌克兰海军步兵
+ukrainian marines:乌克兰海军陆战队
 ukrainian market will soon:乌克兰市场将很快
 ukrainian market:乌克兰市场
 ukrainian markets:乌克兰市场
@@ -3037,6 +3119,9 @@ ukrainian military vehicle:乌克兰军用车辆
 ukrainian military:乌克兰军事
 ukrainian military:乌克兰军队
 ukrainian military:乌克兰的军事
+ukrainian military:乌克兰的軍隊
+ukrainian military:乌克兰軍隊
+ukrainian militia:乌克兰民兵
 ukrainian minister:乌克兰部长
 ukrainian ministry of defence also announce:乌克兰国防部也宣告
 ukrainian ministry of defence:乌克兰国防部
@@ -3073,6 +3158,7 @@ ukrainian nationalist organizations:乌克兰民族主义者组织
 ukrainian nationalist:乌克兰民族主义者
 ukrainian nationalist:乌克兰的民族主义者
 ukrainian nationality law:乌克兰国籍法
+ukrainian nationality:乌克兰国籍
 ukrainian naval base:乌克兰海军基地
 ukrainian navy and president:乌克兰海军和总统
 ukrainian navy boat:乌克兰海军船
@@ -3164,12 +3250,14 @@ ukrainian politicians:乌克兰政客们
 ukrainian politics:乌克兰政治
 ukrainian politics:乌克兰的政治
 ukrainian popular:乌克兰流行的
+ukrainian population:乌克兰人口
 ukrainian port:乌克兰港口
 ukrainian position:乌克兰的位置
 ukrainian potato:乌克兰土豆
 ukrainian power outage:乌克兰的停电
 ukrainian power:乌克兰电力
 ukrainian power:乌克兰的电力
+ukrainian pravda:乌克兰真理报
 ukrainian premier league:烏克蘭足球超級聯賽
 ukrainian president agree:乌克兰总统同意
 ukrainian president end:乌克兰总统结束
@@ -3222,6 +3310,7 @@ ukrainian refugee:乌克兰难民
 ukrainian regime:乌克兰政权
 ukrainian region:乌克兰地区
 ukrainian regions:乌克兰地区
+ukrainian regions:乌克兰的地区
 ukrainian registration:乌克兰的注册
 ukrainian relation:乌克兰关系
 ukrainian relationship:乌克兰的关系
@@ -3245,6 +3334,7 @@ ukrainian rocket:乌克兰火箭
 ukrainian rocket:乌克兰的火箭
 ukrainian root:乌克兰根
 ukrainian route:乌克兰路线
+ukrainian russian:乌克兰俄语
 ukrainian sailor:乌克兰水手
 ukrainian sailor:乌克兰的水手
 ukrainian sausage:乌克兰香肠
@@ -3381,8 +3471,12 @@ ukrainian wedding:乌克兰婚礼
 ukrainian wheat:乌克兰小麦
 ukrainian wheat:乌克兰的小麦
 ukrainian wife:乌克兰妻子
+ukrainian wikipedia:乌克兰语维基百科
 ukrainian wikipedia:烏克蘭語維基百科
+ukrainian wikisource:乌克兰语维基文库
+ukrainian wiktionary:乌克兰语维基词典
 ukrainian win:乌克兰人赢得
+ukrainian wine:乌克兰葡萄酒
 ukrainian woman and choose:乌克兰的女人和选择
 ukrainian woman:乌克兰女人
 ukrainian woman:乌克兰女性

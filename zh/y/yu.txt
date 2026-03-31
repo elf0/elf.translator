@@ -572,6 +572,7 @@ yuan eksekutif:行政院
 yuan exécutif:行政院
 yuan fan:袁帆
 yuan fu:袁福
+yuan fuli:圓富里
 yuan geng:袁庚
 yuan guiren:袁贵仁
 yuan guisen:苑桂森
@@ -701,6 +702,7 @@ yuan yong:元雍
 yuan you:远游
 yuan yu:园屿
 yuan yuan mr. shake:圆圆餐厅
+yuan yuan:圓圓
 yuan yubai:袁誉柏
 yuan yue:袁悦
 yuan yung cheng:袁永誠
@@ -1464,6 +1466,7 @@ yuanjiamen:袁家门
 yuanjiamiao:袁家庙
 yuanjian:园建社区
 yuanjiang bridge:鸳江大桥
+yuanjiang county:元江县
 yuanjiang hani, yi and dai autonomous county:yuánjiāng hānízú yízú dǎizú zìzhì xiàn
 yuanjiang hani, yi and dai autonomous county:元江哈尼族彝族傣族自治县
 yuanjiang hani, yi and dai autonomous county:元江哈尼族彝族傣族自治縣
@@ -1705,6 +1708,7 @@ yuanlin road station:园林路站
 yuanlin road:yuánlín lù
 yuanlin road:园林路
 yuanlin sanqiao post office:員林三橋郵局
+yuanlin station:員林站
 yuanlin street:員林街
 yuanlin street:园林街
 yuanlin subdistrict:园林街道
@@ -1904,12 +1908,14 @@ yuanping 1st road:元平一路
 yuanping 2nd road:元平二路
 yuanping city:yuánpíng shì
 yuanping city:原平市
+yuanping county:原平县
 yuanping gymnasium:元平体育馆
 yuanping gymnasium:元平體育館
 yuanping line:元平线
 yuanping road:原平路
 yuanping shangcun:塬平上村
 yuanping west railway station:原平西站
+yuanping west:原平西
 yuanping:yuánpíng shì
 yuanping:元坪
 yuanping:原坪
@@ -1978,6 +1984,7 @@ yuanquan food:源泉农产品
 yuanquan police station:源泉派出所
 yuanquan railway station:源泉車站
 yuanquan road:源泉路
+yuanquan station:源泉站
 yuanquan village:源泉村
 yuanquan:yuán quán
 yuanquan:渊泉镇
@@ -2004,6 +2011,8 @@ yuanshan bus station - yilan county:圓山轉運站
 yuanshan bus station:圓山轉運站
 yuanshan camp:圓山營區
 yuanshan clinic:員山衛生所
+yuanshan culture:圆山文化
+yuanshan culture:圓山文化
 yuanshan down street 2nd alley:园山下街二巷
 yuanshan down street 3rd alley:园山下街三巷
 yuanshan guandi:原山官邸
@@ -2040,7 +2049,9 @@ yuanshan scenic area:圆山风景区
 yuanshan scenic area:圓山風景區
 yuanshan south road:yuánshān nánlù
 yuanshan south road:园山南路
+yuanshan station:元山站
 yuanshan station:园山站
+yuanshan station:圓山站
 yuanshan sub-district:jyunsaan-gaaidou
 yuanshan sub-district:yuánshān jiēdào
 yuanshan sub-district:园山街道
@@ -2265,6 +2276,8 @@ yuantong & jinhe intersection:yuántōngjǐnhélùkǒu
 yuantong & jinhe intersection:ㄩㄢˊㄊㄨㄥㄐㄧㄣˇㄏㄜˊㄌㄨˋㄎㄡˇ
 yuantong & jinhe intersection:圆通锦和路口
 yuantong & jinhe intersection:圓通錦和路口
+yuantong bridge:圆通桥
+yuantong bridge:远通桥
 yuantong green way:yuántōnglǜláng
 yuantong green way:ㄩㄢˊㄊㄨㄥㄌㄩˋㄌㄤˊ
 yuantong green way:圆通绿廊
@@ -2498,6 +2511,8 @@ yuanyang service area:鸳鸯服务区
 yuanyang shinkansen bus terminal (end):远洋新干线公交首末站 (下客区)
 yuanyang shinkansen bus terminal (start):远洋新干线公交首末站 (上客区)
 yuanyang station:鴛鴦站
+yuanyang station:鸳鸯站
+yuanyang station:鸳鸯镇站
 yuanyang subdistrict:鸳鸯街道
 yuanyang valley waterfall start:鴛鴦谷瀑布入口
 yuanyang:yuányángxiàn
@@ -2697,6 +2712,10 @@ yuasa:汤浅町
 yuasa:湯淺町
 yuaya rd. entrance:幽雅路口
 yuaytacondorsenja:尤艾塔孔多爾森哈山
+yuba airport:朱巴机场
+yuba airport:朱巴機場
+yuba county:朱巴县
+yuba river:朱巴河
 yuba:yúbà
 yuba:俞坝
 yuba:俞壩
@@ -3281,6 +3300,7 @@ yudong riverside park:鱼洞滨江运动休闲公园
 yudong road:渔东路
 yudong road:玉東路
 yudong southern district shool:鱼洞南区学校
+yudong station:玉洞站
 yudong station:鱼洞站
 yudong street:誉洞大街
 yudong subdistrict:昱东街道
@@ -3319,6 +3339,7 @@ yudu avenue:渝都大道
 yudu county:yúdū xiàn
 yudu county:于都县
 yudu county:雩都
+yudu county:雩都县
 yudu county:雩都縣
 yudu economic and technological development area:禹都经济技术开发区
 yudu subdistrict:玉都街道
@@ -3355,6 +3376,7 @@ yue cheong centre:裕昌中心
 yue chi ming:余子明
 yue chinese:粤语
 yue chun house:漁進樓
+yue dialect:粵方言
 yue fai commercial centre:裕輝商業中心
 yue fai court:漁暉苑
 yue fai road, aberdeen old main street:漁暉道, 香港仔舊大街
@@ -3875,6 +3897,7 @@ yuejin hôt:跃进浩特
 yuejin reservoir:yuèjìn shuĭkù
 yuejin reservoir:yuèjìn shuǐkù
 yuejin reservoir:跃进水库
+yuejin river:跃进河
 yuejin road lane 127:月津路127巷
 yuejin road:月津路
 yuejin road:跃进路
@@ -4434,6 +4457,7 @@ yueqin wuji:月琴屋基
 yueqin:月琴
 yueqing bay:乐清湾
 yueqing bay:樂清灣
+yueqing county:樂清县
 yueqing east railway station:乐清东站
 yueqing railway station:乐清站
 yueqing yuying school:乐清育英学校
@@ -4456,6 +4480,7 @@ yueshan railway station:月山站
 yueshan reservoir:月山水库
 yueshan road:yuèshān lù
 yueshan road:越山路
+yueshan station:月山站
 yueshan:yuèshān zhèn
 yueshan:岳山
 yueshan:月山
@@ -4782,10 +4807,12 @@ yueyang ave:岳阳道
 yueyang ave:岳陽道
 yueyang county:yuèyáng xiàn
 yueyang county:岳阳县
+yueyang county:岳陽县
 yueyang county:岳陽縣
 yueyang east railway station:岳阳东站
 yueyang east:岳阳东
 yueyang east:岳阳村东
+yueyang east:岳陽東
 yueyang hospital:岳阳医院
 yueyang middle:岳阳村中
 yueyang museum:岳阳市博物馆
@@ -4982,6 +5009,7 @@ yufengshan:玉峰山
 yufengshan:玉峰山镇
 yufengsi road:玉峰寺路
 yufengwei bus terminal:裕丰围总站
+yufengwei station:官湖站
 yufengwei station:裕丰围站
 yufengwei:官湖
 yufengwei:裕丰围
@@ -5188,7 +5216,9 @@ yugoslavia complete:南斯拉夫完成
 yugoslavia disintegrate:南斯拉夫解体
 yugoslavia edge:南斯拉夫边
 yugoslavia erupt:南斯拉夫爆发
+yugoslavia federation:南斯拉夫联盟
 yugoslavia football team:南斯拉夫足球队
+yugoslavia germans:南斯拉夫德意志人
 yugoslavia has been:南斯拉夫已经
 yugoslavia if you:南斯拉夫如果你
 yugoslavia in the eurovision song contest:南斯拉夫在歐洲歌唱大賽之歷年表現
@@ -5199,6 +5229,7 @@ yugoslavia men's national volleyball team:南斯拉夫國家男子排球隊
 yugoslavia national football team:南斯拉夫国家足球队
 yugoslavia now:南斯拉夫现在
 yugoslavia start:南斯拉夫开始
+yugoslavia team:南斯拉夫队
 yugoslavia tribunal:南斯拉夫法庭
 yugoslavia university of belgrade:南斯拉夫贝尔格莱德大学
 yugoslavia was a very:南斯拉夫是一个非常
@@ -5531,6 +5562,7 @@ yuhuaju:余化苴
 yuhualu subdistrict:裕华路街道
 yuhualu:裕华路街道
 yuhuamen station:雨花门站
+yuhuan county:玉环县
 yuhuan economic development zone:浙江玉环经济开发区
 yuhuan island:yùhuán dǎo
 yuhuan island:玉环岛
@@ -5625,6 +5657,7 @@ yuhuayuan:御华园
 yuhuayuan:御花园
 yuhuayuan:御花園
 yuhuayuan:御花苑
+yuhuazhai station:鱼化寨站
 yuhuazhai subdistrict:鱼化寨街道
 yuhuazhai:yú huà zhài
 yuhuazhai:鱼化寨
@@ -5700,6 +5733,7 @@ yuichiro kamiyama:神山雄一郎
 yuichiro mukae:迎祐一郎
 yuichiro nagai:永井雄一郎
 yuichiro tamaki:玉木雄一郎
+yuigahama station:由比濱站
 yuigahama station:由比濱車站
 yuigahama:由比濱
 yuika motokariya:本假屋唯香
@@ -6312,12 +6346,15 @@ yukatan yaqa wat'a:尤卡坦半岛
 yukatan yarımadası:尤卡坦半岛
 yukatan:尤卡坦半岛
 yukatong:鱼卡通
+yukawa dam:湯川水庫
 yukawa gakko-mae (yutaka school):汤川学校前
 yukawa gakko-mae (yutaka school):湯川學校前
 yukawa institute for theoretical physics:京都大学基础物理学研究所
+yukawa interaction:湯川相互作用
 yukawa interaction:湯川耦合
 yukawa potential:汤川势
 yukawa station:湯川站
+yukawa theory:湯川理論
 yukawa:湯川
 yukdan-ri:六丹里
 yuke line:御克线
@@ -6405,6 +6442,7 @@ yuki shibamoto:柴本幸
 yuki shimizu:志水雪
 yuki soko-mae:汤木仓库前
 yuki soko-mae:湯木倉庫前
+yuki station:油木站
 yuki suetsugu:末次由紀
 yuki takita:田北雄氣
 yuki togashi:富樫勇樹
@@ -6553,6 +6591,7 @@ yuko tojo:东条由布子
 yuko yamaguchi:山口裕子
 yuko yoneda:米田祐子
 yukon court:殷豪閣
+yukon government:育空地区政府
 yukon government:育空地區政府
 yukon heights:煜康臺
 yukon legislative assembly:育空地区立法会
@@ -6823,9 +6862,11 @@ yuliaoshan:鱼寮山
 yuliaozi:魚寮子
 yulicun:峪里村
 yuliiampil:尤利亞姆皮利
+yulin airport:榆林机场
 yulin alley:榆林巷
 yulin avenue:雨林大道
 yulin basin (yangtze):大洪河水系
+yulin campaign:榆林战役
 yulin caves:榆林窟
 yulin city:njuklam-si
 yulin city:yùlín shì
@@ -6855,6 +6896,7 @@ yulin river bridge:御临河大桥
 yulin river:yùlín hé
 yulin river:御临河
 yulin river:御臨河
+yulin river:榆林河
 yulin road:御临路
 yulin road:御臨路
 yulin road:榆林路
@@ -6863,6 +6905,7 @@ yulin road:玉林路
 yulin road:育林路
 yulin service area:榆林服务区
 yulin south road:玉林南路
+yulin stadium:玉林市体育馆
 yulin subdistrict:榆林街道
 yulin tollbooth:鱼鳞收费站
 yulin town:榆林镇
@@ -6993,6 +7036,7 @@ yulong complete primary school:玉龙完全小学
 yulong converter station:裕隆换流站
 yulong copper mine:玉龙铜矿
 yulong county people's hospital:玉龙县人民医院
+yulong county:玉龙县
 yulong court:玉龙阁
 yulong he:玉龙河
 yulong huating:御龙华庭
@@ -7026,6 +7070,8 @@ yulong residential unit:玉龙友谊小区
 yulong river footpath:遇龙河步道
 yulong river:yùlóng hé
 yulong river:玉隆河
+yulong river:玉龍河
+yulong river:玉龙河
 yulong river:遇龙河
 yulong road station:玉龙路站
 yulong road:御龙路
@@ -7045,6 +7091,8 @@ yulong street:宇龙街
 yulong street:玉龙大街
 yulong street:玉龙街道
 yulong vocational high school:玉龙县职业高级中学
+yulong xueshan:玉龍雪山
+yulong xueshan:玉龙雪山
 yulong'ao reservoir:鱼龙凹水库
 yulong:yùlóng jiēdào
 yulong:yùlóng nàxīzú zìzhìxiàn
@@ -7259,6 +7307,7 @@ yumenohashi:夢之橋
 yumenohashi:梦之桥
 yumenornis:玉門鳥屬
 yumenoshima park archery:梦之岛公园射箭
+yumenoshima park:夢之島公園
 yumenoshima park:梦之岛公园
 yumenoshima stadium:夢之島體育場
 yumenoshima:夢之島
@@ -7266,6 +7315,7 @@ yumenshi service area:玉门服务区
 yumesakigawa station:夢前川站
 yumeshima island:夢洲
 yumeshima island:梦洲
+yumeshima station:夢洲站
 yumeshima-naka 1-chome:梦洲中一丁目
 yumeshima:夢島
 yumeshima:夢洲
@@ -7581,6 +7631,7 @@ yunan community:玉南社区
 yunan county:yùnán xiàn
 yunan county:郁南县
 yunan county:鬱南
+yunan county:鬱南县
 yunan county:鬱南縣
 yunan environment park:郁南环境园
 yunan street:育南街
@@ -7808,6 +7859,9 @@ yundum:雲杜姆
 yunei road:宇內路
 yuneswaran ramaraj:华岚
 yunfa yujinglanting:运发御景兰庭
+yunfeng dam:云峰水库
+yunfeng dam:云峰水庫
+yunfeng dam:雲峰水庫
 yunfeng garden:云峰花园
 yunfeng island:云凤岛
 yunfeng pavillion:云凤亭
@@ -8445,6 +8499,7 @@ yunjing:云径村
 yunjing:韻鏡
 yunjinghong:yǔnjǐnghóng jiēdào
 yunjinghong:允景洪街道
+yunjinlu station:云锦路站
 yunjinlu:yúnjĭn lù
 yunjinlu:云锦路
 yunjinlu:雲錦路
@@ -8498,6 +8553,7 @@ yunlin county stadium:雲林縣體育場
 yunlin county:yúnlín siàn
 yunlin county:yúnlín xiàn
 yunlin county:云林县
+yunlin county:雲林县
 yunlin county:雲林縣
 yunlin creek:云林溪
 yunlin creek:云林溪(环球中华影城)
@@ -8523,6 +8579,8 @@ yunlin road section 1:雲林路一段
 yunlin road section 2:雲林路二段
 yunlin road:雲林路
 yunlin second prison:雲林第二監獄
+yunlin station:云林站
+yunlin station:雲林站
 yunlin story house:虎尾郡守官邸
 yunlin story house:雲林故事館
 yunlin storyhouse:云林故事馆
@@ -8578,6 +8636,7 @@ yunlong park:云龙公园
 yunlong reservoir:云龙水库
 yunlong road:云龙路
 yunlong st:云龙街
+yunlong station:云龙站
 yunlong street:云龙街
 yunlong temple:yúnlóng sì
 yunlong waterfall:雲龍瀑布
@@ -8656,6 +8715,7 @@ yunmukuang:云母矿
 yunnan agricultural university international:云南农业大学国际
 yunnan agricultural university:云南农业大学
 yunnan and sichuan:云南省和四川省
+yunnan army:云南军队
 yunnan arts university:云南艺术学院
 yunnan astronomical observatory:中国科学院云南天文台
 yunnan baiyao group:雲南白藥集團
@@ -8684,13 +8744,18 @@ yunnan hall:云南会馆
 yunnan hare:雲南兔
 yunnan hengshui chenggong experimental middle school:云南衡水呈贡实验中学
 yunnan highway:云南省公路
+yunnan honghe:云南红河
+yunnan horse:云南马
 yunnan institute of endemic diseases control and prevention:云南省地方病防治所
 yunnan international travel healthcare center:云南国际旅行卫生保健中心
 yunnan japalure:云南龙蜥
 yunnan lake newt:滇螈
 yunnan lane:雲南里
 yunnan lar gibbon:云南白掌长臂猿
+yunnan library:云南图书馆
+yunnan library:云南省图书馆
 yunnan lijiang minzu orphan school:云南省丽江民族孤儿学校
+yunnan lijiang:云南丽江
 yunnan lu:云南路
 yunnan lu:雲南路
 yunnan lvshan landscape:云南绿山园林自行车队
@@ -8708,8 +8773,10 @@ yunnan normal university:云南师范大学
 yunnan nuthatch:滇鳾
 yunnan observatories, cas:中国科学院云南天文台
 yunnan observatories, chinese academy of sciences:中国科学院云南天文台
+yunnan observatory:云南天文台
 yunnan people's publishing house:云南人民出版社
 yunnan people:云南省人民
+yunnan plateau:云南高原
 yunnan provincal song and dance troup dream theatre:云南省歌舞剧院
 yunnan province:yunnan sheng
 yunnan province:云南省
@@ -8745,8 +8812,10 @@ yunnan university dianchi college:云南大学滇池学院
 yunnan university of chinese medicine:云南中医药大学
 yunnan university of finance and economics:云南财经大学
 yunnan university:云南大学
+yunnan university:云南大學
 yunnan woolly flying squirrel:雪山羊绒鼯鼠
 yunnan yun-asia international feight forwarders co., ltd.:云南云亚国际货运代理有限公司
+yunnan zebu:云南瘤牛
 yunnan:yunnan sheng
 yunnan:yúnnán
 yunnan:云南
@@ -8974,6 +9043,7 @@ yuntai garden station:云台花园站
 yuntai garden:云台花园
 yuntai garden:雲台花園
 yuntai lane:云台里
+yuntai mountain:云台山
 yuntai place international hotel:云台天阶国际饭店
 yuntai road qihe road:云台路齐河路
 yuntai road station:云台路站
@@ -9070,6 +9140,7 @@ yunwushan:雲霧山鎮
 yunwushancun:云雾山村
 yunxi alley:云溪巷
 yunxi botanical garden:云溪植物园
+yunxi county:云溪县
 yunxi county:郧西县
 yunxi district:yunxi qu
 yunxi district:云溪区
@@ -9320,6 +9391,7 @@ yuping 8th street:育平八街
 yuping 9th street:育平九街
 yuping boulevard viaduct:玉平大道高架桥
 yuping boulevard:玉平大道
+yuping county:玉屏县
 yuping dong autonomous county:yùpíng dòngzú zìzhìxiàn
 yuping dong autonomous county:玉屏侗族自治县
 yuping dong autonomous county:玉屏侗族自治縣
@@ -9473,6 +9545,8 @@ yuquan district:玉泉區
 yuquan evacuation gate:玉泉疏散門
 yuquan li:玉泉里
 yuquan lu station:玉泉路站
+yuquan mountain:玉泉山
+yuquan mountain:鱼泉山
 yuquan overpass:玉泉天桥
 yuquan river:yùquán xī
 yuquan river:玉泉溪
@@ -9736,6 +9810,7 @@ yurye of silla:儒禮尼師今
 yuryev polsky district:尤里耶夫波利斯基区
 yuryevetsky district:尤里耶韦茨区
 yuryivka:尤爾伊夫卡
+yuryuzan river:尤留贊河
 yuryuzan' river:尤留贊河
 yuryuzan':尤留贊
 yuryuzan':尤留贊河
@@ -9806,6 +9881,7 @@ yushan housing complex:玉山新城
 yushan huayuan:虞山花园
 yushan interchange:峪山互通
 yushan island:渔山列岛
+yushan island:鱼山岛
 yushan junior high school:玉山國中
 yushan middle school:峪山中学
 yushan national park headquarters meishan visitor center:玉山國家公園梅山遊客中心
@@ -9828,6 +9904,7 @@ yushan road:禺山路
 yushan shuiku:余山水库
 yushan south peak:玉山南峰
 yushan south railway station:玉山南站
+yushan south:玉山南
 yushan southeast peak:東小南山
 yushan street:玉山街
 yushan tower:雨山阁
@@ -9921,6 +9998,7 @@ yushe county:榆社县
 yushe county:榆社縣
 yushe north toll station:榆社北收费站
 yushe reservoir:玉舍水库
+yushe west:榆社西
 yushe yunzhuyi hotel:榆社云竹驿酒店
 yushe yunzhuyi hotel:榆社雲竹驿酒店
 yushe:yushe xian
@@ -9977,6 +10055,7 @@ yushig monastery:益青寺
 yushikeng:御史坑
 yushiliang:玉石梁
 yushima seidō:湯島聖堂
+yushima station:汤岛站
 yushima:汤岛
 yushimaseido temple:湯島聖堂
 yushin constitution:維新體制
@@ -9997,6 +10076,7 @@ yushu city:榆树市
 yushu city:榆樹市
 yushu city:玉树市
 yushu city:玉樹市
+yushu county:榆树县
 yushu dajie entrance:玉树大街口站
 yushu hutong:yùshù hútòng
 yushu hutong:育树胡同
@@ -10118,6 +10198,7 @@ yushupingcun:榆树坪村
 yushupucun:榆树堡村
 yushuquan fort:榆树泉堡
 yushut:尤舒特河
+yushutai station:榆树台站
 yushutai:yúshùtái zhèn
 yushutai:榆树台
 yushutai:榆树台镇
@@ -10381,6 +10462,7 @@ yutian company:羽田公司
 yutian county vocational skills education training center:于田县职业技能教育培训中心
 yutian county vocational skills education training center:於田縣職業技能教育培訓中心
 yutian county:yùtián xiàn
+yutian county:于田县
 yutian county:玉田县
 yutian county:玉田縣
 yutian estate:雨田村
@@ -10390,6 +10472,7 @@ yutian road:玉田路
 yutian road:雨田路
 yutian service area:玉田服务区 (北京方向）
 yutian service area:玉田服务区 (哈尔滨方向）
+yutian south:玉田南
 yutian street:玉田街
 yutian street:鱼田街
 yutian vil.:玉田里
@@ -10755,6 +10838,7 @@ yuxin road:育新路
 yuxin road:裕新路
 yuxin school:育新学校
 yuxin sichuan dish:渝信川菜
+yuxin station:育新站
 yuxin street:育新街
 yuxin subdistrict:yùxīn jiēdào
 yuxin subdistrict:玉新街道
@@ -10922,8 +11006,12 @@ yuyantan:yúyǎntān cūn
 yuyantan:鱼眼滩村
 yuyanwan:余堰湾
 yuyanzhuang:于阎庄
+yuyao county:余姚县
+yuyao county:餘姚县
 yuyao high school:余姚市高中
 yuyao north railway station:余姚北站
+yuyao north:余姚北
+yuyao north:餘姚北
 yuyao people:余姚市人民
 yuyao primary school:余姚小学
 yuyao railway station:余姚站
@@ -11181,6 +11269,7 @@ yuzhi street:育智街
 yuzhidiancun:玉枝店村
 yuzhidianwan:玉枝店湾
 yuzhidongcun:于只东村
+yuzhilu station:育知路站
 yuzhilu:育知路
 yuzhna lomuvatka:南洛穆瓦特卡
 yuzhni:尤日内
@@ -11212,6 +11301,7 @@ yuzhnoye butovo:南布托沃区
 yuzhnoye medvedkovo district:南梅德韦德科沃区
 yuzhnoye tushino district:南图希诺区
 yuzhny island:尤日內島
+yuzhny island:尤日内岛
 yuzhny rabochy:南方工人
 yuzhny:尤日內島
 yuzhny:尤日内

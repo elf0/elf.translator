@@ -61,6 +61,7 @@ fracking:水力压裂
 fraconalto:弗拉科纳尔托
 fractal algorithms:分形算法
 fractal analysis:分形分析
+fractal analytics:分形分析
 fractal art:分形艺术
 fractal artist:分形艺术家
 fractal at present:分形目前
@@ -69,9 +70,13 @@ fractal brownian motion:分形布朗运动
 fractal changes:分形变化
 fractal compression:分形压缩
 fractal cosmology:分形宇宙学
+fractal curve:分形曲线
+fractal curves:分形曲线
 fractal density:分形密度
 fractal dimension rise:分形维数上升
+fractal dimension:分形维度
 fractal dimension:分形维数
+fractal dimensions:分形维度
 fractal geometry:分形几何学
 fractal landscape:分形景观
 fractal light discovery:分形光发现
@@ -99,8 +104,10 @@ fractal structure:分形结构
 fractal systems have many:分形系统有很多
 fractal systems:分形系统
 fractal technology:分形技术
+fractal theory:分形理論
 fractal theory:分形理论
 fractal time:分形时间
+fractal transform:分形变换
 fractal universe:分形宇宙
 fractal wave:分形波
 fractal:分形
@@ -1063,6 +1070,7 @@ framework component:框架组件
 framework components:框架组件
 framework comprise:框架包含
 framework comprise:框架包括
+framework computer:框架电脑
 framework concept:框架概念
 framework concepts:框架概念
 framework condition:框架条件
@@ -1570,6 +1578,8 @@ franca glacier:弗蘭卡冰川
 franca gviano:法属圭亚那
 franca gviano:法属圭亚那 / 法屬圭亞那
 franca gviano:法屬圭亞那
+franca parisi:法国巴黎
+franca parisi:法國巴黎
 franca polinezia:法属波利尼西亚
 franca polinezia:法属波利尼西亚 / 法屬玻里尼西亞
 franca polinezia:法屬玻里尼西亞
@@ -2049,9 +2059,11 @@ france and wine:法国和葡萄酒
 france and world cup:法国和世界杯
 france and your rights:法国和你们的权利
 france and yugoslavia:法国与南斯拉夫
+france animation:法国动画
 france annex:法国吞并
 france appear:法国出现
 france arbitration:法国仲裁
+france archives:法國檔案館
 france are champions:法国是冠军
 france are italy:法国是意大利
 france are next:法国是下一个
@@ -2086,6 +2098,7 @@ france bleu:蓝色法兰西
 france blog:法国博客
 france border:法国边界
 france boss:法国老板
+france brest:法國布雷斯特
 france business:法国商业
 france cannot:法国不能
 france car:法国汽车
@@ -2117,6 +2130,7 @@ france country:法国国家
 france courage:法国勇气
 france culture minister:法国文化部长
 france culture:法国文化
+france culture:法國文化
 france currently:法国目前
 france customers:法国客户
 france customs:法国海关
@@ -2165,6 +2179,7 @@ france football magazine:法国足球杂志
 france football team:法国足球队
 france football world cup:法国足球世界杯
 france football:法国足球
+france football:法國足球
 france for example:法国例如
 france forget:法国忘记
 france forum:法国论坛
@@ -2298,6 +2313,11 @@ france men's national handball team:法國國家男子手球隊
 france men's national volleyball team:法國國家男子排球隊
 france michelin:法国米其林
 france midfielder:法国中场
+france military:法国军事
+france military:法国军队
+france military:法国軍隊
+france military:法國军队
+france military:法國軍隊
 france more time:法国更多时间
 france more:法国更多
 france most important:法国最重要的
@@ -2311,6 +2331,7 @@ france métropolitaine:法国本土
 france métropolitaine:法國本土
 france métropolitaine:法國本土/法国本土
 france name:法国名称
+france nantes:法國南特
 france national assembly:法国国民议会
 france national badminton team:法國國家羽毛球隊
 france national baseball team:法國棒球代表隊
@@ -2329,6 +2350,7 @@ france needs:法国需要
 france netherlands:法国荷兰
 france network:法国网络
 france news:法国新闻
+france nice:法国尼斯
 france night:法国夜
 france no longer:法国不再
 france none:法国没有
@@ -2373,6 +2395,7 @@ france own:法国拥有
 france palestine solidarity:法国巴勒斯坦团结
 france palestine:法国巴勒斯坦
 france paris:法国巴黎
+france paris:法國巴黎
 france participate:法国参加
 france pavilion:法国馆
 france phone:法国电话
@@ -2384,6 +2407,7 @@ france poetry:法国诗
 france popular:法国流行的
 france power:法国电力
 france prepare:法国准备
+france press:法国出版社
 france produce:法国生产
 france products:法国产品
 france prohibit:法国禁止
@@ -2430,9 +2454,11 @@ france smile:法国微笑
 france soir:法國晚報
 france soon:法国很快
 france spent:法国花费
+france sport:法国运动
 france start:法国开始
 france state of emergency:法国紧急状态
 france station:法国站
+france station:法國站
 france still:法国仍然
 france stop:法国停止
 france strasbourg:法国斯特拉斯堡
@@ -2444,6 +2470,7 @@ france support:法国支持
 france surrender:法国投降
 france team:法国团队
 france team:法国队
+france team:法國队
 france television:法国电视
 france tell:法国告诉
 france terror:法国恐怖
@@ -2837,6 +2864,7 @@ francisco ou:歐鴻鍊
 francisco ramos:弗朗西斯科拉莫斯
 francisco river:弗朗西斯科河
 francisco said:弗朗西斯科说
+francisco santos:弗朗西斯科桑托斯
 francisco sitting:弗朗西斯科坐
 francisco varo:万济国
 francisco wait:弗朗西斯科等
@@ -2849,6 +2877,8 @@ franciscopolis:舊金山
 franciscus verellen:傅飛嵐
 francisella tularensis:土拉弗朗西斯菌
 francisella:弗朗西斯菌属
+francistown airport:弗朗西斯敦机场
+francistown airport:弗朗西斯敦機場
 francistown already:弗朗西斯敦已经
 francistown:弗朗西斯敦
 francium chloride:氯化钫
@@ -3152,6 +3182,7 @@ frank family:弗兰克家庭
 frank field:弗兰克领域
 frank financial services:弗兰克金融服务
 frank find:弗兰克发现
+frank ford:弗兰克福特
 frank found:弗兰克找到
 frank foundation:弗兰克基金
 frank frederick:弗兰克弗雷德里克
@@ -3204,6 +3235,7 @@ frank me:弗兰克我
 frank morgan:弗兰克摩根
 frank morris:弗兰克莫里斯
 frank mosher:慕高文
+frank mountain:弗兰克山
 frank museum:弗兰克博物馆
 frank nagai:法蘭克永井
 frank newnes glacier:弗蘭克紐恩斯冰川
@@ -3350,6 +3382,7 @@ frankfurt airport neu-isenburg:法兰克福机场新伊森堡
 frankfurt airport to stuttgart airport:法兰克福机场到斯图加特机场
 frankfurt airport train station:法兰克福机场火车站
 frankfurt airport:法兰克福机场
+frankfurt airport:美茵河畔法蘭克福機場
 frankfurt al main:美茵河畔法蘭克福
 frankfurt al main:邁因河畔法蘭克福
 frankfurt am main:美因河畔法兰克福
@@ -3515,6 +3548,7 @@ franklin began:富兰克林开始
 franklin begin:富兰克林开始
 franklin book awards:富兰克林图书奖
 franklin book:富兰克林图书
+franklin boulevard:富兰克林大道
 franklin bridge:富兰克林桥
 franklin buchanan:富兰克林布坎南
 franklin campus:富兰克林校园
@@ -3596,9 +3630,11 @@ franklin life science:富兰克林生命科学
 franklin life:富兰克林生活
 franklin lightning:富兰克林闪电
 franklin like:富兰克林喜欢
+franklin line:富兰克林线
 franklin manage:富兰克林管理
 franklin manufacture:富兰克林制造
 franklin marry:富兰克林结婚
+franklin medal:富兰克林獎章
 franklin medal:富蘭克林獎章
 franklin men and women:富兰克林男性和女性
 franklin mitte:富兰克林米特
@@ -3611,6 +3647,7 @@ franklin note:富兰克林注意
 franklin once said:富兰克林曾经说
 franklin once:富兰克林曾经
 franklin or andrew:富兰克林或安德鲁
+franklin parish:富兰克林堂区
 franklin park zoo:富兰克林公园动物园
 franklin park:富兰克林公园
 franklin paul:富兰克林保罗
@@ -3649,6 +3686,7 @@ franklin start:富兰克林开始
 franklin state:富兰克林国家
 franklin statue:富兰克林雕像
 franklin store:富兰克林商店
+franklin strait:富兰克林海峡
 franklin strait:富蘭克林海峽
 franklin street:富兰克林街
 franklin street:富兰克林街道
@@ -4072,6 +4110,7 @@ fraroz:弗拉罗
 frascaro:弗拉斯卡罗
 frascarolo:弗拉斯卡罗洛
 frascati cathedral:弗拉斯卡蒂主教座堂
+frascati cathedral:弗拉斯卡蒂大教堂
 frascati manual:弗拉斯卡蒂手册
 frascati white wine:弗拉斯卡蒂白葡萄酒
 frascati:弗拉斯卡蒂
@@ -4082,13 +4121,16 @@ frasdorf:弗拉斯多夫
 fraser canyon war:弗雷澤峽谷戰爭
 fraser coast region:福瑞沙海岸區政府
 fraser coast:弗雷澤海岸
+fraser glacier:弗雷澤冰川
 fraser heights:菲沙嶺
 fraser highway:菲沙公路
 fraser institute:弗雷澤研究所
 fraser lake:弗雷泽湖村
+fraser lake:弗雷澤湖
 fraser lowland:弗雷泽低地
 fraser nunatak:弗雷澤冰原島峰
 fraser ocean:弗雷澤海洋
+fraser park:弗雷澤公園
 fraser point:弗雷澤角
 fraser residence nankai:大阪南海輝盛庭國際公寓
 fraser rise:符理善徑
@@ -4100,6 +4142,7 @@ fraser suite:廣州輝盛閣國際公寓
 fraser suites guangzhou:广州辉盛阁国际公寓
 fraser suites guangzhou:廣州輝盛閣國際公寓
 fraser township:弗雷泽镇区
+fraser township:弗雷澤鎮區
 fraser valley area:弗雷泽河谷地区
 fraser valley regional district:菲沙河谷地区
 fraser valley:弗雷泽河谷
@@ -4114,6 +4157,7 @@ frasers group:福来莎集团
 frashokereti:弗拉绍克勒蒂
 frasier:欢乐一家亲
 frasin:弗拉辛
+frasne station:弗拉讷站
 frasne:弗拉讷
 frasnes lez anvaing:弗拉讷莱昂万
 frasnian:弗拉斯期
@@ -4156,6 +4200,7 @@ fraud and security purpose:詐騙和保安目的
 fraud case:詐騙案件
 fraud centre:詐騙中心
 fraud companies:詐騙公司
+fraud factory:詐騙工廠
 fraud how much:詐騙多少
 fraud management:詐騙管理
 fraud or fraud:詐騙或詐騙
@@ -4292,6 +4337,7 @@ frederica of baden:巴登的弗蕾德里克
 frederica of hanover:漢諾威的弗蕾德里克
 fredericia municipality:腓特烈西亞市鎮
 fredericia station:弗雷德里西亚站
+fredericia station:腓特烈西亚站
 fredericia:哈米納
 fredericia:腓特烈西亚
 frederick accept:弗雷德里克接受
@@ -4308,6 +4354,7 @@ frederick began:弗雷德里克开始
 frederick cancer:弗雷德里克癌症
 frederick carl:弗雷德里克卡尔
 frederick community college:弗雷德里克社区学院
+frederick conrad:弗雷德里克康拉德
 frederick county historical society:弗雷德里克县历史学会
 frederick county militia:弗雷德里克县民兵
 frederick county:弗雷德里克县
@@ -4316,6 +4363,7 @@ frederick douglas:弗雷德里克道格拉斯
 frederick emmons:弗雷德里克埃蒙斯
 frederick enter:弗雷德里克进入
 frederick eventually:弗雷德里克最终
+frederick fontaine:弗雷德里克方丹
 frederick fung:馮檢基
 frederick graves:郭斐蔚
 frederick henry:弗雷德里克亨利
@@ -4350,6 +4398,7 @@ frederick plans:弗雷德里克计划
 frederick police:弗雷德里克警察
 frederick porter smith:师惟善
 frederick pretend:弗雷德里克假装
+frederick prince:弗雷德里克王子
 frederick receive:弗雷德里克收到
 frederick rocks:弗雷德里克岩
 frederick said:弗雷德里克说
@@ -4374,8 +4423,10 @@ frederick will:弗雷德里克会
 frederick william i:弗雷德里克威廉一世
 frederick william:弗雷德里克威廉
 frederick:弗雷德里克
+fredericksburg campaign:弗雷德里克堡战役
 fredericksburg:弗雷德里克堡
 frederickson:弗雷德里克森
+fredericton airport:弗雷德里克頓機場
 fredericton:弗雷德里克頓
 frederik ix:腓特烈九世
 frederik x:腓特烈十世
@@ -4383,6 +4434,7 @@ frederik Şopen İnstitutu:弗雷德里克·肖邦学会
 frederik Şopen İnstitutu:弗雷德里克·蕭邦學會
 frederik's church:腓特烈教堂
 frederiks hospital:弗雷德里克斯醫院
+frederiksberg church:腓特烈斯贝教堂
 frederiksberg gardens:腓特烈斯貝花園
 frederiksberg hospital:腓特烈斯贝医院
 frederiksberg municipality:腓特烈斯贝市镇
@@ -4392,6 +4444,7 @@ frederiksberg:腓特烈斯贝
 frederiksborg castle:腓特烈堡城堡
 frederiksborg county:腓特烈堡郡
 frederiksborg gaztelua:菲特烈堡
+frederiksborg horse:腓特烈堡马
 frederiksborg kastély:菲特烈堡
 frederiksborg palace:菲特烈堡
 frederiksborg slott:菲特烈堡
@@ -4409,6 +4462,7 @@ frederikshavn:腓特烈港
 frederiksstaden:腓特烈斯塔登
 frederikssund municipality:腓特烈松市鎮
 frederikssund railway station:腓特烈松站
+frederikssund station:腓特烈松站
 frederikssund:腓特烈松
 frederikssundbanen:腓特烈松铁路
 fredesdorf:弗雷德斯多夫
@@ -4418,6 +4472,7 @@ fredriksen island:弗雷德里克森島
 fredrikshamn:哈米納
 fredrikshavn:腓特烈港
 fredrikstad cathedral:腓特烈斯塔主教座堂
+fredrikstad cathedral:腓特烈斯塔大教堂
 fredrikstad fk:費德列斯達足球會
 fredrikstad love:腓特烈斯塔愛
 fredrikstad offer:腓特烈斯塔提供
@@ -4554,6 +4609,7 @@ free assessment:自由的评估
 free association of producers:自由人联合体
 free astronaut:释放宇航员
 free at least:释放至少
+free atmosphere:释放大气
 free attitude:自由的态度
 free attract:免费的吸引
 free attract:自由的吸引
@@ -5456,6 +5512,7 @@ free london:自由的伦敦
 free long-term:免费的长期
 free lossless image format:自由无损图像格式
 free love:自由恋爱主义
+free love:自由的愛
 free lunch and snack:免费的午餐和零食
 free lunch theorem:免费的午餐定理
 free lunch:免费的午餐
@@ -7024,6 +7081,7 @@ freedom as:自由当作
 freedom asset management:自由资产管理
 freedom association:自由协会
 freedom auto:自由汽车
+freedom aviation:自由航空
 freedom awards:自由奖
 freedom ballot:自由投票
 freedom bank:自由银行
@@ -7035,9 +7093,11 @@ freedom bell:自由钟
 freedom block:自由块
 freedom blog:自由博客
 freedom blogs:自由博客
+freedom bowl:自由碗
 freedom box:自由盒
 freedom box:自由盒子
 freedom bridge:自由桥
+freedom bridge:自由橋
 freedom budget:自由預算
 freedom budget:自由预算
 freedom business center:自由商业中心
@@ -7067,6 +7127,8 @@ freedom child:自由小孩
 freedom choice of employment:自由选择的就业
 freedom choice:自由选择
 freedom chronicle:自由编年史
+freedom cities:自由城市
+freedom city:自由城市
 freedom class cruise ship:自由级邮轮
 freedom class littoral combat ship:自由级濒海战斗舰
 freedom class:自由类
@@ -7085,7 +7147,9 @@ freedom conference:自由会议
 freedom consortium:自由聯盟
 freedom constitution:自由宪法
 freedom continues:自由继续
+freedom council:自由委员会
 freedom create:自由创造
+freedom dance:自由舞蹈
 freedom day and malta:自由日和马耳他
 freedom day celebration:自由日庆祝
 freedom day events:自由日事件
@@ -7112,6 +7176,7 @@ freedom fight:自由战斗
 freedom fighters:自由鬥士
 freedom film:自由电影
 freedom finance:自由金融
+freedom flight:自由飛行
 freedom fly:自由飞
 freedom food:自由食品
 freedom for the thought that we hate:言论的边界
@@ -7140,6 +7205,7 @@ freedom he:自由他
 freedom hero:自由英雄
 freedom high school:自由高中
 freedom high:自由高
+freedom hill:自由丘
 freedom hospital:自由医院
 freedom hotel:自由酒店
 freedom house and peace house:自由之家和和平之家
@@ -7266,12 +7332,14 @@ freedom missile:自由导弹
 freedom monument:自由紀念碑
 freedom monument:自由纪念碑
 freedom museum:自由博物馆
+freedom nation:自由国家
 freedom navigation:自由导航
 freedom need:自由需要
 freedom needs people:自由需要人民
 freedom needs:自由需要
 freedom network:自由网络
 freedom news:自由新闻
+freedom newspaper:自由報紙
 freedom no longer:自由不再
 freedom not:自由不是
 freedom now appear:自由现在出现
@@ -7397,6 +7465,7 @@ freedom of thought require:思想自由要求
 freedom of thought would:思想自由将
 freedom of thought:思想自由
 freedom of trade:贸易自由
+freedom of:自由的
 freedom on the net:网络自由度报告
 freedom online:自由在线
 freedom only:自由只有
@@ -7421,6 +7490,7 @@ freedom organization:自由组织
 freedom organizations:自由组织
 freedom park and soccer:自由公园和足球
 freedom park:自由公园
+freedom park:自由公園
 freedom partners:自由伙伴
 freedom party and chancellor:自由党和总理
 freedom party begin:自由党开始
@@ -7433,6 +7503,7 @@ freedom party of ontario:安大略省自由党
 freedom party of ontario:安大略自由党
 freedom party of switzerland:瑞士自由党
 freedom party:自由党
+freedom party:自由聚会
 freedom peace:自由和平
 freedom philosopher:自由哲學家
 freedom philosophy:自由哲学
@@ -7470,15 +7541,18 @@ freedom riders:自由乘车者
 freedom rights:自由权利
 freedom ring:自由戒指
 freedom road socialist organization:自由道路社会主义组织
+freedom road:自由路
 freedom road:自由道路
 freedom rule:自由规则
 freedom school:自由学校
 freedom schools:自由学校
 freedom score:自由得分
 freedom server:自由服务器
+freedom ship:自由船
 freedom situation:自由情况
 freedom slogan:自由口号
 freedom socialist party:自由社会党
+freedom socialist:自由社会主义者
 freedom sometimes:自由有时
 freedom song:自由歌
 freedom song:自由歌曲
@@ -7488,7 +7562,11 @@ freedom space:自由空间
 freedom spaniards:自由西班牙人
 freedom square:自由廣場
 freedom start:自由开始
+freedom state:自由国家
+freedom state:自由州
 freedom station:自由站
+freedom statue:自由塑像
+freedom statue:自由雕像
 freedom status:自由地位
 freedom street:自由街
 freedom strengthen:自由加强
@@ -7506,6 +7584,7 @@ freedom territory:自由领土
 freedom that:自由那
 freedom theater:自由剧场
 freedom theatre ask:自由剧院问
+freedom theatre:自由剧场
 freedom theatre:自由剧院
 freedom thing:自由事情
 freedom threats:自由威胁
@@ -7532,6 +7611,8 @@ freedom train:自由火车
 freedom travel:自由旅行
 freedom union:自由联盟
 freedom unite:自由联合
+freedom university:自由大学
+freedom university:自由大學
 freedom until:自由直到
 freedom usually:自由通常
 freedom variant:自由变量
@@ -7543,7 +7624,9 @@ freedom wars:自由戰爭
 freedom was impossible:自由是不可能的
 freedom was necessary:自由是必要的
 freedom was sacrifice:自由是牺牲
+freedom watch:自由表
 freedom water tower:自由塔
+freedom way:自由路
 freedom we:自由我们
 freedom week:自由周
 freedom while:自由当
@@ -7600,6 +7683,7 @@ freemium:免費增值
 freeport home:弗里波特家
 freeport hurricane:弗里波特飓风
 freeport of riga:里加自由港
+freeport township:弗里波特鎮區
 freeport:弗里波特
 freepost:免費郵遞
 freer gallery of art:佛利尔美术馆
@@ -7710,6 +7794,7 @@ freezing iceland:冰冻的冰岛
 freezing north:冰冻的北
 freezing point depression:凝固点降低
 freezing point:凝固点
+freezing points:凝固点
 freezing rain end:冻雨结束
 freezing rain:冻雨
 freezing river:冰冻的河
@@ -7744,6 +7829,7 @@ frei miguelinho:弗雷米格利纽
 frei paulo:弗雷保羅
 freiamt:弗赖阿姆特
 freiberg am neckar:内卡河畔弗赖贝格
+freiberg cathedral:弗赖贝格大教堂
 freiberg germany temple:德国弗莱贝格圣殿
 freiberg university of mining and technology:弗莱贝格工业大学
 freiberg:弗莱贝格
@@ -7751,11 +7837,14 @@ freiberg:弗赖贝格
 freiberga:弗莱贝格
 freiberger mulde:弗賴貝格穆爾德河
 freiburg (badän):弗莱堡
+freiburg cathedral:弗莱堡大教堂
 freiburg hauptbahnhof:弗赖堡火车总站
 freiburg im breisgau:弗莱堡
 freiburg im breisgau:弗赖堡
 freiburg minster:弗赖堡大教堂
 freiburg school:弗赖堡学派
+freiburg university:弗莱堡大学
+freiburg university:弗莱堡大學
 freiburg:弗莱堡
 freiburga:弗莱堡
 freiburger fc:弗赖堡足球俱乐部
@@ -7793,6 +7882,9 @@ freirachdorf:弗赖拉赫多夫
 freirina:弗雷里納
 freisbach:弗赖斯巴赫
 freisen:弗赖森
+freising cathedral:弗赖辛主教座堂
+freising cathedral:弗赖辛大教堂
+freising station:弗赖辛站
 freising:弗赖辛
 freistaat:巴伐利亚
 freistadt district:弗赖施塔特县
@@ -7834,6 +7926,7 @@ fremont car:弗里蒙特汽车
 fremont centre theatre:弗里蒙特中心剧院
 fremont centre:弗里蒙特中心
 fremont chamber of commerce:弗里蒙特商會
+fremont county:弗里蒙特县
 fremont county:弗里蒙特縣
 fremont factory and tesla:弗里蒙特工厂和特斯拉
 fremont factory:弗里蒙特工厂
@@ -7844,10 +7937,14 @@ fremont high school:弗里蒙特高中
 fremont hotel:弗里蒙特酒店
 fremont oktoberfest:弗里蒙特慕尼黑啤酒节
 fremont public library:弗里蒙特公共图书馆
+fremont station:費利蒙站
+fremont station:费利蒙站
+fremont street:佛利蒙街
 fremont street:弗里蒙特街
 fremont street:弗里蒙特街道
 fremont sun:弗里蒙特太阳
 fremont theatre:弗里蒙特剧院
+fremont township:弗里蒙特鎮區
 fremont township:弗里蒙特镇区
 fremont unified school district:費利蒙聯合學區
 fremont union high school district:菲林蒙高中學區
@@ -7955,6 +8052,7 @@ french alliance:法语联盟
 french allow:法国允许
 french alloy:法国合金
 french alphabet:法語字母
+french alphabet:法语字母
 french alps glacier:法國阿爾卑斯山冰川
 french alps:法国的阿尔卑斯山
 french alps:法国阿尔卑斯山
@@ -8441,6 +8539,7 @@ french basque coast:法国巴斯克海岸
 french basque country:北巴斯克地区
 french basque:法国巴斯克
 french basque:法国的巴斯克
+french basques:法国巴斯克人
 french battalion:法国营
 french battery management company:法国电池管理公司
 french battery manufacturer:法国电池制造商
@@ -8558,6 +8657,7 @@ french boyfriend:法国男友
 french boyfriend:法国男朋友
 french braid:法国的辫子
 french braid:法国辫子
+french braille:法语盲文
 french brain and spinal cord:法国大脑和脊髓
 french brain:法国大脑
 french branch:法国分支
@@ -8587,6 +8687,7 @@ french building material:法国建筑材料
 french building materials:法国建筑材料
 french building:法国建筑
 french buildings:法国建筑
+french bulldog:法国斗牛犬
 french bulldog:法國鬥牛犬
 french bullet:法国子弹
 french burgundy:法国勃艮第
@@ -8665,6 +8766,7 @@ french case:法国案例
 french castle:法国城堡
 french cat:法国猫
 french catalan:法语加泰罗尼亚语
+french cathedral:法国主教座堂
 french cathedral:法国大教堂
 french cathedral:法國大教堂
 french cathedrals:法国大教堂
@@ -8827,6 +8929,7 @@ french colleagues die:法国同事死
 french colleagues:法国同事
 french colleagues:法国的同事
 french collectivism:法国集体主义
+french college:法国学院
 french college:法语学院
 french colonel:法国上校
 french colonial empire:法蘭西殖民帝國
@@ -9068,6 +9171,7 @@ french development bank:法国开发银行
 french development financial institution:法国发展金融机构
 french development:法国发展
 french development:法国开发
+french dialect:法国方言
 french dialect:法语方言
 french dialogue:法语对话
 french diamond:法国钻石
@@ -9342,6 +9446,7 @@ french fauvism:法国野兽派
 french fax:法国传真
 french federation sanctions:法国联盟制裁
 french federation:法国联盟
+french federation:法语联盟
 french feel:法国感觉
 french feel:法国的感觉
 french feet:法国脚
@@ -9387,6 +9492,7 @@ french first republic:法兰西第一共和国
 french fishing:法国捕鱼
 french flag:法国旗
 french flag:法国的旗
+french flanders:法国佛兰德
 french flanders:法國法蘭德斯
 french flight:法国飞行
 french floor:法国地板
@@ -9452,6 +9558,7 @@ french fourth:法国第四
 french framework:法国框架
 french franc:法国法郎
 french french:法国法国
+french french:法国法语
 french friend:法国朋友
 french friend:法语朋友
 french friends:法国朋友
@@ -9676,6 +9783,7 @@ french history:法国的历史
 french history:法语历史
 french holding company:法国控股公司
 french holiday village:法国度假村
+french holly:法国冬青
 french home:法国家
 french homestay:法国寄宿家庭
 french honor:法国的荣誉
@@ -9848,6 +9956,7 @@ french judo gold medal:法国柔道金牌
 french judo:法国柔道
 french jungle:法国丛林
 french jurist:法国法学家
+french justice:法国司法
 french keyboard layout:法语键盘布局
 french keyboard:法语键盘
 french kids:法国儿童
@@ -9959,6 +10068,8 @@ french language:法国的语言
 french language:法国语言
 french language:法语
 french language:法语语言
+french languages:法国的语言
+french languages:法国语言
 french languages:法语语言
 french laundry:法国洗衣
 french law and biofuel:法国法律和生物燃料
@@ -9975,6 +10086,7 @@ french layout:法语布局
 french leader:法国领袖
 french league leader:法国联盟领袖
 french league:法国联盟
+french league:法语联盟
 french learn:法国人学习
 french learn:法语学习
 french learning:法语学习
@@ -10033,6 +10145,7 @@ french literature and translation:法国文学与翻译
 french literature art:法国文学艺术
 french literature student:法国文学学生
 french literature:法国文学
+french literature:法国文學
 french literature:法国的文学
 french literature:法语文学
 french little girl:法国小女孩
@@ -10119,6 +10232,7 @@ french mecca:法国人麦加
 french media conglomerate:法国传媒集团
 french media:法国媒体
 french media:法国的媒体
+french media:法语媒体
 french medicine:法国医学
 french medieval village:法国中世纪村庄
 french member of parliament:法国国会议员
@@ -10167,6 +10281,7 @@ french military:法国军事
 french military:法国军队
 french military:法国的军事
 french military:法国的军队
+french military:法国軍隊
 french milk coffee:法国牛奶咖啡
 french milk:法国牛奶
 french million:法国百万
@@ -10315,6 +10430,7 @@ french news magazine:法国新闻杂志
 french news website:法国新闻网站
 french news:法国新闻
 french news:法国的新闻
+french news:法语新闻
 french newspaper mistake:法国报纸错误
 french newspaper:法国报纸
 french newspaper:法国的报纸
@@ -10665,6 +10781,7 @@ french pop singer:法国流行歌手
 french pope:法国教宗
 french pope:法国教皇
 french popular music:法国流行音乐
+french population:法国人口
 french porcelain:法国瓷器
 french pork:法国猪肉
 french port city marseille:法国港口城市马赛
@@ -10690,6 +10807,7 @@ french power:法国电力
 french power:法国的力量
 french practice:法国实践
 french prealps:法國前阿爾卑斯山脈
+french premier:法国首相
 french president george:法国总统乔治
 french president new year:法国总统新年
 french president said:法国总统说
@@ -10698,6 +10816,7 @@ french president:法国总统
 french presidential elections under the fifth republic:法蘭西第五共和國歷屆總統選舉
 french presidential palace:法国总统府
 french presidential:法国总统的
+french press:法国出版社
 french press:法式濾壓壺
 french pretend:法国人假装
 french price:法国价格
@@ -10779,6 +10898,7 @@ french prove:法国证明
 french provence:法国普罗旺斯
 french proverb:法国人谚语
 french proverb:法国谚语
+french province:法国的省
 french province:法国省
 french provisional government:法国临时政府
 french public finance:法国公共财政
@@ -10866,8 +10986,10 @@ french refugee:法国难民
 french regime:法国政权
 french regiment:法国团
 french region:法国地区
+french region:法语地区
 french regions network:法国地区网络
 french regions:法国地区
+french regions:法语地区
 french register:法国注册
 french regular army:法国正规军
 french regulatory framework:法国监管框架
@@ -10924,6 +11046,7 @@ french resources:法国资源
 french responsibility:法国的责任
 french restaurant week:法国餐馆周
 french restaurant:法国餐馆
+french restaurant:法国饭店
 french restaurants:法国餐馆
 french retail banking:法国零售银行
 french retail:法国零售
@@ -10970,6 +11093,7 @@ french riviera:法国的里维埃拉
 french riviera:法国里维埃拉
 french riviera:蔚蓝海岸
 french riviera:蔚藍海岸
+french road:法国路
 french road:法国道路
 french robot:法国机器人
 french rocket:法国火箭
@@ -11090,6 +11214,7 @@ french service:法国服务
 french service:法语服务
 french services:法国服务
 french settlement:法国殖民地
+french settlement:法国的殖民地
 french settler:法国定居者
 french sewing:法国缝纫
 french sex worker:法国性工作者
@@ -11221,6 +11346,7 @@ french state visit:法国国事访问
 french state:法国国家
 french state:法国州
 french state:法国的国家
+french state:法语国家
 french statement:法国声明
 french statesman:法国政治家
 french station:法国站
@@ -11480,6 +11606,7 @@ french transport:法国运输
 french transportation:法国运输
 french travel:法国旅行
 french traveler:法国旅行者
+french treasury:法语宝库
 french trial reveal:法国的审判揭示
 french trial:法国的审判
 french tribunal:法国法庭
@@ -11807,6 +11934,7 @@ frequency adverb:频率副词
 frequency agile solar radiotelescope:频率灵活太阳射电望远镜
 frequency algorithm:频率算法
 frequency alignment:频率对齐
+frequency allotment:频率分配
 frequency analysis and design:频率分析与设计
 frequency analysis and order:频率分析和订单
 frequency analysis function:频率分析功能
@@ -11957,6 +12085,7 @@ frequency divider:分频器
 frequency division multiple access:频分多址
 frequency division multiplexing:频分多路复用
 frequency domain:頻域
+frequency domain:频率域
 frequency earthquakes:频率地震
 frequency effect:频率作用
 frequency efficiency:频率效率
@@ -11965,6 +12094,7 @@ frequency energy:频率能量
 frequency environment:频率环境
 frequency expression:频率表达
 frequency extend:频率扩展
+frequency factor:频率因子
 frequency fee:频率费用
 frequency field:频率字段
 frequency fine-tuning:频率微调
@@ -13793,6 +13923,7 @@ friedman recommend:弗里德曼推荐
 friedman relationship:弗里德曼关系
 friedman reserve:弗里德曼保留
 friedman respect:弗里德曼尊重
+friedman rule:弗里德曼规则
 friedman said:弗里德曼说
 friedman says:弗里德曼说
 friedman school:弗里德曼学校
@@ -13815,6 +13946,7 @@ friedolsheim:弗里多尔赛姆
 friedreich's ataxia:弗里德希氏共济失调
 friedrich and elisabeth:弗里德里希和伊丽莎白
 friedrich and others:弗里德里希和其他人
+friedrich ataxia:弗里德里希共济失调
 friedrich began:弗里德里希开始
 friedrich carl:弗里德里希卡尔
 friedrich ebert:弗里德里希埃伯特
@@ -13837,6 +13969,7 @@ friedrichsfelde:腓特烈斯费尔德
 friedrichsgabekoog:腓特烈斯加伯科格
 friedrichsgraben:腓特烈斯格拉本
 friedrichshafen airport:腓特烈港机场
+friedrichshafen airport:腓特烈港機場
 friedrichshafen:腓特烈港
 friedrichshagen:腓特烈斯哈根
 friedrichshain:腓特烈斯海恩
@@ -14423,6 +14556,7 @@ friend over there:朋友在那邊
 friend own:朋友拥有
 friend pair:朋友对
 friend paradox:朋友悖论
+friend park:朋友公園
 friend parker:朋友帕克
 friend part:朋友部分
 friend participate:朋友参加
@@ -15628,6 +15762,7 @@ friends try:朋友尝试
 friends trying:朋友试图
 friends understand:朋友理解
 friends university:朋友大学
+friends university:朋友大學
 friends until they:朋友直到他们
 friends until:朋友直到
 friends use:朋友使用
@@ -15765,6 +15900,7 @@ friendship chocolate:友情巧克力
 friendship commercial building:友誼商業大廈
 friendship could:友情能
 friendship court:友誼大廈
+friendship cup:友情杯
 friendship day:友情日
 friendship day:國際友誼日
 friendship exchange:友情交换
@@ -15826,6 +15962,7 @@ friendship system:友情系统
 friendship tavern:朋友情酒館
 friendship tavern:朋友情酒馆
 friendship township:弗伦德希普镇区
+friendship way:友情路
 friendship website:友情网站
 friendship will continue:友情会继续
 friendship will:友情会
@@ -16013,6 +16150,7 @@ fritzl case:奧地利禁室亂倫案
 fritzlar:弗里茨拉尔
 fritzschia:耳霞丹属
 friuli region:弗留利地区
+friuli stadium:弗留利体育场
 friuli:弗留利
 friulian dolomites:弗留利多洛米蒂山脉
 friulian language:弗留利语
@@ -16096,6 +16234,7 @@ frog leg:青蛙腿
 frog legion describe:青蛙军团描述
 frog legion:青蛙军团
 frog legs:田鸡腿
+frog legs:青蛙腿
 frog mask:青蛙面具
 frog meat:青蛙肉
 frog missile launch:青蛙导弹发射
@@ -23379,6 +23518,7 @@ from friendship:从友情
 from frog embryo:从青蛙胚胎
 from frog skin:从青蛙皮肤
 from frog:从青蛙
+from from:从从
 from frontier:从边境
 from frozen:从冰冻的
 from fructose or glucose:从果糖或葡萄糖
@@ -36801,7 +36941,9 @@ from zurich:从苏黎世
 from:从
 fromager:弗罗马格尔区
 fromberghorn:弗龍貝格山
+frombork cathedral:弗龙堡主教座堂
 frombork:弗龙堡
+frome river:弗罗姆河
 frome:弗罗姆
 fromelennes:弗罗姆莱讷
 fromelles:弗罗梅勒
@@ -37177,6 +37319,7 @@ frontier city:邊境城市
 frontier closed area:邊境禁區
 frontier closed area:香港邊境禁區
 frontier colonialism:边境殖民主义
+frontier conflict:边境冲突
 frontier constantinople:邊境君士坦丁堡
 frontier corps:边境兵团
 frontier countries:边境国家
@@ -37222,6 +37365,8 @@ frontier people:边境人民
 frontier pirate:边境海盗
 frontier plant habitat:边境植物栖息地
 frontier plant:边境植物
+frontier police:边境警察
+frontier police:邊境警察
 frontier policy:边境政策
 frontier primary school:先锋小学
 frontier prison museum:边境监狱博物馆
@@ -37260,6 +37405,7 @@ frontier wildlife:边境野生动物
 frontier worker:边境工人
 frontier workers:边境工人
 frontier world:边境世界
+frontier zone:边境地带
 frontier:边境
 frontier:邊境
 frontierland:邊域世界
@@ -37288,6 +37434,7 @@ frontpage africa:非洲頭版
 fronville:弗龙维尔
 froot loops:谷物圈早餐麦片
 frosinone calcio:弗羅西諾內足球俱樂部
+frosinone province:弗罗西诺内省
 frosinone:弗罗西诺内
 froslass:雪妖女
 frosolone:弗罗索洛内
@@ -37314,6 +37461,7 @@ frost heaving:凍脹
 frost king:霜王
 frost layer:霜层
 frost line:凍線
+frost line:霜线
 frost look:霜看
 frost mode:霜模式
 frost module:霜模块
@@ -37570,6 +37718,7 @@ fruit actually:水果实际上
 fruit adventure:水果冒险
 fruit all the year round:水果一年四季
 fruit all:水果所有的
+fruit allergy:水果过敏
 fruit always:水果总是
 fruit am:水果是
 fruit and a bottle:水果和一瓶
@@ -37700,6 +37849,7 @@ fruit boy:水果男孩
 fruit brand:水果品牌
 fruit brandy:水果白兰地
 fruit bread:水果面包
+fruit bread:水果麵包
 fruit breakfast:水果早餐
 fruit budget:水果预算
 fruit buffet:水果自助餐

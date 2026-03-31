@@ -57,7 +57,10 @@ ouaddaï chiu:瓦達伊區
 ouaddaï piirkond:瓦達伊區
 ouaddaï:瓦達伊區
 ouadhia district:瓦齊耶區
+ouagadougou airport:烏格都古機場
 ouagadougou airport:瓦加杜古机场
+ouagadougou airport:瓦加杜古機場
+ouagadougou cathedral:瓦加杜古大教堂
 ouagadougou conference center:瓦加杜古会议中心
 ouagadougou conference:瓦加杜古会议
 ouagadougou town:瓦加杜古城镇
@@ -65,6 +68,7 @@ ouagadougou:烏格都古
 ouagadougou:瓦加杜古
 ouaguenoun:瓦蓋努恩
 ouaguenoune district:瓦蓋努恩區
+ouahigouya airport:瓦希古亞機場
 ouahigouya:瓦希古亞
 ouainville:万维尔
 ouaka bölgesi:瓦卡省
@@ -120,6 +124,7 @@ ouche:乌什河
 ouchgouli:乌树故里
 ouchi river:ŏuchí hé
 ouchi river:藕池河
+ouchi station:藕池站
 ouchi totoro painted village:大內龍貓彩繪村
 ouchi village committee:藕池村委会
 ouchi:大内
@@ -211,6 +216,7 @@ oudomxay:乌多姆塞省
 oudomxay:烏多姆塞省
 oudon:乌东
 oudong district:乌栋县
+oudong mountain:乌栋山
 oudong:乌栋
 oudong:欧洞
 oudong:欧洞乡
@@ -247,6 +253,8 @@ ouelen:乌厄连
 ouellette island:奧利特島
 ouenza district:溫扎區
 ouenza:溫扎
+ouest department:西系
+ouest side:西边
 ouest:西
 ouest:西部区
 ouezzane province:沃贊省
@@ -409,6 +417,7 @@ oulong:欧龙村
 oulophyllia crispa:卷曲耳紋珊瑚
 ouloucun:欧楼村
 oulu airport:奥卢机场
+oulu airport:奧盧機場
 oulu area:奥卢地区
 oulu business school studies markets:奥卢商学院研究市场
 oulu business school:奥卢商学院
@@ -427,13 +436,19 @@ oulu jõgi:奧盧河
 oulu linn:奧盧
 oulu market hall:奥卢集市大厅
 oulu museum of art:奥卢艺术博物馆
+oulu province:奥卢省
 oulu province:奧盧省
 oulu railway station:奥卢火车站
 oulu region:奥卢地区
+oulu river:奥卢河
+oulu river:奧盧河
 oulu should be:奥卢应该是
 oulu sub region:奧盧次區
 oulu team:奥卢团队
 oulu university of applied sciences:奥卢应用科学大学
+oulu university:奥卢大学
+oulu university:奥卢大學
+oulu university:奧盧大學
 oulu welfare:奥卢福利
 oulu:奥卢
 oulu:奧盧
@@ -462,6 +477,7 @@ oum toub:烏姆圖卜
 oum-el-bouaghiko probintzia:乌姆布瓦吉省
 oumagadoki zoo:逢魔時刻動物園
 ouman:烏曼
+oumba river:温巴河
 oumba:温巴
 oumi chō:青海町
 oumiao:欧庙镇
@@ -8501,6 +8517,7 @@ our move:我们的移动
 our movement:我们的移动
 our movie analogy:我們的電影類比
 our movie ticket:我們的電影票
+our movie:我们的电影
 our movie:我們的電影
 our mud:我们的泥
 our mug:我们的杯子
@@ -8565,6 +8582,7 @@ our napkin:我们的餐巾
 our naples:我们的那不勒斯
 our narrow:我们的狭窄的
 our natalie:我们的娜塔莉
+our nation:我们的国家
 our national anthem:我们的国歌
 our national emblem:我们的国徽
 our national flag:我们的国旗
@@ -11169,6 +11187,7 @@ our script correctly:我们的脚本正确地
 our script:我们的脚本
 our sculptor:我们的雕塑家
 our sculpture:我们的雕塑
+our sea:我们的海
 our search algorithm:我们的搜索算法
 our search and recommend:我们的搜索和推荐
 our search and search:我们的搜索和搜索
@@ -12046,6 +12065,7 @@ our state government:我们的州政府
 our state partner:我们的州合作伙伴
 our state tree:我们的州树
 our state-owned enterprise:我们的国有企业
+our state:我们的国家
 our state:我们的州
 our state:我们的状态
 our statement recommend:我们的声明建议
@@ -12936,6 +12956,7 @@ our text search:我们的文本搜索
 our text-mining:我们的文本挖掘
 our text-to-speech:我们的文本转语音
 our text:我们的文本
+our textbook:我们的教科书
 our textbook:我們的教科書
 our textile:我们的纺织品
 our textron:我们的德事隆
@@ -14155,6 +14176,7 @@ ourea:烏雷亞
 ouren:烏連
 ourense cathedral:歐倫塞主教座堂
 ourense empalme railway station:奥伦塞站
+ourense province:奥伦塞省
 ourense train station:奥伦塞火车站
 ourense:奥伦塞
 ourhours:全时
@@ -14397,6 +14419,7 @@ out of zone plays made:區外接殺
 out our:外我们的
 out patient department:門診部
 out patient department:门诊部
+out pattern:外模式
 out performance:外性能
 out play:外玩
 out position:外位置
@@ -14428,6 +14451,7 @@ out us:外我们
 out wait:外等
 out walking:外步行
 out watch:外观看
+out week:外周
 out what:外什么
 out who:外谁
 out work:外工作
@@ -15299,6 +15323,7 @@ output detect:输出检测
 output device support:输出设备支持
 output device will:输出设备会
 output device:输出设备
+output devices:输出设备
 output different:输出不同的
 output digital signal:输出数字信号
 output dimension:输出维度
@@ -15968,7 +15993,9 @@ ouya supermarket:欧亚超市
 ouyan:藕堰
 ouyang fei fei:歐陽菲菲
 ouyang feng:歐陽鋒
+ouyang jianghe:欧阳江河
 ouyang kunpeng:欧阳鲲鹏
+ouyang lijian:欧阳利见
 ouyang lijian:歐陽利見
 ouyang nana:歐陽娜娜
 ouyang pingkai:欧阳平凯

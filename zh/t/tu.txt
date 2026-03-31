@@ -486,6 +486,7 @@ tuas crescent:大士弯
 tuas lihat:大士南
 tuas link mrt station:大士連路地鐵站
 tuas link:大士连路
+tuas port:大士港口
 tuas west coast road:大士西海岸路
 tuas west road mrt station:大士西路地鐵站
 tuas west road:大士西路
@@ -795,6 +796,7 @@ tucheng station exit 1:捷運土城站1號出口
 tucheng station exit 2:捷運土城站2號出口
 tucheng station exit 3:捷運土城站3號出口
 tucheng station:土城站
+tucheng station:塗城站
 tucheng substation:土城變電所
 tucheng village:土城里
 tucheng village:塗城里
@@ -848,6 +850,7 @@ tuchkovo:图奇科沃
 tucho:大奴湖
 tuchola county:圖霍拉縣
 tuchola forest national park:圖霍拉森林國家公園
+tuchola forest:圖霍拉森林
 tuchola:圖霍拉
 tuci:塗茨鎮
 tuci:涂茨镇
@@ -1525,6 +1528,7 @@ tugu peringatan cho huan lai:卓领事暨同难四人纪念碑
 tugu peringatan pembunuhan beramai-ramai sandakan:壹九四五年五月廿七殉难华侨纪念碑
 tugu peringatan pembunuhan beramai-ramai sandakan:壹九四五年五月廿七殉難華僑紀念碑
 tugu peringatan pentagon:五角大楼纪念馆
+tugu station:多哥站
 tugu:duōgē
 tugu:土古
 tugu:土故
@@ -1797,6 +1801,7 @@ tukchang:得将劳动者区
 tukchang:得將勞動者區
 tukchang:得將地區
 tukchenzam:观音桥镇
+tuke river:图克河
 tuke:图克
 tukemenikana:tǔkùmànsītǎn
 tukemenikana:土库曼斯坦
@@ -1908,14 +1913,18 @@ tukwila international boulevard station:塔克维拉国际大道站
 tukwila:塔克維拉
 tukãtĩ:托坎廷斯州
 tula arms plant:圖拉兵工廠
+tula arsenal:圖拉兵工廠
 tula factory:圖拉工廠
+tula gingerbread:圖拉薑餅
 tula governorate:圖拉省
 tula kremlin:圖拉克里姆林
 tula mountains:圖拉山脈
 tula nehri:图拉河
 tula oblast:图拉州
 tula oblast:圖拉州
+tula province:圖拉省
 tula pryanik:圖拉薑餅
+tula river:圖拉河
 tula toli massacre:图拉托里大屠杀
 tula:圖拉
 tula:蒂勒
@@ -2018,6 +2027,7 @@ tulip might be:郁金香可能成为
 tulip murder:郁金香谋杀
 tulip museum:郁金香博物馆
 tulip nebula:郁金香星云
+tulip period:郁金香时期
 tulip period:鬱金香時期
 tulip petal:郁金香花瓣
 tulip plants:郁金香植物
@@ -2069,6 +2079,7 @@ tulku urgyen rinpoche:祖古烏金仁波切
 tulku:祖古
 tull:海关
 tullamore:塔拉莫尔
+tulle cathedral:蒂勒主教座堂
 tulle massacre:蒂勒大屠杀
 tulle park:蒂勒公园
 tulle station:蒂勒站
@@ -2264,6 +2275,7 @@ tulūza:圖盧茲
 tulūza:圖魯茲
 tum collegiate church:聖瑪麗和聖亞歷克烏斯學院教堂
 tuma river:圖馬河
+tuma river:土马河
 tuma tiao:都馬調
 tuma tumani:托馬托馬尼山
 tuma:图马
@@ -2279,6 +2291,7 @@ tuman river:圖們江
 tuman road:吐曼路
 tuman:吐曼河
 tumangang station:豆满江站
+tumangang station:豆滿江站
 tumangang-dong:dòumǎnjiāng dòng
 tumangang-dong:豆满江洞
 tumangang-dong:豆滿江洞
@@ -2372,6 +2385,8 @@ tumen river:túménjiāng
 tumen river:图们江
 tumen river:图门江
 tumen river:圖們江
+tumen river:土门河
+tumen stadium:图们市体育场
 tumen sureg hôt:图门苏日格浩特
 tumen town:土门镇
 tumen village committee:土门村村委会
@@ -2754,6 +2769,7 @@ tumor trend:肿瘤趋势
 tumor type:肿瘤类型
 tumor usually:肿瘤通常
 tumor vaccine:肿瘤疫苗
+tumor virus:肿瘤病毒
 tumor viruses:肿瘤病毒
 tumor volume:肿瘤体积
 tumor was cancer:肿瘤是癌
@@ -2796,6 +2812,7 @@ tumuji:图牧吉镇
 tumuk humak mountains:图穆库马克山脉
 tumuke:吐木柯
 tumulu:土木路
+tumulus culture:坟冢文化
 tumulus:坟冢
 tumulus:庫爾干
 tumuqi:土木其
@@ -2898,6 +2915,7 @@ tuna bun:吞拿魚包
 tuna companies:鮪魚公司
 tuna day:鮪魚日
 tuna do:鮪魚做
+tuna province:多瑙河省
 tuna salad:鮪魚沙拉
 tuna sandwich:鮪魚三明治
 tuna too:鮪魚也
@@ -2935,6 +2953,7 @@ tunceli eanangoddi:通杰利省
 tunceli merkez:通傑利
 tunceli praant:通杰利省
 tunceli probintzia:通杰利省
+tunceli province:通傑利省
 tunceli province:通杰利省
 tunceli provints:通杰利省
 tunceli:通傑利
@@ -2944,6 +2963,7 @@ tunchang county:túnchāng xiàn
 tunchang county:屯昌
 tunchang county:屯昌县
 tunchang county:屯昌縣
+tunchang county:屯长县
 tunchang xian:túnchāng xiàn
 tunchang xian:屯昌
 tunchang xian:屯昌县
@@ -4002,9 +4022,12 @@ tunis elchixonasi:突尼斯大使馆
 tunis gare centrale:突尼斯站
 tunis governorate:突尼斯省
 tunis govrenorate:突尼斯省
+tunis lake:突尼斯湖
+tunis lake:突尼西亞湖
 tunis light metro:突尼斯輕軌
 tunis səfirliyi:突尼斯大使馆
 tunis university:突尼斯大学
+tunis university:突尼斯大學
 tunis:tūníxīyà
 tunis:突尼斯
 tunis:突尼斯 / 突尼西亞
@@ -4175,6 +4198,7 @@ tunisia men's national volleyball team:突尼西亞國家男子排球隊
 tunisia museum:突尼斯博物馆
 tunisia national football team:突尼西亞國家足球隊
 tunisia national team:突尼斯国家队
+tunisia navy:突尼斯海军
 tunisia need:突尼斯需要
 tunisia needs:突尼斯需要
 tunisia nutome:tūníxīyà
@@ -4191,6 +4215,8 @@ tunisia participate:突尼斯参加
 tunisia prime minister habib:突尼斯总理哈比卜
 tunisia prime minister:突尼斯总理
 tunisia protest:突尼斯抗议
+tunisia province:突尼斯省
+tunisia province:突尼西亞省
 tunisia recently:突尼斯最近
 tunisia request:突尼斯请求
 tunisia revolution:突尼斯革命
@@ -4349,6 +4375,7 @@ tunizïi:tūníxīyà
 tunizïi:突尼斯
 tunizïi:突尼斯 / 突尼西亞
 tunizïi:突尼西亞
+tunja province:通哈省
 tunja:通哈
 tunjeli:通杰利省
 tunjia:吞甲
@@ -4411,6 +4438,7 @@ tunlicun:屯里村
 tunliu county:túnliú xiàn
 tunliu county:屯留区
 tunliu county:屯留區
+tunliu county:屯留县
 tunliu district:屯留区
 tunliu reservoir:túnliù shuǐkù
 tunliu reservoir:屯六水库
@@ -4494,6 +4522,7 @@ tunnel diagnosis:隧道诊断
 tunnel digging company:隧道挖掘公司
 tunnel digging technology:隧道挖掘技术
 tunnel digging:隧道挖掘
+tunnel diode:隧道二极管
 tunnel diode:隧道二極體
 tunnel direction:隧道方向
 tunnel door:隧道门
@@ -4593,6 +4622,7 @@ tunnel option:隧道选项
 tunnel piston:隧道活塞
 tunnel plan:隧道计划
 tunnel plans:隧道计划
+tunnel portal:隧道入口
 tunnel portal:隧道门户
 tunnel portion:隧道部分
 tunnel problem:隧道问题
@@ -4600,6 +4630,7 @@ tunnel project:隧道项目
 tunnel protection:隧道保护
 tunnel protocol:隧道协议
 tunnel quantum:隧道量子
+tunnel railway:隧道铁路
 tunnel record:隧道记录
 tunnel release:隧道释放
 tunnel repair:隧道维修
@@ -5271,6 +5302,7 @@ tuqiao reservoir:tǔqiáo shuǐkù
 tuqiao reservoir:土桥水库
 tuqiao road:土桥路
 tuqiao road:土橋路
+tuqiao station:土桥站
 tuqiao:tǔqiáo zhèn
 tuqiao:土桥
 tuqiao:土桥乡
@@ -5313,6 +5345,7 @@ tur ya kar elmentary & junior high school:桃子腳國中小
 tur:吐尔村
 tura ponto:伦敦塔桥
 tura ponto:倫敦塔橋
+tura river:图拉河
 tura:图拉
 turaani madalik:图兰低地
 turaco:蕉鵑
@@ -5321,9 +5354,11 @@ turaif:图赖夫
 turaif:圖賴夫
 turan and barcelona:图兰和巴塞罗那
 turan depression:图兰低地
+turan lowland:图兰低地
 turan news agency:图兰通讯社
 turan ovalığı:图兰低地
 turan plain:图兰平原
+turan university:图兰大学
 turan's minnow:圖氏擬鱥
 turan:图兰
 turana:图兰
@@ -5583,6 +5618,7 @@ turi language:图里语
 turi remety:图尔伊雷梅特
 turi rog:图里罗格
 turia garden:图里亚花园
+turia river:圖里亞河
 turia:圖里亞
 turiasauria:圖里亞龍類
 turiasaurus:圖里亞龍屬
@@ -5614,6 +5650,8 @@ turim:杜林
 turim:都灵
 turin academy:都灵学院
 turin airport:杜林機場
+turin airport:都灵机场
+turin airport:都灵機場
 turin and bari:都灵和巴里
 turin and berlin:都灵和柏林
 turin and bologna:都灵和博洛尼亚
@@ -5629,6 +5667,7 @@ turin apartment:都灵公寓
 turin area:都灵地区
 turin auto:都灵汽车
 turin campus:都灵校园
+turin cathedral:杜林主教座堂
 turin cathedral:都灵主教座堂
 turin city council:都灵市议会
 turin civic gallery of modern and contemporary art:都灵市立现当代艺术画廊
@@ -5636,6 +5675,7 @@ turin club has:都灵俱乐部有
 turin club:都灵俱乐部
 turin corporation:都灵公司
 turin court:都灵法院
+turin derby:都灵德比
 turin design centre:都灵设计中心
 turin design:都灵设计
 turin egyptian museum environment:都灵埃及博物馆环境
@@ -5649,11 +5689,16 @@ turin international:都灵国际
 turin is a legendary:都灵是一个传奇的
 turin is my home:都灵是我的家
 turin king list:都灵王表
+turin marathon:都灵马拉松
 turin metro:都灵地铁
 turin musician:都灵音乐家
+turin observatory:杜林天文台
+turin observatory:都灵天文台
 turin olympics:都灵奥运会
 turin or lisbon:都灵或里斯本
 turin production:都灵生产
+turin province:杜林省
+turin province:都灵省
 turin publisher:都灵出版商
 turin right:都灵右
 turin royal:都灵皇家
@@ -5663,6 +5708,9 @@ turin testing center:都灵测试中心
 turin testing:都灵测试
 turin training center:都灵培训中心
 turin training:都灵培训
+turin university:杜林大學
+turin university:都灵大学
+turin university:都灵大學
 turin winter olympics:都灵冬季奥运会
 turin:杜林
 turin:都灵
@@ -5680,6 +5728,7 @@ turing architecture:图灵架构
 turing ask:图灵问
 turing award lecture:图灵奖讲座
 turing award:图灵奖
+turing awards:图灵奖
 turing became:图灵成为
 turing began:图灵开始
 turing believe:图灵相信
@@ -5692,12 +5741,15 @@ turing complete language:图灵完备语言
 turing complete scripting language:图灵完备脚本语言
 turing complete smart contract:图灵完备智能合约
 turing complete:图灵完备
+turing completeness:图灵完备性
 turing completeness:圖靈完備性
 turing computability:图灵可计算性
 turing computer:图灵计算机
 turing create:图灵创造
 turing degree:不可解度
+turing degree:图灵度
 turing describe:图灵描述
+turing equivalence:图灵等价
 turing even create:图灵甚至创造
 turing even:图灵甚至
 turing found:图灵找到
@@ -5724,6 +5776,7 @@ turing pattern:图灵模式
 turing phone:图灵手机
 turing predict:图灵预测
 turing principle:图灵原则
+turing prize:图灵奖
 turing product:图灵产品
 turing programming language:图灵编程语言
 turing proposed:图灵提出
@@ -5812,12 +5865,15 @@ turkestan committee:突厥斯坦委员会
 turkestan ground jay:里海地鸦
 turkestan infantry:突厥斯坦步兵
 turkestan la:图尔吉斯坦拉山口
+turkestan legion:突厥斯坦军团
 turkestan legion:突厥斯坦軍團
 turkestan liberation organization:突厥斯坦解放组织
 turkestan military district:突厥斯坦军区
 turkestan range:土耳其斯坦山脈
 turkestan rat:拟家鼠
 turkestan red pika:红鼠兔
+turkestan region:突厥斯坦军区
+turkestan republic:突厥斯坦共和国
 turkestan sculpin:多刺杜父魚
 turkestan short toed lark:中亚短趾百灵
 turkestan:突厥斯坦
@@ -6212,6 +6268,7 @@ turkey and yemen:土耳其和也门
 turkey and yugoslavia:土耳其和南斯拉夫
 turkey and zambia:土耳其和赞比亚
 turkey and zimbabwe:土耳其和津巴布韦
+turkey ankara:土耳其安卡拉
 turkey apartment:土耳其公寓
 turkey are world:土耳其是世界
 turkey army fifth:土耳其军队第五
@@ -6294,6 +6351,7 @@ turkey currency crisis:土耳其货币危机
 turkey currency:土耳其货币
 turkey currently:土耳其目前
 turkey customs union:土耳其關稅同盟
+turkey dance:土耳其舞蹈
 turkey day:土耳其日
 turkey death:土耳其死亡
 turkey decided:土耳其决定
@@ -6318,6 +6376,7 @@ turkey earthquakes:土耳其地震
 turkey effectively:土耳其有效地
 turkey emails:土耳其电子邮件
 turkey embassy:土耳其大使馆
+turkey empire:土耳其帝国
 turkey encourage:土耳其鼓励
 turkey end hamas:土耳其结束哈马斯
 turkey end:土耳其结束
@@ -6473,6 +6532,7 @@ turkey or ukraine:土耳其或乌克兰
 turkey or venezuela:土耳其或委内瑞拉
 turkey or:土耳其或
 turkey parliament:土耳其议会
+turkey party:土耳其党
 turkey patriot missile:土耳其爱国者导弹
 turkey patriot:土耳其爱国者
 turkey perfect:土耳其完美
@@ -6526,6 +6586,8 @@ turkey respect:土耳其尊重
 turkey return:土耳其返回
 turkey reveal:土耳其揭示
 turkey rice:阿溪火雞肉飯
+turkey river:土耳其河
+turkey river:土耳其河流
 turkey said:土耳其说
 turkey sanctions:土耳其制裁
 turkey sandwich:土耳其三明治
@@ -6539,6 +6601,7 @@ turkey show:土耳其显示
 turkey so:土耳其如此
 turkey social media:土耳其社交媒体
 turkey soup:土耳其汤
+turkey southeast:土耳其东南部
 turkey standard time:土耳其標準時間
 turkey start:土耳其开始
 turkey state:土耳其国家
@@ -6552,6 +6615,7 @@ turkey storm:土耳其风暴
 turkey strategic investment:土耳其战略投资
 turkey strategic:土耳其战略
 turkey street railway station:土耳其街站
+turkey street:土耳其街
 turkey strengthen:土耳其加强
 turkey studies:土耳其研究
 turkey suddenly:土耳其突然
@@ -6577,6 +6641,7 @@ turkey through:土耳其通过
 turkey thus be:土耳其因此成为
 turkey thus became:土耳其因此成为
 turkey thus:土耳其因此
+turkey time:土耳其时间
 turkey times:土耳其时报
 turkey to china:土耳其到中国
 turkey to china:土耳其到中國
@@ -6608,6 +6673,7 @@ turkey university:土耳其大学
 turkey until:土耳其直到
 turkey uses:土耳其使用
 turkey using:土耳其使用
+turkey valley:土耳其山谷
 turkey very popular:土耳其非常流行的
 turkey violate:土耳其违反
 turkey visit:土耳其拜访
@@ -6658,6 +6724,8 @@ turkeya:tǔěrqí
 turkeya:土耳其
 turkeye:tǔěrqí
 turkeye:土耳其
+turki language:土耳其語言
+turki language:土耳其语言
 turki:tǔěrqí
 turki:土耳其
 turkia:tǔěrqí
@@ -6766,6 +6834,7 @@ turkish alphabet:土耳其语正字法
 turkish ambassador return:土耳其大使返回
 turkish ambassador:土耳其大使
 turkish ambassador:土耳其的大使
+turkish anatolia:土耳其安納托利亞
 turkish and american officials:土耳其和美国官员
 turkish and arabic languages:土耳其语和阿拉伯语语言
 turkish and arabic:土耳其语和阿拉伯语
@@ -6829,6 +6898,7 @@ turkish and us troops:土耳其和美国军队
 turkish and us:土耳其和美国
 turkish and vietnamese:土耳其语和越南语
 turkish and world:土耳其和世界
+turkish angora:土耳其安卡拉
 turkish angora:土耳其安哥拉貓
 turkish apartment:土耳其公寓
 turkish aphrodisiac:土耳其春药
@@ -6890,6 +6960,7 @@ turkish base:土耳其的基地
 turkish basketball:土耳其篮球
 turkish bath:土耳其浴
 turkish bath:土耳其澡堂
+turkish bathhouse:土耳其澡堂
 turkish bathing culture:土耳其的沐浴文化
 turkish bathing:土耳其的沐浴
 turkish bathroom:土耳其的浴室
@@ -6920,6 +6991,7 @@ turkish border:土耳其边界
 turkish bow:土耳其弓
 turkish boy:土耳其男孩
 turkish braille:土耳其語盲文
+turkish braille:土耳其语盲文
 turkish brand:土耳其的品牌
 turkish brands:土耳其品牌
 turkish bread:土耳其麵包
@@ -6931,6 +7003,7 @@ turkish broadcast:土耳其广播
 turkish broadcasting:土耳其广播
 turkish brother:土耳其兄弟
 turkish building:土耳其建筑
+turkish bulgarian:土耳其的保加利亚人
 turkish business school:土耳其的商学院
 turkish business:土耳其商业
 turkish businessperson:土耳其商人
@@ -6939,6 +7012,7 @@ turkish buy:土耳其買
 turkish cabinet:土耳其内阁
 turkish campaign:土耳其战役
 turkish candidates:土耳其候选人
+turkish cap:土耳其帽
 turkish capital ankara:土耳其首都安卡拉
 turkish capital istanbul:土耳其首都伊斯坦布尔
 turkish capital market:土耳其资本市场
@@ -7134,6 +7208,8 @@ turkish documents:土耳其文件
 turkish documents:土耳其的文件
 turkish dog:土耳其狗
 turkish domestic cat:土耳其家猫
+turkish drama:土耳其戏剧
+turkish drama:土耳其戲劇
 turkish draughts:土耳其跳棋
 turkish dream:土耳其梦
 turkish drink:土耳其饮料
@@ -7186,6 +7262,7 @@ turkish enterprises:土耳其企业
 turkish entity:土耳其實體
 turkish entrepreneur:土耳其企业家
 turkish envoy:土耳其特使
+turkish ethnicity:土耳其的族群
 turkish eu:土耳其欧盟
 turkish european:土耳其的欧洲
 turkish evidence:土耳其的证据
@@ -7317,6 +7394,7 @@ turkish gun:土耳其枪
 turkish gun:土耳其枪械
 turkish hacker:土耳其黑客
 turkish half:土耳其半
+turkish hamster:土耳其仓鼠
 turkish hand:土耳其手
 turkish handicraft:土耳其的手工艺
 turkish hazelnut:土耳其榛子
@@ -7429,6 +7507,8 @@ turkish language wikipedia:土耳其语维基百科
 turkish language:土耳其的语言
 turkish language:土耳其語言
 turkish language:土耳其语
+turkish language:土耳其语言
+turkish languages:土耳其语言
 turkish largest lake:土耳其最大的湖泊
 turkish largest:土耳其最大的
 turkish law allow:土耳其法律允许
@@ -7549,6 +7629,7 @@ turkish music:土耳其音乐
 turkish musical:土耳其音乐的
 turkish muslim:土耳其穆斯林
 turkish muslims:土耳其穆斯林
+turkish mythology:土耳其神话
 turkish name:土耳其人名
 turkish name:土耳其名字
 turkish name:土耳其的名字
@@ -7645,6 +7726,7 @@ turkish people hope:土耳其人希望
 turkish people own:土耳其人拥有
 turkish people use:土耳其人使用
 turkish people:土耳其人
+turkish people:土耳其人民
 turkish people:土耳其民
 turkish people:土耳其百姓
 turkish people:土耳其的人民
@@ -7682,6 +7764,7 @@ turkish politics:土耳其政治
 turkish politics:土耳其的政治
 turkish pop singer:土耳其流行歌手
 turkish pope:土耳其教宗
+turkish population:土耳其人口
 turkish population:土耳其的人口
 turkish porcelain:土耳其瓷器
 turkish port city:土耳其港口城市
@@ -7814,6 +7897,7 @@ turkish smartphone users own:土耳其智能手机用户拥有
 turkish smartphone:土耳其智能手机
 turkish sniper:土耳其狙击手
 turkish soap opera:土耳其的肥皂剧
+turkish soccer:土耳其足球
 turkish social platform:土耳其社交平台
 turkish social security:土耳其社会保障
 turkish social:土耳其社交
@@ -7878,6 +7962,8 @@ turkish study:土耳其研究
 turkish style belly dance:土耳其风格肚皮舞
 turkish style:土耳其风格
 turkish subsidiary:土耳其子公司
+turkish sudan:土耳其苏丹
+turkish sudan:土耳其蘇丹
 turkish super cup:土耳其超級盃
 turkish supply chain:土耳其供应链
 turkish support:土耳其的支持
@@ -7960,6 +8046,7 @@ turkish truck driver:土耳其卡車司機
 turkish truck:土耳其卡车
 turkish truck:土耳其货车
 turkish tv:土耳其电视
+turkish ultranationalism:土耳其极端民族主义
 turkish underground cities:土耳其地下城市
 turkish underground:土耳其地下
 turkish uniform:土耳其制服
@@ -8014,6 +8101,7 @@ turkish wedding:土耳其婚礼
 turkish wheat:土耳其小麦
 turkish wikipedia:土耳其维基百科
 turkish wikipedia:土耳其語維基百科
+turkish wikipedia:土耳其语维基百科
 turkish wind:土耳其风
 turkish wine:土耳其葡萄酒
 turkish wine:土耳其酒
@@ -8045,6 +8133,7 @@ turkish:土耳其的
 turkish:土耳其语
 turkistan islamic party in syria:敘利亞突厥斯坦伊斯蘭黨
 turkistan islamic party:突厥斯坦伊斯兰党
+turkistan region:突厥斯坦军区
 turkistan region:突厥斯坦州
 turkistan:突厥斯坦
 turkistanas:突厥斯坦
@@ -8081,8 +8170,12 @@ turkmen in pakistan:巴基斯坦的土庫曼人
 turkmen language:土库曼语
 turkmen manat:土库曼斯坦马纳特
 turkmen soviet socialist republic:土库曼苏维埃社会主义共和国
+turkmenabat airport:土库曼纳巴德机场
+turkmenabat airport:土库曼纳巴德機場
 turkmenabat:土库曼纳巴德
 turkmenabatas:土库曼纳巴德
+turkmenbashi airport:土库曼巴希机场
+turkmenbashi airport:土库曼巴希機場
 turkmenbashi:土库曼巴希
 turkmenbaszy:土库曼巴希
 turkmenbaši:土库曼巴希
@@ -8157,7 +8250,9 @@ turkmenistan government:土库曼斯坦政府
 turkmenistan hold:土库曼斯坦拥有
 turkmenistan increase:土库曼斯坦增加
 turkmenistan insist:土库曼斯坦坚持
+turkmenistan manat:土库曼斯坦马纳特
 turkmenistan national football team:土庫曼國家足球隊
+turkmenistan navy:土库曼斯坦海军
 turkmenistan neutral:土库曼斯坦中立
 turkmenistan newspaper:土库曼斯坦报纸
 turkmenistan participate:土库曼斯坦参与
@@ -8168,6 +8263,7 @@ turkmenistan recently:土库曼斯坦最近
 turkmenistan start:土库曼斯坦开始
 turkmenistan through uzbekistan:土库曼斯坦通过乌兹别克斯坦
 turkmenistan through:土库曼斯坦通过
+turkmenistan time:土库曼斯坦时间
 turkmenistan tower:土库曼斯坦电视塔
 turkmenistan trade relation:土库曼斯坦贸易关系
 turkmenistan trade:土库曼斯坦贸易
@@ -8183,6 +8279,7 @@ turkmenistana ambassáda:土库曼斯坦大使馆
 turkmenistana váldokonsuláhta:土库曼斯坦总领事馆
 turkmenistango enbaxada:土库曼斯坦大使馆
 turkmenistango kontsulatu nagusia:土库曼斯坦总领事馆
+turkmenistani manat:土库曼斯坦马纳特
 turkmenistani:tǔkùmànsītǎn
 turkmenistani:土库曼斯坦
 turkmenistani:土库曼斯坦 / 土庫曼
@@ -8502,10 +8599,12 @@ turkstream:土耳其溪
 turktaş:türktaş
 turku air:圖爾庫航空
 turku airport:图尔库机场
+turku airport:圖爾庫機場
 turku and pori province:圖爾庫和波里省
 turku castle:图尔库城堡
 turku castle:圖爾庫城堡
 turku cathedral:圖爾庫主教座堂
+turku cathedral:圖爾庫大教堂
 turku central station:土庫中央車站
 turku city hall:图尔库市政厅
 turku school of economics:图尔库经济学院
@@ -8677,17 +8776,21 @@ turotschak:图罗恰克
 turoyo language:圖羅尤語
 turpan - ghulja expressway:高伊高速
 turpan city public security bureau:吐鲁番市公安局
+turpan county:吐鲁番县
 turpan depression:吐鲁番盆地
 turpan jiaohe airport:吐魯番交河機場
 turpan jiaohe airport:吐鲁番交河机场
 turpan khanate:吐鲁番汗国
+turpan khanate:吐鲁番汗國
 turpan kochisi:吐鲁番库恰村
 turpan manichaean texts:摩尼教吐鲁番文书
 turpan museum:吐鲁番博物馆
 turpan north railway station:吐鲁番北站
 turpan north station:吐鲁番北
+turpan north:吐鲁番北
 turpan prefecture public security bureau:吐鲁番地区公安局
 turpan railway station:吐鲁番站
+turpan tram:吐鲁番有轨电车
 turpan:tulufán dìqū
 turpan:turpan diqu
 turpan:tǔlǔfān shì
@@ -9004,6 +9107,7 @@ turčynivka:圖爾奇尼夫卡
 turīna:杜林
 turīna:都灵
 tus airways:图斯航空
+tus citadel:圖斯城堡
 tus koblenz:科布伦茨体操及竞赛俱乐部
 tus:圖斯
 tusalla:吐沙拉鎮
@@ -9029,6 +9133,7 @@ tushaduoshan:tǔshāduōshān
 tushaduoshan:ㄊㄨˇㄕㄚㄉㄨㄛㄕㄢ
 tushaduoshan:土沙多山
 tushan road:涂山路
+tushan station:土山站
 tushan station:涂山站
 tushan:土山
 tushan:土山鎮
@@ -9417,6 +9522,7 @@ tutuila:图图伊拉岛
 tutume:圖圖梅
 tutunendo:图图嫩多
 tutupaca:圖圖帕卡火山
+tutzing station:图青站
 tutzing:图青
 tutáyev:圖塔耶夫
 tuul gol:图拉河
@@ -9830,6 +9936,7 @@ tuzla and srebrenica:图兹拉和斯雷布雷尼察
 tuzla canton:圖茲拉州
 tuzla chub:阿裏歐雅魚
 tuzla international airport:图兹拉国际机场
+tuzla island:图兹拉岛
 tuzla island:圖茲拉島
 tuzla massacre:图兹拉屠杀
 tuzla:图兹拉

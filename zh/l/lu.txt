@@ -325,6 +325,7 @@ luailiaoshan:ㄌㄨˋㄞˋㄌㄧㄠˊㄕㄢ
 luailiaoshan:陆隘寮山
 luailiaoshan:陸隘寮山
 lualaba province:卢阿拉巴省
+lualaba river:卢阿拉巴河
 lualaba river:盧阿拉巴河
 lualaba:卢阿拉巴
 lualaba:卢阿拉巴省
@@ -396,6 +397,7 @@ luanda and huambo:罗安达和万博
 luanda area:罗安达地区
 luanda bölgesi:罗安达省
 luanda bölgesi:羅安達省
+luanda cathedral:羅安達大教堂
 luanda children's hospital:罗安达儿童医院
 luanda city:罗安达城市
 luanda government:罗安达政府
@@ -416,6 +418,7 @@ luanda provincial court:貝拉斯區法院
 luanda provincial court:贝拉斯区法院
 luanda provints:罗安达省
 luanda provints:羅安達省
+luanda railway:罗安达铁路
 luanda railway:羅安達鐵路
 luanda saint miguel fortress:罗安达圣米格尔要塞
 luanda saint miguel fortress:羅安達聖米格爾要塞
@@ -658,6 +661,7 @@ lubang island:盧邦島
 lubang:陆榜
 lubangas:盧班戈
 lubangcun:录帮村
+lubango airport:盧班戈機場
 lubango:盧班戈
 lubanj:柳班
 lubanjiao:鲁板教
@@ -763,6 +767,7 @@ lubilhac:吕比亚克
 lubim:柳比姆
 lubimogradum:柳比姆
 lubin county:卢宾县
+lubin county:胪滨县
 lubin:盧賓
 lubin:胪滨
 lubine:吕比讷
@@ -781,14 +786,18 @@ lublaň:卢布尔雅那
 lublaň:盧布爾雅那
 lublin airport:盧布林機場
 lublin area:卢布林地区
+lublin castle:卢布林城堡
 lublin castle:盧布林城堡
 lublin connect:卢布林连接
+lublin county:卢布林县
 lublin county:盧布林縣
 lublin ghetto:卢布林隔都
 lublin hérað:卢布林省
 lublin hérað:盧布林省
 lublin lalawigan:卢布林省
 lublin lalawigan:盧布林省
+lublin museum:卢布林博物馆
+lublin province:卢布林省
 lublin prowins:卢布林省
 lublin prowins:盧布林省
 lublin region:卢布林地区
@@ -797,6 +806,7 @@ lublin suyu:卢布林省
 lublin suyu:盧布林省
 lublin transport:卢布林运输
 lublin triangle:盧布林三角
+lublin union:卢布林联盟
 lublin voivodeship:卢布林省
 lublin voivodeship:盧布林省
 lublin voivodskap:卢布林省
@@ -1056,6 +1066,7 @@ lucaowa:芦草洼
 lucaowan:芦草湾
 lucaowancun:芦草湾村
 lucaoyu:芦草峪
+lucapa airport:盧卡帕機場
 lucapa:盧卡帕
 lucario:路卡利歐
 lucas aerospace:卢卡斯航空航天
@@ -1070,6 +1081,7 @@ lucas archive:卢卡斯档案
 lucas art:卢卡斯艺术
 lucas ask:卢卡斯问
 lucas avoid:卢卡斯避免
+lucas awards:卢卡斯奖
 lucas back to prison:卢卡斯回到监狱
 lucas back:卢卡斯回
 lucas began:卢卡斯开始
@@ -1133,6 +1145,8 @@ lucas paradox:卢卡斯悖论
 lucas park books:卢卡斯公园书籍
 lucas park:卢卡斯公园
 lucas peter:卢卡斯彼得
+lucas polynomial:卢卡斯多项式
+lucas polynomials:卢卡斯多项式
 lucas prove:卢卡斯证明
 lucas real:卢卡斯真的
 lucas recently:卢卡斯最近
@@ -1157,6 +1171,7 @@ lucas too:卢卡斯也
 lucas township:卢卡斯镇区
 lucas valley:卢卡斯山谷
 lucas valley:盧卡斯谷
+lucas vera:卢卡斯维尔
 lucas want:卢卡斯想要
 lucas was right:卢卡斯是对的
 lucas white:卢卡斯白色
@@ -1168,6 +1183,7 @@ lucasarts adventure games:盧卡斯藝術冒險遊戲
 lucasfilm archive:卢卡斯影业档案
 lucasfilm decided:卢卡斯影业决定
 lucasfilm design:卢卡斯影业设计
+lucasfilm games:卢卡斯影业游戏
 lucasfilm games:卢卡斯艺术
 lucasfilm projects:卢卡斯影业项目
 lucasfilm software engineer:卢卡斯影业软件工程师
@@ -1241,6 +1257,7 @@ lucern:卢塞恩
 lucerna:卢塞恩
 lucerna:卢塞恩 / 琉森
 lucerna:琉森
+lucerne chronicle:卢塞恩编年史
 lucerne culture:琉森文化
 lucerne district:琉森區
 lucerne festival orchestra:琉森節慶管弦樂團
@@ -1248,6 +1265,11 @@ lucerne festival:琉森音樂節
 lucerne fortification:琉森防御工事
 lucerne hammer:琉森鎚
 lucerne railway station:卢塞恩车站
+lucerne station:卢塞恩站
+lucerne station:琉森站
+lucerne university:卢塞恩大学
+lucerne university:琉森大學
+lucerne valley:卢塞恩山谷
 lucerne:卢塞恩
 lucerne:卢塞恩 / 琉森
 lucerne:琉森
@@ -1293,6 +1315,8 @@ luchazes:盧沙澤斯
 luche:鲁车
 luchegorsk:盧切戈爾斯克
 luchelin:芦车林
+lucheng county:潞城县
+lucheng county:陆城县
 lucheng district:lùchéng qū
 lucheng district:lùchéng shì
 lucheng district:潞城区
@@ -1307,6 +1331,7 @@ lucheng qu:鹿城區
 lucheng road:鹿城路
 lucheng school middle school:鹿城学校建华中学
 lucheng sports school:北京体育职业学院分校区
+lucheng station:潞城站
 lucheng-ketan county road:廬柯路
 lucheng:chǔxíong shì
 lucheng:lùchéng
@@ -1658,6 +1683,8 @@ lucknow district:勒克瑙縣
 lucknow metro:勒克瑙地铁
 lucknow pact:勒克瑙协定
 lucknow passport:勒克瑙护照
+lucknow university:勒克瑙大学
+lucknow university:勒克瑙大學
 lucknow:勒克瑙
 lucko:盧茨克
 luckower see:盧科湖
@@ -2180,6 +2207,7 @@ ludizhongcun:逯堤中村
 ludlow castle:拉德洛城堡
 ludlow epoch:羅德洛世
 ludlow massacre:拉德洛大屠杀
+ludlow township:拉德洛鎮區
 ludlow:拉德洛
 ludmannsdorf:卢德曼斯多夫
 ludo srce:狂惑的心扉
@@ -2222,6 +2250,7 @@ ludun:路墩
 ludushikeng:鹿肚石坑
 luduxiang:魯都香
 ludvig glacier:路德維希冰川
+ludvika airport:盧德維卡機場
 ludvika municipality:卢德维卡市镇
 ludvika:盧德維卡
 ludwichshafe:路德維希港
@@ -2240,6 +2269,7 @@ ludwig kennedy:路德维希肯尼迪
 ludwig maximilian university of munich:慕尼黑大学
 ludwig museum:路德维希博物馆
 ludwig professor:路德维希教授
+ludwig railway:路德维希铁路
 ludwig said:路德维希说
 ludwig sand:路德维希沙
 ludwig says:路德维希说
@@ -2275,6 +2305,7 @@ ludwigsstadt:路德维希斯施塔特
 ludwigswinkel:路德维希斯温克尔
 ludza castle:盧扎城堡
 ludza municipality:盧扎市鎮
+ludza river:盧扎河
 ludza:盧扎
 lue amnat district:勒安纳县
 luebo:魯耶波
@@ -2455,13 +2486,18 @@ lufeng city:陸豐
 lufeng city:陸豐市
 lufeng county:lùfēng xiàn
 lufeng county:祿豐市
+lufeng county:禄丰县
 lufeng county:禄丰市
+lufeng county:陆丰县
 lufeng dinosaur museum:禄丰恐龙博物馆
+lufeng east:陆丰东
 lufeng nuclear power plant:陆丰核电站
 lufeng park:鹿峰公园
 lufeng park:鹿峰公園
 lufeng road:陸豐路
 lufeng road:鹿枫路
+lufeng south:禄丰南
+lufeng south:陆丰南
 lufeng street:庐峰街
 lufeng subdistrict:露峰街道
 lufeng subdistrict:鹿峰街道
@@ -2550,6 +2586,7 @@ lug manˊ:鹿满(鹿麻产)
 lug manˊ:鹿滿
 lug manˊ:鹿滿(鹿麻產)
 luga bay:盧加灣
+luga river:卢加河
 luga:卢加
 luga:盧加河
 luga:鲁嘎
@@ -2597,9 +2634,12 @@ lugang:鹿岗
 lugangcun:芦岗村
 lugangcun:鲁岗村
 lugangliao:鹿港寮
+lugano airport:盧加諾機場
+lugano lake:盧加諾湖
 lugano prealps:盧加諾前阿爾卑斯山脈
 lugano railway station:盧加諾車站
 lugano:盧加諾
+lugansk airport:卢甘斯克机场
 lugansk séng:卢甘斯克州
 lugansk vilâyeti:卢甘斯克州
 lugansk:卢甘斯克
@@ -2688,8 +2728,11 @@ luglon:吕格隆
 lugnacco:卢尼亚科
 lugny bourbonnais:吕尼布尔博奈
 lugny champagne:吕尼香槟
+lugo cathedral:卢戈主教座堂
 lugo cathedral:盧戈主教座堂
 lugo di vicenza:卢戈迪维琴扎
+lugo province:卢戈省
+lugo province:盧戈省
 lugo:卢戈
 lugo:盧戈
 lugoj:盧戈日
@@ -2700,6 +2743,8 @@ lugong river:瀘公河
 lugong:鲁贡镇
 lugos regionas:盧加區
 lugos:吕戈斯
+lugou bridge:卢沟桥
+lugou bridge:芦沟桥
 lugou:卢沟
 lugou:芦沟
 lugou:芦沟镇
@@ -2817,6 +2862,7 @@ luhanken:鲁含肯
 luhans'k:卢甘斯克
 luhans'k:盧甘斯克
 luhansk (tỉnh):卢甘斯克州
+luhansk airport:卢甘斯克机场
 luhansk and donetsk:卢甘斯克和顿涅茨克
 luhansk information center:卢甘斯克信息中心
 luhansk international airport:盧甘斯克國際機場
@@ -2833,6 +2879,7 @@ luhansk raion:卢汉斯克区
 luhansk region:卢甘斯克地区
 luhansk regions:卢甘斯克地区
 luhansk republic:卢甘斯克共和国
+luhansk university:卢甘斯克大学
 luhansk urban hromada:卢汉斯克市镇
 luhansk:卢甘斯克
 luhansk:盧甘斯克
@@ -2870,6 +2917,7 @@ luhden:卢登
 luhe barrutia:六合区
 luhe barrutia:六合區
 luhe county:lùhé xiàn
+luhe county:六合县
 luhe county:陆河县
 luhe county:陸河
 luhe county:陸河縣
@@ -3041,6 +3089,7 @@ luibiskogel:盧伊比斯科格爾山
 luica:盧伊卡鄉
 luigi believe:路易吉相信
 luigi calza:賈師誼
+luigi island:路易吉岛
 luigi island:路易吉島
 luigi jump:路易吉跳
 luigi moccagatta:江类思
@@ -3421,6 +3470,7 @@ lujiazui ring road:陸家嘴環路
 lujiazui roundabout:陆家嘴环岛
 lujiazui roundabout:陸家嘴環島
 lujiazui station:陆家嘴站
+lujiazui station:陸家嘴站
 lujiazui subdistrict:陆家嘴街道
 lujiazui:吕家咀
 lujiazui:吕家嘴
@@ -3800,6 +3850,7 @@ lukujian:lùkūjiān
 lukujian:ㄌㄨˋㄎㄨㄐㄧㄢ
 lukujian:鹿窟尖
 lukula:盧庫拉
+lukulu airport:盧庫盧機場
 lukulu district:盧庫盧縣
 lukulu:盧庫盧
 lukunor:盧庫諾爾環礁
@@ -3998,6 +4049,7 @@ lulu xuan:宣璐
 lulu's bbq:露露烧烤
 lulu:辘辘
 lulua district:卢卢阿省
+lulua river:卢卢阿河
 lulua river:盧盧阿河
 lulua:卢卢阿
 lulua:卢卢阿省
@@ -4094,10 +4146,12 @@ lumber:木料
 lumbier:伦别尔
 lumbin:兰班
 lumbini province:蓝毗尼省
+lumbini province:藍毗尼省
 lumbini séng:蓝毗尼省
 lumbini zone:藍毗尼專區
 lumbini:蓝毗尼省
 lumbini:藍毗尼
+lumbo airport:隆博機場
 lumbo:隆博
 lumbosacral plexus:腰骶神經叢
 lumbosacral trunk:腰骶干
@@ -4235,9 +4289,11 @@ luminosity about:光度大约
 luminosity and energy:光度和能量
 luminosity and size:光度和大小
 luminosity curve:光度曲线
+luminosity distance:光度距离
 luminosity distance:光度距離
 luminosity distribution:光度分布
 luminosity function:光度函数
+luminosity functions:光度函数
 luminosity interval:光度间隔
 luminosity of the sun:太阳光度
 luminosity pattern:光度模式
@@ -4370,6 +4426,8 @@ lunain:呂南河
 lunaka:lóngmén kǎ cūn
 lunalilo:路納利羅
 lunamatrona:卢纳马特罗纳
+lunan county:路南县
+lunan county:鲁南县
 lunan district:lùnán qū
 lunan district:路南区
 lunan district:路南區
@@ -4586,6 +4644,7 @@ lunch bag:午餐袋
 lunch baku:午餐巴库
 lunch bar:午餐酒吧
 lunch began:午餐开始
+lunch box:午餐盒
 lunch bread:午餐面包
 lunch budget:午餐预算
 lunch buffet:午餐自助餐
@@ -4771,15 +4830,18 @@ luncheon of the boating party:划船人的午宴
 luncke range:倫克山脈
 luncoiu de jos:下倫科尤鄉
 luncun village:伦村村
+lund airport:隆德機場
 lund and the university of wisconsin-madison:隆德和威斯康星大学麦迪逊
 lund and uppsala:隆德和乌普萨拉
 lund cathedral:隆德主教座堂
+lund cathedral:隆德大教堂
 lund dance school:隆德舞蹈学校
 lund dance:隆德舞蹈
 lund estimate:隆德估计
 lund group:隆德组
 lund is sweden:隆德是瑞典
 lund municipality:隆德市镇
+lund observatory:隆德天文台
 lund recommendations:隆德建议
 lund region:隆德地区
 lund said:隆德说
@@ -4799,6 +4861,7 @@ lund university main building:隆德大学主楼
 lund university was established in:隆德大学成立于
 lund university was founded in:隆德大学成立于
 lund university:隆德大学
+lund university:隆德大學
 lund washington:隆德华盛顿
 lund:隆德
 lunda empire:隆达王国
@@ -4940,6 +5003,7 @@ lung biotechnology:肺生物技术
 lung bleeding:肺出血
 lung blood:肺血液
 lung breathing:肺呼吸
+lung bud:肺芽
 lung cancer action:肺癌行动
 lung cancer affects:肺癌影响
 lung cancer alliance:肺癌联盟
@@ -5064,8 +5128,11 @@ lung cancer warning:肺癌警告
 lung cancer who:肺癌谁
 lung cancer would:肺癌将
 lung cancer:肺癌
+lung capacity:肺容量
 lung capacity:肺能力
+lung carcinoma:肺癌
 lung cardiovascular disease:肺心血管疾病
+lung cavity:肺腔
 lung cell death:肺细胞死亡
 lung cell:肺细胞
 lung cells:肺细胞
@@ -5119,6 +5186,7 @@ lung diseases:肺疾病
 lung dkar:隆格尔乡
 lung doctor:肺医生
 lung edema:肺水肿
+lung embolism:肺栓塞
 lung en park:龍恩公園
 lung en st.:隆恩街
 lung energy:肺能量
@@ -5131,7 +5199,9 @@ lung fai street:龍輝街
 lung fat street:龍發街
 lung fat street:龙发街
 lung fibroblast:肺成纤维细胞
+lung fibrosis:肺纤维化
 lung fire:肺火
+lung fish:肺鱼
 lung fong:龍方
 lung fook house:龍福樓
 lung foundation:肺基金
@@ -5208,6 +5278,7 @@ lung hong street:龙康街
 lung hop street:龍合街
 lung ill:肺病的
 lung immune system:肺免疫系统
+lung infarction:肺梗塞
 lung infection:肺感染
 lung institute:肺研究所
 lung issues:肺问题
@@ -5360,6 +5431,7 @@ lung sum lane:龍琛里
 lung support:肺支持
 lung surfactant:肺表面活性剂
 lung surgeon:肺外科医生
+lung surgery:肺外科
 lung swab:肺拭子
 lung system:肺系统
 lung systems:肺系统
@@ -6149,6 +6221,7 @@ luochen:罗陈乡
 luocheng avenue:汨新大道
 luocheng avenue:罗城大道
 luocheng avenue:罗城桥
+luocheng county:罗城县
 luocheng middle school:洛城中学
 luocheng middle school:洛溪新城中学
 luocheng mulao autonomous county:luóchéng mùlǎozú zìzhì xiàn
@@ -6198,6 +6271,7 @@ luochongwei(songnan lu) bus terminal:罗冲围松南路总站
 luochuan county:luòchuān xiàn
 luochuan county:洛川县
 luochuan county:洛川縣
+luochuan county:罗川县
 luochuan:luóchuān
 luochuan:洛川县
 luochuan:洛川縣
@@ -6314,6 +6388,7 @@ luodong reservoir:洛东水库
 luodong river:羅東溪
 luodong sport park:羅東運動公園
 luodong sports park:羅東運動公園
+luodong station:羅東站
 luodong village:罗洞村
 luodong xi:罗东溪
 luodong zhen an temple:羅東震安宮
@@ -6398,6 +6473,7 @@ luofengcun:萝峰村
 luofengyan:落凤岩
 luofu bridge:羅浮橋
 luofu mountain:罗浮山
+luofu mountain:羅浮山
 luofu reservoir:luōfú shuǐkù
 luofu reservoir:罗浮水库
 luofu river:lofau gong
@@ -6442,7 +6518,9 @@ luogang metro station:地铁萝岗站
 luogang park:骆岗公园
 luogang reservoir:罗岗水库
 luogang road:罗岗路
+luogang station:萝岗站
 luogang station:蘿崗站
+luogang station:骆岗站
 luogang street:萝岗大街
 luogang subdistrict:luógǎng jiēdào
 luogang subdistrict:萝岗街道
@@ -6581,6 +6659,7 @@ luohe shi:漯河
 luohe shi:漯河市
 luohe station:漯河站
 luohe west railway station:漯河西站
+luohe west:漯河西
 luohe-fuyang railway:漯阜线
 luohe:luòhé shì
 luohe:luòhé yízú xiāng
@@ -6644,6 +6723,8 @@ luohu kongtou building bus terminus:罗湖控投大厦公交总站
 luohu maternity & child healthcare hospital:罗湖妇幼保健院
 luohu middle road:罗湖中路
 luohu north station:罗湖北站
+luohu north:罗湖北
+luohu north:羅湖北
 luohu party school:罗湖党校
 luohu party school:羅湖黨校
 luohu people's hospital (chunfeng branch):罗湖区人民医院春风院区
@@ -6661,6 +6742,8 @@ luohu sports & leisure park:罗湖体育休闲公园
 luohu sports center:罗湖体育中心
 luohu staiton:罗湖站
 luohu staiton:羅湖站
+luohu station:罗湖站
+luohu station:羅湖站
 luohu taxation bureau 1:罗湖税务局 ①
 luohu taxation bureau 2:罗湖税务局 ②
 luohu traffic police battalion:罗湖交警大队
@@ -6838,6 +6921,7 @@ luojiamen:罗家门
 luojiamo:罗家磨
 luojian:罗涧村
 luojiang bridge:洛江大桥
+luojiang county:罗江县
 luojiang district:luòjiāng qū
 luojiang district:luójiāng qū
 luojiang district:洛江
@@ -6845,6 +6929,7 @@ luojiang district:洛江区
 luojiang district:洛江區
 luojiang district:罗江区
 luojiang district:羅江區
+luojiang east:罗江东
 luojiang north road:罗江北路
 luojiang qu:luòjiāng qū
 luojiang qu:洛江
@@ -6969,6 +7054,7 @@ luojiazhaishangwan:罗家寨上湾
 luojiazhangzi:罗家杖子
 luojiazhangzicun:罗家杖子村
 luojiazhuang station:罗家庄站
+luojiazhuang station:羅家莊站
 luojiazhuang:罗家庄
 luojiazhuang:羅家莊
 luojiazhuang:雒家庄
@@ -7150,6 +7236,7 @@ luoluoyida:洛洛以打村
 luoluozhai:罗落寨
 luolvyincun:骆吕音村
 luoma lake:luòmă hú
+luoma lake:罗马湖
 luoma lake:駱馬湖
 luoma lake:骆马湖
 luoma road section 1:羅馬路一段
@@ -7546,6 +7633,7 @@ luotian community:罗田社区
 luotian county:luotian xian
 luotian county:罗田县
 luotian county:羅田
+luotian county:羅田县
 luotian county:羅田縣
 luotian economy development area:罗田县经济开发区
 luotian forest farm:罗田林场
@@ -7684,6 +7772,7 @@ luowa:罗瓦
 luowa:骆洼
 luowan reservoir:luōwān shuǐkù
 luowan reservoir:罗湾水库
+luowan station:罗湾站
 luowan:luówān cūn
 luowan:洛万乡
 luowan:罗塆
@@ -7751,8 +7840,10 @@ luowuzhuang:罗武庄乡
 luoxi bridge bottom(haizhu children's park):洛溪桥底
 luoxi bridge:洛溪大桥
 luoxi bridge:洛溪大桥新桥
+luoxi bridge:洛溪桥
 luoxi bridge:洛溪桥脚
 luoxi island:沙滘岛
+luoxi island:洛溪岛
 luoxi lu:罗溪路站
 luoxi metro station:地铁洛溪站
 luoxi new town (olympics garden):洛溪新城
@@ -7764,6 +7855,7 @@ luoxi river:luóxī hé
 luoxi river:螺溪河
 luoxi road:洛溪路
 luoxi station:洛溪站
+luoxi station:罗溪站
 luoxi villager's committee:罗溪村委站
 luoxi xincheng bus terminal:洛溪新城总站
 luoxi zhonglu:罗溪中路站
@@ -7868,11 +7960,13 @@ luoyan:罗岩
 luoyan:落岩
 luoyan:落雁乡
 luoyancun:罗堰村
+luoyang airport:洛阳机场
 luoyang ancient tombs museum:洛阳古墓博物馆
 luoyang area of china (henan) free trade pilot zone:河南自贸区洛阳片区
 luoyang avenue:洛阳道
 luoyang avenue:洛陽道
 luoyang beijiao airport:洛阳北郊机场
+luoyang beijiao:洛阳北郊
 luoyang bilingual experimental school:洛阳双语实验学校
 luoyang bridge:洛阳桥
 luoyang bridge:洛陽橋
@@ -7880,12 +7974,16 @@ luoyang center primary school:罗阳中心小学
 luoyang christmas fire:洛阳东都商厦火灾
 luoyang coach station:洛阳汽车站
 luoyang community:洛阳社区
+luoyang county:洛阳县
+luoyang county:洛陽县
 luoyang dao:洛阳道
 luoyang dao:洛陽道
 luoyang dialect:洛陽話
 luoyang dongdu hospital:洛阳东都医院
 luoyang east railway station:洛阳东站
 luoyang east street:洛陽東街
+luoyang east:洛阳市东
+luoyang east:洛陽東
 luoyang electronic equipment test center:中国洛阳电子装备试验中心
 luoyang experimental middle school:洛阳市实验中学(北校区)
 luoyang experimental senior high school:洛阳市实验高级中学
@@ -7895,6 +7993,7 @@ luoyang expressway:肇陽高速
 luoyang fanglinlu primary school:洛阳市芳林路小学
 luoyang first people's hospital(longhai campus):洛阳市第一人民医院(陇海院区)
 luoyang first people's hospital(zhongzhou campus):洛阳市第一人民医院(中州院区)
+luoyang glass:洛阳玻璃
 luoyang glass:洛陽玻璃
 luoyang high-tech zone:洛阳高新区
 luoyang high-tech zone:洛陽高新區
@@ -7907,8 +8006,11 @@ luoyang international tourism college:洛阳旅游学校
 luoyang longmen railway station:洛阳龙门
 luoyang longmen railway station:洛阳龙门站
 luoyang longmen:洛阳龙门
+luoyang longmen:洛陽龍門
+luoyang metro:洛阳地铁
 luoyang middle school:罗阳中学
 luoyang museum:洛阳博物馆
+luoyang museum:洛阳市博物馆
 luoyang nanhua experimental primary school:洛阳市南华实验小学
 luoyang no.1 experimental primary school:洛阳市第一实验小学
 luoyang no.1 senior high school:洛阳市第一高级中学
@@ -7949,6 +8051,7 @@ luoyang subway line 2:洛阳地铁2号线
 luoyang subway line 2:洛阳轨道交通2号线
 luoyang subway line 2:洛阳轨道交通2️⃣号线(二乔路→八里堂)
 luoyang subway line 2:洛阳轨道交通2️⃣号线(八里堂→二乔路)
+luoyang subway:洛阳地铁
 luoyang subway:洛阳轨道交通
 luoyang tanggongxilu primary school:洛阳市唐宫西路小学
 luoyang town:洛阳镇
@@ -7984,6 +8087,7 @@ luoyanglu:洛陽路街道
 luoyangmawan:罗杨马湾
 luoyangxi:洛阳西
 luoyangxicun:洛阳西村
+luoyangzhen station:洛羊镇站
 luoyangzhen:洛羊镇
 luoyantai:落雁台
 luoyantun:洛岩屯
@@ -8419,6 +8523,7 @@ luren:禄仁
 lurendi:碌任底
 lureuil:吕勒伊
 luri language:卢尔语
+luri river:鲁日河
 luri:鲁日
 luria controversa:雨點寶螺
 luria isabella:黄褐禄亚贝
@@ -8474,6 +8579,7 @@ lusail stadion:卢赛尔地标体育场
 lusail stadiony:卢赛尔地标体育场
 lusail stadium:卢赛尔体育场
 lusail stadium:卢赛尔地标体育场
+lusail stadium:路薩爾體育場
 lusail stadyumu:卢赛尔地标体育场
 lusail:路薩爾
 lusailin stadion:卢赛尔地标体育场
@@ -8484,8 +8590,10 @@ lusaka (prowins):卢萨卡省
 lusaka airport:路沙卡机场
 lusaka bölgesi:卢萨卡省
 lusaka district:盧薩卡縣
+lusaka manifesto:路沙卡宣言
 lusaka protocol:路沙卡議定書
 lusaka province:卢萨卡省
+lusaka province:盧薩卡省
 lusaka séng:卢萨卡省
 lusaka:盧薩卡
 lusaka:路沙卡
@@ -8544,11 +8652,18 @@ lushan bridge:鷺山橋
 lushan city:lúshān shì
 lushan city:庐山市
 lushan city:廬山市
+lushan conference:庐山会议
 lushan county:lúshān xiàn
+lushan county:卢山县
+lushan county:炉山县
 lushan county:芦山县
+lushan county:蘆山县
 lushan county:蘆山縣
 lushan county:魯山縣
 lushan county:鲁山县
+lushan earthquake:芦山县地震
+lushan earthquake:芦山地震
+lushan earthquake:蘆山地震
 lushan garden:庐山花园
 lushan huiyuan:慧遠
 lushan lane, nanyang road:南陽路綠山巷
@@ -8563,6 +8678,9 @@ lushan road:庐山路
 lushan road:盧山路
 lushan road:鲁山路
 lushan road:麓山路
+lushan south:庐山南
+lushan station:庐山站
+lushan station:鲁山站
 lushan station:鹿山站
 lushan temple:麓山寺
 lushan yidui:绿山一队
@@ -8649,6 +8767,7 @@ lushui river:lù shuĭ
 lushui river:lùshuĭ hé
 lushui river:淥水
 lushui river:渌水
+lushui river:綠水河
 lushui river:绿水河
 lushui:泸水市
 lushui:潞水
@@ -8924,6 +9043,7 @@ lutaoyangshan:ㄌㄨˋㄊㄠˊㄧㄤˊㄕㄢ
 lutaoyangshan:鹿陶洋山
 lute platform:古琴臺
 lute song:魯特琴歌
+lute songs:魯特琴歌
 lute:魯特琴
 lute:鲁特
 luteal phase:黃體期
@@ -9057,7 +9177,9 @@ lutjanus:笛鯛屬
 luton airport hotel:卢顿机场酒店
 luton airport:倫敦盧頓機場
 luton airport:卢顿机场
+luton airport:盧頓機場
 luton area:卢顿地区
+luton carnival:盧頓狂歡節
 luton council:卢顿委员会
 luton library:卢顿图书馆
 luton peace day:卢顿和平日
@@ -9068,6 +9190,7 @@ luton railway station:卢顿火车站
 luton said:卢顿说
 luton south:卢顿南
 luton university:卢顿大学
+luton university:盧頓大學
 luton went:卢顿去
 luton:卢顿
 luton:盧頓
@@ -9100,6 +9223,7 @@ lutowyniwka:盧托維尼夫卡
 lutra:水獺屬
 lutraria:獭蛤属
 lutreolina:獭负鼠属
+lutry castle:吕特里城堡
 lutry:吕特里
 lutsang monastery:鲁仓寺
 lutschegorsk:盧切戈爾斯克
@@ -9145,6 +9269,7 @@ lutz jump:勾手跳
 lutzailiaoshan:lùzǎiliáoshān
 lutzailiaoshan:ㄌㄨˋㄗㄞˇㄌㄧㄠˊㄕㄢ
 lutzailiaoshan:鹿仔寮山
+lutzelbourg station:吕策尔堡站
 lutzelbourg:吕策尔堡
 lutzelhouse:吕策卢斯
 lutzerath:卢策拉特
@@ -9186,6 +9311,7 @@ luwagou:陆瓦沟
 luwaihecun:路外河村
 luwalaba:卢阿拉巴省
 luwan gymnasium:卢湾体育馆
+luwan gymnasium:盧灣體育館
 luwan:卢湾
 luwan:盧灣
 luwan:绿湾
@@ -9252,6 +9378,7 @@ luwu:芦屋
 luwu:陆屋镇
 luwuk:卢武克
 luwuyaocun:芦五窑村
+lux animation:勒克斯动画
 lux approximation equation:勒克斯近似方程
 lux approximation:勒克斯近似
 lux atlantic hotel:勒克斯大西洋酒店
@@ -9292,6 +9419,7 @@ luxemborj:卢森堡 / 盧森堡
 luxemborj:盧森堡
 luxembourg agreement:卢森堡协议
 luxembourg airport:卢森堡机场
+luxembourg airport:盧森堡機場
 luxembourg allow:卢森堡允许
 luxembourg already:卢森堡已经
 luxembourg also means:卢森堡也意味着
@@ -9400,6 +9528,7 @@ luxembourg became:卢森堡成为
 luxembourg become:卢森堡成为
 luxembourg castle:卢森堡城堡
 luxembourg centre:卢森堡中心
+luxembourg championship:卢森堡锦标赛
 luxembourg citizen:卢森堡公民
 luxembourg city hall:盧森堡市政廳
 luxembourg city history museum:盧森堡市歷史博物館
@@ -9412,6 +9541,8 @@ luxembourg compromise:卢森堡妥协
 luxembourg constitution:卢森堡宪法
 luxembourg continues:卢森堡继续
 luxembourg crisis:卢森堡危机
+luxembourg crisis:盧森堡危機
+luxembourg cup:卢森堡杯
 luxembourg cup:盧森堡盃
 luxembourg currently:卢森堡目前
 luxembourg data protection:卢森堡数据保护
@@ -9429,6 +9560,7 @@ luxembourg finance minister:卢森堡财政部长
 luxembourg financial institutions:卢森堡金融机构
 luxembourg football federation:盧森堡足球總會
 luxembourg for finance:盧森堡金融推廣署
+luxembourg franc:卢森堡法郎
 luxembourg franc:盧森堡法郎
 luxembourg from:卢森堡从
 luxembourg fund:卢森堡基金
@@ -9474,6 +9606,7 @@ luxembourg meeting:卢森堡会议
 luxembourg military:卢森堡军队
 luxembourg ministry of higher education:卢森堡高等教育部
 luxembourg museum:卢森堡博物馆
+luxembourg museum:盧森堡博物馆
 luxembourg national day:卢森堡国庆日
 luxembourg national division:盧森堡國家足球聯賽
 luxembourg national football team:盧森堡國家足球隊
@@ -9487,6 +9620,7 @@ luxembourg palace:卢森堡宫
 luxembourg parish:卢森堡教区
 luxembourg parliament:卢森堡国会
 luxembourg parliament:卢森堡议会
+luxembourg passport:卢森堡护照
 luxembourg patent:卢森堡专利
 luxembourg pavilion:卢森堡馆
 luxembourg peace forum:卢森堡和平论坛
@@ -9498,6 +9632,7 @@ luxembourg prince:卢森堡王子
 luxembourg prison:卢森堡监狱
 luxembourg provides:卢森堡提供
 luxembourg province:卢森堡省
+luxembourg province:盧森堡省
 luxembourg railway station:盧森堡車站
 luxembourg region:卢森堡地区
 luxembourg register:卢森堡注册
@@ -9514,6 +9649,8 @@ luxembourg society:卢森堡社会
 luxembourg soldier:卢森堡士兵
 luxembourg spent:卢森堡花
 luxembourg start:卢森堡开始
+luxembourg station:卢森堡站
+luxembourg station:盧森堡站
 luxembourg still:卢森堡仍然
 luxembourg stock exchange:盧森堡交易所
 luxembourg subsidiaries:卢森堡子公司
@@ -9543,6 +9680,7 @@ luxembourgs ambassade:卢森堡大使馆
 luxembourgs honorære konsulat:卢森堡名誉领事馆
 luxembourgs æreskonsulat:卢森堡名誉领事馆
 luxemburg tiszteletbeli konzulátusa:卢森堡名誉领事馆
+luxemburg township:盧森堡鎮區
 luxemburg:lúsenbao
 luxemburg:卢森堡
 luxemburg:卢森堡 / 盧森堡
@@ -9613,6 +9751,7 @@ luxi county:lúxī xiàn
 luxi county:泸溪县
 luxi county:泸西县
 luxi county:瀘溪
+luxi county:瀘溪县
 luxi county:瀘溪縣
 luxi county:瀘西縣
 luxi county:芦溪县
@@ -9730,6 +9869,7 @@ luxor (província):樂蜀省
 luxor air:樂蜀航空
 luxor governorate:樂蜀省
 luxor govrenorate:樂蜀省
+luxor hotel:樂蜀酒店
 luxor international airport:卢克索国际机场
 luxor las vegas:卢克索酒店
 luxor las vegas:盧克索酒店
@@ -9852,6 +9992,7 @@ luyang district:庐阳区
 luyang district:廬陽區
 luyang distriktet:庐阳区
 luyang distriktet:廬陽區
+luyang station:绿杨站
 luyang subdistrict:鲁阳街道
 luyang yanchang:卤阳盐厂
 luyang:卢阳镇
@@ -9881,6 +10022,8 @@ luye post office:鹿野郵局
 luye railway station:鹿野車站
 luye river:鹿野溪
 luye rueiyuan post office:鹿野瑞源郵局
+luye station:綠野站
+luye station:鹿野站
 luye village:鹿野村
 luye:lù yě
 luye:lù​yě xiāng
@@ -9990,6 +10133,7 @@ luzein:盧蔡因
 luzenac:吕兹纳克
 luzeret:吕兹雷
 luzern boulevard:琉森大道
+luzern station:卢塞恩站
 luzern:卢塞恩
 luzerna:卢塞恩
 luzerna:卢泽纳
@@ -10057,6 +10201,7 @@ luzhongkangqiao:鲁中康桥
 luzhongwan west road:陆中湾西路
 luzhongxiang:路中巷
 luzhou  lantian airport:泸州蓝田机场
+luzhou airport:泸州机场
 luzhou chang'an branch:蘆洲長安分館
 luzhou children's park(no. 4):芦洲儿四公园
 luzhou children's park(no. 4):蘆洲兒四公園
@@ -10095,6 +10240,9 @@ luzhou primary substation:蘆洲一次變電所
 luzhou railway station:泸州站
 luzhou rrailway park:庐州铁线公园
 luzhou rrailway park:廬州鐵線公園
+luzhou station:泸州站
+luzhou station:芦洲站
+luzhou station:蘆洲站
 luzhou subdistrict:绿洲街道
 luzhou town:lúzhōu zhèn
 luzhou town:芦洲镇
@@ -10204,6 +10352,7 @@ luzhu sports park:lùzhúyùndònggōngyuán
 luzhu sports park:ㄌㄨˋㄓㄨˊㄩㄣˋㄉㄨㄥˋㄍㄨㄥㄩㄢˊ
 luzhu sports park:路竹运动公园
 luzhu sports park:路竹運動公園
+luzhu station:路竹站
 luzhu station:路竹車站
 luzhu station:路竹车站
 luzhu street:蘆竹街
@@ -10294,12 +10443,17 @@ luziyu:炉子峪
 luziyuan:芦子垣
 luzk:盧茨克
 luzoir:吕祖瓦尔
+luzon arc:呂宋島弧
 luzon broad toothed rat:密鼠
+luzon campaign:吕宋岛战役
 luzon college:呂宋學院
 luzon earthquake:呂宋地震
+luzon earthquake:呂宋島地震
 luzon fruit bat:大耳果蝠
+luzon island:呂宋岛
 luzon short nosed rat:嬌鼠屬
 luzon strait:吕宋海峡
+luzon strait:呂宋海峡
 luzon strait:呂宋海峽
 luzon striped babbler:纹穗鹛
 luzon sukezaemon:呂宋助左衛門

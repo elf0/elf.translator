@@ -80,6 +80,10 @@ zabok:扎博克
 zabol (provins):扎布尔省
 zabol (provins):扎布爾省
 zabol (provins):扎布省
+zabol airport:扎博勒机场
+zabol airport:扎博勒機場
+zabol county:扎博勒县
+zabol university:扎博勒大学
 zabol:扎博勒
 zabol:扎布尔省
 zabol:扎布尔省/扎布爾省
@@ -205,9 +209,12 @@ zacualpa:薩庫阿爾帕
 zacun:杂村
 zadadra:扎苔蛾属
 zadar airport:扎達爾機場
+zadar cathedral:扎达尔主教座堂
 zadar cathedral:扎達爾主教座堂
+zadar county:扎达尔县
 zadar county:扎達爾縣
 zadar open:扎達爾公開賽
+zadar tournament:扎达尔锦标赛
 zadar:扎达尔
 zadar:扎達爾
 zadara:扎达尔
@@ -309,14 +316,20 @@ zagrabia:萨格勒布
 zagrabia:薩格勒布
 zagrade point:薩格拉德角
 zagreb airport:萨格勒布国际机场
+zagreb airport:萨格勒布机场
+zagreb airport:薩格勒布機場
 zagreb and belgrade:萨格勒布和贝尔格莱德
 zagreb and istanbul:萨格勒布和伊斯坦布尔
 zagreb and ljubljana airport:萨格勒布和卢布尔雅那机场
 zagreb and los angeles:萨格勒布和洛杉矶
 zagreb area:萨格勒布地区
+zagreb bishop:萨格勒布主教
 zagreb bölgesi:札格雷布縣
 zagreb bölgesi:萨格勒布县
 zagreb cathedral:札格瑞布主教座堂
+zagreb cathedral:萨格勒布主教座堂
+zagreb cathedral:萨格勒布大教堂
+zagreb cathedral:薩格勒布主教座堂
 zagreb chocolate:萨格勒布巧克力
 zagreb christmas market:萨格勒布圣诞市场
 zagreb city museum:薩格勒布城市博物館
@@ -324,6 +337,8 @@ zagreb club:萨格勒布俱乐部
 zagreb county:札格雷布縣
 zagreb county:萨格勒布县
 zagreb county:薩格勒布縣
+zagreb crisis:萨格勒布危机
+zagreb earthquake:萨格勒布地震
 zagreb eskualdea:札格雷布縣
 zagreb eskualdea:萨格勒布县
 zagreb film festival:萨格勒布电影节
@@ -343,6 +358,7 @@ zagreb is no longer:萨格勒布不再是
 zagreb is the:萨格勒布是这
 zagreb katedrali:札格瑞布主教座堂
 zagreb katedrali:萨格勒布主教座堂
+zagreb mosque:萨格勒布清真寺
 zagreb offer:萨格勒布提供
 zagreb or istanbul:萨格勒布或伊斯坦布尔
 zagreb pencil factory:萨格勒布铅笔工厂
@@ -354,6 +370,10 @@ zagreb stock exchange:札格瑞布證券交易所
 zagreb summit:萨格勒布首脑会议
 zagreb to:萨格勒布到
 zagreb tour:萨格勒布旅游
+zagreb university:萨格勒布大学
+zagreb university:萨格勒布大學
+zagreb university:薩格勒布大學
+zagreb zoo:萨格勒布动物园
 zagreb:萨格勒布
 zagreb:薩格勒布
 zagreba:萨格勒布
@@ -429,6 +449,7 @@ zahari point:扎哈里角
 zahariev peak:扎哈里耶夫峰
 zaharivka:扎哈里夫卡
 zahattia:扎加特季亞
+zahedan airport:扎黑丹机场
 zahedan airport:扎黑丹機場
 zahedan county:扎黑丹县
 zahedan:扎黑丹
@@ -436,6 +457,7 @@ zahedanas:扎黑丹
 zahedano:扎黑丹
 zahedán:扎黑丹
 zahetaoheba:杂核桃河坝
+zahhak castle:查哈克城堡
 zahhak:查哈克
 zahid arip:莫哈末扎希
 zahidan:扎黑丹
@@ -1231,9 +1253,11 @@ zamlychi:扎姆利奇
 zamlîci:扎姆利奇
 zamma:北非跳棋
 zamora canton:薩莫拉縣
+zamora cathedral:萨莫拉大教堂
 zamora cathedral:薩莫拉主教座堂
 zamora cf:萨莫拉足球俱乐部
 zamora hopes:萨莫拉希望
+zamora province:萨莫拉省
 zamora river:薩莫拉河
 zamora said:萨莫拉说
 zamora valley:萨莫拉山谷
@@ -1307,6 +1331,7 @@ zanbia:赞比亚 / 尚比亞
 zanchari:咱察日
 zanchong:昝冲
 zanclean flood:贊克爾期洪水
+zanclean flood:赞克尔期洪水
 zanclean:赞克尔期
 zanclidae:镰鱼科
 zanclodon cambrensis:牛頓龍
@@ -1477,6 +1502,7 @@ zanina:扎尼納
 zaniolepis frenata:韁紋櫛鰭魚
 zaniolepis latipinnis:側翼櫛鰭魚
 zaniskari:藏斯卡馬
+zanj empire:津芝帝国
 zanj empire:津芝帝國
 zanj gadyen an:守護天使
 zanj rebellion:津芝叛亂
@@ -1615,6 +1641,7 @@ zanzi:赞字乡
 zanzibar airport:桑给巴尔机场
 zanzibar and arusha:桑给巴尔和阿鲁沙
 zanzibar and maputo:桑给巴尔和马普托
+zanzibar archipelago:桑給巴爾群島
 zanzibar archipelago:桑给巴尔群岛
 zanzibar beach:桑给巴尔海滩
 zanzibar begin:桑给巴尔开始
@@ -1638,9 +1665,12 @@ zanzibar international airport:桑给巴尔国际机场
 zanzibar international film festival:桑给巴尔国际电影节
 zanzibar international:桑给巴尔国际
 zanzibar is african:桑给巴尔是非洲人
+zanzibar island:桑給巴爾岛
 zanzibar island:桑给巴尔岛
+zanzibar islands:桑给巴尔群岛
 zanzibar jih a střed:南安古迦區
 zanzibar leopard:桑給巴爾豹
+zanzibar leopard:桑给巴尔豹
 zanzibar merge:桑给巴尔合并
 zanzibar město a západ:桑給巴爾西區
 zanzibar national football team:桑給巴爾足球代表隊
@@ -1657,6 +1687,7 @@ zanzibar region:桑给巴尔地区
 zanzibar residents:桑给巴尔居民
 zanzibar resort:桑给巴尔度假村
 zanzibar revolution:桑給巴爾革命
+zanzibar revolution:桑给巴尔革命
 zanzibar room:桑给巴尔房间
 zanzibar sever:北安古迦區
 zanzibar sjever:北安古迦區
@@ -1892,6 +1923,7 @@ zaoqiangdongzi park:枣强董子公园
 zaoqiao daxi post office:造橋大西郵局
 zaoqiao post office:造橋郵局
 zaoqiao railway station:造橋車站
+zaoqiao station:造橋站
 zaoqiao village:造橋村
 zaoqiao:zào qiáo
 zaoqiao:造桥
@@ -2253,6 +2285,7 @@ zaporizhzhia international airport:扎波羅熱國際機場
 zaporizhzhia nuclear power plant:札波羅熱核電廠
 zaporizhzhia oblast:扎波羅熱州
 zaporizhzhia raion:扎波羅熱區
+zaporizhzhia region:扎波罗热地区
 zaporizhzhia state medical university:扎波罗热州医科大学
 zaporizhzhia state:扎波罗热州
 zaporizhzhia thermal power station:扎波罗热热电站
@@ -2346,6 +2379,7 @@ zaporîjya:扎波罗热 / 札波羅熱
 zaporîjya:札波羅熱
 zapotal district:薩波塔爾區
 zapote:薩波特區
+zapotec civilisation:薩波特克文明
 zapotec civilization:薩波特克文明
 zapotec languages:萨波特克语
 zapotec peoples:萨波特克人
@@ -2397,21 +2431,26 @@ zaraasuchus:刺猬鳄属
 zarafasaura oceanis:窈頸龍屬
 zarafchan:扎拉夫尚
 zarafshan airport:札拉夫尚機場
+zarafshan river:扎拉夫尚河
 zarafshan:扎拉夫尚
+zarafshon river:扎拉夫尚河
 zarafshon:扎拉夫尚
 zarafshon:泽拉夫尚河
 zarafszan:泽拉夫尚河
 zarafşan:扎拉夫尚
 zarafšanas:扎拉夫尚
+zaragoza airport:萨拉戈萨机场
 zaragoza airport:薩拉戈薩機場
 zaragoza and madrid:萨拉戈萨和马德里
 zaragoza district:薩拉戈薩區
 zaragoza exhibition:萨拉戈萨展览
 zaragoza logistics center:萨拉戈萨物流中心
 zaragoza logistics:萨拉戈萨物流
+zaragoza museum:萨拉戈萨博物馆
 zaragoza professionals:萨拉戈萨专业人员
 zaragoza province:萨拉戈萨省
 zaragoza team:萨拉戈萨团队
+zaragoza university:萨拉戈萨大学
 zaragoza:札拉哥沙
 zaragoza:萨拉戈萨
 zaragozako unibertsitatea:沙拉哥薩大學
@@ -2439,6 +2478,7 @@ zaranj:扎兰季
 zaranj:扎兰季/扎蘭季
 zaranj:扎蘭季
 zarapicos:萨拉皮科斯
+zarasai airport:扎拉賽機場
 zarasai district municipality:扎拉賽區
 zarasai:扎拉賽
 zarasay:扎拉賽
@@ -2556,6 +2596,7 @@ zarqa governorate:扎爾卡省
 zarqa govrenorate:扎爾卡省
 zarqa guvernement:扎爾卡省
 zarqa river:扎卡河
+zarqa university:扎尔卡大學
 zarqa university:扎爾卡大學
 zarqa:扎尔卡
 zarqa:扎爾卡省
@@ -2869,6 +2910,7 @@ zawchan:扎布汗省
 zawgyi river:照济河
 zawichost:扎維霍斯特
 zawiercie county:扎維爾切縣
+zawiercie county:扎维尔切县
 zawiercie:扎维尔切
 zawisza bydgoszcz:薩維斯沙比得哥什足球俱樂部
 zawisza the black:黑扎維沙
@@ -2904,6 +2946,7 @@ zayin river:扎音河
 zayou:zāyóu xiāng
 zayou:扎油乡
 zaysan gölü:斋桑泊
+zaysan lake:斋桑湖
 zaysan:斋桑
 zaysan:斋桑泊
 zaysanmeer:斋桑泊

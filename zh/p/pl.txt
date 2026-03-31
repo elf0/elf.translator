@@ -672,6 +672,7 @@ placenta and fetus:胎盤和胎兒
 placenta barrier:胎盤屏障
 placenta cake:胎盘蛋糕
 placenta contain:胎盤包含
+placenta disease:胎盤疾病
 placenta praevia:前置胎盤
 placenta:胎盤
 placental abruption:胎盤早期剝離
@@ -1148,6 +1149,7 @@ plain road:平坦的路
 plain she:平原她
 plain snake eel:單色蛇鰻
 plain state:平原状态
+plain street:平原街道
 plain to:平原到
 plain tobacco packaging:简易烟盒计划
 plain towards:平原向
@@ -1181,6 +1183,7 @@ plaines wilhems district:威廉平原區
 plaines wilhems:威廉平原區
 plainfaing:普兰凡
 plainfield township:普莱恩菲尔德镇区
+plainfield township:普萊恩菲爾德鎮區
 plainfield:普萊恩菲爾德
 plainfin grenadier:岐异凹腹鳕
 plainoiseau:普莱努瓦索
@@ -2197,6 +2200,7 @@ plane and a sphere:平面和一个球面
 plane and benzene:平面与苯
 plane and center:平面和中心
 plane and control plane:平面和控制平面
+plane angle:平面角
 plane applications:平面应用程序
 plane area:平面面积
 plane art glass:平面艺术玻璃
@@ -2231,6 +2235,8 @@ plane food:平面食品
 plane force:平面力
 plane functions:平面功能
 plane garden:平面花园
+plane geometry:平面几何学
+plane graph:平面图形
 plane grid:平面网格
 plane guitar:平面吉他
 plane hardware:平面硬件
@@ -2238,6 +2244,7 @@ plane image:平面图像
 plane impression:平面印象
 plane include:平面包括
 plane insert:平面插入
+plane joint:平面关节
 plane joint:滑動關節
 plane landing:平面登陆
 plane layout:平面布局
@@ -2249,6 +2256,7 @@ plane maintain:平面维护
 plane map:平面地图
 plane mark:平面标记
 plane media:平面媒体
+plane mirror:平面鏡
 plane motion:平面运动
 plane of incidence:入射平面
 plane of material culture:平面的物質文化
@@ -2285,6 +2293,8 @@ plane services:平面服务
 plane simple:平面简单
 plane software:平面软件
 plane solutions:平面解决方案
+plane space:平面空間
+plane space:平面空间
 plane stress:平面應力
 plane structure:平面结构
 plane suggest:平面建议
@@ -2314,6 +2324,7 @@ plane world:平面世界
 plane-wave:平面波
 plane:平面
 planebruch:普拉讷布鲁赫
+planegg station:普拉内格站
 planegg:普拉内格
 planell de valdai:瓦爾代高地
 planes and line:平面和线
@@ -2400,6 +2411,7 @@ planet her:蜜桃星球
 planet hold:行星拥有
 planet hollywood:行星好莱坞
 planet hoth:行星霍斯
+planet human:行星人
 planet hunter members:行星猎人成员
 planet hunter:行星猎人
 planet hunters:行星獵人
@@ -2479,6 +2491,7 @@ planet resources:行星资源
 planet retrograde:行星逆行
 planet rock:行星岩石
 planet rotate:行星旋转
+planet satellite:行星卫星
 planet saturn:行星土星
 planet scattering:行星散射
 planet search:行星搜索
@@ -2500,6 +2513,8 @@ planet still:行星仍然
 planet stories:行星故事
 planet suffer:行星遭受
 planet surface:行星表面
+planet system:行星系統
+planet system:行星系统
 planet test flight:行星测试飞行
 planet test:行星测试
 planet then:行星然后
@@ -2517,6 +2532,7 @@ planet uranus:行星天王星
 planet variable:行星变量
 planet venus:行星金星
 planet victoria:行星维多利亚
+planet voyage:行星航行
 planet wave:行星波
 planet we:行星我们
 planet when you:行星当你
@@ -2537,6 +2553,7 @@ planetarium negara:国家天文馆
 planetarium negara:國家天文館
 planetarium:天象儀
 planetariumas:天象儀
+planetary achondrite:行星的無粒隕石
 planetary and spiritual:行星的和精神的
 planetary annihilation:横扫千星
 planetary army:行星的军队
@@ -3402,6 +3419,7 @@ plant cover:植物覆盖
 plant coverage:植物覆盖
 plant cultivar:植物栽培品种
 plant cultivation:植物栽培
+plant cuticle:植物表皮
 plant cuticle:植物角质层
 plant damage:植物损害
 plant data resources:植物数据资源
@@ -3459,6 +3477,7 @@ plant emissions:植物排放
 plant empire:植物帝国
 plant energy:植物能量
 plant enzyme:植物酶
+plant epithet:植物修飾詞
 plant equipment:植物设备
 plant essential oil:植物精油
 plant evidence:植物证据
@@ -3543,7 +3562,9 @@ plant genome:植物基因組
 plant genome:植物基因组
 plant genomics:植物基因組學
 plant genus:植物属
+plant geographer:植物地理學家
 plant geography:植物地理
+plant geography:植物地理学
 plant germination:植物发芽
 plant glycoside:植物糖苷
 plant gravity:植物重力
@@ -3641,6 +3662,7 @@ plant lighting:植物照明
 plant lignan:植物木脂素
 plant lignin:植物木质素
 plant like:植物喜欢
+plant list:植物列表
 plant litter:凋落物
 plant look:植物看
 plant looks like:植物看起来像
@@ -3654,6 +3676,7 @@ plant marijuana:植物大麻
 plant market:植物市场
 plant markets include:植物市场包括
 plant markets:植物市场
+plant master:植物大师
 plant material and animal product:植物材料和动物产品
 plant material seize:植物材料抓住
 plant material:植物材料
@@ -3717,6 +3740,7 @@ plant nutrition:植物营养
 plant nutrition:植物营养学
 plant observation:植物观察
 plant odor:植物气味
+plant oil:植物油
 plant omics data:植物组学数据
 plant omics:植物组学
 plant or animal biology:植物或动物生物学
@@ -3746,6 +3770,7 @@ plant or tree:植物或树
 plant order:植物订单
 plant organ:植物器官
 plant organisms:植物生物
+plant organization:植物组织
 plant origin:植物来源
 plant origin:植物起源
 plant ovary:植物卵巢
@@ -3917,6 +3942,7 @@ plant selection:植物选择
 plant self:植物自我
 plant senescence:植物老化
 plant sensor:植物传感器
+plant sexuality:植物性别
 plant should do:植物应该做
 plant signal:植物信号
 plant size:植物大小
@@ -3942,6 +3968,8 @@ plant start:植物开始
 plant stem cell:植物干细胞
 plant stem:植物茎
 plant stem:茎
+plant steroid:植物甾体
+plant sterol:植物固醇
 plant still:植物仍然
 plant stop:植物停止
 plant stress:植物压力
@@ -4000,6 +4028,7 @@ plant variety:植物多样性
 plant vegetable:植物蔬菜
 plant village:植物村庄
 plant vineyard:植物葡萄园
+plant virology:植物病毒学
 plant virus infection:植物病毒感染
 plant virus:植物病毒
 plant viruses and viroid:植物病毒和类病毒
@@ -4013,6 +4042,7 @@ plant will:植物会
 plant william:植物威廉
 plant without:植物没有
 plant workers:植物工人
+plant works:植物工厂
 plant world through:植物世界通过
 plant world:植物世界
 plant wound:植物伤
@@ -4491,6 +4521,7 @@ plas point:普拉斯角
 plasan sandcat:沙貓裝甲車
 plascheid:普拉沙伊德
 plasco building:普拉斯科大廈
+plasencia cathedral:皮亚琴察主教座堂
 plasencia:普拉森西亞
 plasencia:皮亚琴察
 plasenn ar c'honkord:协和广场
@@ -6033,6 +6064,7 @@ platform advantage:平台优势
 platform advantages:平台优势
 platform adventure game:平台冒险游戏
 platform adventure:平台冒险
+platform adventure:平台冒險
 platform again:平台再
 platform agnosticism:平台不可知论
 platform agreement:平台协议
@@ -6688,6 +6720,7 @@ platform game project:平台游戏项目
 platform game services:平台游戏服务
 platform game studio:平台游戏工作室
 platform game:平台游戏
+platform games:平台游戏
 platform gap filler:站台伸缩踏板
 platform garden:平台花园
 platform gateway:平台网关
@@ -6818,6 +6851,7 @@ platform issue:平台问题
 platform issues:平台问题
 platform it:平台它
 platform jump:平台跳
+platform jumping:平台跳躍
 platform keep:平台保持
 platform key performance:平台关键性能
 platform key:平台关键
@@ -6938,6 +6972,7 @@ platform name:平台名字
 platform name:平台名称
 platform need:平台需要
 platform needs:平台需要
+platform nest:平台巢
 platform network operating system:平台网络操作系统
 platform network performance measurement:平台网络性能测量
 platform network service:平台网络服务
@@ -7817,6 +7852,7 @@ platforms harm:平台伤害
 platforms has been:平台已经
 platforms have been:平台已经
 platforms have different security:平台有不同的安全
+platforms height:平台高度
 platforms help:平台帮助
 platforms hold:平台拥有
 platforms hope:平台希望
@@ -8308,8 +8344,10 @@ plautus once said:普劳图斯曾经说
 plautus once:普劳图斯曾经
 plautus:普劳图斯
 plauzat:普洛扎
+plav lake:普拉夫湖
 plav municipality:普拉夫市鎮
 plav:普拉夫
+plava river:普拉夫河
 plava:普拉夫
 plavas:普拉夫
 plavi nil:青尼罗州
@@ -8323,6 +8361,7 @@ plavsky district:普拉夫斯克區
 plawres sanshiro:无敌三四郎
 plawsk:普拉夫斯克
 plaxomicrus:广翅眼天牛属
+plaxton president:柏斯敦总统
 plaxton president:柏斯敦總統
 plaxton:柏斯敦
 play a country:玩一个国家
@@ -9682,6 +9721,7 @@ players guess:玩家猜
 players had frame rate:玩家有帧率
 players had never seen:玩家从未见过
 players hand:玩家手
+players handbook:玩家手冊
 players hands:玩家手
 players has one:玩家有一
 players have basic:玩家有基本的
@@ -10190,6 +10230,7 @@ plaza of ocean scene:阅海广场
 plaza of our lady of the pillar:圣柱广场
 plaza offer:廣場提供
 plaza orkid:兰花 广场
+plaza park:廣場公園
 plaza perabot ldp:家具广场
 plaza point:普拉澤角
 plaza premium lounge:環亞優逸庭貴賓室
@@ -11928,6 +11969,7 @@ pleasure education:愉快教育
 pleasure is you:欢愉是你
 pleasure or death:愉快或死亡
 pleasure or happiness:愉快或幸福
+pleasure palace:愉快宮殿
 pleasure principle:愉快原则
 pleasure talk:愉快谈话
 pleasure will:欢愉会
@@ -12514,6 +12556,7 @@ plot these distribution:绘制这些分布
 plot these:绘制这些
 plot this:绘制这
 plot twist:大逆轉
+plot twist:绘制扭曲
 plot you:绘制你
 plot your:绘制你的
 plot:绘制
@@ -12543,6 +12586,7 @@ ploufragan:普卢弗拉冈
 plougar:普卢加尔
 plougasnou:普卢加努
 plough driver:犁司机
+plough flag:犁旗
 plough horse:犁马
 plough island:普洛格島
 plough once:犁一次
@@ -12593,7 +12637,9 @@ plovdiv peak:普洛夫迪夫峰
 plovdiv province:普羅夫迪夫州
 plovdiv regional ethnographic museum:普羅夫迪夫區域民族誌博物館
 plovdiv regional historical museum:普羅夫迪夫區域史博物館
+plovdiv stadium:普羅夫迪夫體育場
 plovdiv synagogue:普羅夫迪夫猶太會堂
+plovdiv university:普罗夫迪夫大学
 plovdiv:普罗夫迪夫
 plovdiv:普罗夫迪夫州
 plovdiv:普羅夫迪夫
@@ -12715,6 +12761,7 @@ plum size:李子大小
 plum tomato:李子番茄
 plum tree:李子树
 plum valley:梅花村
+plum wine:李子酒
 plum:李子
 pluma porgy:小頭蘆鯛
 plumas national forest:普卢默斯国家森林
@@ -12834,6 +12881,7 @@ plus about:加大约
 plus afternoon:加下午
 plus air:加空气
 plus all:加所有
+plus alliance:加盟
 plus alumni are some:加校友是一些
 plus alumni:加校友
 plus an enormous:加一个巨大的
@@ -13394,6 +13442,7 @@ plužinė:普盧日內
 plužne:普盧日涅
 plyevlya:普列夫利亚
 plyevlya:普列夫利亞
+plymouth airport:普利茅夫機場
 plymouth airport:普利茅斯机场
 plymouth and coventry:普利茅斯和考文垂
 plymouth and devon:普利茅斯和德文郡
@@ -13449,9 +13498,12 @@ plymouth shooting:普利茅斯枪击案
 plymouth sound:普利茅斯声音
 plymouth state university:普利茅斯州立大學
 plymouth state:普利茅斯州
+plymouth station:普利茅斯站
 plymouth studio:普利茅斯工作室
+plymouth sutton:普利茅斯萨顿
 plymouth synagogue:普利茅斯猶太會堂
 plymouth theatre:普利茅斯剧院
+plymouth township:普利茅斯鎮區
 plymouth township:普利茅斯镇区
 plymouth university:普利茅斯大学
 plymouth university:普利茅斯大學
@@ -13464,6 +13516,7 @@ plynaukštės regionas:高原区
 plyskiv:普利斯基夫
 plysky:普利斯基
 plyushchikha:普柳什奇哈
+plyussa river:普柳萨河
 plyussa:普柳萨
 plyussky district:普柳薩區
 plywood absolute:胶合板绝对

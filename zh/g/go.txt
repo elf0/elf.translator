@@ -73,6 +73,7 @@ go before:去之前
 go bell:去钟
 go best:去最好
 go better:去更好
+go between:乡间
 go big read:去大读
 go big red:去大红色
 go big:去大
@@ -450,6 +451,7 @@ go seven:去七
 go several times:去几次
 go sharks:去鲨鱼
 go she:去她
+go shiina:去中國
 go shiina:椎名豪
 go shopping:去購物
 go shower:去淋浴
@@ -624,6 +626,7 @@ go until:去直到
 go up and down:去向上和向下
 go up:去向上
 go using:去使用
+go vacation:去度假
 go variants:圍棋變體
 go visit him:去拜访他
 go visit his parents:去拜访他的父母
@@ -691,6 +694,7 @@ go-up commercial building:高明商業大廈
 go:乡
 go:去
 go:鄉
+goa airport:果阿邦機場
 goa and kerala:果阿邦和喀拉拉邦
 goa building:高雅大廈
 goa gajah:象洞
@@ -1503,6 +1507,7 @@ goat embryo:山羊胚胎
 goat farm:山羊农场
 goat farmer:山羊农民
 goat fee:山羊费用
+goat girl:山羊姑娘
 goat go:山羊去
 goat had been:山羊已经
 goat has been:山羊已经
@@ -1837,10 +1842,13 @@ gobivenator:戈壁猎龙属
 goblet cell:杯状细胞
 goblin army event:哥布林军队事件
 goblin army:哥布林军队
+goblin commander:哥布林指挥官
 goblin feet:小妖精的腳
 goblin invasion:哥布林入侵
+goblin king:哥布林王
 goblin market:哥布林市场
 goblin market:精靈市場
+goblin mode:哥布林模式
 goblin shark:欧氏尖吻鲛
 goblin slayer:哥布林殺手
 goblin:哥布林
@@ -1885,6 +1893,7 @@ gocheon-dong:古川洞
 gocheon-ri:古川里
 gochi station:五知站
 gochon station:古村站
+gochon station:高村站
 gochon:古村
 gochon:高村
 gochon:高村邑
@@ -2504,6 +2513,8 @@ god from their:上帝从他们的
 god from:上帝从
 god from:神从
 god game:上帝模擬遊戲
+god game:上帝游戏
+god games:上帝游戏
 god gene:上帝基因
 god gene:神基因
 god general:神一般的
@@ -3065,6 +3076,7 @@ god might use prayer card:神可能使用祷告卡
 god might use prayer:神可能使用祷告
 god mind:上帝心智
 god mission:上帝使命
+god mode:上帝模式
 god mode:神模式
 god model:上帝模型
 god moloch:神摩洛克
@@ -3461,7 +3473,9 @@ god tell him:上帝告诉他
 god tell their friends:上帝告诉他们的朋友
 god tell:上帝告诉
 god tell:神告诉
+god temple:上帝庙
 god temple:城隍庙
+god temple:神庙
 god test:上帝测试
 god thank:上帝感谢
 god that:上帝那
@@ -3779,6 +3793,7 @@ goddard earth:戈达德地球
 goddard hall:戈达德大厅
 goddard high resolution spectrograph:戈達德高解析攝譜儀
 goddard institute for space studies:戈達德太空研究所
+goddard institute:戈达德学院
 goddard institute:戈达德研究所
 goddard investigate:戈达德调查
 goddard invite:戈达德邀请
@@ -3924,6 +3939,7 @@ goddess yes:女神是
 goddess zhu sae:註生娘娘
 goddess:女神
 goddotan:神之舌
+gode airport:戈德機場
 gode:戈德
 godeanu:戈迪亞努鄉
 godech municipality:戈代奇市鎮
@@ -4247,6 +4263,7 @@ goguryeo and baekje:高句丽和百济
 goguryeo art:高句丽美术
 goguryeo controversies:高句丽争议
 goguryeo history:高句丽历史
+goguryeo kingdom:高句丽王国
 goguryeo language:高句麗語
 goguryeo revival movements:高句丽复兴运动
 goguryeo tombs:高句丽古墓群
@@ -4276,6 +4293,7 @@ goh zha lang:古早人
 gohad:戈哈德
 gohado:高下岛
 gohado:高下島
+gohan station:古汗站
 gohan-eup:古汗邑
 gohan:古汗
 gohan:古汗邑
@@ -4494,10 +4512,12 @@ gokurakubashi bridge:极乐桥
 gokurakubashi bridge:極樂橋
 gokurakubashi station:极乐桥站
 gokurakugai:極樂街
+gokurakuji station:極樂寺站
 gokurakuji station:極樂寺車站
 gokurakuji:极乐寺
 gokurakuji:極樂寺
 gokusen:極道鮮師
+gokyo lake:墎其爾湖
 gokyo:墎其爾
 gokyu:后休
 gokyu:後休
@@ -4554,6 +4574,7 @@ golansko višavje:戈蘭高地
 golanské výšiny:戈兰高地
 golanské výšiny:戈蘭高地
 golapganj upazila:戈納甘傑烏帕齊拉
+golasecca culture:戈拉塞卡文化
 golasecca:戈拉塞卡
 golatang:gēlètuó xiāng
 golatang:歌乐沱
@@ -4773,6 +4794,7 @@ gold angel:金天使
 gold angel:金子天使
 gold animals:金动物
 gold apartment:金公寓
+gold apollo:金阿波罗
 gold apollo:金阿波羅
 gold appears:金出现
 gold apple watch:金苹果手表
@@ -4821,6 +4843,7 @@ gold banks:金银行
 gold bar and coin:金条和硬币
 gold bar list:金條列表
 gold bar purchase:金条购买
+gold bar:金巴爾
 gold bar:金条
 gold bar:金條
 gold bar:金酒吧
@@ -4840,6 +4863,8 @@ gold bean:金豆
 gold bear market:金熊市
 gold bear:金熊
 gold beard:金胡子
+gold beauty:金美
+gold beauty:金美人
 gold became:金成为
 gold because:金因为
 gold become:金成为
@@ -4871,15 +4896,18 @@ gold box television:金盒子电视
 gold box:金盒子
 gold boy:金男孩
 gold bracelet:金手镯
+gold branch:金枝
 gold brand:金品牌
 gold brick:金砖
 gold brick:金磚
 gold bridge apartment:金桥公寓
+gold bridge:金子橋
 gold bridge:金桥
 gold bridge:金橋
 gold brother:金兄弟
 gold bucket:金桶
 gold budget:金预算
+gold buffalo:金水牛
 gold bug:金虫
 gold bull:金公牛
 gold business card:金名片
@@ -4933,6 +4961,7 @@ gold choice:金选择
 gold choir:金合唱
 gold cigar:金雪茄
 gold cigarette-case:金香烟盒
+gold circle:金圆
 gold city:金城市
 gold class:金类
 gold clause:金条款
@@ -5066,6 +5095,7 @@ gold coast would:黄金海岸将
 gold coast yacht and country club:黃金海岸遊艇會
 gold coast yacht and country club:黃金海岸鄉村俱樂部遊艇會
 gold coast:加纳
+gold coast:金岸
 gold coast:金海岸
 gold coast:黄金海岸
 gold coat:金大衣
@@ -5118,6 +5148,7 @@ gold continues:金继续
 gold contract:金合同
 gold control:金控制
 gold copper:金铜
+gold coral:金珊瑚
 gold corporation:金公司
 gold cost:金成本
 gold could:金能
@@ -5125,6 +5156,7 @@ gold council:金委员会
 gold council:金理事会
 gold country:金国家
 gold courses:金课程
+gold cove:金海湾
 gold cover:金覆盖
 gold creator:金创造者
 gold credit card:金信用卡
@@ -5187,12 +5219,15 @@ gold dot:金点
 gold dragon property agency:金龍地產
 gold dragon property agency:金龙地产
 gold dragon:金龙
+gold dream:金夢
+gold dream:金梦
 gold drought:金干旱
 gold drum:金鼓
 gold ducat:金达克特
 gold dust day gecko:马达加斯加金粉守宫
 gold dust:金尘
 gold eagle awards:金鹰奖
+gold eagle:金鵰
 gold eagle:金鹰
 gold ear:金耳
 gold ear:金耳朵
@@ -5237,6 +5272,7 @@ gold fashion jewellery design:金时尚珠宝设计
 gold fashion:金时尚
 gold field development:金领域发展
 gold field villa:富豪花園
+gold field:金草地
 gold field:金领域
 gold fields:金领域
 gold figurine:金俑
@@ -5245,6 +5281,7 @@ gold film:金子电影
 gold find:金发现
 gold finger:金手指
 gold fire:金火
+gold fish:金鱼
 gold five:金五
 gold flag:金旗
 gold flax:金亚麻
@@ -5255,6 +5292,7 @@ gold food:金食品
 gold forum:金论坛
 gold forums:金论坛
 gold foundation:金基金
+gold four:金四
 gold franc:金法郎
 gold freckle:金雀斑
 gold freedom:金自由
@@ -5273,6 +5311,7 @@ gold future:金未来
 gold futures contract:金期货
 gold game:金游戏
 gold games:金游戏
+gold gang:金岗村
 gold garden kitchen:金苑小館 gold garden kitchen
 gold generate:金生成
 gold geologist:金地质学家
@@ -5430,6 +5469,7 @@ gold lack:金缺乏
 gold lacquer:金漆
 gold lake garden:金湖花園
 gold lake noodle restaurant:金湖粉麵茶餐廳
+gold lake:金湖
 gold lamp:金灯
 gold land 8 property agency:金聯8地產代理
 gold land:金土地
@@ -5443,7 +5483,10 @@ gold leaf experiment:金箔实验
 gold leaf furniture:金箔家具
 gold leaf shoe:金箔鞋
 gold leaf:今玉成
+gold leaf:金叶
 gold leaf:金箔
+gold leaf:金葉
+gold leaf:金葉子
 gold left foot:金左脚
 gold left-hand:金左手
 gold left:金左
@@ -5535,6 +5578,7 @@ gold medal team:金牌队
 gold medal website:金牌網站
 gold medal website:金牌网站
 gold medal:金牌
+gold medal:金獎章
 gold medalist and four:金牌获得者和四
 gold medalist brian:金牌获得者布莱恩
 gold medalist is japanese:金牌获得者是日本人
@@ -5665,11 +5709,13 @@ gold path:金路径
 gold pattern:金模式
 gold payment:金支付
 gold peak:金山科技
+gold peak:金峰
 gold peak:金峰值
 gold pear orchard:黄金梨园
 gold pen and ink:金笔和墨水
 gold pen:金笔
 gold pencil:金铅笔
+gold penny:金便士
 gold per month:金每月
 gold per:金每
 gold period:金时期
@@ -5793,6 +5839,7 @@ gold river logistics:金河物流
 gold river:金河
 gold road:金路
 gold robbery:金抢劫
+gold rock:金岩石
 gold rocking horse:金摇马
 gold rolex:金劳力士
 gold roof:金屋顶
@@ -5834,6 +5881,7 @@ gold series:金系列
 gold service:金服务
 gold services:金服务
 gold set:金设置
+gold shadow:金影
 gold shareholder:金股东
 gold shell:金壳
 gold shield:金盾
@@ -5866,6 +5914,7 @@ gold spoon:金勺
 gold spoon:金匙
 gold sports:金运动
 gold spot mullet:金點鮻
+gold spring:金春
 gold stainless steel:金不锈钢
 gold standard and bitcoin:金本位和比特币
 gold standard and global capitalism:金本位和全球资本主义
@@ -5882,6 +5931,8 @@ gold standard policy:金本位政策
 gold standard world:金本位世界
 gold standard would:金本位将
 gold standard:金本位
+gold standard:金标准
+gold standards:金标准
 gold start:金开始
 gold state:金国家
 gold state:金州
@@ -5945,6 +5996,10 @@ gold tourism:金旅游
 gold tower will include:金塔将包括
 gold tower:金塔
 gold town barbecued:吉野烤肉飯
+gold town:金城镇
+gold town:金鄉鎮
+gold township:金鎮區
+gold township:金镇区
 gold trade data:金贸易数据
 gold trade one gram:金贸易一克
 gold trade route:金贸易路线
@@ -5975,6 +6030,7 @@ gold uniform:金制服
 gold union commercial building:金佑商业大厦
 gold union commercial building:金佑商業大廈
 gold unit:金单位
+gold universe:金宇宙
 gold unlock:金解锁
 gold until:金直到
 gold up:金向上
@@ -6034,6 +6090,7 @@ gold would become:金将成为
 gold would:金将
 gold yellow:金黄色
 gold you:金你
+gold yuan:金圓
 gold-copper project:金铜项目
 gold-jade culture:金玉文化
 gold-medal bull:金牌公牛
@@ -6123,6 +6180,7 @@ golden age violin:黄金时代小提琴
 golden age:黄金时代
 golden ages of china:中国历代治世
 golden agri resources:金光農業資源
+golden airport:高登機場
 golden algae:金藻
 golden angelfish:金刺尻魚
 golden angle:黃金角
@@ -6259,6 +6317,7 @@ golden china:大金冠城
 golden city building:金城大廈
 golden city:金捷市
 golden cloud court:金霞閣
+golden clouds:高登云
 golden coast hotel:黄金海岸大酒店
 golden coast shrimp restaurant:黄金海岸
 golden coast:金灣海岸
@@ -6314,6 +6373,7 @@ golden dragon:金龍
 golden dragon:金龍酒店
 golden dragon:金龍餐馆
 golden dragon:金龙酒店
+golden dragon:高登龙
 golden drum river bridge:gamgu gong daaikiu
 golden drum river bridge:金鼓江大桥
 golden drum river bridge:金鼓江大橋
@@ -6336,6 +6396,7 @@ golden era plaza:金雞廣場
 golden eyes:金的眼睛
 golden fair mansion:金輝大廈
 golden fairytale fanfare:金色童话盛典
+golden family:高登科
 golden first road:黃金一路
 golden five years:金的五年
 golden five:金的五
@@ -6593,6 +6654,7 @@ golden mole:金毛鼹科
 golden monkey stamp:猴票
 golden monkey star forest pavilion:密林金丝猴馆
 golden mount:金山寺
+golden mountain:高登山
 golden mountains of altai:金山-阿尔泰山
 golden mountains of altai:阿爾泰金山
 golden mouse:赭鼠
@@ -7711,6 +7773,7 @@ golmayo:戈尔马约
 golmbach:戈尔姆巴赫
 golmsdorf:戈尔姆斯多夫
 golmud airport:格尔木机场
+golmud county:格尔木县
 golmud east railway station:格尔木东站
 golmud east:格尔木东
 golmud land reclamation co. ltd.:格尔木农垦有限公司
@@ -7906,7 +7969,9 @@ gomel connect:戈梅利连接
 gomel district:戈梅利區
 gomel land:戈梅利土地
 gomel palace:戈梅利宮
+gomel region:戈梅利地区
 gomel region:戈梅利州
+gomel regions:戈梅利地区
 gomel residents:戈梅利居民
 gomel university:戈梅利大学
 gomel:哥麥利
@@ -8036,6 +8101,8 @@ goncourt brothers:龔古爾兄弟
 goncourt station:龔古爾站
 gond:gè gòng dé
 gonda district:貢達縣
+gondar airport:貢德爾機場
+gondar province:貢德爾省
 gondar:貢德爾
 gondecourt:贡德库尔
 gondenans les moulins:贡德南莱穆兰
@@ -8122,9 +8189,12 @@ gong clam yard:龚家院子
 gong county:gǒng xiàn
 gong county:珙县
 gong county:珙縣
+gong county:贡县
 gong deok gwi:孔德貴
 gong dingzi:龚鼎孳
+gong drum:锣鼓
 gong du:龔都
+gong gong:贡贡
 gong guan park (ziyou rd.):gōngguǎngōngyuán(zìyóulù)
 gong guan park (ziyou rd.):ㄍㄨㄥㄍㄨㄢˇㄍㄨㄥㄩㄢˊ(ㄗˋㄧㄡˊㄌㄨˋ)
 gong guan park (ziyou rd.):公館公園(自由路)
@@ -8415,6 +8485,7 @@ gongchen tank:功臣號坦克
 gongchen tower:拱辰楼
 gongchen:拱辰街道
 gongcheng avenue:共城大道
+gongcheng county:恭城县
 gongcheng new village:公誠新村
 gongcheng park:公誠公園
 gongcheng park:公诚公园
@@ -8547,6 +8618,7 @@ gongfu xincun station:共富新村站
 gongfu xincun:共富新村
 gongfu:共富
 gongfucun:共富村
+gongga airport:贡嘎机场
 gongga avenue:贡嘎大道
 gongga cliff hot spring hotel:贡嘎翔云悬崖温泉酒店
 gongga tso:gòng gā cuò
@@ -8644,6 +8716,7 @@ gongguan rd. & chengde rd. intersection:公馆承德路口
 gongguan road intersection:公館路口
 gongguan road:公舘路
 gongguan road:公館路
+gongguan station:公館站
 gongguan street:公館街
 gongguan township office:公館鄉公所
 gongguan township office:公馆乡公所
@@ -8786,6 +8859,7 @@ gonghua cheng station:巩华城站
 gonghua street:公華街
 gonghua zhengjie:宫花正街
 gonghua:共华镇
+gonghuacheng station:巩华城站
 gonghuacheng:巩华城
 gonghuacun:宫花村
 gonghuakeng:公華坑
@@ -9306,6 +9380,8 @@ gongqing:gòngqīngchéng shì
 gongqing:共青城市
 gongqingcheng city:gòngqīngchéng shì
 gongqingcheng city:共青城市
+gongqingcheng east:共青城东
+gongqingcheng east:共青城東
 gongqingcheng railway station:共青城站
 gongqingcheng:gòngqīngchéng shì
 gongqingcheng:共青城
@@ -9922,6 +9998,7 @@ gongyingzicun:公营子村
 gongyingzitun:公营子屯
 gongyiwei:公益围
 gongyiwei:公益圍
+gongyixiqiao station:公益西桥站
 gongyixiqiao:公益西桥
 gongyixudi'er community:公益圩第二社区
 gongyixudiyi community:公益圩第一社区
@@ -10137,6 +10214,7 @@ gongzhengzhuangcun:公正庄村
 gongzhong:共中
 gongzhongqu:公中渠
 gongzhu temple:公主寺
+gongzhu temple:公主庙
 gongzhu:公主
 gongzhuan road:gōngzhuān lù
 gongzhuan road:工专路
@@ -14211,6 +14289,7 @@ good start:善开始
 good start:好的开始
 good state practice:好的国家实践
 good state support:好的状态支持
+good state:善州
 good state:好的国家
 good state:好的状态
 good statement:好的语句
@@ -14816,10 +14895,12 @@ good wide area network:好的广域网
 good wide:好的宽
 good width:好的宽度
 good wife:好的妻子
+good wikipedian:好的維基人
 good wildlife:好的野生动物
 good will clinic:好甘心診所
 good will come:好的会来
 good will hunting:心灵捕手
+good will:善会
 good will:好的会
 good wind:好的风
 good window manager:好的窗口管理器
@@ -14840,6 +14921,7 @@ good with light:善与光
 good witness:好的证人
 good wok:好的锅
 good wolf:善狼
+good woman:善女人
 good woman:好的女人
 good woman:好的女性
 good womb environment:好的子宫环境
@@ -15612,6 +15694,7 @@ google chief executive officer:谷歌首席执行官
 google chief scientist john:谷歌首席科学家约翰
 google chief scientist:谷歌首席科学家
 google china:谷歌中国
+google china:谷歌中國
 google choose:谷歌选择
 google class as well as:谷歌类以及
 google class:谷歌类
@@ -16675,6 +16758,7 @@ gorah salathian:戈拉赫萨拉蒂亚恩
 gorajde:戈拉日代
 gorak shep:高乐雪
 gorakhnath:郭拉洽
+gorakhpur airport:戈勒克布爾機場
 gorakhpur district:戈勒克布爾縣
 gorakhpur:戈勒克布尔
 gorakhpur:戈勒克布爾
@@ -16769,9 +16853,11 @@ gordon chung hoon:鍾雲
 gordon college:戈登学院
 gordon company:戈登公司
 gordon conference:戈登会议
+gordon constituency:戈登选区
 gordon construction:戈登建筑
 gordon continue:戈登继续
 gordon correctly:戈登正确地
+gordon county:戈登县
 gordon dam:戈登坝
 gordon davidson:戈登戴维森
 gordon decided:戈登决定
@@ -16800,10 +16886,12 @@ gordon inquiry:戈登调查
 gordon interview:戈登采访
 gordon is a still:戈登是一个仍然
 gordon is a very:戈登是一个非常
+gordon island:戈登岛
 gordon island:戈登島
 gordon john:戈登约翰
 gordon johnson:戈登约翰逊
 gordon kaufman:戈登考夫曼
+gordon lake:戈登湖
 gordon lam:林家棟
 gordon law:戈登法律
 gordon leave that:戈登离开那
@@ -16851,6 +16939,7 @@ gordon square:戈登广场
 gordon stairs:戈登楼梯
 gordon start:戈登开始
 gordon state:戈登州
+gordon station:古尔东站
 gordon stay in:戈登留在
 gordon street:戈登街
 gordon studio:戈登工作室
@@ -16868,6 +16957,7 @@ gordon too:戈登也
 gordon training:戈登培训
 gordon university:戈登大学
 gordon university:戈登大學
+gordon way:戈登路
 gordon will:戈登会
 gordon write:戈登写
 gordon wu:胡應湘
@@ -16892,6 +16982,8 @@ gorenflos:戈朗夫洛
 goreng goreng:剛剛族
 gorenstein ring:葛侖斯坦環
 gorev island:戈列夫島
+gorgan airport:戈尔甘机场
+gorgan county:戈尔甘县
 gorgan county:戈爾甘縣
 gorgan river:戈尔甘河
 gorgan:戈尔干
@@ -16914,6 +17006,7 @@ gorgeted sunangel:领蜂鸟
 gorgeted woodstar:粉髯林蜂鸟
 gorgias and plato:高爾吉亞与柏拉图
 gorgias:高爾吉亞
+gorgier castle:戈吉耶城堡
 gorgier:戈吉耶
 gorgoderidae:蛇颈科
 gorgoglione:戈尔戈廖内
@@ -17049,6 +17142,7 @@ goritia nova:新哥里察
 goritia nova:新戈里察
 goritsa rocks:戈里察岩
 gorizia castle:戈里齊亞城堡
+gorizia castle:戈里齐亚城堡
 gorizia statistical region:戈里察統計區
 gorizia:戈里齐亚
 gorj county:戈爾日縣
@@ -17245,6 +17339,7 @@ gorongosa district:戈龍戈薩區
 gorongosa national park:戈龍戈薩國家公園
 gorongosa:戈龍戈薩
 gorontalo language:哥伦打洛语
+gorontalo province:哥倫打洛省
 gorontalo regency:哥伦打洛县
 gorontalo:哥伦打洛省
 gorontalo:哥倫打洛
@@ -17297,6 +17392,7 @@ goryachy klyuch:戈里亞奇克柳奇
 goryak station:骨若站
 goryaçi klyuç:戈里亞奇克柳奇
 gorycja:戈里齐亚
+goryeo celadon:高麗青瓷
 goryeo food factory:高丽食料工厂
 goryeo language:高丽语
 goryeo military regime:武臣政權
@@ -17368,6 +17464,7 @@ gosamucheguk:高山邮局
 gosan 1(il)-dong:孤山1洞
 gosan 2(i)-dong:孤山2洞
 gosan 3(sam)-dong:孤山3洞
+gosan station:孤山站
 gosan-dong:gāoshān dòng
 gosan-dong:孤山洞
 gosan-dong:高山洞
@@ -17444,6 +17541,7 @@ goshu chu:dá wàng hé 2
 goshu chu:达旺河2
 gosi-ri:五西里
 gosincheon:古新恩川
+goslar county:戈斯拉尔县
 goslar:戈斯拉尔
 gosling islands:戈斯靈群島
 gosnay:戈奈
@@ -17508,6 +17606,7 @@ gospel begin:福音开始
 gospel blessing:福音祝福
 gospel book:四福音书
 gospel book:福音书
+gospel books:福音书
 gospel break:福音打破
 gospel bridge:福音桥
 gospel bridge:福音橋
@@ -17561,6 +17660,8 @@ gospel hill:福音小鎮
 gospel historian david:福音历史学家大卫
 gospel historian:福音历史学家
 gospel history:福音历史
+gospel hospital:福音医院
+gospel hospital:福音醫院
 gospel hotline:福音熱線
 gospel hour:福音小时
 gospel ideal:福音理想的
@@ -17594,6 +17695,7 @@ gospel magazine:福音杂志
 gospel magic:福音魔術
 gospel material:福音材料
 gospel means:福音意味着
+gospel meeting:福音會議
 gospel mention:福音提到
 gospel message:福音消息
 gospel message:福音訊息
@@ -17689,7 +17791,9 @@ gospel show:福音显示
 gospel singer:福音歌手
 gospel singing:福音歌唱
 gospel so:福音如此
+gospel song:福音歌
 gospel song:福音歌曲
+gospel songs:福音歌
 gospel spirit:福音精神
 gospel station:福音站
 gospel story:福音故事
@@ -17707,6 +17811,7 @@ gospel tradition:福音传统
 gospel train:福音火车
 gospel translations:福音翻译
 gospel truth:福音真理
+gospel tv:福音电视
 gospel until:福音直到
 gospel uses:福音使用
 gospel usually:福音通常
@@ -17832,6 +17937,7 @@ gothenburg archipelago:哥德堡群島
 gothenburg area:哥德堡地区
 gothenburg biomass:哥德堡生物质
 gothenburg book:哥德堡书
+gothenburg cathedral:哥德堡主教座堂
 gothenburg cathedral:哥特堡主教座堂
 gothenburg central station:哥德堡中央車站
 gothenburg culture:哥德堡文化
@@ -17847,6 +17953,7 @@ gothenburg is sweden:哥德堡是瑞典
 gothenburg metropolitan area:大哥德堡
 gothenburg municipality:哥德堡市镇
 gothenburg museum of art:哥特堡美術館
+gothenburg museum:哥德堡博物馆
 gothenburg ocean:哥德堡海洋
 gothenburg office:哥德堡办公室
 gothenburg opera house:哥特堡歌劇院
@@ -17857,6 +17964,8 @@ gothenburg symphony orchestra:哥德堡交响乐团
 gothenburg synagogue:哥德堡猶太會堂
 gothenburg test:哥德堡测试
 gothenburg tram network:哥德堡電車
+gothenburg tram:哥德堡有軌電車
+gothenburg university:哥德堡大学
 gothenburg university:哥德堡大學
 gothenburg:哥德堡
 gothensee:戈特亨湖
@@ -17866,18 +17975,28 @@ gothic alphabet:哥德字母
 gothic architecture in france:哥特式建筑在法国
 gothic architecture in the us:哥特式建筑在美国
 gothic architecture influence:哥特式建筑影响
+gothic architecture:哥德建筑
 gothic architecture:哥特式建筑
 gothic art:哥德式藝術
 gothic bible:哥特圣经
+gothic building:哥德建筑
 gothic cathedrals:哥德大教堂
+gothic chapel:哥德教堂
 gothic chapel:哥特式教堂
+gothic church:哥德教堂
 gothic elements:哥德元素
+gothic fiction:哥德小说
+gothic horror:哥德恐怖
 gothic kingdom:哥德王国
 gothic language:哥德語
+gothic letter:哥德字母
 gothic line:哥德防線
+gothic literature:哥德文學
 gothic metal band:哥特金属乐队
+gothic metal:哥德金属
 gothic metal:哥特金属
 gothic mountains:哥德山脈
+gothic novel:哥德小说
 gothic novel:哥特小说
 gothic peak:哥特峰
 gothic renaissance:哥德文艺复兴
@@ -17885,6 +18004,7 @@ gothic revival architecture:哥德復興式建築
 gothic rock and death:哥德搖滾和死亡
 gothic rock:哥德搖滾
 gothic subculture:哥德次文化
+gothic war:哥德战争
 gothic war:哥特战争
 gothic:哥德
 gothlandia:哥得兰岛
@@ -17957,6 +18077,7 @@ gottigere:戈特蒂凯雷
 gottleuba:戈特洛伊巴河
 gottlieb polynomials:戈特利布多项式
 gottlieb road:哥德路
+gottlieben castle:戈特利本城堡
 gottlieben:戈特利本
 gottlobite:钒砷钙镁石
 gottmadingen:戈特马丁根
@@ -18198,6 +18319,7 @@ goulart:古拉特
 goulash communism:古拉什共产主义
 goulash:匈牙利湯
 goulbi de maradi river:古爾比德馬拉迪河
+goulburn river:古尔本河
 goulburn street:高宾街
 goulburn street:高賓街
 goulburn:古尔本
@@ -20716,6 +20838,7 @@ government discussion:政府讨论
 government discussions:政府讨论
 government dissident:政府持不同政见者
 government dissolve:政府解散
+government district:政府區域
 government do:政府做
 government dock:政府船坞
 government dock:政府船塢
@@ -20871,6 +20994,7 @@ government factors:政府因素
 government factory:政府工厂
 government failed:政府失败
 government failure:政府失灵
+government failure:政府失败
 government farm:政府农场
 government fee:政府费用
 government feedback:政府反馈
@@ -22011,6 +22135,7 @@ government of yugoslavia:南斯拉夫政府
 government of yukon:育空地区政府
 government of zhang xun:張勳內閣
 government of zimbabwe:津巴布韦政府
+government of:政府的
 government offensive began:政府攻势开始
 government offensive:政府攻势
 government offer:政府提供
@@ -22723,6 +22848,7 @@ government secret:政府秘密
 government secretariat:政府秘書處
 government secretariat:香港特別行政區政府總部
 government secretary:政府秘书
+government secretary:政府秘書
 government security agent:政府安全特工
 government security and privacy:政府安全和隐私
 government security department:政府安全部门
@@ -24391,6 +24517,7 @@ gozo from:戈佐岛从
 gozo region:戈佐地区
 gozo shioda:鹽田剛三
 gozo stadium:戈佐体育场
+gozo stadium:戈佐岛体育场
 gozo:戈佐岛
 goán-tau:阮兜
 goân-bí-lí:元美里

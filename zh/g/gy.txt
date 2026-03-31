@@ -274,6 +274,7 @@ gyeongam-dong:景岩洞
 gyeongan-dong:京安洞
 gyeongbokgung palace:景福宫
 gyeongbokgung palace:景福宮
+gyeongbokgung station:景福宮站
 gyeongbokgung:景福宫
 gyeongbokgung:景福宮
 gyeongbu expressway north:京釜高速公路
@@ -368,6 +369,7 @@ gyeongjeon line:慶全線
 gyeongji-ri:境地里
 gyeongjong of goryeo:高丽景宗
 gyeongjong of joseon:朝鮮景宗
+gyeongju bread:庆州面包
 gyeongju gungnipgongwon:庆州国立公园
 gyeongju gungnipgongwon:慶州國立公園
 gyeongju gyochon-maul:崔父子宅
@@ -379,9 +381,12 @@ gyeongju national museum:庆州国立博物馆
 gyeongju national park:庆州国立公园
 gyeongju national park:慶州國立公園
 gyeongju seokbinggo:慶州石冰庫
+gyeongju station:庆州站
 gyeongju station:慶州站
 gyeongju street:慶州街
 gyeongju techcnical high school:庆州工业高中
+gyeongju university:慶州大學
+gyeongju world:庆州世界
 gyeongju-si:庆州市
 gyeongju-si:慶州市
 gyeongju:庆州
@@ -530,6 +535,8 @@ gyeyang 2-dong:桂陽2洞
 gyeyang 3(sam)-dong:桂阳3洞
 gyeyang 3(sam)-dong:桂陽3洞
 gyeyang district:桂陽區
+gyeyang gymnasium:桂陽體育館
+gyeyang station:桂阳站
 gyeyang station:桂陽站
 gyeyang-dong:桂阳洞
 gyeyang-dong:桂陽洞
@@ -848,6 +855,7 @@ gymnura japonica:日本燕魟
 gymnure:鼠蝟亞科
 gymnuridae:燕魟科
 gympie region:金皮區政府
+gympie region:金皮地区
 gympie road:金皮路
 gympie:金皮
 gynacantha:长尾蜓属

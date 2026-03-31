@@ -5985,6 +5985,7 @@ he how much:他多少
 he how to:他如何
 he how:他如何
 he hua temple:荷华寺
+he huang:合黄
 he hubris:他傲慢
 he hug:他拥抱
 he hug:他擁抱
@@ -6016,6 +6017,7 @@ he husband:他丈夫
 he hypothalamus gland:他下丘脑腺
 he hypothalamus:他下丘脑
 he hypothesis:他假说
+he i:他我
 he i:合我
 he ice crystal:他冰晶
 he ice pack:合冰袋
@@ -7345,6 +7347,7 @@ he jianping:何剑平
 he jianshi:何劍士
 he jiatie:贺家铁
 he jie:何洁
+he jie:合界村
 he jifeng:何积丰
 he jihad:他圣战
 he jin:何进
@@ -8043,6 +8046,7 @@ he long term:他长期
 he long-term trend:合长期趋势
 he long-term:他长期
 he long-term:合长期
+he long:他隆
 he long:贺龙
 he look:他看
 he look:合看
@@ -8089,6 +8093,7 @@ he lunch:合午餐
 he lung:他肺
 he luting:贺绿汀
 he lüting concert hall:贺绿汀音乐厅
+he ma:合马镇
 he machine learning:他机器学习
 he machine:他机器
 he machine:合机器
@@ -15516,6 +15521,7 @@ he yu:何与
 he yuan canteen:荷园教工餐厅
 he yuan canteen:荷園教工餐廳
 he yuan:和苑
+he yun:合韵
 he yunfeng:何云峰
 he yuppie:他雅皮士
 he zehui:何泽慧
@@ -15972,6 +15978,7 @@ head left:头左
 head level:头水平
 head lice infestation:頭蝨感染
 head life:头生活
+head light:头光
 head lighthouse:头灯塔
 head like:头喜欢
 head lion:头狮子
@@ -18196,6 +18203,7 @@ health food shop:正直村有機園
 health food snack:健康食品零食
 health food store:健康食品商店
 health food:健康食品
+health food:健康食物
 health for:健康为了
 health form:健康形式
 health formula:健康公式
@@ -18299,6 +18307,7 @@ health inference:健康推理
 health influence:健康影响
 health info:健康信息
 health informatics tools:医学信息学工具
+health informatics:健康信息学
 health informatics:医学信息学
 health information administration:健康信息管理
 health information and behavior:健康信息和行为
@@ -18516,6 +18525,7 @@ health insurance website:健康保险网站
 health insurance will:健康保险会
 health insurance with health service:健康保险与健康服务
 health insurance:健康保险
+health insurance:健康保險
 health insurance:醫療保險
 health intent:健康意图
 health interaction:健康相互作用
@@ -19325,6 +19335,7 @@ health service training center:衛勤訓練中心
 health service users:健康服务用户
 health service web:健康服务网
 health service:健康服务
+health services:健康服务
 health set:健康设置
 health should be the only consideration:健康应该是唯一的考虑
 health should be:健康应该是
@@ -19345,6 +19356,7 @@ health smile:健康微笑
 health snack:健康零食
 health so:健康如此
 health soap:健康肥皂
+health sociologist:健康社會學家
 health software:健康软件
 health solution:健康解决方案
 health solutions:健康解决方案
@@ -20678,6 +20690,7 @@ healthy food systems:健康的食物系统
 healthy food web:健康的食物网
 healthy food:健康的食品
 healthy food:健康的食物
+healthy food:健康食品
 healthy food:健康食物
 healthy foot city:足康城
 healthy football:健康的足球
@@ -21727,6 +21740,7 @@ healthy self:健康的自我
 healthy self:健康自我
 healthy selfishness:健康的自私
 healthy semen:健康的精液
+healthy serbia:健康塞爾維亞
 healthy serotonin:健康的血清素
 healthy server:健康的服务器
 healthy services:健康的服务
@@ -22276,6 +22290,7 @@ heap set:堆设置
 heap size increase:堆大小增加
 heap size:堆大小
 heap solution:堆解决方案
+heap sort:堆排序
 heap space:堆空间
 heap structure:堆结构
 heap support:堆支持
@@ -22648,6 +22663,7 @@ hearing input:听觉输入
 hearing is the only one:听觉是唯一一
 hearing is the only:听觉是唯一
 hearing loss:听力减退
+hearing loss:听觉损失
 hearing mechanism:听觉机制
 hearing mechanisms:听觉机制
 hearing music:听觉音乐
@@ -23027,6 +23043,7 @@ heart continue:心脏继续
 heart continues:心继续
 heart continues:心脏继续
 heart contract:心合同
+heart contractility:心脏收缩
 heart contraction:心脏收缩
 heart cotton:心脏棉花
 heart could:心能
@@ -23197,6 +23214,9 @@ heart disease treatment:心脏病治疗
 heart disease will:心脏病会
 heart disease:心脏疾病
 heart disease:心脏病
+heart disease:心臟疾病
+heart diseases:心脏疾病
+heart diseases:心臟疾病
 heart dissolve:心脏解散
 heart do:心做
 heart do:心脏做
@@ -23377,6 +23397,8 @@ heart hospital:心醫院
 heart how to:心如何
 heart hug:心脏拥抱
 heart hurt:心伤害
+heart hypertrophy:心脏肥大
+heart hypertrophy:心臟肥大
 heart i could:心我可以
 heart i give you:心我给你
 heart i know:心我知道
@@ -23393,6 +23415,7 @@ heart in:心里面
 heart infection:心脏感染
 heart inflammation and fibrosis:心脏炎症和纤维化
 heart inflammation:心脏炎症
+heart inflammation:心臟炎症
 heart install:心安装
 heart institute:心脏学院
 heart institute:心脏研究所
@@ -23484,6 +23507,7 @@ heart logo:心标志
 heart london:心脏伦敦
 heart look:心看
 heart look:心脏看
+heart love:心愛
 heart love:心爱
 heart lung and blood:心肺和血液
 heart lung blood institute:心肺血液研究所
@@ -23526,6 +23550,7 @@ heart month:心脏月
 heart month:心臟月
 heart months:心脏月
 heart most:心脏大多数
+heart mountain:心山
 heart mountain:心脏山
 heart murder:心脏谋杀
 heart murmur:心雜音
@@ -23548,6 +23573,7 @@ heart navigation:心脏导航
 heart nearly:心几乎
 heart nearly:心脏几乎
 heart nearly:心臟几乎
+heart nebula:心星云
 heart nebula:心脏星云
 heart nebula:心臟星雲
 heart necklace:心项链
@@ -23873,6 +23899,8 @@ heart so:心臟如此
 heart soften:心软化
 heart sometimes:心有时
 heart sometimes:心脏有时
+heart song:心歌
+heart songs:心歌
 heart soon:心很快
 heart sounds:心音
 heart source:心源
@@ -23884,6 +23912,7 @@ heart start:心脏开始
 heart stay in:心留在
 heart stem cell:心脏干细胞
 heart stent:心脏支架
+heart stent:心臟支架
 heart still:心仍然
 heart still:心脏仍然
 heart stimulant:心脏兴奋剂
@@ -23922,6 +23951,7 @@ heart surgery center:心脏外科中心
 heart surgery hospital:心脏外科医院
 heart surgery:心外科
 heart surgery:心脏外科
+heart surgery:心脏外科学
 heart surgery:心臟外科
 heart surrender:心投降
 heart surrender:心脏投降
@@ -23993,6 +24023,7 @@ heart true:心真
 heart trust:心信任
 heart tumor:心脏肿瘤
 heart twist:心扭曲
+heart under:心下
 heart university:心大学
 heart university:心脏大学
 heart uses:心脏使用
@@ -24308,6 +24339,7 @@ heat deform:热变形
 heat dehydration:热脱水
 heat demand:热需求
 heat density:热密度
+heat density:熱量密度
 heat design:热设计
 heat detect:热检测
 heat difference:热差异
@@ -24399,6 +24431,7 @@ heat exchanger systems:换热器系统
 heat exchanger technology:换热器技术
 heat exchanger volume:换热器体积
 heat exchanger:换热器
+heat exchanger:热交换机
 heat facilities:热设施
 heat film:热电影
 heat fire:热火
@@ -24670,6 +24703,7 @@ heat related:热相关的
 heat release and smoke:热释放和烟
 heat release:热释放
 heat requirements:热要求
+heat reservoir:热水塘
 heat resource:热资源
 heat resources:热资源
 heat response:热响应
@@ -24692,6 +24726,7 @@ heat services:热服务
 heat set:热设置
 heat she:热她
 heat shield rock:隔熱罩岩
+heat shield:热盾
 heat shield:防熱盾
 heat shock protein:热休克蛋白
 heat shrink tubing:熱收縮套管
@@ -25078,6 +25113,7 @@ heaven is secure:天堂是安全的
 heaven is the only true:天國是唯一真
 heaven is true:天堂是真的
 heaven is you:天堂是你
+heaven island:天堂岛
 heaven knows what:天堂知道什么
 heaven knows:天堂知道
 heaven lake:chángbáishān tiānchí
@@ -25120,6 +25156,7 @@ heaven to earth:天堂到地球
 heaven to hell:天堂到地狱
 heaven to hell:天堂到地獄
 heaven too:天堂也
+heaven trilogy:天堂三部曲
 heaven wait:天堂等
 heaven was a catholic:天堂是一个天主教
 heaven was reality:天堂是現實
@@ -26293,6 +26330,7 @@ hebei district:河北区
 hebei district:河北區
 hebei e. street:河北東街
 hebei electric power construction second engineering co., ltd.:河北省电力建设第二工程公司
+hebei elite:河北精英
 hebei energy college of vocation and technology:河北能源职业技术学院
 hebei energy:河北省能源
 hebei enterprise technology center:河北省企业技术中心
@@ -26309,6 +26347,8 @@ hebei gaoyang senior high school:河北高阳中学
 hebei garden expo park:河北省园博园
 hebei geo university:河北地质大学
 hebei guangzong middle school:河北广宗中学
+hebei gymnasium:河北体育馆
+hebei gymnasium:河北省体育馆
 hebei hengshui middle school:河北衡水中学
 hebei huanghua middle school:河北黄骅中学
 hebei huanghua xinshiji middle school:河北黄骅新世纪中学
@@ -26333,6 +26373,8 @@ hebei medical university:河北医科大学
 hebei mengcun huimin middle school:河北孟村回民中学
 hebei military district:中国人民解放军河北省军区
 hebei museum:河北博物院
+hebei museum:河北博物馆
+hebei museum:河北省博物馆
 hebei ningjin middle school:河北宁晋中学
 hebei ningjinqiuzhi school:河北宁晋求知学校
 hebei niuqiu middle school:河北省内丘中学
@@ -26384,6 +26426,7 @@ hebei university of science and technology:河北科技大学
 hebei university of technology:河北工业大学
 hebei university of water resources and electric engineering:河北水利电力学院
 hebei university:河北大学
+hebei university:河北大學
 hebei village:和北里
 hebei village:河背村
 hebei vocational college of rail transportation:河北轨道运输职业技术学院
@@ -26399,6 +26442,7 @@ hebei xingtang experimental middle school:行唐县实验中学
 hebei xingtang longzhou middle school:河北行唐龙州中学
 hebei xingtang middle school:河北行唐中学
 hebei xinle no.2 middle school:河北省新乐市第二中学
+hebei youth:河北青年
 hebei zanhuang middle school:河北赞皇中学
 hebei zaoqiang middle school:河北枣强中学
 hebei zhengding middle school:河北正定中学
@@ -26518,6 +26562,7 @@ hebi cultural center:鹤壁市文化中心
 hebi daily:鹤壁日报社
 hebi east railway station:鹤壁东站
 hebi east station square:鹤壁东站广场
+hebi east:鹤壁东
 hebi experimental school:鹤壁市实验学校
 hebi foreign languages middle school:鹤壁市外国语中学
 hebi foxconn:鹤壁富士康
@@ -26788,6 +26833,7 @@ hebrew vocabulary:希伯来语词汇
 hebrew website:希伯来语网站
 hebrew wikipedia:希伯來語維基百科
 hebrew wikipedia:希伯来语维基百科
+hebrew wikisource:希伯来语维基文库
 hebrew wisdom:希伯来人智慧
 hebrew word:希伯来语单词
 hebrew would never:希伯来语永远不会
@@ -26803,6 +26849,7 @@ hebrid dənizi:赫布里底海
 hebrida maro:赫布里底海
 hebridensee:赫布里底海
 hebridenzee:赫布里底海
+hebrides overture:赫布里底群岛序曲
 hebrides:赫布里底群岛
 hebridetako itsasoa:赫布里底海
 hebridienmeri:赫布里底海
@@ -26820,9 +26867,12 @@ hebron hill:希伯伦山丘
 hebron hospital:希伯伦医院
 hebron massacre:希伯倫大屠殺
 hebron mayor:希伯伦市长
+hebron mountain:希伯伦山
 hebron platform produce:希伯伦平台生产
 hebron platform:希伯伦平台
+hebron protocol:希伯伦协议
 hebron township:希伯伦镇区
+hebron township:希伯倫鎮區
 hebron:希伯伦
 hebron:希伯倫
 hebrus valles:赫布罗斯谷
@@ -26860,6 +26910,7 @@ hecaozicun:河槽子村
 hecataeus of abdera:阿布德拉的赫卡塔埃乌斯
 hecataeus of miletus:米利都的赫卡塔埃乌斯
 hecataeus:赫卡塔埃乌斯
+hecate chasma:赫卡忒深谷
 hecate rock:海克提岩
 hecate strait:赫卡特海峡
 hecate:赫卡忒
@@ -27315,7 +27366,9 @@ hedgehog always:刺猬一直
 hedgehog always:刺猬总是
 hedgehog comet:刺猬彗星
 hedgehog concept:刺猬概念
+hedgehog defense:刺猬防御
 hedgehog games:刺猬游戏
+hedgehog island:刺猬岛
 hedgehog island:赫奇霍格島
 hedgehog mascot:刺猬吉祥物
 hedgehog model:刺猬模型
@@ -27408,6 +27461,7 @@ hedong 1st street:河东一街
 hedong 2nd road:河东二路
 hedong 2nd street:河东二街
 hedong airport railway station:河東機場站
+hedong airport:河东机场
 hedong bridge:河東橋
 hedong bridge:鶴洞大橋
 hedong bridge:鹤洞大桥
@@ -27458,6 +27512,9 @@ hedong road:河東路
 hedong road:鹤洞路
 hedong south 2nd alley:河东南二巷
 hedong south road:河东南路
+hedong station:河东站
+hedong station:河東站
+hedong station:鹤洞站
 hedong street:和東街
 hedong subdistrict:hédōng jiēdào
 hedong subdistrict:河东街道
@@ -27652,6 +27709,9 @@ hefei - huaibei highway:合淮路
 hefei - huaibei highway:合相路
 hefei beicheng railway station:合肥北城站
 hefei beicheng:合肥北城
+hefei city:合肥城市
+hefei county:合肥县
+hefei dialect:合肥方言
 hefei economic & technology development area:合肥經濟技術開發區
 hefei economic and technological development zone:合肥经济技术开发区
 hefei export processing zone:合肥出口加工區
@@ -27659,6 +27719,7 @@ hefei high-tech industrial development zone:合肥高新技術產業開發區
 hefei institutes of physical science:中国科学院合肥物质科学研究院
 hefei integrated free trade zone:綜保區
 hefei luogang airport:合肥骆岗国际机场
+hefei marathon:合肥马拉松
 hefei meiling:长虹美菱
 hefei metro line 1:jiulianwei→zhangwa:合肥軌道交通1號線:九聯圩→张洼
 hefei metro line 1:zhangwa→jiulianwei:合肥軌道交通1號線:张洼→九聯圩
@@ -27689,6 +27750,7 @@ hefei metro line 5:合肥轨道交通5号线
 hefei metro line 8:合肥軌道交通8號線
 hefei metro line 8:合肥軌道交通8號線二期
 hefei metro line 8:合肥轨道交通8号线二期
+hefei metro:合肥地铁
 hefei metro:合肥轨道交通
 hefei no. 6 high school linghu campus:六中菱湖校區
 hefei no.3 people's hospital:合肥市第三人民医院
@@ -27711,6 +27773,9 @@ hefei shi:合肥市
 hefei shushan economic and technological development zone:合肥蜀山經濟技術開發區
 hefei south railway station:合肥南站
 hefei south station south square:南站南广场
+hefei south:合肥南
+hefei stadium:合肥体育场
+hefei stadium:合肥市体育馆
 hefei storm:合肥狂风篮球俱乐部
 hefei süd:合肥南
 hefei tram line 1:合肥有轨电车1号线
@@ -27721,6 +27786,7 @@ hefei university:合肥大学
 hefei university:合肥学院
 hefei university:合肥學院
 hefei west railway station:合肥西站
+hefei west:合肥西
 hefei xinqiao international airport:合肥新桥国际机场
 hefei xinzhan high-tech industrial development zone:合肥新站高新技術開發區
 hefei-anqing high-speed railway:京港高速線
@@ -27769,6 +27835,7 @@ hefeng community:和丰小区
 hefeng community:和豐小區
 hefeng county continue:鹤峰县持续
 hefeng county:hèfēng xiàn
+hefeng county:和丰县
 hefeng county:鶴峰縣
 hefeng county:鹤峰县
 hefeng erzonglu entrance:禾丰二纵路口
@@ -28294,6 +28361,7 @@ heidegongzai:黑得公仔
 heidein bûlang:黑德宝龙
 heidekamp:海德坎普
 heidelbarg:海德堡
+heidelberg airport:海德堡機場
 heidelberg and hamburg:海德堡和汉堡
 heidelberg and mannheim:海德堡和曼海姆
 heidelberg and ricoh:海德堡和理光
@@ -28301,6 +28369,7 @@ heidelberg astronomer:海德堡天文学家
 heidelberg bridge monkey:海德堡老桥铜猴
 heidelberg castle:海德堡城堡
 heidelberg catechism:海德堡教理問答
+heidelberg cement:海德堡水泥
 heidelberg ceo:海德堡首席执行官
 heidelberg clinic:海德堡诊所
 heidelberg experts:海德堡专家
@@ -28320,6 +28389,7 @@ heidelberg is world-famous:海德堡是世界著名的
 heidelberg library:海德堡图书馆
 heidelberg materials:海德堡水泥
 heidelberg monastery:海德堡修道院
+heidelberg observatory:海德堡天文台
 heidelberg primary school:海德堡小学
 heidelberg printing equipment:海德堡印刷设备
 heidelberg printing press:海德堡印刷机
@@ -28346,6 +28416,7 @@ heidelberg university intend:海德堡大学打算
 heidelberg university shooting:海德堡大学枪击案
 heidelberg university will strengthen:海德堡大学将加强
 heidelberg university:海德堡大学
+heidelberg university:海德堡大學
 heidelberg win:海德堡赢得
 heidelberg zoo:海德堡动物园
 heidelberg Üniversitesi:海德堡大学
@@ -28542,6 +28613,7 @@ height measurement and real-time:高度测量和实时
 height measurement:高度测量
 height measuring:高度测量
 height microscope:高度显微镜
+height modernization:高度现代化
 height more than eight meter:高度超过八米
 height more than:高度超过
 height no one:高度没有人
@@ -28632,8 +28704,11 @@ heihaizi:无户口人员
 heihe - blagoveshchensk:黑河-海兰泡
 heihe - blagoveshchensk:黑河-海蘭泡
 heihe aihui airport:黑河璦琿機場
+heihe airport:黑河机场
+heihe airport:黑河機場
 heihe city:hēihé shì
 heihe city:黑河市
+heihe horse:黑河马
 heihe river:hēi hé
 heihe river:黑河
 heihe:hēihé shì
@@ -28718,9 +28793,11 @@ heilaqiao:黑拉桥
 heilbach:海尔巴赫
 heilbad heiligenstadt:海尔巴特海利根施塔特
 heilberscheid:海尔伯沙伊德
+heilbronn county:海尔布隆县
 heilbronn league:海尔布隆联盟
 heilbronn salt:海尔布隆盐
 heilbronn university of applied sciences:海尔布隆大学
+heilbronn university:海尔布隆大学
 heilbronn:海尔布隆
 heilenbach:海伦巴赫
 heili river:黑里河
@@ -29141,6 +29218,7 @@ heishan bandits:黑山軍
 heishan county:hēishān xiàn
 heishan county:黑山县
 heishan county:黑山縣
+heishan north:黑山北
 heishan road:黑山路
 heishan village:黑山村
 heishan:黑山
@@ -29292,6 +29370,7 @@ heisuke hironaka:廣中平祐
 heisuke yanagawa:柳川平助
 heisuo:黑所
 heita kawakatsu:川勝平太
+heita station:黑塔站
 heita:黑塔
 heita:黑塔鎮
 heita:黑塔镇
@@ -29358,7 +29437,10 @@ heituyan:黑土岩村
 heituyao:黑土窑
 heituyingzicun:黑土营子村
 heiwa bridge:和平大橋
+heiwa park:平和公园
+heiwa park:平和公園
 heiwa shokuli:平和食事
+heiwa station:平和站
 heiwa-dori street:和平街
 heiwa-no-ike:和平之池
 heiwa-no-tomoshibi:和平之燈
@@ -29637,6 +29719,7 @@ heiðursræðisskrifstofa Íslands:冰岛名誉领事馆
 heiðursræðisskrifstofa Óman:阿曼名誉​​领事馆
 heiðursræðisskrifstofa Þýskalands:德国名誉领事馆
 hej taipei arena hotel:艾捷天麗大飯店
+hejaz province:漢志省
 hejaz railway:汉志铁路
 hejaz:漢志
 hejazi arabic:漢志阿拉伯語
@@ -29786,6 +29869,7 @@ hejiang county:héjiāng xiàn
 hejiang county:合江县
 hejiang county:合江縣
 hejiang park:合江公園
+hejiang province:合江省
 hejiang reservoir:héjiāng shuǐkù
 hejiang reservoir:合江水库
 hejiang reservoir:河江水库
@@ -30051,10 +30135,12 @@ hekiru hikawa:冰川碧流
 hekiru shiina:椎名碧流
 hekla:海克拉火山
 hekou bridge:贺口桥
+hekou county:河口县
 hekou district:hékǒu qū
 hekou district:河口区
 hekou district:河口區
 hekou forest farm:河口林场
+hekou group:河口组
 hekou he:合口河
 hekou linchang:河口林场
 hekou north railway station:河口北站
@@ -30062,6 +30148,7 @@ hekou passenger bus station:河口客運站
 hekou reservoir:hékǒu shuǐkù
 hekou reservoir:河口水库
 hekou road:河口路
+hekou station:河口站
 hekou subdistrict:hékǒu jiēdào
 hekou subdistrict:河口街道
 hekou uprising memorial hall:河口起义纪念馆
@@ -30226,6 +30313,7 @@ helen shoal:yitong ansha
 helen shoal:一统暗沙
 helen tam:譚玉瑛
 helen the baby fox:子狐物語
+helen township:海倫鎮區
 helen zia:謝漢蘭
 helen's home:熊之家旅馆
 helen:海倫
@@ -30236,9 +30324,12 @@ helena ntagatifu:圣赫勒拿
 helena ntagatifu:聖海倫娜島
 helena regional airport:海伦娜区域机场
 helena township:海伦娜镇区
+helena township:海倫娜鎮區
 helena:海倫娜
 helenalin:堆心菊素
 helene garden:喜蓮花園
+helene island:希腊岛屿
+helene island:希臘島嶼
 helene terrace:明珠花園
 helene tower:喜蓮苑
 helene:xīlà
@@ -30399,6 +30490,7 @@ helicopter association:直升飞机协会
 helicopter auto:直升飞机汽车
 helicopter back to new york:直升飞机回到纽约
 helicopter back:直升飞机回
+helicopter bucket:直升機桶
 helicopter carrier:直升機航空母艦
 helicopter chase:直升飞机追逐
 helicopter come:直升飞机来
@@ -30427,11 +30519,16 @@ helicopter landing:直升機著陸
 helicopter line:直升飞机线
 helicopter manufacturer:直升飞机制造商
 helicopter money:直升機撒錢
+helicopter mother:直升機母親
 helicopter noise:直升機噪音
 helicopter operations:直升機操作
 helicopter or spacecraft:直升飞机或宇宙飞船
 helicopter parent:直升機父母
+helicopter parent:直升飞机父母
+helicopter parents:直升機父母
+helicopter parents:直升飞机父母
 helicopter passengers:直升飞机乘客
+helicopter platform:直升機平台
 helicopter propeller:直升飞机螺旋桨
 helicopter require:直升飞机需要
 helicopter rescue:直升機救援
@@ -30658,6 +30755,7 @@ heliopsis:赛菊芋属
 heliornithidae:日鷉科
 helios airways:太陽神航空
 helios investment:赫利俄斯投资
+helios kharkiv:赫利俄斯哈爾科夫
 helios new magic:赫利俄斯新的魔法
 helios new:赫利俄斯新的
 helios ridge:赫利俄斯嶺
@@ -30764,6 +30862,7 @@ helium market:氦市场
 helium mixture:氦混合物
 helium neon laser:氦氖激光
 helium neon:氦氖
+helium nova:氦新星
 helium nuclei will begin:氦原子核将开始
 helium nuclei:氦原子核
 helium nucleus:氦核
@@ -30811,6 +30910,7 @@ helix bridge towards:螺旋桥对
 helix bridge:螺旋桥
 helix bridge:螺旋橋
 helix door:螺旋门
+helix galaxy:螺旋星系
 helix model:螺旋模型
 helix nebula:螺旋星云
 helix nebula:螺旋星雲
@@ -30885,6 +30985,7 @@ hell gate bridge:地狱门大桥
 hell gates:地獄之門水道
 hell get:地狱得到
 hell girl:地狱少女
+hell girl:地獄少女
 hell give up:地狱放弃
 hell has six:地獄有六
 hell hate:地獄恨
@@ -31112,7 +31213,9 @@ hello fatty:你好胖子
 hello friend:你好朋友
 hello friends:你好朋友
 hello future:你好未来
+hello god:你好上帝
 hello hacker:你好黑客
+hello happiness:你好幸福
 hello harinezumi:偵探物語
 hello hello:你好你好
 hello hor:賀瓏
@@ -31126,6 +31229,7 @@ hello katy tour:凱蒂你好巡迴演唱會
 hello kitty cafe:hello kitty咖啡馆
 hello kitty kitchen & dining:hello kitty主題餐廳
 hello kitty land:hello kitty和諧戶外主題樂園
+hello london:你好伦敦
 hello many times:你好多次
 hello market (kaohsiung city temple of confucius):哈囉市場(孔廟)
 hello market:哈囉市場
@@ -31143,12 +31247,15 @@ hello night:你好夜
 hello panda:你好熊猫
 hello project official shop:早安家族官方專賣店
 hello robot:你好机器人
+hello sadness:你好悲傷
 hello saferide:安全上路
 hello sailor:你好水手
+hello saturday:你好星期六
 hello shadow:你好阴影
 hello sir:你好先生
 hello sister:你好姐妹
 hello song:你好歌
+hello stranger:你好陌生人
 hello thirteen:你好十三
 hello tomorrow:你好明天
 hello turkey:你好土耳其
@@ -31354,6 +31461,7 @@ helmsman series:舵手系列
 helmsman:舵手
 helmsmühlen:海烏梅克
 helmstadt:黑尔姆施塔特
+helmstedt university:黑尔姆施泰特大学
 helmstedt:黑尔姆施泰特
 helmut martin:马汉茂
 helmut sohmen:蘇海文
@@ -31388,6 +31496,7 @@ helong lake:hèlóng hú
 helong lake:鹤龙湖
 helong loran-c station:和龙loran-c基站
 helong railway station:和龙站
+helong railway:和龙铁路
 helong reservoir:和龙水库
 helong service area:和龙服务区
 helong sports center stadium:贺龙体育文化中心
@@ -32386,6 +32495,7 @@ help content and rights:帮助内容和权利
 help content producer:帮助内容生产者
 help content:帮助内容
 help contents:帮助内容
+help contents:帮助目录
 help continent:帮助大陆
 help continue:帮助继续
 help contract:帮助合同
@@ -34005,6 +34115,7 @@ help my:帮助我的
 help myanmar:帮助缅甸
 help myself:帮助我自己
 help naked mole rat:帮助裸鼹鼠
+help namespace:帮助命名空间
 help namibia:帮助纳米比亚
 help napoleon:帮助拿破仑一世
 help nasa:帮助美国国家航空航天局
@@ -36739,10 +36850,12 @@ helsingor:赫爾辛格
 helsingör:希星加
 helsingör:赫爾辛格
 helsinki accords:赫尔辛基协议
+helsinki agreement:赫尔辛基协议
 helsinki airport is located in:赫尔辛基机场位于
 helsinki airport is special:赫尔辛基机场是特别的
 helsinki airport new south:赫尔辛基机场新的南
 helsinki airport:赫尔辛基机场
+helsinki airport:赫爾辛基機場
 helsinki already:赫尔辛基已经
 helsinki always:赫尔辛基总是
 helsinki and chair:赫尔辛基和椅子
@@ -36764,6 +36877,7 @@ helsinki and tokyo:赫尔辛基和东京
 helsinki apartment:赫尔辛基公寓
 helsinki approach:赫尔辛基方法
 helsinki area:赫尔辛基地区
+helsinki arena:赫尔辛基竞技场
 helsinki art museum:赫尔辛基艺术博物馆
 helsinki became:赫尔辛基成为
 helsinki blockchain conference:赫尔辛基区块链会议
@@ -36774,6 +36888,9 @@ helsinki bus:赫尔辛基公交车
 helsinki card:赫尔辛基卡
 helsinki case study:赫尔辛基案例研究
 helsinki cathedral:赫尔辛基主教座堂
+helsinki cathedral:赫尔辛基大教堂
+helsinki cathedral:赫爾辛基主教座堂
+helsinki cathedral:赫爾辛基大教堂
 helsinki cathedral:赫爾辛基座堂
 helsinki central library oodi:赫尔辛基颂歌中央图书馆
 helsinki central railway station:赫爾辛基中央車站
@@ -36791,8 +36908,10 @@ helsinki city theatre:赫尔辛基市剧院
 helsinki city:赫尔辛基城市
 helsinki class missile boat:赫爾辛基級飛彈快艇
 helsinki committee:赫尔辛基委员会
+helsinki committee:赫爾辛基委員會
 helsinki commuter rail:赫尔辛基通勤铁路
 helsinki conference:赫尔辛基会议
+helsinki convention:赫尔辛基约定
 helsinki cup:赫尔辛基杯
 helsinki design museum:赫尔辛基设计博物馆
 helsinki design week:赫尔辛基设计周
@@ -36820,6 +36939,7 @@ helsinki library:赫尔辛基图书馆
 helsinki market square:赫尔辛基集市广场
 helsinki marketing:赫尔辛基市场营销
 helsinki meeting:赫尔辛基会议
+helsinki metro:赫尔辛基地铁
 helsinki metro:赫爾辛基地鐵
 helsinki metropolitan area:大赫尔辛基
 helsinki music center:赫尔辛基音乐中心
@@ -36868,6 +36988,7 @@ helsinki synagogue:赫爾辛基猶太會堂
 helsinki telephone:赫尔辛基电话
 helsinki temple:赫尔辛基庙
 helsinki train station:赫尔辛基火车站
+helsinki tram:赫尔辛基有轨电车
 helsinki treaty:赫尔辛基条约
 helsinki tunnel would:赫尔辛基隧道将
 helsinki tunnel:赫尔辛基隧道
@@ -36875,11 +36996,16 @@ helsinki university museum:赫爾辛基大學博物館
 helsinki university of technology campus:赫尔辛基理工大学校园
 helsinki university of technology was founded in:赫尔辛基理工大学成立于
 helsinki university of technology:赫尔辛基理工大学
+helsinki university:赫尔辛基大学
+helsinki university:赫尔辛基大學
+helsinki university:赫爾辛基大学
+helsinki university:赫爾辛基大學
 helsinki vampires:赫尔辛基吸血鬼
 helsinki velodrome:赫爾辛基自由車場
 helsinki visit and illegal immigrant:赫尔辛基访问和非法移民
 helsinki visit:赫尔辛基访问
 helsinki zoo:赫尔辛基动物园
+helsinki zoo:赫爾辛基動物園
 helsinki:赫尔辛基
 helsinki:赫尔辛基站
 helsinki:赫爾辛基
@@ -36887,6 +37013,7 @@ helsinkis:赫尔辛基
 helsinkis:赫爾辛基
 helsinko:赫尔辛基
 helsinko:赫爾辛基
+helsinky treaty:赫尔辛基条约
 helsinky:赫尔辛基
 helsinky:赫爾辛基
 helsinqui:赫尔辛基
@@ -36943,6 +37070,7 @@ helvella:马鞍菌属
 helvellaceae:马鞍菌科
 helvellyn:赫爾維林峰
 helvesiek:黑尔沃西克
+helvetia cup:瑞士杯
 helvetia:ruìshì
 helvetia:瑞士
 helvetia:赫尔维蒂娅
@@ -36956,7 +37084,9 @@ helvig of schleswig:什勒斯維希的赫爾維
 helvius cinna:辛纳
 helvzhangcun:何吕张村
 helwan governorate:赫勒萬省
+helwan observatory:赫勒万天文台
 helwan railway:赫勒万铁路
+helwan university:赫勒万大学
 helwan:赫勒万
 helwig schmidt glintzer:施寒微
 helwingia chinensis:中华青荚叶
@@ -37478,6 +37608,7 @@ hemp food:火麻食物
 hemp for victory:汉麻胜利
 hemp milk:大麻籽奶
 hemp oil:大麻籽油
+hemp oil:火麻油
 hemp paper:麻紙
 hemp seed:叶氏麻籽
 hemp seed:葉氏麻籽
@@ -37584,9 +37715,12 @@ henan college of surveying and mappin:河南测绘职业学院
 henan college of transportation:河南交通职业技术学院
 henan commandery:河南郡
 henan community:河南社区
+henan construction:河南建筑
+henan county:河南县
 henan cuisine:豫菜
 henan dalu:河南大路
 henan development:河南省发展
+henan dialect:河南方言
 henan e. 1st street:河南東一街
 henan e. 2nd street:河南東二街
 henan e. 3rd street:河南東三街
@@ -37598,6 +37732,8 @@ henan electric development building:豫港電力發展大廈
 henan experimental high school:河南省实验中学
 henan experimental middle school:河南省实验中学
 henan experimental primary school:河南省实验小学
+henan famine:河南饑荒
+henan famine:河南饥荒
 henan fengqiu high school:河南省封丘高中
 henan finance university:河南财政金融学院
 henan finance university:河南财政金融学院（龙子湖校区）
@@ -37615,6 +37751,7 @@ henan institute of economics and trade:河南经贸职业学院
 henan institute of science and technology:河南科技学院
 henan institute of technology:河南工学院
 henan jiangbei province:河南江北等处行中书省
+henan jiangbei:河南江北
 henan jingying machinery factory:河南巩义精英机械厂
 henan jingying machinery factory:河南精英机械厂
 henan kaifeng college of science technology and communication:河南开封科技传媒学院
@@ -37628,6 +37765,8 @@ henan mongol autonomous county:henan mongolzu zizhixian
 henan mongol autonomous county:河南蒙古族自治县
 henan mongol autonomous county:河南蒙古族自治縣
 henan museum:河南博物院
+henan museum:河南博物馆
+henan museum:河南省博物馆
 henan natural science fund:河南省自然科学基金
 henan natural science:河南省自然科学
 henan normal university affiliated hospital:河南师大医院
@@ -37667,6 +37806,8 @@ henan road:和南路
 henan road:河南路
 henan shizhong 1st rd.:河南市中一路口
 henan square:河南村广场
+henan stadium:河南省体育场
+henan stadium:河南省体育馆
 henan street:河南街
 henan subdistrict office:河南街道办事处
 henan subdistrict:hénán jiēdào
@@ -37690,6 +37831,7 @@ henan university of science and technology:河南科技大学
 henan university of technology station:河南工业大学站
 henan university of technology:河南工业大学
 henan university:河南大学
+henan university:河南大學
 henan village committee:河南村委
 henan village:何南里
 henan village:和南里
@@ -38101,6 +38243,7 @@ henckelia:汉克苣苔属
 hencse:亨切
 hendaia:昂代
 hendaya:昂代
+hendaye station:昂代站
 hendaye:昂代
 hendecagon:十一边形
 hendecagonal prism:十一角柱
@@ -38113,19 +38256,25 @@ hendensho-mae:变电站前
 hendensho-mae:變電站前
 henderleithen:因纳利森
 henderson & co. ltd.:達陞有限公司
+henderson airfield:亨德森机场
 henderson bluff:亨德森海崖
 henderson china:恒基中國集團
+henderson county:亨德森县
 henderson county:亨德森縣
 henderson court:恒安閣
 henderson glacier:亨德森冰川
 henderson group:亨德森集團
 henderson investment:恒基兆業發展
+henderson island:亨德森岛
 henderson land development:恒基兆業地產
 henderson metropolitan:恒基名人購物中心
 henderson metropolitan:恒基名人购物中心
+henderson mountain:亨德森山
 henderson road:軒德蓀道
 henderson the rain king:雨王亨德森
+henderson township:亨德森鎮區
 henderson township:亨德森镇区
+henderson tunnel:亨德森隧道
 henderson:亨德森
 hendersoni saar:亨德森岛
 hendersono sala:亨德森岛
@@ -38546,6 +38695,7 @@ hengdaocun:恒道村
 hengdaocun:横道村
 hengdaohe:héngdàohé zhèn
 hengdaohe:横道河镇
+hengdaohezi east:横道河子东
 hengdaohezi:héngdàohézǐ mǎnzú xiāng
 hengdaohezi:横道河子
 hengdaohezi:横道河子乡
@@ -39113,6 +39263,7 @@ hengqin line (hengqin → lotus):橫琴線（橫琴 → 蓮花）
 hengqin line (lotus → hengqin):橫琴線（蓮花 → 橫琴）
 hengqin line of macao lrt:澳門輕軌橫琴線
 hengqin line of macao lrt:澳门轻轨横琴线
+hengqin line:横琴线
 hengqin line:橫琴線
 hengqin no.1 middle school:横琴粤澳深度合作区第一中学
 hengqin no.1 middle school:橫琴粵澳深度合作區第一中學
@@ -39122,6 +39273,7 @@ hengqin port:横琴口岸
 hengqin port:橫琴口岸
 hengqin r&f center:橫琴富力中心
 hengqin rowing park:横琴赛艇公园
+hengqin station:横琴站
 hengqin station:橫琴站
 hengqin tunnel:橫琴隧道
 hengqin-macao traditional chinese medicine thematic cultural street:琴澳中医药文化街
@@ -39168,6 +39320,7 @@ hengshan calligraphy art center:橫山書法藝術館
 hengshan community basketball court:横山社区篮球场
 hengshan community basketball court:橫山社區籃球場
 hengshan county:héngshān xiàn
+hengshan county:横山县
 hengshan county:衡山县
 hengshan county:衡山縣
 hengshan crossing:横山路口
@@ -39195,6 +39348,7 @@ hengshan road intersection:橫山路口
 hengshan road middle fuxing road:衡山路复兴中路
 hengshan road:héngshān lù
 hengshan road:恒山路
+hengshan road:橫山路
 hengshan road:衡山路
 hengshan s. zhu'an st.:恆山南竹安街口
 hengshan s. zhu'an st.:恒山南竹安街口
@@ -39203,6 +39357,9 @@ hengshan shuiku:héngshān shuǐkù
 hengshan shuiku:恒山水库
 hengshan south lane:恆山南巷
 hengshan south street:恒山南街
+hengshan station:横山站
+hengshan station:橫山站
+hengshan station:衡山站
 hengshan street:héngshān jiē
 hengshan street:恒山街
 hengshan street:横山街
@@ -39489,6 +39646,8 @@ hengyang 1st street:衡陽一街
 hengyang 2nd street:衡陽二街
 hengyang 3rd street 13th alley:恒洋三街十三巷
 hengyang 3rd street:恒洋三街
+hengyang airport:衡阳机场
+hengyang airport:衡陽機場
 hengyang bajialing airport:衡阳八甲岭机场
 hengyang bajialing airport:衡陽八甲嶺機場
 hengyang center for disease control and prevention:衡阳市疾病预防控制中心
@@ -39497,8 +39656,11 @@ hengyang county:衡阳县
 hengyang county:衡陽縣
 hengyang dialect:衡陽話
 hengyang east railway station:衡阳东站
+hengyang east:衡阳东
+hengyang east:衡陽東
 hengyang factory:衡阳市工厂
 hengyang jinlong hotel (jufeng road):衡阳金隆宾馆(聚峰路店)
+hengyang library:衡阳市图书馆
 hengyang metro:衡阳轨道交通
 hengyang middle road:恒洋中路
 hengyang nanyue airport:衡阳南岳机场
@@ -39855,6 +40017,7 @@ henry dog:亨利狗
 henry duke:亨利公爵
 henry dunant:亨利．杜南
 henry dundas, 1st viscount melville:登打士西街
+henry durant:亨利杜兰特
 henry emphasize:亨利强调
 henry enter:亨利进入
 henry estimate:亨利估计
@@ -39863,6 +40026,7 @@ henry eventually:亨利最终
 henry every:亨利每个
 henry explains:亨利解释
 henry explore:亨利探索
+henry family:亨利科
 henry fan:范鴻齡
 henry fifth:亨利第五
 henry finally:亨利最终
@@ -39980,6 +40144,7 @@ henry knows monaco:亨利知道摩纳哥
 henry knows:亨利知道
 henry kwek:郭献川
 henry lai wan man:黎允文
+henry lake:亨利湖
 henry lau filmography:劉憲華影視作品列表
 henry lau:劉憲華
 henry league:亨利联盟
@@ -39990,6 +40155,7 @@ henry lee:亨利李
 henry lien:连宏毅
 henry like:亨利喜欢
 henry lincoln:亨利林肯
+henry lion:亨利狮子
 henry litton:烈顯倫
 henry liu:劉宜良
 henry livingston:亨利利文斯顿
@@ -40033,6 +40199,7 @@ henry petroleum:亨利石油
 henry pickering:亨利皮克林
 henry pollack:亨利波拉克
 henry pollock:普樂
+henry poole:亨利普爾
 henry pottinger:砵甸乍
 henry prepare:亨利准备
 henry pretend:亨利假装
@@ -40089,6 +40256,7 @@ henry threat:亨利威胁
 henry three:亨利三
 henry to:亨利到
 henry took:亨利拿
+henry township:亨利鎮區
 henry township:亨利镇区
 henry tsang:曾筱龙
 henry university:亨利大学
@@ -40308,6 +40476,7 @@ heparin cap:肝素帽
 heparin injection:肝素注射
 heparin or aspirin:肝素或阿司匹林
 heparin scandal:肝素丑闻
+heparin sodium:肝素钠
 heparin technology:肝素技术
 heparin therapy:肝素疗法
 heparin:肝素
@@ -40569,6 +40738,7 @@ heping county:hépíng xiàn
 heping county:和平
 heping county:和平县
 heping county:和平縣
+heping county:河平县
 heping creek:和平溪
 heping cross road:和平横路
 heping district office, taichung city:臺中市和平區公所
@@ -40662,6 +40832,7 @@ heping new community:和平新城
 heping new village:和平新村
 heping north road:和平北路
 heping north street:和平北街
+heping north:和平北
 heping park (east):hépínggōngyuándōngcè
 heping park (east):ㄏㄜˊㄆㄧㄥˊㄍㄨㄥㄩㄢˊㄉㄨㄥㄘㄜˋ
 heping park (east):和平公园东侧
@@ -40711,11 +40882,14 @@ heping south street:和平南街
 heping square:和平广场
 heping square:和平廣場
 heping st. entrance:和平街口
+heping station:和平村站
+heping station:和平站
 heping street crossing:和平街路口
 heping street station:和平街站
 heping street:hépíng jiē
 heping street:和平大街
 heping street:和平街
+heping street:和平街道
 heping subdistrict:hépíng jiēdào
 heping subdistrict:和平街道
 heping town people's government:和平镇人民政府
@@ -40757,6 +40931,7 @@ heping xiaoqu building no. 13:和平小区 13 号楼
 heping xiaoqu building no. 13:和平小區 13 號樓
 heping xincun:和平新村
 heping xiqiao station:和平西桥站
+heping xiqiao:和平西桥
 heping zhongyingwen school:和平中英文学校
 heping-gongye road crossing:和平工业路口
 heping-qingyang 1intersection:和平清陽一路口
@@ -40804,6 +40979,7 @@ hepingjiecun:和平街村
 hepingju:和平咀
 hepingkeng:禾坪坑
 hepingli beijie station:和平里北街站
+hepingli beijie:和平里北街
 hepingli east:hepingli dongjie
 hepingli garden phase 2:和平里花园二期
 hepingli subdistrict:hépínglǐ jiēdào
@@ -40822,6 +40998,7 @@ hepinglu:hépínglù jiēdào
 hepinglu:和平路
 hepinglu:和平路街道
 hepingmayingzi:和平马营子
+hepingmen station:和平门站
 hepingmen:和平门
 hepingmenli:和平门里
 hepingmenwai:和平门外
@@ -40832,6 +41009,7 @@ hepingxi:和平溪乡
 hepingxi:和平西
 hepingxiang:和平乡
 hepingxincun:和平新村
+hepingxiqiao station:和平西桥站
 hepingxiqiao:和平西桥
 hepingyi:和平一
 hepingyingzi:和平营子
@@ -40970,6 +41148,7 @@ heqing community:和庆社区
 heqing county people's government:鹤庆县人民政府
 heqing county public security bureau:鹤庆县公安局
 heqing county:hèqìng xiàn
+heqing county:河清县
 heqing county:鶴慶縣
 heqing county:鹤庆县
 heqing dongcaohai national wetland park:鹤庆东草海国家湿地公园
@@ -48292,6 +48471,7 @@ heraklaj kolonoj:海格力斯之柱
 herakleen pylväät:海格力斯之柱
 herakleia am latmos:卡皮吉利村
 heraklion airport:伊拉克利翁机场
+heraklion airport:伊拉克利翁機場
 heraklion and santorini:伊拉克利翁和圣托里尼
 heraklion archaeological museum:伊拉克利翁考古学博物馆
 heraklion archaeological museum:考古博物馆
@@ -48322,6 +48502,7 @@ heranseba:禾然色巴
 heraocun:河绕村
 heras de ayuso:埃拉斯德亚尤索
 herat after:赫拉特后
+herat airport:赫拉特機場
 herat and balkh:赫拉特和巴尔赫
 herat and kandahar:赫拉特和坎大哈
 herat and mashhad:赫拉特和馬什哈德
@@ -48339,6 +48520,7 @@ herat séng:赫拉特省
 herat to kunduz:赫拉特到昆都士
 herat too:赫拉特也
 herat university:赫拉特大学
+herat uprising:赫拉特起义
 herat vilayəti:赫拉特省
 herat:赫拉特
 herat:赫拉特省
@@ -48489,6 +48671,7 @@ hercules armour:大力神装甲
 hercules asset protection:大力神资产保护
 hercules asset:大力神资产
 hercules bay:赫爾克里士灣
+hercules beetle:大力士甲虫
 hercules beetle:赫克力士長戟大兜蟲
 hercules caves:赫尔科里溶洞
 hercules club:大力神俱乐部
@@ -49388,8 +49571,11 @@ hereford breed:赫里福德品种
 hereford bull:赫里福德公牛
 hereford cathedral:赫里福德大教堂
 hereford cathedral:赫里福德座堂
+hereford cathedrals:赫里福德大教堂
 hereford cattle:海福特牛
+hereford college:赫里福德学院
 hereford county:赫里福德县
+hereford diocese:赫里福德教區
 hereford hog:海福特猪
 hereford map:赫里福德地图
 hereford mappa mundi:赫里福德地圖
@@ -49423,6 +49609,7 @@ heremtai:和日木太
 heremtei:和日木太
 heren lane:和仁巷
 heren railway station:和仁車站
+heren station:和仁站
 heren village:何仁里
 heren:hé rén
 heren:和仁
@@ -49492,6 +49679,7 @@ hericium:猴头菌属
 herihor:赫里霍尔
 hering illusion:黑林错觉
 heringen:黑林根
+heringsdorf airport:黑灵斯多夫机场
 heringsdorf:黑灵斯多夫
 heriok:赫里奥克
 heriot watt university:赫瑞瓦特大学
@@ -49661,6 +49849,7 @@ heritage foundation:遗产基金
 heritage fund corporation:遗产基金公司
 heritage fund:遗产基金
 heritage gallery:遗产画廊
+heritage games:遗产游戏
 heritage garden of lu yu’s birthplace:茶圣故里园
 heritage garden:遗产花园
 heritage george:遗产乔治
@@ -49790,6 +49979,7 @@ heritage protection:遗产保护
 heritage public:遗产公共
 heritage railroad:遗产铁路
 heritage railway:观光铁路
+heritage railway:遗产铁路
 heritage rainforest:遗产雨林
 heritage range:赫里蒂奇嶺
 heritage records:遗产记录
@@ -49857,6 +50047,7 @@ heritage town:遗产城镇
 heritage training:遗产培训
 heritage travel:遗产旅行
 heritage tree:遗产树
+heritage trilogy:遗产三部曲
 heritage trust:遗产信托
 heritage university located:遗产大学位于
 heritage university:遗产大学
@@ -49888,6 +50079,7 @@ herkulesen zutabeak:海格力斯之柱
 herkulessøylene:海格力斯之柱
 herkulesturm:大力士塔
 herkül kulesi:大力士塔
+herl township:黑尔镇区
 herl:黑尔
 herlaua:哈洛
 herleshausen:黑勒斯豪森
@@ -50010,11 +50202,14 @@ hermit road:隱士路
 hermit:隱士
 hermita villa:逸庐
 hermita villa:逸廬
+hermitage bridge:冬宫桥
 hermitage cats:冬宮貓
 hermitage island:赫米蒂奇島
 hermitage museum:冬宫
+hermitage museum:冬宫博物馆
 hermitage museum:埃尔米塔日博物馆
 hermitage of st. charbel:圣夏贝尔修道院
+hermitage plaza:冬宫廣場
 hermitage:冬宫
 hermitage:赫米特吉
 hermite interpolation:埃尔米特插值
@@ -50112,6 +50307,7 @@ hero attila:英雄阿提拉
 hero aung san:英雄昂山
 hero awards:英雄奖
 hero ball:英雄球
+hero bank:英雄銀行
 hero batman:英雄蝙蝠侠
 hero bay:英雄灣
 hero be:英雄成为
@@ -50139,11 +50335,13 @@ hero character:英雄角色
 hero charlie:英雄查理
 hero chris taylor:英雄克里斯泰勒
 hero chris:英雄克里斯
+hero cities:英雄城市
 hero city of ukraine:乌克兰英雄城市
 hero city of ukraine:烏克蘭英雄城市
 hero city:英雄城市
 hero claim:英雄主张
 hero class:英雄类
+hero classroom:英雄教室
 hero cliff:英雄崖
 hero coach:英雄教练
 hero cobb:英雄科布
@@ -50195,6 +50393,8 @@ hero francis:英雄弗朗西斯
 hero friends:英雄朋友
 hero from:英雄从
 hero fund:英雄基金
+hero game:英雄游戏
+hero games:英雄游戏
 hero general:英雄将军
 hero generation:英雄世代
 hero george:英雄乔治
@@ -50256,6 +50456,7 @@ hero london:英雄伦敦
 hero louis:英雄路易斯
 hero mahatma gandhi:英雄圣雄甘地
 hero martin:英雄马丁
+hero mask:英雄面具
 hero mayor:英雄市长
 hero medal:英雄獎章
 hero mironov:英雄米罗诺夫
@@ -50381,6 +50582,8 @@ hero story:英雄故事
 hero style:英雄风格
 hero suffer:英雄遭受
 hero superman:英雄超人
+hero supermarket:英雄超市
+hero syndrome:英雄综合症
 hero system:英雄系統
 hero system:英雄系统
 hero tales:獸神演武
@@ -50713,6 +50916,7 @@ heros spurius:似英麗魚
 herostratus:黑若斯達特斯
 herpangina:疱疹性咽峡炎
 herpelmont:埃佩尔蒙
+herpes encephalitis:单纯疱疹脑炎
 herpes esophagitis:疱疹性食管炎
 herpes gladiatorum:角斗士疱疹
 herpes meningitis:疱疹病毒性脑膜炎
@@ -50722,6 +50926,8 @@ herpes simplex virus and syphilis:单纯疱疹病毒和梅毒
 herpes simplex virus and tuberculosis:单纯疱疹病毒和结核病
 herpes simplex virus infection:单纯疱疹病毒感染
 herpes simplex virus:单纯疱疹病毒
+herpes virus:单纯疱疹病毒
+herpes viruses:单纯疱疹病毒
 herpes:单纯疱疹
 herpestes:獴属
 herpestoidea:獴總科
@@ -50874,6 +51080,7 @@ herseng:格日僧苏木
 herseq novi:新海尔采格
 herseq novi:新海爾采格
 herserange:埃尔瑟朗日
+hersey township:澤西鎮區
 hersey township:赫西镇区
 hersey:泽西
 hersey:泽西 / 澤西
@@ -50917,13 +51124,18 @@ hertfordshire business school:赫特福德郡商学院
 hertfordshire cohort study:赫特福德郡队列研究
 hertfordshire community:赫特福德郡社区
 hertfordshire county council:赫特福德郡县议会
+hertfordshire east:赫特福德郡东
+hertfordshire east:赫特福德郡東
 hertfordshire economy:赫特福德郡经济
 hertfordshire farm:赫特福德郡农场
 hertfordshire growth:赫特福德郡增长
 hertfordshire international college:赫特福德郡国际学院
 hertfordshire international:赫特福德郡国际
 hertfordshire major:赫特福德郡主要
+hertfordshire north:赫特福德郡北
+hertfordshire police:赫特福德郡警察
 hertfordshire schools:赫特福德郡学校
+hertfordshire university:赫特福德郡大学
 hertfordshire:赫特福德郡
 hertha bsc:柏林赫塔體育俱樂部
 hertha nunatak:赫莎冰原島峰
@@ -50965,6 +51177,7 @@ hertz speed:赫兹速度
 hertz sports car:赫兹跑车
 hertz system:赫兹系统
 hertz transceiver:赫兹收发器
+hertz vector:赫兹矢量
 hertz wave:赫兹波
 hertz whale:赫兹鲸
 hertz wide:赫兹宽
@@ -51332,6 +51545,7 @@ heshuang no. 21 riverside park:河雙21號河濱公園
 heshucun:合束村
 heshucun:和书村
 heshucun:荷树村
+heshui campaign:合水战役
 heshui campaign:合水戰役
 heshui county:合水县
 heshui county:合水縣
@@ -51375,6 +51589,7 @@ heshun church:和順教會
 heshun coach terminal:和顺客运站
 heshun community:和顺社区
 heshun county people's procuratorate:和顺县人民检察院
+heshun county:和順县
 heshun county:和順縣
 heshun county:和顺县
 heshun elementary school:和順國小
@@ -51492,6 +51707,7 @@ hespererato nanhaiensis:南海金星爱神螺
 hespererato:金星爱神螺属
 hesperia comma:弄蝶
 hesperia planum:赫斯珀利亞高原
+hesperian period:赫斯珀里亚纪时期
 hesperian:赫斯珀里亚纪
 hesperides hill:赫斯佩里得斯山
 hesperides:赫斯珀里得斯
@@ -51552,6 +51768,7 @@ hess:何嘉仁美語
 hess:赫斯
 hessa:黑森州
 hessdalen lights:赫斯達倫之光
+hesse constitution:黑森州宪法
 hesse peak:黑森峰
 hesse region:黑森地区
 hesse select:黑森选择
@@ -52254,6 +52471,7 @@ heungdeok 2-dong:興德2洞
 heungdeok 3-dong:兴德3洞
 heungdeok 3-dong:興德3洞
 heungdeok district:兴德区
+heungdeok district:興德區域
 heungdeok of silla:興德王
 heungdeok-dong:兴德 洞
 heungdeok-dong:兴德洞
@@ -52617,6 +52835,7 @@ hexestrol diacetate:己烷雌酚二醋酸酯
 hexestrol:己烷雌酚
 hexham abbey:赫克瑟姆修道院
 hexham and newcastle:赫克瑟姆和纽卡斯尔
+hexham monastery:赫克瑟姆修道院
 hexham:赫克瑟姆
 hexi - tanxi boundary:河西潭西边界
 hexi 1st street:河西一街
@@ -52644,6 +52863,8 @@ hexi north street:河西北街
 hexi north:河西北
 hexi park:河西公园
 hexi primary school:河西小学
+hexi province:河西省
+hexi region:河西地区
 hexi reservoir:héxī shuǐkù
 hexi reservoir:河溪水库
 hexi reservoir:河西水库
@@ -53015,6 +53236,7 @@ heyancun:河沿村
 heyang community:何杨社区
 heyang county:héyáng xiàn
 heyang county:合阳县
+heyang county:河阳县
 heyang county:郃陽縣
 heyang east road:河阳东路
 heyang east road:鹤阳东路
@@ -53203,11 +53425,13 @@ heyuan canteen 1:荷园一食堂
 heyuan canteen 1:荷園一食堂
 heyuan cultural sqaure:河源文化广场
 heyuan east road:鹤园东路
+heyuan east:河源东
 heyuan feng:河源峰
 heyuan hebei primary school:河源市河背小学
 heyuan longchuan (bao’an) science & technology innovation centre:河源龍川（寶安）科技創新中心
 heyuan longchuan (bao’an) science & technology innovation centre:河源龙川（宝安）科技创新中心
 heyuan north li:鹤园北里
+heyuan north:河源北
 heyuan people’s hospital:河源市人民医院
 heyuan puqian central primary school:河源市埔前中心小学
 heyuan railway station:河源站
@@ -53372,6 +53596,7 @@ hezekiah and jehoshaphat:希西家和約沙法
 hezekiah and josiah:希西家和約西亞
 hezekiah answer:希西家回答
 hezekiah he:希西家他
+hezekiah king:希西家王
 hezekiah lewis:希西家刘易斯
 hezekiah said:希西家说
 hezekiah:希西家
@@ -53466,6 +53691,7 @@ hezhou junction:鹤洲立交
 hezhou language:河州话
 hezhou north:鹤洲北
 hezhou railway station:贺州站
+hezhou region:贺州地区
 hezhou road:鹤洲路
 hezhou school:鹤洲学校
 hezhou south:鹤洲南
@@ -53550,6 +53776,7 @@ hezuibacun:河嘴巴村
 hezuishang:河咀上
 hezuo 1st village:合作一村
 hezuo city:hézuò shì
+hezuo city:合作城市
 hezuo city:合作市
 hezuo farm:合作農場
 hezuo market:合作市場

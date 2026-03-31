@@ -233,6 +233,8 @@ public addresses:公共地址
 public administration department:公共行政学系
 public administration research:公共行政学研究
 public administration theory:公共行政学理论
+public administration:公众管理
+public administration:公共管理
 public administration:公共行政学
 public administrator:公众管理员
 public administrator:公共管理员
@@ -666,6 +668,7 @@ public aquarium:水族館
 public arabic:公共阿拉伯语
 public archaeology:公众考古学
 public architects:公共建筑师
+public architecture:公共建筑
 public archive:公众档案
 public archive:公共档案
 public archive:公共檔案
@@ -683,7 +686,10 @@ public art design:公共藝術設計
 public art fund:公共藝術基金
 public art is mediation:公共藝術是調解
 public art mural:公共藝術壁畫
+public art:公共艺术
 public art:公共藝術
+public artist:公共艺术家
+public artists:公共艺术家
 public as well as:公众以及
 public as well as:公共以及
 public as well:公众也
@@ -781,9 +787,13 @@ public bar:公共酒吧
 public barbecue:公共燒烤
 public barge:公共驳船
 public base station:公共基站
+public bathhouse:公共澡堂
+public bathing:公共沐浴
 public bathing:公眾浴場
 public bathroom facilities:公共浴室设施
+public bathroom:公众浴室
 public bathroom:公共浴室
+public bathroom:公眾浴室
 public beach:公众海滩
 public beach:公共海滩
 public before:公众之前
@@ -808,6 +818,7 @@ public benefit:公众利益
 public benefit:公共利益
 public benefit:公共的利益
 public benefit:公共福利
+public benefit:公眾利益
 public benefit:公眾福利
 public better understand:公众更好理解
 public better:公众更好
@@ -882,6 +893,7 @@ public breastfeeding:公共母乳喂养
 public bridge:公共桥
 public broadcast service:公共广播服务
 public broadcast system:公共广播系统
+public broadcast:公众广播
 public broadcast:公共广播
 public broadcasting association:公共广播协会
 public broadcasting corporation:公共廣播公司
@@ -1285,6 +1297,8 @@ public copyright:公共版权
 public cord blood:公眾臍帶血
 public core:公共核心
 public corporation assets:公共公司资产
+public corporation:公众公司
+public corporation:公共企业
 public corporation:公共公司
 public corporation:公眾公司
 public corporations:公共企业
@@ -1382,6 +1396,7 @@ public debate:公共辩论
 public debate:公共辯論
 public debate:公眾辯論
 public debt:公众债务
+public debt:公共债务
 public decide:公众决定
 public decision making:公共决策
 public decision-making:公众决策
@@ -1455,6 +1470,7 @@ public diplomacy strategy:公共外交策略
 public diplomacy tools:公共外交工具
 public diplomacy work:公共外交工作
 public diplomacy:公共外交
+public diplomacy:公眾外交
 public directory:公共目录
 public directory:公共目錄
 public disappointment:公众失望
@@ -1523,6 +1539,7 @@ public domain tag:公有领域标签
 public domain technology:公有领域技术
 public domain under:公共域下
 public domain:公共域
+public domain:公共域名
 public domain:公有领域
 public don't know:公众不知道
 public don't:公众不
@@ -1553,6 +1570,7 @@ public duty:公众责任
 public duty:公共義務
 public duty:公共责任
 public easter:公共复活节
+public ecology:公共生态学
 public economic policies:公共经济政策
 public economics and china:公共经济学和中国
 public economics and finance:公共经济学和金融
@@ -1681,6 +1699,7 @@ public enterprise fund:公共企业基金
 public enterprise minister:公共企业部长
 public enterprise reform:公共企业改革
 public enterprise:公众企业
+public enterprise:公共事业
 public enterprise:公共企业
 public enterprises and bank:公共企业和银行
 public enterprises:公众企业
@@ -1840,6 +1859,7 @@ public finance management:公共財政管理
 public finance policy:公共財政政策
 public finance reforms:公共財政改革
 public finance:公共財政
+public finance:公共财政
 public finance:大眾財務
 public financial asset:公共金融资产
 public financial institution and export:公共金融机构和出口
@@ -1984,6 +2004,7 @@ public habit:公共的习惯
 public had been:公众已经
 public hair:公共的头发
 public hall:公共大厅
+public hall:公共礼堂
 public hands:公众手
 public hands:公共手
 public hands:公眾手
@@ -2544,7 +2565,10 @@ public health warning:公共卫生警告
 public health week:公共卫生周
 public health work experience:公共卫生工作经验
 public health work:公共卫生工作
+public health:公众健康
+public health:公共健康
 public health:公共卫生
+public health:公眾健康
 public hear:公众听
 public heel:公共脚跟
 public hell:公共地獄
@@ -2560,9 +2584,12 @@ public higher education:公共高等教育
 public higher-education:公共高等教育
 public highway:公共公路
 public historian:公共历史学家
+public history:公众历史
 public history:大眾史學
 public hoarding:公众囤积
 public holding company:公共控股公司
+public holiday:公众假日
+public holiday:公共假日
 public holiday:公眾假日
 public holidays in afghanistan:阿富汗節日
 public holidays in armenia:亚美尼亚节日与公众假期
@@ -2629,6 +2656,7 @@ public hot:公共熱
 public hotel entry:公共的酒店入口
 public hotel:公共旅馆
 public hotel:公共的酒店
+public house:公众住宅
 public house:公共住宅
 public house:公共房子
 public house:公共的房子
@@ -2655,6 +2683,9 @@ public housing estates in tseung kwan o:寶盈花園
 public housing in hong kong:香港公共房屋
 public housing in singapore:组屋
 public housing in taiwan:國民住宅
+public housing:公众住宅
+public housing:公共住宅
+public housing:公共住房
 public housing:公營住宅
 public housing:国民住宅
 public housing:國民住宅
@@ -2673,6 +2704,7 @@ public hydrogen fuel station:公共氢燃料站
 public hydrogen fuel:公共氢燃料
 public hydrogen:公共氢
 public hydrogen:公共的氢
+public hygiene:公共卫生学
 public i:公共我
 public identifier:公共标识符
 public identifier:公共標識符
@@ -2848,8 +2880,10 @@ public intellectual property resource:公共知识产权资源
 public intellectual property:公共知识产权
 public intellectual:公众知识分子
 public intellectual:公共的知识分子
+public intellectual:公共知识分子
 public intellectuals find:公众知识分子发现
 public intellectuals:公众知识分子
+public intellectuals:公共知识分子
 public interest or policy:公眾利益或政策
 public interest or public:公眾利益或公眾
 public interest reasons:公眾利益原因
@@ -2953,6 +2987,7 @@ public issues:公众问题
 public issues:公共问题
 public ivy:公立常春藤
 public jobs:公共工作
+public journal:公共日志
 public journalists:公共记者
 public journey:公共旅行
 public joy:公众欢乐
@@ -2975,6 +3010,7 @@ public key:公共钥匙
 public kill:公众杀
 public kill:公共杀
 public kitchen:公共厨房
+public kitchen:公共廚房
 public know exist:公眾知道存在
 public know these algorithms:公众知道这些算法
 public know:公众知道
@@ -3048,7 +3084,9 @@ public law project:公法项目
 public law research center:公法研究中心
 public law research:公法研究
 public law responsibility:公法责任
+public law:公共法律
 public law:公法
+public laws:公共法律
 public leader:公众领袖
 public leadership:公共領導力
 public leadership:公眾領導力
@@ -3131,6 +3169,8 @@ public library users:公共图书馆用户
 public library would:公共图书馆将
 public library xixi branch:圖書館溪西分館
 public library:公共图书馆
+public library:公共圖書館
+public library:公眾圖書館
 public license policy:公共许可证政策
 public license version:公共许可证版本
 public license:公众许可证
@@ -3435,6 +3475,7 @@ public observation deck:公共觀景台
 public observation:公众观察
 public obtain:公众获得
 public obviously:公众显然
+public offer:公共提供
 public offering documents:公开发行文件
 public offering fund:公开发行基金
 public offering has been:公开发行已经
@@ -3582,6 +3623,7 @@ public opinion wave:舆论波
 public opinion will:舆论会
 public opinion work:舆论工作
 public opinion would:舆论将
+public opinion:公众意见
 public opinion:舆论
 public opportunities:公共机会
 public opportunity:公共的机会
@@ -3706,6 +3748,7 @@ public park system:公共公园系统
 public park:公众公园
 public park:公共公园
 public park:公共的公园
+public park:公眾公園
 public parking lot:公共停車場
 public parking space:公共停車位
 public part:公共的部分
@@ -3817,6 +3860,7 @@ public pocket:公众口袋
 public poet:公共诗人
 public point:公共点
 public policies:公众政策
+public policies:公共政策
 public policies:公眾政策
 public policy action:公共政策行动
 public policy activities:公共政策活动
@@ -4124,6 +4168,7 @@ public privacy:公共隐私
 public private:公共私人
 public privatization:公共私有化
 public privilege:公共特权
+public prize:公众奖
 public prize:公共奖
 public problem:公共問題
 public problem:公共问题
@@ -4155,6 +4200,7 @@ public projects:公共项目
 public propaganda:公共宣传
 public properties:公共属性
 public property is illegal:公物是非法
+public property:公共財產
 public property:公物
 public prosecution service of canada:加拿大檢控署
 public prosecutor's office:檢察機關
@@ -4281,6 +4327,7 @@ public rehabilitation:公众康复
 public rehabilitation:公共康复
 public reject:公众拒绝
 public relation:公众关系
+public relation:公共关系
 public relations activities:公共关系活动
 public relations activity:公共关系活动
 public relations and a true:公共关系和一个真
@@ -4676,6 +4723,8 @@ public sample:公共样本
 public sanatorium:公共療養院
 public sanction:公共制裁
 public sanctions:公共制裁
+public sandbox:公共沙盒
+public sanitation:公共卫生设施
 public satellite image:公共卫星图像
 public satellite:公共卫星
 public sauna:公共桑拿
@@ -4710,6 +4759,7 @@ public science centre:公共科学中心
 public science day:公共科学日
 public science foundation:公共科学基金
 public science library:公共科学图书馆
+public science:公众科学
 public science:公共科学
 public scientific:公共科学
 public scientist:公共科学家
@@ -5185,6 +5235,7 @@ public service venue:公共服务场所
 public service work:公共服务工作
 public service:公共服务
 public services and procurement canada:加拿大公務及採購部
+public services:公共服务
 public set:公共设置
 public sex:公開性行為
 public shame:公众羞耻
@@ -5265,7 +5316,9 @@ public soybean:公共的大豆
 public space design:公共空間設計
 public space how to:公共空間如何
 public space management:公共空間管理
+public space:公众空間
 public space:公共空間
+public space:公共空间
 public speaking and teach:演講和教
 public speaking is no longer:演講不再是
 public speaking skills:演講技巧
@@ -5296,6 +5349,7 @@ public square street yau ma tei:油麻地眾坊街
 public square street:眾坊街
 public stable:公众稳定的
 public stablecoin:公共的稳定币
+public stadium:公共体育场
 public stairs:公共楼梯
 public standard available:公共标准可用的
 public standard:公共标准
@@ -5512,7 +5566,9 @@ public toilet d:公厕d
 public toilet d:公廁d
 public toilet in rua de malaca:馬六甲街公廁
 public toilet seat:公共廁所座位
+public toilet:公共厕所
 public toilet:公共廁所
+public toilet:公眾廁所
 public toilets in macao:澳門公共廁所
 public toilets:8.公厕
 public toilets:公共厕所
@@ -5767,6 +5823,8 @@ public transport work:公共交通工作
 public transport workers:公共交通工人
 public transport would:公共交通将
 public transport:公共交通
+public transport:公共运输
+public transportation:公共运输
 public travel security:公共旅行安全
 public travel:公共旅行
 public treasure:公共的财宝
@@ -5854,6 +5912,7 @@ public users:公众用户
 public users:公共用户
 public uses:公众使用
 public uses:公共使用
+public uses:公眾使用
 public usually:公众通常
 public utilities techinal school:公用事业技校站
 public utility and building services:公用事业和建筑服务
@@ -7505,6 +7564,7 @@ pucheng avenue:蒲城大道
 pucheng coach terminal:濮城汽车站
 pucheng county:púchéng xiàn
 pucheng county:pǔchéng xiàn
+pucheng county:普城县
 pucheng county:浦城
 pucheng county:浦城县
 pucheng county:浦城縣
@@ -7710,6 +7770,7 @@ pudong football stadium station:浦东足球场站
 pudong football stadium:浦东足球场
 pudong international information port:上海信息大楼
 pudong library:浦东图书馆
+pudong library:浦东新区图书馆
 pudong line:堡东线
 pudong mosque:浦东清真寺
 pudong police station:埔東派出所
@@ -7758,22 +7819,27 @@ pudož:普多日
 pudoža:普多日
 pudu city restaurant:富城
 pudu food street:富都美食坊
+pudu jail:半山芭监狱
 pudu lrt station:半山芭站
 pudu mephistophiles:北方普度鹿
 pudu plaza:富都广场
 pudu plaza:富都廣場
+pudu prison:半山芭监狱
 pudu prison:半山芭監獄
 pudu river:pǔdù hé
 pudu river:普渡河
 pudu sentral:富都中环
 pudu sentral:富都中环车站
 pudu sentral:富都中環
+pudu station:半山芭站
 pudu temple:pǔdù sì
 pudu ulu:蕉賴老街場
 pudu ulu:蕉赖老街场
 pudu-tempel:pǔdù sì
 pudu:半山芭
 pudu:普度鹿属
+puducherry airport:本地治里机场
+puducherry airport:本地治里機場
 puducherry district:本地治里县
 puducherry:本地治里
 puducherry:本地治里中央直辖区
@@ -7810,6 +7876,7 @@ puebla de yeltes:耶尔特斯镇
 puebla del maestre:马埃斯特雷镇
 puebla del prior:普里奥尔镇
 puebla del salvador:萨尔瓦多镇
+puebla earthquake:普埃布拉州地震
 puebla government:普埃布拉州政府
 puebla international airport:普埃布拉州国际机场
 puebla sinkhole:普埃布拉陷坑
@@ -7821,6 +7888,7 @@ pueblo and spanish culture:普韦布洛和西班牙文化
 pueblo began:普韦布洛开始
 pueblo bello:普韋布洛貝略
 pueblo communities:普韦布洛社区
+pueblo county:普韦布洛县
 pueblo cultural center:普韦布洛文化中心
 pueblo culture:普韦布洛文化
 pueblo de los koi:锦鲤之乡
@@ -7839,6 +7907,7 @@ pueblo roads:普韦布洛路
 pueblo route:普韦布洛路线
 pueblo to san:普韦布洛到圣
 pueblo tribe:普韦布洛部落
+pueblo uprising:普韦布洛起义
 pueblo village:普韦布洛村
 pueblo village:普韦布洛村庄
 pueblo:普韦布洛
@@ -8335,6 +8404,7 @@ pugnaso:拳海龍屬
 pugnose bass:加勒比泡鱸
 pugnose minnow:小口鮈
 pugnose shiner:无颏美洲鱥
+pugo station:富居站
 pugo-ri:富居里
 pugo:富居
 pugong:溥侊
@@ -8638,6 +8708,8 @@ pujiuhecun:普救河村
 pujols sur ciron:锡龙河畔皮若勒
 pujon county:赴战郡
 pujon county:赴戰郡
+pujonhoban station:赴战湖畔站
+pujonhoban station:赴戰湖畔站
 pujonhoban:赴战湖畔
 pujonhoban:赴戰湖畔
 pujue river:pǔjué hé
@@ -8742,6 +8814,7 @@ pukou:蒲口镇
 pukou:铺口
 pukoucun:浦口村
 pukouwanhuicheng station:浦口万汇城站
+pukouwanhuicheng station:浦口萬匯城站
 pukouwanhuicheng:pŭkŏu wànhuìchéng
 pukouwanhuicheng:浦口万汇城
 pukouwanhuicheng:浦口萬匯城
@@ -8778,9 +8851,12 @@ pul:普爾
 pula airport:普拉机场
 pula airport:普拉機場
 pula and motovun:普拉和莫托文
+pula arena:普拉竞技场
 pula arena:普拉競技場
 pula cathedral:普拉主教座堂
+pula cathedral:普拉大教堂
 pula communal palace:普拉公民宮
+pula fund:普拉基金
 pula nga dagat (lalawigan):红海省 (埃及)
 pula province:普拉省
 pula river:普拉河
@@ -9166,6 +9242,8 @@ pulgaraland:保加利亞
 pulgasari:平壤怪兽
 pulgunbjol:紅星
 pulgunbjol:红星
+pulgunbyol station:紅星站
+pulgunbyol station:红星站
 pulgunbyol:紅星
 pulgunbyol:红星
 pulgŭn island:赤岛
@@ -9244,6 +9322,7 @@ puligari:保加利亚
 puligari:保加利亚/保加利亞
 puligari:保加利亞
 puligny montrachet:皮利尼蒙拉谢
+pulilan church:布里蘭教堂
 pulilan:布里蘭
 pulincun:蒲林村
 pulinesia francisi:法属波利尼西亚
@@ -9293,6 +9372,8 @@ pull and stop:拉和停止
 pull another:拉另一个
 pull applications:拉应用
 pull at your heart:拉在你的心
+pull back:拉回
+pull back:拉背
 pull balance:拉平衡
 pull big:拉大
 pull cable:拉电缆
@@ -9590,6 +9671,7 @@ pulp and timber products:纸浆和木材产品
 pulp and wood pulp:纸浆和木浆
 pulp art:纸浆艺术
 pulp certification:纸浆认证
+pulp comics:纸浆漫画
 pulp company:纸浆公司
 pulp concentration:纸浆浓度
 pulp consumption:纸浆消费
@@ -9608,6 +9690,7 @@ pulp fiction director:低俗小说导演
 pulp fiction fact:低俗小说事实
 pulp fiction magazine:低俗小说杂志
 pulp fiction:低俗小说
+pulp fiction:纸浆小说
 pulp field:纸浆领域
 pulp food container:纸浆食品容器
 pulp food:纸浆食品
@@ -9619,6 +9702,7 @@ pulp industry:纸浆工业
 pulp literature:纸浆文学
 pulp magazine:廉价浆纸杂志
 pulp magazine:紙漿雜誌
+pulp magazine:纸浆杂志
 pulp magazines:廉价浆纸杂志
 pulp manufacturer:纸浆制造商
 pulp manufacturers:纸浆制造商
@@ -9649,6 +9733,7 @@ pulp supply chain:纸浆供应链
 pulp technology:纸浆技术
 pulp to paper:纸浆到纸
 pulp tree:纸浆树
+pulp wood:纸浆木材
 pulp writers:纸浆作家
 pulp:纸浆
 pulpit mountain:普爾皮特山
@@ -10135,6 +10220,7 @@ pump source:泵源
 pump speed:泵速度
 pump standardization:泵标准化
 pump start:泵开始
+pump station:泵站
 pump stop:泵停止
 pump structure:泵结构
 pump switch:泵开关
@@ -10191,11 +10277,13 @@ pumpkin ass:南瓜屁股
 pumpkin bag:南瓜袋子
 pumpkin ball:南瓜球
 pumpkin blueberry:南瓜蓝莓
+pumpkin bomb:南瓜炸弹
 pumpkin bomb:南瓜炸彈
 pumpkin bread:南瓜面包
 pumpkin cake:南瓜蛋糕
 pumpkin caramel:南瓜焦糖
 pumpkin carving:南瓜雕琢
+pumpkin center:南瓜中心
 pumpkin chase:南瓜追逐
 pumpkin clock:南瓜时钟
 pumpkin diamond:南瓜钻石
@@ -10305,6 +10393,7 @@ punanxiaba:普南下坝
 punaporu:红博尔
 punarvasu:不奈婆修
 punase lageda:紅波利亞納
+punata province:普納塔省
 punata province:普纳塔县
 punata:普納塔
 punatitan:高原巨龍屬
@@ -10386,6 +10475,7 @@ pundro:pengzhuocun
 pundro:彭卓村
 pune airport facilities:浦那机场设施
 pune airport:浦那机场
+pune airport:浦那機場
 pune and chandigarh:浦那和昌迪加尔
 pune and delhi:浦那和德里
 pune and mumbai:浦那和孟买
@@ -10398,12 +10488,14 @@ pune fc:浦那足球俱乐部
 pune international airport:浦那国际机场
 pune international centre:浦那国际中心
 pune international:浦那国际
+pune marathon:浦那马拉松
 pune market:浦那市场
 pune markets:浦那市场
 pune metro:浦那地鐵
 pune police:浦那警察
 pune region:浦那地区
 pune university:浦那大学
+pune university:浦那大學
 pune:浦那
 puneng:普能
 puneo:浦那
@@ -10461,21 +10553,28 @@ punggi:豊基
 punggol bus interchange:榜鹅临时转换站
 punggol central:榜鹅中路
 punggol coast mrt station:榜鵝海岸地鐵站
+punggol coast:榜鵝海岸
 punggol coast:榜鹅海岸
 punggol digital district:榜鹅数码园区
+punggol east:榜鵝東
 punggol east:榜鹅东
 punggol grc:榜鹅集选区
 punggol green:榜鹅埔
 punggol lrt line:榜鵝輕軌
 punggol park connect:榜鹅公园连接
+punggol park:榜鵝公園
 punggol park:榜鹅公园
 punggol point lrt station:榜鵝坊輕軌站
 punggol point:榜鹅坊
 punggol road:榜鹅路
+punggol station:榜鵝站
+punggol station:榜鹅站
 punggol temporary bus interchange:榜鹅临时巴士转换站
 punggol town square:榜鹅市广场
 punggol walk:榜鹅径
 punggol waterway park:榜鹅水滨公园
+punggol west:榜鵝西
+punggol west:榜鹅西
 punggol:榜鵝
 punggol:榜鹅
 punggye ri nuclear test site:豐溪里核試驗場
@@ -10497,6 +10596,8 @@ punghyeon-ri:枫岘里
 punghyeon-ri:楓峴里
 pungin labor district:丰仁劳动者区
 pungin labor district:豐仁勞動者區
+pungin station:丰仁站
+pungin station:豐仁站
 pungin:丰仁
 pungin:豐仁
 pungjeon-ri:丰田里
@@ -10510,6 +10611,8 @@ pungmu station:豐舞站
 pungmu-dong:豊舞洞
 pungmu:豊舞
 pungmul:农乐
+pungnam station:丰南站
+pungnam station:豐南站
 pungnam-ri:丰南里
 pungnam-ri:豐南里
 pungnam:丰南
@@ -10530,6 +10633,7 @@ pungnyeon-ri:豐年里
 pungnyeon:丰年
 pungnyeon:豐年
 pungpa ri:彭巴日峰
+pungri station:丰利站
 pungri station:豐利站
 pungri-ri:丰利里
 pungri-ri:豐利里
@@ -10540,6 +10644,10 @@ pungryong-ri:豐龍里
 pungryu-ri:丰流里
 pungryu-ri:豐流里
 pungsan dog:丰山狗
+pungsan dog:豐山犬
+pungsan dog:豐山狗
+pungsan station:丰山站
+pungsan station:豐山站
 pungsan-dong:豊山洞
 pungsan-dong:風山洞
 pungsan-dong:风山洞
@@ -10600,6 +10708,8 @@ puning city:pǔníng shì
 puning city:普宁市
 puning city:普寧
 puning city:普寧市
+puning county:普宁县
+puning county:普寧县
 puning railway station:普宁站
 puning river:pǔníng hé
 puning river:普宁河
@@ -10931,6 +11041,9 @@ punishment:惩罚
 punitaqui:普尼塔基
 punitive damages:懲罰性賠償
 punjab communist revolutionary committee:旁遮普共产主义革命委员会
+punjab government:旁遮普省政府
+punjab police:旁遮普省警察
+punjab police:旁遮普邦警察
 punjab razorbelly minnow:巴基斯坦鮭口波魚
 punjab tianjin university of technology:旁遮普天津技术大学
 punjab:旁遮普地区
@@ -10962,6 +11075,8 @@ punk band member:朋克乐队成员
 punk band:朋克乐队
 punk band:龐克乐队
 punk best:朋克最好
+punk blues:朋克藍調
+punk blues:龐克藍調
 punk boots:朋克靴子
 punk boy:朋克男孩
 punk club:朋克俱乐部
@@ -10974,8 +11089,10 @@ punk culture:龐克文化
 punk economics:朋克经济学
 punk elements:朋克元素
 punk energy:朋克能量
+punk fashion:朋克时尚
 punk fiction:朋克小说
 punk film:朋克电影
+punk films:朋克电影
 punk generation:龐克世代
 punk girl:朋克女孩
 punk girl:龐克女孩
@@ -10983,6 +11100,7 @@ punk god:朋克神
 punk group:朋克组
 punk horror:朋克恐怖
 punk icon:朋克图标
+punk ideology:朋克意识形态
 punk influence:朋克影响
 punk influence:朋克影响力
 punk into:朋克进入
@@ -10996,6 +11114,7 @@ punk metal band:朋克金属乐队
 punk metal:朋克金属
 punk music and culture:朋克音乐和文化
 punk music:朋克音乐
+punk music:龐克音乐
 punk musician:朋克音乐家
 punk novelist:朋克小说家
 punk performance:朋克表演
@@ -11009,6 +11128,7 @@ punk print:朋克打印
 punk project:朋克项目
 punk projects:朋克项目
 punk protest:朋克抗议
+punk rap:朋克说唱
 punk revolution:朋克革命
 punk rock and skateboard:朋克搖滾和滑板
 punk rock band:朋克搖滾乐队
@@ -11020,6 +11140,7 @@ punk spent:朋克花
 punk spirit:朋克精神
 punk style:朋克风格
 punk subculture:龐克文化
+punk subculture:龐克次文化
 punk support band:朋克支持乐队
 punk support:朋克支持
 punk syndrome:朋克综合症
@@ -11047,8 +11168,10 @@ punkva:蓬克瓦河
 punli:盆里
 punnawithi bts station:布納威提站
 punnett square:旁氏表
+puno cathedral:普诺主教座堂
 puno district:普諾區
 puno province:普諾省
+puno province:普诺省
 puno region:普诺地区
 puno said:普诺说
 puno still:普诺仍然
@@ -11150,6 +11273,7 @@ puntadura:维尔
 puntadura:维尔岛
 puntallana:蓬塔利亚纳
 puntanipterus:鹿角翼龍
+puntarenas province:蓬塔雷納斯省
 puntarenas province:蓬塔雷纳斯省
 puntarenas:蓬塔雷納斯
 puntarenas:蓬塔雷纳斯省
@@ -11171,6 +11295,7 @@ puntius waageni:瓦氏無鬚魮
 puntius:小鲃属
 puntland and somaliland:邦特兰和索马里兰
 puntland became the first:邦特兰成为第一个
+puntland president:邦特兰总统
 puntland region:邦特兰地区
 puntland regions:邦特兰地区
 puntland security:邦特兰安全
@@ -11257,6 +11382,7 @@ pupil gradient information:瞳孔梯度信息
 pupil gradient:瞳孔梯度
 pupil jesus:瞳孔耶穌
 pupil location estimate:瞳孔位置估计
+pupil magnification:瞳孔放大
 pupil part:瞳孔部分
 pupil reaction:瞳孔反应
 pupil reflex:瞳孔反射
@@ -11294,6 +11420,7 @@ puppet and his father:木偶和他的父亲
 puppet animals:傀儡动物
 puppet animation:木偶动画
 puppet army:偽軍
+puppet army:傀儡军队
 puppet art theatre:木偶艺术剧院
 puppet art:木偶艺术
 puppet as:傀儡当作
@@ -11320,6 +11447,7 @@ puppet emperor liu xie:傀儡皇帝刘勰
 puppet emperor:傀儡皇帝
 puppet entity:傀儡实体
 puppet files:木偶文件
+puppet film:木偶电影
 puppet fisherman:傀儡渔夫
 puppet force:傀儡力量
 puppet friends:木偶朋友
@@ -11327,6 +11455,7 @@ puppet george:傀儡乔治
 puppet girl:傀儡女孩
 puppet girl:木偶女孩
 puppet government:傀儡政府
+puppet governments:傀儡政府
 puppet i:木偶我
 puppet kadyrov:木偶卡德罗夫
 puppet king:傀儡国王
@@ -11337,6 +11466,7 @@ puppet master:傀儡大师
 puppet master:木偶大师
 puppet mode:木偶模式
 puppet module:木偶模块
+puppet monarch:傀儡君主
 puppet movie:木偶电影
 puppet murder:木偶谋杀
 puppet museum:木偶博物馆
@@ -11354,6 +11484,7 @@ puppet president bara:傀儡总统巴拉
 puppet president park geun hye:傀儡总统朴槿惠
 puppet president:傀儡总统
 puppet prime minister:傀儡总理
+puppet princess:木偶公主
 puppet production:木偶生产
 puppet professor:傀儡教授
 puppet queen:傀儡王后
@@ -11367,7 +11498,9 @@ puppet shinzo abe:傀儡安倍晋三
 puppet soldier:傀儡士兵
 puppet spirit:傀儡精神
 puppet state of serbia:塞爾維亞傀儡政權
+puppet state:傀儡国家
 puppet state:傀儡政權
+puppet states:傀儡国家
 puppet team:木偶团队
 puppet theater:木偶剧场
 puppet theatre director:木偶剧院导演
@@ -11376,6 +11509,7 @@ puppet theme:木偶主题
 puppet through:木偶穿过
 puppet tool:木偶工具
 puppet toy:木偶玩具
+puppet troops:傀儡军队
 puppet vichy french regime:傀儡维希法国政权
 puppet vichy:傀儡维希
 puppet would:傀儡将
@@ -11470,9 +11604,12 @@ puppy who:小狗谁
 puppy will:小狗会
 puppy without:小狗没有
 puppy:小狗
+pupung station:富丰站
+pupung station:富豐站
 pupung:富丰
 pupung:富豐
 pupusa:普普沙
+pupyong station:富坪站
 pupyong:富坪
 puqaçyov:普加喬夫
 puqi subdistrict:蒲圻街道
@@ -13092,6 +13229,7 @@ purim:普珥節
 purima:普日马
 purine analogue:嘌呤类似物
 purine and pyrimidine:嘌呤和嘧啶
+purine biosynthesis:嘌呤生物合成
 purine food:嘌呤食物
 purine levels:嘌呤水平
 purine metabolism:嘌呤代谢
@@ -13563,6 +13701,7 @@ purple sponge:紫色海绵
 purple square:紫色正方形
 purple squirrel be:紫色松鼠成为
 purple squirrel:紫色松鼠
+purple state:紫色州
 purple states:紫色国家
 purple still:紫色仍然
 purple stone:紫色石头
@@ -13929,6 +14068,8 @@ pursuit of goeben and breslau:格本號和布雷斯勞號攔截戰
 pursuit of ideas:禮想
 pursuit of the truth:真相追击
 pursuit point:普施特角
+pursuit predation:追击捕食
+pursuit predator:追击捕食者
 pursuit training:追击训练
 pursuit will:追击会
 pursuit:追击
@@ -13951,6 +14092,7 @@ purulia district:普如里亞縣
 purulia:普鲁利耶
 purullena meat:普鲁列纳肉
 purullena:普鲁列纳
+puruma river:缅甸河流
 puruma:miǎndiàn
 puruma:緬甸
 puruma:缅甸
@@ -13976,8 +14118,11 @@ purvis glacier:珀維斯冰川
 purvis peak:珀維斯峰
 purwa:普尔瓦
 purwokerto:普禾加多
+puryong county:富宁县
 puryong county:富宁郡
 puryong county:富寧郡
+puryong station:富宁站
+puryong station:富寧站
 puryong-up:富宁邑
 puryong-up:富寧邑
 puryong:富宁
@@ -14366,6 +14511,7 @@ push anyone:推任何人
 push artificial intelligence:推人工智能
 push away failure:推离失败
 push away:推离
+push back:推回
 push back:推背
 push bad:推坏的
 push bike:推自行车
@@ -14424,6 +14570,7 @@ push paper:推纸
 push past:推过去的
 push past:推過去
 push people:推人们
+push press:推按
 push product:推产品
 push products:推产品
 push proxy gateway:压缩中转服务
@@ -14535,11 +14682,16 @@ pushin ranch:埔心牧場
 pushing daisies:點到即止
 pushing hands:推手
 pushiwa:铺仕洼
+pushkar lake:普斯赫卡尔湖
 pushkar:普斯赫卡尔
 pushkaryova island:普什卡廖夫岛
 pushkin house:普希金之家
 pushkin institute:普希金俄语学院
+pushkin medal:普希金獎章
+pushkin museum:普希金博物馆
 pushkin museum:普希金造型藝術博物館
+pushkin prize:普希金奖
+pushkin statue:普希金雕像
 pushkin street:普希金街
 pushkin street:普希金路
 pushkin:普希金
@@ -15041,6 +15193,7 @@ putao public beach:pútáo tān hǎishuǐ
 putao public beach:葡萄滩海水浴场
 putao reservoir:pútao shuǐkù
 putao reservoir:葡萄水库
+putao township:葡萄鎮區
 putao township:葡萄镇区
 putao xianzi:葡萄仙子
 putao:葡萄
@@ -15073,6 +15226,7 @@ putatan:必打丹
 putbus:普特布斯
 putchumpuraq:布松布拉
 putchumpuraq:布琼布拉
+puteaux station:皮托站
 puteaux:皮托
 puteibacter:井杆菌属
 puteng street:普騰街
@@ -15098,6 +15252,8 @@ puti:菩提街道
 putian city:pútián shì
 putian city:莆田
 putian city:莆田市
+putian county:圃田县
+putian county:莆田县
 putian cuisine:莆田美食
 putian dialect:莆田話
 putian education bureau:莆田市教育局
@@ -15109,6 +15265,7 @@ putian university:莆田学院
 putian university:莆田学院紫霄校区
 putian village:普天里
 putian west railway station:圃田西站
+putian west:圃田西
 putian:pútián
 putian:pútián shì
 putian:圃田
@@ -15121,6 +15278,7 @@ putian:莆田市
 putian:铺田
 putiancun:蒲田村
 putianlu station:蒲田路站
+putianxi station:圃田西站
 putianxi:圃田西
 putiatin:普提雅廷
 putibang:pútíbāng
@@ -15403,8 +15561,11 @@ putlitz:普特利茨
 putnam county:帕特南縣
 putnam township:帕特南鎮區
 putney bridge tube station:帕特尼橋站
+putney bridge:帕特尼桥
+putney bridge:帕特尼橋
 putney bridge:普特尼桥
 putney drake:帕特尼德雷克
+putney station:帕特尼站
 putney:帕特尼
 putnok district:普特諾克區
 putnok vse:普特諾克市體育協會
@@ -15466,6 +15627,8 @@ putra platz:布特拉广场（布城广场）
 putra post:布特拉邮报
 putra residence:丽皇城
 putra square:布特拉广场（布城广场）
+putra stadium:布特拉体育场
+putra stadium:布特拉体育馆
 putra:布特拉
 putracaya:布城
 putradžaja:布城
@@ -15476,6 +15639,7 @@ putrajaya corporation:布城管理局
 putrajaya equestrian park:布城馬術公園
 putrajaya equestrian park:布城马术公园
 putrajaya fire station:布城消拯局
+putrajaya hospital:布城医院
 putrajaya information centre:布城旅游资讯中心
 putrajaya information centre:布城旅遊資訊中心
 putrajaya international convention centre:布城国际会展中心
@@ -15579,6 +15743,7 @@ putuo road:pǔ tuó lù
 putuo road:普陀路
 putuo shan:佛顶山
 putuo temple:普陀禅寺
+putuo village:普陀村
 putuo zongcheng temple:普陀宗乘之庙
 putuo-hegy:佛顶山
 putuo:pǔtuó qū
@@ -15686,6 +15851,7 @@ puxia:铺下
 puxian opera:莆仙戏
 puxian temple park:普贤寺公园
 puxian wannu:蒲鮮萬奴
+puxian zhenren:普贤真人
 puxian:普贤
 puxiantuncun:普贤屯村
 puxiantuocun:普贤坨村

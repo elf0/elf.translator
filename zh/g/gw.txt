@@ -1,4 +1,5 @@
 gw plaza:金輪新天地
+gwa airport:古亚机场
 gwa township:古亚镇区
 gwa township:古亞鎮區
 gwa:古亚
@@ -137,6 +138,8 @@ gwangan 4(sa)-dong:廣安4洞
 gwangan 4-dong:广安4洞
 gwangan 4-dong:廣安4洞
 gwangan bridge:广安大桥
+gwangan bridge:广安桥
+gwangan station:广安站
 gwangan-dong:广安洞
 gwangan-dong:廣安洞
 gwangan:广安
@@ -195,6 +198,7 @@ gwanghan pavilion:廣寒樓 (广寒楼)
 gwangheung-ri:光兴里
 gwangheung-ri:光興里
 gwangheungchang station:广兴仓站
+gwangheungchang station:廣興倉站
 gwangheungchang:廣興倉
 gwanghui dong:光熙洞
 gwanghui police precinct:光熙派出所
@@ -209,9 +213,12 @@ gwanghwa-ri:廣和里
 gwanghwal-myeon:广活面
 gwanghwal-myeon:廣活面
 gwanghwamun gate:光化门
+gwanghwamun plaza:光化門廣場
 gwanghwamun post office:光化门邮局
 gwanghwamun square statue of admniral yi sun shin:李舜臣将军铜像
 gwanghwamun square:光化门广场
+gwanghwamun station:光化門站
+gwanghwamun station:光化门站
 gwanghwamun:光化門
 gwanghwamun:光化门
 gwanghyewon-myeon:广惠院面
@@ -253,7 +260,12 @@ gwangju 8th street:光州八街
 gwangju airport:光州机场
 gwangju airport:光州機場
 gwangju bank:光州银行
+gwangju biennale:光州雙年展
 gwangju fc:光州足球俱樂部
+gwangju government:光州广域市政府
+gwangju government:光州廣域市政府
+gwangju government:广州市政府
+gwangju government:廣州市政府
 gwangju institute of science and technology:光州科学技术院
 gwangju jungang elementary school:光州中央初等学校
 gwangju kia champions field:光州起亞冠軍球場
@@ -264,16 +276,27 @@ gwangju metro line 1:光州都市鐵道1號線
 gwangju metro line 1:光州都市铁道1号线
 gwangju metro line 2:光州都市鐵道2號線
 gwangju metro line 2:光州都市铁道2号线
+gwangju metro:光州地铁
+gwangju metro:光州广域市地铁
 gwangju metro:光州都市鐵道
+gwangju metro:广州市地铁
 gwangju mudeung baseball stadium:光州無等綜合競技場棒球場
 gwangju munhwa broadcasting corporation:光州文化广播
 gwangju road:光州路
+gwangju sangmu:光州尚武
 gwangju songjeong:光州松汀
 gwangju songjeong:光州松汀站
+gwangju stadium:光州體育場
 gwangju station:光州站
 gwangju stream bicycle route:光州川自行車道
+gwangju subway:光州地铁
+gwangju subway:光州广域市地铁
+gwangju subway:广州市地铁
 gwangju tg:光州tg
+gwangju university:光州大学
+gwangju university:光州大學
 gwangju uprising:光州民主化運動
+gwangju uprising:光州起义
 gwangju world cup stadion:光州世界盃競技場
 gwangju world cup stadium:光州世界盃競技場
 gwangju-jeonnam:光州全南

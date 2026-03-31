@@ -2242,11 +2242,15 @@ dock green:船坞绿色
 dock jumping:碼頭跳水
 dock landing ship:船塢登陸艦
 dock management:船坞管理
+dock museum:船坞博物馆
 dock park:码头公园
+dock street:碼頭街
 dock street:船澳街
 dock technology:船坞技术
 dock watch:船坞观看
 dock within:船坞内
+dock worker:碼頭工人
+dock workers:碼頭工人
 dock:碼頭
 dock:船坞
 dock:船塢
@@ -2380,6 +2384,7 @@ doctor began:医生开始
 doctor begin:医生开始
 doctor believe:医生相信
 doctor betray:医生背叛
+doctor bird:医生鸟
 doctor blade:刮墨刀
 doctor botrell:博特雷爾鎮
 doctor bride:医生新娘
@@ -2975,6 +2980,7 @@ doctorate research:博士研究
 doctorate study:博士学习
 doctorate study:博士研究
 doctorate teacher:博士教师
+doctorate thesis:博士學位論文
 doctorate work:博士工作
 doctorate:博士
 doctorfish tang:小帶刺尾魚
@@ -3629,6 +3635,7 @@ document and social:文档和社交
 document antibody:文档抗体
 document appropriately:文档适当地
 document architecture:文档架构
+document archive:文档档案
 document archive:文献档案
 document as well as:文档以及
 document author name:文档作者名称
@@ -3890,6 +3897,7 @@ document ranking:文档排名
 document recommend:文档建议
 document reconstruction:文档重建
 document record:文献记录
+document records:文档记录
 document recover:文档恢复
 document reference:文档参考
 document represent:文档表示
@@ -4528,12 +4536,14 @@ dodoi:多堆村
 dodoitsu:都都逸
 dodoli:豆豆里
 dodoma airport:多多马机场
+dodoma airport:杜篤瑪機場
 dodoma bölgesi:多多馬區
 dodoma bölgesi:杜篤瑪區
 dodoma piirkond:多多馬區
 dodoma piirkond:杜篤瑪區
 dodoma region:多多馬區
 dodoma region:杜篤瑪區
+dodoma university:多多马大学
 dodoma:多多馬區
 dodoma:多多马
 dodoma:杜篤瑪
@@ -4932,6 +4942,7 @@ dog behavior:狗行为
 dog behavior:狗行為
 dog behaviour:狗行为
 dog biscuit:狗干粮
+dog biscuit:狗饼干
 dog bite:犬类攻击
 dog blog:狗博客
 dog blood:狗血
@@ -4959,6 +4970,7 @@ dog cancer:狗癌
 dog candidates:狗候选人
 dog candy:狗糖果
 dog cannot:狗不能
+dog catcher:狗捕手
 dog center:犬中心
 dog centre:犬中心
 dog cerberus:犬刻耳柏洛斯
@@ -5007,6 +5019,7 @@ dog dance:狗跳舞
 dog dander:狗皮屑
 dog day afternoon:熱天午後
 dog day:犬日
+dog day:狗日
 dog days:狗日
 dog death reach:狗死亡达到
 dog death:狗死亡
@@ -5060,6 +5073,7 @@ dog fashion:狗时尚
 dog fear:狗恐惧
 dog feel:狗感觉
 dog fence:狗圍欄
+dog fennel:狗茴香
 dog fighting:鬥狗
 dog fin:狗鳍
 dog find:狗发现
@@ -5089,6 +5103,7 @@ dog food sales:狗粮销售
 dog food you:狗粮你
 dog food:犬粮
 dog food:狗粮
+dog food:狗食品
 dog foot:狗脚
 dog forget:狗忘记
 dog fossil:狗化石
@@ -5103,6 +5118,7 @@ dog function:狗功能
 dog game:狗游戏
 dog genes:狗基因
 dog geneticist:狗遗传学家
+dog genome:狗基因組
 dog genome:狗基因组
 dog george:狗乔治
 dog get:狗得到
@@ -5136,6 +5152,7 @@ dog henry:狗亨利
 dog hesitate:狗犹豫
 dog high:狗高
 dog highway:狗公路
+dog hill:犬丘
 dog him:狗他
 dog hole:狗洞
 dog home:狗家
@@ -5179,6 +5196,7 @@ dog is right:狗是对的
 dog is safe:犬是安全的
 dog is you:狗是你
 dog isis:狗伊西斯
+dog island:狗岛
 dog issue:犬问题
 dog jack:狗杰克
 dog jackson:狗杰克逊
@@ -5192,6 +5210,7 @@ dog just:狗只
 dog keep:狗保持
 dog kidney:狗腎
 dog kill:狗杀
+dog king:犬王
 dog king:狗王
 dog kiss:犬吻
 dog kiss:狗吻
@@ -5247,6 +5266,7 @@ dog model:狗模型
 dog models:狗模型
 dog mom:狗妈妈
 dog month:狗月
+dog mountain:犬山
 dog mountain:狗山
 dog mouth:狗嘴
 dog movie:狗电影
@@ -5382,6 +5402,8 @@ dog rescue:狗救援
 dog rest:狗休息
 dog return:狗返回
 dog rise:狗上升
+dog river:狗河
+dog river:碼頭河
 dog robot:狗机器人
 dog rocky:狗洛奇
 dog rose:狗玫瑰
@@ -5481,6 +5503,8 @@ dog together:狗在一起
 dog too:犬也
 dog too:狗也
 dog took:狗拿
+dog tooth:犬牙
+dog tooth:狗牙
 dog toy brand:狗玩具品牌
 dog toy company:狗玩具公司
 dog toy:狗玩具
@@ -5640,6 +5664,7 @@ dogok-dong:道谷洞
 dogok-myeon:道谷面
 dogon people:多貢人
 dogonbadan:加奇薩蘭
+dogondoutchi airport:多貢杜奇機場
 dogondoutchi department:多貢杜奇省
 dogondoutchi:多貢杜奇
 dogongma monastery:duōgòngmá sì
@@ -5662,6 +5687,7 @@ doguk of gojoseon:導國王
 dogun stream:都近川
 dogville:人間狗鎮
 dogxung zangbo:多雄藏布
+dogye station:道溪站
 dogye-dong:道溪洞
 dogye-eup:道溪邑
 dogye-ri:道溪里
@@ -5721,10 +5747,12 @@ doha has several club:多哈有几个俱乐部
 doha has several:多哈有几个
 doha hospital:多哈医院
 doha hotel:多哈酒店
+doha institute:多哈研究所
 doha international airport:多哈国际机场
 doha international:多哈国际
 doha jewellery:多哈珠宝
 doha landscape:多哈景观
+doha marathon:多哈马拉松
 doha meeting:多哈会议
 doha metro:多哈地鐵
 doha metro:多哈地铁
@@ -5744,6 +5772,7 @@ doha qatar:多哈卡塔尔
 doha reject:多哈拒绝
 doha skyline:多哈天际线
 doha south:多哈南
+doha stadium:多哈体育场
 doha start:多哈开始
 doha statement:多哈声明
 doha street:多哈街
@@ -5784,6 +5813,7 @@ dohuk guvernement:杜胡克省
 dohuk guvernement:杜酷省
 dohuk province:杜胡克省
 dohuk province:杜酷省
+dohuk province:達霍克省
 dohuk séng:杜胡克省
 dohuk séng:杜酷省
 dohuk:達霍克
@@ -5804,6 +5834,8 @@ doi can street:队艮街
 doi cao market:高山市场
 doi inthanon:因他暖山
 doi saket district:堆沙革县
+doi station:土井站
+doi station:土居站
 doi suthep-pui national park:素贴山国家公园
 doi suthep:素贴山
 doi toshikatsu:土井利勝
@@ -5910,6 +5942,7 @@ dokchytsy:多克希齊
 dokdo class amphibious assault ship:獨島級兩棲攻擊艦
 dokdo harbour:獨島港
 dokdo is our land:獨島是我們的領土
+dokdo museum:独岛博物馆
 dokdo-ri:独岛里
 dokdo-ri:獨島里
 dokdo:独岛
@@ -6432,6 +6465,7 @@ dollar design:美元设计
 dollar development:美元发展
 dollar development:美元开发
 dollar difference:美元差异
+dollar diplomacy:美元外交
 dollar diplomacy:金元外交
 dollar discussion:美元讨论
 dollar dividend:美元股息
@@ -7159,6 +7193,7 @@ dolores claiborne:桃樂絲的秘密
 dolores river:多洛雷斯河
 dolosigranulum:狡诈球菌属
 dolow district:多洛区
+dolpa airport:德尔帕机场
 dolpa district:德尔帕
 dolpa:德尔帕
 dolphin and monkey:海豚和猴
@@ -7189,6 +7224,7 @@ dolphin center:海豚中心
 dolphin centre:海豚中心
 dolphin chirp:海豚啁啾
 dolphin class submarine:海豚級潛艇
+dolphin class:海豚类
 dolphin club:海豚俱乐部
 dolphin coast:海豚海岸
 dolphin contract:海豚合同
@@ -7242,6 +7278,7 @@ dolphin performance:海豚表演
 dolphin population:海豚人口
 dolphin population:海豚种群
 dolphin press:海豚出版社
+dolphin prince:海豚王子
 dolphin princess:海豚公主
 dolphin production:海豚生产
 dolphin products:海豚产品
@@ -7249,6 +7286,7 @@ dolphin project:海豚项目
 dolphin protection project:海豚保护项目
 dolphin protection:海豚保护
 dolphin questions:海豚问题
+dolphin reef:海豚礁
 dolphin research center:海豚研究中心
 dolphin research:海豚研究
 dolphin resort:海豚度假村
@@ -7261,6 +7299,7 @@ dolphin sleep:海豚睡
 dolphin species:海豚物种
 dolphin square:海豚廣場
 dolphin square:海豚池平台花園
+dolphin stadium:海豚体育场
 dolphin stadium:海豚体育馆
 dolphin stadium:海豚體育場
 dolphin start:海豚开始
@@ -7591,6 +7630,7 @@ domain link:域链接
 domain links:域名链接
 domain links:域链接
 domain load:域加载
+domain lock:域名锁
 domain logic using:域逻辑使用
 domain logic:域逻辑
 domain mail:域邮件
@@ -7985,6 +8025,7 @@ domain techniques:域技术
 domain technology:域名技术
 domain technology:域技术
 domain theft:域名盗窃
+domain theory:域理論
 domain theory:域理论
 domain therefore cannot:域名因此不能
 domain threat:域威胁
@@ -9149,6 +9190,7 @@ dominica national football team:多米尼克國家足球隊
 dominica olympic committee:多米尼克奥林匹克委员会
 dominica passage:多米尼克海峡
 dominica passport:多米尼克护照
+dominica republic:多米尼克共和国
 dominica times:多米尼克时报
 dominica transfer:多米尼克转移
 dominica:多米尼克
@@ -9230,6 +9272,7 @@ dominican goddess:多米尼加女神
 dominican government organization:多米尼加政府组织
 dominican government:多米尼加政府
 dominican historian:多米尼加历史学家
+dominican history:多米尼加历史
 dominican history:多米尼加的历史
 dominican hospital:多米尼加医院
 dominican house:多米尼加房子
@@ -9251,6 +9294,7 @@ dominican legislation:多米尼加立法
 dominican liberation party:多米尼加解放党
 dominican life:多米尼加生活
 dominican life:多米尼加的生活
+dominican literature:多米尼加文学
 dominican man:多米尼加男人
 dominican monastery mother of god:道明會天主之母隱修院
 dominican monastery:多米尼加修道院
@@ -9509,10 +9553,12 @@ dominion bureau of statistics:自治領統計局
 dominion centre:东美中心
 dominion centre:東美中心
 dominion court:高明大廈
+dominion day:自治領日
 dominion garden:东美花园
 dominion garden:東美花園
 dominion heights:明麗閣
 dominion hill:多米尼昂山
+dominion observatory:自治領天文台
 dominion of british west florida:英屬西佛羅里達自治領
 dominion of canada:加拿大自治領
 dominion of ceylon:錫蘭自治領
@@ -9601,6 +9647,7 @@ domnitor:羅馬尼亞親王
 domodedova:多莫傑多沃
 domodedovas:多莫傑多沃
 domodedovo airlines:多莫傑多沃航空
+domodedovo airport:多莫傑多沃機場
 domodedovo international airport:莫斯科多莫杰多沃机场
 domodedovo:多莫傑多沃
 domodedovskaya:多莫杰多沃站
@@ -9610,6 +9657,7 @@ domodossola:多莫多索拉
 domodédovo:多莫傑多沃
 domodědovo:多莫傑多沃
 domogyedovo:多莫傑多沃
+domont station:多蒙站
 domont:多蒙
 domony:多莫尼
 domoto station:土本站
@@ -9670,9 +9718,11 @@ domînîk:多米尼克
 don (rzeka we francji):頓河 (維萊訥河支流)
 don (vilaine):頓河 (維萊訥河支流)
 don army:顿河军
+don army:顿河军队
 don benito:唐贝尼托
 don bosco fc:鮑思高新堡足球會
 don bosco road:思高路
+don cossacks:頓河哥薩克
 don cossacks:頓河哥薩克人
 don davies:戴偉思
 don det:東德島
@@ -9681,7 +9731,9 @@ don don donki (monterey place):don don donki monterey place 店
 don don donki:唐吉訶德
 don don donki:驚安之殿堂
 don dracula:吸血鬼在日本
+don flotilla:顿河区舰队
 don front:顿河方面军
+don horse:顿河马
 don host oblast:頓河州
 don jon:超急情聖
 don juan allow:唐璜允许
@@ -9732,10 +9784,12 @@ don quixote said:堂吉诃德说
 don quixote says:堂吉诃德说
 don quixote without:堂吉诃德没有
 don quixote:堂吉诃德
+don region:顿河地区
 don republic:顿河共和国
 don sahong dam:东沙洪水电站
 don soo baek:豚壽百
 don soviet republic:顿河苏维埃共和国
+don steppe:頓河草原
 don torcuato:唐托爾夸托
 don valley parkway:當河谷園林公路
 don't absolute:不绝对
@@ -11162,13 +11216,17 @@ donax canniformis:竹叶蕉
 donazac:多纳扎克
 donbas arena:頓巴斯球場
 donbas battalion:顿巴斯营
+donbas campaign:顿巴斯战役
 donbas conflict:顿巴斯冲突
 donbas militia:顿巴斯民兵
+donbas offensive:顿巴斯攻势
 donbas region:顿巴斯地区
 donbas residents:顿巴斯居民
+donbas war:顿巴斯战争
 donbas:顿巴斯
 donbassaero:頓巴斯航空
 donburi:丼物
+doncaster airport:唐卡斯特機場
 doncaster and belfast:唐卡斯特和贝尔法斯特
 doncaster council:唐卡斯特委员会
 doncaster council:唐卡斯特理事会
@@ -11180,8 +11238,10 @@ doncaster murder:唐卡斯特谋杀
 doncaster museum and art gallery:唐卡斯特博物馆和艺术画廊
 doncaster museum:唐卡斯特博物馆
 doncaster primary school:唐卡斯特小学
+doncaster racecourse:唐卡斯特馬場
 doncaster railway station:唐卡斯特站
 doncaster road:唐卡斯特路
+doncaster station:唐卡斯特站
 doncaster:唐卡斯特
 donceel:栋塞勒
 donchery:栋什里
@@ -11340,6 +11400,7 @@ donesk:顿涅茨克
 donets nehri:北顿涅茨河
 donets railway:顿涅茨克铁路局
 donets ridge:頓涅茨嶺
+donets river:顿涅茨河
 donets ruffe:長吻梅花鱸
 donets:北顿涅茨河
 donets:頓涅茨河
@@ -11383,6 +11444,7 @@ donetsk sea:頓涅茨克海
 donetsk sea:顿涅茨克海
 donetsk surgeon:顿涅茨克外科医生
 donetsk uluslararası havalimanı:顿涅茨克国际机场
+donetsk university:頓涅茨克大學
 donetsk urban hromada:頓涅茨克市鎮
 donetsk vilâyeti:頓涅茨克州
 donetsk vilâyeti:顿涅茨克州
@@ -12053,6 +12115,7 @@ dongayushan:dōngāyùshān
 dongayushan:ㄉㄨㄥㄚㄩˋㄕㄢ
 dongayushan:东阿玉山
 dongayushan:東阿玉山
+dongba area:东坝地区
 dongba community:东坝社区
 dongba depot:东坝车辆段
 dongba manuscripts:东巴经
@@ -12062,6 +12125,7 @@ dongba river:dōngbà hé
 dongba river:东坝河
 dongba river:東壩河
 dongba section:东八段
+dongba station:东坝站
 dongba symbols:东巴文
 dongba township:东坝地区
 dongba:dōngbà xiāng
@@ -12085,8 +12149,10 @@ dongbacun:董坝村
 dongbadagu:东八大股
 dongbaek park:冬柏公园
 dongbaek park:冬柏公園
+dongbaek station:冬柏站
 dongbaek-ri:冬柏里
 dongbaek:冬柏
+dongbaeksan station:東栢山站
 dongbaeksan:东柏山
 dongbaeksan:東栢山
 dongbaekseom:冬柏公园
@@ -12258,6 +12324,8 @@ dongbazi:东坝子
 dongbei 3rd street:东北三街
 dongbei 7th street:东北七街
 dongbei bridge:洞背桥
+dongbei culture:东北文化
+dongbei dialect:东北方言
 dongbei interchange:东陂互通
 dongbei renaissance:东北文艺复兴
 dongbei resistance memorial park:东北抗日联军纪念园
@@ -12442,7 +12510,12 @@ dongbong-ri:东峰里
 dongbong-ri:東峰里
 dongboquancun:董博泉村
 dongbozhuangcun:东泊庄村
+dongbu area:东部地区
+dongbu area:東部地区
 dongbu co:董布错
+dongbu expressway:东部快速路
+dongbu expressway:东部高速公路
+dongbu expressway:東部高速公路
 dongbu la:dǒng bù lā
 dongbu la:董布拉
 dongbu park station:动步公园站
@@ -12748,6 +12821,7 @@ dongcheng south road:东城南路
 dongcheng south street:东成南街
 dongcheng soy sauce:東成醬油
 dongcheng station:东城站
+dongcheng station:東城站
 dongcheng street:东城街
 dongcheng street:东成街
 dongcheng street:東城街
@@ -12835,8 +12909,10 @@ dongchenzhuang east road:东陈庄东路
 dongchenzhuang:东陈庄
 dongchenzhuangcun:东陈庄村
 dongcheon dong:東川洞
+dongcheon line:东川线
 dongcheon of goguryeo:东川王
 dongcheon of goguryeo:高句丽东川
+dongcheon station:东川站
 dongcheon-dong:东川洞
 dongcheon-dong:東川洞
 dongcheon-ri:东川里
@@ -12857,6 +12933,7 @@ dongchiyangcun:东池阳村
 dongcho-dong:东草洞
 dongcho-dong:東草洞
 dongchon station:东村站
+dongchon station:東村站
 dongchon-dong:东村洞
 dongchon-dong:東村洞
 dongchon-ri:东村里
@@ -12879,6 +12956,7 @@ dongchong reservoir:董冲水库
 dongchong road:东涌路
 dongchong sanjiaoshan trail:东涌三角山段
 dongchong shagang village:东涌沙岗村
+dongchong station:东涌站
 dongchong town sign:镇标
 dongchong village (gongye road):东涌村(工业路)
 dongchong:dōngchōng cūn
@@ -13062,11 +13140,14 @@ dongdaemun history museum 1398:东大门历史馆1398
 dongdaemun history museum 1398:東大門歷史館1398
 dongdaemun market - c:东大门鞋市场-c栋
 dongdaemun market - d:东大门鞋市场-d栋
+dongdaemun market:东大门市场
 dongdaemun market:東大門市場
 dongdaemun police station:东大门警察局
 dongdaemun shopping complex:东大门综合市场
 dongdaemun shopping complex:東大門綜合市場
+dongdaemun stadium:东大门运动场
 dongdaemun stadium:東大門運動場
+dongdaemun stadium:東大門體育場
 dongdaemun station gate 10:東大門站10號出口
 dongdaemun station gate 1:東大門站1號出口
 dongdaemun station gate 4:東大門站4號出口
@@ -13075,6 +13156,7 @@ dongdaemun station gate 6:東大門站6號出口
 dongdaemun station gate 7:東大門站7號出口
 dongdaemun station gate 8:東大門站8號出口
 dongdaemun station gate 9:東大門站9號出口
+dongdaemun station:东大门站
 dongdaemun station:東大門站
 dongdaemun-gu:东大门区
 dongdaemun-gu:東大門區
@@ -13200,6 +13282,7 @@ dongdaping:东大平
 dongdaqiao bridge:dōng dàqiáo
 dongdaqiao bridge:东大桥
 dongdaqiao road:dōngdàqiáo lù
+dongdaqiao station:东大桥站
 dongdaqiao xiejie:东大桥斜街
 dongdaqiao xiejie:東大橋斜街
 dongdaqiao:dōngdàqiáo
@@ -13521,6 +13604,7 @@ dongfang city:dōngfāng shì
 dongfang city:东方市
 dongfang city:東方市
 dongfang community:东方社区
+dongfang county:东方县
 dongfang dadao & changxing lu:东方大道常兴路口
 dongfang dadao & hexing lu:东方大道和兴路口
 dongfang dadao & jiangyun lu:东方大道江韵路口
@@ -13554,6 +13638,7 @@ dongfang guangchang:东方广场街道
 dongfang haiya ju:东方海雅居
 dongfang haiya ju:東方海雅居
 dongfang high school of industry and commerce:東方工商
+dongfang hospital:东方医院
 dongfang huayuan:东方花园
 dongfang jibai:东方既白
 dongfang jipai:東方雞排
@@ -13670,6 +13755,7 @@ dongfangxing building:東方星大廈
 dongfangyang road:东方洋路
 dongfangyayuan:东方雅苑
 dongfangzhimen station:东方之门站
+dongfangzhimen station:東方之門站
 dongfangzhimen:东方之门
 dongfangzhimen:東方之門
 dongfangzhixing:東方之星
@@ -13709,6 +13795,7 @@ dongfei river:東淝河
 dongfeisha:東飛沙
 dongfen:东粉村
 dongfencun:东坟村
+dongfeng area:东风地区
 dongfeng auto avenue side road:东风汽车大道辅路
 dongfeng auto avenue:东风汽车大道
 dongfeng auto:东风汽车
@@ -13730,6 +13817,8 @@ dongfeng county:東豐縣
 dongfeng cummins engine co., ltd.:东风康明斯发动机有限公司
 dongfeng cummins:东风康明斯
 dongfeng dadui:东风大队
+dongfeng dam:东风水库
+dongfeng dam:東風水庫
 dongfeng dana axle co., ltd.:东风德纳车桥有限公司
 dongfeng district:dōngfēng qū
 dongfeng district:东风区
@@ -13745,7 +13834,10 @@ dongfeng expressway:東豐快速道路
 dongfeng farm:东风农场
 dongfeng high school:东风高级中学
 dongfeng highschool north section:东风中学北区
+dongfeng honda:东风本田
 dongfeng honda:东风本田汽车
+dongfeng honda:東風本田
+dongfeng honda:東風本田汽車
 dongfeng hotel:东风宾馆
 dongfeng hôt:东风浩特
 dongfeng industrial park:东风工业园
@@ -13785,6 +13877,7 @@ dongfeng nanlu:东凤南路站
 dongfeng nengdi:东风能迪
 dongfeng nissan technical center:东风日产乘用车技术中心
 dongfeng nissan:东风汽车有限公司
+dongfeng nissan:東風日產汽車
 dongfeng nongchang erdui:东风农场二队
 dongfeng north road:dungfung bak lu
 dongfeng north road:东凤北路
@@ -13823,7 +13916,10 @@ dongfeng south road:dungfung naam lu
 dongfeng south road:东凤南路
 dongfeng south road:东风南路
 dongfeng square:东风广场
+dongfeng station:东丰站
+dongfeng station:东凤站
 dongfeng station:东风站
+dongfeng station:東豐站
 dongfeng street police station:东风街道警务室
 dongfeng street:dongfeng dajie
 dongfeng street:东凤街
@@ -13848,6 +13944,7 @@ dongfeng xiangyang wagon co.:东风襄阳旅行车有限公司
 dongfeng yangtse:东风扬子江汽车
 dongfeng yuan:东风苑
 dongfeng yulon:东风裕隆
+dongfeng yulon:東風裕隆汽車
 dongfeng'erzhuangcun:东丰尔庄村
 dongfeng/houfeng bicycle path:東豐/后豐鐵馬道
 dongfeng:dōngfèng zhèn
@@ -14018,11 +14115,13 @@ donggang district:東港區
 donggang donglong temple:東港東隆宮
 donggang huanmei community:東港環美社區
 donggang jiayuan:东港佳园
+donggang line:东港线
 donggang line:東港線
 donggang night market:東港夜市
 donggang no.1 middle school:东岗一中
 donggang river:dōnggǎng shuǐ
 donggang river:东港水
+donggang river:东港河
 donggang river:東江
 donggang river:東港水
 donggang river:東港溪
@@ -14319,7 +14418,9 @@ dongguan basketball centre:东莞篮球中心
 dongguan became:东莞市成为
 dongguan botanical gardens:东莞植物园
 dongguan bridge:东关大桥
+dongguan bridge:东关桥
 dongguan children's library:东莞少儿图书馆
+dongguan church:东关教堂
 dongguan church:沈阳东关教会
 dongguan city:dōngguǎn shì
 dongguan city:东莞市
@@ -14327,11 +14428,19 @@ dongguan city:東莞
 dongguan city:東莞市
 dongguan coach terminal:东莞汽车总站
 dongguan community:东关社区
+dongguan county:东关县
+dongguan county:东莞县
+dongguan county:東莞县
 dongguan dajie subdistrict:dōngguān dàjiē jiēdào
 dongguan dajie subdistrict:东关大街街道
 dongguan dajie:dōngguān dàjiē jiēdào
 dongguan dajie:东关大街街道
+dongguan dongcheng:东莞东城
+dongguan dongcheng:東莞東城
 dongguan east railway station:东莞东站
+dongguan east:东莞东
+dongguan east:東莞東
+dongguan east:東關東
 dongguan foreign language school:东莞外国语学校
 dongguan haide experimental school (middle campus):东莞市海德实验学校（中学部）
 dongguan haide experimental school (primary campus):东莞市海德实验学校（小学部）
@@ -14355,14 +14464,18 @@ dongguan metro line 1 branch:东莞轨道交通1号线支线
 dongguan metro line 1:东莞轨道交通1号线
 dongguan metro line 4:东莞轨道交通4号线
 dongguan metro line 5:东莞轨道交通5号线
+dongguan metro:东莞地铁
 dongguan middle school (south campus):东莞中学(南区)
 dongguan middle school ssl school:东莞市东莞中学松山湖学校
 dongguan middle school-ssl school:东莞中学松山湖学校
 dongguan middle school:东莞中学
 dongguan middle st:东关中街
+dongguan mosque:东关清真寺
 dongguan mosque:西宁东关清真寺
 dongguan museum:东莞博物馆
 dongguan museum:东莞市博物馆
+dongguan nancheng:东莞南城
+dongguan nancheng:東莞南城
 dongguan nankai experimental school:东莞市南开实验学校
 dongguan no.11 high school:东莞市第十一中学
 dongguan no.13 high school:东莞市第十三高级中学
@@ -14409,10 +14522,18 @@ dongguan south railway station:東莞南站
 dongguan south road:东关南路
 dongguan south street:东关南街
 dongguan south:东关南村
+dongguan south:东莞南
+dongguan south:東莞南
 dongguan sports center:东莞市体育中心
+dongguan stadium:东莞体育馆
 dongguan stadium:东莞市体育中心
+dongguan stadium:东莞市体育馆
+dongguan stadium:東莞市體育場
+dongguan stadium:東莞體育場
 dongguan street:东关大街
 dongguan street:东关街
+dongguan street:东关街道
+dongguan street:東莞街
 dongguan street:東關街
 dongguan subdistrict:dōngguān jiēdào
 dongguan subdistrict:东关街道
@@ -14741,6 +14862,8 @@ donghae line:东海线
 donghae line:東海本線
 donghae line:東海線
 donghae nambu line:東海南部線
+donghae station:东海站
+donghae station:東海站
 donghae-daero:东海大路
 donghae-linie:东海本线
 donghae-linie:东海线
@@ -14782,12 +14905,14 @@ donghai bridge ii:東海二橋
 donghai bridge wind farm:上海東海大橋海上風電場
 donghai bridge:东海大桥
 donghai bridge:東海大橋
+donghai bridge:東海橋
 donghai chafing dish:東海火鍋
 donghai city plaza:东海城市广场
 donghai city plaza:東海城市廣場
 donghai close:东海坊
 donghai commandery:東海郡
 donghai county:东海县
+donghai county:東海县
 donghai county:東海縣
 donghai cultural square:东海文化广场
 donghai driving school:東海駕訓班
@@ -14809,6 +14934,7 @@ donghai international apartment block b:东海国际公寓b座
 donghai international center:东海国际中心
 donghai island:dōnghǎi dǎo
 donghai island:东海岛
+donghai island:东海岛屿
 donghai lab:東海醫事檢驗所
 donghai lijing garden:东海丽景花园
 donghai middle road:dōnghǎi zhōng lù
@@ -14961,6 +15087,7 @@ donghe subdistrict:东河街道
 donghe subdistrict:峒河街道
 donghe subdistrict:東河街道
 donghe taiyuan post office:東河泰源郵局
+donghe township:東河鎮區
 donghe tribe house:東河部落屋
 donghe vil.:東和里
 donghe village:东和里
@@ -15304,6 +15431,8 @@ donghua south road:东华南路
 donghua street:东华街
 donghua street:東華街
 donghua subdistrict:东华街道
+donghua university:东华大学
+donghua university:東華大學
 donghua village:东华里
 donghua village:東華里
 donghua west new street:东华西新街
@@ -15590,6 +15719,7 @@ dongin-dong 4(sa)-ga:东仁洞4街
 dongin-dong 4(sa)-ga:東仁洞4街
 dongin-dong:东仁洞
 dongin-dong:東仁洞
+dongincheon station:东仁川站
 dongincheon station:東仁川站
 dongincheon-dong:东仁川洞
 dongincheon-dong:東仁川洞
@@ -15630,6 +15760,7 @@ dongji fishing harbor:東吉碼頭
 dongji fishing port inspection office:东吉渔港安检所
 dongji fishing port inspection office:東吉漁港安檢所
 dongji island:东吉屿
+dongji island:东极岛
 dongji island:東吉嶼
 dongji village public health center:东吉卫生室
 dongji village public health center:東吉衛生室
@@ -15760,21 +15891,25 @@ dongjiang 2nd road:dōng jiāng èr lù
 dongjiang avenue:东江大道
 dongjiang boya school:东江博雅学校
 dongjiang bridge:东江大桥
+dongjiang bridge:东江桥
 dongjiang column memorial hall station:东纵纪念馆站
 dongjiang column memorial hall:东纵纪念馆
 dongjiang community:东江社区
 dongjiang dadao middle:东江大道中站
 dongjiang dadao north:东江大道北站
 dongjiang dadao south:东江大道南站
+dongjiang dam:东江水库
 dongjiang haoyuan:东江豪苑
 dongjiang haoyuan:東江豪苑
 dongjiang iron:东江钢铁
 dongjiang lake:dōngjiāng shuǐkù
 dongjiang lake:东江水库
+dongjiang lake:东江湖
 dongjiang lake:東江水庫
 dongjiang north road:东江北路
 dongjiang river:lĕi shuĭ
 dongjiang river:东江
+dongjiang river:东江河
 dongjiang road:dōng jiāng lù
 dongjiang road:东江路
 dongjiang science & technology park:东江科技园
@@ -15897,6 +16032,7 @@ dongjiaotou industrial area:东角头工业区
 dongjiaotou industrial area:東角頭工業區
 dongjiaotou road:东角头路
 dongjiaotou station:东角头站
+dongjiaotou station:東角頭站
 dongjiaotou:东角头
 dongjiaotou:东角头社区
 dongjiaotou:東角頭
@@ -16113,6 +16249,7 @@ dongjing road:东京路
 dongjing road:东经路
 dongjing road:东靖路
 dongjing road:東經路
+dongjing station:东镜站
 dongjing station:洞泾站
 dongjing street:东璟街
 dongjing subdistrict:东荆街道
@@ -16526,6 +16663,10 @@ dongli railway station:東里車站
 dongli road:东利路
 dongli road:東里路
 dongli south street:东丽南街
+dongli station:东林站
+dongli station:东里站
+dongli station:東林站
+dongli station:東里站
 dongli subdistrict:东里街道
 dongli village:东里村
 dongli village:東里村
@@ -17289,6 +17430,8 @@ dongmen park:東門公園
 dongmen primary school:东门小学
 dongmen public toilet:东门公厕
 dongmen rd.:東門路
+dongmen reef:东门礁
+dongmen reef:東門礁
 dongmen river:dōngmén hé
 dongmen river:东门河
 dongmen river:東門河
@@ -17306,9 +17449,13 @@ dongmen side street:東門橫街
 dongmen south road:东门南路
 dongmen south street:东门南大街
 dongmen south street:東門南街
+dongmen station:东门站
+dongmen station:東門站
 dongmen street:dungmun gaai
 dongmen street:东门街
+dongmen street:东门街道
 dongmen street:東門街
+dongmen street:東門街道
 dongmen sub-district:dungmun-gaaidou
 dongmen sub-district:dōngmén jiēdào
 dongmen sub-district:东门街道
@@ -17378,6 +17525,7 @@ dongmengzhuangzicun:东孟庄子村
 dongmenjiao:洞门脚
 dongmenjie community:东门街社区
 dongmenkeng:东门坑
+dongmenkou station:东门口站
 dongmenkou vegetable wholesale center:东门口蔬菜批发中心
 dongmenkou:dōngménkǒu shèqū
 dongmenkou:东门口
@@ -17572,6 +17720,7 @@ dongna:冬纳
 dongnae district:东莱区
 dongnae district:東萊區
 dongnae station:东莱站
+dongnae station:東萊站
 dongnae-dong:东内洞
 dongnae-dong:東內洞
 dongnae-gu:东莱区
@@ -17591,6 +17740,7 @@ dongnam-gu:東南區
 dongnameng xiaozhai:董那孟小寨
 dongnameng:董那孟
 dongnamgangnu:東南角樓
+dongnan area:东南地区
 dongnan community:东南社区
 dongnan road:东南路
 dongnan road:東南路
@@ -17629,6 +17779,7 @@ dongnanhuang:东南荒
 dongnanhuangchengcun:东南黄城村
 dongnanjia'ao:东南家凹
 dongnanjiao community:东南角社区
+dongnanjiao island:东南礁岛
 dongnanjiao station:东南角站
 dongnanjiao:东南礁
 dongnanjiaocun:东南角村
@@ -17727,6 +17878,7 @@ dongning city:东宁市
 dongning city:東寧市
 dongning community ncku dormitory:東寧社區成大宿舍
 dongning community:東寧社區
+dongning county:东宁县
 dongning elementary school:東寧國小
 dongning lane:dōngníng hútòng
 dongning lane:东宁胡同
@@ -17794,6 +17946,7 @@ dongnyang-myeon:東良面
 dongnyeong prefectures:東寧府
 dongnyi:多尼村
 dongodytes:洞盲步甲属
+dongola airport:棟古拉機場
 dongola:棟古拉
 dongos departamentas:峽谷省
 dongou:棟古
@@ -17874,10 +18027,14 @@ dongping bridge:东平大桥
 dongping bus terminal:东平总站
 dongping community:東平社區
 dongping county:东平县
+dongping county:東平县
 dongping county:東平縣
 dongping dadao east:东平大道东
 dongping dadao:东平大道
+dongping dam:东平水库
+dongping dam:洞坪水库
 dongping damalu road:东平大马路
+dongping dialect:东平方言
 dongping dialect:东平话
 dongping dong river bridge:东平东江大桥
 dongping el. school(dongping road):東平國小(東平路)
@@ -17909,6 +18066,10 @@ dongping service area:东平服务区
 dongping south road:东平南路
 dongping square:东平广场
 dongping station:3号线东平站
+dongping station:东坪站
+dongping station:东屏站
+dongping station:东平站
+dongping station:東平站
 dongping street:东平街
 dongping street:東坪街
 dongping subdistrict:东坪街道
@@ -18035,6 +18196,7 @@ dongpu road:东浦路
 dongpu road:东濮路
 dongpu shixicun:东圃石溪村站
 dongpu station:东圃站
+dongpu station:東浦站
 dongpu subdistrict:dōngpǔ jiēdào
 dongpu subdistrict:东埔街道
 dongpu subdistrict:東埔街道
@@ -18473,6 +18635,7 @@ dongsha airport:東沙機場
 dongsha atoll national park:東沙環礁國家公園
 dongsha atoll research station:东沙海洋研究中心
 dongsha atoll research station:東沙海洋研究中心
+dongsha atoll:東沙環礁
 dongsha avenue north:东沙大道北
 dongsha avenue:东沙大道
 dongsha bridge:东沙桥
@@ -18490,6 +18653,7 @@ dongsha island airfield:东沙岛机场
 dongsha island airfield:東沙島機場
 dongsha island land special scenic area:东沙岛陆域特别景观区
 dongsha island land special scenic area:東沙島陸域特別景觀區
+dongsha island:东沙岛
 dongsha junction:东沙立交
 dongsha management station:海洋国家公园管理处东沙管理站
 dongsha management station:海洋國家公園管理處東沙管理站
@@ -18553,6 +18717,7 @@ dongshan college:東山書院
 dongshan county:dōngshān xiàn
 dongshan county:东山县
 dongshan county:東山
+dongshan county:東山县
 dongshan county:東山縣
 dongshan cultural expo:东山文化博艺园
 dongshan dabao temple:東山大寶寺
@@ -18587,6 +18752,7 @@ dongshan motorcycle parking lot:东山机车停车场
 dongshan motorcycle parking lot:東山機車停車場
 dongshan north 2nd road:东山北二路
 dongshan north road:东山北路
+dongshan peninsula:东山半岛
 dongshan pier:东山码头
 dongshan plaza bus terminal:东山广场总站
 dongshan police station:dōngshān pàichūsuǒ
@@ -18620,6 +18786,11 @@ dongshan sport park:東山運動公園
 dongshan sports park:東山運動公園
 dongshan st.:東山街
 dongshan stadium:东山体育场
+dongshan station:东山县站
+dongshan station:东山村站
+dongshan station:东山站
+dongshan station:冬山站
+dongshan station:東山站
 dongshan street:东山大街
 dongshan street:东山街
 dongshan subdistrict:dōngshān jiēdào
@@ -18875,6 +19046,7 @@ dongsheng road:東盛路
 dongsheng school:东升学校
 dongsheng shuiku:东升水库
 dongsheng sidui:东胜四队
+dongsheng station:东胜站
 dongsheng straight street:东升直街
 dongsheng street:东升街
 dongsheng street:东圣街
@@ -19499,6 +19671,7 @@ dongta:东塔镇
 dongtacun:东塔村
 dongtaha:东塔哈
 dongtai community:東泰新城
+dongtai county:东台县
 dongtai erdui:东太二队
 dongtai gucheng fu:东泰谷宸府
 dongtai hotel:東台飯店
@@ -19572,6 +19745,8 @@ dongtan 2 new town:东滩
 dongtan 2 new town:東灘
 dongtan new town:东滩
 dongtan new town:東灘
+dongtan station:东滩站
+dongtan station:東灘站
 dongtan-indeogwon line:东滩仁德院线
 dongtan-indeogwon line:東灘仁德院線
 dongtan:dōng tān
@@ -19585,7 +19760,9 @@ dongtancun:东潭村
 dongtang reservoir:dòngtáng shuǐkù
 dongtang reservoir:洞塘水库
 dongtang river:董塘水
+dongtang station:东塘村站
 dongtang station:东塘站
+dongtang station:东汤站
 dongtang street crossing:东塘街路口
 dongtang subdistrict:东塘街道
 dongtang town:董塘镇
@@ -19719,6 +19896,7 @@ dongting river:dòngtíng xī
 dongting river:洞庭溪
 dongting road:dōngtíng lù
 dongting road:洞庭路
+dongting station:洞庭站
 dongting subdistrict:洞庭街道
 dongting:dōngtíng zhàn
 dongting:东亭站
@@ -19749,6 +19927,7 @@ dongtongxiacun:东同下村
 dongtongzhuangcun:东仝庄村
 dongtou 2nd bridge:东头二桥
 dongtou bridge:东头桥
+dongtou county:洞头县
 dongtou district:dòngtóu xiàn
 dongtou district:洞头区
 dongtou district:洞頭
@@ -20047,6 +20226,7 @@ dongwarencun:东瓦仁村
 dongwazi:东洼子
 dongwazicun:东洼子村
 dongwei branch road:洞伟支路
+dongwei dam:東衛水庫
 dongwei elementary school:東衛國小
 dongwei reservoir:东卫水库
 dongwei reservoir:東衛水庫
@@ -20141,6 +20321,7 @@ dongwopucun:东窝铺村
 dongwozicun:东窝子村
 dongwu alley:东五巷
 dongwu boulevard station:东吴大道站
+dongwu boulevard:东吴大道
 dongwu bridge:东吴桥
 dongwu bridge:東吳橋
 dongwu dadao:东吴大道
@@ -20337,6 +20518,7 @@ dongxiandechengcun:东贤德城村
 dongxiang autonomous county:dōngxiāngzú zìzhìxiàn
 dongxiang autonomous county:东乡族自治县
 dongxiang autonomous county:東鄉族自治縣
+dongxiang county:東鄉县
 dongxiang district:dōngxiāng qū
 dongxiang district:东乡区
 dongxiang district:東鄉
@@ -20533,6 +20715,7 @@ dongxiawanzi:东下湾子
 dongxiaxun:东下郇
 dongxiayou:东下游
 dongxiayu:东夏峪
+dongxiayuan station:东夏园站
 dongxiayuan:dōngxiàyuán
 dongxiayuan:东夏园
 dongxiayuan:东霞院
@@ -20963,14 +21146,17 @@ dongyang 2nd road:东阳二路
 dongyang 3rd road:东阳三路
 dongyang 4th road:东阳四路
 dongyang activity center:東陽市民活動中心
+dongyang bridge:东洋桥
 dongyang bridge:東陽橋
 dongyang civil activity center:dōngyángshìmínhuódòngzhōngxīn
 dongyang civil activity center:ㄉㄨㄥㄧㄤˊㄕˋㄇㄧㄣˊㄏㄨㄛˊㄉㄨㄥˋㄓㄨㄥㄒㄧㄣ
 dongyang civil activity center:东阳市民活动中心
 dongyang civil activity center:東陽市民活動中心
+dongyang county:东阳县
 dongyang lou:dongyanglóu
 dongyang lou:东阳楼
 dongyang mirae university:东阳未来大学
+dongyang museum:东阳市博物馆
 dongyang north road:东阳北路
 dongyang park:dōngyánggōngyuán
 dongyang park:ㄉㄨㄥㄧㄤˊㄍㄨㄥㄩㄢˊ
@@ -20986,6 +21172,7 @@ dongyang subdistrict:dōngyáng jiēdào
 dongyang subdistrict:东杨街道
 dongyang subdistrict:东阳街道
 dongyang subdistrict:東陽街道
+dongyang university:东洋大学
 dongyang village:东阳里
 dongyang village:東陽里
 dongyang-chuanchou intersection:東陽泉洲巷口
@@ -21277,6 +21464,7 @@ dongying 6th street:東英六街
 dongying 7th street:東英七街
 dongying 8th street:東英八街
 dongying 9th street:東英九街
+dongying airport:东营机场
 dongying baseball & softball field:東英棒壘球場
 dongying chenyang school:晨阳学校
 dongying district cunhuizu primary school:东营村回族小学
@@ -21305,6 +21493,7 @@ dongying road:東英路
 dongying shengli airport:东营胜利机场
 dongying shengli no.1 middle school:东营市胜利第一中学
 dongying south railway station:东营南站
+dongying south:东营南
 dongying village:东莺里
 dongying village:東英里
 dongying village:東鶯里
@@ -21408,6 +21597,7 @@ dongyuan community:东元社区
 dongyuan community:东园社区
 dongyuan county court:东源县法院
 dongyuan county:dōngyuán xiàn
+dongyuan county:东垣县
 dongyuan county:东源县
 dongyuan county:東源
 dongyuan county:東源縣
@@ -21771,6 +21961,7 @@ dongzhangzhuangzicun:东张庄子村
 dongzhangzi:董杖子
 dongzhanli:东站里
 dongzhantun:东占屯
+dongzhao station:东赵站
 dongzhao'an:东照庵
 dongzhao:东召乡
 dongzhao:东照
@@ -21903,6 +22094,7 @@ dongzhimen outer street:東直門外大街
 dongzhimen public transport hub:东直门交通枢纽
 dongzhimen public transport hub:東直門交通樞紐
 dongzhimen station:东直门站
+dongzhimen station:東直門站
 dongzhimen subdistrict:dōngzhímén jiēdào
 dongzhimen subdistrict:东直门街道
 dongzhimen subdistrict:東直門街道
@@ -22157,6 +22349,7 @@ donietsk:顿涅茨克
 donimalai township:多尼马拉镇
 donin rostov:顿河畔罗斯托夫
 donington park:达宁顿赛道
+doniphan county:多尼芬县
 doniphan:多尼芬
 doniwa:洞庭
 donizetti monument:多尼采蒂纪念碑
@@ -22261,6 +22454,7 @@ donnelay:多讷莱
 donnell court:端納大廈
 donnellan glacier:多內蘭冰川
 donnelly drive:唐耐勵徑
+donneloye castle:多讷洛瓦城堡
 donneloye:多讷洛瓦
 donnement:多讷芒
 donnenheim:多讷奈姆
@@ -22298,6 +22492,7 @@ donping village:東平里
 donqa departamenti:峽谷省
 donsieders:栋西德斯
 donskoy district:顿斯科伊区
+donskoy monastery:顿斯科伊修道院
 donskoy:顿斯科伊
 donsol:董索
 dontok monastery:夺拖寺
@@ -22607,6 +22802,7 @@ door logic memory:门逻辑记忆
 door logic:门逻辑
 door logistics solutions:门物流解决方案
 door look:门看
+door loop:门环
 door lunch:门午餐
 door magnetism:门磁
 door man:门男人
@@ -23053,6 +23249,7 @@ doraops zuloagai:擬棘鮠
 doras carinatus:陶樂鯰
 doras micropoeus:小孔陶樂鯰
 dorasan peace park:都罗山和平公园
+dorasan station:都罗山站
 dorasan station:都羅山站
 dorasan:都罗山
 dorasan:都羅山
@@ -23087,6 +23284,7 @@ dorcaschematini:粉天牛族
 dorceau:多尔索
 dorcen:大乘汽車
 dorchester and my dorchester:多切斯特和我的多切斯特
+dorchester county:多切斯特县
 dorchester county:多徹斯特縣
 dorchester had been:多切斯特已经
 dorchester historical society:多切斯特历史学会
@@ -23105,6 +23303,7 @@ dorcus curvidens:彎角大鍬形蟲
 dorcus miwai:平頭大鍬形蟲
 dorcus rectus:小鍬形蟲
 dorcus:大鍬形蟲屬
+dordives station:多尔迪沃站
 dordives:多尔迪沃
 dordogne:多爾多涅省
 dordoi plaza:多伦多一
@@ -23114,6 +23313,7 @@ dordracum:多德雷赫特
 dordrak gompa:多扎寺
 dordrak monastery:金刚寺
 dordrecht mayor:多德雷赫特市长
+dordrecht museum:多德雷赫特博物馆
 dordrecht:多德雷赫特
 dordrechtas:多德雷赫特
 dordrechts museum:多德雷赫特博物館
@@ -23396,6 +23596,7 @@ dormitory shan:善齋
 dormitory shinn a:信齋a
 dormitory shinn b:信齋b
 dormitory shinn c:信齋c
+dormitory ship:宿舍船
 dormitory shiue:學齋
 dormitory shuo:碩齋
 dormitory shyr lounge:實齋交誼廳
@@ -23612,6 +23813,7 @@ dorsal scales:背鳞
 dorsal scapular nerve:背肩胛神經
 dorsel:多瑟尔
 dorset coast:多塞特郡海岸
+dorset council:多塞特郡议会
 dorset crescent rest garden:多實街休憩花園
 dorset crescent:多實街
 dorset culture:多尔塞特文化
@@ -23693,7 +23895,9 @@ dortan:多尔唐
 dortenbach:多滕巴赫河
 dortheys hiyo eluay international airport:仙谷国际机场
 dortmund achieve:多特蒙德实现
+dortmund airfield:多特蒙德机场
 dortmund airport:多特蒙德机场
+dortmund airport:多特蒙德機場
 dortmund and england:多特蒙德和英格兰
 dortmund and essen:多特蒙德和埃森
 dortmund and hamburg:多特蒙德和汉堡
@@ -23717,6 +23921,7 @@ dortmund says:多特蒙德说
 dortmund sparkassen chess meeting:多特蒙德国际象棋超级大赛
 dortmund team:多特蒙德队
 dortmund university:多特蒙德大学
+dortmund university:多特蒙德大學
 dortmund uses:多特蒙德使用
 dortmund you:多特蒙德你
 dortmund zoo:多特蒙德动物园
@@ -23872,8 +24077,10 @@ dosnon:多农
 dosokohama station:土底濱站
 dosolo:多索洛
 dosong-ri:都宋里
+dospat dam:多斯帕特水库
 dospat municipality:多斯帕特市鎮
 dospat peak:多斯帕特峰
+dospat reservoir:多斯帕特水库
 dospat reservoir:多斯帕特水庫
 dospat:多斯帕特
 dospey heights:多斯佩高地
@@ -24096,9 +24303,14 @@ dou'erzhuangcun:豆尔庄村
 dou-nan train station:斗南站
 douadic:杜阿迪克
 douai and cleon:杜埃和克里昂
+douai bible:杜埃圣经
+douai bible:杜埃聖經
 douai college:杜埃学院
 douai station:杜埃站
+douai university:杜埃大学
+douai university:杜埃大學
 douai:杜埃
+douala airport:杜阿拉机场
 douala anchor:杜阿拉锚
 douala and garoua:杜阿拉和加鲁阿
 douala international airport:杜阿拉国际机场
@@ -24773,6 +24985,7 @@ douglas carter:道格拉斯卡特
 douglas charles airport:道格拉斯查尔斯机场
 douglas charles:道格拉斯查尔斯
 douglas clague:祈德尊
+douglas college:道格拉斯学院
 douglas college:道格拉斯學院
 douglas comment:道格拉斯评论
 douglas community:道格拉斯社区
@@ -24781,7 +24994,9 @@ douglas continue:道格拉斯继续
 douglas continues:道格拉斯继续
 douglas corporation:道格拉斯公司
 douglas costa:道格拉斯科斯塔
+douglas county:道格拉斯县
 douglas county:道格拉斯縣
+douglas dam:道格拉斯水庫
 douglas dc-3 -lentokoneen hylky:飞机残骸
 douglas dc-3 “betsy”:dc-3客机
 douglas dc-3 “betsy”:dc-3客機
@@ -24805,6 +25020,7 @@ douglas flint:范智廉
 douglas football team:道格拉斯足球队
 douglas ford:道格拉斯福特
 douglas gene:道格拉斯基因
+douglas glacier:道格拉斯冰川
 douglas gordon:道格拉斯戈登
 douglas grant rehabilitation centre:道格拉斯格兰特康复中心
 douglas grant:道格拉斯格兰特
@@ -24828,6 +25044,7 @@ douglas jacobson:道格拉斯雅各布森
 douglas james smyth crozier:高詩雅
 douglas jung:鄭天華
 douglas kennedy:道格拉斯肯尼迪
+douglas lake:道格拉斯湖
 douglas lane:德忌利士巷
 douglas lapraik & co warehouse:獸醫防疫技術資料館
 douglas lapraik & co.:得忌利士洋行
@@ -24841,9 +25058,11 @@ douglas many times:道格拉斯多次
 douglas mental health university institute:道格拉斯心理健康大学研究所
 douglas mental health:道格拉斯心理健康
 douglas model:道格拉斯模型
+douglas mountain:道格拉斯山
 douglas movie:道格拉斯电影
 douglas nelson:道格拉斯纳尔逊
 douglas once:道格拉斯曾经
+douglas park:道格拉斯公園
 douglas peak:道格拉斯峰
 douglas plant:道格拉斯植物
 douglas prize:道格拉斯奖
@@ -24856,16 +25075,19 @@ douglas research center:道格拉斯研究中心
 douglas river:道格拉斯河
 douglas river:道格拉斯河流
 douglas road station:道格拉斯路站
+douglas road:道格拉斯路
 douglas rock:德己利士礁
 douglas said:道格拉斯说
 douglas says:道格拉斯说
 douglas school:道格拉斯学校
 douglas secondary school:道格拉斯中学
 douglas share:道格拉斯分享
+douglas shire:道格拉斯郡
 douglas simply:道格拉斯简单地
 douglas smith:道格拉斯史密斯
 douglas some:道格拉斯一些
 douglas sophomore:道格拉斯二年級生
+douglas squirrel:道格拉斯松鼠
 douglas strait:道格拉斯海峽
 douglas strauss:道格拉斯施特劳斯
 douglas street:德忌利士街
@@ -24876,6 +25098,7 @@ douglas students:道格拉斯学生
 douglas suggest:道格拉斯建议
 douglas taylor:道格拉斯泰勒
 douglas theatre:道格拉斯剧院
+douglas township:道格拉斯鎮區
 douglas township:道格拉斯镇区
 douglas uggah embas:道格拉斯乌加恩巴斯
 douglas unified school district:道格拉斯联合学区
@@ -25044,6 +25267,7 @@ douliu precinct, yunlin county police bureau:云林县警察局斗六分局
 douliu precinct, yunlin county police bureau:雲林縣警察局斗六分局
 douliu railway station:斗六車站
 douliu shiliu post office:斗六石榴郵局
+douliu station:斗六站
 douliu train station front station:斗六火車站前站
 douliu train station front station:斗六火车站前站
 douliu train station rear station:斗六火車站後站
@@ -25073,6 +25297,7 @@ doulu zhuan:豆盧瑑
 doulu:陡路
 doulun village:斗崙里
 doulun:斗崙
+douluo continent:斗罗大陆
 douluo:斗罗
 douluo:豆罗镇
 doum oochen:亚琛大教堂
@@ -25206,6 +25431,7 @@ dourbie:杜爾比河
 dourbies:杜尔比
 dourdain:杜尔丹
 dourdan and ablis:杜尔当和阿布利
+dourdan station:杜尔当站
 dourdan:杜尔当
 dourdou de conques:孔克杜尔杜河
 dourges:杜尔日
@@ -25457,6 +25683,8 @@ dover and london:多佛尔和伦敦
 dover army base:多佛尔军队基地
 dover army:多佛尔军队
 dover castle:多佛城堡
+dover castle:多佛尔城堡
+dover college:多佛学院
 dover college:多佛學院
 dover court:御柳居
 dover demon:多佛惡魔
@@ -25469,7 +25697,13 @@ dover lorry deaths:多佛惨案
 dover mrt station:杜弗地铁站
 dover museum:多佛尔博物馆
 dover or newcastle:多佛尔或纽卡斯尔
+dover press:多佛出版社
 dover railway:多佛尔铁路
+dover station:杜弗站
+dover strait:多佛尔海峡
+dover strait:多佛海峡
+dover street:多佛街
+dover township:多佛鎮區
 dover township:多佛镇区
 dover well:多佛尔井
 dover's powder:杜弗氏散
@@ -25507,6 +25741,7 @@ dovjka:多夫日卡
 dovjok:多夫若克
 dovolensky district:多沃利諾耶區
 dovre national park:多弗勒國家公園
+dovre township:多夫勒鎮區
 dovre:多夫勒
 dovrefjell:多弗勒山脈
 dovritx:多布里奇
@@ -25689,6 +25924,7 @@ downham peak:道綸姆峰
 downhill bike:下坡車
 downhill mountain biking:自行车速降
 downin kreivikunta:唐郡
+downing college:唐寧學院
 downing street and buckingham palace:唐宁街和白金汉宫
 downing street brief:唐宁街简报
 downing street chief of staff:唐宁街幕僚长
@@ -26630,6 +26866,7 @@ downtime:停机时间
 downton abbey movie:唐顿庄园电影
 downton abbey style:唐顿庄园风格
 downton abbey:唐顿庄园
+downtown airport:市中心機場
 downtown brooklyn:布魯克林下城
 downtown campus, ntunhs:國立臺北護理健康大學城區部
 downtown candlemas church of the blessed virgin mary:卡西姆帕夏清真寺
@@ -26642,6 +26879,7 @@ downtown crossing:下城十字
 downtown detroit:底特律下城
 downtown disney station:迪士尼市中心特區站
 downtown disney:迪士尼市中心特區
+downtown district:市中心區域
 downtown eastside:溫哥華市中心東端
 downtown jacksonville:杰克逊维尔市中心
 downtown lethbridge:列必珠市中心
@@ -26653,6 +26891,7 @@ downtown manhattan heliport:曼哈頓下城直升機場
 downtown mountain view station:山景城市中心站
 downtown mrt line:滨海市区线
 downtown seattle transit tunnel:西雅圖市中心公交隧道
+downtown station:市中心站
 downtown toronto:多倫多市中心
 downtown vancouver:溫哥華市中心
 downtown whitehorse:怀特霍斯市中心
@@ -26673,6 +26912,7 @@ dowon-dong:桃源洞
 dowon-ri:道原里
 dowoon:尹度云
 dowry cake:喜餅
+dowry death:嫁妆死亡
 dowry death:嫁妝死亡
 dowry or part:嫁妆或部分
 dowry was return:嫁妆是返回

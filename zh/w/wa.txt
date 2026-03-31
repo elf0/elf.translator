@@ -4,6 +4,7 @@ wa fun street:華歡街
 wa fung street:华丰街
 wa fung street:華豐街
 wa ga li gong:哇軋力共
+wa government:华盛顿州政府
 wa hing lane public bathhouse:華興里公浴室
 wa hing lane public toilet:華興里公廁
 wa hing lane:華興里
@@ -23,6 +24,7 @@ wa national unity party:佤民族团结党
 wa ning lane:華寧里
 wa on lane sitting-out area:樂慶里臨時休憩處
 wa on lane:華安里
+wa parliament:华盛顿州议会
 wa people:佤族
 wa self administered division:佤自治州
 wa self-administered division:佤自治州
@@ -134,6 +136,7 @@ waat hôt:瓦图浩特
 waawiyaataanong:底特律
 waaxoc:愛荷華州
 waaxoc:艾奥瓦州
+waba sha:瓦巴沙縣
 waba:瓦坝
 waba:瓦巴
 waba:瓦巴村
@@ -212,6 +215,7 @@ wacheng:娲城街道
 wachenheim:魏恩施特拉瑟地区瓦亨海姆
 wachenroth:瓦亨罗特
 wachi [expressway]:和知（高速）
+wachi station:和知站
 wachi station:和知站口
 wachi station:和知車站
 wachi:和知
@@ -258,6 +262,7 @@ wacoal:華歌爾
 wacoal:華歌爾 詠發百貨行東山分店
 wacom:和冠
 wacoro:瓦科羅
+wacquemoulin station:瓦克穆兰站
 wacquemoulin:瓦克穆兰
 wacquinghen:瓦坎冈
 wacun:娃村
@@ -281,6 +286,9 @@ wad mzi:瓦迪姆濟
 wada eisaku:和田英作
 wada elementary school:东京市杉并区区立和田小学
 wada koremasa:和田惟政
+wada river:和田河
+wada station:和田站
+wada village:和田村
 wada-guchi:和田口
 wada-higashi:和田东
 wada-higashi:和田東
@@ -304,11 +312,14 @@ wadajir district:瓦达吉尔区
 wadakiyama plantation:禾田喜山種植園
 wadaluo:瓦达洛
 wadamachi station:和田町站
+wadamisaki lighthouse:和田岬灯塔
 wadamisaki line:和田岬線
+wadamisaki line:和田岬线
 wadamisaki station:和田岬站
 wadamisaki:和田岬
 wadaura station:和田浦站
 wadayama station:和田山車站
+wadazuka station:和田塚站
 wadazuka station:和田塚車站
 wadazuka:和田塚
 wadden denizi:瓦登海
@@ -467,6 +478,7 @@ wafangdi:瓦房地
 wafangdian city:wǎfángdiàn shì
 wafangdian city:瓦房店市
 wafangdian west railway station:瓦房店西站
+wafangdian west:瓦房店西
 wafangdian:wǎfángdiàn shì
 wafangdian:瓦房店
 wafangdian:瓦房店市
@@ -519,6 +531,7 @@ waffle house shooting hero still:华夫饼屋射击英雄仍然
 waffle house shooting:华夫饼屋射击
 waffle house:华夫饼屋
 waffle iron:窩夫烤模
+waffle street:窩夫街
 waffle:窩夫
 waford industrial building:華福工業大廈
 wafqaol:湾桥镇
@@ -813,6 +826,7 @@ wagenhausen:瓦根豪森
 wagenhoff:瓦根霍夫
 wageningen university & research:瓦赫宁恩大学
 wageningen university & research:瓦赫寧恩大學
+wageningen university:瓦赫宁恩大学
 wageningen university:瓦赫寧恩大學
 wageningen:瓦赫宁恩
 wageningen:瓦赫寧恩
@@ -1724,6 +1738,7 @@ waikato institute of technology:懷卡托技術學院
 waikato management:懷卡托管理
 waikato museum:懷卡托美術文化博物館
 waikato river:怀卡托河
+waikato river:懷卡托河
 waikato stadium:懷卡托體育場
 waikato university:懷卡托大學
 waikato:懷卡托
@@ -1805,6 +1820,7 @@ wainanshijiaoshan:外南勢角山
 wainanzhuang:外南庄
 wainaoliao:外腦寮
 waingmaw township:歪莫鎮區
+waingmaw township:歪莫镇区
 waingmaw:歪莫
 waingmaw:歪莫镇区
 wainiaozui shan:外鳥嘴山
@@ -1935,6 +1951,7 @@ waist bag:腰袋
 waist bridge:腰桥
 waist buttocks:腰臀
 waist chop:腰斩
+waist chop:腰砍
 waist cut off:腰切断
 waist deep:腰深的
 waist design:腰设计
@@ -2226,6 +2243,7 @@ wait we:等待我们
 wait weeks:等待周
 wait what:等什么
 wait what:等什麼
+wait what:等待什么
 wait what:等待什麼
 wait will:等待会
 wait would:等待将
@@ -2411,6 +2429,8 @@ wajinping:挖金坪
 wajinwan subdistrict:wājīnwān jiēdào
 wajinwan subdistrict:挖金湾街道
 wajinwan subdistrict:挖金灣街道
+wajir airport:瓦吉爾機場
+wajir airport:瓦吉爾郡機場
 wajir county:瓦吉爾郡
 wajir fylke:瓦吉爾郡
 wajir kūn:瓦吉爾郡
@@ -2545,14 +2565,19 @@ wakatu indonesia woha:印度尼西亞中部標準時間
 wakayama at large district:和歌山縣選舉區
 wakayama castle:和歌山城
 wakayama college of science studies:和歌山县立理科短期大学
+wakayama dialect:和歌山方言
 wakayama line:和歌山線
+wakayama line:和歌山线
 wakayama medical university:和歌山縣立醫科大學
 wakayama prefecture:和歌山县
 wakayama prefecture:和歌山縣
 wakayama resort:和歌山度假村
 wakayama shin ai women's junior college:和歌山信爱女子短期大学
+wakayama station:和歌山市站
+wakayama station:和歌山站
 wakayama station:和歌山車站
 wakayama telecasting corporation:和歌山電視台
+wakayama university:和歌山大学
 wakayama university:和歌山大學
 wakayama will effectively:和歌山将有效地
 wakayama-jō:和歌山城
@@ -2644,6 +2669,7 @@ wake up those:醒醒那些
 wake up you:醒醒你
 wake up:醒醒
 wake us:醒我们
+wake village:醒村
 wake we:醒我们
 wake you:醒你
 wake your child:醒你的小孩
@@ -2667,9 +2693,11 @@ wakefield and his team:韦克菲尔德和他的团队
 wakefield and hull:韦克菲尔德和赫尔
 wakefield believe:韦克菲尔德相信
 wakefield cathedral:韋克菲爾德座堂
+wakefield cathedral:韦克菲尔德大教堂
 wakefield highland:韋克菲爾德高地
 wakefield is a town:韦克菲尔德是一个城镇
 wakefield market:韦克菲尔德市场
+wakefield parish:韦克菲尔德教区
 wakefield park:韦克菲尔德公园
 wakefield research:韦克菲尔德研究
 wakefield says:韦克菲尔德说
@@ -2757,6 +2785,7 @@ wakkanai-shi:稚内市
 wakkanai:稚內市
 wakkanai:稚内市
 wako university:和光大学
+wako university:和光大學
 wako2ffee house:和光咖啡屋
 wako:和光
 wako:和光市
@@ -2847,6 +2876,7 @@ walbucht:海盐湾
 walbucht:海鹽灣
 walchensee:瓦爾興湖
 walchere:瓦尔赫伦岛
+walcheren campaign:瓦尔赫伦岛战役
 walcheren campaign:瓦爾赫倫島戰役
 walcheren:瓦尔赫伦岛
 walchia:羽杉属
@@ -3136,6 +3166,7 @@ wales theatre:威尔士剧院
 wales think:威尔士认为
 wales together:威尔士在一起
 wales tourism:威尔士旅游
+wales township:威爾斯鎮區
 wales trade international:威尔士贸易国际
 wales trade:威尔士贸易
 wales university:威尔士大学
@@ -3490,6 +3521,7 @@ walker no longer:沃克不再
 walker now:沃克现在
 walker nunatak:沃克冰原島峰
 walker organize:沃克组织
+walker park:沃克公園
 walker peak:沃克峰
 walker plan:沃克计划
 walker point:沃克角
@@ -3504,6 +3536,7 @@ walker reject:沃克拒绝
 walker remember:沃克记得
 walker resign:沃克辞去
 walker ridge:沃克嶺
+walker river:沃克河
 walker road:沃克路
 walker road:獲嘉道
 walker rocks:沃克岩
@@ -3532,8 +3565,10 @@ walker tell:沃克告诉
 walker tennis:沃克网球
 walker theatre:沃克剧院
 walker threat:沃克威胁
+walker township:沃克鎮區
 walker township:沃克镇区
 walker trust:沃克信托
+walker valley:沃克瓦利
 walker votes:沃克投票
 walker want:沃克想要
 walker was about ten:沃克是大约十
@@ -3614,6 +3649,7 @@ walking car:步行车
 walking castle:步行城堡
 walking catfish:蟾鬍鯰
 walking challenge:步行挑战
+walking cities:步行城市
 walking city:步行城市
 walking class:步行课程
 walking cliff:步行悬崖
@@ -3896,6 +3932,7 @@ wall as well:墙也
 wall as:墙当作
 wall at minute maid:墙在美汁源
 wall await:墙等待
+wall ball:墙球
 wall bar:墙酒吧
 wall barrier:墙屏障
 wall battery:墙电池
@@ -4624,6 +4661,7 @@ wallace just:华莱士只
 wallace kennedy:华莱士肯尼迪
 wallace knock:华莱士敲
 wallace knows:华莱士知道
+wallace line:华莱士线
 wallace line:華萊士線
 wallace loh:陆道逵
 wallace look:华莱士看
@@ -4653,6 +4691,7 @@ wallace suggest:华莱士建议
 wallace teach:华莱士教
 wallace then:华莱士然后
 wallace think:华莱士认为
+wallace township:華萊士鎮區
 wallace travel:华莱士旅行
 wallace university:华莱士大学
 wallace wait:华莱士等待
@@ -4976,6 +5015,7 @@ wallis e futuna:瓦利斯和富图纳群岛
 wallis en futuna:瓦利斯和富图纳群岛
 wallis en fûtûna:瓦利斯和富图纳群岛
 wallis eta futuna:瓦利斯和富图纳群岛
+wallis glacier:威爾斯冰川
 wallis glacier:沃利斯冰川
 wallis ha futuna:瓦利斯和富图纳群岛
 wallis i futuna:瓦利斯和富图纳群岛
@@ -4983,6 +5023,8 @@ wallis in futuna:瓦利斯和富图纳群岛
 wallis ja futuna:瓦利斯和富图纳群岛
 wallis kap futuna:瓦利斯和富图纳群岛
 wallis kple futuna nutome:瓦利斯和富图纳群岛
+wallis lake:威尔士湖
+wallis lake:威爾斯湖
 wallis lan futuna:瓦利斯和富图纳群岛
 wallis na futuna:瓦利斯和富图纳群岛
 wallis ne futuna:瓦利斯和富图纳群岛
@@ -5311,6 +5353,7 @@ walnut leaf:核桃叶
 walnut massage:核桃按摩
 walnut meat:核桃肉
 walnut milk:核桃乳
+walnut mountain:核桃山
 walnut nightstand:核桃床头柜
 walnut nutrient:核桃营养
 walnut oil and fish:核桃油和鱼
@@ -5455,7 +5498,11 @@ walters peak:瓦爾特斯峰
 walterschen:瓦尔特申
 waltershausen:瓦尔特斯豪森
 waltham abbey church:沃爾瑟姆修道院教堂
+waltham abbey:沃爾瑟姆修道院
+waltham cross:沃爾瑟姆十字
+waltham forest:沃爾瑟姆森林
 waltham township:沃尔瑟姆镇区
+waltham township:沃爾瑟姆鎮區
 waltham:沃爾瑟姆
 walthamstow central station:沃爾瑟姆斯托中央站
 walthamstow queen's road railway station:沃爾瑟姆斯托女王路站
@@ -5509,6 +5556,7 @@ walvis bay:鲸湾港
 walvisbaai:鲸湾港
 walwal:沃勒沃勒
 walworth county:沃爾沃思縣
+walworth township:沃爾沃思鎮區
 walworth:沃爾沃思
 walzbachtal:瓦尔茨巴赫塔尔
 walèta:華列他zh=瓦莱塔
@@ -5531,12 +5579,15 @@ wamasishe:哇麻四社
 wamatai:哇麻台
 wamayishe:哇麻一社
 wamba river:万巴河
+wambaix station:旺拜站
 wambaix:旺拜
 wambercourt:旺贝库尔
 wambrechies:旺布勒希
 wambu:万博省
 wambu:萬博省
 wamena airport:瓦梅納機場
+wamena airport:瓦梅纳机场
+wamena airport:瓦梅纳機場
 wamena:瓦梅纳
 wamfie:瓦梅菲埃
 wami river:瓦米河
@@ -6479,6 +6530,8 @@ wandsbek:万茨贝克区
 wandsworth bridge:旺茲沃思橋
 wandsworth prison:旺茲沃思監獄
 wandsworth road railway station:旺茲沃思路站
+wandsworth road:旺茲沃思路
+wandsworth shield:旺茲沃思盾
 wandsworth:旺茲沃思
 wandu mountain:丸都山
 wandu traders hotel:万都商务酒店
@@ -7965,6 +8018,8 @@ wangcheng county:wàngchéng qū
 wangcheng county:望城
 wangcheng county:望城区
 wangcheng county:望城區
+wangcheng county:望城县
+wangcheng county:王城县
 wangcheng district:wàngchéng qū
 wangcheng district:望城
 wangcheng district:望城区
@@ -7997,6 +8052,7 @@ wangchenghe:望城河
 wangchenghoucun:王城后村
 wangchenglu subdistrict:王城路街道
 wangchenglu:王城路街道
+wangchengpo station:望城坡站
 wangchengpo:望城坡
 wangchengpo:望城坡街道
 wangchengqian:王城前
@@ -8060,6 +8116,7 @@ wangcun metro station:地铁旺村站
 wangcun north:旺村北站
 wangcun primary school:王村小学
 wangcun station:旺村站
+wangcun station:王村站
 wangcun subdistrict:wángcūn jiēdào
 wangcun subdistrict:王村街道
 wangcun west road:旺村西路
@@ -8390,6 +8447,7 @@ wangfudiancun:王福店村
 wangfuhuacun:王富花村
 wangfujing bookstore:王府井书店
 wangfujing bookstore:王府井書店
+wangfujing church:王府井教堂
 wangfujing department store:王府井百货
 wangfujing einkaufsstraße:王府井大街
 wangfujing paleolithic museum:王府井古人类文化遗址博物馆
@@ -8777,6 +8835,8 @@ wangin ail gaqaa:王艾勒嘎查
 wangjaesan light music band:旺載山輕音樂團
 wangjaesan-ri:旺載山里
 wangjaesan-ri:旺载山里
+wangjang station:旺场站
+wangjang station:旺場站
 wangjang:旺场
 wangjang:旺場
 wangji center primary school:汪集中心小学
@@ -8963,7 +9023,9 @@ wangjiaduan:王家段
 wangjiaduju:汪家独居
 wangjiadukou:王家渡口
 wangjiadun east station:王家墩东站
+wangjiadun east:王家墩东
 wangjiadun east:王家墩东站
+wangjiadun east:王家墩東
 wangjiadun east:王家墩東站
 wangjiadun park:王家墩公园
 wangjiadun station:汪家墩站
@@ -9376,6 +9438,7 @@ wangjiazhuang church:王家庄基督教堂
 wangjiazhuang community:王家庄社区
 wangjiazhuang ranch:王家庄牧场
 wangjiazhuang station:王家庄站
+wangjiazhuang station:王家莊站
 wangjiazhuang:汪家庄
 wangjiazhuang:汪家庄镇
 wangjiazhuang:王家庄
@@ -9434,6 +9497,7 @@ wangjing hospital:中国中医科学院望京医院
 wangjing hospital:中國中醫科學院望京醫院
 wangjing school:王京学校
 wangjing south:望京南
+wangjing station:望京站
 wangjing town government:王京镇政府
 wangjing west (line 13):望京西
 wangjing west:望京西
@@ -10271,6 +10335,7 @@ wangsimni station:往十里站
 wangsimni:往十里
 wangsimnidoseon-dong:往十里道詵洞
 wangsimnidoseon-dong:往十里道诜洞
+wangsin station:王神站
 wangsin:王神
 wangsinan:王寺南
 wangsing:王行
@@ -10697,6 +10762,7 @@ wangxincun:王信村
 wangxincun:王辛村
 wangxindiancun:王辛店村
 wangxinfangcun:王新房村
+wangxing culture:網形文化
 wangxing road:汪兴路
 wangxing village:王行里
 wangxing:望兴
@@ -11067,6 +11133,7 @@ wangzhuang road:王莊路
 wangzhuang subdistrict:王庄街道
 wangzhuang town junior middle school:王庄镇初中
 wangzhuang town no.3 junior middle school:王庄镇一初中
+wangzhuang village:王庄村
 wangzhuang xinji primary school:王庄新集小学
 wangzhuang:wángzhuāng
 wangzhuang:wángzhuāng bùyīzú miáozú xiāng
@@ -11335,6 +11402,9 @@ wanhua sports center:万华运动中心
 wanhua sports center:萬華運動中心
 wanhua station:wàn huá
 wanhua station:万华车站
+wanhua station:湾华站
+wanhua station:灣華站
+wanhua station:萬華站
 wanhua station:萬華車站
 wanhua story house:萬華故事館
 wanhua street:万华街
@@ -11509,6 +11579,7 @@ wanjiayingzicun:万家营子村
 wanjiayuan:万家院
 wanjiazha:万家榨
 wanjiazhai dam:万家寨水利枢纽
+wanjiazhai dam:万家寨水库
 wanjiazhai reservoir:wànjiāzhài shuǐkù
 wanjiazhai reservoir:万家寨水库
 wanjiazhai:万家寨
@@ -11861,6 +11932,7 @@ wannian bridge:萬年橋
 wannian building:萬年商業大樓
 wannian county:wànnián xiàn
 wannian county:万年县
+wannian county:萬年县
 wannian county:萬年縣
 wannian no. 2 bridge:萬年二號橋
 wannian park:万年公园
@@ -11932,8 +12004,10 @@ wanning:万宁市
 wanning:萬寧
 wanning:萬寧市
 wanniuzhangcun:万牛张村
+wannsee conference:万湖会议
 wannsee conference:萬湖會議
 wannsee meeting:万湖会议
+wannsee station:万湖站
 wannsee:万湖
 wannweil:万韦尔
 wanou village:𬇕欧村
@@ -11992,6 +12066,7 @@ wanqingsha junction:万顷沙立交
 wanqingsha middle school:万顷沙中学
 wanqingsha primary school:万顷沙小学
 wanqingsha service area:万顷沙服务区
+wanqingsha station:万顷沙站
 wanqingsha:wànqǐngshā zhèn
 wanqingsha:万顷沙
 wanqingsha:万顷沙镇
@@ -12010,6 +12085,8 @@ wanqiushan:灣丘山
 wanqu open university of design:湾区设计开放大学/湾区设计协同研究院
 wanquan avenue:万全道
 wanquan avenue:萬全道
+wanquan county:万全县
+wanquan county:萬全县
 wanquan dao:万全道
 wanquan dao:萬全道
 wanquan district:wànquán qū
@@ -12019,6 +12096,7 @@ wanquan lake:wànquán hú
 wanquan lake:万泉湖
 wanquan river:pànshuǐ hé
 wanquan river:wànquán hé
+wanquan river:万全河
 wanquan river:万泉河
 wanquan river:萬泉河
 wanquan street:萬全街
@@ -12090,10 +12168,12 @@ wanshan archipelago campaign:万山群岛战役
 wanshan archipelago:萬山群島
 wanshan bridge:丸山橋
 wanshan farmers market:万山农贸市场
+wanshan islands:万山群岛
 wanshan lake east road:wǎnshān hú dōng lù
 wanshan lake west road:wǎnshān hú xī lù
 wanshan lake:wǎnshān hú
 wanshan north:万山北站
+wanshan park:丸山公園
 wanshan plum garden:万山梅花园
 wanshan road:maansaan lu
 wanshan road:万山路
@@ -12146,6 +12226,8 @@ wansheng road:万胜路
 wansheng sheli:万升舍里
 wansheng south street:wànshèng nán jiē
 wansheng south street:万盛南街
+wansheng station:万盛站
+wansheng station:萬盛站
 wansheng stream:萬盛溪
 wansheng street:万盛街
 wansheng street:萬盛街
@@ -12167,6 +12249,7 @@ wansheng:萬盛
 wansheng:萬盛區
 wansheng:萬盛街道
 wanshengcun:万胜村
+wanshengdong station:万盛东站
 wanshengdong:万盛东
 wanshenggong:萬聖公
 wanshengkui:万盛奎
@@ -12175,6 +12258,7 @@ wanshengnan:万盛南
 wanshengqi:万盛岐
 wanshengwei bus terminal:万胜围总站
 wanshengwei bus terminal:万胜围总站(落客区)
+wanshengwei station:万胜围站
 wanshengwei:万胜围
 wanshengxi station:万盛西站
 wanshengyong:万胜永乡
@@ -12205,6 +12289,7 @@ wanshou lane:万寿巷
 wanshou lu bus terminal:万寿路总站
 wanshou lu east:万寿路东站
 wanshou lu middle:万寿路中站
+wanshou mountain:万寿山
 wanshou palace:万寿宫
 wanshou park (xiangshang s. rd.):wànshòugōngyuán(xiàngshàngnánlù)
 wanshou park (xiangshang s. rd.):ㄨㄢˋㄕㄡˋㄍㄨㄥㄩㄢˊ(ㄒㄧㄤˋㄕㄤˋㄋㄢˊㄌㄨˋ)
@@ -12227,6 +12312,7 @@ wanshou road:萬壽路
 wanshou road:萬壽路街道
 wanshou shanying road intersection:萬壽山鶯路口
 wanshou si station:万寿寺站
+wanshou station:万寿站
 wanshou street:萬壽街
 wanshou subdistrict:万寿街道
 wanshou temple street:万寿宫街
@@ -12251,6 +12337,7 @@ wanshougu temple:wànshòugǔ sì
 wanshougu temple:万寿古寺
 wanshouji:万寿集
 wanshoujicun:万寿集村
+wanshoulu station:万寿路站
 wanshoulu:万寿路
 wanshouqiao south road:万寿桥南路
 wanshouqiao:万寿桥
@@ -12310,6 +12397,9 @@ wansong:万松街道
 wansongcun:万松村
 wansongyuan:万松园
 wanstead park railway station:旺斯特德公園站
+wanstead park:旺斯特德公园
+wanstead park:旺斯特德公園
+wanstead station:旺斯特德站
 wanstead tube station:旺斯特德站
 wanstead:旺斯特德
 wansui street:wànsuì jiē
@@ -14095,6 +14185,7 @@ wanyuan:萬源市
 wanyuandian middle school:万元店中学
 wanyuandian town people's government:万元店镇人民政府
 wanyuandian:万元店镇
+wanyuanjie station:万源街站
 wanyuanjie:wànyuánjiē
 wanyuanjie:万源街
 wanyuanjie:萬源街
@@ -14229,6 +14320,8 @@ wanzi road:万紫路
 wanzi south road:wānzǐ nán lù
 wanzi south road:湾仔南路
 wanzi station:湾子站
+wanzi station:灣仔站
+wanzi station:灣子站
 wanzi tourism harbour:wānzǐ lǚyóu mǎtou
 wanzi tourism harbour:湾仔旅游码头
 wanzi tourism harbour:灣仔旅遊碼頭
@@ -14307,6 +14400,7 @@ wappen des grafen istván széchenyi:伊斯特万·塞切尼伯爵的徽章
 wappen von baron george sina:乔治·西纳男爵的徽章
 wapping pirate:沃平海盗
 wapping railway station:沃平站
+wapping station:沃平站
 wapping:沃平
 wappingen:瓦皮
 wappo language:瓦波語
@@ -14684,6 +14778,7 @@ war changed:战争改变了
 war chief:战争领袖
 war child:战争儿童
 war childhood museum:戰爭兒童博物館
+war children:战争儿童
 war children:戰爭兒童
 war china:战争中国
 war choose:战争选择
@@ -14703,10 +14798,12 @@ war comic books:战争漫画书
 war comic:战争漫画
 war comics:战争漫画
 war comics:戰爭漫畫
+war command:战争命令
 war commander:战争指挥官
 war comment:战争评论
 war committee:战争委员会
 war communism and new economic policy:战时共产主义与新经济政策
+war communism:战争共产主义
 war communism:战时共产主义
 war companies:战争公司
 war computer:战争计算机
@@ -14740,9 +14837,11 @@ war crime trial:战争罪行审判
 war crime tribunal:战争罪法庭
 war crime tribunal:战争罪行法庭
 war crime victims:战争罪受害者
+war crime:战争犯罪
 war crime:战争罪
 war crime:战争罪行
 war crimes in the russian invasion of ukraine:俄罗斯入侵乌克兰的战争罪行
+war crimes:战争罪行
 war criminal charles taylor:战争罪犯查尔斯泰勒
 war criminal charles:战争罪犯查尔斯
 war criminal:战争罪犯
@@ -14787,6 +14886,7 @@ war during:战争期间
 war dust:战争灰尘
 war eagle:战争鹰
 war economics:战争经济学
+war economy:战争经济
 war economy:戰時經濟
 war education:战争教育
 war effort:战争努力
@@ -14813,12 +14913,14 @@ war failed:战争失败
 war failure:战争失败
 war families:战争家庭
 war feel:战争感觉
+war fiction:战争小说
 war files:战争文件
 war film dunkirk:战争电影敦刻尔克
 war film lack:战争电影缺乏
 war film pearl harbor:战争电影珍珠港
 war film:战争电影
 war film:戰爭片
+war films:战争电影
 war finally:战争最终
 war finance:战争金融
 war financing:战争融资
@@ -14834,6 +14936,8 @@ war from a child:战争从一个小孩
 war from:战争从
 war fund:战争基金
 war funding:战争资金
+war game:战争游戏
+war games:战争游戏
 war garden:战争花园
 war gas:战争气体
 war general:战争将军
@@ -14843,6 +14947,7 @@ war goals:战争目标
 war god:战争神
 war goddess:战争女神
 war government:战争政府
+war grave:战争坟墓
 war grave:烈士陵园
 war guilt question:戰爭罪責問題
 war had been:战争已经
@@ -15018,9 +15123,12 @@ war mode:战争模式
 war model:战争模型
 war module:战争模块
 war monitor:战争监视器
+war monument:战争纪念碑
 war more than:战争超过
 war more:战争更多
 war mother:战争母亲
+war movie:战争电影
+war movies:战争电影
 war murder:战争谋杀
 war museum committee:战争博物馆委员会
 war museum north:战争博物馆北
@@ -15034,6 +15142,7 @@ war museum:战争博物馆
 war music:战争音乐
 war myth:战争神话
 war natural history:战争自然历史
+war navy:战争海军
 war near:战争接近
 war nearly:战争几乎
 war needs you:战争需要你
@@ -15299,6 +15408,7 @@ war robot:战争机器人
 war robots:战争机器人
 war role:战争角色
 war room:战争房间
+war rule:战争规则
 war rules:战争规则
 war saint:战争圣
 war satire:战争讽刺
@@ -15481,6 +15591,7 @@ war-related causes:战争相关的原因
 war-veterans organization:战争老兵组织
 war:战争
 wara gomba:瓦拉寺
+wara wara:瓦拉瓦拉
 wara:瓦拉
 warab:瓦拉卜州
 warabi station:蕨車站
@@ -15511,6 +15622,7 @@ waratah islands:沃勒塔群島
 waratako:笑たこ章魚燒 原宿表参道店
 waray language:瓦瑞語
 waray wikipedia:瓦瑞語維基百科
+waray wikipedia:瓦瑞语维基百科
 waray:瓦瑞语
 waraš:瓦拉什
 warba:瓦巴村
@@ -15525,6 +15637,7 @@ warburg family:沃伯格家族
 warburg hypothesis:瓦尔堡假说
 warburg institute:瓦尔堡学院
 warburg pincus:华平投资
+warburg station:瓦尔堡站
 warburg:瓦尔堡
 warburgia elongata:坦尚尼亞十數樟
 warburgia salutaris:穆蘭加十數樟
@@ -15588,6 +15701,7 @@ wardenis:瓦尔代尼斯
 wardenis:瓦尔代尼斯/瓦爾代尼斯
 wardenis:瓦爾代尼斯
 wardha district:沃爾塔縣
+wardha river:沃尔塔河
 wardha:沃尔塔
 wardieburn camp:华大本军营
 wardieburn camp:華大本軍營
@@ -15697,6 +15811,7 @@ warfare factory:战争工厂
 warfare had been not mechanical:战争已经不是机械的
 warfare had been:战争已经
 warfare history:战争历史
+warfare machines:战争机器
 warfare map:战争地图
 warfare metaphor:战争隐喻
 warfare methods:战争方法
@@ -15790,6 +15905,8 @@ waring rocks:韋林岩
 waring's problem:華林問題
 warinsee:瓦林湖
 warintapani:瓦林塔帕尼山
+wario series:瓦力欧系列
+wario world:瓦力欧世界
 wario's woods:瓦力欧之森
 wario:瓦力欧
 wariri:瓦里里山
@@ -15924,6 +16041,7 @@ warminsko-mazurske wojewódstwo:瓦尔米亚-马祖里省
 warminsko-mazurske wojewódstwo:瓦爾米亞-馬祖里省
 warminskô-mazursczé wòjewództwò:瓦尔米亚-马祖里省
 warminskô-mazursczé wòjewództwò:瓦爾米亞-馬祖里省
+warminster line:沃明斯特线
 warminster:沃明斯特
 warmińsko-mazurske wojewōdztwo:瓦尔米亚-马祖里省
 warmińsko-mazurske wojewōdztwo:瓦爾米亞-馬祖里省
@@ -16352,6 +16470,7 @@ warning taboo:警告禁忌
 warning taxpayer:警告纳税人
 warning technology:警告技术
 warning tehran:警告德黑兰
+warning template:警告模板
 warning test:警告测试
 warning text:警告文本
 warning that:警告那
@@ -16453,26 +16572,40 @@ warren and his colleagues:沃倫和他的同事
 warren and i:沃倫和我
 warren buffet:沃倫自助餐
 warren commission:華倫委員會
+warren county:沃伦县
 warren county:沃倫縣
 warren court:沃伦法院
+warren court:沃倫法院
+warren court:華倫法院
 warren cup:沃伦杯
+warren cup:沃倫杯
 warren delabere barnes:班士
 warren dunes state park:沃伦沙丘州立公园
+warren hound:沃倫獵犬
 warren ice piedmont:沃倫山麓冰川
 warren mok:莫華倫
 warren nunatak:沃倫冰原島峰
+warren park:沃倫公園
 warren peak:沃倫峰
 warren push:沃倫推
 warren range:沃倫山脈
+warren region:沃伦地区
+warren report:沃伦报告
+warren report:華倫報告
 warren ridge:沃倫嶺
 warren road station:華倫路站
+warren road:華倫路
+warren shire:沃倫郡
+warren shire:華倫郡
 warren street public toilet:华伦街公厕
 warren street public toilet:華倫街公廁
 warren street tube station:華倫街站
 warren street:华伦街
+warren street:沃伦街
 warren street:沃倫街
 warren street:華倫街
 warren township:沃伦镇区
+warren township:沃倫鎮區
 warren woods state park:沃伦疏林州立公园
 warren:沃伦
 warren:沃倫
@@ -16485,6 +16618,7 @@ warrenin piirikunta:華倫郡
 warrenwoods:尚峦
 warrenwoods:尚巒
 warrenzin:瓦伦钦
+warri wolves:瓦里狼
 warri:瓦里
 warriner island:沃里納島
 warring states crystal cup:水晶杯
@@ -16568,6 +16702,7 @@ warrior grant:战士格兰特
 warrior grave:战士坟墓
 warrior hear:战士听
 warrior his name:战士他的名字
+warrior hotel:回力酒店
 warrior ideal:戰士理想
 warrior instinct:战士本能
 warrior into:战士进入
@@ -16680,9 +16815,11 @@ warsaw and prague:华沙和布拉格
 warsaw and royal castle:华沙和皇家城堡
 warsaw and singapore:华沙和新加坡
 warsaw and washington:华沙和华盛顿
+warsaw arsenal:華沙兵工廠
 warsaw at all:华沙在所有
 warsaw attend:华沙参加
 warsaw autumn:华沙秋季
+warsaw barbican:华沙瓮城
 warsaw barbican:華沙甕城
 warsaw be:华沙成为
 warsaw became:华沙成为
@@ -16697,6 +16834,7 @@ warsaw central:华沙中心的
 warsaw centre:华沙中心
 warsaw chopin airport:华沙肖邦机场
 warsaw circus:华沙马戏
+warsaw citadel:华沙城堡
 warsaw city center:华沙城市中心
 warsaw city centre:华沙市中心
 warsaw city hall:华沙市政厅
@@ -16711,8 +16849,13 @@ warsaw confederation:華沙聯盟協約
 warsaw conference:华沙会议
 warsaw constituency:华沙选区
 warsaw constituent assembly:华沙制宪议会
+warsaw cup:华沙杯
+warsaw cup:華沙杯
+warsaw dialect:华沙方言
 warsaw drawing school:华沙绘画学校
 warsaw drawing:华沙绘画
+warsaw duchy:華沙公國
+warsaw east:华沙东
 warsaw events:华沙事件
 warsaw film festival:华沙国际电影节
 warsaw film:华沙电影
@@ -16725,8 +16868,10 @@ warsaw ghetto boy:華沙隔都的猶太男孩
 warsaw ghetto uprising:華沙猶太區起義
 warsaw ghetto:华沙隔都
 warsaw ghetto:華沙猶太區
+warsaw ghetto:華沙隔都
 warsaw government:华沙政府
 warsaw he:华沙他
+warsaw highway:華沙公路
 warsaw hotel:华沙酒店
 warsaw ice:华沙冰
 warsaw indiana:华沙印第安纳州
@@ -16785,6 +16930,7 @@ warsaw railway:华沙铁路
 warsaw recently look:华沙最近看
 warsaw recently:华沙最近
 warsaw record:华沙记录
+warsaw region:华沙军区
 warsaw residents:华沙居民
 warsaw retail:华沙零售
 warsaw rising museum:華沙起義博物館
@@ -16813,16 +16959,19 @@ warsaw this year:华沙今年
 warsaw time:华沙时间
 warsaw to brussels:华沙到布鲁塞尔
 warsaw township:沃索镇区
+warsaw township:華沙鎮區
 warsaw trade tower:華沙貿易塔
 warsaw trade:华沙贸易
 warsaw transport:华沙运输
 warsaw treaty:华沙条约
 warsaw underground:华沙地下
+warsaw union:华沙联盟
 warsaw university of life sciences:华沙生命科学大学
 warsaw university of life sciences:華沙生命科學大學
 warsaw university of technology students:华沙理工大学学生
 warsaw university of technology:华沙理工大学
 warsaw university:华沙大学
+warsaw university:華沙大學
 warsaw update:华沙更新
 warsaw uprising monument:华沙起义纪念碑
 warsaw uprising museum:华沙起义博物馆
@@ -16830,7 +16979,9 @@ warsaw uprising:华沙起义
 warsaw victoria:华沙维多利亚
 warsaw was called:华沙被称为
 warsaw west county:西華沙縣
+warsaw west:华沙西
 warsaw zoo:华沙动物园
+warsaw zoo:華沙動物園
 warsaw:华沙
 warsaw:華沙
 warsawa:华沙
@@ -16908,6 +17059,7 @@ warta:瓦尔塔河
 wartau:瓦陶
 wartberg an der krems:克雷姆斯河畔瓦特贝格
 wartberg ob der aist:艾斯特上游瓦特贝格
+wartburg college:瓦爾特堡學院
 wartburg festival:瓦爾特堡綱領
 wartburg gaztelua:瓦爾特堡
 wartburg kalesi:瓦爾特堡
@@ -16916,6 +17068,7 @@ wartburg:瓦爾特堡
 wartburgin linna:瓦爾特堡
 wartburgkreis:瓦尔特堡县
 wartenberg wheel:瓦滕贝格轮
+warthausen castle:瓦尔特豪森城堡
 warthausen:瓦尔特豪森
 warthog:疣豬屬
 wartime abuse:战时虐待
@@ -17136,11 +17289,14 @@ warwick hotel:華威酒店
 warwick house:和豐樓
 warwick river shire:華威河郡
 warwick road:和域道
+warwick station:華威站
 warwick university professor:華威大學教授
+warwick university:華威大学
 warwick university:華威大學
 warwick:華威
 warwick:華威城堡
 warwickin linna:華威城堡
+warwickshire north:華威郡北
 warwickshire:窩域郡
 warwickshire:華威郡
 warworld:战争世界
@@ -26028,6 +26184,7 @@ washington a few days later:华盛顿几天后
 washington about how:华盛顿关于如何
 washington about:华盛顿关于
 washington academy of sciences:华盛顿科学院
+washington academy:华盛顿学院
 washington accelerate:华盛顿加速
 washington accept:华盛顿接受
 washington access:华盛顿访问
@@ -26219,6 +26376,7 @@ washington and western europe:华盛顿和西欧
 washington and zurich:华盛顿和苏黎世
 washington answer:华盛顿回答
 washington apartment:华盛顿公寓
+washington apartments:华盛顿公寓
 washington apple:华盛顿苹果
 washington arch:华盛顿拱
 washington area:华盛顿地区
@@ -26238,6 +26396,7 @@ washington auto:华盛顿汽车
 washington axis:华盛顿轴
 washington ballet:华盛顿芭蕾舞
 washington basketball:华盛顿篮球
+washington battalion:华盛顿营
 washington be:华盛顿成为
 washington beach:华盛顿海滩
 washington beauty:华盛顿美
@@ -26290,6 +26449,7 @@ washington catholic:华盛顿天主教
 washington caution:华盛顿警告
 washington cemetery:华盛顿墓地
 washington center:华盛顿中心
+washington center:華盛頓中心
 washington channel:华盛顿水道
 washington check it out:华盛顿检查
 washington check:华盛顿检查
@@ -26309,6 +26469,7 @@ washington coast:华盛顿海岸
 washington college is located in:华盛顿学院位于
 washington college park:华盛顿学院公园
 washington college:华盛顿学院
+washington college:華盛頓學院
 washington commanders:华盛顿指挥官
 washington communities:华盛顿社区
 washington community college system:华盛顿社区学院系统
@@ -26325,9 +26486,11 @@ washington consensus:华盛顿共识
 washington consent:华盛顿同意
 washington consider:华盛顿考虑
 washington constitution:华盛顿宪法
+washington constitution:华盛顿州宪法
 washington consultant:华盛顿顾问
 washington consumers:华盛顿消费者
 washington contact:华盛顿联系
+washington continent:華盛頓洲
 washington continue:华盛顿持续
 washington continue:华盛顿继续
 washington continues:华盛顿继续
@@ -26336,6 +26499,7 @@ washington corporation:华盛顿公司
 washington correctly:华盛顿正确地
 washington corridor:华盛顿走廊
 washington could:华盛顿能
+washington council:华盛顿州议会
 washington council:华盛顿理事会
 washington county community college:华盛顿县社区学院
 washington county jail:华盛顿县监狱
@@ -26415,6 +26579,7 @@ washington department of agriculture:华盛顿农业部
 washington describe:华盛顿描述
 washington die:华盛顿死
 washington diplomat:华盛顿外交官
+washington diplomat:華盛頓外交官
 washington discuss:华盛顿讨论
 washington discussion:华盛顿讨论
 washington district of columbia:华盛顿哥伦比亚特区
@@ -26422,6 +26587,8 @@ washington do:华盛顿做
 washington double star catalog:華盛頓雙星目錄
 washington dulles airport:华盛顿杜勒斯机场
 washington dulles:华盛顿杜勒斯
+washington dulles:華盛頓杜勒斯
+washington eagle:华盛顿鹰
 washington earlier this week:华盛顿本周早些时候
 washington easy:华盛顿容易
 washington effectively:华盛顿有效地
@@ -26459,6 +26626,7 @@ washington forum:华盛顿论坛
 washington four:华盛顿四
 washington freedom lighthouse:华盛顿自由灯塔
 washington freedom:华盛顿自由
+washington freedom:華盛頓自由
 washington friday:华盛顿星期五
 washington friends:华盛顿朋友
 washington from the:华盛顿从这
@@ -26500,6 +26668,7 @@ washington hospital:华盛顿医院
 washington hotel room:华盛顿酒店房间
 washington hotel:华盛顿旅馆
 washington hotel:华盛顿酒店
+washington hotel:華盛頓酒店
 washington illegal:华盛顿非法
 washington in this battle:华盛顿在这场战斗中
 washington increasingly:华盛顿日益
@@ -26508,6 +26677,7 @@ washington influence:华盛顿影响力
 washington inherit:华盛顿继承
 washington initiative:华盛顿倡议
 washington insist:华盛顿坚持
+washington institute:华盛顿学院
 washington institute:华盛顿研究所
 washington institutions:华盛顿机构
 washington intend:华盛顿打算
@@ -26540,7 +26710,9 @@ washington justice:华盛顿正义
 washington knows china:华盛顿知道中国
 washington knows:华盛顿知道
 washington lack:华盛顿缺乏
+washington lake:华盛顿湖
 washington lake:华盛顿湖泊
+washington lake:華盛頓湖
 washington landscape:华盛顿景观
 washington language school:华盛顿语言学校
 washington last week:华盛顿上周
@@ -26570,6 +26742,7 @@ washington meeting:华盛顿会议
 washington memorial:华盛顿纪念碑
 washington metro:华盛顿地铁
 washington metro:華盛頓地鐵
+washington metro:華盛頓地铁
 washington metropolitan area transit authority:華盛頓都會區交通局
 washington metropolitan area:華盛頓都會區
 washington metropolitan association of chinese schools:大華府地區中文學校聯誼會
@@ -26644,21 +26817,25 @@ washington or seoul:华盛顿或首尔
 washington or wall street:华盛顿或华尔街
 washington order:华盛顿命令
 washington parade:华盛顿游行
+washington parish:华盛顿堂区
 washington parish:华盛顿教区
 washington park arboretum:华盛顿公园树木园
 washington park zoo:华盛顿公园动物园
 washington park:华盛顿公园
+washington park:華盛頓公園
 washington parlor game:华盛顿客厅游戏
 washington parlor:华盛顿客厅
 washington participate:华盛顿参加
 washington party:华盛顿党
 washington peace:华盛顿和平
+washington peak:華盛頓峰
 washington pearl apartment:华盛顿珍珠公寓
 washington pearl:华盛顿珍珠
 washington philanthropist david:华盛顿慈善家大卫
 washington philanthropist:华盛顿慈善家
 washington place:华盛顿宮
 washington plans:华盛顿计划
+washington plaza:華盛頓廣場
 washington police officer:华盛顿警察
 washington police station:华盛顿警察局
 washington police:华盛顿警察
@@ -26746,6 +26923,7 @@ washington return:华盛顿返回
 washington ridge:華盛頓嶺
 washington ritual:华盛顿仪式
 washington road:华盛顿路
+washington roads:华盛顿路
 washington room:华盛顿房间
 washington rules:华盛顿规则
 washington running back:华盛顿跑卫
@@ -26771,7 +26949,9 @@ washington secretary of state:华盛顿国务卿
 washington security:华盛顿安全
 washington sell:华盛顿出售
 washington semester:华盛顿学期
+washington seminary:華盛頓神學院
 washington senate:华盛顿参议院
+washington senate:华盛顿州参议院
 washington senators:華盛頓參議員
 washington series:华盛顿系列
 washington services:华盛顿服务
@@ -26879,6 +27059,7 @@ washington state wine:华盛顿州葡萄酒
 washington state:华盛顿国家
 washington state:华盛顿州
 washington state:华盛顿状态
+washington state:華盛頓州
 washington station:华盛顿站
 washington statue:华盛顿雕像
 washington still:华盛顿仍然
@@ -26940,7 +27121,9 @@ washington too:华盛顿也
 washington tournament:华盛顿锦标赛
 washington towards:华盛顿向
 washington towards:华盛顿对
+washington township:华盛顿鎮區
 washington township:华盛顿镇区
+washington township:華盛頓鎮區
 washington toyota:华盛顿丰田
 washington trade:华盛顿贸易
 washington traffic:华盛顿交通
@@ -26953,6 +27136,7 @@ washington trump:华盛顿特朗普
 washington trust:华盛顿信任
 washington trust:华盛顿信托
 washington trying:华盛顿试图
+washington tv:华盛顿电视
 washington twist:华盛顿扭曲
 washington underground:华盛顿地下
 washington union station:華盛頓聯合車站
@@ -26986,11 +27170,16 @@ washington university team:华盛顿大学团队
 washington university television:华盛顿大学电视
 washington university would:华盛顿大学将
 washington university:华盛顿大学
+washington university:华盛顿州大学
+washington university:華盛頓大學
 washington usa:华盛顿美国
 washington uses:华盛顿使用
 washington using:华盛顿使用
+washington valley:華盛頓瓦利
+washington vera:華盛頓維爾
 washington veteran:华盛顿老兵
 washington village:华盛顿村
+washington village:華盛頓村
 washington violate:华盛顿违反
 washington vote:华盛顿投票
 washington want:华盛顿想要
@@ -27083,6 +27272,7 @@ washoku sato:和食さと
 washoku sato:和食さと washoku sato
 washouse (sic):洗多屋
 washtenaw community college:沃什特瑙社區學院
+washtenaw county:沃什特瑙县
 washtenaw:沃什特瑙
 washu:瓦梳
 washuawagu:瓦刷瓦古
@@ -27141,6 +27331,7 @@ wasp nest:黄蜂巢
 wasp network:黄蜂网络
 wasp point:沃斯普角
 wasp population:黄蜂种群
+wasp series:黄蜂系列
 wasp species:黄蜂物种
 wasp spine velvetfish:印度單棘鮋
 wasp toxin:黄蜂毒素
@@ -27157,6 +27348,7 @@ wassamu-chō:和寒町
 wassamu:和寒町
 wasseiges:瓦塞日
 wasselonne:瓦斯洛讷
+wassenaar agreement:瓦瑟纳尔协议
 wassenaar arrangement:瓦聖納協定
 wassenaar:瓦瑟纳尔
 wassenach:瓦瑟纳赫
@@ -27672,6 +27864,7 @@ watamu marine national park:瓦塔穆海洋國家公園
 watamu:瓦塔穆
 watan party of afghanistan:阿富汗祖国党
 watanabe entertainment:渡边娱乐
+watanabe entertainment:渡邊娛樂
 watanabe kazan:渡边华山
 watanabe moritsuna:渡边守纲
 watanabe no tsuna:渡边纲
@@ -28750,6 +28943,7 @@ water again:水又
 water agreement:水协议
 water agreements:水协议
 water air force:水空军
+water airport:水机场
 water allergy:水过敏
 water alliance:水联盟
 water allotment:水分配
@@ -29411,6 +29605,7 @@ water as well as drying techniques:水以及干燥技术
 water as well as:水以及
 water as well:水也
 water as:水当作
+water ash:水灰
 water assessment tool:水评估工具
 water assessment:水评估
 water asset:水资产
@@ -29440,7 +29635,9 @@ water back:水回
 water back:水背
 water bacteria:水细菌
 water bag:水袋
+water balance:水平衡
 water ball:水上步行球
+water ball:水球
 water balloon slingshot:水气球弹弓
 water balloon:水气球
 water bank:水银行
@@ -29461,6 +29658,7 @@ water beat:水打
 water became:水成为
 water because they:水因为他们
 water become:水成为
+water bed:水床
 water beetle species:水甲虫物种
 water beetle:水甲虫
 water before:水之前
@@ -29470,10 +29668,14 @@ water better:水更好
 water beverage:水饮料
 water biochemistry:水生物化学
 water bird:水鳥
+water bird:水鸟
+water birds:水鸟
+water birds:水鸟类
 water birth:水中分娩
 water blog:水博客
 water blow:水吹
 water blue:水蓝色
+water blue:水藍色
 water blue:苯胺藍
 water blueprint:水蓝图
 water board:水利委員會
@@ -29488,6 +29690,7 @@ water boiling:水沸腾
 water bomb:水炸弹
 water bonfire:水篝火
 water bottle:水壶
+water bottle:水瓶
 water bottom:水底
 water bowl:水碗
 water box:水盒
@@ -29588,12 +29791,14 @@ water chemistry analysis:水化学分析
 water chemistry and membrane:水化学和膜
 water chemistry:水化学
 water chemistry:水化學
+water chenla:水真腊
 water cherenkov detector array #1:水切伦科夫探测器阵列（一号装置）
 water cherenkov detector array #2:水切伦科夫探测器阵列（二号装置）
 water cherenkov detector array #3:水切伦科夫探测器阵列（三号装置）
 water chestnut cake:馬蹄糕
 water chevrotain:水鼷鹿
 water chicken:水鸡
+water child:水孩子
 water children:水儿童
 water children:水孩子
 water china:水中国
@@ -29618,6 +29823,7 @@ water clouds:水云
 water club:水俱乐部
 water cluster:水分子簇
 water coal:水煤
+water cobra:水眼鏡蛇
 water code:水代码
 water coffee:水咖啡
 water coffee:黑水號咖啡廳
@@ -29627,6 +29833,7 @@ water college:水学院
 water color:水颜色
 water colour:水颜色
 water column:水分层
+water column:水柱
 water combat:水战斗
 water combat:水戰鬥
 water combustion:水燃烧
@@ -30066,6 +30273,7 @@ water governance:水治理
 water grass:水草
 water group:水组
 water growth:水增长
+water gun:水枪
 water gun:水槍
 water habit:水习惯
 water habitat:水栖息地
@@ -30110,8 +30318,10 @@ water heaven:水天堂
 water height:水高度
 water help:水帮助
 water hemisphere:水半球
+water hemlock:水毒堇
 water hero:水英雄
 water high:水高
+water hill:水丘
 water his horse:水他的马
 water history:水历史
 water hole:水洞
@@ -30283,8 +30493,10 @@ water just:水只
 water justice:水正义
 water kayak:水皮艇
 water keep:水保持
+water kefir:水克非尔
 water kill:水杀
 water kingdom:水王国
+water kingdom:水界
 water kingfisher:鱼狗亚科
 water knot:水結
 water know answer:水知道答案
@@ -30403,6 +30615,7 @@ water medal:水獎章
 water melon:水瓜
 water melt:水融化
 water memory:水的记忆
+water memory:水记忆
 water metabolism:水代谢
 water metering market:水表市场
 water metering:水表
@@ -30410,6 +30623,7 @@ water method:水方法
 water microbe:水微生物
 water microbiology:水微生物学
 water military:水军事
+water mill:水磨坊
 water mirror plaza:镜水面广场
 water mirror:水鏡
 water mission:水任务
@@ -30421,6 +30635,7 @@ water modeling:水建模
 water models:水模型
 water modernization:水现代化
 water modules:水模块
+water mold:水黴菌
 water molecule:水分子
 water molecules and carbon dioxide:水分子和二氧化碳
 water molecules or silicon:水分子或硅
@@ -30428,11 +30643,13 @@ water molecules:水分子
 water monitor:水监视器
 water monitoring programs:水監測程序
 water monitoring:水監測
+water monkey:水猴
 water monkey:水猴子
 water month:水月
 water more than:水超过
 water more:水更多
 water motion:水运动
+water mouse:水老鼠
 water mouse:水耗子
 water mouth:水嘴
 water murder:水谋杀
@@ -30635,6 +30852,7 @@ water park usually:水上乐园通常
 water park would:水上乐园将
 water park:水上乐园
 water park:水上遊樂園
+water park:水公园
 water park:水公園
 water park:親水公園
 water part:水部分
@@ -30675,12 +30893,14 @@ water plus clouds:水加云
 water plus:水加
 water point:水点
 water points:水点
+water poisoning:水中毒
 water police:水上警察
 water policies:水政策
 water policy and management:水政策与管理
 water policy and management:水政策和管理
 water policy:水政策
 water politics:水政治
+water pollutant:水污染物
 water pollution always:水污染一直
 water pollution and antibiotic:水污染和抗生素
 water pollution and climate change:水污染和气候变化
@@ -30834,6 +31054,7 @@ water pump:水泵
 water pumping station:水泵站
 water puppet:水傀儡
 water puppet:水木偶
+water puppetry:水傀儡戲
 water puppetry:越南水上木偶戏
 water purification costs:水淨化成本
 water purification function:水淨化功能
@@ -31345,6 +31566,7 @@ water solubility:水溶解度
 water solvent:水溶剂
 water some:水一些
 water sometimes:水有时
+water song:水宋
 water song:水歌
 water soon:水很快
 water soup:水汤
@@ -31375,6 +31597,7 @@ water species:水物种
 water species:水种
 water spectrum:水光谱
 water speed record:水上速度記錄
+water sphere:水球
 water spider:水蜘蛛
 water spinach:水菠菜
 water spirit shrine:水神庙
@@ -31388,6 +31611,7 @@ water sport:水运动
 water sports and recreation precinct:水上運動及康樂主題區
 water sports center:水上活動中心
 water sports centre:水上活動中心
+water spring:水春
 water stage:水上戏台
 water stage:水上戲台
 water stage:水阶段
@@ -31711,6 +31935,7 @@ water tower tower:水塔塔
 water tower under:水塔下
 water tower:水塔
 water tower:自來水塔
+water towers:水塔
 water toxicity:水毒性
 water toy:水玩具
 water trade strengthen:水贸易加强
@@ -31919,6 +32144,7 @@ water vapor work:水蒸气工作
 water vapor would:水蒸气将
 water vapor:水汽
 water vapor:水蒸气
+water vapor:水蒸氣
 water vapour erupt:水汽爆发
 water vapour image:水汽图像
 water vapour pressure:水汽压力
@@ -31937,8 +32163,10 @@ water vinegar:水醋
 water violate:水违反
 water violence:水暴力
 water volcano:水火山
+water volume:水卷
 water wall:水墙
 water war:水战争
+water warfare:水战争
 water warrior:水戰士
 water was another weapon:水是另一个武器
 water was beer:水是啤酒
@@ -32004,6 +32232,7 @@ water works:汙水處理廠
 water world and innovation:水世界和创新
 water world:水上樂園
 water world:水世界
+water worship:水崇拜
 water would:水将
 water write paper:水写纸
 water write:水写
@@ -32185,6 +32414,7 @@ watercolour ballet:水彩芭蕾舞
 watercolour concepts:水彩概念
 watercolour landscape:水彩风景
 watercolour painter:水彩画家
+watercolour painter:水彩畫家
 watercolour paper:水彩纸
 watercolour pen:水彩笔
 watercolour pencil:水彩铅笔
@@ -32286,6 +32516,7 @@ waterfall series:瀑布系列
 waterfall sing:瀑布唱
 waterfall so:瀑布如此
 waterfall state:瀑布状态
+waterfall station:瀑布站
 waterfall structure:瀑布结构
 waterfall system:瀑布系统
 waterfall trail:瀑布小徑
@@ -32295,6 +32526,7 @@ waterfall under:瀑布下
 waterfall valley:瀑布山谷
 waterfall view:瀑布视图
 waterfall was my:瀑布是我的
+waterfall way:瀑布路
 waterfall will:瀑布会
 waterfall work:瀑布工作
 waterfall world:瀑布世界
@@ -32302,11 +32534,17 @@ waterfall:听泉轩
 waterfall:瀑布
 waterfalls watching bridge:觀瀑橋
 waterfalls:瀑布大區 (布基納法索)
+waterford airport:沃特福德机场
+waterford airport:沃特福德機場
+waterford crystal:沃特福德水晶
 waterford konderria:沃特福德郡
 waterford kontluğu:沃特福德郡
 waterford kūn:沃特福德郡
+waterford lake:沃特福德湖
 waterford megye:沃特福德郡
+waterford township:沃特福德鎮區
 waterford township:沃特福德镇区
+waterford village:沃特福德村
 waterford, ierland:沃特福德
 waterford:沃特福德
 waterford:沃特福德郡
@@ -32316,6 +32554,7 @@ waterfordin kreivikunta:沃特福德郡
 waterfront avenue:迎海路
 waterfront boardwalk:亲水木栈道
 waterfront boutique hotel:丽江河边客栈
+waterfront center:海濱中心
 waterfront duet (bloco i):東方海岸第一座
 waterfront duet (bloco ii):东方海岸第二座
 waterfront duet (bloco ii):東方海岸第二座
@@ -32329,6 +32568,7 @@ waterfront flank road:娘姆江曲滨水栈道
 waterfront flank road:娘姆江曲濱水棧道
 waterfront gifts:海濱禮品廊
 waterfront new world:水岸新天地
+waterfront park:海濱公園
 waterfront park:滨水公园
 waterfront park:濱水公園
 waterfront plaza:海濱樂園廣場
@@ -32338,6 +32578,7 @@ waterfront red car:水岸红车
 waterfront residence:水岸公館
 waterfront residence:水岸公馆
 waterfront road:海傍道
+waterfront road:海濱路
 waterfront seafood restaurant bar & grill:海港海鲜楼
 waterfront seafood restaurant bar & grill:港港海鮮樓
 waterfront shopping street:滨水商业街
@@ -32378,15 +32619,19 @@ waterloo battle:滑铁卢战役
 waterloo battlefield:滑铁卢战场
 waterloo bay massacre:滑鐵盧灣大屠殺
 waterloo bridge road:滑铁卢桥路
+waterloo bridge:滑鐵盧橋
 waterloo bridge:滑铁卢桥
 waterloo campaign:滑铁卢战役
 waterloo catholic:滑铁卢天主教
+waterloo church:滑鐵盧教堂
 waterloo church:滑铁卢教堂
+waterloo college:滑鐵盧學院
 waterloo community:滑铁卢社区
 waterloo construction:滑铁卢建筑
 waterloo day:滑鐵盧日
 waterloo east and london bridge:滑铁卢东和伦敦桥
 waterloo east railway station:滑鐵盧東站
+waterloo east:滑鐵盧東
 waterloo east:滑铁卢东
 waterloo engineering:滑铁卢工程学
 waterloo foundation:滑铁卢基金
@@ -32425,21 +32670,28 @@ waterloo regions:滑铁卢地区
 waterloo researchers:滑铁卢研究人员
 waterloo road / canton road rest garden:窩打老道/廣東道休憩花園
 waterloo road and casualty:滑铁卢路和伤亡
+waterloo road:滑鐵盧路
 waterloo road:滑铁卢路
 waterloo road:窩打老道
 waterloo soldier:滑铁卢士兵
+waterloo station:滑鐵盧站
 waterloo station:滑铁卢站
+waterloo street:滑鐵盧街
 waterloo street:滑铁卢街
 waterloo to wellington:滑铁卢到惠灵顿
+waterloo township:滑鐵盧鎮區
 waterloo township:滑铁卢镇区
 waterloo train station:滑铁卢火车站
+waterloo university:滑鐵盧大學
 waterloo university:滑铁卢大学
+waterloo village:滑鐵盧村
 waterloo village:滑铁卢村
 waterloo will:滑铁卢会
 waterloo works:滑铁卢工厂
 waterloo:滑鐵盧
 waterloo:滑铁卢
 waterlow and sons:华德路父子公司
+waterman canyon:水手峡谷
 waterman pen company:威迪文自来水笔
 waterman:水手
 watermark communities:水印社区
@@ -32498,6 +32750,7 @@ watermelon to a whole:西瓜到一整个
 watermelon tree:西瓜树
 watermelon truck:西瓜卡车
 watermelon video:西瓜视频
+watermelon war:西瓜战争
 watermelon water:西瓜水
 watermelon wedge:西瓜楔子
 watermelon wine:西瓜酒
@@ -32604,6 +32857,7 @@ waterton lakes national park:沃特顿湖国家公园
 watertown region:沃特敦地区
 watertown resident andrew:沃特敦居民安德鲁
 watertown resident:沃特敦居民
+watertown township:沃特敦鎮區
 watertown township:沃特敦镇区
 watertown:沃特敦
 watervallen van de iguaçu:伊瓜苏瀑布
@@ -32719,6 +32973,7 @@ watson brand:沃森品牌
 watson can access:沃森可以访问
 watson can help doctors:沃森可以帮助医生
 watson can provide code:沃森可以提供代码
+watson center:屈臣氏中心
 watson center:沃森中心
 watson centre:屈臣氏中心
 watson cole:沃森科尔
@@ -32762,6 +33017,7 @@ watson internet of things technology:沃森物联网技术
 watson internet of things:沃森物联网
 watson is an efficient:沃森是一个高效的
 watson is great:沃森是伟大的
+watson lake:沃森湖
 watson laugh:沃森笑
 watson machine learning:沃森机器学习
 watson machine:沃森机器
@@ -32776,6 +33032,7 @@ watson obviously:沃森显然
 watson offer:沃森提供
 watson once:沃森曾经
 watson oncology:沃森肿瘤学
+watson peak:沃森峰
 watson peaks:沃森峰
 watson peninsula:瓦森半島
 watson platform:沃森平台
@@ -32817,6 +33074,7 @@ watson team:沃森队
 watson technologies:沃森技术
 watson technology:沃森技术
 watson three:沃森三
+watson township:沃森鎮區
 watson township:沃森镇区
 watson tumor:沃森肿瘤
 watson uses:沃森使用
@@ -32872,6 +33130,7 @@ watt is a hero:瓦特是一个英雄
 watt metal halide:瓦特金属卤化物
 watt metal halides:瓦特金属卤化物
 watt metal:瓦特金属
+watt mountain:瓦特山
 watt panel:瓦特面板
 watt per:瓦特每
 watt ratio:瓦特比
@@ -32953,7 +33212,9 @@ watzmann:瓦茨曼山
 watèe indônèsia barat:yìndùníxīyà xībù biāozhǔn shíjiān
 watèe indônèsia barat:印度尼西亚西部标准时间
 watèe indônèsia barat:印度尼西亞西部標準時間
+wau airport:瓦烏機場
 wau river:瓦烏河
+wau state:瓦乌州
 wau state:瓦烏州
 wau-ri:卧牛里
 wau-ri:臥牛里
@@ -33063,6 +33324,7 @@ wave engineer:波工程师
 wave enter:波进入
 wave equation let:波动方程让
 wave equation:波动方程
+wave equation:波方程
 wave equipment:波设备
 wave estimate:波估计
 wave facilities:波设施
@@ -33085,6 +33347,7 @@ wave function is no longer:波函数不再是
 wave function methods:波函数方法
 wave function provides:波函数提供
 wave function:波函数
+wave functions:波函数
 wave gas laser:波气体激光器
 wave generation:波生成
 wave generator:波生成器
@@ -33333,7 +33596,11 @@ wave two:波二
 wave type:波类型
 wave ultraviolet:波紫外线
 wave university:波大学
+wave vector:波向量
 wave vector:波矢
+wave vector:波矢量
+wave vectors:波向量
+wave vectors:波矢量
 wave velocity:波速度
 wave vendor:波供应商
 wave version:波版本
@@ -33540,6 +33807,7 @@ wavelength work:波长工作
 wavelength-division multiplexing:波分复用
 wavelength:波长
 wavelet algorithms:小波算法
+wavelet analysis:小波分析
 wavelet coefficient:小波系数
 wavelet compress:小波压缩
 wavelet domain:小波域
@@ -33547,6 +33815,8 @@ wavelet packet decomposition:小波包分解
 wavelet signal processing:小波信号处理
 wavelet sub:小波子
 wavelet technology:小波技术
+wavelet theory:小波理論
+wavelet theory:小波理论
 wavelet transform image compress:小波变换图像压缩
 wavelet transform image compression:小波变换图像压缩
 wavelet transform:小波变换
@@ -33563,9 +33833,11 @@ waverley bridge:威瓦利桥
 waverley council:韋佛利議會
 waverly families:韦弗利家庭
 waverly glacier:韋弗利冰川
+waverly glacier:韦弗利冰川
 waverly have sports team:韦弗利有运动队
 waverly lowell:韦弗利洛厄尔
 waverly parents:韦弗利家长
+waverly theatre:韦弗利剧院
 waverly township:韦弗利镇区
 waverly:韦弗利
 waves of democracy:第三波民主化
@@ -33662,6 +33934,7 @@ wawuyi:瓦屋驿
 wawuzhai:瓦屋寨
 wawuzhaicun:瓦屋寨村
 wawuzhang:瓦屋张
+wax acid:蜡酸
 wax add:蜡加
 wax advertisement:蜡广告
 wax and cleaning:蜡和清洁
@@ -33709,6 +33982,7 @@ wax model:蜡模型
 wax models:蜡模型
 wax moth:蜡蛾
 wax museum:蜡像博物馆
+wax museum:蜡博物馆
 wax museum:蠟像館
 wax my car:蜡我的车
 wax my:蜡我的
@@ -34128,6 +34402,7 @@ wayaoqian:瓦窯前
 wayaoshan:瓦窑山
 wayaoshang:瓦窑上
 wayaotai:瓦窑台
+wayaotan station:瓦窑滩站
 wayaotan:wǎyáotān cūn
 wayaotan:瓦窑滩
 wayaotan:瓦窑滩村

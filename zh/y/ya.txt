@@ -87,6 +87,7 @@ yabai north road:雅柏北路
 yabai south road:雅柏南路
 yabai:亚白村
 yabai:哑柏镇
+yabakei bridge:耶馬溪橋
 yabakei:耶馬溪
 yabaku:牙巴庫
 yabao community:亚宝社区
@@ -96,6 +97,7 @@ yabao pharmaceutical group co., ltd:亚宝药业集团
 yabao reservoir:雅宝水库
 yabao road:雅宝路
 yabao station:雅宝站
+yabao station:雅寶站
 yabao:雅宝
 yabao:雅寶
 yabaolu:雅宝路
@@ -158,6 +160,7 @@ yabukami station:藪神站
 yabuki station:矢吹車站
 yabuki:矢吹町
 yabuli ski resort:亚布力滑雪旅游度假区
+yabuli west:亚布力西
 yabuli:亚布力
 yabuli:亚布力镇
 yabulinan:亚布力南
@@ -184,6 +187,8 @@ yacheng town:牙城镇
 yacheng:崖城镇
 yacheng:牙城镇
 yachengtun:雅城屯
+yachi river:鴨池河
+yachi river:鸭池河
 yachi road:雅池路
 yachi shuiku:鸭池水库
 yachi:鴨池
@@ -322,6 +327,7 @@ yadong company:亞東公司
 yadong county:yàdōng xiàn
 yadong county:亚东县
 yadong county:亞東縣
+yadong liu:亚东柳
 yadong street:亚东街
 yadong street:衙東街
 yadong-dong:冶洞洞
@@ -371,6 +377,7 @@ yaesu:八重洲
 yaeum-dong:也音洞
 yaeyama adaları:八重山郡
 yaeyama district:八重山郡
+yaeyama islands:八重山群岛
 yaeyama islands:八重山群島
 yaeyama language:八重山語
 yaeyama police station yonaguni substation:八重山警察署与那国驻在所
@@ -438,6 +445,7 @@ yagen:牙根
 yagencun:雅根村
 yageng monastery:牙庚寺
 yagenli:崖跟里
+yageo corporation:國巨公司
 yageo:國巨
 yageying:鸭鸽营
 yageying:鸭鸽营乡
@@ -493,6 +501,7 @@ yagou village:雅溝里
 yagou:亚沟
 yagou:亚沟街道
 yagou:牙沟
+yagoua airport:亞瓜機場
 yagoua:亞瓜
 yagoushui:牙沟水
 yagra dagze:yǎlādázé fēng
@@ -655,6 +664,8 @@ yahoo as well as:雅虎以及
 yahoo assets:雅虎资产
 yahoo assistant:雅虎助手
 yahoo at the time:雅虎当时
+yahoo australia:雅虎澳大利亚
+yahoo australia:雅虎澳洲
 yahoo auto:雅虎汽车
 yahoo be:雅虎成为
 yahoo beauty:雅虎美
@@ -670,6 +681,7 @@ yahoo ceo:雅虎首席执行官
 yahoo chief executive officer:雅虎首席执行官
 yahoo china give up:雅虎中国放弃
 yahoo china:雅虎中国
+yahoo china:雅虎中國
 yahoo close:雅虎关闭
 yahoo complete:雅虎完成
 yahoo content:雅虎内容
@@ -1061,10 +1073,13 @@ yakgok-ri:药谷里
 yakgok-ri:藥谷里
 yakgwa:药菓
 yakhi nuur:亚黑湖
+yakhroma river:亞赫羅馬河
 yakhroma:亞赫羅馬
 yakhyeon catholic church:药岘圣堂
 yaki udon:炒烏冬
 yaki yen:殷亞吉
+yakima airport:雅基馬機場
+yakima river:雅基馬河
 yakima sundome:雅基马太阳穹顶球馆
 yakima sunkings:雅克玛太阳王
 yakima:雅基馬
@@ -1140,6 +1155,8 @@ yaksha:夜叉
 yakshini:药叉女
 yaksik:藥食
 yaksu ri rock paintings tomb:藥水里壁畫古墓
+yaksu station:药水站
+yaksu station:藥水站
 yaksu-dong:药水洞
 yaksu-dong:藥水洞
 yaksu-ri:药水里
@@ -1213,6 +1230,7 @@ yakuts and visitors:雅库特人和游客
 yakuts:雅库特人
 yakutsk airport insist:雅库茨克机场坚持
 yakutsk airport:雅库茨克机场
+yakutsk airport:雅庫茨克機場
 yakutsk city council:雅库茨克市议会
 yakutsk is a big:雅库茨克是一个大
 yakutsk local government:雅库茨克地方政府
@@ -1260,6 +1278,7 @@ yala nongchang xinxingdui:牙拉农场新兴队
 yala province:也拉府
 yala province:惹拉府
 yala provints:惹拉府
+yala river:亚拉河
 yala-fylket:惹拉府
 yala:亚拉
 yala:惹拉市
@@ -1438,6 +1457,7 @@ yalibashan:yalǐbāshān
 yalibashan:ㄧㄚ˙ㄌㄧˇㄅㄚㄕㄢ
 yalibashan:呀里叭山
 yalimo regency:雅利摩县
+yalin railway:牙林铁路
 yalin road:雅林路
 yalin street:雅林街
 yalin:牙林
@@ -1466,6 +1486,7 @@ yalong reservoir:雅砻水库
 yalong river:yǎlóng jiāng
 yalong river:雅砻江
 yalong river:雅礱江
+yalong river:雅隆河
 yalong:亚弄
 yalong:亚隆
 yalong:亚龙
@@ -1486,6 +1507,7 @@ yalour islands:亞勒群島
 yalour sound:亞勒灣
 yalova merkez:亞洛瓦
 yalova province:亚洛瓦省
+yalova province:亞洛瓦省
 yalova:亚洛瓦省
 yalova:亞洛瓦
 yalovarnika:亞洛瓦爾尼卡山
@@ -1493,6 +1515,7 @@ yalquntagh:huǒyànshān zhèn
 yalquntagh:火焰山鎮
 yalquntagh:火焰山镇
 yalta agreement:雅尔塔协议
+yalta agreements:雅尔塔协议
 yalta and potsdam:雅尔塔与波茨坦
 yalta annual meeting:雅尔塔年会
 yalta arrangement:雅尔塔安排
@@ -1613,6 +1636,7 @@ yamabe-gun:山邊郡
 yamabiko:山彥號列車
 yamabuki station:山吹站
 yamabukisha:山吹舍
+yamabushi kunihiro:山伏國廣
 yamabushi:山伏
 yamaceratops:閻王角龍屬
 yamada akiyoshi:山田顯義
@@ -1630,6 +1654,7 @@ yamada denki:山田电器
 yamada denki:山田电机
 yamada denki:山田電機
 yamada kamiguchi station:山田上口站
+yamada line:山田线
 yamada nagamasa:山田长政
 yamada nishiki:山田錦
 yamada nishimachi station:山田西町站
@@ -1655,17 +1680,21 @@ yamaga-guchi:山家口
 yamaga-iriguchi:山家入口
 yamaga-shi:山鹿市
 yamaga:山鹿市
+yamagata airport:山形机场
 yamagata airport:山形機場
 yamagata aritomo:山縣有朋
 yamagata at large district:山形縣選舉區
+yamagata bank:山形银行
 yamagata broadcasting company:山形放送
 yamagata castle:山形城
 yamagata county:山县郡
 yamagata county:山縣郡
+yamagata dialect:山形方言
 yamagata domain:山形藩
 yamagata expressway:山形自動車道
 yamagata film festival:山形电影节
 yamagata international documentary film festival:山形國際紀錄片影展
+yamagata line:山形线
 yamagata masakage:山縣昌景
 yamagata museum of art:山形美術館
 yamagata national university:山形国立大学
@@ -1677,9 +1706,11 @@ yamagata researchers think:山形研究人员认为
 yamagata researchers:山形研究人员
 yamagata ridge:山形嶺
 yamagata shinkansen:山形新幹線
+yamagata station:山形站
 yamagata station:山形車站
 yamagata television system:山形電視台
 yamagata university kojirakawa campus:山形大学
+yamagata university:山形大学
 yamagata university:山形大學
 yamagata-gun:山县郡
 yamagata-gun:山縣郡
@@ -1703,15 +1734,22 @@ yamagishi station:山岸站
 yamagoeike:山越池
 yamaguchi asahi broadcasting:山口朝日放送
 yamaguchi at large district:山口縣選舉區
+yamaguchi bank:山口銀行
+yamaguchi bank:山口银行
 yamaguchi broadcasting:山口放送
 yamaguchi college of arts:山口艺术短期大学
+yamaguchi dam:山口水坝
+yamaguchi dam:山口水库
 yamaguchi danchi station:山口團地站
+yamaguchi danchi:山口團地
 yamaguchi esterification:山口反应
+yamaguchi esterification:山口酯化反应
 yamaguchi factory:山口工厂
 yamaguchi group:山口组
 yamaguchi gumi:山口組
 yamaguchi junior college:山口短期大学
 yamaguchi line:山口線
+yamaguchi line:山口线
 yamaguchi motomi:山口素臣
 yamaguchi opening rule:山口规则
 yamaguchi prefectural university:山口縣立大學
@@ -1733,6 +1771,7 @@ yamaguchi:山口县
 yamaguchi:山口市
 yamaguchi:山口縣
 yamaguma station:山隈站
+yamaha corporation:山葉機車公司
 yamaha hsinchu:台灣山葉機車新竹廠
 yamaha motor company:山葉發動機
 yamaha motor:台灣山葉機車
@@ -1827,6 +1866,7 @@ yamanashi prefecture:山梨县
 yamanashi prefecture:山梨縣
 yamanashi region:山梨地区
 yamanashi university:山梨大学
+yamanashi university:山梨大學
 yamanashi women's junior college:山梨县立女子短期大学
 yamanashi-ken:山梨县
 yamanashi-ken:山梨縣
@@ -1902,6 +1942,7 @@ yamashina (kyoto subway):山科
 yamashina (metro de kioto):山科
 yamashina mido:山科本願寺
 yamashina no miya:山階宮
+yamashina station:山科站
 yamashina station:山科車站
 yamashina:山科
 yamashio maru class escort carrier:山汐丸護航航空母艦
@@ -1917,7 +1958,9 @@ yamashita's gold:山下寶藏
 yamashla:亚玛希拉村
 yamata no orochi:八岐大蛇
 yamatai:邪马台国
+yamate station:山手站
 yamate station:山手車站
+yamate tunnel:山手隧道
 yamate-guchi:山手口
 yamate:山手
 yamatebashi:山手桥
@@ -1935,27 +1978,36 @@ yamato empire:大和帝国
 yamato fujita:藤田倭
 yamato futami station:大和二見站
 yamato glacier:大和冰川
+yamato go:大和乡
+yamato go:大和鄉
 yamato hotel:大和旅馆
 yamato kamiichi station:大和上市站
 yamato kingship:大和王权
 yamato kinjo:金城大和
 yamato koizumi station:大和小泉站
+yamato life:大和生命
 yamato maeda:前田大和
 yamato monogatari:大和物語
+yamato monogatari:大和物语
 yamato mountain:大和山
 yamato museum/youme town:大和博物館・youme town
 yamato museum/youme town:大和博物馆・youme town
 yamato museum:吳市海事歷史科學館
+yamato museum:大和博物馆
 yamato nadeshiko:大和撫子
 yamato okunitama:倭大國魂神
+yamato park:大和公园
 yamato people:大和民族
 yamato period:大和時代
+yamato plateau:大和高原
 yamato province:大和國
 yamato regime:大和政权
 yamato river:大和川
 yamato river:大和河
+yamato road:大和路
 yamato saidaiji station:大和西大寺站
 yamato sanzan:大和三山
+yamato spirit:大和精神
 yamato station:大和站
 yamato station:山都站
 yamato takada station:大和高田站
@@ -1966,6 +2018,8 @@ yamato transport:大和运输
 yamato transport:雅瑪多運輸
 yamato transporto:ヤマト運輸
 yamato un'yu:ヤマト運輸
+yamato university:大和大学
+yamato village:大和村
 yamato wakatsuki:若月大和
 yamato yagi station:大和八木站
 yamato yamamoto:山本大和
@@ -1979,6 +2033,7 @@ yamato:大和市
 yamato:大和村
 yamato:大和站
 yamato:山都町
+yamatogawa station:大和川站
 yamatogawa:大和川
 yamatogoto:和琴
 yamatohime no mikoto:倭姬命
@@ -2112,6 +2167,7 @@ yamok station:野牧站
 yamosukro:亞穆蘇克羅
 yamoto station:矢本站
 yamousoukro:亞穆蘇克羅
+yamoussoukro airport:亞穆蘇克羅機場
 yamoussoukro decision:亚穆苏克罗决定
 yamoussoukro department:亞穆蘇克羅省
 yamoussoukro international airport:雅穆索戈國際機場
@@ -2647,6 +2703,7 @@ yanaizu-machi:柳津町
 yanaizu:柳津町
 yanajaja:亞納哈哈山
 yanajasa:亞納哈薩山
+yanaka cemetery:谷中墓地
 yanaka cemetery:谷中靈園
 yanaka:谷中
 yanam district:亚南县
@@ -2679,6 +2736,7 @@ yanapaccha:亞納帕查山
 yanaquihua district:亞納基瓦區
 yanarraju lake:亞納拉胡湖
 yanas district:亞納斯區
+yanase station:柳瀨站
 yanase station:梁瀨車站
 yanase takashi memorial hall:香美市立柳瀨嵩紀念館
 yanase-chuo:柳濑中央
@@ -2782,6 +2840,7 @@ yanbian korean autonomous prefecture:延边朝鲜族自治州
 yanbian library:延边朝鲜族自治州图书馆
 yanbian meteorological bureau:延边州气象局
 yanbian museum:延边博物馆
+yanbian museum:延边朝鲜族自治州博物馆
 yanbian people's publishing house:延边人民出版社
 yanbian prefecture bureau of agriculture and rural affairs:延边州农业农村局
 yanbian prefecture people's government:延边州人民政府
@@ -2817,6 +2876,7 @@ yanbodu:岩泊渡镇
 yanboluo:岩波罗
 yanboluo:阎哱啰
 yanboya:岩伯亚
+yanbu airport:延布機場
 yanbu avenue:盐步大道
 yanbu dadao bei:盐步大道北站
 yanbu hospital:盐步医院站
@@ -2925,6 +2985,8 @@ yancheng city:鹽城
 yancheng city:鹽城市
 yancheng civic square:盐埕市民广场
 yancheng civic square:鹽埕市民廣場
+yancheng county:晏城县
+yancheng county:盐城县
 yancheng crossing anle palace:盐埕过港安乐宫
 yancheng crossing anle palace:鹽埕過港安樂宮
 yancheng dafeng:盐城大丰
@@ -2946,7 +3008,11 @@ yancheng multistorey car park:盐埕立体停车场
 yancheng multistorey car park:鹽埕立體停車場
 yancheng nanyang international airport:盐城南洋国际机场
 yancheng north road:鹽埕北路
+yancheng north:盐城北
+yancheng north:鹽城北
 yancheng police station:鹽埕分局
+yancheng prison:燕城监狱
+yancheng prison:燕城監獄
 yancheng public market:鹽埕公有市場
 yancheng road:宴城路
 yancheng road:鹽埕路
@@ -2980,6 +3046,7 @@ yanchengfu:阎呈府
 yanchenggangcun:阎呈岗村
 yanchenglong:闫成隆
 yanchengpu metro station:鹽埕埔站
+yanchengpu station:鹽埕埔站
 yanchengpu:yán chéng pǔ
 yanchengpu:盐埕埔
 yanchengpu:鹽埕埔
@@ -3042,6 +3109,9 @@ yancing street:延慶街
 yancoal:兗煤澳大利亞
 yancun east:阎村东
 yancun rd:盐村路
+yancun station:岩村站
+yancun station:闫村站
+yancun station:阎村站
 yancun subdistrict:验军街道
 yancun:严村
 yancun:岩村
@@ -3964,6 +4034,7 @@ yangang river:yāngǎng shuǐ
 yangang river:烟港水
 yangang river:煙港水
 yangang road:沿岗路
+yangang station:燕岗站
 yangang street:燕岗街
 yangang xi:鹽港溪
 yangang:岩岗
@@ -4213,6 +4284,7 @@ yangcheonapateu:阳川公寓
 yangcheonsemuseo:阳川税务局前三岔路口
 yangchepaocun:杨车炮村
 yangchicun:杨池村
+yangchon station:陽村站
 yangchon-myeon:阳村面
 yangchon-myeon:陽村面
 yangchon:阳村邑
@@ -4249,6 +4321,7 @@ yangchuan:阳川
 yangchuan:阳川镇
 yangchuangou:杨川沟
 yangchuanosaurus:永川龍屬
+yangchun county:阳春县
 yangchun gate park:阳春门公园
 yangchun gate scenic pier:阳春门公园游艇码头
 yangchun pai yao language:阳春排瑶语
@@ -4409,13 +4482,16 @@ yangdo-myeon:良道面
 yangdo:洋岛
 yangdo:洋島
 yangdo:良道面
+yangdok county:阳德县
 yangdok county:阳德郡
 yangdok county:陽德郡
 yangdok station:阳德站
+yangdok station:陽德站
 yangdok-up:阳德邑
 yangdok-up:陽德邑
 yangdok:阳德
 yangdok:陽德
+yangdong county:阳东县
 yangdong district:yángdōng qū
 yangdong district:阳东区
 yangdong district:陽東
@@ -4424,6 +4500,10 @@ yangdong folk village:良洞村
 yangdong folk village:良洞民俗村
 yangdong market station:良洞市场站
 yangdong market:良洞市场
+yangdong station:养洞站
+yangdong station:阳东站
+yangdong station:陽東站
+yangdong station:養洞站
 yangdong xian:yángdōng qū
 yangdong xian:阳东区
 yangdong xian:陽東
@@ -4569,8 +4649,10 @@ yanggak island:羊角岛
 yanggak island:羊角島
 yanggak:羊角岛
 yanggak:羊角島
+yanggakdo hotel:羊角島酒店
 yanggakdo international hotel:羊角島國際飯店
 yanggakdo stadium:羊角島競技場
+yanggakdo stadium:羊角島體育場
 yanggakdo:羊角島
 yanggala:杨旮旯
 yanggam-myeon:杨甘面
@@ -4648,6 +4730,8 @@ yanggezhuang:杨各庄镇
 yanggezhuangcun:杨各庄村
 yangginu:杨吉砮
 yanggo:杨各乡
+yanggok station:阳谷站
+yanggok station:陽谷站
 yanggok-ri:阳谷里
 yanggok-ri:陽谷里
 yanggok:阳谷
@@ -4872,6 +4956,8 @@ yanghe primary school:杨荷小学
 yanghe reservoir:yánghé shuǐkù
 yanghe reservoir:杨河水库
 yanghe reservoir:洋河水库
+yanghe stadium:洋河体育场
+yanghe stadium:洋河體育場
 yanghe stadium:重庆洋河体育场
 yanghe subdistrict:báilián jiēdào
 yanghe subdistrict:阳和街道
@@ -4991,6 +5077,8 @@ yanghuximencun:杨户西门村
 yanghuzhuangcun:杨胡庄村
 yanghwa bridge:杨花大桥
 yanghwa bridge:楊花大橋
+yanghwa station:阳化站
+yanghwa station:陽化站
 yanghwa-dong:杨花洞
 yanghwa-dong:楊花洞
 yanghwa-myeon:良花面
@@ -5062,6 +5150,10 @@ yangji cun:杨箕村
 yangji east:杨箕东
 yangji road:陽濟路
 yangji station:杨箕站
+yangji station:杨集站
+yangji station:杨集镇站
+yangji station:阳地站
+yangji station:陽地站
 yangji street:杨箕大街
 yangji township middle school:杨集乡中学
 yangji-dong:yángdì dòng
@@ -5289,12 +5381,14 @@ yangjiang city:jenggong-si
 yangjiang city:阳江市
 yangjiang city:陽江市
 yangjiang community:漾江社区
+yangjiang county:阳江县
 yangjiang lake:yángjiāng hú
 yangjiang lake:洋姜湖
 yangjiang massacre:阳江大屠杀
 yangjiang nuclear power station:阳江核电站
 yangjiang port:阳江港
 yangjiang road:沿江路
+yangjiang station:阳江站
 yangjiang village:yángjiāng lǐ
 yangjiang village:ㄧㄤˊㄐㄧㄤㄌㄧˇ
 yangjiang village:杨江里
@@ -5426,6 +5520,7 @@ yangjiawan police station:杨家湾派出所
 yangjiawan primary school:杨家湾小学
 yangjiawan reservoir:yángjiāwān shuǐkù
 yangjiawan reservoir:杨家湾水库
+yangjiawan station:杨家湾站
 yangjiawan township government:杨家湾乡政府
 yangjiawan:杨家塆
 yangjiawan:杨家湾
@@ -5552,6 +5647,7 @@ yangjo shehiri:扬州市
 yangjo shehiri:揚州
 yangjo shehiri:揚州市
 yangju highway incident:駐韓美軍裝甲車碾死女學生事件
+yangju station:杨州站
 yangju station:楊州站
 yangju-dong community service center:梁州洞行政福祉中心
 yangju-si:杨州市
@@ -5703,6 +5799,7 @@ yangling mausoleum of han:汉阳陵
 yangling railway station:杨陵站
 yangling school:阳岭学校
 yangling south railway station:杨陵南站
+yangling south:杨陵南
 yangling subdistrict:杨陵街道
 yangling subdistrict:楊陵街道
 yangling west:杨凌西
@@ -5933,6 +6030,7 @@ yangmei river:楊梅溪
 yangmei river:楊眉河
 yangmei ruitang post office:楊梅瑞塘郵局
 yangmei station:杨美站
+yangmei station:楊梅站
 yangmei street:杨梅街
 yangmei village:yángméi lǐ
 yangmei village:ㄧㄤˊㄇㄟˊㄌㄧˇ
@@ -6041,6 +6139,8 @@ yangming industrial park:yángmíng gōngyèyuán
 yangming junior high school:阳明国中
 yangming junior high school:陽明國中
 yangming lake:陽明湖
+yangming mountain:阳明山
+yangming mountain:陽明山
 yangming north road:陽明北路
 yangming park 1:阳明公园后门一
 yangming park 1:陽明公園後門一
@@ -6262,6 +6362,7 @@ yangon south:仰光南县
 yangon stock exchange:仰光證券交易所
 yangon technological university:仰光理工大學
 yangon university of education:仰光教育大學
+yangon university:仰光大学
 yangon university:仰光大學
 yangon water supply:仰光供水
 yangon water:仰光水
@@ -6417,6 +6518,8 @@ yangpyeong 2(i)-dong:杨坪2洞
 yangpyeong 2(i)-dong:楊坪2洞
 yangpyeong county:楊平郡
 yangpyeong national livestock cooperative federation:杨平全国畜牧业合作联盟
+yangpyeong station:杨坪站
+yangpyeong station:楊坪站
 yangpyeong-dong 1-ga:杨坪洞1街
 yangpyeong-dong 1-ga:楊坪洞1街
 yangpyeong-dong 2-ga:杨坪洞2街
@@ -6516,6 +6619,7 @@ yangquan no.19 middle school:阳泉十九中
 yangquan no.6 middle school:阳泉六中
 yangquan no.7 middle school:阳泉七中
 yangquan north railway station:阳泉北站
+yangquan north:阳泉北
 yangquan reservoir:洋泉水库
 yangquan ring expressway:阳泉绕城高速
 yangquan theatre bombing:阳泉电影院爆炸案
@@ -6579,8 +6683,10 @@ yangsa-ri:陽寺里
 yangsa-ri:陽射里
 yangsa:两寺面
 yangsa:兩寺面
+yangsan county:梁山县
 yangsan metro:梁山都市鐵道
 yangsan metro:梁山都市铁道
+yangsan station:梁山站
 yangsan-myeon:阳山面
 yangsan-myeon:陽山面
 yangsan-ri:羊山里
@@ -6622,6 +6728,7 @@ yangshahoucun:杨砂候村
 yangshahu:洋沙湖镇
 yangshan avenue:阳山大道
 yangshan county:yángshān xiàn
+yangshan county:羊山县
 yangshan county:阳山县
 yangshan county:陽山
 yangshan county:陽山縣
@@ -7096,11 +7203,13 @@ yangtze and songhua river:长江和松花江
 yangtze and yellow river:长江和黄河
 yangtze basin:長江流域
 yangtze basin:长江流域
+yangtze civilization:長江文明
 yangtze civilization:长江文明
 yangtze delta region:长江三角洲地区
 yangtze delta research center,institute of physics,cas:中科院物理所长三角研究中心
 yangtze delta universities alliance:长三角高校合作联盟
 yangtze delta:长江三角洲
+yangtze estuary:长江河口
 yangtze finless porpoise:窄脊江豚
 yangtze forum:长江论坛
 yangtze giant softshell turtle:斑鳖
@@ -7149,6 +7258,7 @@ yangtze river:长江河
 yangtze service medal:長江服役獎章
 yangtze species:长江物种
 yangtze university:长江大学
+yangtze valley:长江谷地
 yangtze village:长江村
 yangtze:cháng jiāng
 yangtze:長江
@@ -7241,6 +7351,8 @@ yangwocun:杨窝村
 yangwocun:羊窝村
 yangwol-ri:洋月里
 yangwon of goguryeo:阳原王
+yangwon station:两元站
+yangwon station:兩元站
 yangwon station:养源站
 yangwon:两元
 yangwon:兩元
@@ -7338,6 +7450,7 @@ yangxian road:楊賢路
 yangxian service area:洋县服务区
 yangxian villa:养闲别墅
 yangxian village:楊賢村
+yangxian west:洋县西
 yangxian:养贤乡
 yangxian:楊賢
 yangxian:洋县
@@ -7544,6 +7657,7 @@ yangyu:阳隅镇
 yangyu:陽隅鎮
 yangyuan community:杨园社区
 yangyuan county:yángyuán xiàn
+yangyuan county:洋源县
 yangyuan county:阳原县
 yangyuan county:陽原縣
 yangyuan mountain bridge:阳元山桥
@@ -7674,6 +7788,8 @@ yangzhou taizhou international airport:扬州泰州国际机场
 yangzhou township:杨洲乡
 yangzhou university yangzijin campus:揚州大學揚子津校區
 yangzhou university:扬州大学
+yangzhou university:揚州大学
+yangzhou university:揚州大學
 yangzhou xinhua high school:扬州市新华中学
 yangzhou-liyang expressway:揚溧高速
 yangzhou:yángzhōu shì
@@ -7700,6 +7816,7 @@ yangzhuang overpass:杨庄天桥
 yangzhuang road:yángzhuāng lù
 yangzhuang road:杨庄路
 yangzhuang south street:yángzhuāng nán jiē
+yangzhuang station:杨庄站
 yangzhuang town government:杨庄镇政府
 yangzhuang town:杨庄镇
 yangzhuang town:楊莊鎮
@@ -7827,6 +7944,7 @@ yanhe community park:yánhéshèqūgōngyuán
 yanhe community park:ㄧㄢˊㄏㄜˊㄕㄜˋㄑㄩㄍㄨㄥㄩㄢˊ
 yanhe community park:延和社区公园
 yanhe community park:延和社區公園
+yanhe county:沿河县
 yanhe east alley:延和东巷
 yanhe east road:yanhe dong lu
 yanhe east road:沿河东路
@@ -7972,6 +8090,7 @@ yaniv railway station:亚尼夫站
 yanja:顏扎氏
 yanji  passenger transport terminal:延吉客运站
 yanji  passenger transport terminal:延吉客運站
+yanji airport:延吉机场
 yanji bridge:延吉大桥
 yanji bridge:延吉橋
 yanji chaoyangchuan international airport:延吉朝阳川国际机场
@@ -7995,7 +8114,9 @@ yanji park:延吉公園
 yanji people's stadium:延吉人民体育场
 yanji service area:延吉服务区
 yanji st.:延吉街
+yanji stadium:延吉市体育场
 yanji stadium:延吉市全民健身中心体育场
+yanji stadium:延吉體育場
 yanji street:延吉街
 yanji street:烟集街
 yanji tingliaogou bridge:延吉廷寮溝橋
@@ -8430,6 +8551,7 @@ yankee doodle dandy:勝利之歌
 yankee doodle:洋基歌
 yankee even:洋基甚至
 yankee farmer:洋基农民
+yankee girl:洋基女孩
 yankee ground:洋基地面
 yankee harbour:揚基港
 yankee hotel foxtrot:洋基酒店狐步
@@ -8443,9 +8565,11 @@ yankee project start:洋基项目开始
 yankee project:洋基项目
 yankee right fielder:洋基右外野手
 yankee school:洋基学校
+yankee stadium:洋基体育场
 yankee stadium:洋基体育馆
 yankee stadium:洋基體育場
 yankee station:洋基站
+yankee team:洋基队
 yankee three-inch:洋基三英寸
 yankee three:洋基三
 yankee vessel:洋基船
@@ -8478,6 +8602,7 @@ yankin ouaddai:瓦達伊區
 yankin savannah:萨凡纳大区
 yankin tahoua:塔瓦大区
 yankin tillabéri:蒂拉贝里大区
+yankin township:仰景鎮區
 yankin township:仰景镇区
 yankin tsakiya:中部大區
 yankin upper east:上東部大區
@@ -8688,6 +8813,7 @@ yanmar field nagai:洋馬長居田徑場
 yanmar field nagai:洋马长居田径场
 yanmar stadium nagai:洋馬長居體育場
 yanmar stadium nagai:洋马长居体育场
+yanmar stadium:洋馬體育場
 yanmar-stadion nagai:洋馬長居體育場
 yanmar-stadion nagai:洋马长居体育场
 yanmar:洋馬
@@ -9093,11 +9219,13 @@ yanshan road:燕山桥
 yanshan road:燕山路
 yanshan school:燕山学校
 yanshan south road:燕山南道
+yanshan station:燕山站
 yanshan street:燕山大街
 yanshan street:燕山街
 yanshan temple:岩山寺
 yanshan theater:燕山影剧院
 yanshan university:燕山大学
+yanshan university:燕山大學
 yanshan village:岩山里
 yanshan village:延山里
 yanshan xian:yánshān xiàn
@@ -9165,6 +9293,7 @@ yanshanyingzi:燕山营子
 yansheng road:延盛路
 yansheng:演圣镇
 yanshenzhaizhuangcun:阎慎斋庄村
+yanshi county:偃师县
 yanshi district:偃师区
 yanshi district:偃師區
 yanshi railway station:偃师站
@@ -9230,6 +9359,7 @@ yanshueikeng:鹽水坑
 yanshui district:鹽水區
 yanshui food street:盐水观光美食城
 yanshui food street:鹽水觀光美食城
+yanshui river:鹽水河
 yanshui river:鹽水溪
 yanshui village:鹽水里
 yanshui:岩水
@@ -9363,6 +9493,7 @@ yantan:沿滩镇
 yantan:沿灘區
 yantang road:堰塘路
 yantang road:燕塘路
+yantang station:晏塘站
 yantang station:燕塘站
 yantang:yin tong
 yantang:严塘镇
@@ -9458,6 +9589,7 @@ yantian port west metro station:盐田港西地铁站
 yantian port west station:盐田港西站
 yantian port west:盐田港西
 yantian port:盐田港
+yantian port:鹽田港口
 yantian qu:yántián qū
 yantian qu:盐田区
 yantian qu:鹽田區
@@ -9956,6 +10088,7 @@ yanzhou campaign:兖州战役
 yanzhou catholic church:天主教堂
 yanzhou city:兗州區
 yanzhou coal mining company:兖矿能源
+yanzhou county:兖州县
 yanzhou cross-sea bridge:盐洲跨海大桥
 yanzhou ferry port - dongtou highway (ym15):盐东公路（ym15）
 yanzhou ferry port - dongtou highway:盐东公路
@@ -9996,6 +10129,7 @@ yanzhuang dongling:颜庄东岭
 yanzhuang government:颜庄镇政府
 yanzhuang reservoir:yánzhuāng shuǐkù
 yanzhuang reservoir:岩庄水库
+yanzhuang station:颜庄站
 yanzhuang subdistrict:烟庄街道
 yanzhuang xincun:颜庄新村
 yanzhuang:yànzhuāng
@@ -10545,6 +10679,7 @@ yaohai:瑤海區
 yaohai:瑶海区
 yaohaigongyuan:瑤海公園
 yaohaigongyuan:瑶海公园
+yaohan centre:八佰伴中心
 yaohan nova:新八佰伴
 yaohan:八佰伴
 yaohaodetun:腰浩德屯
@@ -10594,6 +10729,7 @@ yaoji:瑶姬
 yaojia river:yáojiā hé
 yaojia river:姚家河
 yaojia road:姚家路
+yaojia station:姚家站
 yaojia wuji:姚家屋基
 yaojia'ancun:姚家庵村
 yaojia'ao:姚家凹
@@ -11287,6 +11423,7 @@ yaozhou district:yàozhōu qū
 yaozhou district:耀州区
 yaozhou district:耀州區
 yaozhou kiln museum:耀州窑博物馆
+yaozhou kiln:耀州窑
 yaozhou ware:耀州窑
 yaozhou:yàozhōu qū
 yaozhou:窑洲社区
@@ -11523,6 +11660,7 @@ yard line some:码线一些
 yard line:码线
 yard long:码长的
 yard mark:码标记
+yard number:码数
 yard plus:码加
 yard rainbow:码彩虹
 yard run:码跑
@@ -11706,12 +11844,14 @@ yaroslavets:亞羅斯拉韋齊
 yaroslavka:雅羅斯拉夫卡
 yaroslavl glavny railway station:雅羅斯拉夫爾火車總站
 yaroslavl governorate:雅羅斯拉夫爾省
+yaroslavl highway:雅羅斯拉夫爾公路
 yaroslavl oblast:雅罗斯拉夫尔州
 yaroslavl oblast:雅羅斯拉夫爾州
 yaroslavl oblastı:雅罗斯拉夫尔州
 yaroslavl oblastı:雅羅斯拉夫爾州
 yaroslavl paint:雅罗斯拉夫尔涂料
 yaroslavl province:雅罗斯拉夫尔省
+yaroslavl province:雅羅斯拉夫爾省
 yaroslavl region:雅罗斯拉夫尔地区
 yaroslavl she:雅罗斯拉夫尔她
 yaroslavl tornado:雅罗斯拉夫尔龙卷风
@@ -11862,6 +12002,7 @@ yashio-kōen (yashio park):八潮公园
 yashio-shi:八潮市
 yashio:八潮市
 yashiro kageyori:屋代景賴
+yashiro station:屋代站
 yashiro station:屋代車站
 yashiro:屋代
 yashiroda station:矢代田站
@@ -12729,6 +12870,7 @@ yawar q'asa:亞瓦爾哈薩山
 yawata jinja-mae (yawata jinja shrine):八和田神社前
 yawata shinden station:八幡新田站
 yawata station entrance:八幡站口
+yawata station:八幡市站
 yawata station:八幡站
 yawata-shi:八幡市
 yawata:八幡市
@@ -12825,6 +12967,7 @@ yaxuyuan:雅叙园
 yaxuyuan:雅敘園
 yaxuzhuangcun:鸭徐庄村
 yaya kindergarten:雅雅幼儿园
+yaya river:亚亚河
 yaya:亚亚
 yaya:牙牙
 yayagou:鸭崖沟
@@ -12929,6 +13072,7 @@ yayun avenue:亚运大道
 yayun road:雅韵路
 yayun south road:亚运南路
 yayuncun subdistrict:亚运村街道
+yayva river:亚伊瓦河
 yayva:亚伊瓦
 yayık:乌拉尔河
 yayık:烏拉河
@@ -12951,10 +13095,12 @@ yazd (provinssi):亚兹德省
 yazd (provinssi):亞茲德省
 yazd (tỉnh):亚兹德省
 yazd (tỉnh):亞茲德省
+yazd airport:亚兹德机场
 yazd and isfahan:亚兹德和伊斯法罕
 yazd and kerman:亚兹德和克尔曼
 yazd became a safe:亚兹德成为一个安全的
 yazd became:亚兹德成为
+yazd county:亚兹德县
 yazd means:亚兹德意味着
 yazd province:亚兹德省
 yazd province:亞茲德省

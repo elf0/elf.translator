@@ -16,6 +16,7 @@ urabe no suetake:卜部季武
 uraca district:烏拉卡區
 uracentron:点尾蜥属
 urachus:脐尿管
+uracil phosphoribosyltransferase:尿嘧啶磷酸核糖基转移酶
 uracil:尿嘧啶
 urad front banner:wūlātè qián qí
 urad front banner:乌拉特前旗
@@ -69,15 +70,18 @@ ural dağları:乌拉尔山脉
 ural economic region:乌拉尔经济区
 ural economic region:乌拉尔经济地区
 ural economic region:烏拉爾經濟區
+ural ekaterinburg:烏拉爾葉卡捷琳堡
 ural electrochemical combine:乌拉尔电化学联合企业
 ural federal district:乌拉尔联邦管区
 ural federal district:烏拉爾聯邦管區
 ural federal university:烏拉爾聯邦大學
 ural field mouse:乌拉尔姬鼠
+ural mountain:烏拉爾山
 ural mountains region:乌拉尔山脉地区
 ural mountains town:乌拉尔山脉城镇
 ural mountains:乌拉尔山脉
 ural ocean:烏拉爾洋
+ural orogeny:烏拉爾造山運動
 ural owl:長尾林鴞
 ural republic:乌拉尔共和国
 ural ridge:烏拉爾山脊
@@ -88,7 +92,9 @@ ural ruf:乌拉尔河
 ural ruf:烏拉河
 ural society of natural science lovers:烏拉爾自然科學愛好者學會
 ural state technical university:乌拉尔国立技术大学
+ural ufa:烏拉爾烏法
 ural works of civil aviation:乌拉尔民用航空厂
+ural yekaterinburg:烏拉爾葉卡捷琳堡
 ural'sk:乌拉尔
 ural'sk:烏拉
 ural'sk:烏拉爾
@@ -150,6 +156,7 @@ uramita:烏拉米塔
 uramoto station:浦本站
 uran islampur:乌兰伊斯拉姆普尔
 urandi:乌兰迪
+urania observatory:乌剌尼亚天文台
 urania's mirror:烏拉尼亞之鏡
 urania-weltzeituhr:世界時鐘
 urania:乌剌尼亚
@@ -198,16 +205,19 @@ uranium cafe:铀咖啡
 uranium centrifuge:鈾離心機
 uranium chemistry:铀化学
 uranium city:铀城
+uranium committee:铀委员会
 uranium companies:鈾公司
 uranium companies:铀公司
 uranium company:铀公司
 uranium compound:铀化合物
+uranium compounds:鈾化合物
 uranium compounds:铀化合物
 uranium concentrate:铀浓缩物
 uranium concentration:铀浓度
 uranium conversion:铀转换
 uranium core:铀核心
 uranium corporation:铀公司
+uranium council:铀委员会
 uranium demand:铀需求
 uranium dioxide:二氧化鈾
 uranium diselenide:二硒化铀
@@ -226,6 +236,7 @@ uranium fuel:鈾燃料
 uranium fuel:铀燃料
 uranium gas:铀气体
 uranium glass:鈾玻璃
+uranium glass:铀玻璃
 uranium gun:铀枪
 uranium has three:铀有三
 uranium hexachloride:六氯化铀
@@ -253,6 +264,7 @@ uranium metal:铀金属
 uranium mix:铀混合
 uranium mixture:铀混合物
 uranium monophosphide:一磷化铀
+uranium nitride:铀氮化物
 uranium nitrides:铀氮化物
 uranium nuclear fission:铀核裂变
 uranium nuclear fuel:鈾核燃料
@@ -380,6 +392,7 @@ uranyl chloride:氯化铀酰
 uranyl fluoride:氟化鈾醯
 uranyl formate:甲酸铀酰
 uranyl hydroxide:氢氧化铀酰
+uranyl ion:铀酰离子
 uranyl metaphosphate:偏磷酸铀酰
 uranyl nitrate:硝酸铀酰
 uranyl oxalate:草酸铀酰
@@ -496,7 +509,9 @@ urban campus:城市的校园
 urban canyon:都市峽谷
 urban catalyst:城市的催化剂
 urban center:城市的中心
+urban center:市區中心
 urban centre:城市的中心
+urban centre:市區中心
 urban century:城市的世纪
 urban challenge:城市的挑战
 urban challenges:城市的挑战
@@ -533,6 +548,7 @@ urban data analysis:城市的数据分析
 urban data:城市的数据
 urban decay:都市衰退
 urban density:城市人口密度
+urban density:市區密度
 urban design affects:城市设计影响
 urban design and development manual:城市设计和开发手册
 urban design and development principles:城市设计和开发原则
@@ -745,6 +761,8 @@ urban pack hostel:休閑小窩
 urban park in the united states:城市公园在美国
 urban park system:城市公园系统
 urban park:城市公园
+urban park:市区公园
+urban park:市區公園
 urban party:城市的党
 urban phenomena:城市的现象
 urban photos:城市的照片
@@ -891,6 +909,7 @@ urban policy:城市的政策
 urban politics and governance:城市的政治和治理
 urban politics:城市的政治
 urban population:城市的人口
+urban population:市区人口
 urban porch:城市前庭
 urban port:城市的港口
 urban poverty:城市的贫困
@@ -913,6 +932,7 @@ urban rail transit in china:中国城市轨道交通系统
 urban rail transit in india:印度城市轨道交通系统
 urban rail transit system:城市軌道交通系統
 urban rail transit:城市軌道交通
+urban railway:市区铁路
 urban reality:城市的现实
 urban redevelopment authority of pittsburgh:匹茲堡市區重建局
 urban redevelopment office, new taipei city government:新北市政府都市更新處
@@ -1228,6 +1248,7 @@ urdoma:乌尔多马
 urdorf:烏多夫
 urdos:于尔多斯
 urdoviza glacier:烏爾多維扎冰川
+urdu alphabet:乌尔都语字母
 urdu alphabet:烏爾都字母
 urdu and arabic:乌尔都语和阿拉伯语
 urdu and bengali:乌尔都语和孟加拉语
@@ -1243,6 +1264,7 @@ urdu blog:乌尔都语博客
 urdu is my:乌尔都语是我的
 urdu is pakistan:乌尔都语是巴基斯坦
 urdu language:乌尔都语语言
+urdu literature:乌尔都语文学
 urdu literature:烏爾都語文學
 urdu music:乌尔都语音乐
 urdu news:乌尔都语新闻
@@ -1396,6 +1418,7 @@ urey instrument:尤里仪
 urey medal:尤里奖章
 ureň:烏連
 urfa man:烏爾法人
+urfa province:尚勒烏爾法省
 urfa:尚勒烏爾法
 urfahr umgebung district:乌尔法尔城郊县
 urfjell cliffs:烏爾弗耶爾崖
@@ -1640,6 +1663,7 @@ urin sudan:南苏丹 / 南蘇丹
 urin sudan:南蘇丹
 urin wat'a:南島
 urinal deodorizer block:小便斗除臭劑
+urinal target:小便斗標靶
 urinal:小便斗
 urinalysis laboratory:尿液分析实验室
 urinalysis testing:尿液分析测试
@@ -1725,6 +1749,7 @@ urine sugar:尿糖
 urine test strip:尿液檢驗試紙
 urine test:尿测试
 urine test:尿液檢查
+urine therapy:尿疗法
 urine therapy:尿療法
 urine toxicology:尿毒理学
 urine:尿
@@ -1761,7 +1786,13 @@ urmary:乌尔马雷
 urmatt:于尔马特
 urmein:烏爾邁因
 urmersbach:乌默斯巴赫
+urmia airport:乌尔米耶机场
+urmia airport:烏爾米耶機場
+urmia county:乌尔米耶县
+urmia lake:乌尔米耶湖
+urmia lake:烏爾米耶湖
 urmia shahid bakeri international airport:烏爾米耶機場
+urmia university:乌尔米耶大学
 urmia:乌尔米耶
 urmia:烏爾米耶
 urmiasee:乌鲁米耶湖
@@ -1940,6 +1971,7 @@ ursa minor dwarf:小熊座矮星系
 ursa minor:小熊座
 ursactis:熊辉虫属
 ursavus:祖熊屬
+ursberg abbey:乌尔斯贝格修道院
 ursberg:乌尔斯贝格
 urschenheim:于尔舍奈姆
 urschmitt:乌尔施米特
@@ -1962,6 +1994,7 @@ ursy:于爾西
 urt moron:wūtúměirén xiāng
 urt moron:乌图美仁乡
 urt obôô:乌日特敖包
+urt station:于尔特站
 urt:乌尔特河
 urt:于尔特
 urtene:烏爾特訥河
@@ -2011,6 +2044,8 @@ urugi:賣木村
 urugoayi:乌拉圭
 urugoayi:乌拉圭 / 烏拉圭
 urugoayi:烏拉圭
+uruguai river:乌拉圭河
+uruguai river:烏拉圭河
 uruguai:乌拉圭
 uruguai:乌拉圭 / 烏拉圭
 uruguai:烏拉圭
@@ -2145,6 +2180,7 @@ uruguay provide:乌拉圭提供
 uruguay quarter:乌拉圭四分之一
 uruguay railway:乌拉圭铁路
 uruguay require:乌拉圭要求
+uruguay river:乌拉圭河
 uruguay river:烏拉圭河
 uruguay round agreement:乌拉圭回合协议
 uruguay round agreements act:乌拉圭回合协议法案
@@ -2160,6 +2196,7 @@ uruguay select:乌拉圭选择
 uruguay show:乌拉圭显示
 uruguay team in south america:乌拉圭队在南美
 uruguay team:乌拉圭队
+uruguay time:乌拉圭时间
 uruguay too:乌拉圭也
 uruguay university:乌拉圭大学
 uruguay uses:乌拉圭使用
@@ -2232,6 +2269,7 @@ urugúáì:烏拉圭
 uruio:奥鲁罗省
 uruio:奧魯羅省
 uruk hai:強獸人
+uruk period:烏魯克时期
 uruk period:烏魯克時期
 uruk sulcus:烏魯克溝
 uruk:烏魯克
@@ -2261,9 +2299,12 @@ urumqi county:乌鲁木齐县
 urumqi county:烏魯木齊縣
 urumqi glacier no.1:乌鲁木齐河源1号冰川
 urumqi library:乌鲁木齐图书馆
+urumqi metro:乌鲁木齐地铁
 urumqi river:wūlǔmùqí hé
 urumqi river:乌鲁木齐河
 urumqi river:烏魯木齊河
+urumqi south:乌鲁木齐南
+urumqi station:乌鲁木齐站
 urumqi vocational skills education and training center:乌鲁木齐职业技能教育培训中心
 urumqi vocational skills education and training center:乌鲁木齐职业技能教育培训中心（二期）
 urumqi vocational skills education and training center:烏魯木齊職業技能教育培訓中心

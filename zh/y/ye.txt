@@ -1,7 +1,9 @@
 ye beihua:葉北華
 ye changyuan:叶昌媛
+ye changyuan:叶长源
 ye chenghai teaching building:叶澄海教学大楼
 ye chenghai teaching building:葉澄海教學大樓
+ye chenghai:叶澄海
 ye chengzhong:叶澄衷
 ye chong:叶冲
 ye chongqiu:叶重秋
@@ -22,6 +24,7 @@ ye fei:叶飞
 ye fong:野峰
 ye gongchuo:叶恭绰
 ye guangfu:叶光富
+ye guoqing:叶国庆
 ye haiyan:叶海燕
 ye hong wei:葉宏蔚
 ye huacheng:葉化成
@@ -31,6 +34,7 @@ ye jia:葉佳
 ye jian-ying statue:叶剑英像
 ye jianchun:叶建春
 ye jiangchuan:叶江川
+ye jianming:叶建明
 ye jianming:叶简明
 ye jianying bronze statue:叶剑英铜像
 ye jianying bronze statue:葉劍英銅像
@@ -42,13 +46,17 @@ ye jianying park:剑英公园
 ye jianying park:劍英公園
 ye jianying:叶剑英
 ye jiao:叶娇
+ye jielong:叶杰龙
 ye jizhuang:叶季壮
 ye ju:叶举
+ye kedong:叶克东
 ye keming:叶可明
 ye li:叶莉
 ye liansong:叶连松
 ye libin:夜礼斌
 ye lin road:叶林路
+ye lin:叶林
+ye longli:叶隆礼
 ye lung hau baptist church:二龍喉浸信會
 ye lwin:叶伊
 ye maek language:濊貊語
@@ -57,6 +65,7 @@ ye mi won:艺味园
 ye mi won:藝味園
 ye mingchen:葉名琛
 ye minghan:叶铭汉
+ye niuping:叶牛平
 ye olde curiosity shop:老古玩商店
 ye peida:叶培大
 ye peijian:叶培建
@@ -70,18 +79,23 @@ ye qisun:叶企孙
 ye qun:叶群
 ye river:yĕ hé
 ye river:冶河
+ye river:叶河
 ye rongguang:叶荣光
+ye ruyi:叶如意
 ye sha:葉沙
 ye shan:叶山
 ye shaoweng:叶绍翁
 ye shengtao:叶圣陶
 ye shengzhang:葉盛章
 ye shi:叶适
+ye shitao:叶石涛
 ye shiwen still insist:叶诗文仍然坚持
 ye shiwen still:叶诗文仍然
 ye shiwen:叶诗文
 ye shuhua:叶叔华
 ye soo jung:芮秀貞
+ye surname:叶姓
+ye tian:叶天
 ye tianshi:葉天士
 ye ting statue:叶挺像
 ye ting:叶挺
@@ -90,12 +104,14 @@ ye u township:耶烏鎮區
 ye weichao:叶伟超
 ye weiqu:葉渭渠
 ye wenfu:叶文福
+ye wenlan:叶文澜
 ye wenling:叶文玲
 ye xian:叶限
 ye xiangdong:叶向东
 ye xianggao:叶向高
 ye xiaogang:叶小纲
 ye xiaowen:叶小文
+ye xiufeng:叶秀峰
 ye xiufeng:葉秀峯
 ye xiushan:叶秀山
 ye xuanning:叶选宁
@@ -103,7 +119,9 @@ ye xuanping:叶选平
 ye yanlan:叶衍兰
 ye yingchun:叶迎春
 ye yonglie:叶永烈
+ye yongqing:叶永青
 ye yuanlong:叶元龙
+ye yulin:叶育林
 ye yunlai:葉芸來
 ye zhaoyan:叶兆言
 ye zhaoying:叶钊颖
@@ -326,6 +344,7 @@ year blueprint:年藍圖
 year boeing:年波音
 year bonus:年奖金
 year book:年书
+year books:年书
 year books:年书籍
 year boxing odyssey:年拳击奥德赛
 year boxing:年拳击
@@ -4438,6 +4457,7 @@ yebokangal ri:野博康加日峰
 yebra de basa:耶夫拉德瓦萨
 yebucun:叶埠村
 yebukou:叶埠口乡
+yebyu township:耶漂鎮區
 yebyu township:耶漂镇区
 yebyu:耶漂
 yecangtang:野藏塘
@@ -4456,8 +4476,10 @@ yecheng:鄴城鎮
 yechengcun:野城村
 yechenzuocun:野陈佐村
 yecheon air base:醴泉飛行場
+yecheon airport:醴泉機場
 yecheon bus terminal:醴泉长途汽车站
 yecheon catholic church:醴泉天主教堂
+yecheon county:醴泉县
 yecheon county:醴泉郡
 yecheon elementary school kindergarten:礼川小学附属幼儿园
 yecheon elementary school:礼川小学
@@ -4975,6 +4997,7 @@ yejiapo west:叶家坡村西
 yejiapo:叶家坡
 yejiapucun:叶家铺村
 yejiaqiao:叶家桥
+yejiashan cemetery:叶家山墓地
 yejiashan:叶家山
 yejiashancun:叶家山村
 yejiashiqiao:叶家石桥
@@ -5044,6 +5067,7 @@ yekaterinbourg:叶卡捷琳堡
 yekaterinbourg:葉卡捷琳堡
 yekaterinburg and chelyabinsk:葉卡捷琳堡和車里雅賓斯克
 yekaterinburg and ufa:葉卡捷琳堡和烏法
+yekaterinburg metro:叶卡捷琳堡地铁
 yekaterinburg metro:葉卡捷琳堡地鐵
 yekaterinburg municipality:叶卡捷琳堡市
 yekaterinburg municipality:葉卡捷琳堡市
@@ -5086,6 +5110,7 @@ yelabuzhsky district:葉拉布加區
 yelagin island:耶拉金島
 yelagin palace:耶拉金宮
 yelahanka:耶拉汉卡
+yelan river:叶兰河
 yelan:叶兰
 yelandur:耶拉恩杜尔
 yelanets raion:葉拉涅茨區
@@ -5239,6 +5264,8 @@ yellow background is baidu:黄色背景是百度
 yellow background:黄色背景
 yellow bacteria:黄色细菌
 yellow badge:犹太星
+yellow badge:黄色徽章
+yellow badges:黄色徽章
 yellow bag:黄色袋
 yellow bag:黄色袋子
 yellow ball gown:黄色舞会礼服
@@ -5687,6 +5714,7 @@ yellow mask:黄色面具
 yellow means all data:黄色意味着所有数据
 yellow means all data:黄色意味着所有的数据
 yellow means:黄色意味着
+yellow media:黄色媒体
 yellow membrane:黄色膜
 yellow metal barricade:黄色金属路障
 yellow metal:黄色金属
@@ -5953,6 +5981,7 @@ yellow smoking:黄色吸烟
 yellow snake eel:黃蛇鰻
 yellow snow:黄色雪
 yellow soap:黄色肥皂
+yellow socialism:黄色社会主义
 yellow sodium:黄色钠
 yellow sofa:黄色沙发
 yellow solid:黄色固体
@@ -6001,6 +6030,7 @@ yellow surface:黄色表面
 yellow sweater:黄色毛衣
 yellow swim cap:黄色泳帽
 yellow swordtail:柔身劍尾魚
+yellow syndicalism:黄色工团主义
 yellow system:黄色系统
 yellow tag:黄色标签
 yellow tailed african tetra:短尾非洲鮭鯉
@@ -6166,7 +6196,11 @@ yellowish stem:淡黄色的茎
 yellowish substance:淡黄色的物质
 yellowish water:淡黄色的水
 yellowish:淡黄色的
+yellowknife airport:耶洛奈夫机场
+yellowknife airport:黃刀鎮機場
 yellowknife airport:黄刀机场
+yellowknife highway:耶洛奈夫公路
+yellowknife highway:黃刀鎮公路
 yellowknife:耶洛奈夫
 yellowknife:黃刀鎮
 yellowmargin triggerfish:黄边副鳞鲀
@@ -6273,6 +6307,7 @@ yeme:也门 / 葉門
 yeme:葉門
 yemek:基马克
 yemelivka:葉梅利夫卡
+yemelyanovo airport:叶梅利亚诺沃机场
 yemelyanovo:叶梅利亚诺沃
 yemelyanovsky district:葉梅利亞諾沃區
 yemen admitted:也门承认
@@ -6366,6 +6401,7 @@ yemen became:也门成为
 yemen become:也门成为
 yemen began:也门开始
 yemen border:也门边界
+yemen branch:也門分支
 yemen branch:也门分支
 yemen by:也门被
 yemen büyükelçiliği:也门大使馆
@@ -6397,7 +6433,9 @@ yemen food:也门食品
 yemen football association:也門足球協會
 yemen from:也门从
 yemen funeral:也门葬礼
+yemen government:也門政府
 yemen government:也门政府
+yemen history:也门历史
 yemen hopes:也门希望
 yemen hospital:也门医院
 yemen into:也门进入
@@ -6411,6 +6449,7 @@ yemen martian:也门火星人
 yemen matter:也门问题
 yemen missile:也门导弹
 yemen national football team:也門國家足球隊
+yemen navy:也门海军
 yemen needs:也门需要
 yemen northeast:也门东北
 yemen now:也门现在
@@ -6432,6 +6471,9 @@ yemen port:也门港口
 yemen president:也门总统
 yemen prime minister:也门总理
 yemen prison:也门监狱
+yemen province:也門省
+yemen province:也门省
+yemen province:葉門省
 yemen public health system:也门公共卫生系统
 yemen public health:也门公共卫生
 yemen radar station:也门雷达站
@@ -6484,14 +6526,33 @@ yemenemeniň hormatly konsullygy:也门名誉领事馆
 yemengo enbaxada:也门大使馆
 yemengo ohorezko kontsulatua:也门名誉领事馆
 yemeni arabic:也門阿拉伯語
+yemeni arabic:也门阿拉伯语
 yemeni armed forces:也門武裝部隊
+yemeni army:也门军队
+yemeni branch:也門分支
 yemeni civil war start:也门内战开始
 yemeni civil war:也门内战
+yemeni constitution:也门宪法
+yemeni crisis:也門危機
 yemeni crisis:也门危机
+yemeni crisis:葉門危機
 yemeni dinar:南葉門第納爾
+yemeni government:也門政府
+yemeni government:也门政府
+yemeni history:也门历史
+yemeni jews:也门犹太人
 yemeni league:也門足球聯賽
+yemeni military:也門軍隊
+yemeni military:也门军事
+yemeni military:也门军队
 yemeni national resistance:也门全国抵抗
+yemeni nationalism:也門民族主義
+yemeni nationalism:也门民族主义
 yemeni navy:也门海军
+yemeni parliament:也门议会
+yemeni police:也門警察
+yemeni president:也门总统
+yemeni revolution:也门革命
 yemeni rial:葉門里亞爾
 yemeni socialist party:也门社会党
 yemeni unification:也門統一
@@ -6508,6 +6569,8 @@ yemenite jews:葉門猶太人
 yemenite step:葉門步
 yemens ambassade:也门大使馆
 yemens honorære konsulat:也门名誉领事馆
+yemi station:礼美站
+yemi station:禮美站
 yemi:礼美
 yemi:禮美
 yemilchyne raion:葉米利奇內區
@@ -6816,6 +6879,7 @@ yeohang-myeon:艅航面
 yeoheul-ri:如屹里
 yeoheung min clan:驪興閔氏
 yeoju station:驪州站
+yeoju station:骊州站
 yeoju-si:驪州市
 yeoju-si:骊州市
 yeoju:驪州
@@ -6828,6 +6892,7 @@ yeok-dong:驿洞
 yeok-ri:驛里
 yeok-ri:驿里
 yeokchon elementary school:驿村小学
+yeokchon station:驛村站
 yeokchon station:驿村站
 yeokchon-dong:驛村洞
 yeokchon-dong:驿村洞
@@ -6996,6 +7061,8 @@ yeongbuk labor district:營北勞動者區
 yeongbuk labor district:营北劳动者区
 yeongbuk:永北面
 yeongbul-ro:影步路
+yeongcheon county:永川县
+yeongcheon station:永川站
 yeongcheon-dong:灵泉洞
 yeongcheon-dong:英川洞
 yeongcheon-dong:靈泉洞
@@ -7132,6 +7199,7 @@ yeongjong bridge service area:永宗大橋休息站
 yeongjong bridge:永宗大桥
 yeongjong bridge:永宗大橋
 yeongjong grand bridge:永宗大橋
+yeongjong island:永宗岛
 yeongjong station:永宗站
 yeongjong-dong community service center:永宗洞行政福祉中心
 yeongjong-dong:永宗洞
@@ -7146,6 +7214,7 @@ yeongju 1-dong:瀛州1洞
 yeongju 2(i)-dong:瀛州2洞
 yeongju 2-dong:瀛州2洞
 yeongju dam:荣州水库
+yeongju station:榮州站
 yeongju station:荣州站
 yeongju-dong:瀛州洞
 yeongju-si:榮州市
@@ -7216,6 +7285,7 @@ yeongsun-myeon:永順面
 yeongsun-myeon:永顺面
 yeongtong district:靈通區
 yeongtong station:灵通站
+yeongtong station:靈通站
 yeongtong-gu:灵通区
 yeongtong-gu:靈通區
 yeongtong:靈通
@@ -7225,6 +7295,8 @@ yeongung-dong:英雄洞
 yeongung-ri:英雄里
 yeongwang-ri:鉛鑛里
 yeongwang-ri:铅鑛里
+yeongwol station:宁越站
+yeongwol station:寧越站
 yeongwol-eup:宁越邑
 yeongwol-eup:寧越邑
 yeongwol-gun:宁越郡
@@ -7261,6 +7333,7 @@ yeonha-ri:延下里
 yeonha:莲下
 yeonha:蓮下
 yeonhap-ri:延合里
+yeonho station:蓮湖站
 yeonho-dong:liánhú dòng
 yeonho-dong:莲湖洞
 yeonho-dong:蓮湖洞
@@ -7440,9 +7513,12 @@ yeouidaebang-ro 69-gil:汝矣大方路69街
 yeouidaebang-ro 70-gil:汝矣大方路70街
 yeouidaebang-ro:汝矣大方路
 yeouido hangang park:汝矣岛汉江公园
+yeouido park:汝矣岛公园
 yeouido park:汝矣島公園
+yeouido plaza:汝矣島廣場
 yeouido saetgang ecological park:赛江生态公园
 yeouido station:汝矣岛站
+yeouido station:汝矣島站
 yeouido-dong:汝矣岛洞
 yeouido-dong:汝矣島洞
 yeouido:汝矣岛
@@ -7516,6 +7592,8 @@ yerevan international film festival:埃里溫國際電影節
 yerevan lake:埃里溫湖
 yerevan metro:埃里温地铁
 yerevan opera theatre:埃里温歌剧院
+yerevan province:埃里溫省
+yerevan province:葉里溫省
 yerevan railway station:葉里溫車站
 yerevan state university:埃里温国立大学
 yerevan tv tower:葉里溫電視塔
@@ -8284,6 +8362,7 @@ yeyou village:椰油村
 yeyou:叶酉
 yeyou:椰油村
 yeyoufang:叶油坊
+yeysk airport:葉伊斯克機場
 yeysk:葉伊斯克
 yeysky district:葉伊斯克區
 yeyu river:冶峪河

@@ -54,6 +54,7 @@ ila de man:曼島
 ila de man:馬恩島
 ila de man:马恩岛
 ila de man:马恩岛 / 曼島
+ila prison:伊拉監獄
 ila:伊拉
 ila:艾拉島
 ilabaya district:伊拉巴亞區
@@ -288,14 +289,17 @@ iley new fashion collection:伊蕾名店 東山店
 ileyed:伊蕾名店
 ilf and petrov:伊里夫和彼得罗夫
 ilford court:宜富閣
+ilford north:伊爾福德北
 ilford photo:伊尔福公司
 ilford railway station:伊爾福德車站
+ilford south:伊爾福德南
 ilford:伊爾福德
 ilfov county:伊爾福夫縣
 ilfracombe:伊爾弗勒科姆
 ilgaz mountains:厄爾加茲山脈
 ilgaz:厄爾加茲
 ilgwa-ri:日果里
+ilgwang station:日光站
 ilgwang-eup:日光邑
 ilgwang:日光
 ilgwangcheon (riv.):日光川
@@ -1018,6 +1022,7 @@ illas:伊利亚斯
 illasi:伊拉西
 illative case:入格
 illats:伊拉茨
+illawarra escarpment:伊拉瓦拉断崖
 illawarra fly:伊拉瓦拉飞
 illawarra health and medical research:伊拉瓦拉健康与医学研究
 illawarra health:伊拉瓦拉健康
@@ -1735,6 +1740,7 @@ illegal landing:非法着陆
 illegal lang:非法郎
 illegal lead:非法铅
 illegal levels:非法水平
+illegal life:非法生命
 illegal limit:非法限制
 illegal links:非法链接
 illegal liver:非法肝
@@ -1840,6 +1846,7 @@ illegal norwegian:非法挪威
 illegal nuclear weapon:非法核武器
 illegal nuclear weapon:非法的核武器
 illegal number:非法数字
+illegal numbers:非法数字
 illegal oath:非法宣誓
 illegal obtain:非法获得
 illegal occupation:非法佔領
@@ -2485,6 +2492,9 @@ illinois cancer:伊利诺伊州癌症
 illinois capital:伊利诺伊州首都
 illinois centennial half dollar:伊利诺伊州百年纪念半美元
 illinois central railroad:伊利诺伊中央铁路
+illinois chicago:伊利諾伊州芝加哥
+illinois chicago:伊利諾州芝加哥
+illinois chicago:伊利诺伊州芝加哥
 illinois children:伊利诺伊州儿童
 illinois city:伊利诺伊州城市
 illinois club:伊利诺伊州俱乐部
@@ -2502,6 +2512,7 @@ illinois confederation:伊利諾伊聯盟
 illinois constitution:伊利诺伊州宪法
 illinois corn:伊利诺伊州玉米
 illinois court:伊利诺伊州法院
+illinois courts:伊利諾州法院
 illinois dance theatre:伊利诺伊州舞蹈剧院
 illinois dance:伊利诺伊州舞蹈
 illinois education:伊利诺伊州教育
@@ -2552,6 +2563,7 @@ illinois manufacturing:伊利诺伊州制造业
 illinois mathematics:伊利诺伊州数学
 illinois mathematics:伊利诺斯数学
 illinois microbiologist:伊利诺伊州微生物学家
+illinois militia:伊利诺伊州民兵
 illinois museum:伊利诺伊州博物馆
 illinois must continue:伊利诺伊州必须继续
 illinois national bank:伊利诺伊州国家银行
@@ -2609,6 +2621,7 @@ illinois senate:伊利诺伊州参议院
 illinois senate:伊利诺斯参议院
 illinois service:美鐵伊利諾州服務
 illinois soybean:伊利诺伊州大豆
+illinois springfield:伊利诺伊州斯普林菲尔德
 illinois state bar association:伊利諾州律師公會
 illinois state capitol:伊利諾伊州議會大廈
 illinois state court:伊利诺斯州法院
@@ -2652,6 +2665,7 @@ illinois university:伊利诺斯大学
 illinois users:伊利诺伊州用户
 illinois vehicle database:伊利诺伊州车辆数据库
 illinois vehicle:伊利诺伊州车辆
+illinois waterway:伊利诺伊州航道
 illinois welcome:伊利诺伊州欢迎
 illinois workers:伊利诺伊州工人
 illinois would cut off:伊利诺伊州将切断
@@ -2688,6 +2702,7 @@ illithid:灵吸怪
 illivka:伊爾利夫卡
 illiwka:伊爾利夫卡
 illizi (stad):伊利济
+illizi airport:伊利济机场
 illizi eanangoddi:伊利济省
 illizi province:伊利济省
 illizi:伊利济
@@ -2886,6 +2901,7 @@ ilovik:伊洛维克岛
 ilovlinsky district:伊洛夫利亚区
 ilovliá:伊洛夫利亚
 ilovlja:伊洛夫利亚
+ilovlya river:伊洛夫利亚河
 ilovlya:伊洛夫利亚
 ilowaisk:伊洛瓦伊斯克
 ilowlja:伊洛夫利亚
@@ -2913,6 +2929,7 @@ ilsfeld:伊尔斯费尔德
 ilshin labor district:日新劳动者区
 ilshin labor district:日新勞動者區
 ilshofen:伊尔斯霍芬
+ilsin station:日新站
 ilsin-dong:日新洞
 ilsin-ri:一新里
 ilsin:日新
@@ -2922,6 +2939,7 @@ ilskiy:伊利斯基
 ilsky:伊利斯基
 ilster:伊爾斯特河
 iltan line:日炭線
+iltan line:日炭线
 iltan:日炭
 ilterish qaghan:骨咄禄
 iltifatganj bazar:伊尔蒂法特甘杰巴扎尔

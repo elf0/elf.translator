@@ -45,6 +45,7 @@ glacier conference:冰川会议
 glacier continues:冰川继续
 glacier cook:庫克冰川
 glacier country:冰川国家
+glacier county:冰川县
 glacier cover:冰川覆盖
 glacier coverage:冰川覆盖
 glacier creek:chang he
@@ -63,6 +64,8 @@ glacier expert:冰川专家
 glacier exploration:冰川探险
 glacier express:冰川快车
 glacier finch:白翅迪卡雀
+glacier flea:冰川跳蚤
+glacier fleas:冰川跳蚤
 glacier flood:冰川洪水
 glacier flour or glacier milk:冰川面粉或冰川牛奶
 glacier flour:冰川面粉
@@ -115,6 +118,7 @@ glacier origin:冰川起源
 glacier palace:冰川宫殿
 glacier paradise:冰川天堂
 glacier park:冰川公园
+glacier park:冰川公園
 glacier peak:格拉西爾峰
 glacier photo:冰川照片
 glacier point:冰川点
@@ -207,6 +211,8 @@ glamondans:格拉蒙当
 glamorgan building:卡迪夫大學格拉摩根樓
 glamorgan hospital:格拉摩根医院
 glamorgan or swansea:格拉摩根或斯旺西
+glamorgan university:格拉摩根大学
+glamorgan university:格拉摩根大學
 glamorgan:格拉摩根
 glamorgano slėnis:格拉摩根谷
 glamorous garden:盈勵軒
@@ -310,11 +316,13 @@ glasgalerie:玻璃画廊
 glasgau:格拉斯哥
 glasgou:格拉斯哥
 glasgovo:格拉斯哥
+glasgow academy:格拉斯哥学院
 glasgow accent:格拉斯哥口音
 glasgow accountant:格拉斯哥会计师
 glasgow airport and london:格拉斯哥机场和伦敦
 glasgow airport began:格拉斯哥机场开始
 glasgow airport:格拉斯哥机场
+glasgow airport:格拉斯哥機場
 glasgow algorithm:格拉斯哥算法
 glasgow and beijing:格拉斯哥和北京
 glasgow and berlin:格拉斯哥和柏林
@@ -368,6 +376,7 @@ glasgow city council:格拉斯哥市政委员会
 glasgow city council:格拉斯哥市议会
 glasgow club:格拉斯哥俱乐部
 glasgow clyde:格拉斯哥克莱德
+glasgow college:格拉斯哥学院
 glasgow coma scale:昏迷指數
 glasgow coma:格拉斯哥昏迷
 glasgow commonwealth games:格拉斯哥英聯邦運動會
@@ -378,6 +387,7 @@ glasgow council:格拉斯哥议会
 glasgow cross:格拉斯哥十字
 glasgow cup:格拉斯哥杯
 glasgow designer:格拉斯哥设计师
+glasgow dialect:格拉斯哥方言
 glasgow dialect:格拉斯哥語
 glasgow each year:格拉斯哥每年
 glasgow east:格拉斯哥东
@@ -396,6 +406,7 @@ glasgow high school:格拉斯哥高中
 glasgow home:格拉斯哥家
 glasgow hospital:格拉斯哥医院
 glasgow hotel:格拉斯哥酒店
+glasgow institute:格拉斯哥学院
 glasgow international airport:格拉斯哥国际机场
 glasgow international college:格拉斯哥国际学院
 glasgow international:格拉斯哥国际
@@ -439,6 +450,7 @@ glasgow sculpture:格拉斯哥雕塑
 glasgow shipyard:格拉斯哥造船厂
 glasgow show:格拉斯哥显示
 glasgow slang:格拉斯哥俚语
+glasgow smile:格拉斯哥微笑
 glasgow smile:格拉斯哥笑容
 glasgow soldier:格拉斯哥士兵
 glasgow solidarity:格拉斯哥团结
@@ -450,8 +462,12 @@ glasgow subway:格拉斯哥地铁
 glasgow team:格拉斯哥队
 glasgow to london:格拉斯哥到伦敦
 glasgow tower:格拉斯哥塔
+glasgow township:格拉斯哥鎮區
 glasgow training:格拉斯哥训练
 glasgow university library:格拉斯哥大學圖書館
+glasgow university:格拉斯哥大学
+glasgow university:格拉斯哥大學
+glasgow village:格拉斯哥村
 glasgow women:格拉斯哥妇女
 glasgow workers:格拉斯哥工人
 glasgow zoo:格拉斯哥動物園
@@ -704,6 +720,7 @@ glass brain:玻璃脑
 glass breaker:安全锤
 glass brick wall:玻璃砖墙
 glass brick:玻璃砖
+glass brick:玻璃磚
 glass bridge in china:玻璃桥在中国
 glass bridge:玻璃桥
 glass bridge:玻璃橋
@@ -929,6 +946,7 @@ glass fiber structure:玻璃纤维结构
 glass fiber system:玻璃纤维系统
 glass fiber technology:玻璃纤维技术
 glass fiber:玻璃纤维
+glass fibre:玻璃纤维
 glass field:玻璃场
 glass field:玻璃领域
 glass figure:玻璃图
@@ -980,6 +998,7 @@ glass have effect:玻璃有效果
 glass he:玻璃他
 glass head:玻璃头
 glass headstander:駝背桂脂鯉
+glass heart:玻璃心
 glass heinz bottle:玻璃亨氏瓶
 glass heinz:玻璃亨氏
 glass high:玻璃高
@@ -1120,6 +1139,7 @@ glass of water:水玻璃
 glass office:玻璃办公室
 glass oil lamp:玻璃油灯
 glass oil painting:玻璃油画
+glass onion:玻璃洋葱
 glass open:玻璃打开
 glass opium bottle:玻璃鸦片瓶
 glass opium:玻璃鸦片
@@ -1169,6 +1189,7 @@ glass painting:玻璃绘画
 glass palace:玻璃宫殿
 glass panel kill:玻璃面板杀
 glass panel:玻璃面板
+glass paper:玻璃纸
 glass part:玻璃部分
 glass particle:玻璃粒子
 glass pavilion:玻璃亭子
@@ -1307,6 +1328,7 @@ glass soften:玻璃软化
 glass solution:玻璃解决方案
 glass solutions:玻璃解决方案
 glass sound:玻璃声音
+glass soup:玻璃汤
 glass span:玻璃跨度
 glass sphere:玻璃球
 glass spider:玻璃蜘蛛
@@ -1845,6 +1867,7 @@ glendale games:格伦代尔游戏
 glendale jail:格伦代尔监狱
 glendale police:格伦代尔警察
 glendale residents:格伦代尔居民
+glendale station:格伦代尔站
 glendale unified school district:格伦代尔联合学区
 glendale union high school:格伦代尔联盟高中
 glendale:格伦代尔
@@ -1931,6 +1954,7 @@ gliding circle:滑翔圆圈
 gliding club:滑翔俱乐部
 gliding eagle:滑翔鹰
 gliding enemy:滑翔敌人
+gliding flight:滑翔飛行
 gliding flight:滑翔飞行
 gliding from shadow:滑翔从影子
 gliding from:滑翔从
@@ -1939,6 +1963,7 @@ gliding it:滑翔它
 gliding mammals:滑翔哺乳动物
 gliding missile photos:滑翔导弹照片
 gliding missile:滑翔导弹
+gliding motion:滑翔运动
 gliding phase:滑翔阶段
 gliding rather than:滑翔而不是
 gliding records:滑翔记录
@@ -1955,6 +1980,8 @@ gliding version:滑翔版本
 gliding world:滑翔世界
 gliding:滑翔
 glienicke bridge:格利尼克桥
+glienicke bridge:格利尼克橋
+glienicke lake:格利尼克湖
 glienicke palace:格利尼克宮
 glienicke:格利尼克
 glienke:格林克
@@ -3319,6 +3346,7 @@ global cinema:全球电影院
 global circuits:全球电路
 global circular economy:全球循環經濟
 global citation:全球引文
+global cities:全球城市
 global cities:全球的城市
 global citizen ambassador:全球公民大使
 global citizen and future:全球公民和未来的
@@ -3803,6 +3831,7 @@ global contract:全球契约
 global contraction:全球收缩
 global contribution:全球的贡献
 global contribution:全球贡献
+global contributions:全球贡献
 global contributor:全球贡献者
 global contributors:全球贡献者
 global control mechanism:全球控制机制
@@ -5113,6 +5142,7 @@ global fax:全球传真
 global federation:全球联盟
 global female leader:全球女性領袖
 global female:全球女性
+global feminism:全球女性主義
 global fentanyl:全球芬太尼
 global feral population:全球野化种群
 global fertiliser:全球肥料
@@ -5271,6 +5301,7 @@ global flight:全球飞行
 global flood risk:全球洪水风险
 global flood:全球洪水
 global flood:全球的洪水
+global flooding:全球洪水
 global flour consumption:全球面粉消费
 global flour:全球面粉
 global flow:全球流动
@@ -8646,6 +8677,7 @@ global rescue:全球救援
 global research & development center of baoneng motor:宝能汽车全球研发中心
 global research and education:全球的研究和教育
 global research:全球的研究
+global research:全球研究
 global reserve currency and payment:全球储备货币和支付
 global reserve currency status:全球储备货币地位
 global reserve currency:全球储备货币
@@ -9120,6 +9152,7 @@ global services:全球服务
 global services:全球的服务
 global set:全球的设置
 global set:全球设置
+global settlement:全球殖民地
 global sex ratio:全球性别比例
 global sex toy:全球性玩具
 global sexual abuse:全球性虐待
@@ -11514,6 +11547,7 @@ gloster javelin:標槍戰鬥機
 gloster meteor:格罗斯特流星战斗机
 glostrup municipality:格洛斯楚普市鎮
 glostrup railway station:格洛斯楚普站
+glostrup station:格洛斯楚普站
 glostrup:格洛斯楚普
 glotovka:格洛托夫卡
 glottal consonant:聲門音
@@ -11527,6 +11561,7 @@ glottochronology:语言年代学
 gloucester and salem:格洛斯特和塞勒姆
 gloucester asylum:格洛斯特庇护
 gloucester be:格洛斯特成为
+gloucester cathedral:格洛斯特主教座堂
 gloucester cathedral:格洛斯特大教堂
 gloucester cathedral:格洛斯特座堂
 gloucester catholic:格洛斯特天主教
@@ -11540,11 +11575,13 @@ gloucester college:格洛斯特學院
 gloucester county court:格洛斯特郡法院
 gloucester county:格洛斯特县
 gloucester county:格洛斯特縣
+gloucester diocese:格洛斯特教區
 gloucester dock:格洛斯特船坞
 gloucester factory:格洛斯特工厂
 gloucester green:格洛斯特绿色
 gloucester hall:格洛斯特大厅
 gloucester high school:格洛斯特高中
+gloucester park:格洛斯特公园
 gloucester point:格洛斯特点
 gloucester prison:格洛斯特监狱
 gloucester resources:格洛斯特资源
@@ -11557,11 +11594,13 @@ gloucester road:格洛斯特路
 gloucester rugby:格洛斯特橄榄球
 gloucester shire:格洛斯特郡
 gloucester tower:告羅士打大廈
+gloucester township:格洛斯特鎮區
 gloucester waterways museum:格洛斯特水路博物馆
 gloucester:格洛斯特
 gloucestershire aircraft company:格洛斯特郡飞机公司
 gloucestershire aircraft:格洛斯特郡飞机
 gloucestershire airport:格洛斯特郡机场
+gloucestershire airport:格洛斯特郡機場
 gloucestershire area:格洛斯特郡地区
 gloucestershire energy:格洛斯特郡能源
 gloucestershire four:格洛斯特郡四
@@ -11569,9 +11608,11 @@ gloucestershire hospital:格洛斯特郡医院
 gloucestershire old spots origin:格洛斯特郡花猪起源
 gloucestershire old spots:格洛斯特郡花猪
 gloucestershire police:格洛斯特郡警察
+gloucestershire regiment:格洛斯特郡团
 gloucestershire royal hospital:格洛斯特郡皇家医院
 gloucestershire royal hospital:格洛斯特郡皇家醫院
 gloucestershire royal:格洛斯特郡皇家
+gloucestershire south:格洛斯特郡南
 gloucestershire village:格洛斯特郡村
 gloucestershire village:格洛斯特郡村庄
 gloucestershire:格洛斯特郡
@@ -11767,6 +11808,7 @@ glucose conditions:葡萄糖条件
 glucose control:葡萄糖控制
 glucose crystal:葡萄糖晶体
 glucose data:葡萄糖数据
+glucose dehydrogenase:葡萄糖脱氢酶
 glucose demand:葡萄糖需求
 glucose deprivation:葡萄糖剥夺
 glucose detect:葡萄糖检测
@@ -11947,6 +11989,7 @@ glutathione levels:谷胱甘肽水平
 glutathione metabolism:谷胱甘肽代谢
 glutathione molecule:谷胱甘肽分子
 glutathione peroxidase:谷胱甘肽过氧化物酶
+glutathione peroxidase:谷胱甘肽過氧化物酶
 glutathione provides:谷胱甘肽提供
 glutathione reductase:谷胱甘肽还原酶
 glutathione synthesis:谷胱甘肽合成
@@ -12021,6 +12064,7 @@ glycerol dehydrogenase:甘油脱氢酶
 glycerol fatty acid ester:甘油脂肪酸酯
 glycerol fatty acid:甘油脂肪酸
 glycerol hydrolase:甘油水解酶
+glycerol kinase:甘油激酶
 glycerol monostearate:单硬脂酸甘油酯
 glycerol or ethylene glycol:甘油或乙二醇
 glycerol phosphate shuttle:甘油磷酸穿梭
@@ -12041,6 +12085,7 @@ glycine hydrochloride:甘氨酸盐酸盐
 glycine ion:甘氨酸离子
 glycine is the only exception:甘氨酸是唯一的例外
 glycine methyl ester hydrochloride:甘氨酸甲酯盐酸盐
+glycine oxidase:甘氨酸氧化酶
 glycine receptor:甘氨酸受体
 glycine route:甘氨酸路线
 glycine soja:野大豆
@@ -12109,6 +12154,7 @@ glycosmis pentaphylla:山小橘
 glycosmis:山小橘属
 glycosphingolipid:鞘糖脂
 glycosyl hydrolase:糖基水解酶
+glycosyl phosphatidylinositol:糖基磷脂酰肌醇
 glycosyl:糖基
 glycosylamine:糖胺
 glycosylation:醣基化

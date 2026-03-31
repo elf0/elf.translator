@@ -1633,7 +1633,9 @@ lab:拉布乡
 laba congee:腊八粥
 laba festival:腊八节
 laba garlic:腊八蒜
+laba laba:拉巴拉巴
 laba river:lābā hé
+laba river:喇叭河
 laba river:拉巴河
 laba shan:腊巴山
 laba township:拉巴乡
@@ -2491,6 +2493,7 @@ labor costs:劳动力成本
 labor costs:工人成本
 labor cotton factories:劳动力棉花工厂
 labor cotton:劳动力棉花
+labor council:工人委员会
 labor countries:劳动力国家
 labor crisis:劳动力危机
 labor currently:劳动力目前
@@ -2514,10 +2517,12 @@ labor exchange:劳动力交换
 labor exploitation:劳动力剥削
 labor export:劳动力出口
 labor family:工人家庭
+labor federation:工人联盟
 labor feminism:勞動女性主義
 labor feminist:工人女性主義者
 labor flow:劳动力流动
 labor force:勞動人口
+labor force:工人力量
 labor from one:劳动力从一
 labor from:劳动力从
 labor functions:劳动力功能
@@ -2546,6 +2551,8 @@ labor liberation:工人解放
 labor loss:劳动力损失
 labor management platform:劳动力管理平台
 labor management:劳动力管理
+labor market:劳动力市场
+labor markets:劳动力市场
 labor match:劳动力匹配
 labor mayor:工人市长
 labor migration:劳动力迁徙
@@ -2590,6 +2597,7 @@ labor protest:工人抗议
 labor provide:劳动力提供
 labor quality:劳动力质量
 labor question:工人问题
+labor rally:工人集会
 labor rather than:劳动力而不是
 labor recreation center:ㄌㄠˊㄍㄨㄥㄩˋㄌㄜˋㄓㄨㄥㄒㄧㄣㄓㄢˋ
 labor recreation center:劳工育乐中心
@@ -2606,6 +2614,7 @@ labor requirement:劳动力需求
 labor requirements:劳动力需求
 labor research:劳动力研究
 labor resources:劳动力资源
+labor right:工人权利
 labor rights abuse:劳工权利虐待
 labor rights activist:劳工权利活动家
 labor rights advocate:劳工权利倡导
@@ -3525,11 +3534,14 @@ labour and socialist international:社会主义工人国际
 labour and welfare bureau recently:勞工及福利局最近
 labour and welfare bureau:勞工及福利局
 labour are normal process:分娩是正常的过程
+labour bank:工人银行
 labour building:劳动大厦
 labour camps in tibet:西藏勞工營
+labour club:工人俱乐部
 labour congress:工人代表大会
 labour congress:工人代表大會
 labour contract law of the people's republic of china:中华人民共和国劳动合同法
+labour council:工人委员会
 labour court of region 1 (phra nakhon si ayutthaya):第一区劳工法院（大城）
 labour court of region 1 (phra nakhon si ayutthaya):第一區勞工法院（大城）
 labour day celebration:劳动节庆祝
@@ -3545,6 +3557,8 @@ labour democracy:工人民主
 labour economics:勞動經濟學
 labour family:工人家庭
 labour federation of phu my town:富美市社劳工联合会
+labour federation:工人联盟
+labour force:工人力量
 labour from:工人从
 labour front:勞工陣線
 labour government:工人政府
@@ -3558,6 +3572,7 @@ labour law reforms and minimum wage:勞工法改革和最低工資
 labour law reforms:勞工法改革
 labour law:勞工法
 labour leader:工人领袖
+labour league:工人联盟
 labour market activities:劳动力市场活动
 labour market activity:劳动力市场活动
 labour market analysis:劳动力市场分析
@@ -3672,11 +3687,14 @@ labour party pakistan:巴基斯坦劳动党
 labour party:勞動黨
 labour party:工人党
 labour policy:工人政策
+labour power:工人力量
+labour process:分娩过程
 labour rights:工人权利
 labour russia:劳动俄罗斯
 labour start:分娩开始
 labour tribunal:勞資審裁處
 labour union of district 1:第一郡劳动练团
+labour union:工人联盟
 labour voucher:工分制
 labour youth union of albania:阿尔巴尼亚劳动青年联盟
 labour-market challenges:劳动力市场挑战
@@ -3718,6 +3736,8 @@ labrador coast:拉布拉多海岸
 labrador current:拉布拉多当前
 labrador current:拉布拉多洋流
 labrador denizi:拉布拉多海
+labrador dog:拉布拉多犬
+labrador dog:拉布拉多狗
 labrador duck:拉布拉多鴨
 labrador english:拉布拉多英语
 labrador fossil:拉布拉多化石
@@ -3745,6 +3765,7 @@ labrador puppy:拉布拉多小狗
 labrador region:拉布拉多地区
 labrador retriever continues:拉布拉多犬继续
 labrador retriever sitting:拉布拉多犬坐
+labrador retriever:拉布拉多寻回犬
 labrador retriever:拉布拉多犬
 labrador said:拉布拉多说
 labrador sea:拉布拉多海
@@ -3753,6 +3774,7 @@ labrador soccer:拉布拉多足球
 labrador supreme court trial:拉布拉多最高法院审判
 labrador supreme court:拉布拉多最高法院
 labrador systems:拉布拉多系统
+labrador tea:拉布拉多茶
 labrador through:拉布拉多通过
 labrador tourism:拉布拉多旅游
 labrador tower:拉柏多大厦
@@ -3821,6 +3843,8 @@ labry:拉布里
 labu monastery:拉布寺
 labu police station:拉务警察局
 labu police station:拉務警察局
+labu river:拉务河
+labu river:拉布河
 labu-ri:罗浮里
 labu-ri:羅浮里
 labu:拉务
@@ -4229,6 +4253,7 @@ laced moray:豆點裸胸鱔
 laced woodpecker:花腹啄木鸟
 lacedonia:拉切多尼亚
 lacenas:拉斯纳
+lacepede islands:拉塞佩德群岛
 lacepede:拉塞佩德
 lacerta:蝎虎座
 lacertaspis:拉斯石龙子属
@@ -4270,6 +4295,7 @@ lachi:拉池村
 lachigaoyuan:丽池高苑
 lachigaoyuan:麗池高苑
 lachin corridor:拉欽走廊
+lachin corridor:拉钦走廊
 lachin district:拉欽區
 lachin international airport:拉欽國際機場
 lachin:拉钦
@@ -4926,6 +4952,7 @@ laco biwa:琵琶湖
 laco tanganyika:坦噶尼喀湖
 laco victoria:维多利亚湖
 lacock abbey:拉科克修道院
+lacock cup:拉科克杯
 lacock:拉科克
 lacollonge:拉科隆日
 lacombe pig:拉康姆猪
@@ -5216,6 +5243,10 @@ lacydes of cyrene:庫瑞涅的拉居得
 lacésar:乐凯撒
 lada class submarine:拉达级潜艇
 lada terra:拉達陸
+lada togliatti:拉達陶里亞蒂
+lada toliatti:拉達陶里亞蒂
+lada tolyatti:拉达陶里亚蒂
+lada tolyatti:拉達陶里亞蒂
 lada-class submarine production:拉达级潜艇生产
 lada:拉达
 lada:拉达村
@@ -5363,6 +5394,7 @@ ladiksjön:拉迪克湖
 ladin language:拉定语
 ladin's sign:拉頂氏徵象
 lading monastery:拉登寺
+lading parish:拉丁教区
 lading:拉丁
 ladingtun:拉顶屯
 ladinhac:拉迪尼亚克
@@ -5558,6 +5590,7 @@ lady is my wife:女士是我的妻子
 lady is one:女士是一
 lady is the:女士是这
 lady is you:女士是你
+lady island:女士岛
 lady judge:女士法官
 lady jukbang:竹房夫人
 lady justice sometimes:正义女神有时
@@ -5715,6 +5748,7 @@ ladêng:拉丁村
 ladîjîn:拉德任
 ladõžõn:拉德任
 lae airport:拉埃機場
+lae airport:萊城機場
 lae atoll:萊環礁
 lae district:萊城縣
 lae:莱城
@@ -5778,17 +5812,26 @@ lafage sur sombre:松布尔河畔拉法日
 lafage:拉法日
 lafarge rocks:拉法基岩
 lafauche:拉福什
+lafayette boulevard:拉法葉大道
 lafayette bridge:拉斐特大桥
 lafayette class submarine:拉法叶级核潜艇
 lafayette college conference:拉斐特学院会议
 lafayette college:拉斐特学院
+lafayette college:拉法叶学院
+lafayette college:拉法葉學院
+lafayette county:拉法叶县
 lafayette county:拉法葉縣
 lafayette dollar:拉法耶特银元
 lafayette escadrille:拉法葉中隊
+lafayette parish:拉法叶堂区
+lafayette road:拉法叶路
+lafayette road:拉法葉路
 lafayette square:拉法耶特广场
+lafayette station:拉法葉站
 lafayette street:拉斐特大街
 lafayette street:拉法葉街
 lafayette township:拉斐特镇区
+lafayette township:拉法葉鎮區
 lafayette:拉法叶
 lafayette:拉法葉
 lafcadio hearn memorial museum:小泉八云纪念馆
@@ -5848,6 +5891,8 @@ laga:拉尕
 lagaga:拉嘎嘎
 lagagou:拉尕沟
 lagamar:拉加马尔
+lagan river:拉干河
+lagan river:拉甘河
 lagan':拉甘
 lagan:拉干
 lagan:拉根河
@@ -5882,6 +5927,8 @@ lagaň:拉甘
 lagba:拉巴村
 lagbo co:lúbù cuò
 lagbo co:芦布错
+lagdo dam:拉格多水库
+lagdo reservoir:拉格多水库
 lagdo:拉格多
 lage raho munna bhai:傻瓜大哥再出擊
 lage:lāgēn xiāng
@@ -5901,6 +5948,7 @@ lagenophora stipitata:瓶头草
 lagenophora:瓶头菊属
 lagenorhynchus:斑纹海豚属
 lageon:拉容
+lager beer:拉格啤酒
 lager:lā gé
 lager:拉格
 lager:拉格啤酒
@@ -6266,6 +6314,7 @@ lagopus:雷鸟属
 lagoras:拉哥拉斯
 lagorchestes:兔袋鼠
 lagord:拉戈尔
+lagos airport:老挝机场
 lagos chiu:拉哥斯
 lagos city marathon:拉各斯马拉松
 lagos de epulafquen:埃普拉夫肯湖
@@ -6274,6 +6323,9 @@ lagos eyaleti:拉哥斯
 lagos international:拉各斯羽毛球國際賽
 lagos island:拉各斯岛
 lagos lagoon:拉各斯潟湖
+lagos protectorate:寮國保护国
+lagos protectorate:老挝保护国
+lagos province:拉哥斯省
 lagos rail mass transit:拉各斯轨道交通
 lagos state and tanzania:拉各斯州和坦桑尼亚
 lagos state building:拉各斯州建筑
@@ -6292,6 +6344,8 @@ lagos state traffic management:拉各斯州交通管理
 lagos state traffic:拉各斯州交通
 lagos state:拉各斯州
 lagos state:拉哥斯
+lagos state:拉哥斯州
+lagos university:拉哥斯大學
 lagos:liáo guó
 lagos:lǎowō
 lagos:安波
@@ -6361,6 +6415,7 @@ laguhe:腊姑河
 laguian mazous:拉吉昂马祖
 laguinho dos patos:天鵝湖
 laguinho dos patos:天鹅湖
+laguiole cheese:拉约勒奶酪
 laguiole:拉约勒
 lagulashan:lāgǔlāshān
 lagulashan:ㄌㄚㄍㄨˇㄌㄚㄕㄢ
@@ -6553,6 +6608,7 @@ lahij gobernantzia:拉赫季省
 lahij governorate:拉赫季省
 lahij govrenorate:拉赫季省
 lahij guvernement:拉赫季省
+lahij province:拉赫季省
 lahij séng:拉赫季省
 lahij:拉赫季
 lahijan:拉希詹
@@ -6580,6 +6636,7 @@ lahong:拉红
 lahontan redside:秀麗紅脅鱥
 lahor:拉合尔
 lahore airport:拉合尔机场
+lahore airport:拉合爾機場
 lahore and beijing:拉合尔和北京
 lahore and faisalabad:拉合尔和费萨拉巴德
 lahore and islamabad:拉合尔和伊斯兰堡
@@ -6613,8 +6670,10 @@ lahore junction railway station:拉合爾交匯車站
 lahore junction:拉合爾交匯
 lahore lunch:拉合尔午餐
 lahore medical college:拉合尔医学院
+lahore metro:拉合尔地铁
 lahore metro:拉合爾地鐵
 lahore motorway:拉合尔高速公路
+lahore museum:拉合尔博物馆
 lahore museum:拉合爾博物館
 lahore police:拉合尔警察
 lahore prison:拉合尔监狱
@@ -6641,6 +6700,7 @@ lahti railway station:拉赫蒂车站
 lahti region:拉赫蒂地区
 lahti says:拉赫蒂说
 lahti school:拉赫蒂学校
+lahti stadium:拉赫蒂体育场
 lahti sub region:拉赫蒂次區
 lahti writers:拉赫蒂作家
 lahti:拉赫蒂
@@ -7220,6 +7280,7 @@ laignelet:莱涅莱
 laignes:莱涅
 laigneville:莱涅维尔
 laigong:濑贡
+laiguangying area:来广营地区
 laiguangying east road:來廣營東路
 laiguangying east road:来广营东路
 laiguangying station:来广营站
@@ -7627,6 +7688,7 @@ laiyishan:来义山
 laiyiwenhuajiankang station:來義文化健康站
 laiyu:来玉
 laiyuan county:láiyuán xiàn
+laiyuan county:来远县
 laiyuan county:涞源县
 laiyuan county:淶源縣
 laiyuan road:莱源路
@@ -7846,6 +7908,7 @@ lake adventure:湖泊冒险
 lake advertising:湖廣告
 lake afrera:阿夫勒拉湖
 lake agnococha:阿格諾科查湖
+lake aircraft:湖飞机
 lake airport:湖机场
 lake airport:湖機場
 lake akan:阿寒湖
@@ -8030,6 +8093,7 @@ lake boyukshor:博尤克肖爾湖
 lake bracciano:布拉恰诺湖
 lake braunsteffer:布勞恩斯特弗湖
 lake brebeneskul:布列別涅斯庫爾湖
+lake bridge:湖桥
 lake brienz:布里恩茨湖
 lake bright:湖明亮的
 lake brosno:布羅斯諾湖
@@ -8207,6 +8271,7 @@ lake district national park:湖区国家公园
 lake district offer:湖区提供
 lake district river:湖区河
 lake district:湖区
+lake district:湖區域
 lake dobczyce:多布奇采湖
 lake dong:dōng cuò
 lake dong:冬措
@@ -8217,6 +8282,7 @@ lake dongxicha:东西汊湖
 lake dragon:湖龙
 lake drainage:湖泊排水
 lake duck:南美硬尾鴨
+lake duck:湖鸭
 lake dukan:杜坎湖
 lake dulan:都兰湖
 lake dulishi:dúlìshí hú
@@ -8321,6 +8387,8 @@ lake forest country:湖森林国家
 lake forest resort canoe school:lake forest resort
 lake forest:湖森林
 lake forest:湖泊森林
+lake fortress:拉克堡
+lake fortress:湖堡
 lake forum:湖论坛
 lake foundation:湖基金
 lake fresh water:湖泊淡水
@@ -8380,6 +8448,7 @@ lake hala:哈拉湖
 lake hallwil:哈爾威湖
 lake hamana:滨名湖
 lake hamana:濱名湖
+lake hamilton:湖哈密尔顿
 lake hammar:哈马尔湖
 lake has:湖有
 lake hauroko:豪羅科湖
@@ -8591,6 +8660,7 @@ lake lauerz:劳厄茨湖
 lake lauricocha:劳里科查湖
 lake laut tawar:勞特塔瓦爾湖
 lake lavassaare:拉瓦薩雷湖
+lake lee:拉科勒
 lake lejiacocha:萊希亞科查湖
 lake leksozero:列克索澤羅湖
 lake leonard:倫納德湖
@@ -8727,6 +8797,7 @@ lake more:湖泊更多
 lake morning:湖早晨
 lake morning:莫寧湖
 lake motosu:本栖湖
+lake mountain:拉克山
 lake mountain:湖山
 lake mountain:湖泊山
 lake mstino:姆斯季諾湖
@@ -8876,6 +8947,7 @@ lake pariacocha:帕里亞科查湖
 lake parinacochas:帕里納科查斯湖
 lake park high school:湖公园高中
 lake park:湖公园
+lake park:湖公園
 lake park:湖泊公园
 lake parramatta:帕拉马塔湖
 lake partners:湖伙伴
@@ -8884,6 +8956,7 @@ lake patarcocha:帕塔爾科查湖
 lake patzcuaro salamander:钝口螈
 lake paucarcocha:保卡爾科查湖
 lake pavilion:湖心亭
+lake peak:湖泊峰
 lake pearl:湖珍珠
 lake pedder earthworm:佩德湖钜蚓
 lake peigneur:皮内尔湖
@@ -8968,6 +9041,7 @@ lake reach:湖达到
 lake reflect:湖反映
 lake region:湖地区
 lake region:湖泊区域
+lake region:湖泊地区
 lake release:湖释放
 lake research farm:湖研究农场
 lake research fellow:湖研究员
@@ -9000,6 +9074,7 @@ lake rukwa tilapia:魯夸湖口孵非鯽
 lake rukwa:魯夸湖
 lake rule of law park:湖法治公园
 lake rule of law:湖法治
+lake run:湖润镇
 lake ruovesi:魯奧韋西湖
 lake rychy:雷奇湖
 lake sachavacayoc:薩查瓦卡約克湖
@@ -9102,12 +9177,15 @@ lake starnberg is bavaria:施塔恩贝格湖是巴伐利亚
 lake starnberg:施塔恩贝格湖
 lake state park:湖州立公园
 lake state:湖州
+lake state:湖泊州
 lake states:湖国家
+lake station:拉科站
 lake station:湖站
 lake stechlin:大施泰希林湖
 lake sterzh:斯捷爾日湖
 lake still:湖泊仍然
 lake story:湖故事
+lake stream:湖流
 lake street/midtown:湖街/中城
 lake street:湖街
 lake street:湖街道
@@ -9213,6 +9291,8 @@ lake tourism:湖泊旅游
 lake towada:十和田湖
 lake tower:湖塔
 lake towers:湖塔
+lake township:拉克鎮區
+lake township:湖镇区
 lake township:莱克镇区
 lake towuti:托武蒂湖
 lake tragadero:特拉加德羅湖
@@ -9240,6 +9320,7 @@ lake turkana sardine:比氏埃塞魚
 lake turkana will help:图尔卡纳湖将帮助
 lake turkana:图尔卡纳湖
 lake tuz:圖茲湖
+lake type:湖泊类型
 lake tytyl:特特利湖
 lake udomlya:烏多姆利亞湖
 lake udyl:烏德利湖
@@ -9292,6 +9373,7 @@ lake view:拉克夫由
 lake vilacota:維拉科塔湖
 lake viljandi:維爾揚迪湖
 lake village housing:湖村住房
+lake village:拉克村
 lake village:湖村
 lake villarrica:比亞里卡湖
 lake vineyard:湖葡萄园
@@ -9342,6 +9424,8 @@ lake waterfall:湖瀑布
 lake weather:湖天气
 lake webcam:湖摄像头
 lake week:湖周
+lake west:拉克西
+lake west:拉科西
 lake west:湖西
 lake wetland:湖泊湿地
 lake wetland:湖湿地
@@ -9457,6 +9541,7 @@ lakeside 2:浚湖樓
 lakeside apartments:湖邊別墅
 lakeside chill:食尚水都
 lakeside garden:九城湖滨
+lakeside garden:湖畔花园
 lakeside garden:翠塘花園
 lakeside great wall scenic spot:湖滨长城风景步道
 lakeside great wall:长城湖滨路
@@ -9468,6 +9553,7 @@ lakeside mrt station:湖畔地铁站
 lakeside murder case:湖邊凶殺案
 lakeside north road:湖滨北路
 lakeside park:湖畔公园
+lakeside park:湖畔公園
 lakeside park:湖边公园
 lakeside path:環湖徑
 lakeside resort:天水蓮大飯店
@@ -9477,6 +9563,8 @@ lakeside school:湖濱學校
 lakeside school:莱克赛德学校
 lakeside shop:湖畔超市
 lakeside south road:湖滨南路
+lakeside stadium:湖畔体育场
+lakeside station:湖畔站
 lakeside township:莱克赛德镇区
 lakeside trail:環湖步道
 lakeside villa:碧湖別墅
@@ -9494,13 +9582,17 @@ lakeview kim goreng pisang:湖景金香蕉炸
 lakeview nursing home:觀湖生態頤養中心
 lakeview nursing home:观湖生态颐养中心
 lakeview terrace:合法入侵
+lakeview township:莱克维尤镇区
 lakeview:莱克维尤
+lakeville township:萊克維爾鎮區
 lakeville:萊克維爾
 lakewood church located:湖木教会位于
 lakewood church weekend:湖木教会周末
 lakewood church:湖木教会
+lakewood park:萊克伍德公園
 lakewood road:萊克伍德路
 lakewood township:莱克伍德镇区
+lakewood township:萊克伍德鎮區
 lakewood:萊克伍德
 lakh:拉克
 lakha gompa:lākǎ sì
@@ -9559,11 +9651,13 @@ lakota freedom:拉科塔自由
 lakota history:拉科塔历史
 lakota language:拉科塔语
 lakota music:拉科塔音乐
+lakota mythology:拉科塔神话
 lakota nation invitation:拉科塔国家邀请
 lakota nation:拉科塔国家
 lakota noon:拉科塔中午
 lakota people:拉科塔人民
 lakota people:拉科塔族
+lakota sioux:拉科塔苏族
 lakota society:拉科塔社会
 lakota still:拉科塔仍然
 lakota tradition:拉科塔传统
@@ -9577,9 +9671,13 @@ lakota youth:拉科塔青年
 lakota:拉科塔
 lakou:腊口
 lakro:拉克罗
+laksa leaf:叻沙叶
+laksa leaf:叻沙葉
 laksa:叻沙
 laksam upazila:拉克沙姆乌帕齐拉
 laksar:拉克萨尔
+lakselv airport:拉克塞爾夫机场
+lakselv airport:拉克塞爾夫機場
 lakselv:拉克塞爾夫
 laksembɛg:lúsenbao
 laksembɛg:卢森堡
@@ -9976,6 +10074,7 @@ laliang:拉良
 lalianggeng:腊亮埂
 laliao:拉廖
 laliba:拉里巴
+lalibela airport:拉利貝拉機場
 lalibela:拉利貝拉
 lalie:拉烈镇
 lalijian:癞痢尖
@@ -9988,6 +10087,8 @@ lalin:lālín mǎnzú zhèn
 lalin:拉林
 lalin:拉林满族镇
 lalin:拉淋
+lalinde canal:拉兰德运河
+lalinde station:拉兰德站
 lalinde:拉兰德
 lalindu river:拉林都河
 laling:腊岭村
@@ -10534,6 +10635,7 @@ lamb began:羊羔开始
 lamb four:羊羔四
 lamb fries:羊睪丸
 lamb holm:小霍爾姆島
+lamb meat:羊羔肉
 lamb of god:天主的羔羊
 lamb peak:蘭布峰
 lamb point:拉姆角
@@ -10611,10 +10713,13 @@ lamberts peak:蘭伯特斯峰
 lambertsberg:兰伯茨贝格
 lambesc:朗贝斯克
 lambeth bluff:蘭貝斯海崖
+lambeth bridge:兰贝斯桥
 lambeth bridge:蘭貝斯橋
 lambeth children:兰贝斯儿童
 lambeth college:兰贝斯学院
 lambeth conference:蘭柏會議
+lambeth council:兰贝斯议会
+lambeth hospital:兰贝斯医院
 lambeth north tube station:蘭貝斯北站
 lambeth palace:兰柏宫
 lambeth walk rest garden:琳寶徑休憩花園
@@ -10701,6 +10806,7 @@ lament of the lamb:羔羊之歌
 lament:輓歌
 lamentin:拉芒坦
 lamentis:拉曼提斯
+lamerd airport:拉默爾德機場
 lamerd:拉默爾德
 lamerdingen:拉默丁根
 lamerikän:měiguó
@@ -10970,6 +11076,7 @@ lamp market penetration:灯市场渗透率
 lamp market potential:灯市场潜力
 lamp market:灯市场
 lamp means:灯意味着
+lamp moth:灯蛾
 lamp natural light:灯自然光
 lamp nearby:灯附近
 lamp nearly:灯几乎
@@ -11061,6 +11168,7 @@ lampaden:兰帕登
 lampadena speculigera:鏡炬燈魚
 lampades:拉姆帕德斯
 lampadioteuthis:灯魷
+lampang airport:南邦機場
 lampang hú:南邦府
 lampang hū:南邦府
 lampang province:南邦府
@@ -11112,6 +11220,7 @@ lamphu house:lampu house
 lamphun hú:南奔府
 lamphun hū:南奔府
 lamphun province:南奔府
+lamphun station:南奔站
 lamphun:南奔
 lamphun:南奔府
 lampi island marine national park:蘭皮島海洋國家公園
@@ -11186,8 +11295,10 @@ lamssid:莱姆西德
 lamta archaeological museum:蘭達考古博物館
 lamu archipelago:拉穆群島
 lamu county:拉穆郡
+lamu island:拉姆岛
 lamu island:拉穆島
 lamu language:拉姆语
+lamu west:拉姆西
 lamu:拉姆
 lamu:拉木
 lamu:拉目
@@ -11349,6 +11460,7 @@ lana motel:蘭娜汽車旅館
 lana mountain:拉纳山
 lana popham:布嫻妮
 lana:拉纳
+lanai airport:拉奈島機場
 lanai:拉奈島
 lanaja:拉纳哈
 lanak la:拉那克山口
@@ -11364,6 +11476,7 @@ lanarce:拉纳斯
 lanark all of these:拉纳克所有这些
 lanark blue:拉納克藍芝士
 lanark county:拉納克縣
+lanark county:拉纳克县
 lanark:拉纳克
 lanarkia:椎鳞鱼属
 lanarkite:黃鉛礦
@@ -11434,10 +11547,13 @@ lancashire fusiliers war memorial:兰开夏燧发枪团战争纪念碑
 lancashire insurance:蘭開夏保險
 lancashire landing cemetery:兰开夏登陆公墓
 lancashire road:蘭開夏道
+lancashire west:蘭開夏西
+lancashire wrestling:蘭開夏摔跤
 lancashire:蘭開夏
 lancashire:蘭開夏郡
 lancaster castle:蘭卡斯特城堡
 lancaster cathedral:蘭卡斯特主教座堂
+lancaster cathedral:蘭卡斯特大教堂
 lancaster county:蘭開斯特縣
 lancaster gate tube station:蘭開斯特門站
 lancaster hill:蘭開斯特山
@@ -11448,6 +11564,7 @@ lancaster pistol:蘭卡斯特手槍
 lancaster place:家蔚園
 lancaster railway station:蘭卡斯特站
 lancaster sound:兰开斯特海峡
+lancaster station:蘭卡斯特站
 lancaster township:兰开斯特镇区
 lancaster university management school and open university business school:兰卡斯特大学管理学院和开放大学商学院
 lancaster university management school:兰卡斯特大学管理学院
@@ -11556,6 +11673,7 @@ land according to:土地根据
 land acquisition and development:土地收购和开发
 land acquisition company:土地收购公司
 land acquisition:土地收购
+land act:柏林行动
 land activist:土地活动家
 land activity:陆地活动
 land administration and development:土地管理与发展
@@ -11923,6 +12041,7 @@ land baron:土地男爵
 land base:土地基地
 land base:陆地基地
 land battalion:陆地营
+land battle:柏林战役
 land battle:陆地战役
 land bay:蘭德灣
 land be:土地成为
@@ -11955,6 +12074,7 @@ land boundary issues:陆地边界问题
 land boundary with canada:陆地边界与加拿大
 land boundary:土地边界
 land boundary:陆地边界
+land brandenburg:柏林勃兰登堡
 land bridge into north america:陆桥进入北美洲
 land bridge into:陆桥进入
 land bridge:陆桥
@@ -11962,6 +12082,7 @@ land bureau:土地局
 land cable:陆地电缆
 land cadastre:土地地籍
 land campaign:土地战役
+land campaign:柏林战役
 land campaign:陆地战役
 land campus:土地校园
 land can also use:土地也能用
@@ -12005,6 +12126,7 @@ land concession:土地特许权
 land condition:土地条件
 land conditions:土地条件
 land conference:土地会议
+land conference:柏林会议
 land conflict:土地冲突
 land connection:陆地连接
 land connectivity:陆地连通
@@ -12029,6 +12151,7 @@ land costs:土地成本
 land council:土地委员会
 land council:土地理事会
 land council:土地议会
+land council:柏林议会
 land country:陆地国家
 land court of hawaiʻi:夏威夷州土地法院
 land court:土地法院
@@ -12137,6 +12260,7 @@ land due to:土地由于
 land east:土地东
 land easy:土地容易
 land economics:土地經濟
+land economics:土地經濟學
 land economics:土地经济学
 land economist:土地经济学家
 land economy and natural sciences:土地经济和自然科学
@@ -12225,6 +12349,7 @@ land has been:土地已经
 land has memory:土地有记忆
 land have been:土地已经
 land he:土地他
+land headquarters:柏林總部
 land health is our:土地健康是我们的
 land health report:土地健康报告
 land health:土地健康
@@ -12267,6 +12392,7 @@ land initiative:土地倡议
 land insects:陆地昆虫
 land institute:土地学院
 land institute:土地研究所
+land institute:柏林学院
 land insurance:土地保险
 land interaction project:陆地相互作用项目
 land interaction:陆地相互作用
@@ -12327,6 +12453,7 @@ land law:土地法
 land law:土地法律
 land laws:土地法律
 land league:土地联盟
+land league:柏林联盟
 land legal advice:土地法律咨询
 land legislation and land:土地立法和土地
 land legislation:土地立法
@@ -12484,6 +12611,7 @@ land of the leopard national park:豹岛国家公园
 land of the leopard national park:豹島國家公園
 land of the lustrous:寶石之國
 land of tomorrow:土地的明天
+land of:柏林的
 land offer:土地提供
 land office:土地办公室
 land officials:土地官员
@@ -12533,9 +12661,11 @@ land ownership transfer:土地所有权转让
 land ownership:土地所有权
 land parameter:陆地参数
 land park:土地公园
+land park:柏林公园
 land part:土地部分
 land partners:土地合作伙伴
 land partners:陆地合作伙伴
+land party:土地党
 land passengers:土地乘客
 land patronage:土地赞助
 land pattern:土地模式
@@ -12656,6 +12786,7 @@ land registration authority:土地登记处
 land registration project:土地注册项目
 land registration services:土地注册服务
 land registration:土地注册
+land registry:土地註冊處
 land reinstate:土地恢复
 land relation:土地关系
 land relationship:土地关系
@@ -12782,11 +12913,14 @@ land speed record:陸上速度記錄
 land speed records:陆地速度记录
 land speed:陆地速度
 land start:土地开始
+land station:柏林站
+land station:陆地站
 land statistic:土地统计
 land still:土地仍然
 land structure and wind:土地结构和风
 land structure:土地结构
 land studies:土地研究
+land subdivision:土地细分
 land suffer:土地遭受
 land suit:土地适合
 land support:土地支持
@@ -12840,6 +12974,8 @@ land tools:土地工具
 land top:地標網通
 land tourism:土地旅游
 land towards:陆地向
+land township:柏林鎮區
+land township:柏林镇区
 land training courses:陆地训练课程
 land training:土地培训
 land training:陆地训练
@@ -12874,6 +13010,7 @@ land und kreisfreie stadt:柏林
 land under me:土地下我
 land under:土地下
 land unicorn:陆地独角兽
+land union:柏林联盟
 land unit:土地单位
 land unit:陆地单位
 land until:土地直到
@@ -12952,7 +13089,9 @@ land use trend:土地利用趋势
 land use type and population density:土地利用类型和人口密度
 land use type:土地利用类型
 land use war:土地利用战争
+land use:土地使用
 land use:土地利用
+land uses:土地使用
 land usually:土地通常
 land value tax:地價稅
 land value-added tax:土地增值税
@@ -13094,6 +13233,8 @@ land-use:土地利用
 land:土地
 land:柏林
 land:陆地
+landa park:荷兰公园
+landa park:荷蘭公園
 landa:hélán
 landa:兰达
 landa:荷兰
@@ -13146,6 +13287,8 @@ landemont:朗德蒙
 landen allow:兰登允许
 landen boy:兰登男孩
 landen ridge:蘭登嶺
+landen stadium:伦敦体育场
+landen stadium:倫敦體育場
 landen:lúndūn
 landen:伦敦
 landen:倫敦
@@ -13194,6 +13337,7 @@ landfill space:堆填空间
 landfill tax:堆填稅
 landfill:堆填
 landfills in taiwan:臺灣垃圾掩埋場
+landform analysis:地形分析
 landform:地形
 landgraaf:兰赫拉夫
 landgraf agree:兰德格拉夫同意
@@ -13477,10 +13621,12 @@ landing services:登陆服务
 landing services:着陆服务
 landing ship medium:中型登陆舰
 landing ship:登陆船
+landing ship:着陆船
 landing signal:着陆信号
 landing site:登陆站点
 landing six:着陆六
 landing skills:着陆技巧
+landing slot:着陆槽
 landing software:登陆软件
 landing software:着陆软件
 landing soldier:登陆士兵
@@ -13541,6 +13687,7 @@ landing vehicle:登陆车辆
 landing vehicle:着陆车辆
 landing version:着陆版本
 landing vessel:登陆船
+landing vessel:着陆船
 landing was mankind:着陆是人类
 landing website:登陆网站
 landing weight:着陆重量
@@ -13655,6 +13802,7 @@ landmark development:地标发展
 landmark development:地标开发
 landmark diplomacy:地标外交
 landmark east:城東誌
+landmark education:地标教育
 landmark elections:地标选举
 landmark empire state building:地标帝国大厦
 landmark empire:地标帝国
@@ -13669,6 +13817,7 @@ landmark hotel:亮马河酒店
 landmark hotel:地标酒店
 landmark hotel:地標酒店
 landmark hotel:新莊客旅
+landmark hotel:置地廣場酒店
 landmark information:地标信息
 landmark is its:地标是它的
 landmark life plaza:置地生活廣場
@@ -13782,6 +13931,8 @@ landsat program:陸地衛星計畫
 landsbanki:冰岛国民银行
 landsberg am lech:莱希河畔兰茨贝格
 landsberg an der warthe:戈茹夫
+landsberg prison:兰茨贝格监狱
+landsberg prison:兰茨贝格監獄
 landsberg prison:蘭茨貝格監獄
 landsberg:兰茨贝格
 landsbergium:莱希河畔兰茨贝格
@@ -13875,6 +14026,7 @@ landscape architects and designer:景观建筑师和设计师
 landscape architects network:景观建筑师网络
 landscape architects:景观建筑师
 landscape architecture:景觀設計
+landscape architecture:景观建筑
 landscape architecture:景观建筑学
 landscape architecture:风景建筑学
 landscape area:景观面积
@@ -14001,6 +14153,7 @@ landscape fusion:风景融合
 landscape game:风景游戏
 landscape garden design:风景园林设计
 landscape garden:景观花园
+landscape genetics:景观遗传学
 landscape geography:景观地理
 landscape graduates:景观毕业生
 landscape grass:景观草
@@ -14013,6 +14166,7 @@ landscape have been:风景已经
 landscape heritage:景观遗产
 landscape heritage:风景遗产
 landscape historian:景观历史学家
+landscape history:景观历史
 landscape horticulture:景观园艺
 landscape hotel:景观酒店
 landscape i:景观我
@@ -14222,6 +14376,7 @@ landseer dog:蘭西爾犬
 landsgemeinde:州民大會
 landshuat:兰茨胡特
 landshut open:兰茨胡特开
+landshut university:兰茨胡特大学
 landshut:万楚特
 landshut:兰茨胡特
 landshutas:兰茨胡特
@@ -22500,6 +22655,7 @@ lane meter:延米
 lane motorway:車道高速公路
 lane plateau:萊恩高原
 lane position:車道位置
+lane sharing:車道共享
 lane snapper:巴哈馬笛鯛
 lane splitting:車道分割
 lane tire:車道輪胎
@@ -22580,7 +22736,9 @@ lang gia:琅琊区
 lang gia:琅琊區
 lang giang:諒江社
 lang giang:谅江社
+lang hancock:郎漢考克
 lang implementation:语言实现
+lang island:语言岛
 lang island:郎岛
 lang jiao ya she homestay:琅嶠雅舍民宿
 lang jingshan:郎靜山
@@ -22608,13 +22766,17 @@ lang mountain:郎山
 lang muang road:城后路
 lang nunatak:朗冰原島峰
 lang park:布里斯本體育場
+lang peak:郎峰
 lang phường:廊坊市
 lang ping said:郎平说
 lang ping:郎平
+lang plan:语言计划
+lang policy:语言政策
 lang river:làng hé
 lang river:浪河
 lang said:郎说
 lang says:郎说
+lang school:语言学校
 lang smile:郎微笑
 lang son province:諒山省
 lang son province:谅山省
@@ -22623,6 +22785,7 @@ lang son:諒山省
 lang son:谅山市
 lang son:谅山省
 lang sound:朗灣
+lang station:廊站
 lang suan district:朗萱县
 lang sword:郎剑
 lang tea:long caa
@@ -22695,6 +22858,7 @@ langao:langao xian
 langao:兰高镇
 langao:岚皋县
 langao:嵐皋縣
+langar airfield:兰格尔机场
 langar:兰干村
 langar:兰格尔
 langara college:蘭加拉學院
@@ -22835,6 +22999,7 @@ langenegg:朗根埃格
 langenenslingen:朗根恩斯林根
 langeng:拦埂
 langenhagen airport:朗根哈根机场
+langenhagen airport:朗根哈根機場
 langenhagen:朗根哈根
 langenhahn:朗根汉
 langenhogen:朗根哈根
@@ -22875,8 +23040,11 @@ langewiesen:朗格维森
 langezhuangcun:兰各庄村
 langfang economic and technological development area:廊坊经济技术开发区
 langfang north railway station:廊坊北站
+langfang north:廊坊北
 langfang railway station:廊坊站
 langfang stadium:廊坊体育场
+langfang stadium:廊坊市体育场
+langfang stadium:廊坊體育場
 langfang teachers college:廊坊师范学院
 langfang vocational & technical college (wen'an campus):廊坊职业技术学院（文安校区）
 langfang yanjing vocational technical college:燕京职业技术学院
@@ -23133,6 +23301,8 @@ langmuir became:朗缪尔成为
 langmuir cove:蘭米爾灣
 langmuir equation:朗缪尔方程
 langmuir laboratory for atmospheric research:朗繆爾大氣實驗室
+langmuir theory:朗缪尔理论
+langmuir wave:朗缪尔波
 langmuir:朗缪尔
 langmujia monastery:郎木加寺
 langmusi:lángmùsì zhèn
@@ -23167,6 +23337,7 @@ langoiran:朗瓜朗
 langolen:朗戈朗
 langolän:Āngēlā
 langolän:安哥拉
+langon station:朗贡站
 langon sur cher:谢尔河畔朗贡
 langon:朗贡
 langona:榔蛛属
@@ -23210,6 +23381,7 @@ langres cathedral:朗格勒主教座堂
 langres cheese:朗格勒奶酪
 langres plateau:朗格勒高原
 langres region:朗格勒地区
+langres station:朗格勒站
 langres:朗格勒
 langreská plošina:朗格勒高原
 langri:郎日
@@ -23910,6 +24082,7 @@ language challenge exam:语言挑战考试
 language challenge:语言挑战
 language challenges:语言挑战
 language change:語言變化
+language changes:语言变化
 language channel:语言通道
 language character set:语言字符集
 language characteristics:语言特性
@@ -23931,6 +24104,7 @@ language clinic:语言诊所
 language club:语言俱乐部
 language coach:语言教练
 language code:語言代碼
+language code:语言代码
 language cognition:語言認知
 language colleagues:语言同事
 language college:語言學院
@@ -24032,7 +24206,9 @@ language database:语言数据库
 language dataset:语言数据集
 language day:语言日
 language deal:语言处理
+language death:語言死亡
 language death:語言滅亡
+language death:语言死亡
 language debate:语言辩论
 language decision:语言决定
 language define:语言定义
@@ -24088,6 +24264,7 @@ language diploma:语言文凭
 language direction:语言方向
 language discrimination:语言歧视
 language discussion:语言讨论
+language disorder:语言混乱
 language display and data:语言显示和数据
 language display:语言显示
 language distribution:语言分布
@@ -24110,6 +24287,7 @@ language editor:语言编辑器
 language education institue:语言教育中心
 language education institue:语言教育中心 cj 语言中心
 language education:語言教育
+language education:语言教育
 language effect:语言效果
 language efficiency:语言效率
 language element class:语言元素类
@@ -24177,6 +24355,7 @@ language families:语言家庭
 language family:语言系属分类
 language features:语言特征
 language features:语言特点
+language federation:语言联盟
 language fiction:语言小说
 language field:语言字段
 language field:语言领域
@@ -24223,6 +24402,8 @@ language functions:语言功能
 language fund:语言基金
 language gallery:语言画廊
 language game:語言遊戲
+language game:语言游戏
+language games:语言游戏
 language geek:语言极客
 language gene:语言基因
 language generation and object:语言生成和对象
@@ -24232,6 +24413,8 @@ language generation:语言生成
 language generator:语言生成器
 language genius:语言天才
 language geography:地理語言學
+language geography:语言地理
+language geography:语言地理学
 language give:语言给
 language global:語言全球
 language glyph:语言字形
@@ -24436,6 +24619,7 @@ language is vital:語言是重要的
 language is water:语言是水
 language is wealth:语言是财富
 language is you:语言是你
+language island:語言岛
 language island:语言岛
 language isolate:孤立语言
 language issue:语言问题
@@ -24456,6 +24640,7 @@ language law:语言法律
 language laws:語言法律
 language layer currently:语言层目前
 language layer:语言层
+language learning:语言学习
 language legislation in belgium:比利時語言立法
 language lesson:语言课程
 language let us:语言让我们
@@ -24481,6 +24666,7 @@ language list:语言列表
 language literature:语言文学
 language lizard:语言蜥蜴
 language localisation:语言本地化
+language localization:語言本土化
 language log:語言日志
 language log:语言日志
 language logic:语言逻辑
@@ -24525,6 +24711,10 @@ language mix:語言混合
 language mix:语言混合
 language mode:语言模式
 language model:語言模型
+language model:语言模型
+language modeling:语言建模
+language models:語言模型
+language models:语言模型
 language module:語言模塊
 language module:語言模組
 language module:语言模块
@@ -24539,6 +24729,7 @@ language name:语言名称
 language need:语言需要
 language needs:語言需要
 language needs:语言需要
+language nest:語言巢
 language nest:语言巢
 language network:语言网络
 language networks:语言网络
@@ -24715,6 +24906,7 @@ language policy in taiwan during martial law:國語政策
 language policy of france:法国语言政策
 language policy:語言政策
 language policy:语言政策
+language politics:語言政治
 language politics:语言政治
 language pollution:语言污染
 language portion:语言部分
@@ -24765,6 +24957,7 @@ language publicity service platforms:语言宣传服务平台
 language publicity:语言宣传
 language publisher:语言出版商
 language purge:语言清除
+language purism:語言純粹主義
 language quality assurance tools:语言质量保证工具
 language quality assurance:语言质量保证
 language quality check:语言质量检查
@@ -24781,6 +24974,7 @@ language reach:语言达到
 language real:语言真的
 language recognize:语言识别
 language recommend:语言建议
+language reconstruction:語言重建
 language reconstruction:语言重建
 language records:语言记录
 language reference center:语言参考中心
@@ -24824,6 +25018,7 @@ language resource centre:语言资源中心
 language resource files:语言资源文件
 language resource package:语言资源包
 language resource:语言资源
+language resources:语言资源
 language restriction:語言限制
 language restriction:语言限制
 language reveal:语言揭示
@@ -24857,6 +25052,7 @@ language school was established in:语言学校成立于
 language school was founded in:语言学校成立于
 language school who:语言学校谁
 language school:语言学校
+language schools:语言学校
 language science press:语言科学出版社
 language science:语言科学
 language scientists:语言科学家
@@ -24871,6 +25067,7 @@ language select:语言选择
 language selection menu:语言选择菜单
 language selection screen:语言选择屏幕
 language selection:语言选择
+language semantics:语言语义学
 language sentence:语言句子
 language sequence:语言序列
 language server protocol:語言伺服器協定
@@ -25018,6 +25215,8 @@ language technologies institute:语言技术学院
 language technologies institute:语言技术研究所
 language technologies:语言技术
 language technology:語言技術
+language technology:語言科技
+language technology:语言技术
 language television network:语言电视网络
 language television:语言电视
 language tell:语言告诉
@@ -25092,7 +25291,10 @@ language training tools:语言培训工具
 language training:语言培训
 language training:语言训练
 language trait:语言特征
+language transfer:語言轉移
 language transfer:語言遷移
+language transfer:语言转移
+language transfer:语言迁移
 language translation algorithm:语言翻译算法
 language translation and real-time:语言翻译和实时
 language translation application:语言翻译应用程序
@@ -25160,6 +25362,7 @@ language usually:語言通常
 language utility:语言工具
 language vacation:语言度假
 language value:语言值
+language variety:语言多样性
 language vendor:语言供应商
 language version of wiki:语言版本的维基
 language version updates:语言版本更新
@@ -25731,6 +25934,7 @@ langxi river:浪溪河
 langxi river:郎川河
 langxi road viaduct:郎溪路高架
 langxi road:蓢溪路
+langxi south:郎溪南
 langxi xian:郎溪
 langxi xian:郎溪县
 langxi xian:郎溪縣
@@ -25773,9 +25977,11 @@ langya commandery:琅邪郡
 langya district:琅琊区
 langya district:琅琊區
 langya henipavirus:瑯琊病毒
+langya mountain:琅琊山
 langya shan:琅琊山
 langya shan:瑯琊山
 langya temple:琅琊寺
+langya virus:琅琊病毒
 langya:琅琊
 langya:琅琊区
 langya:琅琊區
@@ -25811,6 +26017,8 @@ langzhi rd:朗致路
 langzhong city:lángzhōng shì
 langzhong city:閬中市
 langzhong city:阆中市
+langzhong county:朗中县
+langzhong county:阆中县
 langzhong gucheng airport:阆中古城机场
 langzhong:làngzhōng shì
 langzhong:朗中
@@ -25993,6 +26201,7 @@ lankao county:蘭考縣
 lankao railway station:兰考站
 lankao service area:兰考服务区
 lankao south railway station:兰考南站
+lankao south:兰考南
 lankao:lankao xian
 lankao:兰考
 lankao:兰考县
@@ -26066,6 +26275,7 @@ lanloup:朗卢
 lanlu:兰炉
 lanma village:栏马村
 lanma:拦马
+lanmadaw township:兰玛多镇区
 lanmadaw township:蘭瑪多鎮區
 lanmadaw:兰玛多
 lanmadaw:兰玛多镇区
@@ -26102,6 +26312,8 @@ lannea:厚皮树属
 lannebert:拉讷贝尔
 lannecaube:拉讷科布
 lannemaignan:拉讷迈尼昂
+lannemezan plateau:拉讷默藏高原
+lannemezan station:拉讷默藏站
 lannemezan:拉讷默藏
 lannepax:拉讷帕克斯
 lanner falcon:地中海隼
@@ -26128,6 +26340,8 @@ lannigoucun:烂泥沟村
 lanniji:烂泥基
 lannilis:拉尼利斯
 lannilong:烂泥垄
+lannion airfield:拉尼永机场
+lannion airport:拉尼永机场
 lannion station:拉尼永站
 lannion:拉尼永
 lanniqing shan:烂泥箐山
@@ -26218,6 +26432,7 @@ lanqing 1st road middle:澜清一路中
 lanqing 1st road:澜清一路
 lanqing 2nd road:澜清二路
 lanqing 3rd road:澜清三路
+lanqing railway:兰青铁路
 lanqing:兰青
 lanqing:兰青乡
 lanqing:烂箐
@@ -26258,8 +26473,10 @@ lansdowne reef:琼礁
 lansdowne road:蘭士登路球場
 lansha yang:爛沙洋
 lanshan county:lánshān xiàn
+lanshan county:兰山县
 lanshan county:蓝山县
 lanshan county:藍山
+lanshan county:藍山县
 lanshan county:藍山縣
 lanshan district:lánshān qū
 lanshan district:兰山区
@@ -26273,6 +26490,8 @@ lanshan ic:岚山立交
 lanshan interchange:蓝山互通
 lanshan service area:蓝山服务区
 lanshan village:榄山村
+lanshan west:岚山西
+lanshan west:嵐山西
 lanshan xian:lánshān xiàn
 lanshan xian:蓝山县
 lanshan xian:藍山
@@ -26332,6 +26551,7 @@ lanshuixu:岚水圩
 lanshuping:兰树坪
 lansing house:聯成大廈
 lansing township:兰辛镇区
+lansing township:蘭辛鎮區
 lansing:兰辛
 lansing:蘭辛
 lansingerland:兰辛厄兰
@@ -26383,7 +26603,9 @@ lantau international school:大屿山国际学校
 lantau international school:大嶼山國際學校
 lantau island ha keng pier:大嶼山下徑碼頭
 lantau island:大屿山
+lantau island:大屿山岛
 lantau island:大嶼山
+lantau island:大嶼山島嶼
 lantau link bbi:青嶼幹線轉車站
 lantau link bus-bus interchange:青嶼幹線巴士轉乘站
 lantau link bus-bus interchange:青嶼幹線轉車站
@@ -26438,6 +26660,8 @@ lantern art:灯笼艺术
 lantern business:灯笼生意
 lantern ceiling:灯笼天花板
 lantern design:灯笼设计
+lantern entertainment:灯笼娛樂
+lantern entertainment:灯笼娱乐
 lantern entertainment:燈籠娛樂
 lantern festival celebration:元宵节庆祝
 lantern festival in london:元宵节在伦敦
@@ -26456,6 +26680,9 @@ lantern parade:灯笼游行
 lantern shield:複合盾
 lantern skylight:灯笼天窗
 lantern tent:灯笼帐篷
+lantern tower:灯笼塔
+lantern towers:灯笼塔
+lantern tree:灯笼树
 lantern village:灯笼村
 lantern:灯笼
 lanternfish:燈籠魚科
@@ -26613,6 +26840,7 @@ lanty sur aube:奥布河畔朗蒂
 lantšhuthi rajoon:蘭奇胡蒂市
 lantškhutin piirikunta:蘭奇胡蒂市
 lanugo:毫毛
+lanusei cathedral:拉努塞伊主教座堂
 lanusei:拉努塞伊
 lanusse bay:拉努塞灣
 lanusè:拉努塞伊
@@ -26663,6 +26891,7 @@ lanxess strengthen:朗盛加强
 lanxess will produce:朗盛将生产
 lanxess:朗盛
 lanxi county:lánxī xiàn
+lanxi county:兰溪县
 lanxi county:兰西县
 lanxi county:蘭西縣
 lanxi creek:兰溪
@@ -26840,16 +27069,21 @@ lanzhou bluestar chemical company:兰州蓝星有限公司（化工分厂）
 lanzhou campaign:兰州战役
 lanzhou center north street:yīn guāng shāng yè jiē
 lanzhou east railway station:兰州东站
+lanzhou east:兰州东
 lanzhou fireworks factory:兰州烟花厂
+lanzhou hailu:兰州海陆
 lanzhou hand pulled noodles:九牛兰州拉面
 lanzhou jiaotong university:兰州交通大学
 lanzhou junior high school:兰州国中
 lanzhou junior high school:蘭州國中
 lanzhou ls group:兰石集团工业园区
 lanzhou lu:揽洲路
+lanzhou marathon:兰州马拉松
+lanzhou metro:兰州地铁
 lanzhou metro:兰州轨道交通
 lanzhou military region:中国人民解放军兰州军区
 lanzhou modern vocational college:兰州现代职业学院
+lanzhou museum:兰州市博物馆
 lanzhou new area coach terminal:兰州新区客运站
 lanzhou new area government:兰州新区政府
 lanzhou new area no.1 primary school:兰州新区第一小学
@@ -26880,7 +27114,9 @@ lanzhou street:蘭州街
 lanzhou subterranean river:连州地下河
 lanzhou university of technology:兰州理工大学
 lanzhou university:兰州大学
+lanzhou university:兰州大學
 lanzhou west railway station:兰州西站
+lanzhou west:兰州西
 lanzhou xinqu railway station:兰州新区站
 lanzhou zhongchuan international airport:兰州中川国际机场
 lanzhou:lánzhōu
@@ -26935,9 +27171,15 @@ lao ai:嫪毐
 lao airlines:老撾航空
 lao alley:老街
 lao an:劳安
+lao aviation:寮國航空
+lao aviation:老挝航空
+lao aviation:老撾航空
 lao ban soya beancurd:老伴豆花
 lao bian dumplings:老边饺子
 lao bian dumplings:老邊餃子
+lao buddhism:寮國佛教
+lao buddhism:老挝佛教
+lao buddhism:老撾佛教
 lao bảo commune:牢堡社
 lao cai international border gate administration centre:老街关闸管理中心
 lao cai province central square:老街省中央广场
@@ -26961,8 +27203,11 @@ lao feng xiang:老凤祥银楼
 lao feng xiang:老鳳祥
 lao feng xiang:老鳳祥銀樓
 lao football federation:老撾足球協會
+lao french:老挝法语
 lao front for national development:老挝建国阵线
 lao gan ma:老干妈
+lao government:寮國政府
+lao government:老挝政府
 lao issara:寮國自由民族統一戰線
 lao jianfeng:劳剑峰
 lao jufeng:老聚丰
@@ -26978,6 +27223,7 @@ lao mao:老猫
 lao mei elementary school:老梅國小
 lao miao jewelry:老庙黄金
 lao mong hay:刘蒙海
+lao music:老挝音乐
 lao name:寮語人名
 lao national radio:老挝国家广播电台
 lao national television:老挝国家电视台
@@ -26999,6 +27245,7 @@ lao people's revolutionary party:老挝人民革命党
 lao people's revolutionary youth union:老挝人民革命青年团
 lao people:佬族
 lao petrol & chemistry company limited:老挝石油化工股份有限公司
+lao police:老撾警察
 lao qûlûût:新朝立吐
 lao river:lǎo hé
 lao river:潦河
@@ -27420,6 +27667,7 @@ laoguanchencun:老官陈村
 laoguanchong:老观冲
 laoguanchong:老贯冲
 laoguancun station:老关村站
+laoguancun station:老關村站
 laoguancun:老关村
 laoguancun:老观村
 laoguancun:老關村
@@ -27569,6 +27817,7 @@ laohuqing:老虎箐
 laohuquan:老虎圈村
 laohuquangoumen:老虎圈沟门
 laohuquanzi xigou:老虎圈子西沟
+laohushan culture:老虎山文化
 laohushan ecological park:老虎山生态公园
 laohushan tunnel:老虎山隧道
 laohushan:lǎohǔshān
@@ -27695,6 +27944,7 @@ laojizhai:老集寨乡
 laojizhuang:老冀庄
 laojizhuangcun:老冀庄村
 laoju:老居
+laojun mountain:老君山
 laojun tunnel:青蘭高速
 laojun:lǎojūn xiāng
 laojun:老军
@@ -27920,6 +28170,7 @@ laomuying:老母营
 laomuzeng:老母增
 laomuzhu dingzi:老母猪顶子
 laon cathedral:拉昂圣母大教堂
+laon cathedral:拉昂大教堂
 laon station:拉昂站
 laon:拉昂
 laonian tunnel:老碾隧道
@@ -28147,6 +28398,7 @@ laos climate:老挝气候
 laos company:老挝公司
 laos country manager:老挝国家经理
 laos country:老挝国家
+laos crisis:老撾危機
 laos culture:老挝文化
 laos currently:老挝目前
 laos customs:老挝海关
@@ -28170,6 +28422,7 @@ laos landing companies:老挝登陆公司
 laos landing:老挝登陆
 laos last year:老挝去年
 laos launch:老挝发射
+laos memorial:老挝纪念碑
 laos military base:老挝军事基地
 laos military:老挝军事
 laos more than five:老挝超过五
@@ -28200,6 +28453,7 @@ laos orient international hospital:老挝东方国际医院
 laos own:老挝拥有
 laos people:老挝民
 laos plans:老挝计划
+laos police:老撾警察
 laos population:老挝人口
 laos prime minister:老挝总理
 laos project:老挝项目
@@ -28209,6 +28463,7 @@ laos says:老挝说
 laos solid:老挝固体
 laos solidarity:老挝团结
 laos suffer:老挝遭受
+laos time:老挝时间
 laos tourism:老挝旅游
 laos visit:老挝访问
 laos war:老挝战争
@@ -28464,6 +28719,7 @@ laotian:老田
 laotian:醪田镇
 laotiancun:老田村
 laotiandong:老田洞
+laotianliao river:老田寮河
 laotianliao river:老田寮溪
 laotianliao:老田寮
 laotianping:老天坪
@@ -29289,6 +29545,7 @@ lapparentosaurus:拉伯龍屬
 lappeenrannan rautatieasema:拉彭蘭塔火車站
 lappeenrannan vesitorni:拉彭蘭塔水塔
 lappeenranta airport:拉彭兰塔机场
+lappeenranta airport:拉彭蘭塔機場
 lappeenranta area:拉彭兰塔地区
 lappeenranta area:拉彭兰塔面积
 lappeenranta business school:拉彭兰塔商学院
@@ -29547,6 +29804,7 @@ laptop:笔记本电脑
 laptop:筆記型電腦
 laptyev-tenger:拉普捷夫海
 lapu lapu city:拉普拉普市
+lapu lapu:拉普拉普
 lapu:lā pǔ
 lapu:拉普
 lapu:拉普村
@@ -37233,6 +37491,7 @@ larkana district:拉尔卡纳县
 larkana:拉爾卡納
 larkin bus terminal:拉庆中央车站
 larkin sentral:拉庆中央车站
+larkin stadium:拉庆体育场
 larkin:拉庆
 larkman nunatak:拉克曼冰原島峰
 larkspur (colorado):拉克斯珀 (科罗拉多州)
@@ -37930,6 +38189,7 @@ laser control panel:激光控制面板
 laser control software:激光控制软件
 laser control systems:激光控制系统
 laser control:激光控制
+laser cooling:激光冷却
 laser cooling:雷射冷卻
 laser core technology:激光核心技术
 laser core:激光核心
@@ -37982,7 +38242,9 @@ laser devices:激光设备
 laser diameter:激光直径
 laser diffraction particle size analysis:激光衍射粒度分析
 laser diffraction:激光衍射
+laser diode:激光二极管
 laser diode:激光二極管
+laser diode:激光二極體
 laser disco:激光迪斯科
 laser disk:激光磁盘
 laser displacement:激光位移
@@ -37994,6 +38256,8 @@ laser distance sensor:激光距离传感器
 laser distance:激光距离
 laser dot:激光点
 laser drill:激光钻孔
+laser dye:激光器染料
+laser dye:激光染料
 laser dynamics:激光器动力学
 laser effect:激光作用
 laser effect:激光效果
@@ -38657,6 +38921,7 @@ lashiluo reservoir:拉石洛水库
 lashiluoluoke:拉市洛洛科
 lashiluolvcan:拉市洛虑灿
 lashio airport:腊戌机场
+lashio airport:腊戍机场
 lashio airport:臘戌機場
 lashio airport:臘戍機場
 lashio bar:腊戌酒吧
@@ -38671,6 +38936,7 @@ lashio railway station:臘戍車站
 lashio town:腊戍镇
 lashio township:腊戌镇区
 lashio township:腊戍镇区
+lashio township:臘戍镇区
 lashio:腊戌
 lashio:腊戍
 lashio:臘戌
@@ -38756,6 +39022,7 @@ laskar point:拉斯卡爾角
 laskaris:拉斯卡里斯家族
 laskaževa:瓦斯卡熱夫
 lasker award:拉斯克奖
+lasker awards:拉斯克奖
 lasker began:拉斯克开始
 lasker clinical medical research:拉斯克临床医学研究
 lasker clinical:拉斯克临床
@@ -38764,6 +39031,7 @@ lasker medical research awards:拉斯克医学研究奖
 lasker medical research:拉斯克医学研究
 lasker medical-research awards:拉斯克医学研究奖
 lasker medical-research:拉斯克医学研究
+lasker prize:拉斯克奖
 lasker:拉斯克
 laski:利斯基
 laskivtsi:拉斯基夫齊
@@ -39215,6 +39483,7 @@ last hydrogen:最后的氢
 last ice:最后的冰
 last iceberg:最后的冰山
 last ideal:最后的理想
+last idol:最后的偶像
 last idol:最後的偶像
 last importance:最后的重要性
 last impression:最后的印象
@@ -39242,6 +39511,7 @@ last investor:最后的投资者
 last investors:最后的投资者
 last invitation:最后的邀请
 last island:最后的岛屿
+last issue:最后的问题
 last issues:最后的问题
 last jack:最后的杰克
 last jedi:最后的絕地
@@ -40485,10 +40755,12 @@ latakia international airport:拉塔基亚国际机场
 latakia kormányzóság:拉塔基亚省
 latakia kormányzóság:拉塔基亞
 latakia province:拉塔基亚省
+latakia province:拉塔基亞省
 latakia region:拉塔基亚地区
 latakia séng:拉塔基亚省
 latakia séng:拉塔基亞
 latakia university:拉塔基亚大学
+latakia university:拉塔基亞大學
 latakia-guvernementet:拉塔基亚省
 latakia-guvernementet:拉塔基亞
 latakia:拉塔基亚
@@ -40824,6 +41096,8 @@ lateral ventricles:侧脑室
 laterality:偏側性
 lateralization of brain function:脑功能侧化
 laterallus:南美田鸡属
+lateran baptistery:拉特朗洗禮堂
+lateran cathedral:拉特朗大教堂
 lateran obelisk:拉特蘭方尖碑
 lateran palace:拉特朗宫
 lateran treaty:拉特朗条约
@@ -41301,6 +41575,7 @@ latfiya:拉脱维亚 / 拉脫維亞
 latgale planning region:拉特加爾計畫區
 latgale:拉特加爾
 latgalian language:拉特加萊語
+latha township:拉达镇区
 latha township:拉達鎮區
 latha:拉达
 latha:拉达镇区
@@ -41354,6 +41629,7 @@ latin academy:拉丁语学院
 latin accent:拉丁语口音
 latin acid:拉丁语酸
 latin adjective:拉丁语形容词
+latin alliance:拉丁语联盟
 latin alphabet contain:拉丁语字母包含
 latin alphabet:拉丁文字母
 latin alphabet:拉丁语字母
@@ -41596,6 +41872,7 @@ latin from:拉丁语从
 latin grammar error:拉丁语语法错误
 latin grammar:拉丁文语法
 latin grammar:拉丁语语法
+latin grammars:拉丁语语法
 latin grammy awards:拉丁格莱美奖
 latin grillhouse:拉丁餐厅
 latin honors:拉丁文學位榮譽
@@ -41606,9 +41883,12 @@ latin is better:拉丁语是更好的
 latin keyboard:拉丁语键盘
 latin languages:拉丁文语言
 latin league:拉丁同盟
+latin league:拉丁语联盟
 latin learning:拉丁语学习
 latin legend:拉丁语传说
 latin lesson:拉丁语课程
+latin letter:拉丁文字母
+latin letter:拉丁语字母
 latin literature:古罗马文学
 latin literature:拉丁语文学
 latin male:拉丁文男性
@@ -41642,6 +41922,7 @@ latin patriarchate of alexandria:拉丁禮亞歷山大宗主教列表
 latin patriarchate of constantinople:拉丁禮君士坦丁堡宗主教列表
 latin patriarchate of jerusalem:天主教耶路撒冷宗主教區
 latin phonology and orthography:拉丁语发音
+latin phrase:拉丁文短语
 latin phrase:拉丁语短语
 latin please:拉丁文请
 latin poetry and prose:拉丁语诗歌和散文
@@ -41651,7 +41932,9 @@ latin poetry:拉丁语诗歌
 latin pop:拉丁流行
 latin prayer:拉丁语祈祷
 latin prefix:拉丁语前缀
+latin prose:拉丁文散文
 latin proverb:拉丁文谚语
+latin proverb:拉丁语谚语
 latin publication:拉丁文出版物
 latin quarter:拉丁区
 latin report:拉丁文報告
@@ -41663,6 +41946,8 @@ latin scholar:拉丁文学者
 latin scholar:拉丁语学者
 latin school at ghent:拉丁学校在根特
 latin school:拉丁学校
+latin school:拉丁文学校
+latin schools:拉丁文学校
 latin script continues:拉丁字母继续
 latin script has been:拉丁字母已经
 latin script:拉丁字母
@@ -41677,6 +41962,7 @@ latin suffix:拉丁文后缀
 latin suffix:拉丁语后缀
 latin support:拉丁文支持
 latin support:拉丁语支持
+latin syntax:拉丁语语法
 latin system:拉丁语系统
 latin teacher:拉丁文教师
 latin teacher:拉丁语教师
@@ -41713,6 +41999,7 @@ latin vulgate:拉丁文武加大译本
 latin vulgate:拉丁语武加大译本
 latin was better:拉丁语是更好的
 latin wikipedia:拉丁語維基百科
+latin wikisource:拉丁语维基文库
 latin word:拉丁文单词
 latin word:拉丁语单词
 latin work:拉丁语工作
@@ -41877,6 +42164,7 @@ latsjameer:拉查湖
 lattainville:拉坦维尔
 lattakia governorate:拉塔基亚省
 lattakia governorate:拉塔基亞
+lattakia university:拉塔基亚大学
 lattakia:拉塔基亚
 lattaquié:拉塔基亚
 lattara:拉特
@@ -41897,6 +42185,8 @@ latter seven masters:後七子
 lattice constant:晶格常數
 lattice energy:晶格能
 lattice gas automaton:格子气自动机
+lattice graph:栅格图形
+lattice graphs:栅格图形
 lattice multiplication:格子乘法
 lattice reduction:格规约
 lattice:栅格
@@ -41910,6 +42200,7 @@ latunying:拉屯营
 latuo:拉托
 latuoyi:拉妥一村
 latur district:拉杜爾縣
+latur earthquake:拉杜爾地震
 latur:拉杜爾
 latveja:lātuōwéiyà
 latveja:拉脫維亞
@@ -42177,6 +42468,7 @@ lau kar leung:劉家良
 lau kar wing:劉家榮
 lau kata kati:蝴蝶跳棋
 lau king house:柳景閣
+lau king:老挝国王
 lau kong wah:劉江華
 lau kwok fan:劉國勳
 lau lee yuen haan amenities building:刘李婉娴康乐楼
@@ -42297,6 +42589,7 @@ laufach:劳法赫
 laufbacher eck:勞夫巴赫爾埃克山
 laufeia:劳蛛属
 laufeld:劳费尔德
+laufen castle:勞芬城堡
 laufen:勞芬
 laufersweiler:劳弗斯韦勒
 lauff island:勞夫島
@@ -42583,6 +42876,7 @@ laukkaing hospital:老街医院
 laukkaing hospital:老街醫院
 laukkaing township:老街区
 laukkaing township:老街區
+laukkaing township:老街鎮區
 laukkaing township:老街镇区
 laukkaing:老街
 laukuva:勞庫瓦
@@ -42595,6 +42889,7 @@ launaea sarmentosa:匐枝栓果菊
 launaea:栓果菊属
 launaguet:洛纳盖
 launay villiers:洛奈维利耶
+launceston airport:朗塞斯顿机场
 launceston castle:朗塞斯頓城堡
 launceston:朗塞斯顿
 launcestoni vár:朗塞斯頓城堡
@@ -42955,6 +43250,7 @@ launch spacecraft:发射宇宙飞船
 launch spacecraft:发射航天器
 launch specialized:发射专门的
 launch speed:发射速度
+launch speed:发射速率
 launch state:发射状态
 launch station:发射站
 launch strategy:发射策略
@@ -43034,6 +43330,7 @@ launch vehicle systems:运载火箭系统
 launch vehicle technologies:运载火箭技术
 launch vehicle technology:运载火箭技术
 launch vehicle would:运载火箭将
+launch vehicle:发射载具
 launch vehicle:运载火箭
 launch vessel:发射船
 launch video:发射视频
@@ -43172,6 +43469,7 @@ laundry workers:洗衣工人
 laundry:洗衣
 laundry:洗衣房
 laundryup:洗得喜
+launglon township:浪弄鎮區
 launglon township:浪弄镇区
 launglon:浪弄
 launois sur vence:旺斯河畔洛努瓦
@@ -43219,6 +43517,7 @@ laurelia:智利桂屬
 laurels industrial centre:泰力工業中心
 lauren court:利源閣
 laurenan:洛尔南
+laurenburg castle:劳伦堡城堡
 laurenburg:劳伦堡
 laurence sickman:史克门
 laurence yep:叶祥添
@@ -43281,6 +43580,7 @@ laus:老撾
 lausana:洛桑
 lausanne actually:洛桑实际上
 lausanne agreement:洛桑协议
+lausanne airfield:洛桑机场
 lausanne airport:洛桑机场
 lausanne and basel:洛桑和巴塞尔
 lausanne and bern:洛桑和伯尔尼
@@ -43289,6 +43589,7 @@ lausanne and montreux:洛桑和蒙特勒
 lausanne and zurich:洛桑和苏黎世
 lausanne avenue:洛森大道
 lausanne business school:洛桑商学院
+lausanne cathedral:洛桑主教座堂
 lausanne cathedral:洛桑大教堂
 lausanne committee:洛桑委員會
 lausanne conference:洛桑会议
@@ -43306,8 +43607,11 @@ lausanne international ballet:洛桑国际芭蕾舞
 lausanne international:洛桑国际
 lausanne is located in:洛桑位于
 lausanne laboratory:洛桑实验室
+lausanne marathon:洛桑马拉松
 lausanne mayor:洛桑市长
+lausanne metro:洛桑地铁
 lausanne palace:洛桑宫殿
+lausanne protocol:洛桑协议
 lausanne railway station:洛桑车站
 lausanne school:洛桑學派
 lausanne summer conference:洛桑夏季会议
@@ -43318,6 +43622,7 @@ lausanne this week:洛桑本周
 lausanne treaty:洛桑条约
 lausanne underground:洛桑地下
 lausanne university hospital:洛桑大学医院
+lausanne university:洛桑大学
 lausanne university:洛桑大學
 lausanne west:洛桑西
 lausanne youth olympics:洛桑青年奥运会
@@ -43423,6 +43728,7 @@ lautaro:莱夫扎茹
 lautenbachzell:洛滕巴克泽勒
 lauteraarhorn:勞特阿爾峰
 lauterach:勞特阿赫
+lauterbourg station:洛泰堡站
 lauterbourg:洛泰堡
 lauterbrunnen railway station:劳特布伦嫩站
 lauterbrunnen valley:劳特布伦嫩谷地
@@ -43499,6 +43805,7 @@ lava event:熔岩事件
 lava field:熔岩平原
 lava fill:熔岩填充
 lava flow:熔岩流动
+lava fountain:熔岩噴泉
 lava from:熔岩从
 lava has been:熔岩已经
 lava hell:熔岩地狱
@@ -43520,7 +43827,9 @@ lava or steam:熔岩或蒸汽
 lava outbreak accelerate:熔岩爆发加速
 lava outbreak:熔岩爆发
 lava particle:熔岩粒子
+lava plain:熔岩平原
 lava planet:熔岩行星
+lava plateau:熔岩高原
 lava point:熔岩点
 lava reach:熔岩达到
 lava river:熔岩河
@@ -43556,6 +43865,7 @@ lavagna says:拉瓦尼亚说
 lavagna:拉瓦尼亚
 lavagno:拉瓦尼奥
 laval atger:拉瓦阿特热
+laval castle:拉瓦勒城堡
 laval cathedral:拉瓦勒主教座堂
 laval d'aix:拉瓦勒代克斯
 laval d'aurelle:拉瓦勒多雷勒
@@ -43571,6 +43881,7 @@ laval sur doulon:杜隆河畔拉瓦勒
 laval sur tourbe:图尔布河畔拉瓦勒
 laval sur vologne:沃洛涅河畔拉瓦勒
 laval university:拉瓦勒大学
+laval university:拉瓦尔大学
 laval:拉瓦勒
 laval:拉瓦尔
 laval:拉瓦尔市
@@ -44186,11 +44497,14 @@ law city:法律城市
 law class:法律类
 law class:法律课程
 law clerk:律政書記
+law clerk:法律文員
 law clinic blog:法律诊所博客
+law clinic:法律診所
 law clinic:法律诊所
 law code:法律代码
 law colleague:法律同事
 law college:法律学院
+law college:法律學院
 law come:法律来
 law committee and relevant:法律委员会和有关的
 law committee chairman:法律委员会主席
@@ -44250,6 +44564,7 @@ law diploma:法律文凭
 law dis order:律政強人
 law disciplines:法律学科
 law discrimination:法律歧视
+law doctorate:法律博士
 law documents:法律文件
 law does:法律做
 law dome:羅穹
@@ -44450,6 +44765,7 @@ law is stable:法律是稳定的
 law is static:法律是静态的
 law is unfair:法律是不公平的
 law is wrong:法律是错的
+law issue:法律问题
 law issues and court:法律问题和法院
 law issues:法律问题
 law jobs:法律工作
@@ -44476,6 +44792,7 @@ law let me sleep:法律让我睡眠
 law let:法律让
 law library and information:法律图书馆和信息
 law library:法律图书馆
+law library:法律圖書館
 law license:法律许可证
 law like:法律喜欢
 law limit:法律限制
@@ -45029,6 +45346,7 @@ law suyu:寮國
 law suyu:老挝
 law suyu:老挝 / 寮國
 law suyu:老撾
+law system:法律系統
 law system:法律系统
 law tag:法律标签
 law tax cut:法律减税
@@ -45164,6 +45482,7 @@ lawa ng taal:tǎā'ěrhú
 lawa ng taal:塔阿尔湖
 lawa ng taal:塔阿爾湖
 lawa people:拉威族
+lawa river:拉瓦河
 lawa tunnel:拉哇隧道
 lawa:拉哇
 lawa:拉瓦
@@ -45180,7 +45499,10 @@ lawapa:岡巴拉
 lawar:拉瓦尔恩普
 lawarde mauger l'hortoy:拉瓦德莫日洛图瓦
 lawarxi:拉瓦西村
+lawas airport:老挝机场
+lawas airport:老越机场
 lawas district:老越县
+lawas river:老越河
 lawas training centre:老越培训中心
 lawas training:老越培训
 lawas:liáo guó
@@ -45320,6 +45642,7 @@ lawrence conference:劳伦斯会议
 lawrence continue:劳伦斯继续
 lawrence continues:劳伦斯继续
 lawrence country:劳伦斯国家
+lawrence county:劳伦斯县
 lawrence county:勞倫斯縣
 lawrence court:劳伦斯法院
 lawrence crowd:劳伦斯人群
@@ -45391,6 +45714,7 @@ lawrence smith:劳伦斯史密斯
 lawrence sold:劳伦斯卖
 lawrence solve:劳伦斯解决
 lawrence soon:劳伦斯很快
+lawrence station:劳伦斯站
 lawrence station:罗伦斯站
 lawrence street and madison:劳伦斯街和麦迪逊
 lawrence street:劳伦斯街
@@ -46896,6 +47220,7 @@ lazaretto:检疫站
 lazarev bay:拉扎列夫灣
 lazarev ice shelf:拉扎列夫冰架
 lazarev sea:拉扎列夫海
+lazarev station:拉扎列夫站
 lazarev:拉扎列夫
 lazarevac:拉扎雷瓦茨
 lazarillo de tormes:小癞子

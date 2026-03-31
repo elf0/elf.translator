@@ -42,6 +42,7 @@ vector algorithms:向量算法
 vector algorithms:矢量算法
 vector alphabet:矢量字母
 vector always:矢量总是
+vector analysis:向量分析
 vector analysis:矢量分析
 vector and a matrix:矢量和一个矩阵
 vector and bitmap data:矢量和位图数据
@@ -66,6 +67,7 @@ vector animation software:矢量动画软件
 vector animation:矢量动画
 vector application:矢量应用程序
 vector applications:矢量应用程序
+vector area:向量面积
 vector art and vector:矢量艺术和矢量
 vector art with flexible:矢量艺术与灵活的
 vector art:矢量艺术
@@ -75,6 +77,7 @@ vector attack:矢量攻击
 vector autoregression:向量自回归模型
 vector beauty:向量美
 vector blue:矢量蓝色
+vector boson:向量玻色子
 vector boson:矢量玻色子
 vector bundle:向量丛
 vector calculation:矢量计算
@@ -82,6 +85,8 @@ vector calculations:向量计算
 vector calculations:矢量计算
 vector calculus identities:向量恆等式列表
 vector calculus:向量分析
+vector calculus:向量微积分
+vector calculus:矢量微积分
 vector can become:矢量可以成为
 vector cell:矢量细胞
 vector ceo jim:矢量首席执行官吉姆
@@ -96,6 +101,7 @@ vector color:矢量颜色
 vector colour:矢量颜色
 vector components:向量组件
 vector compute:矢量计算
+vector computers:向量计算机
 vector contain:向量包含
 vector contain:矢量包含
 vector content:矢量内容
@@ -119,6 +125,7 @@ vector data model:矢量数据模型
 vector data-path:矢量数据路径
 vector data:向量数据
 vector data:矢量数据
+vector database:向量数据库
 vector define:矢量定义
 vector describe:矢量描述
 vector design app:矢量设计应用程序
@@ -151,10 +158,14 @@ vector equation:向量方程
 vector execution:向量执行
 vector field:向量场
 vector field:向量場
+vector field:矢量场
 vector file format:矢量文件格式
 vector file type:矢量文件类型
 vector file:矢量文件
 vector files:矢量文件
+vector font:向量字体
+vector font:向量字型
+vector font:矢量字体
 vector force field:向量力场
 vector force:向量力
 vector form:向量形式
@@ -164,8 +175,11 @@ vector format:矢量格式
 vector formats:矢量格式
 vector from:向量从
 vector function:向量函数
+vector functions:向量函数
 vector functions:矢量函数
 vector girl:矢量女孩
+vector graphic:向量图形
+vector graphic:矢量图形
 vector graphics and brush:矢量图形和刷子
 vector graphics and export:矢量图形和出口
 vector graphics and flowchart:矢量图形和流程图
@@ -192,7 +206,9 @@ vector graphics software:矢量图形软件
 vector graphics systems include:矢量图形系统包括
 vector graphics systems:矢量图形系统
 vector graphics tools:矢量图形工具
+vector graphics:向量图形
 vector graphics:矢量图形
+vector group:向量组
 vector has a direction:向量有一个方向
 vector icon:矢量图标
 vector image editor:矢量图像编辑器
@@ -230,9 +246,11 @@ vector means:矢量意味着
 vector measure:向量测度
 vector measurement functionality:矢量测量功能性
 vector measurement:矢量测量
+vector meson:向量介子
 vector meson:矢量介子
 vector mode:矢量模式
 vector models:矢量模型
+vector monitor:向量监视器
 vector multimedia:矢量多媒体
 vector multiplication code snippet:向量乘法代码片段
 vector multiplication:向量乘法
@@ -253,6 +271,7 @@ vector object:矢量对象
 vector offset:向量偏移
 vector operations:矢量操作
 vector operator:向量算子
+vector optimization:向量优化
 vector or bitmap version:矢量或位图版本
 vector or bitmap:矢量或位图
 vector or image mode:矢量或图像模式
@@ -280,8 +299,10 @@ vector processor elements:向量处理器元素
 vector processor optimization:向量处理器优化
 vector processor systems:向量处理器系统
 vector processor:向量处理器
+vector processor:向量處理器
 vector processor:矢量处理器
 vector program:矢量程序
+vector projection:向量投影
 vector propulsion:矢量推进
 vector protocol:向量协议
 vector protocol:矢量协议
@@ -317,10 +338,14 @@ vector source:矢量源
 vector space mathematics:向量空间数学
 vector space model:向量空間模型
 vector space model:向量空间模型
+vector space:向量空間
 vector space:向量空间
+vector space:矢量空間
+vector space:矢量空间
 vector spherical harmonics:向量球諧函數
 vector state:向量状态
 vector structure:矢量结构
+vector subspace:向量子空間
 vector supercomputer:向量超级计算机
 vector symbol:矢量符号
 vector systems:矢量系统
@@ -434,6 +459,8 @@ vedrare nunatak:韋德拉雷冰原島峰
 veduga:韋杜加河
 veduggio con colzano:韦杜焦和科尔扎诺
 vee cliffs:維崖
+veen observatory:維也納天文台
+veen observatory:维也纳天文台
 veen:wai4 jaa5 naap6
 veen:wéiyěnà
 veen:維也納
@@ -722,6 +749,7 @@ vegetable roof:蔬菜屋顶
 vegetable root:蔬菜根
 vegetable safety problem:蔬菜安全问题
 vegetable safety:蔬菜安全
+vegetable salad:蔬菜沙律
 vegetable salad:蔬菜沙拉
 vegetable sales:蔬菜销售
 vegetable salt:蔬菜盐
@@ -1197,6 +1225,7 @@ vehicle design course:车辆设计课程
 vehicle design manager:车辆设计经理
 vehicle design quality assessment:车辆设计质量评估
 vehicle design requirements:车辆设计要求
+vehicle design:交通工具設計
 vehicle design:交通工具设计
 vehicle design:车辆设计
 vehicle designer:车辆设计师
@@ -1558,6 +1587,7 @@ vehicle provides:车辆提供
 vehicle purchase and use:车辆购买和使用
 vehicle purchase prices:车辆购买价格
 vehicle purchase:车辆购买
+vehicle pursuit:车辆追击
 vehicle quality assurance:车辆质量保证
 vehicle quality:车辆质量
 vehicle radio:车辆无线电
@@ -1942,6 +1972,7 @@ vejle municipality:瓦埃勒市镇
 vejle railway station:瓦埃勒站
 vejle river:瓦埃勒河
 vejle skyline:瓦埃勒天际线
+vejle station:瓦埃勒站
 vejle:瓦埃勒
 vejovis:维迪奥维斯
 vejprty:韋伊普爾蒂
@@ -2526,6 +2557,7 @@ velocity conditions:速度条件
 velocity control products:速度控制产品
 velocity control:速度控制
 velocity controller:速度控制器
+velocity cup:速度杯
 velocity curves:速度曲线
 velocity data:速度数据
 velocity data:速率数据
@@ -2544,6 +2576,7 @@ velocity from:速度从
 velocity function:速度函数
 velocity gradient:速度梯度
 velocity growth:速度增长
+velocity head:速度头
 velocity high:速度高
 velocity increase:速度增加
 velocity increment:速度增量
@@ -2575,6 +2608,7 @@ velocity problem:速度问题
 velocity projects:速度项目
 velocity range indicate:速度范围指示
 velocity range:速度范围
+velocity ratio:速度比
 velocity reach:速度达到
 velocity relationship:速度关系
 velocity sensor:速度传感器
@@ -2592,6 +2626,7 @@ velocity towards:速度向
 velocity triangle:速度三角形
 velocity value:速度值
 velocity variable:速度变量
+velocity vector:速度向量
 velocity vector:速度矢量
 velocity vectors:速度向量
 velocity vectors:速度矢量
@@ -2609,6 +2644,10 @@ velomobile:躺車
 veloporphyrellus:垂边红孢牛肝菌属
 velpke:费尔普克
 velriya:瓦尔雷阿斯
+vels university:威尔士大学
+vels university:威尔斯大学
+vels university:威尔斯大學
+vels university:威爾斯大學
 vels:威尔士
 vels:威尔士 / 威爾斯
 vels:威尔斯
@@ -2713,6 +2752,7 @@ velvet prayer-book:天鹅绒祈祷书
 velvet prayer:天鹅绒祈祷
 velvet purple coronet:紫冕蜂鸟
 velvet revolution:天鵝絨革命
+velvet revolution:天鹅绒革命
 velvet robe:天鹅绒长袍
 velvet room:天鹅绒房间
 velvet saddle:天鹅绒鞍
@@ -3175,6 +3215,7 @@ venado tuerto:貝納多圖埃托
 venae cavae:腔静脉
 venafro:韦纳夫罗
 venal office:官職買賣
+venango county:韦南戈县
 venango:韦南戈
 venansault:沃南索
 venanson:沃南松
@@ -3199,6 +3240,7 @@ vencsou:温州市
 vencsou:溫州市
 venda language:文達語
 venda nova do imigrante:新文達移民鎮
+venda nova:文達新星
 venda:文達
 vendargues:旺达尔格
 vendas novas:新文達什
@@ -3597,12 +3639,14 @@ venetian glass wreath:威尼斯玻璃花環
 venetian glass:威尼斯玻璃
 venetian gothic architecture:威尼斯哥德式建築
 venetian hotel:威尼斯人酒店
+venetian islands:威尼斯人群岛
 venetian know:威尼斯人知道
 venetian lagoon:威尼斯潟湖
 venetian language:威尼斯語
 venetian life:威尼斯人生活
 venetian loggia:凉廊
 venetian loggia:威尼斯凉廊
+venetian macao:威尼斯人澳門
 venetian macau car park:澳門威尼斯人停車場
 venetian macau:威尼斯人澳門
 venetian macau:威尼斯人澳门
@@ -3624,6 +3668,7 @@ venetian square:威尼斯广场
 venetian square:威尼斯廣場
 venetian towers:威尼斯人塔
 venetian trade:威尼斯人贸易
+venetian village:威尼斯人村
 venetian:威尼斯人
 venetians movement:威尼斯独立运动
 venetic language:威尼托语
@@ -3644,6 +3689,7 @@ veney:沃内
 veneza:威尼斯
 venezia fc:威尼斯足球俱樂部
 venezia mestre railway station:威尼斯梅斯特雷車站
+venezia mestre:威尼斯梅斯特雷
 venezia santa lucia railway station:威尼斯聖盧西亞車站
 venezia:威尼斯
 venezianische loggia:凉廊
@@ -3849,6 +3895,7 @@ venezuela could:委内瑞拉能
 venezuela coup:委内瑞拉政变
 venezuela court:委内瑞拉法院
 venezuela creditor:委内瑞拉债权人
+venezuela crisis:委內瑞拉危機
 venezuela crisis:委内瑞拉危机
 venezuela currency:委内瑞拉货币
 venezuela currently exports:委内瑞拉目前出口
@@ -3903,6 +3950,7 @@ venezuela is your home:委內瑞拉是你的家
 venezuela issue:委内瑞拉问题
 venezuela knows:委内瑞拉知道
 venezuela last year:委内瑞拉去年
+venezuela league:委内瑞拉联盟
 venezuela measles:委内瑞拉麻疹
 venezuela mutual fund:委内瑞拉共同基金
 venezuela national baseball team:委內瑞拉棒球代表隊
@@ -3934,6 +3982,8 @@ venezuela plan:委内瑞拉计划
 venezuela plans:委内瑞拉计划
 venezuela policy:委內瑞拉政策
 venezuela policy:委内瑞拉政策
+venezuela president:委內瑞拉总统
+venezuela president:委内瑞拉总统
 venezuela problem:委内瑞拉问题
 venezuela protest:委内瑞拉抗议
 venezuela quit:委内瑞拉退出
@@ -4144,6 +4194,7 @@ venice and trieste:威尼斯和的里雅斯特
 venice and verona:威尼斯和维罗纳
 venice and vicenza:威尼斯和维琴察
 venice area:威尼斯地区
+venice arsenal:威尼斯兵工廠
 venice art:威尼斯艺术
 venice beach and san:威尼斯海滩和圣
 venice beach boardwalk:威尼斯海滩木板路
@@ -4162,6 +4213,7 @@ venice biennale of architecture:威尼斯建築雙年展
 venice biennale team:威尼斯双年展团队
 venice biennale was founded in:威尼斯双年展成立于
 venice biennale:威尼斯双年展
+venice biennale:威尼斯雙年展
 venice boat:威尼斯船
 venice boulevard:威尼斯大道
 venice canal historic district:运河城
@@ -4172,6 +4224,7 @@ venice city:威尼斯城市
 venice climate:威尼斯氣候
 venice commission:威尼斯委员会
 venice companies:威尼斯企业
+venice company:威尼斯公司
 venice conference:威尼斯会议
 venice court:威尼斯法院
 venice court:威尼斯閣
@@ -4221,14 +4274,17 @@ venice is conservative:威尼斯是保守的
 venice is incredible:威尼斯是不可思议的
 venice is located in:威尼斯位于
 venice italy:威尼斯意大利
+venice lagoon:威尼斯潟湖
 venice lido:利多
 venice macau:威尼斯澳门
+venice marathon:威尼斯马拉松
 venice marines:威尼斯海军陆战队
 venice marines:威尼斯海軍陸戰隊
 venice mask:威尼斯面具
 venice mayor luigi:威尼斯市长路易吉
 venice mayor:威尼斯市长
 venice mayoral election:威尼斯市长选举
+venice mestre:威尼斯梅斯特雷
 venice museum:威尼斯博物馆
 venice needs respect:威尼斯需要尊重
 venice needs:威尼斯需要
@@ -4243,13 +4299,16 @@ venice or rimini:威尼斯或里米尼
 venice or rome:威尼斯或罗马
 venice or somewhere:威尼斯或某处
 venice or verona:威尼斯或维罗纳
+venice piazza:威尼斯廣場
 venice port:威尼斯港口
 venice prison:威尼斯监狱
 venice project:威尼斯项目
 venice protect:威尼斯保护
+venice protocol:威尼斯协议
 venice raytour mansion:深圳威尼斯睿途酒店
 venice recently:威尼斯最近
 venice region:威尼斯地区
+venice republic:威尼斯共和国
 venice resident:威尼斯居民
 venice restaurant:威尼斯茶餐廳
 venice sacrifice:威尼斯牺牲
@@ -4272,9 +4331,11 @@ venice to camden:威尼斯到卡姆登
 venice to florence:威尼斯到佛罗伦萨
 venice to oxford:威尼斯到牛津
 venice tower:威尼斯塔
+venice township:威尼斯鎮區
 venice township:威尼斯镇区
 venice train:威尼斯火车
 venice university:威尼斯大学
+venice university:威尼斯大學
 venice update:威尼斯更新
 venice villa:柏濤軒
 venice village:威尼斯村
@@ -4471,6 +4532,7 @@ ventron:文特龙
 ventrosa:本特罗萨
 ventschow:文乔
 ventspilis:文茨皮尔斯
+ventspils airport:文茨皮尔斯机场
 ventspils castle:雲特史比斯城堡
 ventspils city council:文茨皮尔斯市议会
 ventspils district:文茨皮爾斯區
@@ -4482,9 +4544,12 @@ ventspils:文茨皮尔斯
 ventspiļs:文茨皮尔斯
 ventuari river:本圖阿里河
 ventura avenue:溫黛娜徑
+ventura boulevard:文圖拉大道
+ventura college:文圖拉學院
 ventura county fc:洛杉磯銀河二隊
 ventura county line:文图拉县线
 ventura freeway:文图拉高速公路
+ventura freeway:文圖拉高速公路
 ventura resident:文圖拉居民
 ventura villa:華慧苑
 ventura:文圖拉
@@ -4656,6 +4721,7 @@ venus and uranus:金星和天王星
 venus appears:金星出现
 venus are perfect examples:金星是完美的例子
 venus atmospheric maneuverable platform:金星大气层可操纵平台
+venus awards:金星奖
 venus be:金星成为
 venus became:金星成为
 venus began:金星开始
@@ -4679,6 +4745,7 @@ venus discover:金星发现
 venus effect:金星影响
 venus encourage us:金星鼓励我们
 venus encourage:金星鼓励
+venus engine:金星发动机
 venus enter:金星进入
 venus exploration:金星探索
 venus express:金星特快車
@@ -4756,8 +4823,10 @@ venus retrograde:金星逆行
 venus rotate:金星旋转
 venus royal hotel:维纳斯皇家酒店
 venus scientists:金星科学家
+venus series:金星系列
 venus show:金星显示
 venus snow:金星之雪
+venus snow:金星雪
 venus sometimes:金星有时候
 venus space probe:金星空间探测器
 venus star power:金星星星力量
@@ -5110,6 +5179,7 @@ verdigris township:弗迪格里斯镇区
 verdille:韦尔迪耶
 verdilly:韦尔迪伊
 verditer flycatcher:铜蓝鹟
+verdon township:弗登鎮區
 verdon:弗登
 verdonnet:韦尔多内
 verdsorganisasjonen for immateriell eigedomsrett:世界知识产权组织
@@ -5117,6 +5187,8 @@ verdun and saint:凡尔登和圣
 verdun cathedral:凡尔登主教座堂
 verdun en lauragais:洛拉盖地区凡尔登
 verdun fortress:凡尔登要塞
+verdun offensive:凡尔登攻势
+verdun station:凡尔登站
 verdun station:華燈站
 verdun sur garonne:加龙河畔凡尔登
 verdun sur le doubs:杜河畔凡尔登
@@ -5744,10 +5816,12 @@ verona apartment:维罗纳公寓
 verona area school district:维罗纳地区学区
 verona area:维罗纳地区
 verona arena:维罗纳圆形竞技场
+verona arena:维罗纳竞技场
 verona beach:维罗纳海滩
 verona bike:维罗纳自行车
 verona cafe:維洛娜咖啡館
 verona cathedral:維羅納主教座堂
+verona cathedral:维罗纳主教座堂
 verona chairman:维罗纳主席
 verona club:维罗纳俱乐部
 verona conquer:维罗纳征服
@@ -5757,6 +5831,7 @@ verona judge:维罗纳法官
 verona north:维罗纳北
 verona painter:维罗纳画家
 verona porta nuova railway station:維羅納新門車站
+verona province:维罗纳省
 verona quartet:维罗纳四重奏
 verona rupes:維羅納斷崖
 verona soccer team:维罗纳足球队
@@ -6575,6 +6650,7 @@ vertetša:韋爾捷恰
 verteuil d'agenais:韦尔特伊达日奈
 verteuil sur charente:夏朗德河畔韦尔特伊
 vertex algebra:頂點代數
+vertex algebra:顶点代数
 vertex and pixel shader:顶点和像素着色器
 vertex angle:顶点角
 vertex array:顶点数组
@@ -6583,13 +6659,16 @@ vertex attribute:顶点属性
 vertex color:顶点颜色
 vertex colour:顶点颜色
 vertex configuration:顶点配置
+vertex connectivity:顶点连通
 vertex coordinates:顶点坐标
 vertex cover:顶点覆盖
 vertex data and colour:顶点数据和颜色
 vertex data:顶点数据
 vertex exchange:顶点交换
 vertex figure:頂點圖
+vertex figure:顶点图
 vertex format:顶点格式
+vertex function:顶点函数
 vertex group:顶点组
 vertex information:顶点信息
 vertex input:顶点输入
@@ -6790,6 +6869,7 @@ vertiginidae:旋螺科
 vertiginous question:為什麼我是我
 vertigo bluff:弗爾蒂戈海崖
 vertigo cliffs:弗蒂戈崖
+vertigo entertainment:眩暈娛樂
 vertigo moon bar:眩晕餐厅及月球酒吧
 vertigo problem:眩暈問題
 vertigo:眩暈
@@ -6801,6 +6881,7 @@ vertokîiivka:韋爾托基伊夫卡
 vertokıyivka:韋爾托基伊夫卡
 vertolaye:韦尔托莱
 verton:韦尔通
+vertou station:韦尔图站
 vertou:韦尔图
 vertova:韦尔托瓦
 vertrag-von-lausanne denkmal:洛桑条约纪念碑
@@ -10884,6 +10965,7 @@ vessel efficiency:容器效率
 vessel engine:容器发动机
 vessel enter:船进入
 vessel every day:船每天
+vessel flute:船笛
 vessel food:容器食物
 vessel for:容器为了
 vessel forging:容器鍛造
@@ -11338,6 +11420,7 @@ vetigastropoda:古腹足類
 vetivazulene:岩兰薁
 vetka:韋特卡
 vetlanda municipality:韦特兰达市镇
+vetluga river:韋特盧加河
 vetluga:韋特盧加
 vetluzhsky district:韋特盧加區
 vetluzhsky:韦特卢日斯基

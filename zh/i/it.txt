@@ -8980,6 +8980,8 @@ itabashi hirabayashi:板橋（平林）
 itabashi nokyo-mae:板桥农协前
 itabashi nokyo-mae:板橋農協前
 itabashi shuku:板橋宿
+itabashi station:板桥站
+itabashi station:板橋站
 itabashi-ku:板桥区
 itabashi-ku:板桥区 / 板橋區
 itabashi-ku:板橋區
@@ -9369,6 +9371,7 @@ italian army:意大利军队
 italian army:意大利陆军
 italian army:義大利陸軍
 italian arsenal:意大利兵工廠
+italian art:意大利艺术
 italian art:義大利藝術
 italian as well as:意大利以及
 italian as:意大利语当作
@@ -9439,6 +9442,7 @@ italian became the only:意大利语成为唯一
 italian became:意大利语成为
 italian bed:意大利床
 italian bee:義大利蜂
+italian beef:意大利牛肉
 italian beef:義大利牛肉
 italian before:意大利之前
 italian bel canto:意大利美声唱法
@@ -9488,6 +9492,7 @@ italian brand:意大利的品牌
 italian brands:意大利品牌
 italian brandy:意大利白兰地
 italian bread:意大利面包
+italian bread:意大利麵包
 italian break:意大利打破
 italian breakfast:意大利早餐
 italian breakfast:意大利的早餐
@@ -9574,6 +9579,7 @@ italian cathedral:意大利主教座堂
 italian cathedral:意大利大教堂
 italian catholic activist:意大利天主教活动家
 italian catholic:意大利天主教
+italian catholicism:意大利天主教
 italian cavalry:意大利骑兵
 italian cave:意大利洞穴
 italian cello:意大利大提琴
@@ -9606,6 +9612,7 @@ italian chase:意大利人追逐
 italian chat will:意大利聊天会
 italian chat:意大利聊天
 italian cheese consultant:意大利奶酪顾问
+italian cheese:意大利乾酪
 italian cheese:意大利奶酪
 italian chemical industry:意大利化学工业
 italian chemist:意大利化学家
@@ -9707,6 +9714,7 @@ italian comedy film:意大利喜剧电影
 italian comedy:意大利喜剧
 italian comedy:意大利喜劇
 italian comic:意大利漫画
+italian comics:意大利漫画
 italian command:意大利的命令
 italian commander luigi:意大利指挥官路易吉
 italian commander:意大利指挥官
@@ -9905,6 +9913,7 @@ italian diplomat:意大利外交官
 italian director:意大利导演
 italian director:意大利的导演
 italian disco music:意大利迪斯科音乐
+italian disco:意大利迪斯科
 italian discrimination:意大利歧视
 italian division:意大利师
 italian doctor and training:意大利医生和培训
@@ -10246,6 +10255,7 @@ italian governments:意大利政府
 italian governments:意大利的政府
 italian governorate of montenegro:蒙特內哥羅軍政府
 italian graduates:意大利毕业生
+italian grammar:意大利语法
 italian grammar:意大利语语法
 italian grand prix car:意大利大奖赛汽车
 italian grand prix monza:意大利大奖赛蒙扎
@@ -10311,6 +10321,7 @@ italian history and literature:意大利历史和文学
 italian history and modern:意大利历史和现代
 italian history:意大利历史
 italian history:意大利的历史
+italian history:意大利语历史
 italian holding company:意大利控股公司
 italian holiday:意大利的假日
 italian hollywood:意大利的好莱坞
@@ -10411,6 +10422,7 @@ italian ironclad re d'italia:意大利国王号铁甲舰
 italian ironclad roma:罗马号铁甲舰
 italian ironclad terribile:可畏号铁甲舰
 italian irredentism:意大利淪陷區
+italian irredentism:意大利领土收复主义
 italian is derived from latin:意大利是源于拉丁语
 italian island:意大利岛
 italian island:意大利岛屿
@@ -10430,6 +10442,7 @@ italian journalist:意大利新聞工作者
 italian journalists:意大利的记者
 italian journalists:意大利记者
 italian journey:意大利旅行
+italian journey:意大利的旅行
 italian judge:意大利法官
 italian jungle:意大利丛林
 italian jurist:意大利法学家
@@ -10439,6 +10452,7 @@ italian keyboard:意大利键盘
 italian kids:意大利儿童
 italian kids:意大利孩子
 italian king:意大利国王
+italian king:意大利的国王
 italian kingdom:意大利王国
 italian kitchen manufacturer:意大利厨房制造商
 italian kitchen:意大利厨房
@@ -10480,8 +10494,10 @@ italian language week:意大利语周
 italian language:意大利的语言
 italian language:意大利語言
 italian language:意大利语
+italian language:意大利语言
 italian language:意大利语语言
 italian languages:意大利的语言
+italian languages:意大利语言
 italian largest:意大利最大的
 italian latte art:意大利咖啡拉花
 italian laundry:意大利洗衣
@@ -10575,6 +10591,7 @@ italian manufacturers:意大利制造商
 italian manufacturers:意大利的制造商
 italian manufacturing:意大利制造业
 italian map:意大利地图
+italian marathon:意大利马拉松
 italian marines:意大利海军陆战队
 italian market analyst:意大利市场分析师
 italian market:意大利市场
@@ -10654,6 +10671,7 @@ italian models:意大利模型
 italian modern composer:意大利现代作曲家
 italian modern:意大利现代
 italian monarch:意大利君主
+italian monarchy:意大利君主制
 italian monastery:意大利修道院
 italian money:意大利的钱
 italian money:意大利貨幣
@@ -10683,6 +10701,7 @@ italian music magazine:意大利音乐杂志
 italian music:意大利的音乐
 italian music:意大利音乐
 italian musician:意大利音乐家
+italian mythology:意大利神话
 italian name:意大利名字
 italian name:意大利姓名
 italian name:意大利的名字
@@ -10701,6 +10720,7 @@ italian national olympic committee:意大利國家奧林匹克委員會
 italian national team coach:意大利国家队教练
 italian national team:意大利国家队
 italian nationalism:意大利民族主义
+italian nationalism:意大利民族主義
 italian nationalism:意大利的民族主义
 italian nationalist association:意大利民族主义协会
 italian nationalist:意大利民族主义者
@@ -10779,6 +10799,7 @@ italian onion:意大利洋葱
 italian online:意大利在线
 italian online:意大利语在线
 italian open:意大利开
+italian opening:意大利开局
 italian opera composer:意大利歌剧作曲家
 italian opera is in london:意大利歌剧是在伦敦
 italian opera singer:意大利歌剧歌手
@@ -10804,6 +10825,7 @@ italian organisation or company:意大利组织或公司
 italian organisation:意大利组织
 italian organizations:意大利组织
 italian origin:意大利起源
+italian overture:意大利序曲
 italian ownership:意大利所有权
 italian page:意大利页
 italian pages:意大利语页
@@ -10938,6 +10960,7 @@ italian pope:意大利人教皇
 italian pope:意大利教皇
 italian pope:意大利的教皇
 italian popular music:意大利流行音乐
+italian population:意大利人口
 italian porcelain:意大利瓷器
 italian pork:意大利猪肉
 italian port city:意大利港口城市
@@ -11055,11 +11078,13 @@ italian refugee:意大利难民
 italian regency of carnaro:義大利卡爾納羅攝政領
 italian regime:意大利政权
 italian regiment:意大利团
+italian region:意大利人地区
 italian region:意大利地区
 italian region:意大利的区域
 italian region:意大利语地区
 italian regional:意大利区域的
 italian regions and schools:意大利地区和学校
+italian regions:意大利人地区
 italian regions:意大利地区
 italian register:意大利注册
 italian regulatory:意大利监管
@@ -11111,6 +11136,7 @@ italian residents:意大利的居民
 italian resistance movement:義大利抵抗運動
 italian resort:意大利度假村
 italian restaurant boss:意大利餐馆老板
+italian restaurant:意大利餐廳
 italian restaurant:意大利餐馆
 italian restaurants:意大利的餐馆
 italian restaurants:意大利餐馆
@@ -11138,6 +11164,7 @@ italian road:意大利道路
 italian roast:意大利烤
 italian robot:意大利机器人
 italian roman:意大利罗马
+italian romanesque:意大利罗马式
 italian roof:意大利屋顶
 italian root:意大利根
 italian royal family:意大利王室
@@ -11253,6 +11280,7 @@ italian social republic:意大利社会共和国
 italian social security:意大利社会保障
 italian social services:意大利社会服务
 italian social:意大利社交
+italian socialism:意大利社会主义
 italian socialist party:意大利的社会党
 italian socialist party:意大利社会党
 italian socialist:意大利社会主义者
@@ -11270,6 +11298,7 @@ italian soldier:意大利的士兵
 italian solidarity:意大利团结
 italian somali:意大利的索马里
 italian somali:意大利索马里
+italian somaliland:意大利索马里兰
 italian somaliland:義屬索馬利蘭
 italian song:意大利歌曲
 italian song:意大利语歌曲
@@ -11303,7 +11332,9 @@ italian state university:意大利州立大学
 italian state:意大利国家
 italian state:意大利州
 italian state:意大利状态
+italian state:意大利语国家
 italian states:意大利国家
+italian states:意大利语国家
 italian statesman:意大利政治家
 italian station:意大利站
 italian statue:意大利雕像
@@ -11621,6 +11652,7 @@ italian wisdom:意大利的智慧
 italian wish:意大利的希望
 italian wolf spider:意大利狼蜘蛛
 italian wolf:意大利狼
+italian wolves:意大利狼
 italian woman:意大利女人
 italian woman:意大利女性
 italian women are beautiful:意大利妇女是美丽的
@@ -12181,6 +12213,7 @@ italy building:意大利建筑物
 italy business council:意大利商业理事会
 italy business:意大利商业
 italy calm:意大利平静
+italy campania:意大利坎帕尼亚大区
 italy canada:意大利加拿大
 italy cannot:意大利不能
 italy capital:意大利首都
@@ -12344,13 +12377,19 @@ italy manager:意大利经理
 italy manufacturer:意大利制造商
 italy manufacturers:意大利制造商
 italy map:意大利地图
+italy marche:意大利马尔凯大区
 italy markets:意大利市场
 italy means:意大利意味着
 italy media:意大利媒体
 italy men's national basketball team:意大利国家男子篮球队
 italy men's national volleyball team:義大利國家男子排球隊
 italy might have:意大利可能有
+italy milan:意大利米兰
 italy milan:意大利米蘭
+italy military:意大利军事
+italy military:意大利军队
+italy military:意大利軍隊
+italy military:義大利軍隊
 italy missions:意大利任务
 italy motorcycle:意大利摩托车
 italy motorway:意大利高速公路
@@ -12392,6 +12431,8 @@ italy or north africa:意大利或北非
 italy or spain:意大利或西班牙
 italy organization:意大利组织
 italy painting:意大利绘画
+italy parma:意大利帕爾馬
+italy parma:義大利帕爾馬
 italy part:意大利部分
 italy participate:意大利参加
 italy partners:意大利合作伙伴
@@ -12431,6 +12472,7 @@ italy retire:意大利退休
 italy return:意大利返回
 italy revolutionary:意大利革命家
 italy rome:意大利罗马
+italy rome:義大利羅馬
 italy royal navy:意大利皇家海军
 italy russia:意大利俄罗斯
 italy says:意大利说
@@ -12446,6 +12488,7 @@ italy she:意大利她
 italy shoe:意大利鞋
 italy should be:意大利应该是
 italy sicily:意大利西西里
+italy sicily:義大利西西里島
 italy soldier:意大利士兵
 italy south:意大利南
 italy spain:意大利西班牙
@@ -12463,6 +12506,7 @@ italy summer:意大利夏季
 italy support:意大利支持
 italy surrender:意大利投降
 italy team:意大利队
+italy team:義大利队
 italy telecommunications:意大利电信
 italy ten:意大利十
 italy textile:意大利纺织品
@@ -12493,6 +12537,7 @@ italy trade:意大利贸易
 italy tradition:意大利传统
 italy travel budget:意大利旅行预算
 italy travel:意大利旅行
+italy turin:義大利杜林
 italy turkey:意大利土耳其
 italy twice:意大利两次
 italy under fascism:法西斯意大利
@@ -12526,7 +12571,9 @@ italy why:意大利为什么
 italy will need:意大利将需要
 italy will visit:意大利将访问
 italy will:意大利会
+italy wine:意大利葡萄酒
 italy wine:意大利酒
+italy wine:義大利葡萄酒
 italy wish:意大利希望
 italy without:意大利没有
 italy women's national football team:意大利国家女子足球队
@@ -12626,6 +12673,7 @@ itapetininga:伊塔佩蒂宁加
 itapeuasaurus:伊塔佩瓦龙属
 itapeva:伊塔佩瓦
 itapevi:伊塔佩维
+itapicuru river:伊塔皮库鲁河
 itapicuru:伊塔皮库鲁
 itapipoca:伊塔皮波卡
 itapira:伊塔皮拉
@@ -12710,6 +12758,8 @@ itazuke site:板付遗址
 itazura na kiss:淘气小亲亲
 itałia:意大利
 itałia:義大利
+itbayat airport:伊巴雅特机场
+itbayat airport:伊巴雅特機場
 itbayat island:伊巴雅特島
 itbayat:伊巴雅特
 itch affects:瘙痒影响
@@ -12966,6 +13016,7 @@ iteya:伊特亞
 itf tokyo ariake open:安藤证券网球公开赛
 itgeg gûû:依德格沟
 ithaca chasma:伊薩卡峽谷
+ithaca chasma:伊薩卡深谷
 ithaca college:伊薩卡學院
 ithaca falls:伊萨卡瀑布
 ithaca gun company:伊薩卡槍械公司
@@ -13064,6 +13115,7 @@ itoa:栀子皮属
 itoalië:意大利
 itoalië:義大利
 itobi:伊托比
+itochu corporation:伊藤忠商事公司
 itochu recently agree:伊藤忠商事最近同意
 itochu recently:伊藤忠商事最近
 itochu:伊藤忠商事
@@ -13084,6 +13136,7 @@ itoi:糸井
 itoigawa domain:糸魚川藩
 itoigawa shizuoka tectonic line:糸魚川靜岡構造線
 itoigawa station:糸魚川站
+itoigawa station:絲魚川站
 itoigawa-shi:丝鱼川市
 itoigawa-shi:丝鱼川市 / 絲魚川市
 itoigawa-shi:絲魚川市
@@ -18757,6 +18810,7 @@ iturin:都灵
 iturkiya:土耳其
 iturmendi:伊图尔门迪
 iturup airport:亚斯内机场
+iturup airport:擇捉島機場
 iturup:择捉岛
 iturup:擇捉島
 itutinga:伊图廷加

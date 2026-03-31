@@ -860,6 +860,7 @@ ideal flight speed:理想飞行速度
 ideal flight:理想飞行
 ideal flower:理想花
 ideal fluid:理想流体
+ideal fluid:理想液体
 ideal foam:理想的泡沫
 ideal focal length:理想的焦距
 ideal fodder:理想的饲料
@@ -912,6 +913,7 @@ ideal game:理想的游戏
 ideal games:理想的游戏
 ideal garden:理想的花园
 ideal gas law:理想气体状态方程
+ideal gas:理想气体
 ideal gas:理想氣體
 ideal genotype:理想基因型
 ideal georgia:理想格鲁吉亚
@@ -1474,6 +1476,7 @@ ideal prey:理想的猎物
 ideal price range:理想的价格范围
 ideal price:理想价格
 ideal price:理想的价格
+ideal prices:理想价格
 ideal priest:理想的祭司
 ideal prince:理想的王子
 ideal princess:理想公主
@@ -1737,6 +1740,8 @@ ideal solar cell:理想的太阳能电池
 ideal soldier:理想士兵
 ideal soldier:理想的士兵
 ideal solution:理想溶液
+ideal solution:理想解决方案
+ideal solutions:理想解决方案
 ideal solvent:理想溶剂
 ideal solvent:理想的溶剂
 ideal son:理想的兒子
@@ -1876,6 +1881,7 @@ ideal that:理想的那
 ideal theme park:理想的主題公園
 ideal theme:理想的主题
 ideal theorem:理想定理
+ideal theory:理想理論
 ideal theory:理想理论
 ideal theory:理想的理论
 ideal thing:理想的东西
@@ -1931,6 +1937,7 @@ ideal treatment:理想治疗
 ideal treatment:理想疗法
 ideal treatment:理想的治疗
 ideal trend:理想趋势
+ideal triangle:理想三角形
 ideal trip:理想旅程
 ideal trip:理想的旅程
 ideal truth:理想的真理
@@ -3497,6 +3504,7 @@ idlib kormányzóság:伊德利卜
 idlib kormányzóság:伊德利卜省
 idlib media:伊德利卜媒体
 idlib problem:伊德利卜问题
+idlib province:伊德利卜省
 idlib region:伊德利卜地区
 idlib séng:伊德利卜
 idlib séng:伊德利卜省
@@ -3600,6 +3608,7 @@ idol was clay:偶像是粘土
 idol website:偶像網站
 idol whitney:偶像惠特尼
 idol will:偶像会
+idol worship:偶像崇拜
 idol worship:神像崇拜
 idol yang chaoyue:偶像杨超越
 idol:偶像
@@ -3672,6 +3681,7 @@ ids li fung centre:利和利豐中心
 ids saint roch:伊德圣罗克
 idschewan:伊杰万
 idstedt:伊德施泰特
+idstein castle:伊德施泰因城堡
 idstein:伊德施泰因
 idu mishmi language:义都语
 idu script:吏讀

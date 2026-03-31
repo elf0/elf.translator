@@ -363,6 +363,7 @@ xuancun:轩村
 xuancxun:选村
 xuanda expressway:xuāndà gāosù gōnglù
 xuandao:漩道
+xuande emperor:宣德皇帝
 xuande emperor:明宣宗
 xuande period:宣德时期
 xuande road:宣德路
@@ -409,6 +410,7 @@ xuanhua district:宣化區
 xuanhua elevated bridge:宣化高架桥
 xuanhua museum:宣化博物馆
 xuanhua north railway station:宣化北站
+xuanhua north:宣化北
 xuanhua railway station:宣化站
 xuanhua reservoir:xuānhuà shuǐkù
 xuanhua reservoir:宣化水库
@@ -568,6 +570,8 @@ xuanwumen ave.:玄武门大街
 xuanwumen east avenue:xuānwǔmén dōngdàjiē
 xuanwumen east avenue:宣武门东大街
 xuanwumen inner avenue:宣武门外大街
+xuanwumen station:宣武门站
+xuanwumen station:玄武门站
 xuanwumen:xuánwŭmén
 xuanwumen:宣武门
 xuanwumen:玄武門
@@ -671,7 +675,10 @@ xubu:須卜氏
 xubudingcun:徐堡定村
 xucaifengwan:徐裁缝湾
 xucaijiawan:许蔡家湾
+xuchang county:許昌县
+xuchang county:许昌县
 xuchang east railway station:许昌东站
+xuchang east:许昌东
 xuchang railway station:许昌站
 xuchang shi:xǔchāng shì
 xuchang shi:許昌
@@ -1286,6 +1293,7 @@ xueshan reservoir:雪山水库
 xueshan road:学善路
 xueshan road:雪山路
 xueshan trailhead:雪山登山口
+xueshan tunnel:雪山隧道
 xueshan-stausee:雪山水库
 xueshan:xuěshān
 xueshan:薛山
@@ -1868,7 +1876,9 @@ xujiahu town:許家湖鎮
 xujiahu town:许家湖镇
 xujiahu:徐家湖
 xujiahui area:徐家汇地区
+xujiahui cathedral:徐家汇主教座堂
 xujiahui center:徐家汇中心
+xujiahui observatory:徐家汇天文台
 xujiahui park:徐家汇公园
 xujiahui road south huangpi road:徐家汇路黄陂南路
 xujiahui road:徐家汇路
@@ -2236,6 +2246,7 @@ xunfengcun:郇封村
 xunfenggang metro station:地铁浔峰岗站
 xunfenggang metro yard:浔峰岗停车场
 xunfenggang north:浔峰岗北
+xunfenggang station:浔峰岗站
 xunfenggang station:潯峰崗站
 xunfenggang:浔峰岗
 xunfengshan east road:浔峰山东路
@@ -2410,6 +2421,7 @@ xunya river:xúnyá hé
 xunya river:巡崖河
 xunya:巡崖
 xunyan bookhouse:寻沿书屋
+xunyang county:旬阳县
 xunyang district:xúnyáng qū
 xunyang district:浔阳区
 xunyang district:潯陽區
@@ -2557,6 +2569,7 @@ xushuangbanna:西双版纳州
 xushuangbanna:西雙版納州
 xushuguan:浒墅关镇
 xushuguan:滸墅關鎮
+xushui county:徐水县
 xushui district:xúshuǐ qū
 xushui district:徐水区
 xushui district:徐水區
@@ -2657,6 +2670,7 @@ xuwei:许圩
 xuweizi:徐围孜
 xuwen county:xúwén xiàn
 xuwen county:徐聞
+xuwen county:徐聞县
 xuwen county:徐聞縣
 xuwen county:徐闻县
 xuwen railway station:徐闻站
@@ -2752,6 +2766,7 @@ xuyi county:盱眙
 xuyi county:盱眙县
 xuyi county:盱眙縣
 xuyi high school:江苏省盱眙中学
+xuyi lobster:盱眙龙虾
 xuyi:xūyí xiàn
 xuyi:盱眙
 xuyi:盱眙县
@@ -2849,15 +2864,19 @@ xuzhiwan:徐治湾
 xuzhong:圩中
 xuzhongtun:徐忠屯
 xuzhou - lanzhou pdl:徐兰高速线
+xuzhou campaign:徐州战役
 xuzhou chained woman incident:丰县生育八孩女子事件
 xuzhou construction machinery group:xúgōng jítuán
 xuzhou construction machinery group:徐工集团
 xuzhou construction machinery group:徐工集團
+xuzhou dialect:徐州方言
 xuzhou dialect:徐州话
 xuzhou district:xùzhōu qū
 xuzhou district:叙州区
 xuzhou district:敘州區
 xuzhou east railway station:徐州东站
+xuzhou east:徐州东
+xuzhou east:徐州東
 xuzhou ground pot:徐州地锅
 xuzhou guanyin airport terminal 1:徐州观音国际机场t1航站楼
 xuzhou guanyin airport terminal 2:徐州观音国际机场t2航站楼
@@ -2865,6 +2884,7 @@ xuzhou guanyin airport:xúzhōu guānyīn guójì jīchǎng
 xuzhou guanyin airport:徐州观音国际机场
 xuzhou guanyin international airport:徐州观音国际机场
 xuzhou jiulishan airbase:徐州九里山空军基地
+xuzhou marathon:徐州马拉松
 xuzhou medical university:徐州医科大学
 xuzhou metro line 1:luwo → xuzhoudong railway station:徐州地鐵1號線：路窝→徐州東站
 xuzhou metro line 1:xuzhoudong railway station → luwo:徐州地鐵1號線：徐州東站→路窝
@@ -2913,6 +2933,7 @@ xuzhou–yancheng high-speed railway:徐盐客专线
 xuzhu'anwan:徐竹庵塆
 xuzhu:胥渚
 xuzhuang community:徐庄社区
+xuzhuang station:徐庄站
 xuzhuang subdistrict:許莊街道
 xuzhuang subdistrict:许庄街道
 xuzhuang:xúzhuāng

@@ -204,6 +204,9 @@ adam believe:亞當相信
 adam bending:亚当弯曲
 adam bernstein:亚当伯恩斯坦
 adam brandon:亚当布兰登
+adam bridge:亚当桥
+adam bridge:亞當橋
+adam bury:亞當貝利
 adam cannot:亚当不能
 adam cannot:亞當不能
 adam carter:亚当卡特
@@ -462,6 +465,7 @@ adams appear:亚当斯出现
 adams apple:亚当斯苹果
 adams as well:亚当斯也
 adams be:亚当斯成为
+adams beach:亚当斯海滩
 adams became president:亚当斯成为总统
 adams became:亚当斯成为
 adams beer:亚当斯啤酒
@@ -475,6 +479,7 @@ adams college:亚当斯学院
 adams comment:亚当斯评论
 adams community bank:亚当斯社区银行
 adams community:亚当斯社区
+adams conjecture:亚当斯猜想
 adams continue:亚当斯继续
 adams county:亚当斯县
 adams county:亞當斯縣
@@ -526,6 +531,7 @@ adams line:亚当斯线
 adams look:亚当斯看
 adams media:亚当斯媒体
 adams morgan:亚当斯摩根
+adams mountain:亚当斯山
 adams mountains:阿當斯山脈
 adams musical instruments:阿當斯樂器製作公司
 adams named:亚当斯命名的
@@ -538,6 +544,7 @@ adams once:亚当斯曾经
 adams organize:亚当斯组织
 adams park:亚当斯公园
 adams park:亞當斯公園球場
+adams party:亚当斯党
 adams predict:亚当斯预测
 adams presidential suite:亚当斯总统套房
 adams prize:亚当斯奖
@@ -611,13 +618,18 @@ adan:亚丁
 adan:亚丁省
 adan:亞丁
 adan:阿丹
+adana airport:亚丁机场
 adana airport:阿达纳机场
 adana bleak:愛丁歐白魚
+adana campaign:亚丁战役
 adana chub:阿達納歐雅魚
 adana consulate:阿达纳领事馆
 adana lrt:阿达纳地铁
+adana massacre:阿达纳屠杀
 adana massacre:阿達納屠殺
 adana metro:阿達納地鐵
+adana province:亚丁省
+adana province:亞丁省
 adana province:阿达纳省
 adana region:阿达纳地区
 adana theatre:阿达纳剧院
@@ -3437,6 +3449,7 @@ address software:地址软件
 address sort:地址排序
 address sources:地址源
 address space layout randomization:位址空間配置隨機載入
+address space:地址空间
 address space:定址空間
 address specific:地址特定的
 address standard:地址标准
@@ -3679,6 +3692,8 @@ adela:长角蛾属
 adelaida:阿德莱德
 adelaide adams:阿德莱德亚当斯
 adelaide afternoon:阿德莱德下午
+adelaide airport:阿德莱德机场
+adelaide airport:阿德莱德機場
 adelaide airport:阿德萊德機場
 adelaide and barcelona:阿德莱德与巴塞罗那
 adelaide and canberra:阿德莱德和堪培拉
@@ -3759,6 +3774,7 @@ adelaide river:阿德莱德河
 adelaide royal:阿德莱德皇家
 adelaide said:阿德莱德说
 adelaide six:阿德莱德六
+adelaide station:阿德莱德站
 adelaide street circuit:阿德莱德街道赛道
 adelaide street:阿德莱德街
 adelaide student adam:阿德莱德学生亚当
@@ -3768,6 +3784,8 @@ adelaide test:阿德莱德测试
 adelaide town hall:阿德萊德市政廳
 adelaide train station:阿德莱德火车站
 adelaide united fc:阿德莱德联足球俱乐部
+adelaide university:阿德莱德大学
+adelaide university:阿德莱德大學
 adelaide zoo is australia:阿德莱德动物园是澳大利亚
 adelaide zoo:阿德莱德动物园
 adelaide:阿德莱德
@@ -3834,9 +3852,14 @@ aden (guvernement):亚丁省
 aden (il):亚丁省
 aden (maakunta):亚丁省
 aden (muhafaza):亚丁省
+aden airport:亚丁机场
 aden and taiz:亞丁和塔伊茲
+aden campaign:亚丁战役
 aden cannon:亞丁轉輪式機炮
 aden colony:亚丁殖民地
+aden colony:亞丁殖民地
+aden crisis:亚丁危机
+aden crisis:亞丁危機
 aden emergency:亞丁危機
 aden governorate:亚丁省
 aden governorate:亞丁省
@@ -3848,7 +3871,12 @@ aden hotel shenzhen nanshan:深圳南山伊敦酒店
 aden international airport:亞丁國際機場
 aden mühafazası:亚丁省
 aden protectorate:亚丁保护国
+aden province:亚丁省
+aden province:亞丁省
+aden settlement:亚丁殖民地
+aden settlement:亞丁殖民地
 aden séng:亚丁省
+aden university:亚丁大学
 aden:亚丁
 aden:亞丁
 adena golfo:亚丁湾
@@ -3873,6 +3901,7 @@ adenine and thymine:腺嘌呤和胸腺嘧啶
 adenine methylation:腺嘌呤甲基化
 adenine molecules:腺嘌呤分子
 adenine nucleotide:腺嘌呤核苷酸
+adenine phosphoribosyltransferase:腺嘌呤磷酸核糖基转移酶
 adenine:腺嘌呤
 adeninlahti:亚丁湾
 adenium:沙漠玫瑰属
@@ -4497,6 +4526,7 @@ adhe tapontsang:阿妈阿德
 adhemar of le puy:勒皮主教阿希马尔
 adherens junction:黏着小帶
 adhesion molecule:黏附分子
+adhesion molecules:黏附分子
 adhesion:黏附
 adhesive bandage:创可贴
 adhesive capsulitis of the shoulder:沾黏性肩關節囊炎
@@ -4538,6 +4568,7 @@ adidas ag:愛迪達
 adidas arena:愛迪達體育館
 adidas brazuca:巴西榮耀
 adidas company:愛迪達公司
+adidas cup:阿迪达斯杯
 adidas jabulani:普天同慶
 adidas teamgeist:团队之星
 adidas telstar:电视之星
@@ -4733,6 +4764,7 @@ adler studio:阿德勒工作室
 adler suggest:阿德勒建议
 adler team:阿德勒团队
 adler university:阿德勒大学
+adler university:阿德勒大學
 adler was my team:阿德勒是我的队
 adler's gecko:鹰氏壁虎
 adler:阿德列爾
@@ -5488,6 +5520,8 @@ administrator diploma:管理员文凭
 administrator disable:管理员禁止
 administrator download:管理员下载
 administrator efficiency:管理员效率
+administrator election:管理员选举
+administrator elections:管理员选举
 administrator eugene:管理员尤金
 administrator exam:管理员考试
 administrator experience:管理员经验
@@ -5710,6 +5744,7 @@ admiralty centre tower 1:寫字樓第一座
 admiralty centre tower 1:海富中心一座
 admiralty centre tower 2:海富中心二座
 admiralty centre:海富中心
+admiralty council:海军部委员会
 admiralty garden:金鐘花園
 admiralty garden:金钟花园
 admiralty heights:愛都閣
@@ -5717,6 +5752,7 @@ admiralty island:阿德默勒尔蒂岛
 admiralty island:阿德默勒爾蒂島
 admiralty islands campaign:阿德默勒尔蒂群岛战役
 admiralty islands:阿德默勒尔蒂群岛
+admiralty lake:金钟湖
 admiralty law:海事法
 admiralty mountains:阿德默勒爾蒂山脈
 admiralty mtr station:金鐘港鐵站
@@ -5727,6 +5763,7 @@ admiralty road west:海军部西路
 admiralty road west:海軍部西路
 admiralty road:海军部西路
 admiralty road:海军部路
+admiralty shipyard:海军部造船厂
 admiralty shipyards:海军部造船厂
 admiralty sound:阿德默勒爾蒂灣
 admiralty station - admiralty centre:金鐘站 - 海富中心
@@ -5744,6 +5781,7 @@ admiralty station - tamar street:金鐘站 - 添馬街
 admiralty station - tamar street:金钟站 - 添马街
 admiralty station - united centre:金鐘站 - 統一中心
 admiralty station - united centre:金钟站 - 统一中心
+admiralty station:海军部站
 admiralty station:金鐘站
 admiralty station:金钟站
 admiralty:海军部
@@ -6103,6 +6141,7 @@ ado den haag stadium:海牙体育场
 ado ekiti:阿多埃基蒂
 ado myūjiamu tōkyō:東京廣告博物館
 ado onaiwu:安拿胡阿道
+adobe brick:土坯砖
 adobe building:土坯建筑
 adobe buildings:土坯建筑
 adobe ceiling:土坯天花板
@@ -6136,6 +6175,7 @@ adolescence education:青春期教育
 adolescence end:青春期结束
 adolescence is a war:青春期是一个战争
 adolescence medicine:青少年医学
+adolescence novel:青少年小说
 adolescence obesity:青少年肥胖
 adolescence or adulthood:青春期或成年期
 adolescence or maturity:青春期或成熟
@@ -6362,6 +6402,7 @@ adrapsa:疖夜蛾属
 adrar des ifoghas:伊福加斯山
 adrar district:阿德拉爾區
 adrar eanangoddi:阿德拉尔省
+adrar plateau:阿德拉尔高原
 adrar plateau:阿德拉爾高原
 adrar province:阿德拉尔省
 adrar stadium:阿德拉尔体育场
@@ -6576,6 +6617,7 @@ adsorption capacity:吸附容量
 adsorption capacity:吸附能力
 adsorption channel:吸附通道
 adsorption characteristics:吸附特性
+adsorption chromatography:吸附色谱法
 adsorption coefficient:吸附系数
 adsorption column:吸附柱
 adsorption data:吸附数据
@@ -6629,6 +6671,7 @@ adsorption:吸附
 adu language:阿笃语
 adu:阿都
 adu:阿都乡
+aduana building:海关建筑
 aduana:海关
 adubo:阿都波
 aducanumab:阿杜卡努单抗
@@ -6794,6 +6837,7 @@ adult cockroach:成年蟑螂
 adult coconut crab:成年椰子蟹
 adult comic:成年漫画
 adult comics:成人漫画
+adult comics:成年漫画
 adult communities:成年人社区
 adult community:成年人社区
 adult community:成年社区
@@ -7095,6 +7139,7 @@ adult lion:成年狮子
 adult literacy rate:成人的識字率
 adult literacy:成人的識字
 adult literary fiction:成年文学小说
+adult literature:成年文學
 adult liver cancer:成年肝癌
 adult liver cells:成年肝细胞
 adult liver:成人的肝
@@ -8259,8 +8304,10 @@ adventure files:冒险文件
 adventure film thunderbirds:冒险电影雷鸟
 adventure film:冒险片
 adventure film:冒险电影
+adventure film:冒險电影
 adventure films need computer:冒险电影需要电脑
 adventure films:冒险电影
+adventure films:冒險电影
 adventure flight:冒险飞行
 adventure format:冒险格式
 adventure from:冒险从
@@ -8274,8 +8321,13 @@ adventure game set:冒险游戏设置
 adventure game you should help:冒险游戏你应该帮助
 adventure game you:冒险游戏你
 adventure game:冒险游戏
+adventure game:冒險游戏
+adventure games:冒险游戏
+adventure games:冒險游戏
 adventure generator:冒险生成器
 adventure girl:冒险女孩
+adventure girl:冒险少女
+adventure girl:冒險少女
 adventure give:冒险给
 adventure go:冒险去
 adventure guy:冒险家伙
@@ -8314,6 +8366,7 @@ adventure learning center:冒险学习中心
 adventure learning:冒险学习
 adventure life:冒险生活
 adventure list:冒险列表
+adventure literature:冒险文学
 adventure magazine:冒险杂志
 adventure map:冒险地图
 adventure means:冒险意味着
@@ -8321,10 +8374,12 @@ adventure mode:冒险模式
 adventure mode:冒險模式
 adventure mountain:冒险山
 adventure movie:冒险电影
+adventure movie:冒險电影
 adventure movies:冒险电影
 adventure narrative:冒险故事
 adventure needs:冒险需要
 adventure novel:冒险小说
+adventure novelist:冒險小說家
 adventure of the king:龍鳳店
 adventure offer:冒险提供
 adventure open world:冒險開放世界
@@ -8711,6 +8766,8 @@ advertising scandal:廣告醜聞
 advertising screen:廣告屏幕
 advertising signage:廣告招牌
 advertising slogan:廣告標語
+advertising song:廣告歌
+advertising song:廣告歌曲
 advertising space:廣告空間
 advertising strategy:廣告策略
 advertising success:廣告成功

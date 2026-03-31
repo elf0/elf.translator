@@ -1,4 +1,5 @@
 sp cailungo:蔡倫戈體育會
+sp cup:聖保羅州杯
 sp la fiorita:拉科奧里塔體育會
 sp tre penne:迪賓尼足球會
 sp:圣保罗州
@@ -442,6 +443,7 @@ space average:空间平均
 space axis:空间轴
 space back:空间背
 space background:空间背景
+space badge:空间徽章
 space bag:空间袋
 space ball:空間球
 space ball:空间球
@@ -673,7 +675,9 @@ space development:空间发展
 space development:空间开发
 space device:空间设备
 space devices:空间设备
+space diagonal:空間對角線
 space dialogue:空间对话
+space dimension:空間維度
 space dimension:空间维度
 space dimensions:空间维度
 space diplomacy:空间外交
@@ -708,6 +712,7 @@ space editing:空间编辑
 space edits:空间编辑
 space education and research:空间教育与研究
 space education and space:空间教育和空间
+space education:空間教育
 space education:空间教育
 space effect:空間效果
 space effect:空间效果
@@ -725,6 +730,7 @@ space elements:空间元素
 space elevator concept:太空電梯概念
 space elevator design:太空電梯設計
 space elevator:太空電梯
+space elevator:空间电梯
 space emergency:空间紧急情况
 space emperor god sigma:神勇戰士
 space empire:空间帝国
@@ -848,6 +854,7 @@ space exploration training:太空探索培训
 space exploration vehicle:太空探索车辆
 space exploration would:太空探索将
 space exploration:太空探索
+space exploration:空间探索
 space explorers:空间探险家
 space extend:空间扩展
 space facilities:空间设施
@@ -890,6 +897,7 @@ space foundation:空间基金
 space frame:空間桁架
 space free:空间免费的
 space freedom:空间自由
+space frequency:空间频率
 space friends:空间朋友
 space from:空间从
 space fuel:空间燃料
@@ -1227,6 +1235,7 @@ space nuclear reactor:空间核反应堆
 space object:空间对象
 space observation satellite:空间观察卫星
 space observation:空间观察
+space observatory:空间天文台
 space observer:空间观察者
 space obstacles:空间障碍
 space oddity:太空怪谈
@@ -1697,6 +1706,7 @@ space station welcome:空间站欢迎
 space station will:空间站会
 space station without:空间站没有
 space station would:空间站将
+space station:空間站
 space station:空间站
 space steel:空间钢
 space still:空间仍然
@@ -1749,6 +1759,7 @@ space task group:太空任務組
 space tasks:空间任务
 space teach:空间教
 space team:空间团队
+space techniques:空间技术
 space technologies and applications:空间技术和应用
 space technologies include:空间技术包括
 space technologies:空间技术
@@ -1761,6 +1772,7 @@ space technology missions:航天技术任务
 space technology research and application:航天技术研究与应用
 space technology research:航天技术研究
 space technology training:航天技术培训
+space technology:空间技术
 space technology:航天技术
 space telecommunications:空间电信
 space telescope continues:空间望远镜继续
@@ -1873,6 +1885,7 @@ space travel will:太空旅行会
 space travel:太空旅行
 space treaty:空间条约
 space tree:空间树
+space trilogy:空間三部曲
 space trilogy:空间三部曲
 space tug:太空拖船
 space tunnel:空间隧道
@@ -1907,6 +1920,8 @@ space vector:空間矢量
 space vector:空间矢量
 space vectors:空间向量
 space velocity:空間速度
+space velocity:空间速度
+space velocity:空间速率
 space version:空間版本
 space version:空间版本
 space very:空间非常
@@ -1944,6 +1959,7 @@ space weather prediction center:太空天氣預測中心
 space weather prediction center:美国太空气象预报中心
 space weather prediction:太空天氣預測
 space weather:太空天氣
+space weather:空间天气
 space weathering:空间风化
 space week:空間周
 space week:空间周
@@ -1974,6 +1990,7 @@ space without:空间没有
 space work:空間工作
 space world station:太空世界站
 space world:空間世界
+space world:空间世界
 space wormhole:空间虫洞
 space would have three:空间将有三
 space would:空间将
@@ -2331,6 +2348,7 @@ spaceflight museum:航天博物馆
 spaceflight plans:航天计划
 spaceflight policy:航天政策
 spaceflight project:航天项目
+spaceflight records:航天记录
 spaceflight safety:航天安全
 spaceflight solution:航天解决方案
 spaceflight studies:航天研究
@@ -2346,6 +2364,7 @@ spaceflight training:航天训练
 spaceflight transportation:航天运输
 spaceflight:航天
 spacegodzilla:太空哥吉拉
+spaceguard foundation:太空警衛基金
 spaceguard:太空警衛
 spacelab:太空實驗室
 spaceplane:太空飛機
@@ -2368,6 +2387,7 @@ spacetime has energy:时空有能量
 spacetime how to:时空如何
 spacetime interval:时空间隔
 spacetime is a mathematical model:时空是一个数学模型
+spacetime manifold:时空流形
 spacetime means:时空意味着
 spacetime measuring equipment:时空测量设备
 spacetime measuring:时空测量
@@ -2377,7 +2397,9 @@ spacetime odyssey:时空奥德赛
 spacetime path:时空路径
 spacetime pattern:时空模式
 spacetime sculpture:时空雕塑
+spacetime singularity:时空奇点
 spacetime structure:时空结构
+spacetime topology:时空拓扑学
 spacetime tunnel:时空隧道
 spacetime:时空
 spacety:天仪研究院
@@ -2802,6 +2824,7 @@ spain control:西班牙控制
 spain could:西班牙能
 spain council:西班牙理事会
 spain country:西班牙国家
+spain cup:西班牙杯
 spain currently:西班牙目前
 spain customs:西班牙海关
 spain davis cup team:西班牙戴维斯杯代表队
@@ -2884,6 +2907,7 @@ spain king:西班牙王
 spain lack:西班牙缺乏
 spain last year:西班牙去年
 spain library:西班牙图书馆
+spain madrid:西班牙馬德里
 spain madrid:西班牙马德里
 spain major:西班牙主要
 spain manager:西班牙经理
@@ -2914,6 +2938,7 @@ spain needs:西班牙需要
 spain network:西班牙网络
 spain now:西班牙现在
 spain offer:西班牙提供
+spain olympic:西班牙奧運
 spain once again:西班牙再次
 spain open:西班牙开
 spain or any other international:西班牙或任何其他国际
@@ -3004,6 +3029,7 @@ spain twice:西班牙两次
 spain until:西班牙直到
 spain uses euro:西班牙使用欧元
 spain uses:西班牙使用
+spain valencia:西班牙華倫西亞
 spain villa:西班牙别墅
 spain want:西班牙想要
 spain was a catholic:西班牙是一个天主教
@@ -3014,6 +3040,7 @@ spain will accept all:西班牙将接受所有
 spain will provide at least:西班牙将提供至少
 spain will:西班牙会
 spain win:西班牙赢得
+spain wine:西班牙葡萄酒
 spain with barcelona:西班牙与巴塞罗那
 spain with morocco:西班牙与摩洛哥
 spain women's national basketball team:西班牙国家女子篮球队
@@ -3034,6 +3061,7 @@ spalatum:史普利特
 spalatum:斯普利特
 spalatum:施普利特
 spalax:鼹形鼠属
+spalding county:斯波尔丁县
 spalding township:斯波尔丁镇区
 spalding:斯波尔丁
 spalgis epius:熙灰蝶
@@ -3228,7 +3256,10 @@ span would:跨度将
 span:跨度
 spanair:西班牙航空
 spandau citadel:斯潘道要塞
+spandau citadel:施潘道城堡
 spandau prison:斯潘道監獄
+spandau prison:施潘道监狱
+spandau prison:施潘道監獄
 spandau:施潘道
 spandauer sv:斯潘道体育俱乐部
 spandex fetishism:戀氨綸
@@ -3242,6 +3273,7 @@ spangdahlem:施庞达勒姆
 spangenberg:施潘根贝格
 spanggur bunker:sī pān gǔ ěr (bān kǎ)
 spanggur gap:斯潘古爾山口
+spanggur lake:斯潘古尔湖
 spanggur pass road:sī pān gǔ ěr shānkǒu gōnglù
 spanggur tso:曼冬错
 spanggur:sī pān gǔ ěr
@@ -3355,6 +3387,7 @@ spanish airport and aviation:西班牙机场和航空
 spanish airport:西班牙机场
 spanish alliance:西班牙的联盟
 spanish alphabet:西班牙字母
+spanish alphabet:西班牙语字母
 spanish alternative investment market:西班牙另类投资市场
 spanish alternative investment:西班牙另类投资
 spanish always:西班牙人总是
@@ -3363,11 +3396,15 @@ spanish ambassador and venezuela:西班牙大使和委內瑞拉
 spanish ambassador:西班牙大使
 spanish america:西班牙的美洲
 spanish america:西班牙美国
+spanish america:西班牙美洲
 spanish america:西班牙语美洲
 spanish american revolution:西班牙美国革命
 spanish american wars of independence:西班牙美洲獨立戰爭
 spanish americans:西班牙裔美国人
+spanish americas:西班牙美洲
+spanish americas:西班牙语美洲
 spanish analysis:西班牙分析
+spanish anarchism:西班牙无政府主义
 spanish anarchist:西班牙无政府主义者
 spanish anarchist:西班牙的无政府主义者
 spanish anarcho-syndicalism:西班牙无政府工团主义
@@ -3545,6 +3582,7 @@ spanish architect:西班牙建筑师
 spanish architects:西班牙建筑师
 spanish architects:西班牙的建筑师
 spanish architectural style:西班牙建筑风格
+spanish architecture:西班牙建筑
 spanish archive:西班牙档案
 spanish archive:西班牙檔案
 spanish arena:西班牙竞技场
@@ -3682,11 +3720,13 @@ spanish brother:西班牙兄弟
 spanish budget:西班牙预算
 spanish buildings:西班牙建筑
 spanish bull:西班牙公牛
+spanish bulldog:西班牙斗牛犬
 spanish bullfighting:西班牙鬥牛
 spanish business course:西班牙商业课程
 spanish business:西班牙商业
 spanish business:西班牙的商业
 spanish buy:西班牙买
+spanish cabinet:西班牙内阁
 spanish campaign:西班牙战役
 spanish canary islands:西班牙加那利群岛
 spanish cancer expert:西班牙的癌症专家
@@ -3735,6 +3775,7 @@ spanish championships:西班牙冠军
 spanish chemical industry:西班牙化学工业
 spanish cheque:西班牙支票
 spanish chess:西班牙国际象棋
+spanish chestnut:西班牙栗
 spanish chestnut:西班牙的栗
 spanish child kill:西班牙儿童杀
 spanish child:西班牙儿童
@@ -3800,6 +3841,7 @@ spanish cold:西班牙冷
 spanish colleague:西班牙同事
 spanish colleagues:西班牙同事
 spanish college students:西班牙大学生
+spanish college:西班牙学院
 spanish colonel:西班牙上校
 spanish colonialism and u.s.:西班牙殖民主义和美国
 spanish colonialism:西班牙殖民主义
@@ -3811,7 +3853,9 @@ spanish colonization:西班牙的殖民
 spanish colony town:西班牙殖民地城镇
 spanish colony:西班牙殖民地
 spanish colony:西班牙的殖民地
+spanish comedy:西班牙喜劇
 spanish comic:西班牙漫画
+spanish comics:西班牙漫画
 spanish commander:西班牙指挥官
 spanish committee:西班牙委员会
 spanish communication skills:西班牙语沟通技巧
@@ -4004,6 +4048,7 @@ spanish education:西班牙教育
 spanish education:西班牙的教育
 spanish education:西班牙语教育
 spanish election:西班牙选举
+spanish elections:西班牙选举
 spanish electricity:西班牙電
 spanish elegance:西班牙优雅
 spanish elements:西班牙元素
@@ -4032,6 +4077,7 @@ spanish engineers:西班牙工程师们
 spanish english:西班牙英语
 spanish engraving museum:西班牙雕刻博物馆
 spanish engraving:西班牙雕刻
+spanish enlightenment:西班牙的启蒙
 spanish enslave:西班牙人奴役
 spanish enslave:西班牙奴役
 spanish enterprise:西班牙企业
@@ -4044,6 +4090,7 @@ spanish environment:西班牙环境
 spanish envoy:西班牙特使
 spanish epic palm tree:西班牙史诗棕榈树
 spanish epic:西班牙史诗
+spanish escudo:西班牙埃斯庫多
 spanish euro coins:西班牙的歐元硬幣
 spanish events:西班牙事件
 spanish exam course:西班牙语考试课程
@@ -4088,6 +4135,8 @@ spanish fast fashion:西班牙快时尚
 spanish father or mother:西班牙父亲或母亲
 spanish father:西班牙父亲
 spanish federation of municipalities and provinces:西班牙省市联合会
+spanish federation:西班牙人联盟
+spanish federation:西班牙联盟
 spanish feminine:西班牙女性的
 spanish fess:西班牙式三條旗
 spanish festival:西班牙节日
@@ -4124,6 +4173,7 @@ spanish fleet:西班牙艦隊
 spanish florida:西属佛罗里达
 spanish fly:西班牙苍蝇
 spanish fly:西班牙飞
+spanish folklore:西班牙民俗
 spanish follow:西班牙人跟随
 spanish food company:西班牙食品公司
 spanish food hall:西班牙食品大厅
@@ -4258,6 +4308,7 @@ spanish guitar:西班牙吉他
 spanish guitar:西班牙的吉他
 spanish gun:西班牙的枪械
 spanish habit:西班牙习惯
+spanish haiti:西班牙海地
 spanish hall:西班牙大厅
 spanish ham:西班牙火腿
 spanish hand:西班牙手
@@ -4375,6 +4426,7 @@ spanish islands:西班牙群岛
 spanish jail:西班牙监狱
 spanish jasmine:西班牙茉莉
 spanish jesuits:西班牙耶稣会
+spanish jew:西班牙犹太人
 spanish jews:西班牙犹太人
 spanish jews:西班牙的犹太人
 spanish joe:西班牙乔
@@ -4477,10 +4529,14 @@ spanish language tv phenomenon:西班牙语电视现象
 spanish language tv:西班牙语电视
 spanish language update:西班牙语更新
 spanish language version:西班牙语版本
+spanish language:西班牙的語言
 spanish language:西班牙的语言
 spanish language:西班牙語言
 spanish language:西班牙语
+spanish language:西班牙语言
 spanish language:西班牙语语言
+spanish languages:西班牙的语言
+spanish languages:西班牙语言
 spanish languages:西班牙语语言
 spanish law allow:西班牙法律允许
 spanish law of council:西班牙法律的理事会
@@ -4489,6 +4545,7 @@ spanish law:西班牙法律
 spanish law:西班牙的法律
 spanish laws:西班牙法律
 spanish lawyer:西班牙律師
+spanish league:西班牙人联盟
 spanish league:西班牙联盟
 spanish learn:西班牙学习
 spanish learn:西班牙语学习
@@ -4546,6 +4603,7 @@ spanish manufacturer:西班牙制造商
 spanish map:西班牙地图
 spanish map:西班牙语地图
 spanish march:西班牙邊疆區
+spanish marines:西班牙海軍陸戰隊
 spanish market:西班牙市场
 spanish markets:西班牙市场
 spanish markets:西班牙语市场
@@ -4604,6 +4662,7 @@ spanish monopoly:西班牙垄断
 spanish monument:西班牙的纪念碑
 spanish more than:西班牙超过
 spanish moroccan:西班牙摩洛哥
+spanish moroccan:西班牙摩洛哥人
 spanish morocco:西班牙摩洛哥
 spanish morocco:西班牙的摩洛哥
 spanish mosque:西班牙清真寺
@@ -4619,10 +4678,12 @@ spanish motorcycle:西班牙摩托车
 spanish movie:西班牙电影
 spanish movies:西班牙电影
 spanish mule:西班牙骡子
+spanish municipality:西班牙自治区
 spanish museum:西班牙博物馆
 spanish music:西班牙音乐
 spanish musician:西班牙音乐家
 spanish muslim:西班牙的穆斯林
+spanish muslim:西班牙穆斯林
 spanish muslims:西班牙穆斯林
 spanish mysticism:西班牙神秘主義
 spanish name means people:西班牙名字意味着人民
@@ -4633,9 +4694,11 @@ spanish name:西班牙姓名
 spanish name:西班牙的名字
 spanish name:西班牙语名字
 spanish name:西班牙语名称
+spanish name:西班牙语姓名
 spanish naming customs:西班牙语姓名
 spanish nanny:西班牙保姆
 spanish nation:西班牙国家
+spanish nation:西班牙语国家
 spanish national anthem:西班牙国歌
 spanish national anthem:西班牙的国歌
 spanish national center for biotechnology:西班牙国家生物技术中心
@@ -4679,6 +4742,7 @@ spanish newspaper:西班牙报纸
 spanish newspaper:西班牙的报纸
 spanish newspaper:西班牙语报纸
 spanish nightlife:西班牙的夜生活
+spanish nobility:西班牙貴族
 spanish noble:西班牙贵族
 spanish nouns:西班牙语名词
 spanish novel:西班牙小说
@@ -4785,6 +4849,7 @@ spanish period:西班牙的时期
 spanish persecution:西班牙迫害
 spanish peseta and french franc:比塞塔和法国法郎
 spanish peseta:比塞塔
+spanish philology:西班牙语文学
 spanish philosopher george:西班牙哲学家乔治
 spanish philosopher:西班牙哲学家
 spanish philosopher:西班牙哲學家
@@ -4823,11 +4888,13 @@ spanish policy:西班牙政策
 spanish political party websites:西班牙政党网站
 spanish political party:西班牙政党
 spanish politician:西班牙政客
+spanish politician:西班牙政治人物
 spanish politician:西班牙政治家
 spanish politics:西班牙政治
 spanish polyurethane:西班牙聚氨酯
 spanish pond turtle:地中海石龜
 spanish pop singer:西班牙流行歌手
+spanish population:西班牙人口
 spanish population:西班牙语人口
 spanish pork markets:西班牙猪肉市场
 spanish pork markets:西班牙的猪肉市场
@@ -4928,6 +4995,7 @@ spanish reform:西班牙改革
 spanish reforms:西班牙的改革
 spanish refrigeration:西班牙制冷
 spanish refugee:西班牙难民
+spanish regime:西班牙政权
 spanish region of murcia:西班牙穆尔西亚地区
 spanish region:西班牙地区
 spanish regions:西班牙地区
@@ -4942,6 +5010,7 @@ spanish republic:西班牙共和国
 spanish republican armed forces:西班牙共和武裝部隊
 spanish republican army:西班牙共和军
 spanish republican government in exile:西班牙共和國流亡政府
+spanish republicanism:西班牙共和主义
 spanish rescue team:西班牙救援队
 spanish rescue:西班牙救援
 spanish rescue:西班牙的救援
@@ -5036,6 +5105,7 @@ spanish service:西班牙服务
 spanish service:西班牙语服务
 spanish services:西班牙服务
 spanish settlement:西班牙殖民地
+spanish settlement:西班牙的殖民地
 spanish settler:西班牙定居者
 spanish sheep:西班牙綿羊
 spanish sherry:西班牙雪利酒
@@ -5099,6 +5169,7 @@ spanish standards:西班牙标准
 spanish start:西班牙人开始
 spanish start:西班牙开始
 spanish state:西班牙国家
+spanish state:西班牙语国家
 spanish steps:西班牙广场和台阶
 spanish steps:西班牙階梯
 spanish still-life:西班牙静物画
@@ -5150,6 +5221,8 @@ spanish surname:西班牙姓氏
 spanish surrealism:西班牙的超现实主义
 spanish surrender:西班牙投降
 spanish sword:西班牙剑
+spanish synagogue:西班牙猶太會堂
+spanish syntax:西班牙语语法
 spanish tabloid:西班牙小報
 spanish tailor:西班牙裁缝
 spanish tank:西班牙坦克
@@ -5543,6 +5616,7 @@ spark hope:火花希望
 spark i:火花我
 spark ignition engine:火花點火
 spark in:火花里面
+spark ionization:火花电离
 spark is fake:火花是假的
 spark is left:火花是左
 spark is necessary:火花是必要的
@@ -5578,6 +5652,8 @@ spark said:火花说
 spark show:火花显示
 spark source:火花源
 spark spectrometer:火花光谱仪
+spark sport:火花运动
+spark sports:火花运动
 spark still:火花仍然
 spark stream:火花流
 spark tank:火花坦克
@@ -5602,6 +5678,7 @@ sparks coach:斯帕克斯教练
 sparks estimate:斯帕克斯估计
 sparks said:斯帕克斯说
 sparks street:士柏士街
+sparks street:斯帕克斯街
 sparks:斯帕克斯
 sparkshorts:火花短片
 sparneck:施帕内克
@@ -5646,6 +5723,7 @@ sparta prague:斯巴达布拉格
 sparta provide:斯巴达提供
 sparta rotterdam:鹿特丹斯巴達
 sparta stadion het kasteel:斯巴達城堡運動場
+sparta stadium:斯巴达体育场
 sparta township:斯巴达镇区
 sparta:斯巴达
 spartacist uprising:斯巴达克同盟起义
@@ -5655,9 +5733,11 @@ spartacus blood:斯巴达克斯血
 spartacus club:斯巴达克斯俱乐部
 spartacus international gay guide:斯巴達克國際同性戀旅行指南
 spartacus lead:斯巴达克斯领导
+spartacus league:斯巴达克斯联盟
 spartacus league:斯巴達克同盟
 spartacus peak:斯帕塔庫斯峰
 spartacus soon:斯巴达克斯很快
+spartacus uprising:斯巴达克斯起义
 spartacus:斯巴达克斯
 spartaeus:散蛛属
 spartak myjava:米亚瓦斯巴达克足球俱乐部
@@ -5936,6 +6016,7 @@ spear of longinus:朗基努斯槍
 spear of wind:風槍
 spear phishing:魚叉式網路釣魚
 spear thrower:投槍器
+spear tower:槍塔
 spear:槍
 spearfish remora:短臂短鮣
 spearfishing:刺鱼
@@ -11127,6 +11208,7 @@ spectrum analyzer user:频谱分析仪用户
 spectrum analyzer:频谱分析仪
 spectrum and extreme:光谱和极端的
 spectrum antibody:光谱抗体
+spectrum approach:光谱方法
 spectrum area:光谱面积
 spectrum awards:光谱奖
 spectrum band:光谱带
@@ -11146,6 +11228,7 @@ spectrum education:光谱教育
 spectrum efficiency:光谱效率
 spectrum exist:光谱存在
 spectrum from:光谱从
+spectrum furniture:光谱家具
 spectrum group:光谱组
 spectrum image sensor:光谱图像传感器
 spectrum image:光谱图像
@@ -11353,6 +11436,7 @@ speech assistants:语音助手
 speech audio stream:语音音频流
 speech audio:语音音频
 speech balloon:语音气球
+speech balloon:说话气球
 speech brain:语音脑
 speech browser:语音浏览器
 speech cannot:语音不能
@@ -12289,6 +12373,8 @@ speed life:速度生活
 speed limit enforcement:車速限制執法
 speed limit self:车速限制自我
 speed limit:车速限制
+speed limit:速度限制
+speed limit:速率限制
 speed line:速度线
 speed list:速度列表
 speed load:速度加载
@@ -12440,7 +12526,9 @@ speed requirements:速度要求
 speed requirements:速度需求
 speed requirements:速率要求
 speed response:速度响应
+speed restriction:速度约束
 speed restriction:速度限制
+speed restriction:速率限制
 speed result:速度导致
 speed results:速度结果
 speed revolution:速度革命
@@ -12575,6 +12663,7 @@ speed-test data:速度测试数据
 speed:速度
 speed:速率
 speedboat are the only:快艇是唯一
+speedboat attack:快艇攻击
 speedboat captain:快艇船长
 speedboat cruise:快艇巡航
 speedboat from:快艇从
@@ -12754,6 +12843,7 @@ spell-check reject:拼写检查拒绝
 spell-check software:拼写检查软件
 spell:拼写
 speller aa:施佩勒河
+spelling alphabet:拼寫字母
 spelling alphabet:通话表
 spelling and gender:拼寫和性
 spelling and pronunciation:拼寫和發音
@@ -12763,6 +12853,7 @@ spelling bee:拼字比賽
 spelling error:拼寫錯誤
 spelling her name:拼寫她的名字
 spelling reform:拼寫改革
+spelling reforms:拼寫改革
 spelling score:拼寫得分
 spelling skills:拼寫技巧
 spelling system:拼寫系統
@@ -12775,6 +12866,7 @@ spelt sample:斯佩耳特小麦样品
 spelt:斯佩耳特小麦
 spelthorne district:斯佩尔索恩
 spelthorne:斯佩尔索恩
+spen king:西班牙国王
 spen:西班牙
 spence harbor:斯彭斯港
 spenceley glacier:斯彭斯利冰川
@@ -12783,6 +12875,7 @@ spencer became:斯賓塞成为
 spencer county:斯潘塞縣
 spencer davis:斯賓塞戴維斯
 spencer dock luas stop:斯賓塞碼頭站
+spencer dock:斯賓塞碼頭
 spencer family:斯宾塞家族
 spencer foo:福将
 spencer gulf:斯潘塞湾
@@ -13038,6 +13131,8 @@ speusippus:斯珀西波斯
 spey ibaia:斯佩河
 spey:斯佩河
 speyer cathedral:施派尔主教座堂
+speyer cathedral:施派尔大教堂
+speyer cathedrals:施派尔大教堂
 speyer line:施派爾線
 speyer wine bottle:斯派尔酒瓶
 speyer:施派尔
@@ -13222,6 +13317,7 @@ sphingomonadaceae:鞘脂单胞菌科
 sphingomonadales:鞘脂单胞菌目
 sphingomonas:鞘氨醇单胞菌属
 sphingomyelin form:鞘磷脂形式
+sphingomyelin phosphodiesterase:鞘磷脂磷酸二酯酶
 sphingomyelin:鞘磷脂
 sphingonaepiopsis:缘斑天蛾属
 sphingonotus:束颈蝗属
@@ -13235,6 +13331,7 @@ sphinx international airport:斯芬克斯国际机场
 sphinx is his cousin:斯芬克斯是他的表亲
 sphinx island:斯芬克斯島
 sphinx moth:斯芬克斯蛾
+sphinx mountain:斯芬克斯山
 sphinx observatory:斯芬克斯天文台
 sphinx of memphis:孟菲斯狮身人面像
 sphinx of naxos:納克索斯獅身人面像
@@ -13419,9 +13516,12 @@ spider expert:蜘蛛专家
 spider eye:蜘蛛眼
 spider farm:蜘蛛农场
 spider fast:蜘蛛快速的
+spider flower:蜘蛛花
 spider foot:蜘蛛脚
+spider forest:蜘蛛森林
 spider fossil:蜘蛛化石
 spider geddon:蜘蛛軍團
+spider girl:蜘蛛女孩
 spider god:蜘蛛神
 spider goddess:蜘蛛女神
 spider ham:豬豬人
@@ -13432,6 +13532,7 @@ spider hesitate:蜘蛛犹豫
 spider hole:蜘蛛洞
 spider instinct:蜘蛛本能
 spider is you:蜘蛛是你
+spider island:蜘蛛岛
 spider jack:蜘蛛杰克
 spider jump:蜘蛛跳
 spider just:蜘蛛只
@@ -13452,7 +13553,10 @@ spider mascot:蜘蛛吉祥物
 spider master:蜘蛛大师
 spider milk:蜘蛛乳
 spider mite:叶螨科
+spider mite:蜘蛛螨
+spider monkey:蜘蛛猴
 spider monkey:蜘蛛猴属
+spider mountain:蜘蛛山
 spider nebula:蜘蛛星云
 spider nest:蜘蛛巢
 spider now:蜘蛛现在
@@ -13504,6 +13608,7 @@ spider walk:蜘蛛步行
 spider wall:蜘蛛墙
 spider wasp:蛛蜂科
 spider web:蜘蛛網
+spider web:蜘蛛网
 spider west:蜘蛛西
 spider will:蜘蛛会
 spider woman:蜘蛛女人
@@ -13567,6 +13672,7 @@ spilinga:斯皮林加
 spillane fjord:斯皮蘭灣
 spillern:施比勒恩
 spillgerte:施皮爾格特山
+spillimacheen river:斯匹黎馬欽河
 spillimacheen:斯匹黎馬欽
 spillover infection:病原溢出
 spillway began:溢洪道开始
@@ -13869,7 +13975,9 @@ spinon:自旋子
 spinophorosaurus:棘刺龍屬
 spinops:棘面龍屬
 spinor bundle:旋量丛
+spinor field:旋量场
 spinor form:旋量形式
+spinor representation:旋量表示
 spinor:旋量
 spinosauridae:棘龍科
 spinosaurus:棘龍屬
@@ -14065,6 +14173,7 @@ spirit ask:精神问
 spirit association:精神协会
 spirit at your table:精神在你的桌子
 spirit attempt:精神尝试
+spirit aviation:精神航空
 spirit awards:精神奖
 spirit away:神隱
 spirit bank:精神银行
@@ -14179,6 +14288,8 @@ spirit label:精神标签
 spirit lack:精神缺乏
 spirit lake:精神湖
 spirit land:精神土地
+spirit leader:精神領袖
+spirit leader:精神领袖
 spirit let us:精神让我们
 spirit let:精神让
 spirit level:水準管
@@ -14657,6 +14768,8 @@ spithead:斯皮特海德
 spithridates:斯皮瑞達提斯
 spiti:斯皮提山谷
 spitrasaurus:斯匹茨龙属
+spitsbergen island:斯瓦尔巴岛
+spitsbergen treaty:斯瓦尔巴条约
 spitsbergen:斯匹次卑尔根岛
 spitsbergen:斯瓦尔巴
 spitsbergen:斯瓦尔巴特和扬马延
@@ -14784,15 +14897,19 @@ splinter new:碎片新的
 splinter:碎片
 splinternet:分裂網
 split a single:分开一个单个的
+split airport:斯普利特机场
 split airport:斯普利特機場
+split airport:施普利特機場
 split attention effect:注意力分散效应
 split brain:裂腦
+split cathedral:斯普利特主教座堂
 split complex number:雙曲複數
 split ergativity:部份作格性
 split fiction:双影奇境
 split finger fastball:快速指叉球
 split flap display:机械翻页显示
 split hair:分开头发
+split island:斯普利特岛
 split it:分开它
 split my:分开我的
 split pea:去皮豌豆
@@ -14892,6 +15009,7 @@ spojené státy americké:美國
 spojené štáty americké:měiguó
 spojené štáty americké:美国
 spojené štáty americké:美國
+spokane county:斯波坎县
 spokane international airport:斯波坎国际机场
 spokane river:斯波坎河
 spokane street bridge:斯波坎街大橋
@@ -15211,6 +15329,8 @@ spokesperson yuan mu:发言人袁木
 spokesperson zhang yesui:发言人张业遂
 spokesperson:发言人
 spoladea:青野螟属
+spoleto cathedral:斯波莱托主教座堂
+spoleto cathedral:斯波莱托大教堂
 spoleto valley:斯波莱托山谷
 spoleto:斯波莱托
 společná bezpečnostní oblast:共同警备区域
@@ -15260,9 +15380,11 @@ sponge biomarker:海绵生物标记
 sponge boss:海绵老板
 sponge bullet:海绵子弹
 sponge cake:海綿蛋糕
+sponge cake:海绵蛋糕
 sponge candy:海绵糖
 sponge cell:海绵细胞
 sponge cells:海绵细胞
+sponge cities:海绵城市
 sponge city and water environment:海绵城市与水环境
 sponge city and water:海绵城市与水
 sponge city complete:海绵城市完成
@@ -15292,7 +15414,9 @@ sponge fossil:海绵化石
 sponge from japan:海绵从日本
 sponge from:海绵从
 sponge function:海綿函數
+sponge function:海绵函数
 sponge function:海绵功能
+sponge functions:海绵函数
 sponge garden:海绵花园
 sponge give:海绵给
 sponge grenade:海綿彈
@@ -15307,6 +15431,7 @@ sponge market:海绵市场
 sponge material:海绵材料
 sponge mattress:海绵床垫
 sponge me:海绵我
+sponge metal:海绵金属
 sponge molecules:海绵分子
 sponge mop:海绵拖把
 sponge mountain:海绵山
@@ -15566,6 +15691,7 @@ spoon boy:匙男孩
 spoon from:匙从
 spoon goods & cafe:勺子雜貨咖啡
 spoon honey:匙蜂蜜
+spoon lake:勺湖
 spoon of chili pepper:匙的辣椒
 spoon of coconut oil:匙的椰子油
 spoon of honey:匙的蜂蜜
@@ -15607,6 +15733,7 @@ spore cells:孢子细胞
 spore cloud:孢子云
 spore drift:孢子漂
 spore form:孢子形式
+spore hero:孢子英雄
 spore image:孢子图像
 spore jump:孢子跳
 spore plants:孢子植物
@@ -15778,6 +15905,8 @@ sport climbing at the asian games:亞洲運動會運動攀登比賽
 sport climbing at the summer olympics:夏季奧林匹克運動會運動攀登比賽
 sport climbing event:運動攀登活動
 sport climbing wall:運動攀登牆
+sport climbing:运动攀岩
+sport climbing:运动攀登
 sport climbing:運動攀登
 sport club corinthians paulista:哥連泰斯保利斯塔體育會
 sport club do recife:利斯菲體育會
@@ -15814,6 +15943,7 @@ sport devices:运动设备
 sport diver:体育运动潜水员
 sport diver:运动潜水员
 sport dog:运动犬
+sport drink:运动饮料
 sport drive:运动驾驶
 sport earphones:运动耳机
 sport ecosystem:运动生态系统
@@ -15830,6 +15960,8 @@ sport factory:运动工厂
 sport family:运动家庭
 sport fashion:运动时尚
 sport federation:运动联盟
+sport film:运动电影
+sport films:运动电影
 sport fish:运动鱼
 sport fishing is another:运动捕鱼是另一个
 sport fishing water:运动捕鱼水
@@ -15976,6 +16108,7 @@ sport means:运动意味着
 sport medicine and rehabilitation:运动医学与康复
 sport medicine and rehabilitation:运动医学和康复
 sport medicine:运动医学
+sport memory:运动记忆
 sport minister:体育运动部长
 sport mode:运动模式
 sport models:运动模型
@@ -16017,6 +16150,7 @@ sport park:运动公园
 sport participants:体育运动参与者
 sport participants:运动参与者
 sport party:体育运动党
+sport pattern:运动模式
 sport performance and response:运动性能和响应
 sport performance:运动性能
 sport performance:运动表演
@@ -16053,6 +16187,7 @@ sport rules:体育运动规则
 sport rules:运动规则
 sport safety:运动安全
 sport said:运动说
+sport sailor:运动水手
 sport saller:扎勒体育
 sport school:体育运动学校
 sport schools:体育运动学校
@@ -16180,6 +16315,7 @@ sports a new design:运动一个新的设计
 sports a new:运动一个新的
 sports abilities:运动能力
 sports ability:运动能力
+sports academy:运动学院
 sports achievements:运动成就
 sports activities:运动活动
 sports activity:运动活动
@@ -16309,6 +16445,7 @@ sports boat:运动船
 sports boat:运动艇
 sports books:运动书籍
 sports bowl:运动碗
+sports bra:运动胸罩
 sports bra:運動胸罩
 sports breathing air:运动呼吸空气
 sports breathing:运动呼吸
@@ -16405,6 +16542,7 @@ sports challenge:运动挑战
 sports challenges:运动挑战
 sports champions:运动冠军
 sports city:运动城市
+sports class:运动类
 sports climate:运动气候
 sports climbing to karate:运动攀登到空手道
 sports climbing:运动攀岩
@@ -16420,6 +16558,7 @@ sports clutch:运动离合器
 sports coach:运动教练
 sports coat:运动外套
 sports coffee:运动咖啡
+sports college:运动学院
 sports comedy:运动喜剧
 sports commentator:體育評述員
 sports committee:运动委员会
@@ -16459,6 +16598,7 @@ sports department:运动部门
 sports depo:運動用品店
 sports design:运动设计
 sports development:运动发展
+sports doctor:运动医生
 sports drink advertisement:运动饮料广告
 sports drink brand:运动饮料品牌
 sports drink business:运动饮料生意
@@ -16499,9 +16639,12 @@ sports family:运动家庭
 sports fashion:运动时尚
 sports federation:运动联盟
 sports feel:运动感觉
+sports field:运动场
 sports field:运动领域
 sports fields:运动领域
+sports film:运动电影
 sports film:運動片
+sports films:运动电影
 sports fish:运动鱼
 sports fishing:运动捕鱼
 sports floor:运动地板
@@ -16621,6 +16764,7 @@ sports media:运动媒体
 sports medical:运动医学的
 sports medicine center:運動醫學中心
 sports medicine hospital:運動醫學醫院
+sports medicine:运动医学
 sports medicine:運動醫學
 sports merit medal:體育功績勳章
 sports minister:运动部长
@@ -16630,6 +16774,7 @@ sports monitor:运动监视器
 sports more:运动更多
 sports motorcycle:运动型摩托车
 sports motorcycle:运动摩托车
+sports movie:运动电影
 sports nation:运动国家
 sports need:运动需要
 sports needs:运动需要
@@ -16708,6 +16853,7 @@ sports photography training school:运动摄影培训学校
 sports photography:运动摄影
 sports photos:运动照片
 sports physical therapy:运动物理治疗
+sports physician:运动医生
 sports physiology and performance:运动生理学和性能
 sports physiology:运动生理学
 sports plans:运动计划
@@ -16719,6 +16865,7 @@ sports product line:运动产品线
 sports product:运动产品
 sports products and services:运动产品和服务
 sports products:运动产品
+sports program:运动程序
 sports projects:运动项目
 sports protection:运动保护
 sports protein:运动蛋白质
@@ -16751,9 +16898,11 @@ sports rowing:运动划船
 sports rubber:运动橡胶
 sports safety performance:运动安全性能
 sports safety:运动安全
+sports sailor:运动水手
 sports school:體育學校
 sports science committee:運動科學委員會
 sports science reporter:運動科學記者
+sports science:运动科学
 sports science:運動科學
 sports scientist:运动科学家
 sports scientists and coach:运动科学家和教练
@@ -16777,6 +16926,7 @@ sports shoe market:运动鞋市场
 sports shoe series:运动鞋系列
 sports shoe:运动鞋
 sports shooter:运动射手
+sports shooting:运动射击
 sports shorts and sweatshirt:运动短裤和运动衫
 sports shorts:运动短裤
 sports skill:运动技能
@@ -17455,6 +17605,8 @@ spring candy:春季糖果
 spring cavefish:阿氏穴跳鮰
 spring celebration:春季庆祝
 spring cereal:春季谷物
+spring champions:春季冠军
+spring championship:春季冠军
 spring championship:春季冠军赛
 spring city resort:春天酒店
 spring city square:泉城广场
@@ -17494,6 +17646,8 @@ spring data center:春季数据中心
 spring date:春季日期
 spring dawn at su causeway:苏堤春晓
 spring dawn at su causeway:蘇堤春曉
+spring day:春日
+spring days:春天
 spring demand:春季需求
 spring design:春季设计
 spring designer:春季设计师
@@ -17501,11 +17655,13 @@ spring diplomacy:春季外交
 spring diversity dialogue:春季多样性对话
 spring diversity:春季多样性
 spring drought:春季干旱
+spring drug:春药
 spring election:春季选举
 spring end:春季结束
 spring enter:春季进入
 spring enterprises:春季企业
 spring environment:春季环境
+spring equinox:春分點
 spring estimate:春季估计
 spring event:春季事件
 spring event:春季活動
@@ -17525,11 +17681,13 @@ spring film festival:春季电影节
 spring film:春季电影
 spring finance meeting:春季金融会议
 spring finance:春季金融
+spring fire:春火
 spring fish:春季鱼
 spring flight plan:春季飛行計劃
 spring flood:春季洪水
 spring flooding:春季洪水
 spring flower:春季花
+spring flower:春花
 spring folklore:春季民俗
 spring football:春季足球
 spring forum:春季论坛
@@ -17553,6 +17711,7 @@ spring goods:春季商品
 spring graduate student:春季研究生
 spring graduates:春季毕业生
 spring grazing:春季放牧
+spring green:春綠色
 spring grove township:斯普林格罗夫镇区
 spring he:春季他
 spring health:春季健康
@@ -17579,8 +17738,12 @@ spring is coming:春來演唱會
 spring is suit:春季是适合
 spring is very important:春季是非常重要的
 spring japan:春秋航空日本
+spring king:春王
+spring koshien:春季甲子园
+spring koshien:春季甲子園
 spring lake township:斯普林莱克镇区
 spring lake:春天湖
+spring lake:春湖
 spring league south:春季联盟南
 spring league:春季联盟
 spring lecture series:春季讲座系列
@@ -17602,7 +17765,9 @@ spring migration:春季迁徙
 spring military:春季军事
 spring months:春季月
 spring mountain road:春山路
+spring mountain:春山
 spring needs:春季需要
+spring night:春夜
 spring of a twenty year old:二十岁的春天
 spring of arda:阿爾達的春天
 spring of grace renewal association:恩泉更新協會
@@ -17628,6 +17793,7 @@ spring pin:弹性销
 spring plant:春季植物
 spring plaza:涵春广场
 spring point ledge light:春點礁壁燈塔
+spring point:春点
 spring pollen season:春季花粉季节
 spring pollen:春季花粉
 spring prediction:春季预测
@@ -17638,6 +17804,7 @@ spring program:春季程序
 spring project:春季项目
 spring projects:春季项目
 spring protest:春季抗议
+spring rain:春雨
 spring rainfall:春季降雨
 spring ranch:春季牧场
 spring recipe:春季食谱
@@ -17647,6 +17814,7 @@ spring reforms:春季改革
 spring regulatory:春季监管
 spring report:春季报告
 spring research:春季研究
+spring river:春河
 spring roll because it:春卷因为它
 spring roll head:春卷头
 spring roll:春卷
@@ -17696,6 +17864,7 @@ spring test:春季测试
 spring thaw:春季解冻
 spring thief:春日小偷
 spring through:春季通过
+spring tide:春潮
 spring tieguanyin tea soup:春季铁观音茶汤
 spring tieguanyin:春季铁观音
 spring time:春季时间
@@ -17727,10 +17896,12 @@ spring vegetable:春季蔬菜
 spring village:春之乡
 spring wage:春季工资
 spring waltz:春日華爾滋
+spring water:春水
 spring water:活水源
 spring weather:春季天气
 spring wedding:春季婚礼
 spring weekend:春季周末
+spring wheat:春小麦
 spring wide mansion:春輝大廈
 spring work:春季工作
 spring you:春季你
@@ -17750,6 +17921,7 @@ springbok:跳羚
 springbrook national park:春溪國家公園
 springdale garden:暉曜花園
 springdale township:斯普林代尔镇区
+springdale township:斯普林代爾鎮區
 springdale villas car park:御庭居停車場
 springdale villas:御庭居
 springdale:斯普林代爾
@@ -17792,9 +17964,11 @@ springfield residents:斯普林菲尔德居民
 springfield rifle:春田步槍
 springfield road:斯普林菲尔德路
 springfield road:斯普林菲尔德道路
+springfield road:泉田道路
 springfield royal:斯普林菲尔德皇家
 springfield says:斯普林菲尔德说
 springfield school:斯普林菲尔德学校
+springfield station:泉田站
 springfield time:斯普林菲尔德时间
 springfield township:斯普林菲尔德镇区
 springfield tractor:春田号拖拉机
@@ -17826,6 +18000,7 @@ sprinkler:洒水器
 sprinkles:巧克力米
 sprint and high jump:短跑和跳高
 sprint and jump:短跑和跳
+sprint athlete:短跑运动员
 sprint car:短跑汽车
 sprint car:短跑车
 sprint champion cole:短跑冠军科尔

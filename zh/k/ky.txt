@@ -44,6 +44,7 @@ kyaikto:斋托
 kyain seikgyi township:賈因色基鎮區
 kyainseikgyi:贾因色基
 kyakhta trade:恰克圖商路
+kyakhta treaty:恰克图条约
 kyakhta:恰克图
 kyakhtinsky district:恰克圖區
 kyakhtinsky rayon:基亚赫京斯基区
@@ -65,6 +66,7 @@ kyangchu:黑河
 kyangché:江千乡
 kyanggain:强跟卡村
 kyangin township:坚景镇区
+kyangin township:堅景鎮區
 kyangin:堅景
 kyanglog:降洛
 kyangmar:觉马
@@ -100,19 +102,23 @@ kyaukpadaung township:皎勃東鎮區
 kyaukpadaung:皎勃東
 kyaukphyu district:皎漂縣
 kyaukphyu special economic zone:皎漂经济特区
+kyaukphyu township:皎漂鎮區
 kyaukphyu township:皎漂镇区
 kyaukphyu:皎漂
 kyaukpyu airport:皎漂机场
 kyaukpyu district:皎漂县
 kyaukpyu prison:皎漂监狱
+kyaukpyu township:皎漂鎮區
 kyaukpyu township:皎漂镇区
 kyaukpyu:皎漂
 kyaukse district:皎施县
 kyaukse township:皎施镇区
+kyaukse university:皎施大學
 kyaukse:皎施
 kyaukse:皎施县
 kyauksein pagoda:翡翠佛塔
 kyauktada district:皎德达县
+kyauktada township:皎德达镇区
 kyauktada township:皎德達鎮區
 kyauktada:皎德达
 kyauktada:皎德达镇区
@@ -120,6 +126,7 @@ kyauktaga township:皎德加镇区
 kyauktaga:皎德加
 kyauktan township:皎丹镇区
 kyauktan:皎丹镇区
+kyauktaw township:皎道鎮區
 kyauktaw township:皎道镇区
 kyauktaw:皎道
 kyauktawgyi pagoda:皎多枝佛塔
@@ -192,6 +199,7 @@ kyimxi township:克西乡
 kyimxi:kèxī xiāng
 kyimxi:克西乡
 kyimxi:克西村
+kyimyindaing township:九文台鎮區
 kyimyindaing township:九文台镇区
 kyimyindaing:九文台
 kyin hkaik htan:芹菜塘
@@ -232,18 +240,27 @@ kyithang:jí ràng cūn
 kyithang:吉让村
 kyiuzhag:吉古扎村
 kyiv and moscow:基輔和莫斯科
+kyiv arsenal:基輔兵工廠
 kyiv cake:基輔蛋糕
 kyiv city council:基輔市議會
+kyiv dam:基輔水庫
+kyiv dam:基辅水库
+kyiv day:基輔日
 kyiv day:基辅日
 kyiv fortress:基輔要塞
+kyiv fortress:基辅要塞
 kyiv funicular:基輔纜車
+kyiv government:基輔政府
 kyiv hydroelectric power plant:基輔水電站
 kyiv independence day parade:乌克兰独立日阅兵
 kyiv international school:基輔國際學校
 kyiv international university:基輔國際大學
 kyiv light rail:基輔輕軌
+kyiv mayor:基辅市长
 kyiv metro bridge:基輔地鐵橋
 kyiv metro:基輔地鐵
+kyiv metro:基輔地铁
+kyiv metro:基辅地铁
 kyiv metropolitan area:基辅都市圈
 kyiv music fest:基辅音乐节
 kyiv national economic university:基辅国立经济大学
@@ -252,18 +269,31 @@ kyiv national university of trade and economics:基辅国立贸易经济大学
 kyiv oblast state administration:基輔州州長
 kyiv oblast:基輔州
 kyiv oblast:基辅州
+kyiv offensive:基辅攻势
 kyiv pasazhyrskyi railway station:基輔客運站
+kyiv patriarchate:基輔牧首區
 kyiv pechersk lavra:基輔洞窟修道院
 kyiv pechersk lavra:基辅洞窟修道院
 kyiv peninsula:基輔半島
+kyiv peninsula:基辅半岛
 kyiv post:基輔郵報
+kyiv province:基輔省
+kyiv province:基辅省
+kyiv region:基辅军区
 kyiv regional committee of the communist party of ukraine:烏克蘭共產黨基輔州委員會
 kyiv reservoir:基輔水庫
+kyiv reservoir:基辅水库
+kyiv sea:基輔海
+kyiv trolleybus:基輔無軌電車
 kyiv tv tower:基輔電視塔
 kyiv ukraine temple:基輔烏克蘭聖殿
+kyiv university:基輔大学
+kyiv university:基輔大學
+kyiv university:基辅大学
 kyiv urban electric train:基輔都市電氣列車
 kyiv water museum:基輔水博物館
 kyiv zoo:基輔動物園
+kyiv zoo:基辅动物园
 kyiv-oblast:基輔州
 kyiv-oblast:基辅州
 kyiv-pechersk lavra:基辅洞窟修道院
@@ -366,6 +396,8 @@ kyoasia:克羅地亞/克罗地亚/克羅埃西亞
 kyoasia:克羅埃西亞
 kyobashi k2 bldg.-nai post office:京桥k2大楼邮局
 kyobashi kitaguchi:京桥北口
+kyobashi station:京桥站
+kyobashi station:京橋站
 kyobashi:京桥
 kyobashi:京橋
 kyobo book centre:光化门教保书店
@@ -382,6 +414,7 @@ kyocera mae station:京瓷前站
 kyocera philosophy:京瓷哲学
 kyocera prevent:京瓷防止
 kyocera provides:京瓷提供
+kyocera stadium:京瓷體育場
 kyocera:京瓷
 kyochon chicken:橋村炸雞
 kyochon traditional village:崔父子宅
@@ -561,6 +594,7 @@ kyoto framework:京都框架
 kyoto garden:京都花园
 kyoto geisha:京都艺妓
 kyoto gion:京都祇園
+kyoto gosho:京都御所
 kyoto gyoen national garden:京都御苑
 kyoto handicraft center:京都手工艺品中心
 kyoto has an ambitious:京都有一个雄心勃勃
@@ -615,6 +649,7 @@ kyoto prefectural library:京都府立圖書館
 kyoto prefectural university:京都府立大學
 kyoto prefecture:京都府
 kyoto prison:京都监狱
+kyoto prize:京都奖
 kyoto prize:京都獎
 kyoto protocol and paris agreement:京都议定书和巴黎协议
 kyoto protocol treaty:京都议定书条约
@@ -644,9 +679,11 @@ kyoto sta. (hachijoguchi):京都站八条口
 kyoto state guest house:京都迎宾馆
 kyoto station building:京都車站
 kyoto station hachijo guchi:京都站八条口
+kyoto station:京都站
 kyoto stock exchange:京都证券交易所
 kyoto street:京都街
 kyoto subway - kintetsu kyoto line (kokusaikaikan => shin-tanabe):京都地下铁乌丸线·近铁京都线（国际会馆→新田边）
+kyoto subway:京都地铁
 kyoto summit:京都首脑会议
 kyoto symphony orchestra:京都市交響樂團
 kyoto tachibana junior and senior high school:京都橘中学校及高等学校
@@ -818,6 +855,7 @@ kyrgyzstan and uzbekistan:吉尔吉斯斯坦和乌兹别克斯坦
 kyrgyzstan and vietnam:吉尔吉斯斯坦和越南
 kyrgyzstan at the olympics:奥林匹克运动会吉尔吉斯斯坦代表团
 kyrgyzstan capital:吉尔吉斯斯坦首都
+kyrgyzstan cup:吉尔吉斯斯坦杯
 kyrgyzstan cup:吉爾吉斯盃
 kyrgyzstan cut off:吉尔吉斯斯坦切断
 kyrgyzstan earlier this year:吉尔吉斯斯坦今年年初
@@ -832,8 +870,10 @@ kyrgyzstan nationality:吉尔吉斯斯坦国籍
 kyrgyzstan or kazakhstan:吉尔吉斯斯坦或哈萨克斯坦
 kyrgyzstan or uzbekistan:吉尔吉斯斯坦或乌兹别克斯坦
 kyrgyzstan parliament:吉尔吉斯斯坦议会
+kyrgyzstan party:吉尔吉斯斯坦党
 kyrgyzstan passport:吉尔吉斯斯坦护照
 kyrgyzstan plans:吉尔吉斯斯坦计划
+kyrgyzstan president:吉尔吉斯斯坦总统
 kyrgyzstan prison:吉尔吉斯斯坦监狱
 kyrgyzstan recently:吉尔吉斯斯坦最近
 kyrgyzstan relation:吉尔吉斯斯坦关系
@@ -844,6 +884,7 @@ kyrgyzstan says:吉尔吉斯斯坦说
 kyrgyzstan share:吉尔吉斯斯坦分享
 kyrgyzstan soon:吉尔吉斯斯坦很快
 kyrgyzstan team:吉尔吉斯斯坦队
+kyrgyzstan time:吉尔吉斯斯坦时间
 kyrgyzstan university:吉尔吉斯斯坦大学
 kyrgyzstan violate:吉尔吉斯斯坦违反
 kyrgyzstan votes:吉尔吉斯斯坦投票
@@ -986,6 +1027,7 @@ kyungzê:琼孜乡
 kyunhla township:均拉鎮區
 kyunhla township:均拉镇区
 kyunhla:均拉
+kyunsu township:甘茂鎮區
 kyunsu township:甘茂镇区
 kyunsu:甘茂
 kyurasao:古拉索
@@ -996,11 +1038,15 @@ kyuryo koen-iriguchi (bihoku hillside park entrance):丘陵公園入口
 kyusaku ogino:荻野久作
 kyushu asahi broadcasting:九州朝日放送
 kyushu bitterling:暗色鰟鮍
+kyushu campaign:九州战役
 kyushu dental university:九州齒科大學
+kyushu dialect:九州方言
 kyushu electric power:九州電力
 kyushu expressway:九州自動車道
+kyushu expressway:九州高速公路
 kyushu institute of technology:九州工业大学
 kyushu international university:九州國際大學
+kyushu island:九州岛
 kyushu junior college of kinki university:近畿大学九州短期大学
 kyushu mountains:九州山地
 kyushu national museum:九州國立博物館
@@ -1011,6 +1057,7 @@ kyushu railway company:九州旅客鐵道
 kyushu railway history museum station:九州鐵道紀念館站
 kyushu railway history museum:九州鐵道紀念館
 kyushu region:九州
+kyushu region:九州地区
 kyushu region:九州地方
 kyushu ryukoku junior college:九州龙谷短期大学
 kyushu sangyo university:九州產業大學
@@ -1021,6 +1068,7 @@ kyushu teikyo junior college:帝京大学福冈短期大学
 kyushu university and asia:九州大学和亚洲
 kyushu university museum:九州大学博物馆
 kyushu university:九州大学
+kyushu university:九州大學
 kyushu women's junior college:九州女子短期大学
 kyushu zokei art college:九州產業大學造形短期大學部
 kyushu:九州
@@ -1051,7 +1099,9 @@ kyyvesi:屈韋西湖
 kyz kuu:姑娘追
 kyz zhibek:克孜吉别克
 kyzyl airport:克孜勒机场
+kyzyl airport:克孜勒機場
 kyzyl kija:克孜勒基亞
+kyzyl kum:克孜勒库姆
 kyzyl kum:克孜勒库姆沙漠
 kyzyl kyya:克孜勒基亞
 kyzyl-art pass:喀吉尔隘口
@@ -1069,6 +1119,7 @@ kyzylkoga district:克孜勒科加區
 kyzylkum desert:克孜勒库姆沙漠
 kyzylkum:克孜勒库姆沙漠
 kyzylkumas:克孜勒库姆沙漠
+kyzylorda airport:克孜勒奥尔达机场
 kyzylorda oblast:克孜勒奥尔达州
 kyzylorda oblast:基孜羅達州
 kyzylorda probintzia:克孜勒奥尔达州

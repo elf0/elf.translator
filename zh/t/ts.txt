@@ -138,6 +138,7 @@ tsakyok yogma:sàchǔkè wòmǎ hé
 tsalendžihha rajoon:察倫吉哈市
 tsalendžikhan piirikunta:察倫吉哈市
 tsalenjikha cathedral:察倫吉哈主教座堂
+tsalenjikha cathedral:察倫吉哈大教堂
 tsalenjikha municipality:察倫吉哈市
 tsalenjikha municipality:察倫吉哈市鎮
 tsalenjikha:察倫吉哈
@@ -346,6 +347,7 @@ tsar peter iii:沙皇彼得三世
 tsar peter the great:沙皇彼得大帝
 tsar peter:沙皇彼得
 tsar said:沙皇说
+tsar samuel:沙皇撒母耳
 tsar says:沙皇说
 tsar simeon i of bulgaria:沙皇西美昂一世
 tsar tank:沙皇坦克
@@ -365,6 +367,7 @@ tsar:查爾鄉
 tsar:沙皇
 tsara monastery:zārè sì
 tsara monastery:扎热寺
+tsaratanana airport:察拉塔納納機場
 tsaratanana:察拉塔納納
 tsardom of russia:俄罗斯沙皇国
 tsarevich dmitry:察列維奇德米特里
@@ -794,6 +797,7 @@ tsetse fly:舌蠅屬
 tsetseg:车车格苏木
 tsetsen-uul:策岑乌拉苏木
 tsetsenia:车臣共和国
+tsetserleg airport:车车尔勒格机场
 tsetserleg sum:车车尔勒格苏木
 tsetserleg:車車爾勒格
 tsetserleg:车车尔勒格
@@ -1619,6 +1623,7 @@ tsim's ancestral hall:詹氏宗祠
 tsimanampetsotsa national park:齊馬南佩楚察國家公園
 tsimiski street:齐米斯基斯大街
 tsimljanskin tekojärvi:齐姆良斯克水库
+tsimlyansk reservoir:齊姆良斯克水庫
 tsimlyansk reservoir:齐姆良斯克水库
 tsimlyansk:齊姆良斯克
 tsimlyansky district:齊姆良斯克區
@@ -2163,6 +2168,7 @@ tsirang toed gewog:奇朗-丹哥拉格窝
 tsirang:奇朗宗
 tsire:智利
 tsiribihina river:齊里比希納河
+tsiroanomandidy airport:齊魯阿努曼迪迪機場
 tsiroanomandidy:齊魯阿努曼迪迪
 tsirobeniya:斯洛文尼亚
 tsirobeniya:斯洛文尼亞
@@ -2902,6 +2908,7 @@ tsugaru iizume station:津輕飯詰站
 tsugaru kaikyō:津輕海峽
 tsugaru kaikyō:津轻海峡
 tsugaru line:津輕線
+tsugaru line:津轻海峡线
 tsugaru miyata station:津輕宮田站
 tsugaru nakasato station:津輕中里站
 tsugaru nobuhira:津輕信枚
@@ -3176,6 +3183,7 @@ tsukiyama station:築山站
 tsukizaki station:月崎車站
 tsuko station:津古站
 tsukong language:楚孔语
+tsukuba center:筑波中心
 tsukuba class cruiser:筑波級巡洋戰艦
 tsukuba ekusupuresu:筑波快線
 tsukuba express asakusa station (exit a1):筑波快线 浅草站 (a1出口)
@@ -3183,6 +3191,8 @@ tsukuba express:筑波快線
 tsukuba science city:筑波科學城
 tsukuba space center:筑波宇宙中心
 tsukuba station:筑波站
+tsukuba university:筑波大学
+tsukuba university:筑波大學
 tsukuba will use japan:筑波市将使用日本
 tsukuba-shi:筑波市
 tsukuba:筑波
@@ -3295,6 +3305,7 @@ tsunami early warning system:海啸预警
 tsunami early-warning system:海啸预警
 tsunami earthquake:海啸地震
 tsunami earthquake:海嘯規模
+tsunami earthquakes:海啸地震
 tsunami end:海啸结束
 tsunami evacuation building:海啸避难大楼
 tsunami evacuation tower:海啸避难大楼
@@ -3504,6 +3515,7 @@ tsuruhane jinja-mae (tsuruhane jinja shrine):鹤羽根神社前
 tsuruhara station:鶴原站
 tsuruhara:鹤原
 tsuruhashi station:鶴橋車站
+tsuruhashi station:鹤桥站
 tsuruhashi:鹤桥
 tsurui station:鶴居站
 tsurui-mura:鶴居村
@@ -3540,6 +3552,7 @@ tsurumibashi:鶴見橋
 tsurumibashi:鹤见桥
 tsurunuma station:鶴沼車站
 tsuruoka national college of technology:鶴岡工業高等專門學校
+tsuruoka station:都留市站
 tsuruoka station:鶴岡站
 tsuruoka-shi:鶴岡市
 tsuruoka-shi:鹤冈市
@@ -3648,6 +3661,7 @@ tsutomu yamazaki:山崎努
 tsutsuga station:筒賀站
 tsutsui junkei:筒井順慶
 tsutsui sadatsugu:筒井定次
+tsutsui station:筒井站
 tsutsui station:筒井車站
 tsutsui:筒井
 tsutsuishi station:筒石站

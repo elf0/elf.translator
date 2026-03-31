@@ -324,6 +324,8 @@ equality report:平等報告
 equality report:平等报告
 equality require:平等要求
 equality require:平等需要
+equality right:平等权利
+equality rights:平等权利
 equality says:平等说
 equality score:平等得分
 equality should be:平等应该是
@@ -392,6 +394,7 @@ equation group command server:方程式组织命令服务器
 equation group command:方程式组织命令
 equation group tools:方程式组织工具
 equation group:方程式组织
+equation group:方程组
 equation group:等式组
 equation has been:方程已经
 equation has three:方程有三
@@ -2135,6 +2138,7 @@ equivalence point:當量點
 equivalence principle no longer:等效原理不再
 equivalence principle require:等效原理要求
 equivalence principle test:等效原理测试
+equivalence principle:等价原理
 equivalence principle:等效原理
 equivalence problem:等价问题
 equivalence problems:等价问题

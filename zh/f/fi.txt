@@ -34,6 +34,7 @@ fiamignano:菲亚米尼亚诺
 fiamma della pace:和平之燈
 fiamma eterna 🔥:长明灯 🔥
 fianarantsoa airport:菲亚纳兰楚阿机场
+fianarantsoa airport:菲亞納蘭楚阿機場
 fianarantsoa province:菲亞納蘭楚阿省
 fianarantsoa:菲亞納蘭楚阿
 fianchetto:堡垒象
@@ -166,6 +167,7 @@ fiber between:纤维间
 fiber beverage:纤维饮料
 fiber biscuit:纤维饼干
 fiber blanket:纤维毛毯
+fiber board:纤维板
 fiber bomb:纤维炸弹
 fiber bottle:纤维瓶
 fiber bread:纤维面包
@@ -227,6 +229,7 @@ fiber development:纤维开发
 fiber devices:纤维设备
 fiber diameter and fiber:纤维直径和纤维
 fiber diameter:纤维直径
+fiber diffraction:纤维衍射
 fiber digest:纤维消化
 fiber direction:纤维方向
 fiber distributed data interface:光纤分布式数据接口
@@ -247,6 +250,7 @@ fiber food:纤维食物
 fiber from food rather than:纤维从食物而不是
 fiber from:纤维从
 fiber fruit:纤维水果
+fiber functor:纤维函子
 fiber fuselage:纤维机身
 fiber fusion:纤维融合
 fiber generation:纤维代
@@ -265,6 +269,7 @@ fiber innovation:纤维创新
 fiber input:纤维输入
 fiber intake can help:纤维摄入可以帮助
 fiber intake:纤维摄入
+fiber integration:纤维积分
 fiber intermediate:纤维中间
 fiber internet:纤维互联网
 fiber into:纤维进入
@@ -525,6 +530,8 @@ fibonacci naples:斐波那契那不勒斯
 fibonacci number:斐波那契数
 fibonacci phyllotaxis:斐波那契叶序
 fibonacci poem:斐波那契诗
+fibonacci polynomial:斐波那契多项式
+fibonacci polynomials:斐波那契多项式
 fibonacci price level:斐波那契价格水平
 fibonacci price:斐波那契价格
 fibonacci prime:費波那契質數
@@ -535,8 +542,11 @@ fibonacci retracement analysis:斐波那契回调分析
 fibonacci retracement levels:斐波那契回调水平
 fibonacci retracement line:斐波那契回调线
 fibonacci retracement:斐波那契回调
+fibonacci search:斐波那契搜索
 fibonacci sequence once:斐波那契数列一次
+fibonacci sequence:斐波那契序列
 fibonacci sequence:斐波那契数列
+fibonacci sequences:斐波那契序列
 fibonacci series:斐波那契系列
 fibonacci strategy:斐波那契策略
 fibonacci system:斐波那契系统
@@ -585,6 +595,7 @@ fibre and yarn:纤维和纱线
 fibre arena:纤维竞技场
 fibre asset:纤维资产
 fibre biomass:纤维生物质
+fibre board:纤维板
 fibre bottle:纤维瓶
 fibre bread:纤维面包
 fibre breakfast:纤维早餐
@@ -842,6 +853,7 @@ fick's laws of diffusion describe:菲克定律描述
 fick's laws of diffusion:菲克定律
 fickle buns:善变的包子
 fickle buns:善變的包子
+ficksburg airport:菲克斯堡機場
 ficksburg bridge:菲克斯堡桥
 ficksburg:菲克斯堡
 ficlatuzumab:非拉妥珠单抗
@@ -1360,6 +1372,7 @@ fidelity investments report:富达投资报告
 fidelity investments will invest:富达投资将投资
 fidelity investments:富达投资
 fidelity:忠贞
+fidenza cathedral:菲登扎主教座堂
 fidenza:菲登扎
 fideos guìlín:中国特色桂林米粉
 fideris:菲德里斯
@@ -1368,6 +1381,7 @@ fidescha:科菲迪施
 fideš:科菲迪施
 fidget cube:解壓骰
 fidget spinner:指尖陀螺
+fidji islands:斐济群岛
 fidji:斐济
 fidji:斐济 / 斐濟
 fidji:斐濟
@@ -1940,6 +1954,7 @@ field label:字段标签
 field labor:场劳动力
 field laboratory:场实验室
 field lack:领域缺乏
+field lacrosse:草地袋棍球
 field lacrosse:長曲棍球
 field landform:场地形
 field laser:场激光
@@ -1963,6 +1978,7 @@ field lieutenant:领域中尉
 field light:场光
 field lighting:场照明
 field limit:场极限
+field line:场线
 field line:場線
 field linguistics:领域语言学
 field list:字段列表
@@ -2217,6 +2233,7 @@ field radiation pattern:场辐射模式
 field radiation:场辐射
 field radio:场无线电
 field radius:字段半径
+field rank:领域等级
 field ration:野戰口糧
 field reach:场达到
 field reach:领域达到
@@ -2453,6 +2470,7 @@ field text:字段文本
 field the:领域这
 field their:领域他们的
 field theory is impossible:场论是不可能的
+field theory:场理论
 field theory:场论
 field they:场他们
 field this:场这
@@ -2777,6 +2795,7 @@ fier (prefeitura):非夏爾州
 fier (rannvro):非夏爾州
 fier (region):非夏爾州
 fier coonty:非夏爾州
+fier county:费里县
 fier county:非夏爾州
 fier district:费里区
 fier ili:非夏爾州
@@ -2840,6 +2859,7 @@ fifa club world cup:国际足联俱乐部世界杯
 fifa confederations cup russia:国际足联联合会杯俄罗斯
 fifa confederations cup:国际足联联合会杯
 fifa congress:国际足联大会
+fifa council:国际足球联合会理事会
 fifa development award:国际足联发展奖
 fifa disciplinary code:国际足联纪律准则
 fifa fair play award:国际足联公平竞赛奖
@@ -2876,6 +2896,7 @@ fife and drum corps:管笛鼓乐队
 fife and edinburgh:法夫和爱丁堡
 fife college:法夫學院
 fife court:快富閣
+fife derby:法夫德比
 fife ethylene:法夫乙烯
 fife factory:法夫工厂
 fife home:法夫家
@@ -3036,6 +3057,7 @@ fifth anniversary:第五周年纪念日
 fifth annual:第五年度的
 fifth apartment:第五公寓
 fifth archive:第五档案
+fifth armada:第五舰队
 fifth armour:第五装甲
 fifth army:第五军队
 fifth assault:第五突击
@@ -3102,6 +3124,7 @@ fifth center:第五中心
 fifth centuries:第五世纪
 fifth century athens:伯里克利时代
 fifth century:第五世纪
+fifth channel:第五通道
 fifth chapter tourism:第五章旅游
 fifth chapter:第五章
 fifth choice:第五选择
@@ -3110,6 +3133,7 @@ fifth circuit court:第五巡回法庭
 fifth class:第五类
 fifth clause:第五条款
 fifth cold:第五冷
+fifth column:第五列
 fifth column:第五縱隊
 fifth committee:第五委员会
 fifth committee:第五委員會
@@ -3120,6 +3144,7 @@ fifth contain:第五包含
 fifth continent:第五大陆
 fifth convolution:第五卷积
 fifth core:第五核心
+fifth corps:第五兵团
 fifth council of the lateran:第五次拉特朗公會議
 fifth crusade and frederick ii:第五次十字军东征和腓特烈二世
 fifth crusade:第五次十字军东征
@@ -3139,6 +3164,7 @@ fifth dimensions:第五维度
 fifth disease:第五病
 fifth display mode:第五显示模式
 fifth display:第五显示
+fifth district:第五區域
 fifth division:第五师
 fifth doctor:第五医生
 fifth domain:第五域
@@ -3160,6 +3186,7 @@ fifth fleet:第五艦隊
 fifth foot:第五脚
 fifth force theory:第五种力理论
 fifth force would:第五种力将
+fifth force:第五力
 fifth force:第五种力
 fifth form:第五形式
 fifth former:第五前
@@ -3238,6 +3265,7 @@ fifth language:第五语言
 fifth large:第五大的
 fifth layer:第五层
 fifth lee hsien loong cabinet:第五次李显龙内阁
+fifth legion:第五军团
 fifth legs:第五腿
 fifth limb:第五肢
 fifth line:第五线
@@ -3308,6 +3336,7 @@ fifth puppy:第五小狗
 fifth rather than:第五而不是
 fifth reader:第五读者
 fifth regiment:第五团
+fifth region:第五军区
 fifth region:第五地区
 fifth republic fashion:第五共和国时尚
 fifth republic movement:第五共和國運動
@@ -3354,10 +3383,12 @@ fifth station:第五站
 fifth street squat:第五街蹲
 fifth street tai wai:大圍第五街
 fifth street:第五街
+fifth street:第五街道
 fifth studio:第五工作室
 fifth sub:第五子
 fifth sun:第五太阳
 fifth surname:第五姓
+fifth switzerland:第五瑞士
 fifth symphony:第五交響曲
 fifth syntax:第五语法
 fifth system:第五系统
@@ -3448,6 +3479,7 @@ fifty euro:五十欧元
 fifty euros:五十欧元
 fifty everyone:五十每个人
 fifty female:五十女性
+fifty fifty:五十五十
 fifty five second:五十五秒
 fifty five:五十五
 fifty four pages:五十四页
@@ -3619,9 +3651,11 @@ fifty:五十
 fiftyone glacier:五十一冰川
 fig collection:榕树园
 fig parrot:無花果鸚鵡
+fig pudding:無花果布丁
 fig sign:無花果手勢
 fig world cup:體操世界盃
 fig:無花果
+figari airport:菲加里機場
 figari:菲加里
 figaro nunatak:費加羅冰原島峰
 figaro tseng:曾少宗
@@ -3681,6 +3715,7 @@ fight factory gym:ffg武術健身中心
 fight finish:战斗结束
 fight for my way:三流之路
 fight for:战斗为了
+fight force:战斗力
 fight from:战斗从
 fight game:战斗游戏
 fight give:战斗给
@@ -3732,6 +3767,8 @@ fight record:战斗记录
 fight records:战斗记录
 fight result:战斗导致
 fight savages:战斗野蛮人
+fight school:战斗学校
+fight sequence:战斗序列
 fight sequences:战斗序列
 fight series:战斗系列
 fight show:战斗显示
@@ -3853,6 +3890,7 @@ figuig:菲吉格省
 figurate number:有形數
 figurative art:具象藝術
 figurative system of human knowledge:具象人类知识系统
+figure a:图一
 figure after:图后
 figure again:图又
 figure also show:图也显示
@@ -4028,6 +4066,7 @@ fiji and tonga:汤加和斐济
 fiji and vanuatu:斐济和瓦努阿图
 fiji and voss:斐济和沃斯
 fiji archbishop:斐濟總主教
+fiji army:斐济军队
 fiji association of sports and national olympic committee:斐濟體育與國家奧林匹克委員會
 fiji at the olympics:奥林匹克运动会斐济代表团
 fiji beach:斐济海滩
@@ -4041,10 +4080,13 @@ fiji climate:斐济气候
 fiji climate:斐濟氣候
 fiji comprise:斐济包括
 fiji conference:斐济会议
+fiji constitution:斐济宪法
 fiji continues:斐济继续
+fiji coup:斐济政变
 fiji crested iguana:斐济短冠鬣蜥
 fiji currency:斐济货币
 fiji day:斐济日
+fiji day:斐濟日
 fiji development bank:斐济开发银行
 fiji disease virus:斐濟病毒屬
 fiji dollar:斐济美元
@@ -4060,6 +4102,7 @@ fiji government:斐济政府
 fiji government:斐濟政府
 fiji has three:斐济有三
 fiji high:斐济高
+fiji hindi:斐济印地语
 fiji hindi:斐濟印地語
 fiji hopes:斐济希望
 fiji hotel:斐济酒店
@@ -4082,7 +4125,9 @@ fiji mermaid:斐濟美人魚
 fiji meteorological service:斐濟氣象局
 fiji military coup:斐济军事政变
 fiji military:斐济军队
+fiji military:斐濟軍隊
 fiji minister:斐济部长
+fiji museum:斐济博物馆
 fiji museum:斐濟博物館
 fiji national football team:斐濟國家足球隊
 fiji national rugby union team:斐济国家橄榄球联盟队
@@ -4095,6 +4140,7 @@ fiji parrotfinch:斐济鹦雀
 fiji petrel:斐济圆尾鹱
 fiji police:斐济警察
 fiji police:斐濟警察
+fiji politics:斐济政治
 fiji port:斐济港口
 fiji premier league:斐濟超級足球聯賽
 fiji prohibit:斐济禁止
@@ -4107,6 +4153,7 @@ fiji sugar corporation:斐濟糖業股份
 fiji sun:斐济太阳
 fiji table tennis association:斐济乒乓球协会
 fiji table tennis:斐济乒乓球
+fiji team:斐济队
 fiji tennis:斐济网球
 fiji time:斐济时间
 fiji times:斐济时报
@@ -4148,6 +4195,7 @@ fila brasileiro:非拉犬
 fila shoe:斐乐鞋
 fila:斐乐
 filacciano:菲拉恰诺
+filadelfia airport:費城機場
 filadelfia:費城
 filadelfia:费城
 filadelfie:費城
@@ -4289,6 +4337,7 @@ file argument:文件参数
 file as well as:文件以及
 file as:文件当作
 file assets:文件资产
+file association:文件关联
 file association:文件關聯
 file attack:文件攻击
 file attempt:文件尝试
@@ -4398,6 +4447,7 @@ file device:文件设备
 file dialog box:文件对话框
 file difference:文件差异
 file directory:文件目录
+file directory:文件目錄
 file discrimination:文件歧视
 file display:文件显示
 file download and data:文件下载和数据
@@ -4469,6 +4519,7 @@ file format version:文件格式版本
 file format version:檔案格式版本
 file format:文件格式
 file format:檔案格式
+file formats:文件格式
 file fraud:文件詐騙
 file free:文件免费的
 file from disk:文件从磁盘
@@ -4605,6 +4656,8 @@ file name structure:文件名结构
 file name suffix:文件名后缀
 file name uses:文件名使用
 file name:文件名
+file name:文件名称
+file namespace:文件命名空间
 file navigation:文件导航
 file need:文件需要
 file needs:文件需要
@@ -4772,7 +4825,9 @@ file share:文件分享
 file sharer:文件共享者
 file sharing clients:檔案分享客户
 file sharing in japan:日本的档案分享
+file sharing:文件共享
 file sharing:檔案分享
+file shortcut:文件快捷方式
 file should be:文件应该是
 file show:文件显示
 file sign:文件签名
@@ -4971,7 +5026,9 @@ file system volume:文件系统卷
 file system will:文件系统会
 file system without:文件系统没有
 file system world:文件系统世界
+file system:文件系統
 file system:文件系统
+file systems:文件系统
 file tag:文件标签
 file tape:文件磁带
 file technologies:文件技术
@@ -6076,6 +6133,7 @@ film activities:电影活动
 film actor clark:電影演員克拉克
 film actor john:电影演员约翰
 film actor:电影演员
+film actor:电影演員
 film actor:電影演員
 film actress and model:电影女演员和模特
 film actress selma:电影女演员塞尔玛
@@ -6631,6 +6689,7 @@ film form and culture:电影形式与文化
 film form:电影形式
 film format:底片格式
 film format:电影格式
+film formats:电影格式
 film forum:电影论坛
 film forums:电影论坛
 film foundation:电影基金
@@ -6651,6 +6710,7 @@ film gauge:膠片尺寸
 film geek:电影极客
 film generation:电影世代
 film genre:电影类型
+film genre:电影风格
 film giant:电影巨人
 film girl:电影女孩
 film give:电影给
@@ -6710,6 +6770,7 @@ film industry would:电影业将
 film industry would:电影工业将
 film industry:电影业
 film industry:电影工业
+film infobox:电影信息框
 film innovation:电影创新
 film institute awards:电影学院奖
 film institute complete:电影学院完成
@@ -6869,6 +6930,8 @@ film performing arts:电影表演艺术
 film personality:电影人格
 film peter:电影彼得
 film phenomenon:电影现象
+film philosophy:电影哲学
+film photography:电影摄影
 film photos:电影照片
 film phrase:电影短语
 film physics:电影物理
@@ -6914,6 +6977,7 @@ film projects include:电影项目包括
 film projects:电影项目
 film promotion:電影宣傳
 film prop:电影道具
+film propaganda:电影宣传
 film protection month:电影保护月
 film protection:电影保护
 film prove:电影证明
@@ -6964,6 +7028,7 @@ film school reject:电影学校拒绝
 film school students:电影学校学生
 film school years:电影学校年
 film school:电影学校
+film schools:电影学校
 film science and technology:电影科技
 film science:电影科学
 film score:電影配樂
@@ -7001,6 +7066,7 @@ film soon:电影很快
 film sound and digital media:电影声音和数字媒体
 film sound design:电影声音设计
 film sound:电影声音
+film soundtrack:电影原声音乐
 film spartacus:电影斯巴达克斯
 film speak:电影说话
 film speed range:感光度范围
@@ -7063,6 +7129,7 @@ film teach:电影教
 film teacher:电影教师
 film team:电影团队
 film team:电影队
+film technique:电影技术
 film techniques:电影技术
 film technologies:电影技术
 film technology:电影技术
@@ -7895,6 +7962,7 @@ final explanation:最终的解释
 final expression:最终的表达
 final fact:最终的事实
 final failure:最终的失败
+final fantasia:最终的幻想
 final fantasy chronicles:最终幻想编年史
 final fantasy crystal chronicles:最终幻想水晶编年史系列
 final fantasy tactics series:最终幻想战略版系列
@@ -7983,6 +8051,7 @@ final job:最终的职业
 final join:最终的连接
 final journey:最终的旅程
 final judge:最终的审判
+final judgement:最终的审判
 final jurisdiction:最终的司法管辖权
 final jury:最终的陪审团
 final justice:最终的正义
@@ -8735,6 +8804,7 @@ finally you:最终你们
 finally young:最终年轻的
 finally:最终
 finance absolute:金融绝对
+finance academy:财政学院
 finance academy:金融学院
 finance account:金融账户
 finance action plan:金融行动计划
@@ -9114,6 +9184,7 @@ finance become:金融成为
 finance began:金融开始
 finance begin:金融开始
 finance big:金融大
+finance bill:财政比尔
 finance blog:金融博客
 finance blogs:金融博客
 finance books:金融书籍
@@ -9253,6 +9324,7 @@ finance experts:财政专家
 finance experts:金融专家
 finance farce:金融闹剧
 finance fear:金融恐惧
+finance federation:财政联盟
 finance fiction:金融小说
 finance field:金融领域
 finance fields:金融领域
@@ -9283,6 +9355,7 @@ finance infrastructure support:金融基础设施支持
 finance infrastructure:金融基础设施
 finance initiative:金融倡议
 finance innovation:金融创新
+finance innovation:金融創新
 finance innovation:金融改革
 finance institute professor:金融学院教授
 finance institute:金融学院
@@ -9493,6 +9566,7 @@ finance product:金融产品
 finance products and long-term:金融产品和长期
 finance products:金融产品
 finance profession:金融专业
+finance professional:财政专业
 finance professional:金融专业
 finance professionals and non-executive director:金融专业人员和非执行董事
 finance professionals:金融专业人员
@@ -9635,6 +9709,7 @@ finance tools and skills:金融工具和技能
 finance tools:金融工具
 finance topic:金融主题
 finance tower:布鲁塞尔金融大厦
+finance tower:金融塔
 finance trade:金融贸易
 finance training company:金融培训公司
 finance training courses:金融培训课程
@@ -13690,6 +13765,7 @@ finger control and automation:手指控制与自动化
 finger control and automation:手指控制和自动化
 finger control:手指控制
 finger cookie:手指饼干
+finger counting:手指計數
 finger daddy:手指爸爸
 finger dance:手指跳舞
 finger detect:手指检测
@@ -13714,6 +13790,7 @@ finger gesture:手指手势
 finger get sports:手指得到运动
 finger get:手指得到
 finger grape:手指葡萄
+finger gun:手指枪
 finger gun:手指槍
 finger had been:手指已经
 finger has been:手指已经
@@ -13735,6 +13812,7 @@ finger is a victim:手指是一个受害者
 finger is not enough:手指是不够的
 finger island:手指岛
 finger joint:手指关节
+finger lake:手指湖
 finger lakes national forest:五指湖国家森林
 finger lakes:五指湖
 finger lemon:手指柠檬
@@ -13756,6 +13834,7 @@ finger model:手指模型
 finger modules:手指模块
 finger monkey:手指猴
 finger motion:手指运动
+finger mountain:手指山
 finger move:手指移动
 finger movement:手指移动
 finger movie:手指电影
@@ -13798,6 +13877,7 @@ finger pressure:手指压力
 finger print sensor:手指打印传感器
 finger problem:手指问题
 finger protection:手指保护
+finger protocol:手指协议
 finger pull:手指拉
 finger puppet:手指木偶
 finger push:手指推
@@ -13823,6 +13903,7 @@ finger snail:指蝸
 finger soap:手指肥皂
 finger space:手指空间
 finger spell:手指拼写
+finger spelling:手指拼寫
 finger start:手指开始
 finger stay:手指停留
 finger still:手指仍然
@@ -13852,6 +13933,7 @@ finger vibration:手指振动
 finger vibrato:推弦
 finger wave:手指波
 finger wharf:手指码头
+finger wharf:手指碼頭
 finger will:手指会
 finger without:手指没有
 finger work:手指工作
@@ -14520,6 +14602,7 @@ finland has santa claus:芬兰有圣诞老人
 finland has seven:芬兰有七
 finland help:芬兰帮助
 finland helsinki:芬兰赫尔辛基
+finland helsinki:芬蘭赫爾辛基
 finland hopes:芬兰希望
 finland hotel accommodation:芬兰酒店住宿
 finland hotel:芬兰酒店
@@ -14591,10 +14674,14 @@ finland series:芬兰系列
 finland server:芬兰服务器
 finland snow:芬兰雪
 finland station:芬兰站
+finland station:芬蘭站
 finland station:芬蘭車站
 finland study:芬兰研究
 finland support:芬兰支持
+finland swedes:芬蘭瑞典人
+finland swedish:芬兰瑞典语
 finland teacher:芬兰教师
+finland team:芬兰队
 finland telecommunications:芬兰电信
 finland test:芬兰测试
 finland then:芬兰然后
@@ -14643,6 +14730,8 @@ finlandi:fēnlán
 finlandi:芬兰
 finlandi:芬兰 / 芬蘭
 finlandi:芬蘭
+finlandia cup:芬兰杯
+finlandia cup:芬蘭杯
 finlandia del sudoeste:西南芬蘭區
 finlandia foothills:芬蘭丘陵
 finlandia hall:芬兰大厦
@@ -14650,6 +14739,7 @@ finlandia południowo-zachodnia:西南芬蘭區
 finlandia prize:芬兰文学奖
 finlandia propia:西南芬蘭區
 finlandia tengah:中芬蘭區
+finlandia vodka:芬兰伏特加
 finlandia Środkowa:中芬蘭區
 finlandia-huset:芬兰大厦
 finlandia-talo:芬兰大厦
@@ -14903,6 +14993,7 @@ finnish black metal:芬兰黑色金属
 finnish blockchain:芬兰区块链
 finnish blood:芬兰血
 finnish blueberry:芬兰蓝莓
+finnish bolsheviks:芬兰布尔什维克
 finnish border:芬兰的边界
 finnish border:芬兰边
 finnish border:芬兰边界
@@ -15129,6 +15220,7 @@ finnish fashion:芬兰时尚
 finnish fast-food chain:芬兰快餐连锁
 finnish fast-food:芬兰快餐
 finnish film:芬兰电影
+finnish films:芬兰电影
 finnish finance minister alexander:芬兰财政部长亚历山大
 finnish finance minister:芬兰财政部长
 finnish financial market:芬兰金融市场
@@ -15251,6 +15343,7 @@ finnish journalists:芬兰记者
 finnish jurist:芬兰法学家
 finnish kale:芬兰罗姆人
 finnish karelia:芬兰卡累利阿
+finnish karelians:芬兰卡累利阿人
 finnish kick:芬兰踢
 finnish kids have about:芬兰儿童有大约
 finnish kids:芬兰儿童
@@ -15272,7 +15365,9 @@ finnish language menu:芬兰语菜单
 finnish language teacher:芬兰语教师
 finnish language version:芬兰语版本
 finnish language:芬兰语
+finnish language:芬兰语言
 finnish language:芬兰语语言
+finnish languages:芬兰语言
 finnish lappeenranta:芬兰拉彭兰塔
 finnish law:芬兰法律
 finnish law:芬兰的法律
@@ -15293,6 +15388,7 @@ finnish line:芬兰线
 finnish literature day:芬兰文学日
 finnish literature refers to:芬兰文学指
 finnish literature:芬兰文学
+finnish literature:芬兰语文学
 finnish logistics:芬兰的物流
 finnish lung:芬兰肺
 finnish maiden:芬兰少女
@@ -15367,6 +15463,7 @@ finnish national park:芬兰国家公园
 finnish national park:芬兰的国家公园
 finnish national team:芬兰国家队
 finnish national theatre:芬蘭國家劇院
+finnish nationalism:芬兰民族主义
 finnish nature and design:芬兰自然和设计
 finnish nature centre:芬兰自然中心
 finnish nature day:芬兰大自然日
@@ -15409,6 +15506,8 @@ finnish parliament reject:芬兰议会拒绝
 finnish parliament:芬兰国会
 finnish parliament:芬兰议会
 finnish part:芬兰部分
+finnish party:芬兰人党
+finnish party:芬兰党
 finnish passenger:芬兰乘客
 finnish passport:芬兰护照
 finnish passport:芬兰的护照
@@ -15436,6 +15535,7 @@ finnish poetry:芬兰诗歌
 finnish politician suggest:芬兰政客建议
 finnish politician:芬兰政客
 finnish politician:芬兰政治家
+finnish politics:芬兰政治
 finnish popular music:芬兰流行音乐
 finnish population:芬兰的人口
 finnish port association:芬兰港口协会
@@ -15587,6 +15687,8 @@ finnish tableware:芬兰餐具
 finnish tango music:芬兰探戈音乐
 finnish tango:芬兰探戈
 finnish tap water:芬兰自来水
+finnish tatars:芬兰的鞑靼人
+finnish tatars:芬兰鞑靼人
 finnish tatars:芬蘭韃靼人
 finnish teacher educator:芬兰教师教育家
 finnish teacher training school:芬兰教师培训学校
@@ -15675,6 +15777,7 @@ finnish welding equipment:芬兰焊接设备
 finnish welding:芬兰焊接
 finnish welfare:芬兰福利
 finnish wife:芬兰妻子
+finnish wikipedia:芬兰语维基百科
 finnish wikipedia:芬蘭語維基百科
 finnish wildlife:芬兰野生动物
 finnish wind:芬兰风
@@ -15769,6 +15872,7 @@ finphäts:芬蘭
 finsbury circus:芬斯伯里圆环
 finsbury park mosque:芬斯伯里公園清真寺
 finsbury park station:芬斯伯里公園站
+finsbury park:芬斯伯里公园
 finsbury park:芬斯伯里公園
 finsbury:芬斯伯里
 finsch's duck:芬施鬃林鸭
@@ -16194,6 +16298,7 @@ fire appear:火出现
 fire are the:火是这
 fire are:火是
 fire area:火面积
+fire arrow:火箭
 fire art game:火艺术游戏
 fire art:火艺术
 fire as well:火也
@@ -16208,6 +16313,7 @@ fire attack:火攻击
 fire attribute:火属性
 fire back:火背
 fire bacteria:火细菌
+fire ball:火球
 fire balloon:火气球
 fire barrier:火屏障
 fire be:火成为
@@ -16223,8 +16329,10 @@ fire bellied toad:铃蟾属
 fire belly newt:蠑螈屬
 fire bird:火鸟
 fire birds:火鸟
+fire blade:火刃
 fire blanket:滅火毯
 fire board:火板
+fire boat:火船
 fire bomber:火轰炸机
 fire boy and water girl:火男孩和水女孩
 fire boy:火男孩
@@ -16259,6 +16367,7 @@ fire cannot:火不能
 fire capped tit:火冠雀
 fire challenge:火烧身挑战
 fire changed:火改变了
+fire chicken:火鸡
 fire cider:火苹果酒
 fire class:火灾分类
 fire class:火类
@@ -16312,6 +16421,7 @@ fire dancer:火舞者
 fire danger:火危险
 fire data:火数据
 fire death:火死亡
+fire deity:火神
 fire department hydrant:消防局消防栓
 fire department of new york city:纽约市消防局
 fire department(xiangxin s. road):消防局(向心南路)
@@ -16332,6 +16442,7 @@ fire display:火显示
 fire dissolve:火溶解
 fire dog:火狗
 fire don't:火不
+fire door:火门
 fire door:防煙門
 fire double star:火雙星
 fire dragon path:火龍徑
@@ -16387,11 +16498,14 @@ fire finance:火金融
 fire fire:火火
 fire flame:火焰
 fire flapper:山火拍
+fire flower:火花
 fire football offer:火足球提供
 fire football:火足球
+fire force:火力
 fire force:炎炎消防隊
 fire forever:火永远
 fire fox:火狐
+fire fox:火狐狸
 fire freedom:火自由
 fire from newton:火从牛顿
 fire from:火从
@@ -16713,9 +16827,11 @@ fire services mongkok office building:消防處旺角辦公大樓
 fire services museum cum education centre:消防博物館暨教育中心
 fire services museum cum education centre:消防博物馆暨教育中心
 fire services tuen mun store:屯門消防貨倉
+fire shadow:火影
 fire shelter:防火遮蔽
 fire shield:火盾
 fire ship:火船
+fire ship:火輪船
 fire shooting:火射击
 fire should be:火应该是
 fire shovel:火铲
@@ -16733,6 +16849,7 @@ fire source and high:火源和高
 fire source:火源
 fire sources:火源
 fire sprinkler system:自動灑水系統
+fire squad:火班
 fire stairs:火楼梯
 fire standards:火标准
 fire start:火开始
@@ -16770,11 +16887,14 @@ fire team:火团队
 fire tear:火撕裂
 fire technology:火技术
 fire temple of yazd:亞茲德火神廟
+fire temple:火庙
 fire temple:火廟
+fire temple:火神庙
 fire test complete:火测试完成
 fire test standards:火测试标准
 fire test:火测试
 fire testing:火测试
+fire tetrahedron:火四面體
 fire the first:火第一次
 fire their:火他们的
 fire they:火他们
@@ -16813,6 +16933,7 @@ fire wallpaper:火壁纸
 fire wand:火魔杖
 fire war:火战争
 fire warning:火警告
+fire warrior:火戰士
 fire was impossible:火是不可能的
 fire was the only way:火是唯一的办法
 fire was the only:火是唯一
@@ -16829,6 +16950,8 @@ fire will never come:火永远不会来
 fire will never let me:火永远不会让我
 fire will never:火永远不会
 fire will:火会
+fire wind:火風
+fire wind:火风
 fire window is steel:火窗是钢
 fire window:火窗
 fire with fire:火与火
@@ -16836,6 +16959,7 @@ fire without:火没有
 fire woman:火女人
 fire wood:火木材
 fire workers:火工人
+fire worship:火崇拜
 fire worship:火焰崇拜
 fire would:火将
 fire wound:火伤
@@ -16969,6 +17093,7 @@ firefly aerospace:萤火虫太空
 firefly aerospace:螢火蟲航空航天
 firefly algorithm optimization:萤火虫算法优化
 firefly algorithm:萤火虫算法
+firefly algorithm:螢火蟲算法
 firefly alpha:萤火虫阿尔法
 firefly exhibit:小精靈螢火蟲館
 firefly luciferin:萤火虫萤光素
@@ -17595,6 +17720,7 @@ first hungarian republic:匈牙利民主共和国
 first hussein cabinet:第一次胡先内阁
 first ikeda cabinet:第一屆池田內閣
 first inauguration of george washington:華盛頓第一次總統就職典禮
+first incarnation:第一的化身
 first indochina war:第一次印度支那戰爭
 first intermediate period of egypt:第一中间时期
 first international bank of israel:以色列第一国际银行
@@ -18964,6 +19090,7 @@ fischach:菲沙赫
 fischamend:菲沙門德
 fischbach alps:菲施巴赫阿爾卑斯山脈
 fischbach bei dahn:达恩附近菲施巴赫
+fischbach castle:菲施巴赫城堡
 fischbach:菲施巴赫
 fischbachau:菲施巴豪
 fischbachtal:菲施巴赫塔尔
@@ -19335,6 +19462,7 @@ fish he:鱼他
 fish head curry:咖哩魚頭
 fish head rock:魚頭石
 fish head:魚頭
+fish head:鱼头
 fish hear:鱼听
 fish heart:鱼心
 fish help:鱼帮助
@@ -19456,6 +19584,7 @@ fish oil or eat:魚油或吃
 fish oil or fish oil:魚油或魚油
 fish oil together:魚油一起
 fish oil:魚油
+fish oil:鱼油
 fish online:鱼在线
 fish only:鱼只有
 fish or albacore:鱼或长鳍金枪鱼
@@ -19560,6 +19689,7 @@ fish soak:鱼浸泡
 fish sometimes:鱼有时
 fish soon:鱼很快
 fish soup:魚湯
+fish soup:鱼汤
 fish species season:鱼种季节
 fish species:鱼物种
 fish species:鱼种
@@ -19603,6 +19733,7 @@ fish tofu:鱼豆腐
 fish too:鱼也
 fish tooth:鱼牙
 fish town:菲什敦
+fish town:鱼城镇
 fish toxin:鱼毒素
 fish toy:鱼玩具
 fish trade:鱼贸易
@@ -19950,6 +20081,7 @@ fishing rod:钓竿
 fishing rules:捕鱼规则
 fishing scope:捕鱼范围
 fishing season:捕鱼季节
+fishing ship:捕鱼船
 fishing sinker:沉子
 fishing skills:捕鱼技巧
 fishing skills:捕鱼技能
@@ -19987,6 +20119,7 @@ fishing union:捕鱼联盟
 fishing vessel crew:漁船船員
 fishing vessel insurance:漁船保險
 fishing vessel safety:漁船安全
+fishing vessel:捕鱼船
 fishing vessel:漁船
 fishing video game:捕鱼电子游戏
 fishing video:捕鱼视频
@@ -20177,8 +20310,10 @@ fitzroy gardens:斐茲洛伊花園
 fitzroy island:菲茨罗伊岛
 fitzroy island:菲茨羅伊島
 fitzroy point:費茲洛伊角
+fitzroy river:斐茲洛伊河
 fitzroy river:菲茨罗伊河
 fitzroy square:菲茨罗伊广场
+fitzroy street:斐茲洛伊街
 fitzroy-eiland:菲茨罗伊岛
 fitzroy-eiland:菲茨羅伊島
 fitzroy:斐茲洛伊
@@ -20221,6 +20356,7 @@ fiume:里耶卡
 fiumedinisi:菲乌梅迪尼西
 fiumefreddo di sicilia:西西里岛菲乌梅弗雷多
 fiumicello:菲乌米切洛
+fiumicino aeroporto:菲乌米奇诺机场
 fiumicino airport:菲乌米奇诺机场
 fiumicino also known as:菲乌米奇诺也称为
 fiumicino international airport:菲乌米奇诺国际机场
@@ -20432,6 +20568,7 @@ five families:五大家族
 five feet apart:愛上觸不到的你
 five feet:五脚
 five field:五场
+five fifteen:五十五
 five file folder:五文件夹
 five finger:五手指
 five finish:五结束
@@ -20488,6 +20625,7 @@ five hero:五英雄
 five high:五高
 five hill:五丘
 five hindrances:五蓋
+five hole:五孔洞
 five hole:五洞
 five holes:五孔洞
 five home:五家
@@ -20794,6 +20932,7 @@ five return:五返回
 five risk:五风险
 five river:五河
 five road:五道路
+five roads:五路
 five role:五角色
 five room:五房间
 five row:五行
@@ -20872,6 +21011,7 @@ five syllable:五音节
 five team:五队
 five telephone:五电话
 five temple caves:五个庙石窟
+five ten:五十
 five term:五学期
 five test:五测试
 five testing:五测试
@@ -20961,6 +21101,7 @@ five tree:五树
 five trial:五审判
 five trillion cigarette:五万亿香烟
 five trillion:五万亿
+five tuple:五元组
 five two:五二
 five under:五下
 five unit:五单位

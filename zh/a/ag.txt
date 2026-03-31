@@ -56,6 +56,7 @@ agadez:阿加德兹大区
 agadez:阿加德茲
 agadir agreement:阿加迪尔协定
 agadir crisis:第二次摩洛哥危機
+agadir crisis:阿加迪尔危机
 agadir:阿加迪尔
 agadiras:阿加迪尔
 agadiz:阿加德兹大区
@@ -78,6 +79,7 @@ again according to:再根据
 again achieve:又实现
 again acquire:又获得
 again add:再加
+again again:又又
 again allow:再允许
 again along:又沿着
 again an important:又一个重要的
@@ -648,6 +650,7 @@ against canadian:反对加拿大
 against cancer cell:对抗癌细胞
 against cancer:反对癌症
 against cancer:对抗癌
+against cancer:对抗癌症
 against candidates:反对候选人
 against cannabinoid:对抗大麻素
 against cannabis:反对大麻
@@ -1358,6 +1361,7 @@ against internationalism:反对国际主义
 against internet censorship:反对互联网审查
 against internet:反对互联网
 against internet:对抗互联网
+against interpretation:反对解释
 against interracial marriage:反对异族通婚
 against intervention:反对干预
 against invasion:反对入侵
@@ -2782,6 +2786,7 @@ agbègbè zanzibar Ìlú/Ìwọ̀orùn:桑給巴爾西區
 agc:旭硝子
 agdam:阿格達姆
 agdash district:阿格達什區
+agde cathedral:阿格德主教座堂
 agde station:阿格德站
 agde:阿格德
 agdenes municipality:阿格德內斯
@@ -3034,6 +3039,8 @@ age difference:年龄不同
 age difference:年龄差别
 age difference:年龄差异
 age dimension:年龄维度
+age discrimination:年龄歧視
+age discrimination:年龄歧视
 age disparity in sexual relationships:性關係中的年齡差距
 age distribution and health risk:年龄分布和健康风险
 age distribution and health-risk:年龄分布和健康风险
@@ -3557,7 +3564,9 @@ agelu leoleo:守護天使
 agematsu station:上松站
 agematsu-machi:上松町
 agematsu:上松町
+agen airport:阿让机场
 agen cathedral:阿讓主教座堂
+agen cathedral:阿让主教座堂
 agen d'aveyron:阿韦龙省阿让
 agen la garenne airport:阿让机场
 agen station:阿让站
@@ -4158,6 +4167,8 @@ ago at illinois:前在伊利诺伊州
 ago at richmond:前在里士满
 ago august:前八月
 ago based:前基于
+ago bay:前海湾
+ago bay:前海灣
 ago be:前成为
 ago bear:前熊
 ago because of:前因为
@@ -4376,6 +4387,7 @@ agomelatine or life:阿戈美拉汀或生活
 agomelatine support:阿戈美拉汀支持
 agomelatine:阿戈美拉汀
 agon shu:阿含宗
+agonac station:阿戈纳克站
 agonac:阿戈纳克
 agonal respiration:瀕死呼吸
 agong:阿供
@@ -4446,9 +4458,11 @@ agouti:刺豚鼠属
 agovv:阿培爾頓阿高夫
 agpaitic rock:稀土火成岩
 agra airport:阿格拉机场
+agra airport:阿格拉機場
 agra and desire:阿格拉和渴望
 agra and rajasthan:阿格拉和拉贾斯坦邦
 agra bank:呵加剌银行
+agra diocese:阿格拉教區
 agra district:阿格拉縣
 agra fort and sunset point:阿格拉堡和日落点
 agra fort railway station:阿格拉堡火车站
@@ -5026,6 +5040,8 @@ agrela:阿格雷拉
 agrellite:氟硅钙钠石
 agres:阿格雷斯
 agrestina:阿格雷斯蒂纳
+agri province:阿勒省
+agri river:阿勒河
 agri:阿勒
 agri:阿勒省
 agria:埃格爾
@@ -5788,6 +5804,7 @@ agriculture decisions:农业决策
 agriculture demand:农业需求
 agriculture demonstration base:农业示范基地
 agriculture demonstration:农业示范
+agriculture department:农业系
 agriculture department:农业部门
 agriculture development and water resources:农业发展和水资源
 agriculture development mode:农业发展模式
@@ -5798,6 +5815,7 @@ agriculture devices:农业设备
 agriculture dialogue:农业对话
 agriculture discussions:农业讨论
 agriculture diversity:农业多样性
+agriculture economics:农业经济学
 agriculture economist:农业经济学家
 agriculture economy:农业经济
 agriculture ecosystem:农业生态系统
@@ -5807,7 +5825,10 @@ agriculture emissions:农业排放
 agriculture emphasize:农业强调
 agriculture employment population:农业就业人口
 agriculture employment:农业就业
+agriculture engineer:农业工程师
+agriculture engineering:农业工程学
 agriculture engineers:农业工程师
+agriculture enterprise:农业企业
 agriculture entrepreneur:农业企业家
 agriculture environment:农业环境
 agriculture equipment dealer:农业设备经销商
@@ -6020,6 +6041,7 @@ agriculture organizations:农业组织
 agriculture park:农业公园
 agriculture partners:农业伙伴
 agriculture partners:农业合作伙伴
+agriculture party:农业党
 agriculture peace corps:农业和平队
 agriculture peace:农业和平
 agriculture perhaps:农业也许
@@ -6106,6 +6128,7 @@ agriculture schools:农业学校
 agriculture science and service:农业科学与服务
 agriculture science and technology:农业科技
 agriculture science:农业科学
+agriculture scientist:农业科学家
 agriculture scientists:农业科学家
 agriculture scissors:农业剪刀
 agriculture security:农业安全
@@ -6155,6 +6178,7 @@ agriculture technologies:农业技术
 agriculture technology company:农业科技公司
 agriculture technology data company:农业技术数据公司
 agriculture technology:农业技术
+agriculture technology:农业科技
 agriculture theory:农业理论
 agriculture threat:农业威胁
 agriculture to aircraft manufacturing:农业到飞机制造业
@@ -6221,6 +6245,8 @@ agrifutures australia:澳大利亚农业未来
 agrigent:阿格里真托
 agrigente:阿格里真托
 agrigento cathedral:阿格里真托主教座堂
+agrigento diocese:阿格里真托教區
+agrigento province:阿格里真托省
 agrigento:阿格里真托
 agrigentum:阿格里真托
 agrihan:阿格里漢島

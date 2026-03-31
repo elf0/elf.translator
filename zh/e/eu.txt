@@ -521,6 +521,7 @@ eu criticise:欧盟批评
 eu criticism:欧盟批评
 eu criticize:欧盟批评
 eu crop:欧盟农作物
+eu cup:欧盟杯
 eu currently:欧盟目前
 eu customer:欧盟客户
 eu customers:欧盟客户
@@ -862,6 +863,7 @@ eu lack:欧盟缺乏
 eu land use:欧盟土地利用
 eu land:欧盟土地
 eu land:欧盟陆地
+eu language:欧盟语言
 eu languages:欧盟语言
 eu last week:欧盟上周
 eu last year:欧盟去年
@@ -1724,6 +1726,8 @@ eugeissona:鳞皮椰属
 eugendorf:奥伊根多夫
 eugene admitted:尤金承认
 eugene agree:尤金同意
+eugene airport:尤金机场
+eugene airport:尤金機場
 eugene and his team:尤金和他的队
 eugene and jack:尤金和杰克
 eugene and richard:尤金和理查德
@@ -1764,6 +1768,8 @@ eugene simon:尤金西蒙
 eugene smith:尤金史密斯
 eugene start:尤金开始
 eugene terrace:耀爵臺
+eugene township:尤金鎮區
+eugene township:尤金镇区
 eugene trilogy:尤金三部曲
 eugene was an experienced:尤金是一个有经验的
 eugene wen chin wu:吴文津
@@ -2009,6 +2015,7 @@ eungam 2(i)-dong:鷹巖2洞
 eungam 2(i)-dong:鹰岩2洞
 eungam 3(sam)-dong:鷹巖3洞
 eungam 3(sam)-dong:鹰岩3洞
+eungam station:鷹岩站
 eungam station:鹰岩站
 eungam-dong:鷹巖洞
 eungam-dong:鹰岩洞
@@ -2078,6 +2085,7 @@ eunoia junior college:诺雅初级学院
 eunomia family:司法星族
 eunomia:欧诺弥亚
 eunos mrt station:友诺士地铁站
+eunos station:友诺士站
 eunos:友诺士
 eunos:惹兰友诺士
 eunotia:短缝藻属
@@ -2274,6 +2282,7 @@ euphrates are parallel:幼发拉底河是平行的
 euphrates no longer:幼发拉底河不再
 euphrates once:幼发拉底河曾经
 euphrates or central america:幼发拉底河或中美洲
+euphrates region:幼发拉底河地区
 euphrates region:科巴尼州
 euphrates river:幼发拉底河河
 euphrates shield:幼发拉底河盾
@@ -2479,9 +2488,15 @@ eure-i-loir:厄尔-卢瓦尔省
 eure-y-loir:厄尔-卢瓦尔省
 eure:厄尔省
 eurecom:通信系统工程师学校与研究中心
+eureka airport:尤里卡機場
+eureka awards:尤里卡奖
+eureka county:尤里卡县
 eureka effect:尤里卡效应
 eureka flag:尤利卡旗
+eureka flag:尤里卡旗
 eureka glacier:尤里克冰川
+eureka inn:尤里卡客棧
+eureka prize:尤里卡奖
 eureka rebellion:尤利卡起事
 eureka seven:交响诗篇
 eureka tower:尤里卡大樓
@@ -2686,6 +2701,7 @@ euro symbol:欧元符号
 euro system:欧元系统
 euro three:欧元三
 euro too:欧元也
+euro tower:欧元塔
 euro trade centre:歐陸貿易中心
 euro trade:欧元贸易
 euro tragedy:欧元悲剧
@@ -2751,6 +2767,7 @@ eurogunea:欧元区
 eurogunea:歐元區
 eurohound:歐洲獵犬
 eurojust:歐洲聯盟刑事司法合作署
+euroleague champion:歐洲籃球聯賽冠軍
 euroleague women:歐洲女子籃球聯賽
 euroleague:歐洲籃球聯賽
 euroleon:东蚁蛉属
@@ -2796,25 +2813,42 @@ eurooppa:歐洲
 eurooppatie e75:欧洲e75公路
 eurooppatiet:欧洲高速公路
 europa berriaren zubia:新歐洲橋
+europa building:欧洲建筑
 europa building:欧罗巴大厦
+europa capital:欧洲首都
 europa center:歐羅巴中心
 europa cliffs:歐羅巴崖
 europa clipper mission:欧罗巴快船任务
 europa clipper spacecraft:欧罗巴快船宇宙飞船
 europa clipper:欧罗巴快船
+europa cup:欧洲杯
+europa cup:歐洲杯
+europa europa:欧洲欧洲
 europa europa:欧罗巴欧罗巴
+europa europa:歐洲歐洲
+europa film:欧洲电影
 europa garden:歐意花園
+europa hotel:欧洲酒店
+europa hotel:歐洲酒店
 europa huang:黃建為
 europa imaging system:木卫二成像系统
+europa institute:欧洲学院
+europa institute:欧洲研究所
 europa island:欧罗巴岛
 europa lander mission:欧罗巴着陆器任务
 europa lander:欧罗巴着陆器
+europa league:欧洲联盟
+europa league:歐洲联盟
 europa orbiter:木卫二轨道飞行器
 europa park stadion:欧洲公园体育场
+europa park:欧洲公园
 europa point:歐羅巴角
+europa records:欧洲记录
 europa report:木衛二報告
 europa thermal emission imaging system:木卫二热辐射成像系统
 europa ultraviolet spectrograph:木卫二紫外光谱仪
+europa union:欧洲联盟
+europa union:歐洲联盟
 europa universalis:歐陸風雲
 europa-parlamentet:欧洲议会
 europa-parlamentet:歐洲議會
@@ -2839,6 +2873,7 @@ europaparlamentet:歐洲議會
 europaplatz:欧洲广场
 europaplatz:歐洲廣場
 europaplein metro station:欧洲广场站
+europaplein station:欧洲广场站
 europaplein:欧洲广场
 europaplein:歐洲廣場
 europar batasuneko kontseilua:欧洲联盟理事会
@@ -3088,13 +3123,17 @@ europe car:欧洲汽车
 europe center:欧洲中心
 europe ceo:欧洲首席执行官
 europe certification:欧洲认证
+europe championship:欧洲冠军
 europe championship:欧洲锦标赛
+europe championship:歐洲锦标赛
+europe championships:欧洲冠军
 europe change:欧洲改变
 europe choose:欧洲选择
 europe clean energy:欧洲清洁能源
 europe climate change:欧洲气候变化
 europe cloud:欧洲云
 europe clouds:欧洲云
+europe comics:欧洲漫画
 europe commander:欧洲指挥官
 europe communication:欧洲沟通
 europe community meeting:欧洲社区会议
@@ -3121,10 +3160,12 @@ europe cover:欧洲涵盖
 europe cover:欧洲覆盖
 europe crisis:欧洲危机
 europe cup:欧洲杯
+europe cup:歐洲杯
 europe currently:欧洲目前
 europe customers:欧洲客户
 europe data center:欧洲数据中心
 europe data:欧洲数据
+europe day:欧洲日
 europe day:歐洲日
 europe debt crisis:欧洲债务危机
 europe decided:欧洲决定
@@ -3261,6 +3302,8 @@ europe largest:欧洲最大的
 europe last week:欧洲上周
 europe launch:欧洲发射
 europe lead:欧洲领导
+europe league:欧洲联盟
+europe league:歐洲联盟
 europe line:欧洲线
 europe links:欧洲链接
 europe list:欧洲列表
@@ -3284,6 +3327,8 @@ europe module:欧洲模块
 europe moldova:欧洲摩尔多瓦
 europe more:欧洲更多
 europe most important:欧洲最重要
+europe motorway:欧洲高速公路
+europe motorway:歐洲高速公路
 europe music awards:欧洲音乐奖
 europe music:欧洲音乐
 europe must act:欧洲必须行动
@@ -3461,6 +3506,7 @@ europe through:欧洲通过
 europe throw:欧洲抛
 europe thus:欧洲因此
 europe time zone:欧洲时区
+europe time:欧洲时间
 europe to asia:欧洲到亚洲
 europe to push:欧洲到推
 europe to russia:欧洲到俄罗斯
@@ -3486,6 +3532,8 @@ europe transparency:欧洲透明
 europe travel insurance:欧洲旅游保险
 europe travel:欧洲旅行
 europe twice:欧洲两次
+europe union:欧洲联盟
+europe union:歐洲联盟
 europe until:欧洲直到
 europe upgrade:欧洲升级
 europe use hot runner technology:欧洲使用热流道技术
@@ -3955,6 +4003,7 @@ european architect:欧洲的建筑师
 european architects:欧洲建筑师
 european architects:欧洲的建筑师
 european architectural style:欧洲建筑风格
+european architecture:欧洲建筑
 european architecture:欧洲建筑学
 european architecture:欧洲架构
 european archive:欧洲档案
@@ -4136,6 +4185,7 @@ european beach grass:欧洲海滩草
 european beach volleyball:欧洲沙滩排球
 european beach:欧洲海滩
 european beauty:欧洲的美
+european beaver:欧洲河狸
 european bedding:欧洲床上用品
 european bee eater:黄喉蜂虎
 european bee:欧洲蜜蜂
@@ -4346,6 +4396,7 @@ european card:欧洲卡
 european career:欧洲人职业生涯
 european career:欧洲职业生涯
 european cargo:欧洲货物
+european carp:欧洲鲤鱼
 european carpet:欧洲地毯
 european carrot:欧洲胡萝卜
 european cartilage:欧洲的软骨
@@ -4397,6 +4448,7 @@ european certification standard:欧洲认证标准
 european certification:欧洲认证
 european chain:欧洲链条
 european chairman:欧洲主席
+european chalcolithic:欧洲铜石并用时代
 european challenge:欧洲挑战
 european challenge:欧洲的挑战
 european challenger bank:欧洲挑战者银行
@@ -4761,6 +4813,7 @@ european commitment:欧洲承诺
 european commitment:欧洲的承诺
 european committee for standardization:歐洲標準委員會
 european committee:欧洲委员会
+european committee:欧洲委員會
 european commoner:欧洲平民
 european communist action:欧洲共产主义行动
 european communities members:欧洲各共同体成员
@@ -5213,6 +5266,7 @@ european director:欧洲导演
 european disappointment:欧洲人失望
 european disarmament:欧洲裁军
 european disaster movie:欧洲灾难大电影
+european disco:欧洲迪斯科
 european discover:欧洲发现
 european discover:欧洲的发现
 european discovery and exploration:欧洲的发现和探险
@@ -5245,6 +5299,7 @@ european dolphin:欧洲的海豚
 european domain:欧洲域
 european door:欧洲门
 european dragon:欧洲的龙
+european dragon:欧洲龙
 european drama:欧洲戏剧
 european dream to white elephant:欧洲梦到白象
 european dream world:欧洲梦世界
@@ -5806,6 +5861,8 @@ european gymnastics:欧洲的体操
 european habit:欧洲习惯
 european habit:欧洲人习惯
 european hair:欧洲头发
+european hake:欧洲无须鳕
+european hamster:欧洲仓鼠
 european hamster:歐洲倉鼠
 european hand:欧洲手
 european handball federation:歐洲手球總會
@@ -5819,6 +5876,7 @@ european hardware:欧洲的硬件
 european hardware:欧洲硬件
 european hardwood markets this year:欧洲硬木市场今年
 european hardwood:欧洲硬木
+european hare:欧洲兔属
 european hare:歐洲野兔
 european haskalah:欧洲哈斯卡拉运动
 european he:欧洲他
@@ -5853,6 +5911,7 @@ european heat:欧洲热
 european heavyweight:欧洲重量级
 european hedge fund:欧洲的对冲基金
 european hedge:欧洲的树篱
+european hedgehog:欧洲刺猬
 european hedgehog:西欧刺猬
 european helicopters:欧洲直升机
 european help:欧洲的帮助
@@ -5894,6 +5953,7 @@ european hockey federation:欧洲曲棍球联合会
 european hockey:欧洲曲棍球
 european hockey:欧洲的曲棍球
 european holding company:欧洲控股公司
+european holly:欧洲冬青
 european home:欧洲家
 european honey buzzard:鹃头蜂鹰
 european honeymoon:欧洲蜜月
@@ -6000,6 +6060,7 @@ european installation:欧洲安装
 european institute for computer antivirus research:欧洲反计算机病毒协会
 european institute of innovation and technology:歐洲創新及技術院
 european institute:欧洲学院
+european institute:欧洲研究所
 european institutions and companies:欧洲机构和企业
 european institutions and enterprises:欧洲机构和企业
 european institutions and eu:欧洲的机构和欧盟
@@ -6079,6 +6140,7 @@ european investors to hollywood:欧洲投资者到好莱坞
 european investors:欧洲投资者
 european investors:欧洲的投资者
 european isdn:欧洲综合业务数字网
+european islam:欧洲伊斯兰教
 european islam:欧洲的伊斯兰教
 european island:欧洲岛
 european island:欧洲岛屿
@@ -6167,6 +6229,7 @@ european language communities:欧洲语言社区
 european language levels:欧洲语言水平
 european language resource:欧洲语言资源
 european language translation:欧洲语言翻译
+european language:欧洲語言
 european language:欧洲语言
 european languages and culture:欧洲的语言和文化
 european languages and literature:欧洲语言和文学
@@ -6451,6 +6514,7 @@ european mineral water:欧洲矿泉水
 european mining:欧洲采矿业
 european minister:欧洲的部长
 european minister:欧洲部长
+european mink:欧洲水鼬
 european mink:歐洲水鼬
 european missile defense project:欧洲导弹防御项目
 european missile defense system:欧洲导弹防御系统
@@ -6553,6 +6617,8 @@ european neanderthal:欧洲尼安德特人
 european neanderthal:欧洲的尼安德特人
 european negotiations:欧洲的谈判
 european neighbourhood policy:歐洲睦鄰政策
+european neolithic:欧洲新石器时代
+european netherlands:欧洲荷兰
 european network and information security:欧洲网络与信息安全
 european network include:欧洲网络包括
 european network information:欧洲网络信息
@@ -6992,6 +7058,7 @@ european pope:欧洲人教皇
 european pope:欧洲教皇
 european pope:欧洲的教皇
 european population:欧洲人人口
+european population:欧洲人口
 european population:欧洲的人口
 european population:欧洲种群
 european porcelain:欧洲瓷器
@@ -7022,6 +7089,7 @@ european power:欧洲力量
 european power:欧洲电力
 european power:欧洲的电力
 european practice:欧洲实践
+european pravda:欧洲真理报
 european pravda:歐洲真理報
 european premiere:欧洲首演
 european presence:欧洲存在
@@ -8600,6 +8668,7 @@ european vineyard:欧洲葡萄园
 european visitors:欧洲游客
 european viticulture:欧洲葡萄栽培
 european vlbi network:欧洲甚长基线干涉网
+european voice:欧洲语音
 european volleyball championship:欧洲排球锦标赛
 european volleyball confederation:欧洲排球联合会
 european volleyball:欧洲排球
@@ -9432,6 +9501,7 @@ euthynnus affinis:巴鰹
 euthynnus lineatus:黑鮪
 euthyphro dilemma:游叙弗伦困境
 euthyphro:游叙弗伦篇
+eutin castle:奥伊廷城堡
 eutin:奥伊廷
 eutoxeres:鐮嘴蜂鳥屬
 eutrema salsugineum:盐芥

@@ -1369,6 +1369,7 @@ liancheng community:莲城社区
 liancheng county:liánchéng xiàn
 liancheng county:连城县
 liancheng county:連城
+liancheng county:連城县
 liancheng county:連城縣
 liancheng east:连城村东
 liancheng garden:莲城花园
@@ -1772,6 +1773,7 @@ liangcheng 3rd road:良城三路
 liangcheng community:凉城社区
 liangcheng county:liángchéng xiàn
 liangcheng county:凉城县
+liangcheng county:梁城县
 liangcheng county:涼城縣
 liangcheng east 1st road:良城东一路
 liangcheng east 2nd road:良城东二路
@@ -1954,6 +1956,7 @@ lianghecun:两河村
 lianghecun:良和村
 lianghekou bridge:两河口大桥
 lianghekou dam bridge:两河口跨库大桥
+lianghekou dam:两河口水库
 lianghekou dam:两河口水电站
 lianghekou reservoir:liǎnghékǒu shuǐkù
 lianghekou reservoir:两河口水库
@@ -2043,6 +2046,7 @@ liangjiagedan:梁家圪旦
 liangjiagou:梁家沟
 liangjiagou:梁家沟街道
 liangjiagoucun:良家沟村
+liangjiahe village:梁家河村
 liangjiahe:梁家河
 liangjiajingcun:梁家井村
 liangjialiwan:梁家里湾
@@ -2056,6 +2060,7 @@ liangjianfang:两间房镇
 liangjianfang:兩間房鎮
 liangjianfangcun:两间房村
 liangjianfangtun:两间房屯
+liangjiang airport:两江机场
 liangjiang avenue:两江大道
 liangjiang collaborative innovation zone:两江协同创新区
 liangjiang community:两江社区
@@ -2292,6 +2297,7 @@ liangmaotou:凉帽头
 liangmaqiao diplomatic residence compound:亮马桥外交公寓
 liangmaqiao north street:亮马桥北街
 liangmaqiao road:亮马桥路
+liangmaqiao station:亮马桥站
 liangmaqiao:亮马桥
 liangmatai:晾马台镇
 liangmataicun:亮马台村
@@ -2411,6 +2417,7 @@ liangsha road:良沙路
 liangshacun:梁沙村
 liangshan county:梁山县
 liangshan county:梁山縣
+liangshan dog:涼山犬
 liangshan railway station:梁山站
 liangshan reservoir:liángshān shuǐkù
 liangshan reservoir:梁山水库
@@ -2695,6 +2702,7 @@ liangxia:良下
 liangxiacun south:两下村南站
 liangxiacun:良下村
 liangxiang nanguan station:良乡南关站
+liangxiang nanguan:良乡南关
 liangxiang prison:北京市良乡监狱
 liangxiang railway station:良乡站
 liangxiang university town north:良乡大学城北
@@ -2705,6 +2713,7 @@ liangxiang:梁向
 liangxiang:良乡
 liangxiang:良鄉
 liangxiangcun:良相村
+liangxiangnanguan station:良乡南关站
 liangxiangnanguan:良乡南关
 liangxiangnanguan:良鄉南關
 liangxiaotuncun:梁小屯村
@@ -2860,6 +2869,7 @@ liangzhouzhuangcun:凉州庄村
 liangzhu ancient:良渚古
 liangzhu culture:良渚文化
 liangzhu museum:良渚博物院
+liangzhu station:良渚站
 liangzhu:梁祝镇
 liangzhu:良渚
 liangzhu:良渚街道
@@ -2954,7 +2964,10 @@ lianhe road:联合路
 lianhe road:联河路
 lianhe second kindergarten:联和第二幼儿园
 lianhe shuiku:联合水库
+lianhe station:联合乡站
 lianhe station:联和站
+lianhe station:聯合鄉站
+lianhe station:莲河站
 lianhe subdistrict:liánhé jiēdào
 lianhe subdistrict:联合街道
 lianhe subdistrict:联和街道
@@ -3039,6 +3052,7 @@ lianhua beicun 2:莲花北村 ②
 lianhua beicun 2:莲花北村②
 lianhua beicun:莲花北村
 lianhua bridge:莲花大桥
+lianhua bridge:莲花桥
 lianhua bridge:莲花桥右幅
 lianhua bridge:莲花桥左幅
 lianhua chi:莲花池
@@ -3048,6 +3062,7 @@ lianhua county:liánhuā xiàn
 lianhua county:莲花县
 lianhua county:蓮花縣
 lianhua creek:莲花溪
+lianhua dam:莲花水库
 lianhua dam:莲花水电站
 lianhua east road:liánhuā dōnglù
 lianhua east road:莲花东路
@@ -3071,14 +3086,20 @@ lianhua middle road:liánhuā zhōnglù
 lianhua middle road:莲花中路
 lianhua middle road:蓮花中路
 lianhua middle school:莲花中学
+lianhua mountain:莲花山
+lianhua mountain:蓮花山
 lianhua north road:liánhuā bĕilù
 lianhua north road:莲花北路
 lianhua north station:莲花北站
 lianhua north station:蓮花北站
+lianhua north:莲花北
+lianhua north:蓮花北
 lianhua pao:莲花泡
 lianhua park:liánhuā gōngyuán
 lianhua park:莲花公园
 lianhua park:蓮花公園
+lianhua peak:莲花峰
+lianhua peak:蓮花峰
 lianhua police station:莲花派出所
 lianhua police station:蓮花派出所
 lianhua pond:蓮花池
@@ -3098,6 +3119,8 @@ lianhua shan:莲花山
 lianhua shanzhuang:蓮華山莊
 lianhua south road:liánhuā nánlù
 lianhua south road:莲花南路
+lianhua station:莲花村站
+lianhua station:莲花站
 lianhua station:蓮花站
 lianhua street:莲花街
 lianhua sub-district:linfaa-gaaidou
@@ -3110,7 +3133,10 @@ lianhua subdistrict:莲花街道
 lianhua supermarket:联华超市
 lianhua supermarket:聯華超市
 lianhua supermarket:莲花
+lianhua supermarket:莲花超市
 lianhua supermarket:蓮花
+lianhua supermarket:蓮花超市
+lianhua supermarket:蓮花超級市場
 lianhua symphony:联华交响曲
 lianhua tea valley:莲花茶谷
 lianhua temple cave:莲花寺石窟
@@ -3123,6 +3149,7 @@ lianhua west road:莲花西路
 lianhua west station:liánhuā xī zhàn
 lianhua west station:莲花西站
 lianhua west:liánhuā xī zhàn
+lianhua west:莲花西
 lianhua yicun:liánhuā yīcūn shèqū
 lianhua yicun:莲花一村
 lianhua yicun:莲花一村社区
@@ -3204,6 +3231,7 @@ lianhuanpao:连环泡
 lianhuapaocun:莲花泡村
 lianhuapaotun:莲花泡屯
 lianhuapaozi:莲花泡子
+lianhuaqiao station:莲花桥站
 lianhuaqiao:liánhuāqiáo
 lianhuaqiao:莲花桥
 lianhuashan bus station:莲花山车站
@@ -3215,6 +3243,7 @@ lianhuashan junction:莲花山立交
 lianhuashan park 1:莲花山公园 ①
 lianhuashan park 2:莲花山公园 ②
 lianhuashan park:莲花山公园
+lianhuashan park:蓮花山公園
 lianhuashan port(fisheries terminal):莲花山码头(渔港)
 lianhuashan port:广州市莲花山港
 lianhuashan road:莲花山路
@@ -3298,6 +3327,8 @@ lianjiang bridge:莲江大桥
 lianjiang bridge:蓬江大橋
 lianjiang community:练江社区
 lianjiang county:liánjiāng xiàn
+lianjiang county:廉江县
+lianjiang county:莲江县
 lianjiang county:连江县
 lianjiang county:連江縣
 lianjiang east road:联江东路
@@ -3450,6 +3481,7 @@ lianming:联明村
 lianminwan:联民湾
 lianmuqin formation:连木沁组
 lianmuqin:连木沁镇
+liannan county:连南县
 liannan interchange:连南互通
 liannan yao autonomous county:liánnán yáozú zìzhìxiàn
 liannan yao autonomous county:连南瑶族自治县
@@ -3555,6 +3587,8 @@ liansha avenue:联沙大道
 liansha:联沙社区
 lianshan 1st road:连山一路
 lianshan 4th road:连山四路
+lianshan county:莲山县
+lianshan county:连山县
 lianshan dingfu:连山鼎府
 lianshan district:liánshān qū
 lianshan district:连山区
@@ -3652,11 +3686,13 @@ lianshiyao:连石窑
 lianshui county:liánshuǐ xiàn
 lianshui county:涟水县
 lianshui county:漣水
+lianshui county:漣水县
 lianshui county:漣水縣
 lianshui lake:liánshuǐ hú
 lianshui lake:连水湖
 lianshui river:涟水河
 lianshui river:濂水河
+lianshui river:连水河
 lianshui:liánshuǐ xiàn
 lianshui:涟水县
 lianshui:漣水
@@ -3709,7 +3745,9 @@ liantang reservoir:liántáng shuǐkù
 liantang reservoir:莲塘水库
 liantang road:莲塘路
 liantang south:莲塘南
+liantang station:练塘站
 liantang station:莲塘站
+liantang station:蓮塘站
 liantang sub-district office:莲塘街道办
 liantang sub-district:lintong-gaaidou
 liantang sub-district:liántáng jiēdào
@@ -3926,6 +3964,8 @@ lianyungang banzhuang middle school:连云港市班庄中学
 lianyungang daling middle school:连云港市大岭中学
 lianyungang east port logistics expressway:連雲港東疏港高速
 lianyungang east railway station:连云港东站
+lianyungang east:连云港东
+lianyungang east:連雲港東
 lianyungang ganyu economic development zone primary school:连云港市赣榆经济开发区小学
 lianyungang ganyu experimental middle school:连云港市赣榆实验中学
 lianyungang ganyuqu hospital of tcm:连云港市赣榆区中医院
@@ -3941,6 +3981,7 @@ lianyungang jiuli middle school:连云港市九里中学
 lianyungang lizhuang high school:连云港市厉庄高级中学
 lianyungang normal college:连云港师范学院
 lianyungang north port logistics expressway:连云港北疏港高速
+lianyungang port:连云港港口
 lianyungang railway station:连云港站
 lianyungang shahe middle school:连云港市沙河中学
 lianyungang sheng'an hospital:连云港圣安医院
@@ -4174,6 +4215,7 @@ liaoceratops:遼寧角龍屬
 liaochang:廖场乡
 liaochang:料场
 liaoche:撩车
+liaocheng county:聊城县
 liaocheng no.2 people's hospital:聊城市第二人民医院
 liaocheng normal school of pre-school education:聊城幼儿师范学校
 liaocheng people:聊城市人民
@@ -4184,7 +4226,9 @@ liaocheng subdistrict:蓼城街道
 liaocheng university, east campus:聊城大学东校区
 liaocheng university, west campus:聊城大学西校区
 liaocheng university:聊城大学
+liaocheng university:聊城大學
 liaocheng west railway station:聊城西站
+liaocheng west:聊城西
 liaocheng:liáochéng shì
 liaocheng:料城
 liaocheng:聊城
@@ -4223,6 +4267,7 @@ liaodong commandery:辽东郡
 liaodong körfezi:辽东湾
 liaodong körfezi:遼東灣
 liaodong peninsula:辽东半岛
+liaodong province:辽东省
 liaodong subdistrict:liáodōng jiēdào
 liaodong subdistrict:辽东街道
 liaodong wan:辽东湾
@@ -4334,6 +4379,7 @@ liaojiashan:瞭家山社区
 liaojiatang:廖家塘
 liaojiatianwan:廖家田湾
 liaojiawan road:廖家湾路
+liaojiawan station:廖家湾站
 liaojiawan:廖家塆
 liaojiawan:廖家湾
 liaojiawan:廖家湾村
@@ -4411,6 +4457,7 @@ liaoning fangda group industrial:辽宁方大集团
 liaoning flying leopards:辽宁沈阳三生飞豹篮球俱乐部
 liaoning guangyuan fc:辽宁广原足球俱乐部
 liaoning gymnasium:辽宁体育馆
+liaoning gymnasium:辽宁省体育馆
 liaoning ha'erbin st. intersection:liáonínghāěrbīnjiēkǒu
 liaoning ha'erbin st. intersection:ㄌㄧㄠˊㄋㄧㄥˊㄏㄚㄦˇㄅㄧㄣㄐㄧㄝㄎㄡˇ
 liaoning ha'erbin st. intersection:辽宁哈尔滨街口
@@ -4421,6 +4468,7 @@ liaoning institute of metrology:辽宁省计量科学研究院
 liaoning institute of metrology:遼寧省計量科學研究院
 liaoning institute of science and engineering:辽宁理工学院
 liaoning military district:中国人民解放军辽宁省军区
+liaoning museum:辽宁省博物馆
 liaoning normal university:辽宁师范大学
 liaoning park:遼寧公園
 liaoning petrocchemical college:辽宁石化职业技术学院
@@ -4572,9 +4620,13 @@ liaoyang east road:辽阳东路
 liaoyang east road:遼陽東路
 liaoyang n. 1st street:遼陽北一街
 liaoyang n. 2nd street:遼陽北二街
+liaoyang province:辽阳省
 liaoyang railway station:辽阳站
 liaoyang rapid road:辽阳快速路
 liaoyang road:辽阳路
+liaoyang stadium:辽阳体育场
+liaoyang stadium:辽阳体育馆
+liaoyang stadium:辽阳市体育馆
 liaoyang street:辽阳街
 liaoyang street:遼陽街
 liaoyang tv:辽阳广播电视台
@@ -4624,6 +4676,7 @@ liaoyuanlu:辽源路街道
 liaoyuanlu:遼源路街道
 liaoyuannanniupu:辽源南牛堡
 liaoyuanniupu:辽源牛堡
+liaozhong county:辽中县
 liaozhong district court:辽中区法院
 liaozhong district:liáozhōng qū
 liaozhong district:辽中区
@@ -4655,6 +4708,7 @@ liar at work:说谎者在工作
 liar genes:说谎者基因
 liar liar:王牌大騙子
 liar paradox:說謊者悖論
+liar paradox:说谎者悖论
 liar will:说谎者会
 liar's poker:说谎者的扑克牌
 liar:说谎者
@@ -4869,6 +4923,8 @@ libengongsi:立本公司
 libengongsicun:立本公司村
 libenshu:丽本书
 libental:利边塔利
+liber college:利比里亚学院
+liber college:賴比瑞亞學院
 liber pontificalis:教宗名錄
 liber research community:本土研究社
 liber usualis:常用歌集
@@ -5497,6 +5553,7 @@ liberation army:解放军队
 liberation assistance:解放援助
 liberation be:解放成为
 liberation been:解放已经
+liberation boulevard:解放大道
 liberation brands:解放品牌
 liberation bridge:解放桥
 liberation car:解放车
@@ -5532,6 +5589,7 @@ liberation means freedom:解放意味着自由
 liberation means:解放意味着
 liberation media:解放媒体
 liberation meditation:解放冥想
+liberation memorial:解放纪念碑
 liberation monument in chongqing:抗战胜利纪功碑暨人民解放纪念碑
 liberation monument:解放塔
 liberation monument:解放纪念碑
@@ -5579,6 +5637,7 @@ liberation practice:解放实践
 liberation prisoner:解放囚犯
 liberation process:解放过程
 liberation project:解放项目
+liberation psychology:解放心理学
 liberation rather than:解放而不是
 liberation records:解放记录
 liberation remember:解放记住
@@ -5594,6 +5653,7 @@ liberation road:gaaifong lu
 liberation road:jiěfàng zhōnglù
 liberation road:解放中路
 liberation road:解放路
+liberation road:解放道路
 liberation role:解放角色
 liberation shoe:解放鞋
 liberation square:巴格達解放廣場
@@ -5602,6 +5662,7 @@ liberation statue:解放雕像
 liberation street:解放街
 liberation team:解放队
 liberation that:解放那
+liberation theology:解放神学
 liberation theology:解放神學
 liberation theory:解放理論
 liberation therapy:解放疗法
@@ -5712,6 +5773,8 @@ liberia cannot:利比里亚不能
 liberia chimpanzee rescue:利比里亚黑猩猩救援
 liberia chimpanzee:利比里亚黑猩猩
 liberia city:利比里亚城市
+liberia college:利比里亚学院
+liberia college:賴比瑞亞學院
 liberia country:利比里亚国家
 liberia during:利比里亚期间
 liberia election:利比里亚选举
@@ -5743,6 +5806,7 @@ liberia report:利比里亚报告
 liberia reports:利比里亚报告
 liberia said:利比里亚说
 liberia sanctions:利比里亚制裁
+liberia settlement:利比里亞殖民地
 liberia start:利比里亚开始
 liberia suffer:利比里亚遭受
 liberia telecommunications corporation:利比里亚电信公司
@@ -5970,15 +6034,20 @@ liberty ceo:自由首席执行官
 liberty chain:自由链条
 liberty city:自由城市
 liberty coach:自由教练
+liberty coalition:自由联合
+liberty coalition:自由聯合
 liberty come from god:自由来自上帝
 liberty come from:自由来自
 liberty come:自由来
+liberty committee:自由委员会
 liberty competition:自由竞争
 liberty contract:自由契约
 liberty control:自由控制
+liberty corporation:自由企业
 liberty could:自由能
 liberty counsel:自由法律顧問
 liberty county:利伯蒂县
+liberty county:自由县
 liberty create:自由创造
 liberty cruise:自由巡航
 liberty customers:自由客户
@@ -5989,6 +6058,8 @@ liberty deprivation:自由剥夺
 liberty dollar:自由美元
 liberty dollars:自由美元
 liberty during:自由期间
+liberty energy:自由能源
+liberty energy:自由能量
 liberty equality:自由平等
 liberty exist:自由存在
 liberty facilities:自由设施
@@ -5996,6 +6067,7 @@ liberty family:自由家庭
 liberty fashion:自由时尚
 liberty film festival:自由电影节
 liberty film:自由电影
+liberty films:自由电影
 liberty flow:自由流动
 liberty for liberty i:自由为了自由我
 liberty for liberty:自由为了自由
@@ -6003,6 +6075,7 @@ liberty for:自由为了
 liberty forum:自由论坛
 liberty from:自由从
 liberty fund:自由基金
+liberty generation:自由生成
 liberty global logistics:自由全球物流
 liberty global:自由全球
 liberty goddess:自由女神
@@ -6014,6 +6087,7 @@ liberty head:自由头
 liberty helicopters:自由直升机
 liberty high school:自由高中
 liberty high:自由高
+liberty hill:自由丘
 liberty hotel:自由酒店
 liberty i:自由我
 liberty in north korea:自由北韓
@@ -6037,6 +6111,7 @@ liberty issue:自由问题
 liberty jail:自由监狱
 liberty knight:自由骑士
 liberty korea party:自由韩国党
+liberty korea:自由朝鲜
 liberty lake:自由湖
 liberty landing:自由登陆
 liberty latin america:自由拉丁美洲
@@ -6053,15 +6128,20 @@ liberty means responsibility:自由意味着责任
 liberty means:自由意味着
 liberty means:自由意味著
 liberty meat:自由肉
+liberty medal:自由獎章
 liberty media corporation:自由媒体公司
 liberty media criticize:自由媒体批评
 liberty media start:自由媒体开始
 liberty media:自由媒体
+liberty memorial:自由纪念碑
 liberty molly:薩爾瓦多花鱂
+liberty monument:自由纪念碑
+liberty mountain:自由山
 liberty museum:自由博物馆
 liberty mutual:利寶互助保險
 liberty national bank:自由国家银行
 liberty needs:自由需要
+liberty news:自由新闻
 liberty not:自由不是
 liberty obviously want:自由显然想要
 liberty obviously:自由显然
@@ -6073,12 +6153,16 @@ liberty or equality:自由或平等
 liberty or give me:自由或给我
 liberty or property:自由或財產
 liberty park:自由公园
+liberty park:自由公園
 liberty party chairman:自由党主席
 liberty party:自由党
+liberty party:自由聚会
+liberty peak:自由峰
 liberty period:自由时期
 liberty plaza:自由廣場
 liberty point:自由点
 liberty pole:自由之竿
+liberty pole:自由波蘭
 liberty principle:自由原则
 liberty project:自由项目
 liberty protection:自由保护
@@ -6089,10 +6173,13 @@ liberty reserve dollars:自由儲備美元
 liberty reserve:自由儲備
 liberty result:自由导致
 liberty rights:自由权利
+liberty road:自由路
 liberty rocks:利伯蒂岩
 liberty roundabout:自由圓環
+liberty school:自由学校
 liberty science center:自由科学中心
 liberty sculpture park:自由雕塑公园
+liberty ship:自由船
 liberty ship:自由轮
 liberty show:自由显示
 liberty social code:自由社会的代码
@@ -6106,7 +6193,10 @@ liberty square:自由廣場
 liberty standard:自由标准
 liberty state park:自由州立公园
 liberty state:自由州
+liberty station:自由站
+liberty statue:自由塑像
 liberty statue:自由女神像
+liberty statue:自由雕像
 liberty steak:自由肉排
 liberty steel:自由钢
 liberty street college:自由街学院
@@ -6121,9 +6211,13 @@ liberty style:自由风格
 liberty sun:自由太阳
 liberty tea:自由茶
 liberty than canada:自由比加拿大
+liberty theater:自由剧场
+liberty theatre:自由剧场
+liberty theatre:自由剧院
 liberty them:自由他们
 liberty times:自由時報
 liberty tower:自由塔
+liberty towers:自由塔
 liberty township:利伯蒂镇区
 liberty training:自由训练
 liberty tree:自由树
@@ -6134,8 +6228,11 @@ liberty university:自由大學
 liberty valley:自由山谷
 liberty victoria:自由维多利亚
 liberty village:自由村
+liberty vote:自由投票
 liberty war:自由战争
 liberty was safe:自由是安全的
+liberty watch:自由表
+liberty way:自由路
 liberty weekend:自由周末
 liberty when they:自由当他们
 liberty will:自由会
@@ -6321,11 +6418,13 @@ libokeng:利波坑
 libolo:利博洛
 libolong:李伯龙
 libonectes:西南泳龍屬
+libor scandal:倫敦銀行同業拆放利率醜聞
 libor:倫敦銀行同業拆放利率
 liborina:利博里納
 liborna:利布爾訥
 liboshuicun:里波水村
 libourne station:利布尔讷站
+libourne station:利布爾訥站
 libourne:利布爾訥
 libozhaicun:黎博寨村
 libozhuangcun:李泊庄村
@@ -6715,6 +6814,7 @@ library jobs:图书馆工作
 library journal magazine:图书馆杂志杂志
 library journal move:图书馆杂志移动
 library journal:图书馆杂志
+library journal:圖書館期刊
 library key:图书馆钥匙
 library know:图书馆知道
 library knowledge base:图书馆知识库
@@ -6747,6 +6847,8 @@ library management systems:图书馆管理系统
 library management technology:图书馆管理技术
 library management tools:图书馆管理工具
 library management:图书馆管理
+library management:图书馆管理学
+library management:圖書館管理
 library manager:图书馆经理
 library map:图书馆地图
 library market:图书馆市场
@@ -6882,6 +6984,7 @@ library policies:图书馆政策
 library policy and research:图书馆政策和研究
 library policy:图书馆政策
 library portal:图书馆门户
+library portal:圖書館入口
 library portrait and book:图书馆肖像和图书
 library portrait:图书馆肖像
 library practice:图书馆实践
@@ -6985,6 +7088,7 @@ library society:图书馆社会
 library solution:图书馆解决方案
 library solutions:图书馆解决方案
 library sort:图书馆排序
+library sort:圖書館排序
 library sound:图书馆声音
 library south road:图书馆南路
 library south road:圖書館南路
@@ -7388,6 +7492,8 @@ libya threat:利比亚威胁
 libya to niger:利比亚到尼日尔
 libya today:利比亚今天
 libya tv:利比亚电视
+libya university:利比亚大学
+libya university:利比亞大學
 libya violence:利比亚暴力
 libya váldokonsuláhta:利比亚总领事馆
 libya wait:利比亚等待
@@ -7913,6 +8019,8 @@ lichidiancun:里池店村
 lichih high school:立志中學
 lichinaceae:异极衣科
 lichinales:异极菌目
+lichinga airport:利欣加机场
+lichinga airport:利欣加機場
 lichinga district:利辛加區
 lichinga:利欣加
 lichiqucha:利奇科查山
@@ -7934,6 +8042,8 @@ lichte:利希特
 lichtebach:利希特巴赫河
 lichtenau im waldviertel:瓦尔德地区利希特瑙
 lichtenau:利希特瑙
+lichtenberg figure:利希滕贝格图
+lichtenberg station:利希滕贝格站
 lichtenberg:利希滕贝格
 lichtenborn:利希滕博尔恩
 lichtenborn:利希滕博恩
@@ -8156,6 +8266,8 @@ licun reservoir:里村水库
 licun river:lícūn hé
 licun river:黎村河
 licun station:李村站
+licun station:栗村站
+licun station:荔村站
 licun subdistrict:里村街道
 licun village:礼村
 licun:lìcūn shèqū
@@ -8328,6 +8440,7 @@ lidianzicun:李店子村
 lidiaojiangwan:李雕匠湾
 lidiaojuwan:李吊咀湾
 lidice massacre:利迪策大屠杀
+lidice massacre:利迪策屠杀
 lidice village:利迪策村
 lidice:利迪策
 lidichengcun:李迪城村
@@ -8484,6 +8597,7 @@ lidykhiv:利季希夫
 lidz:列斯
 lidz:利兹
 lidz:里茲
+lidzbark castle:利茲巴克城堡
 lidzbark castle:瓦爾米亞利茲巴克城堡
 lidzbark county:利茲巴克縣
 lidzbark:利茲巴克
@@ -8687,6 +8801,7 @@ liechtenstein brick:列支敦士登砖
 liechtenstein brick:列支敦士登磚
 liechtenstein bus:列支敦斯登巴士
 liechtenstein castle:列支敦士登城堡
+liechtenstein castle:列支敦斯登城堡
 liechtenstein citizens:列支敦士登公民
 liechtenstein city:列支敦士登城市
 liechtenstein city:列支敦斯登城市
@@ -8701,6 +8816,7 @@ liechtenstein global trust bank:列支敦士登全球信托銀行
 liechtenstein global trust bank:列支敦士登全球信托银行
 liechtenstein global:列支敦士登全球
 liechtenstein government:列支敦士登政府
+liechtenstein government:列支敦斯登政府
 liechtenstein governments:列支敦士登政府
 liechtenstein is another hot:列支敦士登是另一个热
 liechtenstein is located in:列支敦士登位于
@@ -8728,6 +8844,7 @@ liechtenstein trust:列支敦士登信托
 liechtenstein university:列支敦士登大学
 liechtenstein uses:列支敦士登使用
 liechtenstein using:列支敦士登使用
+liechtenstein wine:列支敦士登葡萄酒
 liechtenstein:列支敦士登
 liechtenstein:列支敦士登 / 列支敦斯登
 liechtenstein:列支敦斯登
@@ -9980,6 +10097,7 @@ life coach who teach:生活教练谁教
 life coach who:生活教练谁
 life coach:生命教练
 life coach:生活教练
+life college:生命学院
 life come from:生命来自
 life come:生命来
 life come:生活来
@@ -10328,6 +10446,7 @@ life for:生命为了
 life for:生活为了
 life force and leave:生活力和离开
 life force energy:生活力量能源
+life force:生命力
 life force:生活力
 life force:生活力量
 life forever more:生活永远更多
@@ -10383,6 +10502,7 @@ life god:生活上帝
 life goddess:生命女神
 life goddess:生活女神
 life habit:生活习惯
+life hacker:生活黑客
 life had been find:生活已经发现
 life had been sacrifice:生命已经牺牲
 life had been:生命已经
@@ -10538,6 +10658,8 @@ life insurance policy:人壽保險政策
 life insurance study group:人壽保險研究小組
 life insurance trust:保險金信託
 life insurance:人壽保險
+life insurance:生命保险
+life insurance:生命保險
 life interest:生活兴趣
 life interesting:生活有趣的
 life international:生命国际的
@@ -11083,6 +11205,7 @@ life organization:生命组织
 life organization:生活组织
 life organize:生命组织
 life organize:生活组织
+life origin:生命起源
 life oscillation:生命振荡
 life our:生命我们的
 life outcome:生活结果
@@ -11108,6 +11231,7 @@ life partners:生活合作伙伴
 life partnership is real:生活伙伴关系是真的
 life partnership:生活伙伴关系
 life party:生活党
+life party:生活派對
 life passbook:生命存摺
 life passion:生命激情
 life passion:生活激情
@@ -11215,6 +11339,7 @@ life purpose:生命目的
 life purpose:生活目的
 life push:生活推
 life quality:生命质量
+life quality:生活质量
 life question:生命问题
 life questions:生命问题
 life questions:生活问题
@@ -11473,6 +11598,7 @@ life science:生命科学
 life sciences building:生命科学馆
 life sciences building:生命科學館
 life sciences research foundation:生命科學研究基金會
+life scientific:生命科学
 life scope:生活范围
 life script:生活脚本
 life sculpture:生命雕塑
@@ -11559,6 +11685,7 @@ life skills training:生活技能训练
 life skills you:生活技能你
 life skills:生命技能
 life skills:生活技巧
+life skills:生活技术
 life skills:生活技能
 life sleep:生命睡
 life slowly:生活慢慢地
@@ -11605,6 +11732,7 @@ life span using:寿命使用
 life span will reach:寿命将达到
 life span would:寿命将
 life span:寿命
+life span:生命跨度
 life species:生命物种
 life spent:生命花
 life spirit:生活精神
@@ -11749,6 +11877,7 @@ life than we:生命比我们
 life than you:生活比你
 life that:生命那
 life that:生活那
+life theater:生活剧场
 life theme:生命主题
 life theme:生活主題
 life theme:生活主题
@@ -11810,6 +11939,7 @@ life under:生命下
 life unfair:生活不公平的
 life unit:生命单位
 life university:生命大学
+life university:生命大學
 life until his death:生活直到他的死亡
 life until now had been:生活直到现在已经
 life until:生活直到
@@ -12188,6 +12318,7 @@ liffol le petit:小利福勒
 lifford:利福德
 lifiuenia:lìtáowǎn
 lifiuenia:立陶宛
+lifou island:利富岛
 lifou island:利富島
 lifou:利富
 lifozi:里佛子
@@ -12859,6 +12990,7 @@ light efficiency will reach:光效率将达到
 light efficiency:光效率
 light element:光元素
 light elements:光元素
+light elf:光精靈
 light emissions:光排放
 light emitting diode:發光二極管
 light energy companies:光能量公司
@@ -12920,6 +13052,7 @@ light flight:光飞行
 light floor:光地板
 light flower:光花
 light fluorescence:光荧光
+light flux:光通量
 light flyweight champion:轻蝇量级冠军
 light flyweight:轻蝇量级
 light fodder:光饲料
@@ -12929,6 +13062,7 @@ light food industrial park:轻工食品园站
 light food:光食品
 light football field:光足球场
 light football:光足球
+light force:光力
 light forever:光永远
 light form:光形式
 light foundation:光基金
@@ -12954,6 +13088,7 @@ light funnel:光漏斗
 light fusion technology:光融合技术
 light fusion:光融合
 light gas gun:輕氣砲
+light generation:光世代
 light german center (xinyi and rende st. intersection):光德國中(信義仁德街口)
 light give:光给
 light go:光去
@@ -12964,6 +13099,7 @@ light grind:光磨
 light group:光组
 light guinea:光几内亚
 light gun shooter:光枪射击游戏
+light gun:光枪
 light gun:光線槍
 light had been:光已经
 light hair:光头发
@@ -13096,6 +13232,7 @@ light levels:光水平
 light lever:光杠杆
 light lighting:光照明
 light limit:光限制
+light line:光线
 light load:光加载
 light look:光看
 light loss:光损失
@@ -13141,6 +13278,7 @@ light middleweight:轻中量级
 light miles:光英里
 light minute:光分
 light minute:光分钟
+light minutes:光分钟
 light mission:光使命
 light mix:光混合
 light mode:光模式
@@ -13193,6 +13331,7 @@ light of truth award:真理之光獎
 light of truth:光的真理
 light of understanding:光的理解
 light offer:光提供
+light oil:光油
 light oil:輕油
 light on dark color scheme:夜間模式
 light one:光一
@@ -13271,6 +13410,7 @@ light plants:光植物
 light platform:光平台
 light point:光点
 light points:光点
+light polarization:光極化
 light police:光警察
 light pollution began:光污染开始
 light pollution control:光污染控制
@@ -13640,6 +13780,7 @@ light supercomputer:光超级计算机
 light support:光支持
 light surface:光表面
 light sweater:光毛衣
+light switch:光开关
 light switch:光開關
 light syllable:轻音节
 light synthesis technology:光合成技术
@@ -13909,6 +14050,7 @@ lighthouse professional:灯塔专业
 lighthouse project:灯塔项目
 lighthouse projects:灯塔项目
 lighthouse reef:灯塔礁
+lighthouse reef:燈塔礁
 lighthouse resources:灯塔资源
 lighthouse roof:灯塔屋顶
 lighthouse route:灯塔路线
@@ -13921,6 +14063,7 @@ lighthouse station:灯塔站
 lighthouse strategy:灯塔战略
 lighthouse studio:灯塔工作室
 lighthouse system:灯塔系统
+lighthouse theatre:灯塔剧院
 lighthouse treatment:灯塔治疗
 lighthouse village:灯塔村
 lighthouse was built in:灯塔建于
@@ -14708,6 +14851,7 @@ lightning and volcano:闪电和火山
 lightning angel:闪电天使
 lightning attack:闪电攻击
 lightning backup:闪电备份
+lightning bird:闪电鸟
 lightning bitcoin payment:闪电比特币支付
 lightning bitcoin:闪电比特币
 lightning blue:闪电蓝色
@@ -14720,6 +14864,7 @@ lightning channel:闪电通道
 lightning charge:闪电电荷
 lightning club:闪电俱乐部
 lightning coach:闪电教练
+lightning comics:闪电漫画
 lightning community:闪电社区
 lightning components:闪电组件
 lightning concentrate:闪电集中
@@ -14763,6 +14908,7 @@ lightning into:闪电进入
 lightning jewel:闪电宝石
 lightning kill:闪电杀
 lightning know:闪电知道
+lightning lake:闪电湖
 lightning legislation:闪电立法
 lightning light:闪电光
 lightning like:闪电喜欢
@@ -14842,6 +14988,7 @@ lightning researchers and engineers:闪电研究人员和工程师
 lightning researchers:闪电研究人员
 lightning reveal:闪电揭示
 lightning risk assessment:闪电风险评估
+lightning river:闪电河
 lightning rod fashion:避雷针时尚
 lightning rod issue:避雷针问题
 lightning rod market:避雷针市场
@@ -14953,6 +15100,7 @@ lightweight boots:轻量级靴子
 lightweight boson:轻量级玻色子
 lightweight bottle:轻量级的瓶
 lightweight bow:轻量级的弓
+lightweight boxer:轻量级拳击手
 lightweight boxer:轻量级的拳击手
 lightweight branch:轻量级的分支
 lightweight brown dwarf companion:轻量级棕矮星伴侣
@@ -16099,7 +16247,10 @@ lijia sangyuan:李家桑园
 lijia shanzhuang:李家山庄
 lijia shengou:李家深沟
 lijia shuwo:李家树窝
+lijia station:励家站
+lijia station:李家站
 lijia station:礼嘉站
+lijia station:禮嘉站
 lijia subdistrict:lǐjiā jiēdào
 lijia subdistrict:李家街道
 lijia subdistrict:礼嘉街道
@@ -16324,6 +16475,7 @@ lijiancun:李尖村
 lijiancun:李建村
 lijiancun:李涧村
 lijiang airport expressway:丽江机场高速
+lijiang airport:丽江机场
 lijiang berlin:丽江柏林
 lijiang bridge:漓江桥
 lijiang city administration of market regulation:丽江市市场监督管理局
@@ -16348,6 +16500,7 @@ lijiang city:麗江市
 lijiang coach terminal:丽江客运站
 lijiang culture and tourism college:丽江文化旅游学院
 lijiang e-outfitting boutique hotel:丽江首驿精品酒店
+lijiang earthquake:丽江地震
 lijiang elementary school:丽江小学
 lijiang experimental school:丽江市实验学校
 lijiang fuhui school:丽江市福慧学校
@@ -16398,11 +16551,13 @@ lijiang shanghaixinjiyuan school:丽江上海新纪元学校
 lijiang shizheng square:丽江市政广场
 lijiang shuhe yuefeng resort hotel:悦峰堂度假酒店
 lijiang sports development centre stadium:丽江体育发展中心体育场
+lijiang stadium:丽江体育馆
 lijiang street:丽江街
 lijiang subdistrict:澧江街道
 lijiang teacher's college:丽江师范高等专科学校
 lijiang theatre:漓江剧院
 lijiang tourism vocational school:丽江旅游职业学校
+lijiang tusi:丽江土司
 lijiang waterfall hotel:漓江大瀑布饭店
 lijiang wenlin experimental school:丽江文林实验学校
 lijiang women and children's hospital:丽江市妇女儿童医院
@@ -16704,6 +16859,7 @@ lijin reservoir:利津水库
 lijin road station:利津路站
 lijin road:lì jīn lù
 lijin road:利津路
+lijin south:利津南
 lijin:利津
 lijin:利津县
 lijin:利津縣
@@ -16798,6 +16954,8 @@ lika emphasize:利卡强调
 lika even:利卡甚至
 lika has been:利卡已经
 lika quit:利卡退出
+lika river:利卡河
+lika river:里卡河
 lika said:利卡说
 lika:利卡
 lika:里卡
@@ -19467,8 +19625,10 @@ lilin road:荔林路
 lilin station(minsheng street):栗林車站(民生街)
 lilin station:lìlínchēzhàn
 lilin station:ㄌㄧˋㄌㄧㄣˊㄔㄜㄓㄢˋ
+lilin station:栗林站
 lilin station:栗林車站
 lilin station:栗林车站
+lilin station:梨林站
 lilin town:lìlín zhèn
 lilin town:沥林镇
 lilin town:瀝林鎮
@@ -19491,7 +19651,9 @@ lilinbucun:梨林堡村
 lilincun:栗林村
 lilincun:梨林村
 lilindiancun:栗林店村
+liling county:醴陵县
 liling east railway station:醴陵东站
+liling east:醴陵东
 liling railway station:醴陵站
 liling:lǐlíng shì
 liling:礼岭村
@@ -19531,6 +19693,7 @@ lilith as the first:莉莉丝作为第一
 lilith began:莉莉丝开始
 lilith eventually became:莉莉丝最终成为
 lilith eventually:莉莉丝最终
+lilith games:莉莉丝游戏
 lilith has been:莉莉丝已经
 lilith is a young:莉莉丝是一个年轻的
 lilith smith:莉莉丝史密斯
@@ -19590,15 +19753,19 @@ lilla:里爾
 lillach:利拉赫河
 lille / rysel:里尔
 lille / rysel:里爾
+lille airport:里尔机场
 lille airport:里爾機場
 lille and douai:里尔和杜埃
 lille and reims:里尔和兰斯
 lille and roubaix:里尔和鲁贝
 lille and strasbourg:里尔和斯特拉斯堡
+lille cathedral:里尔主教座堂
 lille cathedral:里爾主教座堂
 lille catholic university:里尔天主教大学
 lille city government:里尔市政府
 lille europe station:里爾歐洲站
+lille europe:里尔欧洲
+lille europe:里爾歐洲
 lille flandres station:里尔佛兰德站
 lille football club:里尔足球俱乐部
 lille in france:里尔在法国
@@ -19615,6 +19782,9 @@ lille support:里尔支持
 lille synagogue:里尔犹太会堂
 lille tramway:里尔有轨电车
 lille university of science and technology:里爾第一大學
+lille university:里尔大学
+lille university:里尔大學
+lille university:里爾大學
 lille welcome:里尔欢迎
 lille:里尔
 lille:里爾
@@ -19774,6 +19944,7 @@ lim chu kang camp ii:林厝港二号兵营
 lim chu kang:林厝港
 lim chuan poh:林泉宝
 lim chun ae:林春爱
+lim college:林学院
 lim dall young:林達永
 lim dental surgery:林牙科醫務所
 lim ding wen:林鼎文
@@ -19834,6 +20005,7 @@ lim pek har:林碧霞
 lim por yen centre:林百欣中心
 lim por yen memorial building:林百欣紀念樓
 lim por yen:林百欣
+lim river:林河
 lim sang choon:林恦賰
 lim sang hyub:林尚協
 lim say hup:林世合
@@ -19841,11 +20013,13 @@ lim seul ong:林瑟雍
 lim si cheng:林时清
 lim si hyeon:林是见
 lim soo nee:林思年
+lim station:林站
 lim su kyung:林秀卿
 lim sun dong:林仙东
 lim swee say:林瑞生
 lim tek koaⁿ:林德官
 lim teong kim:林长金
+lim valley:林瓦利
 lim wee chai:林偉才
 lim xiaoqing:林小青
 lim yaovaraj:林泰泉
@@ -19864,25 +20038,36 @@ lim-lao-ngow bistro:林老五
 lim:利姆河
 lim:林
 lima aga khan:利馬阿迦汗
+lima airport:利馬機場
+lima airport:利马机场
 lima and callao metro:利馬地鐵
 lima and callao:利馬和卡亞俄
+lima bean:利馬豆
+lima bean:利马豆
 lima bean:棉豆
 lima blanco municipality:利馬布蘭科市
 lima campos:利马坎普斯
+lima cathedral:利馬主教座堂
+lima cathedral:利马主教座堂
+lima cricket:利馬板球
 lima district:利馬區
 lima group:利馬集團
 lima kedai toll plaza:五间店收费站
 lima kedai:五间店
 lima latin america:利馬拉丁美洲
 lima locomotive works:利馬機車廠
+lima metro:利马地铁
 lima metropolitan area:利馬都會區
+lima news:利马新闻
 lima peru temple:秘魯利馬聖殿
 lima province:利馬省
+lima province:利马省
 lima puluh kota regency:利马普鲁哥打县
 lima river:五条港
 lima river:五条港村
 lima river:五條港
 lima river:五條港村
+lima river:利馬河
 lima stock exchange:利馬證券交易所
 lima township:莱马镇区
 lima:limaa-cin
@@ -20093,8 +20278,11 @@ limbu language:林布语
 limbu people:林布族
 limburch:林堡
 limburch:林堡省
+limburg abbey:林堡修道院
 limburg an der lahn:兰河畔林堡
+limburg cathedral:林堡主教座堂
 limburg museum:林堡博物馆
+limburg province:林堡省
 limburg:林堡
 limburg:林堡省
 limburger domsingknaben:林堡主教座堂兒童合唱團
@@ -20170,6 +20358,8 @@ limerick and galway:利默里克和戈尔韦
 limerick as well as:利默里克以及
 limerick city centre:利默里克市中心
 limerick city:利默里克城市
+limerick constituency:利默里克选区
+limerick east:利默里克东
 limerick form:利默里克形式
 limerick hotel:利默里克酒店
 limerick konderria:利默里克郡
@@ -20180,7 +20370,9 @@ limerick office:利默里克办公室
 limerick region:利默里克地区
 limerick soviet:利默里克苏维埃
 limerick team:利默里克队
+limerick tunnel:利默里克隧道
 limerick university:利默里克大学
+limerick university:利默里克大學
 limerick:利默里克
 limerick:利默里克郡
 limericki krahvkond:利默里克郡
@@ -20268,6 +20460,7 @@ limin bei'erhao lukou:利民北二号路口
 limin beiyihao lukou:利民北一号路口
 limin bridge:利民桥
 limin community:利民社区
+limin cup:利民杯
 limin gongyou parking:lìmíngōngyǒutíngchēchǎng
 limin gongyou parking:ㄌㄧˋㄇㄧㄣˊㄍㄨㄥㄧㄡˇㄊㄧㄥˊㄔㄜㄔㄤˇ
 limin gongyou parking:立民公有停車場
@@ -20969,6 +21162,10 @@ limit plastic:限制塑料
 limit play:限制玩
 limit player:限制玩家
 limit players:限制玩家
+limit point:极限点
+limit point:限制点
+limit points:极限点
+limit points:限制点
 limit poker:限制扑克
 limit police:限制警察
 limit policies:限制政策
@@ -21076,6 +21273,8 @@ limit should be:限制应该是
 limit should prevent:限制应该防止
 limit side effect:限制副作用
 limit simple:限制简单
+limit situation:极限情况
+limit situation:极限情形
 limit slavery:限制奴隶制
 limit smoke:限制烟
 limit smoking:限制吸烟
@@ -21399,13 +21598,17 @@ limoeiro do ajuru:利穆埃魯杜阿茹魯
 limoeiro do norte:北利穆埃鲁
 limoeiro:利穆埃鲁
 limofangtun:李磨坊屯
+limoges airport:利摩日机场
+limoges airport:利摩日機場
 limoges and marseille:利摩日和马赛
 limoges and paris:利摩日和巴黎
 limoges cathedral:利摩日主教座堂
+limoges cathedral:利摩日大教堂
 limoges football:利摩日足球會
 limoges porcelain blue:利摩日瓷器蓝色
 limoges porcelain:利摩日瓷器
 limoges tournament:利摩日锦标赛
+limoges university:利摩日大学
 limoges:利摩日
 limogne en quercy:凯尔西地区利莫涅
 limois:白蜡蝉属
@@ -21453,6 +21656,7 @@ limousine lounge:专车候车室
 limousine lounge:專車候車室
 limousine:加长轿车
 limousis:利穆西
+limoux station:利穆站
 limoux:利穆
 limoĝo:利摩日
 limožas:利摩日
@@ -21547,6 +21751,8 @@ limˇ kieuˋ:林口
 limˇ nui:lín nèi
 limˇ nui:林內
 limˇ nui:林内
+lin a:林一
+lin aiguo:林爱国
 lin aing:仁愛
 lin aing:仁爱
 lin an tai anwesen:林安泰古厝
@@ -21560,6 +21766,7 @@ lin aqin:林阿琴
 lin au:蓮澳
 lin barn tsuen:練板村
 lin barn tsuen:练板村
+lin beichuan:林北川
 lin ben yuan family:林本源家族
 lin biao and confucius:林彪和孔子
 lin biao incident:九一三事件
@@ -21572,6 +21779,7 @@ lin boqu:林伯渠
 lin bosheng:林柏生
 lin bu:林逋
 lin cabinet:林全內閣
+lin cabinet:林内阁
 lin chang lun:林昌倫
 lin chang shou library:林長壽圖書館
 lin chang shou library:林长寿图书馆
@@ -21632,7 +21840,10 @@ lin chung elementary school:林中國小
 lin chung lung:林鍾隆
 lin county:lín xiàn
 lin county:临县
+lin county:临镇县
+lin county:林县
 lin county:臨縣
+lin dai:林德村
 lin dai:林黛
 lin daiyu:林黛玉
 lin dan:林丹
@@ -21640,6 +21851,8 @@ lin daoqian:林道乾
 lin deng:林瞪
 lin ding:林鼎
 lin dong fang beef noodle:林東芳牛肉麵
+lin dong:林東村
+lin dongfu:林东福
 lin dui:林兌
 lin en yu:林恩宇
 lin fa kung garden:莲花宫花园
@@ -21664,10 +21877,13 @@ lin fai house:連輝樓
 lin family ancestral shrine:臺中林氏宗祠
 lin family mansion & garden:林家花園
 lin family mansion and garden:林本源園邸
+lin family:林科
 lin fang yue:林芳郁
+lin fang:林坊镇
 lin fat building:年發大廈
 lin fei fan:林飛帆
 lin fengmian:林风眠
+lin fengxiang:林凤翔
 lin fong cheng:林豐正
 lin fong sports centre:莲峰体育中心
 lin fong sports centre:蓮峰體育中心
@@ -21685,13 +21901,18 @@ lin gong qi park:ㄌㄧㄣˊㄍㄨㄥㄑㄧㄍㄨㄥㄩㄢˊ
 lin gong qi park:邻公七公园
 lin gong qi park:鄰公七公園
 lin guipu:林贵埔
+lin haiqing:林海清
 lin haiqing:林海青
+lin haiyan:林海宴
+lin haiyan:林海燕
 lin haiyin:林海音
 lin haiyun:林海云
+lin haiyun:林海雲
 lin hau:林氏好
 lin haw:联合
 lin haw:聯合
 lin he fa oily rice:林合發油飯
+lin he:林合
 lin hei'er:林黑兒
 lin hejie:林贺杰
 lin heung restaurant:蓮香酒家
@@ -21713,6 +21934,7 @@ lin hsiung cheng:林熊徵
 lin hua wei:林華韋
 lin huan chang:林煥彰
 lin hui kuan:林惠官
+lin huimin:林惠民
 lin huiqing:林慧卿
 lin huiyin:林徽因
 lin hujia:林乎加
@@ -21723,17 +21945,24 @@ lin hup seng auto parts sdn bhd:聯合成汽車機件有限公司
 lin hwai min:林懷民
 lin i chin:林宜瑾
 lin jeng yi:林正儀
+lin jiacheng:林嘉誠
 lin jiamei:林佳楣
 lin jian sheng memorial library:línjiànshēngjìniàntúshūguǎn
 lin jian sheng memorial library:ㄌㄧㄣˊㄐㄧㄢˋㄕㄥㄐㄧˋㄋㄧㄢˋㄊㄨˊㄕㄨㄍㄨㄢˇ
 lin jian sheng memorial library:林建生紀念圖書館
 lin jian sheng memorial library:林建生纪念图书馆
 lin jian:林剑
+lin jiang:林江
+lin jiangli:林江利
+lin jiangshan:林江山
 lin jianhua:林建华
+lin jianhua:林建華
+lin jianying:林建英
 lin jilu memorial park:林基路纪念公园
 lin jin zhong:林進忠
 lin jinghao:林靖昊
 lin jinhong:林錦鴻
+lin jinyu:林金玉
 lin join sane:林中森
 lin jue:林覺
 lin juemin:林觉民
@@ -21741,6 +21970,7 @@ lin junde:林俊德
 lin junmin:林俊敏
 lin junq tzer:林政則
 lin junsheng:林俊生
+lin kaiyuan:林开源
 lin kee store:連記士多
 lin keng chi:林根基
 lin keqing:林克庆
@@ -21759,9 +21989,12 @@ lin liangming:林良铭
 lin lien hui:林聯輝
 lin liguo:林立果
 lin liheng:林立衡
+lin lin:林林
 lin ling san:林陵三
 lin ling:林菱
+lin liu:林柳
 lin liyun:林丽韫
+lin longchang:林隆昌
 lin lung stream:蓮龍石澗
 lin ma hang (1) public toilet:蓮麻坑（1）公廁
 lin ma hang country trail:蓮麻坑郊遊徑
@@ -21789,14 +22022,19 @@ lin ming chen:林明溱
 lin ming cheng:林明成
 lin ming hsien:林明憲
 lin ming yi:林明義
+lin mingyu:林明峪
 lin mingyu:林明玉
+lin mingyue:林明月
 lin mo-niang park:林默娘公园
 lin mo-niang park:林默娘公園
 lin mo:林墨
+lin mo:林萬鎮
 lin mosei:林茂生
 lin mother dongshan duck head:林媽媽東山鴨頭
 lin mu:林牧
 lin mun lee:林曼麗
+lin nan:林南县
+lin nan:林南村
 lin nu:林駑
 lin on building:連安大樓
 lin pa kitchen:林爸廚房
@@ -21806,7 +22044,11 @@ lin pin kuan:林炳坤
 lin ping road:蓮坪路
 lin po heung:連寶香
 lin qiaozhi:林巧稚
+lin qingfeng:林慶豐
 lin qingfeng:林清峰
+lin qingfeng:林青峰
+lin qinghe:林庆和
+lin qinghe:林清河
 lin qisheng:林启升
 lin qiu jin:林秋錦
 lin rong san:林榮三
@@ -21816,12 +22058,14 @@ lin rui ching:林瑞卿
 lin ruo:林若
 lin sang:林桑
 lin sen:林森
+lin senlin:林森林
 lin shan lee:李琳山
 lin shangyang:林尚扬
 lin shao mao:林少貓
 lin shaohua:林少華
 lin sheng xiang:林生祥
 lin shengzhong:林盛中
+lin shicheng:林石城
 lin shidong:林诗栋
 lin shih chi:林時機
 lin shih chia:林詩嘉
@@ -21834,6 +22078,7 @@ lin shing road:連城道
 lin shu fen:林淑芬
 lin shu:林紓
 lin shuangwen rebellion:林爽文事件
+lin shuangwen:林爽文
 lin shusen:林树森
 lin siyi:林思意
 lin szu ming:林思铭
@@ -21842,8 +22087,11 @@ lin tai yi:林太乙
 lin tainan:林泰男
 lin tak road morning walk trail:連德道晨運徑
 lin tak road:連德道
+lin tao:林道
+lin tian:林天
 lin tianmiao:林天苗
 lin tie:林铁
+lin tingting:林婷婷
 lin tong mei (residential area) public toilet:蓮塘尾(平民屋)公廁
 lin tong mei public toilet:蓮塘尾公廁
 lin tong mei tsoi yuen:蓮塘尾菜園
@@ -21876,14 +22124,19 @@ lin wenyi:林文漪
 lin wenyue:林文月
 lin won building:年旺樓
 lin wong building:年旺樓
+lin wood:林木材
 lin wu siu mei restaurant:連和燒味餐廳
 lin wusong:林戊荪
 lin xi:林夕
 lin xiangdi:林祥棣
 lin xiangru:藺相如
+lin xiangyang:林向阳
+lin xiangyang:林向陽
 lin xiao:林晓
 lin xiling:林希翎
 lin xin:廪辛
+lin xing:林兴
+lin xinjiang:林新建
 lin xinyu:林心玉
 lin xiuqin:林秀琴
 lin xiuzhen:林秀貞
@@ -21897,6 +22150,7 @@ lin yanjun:林彥俊
 lin yanyu:林延遇
 lin yaohua:林耀华
 lin yaw shing:林耀興
+lin ye:林叶
 lin yen jui:林彥睿
 lin yi bing:林一平
 lin yi chuan:林益全
@@ -21913,7 +22167,12 @@ lin ying:林瑛
 lin yinghai:林英海
 lin yining:林以宁
 lin yongjian:林永健
+lin yongjian:林永建
+lin yongqing:林永庆
+lin yongqing:林永清
+lin yongqing:林永青
 lin yongsheng:林永昇
+lin yongsheng:林永盛
 lin youren:林友仁
 lin yu an:林昱安
 lin yu chang:林右昌
@@ -21932,17 +22191,21 @@ lin yueh han:林約翰
 lin yueh ping:林岳平
 lin yuemei:林月美
 lin yuen path:蓮苑徑
+lin yueqin:林月琴
 lin yun ju:林昀儒
 lin yun sheng:林耘生
 lin yun-ju return:林昀儒返回
 lin yun:林允
+lin yun:林韵
 lin yungai:林雲陔
 lin yuping:林宇萍
 lin yushan:林玉山
 lin yutang house:林語堂故居
 lin yutang's chinese english dictionary of modern usage:林語堂當代漢英詞典
+lin yutang:林玉堂
 lin yutang:林语堂
 lin yuwei:林雨薇
+lin yuying:林育英
 lin zexu memorial museum of macao:澳門林則徐紀念館
 lin zexu memorial museum of macao:澳门林则徐纪念馆
 lin zexu memorial museum of macau:澳門林則徐紀念館
@@ -21957,6 +22220,7 @@ lin zhigang:林志刚
 lin zhijian's paper plagiarism case:林智堅論文抄襲案
 lin zhong-wei memorial park:重威紀念公園
 lin zhong-wei memorial park:重威纪念公园
+lin zhong:林中村
 lin zhongzai:林忠仔
 lin zi miao:林姿妙
 lin zih siang:林子翔
@@ -22055,6 +22319,7 @@ linao:lín'ào
 linao:林坳
 linares de la sierra:利纳雷斯德拉谢拉
 linares de mora:利纳雷斯德莫拉
+linares diocese:利納雷斯教區
 linares international chess tournament:利纳雷斯国际象棋超级大赛
 linares province:利納雷斯省
 linares:利納雷斯
@@ -22088,6 +22353,7 @@ linbian interchange:林邊交流道
 linbian railway station:林邊車站
 linbian river:林边溪
 linbian river:林邊溪
+linbian station:林邊站
 linbian village:林邊村
 linbian:lín biān
 linbian:林边
@@ -22103,6 +22369,7 @@ linbucun:林堡村
 linc:林茨
 linca:林茨
 lincai:临蔡镇
+lincang airport:临沧机场
 lincang archeological museum:临沧考古博物馆
 lincang boshang airport:临沧博尚机场
 lincang railway station:临沧站
@@ -22122,6 +22389,8 @@ linchang crossing:林场路口
 linchang reef:邻昌礁
 linchang road:林场路
 linchang road:林場路
+linchang station:林场站
+linchang station:林場站
 linchang tunnel:林场隧道
 linchang:林场
 linchang:林场村
@@ -22183,6 +22452,7 @@ lincoln admitted:林肯承认
 lincoln after:林肯后
 lincoln again:林肯再
 lincoln agree:林肯同意
+lincoln airport:林肯机场
 lincoln allow:林肯允许
 lincoln also had it:林肯也有它
 lincoln also said:林肯也说
@@ -22245,6 +22515,7 @@ lincoln car:林肯汽车
 lincoln castle and lincoln cathedral:林肯城堡和林肯大教堂
 lincoln castle and lincoln:林肯城堡和林肯
 lincoln castle:林肯城堡
+lincoln cathedral:林肯主教座堂
 lincoln cathedral:林肯大教堂
 lincoln cathedral:林肯座堂
 lincoln cavalry:林肯骑兵
@@ -22289,6 +22560,7 @@ lincoln day:林肯日
 lincoln dealer:林肯经销商
 lincoln debate:林肯辩论
 lincoln decided:林肯决定
+lincoln diocese:林肯教區
 lincoln documents:林肯文件
 lincoln don't:林肯不
 lincoln douglas debate:林肯道格拉斯辩论
@@ -22367,6 +22639,7 @@ lincoln island:東島
 lincoln island:林肯岛
 lincoln know:林肯知道
 lincoln laboratory:林肯实验室
+lincoln laboratory:林肯實驗室
 lincoln land policy research:林肯土地政策研究
 lincoln land:林肯土地
 lincoln law:林肯法律
@@ -22412,6 +22685,8 @@ lincoln or ford:林肯或福特
 lincoln or roosevelt:林肯或罗斯福
 lincoln order:林肯命令
 lincoln own:林肯拥有
+lincoln parish:林肯堂区
+lincoln parish:林肯教区
 lincoln park and new york:林肯公园与纽约
 lincoln park and old town:林肯公园和老城
 lincoln park high school:林肯公园高中
@@ -22419,9 +22694,12 @@ lincoln park medical research:林肯公园医学研究
 lincoln park store:林肯公园商店
 lincoln park zoo:林肯公园动物园
 lincoln park:林肯公园
+lincoln park:林肯公園
+lincoln penny:林肯便士
 lincoln performing arts:林肯表演艺术
 lincoln pickup truck:林肯皮卡
 lincoln plans:林肯计划
+lincoln plaza:林肯廣場
 lincoln police station:林肯警察局
 lincoln practice:林肯实践
 lincoln president:林肯总统
@@ -22459,6 +22737,7 @@ lincoln sold:林肯卖
 lincoln some:林肯一些
 lincoln spent:林肯花
 lincoln sports:林肯运动
+lincoln station:林肯站
 lincoln statue:林肯雕像
 lincoln street:林肯街
 lincoln students:林肯学生
@@ -22473,6 +22752,7 @@ lincoln tomb:林肯墓园
 lincoln too:林肯也
 lincoln towers residents:林肯塔居民
 lincoln towers:林肯塔
+lincoln township:林肯鎮區
 lincoln township:林肯镇区
 lincoln train station:林肯火车站
 lincoln trust company:林肯信托公司
@@ -22493,6 +22773,7 @@ lincoln university:林肯大学
 lincoln university:林肯大學
 lincoln vehicle:林肯车辆
 lincoln vice president:林肯副总统
+lincoln village:林肯村
 lincoln vineyard:林肯葡萄园
 lincoln vote:林肯投票
 lincoln want:林肯想要
@@ -22524,14 +22805,17 @@ lincolnshire and kent:林肯郡和肯特郡
 lincolnshire area:林肯郡地区
 lincolnshire coast:林肯郡海岸
 lincolnshire county council:林肯郡县议会
+lincolnshire flag:林肯郡旗
 lincolnshire home:林肯郡家
 lincolnshire hospital:林肯郡医院
 lincolnshire life:林肯郡生活
+lincolnshire north:林肯郡北
 lincolnshire police:林肯郡警察
 lincolnshire port:林肯郡端口
 lincolnshire region:林肯郡地区
 lincolnshire root:林肯郡根
 lincolnshire sausage:林肯郡香肠
+lincolnshire south:林肯郡南
 lincolnshire:林肯郡
 lincolnův památník:林肯纪念堂
 lincopia:林雪平
@@ -22625,6 +22909,8 @@ linden said she:林登说她
 linden said:林登说
 linden street studio:林登街工作室
 linden street:林登街
+linden township:林登鎮區
+linden township:林登镇区
 linden tree:林登树
 linden uprising:林登起义
 linden:林登
@@ -22707,6 +22993,7 @@ linding:林頂
 linding:麟頂
 lindisfarena:林迪斯法恩
 lindisfarna:林迪斯法恩
+lindisfarne abbey:林迪斯法恩修道院
 lindisfarne castle:林迪斯法恩城堡
 lindisfarne gospels:林迪斯法恩四福音書
 lindisfarne:林迪斯法恩
@@ -22776,6 +23063,7 @@ lindsay return:林赛返回
 lindsay ride sports centre:賴廉氏體育中心
 lindsay said:林赛说
 lindsay says:林赛说
+lindsay street:林赛街
 lindsay tasman ride:賴廉士
 lindsay wildlife museum:林赛野生动物博物馆
 lindsay wildlife:林赛野生动物
@@ -23558,6 +23846,7 @@ line feed character:换行字符
 line feed characters:换行字符
 line feed:换行
 line feel:线感觉
+line field:线场
 line field:线领域
 line fight:线战斗
 line file access:线文件访问
@@ -23674,6 +23963,7 @@ line integral:曲线积分
 line integral:线积分
 line integrals and vector:线积分和矢量
 line integrals:线积分
+line integration:线积分
 line intelligence quotient:线智力商
 line intelligence:线智力
 line interaction:线交互
@@ -24989,6 +25279,7 @@ lingangyuanqu:临港园区
 lingao county:língāo xiàn
 lingao county:临高县
 lingao county:臨高
+lingao county:臨高县
 lingao county:臨高縣
 lingao reservoir:林皋水库
 lingao south railway station:临高南站
@@ -25022,6 +25313,7 @@ lingbao railway station:灵宝站
 lingbao school:灵宝派
 lingbao tianzun:靈寶天尊
 lingbao west railway station:灵宝西站
+lingbao west:灵宝西
 lingbao-pagode:灵宝塔
 lingbao:língbǎo shì
 lingbao:灵保
@@ -25031,6 +25323,7 @@ lingbao:靈寶市
 lingbaodong:灵宝东
 lingbaoxi:灵宝西
 lingbei middle school:岭背中学
+lingbei province:嶺北省
 lingbei reservoir:lǐngběi shuǐkù
 lingbei reservoir:岭北水库
 lingbei road:岭背路
@@ -25305,6 +25598,7 @@ linghai road:línghǎi lù
 linghai road:陵海路
 linghai service area:凌海服务区
 linghai south railway station:凌海南站
+linghai south:凌海南
 linghai:línghǎi shì
 linghai:凌海
 linghai:凌海市
@@ -25428,6 +25722,7 @@ lingjiao station:岭脚车站
 lingjiao station:嶺腳車站
 lingjiao village:岭脚里
 lingjiao village:嶺腳里
+lingjiao waterfall:嶺腳瀑布
 lingjiao:língjiǎo xiāng
 lingjiao:lǐng jiǎo
 lingjiao:lǐngjiǎo cūn
@@ -25620,6 +25915,7 @@ lingmu:凌慕
 lingmukha gewog:lingmukha格窝
 lingnagou:岭那沟
 lingnan agile:岭南雅居
+lingnan architecture:岭南建筑
 lingnan architecture:嶺南建築
 lingnan avenue north:岭南大道北
 lingnan avenue public transport hub:岭南大道公交枢纽站
@@ -25680,6 +25976,7 @@ lingnan university outdoor sports field:岭南大学室外运动场
 lingnan university outdoor sports field:嶺南大學室外運動場
 lingnan university recently:嶺南大學最近
 lingnan university:岭南大学
+lingnan university:岭南大學
 lingnan university:嶺南大學
 lingnan v valley bus terminal:岭南v谷总站
 lingnan vil. intersection:嶺南里路口
@@ -25774,6 +26071,7 @@ lingshan county people:灵山县人民
 lingshan county:lingsaan-jin
 lingshan county:língshān xiàn
 lingshan county:灵山县
+lingshan county:靈山县
 lingshan county:靈山縣
 lingshan dao:灵山岛
 lingshan donglu west:灵山东路西站
@@ -25786,9 +26084,11 @@ lingshan middle school:灵山中学
 lingshan north road:灵山北路
 lingshan primary school:灵山小学
 lingshan road:灵山路
+lingshan station:灵山站
 lingshan subdistrict:灵山街道
 lingshan subdistrict:靈山街道
 lingshan temple:灵山寺
+lingshan temple:灵山庙
 lingshan temple:靈山寺
 lingshan town government:灵山镇政府
 lingshan:lingsaan-jin
@@ -25851,6 +26151,8 @@ lingshuang east road:凌霜东路
 lingshuang street:凌霜街
 lingshuang west road:凌霜西路
 lingshui air base:陵水機場
+lingshui county:陵水县
+lingshui lake:陵水湖
 lingshui li autonomous county:língshuǐ lízú zìzhìxiàn
 lingshui li autonomous county:陵水
 lingshui li autonomous county:陵水县
@@ -25998,6 +26300,7 @@ linguist is her husband:语言学家是她的丈夫
 linguist john:语言学家约翰
 linguist joseph:语言学家约瑟夫
 linguist learning:语言学家学习
+linguist list:语言学家列表
 linguist liu bannong:语言学家刘半农
 linguist louis:语言学家路易斯
 linguist lucas:语言学家卢卡斯
@@ -26021,9 +26324,11 @@ linguistic approach:语言的方法
 linguistic arabization:语言的阿拉伯化
 linguistic atlas of chinese dialects:漢語方言地圖集
 linguistic border:语言的边界
+linguistic categories:语言的分类
 linguistic challenges:语言的挑战
 linguistic changes:语言的变化
 linguistic character:语言的字符
+linguistic classification:语言的分类
 linguistic competence:语言能力
 linguistic complex:语言的复杂
 linguistic concept:语言的概念
@@ -26397,6 +26702,7 @@ lingyun cave:淩雲洞
 lingyun commercial tower:凌雲通商大樓
 lingyun county:língyún xiàn
 lingyun county:凌云县
+lingyun county:凌雲县
 lingyun county:凌雲縣
 lingyun gu:顾凌云
 lingyun market:língyúnshìchǎng
@@ -26606,6 +26912,9 @@ linhai guiwan river bridge:临海桂湾河桥
 linhai industrial park center:临海工业区前镇园区公园
 linhai industrial park center:臨海工業區前鎮園區公園
 linhai industrial park:高雄臨海產業園區
+linhai library:临海市图书馆
+linhai museum:临海博物馆
+linhai museum:临海市博物馆
 linhai park:林海景区
 linhai road section 1:臨海路一段
 linhai road section 2:臨海路二段
@@ -26614,6 +26923,8 @@ linhai road:临海路
 linhai road:臨海路
 linhai shuangjie river bridge:临海双界河桥
 linhai station:临海站
+linhai station:林海站
+linhai station:臨海站
 linhai street:臨海街
 linhai:línhǎi jiēdào
 linhai:línhǎi shì
@@ -26845,6 +27156,7 @@ linjiang avenue park:临江大道带状公园
 linjiang avenue(liede memorial gateway):临江大道猎德牌坊
 linjiang avenue:临江大道
 linjiang branch road:临江支路
+linjiang campaign:临江战役
 linjiang campaign:臨江戰役
 linjiang community:临江社区
 linjiang dadao middle:临江大道中
@@ -27192,8 +27504,10 @@ link format:链接格式
 link four:连接四
 link friends:链接朋友
 link from:链接从
+link function:连接函数
 link function:链接函数
 link function:链接功能
+link functions:连接函数
 link functions:链接函数
 link game:链接游戏
 link games:链接游戏
@@ -27204,7 +27518,10 @@ link germany:连接德国
 link get:链接得到
 link good outcome:链接好的结果
 link good:链接好的
+link grammar:链接语法
+link grammars:链接语法
 link greece:连接希腊
+link group:连接组
 link group:链接组
 link had been:连接已经
 link hall:连接大厅
@@ -27271,6 +27588,7 @@ link learning:连接学习
 link length:连接长度
 link level:链接水平
 link light rail:海湾轻轨
+link line:连接线
 link line:链接线
 link list:链接列表
 link local address:链路本地地址
@@ -27462,6 +27780,7 @@ link support:连接支持
 link support:链接支持
 link switzerland:连接瑞士
 link sydney:连接悉尼
+link syntax:链接语法
 link system:连接系统
 link system:链接系统
 link systems:连接系统
@@ -27587,6 +27906,7 @@ link train:链接火车
 link transfer:链接传输
 link transparency:链接透明
 link tunnel:连接隧道
+link tv:链接电视
 link type represent:链接类型表示
 link type:链接类型
 link u.s.:连接美国
@@ -27774,6 +28094,7 @@ linkou senior high school:línkǒugāozhōng
 linkou senior high school:ㄌㄧㄣˊㄎㄡˇㄍㄠㄓㄨㄥ
 linkou senior high school:林口高中
 linkou station:林口
+linkou station:林口站
 linkou station:桃捷林口站
 linkou steel:林口鋼鐵
 linkou steel:林口钢铁
@@ -28153,6 +28474,7 @@ linnaemya:短须寄蝇属
 linnaeoxanthus:林奈扇蟹属
 linnaeus believe:林奈相信
 linnaeus complete:林奈完成
+linnaeus university:林奈大学
 linnaeus university:林奈大學
 linnaeus's two toed sloth:二趾樹懶
 linnaeus:林奈
@@ -28261,6 +28583,8 @@ linping road:临平路
 linping road:林平路
 linping road:臨平路
 linping south railway station:临平南站
+linping south:临平南
+linping station:临平站
 linping:línpíng qū
 linping:临坪
 linping:临平
@@ -28368,6 +28692,8 @@ linrong village:林榮里
 linrong:林榮
 linru:临汝镇
 linruzhen:临汝镇
+lins airport:林茨机场
+lins airport:林茨機場
 lins:林茨
 linsan-eup:麟山邑
 linsburg:林斯堡
@@ -28436,6 +28762,7 @@ linsen sinrong rd.intersection:林森新荣路口
 linsen south road motor tunnel:林森南路車行地下道
 linsen south road motor tunnel:林森南路车行地下道
 linsen south road:林森南路
+linsen station:林森站
 linsen tunnel:林森地下道
 linsen village:línsēn lǐ
 linsen village:ㄌㄧㄣˊㄙㄣㄌㄧˇ
@@ -28490,6 +28817,7 @@ linshu:臨沭縣
 linshu:臨沭街道
 linshueinan road:臨水南路
 linshui county:línshuǐ xiàn
+linshui county:临水县
 linshui county:邻水县
 linshui county:鄰水縣
 linshui interchange:邻水互通
@@ -28562,10 +28890,12 @@ lintig:林蒂希
 lintong bus route 602:临潼公交602路
 lintong bus route 617:qinling west metro station→terra-cotta warriors 2nd parking lot:临潼公交617路：地铁秦陵西站→兵马俑二车场
 lintong bus travel route 613:临潼公交游613路
+lintong county:临潼县
 lintong district:líntóng qū
 lintong district:临潼区
 lintong district:臨潼區
 lintong east railway station:临潼东站
+lintong east:临潼东
 lintong intercity bus station:临潼汽车站
 lintong railway station:临潼火车站
 lintong railway station:临潼站
@@ -28739,6 +29069,7 @@ linxia:臨夏市
 linxia:臨夏縣
 linxiacaocun:林下曹村
 linxialu subdistrict:临夏路街道
+linxiang county:临湘县
 linxiang district:línxiáng qū
 linxiang district:临翔区
 linxiang district:臨翔區
@@ -28815,6 +29146,7 @@ linyi road:林毅路
 linyi road:林邑路
 linyi senior school of finance and economics:临沂市高级财经学校
 linyi south road:临沂南路
+linyi stadium:临沂市体育馆
 linyi street:林圯街
 linyi street:臨沂街
 linyi university:临沂大学
@@ -28937,18 +29269,21 @@ linyue villager committee:林岳村委站
 linyue xi station:林岳西站
 linyue xi:林岳西
 linyuebei station:林岳北站
+linyuedong station:林岳东站
 linyuedong:林岳东
 linyun avenue east:临允大道东
 linyun avenue middle:临允大道中
 linyun avenue west:临允大道西
 linyun:凌云村
 linyungan barrack:凌雲崗營區
+linz airport:林茨机场
 linz airport:林茨機場
 linz am rhein:莱茵河畔林茨
 linz and alfred:林茨和阿尔弗雷德
 linz and elsewhere:林茨和其它地方
 linz area:林茨地区
 linz art university:林茨艺术大学
+linz castle:林茨城堡
 linz dickinson said:林茨迪金森说
 linz dickinson:林茨迪金森
 linz hauptbahnhof:林茨火車總站
@@ -29058,9 +29393,12 @@ linzhuanshan:línzhuānshān
 linzhuanshan:ㄌㄧㄣˊㄓㄨㄢㄕㄢ
 linzhuanshan:林专山
 linzhuanshan:林專山
+linzi county:临淄县
 linzi district:临淄区
 linzi district:臨淄區
+linzi north:临淄北
 linzi road:临淄路
+linzi stadium:臨淄區體育場
 linzi village:林子里
 linzi:línzī qū
 linzi:línzǐ
@@ -29184,6 +29522,7 @@ lion breath:狮子呼吸
 lion breed:狮子品种
 lion breed:狮子繁殖
 lion bridge:狮子桥
+lion bridge:狮桥
 lion bridge:獅子橋
 lion british navy:狮英国海军
 lion broadcasting:狮广播
@@ -29198,6 +29537,7 @@ lion city sailors fc:獅城水手足球俱樂部
 lion class battlecruiser:狮级战列巡洋舰
 lion class battleship:狮级战列舰
 lion claw:狮爪
+lion club:狮子俱乐部
 lion colony:狮殖民地
 lion come from:狮子来自
 lion come:狮子来
@@ -29218,6 +29558,7 @@ lion decided:狮子决定
 lion devant dun:利翁德旺丹
 lion do:狮子做
 lion dog:狮子犬
+lion dog:狮子狗
 lion door:狮门
 lion dragon:狮龙
 lion drawing:狮子绘画
@@ -29269,6 +29610,7 @@ lion international:狮子国际
 lion is cute:狮子是可爱的
 lion is my friend:狮子是我的朋友
 lion is very perfect:狮子是非常完美的
+lion island:狮子岛
 lion jade:狮玉
 lion journey:狮子旅程
 lion jump:狮子跳
@@ -29425,6 +29767,7 @@ lionas:里昂
 lionbukten:利翁灣
 lione:里昂
 lionel calm:莱昂内尔平静
+lionel corporation:莱昂内尔公司
 lionel davis:莱昂内尔戴维斯
 lionel foundation:莱昂内尔基金
 lionel giles:翟林奈
@@ -29794,6 +30137,7 @@ lipengcun:李朋村
 liperi:利佩里
 lipetsk (tỉnh):利佩茨克州
 lipetsk air base:利佩茨克空军基地
+lipetsk airport:利佩茨克機場
 lipetsk aviation center:利佩茨克航空中心
 lipetsk aviation:利佩茨克航空
 lipetsk community:利佩茨克社区
@@ -29833,6 +30177,8 @@ lipidomics:脂类组学
 lipieck:利佩茨克
 lipijiangcun:李皮匠村
 lipik:利皮克
+liping airport:黎平机场
+liping airport:黎平機場
 liping county:黎平县
 liping line:黎平線
 liping line:黎平线
@@ -29995,6 +30341,7 @@ lipsk:莱比锡
 lipsk:萊比錫
 lipska:利普斯克
 lipsko county:利普斯科縣
+lipsko county:莱比锡县
 lipsko:利普斯科
 lipsko:莱比锡
 lipsko:萊比錫
@@ -30039,6 +30386,7 @@ lipstick fill:口红填充
 lipstick from:口红从
 lipstick girl:口红女孩
 lipstick gun:口红枪
+lipstick jungle:口紅叢林
 lipstick jungle:口红丛林
 lipstick kiss:口红吻
 lipstick lipstick:口红唇膏
@@ -30049,6 +30397,8 @@ lipstick or lip gloss:口紅或唇彩
 lipstick or mascara:口红或睫毛膏
 lipstick or powder:口红或粉末
 lipstick pistol:口红手枪
+lipstick prince:口紅王子
+lipstick prince:口红王子
 lipstick products:口红产品
 lipstick real:唇膏真的
 lipstick sample:口红样本
@@ -30125,6 +30475,7 @@ liqi subdistrict:李棋街道
 liqi'erke:力气儿珂
 liqi:李棋街道
 liqi:立启
+liqian village:骊靬村
 liqian:骊靬
 liqian:骊靬村
 liqiangcun:力强村
@@ -30963,6 +31314,7 @@ liquid transportation fuel:液体运输燃料
 liquid transportation:液体运输
 liquid tumor:液体肿瘤
 liquid turbulence:液体湍流
+liquid tv:液体电视
 liquid type:液体类型
 liquid uranium:液体铀
 liquid vaccine:液体疫苗
@@ -31312,6 +31664,7 @@ lisbon is a perfect:里斯本是一个完美的
 lisbon landmark:里斯本地标
 lisbon lion:里斯本狮子
 lisbon lions:里斯本雄狮
+lisbon marathon:里斯本马拉松
 lisbon maru:里斯本丸
 lisbon meeting:里斯本会议
 lisbon metro station:里斯本地铁站
@@ -31320,6 +31673,7 @@ lisbon military museum:里斯本军事博物馆
 lisbon military:里斯本军事
 lisbon network:里斯本网络
 lisbon now:里斯本现在
+lisbon observatory:里斯本天文台
 lisbon ocean:里斯本海洋
 lisbon oceanarium:里斯本海洋水族馆
 lisbon offer:里斯本提供
@@ -31348,6 +31702,7 @@ lisbon sister:里斯本姐妹
 lisbon stock exchange:里斯本证券交易所
 lisbon story:里斯本故事
 lisbon strategy:里斯本战略
+lisbon strategy:里斯本策略
 lisbon studio:里斯本工作室
 lisbon suit:里斯本适合
 lisbon summit:里斯本首脑会议
@@ -31358,13 +31713,16 @@ lisbon to antwerp:里斯本到安特卫普
 lisbon to hamburg:里斯本到汉堡
 lisbon to moscow:里斯本到莫斯科
 lisbon too:里斯本也
+lisbon township:里斯本鎮區
 lisbon township:里斯本镇区
 lisbon trade:里斯本贸易
+lisbon tram:里斯本有轨电车
 lisbon treaty:里斯本条约
 lisbon union:里斯本联盟
 lisbon university institute:里斯本大学研究所
 lisbon university of science and technology:里斯本科技大学
 lisbon university:里斯本大学
+lisbon university:里斯本大學
 lisbon wine bar:里斯本葡萄酒酒吧
 lisbon wine:里斯本葡萄酒
 lisbon wine:里斯本酒
@@ -31372,6 +31730,7 @@ lisbon workers:里斯本工人
 lisbon world:里斯本世界
 lisbon youth:里斯本青年
 lisbon zoo:里斯本动物园
+lisbon zoo:里斯本動物園
 lisbon-a:lǐsīběn
 lisbon-a:里斯本
 lisbon:lǐsīběn
@@ -31444,7 +31803,9 @@ lishan industrial park terminus:荔山工业园总站
 lishan industrial park:荔山工业园
 lishan industrial park:荔山工業園
 lishan jr. high school:麗山國中
+lishan laomu:梨山老母
 lishan laomu:骊山老母
+lishan laomu:黎山老母
 lishan meiqun:rénhuàgōngyuán
 lishan meiqun:力山美群
 lishan new village:丽山新村
@@ -31704,6 +32065,7 @@ lishugoucun:梨树沟村
 lishugoumen:梨树沟门
 lishuhecun:梨树河村
 lishui activity center:麗水里活動中心
+lishui airport:麗水機場
 lishui ave south:里水大道南
 lishui avenue middle:里水大道中
 lishui avenue north:里水大道北
@@ -31720,6 +32082,7 @@ lishui bridge:里水大桥
 lishui center primary school:里水中心小学
 lishui coach station:里水汽车客运站
 lishui coach terminal:里水汽车客运站
+lishui dialect:麗水方言
 lishui district:溧水区
 lishui district:溧水區
 lishui haoting:丽水豪廷
@@ -31749,6 +32112,7 @@ lishui shi:丽水市
 lishui shi:麗水市
 lishui st. & fugui rd. intersection:丽水富贵路口(联合公园社区)
 lishui st. & fugui rd. intersection:麗水富貴路口(聯合公園社區)
+lishui stadium:麗水市體育場
 lishui street:丽水街
 lishui street:麗水街
 lishui town government:里水镇人民政府
@@ -31781,6 +32145,7 @@ lishuicun:梨水村
 lishuicun:里水村
 lishuiqiao (line 13):立水桥
 lishuiqiao south:立水桥南
+lishuiqiao station:立水桥站
 lishuiqiao west road:lìshuǐ qiáo xī lù
 lishuiqiao west road:立水桥西路
 lishuiqiao:立水桥
@@ -39481,6 +39846,7 @@ litchfield county:利奇菲尔德县
 litchfield island:利奇菲爾德島
 litchfield museum:利奇菲尔德博物馆
 litchfield national park:利奇菲尔德国家公园
+litchfield observatory:利奇菲尔德天文台
 litchfield park:利奇菲尔德公园
 litchfield towers:利奇菲尔德塔
 litchfield township:利奇菲尔德镇区
@@ -39709,6 +40075,7 @@ literature allow:文学允许
 literature already:文学已经
 literature always:文学一直
 literature always:文学总是
+literature analysis:文学分析
 literature and aesthetics:文学和美学
 literature and alcoholism:文学和酗酒
 literature and architecture:文学和建筑学
@@ -39912,6 +40279,7 @@ literature courses use multimedia:文学课程使用多媒体
 literature courses:文学课程
 literature create:文学创造
 literature critic:文学评论家
+literature critic:文學評論家
 literature curriculum:文学课程
 literature day:文学日
 literature day:文學日
@@ -40131,6 +40499,7 @@ literature phenomenon:文学现象
 literature platform:文学平台
 literature prepare:文学准备
 literature prize:文学奖
+literature prize:文學奖
 literature professor george:文学教授乔治
 literature professor jacque:文学教授雅克
 literature professor jacque:文學教授雅克
@@ -40158,6 +40527,8 @@ literature resource center:文学资源中心
 literature resource centre:文学资源中心
 literature resource:文学资源
 literature resources:文学资源
+literature review:文学評論
+literature review:文學評論
 literature review:文獻綜述
 literature saved me:文學拯救了我
 literature saved:文學拯救了
@@ -40279,6 +40650,7 @@ lithium arsenide:砷化锂
 lithium atom:锂原子
 lithium azide:疊氮化鋰
 lithium bank:锂银行
+lithium batteries:锂电池
 lithium battery air transport:锂电池航空运输
 lithium battery and lead-acid:锂电池与铅酸
 lithium battery and lead-acid:锂电池和铅酸
@@ -40624,6 +40996,7 @@ lithium oxalate:草酸锂
 lithium oxide:氧化锂
 lithium oxygen battery:锂氧电池
 lithium oxygen:锂氧
+lithium ozonide:锂臭氧化物
 lithium partners:锂合作伙伴
 lithium perchlorate:高氯酸鋰
 lithium periodate:高碘酸鋰
@@ -41054,7 +41427,9 @@ lithuania recently:立陶宛最近
 lithuania republic:立陶宛共和国
 lithuania server:立陶宛服务器
 lithuania start:立陶宛开始
+lithuania tatars:立陶宛鞑靼人
 lithuania team:立陶宛团队
+lithuania team:立陶宛队
 lithuania university:立陶宛大学
 lithuania vilnius international airport:立陶宛维尔纽斯国际机场
 lithuania vilnius:立陶宛维尔纽斯
@@ -42176,6 +42551,8 @@ liu bannong:刘半农
 liu baocheng:刘宝成
 liu baohua suggest:刘宝华建议
 liu baohua:刘宝华
+liu baolin:柳宝林
+liu baoquan:柳宝全
 liu basin (xi):柳江水系
 liu bei and guan yu:刘备和关羽
 liu bei and liu biao:刘备和刘表
@@ -42207,7 +42584,9 @@ liu bushi:刘不识
 liu caichun:劉采春
 liu caipin:刘彩品
 liu can:刘粲
+liu can:柳能
 liu changchun:刘长春
+liu changqing:柳长庆
 liu changxiao:刘昌孝
 liu chao han:劉兆漢
 liu chao shiuan:劉兆玄
@@ -42265,9 +42644,11 @@ liu dianzuo:刘殿座
 liu dingshuo:劉丁碩
 liu dingxin:刘鼎新
 liu dongdong:刘冬冬
+liu dongyang:柳東陽
 liu duan duan:刘端端
 liu dun:劉惇
 liu family:刘姓家庭
+liu family:柳科
 liu fangping:劉方平
 liu fangren:刘方仁
 liu fangwu:劉放吾
@@ -42302,6 +42683,7 @@ liu guodong:劉國棟
 liu guofan:刘国范
 liu guoliang said:刘国梁说
 liu guoliang:刘国梁
+liu guoqing:柳国庆
 liu guoxuan:劉國軒
 liu guozheng:劉國正
 liu guozhi:刘国治
@@ -42309,6 +42691,7 @@ liu guozhong:刘国中
 liu haichan:劉海蟾
 liu haiguang:柳海光
 liu haikuan:刘海宽
+liu hailong:柳海龙
 liu haisu:刘海粟
 liu haixia:劉海霞
 liu haixing visit:刘海星访问
@@ -42325,6 +42708,7 @@ liu heita:刘黑闼
 liu heng ching:劉蘅靜
 liu heqiao:刘鹤翘
 liu hesheng:刘和生
+liu hesheng:柳和生
 liu heung shing open:刘香成开
 liu heung shing:刘香成
 liu ho chien:劉和謙
@@ -42373,10 +42757,14 @@ liu jianchao said:刘建超说
 liu jianchao:刘建超
 liu jianfu:刘坚夫
 liu jiang bridge:柳江大桥
+liu jiang:柳江
+liu jiangnan:柳江南
 liu jianguo:劉建國
 liu jianjun:刘坚军
 liu jianli:刘建立
+liu jianping:柳建平
 liu jianwei:柳建伟
+liu jianxin:柳建新
 liu jianxu:劉建緒
 liu jianxun:刘建勋
 liu jianye:刘建业
@@ -42441,10 +42829,12 @@ liu libin:劉力賓
 liu lijie:刘立杰
 liu lim arts center:音樂舞蹈美術教學大樓
 liu limin:刘黎敏
+liu lin:柳林
 liu lina:劉麗娜
 liu ling tong:六龄童
 liu liping:刘莉萍
 liu lit for:廖烈科
+liu liu:柳柳
 liu lizu:刘礼祖
 liu lu:刘路
 liu lue:留略
@@ -42462,6 +42852,7 @@ liu mingchuan:劉銘傳
 liu mingjiu:柳鸣九
 liu mingkang:刘明康
 liu mingli:刘明利
+liu mingyang:柳明扬
 liu mingyuan:劉明源
 liu mingzu:刘明祖
 liu muzhen:劉慕真
@@ -42578,11 +42969,14 @@ liu tang:刘唐
 liu tao:刘涛
 liu thai ker:刘太格
 liu tianfu:刘田夫
+liu tianfu:柳天福
 liu tianhua:劉天華
 liu tianqi:刘天祺
+liu tianyang:柳田洋
 liu tianyou:劉天佑
 liu tienan:刘铁男
 liu tingting:劉婷婷
+liu tingting:柳婷婷
 liu to bridge:寮肚橋
 liu to hang:liu4 tou5 haang1
 liu to hang:寮肚坑
@@ -42639,6 +43033,7 @@ liu xia will:刘霞会
 liu xia would:刘霞将
 liu xia wrote:刘霞写下
 liu xia:刘霞
+liu xiahui:柳下惠
 liu xianbin:刘贤斌
 liu xiang cemetery:刘湘陵园
 liu xiang center:刘翔中心
@@ -42691,6 +43086,7 @@ liu xiaoxin:刘晓鑫
 liu xie:刘勰
 liu xiening:劉些寧
 liu xijun:刘惜君
+liu xin:柳新村
 liu xincheng:刘新成
 liu xingang:刘心刚
 liu xingju:刘兴居
@@ -42701,6 +43097,7 @@ liu xingyuan:刘兴元
 liu xinqi:刘新齐
 liu xinquan:刘新权
 liu xinwu:刘心武
+liu xinxiang:柳新乡
 liu xinyu:柳鑫宇
 liu xinyuan:刘新垣
 liu xinyun:刘新云
@@ -42714,6 +43111,7 @@ liu xue'an:劉雪庵
 liu xueyi:刘学义
 liu xuqing:柳絮青
 liu xuyi:刘绪贻
+liu yadong:柳亚东
 liu yaju:刘雅菊
 liu yalou:刘亚楼
 liu yan wai:廖恩尉
@@ -42733,6 +43131,7 @@ liu yao:刘曜
 liu yaxin:柳雅欣
 liu yazhou:刘亚洲
 liu yazi:柳亚子
+liu ye:柳叶
 liu yi te:劉一德
 liu yibing:刘轶冰
 liu yichang:劉以鬯
@@ -42756,9 +43155,11 @@ liu yizheng:柳诒徵
 liu yizhi:劉禕之
 liu yong:刘永
 liu yongfu:刘永福
+liu yongfu:柳永福
 liu yonghao:刘永好
 liu yongjian:刘永坚
 liu yongqing:刘永清
+liu yongqing:柳永庆
 liu yongtan and his colleagues:刘永坦和他的同事
 liu yongtan:刘永坦
 liu yongxing:刘永行
@@ -42779,6 +43180,7 @@ liu yudi:刘玉堤
 liu yudong:刘玉栋
 liu yuejin:刘跃进
 liu yuejun:刘粤军
+liu yuemei:柳月眉
 liu yuh san:劉玉山
 liu yukun:劉宇坤
 liu yulin said:刘雨霖说
@@ -42787,8 +43189,10 @@ liu yumei:刘玉梅
 liu yumin:刘玉民
 liu yunbin:刘允斌
 liu yunchang:刘卓甫
+liu yunfeng:柳云峰
 liu yungeng:刘云耕
 liu yuning:刘宇宁
+liu yunlong:柳云龙
 liu yunqiao:刘云樵
 liu yunshan hope:刘云山希望
 liu yunshan said:刘云山说
@@ -42796,6 +43200,7 @@ liu yunshan visit:刘云山访问
 liu yunshan:刘云山
 liu yuxi:刘禹锡
 liu yuxiang:刘玉香
+liu yuxiang:柳玉祥
 liu yuxin:刘玥霏
 liu yuzhang:劉玉章
 liu yuzhong:劉郁中
@@ -42826,6 +43231,7 @@ liu zhenya:劉振亞
 liu zhenyun also mention:刘震云也提到
 liu zhenyun:刘震云
 liu zhibai:刘知白
+liu zhicheng:柳志成
 liu zhidan:刘志丹
 liu zhigeng:刘志庚
 liu zhiji:刘知几
@@ -43060,6 +43466,7 @@ liubovychi:柳博维奇
 liubozicun:六拨子村
 liubsha:柳布沙
 liubu bridge:六部桥
+liubu bridge:六部橋
 liubu liujiayu:柳埠刘家峪
 liubu:六卜
 liubu:六堡
@@ -43233,6 +43640,9 @@ liucun 1st street:榴屯一街
 liucun 3rd street:榴屯三街
 liucun crossing:留村路口
 liucun north bridge:柳村北桥
+liucun station:刘村站
+liucun station:柳村站
+liucun station:留村站
 liucun street:留村街
 liucun town:刘村镇
 liucun village:六村
@@ -43326,6 +43736,7 @@ liudaojiang:liùdàojiāng zhèn
 liudaojiang:六道江鎮
 liudaojiang:六道江镇
 liudaojiecun:六道街村
+liudaokou station:六道口站
 liudaokou subdistrict:六道口街道
 liudaokou:六道口
 liudaokou:六道口街道
@@ -43482,6 +43893,7 @@ liudun:劉墩
 liuduncun:六墩村
 liuduo:六多
 liuduqiao station:六渡桥站
+liuduqiao station:六渡橋站
 liuduqiao:六渡桥
 liuduqiao:六渡橋
 liudusi:六度寺
@@ -43499,6 +43911,7 @@ liufang bridge:流芳橋
 liufang garden:六坊花园
 liufang gongyequ south road:六坊工业区南路
 liufang station:柳芳站
+liufang station:流芳站
 liufang village:流芳里
 liufang'ao:六房坳
 liufang:六坊
@@ -43907,6 +44320,7 @@ liuhe community:六合社區
 liuhe county finance bureau:柳河县财政局
 liuhe county finance:柳河县财政
 liuhe county:liǔhé xiàn
+liuhe county:六合县
 liuhe county:柳河县
 liuhe county:柳河縣
 liuhe east road auxiliary road:柳河东路辅路
@@ -43926,6 +44340,7 @@ liuhe lane:六和里
 liuhe metro station:六和地铁站
 liuhe north road:六合北路
 liuhe pagoda:liùhétǎ
+liuhe pagoda:六合塔
 liuhe pagoda:六和塔
 liuhe pao:六合泡
 liuhe park(liuhe 1st rd):六合公园(六合一路)
@@ -43947,7 +44362,10 @@ liuhe road:六合路
 liuhe road:六和路
 liuhe road:留和路
 liuhe senior high school:江苏省六合高级中学
+liuhe station:六合站
+liuhe station:六合镇站
 liuhe station:六和站
+liuhe station:柳河站
 liuhe street:六合街
 liuhe street:六和街
 liuhe street:柳和街
@@ -44194,6 +44612,7 @@ liujia line(liujia->zhuzhong):六家線(六家->竹中)
 liujia line(zhuzhong->liujia):六家線(竹中->六家)
 liujia line:liùjiā xiàn
 liujia line:六家線
+liujia line:六甲线
 liujia lu entrance:刘家路口站
 liujia pao:刘家泡
 liujia railway station:六家
@@ -44206,6 +44625,11 @@ liujia river:劉家河
 liujia road:六甲路
 liujia sport park:六甲运动公园
 liujia sport park:六甲運動公園
+liujia station:六家站
+liujia station:六甲站
+liujia station:刘家村站
+liujia station:刘家站
+liujia station:周家站
 liujia subdistrict:六甲街道
 liujia taizi:刘家台子
 liujia traditional hakka homes:六家林氏古厝群
@@ -44432,6 +44856,8 @@ liujianfang:六間房鎮
 liujianfang:六间房
 liujianfang:六间房镇
 liujianfangcun:六间房村
+liujiang county:柳江县
+liujiang county:流江县
 liujiang district:liǔjiāng qū
 liujiang district:柳江区
 liujiang district:柳江區
@@ -44793,6 +45219,7 @@ liuku:六庫街道
 liuku:六窟
 liukuaicuo fishing port:六塊厝漁港
 liukuaicuo railway station:六塊厝車站
+liukuaicuo station:六塊厝站
 liukuaicuo:liù kuài cuò
 liukuaicuo:六块厝
 liukuaicuo:六塊厝
@@ -44976,6 +45403,7 @@ liulipucun:六里铺村
 liuliqiao community:六里桥社区
 liuliqiao east:liùlĭqiáodōng
 liuliqiao east:六里桥东
+liuliqiao station:六里桥站
 liuliqiao subdistrict:六里桥街道
 liuliqiao:liùlĭqiáo
 liuliqiao:六里桥
@@ -45766,6 +46194,7 @@ liutaizi:刘台子乡
 liutaizi:劉臺子鄉
 liutajicun:六塔集村
 liutan station:刘潭站
+liutan station:柳滩站
 liutan:liútán zhàn
 liutan:六谭
 liutan:柳滩
@@ -45786,6 +46215,7 @@ liutang primary school:流塘小学
 liutang reservoir:liǔtáng shuǐkù
 liutang reservoir:柳塘水库
 liutang road:流塘路
+liutang station:六塘站
 liutang station:流塘站
 liutang village:流塘村
 liutang:六倘
@@ -46207,6 +46637,7 @@ liuyancun:刘沿村
 liuyancun:柳岩村
 liuyandiancun:刘烟店村
 liuyang confucius temple:浏阳文庙
+liuyang county:瀏陽县
 liuyang e. street:柳陽東街
 liuyang east street:柳陽東街
 liuyang economic and technological development zone:浏阳经济技术开发区
@@ -46216,6 +46647,7 @@ liuyang reservoir:liúyáng shuǐkù
 liuyang reservoir:六洋水库
 liuyang reservoir:留洋水库
 liuyang river:liúyáng hé
+liuyang river:刘阳河
 liuyang river:浏阳河
 liuyang river:瀏陽河
 liuyang shi:liúyáng shì
@@ -46294,6 +46726,8 @@ liuying road:liǔyíng lù
 liuying road:柳营路
 liuying sta.:柳營車站
 liuying sta.:柳营车站
+liuying station:刘营站
+liuying station:柳營站
 liuying subdistrict:留营街道
 liuying:liǔ yíng
 liuying:liǔyǐng jiēdào
@@ -46538,6 +46972,7 @@ liuzhonghe:刘中和
 liuzhongwangcun:刘中旺村
 liuzhongwu:刘重武
 liuzhou 12th. middle school:柳州市第十二中学
+liuzhou airport:柳州机场
 liuzhou bailian airport:柳州白莲机场
 liuzhou chemical industry co,.ltd factory:柳州化工股份有限公司厂区
 liuzhou city:liǔzhōu shì
@@ -46595,6 +47030,7 @@ liuzhou–nanning intercity railway:柳南城際鐵路
 liuzhou–nanning intercity railway:柳南客专线
 liuzhu:六竹
 liuzhuang station:刘庄站
+liuzhuang station:留庄站
 liuzhuang:liúzhuāng
 liuzhuang:六庄
 liuzhuang:刘庄
@@ -46712,6 +47148,7 @@ livan:líbānèn
 livan:黎巴嫩
 livanjska uhrenturm:钟楼
 livanın baş konsulluğu:黎巴嫩总领事馆
+livarot cheese:利瓦罗奶酪
 livarot cheese:利瓦罗芝士
 livarot pays d'auge:利瓦罗派多日
 livarot:利瓦罗
@@ -46815,6 +47252,7 @@ live insects:活的昆虫
 live is time:活的是时间
 live issue:活的问题
 live joy:活的快樂
+live law:活的法律
 live life:活的生命
 live life:活的生活
 live lobster:活的龙虾
@@ -46978,6 +47416,8 @@ lively point:萊夫利角
 liven house:利維大廈
 livensky district:利夫內區
 livenza:利文扎河
+liver abscess:肝膿瘍
+liver abscess:肝臟膿瘍
 liver algorithm:肝算法
 liver and atherosclerosis:肝和动脉粥样硬化
 liver and blood vessel:肝和血管
@@ -47057,6 +47497,7 @@ liver cancer tissue:肝癌组织
 liver cancer treatment:肝癌治疗
 liver cancer will no longer:肝癌将不再
 liver cancer:肝癌
+liver cancer:肝臟癌
 liver cell death:肝细胞死亡
 liver cell functions:肝细胞功能
 liver cell membrane:肝细胞膜
@@ -47370,12 +47811,14 @@ liverpool defender andy:利物浦后卫安迪
 liverpool defender joe:利物浦后卫乔
 liverpool defender virgil:利物浦后卫维吉尔
 liverpool defender:利物浦后卫
+liverpool diocese:利物浦教區
 liverpool do:利物浦做
 liverpool dock:利物浦船坞
 liverpool echo:利物浦回声报
 liverpool echo:利物浦回聲
 liverpool empire theatre:利物浦帝國劇場
 liverpool end:利物浦结束
+liverpool english:利物浦英语
 liverpool european capital of culture:利物浦欧洲文化之都
 liverpool european:利物浦欧洲
 liverpool eventually:利物浦最终
@@ -47495,6 +47938,7 @@ liverpool sold:利物浦卖
 liverpool spokesman:利物浦发言人
 liverpool spokesperson:利物浦发言人
 liverpool statement:利物浦声明
+liverpool station:利物浦站
 liverpool still:利物浦仍然
 liverpool street station:利物浦街站
 liverpool street station:利物浦街車站
@@ -47512,6 +47956,7 @@ liverpool threat:利物浦威胁
 liverpool time:利物浦时间
 liverpool too:利物浦也
 liverpool town hall:利物浦市政厅
+liverpool township:利物浦鎮區
 liverpool train station:利物浦火车站
 liverpool train:利物浦火车
 liverpool university hospital:利物浦大学医院
@@ -47739,6 +48184,7 @@ living comet:活彗星
 living community:活社区
 living computer:活电脑
 living concrete:活混凝土
+living constitution:活宪法
 living constitution:活的宪法
 living coral reef:活珊瑚礁
 living coral:活珊瑚
@@ -47855,6 +48301,7 @@ living landmark:活地标
 living landscape:活景观
 living landscape:活风景
 living language:活语言
+living languages:活语言
 living library:活图书馆
 living lighting system:活照明系统
 living lighting:活照明
@@ -47959,6 +48406,7 @@ living statue:活雕像
 living stone:活石头
 living stone:活石頭
 living stream ministry:水流职事站
+living street:活街
 living street:生活化道路
 living system:活系統
 living system:活系统
@@ -48044,6 +48492,7 @@ livingston awards:利文斯顿奖
 livingston college:利文斯顿学院
 livingston community:利文斯顿社区
 livingston county:利文斯頓縣
+livingston county:利文斯顿县
 livingston decided:利文斯顿决定
 livingston football:利文斯顿足球
 livingston hall:利文斯顿大厅
@@ -48052,6 +48501,7 @@ livingston high school:利文斯顿高中
 livingston institute:利文斯顿学院
 livingston interview:利文斯顿采访
 livingston island:利文斯頓島
+livingston island:利文斯顿岛
 livingston once:利文斯顿曾经
 livingston parish:利文斯顿堂区
 livingston parish:利文斯顿教区
@@ -48063,6 +48513,7 @@ livingston state:利文斯顿州
 livingston street:利文斯顿街
 livingston university:利文斯顿大学
 livingston:利文斯顿
+livingstone county:利文斯敦县
 livingstone district:利文斯敦縣
 livingstone falls:李文斯頓瀑布
 livingstone island:利文斯敦岛
@@ -48098,6 +48549,7 @@ livny:利夫內
 livnî:利夫內
 livnõ:利夫內
 livnı:利夫內
+livoberezhna line:左岸线
 livoberezhna:左岸
 livonia avenue station:利沃尼亞大道車站
 livonia cup:利伏尼亞盃
@@ -48119,6 +48571,8 @@ livorno ferraris:里窝那费拉里斯
 livorno gorgona:戈尔戈纳岛
 livorno or amsterdam:里窝那或阿姆斯特丹
 livorno port:里窝那港口
+livorno province:利佛諾省
+livorno province:里窝那省
 livorno:利佛諾
 livorno:里窝那
 livourne:利佛諾
@@ -48187,7 +48641,9 @@ liwan reservoir:李湾水库
 liwan road:lìwān lù
 liwan road:荔湾路
 liwan shuiku:黎万水库
+liwan station:李湾站
 liwan station:荔湾站
+liwan station:荔灣站
 liwan street:丽湾街
 liwan taizi court:荔湾太子苑
 liwan taizi court:荔灣太子苑
@@ -48258,6 +48714,7 @@ liweihoucun:李未后村
 liweiqiancun:李未前村
 liwen expressway:滬昆高速
 liwen expressway:龍麗溫高速
+liwen jiang:李文江
 liwen park:立文公園
 liwen road intersection:立文路口
 liwen road:立文路
@@ -48931,6 +49388,7 @@ liyuan building:荔园大厦
 liyuan community:力源小区
 liyuan community:梨园社区
 liyuan community:荔苑小区
+liyuan dam:李园水库
 liyuan elementary school:麗園國小
 liyuan esthetic dental clinic:立源美學牙醫診所
 liyuan foreign language primary school (xiangmi lake):荔园外国语小学(香蜜湖)
@@ -49111,6 +49569,7 @@ liyuku:鯉魚堀
 liyumen metro station:鲤鱼门地铁站
 liyumen road:鲤鱼门路
 liyumen station:鯉魚門站
+liyumen station:鲤鱼门站
 liyumen:鯉魚門
 liyumen:鲤鱼门
 liyun urqu:sàilālì'áng
@@ -49139,6 +49598,7 @@ liyushandongfeng:鲤鱼山东峰
 liyushixia:鯉魚石下
 liyutan dam:鯉魚潭水壩
 liyutan dam:鯉魚潭水庫
+liyutan dam:鲤鱼潭水库
 liyutan reservoir:lǐyútán shuǐkù
 liyutan reservoir:鯉魚潭水庫
 liyutan reservoir:鲤鱼潭水库
@@ -49505,6 +49965,7 @@ lizigucun:李子堌村
 lizihe:李子河
 lizihnei light rail station:籬仔內站
 lizihnei road:籬仔內路
+lizihnei station:籬仔內站
 lizihnei:lí zǎi nèi
 lizihnei:篱仔内
 lizihnei:籬仔內
@@ -49553,6 +50014,7 @@ lizixiangcun:李紫乡村
 liziyida creek:lìzǐyīdá gōu
 liziyingzi:李子营子
 liziyuan station:李子园站
+liziyuan station:李子園站
 liziyuan:lízǐyuán shèqū
 liziyuan:李仔園
 liziyuan:李子园

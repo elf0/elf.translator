@@ -2106,6 +2106,8 @@ stack is temporary information:栈是临时信息
 stack language:栈语言
 stack layout:栈布局
 stack machine:堆疊結構機器
+stack machine:栈机器
+stack machines:栈机器
 stack management:栈管理
 stack market:栈市场
 stack means:栈意味着
@@ -2471,10 +2473,14 @@ stadium or arena:体育馆或竞技场
 stadium path:大球場徑
 stadium projects:体育馆项目
 stadium projects:运动场项目
+stadium road:体育场路
+stadium road:体育馆路
+stadium road:體育場路
 stadium sarawak:砂拉越体育馆
 stadium serangoon:实龙岗体育场
 stadium shah alam:莎亚南体育场
 stadium station:体育场站
+stadium station:体育馆站
 stadium station:运动场
 stadium station:運動場
 stadium station:體育場站
@@ -2545,6 +2551,7 @@ stadt neusatz:諾維薩德市
 stadt neusatz:诺维萨德市
 stadt san marino:圣马力诺
 stadt san marino:聖馬力諾
+stadt theatre:不来梅剧院
 stadt thủy nguyên:水源市
 stadt tuyên quang:宣光市
 stadt từ sơn:慈山市
@@ -2817,6 +2824,7 @@ stafford and eugene:斯塔福德和尤金
 stafford and greenhouse:斯塔福德和温室
 stafford auction:斯塔福德拍卖
 stafford beer:斯塔福德啤酒
+stafford castle:斯塔福德城堡
 stafford center:斯塔福德中心
 stafford county:斯塔福德县
 stafford court:斯塔福德法院
@@ -2838,6 +2846,7 @@ stafford suddenly said:斯塔福德突然说
 stafford suddenly:斯塔福德突然
 stafford suggest:斯塔福德建议
 stafford tell:斯塔福德告诉
+stafford township:斯塔福德鎮區
 stafford township:斯塔福德镇区
 stafford university college:斯塔福德大学学院
 stafford university:斯塔福德大学
@@ -2850,12 +2859,16 @@ staffordshire area:斯塔福德郡地区
 staffordshire avenue:士達福信路
 staffordshire bull:斯塔福德郡公牛
 staffordshire county league:斯塔福德郡聯賽
+staffordshire east:斯塔福德郡东
+staffordshire east:斯塔福德郡東
 staffordshire home:斯塔福德郡家
 staffordshire park:斯塔福德郡公园
 staffordshire police high tech crime:斯塔福德郡警察高科技犯罪
 staffordshire police:斯塔福德郡警察
 staffordshire prison:斯塔福德郡监狱
 staffordshire regiment:斯塔福德郡团
+staffordshire south:斯塔福德郡南
+staffordshire southern:斯塔福德郡南區
 staffordshire to london:斯塔福德郡到伦敦
 staffordshire university:斯塔福德郡大学
 staffordshire university:斯塔福德郡大學
@@ -3369,6 +3382,7 @@ staidiam wembley:溫布萊球場
 staig:施泰格
 staiky:斯泰基
 stainach:施泰纳赫
+staindrop school:斯坦德罗普学校
 staindrop:斯坦德罗普
 stained glass art:花窗玻璃艺术
 stained glass be:花窗玻璃成为
@@ -3715,6 +3729,7 @@ stainz bei straden:施特拉登附近施泰因茨
 stainz:施泰因茨
 stainztal:施泰因茨塔尔
 stair hill:斯特爾山
+stair hole:樓梯洞
 stair lift:楼梯升降机
 stair of auditorium and library:禮堂/圖書館階梯
 stair:樓梯
@@ -3846,6 +3861,7 @@ stalk eyed fly:突眼蝇科
 stalk of the celery monster:芹菜怪物的莖
 stalking horse offer:假马协议
 stalking:纏擾
+stall street:马棚街道
 stall torque:堵轉力矩
 stall:马棚
 stallbron:馬厩橋
@@ -3907,6 +3923,7 @@ stamp and postcard:邮票和明信片
 stamp and stamp:邮票和邮票
 stamp art:邮票艺术
 stamp auction:邮票拍卖
+stamp collecting:邮票收藏
 stamp collecting:集郵
 stamp company:邮票公司
 stamp dealer:邮票经销商
@@ -4336,6 +4353,7 @@ standard building materials:标准建筑材料
 standard building:三達大廈
 standard building:标准建筑
 standard buildings:标准建筑
+standard bulgarian:标准保加利亚语
 standard bureau:标准局
 standard burn:标准烧伤
 standard bus:标准公交车
@@ -4738,6 +4756,7 @@ standard devices:标准设备
 standard diabetes marker:标准糖尿病标记
 standard diabetes:标准糖尿病
 standard diabetic foot:标准糖尿病足
+standard dialect:标准方言
 standard dialog box:标准对话框
 standard diameter:标准直径
 standard dictionary:标准词典
@@ -4861,6 +4880,8 @@ standard equipment:标准设备
 standard error and analysis of variance:标准误差和方差分析
 standard error value:标准误差值
 standard error:标准误差
+standard error:标准错误
+standard errors:标准错误
 standard establish:标准建立
 standard estimate:标准估计
 standard ethernet connect:标准以太网连接
@@ -5097,6 +5118,7 @@ standard headphones:标准耳机
 standard health and safety:标准健康与安全
 standard health plan agreement:标准健康计划协议
 standard health:标准健康
+standard hebrew:标准希伯来语
 standard height:标准高度
 standard help:标准帮助
 standard heparin:标准肝素
@@ -5283,6 +5305,7 @@ standard language exam:标准语言考试
 standard language process:标准语言处理
 standard language:标准方言
 standard language:标准语言
+standard languages:标准语言
 standard laptop:标准笔记本电脑
 standard laser:标准激光
 standard latin:标准拉丁语
@@ -5383,6 +5406,7 @@ standard loss model:标准损失模型
 standard loss:标准损失
 standard low-earth orbit:标准近地轨道
 standard low-fat diet:标准低脂饮食
+standard luik:标准列日
 standard lunch:标准午餐
 standard machine controller:标准机器控制器
 standard machine gun:标准机枪
@@ -5403,6 +5427,7 @@ standard magnetic tape:标准磁带
 standard mail:标准邮件
 standard main battle tank:标准主战坦克
 standard malaria:标准疟疾
+standard malay:标准马来语
 standard manage:标准管理
 standard management system:标准管理系统
 standard management tools:标准管理工具
@@ -6049,6 +6074,7 @@ standard routing:标准路由
 standard royal:标准皇家
 standard rubber:标准橡胶
 standard rule:标准规则
+standard ruler:标准尺
 standard ruler:標準尺
 standard rules:标准规则
 standard run:标准跑
@@ -6387,8 +6413,10 @@ standard testing:标准测试
 standard text editor:标准文本编辑器
 standard text:标准文本
 standard textbook:标准教科书
+standard thai:标准泰语
 standard thanksgiving dinner:标准感恩节晚餐
 standard thanksgiving:标准感恩节
+standard theatre:标准剧院
 standard theme:标准主题
 standard theory says:标准理论说
 standard theory:标准理论
@@ -6689,6 +6717,7 @@ standardization activity:标准化活动
 standardization administration of china:国家标准化管理委员会
 standardization administration:标准化管理
 standardization agreement:标准化协议
+standardization agreements:标准化协议
 standardization allow:标准化允许
 standardization and abstraction:标准化和抽象化
 standardization and alliance:标准化和联盟
@@ -7456,7 +7485,9 @@ standards or requirements:标准或要求
 standards or target:标准或目标
 standards or user-config:标准或用户配置
 standards organisation:标准组织
+standards organization:标准组织
 standards organization:標準組織
+standards organizations:标准组织
 standards organize:标准组织
 standards page:标准页
 standards parameter:标准参数
@@ -7662,6 +7693,7 @@ standing or sitting:站立或坐
 standing ovation:起立致敬
 standing pain:站立痛
 standing passenger:站立乘客
+standing passengers:站立乘客
 standing platform:站立平台
 standing position:站立位置
 standing power:站立力量
@@ -7699,6 +7731,7 @@ standpoint theory:立场论
 standring inlet:斯坦德林灣
 standup paddleboarding:桨板
 stanerra:史坦莉娜
+stanford bridge:史丹福橋
 stanford bunny:斯坦福兔子
 stanford center:斯坦福中心
 stanford egyetem:史丹福大學
@@ -7706,6 +7739,7 @@ stanford egyetem:斯坦福大学
 stanford encyclopedia of philosophy:史丹佛哲學百科全書
 stanford graduate school of business:斯坦福商学研究生院
 stanford hillview hotel:仕德福山景酒店
+stanford hospital:斯坦佛医院
 stanford hotel:仕德福酒店
 stanford law school professor:斯坦福法学院教授
 stanford law school:斯坦福法学院
@@ -7718,6 +7752,7 @@ stanford prison experiment:斯坦福监狱实验
 stanford research park:史丹佛研究園區
 stanford residences victoria harbour:尚臻維港
 stanford residences victoria harbour:尚臻维港 shàng zhēn wéi gǎng
+stanford stadium:史丹福體育場
 stanford stadium:斯坦福体育场
 stanford torus:史丹佛環面
 stanford unibertsitatea:史丹福大學
@@ -7832,6 +7867,7 @@ stanford university virtual reality:斯坦福大学虚拟现实
 stanford university web site:斯坦福大学网站
 stanford university website:斯坦福大学网站
 stanford university:史丹佛大學
+stanford university:史丹福大学
 stanford university:史丹福大學
 stanford university:斯坦福大学
 stanford university:斯坦福大學
@@ -7889,6 +7925,7 @@ stanisławówka:斯塔尼斯拉維夫卡
 stanitsa:哥薩克村
 stankin:莫斯科国立技术大学
 stanlejo:斯坦利港
+stanley airport:斯坦利港機場
 stanley atani:艾達尼
 stanley baptist chapel:赤柱浸信會
 stanley barracks:赤柱軍營
@@ -7902,6 +7939,7 @@ stanley chang:章培志
 stanley cheung:張景淳
 stanley county:斯坦利县
 stanley court:海灣園
+stanley cup:史丹利杯
 stanley cup:史丹利盃
 stanley fertilizer co., ltd. of pingyuan:史丹利化肥(平原)有限公司
 stanley fishermen's recreation club:赤柱漁民娛樂會
@@ -7917,14 +7955,17 @@ stanley ho east asia college (w13):何鴻燊東亞書院 (w13)
 stanley ho sports centre:何鴻燊體育中心
 stanley ho sports centre:何鸿燊体育中心
 stanley ho:何鴻燊
+stanley hotel:史丹利酒店
 stanley huang:黃立行
 stanley internment camp:赤柱拘留營
+stanley jail:赤柱监狱
 stanley kai fong welfare advancement association:赤柱街坊福利會
 stanley kao:高碩泰
 stanley knoll:赤柱山莊
 stanley kubrick theatre:斯坦利·库布里克剧院
 stanley kwan:關錦鵬
 stanley link road:赤柱連合道
+stanley lord:史丹利勳爵
 stanley ma hang park:赤柱馬坑公園
 stanley main beach water sports centre:赤柱正灘水上活動中心
 stanley main beach:赤柱正灘
@@ -7960,6 +8001,7 @@ stanley prison staff quarters block 1:赤柱監獄職員宿舍一座
 stanley prison staff quarters block 2:赤柱監獄職員宿舍二座
 stanley prison staff quarters block 3:赤柱監獄職員宿舍三座
 stanley prison staff quarters block 4:赤柱監獄職員宿舍四座
+stanley prison:赤柱监狱
 stanley prison:赤柱監獄
 stanley public dispensary:赤柱公立醫局
 stanley public library:赤柱公共圖書館
@@ -7990,6 +8032,7 @@ stanley:史丹利
 stanley:斯坦利港
 stanley:赤柱
 stanleycaris:斯坦利虾屬
+stanmore station:史丹摩站
 stanmore tube station:史丹摩站
 stanmore:史丹摩
 stann creek district:斯坦克里克區
@@ -8160,6 +8203,7 @@ star can help:恒星可以帮助
 star candy:星星糖
 star cannot:恒星不能
 star catalogue:星表
+star centre:星星中心
 star chamber:星室法庭
 star charge:星星充电
 star chart:星圖
@@ -8187,6 +8231,7 @@ star continues:恒星继续
 star control:星际控制
 star core:恒星核心
 star could:恒星能
+star count:恒星计数
 star court:文星樓
 star cruise:星星巡航
 star cruises:麗星郵輪
@@ -8213,6 +8258,7 @@ star explosion:恒星爆炸
 star factories:恒星工厂
 star factory:恒星工厂
 star factory:星星工厂
+star factory:星星工廠
 star fall:星星落下
 star families:星星家庭
 star ferry car park:天星停車場
@@ -8230,6 +8276,7 @@ star field:恒星场
 star fields:恒星领域
 star finch:星雀
 star fitness:健身星球
+star fleet:星星艦隊
 star flower:星星花
 star force:星际力量
 star formation:恆星形成
@@ -8239,6 +8286,7 @@ star fox:星際火狐系列
 star from:恒星从
 star fruit:星星水果
 star fruits ice:成都楊桃冰
+star garnet:星星石榴石
 star gate hotel kansai airport:关西机场临空迎宾塔大厦星大门酒店
 star gauge:璇玑图
 star giant panda nursery house:大熊猫星星产房
@@ -8277,6 +8325,7 @@ star located:恒星位于
 star look:恒星看
 star lord:星爵
 star luster:星空战机
+star magic:星星魔法
 star mansion:恆星樓
 star mart:星光市場
 star mass:恒星质量
@@ -8297,6 +8346,7 @@ star net property limited:星網地產
 star network:星型网
 star nosed mole:星鼻鼴
 star nucleosynthesis:恒星核合成
+star number:恒星数
 star number:星數
 star numbers:恒星数字
 star ocean:星星海洋
@@ -8322,6 +8372,7 @@ star or galaxy:恒星或星系
 star or planet:恒星或行星
 star or white dwarf:恒星或白矮星
 star orbits:斗转星移
+star park:星星公園
 star party:星星聚会
 star party:星空饗宴
 star pearlfish:星點潛魚
@@ -8339,6 +8390,7 @@ star princess:星星公主
 star products:星星产品
 star provides:恒星提供
 star proxima centauri:恒星比邻星
+star quality:恒星质量
 star rain giant panda pavilion:星雨馆
 star rather than:恒星而不是
 star reach:恒星达到
@@ -8383,6 +8435,9 @@ star suddenly:恒星突然
 star super-earth:恒星超级地球
 star symbol:星星符号
 star system:恆星系統
+star system:恒星系統
+star system:恒星系统
+star systems:恒星系统
 star team:星星队
 star terrace:摘星奇缘
 star that:恒星那
@@ -8436,6 +8491,7 @@ star waves block 5:星寰匯5座
 star where are you:星星你在哪里
 star will be:恒星将成为
 star will:恒星会
+star wind:恒星風
 star wind:恒星风
 star wood furniture:越南-木曜公司 star wood furniture
 star world:恒星世界
@@ -8857,6 +8913,7 @@ starfish character:海星角色
 starfish cove:海星灣
 starfish fast food restaurant:海星快餐店
 starfish from:海星从
+starfish galaxy:海星星系
 starfish girl:海星女孩
 starfish health:海星健康
 starfish international:海星国际
@@ -8866,6 +8923,7 @@ starfish population:海星人口
 starfish position:海星位置
 starfish real:海星真的
 starfish robot:海星机器人
+starfish site:海星站点
 starfish site:海星站點計劃
 starfish usually:海星通常
 starfish:海星
@@ -8990,6 +9048,7 @@ starlight house:星華大廈
 starlight is another:星光是另一个
 starlight ktv:星光大道ktv
 starlight measurement:星光测量
+starlight media:星光媒体
 starlight multimedia:星光多媒体
 starlight music series:星光音乐系列
 starlight music:星光音乐
@@ -9004,7 +9063,9 @@ starlight question:星光问题
 starlight roof:星光屋顶
 starlight sapphire:星光蓝宝石
 starlight scope:星光范围
+starlight stadium:星光體育場
 starlight stadium:西山體育場
+starlight station:星光站
 starlight technology:星光技术
 starlight theater:星空劇場
 starlight this:星光这
@@ -9246,6 +9307,7 @@ stars or light:星星或光
 stars or meteor:星星或流星
 stars or planetary system:星星或行星系统
 stars out:星星外
+stars park:星星公園
 stars play:星星玩
 stars real:星星真的
 stars rise and set:星星上涨和设置
@@ -9928,6 +9990,7 @@ start melon:开始瓜
 start memorizing:开始记住
 start menopause:开始更年期
 start menu or desktop:開始功能表或桌面
+start menu:开始菜单
 start menu:開始功能表
 start middle age:开始中年
 start midnight:开始午夜
@@ -10803,6 +10866,7 @@ state accurate:状态精确的
 state achieve:州实现
 state acquire:国家获得
 state acquire:状态获得
+state act:国家行动
 state action:国家行动
 state activism:国家行动主义
 state activities:国家活动
@@ -11186,6 +11250,7 @@ state architect:州建筑师
 state archive:国家档案
 state archive:州档案
 state archive:州檔案
+state archives:国家档案馆
 state are malta:国家是马耳他
 state are right:状态是正确的
 state area:州地区
@@ -11199,6 +11264,7 @@ state armed groups and security:国家武装团体和保安
 state armed groups:国家武装团体
 state armed groups:国家武装组织
 state army:国家军队
+state army:国家陆军
 state army:州军队
 state arrest:国家逮捕
 state art and culture:国家艺术与文化
@@ -11296,10 +11362,12 @@ state bank of the ussr:苏联国家银行
 state bank of vietnam:越南国家银行
 state bank of vietnam:越南國家銀行
 state bank should know:国家银行应该知道
+state bank:国家銀行
 state bank:国家银行
 state bank:州銀行
 state bank:州银行
 state bankruptcy:国家破产
+state bankruptcy:国家破產
 state banks:国家银行
 state banks:州银行
 state banquet:国宴
@@ -11341,6 +11409,7 @@ state behaviour:国家行为
 state belarus:国家白俄罗斯
 state believe:国家相信
 state believe:状态相信
+state benefit:国家利益
 state benefit:国家福利
 state benefit:州福利
 state berks:州伯克
@@ -11351,6 +11420,7 @@ state bifurcation:国家分叉
 state biologist:州生物学家
 state bird:州鸟
 state bird:状态鸟
+state birds:州鸟
 state birth certificate:州出生证明
 state birthday:州生日
 state bit:州比特
@@ -11383,7 +11453,9 @@ state boxing:国家拳击
 state brain:状态脑
 state branch:国家分支
 state branch:州分支
+state bridge:国家桥
 state bridge:州桥
+state bridge:州橋
 state broadcast:国家广播
 state broadcast:州广播
 state broadcasting company:国家广播公司
@@ -11445,6 +11517,7 @@ state capital market:国家资本市场
 state capital saint paul:州首都圣保罗
 state capital saint:州首都圣
 state capital:国家首都
+state capital:州行政中心
 state capital:州首都
 state capitalism and authoritarianism:国家资本主义和威权主义
 state capitalism and capitalism:国家资本主义和资本主义
@@ -11509,7 +11582,9 @@ state championships and seven:州冠军和七
 state championships:国家冠军
 state championships:州冠军
 state championships:状态冠军
+state chancellor:国家总理
 state chancellor:州大臣
+state chancellor:州总理
 state change:状态改变
 state changes:状态变化
 state channel frameworks:状态通道框架
@@ -11522,6 +11597,7 @@ state chapter:州章
 state check:国家检查
 state check:状态检查
 state chemical weapon:国家化学武器
+state chief:州领袖
 state child:国家儿童
 state child:州儿童
 state children:国家儿童
@@ -11535,6 +11611,7 @@ state choir:国家合唱
 state choose:国家选择
 state choose:州选择
 state church:国家教堂
+state cinema:国家电影院
 state circus:国家马戏
 state cities:州城市
 state citizens:州公民
@@ -11569,10 +11646,12 @@ state coerce:国家强迫
 state colleagues:州同事
 state college:国家学院
 state college:州学院
+state college:州學院
 state colonization:国家殖民
 state color:国家颜色
 state color:州颜色
 state color:状态颜色
+state colour:国家颜色
 state colour:州颜色
 state column:州列
 state commerce and consumer:国家商业和消费者
@@ -11584,6 +11663,7 @@ state commitment:状态承诺
 state committee for construction:苏联国家建设委员会
 state committee on the state of emergency:国家紧急状态委员会
 state committee:国家委员会
+state committee:国家委員會
 state committee:州委员会
 state committee:州委員會
 state communism:国家共产主义
@@ -11703,6 +11783,7 @@ state councillor:国务委员
 state counter-revolution:国家反革命
 state country music:州乡村音乐
 state county court:州郡法院
+state county:州县
 state coup:国家政变
 state course:状态课程
 state court case:州法院案件
@@ -11766,6 +11847,7 @@ state database:国家数据库
 state database:州数据库
 state database:状态数据库
 state dataset:状态数据集
+state day:国家日
 state deal:国家处理
 state dealer:州经销商
 state death:州死亡
@@ -11858,12 +11940,14 @@ state district court:州地方法院
 state district court:状态地方法院
 state district judge:州地方法官
 state do:国家做
+state doctorate:国家博士
 state doctors:国家医生
 state document:状态文档
 state documents show:国家文件显示
 state documents:国家文件
 state documents:状态文件
 state does:国家做
+state dog:州犬
 state dollars:国家美元
 state dollars:州美元
 state domain name:国家域名
@@ -12198,6 +12282,7 @@ state funeral:国葬
 state funerals in the united kingdom:英國國葬
 state further:状态进一步的
 state fusion center:州融合中心
+state gallery:国家画廊
 state gallery:州画廊
 state gambling:州赌博
 state game and fish:国家游戏和鱼
@@ -12208,6 +12293,7 @@ state garden:国家花园
 state gas:国家燃气
 state gasoline:州汽油
 state gazette:国家公报
+state gemstone:州宝石
 state general bureau of tourist guidance:国家观光总局
 state general election:州大选
 state general manager:州总经理
@@ -12358,6 +12444,7 @@ state gubernatorial election:州州长选举
 state guest house:迎賓館
 state gun:国家枪
 state gun:州枪
+state gymnasium:国家体育馆
 state gymnastics:州体操
 state hacker:国家黑客
 state had been:国家已经
@@ -12392,6 +12479,7 @@ state heart disease:州心脏病
 state heavyweight:州重量级
 state help:国家帮助
 state herbarium of south australia:南澳大利亚州立植物标本馆
+state herbarium:国家植物标本馆
 state heritage:国家遗产
 state heritage:州遗产
 state hershey medical center:州赫希醫學中心
@@ -12612,6 +12700,7 @@ state judge william:国家法官威廉
 state judge:国家法官
 state judge:州法官
 state judge:状态法官
+state judiciary:州司法機關
 state jury:州陪审团
 state jury:州陪審團
 state just:州只
@@ -12679,6 +12768,7 @@ state laws would allow:州法律将允许
 state laws:国家法律
 state laws:州法律
 state layer:状态层
+state league:国家联盟
 state league:州联盟
 state learning:州学习
 state learning:状态学习
@@ -12799,6 +12889,7 @@ state meet:国家遇见
 state meeting:状态会议
 state members:国家成员
 state members:州成员
+state memorial:国家纪念碑
 state memory:国家记忆
 state memory:状态记忆
 state men's basketball team:州男子篮球队
@@ -12825,6 +12916,7 @@ state militia:国家民兵
 state militia:州民兵
 state militia:状态民兵
 state mineral:州矿物
+state mineral:州礦物
 state minimum wage:州最低工資
 state minister of artsakh:阿尔察赫国务部长
 state minister:国家部长
@@ -13123,6 +13215,7 @@ state of west bengal:西孟加拉邦州
 state of west virginia:西弗吉尼亚州
 state of wisconsin:威斯康辛州
 state of xing:兴州
+state of:州的
 state offer:州提供
 state office:国家办公室
 state office:州办公室
@@ -13272,6 +13365,7 @@ state park offer:州立公园提供
 state park police:州立公园警察
 state park resort:州立公园度假村
 state park system:州立公园系统
+state park:国家公园
 state park:州立公园
 state parliament election:州议会选举
 state parliament elections:州议会选举
@@ -13301,6 +13395,7 @@ state path:状态路径
 state patients:状态患者
 state patriotism:国家爱国主义
 state patrol:州巡邏
+state pattern:状态模式
 state pattern:狀態模式
 state patty's day:宾州肉饼节
 state pavilia:皇都
@@ -13609,6 +13704,7 @@ state relation:国家关系
 state relation:州关系
 state relationship:国家关系
 state relationship:州关系
+state religion:国家宗教
 state religion:國教
 state renewable energy:国家可再生能源
 state renewable energy:州可再生能源
@@ -13691,8 +13787,10 @@ state rights:国家权利
 state rights:州权利
 state river:州河流
 state road d.100:d100国道
+state road:国家路
 state road:国家道路
 state road:州路
+state roads:国家路
 state roads:州路
 state rocket center:国家火箭中心
 state rocket:国家火箭
@@ -13763,6 +13861,7 @@ state secretary:州秘書
 state security committee of the republic of belarus:白俄羅斯共和國國家安全委員會
 state security department:州安全部门
 state security:国家保安
+state security:国家安全
 state security:州安全
 state segregation:国家隔离
 state selection:州选择
@@ -13824,7 +13923,9 @@ state social policy:国家社会政策
 state social science fund:国家社会科学基金
 state social science:国家社会科学
 state social security:国家社会保障
+state socialism:国家社会主义
 state socialism:國有社會主義
+state socialist:国家社会主义者
 state society:国家社会
 state society:州社会
 state sociology:国家社会学
@@ -13855,6 +13956,7 @@ state space agency of ukraine:乌克兰国家航天局
 state space corporation:国家空间公司
 state space representation:状态空间
 state space:国家空间
+state space:状态空间
 state special communications service of ukraine:乌克兰国家特别通信局
 state special economic zone:国家经济特区
 state special education services:国家特殊教育服务
@@ -13868,6 +13970,9 @@ state sport:国家运动
 state sports centre:州立體育中心
 state stable food:状态稳定的食物
 state stable:状态稳定的
+state stadium:国家体育场
+state stadium:国家体育馆
+state stadium:国家运动场
 state stamp:国家邮票
 state standard:国家标准
 state standardization:国家标准化
@@ -13895,6 +14000,7 @@ state street center subway:州街中心地铁
 state street corporation:道富公司
 state street cross:州街穿越
 state street global advisors:道富环球
+state street:国家街
 state street:国家街道
 state street:州街
 state street:状态街道
@@ -14017,6 +14123,8 @@ state that:状态那
 state the only defense:国家唯一的防御
 state the only:国家唯一的
 state the united states:国家美国
+state theater:国家剧场
+state theatre:国家剧场
 state theatre:国家剧院
 state their:国家他们的
 state them:状态他们
@@ -14055,6 +14163,7 @@ state tourism bureau:国家旅游局
 state tourism department:州旅游部门
 state tourism:国家旅游
 state tourism:州旅游
+state tournament:国家锦标赛
 state tournament:州锦标赛
 state towards:国家对
 state towards:状态向
@@ -14119,6 +14228,7 @@ state trust laws:州信托法律
 state trust:州信托
 state trying:国家试图
 state tv:国家电视
+state type:国家类型
 state type:状态类型
 state under:状态下
 state union of serbia and montenegro:塞尔维亚和黑山国家联盟
@@ -14215,7 +14325,9 @@ state value function:状态值函数
 state value-added tax:州增值税
 state value:州值
 state value:状态值
+state variable:状态变量
 state variable:狀態變數
+state variables:状态变量
 state vector:状态向量
 state vectors:状态向量
 state vegetable:州蔬菜
@@ -14757,6 +14869,7 @@ states abolish:国家废除
 states about:国家关于
 states absorbance:国家吸光度
 states achieve:国家实现
+states act:国家行动
 states action:国家行动
 states actually:国家实际上
 states against:国家反对
@@ -14855,6 +14968,8 @@ states and yemen:国家和也门
 states are independent:国家是独立的
 states are lucky:国家是幸运的
 states are natural:国家是天然的
+states army:国家军队
+states army:国家陆军
 states as the primary:国家作为主要
 states as well as russia and china:国家以及俄罗斯和中国
 states as well as switzerland:国家以及瑞士
@@ -14974,6 +15089,7 @@ states know:国家知道
 states kyrgyzstan:国家吉尔吉斯斯坦
 states last year:国家去年
 states law school:国家法学院
+states league:国家联盟
 states learn:国家学习
 states levy value added tax:国家征收增值税
 states levy:国家征收
@@ -15025,6 +15141,7 @@ states or organizations:国家或组织
 states or regions:国家或地区
 states participate:国家参与
 states participate:国家参加
+states party:国家党
 states patents:国家专利
 states petroleum association:国家石油协会
 states petroleum:国家石油
@@ -16692,12 +16809,16 @@ staurotypinae:麝香龜亞科
 staurotypus:大麝香龜屬
 stavanger actually:斯塔万格实际上
 stavanger airport:斯塔万格机场
+stavanger airport:斯塔万格機場
+stavanger airport:斯塔萬格機場
 stavanger and oslo:斯塔万格和奥斯陆
 stavanger and sandnes:斯塔万格和桑内斯
 stavanger art museum:斯塔万格艺术博物馆
 stavanger cathedral:斯塔萬格主教座堂
+stavanger cathedral:斯塔萬格大教堂
 stavanger innovation:斯塔万格创新
 stavanger is a very:斯塔万格是一个非常
+stavanger museum:斯塔万格博物馆
 stavanger museum:斯塔萬格博物館
 stavanger office:斯塔万格办公室
 stavanger peninsula:斯塔万格半岛
@@ -17851,6 +17972,7 @@ steal gold:偷金
 steal gold:偷金子
 steal gun:偷枪
 steal healthy:偷健康的
+steal heart:偷心
 steal heart:宥娜的街
 steal her life:偷她的生活
 steal her things:偷她的东西
@@ -18038,6 +18160,7 @@ steam be:蒸汽成为
 steam became:蒸汽成为
 steam beer:蒸汽啤酒
 steam begin:蒸汽开始
+steam boat:蒸汽船
 steam boiler customer:蒸汽锅炉客户
 steam boiler explosion:蒸汽锅炉爆炸
 steam boiler fuel:蒸汽锅炉燃料
@@ -18090,6 +18213,7 @@ steam detectives:快傑蒸汽偵探團
 steam device:蒸汽设备
 steam digester:蒸汽蒸煮器
 steam distillation:水蒸气蒸馏
+steam distillation:蒸汽蒸馏
 steam drying:蒸汽干燥
 steam education:蒸汽教育
 steam emission:蒸汽排放
@@ -18115,7 +18239,9 @@ steam engine technique:蒸汽机技术
 steam engine technology:蒸汽机技术
 steam engine train:蒸汽机火车
 steam engine water:蒸汽机水
+steam engine:蒸汽发动机
 steam engine:蒸汽机
+steam engines:蒸汽发动机
 steam environment:蒸汽环境
 steam environments:蒸汽环境
 steam equipment:蒸汽设备
@@ -18137,6 +18263,7 @@ steam game or application:蒸汽游戏或应用程序
 steam game:蒸汽游戏
 steam generating heavy water reactor:蒸汽发生重水反应堆
 steam generation:蒸汽生成
+steam generator:蒸汽生成器
 steam gun:蒸汽枪
 steam has been:蒸汽已经
 steam has enough pressure:蒸汽有足够的压力
@@ -18149,6 +18276,7 @@ steam humidifier:蒸汽加湿器
 steam ice:蒸汽冰
 steam icebreaker:蒸汽破冰船
 steam inhalation:蒸汽吸入
+steam injector:蒸汽噴射器
 steam institute:蒸汽研究所
 steam into:蒸汽进入
 steam ironing:蒸汽熨烫
@@ -18202,6 +18330,7 @@ steam piston engine:蒸汽活塞发动机
 steam piston:蒸汽活塞
 steam planet:蒸汽行星
 steam plant:蒸汽植物
+steam platform:蒸汽平台
 steam plough:蒸汽犁
 steam power:蒸汽力量
 steam pressure and system:蒸汽压力和系统
@@ -18220,10 +18349,13 @@ steam projects:蒸汽项目
 steam propulsion:蒸汽推进
 steam pump:蒸汽泵
 steam pumping station:蒸汽泵站
+steam punk:蒸汽朋克
+steam punk:蒸汽龐克
 steam put on:蒸汽穿上
 steam quality:蒸汽质量
 steam radiator:蒸汽散热器
 steam railcar:蒸汽动车
+steam railroad:蒸汽鐵路
 steam railroad:蒸汽铁路
 steam railway:蒸汽铁路
 steam rather than:蒸汽而不是
@@ -18246,7 +18378,10 @@ steam sauna:蒸汽桑拿
 steam separator:蒸汽分離器
 steam series:蒸汽系列
 steam service:蒸汽服务
+steam ship:蒸汽船
+steam ship:蒸汽輪船
 steam shovel:蒸汽挖掘机
+steam shovel:蒸汽铲
 steam show:蒸汽显示
 steam shower massage function:蒸汽淋浴按摩功能
 steam shower:蒸汽淋浴
@@ -18260,6 +18395,7 @@ steam system component:蒸汽系统组件
 steam system:蒸汽系統
 steam system:蒸汽系统
 steam systems:蒸汽系统
+steam tank:蒸汽坦克
 steam team:蒸汽团队
 steam techniques:蒸汽技术
 steam technologies:蒸汽技术
@@ -18280,12 +18416,14 @@ steam treatment:蒸汽治疗
 steam tree:蒸汽树
 steam truck:蒸汽卡车
 steam tunnel:蒸汽隧道
+steam turbine:蒸汽涡轮发动机
 steam turbine:蒸汽渦輪發動機
 steam use:蒸汽使用
 steam user:蒸汽用户
 steam users:蒸汽用户
 steam vacuum:蒸汽真空
 steam vessel:蒸汽容器
+steam vessel:蒸汽船
 steam wallet code generator:蒸汽钱包代码生成器
 steam wallet:蒸汽钱包
 steam warship:蒸汽军舰
@@ -18298,6 +18436,7 @@ steam will provide better:蒸汽将提供更好的
 steam will:蒸汽会
 steam wish list:蒸汽愿望列表
 steam wish:蒸汽愿望
+steam workshop:蒸汽作坊
 steam would:蒸汽将
 steam yacht:蒸汽遊艇
 steam-activation process:蒸汽活化过程
@@ -18547,6 +18686,7 @@ steel blade:钢刃
 steel block:钢块
 steel blue whydah:辉蓝维达雀
 steel blue:鋼青色
+steel blue:钢蓝色
 steel boat:钢船
 steel book:钢书
 steel border:钢边
@@ -18678,6 +18818,7 @@ steel house:钢住宅
 steel house:钢房子
 steel housing:钢住宅
 steel how to:钢如何
+steel human:钢人
 steel i:钢我
 steel import quota:钢进口配额
 steel in many cases:钢在许多情况下
@@ -18718,6 +18859,7 @@ steel mill:煉鋼廠
 steel model:钢模型
 steel models:钢模型
 steel modules:钢模块
+steel mountain:钢山
 steel nameplate:钢铭牌
 steel natural gas:钢天然气
 steel navy:钢海军
@@ -19110,10 +19252,12 @@ stein am rhein:莱茵河畔施泰因
 stein apple:施泰因苹果
 stein castle:施泰因城堡
 stein continue:施泰因继续
+stein hagen:施泰因哈根
 stein islands:斯泰因群島
 stein museum of art:施泰因艺术博物馆
 stein nunataks:斯泰因冰原島峰
 stein retire:施泰因退休
+stein river:施泰因河
 stein said:施泰因说
 stein salzkammergut:施泰因萨尔茨卡默古特
 stein scholar:施泰因学者
@@ -19195,6 +19339,7 @@ steinmaur:施泰因毛尔
 steinmetz solid:牟合方盖
 steinnes:施泰因內斯海角
 steinreich:施泰因赖希
+steinsberg castle:施泰因斯贝格城堡
 steinsberg:施泰因斯贝格
 steinschartenkopf:施泰因沙滕山
 steinschlucht:shí xiágǔ
@@ -19656,6 +19801,7 @@ stem gel:茎凝胶
 stem group:幹群
 stem hypothesis:茎假说
 stem leaf:茎叶
+stem loop:茎环
 stem loop:莖環
 stem menu:茎菜单
 stem or leaf:茎或叶
@@ -19755,12 +19901,14 @@ stenchaetothrips:直鬃蓟马属
 stencil buffer:模版緩衝
 stencil:模板噴畫
 stendal hauptbahnhof:施滕达尔车站
+stendal station:施滕达尔站
 stendal:施滕达尔
 stende station:斯滕代站
 stende:斯滕代
 stendhal club:司汤达俱乐部
 stendhal emotions:司汤达情绪
 stendhal focuses on:司汤达专注于
+stendhal syndrome:司汤达综合症
 stendhal syndrome:司湯達綜合症
 stendhal:司汤达
 stendlitz:施滕德利茨河
@@ -19989,6 +20137,7 @@ stephen dream:史蒂芬梦
 stephen fumio hamao:滨尾文郎
 stephen fung:馮德倫
 stephen garlock liu:廖家樂
+stephen gold:史蒂芬金
 stephen hamilton:史蒂芬汉密尔顿
 stephen hawking and black holes:史蒂芬霍金与黑洞
 stephen hawking graphic biography:史蒂芬霍金图形传记
@@ -20007,6 +20156,7 @@ stephen ip:葉澍堃
 stephen iv of hungary:伊什特萬四世
 stephen kam chuen cheong hall:張鑑泉樓（研究生宿舍第一座）
 stephen kim sou hwan:金壽煥
+stephen king:史蒂芬国王
 stephen lam:林瑞麟
 stephen lawrence prize:史蒂芬劳伦斯奖
 stephen lawrence:史蒂芬劳伦斯
@@ -20019,6 +20169,7 @@ stephen nas:史蒂芬纳斯
 stephen ng:吳天海
 stephen roach:史蒂芬罗奇
 stephen said:史蒂芬说
+stephen sanford:史蒂芬桑福德
 stephen shen:沈世宏
 stephen shing toung yau:丘成棟
 stephen shiu:蕭若元
@@ -20078,11 +20229,15 @@ steppe bison:西伯利亞野牛
 steppe brown bear:草原棕熊
 steppe can contain:草原可以包含
 steppe climate:草原气候
+steppe climate:草原氣候
 steppe culture:草原文化
 steppe eagle:草原雕
+steppe eagle:草原鵰
+steppe eagle:草原鹰
 steppe ecosystem:草原生态系统
 steppe empire:草原帝国
 steppe environment:草原环境
+steppe fox:草原狐
 steppe front:草原方面军
 steppe health:草原健康
 steppe horse:草原马
@@ -20106,9 +20261,12 @@ steppe runner:敏麻蜥
 steppe shrub:草原灌木
 steppe to african:草原到非洲
 steppe tribe:草原部落
+steppe vegetation:草原植被
 steppe village:草原村庄
 steppe warrior:草原战士
+steppe wolf:草原狼
 steppe wolf:西伯利亚平原狼
+steppe wolves:草原狼
 steppe:草原
 stepped gable:馬頭牆
 stepped stone adze:有段石錛
@@ -20176,6 +20334,7 @@ stereotype means:刻板印象意味着
 stereotype phrase:刻板印象短语
 stereotype rather than:刻板印象而不是
 stereotype threat affects:成见威胁影响
+stereotype threat:刻板印象威胁
 stereotype threat:成见威胁
 stereotype whole:刻板印象整个
 stereotype you:刻板印象你
@@ -20222,6 +20381,7 @@ stern prime:斯特恩質數
 stern propeller:船尾螺旋桨
 stern provides:船尾提供
 stern review:斯特恩报告
+stern rudder:船尾舵
 stern sculling:艣
 stern set:船尾设置
 stern structure:船尾结构
@@ -20266,6 +20426,7 @@ steroid chemistry:甾体化学
 steroid drugs:甾体药物
 steroid hormone intermediate:甾体激素中间
 steroid hormone:甾体激素
+steroid metabolism:甾体代谢
 steroid:甾体
 steroidogenic enzyme:类固醇生成酶
 sterol and heart disease:固醇和心脏病
@@ -20325,6 +20486,7 @@ stetter reaction:施泰特尔反应
 stetteria:斯特氏菌属
 stettfeld:施泰特费尔德
 stettfurt:施泰特富特
+stettin lagoon:什切青潟湖
 stettin:什切青
 stettino:什切青
 stettinum:什切青
@@ -20581,6 +20743,7 @@ stevens pass ski area:史蒂文斯山口滑雪场
 stevens rearrangement:斯蒂文斯重排反应
 stevens road:史蒂芬路
 stevens rock:史蒂文斯岩
+stevens station:史蒂芬站
 stevens:史蒂芬
 stevenson bluff:史蒂文森海崖
 stevenson cove:史蒂文森灣
@@ -20610,6 +20773,8 @@ stewards youth centre kwong yuen centre:連青網絡廣源中心
 stewards:香港神託會
 stewardship theory:管家理论
 stewart adası:斯圖爾特島
+stewart airport:斯圖爾特機場
+stewart anderson:斯圖爾特安德森
 stewart county:斯圖爾特縣
 stewart glacier:斯圖爾特冰川
 stewart grand prix:斯图尔特车队
@@ -20617,6 +20782,7 @@ stewart heights:斯圖爾特高地
 stewart hills:斯圖爾特山
 stewart island:斯圖爾特島
 stewart lane:觀音亭後
+stewart park:斯圖爾特公園
 stewart platform:史都華平台
 stewart recently:斯圖爾特最近
 stewart road:史釗域道
@@ -20628,6 +20794,7 @@ stewart street:斯圖爾特街
 stewart tan seng teong:陈信中
 stewart terrace:十間
 stewart terrace:史超域台
+stewart township:斯圖爾特鎮區
 stewart uhartea:斯圖爾特島
 stewart's theorem:斯图尔特定理
 stewart-insulo:斯圖爾特島
@@ -22100,10 +22267,13 @@ stillehavet:太平洋
 stillo islet:斯蒂爾島
 stillorgan luas stop:斯蒂洛根站
 stillwater capital:斯蒂尔沃特首都
+stillwater county:斯蒂尔沃特县
+stillwater lake:斯蒂尔沃特湖
 stillwater news:斯蒂尔沃特新闻
 stillwater police:斯蒂尔沃特警察
 stillwater report:斯蒂尔沃特报告
 stillwater resident:斯蒂尔沃特居民
+stillwater river:斯蒂尔沃特河
 stillwater:斯蒂尔沃特
 stillwell hills:史迪威山
 stillwell island:斯蒂爾韋爾島
@@ -22495,14 +22665,23 @@ stirio:施泰尔马克州
 stiripentol:司替戊醇
 stirlin:史特靈
 stirlin:斯特靈
+stirling bridge:史特靈橋
 stirling castle:史特靈城堡
+stirling castle:斯特靈城堡
 stirling engine:斯特林发动机
+stirling engine:斯特靈发动机
+stirling engines:斯特靈发动机
 stirling fessenden:费信惇
+stirling formula:史特靈公式
+stirling formula:斯特靈公式
 stirling island:史特靈島
 stirling number:斯特林数
 stirling prize:史特靈獎
 stirling radioisotope generator:斯特林放射性同位素发电机
 stirling road:士他令道
+stirling station:斯特靈站
+stirling university:史特靈大學
+stirling university:斯特靈大學
 stirling's approximation:史特靈公式
 stirling:史特靈
 stirling:斯特靈
@@ -22779,6 +22958,7 @@ stock exchange welcome:证券交易所欢迎
 stock exchange year book from:证券交易所年书从
 stock exchange year:证券交易所年
 stock exchange:布鲁塞尔证券交易所
+stock exchange:股票交换
 stock exchange:股票交易所
 stock exchange:证券交易所
 stock experts:股票专家
@@ -22958,6 +23138,7 @@ stock market will:股票市场会
 stock market without:股票市场没有
 stock market would:股票市场将
 stock market:股票市场
+stock markets:股票市场
 stock means:股票意味着
 stock means:股票意味著
 stock merge:股票合并
@@ -23178,6 +23359,7 @@ stockholbma:斯德哥爾摩
 stockholm after:斯德哥尔摩后
 stockholm against:斯德哥尔摩反对
 stockholm agreement:斯德哥尔摩协议
+stockholm airport:斯德哥尔摩机场
 stockholm airport:斯德哥爾摩機場
 stockholm all:斯德哥尔摩全部
 stockholm also hopes:斯德哥尔摩也希望
@@ -23228,7 +23410,10 @@ stockholm can expect:斯德哥尔摩可以期待
 stockholm cancer:斯德哥尔摩癌症
 stockholm card:斯德哥尔摩卡
 stockholm castle:斯德哥尔摩城堡
+stockholm cathedral:斯德哥尔摩主教座堂
 stockholm cathedral:斯德哥尔摩大教堂
+stockholm cathedral:斯德哥爾摩主教座堂
+stockholm cathedral:斯德哥爾摩大教堂
 stockholm central station:斯德哥爾摩中央車站
 stockholm centre:斯德哥尔摩中心
 stockholm challenge awards:斯德哥尔摩挑战奖
@@ -23254,6 +23439,7 @@ stockholm commuter rail:斯德哥尔摩通勤铁路
 stockholm company:斯德哥尔摩公司
 stockholm concert hall and stockholm:斯德哥尔摩音乐厅和斯德哥尔摩
 stockholm concert hall:斯德哥尔摩音乐厅
+stockholm conference:斯德哥尔摩会议
 stockholm congress:斯德哥尔摩代表大会
 stockholm convention on persistent organic pollutants:斯德哥爾摩公約
 stockholm could:斯德哥尔摩能
@@ -23313,11 +23499,14 @@ stockholm metro station:斯德哥尔摩地铁站
 stockholm metro system:斯德哥尔摩地铁系统
 stockholm metro ticket:斯德哥尔摩地铁票
 stockholm metro:斯德哥尔摩地铁
+stockholm metro:斯德哥爾摩地铁
 stockholm model project:斯德哥尔摩模型项目
 stockholm model:斯德哥尔摩模型
+stockholm mosque:斯德哥爾摩清真寺
 stockholm municipality:斯德哥尔摩市镇
 stockholm music museum:斯德哥爾摩音樂博物館
 stockholm network:斯德哥尔摩网络
+stockholm observatory:斯德哥尔摩天文台
 stockholm observatory:斯德哥爾摩天文台
 stockholm offer:斯德哥尔摩提供
 stockholm office:斯德哥尔摩办公室
@@ -23349,6 +23538,7 @@ stockholm school of economics:斯德哥尔摩经济学院
 stockholm school:斯德哥尔摩学校
 stockholm skavsta airport:斯德哥爾摩斯卡夫斯塔機場
 stockholm socialist:斯德哥尔摩社会主义者
+stockholm stadium:斯德哥爾摩體育場
 stockholm statement:斯德哥尔摩声明
 stockholm statement:斯德哥尔摩陈述
 stockholm stock exchange building:斯德哥尔摩证券交易所大楼
@@ -23356,11 +23546,14 @@ stockholm street:斯德哥尔摩街
 stockholm studio:斯德哥尔摩工作室
 stockholm summer:斯德哥尔摩夏季
 stockholm sweden temple:瑞典斯德哥尔摩圣殿
+stockholm syndrome:斯德哥尔摩症候群
+stockholm syndrome:斯德哥尔摩综合症
 stockholm syndrome:斯德哥爾摩症候群
 stockholm terror:斯德哥尔摩恐怖
 stockholm time:斯德哥尔摩时间
 stockholm tour:斯德哥尔摩旅游
 stockholm township:斯德哥尔摩镇区
+stockholm township:斯德哥爾摩鎮區
 stockholm treaty:斯德哥尔摩条约
 stockholm truck:斯德哥尔摩卡车
 stockholm underground:斯德哥尔摩地下
@@ -23371,6 +23564,7 @@ stockholm university library management:斯德哥尔摩大学图书馆管理
 stockholm university scholar:斯德哥尔摩大学学者
 stockholm university was founded in:斯德哥尔摩大学成立于
 stockholm university:斯德哥尔摩大学
+stockholm university:斯德哥爾摩大學
 stockholm was founded in:斯德哥尔摩成立于
 stockholm water prize committee:斯德哥尔摩水奖委员会
 stockholm water prize:斯德哥尔摩水奖
@@ -23432,15 +23626,18 @@ stocksee:施托克塞
 stockstadt am main:美因河畔施托克施塔特
 stockstadt am rhein:莱茵河畔施托克施塔特
 stockton and darlington railway:斯托克頓和達靈頓鐵路
+stockton beach:斯托克顿海滩
 stockton chinese benevolent association:中国会馆
 stockton chinese benevolent association:中國會館
 stockton kings:史塔克頓國王
+stockton north:士德頓北
 stockton on tees:蒂斯河畔斯托克頓
 stockton peak:斯托克頓峰
 stockton street:市德頓街
 stockton trading co.:嘉华贸易公司
 stockton trading co.:嘉華貿易公司
 stockton university:斯托克頓大學
+stockton university:斯托克顿大学
 stockton-on-tees:蒂斯河畔斯托克頓
 stockton:史塔克頓
 stockton:士德頓
@@ -23451,6 +23648,7 @@ stockwell ghost:斯托克韦尔骚灵事件
 stockwell said:斯托克韦尔说
 stockwell says:斯托克韦尔说
 stockwell start:斯托克韦尔开始
+stockwell station:斯托克韦尔站
 stockwell street:斯托克韦尔街
 stockwell tube station:斯托克韋爾站
 stockwell:斯托克韦尔
@@ -23467,6 +23665,7 @@ stod gzigs:duīsuí xiāng
 stod gzigs:堆随乡
 stod yul:qiè lái
 stod yul:多油村
+stoddard county:斯托达德县
 stoddard even ask:斯托达德甚至问
 stoddard even:斯托达德甚至
 stoddard said:斯托达德说
@@ -23540,6 +23739,7 @@ stokkhólmur:斯德哥爾摩
 stokkolma:斯德哥尔摩
 stokkolma:斯德哥爾摩
 stokkseyri:斯托克塞里
+stokmarknes airport:斯托克馬克內斯機場
 stokmarknes:斯托克馬克內斯
 stokolm:斯德哥尔摩
 stokolm:斯德哥爾摩
@@ -23614,6 +23814,8 @@ stolzenfels castle:施托爾岑費爾斯城堡
 stoma bag:气孔袋
 stoma open:气孔打开
 stoma:气孔
+stomach acid:胃酸
+stomach adenocarcinoma:胃腺癌
 stomach after:胃后
 stomach already:胃已经
 stomach also need rest:胃也需要休息
@@ -23734,6 +23936,7 @@ stomach needs:胃需要
 stomach nerve:胃神经
 stomach no longer:胃不再
 stomach now:胃现在
+stomach oil:胃油
 stomach or back:胃或背
 stomach or blood:胃或血液
 stomach or duodenum:胃或十二指肠
@@ -24012,6 +24215,7 @@ stone floor:石头地板
 stone floor:石頭地板
 stone flounder:石鲽
 stone flower:石头花
+stone flower:石頭花
 stone forest scenic area tickets office:石林景区售票处
 stone forest tower:shílín tǎ
 stone forest tower:石林塔
@@ -24188,6 +24392,7 @@ stone ridge community health service center:石柱嶺社區衛生服務中心
 stone rise:二百昊
 stone risk:石头风险
 stone river:石头河
+stone river:石頭河
 stone road:石头路
 stone roads:石头路
 stone roof:石头屋顶
@@ -24234,6 +24439,7 @@ stone snake head:石头蛇头
 stone snake:石头蛇
 stone so:石头如此
 stone soldier:石头士兵
+stone soup:石头汤
 stone soup:石頭湯
 stone sour:石酸乐队
 stone sphere:石头球
@@ -24241,12 +24447,14 @@ stone spheres of costa rica:哥斯達黎加巨型石球
 stone standing buddha triad in eumnae-ri, cheongyang:靑陽 邑內里 石造如來三尊立像
 stone standing buddhas in godo-ri, iksan:益山 古都里 石造如来立像
 stone start:石头开始
+stone station:石头站
 stone statue:石头雕像
 stone statue:石頭雕像
 stone still:石头仍然
 stone stopped:石头停止了
 stone store:石头商店
 stone street:石头街
+stone street:石頭街
 stone streets:石头街道
 stone streets:石頭街道
 stone structure:石头结构
@@ -24261,6 +24469,7 @@ stone take:石头取
 stone tank:石头坦克
 stone tape theory:地縛靈
 stone technology:石头技术
+stone technology:石头科技
 stone temple:石头庙
 stone temple:石头神庙
 stone ten:石头十
@@ -24531,6 +24740,7 @@ stop before:停止之前
 stop behavior:停止行为
 stop behavior:停止行為
 stop beijing:停止北京
+stop bit:停止位元
 stop biting:停止啃咬
 stop black-and-white:停止黑白
 stop bleeding:停止出血
@@ -25705,6 +25915,7 @@ storbritanniens honorärkonsulat:英国名誉领事馆
 storbritanniens konsulat:英国领事馆
 storbritanniens vice konsulat:英国副领事馆
 storchenturm:鹳雀楼
+stord airport:斯圖爾機場
 stord:斯圖爾
 stordal:斯圖達爾
 store a block:商店一块
@@ -26245,6 +26456,7 @@ storm damage control:风暴损害控制
 storm damage:风暴损坏
 storm damage:风暴损害
 storm daniel:熱帶風暴丹尼爾
+storm daniel:风暴丹尼尔
 storm data:风暴数据
 storm death:风暴死亡
 storm demand:风暴需求
@@ -26325,6 +26537,7 @@ storm looks like:风暴看起来像
 storm loss:风暴损失
 storm management:风暴管理
 storm map:风暴地图
+storm master:风暴大师
 storm mastery:风暴掌握
 storm means:风暴意味着
 storm meeting:风暴会议
@@ -26430,6 +26643,7 @@ storm then:风暴然后
 storm this:风暴这
 storm threat:风暴威胁
 storm threats:风暴威胁
+storm tide:风暴潮
 storm top height:风暴顶部高度
 storm top:风暴顶部
 storm type:风暴类型
@@ -26473,6 +26687,7 @@ stornara:斯托尔纳拉
 stornarella:斯托尔纳雷拉
 stornes peninsula:斯托爾內斯半島
 stornoway airport:斯托诺韦机场
+stornoway airport:斯托诺韦機場
 stornoway:斯托诺韦
 stornubben:斯圖努本峰
 stornupen peak:斯托爾努彭峰
@@ -26884,6 +27099,7 @@ story lack:故事缺乏
 story lady:故事女士
 story length:故事长度
 story like:故事喜欢
+story line:故事线
 story links:故事链接
 story list:故事列表
 story log:故事日志
@@ -27062,6 +27278,7 @@ story still:故事仍然
 story street:故事街道
 story strengthen:故事加强
 story structure:叙事结构
+story structure:故事结构
 story studio:故事工作室
 story submission:故事提交
 story subtitles:故事字幕
@@ -27079,6 +27296,7 @@ story template:故事模板
 story ten:故事十
 story the little prince:故事小王子
 story theater:故事剧场
+story theatre:故事剧场
 story theme:故事主题
 story theory:故事理論
 story theory:故事理论
@@ -27308,6 +27526,7 @@ stove experts emphasize:灶专家强调
 stove experts:灶专家
 stove explosion:灶爆炸
 stove fire:灶火
+stove king:灶王
 stove performance:灶性能
 stove products:灶产品
 stove reduce:灶减少
@@ -28062,7 +28281,10 @@ strasborgh:史特拉斯堡
 strasborgh:斯特拉斯堡
 strasbourg agreement concerning the international patent classification:國際專利分類斯特拉斯堡協定
 strasbourg agreement:斯特拉斯堡協定
+strasbourg airport:史特拉斯堡机场
 strasbourg airport:史特拉斯堡機場
+strasbourg airport:斯特拉斯堡机场
+strasbourg airport:斯特拉斯堡機場
 strasbourg and basel:斯特拉斯堡和巴塞尔
 strasbourg and brussels:斯特拉斯堡和布鲁塞尔
 strasbourg and cambridge:斯特拉斯堡和剑桥
@@ -28070,7 +28292,9 @@ strasbourg and prague:斯特拉斯堡和布拉格
 strasbourg and rouen:斯特拉斯堡和鲁昂
 strasbourg and san:斯特拉斯堡和圣
 strasbourg and stuttgart:斯特拉斯堡和斯图加特
+strasbourg cathedral:史特拉斯堡主教座堂
 strasbourg cathedral:斯特拉斯堡主教座堂
+strasbourg cathedral:斯特拉斯堡大教堂
 strasbourg centre:斯特拉斯堡中心
 strasbourg city centre:斯特拉斯堡市中心
 strasbourg colleague:斯特拉斯堡同事
@@ -28091,11 +28315,16 @@ strasbourg market:斯特拉斯堡市场
 strasbourg museum of modern and contemporary art:斯特拉斯堡現代藝術博物館
 strasbourg my love:斯特拉斯堡我的爱
 strasbourg my:斯特拉斯堡我的
+strasbourg observatory:史特拉斯堡天文台
+strasbourg observatory:斯特拉斯堡天文台
 strasbourg office:斯特拉斯堡办公室
 strasbourg opera house:斯特拉斯堡歌剧院
+strasbourg station:斯特拉斯堡站
 strasbourg team:斯特拉斯堡团队
 strasbourg tournament:斯特拉斯堡锦标赛
 strasbourg train station:斯特拉斯堡火车站
+strasbourg university:史特拉斯堡大學
+strasbourg university:斯特拉斯堡大学
 strasbourg university:斯特拉斯堡大學
 strasbourg urban area:斯特拉斯堡市区
 strasbourg ville station:斯特拉斯堡城站
@@ -28110,6 +28339,10 @@ strasbourg:斯特拉斯堡
 strasburc:史特拉斯堡
 strasburc:斯特拉斯堡
 strasburg in westpreußen:布罗德尼茨
+strasburg railroad:斯特拉斯堡鐵路
+strasburg university:史特拉斯堡大學
+strasburg university:斯特拉斯堡大学
+strasburg university:斯特拉斯堡大學
 strasburg-1:斯特拉斯堡-1
 strasburg-2:斯特拉斯堡-2
 strasburg-3:斯特拉斯堡-3
@@ -28186,6 +28419,9 @@ strasbūras:斯特拉斯堡
 strass im zillertal:齐勒谷地施特拉斯
 strassborg:史特拉斯堡
 strassborg:斯特拉斯堡
+strassburg university:史特拉斯堡大學
+strassburg university:斯特拉斯堡大学
+strassburg university:斯特拉斯堡大學
 strassburg-1:斯特拉斯堡-1
 strassburg-2:斯特拉斯堡-2
 strassburg-3:斯特拉斯堡-3
@@ -30457,7 +30693,10 @@ strategy function:策略功能
 strategy fund:战略基金
 strategy fund:策略基金
 strategy game offer:策略游戏提供
+strategy game:战略游戏
 strategy game:策略游戏
+strategy games:战略游戏
+strategy games:策略游戏
 strategy genre:战略风格
 strategy give:战略给
 strategy global:策略全球
@@ -30587,6 +30826,7 @@ strategy looks like:战略看起来像
 strategy loss:战略损失
 strategy magazine:战略杂志
 strategy management should be:策略管理应该成为
+strategy management:战略管理
 strategy management:策略管理
 strategy manager:战略经理
 strategy manager:策略经理
@@ -30952,6 +31192,7 @@ strath point:斯特拉思角
 strathearn stop:斯特拉森站
 strathfield massacre:史卓菲大屠杀
 strathfield railway station:史卓菲站
+strathfield station:史卓菲站
 strathfield:史卓菲
 strathyre:斯特拉西爾
 stratified columnar epithelium:複層柱狀上皮
@@ -31134,6 +31375,7 @@ strawberry ice cream day:草莓冰淇淋日
 strawberry ice cream:草莓冰淇淋
 strawberry ice cubes:草莓冰块
 strawberry ice:草莓冰
+strawberry jam:草莓果醬
 strawberry juice and orange juice:草莓汁和橙汁
 strawberry juice:草莓汁
 strawberry legs:草莓腿
@@ -31146,6 +31388,7 @@ strawberry marshmallow:草莓棉花糖
 strawberry milk:草莓牛奶
 strawberry milkshake:草莓奶昔
 strawberry moon:草莓月亮
+strawberry mountain:草莓山
 strawberry music:草莓音乐
 strawberry nose:草莓鼻
 strawberry nose:草莓鼻子
@@ -31162,6 +31405,7 @@ strawberry professional committee:草莓专业委员会
 strawberry professional:草莓专业
 strawberry recipe:草莓食谱
 strawberry river:草莓河
+strawberry road:草莓路
 strawberry rose birthmark:草莓玫瑰胎记
 strawberry rose:草莓玫瑰
 strawberry run:草莓跑
@@ -31173,6 +31417,7 @@ strawberry series:草莓系列
 strawberry shortcake:草莓奶油蛋糕
 strawberry slice:草莓切片
 strawberry spring:草莓之春
+strawberry swing:草莓秋千
 strawberry tomato:草莓番茄
 strawberry tongue:草莓舌
 strawberry top:草莓顶部
@@ -31397,6 +31642,7 @@ stream batteries:流电池
 stream battery:流电池
 stream beauty:流美
 stream bed:河床
+stream bed:流床
 stream beef:流牛肉
 stream beer brands:流啤酒品牌
 stream beer enterprises:流啤酒企业
@@ -31480,6 +31726,7 @@ stream cinema:流电影院
 stream cipher uses three:流密码使用三
 stream cipher uses:流密码使用
 stream cipher:流密码
+stream cipher:流密碼
 stream cities:流城市
 stream citizen:流公民
 stream class:流类
@@ -33012,6 +33259,7 @@ street energy:街能源
 street english:街英语
 street enterprise:街企业
 street enterprises:街企业
+street enterprises:街道企业
 street entertainment:街娱乐
 street environment:街道环境
 street especially:街尤其
@@ -33070,6 +33318,7 @@ street from:街从
 street from:街道从
 street fund:街基金
 street furniture:街道傢具
+street furniture:街道家具
 street gallery:街画廊
 street game:街头游戏
 street game:街游戏
@@ -33190,6 +33439,7 @@ street lever:街杠杆
 street library:街图书馆
 street life:街道生活
 street light:街燈
+street lighting:街道照明
 street like:街喜欢
 street line:街线
 street line:街道线
@@ -33366,6 +33616,7 @@ street project:街道项目
 street project:街项目
 street projects:街道项目
 street prostitute:站街女
+street prostitute:街妓
 street prostitution:街妓
 street protest:街抗議
 street protest:街抗议
@@ -33379,6 +33630,7 @@ street publishing:街出版
 street pump:街泵
 street punk:街頭龐克
 street racing:飆車族
+street railroad:街道铁路
 street railway bridge:街铁路桥
 street railway company:街铁路公司
 street railway:街道铁路
@@ -34080,6 +34332,7 @@ strength too:力量也
 strength train:力量训练
 strength training novice:力量訓練新手
 strength training:力量訓練
+strength training:力量训练
 strength trying:力量试图
 strength until:力量直到
 strength use:力量使用
@@ -35268,6 +35521,7 @@ stress asset:压力资产
 stress assistance:压力援助
 stress at home:压力在家里
 stress attenuation:压力衰减
+stress ball:压力球
 stress ball:壓力球
 stress bar:压力条
 stress be:压力成为
@@ -38575,6 +38829,7 @@ structure systems:结构系统
 structure teach:结构教
 structure technology:结构技术
 structure temperature:结构温度
+structure tensor:结构张量
 structure test:结构测试
 structure testing:结构测试
 structure than atom:结构比原子
@@ -38685,6 +38940,7 @@ strudel:果餡卷
 strudlhofstiege:斯特鲁德霍夫阶梯
 struer municipality:斯楚厄市鎮
 struer railway station:斯楚厄站
+struga dialect:斯特鲁加方言
 struga municipality:斯特魯加市鎮
 struga poetry:斯特鲁加诗歌
 struga:斯特鲁加
@@ -38718,6 +38974,7 @@ struggle or conflict:奋斗或冲突
 struggle process:奋斗过程
 struggle session:批鬥
 struggle spirit:奋斗精神
+struggle street:奋斗街道
 struggle through this:奋斗通过这
 struggle through:奋斗通过
 struggle to success:奋斗到成功
@@ -38795,6 +39052,7 @@ stryd nguyen thai hoc:阮太学街
 stryd tran phu:陈富街
 stryi raion:斯特雷区
 stryi raion:斯特雷區
+stryi river:斯特雷河
 stryi:斯特雷
 stryieva:斯特里耶瓦
 stryivka:斯特里伊夫卡
@@ -38816,6 +39074,7 @@ strymivshchyna:斯特里米夫希納
 strymivštšyna:斯特里米夫希納
 strymivščyna:斯特里米夫希納
 strymiwschtschyna:斯特里米夫希納
+strymon river:斯特里蒙河
 strymon:斯特里蒙
 strymonian gulf:斯特里蒙湾
 strynzelbach:施特林采爾巴赫河
@@ -38927,6 +39186,7 @@ stuart point:斯圖爾特角
 stuart restoration:斯图亚特王朝复辟
 stuart royal family:斯图亚特王室
 stuart said:斯图亚特说
+stuart sapphire:斯图亚特蓝宝石
 stuart school:斯图亚特学校
 stuart township:斯图尔特镇区
 stuart was called:斯图亚特被称为
@@ -39065,6 +39325,7 @@ student age:学生年龄
 student aged:学生年龄
 student agree:学生同意
 student agreement:学生协议
+student aid:学生帮助
 student alex:学生亚历克斯
 student alexander:学生亚历山大
 student alfred:学生阿尔弗雷德
@@ -39690,6 +39951,7 @@ student family:学生家庭
 student farm workers:学生农场工人
 student farm:学生农场
 student fate:学生命运
+student federation:学生联盟
 student fee:学生费用
 student feedback and expert:学生反馈与专家
 student feedback:学生反馈
@@ -40252,6 +40514,7 @@ student publish:学生发表
 student pull:学生拉
 student purchase:学生购买
 student push:学生推
+student quarters:学生宿舍
 student questions:学生问题
 student race:学生种族
 student radical:学生激进主义
@@ -40586,6 +40849,7 @@ student training:学生训练
 student transfer:学生传递
 student transfer:学生转学
 student transfer:学生转移
+student transport:学生运输
 student transport:接送学生
 student transportation:学生运输
 student travel card:学生旅行卡
@@ -45926,6 +46190,7 @@ study greek:研究希腊
 study green:研究绿色
 study groundwater:研究地下水
 study group:研究小組
+study guide:研究指引
 study gun:研究枪
 study gun:研究枪械
 study habit:学习习惯
@@ -46798,6 +47063,8 @@ study predict:研究预测
 study prediction:研究預測
 study prediction:研究预测
 study prepare:研究准备
+study press:学习出版社
+study press:研究出版社
 study pressure:学习压力
 study price:研究价格
 study principal investigator:研究首席研究员
@@ -47077,6 +47344,7 @@ study skills:学习技巧
 study skills:学习技能
 study skills:學習技巧
 study skills:研究技巧
+study skills:研究技术
 study skills:研究技能
 study sleep:研究睡眠
 study smartphone and social media:研究智能手机和社交媒体
@@ -47702,6 +47970,7 @@ sturgeon:鱘科
 sturgis hopes:斯特吉斯希望
 sturgis motorcycle rally:斯特吉斯摩托车集会
 sturgis says:斯特吉斯说
+sturgis township:斯特吉斯鎮區
 sturgis:斯特吉斯
 sturisoma barbatum:鬚鱘身鯰
 sturisoma brevirostre:短吻鱘身鯰
@@ -47741,6 +48010,7 @@ sturnus:椋鳥屬
 sturt highway:斯圖特高速公路
 sturt national park:斯圖爾特國家公園
 sturtian glaciation:斯图尔特冰期
+sturzelbronn abbey:什蒂策尔布龙修道院
 sturzelbronn:什蒂策尔布龙
 stust(3rd men's dorm):南台科技大学(第三男子宿舍)
 stust(3rd men's dorm):南臺科技大學(第三男子宿舍)
@@ -47776,6 +48046,8 @@ stuttflog glacier:斯圖特弗洛格冰川
 stuttfloget cliff:斯圖特弗洛格特崖
 stuttgart airport productivity:斯图加特机场生产率
 stuttgart airport:斯图加特机场
+stuttgart airport:斯圖加特机场
+stuttgart airport:斯圖加特機場
 stuttgart and jena:斯图加特和耶拿
 stuttgart and mainz:斯图加特和美因茨
 stuttgart and munich:斯图加特和慕尼黑
@@ -47817,6 +48089,7 @@ stuttgart media:斯图加特媒体
 stuttgart metropolitan region:斯圖加特大都市區
 stuttgart midfielder:斯图加特中场
 stuttgart museum:斯图加特博物馆
+stuttgart north:斯图加特北
 stuttgart office:斯图加特办公室
 stuttgart open:斯图加特网球公开赛
 stuttgart opera:斯图加特歌剧
@@ -47827,6 +48100,7 @@ stuttgart s bahn:斯图加特城市快铁
 stuttgart sales:斯图加特销售
 stuttgart solar energy center:斯图加特太阳能中心
 stuttgart solar energy:斯图加特太阳能
+stuttgart south:斯图加特南
 stuttgart sports car:斯图加特跑车
 stuttgart stadtbahn:司徒加特城鐵
 stuttgart state opera:斯图加特国家歌剧
@@ -47841,8 +48115,10 @@ stuttgart trade:斯图加特贸易
 stuttgart university and phoenix:斯图加特大学和菲尼克斯
 stuttgart university of applied sciences:斯图加特应用科学大学
 stuttgart university:斯图加特大学
+stuttgart university:斯圖加特大學
 stuttgart valley:斯图加特山谷
 stuttgart was established in:斯图加特成立于
+stuttgart west:斯图加特西
 stuttgart will become:斯图加特将成为
 stuttgart:斯图加特
 stuttgart:斯圖加特
@@ -48157,6 +48433,7 @@ style conversion:风格转换
 style coordination:风格协调
 style corner:风格角落
 style council:风格委员会
+style council:风格议会
 style courses:风格课程
 style create:风格创造
 style criticism:风格批判
@@ -48233,6 +48510,7 @@ style global:风格全球
 style guide provides:格式指南提供
 style guide series:格式指南系列
 style guide:格式指南
+style guide:风格指引
 style guitar:风格吉他
 style guitarist:风格吉他手
 style has been:风格已经
@@ -48678,6 +48956,7 @@ styrax paralleloneurus:苏岛安息香
 styrax:安息香属
 styrbordsknattane peaks:斯蒂博德斯克納塔內峰
 styrene acrylate:苯乙烯丙烯酸酯
+styrene acrylonitrile:苯乙烯丙烯腈
 styrene and acrylate:苯乙烯和丙烯酸酯
 styrene and polystyrene:苯乙烯和聚苯乙烯
 styrene block copolymer:苯乙烯块共聚物
@@ -48694,6 +48973,7 @@ styrene literature:苯乙烯文学
 styrene metal oxide:苯乙烯金属氧化物
 styrene molecules:苯乙烯分子
 styrene monomer:苯乙烯单体
+styrene oxide:苯乙烯氧化物
 styrene oxide:苯基环氧乙烷
 styrene production capacity:苯乙烯生产能力
 styrene production:苯乙烯生产
@@ -48711,6 +48991,7 @@ styrie:施泰尔马克州
 styrophyton:长穗花属
 styrė:斯特里河
 styx glacier:斯蒂克斯冰川
+styx river:斯堤克斯河
 styx:斯堤克斯
 styxosaurus:神河龍屬
 stàvropol:斯塔夫罗波尔

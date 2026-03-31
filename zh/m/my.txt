@@ -177,6 +177,7 @@ my amazon:我的亚马逊
 my ambassador:我的大使
 my ambitious and open:我的雄心勃勃和开
 my ambitious:我的雄心勃勃
+my ambulance:我的救護車
 my ambulance:爱的警报器
 my amendment would:我的修正案将
 my amendment:我的修正案
@@ -2649,6 +2650,7 @@ my diary series:我的日记系列
 my diary:我的日记
 my dick is so:我的迪克是如此
 my dick:我的迪克
+my dictator:我的獨裁者
 my dictionary:我的词典
 my difference:我的不同
 my difference:我的区别
@@ -5662,6 +5664,8 @@ my justice:我的正义
 my justice:我的正義
 my kanagawa institute of technology:我的神奈川工科大学
 my karate:我的空手道
+my kazakhstan:我的哈萨克斯坦
+my kazakhstan:我的哈薩克
 my keep:我的保持
 my kerosene:我的煤油
 my ketone:我的酮
@@ -6784,6 +6788,7 @@ my morning coffee:我的早晨咖啡
 my morning:我的早晨
 my morphine:我的吗啡
 my morris:我的莫里斯
+my moscow:我的莫斯科
 my mosque:我的清真寺
 my most important:我的最重要的
 my mother about:我的母亲关于
@@ -8529,6 +8534,7 @@ my representative:我的代表
 my representatives:我的代表
 my reproductive organ:我的生殖器官
 my reproductive system:我的生殖系统
+my republic:我的共和国
 my republican party:我的共和党
 my request and prayer:我的请求与祈祷
 my request:我的请求
@@ -8816,6 +8822,7 @@ my sanction:我的制裁
 my sanctuary:我的圣地
 my sanctuary:我的聖所
 my sand:我的沙
+my sandbox:我的沙盒
 my sandwich:我的三明治
 my santa claus:我的圣诞老人
 my sassy girl:我的野蛮女友
@@ -11040,6 +11047,7 @@ my wife you:我的妻子你
 my wife:我的妻子
 my wig:我的假发
 my wig:我的假髮
+my wiki:我的维基
 my wikipedia:我的维基百科
 my wildlife friend:我的野生动物朋友
 my wildlife friends:我的野生动物朋友
@@ -11059,6 +11067,7 @@ my wings and button:我的翅膀和按钮
 my wings:我的翅膀
 my winner:我的赢家
 my winnipeg:我的温尼伯
+my winnipeg:我的温尼伯湖
 my winter vacation:我的寒假
 my winter wedding series:我的冬季婚礼系列
 my winter:我的冬季
@@ -11179,6 +11188,7 @@ my working set:我的工作集
 my working-class:我的工人阶级
 my workplace:我的職場
 my workstation:我的工作站
+my world:我的世界
 my worry and stress:我的担心和压力
 my worry:我的担心
 my worry:我的擔心
@@ -11292,6 +11302,7 @@ myanima:缅甸
 myanimari:miǎndiàn
 myanimari:緬甸
 myanimari:缅甸
+myanma railway:缅甸铁路
 myanma:miǎndiàn
 myanma:緬甸
 myanma:缅甸
@@ -11323,9 +11334,11 @@ myanmar air force:缅甸空军
 myanmar airline:缅甸航空公司
 myanmar airways international:緬甸國際航空
 myanmar allow:缅甸允许
+myanmar alphabet:緬甸字母
 myanmar already:缅甸已经
 myanmar also known as:缅甸也被称为
 myanmar always:缅甸总是
+myanmar amber:緬甸琥珀
 myanmar amber:缅甸琥珀
 myanmar amnesty:缅甸大赦
 myanmar and afghanistan:缅甸和阿富汗
@@ -11448,6 +11461,7 @@ myanmar and vietnam:缅甸，越南
 myanmar and weapons of mass destruction:緬甸與大規模殺傷性武器
 myanmar and yemen:缅甸和也门
 myanmar and zimbabwe:缅甸和津巴布韦
+myanmar architecture:缅甸建筑
 myanmar armed forces:缅甸武装部队
 myanmar armed forces:缅甸部队
 myanmar army admitted:缅甸军队承认
@@ -11485,6 +11499,8 @@ myanmar border:缅甸边
 myanmar border:缅甸边界
 myanmar brand:缅甸品牌
 myanmar brothel:缅甸妓院
+myanmar buddhism:緬甸佛教
+myanmar buddhism:缅甸佛教
 myanmar buddhist:缅甸佛教徒
 myanmar building:缅甸建筑
 myanmar business confidence:缅甸商业信心
@@ -11540,6 +11556,7 @@ myanmar customers:缅甸客户
 myanmar customs:缅甸海关
 myanmar democracy:缅甸民主
 myanmar despite:缅甸尽管
+myanmar earthquake:緬甸地震
 myanmar education college:缅甸教育学院
 myanmar educational research:缅甸教育研究
 myanmar educator:缅甸教育家
@@ -11605,6 +11622,7 @@ myanmar government spokesperson:缅甸政府发言人
 myanmar government usually:缅甸政府通常
 myanmar government will:缅甸政府会
 myanmar government would:缅甸政府将
+myanmar government:緬甸政府
 myanmar government:缅甸政府
 myanmar green energy:缅甸绿色能源
 myanmar green:缅甸绿色
@@ -11615,6 +11633,7 @@ myanmar has enough resources:缅甸有足够的资源
 myanmar has three:缅甸有三
 myanmar head coach:缅甸主教练
 myanmar hero:缅甸英雄
+myanmar history:缅甸历史
 myanmar hopes:缅甸希望
 myanmar hotel:缅甸酒店
 myanmar human rights:缅甸人权
@@ -11657,6 +11676,8 @@ myanmar kill:缅甸杀
 myanmar kyat:缅甸元
 myanmar lack:缅甸缺乏
 myanmar land:缅甸陆地
+myanmar language:緬甸語言
+myanmar language:缅甸语言
 myanmar law:缅甸法律
 myanmar laws:缅甸法律
 myanmar legal aid:缅甸法律援助
@@ -11673,7 +11694,10 @@ myanmar meetings:缅甸会议
 myanmar military and border:缅甸军事和边
 myanmar military government:缅甸军政府
 myanmar military training:缅甸军事训练
+myanmar military:緬甸军事
+myanmar military:緬甸軍隊
 myanmar military:缅甸军事
+myanmar military:缅甸军队
 myanmar minister:缅甸部长
 myanmar monk:缅甸僧侣
 myanmar monkey:缅甸猴
@@ -11691,6 +11715,7 @@ myanmar national truth and justice party:缅甸民族正义党
 myanmar nationality law:緬甸公民法
 myanmar nationality:缅甸国籍
 myanmar natural gas:缅甸天然气
+myanmar navy:緬甸海军
 myanmar navy:缅甸海军
 myanmar need:缅甸需要
 myanmar needs:缅甸需要
@@ -11737,6 +11762,8 @@ myanmar power investment:缅甸电力投资
 myanmar power:缅甸电力
 myanmar premier league:缅甸足球甲级联赛
 myanmar prepare:缅甸准备
+myanmar president:緬甸总统
+myanmar president:缅甸总统
 myanmar prison:缅甸监狱
 myanmar produce:缅甸生产
 myanmar products:缅甸产品
@@ -11810,6 +11837,7 @@ myanmar support:缅甸支持
 myanmar sustainable development plan:缅甸可持续发展计划
 myanmar sustainable development:缅甸可持续发展
 myanmar tamils:緬甸泰米爾人
+myanmar tamils:缅甸泰米尔人
 myanmar teacher:缅甸教师
 myanmar teak:缅甸柚木
 myanmar team:缅甸团队
@@ -11879,16 +11907,19 @@ myasthenia gravis:重症肌無力
 myatown:麦芽堂
 myauk(north) guni phaya:myauk guni phaya妙古尼
 myaundzha:米亚温贾
+myaung township:苗鎮區
 myaung township:苗镇区
 myaung:苗
 myaung:苗镇区
 myaungmya district:渺彌亞縣
 myaungmya township:渺弥亚镇区
 myaungmya:渺弥亚县
+myawaddy bank:妙瓦底銀行
 myawaddy district:妙瓦底县
 myawaddy district:苗瓦迪縣
 myawaddy township:妙瓦底镇区
 myawaddy township:苗瓦迪鎮區
+myawaddy township:苗瓦迪镇区
 myawaddy:妙瓦底
 myawaddy:苗瓦迪
 myazedi inscription:妙齐提碑
@@ -11984,6 +12015,7 @@ mycoporaceae:圆孔衣科
 mycoremediation:真菌修復
 mycoreovirus:真菌呼腸孤病毒屬
 mycorrhaphium:针刺菌属
+mycorrhiza fungi:菌根真菌
 mycorrhiza:菌根
 mycorrhizal network:菌根网络
 mycosphaerella:球腔菌屬
@@ -12028,9 +12060,11 @@ myebon township:弥蓬镇区
 myebon township:彌蓬鎮區
 myebon:弥蓬
 myeik airport:丹老機場
+myeik archipelago:丹老群島
 myeik dialect:丹老方言
 myeik district:丹老县
 myeik district:丹老縣
+myeik township:丹老鎮區
 myeik township:丹老镇区
 myeik:丹老
 myelat:米耶莱
@@ -12087,6 +12121,7 @@ myeongdeok-dong:明德洞
 myeongdong cathedral:明洞主教座堂
 myeongdong cathedral:明洞天主教堂
 myeongdong kyoja:明洞餃子
+myeongdong station:明洞站
 myeongdong:明洞
 myeonghak station:鳴鶴站
 myeonghak-ri:鳴鶴里
@@ -12225,6 +12260,7 @@ myitkyina news:密支那新闻
 myitkyina prison:密支那监狱
 myitkyina railroad:密支那铁路
 myitkyina railway station:密支那車站
+myitkyina township:密支那鎮區
 myitkyina township:密支那镇区
 myitkyina:密支那
 myitkyina:密支那县
@@ -12233,10 +12269,12 @@ myitnge river:密埃河
 myitnge river:米界河
 myitsone dam:密松水电站
 myitta:密达
+myittha river:密沙河
 myittha township:密沙鎮區
 myittha township:密沙镇区
 myittha:密沙
 myjava district:米亞瓦區
+myjava river:米亞瓦河
 myjava:米亞瓦
 mykal shopping center:天兴罗斯福
 mykene:迈锡尼
@@ -12275,8 +12313,11 @@ mykolaiv (tỉnh):尼古拉耶夫州
 mykolaiv airport:尼古拉耶夫機場
 mykolaiv cluster bombing:尼古拉耶夫集束炸弹轰炸
 mykolaiv oblast:尼古拉耶夫州
+mykolaiv observatory:尼古拉耶夫天文台
+mykolaiv province:尼古拉耶夫省
 mykolaiv railway station:尼古拉耶夫車站
 mykolaiv raion:尼古拉耶夫區
+mykolaiv shipyard:尼古拉耶夫造船厂
 mykolaiv:尼古拉耶夫
 mykolaiv:米科拉伊夫
 mykolaiveko oblasta:尼古拉耶夫州
@@ -12499,6 +12540,7 @@ myonggan-ch'on:明涧川
 myonggan-ch'on:明澗川
 myonggan-up:明涧邑
 myonggan-up:明澗邑
+myonggo station:鳴皋站
 myonggo station:鸣皋站
 myonggo:鳴皋
 myonggo:鸣皋
@@ -12933,6 +12975,7 @@ mysophobia:洁癖
 mysore and chennai:迈索尔和金奈
 mysore district:邁索爾縣
 mysore government:迈索尔政府
+mysore kingdom:迈索尔王国
 mysore means:迈索尔意味着
 mysore pak:邁索爾甜點
 mysore palace:迈索尔王宫
@@ -13121,6 +13164,7 @@ mystical nature:神秘的大自然
 mystical nature:神秘的自然
 mystical neptune:神秘的海王星
 mystical new york city:神秘的纽约
+mystical night:神秘的夜
 mystical north:神秘的北
 mystical notebook:神秘的笔记本
 mystical number:神秘的数字
@@ -13230,6 +13274,7 @@ mystus nigriceps:黑頭鱯
 mystus pelusius:黏鱯
 mystus vittatus:條紋鱯
 mystus:鳠属
+mysuru university:迈索尔大学
 mysuru:迈索尔
 mysy:米西
 myszyniec:梅希涅茨
@@ -13305,6 +13350,7 @@ myth rather than:神话而不是
 myth say:神话说
 myth says a black hole:神话说一个黑洞
 myth says:神话说
+myth series:神话系列
 myth so:神话如此
 myth still:神话仍然
 myth story:神话故事

@@ -277,6 +277,7 @@ cuba change:古巴改变
 cuba children:古巴儿童
 cuba cigar:古巴雪茄
 cuba coast:古巴海岸
+cuba cola:古巴可乐
 cuba comment:古巴评论
 cuba company:古巴公司
 cuba complete:古巴完成
@@ -532,6 +533,7 @@ cuban brand name:古巴品牌名字
 cuban brand:古巴品牌
 cuban brands:古巴品牌
 cuban bread:古巴面包
+cuban bread:古巴麵包
 cuban broadcasting:古巴广播
 cuban business news:古巴商业新闻
 cuban business:古巴商业
@@ -604,6 +606,7 @@ cuban convertible peso:古巴可兑换比索
 cuban corporation:古巴公司
 cuban council of state:古巴国务委员会
 cuban crisis:古巴危机
+cuban crisis:古巴危機
 cuban crocodile:古巴鱷
 cuban crow:古巴鸦
 cuban cuisine:古巴飲食
@@ -645,6 +648,7 @@ cuban education:古巴教育
 cuban election:古巴选举
 cuban elections:古巴选举
 cuban elite:古巴精英
+cuban embargo:古巴禁運
 cuban embassy employees:古巴大使馆员工
 cuban embassy:古巴大使馆
 cuban emerald:古巴翠蜂鸟
@@ -680,6 +684,7 @@ cuban fields:古巴领域
 cuban film director:古巴电影导演
 cuban film festival:古巴电影节
 cuban film:古巴电影
+cuban films:古巴电影
 cuban finance minister:古巴财政部长
 cuban find:古巴的发现
 cuban fisherman:古巴渔夫
@@ -756,6 +761,7 @@ cuban hotel:古巴酒店
 cuban human rights activist:古巴的人权活动家
 cuban human rights:古巴的人权
 cuban hummingbird:古巴蜂鸟
+cuban hutia:古巴硬毛鼠
 cuban identity card:古巴身份证
 cuban immigrants:古巴移民
 cuban immigration:古巴人移民
@@ -768,6 +774,7 @@ cuban institute:古巴研究所
 cuban institutions:古巴机构
 cuban insurance companies:古巴保險公司
 cuban insurance:古巴保險
+cuban insurrection:古巴起义
 cuban intellectuals:古巴知识分子
 cuban intelligence officer:古巴情报官员
 cuban internet:古巴的互联网
@@ -825,6 +832,7 @@ cuban military transparency:古巴军事透明
 cuban military:古巴军事
 cuban military:古巴军队
 cuban military:古巴的军事
+cuban military:古巴軍隊
 cuban ministry of foreign affairs:古巴外交部
 cuban missile base:古巴导弹基地
 cuban missile crisis end:古巴导弹危机结束
@@ -900,6 +908,7 @@ cuban political prisoner:古巴的政治犯
 cuban politician:古巴政治人物
 cuban politics:古巴政治
 cuban popular music:古巴流行音乐
+cuban population:古巴人口
 cuban port:古巴港口
 cuban portrait:古巴肖像
 cuban presence:古巴的存在
@@ -973,6 +982,7 @@ cuban said:古巴说
 cuban sanctions laws:古巴制裁法律
 cuban sanctions:古巴制裁
 cuban sandwich:古巴三文治
+cuban sandwich:古巴三明治
 cuban schools:古巴学校
 cuban schools:古巴的学校
 cuban science:古巴科学
@@ -1028,6 +1038,7 @@ cuban sugar:古巴的糖
 cuban sugar:古巴糖
 cuban support:古巴支持
 cuban surfing:古巴衝浪
+cuban team:古巴队
 cuban telecommunications corporation:古巴电信公司
 cuban telecommunications monopoly:古巴电信垄断
 cuban telecommunications:古巴电信
@@ -1430,6 +1441,7 @@ cuenca cathedral:昆卡主教座堂
 cuenca de aguas residuales:污水盆
 cuenca de campos:昆卡德坎波斯
 cuenca foxe:福克斯湾
+cuenca province:昆卡省
 cuenca tidal:潮汐潭
 cuenca:昆卡
 cuenshe police station:春社派出所
@@ -1700,6 +1712,7 @@ cuigezhai'ercun:崔各寨二村
 cuigezhai:崔各寨
 cuigezhaicun:崔各寨村
 cuigezhaiyicun:崔各寨一村
+cuigezhuang area:崔各庄地区
 cuigezhuang station:崔各庄站
 cuigezhuang:cuīgèzhuāng
 cuigezhuang:崔各庄
@@ -1734,6 +1747,7 @@ cuiheng n.yugang rd.:翠亨北渔港路口
 cuiheng n.yugang rd.:翠亨北漁港路口
 cuiheng north road:翠亨北路
 cuiheng road:翠亨路
+cuiheng village:翠亨村
 cuiheng:翠亨
 cuiheng:翠亨村
 cuihong road:翠虹路
@@ -2168,6 +2182,7 @@ cuiyucun:崔峪村
 cuiyuecun:崔岳村
 cuiyuehu:翠月湖
 cuiyun park:翠云公园
+cuiyun station:翠云站
 cuiyun station:翠雲站
 cuiyun:cuìyún
 cuiyun:cuìyún jiēdào
@@ -3339,6 +3354,7 @@ cultural label:文化的标签
 cultural labor:文化的劳动力
 cultural laboratory:文化的实验室
 cultural landmark:文化的地标
+cultural landscape:文化的景观
 cultural language:文化的语言
 cultural learning and understanding:文化的学习和理解
 cultural learning community:文化的学习社区
@@ -4404,6 +4420,7 @@ culture create:文化创造
 culture creation:文化创造
 culture crises:文化危机
 culture crisis:文化危机
+culture critic:文化評論家
 culture critic:文化评论家
 culture criticism:文化批评
 culture critique:文化批判
@@ -4514,6 +4531,7 @@ culture history and literature:文化历史与文学
 culture history:文化历史
 culture hong kong foundation:文化香港基金
 culture hong kong:文化香港
+culture house:文化住宅
 culture i:文化我
 culture impact:文化影响
 culture impacts:文化影响
@@ -4936,10 +4954,12 @@ culture over the past:文化在过去的
 culture overlap:文化重叠
 culture overseas:文化海外
 culture page:文化页
+culture palace:文化宮殿
 culture paper:文化纸
 culture paradigm:文化范式
 culture park:成都市文化公园
 culture park:文化公园
+culture park:文化公園
 culture pattern:文化模式
 culture perfect:文化完美
 culture performance:文化表演
@@ -5065,6 +5085,7 @@ culture strategy:文化战略
 culture strategy:文化策略
 culture street:文化街
 culture structure:文化结构
+culture studies:文化研究
 culture studio:文化工作室
 culture style:文化风格
 culture sub:文化子
@@ -5248,6 +5269,7 @@ cuma road 3rd section:簇马路三段
 cumaan:Āmàn
 cumaan:阿曼
 cumacea:涟虫目
+cumae alphabet:庫邁字母
 cumae:庫邁
 cuman language:庫曼語
 cumana:庫馬納
@@ -5279,17 +5301,21 @@ cumberland island national seashore is located in:坎伯兰岛国家海岸位于
 cumberland island national seashore:坎伯兰岛国家海岸
 cumberland lodge:坎伯兰小屋
 cumberland plateau:坎伯兰高原
+cumberland plateau:坎伯蘭高原
 cumberland presbyterian church kowloon:金巴崙長老會九龍堂
 cumberland presbyterian church yao dao secondary school:金巴崙長老會耀道中學
 cumberland presbyterian church:金巴仑长老会
 cumberland river:坎伯兰河
+cumberland river:坎伯蘭河
 cumberland road:金巴倫道
 cumberland road:雅息士道
 cumberland school of law:康伯兰法学院
 cumberland snubnose darter:坎伯蘭鏢鱸
 cumberland terrace:坎伯兰联排
+cumberland university:坎伯蘭大學
 cumberland west bay:昆伯蘭西灣
 cumberland:坎伯蘭
+cumbernauld airport:坎伯諾爾德機場
 cumbernauld:坎伯諾爾德
 cumbie glacier:坎比冰川
 cumbitara:昆比塔拉
@@ -5305,6 +5331,7 @@ cumbria decided:坎布里亚决定
 cumbria police:坎布里亚警察
 cumbria shootings:坎布里亚郡枪击案
 cumbria tourism:坎布里亚旅游
+cumbria university:坎布里亚大学
 cumbria:坎布里亚
 cumbria:坎布里亞郡
 cumbria:金巴倫郡
@@ -5500,6 +5527,9 @@ cunene-provinsie:庫內納省
 cunene:库内内区
 cunene:库内内省
 cunene:庫內納省
+cuneo airport:庫內奧機場
+cuneo province:库内奥省
+cuneo province:庫內奧省
 cuneo:库内奥
 cuneo:庫內奧
 cuneum:克林
@@ -6485,6 +6515,7 @@ cuptana island:庫普塔納島
 cupugou:醋铺沟
 cupão:古邦
 cuq toulza:屈克图尔扎
+cuqiao station:簇桥站
 cuqiao:簇桥
 cuqiao:簇桥街道
 cuqiao:簇橋街道
@@ -6707,11 +6738,14 @@ curie laboratory:居里实验室
 curie module:居里模块
 curie museum:居里博物馆
 curie of nickel:居里的镍
+curie point:居里点
+curie points:居里点
 curie prize:居里奖
 curie project:居里项目
 curie research fellow:居里研究员
 curie road university road:居里路大学路
 curie scholar:居里学者
+curie temperature:居里温度
 curie temperature:居里点
 curie university:居里大学
 curie university:居里大學
@@ -7011,6 +7045,7 @@ currency amount:货币数量
 currency analysis:货币分析
 currency analyst:货币分析师
 currency analysts:货币分析师
+currency analytics:货币分析
 currency anarchy:货币无政府状态
 currency and an open:货币和一个开
 currency and area:货币和面积
@@ -7353,6 +7388,8 @@ currency manage:货币管理
 currency management services:货币管理服务
 currency management:货币管理
 currency manipulator:匯率操縱國
+currency market:货币市场
+currency markets:货币市场
 currency matter:货币问题
 currency means:货币意味着
 currency measure:货币测量
@@ -7580,6 +7617,7 @@ currency very:货币非常
 currency wallet will allow:货币钱包将允许
 currency wallet:货币钱包
 currency war:匯率戰
+currency war:货币战争
 currency wars and wealth:货币战争和财富
 currency wars continue:货币战争继续
 currency wars real:货币战争真的
@@ -8124,6 +8162,8 @@ current assessment methods:目前的评估方法
 current assessment:当前评估
 current assessment:目前的评估
 current asset:流動資產
+current asset:流通资产
+current assets:流通资产
 current assistant:目前的助手
 current assistants:目前的助手
 current association agreement:目前的协会协议
@@ -8774,6 +8814,7 @@ current content supply chain challenges:目前的内容供应链挑战
 current content:当前内容
 current content:目前的内容
 current contents:当前内容
+current contents:当前目录
 current contents:目前的内容
 current context:当前上下文
 current continent:当前大陆
@@ -12301,6 +12342,7 @@ current time window:当前时间窗
 current time zone set:当前时区设置
 current time zone:当前时区
 current time:当前时间
+current time:流通时间
 current time:目前的时间
 current timestamp:当前时间戳
 current timezone:当前时区
@@ -13762,6 +13804,7 @@ curriculum structure and research:课程结构和研究
 curriculum structure:课程结构
 curriculum student:课程学生
 curriculum students:课程学生
+curriculum studies:課程研究
 curriculum studies:课程研究
 curriculum study:課程研究
 curriculum study:课程研究
@@ -13775,6 +13818,7 @@ curriculum team:课程团队
 curriculum that:课程那
 curriculum theme:课程主题
 curriculum theory and practice:课程理论和实践
+curriculum theory:課程理論
 curriculum theory:课程理论
 curriculum time:课程时间
 curriculum tool:课程工具
@@ -13815,6 +13859,7 @@ curry awards:咖喱奖
 curry beef:咖喱牛肉
 curry block:咖喱块
 curry bread:咖哩麵包
+curry bread:咖喱麵包
 curry buffet:咖喱自助餐
 curry chicken:咖喱鸡
 curry college:咖哩學院
@@ -13836,10 +13881,12 @@ curry intake:咖喱摄入
 curry invoke:咖喱调用
 curry is england:咖喱是英格兰
 curry is my:咖喱是我的
+curry island:咖喱岛
 curry king:咖哩皇餐廳
 curry king:咖喱王
 curry kitchen:咖哩廚房
 curry laksa:咖喱叻沙
+curry leaf:咖哩葉
 curry leaf:咖喱叶
 curry meal:咖喱餐
 curry mee:咖哩麵
@@ -14019,6 +14066,7 @@ curtea:庫爾泰亞鄉
 curtici:庫爾蒂奇
 curtil saint seine:屈尔蒂勒圣塞纳
 curtil vergy:屈尔蒂勒韦尔日
+curtilles castle:屈尔蒂耶城堡
 curtilles:屈尔蒂耶
 curtin university studio:柯廷大学工作室
 curtin university:柯廷大学
@@ -14048,6 +14096,7 @@ curvature angle:曲率角
 curvature baryon model:曲率重子模型
 curvature baryon:曲率重子
 curvature calculation:曲率计算
+curvature center:曲率中心
 curvature changes:曲率变化
 curvature constraint:曲率约束
 curvature continuity:曲率连续
@@ -14071,8 +14120,11 @@ curvature pen:曲率笔
 curvature problems:曲率问题
 curvature properties:曲率属性
 curvature tensor:曲率张量
+curvature tensor:曲率張量
 curvature transform:曲率变换
 curvature using:曲率使用
+curvature vector:曲率向量
+curvature vector:曲率矢量
 curvature wave:曲率波
 curvature would prevent:曲率将阻止
 curvature would:曲率将
@@ -14308,6 +14360,7 @@ cusano mutri:库萨诺穆特里
 cusca district:庫斯卡區
 cuscatancingo:庫斯卡坦辛戈
 cusco cathedral:库斯科主教座堂
+cusco cathedral:庫斯科主教座堂
 cusco district:庫斯科區
 cusco fc:古斯哥足球會
 cusco province:庫斯科省
@@ -14358,6 +14411,7 @@ cuspy halo problem:星系暈尖點問題
 cussac sur loire:卢瓦尔河畔屈萨克
 cussangy:屈桑日
 cussay:屈赛
+cusset station:屈塞站
 cusset:屈塞
 cussey les forges:屈塞莱福日
 cussey sur l'ognon:奥尼翁河畔屈塞
@@ -16516,6 +16570,7 @@ customer service work:客户服务工作
 customer service would:客户服务将
 customer service:客户服务
 customer service:顾客服务
+customer services:客户服务
 customer set:客户设置
 customer sharing:客户共享
 customer shopping cart:客户购物车
@@ -18415,6 +18470,7 @@ customs border:海关边
 customs border:海关边界
 customs boss:海关老板
 customs broker:報關員
+customs building:海关建筑
 customs buildings:海关建筑
 customs bureau:海关局
 customs capacity:海关能力

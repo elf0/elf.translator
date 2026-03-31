@@ -23,6 +23,7 @@ dr catherine f woo memorial school:胡素貞博士紀念學校
 dr charles:博士查尔斯
 dr chau chak wing building:周泽荣博士大楼
 dr chen otorhinolaryngal clinic:陳耳鼻喉專科診所
+dr class:博士课程
 dr congo national football team:剛果民主共和國國家足球隊
 dr conway:博士康威
 dr daniel:博士丹尼尔
@@ -579,6 +580,7 @@ dragon boat at the asian games:亞洲運動會龍舟比賽
 dragon boat festival:端午节
 dragon boat restaurant:龍船餐廳
 dragon boat:龍舟
+dragon boat:龙船
 dragon book:龙书
 dragon bow:龙弓
 dragon bowl:龍肴
@@ -601,6 +603,7 @@ dragon centre:西九龍中心
 dragon centre:龍濤苑
 dragon centre:龙中心
 dragon centre:龙涛苑
+dragon champion:龙冠军
 dragon child:龙孩子
 dragon children:龙儿童
 dragon chinese cuisine:龙中国料理
@@ -608,6 +611,7 @@ dragon chipset:龙芯片组
 dragon choose:龙选择
 dragon city:龍城
 dragon city:龙城市
+dragon class:龙类
 dragon classifier:龙分类器
 dragon claw:龙爪
 dragon club:小神龙俱乐部
@@ -656,6 +660,7 @@ dragon eggs:龙蛋
 dragon eight:龙八
 dragon elite:龙精英
 dragon energy:龙能量
+dragon eye:龙眼
 dragon fantasy park:东方神龙乐园
 dragon fifth:龙第五
 dragon fight art:降龍總武
@@ -667,6 +672,7 @@ dragon fire:龙火
 dragon fish and sea horse:龙鱼和海马
 dragon fish:龙鱼
 dragon fist:龍拳
+dragon fist:龙拳
 dragon flag:龙旗
 dragon flower:龙花
 dragon fly:龙飞
@@ -681,6 +687,7 @@ dragon from:龙从
 dragon fruit juice:紅龍果
 dragon fruit restaurant:火龙果主题餐厅
 dragon gallery:龙画廊
+dragon gang:龙岗村
 dragon garden:龍圃
 dragon garden:龍園
 dragon gate taoism:龙门派
@@ -692,16 +699,20 @@ dragon go:龙去
 dragon god:龙上帝
 dragon god:龙神
 dragon grant:龙授予
+dragon group:龙组
 dragon hatch:龙孵化
 dragon head trail:龍頭步道
+dragon head:龙头
 dragon heart court:龍心閣
 dragon heart medical device:龙心医疗器械
 dragon heart:龙心
 dragon heights:龍園
 dragon hell:龙地狱
 dragon hill spa:龍山汗蒸幕
+dragon hill:龙丘
 dragon history:龙历史
 dragon hole:三沙永乐龙洞
+dragon hole:龙洞
 dragon horn:龍角
 dragon horse:龙马
 dragon hotel:龙酒店
@@ -769,12 +780,14 @@ dragon mustache tree:龍鬚樹
 dragon mustache tree:龙须树
 dragon named:龙命名的
 dragon nest:龙之谷
+dragon nest:龙巢
 dragon notice:龙注意
 dragon of fortune show:富貴龍表濱
 dragon of fortune show:富贵龙表滨
 dragon offer:龙提供
 dragon officials:龙官员
 dragon once:龙曾经
+dragon one:龙一
 dragon only:龙只有
 dragon or loch ness monster:龙或尼斯湖水怪
 dragon or monkey:龙或猴
@@ -792,6 +805,7 @@ dragon pavilion:龙亭
 dragon pavilion:龙亭大殿
 dragon peach:龙桃
 dragon peak:龍峯閣
+dragon peak:龙峰
 dragon pheonix mansion:龍鳳大樓
 dragon plan:龙计划
 dragon plans:龙计划
@@ -855,6 +869,7 @@ dragon statue:龙雕像
 dragon still:龙仍然
 dragon stock:龙股票
 dragon street:龙街
+dragon sword:龙剑
 dragon tail:龙尾
 dragon tavern:龙酒馆
 dragon tea:龙茶
@@ -1192,6 +1207,9 @@ drake says:德雷克说
 drake sister:德雷克姐妹
 drake sometimes:德雷克有时
 drake song:德雷克歌
+drake stadium:德雷克体育场
+drake stadium:德雷克体育馆
+drake stadium:德雷克體育場
 drake state community:德雷克州社区
 drake state:德雷克州
 drake street:德立街
@@ -1256,6 +1274,7 @@ dram:樟木镇
 drama academy:戏剧学院
 drama activities:戏剧活动
 drama actor:戏剧演员
+drama actor:戲劇演員
 drama actress:戏剧女演员
 drama and action entertainment:戏剧和行动娱乐
 drama and action:戏剧和行动
@@ -1335,6 +1354,7 @@ drama begin:戏剧开始
 drama bookstore:戏剧书店
 drama boulevard:戏剧大道
 drama box:戏剧盒
+drama box:戲劇盒
 drama career:戏剧事业
 drama center:戏剧中心
 drama centre theatre:戏剧中心剧院
@@ -1421,6 +1441,8 @@ drama magnet:戏剧磁铁
 drama management and so on:戏剧管理等等
 drama management:戏剧管理
 drama master:戏剧大师
+drama movie:戏剧电影
+drama movies:戏剧电影
 drama night:戏剧夜
 drama or art studio:戏剧或艺术工作室
 drama or art:戏剧或艺术
@@ -1481,6 +1503,7 @@ drama text:戏剧文本
 drama theater:戏剧剧场
 drama theatre:戏剧剧院
 drama then:戏剧然后
+drama theory:戏剧理论
 drama theory:戲劇理論
 drama therapy group:戏剧治疗组
 drama therapy:戏剧治疗
@@ -1548,6 +1571,7 @@ drambon:德朗邦
 dramedtse gewog:dramedtse格窝
 dramelay:德拉姆莱
 dramgo gon:扎俄寺
+drammen line:德拉门线
 drammen:德拉门
 dramyin:札木聶
 drancy concentration camp:德朗西集中营
@@ -1851,6 +1875,8 @@ drawing four:绘画四
 drawing game:绘画游戏
 drawing gene:绘画基因
 drawing hands:畫手
+drawing home:素描家
+drawing home:绘画家
 drawing horse:绘画马
 drawing hours:绘画小时
 drawing include:素描包括
@@ -1894,6 +1920,7 @@ drawing require:绘画要求
 drawing require:绘画需要
 drawing room and others:客廳和其他人
 drawing room:客廳
+drawing room:绘画房间
 drawing root:绘画根
 drawing scholar:绘画学者
 drawing school:绘画学校
@@ -2000,7 +2027,9 @@ dream body:梦身体
 dream book:梦书
 dream books:梦书
 dream boy:梦男孩
+dream bridge:夢橋
 dream bridge:梦之大桥
+dream bridge:梦桥
 dream butterfly:梦蝴蝶
 dream by the sea:緣緣堂
 dream cake:夢蛋糕
@@ -2035,6 +2064,7 @@ dream culture:梦文化
 dream cycle:幻梦境
 dream daddy:梦爸爸
 dream day:梦日
+dream days:梦天
 dream deprivation:梦剥夺
 dream detective:梦侦探
 dream diamond:梦钻石
@@ -2051,9 +2081,11 @@ dream even:梦偶
 dream expert:梦专家
 dream factory friday:夢工廠星期五
 dream factory:夢工廠
+dream factory:梦工厂
 dream fate phuket:梦缘酒店
 dream feel:梦感觉
 dream finish:梦结束
+dream flight:夢飛行
 dream from:梦从
 dream giant:梦巨人
 dream girl:梦女孩
@@ -2125,6 +2157,7 @@ dream nation:梦国家
 dream nearly:梦几乎
 dream needs:夢需要
 dream needs:梦需要
+dream nichirin:夢日輪號列車
 dream novel:梦小说
 dream of adolescence:梦的青春期
 dream of colours:下一站彩虹
@@ -2139,6 +2172,7 @@ dream only:梦只有
 dream panorama:梦全景
 dream park:mènghuàngōngyuán
 dream park:ㄇㄥˋㄏㄨㄢˋㄍㄨㄥㄩㄢˊ
+dream park:夢公園
 dream park:夢幻公園
 dream park:梦公园
 dream park:梦幻公园
@@ -2159,6 +2193,7 @@ dream reflect:梦反映
 dream refrigeration:梦制冷
 dream require:梦需要
 dream research:梦研究
+dream river:夢河
 dream room:白日夢花園海景民宿
 dream saga:夢幻傳說
 dream said:梦说
@@ -2174,20 +2209,27 @@ dream she:梦她
 dream sleep:夢睡
 dream sleep:夢睡眠
 dream sleep:梦睡眠
+dream snow:夢雪
+dream snow:梦雪
 dream some:梦一些
 dream someone:梦有人
+dream songs:夢歌
 dream space:夢空間
 dream space:梦空间
 dream start:梦开始
 dream state:梦状态
 dream stele:記夢碑
 dream story:綺夢春色
+dream street:夢街
+dream street:夢街道
 dream study:梦学习
 dream suddenly:梦突然
 dream support:梦支持
 dream team:梦团队
 dream tell:梦告诉
 dream theater:梦剧场
+dream theatre:梦剧场
+dream theatre:梦剧院
 dream theme credit card:梦主题信用卡
 dream theme:梦主题
 dream then do:梦然后做
@@ -2243,6 +2285,7 @@ dream-flying park:梦-飞翔公园
 dream:夢
 dream:梦
 dreamcatcher:捕夢網
+dreame technology:追觅科技
 dreame:追觅
 dreamer's spring:夢想之泉
 dreamers lounge:夢想家歡飲廳
@@ -2652,6 +2695,7 @@ dresde:德累斯顿
 dresden academy of fine arts:德累斯顿美术学院
 dresden academy:德累斯顿学院
 dresden after:德累斯顿后
+dresden airport:德累斯頓機場
 dresden airport:德累斯顿机场
 dresden and aachen:德累斯顿和亚琛
 dresden and berlin:德累斯顿和柏林
@@ -2666,14 +2710,17 @@ dresden and san:德累斯顿和圣
 dresden and siegen:德累斯顿和锡根
 dresden and warsaw:德累斯顿和华沙
 dresden area:德累斯顿地区
+dresden armoury:德累斯顿军械库
 dresden artist:德累斯顿艺术家
 dresden await:德累斯顿等待
 dresden bank:德累斯顿银行
 dresden beer:德累斯顿啤酒
 dresden bischofsplatz station:德累斯頓畢曉普站
+dresden castle:德累斯頓城堡
 dresden castle:德累斯顿城堡
 dresden castle:德累斯顿王宫
 dresden cathedral:宮廷主教座堂
+dresden cathedral:德累斯頓主教座堂
 dresden china:德累斯顿中国
 dresden china:德累斯顿瓷器
 dresden class cruiser:德累斯顿级小巡洋舰
@@ -2696,6 +2743,7 @@ dresden international university:德累斯顿国际大学
 dresden international:德累斯顿国际
 dresden island and brandon:德累斯顿岛和布兰登
 dresden island:德累斯顿岛
+dresden kreuzkirche:德累斯顿圣十字教堂
 dresden laboratory:德累斯顿实验室
 dresden museum of ethnology:德累斯顿民族学博物馆
 dresden music:德累斯顿音乐
@@ -2709,6 +2757,7 @@ dresden or cologne:德累斯顿或科隆
 dresden or moscow:德累斯顿或莫斯科
 dresden peace prize:德累斯顿和平奖
 dresden peace:德累斯顿和平
+dresden philharmonie:德累斯顿爱乐乐团
 dresden porcelain collection:德累斯顿瓷器收藏馆
 dresden porcelain:德累斯顿瓷器
 dresden prize:德累斯顿奖
@@ -2719,6 +2768,7 @@ dresden soon:德累斯顿很快
 dresden state:德累斯顿国家
 dresden station:德累斯顿站
 dresden to bratislava:德累斯顿到布拉迪斯拉发
+dresden township:德累斯頓鎮區
 dresden township:德累斯顿镇区
 dresden train station:德累斯顿火车站
 dresden university of technology:德累斯顿工业大学
@@ -2861,6 +2911,7 @@ drift current:漂移电流
 drift hypothesis:遷移假說
 drift ice will continue:浮冰将继续
 drift ice:浮冰
+drift river:漂河
 drift towards:漂向
 drift velocity:漂移速度
 drift:漂
@@ -3554,6 +3605,7 @@ drinking solo:獨酒男女
 drinking straw look:吸管看
 drinking straw looks like:吸管看起来像
 drinking straw:吸管
+drinking urine:飲尿
 drinking water affects:饮用水影响
 drinking water alkali:饮用水碱
 drinking water analysis:饮用水分析
@@ -3712,6 +3764,7 @@ drinking water toxin:饮用水毒素
 drinking water unit:饮用水单位
 drinking water well:饮用水井
 drinking water will:饮用水会
+drinking water:飲水
 drinking water:饮用水
 drinking wine:飲葡萄酒
 drinking wine:飲酒
@@ -5403,6 +5456,7 @@ drug death:毒品死亡
 drug death:药物死亡
 drug debate:毒品辩论
 drug debt:毒品债务
+drug decriminalization:毒品除罪化
 drug deliver:药物输送
 drug delivery applications:药物递送应用
 drug delivery approach:药物递送方法
@@ -5833,6 +5887,7 @@ drug information:药品信息
 drug information:药物信息
 drug inhibit:药抑制
 drug inhibit:药物抑制
+drug injection:毒品注射
 drug injection:药注射
 drug injection:药物注射
 drug injection:藥物注射
@@ -5868,6 +5923,7 @@ drug investigation:药物调查
 drug is cannabis:毒品是大麻
 drug is good:药是好的
 drug is safe:药物是安全的
+drug island:药岛
 drug issue:毒品问题
 drug issue:药物问题
 drug issues:毒品问题
@@ -5901,6 +5957,7 @@ drug levels or blood type:药物水平或血型
 drug levels:药水平
 drug levels:药物水平
 drug levonorgestrel:药物左炔诺孕酮
+drug liberalization:药品自由化
 drug liberalization:药物自由化
 drug license:药许可证
 drug life:药物生命
@@ -6130,6 +6187,7 @@ drug policy:毒品禁制政策
 drug policy:药品政策
 drug policy:药政策
 drug policy:药物政策
+drug pollution:药品污染
 drug pollution:藥物污染
 drug possession:毒品占有
 drug possession:药物占有
@@ -6189,6 +6247,7 @@ drug production:药生产
 drug products:毒品产品
 drug products:药产品
 drug products:药物产品
+drug prohibition:毒品禁令
 drug projects:药物项目
 drug projects:药项目
 drug protect:药物保护
@@ -6428,6 +6487,7 @@ drug stock:药物存货
 drug stopped:药物停止了
 drug store:毒品商店
 drug store:药品商店
+drug store:药商店
 drug strategy:毒品战略
 drug strategy:药物战略
 drug strategy:药物策略
@@ -6479,7 +6539,9 @@ drug technology:药物技术
 drug temozolomide:药物替莫唑胺
 drug template:药物模板
 drug test do:藥物測試做
+drug test:药物测试
 drug test:藥物測試
+drug testing:药物测试
 drug thalidomide:药物沙利度胺
 drug that:毒品那
 drug theory:药理论
@@ -7172,6 +7234,7 @@ drugs peptide:药物肽
 drugs plus:药加
 drugs policies:药物政策
 drugs policy:毒品政策
+drugs policy:药品政策
 drugs policy:药物政策
 drugs prevent:药物阻止
 drugs prevention:毒品预防
@@ -7383,6 +7446,7 @@ drum party:鼓党
 drum pattern:鼓模式
 drum performance:鼓表演
 drum phenomenon:鼓现象
+drum point:鼓点
 drum points:鼓点
 drum programmer:鼓程序员
 drum programming trick:鼓编程技巧
@@ -7459,9 +7523,11 @@ drummer taylor:鼓手泰勒
 drummer troy:鼓手特洛伊
 drummer:鼓手
 drummond castle:德拉蒙德城堡
+drummond county:德拉蒙德县
 drummond glacier:德拉蒙德冰川
 drummond help:德拉蒙德帮助
 drummond is colombia:德拉蒙德是哥伦比亚
+drummond island:德拉蒙德岛
 drummond island:晉卿島
 drummond island:晋卿岛
 drummond peak:德拉蒙德峰
@@ -7471,6 +7537,7 @@ drummond says:德拉蒙德说
 drummond think:德拉蒙德认为
 drummond this:德拉蒙德这
 drummond took:德拉蒙德拿
+drummond township:德拉蒙德鎮區
 drummond:德拉蒙德
 drummondia:木衣藓属
 drummondville:德拉蒙德维尔

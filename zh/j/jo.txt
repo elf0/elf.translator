@@ -122,6 +122,7 @@ job classification system:职业分类系统
 job classification:职业分类
 job coach:职业教练
 job creation:职业创造
+job description:职业描述
 job description:职位说明书
 job developer:职业开发者
 job development:职业发展
@@ -164,6 +165,7 @@ job interview:面试
 job is writing:职业是写作
 job kill:职业杀
 job market:职业市场
+job markets:职业市场
 job match:职业匹配
 job occupation:职业职业
 job opportunities and benefit:职业机会和福利
@@ -711,6 +713,7 @@ jodenbreestraat:犹太人宽街
 joder:尤德
 joderhorn:約德山
 jodhpur airport:焦特布尔机场
+jodhpur airport:焦特布尔機場
 jodhpur boot:焦特布尔靴
 jodhpur district:焦特布爾縣
 jodhpur royal family:焦特布尔王室
@@ -842,6 +845,7 @@ joe friday:乔星期五
 joe from:乔从
 joe get:乔得到
 joe go:乔去
+joe gold:乔金
 joe had been:乔已经
 joe had never seen:乔从未见过
 joe harris:乔哈里斯
@@ -875,6 +879,7 @@ joe kennedy:乔肯尼迪
 joe know:乔知道
 joe knows:乔知道
 joe lai:黎榮浩
+joe lake:乔拉克
 joe laugh:乔笑
 joe leave:乔离开
 joe lee:乔李
@@ -914,6 +919,7 @@ joe reach:乔达到
 joe read:乔读
 joe remember:乔记得
 joe report:乔报告
+joe ritchie:乔里奇
 joe river:乔河
 joe rocket:乔火箭
 joe root:乔根
@@ -933,6 +939,7 @@ joe sitting:乔坐
 joe six:乔六
 joe smith and leave:乔史密斯和离开
 joe smith:乔史密斯
+joe snow:乔雪
 joe son:乔儿子
 joe soon:乔很快
 joe spent:乔花
@@ -950,6 +957,7 @@ joe think:乔想
 joe think:乔认为
 joe thompson:乔汤普森
 joe thought:乔思想
+joe thunder:乔雷
 joe took:乔拿
 joe understand:乔理解
 joe versus the volcano:魔島仙蹤
@@ -985,6 +993,7 @@ joen:乔恩
 joenkhar_moorbi:joenkhar_moorbi 乡
 joensuu airport:约恩苏机场
 joensuu church:約恩蘇教堂
+joensuu church:约恩苏教堂
 joensuu factory:约恩苏工厂
 joensuu sub region:約恩蘇次區
 joensuu train station:约恩苏火车站
@@ -1190,6 +1199,7 @@ johannesburg welcome:约翰内斯堡欢迎
 johannesburg workers:约翰内斯堡工人
 johannesburg world:约翰内斯堡世界
 johannesburg would:约翰内斯堡将
+johannesburg zoo:约翰内斯堡动物园
 johannesburg:約翰内斯堡
 johannesburg:约翰内斯堡
 johannesburg:约翰内斯堡/約翰内斯堡
@@ -1246,6 +1256,7 @@ john agree:约翰同意
 john aids:约翰艾滋病
 john airport:約翰機場
 john airport:约翰机场
+john alan:约翰艾伦
 john alcober:费若望
 john alexander:约翰亚历山大
 john allen muhammad:约翰艾伦穆罕默德
@@ -1392,6 +1403,7 @@ john bolton says he:约翰博尔顿说他
 john bolton says:约翰博尔顿说
 john bolton:约翰博尔顿
 john bond:约翰邦德
+john books:约翰书
 john boston:约翰波士顿
 john bowring:寶寧
 john bradley discuss:约翰布拉德利讨论
@@ -1527,6 +1539,7 @@ john detest:约翰厌恶
 john dewey said:约翰杜威说
 john dewey:約翰杜威
 john dewey:约翰杜威
+john dewitt:約翰德威特
 john dick:约翰迪克
 john dickinson:約翰迪金森
 john die:约翰死
@@ -1543,12 +1556,14 @@ john douglas:约翰道格拉斯
 john dr:约翰博士
 john drake:约翰德雷克
 john dream:约翰梦
+john duke:约翰公爵
 john eat:約翰吃
 john eat:约翰吃
 john edward:约翰爱德华
 john edwards and hillary:约翰爱德华兹和希拉里
 john edwards:约翰爱德华兹
 john edwin cardwell:高学海
+john elder:約翰长老
 john elder:约翰长老
 john elias williams:文怀恩
 john elliott ward:華若翰
@@ -1599,6 +1614,7 @@ john from:约翰从
 john fugh:傅履仁
 john fulton centre:富爾敦樓
 john gabriel perboyre:董文学
+john galas:約翰威爾斯
 john gardner:约翰加德纳
 john gates:约翰*盖茨
 john give:约翰给
@@ -1627,6 +1643,7 @@ john hammond:約翰哈蒙德
 john hammond:约翰哈蒙德
 john hancock center:約翰漢考克中心
 john hancock:約翰漢考克
+john harris:約翰哈里斯
 john harris:约翰哈里斯
 john harrison start:约翰哈里森开始
 john harrison:約翰哈里森
@@ -1735,6 +1752,7 @@ john key:约翰钥匙
 john kilb:约翰基尔布
 john kill:约翰杀
 john king fairbank:費正清
+john king:約翰王
 john king:约翰国王
 john king:约翰王
 john kiss:约翰吻
@@ -1781,6 +1799,7 @@ john look:約翰看
 john look:约翰看
 john looks like:约翰看起来像
 john lossing buck:卜凱
+john louis:約翰路易斯
 john louis:约翰路易斯
 john love:約翰愛
 john love:约翰爱
@@ -1820,11 +1839,14 @@ john moschus:莫斯克斯
 john movie:约翰电影
 john must give up:约翰必须放弃
 john my:约翰我的
+john napier:約翰納皮爾
 john nash:约翰纳什
 john needs:約翰需要
 john needs:约翰需要
 john negroponte:约翰内格罗蓬特
 john newton:约翰牛顿
+john nice:約翰尼斯
+john nice:约翰尼斯
 john nielsen said:约翰尼尔森说
 john nielsen:约翰尼尔森
 john ning yuean lee:李寧遠
@@ -1894,22 +1916,27 @@ john paul laugh:约翰保罗笑
 john paul the great catholic university:大若望保祿天主教大學
 john paul:约翰保罗
 john paxton:约翰帕克斯顿
+john peak:約翰峰
 john peaks:約翰峰
 john peng weizhao:彭衛照
 john period:约翰时期
 john peter zenger:曾格案件
 john peter:约翰彼得
 john philip:约翰菲利普
+john pierre:約翰皮爾
 john plan:约翰计划
 john plans:约翰计划
 john point:约翰点
 john police officer:约翰警察
+john poole:約翰普爾
 john pope:约翰教皇
 john prepare:约翰准备
 john prescott:彭仕國
 john preston said:约翰普雷斯顿说
 john preston:约翰普雷斯顿
 john price:约翰价格
+john prince:約翰王子
+john prince:约翰王子
 john products:约翰产品
 john proposed:约翰提出
 john prove:约翰证明
@@ -2014,6 +2041,7 @@ john sold:约翰卖
 john sometimes:约翰有时候
 john song:约翰歌
 john soon:约翰很快
+john south:约翰南
 john spent:約翰花
 john stanley:約翰史丹利
 john stanley:约翰史丹利
@@ -2109,9 +2137,11 @@ john wait:约翰等待
 john wake:约翰醒
 john walcott:约翰沃尔科特
 john walden:華樂庭
+john wales:約翰威爾斯
 john walker was new zealand:约翰沃克是新西兰
 john walker:約翰沃克
 john walker:约翰沃克
+john wallis:約翰威爾斯
 john wang renlei:王仁雷
 john want:约翰想要
 john was a friend:约翰是一个朋友
@@ -2413,6 +2443,7 @@ johnson future:约翰逊未来的
 johnson gallery:约翰逊画廊
 johnson give:约翰逊给
 johnson glacier:強森冰川
+johnson glacier:詹森冰川
 johnson gospel choir:约翰逊福音合唱
 johnson gospel:约翰逊福音
 johnson government:约翰逊政府
@@ -2479,6 +2510,7 @@ johnson may refer to:约翰逊可以指
 johnson ministry:约翰逊内阁
 johnson mix:约翰逊混合
 johnson motel:约翰逊汽车旅馆
+johnson mountain:詹森山
 johnson museum of art:约翰逊艺术博物馆
 johnson museum:约翰逊博物馆
 johnson must change:约翰逊必须改变
@@ -2501,6 +2533,7 @@ johnson oyster:约翰逊牡蛎
 johnson papyrus:约翰逊纸草手稿
 johnson park:约翰逊公园
 johnson patch:常骏暗沙
+johnson peak:詹森峰
 johnson peaks:約翰遜峰
 johnson plans:约翰逊计划
 johnson plus:约翰逊加
@@ -2624,6 +2657,7 @@ johnson:詹森
 johnsonella:约翰森氏菌属
 johnsonina:約翰三棘魨
 johnsons glacier:強森斯冰川
+johnston atoll:強斯頓環礁
 johnston atoll:约翰斯顿环礁
 johnston building:庄士敦大楼
 johnston building:莊士敦大樓
@@ -2632,6 +2666,7 @@ johnston court:莊士敦大樓
 johnston heights:約翰斯頓高地
 johnston passage:約翰斯頓海峽
 johnston peak:約翰斯頓峰
+johnston press:強斯頓出版社
 johnston road:庄士敦道
 johnston road:莊士敦道
 johnston snake eel:約氏舒蛇鰻
@@ -2645,6 +2680,7 @@ johnstone says:约翰斯通说
 johnstone strait:约翰斯通海峡
 johnstone:约翰斯通
 johnstons bay:專時頓灣
+johnstown flood:約翰城洪水
 johnstown:約翰城
 johntown:约翰敦
 johor and istanbul:柔佛和伊斯坦布尔
@@ -2693,6 +2729,7 @@ johor bahru–singapore rapid transit system:新山－新加坡捷运系统
 johor bahru–singapore rapid transit system:新山－新加坡捷運系統
 johor boğazı:柔佛海峡
 johor corporation:柔佛机构
+johor election:柔佛州选举
 johor government:柔佛政府
 johor jaya:柔佛再也
 johor lama:旧柔佛
@@ -2714,6 +2751,7 @@ johor state anthem:柔佛州歌
 johor state government:柔佛州政府
 johor state legislative assembly:柔佛州议会
 johor state:柔佛州
+johor strait:柔佛海峡
 johor sultanate:柔佛苏丹国
 johor suyu:柔佛州
 johor team:柔佛队
@@ -2750,6 +2788,7 @@ join condition:连接条件
 join conditions:连接条件
 join database:连接数据库
 join degree:连接度
+join dependency:连接依赖
 join every:连接每一个
 join files:连接文件
 join list:连接列表
@@ -2907,6 +2946,7 @@ joint pain or inflammation:关节疼痛或炎症
 joint pain or stomach:关节疼痛或胃
 joint pain treatment:关节疼痛治疗
 joint pain:关节疼痛
+joint pain:关节痛
 joint pathology:关节病理学
 joint point:关节点
 joint position sensor:关节位置传感器
@@ -3572,6 +3612,7 @@ jones once:琼斯曾经
 jones online:琼斯在线
 jones or new orleans:琼斯或新奥尔良
 jones order:琼斯命令
+jones oxidation:琼斯氧化
 jones oxidation:琼斯氧化反应
 jones park:琼斯公园
 jones peak:瓊斯峰
@@ -3580,6 +3621,7 @@ jones performing arts:琼斯表演艺术
 jones plan:琼斯计划
 jones plans:琼斯计划
 jones polynomial:琼斯多项式
+jones polynomials:琼斯多项式
 jones predict:琼斯预测
 jones press curriculum:琼斯按课程
 jones press:琼斯按
@@ -3659,6 +3701,10 @@ jones until:琼斯直到
 jones us aerospace:琼斯美国航空航天
 jones us airline:琼斯美国航空公司
 jones us:琼斯美国
+jones vector:琼斯向量
+jones vector:琼斯矢量
+jones vectors:琼斯向量
+jones vectors:琼斯矢量
 jones was founded in:琼斯成立于
 jones was safe:琼斯是安全的
 jones we suddenly:琼斯我们突然
@@ -3903,6 +3949,8 @@ joorjiya:格鲁吉亚
 joorjiya:格鲁吉亚 / 喬治亞
 joostella:苏特氏菌属
 jophiel:約斐爾
+joppa road:雅法路
+joppa roads:雅法路
 joppa:雅法
 joppe:雅法
 joppolo giancaxio:约波洛詹卡克肖
@@ -4075,6 +4123,7 @@ jordan at the asian games:亞洲運動會約旦代表團
 jordan at the olympics:奥林匹克运动会约旦代表团
 jordan attract:约旦吸引
 jordan aviation:約旦航空
+jordan aviation:约旦航空
 jordan be:约旦成为
 jordan became:约旦成为
 jordan began:约旦开始
@@ -4096,6 +4145,7 @@ jordan center:约旦中心
 jordan challenges:约旦挑战
 jordan chan:陈小春
 jordan climate:约旦气候
+jordan college:約旦學院
 jordan college:约旦学院
 jordan community:约旦社区
 jordan company:约旦公司
@@ -4116,6 +4166,7 @@ jordan dispensary:佐敦大藥房
 jordan edwards:约旦爱德华兹
 jordan environment:约旦环境
 jordan fa cup:約旦足總盃
+jordan falcon:约旦隼
 jordan festival:约旦节日
 jordan folklore:约旦民俗
 jordan football association:約旦足球協會
@@ -4144,12 +4195,14 @@ jordan jackson:约旦杰克逊
 jordan johnson:约旦约翰逊
 jordan ju:朱育加
 jordan king his first:约旦国王他的第一个
+jordan king:約旦国王
 jordan king:约旦国王
 jordan kingdom:约旦王国
 jordan lam:林樂勤
 jordan learn:约旦学习
 jordan maintain:约旦维护
 jordan mansion:佐敦大廈
+jordan map:约旦地图
 jordan matrix:若尔当矩阵
 jordan medicine & cosmetic shop:佐敦藥妝
 jordan meeting:约旦会议
@@ -4161,6 +4214,7 @@ jordan needs investments:约旦需要投资
 jordan needs:约旦需要
 jordan news agency:约旦通讯社
 jordan normal form:若尔当标准型
+jordan north:佐敦北
 jordan nunatak:喬丹冰原島峰
 jordan obtain:约旦获得
 jordan officials:约旦官员
@@ -4193,6 +4247,7 @@ jordan river system:约旦河系统
 jordan river utah temple:猶他州約旦河聖殿
 jordan river would continue:约旦河将继续
 jordan river would:约旦河将
+jordan river:約旦河
 jordan river:约旦河
 jordan river:约旦河流
 jordan road ferry pier:佐敦道碼頭
@@ -4208,13 +4263,16 @@ jordan scholar:约旦学者
 jordan school district:约旦学区
 jordan sentence:约旦判处
 jordan shield cup:約旦足總盾
+jordan south:佐敦南
 jordan standard time:约旦标准时间
 jordan start:约旦开始
 jordan station:佐敦站
+jordan station:约旦站
 jordan still:约旦仍然
 jordan super cup:約旦超級盃
 jordan support:约旦支持
 jordan teacher:约旦教师
+jordan team:約旦队
 jordan team:约旦队
 jordan telecommunications regulatory:约旦电信监管
 jordan telecommunications:约旦电信
@@ -4247,6 +4305,7 @@ jordan vineyard:约旦葡萄园
 jordan visit:约旦访问
 jordan was killed:约旦被杀
 jordan welcome:约旦欢迎
+jordan west:佐敦西
 jordan why not:约旦为什么不
 jordan why:约旦为什么
 jordan will:约旦会
@@ -4394,6 +4453,7 @@ jorgu'e:yuēdàn
 jorgu'e:約旦
 jorgu'e:约旦
 jorgu'e:约旦 / 約旦
+jorhat airfield:焦尔哈德机场
 jorhat airport:焦尔哈德机场
 jorhat district:焦尔哈德县
 jorhat:焦尔哈德
@@ -4493,6 +4553,7 @@ jose yu:楊孫西
 josef markwart:馬考特
 josefskatedralen:王府井天主堂
 josefsplatz:约瑟夫广场
+josefstadt theatre:约瑟夫城剧院
 josefstadt:约瑟夫城
 josei manga:女性漫画
 joseibashi:常清桥
@@ -4508,6 +4569,7 @@ joseon attorney:朝鮮律師
 joseon exorcist:朝鮮驅魔師
 joseon missions to china:朝鮮燕行使
 joseon navy:朝鮮水軍
+joseon period:朝鲜王朝时期
 joseon survival period:朝鮮生存記
 joseon tongsinsa:朝鮮通信使
 joseon white porcelain:朝鮮白瓷
@@ -4839,6 +4901,7 @@ joss house bay:大庙湾
 joss house bay:大廟灣
 joss paper:紙錢
 jossac bight:喬薩克灣
+josselin castle:若斯兰城堡
 josselin:若斯兰
 jossgrund:约斯格伦德
 jossigny:若西尼
@@ -5118,6 +5181,7 @@ journalism teacher:新闻学教师
 journalism textbook:新闻学教科书
 journalism:新闻学
 journalist anna:新聞工作者安娜
+journalist day:新聞工作者日
 journalist mário filho stadion:小馬里奧記者運動場
 journalist mário filho stadium:小馬里奧記者運動場
 journalist:新聞工作者
@@ -5541,6 +5605,7 @@ journey had been:旅程已经
 journey has been:旅程已经
 journey help:旅程帮助
 journey help:旅行帮助
+journey home:旅行家
 journey i:旅程我
 journey i:旅行我
 journey in january:旅程在一月
@@ -5819,6 +5884,7 @@ joy division:歡樂分隊
 joy encourage:欢乐鼓励
 joy english school:佳音英語
 joy english:佳音英語
+joy farm:快樂農場
 joy fat factory building:再发工厂大厦
 joy fat factory building:再發工廠大廈
 joy fat mansion:再發大廈
@@ -5881,10 +5947,12 @@ joy rather than:快樂而不是
 joy rather than:欢乐而不是
 joy release:欢乐释放
 joy street:欢乐街
+joy sunday:快樂星期天
 joy take court:翠德閣
 joy this:欢乐这
 joy to the world:普世欢腾
 joy valve gear:膠式汽門
+joy wheel:快樂輪
 joy will open:欢乐会开
 joy will:欢乐会
 joy would:欢乐将

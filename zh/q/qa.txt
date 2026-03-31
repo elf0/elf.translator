@@ -1,6 +1,7 @@
 qaagan xire muchangdian:查干锡热牧场点
 qaahiro:开罗
 qaahiro:開羅
+qaanaaq airport:卡納克機場
 qaanaaq:卡納克
 qaasuitsup:卡苏伊楚普
 qab hôt:查布浩特
@@ -269,6 +270,7 @@ qaidam gaqaa xin hôt:柴达木嘎查新浩特
 qaidam gaqaa-ondor bôr gaqaa:柴达木嘎查-温都包尔嘎查
 qaidam gaqaa:柴达木嘎查
 qaidam hôt:柴达木浩特
+qaidam river:柴达木河
 qaidam-debel miao:柴达木-德博勒庙
 qaidam:柴旦镇
 qaidam:柴达木
@@ -306,6 +308,7 @@ qala mañy auyly:郊区乡
 qala p'axrani:卡拉帕赫拉尼山
 qala patxa:卡拉帕蒂亞山
 qala phusa:卡拉普薩山
+qala qala:卡拉卡拉
 qala t'uxu:卡拉托霍山
 qala wathiyani:卡拉瓦蒂亞尼山
 qala waxrani:卡拉瓦赫拉尼山
@@ -389,6 +392,7 @@ qamiigôl cun:长风皋村
 qamiigôl dongdui:长风皋东队
 qamiigôl xidui:长风皋西队
 qamishli airport:卡米什利机场
+qamishli airport:卡米什利機場
 qamishli district:卡米什利区
 qamishli:卡米什利
 qamishli:卡米什利区
@@ -702,6 +706,7 @@ qareh naz rural district:加雷納茲鄉
 qargistan:吉尔吉斯斯坦
 qargistan:吉爾吉斯
 qargʻali tumani:卡尔加雷区
+qarhan lake:察尔汗湖
 qarhan playa:察尔汗盐湖
 qarhan railway station:察尔汗站
 qarhan salt lake natural park tourist center:察尔汗盐湖游客中心
@@ -775,6 +780,7 @@ qars zûlqadriye:卡迪爾利
 qars:卡爾斯
 qars:查日苏镇
 qarshi airport:卡爾西機場
+qarshi stadium:卡爾希體育場
 qarshi:卡爾希
 qarwa k'anti:哈爾瓦坎特山
 qarwa k'uchu:卡爾瓦庫喬山
@@ -1016,6 +1022,7 @@ qatar control:卡塔尔控制
 qatar country information:卡塔尔国家信息
 qatar country:卡塔尔国家
 qatar crisis:卡塔尔危机
+qatar cup:卡塔尔杯
 qatar cup:卡塔爾盃
 qatar currently:卡塔尔目前
 qatar decided:卡塔尔决定
@@ -1148,10 +1155,15 @@ qatar three:卡塔尔三
 qatar through:卡塔尔通过
 qatar too:卡塔尔也
 qatar tourism authority:卡塔尔旅游局
+qatar tourism:卡塔尔旅游业
 qatar tournament:卡塔尔锦标赛
 qatar tunnel:卡塔尔隧道
 qatar uk:卡塔尔英国
 qatar university:卡塔尔大学
+qatar university:卡塔尔大學
+qatar university:卡塔爾大學
+qatar university:卡達大学
+qatar university:卡達大學
 qatar use:卡塔尔使用
 qatar visit:卡塔尔访问
 qatar while:卡塔尔当
@@ -1218,6 +1230,7 @@ qazahistan:哈薩克
 qazakh-tovouz:哈薩克-塔烏茲經濟區
 qazakh-tovuz:哈薩克-塔烏茲經濟區
 qazakh-towuz:哈薩克-塔烏茲經濟區
+qazan khanate:喀山汗國
 qazan kirmäne:喀山克里姆林宫
 qazan xalıqara aeroportı:喀山國際機場
 qazan:喀山

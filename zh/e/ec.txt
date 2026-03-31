@@ -145,6 +145,7 @@ echinacea:紫錐花屬
 echinacoside:松果菊苷
 echinargus:依灰蝶属
 eching am ammersee:阿默湖畔埃兴
+eching station:埃兴站
 eching:埃兴
 echinghen:埃尚冈
 echinicola:栖海胆菌属
@@ -230,6 +231,7 @@ echium:篮蓟属
 echiura:螠虫目
 echiuridae:螠虫科
 echixia:鹅池下
+echizen coast:越前海岸
 echizen kaga kaigan quasi national park:越前加賀海岸國定公園
 echizen kaihotsu station:越前開發站
 echizen nonaka station:越前野中站
@@ -256,11 +258,13 @@ echo cavern trail:回声洞挑战道
 echo cavern:回声洞
 echo house:瑜悦
 echo klassik:回声音乐古典奖
+echo lake:回聲湖
 echo music prize:回声音乐奖
 echo of moscow:莫斯科迴聲
 echo parakeet:模里西斯環頸鸚鵡
 echo peak tower:宝峰阁
 echo peak tower:寶峰閣
+echo peak:回聲峰
 echo protocol:回声协议
 echo river:回聲河
 echo rock:天音響石
@@ -342,7 +346,9 @@ eclipsing binary star:食雙星
 eclipta prostrata:鳢肠
 ecliptic constellations:黄道星座
 ecliptic coordinate system:黃道坐標系
+ecliptic coordinates:黄道坐标
 ecliptic latitude:黃緯
+ecliptic longitude:黄道经度
 ecliptic path:黄道路径
 ecliptic plane input catalog:黃道面輸入星表
 ecliptic plane:黄道平面
@@ -2655,6 +2661,7 @@ economics textbook diagram:经济学教科书图解
 economics textbook:經濟學教科書
 economics textbook:经济学教科书
 economics textbook:经济学课本
+economics theory:經濟學理論
 economics theory:经济学理论
 economics to behavior:经济学到行为
 economics to bioinformatics:经济学到生物信息学
@@ -3394,6 +3401,7 @@ economy class seat and business class:經濟艙座位和商務艙
 economy class seat:經濟艙座位
 economy class syndrome:經濟艙症候群
 economy class:經濟艙
+economy class:经济类
 economy coal mine:经济煤矿
 economy committee:经济委员会
 economy companies and organizations:经济企业和组织
@@ -4566,6 +4574,7 @@ ecovillage design:生態村設計
 ecovillage usually:生態村通常
 ecovillage:生態村
 ecowas court:西非国家经济共同体法院
+ecowas passport:西非国家经济共同体护照
 ecowas says:西非国家经济共同体说
 ecowas:西非国家经济共同体
 ecpyrrhorrhoe:细突野螟属
@@ -4756,6 +4765,7 @@ ecuador start:厄瓜多尔开始
 ecuador their:厄瓜多尔他们的
 ecuador then:厄瓜多尔然后
 ecuador this:厄瓜多尔这
+ecuador time:厄瓜多尔时间
 ecuador times:厄瓜多尔时报
 ecuador updates:厄瓜多尔更新
 ecuador vote:厄瓜多尔投票

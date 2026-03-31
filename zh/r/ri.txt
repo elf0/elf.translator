@@ -81,6 +81,7 @@ ri-át:利雅得
 ri-át:利雅得/利雅德
 ri-át:利雅德
 ria apartments:丽雅公寓
+ria coast:溺灣海岸
 ria de vigo:维哥湾
 ria novosti:俄罗斯新闻社
 ria:溺灣
@@ -169,6 +170,7 @@ rib abnormal:肋骨异常
 rib and shoulder:肋骨和肩
 rib boat:肋骨船
 rib bone marrow:肋骨骨髓
+rib cage:肋骨籠
 rib cage:胸廓
 rib design:肋骨设计
 rib dinner:肋骨晚餐
@@ -176,6 +178,7 @@ rib expansion:肋骨扩张
 rib eye steak:肋眼排
 rib eye:肋骨眼
 rib eye:肋骨眼睛
+rib fracture:肋骨斷裂
 rib fracture:肋骨骨折
 rib implant:肋骨植入物
 rib issue:肋骨问题
@@ -258,6 +261,7 @@ ribbon synapse:緞帶突觸
 ribbon:絲帶
 ribbonfish:粗鰭魚科
 ribe cathedral:里伯主教座堂
+ribe cathedral:里伯大教堂
 ribe county:里伯郡
 ribe:里伯
 ribeauville:里博维尔
@@ -332,6 +336,7 @@ riboflavin include:核黄素包括
 riboflavin kinase:核黄素激酶
 riboflavin levels:核黄素水平
 riboflavin side effect:核黄素副作用
+riboflavin synthase:核黄素合酶
 riboflavin:核黄素
 riboliewo:日波列沃
 ribonuclease:核糖核酸酶
@@ -518,6 +523,7 @@ rice chemist:大米化学家
 rice chemist:稻化学家
 rice christian:米飯基督徒
 rice chromosome:稻染色体
+rice city:稻城市
 rice combine harvester:稻联合收割机
 rice company:大米公司
 rice complete:稻完成
@@ -574,6 +580,7 @@ rice feed:大米喂
 rice five:大米五
 rice flour:大米粉
 rice flower organ:稻花器官
+rice flower:大米花
 rice flower:稻花
 rice food:大米食品
 rice fructose:大米果糖
@@ -586,6 +593,8 @@ rice genome:稻基因組
 rice genome:稻基因组
 rice goddess:稻女神
 rice granary:米仓
+rice grass:大米草
+rice grass:稻草
 rice grassy stunt virus:水稻草状矮缩病毒
 rice harvest:稻收割
 rice have been:大米已经
@@ -680,6 +689,7 @@ rice protein:大米蛋白质
 rice provide:大米供应
 rice provides:大米提供
 rice province:大米省
+rice pudding:大米布丁
 rice pudding:米布丁
 rice quality:大米质量
 rice real:大米真的
@@ -693,6 +703,7 @@ rice researchers:稻研究人员
 rice revolution restaurant:呷米共食廚房
 rice revolution:稻革命
 rice ridge:賴斯嶺
+rice river:稻河
 rice root:稻根
 rice sales system:大米销售系统
 rice sales:大米销售
@@ -2468,6 +2479,7 @@ richard open:理查德打开
 richard owen:理查德欧文
 richard own:理查德拥有
 richard page:理查德页
+richard paradox:理查德悖论
 richard park:理查德公园
 richard parker:理查德帕克
 richard parsons:理查德帕森斯
@@ -2572,9 +2584,11 @@ richardson curve:理查森曲线
 richardson decided:理查森决定
 richardson enter:理查森进入
 richardson extrapolation:理查德森外推法
+richardson glacier:理查森冰川
 richardson go:理查森去
 richardson hall:理查森大厅
 richardson has:理查森有
+richardson highway:理查森公路
 richardson highway:理查森高速公路
 richardson hill:理查森山
 richardson innovation center:理查森创新中心
@@ -2585,6 +2599,7 @@ richardson lakes:理查森湖
 richardson law school:理查森法学院
 richardson look:理查森看
 richardson month:理查森月
+richardson number:理查森数
 richardson number:理查逊数
 richardson nunatak:理查森冰原島峰
 richardson peak:理查森峰
@@ -2599,6 +2614,7 @@ richardson says:理查森说
 richardson select:理查森选择
 richardson smile:理查森微笑
 richardson thank:理查森感谢
+richardson township:理查森鎮區
 richardson township:理查森镇区
 richardson wait:理查森等
 richardson went:理查森去
@@ -2666,17 +2682,23 @@ richmond baking:里士满烘焙
 richmond ballet:里士满芭蕾舞
 richmond beer:里士满啤酒
 richmond bridge:里士满桥
+richmond bridge:里奇蒙橋
 richmond bridgeport:列治文橋港選區
 richmond business awards:里士满商业奖
 richmond business:里士满商业
 richmond cement:里士满水泥
+richmond centre:列治文中心
 richmond centre:里士满中心
+richmond centre:里奇蒙中心
 richmond chinese evangelical free church:列治文華人播道會
 richmond city council:里士满市议会
 richmond college:里士满学院
 richmond commercial building:皆旺商業大廈
 richmond community:里士满社区
+richmond constituency:列治文选区
 richmond corridor:里士满走廊
+richmond county:里士满县
+richmond county:里奇蒙县
 richmond county:里奇蒙縣
 richmond court:樂恆花園
 richmond court:里士满法院
@@ -2710,17 +2732,25 @@ richmond line:里士满线
 richmond marathon:里士满马拉松
 richmond market:里士满市场
 richmond mayor:里士满市长
+richmond mountain:列治文山
+richmond mountain:里士满山
+richmond mountain:里奇蒙山
 richmond news leader:里士满新闻领袖
 richmond news:里士满新闻
+richmond north:里士满北
 richmond office:里士满办公室
 richmond olympic oval:列治文奧林匹克橢圓速滑館
 richmond olympics:里士满奥运会
 richmond open:里士满打开
 richmond organize:里士满组织
 richmond palace:里士满宫
+richmond palace:里士满宫殿
 richmond park and dulwich:里士满公园和达利奇
 richmond park:lì dōu shuǐ àn
+richmond park:列治文公園
 richmond park:里士满公园
+richmond park:里士滿公園
+richmond park:里奇蒙公園
 richmond patients:里士满病人
 richmond peace education:里士满和平教育
 richmond peak:里奇滿峰
@@ -2731,6 +2761,7 @@ richmond reef:潭門礁
 richmond reef:潭门礁
 richmond region:里士满地区
 richmond residents:里士满居民
+richmond river:里奇蒙河
 richmond road:里士满路
 richmond said:里士满说
 richmond satellite:里士满卫星
@@ -2740,7 +2771,11 @@ richmond schools:里士满学校
 richmond sixteen:里士满十六
 richmond south centre:列治文南中選區
 richmond spider:里士满蜘蛛
+richmond station:列治文站
+richmond station:里士满站
+richmond station:里奇蒙站
 richmond steveston:列治文史提夫斯頓選區
+richmond street:列治文街
 richmond street:里士满街
 richmond studio:里士满工作室
 richmond surrender:里士满投降
@@ -2749,11 +2784,19 @@ richmond tobacco:里士满烟草
 richmond tours:山富旅遊
 richmond tower:金星閣
 richmond towers:里士满塔
+richmond township:列治文鎮區
 richmond township:里士满镇区
+richmond township:里士滿鎮區
+richmond township:里奇蒙鎮區
+richmond university:列治文大學
+richmond university:里士满大学
+richmond university:里士滿大學
+richmond university:里奇蒙大學
 richmond upon thames kerület:泰晤士河畔列治文區
 richmond upon thames:泰晤士河畔列治文區
 richmond villa:富有門
 richmond villa:沙田豪苑
+richmond west:里士满西
 richmond what color:里士满什么颜色
 richmond what:里士满什么
 richmond whig:里士满辉格党
@@ -2840,6 +2883,7 @@ ricochet lost worlds:星际弹球之失落的世界
 ricoh arena:理光竞技场
 ricoh china:理光中国
 ricoh company:理光公司
+ricoh cup:理光杯
 ricoh europe:理光欧洲
 ricoh global:理光全球
 ricoh products:理光产品
@@ -3118,10 +3162,12 @@ riesz representation theorem:里斯表示定理
 rietavas pašvaldība:列塔瓦斯
 rietavas:列塔瓦斯
 rietavo savivaldybė:列塔瓦斯
+rietberg castle:里特贝格城堡
 rietberg museum:里特贝格博物馆
 rietberg:里特贝格
 rieterpark:里特公园
 riethgen:里特根
+rieti cathedral:列蒂主教座堂
 rieti:列蒂
 rietschen:里辰
 rietumazerbaidžāna:西亞塞拜疆省
@@ -3325,6 +3371,7 @@ rifu road:日富路
 rifu station:利府車站
 rifu:利府町
 rifujin na magonote:不講理不求人
+rig castle:里加城堡
 rig sum:日松乡
 rig:裏加
 rig:里加
@@ -3357,6 +3404,8 @@ riga district:里加區
 riga eastern partnership:里加东部伙伴关系
 riga fc:列加足球會
 riga governorate:里加省
+riga gymnasium:里加体育馆
+riga gymnasium:里加體育館
 riga international airport:里加国际机场
 riga international:里加国际
 riga is a city:里加是一个城市
@@ -3372,9 +3421,13 @@ riga or tallinn:里加或塔林
 riga planning region:里加計畫區
 riga radio and tv tower:里加广播电视塔
 riga russian theatre:里加俄羅斯劇場
+riga shipyard:里加造船厂
 riga stock exchange:里加证券交易所
 riga suit:里加适合
 riga technical university:里加工业大学
+riga township:里加鎮區
+riga treaty:里加条约
+riga trial:里加审判
 riga:日嘎村
 riga:裏加
 riga:里加
@@ -3991,6 +4044,7 @@ right disease:正确的疾病
 right display:右显示
 right distance:正确的距离
 right distribution:正确的分布
+right division:右师
 right do:对的做
 right doctor:对的医生
 right doctor:正确的医生
@@ -4137,6 +4191,7 @@ right fibula:右腓骨
 right field line:右场线
 right field umpire:右線審
 right field:右场
+right field:权利场
 right field:正确的场
 right field:正确的领域
 right fielder:右外野手
@@ -4163,6 +4218,7 @@ right first time:正确的第一次
 right fish:对的鱼
 right fish:正确的鱼
 right fist:右拳
+right flag:右旗
 right flight:正确的飞行
 right floor:正确的地板
 right flower:正确的花
@@ -4577,6 +4633,7 @@ right love:正确的爱
 right lubricant:正确的润滑剂
 right lung and heart:右肺和心脏
 right lung:右肺
+right lung:右龙村
 right lung:正确的肺
 right machine and blueprint:正确的机器和蓝图
 right machine learning model type:正确的机器学习模型类型
@@ -4648,6 +4705,7 @@ right microphone:正确的麦克风
 right middle gate:zhōngyòumén
 right middle gate:中右門
 right middle gate:中右门
+right midfielder:右中场
 right milestone:对的里程碑
 right milestone:正确的里程碑
 right millisecond:正确的毫秒
@@ -5019,6 +5077,7 @@ right questions and answers:正确的问题和答案
 right questions:对的问题
 right questions:权利问题
 right questions:正确的问题
+right quotient:右商
 right racist:右种族主义者
 right radical:右激进主义
 right radius:右半径
@@ -5089,6 +5148,7 @@ right revenue:正确的收入
 right reward:正确的奖赏
 right rhythm:正确的节奏
 right rib:右肋骨
+right right:右右
 right ring:正确的戒指
 right risk and insurance:正确的风险和保险
 right risk knowledge:正确的风险知识
@@ -6452,6 +6512,7 @@ rigny saint martin:里尼圣马丁
 rigny sur arroux:阿鲁河畔里尼
 rigny:里尼
 rigo district:里戈縣
+rigo township:里加鎮區
 rigo:裏加
 rigo:里加
 rigolato:里戈拉托
@@ -7108,6 +7169,7 @@ rijadas:利雅得
 rijadas:利雅得/利雅德
 rijadas:利雅德
 rijek:里耶卡
+rijeka airport:里耶卡机场
 rijeka airport:里耶卡機場
 rijeka and belgrade:里耶卡和贝尔格莱德
 rijeka and budapest:里耶卡和布达佩斯
@@ -7344,11 +7406,15 @@ riluozha:日洛扎
 riluozhai:日落寨
 riluzole:利鲁唑
 rim glacier:里姆冰川
+rim highway:罗马公路
+rim highway:羅馬公路
 rim ji hoon:林志勳
 rim jong sim:林貞心
 rim ju song:林柱成
 rim kwang hyok:林光赫
+rim river:羅馬河
 rim un sim:林恩心
+rim village:罗马村
 rim:luómǎ
 rim:罗马
 rim:羅馬
@@ -7417,6 +7483,7 @@ rimini area:里米尼地区
 rimini exhibition center:里米尼展览中心
 rimini exhibition:里米尼展览
 rimini hotel:里米尼酒店
+rimini province:里米尼省
 rimini school:里米尼学校
 rimini street:里米尼街
 rimini theatre:里米尼剧院
@@ -7459,6 +7526,7 @@ rimseo-ri:林西里
 rimsky yuen:袁國強
 rimsting:里姆斯廷
 rimstone:緣石壩
+rimto station:林土站
 rimto:林土
 rimu toast:日牧吐司
 rimun-ri:里門
@@ -7524,6 +7592,7 @@ rinan community and long term care service activity center:rìnánshèqūjìzhǎ
 rinan community and long term care service activity center:ㄖˋㄋㄢˊㄕㄜˋㄑㄩㄐㄧˋㄓㄤˇㄓㄠˋㄈㄨˊㄨˋㄏㄨㄛˊㄉㄨㄥˋㄓㄨㄥㄒㄧㄣ
 rinan community and long term care service activity center:日南社区暨长照服务活动中心
 rinan community and long term care service activity center:日南社區暨長照服務活動中心
+rinan county:日南县
 rinan elementary school:日南國小
 rinan park(cide road):日南公園(慈德路)
 rinan park(zhongshan road):日南公園(中山路)
@@ -7799,10 +7868,12 @@ ring road enter:环路进入
 ring road project:环路项目
 ring road to tongzhou:环路到通州
 ring road:rào chéng lù
+ring road:戒指路
 ring road:环城路
 ring road:环路
 ring road:環城路
 ring roads of beijing:北京环路
+ring roads:戒指路
 ring rock:林岩
 ring said:戒指说
 ring series:戒指系列
@@ -7864,6 +7935,7 @@ ringer's solution:林格氏液
 ringette:冰上膠圈球
 ringgau:灵高
 ringgenberg:林根貝格
+ringgold county:灵戈尔德县
 ringgold knoll:靈戈爾德穹丘
 ringgold:灵戈尔德
 ringicula doliaris:耳口露齿螺
@@ -7903,12 +7975,14 @@ rings of uranus:天王星環
 ringsaker:靈薩克
 ringsberg:灵斯贝格
 ringsheim:灵斯海姆
+ringsted airport:灵斯泰兹机场
 ringsted kommuna:靈斯泰茲自治市
 ringsted kommune:靈斯泰茲自治市
 ringsted komuun:靈斯泰茲自治市
 ringsted municipality:靈斯泰茲市鎮
 ringsted municipality:靈斯泰茲自治市
 ringsted railway station:灵斯泰兹站
+ringsted station:灵斯泰兹站
 ringsted:灵斯泰兹
 ringstedin kunta:靈斯泰茲自治市
 ringsteds kommun:靈斯泰茲自治市
@@ -8374,6 +8448,7 @@ riolo terme:廖洛泰尔梅
 riolobos:里奥洛沃斯
 riols:里奥尔斯
 riolunato:廖卢纳托
+riom castle:里永城堡
 riom:里永
 riomaggiore:里奥马焦雷
 rion des landes:里永德朗德
@@ -8503,15 +8578,19 @@ ripoblik a airilan:Àiěrlán
 ripoblik a airilan:愛爾蘭
 ripoblik a airilan:愛爾蘭共和國
 ripoblik a airilan:爱尔兰
+ripoll monastery:里波尔修道院
 ripoll:里波尔
 ripollet:里波列特
 ripon barbel:高臀魮
 ripon building:里彭大厦
+ripon cathedral:里彭大教堂
 ripon cathedral:里彭座堂
 ripon college is very:里彭学院是非常
 ripon college:里彭学院
+ripon college:里彭學院
 ripon forum:里彭论坛
 ripon grammar school:里彭文法学校
+ripon station:里彭站
 ripon:里彭
 riposto:里波斯托
 rippebliek vaan de kongo:刚果共和国
@@ -8793,6 +8872,7 @@ rise they:增加他们
 rise threat:上升威胁
 rise three:增长三
 rise through:上升通过
+rise time:上升时间
 rise time:上昇時間
 rise to a challenge:上升到一个挑战
 rise to a height:上升到一个高度
@@ -9571,6 +9651,7 @@ risk equation:风险等式
 risk especially:风险尤其
 risk estimate:风险估计
 risk etc:风险等等
+risk evaluation:风险評估
 risk even:风险甚至
 risk event:风险事件
 risk events:风险事件
@@ -9600,7 +9681,9 @@ risk factor study:风险因素研究
 risk factor surveillance system:风险因素监视系统
 risk factor surveillance:风险因素监视
 risk factor testing:风险因素测试
+risk factor:风险因子
 risk factor:风险因素
+risk factors:风险因素
 risk failure:风险失败
 risk families:风险家庭
 risk field:风险领域
@@ -10286,6 +10369,7 @@ risk radar:风险雷达
 risk range:风险范围
 risk ranking:风险排名
 risk rather than:风险而不是
+risk ratio:风险比
 risk rationality:风险理性
 risk reach:风险达到
 risk reality:风险现实
@@ -10951,12 +11035,15 @@ ritchie and a small:里奇和一个小的
 ritchie and brian:里奇和布莱恩
 ritchie and his colleagues:里奇和他的同事
 ritchie began:里奇开始
+ritchie boy:里奇男孩
 ritchie boys:里奇男孩
 ritchie center facilities:里奇中心设施
 ritchie center:里奇中心
 ritchie continue:里奇继续
+ritchie county:里奇县
 ritchie day:里奇日
 ritchie disney:里奇迪士尼
+ritchie highway:里奇公路
 ritchie point:里奇角
 ritchie said:里奇说
 ritchie says:里奇说
@@ -11130,6 +11217,7 @@ ritual requirements:仪式要求
 ritual sacrifice:仪式牺牲
 ritual she:仪式她
 ritual song:仪式歌
+ritual songs:仪式歌
 ritual space:仪式空间
 ritual still:仪式仍然
 ritual studies:仪式研究
@@ -11432,6 +11520,7 @@ river auto:河汽车
 river avon:雅芳河
 river b&b:冬山河人文會館
 river back:河回
+river back:河背
 river bank:河銀行
 river bank:河银行
 river bann:班恩河
@@ -11446,6 +11535,7 @@ river be:河成为
 river be:河流成为
 river beach:河海滩
 river beas sitting-out area:雙魚河休憩處
+river bed:河床
 river before:河之前
 river begin:河开始
 river begin:河流开始
@@ -11469,6 +11559,7 @@ river brewery:河啤酒厂
 river bridge road:河桥路
 river bridge:河桥
 river bridge:河橋
+river buffalo:河水牛
 river bug:河虫
 river burgundy:河勃艮第
 river burst:河爆发
@@ -11600,8 +11691,11 @@ river drought contingency plan:河干旱应急计划
 river drought plan:河干旱计划
 river drought:河干旱
 river drug lord:河毒枭
+river drum:河鼓
 river dynamics:河流动力学
 river each time:河每次
+river east:河东
+river east:河東
 river echo:河回聲
 river ecology:河流生态学
 river ecosystem services:河流生态系统服务
@@ -11712,6 +11806,7 @@ river history museum:河流历史博物馆
 river history:河流历史
 river holiday park:河假日公园
 river home:河家
+river horse:河马
 river hospital:河医院
 river hospital:河醫院
 river hotel and went:河酒店和去
@@ -11855,6 +11950,7 @@ river murray river:河流墨累河
 river museum of art:河艺术博物馆
 river museum:河博物馆
 river music:河音乐
+river name:河流名称
 river national park:河国家公园
 river national park:河國家公園
 river national park:河流國家公園
@@ -11930,6 +12026,7 @@ river painter:河画家
 river parish:河教区
 river park and zoo:河公园和动物园
 river park:河公园
+river park:河公園
 river park:河流公园
 river part:河流部分
 river pearl:河珍珠
@@ -11944,6 +12041,7 @@ river plastic challenge:河流塑料挑战
 river plastic:河流塑料
 river plateau:河高原
 river plutonium:河钚
+river po:河波村
 river police:河警察
 river pollution:河污染
 river pollution:河流污染
@@ -12029,6 +12127,7 @@ river severn:塞文河
 river shale gas:河页岩气
 river shannon:香农河
 river shark:露齒鯊屬
+river shin:河中國
 river shiner:黏美洲鱥
 river ship:河船
 river shipyard:河造船厂
@@ -12063,6 +12162,7 @@ river state police:河州警察
 river state:河州
 river state:河流州
 river states:河流国家
+river station:河流站
 river station:河站
 river steamboat:河蒸汽船
 river steel:河钢
@@ -12218,6 +12318,7 @@ river water source:河水源
 river water without:河水没有
 river water:河水
 river wear:威爾河
+river west:河西
 river wetland park:河湿地公园
 river wetland:河湿地
 river wetlands:河流湿地
@@ -12321,8 +12422,12 @@ riverside avenue:濱江大道
 riverside camp gopeng:务边露营处
 riverside church in new york city:河滨教堂在纽约市
 riverside church:河滨教堂
+riverside church:河濱教堂
 riverside code at qingming festival:清明上河图密码
+riverside colony:里弗賽德殖民地
 riverside community:大河戀社區
+riverside county:河滨县
+riverside county:河濱县
 riverside dream:河畔之夢
 riverside dream:河畔之梦
 riverside freeway:河滨高速公路
@@ -12330,7 +12435,9 @@ riverside greenway:沿江绿道
 riverside hardware market:河濱五金商場
 riverside heights:河畔臺
 riverside hide:河畔觀鳥屋
+riverside line:河滨线
 riverside mansion:恒大悦珑湾
+riverside museum:河滨博物馆
 riverside museum:河濱博物館
 riverside müzesi:河濱博物館
 riverside olympic sports park:滨江奥体公园
@@ -12343,6 +12450,8 @@ riverside park-dajia section:河濱公園大佳段
 riverside park:江边公园
 riverside park:河滨公园
 riverside park:河濱公園
+riverside park:里弗賽德公園
+riverside restaurant:翠河餐廳
 riverside road north:jinbin bak lu
 riverside road north:沿边北路
 riverside road north:沿邊北路
@@ -12350,10 +12459,15 @@ riverside road:大鐘樓街
 riverside road:大钟楼街
 riverside road:江边路
 riverside road:江邊路
+riverside road:河滨路
+riverside road:河濱路
 riverside road:滨河路
 riverside road:濱河路
+riverside stadium:河滨体育场
 riverside stadium:河滨球场
+riverside stadium:河濱體育場
 riverside stadium:河畔球場
+riverside station:河滨站
 riverside terrace building area a no. 10:溪畔华庭 a 区 10 号楼
 riverside terrace building area a no. 10:溪畔華庭 a 區 10 號樓
 riverside terrace building area a no. 11:溪畔华庭 a 区 11 号楼
@@ -12488,6 +12602,7 @@ riverside terrace building area c no. 9:溪畔华庭 c 区 9 号楼
 riverside terrace building area c no. 9:溪畔華庭 c 區 9 號樓
 riverside terrace building area c:溪畔华庭 c 区
 riverside terrace building area c:溪畔華庭 c 區
+riverside township:里弗賽德鎮區
 riverside township:里弗赛德镇区
 riverside waterfront bicycle path:环江滨水自行车道
 riverside west road:沿江西路
@@ -12612,6 +12727,7 @@ riviéthe dé janvyi:里约热内卢
 rivjer diu ramparo rajonas:朗帕河區
 rivna provinco:羅夫諾州
 rivne (tỉnh):羅夫諾州
+rivne amber:罗夫诺琥珀
 rivne nuclear power plant:羅夫諾核電廠
 rivne oblast:羅夫諾州
 rivne oblastı:羅夫諾州
@@ -12733,17 +12849,22 @@ rixu:日旭
 rixucun:日旭村
 rixung:热拥村
 riya ewropayê e75:欧洲e75公路
+riyad bank:利雅得银行
 riyad bölgesi:利雅得省
 riyad pasha:利雅得帕夏
+riyad pasha:利雅德帕夏
 riyad:利雅得
 riyad:利雅得/利雅德
 riyad:利雅得省
 riyad:利雅德
 riyada:日压达
 riyadh air:利雅得航空
+riyadh airport:利雅得机场
 riyadh dirt sprint:維雅德泥地短途錦標
 riyadh fountain:利雅德噴泉
+riyadh marathon:利雅得马拉松
 riyadh metro:利雅德地鐵
+riyadh metro:利雅德地铁
 riyadh office:利雅德辦公室
 riyadh province:利雅得省
 riyadh region:利雅得省
@@ -12815,8 +12936,10 @@ rizal monument:黎刹纪念碑
 rizal monument:黎剎紀念碑
 rizal park:黎剎公園
 rizatriptan:利扎曲坦
+rize castle:日泽城堡
 rize merkez:里澤
 rize province:里泽省
+rize province:里澤省
 rize:日则
 rize:日泽
 rize:里泽省

@@ -1,4 +1,5 @@
 fl lines:羅馬城鐵
+flaach castle:弗拉赫城堡
 flaach:弗拉赫
 flaanderen:弗拉芒大区
 flaanderen:弗拉芒大區
@@ -150,6 +151,7 @@ flag line:旗线
 flag logo:旗标志
 flag look:旗看
 flag make:旗幟制造
+flag manifold:旗流形
 flag means:旗意味着
 flag model:旗模型
 flag monument:旗纪念碑
@@ -878,6 +880,7 @@ flag still:旗仍然
 flag stop:旗停止
 flag tanker:旗油轮
 flag team:旗队
+flag template:旗幟模板
 flag three:旗三
 flag time:旗时间
 flag today:旗今天
@@ -986,6 +989,7 @@ flagstaff airport:弗拉格斯塔夫机场
 flagstaff area:弗拉格斯塔夫地区
 flagstaff brewing:弗拉格斯塔夫酿酒
 flagstaff community:弗拉格斯塔夫社区
+flagstaff county:弗拉格斯塔夫县
 flagstaff east:弗拉格斯塔夫东
 flagstaff garden:弗拉格斯塔夫花园
 flagstaff gardens:旗杆花园
@@ -1196,6 +1200,7 @@ flamecrest:台湾戴菊
 flameless ration heater:无焰加热器
 flamenco and history:弗拉明戈和历史
 flamenco company:弗拉明戈公司
+flamenco dance:弗拉明戈舞蹈
 flamenco dancer:弗拉明戈舞者
 flamenco fusion band:弗拉明戈融合乐队
 flamenco fusion:弗拉明戈融合
@@ -1284,10 +1289,13 @@ flanders and brabant:佛兰德和布拉班特
 flanders and denmark:佛兰德和丹麦
 flanders and swann:夫蘭達斯與史旺
 flanders bay:弗蘭德雷斯灣
+flanders campaign:佛兰德战役
 flanders field:佛兰德场
+flanders flotilla:佛兰德区舰队
 flanders historic district:弗蘭德斯歷史區
 flanders marine institute:法兰德斯海洋研究所
 flanders mathematics olympiad:弗拉芒數學奧林匹克
+flanders region:佛兰德地区
 flanders research information:佛兰德研究信息
 flanders research:佛兰德研究
 flanders timur:东弗兰德省
@@ -1568,6 +1576,7 @@ flattening the curve:拉平曲线
 flattening:扁率
 flatterland:二维国内外
 flattery:拍马屁
+flattop mountain:平頭山
 flattop:平頭
 flatulence humor:放屁幽默
 flatulence:屁
@@ -1635,6 +1644,7 @@ flavodoxin:黄素氧还蛋白
 flavon:弗拉翁
 flavone synthase:黄酮合酶
 flavones:黄酮类
+flavonoid biosynthesis:黄酮类化合物生物合成
 flavonoid:黄酮类化合物
 flavonol synthase:黄酮醇合酶
 flavonols:黄酮醇
@@ -1660,11 +1670,13 @@ flax bread:亚麻面包
 flax culture:亚麻文化
 flax egg:亚麻蛋
 flax eggs:亚麻蛋
+flax family:亚麻科
 flax fiber:亚麻纤维
 flax fibre:亚麻纤维
 flax floor will:亚麻地板会
 flax floor:亚麻地板
 flax flower:亚麻花
+flax industry:亚麻工业
 flax oil:亚麻油
 flax origin:亚麻起源
 flax paper:亚麻纸
@@ -1703,7 +1715,9 @@ flea jump:跳蚤跳
 flea market furniture:跳蚤市場家具
 flea market:旧物市场
 flea market:舊物市場
+flea market:跳蚤市场
 flea market:跳蚤市場
+flea markets:跳蚤市场
 flea model:跳蚤模型
 flea no longer:跳蚤不再
 flea palace:跳蚤宫殿
@@ -1758,6 +1772,7 @@ fleet bank:艦隊銀行
 fleet base:艦隊基地
 fleet branch, cga, oac:海洋委員會海巡署艦隊分署
 fleet carrier:艦隊航空母艦
+fleet center:艦隊中心
 fleet company:艦隊公司
 fleet flagship:艦隊旗艦
 fleet force:艦隊力量
@@ -1796,10 +1811,12 @@ fleet of boat:艦隊的船
 fleet problem:艦隊問題演習
 fleet rehabilitation and modernization:舰队重整与现代化
 fleet review:海上閱兵
+fleet river:艦隊河
 fleet shipwreck:艦隊沉船
 fleet street:弗利特街
 fleet street:艦隊街
 fleet strength:艦隊力量
+fleet tugboat:艦隊拖船
 fleet uniform:艦隊制服
 fleet week freedom:艦隊周自由
 fleet week:艦隊周
@@ -1834,6 +1851,7 @@ fleming peaks:弗萊明峰
 fleming return:弗萊明返回
 fleming road garden:菲林明道花園
 fleming road:菲林明道
+fleming township:弗萊明鎮區
 fleming went:弗萊明去
 fleming's right hand rule:佛來明右手定則
 fleming:弗萊明
@@ -1845,21 +1863,26 @@ flemington racecourse:費明頓馬場
 flemish alliance:弗拉芒联盟
 flemish art:弗拉芒艺术
 flemish artist:弗拉芒艺术家
+flemish brabant:弗拉芒布拉班特
 flemish brabant:弗拉芒布拉班特省
 flemish béguinages:佛兰德的比津社区
 flemish community day:佛拉蒙社群節日
 flemish community of belgium:比利时弗拉芒社群
 flemish community:弗拉芒社群
 flemish companies:弗拉芒公司
+flemish council:弗拉芒议会
 flemish dialects:弗拉芒语
 flemish government:弗拉芒政府
+flemish governments:弗拉芒政府
 flemish guard:弗拉芒卫队
 flemish landscape:弗拉芒风景
+flemish league:弗拉芒联盟
 flemish legion:弗拉芒军团
 flemish liberal open:弗拉芒自由派开
 flemish liberal:弗拉芒自由派
 flemish master:弗拉芒大师
 flemish movement:弗拉芒运动
+flemish nationalism:弗拉芒民族主義
 flemish nationalist:弗拉芒民族主义者
 flemish painter anthony:弗拉芒画家安东尼
 flemish painter louis:弗拉芒画家路易斯
@@ -1891,6 +1914,7 @@ flensburch:弗伦斯堡
 flensburch:弗倫斯堡
 flensburg fjord:弗伦斯堡峡湾
 flensburg government:弗伦斯堡政府
+flensburg government:弗倫斯堡政府
 flensburg:弗伦斯堡
 flensburg:弗倫斯堡
 flensburga:弗伦斯堡
@@ -1941,6 +1965,7 @@ fletcher islands:弗萊徹群島
 fletcher lake:弗萊徹湖
 fletcher nunataks:弗萊徹冰原島峰
 fletcher peninsula:弗萊徹半島
+fletcher township:弗萊徹鎮區
 fletcher:弗萊徹
 fletschhorn:弗萊奇峰
 fletta bay:弗萊塔灣
@@ -3376,6 +3401,7 @@ flight cabin:飞行舱
 flight campaign:飞行战役
 flight cancel:飞行取消
 flight cancellation and delay:航班取消與航班延誤
+flight cap:飛行帽
 flight cap:飞行帽
 flight capability:飛行能力
 flight capability:飞行能力
@@ -3415,6 +3441,7 @@ flight class:飞行课程
 flight club:飞行俱乐部
 flight college:飞行学院
 flight collision:飞行碰撞
+flight combat:飞行战斗
 flight commander:飞行指挥官
 flight companies:飞行公司
 flight comparator:飞行比较器
@@ -3577,6 +3604,8 @@ flight efficiency upgrade:飞行效率升级
 flight efficiency:飞行效率
 flight end:飞行结束
 flight engineer:飛航工程師
+flight engineer:飞行工程师
+flight engineers:飞行工程师
 flight engines:飞行发动机
 flight entertainment system:飞行娱乐系统
 flight entertainment systems:飞行娱乐系统
@@ -3597,6 +3626,7 @@ flight experiences and skills:飞行经验和技能
 flight experiences:飞行经验
 flight experiment:飞行实验
 flight exploitation:飞行剥削
+flight facilities:飞行设施
 flight failure:飞行失败
 flight fear:飞行恐惧
 flight feather:發翔羽
@@ -3682,6 +3712,7 @@ flight it:飞行它
 flight jacket:飛行夾克
 flight japan airlines:飞行日本航空
 flight japan:飞行日本
+flight journal:飞行日志
 flight knowledge:飛行知識
 flight knowledge:飞行知识
 flight landing operations:飞行着陆操作
@@ -3693,8 +3724,10 @@ flight launch:飞行发射
 flight length:飞行长度
 flight lesson:飞行课程
 flight level:飛航空層
+flight level:飞行等级
 flight lieutenant wales:飞行中尉威尔士
 flight lieutenant william:飞行中尉威廉
+flight lieutenant:飛行中尉
 flight lieutenant:飞行中尉
 flight limit:飞行极限
 flight line recreation relay station:航線休憩驛站
@@ -3745,6 +3778,7 @@ flight missile:飞行导弹
 flight mission:飞行任务
 flight missions:飞行任务
 flight mode:飛行模式
+flight mode:飞行模式
 flight model:飛行模型
 flight model:飞行模型
 flight models:飞行模型
@@ -3813,6 +3847,7 @@ flight path uses:飞行路径使用
 flight path very:飞行路径非常
 flight path:飞行路径
 flight pattern:飛行模式
+flight pattern:飞行模式
 flight performance analysis:飛行性能分析
 flight performance and control:飞行性能和控制
 flight performance and flight control:飞行性能和飞行控制
@@ -3832,6 +3867,10 @@ flight physics:飞行物理
 flight physics:飞行物理学
 flight physiology:飞行生理学
 flight plan:飛行計劃
+flight plan:飛行计划
+flight plan:飞行计划
+flight plans:飛行计划
+flight plans:飞行计划
 flight platform offer:飞行平台提供
 flight platform:飞行平台
 flight platforms:飞行平台
@@ -4094,6 +4133,7 @@ flight training:飞行训练
 flight transportation:飞行运输
 flight travel:飞行旅行
 flight tribe:飛行部落
+flight tribe:飞行部落
 flight tunnel:飞行隧道
 flight turbulence:飞行湍流
 flight uniform:飞行制服
@@ -4191,6 +4231,7 @@ flint gun:燧石枪
 flint hand axe:燧石手斧
 flint island:弗林特岛
 flint island:弗林特島
+flint mountain:燧石山
 flint provides:燧石提供
 flint ridge:弗林特嶺
 flint river water:弗林特河水
@@ -4490,6 +4531,7 @@ flood risk standards:洪水风险标准
 flood risk strategy:洪水风险战略
 flood risk:洪水风险
 flood risks:洪水风险
+flood river:洪水河
 flood season:洪水季节
 flood sensor detect:洪水传感器检测
 flood sensor:洪水传感器
@@ -4739,6 +4781,7 @@ floor had been:地板已经
 floor has been:地板已经
 floor height:地板高度
 floor help:地板帮助
+floor hockey:地板曲棍球
 floor hockey:地板球
 floor hole:地板孔洞
 floor hours:地板小时
@@ -4898,6 +4941,7 @@ flora garden:慧景園
 flora ho sports centre:何世光夫人体育中心
 flora ho sports centre:何世光夫人體育中心
 flora island:国色天乡水上乐园
+flora mountain:弗洛拉山
 flora of china:中國植物相
 flora of north america:北美植物誌
 flora of north korea:北韓植物相
@@ -4911,6 +4955,7 @@ flora plaza:花都廣場
 flora reipublicae popularis sinicae:中国植物志
 flora rica:弗洛拉里卡
 flora stakes:花仙錦標
+flora township:弗洛拉鎮區
 flora township:弗洛拉镇区
 flora villa:紫翠園
 flora:弗洛拉
@@ -4978,6 +5023,7 @@ florence became:佛罗伦萨成为
 florence begin:佛罗伦萨开始
 florence brand:佛罗伦萨品牌
 florence card:佛罗伦萨卡
+florence cathedral:佛罗伦萨主教座堂
 florence cathedral:佛罗伦萨大教堂
 florence cathedral:聖母百花大教堂
 florence charterhouse:佛罗伦萨加尔都西会修道院
@@ -5030,6 +5076,7 @@ florence kwok:郭少芸
 florence li tim oi:李添嬡
 florence li tim-oi:李添嬡
 florence mansion:富麗大廈
+florence manuscript:佛罗伦萨手抄本
 florence marathon:佛罗伦萨马拉松
 florence market:佛罗伦萨市场
 florence mayor:佛罗伦萨市长
@@ -5054,6 +5101,7 @@ florence railway:佛罗伦萨铁路
 florence rainfall:佛罗伦萨降雨
 florence real:佛罗伦萨真的
 florence resident:佛罗伦萨居民
+florence road:佛罗伦萨路
 florence rock:弗洛倫斯岩
 florence school:佛罗伦萨学校
 florence she:佛罗伦萨她
@@ -5170,6 +5218,7 @@ florida air force base:佛罗里达空军基地
 florida airport shooting:佛罗里达机场射击
 florida airport:佛罗里达州机场
 florida airport:佛罗里达机场
+florida alliance:佛罗里达州联盟
 florida alligator:佛罗里达短吻鳄
 florida already:佛罗里达州已经
 florida and america:佛罗里达和美国
@@ -5283,6 +5332,7 @@ florida board:佛罗里达板
 florida boarding school:佛罗里达寄宿学校
 florida boarding school:佛罗里达州寄宿学校
 florida border:佛罗里达州边界
+florida boulevard:佛罗里达大道
 florida box turtle:佛羅里達箱龜
 florida boy:佛罗里达男孩
 florida cabinet:佛罗里达内阁
@@ -5339,6 +5389,7 @@ florida corporation:佛罗里达州公司
 florida county court:佛罗里达郡法院
 florida court:佛罗里达州法院
 florida court:佛罗里达法院
+florida court:佛羅里達州法院
 florida courts:佛罗里达州法院
 florida crystal:佛罗里达州水晶
 florida crystal:佛罗里达水晶
@@ -5470,6 +5521,7 @@ florida is another:佛罗里达州是另一个
 florida is basel art:佛罗里达是巴塞尔艺术
 florida is located in:佛罗里达州位于
 florida island:佛罗里达岛
+florida islands:佛罗里达群岛
 florida jail:佛罗里达监狱
 florida judge:佛罗里达州法官
 florida judge:佛罗里达法官
@@ -5575,6 +5627,8 @@ florida produce:佛罗里达生产
 florida project:佛罗里达项目
 florida prostitution:佛罗里达州卖淫
 florida province:佛罗里达县
+florida province:佛罗里达省
+florida province:弗洛里達省
 florida public service:佛罗里达公共服务
 florida public service:佛罗里达州公共服务
 florida radio stations:佛罗里达广播电台
@@ -5628,6 +5682,7 @@ florida schools:佛罗里达学校
 florida scientists:佛罗里达科学家
 florida scrub jay:丛鸦
 florida senate committee:佛罗里达州参议院委员会
+florida senate:佛罗里达参议院
 florida senate:佛罗里达州参议院
 florida send:佛罗里达州发送
 florida server:佛罗里达服务器
@@ -5671,10 +5726,12 @@ florida state university robert:佛罗里达州立大学罗伯特
 florida state university student:佛罗里达州立大学学生
 florida state university system:佛罗里达州立大学系统
 florida state university:佛罗里达州立大学
+florida state:佛罗里达州
 florida state:佛罗里达州州
 florida state:佛罗里达状态
 florida still:佛罗里达州仍然
 florida stone crab:隆背哲蟹
+florida strait:佛罗里达海峡
 florida strawberry:佛罗里达州草莓
 florida street:佛罗里达街
 florida student:佛罗里达学生
@@ -5723,6 +5780,10 @@ florida train:佛罗里达州火车
 florida trump support:佛罗里达特朗普支持
 florida trump:佛罗里达特朗普
 florida u.s.:佛罗里达州美国
+florida union:佛罗里达州联盟
+florida university:佛罗里达大学
+florida university:佛罗里达大學
+florida university:佛羅里達州大學
 florida utilize:佛罗里达利用
 florida vacation:佛罗里达度假
 florida visit:佛罗里达州访问
@@ -6077,7 +6138,10 @@ flow model:流动模型
 flow modeling:流动建模
 flow models:流动模型
 flow module:流动模块
+flow net:流动网络
+flow network:流动网络
 flow network:网络流
+flow networks:流动网络
 flow noise:流动噪音
 flow of air from:流动的空气从
 flow of air:流动的空气
@@ -6120,6 +6184,7 @@ flow process:流动过程
 flow products:流动产品
 flow provides:流动提供
 flow range:流动范围
+flow rate:流动比率
 flow rather than:流动而不是
 flow reach:流动达到
 flow report:流动报告
@@ -6194,6 +6259,7 @@ flower & bird's market:花鳥市場
 flower & bird's market:花鸟市场
 flower academy:花学院
 flower again:花又
+flower alley:花巷
 flower alliance and peanut:花联盟和花生
 flower alliance:花联盟
 flower always:花总是
@@ -6232,12 +6298,15 @@ flower blessing:花祝福
 flower blooming valley:绽放花谷
 flower boat:花船
 flower bookmark:花書籤
+flower border:花边
 flower bottom:花底
 flower bouquet:插花
 flower box:花盒
 flower boy:花樣男孩
 flower boys next door:鄰家花美男
 flower bract:花苞片
+flower brick:花砖
+flower brick:花磚
 flower bridge:花桥
 flower bud:花芽
 flower butterfly:花蝴蝶
@@ -6283,9 +6352,12 @@ flower explosion:花爆炸
 flower export:花出口
 flower exports:花出口
 flower face:花脸
+flower face:花臉
 flower farm:花农场
 flower film festival:花电影节
 flower film:花电影
+flower flag:花旗
+flower flower:花花
 flower font:花字体
 flower food:花食品
 flower food:花食物
@@ -6343,6 +6415,7 @@ flower king:花王
 flower lake:花湖
 flower lane church:花巷基督教堂
 flower look:花看
+flower mantis:花螳螂
 flower market and food:花市场和食品
 flower market center:花市场中心
 flower market path:花墟徑
@@ -6353,6 +6426,7 @@ flower market:辛格花市
 flower markets:花市场
 flower matrix:花矩阵
 flower meadow:花草甸
+flower mirror:花鏡
 flower mixture:花混合物
 flower models:花模型
 flower monastery:花修道院
@@ -6388,6 +6462,7 @@ flower organ:花器官
 flower pagoda:花塔
 flower painter:花画家
 flower paper:花纸
+flower park:花公園
 flower peak:花峰
 flower per hour:花每小时
 flower per:花每
@@ -6474,6 +6549,7 @@ flower wait:花等
 flower wall:花墙
 flower war:荣冠战争
 flower water:花水
+flower way:花路
 flower weekend:花周末
 flower white:花白色
 flower will answer:花会回答
@@ -6868,6 +6944,7 @@ fluid design:流体设计
 fluid distribution:流体分布
 fluid domain:流体域
 fluid dynamics analysis:流體動力學分析
+fluid dynamics:流体动力学
 fluid dynamics:流體動力學
 fluid dynamics:液体动力学
 fluid each day:流体每天
@@ -6932,6 +7009,7 @@ fluid interaction:流体相互作用
 fluid into:液体进入
 fluid is air:流体是空气
 fluid is water:流体是水
+fluid kinematics:流体运动学
 fluid laboratory:液体实验室
 fluid layer:流体层
 fluid layout:流体布局
@@ -6998,6 +7076,7 @@ fluid or release pressure:液体或释放压力
 fluid or torque converter line:流体或液力变矩器线
 fluid or torque converter:流体或液力变矩器
 fluid organism:流体生物
+fluid ounce:液体盎司
 fluid ounce:液量盎司
 fluid painting:流体绘画
 fluid parameter:流体参数
@@ -7073,6 +7152,8 @@ fluid speed:流体速度
 fluid stage:流体阶段
 fluid start:液体开始
 fluid state:流体状态
+fluid statics:流体静力学
+fluid statics:液体静力学
 fluid steel:流体钢
 fluid still enter:流体仍然进入
 fluid still:流体仍然
@@ -7106,6 +7187,7 @@ fluid test:液体测试
 fluid theory of electricity:電的流體理論
 fluid theory:流体理论
 fluid theory:液体理论
+fluid therapy:液体疗法
 fluid through:流体通过
 fluid through:液体通过
 fluid tissue:流体组织
@@ -7119,6 +7201,7 @@ fluid transfer:液体转移
 fluid transport:流体运输
 fluid transportation:流体运输
 fluid travel:流体旅行
+fluid turbulence:流体湍流
 fluid type is best:流体类型是最好
 fluid type:流体类型
 fluid until:液体直到
@@ -7256,6 +7339,8 @@ fluorescence measurement and standard:荧光测量和标准
 fluorescence measurement:荧光测量
 fluorescence methods:荧光方法
 fluorescence microscope:熒光顯微鏡
+fluorescence microscope:荧光显微镜
+fluorescence microscope:荧光顯微鏡
 fluorescence mode:荧光模式
 fluorescence observation:荧光观察
 fluorescence output:荧光输出
@@ -7326,6 +7411,7 @@ fluoride molecules:氟化物分子
 fluoride or chloride ion:氟化物或氯化物离子
 fluoride or nitrate:氟化物或硝酸盐
 fluoride phosphate:氟化磷酸盐
+fluoride poisoning:氟化物中毒
 fluoride products:氟化物产品
 fluoride protection layer:氟化物保护层
 fluoride protection:氟化物保护
@@ -7353,6 +7439,7 @@ fluorine cannot:氟不能
 fluorine carbon:氟碳
 fluorine chemistry work group:氟化学工作组
 fluorine chemistry:氟化学
+fluorine chemistry:氟化學
 fluorine compounds:氟化合物
 fluorine industry:氟工业
 fluorine intermediate:氟中间
@@ -7398,6 +7485,7 @@ fluorite mineral:萤石矿物
 fluorite open:萤石开
 fluorite prices:萤石价格
 fluorite resources:萤石资源
+fluorite structure:萤石结构
 fluorite:萤石
 fluoroacetamide poisoning:氟乙酰胺中毒
 fluoroacetamide:氟乙酰胺
@@ -7535,6 +7623,7 @@ flux networks:通量网络
 flux of london:通量的伦敦
 flux or force:通量或力
 flux quantization:磁通量量子化
+flux qubit:通量量子位元
 flux reach:通量达到
 flux reactor:通量反應器
 flux research:通量研究
@@ -7585,6 +7674,7 @@ fly away home:返家十萬里
 fly away:飞离
 fly back:飞回
 fly ball pitcher:飛球型投手
+fly ball:飞球
 fly brain:苍蝇大脑
 fly brain:飞脑
 fly bridge:飞桥
@@ -7603,10 +7693,12 @@ fly eggs:飞蛋
 fly eight:飞八
 fly eighty:飞八十
 fly entertainment:飞娱乐
+fly eye:苍蝇眼
 fly family:飞家庭
 fly farm:苍蝇农场
 fly fifty:飞五十
 fly fire:飞火
+fly fish:飞鱼
 fly fisherman:飞渔夫
 fly fishing:飛蠅釣
 fly fixed wing aircraft:飞固定翼飞机
@@ -7628,12 +7720,14 @@ fly hot air balloon:飞热气球
 fly international:飞国际
 fly invasion:苍蝇入侵
 fly is a useful:飞是一个有用的
+fly island:飞岛
 fly it:飞它
 fly jamaica airways:牙買加飛天航空
 fly just:飞只
 fly kill:苍蝇杀
 fly kite:飞风筝
 fly lappeenranta:拉彭蘭塔航空
+fly line:飞线
 fly me to polaris:星願
 fly me:飞我
 fly model:飞模型

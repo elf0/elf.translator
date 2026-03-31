@@ -171,6 +171,7 @@ foam milk tea:泡沫奶茶
 foam mixture:泡沫混合物
 foam model:泡沫模型
 foam models:泡沫模型
+foam nest:泡沫巢
 foam nickel production capacity:泡沫镍生产能力
 foam nickel:泡沫镍
 foam no longer:泡沫不再
@@ -357,6 +358,7 @@ focus experience:焦点体验
 focus features:焦点影业
 focus film series:焦点电影系列
 focus film:焦点电影
+focus films:焦点电影
 focus forum:焦点论坛
 focus fossil:焦点化石
 focus from competition:焦点从竞争
@@ -1784,6 +1786,7 @@ focus technology:焦点技术
 focus term:焦点术语
 focus test:焦点测试
 focus testing:焦点测试
+focus theatre:焦点剧院
 focus theme:焦点主题
 focus then:焦点然后
 focus theory:焦点理论
@@ -2417,6 +2420,8 @@ fog in the following:雾在以下
 fog in the united states:雾在美国
 fog infrastructure:雾基础设施
 fog is my daughter:雾是我的女儿
+fog island:雾岛
+fog island:霧岛
 fog lamp:雾灯
 fog layer:雾层
 fog lift:雾举起
@@ -2452,6 +2457,7 @@ fog remove:雾移除
 fog result:雾导致
 fog rose:雾玫瑰
 fog screen:雾屏幕
+fog sculpture:雾雕塑
 fog sea:雾海
 fog sea:霧海
 fog seed:雾种子
@@ -2497,6 +2503,7 @@ foggaret azzouia:富盖拉艾扎奥耶
 foggaret ezzaouia:富盖拉艾扎奥耶
 foggaret ezzaouia:富蓋拉艾扎奧耶
 foggia cathedral:福贾主教座堂
+foggia province:福賈省
 foggia:福賈
 foggy bottom campus:雾谷校园
 foggy bottom:雾谷
@@ -2535,6 +2542,7 @@ fois:富瓦
 foisches:富瓦什
 foissiat:富瓦西亚
 foissy sur vanne:瓦讷河畔富瓦西
+foix river:富瓦河
 foix station:富瓦站
 foix:富瓦
 fojhong road:佛中路
@@ -2777,6 +2785,7 @@ folklore origin:民俗起源
 folklore performance:民俗表演
 folklore phenomena:民俗现象
 folklore rather than:民俗而不是
+folklore research:民俗研究
 folklore says:民俗说
 folklore story:民俗故事
 folklore students:民俗学生
@@ -3727,10 +3736,15 @@ fongshan junior high school:鳳山國中
 fongshan longshan temple:鳳山龍山寺
 fongshan park:鳳山公園
 fongshan reservoir:鳳山水庫
+fongshan river:凤山河
 fongshan river:鳳山溪
 fongshan road:峰山路
 fongshan senior commercial & industrial school:鳳山商工
 fongshan stadium:高雄市鳳山體育場
+fongshan stadium:鳳山體育場
+fongshan station:凤山站
+fongshan station:豐山站
+fongshan station:鳳山站
 fongshan temple (dashu):鳳山寺(大樹)
 fongshan train station:鳳山車站
 fongshan west (city council):fèng shān xī zhàn
@@ -3739,6 +3753,7 @@ fongshan west (city council):鳳山西站
 fongshan west metro station:鳳山西站
 fongshan west:fèng shān xī zhàn
 fongshan west:凤山西站
+fongshan west:鳳山西
 fongshan west:鳳山西站
 fongshan:fèng shān
 fongshan:凤山
@@ -3864,6 +3879,8 @@ font de la plaça d'espanya:西班牙廣場
 font de les tres gràcies:皇家廣場
 font definition:字体定义
 font description:字体描述
+font design:字体设计
+font designer:字体设计师
 font development:字体开发
 font dialog box:字体对话框
 font directory:字体目录
@@ -3880,7 +3897,9 @@ font enumeration:字体枚举
 font experts:字体专家
 font file format:字体文件格式
 font file:字体文件
+font file:字型文件
 font files:字体文件
+font files:字型文件
 font for example:字体例如
 font format version:字体格式版本
 font format:字体格式
@@ -4158,6 +4177,7 @@ fontegreca:丰泰格雷卡
 fontellas:丰特利亚斯
 fontenai les louvets:丰特奈莱卢韦
 fontenai sur orne:奥恩河畔丰特奈
+fontenay abbey:丰特奈修道院
 fontenay aux roses station:丰特奈欧罗斯站
 fontenay aux roses:丰特奈欧罗斯
 fontenay de bossery:丰特奈德博斯里
@@ -4314,6 +4334,7 @@ food allergy and autism:食物過敏和自閉症
 food allergy and food intolerance:食物過敏和食物不耐症
 food allergy reaction:食物過敏反應
 food allergy research:食物過敏研究
+food allergy:食物过敏
 food allergy:食物過敏
 food alliance:食品联盟
 food allotment:食物分配
@@ -5276,8 +5297,12 @@ food bank network:食物银行网络
 food bank networks:食物银行网络
 food bank or appropriate:食物银行或适当的
 food bank use:食物银行使用
+food bank:食品银行
 food bank:食物賙濟庫
+food bank:食物銀行
 food bank:食物银行
+food banks:食品银行
+food banks:食物银行
 food bar:食品酒吧
 food barbecue:食物燒烤
 food base:食品基地
@@ -6323,6 +6348,7 @@ food needs:食品需要
 food needs:食物需要
 food neophobia:食物恐新症
 food network:食品网络
+food network:食物网络
 food networks:食品网络
 food neutral:食物中立
 food news:食品新闻
@@ -6645,6 +6671,7 @@ food processing workers:食品加工业工人
 food processing:食品加工业
 food processor or a standard:食品加工机或一个标准
 food processor:食品加工机
+food processor:食物處理器
 food produce:食品生产
 food producer or retail:食品生产者或零售
 food producer:食品生产者
@@ -6788,6 +6815,7 @@ food quantity:食物数量
 food question:食物问题
 food questionnaire:食物問卷調查
 food questions:食品问题
+food race:食品竞赛
 food race:食物竞赛
 food radiation:食品辐射
 food ranking:食品排名
@@ -7301,6 +7329,7 @@ food scholar:食品学者
 food science and human nutrition:食品科學和人類營養
 food science and technology building:食品科技館
 food science and technology building:食品科技馆
+food science:食品科学
 food science:食品科學
 food scientific committee:食品科学委员会
 food scientific:食品科学
@@ -7463,6 +7492,7 @@ food security trend:粮食安全趋势
 food security week:粮食安全周
 food security would:粮食安全将
 food security:粮食安全
+food security:食品安全
 food security:食物安全
 food seems:食物看起来
 food selection system:食物选择系统
@@ -7743,6 +7773,7 @@ food technology team:食品技术团队
 food technology this year:食品技术今年
 food technology trend:食品技术趋势
 food technology:食品技术
+food technology:食品科技
 food temperature and hard:食物温度和硬度
 food temperature and time:食品温度和时间
 food temperature:食品温度
@@ -7855,6 +7886,7 @@ food trend:食品趋势
 food trend:食物趋势
 food trigger:食物触发器
 food truck:美食車
+food truck:食品卡车
 food trust and digital transformation:食品信任和数字化转型
 food trust blockchain platform:食品信托区块链平台
 food trust blockchain:食品信托区块链
@@ -7888,6 +7920,7 @@ food vendor:食物供应商
 food version:食物版本
 food very good:食物很好
 food very:食物非常
+food vessel:食品容器
 food video and photography:食品视频和摄影
 food video:食品视频
 food vitamin:食物维生素
@@ -8254,6 +8287,7 @@ foot media:脚媒体
 foot meeting:脚会议
 foot mimic:脚模仿
 foot missing:脚不见了
+foot model:脚模特
 foot monk:脚僧侣
 foot monkey:脚猴
 foot needs:脚需要
@@ -8274,6 +8308,7 @@ foot pain:脚痛
 foot passengers:脚乘客
 foot path:脚路径
 foot per second:英尺每秒
+foot plough:脚犁
 foot problem:脚问题
 foot problems:脚问题
 foot project:脚项目
@@ -8677,6 +8712,7 @@ football coach:足球教练
 football collaboration:足球合作
 football comics:足球漫画
 football comment:足球评论
+football commentary:足球解说
 football commentator:足球评论员
 football committee:足球委员会
 football community reaction:足球社区反应
@@ -8818,6 +8854,7 @@ football girl:足球女孩
 football girl:足球少女
 football give:足球给
 football glove:足球手套
+football goalkeeper:足球守門員
 football god:足球上帝
 football god:足球神
 football gold medal:足球金牌
@@ -8995,6 +9032,7 @@ football means:足球意味着
 football media day:足球媒体日
 football media:足球媒体
 football memory:足球记忆
+football midfielder:足球中场
 football mission:足球任务
 football mission:足球使命
 football mode and so on:足球模式等等
@@ -12341,6 +12379,7 @@ for truth:为了真相
 for tv:为了电视
 for u.s. retire:为了美国退休
 for u.s.:为了美国
+for ukraine:为了乌克兰
 for understanding japan:为了理解日本
 for understanding many diseases:为了理解许多疾病
 for understanding:为了理解
@@ -12522,6 +12561,7 @@ foraminacephale:孔头龙属
 foraminifera:有孔蟲門
 forano:福拉诺
 foras:佛拉斯
+forbach railway:福尔巴克铁路
 forbach station:福尔巴克站
 forbach:福尔巴克
 forbes africa:福布斯非洲
@@ -12533,6 +12573,7 @@ forbes and the wall street journal:福布斯和华尔街日报
 forbes and university of minnesota:福布斯和明尼苏达大学
 forbes article:福布斯文章
 forbes asia:福布斯亚洲
+forbes asia:福布斯亞洲
 forbes asian:福布斯亚洲
 forbes ask:福布斯问
 forbes assertion:福布斯断言
@@ -12545,6 +12586,7 @@ forbes blog:福布斯博客
 forbes book:福布斯书
 forbes burnham:福布斯伯纳姆
 forbes china:福布斯中国
+forbes china:福布斯中國
 forbes chinese:福布斯中文
 forbes closed-end fund:福布斯封闭式基金
 forbes cloud:福布斯云
@@ -12677,8 +12719,10 @@ forbidden zone spring:禁区泉
 forbo holding ag:福尔波
 forcall:福尔卡利
 forcalqueiret:福卡尔凯雷
+forcalquier cathedral:福卡尔基耶大教堂
 forcalquier:福卡尔基耶
 forcarei:福尔卡雷
+force a:力一
 force abilities:力能力
 force activation:力活化
 force adequate:力足够的
@@ -13057,6 +13101,7 @@ force of nature:自然力量
 force of the people:人民力量
 force of the revolution:革命力量
 force of truth:力量的真理
+force one:力一
 force only:力只有
 force open:力打开
 force open:力量打开
@@ -13093,6 +13138,7 @@ force part:力部分
 force particle:力粒子
 force pencil:力量铅笔
 force performance:力性能
+force platform:力平台
 force platforms:力平台
 force play:強迫進壘
 force point:力点
@@ -13100,6 +13146,7 @@ force pointer:力指针
 force policies:力政策
 force policy emphasize:力政策强调
 force policy:力政策
+force polygon:力多边形
 force polygyny:力一夫多妻制
 force presence:力量存在
 force prevent:力量阻止
@@ -13270,6 +13317,7 @@ forchia:福尔基亚
 forchlorfenuron:氯吡脲
 forchtenberg:福希滕贝格
 forchtenstein castle:弗克騰斯坦城堡
+forchtenstein castle:弗尔希滕施泰因城堡
 forchtenstein:弗尔希滕施泰因
 forcing notrump:逼叫性无将
 forcipiger longirostris:镊口鱼
@@ -13292,6 +13340,7 @@ ford agree:福特同意
 ford agreement:福特协议
 ford aircraft carrier:福特航空母舰
 ford airport:福特机场
+ford airport:福特機場
 ford alliance:福特联盟
 ford already:福特已经
 ford also would test:福特也将测试
@@ -13444,6 +13493,7 @@ ford county:福特县
 ford county:福特縣
 ford create:福特创造
 ford credit rating:福特信用评级
+ford cup:福特杯
 ford currently offer:福特目前提供
 ford currently test:福特目前测试
 ford currently:福特目前
@@ -13496,6 +13546,7 @@ ford explained:福特解释道
 ford explore:福特探索
 ford explorer:福特探险家
 ford explorer:福特探险者
+ford explorers:福特探险家
 ford expressway:福特高速公路
 ford factories:福特工厂
 ford factory:福特工厂
@@ -13599,6 +13650,7 @@ ford mazda:福特马自达
 ford medal:福特獎章
 ford middle east:福特中东
 ford model:福特模型
+ford model:福特模特
 ford modem:福特调制解调器
 ford mondeo:福特蒙迪欧
 ford motor company recently:福特汽车最近
@@ -13723,8 +13775,10 @@ ford think:福特认为
 ford this year:福特今年
 ford three:福特三
 ford thunderbird:福特雷鸟
+ford thunderbirds:福特雷鸟
 ford to bill:福特到比尔
 ford today:福特今天
+ford township:福特鎮區
 ford township:福特镇区
 ford tractor:福特拖拉机
 ford transit van:福特全顺面包车
@@ -15291,6 +15345,7 @@ forest antelope:森林羚羊
 forest apartment:森林公寓
 forest appear:森林出现
 forest appears:森林出现
+forest apple:森林苹果
 forest approach:森林方法
 forest are safe:森林是安全的
 forest area and forest:森林面积和森林
@@ -15334,6 +15389,7 @@ forest biometrics:森林生物识别技术
 forest biosphere reserve:森林生物圈保护区
 forest biosphere:森林生物圈
 forest biotechnology:森林生物技术
+forest bird:森林鸟
 forest birds:森林鸟
 forest birds:森林鸟类
 forest bison:森林野牛
@@ -15343,6 +15399,7 @@ forest boundary:森林边界
 forest breakfast:森林早餐
 forest breath paint:森林呼吸涂料
 forest breath:森林呼吸
+forest brother:森林兄弟
 forest brothers veterans:森林兄弟老兵
 forest brothers:森林兄弟
 forest bug:红足真蝽
@@ -15443,6 +15500,7 @@ forest degradation and deforestation:森林退化和森林砍伐
 forest degradation would:森林退化将
 forest degradation:森林退化
 forest density:森林密度
+forest department:森林系
 forest department:森林部门
 forest desertification:森林沙漠化
 forest design:森林设计
@@ -15478,6 +15536,8 @@ forest education:森林教育
 forest elephant population:森林大象种群
 forest elephant:森林大象
 forest elephant:森林象
+forest elf:森林精灵
+forest elf:森林精靈
 forest emergency:森林紧急情况
 forest emissions:森林排放
 forest engineering:森林工程学
@@ -15501,9 +15561,11 @@ forest farm:森林农场
 forest feel:森林感觉
 forest fibre:森林纤维
 forest field:森林场
+forest finnish:森林芬兰人
 forest finns:森林芬兰人
 forest fire protection:森林防火
 forest fire:森林火
+forest firefighter:森林消防员
 forest floor:森林地板
 forest flower:森林花
 forest follow:森林跟随
@@ -15594,6 +15656,7 @@ forest hotel:森林酒店
 forest house:森之屋民宿
 forest hug:森林拥抱
 forest hut:森林小屋
+forest hydrology:森林水文学
 forest idol:森林偶像
 forest image:森林图像
 forest implementation:森林实现
@@ -15631,6 +15694,7 @@ forest keep you:森林保持你
 forest keep:森林保持
 forest kill:森林杀
 forest kindergarten:森林幼儿园
+forest kindergarten:森林幼兒園
 forest kindergarten:森林幼稚園
 forest king:森林王
 forest kingdom:森林王国
@@ -15839,6 +15903,8 @@ forest quality:森林质量
 forest rabbit:森林兔
 forest railway:森林铁路
 forest rain:森林雨
+forest ranch:森林农场
+forest ranch:森林牧场
 forest rather than:森林而不是
 forest raven:林渡鸦
 forest raw material:森林原材料
@@ -16011,6 +16077,8 @@ forest wait:森林等
 forest wait:森林等待
 forest walk:森林步行
 forest warfare:森林战争
+forest warrior:森林战士
+forest warrior:森林戰士
 forest watch:森林手表
 forest water resources:森林水资源
 forest water:森林水
@@ -16052,6 +16120,7 @@ foresta di pietra:石林风景区
 foreste:福雷斯特
 forestier peninsula:福里斯蒂尔半岛
 foresto sparso:福雷斯托斯帕尔索
+forestry academy:林业学院
 forestry achievement:林业成就
 forestry action:林业行动
 forestry activist:林业活动家
@@ -17044,6 +17113,7 @@ forgetting and prague:遗忘和布拉格
 forgetting curve changes:遗忘曲线变化
 forgetting curve show:遗忘曲线显示
 forgetting curve:遗忘曲线
+forgetting curves:遗忘曲线
 forgetting details:遗忘细节
 forgetting everything:遗忘一切
 forgetting gene:遗忘基因
@@ -17298,6 +17368,7 @@ forgiveness real:寬恕真的
 forgiveness release:宽恕释放
 forgiveness require:宽恕需要
 forgiveness rules:宽恕规则
+forgiveness sunday:寬恕星期天
 forgiveness therapy:宽恕疗法
 forgiveness therapy:寬恕治療
 forgiveness variant:宽恕变量
@@ -17327,6 +17398,7 @@ fork and spoon:叉子和勺
 fork as:叉子当作
 fork attack:叉子攻击
 fork contain:叉子包含
+fork head:叉子头
 fork intersection(shuiyuan road):叉路口(水源路)
 fork intersection(zhongshan rd.):叉路口(中山路)
 fork intersection(zhongshan road):叉路口(中山路)
@@ -17335,6 +17407,7 @@ fork marked lemur:叉斑鼠狐猴屬
 fork or finger:叉子或手指
 fork or your hands:叉子或你的手
 fork result:叉子导致
+fork river:叉子河
 fork season:叉子季节
 fork tailed flycatcher:叉尾王霸鹟
 fork tailed sunbird:叉尾太阳鸟
@@ -18645,7 +18718,9 @@ forman glacier:福曼冰川
 formania:复芒菊属
 formanilide:甲酰苯胺
 formans:福尔芒河
+formant frequency:共振峰频率
 formant pattern:共振峰模式
+formant synthesis:共振峰合成
 formant:共振峰
 format aesthetics:格式美学
 format again:格式再
@@ -19055,6 +19130,7 @@ former accountant:前会计师
 former accusation:前指控
 former activist:前活动家
 former actor:前演员
+former actor:前演員
 former actress seems:前女演员看起来
 former actress:前女演员
 former addresses:前地址
@@ -20856,6 +20932,7 @@ former liberty:前自由
 former libya:前利比亚
 former lieutenant colonel:前中校
 former lieutenant:前中尉
+former life:前生命
 former life:前生活
 former light-heavyweight:前轻重量级
 former lighthouse:前灯塔
@@ -21938,6 +22015,7 @@ former servant:前仆人
 former service member:前服务成员
 former service:前服务
 former services:前服务
+former settlement:前殖民地
 former settler:前定居者
 former sex worker:前性工作者
 former shadow chancellor:前影子大臣
@@ -22137,6 +22215,7 @@ former state:前国家
 former state:前州
 former state:前状态
 former statement:前声明
+former states:前国家
 former station:前站
 former statistics professor:前统计学教授
 former statistics:前统计学
@@ -22315,6 +22394,7 @@ former tourism:前旅游
 former towel:前毛巾
 former town:前城镇
 former township:前鎮區
+former township:前镇区
 former toy:前玩具
 former toyota:前丰田
 former toyota:前丰田汽车
@@ -22752,6 +22832,7 @@ former-ceo steve:前首席执行官史蒂夫
 former-france:前法国
 former-soviet union country:前苏联国家
 former:前
+formerie station:福尔默里站
 formerie:福尔默里
 formetanate:伐虫脒
 formia:福尔米亚
@@ -22796,10 +22877,12 @@ formosa boulevard metro station:美麗島站
 formosa boulevard:měi lì dǎo
 formosa boulevard:美丽岛
 formosa boulevard:美麗島
+formosa boulevard:臺灣大道
 formosa car rental , hualien:台灣租車
 formosa car rental:九龍租車
 formosa chang:鬍鬚張
 formosa department:福莫薩縣
+formosa department:臺灣系
 formosa do oeste:西福莫萨
 formosa do rio preto:普雷图河畔福莫萨
 formosa do sul:南福莫萨
@@ -22807,7 +22890,9 @@ formosa dreamers:福爾摩沙夢想家
 formosa expedition:美國福爾摩沙遠征
 formosa freeway (north bound):福爾摩沙高速公路(北上)
 formosa freeway (south bound):福爾摩沙高速公路(南下)
+formosa freeway:台湾高速公路
 formosa freeway:福爾摩沙高速公路
+formosa freeway:臺灣高速公路
 formosa fun coast(suspended):八仙水上樂園(停業中)
 formosa fun coast:八仙海岸
 formosa gas sta.:福隆加油站
@@ -22816,6 +22901,9 @@ formosa ha tinh steel corporation:台塑河靜鋼鐵公司
 formosa ha tinh steel corporation:台塑河靜鋼鐵興業責任有限公司
 formosa ha tinh steel:台塑河靜鋼鐵
 formosa hakka radio:寶島客家廣播電台
+formosa island:台湾岛
+formosa island:台湾岛屿
+formosa island:臺灣岛
 formosa magazine:美麗島雜誌
 formosa oil linkou changgung:台亞林口長庚加油站
 formosa oil:台亞林口忠孝站
@@ -22832,13 +22920,22 @@ formosa petrochemical:台塑石油
 formosa plastic group:台塑企業
 formosa plastics group museum:台塑企業文物館
 formosa plastics group:台塑企業
+formosa plastics:臺灣塑膠
+formosa province:台湾省
 formosa province:福莫萨省
+formosa province:臺灣省
 formosa provinco:福爾摩沙省
 formosa provinco:福莫萨省
 formosa slug snake:台湾钝头蛇
+formosa strait:台湾海峡
+formosa strait:臺灣海峡
+formosa television:台湾电视
 formosa television:民間全民電視公司
+formosa tv:台湾电视
 formosa wang brothers park:台塑王氏昆仲公園
 formosa watch:寶島鐘錶
+formosa youth:台湾青年
+formosa youth:臺灣青年
 formosa:台湾
 formosa:福爾摩沙省
 formosa:福莫萨省
@@ -22918,6 +23015,7 @@ formula editing:公式编辑
 formula editor and auto:公式编辑器和自动
 formula editor:公式編輯器
 formula editor:公式编辑器
+formula editor:数学公式编辑器
 formula elements:公式元素
 formula evaluation:公式求值
 formula expression:公式表达
@@ -23295,6 +23393,7 @@ fort minor:黑暗堡壘
 fort monckton:蒙克顿堡
 fort monroe:門羅堡
 fort moore:班寧堡
+fort mountain:要塞山
 fort moville:福尔莫维尔
 fort museum:要塞博物馆
 fort niagara state park:尼亚加拉堡州立公园
@@ -23393,6 +23492,7 @@ fortaleza esporte clube:福塔雷薩體育會
 fortaleza hotel:福塔莱萨酒店
 fortaleza metro:福塔雷薩地鐵
 fortaleza ozama:奧薩馬堡壘
+fortaleza river:福塔莱萨河
 fortaleza san miguel de luanda:罗安达圣米格尔要塞
 fortaleza san miguel de luanda:羅安達聖米格爾要塞
 fortaleza y sitio histórico nacional de san juan de puerto rico:波多黎各的古堡与圣胡安历史遗址
@@ -23500,6 +23600,7 @@ fortress and prison:要塞和监狱
 fortress any:要塞任何
 fortress castle:矢倉
 fortress chess:堡壘象棋
+fortress church:堡教堂
 fortress church:要塞教堂
 fortress city:要塞城市
 fortress division:要塞师
@@ -23528,6 +23629,7 @@ fortress l 36:l-36據點
 fortress masada:要塞马萨达
 fortress metro tower:康泽花园
 fortress metro tower:康澤花園
+fortress mountain:要塞山
 fortress museum:要塞博物馆
 fortress of freedom:自由堡
 fortress of hotin:霍京要塞
@@ -23551,6 +23653,7 @@ fortress port arthur:要塞亚瑟港
 fortress press:要塞出版社
 fortress prison:要塞监狱
 fortress prison:要塞監獄
+fortress stadium:豐澤體育場
 fortress start:要塞开始
 fortress suddenly open:要塞突然开
 fortress suddenly:要塞突然
@@ -23581,6 +23684,7 @@ fortuna business centre:財神商業中心
 fortuna business centre:财神商业中心
 fortuna court:永光苑
 fortuna court:福慧大廈
+fortuna dusseldorf:福尔图娜杜塞尔多夫
 fortuna glacier:福圖納冰川
 fortuna house:幸福大廈
 fortuna house:福荫大厦
@@ -24642,6 +24746,7 @@ foshan metro:佛山地铁
 foshan model center:佛山模具城站
 foshan nanhai jinhe thai stainless steel co., ltd:佛山市南海金和泰不锈钢有限公司
 foshan nanhai shangke power supply co., ltd:佛山市南海尚科电源有限公司
+foshan nanshi:佛山南师
 foshan nationstar optoelectronics co.,ltd.:佛山市国星光电股份有限公司
 foshan news center:佛山新闻中心
 foshan no.1 people's hospital:佛山市第一人民医院
@@ -24683,6 +24788,7 @@ foshan university (xianxi campus):佛山大学(仙溪校区北区)
 foshan university nanhai xianxi campus south entrance:佛山大学南海仙溪校区南门
 foshan university station:佛山大学站
 foshan university:佛山大学
+foshan university:佛山大學
 foshan wanguang lighting engineering co., ltd:佛山万光照明工程有限公司
 foshan waterway:佛山水道
 foshan west railway station plans:佛山西站计划
@@ -24690,6 +24796,7 @@ foshan west railway station(under construction):佛山西站（建设中）
 foshan west railway station:佛山西站
 foshan west railway station:佛山西站（上客区）
 foshan west railway station:佛山西站（落客区）
+foshan west:佛山西
 foshan xin cheng sheng knitting co., ltd.:佛山市新诚盛针织有限公司
 foshan yunqing metal co., ltd:佛山市韵晴金属有限公司
 foshan zhangcha middle school:佛山市张槎中学
@@ -25057,6 +25164,7 @@ fossil record provides:化石记录提供
 fossil record show:化石记录显示
 fossil record tell:化石记录告诉
 fossil record:化石记录
+fossil records:化石记录
 fossil reef:化石礁
 fossil refining:化石精炼
 fossil research:化石研究
@@ -25250,6 +25358,7 @@ fouenant:富埃南
 fouencamps:富昂康
 fouesnant:富埃南
 foufflin ricametz:富夫兰里卡梅斯
+fougamou airport:富加穆機場
 fougamou:富加穆
 fougaron:富加龙
 fougax et barrineuf:富加和巴里讷夫
@@ -26459,6 +26568,7 @@ fountain court:芳庭閣
 fountain darter:泉鏢鱸
 fountain design:噴泉設計
 fountain glacier:方丹冰川
+fountain inn:噴泉客棧
 fountain lighting:噴泉照明
 fountain of arethusa:林仙泉
 fountain of justice:正義噴泉
@@ -26480,6 +26590,7 @@ fountain of water:噴泉的水
 fountain of wisdom:噴泉的智慧
 fountain of youth is real:青春之泉是真的
 fountain of youth:青春之泉
+fountain park:噴泉公園
 fountain pen:鋼筆
 fountain performance:噴泉表演
 fountain plaza:喷泉广场
@@ -26487,6 +26598,7 @@ fountain plaza:噴泉廣場
 fountain show:喷泉表演
 fountain show:噴泉表演
 fountain township:方廷镇区
+fountain valley:噴泉山谷
 fountain view:觀水法
 fountain view:观水法
 fountain:噴泉
@@ -26994,6 +27106,7 @@ four missing:四失踪
 four modernizations:四个现代化
 four modules:四模块
 four molecules:四分子
+four momentum:四动量
 four momentum:四维动量
 four monomer:四单体
 four month:四月
@@ -27138,6 +27251,7 @@ four right exertions:四正勤
 four ring road:四环路
 four river:四河
 four road:四路
+four roads:四路
 four rooms:瘋狂終結者
 four root:四根
 four rose:四玫瑰
@@ -27244,6 +27358,7 @@ four team:四队
 four teaspoon:四茶匙
 four teeth:四牙
 four temperaments:四種氣質
+four ten:四十
 four term:四学期
 four terminal sensing:四端点测量技术
 four thermocouple measurement:四热电偶测量
@@ -27334,8 +27449,11 @@ four unit:四单位
 four university:四大学
 four valley:四山谷
 four variable:四变量
+four vector:四向量
 four vector:四矢量
 four vector:四維矢量
+four vectors:四向量
+four vectors:四矢量
 four vedas:四吠陀
 four vehicle:四车辆
 four velocity:四维速度
@@ -27678,6 +27796,7 @@ fourbanne:富尔巴讷
 fourbeard rockling:四鬚岩鱈
 fourcade glacier:福爾凱德冰川
 fourcatier et maison neuve:富尔卡捷和迈松讷沃
+fourchambault station:富尔尚博站
 fourchambault:富尔尚博
 fourches:富尔什
 fourcigny:富尔西尼
@@ -27771,6 +27890,7 @@ fourteen one two:十四一二
 fourteen one:十四一
 fourteen or fifteen:十四或十五
 fourteen ounce:十四盎司
+fourteen points:十四点
 fourteen points:十四點和平原則
 fourteen pound:十四英镑
 fourteen princess:十四公主
@@ -27801,12 +27921,15 @@ fourteenth could:第十四能
 fourteenth dalai lama:第十四达赖喇嘛
 fourteenth day:第十四日
 fourteenth dynasty of egypt:埃及第十四王朝
+fourteenth episode:第十四集
 fourteenth generation:第十四代
 fourteenth institute:第十四研究所
+fourteenth legion:第十四军团
 fourteenth point:第十四点
 fourteenth station:第十四站
 fourteenth street and canal:第十四街和运河
 fourteenth street:第十四街
+fourteenth symphony:第十四交響曲
 fourteenth united states army:美国第十四集团军
 fourteenth week:第十四周
 fourteenth year:第十四年
@@ -27857,6 +27980,8 @@ fourth apartment:第四公寓
 fourth apple:第四苹果
 fourth are vitamin:第四是维生素
 fourth arm:第四臂
+fourth armada:第四舰队
+fourth armenia:第四亚美尼亚
 fourth armour:第四装甲
 fourth army:第四军队
 fourth ask:第四问
@@ -27898,6 +28023,7 @@ fourth centuries:第四世纪
 fourth century:第四世纪
 fourth chairman:第四主席
 fourth chakra:第四脈輪
+fourth channel:第四通道
 fourth chapter:第四章
 fourth choice:第四选择
 fourth choice:第四選擇
@@ -27926,6 +28052,7 @@ fourth consumption areas:第四消费领域
 fourth consumption:第四消费
 fourth continent:第四大陆
 fourth core:第四核心
+fourth corps:第四兵团
 fourth council of the lateran:第四次拉特朗公會議
 fourth court:第四法院
 fourth criticism:第四批判
@@ -28112,6 +28239,7 @@ fourth language:第四語言
 fourth language:第四语言
 fourth largest:第四最大的
 fourth layer:第四层
+fourth level:第四等级
 fourth line:第四线
 fourth long march:第四长征
 fourth loop:第四环
@@ -28123,6 +28251,7 @@ fourth main point:第四要点
 fourth major:第四主要
 fourth marker:第四标记
 fourth market:四級市場
+fourth market:第四市场
 fourth meal:第四餐
 fourth media:第四媒体
 fourth medicine:第四医学
@@ -28167,6 +28296,7 @@ fourth page:第四页
 fourth panel:第四面板
 fourth paradigm:第四范式
 fourth paragraph:第四段
+fourth parliament:第四国会
 fourth part:第四部分
 fourth participant:第四参与者
 fourth partner:第四合作伙伴
@@ -28216,6 +28346,8 @@ fourth rank:第四等级
 fourth referee:第四裁判
 fourth referred to:第四指
 fourth regiment:第四团
+fourth region:第四军区
+fourth region:第四地区
 fourth reich:第四帝國
 fourth republic began:第四共和国开始
 fourth republic of korea:韩国第四共和国
@@ -28274,12 +28406,14 @@ fourth street apartment:第四街公寓
 fourth street tai wai:大圍第四街
 fourth street:四街道
 fourth street:第四街
+fourth street:第四街道
 fourth sub:第四子
 fourth substance:第四物质
 fourth substitute:第四替补
 fourth superpower:第四超级大国
 fourth suppose:第四假设
 fourth sword:第四剑
+fourth symphony:第四交響曲
 fourth tax office:第四稅務局
 fourth tax office:第四税务局
 fourth tea soup:第四茶汤
@@ -28297,6 +28431,7 @@ fourth tower:第四塔
 fourth towers:第四塔
 fourth try:第四尝试
 fourth uk television service:英國第四電視服務
+fourth umpire:第四裁判
 fourth unit:第四单位
 fourth united states army:美國第四軍團
 fourth united states:第四美国
@@ -28511,6 +28646,7 @@ fox jump:狐狸跳
 fox jump:狐跳
 fox knows many:狐狸知道很多
 fox knows:狐狸知道
+fox lake:狐湖
 fox laugh:狐狸笑
 fox life:狐狸生活
 fox like:狐狸喜欢
@@ -28518,6 +28654,7 @@ fox look:狐狸看
 fox mask:狐狸面具
 fox meat:狐狸肉
 fox mobile browser:狐移动浏览器
+fox moth:狐蛾
 fox mountain:狐狸山
 fox move:狐狸移动
 fox nation:福斯國家網
@@ -28551,6 +28688,7 @@ fox series:狐狸系列
 fox sister:狐狸姐妹
 fox sitting:狐狸坐
 fox smith:狐史密斯
+fox snake:狐狸蛇
 fox snake:狐蛇
 fox soon:狐狸很快
 fox species survival plan:狐物种生存计划
@@ -28681,6 +28819,7 @@ fozu temple:佛祖廟
 fozu'ao:佛祖垇
 fozucun:佛祖村
 fozuling station:佛祖岭站
+fozuling station:佛祖嶺站
 fozuling:佛祖岭
 fozuling:佛祖嶺
 fozzano:福扎诺

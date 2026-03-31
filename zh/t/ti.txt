@@ -71,6 +71,7 @@ tian bo:田波
 tian cen gong:天劍宮
 tian chengping:田成平
 tian chengren:田成仁
+tian chengsi:天成寺
 tian chengsi:田承嗣
 tian chi temple:天池寺
 tian coal:天煤
@@ -86,6 +87,7 @@ tian e tang tunnel:厦蓉高速
 tian e tang tunnel:天鹅塘隧道
 tian emphasize:天强调
 tian fangran:田方然
+tian fengshan:天風山
 tian fengshan:田凤山
 tian force:天力
 tian fu fish village:天府渔庄
@@ -98,6 +100,7 @@ tian han:田汉
 tian hao jiang:田浩江
 tian he hospital:天和医院
 tian he hospital:天和醫院
+tian he:天合
 tian hong resort:天鸿度假村
 tian hongcai:田洪才钟表
 tian hongzheng:田弘正
@@ -105,6 +108,7 @@ tian hope:天希望
 tian hou temple:登嘉楼天后宫
 tian houwei:田厚威
 tian hua:田华
+tian huadong:天华洞
 tian huaijian:田懷諫
 tian huiyu:田惠宇
 tian institute:天学院
@@ -138,6 +142,7 @@ tian look:天看
 tian meng yuan coffee shop:甜梦园咖啡厅
 tian meng yuan:甜梦园中西餐厅
 tian mingjian incident:建国门事件
+tian mo:天漠
 tian mu shan road:tiānmùshān lù
 tian mu shan road:天目山路
 tian niao ramen:天鳥拉麵
@@ -160,6 +165,7 @@ tian songyao:田頌堯
 tian street:天街
 tian tan buddha statue:天壇大佛
 tian tan:天坛饭店 tiantan
+tian tao:天道
 tian tao:田涛
 tian teck trail:天德徑
 tian think:天认为
@@ -182,6 +188,11 @@ tian xiang yong peng homemade fish ball:天香永平手工魚丸面
 tian xiangli:田向利
 tian xin ge:添馨阁
 tian xin village:田心村
+tian xing:天兴
+tian xing:天兴县
+tian xing:天兴镇
+tian xing:天興縣
+tian xing:天興鎮
 tian xiusi:田修思
 tian xiuying:田皇貴妃
 tian xiwei:田曦薇
@@ -344,6 +355,7 @@ tiananmen:天安门
 tiananmen:天安门广场
 tianba community:田坝社区
 tianba east street:田坝东街
+tianba village:田坝村
 tianba'ao:田坝坳
 tianba:天巴
 tianba:田坝
@@ -368,11 +380,14 @@ tianbao reservoir:tiānbáo shuǐkù
 tianbao reservoir:天雹水库
 tianbao road:天宝路
 tianbao road:天寶路
+tianbao station:天保站
 tianbao station:天宝站
+tianbao station:天寶站
 tianbao street:天保街
 tianbao street:天宝大街
 tianbao street:天宝街
 tianbao travel:天宝旅游
+tianbao war:天宝战争
 tianbao wuhua:天宝物华
 tianbao wuhua:天寶物華
 tianbao-houqiao expressway:天猴高速
@@ -571,6 +586,7 @@ tiancongtun:天丛屯
 tiancun reservoir:tiáncūn shuǐkù
 tiancun reservoir:田村水库
 tiancun road subdistrict:田村路街道
+tiancun station:田村站
 tiancun subdistrict:田村街道
 tiancun:天村
 tiancun:田村
@@ -654,6 +670,7 @@ tiandong county:田东县
 tiandong county:田東縣
 tiandong middle school:田东中学
 tiandong north railway station:田东北站
+tiandong north:田东北
 tiandong primary school:田东小学
 tiandong road:田東路
 tiandong:tindung-hyun
@@ -743,6 +760,7 @@ tianfu 4th street:天府四街
 tianfu 5th street:天府五街
 tianfu airport apm:terminal 1 => terminal 2:天府机场apm:1号航站楼 => 2号航站楼
 tianfu airport apm:terminal 2 => terminal 1:天府机场apm:2号航站楼 => 1号航站楼
+tianfu airport:天府机场
 tianfu art park:天府艺术公园
 tianfu avenue north section:天府大道中段
 tianfu avenue north section:天府大道北段
@@ -756,8 +774,10 @@ tianfu boulevard bridge:天府大道桥
 tianfu boulevard:天府大道中段
 tianfu boulevard:天府大道南段
 tianfu boutique hotel:天福精品酒店
+tianfu center:天府中心
 tianfu commercial district station:天府商务区站
 tianfu commercial district:天府商务区
+tianfu cup:天府杯
 tianfu international airport bus line 1:天府国际机场公交专线1号线
 tianfu international airport north:天府机场北
 tianfu international slow town:天府国际慢城
@@ -863,6 +883,7 @@ tiangongsi:天宫寺镇
 tiangongsicun:天宫寺村
 tiangongying township:天宫营乡
 tiangongying:天宫营乡
+tiangongyuan station:天宫院站
 tiangongyuan subdistrict:天宫院街道
 tiangongyuan:tiāngōngyuàn
 tiangongyuan:天宫院
@@ -904,6 +925,7 @@ tiangui street:天贵大街
 tianguozhai:田果寨
 tiangutuncun:田古屯村
 tianha li:天和里
+tianhai investment:天海投资
 tianhai:天海
 tianhaicun:天海村
 tianhan jingyi park view hotel:天汉景逸酒店
@@ -916,6 +938,7 @@ tianhe 3rd road:天和三路
 tianhe 4th road:天和四路
 tianhe airport air traffic control tower:天河机场塔台
 tianhe airport:天河机场
+tianhe airport:天河機場
 tianhe avenue:天和大道
 tianhe barrutia:tiānhé qū
 tianhe barrutia:天河区
@@ -940,8 +963,11 @@ tianhe dong lu:天河东路
 tianhe east railway station:天河东站
 tianhe east road:天河东路
 tianhe east road:天河東路
+tianhe east:天河东
 tianhe garden:天河花园
 tianhe garden:天河花園
+tianhe gymnasium:天河体育馆
+tianhe gymnasium:天河體育館
 tianhe hospital of tcm:天河区中医院
 tianhe hospital:天和医院
 tianhe hq of xpeng motors:小鹏汽车天河区总部
@@ -961,6 +987,8 @@ tianhe mall bus terminal:天河城总站
 tianhe middle road:天河中路
 tianhe module:天河模块
 tianhe nan:天河南
+tianhe natatorium:天河游泳館
+tianhe natatorium:天河游泳馆
 tianhe no.1 primary school (huali campus):天河第一小学(华利校区)
 tianhe north road:天河北路
 tianhe north street:天河北街
@@ -973,6 +1001,7 @@ tianhe park:ㄊㄧㄢㄏㄜˊㄍㄨㄥㄩㄢˊ
 tianhe park:天和公园
 tianhe park:天和公園
 tianhe park:天河公园
+tianhe park:天河公園
 tianhe pharmacy:养天和大药房
 tianhe post office:天河邮局
 tianhe qu:tiānhé qū
@@ -995,6 +1024,8 @@ tianhe sports center(brt):brt体育中心站
 tianhe sports center:体育中心
 tianhe sports centre:天河体育中心
 tianhe stadium:天河体育场
+tianhe stadium:天河体育馆
+tianhe stadium:天河體育場
 tianhe straight steet:天河直街
 tianhe street:天河街
 tianhe subdistrict:天河街道
@@ -1003,6 +1034,7 @@ tianhe technology street:天河科技街
 tianhe village:天和里
 tianhe west road:天河西路
 tianhe zhucun:天河珠村
+tianhe zhucun:天河珠村站
 tianhe:tiānhé qū
 tianhe:天台乡
 tianhe:天和
@@ -1350,6 +1382,8 @@ tianjin air cargo:天津货运航空
 tianjin airlines own:天津航空拥有
 tianjin airlines plans:天津航空计划
 tianjin airlines:天津航空
+tianjin airport:天津机场
+tianjin airport:天津機場
 tianjin ancient culture street:天津古文化街旅游区南门
 tianjin ancient culture street:天津古文化街旅遊區南門
 tianjin arena:天津体育馆
@@ -1357,20 +1391,27 @@ tianjin binhai international airport:tiānjīn bīnhăi guójì jīchǎng
 tianjin binhai international airport:天津滨海国际机场
 tianjin binhai library:天津滨海图书馆
 tianjin bohai bank women's volleyball team:天津渤海银行女排
+tianjin bridgestone:天津普利司通
 tianjin bun shop:天津包子
+tianjin campaign:天津战役
 tianjin campaign:天津攻城战
 tianjin chengjian university:天津城建大学
 tianjin climate exchange:天津排放权交易所
+tianjin company:天津公司
 tianjin concert hall:天津音乐厅
 tianjin concert hall:天津音樂廳
 tianjin conservatory of music:天津音乐学院
+tianjin county:天津县
 tianjin crafts and arts professional college:天津工艺美术职业学院
 tianjin ctf finance centre:天津周大福濱海中心
 tianjin ctf finance centre:天津周大福金融中心
 tianjin cuisine:津菜
 tianjin customs:天津市海关
 tianjin dagang gangshi school:天津市大港区港狮学校
+tianjin derby:天津德比
+tianjin development:天津发展
 tianjin development:天津發展
+tianjin dialect:天津方言
 tianjin dialect:天津话
 tianjin discipline:天津市纪律
 tianjin economic technological development area:天津经济技术开发区
@@ -1393,6 +1434,7 @@ tianjin high shcool:天津中学
 tianjin hospital of itcwm (nankai hospital):天津市中西医结合医院（南开医院）
 tianjin hospital:天津医院
 tianjin hospital:天津市天津医院
+tianjin hospital:天津醫院
 tianjin huanghe hospital:天津市黄河医院
 tianjin huochetou stadium:天津火车头体育场
 tianjin institute of foreign trade:天津对外贸易学院
@@ -1400,11 +1442,13 @@ tianjin italian style area:天津義式風情區
 tianjin juilliard school official website:天津茱莉亚学院官方网站
 tianjin juilliard school:天津茱莉亚学院
 tianjin library:天津图书馆
+tianjin library:天津圖書館
 tianjin lions:天津雄獅隊
 tianjin liver:天津市肝
 tianjin maoyan weiying culture media:天津猫眼微影文化传媒
 tianjin maritime court:中华人民共和国天津海事法院
 tianjin market:天津市市场
+tianjin massacre:天津屠杀
 tianjin massacre:天津教案
 tianjin medical university cancer institute & hospital:天津市肿瘤医院
 tianjin medical university cancer institute and hospital:天津市肿瘤医院
@@ -1443,6 +1487,7 @@ tianjin municipal committee of the chinese communist party:中国共产党天津
 tianjin municipal government:天津市市政府
 tianjin municipal supervisory commission:天津市监察委员会
 tianjin museum:天津博物馆
+tianjin museum:天津市博物馆
 tianjin nankai district santan hospital:天津市南开区三潭医院
 tianjin nankai district wangdingdi hospital:天津市南开区王顶堤医院
 tianjin nankai high school:天津市南开中学
@@ -1487,12 +1532,15 @@ tianjin road section 4:天津路四段
 tianjin road:天津路
 tianjin road:天津路70巷
 tianjin road:天津道
+tianjin samsung:天津三星
 tianjin scallion pancake:天津葱抓餅
 tianjin seagull:海鸥手表
 tianjin shi:天津市
 tianjin shopping dist.:天津路商圈
+tianjin songjiang:天津松江
 tianjin south great mosque:天津清真南大寺
 tianjin south railway station:天津南站
+tianjin south:天津南
 tianjin st. & beiping rd. intersection:天津北平路口
 tianjin state security bureau:天津市国家安全局
 tianjin station:天津站
@@ -1500,11 +1548,16 @@ tianjin stomatological hospital:天津市口腔医院
 tianjin stomatological hospital:天津市口腔醫院
 tianjin street intersection:天津街口
 tianjin street:天津街
+tianjin taida:天津泰达
+tianjin team:天津队
 tianjin teda aircraft carrier theme park:天津泰达航母主题公园
 tianjin teda company:天津泰達股份
 tianjin television and radio station:天津广播电视台
+tianjin tianhai:天津天海
 tianjin tiechang subdistrict:天津铁厂街道
 tianjin tourism:天津市旅游
+tianjin tram:天津有轨电车
+tianjin trust:天津信托
 tianjin tuanbo football stadium:天津团泊足球场
 tianjin tuanbo international tennis center:天津国际网球中心
 tianjin university central hospital:天津大学中心医院
@@ -1520,8 +1573,10 @@ tianjin university of traditional chinese medicine:天津中医药大学
 tianjin university would:天津大学将
 tianjin university:天津大学
 tianjin university:天津大學
+tianjin vanke:天津万科
 tianjin water park:天津水上公园
 tianjin west railway station:天津西站
+tianjin west:天津西
 tianjin world financial center:天津环球金融中心
 tianjin xinhua high school:天津市新华中学
 tianjin yuan:天锦园
@@ -1777,6 +1832,7 @@ tianlong 3rd street:天龙三街
 tianlong barrack:天龍營區
 tianlong bridge:天龍橋
 tianlong court:天龙阁
+tianlong hotel:天龍酒店
 tianlong road:天鹅路
 tianlong road:天龙路
 tianlong road:田龙路
@@ -1882,6 +1938,7 @@ tianmei:田美
 tianmeicun:田美村
 tianmeicun（huadu）:田美村（花都）
 tianmen and wuhan:天门市和武汉市
+tianmen county:天门县
 tianmen mountain cablecar lower station:天门山索道下站
 tianmen mountain cableway top station:天门山索道上站
 tianmen mountain:天门山
@@ -1948,6 +2005,7 @@ tianmu lake:天目湖
 tianmu li:天母里
 tianmu library:天母圖書館
 tianmu middle road:天木中路
+tianmu mountain:天母山
 tianmu mountain:天目山
 tianmu n. rd. & tianyu st. intersection:tiānmǔběitiānyùjiēkǒu
 tianmu n. rd. & tianyu st. intersection:ㄊㄧㄢㄇㄨˇㄅㄟˇㄊㄧㄢㄩˋㄐㄧㄝㄎㄡˇ
@@ -1969,6 +2027,7 @@ tianmu sports park:天母运动公园
 tianmu sports park:天母運動公園
 tianmu square:天母广场
 tianmu square:天母廣場
+tianmu stadium:天母体育馆
 tianmu stadium:天母棒球場
 tianmu substation:天母變電所
 tianmu village:天母里
@@ -2058,6 +2117,7 @@ tianping ditch:tiānpíng gōu
 tianping ditch:天平沟
 tianping ditch:天平溝
 tianping line:天平线
+tianping mountain:天平山
 tianping reservoir:tiánpíng shuǐkù
 tianping reservoir:田坪水库
 tianping road:天平路
@@ -2089,7 +2149,9 @@ tianpishan metallurgy industry park:天皮山冶金化工工业园区
 tianpo:天坡
 tianpu community:田铺社区
 tianpu junior middle school:田铺乡初级中学
+tianpu reservoir:田埔水库
 tianpu reservoir:田埔水庫
+tianpu reservoir:田浦水庫
 tianpu river:田铺河
 tianpu road:天普路
 tianpu'ao:田铺凹
@@ -2132,6 +2194,8 @@ tianqiao road roundabout:天桥路环岛
 tianqiao road:天桥路
 tianqiao south avenue:tiānqiáo nán dàjiē
 tianqiao south avenue:天桥南大街
+tianqiao station:天桥站
+tianqiao station:田桥站
 tianqiao subdistrict:tiānqiáo jiēdào
 tianqiao subdistrict:天桥街街道
 tianqiao subdistrict:天桥街道
@@ -2396,6 +2460,7 @@ tianshui alley:甜水巷
 tianshui association:天水会
 tianshui central street:天水中街
 tianshui commandery:天水郡
+tianshui county:天水县
 tianshui e. 1st street:天水東一街
 tianshui e. 2nd street:天水東二街
 tianshui e. street:天水東街
@@ -2414,6 +2479,8 @@ tianshui south railway station:天水南站
 tianshui south:天水南
 tianshui tomb:石馬坪粟特墓
 tianshui town:天水镇
+tianshui tram:天水市有轨电车
+tianshui tram:天水有軌電車
 tianshui tram:天水有轨电车
 tianshui w. 1st street:天水西一街
 tianshui w. 2nd street:天水西二街
@@ -2514,6 +2581,7 @@ tiantai county:天台县
 tiantai county:天台縣
 tiantai linchang shenghuoqu:天台林场生活区
 tiantai mountain:天台山
+tiantai mountain:天臺山
 tiantai peak:tiāntáifēng
 tiantai peak:天台峰
 tiantai reservoir:天台水库
@@ -2527,6 +2595,7 @@ tiantai temple:天台寺
 tiantai xian:tiāntāi xiàn
 tiantai xian:天台县
 tiantai xian:天台縣
+tiantai zhiyi:天台智顗
 tiantai:tiāntāi xiàn
 tiantai:天台
 tiantai:天台县
@@ -2550,9 +2619,14 @@ tiantaisi:天台寺
 tiantaisi:天泰寺街道
 tiantaitang:添泰塘
 tiantaiyongcun:天太永村
+tiantan awards:天坛奖
 tiantan east road:tiantan donglu
+tiantan park:天坛公园
+tiantan park:天壇公园
+tiantan park:天壇公園
 tiantan road:tiāntán lù
 tiantan road:天坛路
+tiantan stadium:天坛体育场
 tiantan subdistrict:tiāntán jiēdào
 tiantan subdistrict:天坛街道
 tiantan subdistrict:天壇街道
@@ -2562,10 +2636,12 @@ tiantan:天坛街道
 tiantan:天坛镇
 tiantan:天壇
 tiantan:田坦
+tiantandongmen station:天坛东门站
 tiantandongmen:天坛东门
 tiantang monastery:天堂寺
 tiantang mountain:tiāntáng shān
 tiantang mountain:天堂山
+tiantang peak:天堂峰
 tiantang peak:天堂顶
 tiantang reservoir:tiāntáng shuǐkù
 tiantang reservoir:天堂水库
@@ -2899,6 +2975,7 @@ tianxin river:天心河
 tianxin road:天欣路
 tianxin road:田心路
 tianxin road:田新路
+tianxin station:田心村站
 tianxin station:田心站
 tianxin street east 1st lane:田心街東一巷
 tianxin street:天新街
@@ -2937,6 +3014,7 @@ tianxincun:田心村站
 tianxincun:田新村
 tianxindong:天心洞
 tianxindong:田心东
+tianxing county:天兴县
 tianxing lu:田星路
 tianxing road:天兴路
 tianxing road:天星路
@@ -3015,6 +3093,7 @@ tianyancun:田堰村
 tianyang 1st road:田洋一路
 tianyang 5th road:田洋五路
 tianyang 6th road:田洋六路
+tianyang county:田阳县
 tianyang district:tinjoeng-kyu
 tianyang district:tiányáng qū
 tianyang district:田阳区
@@ -3331,11 +3410,13 @@ tianzhong community:田中社區
 tianzhong high school:田中高中
 tianzhong lane:田中巷
 tianzhong line:田中線
+tianzhong mountain:田中山
 tianzhong neiwan post office:田中內灣郵局
 tianzhong police station:田中派出所
 tianzhong post office:田中郵局
 tianzhong road:田中路
 tianzhong santan post office:田中三潭郵局
+tianzhong station:田中站
 tianzhong township farmers' association:田中鎮農會
 tianzhong township farmers' association:田中镇农会
 tianzhong township office:田中鎮公所
@@ -3369,6 +3450,7 @@ tianzhu 2nd bridge:天祝二桥
 tianzhu country club golf course:黑骑士球员俱乐部
 tianzhu lane:天主巷
 tianzhu lu:天柱路
+tianzhu mountain:天竺山
 tianzhu road:天竺路
 tianzhu shan:天柱山
 tianzhu street:天助街
@@ -3413,12 +3495,14 @@ tianzhuzhuangcun:天竺庄村
 tianzi building:天字楼
 tianzi lake park:天子湖公园
 tianzi lake:天子湖
+tianzi mountain:田仔山
 tianzi no.1 bridge:田仔一號橋
 tianzi pier:天字码头
 tianzi road:天子路
 tianzi village:田子村
 tianzi village:田子里
 tianzi wharf:天字码头
+tianzi wharf:天字碼頭
 tianzi:天字
 tianzi:田仔
 tianzi:田子
@@ -3483,6 +3567,7 @@ tiaodeng (line 5):跳磴（5号线）
 tiaodeng metro station:轨道跳磴站
 tiaodeng south:跳磴南
 tiaodeng station:跳磴站
+tiaodeng station:跳蹬站
 tiaodeng:tiàodèng zhèn
 tiaodeng:跳磴
 tiaodeng:跳磴镇
@@ -3707,6 +3792,7 @@ tibet began:西藏开始
 tibet best:西藏最好
 tibet border:西藏边界
 tibet by:西藏被
+tibet campaign:西藏战役
 tibet card:西藏卡
 tibet center:西藏中心
 tibet changed:西藏改变了
@@ -3751,6 +3837,8 @@ tibet glacier mineral water:西藏冰川矿泉水
 tibet glacier:西藏冰川
 tibet government:西藏政府
 tibet guesthouse:卓玛客栈
+tibet gymnasium:西藏体育馆
+tibet gymnasium:西藏體育館
 tibet has been:西藏已经
 tibet have been:西藏已经
 tibet heritage fund:西藏遗产基金
@@ -3806,6 +3894,7 @@ tibet multimedia centre:西藏多媒体中心
 tibet multimedia:西藏多媒体
 tibet museum of natural science:西藏自然科学博物馆
 tibet museum:西藏博物馆
+tibet museum:西藏自治区博物馆
 tibet muxtar vilayəti:xīzàng zìzhìqū
 tibet muxtar vilayəti:西藏
 tibet muxtar vilayəti:西藏自治区
@@ -3866,6 +3955,7 @@ tibet railway create:西藏铁路创造
 tibet railway:西藏铁路
 tibet recently:西藏最近
 tibet refugee:西藏难民
+tibet region:西藏军区
 tibet region:西藏地区
 tibet report:西藏报告
 tibet riot:西藏骚乱
@@ -4048,6 +4138,7 @@ tibetan muslims:藏回
 tibetan muslims:西藏的穆斯林
 tibetan myth:西藏的神话
 tibetan name:藏族人名
+tibetan name:西藏的名称
 tibetan national congress:西藏国民大会党
 tibetan national football association:西藏國家足球協會
 tibetan nationalism:西藏的民族主义
@@ -5048,6 +5139,7 @@ tieling service area:铁岭服务区
 tieling street:鐵嶺街
 tieling street:铁岭街
 tieling west railway station:铁岭西站
+tieling west:铁岭西
 tieling:tiělǐng shì
 tieling:鐵嶺市
 tieling:鐵嶺縣
@@ -5306,6 +5398,7 @@ tierieńga:捷列尼加
 tierkei:tǔěrqí
 tierkei:土耳其
 tierney peninsula:蒂爾尼半島
+tierp airport:蒂耶普機場
 tierp municipality:蒂耶普市镇
 tierp:蒂耶普
 tierra adelia:阿黛利地
@@ -5343,6 +5436,7 @@ tieshan road:鐵山路
 tieshan road:铁山路
 tieshan subdistrict:tiěshān jiēdào
 tieshan subdistrict:铁山街道
+tieshan temple:铁山庙
 tieshan village:鐵山里
 tieshan west road:铁山西路
 tieshan:tiěshān jiēdào
@@ -5448,11 +5542,18 @@ tiexi community:铁西社区
 tiexi district:tiěxī qū
 tiexi district:鐵西區
 tiexi district:铁西区
+tiexi gymnasium:鐵西體育館
+tiexi gymnasium:铁西体育馆
+tiexi gymnasium:铁西区体育馆
 tiexi river:tiěxī hé
 tiexi river:鐵溪河
 tiexi river:铁溪
 tiexi river:铁溪河
 tiexi road:铁西路
+tiexi stadium:鐵西體育場
+tiexi stadium:铁西体育场
+tiexi stadium:铁西体育馆
+tiexi stadium:铁西区体育馆
 tiexi street:tiěxī jiē
 tiexi street:鐵西街
 tiexi street:铁西街
@@ -5644,6 +5745,7 @@ tiger beat:虎韵
 tiger bed:虎床
 tiger beer:虎牌啤酒
 tiger beetle:虎甲
+tiger beetle:虎甲虫
 tiger begin:虎开始
 tiger biologist:虎生物学家
 tiger blood:虎血
@@ -5667,6 +5769,7 @@ tiger cave:虎洞穴
 tiger census:虎普查
 tiger center:虎中心
 tiger chair:虎椅
+tiger chen:虎陈
 tiger chocolate:虎巧克力
 tiger city(henan rd.):老虎城(河南路)
 tiger city(henan road):老虎城(河南路)
@@ -5716,6 +5819,7 @@ tiger father:虎父亲
 tiger finally:虎最终
 tiger find:虎发现
 tiger fintech:虎金融科技
+tiger fish:虎鱼
 tiger flight:虎飞行
 tiger follow:虎跟随
 tiger forest:虎森林
@@ -5728,6 +5832,7 @@ tiger fund:虎基金
 tiger game:老虎棋
 tiger game:虎游戏
 tiger general:虎将军
+tiger girl:虎姑娘
 tiger global management:老虎全球管理
 tiger global:虎全球
 tiger god said:虎神说
@@ -5780,6 +5885,8 @@ tiger leaping gorge:上虎跳峡
 tiger leaping gorge:中虎跳峡
 tiger leaping gorge:虎跳峡
 tiger let:虎让
+tiger lim:虎林
+tiger lin:虎林
 tiger line:虎线
 tiger lock:虎锁
 tiger look:虎看
@@ -5909,6 +6016,7 @@ tiger toilet:虎馬桶
 tiger tooth:虎牙
 tiger torch:虎火炬
 tiger tower:虎塔
+tiger town:虎城镇
 tiger trade:虎贸易
 tiger travel market:虎旅行市场
 tiger trying:虎试图
@@ -6171,6 +6279,7 @@ tiji:啼鸡
 tijiayingzi:提家营子
 tijo:提喬
 tijoretsk:季霍列茨克
+tijuana airport:蒂華納機場
 tijuana dragons:提华纳龙
 tijuana international airport:蒂华纳国际机场
 tijuana is mexico:蒂華納是墨西哥
@@ -6306,6 +6415,8 @@ tikenbeshi:​提坎贝什村
 tikhaya sosna:季哈亞索斯納河
 tikhonov admitted:吉洪诺夫承认
 tikhonov regularization:吉洪诺夫正则化
+tikhonov space:吉洪诺夫空間
+tikhonov space:吉洪诺夫空间
 tikhonov:吉洪诺夫
 tikhoretsk:季霍列茨克
 tikhoretsky district:季霍列茨克區
@@ -6314,12 +6425,14 @@ tikhvin:季赫溫
 tikhvine:季赫溫
 tikhvinka:季赫溫卡河
 tikhvinsky district:季赫溫區
+tiki culture:土耳其文化
 tiki formation:提基結構
 tiki lafe:迪奇拉菲
 tiki:tǔěrqí
 tiki:土耳其
 tikisuchus:提基鱷屬
 tiklla q'asa:蒂克亞哈薩山
+tiko airport:蒂科機場
 tiko:蒂科
 tikopia language:蒂科皮亚语
 tikopia:蒂科皮亞島
@@ -6354,6 +6467,8 @@ tilali district:蒂拉利區
 tilamuta:蒂拉穆塔
 tilanqiao prison:上海市提篮桥监狱
 tilanqiao prison:上海市提籃橋監獄
+tilanqiao prison:提篮桥监狱
+tilanqiao prison:提篮桥監獄
 tilanqiao station:提篮桥站
 tilanqiao:提篮桥
 tilapia and carp:罗非鱼和鲤鱼
@@ -6402,6 +6517,7 @@ tilburg university offer:蒂尔堡大学提供
 tilburg university students complete:蒂尔堡大学学生完成
 tilburg university students:蒂尔堡大学学生
 tilburg university:蒂尔堡大学
+tilburg university:蒂尔堡大學
 tilburg university:蒂爾堡大學
 tilburg:蒂尔堡
 tilburg:蒂爾堡
@@ -6413,6 +6529,7 @@ tilburgo:蒂尔堡
 tilburgo:蒂爾堡
 tilburq:蒂尔堡
 tilburq:蒂爾堡
+tilbury dock:提伯利碼頭
 tilbury:提伯利
 tilcara department:蒂爾卡拉縣
 tilcara:蒂爾卡拉
@@ -6459,6 +6576,7 @@ tilimsen:特莱姆森
 tilimsengo probintzia:特莱姆森省
 tilimszán tartomány:特莱姆森省
 tilin township:提林鎮區
+tilin township:提林镇区
 tilin:提林
 tiling array:瓦片阵列
 tilinitati mo topako:千里達及托巴哥
@@ -6567,6 +6685,7 @@ tim man house:恬文樓
 tim mei avenue:添美道
 tim ming house:添明樓
 tim po court:添寶閣
+tim river:季姆河
 tim sam village office:田心村事務處
 tim wa avenue:添華道
 tim wah building:添華樓
@@ -6584,6 +6703,7 @@ timar:蒂马尔制
 timarchus of miletus:米利都的提馬克斯
 timarchus:提馬克斯
 timarni:蒂马尔尼
+timaru airport:提馬魯機場
 timaru:提馬魯
 timaschewsk:季馬紹夫斯克
 timashevsk:季馬紹夫斯克
@@ -6778,6 +6898,7 @@ timber research:木材研究
 timber reserve:木材保留
 timber resource:木材资源
 timber resources:木材资源
+timber river:木材河
 timber roof:木材屋顶
 timber sales:木材销售
 timber screen:木材屏幕
@@ -6792,6 +6913,7 @@ timber team:木材队
 timber technologies:木材技术
 timber technology:木材技术
 timber terrace:木材梯田
+timber timbre:木材音色
 timber toe:木材脚趾
 timber tower:木材塔
 timber trade and shipbuilding:木材贸易和造船
@@ -6828,10 +6950,12 @@ timbre:音色
 timbu:廷布
 timbuctù:廷巴克图
 timbuctú:廷巴克图
+timbuktu airport:廷巴克图机场
 timbuktu bölgesi:廷巴克图
 timbuktu cercle:通布圖省
 timbuktu eskualdea:廷巴克图
 timbuktu piirkond:廷巴克图
+timbuktu region:通布图地区
 timbuktu:廷巴克图
 timbuktu:通布图
 timbuktun alue:廷巴克图
@@ -6859,6 +6983,7 @@ time addresses:时间地址
 time advantage and price:时间优势和价格
 time advantage:时间优势
 time advantages:时间优势
+time adverb:时间副词
 time affects:时间影响
 time after all:时间毕竟
 time after his marriage:时间后他的婚姻
@@ -7618,6 +7743,7 @@ time cancel:时间取消
 time candidate:时间候选人
 time cannot decay:时间不能腐烂
 time cannot:时间不能
+time capsule:时间胶囊
 time capsule:時間囊
 time car:时间汽车
 time card package:时间卡包
@@ -7740,6 +7866,7 @@ time create:时间创造
 time crime:时间犯罪
 time critic:时间评论家
 time crying:时间哭
+time crystal:时间晶体
 time crystal:時間晶體
 time cube:時間立方
 time currently:时间目前
@@ -7783,6 +7910,7 @@ time deposit interest rate:定期存款利率
 time deposit receipt:定期存款收據
 time deposit:定期存款
 time derivative:时间导数
+time derivatives:时间导数
 time description:时间描述
 time design:时间设计
 time details:时间细节
@@ -7825,6 +7953,7 @@ time domain astronomy:時域天文學
 time domain point-of-view:時域观点
 time domain signals:時域信号
 time domain thermoreflectance:时域热反射法
+time domain:时间域
 time domain:時域
 time don't:时间不
 time doubt:时间怀疑
@@ -7966,6 +8095,7 @@ time game:时间游戏
 time games:时间游戏
 time garden:时间花园
 time generate:时间生成
+time geography:时间地理学
 time geography:時間地理學
 time germany:时间德国
 time give:时间给
@@ -8343,6 +8473,7 @@ time like:时间喜欢
 time limit and requirements:时限和要求
 time limit debate:时限辩论
 time limit requirements:时限要求
+time limit:时间限制
 time limit:时限
 time line analysis:时间线分析
 time line goals:时间线目标
@@ -8361,7 +8492,9 @@ time lord:时间领主
 time loss:时间损失
 time love:时间爱
 time machine nante iranai:不需要什麼時光機
+time machine:时间机器
 time machine:時光機
+time machines:时间机器
 time magazine:时间杂志
 time maintain:时间维护
 time management abilities:时间管理能力
@@ -8701,6 +8834,7 @@ time pattern:时间模式
 time payment:时间支付
 time people:时间人们
 time percentage:时间百分比
+time perception:时间知觉
 time perception:時間知覺
 time perfect:时间完美
 time perform:时间执行
@@ -8778,6 +8912,7 @@ time proposed:时间提出
 time protect:时间保护
 time protection:时间保护
 time protest:时间抗议
+time protocol:时间协议
 time protocol:時間協定
 time prove:时间证明
 time provide:时间提供
@@ -8787,6 +8922,7 @@ time providing:时间提供
 time publication:时间出版
 time pull:时间拉
 time put:时间放
+time pyramid:时间金字塔
 time quantization:时间量化
 time quartet:时间四重奏
 time question:时间问题
@@ -8947,6 +9083,8 @@ time should move:时间应该移动
 time show:时间显示
 time sign:时间签名
 time signal:授时
+time signal:时间信号
+time signals:时间信号
 time signature:拍號
 time simple:时间简单
 time since:时间自从
@@ -8995,7 +9133,9 @@ time square:时间广场
 time square:時光廣場
 time standard and atom:時間標準和原子
 time standard and atomic clock:時間標準和原子鐘
+time standard:时间标准
 time standard:時間標準
+time standards:时间标准
 time standing:时间站立
 time start:时间开始
 time state champions:时间状态冠军
@@ -9124,6 +9264,7 @@ time too:时间也
 time tools:时间工具
 time tooth brushing:时间刷牙
 time touch:时间触摸
+time tourist:时间旅行者
 time towards:时间对
 time traffic information:时间交通信息
 time traffic:时间交通
@@ -9176,6 +9317,7 @@ time travel was impossible:时间旅行是不可能的
 time travel were possible:时间旅行是可能的
 time travel would:时间旅行将
 time travel:时间旅行
+time traveler:时间旅行者
 time traveler:時空旅人
 time treading water:时间踩水
 time trend:时间趋势
@@ -9963,8 +10105,11 @@ timian:tīmiàn zhèn
 timian:梯面
 timian:梯面鎮
 timian:梯面镇
+timika airport:蒂米卡机场
 timika:蒂米卡
 timimoun (ort i algeriet):提米蒙
+timimoun airport:提米蒙机场
+timimoun airport:提米蒙機場
 timimoun district:提米蒙區
 timimoun province:提米蒙省
 timimoun:提米蒙
@@ -9999,6 +10144,7 @@ timmaspe:蒂马斯珀
 timmendorfer strand:蒂门多弗施特兰德
 timmia:美姿藓属
 timmimoun:提米蒙
+timmins airport:蒂明斯機場
 timmins campus:蒂明斯校园
 timmins:蒂明斯
 timmy hung:洪天明
@@ -10380,6 +10526,7 @@ tin fai road community hall:天暉路社區會堂
 tin fai road sports centre:天暉路體育館
 tin fai road:天暉路
 tin fat house:田發樓
+tin flute:锡笛
 tin foil hat:锡箔帽
 tin foil:錫紙
 tin fook house:天福樓
@@ -10558,6 +10705,7 @@ tin metal:锡金属
 tin ming house tin ping estate:天平邨天明樓
 tin ming house:天明樓
 tin mining in britain:英国的锡矿开采
+tin mountain:锡山
 tin ning house:天寧樓
 tin oi court:天愛苑
 tin oil:锡油
@@ -10589,6 +10737,7 @@ tin ping shopping centre:天平商場
 tin ping sports centre:天平體育館
 tin po building:天保大樓
 tin po building:天寶樓
+tin poisoning:锡中毒
 tin prices:锡价格
 tin products enter:锡产品进入
 tin products:锡产品
@@ -10737,6 +10886,7 @@ tin tiu lung:天吊龍
 tin to street:天桃街
 tin tong backpacker:天唐背包
 tin tools:锡工具
+tin town:锡城镇
 tin toy christmas:小锡兵圣诞节
 tin toy:小锡兵
 tin toy:锡玩具
@@ -10901,6 +11051,7 @@ tinder:火绒
 tindivanam:廷迪瓦纳姆
 tindley peaks:廷德利峰
 tindouf airport:廷杜夫机场
+tindouf airport:廷杜夫機場
 tindouf eanangoddi:廷杜夫省
 tindouf province:廷杜夫省
 tindouf refugee camp:廷杜夫难民营
@@ -11167,6 +11318,7 @@ tingli:庭里
 tingliang:亭亮
 tingliang:亭亮镇
 tingliao village:廷寮里
+tinglin park:亭林公园
 tinglin railway station:亭林站
 tinglin:亭林
 tinglin:亭林鎮
@@ -12926,10 +13078,12 @@ tip-of-the-tongue phenomenon:舌尖现象现象
 tipacoque:蒂帕科克
 tipajasa:蒂帕哈薩山
 tipas:提帕斯火山
+tipasa province:提帕薩省
 tipasa:提帕萨省
 tipasa:提帕薩
 tipaza eanangoddi:提帕萨省
 tipaza province:提帕萨省
+tipaza province:提帕薩省
 tipaza vilayəti:提帕萨省
 tipaza:提帕萨省
 tipaza:提帕薩
@@ -13021,8 +13175,10 @@ tirana (prefeitura):地拉那州
 tirana (rannvro):地拉那州
 tirana airfield:地拉那机场
 tirana airport:地拉那机场
+tirana airport:地拉那機場
 tirana and belgrade:地拉那和贝尔格莱德
 tirana and most:地拉那和大多数
+tirana bank:地拉那銀行
 tirana began:地拉那开始
 tirana book:地拉那书
 tirana coonty:地拉那州
@@ -13038,6 +13194,9 @@ tirana is located:地拉那是位于
 tirana konderria:地拉那州
 tirana maakond:地拉那州
 tirana plaza:地拉那廣場
+tirana university:地拉那大学
+tirana university:地拉那大學
+tirana zoo:地拉那動物園
 tirana:地拉那
 tiranan maakunta:地拉那州
 tirane:地拉那
@@ -13057,6 +13216,7 @@ tirap district:蒂拉普县
 tirapata district:蒂拉帕塔區
 tirapu:蒂拉普
 tiraque province:蒂拉克县
+tiraque province:蒂拉克省
 tiraque:蒂拉克
 tiraspol city council:蒂拉斯波尔
 tiraspol fortress:蒂拉斯波尔要塞
@@ -13656,6 +13816,7 @@ tissue cover:组织覆盖
 tissue coverage:组织覆盖
 tissue create:组织创造
 tissue culture:組織培養
+tissue culture:组织文化
 tissue damage:组织损害
 tissue data:组织数据
 tissue database:组织数据库
@@ -14103,6 +14264,7 @@ titanium armour:钛装甲
 titanium as well as:钛以及
 titanium association:钛协会
 titanium atom:钛原子
+titanium awards:钛奖
 titanium ball:钛球
 titanium basalt:钛玄武岩
 titanium battery:钛电池
@@ -14120,6 +14282,7 @@ titanium carbide high:碳化钛高
 titanium carbide:碳化钛
 titanium card:钛卡
 titanium cell:钛细胞
+titanium chloride:钛氯化物
 titanium cobalt alloy:钛钴合金
 titanium cobalt:钛钴
 titanium committee:钛委员会
@@ -14388,6 +14551,7 @@ title author:标题作者
 title award:标题授予
 title bar:标题条
 title be:标题成为
+title blacklist:标题黑名单
 title block:标题块
 title book:标题书
 title cannot:标题不能
@@ -14398,6 +14562,7 @@ title celebration:标题庆祝
 title challenger:标题挑战者
 title changed:标题改变了
 title character:标题人物
+title character:标题角色
 title charlie:标题查理
 title choose:标题选择
 title christ:标题基督
@@ -14563,6 +14728,7 @@ titov:季托夫
 titration analysis:滴定分析
 titration calorimetry:滴定量热法
 titration curve:滴定曲线
+titration curves:滴定曲线
 titration equipment:滴定设备
 titration interval:滴定间隔
 titration method:滴定方法
@@ -14589,6 +14755,7 @@ titular bishop:領銜主教
 titular church:領銜堂區
 titular nation:主體民族
 titulcia:蒂图尔西亚
+titus mountain:提圖斯山
 titus pomponius atticus:阿提库斯
 titus-basilika:圣提多教堂（公元前6世纪《哥提那法案》）
 titus:提圖斯
@@ -14694,6 +14861,8 @@ tivoli gardens:趣伏里公园
 tiwa:图瓦共和国
 tiwa:圖瓦共和國
 tiwai point:蒂瓦伊波因
+tiwanaku civilization:蒂亞瓦納科文明
+tiwanaku culture:蒂亞瓦納科文化
 tiwanaku empire:蒂亞瓦納科文化
 tiwanaku river:蒂瓦納庫河
 tiwanaku:蒂亞瓦納科

@@ -5,6 +5,7 @@ va fai:華輝大廈 (第三座)
 va kio daily:華僑報
 va language:瓦语
 va medical center:退伍军人医疗中心
+va senate:弗吉尼亚州参议院
 va supermarket:特選超級市場
 va.:弗吉尼亚州
 va.:弗吉尼亞州
@@ -24,8 +25,10 @@ vaamakuéra:巴哈马
 vaamakuéra:巴哈马 / 巴哈馬
 vaasa airport:瓦萨机场
 vaasa city:瓦萨城市
+vaasa province:瓦萨省
 vaasa province:瓦薩省
 vaasa region:瓦萨地区
+vaasa riot:瓦萨骚乱
 vaasa sub region:瓦薩次區
 vaasa university of applied sciences:瓦萨应用科学大学
 vaasa:瓦萨
@@ -171,6 +174,7 @@ vacation type:度假类型
 vacation until:度假直到
 vacation vessel:度假船
 vacation villa:度假别墅
+vacation village:度假村
 vacation websites:度假网站
 vacation will eat:度假会吃
 vacation will:度假会
@@ -185,6 +189,7 @@ vaccination and preterm birth:疫苗接種和早產
 vaccination card:疫苗接種卡
 vaccination clinic:接种门诊
 vaccination method:疫苗接種方法
+vaccination policies:疫苗接種政策
 vaccination policy:疫苗接種政策
 vaccination problem:疫苗接種問題
 vaccination proof:疫苗接種證明
@@ -298,6 +303,7 @@ vaccine database:疫苗数据库
 vaccine day:疫苗日
 vaccine debate:疫苗辩论
 vaccine deployment:疫苗部署
+vaccine description:疫苗描述
 vaccine design strategy:疫苗设计策略
 vaccine design:疫苗設計
 vaccine design:疫苗设计
@@ -435,6 +441,7 @@ vaccine or treatment:疫苗或治疗
 vaccine origin:疫苗起源
 vaccine overcome:疫苗克服
 vaccine page:疫苗页
+vaccine passport:疫苗护照
 vaccine patch:疫苗補丁
 vaccine patents:疫苗专利
 vaccine performance:疫苗性能
@@ -888,6 +895,7 @@ vacuum path:真空路径
 vacuum performance:真空性能
 vacuum permeability:真空磁导率
 vacuum permittivity:真空电容率
+vacuum physics:真空物理
 vacuum physics:真空物理学
 vacuum plasma spraying:真空等离子喷涂
 vacuum plastic bag save:真空塑料袋保存
@@ -1005,6 +1013,7 @@ vacuum technology department courses:真空技术部门课程
 vacuum technology development:真空技术发展
 vacuum technology systems:真空技术系统
 vacuum technology:真空技术
+vacuum technology:真空科技
 vacuum test:真空测试
 vacuum testing:真空测试
 vacuum theory:真空理論
@@ -1017,6 +1026,7 @@ vacuum thrust-to-weight ratio:真空推力重量比
 vacuum thrust:真空推力
 vacuum time:真空时间
 vacuum toilet:真空厕所
+vacuum toilet:真空廁所
 vacuum tower telescope:真空塔望遠鏡
 vacuum tower:真空塔
 vacuum train:真空火车
@@ -1117,7 +1127,9 @@ vadus:瓦杜茲
 vaduts:瓦杜茲
 vaduz castle:瓦杜兹城堡
 vaduz castle:瓦杜茨城堡
+vaduz castle:瓦都茲城堡
 vaduz cathedral:瓦杜茲主教座堂
+vaduz cathedral:瓦都茲主教座堂
 vaduz:瓦杜茲
 vaduz:瓦都茲
 vaduzo:瓦杜茲
@@ -1437,6 +1449,7 @@ vajrapani:金剛手菩薩
 vajrasamadhi sutra:金剛三昧經
 vajrasattva:金剛薩埵
 vajrasekhara sutra:金剛頂經
+vajrayana buddhism:密宗佛教
 vajrayana:密宗
 vakaga:瓦卡加省
 vakajama:和歌山市
@@ -1812,6 +1825,8 @@ valdisotto:瓦尔迪索托
 valdivia earthquake:瓦尔迪维亚地震
 valdivia point:巴爾迪維亞角
 valdivia province:瓦尔迪维亚省
+valdivia province:瓦爾迪維亞省
+valdivia river:瓦尔迪维亚河
 valdivia river:瓦爾迪維亞河
 valdivia said he continue:瓦尔迪维亚说他继续
 valdivia said:瓦尔迪维亚说
@@ -1879,6 +1894,8 @@ valen hsu:許茹芸
 valence and conduction bands:导带
 valence band:價帶
 valence bond theory:价键理论
+valence cathedral:巴伦西亚主教座堂
+valence cathedral:瓦倫西亞主教座堂
 valence cathedral:瓦朗斯主教座堂
 valence d'albigeois:瓦朗斯达尔比茹瓦
 valence de minho:巴伦西亚德米尼奥
@@ -1900,11 +1917,19 @@ valence:瓦朗斯
 valence:華倫西亞省
 valencenae:瓦朗謝訥
 valencene:朱栾萜烯
+valencia academy:瓦伦西亚学院
+valencia airport:巴伦西亚机场
+valencia airport:巴伦西亚機場
+valencia airport:瓦伦西亚机场
 valencia airport:瓦倫西亞機場
+valencia airport:華倫西亞機場
 valencia basket:瓦伦西亚篮球俱乐部
 valencia cathedral:巴伦西亚主教座堂
+valencia cathedral:瓦倫西亞主教座堂
+valencia cathedral:華倫西亞主教座堂
 valencia cf mestalla:華倫西亞馬斯泰拿
 valencia cf:巴伦西亚足球俱乐部
+valencia college:瓦伦西亚学院
 valencia college:瓦倫西亞學院
 valencia de don juan:巴伦西亚德唐胡安
 valencia de francia:瓦朗斯
@@ -1918,12 +1943,35 @@ valencia dialekto:巴倫西亞語
 valencia fallas:法雅節
 valencia fine art:瓦倫西亞美術
 valencia gardens:慧蘭花園
+valencia island:巴伦西亚岛
+valencia island:瓦伦西亚岛
+valencia lake:巴伦西亚湖
+valencia lake:巴倫西亞湖
+valencia lake:瓦倫西亞湖
+valencia lake:華倫西亞湖
 valencia letourneuxi:利氏西班牙鱂
+valencia marathon:巴伦西亚马拉松
+valencia marathon:瓦伦西亚马拉松
+valencia metro:巴伦西亚地铁
+valencia municipality:巴伦西亚自治区
+valencia municipality:瓦伦西亚自治区
+valencia north:瓦倫西亞北
 valencia open:瓦伦西亚公开赛
+valencia province:巴伦西亚省
+valencia province:巴倫西亞省
+valencia province:瓦伦西亚省
+valencia province:瓦倫西亞省
+valencia province:華倫西亞省
+valencia region:巴伦西亚地区
+valencia region:瓦伦西亚地区
 valencia six flag:瓦倫西亞六旗
 valencia six:瓦倫西亞六
 valencia street circuit:巴伦西亚街道赛道
 valencia toothcarp:西班牙鱂
+valencia university:巴伦西亚大学
+valencia university:瓦伦西亚大学
+valencia university:瓦倫西亞大學
+valencia university:華倫西亞大學
 valencia:巴伦西亚
 valencia:巴伦西亚省
 valencia:巴倫西亞
@@ -1966,6 +2014,7 @@ valenciennea wardii:沃德范氏塘鱧
 valenciennea:凡塘鳢属
 valenciennellus tripunctulatus:丛光鱼
 valenciennes fc:瓦朗謝訥足球俱樂部
+valenciennes station:瓦朗謝訥站
 valenciennes station:瓦朗谢讷站
 valenciennes tramway:瓦朗谢讷有轨电车
 valenciennes:瓦朗謝訥
@@ -2015,7 +2064,10 @@ valensole:瓦朗索勒
 valensíska:巴伦西亚语
 valensíska:巴倫西亞語
 valentano:瓦伦塔诺
+valentia island:巴伦西亚岛
+valentia island:瓦伦西亚岛
 valentia island:瓦倫西亞島
+valentia observatory:瓦伦西亚天文台
 valentia-1:瓦朗斯-1
 valentia-2:瓦朗斯-2
 valentia-3:瓦朗斯-3
@@ -2039,6 +2091,7 @@ valentine dam:情人坝
 valentine hopes:瓦倫丁希望
 valentine is one:瓦倫丁是一
 valentine kiss:情人節之吻
+valentine tank:瓦倫丁坦克
 valentine tank:瓦倫丁戰車
 valentine's day according to:情人节根据
 valentine's day also give:情人节也给
@@ -2203,6 +2256,7 @@ valgõvinne:白俄罗斯/白俄羅斯
 valgõvinne:白俄羅斯
 valgõvinne:白罗斯
 valgõvinne:白羅斯
+valhalla centre:瓦爾哈拉中心
 valhalla game studios:英灵殿游戏工作室
 valhalla glacier:瓦爾哈拉冰川
 valhalla:瓦爾哈拉
@@ -3098,6 +3152,8 @@ valladolid international:巴利亚多利德国际
 valladolid line:巴利亚多利德线
 valladolid president carlos:巴利亚多利德总统卡洛斯
 valladolid president:巴利亚多利德总统
+valladolid province:巴利亚多利德省
+valladolid university:巴利亚多利德大学
 valladolid:巴利亚多利德
 valladolid:華拉杜列
 vallan:瓦朗
@@ -3302,6 +3358,8 @@ valley community:谷地社区
 valley conference:山谷会议
 valley contain:山谷包含
 valley corridor:山谷走廊
+valley cottage:山谷小屋
+valley county:瓦利县
 valley county:瓦利縣
 valley culture:山谷文化
 valley erupt:山谷爆发
@@ -3340,9 +3398,11 @@ valley international september:山谷国际九月
 valley international:山谷国际
 valley is anguilla:山谷是安圭拉
 valley is named:山谷是命名的
+valley island:瓦利岛
 valley kingdom:谷地王国
 valley lake:山谷湖泊
 valley landscape:山谷景观
+valley lee:瓦利李
 valley library:山谷图书馆
 valley life science:山谷生命科学
 valley like:山谷喜欢
@@ -3417,12 +3477,14 @@ valley school district:山谷学区
 valley school:山谷学校
 valley science and technology:山谷科技
 valley so:山谷如此
+valley stadium:山谷體育場
 valley state monument:山谷国家纪念碑
 valley state park:山谷州立公园
 valley state:山谷国家
 valley state:山谷州
 valley station:下站
 valley station:山谷站
+valley station:瓦利站
 valley story:山谷故事
 valley stream:山谷溪流
 valley structure:谷地结构
@@ -3439,6 +3501,7 @@ valley through:山谷通过
 valley tilapia:山谷罗非鱼
 valley towards:山谷向
 valley town:山谷城镇
+valley township:瓦利鎮區
 valley uprising:山谷起义
 valley very:山谷非常
 valley view terrance:駿景台
@@ -3503,6 +3566,7 @@ vallonia:瓦隆大区
 vallonien:瓦隆大区
 vallons de l'erdre:瓦隆德莱德尔
 vallorbe:瓦洛布
+vallorcine station:瓦洛西讷站
 vallorcine:瓦洛西讷
 valloriate:瓦洛里亚泰
 vallot glacier:瓦洛特冰川
@@ -3553,6 +3617,7 @@ valmiera:瓦爾米耶拉
 valmiki caste:班吉种姓
 valmiki:蚁垤
 valmojado:巴尔莫哈多
+valmondois station:瓦尔蒙杜瓦站
 valmondois:瓦尔蒙杜瓦
 valmontone:瓦尔蒙托内
 valmorea:瓦尔莫雷阿
@@ -3563,12 +3628,14 @@ valo omo:奧莫河
 valoejki:瓦盧伊基
 valofane:哇洛凡
 valoga glacier:瓦洛加冰川
+valognes station:瓦洛涅站
 valognes:瓦洛涅
 valojin:瓦洛任
 valojoulx:瓦洛茹
 valojyn:瓦洛任
 valona:发罗拉
 valongo wharf:瓦隆古码头
+valongo wharf:瓦隆古碼頭
 valongo:瓦隆古
 valonia ventricosa:球法囊藻
 valonia:瓦隆大区
@@ -5398,6 +5465,7 @@ vampire give:吸血鬼给
 vampire god:吸血鬼上帝
 vampire ground finch:嗜血地雀
 vampire group:吸血鬼组
+vampire heaven:吸血鬼天堂
 vampire hero:吸血鬼英雄
 vampire hesitate:吸血鬼犹豫
 vampire high:吸血鬼高
@@ -5433,6 +5501,7 @@ vampire mark:吸血鬼标记
 vampire mask:吸血鬼面具
 vampire master:吸血鬼大师
 vampire mayor:吸血鬼市长
+vampire mountain:吸血鬼山
 vampire mountain:魔山印石
 vampire movie:吸血鬼电影
 vampire movies:吸血鬼电影
@@ -5440,6 +5509,7 @@ vampire murder:吸血鬼謀殺
 vampire murder:吸血鬼谋杀
 vampire myth:吸血鬼神话
 vampire novel:吸血鬼小说
+vampire number:吸血鬼数
 vampire number:吸血鬼數
 vampire nurse:吸血鬼护士
 vampire one:吸血鬼一
@@ -5458,6 +5528,7 @@ vampire rather than:吸血鬼而不是
 vampire reports:吸血鬼报告
 vampire said:吸血鬼说
 vampire saliva:吸血鬼唾液
+vampire savior:吸血鬼救世主
 vampire say:吸血鬼说
 vampire says:吸血鬼说
 vampire season:吸血鬼季节
@@ -5759,6 +5830,7 @@ vanacampus vercoi:佛氏梵海龍
 vanacampus:梵海龙属
 vanadate crystal laser:钒酸盐晶体激光器
 vanadate crystal:钒酸盐晶体
+vanadate mineral:钒酸盐矿物
 vanadate:钒酸盐
 vanadinite:钒铅矿
 vanadium and iron:钒和铁
@@ -5824,6 +5896,7 @@ vance and his mother:万斯和他的母亲
 vance and his wife:万斯和他的妻子
 vance ask:万斯问
 vance bluff:萬斯海崖
+vance county:万斯县
 vance decided:万斯决定
 vance emphasize:万斯强调
 vance inherit:万斯继承
@@ -5853,6 +5926,7 @@ vancor building:穎嘉樓
 vancosamine:万古胺
 vancouver abstract:溫哥華摘要
 vancouver airport authority:溫哥華機場管理局
+vancouver airport:温哥华机场
 vancouver airport:溫哥華機場
 vancouver and china:溫哥華和中國
 vancouver apartment:溫哥華公寓
@@ -5861,7 +5935,11 @@ vancouver art gallery:溫哥華美術館
 vancouver await:溫哥華等候
 vancouver biennale:溫哥華雙年展
 vancouver british columbia temple:不列顛哥倫比亞省溫哥華聖殿
+vancouver canadians:溫哥華加拿大人
 vancouver canucks:溫哥華加人
+vancouver centre:溫哥華中心
+vancouver chinatown:温哥华唐人街
+vancouver chinatown:溫哥華唐人街
 vancouver chinese baptist church:溫哥华华人浸信会
 vancouver chinese baptist church:溫哥華華人浸信會
 vancouver city centre station:溫哥華市中心站
@@ -5870,8 +5948,13 @@ vancouver city hall:溫哥華市政廳
 vancouver city:溫哥華城市
 vancouver coastal health:溫哥華沿岸衛生局
 vancouver coastal sea wolf:温哥华岛狼
+vancouver college:溫哥華學院
 vancouver community college:溫哥華社區學院
 vancouver convention centre:溫哥華會議中心
+vancouver downtown:温哥华市中心
+vancouver downtown:溫哥華市中心
+vancouver east:温哥华东
+vancouver east:溫哥華東
 vancouver fairview:溫哥華麗景選區
 vancouver false creek:溫哥華福溪選區
 vancouver fc:溫哥華足球俱樂部
@@ -5896,6 +5979,7 @@ vancouver international film festival:温哥华国际电影节
 vancouver is canada:溫哥華是加拿大
 vancouver island coal:溫哥華島煤
 vancouver island university:溫哥華島大學
+vancouver island:温哥华岛
 vancouver island:溫哥華島
 vancouver kensington:溫哥華堅盛頓選區
 vancouver kingsway:溫哥華京士威選區
@@ -5905,6 +5989,9 @@ vancouver lower mainland:溫哥華低陸平原
 vancouver mansion:温哥华商厦
 vancouver mansion:溫哥華商廈
 vancouver mansion:漢寧大廈
+vancouver mayor:温哥华市长
+vancouver museum:温哥华博物馆
+vancouver olympics:温哥华奥运会
 vancouver open:温哥华网球公开赛
 vancouver park board:溫哥華公園及康樂局
 vancouver point grey:溫哥華灰角選區
@@ -5918,10 +6005,12 @@ vancouver residents:溫哥華居民
 vancouver school board:溫哥華教育局
 vancouver shipyard:溫哥華造船廠
 vancouver south granville:溫哥華南加蘭護選區
+vancouver south:溫哥華南
 vancouver strathcona:溫哥華士達孔拿選區
 vancouver sun:溫哥華太陽報
 vancouver system:温哥华参考文献格式
 vancouver to dallas:溫哥華到達拉斯
+vancouver university:溫哥華島大學
 vancouver version:溫哥華版本
 vancouver west end:溫哥華西端區選區
 vancouver whitecaps fc:溫哥華白浪足球會
@@ -5972,6 +6061,7 @@ vandenberg and america first:范登堡和美国第一
 vandenberg base:范登堡基地
 vandenberg launch:范登堡发射
 vandenberg space force base:范登堡太空軍基地
+vandenberg village:范登堡村
 vandenberg:范登堡
 vandenboschia:瓶蕨属
 vandenesse en auxois:欧苏瓦地区旺德内斯
@@ -6098,6 +6188,8 @@ vanillin:香草醛
 vanilloideae:香莢蘭亞科
 vanillyl alcohol:香草醇
 vanillylamine:香兰素胺
+vanimo airport:瓦尼莫机场
+vanimo airport:瓦尼莫機場
 vanimo:瓦尼莫
 vanin piirikunta:瓦尼市
 vaninas:瓦宁诺港
@@ -6283,6 +6375,7 @@ vannaire:瓦奈尔
 vannecourt:瓦讷库尔
 vannecrocq:瓦讷克罗
 vannes cathedral:瓦訥主教座堂
+vannes cathedral:瓦讷主教座堂
 vannes oc:瓦讷奥林匹克俱乐部
 vannes station:瓦讷站
 vannes sur cosson:科松河畔瓦讷
@@ -6304,6 +6397,7 @@ vanpool:共乘
 vanraure hachinohe:八戶雲羅里
 vans products:范斯产品
 vans us:范斯美国
+vans valley:范斯瓦利
 vans:范斯
 vansa:梵莎
 vansbro municipality:万斯布鲁市镇
@@ -6321,6 +6415,7 @@ vanta:万塔
 vantaa airport:万塔机场
 vantaa plan:万塔计划
 vantaa prison:万塔监狱
+vantaa river:万塔河
 vantaa to helsinki:万塔到赫尔辛基
 vantaa:万塔
 vantablack:梵塔黑
@@ -6523,6 +6618,7 @@ vapor concentration:蒸气浓度
 vapor cone:蒸汽锥
 vapor cooling:蒸气冷却
 vapor density:蒸气密度
+vapor density:蒸氣密度
 vapor diffusion:蒸气扩散
 vapor evaporate:蒸气蒸发
 vapor evaporation:蒸气蒸发
@@ -6541,6 +6637,7 @@ vapor mixture:蒸氣混合物
 vapor or mist:蒸氣或薄霧
 vapor poisoning:蒸气中毒
 vapor pressure of water:水蒸氣壓
+vapor pressure:蒸气压力
 vapor pressure:蒸氣壓
 vapor products:蒸气产品
 vapor quality:蒸氣量
@@ -6553,6 +6650,8 @@ vapor through:蒸气通过
 vapor toxicity:蒸气毒性
 vapor trail:蒸气痕迹
 vapor wake canine:輕煙犬
+vapor wave:蒸气波
+vapor wave:蒸氣波
 vapor:蒸气
 vapor:蒸氣
 vaporeon:水伊貝
@@ -6575,6 +6674,7 @@ vaprio d'adda:阿达河畔瓦普里奥
 vaptsarov peak:瓦普察羅夫峰
 vapula:瓦布拉
 vaquita:加灣鼠海豚
+var river:巴爾河
 var:巴尔
 var:巴爾
 vara de rey:巴拉德雷
@@ -6606,9 +6706,11 @@ varallo pombia:瓦拉洛蓬比亚
 varallo sesia:瓦拉洛
 varam and valiyannur:瓦拉姆
 varambon:瓦朗邦
+varamin county:瓦拉明县
 varamin plain:瓦拉明平原
 varamin:瓦拉明
 varan the unbelievable:大怪獸巴朗
+varanasi airport:瓦拉納西機場
 varanasi district:瓦拉納西縣
 varanasi hospital:瓦拉納西醫院
 varanasi:瓦拉納西
@@ -6734,8 +6836,12 @@ varenye:瓦列涅
 varenyky:烏克蘭餃子
 vares:瓦雷泽
 vares:瓦雷澤
+varese lake:瓦雷泽湖
+varese lake:瓦雷澤湖
 varese ligure:瓦雷塞利古雷
 varese prealps:瓦雷澤前阿爾卑斯山脈
+varese province:瓦雷泽省
+varese province:瓦雷澤省
 varese railway station:瓦雷澤車站
 varese:瓦雷泽
 varese:瓦雷澤
@@ -7241,6 +7347,7 @@ varian medical systems:瓦里安医疗系统
 variana:库蒂纳
 variana:庫蒂納
 variance among:方差之间
+variance analysis:方差分析
 variance and error:方差和错误
 variance and risk:方差和风险
 variance approach:方差方法
@@ -7251,6 +7358,7 @@ variance data:方差数据
 variance direction:方差方向
 variance error:方差错误
 variance estimate:方差估计
+variance function:方差函数
 variance inflation factor:方差扩大因子
 variance is a necessary:方差是一个必要的
 variance is constant:方差是常量
@@ -7373,6 +7481,7 @@ varig:里约格朗德航空
 varignon's theorem:伐里農平行四邊形
 variibacter:变异杆菌属
 variichthys:雜竺鯻屬
+varilhes station:瓦里耶站
 varilhes:瓦里耶
 varinfroy:瓦兰夫鲁瓦
 vario juostos provincija:铜带省
@@ -11753,6 +11862,7 @@ varjavand building:拜火教神庙
 varjota:瓦尔若塔
 varkala:瓦尔卡拉
 varkaus airport:瓦尔考斯机场
+varkaus airport:瓦爾考斯機場
 varkaus sub region:瓦爾考斯次區
 varkaus:瓦爾考斯
 varketili:瓦提特里站
@@ -11788,10 +11898,13 @@ varmsko-mazurské vojvodstvo:瓦尔米亚-马祖里省
 varmsko-mazurské vojvodstvo:瓦爾米亞-馬祖里省
 varn:瓦爾納
 varna (il):瓦尔纳州
+varna airport:瓦尔纳机场
+varna airport:瓦尔纳機場
 varna airport:瓦爾納機場
 varna archaeological museum:瓦爾納考古學博物館
 varna free university:瓦尔纳自由大学
 varna municipality:瓦爾納市鎮
+varna peninsula:瓦尔纳半岛
 varna peninsula:瓦爾納半島
 varna province:瓦爾納州
 varna railway station:瓦爾納車站
@@ -11920,6 +12033,7 @@ varyag:瓦良格
 varysóvia:华沙
 varysóvia:華沙
 varzaneh:瓦尔扎
+varzaqan county:瓦尔扎甘县
 varzaqan:瓦尔扎甘
 varzay:瓦尔宰
 varzazat:瓦爾扎扎特
@@ -12113,6 +12227,7 @@ vascular efficiency:血管效率
 vascular elasticity:血管弹性
 vascular endothelial growth factor drugs:血管内皮生长因子药物
 vascular endothelial growth factor:血管内皮生长因子
+vascular endothelium:血管內皮
 vascular equipment:血管設備
 vascular equipment:血管设备
 vascular evaluation:血管評估
@@ -12165,6 +12280,7 @@ vascular issues:血管问题
 vascular kill:血管杀
 vascular knowledge:血管知识
 vascular laboratory:血管实验室
+vascular layer:血管层
 vascular lesion:血管病变
 vascular life support protocol:血管生活支持协议
 vascular life support:血管生活支持
@@ -12189,6 +12305,7 @@ vascular network structure:血管网络结构
 vascular network:血管网络
 vascular networks:血管网络
 vascular neurosurgery:血管神经外科
+vascular occlusion:血管闭塞
 vascular occlusion:血管阻塞
 vascular or cancer health:血管或癌症健康
 vascular or coronary artery disease:血管或冠狀動脈疾病
@@ -12287,6 +12404,7 @@ vascular test:血管测试
 vascular thrombus:血管血栓
 vascular tissue structure:维管组织结构
 vascular tissue:维管组织
+vascular tissue:血管组织
 vascular toxicity:血管毒性
 vascular training:血管培训
 vascular training:血管训练
@@ -12495,6 +12613,7 @@ vatakara:瓦达卡拉
 vatchiv:瓦奇夫
 vaterite:球霰石
 vatersay:瓦特賽島
+vaterstetten station:法特尔斯特滕站
 vaterstetten:法特尔斯特滕
 vaterstetten:法特施泰滕
 vathirairuppu:瓦蒂赖鲁普
@@ -12543,6 +12662,7 @@ vatican apartment:梵蒂冈公寓
 vatican apostolic archive:梵蒂岡宗座檔案館
 vatican architect:梵蒂冈建筑师
 vatican archive:梵蒂冈档案
+vatican archives:梵蒂冈档案馆
 vatican art gallery:梵蒂冈艺术画廊
 vatican as well:梵蒂冈也
 vatican astronomer:梵蒂冈天文学家
@@ -12552,6 +12672,7 @@ vatican band:梵蒂冈乐队
 vatican bank agree:梵蒂冈银行同意
 vatican bank investigation:梵蒂冈银行调查
 vatican bank:梵蒂冈银行
+vatican bank:梵蒂岡銀行
 vatican basilica:梵蒂冈巴西利卡
 vatican be:梵蒂冈成为
 vatican became:梵蒂冈成为
@@ -12650,6 +12771,7 @@ vatican leader:梵蒂冈领袖
 vatican lecture:梵蒂冈讲座
 vatican library and elsewhere:梵蒂冈图书馆和其它地方
 vatican library:梵蒂冈图书馆
+vatican library:梵蒂岡圖書館
 vatican library:梵蒂岡宗座圖書館
 vatican lira:梵蒂岡里拉
 vatican magazine:梵蒂冈杂志
@@ -12665,6 +12787,7 @@ vatican might allow:梵蒂冈可能允许
 vatican miracle examiner:梵諦岡奇蹟調查官
 vatican museum and saint:梵蒂冈博物馆和圣
 vatican museum:梵蒂冈博物馆
+vatican museum:梵蒂岡博物馆
 vatican museums require:梵蒂冈博物馆需要
 vatican museums:梵蒂冈博物馆
 vatican nerve:梵蒂冈神经
@@ -12673,6 +12796,7 @@ vatican newspaper:梵蒂冈报纸
 vatican night:梵蒂冈夜
 vatican now needs:梵蒂冈现在需要
 vatican now:梵蒂冈现在
+vatican observatory:梵蒂冈天文台
 vatican observatory:梵蒂岡天文台
 vatican observer:梵蒂冈观察者
 vatican office:梵蒂冈办公室
@@ -12684,10 +12808,14 @@ vatican ostpolitik:梵蒂冈东方政策
 vatican palace:梵蒂冈宫殿
 vatican passport:梵蒂冈护照
 vatican police:梵蒂冈警察
+vatican police:梵蒂岡警察
 vatican policy:梵蒂冈政策
+vatican politics:梵蒂冈政治
+vatican politics:梵蒂岡政治
 vatican pope:梵蒂冈教皇
 vatican portal:梵蒂冈门户
 vatican post office:梵蒂冈邮局
+vatican press:梵蒂岡出版社
 vatican publish:梵蒂冈发表
 vatican radio:梵蒂冈无线电
 vatican radio:梵蒂岡廣播電台
@@ -12863,6 +12991,7 @@ vatinsky yogan:瓦京斯基約甘河
 vatn minifenokee:hú mǐ ní fú nuò jī hú
 vatn minifenokee:湖米尼弗諾基湖
 vatoa:瓦托阿島
+vatomandry airport:瓦圖曼德里機場
 vatomandry:瓦圖曼德里
 vatopedi:瓦托派季乌修道院
 vatovavi:瓦图瓦维大区
@@ -12895,6 +13024,7 @@ vauban dam:沃帮拦河坝
 vaubecourt:沃布库尔
 vaubexy:沃伯克西
 vaucelles et beffecourt:沃塞勒和贝夫库尔
+vaucelles station:沃塞勒站
 vaucelles:沃塞勒
 vauchassis:沃沙西
 vauchelles les quesnoy:沃谢勒莱凯努瓦
@@ -12994,6 +13124,7 @@ vausseroux:沃斯鲁
 vauthiermont:沃蒂耶尔蒙
 vautorte:沃托尔特
 vauverd:沃韦尔
+vauvert station:沃韦尔站
 vauvert:沃韦尔
 vauvise:沃維斯河
 vaux champagne:沃香槟
@@ -13029,6 +13160,7 @@ vauxaillon:沃克赛永
 vauxbuin:沃比安
 vauxhall bridge:沃克斯霍爾橋
 vauxhall motors:佛賀汽車
+vauxhall station:沃克斯霍爾站
 vauxhall tube station:沃克斯霍爾站
 vauxhall:沃克斯霍爾
 vauxrezis:沃雷济
@@ -13038,6 +13170,7 @@ vavatenina district:瓦瓦泰尼納區
 vavatenina:瓦瓦泰尼納
 vava´u:瓦瓦烏群島
 vavelska katedrala:瓦維爾主教座堂
+vavilov center:瓦维洛夫中心
 vavilov center:起源中心
 vavilov hill:瓦維洛夫山
 vavilov insist:瓦维洛夫坚持

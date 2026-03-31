@@ -429,6 +429,7 @@ type gambling:类型赌博
 type game:类型游戏
 type games:类型游戏
 type genus:模式属
+type genus:类型类
 type handle:类型处理
 type happy:类型快乐的
 type has a field:类型有一个字段
@@ -470,6 +471,7 @@ type instance:类型实例
 type instruction:类型指令
 type interface:类型接口
 type into:类型进入
+type introspection:类型内省
 type investigation:类型调查
 type investment:类型投资
 type is a smart pointer:类型是一个智能指针
@@ -1627,6 +1629,7 @@ type pointer:类型指针
 type points:类型点
 type policy:类型政策
 type pollution:类型污染
+type polymorphism:类型多态性
 type prediction:类型预测
 type preference:类型偏好
 type print:类型打印
@@ -1653,6 +1656,7 @@ type record:类型记录
 type redirect:类型重定向
 type reference:类型参考
 type references:类型参考
+type region:类型区域
 type region:类型地区
 type register:类型注册
 type registration:类型注册
@@ -1678,6 +1682,7 @@ type safe interface:类型安全的接口
 type safe language:类型安全的语言
 type safe:类型安全的
 type safety:型別安全
+type safety:类型安全
 type sample:类型样本
 type say:类型说
 type scale:类型比例
@@ -1722,7 +1727,10 @@ type support:类型支持
 type symbol:类型符号
 type synonyms:类型同义词
 type syntax:类型语法
+type system:类型系統
+type system:类型系统
 type system:類型系統
+type systems:类型系统
 type target:类型目标
 type template parameter:类型模板参数
 type template:类型模板
@@ -1732,6 +1740,8 @@ type testing:类型测试
 type that:类型那
 type theme:类型主题
 type then:类型然后
+type theory:类型理論
+type theory:类型理论
 type theory:类型论
 type thread:类型线程
 type three:类型三
@@ -1779,6 +1789,8 @@ typeface classification:字体分类
 typeface companies:字体公司
 typeface company:字体公司
 typeface copyright:字体版权
+typeface design:字体设计
+typeface designer:字体设计师
 typeface include:字体包括
 typeface is a perfect:字体是一个完美的
 typeface let:字体让
@@ -1808,6 +1820,7 @@ typesetting and printing:排版和印刷
 typesetting and publishing:排版和出版
 typesetting book:排版书
 typesetting element:排版元素
+typesetting errors:排版错误
 typesetting formats:排版格式
 typesetting framework:排版框架
 typesetting function:排版功能
@@ -1921,16 +1934,21 @@ typhoon and earthquake:台风和地震
 typhoon and flood:台风和洪水
 typhoon and flood:颱風和洪水
 typhoon and tiger:台风和虎
+typhoon andy:颱風安迪
 typhoon approach:台风接近
 typhoon approach:颱風接近
 typhoon arrangement:台风安排
 typhoon arrangement:颱風安排
+typhoon bebinca:台风貝碧嘉
+typhoon bebinca:颱風貝碧嘉
 typhoon been:台风已经
+typhoon carmen:台风卡门
 typhoon cause:颱風引起
 typhoon center:台风中心
 typhoon center:颱風中心
 typhoon chase:台风追逐
 typhoon chataan:颱風查特安
+typhoon club:台风俱乐部
 typhoon cobra:颱風眼鏡蛇
 typhoon committee community weather:台风委员会社区天气
 typhoon committee:台风委员会
@@ -1938,19 +1956,28 @@ typhoon committee:颱風委員會
 typhoon corridor:台风走廊
 typhoon days:颱風天
 typhoon death:台风死亡
+typhoon dianmu:颱風電母
 typhoon disaster:台风灾害
 typhoon doug:颱風道格
+typhoon durian:台风榴莲
+typhoon durian:颱風榴蓮
 typhoon effect:台风作用
 typhoon eli:颱風艾里
 typhoon embryo:台风胚胎
+typhoon emma:颱風艾瑪
 typhoon event:台风事件
 typhoon expert:台风专家
 typhoon eye:台风眼
 typhoon fanapi:颱風凡那比
+typhoon fengshen:颱風風神
 typhoon fighter aircraft:台风战斗机
 typhoon force:台风力
 typhoon frank:台风弗兰克
 typhoon gerald:颱風杰拉爾
+typhoon gordon:颱風戈登
+typhoon haitang:台风海棠
+typhoon haitang:颱風海棠
+typhoon haiyan:台风海燕
 typhoon haiyan:颱風海燕
 typhoon halola:颱風哈洛拉
 typhoon hato:颱風天鴿
@@ -1966,19 +1993,25 @@ typhoon issue:台风问题
 typhoon ivan:颱風艾雲
 typhoon jade:台风玉
 typhoon karen:颱風凱倫
+typhoon kelly:颱風凱利
+typhoon kent:颱風肯特
 typhoon koinu:颱風小犬
 typhoon krathon:颱風山陀兒
 typhoon lagoon:颱風潟湖
 typhoon landing:台风登陆
 typhoon lee:李太楓
 typhoon level:台风水平
+typhoon longwang:台风龙王
 typhoon longwang:颱風龍王
 typhoon maemi:颱風梅米
 typhoon maggie:颱風瑪姬
 typhoon mangkhut:颱風山竹
+typhoon mary:台风玛丽
 typhoon matsa:颱風麥莎
 typhoon mike:颱風麥克
 typhoon mireille:颱風密瑞兒
+typhoon molave:台风莫拉菲
+typhoon molave:颱風莫拉菲
 typhoon months:台风月
 typhoon nabi:颱風彩蝶
 typhoon name:台风名字
@@ -2000,9 +2033,11 @@ typhoon recover:台风恢复
 typhoon red:台风红色
 typhoon research experts:台风研究专家
 typhoon research:台风研究
+typhoon rose:颱風玫瑰
 typhoon roy:颱風羅伊
 typhoon ruby:台风红宝石
 typhoon rusa:颱風鹿莎
+typhoon ruth:颱風露絲
 typhoon season:台风季节
 typhoon series:台风系列
 typhoon shelter:避風塘
@@ -2012,8 +2047,13 @@ typhoon signals:台风信号
 typhoon strengthen:台风加强
 typhoon studio:台风工作室
 typhoon sudal:颱風蘇特
+typhoon talas:台风塔拉斯
+typhoon talas:颱風塔拉斯
 typhoon test:台风测试
+typhoon tingting:台风婷婷
 typhoon tingting:颱風婷婷
+typhoon usagi:台风天兔
+typhoon usagi:颱風天兔
 typhoon vicente:颱風韋森特
 typhoon victims or those:台风受害者或那些
 typhoon victims:台风受害者
@@ -4390,10 +4430,12 @@ tyrosine kinase mutation:酪氨酸激酶突变
 tyrosine kinase orphan receptor:酪氨酸激酶孤儿受体
 tyrosine kinase treatment:酪氨酸激酶治疗
 tyrosine kinase:酪氨酸激酶
+tyrosine metabolism:酪氨酸代谢
 tyrosine phosphatase:酪氨酸磷酸酶
 tyrosine phosphorylation inhibit:酪氨酸磷酸化抑制
 tyrosine phosphorylation:酪氨酸磷酸化
 tyrosine protein kinase:酪氨酸蛋白激酶
+tyrosine transaminase:酪氨酸转氨酶
 tyrosine:酪氨酸
 tyrosol:酪醇
 tyrreense zee:第勒尼安海

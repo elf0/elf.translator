@@ -50,6 +50,7 @@ owen centre:欧文中心
 owen chamberlain:欧文张伯伦
 owen cheung:張振朗
 owen chow:鄒家成
+owen county:欧文县
 owen court a:慧苑a
 owen court b:慧苑b
 owen davidson:欧文戴维森
@@ -77,6 +78,7 @@ owen price:欧文价格
 owen quote:欧文引用
 owen record:欧文记录
 owen reveal:欧文揭示
+owen ridge:欧文山脊
 owen ridge:歐文嶺
 owen river:欧文河
 owen roberts international airport:欧文罗伯茨国际机场
@@ -735,6 +737,8 @@ ownership be:所有权成为
 ownership became:所有权成为
 ownership began:所有权开始
 ownership begin:所有权开始
+ownership behavior:所有权行为
+ownership behaviour:所有权行为
 ownership believe:所有权相信
 ownership buy:所有权买
 ownership can be:所有权可以成为
@@ -933,5 +937,6 @@ owu nkurow akɛse:叙利亚北部古村落群
 owu ọmụma. creek gbara ya gburugburu - 0:孤獨。 環繞小溪 - 0
 owu ọmụma. creek gbara ya gburugburu - 1:孤獨。 環繞溪 - 1
 owu ọmụma. creek gbara ya gburugburu - 2:孤獨。 環繞溪 - 2
+owyhee county:奥怀希县
 owyhee river:奥怀希河
 owyhee:奥怀希

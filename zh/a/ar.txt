@@ -123,11 +123,14 @@ ara damansara lrt station park and ride:阿拉白沙羅站停車轉乘
 ara damansara police station:阿拉白沙罗警局
 ara damansara:阿拉白沙罗
 ara damansara:阿拉白沙羅
+ara east:阿拉东
 ara gaya:阿羅伽倻
 ara general belgrano:貝爾格拉諾將軍號巡洋艦
 ara pacis:和平祭坛博物馆
 ara rivadavia:里瓦达维亚级战列舰
 ara river:荒川
+ara river:阿拉河
+ara station:阿拉站
 ara the handsome:美男子阿拉
 ara türük:yīwú xiàn
 ara türük:伊吾县
@@ -582,6 +585,7 @@ arabic curriculum:阿拉伯语课程
 arabic daily newspaper:阿拉伯语日报
 arabic database:阿拉伯语数据库
 arabic department:阿拉伯语系
+arabic diacritics:阿拉伯语附加符号
 arabic dialect:阿拉伯语方言
 arabic dictionary:阿拉伯语词典
 arabic edition:阿拉伯语版本
@@ -610,7 +614,9 @@ arabic languages:阿拉伯的语言
 arabic languages:阿拉伯语语言
 arabic learning:阿拉伯语学习
 arabic legend:阿拉伯的传说
+arabic letter:阿拉伯语字母
 arabic library:阿拉伯语图书馆
+arabic linguistics:阿拉伯语语言学
 arabic literature and language:阿拉伯文学和语言
 arabic literature:阿拉伯文学
 arabic love:阿拉伯的爱
@@ -662,6 +668,7 @@ arabic poetry:阿拉伯语诗歌
 arabic professional:阿拉伯语专业
 arabic publishing:阿拉伯语出版
 arabic reader:阿拉伯语读者
+arabic romanization:阿拉伯语罗马化
 arabic royal family:阿拉伯的王室
 arabic satellite television:阿拉伯语卫星电视
 arabic scholar:阿拉伯的学者
@@ -711,6 +718,7 @@ arabic with us:阿拉伯语与我们
 arabic women:阿拉伯的女人
 arabic word:阿拉伯语单词
 arabic world:阿拉伯的世界
+arabic world:阿拉伯语世界
 arabic writing:阿拉伯语写作
 arabic:阿拉伯的
 arabic:阿拉伯语
@@ -1058,6 +1066,7 @@ aracitaba:阿拉西塔巴
 arackar:骨龍屬
 arad and bucharest:阿拉德和布加勒斯特
 arad architects:阿拉德建筑师
+arad county:阿拉德县
 arad county:阿拉德縣
 arad said:阿拉德说
 arad we:阿拉德我们
@@ -1122,14 +1131,17 @@ aragog:阿辣哥
 aragominas:阿拉戈米纳斯
 aragon add:阿拉贡加
 aragon and robert:阿拉贡和罗伯特
+aragon castle:阿拉贡城堡
 aragon conference:阿拉贡会议
 aragon for the first time:阿拉贡第一次
 aragon grand prix:阿拉贡大奖赛
 aragon home:阿拉贡家
 aragon motorway:阿拉贡高速公路
 aragon offensive:阿拉貢攻勢
+aragon offensive:阿拉贡攻势
 aragon party:阿拉贡党
 aragon region:阿拉贡地区
+aragon river:阿拉贡河
 aragon sword:阿拉贡剑
 aragon:阿拉贡
 aragona:阿拉戈纳
@@ -1155,6 +1167,7 @@ araguaina:阿拉瓜伊纳
 araguainha crater:阿拉瓜伊尼亚陨石坑
 araguainha:阿拉瓜伊尼亚
 araguapaz:阿拉瓜帕兹
+araguari river:阿拉瓜里河
 araguari:阿拉瓜里
 araguatins:阿拉瓜廷斯
 araguaína:阿拉瓜伊纳
@@ -1186,6 +1199,7 @@ araiyakushi mae station:新井藥師前站
 arajanų nacionalinis parkas:阿拉亞內斯國家公園
 arajs kommando:阿拉斯突擊隊
 arajuno canton:阿拉胡諾縣
+arak county:阿拉克县
 arak toothcarp:翹嘴祕鱂
 arak:阿拉克
 arakaju:阿拉卡茹
@@ -1207,9 +1221,11 @@ arakas:阿拉克
 arakava:荒川區
 arakawa and lincoln:荒川和林肯
 arakawa believe:荒川相信
+arakawa bridge:荒川橋
 arakawa city office:荒川区政府
 arakawa continue:荒川继续
 arakawa kuyakushomae station:荒川區役所前停留場
+arakawa line:荒川线
 arakawa park:荒川公园
 arakawa police station:荒川警署
 arakawa post office:荒川郵局
@@ -1232,6 +1248,7 @@ arakil:阿拉基尔
 arakkonam:阿拉科纳姆
 araklı:阿拉克勒
 arako kannon:荒子觀音
+arako station:荒子站
 arako station:荒子車站
 arako:荒子
 arakogawa-koen:荒子川公园
@@ -1362,6 +1379,7 @@ aranguren:阿兰古伦
 arani province:阿拉尼县
 araniella cucurbitina:八痣蛛
 araniella displicata:六痣蛛
+araniko highway:阿尼哥公路
 araniko:阿尼哥
 aranjuez route:阿兰胡埃斯路线
 aranjuez:阿兰胡埃斯
@@ -1451,10 +1469,13 @@ arar border crossing:阿尔阿尔口岸
 arar:阿尔阿尔
 araragi:癩灰蝶屬
 araranca:阿拉蘭卡山
+araraquara airport:阿拉拉夸拉机场
 araraquara:阿拉拉夸拉
 araras:阿拉拉斯
 ararat anomaly:阿勒山异物
 ararat dagy:亞拉拉特山
+ararat erevan:亞拉臘葉里溫
+ararat mountain:亞拉臘山
 ararat mərzi:亞拉拉特省
 ararat plain:亞拉拉特平原
 ararat province:亞拉拉特州
@@ -1462,6 +1483,7 @@ ararat province:亞拉拉特省
 ararat séng:亞拉拉特省
 ararat tartomány:亞拉拉特省
 ararat wa'layatı:亞拉拉特省
+ararat yerevan:亞拉臘葉里溫
 ararat:亞拉拉特山
 ararat:亞拉拉特省
 ararat:亞拉臘
@@ -1575,8 +1597,10 @@ araucaria:南洋杉属
 araucariaceae:南洋杉科
 araucarioxylon arizonicum:南洋杉型木
 arauco department:阿勞科縣
+arauco province:阿劳科省
 arauco province:阿勞科省
 arauco war:阿劳卡尼亚战争
+arauco war:阿劳科战争
 arauco:阿劳科
 araujia sericifera:阿鲁藤
 araujia:阿鲁藤属
@@ -1976,6 +2000,7 @@ arbitration mechanism:仲裁机制
 arbitration mechanisms:仲裁机制
 arbitration method:仲裁方法
 arbitration methods:仲裁方法
+arbitration motion:仲裁运动
 arbitration norm:仲裁规范
 arbitration of evidence:仲裁的证据
 arbitration offer:仲裁提供
@@ -2093,6 +2118,7 @@ arbre parapluie:伞树
 arbres pétrifiés:硅化树
 arbrissel:阿布里塞勒
 arbroath abbey:阿布罗斯修道院
+arbroath abbey:阿布羅斯修道院
 arbroath:阿布羅斯
 arbulag:阿尔布拉克县
 arbusigny:阿尔比西尼
@@ -2166,6 +2192,7 @@ arc light:弧光
 arc line:弧线
 arc means:弧意味着
 arc mercury:弧汞
+arc minute:弧分
 arc mountain:弧山
 arc of existence:弧的存在
 arc oxidation:弧氧化
@@ -2175,6 +2202,7 @@ arc process:弧处理
 arc radius or chamfer:弧半径或倒角
 arc radius:弧半径
 arc report:弧报告
+arc second:弧秒
 arc shareholders:弧股东
 arc source:弧源
 arc sous cicon:阿尔克苏西孔
@@ -2199,6 +2227,7 @@ arca di san domenico:圣多明我墓
 arcabuco:阿卡武科
 arcachon bay:阿卡雄灣
 arcachon station:阿卡雄站
+arcachon station:阿尔卡雄站
 arcachon:阿卡雄
 arcachon:阿尔卡雄
 arcachón:阿尔卡雄
@@ -2299,6 +2328,7 @@ arch biosphere:拱生物圈
 arch bishop:拱主教
 arch bridge principle:拱桥原理
 arch bridge:拱桥
+arch bridge:拱橋
 arch centre:拱中心
 arch coal:拱煤
 arch concrete bridge:拱混凝土桥
@@ -2310,6 +2340,7 @@ arch design:拱形设计
 arch door:拱门
 arch enemy:邪神大敵
 arch gravity dam:重力拱坝
+arch hill:拱丘
 arch look:拱看
 arch machine:拱形机器
 arch mason:拱梅森
@@ -2339,6 +2370,7 @@ arch of triumph:凯旋门
 arch of virtue and knowledge:德智門
 arch of virtue and knowledge:德智门
 arch research:拱研究
+arch rock:拱形岩石
 arch scholar:拱学者
 arch self:拱自我
 arch smile:拱形微笑
@@ -2646,6 +2678,7 @@ archangajaus aimakas:xīnbā'ěrhǔ yòu qí
 archangajaus aimakas:后杭爱省
 archangajaus aimakas:後杭愛
 archangajaus aimakas:後杭愛省
+archangel cathedral:天使長主教座堂
 archangel:天使長
 archangelopolis:阿尔汉格尔斯克
 archangelopolis:阿爾漢格爾斯克
@@ -2743,9 +2776,13 @@ archduchess gisela of austria:奧地利的吉塞拉
 archduchess magdalena of austria:奧地利的瑪格達列娜
 archduchy of austria:奧地利大公國
 archduke anton of austria:奧地利的安東大公
+archduke charles:奥地利大公查尔斯
 archduke ernest of austria:奧地利的恩斯特
 archduke felix of austria:奧地利的菲利克斯
 archduke john of austria:約翰大公
+archduke john:奥地利大公约翰
+archduke joseph:奥地利大公约瑟夫
+archduke karl:奥地利大公卡尔
 archduke louis of austria:奧地利的路德維希
 archduke rudolf of austria:奧地利的魯道夫
 archduke wenceslaus of austria:奧地利的文策爾
@@ -2838,6 +2875,7 @@ archetype entertainment:原型娱乐
 archetype factory:原型工厂
 archetype is psychic:原型是心灵的
 archetype lack:原型缺乏
+archetype pattern:原型模式
 archetype reports:原型报告
 archetype:原型
 archezoa:源真核生物界
@@ -2881,6 +2919,7 @@ archimedean spiral:阿基米德螺线
 archimedes and apollo:阿基米德和阿波罗
 archimedes and euclid:阿基米德和欧几里得
 archimedes began:阿基米德开始
+archimedes bridge:阿基米德桥
 archimedes bridge:阿基米德橋
 archimedes buoyancy:阿基米德浮力
 archimedes compute:阿基米德计算
@@ -2897,6 +2936,7 @@ archimedes principle:阿基米德原理
 archimedes project:阿基米德项目
 archimedes prove:阿基米德证明
 archimedes said:阿基米德说
+archimedes spiral:阿基米德螺线
 archimedes:阿基米德
 archimylacris:古蠊屬
 archineottia:无喙兰属
@@ -2933,6 +2973,7 @@ archipelago national park:群島國家公園
 archipelago of gothenburg:哥德堡群島
 archipelago of san bernardo:聖貝爾納多群島
 archipelago sea:群岛海
+archipelago sea:群島海
 archipelago:群島
 archipelagoes of patagonia:巴塔哥尼亞群島
 archipelagu tuscanu:托斯卡納群島
@@ -3583,6 +3624,8 @@ architecture design method:架构设计方法
 architecture design pattern:架构设计模式
 architecture design software:架构设计软件
 architecture design solution:架构设计解决方案
+architecture design:建筑設計
+architecture design:建筑设计
 architecture design:架构设计
 architecture details:架构细节
 architecture development and support:架构开发和支持
@@ -3590,6 +3633,7 @@ architecture development method:架构开发方法
 architecture development system:架构开发系统
 architecture development:架构发展
 architecture development:架构开发
+architecture discipline:建筑学科
 architecture diversity:架构多样性
 architecture document:架构文档
 architecture documents:架构文档
@@ -3612,8 +3656,11 @@ architecture experience:架构体验
 architecture experience:架构经验
 architecture financial market infrastructure:架构金融市场基础设施
 architecture financial market:架构金融市场
+architecture forum:建筑论坛
 architecture forum:架构论坛
+architecture framework:建筑框架
 architecture framework:架构框架
+architecture frameworks:建筑框架
 architecture frameworks:架构框架
 architecture from:架构从
 architecture functions:架构功能
@@ -3632,6 +3679,7 @@ architecture has feedback connection:架构有反馈连接
 architecture has many advantages:架构有许多优点
 architecture have been:架构已经
 architecture help:架构帮助
+architecture history:建筑历史
 architecture history:建筑学历史
 architecture hot:建筑学热
 architecture impact:架构影响
@@ -3673,6 +3721,7 @@ architecture london:架构伦敦
 architecture look:架构看
 architecture machines:架构机器
 architecture magazine:建筑学杂志
+architecture magazine:建筑杂志
 architecture management:架构管理
 architecture market:架构市场
 architecture means end user:架构意味着终端用户
@@ -3693,6 +3742,7 @@ architecture modeling:架构建模
 architecture models:架构模型
 architecture module:架构模块
 architecture motherboard:架构主板
+architecture museum:建筑博物馆
 architecture needs:建筑学需要
 architecture needs:架构需要
 architecture network:架构网络
@@ -3847,6 +3897,7 @@ architecture techniques:架构技术
 architecture technology:架构技术
 architecture template:架构模板
 architecture textbook:建筑学教科书
+architecture theory:建筑理论
 architecture they:架构他们
 architecture to data science:架构到数据科学
 architecture to interior design:建筑学到室内设计
@@ -3912,6 +3963,7 @@ archive compile:档案编译
 archive contain:档案包含
 archive contain:檔案包含
 archive content:档案内容
+archive copy:档案复制
 archive data:档案数据
 archive database:档案数据库
 archive department:档案部门
@@ -3930,7 +3982,9 @@ archive files:档案文件
 archive files:檔案文件
 archive film:档案电影
 archive format:档案格式
+archive format:檔案格式
 archive formats:档案格式
+archive formats:檔案格式
 archive foundation:档案基金
 archive from:档案从
 archive function:档案功能
@@ -3979,6 +4033,7 @@ archive search:档案搜索
 archive security protocol:档案安全协议
 archive security:档案安全
 archive series:档案系列
+archive series:檔案系列
 archive service:档案服务
 archive show:档案显示
 archive site:档案站点
@@ -4207,6 +4262,7 @@ arctic blast:極地時速
 arctic border:北极边
 arctic border:北极边界
 arctic breed:北极繁殖
+arctic bridge:北极桥
 arctic brigade:北极旅
 arctic brother:北极兄弟
 arctic buildings:北极建筑
@@ -4275,10 +4331,12 @@ arctic condition:北极条件
 arctic conditions:北极条件
 arctic conference:北极会议
 arctic conflict:北极冲突
+arctic continent:北极大陆
 arctic continental shelf:北极大陆架
 arctic continues:北极地区继续
 arctic continues:北极继续
 arctic control:北极控制
+arctic convoy:北极护航队
 arctic convoys of world war ii:二战北极船团
 arctic cooperation agreement:北极合作协议
 arctic cooperation policy:北极合作政策
@@ -4356,6 +4414,7 @@ arctic fire:北极火
 arctic fish:北极鱼
 arctic five:北极五
 arctic fjord:北极峡湾
+arctic flotilla:北极区舰队
 arctic flounder:北極光鰈
 arctic food chain:北极地区食物链
 arctic food chain:北极食物链
@@ -4366,6 +4425,7 @@ arctic forum:北极论坛
 arctic four:北极四
 arctic fox breed:北極狐繁殖
 arctic fox den:雪狐居
+arctic fox:北极狐
 arctic fox:北極狐
 arctic from:北极从
 arctic frontier:北极边境
@@ -4580,6 +4640,8 @@ arctic railway:北极铁路
 arctic redpoll:极北朱顶雀
 arctic regime:北极政权
 arctic region:北极区域
+arctic region:北极地区
+arctic regions:北极地区
 arctic reindeer:北极驯鹿
 arctic report card show:北极报告卡显示
 arctic report card:北极报告卡
@@ -4732,6 +4794,7 @@ arctic winter conditions:北极冬季条件
 arctic winter:北极冬季
 arctic winter:北极地区冬季
 arctic without:北极没有
+arctic wolf:北极狼
 arctic wolf:北極狼
 arctic wolves:北极狼
 arctic work:北极工作
@@ -4789,6 +4852,7 @@ arctowski nunatak:阿爾茨托夫斯基冰原島峰
 arctowski peak:阿茨托夫斯基峰
 arctowski peninsula:阿爾茨托夫斯基半島
 arcturus moving group:大角星流
+arcturus stream:大角星流
 arcturus:大角星
 arcuate fasciculus:弓状束
 arcuate uterus:弓形子宫
@@ -4911,6 +4975,7 @@ ardabil (tỉnh):阿爾達比勒省
 ardabil carpet:阿尔达比勒地毯
 ardabil county:阿尔达比勒县
 ardabil earthquake:阿尔达比勒地震
+ardabil province:阿尔达比勒省
 ardabil province:阿爾達比勒省
 ardabil séng:阿爾達比勒省
 ardabil tartomány:阿爾達比勒省
@@ -4931,6 +4996,7 @@ ardabīli provints:阿爾達比勒省
 ardagger:阿尔达格
 ardahan merkez:阿爾達漢
 ardahan province:阿尔达汉省
+ardahan province:阿爾達漢省
 ardahan:阿尔达汉省
 ardahan:阿爾達漢
 ardahana:阿爾達漢
@@ -4987,6 +5053,7 @@ ardeaglais canterbury:根德伯里座堂
 ardeaglais murcia:穆爾西亞大教堂
 ardeatino:阿尔迪亚蒂诺
 ardebil (provincie):阿爾達比勒省
+ardebil province:阿尔达比勒省
 ardebil:阿尔达比勒
 ardebil:阿爾達比勒省
 ardebilia:阿尔达比勒
@@ -5065,6 +5132,7 @@ ardmore:阿德莫爾
 ardnamurchan:阿德納默亨角
 ardning:阿尔德宁
 ardoix:阿尔杜瓦
+ardon river:阿尔东河
 ardon:阿尔东
 ardona:阿尔东
 ardonas:阿尔东
@@ -16026,6 +16094,7 @@ area church:面积教堂
 area cities:地区城市
 area citizens:地区公民
 area city:地区城市
+area classification:领域分类
 area clear:地区清除
 area clinic:地区诊所
 area club:地区俱乐部
@@ -16132,6 +16201,7 @@ area effects:面积影响
 area efficiency:面积效率
 area eighth grade:地区八年级
 area element:地区元素
+area element:面积元素
 area embryology:领域胚胎学
 area emissions:面积排放
 area emmy awards:地区艾美奖
@@ -16246,6 +16316,7 @@ area independent:地区独立的
 area infant:地区婴儿
 area information:地区信息
 area information:面积信息
+area integral:面积积分
 area involve:领域包括
 area is a giant:地区是一个巨大的
 area is a very:地区是一个非常
@@ -16410,6 +16481,7 @@ area of symbol:地区的符号
 area of technology innovation:领域的技术创新
 area of tosca:地区的托斯卡
 area of work:领域的工作
+area of:地区的
 area offer:地区提供
 area offer:领域提供
 area office:地区办公室
@@ -16476,6 +16548,7 @@ area quality:面积质量
 area railway:地区铁路
 area rainfall:地区降雨
 area range:地区范围
+area rank:领域等级
 area ranking:面积排名
 area rather than:地区而不是
 area ratio:面积比
@@ -16945,6 +17018,7 @@ arelerland:阿尔隆地区
 arellano:仙娥礁
 arem language:阿楞语
 aremark:阿勒馬克
+aremberg castle:阿伦贝格城堡
 aremberg:阿伦贝格
 aren kuri:九里亞蓮
 arena 2000:2000體育館
@@ -17152,6 +17226,7 @@ areyopoirt di dong tac:東索機場
 areyopoirt di sao vang:寿春机场
 arezyu:阿尔泽
 arezzo cathedral:阿雷佐主教座堂
+arezzo province:阿雷佐省
 arezzo:瀚然
 arezzo:阿雷佐
 arfa software technology park:阿爾法軟體科技園區
@@ -17238,6 +17313,8 @@ argente:阿尔亨特
 argentena:阿根廷
 argentenay:阿让特奈
 argentera:阿真泰拉
+argenteuil county:阿让特伊县
+argenteuil station:阿让特伊站
 argenteuil:阿让特伊
 argenthal:阿根塔尔
 argentiin:阿根廷
@@ -17554,6 +17631,7 @@ argentina lemon:阿根廷柠檬
 argentina lithium:阿根廷锂
 argentina manager:阿根廷经理
 argentina map:阿根廷地图
+argentina marines:阿根廷海軍陸戰隊
 argentina market:阿根廷市场
 argentina means:阿根廷意味着
 argentina media:阿根廷媒体
@@ -17592,6 +17670,7 @@ argentina plans:阿根廷计划
 argentina poet:阿根廷诗人
 argentina prediction:阿根廷预测
 argentina prepare:阿根廷准备
+argentina president:阿根廷总统
 argentina produce:阿根廷生产
 argentina production:阿根廷生产
 argentina project:阿根廷项目
@@ -17629,6 +17708,7 @@ argentina the:阿根廷这
 argentina theatre:阿根廷剧院
 argentina this time:阿根廷这次
 argentina this:阿根廷这
+argentina time:阿根廷时间
 argentina to england:阿根廷到英格兰
 argentina to poland:阿根廷到波兰
 argentina to zimbabwe:阿根廷到津巴布韦
@@ -17656,6 +17736,7 @@ argentina will become another:阿根廷将成为另一个
 argentina will get support:阿根廷将得到支持
 argentina will:阿根廷会
 argentina win:阿根廷赢得
+argentina wine:阿根廷葡萄酒
 argentina women's national football team:阿根廷国家女子足球队
 argentina won six:阿根廷赢了六
 argentina won:阿根廷赢了
@@ -17698,7 +17779,9 @@ argentine and turkish:阿根廷和土耳其
 argentine and uruguay:阿根廷和乌拉圭
 argentine animal product:阿根廷动物产品
 argentine ant:阿根廷蟻
+argentine antarctic:阿根廷南極洲
 argentine antarctica:阿根廷南極屬地
+argentine antarctica:阿根廷南極洲
 argentine anticommunist alliance:阿根廷反共聯盟
 argentine appeal:阿根廷上诉
 argentine apple:阿根廷苹果
@@ -17749,6 +17832,7 @@ argentine china:阿根廷中国
 argentine cities:阿根廷城市
 argentine citizen:阿根廷公民
 argentine citizens:阿根廷公民
+argentine citizenship:阿根廷公民
 argentine city:阿根廷城市
 argentine civil wars:阿根廷內戰
 argentine clients:阿根廷客户
@@ -17811,6 +17895,7 @@ argentine economist:阿根廷经济学家
 argentine economy minister:阿根廷经济部长
 argentine economy:阿根廷经济
 argentine education:阿根廷教育
+argentine elections:阿根廷选举
 argentine embassy:阿根廷大使馆
 argentine energy company:阿根廷能源公司
 argentine energy:阿根廷能源
@@ -17825,6 +17910,7 @@ argentine farmer:阿根廷农民
 argentine farmer:阿根廷農民
 argentine fascist:阿根廷法西斯主义者
 argentine film:阿根廷电影
+argentine films:阿根廷电影
 argentine finance minister:阿根廷财政部长
 argentine financial crisis:阿根廷金融危机
 argentine financial services:阿根廷金融服务
@@ -17842,8 +17928,10 @@ argentine footballer:阿根廷足球运动员
 argentine foreign minister:阿根廷外交部长
 argentine forensic anthropology:阿根廷法医人类学
 argentine friends:阿根廷朋友
+argentine gendarmerie:阿根廷國家憲兵
 argentine general election:阿根廷大选
 argentine general:阿根廷将军
+argentine geography:阿根廷地理
 argentine girl:阿根廷少女
 argentine glacier:阿根廷冰川
 argentine goods:阿根廷商品
@@ -17898,26 +17986,32 @@ argentine legislature:阿根廷立法机关
 argentine lemon export:阿根廷柠檬出口
 argentine lemon:阿根廷柠檬
 argentine life:阿根廷生活
+argentine literature:阿根廷文学
+argentine literature:阿根廷文學
 argentine lithium:阿根廷锂
 argentine lucky:阿根廷幸运的
 argentine malbec:阿根廷马尔贝克
 argentine manager:阿根廷经理
 argentine marcos:阿根廷马科斯
+argentine marines:阿根廷海軍陸戰隊
 argentine market:阿根廷市场
 argentine master:阿根廷大师
 argentine meat:阿根廷肉
 argentine media:阿根廷媒体
 argentine medium tank:阿根廷中型坦克
 argentine men and women:阿根廷男性和女性
+argentine mesopotamia:阿根廷美索不达米亚
 argentine midfielder:阿根廷中场
 argentine military dictatorship:阿根廷軍事獨裁
 argentine military personnel:阿根廷军人
 argentine military:阿根廷军事
 argentine military:阿根廷军队
+argentine military:阿根廷軍隊
 argentine ministry of defence:阿根廷国防部
 argentine ministry of finance:阿根廷财政部
 argentine model:阿根廷模特
 argentine mother:阿根廷母親
+argentine music:阿根廷音乐
 argentine musician:阿根廷音乐家
 argentine name:阿根廷名称
 argentine nation:阿根廷国家
@@ -17927,6 +18021,7 @@ argentine national congress:阿根廷国会
 argentine national gendarmerie:阿根廷國家憲兵
 argentine national team soccer:阿根廷国家队足球
 argentine national team:阿根廷国家队
+argentine nationalism:阿根廷民族主义
 argentine nationality:阿根廷国籍
 argentine nationality:阿根廷國籍
 argentine natural science:阿根廷自然科学
@@ -17954,6 +18049,7 @@ argentine paleontology:阿根廷古生物学
 argentine parliament:阿根廷议会
 argentine passion:阿根廷激情
 argentine passport:阿根廷护照
+argentine patagonia:阿根廷巴塔哥尼亞
 argentine patient:阿根廷患者
 argentine people:阿根廷民
 argentine peso:阿根廷比索
@@ -17965,6 +18061,7 @@ argentine pioneer:阿根廷先驱
 argentine plain:阿根廷平原
 argentine police:阿根廷警察
 argentine politician:阿根廷政治家
+argentine politics:阿根廷政治
 argentine polo:阿根廷马球
 argentine pope:阿根廷教宗
 argentine pope:阿根廷教皇
@@ -17995,6 +18092,7 @@ argentine research:阿根廷研究
 argentine researcher:阿根廷研究员
 argentine researchers:阿根廷研究人员
 argentine residents:阿根廷居民
+argentine revolution:阿根廷革命
 argentine river:阿根廷河流
 argentine ruling class:阿根廷統治階級
 argentine said:阿根廷说
@@ -18051,6 +18149,7 @@ argentine torpedo:砂大電鱝
 argentine tourism:阿根廷旅游
 argentine tourists:阿根廷游客
 argentine town:阿根廷城镇
+argentine township:阿根廷鎮區
 argentine triple crown:阿根廷三冠
 argentine troop:阿根廷军队
 argentine troops:阿根廷军队
@@ -18122,6 +18221,7 @@ argentinn-a:阿根廷
 argentinne:阿根廷
 argentino channel:阿根廷海峽
 argentino lake:阿根廷湖
+argentino rosario:阿根廷罗萨里奥
 argentino:阿根廷
 argentinos ambasada:阿根廷大使馆
 argentinos juniors:阿根廷青年人
@@ -18180,6 +18280,7 @@ arginine by:精氨酸被
 arginine finger:精氨酸手指
 arginine help:精氨酸帮助
 arginine methylation:精氨酸甲基化
+arginine vasopressin:精氨酸抗利尿激素
 arginine:精氨酸
 argininosuccinate lyase:精氨基琥珀酸裂解酶
 argininosuccinate synthase:精氨基琥珀酸合酶
@@ -18228,6 +18329,8 @@ argon and uranium:氩和铀
 argon atom:氩原子
 argon blow:氩吹
 argon clinic:氩诊所
+argon compound:氩化合物
+argon compounds:氩化合物
 argon fluorohydride:氟氩化氢
 argon gas:氩气体
 argon ion laser:氩离子激光
@@ -18391,6 +18494,7 @@ argun basin (amur):éĕrgŭnà hé
 argun basin (amur):额尔古纳河流域
 argun river:hailar he
 argun river:Éěr gǔ nà hé
+argun river:阿爾貢河
 argun river:額爾古納河
 argun river:额尔古纳河
 argun:阿爾貢
@@ -18524,6 +18628,7 @@ arhangay aymag:xīnbā'ěrhǔ yòu qí
 arhangay aymag:后杭爱省
 arhangay aymag:後杭愛
 arhangay aymag:後杭愛省
+arhangay province:後杭愛省
 arhangay:xīnbā'ěrhǔ yòu qí
 arhangay:后杭爱省
 arhangay:後杭愛
@@ -18817,7 +18922,9 @@ arirang gas station:gs加油站
 arirang hotdog:阿里郎熱狗棒
 arirang mass games:阿里郎节
 arirang news:阿里郎新闻
+arirang radio:阿里郎无线电
 arirang tv:阿里郎國際放送
+arirang tv:阿里郎电视
 arirang-ro 4-gil:阿里郎路4街
 arirang-ro 5-gil:阿里郎路5街
 arirang-ro:阿里郎路
@@ -19017,6 +19124,7 @@ arithmetic book:算术书
 arithmetic calculation:算术计算
 arithmetic calculations:算术计算
 arithmetic circuit complexity:算术电路复杂性
+arithmetic circuit:算术电路
 arithmetic circuits:算术电路
 arithmetic coder:算术编码器
 arithmetic coding option:算术编码选项
@@ -19024,13 +19132,17 @@ arithmetic coding:算术编码
 arithmetic conversion:算术转换
 arithmetic course:算术课程
 arithmetic derivative:算术导数
+arithmetic dynamics:算术动力学
+arithmetic encoding:算术编码
 arithmetic equation:算术等式
 arithmetic errors:算术错误
 arithmetic expression:算术表达
 arithmetic formula:算术公式
 arithmetic formulae:算术公式
 arithmetic formulas:算术公式
+arithmetic function:算术函数
 arithmetic function:算術函數
+arithmetic functions:算术函数
 arithmetic game:算术游戏
 arithmetic genius:算术天才
 arithmetic geometry:算术几何
@@ -19099,6 +19211,7 @@ arius malabaricus:馬拉巴海鯰
 arius manillensis:馬尼拉海鯰
 arius nudidens:裸牙海鯰
 arius oetik:奧地海鯰
+arius river:阿利烏河
 arius uncinatus:鉤海鯰
 arius:阿利烏
 ariusia:阿留西亚螳属
@@ -19164,6 +19277,7 @@ arizona citizen:亚利桑那州公民
 arizona city:亚利桑那州城市
 arizona club:亚利桑那州俱乐部
 arizona corporation:亚利桑那州公司
+arizona council:亚利桑那州议会
 arizona cowboy:亚利桑那州牛仔
 arizona coyotes:亞利桑那土狼
 arizona craft:亚利桑那州工艺
@@ -19195,6 +19309,7 @@ arizona high school student:亚利桑那州高中学生
 arizona high school:亚利桑那州高中
 arizona highway:亚利桑那州公路
 arizona hinterland:亚利桑那州腹地
+arizona history:亚利桑那州历史
 arizona home:亚利桑那州家
 arizona house of representatives:亚利桑那州众议院
 arizona hunter:亚利桑那州猎人
@@ -19218,6 +19333,8 @@ arizona officials:亚利桑那州官员
 arizona open:亚利桑那州开
 arizona or new mexico:亚利桑那州或新墨西哥州
 arizona outfielder:亚利桑那州外野手
+arizona phoenix:亞利桑那州菲尼克斯
+arizona phoenix:亞利桑那州鳳凰城
 arizona plate:亚利桑那州盘子
 arizona police officer:亚利桑那州警察
 arizona police:亚利桑那州警察
@@ -19274,6 +19391,7 @@ arizona traffic:亚利桑那州交通
 arizona transition zone:亚利桑那州过渡地带
 arizona tribe:亚利桑那州部落
 arizona unit:亚利桑那州单位
+arizona university:亞利桑那州大學
 arizona up:亚利桑那州向上
 arizona visit:亚利桑那州访问
 arizona web site:亚利桑那州网站
@@ -19459,6 +19577,7 @@ arkansas territory:阿肯色领地
 arkansas to new york:阿肯色州到纽约
 arkansas travelers:阿肯色旅行者
 arkansas university:阿肯色州大学
+arkansas university:阿肯色州大學
 arkansas valley:阿肯色州山谷
 arkansas was established in:阿肯色州成立于
 arkansas wildlife:阿肯色州野生动物
@@ -19510,11 +19629,16 @@ arkhangel'sk:阿爾漢格爾斯克
 arkhangel'skiy nunataks:阿爾漢格利斯基冰原島峰
 arkhangelsk and azerbaijan:阿尔汉格尔斯克和阿塞拜疆
 arkhangelsk and donbas:阿尔汉格尔斯克和顿巴斯
+arkhangelsk gospel:阿尔汉格尔斯克福音书
 arkhangelsk governorate:阿爾漢格爾斯克省
 arkhangelsk hospital:阿尔汉格尔斯克医院
 arkhangelsk oblast:阿尔汉格尔斯克州
 arkhangelsk oblast:阿爾漢格爾斯克州
+arkhangelsk port:阿爾漢格爾斯克港口
+arkhangelsk province:阿尔汉格尔斯克省
+arkhangelsk province:阿爾漢格爾斯克省
 arkhangelsk railway station:阿尔汉格尔斯克火车站
+arkhangelsk region:阿尔汉格尔斯克军区
 arkhangelsk region:阿尔汉格尔斯克地区
 arkhangelsk regions:阿尔汉格尔斯克地区
 arkhangelsk sea:阿尔汉格尔斯克海
@@ -19619,13 +19743,17 @@ arleux en gohelle:阿尔勒昂戈埃勒
 arlewatt:阿勒瓦特
 arli national park:阿爾利國家公園
 arlington cemetery station:阿靈頓公墓站
+arlington county:阿靈頓县
 arlington national cemetery and the pentagon:阿灵顿国家公墓和五角大楼
 arlington national cemetery average:阿灵顿国家公墓平均
 arlington national cemetery:阿灵顿国家公墓
 arlington road:无懈可击
 arlington row:阿灵顿排屋
 arlington senior high school:阿靈頓高級中學
+arlington stadium:阿靈頓體育場
+arlington station:阿靈頓站
 arlington township:阿灵顿镇区
+arlington township:阿靈頓鎮區
 arlington:阿靈頓
 arlingtona nacia tombejo:阿灵顿国家公墓
 arlingtona nacia tombejo:阿靈頓國家公墓
@@ -19995,6 +20123,7 @@ armaaniya:亞美尼亞
 armacha:亞馬
 armacha:阿馬
 armada against:舰队反对
+armada centre:舰队中心
 armada include:舰队包括
 armada portrait:舰队肖像
 armada secret:舰队秘密
@@ -20009,7 +20138,11 @@ armadillo shoe:犰狳鞋
 armadillosuchus:犰狳鱷屬
 armageddon:哈米吉多頓
 armagh city and district council:阿馬區
+armagh dea:阿馬迪耶
+armagh diocese:阿馬教區
+armagh observatory:阿馬天文台
 armagh prison:阿馬監獄
+armagh river:亞馬河
 armagh:亞馬
 armagh:阿馬
 armagna court:蘭香閣
@@ -20468,6 +20601,7 @@ armeni:亚美尼亚 / 亞美尼亞
 armeni:亞美尼亞
 armenia accept:亚美尼亚接受
 armenia agree:亚美尼亚同意
+armenia alliance:亚美尼亚联盟
 armenia alliance:亞美尼亞聯盟
 armenia allow:亚美尼亚允许
 armenia already:亚美尼亚已经
@@ -20605,7 +20739,9 @@ armenia support:亚美尼亚支持
 armenia these:亚美尼亚这些
 armenia third:亚美尼亚第三
 armenia thus:亞美尼亞因此
+armenia time:亚美尼亚时间
 armenia time:亚美尼亚标准时间
+armenia time:亞美尼亞时间
 armenia today:亚美尼亚今天
 armenia violate:亚美尼亚违反
 armenia votes:亚美尼亚投票
@@ -20623,6 +20759,7 @@ armenian aggression:亚美尼亚的侵略
 armenian air defense:亚美尼亚防空
 armenian air force:亚美尼亚空军
 armenian alphabet:亚美尼亚字母
+armenian alphabet:亚美尼亚语字母
 armenian alphabet:亞美尼亞字母
 armenian american:亚美尼亚美国人
 armenian americans:亞美尼亞裔美國人
@@ -20655,6 +20792,7 @@ armenian armed forces:亚美尼亚的武装部队
 armenian armed forces:亚美尼亚部队
 armenian armed groups:亚美尼亚武装团体
 armenian army:亚美尼亚军队
+armenian army:亚美尼亚陆军
 armenian art:亚美尼亚艺术
 armenian artist:亚美尼亚艺术家
 armenian athletes:亚美尼亚的运动员
@@ -20679,6 +20817,7 @@ armenian capital:亚美尼亚首都
 armenian car dealership:亚美尼亚汽车经销商
 armenian car:亚美尼亚汽车
 armenian carpet:亚美尼亚地毯
+armenian castle:亚美尼亚的城堡
 armenian cathedral of lviv:亚美尼亚使徒教会利沃夫主教座堂
 armenian cathedral:亚美尼亚大教堂
 armenian catholic apostolic exarchate of latin america and mexico:亞美尼亞禮天主教拉丁美洲暨墨西哥宗座代牧區
@@ -20697,6 +20836,7 @@ armenian catholic martyr:亚美尼亚天主教殉教
 armenian catholic patriarchal exarchate of damascus:亞美尼亞禮天主教大馬士革宗主教代牧區
 armenian catholic patriarchal exarchate of jerusalem and amman:亞美尼亞禮天主教耶路撒冷暨安曼宗主教代牧區
 armenian catholic:亚美尼亚天主教
+armenian catholicism:亚美尼亚天主教
 armenian caucasus mountains:亚美尼亚高加索山脉
 armenian cavalry:亚美尼亚骑兵
 armenian cave:亚美尼亚的洞穴
@@ -20737,6 +20877,7 @@ armenian cultural heritage:亚美尼亚文化遗产
 armenian cultural heritage:亚美尼亚的文化遗产
 armenian culture and civilization:亚美尼亚文化与文明
 armenian culture:亚美尼亚文化
+armenian cup:亚美尼亚杯
 armenian cup:亞美尼亞盃
 armenian currency:亚美尼亚货币
 armenian death:亚美尼亚人死亡
@@ -20788,6 +20929,7 @@ armenian genocide victims:亚美尼亚种族灭绝受害者
 armenian genocide:亚美尼亚人种族灭绝
 armenian genocide:亚美尼亚的种族灭绝
 armenian genocide:亚美尼亚种族灭绝
+armenian geography:亚美尼亚地理
 armenian girl:亚美尼亚女孩
 armenian girl:亚美尼亚姑娘
 armenian gospel:亚美尼亚福音
@@ -20800,8 +20942,10 @@ armenian high:亚美尼亚高
 armenian highland:亚美尼亚高地
 armenian highlands:亚美尼亚高原
 armenian historian:亚美尼亚历史学家
+armenian history:亚美尼亚历史
 armenian history:亚美尼亚的历史
 armenian hotel:亚美尼亚酒店
+armenian hypothesis:亚美尼亚假说
 armenian immigrants:亚美尼亚的移民
 armenian immigrants:亚美尼亚移民
 armenian infantry:亚美尼亚步兵
@@ -20819,9 +20963,11 @@ armenian language became:亚美尼亚语成为
 armenian language courses:亚美尼亚语课程
 armenian language textbook:亚美尼亚语教科书
 armenian language:亚美尼亚语
+armenian league:亚美尼亚联盟
 armenian legend:亚美尼亚的传说
 armenian letter art:亚美尼亚字母艺术
 armenian letter:亚美尼亚字母
+armenian letter:亚美尼亚语字母
 armenian liberal party:亞美尼亞自由黨
 armenian liberation:亚美尼亚解放
 armenian literature:亚美尼亚文学
@@ -20842,6 +20988,7 @@ armenian monastic ensembles of iran:伊朗的亚美尼亚修道院群
 armenian monster:亚美尼亚怪物
 armenian monument:亚美尼亚纪念碑
 armenian mountain:亚美尼亚山
+armenian mythology:亚美尼亚神话
 armenian nation:亚美尼亚国家
 armenian national academy of sciences:亞美尼亞國家科學院
 armenian national anthem:亚美尼亚国歌
@@ -20864,6 +21011,7 @@ armenian opera:亚美尼亚歌剧
 armenian painter:亚美尼亚画家
 armenian parliament elect:亚美尼亚议会选举
 armenian parliament shooting:亞美尼亞國會槍擊案
+armenian parliament:亚美尼亚国会
 armenian parliament:亚美尼亚议会
 armenian participants:亚美尼亚参与者
 armenian participation:亚美尼亚参与
@@ -20875,9 +21023,12 @@ armenian people:亚美尼亚人民
 armenian people:亚美尼亚民
 armenian philosopher:亚美尼亚哲学家
 armenian pianist:亚美尼亚的钢琴家
+armenian plateau:亚美尼亚高原
 armenian plum:亚美尼亚李子
 armenian poet:亚美尼亚诗人
 armenian police:亚美尼亚警察
+armenian politician:亚美尼亚政治家
+armenian politics:亚美尼亚政治
 armenian pomegranate wine:亚美尼亚的石榴酒
 armenian pomegranate:亚美尼亚的石榴
 armenian premier league:亞美尼亞足球超級聯賽
@@ -20906,6 +21057,7 @@ armenian revolution:亚美尼亚革命
 armenian revolutionary federation:亚美尼亚革命联盟
 armenian rite:亞美尼亞禮
 armenian root:亚美尼亚根
+armenian ruble:亚美尼亚卢布
 armenian ruler:亚美尼亚统治者
 armenian said:亚美尼亚人说
 armenian scholar:亚美尼亚学者
@@ -20921,6 +21073,7 @@ armenian soldier:亚美尼亚士兵
 armenian soviet socialist republic:亚美尼亚苏维埃社会主义共和国
 armenian soviet:亚美尼亚苏维埃
 armenian state:亚美尼亚国家
+armenian state:亚美尼亚州
 armenian still:亚美尼亚人仍然
 armenian street ghaut:本頭公巷路頭
 armenian street:亚美尼亚街
@@ -20962,11 +21115,13 @@ armenian website:亚美尼亚网站
 armenian wedding:亚美尼亚婚礼
 armenian wedding:亚美尼亚的婚礼
 armenian widow:亚美尼亚寡妇
+armenian wikipedia:亚美尼亚语维基百科
 armenian wikipedia:亞美尼亞語維基百科
 armenian wine and brandy:亚美尼亚的葡萄酒和白兰地
 armenian wine:亚美尼亚的葡萄酒
 armenian wine:亚美尼亚葡萄酒
 armenian woman:亚美尼亚女人
+armenian woman:亚美尼亚女性
 armenian women:亚美尼亚人女人
 armenian women:亚美尼亚妇女
 armenian workers:亚美尼亚工人
@@ -21167,6 +21322,7 @@ armour attack helicopter:装甲攻击直升机
 armour eelgoby:窄頭鈍孔鰕虎
 armour exist:装甲存在
 armour importance:装甲重要性
+armour infantry:装甲步兵
 armour inlet:阿默灣
 armour institute:装甲研究所
 armour meat:装甲肉
@@ -21285,6 +21441,7 @@ armstrong admit:阿姆斯特朗承认
 armstrong admitted:阿姆斯特朗承认
 armstrong agree:阿姆斯特朗同意
 armstrong airport:阿姆斯特朗机场
+armstrong airport:阿姆斯特朗機場
 armstrong and david scott:阿姆斯特朗和大卫斯科特
 armstrong and her colleagues:阿姆斯特朗和她的同事
 armstrong and his assistant:阿姆斯特朗和他的助手
@@ -21316,6 +21473,7 @@ armstrong case:阿姆斯特朗案件
 armstrong center:阿姆斯特朗中心
 armstrong college:阿姆斯特朗学院
 armstrong continue:阿姆斯特朗继续
+armstrong county:阿姆斯特朗县
 armstrong county:阿姆斯特朗縣
 armstrong decided:阿姆斯特朗决定
 armstrong discover:阿姆斯特朗发现
@@ -21609,6 +21767,7 @@ army coffee:军队咖啡
 army cold:陆军冷
 army collective:军队集体的
 army college:军队学院
+army college:陆军学院
 army colonel and former:陆军上校和前
 army colonel john alexander:陆军上校约翰亚历山大
 army colonel:军队上校
@@ -21747,6 +21906,7 @@ army football:陆军足球
 army for the first time:军队第一次
 army for:军队为了
 army force:军队力量
+army force:陆军力
 army formation:陆军编队
 army forum:陆军论坛
 army found:军队找到
@@ -21821,6 +21981,7 @@ army history:军队历史
 army history:陆军历史
 army hopes:陆军希望
 army hospital before:陆军医院之前
+army hospital:军队医院
 army hospital:陆军医院
 army hot line:陆军热线
 army hot:陆军热
@@ -22658,6 +22819,7 @@ arnuwanda i:阿尔努万一世
 arnuwanda ii:阿尔努万二世
 arnuwanda iii:阿尔努万三世
 aro confederacy:阿罗邦联
+aro river:阿拉斯河
 aro:阿勒河
 aro:阿拉斯
 aroa:色毒蛾属
@@ -23136,6 +23298,7 @@ arrankudiaga:阿兰库迪亚加
 arranmore population:阿伦莫尔岛人口
 arranmore:阿伦莫尔岛
 arras cathedral:阿拉斯主教座堂
+arras college:阿拉斯学院
 arras en lavedan:拉沃当地区阿拉斯
 arras i:阿拉斯我
 arras station:阿拉斯站
@@ -24125,6 +24288,7 @@ arroscia:阿羅夏河
 arrott plot:阿罗特图
 arroux:阿魯河
 arrow air:飛箭航空
+arrow aircraft:箭飞机
 arrow already:箭已经
 arrow anti-ballistic missile:箭反弹道导弹
 arrow appear:箭出现
@@ -24301,6 +24465,7 @@ arsenal of venice:威尼斯兵工廠
 arsenal player of the season:阿森纳赛季最佳球员
 arsenal ship:武库舰
 arsenal stadium:海布里球场
+arsenal station:兵工廠站
 arsenal street flyover:軍器廠街天橋
 arsenal street:军器厂街
 arsenal street:軍器廠街
@@ -24313,9 +24478,11 @@ arsenal:克里姆林宫兵工厂
 arsenal:兵工廠
 arsenal:阿仙奴站
 arsenalin metroasema:阿仙奴站
+arsenalna station:兵工厂站
 arsenalna:兵工厂
 arsenalnaya street:军械局街
 arsenate mineral:砷酸盐矿物
+arsenate mineral:砷酸鹽礦物
 arsenate:砷酸鹽
 arsenał:克里姆林宫兵工厂
 arsendescloizite:羟砷锌铅石
@@ -24964,6 +25131,7 @@ art based:艺术基于
 art basel hong kong:巴塞爾藝術展香港
 art basel publication:巴塞爾藝術展出版
 art basel:巴塞爾藝術展
+art basel:艺术巴塞尔
 art be:艺术成为
 art beauty:艺术美
 art became:艺术成为
@@ -25057,6 +25225,7 @@ art changed:艺术改变了
 art changes:艺术变化
 art chicago:艺术芝加哥
 art children:艺术儿童
+art chin:艺术中国
 art china:艺术中国
 art choose:艺术选择
 art circus:艺术马戏
@@ -25287,6 +25456,7 @@ art film forum:艺术电影论坛
 art film fund:艺术电影基金
 art film:艺术电影
 art film:藝術電影
+art films:艺术电影
 art finance conference:艺术金融会议
 art finance:艺术金融
 art financing company:艺术融资公司
@@ -25598,6 +25768,7 @@ art maintain:艺术维护
 art management and multimedia:艺术管理和多媒体
 art management:艺术管理
 art manager:艺术经理
+art manifesto:艺术宣言
 art map:艺术地图
 art market as well:藝術市場也
 art market expert:艺术市场专家
@@ -25628,9 +25799,11 @@ art media:艺术媒体
 art meeting:艺术会议
 art members:艺术成员
 art metal:艺术金属
+art methodology:艺术方法论
 art miami:艺术迈阿密
 art mode:艺术模式
 art model:艺术模型
+art model:艺术模特
 art modeling experimental center:艺术造型实验中心
 art modernization:艺术现代化
 art module:艺术模块
@@ -25641,6 +25814,8 @@ art movement exist:艺术运动存在
 art movement in europe:艺术运动在欧洲
 art movement origin:艺术运动起源
 art movement:艺术运动
+art movie:艺术电影
+art movies:艺术电影
 art museum and art school:艺术博物馆和艺术学校
 art museum and cultural center:艺术博物馆和文化中心
 art museum and education:艺术博物馆和教育
@@ -25695,6 +25870,7 @@ art museum:文物館
 art museum:美術館
 art museum:艺术博物馆
 art music:严肃音乐
+art music:艺术音乐
 art must help all:艺术必须帮助全体
 art name:号
 art need:艺术需要
@@ -25851,6 +26027,7 @@ art philanthropist alice:艺术慈善家爱丽丝
 art philanthropist john:艺术慈善家约翰
 art philanthropist:艺术慈善家
 art philosopher:艺术哲学家
+art philosophy:艺术哲学
 art photo:艺术照片
 art photograph:艺术照片
 art photography courses:艺术摄影课程
@@ -25870,6 +26047,7 @@ art practice and analysis:艺术实践和分析
 art practice and exhibition:艺术实践和展览
 art practice and research:艺术实践和研究
 art practice:艺术实践
+art press:艺术出版社
 art price:艺术价格
 art principles:艺术原则
 art print:艺术打印
@@ -26095,6 +26273,7 @@ art theatre create:艺术剧院创造
 art theatre school:艺术剧院学校
 art theatre semester:艺术剧院学期
 art theatre was founded in:艺术剧院成立于
+art theatre:艺术剧场
 art theatre:艺术剧院
 art theft:艺术盗窃
 art theme:艺术主题
@@ -26237,6 +26416,7 @@ art-style:艺术风格
 art-world elite:艺术世界精英
 art-writing:艺术写作
 art:艺术
+arta region:阿尔塔地区
 arta region:阿爾塔地區
 arta teatro mansudae:萬壽臺藝術劇場
 arta terme:阿尔塔泰尔梅
@@ -26378,6 +26558,7 @@ artemps:阿尔唐普
 artemyev:阿尔捷米耶夫
 artena:阿尔泰纳
 artenara:阿特纳拉
+artenay station:阿尔特奈站
 artenay:阿尔特奈
 arterial road:主幹路
 arterial stiffness:動脈硬度
@@ -26702,6 +26883,7 @@ arthur or arthur:亚瑟或亚瑟
 arthur percival:白思華
 arthur plan:亚瑟计划
 arthur pound:亚瑟英镑
+arthur prince:亚瑟王子
 arthur propose:亚瑟提议
 arthur proposed:亚瑟提议
 arthur rank organisation:亚瑟等级组织
@@ -26945,6 +27127,7 @@ article mention:文章提到
 article mislead:文章误导
 article more or less:文章或多或少
 article my:文章我的
+article name:文章名称
 article need:文章需要
 article needs:文章需要
 article no longer exist:文章不再存在
@@ -29438,6 +29621,7 @@ artocarpus styracifolius:二色波罗蜜
 artocarpus treculianus:麵包樹
 artocarpus:桂木属
 artogne:阿尔托涅
+artois university:阿圖瓦大學
 artois:阿圖瓦
 artolsheim:阿托尔赛姆
 artomyces:杯珊瑚菌属
@@ -29485,7 +29669,12 @@ arts theatre company:艺术剧院公司
 arts theatre:艺术剧院
 arts university bournemouth:伯恩茅斯藝術大學
 artsakh defence army:阿爾察赫武裝部隊
+artsakh dram:阿尔察赫德拉姆
+artsakh government:阿尔察赫政府
 artsakh national football team:阿爾察赫共和國足球代表隊
+artsakh province:阿尔察赫省
+artsakh republic:阿尔察赫共和国
+artsakh university:阿尔察赫大学
 artsakh university:阿爾察赫大學
 artsakh:阿尔察赫
 artschenti:阿根廷
@@ -29515,6 +29704,7 @@ artuš:阿圖什市
 artview court:雅景閣
 artvin merkez:阿爾特溫
 artvin province:阿尔特温省
+artvin province:阿爾特溫省
 artvin:阿尔特温省
 artvin:阿爾特溫
 artyfechinostomum malayanum:马来假棘球绦虫
@@ -29558,6 +29748,7 @@ aruba aloe:阿鲁巴芦荟
 aruba and trinidad and tobago:阿鲁巴和特立尼达和多巴哥
 aruba at the olympics:奧林匹克運動會阿魯巴代表團
 aruba aviation:阿魯巴航空
+aruba bank:阿魯巴銀行
 aruba currency:阿鲁巴货币
 aruba florin:阿鲁巴弗罗林
 aruba football federation:阿魯巴足球協會
@@ -29573,6 +29764,7 @@ aruba officials:阿鲁巴官员
 aruba poker:阿魯巴撲克
 aruba poker:阿鲁巴扑克
 aruba provide:阿鲁巴提供
+aruba rattlesnake:阿鲁巴響尾蛇
 aruba uhartea:阿魯巴
 aruba uhartea:阿鲁巴
 aruba with friends:阿鲁巴与朋友
@@ -29726,6 +29918,7 @@ arvada west high school:阿瓦达西高中
 arvada:阿瓦達
 arvadas:艾尔瓦德
 arvaikheer airport:阿尔拜赫雷机场
+arvaikheer airport:阿爾拜赫雷機場
 arvaikheer:阿尔拜赫雷
 arvaikheer:阿尔拜赫雷机场
 arvaikheer:阿爾拜赫雷
@@ -29767,6 +29960,7 @@ arvor ivori:科特迪瓦 / 象牙海岸
 arvor ivori:象牙海岸
 arvoredo:阿尔沃雷多
 arvorezinha:阿沃雷济尼亚
+arwad island:艾尔瓦德岛
 arwad:艾尔瓦德
 arwad:艾尔瓦德岛
 arwadito:阿爾瓦迪托河

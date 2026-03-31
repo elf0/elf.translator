@@ -2091,6 +2091,7 @@ even fuel:甚至燃料
 even full responsibility:甚至全部责任
 even full:甚至全部
 even function:偶函数
+even functions:偶函数
 even funeral:甚至葬礼
 even fungi:甚至真菌
 even fungus:甚至真菌
@@ -5162,6 +5163,7 @@ even perform:甚至执行
 even perfume:甚至香水
 even perhaps:甚至也许
 even perhaps:甚至或许
+even permutation:偶排列
 even perpendicular:甚至垂直
 even persecution:甚至迫害
 even person:甚至个人
@@ -6066,6 +6068,7 @@ even sword:甚至剑
 even sydney:甚至悉尼
 even symbiosis:甚至共生
 even symbol:甚至符号
+even symmetry:偶對稱
 even symmetry:甚至对称
 even synthetic biology:甚至合成生物学
 even syria and iran:甚至叙利亚和伊朗
@@ -7758,6 +7761,7 @@ event breakpoint:事件断点
 event broadcasting:事件广播
 event calendar:事件日历
 event call:事件调用
+event camera:事件照相機
 event campus:事件校园
 event can contain:事件可以包含
 event cancel:事件取消
@@ -8044,6 +8048,7 @@ event organize:事件组织
 event origin:事件起源
 event outcome:事件结果
 event page:事件页
+event page:活動页
 event parameter:事件参数
 event participation services:事件参与服务
 event participation:事件参与
@@ -9764,11 +9769,15 @@ everests:珠穆朗玛峰
 everests:珠穆朗瑪峰
 evereta ezers:埃弗里特湖
 evereto ežeras:埃弗里特湖
+everett factory:埃弗里特工厂
+everett factory:埃弗里特工廠
 everett gölü:埃弗里特湖
 everett lacum:埃弗里特湖
 everett lakua:埃弗里特湖
 everett nunatak:埃弗里特冰原島峰
 everett range:埃弗雷特山脈
+everett station:埃弗里特站
+everett township:埃弗里特鎮區
 everett township:埃弗里特镇区
 everett ရေကန်:埃弗里特湖
 everett-järvi:埃弗里特湖
@@ -9783,6 +9792,7 @@ everglades national park:大沼澤地國家公園
 everglades:佛罗里达大沼泽地
 everglory centre:恒港中心
 everglow dental clinic:亮晶晶牙科
+evergrande center:恒大中心
 evergrande commercial plaza:恆大商業廣場
 evergrande commercial plaza:恒大商业广场
 evergrande community:恒大小区
@@ -16615,6 +16625,7 @@ everywhere with him dance:处处与他跳舞
 everywhere:处处
 evesham abbey:伊夫舍姆修道院
 evesham road:伊夫舍姆路
+evesham township:伊夫舍姆鎮區
 evesham:伊夫舍姆
 evessen:埃沃森
 evfrat:幼发拉底河
@@ -16811,6 +16822,7 @@ evidence laboratory:证据实验室
 evidence lack:证据缺乏
 evidence legislation:证据立法
 evidence level:证据水平
+evidence level:证据等级
 evidence levels:证据水平
 evidence link:证据连接
 evidence look:证据看
@@ -17352,6 +17364,7 @@ evil generation:邪恶的世代
 evil genius:邪恶天才
 evil ghost:惡鬼
 evil ghost:邪恶的鬼魂
+evil god:惡神
 evil god:邪恶的上帝
 evil god:邪恶的神
 evil government:邪恶的政府
@@ -17454,6 +17467,7 @@ evil nation:邪恶的国家
 evil nazi kill:邪恶的纳粹杀
 evil nazi:邪恶的纳粹
 evil new order:邪恶的新秩序
+evil night:惡夜
 evil number:邪惡數
 evil one:惡一
 evil one:邪恶的一
@@ -17782,6 +17796,8 @@ evolution demands:进化要求
 evolution design:进化设计
 evolution direction:进化方向
 evolution do:进化做
+evolution ecology:演化生态学
+evolution ecology:进化生态学
 evolution encourage:进化鼓励
 evolution end:演化结束
 evolution equation:演化方程
@@ -17796,6 +17812,7 @@ evolution explains:进化解释
 evolution explore:演化探索
 evolution explore:进化探索
 evolution from:进化从
+evolution function:演化函数
 evolution game:进化游戏
 evolution garden:演化花园
 evolution geneticist:进化遗传学家
@@ -17933,6 +17950,7 @@ evolution speed:进化速度
 evolution sports:进化运动
 evolution start:进化开始
 evolution story:进化故事
+evolution strategy:演化策略
 evolution strategy:进化战略
 evolution strategy:进化策略
 evolution studies:演化研究

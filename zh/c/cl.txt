@@ -111,6 +111,7 @@ claino con osteno:克拉伊诺和奥斯泰诺
 claira:克莱拉
 clairac:克莱拉克
 clairaudience:順風耳
+clairaut equation:克莱罗方程
 clairaut's equation:克萊羅方程
 clairaut:克莱罗
 clairavaux:克莱拉沃
@@ -175,6 +176,7 @@ clan club:氏族俱乐部
 clan commune:氏族公社
 clan control:氏族控制
 clan culture:氏族文化
+clan deity:氏族神
 clan douglas:道格拉斯氏族
 clan god:氏族神
 clan house:氏族房子
@@ -242,6 +244,7 @@ clapham high street railway station:克拉珀姆高街站
 clapham junction railway station:克拉珀姆交匯站
 clapham north tube station:克拉珀姆北站
 clapham north:克拉珀姆北
+clapham park:克拉珀姆公園
 clapham south tube station:克拉珀姆南站
 clapham south:克拉珀姆南
 clapham:克拉珀姆
@@ -342,6 +345,7 @@ clarington offer:克拉靈頓提供
 clarington:克拉靈頓
 clarins:克蘭詩
 clarion angelfish:塞拉里昂刺蝶魚
+clarion county:克拉里恩县
 clarion island:克拉里翁岛
 clarion project:克拉里恩项目
 clarion river:克拉里恩河
@@ -470,6 +474,7 @@ clark fork river:克拉克福克河
 clark foundation:克拉克基金
 clark freeport and special economic zone:克拉克自由港区
 clark gallery:克拉克画廊
+clark glacier:克拉克冰川
 clark global scholar:克拉克全球学者
 clark green:克拉克綠色
 clark green:克拉克绿色
@@ -505,6 +510,7 @@ clark look:克拉克看
 clark medal:克拉克奖牌
 clark medal:克拉克獎章
 clark motel:克拉克汽车旅馆
+clark mountain:克拉克山
 clark mountains:克拉克山脈
 clark must be:克拉克必须成为
 clark north:克拉克北
@@ -515,6 +521,7 @@ clark or manila:克拉克或马尼拉
 clark park:克拉克公园
 clark peninsula:克拉克半島
 clark plans:克拉克计划
+clark point:克拉克点
 clark point:克拉克角
 clark predict:克拉克预测
 clark prize:克拉克奖
@@ -555,6 +562,7 @@ clark then:克拉克然后
 clark think:克拉克认为
 clark thompson:克拉克汤普森
 clark through:克拉克通过
+clark township:克拉克鎮區
 clark township:克拉克镇区
 clark training center:克拉克培训中心
 clark training:克拉克培训
@@ -871,6 +879,7 @@ class enter:课程进入
 class enterprise:类企业
 class enterprises:类企业
 class environments:类环境
+class equation:类方程
 class equipment:类设备
 class errors:类错误
 class event:类事件
@@ -2177,6 +2186,7 @@ classical algorithm:经典的算法
 classical algorithms:经典的算法
 classical alphabet:古典字母
 classical analysis:古典分析
+classical anarchism:古典无政府主义
 classical anarchist:古典无政府主义者
 classical anatomy:经典的解剖学
 classical and ambient music:古典与氛围音乐
@@ -2255,6 +2265,7 @@ classical archaeology:古典考古学
 classical architect:古典建筑师
 classical architectural style:古典建筑风格
 classical architecture:古典主義建築
+classical architecture:古典建筑
 classical are:古典是
 classical armenian:古典亚美尼亚语
 classical art and archaeology:古典艺术和考古学
@@ -2301,6 +2312,7 @@ classical ballet:古典芭蕾舞
 classical ballet:经典的芭蕾舞
 classical bargaining:经典的讨价还价
 classical beauty:古典美
+classical beauty:古典美人
 classical behavior:经典的行为
 classical biochemistry approach:经典的生物化学方法
 classical biochemistry:经典的生物化学
@@ -2326,6 +2338,7 @@ classical car:古典车
 classical cathedral:古典大教堂
 classical cepheid variable:經典造父變星
 classical chamber music:古典室内乐
+classical chaos:古典混沌
 classical chemical kinetics:经典的化学动力学
 classical cheongsam:古典旗袍
 classical chinese are:文言文是
@@ -2334,6 +2347,7 @@ classical chinese poetry forms:格律
 classical chinese poetry genres:旧体诗流派
 classical chinese poetry:中國古典詩詞
 classical chinese writing:文言文写作
+classical chinese:古典中文
 classical chinese:文言文
 classical chinese:经典的中国人
 classical christianity:古典基督教
@@ -2376,13 +2390,16 @@ classical control theory:古典控制理論
 classical control theory:經典控制理論
 classical control:古典控制
 classical core:古典核心
+classical course:古典课程
 classical courses:古典课程
 classical cryptography:古典密码学
 classical culture:古典文化
+classical curriculum:古典课程
 classical curriculum:经典的课程
 classical curves:古典曲线
 classical curves:经典的曲线
 classical dance:古典舞蹈
+classical dancer:古典舞者
 classical darwin:经典的达尔文
 classical data structure:经典的数据结构
 classical data:经典的数据
@@ -2404,6 +2421,7 @@ classical dichotomy:古典二分法
 classical dictionary:古典詞典
 classical dictionary:古典词典
 classical drama:古典戏剧
+classical drama:古典戲劇
 classical drawing:古典绘画
 classical dressage:古典盛裝舞步
 classical dynamics:古典动力学
@@ -2423,6 +2441,7 @@ classical education:古典教育
 classical education:经典的教育
 classical efficiency:古典效率
 classical egyptian:经典的埃及
+classical electrodynamics:古典電動力學
 classical electromagnetism:古典电磁学
 classical electromagnetism:经典电磁学
 classical electron radius:經典電子半徑
@@ -2473,6 +2492,7 @@ classical four:经典的四
 classical free-market:古典自由市場
 classical french literature:古典法国文学
 classical french:古典法国
+classical french:古典法语
 classical french:经典的法国
 classical fugue:经典的赋格
 classical furniture:古典家具
@@ -2504,6 +2524,8 @@ classical gold standard:经典的金本位
 classical golden age:古典黄金时代
 classical graphic design:经典的图形设计
 classical gravity:经典的重力
+classical greece:古典希腊
+classical greece:古典希臘
 classical greece:古典希臘時期
 classical greek alphabet:古典希腊字母
 classical greek and roman:古典希腊和罗马
@@ -2552,6 +2574,7 @@ classical guitar series and:古典吉他系列和
 classical guitar series:古典吉他系列
 classical guitar tradition:古典吉他传统
 classical guitar:古典吉他
+classical guitarist:古典吉他手
 classical hand:古典手
 classical harp:古典竖琴
 classical hatha yoga:古典哈他瑜伽
@@ -2581,6 +2604,7 @@ classical humanities:古典人文学科
 classical ideal:古典理想
 classical ideal:古典理想的
 classical importance:经典的重要性
+classical india:古典印度
 classical indian manual:古典印度手册
 classical indian painting:古典印度绘画
 classical indian religion:古典印度宗教
@@ -2624,6 +2648,8 @@ classical landscape:古典景观
 classical landscape:古典风景
 classical language of india:印度古典語言
 classical language:古典語言
+classical language:古典语言
+classical languages:古典语言
 classical latin poetry:古典拉丁语诗歌
 classical latin:古典拉丁文
 classical latin:古典拉丁語
@@ -2659,6 +2685,7 @@ classical literature and patent:古典文学和专利
 classical literature:古典文学
 classical literature:古典文學
 classical logic door:经典逻辑门
+classical logic:古典逻辑
 classical logic:经典逻辑
 classical love:古典爱
 classical lymph:经典的淋巴
@@ -2685,6 +2712,7 @@ classical market-clearing:古典市场出清
 classical market:古典市场
 classical marxism:古典馬克思主義
 classical marxism:古典马克思主义
+classical marxism:经典的马克思主义
 classical marxist:古典马克思主义者
 classical marxist:经典的马克思主义者
 classical master:古典大师
@@ -2706,6 +2734,7 @@ classical mechanics must:经典力学必须
 classical mechanics with electromagnetism and:经典力学与电磁学和
 classical mechanics with electromagnetism:经典力学与电磁学
 classical mechanics with:经典力学与
+classical mechanics:古典力学
 classical mechanics:经典力学
 classical metal music:古典金属音乐
 classical metal:古典金属
@@ -2894,6 +2923,8 @@ classical physicist:古典物理学家
 classical physics and:經典物理學和
 classical physics assume:經典物理學假定
 classical physics is:經典物理學是
+classical physics:古典物理
+classical physics:古典物理学
 classical physics:經典物理學
 classical pianist:古典钢琴家
 classical piano music:古典钢琴音乐
@@ -2940,7 +2971,9 @@ classical quantum chemistry:经典的量子化学
 classical question:经典的问题
 classical rabies virus:经典的狂犬病病毒
 classical rabies:经典的狂犬病
+classical radical:古典激进主义
 classical radicalism:古典激进主义
+classical rakugo:古典落語
 classical range:经典的范围
 classical reader:古典读者
 classical realism:古典现实主义
@@ -3011,6 +3044,7 @@ classical spain:古典西班牙
 classical spanish:古典西班牙
 classical spanish:古典西班牙语
 classical species:经典的物种
+classical spelling:古典拼寫
 classical sphere:古典球
 classical standard arabic:经典的标准阿拉伯语
 classical standard:经典的标准
@@ -3059,6 +3093,7 @@ classical swine fever virus:猪瘟病毒
 classical swine fever:猪瘟
 classical symmetry and:古典对称和
 classical symmetry:古典对称
+classical symphony:古典交響曲
 classical synchronization can be:经典的同步可以成为
 classical synchronization can:经典的同步可以
 classical synchronization:经典的同步
@@ -3066,6 +3101,7 @@ classical system:古典系统
 classical system:经典的系统
 classical systems and rules:经典的系统和规则
 classical systems:经典的系统
+classical tango:古典探戈
 classical teach:古典教
 classical teach:经典的教
 classical teaching method:古典教学方法
@@ -3115,9 +3151,11 @@ classical typeface:经典的字体
 classical unified field theories:经典统一场论
 classical universe:经典的宇宙
 classical university:古典大学
+classical university:古典大學
 classical university:经典的大学
 classical utility theory:古典效用理論
 classical utility:古典效用
+classical vacuum:古典真空
 classical venice:古典威尼斯
 classical vietnamese:古典越南
 classical villa:古典别墅
@@ -3440,6 +3478,7 @@ classification technologies:分类技术
 classification technology:分类技术
 classification temperature:分类温度
 classification test:分类测试
+classification theorem:分类定理
 classification threshold:分类阈
 classification time:分类时间
 classification to application:分类到应用
@@ -3668,6 +3707,7 @@ classroom concentration:教室浓度
 classroom concepts:教室概念
 classroom corridor:教室走廊
 classroom courses:教室课程
+classroom crisis:教室危機
 classroom culture:教室文化
 classroom curriculum:教室課程
 classroom curriculum:教室课程
@@ -3989,6 +4029,7 @@ clay and wax:黏土和蜡
 clay and webster:粘土和韦伯斯特
 clay and wood:粘土和木材
 clay animation:粘土动画
+clay animation:黏土动画
 clay ash:黏土灰
 clay ask:粘土问
 clay assist:粘土协助
@@ -4061,6 +4102,7 @@ clay materials:黏土材料
 clay mathematics institute:克雷數學研究所
 clay media:粘土媒体
 clay mineral:粘土矿物
+clay mineral:粘土礦物
 clay mineral:黏土矿物
 clay mineral:黏土礦物
 clay model measuring:粘土模型测量
@@ -4525,6 +4567,7 @@ clean infect:清理感染
 clean install:清理安装
 clean it:清理它
 clean kitchen:清理廚房
+clean label:清理标签
 clean lama:清理喇嘛
 clean laundry co.:潔兒洗衣店
 clean machine:清理机器
@@ -4983,6 +5026,8 @@ cleaning engines:清洁发动机
 cleaning equipment and products:清洁设备和产品
 cleaning equipment:清洁设备
 cleaning errors:清洁错误
+cleaning event:清洁事件
+cleaning events:清洁事件
 cleaning everything:清洁一切
 cleaning experience:清洁经验
 cleaning experiment:清洁实验
@@ -5490,8 +5535,13 @@ clearstream affair:清泉门
 clearwater bay marina:清水湾游艇会
 clearwater bay school:清水灣學校
 clearwater cave system:清水洞
+clearwater county:清水县
+clearwater lake:清水湖
 clearwater national forest:清水国家森林
+clearwater park:清水公园
+clearwater park:清水公園
 clearwater river:清水河
+clearwater station:清水站
 clearwater township:克利尔沃特镇区
 clearwater:清水
 cleavage and polyadenylation specificity factor:切割和聚腺苷酸特異性因子
@@ -5602,10 +5652,12 @@ clementi camp:金文泰兵营
 clementi mall:金文泰广场
 clementi mrt station:金文泰地铁站
 clementi neighbourhood police post:金文泰邻里警岗
+clementi road:金文泰路
 clementi road:金文泰道
 clementi secondary school:金文泰中学
 clementi secondary school:金文泰中學
 clementi stadium:金文泰体育场
+clementi station:金文泰站
 clementi:金文泰
 clementia of hungary:匈牙利的克莱门西娅
 clementina leitao ho:黎婉華
@@ -5677,6 +5729,8 @@ clerkenwell cinema fire:克勒肯韋爾電影院火災
 clerkenwell:克勒肯維爾
 clerlande:克莱尔朗德
 clermain:克莱曼
+clermont airport:克莱蒙机场
+clermont county:克莱蒙县
 clermont d'excideuil:克莱蒙代克西德伊
 clermont de beauregard:克莱蒙德博尔加
 clermont dessous:克莱蒙代苏
@@ -5807,10 +5861,12 @@ cleveland clinic today:克利夫兰诊所今天
 cleveland clinic was established in:克利夫兰诊所成立于
 cleveland clinic would:克利夫兰诊所将
 cleveland clinic:克利夫兰诊所
+cleveland clinic:克里夫蘭診所
 cleveland coach:克利夫兰教练
 cleveland college:克利夫兰学院
 cleveland community:克利夫兰社区
 cleveland comprise:克利夫兰包括
+cleveland county:克利夫兰县
 cleveland county:克里夫蘭縣
 cleveland crowd:克利夫兰人群
 cleveland crystal:克利夫兰水晶
@@ -5870,6 +5926,7 @@ cleveland mayor:克利夫兰市长
 cleveland media market:克利夫兰媒体市场
 cleveland meeting:克利夫兰会议
 cleveland mesa:克利夫蘭山
+cleveland metro:克利夫兰地铁
 cleveland might want:克利夫兰可能想要
 cleveland minister:克利夫兰部长
 cleveland murder:克利夫兰谋杀
@@ -5880,6 +5937,7 @@ cleveland museum of natural history parking:克里夫蘭自然史博物館停車
 cleveland museum of natural history:克里夫兰自然历史博物馆
 cleveland museum of natural history:克里夫蘭自然史博物館
 cleveland museum of natural history:克里夫蘭自然歷史博物館
+cleveland museum:克利夫兰博物馆
 cleveland national forest:克利夫兰国家森林
 cleveland need:克利夫兰需要
 cleveland office:克利夫兰办公室
@@ -5892,6 +5950,7 @@ cleveland or boston:克利夫兰或波士顿
 cleveland orchestra and international:克利夫兰管弦乐团和国际
 cleveland orchestra was founded in:克利夫兰管弦乐团成立于
 cleveland orchestra:克利夫兰管弦乐团
+cleveland orchestra:克里夫蘭管弦樂團
 cleveland park:克利夫兰公园
 cleveland philanthropist:克利夫兰慈善家
 cleveland pipers:克里夫蘭風笛手
@@ -5923,6 +5982,7 @@ cleveland state:克利夫兰状态
 cleveland street scandal:克利夫兰路丑闻
 cleveland street station:克里夫蘭街車站
 cleveland street:克利夫兰街
+cleveland street:克里夫蘭街
 cleveland street:加寧街
 cleveland students:克利夫兰学生
 cleveland summit:克利夫兰首脑会议
@@ -5932,10 +5992,14 @@ cleveland then:克利夫兰然后
 cleveland this year:克利夫兰今年
 cleveland through:克利夫兰通过
 cleveland torso murderer:克利夫兰躯干杀手
+cleveland tower:克利夫兰塔
 cleveland township:克利夫兰镇区
+cleveland township:克里夫蘭鎮區
 cleveland twice:克利夫兰两次
+cleveland university:克里夫蘭大學
 cleveland urban design:克利夫兰城市设计
 cleveland volcano:克利夫兰火山
+cleveland way:克利夫兰路
 cleveland will have:克利夫兰将有
 cleveland with boyfriend:克利夫兰与男友
 cleveland women:克利夫兰妇女
@@ -5959,6 +6023,7 @@ cleyzieu:克莱济约
 clh suites santiago:圣地亚哥clh套房酒店
 clianthus:耀花豆属
 clibanarius:细螯寄居蟹属
+clichy club:克利希俱乐部
 clichy sous bois:克利希苏布瓦
 clichy:克利希
 click a button:点击一个按钮
@@ -5990,6 +6055,7 @@ click applications:点击应用程序
 click apply:点击应用
 click attack:点击攻击
 click attempt:点击尝试
+click aviation:点击航空
 click back to that:点击回到那
 click back:点击回
 click bag:点击袋
@@ -7582,6 +7648,7 @@ cliff jumping and rock climbing:跳崖和攀岩
 cliff jumping rock:跳崖岩石
 cliff jumping:跳崖
 cliff line:悬崖线
+cliff mountain:崖山
 cliff mountain:悬崖山
 cliff negotiations:悬崖谈判
 cliff nest:悬崖巢
@@ -7641,9 +7708,14 @@ cliffs of moher:莫赫悬崖
 cliffs of moher:莫赫懸崖
 cliffs:奇峰山莊
 cliffview mansions:康苑
+clifton bridge:克利夫頓橋
+clifton cathedral:克利夫頓主教座堂
+clifton diocese:克利夫頓教區
 clifton ko:高志森
+clifton parker:克利夫頓帕克
 clifton suspension bridge:克利夫頓吊橋
 clifton tower:嘉樂苑
+clifton township:克利夫頓鎮區
 clifton township:克利夫顿镇区
 clifton village:克利夫頓村
 clifton:克利夫頓
@@ -8902,7 +8974,10 @@ climate change-related information:气候变化相关的信息
 climate change-related knowledge:气候变化相关的知识
 climate change-related risks:气候变化相关的风险
 climate change:气候变化
+climate change:气候改变
 climate change:氣候變率與變化
+climate changes:气候变化
+climate changes:氣候变化
 climate chaos:气候混乱
 climate chat:气候聊天
 climate choice:气候选择
@@ -8911,9 +8986,11 @@ climate city:气候城市
 climate classification system:气候分类系统
 climate classification systems:气候分类系统
 climate classification:气候分类
+climate classification:氣候分类
 climate cliff:气候悬崖
 climate clinic:气候诊所
 climate clock:气候时钟
+climate clock:氣候時鐘
 climate cloud:气候云
 climate club theory:气候俱乐部理论
 climate club:气候俱乐部
@@ -9020,6 +9097,7 @@ climate cover:气候覆盖
 climate coverage:气候覆盖
 climate create:气候创造
 climate criminal:气候罪犯
+climate crises:气候危机
 climate crisis actually:气候危机实际上
 climate crisis and clinical practice:气候危机和临床实践
 climate crisis and energy:气候危机和能源
@@ -9043,6 +9121,7 @@ climate crisis threat:气候危机威胁
 climate crisis warning:气候危机警告
 climate crisis work:气候危机工作
 climate crisis:气候危机
+climate crisis:氣候危機
 climate culture:气候文化
 climate damage:气候损坏
 climate damage:气候损害
@@ -9172,6 +9251,7 @@ climate field:气候场
 climate field:气候领域
 climate file:气候文件
 climate finance:氣候融資
+climate finance:氣候金融
 climate financial risk forum:气候金融风险论坛
 climate financial risk:气候金融风险
 climate financing architecture:气候融资架构
@@ -9281,6 +9361,7 @@ climate innovation:氣候創新
 climate instability:气候不稳定性
 climate institute and climate:气候研究所和气候
 climate institute:气候研究所
+climate institute:氣候研究所
 climate institutions:气候机构
 climate insurance:气候保险
 climate interaction:气候交互
@@ -9328,6 +9409,7 @@ climate justice initiative:气候正义倡议
 climate justice require:气候正义要求
 climate justice studies:气候正义研究
 climate justice:气候正义
+climate justice:氣候正義
 climate kids:气候孩子
 climate kill:气候杀
 climate knowledge and development:气候知识与发展
@@ -9407,6 +9489,7 @@ climate modeling and renewable energy:气候建模和可再生能源
 climate modeling framework:气候建模框架
 climate modeling to complex:气候建模到复杂的
 climate modeling:气候建模
+climate modeling:氣候建模
 climate models and population:气候模型和人口
 climate models and satellite:气候模型和卫星
 climate models offer:气候模型提供
@@ -9633,6 +9716,7 @@ climate protester:气候抗议者
 climate protocol:气候协议
 climate provides:气候提供
 climate proxy:气候代理
+climate proxy:氣候代理
 climate public:气候公众
 climate purpose:气候目的
 climate question:气候问题
@@ -9816,6 +9900,7 @@ climate sensitive resources:气候敏感资源
 climate sensitive:气候敏感
 climate sensitive:气候敏感的
 climate sensitivity:气候敏感度
+climate sensitivity:氣候敏感度
 climate sensor:气候传感器
 climate service tool:气候服务工具
 climate service:气候服务
@@ -9881,6 +9966,8 @@ climate system research:气候系统研究
 climate system science:气候系统科学
 climate system scientist:气候系统科学家
 climate system:气候系统
+climate system:氣候系統
+climate systems:气候系统
 climate target:气候目标
 climate tariff:气候关税
 climate team:气候团队
@@ -10232,6 +10319,7 @@ climbing tree:攀登树
 climbing uluru:攀登烏魯魯
 climbing volcano:攀登火山
 climbing wall:攀岩场
+climbing wall:攀岩墙
 climbing wall:攀岩牆
 climbing way:攀登路
 climbing window:攀登窗
@@ -10752,7 +10840,9 @@ clinical best practices and research:临床最佳实践和研究
 clinical best practices:临床最佳实践
 clinical bible:临床圣经
 clinical bioanalysis:临床生物分析
+clinical biochemistry:临床生物化学
 clinical biochemistry:医学生物化学
+clinical biologist:临床生物学家
 clinical biology:临床生物学
 clinical biomarker:临床生物标记
 clinical black and white:临床黑白
@@ -11291,6 +11381,7 @@ clinical medical history:临床病史
 clinical medical research awards:临床医学研究奖
 clinical medical research center:临床医学研究中心
 clinical medical research:临床医学研究
+clinical medicine:临床医学
 clinical medicine:臨床醫學
 clinical meeting:临床会议
 clinical meetings:临床会议
@@ -11502,6 +11593,7 @@ clinical provide:临床提供
 clinical provide:临床的提供
 clinical psychiatrist:临床精神病医生
 clinical psychiatry:临床精神病学
+clinical psychology:临床心理学
 clinical psychology:臨床心理學
 clinical psychophysics:临床心理物理学
 clinical pulmonary function testing:临床肺功能测试
@@ -12019,6 +12111,7 @@ clinton contract:克林顿合同
 clinton corruption:克林顿腐败
 clinton could:克林顿能
 clinton county:克林頓縣
+clinton county:克林顿县
 clinton crime family:克林顿犯罪家族
 clinton crime:克林顿犯罪
 clinton crimes:克林顿罪行
@@ -12057,6 +12150,7 @@ clinton foundation corruption:克林顿基金会腐败
 clinton foundation office:克林顿基金会办公室
 clinton foundation officials:克林顿基金会官员
 clinton foundation spokesman:克林顿基金会发言人
+clinton foundation:克林顿基金
 clinton foundation:克林顿基金会
 clinton friday:克林顿星期五
 clinton fund:克林顿基金
@@ -12422,6 +12516,7 @@ clock factory:时钟工厂
 clock factory:時鐘工廠
 clock first thing:时钟第一件事
 clock flower:时钟花
+clock frequency:时钟频率
 clock from one side:时钟从一边
 clock from:时钟从
 clock function call:时钟函数调用
@@ -12553,6 +12648,8 @@ clock service:时钟服务
 clock set:时钟设置
 clock show:时钟显示
 clock signal:定時器訊號
+clock signal:时钟信号
+clock signals:时钟信号
 clock sitting:时钟坐
 clock skew:时钟偏移
 clock software:时钟软件
@@ -12597,11 +12694,15 @@ clock tower at musala:钟楼
 clock tower beach:钟楼沙滩
 clock tower of tirana:地拉那鐘樓
 clock tower:文昌阁
+clock tower:时钟塔
+clock tower:時鐘塔
 clock tower:時鐘樓
 clock tower:鐘塔
 clock tower:鐘樓
 clock tower:钟楼
 clock tower:钟鼓楼
+clock towers:时钟塔
+clock towers:時鐘塔
 clock transmit:时钟发送
 clock tree and all:时钟树和所有
 clock tree design:时钟树设计
@@ -12691,6 +12792,7 @@ clone five:克隆五
 clone frequency:克隆频率
 clone function:克隆功能
 clone functions:克隆功能
+clone game:克隆游戏
 clone genes:克隆基因
 clone hair cell:克隆毛细胞
 clone him:克隆他
@@ -13387,6 +13489,7 @@ closed architecture:闭架构
 closed area permit:邊境禁區通行證
 closed area:闭地区
 closed attention:闭注意
+closed ball:闭球
 closed banks:闭银行
 closed bay:闭海湾
 closed bed:闭床
@@ -13612,6 +13715,7 @@ closed models:闭模型
 closed modules:闭模块
 closed monday:闭周一
 closed more than:闭超过
+closed mouth:闭嘴
 closed my:闭我的
 closed national park:已关闭的国家公园
 closed national park:闭国家公园
@@ -13631,6 +13735,7 @@ closed one:闭一
 closed open:闭开
 closed operating system:闭操作系统
 closed operation:闭操作
+closed operator:闭算子
 closed or calm:闭或平静
 closed or experienced:闭或有经验的
 closed or open:闭或开
@@ -13715,6 +13820,7 @@ closed software and technology:闭软件和技术
 closed software:闭软件
 closed solutions:闭解决方案
 closed source:閉源軟體
+closed source:闭源
 closed space detect:闭空间检测
 closed space:闭空间
 closed sport system:闭运动系统
@@ -13729,6 +13835,7 @@ closed streets:闭街道
 closed structure design:闭结构设计
 closed structure:闭结构
 closed sub:闭子
+closed subgroup:闭子群
 closed subset:闭子集
 closed suitcase:闭行李箱
 closed surface:闭表面
@@ -13776,6 +13883,7 @@ closed vessel:闭容器
 closed vocal cords:闭声带
 closed voice:闭语音
 closed volume:闭体积
+closed vowel:闭元音
 closed voyage:闭航行
 closed wall:闭墙
 closed wallet:闭钱包
@@ -14016,6 +14124,7 @@ cloth had been:布已经
 cloth hall:紡織會館
 cloth has been:布已经
 cloth head:布头
+cloth hill:布丘
 cloth hood:布头巾
 cloth installation:布安装
 cloth just:布只
@@ -15030,6 +15139,7 @@ cloud boundary:云边界
 cloud brain:云大脑
 cloud brain:云脑
 cloud bridge:云桥
+cloud brocade:云锦
 cloud budget:云预算
 cloud build:云构建
 cloud burst or failover:云爆发或故障转移
@@ -15174,6 +15284,7 @@ cloud cost optimization:云成本优化
 cloud cost:云成本
 cloud costs:云成本
 cloud could:云能
+cloud county:云县
 cloud courses:云课程
 cloud court:雲臺
 cloud cover:雲量
@@ -15308,6 +15419,7 @@ cloud domain name:云域名
 cloud domain:云域
 cloud download:云下载
 cloud drag and drop:云拖放
+cloud dragon:云龙
 cloud drop effective radius:云滴有效半径
 cloud dwarf galaxy:云矮星系
 cloud ear:云耳
@@ -15892,6 +16004,7 @@ cloud radio networks:云无线电网络
 cloud radio:云无线电
 cloud rain:云雨
 cloud ranking:云排名
+cloud rap:云说唱
 cloud rap:云雾说唱
 cloud rather than:云而不是
 cloud reach:云达到
@@ -16440,6 +16553,7 @@ cloud strategy will become:云策略将成为
 cloud strategy:云战略
 cloud strategy:云策略
 cloud stream:云流
+cloud street:云街
 cloud structure:云结构
 cloud studio:云工作室
 cloud study:云研究
@@ -16534,6 +16648,7 @@ cloud transactions:云交易
 cloud transfer protocol:云传输协议
 cloud translation platform:云翻译平台
 cloud translation:云翻译
+cloud tree:云树
 cloud trend:云趋势
 cloud tsunami:云海啸
 cloud tv software:云电视软件
@@ -16822,6 +16937,7 @@ cloudy:多云的
 cloudy:阴天的
 clove garden:丁香园
 clove hitch:雙套結
+clove oil:丁子香油
 clove:丁子香
 clovelly court block 1-2:嘉富麗苑1-2座
 clovelly court:嘉富麗苑
@@ -17273,6 +17389,7 @@ club dortmund:俱乐部多特蒙德
 club drug:俱乐部毒品
 club drug:俱乐部药物
 club drugs:俱乐部毒品
+club drugs:俱乐部药物
 club each day:俱乐部每天
 club empire:俱乐部帝国
 club employees:俱乐部员工
@@ -17921,6 +18038,7 @@ cluj international airport:克盧日國際機場
 cluj-napoca:克卢日-纳波卡
 clumanc:克吕芒克
 cluniac reforms:克吕尼改革
+cluny abbey:克吕尼修道院
 cluny abbey:克呂尼修道院
 cluny hill:古鲁尼山
 cluny monastery:克吕尼修道院
@@ -17937,6 +18055,7 @@ clupeoidei:鯡亞目
 clupeomorpha:鲱形总目
 clupeonella:棱鲱属
 clurichaun:克魯拉坎
+cluses station:克吕斯站
 cluses:克吕斯
 clusia rosea:書帶木
 clusia:书带木属
@@ -18042,6 +18161,7 @@ clyde frog:克莱德青蛙
 clyde is female:克莱德是女性
 clyde kill:克莱德杀
 clyde lewis:克莱德刘易斯
+clyde mountain:克莱德山
 clyde open:克莱德开
 clyde park vineyard:克莱德公园葡萄园
 clyde park:克莱德公园

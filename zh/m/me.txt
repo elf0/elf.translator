@@ -3351,9 +3351,11 @@ meadow lake:草甸湖
 meadow land:草甸土地
 meadow lane:美度徑體育場
 meadow mari language:草原馬里語
+meadow mountain:草甸山
 meadow park:草甸公园
 meadow pipit:草地鹨
 meadow process:草甸过程
+meadow stadium:草甸体育场
 meadow wetlands:草甸湿地
 meadow:草甸
 meadowcroft rockshelter:梅多克罗夫特岩棚
@@ -7801,6 +7803,7 @@ measure their refraction:测量他们的折射
 measure their strength:测量他们的力量
 measure their:测量他们的
 measure them:测量他们
+measure theory:测量理论
 measure theory:測度論
 measure these:测量这些
 measure things:测量事物
@@ -9185,6 +9188,7 @@ meat brands:肉品牌
 meat breakfast sandwich:肉早餐三明治
 meat breakfast:肉早餐
 meat breed:肉品种
+meat bridge:肉桥
 meat buffet:肉自助餐
 meat can suck:肉能吸
 meat cape beach:肉粽角海灘
@@ -9246,6 +9250,7 @@ meat has been:肉已经
 meat he:肉他
 meat healthy:肉健康
 meat hook:肉钩
+meat horse:肉马
 meat house:无肉不欢
 meat house:無肉不歡
 meat house:肉房子
@@ -9415,6 +9420,7 @@ meatball logo:肉丸标志
 meatball physics:肉丸物理学
 meatball sandwich:肉丸三明治
 meatball size:肉丸大小
+meatball sub:肉丸子
 meatball:肉丸
 meath konderria:中土郡
 meath konderria:米斯郡
@@ -9481,6 +9487,7 @@ mecca is a holy:麦加是一个神圣的
 mecca is islam:麦加是伊斯兰教
 mecca landscape:麦加景观
 mecca metro:麥加地鐵
+mecca metro:麦加地铁
 mecca missile attack:麦加导弹攻击
 mecca missile:麦加导弹
 mecca palm:麦加棕榈
@@ -9492,6 +9499,7 @@ mecca royal:麦加皇家
 mecca temple:麦加神庙
 mecca they:麦加他们
 mecca to medina:麦加到麦地那
+mecca township:麥加鎮區
 mecca who:麦加谁
 mecca will:麦加会
 mecca:麥加
@@ -10441,6 +10449,7 @@ mecklemburgo-pomerânia ocidental:梅克倫堡—西波美拉尼亞州
 mecklemburgo:梅克伦堡
 mecklenburg - pomerania inferioară:梅克伦堡—前波美拉尼亚州
 mecklenburg - pomerania inferioară:梅克倫堡—西波美拉尼亞州
+mecklenburg county:梅克伦堡县
 mecklenburg county:梅克倫堡縣
 mecklenburg library:梅克伦堡图书馆
 mecklenburg school district:梅克伦堡学区
@@ -10637,6 +10646,7 @@ medea (algèria):麦迪亚
 medea (urbo):麦迪亚
 medea dome:美狄亞穹
 medea hypothesis:美狄亚假说
+medea province:麦迪亚省
 medea:美狄亞
 medea:麦迪亚
 medea:麦迪亚省
@@ -11249,6 +11259,7 @@ media and widget:媒体和窗口小部件
 media and youth culture:媒体与青年文化
 media angle:媒体角
 media announce:媒体宣告
+media anthropology:媒介人类学
 media anthropology:媒体人类学
 media api:媒体应用程序接口
 media app:媒体应用程序
@@ -11815,6 +11826,7 @@ media estimate:媒体估计
 media ethics:媒体道德
 media even:媒体甚至
 media event:媒体事件
+media events:媒体事件
 media evidence:媒体证据
 media evolution:媒介演化
 media evolution:媒体进化
@@ -12106,6 +12118,7 @@ media lie:媒体谎言
 media life:媒体生活
 media lighthouse:媒体灯塔
 media like:媒体喜欢
+media linguistics:媒体语言学
 media links:媒体链接
 media list:媒体列表
 media literacy education:媒體素養教育
@@ -12786,6 +12799,8 @@ media students:媒介学生
 media students:媒体学生
 media studies department:媒體研究系
 media studies textbook:媒體研究教科書
+media studies:媒介研究
+media studies:媒体研究
 media studies:媒體研究
 media studio:媒体工作室
 media study:媒介研究
@@ -14467,6 +14482,7 @@ medieval flower:中世纪的花
 medieval football:中世纪足球
 medieval fortification:中世纪的防御工事
 medieval fortress:中世纪的要塞
+medieval france:中世纪的法国
 medieval french:中世纪的法国
 medieval french:中世纪的法语
 medieval game:中世纪的游戏
@@ -14505,6 +14521,7 @@ medieval ireland:中世纪的爱尔兰
 medieval islamic state:中世纪的伊斯兰国
 medieval italian art:中世纪的意大利艺术
 medieval italian:中世纪的意大利
+medieval italy:中世纪的意大利
 medieval japan:中世纪的日本
 medieval jew:中世纪的犹太人
 medieval judaism:中世纪的犹太教
@@ -14720,6 +14737,7 @@ medika kliniko suzuki:铃木医院
 medikiret river:梅迪基雷特河
 medimart:樂康軒
 medina after:麦地那后
+medina airport:麦地那机场
 medina and jerusalem:麦地那和耶路撒冷
 medina and mecca:麦地那和麦加
 medina company:麦地那公司
@@ -14745,6 +14763,7 @@ medina of tunis:突尼斯市的阿拉伯老城
 medina peaks:梅迪納峰
 medina province:麦地那省
 medina recently:麦地那最近
+medina river:麦地那河
 medina said:麦地那说
 medina says:麦地那说
 medina sidonia:锡多尼亚城
@@ -15324,6 +15343,8 @@ medvidka:梅德維德卡
 medvode:梅德沃代
 medvědí ostrov:熊岛
 medvědí ostrovy:熊岛群岛
+medway river:梅德韋河
+medway township:梅德韋鎮區
 medway:梅德韋
 medwedycha:梅德韋迪哈
 medwedówka mała:小梅德韋季夫卡
@@ -15338,6 +15359,7 @@ medyna:麦地那
 medyna:麦地那省
 medynsky district:梅登區
 medzev:梅澤夫
+medzhybizh fortress:梅吉比日堡
 medzhybizh:梅吉比日
 medzilaborce district:梅濟拉博爾采區
 medzilaborce:梅濟拉博爾采
@@ -15467,6 +15489,7 @@ meet china:遇见中国
 meet christ:遇见基督
 meet craft:遇见工艺
 meet dave:大哥號玩轉地球
+meet dave:遇见戴夫
 meet david:遇见大卫
 meet denmark:遇见丹麦
 meet diego:遇见迭戈
@@ -16287,6 +16310,8 @@ mega don quijote:mega唐吉訶德
 mega don quijote:mega激安之殿堂
 mega don quijote:唐吉诃德
 mega earth:巨無霸地球
+mega evolution:巨演化
+mega factory:巨工廠
 mega international commercial bank atm:兆豐國際商業銀行
 mega international commercial bank:兆豐商銀
 mega international commercial bank:兆豐國際商業銀行
@@ -16308,9 +16333,11 @@ mega px mart:大全聯
 mega pxmart rooftop parking:大全聯頂樓停車場
 mega pxmart(jiali store):大全聯(佳里店)
 mega pxmart:大全聯
+mega river:巨河
 mega shark versus giant octopus:嗜血狂鯊
 mega shark versus kolossus:進擊巨人大戰無敵猛鯊
 mega shark versus mecha shark:無敵巨鯊大戰機甲猛鯊
+mega snake:巨蛇
 mega trade centre:時貿中心
 mega:巨
 megabalanus:巨藤壶属
@@ -17208,6 +17235,7 @@ meidu road:美都路
 meidu:méidū shèqū
 meidu:梅都社区
 meidu:梅都社區
+meidum pyramid:美杜姆金字塔
 meidum:美杜姆
 meidumas:美杜姆
 meidumin:美杜姆
@@ -17409,6 +17437,7 @@ meihua road:梅华路
 meihua road:梅花路
 meihua road:美华路
 meihua road:美華路
+meihua sannong:梅花三弄
 meihua south rd:梅花南路
 meihua subdistrict:méihuá jiēdào
 meihua subdistrict:梅华街道
@@ -17689,12 +17718,14 @@ meiktila district:密鐵拉縣
 meiktila district:密铁拉县
 meiktila lake:密铁拉湖
 meiktila township:密鐵拉鎮區
+meiktila township:密铁拉镇区
 meiktila:密铁拉
 meiktila:密铁拉站
 meikuang subdistrict:煤矿街道
 meikuang:煤矿街道
 meikuanggou:煤矿沟
 meilahti:美湾
+meilan airport:美蘭機場
 meilan barrutia:美兰区
 meilan barrutia:美蘭
 meilan barrutia:美蘭區
@@ -17704,6 +17735,7 @@ meilan district:美蘭區
 meilan interchange:美兰立交
 meilan lake station:美兰湖站
 meilan lake:美兰湖
+meilan lake:美蘭湖
 meilan open-cut tunnel:梅蘭明隧道
 meilan qu:美兰区
 meilan qu:美蘭
@@ -17778,6 +17810,7 @@ meilin garden:美林花园
 meilin hai'an:美林海岸
 meilin hotel:梅林酒店
 meilin industrial and commercial office:美林工商所
+meilin line:梅林线
 meilin middle school:梅林中学
 meilin mountain country park:梅林山郊野公园
 meilin mountain trail:梅林山郊野径
@@ -17795,6 +17828,7 @@ meilin repair depot, shenzhen bus group fifth branch:深圳巴士集團第五分
 meilin reservoir greenway graffiti wall:梅林水库绿道涂鸦墙
 meilin reservoir:méilín shuǐkù
 meilin reservoir:梅林水库
+meilin reservoir:梅林水庫
 meilin road:梅林路
 meilin road:美林路
 meilin sancun east:梅林三村东
@@ -18126,6 +18160,7 @@ meisha:梅沙
 meishajian country trail:梅沙尖郊野径
 meishan bridge:美山橋
 meishan commiunity:梅山社区
+meishan county:眉山县
 meishan dao:梅山島
 meishan east street:梅山東街
 meishan expressway:梅汕高速
@@ -18137,6 +18172,7 @@ meishan library:梅山鄉立圖書館
 meishan market:梅山市場
 meishan middle school:梅山中学
 meishan park:梅山公園
+meishan park:眉山公園
 meishan pig:梅山猪
 meishan post office:梅山郵局
 meishan primary school:梅山小学
@@ -18440,6 +18476,7 @@ meiwukou:梅坞口
 meix devant virton:梅克斯德旺维尔通
 meix-devant-virton:梅德旺维通
 meixi district:美溪区
+meixi lake:梅溪湖
 meixi reservoir:méixī shuǐkù
 meixi reservoir:梅西水库
 meixi river bridge:梅溪大桥
@@ -18452,6 +18489,7 @@ meixi river:méixī shuǐ
 meixi river:梅溪水
 meixi river:梅溪河
 meixi river:梅溪牌坊
+meixi river:梅西河
 meixi river:美溪河
 meixi royal stone archways tourist area:méixī páifāng lǚyóu qū
 meixi royal stone archways tourist area:梅溪牌坊旅游区
@@ -18461,6 +18499,7 @@ meixi subdistrict:梅溪街道
 meixi village:méixī lǐ
 meixi village:ㄇㄟˊㄒㄧㄌㄧˇ
 meixi village:梅溪里
+meixi village:梅西村
 meixi:枚溪
 meixi:梅溪
 meixi:梅溪村
@@ -18718,6 +18757,9 @@ meizhou village:湄洲里
 meizhou vocational technical school:梅州市职业技术学校
 meizhou wan power station:湄洲湾火电厂
 meizhou west railway station:梅州西站
+meizhou west:梅州西
+meizhou wuhua:梅州五华
+meizhou wuhua:梅州五華
 meizhou xueyi junior middle school:梅州市学艺中学
 meizhou xueyi junior middle school:梅州市學藝中學
 meizhou-xichang h:湄洲 - 西昌
@@ -18838,6 +18880,7 @@ mejiro mcqueen:目白麥昆
 mejiro ramonu:目白山峰
 mejiro station:目白站
 mejiro university:目白大学
+mejiro university:目白大學
 mejiro:目白
 mejirodai station:目白台站
 mejiroyamashita station:目白山下車站
@@ -18874,6 +18917,7 @@ mekarang:梅嘎蒗
 mekarang:梅花
 meke:麥加
 meke:麦加
+mekelle airport:默克萊機場
 mekelle:默克萊
 mekelnborg-vörpommern:梅克伦堡-前波美拉尼亚
 mekelnborg-vörpommern:梅克伦堡—前波美拉尼亚州
@@ -18930,6 +18974,7 @@ meko:めこ
 mekong and indus river:湄公河和印度河
 mekong and its:湄公河和它的
 mekong area:湄公河地区
+mekong auto:湄公河汽车
 mekong avenue:湄公大道
 mekong basin:澜沧江流域
 mekong bobtail:湄公河短尾貓
@@ -18937,6 +18982,8 @@ mekong capital:湄公資本
 mekong clinic:湄公河診所
 mekong clinic:湄公河诊所
 mekong club championship:湄公河球會錦標賽
+mekong committee:湄公河委员会
+mekong committee:湄公河委員會
 mekong cooperation:湄公河合作
 mekong countries:湄公河国家
 mekong delta agriculture:湄公河三角洲农业
@@ -18982,6 +19029,7 @@ mekong river commission:湄公河委员会
 mekong river international youth hostel:湄公河国际青年旅舍
 mekong river international youth hostel:湄公河國際青年旅舍
 mekong river massacre:湄公河慘案
+mekong river:扎曲河
 mekong river:湄公河
 mekong river:湄公河河
 mekong river:湄公河河流
@@ -18992,6 +19040,7 @@ mekong system:湄公河系统
 mekong tourism cities cooperation:湄公河旅游城市合作
 mekong tourism forum:湄公河旅游论坛
 mekong tourism:湄公河旅游
+mekong valley:湄公河谷地
 mekong wassereinzugsgebiet:澜沧江流域
 mekong water resources cooperation center:湄公河水资源合作中心
 mekong water resources:湄公河水资源
@@ -19385,6 +19434,9 @@ melbourne activist:墨尔本活动家
 melbourne address:墨尔本地址
 melbourne air traffic control:墨尔本航空管制
 melbourne aircraft carrier:墨尔本航空母舰
+melbourne airport:墨尔本机场
+melbourne airport:墨尔本機場
+melbourne airport:墨爾本机场
 melbourne airport:墨爾本機場
 melbourne along:墨尔本沿着
 melbourne already has three:墨尔本已经有三
@@ -19455,9 +19507,14 @@ melbourne car:墨尔本汽车
 melbourne castle:墨尔本城堡
 melbourne cat:墨尔本猫
 melbourne cathedral:墨尔本大教堂
+melbourne cbd:墨尔本中央商务区
 melbourne central business district:墨爾本市中心
+melbourne centre:墨尔本中心
 melbourne chapter:墨尔本章
 melbourne children:墨尔本儿童
+melbourne chinatown:墨尔本中国城
+melbourne chinatown:墨尔本唐人街
+melbourne chinatown:墨爾本唐人街
 melbourne city centre:墨尔本市中心
 melbourne city college:墨尔本城市学院
 melbourne city council:墨尔本市议会
@@ -19480,6 +19537,8 @@ melbourne cricket:墨尔本板球
 melbourne crime investigation:墨尔本犯罪调查
 melbourne crime:墨尔本犯罪
 melbourne criminal law:墨尔本刑法
+melbourne cup:墨尔本杯
+melbourne cup:墨爾本杯
 melbourne cup:墨爾本盃
 melbourne currently:墨尔本目前
 melbourne data science week:墨尔本数据科学周
@@ -19487,6 +19546,7 @@ melbourne data science:墨尔本数据科学
 melbourne day:墨尔本日
 melbourne design week:墨尔本设计周
 melbourne design:墨尔本设计
+melbourne diocese:墨爾本教區
 melbourne distribution center will focus on:墨尔本配送中心将专注于
 melbourne distribution center:墨尔本配送中心
 melbourne during:墨尔本期间
@@ -19521,11 +19581,13 @@ melbourne hospital mistake:墨尔本医院错误
 melbourne hospital:墨尔本医院
 melbourne hostage:墨尔本人质
 melbourne hotel:墨尔本酒店
+melbourne hotel:墨爾本酒店
 melbourne immigration:墨尔本移民
 melbourne institute consumer:墨尔本研究所消费者
 melbourne institute of applied economic and social research:墨爾本應用經濟暨社會研究所
 melbourne institute:墨尔本学院
 melbourne institute:墨尔本研究所
+melbourne institute:墨爾本研究所
 melbourne international airport:墨尔本国际机场
 melbourne international art:墨尔本国际艺术
 melbourne international coffee:墨尔本国际咖啡
@@ -19560,13 +19622,16 @@ melbourne mother:墨尔本母亲
 melbourne motorcycle:墨尔本摩托车
 melbourne museum and carlton gardens:墨爾本博物館和卡爾頓花園
 melbourne museum plaza:墨爾本博物館廣場
+melbourne museum:墨尔本博物馆
 melbourne museum:墨爾本博物館
 melbourne music:墨尔本音乐
 melbourne needs more:墨尔本需要更多
 melbourne needs:墨尔本需要
 melbourne network:墨尔本网络
 melbourne node:墨尔本节点
+melbourne north:墨尔本北
 melbourne nurse:墨尔本护士
+melbourne observatory:墨尔本天文台
 melbourne observatory:墨爾本天文台
 melbourne offer:墨尔本提供
 melbourne office will close:墨尔本办公室将关闭
@@ -19580,6 +19645,8 @@ melbourne or perth:墨尔本或珀斯
 melbourne or sydney:墨尔本或悉尼
 melbourne pair:墨尔本对
 melbourne parade:墨尔本游行
+melbourne park:墨尔本公园
+melbourne park:墨尔本公園
 melbourne park:墨爾本公園
 melbourne plaza:萬邦行
 melbourne police station:墨尔本警察局
@@ -19649,12 +19716,19 @@ melbourne town hall:墨尔本市政厅
 melbourne trade:墨尔本贸易
 melbourne train:墨尔本火车
 melbourne training:墨尔本培训
+melbourne tram:墨尔本有轨电车
 melbourne travel:墨尔本旅行
 melbourne tribe:墨尔本部落
 melbourne twice:墨尔本两次
+melbourne university:墨尔本大学
+melbourne university:墨尔本大學
+melbourne university:墨爾本大學
 melbourne victory fc:墨尔本胜利足球俱乐部
 melbourne victory midfielder:墨尔本胜利中场
 melbourne victory:墨尔本胜利
+melbourne victory:墨爾本胜利
+melbourne village:墨尔本村
+melbourne village:墨爾本村
 melbourne votes:墨尔本投票
 melbourne was australia:墨尔本是澳大利亚
 melbourne was so beautiful:墨尔本是如此美丽
@@ -19670,6 +19744,9 @@ melbourne world cup:墨尔本世界杯
 melbourne world:墨尔本世界
 melbourne would:墨尔本将
 melbourne writers:墨尔本作家
+melbourne zoo:墨尔本动物园
+melbourne zoo:墨尔本動物園
+melbourne zoo:墨爾本动物园
 melbourne zoo:墨爾本動物園
 melbourne:墨尔本
 melbourne:墨爾本
@@ -19733,6 +19810,8 @@ meleh'y:梅列希
 melehî:梅列希
 meleiro:梅莱鲁
 melek hu:侯美玲
+melekeok state:梅莱凯奥克州
+melekeok state:梅萊凱奧克州
 melekeok:梅莱凯奥克
 melekeok:梅莱凯奥克州
 melekeok:梅萊凱奧克
@@ -19770,6 +19849,7 @@ melezzo occidentale:西梅萊佐河
 melezzo orientale:東梅萊佐河
 meleúz:梅列烏茲
 melfi and lawrence:梅尔菲和劳伦斯
+melfi castle:梅尔菲城堡
 melfi:梅尔菲
 melfjellet:梅爾菲耶萊特岩
 melgar de abajo:下梅尔加
@@ -19872,6 +19952,9 @@ melissano:梅利萨诺
 melissic acid:蜂花酸
 melissococcus:蜜蜂球菌属
 melissus of samos:麦里梭
+melita island:馬耳他岛
+melita island:马耳他岛
+melita lake:马耳他湖
 melita:mǎěrtā
 melita:姆列特岛
 melita:姆列特島
@@ -19910,6 +19993,7 @@ meljac:梅尔雅克
 meljniki:梅利尼基
 melk abbey library:梅爾克修道院圖書館
 melk abbey:梅尔克修道院
+melk abbey:梅爾克修道院
 melk district:梅尔克县
 melk:梅爾克
 melkamter:翅龙属
@@ -19987,6 +20071,7 @@ mellon foundation:梅隆基金
 mellon institute merge:梅隆学院合并
 mellon institute of industrial research:梅隆工业研究所
 mellon institute:梅隆学院
+mellon institute:梅隆研究所
 mellon investment management:梅隆投资管理
 mellon investment:梅隆投资
 mellon library:梅隆图书馆
@@ -20306,6 +20391,7 @@ melting curve:熔化曲线
 melting cut:熔化切割
 melting cutting:熔化切割
 melting efficiency:熔化效率
+melting enthalpy:熔化焓
 melting events:熔化事件
 melting film:熔化电影
 melting graphene:熔化石墨烯
@@ -20392,6 +20478,7 @@ melungeon:默伦琴人
 melungtse:喬格茹峰
 melur:梅卢尔
 melusine:美露莘
+melut county:迈卢特县
 melut:迈卢特
 melve:梅尔沃
 melvilio sala:梅尔维尔岛
@@ -20938,6 +21025,7 @@ member using:成员使用
 member value:成员值
 member variable value:成员变量值
 member variable:成员变量
+member variables:成员变量
 member venezuela:成员委内瑞拉
 member veto:成员否决权
 member victoria:成员维多利亚
@@ -21113,6 +21201,7 @@ members can start new:成员可以开始新的
 members can't:成员不能
 members cannot:成员不能
 members care:成员关心
+members category:成员分类
 members caution:成员警告
 members change:成员改变
 members chat:成员聊天
@@ -21334,6 +21423,7 @@ members over the years:成员多年来
 members own and manage:成员拥有和管理
 members own or manage:成员拥有或管理
 members own:成员拥有
+members page:成员页
 members pakistan and india:成员巴基斯坦和印度
 members pakistan:成员巴基斯坦
 members participate:成员参与
@@ -21698,11 +21788,14 @@ membrillera:门夫里列拉
 membrolles:芒布罗勒
 meme coin:迷因币
 meme concept:迷因概念
+meme culture:迷因文化
 meme machines:迷因机器
 meme:迷因
 memecylaceae:谷木科
 memecylon pauciflorum:少花穀木
 memecylon:穀木屬
+memel castle:克莱佩达城堡
+memel castle:克萊佩達城堡
 memel medal:梅梅尔奖章
 memel:克莱佩达
 memel:克萊佩達
@@ -21716,7 +21809,9 @@ memeshikute:沒骨氣
 memetics:模因学
 memmelsdorf:梅默尔斯多夫
 memmelshoffen:梅默尔索芬
+memmingen airfield:梅明根机场
 memmingen airport:梅明根机场
+memmingen airport:梅明根機場
 memmingen:梅明根
 memminger ach:梅明根阿赫河
 memmingerberg:梅明格贝格
@@ -22190,6 +22285,7 @@ memory carrier:记忆载体
 memory cease:记忆停止
 memory cell contain:记忆细胞包含
 memory cell:记忆细胞
+memory cells:记忆细胞
 memory center:記憶中心
 memory center:记忆中心
 memory centre:記憶中心
@@ -22240,6 +22336,7 @@ memory designer:记忆设计师
 memory details:记忆细节
 memory detect:记忆检测
 memory detective:记忆侦探
+memory development:记忆发展
 memory device:记忆设备
 memory devices:记忆设备
 memory diamond:记忆钻石
@@ -22259,6 +22356,7 @@ memory energy:记忆能量
 memory enhancement:记忆增强
 memory enter:记忆进入
 memory eraser:记忆橡皮擦
+memory error:记忆错误
 memory errors:记忆错误
 memory estimate:记忆估计
 memory events:记忆事件
@@ -22380,6 +22478,7 @@ memory machines:记忆机器
 memory management unit:内存管理单元
 memory management:記憶管理
 memory management:記憶體管理
+memory management:记忆管理
 memory map:内存映射
 memory map:记忆地图
 memory mapped file:内存映射文件
@@ -22553,6 +22652,7 @@ memory span:记忆跨度
 memory speed:記憶速度
 memory speed:记忆速度
 memory sponge:记忆海绵
+memory sport:记忆运动
 memory sports:记忆运动
 memory stage:记忆阶段
 memory start:记忆开始
@@ -22737,11 +22837,13 @@ memphis three:孟菲斯三
 memphis time:孟菲斯时间
 memphis typeface:孟菲斯字体
 memphis und seine nekropole – die pyramidenfelder von giseh bis dahschur:孟菲斯及其墓地金字塔
+memphis university:孟菲斯大学
 memphis university:孟菲斯大學
 memphis victory:孟菲斯胜利
 memphis welcome:孟菲斯欢迎
 memphis went:孟菲斯去
 memphis would:孟菲斯将
+memphis zoo:孟菲斯动物园
 memphis zoo:孟菲斯動物園
 memphis:孟菲斯
 memphre:门弗雷
@@ -23155,6 +23257,7 @@ menameradiel:梅纳尔迪马代尔
 menander i:米南德一世
 menander protector:卫兵米南德
 menander:米南德
+menara airport:陶公機場
 menara alor setar:亚罗士打电讯塔
 menara alor setar:亞羅士打電訊塔
 menara aqabah (pasir gudang city council):阿卡巴大厦（巴西古当市政厅）
@@ -23255,6 +23358,7 @@ mencius and laozi:孟子和老子
 mencius ask:孟子问
 mencius culture:孟子文化
 mencius said:孟子说
+mencius temple:孟子庙
 mencius:孟子
 menconico:门科尼科
 mencshely:门奇海伊
@@ -23275,6 +23379,7 @@ mendata:门达塔
 mendatica:门达蒂卡
 mendavia:门达维亚
 mendaza:门达萨
+mende cathedral:芒德主教座堂
 mende language:门德语
 mende:芒德
 mende:门德
@@ -23368,8 +23473,10 @@ mendosa:門多薩
 mendosa:门多萨
 mendouge:门斗格
 mendoza island:小星山
+mendoza province:門多薩省
 mendoza province:门多萨省
 mendoza river:門多薩河
+mendoza river:门多萨河
 mendoza:門多薩
 mendoza:门多萨
 mendozasaurus:門多薩龍屬
@@ -23584,6 +23691,7 @@ mengchun:孟春
 mengciusornis:孟子鸟属
 mengcun administrative service center:孟村政务服务中心
 mengcun coach terminal:孟村客运站
+mengcun county:孟村县
 mengcun experimental primary school:孟村回族自治县实验小学
 mengcun grand mosque:孟村清真大寺
 mengcun hui autonomous county commerce bureau:孟村回族自治县商务局
@@ -23932,6 +24040,7 @@ mengjiazhuang:蒙家庄
 mengjiazhuangcun:孟家庄村
 mengjidongcun:孟集东村
 mengjiecun:孟街村
+mengjin county:孟津县
 mengjin district:孟津区
 mengjin district:孟津區
 mengjin reservoir:měngjìn shuǐkù
@@ -23998,6 +24107,7 @@ mengla north:勐腊北
 mengla north:勐臘北
 mengla road:勐腊路
 mengla road:勐臘路
+mengla virus:勐臘病毒
 mengla:勐拉镇
 mengla:勐腊
 mengla:勐腊农场
@@ -24028,6 +24138,7 @@ mengli:盟立
 mengli:蒙里
 menglian busterminal:孟连客运站
 menglian busterminal:孟連客運站
+menglian county:孟连县
 menglian dai, lahu and va autonomous county:mènglián dǎizú lāhùzú wǎzú zìzhìxiàn
 menglian dai, lahu and va autonomous county:孟连傣族拉祜族佤族自治县
 menglian dai, lahu and va autonomous county:孟連傣族拉祜族佤族自治縣
@@ -24045,6 +24156,7 @@ menglian:孟连县
 menglian:孟連傣族拉祜族佤族自治縣
 menglian:孟連縣
 mengliangdi:孟梁地
+menglianggu campaign:孟良崮战役
 menglianggu campaign:孟良崮戰役
 menglianggu:孟良崮
 menglianghe park:孟良河公园
@@ -24568,6 +24680,7 @@ menominee township:梅诺米尼镇区
 menon mansion:文安大廈
 menon of pharsalus:法薩盧斯的門農
 menoncourt:默农库尔
+menongue airport:梅農蓋機場
 menongue:梅農蓋
 menopause after:更年期后
 menopause age:更年期年龄
@@ -24599,6 +24712,7 @@ menopause will:更年期会
 menopause:更年期
 menophra:柑橘尺蛾属
 menora mivtachim arena:梅羅納米夫塔奇姆競技場
+menorca airport:梅诺卡岛机场
 menorca airport:梅诺卡机场
 menorca has:梅诺卡岛有
 menorca is an island:梅诺卡岛是一个岛屿
@@ -25640,6 +25754,7 @@ menton lemon:芒通柠檬
 menton station:芒通站
 menton:芒通
 mentonasc dialect:芒通方言
+mentone station:芒通站
 mentone:芒通
 mentor graphics:明導國際
 mentor of rhodes:羅德島的門托耳
@@ -26587,6 +26702,7 @@ mercury concentration:汞浓度
 mercury consumption:汞消费
 mercury control system:汞控制系统
 mercury control:汞控制
+mercury corporation:水星公司
 mercury cougar:水星美洲狮
 mercury crisis:汞危机
 mercury crystal power:水星水晶力量
@@ -26615,6 +26731,7 @@ mercury fly:水星飞
 mercury from flue gas:汞从烟道气
 mercury from:汞从
 mercury gas:汞气体
+mercury glacier:水星冰川
 mercury glass:水銀玻璃
 mercury has been:水星已经
 mercury has been:汞已经
@@ -26649,6 +26766,7 @@ mercury metal:汞金属
 mercury methylation process:汞甲基化过程
 mercury methylation:汞甲基化
 mercury might leak:汞可能泄漏
+mercury milan:水星米兰
 mercury mission:水星任务
 mercury missions:水星任务
 mercury models:汞模型
@@ -26659,6 +26777,8 @@ mercury mountaineer:水星登山者
 mercury music:水星音乐
 mercury name:水星名称
 mercury nash:汞纳什
+mercury nashville:水星納什維爾
+mercury nashville:水星纳什维尔
 mercury news online:水星新闻在线
 mercury news:水星新闻
 mercury nitride:氮化汞
@@ -26716,6 +26836,7 @@ mercury rotate:水星旋转
 mercury rule:水星规则
 mercury rule:汞规则
 mercury seafood:汞海鲜
+mercury selenide:汞硒化物
 mercury selenide:硒化汞
 mercury service station:水星服务站
 mercury service:水星服务
@@ -26798,6 +26919,7 @@ mercy for animals:憫惜動物組織
 mercy garden:仁慈花园
 mercy hold hands:仁慈牵手
 mercy hospital:仁慈医院
+mercy hospital:仁慈醫院
 mercy if she:仁慈如果她
 mercy jesus:仁慈耶稣
 mercy kill:仁慈杀
@@ -26807,12 +26929,15 @@ mercy let:仁慈让
 mercy of god peace:仁慈的上帝和平
 mercy of god:仁慈的上帝
 mercy or justice:仁慈或正义
+mercy park:仁慈公園
 mercy point:仁心港湾
 mercy rather than:仁慈而不是
 mercy require:仁慈要求
+mercy road:仁慈路
 mercy rule:提前結束比賽
 mercy seat:施恩座
 mercy seek:仁慈寻找
+mercy sister:仁慈姐妹
 mercy street:仁慈街
 mercy:仁慈
 merdeka 118:默迪卡118
@@ -26822,12 +26947,17 @@ merdeka beach:獨立海濱
 merdeka bridge:独立桥
 merdeka center:默迪卡中心
 merdeka centre:默迪卡中心
+merdeka cup:默迪卡杯
 merdeka means:默迪卡意味着
 merdeka mrt station:默迪卡站
+merdeka plaza:默迪卡廣場
 merdeka road:独立路
 merdeka square:默迪卡广场
+merdeka stadium:默迪卡体育场
 merdeka stadium:默迪卡体育馆
+merdeka stadium:默迪卡體育場
 merdeka stadium:默迪卡體育館
+merdeka station:默迪卡站
 merdeka tournament:默迪卡盃足球賽
 merdeka:默迪卡
 merdingen:梅尔丁根
@@ -26934,6 +27064,7 @@ merge silicon:合并硅
 merge situation:合并情况
 merge some:合并一些
 merge sort analysis:归并排序分析
+merge sort:合并排序
 merge sort:归并排序
 merge state:合并状态
 merge structure:合并结构
@@ -26949,6 +27080,7 @@ merge their:合并他们的
 merge these:合并这些
 merge this:合并这
 merge to panorama:合并到全景
+merge to:合并到
 merge together:合并在一起
 merge tool:合并工具
 merge trade union organizations:合并工会组织
@@ -26987,6 +27119,7 @@ mergu'e:美國
 merguez:梅格茲香腸
 mergui archipelago contain:丹老群岛包含
 mergui archipelago:丹老群岛
+mergui archipelago:丹老群島
 mergui:丹老
 merguj:丹老
 mergus:秋沙鸭属
@@ -27013,10 +27146,15 @@ meridian gate:午門
 meridian gate:午门
 meridian glacier:梅里迪安冰川
 meridian hill:尚御
+meridian hotel:丽园酒店
 meridian idaho temple:愛達荷州默里迪恩聖殿
 meridian junior college:美廉初級學院
 meridian lrt station:麗園輕軌站
+meridian park:丽园公园
 meridian ridge campaign:子午岭战役
+meridian road:丽园路
+meridian street:丽园街道
+meridian township:默里迪恩鎮區
 meridian township:默里迪恩镇区
 meridian view center:地王观光·深港之窗
 meridian:丽园
@@ -27062,6 +27200,7 @@ merindad de montija:梅林达德蒙蒂哈
 merindad de sotoscueva:梅林达德索托斯库埃瓦
 merindad de valdeporres:梅林达德瓦尔德波雷斯
 merindad de valdivielso:梅林达德瓦尔迪维耶尔索
+mering station:梅林站
 mering:梅林
 meringue:蛋白脆饼
 merinhac-1:梅里尼亚克-1
@@ -27113,6 +27252,7 @@ merkez bölgesi:中央省
 merkez bölgesi:中部区
 merkez bölgesi:中部區
 merkez bölgesi:中部大區
+merkez park:中心公园
 merkez rayon:中央区
 merkez:中心
 merkezi (eyalet):中央省 (伊朗)
@@ -27169,6 +27309,7 @@ merlin:多元射电联合干涉网
 merlines:梅利讷
 merlino:梅尔利诺
 merlion park:鱼尾狮公园
+merlion park:鱼尾狮公園
 merlion sculpture:鱼尾狮雕塑
 merlion statue:鱼尾狮雕像
 merlion symbol:鱼尾狮符号
@@ -27200,6 +27341,7 @@ mermaid companion:美人鱼伴侣
 mermaid condition:美人鱼条件
 mermaid discover:美人鱼发现
 mermaid film:美人鱼电影
+mermaid forest:人魚森林
 mermaid fossil:美人鱼化石
 mermaid from:美人鱼从
 mermaid games:美人鱼游戏
@@ -27217,11 +27359,13 @@ mermaid saga:人魚系列
 mermaid said:美人鱼说
 mermaid school:美人鱼学校
 mermaid sculpture:人魚雕塑
+mermaid series:人魚系列
 mermaid sister:美人鱼姐妹
 mermaid sitting:美人鱼坐
 mermaid sleep:美人鱼睡
 mermaid statue:美人鱼雕像
 mermaid swimming:美人鱼游泳
+mermaid syndrome:美人鱼综合症
 mermaid tail:美人鱼尾
 mermaid theme:美人鱼主题
 mermaid video:美人鱼视频
@@ -27314,6 +27458,7 @@ merry:魅力理发店
 merryland court:文怡閣
 merryland:雅閣
 merrylin hotel:上海长航美林阁大酒店
+mers coronavirus:中東呼吸綜合症冠状病毒
 mers el hadjadj:哈賈德港
 mers el kebir:凱比爾港
 mers infection:中東呼吸綜合症感染
@@ -27337,19 +27482,25 @@ mersenne prime search:梅森素数搜索
 mersenne prime:梅森素数
 mersenne twister:梅森旋转算法
 merseyrail:默西鐵路
+merseyside derby:默西賽德郡德比
 merseyside derby:默西賽德郡打吡
+merseyside derby:默西賽德郡打比
 merseyside maritime museum:默西塞德郡海事博物館
+merseyside police:默西賽德郡警察
 merseyside:默西
 merseyside:默西賽德郡
 mersim:梅爾辛
 mersin province:梅尔辛省
+mersin province:梅爾辛省
 mersin:梅尔辛省
 mersin:梅爾辛
 mersina:梅爾辛
 mersinas:梅爾辛
+mersing airport:丰盛港机场
 mersing business hub:添景商业中心
 mersing district council:丰盛港县议会
 mersing district:丰盛港县
+mersing river:丰盛港河
 mersing:丰盛港
 mersing:丰盛港县
 mersini:梅爾辛
@@ -27386,6 +27537,7 @@ mertzwiller:梅茨维莱尔
 meru betiri national park:梅魯貝蒂利國家公園
 meru chu:jiā lǎng qū
 meru county:梅魯郡
+meru county:梅鲁县
 meru dream park:夢花苑
 meru dream park:梦花苑
 meru fylke:梅魯郡
@@ -27395,10 +27547,13 @@ meru kūn:梅魯郡
 meru model:梅魯模型
 meru national park:梅魯國家公園
 meru nukumi:生見愛瑠
+meru peak:梅魯峰
 meru peak:梅鲁峰
 meru people:梅鲁族
 meru raya:美露拉也
 meru tashima:田島芽瑠
+meru tower:梅魯塔
+meru towers:梅魯塔
 meru:梅魯
 meru:梅魯郡
 meru:梅鲁
@@ -27444,6 +27599,7 @@ merínlagune:密林湖
 mes amis:摩米
 mesa arch:梅薩拱門
 mesa arizona temple:亞利桑那州梅薩聖殿
+mesa college:平頂山學院
 mesa de los tres reyes:特雷斯雷斯山脈
 mesa range:梅薩山脈
 mesa verde national park:弗德台地国家公园
@@ -27484,6 +27640,7 @@ mesciniodes:凹缘斑螟属
 mescoules:梅斯库勒
 mesdì-pirené:南部-比利牛斯
 mese district:梅塞县
+mese township:梅塞鎮區
 mese township:梅塞镇区
 mese:梅塞
 mesechinus:林猬属
@@ -27632,6 +27789,7 @@ mesobuthus:正钳蝎属
 mesocacia:长角象天牛属
 mesocapromys:粘巢硬毛鼠属
 mesocarnivore:中級食肉動物
+mesocco castle:梅索科城堡
 mesocco:梅索科
 mesocentrotus:北紫海胆属
 mesocestoides:中殖孔绦虫属
@@ -27714,9 +27872,11 @@ mesopotamia and palestine:美索不达米亚和巴勒斯坦
 mesopotamia and phoenicia:美索不达米亚和腓尼基
 mesopotamia and russia:美索不达米亚和俄罗斯
 mesopotamia and syria:美索不达米亚和叙利亚
+mesopotamia campaign:美索不达米亚战役
 mesopotamia civilization:美索不达米亚文明
 mesopotamia cover:美索不达米亚覆盖
 mesopotamia period:美索不达米亚时期
+mesopotamia region:美索不达米亚军区
 mesopotamia region:美索不达米亚地区
 mesopotamia to oregon:美索不达米亚到俄勒冈州
 mesopotamia:美索不达米亚
@@ -27846,6 +28006,7 @@ message bank:消息银行
 message before:消息之前
 message bible:消息聖經
 message block:消息块
+message board:消息板
 message board:訊息板
 message boundary:消息边界
 message broadcasting:消息广播
@@ -28301,6 +28462,7 @@ messeturm:會展之塔
 messey sur grosne:格罗讷河畔梅塞
 messia sur sorne:索尔讷河畔梅西亚
 messiah cathedral:弥赛亚大教堂
+messiah cathedral:彌賽亞大教堂
 messiah college:彌賽亞學院
 messiah could:彌賽亞能
 messiah i:彌賽亞我
@@ -28325,12 +28487,15 @@ messiku:墨西哥
 messimy:梅西米
 messina astronomical clock:墨西拿天文钟
 messina cathedral:墨西拿主教座堂
+messina chasma:墨西拿深谷
 messina chasmata:墨西拿峽谷
 messina conference:墨西拿会议
 messina earthquake:墨西拿地震
+messina province:墨西拿省
 messina said:墨西拿说
 messina says:墨西拿说
 messina still:墨西拿仍然
+messina strait:墨西拿海峡
 messina:墨西拿
 messinansalmi:墨西拿海峡
 messinastrædet:墨西拿海峡
@@ -28421,13 +28586,16 @@ meta chlorophenylpiperazine:间氯苯基哌嗪
 meta circular evaluator:自循環直譯器
 meta command:元命令
 meta content framework:元内容框架
+meta data:元数据
 meta department:梅塔省
 meta description and title:元描述和标题
 meta description:元描述
 meta experience:元体验
+meta fiction:元小说
 meta field:元字段
 meta files:元文件
 meta game:元游戏
+meta gene:元基因
 meta goal:元目标
 meta goals:元目标
 meta information:元信息
@@ -28460,10 +28628,14 @@ meta robots:元机器人
 meta rules:元规则
 meta search:元搜索
 meta service:元服务
+meta state:元州
 meta story:元故事
+meta storytelling:元叙事
+meta study:元学习
 meta study:元研究
 meta system:元系统
 meta tag:元标签
+meta template:元模板
 meta title:元标题
 meta tools:元工具
 meta tree hotel:美利居酒店
@@ -28750,6 +28922,7 @@ metadata database:元数据数据库
 metadata describe:元数据描述
 metadata description:元数据描述
 metadata directory:元数据目录
+metadata discovery:元数据发现
 metadata editor:元数据编辑器
 metadata element:元数据元素
 metadata elements:元数据元素
@@ -28878,6 +29051,7 @@ metal allergy:金属过敏
 metal alloy material:金属合金材料
 metal alloy powder:金属合金粉末
 metal alloy:金属合金
+metal amide:金属酰胺
 metal ammine complex:氨络物
 metal analyser:金属分析仪
 metal analysis:金属分析
@@ -29267,6 +29441,7 @@ metal figure:金属图
 metal file:金属文件
 metal filing cabinet:金属档案柜
 metal fill:金属填充
+metal film:金属电影
 metal fin:金属鳍
 metal financing:金属融资
 metal finger:金属手指
@@ -29360,6 +29535,7 @@ metal heat:金属热
 metal heaven:金属天堂
 metal help:金属帮助
 metal hero series:金屬英雄系列
+metal hero:金属英雄
 metal high:金属高
 metal hinge:金属铰链
 metal hip joint implant:金属髋关节植入物
@@ -29369,6 +29545,7 @@ metal hook:金属钩
 metal horse:金属马
 metal hot:金属热
 metal hydrate:金属水合物
+metal hydride:金属氢化物
 metal implant:金属植入物
 metal in:金属里面
 metal industries research and development centre:金屬中心
@@ -29500,6 +29677,7 @@ metal membrane:金属膜
 metal memorial:金属纪念碑
 metal mendiak:厄尔士山脉
 metal mercury:金属汞
+metal metabolism:金属代谢
 metal metal:金属金属
 metal middle east:金属中东
 metal miles:金属英里
@@ -29613,6 +29791,8 @@ metal performance:金属表演
 metal phosphine complex:膦配合物
 metal photonic crystal:金属光子晶体
 metal physical:金属物理的
+metal physics:金属物理
+metal physics:金属物理学
 metal picnic:金属野餐
 metal pig:金属猪
 metal pigment:金属颜料
@@ -30092,6 +30272,7 @@ metanephrops challengeri:新西蘭岩蝦
 metangula:梅坦古拉
 metanil yellow:间苯胺黄
 metanira:墨塔涅拉
+metaobject protocol:元对象协议
 metaobject:元对象
 metapenaeopsis:赤虾属
 metapenaeus ensis:基围虾
@@ -30285,6 +30466,7 @@ metemma:米提瑪
 metendothenia:后黑小卷蛾属
 meteniv:梅捷尼夫
 meteor appears:流星出现
+meteor awards:流星奖
 meteor bombing:流星爆炸
 meteor burst communications:流星余迹通信
 meteor camera:流星相机
@@ -30306,12 +30488,14 @@ meteor fear:流星恐惧
 meteor flag:流星旗
 meteor from:流星从
 meteor garden:流星花园
+meteor hammer:流星槌
 meteor hammer:流星錘
 meteor hole:流星洞
 meteor impact crater:流星撞击坑
 meteor impacts:流星影响
 meteor in india:流星在印度
 meteor life:流星生命
+meteor missile:流星导弹
 meteor music awards:流星音乐奖
 meteor music:流星音乐
 meteor or asteroid:流星或小行星
@@ -30321,12 +30505,14 @@ meteor particle:流星粒子
 meteor phenomenon:流星现象
 meteor photograph:流星照片
 meteor procession:流星串
+meteor rain:流星雨
 meteor scientists:流星科学家
 meteor server within:流星服务器内
 meteor server:流星服务器
 meteor shower activity:流星雨活动
 meteor shower:流星雨
 meteor speedboat:流星快艇
+meteor stadium:流星体育场
 meteor storm:流星风暴
 meteor stream:流星流
 meteor tank engine:流星坦克发动机
@@ -30349,6 +30535,7 @@ meteorite explosion:隕石爆炸
 meteorite fall:墜落隕石
 meteorite find:發現隕石
 meteorite hills:隕石山
+meteorite mountain:隕石山
 meteorite rain:隕石雨
 meteorite shower:隕石淋浴
 meteorite weathering:隕石風化
@@ -30440,6 +30627,7 @@ meter budget:米预算
 meter building:米建筑物
 meter butterfly stroke:米蝶泳
 meter cable:米电缆
+meter cake:米蛋糕
 meter canal:米运河
 meter car:米车
 meter champion:米冠军
@@ -30844,6 +31032,7 @@ methane greenhouse gas emissions:甲烷温室气体排放
 methane greenhouse gas:甲烷温室气体
 methane have been:甲烷已经
 methane hot:甲烷热
+methane hydrate:甲烷水合物
 methane ice clouds:甲烷冰云
 methane ice crystal:甲烷冰晶
 methane ice crystal:甲烷冰晶体
@@ -30867,6 +31056,7 @@ methane might just:甲烷可能只
 methane mode:甲烷模式
 methane molecule:甲烷分子
 methane molecules:甲烷分子
+methane monooxygenase:甲烷单加氧酶
 methane needs:甲烷需要
 methane number:甲烷数
 methane ocean:甲烷海洋
@@ -30970,6 +31160,7 @@ methanol continues:甲醇继续
 methanol corrosion:甲醇腐蚀
 methanol cross:甲醇穿越
 methanol dehydration:甲醇脱水
+methanol dehydrogenase:甲醇脱氢酶
 methanol demand:甲醇需求
 methanol economy:甲醇经济
 methanol energy:甲醇能源
@@ -31055,6 +31246,7 @@ methidathion:杀扑磷
 methine group:次甲基
 methionine and cysteine:甲硫氨酸和半胱氨酸
 methionine conversion:甲硫氨酸转换
+methionine sulfoxide:甲硫氨酸亚砜
 methionine:甲硫氨酸
 methionopsis:烏弄蝶屬
 methocarbamol:美索巴莫
@@ -32504,8 +32696,10 @@ methyldopa:甲基多巴
 methylecgonine:芽子碱甲酯
 methylene blue dye:亞甲藍染料
 methylene blue:亞甲藍
+methylene bridge:亚甲基桥
 methylene bridge:桥联亚甲基
 methylene diphenyl diisocyanate:二苯基甲烷二異氰酸酯
+methylene imine:亚甲基亚胺
 methylene imine:甲亚胺
 methylene:亚甲基
 methylenecyclohexane:亚甲基环己烷
@@ -32776,6 +32970,7 @@ metric distance:度量距离
 metric framework:度量框架
 metric function:度量函数
 metric fundamental polygon:度量基本多边形
+metric geometry:度量几何学
 metric goals:度量目标
 metric group:度量组
 metric height:度量高度
@@ -32786,17 +32981,22 @@ metric prefix:国际单位制词头
 metric properties:度量属性
 metric report:度量报告
 metric russia:度量俄罗斯
+metric space:度量空間
 metric space:度量空间
 metric standards:度量标准
+metric structure:度量结构
 metric system be:公制成为
 metric system became:公制成为
 metric system:公制
 metric technology:度量技术
 metric tell:度量告诉
+metric tensor:度规张量
 metric tensor:度量张量
+metric tensor:度量張量
 metric threshold:度量阈
 metric tools:度量工具
 metric trait:度量特征
+metric tree:度量树
 metric unit:度量单位
 metric value:度量值
 metric version:度量版本
@@ -32905,6 +33105,7 @@ metro connection:地铁连接
 metro construction:地铁建筑
 metro contract:地铁合同
 metro corporation:地铁公司
+metro corporation:麦德龙公司
 metro corridor:地铁走廊
 metro county jail:地铁县监狱
 metro county:地铁县
@@ -33091,6 +33292,7 @@ metro spokesman:地铁发言人
 metro standard:地铁标准
 metro station "nevsky prospect":地铁站"涅夫斯基的前景"
 metro station of convention & exhibition center:会展中心地铁站
+metro station:地铁站
 metro station:捷運車站
 metro store:地铁商店
 metro style:地铁风格
@@ -33098,6 +33300,7 @@ metro subway station:地铁地铁站
 metro subway:地铁地铁
 metro supermarket:麦德龙
 metro system will soon:地铁系统将很快
+metro system:地铁系統
 metro system:地铁系统
 metro systems and city:地铁系统和城市
 metro systems:地铁系统
@@ -33195,6 +33398,7 @@ metropolis or jungle:大都市或丛林
 metropolis plaza:新都廣場
 metropolis population:大都市人口
 metropolis riga:大都市里加
+metropolis studio:大都市工作室
 metropolis tavern:大都市酒馆
 metropolis to metropolis:大都市到大都市
 metropolis tokyo:大都市东京
@@ -33406,11 +33610,15 @@ metz and luxembourg:梅斯和卢森堡
 metz and thionville:梅斯和蒂永维尔
 metz area:梅斯地区
 metz cathedral:梅斯主教座堂
+metz cathedral:梅斯大教堂
+metz citadel:梅斯要塞
 metz en couture:梅斯昂库蒂尔
 metz said:梅斯说
 metz says:梅斯说
+metz station:梅斯站
 metz surrender:梅斯投降
 metz tessy:梅泰西
+metz university:梅斯大学
 metz ville station:梅斯城站
 metz-1:梅斯-1
 metz-2:梅斯-2
@@ -33419,6 +33627,7 @@ metz:梅斯
 metzamor:梅察莫尔
 metzels:梅策尔斯
 metzenhausen:梅岑豪森
+metzeral station:梅泽拉尔站
 metzeral:梅泽拉尔
 metzeresche:梅策雷什
 metzervisse:梅采维斯
@@ -33466,6 +33675,7 @@ meu-nàm-khî:茂南区
 meu-nàm-khî:茂南區
 meu:默河
 meucon:默孔
+meudon observatory:默东天文台
 meudon station:默东站
 meudon:默东
 meudt:莫伊特
@@ -33521,6 +33731,7 @@ meuschenia hippocrepis:韁紋似馬面單棘魨
 meuse (maas):默兹河
 meuse and scheldt:默兹河和斯海尔德河
 meuse canal:东部运河
+meuse canal:默兹河运河
 meuse:默兹河
 meusebach:莫伊瑟巴赫
 meuselwitz:莫伊塞尔维茨
@@ -33694,6 +33905,7 @@ mexican joker:墨西哥小丑
 mexican jumping bean:墨西哥跳豆
 mexican kitchen:墨西哥人厨房
 mexican land:墨西哥的土地
+mexican language:墨西哥的語言
 mexican law:墨西哥的法律
 mexican league:墨西哥棒球聯盟
 mexican level:墨西哥的水平
@@ -34201,6 +34413,7 @@ mexico austria:墨西哥奥地利
 mexico auto:墨西哥汽车
 mexico avoid:墨西哥避免
 mexico awards:墨西哥奖
+mexico bay:墨西哥海湾
 mexico be:墨西哥成为
 mexico beach and another:墨西哥海滩和另一个
 mexico beach:墨西哥海滩
@@ -34236,6 +34449,8 @@ mexico ceety:墨西哥城
 mexico challenges:墨西哥挑战
 mexico champion:墨西哥冠军
 mexico championship:墨西哥冠军
+mexico championship:墨西哥锦标赛
+mexico chiapas:墨西哥恰帕斯州
 mexico chile:墨西哥智利
 mexico choose:墨西哥选择
 mexico church:墨西哥教堂
@@ -34389,6 +34604,8 @@ mexico grant:墨西哥授予
 mexico green:墨西哥綠色
 mexico green:墨西哥绿色
 mexico gudnekonsuláhta:墨西哥名誉领事馆
+mexico guerrero:墨西哥格雷罗州
+mexico guerrero:墨西哥格雷羅州
 mexico gun:墨西哥枪
 mexico had around:墨西哥有大约
 mexico had been:墨西哥已经
@@ -34407,6 +34624,7 @@ mexico improve:墨西哥提高
 mexico in the past:墨西哥在过去
 mexico initiative:墨西哥倡议
 mexico installation:墨西哥安装
+mexico institute:墨西哥学院
 mexico institute:墨西哥研究所
 mexico institutions:墨西哥机构
 mexico international airport:墨西哥国际机场
@@ -34438,6 +34656,7 @@ mexico is the only:墨西哥是唯一
 mexico is the united states:墨西哥是美国
 mexico is this year:墨西哥是今年
 mexico it:墨西哥它
+mexico jalisco:墨西哥哈利斯科州
 mexico journalists:墨西哥记者
 mexico junk food:墨西哥垃圾食品
 mexico knows:墨西哥知道
@@ -34474,11 +34693,15 @@ mexico network:墨西哥网络
 mexico north:墨西哥北
 mexico nova:新墨西哥州
 mexico now:墨西哥现在
+mexico oaxaca:墨西哥瓦哈卡州
 mexico of course:墨西哥当然
 mexico offer:墨西哥提供
 mexico office:墨西哥办公室
 mexico office:墨西哥辦公室
 mexico officials:墨西哥官员
+mexico olympic:墨西哥城奧運
+mexico olympic:墨西哥奧運
+mexico olympics:墨西哥城奥运会
 mexico olympics:墨西哥奥运会
 mexico only once:墨西哥只有一次
 mexico only:墨西哥只有
@@ -34518,6 +34741,7 @@ mexico protect:墨西哥保护
 mexico prove:墨西哥证明
 mexico provide:墨西哥提供
 mexico provides:墨西哥提供
+mexico puebla:墨西哥普埃布拉州
 mexico pyramid:墨西哥金字塔
 mexico rather than:墨西哥而不是
 mexico receive:墨西哥收到
@@ -34556,6 +34780,9 @@ mexico spring break:墨西哥春假
 mexico start negotiations:墨西哥开始谈判
 mexico start:墨西哥开始
 mexico state:墨西哥国家
+mexico state:墨西哥州
+mexico station:墨西哥城站
+mexico station:墨西哥站
 mexico steel:墨西哥钢
 mexico still:墨西哥仍然
 mexico stock:墨西哥股票
@@ -34597,6 +34824,7 @@ mexico until:墨西哥直到
 mexico using:墨西哥使用
 mexico usually:墨西哥通常
 mexico vacation:墨西哥度假
+mexico valley:墨西哥谷地
 mexico villa:墨西哥别墅
 mexico violate:墨西哥违反
 mexico volume:墨西哥卷

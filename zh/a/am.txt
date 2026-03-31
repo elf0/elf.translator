@@ -184,6 +184,7 @@ am attack:是攻击
 am attempt:是尝试
 am australian:是澳大利亚人
 am balance:是平衡
+am band:是乐队
 am barbie:是芭比娃娃
 am bard:是吟游诗人
 am based on:是基于
@@ -977,6 +978,7 @@ amagasaki castle:尼崎城
 amagasaki center pool mae station:尼崎汽艇比賽場前站
 amagasaki domain:尼崎藩
 amagasaki serial murder incident:尼崎事件
+amagasaki station:尼崎站
 amagasaki station:尼崎車站
 amagasaki-shi:尼崎市
 amagasaki:尼崎
@@ -987,6 +989,7 @@ amagat's law:阿马加定律
 amagatsuji station:尼辻站
 amager strand station:阿迈厄海滩站
 amager:阿邁厄島
+amagerbro station:阿迈厄布罗站
 amagerbro:阿迈厄布罗
 amagi brilliant park:甘城輝煌樂園救世主
 amagi class battlecruiser:天城級巡洋戰艦
@@ -1049,6 +1052,7 @@ amalfi coast:阿马尔菲海岸
 amalfi drive:津堤径
 amalfi drive:津堤徑
 amalfi prize:阿马尔菲奖
+amalfi republic:阿马尔菲共和国
 amalfi:津堤
 amalfi:阿马尔菲
 amalgamation would:合并将
@@ -1141,6 +1145,7 @@ amano yasukage:天野康景
 amano:安曼
 amanoa:花碟木属
 amanohashidate cable car:天橋立鋼索鐵道
+amanohashidate station:天橋立站
 amanohashidate station:天橋立車站
 amanohashidate:天橋立
 amanojaku:天邪鬼
@@ -1267,6 +1272,7 @@ amasis painter:阿马西斯画家
 amasja:阿馬西亞
 amasra:阿瑪斯拉
 amastridae:同纹螺科
+amasya province:阿馬西亞省
 amasya province:阿马西亚省
 amasya:阿馬西亞
 amata municipality:阿馬塔市鎮
@@ -1285,7 +1291,11 @@ amateur boxing champion:业余拳击冠军
 amateur boxing club:业余拳击俱乐部
 amateur boxing:业余拳击
 amateur chemistry:业余化学
+amateur club:爱好者俱乐部
 amateur committee:爱好者委员会
+amateur film:爱好者电影
+amateur films:爱好者电影
+amateur magazine:爱好者杂志
 amateur pornography:業餘色情
 amateur radio activity:业余无线电活动
 amateur radio amateur:业余无线电爱好者
@@ -1555,6 +1565,7 @@ amazon appstore:亚马逊应用商店
 amazon are our partners:亚马逊是我们的伙伴
 amazon area:亚马孙地区
 amazon area:亚马逊地区
+amazon arena:亚马逊竞技场
 amazon art:亚马逊艺术
 amazon as well as:亚马逊以及
 amazon assistant and privacy:亚马逊助手和隐私
@@ -1752,6 +1763,8 @@ amazon enter:亚马逊进入
 amazon entrepreneur:亚马逊企业家
 amazon equipment:亚马逊设备
 amazon estimate:亚马逊估计
+amazon estuary:亚马孙河口
+amazon estuary:亚马孙河河口
 amazon eu:亚马逊欧盟
 amazon europe:亚马逊欧洲
 amazon european store:亚马逊欧洲商店
@@ -1917,6 +1930,7 @@ amazon listen:亚马逊听
 amazon log:亚马孙日志
 amazon logistics center:亚马逊物流中心
 amazon logistics:亚马逊物流
+amazon logo:亚马逊标志
 amazon long term debt:亚马逊长期债务
 amazon long term:亚马逊长期
 amazon long-term:亚马逊长期
@@ -2018,6 +2032,7 @@ amazon ownership:亚马逊所有权
 amazon package:亚马逊包
 amazon page:亚马逊页
 amazon paradise:亚马逊天堂
+amazon parrot:亚马逊鹦鹉
 amazon parrot:亚马逊鹦鹉属
 amazon partner:亚马逊合伙人
 amazon partner:亚马逊合作伙伴
@@ -2031,6 +2046,7 @@ amazon people:亚马逊人民
 amazon phone:亚马逊手机
 amazon photos:亚马逊照片
 amazon plain:亚马孙平原
+amazon plain:亚马逊平原
 amazon plan:亚马逊计划
 amazon plans:亚马逊计划
 amazon platform:亚马逊平台
@@ -2118,6 +2134,7 @@ amazon river wood export:亚马孙河木材出口
 amazon river wood:亚马孙河木材
 amazon river:亚马孙河
 amazon river:亚马孙河流
+amazon river:亚马逊河
 amazon river:亚马逊河河
 amazon robot:亚马逊机器人
 amazon rubber cycle:亚马逊橡胶热潮
@@ -2228,6 +2245,7 @@ amazon threat:亚马逊威胁
 amazon through open:亚马逊通过开
 amazon through:亚马逊通过
 amazon ticket:亚马逊票
+amazon time:亚马孙时间
 amazon to new york:亚马逊到纽约
 amazon today:亚马逊今天
 amazon too:亚马逊也
@@ -4856,6 +4874,7 @@ ambatofinandrahana:安巴圖菲南德拉哈納
 ambatolampy district:安巴圖蘭皮區
 ambatolampy:安巴圖蘭皮
 ambatomainty:安巴圖邁因蒂
+ambatondrazaka airport:安巴通德拉扎卡機場
 ambatondrazaka district:安巴通德拉扎卡區
 ambatondrazaka:安巴通德拉扎卡
 ambattur:安巴杜爾
@@ -5053,6 +5072,7 @@ amber house:安寶樓
 amber house:琥珀樓
 amber hunter:琥珀猎人
 amber inclusion:琥珀包含
+amber island:琥珀岛
 amber jewellery:琥珀珠宝
 amber jewellery:琥珀珠寶
 amber john:琥珀约翰
@@ -5067,6 +5087,7 @@ amber market:琥珀市场
 amber martin:琥珀马丁
 amber montana:琥珀蒙大拿州
 amber moon:琥珀之月
+amber mountain:琥珀山
 amber museum:琥珀博物馆
 amber necklace:琥珀项链
 amber needle:琥珀针
@@ -5219,6 +5240,7 @@ ambivali tarf tungaratan:阿姆比瓦利塔尔夫万卡尔
 ambivere:安比韦雷
 ambivia:摆螳属
 ambla parish:安布拉鄉
+ambla river:安布拉河
 ambla:安布拉
 amblainville:昂布兰维尔
 amblar:安布拉尔
@@ -5313,10 +5335,12 @@ ambohimahasoa:安布希馬哈蘇阿
 ambohimahavelona:安布希馬哈韋盧納
 ambohimanga:安布希曼加
 amboina box turtle:马来闭壳龟
+amboise castle:昂布瓦斯城堡
 amboise conspiracy:昂布瓦斯陰謀
 amboise station:昂布瓦斯站
 amboise:昂布瓦斯
 ambon island:安汶岛
+ambon malay:安汶马来语
 ambon:安汶
 ambonese people:安汶人
 ambonil:昂博尼勒
@@ -5335,6 +5359,7 @@ ambositra:安布西特拉
 amboukiv:阿姆布基夫
 ambovombe afovoany:安布文貝阿富武阿尼
 ambovombe androy:安布文貝
+amboy township:安博伊鎮區
 amboy township:安博伊镇区
 amboy:安博伊
 amboyna cay:安波沙洲
@@ -5352,6 +5377,7 @@ ambrief:昂布列夫
 ambrim:安布里姆島
 ambrimas:安布里姆島
 ambrines:昂布里讷
+ambriz airport:安布里什機場
 ambriz:安布里什
 ambrolauri municipality:安布羅勞里市鎮
 ambrolauri:安布罗劳里
@@ -5432,6 +5458,7 @@ ambush point:伏击点
 ambush points:伏击点
 ambush police:伏击警察
 ambush position:伏击位置
+ambush predation:伏击捕食
 ambush predator:伏击捕食者
 ambush prey:伏击猎物
 ambush prey:埋伏猎物
@@ -5670,6 +5697,7 @@ ameni:yàměiníyà
 ameni:亚美尼亚
 ameni:亚美尼亚 / 亞美尼亞
 ameni:亞美尼亞
+amenia union:亚美尼亚联盟
 amenia:yàměiníyà
 amenia:亚美尼亚
 amenia:亚美尼亚 / 亞美尼亞
@@ -6119,6 +6147,7 @@ america markets:美国市场
 america markets:美洲市场
 america means:美国意味着
 america meat:美国肉
+america media:美国媒体
 america media:美洲媒体
 america medical device:美国医疗器械
 america meeting:美国会议
@@ -8944,6 +8973,7 @@ amherst island:阿默斯特岛
 amherst look:阿默斯特看
 amherst looks like:阿默斯特看起来像
 amherst magazine:阿默斯特杂志
+amherst mountain:阿默斯特山
 amherst offer:阿默斯特提供
 amherst poetry:阿默斯特诗歌
 amherst reserve:阿默斯特保留
@@ -8954,6 +8984,7 @@ amherst street:阿默斯特街
 amherst street:阿默斯特街道
 amherst students went:阿默斯特学生去
 amherst students:阿默斯特学生
+amherst township:阿默斯特鎮區
 amherst tradition:阿默斯特传统
 amherst we encourage:阿默斯特我们鼓励
 amherst we:阿默斯特我们
@@ -9001,6 +9032,7 @@ amide fertilizers:酰胺肥料
 amide hydrochloride:酰胺盐酸盐
 amide hydrogen:酰胺氢
 amide hydrolase:酰胺水解酶
+amide hydrolysis:酰胺水解
 amide ion:酰胺离子
 amide ions:酰胺离子
 amide molecule:酰胺分子
@@ -9014,9 +9046,14 @@ amieira do tejo:特茹河畔阿米埃拉
 amieno:亚眠
 amieno:亞眠
 amiens cathedral:亚眠主教座堂
+amiens cathedral:亚眠大教堂
+amiens cathedral:亞眠主教座堂
+amiens cathedral:亞眠大教堂
 amiens katedrali:亚眠主教座堂
 amiens sc:艾米恩斯體育會
 amiens station:亚眠站
+amiens station:亞眠站
+amiens treaty:亚眠条约
 amiens-1:亞眠-1
 amiens-2:亞眠-2
 amiens-3:亞眠-3
@@ -9031,6 +9068,7 @@ amiensko katedrala:亚眠主教座堂
 amietia:艾美蛙属
 amieva:阿米耶瓦
 amiflamine:阿米夫胺
+amifontaine station:阿米方丹站
 amifontaine:阿米方丹
 amiga hotel:雅迷家酒店
 amigny rouy:阿米尼鲁伊
@@ -9111,6 +9149,7 @@ amine release:胺释放
 amine solvent:胺溶剂
 amine surfactant:胺表面活性剂
 amine synthesis:胺合成
+amine value:胺值
 amine vapor:胺蒸气
 amine:胺
 aminga:阿明加
@@ -9413,6 +9452,7 @@ amity college:樂群書院
 amity foundation was established in:爱德基金会成立于
 amity foundation:爱德基金会
 amity house:友群大廈
+amity township:阿米蒂鎮區
 amity township:阿米蒂镇区
 amity:阿米蒂
 amivantamab:埃萬妥單抗
@@ -9439,6 +9479,7 @@ amkula:阿姆库拉
 amlabad:阿姆拉巴德
 amlach:阿姆拉赫
 amlai:阿姆莱
+amlash county:阿姆拉什县
 amlash county:阿姆拉什縣
 amlash e jonubi rural district:南阿姆拉什鄉
 amlash e shomali rural district:北阿姆拉什鄉
@@ -9459,6 +9500,7 @@ amman and jerusalem:安曼和耶路撒冷
 amman and kuwait:安曼和科威特
 amman bank:安曼银行
 amman bombing:安曼爆炸
+amman citadel:安曼城堡
 amman city:安曼城市
 amman civil airport:安曼民航機場
 amman clock:安曼时钟
@@ -9513,6 +9555,7 @@ ammerland:阿默兰县
 ammerndorf:阿默恩多夫
 ammersbek:阿默斯贝克
 ammerschwihr:阿默什维尔
+ammersee railway:阿默湖铁路
 ammersee:阿默湖
 ammersoyen castle:阿梅索耶城堡
 ammerswil:阿梅爾斯維爾
@@ -9632,6 +9675,7 @@ ammonia or chloride:氨或氯化物
 ammonia or methane:氨或甲烷
 ammonia or nitrite:氨或亚硝酸盐
 ammonia or sulfur dioxide:氨或二氧化硫
+ammonia oxidation:氨氧化
 ammonia plants:氨植物
 ammonia poisoning:氨中毒
 ammonia pollution:氨污染
@@ -9842,6 +9886,7 @@ amnesty and illegal immigration:大赦和非法移民
 amnesty and reconciliation:大赦和和解
 amnesty back:大赦回
 amnesty bin:特赦箱
+amnesty candle:大赦蜡烛
 amnesty clause:大赦条款
 amnesty club secretary:大赦俱乐部秘书
 amnesty club:大赦俱乐部
@@ -9973,6 +10018,7 @@ amoghavajra:不空
 amoi:夏新科技
 amoiki:鄂木斯克
 amol county:阿莫勒县
+amol uprising:阿莫勒起义
 amol:阿莫勒
 amolatar district:阿莫拉塔爾區
 amolf:原子和分子物理學研究所
@@ -10566,12 +10612,16 @@ ampang lrt station:安邦站
 ampang mituoyan temple:安邦弥陀岩
 ampang mituoyan temple:安邦彌陀岩
 ampang park lrt station:安邦購物中心站
+ampang park:安邦公園
 ampang park:安邦購物中心
 ampang park:安邦购物中心
 ampang river:安邦河
 ampang road:安邦路
+ampang station:安邦站
 ampang:安邦
+ampanihy airport:安帕尼希機場
 ampanihy:安帕尼希
+ampara airport:安帕拉机场
 ampara district:安帕來區
 ampara district:安帕拉区
 ampara district:安帕賴區
@@ -10603,6 +10653,7 @@ amper:安珀河
 ampera bridge:安培拉大橋
 ampere analysis:安培分析
 ampere and candela:安培和坎德拉
+ampere architecture:安培架构
 ampere hour:安培小时
 ampere hour:安培小時
 ampere hours rule:安培小时规则
@@ -10634,6 +10685,7 @@ amphenol military:安费诺军事
 amphenol:安费诺
 amphetamine addiction:苯丙胺成瘾
 amphetamine and topiramate:苯丙胺和托吡酯
+amphetamine class:苯丙胺类
 amphetamine group:苯丙胺组
 amphetamine markets:苯丙胺市场
 amphetamine poisoning:苯丙胺中毒
@@ -10932,6 +10984,7 @@ amplitude blood:振幅血
 amplitude calculation from:振幅计算从
 amplitude calculation:振幅计算
 amplitude control:振幅控制
+amplitude distortion:振幅失真
 amplitude distribution:振幅分布
 amplitude from:振幅从
 amplitude gradient:振幅梯度
@@ -11062,6 +11115,7 @@ amshuverma:鴦輸伐摩
 amsinckia:琴颈草属
 amsler grid:阿姆斯勒方格表
 amsler island:阿姆斯勒島
+amsoldingen castle:阿姆索爾丁根城堡
 amsoldingen:阿姆索爾丁根
 amsoldingersee:阿姆索爾丁湖
 amsonia:水甘草属
@@ -11138,6 +11192,7 @@ amsterdam book:阿姆斯特丹书
 amsterdam brussels:阿姆斯特丹布鲁塞尔
 amsterdam business school:阿姆斯特丹商学院
 amsterdam cancer:阿姆斯特丹癌症
+amsterdam castle:阿姆斯特丹城堡
 amsterdam cello:阿姆斯特丹大提琴
 amsterdam centraal station:阿姆斯特丹中央車站
 amsterdam centraal:阿姆斯特丹中央車站
@@ -11232,6 +11287,7 @@ amsterdam lelylaan station:阿姆斯特丹莱利巷车站
 amsterdam life science:阿姆斯特丹生命科学
 amsterdam light:阿姆斯特丹光
 amsterdam marathon:阿姆斯特丹馬拉松
+amsterdam marathon:阿姆斯特丹马拉松
 amsterdam market:阿姆斯特丹市场
 amsterdam mayor:阿姆斯特丹市长
 amsterdam metro:阿姆斯特丹地铁
@@ -11282,6 +11338,7 @@ amsterdam sloterdijk station:阿姆斯特丹斯洛特代克車站
 amsterdam smart city:阿姆斯特丹智慧城市
 amsterdam soccer team:阿姆斯特丹足球队
 amsterdam society:阿姆斯特丹社会
+amsterdam south:阿姆斯特丹南
 amsterdam standards:阿姆斯特丹标准
 amsterdam stock exchange:阿姆斯特丹证券交易所
 amsterdam street:阿姆斯特丹街
@@ -11302,15 +11359,19 @@ amsterdam tournament:阿積士四角賽
 amsterdam trade bank:阿姆斯特丹贸易银行
 amsterdam trade:阿姆斯特丹贸易
 amsterdam traffic:阿姆斯特丹交通
+amsterdam tram:阿姆斯特丹有軌電車
+amsterdam tram:阿姆斯特丹有轨电车
 amsterdam transport company:阿姆斯特丹运输公司
 amsterdam transport:阿姆斯特丹运输
 amsterdam trap music:阿姆斯特丹陷阱音樂
+amsterdam treaty:阿姆斯特丹条约
 amsterdam tulip museum:阿姆斯特丹郁金香博物馆
 amsterdam university college:阿姆斯特丹大学学院
 amsterdam university college:阿姆斯特丹大學學院
 amsterdam university library:阿姆斯特丹大学图书馆
 amsterdam university of applied sciences:阿姆斯特丹应用科学大学
 amsterdam university press:阿姆斯特丹大学出版社
+amsterdam university:阿姆斯特丹大学
 amsterdam university:阿姆斯特丹大學
 amsterdam use:阿姆斯特丹使用
 amsterdam version:阿姆斯特丹版本
@@ -11386,6 +11447,7 @@ amu language:阿木语
 amu long:Āmǔ lóng
 amu long:阿姆隆
 amu plaza nagasaki:amu plaza長崎
+amu river:阿木河
 amu'er:āmùěr zhèn
 amu'er:阿木尔
 amu'er:阿木尔镇
@@ -11402,6 +11464,7 @@ amudaria:阿姆河
 amudarià:阿姆河
 amudarja:阿姆河
 amudarjo:阿姆河
+amudaryo district:阿姆河區域
 amudaryo:阿姆河
 amudat district:阿穆達特區
 amuduzi:阿木独子
@@ -11465,6 +11528,7 @@ amur falcon:阿穆爾隼
 amur goby:真吻鰕虎
 amur grayling:黑龍江茴魚
 amur hedgehog:東北刺蝟
+amur hedgehog:黑龙江刺猬
 amur ide:东北雅罗鱼
 amur leopard:远东豹
 amur liman:阿穆尔湾
@@ -11478,6 +11542,7 @@ amur oblast:阿穆尔州
 amur oblast:阿穆爾州
 amur paradise flycatcher:寿带鸟
 amur pike:黑斑狗鱼
+amur region:黑龙江军区
 amur regional library:阿穆尔地区图书馆
 amur river:黑龍江
 amur river:黑龙江
@@ -11486,6 +11551,8 @@ amur shipbuilding plant:阿穆尔造船厂
 amur softshell turtle:东北鳖
 amur stickleback:中华多刺鱼
 amur subdsitrict:阿穆尔街道
+amur valley:黑龍江谷地
+amur valley:黑龙江谷地
 amur waves:黑龙江之波
 amur whitefin gudgeon:薄身羅馬諾鮈
 amur çayı:黑龍江
@@ -11602,6 +11669,7 @@ amway offer:安利提供
 amway open:安利开
 amway product:安利产品
 amway products:安利产品
+amway stadium:安利体育馆
 amway vietnam:安利越南
 amway:安利
 amwrosijewka:阿姆夫羅西耶夫卡

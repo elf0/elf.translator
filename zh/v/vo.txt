@@ -1489,6 +1489,7 @@ voigtstedt:福格特施泰特
 voillecomte:瓦耶孔特
 voimhaut:瓦莫
 voinivka:沃伊尼夫卡
+voinjama airport:沃因賈馬機場
 voinjama:沃因賈馬
 voinsles:万勒
 voinyliv:沃伊尼利夫
@@ -1870,6 +1871,7 @@ vojvodat ta' pomeranja:波美拉尼亞省
 vojvodat ta' pomeranja:滨海省
 vojvodat ta' pomeranja:濱海省
 vojvodina and kosovo:伏伊伏丁那和科索沃
+vojvodina government:伏伊伏丁那政府
 vojvodina handball:伏伊伏丁那手球
 vojvodina province:伏伊伏丁那省
 vojvodina region:伏伊伏丁那地区
@@ -2044,9 +2046,11 @@ volcano is located in:火山位于
 volcano is safe:火山是安全的
 volcano island:火山岛
 volcano island:火山岛屿
+volcano island:火山島嶼
 volcano islands:火山群岛
 volcano laboratory:火山实验室
 volcano lake:火山湖
+volcano lake:火山湖泊
 volcano lava:火山熔岩
 volcano links:火山链接
 volcano look:火山看
@@ -2161,6 +2165,7 @@ volga delta:伏爾加三角洲
 volga economic region:伏尔加经济地区
 volga federal district:伏尔加联邦管区
 volga federal district:伏爾加聯邦管區
+volga flotilla:伏尔加河区舰队
 volga forest:伏尔加河森林
 volga german autonomous soviet socialist republic:伏爾加德意志人蘇維埃社會主義自治共和國
 volga germans:伏尔加德意志人
@@ -2168,7 +2173,9 @@ volga hydroelectric station:伏爾加水電站
 volga is russia:伏尔加河是俄罗斯
 volga military:伏尔加河军事
 volga pikeperch:俄羅斯梭吻鱸
+volga region:伏尔加河军区
 volga region:伏尔加河地区
+volga regions:伏尔加河地区
 volga river delta:伏尔加河三角洲
 volga river:伏尔加河河
 volga tatars:伏尔加鞑靼人
@@ -2208,8 +2215,12 @@ volgodonskas:伏爾加頓斯克
 volgodonskoy district:伏爾加頓斯克區
 volgograd (tỉnh):伏尔加格勒州
 volgograd (tỉnh):伏爾加格勒州
+volgograd airport:伏尔加格勒机场
+volgograd arena:伏尔加格勒竞技场
 volgograd arena:伏爾加格勒競技場
 volgograd city:伏尔加格勒城市
+volgograd dam:伏尔加格勒水库
+volgograd dam:伏爾加格勒水庫
 volgograd is a modern:伏尔加格勒是一个现代的
 volgograd is a true:伏尔加格勒是一个真
 volgograd ko'li:伏尔加格勒湖
@@ -2218,6 +2229,7 @@ volgograd oblast region:伏尔加格勒州地区
 volgograd oblast:伏尔加格勒州
 volgograd oblast:伏爾加格勒州
 volgograd region:伏尔加格勒地区
+volgograd reservoir:伏尔加格勒水库
 volgograd reservoir:伏爾加格勒水庫
 volgograd tractor plant:斯大林格勒拖拉机厂
 volgograd train station:伏尔加格勒火车站
@@ -2293,6 +2305,8 @@ volkerzen:福尔克岑
 volkesfeld:福尔克斯费尔德县
 volketswil:沃克茨維爾
 volkheimeria:弗克海姆龍屬
+volkhov river:沃尔霍夫河
+volkhov river:沃爾霍夫河
 volkhov:沃尔霍夫
 volkhov:沃爾霍夫
 volkhovsky district:沃爾霍夫區
@@ -2310,6 +2324,7 @@ volkseigener betrieb:人民企业
 volksgarten:人民公园
 volksgarten:人民公園
 volksgenosse:民族同志
+volksgrenadier division:國民擲彈兵师
 volksgrenadier:國民擲彈兵
 volkshalle:人民大厅
 volksmarinedivision:人民海军师
@@ -2347,6 +2362,7 @@ volkswagen arena:大众汽车竞技场
 volkswagen atlas:大众途昂
 volkswagen australia:大众汽车澳大利亚
 volkswagen automatic transmission:大众汽车自动变速器
+volkswagen bank:大众汽车银行
 volkswagen be:大众汽车成为
 volkswagen because:大众汽车因为
 volkswagen become:大众汽车成为
@@ -2669,9 +2685,12 @@ vologda oblast:沃洛格达州
 vologda oblast:沃洛格達州
 vologda oblastı:沃洛格达州
 vologda oblastı:沃洛格達州
+vologda province:沃洛格达省
+vologda province:沃洛格達省
 vologda provinco:沃洛格达州
 vologda provinco:沃洛格達州
 vologda region:沃洛格达地区
+vologda river:沃洛格达河
 vologda she:沃洛格达她
 vologda:沃洛格达
 vologda:沃洛格達
@@ -2693,6 +2712,7 @@ vologodska oblast:沃洛格達州
 vologodsky district:沃洛格达区
 voloiac:沃洛亞克鄉
 volokia:沃洛科拉姆斯克
+volokolamsk highway:沃洛科拉姆斯克公路
 volokolamsk:沃洛科拉姆斯克
 volokolamska:沃洛科拉姆斯克
 volokolamskas:沃洛科拉姆斯克
@@ -2720,6 +2740,7 @@ volosiv:沃洛西夫
 voloskivtsi:沃洛斯基夫齊
 voloskivți:沃洛斯基夫齊
 volosova:沃洛索沃
+volosovo culture:沃洛索沃文化
 volosovo:沃洛索沃
 volosovsky district:沃洛索沃區
 volossin:沃洛辛
@@ -2771,6 +2792,7 @@ volsvyn:沃爾斯溫
 volsvín:沃爾斯溫
 volt ampere reactive:乏爾
 volt ampere:伏安
+volt ampere:伏特安培
 volt applications:伏特应用
 volt architecture:伏特架构
 volt auto:伏特汽车
@@ -2778,7 +2800,11 @@ volt battery architecture:伏特电池架构
 volt battery include:伏特电池包括
 volt battery:伏特电池
 volt electricity:伏特電
+volt europa:伏特欧洲
+volt europa:伏特歐洲
 volt europa:欧洲伏特党
+volt europe:伏特欧洲
+volt europe:伏特歐洲
 volt goat:伏特山羊
 volt health:伏特健康
 volt invent:伏特发明
@@ -2866,6 +2892,7 @@ voltage control and voltage:电压控制和电压
 voltage control:电压控制
 voltage control:電壓控制
 voltage controlled oscillator:壓控振盪器
+voltage controller:電壓控制器
 voltage conversion process:电压转换过程
 voltage conversion:电压转换
 voltage converter modules:电压转换器模块
@@ -3013,6 +3040,7 @@ voltage soon:电压很快
 voltage source:电压源
 voltage source:電壓源
 voltage sources:电压源
+voltage sources:電壓源
 voltage spike:電壓突波
 voltage standard:电压标准
 voltage standards:电压标准
@@ -3069,12 +3097,14 @@ voltaire and support:伏爾泰和支持
 voltaire cancel:伏爾泰取消
 voltaire look:伏爾泰看
 voltaire station:伏爾泰站
+voltaire township:伏爾泰鎮區
 voltaire:伏爾泰
 voltammetry:伏安法
 voltan hallintoalue:沃爾特大區
 voltaregionen:沃爾特大區
 voltchansk:沃爾昌斯克
 voltera:沃尔泰拉
+volterra cathedral:沃尔泰拉主教座堂
 volterra cathedral:沃爾泰拉主教座堂
 volterra:沃尔泰拉
 voltes v:波羅五號
@@ -3200,6 +3230,9 @@ volume divide:体积除
 volume dress:体积连衣裙
 volume edition:卷版本
 volume eight:卷八
+volume element:体积元素
+volume elements:体积元素
+volume eleven:卷十一
 volume encryption security technologies:卷加密安全技术
 volume encryption system:卷加密系统
 volume encryption:卷加密
@@ -3212,6 +3245,7 @@ volume english:卷英语
 volume environments:卷环境
 volume exhaust system:体积排气系统
 volume factor:体积因子
+volume fifteen:卷十五
 volume figure:体积图
 volume file system:卷文件系统
 volume file:卷文件
@@ -3226,6 +3260,7 @@ volume format:卷格式
 volume formula:体积公式
 volume formulas:体积公式
 volume four:卷四
+volume fourteen:卷十四
 volume fraction:体积分数
 volume from:卷从
 volume game:体积游戏
@@ -3362,12 +3397,16 @@ volume series:卷系列
 volume server:卷服务器
 volume service:卷服务
 volume set:卷设置
+volume seven:卷七
+volume seventeen:卷十七
 volume shader:体积着色器
 volume shadow copy service:卷影复制服务
 volume shadow copy services:卷影复制服务
 volume shadow copy:卷影复制
 volume shadow:卷影
 volume show:卷显示
+volume six:卷六
+volume sixteen:卷十六
 volume size and file size:卷大小和文件大小
 volume size increase:卷大小增加
 volume size:体积大小
@@ -3380,9 +3419,11 @@ volume statistic:卷统计
 volume storage device:卷存储设备
 volume study:卷研究
 volume suddenly:体积突然
+volume ten:卷十
 volume then move:卷然后移动
 volume then:卷然后
 volume third:卷第三
+volume thirteen:卷十三
 volume three:卷三
 volume threshold:体积阈
 volume threshold:卷阈
@@ -3390,6 +3431,7 @@ volume through:体积通过
 volume towards him:卷向他
 volume towards:卷向
 volume translation:卷翻译
+volume twelve:卷十二
 volume two:卷二
 volume type:卷类型
 volume under:卷下
@@ -4115,6 +4157,7 @@ vonia ha hesegovina:波斯尼亚和黑塞哥维那
 vonia ha hesegovina:波斯尼亞
 vonia ha hesegovina:波斯尼亞和黑塞哥維那
 vonia ha hesegovina:波斯尼亞黑塞哥維那
+vonnas station:沃纳站
 vonnas:沃纳
 vonones i:沃諾奈斯一世
 vonones ii:沃諾奈斯二世
@@ -4195,6 +4238,7 @@ vorkoeta:沃尔库塔
 vorkoeta:沃爾庫塔
 vorkouta:沃尔库塔
 vorkouta:沃爾庫塔
+vorkuta airport:沃爾庫塔機場
 vorkuta mine disaster:沃爾庫塔礦難
 vorkuta:沃尔库塔
 vorkuta:沃爾庫塔
@@ -4249,11 +4293,14 @@ voronezh front:沃罗涅日方面军
 voronezh governorate:沃羅涅日省
 voronezh oblast:沃罗涅日州
 voronezh oblast:沃羅涅日州
+voronezh province:沃罗涅日省
+voronezh province:沃羅涅日省
 voronezh radar station:沃罗涅日雷达站
 voronezh radar:沃罗涅日雷达
 voronezh railway company:沃罗涅日铁路公司
 voronezh region:沃罗涅日地区
 voronezh river:沃罗涅日河
+voronezh river:沃羅涅日河
 voronezh sea:沃罗涅日海
 voronezh state university:沃羅涅日國立大學
 voronezh university:沃罗涅日大学
@@ -4340,6 +4387,7 @@ vortex flash hider:渦旋式消焰器
 vortex island:沃特克斯島
 vortex ring state:涡环状态
 vortex ring:涡环
+vortex theory:渦旋理論
 vortex!:急流漩渦
 vortex:渦旋
 vorthgraben:福特格拉本河
@@ -4379,6 +4427,7 @@ voss and his colleagues:沃斯和他的同事
 voss church:沃斯教堂
 voss said:沃斯说
 voss says:沃斯说
+voss street:沃斯街
 voss:沃斯
 vosselaar:福瑟拉尔
 vossloh:福斯羅公司
@@ -4943,6 +4992,7 @@ voting restriction:投票限制
 voting result:投票结果
 voting results show:投票结果显示
 voting results:投票结果
+voting right:投票权利
 voting rights:投票权利
 voting room:投票房间
 voting rules:投票规则
@@ -4965,6 +5015,7 @@ voting standard:投票标准
 voting standards:投票标准
 voting start:投票开始
 voting state:投票州
+voting station:投票站
 voting stock:投票股票
 voting strategy:投票策略
 voting structure:投票结构
@@ -5017,7 +5068,10 @@ voting:投票
 votive church of szeged:塞格德還願教堂
 votive ship:奉献船
 votivní kostel božského spasitele:感恩教堂
+votkinsk dam:沃特金斯克水库
+votkinsk dam:沃特金斯克水庫
 votkinsk machine building plant:沃特金斯克机器制造厂
+votkinsk reservoir:沃特金斯克水库
 votkinsk reservoir:沃特金斯克水庫
 votkinsk reservoir:茯特金斯克水库
 votkinsk:沃特金斯克
@@ -5160,7 +5214,9 @@ vowel hiatus:元音间隙
 vowel high:元音高
 vowel length:元音长度
 vowel length:母音長度
+vowel lengths:元音长度
 vowel letter:元音字母
+vowel nasalization:元音鼻音化
 vowel phoneme:元音音位
 vowel phoneme:元音音素
 vowel pronunciation:元音读法
@@ -5185,6 +5241,7 @@ voxelotor:沃塞洛托
 voxels:三维像素
 voxilaprevir:伏西瑞韦
 voxnan:沃克斯南河
+voyage air:旅行空气
 voyage begin:旅行开始
 voyage boat:航行船
 voyage cancel:旅行取消
@@ -5280,6 +5337,7 @@ vozdvyzhivka:沃茲德維日夫卡
 vozdvízhivka:沃茲德維日夫卡
 vozdvîjivka:沃茲德維日夫卡
 vozha:沃扎河
+vozhega river:沃热加河
 vozhega:沃热加
 vozhegodsky district:沃热加区
 vozmediano:博斯梅迪亚诺

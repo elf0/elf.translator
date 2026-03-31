@@ -10,6 +10,7 @@ en el clos santiago:床和早餐 "圣雅克"
 en hegal:恩赫加尔
 en hiang beverages:永香茶室
 en language:恩語
+en language:英语语言
 en marea:在潮流中
 en memoria de las víctimas del 13 de enero 1991:紀念1月13日的受害者
 en mémoire des victimes du 13 janvier 1991:紀念1月13日的受害者
@@ -20,6 +21,7 @@ en primeur:期酒
 en river:ēn jiāng
 en river:恩江
 en svensk tiger:瑞典虎
+en world:英语世界
 en'aluo:恩阿洛村
 en'gebei:ēn gé bèi zhèn
 en'gebei:ēngébèi zhèn
@@ -2967,6 +2969,7 @@ end state customs:结束状态海关
 end state of emergency:结束紧急状态
 end state:结束状态
 end statement:结束语句
+end station:印度站
 end street:结束街
 end structure:结束结构
 end such:结束如此
@@ -3029,6 +3032,7 @@ end this:结束这
 end those:结束那些
 end three years:结束三年
 end three:结束三
+end time:印度时间
 end time:结束时间
 end title card:结束标题卡
 end title:结束标题
@@ -3280,10 +3284,13 @@ endangered languages project:瀕危語言項目
 endangered species research:瀕危物種研究
 endangered species:瀕危物種
 endarnòs:昂代诺斯莱班
+endau river:兴楼河
 endau rompin national park:兴楼云冰国家公园
 endau-rompin milli parkı:兴楼云冰国家公园
 endau:兴楼
 ende der welt:"世界末日"
+ende language:印度語言
+ende language:印度语言
 ende street:恩德街
 ende:yìndù
 ende:印度
@@ -3977,6 +3984,8 @@ energia areena:能源竞技场
 energid technologies:恩纳基科技
 energiewende:能量过渡计划
 energizer alkali:劲量碱
+energizer batteries:劲量电池
+energizer battery:劲量电池
 energizer can help you:劲量可以帮助你
 energizer park:城市公園球場
 energizer:劲量
@@ -5329,6 +5338,7 @@ energy creation:能量创造
 energy creator:能量创造者
 energy crises often:能源危机常常
 energy crises:能源危机
+energy crisis:能源危机
 energy crisis:能源危機
 energy critic peter:能源評論家彼得
 energy critic peter:能源评论家彼得
@@ -5455,6 +5465,7 @@ energy density surface:能量密度表面
 energy density target:能量密度目标
 energy density threshold:能量密度阈
 energy density yet:能量密度还
+energy density:能源密度
 energy density:能量密度
 energy department select:能源部门选择
 energy department:能源部门
@@ -5466,6 +5477,7 @@ energy deployment:能源部署
 energy depot:能量仓库
 energy deputy prime minister:能源副總理
 energy deregulation:能源去管制化
+energy descent:能源下降
 energy design:能源设计
 energy design:能量设计
 energy destiny:能源命运
@@ -5520,6 +5532,7 @@ energy discussions:能源讨论
 energy display:能源显示
 energy display:能量显示
 energy dissipation:能量耗散
+energy distance:能量距离
 energy distribution function:能量分布函数
 energy distribution is continuous:能量分布是连续的
 energy distribution network:能量分布网络
@@ -5566,6 +5579,7 @@ energy economic:能源经济的
 energy economics and finance:能源经济学与金融
 energy economics and policy:能源经济学与政策
 energy economics question:能源经济学问题
+energy economics:能源經濟學
 energy economics:能源经济学
 energy economist daniel:能源经济学家丹尼尔
 energy economist:能源经济学家
@@ -6242,6 +6256,7 @@ energy input and amino acid:能量输入和氨基酸
 energy input:能源输入
 energy input:能量输入
 energy installation:能源安装
+energy institute:能源学院
 energy institute:能源研究所
 energy institutions or arrangement:能源机构或安排
 energy institutions:能源机构
@@ -6250,6 +6265,7 @@ energy intake and energy:能量摄入与能量
 energy intake and energy:能量摄入和能量
 energy intake balance:能量摄入平衡
 energy intake:能量摄入
+energy integral:能量积分
 energy interaction:能量相互作用
 energy interconnection:能源互联互通
 energy interface:能量接口
@@ -6388,6 +6404,8 @@ energy level state:能级状态
 energy level structure:能级结构
 energy level was known:能级是已知的
 energy level:能级
+energy level:能量水平
+energy levels:能量水平
 energy liability insurance:能源责任保险
 energy liberalisation:電力自由化
 energy liberalization:能源自由化
@@ -6585,6 +6603,7 @@ energy mechanisms:能量机制
 energy media:能源媒体
 energy medicine center:能量醫學中心
 energy medicine yoga:能量醫學瑜伽
+energy medicine:能量医学
 energy medicine:能量醫學
 energy meeting:能源会议
 energy memory:能量记忆
@@ -6819,6 +6838,7 @@ energy platforms:能源平台
 energy player:能源玩家
 energy players:能源玩家
 energy plaza:幸福中心
+energy plaza:能源廣場
 energy plus:能量加
 energy point of view:能量观点
 energy point:能源点
@@ -7720,6 +7740,7 @@ energy studies:能量研究
 energy study:能源研究
 energy sub:能源子
 energy subsidiary:能源子公司
+energy subsidy:能源補貼
 energy substance:能源物质
 energy substance:能量物质
 energy success:能源成功
@@ -7918,10 +7939,12 @@ energy technology strategy:能源技术战略
 energy technology systems analysis:能源技术系统分析
 energy technology systems:能源技术系统
 energy technology:能源技术
+energy technology:能源科技
 energy technology:能量技术
 energy tell space how to:能量告诉空间如何
 energy tell spacetime how to:能量告诉时空如何
 energy tell:能量告诉
+energy template:能源模板
 energy testing:能源测试
 energy than if you:能量比如果你
 energy theatre:能源剧院
@@ -8136,6 +8159,7 @@ energy village:能源村
 energy vitamin:能量维生素
 energy volume:能量体积
 energy war:能源战争
+energy warrior:能量戰士
 energy was called:能量被称为
 energy was established in:能源成立于
 energy was similar:能量是相似的
@@ -8152,7 +8176,9 @@ energy wealth and southeast asia:能源财富和东南亚
 energy wealth:能源财富
 energy weapon system:能源武器系统
 energy weapon:能源武器
+energy weapon:能量武器
 energy weapons:能源武器
+energy weapons:能量武器
 energy web:能源网
 energy website:能源网站
 energy week activities:能源周活动
@@ -8721,7 +8747,9 @@ eng:英格兰
 eng:英格兰 / 英格蘭
 eng:英格蘭
 enga province:恩加省
+engadin airport:恩加丁机场
 engadin region:恩加丁地区
+engadin valley:恩加丁谷地
 engadin:恩加丁
 engadine railway station:英日殿站
 engage planet kiss dum:星界死者之书
@@ -8744,6 +8772,7 @@ engagement ring insurance:订婚戒指保险
 engagement ring is man give:订婚戒指是男人给
 engagement ring trend:订婚戒指趋势
 engagement ring using:订婚戒指使用
+engagement ring:訂婚戒指
 engagement ring:订婚戒指
 engagement road:亲民路
 engagement to her former:訂婚到她的前
@@ -9057,6 +9086,7 @@ engine dealer:发动机经销商
 engine decision:发动机决定
 engine defect:发动机缺陷
 engine department:发动机部门
+engine depot:发动机仓库
 engine design allow:发动机设计允许
 engine design and manufacture:发动机设计和制造
 engine design and materials:发动机设计和材料
@@ -9134,6 +9164,7 @@ engine had been:发动机已经
 engine has been:发动机已经
 engine has eight:发动机有八
 engine has potential problems:发动机有潜在的问题
+engine head:发动机头
 engine health management services:发动机健康管理服务
 engine health:发动机健康
 engine heat:发动机热
@@ -9710,6 +9741,7 @@ engineer salary:工程师工资
 engineer sanford:工程师桑福德
 engineer says they now:工程师说他们现在
 engineer says:工程师说
+engineer school:工程师学校
 engineer scientists:工程师科学家
 engineer scott:工程师斯科特
 engineer sensor:工程师传感器
@@ -10901,6 +10933,8 @@ england beyond:英格兰超过
 england boss gareth:英格兰老板加雷斯
 england boss said:英格兰老板说
 england boss:英格兰老板
+england bristol:英格兰布里斯托尔
+england bristol:英格蘭布里斯托尔
 england can have a good:英格兰可以有一个好的
 england cap:英格兰帽
 england career:英格兰职业生涯
@@ -10940,6 +10974,7 @@ england doctors:英格兰医生
 england door:英格兰门
 england dream:英格兰梦
 england edward vii:英格兰爱德华七世
+england english:英格兰英语
 england escape:英格兰逃脱
 england events:英格兰事件
 england eventually:英格兰最终
@@ -10947,10 +10982,13 @@ england exchange:英格兰交换
 england expect:英格兰期待
 england expects that every man will do his duty:英格蘭期盼人人都恪盡其責
 england fifth:英格兰第五
+england flag:英格蘭旗
+england flag:英格蘭旗幟
 england flood:英格兰洪水
 england football association:英格兰足球协会
 england football team:英格兰足球队
 england football:英格兰足球
+england football:英格蘭足球
 england footballer cause:英格兰足球运动员引起
 england footballer:英格兰足球运动员
 england forever:英格兰永远
@@ -11076,6 +11114,7 @@ england student:英格兰学生
 england substitute:英格兰替补
 england system:英格兰系统
 england team:英格兰队
+england team:英格蘭队
 england temperature:英格兰温度
 england test team:英格兰测试队
 england test:英格兰测试
@@ -11111,6 +11150,7 @@ england would:英格兰将
 england youth international:英格兰青年国际
 england youth team:英格兰青年队
 england youth:英格兰青年
+england youth:英格蘭青年
 england:英格兰
 england:英格兰 / 英格蘭
 england:英格蘭
@@ -11162,6 +11202,7 @@ english always:英语一直
 english always:英语总是
 english ambassador at rome:英语大使在罗马
 english ambassador:英语大使
+english america:英语美洲
 english american:英语美国人
 english americans:英格蘭裔美國人
 english analyzer:英语分析器
@@ -12178,6 +12219,7 @@ english noun:英语名词
 english nouns:英語名詞
 english novel and movie:英语小说和电影
 english novel:英语小说
+english novelist:英语小说家
 english now:英语现在
 english occasionally:英语偶尔
 english of england:英格兰英语
@@ -12431,6 +12473,7 @@ english structure:英语结构
 english student:英语学生
 english students:英语学生
 english studies:英文系
+english studies:英语研究
 english studio:英语工作室
 english study centre:英语学习中心
 english study:英语学习
@@ -12604,6 +12647,7 @@ english wikipedia:英语维基百科
 english wikiquote:英语维基语录
 english wikisource:英语维基文库
 english wikiversity:英语维基学院
+english wiktionary:英语维基词典
 english will be:英语将成为
 english will open:英语将开
 english will teach you:英语会教你
@@ -13046,6 +13090,8 @@ eniva:惠庭市
 eniwa station:惠庭站
 eniwa-shi:惠庭市
 eniwa:惠庭市
+enix america:艾尼克斯美国
+enix corporation:艾尼克斯公司
 enix game:艾尼克斯游戏
 enix:艾尼克斯
 eniyabanare island:江仁屋離島
@@ -14305,6 +14351,7 @@ enoshima electric railway:江之島電鐵
 enoshima schrein:江島神社
 enoshima sea candle:江之島燈塔
 enoshima shrine:江島神社
+enoshima station:江之島站
 enoshima station:江之島車站
 enoshima-jinja:江島神社
 enoshima:江之島
@@ -16142,6 +16189,7 @@ enough zinc:足够的锌
 enough zombie:足够的僵尸
 enough zoo:足够的动物园
 enough:足够的
+enoura station:江之浦站
 enoura:江之浦
 enourabashi:榎浦桥
 enourabashi:榎浦橋
@@ -16201,6 +16249,7 @@ ensas:恩斯河
 enscheda:恩斯赫德
 enschede data center:恩斯赫德数据中心
 enschede has:恩斯赫德有
+enschede marathon:恩斯赫德马拉松
 enschede railway station:恩斯赫德車站
 enschede:恩斯赫德
 ensdorf:恩斯多夫
@@ -16237,6 +16286,7 @@ enshang road:恩上路
 enshang:恩上
 enshanhuicun:恩善会村
 ensheim:恩斯海姆
+enshi airport:恩施机场
 enshi city:恩施市
 enshi grand canyon:恩施大峡谷
 enshi railway station:恩施站
@@ -16350,6 +16400,7 @@ entangled life:纠缠的生命
 entasis:卷杀
 entdecker. gehörloser katholik:探險家。 聾啞天主教徒
 entebbe airport:恩德培机场
+entebbe airport:恩德培機場
 entebbe and kampala:恩德培和坎帕拉
 entebbe expressway:恩德培高速公路
 entebbe hostage:恩德培人质
@@ -18245,6 +18296,7 @@ enterprise engineering organizations:企业工程组织
 enterprise engineering software:企业工程软件
 enterprise engineering technology:企业工程技术
 enterprise engineering:企业工程
+enterprise engineering:企业工程学
 enterprise engineers:企业工程师
 enterprise enter:企业进入
 enterprise environment:企业环境
@@ -20246,6 +20298,7 @@ entertainment center:娛樂中心
 entertainment center:娱乐中心
 entertainment centre:娛樂中心
 entertainment centre:娱乐中心
+entertainment centrum:娱乐中心
 entertainment ceo:娱乐首席执行官
 entertainment chairman:娱乐主席
 entertainment champion:娱乐冠军
@@ -20380,6 +20433,7 @@ entertainment experiences:娛樂體驗
 entertainment experiment:娱乐实验
 entertainment expert:娱乐专家
 entertainment experts:娱乐专家
+entertainment express:娱乐快递
 entertainment facilities are club:娱乐设施是俱乐部
 entertainment facilities:娱乐设施
 entertainment festival:娱乐节日
@@ -24739,6 +24793,8 @@ entrance examination:教育入学考试
 entrance gate for #3, 4, 5 of cheng-gong public house complex:成功國宅3、4、5棟出入口
 entrance gate:正门
 entrance hall of shut hing study hall:述卿書室前廳
+entrance hall:入口大厅
+entrance hall:入口大廳
 entrance no. 1:明孝陵1号门
 entrance no. 5:明孝陵5号门
 entrance no. 6:明孝陵6号门
@@ -24759,7 +24815,9 @@ entrance of tunnel:中山大学隧道口
 entrance of tunnel:中山大學隧道口
 entrance of xinnan night market:興南夜市口
 entrance plaza:大澳入口廣場
+entrance point:入口点
 entrance point:入口角
+entrance theme:入口主題
 entrance to bangling village:蚌岭村口
 entrance to biyan village:碧眼村口
 entrance to caobu village:草埔村口
@@ -25532,6 +25590,7 @@ entry and car:入口和汽车
 entry and condition testing:入口和条件测试
 entry and secret:入口和秘密
 entry and style:入口和风格
+entry angle:入口角
 entry apartment:入口公寓
 entry channel:入口通道
 entry children:入口儿童
@@ -25583,6 +25642,7 @@ entry point into:入口点进入
 entry point methods:入口点方法
 entry point selection:入口点选择
 entry point:入口点
+entry points:入口点
 entry port:入口港口
 entry pressure:入口压力
 entry price:入口价格
@@ -25598,6 +25658,7 @@ entry solutions:入口解决方案
 entry space:入口空间
 entry system:入口系統
 entry tag:入口标签
+entry tax:入口稅
 entry team:入口团队
 entry temperature:入口温度
 entry theme:入口主题
@@ -26520,6 +26581,7 @@ environment difference:环境不同
 environment difference:环境差别
 environment difference:环境差异
 environment diplomacy:环境外交
+environment discipline:环境学科
 environment diversity:环境多样性
 environment do some:环境做一些
 environment do:环境做
@@ -26902,6 +26964,7 @@ environment project:环境项目
 environment projects:环境项目
 environment properties:环境属性
 environment protection park:環保公園
+environment protection:环境保护
 environment provide:环境提供
 environment provides:环境提供
 environment providing:环境提供
@@ -26975,6 +27038,7 @@ environment saving:环境储蓄
 environment school:环境学校
 environment schools:环境学校
 environment science building:环科大楼
+environment science:环境科学
 environment score:环境得分
 environment sculpture:环境雕塑
 environment season:环境季节
@@ -27100,6 +27164,7 @@ environment variable set:环境变量设置
 environment variable should contain:环境变量应该包含
 environment variable value:环境变量值
 environment variable:环境变量
+environment variables:环境变量
 environment version:环境版本
 environment very important:环境非常重要
 environment very:环境非常
@@ -28657,6 +28722,7 @@ enza village:圆座村
 enza:恩扎河
 enzacamene:恩扎樟烯
 enzacho:圆座町
+enzan station:盐山站
 enzan:盐山
 enzen:恩岑
 enzenkirchen:恩岑基兴
@@ -28752,6 +28818,7 @@ enzyme market:酶市场
 enzyme molecule:酶分子
 enzyme molecules:酶分子
 enzyme needs:酶需要
+enzyme nomenclature:酶命名法
 enzyme nutrition:酶营养
 enzyme or antibody:酶或抗体
 enzyme or enzyme:酶或酶
@@ -28785,6 +28852,7 @@ enzyme soup:酶汤
 enzyme start:酶开始
 enzyme stoichiometry:酶化学计量
 enzyme structure:酶结构
+enzyme substrate:酶基質
 enzyme superoxide dismutase:酶超氧化物歧化酶
 enzyme superoxide:酶超氧化物
 enzyme support:酶支持

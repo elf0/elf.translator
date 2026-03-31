@@ -182,6 +182,8 @@ unallocated government land kwtulg04:未撥用政府土地編號 kwtulg04
 unallocated government land kwtulg06:未撥用政府土地編號 kwtulg06
 unallocated government land twulg11:未撥用政府土地編號 twulg11
 unam sanctam:獨一至聖
+unam station:云岩站
+unam station:雲岩站
 unam station:雲巖站
 unam-dong:云岩洞
 unam-dong:雲巖洞
@@ -245,6 +247,8 @@ unbefleckte empfängnis der allerheiligsten jungfrau maria und heiligen nikolaus
 unbekannt:山阳本线（和田岬线）
 unbekannt:山陽本線（和田岬線）
 unbekannter soldat:无名烈士墓
+unbit station:銀光站
+unbit station:银光站
 unbit:銀光
 unbit:银光
 unbong dam:云峰大坝
@@ -414,7 +418,9 @@ uncertainty principle prevent:不确定性原理阻止
 uncertainty principle require:不确定性原理需要
 uncertainty principle said:不确定性原理说
 uncertainty principle says:不确定性原理说
+uncertainty principle:不确定性原则
 uncertainty principle:不确定性原理
+uncertainty principles:不确定性原则
 uncertainty propagation:不确定性传播
 uncertainty range:不确定性范围
 uncertainty rather than:不确定性而不是
@@ -732,6 +738,7 @@ under former:下前
 under four:下四
 under francis:下弗朗西斯
 under fund:下基金
+under god:下神
 under google:下谷歌
 under group:下组
 under gustav:下古斯塔夫
@@ -933,6 +940,8 @@ under various south india:下各种南印度
 under various:下各种
 under venice:下威尼斯
 under very:下非常
+under water:下水
+under way:下路
 under weightlessness:下失重
 under william:下威廉
 under wrath:下愤怒
@@ -992,6 +1001,8 @@ underground activist:地下活动家
 underground activities:地下活动
 underground activity:地下活动
 underground adventure:地下冒险
+underground adventure:地下冒險
+underground agent:地下特工
 underground air always:地下空气总是
 underground air-raid shelter:地下防空洞
 underground air:地下空气
@@ -1162,6 +1173,7 @@ underground cookie:地下饼干
 underground copper:地下铜
 underground corridor:地下走廊
 underground corrosion:地下腐蚀
+underground court:地下大堂
 underground crime:地下犯罪
 underground criminal:地下罪犯
 underground cross:地下穿越
@@ -1170,6 +1182,8 @@ underground crystal:地下晶体
 underground cult:地下邪教
 underground culture:地下文化
 underground currency:地下货币
+underground dam:地下水库
+underground dam:地下水庫
 underground dance and street:地下舞蹈和街
 underground dance music:地下舞蹈音乐
 underground dance:地下舞蹈
@@ -1407,6 +1421,8 @@ underground neutrino detector:地下中微子探测器
 underground neutrino:地下中微子
 underground new york public library:地下纽约公共图书馆
 underground new york:地下纽约
+underground news:地下新闻
+underground newspaper:地下報紙
 underground newspaper:地下报纸
 underground nightlife:地下夜生活
 underground noise:地下噪音
@@ -1522,8 +1538,10 @@ underground railroad freedom center:地下铁路自由中心
 underground railroad freedom:地下铁路自由
 underground railroad heritage center:地下铁路遗产中心
 underground railroad heritage:地下铁路遗产
+underground railroad:地下鐵路
 underground railroad:地下铁路
 underground railway station:地下火车站
+underground railway:地下铁路
 underground rainwater:地下雨水
 underground rap circuit:地下说唱电路
 underground rap:地下说唱
@@ -1656,6 +1674,7 @@ underground theme:地下主题
 underground thermal energy:地下热能
 underground they:地下他们
 underground three:地下三
+underground tomb:地下墓室
 underground tool:地下工具
 underground torture chamber:地下酷刑室
 underground tour:地下旅游
@@ -1698,6 +1717,7 @@ underground warfare:地下战争
 underground warrior:地下战士
 underground waste:地下垃圾
 underground wastewater:地下废水
+underground water:地下水
 underground waterfall:地下瀑布
 underground we:地下我们
 underground wealth:地下财富
@@ -4640,6 +4660,7 @@ unemployment crisis:失業危機
 unemployment in china:中国大陆失业率
 unemployment in south korea:韩国的失业率
 unemployment increase:失業增加
+unemployment insurance:失業保險
 unemployment level:失業水平
 unemployment levels:失業水平
 unemployment model:失業模型
@@ -5379,6 +5400,7 @@ ungnyeo:熊女
 ungok labor district:云谷劳动者区
 ungok labor district:雲谷勞動者區
 ungok station:云谷站
+ungok station:雲谷站
 ungok-chigu:云谷地区
 ungok-chigu:雲谷地區
 ungok-dong:云谷洞
@@ -5806,6 +5828,7 @@ unicorn series lecture:独角兽系列讲座
 unicorn series:独角兽系列
 unicorn shareholders:独角兽股东
 unicorn skull:独角兽头骨
+unicorn stadium:独角兽体育场
 unicorn status:独角兽地位
 unicorn still:独角兽仍然
 unicorn stock:独角兽股票
@@ -6323,6 +6346,7 @@ unilever nutrition centre:联合利华营养中心
 unilever nutrition:联合利华营养
 unilever offer:联合利华提供
 unilever or who:联合利华或谁
+unilever pakistan:联合利华巴基斯坦
 unilever pakistan:聯合利華巴基斯坦
 unilever produce:联合利华生产
 unilever reach:联合利华达到
@@ -6448,6 +6472,7 @@ union catalog:聯合目錄
 union cavalry:联盟骑兵
 union ceasefire:联盟停火
 union center:联盟中心
+union centre:联盟中心
 union certification:联盟认证
 union chairman:联盟主席
 union chamber orchestra:联盟室内乐团
@@ -6465,6 +6490,7 @@ union club of the city of new york:紐約市聯合俱樂部
 union club:联盟俱乐部
 union coach jim:联盟教练吉姆
 union coach:联盟教练
+union code:联盟代码
 union college:联盟学院
 union colonel:联盟上校
 union commander:联盟指挥官
@@ -6481,6 +6507,7 @@ union control:联盟控制
 union council of ministers:部長聯盟理事會
 union council:联盟委员会
 union council:联盟理事会
+union council:联盟议会
 union councils of pakistan:联合委员会
 union countries:联盟国家
 union country:联盟国家
@@ -6489,6 +6516,7 @@ union county:联盟县
 union court:仁安苑
 union creditor:联盟债权人
 union culture:联盟文化
+union cup:联盟杯
 union currently:联盟目前
 union customs:联盟海关
 union cycliste internationale:國際自行車聯盟
@@ -6817,6 +6845,8 @@ union strategy:联盟战略
 union street pedestrian bridge:联合街人行天桥
 union street:玻理後
 union street:联盟街
+union street:联盟街道
+union streets:联盟街道
 union successfully:联盟成功地
 union summit:联盟首脑会议
 union support:联盟支持
@@ -9966,7 +9996,9 @@ unit conversion:单位转换
 unit converter:单位转换器
 unit cooperate:单位合作
 unit corporal:单位下士
+unit cost:单位成本
 unit cost:單位成本
+unit costs:单位成本
 unit could:单位能
 unit count:单位计数
 unit creation:单位创造
@@ -10014,6 +10046,7 @@ unit finally:单位最终
 unit five:单位五
 unit form:单位形式
 unit formation:单位编队
+unit fraction:单位分数
 unit fraction:單位分數
 unit free:单位免费的
 unit frequency:单位频率
@@ -10038,6 +10071,7 @@ unit hour:单位小时
 unit hours:单位小时
 unit housing:单位住房
 unit hyperbola:单位双曲线
+unit ideal:单位理想
 unit illegal:单位非法
 unit in the last place:最后一位上的单位值
 unit in west virginia:单位在西弗吉尼亚
@@ -10165,6 +10199,7 @@ unit of study:单位的研究
 unit of time:时间单位
 unit of volume:体积单位
 unit of weight:重量单位
+unit one:单位一
 unit online:单位在线
 unit open:单位开
 unit operation equipment:单元操作设备
@@ -10243,6 +10278,7 @@ unit retail price:单位零售价格
 unit retail:单位零售
 unit revenue:单位收入
 unit revenue:单位营业额
+unit root:单位根
 unit said:单位说
 unit sales growth:单位销售增长
 unit sales milestone:单位销售里程碑
@@ -10261,6 +10297,7 @@ unit specification require:单位规范要求
 unit specification:单位规范
 unit sphere or unit ball:单位球面或单位球
 unit sphere or unit:单位球面或单位
+unit sphere:单位球
 unit sphere:单位球面
 unit square:单位正方形
 unit standard:单位标准
@@ -10282,6 +10319,7 @@ unit surface:单位表面
 unit symbol:单位符号
 unit system:单位系统
 unit telescope:单位望远镜
+unit tensor:单位张量
 unit testing actually:单元测试实际上
 unit testing allow:单元测试允许
 unit testing and compilation:单元测试和编译
@@ -10339,6 +10377,9 @@ unit vaccine:单位疫苗
 unit value:单位值
 unit variance:单位方差
 unit vector:单位向量
+unit vector:单位矢量
+unit vectors:单位向量
+unit vectors:单位矢量
 unit very:单位非常
 unit violate:单位违反
 unit vitamin:单位维生素
@@ -10424,6 +10465,7 @@ unite their:联合他们的
 unite these:联合这些
 unite together:联合在一起
 unite trade union:联合工会
+unite union:联合联盟
 unite us:联合我们
 unite various:联合各种
 unite vegetable:联合蔬菜
@@ -13585,6 +13627,7 @@ universe do:宇宙做
 universe does:宇宙做
 universe earth:宇宙地球
 universe enter:宇宙进入
+universe entertainment:宇宙娛樂
 universe eve:宇宙夏娃
 universe even:宇宙甚至
 universe eventually:宇宙最终
@@ -13661,6 +13704,7 @@ universe just:宇宙只
 universe keyboard:宇宙键盘
 universe know:宇宙知道
 universe knows:宇宙知道
+universe league:宇宙联盟
 universe let:宇宙让
 universe life:宇宙生命
 universe look:宇宙看
@@ -13742,6 +13786,7 @@ universe study:宇宙研究
 universe suddenly:宇宙突然
 universe support:宇宙支持
 universe survival:宇宙生存
+universe symphony:宇宙交響曲
 universe tear:宇宙撕裂
 universe tell me:宇宙告诉我
 universe tell:宇宙告诉
@@ -14186,6 +14231,8 @@ university about business:大学关于商业
 university about:大学关于
 university abu:大学阿布
 university abu:大學阿布
+university academy:大学学院
+university academy:大學学院
 university accelerate:大学加速
 university accept:大学接受
 university accept:大學接受
@@ -14200,6 +14247,7 @@ university accounting:大学会计学
 university achieve:大学实现
 university achieve:大学达到
 university acquire:大学获得
+university act:大学行动
 university action:大学行动
 university activities and organizations:大学活动和组织
 university activities:大学活动
@@ -14528,6 +14576,7 @@ university attract:大学吸引
 university audience:大学读者
 university audio researchers:大学音频研究人员
 university audio:大学音频
+university auditorium:大學禮堂
 university australia:大学澳大利亚
 university austria:大学奥地利
 university autism expert:大学自闭症专家
@@ -14598,6 +14647,7 @@ university boss:大学老板
 university botany prize:大学植物学奖
 university botany:大学植物学
 university boulevard:大学大道
+university boulevard:大學大道
 university box office:大学票房
 university brain:大学脑
 university branch:大学分支
@@ -14678,6 +14728,7 @@ university championship:大学锦标赛
 university changed me:大学改变了我
 university changed:大学改变了
 university changes:大学变化
+university chapel:大学教堂
 university chaplain:大学牧师
 university chapter:大学章
 university cheating:大学作弊
@@ -14794,6 +14845,7 @@ university college study:大学学院学习
 university college uses:大学学院使用
 university college was established in:大学学院成立于
 university college:大学学院
+university college:大學学院
 university college:大學學院
 university color:大学颜色
 university committee:大学委员会
@@ -14843,6 +14895,7 @@ university conference:大学会议
 university consider:大学考虑
 university consortium:大学财团
 university consortium:大學聯盟
+university constituency:大学选区
 university constitution:大学宪法
 university consultant:大学顾问
 university consultant:大學顧問
@@ -15063,6 +15116,8 @@ university entertainment:大学娱乐
 university entomologist:大學昆蟲學家
 university entomology professor:大学昆虫学教授
 university entomology:大学昆虫学
+university entrance:大学入口
+university entrance:大學入口
 university environment advantages:大学环境优势
 university environment provides:大学环境提供
 university environment:大学环境
@@ -15242,7 +15297,11 @@ university group:大学组
 university guest house (chiangs bldg.):大學賓館 (曙光樓)
 university guests:大学客人
 university gun:大学枪
+university gym:大学体育馆
+university gym:大學體育館
+university gymnasium:大学体育馆
 university gymnasium:大學健身室
+university gymnasium:大學體育館
 university gymnastics:大学体操
 university had been:大学已经
 university had chinese students:大学有中国学生
@@ -15254,6 +15313,7 @@ university hall (performance hall):百週年紀念講堂
 university hall:大学堂
 university hall:大学大厅
 university hall:大學堂
+university hall:大學禮堂
 university handle:大学处理
 university hanover:大学汉诺威
 university has a clear:大学有一个明确的
@@ -15352,7 +15412,9 @@ university hospital of zürich:苏黎世大学医院
 university hospital of zürich:蘇黎世大學醫院
 university hospital wales:大学医院威尔士
 university hospital:大学医院
+university hospital:大學医院
 university hospital:大學醫院
+university hospital:大學醫院前
 university hospital:校医院
 university hospital:校醫院
 university hospital:科大醫院
@@ -15407,6 +15469,7 @@ university install:大学安装
 university institute of technology:大学技术学院
 university institute:大学学院
 university institute:大学研究所
+university institute:大學学院
 university institution:大学制度
 university institutions:大学机构
 university instruction:大学指令
@@ -15582,8 +15645,11 @@ university library was a magical:大学图书馆是一个神奇的
 university library websites:大学图书馆网站
 university library will continue:大学图书馆将继续
 university library:大学图书馆
+university library:大學图书馆
 university library:大學圖書館
+university library:大學圖書館大樓
 university lie:大学谎言
+university life:大學生活
 university like:大学喜欢
 university limit:大学限制
 university line:大学线
@@ -18983,6 +19049,7 @@ university panama:大学巴拿马
 university park and health:大学公园和健康
 university park campus:大学公园校园
 university park:大学公园
+university park:大學公園
 university parking lot:大學停車場
 university part:大学部分
 university participants:大学参与者
@@ -19000,6 +19067,7 @@ university pathway:大学途径
 university payment:大学支付
 university peace and justice:大学和平与正义
 university peace:大学和平
+university peak:大學峰
 university pedagogy:大学教育学
 university people:大学人民
 university people:大學人民
@@ -19054,6 +19122,8 @@ university politics:大学政治
 university pond:大學池
 university population:大学人口
 university population:大學人口
+university portal:大学入口
+university portal:大學入口
 university position:大学位置
 university position:大學位置
 university post code:大学邮政编码
@@ -19142,6 +19212,7 @@ university professor she:大学教授她
 university professor tom:大学教授汤姆
 university professor who:大学教授谁
 university professor:大学教授
+university professor:大學教授
 university professors and bank:大学教授和银行
 university professors and commentator:大学教授与评论员
 university professors and engineers:大学教授和工程师
@@ -19420,6 +19491,7 @@ university sleep:大学睡眠
 university so:大学如此
 university soccer team:大学足球队
 university soccer:大学足球
+university soccer:大學足球
 university social media:大学社交媒体
 university social responsibility:大學社會責任
 university social science:大学社会科学
@@ -19455,6 +19527,7 @@ university sports centre:大學體育中心
 university sports team:大学运动队
 university sports:大学运动
 university square:大学广场
+university stadium:大学体育场
 university stadium:大学体育馆
 university stadium:大學體育場
 university stage:大学阶段
@@ -19763,6 +19836,7 @@ university washington:大学华盛顿
 university water:大学水
 university way:大学路
 university way:大学道
+university way:大學路
 university we find:大学我们发现
 university we:大学我们
 university web site:大学网站
@@ -20114,6 +20188,7 @@ unjha:乌恩贾
 unjon county:云田郡
 unjon county:雲田郡
 unjon station:云田站
+unjon station:雲田站
 unjon-ri:云田里
 unjon-ri:雲田里
 unjon-up:云田邑
@@ -22057,6 +22132,8 @@ unpleasant problem:让人不悦的问题
 unpleasant:让人不悦的
 unpo labor district:云浦劳动者区
 unpo labor district:雲浦勞動者區
+unpo station:云浦站
+unpo station:雲浦站
 unpo:云浦
 unpo:雲浦
 unpredictable family:咣噹啷啷家族
@@ -22141,6 +22218,7 @@ unsaid:不言
 unsan county:云山郡
 unsan county:殷山郡
 unsan county:雲山郡
+unsan line:殷山线
 unsan line:雲山線
 unsan station:殷山站
 unsan-dong:云山洞
@@ -22245,6 +22323,7 @@ unsuccessful ideology:不成功的意识形态
 unsuccessful insemination:不成功的授精
 unsuccessful insurrection:不成功的起义
 unsuccessful interview:不成功的采访
+unsuccessful invasion:不成功的入侵
 unsuccessful investors:不成功的投资者
 unsuccessful italian:不成功的意大利
 unsuccessful iteration:不成功的迭代
@@ -25213,6 +25292,8 @@ unwanted wavelength:不想要的波长
 unwanted:不想要的
 unwin cove:昂溫灣
 unwindia:安文翼龍屬
+unyang station:云阳站
+unyang station:雲陽站
 unyang-dong:云阳洞
 unyang-dong:雲陽洞
 unyang-ri:云阳里

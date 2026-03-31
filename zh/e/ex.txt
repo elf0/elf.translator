@@ -438,6 +438,7 @@ example are map applications:例子是地图应用程序
 example are those:例子是那些
 example areas:例子领域
 example assume:例子假定
+example audio:例子音频
 example based:例子基于
 example call:例子调用
 example cannot:例子不能
@@ -657,6 +658,7 @@ example usage:例子用法
 example uses dynamic array:例子使用动态数组
 example uses:例子使用
 example very:例子非常
+example video:例子视频
 example view:例子视图
 example violate:例子违反
 example was abraham:例子是亚伯拉罕
@@ -2769,6 +2771,7 @@ exchange online services:交换在线服务
 exchange online:交换在线
 exchange operation:交换操作
 exchange operations:交换操作
+exchange operator:交换算子
 exchange operator:交换算符
 exchange opinion:交换意见
 exchange opinion:交换看法
@@ -3205,6 +3208,7 @@ excision theorem:切除定理
 excitating:令人兴奋的
 excitation and inhibit:兴奋和抑制
 excitation signal:兴奋信号
+excitation state:兴奋状态
 excitation system:兴奋系统
 excitation table:激發表
 excitation transfer:兴奋转移
@@ -3256,6 +3260,7 @@ exclusive economic zone of the philippines:菲律宾专属经济区
 exclusive economic zone or continental shelf:专属经济区或大陆架
 exclusive economic zone protection:专属经济区保护
 exclusive economic zone:专属经济区
+exclusive or:逻辑异或
 exclusive port of entry for the zhuhai-macau crossborder industrial zone:珠澳跨境工业区专用口岸
 exclusive:逻辑异
 exclusivism:排外主义
@@ -4040,16 +4045,20 @@ exeter and manchester:埃克塞特和曼彻斯特
 exeter and south devon:埃克塞特和南德文郡
 exeter and york:埃克塞特和约克
 exeter area:埃克塞特地区
+exeter book:埃克塞特书
+exeter books:埃克塞特书
 exeter but we:埃克塞特但我们
 exeter can offer:埃克塞特可以提供
 exeter canal:埃克塞特运河
 exeter castle:埃克塞特城堡
+exeter cathedral:埃克塞特大教堂
 exeter cathedral:埃克塞特座堂
 exeter central railway station:埃克塞特中央站
 exeter city centre:埃克塞特市中心
 exeter college and devon:埃克塞特学院和德文郡
 exeter college:埃克塞特学院
 exeter college:埃克塞特學院
+exeter college:艾克斯特學院
 exeter conference:埃克塞特会议
 exeter from:埃克塞特从
 exeter has an absolute:埃克塞特有一个绝对
@@ -4066,8 +4075,12 @@ exeter st davids railway station:埃克塞特聖戴維斯站
 exeter street:埃克塞特街
 exeter style:埃克塞特风格
 exeter team:埃克塞特团队
+exeter township:埃克塞特鎮區
 exeter township:埃克塞特镇区
+exeter university:埃克塞特大学
 exeter university:埃克塞特大學
+exeter university:艾克斯特大学
+exeter university:艾克斯特大學
 exeter youth:埃克塞特青年
 exeter:埃克塞特
 exeter:艾克斯特
@@ -4490,6 +4503,7 @@ exhibition organize:展览组织
 exhibition pages:展览页
 exhibition painter:展览画家
 exhibition painting:展览绘画
+exhibition park:展覽會公園
 exhibition park:展览公园
 exhibition participants:展览参与者
 exhibition participation and potential:展览参与和潜在
@@ -4956,6 +4970,7 @@ existence or presence:存在或存在
 existence or reality:存在或現實
 existence or threat:存在或威胁
 existence principle:存在原则
+existence problem:存在问题
 existence profile:存在轮廓
 existence prove:存在证明
 existence rather than:存在而不是
@@ -5527,6 +5542,7 @@ exit function:退出函数
 exit g:g出口
 exit game:退出游戏
 exit games:退出游戏
+exit glacier:出口冰川
 exit golf:退出高爾夫球
 exit h:h出口
 exit here:退出这里
@@ -5574,6 +5590,7 @@ exit negotiations:退出谈判
 exit nigeria:退出尼日利亚
 exit nine:退出九
 exit ninety:退出九十
+exit node:出口节点
 exit node:退出节点
 exit nuclear energy:退出核能
 exit operation:退出操作
@@ -5636,6 +5653,7 @@ exit southeast asia:退出东南亚
 exit southeast:退出东南
 exit speed:退出速度
 exit standards:退出标准
+exit state:退出状态
 exit status information:退出状态信息
 exit status:退出状态
 exit strategy:退出战略
@@ -5669,6 +5687,7 @@ exit work:退出工作
 exit world cup:退出世界杯
 exit would give:退出将给
 exit would:退出将
+exit wound:出口伤
 exit wound:退出伤
 exit year:退出年
 exit you:退出你
@@ -6709,6 +6728,7 @@ expel you:驱逐你
 expel:驱逐
 expendable launch system:一次性发射载具
 expenditure minimization problem:支出最小化
+expense account:費用帳戶
 expense and convenience:費用和便利
 expense budget:費用預算
 expense increase:費用增加
@@ -9393,6 +9413,7 @@ experience microsoft news:体验微软新闻
 experience microsoft:体验微软
 experience mixed reality:体验混合现实
 experience mode:体验模式
+experience model:经验模型
 experience modern lighting:体验现代照明
 experience modern:体验现代
 experience modern:体验现代的
@@ -12564,6 +12585,7 @@ expert system program:专家系统程序
 expert system software:专家系统软件
 expert system technology:专家系统技术
 expert system:专家系统
+expert systems:专家系统
 expert tailor:专家裁缝
 expert tasks:专家任务
 expert teach:专家教
@@ -14634,6 +14656,8 @@ exploitation enterprise:剥削企业
 exploitation exploitation:剥削剥削
 exploitation fiction:剥削小说
 exploitation film:剝削電影
+exploitation film:剥削电影
+exploitation films:剥削电影
 exploitation image database:剥削图像数据库
 exploitation image:剥削图像
 exploitation including child labour:剥削包括童工
@@ -14646,6 +14670,8 @@ exploitation legislation amendment:剥削立法修正案
 exploitation legislation:剥削立法
 exploitation market:剥削市场
 exploitation material:剥削材料
+exploitation movie:剥削电影
+exploitation movies:剥削电影
 exploitation no longer:剥削不再
 exploitation of computer system:剥削的计算机系统
 exploitation of natural resources:自然資源開採
@@ -16659,6 +16685,7 @@ explosion was normal:爆炸是正常的
 explosion was so:爆炸是如此
 explosion wave velocity:爆炸波速度
 explosion welding:爆炸焊
+explosion welding:爆炸焊接
 explosion will:爆炸会
 explosion would:爆炸将
 explosion wound:爆炸伤
@@ -16681,8 +16708,11 @@ explosively pumped flux compression generator:爆炸磁通量壓縮發生器
 explosives engineering:爆破工程
 expo 2025 osaka, kansai, japan:2025年日本国际博览会
 expo center south:博览中心南
+expo center:博覽中心
 expo center:博览中心
 expo centre:世博中心
+expo centre:博覽中心
+expo centre:博览中心
 expo commemoration park:萬博紀念公園
 expo drive central:博覽道中
 expo drive east public toilet:博覽道東公廁
@@ -16691,14 +16721,19 @@ expo drive:博覽道
 expo drive:博览道
 expo galleria:博覽商場
 expo hall playground:舞蝶共融遊戲場
+expo line:博览线
 expo mrt station:博覽地鐵站
 expo park:世博嘉园
+expo park:博覽公園
+expo park:博览公园
 expo promenade:博覽海濱花園
 expo road west:博覽西路
 expo road west:博览西路
 expo road west:览西路
 expo shop:史達科技旗艦店
 expo square:世博广场
+expo station:博覽站
+expo station:博览站
 expo stream:世博溪流
 expo tel aviv:特拉維夫會議中心
 expo'70 pavilion:expo’70展馆
@@ -16751,7 +16786,9 @@ exponential format:指数格式
 exponential formats:指数格式
 exponential function class:指数函数类
 exponential function:指数函数
+exponential functions:指数函数
 exponential golomb coding:指数哥伦布码
+exponential growth:指数增长
 exponential growth:指數增長
 exponential hierarchy:指數譜系
 exponential imagination:指数想象
@@ -16761,6 +16798,7 @@ exponential information age:指数信息时代
 exponential information:指数信息
 exponential innovation:指数创新
 exponential integral:指数积分
+exponential integrals:指数积分
 exponential invest:指数投资
 exponential key exchange:指数密钥交换
 exponential manner:指数方式
@@ -16772,6 +16810,7 @@ exponential model:指数模型
 exponential need:指数需要
 exponential notation:指数表示法
 exponential number:指数数
+exponential object:指数对象
 exponential organizations:指数组织
 exponential pattern:指数模式
 exponential performance:指数性能
@@ -16791,7 +16830,9 @@ exponential revenue:指数收入
 exponential rise:指数上升
 exponential rise:指数上涨
 exponential rise:指数增长
+exponential search:指数搜索
 exponential self:指数自我
+exponential sequence:指数序列
 exponential sequences:指数序列
 exponential smoothing methods:指数平滑方法
 exponential smoothing uses:指数平滑使用
@@ -16802,10 +16843,12 @@ exponential success:指数成功
 exponential technologies:指数技术
 exponential technology trend:指数技术趋势
 exponential technology:指数技术
+exponential time:指数时间
 exponential time:指數時間
 exponential transform:指数变换
 exponential trend:指数趋势
 exponential type:指数型
+exponential type:指数类型
 exponential urban sprawl:指数城市蔓延
 exponential value:指数值
 exponential vectors:指数向量
@@ -17340,6 +17383,7 @@ export levels:出口水平
 export license management:出口许可证管理
 export license requirements:出口许可证要求
 export license:出口许可证
+export license:出口贸易许可证
 export line:出口线
 export links:出口链接
 export liquefied natural gas:出口液化天然气
@@ -18335,6 +18379,7 @@ expression in the dark:表达在黑暗中
 expression include:表达包括
 expression increase:表达增加
 expression increased:表达增加了
+expression index:表达式索引
 expression instinct:表达本能
 expression is a clear:表达是一个明确的
 expression is an important:表达是一个重要的
@@ -18344,6 +18389,7 @@ expression issues:表达问题
 expression judaism:表达犹太教
 expression king:表达国王
 expression kingdom:表达王国
+expression language:表达式语言
 expression language:表达语言
 expression languages:表达语言
 expression level:表达水平
@@ -18425,6 +18471,7 @@ expression test:表达测试
 expression that:表达那
 expression theory:表达理论
 expression tools:表达工具
+expression tree:表达式树
 expression typical:表达典型的
 expression value:表达值
 expression vector comprise:表达载体包含
@@ -20773,6 +20820,7 @@ extinct plants:灭绝的植物
 extinct population:灭绝的种群
 extinct proboscidea:灭绝的长鼻目
 extinct race:灭绝的种族
+extinct radionuclide:灭绝的放射性核素
 extinct reptile:灭绝的爬行动物
 extinct shark:灭绝的鲨鱼
 extinct skill:灭绝的技能
@@ -20809,7 +20857,9 @@ extinction due to habitat:灭绝由于栖息地
 extinction due to:灭绝由于
 extinction efforts:灭绝努力
 extinction equation:灭绝方程
+extinction event:灭绝事件
 extinction event:生物集群灭绝
+extinction events:灭绝事件
 extinction expert:灭绝专家
 extinction factors:灭绝因素
 extinction fate:灭绝命运
@@ -22125,6 +22175,7 @@ extra zinc:额外的锌
 extra-time:额外的时间
 extra:额外的
 extracellular adenylate cyclase:胞外腺苷酸环化酶
+extracellular digestion:胞外消化
 extracellular domain:胞外域
 extracellular electron transfer:胞外電子轉移
 extracellular electron:胞外电子

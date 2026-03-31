@@ -768,6 +768,7 @@ kuanshi vil.:寬士村
 kuanshi village:寬士村
 kuantai:宽台
 kuantan airport:关丹机场
+kuantan airport:關丹機場
 kuantan and pahang:关丹和彭亨
 kuantan area:关丹地区
 kuantan city council:关丹市政厅
@@ -844,6 +845,8 @@ kuba elchixonasi:古巴大使馆
 kuba főkonzulátusa:古巴总领事馆
 kuba nagykövetsége:古巴大使馆
 kuba nutome:古巴
+kuba state:古巴州
+kuba state:庫巴州
 kuba station:玖波站
 kuba səfirliyi:古巴大使馆
 kuba-wakare:玖波分
@@ -911,6 +914,7 @@ kubi tsangpo:kù bǐ qū
 kubi tsangpo:库比曲
 kubiao'aman zhan:库林阿曼
 kubiki station:頸城站
+kubiki tunnel:頸城隧道
 kubiki:頸城
 kubiki:颈城
 kubikino:頸城野號列車
@@ -1222,6 +1226,7 @@ kufic:库法体
 kufo departamentas:库福省
 kufra district:库夫拉省
 kufra district:庫夫拉省
+kufra oasis:库夫拉绿洲
 kufra tartomány:库夫拉省
 kufra:库夫拉
 kufra:库夫拉省
@@ -1245,6 +1250,7 @@ kugelis:立陶宛馬鈴薯布丁
 kugelmugel:庫格爾穆格爾共和國
 kugemura station:久下村站
 kugenuma kaigan station:鵠沼海岸站
+kugenuma station:鵠沼站
 kugenuma station:鵠沼車站
 kugenuma:鵠沼
 kugesi:库格西
@@ -1403,6 +1409,9 @@ kuibishan:奎壁山
 kuibyschew:古比雪夫
 kuibyschewer stausee:古比雪夫水库
 kuibyschewo:古比雪沃
+kuibyshev aviation:古比雪夫航空
+kuibyshev reservoir:古比雪夫水库
+kuibyshev reservoir:古比雪夫水庫
 kuibyshev:古比雪夫
 kuibysheve:古比雪韦
 kuibyšev:古比雪夫
@@ -2196,6 +2205,7 @@ kulma pass:阔勒买山口
 kulmain:库尔迈恩
 kulmbach:庫爾姆巴赫
 kulning:北歐牧歌
+kulob airport:庫洛布機場
 kulob:库洛布
 kulob:庫洛布
 kuloisia:kèluódìyà
@@ -2213,12 +2223,14 @@ kulongtai:窟窿台
 kulosaari metro station:库洛岛站
 kulosaari:库洛岛
 kulou:枯蒌
+kuloy river:库洛伊河
 kuloy:库洛伊
 kulp'o-ri:屈浦里
 kulpahar:库尔帕哈尔
 kulsan-ri:窟山里
 kulsari:庫利薩雷
 kulsary:庫利薩雷
+kulsong station:屈松站
 kulsong:屈松
 kultainen portti:金门
 kultainen sarvi:金角湾
@@ -2346,6 +2358,7 @@ kuma jõgi:庫馬河
 kuma kuma kuma bear:熊熊勇闖異世界
 kuma ramen:熊拉麵
 kuma river:庫馬河
+kuma tower:库姆塔
 kuma-gun:球磨郡
 kuma-mura:球磨村
 kuma:库姆
@@ -2383,6 +2396,8 @@ kumamoto castle:熊本城
 kumamoto city transportation bureau:熊本市交通局
 kumamoto domain:熊本藩
 kumamoto earthquake:熊本地震
+kumamoto earthquake:熊本縣地震
+kumamoto earthquakes:熊本縣地震
 kumamoto electric railway:熊本電氣鐵道
 kumamoto kenmin televisions:熊本縣民電視台
 kumamoto prefectural ancient burial mound museum:熊本縣立裝飾古墳館
@@ -2485,6 +2500,7 @@ kumas:库姆
 kumasaki station:熊崎站
 kumasaki:熊崎
 kumase:库马西
+kumasi stadium:库马西体育场
 kumasi university:库马西大学
 kumasi:库马西
 kumasia:基夜蛾属
@@ -2677,6 +2693,7 @@ kumuwaha:库木瓦哈村
 kumya county:金野郡
 kumya line:金野線
 kumya line:金野线
+kumya station:金野站
 kumya:金野
 kumyk language:庫梅克語
 kumyks:庫梅克人
@@ -3328,13 +3345,17 @@ kunming - mohan expressway:昆磨高速
 kunming activity center:昆明活动中心
 kunming activity center:昆明活動中心
 kunming airlines:昆明航空
+kunming airport:昆明機場
 kunming airport:机场中心
+kunming bureau:昆明局
 kunming catfish:昆明鯰
 kunming changshui airport:昆明长水国际机场
 kunming changshui internasjonale lufthavn:昆明长水国际机场
 kunming changshui international airport is china:昆明长水国际机场是中国
 kunming changshui international airport:昆明长水国际机场
 kunming changshui nazioarteko aireportua:昆明长水国际机场
+kunming changshui:昆明长水
+kunming city:昆明城市
 kunming college:昆明学院
 kunming dialect:昆明話
 kunming dianchi international convention and exhibition center:昆明滇池国际会展中心
@@ -3366,6 +3387,7 @@ kunming natural history museum of zoology:昆明动物博物馆
 kunming no.3 middle school:昆明市第三中学
 kunming north railway station:昆明北
 kunming north railway station:昆明北站
+kunming north:昆明北
 kunming open:昆明网球公开赛
 kunming people:昆明市民
 kunming rail transit line 9:昆明轨道交通9号线
@@ -3378,9 +3400,13 @@ kunming south railway station (line 1):昆明南火车站（1号线）
 kunming south railway station (line 4):昆明南火车站（4号线）
 kunming south railway station:昆明南火车站
 kunming south railway station:昆明南站
+kunming south:昆明南
 kunming st. entrance:昆明街口
 kunming st.:昆明街(中医院区)
 kunming st.:昆明街(中醫院區)
+kunming stadium:昆明市体育场
+kunming stadium:昆明體育場
+kunming station:昆明站
 kunming street:kūnmíng jiē
 kunming street:昆明街
 kunming street:昆明路
@@ -3389,6 +3415,7 @@ kunming temple:崑明寺
 kunming tuodong sports center:昆明拓东体育场
 kunming university of science and technology (chenggong campus):昆明理工大学呈贡校区
 kunming university of science and technology:昆明理工大学
+kunming university:昆明大学
 kunming university:昆明学院
 kunming village:鯤溟里
 kunming western areas bus terminal:昆明西部汽车客运站
@@ -3496,6 +3523,7 @@ kunpengopterus:鯤鵬翼龍屬
 kunping:坤平
 kunpocun:坤坡村
 kunqing road:坤慶路
+kunqu actor:昆曲演员
 kunqu art:昆曲艺术
 kunqu:昆曲
 kunqur:昆古爾
@@ -3512,6 +3540,7 @@ kunshacun:坤沙村
 kunshan agricultural expo:kūnshān nóngyè bólǎn guǎn
 kunshan busterminal:昆山汽车客运站
 kunshan chengshiguangchang:崑山城市廣場
+kunshan county:崑山县
 kunshan forest park:昆山市城市生态森林公园
 kunshan library:昆山图书馆
 kunshan middle school of jiangsu province:江苏省昆山中学
@@ -3636,6 +3665,7 @@ kunxi:坤溪
 kunxiang huayu'an:坤祥·花語岸
 kunxiang huayu'an:坤祥·花语岸
 kunya ark:库希纳堡
+kunya river:库尼亚河
 kunya-urgench:库尼亚－乌尔根奇
 kunya:库尼亚
 kunyang camping area:昆陽野營區
@@ -3646,6 +3676,8 @@ kunyang parking lot:昆陽停車場
 kunyang police station:昆陽派出所舊址
 kunyang road:昆阳路
 kunyang station:台北捷運昆陽站
+kunyang station:昆阳站
+kunyang station:昆陽站
 kunyang street:昆陽街
 kunyang:kūn yáng
 kunyang:昆阳
@@ -3786,6 +3818,8 @@ kuolombėjė:哥伦比亚 / 哥倫比亞
 kuolombėjė:哥倫比亞
 kuolongshui:阔龙水
 kuoma:扩马
+kuomintang chairman:中國國民黨主席
+kuomintang government:中國國民黨政府
 kuomintang in burma:泰緬孤軍
 kuomintang of china in america:中國國民黨駐美國總支部
 kuomintang youth league:中國國民黨青年團
@@ -3809,6 +3843,7 @@ kuop:庫奧普環礁
 kuopenhaga:哥本哈根
 kuopijas:庫奧皮奧
 kuopio airport:库奥皮奥机场
+kuopio airport:庫奧皮奧機場
 kuopio cathedral:库奥皮奥主教座堂
 kuopio province:庫奧皮奧省
 kuopio sub region:庫奧皮奧次區
@@ -4046,6 +4081,7 @@ kurashiki city college:仓敷市立短期大学
 kurashiki language academy:仓敷外语学院
 kurashiki local history museum:倉敷物語館
 kurashiki shi station:倉敷市車站
+kurashiki station:倉敷市站
 kurashiki station:倉敷站
 kurashiki-shi:仓敷市
 kurashiki-shi:倉敷市
@@ -4084,6 +4120,7 @@ kurbin district:庫爾賓區
 kurbin:庫爾賓
 kurchaloyevsky district:庫爾恰洛伊區
 kurchatov institute:库尔恰托夫研究所
+kurchatov institute:庫爾恰托夫研究所
 kurchatov, russia:庫爾恰托夫
 kurchatov:庫爾恰托夫
 kurchatovskiy rayon:庫爾恰托夫區
@@ -4294,7 +4331,9 @@ kuresāre:库雷萨雷
 kuretake bamboo:吴竹
 kureyka:庫列伊卡河
 kurgalsky peninsula:科爾加利半島
+kurgan airport:库尔干机场
 kurgan hypothesis:墳塚假說
+kurgan hypothesis:库尔干假说
 kurgan invasion:库尔干入侵
 kurgan oblast:库尔干州
 kurgan oblast:庫爾干州
@@ -4447,6 +4486,7 @@ kuriyama heiwa koen:栗山和平公园
 kuriyama pacparko:栗山和平公园
 kuriyama peace park:栗山和平公园
 kuriyama river:栗山川
+kuriyama station:栗山站
 kuriyama சமாதான பூங்கா:栗山和平公园
 kuriyama-cho:栗山町
 kuriyama-chō:栗山町
@@ -4463,6 +4503,7 @@ kurkinsky district:库尔金斯基区
 kurkul:戈爾戈勒省
 kurkyal chhungo:古加错
 kurla railway station:库尔拉站
+kurland pocket:庫爾蘭口袋
 kurland-istmo:庫爾斯沙嘴
 kurland:庫爾蘭
 kurlandia:庫爾蘭
@@ -4621,6 +4662,8 @@ kurseong:库尔塞奥恩格
 kurshim district:庫爾丘姆區
 kursk base:库尔斯克基地
 kursk battle:库尔斯克战役
+kursk campaign:库尔斯克战役
+kursk campaign:庫爾斯克战役
 kursk governorate:庫爾斯克省
 kursk line:库尔斯克线
 kursk nuclear power plant:库尔斯克核电站
@@ -4628,7 +4671,10 @@ kursk oblast:库尔斯克州
 kursk oblast:庫爾斯克州
 kursk oblastı:库尔斯克州
 kursk oblastı:庫爾斯克州
+kursk offensive:库尔斯克攻势
+kursk offensive:庫爾斯克攻势
 kursk province:库尔斯克省
+kursk province:庫爾斯克省
 kursk railway line:库尔斯克铁路线
 kursk railway:库尔斯克铁路
 kursk region:库尔斯克地区
@@ -4839,6 +4885,7 @@ kusama yayoi pumpkin:草間彌生大型南瓜不銹鋼雕刻
 kusami station:朽网站
 kusamichi station:草道站
 kusanagi no tsurugi:天叢雲劍
+kusanagi station:草薙站
 kusanagi station:草薙車站
 kusanagi:草薙
 kusar:庫薩雷
@@ -4853,6 +4900,7 @@ kusatsu line:草津線
 kusatsu minami station:草津南站
 kusatsu onsen:草津温泉
 kusatsu sen:草津線
+kusatsu station:草津町站
 kusatsu station:草津車站
 kusatsu-higashimachi:草津东町
 kusatsu-higashimachi:草津東町
@@ -4998,6 +5046,7 @@ kusnîșcea:庫斯尼夏
 kuso miso technique:瞎攪和的技術
 kuso:惡搞文化
 kusoge:劣質遊戲
+kusong station:龜城站
 kusong station:龟城站
 kusong-si:龜城市
 kusong-si:龟城市
@@ -5265,6 +5314,7 @@ kuuriyada waqooyi:朝鲜 / 北韓
 kuurne:屈尔讷
 kuusalu parish:库萨卢
 kuusamo airport:库萨莫机场
+kuusamo airport:庫薩莫機場
 kuusamo:庫薩莫
 kuusankoski:庫桑科斯基
 kuusiokunnat:六市鎮次區
@@ -5420,6 +5470,8 @@ kuwait and venezuela:科威特与委内瑞拉
 kuwait and venezuela:科威特和委内瑞拉
 kuwait area:科威特地区
 kuwait armed forces:科威特军事
+kuwait army:科威特军队
+kuwait army:科威特陆军
 kuwait asbestos:科威特石棉
 kuwait at the olympics:奥林匹克运动会科威特代表团
 kuwait back:科威特回
@@ -5436,6 +5488,7 @@ kuwait city and qatar:科威特城和卡塔尔
 kuwait city:科威特城
 kuwait city:科威特市
 kuwait conference:科威特会议
+kuwait constitution:科威特宪法
 kuwait continues:科威特继续
 kuwait country:科威特国家
 kuwait crown prince cup:科威特王儲盃
@@ -5473,6 +5526,7 @@ kuwait investment fund:科威特投资基金
 kuwait investment:科威特投资
 kuwait is a shop:科威特是一个购物
 kuwait is china:科威特是中國
+kuwait liberation:科威特解放
 kuwait look:科威特看
 kuwait marathon:科威特马拉松
 kuwait market:科威特市场
@@ -5483,6 +5537,7 @@ kuwait national day:科威特国庆日
 kuwait national football team:科威特國家男子足球隊
 kuwait national petroleum company:科威特國營石油公司
 kuwait national:科威特国家的
+kuwait navy:科威特海军
 kuwait news agency:科威特通讯社
 kuwait now:科威特现在
 kuwait nutome:kēwēitè
@@ -5495,6 +5550,7 @@ kuwait olympic committee:科威特奧林匹克委員會
 kuwait or norway:科威特或挪威
 kuwait organize:科威特组织
 kuwait own:科威特拥有
+kuwait parliament:科威特国会
 kuwait parliament:科威特议会
 kuwait petroleum corporation:科威特石油集團公司
 kuwait petroleum:科威特石油
@@ -5502,6 +5558,7 @@ kuwait plans:科威特计划
 kuwait premier league:科威特超級足球聯賽
 kuwait projects company:科威特项目公司
 kuwait projects:科威特项目
+kuwait protectorate:科威特保护国
 kuwait qatar:科威特卡塔尔
 kuwait rather than:科威特而不是
 kuwait receive:科威特收
@@ -5529,6 +5586,7 @@ kuwait trade center:科威特贸易中心
 kuwait transportation:科威特运输
 kuwait university student activities:科威特大学学生活动
 kuwait university:科威特大学
+kuwait university:科威特大學
 kuwait very:科威特非常
 kuwait war:科威特战争
 kuwait was the only:科威特是唯一的
@@ -5546,9 +5604,19 @@ kuwait:科威特
 kuwait:科威特市
 kuwaita ambassáda:科威特大使馆
 kuwaiteko enbaxada:科威特大使馆
+kuwaiti army:科威特军队
+kuwaiti army:科威特陆军
 kuwaiti dinar:科威特第納爾
 kuwaiti division one:科威特甲組足球聯賽
+kuwaiti economy:科威特经济
+kuwaiti emir:科威特埃米爾
+kuwaiti government:科威特政府
+kuwaiti military:科威特军事
+kuwaiti military:科威特军队
+kuwaiti military:科威特軍隊
+kuwaiti navy:科威特海军
 kuwaiti oil fires:科威特油田大火
+kuwaiti parliament:科威特国会
 kuwaiti passport:科威特护照
 kuwaiti progressive movement:科威特进步运动
 kuwaiti:kēwēitè

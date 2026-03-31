@@ -573,6 +573,7 @@ dead jesus:死的耶穌
 dead key:死鍵
 dead kill:死的杀
 dead king:死的国王
+dead language:死的語言
 dead language:死语
 dead leg:死的腿
 dead letter:死的字母
@@ -1681,6 +1682,7 @@ deainomiya:出合宮
 deakin bay:迪金灣
 deakin business school:迪肯商學院
 deakin university:迪肯大學
+deakin university:迪金大學
 deakin:迪金
 deal another:处理另一个
 deal any:处理任何
@@ -1919,6 +1921,7 @@ deanery:總鐸區
 deangelo glacier:德安傑洛冰川
 deania:田氏鯊屬
 deanie ip:葉德嫻
+deansgate station:丁斯盖特站
 deansgate:丁斯盖特
 deapara:德奥波拉
 dear basketball:親愛的籃球
@@ -1965,6 +1968,7 @@ death agreement:死亡协议
 death agreement:死协议
 death all:死亡所有
 death all:死所有的
+death alley:死巷
 death already:死亡已经
 death also:死亡也
 death always:死亡总是
@@ -2190,6 +2194,7 @@ death avenue:死亡大道
 death await:死亡等
 death await:死亡等待
 death await:死等待
+death ball:死球
 death banded snake eel:大額蛇鰻
 death battalion:死亡营
 death battle:死亡战役
@@ -2212,6 +2217,8 @@ death begin:死亡开始
 death benefit association:死亡福利协会
 death benefit:死亡利益
 death benefit:死亡福利
+death bird:死亡鸟
+death birds:死亡鸟
 death bowl:死亡碗
 death box:死亡盒子
 death breathing:死亡呼吸
@@ -2255,6 +2262,7 @@ death centre:死亡中心
 death certificate:死亡證
 death certification:死亡认证
 death chair:死亡椅子
+death challenge:死亡挑战
 death challenges:死亡挑战
 death change:死改变
 death changed everything:死亡改变了一切
@@ -2299,6 +2307,7 @@ death data:死数据
 death database provides estimate:死亡数据库提供估计
 death database:死亡数据库
 death date:死亡日期
+death date:死亡约会
 death day:死亡日
 death debate:死亡辩论
 death debate:死亡辯論
@@ -2310,6 +2319,7 @@ death decisions:死亡决策
 death decisions:死决定
 death decisions:死决策
 death declaration:死亡声明
+death deity:死神
 death deprive:死亡剥夺
 death design:死亡设计
 death destroy:死亡摧毁
@@ -2379,9 +2389,11 @@ death fish:死鱼
 death five:死五
 death five:死亡五
 death flag:死亡旗
+death flight:死亡飞行
 death flights:死亡飞行
 death follow:死亡跟随
 death for:死为了
+death force:死亡力
 death forever:死永远
 death form:死亡形式
 death found them:死亡找到他们
@@ -2394,6 +2406,7 @@ death fugue:死亡赋格
 death fund:死亡基金
 death game:死亡游戏
 death game:死游戏
+death games:死亡游戏
 death give you a new:死亡给你一个新的
 death give you:死亡给你
 death give:死亡给
@@ -2410,6 +2423,7 @@ death has been:死亡已经
 death he:死亡他
 death he:死他
 death head:死头
+death heart:死心
 death here:死亡这里
 death hoax:死亡骗局
 death i am not sure:死我不确定
@@ -2564,10 +2578,12 @@ death makeup:死化妆
 death many times:死亡多次
 death many:死很多
 death march to the parallel world rhapsody:爆肝工程師的異世界狂想曲
+death march:死亡游行
 death march:死亡行軍
 death mark:死亡标记
 death mask i:死亡面具我
 death mask:死亡面具
+death mask:死面具
 death master:死亡大师
 death matter:死问题
 death may end our:死亡可以结束我们的
@@ -2578,6 +2594,7 @@ death means:死意味着
 death mechanism:死亡机制
 death mechanisms:死亡机制
 death messenger:死亡使者
+death metal:死亡金属
 death metal:死亡金屬音樂
 death millions:死数百万
 death mission:死亡任务
@@ -2654,6 +2671,7 @@ death of universe:死亡的宇宙
 death of wang yue:小悦悦事件
 death of wei zexi:魏则西事件
 death of yu qiyi:於其一事件
+death of:死的
 death often:死亡常常
 death on the nile:尼羅河謀殺案
 death on the road:死在路上
@@ -2699,12 +2717,15 @@ death order:死命令
 death organ:死亡器官
 death organizations:死亡组织
 death outcome:死亡结果
+death parade:死亡游行
 death parade:死亡遊行
+death party:死亡派對
 death party:死党
 death pathway:死亡途径
 death patients:死亡患者
 death patients:死患者
 death pattern:死亡模式
+death phantom:死亡幻觉
 death phenomena:死亡现象
 death phenomena:死现象
 death photography:死亡摄影
@@ -2730,6 +2751,7 @@ death process:死过程
 death product:死产品
 death program:死亡程序
 death project:死亡项目
+death proof:死亡證明
 death proof:死亡证据
 death proof:金刚不坏
 death proposition:死命题
@@ -2738,11 +2760,14 @@ death prove:死证明
 death provide:死亡提供
 death provide:死提供
 death pump:死亡泵
+death punk:死亡朋克
+death punk:死亡龐克
 death qualified jury:死刑案陪審團
 death question:死问题
 death questions:死问题
 death race and jupiter:死亡竞赛和木星
 death race:死亡竞赛
+death railroad:死亡鐵路
 death railroad:死亡铁路
 death railway museum and research centre:死亡鐵路博物館和研究中心
 death railway viaduct:桂河大桥
@@ -2881,6 +2906,7 @@ death this:死这
 death thought:死亡思想
 death threat letter:死亡威胁信
 death threat:死亡威胁
+death threats:死亡威胁
 death three:死三
 death three:死亡三
 death through:死亡通过
@@ -2912,6 +2938,7 @@ death treatment:死亡对待
 death trend:死亡趋势
 death trial begin:死亡审判开始
 death trial:死亡审判
+death trilogy:死亡三部曲
 death trip:死亡旅程
 death trying:死亡试图
 death tunnel:死亡隧道
@@ -2981,6 +3008,7 @@ death was total:死亡是总的
 death was voluntary:死是自愿的
 death was you:死亡是你
 death watch:死亡手表
+death watch:死亡表
 death we seek:死亡我们寻找
 death we:死亡我们
 death weapon:死亡武器
@@ -3051,6 +3079,7 @@ deathstalker:以色列金蠍
 deatley island:德阿特利島
 deauville american film festival:多维尔美国电影节
 deauville asian film festival:多维尔亚洲电影节
+deauville racecourse:多維爾馬場
 deauville:多維爾
 deauville:星岸
 dea’ kitchen:蒂兒廚房早午餐
@@ -3462,10 +3491,14 @@ debout la france:法国崛起
 deboye:德博耶
 deboyne islands:德博因群島
 debre ili:第巴爾州
+debrecen airport:德布勒森機場
 debrecen and paris:德布勒森和巴黎
 debrecen currently:德布勒森目前
 debrecen district:德布勒森区
 debrecen is hungary:德布勒森是匈牙利
+debrecen offensive:德布勒森攻势
+debrecen university:德布勒森大学
+debrecen university:德布勒森大學
 debrecen:德布勒森
 debrecena:德布勒森
 debrecenas:德布勒森
@@ -4194,6 +4227,8 @@ debugging test case:调试测试用例
 debugging these:调试这些
 debugging time:调试时间
 debugging times:调试次数
+debugging tool:调试工具
+debugging tools:调试工具
 debugging version:调试版本
 debugging very:调试非常
 debugging websites:调试网站
@@ -4214,11 +4249,14 @@ debutante ball:元媛舞會
 debutante detective corps:孃樣搜查網
 debutante island:德布唐特島
 debye function:德拜函数
+debye functions:德拜函数
 debye length may reach macroscopic:德拜长度可以达到宏观的
 debye length may reach:德拜长度可以达到
 debye length:德拜长度
+debye lengths:德拜长度
 debye model:德拜模型
 debye solid:德拜固体的
+debye sphere:德拜球
 debye temperature:德拜温度
 debye:德拜
 debyossky district:傑比奧瑟區
@@ -4341,9 +4379,11 @@ december apple:十二月苹果
 december boys:十二月男孩
 december cash:十二月现金
 december coffee:十二月咖啡
+december constitution:十二月宪法
 december cover:十二月封面
 december elections:十二月选举
 december events:十二月事件
+december flower:十二月花
 december full moon:十二月满月
 december give:十二月给
 december global:十二月全球
@@ -4363,6 +4403,7 @@ december or january:十二月或一月
 december report:十二月報告
 december security update:十二月安全更新
 december security:十二月安全
+december solstice:十二月至點
 december storm:十二月风暴
 december term:十二月学期
 december to february:十二月到二月
@@ -5051,7 +5092,9 @@ decimal computer:十进制计算机
 decimal conversion:十进制转换
 decimal currency:十进制货币
 decimal data type:十进制数据类型
+decimal day:十进制日
 decimal day:十進制日
+decimal degree:十进制度
 decimal digit:十进制数字
 decimal float:十进制浮点数
 decimal form:十进制形式
@@ -5637,7 +5680,9 @@ decision power:决定力量
 decision prediction:决策预测
 decision prevent:决定阻止
 decision principle:决策原则
+decision problem:决策问题
 decision problem:決定性問題
+decision problems:决策问题
 decision procedure:决策程序
 decision process and factors:决策过程和因素
 decision process was automatic:决策过程是自动的
@@ -5770,6 +5815,7 @@ decision tasks:决策任务
 decision technologies:决策技术
 decision testing:决策测试
 decision theory and economics:决策论和经济学
+decision theory:决策理论
 decision theory:决策论
 decision they:决定他们
 decision this week:决定本周
@@ -6864,6 +6910,9 @@ decomino:十格骨牌
 decommodification:去商品化
 decommunization in russia:俄罗斯去共产主义化
 decommunization in ukraine:乌克兰去共产主义化
+decommunization law:去共化法律
+decommunization laws:去共化法律
+decommunization policies:去共化政策
 decommunization:去共化
 decompiler:反編譯器
 decompose and decay:分解和腐烂
@@ -9685,6 +9734,7 @@ default game mode:默认游戏模式
 default game:默认游戏
 default garbage:默认垃圾
 default gateway:預設閘道
+default gateway:默认网关
 default goal:默认目标
 default graph:默认图形
 default graphical user interface desktop:默认图形用户界面桌面
@@ -10593,6 +10643,7 @@ defence committee visit:国防委员会访问
 defence committee yes:国防委员会是
 defence committee:国防委员会
 defence committee:防卫委员会
+defence company:防卫连
 defence cooperation:防卫合作
 defence council of the united kingdom:英國國防委員會
 defence council:防卫委员会
@@ -10634,6 +10685,8 @@ defence look:防守看
 defence manual:防卫手册
 defence markets:防卫市场
 defence mechanism:心理防卫机制
+defence mechanism:防卫机制
+defence mechanisms:防卫机制
 defence method:防守方法
 defence minister abdullah:国防部长阿卜杜拉
 defence minister ahmad:国防部长艾哈迈德
@@ -11067,6 +11120,7 @@ defense development:防御发展
 defense development:防御开发
 defense device:防御设备
 defense devices:防御设备
+defense diplomacy:防御外交
 defense distinguished service medal:國防傑出服役獎章
 defense division:防御师
 defense dollar:防御美元
@@ -11126,6 +11180,7 @@ defense infrastructure:防御基础设施
 defense initiative:防御倡议
 defense institute and trend:防御研究所和趋势
 defense institute:防御研究所
+defense institute:防衛研究所
 defense intelligence agency official:美國國防情報局官員
 defense intelligence agency:美國國防情報局
 defense intelligence headquarters:防衛省情報本部
@@ -11166,6 +11221,7 @@ defense mechanisms do:防御机制做
 defense mechanisms include rationalization:防御机制包括合理化
 defense mechanisms include:防御机制包括
 defense mechanisms:防御机制
+defense medal:防衛獎章
 defense medical research:防御医学研究
 defense meeting:防御会议
 defense meritorious service medal:国防部军功奖章
@@ -11330,6 +11386,7 @@ defense technologies:防御技术
 defense technology development direction:防御技术发展方向
 defense technology research:防御技术研究
 defense technology:防御技术
+defense technology:防衛科技
 defense test mission:防御测试任务
 defense test:防御测试
 defense testing mission:防御测试任务
@@ -12644,6 +12701,7 @@ defu mrt station:德福地铁站
 defu plaza:德福广场
 defu plaza:德福廣場
 defu road:德富路
+defu station:德福站
 defu street:得福街
 defu street:德富街
 defu:德福
@@ -12670,6 +12728,7 @@ degaolun:德高倫
 degaussing:退磁
 degba:德巴村
 degbu:迪波
+dege county:德格县
 dege monastery:德格寺
 dege parkhang:德格印经院
 dege:地各村
@@ -12805,6 +12864,7 @@ degree customer view:度客户视图
 degree customer:度客户
 degree data view:度数据视图
 degree data:度数据
+degree day:度日
 degree day:日度差
 degree deformity:度畸形
 degree depth data:度深度数据
@@ -13416,6 +13476,8 @@ degree security:度安全
 degree selfie:度自拍
 degree sensor process:度传感器处理
 degree sensor:度传感器
+degree sequence:度序列
+degree sequences:度序列
 degree series:度系列
 degree service:度服务
 degree sitting:度坐
@@ -13624,6 +13686,7 @@ dehou village:德厚里
 dehou:德厚镇
 dehqanla:迪汗拉村
 dehra compass:迪拉山口
+dehradun airport:台拉登機場
 dehradun district:台拉登县
 dehradun:台拉登
 dehri:德赫里
@@ -13679,6 +13742,7 @@ dehui service area:德惠服务区
 dehui street:德惠街
 dehui web site:德惠市网站
 dehui west railway station:德惠西站
+dehui west:德惠西
 dehui xinhe:德惠新河
 dehui:déhuì shì
 dehui:德惠
@@ -13722,6 +13786,7 @@ dehydration problem:脱水问题
 dehydration process:脱水过程
 dehydration production:脱水生产
 dehydration reaction:失水反应
+dehydration reaction:脱水反应
 dehydration sometimes:脱水有时
 dehydration speed:脱水速度
 dehydration synthesis methods:脱水合成方法
@@ -13926,7 +13991,9 @@ deja vu hotel:喬合大飯店
 dejeng:得正
 dejhih street:德智街
 dejhong road:德中路
+deji dam:德基水庫
 deji plaza:德基广场
+deji plaza:德基廣場
 deji street:德吉街
 deji:德吉
 deji:德吉村
@@ -14085,6 +14152,7 @@ delaware corporation:特拉华州公司
 delaware council:特拉华州委员会
 delaware county:特拉华州县
 delaware county:特拉華縣
+delaware court:德拉瓦州法院
 delaware court:特拉华州法院
 delaware courts:特拉华州法院
 delaware crop protection research:特拉华州农作物保护研究
@@ -14120,6 +14188,7 @@ delaware supreme court:特拉华州最高法院
 delaware tercentenary half dollar:特拉华州三百周年半美元
 delaware theatre:特拉华州剧院
 delaware township:特拉华镇区
+delaware university:特拉华州大学
 delaware valley:德拉瓦谷
 delaware's at large congressional district:特拉華州單一國會選區
 delaware:德拉瓦州
@@ -14369,6 +14438,7 @@ delete data records:删除数据记录
 delete data:删除数据
 delete database:删除数据库
 delete deleted:删除已删除的
+delete discussion:删除讨论
 delete disease genes:删除疾病基因
 delete disease:删除疾病
 delete documents:删除文件
@@ -14409,6 +14479,7 @@ delete him:删除他
 delete his crap:删除他的废话
 delete his email:删除他的电子邮件
 delete his photo:删除他的照片
+delete history:删除历史
 delete icon:删除图标
 delete identifier:删除标识符
 delete illegal gun:删除非法枪
@@ -14642,6 +14713,8 @@ deleted as well as:已删除的以及
 deleted clinton emails:已删除的克林顿电子邮件
 deleted clinton:已删除的克林顿
 deleted contact:已删除的联系
+deleted content:已删除的内容
+deleted contributions:已删除的贡献
 deleted data:已删除的数据
 deleted disk:已删除的磁盘
 deleted documents:已删除的文件
@@ -14692,6 +14765,8 @@ deletion branch:删除分支
 deletion centre:删除中心
 deletion command:删除命令
 deletion command:刪除命令
+deletion discussion:删除讨论
+deletion discussions:删除讨论
 deletion due to third party:删除由于第三方
 deletion due to:删除由于
 deletion event:删除事件
@@ -14705,10 +14780,12 @@ deletion heterozygote:缺失杂合子
 deletion information:删除信息
 deletion is a more complex:删除是一个更复杂的
 deletion issues:删除问题
+deletion log:删除日志
 deletion marker:删除标记
 deletion method:删除方法
 deletion methods:删除方法
 deletion methods:刪除方法
+deletion mutation:删除突变
 deletion mutation:缺失突变
 deletion of all files:删除的所有文件
 deletion of documents:删除的文件
@@ -14734,6 +14811,8 @@ deletion policy:删除政策
 deletion policy:刪除政策
 deletion problem:删除问题
 deletion procedure:删除程序
+deletion procedure:刪除程序
+deletion process:删除处理
 deletion process:删除过程
 deletion real:删除真的
 deletion reason:刪除原因
@@ -14745,6 +14824,7 @@ deletion study:缺失研究
 deletion syndrome:缺失症候群
 deletion syndrome:缺失综合症
 deletion tool:删除工具
+deletion tools:刪除工具
 deletion use:删除使用
 deletion we:删除我们
 deletion:删除
@@ -14762,6 +14842,7 @@ delft and the hague:代尔夫特和海牙
 delft blue:代尔夫特蓝色
 delft citizen:代尔夫特公民
 delft city hall:台夫特市政廳
+delft colony:代爾夫特殖民地
 delft design approach:代尔夫特设计方法
 delft design:代尔夫特设计
 delft island:代尔夫特岛
@@ -14769,6 +14850,7 @@ delft located:代尔夫特位于
 delft museum:代尔夫特博物馆
 delft national park:代爾夫特國家公園
 delft pottery:代尔夫特陶器
+delft pottery:代爾夫特陶器
 delft railway station:台夫特車站
 delft researchers:代尔夫特研究人员
 delft students:代尔夫特学生
@@ -14849,6 +14931,7 @@ delhi despite:德里尽管
 delhi development:德里发展
 delhi dialogue:德里对话
 delhi diary:德里日记
+delhi diocese:德里教區
 delhi durbar:德里杜爾巴
 delhi embassy:德里大使馆
 delhi every day:德里每天
@@ -14925,6 +15008,7 @@ delhi transport:德里运输
 delhi university college:德里大学学院
 delhi university professor:德里大学教授
 delhi university:德里大学
+delhi university:德里大學
 delhi urdu:德里乌尔都语
 delhi uses around:德里使用大约
 delhi uses:德里使用
@@ -14945,6 +15029,7 @@ deli bank:日里银行
 deli community:德立社区
 deli place:享膳坊
 deli serdang regency:日里雪冷县
+deli serdang:德里沙登
 deli street:德利街
 deli:德利
 deli:德里
@@ -15030,6 +15115,7 @@ deling tomb:德陵
 deling:德陵村
 delingha airport:délìnghā jīchǎng
 delingha airport:德令哈机场
+delingha airport:德令哈機場
 delingha city:délìnghā shì
 delingha city:德令哈市
 delingha railway station:德令哈北
@@ -15163,6 +15249,7 @@ dellach im drautal:德劳河谷德拉赫
 dellach:德拉什
 dellaglioa:德拉格里奥氏菌属
 dellbridge islands:德爾布里奇群島
+delle station:代勒站
 delle:代勒
 dellfeld:代尔费尔德
 delligsen:代利格森
@@ -15797,6 +15884,7 @@ demand currently:需求目前
 demand curve and marginal revenue curve:需求曲线与边际收益曲线
 demand curve would:需求曲线将
 demand curve:需求曲线
+demand curves:需求曲线
 demand customer:需求客户
 demand data analytics:需求数据分析
 demand data:需求数据
@@ -16462,6 +16550,7 @@ dembei:傳兵衛
 dembela:登貝拉
 dembeni:登贝尼
 dember effect:登伯效应
+dembidolo airport:登比多洛機場
 dembidolo:登比多洛
 dembos:登博斯
 dembéni:登贝尼县
@@ -17013,6 +17102,7 @@ democracy is taiwan:民主是台湾
 democracy is the only stable:民主是唯一稳定的
 democracy issue:民主问题
 democracy issues:民主问题
+democracy journal:民主期刊
 democracy just:民主只
 democracy leader:民主領袖
 democracy leader:民主领袖
@@ -17761,6 +17851,7 @@ democratic socialism and workers democracy:民主社会主义和工人民主
 democratic socialism and workers:民主社会主义和工人
 democratic socialism means:民主社会主义意味着
 democratic socialism means:民主社会主义意味著
+democratic socialism:民主的社会主义
 democratic socialism:民主社会主义
 democratic socialist alternative:民主的社会主义替代
 democratic socialist left:民主社会主义左翼
@@ -18155,6 +18246,7 @@ demon cannot:邪靈不能
 demon cat:恶魔猫
 demon core:恶魔核心
 demon gaze:魔眼凝望
+demon girl:邪靈女孩
 demon kakka:小暮閣下
 demon king daimao:最後大魔王
 demon point:德蒙角
@@ -18358,6 +18450,7 @@ demosaicing:去馬賽克
 demoscene:演景
 demosisto:香港眾志
 demoso district:代莫索县
+demoso township:代莫索鎮區
 demoso township:代莫索镇区
 demoso:代莫索
 demosponge:寻常海绵纲
@@ -19186,6 +19279,7 @@ dengshanwuji:登山屋脊
 dengshi kou station:灯市口站
 dengshibaozi:dēngshìbǎozǐ zhèn
 dengshibaozi:登仕堡子镇
+dengshikou station:灯市口站
 dengshikou:灯市口
 dengshiqiao:邓石桥
 dengshuang:邓双
@@ -19196,6 +19290,7 @@ dengsui lu entrance:登穗路口站
 dengta city:dēngtǎ shì
 dengta city:灯塔市
 dengta city:燈塔市
+dengta county:灯塔县
 dengta logistics:灯塔物流
 dengta logistics:燈塔物流
 dengta reservoir:灯塔水库
@@ -19298,10 +19393,12 @@ dengzhong:登仲
 dengzhou 2nd street:登洲二街
 dengzhou city:邓州市
 dengzhou city:鄧州市
+dengzhou east:邓州东
 dengzhou road:dēngzhōu lù
 dengzhou road:登州路
 dengzhou spring:登州泉
 dengzhou station:登洲站
+dengzhou station:邓州站
 dengzhou subdistrict:登州街道
 dengzhou:dèngzhōu shì
 dengzhou:登州街道
@@ -19398,6 +19495,7 @@ denitrification:反硝化反应
 denitrobacterium:反硝化杆菌属
 denizciler:德尼茲吉萊爾
 denizli province:代尼兹利省
+denizli province:代尼茲利省
 denizli:代尼茲利
 denizli:尼兹利省
 denizlis:尼兹利省
@@ -19608,6 +19706,7 @@ denmark conservative people's party:丹麦保守人民党
 denmark continue:丹麦继续
 denmark continues:丹麦继续
 denmark control:丹麦控制
+denmark copenhagen:丹麥哥本哈根
 denmark copenhagen:丹麦哥本哈根
 denmark cover:丹麦涵盖
 denmark currently:丹麦目前
@@ -19670,6 +19769,7 @@ denmark nutome:丹麥
 denmark nutome:丹麦
 denmark nutome:丹麦 / 丹麥
 denmark offer:丹麦提供
+denmark olympic:丹麥奧運
 denmark once:丹麦曾经
 denmark open:丹麦羽毛球公开赛
 denmark or finland:丹麦或芬兰
@@ -19704,10 +19804,12 @@ denmark the:丹麦这
 denmark this year:丹麦今年
 denmark through:丹麦通过
 denmark too:丹麦也
+denmark township:丹麥鎮區
 denmark train:丹麦火车
 denmark university:丹麦大学
 denmark veil:丹麦面纱
 denmark vestas:丹麦维斯塔斯
+denmark vikings:丹麥維京人
 denmark visa application centre:丹麥簽證申請中心
 denmark visa application centre:丹麦签证申请中心
 denmark was founded in:丹麦成立于
@@ -20043,6 +20145,7 @@ density from:密度从
 density fuel:密度燃料
 density function:密度函数
 density functional theory:密度泛函理論
+density functions:密度函数
 density galaxy:密度星系
 density garden:密度花园
 density gas:密度气体
@@ -20112,6 +20215,7 @@ density master:密度大师
 density material:密度材料
 density materials:密度材料
 density matrix renormalization group:密度矩陣重整化群
+density matrix:密度矩阵
 density matrix:密度矩陣
 density means diversity:密度意味着多样性
 density means modern buildings:密度意味着现代建筑
@@ -20150,6 +20254,7 @@ density of states:状态密度
 density of the universe:宇宙密度
 density only:密度只有
 density open:密度开
+density operator:密度算子
 density optical disc:密度光碟
 density optimization:密度优化
 density option:密度选项
@@ -20649,11 +20754,13 @@ denver team:丹佛队
 denver they:丹佛他们
 denver to chicago:丹佛到芝加哥
 denver today:丹佛今天
+denver township:丹佛鎮區
 denver township:丹佛镇区
 denver traffic:丹佛交通
 denver trend:丹佛趋势
 denver union station:丹佛聯合車站
 denver university:丹佛大学
+denver university:丹佛大學
 denver west:丹佛西
 denver win:丹佛赢得
 denver zephyr:丹佛微风号列车
@@ -20726,6 +20833,7 @@ deokcheon 2(i)-dong:德川2洞
 deokcheon 2-dong:德川2洞
 deokcheon 3(sam)-dong:德川3洞
 deokcheon 3-dong:德川3洞
+deokcheon station:德川站
 deokcheon-dong:德川洞
 deokcheon-myeon:德川面
 deokcheon-ri:德泉里
@@ -21313,6 +21421,7 @@ department news:部门新闻
 department no longer:部门不再
 department notice:部门注意
 department now:部门现在
+department number:系数
 department of administration:管理系
 department of administration:管理部门
 department of agriculture and food:農業食品部
@@ -22130,6 +22239,7 @@ dependence or death:依赖或死亡
 dependence patients:依赖患者
 dependence phenomena:依赖现象
 dependence potential:依赖潜力
+dependence relation:依赖关系
 dependence relationship:依赖关系
 dependence risk rise:依赖风险上升
 dependence risk:依赖风险
@@ -22167,6 +22277,9 @@ dependency from:依赖从
 dependency functions:依赖功能
 dependency generation:依赖生成
 dependency generator:依赖生成器
+dependency grammar:依赖语法
+dependency grammars:依赖语法
+dependency hell:依赖地狱
 dependency hell:相依性地狱
 dependency help:依赖帮助
 dependency information:依赖信息
@@ -22208,6 +22321,7 @@ dependency means:依赖意味着
 dependency model allow:依赖模型允许
 dependency model:依赖模型
 dependency module:依赖模块
+dependency network:依赖网络
 dependency paradox:依赖悖论
 dependency parser:依赖分析器
 dependency principle:依赖原则
@@ -24041,6 +24155,7 @@ depoh sungai buloh:双溪毛糯车辆段
 depoh sungai buloh:雙溪毛糯車輛段
 depok:德博
 depok:德博市
+depolarization ratio:去极化比
 depolarization:去极化
 deportation agent:驱逐出境代理人
 deportation also had another:驱逐出境也有另一个
@@ -24754,6 +24869,7 @@ deqing county:déqìng xiàn
 deqing county:déqīng xiàn
 deqing county:德庆县
 deqing county:德慶
+deqing county:德慶县
 deqing county:德慶縣
 deqing county:德清
 deqing county:德清县
@@ -24859,6 +24975,7 @@ dera language:德拉語
 dera murad jamali:德贾马利
 dera:德拉
 dera:德拉省
+deraa province:德拉省
 deraa:德拉
 deraeocoris:齿爪盲蝽属
 derafsh kaviani:卡維之旗
@@ -24913,6 +25030,7 @@ derbur river:déĕrbùĕr hé
 derbur river:得尔布尔河
 derbur river:得爾布爾河
 derby airport:德比机场
+derby airport:德比機場
 derby always:德比总是
 derby and birmingham:德比和伯明翰
 derby and derby:德比和德比
@@ -24925,10 +25043,14 @@ derby boss frank:德比老板弗兰克
 derby boss said:德比老板说
 derby boss:德比老板
 derby breton:布列塔尼德比
+derby canal:德比运河
+derby cathedral:德比主教座堂
+derby cathedral:德比大教堂
 derby cathedral:德比座堂
 derby champions:德比冠军
 derby city council:德比市议会
 derby close:德比关闭
+derby college:德比學院
 derby conference centre:德比会议中心
 derby conference:德比会议
 derby continue:德比继续
@@ -24942,6 +25064,7 @@ derby defeat:德比击败
 derby della capitale:羅馬德比
 derby della madonnina:米蘭德比
 derby della mole:都靈德比
+derby diocese:德比教區
 derby ever:德比曾经
 derby from:德比从
 derby games:德比游戏
@@ -24964,9 +25087,11 @@ derby meeting:德比会议
 derby missile:德比导弹
 derby museum and art gallery:德比博物馆与艺术画廊
 derby museum:德比博物馆
+derby north:打比北
 derby of the americas:美洲德比
 derby online:德比在线
 derby opponent:德比对手
+derby parish:德比教区
 derby participants:德比参与者
 derby prison tree:德比监狱树
 derby prison:德比监狱
@@ -24980,17 +25105,22 @@ derby shoe:德比鞋
 derby socialist:德比社会主义者
 derby software:德比软件
 derby soup:德比汤
+derby south:打比南
 derby stallion:德比种马
+derby station:德比站
 derby storm:德比风暴
 derby theatre:德比剧院
+derby township:德比镇区
 derby training:德比训练
 derby trial:德比审判
 derby university:德比大学
+derby university:德比大學
 derby victory:德比胜利
 derby visit:德比访问
 derby week:德比周
 derby when i:德比当我
 derby winner:德比胜利者
+derby works:德比工厂
 derby world:德比世界
 derby would never:德比永远不会
 derby:德比
@@ -25007,6 +25137,8 @@ derbyshire police:德比郡警察
 derbyshire railway station:德比郡火车站
 derbyshire said:德比郡说
 derbyshire sandstone:德比郡砂岩
+derbyshire south:德比郡南
+derbyshire southern:德比郡南區
 derbyshire surname:德比郡姓氏
 derbyshire:德比郡
 dercas:方粉蝶屬
@@ -25055,6 +25187,7 @@ derest bûlang:德日苏宝龙
 derest hôôlai hôt:德日斯图浩来浩特
 derestai hôt:德日苏台浩特
 derfflinger class battlecruiser:德夫林格级大巡洋舰
+derg regime:德尔格政权
 derg:德尔格
 derga:德卡州议席
 dergachi:傑爾加奇
@@ -25264,7 +25397,9 @@ dermodactylus:皮翼龍屬
 dermophis mexicanus:墨西哥蚓螈
 dermorhytis:皱皮肖叶甲属
 dermott's law:德莫特定律
+derna campaign:德尔纳战役
 derna district:德爾納省
+derna province:德尔纳省
 derna waterfalls:德爾納瀑布
 derna:德尔纳
 derna:德爾納省
@@ -25544,6 +25679,7 @@ desantne:傑桑特涅
 desargues's theorem:笛沙格定理
 desarmillaria:无环蜜环菌属
 desaru coast ferry terminal:迪沙鲁海岸渡轮码头
+desaru coast:迪沙鲁海岸
 desaru:迪沙鲁
 desay battery co., ltd.:惠州市德赛电池有限公司
 desay technology building:德赛科技大厦
@@ -25564,6 +25700,7 @@ descendant community:后代社区
 descendant elements:后代元素
 descendant enter:后代进入
 descendant from:后代从
+descendant language:后代語言
 descendant node:后代节点
 descendant or otherwise:后代或否则
 descendant select:后代选择
@@ -25595,6 +25732,7 @@ descent control parachute:下降控制降落伞
 descent control system:下降控制系统
 descent control:下降控制
 descent data:下降数据
+descent direction:下降方向
 descent element:下降元素
 descent engine:下降发动机
 descent engines:下降发动机
@@ -25605,6 +25743,7 @@ descent methods:下降方法
 descent mode:下降模式
 descent model:下降模型
 descent module:下降模块
+descent module:下降模組
 descent operations:下降操作
 descent optimization:下降优化
 descent orbit insert:下降轨道插入
@@ -25624,6 +25763,7 @@ descent stage and mission:下降阶段和任务
 descent stage:下降阶段
 descent system:下降系统
 descent technology:下降技术
+descent theory:下降理论
 descent through:下降通过
 descent time:下降时间
 descent to lake garda:下降到加尔达湖
@@ -26481,12 +26621,14 @@ desert areas:荒漠面积
 desert bandicoot:荒漠袋狸
 desert battle dress uniform:沙漠迷彩服
 desert beaver observatory:沙漠海狸天文台
+desert cat:荒漠猫
 desert chub:砂棲骨尾魚
 desert classic:沙漠經典賽
 desert climate battle:沙漠气候战役
 desert climate regions:沙漠气候地区
 desert climate:沙漠气候
 desert climate:荒漠气候
+desert climate:荒漠氣候
 desert coal mine:荒漠煤矿
 desert d'atacama:阿他加馬沙漠
 desert dace:漠魚
@@ -26498,6 +26640,7 @@ desert finch:巨嘴沙雀
 desert fox:沙漠之狐
 desert hare:中亚兔
 desert hero:糖水雄
+desert hero:荒漠英雄
 desert highway:沙漠公路
 desert highway:荒漠公路
 desert iguana:沙漠鬣蜥
@@ -26526,6 +26669,7 @@ desert road:荒漠路
 desert rock exercises:沙漠岩石演习
 desert rose:沙漠玫瑰
 desert rosy boa:玫瑰沙蚺
+desert shrub:荒漠灌木
 desert species:荒漠物种
 desert sucker:克氏亞口魚
 desert survival training:荒漠生存训练
@@ -28227,6 +28371,7 @@ design building:设计建筑
 design building:设计楼
 design buildings:设计建筑
 design bureau:設計局
+design bureau:设计局
 design business and touch:设计商业和触摸
 design business association:设计商业协会
 design business:设计商业
@@ -28329,7 +28474,9 @@ design circuit board:设计电路板
 design circuit:设计电路
 design circuits or use:设计电路或使用
 design circuits:设计电路
+design cities:設計城市
 design cities:设计城市
+design city:設計城市
 design city:设计城市
 design civil engineering:设计土木工程
 design class:设计类
@@ -29245,6 +29392,9 @@ design landmark:设计地标
 design landscape:设计景观
 design lang:设计语言
 design language:設計語言
+design language:设计語言
+design language:设计语言
+design languages:设计语言
 design law and practice:设计法律与实践
 design law:設計法律
 design law:设计法律
@@ -29382,6 +29532,7 @@ design methods committee:设计方法委员会
 design methods to system:设计方法到系统
 design methods:設計方法
 design methods:设计方法
+design miami:設計邁阿密
 design miami:设计迈阿密
 design miami:邁阿密設計展
 design microprocessor:设计微处理器
@@ -29667,6 +29818,7 @@ design pattern related questions:设计模式相关的问题
 design pattern related:设计模式相关的
 design pattern represent:设计模式表示
 design pattern support:设计模式支持
+design pattern:設計模式
 design pattern:设计模式
 design pencil:设计铅笔
 design perfect:設計完美
@@ -30163,6 +30315,7 @@ design specific language teach:设计特定的语言教
 design specific:设计特定的
 design specification standard:设计规范标准
 design specification:設計規格
+design specification:設計规范
 design specification:设计规范
 design speed:設計速率
 design spirit:设计精神
@@ -30331,6 +30484,7 @@ design technology and product:设计技术和产品
 design technology and production:设计技术和生产
 design technology and science:设计技术和科学
 design technology methods:设计技术方法
+design technology:設計科技
 design technology:设计技术
 design telephone:设计电话
 design telescope:设计望远镜
@@ -30903,6 +31057,8 @@ designer does:设计师做
 designer dog:设计师狗
 designer doughnut:设计师甜甜圈
 designer drug:狡詐家藥物
+designer drug:设计师药物
+designer drugs:设计师药物
 designer elements:设计师元素
 designer elevator:设计师电梯
 designer encourage:设计师鼓励
@@ -31515,6 +31671,7 @@ desktop computer would:桌面计算机将
 desktop computer:桌上型電腦
 desktop computer:桌面电脑
 desktop computer:桌面计算机
+desktop computers:桌面计算机
 desktop configuration:桌面配置
 desktop connection client:桌面连接客户
 desktop connection run:桌面连接运行
@@ -31582,6 +31739,7 @@ desktop environment series:桌面环境系列
 desktop environment task:桌面环境任务
 desktop environment uses:桌面环境使用
 desktop environment:桌面环境
+desktop environments:桌面环境
 desktop equipment:桌面设备
 desktop eventually:桌面最终
 desktop execution:桌面执行
@@ -31768,6 +31926,7 @@ desktop property:桌面属性
 desktop protocol implementation:桌面协议实现
 desktop protocol is based:桌面协议是基于
 desktop protocol:桌面协议
+desktop publication:桌面出版
 desktop publishing and graphic art:桌面出版和图形艺术
 desktop publishing and graphic design:桌面出版和图形设计
 desktop publishing application:桌面出版应用
@@ -32026,6 +32185,7 @@ desmostylia:索齒獸目
 desmostylus:索齒獸
 desmoxytes planata:平背龍馬陸
 desmoxytes:龙马陆属
+desna river:傑斯納河
 desna:傑斯納
 desno:戴斯瑙
 desnogorsk:傑斯諾戈爾斯克
@@ -32039,6 +32199,7 @@ desong village:德松里
 desonide:地奈德
 desorption electrospray ionization:脫附型電噴灑游離法
 desoto county:德索托縣
+desouk stadium:迪斯沃克体育场
 desouk:迪斯沃克
 desoxymethyltestosterone:去氧甲基睾酮
 despair rocks:德斯佩爾岩
@@ -33453,6 +33614,7 @@ destiny no longer:命运不再
 destiny number:命运数
 destiny number:命运数字
 destiny or fate:命运或命运
+destiny party:命運派對
 destiny players:命运玩家
 destiny players:命運玩家
 destiny prove:命运证明
@@ -36023,6 +36185,7 @@ detroit avoid bankruptcy:底特律避免破产
 detroit avoid:底特律避免
 detroit axe:底特律斧
 detroit bank:底特律银行
+detroit bankruptcy:底特律破产
 detroit bankruptcy:底特律破產
 detroit battery:底特律电池
 detroit became a city:底特律成为一个城市
@@ -36036,6 +36199,7 @@ detroit bible class:底特律圣经课程
 detroit bible:底特律圣经
 detroit bible:底特律聖經
 detroit bike:底特律自行车
+detroit blues:底特律藍調
 detroit bombing:底特律爆炸
 detroit brand:底特律品牌
 detroit cannot:底特律不能
@@ -36147,6 +36311,7 @@ detroit park:底特律公园
 detroit partner:底特律合作伙伴
 detroit people mover:底特律旅客捷运系统
 detroit phenomenon:底特律现象
+detroit piston:底特律活塞
 detroit pistons coach:底特律活塞教练
 detroit pistons hall of fame:底特律活塞名人堂
 detroit pistons team:底特律活塞队
@@ -36202,6 +36367,7 @@ detroit to chicago:底特律到芝加哥
 detroit to disney world:底特律到迪士尼世界
 detroit to japan:底特律到日本
 detroit touch:底特律触摸
+detroit township:底特律鎮區
 detroit traffic police:底特律交通警察
 detroit train station:底特律火车站
 detroit travel:底特律旅行
@@ -36271,6 +36437,7 @@ deungchon station:登村站
 deungchon-dong:登村洞
 deungdae-ro:燈臺路
 deunggok-ri:登谷里
+deunggu station:登龜站
 deunggu station:登龟站
 deunggu:登龜
 deunggye-ri:登溪里
@@ -36334,10 +36501,13 @@ deutsch art:德意志艺术
 deutsch asiatische bank:德华银行
 deutsch bank:德意志銀行
 deutsch bank:德意志银行
+deutsch brod:德意志布罗德
+deutsch brod:德意志布羅德
 deutsch evern:德意志埃沃恩
 deutsch goritz:德意志戈里茨
 deutsch jahrndorf:德意志亚恩多夫
 deutsch kaltenbrunn:德意志卡尔滕布伦
+deutsch language:德意志语言
 deutsch piekar:希隆斯克地區佩卡雷
 deutsch recently:德意志最近
 deutsch road:德意志道路
@@ -36506,6 +36676,9 @@ deutschfeistritz:德意志法伊斯特里茨
 deutschkreutz:德意志克罗伊茨
 deutschland class battleship:德国级战列舰
 deutschland class cruiser:德国级装甲舰
+deutschland cup:德国杯
+deutschland cup:德國杯
+deutschland tour:德国旅游
 deutschland:déguó
 deutschland:德国
 deutschland:德国/德國
@@ -36562,6 +36735,7 @@ devamany krishnasamy:迪瓦马尼
 devan nair institute:蒂凡那学院
 devan nair:蒂凡那
 devana chasma:德瓦纳深谷
+devanagari alphabet:天城文字母
 devanagari extended:天城文擴展
 devanagari numerals:印度數字
 devanagari transliteration:天城文轉寫
@@ -40240,6 +40414,7 @@ development anecdote:开发轶事
 development angle:发展角
 development annual meeting:发展年会
 development annual report:发展年度报告
+development anthropology:发展人类学
 development anthropology:發展人類學
 development anyone can:开发任何人都可
 development apartment:开发公寓
@@ -40294,6 +40469,7 @@ development assets:开发资产
 development assistance committee member:发展援助委员会成员
 development assistance committee:发展援助委员会
 development assistance committee:开发援助委员会
+development assistance:发展援助
 development assistance:开发援助
 development assistant professor:发展助理教授
 development assistant:发展助理
@@ -40765,6 +40941,7 @@ development economics issues:发展经济学问题
 development economics or public:发展经济学或公共
 development economics research:发展经济学研究
 development economics researchers:发展经济学研究人员
+development economics:发展經濟學
 development economics:发展经济学
 development economist william:发展经济学家威廉
 development economist:发展经济学家
@@ -40981,6 +41158,7 @@ development game:开发游戏
 development gene:发展基因
 development general manager martin:发展总经理马丁
 development general manager:发展总经理
+development geography:发展地理学
 development geography:开发地理
 development geography:發展地理學
 development give:发展给
@@ -41738,6 +41916,7 @@ development provide:开发提供
 development provides policy support:发展提供政策支持
 development provides:发展提供
 development provides:开发提供
+development psychology:发展心理学
 development public service platform:发展公共服务平台
 development public service:发展公共服务
 development public:发展公共
@@ -42876,7 +43055,9 @@ device features:设备特点
 device feel:设备感觉
 device field:设备领域
 device fields:设备领域
+device file:设备文件
 device file:设备文件系统
+device files:设备文件
 device financing:设备融资
 device fingerprint:裝置指紋
 device fingerprint:设备指纹
@@ -44452,9 +44633,11 @@ devil fish:无刺蝠鲼
 devil fish:魔鬼鱼
 devil follow:魔鬼跟随
 devil football:魔鬼足球
+devil fork:魔鬼叉子
 devil frog:魔鬼青蛙
 devil fruit:魔鬼水果
 devil give:魔鬼给
+devil goddess:魔鬼女神
 devil had been:魔鬼已经
 devil has been:魔鬼已经
 devil hate:魔鬼恨
@@ -44476,6 +44659,7 @@ devil is right:魔鬼是对的
 devil is very:魔鬼是非常
 devil is you:魔鬼是你
 devil island:德弗爾島
+devil island:魔鬼岛
 devil jump:魔鬼跳
 devil know my name:魔鬼知道我的名字
 devil know:魔鬼知道
@@ -44512,6 +44696,7 @@ devil provide:魔鬼提供
 devil quote:魔鬼引用
 devil ray:魔鬼光线
 devil reef:魔鬼礁
+devil river:魔鬼河
 devil rock:魔鬼岩石
 devil root:魔鬼根
 devil said:魔鬼说
@@ -44639,8 +44824,10 @@ devon jurassic:德文郡侏罗纪
 devon land:德文郡土地
 devon link:德文郡链接
 devon project:德文郡项目
+devon regiment:德文郡团
 devon road:德雲道
 devon root:德文郡根
+devon station:德文郡站
 devon youth jazz:德文郡青年爵士乐
 devon youth:德文郡青年
 devon-Ìnsel:德文岛
@@ -44818,7 +45005,9 @@ dewey and lewis:杜威和刘易斯
 dewey ask:杜威问
 dewey attend:杜威参加
 dewey beach:杜威海滩
+dewey beach:杜威灘
 dewey blog:杜威博客
+dewey boulevard:杜威大道
 dewey canyon:杜威峡谷
 dewey companies:杜威公司
 dewey county:杜威县
@@ -44834,14 +45023,18 @@ dewey defeat:杜威击败
 dewey die:杜威死
 dewey find:杜威发现
 dewey hall:杜威大厅
+dewey humboldt:杜威洪堡
 dewey international university:杜威国际大学
 dewey international:杜威国际
 dewey lake monster:杜威湖怪物
 dewey lake:杜威湖
+dewey mountain:杜威山
 dewey open:杜威开
 dewey said:杜威说
 dewey services:杜威服务
 dewey system:杜威系统
+dewey township:杜威鎮區
+dewey university:杜威大學
 dewey was a half:杜威是一个半
 dewey would:杜威将
 dewey:杜威
@@ -44853,10 +45046,13 @@ dewitt army:德威特陆军
 dewitt ask:德威特问
 dewitt clinton high school:德威特克林顿高中
 dewitt clinton:德威特克林顿
+dewitt colony:德威特殖民地
+dewitt county:德威特县
 dewitt county:德威特縣
 dewitt equation:德威特方程
 dewitt nunatak:德威特冰原島峰
 dewitt start:德威特开始
+dewitt township:德威特鎮區
 dewitt township:德威特镇区
 dewitt yesterday:德威特昨天
 dewitt:德威特
@@ -44953,6 +45149,7 @@ dexing bridge:德兴大桥
 dexing bridge:德興大橋
 dexing community:德兴社区
 dexing copper/gold mine:德兴铜矿
+dexing county:德兴县
 dexing e. rd.:德行東路
 dexing east road:德行東路
 dexing garden:德兴园
@@ -45036,6 +45233,7 @@ deya street:得雅街
 deyan:déyáng shi
 deyan:德阳市
 deyan:德陽市
+deyang county:德阳县
 deyang goko:déyáng gōu gōu kǒu
 deyang goko:德阳沟沟口
 deyang goko:德陽溝溝口
@@ -45187,6 +45385,8 @@ dezhou animal and botanical garden:德州动植物园
 dezhou braised chicken:德州扒鸡
 dezhou currently:德州市目前
 dezhou east railway station:德州东站
+dezhou east:德州东
+dezhou haishan:德州海山
 dezhou hexi police station:德州市河西派出所
 dezhou island:鹿屿
 dezhou lantian experimental school:德州蓝天实验学校
@@ -45203,6 +45403,8 @@ dezhou road west dongying road:德州路东营西路
 dezhou road west zibo road:德州路淄博西路
 dezhou road:德州路
 dezhou service area:德州服务区
+dezhou university:德州大学
+dezhou university:德州大學
 dezhou university:德州学院
 dezhou-shangrao expressway:德上高速
 dezhou:dézhōu shì

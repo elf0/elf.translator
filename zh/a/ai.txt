@@ -989,6 +989,7 @@ aigle azur:蓝鹰航空
 aigle castle:艾格勒城堡
 aigle class destroyer:鷹級驅逐艦
 aigle is right:艾格勒是正确的
+aigle nkongsamba:艾格勒恩康桑巴
 aigle royal menoua:梅努阿皇家老鹰足球俱乐部
 aigle:艾格勒
 aiglemont:艾格勒蒙
@@ -1097,6 +1098,7 @@ aihaoping:艾蒿坪
 aihaowa:艾壕洼
 aihaowa:艾蒿洼
 aihaowacun:艾壕洼村
+aihara station:相原站
 aihara station:相原車站
 aihara:相原
 aihe road:愛河路
@@ -1619,6 +1621,7 @@ aiquile:艾基萊
 aiqun bldg.:愛群大廈
 aiqun community:愛群社區
 aiqun elementary school:愛群國小
+aiqun hotel:爱群酒店
 aiqun road crossing:爱群路口
 aiqun road:愛群路
 aiqun road:爱群路
@@ -1965,6 +1968,7 @@ air compressor house:空氣壓縮機房
 air compressor oil:空氣壓縮機油
 air compressor service center:空壓機維護中心
 air compressor system:空氣壓縮機系統
+air compressor:空气压缩机
 air compressor:空氣壓縮機
 air concentration:空气浓度
 air concept:空气概念
@@ -2205,6 +2209,7 @@ air defense:防空
 air demand analysis:空气需求分析
 air demand:空气需求
 air density:空气密度
+air department:空气系
 air derby:空气德比
 air detect:空气检测
 air devices:空气设备
@@ -2236,6 +2241,7 @@ air electrode:空气电极
 air element:空气元素
 air elements:空气元素
 air elephant:空气象
+air embolism:空气栓塞
 air embolism:空氣栓塞
 air embolus:空气栓子
 air emission standards:空气排放标准
@@ -2246,6 +2252,7 @@ air emissivity:空气发射率
 air energy source:空气能源
 air energy:空气能源
 air engine:空气发动机
+air engines:空气发动机
 air enter:空气进入
 air environment and quality:空气环境和质量
 air environment:空气环境
@@ -3029,6 +3036,7 @@ air mask:空气面具
 air mass classification:气团分类
 air mass movement:气团移动
 air mass:气团
+air mass:空气质量
 air mata di kuala lumpur:吉隆坡的眼泪
 air mattress:充氣床墊
 air mauritius:毛里裘斯航空
@@ -3164,6 +3172,7 @@ air policies and action:空气政策和行动
 air policies:空气政策
 air policy:空气政策
 air polishing:空气抛光
+air pollutant:空气污染物
 air pollution action plan:空气污染行动计划
 air pollution action:空气污染行动
 air pollution affects food:空气污染影响食物
@@ -3488,6 +3497,7 @@ air protein:空气蛋白质
 air prove:空气证明
 air provides:空气提供
 air pump:氣泵
+air pump:空气泵
 air purifier activated carbon:空气净化器活性炭
 air purifier and open window:空气净化器和开窗
 air purifier annual meeting:空气净化器年会
@@ -3801,6 +3811,7 @@ air rationality:空气理性
 air reach:空气达到
 air real:空气真的
 air reduce:空气减少
+air regiment:空气团
 air related:空气相关的
 air release point:空气释放点
 air release:空气释放
@@ -4762,6 +4773,7 @@ aircraft bombing:飞机爆炸
 aircraft bone:飞机骨骼
 aircraft box:飞机盒
 aircraft break:飞机打破
+aircraft bridge:飞机桥
 aircraft budget:飞机预算
 aircraft by:飞机被
 aircraft cabin:飞机舱
@@ -4958,6 +4970,7 @@ aircraft facilities:飞机设施
 aircraft factories:飞机工厂
 aircraft factory:飞机工厂
 aircraft failed:飞机失败
+aircraft fairing:飞机整流罩
 aircraft field:飞机领域
 aircraft fight:飞机战斗
 aircraft finally:飞机最终
@@ -5114,6 +5127,7 @@ aircraft missile:飞机导弹
 aircraft mission:飞机任务
 aircraft missions:飞机任务
 aircraft modeling:飞机建模
+aircraft models:飞机模型
 aircraft modernization:飞机现代化
 aircraft mother ship:飞机母舰
 aircraft move:飞机移动
@@ -6007,6 +6021,7 @@ airplane ear:飞机耳
 airplane economy cabin:飞机经济舱
 airplane economy:飞机经济
 airplane emissions:飞机排放
+airplane engine:飞机发动机
 airplane engineer:飞机工程师
 airplane engineering:飞机工程学
 airplane engineers:飞机工程师
@@ -6041,6 +6056,7 @@ airplane has been:飞机已经
 airplane headache:飞机头痛
 airplane health management:飞机健康管理
 airplane health:飞机健康
+airplane hijacking:飛機劫持
 airplane hijacking:飞机劫持
 airplane i:飞机我
 airplane improvements:飞机改进
@@ -6344,6 +6360,7 @@ airport bottleneck:机场瓶颈
 airport boulevard auxiliary road:机场大道辅路
 airport boulevard:机场大道
 airport boulevard:机场林荫道
+airport boulevard:機場大道
 airport boundary:机场边界
 airport branch:机场分局
 airport bridge:机场桥
@@ -6524,11 +6541,13 @@ airport expo boulevard:航展道
 airport express:機場快綫
 airport expressway:乌兰巴托新国际机场高速
 airport expressway:机场专用高速
+airport expressway:机场快速路
 airport expressway:机场快速通道
 airport expressway:机场高速
 airport expressway:机场高速公路
 airport expressway:杭州機場高速
 airport expressway:機場高速
+airport expressway:機場高速公路
 airport expressway:首都机场高速公路
 airport facilities as well as:机场设施以及
 airport facilities development:机场设施发展
@@ -6537,6 +6556,7 @@ airport facilities:机场设施
 airport facility management:机场设施管理
 airport feasibility study:机场可行性研究
 airport fee:机场费用
+airport fiction:机场小说
 airport field:机场领域
 airport fire brigade:機場消防隊
 airport fire contingent west sea rescue berth:机场消防队海上救援西局
@@ -6551,6 +6571,7 @@ airport food:機場食物
 airport foundation:机场基金
 airport free trade logistics center:机场保税物流中心 (招呼站)
 airport free:机场免费的
+airport freeway:机场高速公路
 airport freeway:機場高速公路
 airport freight forwarding centre:机场空运中心
 airport freight forwarding centre:機場空運中心
@@ -6682,6 +6703,7 @@ airport limit:機場限制
 airport line:机场线
 airport line:機場支線
 airport line:機場線
+airport line:機場线
 airport link line:市域机场线
 airport link line:市域鐵機場聯絡線
 airport link line:市域铁机场联络线
@@ -6774,6 +6796,7 @@ airport north(terminal 2):机场北（2号航站楼）
 airport north:机场北
 airport north:機場北
 airport not:机场不是
+airport novel:机场小说
 airport now:机场现在
 airport of alicante:机场的阿利坎特
 airport of bilbao:毕尔巴鄂机场
@@ -7100,6 +7123,7 @@ airport trail:機場緩跑徑
 airport train station:机场火车站
 airport train station:飞机场火车站
 airport train:机场火车
+airport train:機場鐵路列車
 airport training:机场培训
 airport tram:机场有轨电车
 airport transfer vip and taxi:机场接送贵宾和出租车
@@ -7113,6 +7137,7 @@ airport travel:机场旅行
 airport triage:机场分诊
 airport trust:机场信托
 airport tunnel:机场隧道
+airport tunnel:機場隧道
 airport type:机场类型
 airport unit:机场单位
 airport until:机场直到
@@ -7210,6 +7235,7 @@ airspace would:领空将
 airspace:领空
 airspeed air:空速空气
 airspeed ambassador:空速大使型
+airspeed aviation:空速航空
 airspeed continue:空速继续
 airspeed data:空速数据
 airspeed flight:空速飞行
@@ -7525,6 +7551,7 @@ aizu domain:會津藩
 aizu hinohara station:会津桧原站
 aizu kawaguchi station:会津川口站
 aizu kosugawa station:会津越川站
+aizu line:会津线
 aizu line:會津線
 aizu liner:會津號列車
 aizu miyashita station:会津宫下站
@@ -7540,6 +7567,7 @@ aizu tajima station:会津田岛站
 aizu takada station:会津高田站
 aizu toyokawa station:会津丰川站
 aizu wakamatsu station:會津若松站
+aizu war:会津战争
 aizu yaichi:会津八一
 aizu yanaizu station:会津柳津站
 aizu yokota station:会津横田站

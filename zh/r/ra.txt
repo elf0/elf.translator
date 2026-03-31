@@ -42,6 +42,7 @@ raatihuone:托伦老城市
 rab rgyas mtsho:rèbùjié cuò
 rab rgyas mtsho:热布杰错
 rab:绕村
+raba river:拉布河
 raba:拉巴特
 raba:拉布
 raba:拉布岛
@@ -62,19 +63,24 @@ rabastens de bigorre:比戈尔地区拉巴斯唐斯
 rabastens:拉巴斯唐斯
 rabat (victoria):維多利亞
 rabat airport:拉巴特机场
+rabat airport:維多利亞機場
 rabat and casablanca:拉巴特和卡萨布兰卡
 rabat and marrakesh:拉巴特和马拉喀什
 rabat center:拉巴特中心
 rabat international:拉巴特国际
+rabat marathon:拉巴特马拉松
 rabat mosque:拉巴特清真寺
+rabat university:維多利亞大學
 rabat zoo:拉巴特动物园
 rabat:拉巴特
 rabat:維多利亞
 rabatak inscription:羅巴塔克銘文
 rabatas:拉巴特
 rabato:拉巴特
+rabaul airport:拉包爾機場
 rabaul caldera:拉包爾火山
 rabaul district:拉包爾縣
+rabaul volcano:拉包爾火山
 rabaul:拉包爾
 rabaul:笠包
 rabaulichthys altipinnis:高鰭暗澳鮨
@@ -212,6 +218,7 @@ rabbit shoulder:兔肩
 rabbit singer:兔歌手
 rabbit skin:兔皮肤
 rabbit species:兔种
+rabbit syphilis:兔梅毒
 rabbit team:兔团队
 rabbit think:兔想
 rabbit too:兔也
@@ -345,14 +352,17 @@ racale:拉卡莱
 racalmuto:拉卡尔穆托
 racastan:拉贾斯坦邦
 racconigi bargain:拉冈尼基协定
+racconigi castle:拉科尼吉城堡
 racconigi:拉科尼吉
 raccoon and squirrel:浣熊和松鼠
 raccoon attack:浣熊攻击
 raccoon butterflyfish:月斑蝴蝶魚
 raccoon can remember:浣熊可以记住
 raccoon controlling:浣熊控制
+raccoon dog:浣熊犬
 raccoon dog:浣熊狗
 raccoon family:浣熊家庭
+raccoon family:浣熊科
 raccoon find:浣熊发现
 raccoon friend:浣熊朋友
 raccoon from:浣熊从
@@ -487,6 +497,7 @@ race began:种族开始
 race began:竞赛开始
 race begin:种族开始
 race begin:竞赛开始
+race bike:竞赛自行车
 race biology exam:种族生物学考试
 race biology:种族生物学
 race blood:种族血
@@ -521,12 +532,15 @@ race day:竞赛日
 race difference:种族差异
 race direction:竞赛方向
 race director:种族导演
+race discrimination:种族歧視
+race discrimination:种族歧视
 race display:种族显示
 race distance:种族距离
 race distribution:种族分布
 race diversity:种族多样性
 race doctor:种族医生
 race element:种族元素
+race encoding:种族编码
 race engineer:种族工程师
 race environment:竞赛环境
 race equality rally:种族平等集会
@@ -550,6 +564,8 @@ race friends:种族朋友
 race from:种族从
 race fusion:种族融合
 race game:擲賽遊戲
+race game:竞赛游戏
+race games:竞赛游戏
 race go:竞赛去
 race has been:种族已经
 race hate crime:种族仇恨犯罪
@@ -580,6 +596,7 @@ race leader:种族领袖
 race legislation:种族立法
 race marriage:种族婚姻
 race marshal:种族元帅
+race massacre:种族屠杀
 race matter:种族问题
 race meetings:种族会议
 race memory:种族记忆
@@ -589,6 +606,8 @@ race mix:种族混合
 race mode:竞赛模式
 race more than:种族超过
 race more:种族更多
+race motorcycle:竞赛摩托车
+race music:种族音乐
 race my:竞赛我的
 race name:种族名称
 race needs:种族需要
@@ -695,6 +714,8 @@ race spent:竞赛花费
 race stage:种族阶段
 race start:种族开始
 race start:竞赛开始
+race station:种族站
+race station:竞赛站
 race status:种族地位
 race strategy:种族策略
 race strategy:竞赛战略
@@ -755,6 +776,7 @@ racecourse lodge:經略廬
 racecourse lodge:经略卢
 racecourse mansion:伯乐居
 racecourse mansion:伯樂居
+racecourse station:馬場站
 racecourse villa:凱驊軒
 racecourse:亮相圈
 racecourse:北京体育大学中国现代五项协会马术基地
@@ -903,6 +925,7 @@ racing bike:竞速自行车
 racing ch:海地競技會
 racing champion:竞速冠军
 racing championship:竞速锦标赛
+racing class:竞速类
 racing club beirut:貝魯特競技會
 racing club de avellaneda:竞赛俱乐部
 racing club de france football:法國足球競賽會
@@ -1272,6 +1295,8 @@ radar architecture:雷达架构
 radar artists:雷达艺术家
 radar as the primary:雷达作为主要
 radar as well:雷达也
+radar astronomy:雷达天文学
+radar astronomy:雷达天文學
 radar astronomy:雷達天文學
 radar avoid:雷达避免
 radar barrier:雷达屏障
@@ -1337,6 +1362,7 @@ radar energy:雷达能量
 radar engineers during world war ii:雷达工程师在第二次世界大战期间
 radar engineers:雷达工程师
 radar enhancement:雷达增强
+radar equation:雷达方程
 radar equipment and armour:雷达设备和装甲
 radar equipment:雷达设备
 radar etc:雷达等等
@@ -1849,7 +1875,9 @@ radiation cooling:辐射冷却
 radiation cup:辐射杯
 radiation curve:辐射曲线
 radiation cytogenetics:辐射细胞遗传学
+radiation damage:辐射损坏
 radiation damage:辐射损害
+radiation damping:辐射阻尼
 radiation data show:辐射数据显示
 radiation data was voluntary:辐射数据是自愿的
 radiation data:辐射数据
@@ -1952,6 +1980,7 @@ radiation lamp:辐射灯
 radiation layer:辐射层
 radiation leak data:辐射泄漏数据
 radiation leak:辐射泄漏
+radiation length:辐射长度
 radiation lengths:辐射长度
 radiation level test:辐射水平测试
 radiation level:辐射水平
@@ -1976,6 +2005,7 @@ radiation medicine:辐射医学
 radiation method:辐射方法
 radiation methods:辐射方法
 radiation missile:辐射导弹
+radiation mode:辐射模式
 radiation model:辐射模型
 radiation models:辐射模型
 radiation monitor:辐射监视器
@@ -2021,6 +2051,7 @@ radiation portal:辐射门户
 radiation practice:辐射实践
 radiation pressure was necessary:輻射壓是必要的
 radiation pressure:輻射壓
+radiation pressure:辐射压力
 radiation principle:辐射原理
 radiation problem:辐射问题
 radiation problems:辐射问题
@@ -2037,6 +2068,7 @@ radiation range:辐射范围
 radiation reach:辐射达到
 radiation reaction models:辐射反应模型
 radiation reaction:辐射反应
+radiation reaction:辐射反馈
 radiation reduce:辐射减少
 radiation regions:辐射地区
 radiation release:辐射释放
@@ -2085,6 +2117,7 @@ radiation standards:辐射标准
 radiation stimulation:辐射刺激
 radiation storm:辐射风暴
 radiation stream:辐射流
+radiation stress:辐射压力
 radiation studies:辐射研究
 radiation study:辐射研究
 radiation surface:辐射表面
@@ -2349,6 +2382,7 @@ radio astronomy research:射电天文学研究
 radio astronomy scientists and engineers:射电天文学科学家和工程师
 radio astronomy scientists:射电天文学科学家
 radio astronomy:射电天文学
+radio astronomy:无线电天文学
 radio attack:无线电攻击
 radio australia:澳洲广播电台
 radio azadi:阿萨迪电台
@@ -2401,6 +2435,7 @@ radio city:无线电城市
 radio city:电业城
 radio city:電業城
 radio class:无线电课程
+radio clock:无线电时钟
 radio clock:無線電時鐘
 radio club:无线电俱乐部
 radio code:无线电代码
@@ -2549,6 +2584,7 @@ radio frequency skin tightening:射頻緊膚
 radio frequency systems:安弗施无线射频系统
 radio frequency wave:射頻波
 radio frequency:射頻
+radio frequency:无线电频率
 radio from:无线电从
 radio fukushima:福島電台
 radio functions:无线电功能
@@ -2575,6 +2611,7 @@ radio head:无线电头
 radio heart:无线电心脏
 radio hill:雷迪奧山
 radio history:无线电历史
+radio horizon:无线电地平线
 radio host:无线电主机
 radio hour:无线电小时
 radio image:无线电图像
@@ -2835,7 +2872,9 @@ radio solution:无线电解决方案
 radio solutions:无线电解决方案
 radio soul:无线电灵魂
 radio sound:无线电声音
+radio source:无线电源
 radio source:無線電波源
+radio sources:无线电源
 radio space:无线电空间
 radio specification:无线电规范
 radio spectrometer:无线电光谱仪
@@ -2848,6 +2887,7 @@ radio spectrum space:无线电频谱空间
 radio spectrum studies:无线电频谱研究
 radio spectrum:无线电光谱
 radio spectrum:无线电频谱
+radio sport:无线电运动
 radio sports:无线电运动
 radio standard specification:无线电标准规范
 radio standard:无线电标准
@@ -3165,6 +3205,8 @@ radium corporation:镭公司
 radium element:镭元素
 radium elements:镭元素
 radium fluoride:氟化镭
+radium girl:镭女孩
+radium girl:镭姑娘
 radium girls:鐳女郎
 radium hospital:镭医院
 radium hydroxide:氫氧化鐳
@@ -3296,6 +3338,8 @@ radohošča:拉多戈夏
 radohoșcea:拉多戈夏
 radok lake:拉多克湖
 radolfzell:博登湖畔拉多尔夫采尔
+radom airport:拉多姆機場
+radom county:拉多姆县
 radom county:拉多姆縣
 radom district:拉多姆區
 radom national park:拉多姆國家公園
@@ -3332,6 +3376,7 @@ radon and carbon monoxide:氡和一氧化碳
 radon and radium:氡和镭
 radon and uranium:氡和铀
 radon atom:氡原子
+radon compounds:氡化合物
 radon concentration:氡浓度
 radon contribution:氡贡献
 radon difluoride:二氟化氡
@@ -3633,6 +3678,10 @@ ragtime piano:拉格泰姆钢琴
 ragtime:拉格泰姆
 ragunan zoo:拉古南動物園
 ragunda municipality:拉贡达市镇
+ragusa cathedral:杜布罗夫尼克主教座堂
+ragusa cathedral:杜布羅夫尼克主教座堂
+ragusa province:拉古萨省
+ragusa province:拉古薩省
 ragusa vecchia:察夫塔特
 ragusa:拉古萨
 ragusa:拉古薩
@@ -3650,6 +3699,8 @@ ragwa:然乌乡
 ragweed:豚草屬
 ragwon county:乐园郡
 ragwon county:樂園郡
+ragwon station:乐园站
+ragwon station:樂園站
 ragwon-eup:乐园邑
 ragwon-eup:樂園邑
 ragwon:乐园
@@ -3906,6 +3957,7 @@ railroad and truck transport:铁路和卡车运输
 railroad and us southwest:铁路和美国西南
 railroad apartment:鐵路公寓
 railroad apartment:铁路公寓
+railroad apartments:鐵路公寓
 railroad applications:铁路应用
 railroad ask:铁路问
 railroad association:铁路协会
@@ -3923,12 +3975,14 @@ railroad blacklist:铁路黑名单
 railroad bombing:铁路爆炸
 railroad bridge:鐵路橋
 railroad bridge:铁路桥
+railroad bridge:铁路橋
 railroad brother:铁路兄弟
 railroad budget:铁路预算
 railroad buildings:铁路建筑
 railroad business:铁路商业
 railroad business:铁路生意
 railroad car:鐵路車輛
+railroad car:铁路车
 railroad cease:铁路停止
 railroad center:铁路中心
 railroad centre:铁路中心
@@ -3940,6 +3994,7 @@ railroad club:铁路俱乐部
 railroad community:铁路社区
 railroad companies and retail:铁路公司和零售
 railroad companies:鐵路公司
+railroad companies:铁路企业
 railroad companies:铁路公司
 railroad company:鐵路公司
 railroad company:铁路公司
@@ -3964,6 +4019,7 @@ railroad detective:铁路侦探
 railroad development:铁路发展
 railroad disaster:铁路灾害
 railroad edge:铁路边
+railroad electrification:鐵路電氣化
 railroad electrification:铁路电气化
 railroad empire:铁路帝国
 railroad employees:铁路员工
@@ -3976,12 +4032,14 @@ railroad expansion:铁路扩张
 railroad experience:铁路经验
 railroad facilities:铁路设施
 railroad fashion:铁路时尚
+railroad ferry:鐵路渡輪
 railroad fire:铁路火
 railroad flag:鐵路旗
 railroad force:铁路力量
 railroad from:铁路从
 railroad game:铁路游戏
 railroad gate:铁路大门
+railroad gazette:铁路公报
 railroad glove:铁路手套
 railroad greenway:鐵路園道
 railroad has been:铁路已经
@@ -4036,6 +4094,7 @@ railroad or auto:铁路或汽车
 railroad or factory:铁路或工厂
 railroad or highway infrastructure:铁路或公路基础设施
 railroad ownership:铁路所有权
+railroad park:鐵路公園
 railroad park:铁路公园
 railroad passenger car:铁路乘客车
 railroad passenger:铁路乘客
@@ -4074,7 +4133,9 @@ railroad safety:铁路安全
 railroad sand:铁路沙
 railroad savior:铁路救世主
 railroad service:铁路服务
+railroad signal:鐵路信号
 railroad signal:铁路信号
+railroad signals:鐵路信号
 railroad signals:铁路信号
 railroad singles apartments:铁路单身公寓
 railroad society:铁路社会
@@ -4092,15 +4153,19 @@ railroad structure:铁路结构
 railroad style:铁路风格
 railroad switch:轉轍器
 railroad system:鐵路系統
+railroad system:鐵路系统
+railroad system:铁路系統
 railroad system:铁路系统
 railroad systems:铁路系统
 railroad tank car:铁路罐车
 railroad technology:铁路技术
 railroad telegraph:铁路电报
+railroad terminology:铁路术语
 railroad ticket:铁路票
 railroad tie:枕木
 railroad tigers:铁道飞虎
 railroad time:铁路时间
+railroad tower:铁路塔
 railroad town be:铁路城镇成为
 railroad town:铁路城镇
 railroad traffic:铁路交通
@@ -4109,6 +4174,7 @@ railroad transport:铁路运输
 railroad transportation cooperation:铁路运输合作
 railroad transportation:铁路运输
 railroad travel:铁路旅行
+railroad truck:铁路货车
 railroad trust:铁路信托
 railroad tunnel:鐵路隧道
 railroad tunnel:铁路隧道
@@ -4210,6 +4276,7 @@ railway bridge east:铁路桥东
 railway bridge rotate:铁路桥旋转
 railway bridge was built in:铁路桥建于
 railway bridge:铁路桥
+railway bridge:铁路橋
 railway budget:铁路预算
 railway buildings:铁路建筑
 railway bureau science and technology:铁路局科技
@@ -4410,6 +4477,7 @@ railway kingdom:铁路王国
 railway knowledge:铁路知识
 railway land:铁路土地
 railway layout:铁路布局
+railway league:铁路联盟
 railway length:铁路长度
 railway level crossing:铁路平交道
 railway lighting:铁路照明
@@ -4554,6 +4622,7 @@ railway safety and standards:铁路安全和标准
 railway safety management:铁路安全管理
 railway safety production:铁路安全生产
 railway safety:铁路安全
+railway schools:铁路学校
 railway security:铁路安全
 railway semaphore signal:臂板信号机
 railway series books:铁路系列书籍
@@ -4563,7 +4632,9 @@ railway services and infrastructure:铁路服务和基础设施
 railway services:铁路服务
 railway seventh:铁路第七
 railway shield:铁路盾
+railway signal:铁路信号
 railway signal:铁路信号机
+railway signals:铁路信号
 railway site:铁路站点
 railway situation:铁路情况
 railway social:铁路社交
@@ -4627,11 +4698,13 @@ railway station west:火车站西
 railway station would:火车站将
 railway station:火车站
 railway station:車站-皇后路
+railway station:铁路站
 railway stations in italy:義大利鐵路車站列表
 railway stations in morocco:摩洛哥鐵路車站列表
 railway steel:铁路钢
 railway stock:铁路股票
 railway street:铁路街
+railway street:铁路街道
 railway structure:铁路结构
 railway studies and transport:铁路研究和运输
 railway studies:铁路研究
@@ -4649,6 +4722,7 @@ railway system deprive:铁路系统剥夺
 railway system management mode:铁路系统管理模式
 railway system technologies:铁路系统技术
 railway system technology:铁路系统技术
+railway system:铁路系統
 railway system:铁路系统
 railway systems and bridge:铁路系统和桥
 railway systems engineering:铁路系统工程
@@ -4663,6 +4737,7 @@ railway technology and railway:铁路技术和铁路
 railway technology strategy:铁路技术战略
 railway technology:铁路技术
 railway telegraph:铁路电报
+railway terminology:铁路术语
 railway theme:铁路主题
 railway third party liability insurance:铁路第三方责任保险
 railway third party:铁路第三方
@@ -4747,6 +4822,7 @@ railway workers and government:铁路工人和政府
 railway workers and others:铁路工人和其他人
 railway workers and police:铁路工人和警察
 railway workers:铁路工人
+railway works:铁路工厂
 railway world:铁路世界
 railway would:铁路将
 railway-station solution:火车站解决方案
@@ -4825,8 +4901,10 @@ rain and your story:雨和你的故事
 rain answer:雨回答
 rain as well:雨也
 rain at the same time:雨同时
+rain attenuation:雨衰减
 rain awake:雨唤醒
 rain back:雨回
+rain band:雨带
 rain barrel:雨桶
 rain beat wall:雨打墙
 rain beat:雨打
@@ -4869,6 +4947,7 @@ rain create:雨创造
 rain crying:雨哭
 rain date:雨日期
 rain days:雨天
+rain deity:雨神
 rain deprive:雨剥夺
 rain doctor:雨医生
 rain doctors:雨医生
@@ -5012,6 +5091,7 @@ rain stop:雨停止
 rain storm:雨风暴
 rain suddenly:雨突然
 rain sword:雨剑
+rain temple:雨神庙
 rain test:雨测试
 rain that:雨那
 rain the day:雨日
@@ -5036,6 +5116,7 @@ rain want:雨想要
 rain warning:雨警告
 rain was life:雨是生命
 rain was so:雨是如此
+rain water:雨水
 rain wave:雨波
 rain we:雨我们
 rain weather:雨天气
@@ -5064,6 +5145,7 @@ rainbow arch fountain:彩虹圓拱水幕
 rainbow arch:彩虹拱
 rainbow attack:彩虹攻击
 rainbow auto parts & accessories:彩虹汽車影響裝飾
+rainbow awards:彩虹奖
 rainbow badges:彩虹徽章
 rainbow ball:彩虹球
 rainbow balloon:彩虹气球
@@ -5076,7 +5158,9 @@ rainbow bee eater:彩虹蜂虎
 rainbow begin:彩虹开始
 rainbow boa:巴西彩虹蚺
 rainbow body:虹光身
+rainbow books:彩虹书
 rainbow books:彩虹書
+rainbow boulevard:彩虹大道
 rainbow boy:彩虹男孩
 rainbow brick:彩虹砖
 rainbow bridge national monument:彩虹橋國家紀念區
@@ -5089,6 +5173,7 @@ rainbow bridge:海上飞虹
 rainbow bridge:红桥
 rainbow bridge:虹桥
 rainbow cake:彩虹蛋糕
+rainbow capitalism:彩虹资本主义
 rainbow card:彩虹卡
 rainbow catholic:彩虹天主教
 rainbow centre:彩虹中心
@@ -5206,6 +5291,7 @@ rainbow house:彩虹莊園
 rainbow industrial building:天虹工業大廈
 rainbow industrial building:彩虹工業大廈
 rainbow international:彩虹国际
+rainbow island:彩虹岛
 rainbow jersey:彩虹戰衣
 rainbow jungle:彩虹樂園
 rainbow kids yoga:彩虹孩子瑜伽
@@ -5236,6 +5322,7 @@ rainbow media awards:彩虹媒体奖
 rainbow media:彩虹媒体
 rainbow mode:彩虹模式
 rainbow mom:彩虹妈妈
+rainbow moon:彩虹月亮
 rainbow mountain:彩虹山
 rainbow nation:彩虹之國
 rainbow nation:彩虹国家
@@ -5258,8 +5345,11 @@ rainbow parakeet:七色鸚哥
 rainbow park:彩虹公园
 rainbow park:彩虹公園
 rainbow parrotfish:虹彩鸚嘴魚
+rainbow party:彩虹党
+rainbow party:彩虹聚会
 rainbow peace:彩虹和平
 rainbow peacock:彩虹孔雀
+rainbow peak:彩虹峰
 rainbow peanut butter:彩虹花生酱
 rainbow pharmacy:彩虹大药房
 rainbow phenomenon:彩虹现象
@@ -5271,6 +5361,7 @@ rainbow point:彩虹点
 rainbow poker:彩虹扑克
 rainbow portrait:彩虹肖像
 rainbow power:彩虹力量
+rainbow press:彩虹出版社
 rainbow pride flag:彩虹骄傲旗
 rainbow primary school:天虹小學
 rainbow printing:彩虹印刷
@@ -5287,6 +5378,7 @@ rainbow ribbon:彩虹絲帶
 rainbow ridge:彩虹嶺
 rainbow riverside park:彩虹河濱公園
 rainbow road:彩虹路
+rainbow road:彩虹道路
 rainbow rose:彩虹玫瑰
 rainbow row:彩虹行
 rainbow ruby:彩虹宝宝
@@ -5300,6 +5392,7 @@ rainbow seafood restaurant:南丫天虹海鮮酒家
 rainbow seafood restaurant:南丫天虹海鲜酒家
 rainbow seafood restaurant:天虹海鮮酒家
 rainbow sentai robin:彩虹战队
+rainbow series:彩虹系列
 rainbow serpent from:彩虹蛇从
 rainbow serpent god:彩虹蛇神
 rainbow serpent:彩虹蛇
@@ -5318,6 +5411,7 @@ rainbow six:彩虹六
 rainbow sky:彩虹天空
 rainbow slender wrasse:青帶蘇彝士隆頭魚
 rainbow smelt:美洲胡瓜魚
+rainbow snake:彩虹蛇
 rainbow soccer:彩虹足球
 rainbow song:電影情人夢
 rainbow spectrum:彩虹光谱
@@ -5329,6 +5423,7 @@ rainbow state:彩虹州
 rainbow storage:彩虹存储
 rainbow street:coihung gaai
 rainbow street:彩虹街
+rainbow street:彩虹街道
 rainbow supermarket:天虹超市
 rainbow surfperch:卡里氏硬頭海鯽
 rainbow sweetheart:彩虹甜心
@@ -5782,6 +5877,7 @@ raisen district:赖森县
 raisen:赖森
 raisi:北雷萨
 raisin bread:葡萄干面包
+raisin cake:葡萄干蛋糕
 raisin company:葡萄干公司
 raisin cookie:葡萄干饼干
 raisin export:葡萄干出口
@@ -5966,6 +6062,7 @@ rajin bay:羅津灣
 rajin district:罗津区
 rajin district:羅津區
 rajin guyok:罗津区域
+rajin station:罗津站
 rajin station:羅津站
 rajin-guyŏk:罗津区
 rajin-guyŏk:羅津區
@@ -5984,6 +6081,7 @@ rajkivci:賴基夫齊
 rajkivtsi:賴基夫齊
 rajkiwzi:賴基夫齊
 rajkot airport:拉杰果德机场
+rajkot airport:拉杰果德機場
 rajkot district:拉杰果德县
 rajkot:拉杰果德
 rajma (muhafaza):赖马省
@@ -6115,6 +6213,9 @@ rajshahi district:拉傑沙希縣
 rajshahi division:拉傑沙希專區
 rajshahi division:拉吉沙希
 rajshahi división:拉吉沙希
+rajshahi university:拉吉沙希大学
+rajshahi university:拉杰沙希大学
+rajshahi university:拉杰沙希大學
 rajshahi:拉吉沙希
 rajshahi:拉杰沙希
 rajshahi:拉杰沙希市
@@ -6206,6 +6307,7 @@ rakkestad:拉克斯塔
 raklitsa island:拉克利察島
 raknus selu trail:樟之細路
 rakoniewice:拉科涅維采
+rakops airport:拉科普斯機場
 rakops:拉科普斯
 rakor monastery:rángǔ sì
 rakor monastery:然姑寺
@@ -6305,7 +6407,10 @@ ralang:绕鲁乡
 raleigh bicycle company:凤头自行车
 raleigh centre:利來中心
 raleigh class amphibious transport dock:羅里級船塢登陸艦
+raleigh county:罗利县
 raleigh north carolina temple:北卡羅來納州羅利聖殿
+raleigh tavern:罗利酒馆
+raleigh township:羅利鎮區
 raleigh union station:羅里聯合車站
 raleigh:罗利
 raleigh:羅利
@@ -6562,6 +6667,7 @@ raman histology and deep neural network:拉曼组织学和深度神经网络
 raman histology:拉曼组织学
 raman hui:許誠毅
 raman institute:拉曼学院
+raman laser:拉曼激光器
 raman laser:拉曼雷射
 raman market:拉曼市场
 raman measurement:拉曼测量
@@ -6576,11 +6682,13 @@ raman research institute:拉曼研究所
 raman said:拉曼说
 raman says:拉曼说
 raman scattering:拉曼效应
+raman scattering:拉曼散射
 raman signal:拉曼信号
 raman signals:拉曼信号
 raman singh:拉曼辛格
 raman spectrometer:拉曼光谱仪
 raman spectroscopy:拉曼光譜學
+raman spectroscopy:拉曼光谱学
 raman spectrum can ignore:拉曼光谱可以忽略
 raman spectrum:拉曼光谱
 raman systems:拉曼系统
@@ -6655,6 +6763,7 @@ ramboll:安博集团
 rambouillet and paris:朗布依埃和巴黎
 rambouillet breed:朗布依埃品种
 rambouillet commune:朗布依埃公社
+rambouillet forest:朗布依埃森林
 rambouillet station:朗布依埃站
 rambouillet:朗布依埃
 rambrouch:朗布鲁克
@@ -6770,7 +6879,10 @@ ramka district:拉姆卡區
 ramka:拉姆卡
 ramkamhaeng university:兰甘亨大学
 ramkarpal singh:蓝卡巴星
+ramkhamhaeng road:兰甘亨路
 ramkhamhaeng road:南甘杏路
+ramkhamhaeng station:兰甘亨站
+ramkhamhaeng stele:兰甘亨碑
 ramkhamhaeng university:兰甘亨大学
 ramkhamhaeng:兰甘亨
 ramkola:拉姆科拉
@@ -7036,6 +7148,7 @@ ranam district:罗南区域
 ranam district:羅南區域
 ranam guyok:羅南區域
 ranam station:罗南站
+ranam station:羅南站
 ranam:罗南
 ranam:羅南
 ranapur:拉纳普尔
@@ -7114,6 +7227,8 @@ ranch state park:牧场州立公园
 ranch stress:牧场压力
 ranch student:牧场学生
 ranch style:牧场风格
+ranch systems:农场系统
+ranch systems:農場系统
 ranch town:牧场城镇
 ranch vineyard:牧场葡萄园
 ranch walmart:牧场沃尔玛
@@ -7221,6 +7336,7 @@ random access memories:超时空记忆
 random access memory:随机存储器
 random access stored program machine:隨機存取儲存程式機
 random access turing machine:隨機存取圖靈機
+random access:随机访问
 random access:隨機存取
 random acoustics:随机声学
 random act:随机行动
@@ -7351,6 +7467,7 @@ random customer:随机客户
 random customs:随机海关
 random damage:随机损害
 random dance:随机舞蹈
+random data:随机数据
 random date:随机日期
 random date:随机约会
 random day:随机日
@@ -7468,6 +7585,7 @@ random function:随机函数
 random functions:随机函数
 random galaxy:随机星系
 random games:随机游戏
+random gender:随机性
 random gene flow:随机基因流动
 random gene mutation:随机基因突变
 random gene:随机基因
@@ -7576,6 +7694,7 @@ random map:隨機地圖
 random market conditions:随机市场条件
 random market:随机市场
 random match:随机匹配
+random mating:随机交配
 random matrix process:随机矩阵过程
 random matrix theory:随机矩阵理论
 random matrix:随机矩阵
@@ -7652,6 +7771,7 @@ random online:随机在线
 random operation:随机操作
 random operations:随机操作
 random opponent:随机对手
+random optimization:随机优化
 random or encrypted data:随机或加密的数据
 random or specified seed:随机或指定的种子
 random oracle:隨機預言機
@@ -7705,6 +7825,7 @@ random prediction:随机预测
 random prime number:随机质数
 random probability:随机概率
 random problems:随机问题
+random process:随机过程
 random product:随机产品
 random production:随机生产
 random products:随机产品
@@ -7775,7 +7896,9 @@ random selection process:随机选择过程
 random selection:随机选择
 random self:随机自我
 random send:随机发送
+random sequence:随机序列
 random sequence:随机数列
+random sequences:随机序列
 random sequencing methods:随机测序方法
 random sequencing:随机测序
 random serial number:随机序列号
@@ -7855,8 +7978,11 @@ random variable perfect:随机变量完美的
 random variable recover:随机变量恢复
 random variable take:随机变量取
 random variable:随机变量
+random variables:随机变量
 random vector:随机向量
+random vector:随机矢量
 random vectors:随机向量
+random vectors:随机矢量
 random vehicle:随机车辆
 random version:随机版本
 random vibration:随机振动
@@ -8444,7 +8570,9 @@ rangeland management:牧地管理
 rangeland:牧地
 rangendingen:朗根丁根
 ranger program:游騎兵計畫
+ranger school:遊騎兵学校
 ranger school:遊騎兵學校
+ranger schools:遊騎兵学校
 ranger's apprentice:皇家騎士
 ranger:遊騎兵
 rangers de talca:塔尔卡流浪者体育社会俱乐部
@@ -8495,7 +8623,10 @@ rangoli:蓝果丽
 rangon:仰光
 rangong:然公
 rangoon bombing:仰光爆炸事件
+rangoon river:仰光河
 rangoon road:仰光路
+rangoon university:仰光大学
+rangoon university:仰光大學
 rangoon:仰光
 rangoon:仰光市
 rangoons internationella flygplats:仰光国际机场
@@ -8532,9 +8663,11 @@ rangshui river:ràngshuǐ hé
 rangshui river:讓水河
 rangshui river:让水河
 rangsit station:兰实
+rangsit station:兰实站
 rangsit university:兰实大学
 rangsit:兰实
 rangsit:泰鑫
+rangtang county:壤塘县
 rangtang:壤塘
 rangthangling gewog:查那武提格窝
 rangtong and shentong:他性空
@@ -8638,6 +8771,7 @@ rank and status:等级和地位
 rank and wealth:等级和财富
 rank approximation:等级近似
 rank array:等级数组
+rank code:等级代码
 rank correlation calculation:等级相关性计算
 rank correlation calculations:等级相关性计算
 rank correlation coefficient:等级相关系数
@@ -8658,6 +8792,7 @@ rank or property:等级或属性
 rank or status:等级或地位
 rank or youth:等级或青年
 rank organisation:等级组织
+rank organization:等级组织
 rank position:等级位置
 rank privilege:等级特权
 rank prize:等级奖
@@ -9015,6 +9150,7 @@ ranomasina mainty:黑海
 ranomasina mediteranea:地中海
 ranomasina mena:紅海
 ranomasina mena:红海
+ranong airport:拉廊機場
 ranong hú:拉廊府
 ranong hū:拉廊府
 ranong province:拉廊府
@@ -9363,6 +9499,7 @@ raola:绕蜡
 raolakou:绕蜡口
 raolazhai:绕蜡寨
 raole fu station:饶乐府站
+raolefu station:饶乐府站
 raolefu:饶乐府
 raoliang:饶良镇
 raolirong:rào lǐ róng
@@ -9384,8 +9521,10 @@ raoping coonty:饒平縣
 raoping coonty:饶平县
 raoping county:ráopíng xiàn
 raoping county:饒平
+raoping county:饒平县
 raoping county:饒平縣
 raoping county:饶平县
+raoping dialect:饒平方言
 raoping hakka:饒平客家語
 raoping railway station:饶平站
 raoping railway station:饶平站站房
@@ -9511,6 +9650,7 @@ rap is poetry:说唱是诗歌
 rap king:说唱王
 rap lyric:说唱歌词
 rap meetings:说唱会议
+rap metal:说唱金属
 rap metal:饒舌金屬
 rap music pioneer:说唱音乐先驱
 rap music today:说唱音乐今天
@@ -9917,6 +10057,7 @@ rapier:礼服剑
 rapino:拉皮诺
 rapisma:山蛉属
 rapistrum rugosum:皱果荠
+rapla county:拉普拉县
 rapla county:拉普拉縣
 rapla:拉普拉
 rapolano terme:拉波拉诺泰尔梅
@@ -9933,6 +10074,7 @@ rapper dragon:佳龍駒
 rapper milan:饒舌歌手米蘭
 rapper:说唱者
 rapper:饒舌歌手
+rapperswil castle:拉珀斯维尔城堡
 rapperswil:拉珀斯维尔
 rappin:拉平
 rapping about:说唱关于
@@ -9978,6 +10120,9 @@ raqqa from:拉卡从
 raqqa governorate:拉卡省
 raqqa had three:拉卡有三
 raqqa is being slaughtered silently:拉卡正無聲地被屠宰
+raqqa museum:拉卡博物馆
+raqqa offensive:拉卡攻势
+raqqa province:拉卡省
 raqqa region:拉卡地区
 raqqa resident:拉卡居民
 raqqa residents:拉卡居民
@@ -10253,6 +10398,7 @@ rashid says:拉希德说
 rashid space centre:拉希德空间中心
 rashid space:拉希德空间
 rashid stadium:拉希德体育场
+rashid stadium:拉希德體育場
 rashid trust:拉希德信托
 rashid visit:拉希德访问
 rashid write:拉希德写
@@ -10263,10 +10409,13 @@ rashidun:四大哈里发
 rashikunai:真不像我
 rashm:拉什姆
 rashomon effect:羅生門效應
+rasht airport:拉什特机场
+rasht airport:拉什特機場
 rasht and qazvin:拉什特和加兹温
 rasht district:拉什特县
 rasht railway:拉什特铁路
 rasht region:拉什特地区
+rasht valley:拉什特山谷
 rasht valley:拉什特谷地
 rasht:拉什特
 rashtivtsi:拉什季夫齊
@@ -10402,6 +10551,7 @@ rassolnik:酸黃瓜湯
 rast:拉什特
 rastafari:拉斯塔法里运动
 rastapopoulos:拉斯泰波波羅斯
+rastatt palace:拉施塔特宫殿
 rastatt:拉施塔特
 rastaurant:餐廳
 rastdorf:拉斯特多夫
@@ -10431,6 +10581,7 @@ raster graphic:光栅图形
 raster graphics editor:點陣圖圖像編輯器
 raster graphics image:位图图像
 raster graphics:位图
+raster graphics:光栅图形
 raster height and width:光栅高度和宽度
 raster height:光栅高度
 raster image data:光栅图像数据
@@ -10604,10 +10755,12 @@ rates in hong kong:香港差餉
 ratha yatra:乘車節
 rathad leesburg:lì sī bǎo lù
 rathad leesburg:利斯堡路
+rathaus bridge:市政厅桥
 rathaus chełm:海乌姆市政厅
 rathaus glockenspiel:市政厅钟琴
 rathaus nagoya:名古屋市公所主棟
 rathaus spandau:斯潘道市政廳
+rathaus station:市政厅站
 rathaus und roland auf dem bremer marktplatz:不来梅市市场的市政厅和罗兰城
 rathaus vilnius:維爾紐斯市政廳
 rathaus von brüssel:布鲁塞尔市政厅
@@ -13814,6 +13967,7 @@ rational development:合理的发展
 rational development:合理的开发
 rational direction:合理的方向
 rational discussion:合理的讨论
+rational domain:有理数域
 rational doubt:合理的怀疑
 rational down:合理的向下
 rational dream:合理的梦
@@ -14113,6 +14267,7 @@ rattan products:藤产品
 rattan research:藤研究
 rattan resources:藤资源
 rattan shield:藤牌
+rattan shield:藤盾
 rattan technology:藤技术
 rattan this:藤这
 rattan:藤
@@ -14140,6 +14295,7 @@ ratuš:拉圖什
 ratxa-letxkhumi eta kvemo svaneti:拉恰-列其呼米-下斯瓦涅季亚州
 ratyshchi:拉蒂希
 ratyzbona:雷根斯堡
+ratzeburg cathedral:拉策堡大教堂
 ratzeburg:拉策堡
 ratzeburger see:拉策堡湖
 ratzert:拉策尔特
@@ -14245,6 +14401,7 @@ ravda peak:拉夫達峰
 rave culture:銳舞文化
 rave master:聖石小子
 rave now:即刻电音
+rave party:銳舞派對
 rave:銳舞
 ravel peak:拉威爾峰
 ravelin ridge:拉夫林嶺
@@ -14280,6 +14437,7 @@ ravengiersburg:拉文吉斯堡
 raveniola:雷文蛛属
 ravenna and sardinia:拉文納和撒丁
 ravenna cathedral:拉文纳主教座堂
+ravenna province:拉文納省
 ravenna township:拉韦纳镇区
 ravenna:拉文納
 ravenne:拉文納
@@ -14562,17 +14720,21 @@ raxt:拉什特
 raxîv:拉希夫
 ray ban encourage:雷朋鼓励
 ray ban:雷朋
+ray battle:雷伊战役
 ray cable:光线电缆
 ray casting:光线投射
 ray centre:志聯中心
 ray cordeiro:郭利民
+ray county:雷伊县
 ray data:光线数据
 ray database:光线数据库
 ray du english:阿滴英文
 ray entertainment:光线娱乐
 ray from:光线从
+ray gun:光线枪
 ray ho:何承叡
 ray huang:黄仁宇
+ray island:雷伊岛
 ray lui:呂良偉
 ray no longer:光线不再
 ray nunatak:拉伊冰原島峰
@@ -14682,6 +14844,8 @@ rayon:嫘縈
 rayong hú:羅勇府
 rayong hū:羅勇府
 rayong province:羅勇府
+rayong stadium:罗勇体育场
+rayong stadium:羅勇府體育場
 rayong-fylket:羅勇府
 rayong:罗勇
 rayong:羅勇

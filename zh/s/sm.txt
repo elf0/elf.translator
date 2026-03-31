@@ -5282,6 +5282,7 @@ smile look:微笑看
 smile machine:微笑机器
 smile means:微笑意味着
 smile melt:微笑融化
+smile mission:微笑任务
 smile more:微笑更多
 smile nearly:微笑几乎
 smile need:微笑需要
@@ -5318,6 +5319,7 @@ smile park (wenqi rd.):微笑公园(文奇路侧)
 smile park (wenqi rd.):微笑公園(文奇路側)
 smile park:微笑公园
 smile park:微笑公園
+smile party:微笑党
 smile pasta:司麥樂義式坊
 smile payment:微笑支付
 smile police:微笑警察
@@ -5417,7 +5419,9 @@ smith accept:史密斯接受
 smith accomplish:史密斯完成
 smith achieve:史密斯达到
 smith act:史密斯法案
+smith act:史密斯行动
 smith admit:史密斯承认
+smith aerospace:史密斯航空航天
 smith agree:史密斯同意
 smith airport:史密斯机场
 smith allow:史密斯允许
@@ -5614,6 +5618,7 @@ smith increasingly became microsoft:史密斯越来越多地成为微软
 smith increasingly:史密斯越来越多地
 smith indian:史密斯印度
 smith insist:史密斯坚持
+smith institute:史密斯学院
 smith institute:史密斯研究所
 smith international airport:史密斯国际机场
 smith international:史密斯国际
@@ -5678,6 +5683,7 @@ smith order:史密斯命令
 smith own:史密斯拥有
 smith part:史密斯部分
 smith participate:史密斯参加
+smith peak:史密斯峰
 smith peaks:史密斯峰
 smith peninsula:史密斯半島
 smith performing arts center:史密斯表演艺术中心
@@ -5792,13 +5798,16 @@ smith today enter:史密斯今天进入
 smith today:史密斯今天
 smith too:史密斯也
 smith tower:史密斯塔
+smith township:史密斯鎮區
 smith township:史密斯镇区
 smith train:史密斯训练
 smith travel:史密斯旅行
 smith trust:史密斯信托
 smith university:史密斯大学
+smith university:史密斯大學
 smith uses:史密斯使用
 smith usually:史密斯通常
+smith valley:史密斯瓦利
 smith visit:史密斯访问
 smith vow:史密斯发誓
 smith wait:史密斯等
@@ -6100,6 +6109,8 @@ smoke experience:烟体验
 smoke expert:烟专家
 smoke filled room:密室會議
 smoke flag:烟旗
+smoke fog:烟雾
+smoke fog:煙霧
 smoke forever:烟永远
 smoke from a new:烟从一个新的
 smoke from burning village:烟从燃烧的村庄
@@ -6151,6 +6162,7 @@ smoke phenomenon:烟现象
 smoke plus:烟加
 smoke plus:煙加
 smoke point:冒煙點
+smoke point:烟点
 smoke pollution:烟污染
 smoke prices:烟价格
 smoke produce:烟生产
@@ -6186,6 +6198,7 @@ smoke tobacco:烟烟草
 smoke tourism:烟旅游
 smoke tower:烟塔
 smoke trail:烟痕迹
+smoke tree:烟树
 smoke us:烟我们
 smoke users:烟用户
 smoke usually:烟通常
@@ -6689,7 +6702,9 @@ smolensk north airport:斯摩棱斯克北機場
 smolensk oblast:斯摩棱斯克州
 smolensk oblastı:斯摩棱斯克州
 smolensk park:斯摩棱斯克公园
+smolensk pocket:斯摩棱斯克口袋
 smolensk prince:斯摩棱斯克王子
+smolensk province:斯摩棱斯克省
 smolensk region:斯摩棱斯克地区
 smolensk regions:斯摩棱斯克地区
 smolensk road:斯摩棱斯克路
@@ -6968,6 +6983,7 @@ smoothing edge:平滑边
 smoothing factor approach:平滑因子接近
 smoothing factor:平滑因子
 smoothing function:平滑功能
+smoothing functions:平滑函数
 smoothing future service contributions:平滑未来的服务贡献
 smoothing future service:平滑未来的服务
 smoothing future:平滑未来的
@@ -7003,6 +7019,7 @@ smoothy family laundry:陽嘉自助洗衣 smoothy family laundry
 smorgonie:斯莫爾貢
 smorschky:兹莫尔什基
 smorszczki:兹莫尔什基
+smotrych river:斯莫特里奇河
 smotrych:斯莫特里奇
 smotrycz:斯莫特里奇
 smotrytch:斯莫特里奇
@@ -7379,6 +7396,7 @@ smykivtsi:斯米基夫齊
 smykiwka:斯米基夫卡
 smyley island:斯邁利島
 smyrenský záliv:伊茲米爾灣
+smyrna airport:伊兹密尔机场
 smyrna and syria:士麦那和叙利亚
 smyrna beach:士麦那海滩
 smyrna home:士麦那家

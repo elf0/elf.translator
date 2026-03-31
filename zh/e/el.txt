@@ -883,6 +883,7 @@ elasticity number:弹性数
 elasticity of demand:需求弹性
 elasticity parameter:弹性参数
 elasticity problems:弹性问题
+elasticity tensor:弹性张量
 elasticity testing:弹性测试
 elasticity theory:弹性理论
 elasticity:弹性
@@ -936,6 +937,7 @@ elbasan (kraj):艾巴申州
 elbasan (prefectuur):艾巴申州
 elbasan (rannvro):艾巴申州
 elbasan (region):艾巴申州
+elbasan alphabet:爱尔巴桑字母
 elbasan county:艾巴申州
 elbasan district:爱尔巴桑区
 elbasan ili:艾巴申州
@@ -950,6 +952,7 @@ elbasanski okrug:艾巴申州
 elbchaussee:易北大道
 elbe and jade:易北河和玉
 elbe and saale:易北河和萨勒河
+elbe day:易北河日
 elbe day:易北河會師
 elbe floor:易北河地板
 elbe germanic:易北日耳曼語
@@ -991,6 +994,7 @@ elbow peak:埃爾博峰
 elbow press:肘按
 elbow push:肘推
 elbow record:肘记录
+elbow river:肘河
 elbow shadow:肘影
 elbow sprain:肘扭伤
 elbow strain:肘紧张
@@ -1019,6 +1023,7 @@ elcewaz:阿迪爾傑瓦茲
 elche cf:埃尔切足球俱乐部
 elche de la sierra:埃尔切德拉谢拉
 elche:埃爾切
+elchingen abbey:埃尔兴根修道院
 elchingen:埃尔兴根
 elchk chung on nursery school:基督教香港信義會頌安幼兒學校
 elchk faith love lutheran school:基督教香港信義會信愛學校
@@ -1208,6 +1213,7 @@ elect ronald:选举罗纳德
 elect scott walker:选举斯科特沃克
 elect scott:选举斯科特
 elect six:选举六
+elect sport:选举运动
 elect state:选举国家
 elect state:选举州
 elect the general:选举将军
@@ -1360,7 +1366,9 @@ election day traffic:选举日交通
 election day victory:选举日胜利
 election day voting:选举日投票
 election day:选举日
+election day:選舉日
 election debate:选举辩论
+election debate:選舉辯論
 election defense:选举防御
 election democracy:选举民主
 election denial movement in the united states:美国选举否认派
@@ -1475,6 +1483,7 @@ election networks:选举网络
 election news:选举新闻
 election night results:选举夜结果
 election night:选举夜
+election night:選舉夜
 election nomination:选举提名
 election not:选举不是
 election observation and research:选举观察和研究
@@ -1543,6 +1552,7 @@ election process begin:选举过程开始
 election process reveal:选举过程揭示
 election process:选举过程
 election program:选举程序
+election program:選舉程序
 election project:选举项目
 election promise:选举保证
 election propaganda:选举宣传
@@ -2876,6 +2886,7 @@ electricity and magnetism:電和磁
 electricity and water don't:電和水不
 electricity and water:電和水
 electricity as well as:電以及
+electricity board:電板
 electricity bureau of qiqihar city, heilongjiang province:黑龍江省齊齊哈爾市電業局
 electricity bureau of qiqihar city, heilongjiang province:黑龙江省齐齐哈尔市电业局
 electricity capacity:電能力
@@ -3483,11 +3494,13 @@ electron cash wallet:电子现金钱包
 electron cash:电子现金
 electron channel:电子通道
 electron characteristics:电子特性
+electron charge:电子收费
 electron charge:电子电荷
 electron circuits:电子电路
 electron cloud deviate:电子云偏离
 electron cloud model:电子云模型
 electron cloud:电子云
+electron clouds:电子云
 electron collision:电子碰撞
 electron concentration and life:电子浓度与生命
 electron concentration:电子浓度
@@ -3589,6 +3602,7 @@ electron microscope products:电子显微镜产品
 electron microscope studies:电子显微镜研究
 electron microscope technology:电子显微镜技术
 electron microscope:电子显微镜
+electron microscope:电子顯微鏡
 electron mobility:电子迁移率
 electron model:电子模型
 electron moon:电子月球
@@ -3596,6 +3610,7 @@ electron motion or chemical reaction:电子运动或化学反应
 electron motion:电子运动
 electron multiplier:電子倍增管
 electron neutrino:电中微子
+electron neutrino:电子中微子
 electron optics:电子光学
 electron or any other:电子或任何其他
 electron or ion:电子或离子
@@ -3607,6 +3622,7 @@ electron output:电子输出
 electron overflow and light:电子溢出和光
 electron overflow:电子溢出
 electron oxidation:电子氧化
+electron pair:电子对
 electron pair:電子對
 electron paramagnetic resonance:電子自旋共振
 electron particle:电子粒子
@@ -3639,10 +3655,12 @@ electron rocket:电子火箭
 electron scattering experiment:电子散射实验
 electron scattering:电子散射
 electron sensor:电子传感器
+electron shell:电子壳
 electron shell:電子層
 electron signals:电子信号
 electron source:电子源
 electron sources:电子源
+electron spectrometer:电子光谱仪
 electron spectroscopy:电子光谱学
 electron speed:电子速度
 electron state:电子状态
@@ -3668,6 +3686,8 @@ electron transfer process:电子转移过程
 electron transfer:电子传输
 electron transfer:电子传递
 electron transfer:电子转移
+electron transfer:电子转账
+electron transfer:电子迁移
 electron transfer:電子轉移
 electron transistor:电子晶体管
 electron transport chain:電子傳遞鏈
@@ -5188,6 +5208,7 @@ elephant biologist:大象生物学家
 elephant bird egg:象鸟蛋
 elephant bird eggs:象鸟蛋
 elephant bird:象鸟
+elephant birds:象鸟
 elephant blood:大象血液
 elephant bone:大象骨头
 elephant bone:大象骨骼
@@ -5221,6 +5242,7 @@ elephant cove:大象灣
 elephant crisis fund:大象危机基金
 elephant crisis:大象危机
 elephant crying:大象哭
+elephant curve:大象曲线
 elephant day:大象日
 elephant death:大象死亡
 elephant die:大象死
@@ -5237,6 +5259,7 @@ elephant eat:大象吃
 elephant ecology:大象生态学
 elephant ecosystem:大象生态系统
 elephant egg:象卵
+elephant elephant:象象
 elephant embryo:大象胚胎
 elephant evolution:大象进化
 elephant exhibit:大象展览
@@ -5247,6 +5270,7 @@ elephant eyes:大象眼睛
 elephant factory:大象工厂
 elephant family and me:大象家庭和我
 elephant family:大象家庭
+elephant family:象科
 elephant flow issues:大象流问题
 elephant flow:大象流
 elephant fly:大象飞
@@ -5268,6 +5292,7 @@ elephant ghost:象鬼
 elephant go:大象去
 elephant god:象神
 elephant grass:大象草
+elephant grass:象草
 elephant grey:大象灰色
 elephant grey:象灰色
 elephant gun:大象枪
@@ -5349,11 +5374,13 @@ elephant orphanage:大象孤兒院
 elephant parade:大象巡遊
 elephant parade:大象游行
 elephant park:大象公园
+elephant peak:象峰
 elephant photograph:大象照片
 elephant piano:大象钢琴
 elephant platform:大象平台
 elephant poaching:大象偷獵
 elephant point:象角
+elephant polo:大象马球
 elephant population:大象人口
 elephant population:大象种群
 elephant population:象种群
@@ -5373,6 +5400,7 @@ elephant researchers:大象研究人员
 elephant response:大象响应
 elephant ridge:大象山脊
 elephant ridge:象嶺
+elephant river:象河
 elephant robot:大象机器人
 elephant rock:大象岩石
 elephant rock:大象石
@@ -5385,6 +5413,7 @@ elephant seal:象海豹属
 elephant server:大象服务器
 elephant shrew:象鼩
 elephant sitting:大象坐
+elephant six:象六
 elephant skin:大象皮肤
 elephant slave:象奴隶
 elephant sleep:大象睡
@@ -5400,11 +5429,13 @@ elephant studio:象工作室
 elephant suddenly:大象突然
 elephant survival:大象生存
 elephant tea rooms:大象茶室
+elephant teeth:象牙
 elephant temple:大象庙
 elephant tent:大象帐篷
 elephant test:大象测试
 elephant through:大象穿过
 elephant too:大象也
+elephant toothpaste:大象牙膏
 elephant tourism:大象旅游
 elephant tourism:大象旅游业
 elephant tower:大象塔
@@ -5538,6 +5569,7 @@ elevator (nangang rd. sec. 1):出口電梯 (南港路一段)
 elevator action:电梯迷宫
 elevator administrator:电梯管理员
 elevator advertisement:电梯广告
+elevator algorithm:电梯算法
 elevator allow:电梯允许
 elevator americas:电梯美洲
 elevator americas:電梯美洲
@@ -5893,10 +5925,12 @@ eleven she:十一她
 eleven shilling:十一先令
 eleven shopping:十一購物
 eleven sickle:十一镰刀
+eleven songs:十一歌
 eleven species:十一种
 eleven sports:壹拾壹體育網
 eleven team:十一队
 eleven they:十一他们
+eleven tiger:十一虎
 eleven to eighteen:十一到十八
 eleven to fifteen:十一到十五
 eleven to seventeen inch:十一到十七英寸
@@ -6021,6 +6055,7 @@ elgin marbles:埃爾金石雕
 elgin street childen's playground:伊利近街兒童遊樂場
 elgin street:伊利近街
 elgin township:埃尔金镇区
+elgin township:埃爾金鎮區
 elgin:埃爾金
 elginia:埃爾金龍屬
 elgoibar:埃尔戈伊瓦尔
@@ -6279,6 +6314,7 @@ elijah and elisha:以利亞和以利沙
 elijah and enoch:以利亞和以諾
 elijah and moses:以利亞和摩西
 elijah answer:以利亞回答
+elijah church:以利亞教堂
 elijah coleman bridgman:裨治文
 elijah know:以利亞知道
 elijah or elisha:以利亞或以利沙
@@ -7046,6 +7082,7 @@ elisa:酶联免疫吸附测定
 elisabeth appear:伊丽莎白出现
 elisabeth bridge was the only:伊丽莎白桥是唯一
 elisabeth bridge:伊丽莎白桥
+elisabeth church:伊丽莎白教堂
 elisabeth do:伊丽莎白做
 elisabeth guess:伊丽莎白猜
 elisabeth international music competition:伊丽莎白国际音乐比赛
@@ -7059,9 +7096,12 @@ elisabeth of lorraine:洛林的伊莉莎白
 elisabeth of nuremberg:紐倫堡的伊莉莎白
 elisabeth of romania:羅馬尼亞的伊莉莎白
 elisabeth of wied:維德的伊莉莎白
+elisabeth park:伊丽莎白公园
 elisabeth said:伊丽莎白说
 elisabeth says:伊丽莎白说
 elisabeth shepping:徐舒平
+elisabeth street:伊丽莎白街
+elisabeth taylor:伊丽莎白泰勒
 elisabeth-platz:伊莉莎白廣場
 elisabeth:伊丽莎白
 elisabethbrug:伊丽莎白桥
@@ -7087,6 +7127,7 @@ elisha restore:以利沙恢复
 elisha said:以利沙说
 elisha:以利沙
 elision:語音省略
+elista airport:埃利斯塔機場
 elista:埃利斯塔
 elistà:埃利斯塔
 elistá:埃利斯塔
@@ -7658,6 +7699,8 @@ elite thought:精英思想
 elite thread:精英线程
 elite through:精英通过
 elite tornado:精英龙卷风
+elite tower:精英塔
+elite towers:精英塔
 elite tradition:精英传统
 elite training:精英培训
 elite training:精英训练
@@ -7799,12 +7842,14 @@ elizabeth chambers:伊丽莎白钱伯斯
 elizabeth changed:伊丽莎白改变了
 elizabeth charlotte:伊丽莎白夏洛特
 elizabeth chop:伊丽莎白砍
+elizabeth church:伊丽莎白教堂
 elizabeth city shire:伊麗莎白河郡
 elizabeth city:伊丽莎白城市
 elizabeth comfort:伊丽莎白安慰
 elizabeth command:伊丽莎白命令
 elizabeth comment:伊丽莎白评论
 elizabeth continue:伊丽莎白继续
+elizabeth cottage:伊丽莎白小屋
 elizabeth create:伊丽莎白创造
 elizabeth cross:伊利沙伯十字勳章
 elizabeth dance:伊丽莎白跳舞
@@ -7847,6 +7892,7 @@ elizabeth ii became:伊丽莎白二世成为
 elizabeth ii diamond jubilee:伊丽莎白二世钻禧
 elizabeth ii said she:伊丽莎白二世说她
 elizabeth ii:伊丽莎白二世
+elizabeth islands:伊丽莎白群岛
 elizabeth jackson:伊丽莎白杰克逊
 elizabeth johnson:伊丽莎白约翰逊
 elizabeth just:伊丽莎白只
@@ -7859,6 +7905,7 @@ elizabeth laugh:伊丽莎白笑
 elizabeth lee:伊丽莎白李
 elizabeth lighthouse:伊丽莎白灯塔
 elizabeth like:伊丽莎白喜欢
+elizabeth line:伊丽莎白线
 elizabeth line:伊利沙伯綫
 elizabeth listen:伊丽莎白听
 elizabeth lookout:伊麗莎白瞭望台
@@ -7902,9 +7949,11 @@ elizabeth smith:伊丽莎白史密斯
 elizabeth soon:伊丽莎白很快
 elizabeth spent:伊丽莎白花
 elizabeth start:伊丽莎白开始
+elizabeth station:伊丽莎白站
 elizabeth still:伊丽莎白仍然
 elizabeth stratton:伊丽莎白斯特拉顿
 elizabeth street mall:伊利沙伯街行人專區
+elizabeth street:伊丽莎白街
 elizabeth street:伊利沙伯街
 elizabeth street:伊利沙白街
 elizabeth stuart:伊丽莎白斯图亚特
@@ -7924,6 +7973,7 @@ elizabeth took:伊丽莎白拿
 elizabeth tower:伊丽莎白塔
 elizabeth tower:伊麗莎白塔(大笨鐘）
 elizabeth tower:大笨鐘
+elizabeth towers:伊丽莎白塔
 elizabeth township:伊丽莎白镇区
 elizabeth treat:伊丽莎白对待
 elizabeth trying:伊丽莎白试图
@@ -7975,6 +8025,8 @@ elk foundation:麋鹿基金
 elk grove hotel:埃爾克格羅夫酒店
 elk grove:埃爾克格羅夫
 elk island national park:麋鹿岛国家公园
+elk island:麋鹿岛
+elk lake:埃烏克湖
 elk life:麋生咖啡
 elk life:麋鹿生活
 elk manage:麋鹿管理
@@ -8153,6 +8205,7 @@ ellipsis actually suggest:省略号实际上建议
 ellipsis actually:省略号实际上
 ellipsis button:省略号按钮
 ellipsis:省略号
+ellipsoid algorithm:椭球算法
 ellipsoid hill:埃利普索伊德山
 ellipsoid of reference:参考椭球
 ellipsoid:椭球
@@ -8235,6 +8288,8 @@ ellsworth recently:埃尔斯沃思最近
 ellsworth says:埃尔斯沃思说
 ellsworth township:埃尔斯沃思镇区
 ellsworth:埃尔斯沃思
+ellwangen abbey:埃尔旺根修道院
+ellwangen monastery:埃尔旺根修道院
 ellwangen state court:埃尔旺根州法院
 ellwangen state:埃尔旺根州
 ellwangen:埃尔旺根
@@ -8255,8 +8310,10 @@ elm product line:榆树产品线
 elm product:榆树产品
 elm river township:埃尔姆里弗镇区
 elm row:榆树行
+elm station:榆树站
 elm street:埃尔姆大街
 elm street:榆树街
+elm street:榆树街道
 elm street:榆樹街
 elm streets:榆树街道
 elm township:埃尔姆镇区
@@ -8284,6 +8341,7 @@ elmet:阿尔梅季耶夫斯克
 elmet:阿爾梅季耶夫斯克
 elmhurst avenue station:埃姆赫斯特大道車站
 elmidae:溪泥甲科
+elmina castle:埃尔米纳城堡
 elmina castle:埃爾米納城堡
 elmina rainbow bridge:艾美纳彩虹桥
 elmina:埃尔米纳
@@ -8402,6 +8460,7 @@ elsa high school:香港犹太国际学校(筲箕湾校舍)
 elsa high school:香港猶太國際學校(筲箕灣校舍)
 elsa technology:艾爾莎科技
 elsagate:艾莎门
+elsas station:阿尔萨斯站
 elsas:阿尔萨斯
 elsas:阿爾薩斯大區
 elsaska:阿尔萨斯
@@ -8554,12 +8613,21 @@ elvish languages:精靈語
 elvitegravir:埃替拉韦
 elwing:愛爾溫
 elwood township:埃尔伍德镇区
+ely abbey:伊利修道院
+ely airport:伊利機場
 ely beach:伊利海滩
+ely cathedral:伊利主教座堂
+ely cathedral:伊利大教堂
 ely cathedral:伊利座堂
+ely cathedrals:伊利大教堂
 ely court:伊利法院
+ely diocese:伊利教區
+ely island:伊利岛
 ely nunatak:伊利冰原島峰
 ely railway station:伊利火车站
 ely said:伊利说
+ely township:伊利鎮區
+ely township:伊利镇区
 ely:伊利
 elyaniv barda:巴達
 elyas omar:依利雅斯奥玛

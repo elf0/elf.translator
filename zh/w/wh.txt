@@ -9,6 +9,7 @@ whakatū:尼爾遜
 whale address:鲸地址
 whale approach:鲸接近
 whale association:鲸协会
+whale barnacle:鯨藤壺
 whale barnacle:鲸藤壶科
 whale behavior:鲸行为
 whale behavioral ecology:鲸行为生态学
@@ -66,6 +67,7 @@ whale ship:鲸船
 whale shogi:鯨將棋
 whale song:鯨歌
 whale song:鲸歌
+whale songs:鯨歌
 whale songs:鲸歌
 whale sound:鲸声音
 whale species:鲸物种
@@ -91,27 +93,39 @@ whaler channel:惠勒海峽
 whaler:捕鯨船
 whalers bluff:捕鯨船海崖
 whalers passage:惠勒斯海峽
+whaling boat:捕鯨船
 whaling committee:捕鯨委員會
 whaling company:捕鯨公司
 whaling culture:捕鯨文化
 whaling fleet:捕鯨艦隊
 whaling in japan:日本捕鲸业
 whaling in the faroe islands:法羅群島捕鯨活動
+whaling ship:捕鯨船
 whaling station:捕鯨站
+whaling vessel:捕鯨船
 whaling:捕鯨
 whalsay:沃爾賽島
 whampoa building:黃埔唐樓
+whampoa dock:黃埔船塢
+whampoa dock:黄埔船坞
+whampoa east:黃埔東
 whampoa estate:黃埔新邨
 whampoa garden bus terminus:黃埔花園總站
 whampoa garden public transport interchange:黃埔花園公共運輸交匯處
 whampoa garden:黃埔花園
 whampoa house:黃埔大廈
+whampoa island:黄埔岛
 whampoa main teaching building:黄埔楼
 whampoa military academy bus terminal:黄埔军校总站
 whampoa military academy:黄埔军校
 whampoa neighbourhood police post:黄埔邻里警岗
 whampoa plaza:黃埔廣場
+whampoa roads:黃埔路
+whampoa roads:黄埔路
+whampoa station:黃埔站
+whampoa station:黄埔站
 whampoa street:黃埔街
+whampoa west:黃埔西
 whampoa:黃埔
 whampoa:黄埔
 whang youn dai achievement award:黄年代成就奖
@@ -119,6 +133,7 @@ whanga-nui-a-tara:威靈頓
 whanga-nui-a-tara:惠灵顿
 whanga-nui-a-tara:惠灵顿 / 惠靈頓 / 威靈頓
 whanga-nui-a-tara:惠靈頓
+whanganui airport:旺加努伊機場
 whanganui national park:旺格努伊国家公园
 whanganui river:旺格努伊国家公园
 whanganui river:旺阿努伊河
@@ -136,6 +151,7 @@ whare karakia weteriana e toru nga awa:三河衛斯理教堂
 whare taonga o waitaha:坎特伯雷博物馆
 whare tonga:南宫
 whare tonga:南宮
+wharf boat:碼頭漁船
 wharf cable tower:有線電視大樓
 wharf estates singapore:九龍倉置業新加坡
 wharf mansions:和富大楼
@@ -154,6 +170,7 @@ wharf road:和富道
 wharf road:海唇街
 wharf road:码头路
 wharf road:碼頭路
+wharf street:碼頭街
 wharf t&t centre:九倉電訊中心
 wharf:碼頭
 wharney guang dong hotel:華美粵海酒店
@@ -2133,6 +2150,7 @@ what if i refuse:如果我拒绝呢
 what if i:什么如果我
 what if we:什么如果我们
 what if:什么如果
+what if:什麼如果
 what image:什么图像
 what immigration:什么移民
 what impact and consequences:什么影响与后果
@@ -7043,6 +7061,7 @@ what reasons:什么原因
 what reasons:什麼原因
 what recommendations:什么建议
 what record:什么记录
+what records:什么记录
 what reforms:什么改革
 what region:什么地区
 what relation:什么关系
@@ -8358,6 +8377,8 @@ what were you:什么是你
 what were:什么是
 what were:什麼是
 what western:什么西方
+what what:什么什么
+what what:什麼什麼
 what wheel:什么轮子
 what white:什么白色
 what why:什么为什么
@@ -8682,6 +8703,7 @@ wheat appear:小麦出现
 wheat be:小麦成为
 wheat became:小麦成为
 wheat beer:小麥啤酒
+wheat beer:小麦啤酒
 wheat began:小麦开始
 wheat biotechnology:小麦生物技术
 wheat biscuit:小麦饼干
@@ -8718,6 +8740,7 @@ wheat farmer:小麦农民
 wheat fiber:小麦纤维
 wheat floor:小麦地板
 wheat flour and sugar:麵粉和糖
+wheat flour:小麦面粉
 wheat flour:麵粉
 wheat food:小麦食品
 wheat from:小麦从
@@ -8827,6 +8850,7 @@ wheel arrangement:机车轴式
 wheel attract:轮子吸引
 wheel began:轮子开始
 wheel blueprint:轮子蓝图
+wheel chair:輪椅
 wheel chair:轮子椅子
 wheel challenge:轮子挑战
 wheel chock:輪擋
@@ -8860,6 +8884,7 @@ wheel size:轮子大小
 wheel slide protection:防滑装置
 wheel slowly:轮子慢慢地
 wheel speed:輪速度
+wheel squad:輪班
 wheel stop:轮子停止
 wheel store:轮子商店
 wheel system:轮子系统
@@ -8886,6 +8911,7 @@ wheelchair and stroller rental:童车和轮椅租赁
 wheelchair and towel:輪椅和毛巾
 wheelchair basketball:輪椅籃球
 wheelchair curling and ski jumping:轮椅冰壶和跳台滑雪
+wheelchair curling:輪椅冰壺
 wheelchair curling:轮椅冰壶
 wheelchair dance:輪椅舞蹈
 wheelchair factory:輪椅工廠
@@ -8901,6 +8927,7 @@ wheelchair racing records:轮椅竞速记录
 wheelchair racing:轮椅竞速
 wheelchair ramp:輪椅坡道
 wheelchair rugby:輪椅欖球
+wheelchair soccer:輪椅足球
 wheelchair space:輪椅空間
 wheelchair tennis at the summer paralympics:夏季残疾人奥林匹克运动会轮椅网球比赛
 wheelchair tennis:輪椅網球
@@ -14725,6 +14752,7 @@ whig edward gibbon:辉格党爱德华长臂猿
 whig edward:辉格党爱德华
 whig government:辉格党政府
 whig governments:辉格党政府
+whig historian:辉格党历史学家
 whig history:辉格史
 whig leader:辉格党领袖
 whig party:辉格党党
@@ -15759,6 +15787,7 @@ whirlpool:渦流
 whirlwind activity:旋风活动
 whirlwind campaign:旋风战役
 whirlwind committee:旋风委员会
+whirlwind computer:旋风计算机
 whirlwind eight-year:旋风八年
 whirlwind eight:旋风八
 whirlwind engines:旋风发动机
@@ -15861,6 +15890,7 @@ whisky heritage:威士忌遗产
 whisky highland:威士忌高地
 whisky history:威士忌历史
 whisky hot:威士忌热
+whisky insurrection:威士忌起义
 whisky is fake:威士忌是假的
 whisky is scotland:威士忌是蘇格蘭
 whisky island:威士忌岛
@@ -15968,11 +15998,13 @@ whitby hotel:惠特比酒店
 whitby museum:惠特比博物馆
 whitby said:惠特比说
 whitby school:惠特比学校
+whitby township:惠特比鎮區
 whitby train station:惠特比火车站
 whitby:惠特比
 whitchurch stouffville:斯图夫维尔
 whitchurch:惠特徹奇
 whitcomb ridge:惠特科姆嶺
+white abalone:白色鮑魚
 white abstraction:白色抽象
 white activist:白色活动家
 white activity:白色活动
@@ -15991,7 +16023,9 @@ white alice:白色爱丽丝
 white alley:白巷子
 white alloy:白色合金
 white america:白色美国
+white american:白色美国人
 white americans vote:美國白人投票
+white americans:白色美国人
 white americans:美國白人
 white amur bream:鳊
 white anaconda:白色蟒蛇
@@ -16545,6 +16579,7 @@ white cylinder:白色圆柱体
 white cylinder:白色圆筒
 white czechs:白色捷克人
 white dacha:白色鄉間別墅
+white darkness:白色黑暗
 white data:白色数据
 white day:白色情人節
 white day:白色日
@@ -16573,6 +16608,7 @@ white dog:白色狗
 white dome:白色圓頂
 white donkey:白色驴子
 white door:白色门
+white dot:白色点
 white dotted skate:白斑深海鰩
 white dove:白色鸽子
 white down jacket:白色羽绒服
@@ -16686,6 +16722,8 @@ white fill:白色填充
 white film:白色电影
 white fin smooth hound:威氏星鯊
 white finger:白色手指
+white finland:白色芬兰
+white finland:白色芬蘭
 white fire:白色火
 white fish meat:白色鱼肉
 white fish:白色鱼
@@ -16694,6 +16732,7 @@ white five:白色五
 white flag:白旗
 white flannel coat:白色法兰绒外套
 white flannel:白色法兰绒
+white fleet:白色艦隊
 white flight:白人群飞
 white floor:白色地板
 white flour:白色面粉
@@ -16771,6 +16810,7 @@ white gold:白色黃金
 white goodman:白色古德曼
 white goods to data:白色商品到数据
 white goods:白色商品
+white goods:白色貨車
 white gorgeted flycatcher:白喉姬鶲
 white gouache:白色水粉画
 white government:白色政府
@@ -17013,12 +17053,14 @@ white laundry:白色洗衣
 white layer:白色层
 white lead:鉛白
 white league:白人联盟
+white league:白色联盟
 white leather couch:白色皮革沙發
 white leather jewellery:白色皮革珠宝
 white leather:白色皮革
 white led:白色发光二极管
 white left-hand:白色左手
 white left:白色左
+white legion:白色军团
 white lego:白色乐高
 white legs:白色腿
 white leopard:白色豹
@@ -17082,6 +17124,7 @@ white mania:白色躁狂
 white mantled barbet:白背鬚鴷
 white marble arch:白色大理石拱门
 white marble:白色大理岩
+white marble:白色大理石
 white margin fin smooth hound:白鰭星鯊
 white mark:白色标记
 white marker:白色标记
@@ -17095,6 +17138,7 @@ white match:白色火柴
 white material:白色材料
 white matrix:白色矩阵
 white matter atrophy:白質萎縮
+white matter:白色物质
 white matter:白質
 white mazda:白色马自达
 white mead:白色蜂蜜酒
@@ -17532,7 +17576,9 @@ white point problem:白点问题
 white point:白点
 white point:白色点
 white pointer:白色指针
+white points:白色点
 white poland:白色波兰
+white pole:白色波蘭
 white politics:白色政治
 white pollution association:白色污染协会
 white pollution problems:白色污染问题
@@ -17617,6 +17663,7 @@ white require:白色需要
 white research:白色研究
 white resin:白色树脂
 white response:白色响应
+white review:白色評論
 white revolution:白色革命
 white rhinoceros:白犀
 white rhinoceros:白犀牛
@@ -17681,6 +17728,7 @@ white rumped vulture:白腰兀鷲
 white running:白色跑步
 white russia:白俄
 white russia:白色俄罗斯
+white russia:白色俄羅斯
 white ruthenia:白鲁塞尼亚
 white safflower:白色红花
 white sail:白色帆
@@ -17743,6 +17791,7 @@ white settlement:白色殖民地
 white settler:白色定居者
 white seven towers:白色七塔
 white seven:白色七
+white shadow:白色阴影
 white sharks:白色鲨鱼
 white shed:小白屋
 white sheep:白色綿羊
@@ -17841,6 +17890,7 @@ white star:白色恒星
 white star:白色星星
 white starch:白色淀粉
 white stars:白色星星
+white station:白色站
 white statue:白色雕像
 white steam clouds:白色蒸汽云
 white steam:白色蒸汽
@@ -18036,6 +18086,7 @@ white tony johnson:白色托尼约翰逊
 white tony:白色托尼
 white toothed rat:長尾巨鼠屬
 white toothed shrew:麝鼩亞科
+white torture:白色酷刑
 white towel:白色毛巾
 white tower hamburgers:白塔樓漢堡
 white tower of thessaloniki:塞萨洛尼基白塔
@@ -18135,6 +18186,7 @@ white walker whisky:白色沃克威士忌
 white walker:白色沃克
 white wall:白色墙
 white wand:白色魔杖
+white war:白色战争
 white warehou:藍灰鰤鯧
 white warehouse:白色倉庫
 white warrior:白色战士
@@ -18160,6 +18212,7 @@ white weapons:白色武器
 white weather balloon:白色气象气球
 white web page:白色网页
 white websites:白色网站
+white wedding:白色婚礼
 white wedding:白色婚禮
 white wednesday:白色星期三
 white week:白色星期
@@ -18243,6 +18296,7 @@ white wrinkle:白色皱纹
 white writing:白色写作
 white zimbabweans:津巴布韦白人
 white zinc:白色锌
+white zombie:白色喪屍
 white zone:白色地带
 white's thrush:白氏地鶇
 white-backed woodpecker:白背啄木鸟
@@ -18357,7 +18411,10 @@ whitehead club golf driving range:白石高尔夫球练习场
 whitehead club golf driving range:白石高爾夫球練習場
 whitehead club:白石俱樂部
 whitehead club:白石具乐部
+whitehead highway:白石公路
 whitehead institute:怀特黑德研究所
+whitehead island:白石岛
+whitehead light:白石光
 whitehead peninsula:白石半島
 whitehead problem:怀特海问题
 whitehead said:怀特黑德说
@@ -18366,6 +18423,7 @@ whitehead soon:怀特黑德很快
 whitehead storage:白石自助貨櫃倉
 whitehead storage:白石自助货柜仓
 whitehead street:怀特黑德街
+whitehead theorem:怀特黑德定理
 whitehead theorem:懷特黑德定理
 whitehead torpedo:怀特黑德鱼雷
 whitehead's broadbill:黑喉绿阔嘴鸟
@@ -18373,7 +18431,11 @@ whitehead's swiftlet:怀氏金丝燕
 whitehead's trogon:灰胸咬鵑
 whitehead:怀特黑德
 whitehead:白石
+whitehorse airport:白馬機場
+whitehorse lake:白馬湖
+whitehorse mountain:白馬山
 whitehorse plaza:白马广场
+whitehorse ranch:怀特霍斯牧场
 whitehorse:怀特霍斯
 whitehorse:白馬
 whiteia:懷特魚屬
@@ -18430,6 +18492,7 @@ whitfield road rest garden:威非路道休憩公园
 whitfield road rest garden:威非路道休憩公園
 whitfield road:威非路道
 whitfordiodendron:猪腰豆属
+whitianga aerodrome:菲蒂昂格飛行場
 whitianga:菲蒂昂格
 whiting peak:懷廷峰
 whiting petroleum:懷汀石油
@@ -18506,15 +18569,18 @@ whitney hotel:惠特尼酒店
 whitney houston and daughter:惠特尼休斯敦与女儿
 whitney houston:惠特尼休斯敦
 whitney i:惠特尼我
+whitney inequality:惠特尼不等式
 whitney jet engine:惠特尼喷气发动机
 whitney johnson:惠特尼约翰逊
 whitney laboratory:惠特尼实验室
 whitney morris:惠特尼莫里斯
 whitney museum exhibit:惠特尼美国艺术博物馆展览
+whitney museum:惠特尼博物馆
 whitney museum:惠特尼美国艺术博物馆
 whitney national bank:惠特尼国家银行
 whitney open:惠特尼开
 whitney page:惠特尼页
+whitney peak:惠特尼峰
 whitney publish:惠特尼发表
 whitney radar:惠特尼雷达
 whitney reference:惠特尼引用
@@ -18526,6 +18592,8 @@ whitney singer:惠特尼歌手
 whitney students:惠特尼学生
 whitney studio:惠特尼工作室
 whitney than she:惠特尼比她
+whitney township:惠特尼鎮區
+whitney umbrella:惠特尼伞
 whitney:惠特尼
 whitstable:惠斯塔布
 whitsun reef:牛轭礁
@@ -18533,6 +18601,7 @@ whitsunday islands:聖靈群島
 whitsunday region:威桑迪區政府
 whittaker function:惠泰克函数
 whitten peak:懷滕峰
+whittier college:惠蒂尔学院
 whittier college:惠蒂爾學院
 whittier:惠蒂尔
 whittle glacier:維托冰川
@@ -31474,6 +31543,7 @@ why zuckerberg:为何扎克伯格
 why:为什么
 why:为何
 why:為什麼
+whyalla airport:怀阿拉机场
 whyalla:怀阿拉
 whydah gally:維達號
 whynot:歪脑

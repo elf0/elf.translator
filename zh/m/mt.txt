@@ -307,6 +307,7 @@ mtr quarry bay substation:港铁鲗鱼涌配电站
 mtr requisition:港鐵屯門南延線用地
 mtr requisition:港铁屯门南延线用地
 mtr rotem emu:港鐵市區綫韓製列車
+mtr shenzhen:港鐵深圳
 mtr siu ho wan depot:港鐵小濠灣車廠
 mtr siu ho wan depot:港铁小濠湾车厂
 mtr siu hong station (north):港鐵兆康站（北）
@@ -400,6 +401,7 @@ mtv unplugged in new york:纽约不插电
 mtv:音乐电视
 mtv:音樂電視網
 mtwara airport:姆特瓦拉机场
+mtwara airport:姆特瓦拉機場
 mtwara bölgesi:姆特瓦拉區
 mtwara bölgesi:姆特華拉區
 mtwara piirkond:姆特瓦拉區

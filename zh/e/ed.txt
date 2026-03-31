@@ -40,6 +40,7 @@ edateku island:枝手久島
 edathala:埃达塔拉
 eday:伊迪島
 edchera:埃德切拉
+edda awards:埃达奖
 edda:埃达
 eddelak:埃德拉克
 edderitz:埃德里茨
@@ -58,6 +59,7 @@ eddie jones:艾迪琼斯
 eddie lam yu sing:林宇星
 eddie lau:劉培基
 eddie li:李雨陽
+eddie louis:艾迪路易斯
 eddie meet:艾迪遇见
 eddie montgomery and troy:艾迪蒙哥马利和特洛伊
 eddie montgomery:艾迪蒙哥马利
@@ -90,6 +92,7 @@ eddy field:涡流场
 eddy hartono:洪忠中
 eddy kurniawan:羅天寧
 eddy point:埃迪角
+eddy test:涡流测试
 eddy w m lai:賴維銘
 eddy:涡流
 ede road playground:義德道遊樂場
@@ -238,6 +241,7 @@ edge browser:边浏览器
 edge city:边缘城市
 edge computing platforms:邊緣運算平台
 edge computing:邊緣運算
+edge connectivity:边连通
 edge contracted icosahedron:邊收縮二十面體
 edge contraction:边收缩
 edge cover:边覆盖
@@ -283,6 +287,8 @@ edge of tomorrow:明日边缘
 edge off:边关闭
 edge output:边输出
 edge painting:边绘画
+edge peak:北端峰
+edge peak:边峰
 edge phenomenon:边现象
 edge polishing:边抛光
 edge production:边生产
@@ -321,6 +327,9 @@ edgeworthstown:埃奇沃思镇
 edguy:刀鋒邊緣
 edgware road tube station:埃奇韋爾路站
 edgware road:埃奇威尔路
+edgware road:埃奇韋爾路
+edgware roads:埃奇韋爾路
+edgware station:埃奇韋爾站
 edgware tube station:埃奇韋爾站
 edgware:埃奇韋爾
 edhellond:艾德西隆得
@@ -3528,6 +3537,8 @@ edinborgarkastali:爱丁堡城堡
 edinburc:Àidīngbǎo
 edinburc:愛丁堡
 edinburc:爱丁堡
+edinburg review:愛丁堡評論
+edinburg township:愛丁堡鎮區
 edinburg-kasteel:爱丁堡城堡
 edinburg:Àidīngbǎo
 edinburg:愛丁堡
@@ -3540,9 +3551,13 @@ edinburgas:愛丁堡
 edinburgas:爱丁堡
 edinburgensis:中洛锡安
 edinburgh academy:爱丁堡公学
+edinburgh academy:爱丁堡学院
 edinburgh agreement:爱丁堡协议
 edinburgh airport is scotland:愛丁堡機場是蘇格蘭
+edinburgh airport:愛丁堡机场
 edinburgh airport:愛丁堡機場
+edinburgh airport:爱丁堡机场
+edinburgh airport:爱丁堡機場
 edinburgh and aberdeen:爱丁堡和阿伯丁
 edinburgh and beijing:爱丁堡和北京
 edinburgh and belfast:爱丁堡和贝尔法斯特
@@ -3581,6 +3596,7 @@ edinburgh cancer centre:爱丁堡癌症中心
 edinburgh cancer:爱丁堡癌症
 edinburgh carl:爱丁堡卡尔
 edinburgh castle rock:爱丁堡城堡岩石
+edinburgh castle:愛丁堡城堡
 edinburgh castle:爱丁堡城堡
 edinburgh centre south bridge:爱丁堡中心南桥
 edinburgh centre:爱丁堡中心
@@ -3593,11 +3609,16 @@ edinburgh city council:爱丁堡市议会
 edinburgh city:爱丁堡城市
 edinburgh club:爱丁堡俱乐部
 edinburgh college of art:爱丁堡艺术学院
+edinburgh college:愛丁堡學院
 edinburgh college:爱丁堡学院
 edinburgh comedy awards:愛丁堡喜劇獎
 edinburgh comedy:爱丁堡喜剧
 edinburgh company:爱丁堡公司
 edinburgh constituency:爱丁堡选区
+edinburgh crossrail:愛丁堡橫貫鐵路
+edinburgh derby:愛丁堡德比
+edinburgh dungeon:愛丁堡地牢
+edinburgh encyclopedia:爱丁堡百科全书
 edinburgh experience:爱丁堡体验
 edinburgh family:爱丁堡家庭
 edinburgh festival fringe:愛丁堡國際藝穗節
@@ -3607,6 +3628,7 @@ edinburgh festival:爱丁堡节日
 edinburgh film festival:爱丁堡电影节
 edinburgh friends:爱丁堡朋友
 edinburgh future:爱丁堡未来
+edinburgh gazette:爱丁堡公报
 edinburgh georgia:爱丁堡格鲁吉亚
 edinburgh golfers:爱丁堡高尔夫球手
 edinburgh guitar:爱丁堡吉他
@@ -3635,12 +3657,14 @@ edinburgh law:爱丁堡法律
 edinburgh magazine:爱丁堡杂志
 edinburgh marathon:爱丁堡马拉松
 edinburgh mathematical society:愛丁堡數學學會
+edinburgh medal:愛丁堡獎章
 edinburgh medical college:爱丁堡医学院
 edinburgh meeting:爱丁堡会议
 edinburgh military:爱丁堡军事
 edinburgh minister:爱丁堡部长
 edinburgh monarch:爱丁堡君主
 edinburgh napier university:愛丁堡納皮爾大學
+edinburgh napier:愛丁堡納皮爾
 edinburgh of the seven seas:七海愛丁堡
 edinburgh of the seven seas:七海爱丁堡
 edinburgh of the seven seas:七海爱丁堡 / 七海愛丁堡
@@ -3652,6 +3676,7 @@ edinburgh or bristol:爱丁堡或布里斯托尔
 edinburgh or glasgow airport:爱丁堡或格拉斯哥机场
 edinburgh parallel computing centre:爱丁堡并行计算中心
 edinburgh parallel computing:爱丁堡并行计算
+edinburgh park:愛丁堡公園
 edinburgh park:爱丁堡公园
 edinburgh parliament:爱丁堡议会
 edinburgh place ferry pier:愛丁堡廣場渡輪碼頭
@@ -3663,17 +3688,22 @@ edinburgh protein interaction:爱丁堡蛋白质相互作用
 edinburgh protein:爱丁堡蛋白质
 edinburgh providing:爱丁堡提供
 edinburgh residents:爱丁堡居民
+edinburgh review:愛丁堡評論
+edinburgh road:爱丁堡路
 edinburgh royal:爱丁堡皇家
 edinburgh school:爱丁堡学校
 edinburgh scientists:爱丁堡科学家
 edinburgh scotland:爱丁堡苏格兰
 edinburgh sensor:爱丁堡传感器
+edinburgh south:愛丁堡南
 edinburgh south:爱丁堡南
 edinburgh square:愛丁堡廣場
 edinburgh streets:爱丁堡街道
 edinburgh success:爱丁堡成功
 edinburgh team:爱丁堡团队
 edinburgh technopole:爱丁堡科技城
+edinburgh theatre:爱丁堡剧场
+edinburgh theatre:爱丁堡剧院
 edinburgh time:爱丁堡时间
 edinburgh tourism:爱丁堡旅游
 edinburgh tower:公爵大厦
@@ -3690,14 +3720,20 @@ edinburgh union:爱丁堡联盟
 edinburgh university library:愛丁堡大學圖書館
 edinburgh university press and columbia university:爱丁堡大学出版社和哥伦比亚大学
 edinburgh university press:爱丁堡大学出版社
+edinburgh university:愛丁堡大学
+edinburgh university:愛丁堡大學
+edinburgh university:爱丁堡大学
+edinburgh university:爱丁堡大學
 edinburgh villa:桂盧
 edinburgh waverley railway station:愛丁堡威瓦利站
 edinburgh way:爱丁堡路
+edinburgh west:愛丁堡西
 edinburgh whisky:爱丁堡威士忌
 edinburgh wool:爱丁堡羊毛
 edinburgh world:爱丁堡世界
 edinburgh writers:爱丁堡作家
 edinburgh zoo:愛丁堡動物園
+edinburgh zoo:爱丁堡动物园
 edinburgh-i vár:爱丁堡城堡
 edinburgh:Àidīngbǎo
 edinburgh:愛丁堡
@@ -3729,6 +3765,7 @@ edion:愛電王
 edion:爱电王
 edirne merkez:埃迪爾內
 edirne province:埃迪尔内省
+edirne province:埃迪爾內省
 edirne:埃迪尔内省
 edirne:埃迪爾內
 edirnė:埃迪爾內
@@ -3844,6 +3881,7 @@ edit cancer:编辑癌
 edit card:编辑卡
 edit cells:编辑细胞
 edit challenge:编辑挑战
+edit check:编辑检查
 edit chicken:编辑鸡
 edit client:编辑客户
 edit code:编辑代码
@@ -3878,6 +3916,7 @@ edit design:编辑设计
 edit dialogue:编辑对话
 edit different:编辑不同的
 edit distance:編輯距離
+edit distance:编辑距离
 edit document:编辑文档
 edit documents:编辑文件
 edit documents:编辑文档
@@ -5121,6 +5160,7 @@ edt bei lambach:兰巴赫附近埃特
 edtv:艾德私人频道
 edu foundation:教育基金
 edu support:教育支持
+edu tv:教育电视
 edu:教育
 edualeudo peulei montalba giji:爱德华多·弗雷·蒙塔尔瓦总统基地
 eduard gölü:爱德华湖
@@ -6146,6 +6186,7 @@ education building 1:第一教學大樓
 education building 2:第二教學大樓
 education building:教育大樓
 education building:教育學院大樓
+education building:教育建筑
 education building:教育館
 education buildings:教育建筑
 education bureau also hopes:教育局也希望
@@ -6393,6 +6434,7 @@ education documents:教育文档
 education does:教育做
 education dream:教育梦
 education dreams:教育梦想
+education economics:教育經濟學
 education economics:教育经济学
 education economist:教育经济学家
 education ecosystem platform:教育生态系统平台
@@ -6833,6 +6875,7 @@ education management problems:教育管理问题
 education management software provide:教育管理软件提供
 education management system:教育管理系统
 education management:教育管理
+education management:教育管理学
 education manager:教育经理
 education manner:教育方式
 education manual:教育手册
@@ -7119,6 +7162,7 @@ education professionals help parents:教育专业人员帮助父母
 education professionals:教育专业人员
 education professor:教育教授
 education program:教育程序
+education program:教育節目
 education programming consultant:教育编程顾问
 education programming:教育编程
 education programs:教育程序
@@ -7137,6 +7181,7 @@ education provide:教育供应
 education provide:教育提供
 education provides:教育提供
 education providing:教育提供
+education psychology:教育心理学
 education public association:教育公共协会
 education public policy:教育公共政策
 education public service platform:教育公共服务平台
@@ -7415,6 +7460,7 @@ education technology solution:教育技术解决方案
 education technology standardization:教育技术标准化
 education technology standards:教育技术标准
 education technology:教育技术
+education technology:教育科技
 education television channel:教育电视频道
 education television station:教育电视台
 education television:教育电视
@@ -7729,6 +7775,7 @@ edward and me:爱德华和我
 edward and richard:爱德华和理查德
 edward and simpson:爱德华和辛普森
 edward and sometimes:爱德华和有时
+edward angle:爱德华角
 edward answer:爱德华回答
 edward ask:爱德华问
 edward attack:爱德华攻击
@@ -7761,6 +7808,7 @@ edward decides:爱德华决定
 edward derby when i:爱德华德比当我
 edward derby:爱德华德比
 edward does:爱德华做
+edward duke:爱德华公爵
 edward enter:爱德华进入
 edward ever:爱德华曾经
 edward everett:西北 愛和烈街
@@ -7809,6 +7857,7 @@ edward kennedy and oregon:爱德华肯尼迪和俄勒冈州
 edward kennedy:爱德华肯尼迪
 edward kill:爱德华杀
 edward king:爱德华国王
+edward lake:爱德华湖
 edward lar:爱德华拉尔
 edward law:爱德华法律
 edward lawrence:爱德华劳伦斯
@@ -7844,6 +7893,7 @@ edward owen:爱德华欧文
 edward page:爱德华页
 edward participate:爱德华参加
 edward plan:爱德华计划
+edward prince:爱德华王子
 edward protest:爱德华抗议
 edward real:爱德华真的
 edward recover:爱德华恢复
@@ -7958,6 +8008,7 @@ edwards corporation:爱德华兹公司
 edwards county:愛德華茲縣
 edwards county:爱德华兹县
 edwards currently:爱德华兹目前
+edwards dam:爱德华兹水坝
 edwards demonstration:爱德华兹示范
 edwards emphasize:爱德华兹强调
 edwards enterprise:爱德华兹企业

@@ -783,6 +783,7 @@ cable market:电缆市场
 cable material:电缆材料
 cable materials:电缆材料
 cable models:电缆模型
+cable modem:电缆调制解调器
 cable modem:纜線數據機
 cable myanmar:电缆缅甸
 cable need:电缆需要
@@ -971,6 +972,7 @@ cable television systems:有线电视系统
 cable television technology:有线电视技术
 cable television time:有线电视时间
 cable television:有线电视
+cable television:电缆电视
 cable temperature:电缆温度
 cable ten:电缆十
 cable test:电缆测试
@@ -984,7 +986,9 @@ cable to a new:电缆到一个新的
 cable together:电缆一起
 cable transfer:电缆传输
 cable transport systems:缆索运输系统
+cable transport:电缆运输
 cable transport:缆索运输
+cable transportation:电缆运输
 cable tray:电缆托盘
 cable tunnel project include:电缆隧道项目包括
 cable tunnel:电缆隧道
@@ -1161,6 +1165,7 @@ cabrales perform:卡夫拉莱斯执行
 cabrales said:卡夫拉莱斯说
 cabrales:卡夫拉莱斯
 cabranes:卡夫拉内斯
+cabras island:山羊岛
 cabras:shānyáng
 cabras:山羊
 cabredo:卡夫雷多
@@ -1283,6 +1288,7 @@ cache coherence:快取一致性
 cache component:缓存组件
 cache components:缓存组件
 cache configuration:缓存配置
+cache consistency:缓存一致
 cache constraint:缓存约束
 cache contain:缓存包含
 cache content metadata:缓存内容元数据
@@ -1362,6 +1368,7 @@ cache poisoning:缓存中毒
 cache pollution:缓存污染
 cache product:缓存产品
 cache provides:缓存提供
+cache purge:缓存清除
 cache purpose:缓存目的
 cache rather than:缓存而不是
 cache read:缓存读
@@ -1497,6 +1504,7 @@ cactus and plants:仙人掌和植物
 cactus and tree:仙人掌和树
 cactus attract:仙人掌吸引
 cactus be:仙人掌成为
+cactus bowl:仙人掌碗
 cactus bug:仙人掌虫
 cactus candy:仙人掌糖果
 cactus club:仙人掌俱乐部
@@ -1505,6 +1513,7 @@ cactus coral:仙人掌珊瑚
 cactus density:仙人掌密度
 cactus dot:仙人掌点
 cactus drink:仙人掌饮料
+cactus family:仙人掌科
 cactus fifteen thirty nine:仙人掌十五三十九
 cactus fifteen:仙人掌十五
 cactus flower:仙人掌花
@@ -1517,6 +1526,7 @@ cactus icon:仙人掌图标
 cactus juice:仙人掌汁
 cactus league:仙人掌联盟
 cactus mansion:加達樓
+cactus moth:仙人掌蛾
 cactus needle:仙人掌针
 cactus plants:仙人掌植物
 cactus resort sanya by gloria:三亚凯莱仙人掌度假酒店
@@ -1564,6 +1574,7 @@ cadastre management and land:地籍管理与土地
 cadastre management:地籍管理
 cadastre office:地籍办公室
 cadastre:地籍
+cadaujac station:卡多雅克站
 cadaujac:卡多雅克
 cadaver dissection:屍體解剖
 cadaver synod:僵尸审判
@@ -1658,6 +1669,8 @@ cadillac can decide:凯迪拉克可以决定
 cadillac car sculpture:凯迪拉克汽车雕塑
 cadillac car:凯迪拉克汽车
 cadillac car:凯迪拉克车
+cadillac center:凯迪拉克中心
+cadillac centre:凯迪拉克中心
 cadillac ceo:凯迪拉克首席执行官
 cadillac championship:凯迪拉克冠军赛
 cadillac championship:凯迪拉克锦标赛
@@ -1855,15 +1868,20 @@ caelatoglanis zonatus:雕骨鮡
 caelestiventus:天风翼龙属
 caelian hill:西里欧山
 caelifera:蝗亚目
+caelum supercluster:雕具座超星系團
 caelum:雕具座
 caelus:凯路斯
 caen airport:卡昂机场
+caen airport:卡昂機場
 caen and le havre:卡昂和勒阿弗尔
 caen and paris saint-germain:卡昂和巴黎圣日耳曼
 caen canal:卡昂运河
+caen castle:卡昂城堡
+caen castle:康城城堡
 caen in june:卡昂在六月
 caen international:卡昂国际
 caen station:卡昂站
+caen station:康城站
 caen university:卡昂大学
 caen:卡昂
 caen:康城
@@ -2007,6 +2025,7 @@ caesium permanganate:高锰酸铯
 caesium peroxide:过氧化铯
 caesium pertechnetate:高锝酸铯
 caesium radiation:铯辐射
+caesium salt:铯盐
 caesium selenate:硒酸铯
 caesium selenide:硒化銫
 caesium standard:铯钟
@@ -2307,6 +2326,7 @@ caffeine:咖啡因
 caffeinism usually:咖啡因中毒通常
 caffeinism:咖啡因中毒
 caffeyl alcohol:咖啡酰基乙醇
+caffiers station:卡菲耶站
 caffiers:卡菲耶
 caffy backpacker hoatel:西双版纳背包客青年旅舍
 caffy backpacker hoatel:西雙版納背包客青年旅舍
@@ -2361,6 +2381,7 @@ cagayan valley:卡加延河谷
 cagayan:卡加延省
 cagayán de oro:卡加延德奥罗
 cagayán:卡加延省
+cage ball:籠球
 cage effect:笼效应
 cage nut:浮动螺母
 cage of eden:逃離伊甸園
@@ -2372,13 +2393,17 @@ cageris:察盖里
 caggiano:卡贾诺
 cagle peaks:卡傑爾峰
 cagle's map turtle:卡氏地圖龜
+cagliari airport:卡利亚里机场
 cagliari any chance:卡利亚里任何机会
 cagliari any:卡利亚里任何
 cagliari calcio:卡利亚里足球俱乐部
+cagliari cathedral:卡利亚里主教座堂
 cagliari cathedral:卡利亞里主教座堂
 cagliari football team:卡利亚里足球队
 cagliari international:卡利亚里国际
+cagliari province:卡利亚里省
 cagliari railway station:卡利亞里車站
+cagliari university:卡利亚里大学
 cagliari:卡利亚里
 caglio:卡廖
 cagnac les mines:卡尼亚克莱米讷
@@ -2399,6 +2424,8 @@ cahaignes:卡艾涅
 cahal pech:卡哈帕奇
 cahama:卡哈馬
 caharet:卡阿雷
+cahaya station:丽阳站
+cahaya station:麗陽站
 cahaya:丽阳
 cahaya:麗陽
 cahedaigu:擦合代古
@@ -2410,6 +2437,7 @@ cahokia:卡霍基亞土墩遺址
 cahon:卡翁
 cahora bassa district:卡布拉巴薩區
 cahora bassa:卡布拉巴萨水库
+cahors cathedral:卡奥尔主教座堂
 cahors cathedral:卡奧爾主教座堂
 cahors wine:卡奥尔葡萄酒
 cahors:卡奥尔
@@ -2625,6 +2653,7 @@ caicuoliao:蔡厝寮
 caida primary school:蔡大小学
 caida:财大社区
 caidacun:蔡大村
+caidaling station:蔡大岭站
 caidaling:蔡大岭
 caidao:菜刀
 caidaolun:菜刀崙
@@ -2791,6 +2820,7 @@ caihong bridge east:彩虹桥东
 caihong bridge station:彩虹桥站
 caihong bridge:彩虹桥
 caihong bridge:彩虹桥站
+caihong bridge:彩虹橋
 caihong children's park:cǎihóngértónggōngyuán
 caihong children's park:ㄘㄞˇㄏㄨㄥˊㄦˊㄊㄨㄥˊㄍㄨㄥㄩㄢˊ
 caihong children's park:彩虹儿童公园
@@ -2831,6 +2861,7 @@ caihuaping:菜花坪镇
 caihuatun:才花屯
 caihucun:蔡胡村
 caihujia:蔡胡家
+caihuying bridge:菜户营桥
 caihuying south road:菜戶營南路
 caihuying south road:菜户营南路
 caihuying station:菜户营站
@@ -3222,6 +3253,7 @@ cairima:采日玛镇
 cairn ridge:克爾恩嶺
 cairngorms national park:凱恩戈姆山國家公園
 cairngorms:凱恩戈姆山脈
+cairns airport:凯恩斯机场
 cairns airport:凱恩斯機場
 cairns convention centre:凱恩斯會議中心
 cairns cove:凱恩斯灣
@@ -3263,6 +3295,8 @@ cairo and washington:开罗与华盛顿
 cairo appeal:开罗上诉
 cairo appear:开罗出现
 cairo as well as:开罗以及
+cairo aviation:开罗航空
+cairo aviation:開羅航空
 cairo bank:开罗银行
 cairo basketball:开罗篮球
 cairo became:开罗成为
@@ -3271,6 +3305,7 @@ cairo bombing:开罗爆炸
 cairo bridge:开罗桥
 cairo building:开罗建筑物
 cairo castle:开罗城堡
+cairo castle:開羅城堡
 cairo cavalry brigade:开罗骑兵旅
 cairo cavalry:开罗骑兵
 cairo cease-fire:开罗停火
@@ -3278,7 +3313,10 @@ cairo check:开罗检查
 cairo church bombing:开罗教堂爆炸
 cairo church:开罗教堂
 cairo citadel clock:開羅城堡鐘樓
+cairo citadel:开罗城堡
 cairo citadel:萨拉丁城堡
+cairo citadel:開羅城堡
+cairo conference:开罗会议
 cairo conference:開羅會議
 cairo consulate:开罗领事馆
 cairo contemporary dance:开罗当代舞
@@ -3294,6 +3332,7 @@ cairo embassy:开罗大使馆
 cairo events:开罗事件
 cairo explosion:开罗爆炸
 cairo fire:開羅大火災
+cairo flagpole:開羅旗杆
 cairo forest:开罗森林
 cairo geniza:开罗热尼扎
 cairo government:开罗政府
@@ -3328,6 +3367,7 @@ cairo lick:开罗舔
 cairo light rail transit:開羅輕軌
 cairo meeting:开罗会议
 cairo metro workers:開羅地鐵工人
+cairo metro:开罗地铁
 cairo metro:開羅地鐵
 cairo military hospital:开罗军队医院
 cairo monorail:开罗单轨
@@ -3368,6 +3408,9 @@ cairo television station:开罗电视台
 cairo time:开罗时间
 cairo to palestine:开罗到巴勒斯坦
 cairo tower:开罗塔
+cairo tower:開羅塔
+cairo township:开罗镇区
+cairo township:開羅鎮區
 cairo traffic:开罗交通
 cairo train station:开罗火车站
 cairo treaty:开罗条约
@@ -3376,6 +3419,8 @@ cairo trying:开罗试图
 cairo university hospital:开罗大学医院
 cairo university professor:开罗大学教授
 cairo university:开罗大学
+cairo university:開羅大学
+cairo university:開羅大學
 cairo until:开罗直到
 cairo violence continues:开罗暴力继续
 cairo violence:开罗暴力
@@ -3449,6 +3494,7 @@ caishijie homestead:彩世界家园
 caishikou avenue:càishì kǒu dàjiē
 caishikou avenue:菜市口大街
 caishikou execution grounds:菜市口法场
+caishikou station:菜市口站
 caishikou str:càishì kǒu dàjiē
 caishikou str:菜市口大街
 caishikou:菜市口
@@ -4025,12 +4071,14 @@ cala:查拉村
 calabar angwantibo:金熊猴
 calabar python:橡皮蟒
 calabar residents:卡拉巴尔居民
+calabar river:卡拉巴尔河
 calabar river:卡拉巴爾河
 calabar:卡拉巴尔
 calabarzon:卡拉巴松
 calabash brothers:葫芦兄弟
 calabash nebula:葫蘆星雲
 calabash porridge:葫芦粥
+calabash river:葫芦河
 calabash tree:葫芦树
 calabash:葫芦
 calabazas shiner:麗美洲鱥
@@ -4073,6 +4121,7 @@ calahorra tower:卡拉奥拉塔
 calahorra:卡拉奥拉
 calais from:加来从
 calais jungle:加萊叢林
+calais lighthouse:加来灯塔
 calais lighthouse:加萊燈塔
 calais port:加来港口
 calais refugee:加来难民
@@ -5170,9 +5219,16 @@ calculus:微积分
 calculus:微积分学
 calcuta:加尔各答
 calcuta:加爾各答
+calcutta airport:加尔各答机场
+calcutta airport:加爾各答機場
+calcutta cup:加爾各答杯
+calcutta flag:加尔各答旗
 calcutta flag:加爾各答旗
 calcutta mathematical society:加尔各答数学学会
+calcutta metro:加尔各答地铁
 calcutta stock exchange:加尔各答证券交易所
+calcutta university:加尔各答大学
+calcutta university:加爾各答大學
 calcutta:加尔各答
 calcutta:加爾各答
 calcutá:加尔各答
@@ -5231,9 +5287,11 @@ caldwell catalogue:科德韦尔深空天体表
 caldwell chair:考德威尔椅子
 caldwell college:考德威尔学院
 caldwell community college:考德威尔社区学院
+caldwell county:考德威尔县
 caldwell county:考德威爾縣
 caldwell insist:考德威尔坚持
 caldwell is right:考德威尔是对的
+caldwell parish:考德威尔堂区
 caldwell parish:考德威尔教区
 caldwell peak:考德威爾峰
 caldwell said:考德威尔说
@@ -5260,10 +5318,13 @@ caledonia and fiji:喀里多尼亚和斐济
 caledonia bridge was built in:喀里多尼亚桥建于
 caledonia bridge:喀里多尼亚桥
 caledonia clean energy:喀里多尼亚清洁能源
+caledonia county:喀里多尼亚县
 caledonia island:喀里多尼亚岛
 caledonia newydd:新喀里多尼亚
+caledonia station:喀里多尼亚站
 caledonia system:喀里多尼亚系统
 caledonia to australia:喀里多尼亚到澳大利亚
+caledonia together:喀里多尼亚一起
 caledonia township:喀里多尼亚镇区
 caledonia:古苏格兰
 caledonia:喀里多尼亚
@@ -5556,7 +5617,9 @@ calendar winter:日历冬季
 calendar with sun:日历与太阳
 calendar with your days:日历与你的天
 calendar would:日历将
+calendar year:日历年
 calendar year:日曆年度
+calendar years:日历年
 calendar:历法
 calendar:日历
 calendarium naturale magicum perpetuum:自然魔法萬年曆
@@ -5647,15 +5710,18 @@ calgary and the u.s. border:卡尔加里和美国边
 calgary and the university of toronto:卡尔加里和多伦多大学
 calgary and toronto:卡尔加里和多伦多
 calgary and winnipeg:卡尔加里和温尼伯
+calgary area:卡尔加里地区
 calgary as well:卡尔加里也
 calgary bay:卡尔加里海湾
 calgary become:卡尔加里成为
 calgary cancer:卡尔加里癌症
 calgary cannabis:卡尔加里大麻
 calgary catholic:卡尔加里天主教
+calgary centre:卡加利中心
 calgary centre:卡加利中選區
 calgary company:卡尔加里公司
 calgary data center:卡尔加里数据中心
+calgary dinosaurs:卡尔加里恐龙
 calgary dollar will allow:卡尔加里元将允许
 calgary dollar:卡尔加里元
 calgary exhibition:卡尔加里展览
@@ -5691,6 +5757,7 @@ calgary pride parade:卡尔加里骄傲游行
 calgary public library:卡尔加里公共图书馆
 calgary recently:卡尔加里最近
 calgary regiment:卡尔加里团
+calgary region:卡尔加里地区
 calgary residents:卡尔加里居民
 calgary rock:卡尔加里岩石
 calgary scientific:卡尔加里科学
@@ -5701,9 +5768,13 @@ calgary time:卡尔加里时间
 calgary tower:卡加利塔
 calgary trade:卡尔加里贸易
 calgary transportation:卡尔加里运输
+calgary university:卡加利大学
+calgary university:卡加利大學
+calgary university:卡尔加里大学
 calgary west:卡尔加里西
 calgary winter olympics:卡尔加里冬季奥运会
 calgary world cup:卡尔加里世界杯
+calgary zoo:卡加利動物園
 calgary zoo:卡尔加里动物园
 calgary:卡加利
 calgary:卡尔加里
@@ -5719,15 +5790,18 @@ cali agree:卡利同意
 cali and caracas:卡利和卡拉卡斯
 cali brand:卡利品牌
 cali cartel:卡利集团
+cali carter:卡利卡特
 cali drug cartel:卡利贩毒集团
 cali international airport:卡利国际机场
 cali is colombia:卡利是哥伦比亚
 cali meeting:卡利會議
 cali open:卡利网球公开赛
+cali river:卡利河
 cali sabiix:阿里萨比耶
 cali said:卡利说
 cali says:卡利说
 cali spider:卡利蜘蛛
+cali tower:卡利塔
 cali want:卡利想要
 cali:卡利
 caliban's war:卡利班之戰
@@ -5942,6 +6016,7 @@ californeye:加利福尼亚州
 californeye:加利福尼亞州
 california abolish:加利福尼亚废除
 california academy of sciences:加利福尼亚州科学院
+california academy:加利福尼亚学院
 california accuse:加利福尼亚州指控
 california achieve:加利福尼亚州实现
 california adventure park:加利福尼亚冒险公园
@@ -6070,6 +6145,8 @@ california begin:加利福尼亚开始
 california behavior:加利福尼亚州行为
 california berkeley:加利福尼亚伯克利
 california berkeley:加利福尼亚州伯克利
+california berkeley:加利福尼亞州伯克利
+california berkeley:加利福尼亞州柏克萊
 california billboard:加利福尼亚州广告牌
 california biotechnology company:加利福尼亚生物技术公司
 california biotechnology:加利福尼亚生物技术
@@ -6093,6 +6170,7 @@ california business:加利福尼亚商业
 california buy:加利福尼亚买
 california by:加利福尼亚州被
 california cabernet sauvignon:加利福尼亚赤霞珠
+california campaign:加利福尼亚战役
 california cancer:加利福尼亚州癌症
 california cancer:加利福尼亚癌症
 california candidate:加利福尼亚候选人
@@ -6143,6 +6221,7 @@ california condor:加州神鷲
 california conference:加利福尼亚会议
 california consider:加利福尼亚州考虑
 california constitution:加利福尼亚州宪法
+california constitution:加利福尼亞州宪法
 california consumer privacy:加利福尼亚州消费者隐私
 california consumer privacy:加利福尼亚消费者隐私
 california consumer protection:加利福尼亚消费者保护
@@ -6159,6 +6238,7 @@ california county school system:加利福尼亚县学校系统
 california county:加利福尼亚县
 california court:加利福尼亚州法院
 california court:加利福尼亚法院
+california court:加利福尼亞州法院
 california courts of appeal:加利福尼亞州上訴法院
 california courts:加利福尼亚州法院
 california courts:加利福尼亚法院
@@ -6230,6 +6310,7 @@ california from:加利福尼亚州从
 california fusion:加利福尼亚融合
 california garden:加利福尼亚花园
 california general election:加利福尼亚州大选
+california genocide:加利福尼亚种族灭绝
 california genocide:加利福尼亞種族滅絕
 california girl your story:加利福尼亚女孩你的故事
 california girl:加利福尼亚女孩
@@ -6237,6 +6318,7 @@ california gold rush:加利福尼亞淘金潮
 california golden bears:加利福尼亞金熊
 california government officials:加州政府官员
 california government:加利福尼亚州政府
+california government:加利福尼亞州政府
 california government:加州政府
 california green:加利福尼亚绿色
 california grizzly bear:加利福尼亞州灰熊
@@ -6270,10 +6352,12 @@ california hospital:加利福尼亚医院
 california hospital:加利福尼亚州医院
 california hotel:加利福尼亚酒店
 california housing:加利福尼亚住房
+california independence:加利福尼亚独立
 california indian:加利福尼亚州印度
 california install:加利福尼亚安装
 california institute of integral studies:加利福尼亞整合學院
 california institute of technology:加州理工學院
+california institute:加利福尼亚学院
 california insurance:加利福尼亚州保险
 california international food company:加利福尼亚国际食品公司
 california international:加利福尼亚国际
@@ -6328,6 +6412,7 @@ california mice:加利福尼亚老鼠
 california microwave:加利福尼亚微波
 california military base:加利福尼亚州军事基地
 california military units:加利福尼亚军事单位
+california militia:加利福尼亚州民兵
 california million:加利福尼亚百万
 california miramar university:加州密拉瑪大學
 california mode:加利福尼亚模式
@@ -6384,6 +6469,7 @@ california plate:加利福尼亚盘子
 california plateau:加利福尼亞高原
 california police department:加利福尼亚警察部门
 california police:加利福尼亚州警察
+california politics:加利福尼亚州政治
 california politics:加利福尼亚政治
 california poolsaar:下加利福尼亞半島
 california port:加利福尼亚港口
@@ -6416,6 +6502,7 @@ california recently:加利福尼亚最近
 california recommended:加利福尼亚州建议
 california reforms:加利福尼亚改革
 california region:加利福尼亚地区
+california region:加利福尼亚州区域
 california regulatory judge:加利福尼亚州监管法官
 california regulatory:加利福尼亚州监管
 california regulatory:加利福尼亚监管
@@ -6466,6 +6553,7 @@ california secretary of state alex:加利福尼亚州国务卿亚历克斯
 california secretary of state:加利福尼亚州国务卿
 california senate minority leader:加利福尼亚参议院少数党领袖
 california senate:加利福尼亚参议院
+california senate:加利福尼亚州参议院
 california series:加利福尼亚系列
 california service center:加利福尼亚服务中心
 california seven:加利福尼亚七
@@ -6475,6 +6563,7 @@ california shopping center:加利福尼亚购物中心
 california sibling:加利福尼亚兄弟姐妹
 california six:加利福尼亚六
 california snowball:加利福尼亚雪球
+california southern:加利福尼亚南区
 california spangled:加州閃亮貓
 california spiny lobster:斷溝龍蝦
 california stadium:加利福尼亚体育馆
@@ -6567,6 +6656,9 @@ california tv:加利福尼亚电视
 california two spot octopus:加州双斑蛸
 california typewriter:加州打字机
 california university of pennsylvania:加利福尼亚宾夕法尼亚大学
+california university:加利福尼亚大学
+california university:加利福尼亚大學
+california university:加利福尼亞州大學
 california usa:加利福尼亚美国
 california users:加利福尼亚用户
 california vacation:加利福尼亚州度假
@@ -7115,6 +7207,7 @@ call sophie:打电话给索菲
 call specific server:调用特定的服务器
 call specific:调用特定的
 call stack:呼叫堆疊
+call stack:调用栈
 call stage:调用阶段
 call starbucks founder:打电话给星巴克创始人
 call starbucks:打电话给星巴克
@@ -7264,6 +7357,8 @@ callanthias platei:普氏麗花鮨
 callanthiidae:麗花鮨科
 callao district:卡亞俄區
 callao drum:卡亞石首魚
+callao province:卡亚俄省
+callao province:卡亞俄省
 callao square:卡亚俄广场
 callao:卡亚俄
 callao:卡亞俄
@@ -7906,6 +8001,7 @@ calpain:钙蛋白酶
 calpe said:卡尔佩说
 calpe:卡尔佩
 calpenia:虎丽灯蛾属
+calpis water:可爾必思水
 calpis:可爾必思
 calpis:直布罗陀
 calpis:直布罗陀 / 直布羅陀
@@ -7918,6 +8014,8 @@ calsoyasuchus:卡索亞鱷屬
 caltabellotta:卡尔塔贝洛塔
 caltagirone:卡尔塔吉罗内
 caltanissetta cathedral:卡爾塔尼塞塔主教座堂
+caltanissetta province:卡尔塔尼塞塔省
+caltanissetta province:卡爾塔尼塞塔省
 caltanissetta:卡尔塔尼塞塔
 caltanissetta:卡爾塔尼塞塔
 caltavuturo:卡尔塔武图罗
@@ -7998,7 +8096,9 @@ calviac:卡尔维亚克
 calvignac:卡尔维尼亚克
 calvignano:卡尔维尼亚诺
 calvignasco:卡尔维尼亚斯科
+calvillo municipality:卡维洛自治区
 calvillo:卡维洛
+calvin academy:加尔文学院
 calvin and geneva:加尔文和日内瓦
 calvin and hobbes:凯文的幻虎世界
 calvin and knox:加尔文和诺克斯
@@ -8368,6 +8468,7 @@ camberwell post-office:坎伯韦尔邮局
 camberwell road:坎伯韦尔路
 camberwell school:坎伯韦尔学校
 camberwell space:坎伯韦尔空间
+camberwell station:坎伯韦尔站
 camberwell:坎伯韦尔
 cambes en plaine:康布昂普莱讷
 cambiac:康比亚克
@@ -8584,6 +8685,7 @@ cambodia began:柬埔寨开始
 cambodia border line:柬埔寨边界线
 cambodia border trade:柬埔寨边境贸易
 cambodia border:柬埔寨边界
+cambodia buddhism:柬埔寨佛教
 cambodia can satisfy these:柬埔寨可以满足这些
 cambodia cannot:柬埔寨不能
 cambodia children:柬埔寨儿童
@@ -8770,12 +8872,15 @@ camboze:柬埔寨
 cambra d'ambre:琥珀色的房间
 cambrai and his chapter:康布雷和他的章
 cambrai cathedral:康布雷主教座堂
+cambrai cathedral:康布雷大教堂
 cambrai station:康布雷城站
+cambrai station:康布雷站
 cambrai:康布雷
 cambre:坎夫雷
 cambremer:康布勒梅尔
 cambria and san:坎布里亚和圣
 cambria continue:坎布里亚继续
+cambria county:坎布里亚县
 cambria court:金麗閣
 cambria hotel:坎布里亚酒店
 cambria township:坎布里亚镇区
@@ -8808,6 +8913,7 @@ cambridge a very:剑桥一个非常
 cambridge academy:剑桥学院
 cambridge actor:剑桥演员
 cambridge airport:剑桥机场
+cambridge airport:劍橋機場
 cambridge analysis company scandal:剑桥分析公司丑闻
 cambridge analysis company:剑桥分析公司
 cambridge analysis:剑桥分析
@@ -8878,7 +8984,9 @@ cambridge campus:剑桥校园
 cambridge capital controversy:剑桥资本争论
 cambridge carpenter:剑桥木匠
 cambridge center:剑桥中心
+cambridge center:劍橋中心
 cambridge centre:剑桥中心
+cambridge centre:劍橋中心
 cambridge chemistry challenge:剑桥化学挑战
 cambridge chemistry:剑桥化学
 cambridge china centre:剑桥中国中心
@@ -8927,6 +9035,7 @@ cambridge economist:剑桥经济学家
 cambridge ecosystem:剑桥生态系统
 cambridge education:剑桥教育
 cambridge employees:剑桥员工
+cambridge encyclopedia:剑桥百科全书
 cambridge energy:剑桥能源
 cambridge energy:劍橋能源
 cambridge english corpus:剑桥英语语料库
@@ -9032,6 +9141,7 @@ cambridge now has:剑桥现在有
 cambridge now:剑桥现在
 cambridge nursing home:劍橋護老院
 cambridge nutrition:剑桥营养
+cambridge observatory:剑桥天文台
 cambridge observatory:劍橋天文台
 cambridge offer:剑桥提供
 cambridge office:剑桥办公室
@@ -9092,6 +9202,8 @@ cambridge singers:劍橋合唱團
 cambridge society who:剑桥社会谁
 cambridge society:剑桥社会
 cambridge speech:剑桥语音
+cambridge station:剑桥站
+cambridge station:劍橋站
 cambridge stay:剑桥停留
 cambridge stem cell institute:剑桥干细胞研究所
 cambridge stem cell:剑桥干细胞
@@ -9120,10 +9232,12 @@ cambridge theology:剑桥神学
 cambridge third:剑桥第三
 cambridge this:剑桥这
 cambridge township:剑桥镇区
+cambridge township:劍橋鎮區
 cambridge tradition:剑桥传统
 cambridge train station:剑桥火车站
 cambridge troops:剑桥军队
 cambridge trust company:剑桥信托公司
+cambridge tunnel:剑桥隧道
 cambridge uk:剑桥英国
 cambridge union:剑桥大学辩论社
 cambridge university admit:剑桥大学承认
@@ -9182,6 +9296,9 @@ cambridge university this year:剑桥大学今年
 cambridge university union:剑桥大学联盟
 cambridge university was founded in:剑桥大学成立于
 cambridge university:剑桥大学
+cambridge university:剑桥大學
+cambridge university:劍橋大学
+cambridge university:劍橋大學
 cambridge until:剑桥直到
 cambridge until:劍橋直到
 cambridge up:剑桥向上
@@ -9198,6 +9315,7 @@ cambridge:剑桥
 cambridge:劍橋
 cambridgeshire and peterborough:劍橋郡和彼得伯勒
 cambridgeshire constabulary:剑桥郡警察局
+cambridgeshire police:劍橋郡警察
 cambridgeshire:劍橋郡
 cambrig:剑桥
 cambrig:劍橋
@@ -9236,10 +9354,12 @@ camden and detroit:卡姆登和底特律
 camden and washington:卡姆登和华盛顿
 camden and wilmington:卡姆登和威尔明顿
 camden area:卡姆登地区
+camden borough:卡姆登自治市鎮
 camden business school:卡姆登商学院
 camden canal:卡姆登运河
 camden council:卡姆登委员会
 camden council:卡姆登议会
+camden county:卡姆登县
 camden county:康登縣
 camden experience:卡姆登体验
 camden finally:卡姆登最终
@@ -9275,6 +9395,7 @@ camden station:康登站
 camden street:卡姆登街
 camden town tube station:康登鎮站
 camden town:康登鎮
+camden township:卡姆登鎮區
 camden township:卡姆登镇区
 camden yard:卡姆登码
 camden, londra:劍頓區
@@ -9285,6 +9406,7 @@ camden:卡姆登區
 camdenum:劍頓區
 camdenum:卡姆登區
 camdo:小昌都村
+cameco corporation:卡梅科公司
 cameco:卡梅科
 cameia national park:卡梅亞國家公園
 cameia:盧梅熱
@@ -9313,6 +9435,8 @@ camel book:骆驼书
 camel cannot:骆驼不能
 camel car:骆驼车
 camel case:駝峰式大小寫
+camel cavalry:骆驼骑兵
+camel cigarette:骆驼香烟
 camel cigarettes:骆驼香烟
 camel club:骆驼俱乐部
 camel coat:骆驼外套
@@ -9797,6 +9921,7 @@ camera per:相机每
 camera performance:相机性能
 camera permission:相机许可
 camera phone:照相手機
+camera phone:相机手机
 camera photo:相机照片
 camera photography:相机摄影
 camera photos:相机照片
@@ -10015,11 +10140,13 @@ cameron cancel:卡梅伦取消
 cameron centre:金馬倫中心
 cameron challenge:卡梅伦挑战
 cameron closed:卡梅伦闭
+cameron colony:喀麦隆殖民地
 cameron commercial centre:金联商业中心
 cameron commercial centre:金聯商業中心
 cameron continue:卡梅伦继续
 cameron continues:卡梅伦继续
 cameron correctly:卡梅伦正确地
+cameron county:卡梅伦县
 cameron county:卡梅倫縣
 cameron court:金倫閣
 cameron criticise:卡梅伦批评
@@ -10038,6 +10165,7 @@ cameron fly:卡梅伦飞
 cameron friesen:卡梅伦弗里森
 cameron gallery:卡梅伦长廊
 cameron government:卡梅伦政府
+cameron government:喀麦隆政府
 cameron had a clear strategy:卡梅伦有一个明确的战略
 cameron hanover said:卡梅伦汉诺威说
 cameron hanover:卡梅伦汉诺威
@@ -10082,6 +10210,7 @@ cameron says britain:卡梅伦说英国
 cameron says:卡梅伦说
 cameron school:卡梅伦学校
 cameron security:卡梅伦安全
+cameron settlement:喀麦隆殖民地
 cameron sleep:卡梅伦睡
 cameron smith:卡梅伦史密斯
 cameron some important:卡梅伦一些重要的
@@ -10178,6 +10307,7 @@ cameroon capital:喀麦隆首都
 cameroon coast:喀麦隆海岸
 cameroon court sentence:喀麦隆法院判处
 cameroon court:喀麦隆法院
+cameroon cup:喀麦隆杯
 cameroon currently:喀麦隆目前
 cameroon education:喀麦隆教育
 cameroon english:喀麦隆英语
@@ -10200,6 +10330,8 @@ cameroon means:喀麦隆意味着
 cameroon mobile phone networks:喀麦隆移动电话网络
 cameroon mobile phone:喀麦隆移动电话
 cameroon mosque:喀麦隆清真寺
+cameroon mountain:喀麥隆山
+cameroon mountain:喀麦隆山
 cameroon national football team:喀麥隆國家足球隊
 cameroon national park:喀麦隆国家公园
 cameroon national team:喀麦隆国家队
@@ -10210,6 +10342,7 @@ cameroon olympic and sports committee:喀麥隆國家奧林匹克和體育委員
 cameroon people:喀麦隆人民
 cameroon petroleum development:喀麦隆石油开发
 cameroon petroleum:喀麦隆石油
+cameroon pidgin:喀麦隆皮钦语
 cameroon plateau:喀麦隆高原
 cameroon prediction:喀麦隆预测
 cameroon president paul:喀麦隆总统保罗
@@ -10342,6 +10475,7 @@ camogli:卡莫利
 camondo stairs:卡莫多阶梯
 camonea umbellata:伞花茉栾藤
 camonea:茉栾藤属
+camopi river:卡莫皮河
 camopi:卡莫皮
 camorino:卡莫里諾
 camorra:克莫拉
@@ -10417,6 +10551,7 @@ camp ridge:坎普嶺
 camp rock:搖滾夏令營
 camp site, guard and little shop:營地，有賣東西
 camp speicher massacre:斯派克軍營屠殺
+camp street:營地街
 camp street:營盤街
 camp victory:勝利營
 camp zama:座間基地
@@ -10557,24 +10692,40 @@ campari open:金巴利开
 campari:金巴利
 campaspero:坎帕斯佩罗
 campazas:坎帕萨斯
+campbell airport:坎貝爾機場
 campbell and john:坎貝爾和約翰
 campbell building:金寶大廈
+campbell castle:坎貝爾城堡
+campbell clan:坎貝爾氏族
+campbell clan:坎贝尔氏族
 campbell cliffs:坎貝爾崖
 campbell complex:金马购物中心
 campbell county:坎貝爾縣
+campbell county:坎贝尔县
 campbell crest:坎貝爾峰
 campbell family:坎貝爾家庭
 campbell glacier:坎貝爾冰川
 campbell head:坎貝爾角
+campbell island:坎贝尔岛
 campbell islands:坎貝爾群島
+campbell islands:坎贝尔群岛
+campbell mountain:坎貝爾山
+campbell mountain:坎贝尔山
 campbell nunatak:坎貝爾冰原島峰
+campbell peak:坎貝爾峰
+campbell plateau:坎貝爾高原
 campbell ridges:坎貝爾嶺
 campbell river:坎貝爾河
+campbell river:坎贝尔河
+campbell road:坎貝爾路
 campbell shop:今好店
+campbell station:坎貝爾站
 campbell street:新街
 campbell teal:坎岛鸭
+campbell township:坎貝爾鎮區
 campbell township:坎贝尔镇区
 campbell university:坎貝爾大學
+campbell university:坎贝尔大学
 campbell whiptail:海陽丸腔吻鱈
 campbell's dwarf hamster:坎貝爾侏儒倉鼠
 campbell's law:坎貝爾定律
@@ -10921,6 +11072,7 @@ camposcia:钝额曲毛蟹
 camposipterus:坎波斯翼龙属
 campospinoso albaredo:坎波斯皮诺索
 campostoma pullum:北美曲口魚
+campotosto lake:坎波托斯托湖
 campotosto:坎波托斯托
 campouriez:康普列兹
 campoussy:康普西
@@ -11590,6 +11742,7 @@ campus retail:校园零售
 campus reveal:校园揭示
 campus revenue:校园收入
 campus road:校园路
+campus road:校园道路
 campus roof:校园屋顶
 campus roskilde:校园罗斯基勒
 campus rules and protocol:校园规则和协议
@@ -19922,6 +20075,7 @@ canaan partners:迦南伙伴
 canaan partners:迦南合作伙伴
 canaan to modern israel:迦南到现代以色列
 canaan to:迦南到
+canaan township:迦南鎮區
 canaan was:迦南是
 canaan-creative also:嘉楠耘智也
 canaan-creative:嘉楠耘智
@@ -20345,6 +20499,7 @@ canada archive:加拿大档案
 canada are currently the only:加拿大是目前唯一
 canada are:加拿大是
 canada area:加拿大地区
+canada arm:加拿大臂
 canada army:加拿大陆军
 canada arrest:加拿大逮捕
 canada art:加拿大艺术
@@ -20368,6 +20523,8 @@ canada aviation and space museum have:加拿大航空航天博物馆有
 canada aviation and space museum:加拿大航空航天博物馆
 canada aviation:加拿大航空
 canada balsam:加拿大胶
+canada balsam:加拿大香脂
+canada bank:加拿大銀行
 canada bank:加拿大银行
 canada basketball coach:加拿大篮球教练
 canada basketball general manager:加拿大篮球总经理
@@ -20405,6 +20562,7 @@ canada business:加拿大商业
 canada but:加拿大但
 canada buy:加拿大买
 canada by:加拿大被
+canada calgary:加拿大卡加利
 canada calgary:加拿大卡尔加里
 canada can't:加拿大不能
 canada can:加拿大可以
@@ -20432,6 +20590,7 @@ canada city:加拿大城市
 canada climate change:加拿大气候变化
 canada climate:加拿大气候
 canada climate:加拿大氣候
+canada club:加拿大俱乐部
 canada coach john:加拿大教练约翰
 canada coach:加拿大教练
 canada college:加拿大学院
@@ -20733,6 +20892,7 @@ canada military base:加拿大军事基地
 canada military:加拿大军事
 canada minister:加拿大部长
 canada monday:加拿大周一
+canada montreal:加拿大蒙特利尔
 canada music fund:加拿大音乐基金
 canada music:加拿大音乐
 canada must restore and:加拿大必须恢复与
@@ -20809,6 +20969,7 @@ canada page:加拿大页
 canada parent and grandparent:加拿大父母和祖父母
 canada parent:加拿大父母
 canada parents:加拿大父母
+canada park:加拿大公園
 canada parliament:加拿大议会
 canada partners:加拿大合作伙伴
 canada party:加拿大党
@@ -20859,6 +21020,8 @@ canada province:加拿大省
 canada publication:加拿大出版物
 canada purchase:加拿大购买
 canada push:加拿大推
+canada quebec:加拿大魁北克
+canada quebec:加拿大魁北克省
 canada railway:加拿大铁路
 canada ranking:加拿大排名
 canada rather than:加拿大而不是
@@ -20918,6 +21081,7 @@ canada science:加拿大科学
 canada scientist:加拿大科学家
 canada seek:加拿大寻找
 canada seems:加拿大看起来
+canada senate:加拿大参议院
 canada service:加拿大服务
 canada seven:加拿大七
 canada several times:加拿大几次
@@ -20987,7 +21151,10 @@ canada to texas:加拿大到德克萨斯州
 canada to:加拿大到
 canada today:加拿大今天
 canada too:加拿大也
+canada toronto:加拿大多伦多
+canada toronto:加拿大多倫多
 canada tournament:加拿大锦标赛
+canada township:加拿大鎮區
 canada trade agreement:加拿大贸易协议
 canada trade data:加拿大贸易数据
 canada trade minister:加拿大贸易部长
@@ -21019,6 +21186,7 @@ canada using english:加拿大使用英语
 canada using:加拿大使用
 canada usually:加拿大通常
 canada vacation:加拿大度假
+canada vancouver:加拿大温哥华
 canada version:加拿大版本
 canada very:加拿大非常
 canada village:加拿大村
@@ -21080,6 +21248,7 @@ canada would:加拿大将
 canada you know:加拿大你知道
 canada you should:加拿大你应该
 canada you:加拿大你
+canada yukon:加拿大育空地區
 canada's next top model:加拿大超級名模生死鬥
 canada's olympic broadcast media consortium:加拿大奥运广播媒体联盟
 canada's wonderland:加拿大奇妙樂園
@@ -21284,6 +21453,7 @@ canadian architect frank:加拿大建筑师弗兰克
 canadian architect magazine:加拿大建筑师杂志
 canadian architect:加拿大建筑师
 canadian architects:加拿大建筑师
+canadian architecture:加拿大建筑
 canadian architecture:加拿大建筑学
 canadian archive:加拿大人档案
 canadian arctic archipelago:加拿大北极群岛
@@ -21388,6 +21558,7 @@ canadian battery:加拿大电池
 canadian beach:加拿大海滩
 canadian beach:加拿大的海滩
 canadian bear:加拿大熊
+canadian beaver:加拿大河狸
 canadian bee:加拿大蜜蜂
 canadian beef and pork:加拿大的牛肉和猪肉
 canadian beef:加拿大牛肉
@@ -21424,6 +21595,7 @@ canadian blood service center:加拿大血液服务中心
 canadian blood:加拿大血液
 canadian boarding school:加拿大的寄宿学校
 canadian boat:加拿大船
+canadian bobby:加拿大警察
 canadian book:加拿大图书
 canadian books:加拿大书
 canadian border:加拿大的边
@@ -21477,6 +21649,7 @@ canadian buy:加拿大的买
 canadian buy:加拿大買
 canadian cabinet minister:加拿大的内阁部长
 canadian cabinet:加拿大内阁
+canadian campaign:加拿大战役
 canadian campus:加拿大校园
 canadian can:加拿大人能
 canadian cancer:加拿大癌症
@@ -21504,6 +21677,7 @@ canadian cash:加拿大现金
 canadian cash:加拿大現金
 canadian catholic:加拿大天主教
 canadian cement:加拿大水泥
+canadian census:加拿大人口普查
 canadian census:加拿大的人口普查
 canadian center:加拿大中心
 canadian central bank:加拿大中央银行
@@ -21627,6 +21801,7 @@ canadian comedy awards:加拿大喜剧奖
 canadian comedy:加拿大人喜劇
 canadian comedy:加拿大喜剧
 canadian comic:加拿大漫画
+canadian comics:加拿大漫画
 canadian commander:加拿大指挥官
 canadian commerce:加拿大商业
 canadian commercial bank:加拿大商业银行
@@ -21658,6 +21833,7 @@ canadian confederation and:加拿大联邦化和
 canadian confederation:加拿大联邦化
 canadian conference:加拿大会议
 canadian consciousness:加拿大的意识
+canadian conservatism:加拿大保守主义
 canadian conservatism:加拿大的保守主义
 canadian consortium:加拿大财团
 canadian constitution:加拿大宪法
@@ -21701,11 +21877,13 @@ canadian cost:加拿大的成本
 canadian costs:加拿大成本
 canadian council:加拿大委员会
 canadian council:加拿大理事会
+canadian council:加拿大议会
 canadian country music singer:加拿大乡村音乐歌手
 canadian country music singer:加拿大的乡村音乐歌手
 canadian country music:加拿大乡村音乐
 canadian country music:加拿大的乡村音乐
 canadian country:加拿大国家
+canadian county:加拿大人县
 canadian county:加拿大县
 canadian court:加拿大法院
 canadian court:加拿大的法院
@@ -21842,6 +22020,7 @@ canadian drummer:加拿大鼓手
 canadian e-commerce websites:加拿大电子商务网站
 canadian e-commerce:加拿大电子商务
 canadian each year:加拿大人每年
+canadian earthquake:加拿大地震
 canadian economic growth:加拿大经济增长
 canadian economic history:加拿大经济史
 canadian economist:加拿大经济学家
@@ -21911,6 +22090,7 @@ canadian envoy:加拿大特使
 canadian ernest:加拿大人欧内斯特
 canadian eskimo dog:加拿大愛斯基摩犬
 canadian eskimo:加拿大的爱斯基摩人
+canadian ethnicity:加拿大族群
 canadian event:加拿大的事件
 canadian excellence:加拿大卓越
 canadian exhibition:加拿大展览
@@ -21971,6 +22151,7 @@ canadian federal government:加拿大联邦政府
 canadian federal law require:加拿大联邦法律要求
 canadian federal law:加拿大联邦法律
 canadian federalism:加拿大联邦主义
+canadian federation:加拿大联盟
 canadian female:加拿大女性
 canadian fence and:加拿大圍欄和
 canadian fence:加拿大圍欄
@@ -22021,6 +22202,7 @@ canadian food:加拿大食物
 canadian football league:加拿大加式足球聯盟
 canadian football league:加拿大式足球联盟
 canadian football:加拿大式足球
+canadian football:加拿大足球
 canadian ford auto workers:加拿大福特汽车工人
 canadian ford:加拿大福特
 canadian foreign affairs spokesman:加拿大外交事务发言人
@@ -22040,6 +22222,7 @@ canadian fossil:加拿大化石
 canadian foundation:加拿大基金
 canadian framework:加拿大框架
 canadian french:加拿大法語
+canadian french:加拿大法语
 canadian friend:加拿大朋友
 canadian friend:加拿大的朋友
 canadian friends:加拿大朋友
@@ -22408,6 +22591,8 @@ canadian landscape:加拿大景观
 canadian landscape:加拿大的景观
 canadian landscape:加拿大的风景
 canadian landscape:加拿大风景
+canadian language:加拿大的語言
+canadian language:加拿大的语言
 canadian language:加拿大語言
 canadian language:加拿大语言
 canadian law enforcement:加拿大執法
@@ -22425,6 +22610,7 @@ canadian league:加拿大联盟
 canadian learning experience:加拿大的学习经验
 canadian learning:加拿大的学习
 canadian led:加拿大发光二极管
+canadian legion:加拿大军团
 canadian lentil:加拿大的小扁豆
 canadian letter:加拿大信
 canadian library association:加拿大图书馆协会
@@ -22606,6 +22792,7 @@ canadian national team:加拿大国家队
 canadian national vimy memorial:加拿大國家維米紀念碑
 canadian national-security:加拿大国家安全
 canadian nationalism:加拿大民族主义
+canadian nationalism:加拿大民族主義
 canadian nationality law:加拿大國籍法
 canadian nationality:加拿大国籍
 canadian nationality:加拿大國籍
@@ -22830,6 +23017,7 @@ canadian politics:加拿大政治
 canadian politics:加拿大的政治
 canadian pop singer:加拿大流行歌手
 canadian pope:加拿大教皇
+canadian population:加拿大人口
 canadian population:加拿大的人口
 canadian pork and:加拿大猪肉与
 canadian pork council will:加拿大猪肉委员会将
@@ -22855,6 +23043,7 @@ canadian prairie:加拿大的大草原
 canadian prairies:草原三省
 canadian prefix:加拿大的前缀
 canadian premier league:加拿大超級足球聯賽
+canadian premier:加拿大首相
 canadian premiere:加拿大首演
 canadian presbyterian mission:加拿大长老会差会
 canadian presence:加拿大存在
@@ -22996,6 +23185,7 @@ canadian representative:加拿大代表
 canadian representative:加拿大的代表
 canadian representatives:加拿大代表
 canadian representatives:加拿大的代表
+canadian republicanism:加拿大共和主义
 canadian requirements:加拿大要求
 canadian research university:加拿大研究型大学
 canadian research:加拿大的研究
@@ -23257,6 +23447,7 @@ canadian taylor:加拿大的泰勒
 canadian teach:加拿大的教
 canadian teacher:加拿大教师
 canadian teacher:加拿大的教师
+canadian team:加拿大人队
 canadian team:加拿大团队
 canadian team:加拿大的团队
 canadian team:加拿大队
@@ -23521,6 +23712,7 @@ canadian yacht club:加拿大游艇俱乐部
 canadian yoga:加拿大瑜伽
 canadian youth:加拿大的青年
 canadian youth:加拿大青年
+canadian yukon:加拿大育空地區
 canadian zinc:加拿大锌
 canadian zoo:加拿大动物园
 canadian:加拿大
@@ -23932,6 +24124,7 @@ canal san bovo:卡纳尔圣博沃
 canal scandal:运河丑闻
 canal side:运河边
 canal state park:运河州立公园
+canal station:运河站
 canal street and:运河街与
 canal street and:运河街和
 canal street gentrification:运河街绅士化
@@ -23962,6 +24155,7 @@ canal transportation network:运河运输网络
 canal transportation:运河运输
 canal treaty:运河条约
 canal trust:运河信任
+canal tunnel:运河隧道
 canal university:运河大学
 canal users:运河用户
 canal vessel:运河船
@@ -24101,6 +24295,8 @@ canbeg:吉漢貝伊利
 canberra a:堪培拉一个
 canberra airport:坎培拉机场
 canberra airport:坎培拉機場
+canberra airport:堪培拉机场
+canberra airport:堪培拉機場
 canberra also:堪培拉也
 canberra and adelaide:堪培拉与阿德莱德
 canberra and australia:堪培拉和澳大利亚
@@ -24117,6 +24313,7 @@ canberra area:堪培拉地区
 canberra australia:堪培拉澳大利亚
 canberra became:堪培拉成为
 canberra began:堪培拉开始
+canberra bomber:堪培拉轰炸机
 canberra but:堪培拉但
 canberra can't:堪培拉不能
 canberra capital:堪培拉首都
@@ -24127,6 +24324,7 @@ canberra city centre:堪培拉市中心
 canberra class landing helicopter dock:堪培拉级两棲攻击舰
 canberra climate:堪培拉氣候
 canberra control room:堪培拉控制室
+canberra day:坎培拉日
 canberra day:堪培拉日
 canberra designer:堪培拉设计师
 canberra distance:堪培拉距离
@@ -24136,6 +24334,8 @@ canberra government:堪培拉政府
 canberra has:堪培拉有
 canberra high:堪培拉高
 canberra hospital:坎培拉醫院
+canberra hotel:坎培拉酒店
+canberra hotel:堪培拉酒店
 canberra if:堪培拉如果
 canberra institute of technology:堪培拉技术学院
 canberra international airport:堪培拉国际机场
@@ -24170,10 +24370,17 @@ canberra resident:堪培拉居民
 canberra residents:堪培拉居民
 canberra should:堪培拉应该
 canberra stadium:坎培拉體育場
+canberra stadium:堪培拉体育场
+canberra stadium:堪培拉體育場
+canberra station:坎贝拉站
 canberra tennis international:堪培拉网球国际赛
 canberra theatre:堪培拉剧院
 canberra to:堪培拉到
 canberra united fc:坎培拉聯足球俱樂部
+canberra university:坎培拉大学
+canberra university:坎培拉大學
+canberra university:堪培拉大学
+canberra university:堪培拉大學
 canberra was:堪培拉是
 canberra will:堪培拉将
 canberra would:堪培拉将
@@ -24237,6 +24444,7 @@ cancel call:取消调用
 cancel canvas:取消帆布
 cancel car tariff:取消汽车关税
 cancel car:取消汽车
+cancel character:取消字符
 cancel china:取消中国
 cancel christmas or even:取消圣诞节或甚至
 cancel christmas:取消圣诞节
@@ -24961,6 +25169,7 @@ cancer dictionary:癌症词典
 cancer discover:癌症发现
 cancer discovery:癌症发现
 cancer discussion:癌症讨论
+cancer disease:癌疾病
 cancer disease:癌症疾病
 cancer diseases:癌疾病
 cancer diseases:癌症疾病
@@ -25100,6 +25309,7 @@ cancer gene therapy and:癌症基因疗法和
 cancer gene therapy:癌症基因疗法
 cancer gene:癌症基因
 cancer genes and:癌症基因与
+cancer genes:癌基因
 cancer genes:癌症基因
 cancer geneticist:癌症遗传学家
 cancer genetics and cancer:癌症遗传学和癌症
@@ -25115,6 +25325,7 @@ cancer genome sequencing projects:癌症基因组测序项目
 cancer genome sequencing:癌症基因组测序
 cancer genome:癌症基因組
 cancer genome:癌症基因组
+cancer genomics:癌症基因組學
 cancer genotype:癌症基因型
 cancer glossary:癌症词汇表
 cancer glycan:癌症聚糖
@@ -25472,6 +25683,7 @@ cancer peptide:癌症肽
 cancer performance:癌性能
 cancer personality:癌症人格
 cancer pharmacology:癌症药理学
+cancer phobia:癌症恐懼症
 cancer physician:癌症医生
 cancer plan:癌症计划
 cancer plans or policies:癌症计划或政策
@@ -26032,6 +26244,7 @@ candelabrochaete:叠生星毛革菌属
 candelaria barbouri:坎德拉里蜥屬
 candelaria de la frontera:坎德拉里亞德拉弗龍特拉
 candelaria department:坎德拉里亞縣
+candelaria station:坎德拉里亚站
 candelaria:坎德拉里亚
 candelariaceae:黄烛衣科
 candelariales:黄烛衣目
@@ -26813,6 +27026,7 @@ candy auction:糖果拍卖
 candy ball:糖球
 candy balloon:糖果气球
 candy bar:条形糖
+candy bar:糖果条
 candy before:糖果之前
 candy blog:糖果博客
 candy bomber:糖果轰炸机
@@ -26829,6 +27043,7 @@ candy cake:糖果蛋糕
 candy can have different:糖果可以有不同的
 candy can:糖果可以
 candy candy:小甜甜
+candy candy:糖糖
 candy cane:拐杖糖
 candy castle:糖果城堡
 candy chen:斯亞
@@ -26870,7 +27085,9 @@ candy from a baby:糖果从一个婴儿
 candy from a directory:糖果从一个目录
 candy from:糖果从
 candy girl:糖果女孩
+candy glass:糖玻璃
 candy grape:糖葡萄
+candy group:糖组
 candy hall of fame:糖果名人堂
 candy has:糖果有
 candy have been:糖已经
@@ -26968,7 +27185,9 @@ cane toad:海蟾蜍
 cane turtle:蔗林龟
 canebrake tree frogs:阿普拉雨蛙属
 canefield airport:坎菲尔德机场
+canefield airport:坎菲爾德機場
 canefield:坎菲爾德
+canegrate culture:卡内格拉泰文化
 canegrate:卡内格拉泰
 canejan:卡内汉
 canela:卡內拉
@@ -27175,6 +27394,7 @@ canglang district:沧浪区
 canglang pavilion:沧浪亭
 canglang river:cānglàng shuǐ
 canglang river:沧浪水
+canglang river:沧浪河
 canglang river:滄浪水
 canglang road:沧浪路
 canglang shihua:滄浪詩話
@@ -27227,6 +27447,7 @@ cangnan county will complete:苍南县将完成
 cangnan county will:苍南县将
 cangnan county:cāngnán xiàn
 cangnan county:苍南县
+cangnan county:蒼南县
 cangnan county:蒼南縣
 cangnan railway station:苍南站
 cangnan stele:選眞寺記
@@ -27482,12 +27703,14 @@ cangzhou railway station:沧州站
 cangzhou sino-czech friendship hospital:沧州市中捷友好医院
 cangzhou south ring highway:沧州南绕城公路
 cangzhou sports school:沧州体育运动学校
+cangzhou stadium:沧州体育场
 cangzhou stadium:沧州体育馆
 cangzhou stadium:滄州體育場
 cangzhou technical college:沧州职业技术学院
 cangzhou technicial college:沧州技师学院
 cangzhou west coach terminal:沧州西客站
 cangzhou west railway station:沧州西站
+cangzhou west:沧州西
 cangzhou zhongyu primary school:沧州市中宇小学
 cangzhou-yulin expressway:滄榆高速
 cangzhou:cāngzhōu shì
@@ -27699,6 +27922,7 @@ cannabis capsule:大麻胶囊
 cannabis classification:大麻分类
 cannabis clinic:大麻诊所
 cannabis club:大麻俱乐部
+cannabis college:大麻学院
 cannabis community:大麻社区
 cannabis companies:大麻企业
 cannabis companies:大麻公司
@@ -27737,6 +27961,7 @@ cannabis entrepreneur:大麻企业家
 cannabis entrepreneurs and:大麻企业家和
 cannabis entrepreneurs:大麻企业家
 cannabis enzyme:大麻酶
+cannabis events:大麻事件
 cannabis exhibition:大麻展会
 cannabis experience:大麻经验
 cannabis expert simon:大麻专家西蒙
@@ -27746,6 +27971,7 @@ cannabis exports:大麻出口
 cannabis factories:大麻工厂
 cannabis factory:大麻工厂
 cannabis farm:大麻农场
+cannabis farm:大麻農場
 cannabis farmer:大麻农民
 cannabis flag:大麻旗
 cannabis flower:大麻花
@@ -29142,6 +29368,7 @@ canoeing center:皮划艇中心
 canoeing facilities:皮划艇设施
 canoeing offer:皮划艇提供
 canoeing river:皮划艇河
+canoeing sprint:皮划艇短跑
 canoeing to:划独木舟到
 canoeing:划独木舟
 canoeing:皮划艇
@@ -29235,6 +29462,7 @@ cantabri:坎塔布里人
 cantabria and:坎塔布里亚和
 cantabria can become:坎塔布里亚可以成为
 cantabria can:坎塔布里亚可以
+cantabria province:坎塔布里亚省
 cantabria:坎塔布里亚
 cantabrian coast:坎塔布里亞海岸
 cantabrian language:坎塔布里亚方言
@@ -29301,6 +29529,7 @@ cantenac:康特纳克
 canterano:坎泰拉诺
 canterburská katedrála:坎特伯雷大教堂
 canterburská katedrála:根德伯里座堂
+canterbury academy:坎特伯雷学院
 canterbury and south:坎特伯雷和南
 canterbury and west coast:坎特伯雷与西海岸
 canterbury and york:坎特伯雷和约克
@@ -29313,13 +29542,16 @@ canterbury awards:坎特伯雷奖
 canterbury business:坎特伯雷商业
 canterbury campus:坎特伯雷校园
 canterbury cathedral to:坎特伯雷大教堂到
+canterbury cathedral:坎特伯雷主教座堂
 canterbury cathedral:坎特伯雷大教堂
 canterbury cathedral:坎特伯雷座堂
 canterbury cathedral:根德伯里座堂
+canterbury cathedrals:坎特伯雷大教堂
 canterbury christ church university:坎特伯雷基督教會大學
 canterbury city centre:坎特伯雷市中心
 canterbury city council:坎特伯雷市议会
 canterbury college:坎特伯雷学院
+canterbury constituency:坎特伯雷选区
 canterbury curriculum:坎特伯雷课程
 canterbury earthquake:坎特伯雷地震
 canterbury earthquakes:坎特伯雷地震
@@ -29345,18 +29577,22 @@ canterbury museum:坎特伯雷博物馆
 canterbury of new zealand:紐西蘭坎特伯雷
 canterbury offer:坎特伯雷提供
 canterbury or:坎特伯雷或
+canterbury parish:坎特伯雷教区
 canterbury pilgrim:坎特伯雷朝圣者
 canterbury plain:坎特伯雷平原
 canterbury professor:坎特伯雷教授
 canterbury project:坎特伯雷项目
+canterbury province:坎特伯雷省
 canterbury region:坎特伯雷区域
 canterbury region:坎特伯雷地区
 canterbury region:坎特伯雷大区
+canterbury regions:坎特伯雷地区
 canterbury researchers:坎特伯雷研究人员
 canterbury residents:坎特伯雷居民
 canterbury road:坎特伯雷路
 canterbury roll:坎特伯雷滚动
 canterbury scene:坎特柏里之聲
+canterbury school:坎特伯雷学校
 canterbury ship:坎特伯雷船
 canterbury skill:坎特伯雷技能
 canterbury skills:坎特伯雷技能
@@ -29450,6 +29686,7 @@ canti lau:劉錫明
 cantiano:坎蒂亚诺
 cantilever and:悬臂和
 cantilever bridge:悬臂桥
+cantilever bridge:悬臂橋
 cantilever chair:悬臂椅
 cantilever condition:悬臂条件
 cantilever design:悬臂设计
@@ -29477,6 +29714,9 @@ canto do buriti:坎图杜布里蒂
 cantoin:康图万
 cantoira:坎托伊拉
 cantois:康图瓦
+canton airfield:廣州机场
+canton airport:廣州机场
+canton airport:廣州機場
 canton and enderbury islands:坎顿及恩德伯里群岛
 canton barber:港东
 canton barber:港東
@@ -29489,6 +29729,7 @@ canton custom house:粵海關
 canton d'herzégovine-neretva:黑塞哥维那-涅雷特瓦州
 canton de dafdar:达布达尔乡
 canton de herceg-bosna:黑塞哥-波斯尼亚州
+canton dialect:廣州方言
 canton express:廣東快車
 canton fair complex east station:会展东站
 canton fair complex east:会展东
@@ -29503,9 +29744,12 @@ canton fair:中国进出口商品交易会
 canton herceg-bosnia:黑塞哥-波斯尼亚州
 canton herzeg-bosnia:黑塞哥-波斯尼亚州
 canton hospital:博濟醫院
+canton hospital:廣州醫院
 canton house:豐樂行
 canton international media harbour:广州国际媒体港
 canton island:坎頓島
+canton library:廣州圖書館
+canton library:廣州市圖書館
 canton metro line 3 north extension:广州地铁3号线北延段
 canton mint:廣東造幣廠
 canton of abbeville nord:北阿布维尔县
@@ -29565,9 +29809,12 @@ canton road government primary school:廣東道官立小學
 canton road playground:廣東道遊樂場
 canton road station:廣東道站
 canton road substation:廣東道變電站
+canton road:廣州路
 canton road:廣東道
+canton south:廣州南
 canton square:黃金商業中心
 canton square:黄金商业中心
+canton station:廣州站
 canton system:一口通商
 canton tour:guǎngzhōu tǎ
 canton tour:gwongzau taap
@@ -29586,6 +29833,7 @@ canton tower:广州塔
 canton tower:廣州塔
 canton township:坎頓鎮區
 canton trust and commercial bank:廣東信託銀行
+canton uprising:廣州起义
 canton's kitchen dim sum expert:粵廚點心專門店
 canton-kowloon railway memorial park:广九铁路纪念园
 canton:guăngzhōu shì
@@ -29623,6 +29871,7 @@ cantonese are:广东话是
 cantonese are:粤语是
 cantonese bbq seafood restaurant:廣東燒臘海鮮餐廳
 cantonese bopomofo:粵語注音符號
+cantonese braille:粤语盲文
 cantonese braille:粵語點字
 cantonese but not:广东话但不是
 cantonese but:广东话但
@@ -29659,6 +29908,7 @@ cantonese transliteration scheme:广州话拼音方案
 cantonese version:广东话版本
 cantonese was:广东话是
 cantonese was:广州话是
+cantonese wikipedia:粤语维基百科
 cantonese will:粤语会
 cantonese:广东话
 cantonese:广州话
@@ -29727,6 +29977,7 @@ canucha duplexa:西藏枯叶钩蛾
 canucha specularis:后窗枯叶钩蛾
 canucha:枯叶钩蛾属
 canudos do vale:卡努杜斯杜瓦莱
+canudos war:卡努杜斯战争
 canudos:卡努杜斯
 canut revolts:里昂工人起义
 canutama:卡努塔馬
@@ -30310,6 +30561,7 @@ caoan highway:曹安公路
 caoan:曹庵鎮
 caoan:曹庵镇
 caoba branch road:草坝支路
+caoba station:草坝站
 caoba:cáobà cūn
 caoba:曹坝
 caoba:曹坝村
@@ -30387,6 +30639,7 @@ caochangdi:草场地
 caochanggou:草场沟
 caochangheng hutong:草厂横胡同
 caochangjie subdistrict:草场街街道
+caochangmen station:草场门站
 caochangmen:草场门
 caochangwancun:草厂湾村
 caocheng:曹城村
@@ -31039,6 +31292,7 @@ caoputan:草蒲潭
 caopuwei:草埔尾
 caopuzhuangcun:曹朴庄村
 caoqiancun:漕前村
+caoqiao mosque:草桥清真寺
 caoqiao road:草桥路
 caoqiao station:草桥站
 caoqiao:căoqiáo
@@ -31322,6 +31576,7 @@ caoya 3rd road:草衙三路
 caoya central street:草衙中街
 caoya market:草衙市場
 caoya metro station:草衙站
+caoya station:草衙站
 caoya village:草衙里
 caoya:cǎo yá
 caoya:草芽
@@ -31419,6 +31674,8 @@ caozhuang east road:草庄东路
 caozhuang nan lu:草庄南路站
 caozhuang park:草庄公园站
 caozhuang station:曹庄站
+caozhuang station:曹庄镇站
+caozhuang station:曹莊站
 caozhuang'er:草庄尔
 caozhuang:cáozhuāng
 caozhuang:曹庄
@@ -31519,6 +31776,7 @@ cap manufacturing:帽制造业
 cap martin:帽马丁
 cap melt:帽融化
 cap morris jesup:莫里斯·杰塞普角
+cap mountain:帽山
 cap national park:帽國家公園
 cap occidental:西開普
 cap occidental:西開普省
@@ -32603,11 +32861,13 @@ capcom community:卡普空社区
 capcom cup:卡普空杯
 capcom developers:卡普空开发人员
 capcom game:卡普空游戏
+capcom vancouver:卡普空温哥华
 capcom vancouver:卡普空温哥华工作室
 capcom want:卡普空想要
 capcom:卡普空
 capcut:剪映
 capdenac gare:卡普德纳克加尔
+capdenac station:卡普德纳克站
 capdenac:卡普德纳克
 capdepera:卡普德佩拉
 capdesaso:卡普德萨索
@@ -33327,6 +33587,7 @@ capella htr:嘉鴻中心
 capella rocks:卡佩拉岩
 capella sixtina:西斯汀小堂
 capella university:凱佩拉大學
+capella university:卡佩拉大学
 capella'i:查佩利
 capella:五車二
 capella:卡佩拉
@@ -33389,7 +33650,9 @@ capilla sixtina:西斯汀小堂
 capilla'i:查佩利
 capilla:教堂
 capillary action:毛细现象
+capillary bed:微血管床
 capillary electrophoresis:毛細管電泳
+capillary endothelium:微血管內皮
 capillary fringe:毛细上升区
 capillary number:毛细数
 capillary wave:表面張力波
@@ -33400,8 +33663,10 @@ capillin:茵陈二炔酮
 capillipedium:细柄草属
 capim branco:卡平布兰库
 capim grosso:卡平格罗苏
+capim river:卡平河
 capim:卡平
 capinghem:卡潘盖姆
+capinota province:卡皮諾塔省
 capinota province:卡皮诺塔县
 capinota:卡皮諾塔
 capinzal do norte:北卡平扎尔
@@ -33516,6 +33781,7 @@ capital bandar seri begawan:首都斯里巴加湾市
 capital bangkok:首都曼谷
 capital bangui:首都班基
 capital bank brands:首都银行品牌
+capital bank:首都銀行
 capital bank:首都银行
 capital barcelona:首都巴塞罗那
 capital batavia:首都巴达维亚
@@ -33565,6 +33831,8 @@ capital children's choir:伦敦首都合唱团
 capital children:首都儿童
 capital cities and tombs of the ancient koguryo kingdom:高句丽王城
 capital cities and tombs of the ancient koguryo kingdom:高句丽王城、王陵及贵族墓葬
+capital cities:省会城市
+capital cities:首都城市
 capital city airport:首都城市机场
 capital city airport:首都城市機場
 capital city airport:首都机场
@@ -33701,6 +33969,7 @@ capital city wellington:首都惠灵顿
 capital city will be:首都将成为
 capital city wine:首都葡萄酒
 capital city winnipeg:首都温尼伯
+capital city:省会城市
 capital city:首都
 capital city:首都城市
 capital citybus:首都城巴
@@ -33737,6 +34006,7 @@ capital dhaka:首都达卡
 capital dili:首都帝力
 capital district:首都辖区
 capital districts and territories:首都區
+capital division:首都师
 capital dodoma:首都多多马
 capital doha by exile:首都多哈被流亡
 capital doha:首都多哈
@@ -33793,6 +34063,10 @@ capital governance:首都治理
 capital governorate:首都省
 capital group companies:資本集團
 capital grozny:首都格罗兹尼
+capital gym:首都体育馆
+capital gym:首都體育館
+capital gymnasium:首都体育馆
+capital gymnasium:首都體育館
 capital hamilton:首都汉密尔顿
 capital harare:首都哈拉雷
 capital has been:首都已经
@@ -33808,6 +34082,7 @@ capital hole:首都洞
 capital honiara:首都霍尼亚拉
 capital hotel songshan:首都大飯店松山館
 capital hotel:首都宾馆
+capital hotel:首都酒店
 capital hours:首都小时
 capital in the twenty first century:二十一世紀資本論
 capital indoor stadium:首都体育馆
@@ -33931,6 +34206,7 @@ capital letter:大写字母
 capital liberation day:首都解放日
 capital liberation:首都解放
 capital library:首都图书馆
+capital library:首都圖書館
 capital libreville:首都利伯维尔
 capital life:首都生活
 capital lilongwe:首都利隆圭
@@ -34170,6 +34446,7 @@ capital park:首都公园
 capital phnom penh:首都金边
 capital planet:首都行星
 capital play:首都玩
+capital plaza:首都廣場
 capital podgorica:首都波德戈里察
 capital poison:首都毒物
 capital port au prince:首都太子港
@@ -34361,6 +34638,8 @@ capital tegucigalpa:首都特古西加尔巴
 capital tehran:首都德黑兰
 capital tel aviv:首都特拉维夫
 capital territory:首都领土
+capital theater:首都剧场
+capital theatre:首都剧场
 capital theatre:首都剧院
 capital then:首都然后
 capital thimphu:首都廷布
@@ -34386,6 +34665,7 @@ capital university of economics and business:首都经济贸易大学
 capital university student:首都大学生
 capital university students:首都大学生
 capital university:首都大学
+capital university:首都大學
 capital until:首都直到
 capital valletta:首都瓦莱塔
 capital victoria:首都维多利亚
@@ -34810,6 +35090,7 @@ capitulum mitella:龟足
 capitólio dos estados unidos:美国国会大厦
 capivari de baixo:卡皮瓦里迪拜舒
 capivari do sul:南卡皮瓦里
+capivari river:卡皮瓦里河
 capivari:卡皮瓦里
 capivariano futebol clube:卡比華蘭奴足球會
 capivɛrdi:佛得角
@@ -35078,6 +35359,7 @@ capsule form:膠囊形式
 capsule from my:胶囊从我的
 capsule from:胶囊从
 capsule gallery:胶囊画廊
+capsule hotel:胶囊酒店
 capsule hotel:膠囊酒店
 capsule in the morning:膠囊在早上
 capsule joe:胶囊乔
@@ -35135,6 +35417,7 @@ capsule video:胶囊视频
 capsule wardrobe approach:胶囊衣柜方法
 capsule wardrobe mix:胶囊衣柜混合
 capsule wardrobe:胶囊衣柜
+capsule wardrobe:膠囊衣櫃
 capsule without:胶囊没有
 capsule would:胶囊将
 capsule:胶囊
@@ -35492,6 +35775,7 @@ caput orientale:东开普省
 caput orientale:東開普
 caput orientale:東開普省
 caputira:卡普蒂拉
+capvern station:卡普韦恩站
 capvern:卡普韦恩
 capybara fossil:水豚化石
 capybara hair:水豚毛发
@@ -36065,6 +36349,7 @@ car demands:汽车要求
 car demonstration:汽车示范
 car demonstration:车示范
 car density:汽车密度
+car dependence:汽车依赖
 car dependency:汽車依賴
 car dependency:汽车依赖
 car description:汽车描述
@@ -36105,6 +36390,7 @@ car does:汽车做
 car does:车做
 car don't:车不
 car door:車門
+car door:车门
 car dream:汽车梦
 car drifting:车漂移
 car drive:汽车驾驶
@@ -36272,6 +36558,7 @@ car gift:汽车礼物
 car give:汽车给
 car give:车给
 car glass color:车玻璃颜色
+car glass:汽车玻璃
 car glass:车玻璃
 car global customer service:汽车全球客户服务
 car global:汽车全球
@@ -36448,6 +36735,7 @@ car key uses high-precision:汽车钥匙使用高精度
 car key uses high:汽车钥匙使用高
 car key uses:汽车钥匙使用
 car key:汽车钥匙
+car key:车钥匙
 car kill:车杀
 car kilometers:车公里
 car kilometre:车公里
@@ -37168,6 +37456,7 @@ car stop:车停止
 car store:汽车商店
 car strategy:汽车战略
 car strategy:车战略
+car street:汽车街
 car structure:汽车结构
 car studio:汽车工作室
 car style:汽车风格
@@ -37506,9 +37795,12 @@ caracalpaquistão:卡拉卡尔帕克斯坦共和国
 caracalpaquistão:卡拉卡爾帕克共和國
 caracanthus typicus:真頰棘鮋
 caracanthus:頰棘鮋屬
+caracas airport:卡拉卡斯機場
+caracas cathedral:卡拉卡斯主教座堂
 caracas government:卡拉卡斯政府
 caracas metro:卡拉卡斯地鐵
 caracas university:卡拉卡斯大學
+caracas valley:卡拉卡斯山谷
 caracas venezuela temple:委内瑞拉卡拉卡斯斯聖殿
 caracas:卡拉卡斯
 caracciolo parra olmedo municipality:卡拉西奧洛帕拉奧爾梅多市
@@ -37594,6 +37886,7 @@ caramel:焦糖
 caramelldansen:焦糖舞
 carampoma district:卡蘭波馬區
 caramânia:卡拉曼
+caranavi province:卡拉納維省
 caranavi province:卡拉纳维县
 caranavi:卡拉納維
 carangas province:卡兰加斯县
@@ -37754,6 +38047,7 @@ carbofuran:加保扶
 carbognano:卡尔博尼亚诺
 carbohydrate antigen:糖类抗原
 carbohydrate counting:碳水化合物计数法
+carbohydrate dehydrogenase:糖类脱氢酶
 carbohydrate food:糖类食品
 carbohydrate food:糖类食物
 carbohydrate intake:糖类摄入
@@ -37776,6 +38070,7 @@ carbon accounting show:碳核算显示
 carbon accounting system:碳核算系统
 carbon accounting:碳核算
 carbon accumulation:碳累积
+carbon acid:碳酸
 carbon action plan:碳行动计划
 carbon action:碳行动
 carbon activities:碳活动
@@ -37983,6 +38278,7 @@ carbon brief:碳简报
 carbon bubble theory:碳泡沫理论
 carbon bubble:碳泡沫
 carbon budget:碳預算
+carbon budget:碳预算
 carbon building design:碳建筑设计
 carbon building label:碳建筑标签
 carbon building standard:碳建筑标准
@@ -38017,12 +38313,14 @@ carbon career:碳事业
 carbon carrier:碳载体
 carbon catalyst:碳催化剂
 carbon cathode:碳陰極
+carbon cation:碳阳离子
 carbon cells:碳细胞
 carbon cement:碳水泥
 carbon center:碳中心
 carbon century:碳世纪
 carbon certification:碳认证
 carbon challenge:碳挑战
+carbon chauvinism:碳沙文主义
 carbon chauvinism:碳沙文主義
 carbon choice:碳选择
 carbon chromium:碳铬
@@ -38372,6 +38670,7 @@ carbon distribution:碳分布
 carbon disulfide:二硫化碳
 carbon dividend:碳股息
 carbon dot:碳点
+carbon dragon:碳龙
 carbon dream:碳夢
 carbon driving:碳駕駛
 carbon dust:碳尘
@@ -38998,6 +39297,7 @@ carbon neutral global:碳中性的全球
 carbon neutral life:碳中性的生活
 carbon neutral myth:碳中性的神话
 carbon neutral:碳中性的
+carbon neutral:碳中立
 carbon neutrality and climate:碳中和和气候
 carbon neutrality and gender equality:碳中和和性别平等
 carbon neutrality and renewable energy commitment:碳中立和可再生能源承诺
@@ -39045,7 +39345,9 @@ carbon output:碳输出
 carbon outside:碳外面
 carbon oxford:碳牛津
 carbon oxidation:碳氧化
+carbon oxide:碳氧化物
 carbon paper:碳式複寫紙
+carbon paper:碳纸
 carbon part:碳部分
 carbon particle matrix:碳粒子矩阵
 carbon particle:碳粒子
@@ -39157,6 +39459,7 @@ carbon sea:碳海
 carbon sensor:碳传感器
 carbon sequestration potential:碳截存潜力
 carbon sequestration projects:碳截存项目
+carbon sequestration:碳封存
 carbon sequestration:碳截存
 carbon services:碳服务
 carbon shell:碳壳
@@ -39258,6 +39561,7 @@ carbon tax policy:碳税政策
 carbon tax repeal:碳税废除
 carbon tax revenue:碳税收入
 carbon tax war:碳税战争
+carbon tax:碳稅
 carbon tax:碳税
 carbon techniques:碳技术
 carbon technologies and fuel:碳技术和燃料
@@ -39476,6 +39780,7 @@ carbonation systems:碳酸化系统
 carbonation to controlling:碳酸化到控制
 carbonation:碳酸化
 carbonatite:火成碳酸鹽岩
+carbondale township:卡本代爾鎮區
 carbondale:卡本代爾
 carbonea:炭盘属
 carbonemys:碳龟属
@@ -39513,6 +39818,7 @@ carbonization target:碳化目标
 carbonization technologies:碳化技术
 carbonization:碳化
 carbonless copy paper:無碳複寫紙
+carbonne station:卡尔博讷站
 carbonne:卡尔博讷
 carbonodraco:石炭龙属
 carbonyl bromide:碳酰溴
@@ -39590,6 +39896,7 @@ carcasonako zitadela:卡尔卡松城堡
 carcass island:卡克斯島
 carcassona:卡尔卡松
 carcassonne airport:卡尔卡松机场
+carcassonne cathedral:卡尔卡松主教座堂
 carcassonne motel:卡爾卡頌時尚休閒汽車旅館
 carcassonne railway station:卡尔卡松火车站
 carcassonne station:卡尔卡松站
@@ -40035,6 +40342,7 @@ card retail sales:卡零售销售
 card retail:卡零售
 card rule:卡规则
 card sales:卡销售
+card saw:卡索
 card scandal:卡丑闻
 card search:卡搜索
 card security code:银行卡安全码
@@ -40214,6 +40522,7 @@ cardboard boat:纸板船
 cardboard book:纸板书
 cardboard books:纸板书
 cardboard box:瓦楞紙盒
+cardboard box:纸板盒
 cardboard brick:纸板砖
 cardboard building:纸板建筑
 cardboard bus:纸板公交车
@@ -40353,6 +40662,9 @@ cardiac-muscle cells:心肌细胞
 cardiapoda richardi:长尾心足螺
 cardiastethus:镰花蝽属
 cardiel de los montes:卡尔迭尔德洛斯蒙特斯
+cardiff airport:加的夫机场
+cardiff airport:加的夫機場
+cardiff airport:卡迪夫机场
 cardiff airport:卡迪夫機場
 cardiff alcohol:加的夫酒精
 cardiff alliance reflect:加的夫联盟反映
@@ -40370,6 +40682,7 @@ cardiff bay:加的夫灣
 cardiff become:加的夫成为
 cardiff business school:加的夫商学院
 cardiff castle:加的夫城堡
+cardiff castle:卡迪夫城堡
 cardiff catalysis institute:加的夫催化研究所
 cardiff catalysis:加的夫催化
 cardiff central library:卡迪夫中央圖書館
@@ -40380,10 +40693,12 @@ cardiff city council:加的夫市议会
 cardiff city government:加的夫市政府
 cardiff city stadium:卡迪夫城球場
 cardiff city:加的夫城市
+cardiff city:卡迪夫城市
 cardiff community housing:加的夫社区住房
 cardiff community:加的夫社区
 cardiff council:加的夫委员会
 cardiff east:加的夫东
+cardiff english:加的夫英语
 cardiff event:加的夫事件
 cardiff exhibition:加的夫展览
 cardiff giant:加的夫巨人
@@ -40401,12 +40716,14 @@ cardiff market:加的夫市場
 cardiff metropolitan cathedral:加的夫都主教座堂
 cardiff metropolitan university:卡迪夫城市大學
 cardiff model:加的夫模型
+cardiff north:卡迪夫北
 cardiff offer:加的夫提供
 cardiff partners:加的夫合作伙伴
 cardiff poetry:加的夫诗歌
 cardiff professor:加的夫教授
 cardiff queen street railway station:加迪夫皇后街站
 cardiff safety:加的夫安全
+cardiff station:加的夫站
 cardiff story:加的夫故事
 cardiff students:加的夫学生
 cardiff team:加的夫团队
@@ -40418,7 +40735,11 @@ cardiff university brain research:卡迪夫大学脑研究
 cardiff university brain:卡迪夫大学脑
 cardiff university economics:卡迪夫大学经济学
 cardiff university in the uk:卡迪夫大学在英国
+cardiff university:加的夫大学
+cardiff university:加的夫大學
 cardiff university:卡迪夫大学
+cardiff university:卡迪夫大學
+cardiff west:卡迪夫西
 cardiff:加的夫
 cardiff:卡迪夫
 cardigan bay:卡迪根灣
@@ -41173,6 +41494,7 @@ carency:卡朗西
 carennac:卡雷纳克
 carenno:卡伦诺
 carentan les marais:卡朗唐莱马赖
+carentan station:卡朗唐站
 carentan-les-marais:卡朗唐莱马赖
 carentan:卡朗唐
 carentino:卡伦蒂诺
@@ -41605,6 +41927,7 @@ cargo security:货物安全
 cargo service:货物服务
 cargo services:货物服务
 cargo shark:黑鲨运输机
+cargo ship:貨物船
 cargo ship:貨船
 cargo shorts:货物短裤
 cargo sled:货物雪橇
@@ -41658,8 +41981,10 @@ cargo transportation:货物运输
 cargo transshipment:货物转运
 cargo type:货物类型
 cargo usually:货物通常
+cargo van:貨物廂型車
 cargo version:貨物版本
 cargo version:货物版本
+cargo vessel:貨物船
 cargo volume:货物体积
 cargo war:货物战争
 cargo was their:货物是他们的
@@ -41816,12 +42141,14 @@ caridina:米蝦屬
 carife:卡里费
 carige:双角尺蛾属
 carignan de bordeaux:卡里尼昂德波尔多
+carignan station:卡里尼昂站
 carignan:佳利酿
 carignan:卡里尼昂
 carigrad:伊斯坦堡
 carigrad:伊斯坦布尔
 carigrad:伊斯坦布尔 / 伊斯坦堡
 carihuairazo:卡里瓦伊拉索火山
+carillon tower:钟塔
 carillon:钟
 carimate:卡里马泰
 carina dwarf spheroidal galaxy:船底座矮橢球星系
@@ -41987,6 +42314,7 @@ carl began:卡尔开始
 carl benz:卡尔奔驰
 carl bernstein:卡尔伯恩斯坦
 carl bishop:毕安祺
+carl carl:卡尔卡尔
 carl chien:錢國維
 carl closed:卡尔闭
 carl clutch:卡尔抓住
@@ -41994,6 +42322,7 @@ carl complete:卡尔完成
 carl crawford:卡尔克劳福德
 carl daniel:卡尔丹尼尔
 carl davis:卡尔戴维斯
+carl duke:卡尔公爵
 carl edwards:卡尔爱德华兹
 carl enter:卡尔进入
 carl erskine:卡尔厄斯金
@@ -42009,10 +42338,12 @@ carl hess:卡尔赫斯
 carl hollywood:卡尔好莱坞
 carl interrupt:卡尔打断
 carl jones:卡尔琼斯
+carl lee:卡尔勒
 carl lewis and michael:卡尔刘易斯和迈克尔
 carl lewis:卡尔刘易斯
 carl linnaeus:卡尔林奈
 carl look:卡尔看
+carl lund:卡尔隆德
 carl mention:卡尔提到
 carl moan:卡尔呻吟
 carl nearly:卡尔几乎
@@ -42022,6 +42353,7 @@ carl nielsen museum:卡尔尼尔森博物馆
 carl nielsen:卡尔尼尔森
 carl no longer:卡尔不再
 carl oscar:卡尔奥斯卡
+carl parker:卡尔帕克
 carl passage:卡爾海峽
 carl philip:卡尔菲利普
 carl plan:卡尔计划
@@ -42036,9 +42368,11 @@ carl steel:卡尔钢
 carl tell:卡尔告诉
 carl thayer:卡尔塞耶
 carl think:卡尔认为
+carl voss:卡尔沃斯
 carl was a genius:卡尔是一个天才
 carl was my brother:卡尔是我的兄弟
 carl was my:卡尔是我的
+carl west:卡尔西
 carl will appear:卡尔将出现
 carl william:卡尔威廉
 carl work:卡尔工作
@@ -42063,6 +42397,7 @@ carlepont:卡勒蓬
 carlesia sinensis:山茴香
 carlet:卡尔莱特
 carleton college:卡尔顿学院
+carleton college:卡爾頓學院
 carleton glacier:卡爾頓冰川
 carleton place:卡爾頓普雷斯
 carleton station:卡爾頓站
@@ -42080,10 +42415,18 @@ carling avenue:卡靈路
 carlingford railway line:卡林福特線
 carlingue:法国盖世太保
 carlipa:卡尔利帕
+carlisle airport:卡萊爾機場
 carlisle castle:卡萊爾城堡
+carlisle cathedral:卡萊爾大教堂
 carlisle cathedral:卡萊爾座堂
+carlisle citadel:卡萊爾城堡
+carlisle college:卡萊爾學院
+carlisle diocese:卡萊爾教區
 carlisle island:卡萊爾島
 carlisle railway station:卡萊爾站
+carlisle station:卡萊爾站
+carlisle township:卡萊爾鎮區
+carlisle volcano:卡萊爾火山
 carlisle:卡萊爾
 carlism:卡洛斯主义
 carlist wars:卡洛斯战争
@@ -42164,6 +42507,7 @@ carlos tell you:卡洛斯告诉你
 carlos tell:卡洛斯告诉
 carlos the jackal:豺狼卡洛斯
 carlos took:卡洛斯拿
+carlos township:卡洛斯鎮區
 carlos trujillo:卡洛斯特鲁希略
 carlos wait:卡洛斯等
 carlos walker:卡洛斯沃克
@@ -42242,6 +42586,7 @@ carmarthen:卡马森
 carmarthenshire coast:卡马森郡海岸
 carmarthenshire council:卡马森郡议会
 carmarthenshire:卡马森郡
+carmaux station:卡尔莫站
 carmaux:卡尔莫
 carme group:卡耳墨群
 carmel alison lam foundation secondary school:基督教興學會迦密愛禮信中學
@@ -42257,9 +42602,11 @@ carmel hill:海明山
 carmel holy word secondary school:迦密聖道中學
 carmel leung sing tak school:迦密梁省德學校
 carmel market:迦密市場
+carmel mountain:卡梅爾山
 carmel pak u secondary school:迦密柏雨中學
 carmel road:佳美道
 carmel secondary school:迦密中學
+carmel township:卡梅爾鎮區
 carmel village street garden:迦密村街花園
 carmel village street:迦密村街
 carmel-by-the-sea:卡梅尔小镇
@@ -42294,6 +42641,7 @@ carmen million:卡门百万
 carmen mountain:卡门山
 carmen nobel:卡门诺贝尔
 carmen protected area:卡门保护区
+carmen river:卡门河
 carmen said:卡门说
 carmen salcedo district:卡門薩爾塞多區
 carmen san diego:卡门圣地亚哥
@@ -42341,6 +42689,7 @@ carnac stones:卡纳克巨石林
 carnac:卡尔纳克
 carnago:卡尔纳戈
 carnallite:光鹵石
+carnarvon castle:加拿分城堡
 carnarvon lane:鑑光內
 carnarvon mansion block a:嘉芬大廈a座
 carnarvon mansion block b:嘉芬大廈b座
@@ -42388,11 +42737,15 @@ carnegie hall box office:卡内基音乐厅票房
 carnegie hall international:卡内基音乐厅国际
 carnegie hall performance:卡内基音乐厅表演
 carnegie hall tower:卡耐基大厅大厦
+carnegie hall:卡內基大廳
 carnegie hall:卡内基音乐厅
 carnegie hero:卡內基英雄
+carnegie hill:卡內基丘
 carnegie institute of technology:卡內基技術學院
+carnegie institute:卡內基研究所
 carnegie institution for science:卡内基科学研究所
 carnegie library:卡內基圖書館
+carnegie medal:卡內基獎章
 carnegie mellon university and disney research:卡内基梅隆大学和迪士尼研究
 carnegie mellon university and facebook:卡内基梅隆大学和脸书
 carnegie mellon university and stanford university:卡内基梅隆大学和斯坦福大学
@@ -42458,6 +42811,7 @@ carniolan honey bee:卡尼鄂拉蜂
 carnism:肉食主義
 carnitine and choline:肉碱和胆碱
 carnitine blood:肉碱血液
+carnitine dehydrogenase:肉碱脱氢酶
 carnitine ester:肉碱酯
 carnitine feed:肉碱喂
 carnitine levels:肉碱水平
@@ -42478,6 +42832,7 @@ carnival of awussu:阿烏蘇狂歡節
 carnival of ivrea:柳橙大戰
 carnival of venice:威尼斯嘉年華會
 carnival of venice:威尼斯狂歡節
+carnival overture:狂歡節序曲
 carnival phantasm:幻想嘉年華
 carnival row:嘉年華大街
 carnival seafood restaurant:嘉年華海鮮酒家
@@ -42625,9 +42980,11 @@ carolina mictlāmpa:北卡羅萊那州
 carolina miranda:卡罗莱纳米兰达
 carolina norde:北卡罗来纳州
 carolina norde:北卡羅萊那州
+carolina panther:卡罗莱纳黑豹
 carolina panthers:卡罗来纳黑豹
 carolina parakeet:卡羅萊納長尾鸚鵡
 carolina port:卡羅萊娜港球場
+carolina province:卡罗莱纳省
 carolina reaper:卡羅萊納死神
 carolina resident:卡罗莱纳居民
 carolina selatan:南卡罗来纳州
@@ -42734,6 +43091,7 @@ carp mountain:鲤鱼山
 carp population:鲤鱼种群
 carp prettyfin:紋鮗
 carp production:鲤鱼生产
+carp river:鲤鱼河
 carp usually:鲤鱼通常
 carp virus:鲤鱼病毒
 carp we will:鲤鱼我们会
@@ -42785,8 +43143,10 @@ carpenter always:木匠总是
 carpenter and nightmare:木匠和恶梦
 carpenter and writer:木匠和作家
 carpenter ant:弓背蟻屬
+carpenter ant:木匠蚂蚁
 carpenter ask:木匠问
 carpenter bee:木匠蜜蜂
+carpenter bridge:木匠橋
 carpenter broni:木匠布罗尼
 carpenter brother:木匠兄弟
 carpenter center:木匠中心
@@ -42823,6 +43183,8 @@ carpenter yi seungeop's house in samgak-dong:三角洞都片手李承业故居
 carpenter yi seungeop's house in samgak-dong:三角洞都片手李承業故居
 carpenter's flasher wrasse:卡氏副唇魚
 carpenter:木匠
+carpentras cathedral:卡庞特拉主教座堂
+carpentras station:卡庞特拉站
 carpentras:卡庞特拉
 carpentry:大木作
 carpentràs:卡庞特拉
@@ -43030,12 +43392,14 @@ carraig fhearghais:卡里克弗格斯
 carral:卡拉尔
 carran-carramulk:阿伯茨福德
 carranque:卡兰克
+carrara academy:卡拉拉学院
 carrara and florence:卡拉拉和佛罗伦萨
 carrara cathedral:卡拉拉主教座堂
 carrara hold:卡拉拉拥有
 carrara indoor stadium:卡拉拉室內體育場
 carrara marble and french:卡拉拉大理石和法国
 carrara marble statue:卡拉拉大理石雕像
+carrara marble:卡拉拉大理岩
 carrara marble:卡拉拉大理石
 carrara markets:卡拉拉市场
 carrara national park:卡拉拉国家公园
@@ -43237,6 +43601,7 @@ carrias:卡里亚斯
 carriches:卡里切斯
 carrick on shannon:香农河畔卡里克
 carrickfergus borough council:卡里克弗格斯區
+carrickfergus castle:卡里克弗格斯城堡
 carrickfergus:卡域克費格斯
 carrickfergus:卡里克弗格斯
 carrickmines luas stop:卡里克迈因斯站
@@ -43296,6 +43661,7 @@ carrier particle:载体粒子
 carrier platforms:载体平台
 carrier polymorphism:载体多态性
 carrier project:载体项目
+carrier protein:载体蛋白质
 carrier record characters:载体记录字符
 carrier record:载体记录
 carrier research:载体研究
@@ -43370,6 +43736,7 @@ carrot and stick:胡蘿蔔加大棒
 carrot and western carrot:胡萝卜和西方胡萝卜
 carrot as well:胡萝卜也
 carrot began:胡萝卜开始
+carrot cake:胡萝卜蛋糕
 carrot cake:胡蘿蔔蛋糕
 carrot city:胡萝卜城市
 carrot consumption:胡萝卜消费
@@ -43381,6 +43748,7 @@ carrot farm:胡萝卜农场
 carrot from:胡萝卜从
 carrot gun:胡萝卜枪
 carrot have many other:胡萝卜有许多其他
+carrot head:胡萝卜头
 carrot import:胡萝卜进口贸易
 carrot increase:胡萝卜增加
 carrot increased:胡萝卜增加了
@@ -43450,6 +43818,7 @@ carski vrt:御花园
 carski vrt:禦花園
 carsoli:卡尔索利
 carson bandwidth rule:卡森带宽法则
+carson county:卡森县
 carson mansion block a:嘉信大厦a座
 carson mansion block a:嘉信大廈a座
 carson mansion block b:嘉信大厦b座
@@ -43458,6 +43827,10 @@ carson mansion:卡森莊園
 carson mansion:嘉新大廈
 carson mansion:嘉新大樓
 carson national forest:卡森国家森林
+carson river:卡森河
+carson stadium:卡森体育场
+carson stadium:卡森體育場
+carson township:卡森鎮區
 carson township:卡森镇区
 carson wen:溫嘉旋
 carson yeung:楊家誠
@@ -43498,8 +43871,10 @@ cartagena film festival:卡塔赫纳电影节
 cartagena hotel:卡塔赫纳酒店
 cartagena in order to obtain:卡塔赫纳为了获得
 cartagena in order to:卡塔赫纳为了
+cartagena manifesto:卡塔赫纳宣言
 cartagena mayor:卡塔赫纳市长
 cartagena meeting:卡塔赫纳会议
+cartagena province:卡塔赫纳省
 cartagena was founded in:卡塔赫纳成立于
 cartagena:卡塔赫納
 cartagena:卡塔赫纳
@@ -43510,6 +43885,8 @@ cartagon maakunta:卡塔戈省
 cartajima:卡尔塔希马
 cartalia interna:什达-卡特利州
 cartan connection:嘉当联络
+cartan formula:嘉当公式
+cartan matrix:嘉当矩阵
 cartan matrix:嘉當矩陣
 cartan subalgebra:嘉当子代数
 cartan:嘉当
@@ -43561,6 +43938,7 @@ cartel office:卡特尔办公室
 cartel or consortium:卡特尔或财团
 cartel organization:卡特尔组织
 cartel participants:卡特尔参与者
+cartel party:卡特尔党
 cartel price:卡特尔价格
 cartel prohibition:卡特尔禁令
 cartel ship:卡特尔船
@@ -43644,9 +44022,12 @@ carter immunology:卡特免疫学
 carter insist:卡特坚持
 carter institute:卡特研究所
 carter invite:卡特邀请
+carter island:卡特岛
 carter island:卡特島選品店
+carter islands:卡特群岛
 carter journalism:卡特新闻学
 carter knows:卡特知道
+carter lake:卡特湖
 carter last week:卡特上周
 carter library:卡特图书馆
 carter look:卡特看
@@ -43687,6 +44068,7 @@ carter thomas:卡特托马斯
 carter threat:卡特威胁
 carter too:卡特也
 carter took:卡特拿
+carter township:卡特鎮區
 carter township:卡特镇区
 carter treaty:卡特条约
 carter using:卡特使用
@@ -43734,6 +44116,7 @@ carthage and rome:迦太基和罗马
 carthage and utica:迦太基与乌提卡
 carthage calendar:迦太基日历
 carthage coast:迦太基海岸
+carthage college:迦太基学院
 carthage college:迦太基學院
 carthage eagle:迦太基鹰
 carthage education:迦太基教育
@@ -43744,12 +44127,14 @@ carthage international school:迦太基国际学校
 carthage international:迦太基国际
 carthage is located in:迦太基位于
 carthage jail:迦太基监狱
+carthage lake:迦太基湖
 carthage list:迦太基列表
 carthage museum:迦太基博物馆
 carthage offer:迦太基提供
 carthage science center:迦太基科学中心
 carthage theatre:迦太基剧院
 carthage to spain:迦太基到西班牙
+carthage township:迦太基鎮區
 carthage university:迦太基大學
 carthage would:迦太基将
 carthage:迦太基
@@ -43777,6 +44162,7 @@ cartilage and new bone:软骨和新的骨头
 cartilage and skin:软骨和皮肤
 cartilage and stromal cell:软骨和基质细胞
 cartilage begin:软骨开始
+cartilage cells:软骨细胞
 cartilage committee:软骨委员会
 cartilage companies:软骨公司
 cartilage frameworks:软骨框架
@@ -43848,6 +44234,7 @@ cartoon boy:卡通男孩
 cartoon brew:卡通酿造
 cartoon caption:卡通标题
 cartoon car:卡通车
+cartoon cartoon:卡通卡通
 cartoon cartoons:卡通卡通
 cartoon cash:卡通现金
 cartoon cat:卡通猫
@@ -43972,6 +44359,7 @@ cartoon style:卡通风格
 cartoon subject:卡通主题
 cartoon superhero:卡通超级英雄
 cartoon survival:卡通生存
+cartoon sushi:卡通寿司
 cartoon symbiosis:卡通共生
 cartoon teach:卡通教
 cartoon theme:卡通主題
@@ -44259,6 +44647,7 @@ casa:蘇沙茨島
 casab:阿萨布
 casabermeja:卡萨韦尔梅哈
 casabianca island:卡薩布蘭卡島
+casablanca airfield:卡萨布兰卡机场
 casablanca airport:卡萨布兰卡机场
 casablanca and paris:卡萨布兰卡和巴黎
 casablanca and rabat:卡萨布兰卡和拉巴特
@@ -44269,6 +44658,7 @@ casablanca bombing:卡萨布兰卡爆炸
 casablanca book:卡萨布兰卡书
 casablanca cathedral:卡萨布兰卡主教座堂
 casablanca class escort carrier:卡薩布蘭卡級護航航空母艦
+casablanca conference:卡萨布兰卡会议
 casablanca conference:卡薩布蘭卡會議
 casablanca east:卡萨布兰卡东
 casablanca finance:卡萨布兰卡金融
@@ -44760,6 +45150,8 @@ case order:案件订单
 case origin:案件起源
 case outcome:案件结果
 case outcome:案例结果
+case page:案件页
+case pages:案件页
 case papillon house 10:鳳賢居第10座
 case papillon house 11:鳳賢居第11座
 case papillon house 12:鳳賢居第12座
@@ -44805,6 +45197,7 @@ case reference:案例参考
 case reflect:案件反映
 case reflect:案例反映
 case report:案件报告
+case report:案例報告
 case report:案例报告
 case reports and case series:案例报告和案例系列
 case reports and case:案例报告和案例
@@ -44840,6 +45233,7 @@ case start:案件开始
 case stay:案件停留
 case still:案件仍然
 case strategy:案件策略
+case studies:案例研究
 case study analysis and team:案例研究分析和团队
 case study analysis:案例研究分析
 case study analyze:案例研究分析
@@ -45007,6 +45401,7 @@ caseros department:卡塞羅斯縣
 caserta agreement:卡塞塔协议
 caserta and naples:卡塞塔和那不勒斯
 caserta area:卡塞塔地区
+caserta province:卡塞塔省
 caserta:卡塞塔
 caserte:卡塞塔
 cases of judge lan:藍公案
@@ -45024,6 +45419,8 @@ casey range:凱西山脈
 casey report:凱西報告
 casey some:凱西一些
 casey station:凯西站
+casey station:凱西站
+casey township:凱西鎮區
 casey what:凱西什麼
 casey's theorem:开世定理
 casey:凱西
@@ -45715,6 +46112,7 @@ cashew crisis:腰果危机
 cashew farm:腰果农田
 cashew milk:腰果牛奶
 cashew mrt station:凯秀地铁站
+cashew oil:腰果油
 cashew pie:腰果派
 cashew prices:腰果价格
 cashew product:腰果产品
@@ -45923,6 +46321,7 @@ cassava and mango production:木薯和芒果生产
 cassava and sorghum:木薯和高粱
 cassava association:木薯协会
 cassava bread:木薯面包
+cassava bread:木薯麵包
 cassava development:木薯发展
 cassava diseases:木薯疾病
 cassava enterprises:木薯企业
@@ -46016,6 +46415,7 @@ cassini orbit:卡西尼轨道
 cassini oval:卡西尼卵形线
 cassini project scientist:卡西尼项目科学家
 cassini project:卡西尼项目
+cassini projection:卡西尼投影
 cassini radio science:卡西尼无线电科学
 cassini regio:卡西尼區
 cassini report:卡西尼報告
@@ -46671,11 +47071,13 @@ castelplanio:卡斯特尔普拉尼奥
 castelpoto:卡斯泰尔波托
 castelraimondo:卡斯特尔雷蒙多
 castelreng:卡斯泰尔朗
+castels castle:卡斯泰尔城堡
 castels:卡斯泰尔
 castelsagrat:卡斯泰尔萨格拉
 castelsantangelo sul nera:内拉河畔卡斯泰尔圣安杰洛
 castelsaraceno:卡斯特尔萨拉切诺
 castelsardo:卡斯特尔萨多
+castelsarrasin station:卡斯泰尔萨拉桑站
 castelsarrasin:卡斯泰尔萨拉桑
 castelsarrasin:卡斯特尔萨拉桑
 castelsilano:卡斯泰尔西拉诺
@@ -46888,6 +47290,7 @@ castillon en auge:欧日地区卡斯蒂永
 castillon en couserans:库斯朗地区卡斯蒂永
 castillon la bataille:卡斯蒂永拉巴塔耶
 castillon massas:卡斯蒂永马萨斯
+castillon station:卡斯蒂永站
 castillon:卡斯蒂永
 castillonroy:卡斯蒂利翁罗伊
 castillos y murallas del rey eduardo en gwynedd:圭內斯郡愛德華國王的城堡和城牆
@@ -46951,6 +47354,7 @@ castle approach:城堡方法
 castle as well as:城堡以及
 castle as well:城堡也
 castle attract:城堡吸引
+castle aviation:城堡航空
 castle ballroom:城堡舞厅
 castle be:城堡成为
 castle became:城堡成为
@@ -46969,6 +47373,7 @@ castle business:城堡商业
 castle by:城堡被
 castle campbell:坎貝爾城堡
 castle chair:城堡椅
+castle chapel:城堡教堂
 castle cheat:城堡作弊
 castle church:城堡教堂
 castle city:城堡城市
@@ -46981,6 +47386,7 @@ castle comfort:卡斯尔康福特
 castle community college:城堡社区学院
 castle community members:城堡社区成员
 castle community:城堡社区
+castle company:城堡公司
 castle construction:城堡建筑
 castle consuegra:城堡
 castle contain:城堡包含
@@ -46989,6 +47395,7 @@ castle cornet:科內特城堡
 castle corridor:城堡走廊
 castle county:城堡县
 castle course:城堡课程
+castle court:城堡法院
 castle crags:城堡峭壁
 castle day:城堡日
 castle defense:城堡防御
@@ -47031,6 +47438,7 @@ castle history:城堡历史
 castle hotel:城堡旅馆
 castle hotel:城堡酒店
 castle hotel:隐秀山居酒店
+castle house:城堡住宅
 castle howard:霍華德城堡
 castle i:城堡我
 castle in france:城堡在法国
@@ -47127,6 +47535,7 @@ castle or monastery:城堡或修道院
 castle or weymouth:城堡或韦茅斯
 castle palace:城堡宮殿
 castle park:城堡公园
+castle park:城堡公園
 castle part:城堡部分
 castle peak bay ambulance depot:青山灣救護站
 castle peak bay fire station:青山灣消防局
@@ -47199,7 +47608,9 @@ castle peak wholesale fish market:青山魚類批發市場
 castle peak wholesale market:青山魚類批發市場
 castle peak:cing1 saan1
 castle peak:tsing shan
+castle peak:城堡峰
 castle peak:青山
+castle plaza:城堡廣場
 castle point district:嘉素角
 castle point, essex:嘉素角
 castle point:嘉素角
@@ -47240,6 +47651,7 @@ castle suffer:城堡遭受
 castle tell their:城堡告诉他们的
 castle tell:城堡告诉
 castle theater:城堡剧场
+castle theatre:城堡剧院
 castle theme:城堡主题
 castle then:城堡然后
 castle through:城堡通过
@@ -47283,6 +47695,7 @@ castlebar:卡斯尔巴
 castleford:卡斯爾福德
 castleman disease:卡斯爾曼氏病
 castlequest:勇者之城
+castlereagh freeway:卡斯爾雷高速公路
 castlereagh highway:卡士禮公路
 castlereagh street:卡士禮街
 castlereagh:卡斯爾雷
@@ -47350,6 +47763,7 @@ castrate you:阉割你
 castrate:阉割
 castration and tail:阉割和尾部
 castration anxiety and penis:阉割焦虑和阴茎
+castration anxiety:閹割焦慮
 castration anxiety:阉割焦虑
 castration fear:阉割恐惧
 castration hurt:阉割伤害
@@ -47361,7 +47775,10 @@ castration:阉割
 castrato:阉伶
 castraz:卡斯特拉斯
 castrelo do val:卡斯特雷洛多瓦尔
+castres airport:卡斯特尔机场
+castres cathedral:卡斯特尔主教座堂
 castres gironde:卡斯特尔吉伦特
+castres station:卡斯特尔站
 castres:卡斯特尔
 castrezzato:卡斯特雷扎托
 castri di lecce:莱切省卡斯特里
@@ -47818,6 +48235,7 @@ cat femur:猫股骨
 cat fight:猫战斗
 cat figurine:猫俑
 cat finally:猫最终
+cat fish:猫鱼
 cat flea:貓蚤
 cat flu:貓流感
 cat food and dog food:猫粮和狗粮
@@ -47923,6 +48341,7 @@ cat mascot:猫吉祥物
 cat mask:猫面具
 cat master:猫大师
 cat mayor:猫市长
+cat meat:猫肉
 cat meat:貓肉
 cat meme:猫迷因
 cat meow:猫喵
@@ -48086,6 +48505,7 @@ cat toy:猫玩具
 cat training:猫训练
 cat travel:猫旅行
 cat traveller café:穿牆貓
+cat tree:猫树
 cat tree:猫爬架
 cat trying:猫试图
 cat tunnel:猫隧道
@@ -48167,6 +48587,7 @@ catalaanse landen:加泰隆尼亞語地區
 catalan academy:加泰罗尼亚语学院
 catalan activist:加泰罗尼亚活动家
 catalan alliance:加泰罗尼亚语联盟
+catalan alphabet:加泰罗尼亚字母
 catalan also origin:加泰罗尼亚语也起源
 catalan anarchist:加泰罗尼亚语无政府主义者
 catalan and basque:加泰罗尼亚和巴斯克
@@ -48201,6 +48622,7 @@ catalan coastline:加泰罗尼亚海岸线
 catalan community:加泰罗尼亚社区
 catalan companies:加泰罗尼亚公司
 catalan company:加泰罗尼亚公司
+catalan constitution:加泰罗尼亚宪法
 catalan consumer:加泰罗尼亚消费者
 catalan countries:加泰罗尼亚国家
 catalan countries:加泰罗尼亚语国家
@@ -48212,6 +48634,7 @@ catalan cuisine:加泰隆尼亞飲食
 catalan cultural center:加泰罗尼亚文化中心
 catalan culture:加泰罗尼亚文化
 catalan culture:加泰罗尼亚的文化
+catalan cup:加泰罗尼亚杯
 catalan dance:加泰罗尼亚舞蹈
 catalan dancer:加泰罗尼亚舞者
 catalan declaration of independence:加泰羅尼亞獨立宣言
@@ -48233,6 +48656,7 @@ catalan farmer:加泰罗尼亚的农民
 catalan firefighter:加泰罗尼亚消防员
 catalan fishmonger:加泰罗尼亚鱼贩
 catalan flag:加泰罗尼亚旗
+catalan flag:加泰罗尼亚旗幟
 catalan folk dance:加泰罗尼亚民族舞蹈
 catalan food:加泰罗尼亚食品
 catalan food:加泰罗尼亚食物
@@ -48256,6 +48680,7 @@ catalan grammar:加泰羅尼亞語語法
 catalan grand prix:加泰罗尼亚大奖赛
 catalan heritage:加泰罗尼亚遗产
 catalan history:加泰罗尼亚历史
+catalan history:加泰罗尼亚语历史
 catalan independence movement:加泰隆尼亞獨立運動
 catalan independence:加泰罗尼亚独立
 catalan independence:加泰罗尼亚的独立
@@ -48290,6 +48715,7 @@ catalan modern:加泰罗尼亚现代
 catalan mountain:加泰罗尼亚山
 catalan museum:加泰罗尼亚博物馆
 catalan music:加泰罗尼亚音乐
+catalan name:加泰罗尼亚语姓名
 catalan nationalism and spanish:加泰罗尼亚民族主义和西班牙
 catalan nationalism:加泰罗尼亚民族主义
 catalan nationalism:加泰罗尼亚的民族主义
@@ -48327,6 +48753,7 @@ catalan question:加泰罗尼亚问题
 catalan referendum:加泰罗尼亚公民投票
 catalan refugee:加泰罗尼亚难民
 catalan region:加泰罗尼亚地区
+catalan region:加泰罗尼亚语地区
 catalan regions:加泰罗尼亚地区
 catalan republic:加泰罗尼亚共和国
 catalan republic:加泰隆尼亞共和國
@@ -48406,10 +48833,12 @@ catalonia area:加泰罗尼亚地区
 catalonia autonomous region:加泰罗尼亚自治区
 catalonia by:加泰罗尼亚被
 catalonia crisis:加泰罗尼亚危机
+catalonia cup:加泰罗尼亚杯
 catalonia elections:加泰罗尼亚选举
 catalonia former:加泰罗尼亚前
 catalonia giant:加泰罗尼亚巨人
 catalonia government:加泰罗尼亚政府
+catalonia government:加泰羅尼亞政府
 catalonia independence:加泰罗尼亚独立
 catalonia international prize:加泰罗尼亚国际奖
 catalonia is my homeland:加泰罗尼亚是我的家乡
@@ -48613,13 +49042,18 @@ catanduva:卡坦杜瓦
 catane:卡塔內鄉
 catane:卡塔尼亞
 catane:卡塔纳
+catania airport:卡塔尼亞機場
+catania cathedral:卡塔尼亞主教座堂
 catania centrale railway station:卡塔尼亚中央车站
 catania fc:卡塔尼亞足球俱樂部
 catania laht:卡塔尼亚湾
 catania metro:卡塔尼亚地铁
+catania province:卡塔尼亞省
+catania university:卡塔尼亞大學
 catania:卡塔尼亞
 catania:卡塔纳
 cataniabukten:卡塔尼亚湾
+catanzaro cathedral:卡坦扎罗主教座堂
 catanzaro said:卡坦扎罗说
 catanzaro:卡坦扎罗
 catanzaru:卡坦扎罗
@@ -48925,8 +49359,12 @@ category error:分类错误
 category errors:分类错误
 category fiction:分类小说
 category include:分类包括
+category index:分类索引
 category is tobacco:分类是烟草
 category label:分类标签
+category link:分类链接
+category links:分类链接
+category list:分类列表
 category management:分类管理
 category manager:分类经理
 category marketing manager:分类市场营销经理
@@ -48935,6 +49373,7 @@ category measure:分类测量
 category members:分类成员
 category mistake:範疇錯誤
 category name:分类名称
+category namespace:分类命名空间
 category navigation:分类导航
 category of being:生物分类
 category of fields:领域分类
@@ -48948,8 +49387,11 @@ category offer:分类提供
 category opportunities:分类机会
 category page:分类页
 category pages:分类页
+category problem:分类问题
+category redirect:分类重定向
 category rule:分类规则
 category rules:分类规则
+category space:分类空间
 category statistic:分类统计
 category suggest:分类建议
 category system:分类系统
@@ -48972,6 +49414,7 @@ catenaccio:鏈式防守
 catenane:索烃
 catenanuova:卡泰纳诺瓦
 catenarin:链蠕孢素
+catenary arch:悬链线拱
 catenary nunatak:克蒂納里冰原島峰
 catenary ring:鏈環
 catenary systems:悬链线系统
@@ -49185,6 +49628,8 @@ cathedral be:大教堂成为
 cathedral became:大教堂成为
 cathedral bell:大教堂钟
 cathedral bombing:大教堂爆炸
+cathedral bridge:大教堂桥
+cathedral bridge:大教堂橋
 cathedral catholic high school:大教堂天主教高中
 cathedral catholic:大教堂天主教
 cathedral cave:大教堂洞穴
@@ -49233,11 +49678,15 @@ cathedral is vienna:大教堂是維也納
 cathedral island:大教堂岛屿
 cathedral kitchen:大教堂厨房
 cathedral lake:大教堂湖
+cathedral library:大教堂圖書館
 cathedral located:大教堂位于
 cathedral mausoleum:大教堂陵墓
 cathedral minister:大教堂部长
 cathedral model:大教堂模型
 cathedral mosque:大教堂清真寺
+cathedral mountain:主教座堂山
+cathedral mountain:大教堂山
+cathedral museum:主教座堂博物馆
 cathedral museum:大教堂博物馆
 cathedral music association:主教座堂音乐协会
 cathedral music:主教座堂音乐
@@ -49602,7 +50051,10 @@ cathedral of zamora:萨莫拉大教堂
 cathedral open:大教堂开
 cathedral or white church:大教堂或白色教堂
 cathedral parish:主教座堂堂区
+cathedral peak:大教堂峰
 cathedral peaks:大教堂峰
+cathedral plaza:主教座堂廣場
+cathedral plaza:大教堂廣場
 cathedral pray:大教堂祈祷
 cathedral project:大教堂项目
 cathedral quartet:大教堂四重奏
@@ -49611,8 +50063,10 @@ cathedral road:大教堂路
 cathedral rock:大教堂岩石
 cathedral rocks:大教堂岩
 cathedral san:大教堂圣
+cathedral school:主教座堂学校
 cathedral school:主教座堂學校
 cathedral school:大教堂学校
+cathedral schools:主教座堂学校
 cathedral schools:大教堂学校
 cathedral service:大教堂服务
 cathedral services:大教堂服务
@@ -49710,6 +50164,7 @@ cathode:陰極
 cathodic protection:陰極防蝕
 cathodoluminescence:阴极射线发光
 catholic academy:天主教学院
+catholic academy:天主教學術院
 catholic action:公教进行会
 catholic action:天主教行动
 catholic activist:天主教活动家
@@ -49719,6 +50174,7 @@ catholic advocacy:天主教倡导
 catholic all:天主教所有
 catholic all:天主教所有的
 catholic alliance:天主教联盟
+catholic anarchist:天主教无政府主义者
 catholic and come:天主教和来
 catholic and dominican tradition:天主教和多米尼加传统
 catholic and eastern orthodox church:天主教和東正教
@@ -49789,6 +50245,7 @@ catholic cathedrals and palace:天主教大教堂和宮殿
 catholic cathedrals:天主教大教堂
 catholic cemetery "white fathers":天主教坟场“白父亲”
 catholic cemetery:天主教墓地
+catholic cemetery:天主教墳場
 catholic center:天主教中心
 catholic centre (construction):公教中心 (興建中)
 catholic centre:公教进行社
@@ -49796,6 +50253,7 @@ catholic centre:公教進行社
 catholic centre:天主教中心
 catholic chain:天主教连锁
 catholic champions:天主教冠军
+catholic chapel:天主教教堂
 catholic chaplain award:天主教牧师授予
 catholic chaplain:天主教牧师
 catholic charismatic renewal:神恩復興運動
@@ -49805,6 +50263,7 @@ catholic childhood:天主教童年
 catholic children:天主教儿童
 catholic children:天主教孩子
 catholic christian culture:天主教基督教文化
+catholic christian:天主教基督徒
 catholic christianity:天主教基督教
 catholic christians:天主教基督徒
 catholic christmas:天主教圣诞节
@@ -49889,6 +50348,8 @@ catholic climate:天主教气候
 catholic climate:天主教氣候
 catholic college:天主教学院
 catholic college:天主教學院
+catholic committee:天主教委员会
+catholic communism:天主教共产主义
 catholic communities include:天主教社区包括
 catholic communities:天主教社区
 catholic community members say:天主教社区成员说
@@ -49974,6 +50435,7 @@ catholic family services:天主教家庭服务
 catholic family:天主教家庭
 catholic farmer:天主教农民
 catholic farmer:天主教農民
+catholic federation:天主教联盟
 catholic fiction:天主教小说
 catholic films:天主教电影
 catholic flemish people's party:天主教弗拉芒人民党
@@ -49982,6 +50444,7 @@ catholic forum:天主教论坛
 catholic foundation:天主教基金
 catholic france:天主教法国
 catholic franciscan school li-ming high school:天主教私立黎明高中
+catholic friar:天主教修士
 catholic friars' building at daguanshan:大官山天主教修士楼旧址
 catholic friend:天主教朋友
 catholic friends:天主教朋友
@@ -50119,6 +50582,7 @@ catholic museum:天主教博物馆
 catholic music:天主教音乐
 catholic name:天主教名字
 catholic nation:天主教国家
+catholic nationalism:天主教民族主義
 catholic nationalist:天主教民族主义者
 catholic near east:天主教近東
 catholic network:天主教网络
@@ -50273,9 +50737,11 @@ catholic shrine:天主教圣地
 catholic signature:天主教签名
 catholic sister:天主教姐妹
 catholic slave:天主教奴隶
+catholic slavs:天主教斯拉夫人
 catholic social media:天主教社交媒体
 catholic social teaching:天主教社会思想
 catholic social worker:天主教社会工作者
+catholic socialism:天主教社会主义
 catholic society:天主教社会
 catholic soldier:天主教士兵
 catholic son:天主教儿子
@@ -50596,6 +51062,7 @@ catic building:航空科技大廈
 catic plaza:航空大廈
 catignano:卡蒂尼亚诺
 catigny:卡蒂尼
+catiline conspiracy:喀提林陰謀
 catiline just:喀提林只
 catiline:喀提林
 catillaria:腊肠衣属
@@ -50762,6 +51229,7 @@ cattégat:卡特加特海峡
 catu:卡图
 catuji:卡图日
 catullus:卡图卢斯
+catumbela airport:卡通貝拉機場
 catumbela river:卡通贝拉河
 catumbela:卡通貝拉
 catuna:珂蛺蝶屬
@@ -50817,6 +51285,8 @@ caucasian squirrel:中東松鼠
 caucasian war:高加索戰爭
 caucasian wisent:高加索野牛
 caucasotachea vindobonensis:羅紋帶狀蝸牛
+caucasus albania:高加索阿尔巴尼亚
+caucasus albania:高加索阿爾巴尼亞
 caucasus and central asia region:高加索和中亚地区
 caucasus and central asia:高加索和中亚
 caucasus and crimea:高加索和克里米亚
@@ -50829,11 +51299,14 @@ caucasus colleagues:高加索同事
 caucasus countries:高加索国家
 caucasus country:高加索国家
 caucasus emirate:高加索酋長國
+caucasus emirate:高加索酋长国
 caucasus georgia:高加索格鲁吉亚
 caucasus germans:高加索德意志人
 caucasus governorate:高加索省
+caucasus greeks:高加索希臘人
 caucasus initiative:高加索倡议
 caucasus institute:高加索研究所
+caucasus jews:高加索犹太人
 caucasus map:高加索地图
 caucasus mixed forests:高加索混合森林區
 caucasus mountain region:高加索山地区
@@ -50846,10 +51319,13 @@ caucasus oil field:高加索油田
 caucasus oil well:高加索油井
 caucasus portal:高加索门户
 caucasus prince:高加索王子
+caucasus province:高加索省
+caucasus region:高加索军区
 caucasus region:高加索区域
 caucasus region:高加索地区
 caucasus regions:高加索地区
 caucasus republic:高加索共和国
+caucasus russians:高加索俄羅斯人
 caucasus state:高加索州
 caucasus states:高加索国家
 caucasus studies:高加索研究
@@ -50857,6 +51333,7 @@ caucasus today:高加索今天
 caucasus transport corridor:高加索运输走廊
 caucasus transport:高加索运输
 caucasus university:高加索大学
+caucasus viceroyalty:高加索總督轄區
 caucasus war:高加索战争
 caucasus:高加索
 caucete department:考塞特縣
@@ -50907,7 +51384,9 @@ caudipteryx:尾羽龍屬
 caudofoveata:尾腔綱
 caudoviricetes:有尾噬菌體目
 caudron:科德龍
+caudrot station:科德罗站
 caudrot:科德罗
+caudry station:科德里站
 caudry:科德里
 cauffry:科夫里
 caught by the tides:風流一代
@@ -50930,6 +51409,7 @@ caulerpaceae:蕨藻科
 cauletum:紹萊
 caulfeild glacier:考爾菲爾德冰川
 caulfield grammar school:考菲尔德文法学校
+caulfield north:考菲尔德北
 caulfield:考菲尔德
 caulibugula:茎苔虫属
 cauliflower and broccoli:花椰菜和西兰花
@@ -52077,6 +52557,7 @@ cavaglietto:卡瓦列托
 cavagnac:卡瓦尼亚克
 cavagnolo:卡瓦尼奥洛
 cavaia:卡瓦亚
+cavaillon cathedral:卡瓦永主教座堂
 cavaillon:卡瓦永
 cavaion veronese:卡瓦伊翁韦罗内塞
 cavak:青山
@@ -52151,6 +52632,7 @@ cavalry march:骑兵游行
 cavalry mechanized group:骑兵机械化集群
 cavalry museum:骑兵博物馆
 cavalry now:骑兵现在
+cavalry officer:骑兵长官
 cavalry performance:骑兵性能
 cavalry picnic:骑兵野餐
 cavalry pistol:骑兵手枪
@@ -52180,6 +52662,7 @@ cavalry weapons:骑兵武器
 cavalry young:骑兵年轻的
 cavalry:骑兵
 cavan cathedral:卡文主教座堂
+cavan county:卡文县
 cavan konderria:卡文郡
 cavan kontluğu:卡文郡
 cavan kūn:卡文郡
@@ -52255,6 +52738,7 @@ cave bear:洞熊
 cave because:洞穴因为
 cave boy:洞穴男孩
 cave canem:當心惡犬
+cave carson:洞穴卡森
 cave castle:洞穴城堡
 cave cathedral:洞穴大教堂
 cave ceiling:洞穴天花板
@@ -52325,6 +52809,7 @@ cave mummy:洞穴木乃伊
 cave museum:洞穴博物馆
 cave national park:洞穴国家公园
 cave national park:洞穴國家公園
+cave nebula:洞穴星云
 cave nectar bat:长舌果蝠
 cave network:洞穴网络
 cave networks:洞穴网络
@@ -52432,6 +52917,7 @@ caves books:敦煌書局
 caves of aggtelek karst and slovak karst:奧格泰萊克的喀斯特岩洞群和斯洛伐克的喀斯特地貌
 caves of mars project:火星洞穴项目
 cavez:塞韦兹
+cavezzo observatory:卡韦佐天文台
 cavezzo:卡韦佐
 cavg:平均血药浓度
 cavia:豚鼠属
@@ -52508,6 +52994,7 @@ cavity ring down spectroscopy:光腔衰荡光谱
 cavity search:腔搜索
 cavity structure:腔结构
 cavity surface:腔表面
+cavity switch:腔开关
 cavity system:腔系统
 cavity technology:腔技术
 cavity temperature:腔温度
@@ -52563,12 +53050,14 @@ cayena:卡宴
 cayena:開雲
 cayene:卡宴
 cayene:開雲
+cayenne airport:卡宴機場
 cayenne and audi:卡宴和奥迪
 cayenne hospital:卡宴医院
 cayenne island:卡宴岛
 cayenne jay:白颈蓝鸦
 cayenne offer:卡宴提供
 cayenne pepper:卡宴辣椒
+cayenne river:卡宴河
 cayenne tower:卡宴塔
 cayenne:卡宴
 cayenne:開雲

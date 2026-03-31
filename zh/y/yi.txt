@@ -353,11 +353,14 @@ yibentangtun:一本堂屯
 yibiaoluo:依标罗
 yibieluo:依别啰
 yibigu:衣比古村
+yibin airport:宜宾机场
 yibin art line t1:宜宾智轨t1线
 yibin art line t2:宜宾智轨t2线
 yibin art:宜宾智轨
 yibin caiba airport:宜宾菜坝机场
 yibin chang jiang daqiao:宜宾长江大桥
+yibin county:宜宾县
+yibin county:宜賓县
 yibin ring expressway:宜宾绕城高速
 yibin road:宜宾路
 yibin university:宜宾学院
@@ -411,7 +414,10 @@ yichang children's park (yichang rd.):ㄧˊㄔㄤㄦˊㄊㄨㄥˊㄍㄨㄥㄩㄢ
 yichang children's park (yichang rd.):宜昌儿童公园(宜昌路)
 yichang children's park (yichang rd.):宜昌兒童公園(宜昌路)
 yichang east railway station:宜昌东站
+yichang east:宜昌东
+yichang east:宜昌東
 yichang lane, guangfu road:光復路義昌巷
+yichang metro:宜昌地铁
 yichang metro:宜昌轨道交通
 yichang railway station:宜昌站
 yichang river:yìchāng hé
@@ -453,6 +459,9 @@ yicheng avenue:宜城大道
 yicheng boulevard:宜城大道
 yicheng city:宜城市
 yicheng county:yìchéng xiàn
+yicheng county:义城县
+yicheng county:义成县
+yicheng county:宜城县
 yicheng county:翼城县
 yicheng county:翼城縣
 yicheng cyber cafe:亿城网咖
@@ -551,6 +560,8 @@ yichuanlu:宜川路街道
 yichun agricultural:一春农业
 yichun city:yīchūn shì
 yichun city:伊春市
+yichun county:伊春县
+yichun county:宜春县
 yichun district:伊春区
 yichun i jiangxi:yíchūn shì
 yichun i jiangxi:宜春
@@ -565,6 +576,7 @@ yichun road:伊春路
 yichun road:颐春路
 yichun service area:宜春服务区
 yichun university:宜春学院
+yichun west:伊春西
 yichun, jiangxi:yíchūn shì
 yichun, jiangxi:宜春
 yichun, jiangxi:宜春市
@@ -770,6 +782,7 @@ yidouquancun:一斗泉村
 yidoushuibeipo:一斗水北坡
 yidoushuicun:一斗水村
 yidu bridge:義渡橋
+yidu county:宜都县
 yidu east road:益都东路
 yidu food pedestrian street:邑都好吃街
 yidu hvdc converter station:宜都換流站
@@ -866,6 +879,8 @@ yifenchangcun:一分场村
 yifenchangtun:一分场屯
 yifeng alley:仪凤巷
 yifeng county:yífēng xiàn
+yifeng county:义丰县
+yifeng county:仪封县
 yifeng county:宜丰县
 yifeng county:宜豐
 yifeng county:宜豐縣
@@ -1572,10 +1587,12 @@ yilan dongmen night market:宜蘭東門觀光夜市
 yilan green expo:宜蘭綠色博覽會
 yilan interchange:宜蘭交流道
 yilan international children's folklore and folkgame festival:宜蘭國際童玩藝術節
+yilan line:宜兰线
 yilan line:宜蘭線
 yilan literary museum:舊農校校長宿舍
 yilan management office, irrigation agency:農田水利署宜蘭管理處
 yilan museum of art:宜蘭美術館
+yilan plain:宜蘭平原
 yilan plain:蘭陽平原
 yilan prison:宜蘭監獄
 yilan railway station:宜蘭車站
@@ -1583,6 +1600,8 @@ yilan river:宜蘭河
 yilan sport park:宜蘭運動公園
 yilan square:漪澜广场
 yilan square:漪瀾廣場
+yilan station:依兰站
+yilan station:宜蘭站
 yilan story museum:舊宜蘭縣議會
 yilan town people's government:依兰镇人民政府
 yilan zhao ying temple:宜蘭昭應宮
@@ -1746,6 +1765,7 @@ yiliancun:义联村
 yiliang busterminal:宜良客运站
 yiliang county:yiliang xian
 yiliang county:yíliáng xiàn
+yiliang county:义良县
 yiliang county:宜良县
 yiliang county:宜良縣
 yiliang county:彝良县
@@ -1980,6 +2000,7 @@ yimei:伊美區
 yimei:宜美
 yimeidu:矣美堵
 yimen county:yìmén xiàn
+yimen county:义门县
 yimen county:易門縣
 yimen county:易门县
 yimen:yimen xian
@@ -2000,6 +2021,7 @@ yimi:伊米
 yimian street:一面街
 yimiangao:一面高
 yimianjing:一面井
+yimianpo north:一面坡北
 yimianpo:一面坡
 yimianpo:一面坡镇
 yimin avenue:移民大道
@@ -2672,6 +2694,7 @@ yingbin east road:迎宾东路
 yingbin east street:迎宾东街
 yingbin expressway:迎宾快速路
 yingbin expressway:迎宾高速
+yingbin expressway:迎宾高速公路
 yingbin expressway:迎賓快速路
 yingbin expressway:迎賓高速
 yingbin flyover:迎宾跨线桥
@@ -2717,6 +2740,7 @@ yingbing rd:迎宾路
 yingbinhu park:迎宾湖公园
 yingbinhuayuan community:迎宾花园社区
 yingbinlu primary school:迎宾路小学
+yingbinlu station:迎宾路站
 yingbinlu subdistrict:yíngbīnlù jiēdào
 yingbinlu subdistrict:迎宾路街道
 yingbinlu:yíngbīnlù jiēdào
@@ -2776,6 +2800,8 @@ yingcheng 5th street:櫻城五街
 yingcheng 6th street:櫻城六街
 yingcheng city:应城市
 yingcheng city:應城市
+yingcheng county:应城县
+yingcheng county:营城县
 yingcheng east road:营城东路
 yingcheng industral park:赢城产业园
 yingcheng national mining park museum:应城国家矿山公园博物馆
@@ -2798,6 +2824,7 @@ yingchengcun:英成村
 yingchengdong:应城东
 yingchengfu:应城府
 yingchengyi toll gate:yíng chéngzi shōufèi zhàn
+yingchengzi station:营城子站
 yingchengzi:yíngchéngzǐ jiēdào
 yingchengzi:yíngchéngzǐ zhèn
 yingchengzi:英城子乡
@@ -2887,6 +2914,7 @@ yingde st public private car park:英德街公有民营停车场
 yingde street public private parking lot:英德街公有民營停車場
 yingde street:英德街
 yingde west railway station:英德西站
+yingde west:英德西
 yingde:yīngdé shì
 yingde:英德
 yingde:英德市
@@ -3021,6 +3049,8 @@ yingge station (no. 62, renai rd.):莺歌火车站(仁爱路62号)
 yingge station (no. 62, renai rd.):鶯歌火車站(仁愛路62號)
 yingge station (wenhua rd.):莺歌火车站(文化路)
 yingge station (wenhua rd.):鶯歌火車站(文化路)
+yingge station:莺歌站
+yingge station:鶯歌站
 yingge system interchange:鶯歌系統交流道
 yingge village:yīng gē lǐ
 yingge village:莺歌里
@@ -3266,15 +3296,19 @@ yingkeng:营坑村
 yingkengcun:英坑村
 yingkiong:yìng kōng
 yingkiong:英肯
+yingkou airport:营口机场
 yingkou avenue:營口道
 yingkou avenue:营口道
 yingkou city:yíngkǒu shì
 yingkou city:營口市
 yingkou city:营口市
+yingkou county:营口县
 yingkou dao:營口道
 yingkou dao:营口道
 yingkou east railway station:营口东站
+yingkou east:营口东
 yingkou lanqi airport:营口兰旗机场
+yingkou railway:营口铁路
 yingkou road east guoshun road:营口路国顺东路
 yingkou road:yíng kǒu lù
 yingkou road:營口路
@@ -3340,6 +3374,8 @@ yinglong road:营龙路
 yinglong road:迎龙路
 yinglong service area:迎龙服务区
 yinglong south 1st road:应龙南一路
+yinglong station:應龍站
+yinglong station:迎龙站
 yinglong:应龙
 yinglong:应龙社区
 yinglong:應龍
@@ -3527,6 +3563,7 @@ yingrui:迎瑞
 yingsan huasia:影三華廈
 yingshan county:yingshan xian
 yingshan county:yíngshān xiàn
+yingshan county:应山县
 yingshan county:營山縣
 yingshan county:英山
 yingshan county:英山县
@@ -3577,6 +3614,7 @@ yingshang county:yǐngshàng xiàn
 yingshang county:潁上縣
 yingshang county:颍上县
 yingshang north railway station:颍上北站
+yingshang north:颍上北
 yingshang road:潁上路
 yingshang:潁上縣
 yingshang:营上
@@ -3653,6 +3691,7 @@ yingtai:英台
 yingtaicun:营台村
 yingtan north railway station:鹰潭北站
 yingtan north:鹰潭北
+yingtan stadium:鹰潭市体育场
 yingtan:yīngtán shì
 yingtan:营滩乡
 yingtan:鷹潭
@@ -3972,6 +4011,7 @@ yingzizuishan:yīngzǐzuǐshān
 yingzizuishan:ㄧㄥㄗˇㄗㄨㄟˇㄕㄢ
 yingzizuishan:鷹仔嘴山
 yingzizuishan:鹰仔嘴山
+yingzong emperor:英宗皇帝
 yingzong:英宗
 yingzui:鹰嘴
 yingzuishi:鹰咀石
@@ -4132,6 +4172,8 @@ yinhui:殷汇镇
 yinhushancun:尹户山村
 yinian:金寄水
 yinidu:依尼独
+yining airport:伊宁机场
+yining airport:伊宁機場
 yining airport:伊犁伊宁国际机场
 yining border economic cooperation zone:伊宁边境经济合作区
 yining city:yīníng shì
@@ -4421,6 +4463,7 @@ yinmao:尹毛
 yinmaquan:饮马泉
 yinmaquancun:饮马泉村
 yinmaxia railway station:饮马峡站
+yinmaxia station:饮马峡站
 yinmaxia:饮马峡
 yinmazhuangcun:饮马庄村
 yinmazui:饮马咀
@@ -5112,6 +5155,7 @@ yishan & sec. 1, xinshi 1st intersection:義山新市一路口
 yishan & xinshi 2nd rd. intersection:义山新市二路口
 yishan & xinshi 2nd rd. intersection:義山新市二路口
 yishan bridge:义山桥
+yishan county:宜山县
 yishan crossing:宜山路口
 yishan lake:yíshān hú
 yishan lake:移山湖
@@ -5235,6 +5279,8 @@ yishun mrt station:义顺地铁站
 yishun n8 park:义顺n8公园
 yishun north neighbourhood police centre:义顺北邻里警局
 yishun stadium:义顺体育场
+yishun station:义顺站
+yishun station:義順站
 yishun walk:义顺径
 yishun:yìshùn měnggǔzú xiāng
 yishun:义顺
@@ -5362,6 +5408,7 @@ yitong 3rd road:翼通三路
 yitong 4th road:翼通四路
 yitong 5th road:翼通五路
 yitong 6th road:翼通六路
+yitong county:伊通县
 yitong manchu autonomous county:yītōng mǎnzú zìzhìxiàn
 yitong manchu autonomous county:伊通满族自治县
 yitong manchu autonomous county:伊通滿族自治縣
@@ -5578,6 +5625,7 @@ yiwu business and trade plaza:yìwū shāngmào chéng
 yiwu business and trade plaza:义乌商贸城
 yiwu business daily:义乌商报
 yiwu county:yīwú xiàn
+yiwu county:义乌县
 yiwu county:伊吾县
 yiwu county:伊吾縣
 yiwu food safety training:义乌市食品安全培训
@@ -5745,6 +5793,10 @@ yixing bridge:義興大橋
 yixing building:益兴大厦
 yixing clay teapot:紫砂壺
 yixing community:邑興社區
+yixing county:义兴县
+yixing county:宜兴县
+yixing county:宜興县
+yixing county:義興县
 yixing dongshi activity center:dōngshìyíxìnghuódòngzhōngxīn
 yixing dongshi activity center:ㄉㄨㄥㄕˋㄧˊㄒㄧㄥˋㄏㄨㄛˊㄉㄨㄥˋㄓㄨㄥㄒㄧㄣ
 yixing dongshi activity center:东势宜兴活动中心
@@ -5855,10 +5907,13 @@ yiyang county:yiyang xian
 yiyang county:yìyáng xiàn
 yiyang county:宜阳县
 yiyang county:宜陽
+yiyang county:宜陽县
 yiyang county:宜陽縣
 yiyang county:弋阳县
 yiyang county:弋陽
+yiyang county:弋陽县
 yiyang county:弋陽縣
+yiyang county:益阳县
 yiyang high tech industrial development zone:益阳高新技术产业开发区
 yiyang line:益羊线
 yiyang shi:益阳市
@@ -6100,6 +6155,7 @@ yizhu:義竹
 yizhuang culture park station:亦庄文化园站
 yizhuang culture park:yìzhuāng wénhuàyuán
 yizhuang culture park:亦庄文化园
+yizhuang line:亦庄线
 yizhuang line:北京地铁亦庄线
 yizhuang middle school:依庄中学
 yizhuang qiao station:亦庄桥站
@@ -6127,6 +6183,7 @@ yizhuangcun:弋庄村
 yizhuangcun:易庄村
 yizhuangcun:益庄村
 yizhuangcun:迤庄村
+yizhuangqiao station:亦庄桥站
 yizhuangqiao:yìzhuāngqiáo
 yizhuangqiao:亦庄桥
 yizhuangzicun:伊庄子村

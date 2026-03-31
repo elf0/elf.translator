@@ -492,6 +492,7 @@ giant coca-cola:巨大的可口可乐
 giant coconut crab:巨大的椰子蟹
 giant codebase:巨大的代码库
 giant coffee:巨大的咖啡
+giant collision:巨大的碰撞
 giant colony:巨大的殖民地
 giant colored pencil:巨大的彩色铅笔
 giant comet:巨大的彗星
@@ -1221,6 +1222,8 @@ giant squid could kill:巨大的鱿鱼能杀
 giant squid could:巨大的鱿鱼能
 giant squid genome:巨大的鱿鱼基因组
 giant squid:巨大的鱿鱼
+giant stadium:巨人体育场
+giant stadium:巨人體育場
 giant star stage:巨星阶段
 giant star:巨星
 giant statue:巨人雕像
@@ -1249,6 +1252,7 @@ giant suitcase:巨大的行李箱
 giant sundial:巨大的日晷
 giant sunfish:拉氏翻車魨
 giant sunspot:巨大的太阳黑子
+giant supermarket:巨人超市
 giant supernova:巨大的超新星
 giant surface:巨大的表面
 giant sweden:巨大的瑞典
@@ -1564,6 +1568,7 @@ gibraltaar:直布罗陀 / 直布羅陀
 gibraltaar:直布羅陀
 gibraltar airfield:直布罗陀机场
 gibraltar airport:直布罗陀机场
+gibraltar airport:直布羅陀機場
 gibraltar and africa:直布罗陀和非洲
 gibraltar and ceuta:直布罗陀和休达
 gibraltar and falkland islands:直布罗陀和福克兰群岛
@@ -1580,7 +1585,9 @@ gibraltar and spain:直布罗陀和西班牙
 gibraltar and switzerland:直布罗陀和瑞士
 gibraltar anthem:直布羅陀頌
 gibraltar ape:直布罗陀猿
+gibraltar arc:直布罗陀弧
 gibraltar arc:直布羅陀弧
+gibraltar bay:直布羅陀海灣
 gibraltar be:直布罗陀成为
 gibraltar became:直布罗陀成为
 gibraltar blockchain account:直布罗陀区块链账户
@@ -1608,6 +1615,7 @@ gibraltar football:直布罗陀足球
 gibraltar free:直布罗陀释放
 gibraltar from:直布罗陀从
 gibraltar government:直布罗陀政府
+gibraltar government:直布羅陀政府
 gibraltar hopes:直布罗陀希望
 gibraltar in europe:直布罗陀在欧洲
 gibraltar international airport:直布罗陀国际机场
@@ -1629,6 +1637,7 @@ gibraltar officials:直布罗陀官员
 gibraltar open:斯诺克直布罗陀公开赛
 gibraltar or malta:直布罗陀或马耳他
 gibraltar parliament:直布罗陀议会
+gibraltar passport:直布罗陀护照
 gibraltar peak:直布羅陀峰
 gibraltar plans:直布罗陀计划
 gibraltar port authority:直布罗陀港务局
@@ -1645,6 +1654,7 @@ gibraltar socialist labour party:直布罗陀社会主义工党
 gibraltar sovereignty:直布罗陀主权
 gibraltar stock exchange:直布罗陀证券交易所
 gibraltar strait:直布罗陀海峡
+gibraltar strait:直布羅陀海峡
 gibraltar street:街心公园站
 gibraltar sund:直布罗陀海峡
 gibraltar sund:直布羅陀海峽
@@ -1799,6 +1809,9 @@ giesdorf:吉斯多夫
 giesen:及森
 giesenhausen:吉森豪森
 giesensdorf:吉森斯多夫
+giessen station:吉森站
+giessen university:吉森大学
+giessen university:吉森大學
 giessen:吉森
 giessenlanden:希森兰登
 giethoorn:羊角村
@@ -1869,6 +1882,8 @@ gift do rise:礼物做上升
 gift do:礼物做
 gift donation:禮物捐贈
 gift earth:礼物地球
+gift economics:禮物經濟學
+gift economy:礼物经济
 gift economy:禮物經濟
 gift england:礼物英格兰
 gift envelope:礼物信封
@@ -2136,6 +2151,7 @@ giimbiyu language:金比尤语
 gija joseon:箕子朝鲜
 gijang county:机张郡
 gijang station:机张站
+gijang station:機張站
 gijang-daero:机长大路
 gijang-eup:机张邑
 gijang-eup:機張邑
@@ -2268,6 +2284,7 @@ gilgit baltistan area:吉尔吉特巴尔蒂斯坦地区
 gilgit baltistan pakistan:吉尔吉特巴尔蒂斯坦巴基斯坦
 gilgit baltistan:吉尔吉特巴尔蒂斯坦
 gilgit district:吉尔吉特县
+gilgit river:吉尔吉特河
 gilgit river:吉爾吉特河
 gilgit river:罕萨河
 gilgit to east:吉尔吉特到东
@@ -2342,6 +2359,7 @@ gilman's bazaar:機利文新街
 gilmer county:吉爾默縣
 gilmore girls:吉爾莫女孩
 gilmore township:吉尔摩镇区
+gilmore township:吉爾摩鎮區
 gilmore:吉爾摩
 gilmoreosaurus:計氏龍屬
 gilo river:吉羅河
@@ -2796,6 +2814,8 @@ ginger eventually:姜最终
 ginger export base:姜出口基地
 ginger export:姜出口
 ginger exports:姜出口
+ginger family:姜科
+ginger family:薑科
 ginger farm:姜农场
 ginger flower stream:geung fa shek gaan
 ginger flower stream:goeng1 faa1 sek6 gaan3
@@ -2806,6 +2826,7 @@ ginger flower:薑花
 ginger fried rice:姜炒饭
 ginger gardner:姜加德纳
 ginger garlic:姜蒜
+ginger gold:姜金
 ginger hair:姜头发
 ginger has been:姜已经
 ginger has:姜有
@@ -3072,6 +3093,7 @@ ginza shopping underground plaza:银座购物广场（泉城广场店）
 ginza shopping:銀座購物
 ginza square:銀座廣場
 ginza station:銀座站
+ginza wako:銀座和光
 ginza:銀座
 ginza:银座餐厅
 ginzambashi:銀山橋
@@ -3164,6 +3186,7 @@ giok san building:玉山大廈
 giokčeada:格克切島
 gion chugakko-iriguchi (gion junior high school):祇园中学入口
 gion chugakko-iriguchi (gion junior high school):祇園中學入口
+gion faith:祇園信仰
 gion matsuri:祇園祭
 gion quarter:衹园
 gion shinbashi kita station:祇園新橋北站
@@ -3348,6 +3371,7 @@ giraffe:长颈鹿
 giraffidae:长颈鹿科
 giraffoidea:長頸鹿總科
 giraffokeryx:始长颈鹿
+giralda tower:吉拉達塔
 giralda:吉拉達
 giraltovce:吉拉爾托夫采
 giran-myeon:吉安面
@@ -3652,6 +3676,7 @@ girl code:女孩代码
 girl cold:女孩冷
 girl come:女孩来
 girl comic:少女漫画
+girl comics:少女漫画
 girl commando:女生突击队
 girl comment:女孩评论
 girl complete:女孩完成
@@ -3908,6 +3933,7 @@ girl missing:少女失踪
 girl missionary:女孩传教士
 girl mistake:女孩错误
 girl model:女孩模型
+girl model:少女模特
 girl money:女孩钱
 girl most:女孩大多数
 girl mother:女孩母亲
@@ -4006,12 +4032,14 @@ girl role:女孩角色
 girl room:女孩房间
 girl rose:女孩玫瑰
 girl ruler:女孩统治者
+girl rules:女生规则
 girl run:女孩跑
 girl run:姑娘跑
 girl said:女孩说
 girl said:女生说
 girl said:姑娘说
 girl said:少女说
+girl sailor:少女水手
 girl sandy:女孩桑迪
 girl say:女孩说
 girl say:姑娘说
@@ -4566,6 +4594,7 @@ gisan-ri:基山里
 gisan-ri:岐山里
 gisan-ri:机山里
 gisay la coudre:日赛拉库德尔
+gisborne airport:吉斯伯恩機場
 gisborne district:吉斯伯恩大区
 gisborne:吉斯伯恩
 giscaro:日斯卡罗
@@ -4580,6 +4609,7 @@ gisekiaceae:吉粟草科
 gisela of swabia:士瓦本的吉塞拉
 gisella ma:馬嘉慧
 giselle:吉賽爾
+gisenyi airport:吉塞尼機場
 gisenyi province:吉塞尼省
 gisenyi:吉塞尼
 giseok:柳起碩
@@ -4597,6 +4627,7 @@ gisik kulon:约旦河西岸地区
 gisik kulon:西岸地區
 gisikon:吉錫孔
 gislaved municipality:伊斯拉韦德市镇
+gisors station:日索尔站
 gisors:日索尔
 gispu:吉甫錯
 gispu:吉甫错
@@ -4617,6 +4648,7 @@ gitanjali said:吉檀迦利说
 gitanjali singh:吉檀迦利辛格
 gitanjali:吉檀迦利
 giteg:基特加
+gitega airport:基特加機場
 gitega province:基特加省
 gitega:基特加
 gitego:基特加
@@ -4634,6 +4666,7 @@ gitschtal:吉奇塔尔
 gittelde:吉泰尔德
 gittruper see:吉特魯普湖
 gitzenbach:吉岑巴赫河
+giuba river:朱巴河
 giuba:朱巴
 giubega:久貝加鄉
 giubiasco:朱比亞斯科
@@ -8893,6 +8926,7 @@ giza peak:吉薩峰
 giza piramidalari:吉萨的墓地
 giza piramidaları:吉萨的墓地
 giza plateau:吉萨高原
+giza plateau:吉薩高原
 giza project let:吉萨项目让
 giza project:吉萨项目
 giza province:吉萨省

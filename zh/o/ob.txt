@@ -43,7 +43,9 @@ obama:小滨市
 obama:小濱市
 obama:尾浜
 obambo:奥班博
+oban airport:奧本機場
 oban jinja (oban jinja shrine):大番神社
+oban station:奧本站
 oban:奧本
 oban:黃幡
 oban:黄幡
@@ -85,6 +87,7 @@ obayashi shako (obayashi depot):大林車庫
 obayashi shako (obayashi depot):大林车库
 obayashi shogakko-mae (obayashi elementary school):大林小学前
 obayashi shogakko-mae (obayashi elementary school):大林小學前
+obayashi station:大林站
 obayashi-nichome (obayashi 2):大林二丁目
 obayashi:大林
 obağan nehri:乌巴甘河
@@ -210,6 +213,7 @@ obercunnersdorf:上库内尔斯多夫
 oberdachstetten:上达赫施泰滕
 oberderdingen:上代丁根
 oberdiebach:上迪巴赫
+oberdiessbach castle:上迪斯巴赫城堡
 oberdiessbach:上迪斯巴赫
 oberding:奥伯丁
 oberdischingen:上迪兴根
@@ -310,13 +314,16 @@ oberliga hamburg:汉堡足球高级联赛
 oberliga niederrhein:下莱茵足球高级联赛
 oberliga niedersachsen:下萨克森足球高级联赛
 oberliga westfalen:威斯特法伦足球高级联赛
+oberlin academy:欧柏林学院
 oberlin area:欧柏林地区
 oberlin area:欧柏林面积
 oberlin college:奥伯林学院
+oberlin college:欧柏林学院
 oberlin conservatory of music:欧柏林音乐学院
 oberlin provides:欧柏林提供
 oberlin public library:欧柏林公共图书馆
 oberlin shansi memorial association:铭贤社
+oberlin university:欧柏林大学
 oberlin:欧柏林
 oberloisdorf:上洛伊斯多夫
 oberlungwitz:上隆维茨
@@ -332,6 +339,7 @@ obermorschwiller:上莫什维莱尔
 obermoschel:上莫舍尔
 obermosel zeitung:上摩澤爾報
 obermumpf:上蒙普夫
+obernai station:奥贝奈站
 obernai:奥贝奈
 obernau:奥伯瑙
 obernberg am brenner:布伦纳山口奥伯恩贝格
@@ -969,6 +977,7 @@ obituary writer:讣告作家
 obituary:讣告
 obius:鄂畢河
 obj:鄂畢
+objat station:奥布雅站
 objat:奥布雅
 object access pattern:对象访问模式
 object access protocol:对象访问协议
@@ -2388,7 +2397,9 @@ obo:奧博
 obo:敖包苏木
 obo:敖包蘇木
 obo:鄂畢河
+obock airport:奧博克機場
 obock region:奥博克地区
+obock region:奧博克地区
 obock:奧博克
 obodivka:奧博迪夫卡
 obodiwka:奧博迪夫卡
@@ -2819,6 +2830,7 @@ observatory of turin:杜林天文台
 observatory of turin:都灵天文台
 observatory road:天文台道
 observatory road:天文臺道
+observatory street:天文台街
 observatory:天文台
 observatory:觀景台
 observatory:觀測臺
@@ -2861,6 +2873,7 @@ observer is right:观察者是对的
 observer list:观察者列表
 observer listen:观察者听
 observer look:观察者看
+observer magazine:观察者杂志
 observer measure:观察者测量
 observer mode uses three:观察者模式使用三
 observer mode:观察者模式

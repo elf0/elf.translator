@@ -4,6 +4,7 @@ ica district:伊卡區
 ica province:伊卡省
 ica river:伊卡河
 ica stones:伊卡黑石
+icac commissioner:廉政公署專員
 icac headquarters building:廉政公署总部大楼
 icac headquarters building:廉政公署總部大樓
 icac investigators:香港廉政公署電視劇集系列
@@ -166,7 +167,9 @@ ice ask:冰问
 ice at his heart:冰在他的心
 ice avalanche:冰雪崩
 ice ax:冰斧
+ice axe:冰斧
 ice axe:冰镐
+ice axes:冰斧
 ice bath before:冰浴之前
 ice bath:冰浴
 ice be:冰成为
@@ -182,6 +185,7 @@ ice birds:冰鸟
 ice black tea:冰红茶
 ice blade:冰刃
 ice blade:地雷震
+ice block:冰块
 ice blood:冰血
 ice blue eyes:冰蓝色眼睛
 ice blue:冰蓝色
@@ -235,6 +239,7 @@ ice class ship:冰级船
 ice class vessel:冰级船
 ice class:冰级
 ice classic:冰经典的
+ice claw:冰爪
 ice cliff:冰崖
 ice cliff:冰悬崖
 ice climber:敲冰块
@@ -396,6 +401,7 @@ ice cruise of the baltic fleet:冰上航行
 ice crystal embryo:冰晶胚胎
 ice crystal process:冰晶过程
 ice crystal:冰晶
+ice crystal:冰晶体
 ice cube and kevin:冰块和凯文
 ice cube and michael:冰块和迈克尔
 ice cube began:冰块开始
@@ -444,6 +450,7 @@ ice dust:冰尘
 ice dwarf:冰矮星
 ice dynamics:冰动力学
 ice effect:冰效果
+ice eggs:冰蛋
 ice end:冰结束
 ice environment:冰环境
 ice even:冰甚至
@@ -459,6 +466,7 @@ ice fantasy:幻城
 ice field located:冰原位于
 ice field:冰原
 ice field:冰地
+ice field:冰场
 ice finger:冰手指
 ice fire:冰火
 ice fish:冰鱼
@@ -473,6 +481,7 @@ ice flower:冰花
 ice flux:冰通量
 ice fly:冰飞
 ice fog:冰雾
+ice fog:冰霧
 ice for the first time:冰第一次
 ice force level:冰力等级
 ice force:冰力
@@ -553,6 +562,7 @@ ice is right:冰是对的
 ice is solid:冰是固体
 ice is very dangerous:冰是非常危险的
 ice is very important:冰是非常重要的
+ice island:冰岛
 ice islands:冰群岛
 ice issues:冰问题
 ice iv:冰四
@@ -564,6 +574,7 @@ ice kilometers:冰公里
 ice king:冰王
 ice king:冰霸王
 ice kingdom:冰王国
+ice krill:冰磷蝦
 ice laboratory:冰实验室
 ice lady:冰女士
 ice lake line finally:冰湖线最终
@@ -603,6 +614,7 @@ ice moan:冰呻吟
 ice model:冰模型
 ice models:冰模型
 ice motion:冰运动
+ice mountain:冰山
 ice mummy:冰木乃伊
 ice museum:冰博物馆
 ice music:冰音乐
@@ -682,12 +694,14 @@ ice resources:冰资源
 ice restaurant:冰室小菜館
 ice restaurant:綠冰室
 ice resurfacer:洗冰車
+ice ribbon:冰絲帶
 ice rink:滑冰場
 ice rise:冰上升
 ice rise:冰隆
 ice river:冰河
 ice river:冰河流
 ice road:冰路
+ice roads:冰路
 ice rose:冰玫瑰
 ice run:冰跑
 ice said:冰说
@@ -780,6 +794,7 @@ ice still:冰仍然
 ice stock sport:冰上滑盤
 ice storm we:冰暴我们
 ice storm:冰暴
+ice storm:冰风暴
 ice stream:冰流
 ice structure type:冰结构类型
 ice structure:冰结构
@@ -791,6 +806,7 @@ ice sword:冰剑
 ice system:冰系统
 ice systems:冰系统
 ice tallinn:冰塔林
+ice tea:冰茶
 ice team:冰团队
 ice team:冰队
 ice technology:冰技术
@@ -824,6 +840,7 @@ ice usually:冰通常
 ice vi:冰六
 ice vii:冰七
 ice village:冰村
+ice volcano:冰火山
 ice volume:冰体积
 ice wall barrier:冰墙屏障
 ice wall:冰墙
@@ -837,6 +854,7 @@ ice water from:冰水从
 ice water recipe:冰水食谱
 ice water will:冰水会
 ice water:冰水
+ice well:冰井
 ice were visible:冰是可见的
 ice whale association:冰鲸协会
 ice whale:冰鲸
@@ -851,10 +869,12 @@ ice wine production base:冰酒生产基地
 ice wine production:冰酒生产
 ice wine taste:冰酒尝
 ice wine vineyard:冰酒葡萄园
+ice wine:冰葡萄酒
 ice wine:冰酒
 ice wolves:冰狼
 ice world:冰世界
 ice worm:冰蟲
+ice worm:冰蠕虫
 ice would soon melt:冰将很快融化
 ice would:冰将
 ice xv:冰十五
@@ -958,6 +978,7 @@ icebreaker and start:破冰船和开始
 icebreaker assistance:破冰船援助
 icebreaker design:破冰船设计
 icebreaker enter:破冰船进入
+icebreaker flag:破冰船旗
 icebreaker fleet:破冰船艦隊
 icebreaker glacier:破冰船冰川
 icebreaker life:破冰生命
@@ -1226,6 +1247,7 @@ iceland parliament:冰岛议会
 iceland participate:冰岛参与
 iceland passport:冰岛护照
 iceland plans:冰岛计划
+iceland plateau:冰島高原
 iceland police:冰岛警察
 iceland population clock:冰岛人口时钟
 iceland population:冰岛人口
@@ -1241,6 +1263,7 @@ iceland republic:冰岛共和国
 iceland require:冰岛需要
 iceland research:冰岛研究
 iceland school:冰岛学校
+iceland sea:冰島海
 iceland services:冰岛服务
 iceland spar:冰洲石
 iceland start:冰岛开始
@@ -1345,7 +1368,11 @@ ichelsea:切尔西足球俱乐部
 ichelsea:車路士足球會
 ichembay:伊希姆拜
 ichenhausen:伊兴豪森
+icheon county:伊川县
+icheon county:利川县
 icheon seo clan:利川徐氏
+icheon station:伊川站
+icheon station:利川站
 icheon-dong:梨川洞
 icheon-si:利川市
 icheon:伊川

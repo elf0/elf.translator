@@ -62,6 +62,7 @@ piacatu:皮亚卡图
 piacenza area:皮亚琴察地区
 piacenza cathedral:皮亚琴察主教座堂
 piacenza d'adige:阿迪杰河畔皮亚琴察
+piacenza province:皮亚琴察省
 piacenza:皮亚琴察
 piacenzian:皮亚琴期
 piadena:皮亚代纳
@@ -763,6 +764,7 @@ picard language:皮卡第语
 picard theorem:皮卡定理
 picardy farm:皮卡第农场
 picardy museum:皮卡第博物馆
+picardy region:皮卡第地区
 picardy:皮卡第
 picaresque novel:流浪汉小说
 picarreau:皮卡罗
@@ -890,6 +892,7 @@ pickaxe:十字鎬
 pickelhaube:釘盔
 pickens and others:皮肯斯和其他人
 pickens believe:皮肯斯相信
+pickens county:皮肯斯县
 pickens county:皮肯斯縣
 pickens has more than:皮肯斯有超过
 pickens museum:皮肯斯博物馆
@@ -1055,6 +1058,7 @@ picota province:皮科塔省
 picota:皮科塔
 picozoa:皮胆虫
 picpus station:皮克皮斯站
+picquigny station:皮基尼站
 picquigny:皮基尼
 picralinal:鸭脚树叶碱
 picramic acid:苦氨酸
@@ -1533,19 +1537,27 @@ pierpont prime:皮爾龐特質數
 pierrafortscha:皮拉福查
 pierre and marie curie university:巴黎第六大学
 pierre avoi:皮埃爾阿瓦山
+pierre cassen:皮爾卡桑
 pierre chan:陳沛然
 pierre charles boudot:布達德
 pierre de bresse:皮埃尔德布雷斯
 pierre et marie curie station:居里夫婦站
+pierre falcon:皮爾隼
+pierre karl:皮尔卡尔
 pierre la treiche:皮埃尔拉特雷什
+pierre louis:皮爾路易斯
 pierre marie heude:韩伯禄
 pierre marsone:马颂仁
+pierre monteux:皮尔蒙特
+pierre monteux:皮爾蒙特
 pierre morains:皮埃尔莫兰
 pierre nanterme:南佩德
 pierre perthuis:皮埃尔佩尔蒂
 pierre pigneau de behaine:百多祿
 pierre png:方展發
 pierre poilievre:博勵治
+pierre river:皮尔河
+pierre river:皮爾河
 pierre sur haute military radio station:皮埃爾敘羅特山軍用無線電台
 pierre teilhard de chardin:德日进
 pierre:皮尔
@@ -1604,6 +1616,7 @@ pietas iulia:普拉
 pieterburen:彼得比伦
 pieterlen:皮特倫
 pietermaritzburg airport:彼得馬里茨堡機場
+pietermaritzburg airport:彼得马里茨堡机场
 pietermaritzburg station:彼得马里茨堡站
 pietermaritzburg:彼得马里茨堡
 pietermaritzburgo:彼得马里茨堡
@@ -1893,6 +1906,7 @@ pig face:猪脸
 pig faced women:猪脸女
 pig facilities:猪设施
 pig family:猪家庭
+pig family:猪科
 pig farm:猪农场
 pig farm:良种猪场站
 pig farm:養豬場
@@ -1956,8 +1970,10 @@ pig market:猪市场
 pig markets:猪市场
 pig mask and toy:猪面具和玩具
 pig mask:猪面具
+pig meat:猪肉
 pig media partners:猪媒体合作伙伴
 pig media:猪媒体
+pig milk:猪乳
 pig milk:豬奶
 pig model:猪模型
 pig models:猪模型
@@ -2491,6 +2507,7 @@ pilanesberg international airport:蘭斯堡國際機場
 pilanesberg national park:匹兰斯堡狩猎保护区
 pilani vacuum:皮拉尼真空
 pilani:皮拉尼
+pilanpo bodhisattva:毗蓝婆菩萨
 pilanpo:毗蓝婆
 pilar de la horadada:皮拉尔德拉奥拉达达
 pilar do sul:南皮拉尔
@@ -2623,6 +2640,7 @@ pilippinisi:菲律宾
 pilippinisi:菲律賓
 pilippinisi:菲律賓/菲律宾
 pilipy:皮利皮
+pilis mountain:皮利什山
 pilis:皮利什
 pilishan:pīlìshān
 pilishan:ㄆㄧㄌㄧˋㄕㄢ
@@ -2911,6 +2929,7 @@ pimenteiras:皮门泰拉斯
 pimentel district:皮門特爾區
 pimian:陂面镇
 pimisi station:皮米西站
+pimlico road:皮姆利科路
 pimlico station:皮姆利科站
 pimlico tube station:皮姆利科站
 pimlico:皮姆利科
@@ -3262,6 +3281,7 @@ pineapple hill:旺萊山鳳梨文化園區
 pineapple house:菠萝房子
 pineapple house:鳳梨宅
 pineapple island:菠萝岛
+pineapple juice:菠萝汁
 pineapple juice:鳳梨汁
 pineapple leaf fiber:菠萝叶纤维
 pineapple leaf:菠萝叶
@@ -3712,10 +3732,12 @@ pingan:平安村
 pingan:平安街道
 pingasa crenaria:廣州粉尺蛾
 pingasa:粉尺蛾属
+pingba county:平坝县
 pingba river:píngbà hé
 pingba river:坪坝河
 pingba river:坪壩河
 pingba south railway station:平坝南站
+pingba south:平坝南
 pingba:píngbà ōu
 pingba:坪坝
 pingba:坪坝村
@@ -3816,6 +3838,7 @@ pingchu:平处村
 pingchuan district:píngchuān qū
 pingchuan district:平川区
 pingchuan district:平川區
+pingchuan district:平川區域
 pingchuan erdui:平川二队
 pingchuan river:píngchuān hé
 pingchuan river:平川河
@@ -3997,10 +4020,13 @@ pingdingcuo:坪頂厝
 pingdingguchaun hiking trail entrance:平頂古圳步道口
 pingdingmiao:平顶庙
 pingdingshan cemetery:屏鼎山墓园
+pingdingshan massacre:平顶山屠杀
 pingdingshan massacre:平顶山惨案
 pingdingshan no.2 senior high school:平顶山市第二高级中学
+pingdingshan stadium:平顶山体育场
 pingdingshan university:平顶山学院
 pingdingshan west railway station:平顶山西站
+pingdingshan west:平顶山西
 pingdingshan-yichang expressway:平宜高速
 pingdingshan:píngdǐngshān
 pingdingshan:píngdǐngshān shì
@@ -4078,8 +4104,10 @@ pingdongkou:坪洞口
 pingdou:坪斗
 pingdou:平斗村
 pingdoushancun:平斗山村
+pingdu campaign:平度战役
 pingdu city:píngdù shì
 pingdu city:平度市
+pingdu county:平度县
 pingdu:píngdù shì
 pingdu:屏都街道
 pingdu:平度
@@ -4093,6 +4121,7 @@ pingduxi:平度西
 pinge road:屏鵝路
 pingelap:平格拉普環礁
 pingelshagen:平格尔斯哈根
+pingfang area:平房地区
 pingfang barrutia:píngfáng qū
 pingfang barrutia:平房区
 pingfang barrutia:平房區
@@ -4187,10 +4216,12 @@ pinggen:坪根
 pinggou:坪沟乡
 pinggou:平沟
 pinggou:平沟村
+pinggu county:平谷县
 pinggu district:pínggǔ qū
 pinggu district:平谷区
 pinggu district:平谷區
 pinggu line:北京地铁平谷线
+pinggu line:平谷线
 pinggu:pínggǔ qū
 pinggu:平谷
 pinggu:平谷区
@@ -4223,6 +4254,10 @@ pinggui:平桂区
 pinggui:平桂區
 pingguo city:píngguǒ shì
 pingguo city:平果市
+pingguo county:平果县
+pingguo stadium:平果体育场
+pingguo stadium:平果市体育场
+pingguo stadium:平果市體育場
 pingguo:pingguo shi
 pingguo:平果
 pingguo:平果市
@@ -4317,6 +4352,7 @@ pinghou:平候
 pinghoushan:坪后山
 pinghu avenue:平湖大街
 pinghu beacon tower:平胡墩
+pinghu county:平湖县
 pinghu ecological cycling path:平湖生态园休闲骑行道
 pinghu hua‘nancheng terminus:平湖华南城总站
 pinghu park:平湖公园
@@ -4331,8 +4367,10 @@ pinghu shi:pínghú shì
 pinghu shi:平湖
 pinghu shi:平湖市
 pinghu south railway station:平湖南站
+pinghu south:平湖南
 pinghu square west:平湖广场西
 pinghu square:平湖广场
+pinghu station:平湖市站
 pinghu station:平湖站
 pinghu street:平湖大街
 pinghu sub-district:pingwu-gaaidou
@@ -4396,6 +4434,7 @@ pingjiang district:平江区
 pingjiang road:平江路
 pingjiang service area:平江服务区
 pingjiang subdistrict:平江街道
+pingjiang uprising:平江起义
 pingjiang xian:píngjiāng xiàn
 pingjiang xian:平江
 pingjiang xian:平江县
@@ -4487,6 +4526,7 @@ pinglang:平浪镇
 pinglao:平老
 pingle county:pínglè xiàn
 pingle county:平乐县
+pingle county:平樂县
 pingle county:平樂縣
 pingle reservoir:pínglè shuǐkù
 pingle reservoir:平乐水库
@@ -4756,6 +4796,7 @@ pingnan line:平南線
 pingnan line:平南线
 pingnan market:平南市场站
 pingnan railway flyover:平南铁路跨线桥
+pingnan railway:平南铁路
 pingnan road:坪南路
 pingnan road:平南路
 pingnan south:平南南
@@ -4972,6 +5013,7 @@ pingshan square station:坪山广场站
 pingshan square:坪山广场
 pingshan station:坪山站
 pingshan station:屏山站
+pingshan station:平山站
 pingshan street 2# bridge:坪山街中桥2
 pingshan street bridge:坪山街中桥
 pingshan street:甁山街
@@ -5114,6 +5156,7 @@ pingshui street:píngshuǐ lù
 pingshui street:萍水街
 pingshui street:萍水西街
 pingshui temple:平水庙
+pingshui yun:平水韵
 pingshui yun:平水韻
 pingshui:坪水
 pingshui:平水
@@ -5167,6 +5210,7 @@ pingtan county:píngtán xiàn
 pingtan county:平潭
 pingtan county:平潭县
 pingtan county:平潭縣
+pingtan island:平潭岛
 pingtan island:海坛岛
 pingtan museum:評彈博物館
 pingtan museum:评弹博物馆
@@ -5274,6 +5318,7 @@ pingtouzhai:坪头寨
 pingtouzhen:坪头镇
 pingtu yang:平塗洋
 pingtun:平屯
+pingtung airport:屏东机场
 pingtung airport:屏東機場
 pingtung art museum:měishùguǎnzhàn
 pingtung art museum:ㄇㄟˇㄕㄨˋㄍㄨㄢˇㄓㄢˋ
@@ -5314,6 +5359,7 @@ pingtung county neipu township office:屏東縣內埔鄉公所
 pingtung county park:屏東縣民公園
 pingtung county ping rong high school:私立屏榮高中
 pingtung county:屏东县
+pingtung county:屏東县
 pingtung county:屏東縣
 pingtung detention center:屏東看守所
 pingtung girls' senior high school:屏東女中
@@ -5350,6 +5396,7 @@ pingtung station front plaza 1:ㄆㄧㄥˊㄉㄨㄥㄏㄨㄛˇㄔㄜㄓㄢˋ(ㄓ
 pingtung station front plaza 1:屏東火車站(站前廣場1站)
 pingtung station front plaza 2:ㄆㄧㄥˊㄉㄨㄥㄏㄨㄛˇㄔㄜㄓㄢˋ(ㄓㄢˋㄑㄧㄢˊㄍㄨㄤˇㄔㄤˇ2ㄓㄢˋ)
 pingtung station front plaza 2:屏東火車站(站前廣場2站)
+pingtung station:屏東站
 pingtung tourism innovation hub:屏東青年旅創基地
 pingtung tourist center of agricultural products:屏東農業物產館
 pingtung train station:屏東車站
@@ -5476,8 +5523,10 @@ pingxiang city:憑祥市
 pingxiang county government:平乡县政府
 pingxiang county people's hospital:平乡县人民医院
 pingxiang county:píngxiāng xiàn
+pingxiang county:凭祥县
 pingxiang county:平乡县
 pingxiang county:平鄉縣
+pingxiang east:凭祥东
 pingxiang line:平香线
 pingxiang no.1 middle school:平乡县第一中学
 pingxiang no.2 middle school:平乡县第二中学
@@ -5508,6 +5557,7 @@ pingxiangxian square:平乡县广场
 pingxicun:平西村
 pingxie road:平谐路
 pingxifu depot:平西府车辆段
+pingxifu station:平西府站
 pingxifu:平西府
 pingxihecun:坪溪河村
 pingxin street:平新街
@@ -5688,6 +5738,7 @@ pingyuan county:平遠
 pingyuan county:平遠縣
 pingyuan cross street:平远横街
 pingyuan east street:平原东街
+pingyuan east:平原东
 pingyuan economic development zone center primary school:平原经济开发区中心小学
 pingyuan hospital of tcm:平原县中医院
 pingyuan longmen primary school:平原县龙门小学
@@ -5710,6 +5761,8 @@ pingyuan revolution martyr's park:平原县革命烈士陵园
 pingyuan road:平原路
 pingyuan service area:平原服务区
 pingyuan south street:平远南街
+pingyuan state:平原州
+pingyuan state:平遠州
 pingyuan straight street:平远直街
 pingyuan teachers training school:平原县教师进修学校
 pingyuan village:平元里
@@ -5975,6 +6028,7 @@ pink bed:粉红色床
 pink bike:粉红色自行车
 pink billed lark:粉嘴沙百灵
 pink billed parrotfinch:黑脸鹦雀
+pink bomb:粉红色炸弹
 pink boots:粉红色靴子
 pink bottle:粉红色瓶
 pink box:粉红色盒子
@@ -6035,6 +6089,7 @@ pink farm cemetery:粉红农场公墓
 pink feather:粉红色羽毛
 pink film:粉紅色電影
 pink film:粉红色电影
+pink films:粉红色电影
 pink flag:粉红色旗
 pink flamingo:粉红色火烈鸟
 pink flamingos as well as pelican:粉红色火烈鸟以及鹈鹕
@@ -6084,6 +6139,7 @@ pink light:粉红色光
 pink line:粉紅線
 pink line:粉红色线
 pink lipstick:粉紅色口紅
+pink lipstick:粉红色口紅
 pink lipstick:粉红色口红
 pink lipstick:粉红色唇膏
 pink liquid:粉红色液体
@@ -6095,6 +6151,7 @@ pink model:粉红色模型
 pink molecules:粉红色分子
 pink money:彩虹經濟
 pink mosque:粉红色清真寺
+pink movies:粉红色电影
 pink nail polish:粉红色指甲油
 pink necked green pigeon:红颈绿鸠
 pink neoprene:粉红色氯丁橡胶
@@ -6203,6 +6260,7 @@ pink topaz:粉红色黄玉
 pink towel:粉红色毛巾
 pink tree:粉红色树
 pink triangle:粉红三角形
+pink triangle:粉红色三角形
 pink tv:粉红色电视
 pink ukraine:粉烏克蘭
 pink underwear:粉红色内衣
@@ -6272,7 +6330,9 @@ pinnacles national park:尖頂國家公園
 pinnaspis strachani:山欖並盾介殼蟲
 pinnatella:羽枝藓属
 pinneberg:平讷贝格
+pinner reaction:平納反應
 pinner reaction:平纳反应
+pinner station:平納站
 pinner tube station:平納站
 pinner:平納
 pinney farm:pǐn ní nóngchǎng
@@ -6545,6 +6605,7 @@ pioneer companies:先驱企业
 pioneer companies:先驱公司
 pioneer company:先驱公司
 pioneer conrad:先驱康拉德
+pioneer corporation:先驱公司
 pioneer countries:先驱国家
 pioneer country:先驱国家
 pioneer court:栢莉園
@@ -6593,6 +6654,7 @@ pioneer lucas:先驱卢卡斯
 pioneer market:先驱市场
 pioneer member:先驱成员
 pioneer michael:先驱迈克尔
+pioneer mountain:先驱山
 pioneer movement:先鋒運動
 pioneer mrt station:先驱地铁站
 pioneer museum:先驱博物馆
@@ -6629,8 +6691,10 @@ pioneer single member constituency:先驱单选区
 pioneer sister:先驱姐妹
 pioneer smc:先驱单选区
 pioneer species:先锋物种
+pioneer species:先驱种
 pioneer spirit:先驱精神
 pioneer state:先驱状态
+pioneer station:先驱站
 pioneer studies:先驱研究
 pioneer team:先驱团队
 pioneer temple:先鋒廟
@@ -7228,6 +7292,7 @@ pirate party:海盜黨
 pirate pirate:海盗海盗
 pirate play ship:海盗玩船
 pirate play:海盗玩
+pirate politics:海盗政治
 pirate princess:海盗公主
 pirate print:海盗打印
 pirate prison:海盗监狱
@@ -7298,6 +7363,7 @@ piratical life:海盗的生活
 piratical privilege:海盗的特权
 piratical youth:海盗的青年
 piratical:海盗的
+piratini republic:皮拉蒂尼共和国
 piratini:皮拉蒂尼
 piratininga:皮拉蒂宁加
 piratosaurus:海盗龙属
@@ -7330,11 +7396,13 @@ pirelli hot:倍耐力热
 pirelli knows:倍耐力知道
 pirelli now:倍耐力现在
 pirelli protect:倍耐力保护
+pirelli stadium:倍耐力运动场
 pirelli team:倍耐力团队
 pirelli test:倍耐力测试
 pirelli testing:倍耐力测试
 pirelli tire:倍耐力輪胎
 pirelli tire:倍耐力轮胎
+pirelli tower:倍耐力塔
 pirelli will be:倍耐力将成为
 pirelli with princeton university:倍耐力与普林斯顿大学
 pirelli world challenge:倍耐力世界挑战
@@ -7425,6 +7493,8 @@ piripīni:菲律賓
 piripīni:菲律賓/菲律宾
 piriqueta:坡麻花属
 pirita convent:皮里塔修道院
+pirita monastery:皮里塔修道院
+pirita river:皮里塔河
 pirita:皮里塔
 pirithous:皮瑞苏斯
 piritiba:皮里蒂巴
@@ -7470,6 +7540,7 @@ pirqata:佩爾卡塔山
 pirre hummingbird:棕颊蜂鸟
 pirrit hills:皮里特山
 pirtûkxane ya xwendekarên yokoshibahikari:橫芝光町公共圖書館
+piru language:秘鲁语言
 piru:秘魯
 piru:秘鲁
 pirun-dong:弼云洞
@@ -7509,7 +7580,9 @@ piréiní:比利牛斯山
 pirėnai:比利牛斯山
 pirėnų pusiasalis:伊比利亚半岛
 pirėnų pusiasalis:伊比利半島
+pisa airfield:比萨机场
 pisa airport:比萨机场
+pisa airport:比薩機場
 pisa and florence airport:比萨和佛罗伦萨机场
 pisa and florence:比萨和佛罗伦萨
 pisa and genoa:比萨和热那亚
@@ -7520,10 +7593,13 @@ pisa and venice became:比萨和威尼斯成为
 pisa and venice:比萨和威尼斯
 pisa around:比萨大约
 pisa athena:比萨雅典娜
+pisa baptistery:比薩洗禮堂
 pisa became:比萨成为
 pisa book:比萨图书
 pisa cathedral:比萨主教座堂
 pisa cathedral:比萨大教堂
+pisa cathedral:比薩主教座堂
+pisa cathedral:比薩大教堂
 pisa centrale railway station:比薩中央車站
 pisa class cruiser:比萨级装甲巡洋舰
 pisa has three:比萨有三
@@ -7532,14 +7608,19 @@ pisa line:比萨线
 pisa or rome airport:比萨或罗马机场
 pisa points:比萨点
 pisa project:比萨项目
+pisa province:比萨省
+pisa province:比薩省
 pisa report:比萨报告
 pisa reports:比萨报告
+pisa river:比薩河
 pisa test administration:比萨测试管理
 pisa test:比萨测试
 pisa torn:比萨斜塔
 pisa tower:比萨塔
 pisa train station:比萨火车站
 pisa university system:比萨大学系统
+pisa university:比萨大学
+pisa university:比薩大學
 pisa was a republic:比萨是一个共和国
 pisa:比萨
 pisa:比薩
@@ -7736,6 +7817,7 @@ pista de bicicletas "flor de lótus":莲花单车径
 pista de bicicletas "flor de lótus":蓮花單車徑
 pistacchio:綠皮開心果
 pistachio nut:开心果
+pistachio tree:阿月浑子树
 pistachio:阿月浑子
 pistacia atlantica:翅轴黄连木
 pistacia chinensis:黃連木
@@ -7757,6 +7839,8 @@ pistil:雌蕊
 pistius truncatus:直截腹蛛
 pistius:截腹蛛属
 pistoia cathedral:皮斯托亚主教座堂
+pistoia cathedral:皮斯托亞主教座堂
+pistoia province:皮斯托亞省
 pistoia:皮斯托亞
 pistol and five:手枪和五
 pistol and rifle:手枪和步枪
@@ -7850,6 +7934,7 @@ piston reach:活塞达到
 piston ring:活塞环
 piston solutions:活塞解决方案
 piston speed:活塞速度
+piston speed:活塞速率
 piston system:活塞系统
 piston systems:活塞系统
 piston top:活塞顶部
@@ -8115,6 +8200,7 @@ pitkern adaları:皮特肯群島
 pitkern ailen:皮特凯恩群岛
 pitkern ailen:皮特凯恩群岛 / 皮特肯群島
 pitkern ailen:皮特肯群島
+pitkern language:皮特凯恩群岛語言
 pitkern:皮特凯恩群岛
 pitkern:皮特凯恩群岛 / 皮特肯群島
 pitkern:皮特肯群島
@@ -8220,6 +8306,7 @@ pittsburg state university:匹茲堡州立大學
 pittsburg township:匹兹堡镇区
 pittsburgh academy:匹兹堡学院
 pittsburgh accent:匹兹堡口音
+pittsburgh agreement:匹兹堡协议
 pittsburgh agreement:匹茲堡協議
 pittsburgh airport:匹兹堡机场
 pittsburgh analytical chemistry:匹兹堡分析化学
@@ -8261,6 +8348,7 @@ pittsburgh city council:匹兹堡市议会
 pittsburgh city:匹兹堡城市
 pittsburgh coach:匹兹堡教练
 pittsburgh coal:匹兹堡煤
+pittsburgh college:匹兹堡学院
 pittsburgh commitment:匹兹堡承诺
 pittsburgh community food bank:匹兹堡社区食物银行
 pittsburgh community:匹兹堡社区
@@ -8294,11 +8382,13 @@ pittsburgh international:匹兹堡国际
 pittsburgh ironmen:匹兹堡铁人
 pittsburgh is famous:匹兹堡是著名的
 pittsburgh journal of environmental and public health law:匹茲堡環境及公共衛生法期刊
+pittsburgh landmark:匹兹堡地标
 pittsburgh landscape:匹兹堡景观
 pittsburgh left:匹兹堡左
 pittsburgh light rail:匹兹堡轻轨
 pittsburgh mafia:匹兹堡黑手党
 pittsburgh magazine:匹兹堡杂志
+pittsburgh marathon:匹兹堡马拉松
 pittsburgh mayor bill:匹兹堡市长比尔
 pittsburgh mayor william:匹兹堡市长威廉
 pittsburgh mayor:匹兹堡市长
@@ -8310,6 +8400,7 @@ pittsburgh or washington:匹兹堡或华盛顿
 pittsburgh pattern recognition:匹兹堡模式识别
 pittsburgh penguin:匹兹堡企鹅
 pittsburgh penguins:匹茲堡企鵝
+pittsburgh pirate:匹兹堡海盗
 pittsburgh pirates:匹茲堡海盜
 pittsburgh poison:匹兹堡毒物
 pittsburgh police officer:匹兹堡警察
@@ -8352,7 +8443,10 @@ pittsburgh temple:匹兹堡神庙
 pittsburgh they need:匹兹堡他们需要
 pittsburgh they:匹兹堡他们
 pittsburgh time:匹兹堡时间
+pittsburgh township:匹兹堡镇区
 pittsburgh uniform:匹兹堡制服
+pittsburgh university:匹兹堡大学
+pittsburgh university:匹兹堡大學
 pittsburgh was safe:匹兹堡是安全的
 pittsburgh web design:匹兹堡网页设计
 pittsburgh wednesday:匹兹堡星期三
@@ -8405,10 +8499,12 @@ piura declaration:皮乌拉声明
 piura district:皮乌拉区
 piura province:皮乌拉省
 piura region:皮乌拉地区
+piura river:皮乌拉河
 piura river:皮烏拉河
 piura:皮乌拉
 piuro:皮乌罗
 pius:庇護
+piusa river:皮乌察河
 piusa:皮乌察
 piusis:皮西
 pivagabine:匹伐加宾
@@ -8649,6 +8745,7 @@ pixel selfie:像素自拍
 pixel sensor technology:像素传感器技术
 pixel sensor:像素传感器
 pixel shader:像素着色器
+pixel shading:像素着色
 pixel shift resolution:像素偏移分辨率
 pixel shift:像素偏移
 pixel should be:像素应该是
@@ -8685,6 +8782,7 @@ pixel value:像素值
 pixel variables:像素变量
 pixel version:像素版本
 pixel video:像素视频
+pixel vignetting:像素暈影
 pixel wide:像素宽
 pixel width:像素宽度
 pixel world:像素世界
@@ -8702,12 +8800,14 @@ pixia:埤霞
 pixian east railway station:郫县东站
 pixian railway station:郫县站
 pixian west railway station:郫县西站
+pixian west:郫县西
 pixian:郫县
 pixiandong railway station:郫县东站
 pixiang village:埤鄉里
 pixiangyang:皮箱杨
 pixianxi railway station:郫县西站
 pixianxi:郫县西
+pixie chasma:皮克西深谷
 pixie knight:妙發靈機
 pixie street 1st alley:皮鞋街一巷
 pixie street 2nd alley:皮鞋街二巷
@@ -8929,6 +9029,8 @@ pizhanka:皮然卡
 pizhansky district:皮然卡區
 pizhi pagoda:辟支塔
 pizhi-pagode:辟支塔
+pizhou east:邳州东
+pizhou east:邳州東
 pizhou railway station:邳州站
 pizhou:pīzhōu shì
 pizhou:邳州

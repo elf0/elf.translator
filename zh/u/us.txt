@@ -212,6 +212,7 @@ us addiction:美国成瘾
 us address:美国地址
 us addresses:美国地址
 us adequate:我们足够的
+us administration:美国管理
 us admiral:美国海军上将
 us admit:美国承认
 us admitted:我们承认
@@ -1454,6 +1455,7 @@ us cell biologist:美国细胞生物学家
 us cell:美国细胞
 us cellular network:美国蜂窝网络
 us cement:美国水泥
+us census:美国人口普查
 us center:我们中心
 us center:美国中心
 us central bank:美国中央银行
@@ -1475,6 +1477,7 @@ us champion:我们冠军
 us champion:美国冠军
 us championship:美国冠军
 us championship:美国锦标赛
+us championships:美国冠军
 us chance:我们机会
 us change and improve:我们改变和改进
 us change society:我们改变社会
@@ -1659,6 +1662,7 @@ us committee:美国委员会
 us common hope:我们共同的希望
 us common:我们共同的
 us commoner:我们平民
+us commonwealth:美国联邦
 us communist party:我们共产党
 us communist party:美国共产党
 us communities:美国社区
@@ -2278,6 +2282,7 @@ us engineers:我们工程师
 us engineers:美国工程师
 us engineers:美国工程师们
 us english:我们英语
+us english:美国英语
 us enjoy life:我们享受生活
 us enlarge:美国扩大
 us enormous:我们巨大的
@@ -3540,6 +3545,7 @@ us kids:我们孩子们
 us kids:我们小孩
 us kids:美国儿童
 us kids:美国孩子
+us kids:美国小孩
 us kill:我们杀
 us kill:美国杀
 us kingdom:我们王国
@@ -3768,6 +3774,7 @@ us mariana islands:美国马里亚纳群岛
 us marines publication:美国海军陆战队出版
 us marines receive:美国海军陆战队收到
 us marines:美国海军陆战队
+us marines:美国海軍陸戰隊
 us market activity:美国市场活动
 us market and us:美国市场与美国
 us market car:美国市场车
@@ -4200,6 +4207,7 @@ us north korea:美国朝鲜
 us north:我们北
 us north:美国北
 us northeast:美国东北
+us northeast:美国东北部
 us northwest:美国西北
 us not a reliable:美国不是一个可靠的
 us not:我们不是
@@ -4567,6 +4575,7 @@ us polo:美国马球
 us poor:我们贫穷的
 us pop singer:美国流行歌手
 us popular culture:美国流行文化
+us population:美国人口
 us pork and soybean:美国猪肉和大豆
 us pork export:美国猪肉出口
 us pork exports:美国猪肉出口
@@ -5338,6 +5347,7 @@ us south room:我们南房间
 us south:我们南
 us south:美国南
 us southeast:美国东南
+us southeast:美国东南部
 us southwest airlines:美国西南航空
 us southwest:美国西南
 us sovereign wealth fund:美国主权财富基金
@@ -6231,6 +6241,7 @@ usa aircraft:美国飞机
 usa airline:美国航空公司
 usa airport:美国机场
 usa airstrike:美国空袭
+usa alaska:美國阿拉斯加州
 usa all:美国所有
 usa all:美国所有的
 usa alliance:美国联盟
@@ -6345,6 +6356,7 @@ usa assistant:美国助理
 usa astronaut hall of fame:美国宇航员名人堂
 usa astronaut:美国宇航员
 usa at aviano:美国在阿维亚诺
+usa atlanta:美国亚特兰大
 usa audience:美国观众
 usa auto:美国汽车
 usa awards:美国奖
@@ -6356,6 +6368,7 @@ usa bank:美国银行
 usa banks:美国银行
 usa base:美国基地
 usa baseball:美国棒球
+usa baseball:美國棒球
 usa basketball coach:美国篮球教练
 usa basketball experience:美国篮球体验
 usa basketball history:美国篮球历史
@@ -6388,17 +6401,26 @@ usa buildings:美国建筑
 usa business leaders:美国商界领袖
 usa business:美国商业
 usa buy:美国买
+usa california:美国加利福尼亚
+usa california:美國加利福尼亞州
 usa canada:美国加拿大
 usa cancer:美国癌症
 usa candidate:美国候选人
 usa cannot:美国不能
 usa capital:美国首都
+usa capitol:美国国会大厦
+usa capitol:美國国会大厦
 usa car:美国汽车
 usa car:美国车
 usa census:美国普查
 usa center:美国中心
 usa central bank:美国中央银行
 usa certification:美国认证
+usa champion:美国冠军
+usa champion:美國冠軍
+usa championship:美国冠军
+usa championship:美国锦标赛
+usa championships:美国冠军
 usa chat:美国聊天
 usa chicago:美国芝加哥
 usa chief operating officer jim:美国首席运营官吉姆
@@ -6410,12 +6432,14 @@ usa citizen children:美国公民儿童
 usa citizen:美国公民
 usa citizens:美国公民
 usa citizenship:美国公民
+usa city:美國城市
 usa clients:美国客户
 usa climbing:美国攀登
 usa coach:美国教练
 usa coal:美国煤
 usa colonialism:美国殖民主义
 usa come:美国来
+usa comics:美国漫画
 usa comment:美国评论
 usa communities:美国社区
 usa community:美国社区
@@ -6445,6 +6469,8 @@ usa credit rating:美国信用评级
 usa crops:美国农作物
 usa culture and christianity:美国文化与基督教
 usa culture:美国文化
+usa cup:美国杯
+usa cup:美國杯
 usa currently:美国目前
 usa customers:美国客户
 usa customs:美国海关
@@ -6470,12 +6496,14 @@ usa draft:美国草案
 usa drugs:美国毒品
 usa dupont:美国杜邦
 usa each year:美国每年
+usa eagle:美国鹰
 usa east coast:美国东海岸
 usa east:美国东
 usa economic growth:美国经济增长
 usa economy also encourage:美国经济也鼓励
 usa economy:美国经济
 usa education:美国教育
+usa education:美國教育
 usa efforts:美国努力
 usa election:美国选举
 usa elections:美国选举
@@ -6508,6 +6536,8 @@ usa famous:美国著名的
 usa farmer:美国农民
 usa federal government:美国联邦政府
 usa fencing:美国击剑
+usa films:美国电影
+usa films:美國电影
 usa finally:美国最终
 usa financial analyst:美国金融分析师
 usa financial institutions:美国金融机构
@@ -6518,11 +6548,13 @@ usa fiscal year:美国财政年度
 usa flag:美国旗
 usa florida and california:美国佛罗里达州和加利福尼亚州
 usa florida:美国佛罗里达州
+usa florida:美國佛羅里達州
 usa food and drink:美国食品和饮料
 usa food export:美国食品出口
 usa food:美国食品
 usa football coach:美国足球教练
 usa football:美国足球
+usa football:美國足球
 usa foreign policy:美国外交政策
 usa foundation:美国基金
 usa freedom:美国自由
@@ -6550,12 +6582,14 @@ usa great:美国伟大的
 usa green card and citizenship:美国绿卡和公民
 usa green card:美国绿卡
 usa greenhouse gas:美国温室气体
+usa guam:美國關島
 usa gymnastics do:美国体操做
 usa gymnastics needs:美国体操需要
 usa gymnastics physician:美国体操医生
 usa gymnastics sex abuse scandal:美国体操队性侵丑闻
 usa gymnastics:美国体操
 usa gymnastics:美國體操協會
+usa hachiman:宇佐八幡神
 usa hacker:美国黑客
 usa has been:美国已经
 usa has many companies:美国有许多公司
@@ -6564,12 +6598,15 @@ usa has medieval:美国有中世纪的
 usa has superman:美国有超人
 usa has:美国有
 usa have been:美国已经
+usa hawaii:美国夏威夷
+usa hawaii:美國夏威夷
 usa health physician:美国健康医生
 usa health:美国健康
 usa heart:美国心脏
 usa help:美国帮助
 usa high school:美国高中
 usa history:美国历史
+usa history:美國历史
 usa hockey:美国曲棍球
 usa hockey:美國冰球協會
 usa holiday:美国假日
@@ -6582,6 +6619,8 @@ usa how to participate:美国如何参与
 usa how to:美国如何
 usa hurricane:美国飓风
 usa illegal:美国非法
+usa illinois:美国伊利诺伊州
+usa illinois:美國伊利諾伊州
 usa immigration assistance:美国移民援助
 usa immigration law:美国移民法
 usa immigration:美国移民
@@ -6589,6 +6628,7 @@ usa important:美国重要
 usa in this region:美国在这个地区
 usa income:美国收入
 usa independence day:美国独立日
+usa indianapolis:美國印第安納波利斯
 usa industry and workers:美国工业和工人
 usa industry:美国工业
 usa infrastructure:美国基础设施
@@ -6605,6 +6645,7 @@ usa invasion:美国入侵
 usa investigation:美国调查
 usa investment:美国投资
 usa investors:美国投资者
+usa iowa:美国艾奥瓦州
 usa is a developed country:美国是一个发达国家
 usa is a federal state:美国是一个联邦制国家
 usa is a republic:美国是一个共和国
@@ -6620,6 +6661,9 @@ usa jet airlines:美国捷特航空
 usa judge:美国法官
 usa judo:美国柔道
 usa jury:美国陪审团
+usa kansas:美国堪萨斯州
+usa kansas:美國堪薩斯州
+usa karate:美国空手道
 usa kentucky:美国肯塔基州
 usa land and sea:美国陆地和海
 usa land:美国陆地
@@ -6655,6 +6699,8 @@ usa market car:美国市场车
 usa market version:美国市场版本
 usa market:美国市场
 usa markets:美国市场
+usa maryland:美国马里兰州
+usa massachusetts:美国马萨诸塞州
 usa master:美国大师
 usa math:美国数学
 usa media:美国媒体
@@ -6668,11 +6714,13 @@ usa military base:美国军事基地
 usa military parade:美国阅兵
 usa military:美国军事
 usa military:美国军队
+usa minnesota:美国明尼蘇達州
 usa missile defense:美国导弹防御
 usa missile:美国导弹
 usa mississippi:美国密西西比州
 usa mix:美国混合
 usa modern:美国现代
+usa montana:美國蒙大拿州
 usa mother:美国母亲
 usa mountain:美国山
 usa music:美国音乐
@@ -6682,6 +6730,7 @@ usa national security:美国国家安全
 usa national team:美国国家队
 usa natural products:美国天然产品
 usa navy:美国海军
+usa navy:美國海军
 usa need:美国需要
 usa needs israel:美国需要以色列
 usa needs pakistan:美国需要巴基斯坦
@@ -6699,6 +6748,9 @@ usa news:美国新闻
 usa newspaper:美国报纸
 usa no longer:美国不再
 usa northeast:美国东北
+usa northeast:美国东北部
+usa northeast:美國东北部
+usa northeast:美國東北部
 usa now:美国现在
 usa nutome:měiguó
 usa nutome:美国
@@ -6708,6 +6760,8 @@ usa officials and experts:美国官员和专家
 usa officials said:美国官员说
 usa officials suspect:美国官员怀疑
 usa officials:美国官员
+usa ohio:美国俄亥俄州
+usa ohio:美國俄亥俄州
 usa oil:美国油
 usa once again:美国再次
 usa once:美国曾经
@@ -6755,6 +6809,7 @@ usa preserve:美国保持
 usa president bruce johnson:美国总统布鲁斯约翰逊
 usa president tom:美国总统汤姆
 usa president:美国总统
+usa president:美國总统
 usa presidential:美国总统的
 usa pressure:美国压力
 usa problems:美国问题
@@ -6789,6 +6844,8 @@ usa release:美国释放
 usa replace:美国替代
 usa report:美国报告
 usa reports:美国报告
+usa representative:美国代表
+usa representative:美國代表
 usa researchers investigate:美国研究人员调查
 usa researchers:美国研究人员
 usa resident:美国居民
@@ -6798,8 +6855,12 @@ usa restaurant:美国餐馆
 usa restrict:美国限制
 usa retail:美国零售
 usa retain:美国保持
+usa revolution:美国革命
+usa revolution:美國革命
 usa rice:美国稻
 usa rights:美国权利
+usa river:美國河
+usa river:美國河流
 usa road trip:美国公路旅行
 usa rugby coach:美国橄榄球教练
 usa rugby:美国橄榄球
@@ -6815,6 +6876,7 @@ usa science:美国科学
 usa secretary of state mike:美国国务卿迈克
 usa secretary of state:美国国务卿
 usa security:美国安全
+usa series:美国系列
 usa server:美国服务器
 usa sevens:美國國際七人欖球賽
 usa shale oil:美国页岩油
@@ -6842,6 +6904,9 @@ usa somewhere:美国某处
 usa song:美国歌曲
 usa south:美国南
 usa southeast:美国东南
+usa southeast:美国东南部
+usa southeast:美國东南部
+usa southeast:美國東南部
 usa sovereignty:美国主权
 usa soybean exports:美国大豆出口
 usa soybean farmer:美国大豆农民
@@ -6853,7 +6918,10 @@ usa stanford university:美国斯坦福大学
 usa start:美国开始
 usa state:美国州
 usa statement:美国声明
+usa station:宇佐站
 usa station:宇佐車站
+usa station:美国站
+usa station:美國站
 usa steel:美国钢
 usa still:美国仍然
 usa stock:美国股票
@@ -6885,8 +6953,10 @@ usa telecommunications networks:美国电信网络
 usa telecommunications:美国电信
 usa television:美国电视
 usa tell:美国告诉
+usa tennessee:美国田纳西州
 usa territory:美国领土
 usa test:美国测试
+usa texas:美国德克萨斯州
 usa then:美国然后
 usa think:美国认为
 usa this year:美国今年
@@ -6905,23 +6975,35 @@ usa tradition:美国传统
 usa train:美国训练
 usa travel visa:美国签证
 usa travel:美国旅行
+usa trilogy:美国三部曲
+usa trilogy:美國三部曲
 usa troops:美国军队
 usa truck:美国卡车
 usa under:美国下
+usa union:美国联盟
+usa union:美國联盟
 usa university:美国大学
 usa uranium:美国铀
 usa user:美国用户
 usa users:美国用户
 usa uses:美国使用
 usa usually:美国通常
+usa utah:美国犹他州
+usa vermont:美国佛蒙特州
 usa version:美国版本
 usa vessel:美国船
 usa vice president mike:美国副总统迈克
 usa vice president:美国副总统
+usa virginia:美国弗吉尼亚
 usa volleyball:美国排球
+usa volleyball:美國排球
 usa warship:美国军舰
 usa washing machine:美国洗衣机
 usa washington:美国华盛顿
+usa washington:美国华盛顿州
+usa washington:美國华盛顿
+usa washington:美國華盛頓
+usa washington:美國華盛頓州
 usa water polo:美国水球
 usa web:美国网
 usa website:美国网站
@@ -8423,6 +8505,7 @@ use case testing:用例测试
 use case was currency:用例是货币
 use case would:用例将
 use case yet:用例还
+use case:使用案例
 use case:用例
 use cash and credit card:使用现金和信用卡
 use cash or bank card:使用现金或银行卡
@@ -9435,6 +9518,7 @@ use ethical:使用伦理的
 use ethnic-minority:使用少数民族
 use ethylene glycol:使用乙二醇
 use ethylene:使用乙烯
+use etiquette:使用禮儀
 use eu:使用欧盟
 use euphemism:使用委婉
 use euro:使用欧元
@@ -13176,6 +13260,7 @@ use theme:使用主題
 use theme:使用主题
 use theorem:使用定理
 use theory and research:使用理论和研究
+use theory:使用理論
 use theory:使用理论
 use thermistor:使用热敏电阻
 use thermocouple:使用热电偶
@@ -14635,6 +14720,8 @@ useful island:尤斯弗爾島
 useful issue:有用的问题
 useful italian:有用的意大利语
 useful iterator:有用的迭代器
+useful jew:有用的犹太人
+useful jews:有用的犹太人
 useful journey:有用的旅行
 useful key:有用的关键
 useful keyboard:有用的键盘
@@ -16192,6 +16279,7 @@ user experience design with machine learning:用户体验设计与机器学习
 user experience design:使用者經驗設計
 user experience design:用户体验设计
 user experience:使用者經驗
+user experience:用户体验
 user experiment:用户实验
 user expert:用户专家
 user experts:用户专家
@@ -16788,6 +16876,7 @@ user name or language set:用户名或语言设置
 user name or password:用户名或密码
 user name password:用户名密码
 user name:用户名
+user namespace:用户命名空间
 user navigate:用户导航
 user navigation pattern:用户导航模式
 user navigation system:用户导航系统
@@ -17208,6 +17297,7 @@ user space program:用户空间程序
 user space programs:用户空间程序
 user space set:用户空间设置
 user space tools:用户空间工具
+user space:用户空間
 user space:用户空间
 user speak:用户说话
 user specific:用户特定的
@@ -17389,6 +17479,7 @@ user wake:用户醒
 user wallet:用户钱包
 user want to know:用户想知道
 user want:用户想要
+user warning:用户警告
 user was not enough:用户是不够的
 user watch:用户观看
 user wear:用户穿戴
@@ -17552,6 +17643,8 @@ username or password:用户名或密码
 username ownership:用户名所有权
 username part:用户名部分
 username password:用户名密码
+username policies:用户名政策
+username policy:用户名政策
 username services:用户名服务
 username username:用户名用户名
 username will:用户名会
@@ -20894,6 +20987,7 @@ ushuaïa:乌斯怀亚 / 烏蘇懷亞
 ushuaïa:烏蘇懷亞
 ushumun:乌舒蒙
 ushytsia:烏什齊亞
+usi county:無錫县
 usi county:雩时郡
 usi county:雩時郡
 usi-eup:雩时邑
@@ -21786,6 +21880,7 @@ using castrol:使用嘉实多
 using cat:使用猫
 using catalonia:使用加泰罗尼亚
 using catalyst:使用催化剂
+using categories:使用分类
 using cathode ray tube:使用阴极射线管
 using causality:使用因果关系
 using cave:使用洞穴
@@ -26756,6 +26851,7 @@ using:使用
 usingen:乌辛根
 usini:乌西尼
 usino bundi district:烏西諾本迪縣
+usinsk airport:烏辛斯克機場
 usinsk:烏辛斯克
 usinska:烏辛斯克
 usis:wúxī shì
@@ -26790,6 +26886,7 @@ usm footbal stadium:马来西亚理科大学足球体育馆
 usm:馬來西亞理科大學
 usm:马来西亚理科大学
 usma station:乌斯马站
+usman river:烏斯曼河
 usman':烏斯曼
 usman:烏斯曼
 usmaniya:奧斯曼尼耶
@@ -27138,6 +27235,7 @@ ust-zilma:乌斯季齐利马
 ust-İlimsk:乌斯特伊利姆斯克
 usta prawdy:真理之口
 ustad:烏斯塔德
+ustaritz station:于斯塔里茨站
 ustaritz:于斯塔里茨
 ustc linux user group:中科大linux用戶協會
 ustc linux user group:中科大linux用户协会
@@ -27156,6 +27254,7 @@ uster offer:乌斯特提供
 uster product development:乌斯特产品开发
 uster product:乌斯特产品
 uster quality:乌斯特质量
+uster station:乌斯特站
 uster technologies:乌斯特技术
 uster:乌斯特
 ustersbach:乌斯特斯巴赫
@@ -28353,6 +28452,7 @@ usurper:篡位
 usury:高利貸
 usuzan ropeway:有珠山缆车
 usuzan rōpuwei:有珠山缆车
+usva river:乌西瓦河
 usva:乌西瓦
 usvyacha:烏斯維亞恰河
 usvyatsky district:烏斯維亞特區

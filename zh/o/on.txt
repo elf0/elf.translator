@@ -2363,6 +2363,8 @@ onda court:海涛阁
 onda court:海濤閣
 onda station:恩田站
 onda verde:翁达韦尔迪
+ondangwa airport:翁丹瓜机场
+ondangwa airport:翁丹瓜機場
 ondangwa:翁丹瓜
 ondansetron:昂丹司琼
 ondara:翁达拉
@@ -2627,8 +2629,10 @@ one avenue west:卓悦中心西区
 one avenue:zhuōyuè zhōngxīn
 one avenue:卓悅中心
 one avenue:卓悦中心
+one aviation:一航空
 one axis:一轴
 one baby:一婴儿
+one back:一回
 one bad:一坏的
 one bag:一袋
 one ball:一球
@@ -2645,6 +2649,7 @@ one bathroom apartment:一浴室公寓
 one battalion:一营
 one battery:一电池
 one beacon hill:畢架山一號
+one beat:一打
 one beauty:一美人
 one bed:一床
 one begin:一开始
@@ -2751,6 +2756,7 @@ one career:一职业生涯
 one case:一案件
 one case:一案例
 one catalyst:一催化剂
+one category:一分类
 one catholic:一天主教
 one causeway bay:港島壹號中心
 one cavity:一腔
@@ -2974,6 +2980,7 @@ one disk:一磁盘
 one district:一區域
 one divide:一除
 one divides into two:一分为二
+one division:一师
 one does:一做
 one dog policy:一犬一户
 one dog:一犬
@@ -3015,6 +3022,7 @@ one electric vehicle:一电动车
 one electron universe:单电子宇宙
 one elegance:駿豪居
 one element:一元素
+one eleven:一十一
 one embryo:一胚胎
 one enemy:一敌人
 one energy:一能量
@@ -3131,6 +3139,7 @@ one gender:一性
 one gene:一基因
 one general:一将军
 one generation of technology:一代的技术
+one generation:一世代
 one generation:一代
 one genius:一天才
 one genus:一属
@@ -3186,6 +3195,7 @@ one guarantee:一担保
 one gun:一枪
 one habit:一习惯
 one half year:二分之一年
+one half:一半
 one half:二分之一
 one hammer:一锤子
 one hand housing:一手住宅
@@ -3666,6 +3676,7 @@ one millimetre of soil:一毫米的土壤
 one millimetre:一毫米
 one million plan:一百万计划
 one million star:超級星光大道
+one million:一百万
 one millisecond:一毫秒
 one mind:一头脑
 one mineral:一矿物
@@ -3877,6 +3888,7 @@ one of them:他们中的一个
 one of three:三一
 one of us:一的我们
 one of wilson:一的威爾遜
+one of:一的
 one office:一办公室
 one official language:一官方语言
 one oil:一油
@@ -4814,6 +4826,7 @@ one person or company:一個人或公司
 one person or one:一個人或一
 one person playing two roles:一人分飾兩角
 one person sleep:一個人睡
+one person:一个人
 one person:一個人
 one phase:一阶段
 one phenomenon:一现象
@@ -5079,6 +5092,7 @@ one solution:一解决方案
 one solutions:一解决方案
 one sometimes:一有时
 one son:一儿子
+one song:一松村
 one song:一歌
 one sophia:萬盛
 one sort:一种类
@@ -5767,6 +5781,7 @@ oneplus concept:一加概念
 oneplus forums:一加论坛
 oneplus founder:一加创始人
 oneplus india:一加印度
+oneplus one:一加一
 oneplus one:一加手機
 oneplus or huawei:一加或华为
 oneplus phone:一加手机
@@ -5886,9 +5901,13 @@ ongjin county:瓮津郡
 ongjin county:甕津郡
 ongjin labor district:瓮津劳动者区
 ongjin labor district:甕津勞動者區
+ongjin line:瓮津线
 ongjin line:甕津線
 ongjin line:甕津线
+ongjin peninsula:瓮津半岛
+ongjin peninsula:甕津半岛
 ongjin station:瓮津站
+ongjin station:甕津站
 ongjin-eup:瓮津邑
 ongjin-eup:甕津邑
 ongjin-gun:瓮津郡
@@ -6027,9 +6046,11 @@ onion prices:洋葱价格
 onion retail:洋葱零售
 onion ring:洋蔥圈
 onion root:洋葱根
+onion router:洋葱路由器
 onion router:洋蔥路由器
 onion routing project:洋葱路由项目
 onion routing:洋葱路由
+onion routing:洋蔥路由
 onion salt:洋葱盐
 onion sandwich:洋葱三明治
 onion seed:洋葱种子
@@ -8357,6 +8378,7 @@ online procedure:在线程序
 online process control:在线过程控制
 online process:在线处理
 online process:在线过程
+online producer:在线生产者
 online product activation:在线产品激活
 online product design:在线产品设计
 online product page:在线产品页
@@ -8756,6 +8778,7 @@ online shooter game:在线射击游戏
 online shooter return:在线射手返回
 online shooter:在线射手
 online shooting:在线射击
+online shop:在线商店
 online shop:在线购物
 online shopping addiction:网络购物成瘾
 online shopping areas:网络购物领域
@@ -13935,6 +13958,7 @@ onnum ridge:安納姆嶺
 onnuri community church:大地教会
 ono chugakko (ono junior high school):大野中学
 ono chugakko (ono junior high school):大野中學
+ono city:大野城市
 ono county:大野郡
 ono domain:小野藩
 ono genmyo:小野玄妙
@@ -13945,6 +13969,9 @@ ono no michikaze:小野道風
 ono no takamura:小野篁
 ono ranzan:小野兰山
 ono san pietro:奥诺圣彼得罗
+ono station:大野町站
+ono station:大野站
+ono station:小野町站
 ono station:小野站
 ono village:大野村
 ono-chuo:大野中央
@@ -14104,6 +14131,7 @@ ontario community:安大略省社区
 ontario complete:安大略省完成
 ontario consider:安大略省考虑
 ontario council:安大略省议会
+ontario county:安大略县
 ontario court:安大略省法院
 ontario courts:安大略省法院
 ontario curriculum:安大略省课程
@@ -14123,12 +14151,14 @@ ontario families:安大略省家庭
 ontario farm:安大略省农场
 ontario finance minister charles:安大略省财政部长查尔斯
 ontario finance minister:安大略省财政部长
+ontario french:安大略法语
 ontario fruit:安大略省水果
 ontario government decided:安大略省政府决定
 ontario government estimate:安大略省政府估计
 ontario government plans:安大略省政府计划
 ontario government said:安大略省政府说
 ontario government will let:安大略省政府将让
+ontario government:安大略政府
 ontario government:安大略省政府
 ontario grape:安大略省葡萄
 ontario greenhouse vegetable:安大略省温室蔬菜
@@ -14162,6 +14192,7 @@ ontario legislature:安大略省立法机关
 ontario liberal party:安大略自由黨
 ontario library association:安大略省图书馆协会
 ontario library:安大略省图书馆
+ontario line:安大略线
 ontario lottery:安大略省彩票
 ontario media development corporation:安大略省媒体发展公司
 ontario media:安大略省媒体
@@ -14179,12 +14210,14 @@ ontario opera:安大略省歌剧
 ontario or quebec:安大略省或魁北克省
 ontario organization:安大略省组织
 ontario parliament:安大略省议会
+ontario peninsula:安大略半岛
 ontario peninsula:安大略半島
 ontario place:安省遊樂宮
 ontario plans:安大略省计划
 ontario players:安大略省玩家
 ontario population:安大略省人口
 ontario power:安大略省电力
+ontario province:安大略省
 ontario provincial police:安大略省省警
 ontario pruwinsya:安大略
 ontario public service:安大略省公共服务
@@ -14218,6 +14251,7 @@ ontario taxpayer:安大略省纳税人
 ontario teacher:安大略省教师
 ontario tech university:安大略理工大学
 ontario tobacco:安大略省烟草
+ontario township:安大略鎮區
 ontario truck:安大略省卡车
 ontario understand:安大略省理解
 ontario university:安大略省大学
@@ -14282,6 +14316,7 @@ onustus indicus:印度缀壳螺
 onustus:阳伞螺属
 onuxodon fowleri:福氏鉤潛魚
 onvif:开放网络视频接口论坛
+onville station:翁维尔站
 onville:翁维尔
 onvo:乐道汽车
 onward building:康祐大廈

@@ -139,6 +139,7 @@ quadric surface:二次曲面
 quadric surfaces:二次曲面
 quadric:二次曲面
 quadric:二次的
+quadriceps tendon:股四頭肌腱
 quadriceps:股四頭肌
 quadricyclane:四环庚烷
 quadriga:四馬戰車
@@ -326,6 +327,8 @@ qualcomm software:高通软件
 qualcomm solution:高通解决方案
 qualcomm spokesman:高通发言人
 qualcomm spokesperson:高通发言人
+qualcomm stadium:高通体育场
+qualcomm stadium:高通體育場
 qualcomm start:高通开始
 qualcomm still:高通仍然
 qualcomm subsidiary:高通子公司
@@ -968,6 +971,7 @@ quality assurance include:品質保證包括
 quality assurance methods:品質保證方法
 quality assurance system:品質保證系統
 quality assurance:品質保證
+quality assurance:质量保证
 quality at each location:质量在每个位置
 quality at home:质量在家里
 quality at least:质量至少
@@ -1901,6 +1905,7 @@ quality limit:质量限制
 quality line:质量线
 quality link:质量链接
 quality links:质量链接
+quality list:质量列表
 quality lithium niobate:质量铌酸锂
 quality lithium:质量锂
 quality location:质量位置
@@ -3347,6 +3352,7 @@ quanming:全茗镇
 quannan county:quánnán xiàn
 quannan county:全南县
 quannan county:虔南
+quannan county:虔南县
 quannan county:虔南縣
 quannan east street:泉南东大街
 quannan expressway:泉南高速
@@ -3437,6 +3443,7 @@ quanshui reservoir:quánshuǐ shuǐkù
 quanshui reservoir:泉水水库
 quanshui road station:泉水路站
 quanshui road:泉水路
+quanshui station:泉水站
 quanshui street:泉水街
 quanshui subdistrict:泉水街道
 quanshui:泉水
@@ -3756,6 +3763,7 @@ quantization methods:量化方法
 quantization noise:量化噪音
 quantization parameter:量化参数
 quantization process:量化过程
+quantization rules:量化规则
 quantization stage:量化阶段
 quantization techniques:量化技术
 quantization technology:量化技术
@@ -3839,6 +3847,7 @@ quantum behavior:量子行为
 quantum behavior:量子行為
 quantum behaviour:量子行为
 quantum biology:量子生物学
+quantum bit:量子位元
 quantum bit:量子比特
 quantum black holes:量子黑洞
 quantum blockchain:量子区块链
@@ -3857,6 +3866,7 @@ quantum breathing:量子呼吸
 quantum bridge:量子桥
 quantum butterfly effect:量子蝴蝶效应
 quantum buy:量子買
+quantum calculus:量子微积分
 quantum canvas:量子画布
 quantum capability:量子能力
 quantum carrier:量子载体
@@ -3872,6 +3882,7 @@ quantum channel:量子通道
 quantum chaos:量子混沌
 quantum characteristics and behavior:量子特性和行为
 quantum characteristics:量子特性
+quantum chemist:量子化学家
 quantum chemistry algorithms:量子化学算法
 quantum chemistry and molecular dynamics:量子化学和分子动力学
 quantum chemistry application:量子化学应用
@@ -3891,6 +3902,7 @@ quantum chemistry sample:量子化学样本
 quantum chemistry software:量子化学软件
 quantum chemistry to global earth:量子化学到全球地球
 quantum chemistry:量子化学
+quantum chemistry:量子化學
 quantum cheshire cat:量子柴郡猫
 quantum chess:量子国际象棋
 quantum chromodynamics:量子色動力學
@@ -3899,6 +3911,7 @@ quantum circuit:量子線路
 quantum circuits need higher:量子电路需要更高的
 quantum circuits:量子电路
 quantum clock:量子时钟
+quantum cloning:量子克隆
 quantum cloud processor:量子云处理器
 quantum cloud service:量子云服务
 quantum cloud services:量子云服务
@@ -3906,6 +3919,7 @@ quantum cloud software system:量子云软件系统
 quantum cloud:量子云
 quantum clouds:量子云
 quantum code:量子代码
+quantum cognition:量子認知
 quantum cohomology:量子上同调
 quantum communication protocol:量子通信协议
 quantum communications system:量子通信系统
@@ -3978,7 +3992,9 @@ quantum computer threat:量子计算机威胁
 quantum computer threats:量子计算机威胁
 quantum computer uses:量子计算机使用
 quantum computer would:量子计算机将
+quantum computer:量子电脑
 quantum computer:量子计算机
+quantum computers:量子计算机
 quantum computing abilities:量子计算能力
 quantum computing abstraction:量子计算抽象
 quantum computing algorithm:量子计算算法
@@ -4138,6 +4154,7 @@ quantum core:量子核心
 quantum corporation:昆騰
 quantum corporation:量子公司
 quantum correlation:量子相关性
+quantum cosmology:量子宇宙学
 quantum cosmology:量子宇宙學
 quantum crisis:量子危机
 quantum critical point:量子临界点
@@ -4207,6 +4224,7 @@ quantum efficiency describe:量子效率描述
 quantum efficiency is very low:量子效率是非常低的
 quantum efficiency levels:量子效率水平
 quantum efficiency:量子效率
+quantum electrochemistry:量子电化学
 quantum electrodynamics:量子電動力學
 quantum electromagnetism:量子电磁学
 quantum electron:量子电子
@@ -4274,6 +4292,7 @@ quantum firmware:量子韌體
 quantum fluctuation:量子涨落
 quantum fluid or quantum:量子流体或量子
 quantum fluid:量子流体
+quantum fluid:量子液体
 quantum foam and plato:量子泡沫和柏拉图
 quantum foam wormhole:量子泡沫虫洞
 quantum foam:量子泡沫
@@ -4303,6 +4322,7 @@ quantum gravity research:量子引力研究
 quantum gravity researchers:量子引力研究人员
 quantum gravity theory:量子引力理论
 quantum gravity:量子引力
+quantum gravity:量子重力
 quantum ground state:量子基态
 quantum group of funds:量子基金
 quantum group:量子组
@@ -4332,6 +4352,7 @@ quantum imaging technologies:量子成像技术
 quantum imaging:量子成像
 quantum improvements:量子改进
 quantum increase:量子增加
+quantum informatics:量子信息学
 quantum information and computer science:量子信息与计算机科学
 quantum information and high:量子信息和高
 quantum information and quantum control:量子信息与量子控制
@@ -4419,6 +4440,7 @@ quantum light:量子光
 quantum lighting:量子照明
 quantum limit distribution:量子极限分布
 quantum limit:量子极限
+quantum limit:量子限制
 quantum limits:量子极限
 quantum link:量子链接
 quantum liquid:量子液体
@@ -4440,6 +4462,7 @@ quantum machine:量子机器
 quantum machines can compute:量子机器可以计算
 quantum machines will:量子机器会
 quantum machines:量子机器
+quantum magazine:量子杂志
 quantum magic:量子魔法
 quantum magnetism:量子磁
 quantum management:量子管理
@@ -4532,6 +4555,7 @@ quantum memory:量子记忆
 quantum message:量子訊息
 quantum metal:量子金属
 quantum metamaterial:量子超材料
+quantum metaphysics:量子形上學
 quantum meter:量子米
 quantum methods:量子方法
 quantum metrology:量子计量学
@@ -4626,6 +4650,7 @@ quantum photosynthesis:量子光合作用
 quantum physical research:量子物理的研究
 quantum physical system:量子物理系统
 quantum physical:量子物理的
+quantum physicist:量子物理学家
 quantum physics and biology:量子物理学和生物学
 quantum physics and gravity:量子物理学与引力
 quantum physics and machine learning:量子物理学和机器学习
@@ -4647,6 +4672,7 @@ quantum physics rather than:量子物理学而不是
 quantum physics research:量子物理学研究
 quantum physics tell us about:量子物理学告诉我们关于
 quantum physics tell:量子物理学告诉
+quantum physics:量子物理
 quantum physics:量子物理学
 quantum pigeon:量子鸽子
 quantum platform with another:量子平台与另一个
@@ -4803,6 +4829,7 @@ quantum standard:量子标准
 quantum standards:量子标准
 quantum state vector:態向量
 quantum state:量子態
+quantum state:量子状态
 quantum statistic:量子统计
 quantum statistical mechanics:量子统计力学
 quantum strategy:量子战略
@@ -4812,6 +4839,7 @@ quantum studies:量子研究
 quantum sub:量子子
 quantum substance:量子物质
 quantum suicide:量子自杀
+quantum suicide:量子自殺
 quantum supercomputer:量子超级计算机
 quantum superposition:态叠加原理
 quantum superpower:量子超级大国
@@ -4846,6 +4874,7 @@ quantum technology revolution:量子技术革命
 quantum technology tasks:量子技术任务
 quantum technology:量子技术
 quantum technology:量子技術
+quantum technology:量子科技
 quantum telephone:量子电话
 quantum teleportation:量子隱形傳態
 quantum test network:量子测试网络
@@ -4930,6 +4959,7 @@ quantum wealth:量子财富
 quantum well laser:量子阱激光器
 quantum well material:量子阱材料
 quantum well systems:量子阱系统
+quantum well:量子井
 quantum well:量子阱
 quantum will be:量子将成为
 quantum will help exxonmobil:量子将帮助埃克森美孚
@@ -5105,7 +5135,10 @@ quanzhou city art gallery:泉州市藝術館
 quanzhou county:quánzhōu xiàn
 quanzhou county:全州县
 quanzhou county:全州縣
+quanzhou county:泉州县
+quanzhou dialect:泉州方言
 quanzhou dialects:泉州话
+quanzhou east:泉州东
 quanzhou food safety:泉州市食品安全
 quanzhou jingjiang international airport:泉州晋江国际机场
 quanzhou jinjiang international airport:泉州晋江国际机场
@@ -5119,6 +5152,8 @@ quanzhou service area:全州服务区
 quanzhou shijing - kinmen shuitou:泉州石井 - 金门水头
 quanzhou shijing - kinmen shuitou:泉州石井 - 金门水头 金門 - 泉州
 quanzhou shijing - kinmen shuitou:金門 - 泉州
+quanzhou south:全州南
+quanzhou south:泉州南
 quanzhou st. entrance:泉州街口
 quanzhou st.:泉州街
 quanzhou start:泉州市开始
@@ -5229,6 +5264,7 @@ quark matter:夸克物质
 quark measurement:夸克测量
 quark mix:夸克混合
 quark model:夸克模型
+quark models:夸克模型
 quark nova:夸克新星
 quark particle:夸克粒子
 quark passenger:夸克乘客
@@ -5901,6 +5937,7 @@ quartz crucible:石英坩埚
 quartz crystal production line:石英晶体生产线
 quartz crystal:石英晶体
 quartz crystal:石英水晶
+quartz diorite:石英閃長岩
 quartz diorite:石英闪长岩
 quartz envelope:石英信封
 quartz factory:石英工厂
@@ -5925,7 +5962,9 @@ quartz material properties:石英材料属性
 quartz material:石英材料
 quartz mechanism:石英机制
 quartz miner:石英礦工
+quartz monzonite:石英二長岩
 quartz monzonite:石英二长岩
+quartz mountain:石英山
 quartz or chalcedony:石英或玉髓
 quartz or xenon:石英或氙
 quartz photomask:石英光罩
@@ -6058,6 +6097,7 @@ quaternary numeral system:四進制
 quaternary research:第四紀研究
 quaternary sector of the economy:第四产业
 quaternary:第四紀
+quaternion algebra:四元數代数
 quaternion analysis:四元數分析
 quaternion eagle:四元鵰
 quaternion group:四元群
@@ -6125,8 +6165,10 @@ quay with sphinxes:大学滨河路的狮身人面像
 quayside or port hinterland:码头区或港口腹地
 quayside:码头区
 quba khanate:库巴汗国
+quba khanate:庫巴汗國
 quba mosque project:库巴清真寺项目
 quba mosque:库巴清真寺
+quba mosque:庫巴清真寺
 quba:庫巴
 quba:曲巴
 quba:渠坝
@@ -6242,6 +6284,7 @@ que'ershan subdistrict:雀儿山街道
 que'ershan:雀儿山街道
 que'ertan:雀儿潭
 que'erwo:雀儿窝
+queanbeyan river:昆比恩河
 queanbeyan:昆比恩
 queaux:科村
 quebacun:鹊坝村
@@ -6258,9 +6301,12 @@ quebec and western canada:魁北克省和加拿大西部
 quebec as well as:魁北克省以及
 quebec be:魁北克省成为
 quebec became:魁北克省成为
+quebec beer:魁北克啤酒
 quebec border:魁北克省边界
+quebec bridge:魁北克桥
 quebec bridge:魁北克橋
 quebec choose:魁北克省选择
+quebec citadel:魁北克城堡
 quebec city and its:魁北克市和它的
 quebec city and montreal:魁北克市和蒙特利尔
 quebec city area:魁北克市地区
@@ -6273,9 +6319,13 @@ quebec city quebec city:魁北克市魁北克市
 quebec city residents:魁北克市居民
 quebec city winter:魁北克市冬季
 quebec city:魁北克市
+quebec conference:魁北克会议
 quebec contingency act:清晰法案
+quebec council:魁北克省议会
+quebec council:魁北克议会
 quebec court:魁北克省法院
 quebec courts:魁北克省法院
+quebec culture:魁北克文化
 quebec education saving:魁北克省教育储蓄
 quebec education:魁北克省教育
 quebec engineer:魁北克省工程师
@@ -6284,33 +6334,49 @@ quebec entrepreneur:魁北克省企业家
 quebec flooding:魁北克省洪水
 quebec french pronunciation:魁北克法語發音
 quebec french:魁北克法語
+quebec french:魁北克法语
 quebec furniture manufacturers association:魁北克省家具制造商协会
 quebec furniture manufacturers:魁北克省家具制造商
 quebec furniture:魁北克省家具
 quebec gay archives:魁北克同性戀檔案館
+quebec gazette:魁北克公报
 quebec gov:魁北克省政府
+quebec government:魁北克政府
 quebec government:魁北克省政府
 quebec governments:魁北克省政府
 quebec high school:魁北克省高中
 quebec hiria:魁北克
+quebec history:魁北克历史
 quebec hospital:魁北克省医院
 quebec immigration:魁北克省移民
+quebec independence:魁北克独立
 quebec is canada:魁北克省是加拿大
+quebec law:魁北克法律
 quebec liberal party:魁北克自由黨
 quebec literature:魁北克文学
 quebec national assembly:魁北克省国民议会
 quebec nationalism:魁北克民族主义
+quebec nationalism:魁北克民族主義
 quebec nurse:魁北克省护士
+quebec parliament:魁北克省议会
+quebec parliament:魁北克议会
 quebec plans:魁北克省计划
+quebec politics:魁北克政治
+quebec province:魁北克省
 quebec pruwinsya:魁北克省
 quebec recently:魁北克省最近
 quebec referendum:魁北克省公民投票
+quebec region:魁北克地区
 quebec residents:魁北克省居民
 quebec select:魁北克省选择
+quebec separatism:魁北克分離主義
+quebec sovereigntism:魁北克主权主义
 quebec sovereignty movement:魁北克主权运动
 quebec spokesman:魁北克省发言人
 quebec tourism:魁北克省旅游
 quebec trade:魁北克省贸易
+quebec university:魁北克大学
+quebec university:魁北克大學
 quebec university:魁北克省大学
 quebec winter carnival:魁北克冬季嘉年華
 quebec:魁北克
@@ -6409,6 +6475,7 @@ queen bian:边王后
 queen camilla:卡蜜拉王后
 queen caroline:卡罗琳王后
 queen catherine:凱薩琳王后
+queen charlotte:王后夏洛特
 queen cheorin:哲仁王后
 queen consort anne:王后安妮
 queen consort of alba:苏格兰王后
@@ -6472,6 +6539,7 @@ queen dowager xuan:宣太后
 queen dowager zhao:赵姬
 queen dowager:王太后
 queen elisabeth competition:伊丽莎白王后国际音乐比赛
+queen elisabeth:王后伊丽莎白
 queen elizabeth central hospital:伊莉莎白女王中央醫院
 queen elizabeth class aircraft carrier:伊莉莎白女王級航空母艦
 queen elizabeth class battleship:伊丽莎白女王级战列舰
@@ -6502,6 +6570,7 @@ queen elizabeth the queen mother:伊莉莎白王太后
 queen elizabeth theatre:伊利沙伯女皇劇院
 queen elizabeth way:伊利沙伯皇后道
 queen elizabeth:伊莉莎白女王
+queen elizabeth:王后伊丽莎白
 queen emma bridge:愛瑪女王橋
 queen esther answer:王后以斯帖回答
 queen esther:王后以斯帖
@@ -6908,10 +6977,12 @@ queenfish:皇后石首魚
 queenie chu:朱慧敏
 queenie tai:戴君竹
 queenmaker:女王制造者
+queens academy:皇后区学院
 queens and manhattan:皇后區和曼哈頓
 queens botanical garden:皇后植物园
 queens burger:女王漢堡
 queens chair:皇后之椅
+queens college:皇后区学院
 queens county:皇后县
 queens hill community complex:皇后山社區綜合大樓
 queens hill estate:皇后山邨
@@ -6923,10 +6994,13 @@ queens of diamonds and hearts:東西宮略
 queens of langkasuka:海上的女皇
 queens of the stone age:石器時代女王
 queens plaza station:皇后廣場車站
+queens plaza:皇后區廣場
 queens public library:皇后圖書館
 queens rather than:皇后區而不是
 queens road peckham railway station:女王路佩卡姆站
 queens university of charlotte:夏洛特皇后大學
+queens zoo:皇后区动物园
+queens zoo:皇后區動物園
 queens:皇后区
 queens:皇后區
 queensbay mall:皇后湾广场
@@ -6977,6 +7051,9 @@ queensland government schools:昆士兰州政府学校
 queensland government solar cell:昆士兰州政府太阳能电池
 queensland government website:昆士兰州政府网站
 queensland government:昆士兰州政府
+queensland government:昆士蘭州政府
+queensland governments:昆士兰州政府
+queensland governments:昆士蘭州政府
 queensland has many world:昆士兰州有许多世界
 queensland health department:昆士兰州卫生部
 queensland heritage:昆士兰州遗产
@@ -7041,11 +7118,15 @@ queenstown public library:女皇鎮公共圖書館
 queenstown road:皇后镇路
 queenstown smc:女皇镇单选区
 queenstown stadium:女皇鎮體育場
+queenstown stadium:女皇镇体育场
+queenstown station:女皇镇站
+queenstown station:皇后镇站
 queenstown story:皇后镇故事
 queenstown winter:皇后镇冬季
 queenstown, ireland:皇后镇
 queenstown:女皇镇
 queenstown:皇后镇
+queensway base:女皇道基地
 queensway government offices high block:金鐘道政府合署高座
 queensway government offices high block:金钟道政府合署高座
 queensway government offices low block:金鐘道政府合署低座
@@ -7066,18 +7147,22 @@ queer anarchism:酷儿无政府主义
 queer as folk:同志亦凡人
 queer culture:酷兒文化
 queer family:酷兒家庭
+queer feminism:酷兒女性主義
 queer friends:酷兒朋友
 queer heterosexuality:異性戀酷兒
 queer lion:酷兒獅獎
+queer literature:酷兒文學
 queer mountain:奎爾山
 queer nationalism:酷兒民族主義
 queer palm:酷兒棕櫚獎
 queer space:酷兒空間
 queer studies:酷儿研究
+queer studies:酷兒研究
 queer theme:酷兒主題
 queer theology:同志神學
 queer theology:酷兒神學
 queer theory:酷儿理论
+queer theory:酷兒理論
 queer:酷兒
 quefeng:鹊峰
 quegutun:却谷屯
@@ -7144,6 +7229,7 @@ quelea:奎利亞雀屬
 quelepa:克萊帕
 quelet reaction:克莱反应
 queletia:蒯氏包属
+quelimane airport:克利馬內機場
 quelimane:克利馬內
 quelinyuancun:雀林院村
 quelishucun:阙里墅村
@@ -8168,6 +8254,7 @@ quetigny:克蒂尼
 quetta district:奎达县
 quetta international airport:奎达国际机场
 quetta railway station:奎達車站
+quetta shura:奎达舒拉
 quetta:奎达
 quetta:奎达站
 quetta:奎達
@@ -8239,6 +8326,7 @@ qufeng:曲风村
 qufeng:渠凤
 qufu city:曲阜市
 qufu east railway station:曲阜东站
+qufu east:曲阜东
 qufu normal university:曲阜师范大学
 qufu road station:曲阜路站
 qufu road:区府路
@@ -8323,6 +8411,8 @@ quiapo church:黑拿撒勒人聖殿
 quibala:基巴拉
 quibaxe:基巴谢
 quiberon bay:基伯龙湾
+quiberon peninsula:基伯龙半岛
+quiberon station:基伯龙站
 quiberon:基伯龙
 quiberville sur mer:滨海基贝维尔
 quibou:基布
@@ -8981,6 +9071,7 @@ quill:羽毛
 quill:鵝毛筆
 quillabamba:基亞班巴
 quillacollo province:基亚科约县
+quillacollo province:基亞科約省
 quillacollo:基亞科約
 quilladin:胖胖哈力
 quillaja:皂皮树属
@@ -9019,6 +9110,7 @@ quilt:被子
 quilty nunataks:奎爾蒂冰原島峰
 quimarumi:基馬魯米山
 quime:基梅
+quimper airport:坎佩尔机场
 quimper cathedral:坎佩尔主教座堂
 quimper station:坎佩尔站
 quimper-1:坎佩尔-1
@@ -9056,6 +9148,7 @@ quincy carter:昆西卡特
 quincy center station:昆西中心站
 quincy center:昆西中心
 quincy college:昆西学院
+quincy college:昆西學院
 quincy compressor company:昆西压缩机公司
 quincy compressor:昆西压缩机
 quincy could:昆西能
@@ -9079,6 +9172,7 @@ quincy station:昆西站
 quincy street:昆西街
 quincy streets:昆西街道
 quincy tan:陳仁丰
+quincy township:昆西鎮區
 quincy township:昆西镇区
 quincy university:昆西大学
 quincy voisins:坎西瓦桑
@@ -9119,6 +9213,7 @@ quinn movies:奎因电影
 quinn open:奎因开
 quinn open:奎因打开
 quinn order:奎因命令
+quinn river:奎因河
 quinn said:奎因说
 quinn says:奎因说
 quinn start:奎因开始
@@ -9445,6 +9540,7 @@ quito cannot begin:基多不能开始
 quito cannot:基多不能
 quito canton:基多縣
 quito canton:基托縣
+quito cathedral:基多主教座堂
 quito ecuador temple:厄瓜多爾基多聖殿
 quito glacier:基多冰川
 quito government:基多政府
@@ -9454,6 +9550,7 @@ quito meeting:基多会议
 quito metro:基多地铁
 quito metropolitan cathedral:基多都主教座堂
 quito no longer:基多不再
+quito observatory:基多天文台
 quito open:基多网球公开赛
 quito river:基多河流
 quito:基多
@@ -9474,6 +9571,7 @@ quixináu:基希訥烏
 quixináu:基希讷乌
 quixote winery:堂吉訶德酒莊
 quiz bowl:智力竞赛
+quiz king:猜謎王
 quiz of god:神的測驗
 quiz:猜謎
 quizalofop:盖草灵
@@ -9524,6 +9622,7 @@ qujian:曲建
 qujiang avenue:曲江大道
 qujiang bridge:qǔjiāng qiáo
 qujiang bridge:曲江桥
+qujiang county:曲江县
 qujiang district:qújiāng qū
 qujiang district:qūjiāng qū
 qujiang district:曲江区
@@ -9792,12 +9891,14 @@ qundo:qīngduō zhèn
 qundo:倾多镇
 qunduzin maakunta:昆都士省
 quneitra district:庫奈特拉區
+quneitra district:庫奈特拉區域
 quneitra eskualdea:古奈特拉
 quneitra eskualdea:库奈特拉省
 quneitra governorate:古奈特拉
 quneitra governorate:库奈特拉省
 quneitra govrenorate:古奈特拉
 quneitra govrenorate:库奈特拉省
+quneitra province:庫奈特拉省
 quneitra séng:古奈特拉
 quneitra séng:库奈特拉省
 quneitra:古奈特拉
@@ -9860,6 +9961,7 @@ qunli primary school:群力小学
 qunli reservoir:qúnlì shuǐkù
 qunli reservoir:群力水库
 qunli road:群力路
+qunli station:群力站
 qunli street:群力街
 qunli:qúnlì cūn
 qunli:qúnlì jiēdào
@@ -10249,6 +10351,7 @@ quote she:引用她
 quote simon:引用西蒙
 quote some:引用一些
 quote such:引用如此
+quote template:引用模板
 quote that:引用那
 quote the:引用这
 quote their:引用他们的
@@ -10274,8 +10377,11 @@ quotient and passion quotient:商和激情商
 quotient and remainder:商和余数
 quotient club:商俱乐部
 quotient education:商教育
+quotient field:商场
 quotient group:商群
 quotient increase:商增加
+quotient monoid:商幺半群
+quotient object:商对象
 quotient property:商属性
 quotient research:商研究
 quotient ring:商环
@@ -10323,12 +10429,15 @@ quran recitation:古兰经朗诵
 quran says:古兰经说
 quran scholar:古兰经学者
 quran teach:古兰经教
+quran translation:古兰经翻译
+quran translations:古兰经翻译
 quran was protected:古兰经是受保护的
 quran:古兰经
 qurandian:屈染店
 quranic timeline:古兰经年表
 quranism:唯獨古蘭經
 quraquta:科拉科塔湖
+quraysh tribe:古莱什部落
 quraysh:古莱什
 qurbagh:库尔巴格村
 qurdoi:久堆村
@@ -10388,6 +10497,7 @@ qushigang:取石岗
 qushou avenue:渠首大道
 qushou dam:漫水湾渠首大坝
 qushou-talsperre:漫水湾渠首大坝
+qushui county:曲水县
 qushui village:qū shuǐ lǐ
 qushui village:曲水里
 qushui zuojhen:曲水左鎮
@@ -10398,6 +10508,7 @@ qushui:曲水鎮
 qushui:曲水镇
 qushuicun:曲水村
 qushuilou station:取水楼站
+qushuilou station:取水樓站
 qushuilou:取水楼
 qushuilou:取水樓
 qushuisi ditch:曲水寺沟
@@ -10456,6 +10567,7 @@ qutb minar:顾特卜塔
 qutb shahi dynasty:顧特卜沙希王朝
 qutbism:庫特布主義
 quthbullapur:库特布尔拉普尔
+quthing airport:古廷機場
 quthing district:古廷區
 quthing, isifunda:古廷區
 quthing:古廷
@@ -10656,6 +10768,7 @@ quzhen:曲真
 quzheng grassland:qū tóng cǎochǎng
 quzheng road:quzheng lu
 quzhou airport:衢州机场
+quzhou airport:衢州機場
 quzhou county government:曲周县政府
 quzhou county:qūzhōu xiàn
 quzhou county:曲周县

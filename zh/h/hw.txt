@@ -81,6 +81,7 @@ hwadae-up:花坮邑
 hwadaecheon:花坮川
 hwadang-ri:花塘里
 hwado station:花岛站
+hwado station:花島站
 hwado-myeon:华道面
 hwado-myeon:華道面
 hwado-ri:花岛里
@@ -120,6 +121,7 @@ hwagokbon-dong:禾谷本洞
 hwagokhyeondae gas station:华谷现代加油站
 hwagokhyeondaejuyuso:华谷现代加油站
 hwagye station:华溪站
+hwagye station:華溪站
 hwagye station:華溪驛
 hwagye:華溪
 hwagyo kindergarten:華僑幼稚園
@@ -137,6 +139,7 @@ hwajeon-dong:華田洞
 hwajeon-ri:花田里
 hwajeon:花煎
 hwajeong gymnasium:化汀體育館
+hwajeong station:花亭站
 hwajeong-dong:花井洞
 hwajeong-dong:花亭洞
 hwajeong-myeon:华井面
@@ -334,6 +337,8 @@ hwangju airport:黃州機場
 hwangju airport:黄州机场
 hwangju county:黃州郡
 hwangju county:黄州郡
+hwangju station:黃州站
+hwangju station:黄州站
 hwangju stream:黃州川
 hwangju stream:黄州川
 hwangju-up:黃州邑
@@ -441,6 +446,7 @@ hwaseong haenggung palace:華城行宮
 hwaseong haenggung square:华城行宫广场
 hwaseong serial murders:華城連環殺人案
 hwaseong sports complex town:華城體育場
+hwaseong stadium:华城体育场
 hwaseong-myeon:化城面
 hwaseong-si:华城市
 hwaseong-si:華城市

@@ -398,6 +398,7 @@ jiabei railway station:嘉北車站
 jiabei road:佳北路
 jiabei road:嘉北路
 jiabei road:嘉碚路
+jiabei station:嘉北站
 jiabei street:嘉北街
 jiabei village:嘉北里
 jiabei village:甲北里
@@ -641,6 +642,8 @@ jiadong road:佳東路
 jiadong road:甲東路
 jiadong road:稼东路
 jiadong road:茄苳路
+jiadong station:佳冬站
+jiadong station:甲洞站
 jiadong street:嘉東街
 jiadong subdistrict:jiādōng jiēdào
 jiadong subdistrict:佳东街道
@@ -753,6 +756,7 @@ jiage monastery:甲格寺
 jiage:加格
 jiage:戛格
 jiage:贾阁
+jiagedaqi airport:加格达奇机场
 jiagedaqi district:加格达奇区
 jiagedaqi district:加格達奇區
 jiagedaqi railway station:加格达奇站
@@ -851,6 +855,7 @@ jiahe residential area:桂鹤小区
 jiahe road:佳和路
 jiahe road:嘉禾路
 jiahe road:家和路
+jiahe station:嘉禾站
 jiahe station:贾河站
 jiahe subdistrict:jiàhè jiēdào
 jiahe subdistrict:嘉禾街道
@@ -1095,9 +1100,11 @@ jiajincun:贾金村
 jiajindecun:贾金德村
 jiajing avenue:嘉景大道
 jiajing electronic:嘉晶电子
+jiajing emperor:嘉靖皇帝
 jiajing emperor:明世宗
 jiajing intersection:佳景路口
 jiajing island:加井岛
+jiajing period:嘉靖时期
 jiajing railway:嘉镜铁路
 jiajing three-year:嘉靖三年
 jiajing three:嘉靖三
@@ -1232,6 +1239,7 @@ jiali housing complex:佳里新城
 jiali junior high school:佳里国中
 jiali junior high school:佳里國中
 jiali mnt trail car park:加里山步道停車場
+jiali mountain:加里山
 jiali park:佳里公园
 jiali park:佳里公園
 jiali plaza:佳丽广场
@@ -1378,6 +1386,8 @@ jialu river:佳芦河
 jialu river:佳蘆河
 jialu river:賈魯河
 jialu river:贾鲁河
+jialu station:加祿站
+jialu station:甲路站
 jialu village:加祿村
 jialu:jiā lù
 jialu:佳州街道
@@ -1500,12 +1510,14 @@ jiamucun:夹木村
 jiamucun:贾木村
 jiamuju qu:加木居曲
 jiamusi airport:佳木斯东郊国际机场
+jiamusi airport:佳木斯机场
 jiamusi city:佳木斯市
 jiamusi dongjiao airport:佳木斯东郊机场
 jiamusi railway station:佳木斯站
 jiamusi sanhetun general airport:佳木斯三合屯通用机场
 jiamusi university was established in:佳木斯大学成立于
 jiamusi university:佳木斯大学
+jiamusi university:佳木斯大學
 jiamusi zhongheng cogen power station:中恒热电
 jiamusi:jiāmùsī shì
 jiamusi:佳木斯
@@ -1943,6 +1955,7 @@ jiandaoshishan:剪刀石山
 jiandashan:尖打山
 jiande and changxing road intersection:建德長興路口
 jiande bridge:健德桥
+jiande county:建德县
 jiande elementary school:建德國小
 jiande men station:健德门站
 jiande park:jiàndégōngyuán
@@ -1962,6 +1975,7 @@ jiande xingfeng:建德興豐
 jiande:jiàndé shì
 jiande:建德
 jiande:建德市
+jiandemen station:健德门站
 jiandemen:健德门
 jiandeng xinhua:剪燈新話
 jiandewan:建德湾
@@ -2079,6 +2093,8 @@ jiang chao:姜潮
 jiang chaoliang:蒋超良
 jiang chaozong:江朝宗
 jiang chen:姜晨
+jiang cheng:江城区
+jiang cheng:江城區
 jiang chengji:蒋丞稷
 jiang chongjing:蒋崇璟
 jiang chunfang:姜椿芳
@@ -2086,6 +2102,7 @@ jiang chunyun:姜春云
 jiang clan big yard:姜家大院子
 jiang county economic development area:绛县经济开发区
 jiang county:jiàng xiàn
+jiang county:江县
 jiang county:絳縣
 jiang county:绛县
 jiang cuihua:姜翠华
@@ -2105,11 +2122,14 @@ jiang gongfu:姜公輔
 jiang guangci:蒋光慈
 jiang guangnai memorial primary school:蒋光鼐纪念小学
 jiang guangnai:蔣光鼐
+jiang guangping:江广平
 jiang guangtao:姜广涛
+jiang guhuai:江古怀
 jiang guhuai:江古懷
 jiang guiti:姜桂題
 jiang guoliang:蔣國良
 jiang guoping:姜国平
+jiang haidong:江海东
 jiang haiqi:蒋海琦
 jiang hao:姜灏
 jiang haokang:蒋浩康
@@ -2122,11 +2142,14 @@ jiang hongquan:姜洪权
 jiang hua machinery:江华机械
 jiang huajun:姜華珺
 jiang hualiang:蒋华良
+jiang hualin:江华林
+jiang hualin:江桦林
 jiang huihua:蒋惠花
 jiang ji:蔣濟
 jiang jiajun:姜嘉俊
 jiang jialiang:江嘉良
 jiang jianchun:蒋剑春
+jiang jiang:江江
 jiang jiangui:江簡珪
 jiang jianqing:姜建清
 jiang jianzeng:江建曾
@@ -2134,6 +2157,7 @@ jiang jiemin:蒋洁敏
 jiang jihong:姜积弘
 jiang jinfu:蒋劲夫
 jiang jingshan:姜景山
+jiang jingshan:江靖山
 jiang jinquan:江金权
 jiang jufeng:蒋巨峰
 jiang kanghu:江亢虎
@@ -2144,16 +2168,26 @@ jiang lifu:姜立夫
 jiang lijun:姜力鈞
 jiang lili:姜黎黎
 jiang lin:姜林
+jiang lin:江林
 jiang linhe:姜林和
+jiang linhe:江临河
 jiang liping:江利平
+jiang liu:江柳
 jiang liyin:江礼银
 jiang lizhang:蒋立章
+jiang long:江隆
 jiang long:江龙
+jiang long:江龙镇
 jiang luxia:蒋璐霞
 jiang mengjie:蒋梦婕
 jiang menglin:蒋梦麟
 jiang mianheng:江绵恒
 jiang minkuan:蒋民宽
+jiang nan:江南县
+jiang nan:江南村
+jiang nanxiang:江南乡
+jiang ning:江宁县
+jiang ning:江寧縣
 jiang peng said:姜鹏说
 jiang peng:姜鹏
 jiang pengxiang:姜鹏翔
@@ -2165,6 +2199,7 @@ jiang qinqin:蒋勤勤
 jiang ranxin:姜冉馨
 jiang river:jiàng hé
 jiang river:姜水
+jiang river:江河
 jiang river:絳河
 jiang river:绛河
 jiang rıver:jiàng qǔ
@@ -2174,6 +2209,7 @@ jiang shan wan li:江山萬里
 jiang shaoji:江绍基
 jiang shen:蒋伸
 jiang shenglong:蒋圣龙
+jiang shensheng:江申生
 jiang shi:江湜
 jiang shigong:强世功
 jiang shiquan:蒋士铨
@@ -2183,6 +2219,7 @@ jiang shunfu:江韶宗
 jiang shusheng:蒋树声
 jiang shuying:江疏影
 jiang siqi:姜思岐
+jiang song:江歌
 jiang songduo:jiǎngsōngduó
 jiang tengyi:江腾一
 jiang tianyong continues:江天勇继续
@@ -2236,6 +2273,7 @@ jiang yiyuan:蒋亦元
 jiang yizhen:江一真
 jiang yong:江涌
 jiang yonghua:江永华
+jiang yonghua:江永華
 jiang yu said:姜瑜说
 jiang yu says:姜瑜说
 jiang yu:姜瑜
@@ -2243,6 +2281,7 @@ jiang yuan:姜嫄
 jiang yuande:蒋元德
 jiang yuhan:蒋玉菡
 jiang yukun:蔣玉堃
+jiang yunlong:江云龙
 jiang yuyuan:江钰源
 jiang zaidong:姜再冬
 jiang zehan:江泽涵
@@ -2365,6 +2404,8 @@ jiangbayingcun:蒋八营村
 jiangbei 2nd bridge:江北二桥桥头
 jiangbei 2nd bridge:江北二橋橋頭
 jiangbei airport t2:江北机场t2航站楼
+jiangbei airport:江北机场
+jiangbei airport:江北機場
 jiangbei anding lane:安定里大街
 jiangbei avenue:江北大道
 jiangbei bridge:江北橋頭
@@ -2487,6 +2528,7 @@ jiangcheng boulevard station:江城大道站
 jiangcheng boulevard:江城大道
 jiangcheng busterminal:江城客运站
 jiangcheng busterminal:江城客運站
+jiangcheng county:江城县
 jiangcheng district:jiāngchéng qū
 jiangcheng district:江城
 jiangcheng district:江城区
@@ -2515,6 +2557,7 @@ jiangchi:江池镇
 jiangchong:姜冲
 jiangchong:降冲
 jiangchongcun:蒋冲村
+jiangchuan county:江川县
 jiangchuan district:jiāngchuān xiàn
 jiangchuan district:江川区
 jiangchuan district:江川區
@@ -2623,6 +2666,9 @@ jiangdong bridge:江东大桥
 jiangdong bridge:江东大桥(东行)
 jiangdong bridge:江东大桥(西行)
 jiangdong bridge:江东大道快速路
+jiangdong bridge:江东桥
+jiangdong bridge:江东橋
+jiangdong bridge:江東橋
 jiangdong line:江东线
 jiangdong north road:江东北路
 jiangdong reservoir:jiāngdōng shuǐkù
@@ -2836,6 +2882,7 @@ jianghan district:江汉区
 jianghan district:江漢區
 jianghan plain railway:江汉平原铁路
 jianghan plain:江汉平原
+jianghan plain:江漢平原
 jianghan qu:jiānghàn qū
 jianghan qu:江汉区
 jianghan qu:江漢區
@@ -2844,6 +2891,8 @@ jianghan road:江汉路
 jianghan road:江漢路
 jianghan university hankou campus:江汉大学汉口校区
 jianghan university:江汉大学
+jianghan university:江漢大学
+jianghan university:江漢大學
 jianghan:jiānghàn qū
 jianghan:江汉区
 jianghan:江漢
@@ -2882,6 +2931,7 @@ jianghua 1st road:江华一路
 jianghua 1st road:江華一路
 jianghua 2nd road:江华二路
 jianghua 2nd road:江華二路
+jianghua county:江华县
 jianghua highway:江华一级公路
 jianghua north road:江化北路
 jianghua primary school:江华小学
@@ -2908,6 +2958,8 @@ jianghua:江華瑤族自治縣
 jianghua:江華縣
 jianghuacun:江华村
 jianghuai canal:江淮運河
+jianghuai lightning:江淮闪电
+jianghuai plain:江淮平原
 jianghuai region:江淮地区
 jianghuai:江淮
 jianghuaitoucun:江淮头村
@@ -3156,6 +3208,7 @@ jiangjiuling:江九岭
 jiangjiupu pass:jiāng jiū pǔ shānkǒu
 jiangju:江局
 jiangjun 2nd lane, xinxing road:新興路將軍二巷
+jiangjun district:将军辖区
 jiangjun district:將軍區
 jiangjun east road:将军东路
 jiangjun elementary school:将军国小
@@ -3166,6 +3219,7 @@ jiangjun ling:将军岭
 jiangjun ling:將軍嶺
 jiangjun middle road:将军中路
 jiangjun mountain:将军山
+jiangjun mountain:將軍山
 jiangjun north road:将军北路
 jiangjun pond:jiāngjūn táng
 jiangjun pond:将军塘
@@ -3258,9 +3312,12 @@ jiangkengcun:江坑村
 jiangkesi:江可寺
 jiangkongtianloucun:蒋孔田楼村
 jiangkou county:江口县
+jiangkou dam:江口水库
+jiangkou dam:江口水庫
 jiangkou reservoir:jiāngkŏu shuĭkù
 jiangkou reservoir:jiāngkǒu shuǐkù
 jiangkou reservoir:江口水库
+jiangkou reservoir:江口水庫
 jiangkou subdistrict:江口街道
 jiangkou toll gate:江口收费站
 jiangkou tunnel:江口隧道
@@ -3298,6 +3355,7 @@ jianglaowuwan:江老屋湾
 jiangle county:jiānglè xiàn
 jiangle county:将乐县
 jiangle county:將樂
+jiangle county:將樂县
 jiangle county:將樂縣
 jiangle dialect:将乐话
 jiangle xian:jiānglè xiàn
@@ -3451,6 +3509,7 @@ jiangmen senior technician school:江門市高級技工學校
 jiangmen senior technician school:江门市高级技工学校
 jiangmen sports school:江門市體育運動學校
 jiangmen sports school:江门市体育运动学校
+jiangmen stadium:江門體育場
 jiangmen stadium:江门体育场
 jiangmen technician college:江門市技師學院
 jiangmen technician college:江门市技师学院
@@ -3532,6 +3591,7 @@ jiangnan coach terminal:江南粵運客運汽車站
 jiangnan community:江南社区
 jiangnan culture:江南文化
 jiangnan dadao bei:江南大道北
+jiangnan daying:江南大營
 jiangnan daying:江南大营
 jiangnan district primary school:江南小学
 jiangnan district:gongnaam-kyu
@@ -3548,6 +3608,8 @@ jiangnan industrial park:江南工业区
 jiangnan industrial park:江南工业园区
 jiangnan kindergarten:江南幼儿园
 jiangnan lane:江南巷
+jiangnan library:江南图书馆
+jiangnan library:江南圖書館
 jiangnan metropolitan news:江南都市報
 jiangnan middle avenue:江南大道中
 jiangnan middle school:jiāngnán zhōng xué
@@ -3580,6 +3642,7 @@ jiangnan university north:江南大学北
 jiangnan university:jiāngnán dàxué
 jiangnan university:jiāngnán dàxué zhàn
 jiangnan university:江南大学
+jiangnan university:江南大學
 jiangnan village:江南里
 jiangnan water:江南水
 jiangnan werft:江南造船厂
@@ -3624,6 +3687,8 @@ jiangnianziwan:江碾子湾
 jiangning barrutia:江宁区
 jiangning barrutia:江寧
 jiangning barrutia:江寧區
+jiangning county:江宁县
+jiangning county:江寧县
 jiangning district:江宁区
 jiangning district:江寧
 jiangning district:江寧區
@@ -3634,10 +3699,12 @@ jiangning park:江寧公園
 jiangning road exit:江宁路出口
 jiangning road station:江宁路站
 jiangning road:江宁路
+jiangning road:江寧路
 jiangning subdistrict:江宁街道
 jiangning tushan airbase:江寧土山機場
 jiangning village:江宁里
 jiangning village:江寧里
+jiangning west:江宁西
 jiangning:江宁
 jiangning:江宁区
 jiangning:江宁街道
@@ -3755,6 +3822,7 @@ jiangqiantun:姜前屯
 jiangqiantuncun:姜前屯村
 jiangqiao (disused):姜桥站（已关闭）
 jiangqiao area:江桥地区
+jiangqiao campaign:江桥战役
 jiangqiao mongol ethnic town:江桥蒙古族镇
 jiangqiao road:江侨路
 jiangqiao road:江僑路
@@ -3811,6 +3879,7 @@ jiangshan bridge:江山大橋
 jiangshan city:jiāngshān shì
 jiangshan city:江山市
 jiangshan community activity center:江山社區活動中心
+jiangshan county:江山县
 jiangshan dialect:江山话
 jiangshan heavy industry:江山重工
 jiangshan high school:浙江省江山中学
@@ -3916,6 +3985,7 @@ jiangsu ganyu high school:江苏省赣榆高级中学
 jiangsu gaochun high school:江苏省高淳高级中学
 jiangsu garden expo park:江蘇園博園
 jiangsu government:江苏省政府
+jiangsu government:江蘇省政府
 jiangsu graduate student workstation:江苏省研究生工作站
 jiangsu haitou high school:江苏省海头高级中学
 jiangsu hengrui:恒瑞医药
@@ -3979,6 +4049,7 @@ jiangsu wuxi:江苏省无锡市
 jiangsu xiangshui middle school:江苏省响水中学
 jiangsu xinhai senior high school:江苏省新海高级中学
 jiangsu yancheng middle school:江苏省盐城中学
+jiangsu yancheng:江蘇省鹽城市
 jiangsu yangtze metropolitan belt intercity railway:江苏省沿江城市群城际轨道交通网
 jiangsu youth:江苏省青年
 jiangsu yueda kia motors:悦达起亚
@@ -3990,6 +4061,7 @@ jiangsu:江苏省
 jiangsu:江蘇省
 jiangsulu:江苏路街道
 jiangsulu:江蘇路街道
+jiangtai area:将台地区
 jiangtai lu entrance:江泰路口
 jiangtai lu:江泰路
 jiangtai road station:江泰路站
@@ -4332,6 +4404,7 @@ jiangwaiping:江外坪
 jiangwan 1st road:江湾一路
 jiangwan 2nd road:江湾二路
 jiangwan 3rd road:江湾三路
+jiangwan airport:江湾机场
 jiangwan bridege:江湾桥
 jiangwan bridge bottom:江湾桥脚
 jiangwan bridge south:江湾桥南
@@ -4342,6 +4415,7 @@ jiangwan nan'an phase 1:江湾南岸一期
 jiangwan nan'an phase 2:江湾南岸二期
 jiangwan nan'an terminus:江湾南岸总站
 jiangwan racecourse:江湾跑马厅
+jiangwan racecourse:江湾跑马场
 jiangwan reservoir:jiāngwān shuǐkù
 jiangwan reservoir:江湾水库
 jiangwan river:jiāngwān shuǐ
@@ -4424,6 +4498,7 @@ jiangxi basin (tuo):绛溪河
 jiangxi business post:江西商报
 jiangxi copper:江西铜业股份
 jiangxi cuisine:贛菜
+jiangxi culture:江西文化
 jiangxi development:江西省发展
 jiangxi flaming horses:江西鑫业篮球俱乐部
 jiangxi forest:江西省森林
@@ -4434,8 +4509,10 @@ jiangxi guild hall:江西会馆
 jiangxi institute of applied science and technology:江西应用科技学院
 jiangxi international women's tennis open:江西网球公开赛
 jiangxi investment:江西省投资
+jiangxi isuzu:江西五十鈴
 jiangxi isuzu:江西五十铃
 jiangxi jie:浆洗街
+jiangxi lushan:江西庐山
 jiangxi military district:中国人民解放军江西省军区
 jiangxi nanchang greenland central plaza:南昌绿地中心
 jiangxi nanchang:江西省南昌市
@@ -4456,6 +4533,7 @@ jiangxi road station:江西路站
 jiangxi road:江西路
 jiangxi science and technology normal university:江西科技师范大学
 jiangxi soviet:中央革命根据地
+jiangxi soviet:江西省苏维埃
 jiangxi street:浆洗街
 jiangxi subdistrict:jiāngxī jiēdào
 jiangxi subdistrict:江溪街道
@@ -4465,6 +4543,8 @@ jiangxi university of finance and economics:江西财经大学
 jiangxi university of science and technology:江西理工大学
 jiangxi university of technology:江西科技学院
 jiangxi university of traditional chinese medicine:江西中医药大学
+jiangxi university:江西大学
+jiangxi university:江西大學
 jiangxi village:江西村
 jiangxi village:江西里
 jiangxi zichen technology co.,ltd.:溧阳紫宸新材料科技有限公司
@@ -4486,11 +4566,13 @@ jiangxia barrutia:江夏區
 jiangxia bridge east station:江厦桥东站
 jiangxia chaotoensis:江西中獸
 jiangxia commandery:江夏郡
+jiangxia county:江夏县
 jiangxia district:江夏区
 jiangxia district:江夏區
 jiangxia metro station:地铁江夏站
 jiangxia primary school:江夏小学
 jiangxia road:江夏路
+jiangxia station:江下站
 jiangxia station:江夏站
 jiangxia street:江夏大街
 jiangxia tidal power station:江厦潮汐电站
@@ -4626,12 +4708,17 @@ jiangyi:姜驿
 jiangyi:姜驿乡
 jiangyi:江宜
 jiangyi:江益
+jiangyin bund:江阴外滩
 jiangyin city:jiāngyīn shì
 jiangyin city:江阴市
 jiangyin city:江陰
 jiangyin city:江陰市
+jiangyin county:江阴县
+jiangyin county:江陰县
 jiangyin dialect:江陰話
 jiangyin sports centre:江阴体育中心
+jiangyin stadium:江阴体育场
+jiangyin stadium:江阴市体育馆
 jiangyin yangtze river bridge:江阴长江大桥
 jiangyin:jiāngyīn shì
 jiangyin:江营
@@ -4677,6 +4764,7 @@ jiangyou city government:江油市政府
 jiangyou city:江油市
 jiangyou experement school:江油实验学校
 jiangyou first middle school:江油一中
+jiangyou north:江油北
 jiangyou people's hospital:江油市人民医院
 jiangyou village:江右村
 jiangyou:jiāngyóu shì
@@ -4810,6 +4898,7 @@ jiangzhutun:江竹屯
 jiangzi:江孜
 jiangzicui ic:江子翠交流道
 jiangzicui metro station:江子翠站
+jiangzicui station:江子翠站
 jiangzicui:jiāng zǐ cuì
 jiangzicui:江子翠
 jiangzigou:姜子沟
@@ -5243,6 +5332,7 @@ jianniao:建鸟
 jianning county:jiànníng xiàn
 jianning county:建宁县
 jianning county:建寧
+jianning county:建寧县
 jianning county:建寧縣
 jianning road east dexing street:建宁路德兴东街
 jianning road east nanxinzhuang street:建宁路南辛庄东街
@@ -5327,6 +5417,7 @@ jianpunanuoluo:坚普哪诺洛村
 jianqi-daguan intersection:建七大觀路口
 jianqiang road-ziqiang road crossing:建强路自强路口
 jianqiang road:建强路
+jianqiao cup:建桥杯
 jianqiao middle school:箭桥中学
 jianqiao old street station:笕桥老街站
 jianqiao old street:笕桥老街
@@ -5370,6 +5461,7 @@ jianrong road:建榮路
 jianru road:堅如路
 jiansanjiang 1st middle school:建三江第一中学
 jiansanjiang 2nd high school:建三江第二高级中学
+jiansanjiang airport:建三江机场
 jiansanjiang botanical garden:建三江植物园
 jiansanjiang citizen:建三江公民
 jiansanjiang coach terminal:建三江客运站
@@ -5683,6 +5775,8 @@ jiantan rd & jihe rd intersection:剑潭基河路口
 jiantan rd & jihe rd intersection:劍潭基河路口
 jiantan road:劍潭路
 jiantan shan:劍潭山
+jiantan station:剑潭站
+jiantan station:劍潭站
 jiantan village:剑潭里
 jiantan village:劍潭里
 jiantan:jiàn tán
@@ -6115,6 +6209,7 @@ jian’ou:建瓯市
 jian’ou:建甌
 jian’ou:建甌市
 jiao bingzhen:焦秉贞
+jiao county:郊区县
 jiao district:jiāo qū
 jiao district:郊区
 jiao district:郊區
@@ -6389,6 +6484,7 @@ jiaohua chang station:焦化厂站
 jiaohua street:教化街
 jiaohua:教化
 jiaohua:焦化
+jiaohuachang station:焦化厂站
 jiaohuachang:焦化厂
 jiaohuai stream:giuwaai gau
 jiaohuai stream:叫怀沟
@@ -6499,6 +6595,7 @@ jiaokou county:交口縣
 jiaokou reservoir:jiăokŏu shuĭkù
 jiaokou reservoir:皎口水库
 jiaokou road:毅贤路
+jiaokou station:交口站
 jiaokou station:滘口站
 jiaokou subdistrict:jiāokǒu jiēdào
 jiaokou subdistrict:交口街道
@@ -6552,6 +6649,7 @@ jiaolin:椒林
 jiaoling county:jiāolǐng xiàn
 jiaoling county:蕉岭县
 jiaoling county:蕉嶺
+jiaoling county:蕉嶺县
 jiaoling county:蕉嶺縣
 jiaoling park:茭菱公园
 jiaoling road:jiāolíng lù
@@ -6569,6 +6667,7 @@ jiaoling:角岭
 jiaolingcun:角岭村
 jiaolingxiang:峤崚
 jiaoliping railway station:交力坪車站
+jiaoliping station:交力坪站
 jiaoliping:交力坪
 jiaolipu:脚力铺
 jiaoliu:角柳
@@ -6821,6 +6920,8 @@ jiaotong university history museum:交大校史博物館
 jiaotong university history museum:交大校史博物馆
 jiaotong university road:交通大学路
 jiaotong university road:交通大學路
+jiaotong university:交通大学
+jiaotong university:交通大學
 jiaotong university·xingqing palace:jiaotongdaxue·xingqinggong
 jiaotong university·xingqing palace:交通大学·兴庆宫
 jiaotong:jiāotōng jiēdào
@@ -6874,6 +6975,7 @@ jiaoxi hot spring square:礁溪溫泉廣場
 jiaoxi li:礁溪里
 jiaoxi railway station:礁溪車站
 jiaoxi river:jiāoxī hé
+jiaoxi station:礁溪站
 jiaoxi subdistrict:焦西街道
 jiaoxi township:礁溪鄉
 jiaoxi village:礁溪里
@@ -7017,6 +7119,7 @@ jiaozhou city:胶州市
 jiaozhou city:膠州市
 jiaozhou nord:胶州北
 jiaozhou north railway station:胶州北站
+jiaozhou north:胶州北
 jiaozhou road 125 long no. 5:胶州路175弄11号
 jiaozhou road:jiāozhōu lù
 jiaozhou road:胶州路
@@ -7062,6 +7165,7 @@ jiaoziyu:教子峪
 jiaozuo film and television city:焦作影视城
 jiaozuo museum:焦作市博物館
 jiaozuo railway station:焦作站
+jiaozuo west:焦作西
 jiaozuo yuntai primary school:焦作市云台小学
 jiaozuo-tanghe expressway:焦唐高速
 jiaozuo:jiāozuò shì
@@ -7205,6 +7309,7 @@ jiashan county:jiāshàn xiàn
 jiashan county:嘉善
 jiashan county:嘉善县
 jiashan county:嘉善縣
+jiashan county:嘉山县
 jiashan culture and art center:嘉善文化艺术中心
 jiashan culture and art center:嘉善文化藝術中心
 jiashan dujuan primary school:嘉善县第四中学
@@ -7278,6 +7383,7 @@ jiashan road station:嘉善路站
 jiashan road:jiàshān lù
 jiashan road:假山路
 jiashan road:嘉善路
+jiashan road:嘉山路
 jiashan road:甲山路
 jiashan rural commercial bank:嘉善县农商银行
 jiashan science and technology school:嘉善信息技术工程学校
@@ -7545,6 +7651,7 @@ jiawushan:嘉武山
 jiaxi 2nd lane:加錫二巷
 jiaxi 3rd lane:加錫三巷
 jiaxi monastery:甲西寺
+jiaxi station:甲西站
 jiaxi station:贾西站
 jiaxi subdistrict:jiāxī jiēdào
 jiaxi subdistrict:佳西街道
@@ -7600,9 +7707,13 @@ jiaxin village:嘉新里
 jiaxin:加信
 jiaxin:加信镇
 jiaxing airport:嘉兴南湖机场
+jiaxing airport:嘉兴机场
+jiaxing airport:嘉興機場
 jiaxing bridge:嘉興大橋
 jiaxing catholic church:嘉兴圣母显灵堂
 jiaxing community:佳興新村
+jiaxing county:嘉兴县
+jiaxing county:嘉興县
 jiaxing elementary school:嘉兴国小
 jiaxing elementary school:嘉興國小
 jiaxing highway service road:jiāxíng gōnglù fǔlù
@@ -7629,11 +7740,17 @@ jiaxing road:甲興路
 jiaxing shaoxing sea bridge:嘉绍大桥
 jiaxing south railway station:嘉兴南站
 jiaxing south:南嘉興
+jiaxing south:嘉兴南
+jiaxing stadium:嘉兴体育场
+jiaxing stadium:嘉兴体育馆
+jiaxing stadium:嘉兴市体育场
+jiaxing stadium:嘉興體育場
 jiaxing street:嘉興街
 jiaxing supermarket:嘉兴超市
 jiaxing tower:嘉兴大厦
 jiaxing tram:嘉兴有轨电车
 jiaxing united meeting office:嘉興集會所
+jiaxing university:嘉兴大学
 jiaxing village:佳興村
 jiaxing village:佳興里
 jiaxing village:加興村
@@ -7767,6 +7884,7 @@ jiayou:加尤镇
 jiayoucun:驾游村
 jiayu cold noodle:佳郁涼麵
 jiayu county:嘉魚
+jiayu county:嘉魚县
 jiayu county:嘉魚縣
 jiayu county:嘉鱼县
 jiayu lane:嘉遇巷
@@ -8415,6 +8533,7 @@ jiedong county:jiēdōng xiàn
 jiedong county:揭东区
 jiedong county:揭東
 jiedong county:揭東區
+jiedong county:揭東县
 jiedong district:jiēdōng qū
 jiedong district:揭东区
 jiedong district:揭東
@@ -9062,6 +9181,7 @@ jieyang city:jiēyáng shì
 jieyang city:揭阳市
 jieyang city:揭陽
 jieyang city:揭陽市
+jieyang county:揭陽县
 jieyang south:揭阳南
 jieyang tower:揭阳楼
 jieyang:jiēyáng shì
@@ -9590,14 +9710,17 @@ jijeong-myeon:地正面
 jijeong-myeon:芝正面
 jijeung of silla:智證王
 jijhong police station:繼中派出所
+jiji earthquake:集集地震
 jiji green tunnel west entrance:集集綠色隧道西口
 jiji la kuwait:科威特市
 jiji line:集集線
+jiji line:集集线
 jiji military history park:集集軍史公園
 jiji press:時事通信社
 jiji primary school:集集國小
 jiji railway station:集集車站
 jiji river water resources museum:集集攔河堰水資源館
+jiji station:集集站
 jiji township:jíjí zhèn
 jiji township:集集鎮
 jiji village:集集里
@@ -9759,6 +9882,7 @@ jijie:鸡街乡
 jijie:鸡街镇
 jijiebaolong primary school:集街宝龙小学
 jijiezi:鸡街子
+jijiga airport:吉吉加機場
 jijiga:吉吉加
 jijigacun:吉吉嘎村
 jijigacungoukou:吉吉嘎村沟口
@@ -9868,6 +9992,7 @@ jili bridge:吉利桥
 jili high-tech industrial development zone:jili gaoxin qu
 jili high-tech industrial development zone:吉利高新区
 jili lake:吉力湖
+jili language:智利语言
 jili north street:基立北街
 jili reservoir:jílì shuǐkù
 jili reservoir:吉利水库
@@ -9928,6 +10053,8 @@ jilin avenue:吉林大路
 jilin bank (changchun hongqi street sub-branch):jílín yínháng (chángchūn hóngqí jiē zhīháng)
 jilin bank (changchun hongqi street sub-branch):吉林銀行（長春紅旗街支行）
 jilin bank (changchun hongqi street sub-branch):吉林银行（长春红旗街支行）
+jilin bank:吉林銀行
+jilin bank:吉林银行
 jilin baoyuanfeng poultry plant fire:吉林寶源豐禽業公司火災
 jilin bridge:jílín qiáo
 jilin bridge:吉林桥
@@ -9990,6 +10117,7 @@ jilin road:jílín dàlù
 jilin road:吉林大路
 jilin road:吉林路
 jilin s201 suidong highway (to dongqing):吉林s201绥东线（往东清）
+jilin samsung:吉林三星
 jilin songhuahu ski field:萬科松花湖滑雪場
 jilin south avenue:吉林南大道
 jilin sport university (nanling campus):吉林体育学院（南岭校区）
@@ -9999,7 +10127,9 @@ jilin street:吉林街
 jilin street:景林街
 jilin subdistrict:jílín jiēdào
 jilin subdistrict:吉林街道
+jilin team:吉林省队
 jilin television:吉林广播电视台
+jilin township:吉林鎮區
 jilin township:鸡林朝鲜族乡
 jilin tv and radio center:jílín guǎngdiàn
 jilin tv and radio center:吉林广电
@@ -10015,6 +10145,7 @@ jilin university of finance and economics:吉林财经大学
 jilin university of technology:吉林工业大学
 jilin university press:吉林大学出版社
 jilin university:吉林大学
+jilin university:吉林大學
 jilin village:吉林里
 jilin village:雞林里
 jilin vocational and technical college:吉林职业技术学院
@@ -10091,6 +10222,7 @@ jilong reservoir:jílóng shuǐkù
 jilong reservoir:吉隆水库
 jilong reservoir:骑龙水库
 jilong river bridge:吉隆河大桥
+jilong river:吉隆河
 jilong river:暨龙河
 jilong road section 1:基隆路一段
 jilong road station:基隆路站
@@ -10234,6 +10366,7 @@ jim corbet:吉姆科比特
 jim costa:吉姆科斯塔
 jim crawford:吉姆克劳福德
 jim currently:吉姆目前
+jim davis:吉姆戴維斯
 jim davis:吉姆戴维斯
 jim decided:吉姆决定
 jim do:吉姆做
@@ -10347,6 +10480,7 @@ jim took:吉姆拿
 jim volunteer:吉姆志愿者
 jim was well known:吉姆是众所周知的
 jim watson:吉姆沃森
+jim west:吉姆西
 jim when she:吉姆当她
 jim white:吉姆白色
 jim will tell you:吉姆会告诉你
@@ -10447,6 +10581,7 @@ jimei software park:集美软件园
 jimei street:集美街
 jimei university:jíměi dàxué
 jimei university:集美大学
+jimei university:集美大學
 jimei xiuyangyuan:jì méi xiūyǎng yuàn
 jimei:jíměi qū
 jimei:集美
@@ -10500,6 +10635,7 @@ jimisar:吉木薩爾縣
 jimitila road:吉米提拉路
 jimiyu:积米峪
 jimki:希姆基
+jimma airport:吉馬機場
 jimma bethel mekane eyesus church:吉姆玛·贝瑟尔·梅坎·埃苏斯教堂
 jimma zone:吉馬地區
 jimma:吉姆马
@@ -10551,6 +10687,7 @@ jimmy eat:吉米吃
 jimmy find:吉米发现
 jimmy from:吉米从
 jimmy fund:吉米基金
+jimmy gales:吉米威尔士
 jimmy give:吉米给
 jimmy grant:吉米格兰特
 jimmy had been:吉米已经
@@ -10581,6 +10718,7 @@ jimmy nah:蓝钦熹
 jimmy ng:吳永嘉
 jimmy notice:吉米注意
 jimmy offer:吉米提供
+jimmy onishi:吉米大西
 jimmy onishi:大西秀明
 jimmy open:吉米打开
 jimmy osmond:吉米奥斯蒙德
@@ -10619,6 +10757,7 @@ jimmy uses:吉米使用
 jimmy wait:吉米等
 jimmy wales:吉米威尔士
 jimmy walker:吉米沃克
+jimmy wallis:吉米威尔士
 jimmy wang yu:王羽
 jimmy want:吉米想要
 jimmy what:吉米什么
@@ -10627,6 +10766,8 @@ jimmy will:吉米会
 jimmy ye:葉良俊
 jimmy you:吉米你
 jimmy:吉米
+jimo city:即墨城市
+jimo county:即墨县
 jimo road:即墨路
 jimo:jímò qū
 jimo:即墨
@@ -10989,6 +11130,7 @@ jin-čchuan:银川市
 jin-šan:阴山
 jina station:地名站
 jina:吉那
+jinae station:池內站
 jinae station:池内站
 jinae-ri:珍爱里
 jinae:池內
@@ -11002,9 +11144,11 @@ jinajishan:基那吉山
 jinaluo:吉那洛
 jinam-ri:指南里
 jinan &jinshan intersection:濟南金山路口
+jinan airport:济南机场
 jinan beef noodles:濟南牛肉麵
 jinan botanical garden:济南植物园
 jinan bus station:长途汽车总站
+jinan campaign:济南战役
 jinan changqing district hospital of tcm:中医院
 jinan city art museum:济南市美术馆
 jinan city library:济南市图书馆新馆
@@ -11013,6 +11157,7 @@ jinan city people's hospital:市人民医院
 jinan city people's hospital:市医院
 jinan city planning museum:济南市规划馆
 jinan commandery:濟南郡
+jinan county:济南县
 jinan county:鎮安郡
 jinan cultural museum:济南市文化馆
 jinan dental hospital:济南市口腔医院
@@ -11022,6 +11167,7 @@ jinan east bus station:长途汽车东站
 jinan east interchange:济南东立交
 jinan east railway station:济南东站
 jinan east service area:济南东服务区
+jinan east:济南东
 jinan electricity company building:济南电力公司大厦
 jinan engineering polytechnic:工程学院
 jinan evergrande international finance center:济南恒大国际金融中心（在建）
@@ -11048,6 +11194,7 @@ jinan laiwu stomatological hospital:加榜口腔高庄门诊
 jinan laiwu stomatological hospital:济南莱芜口腔医院
 jinan luoyuan muslim community:泺源回民小区
 jinan luoyuan muslim community:濼源回民小區
+jinan marathon:济南马拉松
 jinan martyr's park:冀南烈士陵园
 jinan metor line 1:济南轨道交通1号线
 jinan metro line 1:济南轨道交通1号线
@@ -11061,6 +11208,7 @@ jinan mingshui eye hospital:明水眼科医院
 jinan mingshui eye hospital:眼科医院
 jinan motel:镇安旅馆
 jinan mt.hua historical cultural wetland park:济南市华山历史文化湿地公园
+jinan museum:济南市博物馆
 jinan new area nanchengxiang middle school:省冀南新区南城乡中学
 jinan new area:冀南新区
 jinan no.2 elder college:老年大学
@@ -11541,6 +11689,7 @@ jinan railway station square bus station:济南火车站广场汽车站
 jinan railway station west square:济南西站西广场
 jinan railway station west square:濟南西站西廣場
 jinan railway station:济南站
+jinan railway:济南铁路
 jinan rd & shaoxing s. st intersection:jìnánshàoxìnglùkǒu
 jinan rd & shaoxing s. st intersection:ㄐㄧˋㄋㄢˊㄕㄠˋㄒㄧㄥˋㄌㄨˋㄎㄡˇ
 jinan rd & shaoxing s. st intersection:济南绍兴路口
@@ -11558,7 +11707,9 @@ jinan round city expressway:济南绕城高速
 jinan round city expressway:濟南繞城高速
 jinan street:jìnán jiē
 jinan street:济南街
+jinan taishan:济南泰山
 jinan temple:金安宮
+jinan tiansheng:济南天盛
 jinan tourism distrbution center:济南旅游集散中心
 jinan traffic technician college crossing:技校路口
 jinan traffic technician college:交通技校
@@ -11580,6 +11731,7 @@ jinan university (shipai campus):暨南大学(石牌校区)
 jinan university (zhuhai campus):暨南大学(珠海校区)
 jinan university library:暨南大学图书馆
 jinan university:暨南大学
+jinan university:济南大学
 jinan village:濟南里
 jinan waste disposal center:济南废弃物处理中心
 jinan west (jinanxi) railway station:济南西站
@@ -11588,6 +11740,7 @@ jinan west railway station east square:济南西站东广场
 jinan west railway station east square:濟南西站東廣場
 jinan west railway station:济南西站
 jinan west railway station:濟南西站
+jinan west:济南西
 jinan women & children hospital:济南妇儿医院
 jinan yaoqiang airport extension project construction zone:济南遥墙国际机场扩建区
 jinan yaoqiang international airport(tna):济南遥墙国际机场
@@ -11864,6 +12017,7 @@ jincheng avenue:锦城大道
 jincheng bridge:jīnchéng dà qiáo
 jincheng bridge:金城橋
 jincheng bus station visitor center:金城車站服務中心
+jincheng campaign:金城战役
 jincheng civil defense tunnel:金城民防坑道
 jincheng dajie:jǐnchéng dàjiē
 jincheng dajie:锦程大街
@@ -11871,6 +12025,7 @@ jincheng east bus station:晋城市客运东站
 jincheng east railway station:晋城东站
 jincheng east road:jīnchéng dōng lù
 jincheng east road:金城东路
+jincheng east:晋城东
 jincheng education bureau:晋城市教育局
 jincheng education:晋城市教育
 jincheng garden bus terminal(dongfengdong):锦城花园(东风东)公交站场
@@ -11932,6 +12087,7 @@ jincheng town:金城镇
 jincheng township administration:金城鎮公所
 jincheng township:jīnchéng zhèn
 jincheng township:金城鎮
+jincheng township:金城鎮區
 jincheng township:金城镇
 jincheng tunnel entrance:金城民防坑道入口
 jincheng tunnel exit:金城民防坑道出口
@@ -12021,6 +12177,7 @@ jinchuan campaigns:大小金川之役
 jinchuan county:jīnchuān xiàn
 jinchuan county:金川县
 jinchuan county:金川縣
+jinchuan county:锦川县
 jinchuan district:金川区
 jinchuan district:金川區
 jinchuan group:金川集团
@@ -12265,6 +12422,8 @@ jinding shan:金顶山
 jinding south road:jīn dǐng nán lù
 jinding south road:金顶南路
 jinding street subdistrict:金顶街街道
+jinding street:金顶街
+jinding street:金顶街道
 jinding:jīndǐng zhèn
 jinding:金定村
 jinding:金頂街道
@@ -12283,7 +12442,12 @@ jindingyinle square:金鼎音乐广场
 jindisancun:金地三村社区
 jindixia:浸底下
 jindiyicun:金地一村社区
+jindo county:珍岛县
 jindo county:珍島郡
+jindo dog:珍岛犬
+jindo dog:珍岛狗
+jindo dog:珍島犬
+jindo dog:珍島狗
 jindo-eup:珍岛邑
 jindo-eup:珍島邑
 jindo-gun:珍岛郡
@@ -12448,6 +12612,7 @@ jinfeng road:金豐路
 jinfeng road:锦峰路
 jinfeng shan:金凤山
 jinfeng south street:金凤南大街
+jinfeng station:金凤站
 jinfeng station:金峰站
 jinfeng street:進豐街
 jinfeng street:金凤街
@@ -12804,6 +12969,7 @@ jingai san no yome:人外的新娘
 jingal:抬槍
 jingan line:金赣线
 jingan metro station:景安站
+jingan station:景安站
 jingan temple:靖安宮
 jingan:jǐng ān
 jingan:景安
@@ -13031,6 +13197,7 @@ jingdangwan:井垱湾
 jingdashan:jīngdàshān
 jingdashan:ㄐㄧㄥㄉㄚˋㄕㄢ
 jingdashan:京大山
+jingde county:敬德县
 jingde county:旌德
 jingde county:旌德县
 jingde county:旌德縣
@@ -13049,9 +13216,11 @@ jingde:旌德
 jingde:旌德县
 jingde:旌德縣
 jingde:景德
+jingdezhen airport:景德鎮機場
 jingdezhen ceramic university:景德镇陶瓷大学
 jingdezhen luojia airport:景德镇罗家机场
 jingdezhen north railway station:景德镇北站
+jingdezhen porcelain:景德鎮瓷器
 jingdezhen porcelain:景德镇陶瓷
 jingdezhen shi:jǐngdézhèn shì
 jingdezhen shi:景德鎮
@@ -13182,6 +13351,9 @@ jinggang dadao beijie:井岗大道北街站
 jinggang dadao nanjie entrance:井岗大道南街口站
 jinggang east road:井岗东路
 jinggang high-speed line:京港高速线
+jinggang mountain:井冈山
+jinggang mountain:井岗山
+jinggang mountain:景岗山
 jinggang mountains nature reserve:井冈山风景名胜区
 jinggang mountains:井冈山
 jinggang road:警钢路
@@ -13247,6 +13419,7 @@ jinggoushan:井沟山
 jinggouwan:井沟湾
 jinggouzi:井沟子
 jinggu bus terminal:景谷客运站
+jinggu county:景谷县
 jinggu dai and yi autonomous county:jǐnggǔ dǎizú yízú zìzhìxiàn
 jinggu dai and yi autonomous county:景谷傣族彝族自治县
 jinggu dai and yi autonomous county:景谷傣族彝族自治縣
@@ -13343,11 +13516,13 @@ jingha line:京哈线
 jingha:jǐnghā hānízú xiāng
 jingha:景哈哈尼族乡
 jingha:景哈哈尼族鄉
+jinghai county:静海县
 jinghai district:jìnghǎi qu
 jinghai district:静海区
 jinghai district:靜海區
 jinghai east road:靖海东路
 jinghai economic development zone:静海经济开发区
+jinghai jiedushi:静海节度使
 jinghai lu entrance:靖海路口
 jinghai lu station:经海路站
 jinghai middle road:靖海中路
@@ -13356,6 +13531,7 @@ jinghai road:静海路
 jinghai shangmao jie:静海商贸街
 jinghai station:京海站
 jinghai station:靖海站
+jinghai station:静海站
 jinghai temple:静海寺
 jinghai town:静海镇
 jinghai:jìnghǎi zhàn
@@ -13365,6 +13541,7 @@ jinghai:静海区
 jinghai:静海镇
 jinghai:靜海區
 jinghai:靜海鎮
+jinghailu station:经海路站
 jinghailu:jīnghăilù
 jinghailu:經海路
 jinghailu:经海路
@@ -13395,6 +13572,8 @@ jinghe senior high school:ㄐㄧㄣˇㄏㄜˊㄍㄠㄓㄨㄥ
 jinghe senior high school:錦和高中
 jinghe senior high school:锦和高中
 jinghe station:径河站
+jinghe station:泾河站
+jinghe station:精河站
 jinghe street:景和街
 jinghe subdistrict:jìnghé jiēdào
 jinghe subdistrict:径河街道
@@ -13616,6 +13795,7 @@ jingjian road:經建路
 jingjian supermarket:精简超市
 jingjian:经建乡
 jingjiancun:井建村
+jingjiang county:靖江县
 jingjiang dadi:荆江大堤
 jingjiang princes' city:靖江王城
 jingjiang railway station:靖江站
@@ -14005,6 +14185,7 @@ jingmei sports park:jǐngměiyùndònggōngyuán
 jingmei sports park:ㄐㄧㄥˇㄇㄟˇㄩㄣˋㄉㄨㄥˋㄍㄨㄥㄩㄢˊ
 jingmei sports park:景美运动公园
 jingmei sports park:景美運動公園
+jingmei station:景美站
 jingmei stream bridge:景美溪橋
 jingmei street:景美街
 jingmei street:精美街
@@ -14021,6 +14202,7 @@ jingmen shi:荆门市
 jingmen shi:荊門
 jingmen shi:荊門市
 jingmen static inverter plant:荊門換流站
+jingmen west:荆门西
 jingmen zhanghe airport:荆门漳河机场
 jingmen zhanghe airport:荊門漳河機場
 jingmen:jīngmén shì
@@ -14044,6 +14226,7 @@ jingmi road:jīngmì lù
 jingmi road:京密路
 jingmi road:荆秘路
 jingmi village park:景蜜村公园
+jingmian dam:鏡面水庫
 jingmian kaisheng temple:鏡面開聖宮
 jingmian reservoir:鏡面水庫
 jingmian:鏡面
@@ -14216,6 +14399,7 @@ jingpu 2:菁埔二
 jingpu bridge:菁埔橋
 jingpu community center:菁埔社区活动中心
 jingpu community center:菁埔社區活動中心
+jingpu culture:靜浦文化
 jingpu road:jìngpǔlù
 jingpu road:泾朴路
 jingpu village:菁埔村
@@ -14294,6 +14478,7 @@ jingsan road:经三路
 jingsha avenue:jīngshā dàdào
 jingshan bridge:景山橋
 jingshan city:京山市
+jingshan county:京山县
 jingshan entrance:景山入口
 jingshan experimental school:景山实验学校
 jingshan fore street:景山前街
@@ -14306,6 +14491,7 @@ jingshan li 3:菁山里三
 jingshan line:经山线
 jingshan park:景山公园
 jingshan park:景山公園
+jingshan railway:京山铁路
 jingshan rd:径山路
 jingshan recreation area 1:菁山遊憩區一
 jingshan recreation area:菁山遊憩區
@@ -14322,6 +14508,7 @@ jingshan road:荆山路
 jingshan road:菁山路
 jingshan rock:鏡山岩
 jingshan rock:镜山岩
+jingshan school:景山学校
 jingshan service area:京山服务区
 jingshan stop 1:菁山一
 jingshan stop 2:菁山二
@@ -14333,6 +14520,7 @@ jingshan subdistrict:京山街道
 jingshan subdistrict:景山街道
 jingshan subdistrict:荆山街道
 jingshan suspension bridge:菁山吊橋
+jingshan temple:井山庙
 jingshan temple:敬山宮
 jingshan the ninth:鯨山覲海
 jingshan the ninth:鲸山觐海
@@ -14363,6 +14551,7 @@ jingshancun:荆山村
 jingshang:井上
 jingshang:井上村
 jingshang:景尚乡
+jingshangcun station:井上村站
 jingshangcun:井上村
 jingshangcun:京上村
 jingshangcun:敬上村
@@ -14416,6 +14605,7 @@ jingsin lake:静心湖
 jingsin lake:靜心湖
 jingsiou street:景秀街
 jingsong road:劲松路
+jingsong station:劲松站
 jingsong:劲松
 jingstin Ôrûi:景斯特敖瑞
 jingsyue 1st street:進學一街
@@ -14429,6 +14619,7 @@ jingtai county:景泰縣
 jingtai east road:景泰东路
 jingtai emperor's change of heirs apparent:景泰易储
 jingtai emperor:景泰帝
+jingtai emperor:景泰皇帝
 jingtai exhibition center:景泰创展中心
 jingtai expressway:京台高速
 jingtai expressway:京台高速公路
@@ -14437,6 +14628,7 @@ jingtai mausoleum:景泰陵
 jingtai no.4 middle school:景泰县第四中学
 jingtai north street:景泰北街
 jingtai road:景泰路
+jingtai station:景泰站
 jingtai straight street:景泰直街
 jingtai street:景泰大街
 jingtai street:景泰街
@@ -14543,6 +14735,7 @@ jingtong line:京通线
 jingtong line:京通鐵路
 jingtong old street:菁桐老街
 jingtong railway station:菁桐車站
+jingtong station:菁桐站
 jingtong village:菁桐里
 jingtong:jīng tóng
 jingtong:荊桐
@@ -14780,6 +14973,7 @@ jingwu station(jingwu road):精武車站(精武路)
 jingwu station(nanjing e. road):精武車站(南京東路)
 jingwu station:jīngwǔchēzhàn
 jingwu station:ㄐㄧㄥㄨˇㄔㄜㄓㄢˋ
+jingwu station:精武站
 jingwu station:精武車站
 jingwu station:精武车站
 jingwu-jinhua intersection:精武進化路口
@@ -14799,6 +14993,7 @@ jingxi building:景西大厦
 jingxi circuit:京西路
 jingxi city:jìngxī xiàn
 jingxi city:靖西市
+jingxi county:靖西县
 jingxi hotel:京西宾馆
 jingxi longbang experimental school:靖西龙邦实验学校
 jingxi lu entrance:京溪路口
@@ -15029,6 +15224,7 @@ jingxincun:径心村
 jingxing county:jǐngxíng xiàn
 jingxing county:井陉县
 jingxing county:井陘縣
+jingxing county:景星县
 jingxing elementary schoo:景興國小
 jingxing formation:景星组
 jingxing holdings (m) sdn bhd:景兴控股（马）有限公司
@@ -15137,6 +15333,7 @@ jingyang alley:景阳胡同
 jingyang basin (muma):泾洋河流域
 jingyang community:景阳社区
 jingyang county:jīngyáng xiàn
+jingyang county:旌阳县
 jingyang county:泾阳县
 jingyang county:涇陽縣
 jingyang district:jīngyáng qū
@@ -15385,6 +15582,7 @@ jingzhongcun:景中村
 jingzhongcun:荆中村
 jingzhou ancient city:荆州城墙
 jingzhou confucius temple:荆州文庙
+jingzhou county:靖州县
 jingzhou district:jīngzhōu qū
 jingzhou district:荆州区
 jingzhou district:荊州區
@@ -15399,6 +15597,7 @@ jingzhou miao and dong autonomous county:靖州苗族侗族自治縣
 jingzhou miao dong:靖州
 jingzhou miao dong:靖州苗族侗族自治县
 jingzhou miao dong:靖州苗族侗族自治縣
+jingzhou museum:荆州市博物馆
 jingzhou road:jìngzhōu lù
 jingzhou road:竞舟路
 jingzhou road:荆州路
@@ -15782,10 +15981,14 @@ jinhua ave:金华大道
 jinhua building:金华大厦
 jinhua building:金華大廈
 jinhua building:锦华大厦
+jinhua county:金华县
 jinhua court:金华阁
+jinhua dialect:金華方言
 jinhua dialect:金華話
+jinhua east:金华东
 jinhua electronic plaza:金华数码广场
 jinhua experimental primary school:金华实验小学
+jinhua ham:金华火腿
 jinhua ham:金華火腿
 jinhua hotel:金花大酒店
 jinhua junior high school:金华国中
@@ -15839,11 +16042,18 @@ jinhua road:锦华路
 jinhua road:锦花路
 jinhua secondary substation:仁化二次變電所
 jinhua south street:金华南街
+jinhua south:金华南
+jinhua south:金華南
 jinhua square (xingjin rd.):jìnhuàguǎngchǎng(xìngjìnlù)
 jinhua square (xingjin rd.):ㄐㄧㄣˋㄏㄨㄚˋㄍㄨㄤˇㄔㄤˇ(ㄒㄧㄥˋㄐㄧㄣˋㄌㄨˋ)
 jinhua square (xingjin rd.):进化广场(兴进路)
 jinhua square (xingjin rd.):進化廣場(興進路)
 jinhua stadium:金华体育中心
+jinhua station:金华乡站
+jinhua station:金华站
+jinhua station:金华镇站
+jinhua station:金花站
+jinhua station:金華站
 jinhua straße:jǐn huá jiē
 jinhua street:jīnhuá jiē
 jinhua street:jǐn huá jiē
@@ -15984,6 +16194,8 @@ jinichi kusaka:草鹿任一
 jiniling road:金鸡岭街
 jinin-dong:眞仁洞
 jinin-dong:真仁洞
+jining airport:济宁机场
+jining airport:集宁机场
 jining auto:济宁市汽车
 jining coach terminal:集宁长途汽车站
 jining da'an airport:济宁大安机场
@@ -16008,6 +16220,7 @@ jining road:济宁路
 jining software:济宁市软件
 jining south railway station:集宁南站
 jining south ring highway:集宁南绕城公路
+jining south:集宁南
 jining youth entrepreneurs association:济宁市青年企业家协会
 jining youth:济宁市青年
 jining-ningde highway:济宁线
@@ -16177,13 +16390,19 @@ jinjianacun:靳家那村
 jinjiang & shida roads:晉江師大路口
 jinjiang & shida roads:晋江师大路口
 jinjiang action park:锦江乐园
+jinjiang airport:晉江機場
+jinjiang airport:晋江机场
 jinjiang avenue:缙江大道
 jinjiang avenue:金江大道
+jinjiang bridge:金江桥
 jinjiang building:锦江大厦
 jinjiang city:jìnjiāng shì
 jinjiang city:晉江
 jinjiang city:晉江市
 jinjiang city:晋江市
+jinjiang county:晉江县
+jinjiang county:晋江县
+jinjiang county:锦江县
 jinjiang district:jǐnjiāng qū
 jinjiang district:錦江區
 jinjiang district:锦江区
@@ -16196,8 +16415,10 @@ jinjiang hotel station:锦江宾馆站
 jinjiang hotel tunnel:锦江宾馆隧道
 jinjiang hotel:jǐnjiāng bīnguǎn
 jinjiang hotel:jǐnjiāng dà jiǔdiàn
+jinjiang hotel:錦江酒店
 jinjiang hotel:錦江飯店
 jinjiang hotel:锦江宾馆
+jinjiang hotel:锦江酒店
 jinjiang hotel:锦江饭店
 jinjiang inn - ningbo tianyi:锦江之星宁波天一店
 jinjiang inn lower section road:錦江之星路下段
@@ -16209,6 +16430,7 @@ jinjiang inn:锦江之星北京天坛店
 jinjiang inn:锦江之星品尚
 jinjiang inn:锦江酒店
 jinjiang international hotel:锦江国际饭店
+jinjiang international:锦江国际
 jinjiang international:锦江国际集团
 jinjiang mansion:jǐnjiāng dàshà
 jinjiang mosque:金江清真寺
@@ -16230,9 +16452,15 @@ jinjiang road:襟江路
 jinjiang road:錦江路
 jinjiang road:锦江路
 jinjiang sichuan opera:锦江剧场
+jinjiang stadium:晉江體育場
 jinjiang star:錦江之星
 jinjiang star:锦江之星
+jinjiang station:晉江站
+jinjiang station:晋江站
 jinjiang station:近江站
+jinjiang station:金江站
+jinjiang station:錦江站
+jinjiang station:锦江站
 jinjiang street east:东锦江街
 jinjiang street:晉江街
 jinjiang tower hotel:錦江飯店
@@ -16698,7 +16926,9 @@ jinlong boulevard:锦龙大道
 jinlong branch road:锦龙支路
 jinlong bridge:金龍橋
 jinlong bridge:金龍橋頭
+jinlong bridge:金龙桥
 jinlong bridge:金龙桥头
+jinlong bridge:錦龍橋
 jinlong building:錦龍樓
 jinlong building:锦龙楼
 jinlong commercial building:金龙大厦
@@ -16744,6 +16974,7 @@ jinlong road:錦隆路
 jinlong road:锦隆路
 jinlong road:锦龙路
 jinlong shuiku:金龙水库
+jinlong station:金龙站
 jinlong station:锦龙站
 jinlong street:金龍街
 jinlong street:金龙街
@@ -16827,6 +17058,7 @@ jinluen river:金崙溪
 jinlun bridge:金崙大橋
 jinlun guild hall:锦纶会馆
 jinlun railway station:金崙車站
+jinlun station:金崙站
 jinlun subdistrict:锦纶街道
 jinlun village:金崙村
 jinlun:jīn lún
@@ -16933,6 +17165,7 @@ jinmei:金梅
 jinmeicun:金美村
 jinmeigu:金美古
 jinmen 2nd street:金門二街
+jinmen island:金门岛
 jinmen road:金民路
 jinmen road:金門路
 jinmen road:金门路
@@ -17066,11 +17299,14 @@ jinniu east road bus depot (gate m):金牛东综合停车场 (中门上客区)
 jinniu east road bus depot (gate s):金牛东综合停车场 (南门上客区)
 jinniu east road:金牛东路
 jinniu east-jinlan road crossing:金牛东金兰路口
+jinniu energy:金牛能源
 jinniu island:金牛岛
+jinniu lake:金牛湖
 jinniu middle road:金牛中路
 jinniu new village south road:金牛新村南路
 jinniu park:金牛公园
 jinniu road:金牛路
+jinniu stadium:金牛体育场
 jinniu west road:金牛西路
 jinniu-chuangjing road crossing:金牛创景路口
 jinniu-pingle road crossing:金牛平乐路口
@@ -17086,6 +17322,7 @@ jinniuhe:金牛河
 jinniuhu station:金牛湖站
 jinniuhu:金牛湖街道
 jinniulache:金牛拉车
+jinniushan human:金牛山人
 jinniushan reservoir:金牛山水库
 jinniushan:金牛山
 jinniushan:金牛山遗址
@@ -17138,6 +17375,7 @@ jinpanling driving school:金盘岭教练场站
 jinpanling tunnel:金盘岭隧道
 jinpanling:金盘岭镇
 jinpantai:金盘台
+jinpen dam:金盆水库
 jinpen reservoir:金盆水库
 jinpen:jīnpén jiēdào
 jinpen:jīnpén miáozú yízú xiāng
@@ -17174,6 +17412,9 @@ jinping avenue:锦屏大道
 jinping bridge:錦屏大橋
 jinping commandery:晋平郡
 jinping community center:錦屏村集會所
+jinping county:金平县
+jinping county:锦屏县
+jinping county:锦平县
 jinping district government:金平区人民政府
 jinping district post office:金平区邮局
 jinping district:jīnpíng qū
@@ -17197,6 +17438,7 @@ jinping river:jīnpíng hé
 jinping river:金平河
 jinping road station:金平路站
 jinping road:金坪路
+jinping road:金平路
 jinping road:锦屏路
 jinping shan:锦屏山
 jinping street:錦屏街
@@ -17247,6 +17489,8 @@ jinpingshan headrace tunnel 1:锦屏二级水电站1号引水隧洞
 jinpingshan headrace tunnel 2:锦屏二级水电站2号引水隧洞
 jinpingshan headrace tunnel 3:锦屏二级水电站3号引水隧洞
 jinpingshan headrace tunnel 4:锦屏二级水电站4号引水隧洞
+jinpingshan tunnel:錦屏山隧道
+jinpingshan tunnel:锦屏山隧道
 jinpingshan:jīnpíngshān
 jinpingshan:jǐnpíngshān
 jinpingshan:ㄐㄧㄣˇㄆㄧㄥˊㄕㄢ
@@ -17459,14 +17703,17 @@ jinsha garden:金沙花园
 jinsha harbor:津沙港
 jinsha huancun east road:锦厦环村东路
 jinsha huancun west road:锦厦环村西路
+jinsha jiang:金沙江
 jinsha jinan temple:金砂金安宮
 jinsha junior high school:金沙國中
 jinsha lake side hotel:金沙湖畔商務大飯店
+jinsha lake:金沙湖
 jinsha leaf litter toad:金沙掌突蟾
 jinsha lu:金沙路
 jinsha middle road:jīnshā zhōnglù
 jinsha middle road:金砂中路
 jinsha mingdu:金沙名都
+jinsha museum:金沙博物馆
 jinsha nan lu:金沙南路
 jinsha new town:金沙新城
 jinsha north road:金沙北路
@@ -17475,6 +17722,7 @@ jinsha park:jīnshā gōngyuán
 jinsha park:金沙公园
 jinsha park:金沙公園
 jinsha pedestrian street:锦厦步行街
+jinsha plaza:金沙廣場
 jinsha primary school:金沙小学
 jinsha reservoir:津沙水庫
 jinsha reservoir:金沙水庫
@@ -17484,6 +17732,7 @@ jinsha river exit:金沙江退出
 jinsha river:jīnshā hé
 jinsha river:jīnshā jiāng
 jinsha river:金沙江
+jinsha river:金沙河
 jinsha road:津沙路
 jinsha road:金沙路
 jinsha road:锦厦路
@@ -17589,6 +17838,7 @@ jinshan chaozhou st. entrance:金山潮州街口
 jinshan citizen's square:锦山市民广场
 jinshan coach terminal:锦山汽车站
 jinshan community:金山社区
+jinshan county:金山县
 jinshan district middle school:金山中学
 jinshan district office:金山区公所
 jinshan district office:金山區公所
@@ -17626,6 +17876,7 @@ jinshan no.5 middle school:锦山五中
 jinshan north railway station:金山北站
 jinshan north road:近山北路
 jinshan north road:金山北路
+jinshan north:金山北
 jinshan nuclear power plant:第一核能發電廠
 jinshan parking lot(zhongxing rd):jīnshānlìtǐtíngchēchǎng(zhōngxìnglù)
 jinshan parking lot(zhongxing rd):ㄐㄧㄣㄕㄢㄌㄧˋㄊㄧˇㄊㄧㄥˊㄔㄜㄔㄤˇ(ㄓㄨㄥㄒㄧㄥˋㄌㄨˋ)
@@ -17663,12 +17914,15 @@ jinshan south street:金山南街
 jinshan sports centre:金山足球场
 jinshan st.(ji fu temple):金山街(集福宫)
 jinshan st.(ji fu temple):金山街(集福宮)
+jinshan stadium:金山体育场
+jinshan stadium:金山区体育场
 jinshan street:金山街
 jinshan subdistrict:jīnshān jiēdào
 jinshan subdistrict:金山街道
 jinshan temple:jīnshānsì
 jinshan temple:金天寺
 jinshan temple:金山寺
+jinshan temple:金山庙
 jinshan town government:金山镇政府
 jinshan town:金山镇
 jinshan township:金山鄉
@@ -17818,10 +18072,12 @@ jinshi bridge:金狮湖桥
 jinshi bridge:金獅橋
 jinshi bridge:金獅湖橋
 jinshi city:津市市
+jinshi city:金石城市
 jinshi east road:jīnshí dōng lù
 jinshi expressway:津石高速
 jinshi group:金石集团
 jinshi lake:金獅湖
+jinshi lake:金石湖
 jinshi lane:进士里
 jinshi li:jìnshì lǐ
 jinshi park(defang road):進士公園(德芳路)
@@ -17972,6 +18228,7 @@ jinsong five road:jìn sōng wǔ lù
 jinsong five road:劲松五路
 jinsong seven road:jìn sōng qī lù
 jinsong seven road:劲松七路
+jinsong station:劲松站
 jinsong subdistrict:劲松街道
 jinsong:jìnjōng zhèn
 jinsong:劲松
@@ -18053,10 +18310,12 @@ jintai:金臺區
 jintaichencun:金台陈村
 jintaicun:金台村
 jintaijie:金台街
+jintailu station:金台路站
 jintailu:jīntáilù
 jintailu:金台路
 jintaiquan:锦泰泉
 jintaishan:金台山村
+jintaixizhao station:金台夕照站
 jintaixizhao:金台夕照
 jintaiyang building materials expo city:金太阳建材博览城
 jintaiyuan:金泰苑社区
@@ -18337,8 +18596,11 @@ jinxi bridge:津溪大桥
 jinxi bridge:金谿橋
 jinxi county:jīnxī xiàn
 jinxi county:金溪县
+jinxi county:金西县
 jinxi county:金谿
+jinxi county:金谿县
 jinxi county:金谿縣
+jinxi county:锦溪县
 jinxi industrial area:金溪工业园区
 jinxi lu west:金禧路西站
 jinxi river:jīn xī
@@ -18403,6 +18665,7 @@ jinxian river:金线河
 jinxian road:进贤路
 jinxian road:進賢路
 jinxian south railway station:进贤南站
+jinxian south:进贤南
 jinxian spring:金線泉
 jinxian spring:金线泉
 jinxian street:金线街
@@ -18781,6 +19044,8 @@ jinyinqiao reservoir:金银桥水库
 jinyinshan:金银山街道
 jinyinshi village:金银石村
 jinyinshi:金银石村
+jinyintan hospital:金银潭医院
+jinyintan station:金银潭站
 jinyintan:金银滩镇
 jinyintan:金银潭
 jinyong court phase 1:金庸閣一期
@@ -18824,6 +19089,9 @@ jinyu mingdu building no. 9:金域名都 9 號樓
 jinyu qin society:今虞琴社
 jinyu road:金玉路
 jinyu road:金裕路
+jinyu station:金屿站
+jinyu station:金渝站
+jinyu station:金玉站
 jinyu street:金魚街
 jinyu street:金鱼街
 jinyu subdistrict:金宇街道
@@ -18959,6 +19227,8 @@ jinyun garden:金运花园
 jinyun garden:金運花園
 jinyun jiayuan:金运家园
 jinyun jiayuan:金運家園
+jinyun mountain:縉雲山
+jinyun mountain:缙云山
 jinyun railway station:缙云站
 jinyun railway:金筠线
 jinyun road station:金运路站
@@ -19133,7 +19403,9 @@ jinzhou no.7 middle school:晋州市第七中学
 jinzhou normal college:锦州师范高等专科学校
 jinzhou north road:金洲北路
 jinzhou park:錦州公園
+jinzhou prison:锦州监狱
 jinzhou province:錦州省
+jinzhou province:锦州省
 jinzhou railway station:锦州站
 jinzhou rd:jǐnzhōu lù
 jinzhou rd:锦州路
@@ -19141,11 +19413,13 @@ jinzhou road station:金周路站
 jinzhou road:jǐnzhōu lù
 jinzhou road:今洲路
 jinzhou road:金周路
+jinzhou road:金州路
 jinzhou road:金洲路
 jinzhou road:錦州路
 jinzhou road:锦州路
 jinzhou south railway station:锦州南站
 jinzhou south road:金洲南路
+jinzhou south:锦州南
 jinzhou st. & jilin rd. intersection:jǐnzhōujílínlùkǒu
 jinzhou st. & jilin rd. intersection:ㄐㄧㄣˇㄓㄡㄐㄧˊㄌㄧㄣˊㄌㄨˋㄎㄡˇ
 jinzhou st. & jilin rd. intersection:錦州吉林路口
@@ -19153,6 +19427,10 @@ jinzhou st. & jilin rd. intersection:锦州吉林路口
 jinzhou st. entrance:錦州街口
 jinzhou st. entrance:锦州街口
 jinzhou stadium:大连金州体育场
+jinzhou stadium:金州体育场
+jinzhou stadium:金州體育場
+jinzhou stadium:锦州体育场
+jinzhou stadium:锦州市体育场
 jinzhou station:晋州站
 jinzhou street connector:锦州街连接路
 jinzhou street:錦州街
@@ -19210,6 +19488,8 @@ jinzhu road 2nd. section:金珠路二段
 jinzhu road:金竹路
 jinzhu square:jǐnzhú guǎngchǎng
 jinzhu square:锦竹广场
+jinzhu station:金珠站
+jinzhu station:金竹站
 jinzhu stream:金竹溪
 jinzhu street:金竹街
 jinzhu village:金竹里
@@ -19535,6 +19815,8 @@ jiro taniguchi:谷口治郎
 jiro wang:汪東城
 jiroembashi station:治良門橋站
 jiroemon kimura:木村次郎右衛門
+jiroft civilization:吉羅夫特文明
+jiroft culture:吉羅夫特文化
 jiroft:吉羅夫特
 jiromaru:次郎丸
 jirond:吉倫特省
@@ -19675,6 +19957,8 @@ jishincheon:知新川
 jishishan bonan, dongxiang and salar autonomous county:jīshíshān bǎoānzú dōngxiāngzú sālāzú zìzhìxiàn
 jishishan bonan, dongxiang and salar autonomous county:积石山保安族东乡族撒拉族自治县
 jishishan bonan, dongxiang and salar autonomous county:積石山保安族東鄉族撒拉族自治縣
+jishishan earthquake:积石山县地震
+jishishan earthquake:積石山縣地震
 jishishan:jīshíshān bǎoānzú dōngxiāngzú sālāzú zìzhìxiàn
 jishishan:积石山保安族东乡族撒拉族自治县
 jishishan:积石山县
@@ -19686,6 +19970,7 @@ jishixia reservoir:积石峡水库
 jishixiangcun:鸡市巷村
 jishou university (zhangjiajie campus):吉首大学(张家界校区)
 jishou university:吉首大学
+jishou university:吉首大學
 jishou:jíshǒu shì
 jishou:吉首
 jishou:吉首市
@@ -19863,6 +20148,7 @@ jitou:机投社区
 jitou:际头
 jitoucun:矶头村
 jitoucun:鸡头村街道
+jitouqiao station:机投桥站
 jitouqiao:机投桥
 jitouqiao:机投桥街道
 jitouqing:鸡头箐
@@ -20307,6 +20593,7 @@ jiufenershan:jiǔfènèrshān
 jiufenershan:ㄐㄧㄡˇㄈㄣˋㄦˋㄕㄢ
 jiufenershan:九份二山
 jiufeng 1st road:九峰一路
+jiufeng mountain:九峰山
 jiufeng reservoir:jiǔfēng shuǐkù
 jiufeng reservoir:九峰水库
 jiufeng river:jiǔfēng shuǐ
@@ -20395,6 +20682,7 @@ jiugong mountains:九宫山
 jiugong pier:九宫码头
 jiugong pier:九宮碼頭
 jiugong road:九公路
+jiugong station:旧宫站
 jiugong tunnel:九宮坑道
 jiugong:jiùgōng
 jiugong:九公
@@ -20540,6 +20828,7 @@ jiuhuang bencao:救荒本草
 jiuhuanglingcun:旧黄陵村
 jiuhuantun:九环屯
 jiuhuashan national scenic area:jiǔhuàshān guójiā fēngjǐng míngshèng qū
+jiuhuashan station:九华山站
 jiuhuashan:jiǔhuáshān
 jiuhuashan:ㄐㄧㄡˇㄏㄨㄚˊㄕㄢ
 jiuhuashan:九华山
@@ -20593,6 +20882,7 @@ jiujianfangcun:九间房村
 jiujianfangtun:九间房屯
 jiujiang avenue bridge:九江大道线桥
 jiujiang avenue:九江大道
+jiujiang county:九江县
 jiujiang district:jiūjiāng qū
 jiujiang district:鳩江區
 jiujiang district:鸠江区
@@ -20611,6 +20901,7 @@ jiujiang road at middle shandong road:九江路山东中路
 jiujiang road at middle shandong road:九江路山東中路
 jiujiang road at middle zhejiang road:九江路浙江中路
 jiujiang road:九江路
+jiujiang stadium:九江体育场
 jiujiang street:九江街
 jiujiang university:九江学院
 jiujiang yangtze river bridge was built in:九江长江大桥建于
@@ -20744,6 +21035,7 @@ jiukenghe reservoir:九坑河水库
 jiukeshu east street:jiǔkēshù dōng lù
 jiukeshu future art center:九棵树未来艺术中心
 jiukeshu middle road:jiǔkēshù zhōng lù
+jiukeshu station:九棵树站
 jiukeshu station:九棵樹站
 jiukeshu subdistrict:九棵树街道
 jiukeshu:九棵树
@@ -20776,6 +21068,7 @@ jiulengtun:久冷屯
 jiuletun:久乐屯
 jiuli district:九里区
 jiuli huizuxiang:九里回族乡
+jiuli station:九里站
 jiuli:九利
 jiuli:九里
 jiuli:九里街道
@@ -20875,6 +21168,8 @@ jiulong e. street:九龍東街
 jiulong estuary:九龍江
 jiulong estuary:九龙江
 jiulong he:九龙河
+jiulong jiang:九龍江
+jiulong jiang:九龙江
 jiulong jiayuan:九龙家园
 jiulong lake:九龙湖
 jiulong laozhai:旧龙老寨
@@ -20940,6 +21235,7 @@ jiulonggang:九龙岗
 jiulonggang:九龙岗镇
 jiulonggeng:九龙埂
 jiulongguancun:九龙关村
+jiulonghu station:九龙湖站
 jiulonghu:九龍湖
 jiulonghu:九龍湖鎮
 jiulonghu:九龙湖
@@ -20970,6 +21266,7 @@ jiulongshan nongchang:九龙山农场
 jiulongshan primary school at shuitu town:水土镇九龙山小学
 jiulongshan sports park:九龍山體育公園
 jiulongshan sports park:九龙山体育公园
+jiulongshan station:九龙山站
 jiulongshan:九龙山
 jiulongshan:九龙山乡
 jiulongshan:九龙山镇
@@ -21199,6 +21496,7 @@ jiuqutang sta.:jiǔqūtánghuǒchēzhàn(hòuzhàn)
 jiuqutang sta.:ㄐㄧㄡˇㄑㄩㄊㄤˊㄏㄨㄛˇㄔㄜㄓㄢˋ(ㄏㄡˋㄓㄢˋ)
 jiuqutang sta.:九曲堂火車站(後站)
 jiuqutang sta.:九曲堂火车站(后站)
+jiuqutang station:九曲堂站
 jiuqutang train station (front station):jiǔqūtánghuǒchēzhàn(qiánzhàn)
 jiuqutang train station (front station):ㄐㄧㄡˇㄑㄩㄊㄤˊㄏㄨㄛˇㄔㄜㄓㄢˋ(ㄑㄧㄢˊㄓㄢˋ)
 jiuqutang train station (front station):九曲堂火車站(前站)
@@ -21335,6 +21633,7 @@ jiusumu:九苏木
 jiusuo:九所鎮
 jiusuo:九所镇
 jiuta:地歌
+jiutai county:九台县
 jiutai district:jiǔtái qū
 jiutai district:九台区
 jiutai district:九臺區
@@ -21342,6 +21641,7 @@ jiutai highway:九太公路
 jiutai lu entrance:九太路口站
 jiutai lu:九太路站
 jiutai road:九太路
+jiutai south:九台南
 jiutai:jiǔtái qu
 jiutai:九台
 jiutai:九台区
@@ -21832,6 +22132,7 @@ jiwangxincun:计王新村
 jiwangyingzi:吉旺营子
 jiwangyingzicun:吉旺营子村
 jiwangzhuangcun:季王庄村
+jiwani airport:吉沃尼机场
 jiwani:吉沃尼
 jiwarjiya:gélǔjíyà
 jiwarjiya:喬治亞
@@ -21872,6 +22173,7 @@ jixi building:緝熙楼
 jixi county:績溪
 jixi county:績溪縣
 jixi county:绩溪县
+jixi county:鸡西县
 jixi line:集锡线
 jixi north railway station:绩溪北站
 jixi station:吉溪站
@@ -22105,6 +22407,8 @@ jiyang avenue:吉阳大道
 jiyang boc:中国银行
 jiyang bus station:济阳汽车总站
 jiyang civil affairs bureau:民政局
+jiyang county:吉陽县
+jiyang county:济阳县
 jiyang district:jǐyángqū
 jiyang district:吉阳区
 jiyang district:吉陽
@@ -22127,6 +22431,7 @@ jiyang railway:鸡杨线
 jiyang rd. ln.22 aly.25:吉羊路22巷25弄
 jiyang rd. ln.22:吉羊路22巷
 jiyang road:吉羊路
+jiyang road:济阳路
 jiyang stomatological hospital:济阳口腔医院
 jiyang street:吉洋街
 jiyang subdistrict industral park:济阳街道工业园
@@ -22256,6 +22561,7 @@ jiza:积杂
 jizaihuadu:极栽花都
 jizak:吉扎克
 jizamurai:地侍
+jizan province:吉贊省
 jizan province:吉赞省
 jizan region:吉赞省
 jizan:吉贊

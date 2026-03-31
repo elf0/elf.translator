@@ -81,6 +81,7 @@ apa hotel:人形町站北apa酒店
 apa qaghan:阿波可汗
 apac district:阿帕克區
 apacer:宇瞻科技
+apach station:阿帕克站
 apach:阿帕克
 apache cat:阿帕奇貓
 apache point observatory:阿帕契點天文台
@@ -140,6 +141,8 @@ apartemen nguyen thai binh:阮太平公寓
 apartemen no 1 ton that thuyet:尊室说路1号公寓
 apartheid convention:禁止并惩治种族隔离罪行国际公约
 apartheid government:南非種族隔離政府
+apartheid policies:南非種族隔離政策
+apartheid policy:南非種族隔離政策
 apartheid:南非種族隔離
 apartment 13 ly thuong kiet:李常杰13号公寓
 apartment a:a座
@@ -253,6 +256,7 @@ apartment grid:公寓网格
 apartment has a true:公寓有一个真
 apartment has been:公寓已经
 apartment high:公寓高
+apartment hotel:公寓酒店
 apartment hotel:酒店式公寓
 apartment house:公寓住宅
 apartment house:公寓房子
@@ -1042,6 +1046,7 @@ apodytes dimidiata:柴龙树
 apodytes:柴龙树属
 apoel fc:尼科西亚希腊人竞技足球俱乐部
 apogastropoda:後生腹足類
+apogee engines:远地点发动机
 apogee enterprises:远地点企业
 apogee of empire:远地点的帝国
 apogee:远地点
@@ -1088,6 +1093,7 @@ apollo applications:阿波罗应用
 apollo as well as:阿波罗以及
 apollo asteroid:阿波罗小行星
 apollo asteroid:阿波羅型小行星
+apollo asteroid:阿波羅小行星
 apollo astronaut estimate:阿波罗宇航员估计
 apollo astronaut:阿波罗宇航员
 apollo audience:阿波罗听众
@@ -1265,6 +1271,7 @@ apollonius of tyana:提亚纳的阿波罗尼乌斯
 apollonius's theorem:中線定理
 apollontempel bei bassae:巴赛的阿波罗•伊壁鸠鲁神庙
 apollos and peter:亞波羅和彼得
+apollos university:亞波羅大學
 apollos university:阿波羅大學
 apollos:亞波羅
 apollosa:阿波洛萨
@@ -1363,6 +1370,7 @@ apoptosis mechanism:细胞凋亡机制
 apoptosis or cancer cell death:细胞凋亡或癌细胞死亡
 apoptosis or cell death:细胞凋亡或细胞死亡
 apoptosis phenomenon:细胞凋亡现象
+apoptosis research:细胞凋亡研究
 apoptosis signal:细胞凋亡信号
 apoptosis start:细胞凋亡开始
 apoptosis:细胞凋亡
@@ -2245,7 +2253,9 @@ appeal could:上诉能
 appeal council:上诉委员会
 appeal court judge:上诉法院法官
 appeal court start:上诉法院开始
+appeal court:上訴法院
 appeal court:上诉法院
+appeal courts:上訴法院
 appeal courts:上诉法院
 appeal date:上诉日期
 appeal decided:上诉决定
@@ -2755,6 +2765,7 @@ appetite refers to:食欲指
 appetite research:食欲研究
 appetite signals:食欲信号
 appetite still:食欲仍然
+appetite stimulant:食欲兴奋剂
 appetite stimulation:食欲刺激
 appetite suddenly:食欲突然
 appetite suppress:食欲抑制
@@ -2926,6 +2937,7 @@ apple and wheat farmer:苹果和小麦农民
 apple anecdote:苹果轶事
 apple announce:苹果宣告
 apple apartment:苹果公寓
+apple aperture:苹果光圈
 apple aphid:苹果蚜虫
 apple app store:苹果应用程序商店
 apple app:苹果应用程序
@@ -3283,6 +3295,7 @@ apple global:苹果全球
 apple go:苹果去
 apple goods:苹果商品
 apple google:苹果谷歌
+apple green:苹果绿色
 apple grind:苹果磨
 apple group:苹果组
 apple growth:苹果增长
@@ -3390,6 +3403,7 @@ apple jack:苹果杰克
 apple jacks:蘋果肉桂脆片
 apple japan:苹果日本
 apple juice or orange juice:蘋果汁或橙汁
+apple juice:苹果汁
 apple juice:蘋果汁
 apple just:苹果只
 apple keyboard:苹果键盘
@@ -3716,6 +3730,7 @@ apple shareholder:苹果股东
 apple shareholders:苹果股东
 apple she:苹果她
 apple shooter game:苹果射击游戏
+apple shop:苹果商店
 apple should absolute:苹果应该绝对
 apple should be:苹果应该是
 apple should buy:苹果应该买
@@ -3904,6 +3919,7 @@ apple version:苹果版本
 apple very:苹果非常
 apple veterans:苹果老兵
 apple video:苹果视频
+apple vinegar:苹果醋
 apple violate:苹果违反
 apple wait:苹果等
 apple wait:苹果等待
@@ -3962,6 +3978,7 @@ apple will upgrade this:苹果将升级这
 apple will:苹果会
 apple willow:苹果柳树
 apple win:苹果赢得
+apple wine:苹果酒
 apple wish:苹果希望
 apple with innovation:苹果与创新
 apple without:苹果没有
@@ -4043,6 +4060,7 @@ application analysis reports:应用程序分析报告
 application analysis to network:应用分析到网络
 application analysis:应用分析
 application analysis:应用程序分析
+application analyst:应用分析师
 application analytics and optimization:应用程序分析和优化
 application analytics company:应用分析公司
 application analytics:应用分析
@@ -5524,6 +5542,7 @@ application products:应用产品
 application products:应用程序产品
 application professional:应用专业
 application profile:应用轮廓
+application program:应用程序
 application programmable interface:应用程序可编程接口
 application programmable:应用程序可编程
 application programmer:应用程序程序员
@@ -5539,6 +5558,7 @@ application programming language:应用程序编程语言
 application programming language:应用编程语言
 application programming:应用程序编程
 application programming:应用编程
+application programs:应用程序
 application progress:应用程序进度
 application project require:应用项目需要
 application project type:应用程序项目类型
@@ -5910,6 +5930,7 @@ application store download:应用商店下载
 application store market:应用商店市场
 application store solutions:应用商店解决方案
 application store:应用商店
+application store:应用程序商店
 application storefront:应用程序店面
 application strategic:应用战略
 application strategy:应用战略
@@ -7169,6 +7190,8 @@ applications show:应用显示
 applications show:应用程序显示
 applications simple:应用程序简单
 applications skills:应用技能
+applications software:应用程序软件
+applications software:应用软件
 applications solutions:应用解决方案
 applications sometimes don't work:应用程序有时不工作
 applications sometimes:应用有时候
@@ -7651,6 +7674,7 @@ apply many of:应用许多
 apply marketing tools:应用市场营销工具
 apply marketing:应用市场营销
 apply materials:应用材料
+apply mathematics:应用数学
 apply mechanical engineering:应用机械工程
 apply metal:应用金属
 apply method:应用方法
@@ -8021,6 +8045,7 @@ apprentice:學徒
 apprenticeship advocate:学徒制倡导
 apprenticeship and professional training:学徒制和专业培训
 apprenticeship and work experience:学徒制和工作经验
+apprenticeship degree:学徒制度
 apprenticeship framework or standard:学徒制框架或标准
 apprenticeship framework:学徒制框架
 apprenticeship frameworks:学徒制框架
@@ -9923,6 +9948,7 @@ appropriate techniques:适当的技术
 appropriate technologies and reject:适当的技术和拒绝
 appropriate technologies and skills:适当的技术和技能
 appropriate technologies:适当的技术
+appropriate technology:适当的技术
 appropriate technology:适用技术
 appropriate telecommunications and information:适当的电信和信息
 appropriate telecommunications:适当的电信
@@ -10123,9 +10149,12 @@ appropriately utilize:适当地利用
 appropriately when we:适当地当我们
 appropriately:适当地
 appropriation bill:撥款法案
+approval ballot:赞成投票
 approval or disapproval:赞成或不赞成
+approval vote:赞成投票
 approval voting party:同意投票黨
 approval voting:同意投票制
+approval voting:赞成投票
 approval:赞成
 approximant:近音
 approximate and true:近似的和真
@@ -10272,6 +10301,7 @@ approximately whole:大约整个
 approximately zero:大约零
 approximately:大约
 approximation algorithm:近似算法
+approximation algorithms:近似算法
 approximation allow:近似允许
 approximation and uncertainty:近似和不确定性
 approximation condition:近似条件
@@ -10291,9 +10321,11 @@ approximation model:近似模型
 approximation models:近似模型
 approximation polynomials:近似多项式
 approximation process:近似过程
+approximation ratio:近似比
 approximation technique:近似技术
 approximation techniques:近似技术
 approximation theorem:近似定理
+approximation theory:近似理論
 approximation theory:逼近理论
 approximation:近似
 apps access:应用程序访问
@@ -10689,7 +10721,9 @@ april children:四月儿童
 april closed:四月闭
 april collins:四月柯林斯
 april company:四月公司
+april constitution:四月宪法
 april coup:四月政变
+april crisis:四月危机
 april crisis:四月危機
 april cyprus:四月塞浦路斯
 april data:四月数据
@@ -10749,6 +10783,7 @@ april showers bring may flowers:為丑女獻上花束
 april sixteen:四月十六
 april sixth:四月第六
 april snow:四月的雪
+april snow:四月雪
 april spring friendship art festival:四月之春親善藝術節
 april story:四月物语
 april temperature:四月温度

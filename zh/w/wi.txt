@@ -32,6 +32,7 @@ wichita state university:卫奇塔州立大学
 wichla:維赫利亞
 wichmar:维希马尔
 wichtrach:维希特拉赫
+wick airport:維克機場
 wick railway station:維克車站
 wick rotation:威克轉動
 wick's theorem:维克定理
@@ -336,6 +337,7 @@ wide volume:宽卷
 wide waist:宽腰
 wide wall:宽墙
 wide wavelength:宽波长
+wide west:宽西
 wide white hat:宽白色帽子
 wide white:宽白色
 wide window:宽窗
@@ -1032,6 +1034,7 @@ widow tell:寡妇告诉
 widow tom:寡妇汤姆
 widow twice:寡妇两次
 widow uses:寡妇使用
+widow village:寡妇村
 widow was correct:寡妇是正确的
 widow was god knows:寡妇是上帝知道
 widow went:寡妇去
@@ -1256,12 +1259,20 @@ wiembach:維恩巴赫河
 wiembecke:溫貝克河
 wiemersdorf:维默斯多夫
 wiemerstedt:维默施泰特
+wien airport:維也納機場
+wien airport:维也纳机场
 wien approximation:維恩近似
 wien bridge oscillator:文氏电桥
 wien effect:维恩效应
 wien hauptbahnhof:維也納火車總站
 wien meidling railway station:维也纳迈德灵车站
+wien meidling:维也纳迈德灵
 wien mitte railway station:维也纳中站
+wien museum:维也纳博物馆
+wien river:維也納河
+wien river:维也纳河
+wien stadium:維也納体育馆
+wien stadium:维也纳体育馆
 wien umgebung district:维也纳城郊县
 wien westbahnhof railway station:維也納西站
 wien's displacement law:维恩位移定律
@@ -1360,6 +1371,7 @@ wiesbaden class cruiser:威斯巴登级小巡洋舰
 wiesbaden engine:威斯巴登发动机
 wiesbaden hauptbahnhof:威斯巴登火车总站
 wiesbaden hospital:威斯巴登医院
+wiesbaden museum:威斯巴登博物馆
 wiesbaden to melbourne:威斯巴登到墨尔本
 wiesbaden:威斯巴登
 wiesbaum:维斯鲍姆
@@ -2127,6 +2139,7 @@ wiki administrator:维基管理员
 wiki allow:维基允许
 wiki articles:维基文章
 wiki categories:维基分类
+wiki code:维基代码
 wiki communities:维基社区
 wiki community:维基社区
 wiki content:维基内容
@@ -2138,9 +2151,11 @@ wiki education foundation:維基教育基金會
 wiki education:维基教育
 wiki errors:维基错误
 wiki excellence:维基卓越
+wiki farm:维基农场
 wiki government:维基政府
 wiki has been:维基已经
 wiki learning:维基学习
+wiki link:维基链接
 wiki links:维基链接
 wiki love:维基爱
 wiki loves monuments:維基愛古蹟
@@ -2149,6 +2164,7 @@ wiki network:维基网络
 wiki page:维基页
 wiki pages:维基页
 wiki peak:維基峰
+wiki peak:维基峰
 wiki platforms:维基平台
 wiki process:维基过程
 wiki program:维基程序
@@ -2164,6 +2180,7 @@ wiki systems:维基系统
 wiki tag:维基标签
 wiki technology:维基技术
 wiki textbook:维基教科书
+wiki tools:维基工具
 wiki users:维基用户
 wiki uses:维基使用
 wiki version:维基版本
@@ -2178,6 +2195,7 @@ wikidata and all wikivoyage:维基数据和所有维基导游
 wikidata development team:维基数据开发团队
 wikidata development:维基数据开发
 wikidata edits:维基数据编辑
+wikidata item:维基数据项
 wikidata team:维基数据团队
 wikidata:维基数据
 wikileaks editor-in-chief:維基解密總編輯
@@ -2188,6 +2206,7 @@ wikileaks press release:維基解密新聞稿
 wikileaks receive:維基解密收到
 wikileaks website:維基解密網站
 wikileaks:維基解密
+wikimania hackathon:維基媒體國際會議黑客松
 wikimania:維基媒體國際會議
 wikimapia:維基衛星地圖
 wikimedia bangladesh:孟加拉国维基媒体协会
@@ -2239,10 +2258,12 @@ wikimedia taiwan:台灣維基媒體協會
 wikimedia uk:英國維基媒體協會
 wikimedian of the year:年度維基人
 wikinews and wiki:维基新闻和维基
+wikinews logo:维基新闻标志
 wikinews writing:维基新闻写作
 wikinews:维基新闻
 wikinomics:維基經濟學
 wikipedia academy:维基百科学院
+wikipedia administration:维基百科管理
 wikipedia administrator:维基百科管理员
 wikipedia already:维基百科已经
 wikipedia also support:维基百科也支持
@@ -2257,6 +2278,7 @@ wikipedia and wiki:维基百科和维基
 wikipedia and yahoo:维基百科和雅虎
 wikipedia app:維基百科應用程式
 wikipedia app:维基百科应用程序
+wikipedia apps:维基百科应用程序
 wikipedia art:维基百科艺术
 wikipedia article is anything:维基百科文章是任何事
 wikipedia article sentence:维基百科文章句子
@@ -2269,11 +2291,14 @@ wikipedia authors:维基百科作者
 wikipedia be:维基百科成为
 wikipedia become:维基百科成为
 wikipedia blog:维基百科博客
+wikipedia book:维基百科图书
 wikipedia books:维基百科书籍
 wikipedia bot:维基百科机器人
 wikipedia bots:維基百科機械人
 wikipedia can help us:维基百科能帮助我们
 wikipedia cannot:维基百科不能
+wikipedia categories:维基百科分类
+wikipedia category:维基百科分类
 wikipedia changed my life:维基百科改变了我的生活
 wikipedia changed:维基百科改变了
 wikipedia charts:维基百科图表
@@ -2320,10 +2345,12 @@ wikipedia explains:维基百科解释
 wikipedia fact:维基百科事实
 wikipedia footnotes:维基百科脚注
 wikipedia for world heritage:争取维基百科成为世界文化遗产
+wikipedia format:维基百科格式
 wikipedia foundation:维基百科基金
 wikipedia founder jimmy wales:维基百科创始人吉米威尔士
 wikipedia founder:维基百科创始人
 wikipedia fund:维基百科基金
+wikipedia game:维基百科游戏
 wikipedia give:维基百科给
 wikipedia has a desktop:维基百科有一个桌面
 wikipedia has an arbitration:维基百科有一个仲裁
@@ -2331,6 +2358,8 @@ wikipedia has been:维基百科已经
 wikipedia has many other type:维基百科有许多其他类型
 wikipedia has many rules:维基百科有很多规则
 wikipedia has:维基百科有
+wikipedia help:维基百科帮助
+wikipedia humor:维基百科幽默
 wikipedia in china:维基百科在中国
 wikipedia infobox:维基百科信息框
 wikipedia information:维基百科信息
@@ -2357,12 +2386,15 @@ wikipedia logo:维基百科标志
 wikipedia material:维基百科材料
 wikipedia matrix:维基百科矩阵
 wikipedia mistake:维基百科错误
+wikipedia modules:维基百科模块
 wikipedia monument:维基百科纪念雕像
 wikipedia name:维基百科名称
+wikipedia namespace:维基百科命名空间
 wikipedia needs help:维基百科需要帮助
 wikipedia needs:维基百科需要
 wikipedia network:维基百科网络
 wikipedia news:维基百科新闻
+wikipedia not:维基百科不是
 wikipedia note:维基百科注意
 wikipedia now:维基百科现在
 wikipedia offer:维基百科提供
@@ -2372,7 +2404,9 @@ wikipedia or yahoo:维基百科或雅虎
 wikipedia page:维基百科页
 wikipedia pages:维基百科页
 wikipedia plans:维基百科计划
+wikipedia policies:维基百科政策
 wikipedia policy:维基百科政策
+wikipedia principles:维基百科原则
 wikipedia project:维基百科项目
 wikipedia projects:维基百科项目
 wikipedia provides:维基百科提供
@@ -2382,6 +2416,7 @@ wikipedia recently:维基百科最近
 wikipedia record:维基百科记录
 wikipedia require:维基百科要求
 wikipedia revolution:维基百科革命
+wikipedia sandbox:维基百科沙盒
 wikipedia says:维基百科说
 wikipedia search:维基百科搜索
 wikipedia seigenthaler biography incident:席根塔勒传记事件
@@ -2389,6 +2424,7 @@ wikipedia should say:维基百科应该说
 wikipedia show:维基百科显示
 wikipedia site:维基百科站点
 wikipedia sometimes:维基百科有时
+wikipedia space:维基百科空间
 wikipedia spain:维基百科西班牙
 wikipedia start:维基百科开始
 wikipedia style:维基百科风格
@@ -2399,6 +2435,8 @@ wikipedia team:维基百科团队
 wikipedia tell:维基百科告诉
 wikipedia to magazine:维基百科到杂志
 wikipedia today:维基百科今天
+wikipedia tool:维基百科工具
+wikipedia tools:维基百科工具
 wikipedia trademark:维基百科商标
 wikipedia tv:维基百科电视
 wikipedia user page:维基百科用户页
@@ -2416,6 +2454,7 @@ wikipedia:维基百科
 wikipediafs:维基百科文件系统
 wikipedian andy:維基人安迪
 wikipedian:維基人
+wikiproject template:維基專題模板
 wikiproject:維基專題
 wikiquote:维基语录
 wikiracing:維基競賽
@@ -2423,8 +2462,10 @@ wikiscanner:维基扫描器
 wikishia:维基什叶
 wikisource contributors:维基文库贡献者
 wikisource is a library:维基文库是一个图书馆
+wikisource link:维基文库链接
 wikisource receive:维基文库收到
 wikisource text:维基文库文本
+wikisource version:维基文库版本
 wikisource:维基文库
 wikispecies is free:維基物種是自由的
 wikispecies:維基物種
@@ -2465,6 +2506,7 @@ wiktoria:維多利亞
 wiktoria:维多利亚
 wiktoria:维多利亚州
 wiktoriwka:維克托里夫卡
+wil tower:維爾塔
 wil:維爾
 wila ch'ankha:維拉錢卡山
 wila chunkara:維拉瓊卡拉山
@@ -2989,6 +3031,7 @@ wilcox and his sister:威尔科克斯和他的姐妹
 wilcox and me:威尔科克斯和我
 wilcox can help:威尔科克斯可以帮助
 wilcox cannot:威尔科克斯不能
+wilcox county:威尔科克斯县
 wilcox county:威爾科克斯縣
 wilcox just suit:威尔科克斯只适合
 wilcox just:威尔科克斯只
@@ -2998,6 +3041,7 @@ wilcox township:威尔科克斯镇区
 wilcox:威尔科克斯
 wilczek island:維爾切克島
 wilczy szaniec:狼穴
+wild act:荒野行动
 wild action:荒野行动
 wild airport:荒野机场
 wild and complex:荒野和复杂
@@ -3067,6 +3111,7 @@ wild horse management:野马管理
 wild horse said:野马说
 wild horse:野马
 wild hunt:狂猎
+wild hunter:荒野猎人
 wild is a dangerous:荒野是一个危险的
 wild jurchens:野人女真
 wild knoll:懷爾德穹丘
@@ -3075,6 +3120,7 @@ wild lily student movement:野百合學運
 wild nephin national park:巴利克羅伊國家公園
 wild pilgrimage:野外朝聖
 wild pitch:暴投
+wild potato:荒野土豆
 wild region:荒野地区
 wild rice:菰属
 wild search:伴我闯天涯
@@ -3387,6 +3433,7 @@ wildlife content:野生生物内容
 wildlife continue:野生动物继续
 wildlife control:野生动物控制
 wildlife corridor:生态廊道
+wildlife corridor:野生动物走廊
 wildlife crime and corruption:野生动物犯罪与腐败
 wildlife crime and exploitation:野生动物犯罪与剥削
 wildlife crime control bureau:野生动物犯罪控制局
@@ -3604,6 +3651,7 @@ wildlife services:野生动物服务
 wildlife services:野生生物服务
 wildlife shelter:野生动物庇护所
 wildlife smuggling:野生动物走私
+wildlife smuggling:野生生物走私
 wildlife society:野生动物社会
 wildlife southern region:野生动物南部地区
 wildlife species:野生动物物种
@@ -3689,6 +3737,7 @@ wilhelmsthal:威廉斯塔尔
 wilhelmstrasse:威廉大街
 wilhelmus:威廉颂
 wilhelmy plate:威廉米懸片
+wilhering abbey:威爾赫林修道院
 wilhering:威爾赫林
 wilhoite nunataks:維爾霍伊特冰原島峰
 wiliberg:維利貝格
@@ -3723,6 +3772,8 @@ wilkins's finch:威氏岛雀
 wilkinson and his team:威尔金森和他的团队
 wilkinson and peter:威尔金森和彼得
 wilkinson appear:威尔金森出现
+wilkinson catalyst:威尔金森催化剂
+wilkinson county:威尔金森县
 wilkinson county:威爾金森縣
 wilkinson estimate:威尔金森估计
 wilkinson glacier:維金遜冰川
@@ -6006,6 +6057,7 @@ will feel:会感觉
 will feel:将感觉
 will fiber:将纤维
 will fibre channel:将光纤通道
+will field:会场
 will fight:会战斗
 will fight:将战斗
 will file:会文件
@@ -6970,6 +7022,7 @@ will have you:会有你
 will have:会有
 will have:将有
 will he:会他
+will he:会合
 will he:将他
 will head:将头
 will heal the world:将拯救世界
@@ -8310,6 +8363,7 @@ will limit your success:会限制你的成功
 will limit:会限制
 will limit:将限制
 will limp:会跛行
+will lin:会林
 will line:将线
 will link davao city:将连接达沃市
 will link thousands:将连接成千上万
@@ -8331,6 +8385,8 @@ will locate:将定位
 will located:将位于
 will lock:会锁
 will lock:将锁
+will long:会龙村
+will long:会龙镇
 will look:会看
 will look:将看
 will lose:会丢失
@@ -11223,6 +11279,7 @@ willard dickerman straight:司戴德
 willard livingstone beard:裨益知
 willaumez peninsula:威拉米茲半岛
 willebadessen:维勒巴德埃森
+willebroek canal:维勒布鲁克运河
 willebroek:维勒布鲁克
 willeman:维勒曼
 willemite:矽鋅礦
@@ -11307,6 +11364,7 @@ william baldwin:威廉鮑德溫
 william banister:班为兰
 william bank:威廉银行
 william barber:威廉理发师
+william barclay:威廉巴克莱
 william be:威廉成为
 william beaumont army:威廉博蒙特陆军
 william beaumont:威廉博蒙特
@@ -11316,6 +11374,7 @@ william began:威廉开始
 william begin:威廉开始
 william blackburn says:威廉布莱克本说
 william blackburn:威廉布莱克本
+william blaine:威廉布萊恩
 william blood:威廉血液
 william booth:卜威廉
 william bradford organize:威廉布拉德福德组织
@@ -11347,6 +11406,7 @@ william college:威廉学院
 william collins:威廉柯林斯
 william come:威廉来
 william conquer:威廉征服
+william conrad:威廉康拉德
 william continue:威廉继续
 william continues:威廉继续
 william dampier:威廉丹皮爾
@@ -11460,9 +11520,11 @@ william kerr:威廉克尔
 william keswick:耆紫薇
 william king museum of art:威廉国王艺术博物馆
 william king:威廉国王
+william king:威廉王
 william knox:威廉诺克斯
 william kong:江志強
 william kwong yu yeung:楊光宇
+william lake:威廉湖
 william land:威廉土地
 william laugh:威廉笑
 william law:威廉法律
@@ -11505,6 +11567,7 @@ william morgan:威廉摩根
 william morris davis:威廉莫里斯戴维斯
 william morris smith:威廉莫里斯史密斯
 william morris:威廉莫里斯
+william mountain:威廉山
 william muirhead:慕维廉
 william museum is great:威廉博物馆是伟大的
 william museum:威廉博物馆
@@ -11588,6 +11651,7 @@ william spent:威廉花
 william start:威廉开始
 william staveley:士他花利
 william street:威廉街
+william style:威廉风格
 william suddenly:威廉突然
 william taylor:威廉泰勒
 william tea:威廉茶
@@ -11605,6 +11669,7 @@ william thomas mercer:孖沙
 william thomas:威廉托马斯
 william thomson:威廉汤姆森
 william university:威廉大学
+william vance:威廉万斯
 william walker:威廉沃克
 william wallace:威廉华莱士
 william wang:王蔚
@@ -11627,6 +11692,7 @@ william's mbuna:格氏擬麗魚
 william:威廉
 williamite war in ireland:愛爾蘭威廉黨人戰爭
 williamnagar:维利亚姆纳加尔
+williams academy:威廉斯学院
 williams admitted:威廉斯承认
 williams again:威廉斯又
 williams agree:威廉斯同意
@@ -11643,9 +11709,12 @@ williams cliff:威廉斯崖
 williams college alumni:威廉姆斯学院校友
 williams college once again:威廉姆斯学院再次
 williams college:威廉姆斯学院
+williams college:威廉斯学院
+williams college:威廉斯學院
 williams companies:威廉斯公司
 williams could:威廉斯能
 williams county district court:威廉斯縣地方法院
+williams county:威廉斯县
 williams county:威廉斯縣
 williams cove:威廉斯灣
 williams daughter:威廉斯女儿
@@ -11664,6 +11733,7 @@ williams hopes:威廉斯希望
 williams hotel:威廉斯酒店
 williams ice stream:威廉斯冰流
 williams in china:威廉斯在中国
+williams institute:威廉斯学院
 williams institute:威廉斯研究所
 williams international:威廉斯国际
 williams is wolf:威廉斯是狼
@@ -11677,12 +11747,14 @@ williams new york:威廉斯纽约
 williams nunatak:威廉斯冰原島峰
 williams once said:威廉斯曾经说
 williams once:威廉斯曾经
+williams peak:威廉斯峰
 williams pear:威廉斯梨
 williams point:威廉斯角
 williams prize:威廉斯奖
 williams racing:威廉姆斯车队
 williams research paper:威廉斯研究论文
 williams ridge:威廉斯嶺
+williams river:威廉斯河
 williams rocks:威廉斯岩
 williams said:威廉斯说
 williams says:威廉斯说
@@ -11692,6 +11764,7 @@ williams street:威廉斯街
 williams syndrome:威廉氏症候群
 williams think:威廉斯认为
 williams tower:威廉斯大廈
+williams township:威廉斯鎮區
 williams township:威廉斯镇区
 williams tube:威廉姆斯管
 williams tunnel:威廉斯隧道
@@ -11711,6 +11784,7 @@ williamsburg area:威廉斯堡地区
 williamsburg bank:威廉斯堡银行
 williamsburg bridge plaza:威廉斯堡大橋廣場
 williamsburg bridge:威廉斯堡大橋
+williamsburg bridge:威廉斯堡橋
 williamsburg community:威廉斯堡社区
 williamsburg county news:威廉斯堡县新闻
 williamsburg county:威廉斯堡县
@@ -11721,6 +11795,7 @@ williamsburg naacp:威廉斯堡全国有色人种协进会
 williamsburg over the years:威廉斯堡多年来
 williamsburg road:威廉斯堡路
 williamsburg savings bank:威廉斯堡储蓄银行
+williamsburg township:威廉斯堡鎮區
 williamsburg township:威廉斯堡镇区
 williamsburg trust company:威廉斯堡信托公司
 williamsburg village apartment:威廉斯堡村公寓
@@ -11762,6 +11837,8 @@ willisau:維利紹
 williston basin petroleum conference:威利斯顿盆地石油会议
 williston basin petroleum:威利斯顿盆地石油
 williston basin:威利斯顿盆地
+williston lake:威利斯顿湖
+williston seminary:威利斯頓神學院
 williston:威利斯頓
 williston:威利斯顿
 williwaw rocks:威利瓦岩
@@ -11794,6 +11871,7 @@ willow path:柳樹徑
 willow pattern:青柳瓷
 willow plants:柳树植物
 willow ptarmigan:柳雷鸟
+willow river:柳树河
 willow road:柳树路
 willow road:楊柳路
 willow run:柳树跑
@@ -11837,6 +11915,7 @@ wilmer st 6 substation:威利麻街6號變壓站
 wilmer street:威利麻街
 wilmersdorf:维尔默斯多夫
 wilmesau:維拉莫維采
+wilmington airport:威尔明顿机场
 wilmington and charleston:威尔明顿和查尔斯顿
 wilmington and harris:威尔明顿和哈里斯
 wilmington and ontario:威尔明顿和安大略省
@@ -11848,6 +11927,7 @@ wilmington conference academy:威尔明顿会议学院
 wilmington conference:威尔明顿会议
 wilmington distribution center:威尔明顿配送中心
 wilmington institute:威尔明顿学院
+wilmington island:威尔明顿岛
 wilmington mayor bill:威尔明顿市长比尔
 wilmington mayor:威尔明顿市长
 wilmington oil field:威尔明顿油田
@@ -11856,8 +11936,10 @@ wilmington public library:威尔明顿公共图书馆
 wilmington railroad museum:威尔明顿铁路博物馆
 wilmington railroad:威尔明顿铁路
 wilmington robot:威尔明顿机器人
+wilmington station:威尔明顿站
 wilmington street:威尔明顿街
 wilmington township:威尔明顿镇区
+wilmington township:威爾明頓鎮區
 wilmington trust:威尔明顿信托
 wilmington university was founded in:威尔明顿大学成立于
 wilmington university:威尔明顿大学
@@ -11878,10 +11960,19 @@ wilnianśk:維利尼揚斯克
 wilniyus:維爾紐斯
 wilniyus:维尔纽斯
 wilnjansk:維利尼揚斯克
+wilno academy:维尔纽斯学院
+wilno county:维尔纽斯县
+wilno ghetto:維爾紐斯隔都
+wilno ghetto:维尔纽斯隔都
+wilno offensive:维尔纽斯攻势
+wilno university:維爾紐斯大學
+wilno university:维尔纽斯大学
+wilno uprising:维尔纽斯起义
 wilno:維爾紐斯
 wilno:维尔纽斯
 wilnopillja:維利諾皮爾利亞
 wilnsdorf:维尔恩斯多夫
+wilopo cabinet:韦洛坡内阁
 wilopo:韦洛坡
 wilpattu national park:威爾帕圖國家公園
 wilrijk:维尔赖克
@@ -11896,6 +11987,7 @@ wilshire park:豪輝閣
 wilshire towers:慧雅閣
 wilshire towers:慧雅阁
 wilson agree:威爾遜同意
+wilson airport:威爾遜機場
 wilson also:威尔森也
 wilson and anderson collaborate:威尔森和安德森合作
 wilson and guadalupe county:威爾遜和瓜達盧佩縣
@@ -11906,11 +11998,13 @@ wilson and theo:威尔森和西奥
 wilson ask:威尔森问
 wilson avenue station:威爾遜大道車站
 wilson believe:威爾遜相信
+wilson boulevard:威爾遜大道
 wilson center:威尔森中心
 wilson center:威爾遜中心
 wilson centre:威爾遜中心
 wilson chandler score:威尔森钱德勒得分
 wilson chandler:威尔森钱德勒
+wilson college:威爾遜學院
 wilson company:威尔森公司
 wilson complete:威尔森完成
 wilson county:威爾遜縣
@@ -11920,16 +12014,19 @@ wilson debate:威爾遜辯論
 wilson even:威爾遜甚至
 wilson family:威爾遜家庭
 wilson glacier:威爾森冰川
+wilson government:威爾遜政府
 wilson handshake:威爾遜握手
 wilson harbour:威爾森港
 wilson healthy:威爾遜健康
 wilson high school:威爾遜高中
 wilson house:威信大廈
 wilson intend:威爾遜打算
+wilson lake:威爾遜湖
 wilson li:李永成
 wilson logistics centre:威信物流中心
 wilson loop:威爾森迴圈
 wilson ministry:威爾遜內閣
+wilson mountain:威爾遜山
 wilson mountains:威爾森山脈
 wilson nunataks:威爾遜冰原島峰
 wilson or:柯創盛
@@ -11949,7 +12046,9 @@ wilson says:威尔森说
 wilson shieh:石家豪
 wilson sporting goods:威尔胜
 wilson theatre:威尔森剧院
+wilson theorem:威爾遜定理
 wilson township:威尔逊镇区
+wilson township:威爾遜鎮區
 wilson trail section 10:衛奕信徑第10段
 wilson trail section 10:衞奕信徑第十段
 wilson trail section 1:衛奕信徑第1段
@@ -12000,6 +12099,7 @@ wilton crescent:威尔顿新月
 wilton place:蔚庭軒
 wiltscha:維利恰
 wiltshire and hampshire:威爾特郡和漢普郡
+wiltshire north:威爾特郡北
 wiltshire place:蔚珊園
 wiltshire police:威爾特郡警察
 wiltshire road:偉順路
@@ -12007,6 +12107,7 @@ wiltshire road:渭州道
 wiltshire rocks:威爾特郡岩
 wiltshire wildlife:威爾特郡野生生物
 wiltshire:威爾特郡
+wiltz river:维尔茨河
 wiltz:维尔茨
 wiluczinsk:维柳钦斯克
 wiluj:維柳伊河
@@ -12056,6 +12157,7 @@ wiman of gojoseon:衛滿
 wimanius:维曼鱼龙属
 wimbach:温巴赫
 wimberbach:溫伯巴赫河
+wimbledon champion:溫布頓冠軍
 wimbledon championships:温布尔登网球锦标赛
 wimbledon common:溫布頓公地
 wimbledon croquet:溫布頓槌球
@@ -12712,12 +12814,14 @@ winchester castle:温彻斯特城堡
 winchester cathedral:温彻斯特主教座堂
 winchester cathedral:温彻斯特大教堂
 winchester cathedral:溫徹斯特座堂
+winchester cathedrals:温彻斯特大教堂
 winchester center:温彻斯特中心
 winchester centre:温彻斯特中心
 winchester city centre:温彻斯特市中心
 winchester college:温彻斯特公学
 winchester college:温彻斯特学院
 winchester comedy:温彻斯特喜剧
+winchester diocese:温彻斯特教區
 winchester discovery:温彻斯特发现
 winchester from:温彻斯特从
 winchester geese:温彻斯特鹅
@@ -12750,6 +12854,8 @@ winchester that:温彻斯特那
 winchester this:温彻斯特这
 winchester thurston:温彻斯特瑟斯顿
 winchester to canterbury:温彻斯特到坎特伯雷
+winchester township:温彻斯特镇区
+winchester university:温彻斯特大学
 winchester village:温彻斯特村庄
 winchester virginia:温彻斯特弗吉尼亚州
 winchester:温彻斯特
@@ -12918,6 +13024,7 @@ wind circuit:风电路
 wind clan:风氏族
 wind class selection:风类选择
 wind class:风类
+wind class:风纲
 wind clear:风清除
 wind cloud:风云
 wind coast hotel:風の海岸
@@ -12949,11 +13056,14 @@ wind data:风数据
 wind day:风日
 wind days:风天
 wind decided:风决定
+wind deity:風神
+wind deity:风神
 wind design:風設計
 wind design:风设计
 wind direction:風向
 wind dollars:风美元
 wind don't:风不
+wind dragon:风龙
 wind drift:風漂
 wind drift:风漂
 wind ear:风耳
@@ -12982,6 +13092,7 @@ wind field:风场
 wind finally:风最终
 wind fire:风火
 wind flow:风流动
+wind flower:風花
 wind force and wind direction:風力和風向
 wind force and wind:風力和風
 wind force and wind:风力和风
@@ -13166,6 +13277,8 @@ wind river will continue:风河将继续
 wind river:温德河
 wind river:風河
 wind river:风河
+wind rose:風玫瑰
+wind rose:风玫瑰
 wind rose:风玫瑰图
 wind route:风路线
 wind royal family:風皇室
@@ -13237,7 +13350,9 @@ wind towards:风向
 wind tower park exhibition gallery:鴨脷洲風之塔公園展覽廊
 wind tower structure:风塔结构
 wind tower:風之塔
+wind tower:風塔
 wind tower:风塔
+wind towers:風塔
 wind towers:风塔
 wind trade:风贸易
 wind travel:風旅行
@@ -13301,6 +13416,8 @@ wind was most important:风是最重要的
 wind was right:风是正确的
 wind water:风水
 wind wave:波濤
+wind wave:風波
+wind wave:风波
 wind went:风去
 wind west:风西
 wind wheel:風輪
@@ -13392,6 +13509,7 @@ windmill experiment:风车实验
 windmill farm:风车农场
 windmill installation:风车安装
 windmill islands:風車群島
+windmill islands:风车群岛
 windmill landscape:风车景观
 windmill manufacturer:风车制造商
 windmill manufacturers:风车制造商
@@ -13403,6 +13521,7 @@ windmill six:风车六
 windmill street:风车街
 windmill swing:风车秋千
 windmill technology:风车技术
+windmill theatre:风车剧场
 windmill theatre:风车剧院
 windmill villa:风车别墅
 windmill village:风车村
@@ -13459,6 +13578,7 @@ window flower:窗花
 window fog:窗雾
 window from:窗从
 window function:窗函数
+window functions:窗函数
 window glass:窗玻璃
 window half:窗半
 window has been:窗已经
@@ -13568,6 +13688,7 @@ window system:窗系統
 window system:窗系统
 window systems:窗系统
 window take:窗取
+window tax:窗稅
 window tax:窗税
 window technologies:窗技术
 window technology:窗技术
@@ -13971,6 +14092,8 @@ wine auction:酒拍卖
 wine awards:葡萄酒奖
 wine bar manager:葡萄酒酒吧经理
 wine bar:葡萄酒酒吧
+wine barrel:葡萄酒桶
+wine barrel:酒桶
 wine be:葡萄酒成为
 wine before:葡萄酒之前
 wine began:酒开始
@@ -13988,6 +14111,7 @@ wine book:葡萄酒书
 wine book:酒书
 wine books:葡萄酒书籍
 wine bottle:葡萄酒瓶
+wine bottle:酒瓶
 wine box packaging:酒盒包裝
 wine box:酒盒
 wine box:酒盒子
@@ -14004,6 +14128,7 @@ wine business international magazine:葡萄酒商业国际杂志
 wine business leader:葡萄酒商业领袖
 wine business:葡萄酒商业
 wine business:葡萄酒生意
+wine butler:葡萄酒管家
 wine buy:葡萄酒买
 wine cabinet:葡萄酒内阁
 wine calendar:葡萄酒日历
@@ -14034,6 +14159,7 @@ wine challenges:葡萄酒挑战
 wine changed:葡萄酒改变了
 wine chemist:葡萄酒化学家
 wine chemistry:葡萄酒化学
+wine chemistry:葡萄酒化學
 wine choice:葡萄酒选择
 wine choice:葡萄酒選擇
 wine class:葡萄酒课程
@@ -14112,6 +14238,7 @@ wine culture center:葡萄酒文化中心
 wine culture:葡萄酒文化
 wine culture:酒文化
 wine cup:葡萄酒杯
+wine cup:酒杯
 wine data set:酒数据集
 wine data:葡萄酒数据
 wine database:葡萄酒数据库
@@ -14132,6 +14259,7 @@ wine dinner:酒晚餐
 wine distillation:葡萄酒蒸馏
 wine division:酒师
 wine drink:葡萄酒饮料
+wine drinking:酒飲
 wine e-commerce:葡萄酒电子商务
 wine economics:葡萄酒经济学
 wine economist:葡萄酒经济学家
@@ -14474,6 +14602,7 @@ wine quality:酒质量
 wine queen:葡萄酒王后
 wine rather than:葡萄酒而不是
 wine rather than:酒而不是
+wine rating:葡萄酒分級
 wine real:葡萄酒真的
 wine records began:葡萄酒记录开始
 wine red:葡萄酒红色
@@ -14558,6 +14687,7 @@ wine strain:葡萄酒紧张
 wine strategic markets:葡萄酒战略市场
 wine strategic:葡萄酒战略
 wine stream:酒流
+wine street:葡萄酒街
 wine street:酒街
 wine students:酒学生
 wine studies:葡萄酒研究
@@ -15306,6 +15436,7 @@ winly building:永利大廈
 winmax car audio:滙名汽車影音
 winne hung:洪詠甄
 winneba:溫尼巴
+winnebago county:温纳贝戈县
 winnebago county:溫納貝戈縣
 winnebago industries:沃倫貝格工業
 winnebago township:温纳贝戈镇区
@@ -15500,6 +15631,7 @@ winnipeg international:温尼伯国际
 winnipeg is a railway:温尼伯是一个铁路
 winnipeg is located in:温尼伯位于
 winnipeg jets:溫尼伯噴射機
+winnipeg lake:温尼伯湖
 winnipeg library:温尼伯图书馆
 winnipeg manitoba temple:曼尼托巴省溫尼伯聖殿
 winnipeg manufacturing:温尼伯制造业
@@ -15510,6 +15642,8 @@ winnipeg public library:温尼伯公共图书馆
 winnipeg qucha:温尼伯湖
 winnipeg river:溫尼伯河
 winnipeg root:温尼伯根
+winnipeg stadium:温尼伯体育场
+winnipeg stadium:温尼伯體育場
 winnipeg student:温尼伯学生
 winnipeg students:温尼伯学生
 winnipeg sun:温尼伯太阳
@@ -15766,6 +15900,7 @@ winter davos forum:冬季达沃斯论坛
 winter davos:冬季达沃斯
 winter day:冬季日
 winter days:冬季天
+winter deaflympics:冬季聽障奧林匹克運動會
 winter death data:冬季死亡数据
 winter death:冬季死亡
 winter demand:冬季需求
@@ -15874,6 +16009,7 @@ winter heat wave:冬季热浪
 winter heat:冬季热
 winter hemisphere:冬季半球
 winter here:冬季这里
+winter hexagon:冬季六边形
 winter hexagon:冬季六邊形
 winter hibernation:冬季冬眠
 winter high:冬季高
@@ -15981,6 +16117,7 @@ winter olympic games in south korea:冬季奥林匹克运动会在韩国
 winter olympic games once:冬季奥林匹克运动会一次
 winter olympic games:冬季奥林匹克运动会
 winter olympic village:冬季奥运村
+winter olympic:冬季奧運
 winter olympics and mexico city summer:冬季奥运会和墨西哥城夏季
 winter olympics as well as:冬季奥运会以及
 winter olympics begin:冬季奥运会开始
@@ -16020,6 +16157,7 @@ winter park offer:冬季公园提供
 winter park public library:冬季公园公共图书馆
 winter park, florida:温特帕克
 winter park:冬季公园
+winter park:冬季公園
 winter park:温特帕克
 winter peak power:冬季峰值电力
 winter peak:冬季峰值
@@ -16082,6 +16220,7 @@ winter run:冬季运行
 winter running:冬季跑步
 winter safety:冬季安全
 winter salami:冬季莎乐美肠
+winter salami:冬季莎樂美腸
 winter sales:冬季销售
 winter salt:冬季盐
 winter schedule:冬季時間表
@@ -16140,6 +16279,7 @@ winter sport:冬季运动
 winter sports center:冬季運動中心
 winter sports centre:冬季運動中心
 winter sports palace:冬季運動宮
+winter sports:冬季运动
 winter sports:冬季運動
 winter steel:冬季钢
 winter still:冬季仍然
@@ -16284,6 +16424,7 @@ winter white:冬季白色
 winter wildfire:冬季野火
 winter wildlife:冬季野生动物
 winter will:冬季会
+winter wind:冬季風
 winter wind:冬季风
 winter window:冬季窗
 winter wine:冬季葡萄酒
@@ -16580,6 +16721,8 @@ wireless solution:无线的解决方案
 wireless speed:无线的速度
 wireless standard:无线的标准
 wireless standards:无线的标准
+wireless technologies:無線通訊技术
+wireless technology:無線通訊技术
 wireless telegraphy:無線電報
 wireless telephone:無線電話
 wireless usb:無線通用序列匯流排
@@ -16709,9 +16852,12 @@ wisconsin institute:威斯康辛研究所
 wisconsin international:威斯康辛国际
 wisconsin islands:威斯康星群島
 wisconsin law:威斯康辛州法律
+wisconsin legislature:威斯康星州立法机关
 wisconsin lutheran college:威斯康星路德學院
 wisconsin map:威斯康辛州地图
 wisconsin milk:威斯康辛牛奶
+wisconsin milwaukee:威斯康星州密尔沃基
+wisconsin milwaukee:威斯康辛州密爾瓦基
 wisconsin officials:威斯康辛州官员
 wisconsin politician:威斯康辛州政治家
 wisconsin portion:威斯康辛部分
@@ -16740,6 +16886,8 @@ wisconsin tax:威斯康辛州稅
 wisconsin telephone:威斯康辛州电话
 wisconsin territorial centennial half dollar:威斯康星领地百年纪念半美元
 wisconsin territory:威斯康星領地
+wisconsin university:威斯康辛大学
+wisconsin university:威斯康辛大學
 wisconsin valley:威斯康辛山谷
 wisconsin woman:威斯康辛女人
 wisconsin workers:威斯康辛州工人
@@ -17468,6 +17616,7 @@ wish tom:希望汤姆
 wish tomorrow:希望明天
 wish tourists:希望游客
 wish travel:希望旅行
+wish tree:希望树
 wish tree:愿望树
 wish tree:神樹
 wish trump:希望特朗普
@@ -17612,6 +17761,7 @@ wissel die inhoudsopgawe nizjni nowgorod:下诺夫哥罗德
 wisselkantoor:銀行
 wissembourg (avant 2015):白堡
 wissembourg (avant 2015):维桑堡
+wissembourg station:维桑堡站
 wissembourg:白堡
 wissembourg:维桑堡
 wissen:维森
@@ -17714,6 +17864,8 @@ witch house:nǚ​wū​diàn
 witch house:女巫店
 witch hunt:獵巫
 witch hunter robin:禁獵魔女
+witch hunter:女巫猎人
+witch hunting:女巫狩獵
 witch in new york:女巫在纽约
 witch judge:女巫法官
 witch just:女巫只
@@ -17759,6 +17911,7 @@ witch teacher:女巫教师
 witch tell:女巫告诉
 witch that:女巫那
 witch then:女巫然后
+witch tower:女巫塔
 witch train:女巫火车
 witch tree:女巫树
 witch trial:女巫审判
@@ -23681,6 +23834,7 @@ with football related toy:与足球相关的玩具
 with football:与足球
 with for example:与例如
 with forbes:与福布斯
+with force:与力
 with ford motor company:与福特汽车
 with ford representatives:与福特代表
 with ford:与福特
@@ -35882,6 +36036,7 @@ with zuckerberg:与扎克伯格
 with zurich:与苏黎世
 with zyxel:与合勤科技
 with:与
+witham constituency:威特姆选区
 witham:威特姆
 withania somnifera:睡茄
 withania:睡茄属
@@ -35985,6 +36140,7 @@ witheminsel:懷特姆島
 withemův ostrov:懷特姆島
 withering away of the state:国家消亡
 witherite:毒重石
+withernsea lighthouse:威瑟恩西燈塔
 withernsea:威瑟恩西
 withers:鬐甲
 within a few ten:内几十
@@ -36067,6 +36223,7 @@ within river trade water:内河贸易水
 within river:内河
 within river:内河流
 within said:内说
+within sand:内沙
 within science:内科学
 within search:内搜索
 within seven:内七

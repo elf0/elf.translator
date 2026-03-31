@@ -1,5 +1,9 @@
 ot&p healthcare:領康醫療
+ota gymnasium:大田区体育馆
+ota gymnasium:大田區體育館
 ota shi:太田市
+ota stadium:大田区体育馆
+ota station:太田站
 ota village:太田村
 ota-shi:太田市
 ota:大田区
@@ -52,6 +56,8 @@ otan-ri:俉炭里
 otanche:奧坦切
 otani kikuzo:大谷喜久藏
 otani university junior college:大谷大学短期大学部
+otani university:大谷大学
+otani university:大谷大學
 otani:双溪
 otani:大谷
 otani:雙溪
@@ -78,6 +84,8 @@ otashimomachi:太田下町
 otaturk ko'rinishi:阿塔图尔克剪影
 otava - ottawa:渥太华
 otava - ottawa:渥太華
+otava river:渥太华河
+otava river:渥太華河
 otava:渥太华
 otava:渥太華
 otavalo canton:奧塔瓦洛縣
@@ -4162,6 +4170,7 @@ otis art institute:奥蒂斯艺术学院
 otis chandler:奥蒂斯钱德勒
 otis college:奥蒂斯学院
 otis elevator:奥蒂斯电梯
+otis family:奥蒂斯科
 otis gibson:基顺
 otis is right:奥蒂斯是对的
 otis prepare:奥蒂斯准备
@@ -4388,6 +4397,7 @@ otrada:奧特拉達
 otradnensky district:奧特拉德納亞區
 otradnoye district residents:奥特拉德诺耶区居民
 otradnoye district:奥特拉德诺耶区
+otranto cathedral:奧特朗托主教座堂
 otranto:奧特朗托
 otrar:訛答剌
 otres beach:最佳
@@ -4433,6 +4443,7 @@ otsuichi:乙一
 otsuka miyanoshita:大塚宫之下
 otsuka miyanoshita:大塚宮之下
 otsuka pharmaceutical:大塚製藥
+otsuki station:大月站
 otsuki-cho:大月町
 otsuki:大月
 otsuki:大月市
@@ -4464,25 +4475,39 @@ ottawa chinatown:渥太華唐人街
 ottawa chinese bible church:渥太華華人真道堂
 ottawa citizen:渥太華公民
 ottawa civic hospital:渥太華市民醫院
+ottawa county:渥太华县
 ottawa county:渥太華縣
 ottawa fury fc:渥太華暴怒足球會
+ottawa fury:渥太華暴怒
 ottawa general hospital:渥太華全科醫院
+ottawa hospital:渥太华医院
 ottawa hospital:渥太華醫院
 ottawa islands:渥太华群岛
+ottawa lake:渥太華湖
 ottawa life:渥太華生活
+ottawa marathon:渥太华马拉松
 ottawa national forest:渥太华国家森林
 ottawa needs:渥太華需要
 ottawa not:渥太華不是
 ottawa police service:渥太華警隊
+ottawa police:渥太华警隊
+ottawa police:渥太華警隊
 ottawa rape crisis centre:渥太华强奸危机中心
 ottawa renegades:渥太華復仇者
+ottawa river:渥太华河
 ottawa river:渥太華河
+ottawa road:渥太華道路
 ottawa senators:渥太華參議員
+ottawa station:渥太华站
 ottawa station:渥太華車站
 ottawa titans:渥太华泰坦
 ottawa township:渥太华镇区
+ottawa township:渥太華鎮區
 ottawa treaty:渥太华条约
+ottawa tribe:渥太华部落
+ottawa university:渥太华大学
 ottawa university:渥太華大學
+ottawa valley:渥太華谷地
 ottawa:渥太华
 ottawa:渥太華
 ottelia acuminata:海菜花
@@ -4538,26 +4563,39 @@ ottobeuren:奥托博伊伦
 ottobiano:奥托比亚诺
 ottobock plans:奥托博克计划
 ottobock:奥托博克
+ottobrunn station:奥托布伦站
 ottobrunn:奥托布伦
 ottochloa:露籽草属
 ottocium:奥托查茨
 ottocium:奧托查茨
 ottogi:奥多吉
+ottoman albanians:土耳其的阿爾巴尼亞人
+ottoman alphabet:土耳其字母
+ottoman anatolia:土耳其安納托利亞
 ottoman arabia:鄂圖曼帝國統治下的阿拉伯半島
 ottoman architect:土耳其建筑师
 ottoman architecture:奧斯曼建築
 ottoman armenia:土耳其亚美尼亚
+ottoman army:土耳其军队
 ottoman army:土耳其陆军
 ottoman aviation squadrons:鄂圖曼帝國空軍
+ottoman bank:土耳其银行
 ottoman bulgaria:奧斯曼帝国治下的保加利亚
+ottoman bulgarian:土耳其的保加利亚人
 ottoman caliphate:鄂圖曼哈里發國
+ottoman clothing:土耳其服装
+ottoman coffeehouse:土耳其咖啡店
 ottoman conquest of adrianople:阿德里安堡之圍
 ottoman conquest of otranto:奥斯曼帝国入侵奥特朗托
+ottoman constitution:土耳其宪法
+ottoman coup:土耳其政变
 ottoman cuisine:鄂圖曼飲食
+ottoman culture:土耳其文化
 ottoman decline thesis:鄂圖曼帝國衰落論
 ottoman diplomat:土耳其外交官
 ottoman dynasty:奧斯曼王朝
 ottoman economy:土耳其的经济
+ottoman economy:土耳其经济
 ottoman egypt:埃及省
 ottoman embassy to aceh:鄂圖曼遠征亞齊
 ottoman empire accept:奥斯曼帝国接受
@@ -4595,27 +4633,52 @@ ottoman empire would:奥斯曼帝国将
 ottoman empire:土耳其帝国
 ottoman empire:奥斯曼帝国
 ottoman family tree:奥斯曼王朝族谱
+ottoman fleet:土耳其艦隊
 ottoman frontier:土耳其的边境
 ottoman government:土耳其政府
+ottoman history:土耳其历史
 ottoman interregnum:鄂圖曼帝國大空位期
+ottoman invasion:土耳其入侵
+ottoman istanbul:土耳其伊斯坦布尔
+ottoman jew:土耳其犹太人
+ottoman jews:土耳其犹太人
+ottoman kurds:土耳其库尔德人
+ottoman language:土耳其語言
+ottoman language:土耳其语言
 ottoman law and british:土耳其的法律和英国的
+ottoman law:土耳其法律
 ottoman law:土耳其的法律
+ottoman literature:土耳其文学
+ottoman literature:土耳其文學
 ottoman military band:鄂圖曼軍樂隊
 ottoman military:土耳其军事
+ottoman military:土耳其军队
+ottoman military:土耳其軍隊
 ottoman miniature:鄂圖曼細密畫
+ottoman music:土耳其音乐
+ottoman nationalism:土耳其民族主义
+ottoman nationalism:土耳其民族主義
 ottoman navy:土耳其海军
 ottoman navy:鄂圖曼帝國海軍
 ottoman old regime:奧斯曼帝國的滯止
+ottoman parliament:土耳其国会
+ottoman parliament:土耳其议会
+ottoman party:土耳其党
+ottoman people:土耳其人民
 ottoman period:土耳其时期
+ottoman railway:土耳其铁路
 ottoman serbia:奥斯曼帝国治下的塞尔维亚
 ottoman ship:土耳其船
 ottoman soldier:土耳其士兵
 ottoman states:土耳其国家
+ottoman sudan:土耳其苏丹
+ottoman sudan:土耳其蘇丹
 ottoman tent:土耳其帐篷
 ottoman territory:土耳其领土
 ottoman trade monopoly:土耳其的贸易垄断
 ottoman trade:土耳其的贸易
 ottoman tripolitania:奧斯曼的黎波里塔尼亞
+ottoman troops:土耳其军队
 ottoman turkish alphabet:鄂圖曼土耳其語字母
 ottoman turkish and persian:奥斯曼土耳其语和波斯语
 ottoman turkish and russian language:奥斯曼土耳其语和俄语

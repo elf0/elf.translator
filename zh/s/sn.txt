@@ -114,6 +114,7 @@ snail eventually:蜗牛最终
 snail extinction:蜗牛灭绝
 snail from china:蜗牛从中国
 snail from:蜗牛从
+snail games:蜗牛游戏
 snail habitat:蜗牛栖息地
 snail incident:蜗牛事件
 snail insurance:蜗牛保险
@@ -136,6 +137,7 @@ snail shell and the:蜗牛壳和这
 snail shell is its:蜗牛壳是它的
 snail shell:蜗牛壳
 snail species:蜗牛物种
+snail tower:蜗牛塔
 snail toxin peptide:蜗牛毒素肽
 snail toxin:蜗牛毒素
 snail venom mix:蜗牛毒液混合
@@ -192,13 +194,16 @@ snake continues:蛇继续
 snake could:蛇能
 snake cube:蛇仔骰
 snake cult:蛇邪教
+snake deity:蛇神
 snake design:蛇设计
 snake dragon:蛇龙
 snake dream:蛇梦
+snake eagle:蛇鵰
 snake eat its tail:蛇吃它的尾
 snake eat:蛇吃
 snake eater:蛇食者
 snake echidna:蛇针鼹
+snake eel:蛇鰻
 snake eggs:蛇蛋
 snake enough time:蛇足够的时间
 snake enough:蛇足够的
@@ -207,13 +212,16 @@ snake even:蛇甚至
 snake evolution:蛇进化
 snake expert:蛇专家
 snake farm:蛇农场
+snake flag:蛇旗
 snake fossil:蛇化石
 snake from:蛇从
 snake game:蛇游戏
 snake god:蛇神
+snake goddess:蛇女神
 snake grass:蛇草
 snake habitat:蛇栖息地
 snake head:蛇头
+snake hill:蛇丘
 snake hook:蛇钩
 snake i:蛇我
 snake ice:蛇冰
@@ -239,6 +247,7 @@ snake mackerel:黑刃蛇鯖
 snake means:蛇意味着
 snake meat has any:蛇肉有任何
 snake meat:蛇肉
+snake melon:蛇瓜
 snake moan:蛇呻吟
 snake motion:蛇运动
 snake mountain:蛇山
@@ -321,6 +330,7 @@ snake whip:蛇鞭
 snake who:蛇谁
 snake will:蛇会
 snake wine:蛇酒
+snake worship:蛇崇拜
 snake wound:蛇伤
 snake year:蛇年
 snake's head mountain view:蛇頭山觀景台
@@ -733,6 +743,7 @@ snow artist:雪艺术家
 snow as well as:雪以及
 snow ask:雪问
 snow awake:雪唤醒
+snow ball:雪球
 snow bamboo:雪竹
 snow band:雪带
 snow bank:雪银行
@@ -772,6 +783,7 @@ snow celebration:雪庆祝
 snow chains:雪鍊
 snow changed:雪改变了
 snow chaos:雪混乱
+snow chicken:雪鸡
 snow child:雪孩子
 snow city:雪城市
 snow clean:雪清理
@@ -842,6 +854,7 @@ snow falling on cedars:雪落香杉树
 snow farm:雪农场
 snow field:雪场
 snow fight:雪战斗
+snow flower:雪花
 snow fly:雪飞
 snow food:雪食物
 snow fort:雪要塞
@@ -912,8 +925,10 @@ snow kid:雪孩子
 snow king ice cream:雪王冰淇淋
 snow king:雪王
 snow kingdom:雪王国
+snow kiss:雪吻
 snow knight:雪骑士
 snow kong:孔雪兒
+snow lake:雪拉克
 snow lake:雪湖
 snow landscape:雪景观
 snow layer:雪层
@@ -957,14 +972,19 @@ snow like:雪喜欢
 snow line height:雪线高度
 snow line:雪线
 snow lion publication:雪獅出版
+snow lion:雪狮
+snow lion:雪狮子
 snow lion:雪獅
 snow look:雪看
+snow lotus:雪莲花
+snow lotus:雪蓮花
 snow machines:雪机器
 snow magazine:雪杂志
 snow magic:雪魔法
 snow management system:雪管理系统
 snow manager:雪经理
 snow market:雪市场
+snow marten:雪貂
 snow means death:雪意味着死亡
 snow means survival:雪意味着生存
 snow means:雪意味着
@@ -1030,6 +1050,7 @@ snow partridge:雪鹑
 snow patrol:雪警樂團
 snow pattern:雪模式
 snow pea:荷蘭豆
+snow peak:雪峰
 snow petrel peak:斯諾佩特雷爾峰
 snow petrel:雪鹱
 snow phenomenon:雪现象
@@ -1070,6 +1091,7 @@ snow resort:雪度假村
 snow resources:雪资源
 snow return:雪返回
 snow reveal:雪揭示
+snow river:雪河
 snow road:雪路
 snow roads:雪路
 snow roof:雪屋顶
@@ -1089,6 +1111,7 @@ snow sea:雪海
 snow season:雪季节
 snow service:雪服务
 snow sheep:雪绵羊
+snow shoe:雪鞋
 snow shovel:雪铲
 snow show:雪显示
 snow situation:雪情况
@@ -1098,6 +1121,7 @@ snow slowly:雪慢慢地
 snow so:雪如此
 snow software:雪软件
 snow sometimes:雪有时
+snow song:雪歌
 snow soon:雪很快
 snow spider:雪蜘蛛
 snow sport:雪运动
@@ -1215,9 +1239,11 @@ snowball and boxer:雪球和拳击手
 snowball be:雪球成为
 snowball become:雪球成为
 snowball began:雪球开始
+snowball close:雪球关闭
 snowball cocktail:雪球鸡尾酒
 snowball data:雪球数据
 snowball declare:雪球声明
+snowball deletion:雪球刪除
 snowball earth hypothesis:雪球地球假说
 snowball earth phase:雪球地球阶段
 snowball earth theory:雪球地球理论
@@ -1254,6 +1280,7 @@ snowcock:雪鸡属
 snowden documents:斯諾登文件
 snowden download:斯諾登下載
 snowden last year:斯諾登去年
+snowden mountain:斯諾登山
 snowden want:斯諾登想要
 snowden:斯諾登
 snowdon mountain railway:斯諾登登山鐵路
@@ -1280,6 +1307,7 @@ snowflake image:雪花图像
 snowflake melt:雪花融化
 snowflake model:雪花模型
 snowflake moray:雲紋蛇鱔
+snowflake obsidian:雪花黑曜岩
 snowflake pattern:雪花模式
 snowflake physics:雪花物理学
 snowflake princess:雪花公主

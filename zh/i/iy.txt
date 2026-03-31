@@ -37,7 +37,10 @@ iylanda:冰岛
 iylanda:冰岛 / 冰島
 iylanda:冰島
 iymek:依买克村
+iyo bank:伊予銀行
+iyo bank:伊予银行
 iyo county:伊予郡
+iyo dialect:伊予方言
 iyo doi station:伊予土居站
 iyo himi station:伊予冰見站
 iyo hirano station:伊予平野站
@@ -49,6 +52,8 @@ iyo komatsu station:伊予小松站
 iyo mishima station:伊予三島站
 iyo miyanoshita station:伊予宮野下站
 iyo miyoshi station:伊予三芳站
+iyo nada:伊予滩
+iyo nada:伊予灘
 iyo nagahama station:伊予長濱站
 iyo nakayama station:伊予中山站
 iyo no kuni:伊豫国

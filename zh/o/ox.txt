@@ -15,21 +15,26 @@ ox head and horse face:牛頭馬面
 ox head:牛头
 ox heart:牛心
 ox heart:牛心山
+ox island:牛岛
 ox jump:牛跳
 ox leg:牛腿
+ox meat:牛肉
 ox mountain:牛山
 ox or donkey:牛或驴
 ox orchids:牛記蘭花農場
+ox road:牛路
 ox roast:牛烤
 ox skull:牛头骨
 ox statue:牛雕像
 ox tail mountain:niú wěibā shān
+ox tail:牛尾
 ox tales:肥牛牛布斯
 ox team:牛队
 ox together:牛一起
 ox tongue pastry:牛脷酥
 ox tongue spear:牛舌槍
 ox tongue specialty store:利久
+ox tongue:牛舌
 ox warehouse:牛房仓库
 ox warehouse:牛房倉庫
 ox whip:牛鞭
@@ -112,11 +117,14 @@ oxfam and world:樂施會和世界
 oxfam report:樂施會報告
 oxfam scandal:樂施會醜聞
 oxfam:樂施會
+oxford academy:牛津大学学院
+oxford academy:牛津学院
 oxford accent:牛津口音
 oxford accept:牛津大学接受
 oxford advanced learner's dictionary:牛津高阶英语词典
 oxford advanced learner's english chinese dictionary:牛津高阶英汉双解词典
 oxford airport:牛津机场
+oxford airport:牛津機場
 oxford alumni:牛津大学校友
 oxford alumni:牛津校友
 oxford american:牛津美国人
@@ -168,6 +176,7 @@ oxford blockchain:牛津区块链
 oxford blockchain:牛津大学区块链
 oxford boat:牛津船
 oxford books:牛津书
+oxford bookstore:牛津書店
 oxford boss:牛津老板
 oxford brookes university:牛津布魯克斯大學
 oxford building:牛津建筑
@@ -211,6 +220,7 @@ oxford classical texts:牛津古典文本
 oxford classical:牛津古典
 oxford clay:牛津泥層
 oxford clay:牛津粘土
+oxford clay:牛津黏土
 oxford climate:牛津大学气候
 oxford cloth and nylon:牛津布和尼龙
 oxford cloth:牛津布
@@ -218,10 +228,12 @@ oxford club:牛津俱乐部
 oxford colleagues:牛津同事
 oxford college of emory university:埃默里大学牛津学院
 oxford college summer school:牛津学院暑期学校
+oxford college:牛津大学学院
 oxford college:牛津学院
 oxford college:牛津學院
 oxford college:理學堂大書院
 oxford colour:牛津颜色
+oxford comma:牛津逗號
 oxford commercial building:晉利商業大廈
 oxford community:牛津大学社区
 oxford community:牛津社区
@@ -231,6 +243,7 @@ oxford conference:牛津会议
 oxford continue:牛津大学继续
 oxford corpus:牛津语料库
 oxford corridor:牛津走廊
+oxford county:牛津县
 oxford court:豐林閣
 oxford crown court:牛津皇室法院
 oxford culture:牛津文化
@@ -246,7 +259,9 @@ oxford dictionary online:牛津词典在线
 oxford dictionary website:牛津詞典網站
 oxford dictionary:牛津詞典
 oxford dictionary:牛津词典
+oxford diocese:牛津教區
 oxford dodo:牛津渡渡鸟
+oxford east:牛津東
 oxford economics:牛津大学经济学
 oxford economics:牛津經濟學
 oxford economics:牛津经济学
@@ -374,12 +389,15 @@ oxford meeting:牛津会议
 oxford mindfulness centre:牛津正念中心
 oxford mindfulness:牛津正念
 oxford modern:牛津现代
+oxford mountain:牛津山
 oxford movement was an important:牛津运动是一个重要的
 oxford movement:牛津运动
 oxford murder:牛津謀殺
 oxford museum:牛津博物馆
+oxford museum:牛津大学博物馆
 oxford needs:牛津需要
 oxford network:牛津网络
+oxford north:牛津北
 oxford nylon:牛津尼龙
 oxford offer:牛津大学提供
 oxford offer:牛津提供
@@ -473,9 +491,11 @@ oxford social:牛津社交
 oxford sovereign wealth fund:牛津主权财富基金
 oxford spectrometer:牛津光谱仪
 oxford spelling:牛津拼写
+oxford spelling:牛津拼寫
 oxford spokesman:牛津大学发言人
 oxford spokesperson:牛津大学发言人
 oxford stage:牛津大学阶段
+oxford station:牛津站
 oxford still:牛津大学仍然
 oxford street and bond:牛津街和邦德
 oxford street and camden:牛津街和卡姆登
@@ -512,9 +532,11 @@ oxford team:牛津大学团队
 oxford too:牛津大学也
 oxford tools:牛津工具
 oxford town hall:牛津市政厅
+oxford township:牛津鎮區
 oxford township:牛津镇区
 oxford train station:牛津火车站
 oxford transport:牛津运输
+oxford union:牛津大学联盟
 oxford union:牛津大學辯論社
 oxford union:牛津联盟
 oxford university and bolton university:牛津大学和博尔顿大学
@@ -590,6 +612,7 @@ oxford university without:牛津大学没有
 oxford university:牛津大学
 oxford university:牛津大學
 oxford vaccine group:牛津疫苗组
+oxford vaccine:牛津疫苗
 oxford vascular:牛津血管
 oxford vocabulary:牛津词汇
 oxford wealth club:牛津财富俱乐部
@@ -695,6 +718,7 @@ oxidation melting:氧化熔化
 oxidation method:氧化方法
 oxidation methods:氧化方法
 oxidation mix:氧化混合
+oxidation number:氧化数
 oxidation of acid:氧化的酸
 oxidation of primary alcohols to carboxylic acids:伯醇氧化至羧酸
 oxidation of some examples:氧化的一些例子
@@ -732,6 +756,7 @@ oxidation result:氧化导致
 oxidation speed:氧化速度
 oxidation stage:氧化阶段
 oxidation state:氧化数
+oxidation state:氧化状态
 oxidation steel:氧化钢
 oxidation studies:氧化研究
 oxidation synthesis:氧化合成
@@ -832,6 +857,7 @@ oxide materials:氧化物材料
 oxide membrane:氧化物膜
 oxide metal:氧化物金属
 oxide mineral:氧化物矿物
+oxide mineral:氧化物礦物
 oxide mixture:氧化物混合物
 oxide molecules:氧化物分子
 oxide nanoparticle:氧化物纳米颗粒
@@ -882,6 +908,7 @@ oxirene:环氧乙烯
 oxna:奧克斯納島
 oxnaford:牛津
 oxnafordsċīr:牛津郡
+oxnard plain:奧克斯納德平原
 oxnard:奥克斯纳德
 oxnard:奧克斯納德
 oxobacter:产醋杆菌属
@@ -899,6 +926,7 @@ oxtail:牛尾
 oxted:奥克斯特德
 oxudercidae:背眼虾虎鱼科
 oxum:奥孙州
+oxus civilization:阿姆河文明
 oxus treasure:阿姆河寶藏
 oxus:阿姆河
 oxxxymiron:奧克西米龍
@@ -1018,6 +1046,7 @@ oxygen catalyst:氧催化剂
 oxygen combustion system:氧燃烧系统
 oxygen combustion technology:氧燃烧技术
 oxygen combustion:氧燃烧
+oxygen compounds:氧化合物
 oxygen concentration monitor:氧浓度监视器
 oxygen concentration range:氧浓度范围
 oxygen concentration with elevation:氧浓度与海拔

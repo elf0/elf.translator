@@ -3862,6 +3862,7 @@ at guy:在家伙
 at guyana:在圭亚那
 at gwadar:在瓜达尔
 at gwanghwamun:在光化門
+at gwanghwamun:在光化门
 at gymnastics:在体操
 at haarlem:在哈勒姆
 at habitat:在栖息地
@@ -4569,6 +4570,7 @@ at home without:在家里没有
 at home writing:在家里写作
 at home yesterday:在家里昨天
 at home you:在家里你
+at home:在家
 at home:在家里
 at homicide:在杀人
 at homo sapiens:在智人
@@ -13507,6 +13509,7 @@ ataran river:阿特蘭河
 ataraxia:内心的宁静
 atarfe:阿塔尔费
 atargatis:阿塔伽提斯
+atari corporation:雅達利公司
 atari games establish:雅达利游戏建立
 atari games we:雅达利游戏我们
 atari games:雅达利游戏
@@ -13547,6 +13550,8 @@ atayalic languages:泰雅語群
 atayurt:阿塔尤爾特
 atazanavir use:阿扎那韦使用
 atazanavir:阿扎那韦
+atbara airport:阿特巴拉機場
+atbara river:阿特巴拉河
 atbara:阿特巴拉
 atbarah river:阿特巴拉河
 atbasar airport:阿特巴薩爾機場
@@ -13776,6 +13781,7 @@ athena film festival:雅典娜電影節
 athena film:雅典娜电影
 athena international:雅典娜国际
 athena is zeus:雅典娜是宙斯
+athena king:雅典国王
 athena know:雅典娜知道
 athena laptop:雅典娜笔记本电脑
 athena laser weapon:雅典娜激光武器
@@ -13824,6 +13830,7 @@ athens about:雅典关于
 athens academy:雅典学院
 athens accuse:雅典指控
 athens acropolis museum:雅典卫城博物馆
+athens acropolis:雅典衛城
 athens against:雅典反对
 athens agree:雅典同意
 athens air:雅典空气
@@ -13884,13 +13891,16 @@ athens biennale:雅典雙年展
 athens bike:雅典自行车
 athens by:雅典被
 athens campus:雅典校园
+athens cathedral:雅典大教堂
 athens center apartment:雅典中心公寓
 athens center:雅典中心
+athens championship:雅典冠军赛
 athens charter:雅典憲章
 athens city centre:雅典市中心
 athens city museum:雅典市立博物館
 athens city:雅典城市
 athens college:雅典学院
+athens college:雅典學院
 athens concert hall:雅典音樂廳
 athens conservatoire:雅典音乐学院
 athens county:雅典县
@@ -13915,6 +13925,7 @@ athens government:雅典政府
 athens has many different:雅典有许多不同的
 athens has:雅典有
 athens he:雅典他
+athens hilton:雅典希尔顿酒店
 athens home:雅典家
 athens hopes:雅典希望
 athens hotel:雅典酒店
@@ -13947,9 +13958,12 @@ athens news agency:雅典通訊社
 athens news:雅典新闻
 athens non-governmental organization:雅典非政府组织
 athens north:雅典北
+athens observatory:雅典天文台
 athens offer:雅典提供
 athens olympic games:雅典奥林匹克运动会
 athens olympic sports complex:雅典奥林匹克体育中心
+athens olympic:雅典奧運
+athens olympics:雅典奥运会
 athens olympics:雅典奧運
 athens or barcelona:雅典或巴塞罗那
 athens or sparta:雅典或斯巴达
@@ -13986,10 +14000,15 @@ athens to kassel:雅典到卡塞尔
 athens to london:雅典到伦敦
 athens today:雅典今天
 athens tourism:雅典旅游业
+athens tower:雅典塔
 athens towers:雅典塔
 athens township:阿森斯镇区
+athens township:雅典鎮區
+athens township:雅典镇区
+athens tram:雅典有軌電車
 athens tram:雅典有轨电车
 athens trilogy:雅典三部曲
+athens university:雅典大学
 athens university:雅典大學
 athens until:雅典直到
 athens vow:雅典发誓
@@ -14546,6 +14565,7 @@ athletics continent:田径大陆
 athletics department:田径系
 athletics department:田径部门
 athletics facilities:田径设施
+athletics field:田径场
 athletics forest:田径森林
 athletics gold medal:田径金牌
 athletics grand prix:田径大奖赛
@@ -14705,6 +14725,7 @@ atkinson photograph:阿特金森照片
 atkinson push:阿特金森推
 atkinson said:阿特金森说
 atkinson says:阿特金森说
+atkinson township:阿特金森鎮區
 atkinson township:阿特金森镇区
 atkinson why:阿特金森为什么
 atkinson-cycle gasoline engine:阿特金森循环汽油发动机
@@ -14717,6 +14738,7 @@ atlanta actor:亚特兰大演员
 atlanta airport north:亚特兰大机场北
 atlanta airport power outage:亚特兰大机场停电
 atlanta airport:亚特兰大机场
+atlanta airport:亞特蘭大機場
 atlanta already:亚特兰大已经
 atlanta and austin:亚特兰大和奥斯汀
 atlanta and baltimore:亚特兰大和巴尔的摩
@@ -14795,6 +14817,7 @@ atlanta debate:亚特兰大辩论
 atlanta deployment:亚特兰大部署
 atlanta dream:亞特蘭大美夢
 atlanta driver:亚特兰大司机
+atlanta eagle:亚特兰大鹰
 atlanta even:亚特兰大甚至
 atlanta exhibition:亚特兰大展览
 atlanta factory:亚特兰大工厂
@@ -14845,6 +14868,7 @@ atlanta market:亚特兰大市场
 atlanta mayor:亚特兰大市长
 atlanta mayoral:亚特兰大市长
 atlanta meeting:亚特兰大会议
+atlanta metro:亚特兰大地铁
 atlanta mission:亚特兰大使命
 atlanta motel:亚特兰大汽车旅馆
 atlanta museum:亚特兰大博物馆
@@ -14884,9 +14908,11 @@ atlanta safety:亚特兰大安全
 atlanta school:亚特兰大学校
 atlanta speed:亚特兰大速度
 atlanta spent:亚特兰大花
+atlanta stadium:亞特蘭大體育場
 atlanta start:亚特兰大开始
 atlanta state university:亚特兰大州立大学
 atlanta state:亚特兰大州
+atlanta station:亚特兰大站
 atlanta student:亚特兰大学生
 atlanta studio:亚特兰大工作室
 atlanta summer:亚特兰大夏季
@@ -14898,6 +14924,7 @@ atlanta thrashers:亞特蘭大鶇鳥
 atlanta to california:亚特兰大到加利福尼亚
 atlanta to london:亚特兰大到伦敦
 atlanta township:亚特兰大镇区
+atlanta township:亞特蘭大鎮區
 atlanta training:亚特兰大训练
 atlanta translation:亚特兰大翻译
 atlanta twice:亚特兰大两次
@@ -14913,6 +14940,7 @@ atlanta without:亚特兰大没有
 atlanta would:亚特兰大将
 atlanta youth:亚特兰大青年
 atlanta zoo:亚特兰大动物园
+atlanta zoo:亞特蘭大動物園
 atlanta's berlin wall:亚特兰大的柏林墙
 atlanta:亚特兰大
 atlanta:亞特蘭大
@@ -14985,6 +15013,7 @@ atlantic bank:大西洋银行
 atlantic baptist university:大西洋浸會大學
 atlantic be:大西洋成为
 atlantic beach:大西洋海滩
+atlantic beach:大西洋灘
 atlantic became:大西洋成为
 atlantic because i:大西洋因为我
 atlantic behavior:大西洋行为
@@ -15000,6 +15029,7 @@ atlantic bottom:大西洋底
 atlantic boulevard:大西洋大道
 atlantic brands:大西洋品牌
 atlantic bridge:大西洋桥
+atlantic bridge:大西洋橋
 atlantic bronze:大西洋青铜
 atlantic budget:大西洋预算
 atlantic bumper:綠鯖鰺
@@ -15050,6 +15080,8 @@ atlantic coast:大西洋海岸
 atlantic coastal plain:大西洋沿岸平原
 atlantic coastline:大西洋海岸线
 atlantic cod:大西洋鱈
+atlantic cod:大西洋鱈魚
+atlantic codex:大西洋古抄本
 atlantic collaboration:大西洋合作
 atlantic college:大西洋学院
 atlantic college:大西洋學院
@@ -15151,9 +15183,11 @@ atlantic he receive:大西洋他收到
 atlantic he:大西洋他
 atlantic health:大西洋健康
 atlantic herring:大西洋鯡
+atlantic herring:大西洋鯡魚
 atlantic high skill:大西洋高技能
 atlantic high:大西洋高
 atlantic highland:大西洋高地
+atlantic history:大西洋历史
 atlantic history:大西洋史
 atlantic hockey:大西洋曲棍球
 atlantic horse mackerel:竹筴魚
@@ -15278,6 +15312,7 @@ atlantic peace:大西洋和平
 atlantic peasants:大西洋农民
 atlantic petroleum:大西洋石油
 atlantic phone:大西洋电话
+atlantic plain:大西洋平原
 atlantic plans:大西洋计划
 atlantic poacher:頜鬚細八角魚
 atlantic pockets:大西洋包圍戰
@@ -15341,6 +15376,7 @@ atlantic rowing:大西洋划船
 atlantic rules:大西洋规则
 atlantic sailfish:大西洋旗魚
 atlantic salmon:大西洋鮭
+atlantic salmon:大西洋鮭魚
 atlantic sanctions:大西洋制裁
 atlantic sargassum:大西洋马尾藻
 atlantic saw:大西洋鋸
@@ -15487,6 +15523,7 @@ atlantic voyage to cuba:大西洋航行到古巴
 atlantic voyage:大西洋航行
 atlantic wall:大西洋墙
 atlantic wall:大西洋壁壘
+atlantic walrus:大西洋海象
 atlantic war:大西洋战争
 atlantic warmth:大西洋温暖
 atlantic water:大西洋水
@@ -15538,6 +15575,7 @@ atlantis asset management:亚特兰蒂斯资产管理
 atlantis basin:亚特兰蒂斯盆地
 atlantis books:亚特兰蒂斯书店
 atlantis brand:亚特兰蒂斯品牌
+atlantis chaos:亚特兰蒂斯混沌
 atlantis chaos:亞特蘭提斯混沌
 atlantis chief executive officer:亚特兰蒂斯首席执行官
 atlantis civilization:亚特兰蒂斯文明
@@ -15980,6 +16018,7 @@ atom and light particle:原子和光粒子
 atom and molecule:原子与分子
 atom and molecule:原子和分子
 atom and six:原子和六
+atom ant:原子蚂蚁
 atom as well as:原子以及
 atom be:原子成为
 atom bomb:原子炸弹
@@ -16030,6 +16069,7 @@ atom magnet:原子磁铁
 atom microprocessor:原子微处理器
 atom model:原子模型
 atom molecules:原子分子
+atom nucleus:原子核
 atom optics:原子光学
 atom or electron:原子或电子
 atom or human beings:原子或人类
@@ -16038,6 +16078,7 @@ atom or molecule retain:原子或分子保持
 atom or molecule:原子或分子
 atom or photon:原子或光子
 atom physics:原子物理
+atom physics:原子物理学
 atom processor:原子处理器
 atom provides:原子提供
 atom research station:原子研究站
@@ -16237,6 +16278,7 @@ atoposauridae:阿吐波鱷科
 atoposaurus:阿吐波鱷屬
 atopotarus:殊海虎属
 atorkug:阿托库村
+atorvastatin calcium:阿托伐他汀钙
 atorvastatin:阿托伐他汀
 atos:東京圈輸送管理系統
 atos:源訊
@@ -16819,6 +16861,8 @@ attack healthy:攻击健康
 attack healthy:攻击健康的
 attack helicopter project:攻击直升机项目
 attack helicopter:攻击直升机
+attack helicopter:攻击直升機
+attack helicopters:攻击直升机
 attack her husband:攻击她的丈夫
 attack her nose:攻击她的鼻子
 attack here:攻击这里
@@ -17252,6 +17296,7 @@ attack tool:攻击工具
 attack tools:攻击工具
 attack training:攻击训练
 attack transaction:攻击交易
+attack transport:攻击运输
 attack transport:攻擊運輸艦
 attack treatment:攻击治疗
 attack tree:攻击树
@@ -17291,7 +17336,9 @@ attack utilize:攻击利用
 attack vaccine:攻击疫苗
 attack various online services:攻击各种在线服务
 attack various:攻击各种
+attack vector:攻击向量
 attack vector:攻擊媒介
+attack vectors:攻击向量
 attack vehicle:攻击车辆
 attack venezuela:攻击委内瑞拉
 attack version:攻击版本
@@ -17372,6 +17419,7 @@ attapeu séng:阿速坡省
 attapeu:阿速坡
 attapeu:阿速坡省
 attapu probintzia:阿速坡省
+attapu province:阿速坡省
 attapu:阿速坡
 attapu:阿速坡省
 attapö tartomány:阿速坡省
@@ -18210,6 +18258,7 @@ attersee am attersee:阿特塞
 attersee:阿特湖
 atterské jazero:阿特湖
 atterské jezero:阿特湖
+attert river:阿泰尔特河
 attert:阿泰尔特
 atthakatha:義註
 attheya:四棘藻属
@@ -18232,6 +18281,7 @@ attica prisoner:阿提卡囚犯
 attica region:阿提卡地区
 attica state:阿提卡州
 attica style:阿提卡风格
+attica township:阿提卡鎮區
 attica township:阿提卡镇区
 attica uprising:阿提卡起义
 attica:阿提卡
@@ -18463,6 +18513,7 @@ attleborough:阿特爾伯勒
 attlee glacier:阿特利冰川
 attlee ministry:艾德禮內閣
 attock district:阿特克县
+attock fort:阿塔克要塞
 attock:阿塔克
 attoko station:厚床站
 attoko station:厚床車站
@@ -18516,6 +18567,7 @@ attosecond laser:阿秒激光
 attosecond laser:阿秒激光器
 attosecond light:阿秒光
 attosecond physics:阿秒物理
+attosecond physics:阿秒物理学
 attosecond range:阿秒范围
 attosecond spectroscopy could:阿秒光谱学能
 attosecond spectroscopy:阿秒光谱学
@@ -19426,6 +19478,8 @@ attribute field:属性字段
 attribute field:属性领域
 attribute file:属性文件
 attribute give:属性给
+attribute grammar:属性语法
+attribute grammars:属性语法
 attribute group:属性组
 attribute has been:属性已经
 attribute help:属性帮助
@@ -19620,6 +19674,7 @@ atunas:歐都納戶外用品
 atuncolla district:阿通科利亞區
 atuntaqui:阿通塔基
 atuo'ebu:阿托峨不
+atuona airport:阿圖奧納機場
 atuona:阿圖奧納
 atuq wachanan:阿托克瓦查南山
 atures municipality:阿圖雷斯市
@@ -19675,6 +19730,7 @@ atypus karschi:卡氏地蛛
 atypus:地蛛属
 atyraou:阿特劳
 atyrau (regiuun):阿特劳州
+atyrau airport:阿特劳机场
 atyrau airport:阿特勞機場
 atyrau havalimanı:阿特勞機場
 atyrau international airport:阿特勞機場

@@ -96,11 +96,13 @@ hyangno peak:香爐峰
 hyangro-dong:xiānglú dòng
 hyangro-dong:香炉洞
 hyangro-dong:香爐洞
+hyangsan county:香山县
 hyangsan county:香山郡
 hyangsan state residence:香山官邸
 hyangsan-eup:香山邑
 hyangsan:香山
 hyangsan:香山邑
+hyangwon station:乡元站
 hyangwon:乡元
 hyangwon:鄕元
 hyangyak:鄉約
@@ -198,6 +200,9 @@ hyderabad airport:海得拉巴机场
 hyderabad junction railway station:海得拉巴交匯車站
 hyderabad metro:海得拉巴地铁
 hyderabad state:海得拉巴土邦
+hyderabad state:海得拉巴州
+hyderabad university:海得拉巴大学
+hyderabad university:海得拉巴大學
 hyderabad:海得拉巴
 hyderâbâd:海得拉巴
 hyderābād:海得拉巴
@@ -575,6 +580,7 @@ hydrogen bonded organic framework:氢键有机框架材料
 hydrogen bonds:氢键
 hydrogen branch:氢分支
 hydrogen breath:氢呼吸
+hydrogen bromate:氢溴酸盐
 hydrogen bromide salt:溴化氢盐
 hydrogen bromide:溴化氢
 hydrogen burning:氢燃烧的
@@ -590,6 +596,7 @@ hydrogen car:氢汽车
 hydrogen car:氢车
 hydrogen carrier technology:氢载体技术
 hydrogen carrier:氢载体
+hydrogen cation:氢阳离子
 hydrogen chalcogenide:氧族元素的氫化物
 hydrogen chloride and ammonia:氯化氢与氨
 hydrogen chloride and chlorine:氯化氢和氯
@@ -609,6 +616,7 @@ hydrogen cold fusion:氢冷核聚变
 hydrogen combustion:氢燃烧
 hydrogen come from:氢来自
 hydrogen come:氢来
+hydrogen compounds:氢化合物
 hydrogen compressor:氢压缩机
 hydrogen concentration:氢浓度
 hydrogen concept car:氢概念车
@@ -776,6 +784,7 @@ hydrogen ion concentration value:氢离子浓度值
 hydrogen ion concentration:氢离子浓度
 hydrogen ion gradient:氢离子梯度
 hydrogen ion:氢离子
+hydrogen ions:氢离子
 hydrogen is big bang dust:氢是大爆炸尘
 hydrogen is big bang:氢是大爆炸
 hydrogen isocyanide:异氢氰酸
@@ -817,6 +826,7 @@ hydrogen or methane:氢或甲烷
 hydrogen or nickel cadmium:氢或镍镉
 hydrogen or syngas:氢或合成气
 hydrogen oxidation:氢氧化
+hydrogen oxide:氢氧化物
 hydrogen peroxide and bread yeast:过氧化氢和面包酵母
 hydrogen peroxide and chlorine:过氧化氢和氯
 hydrogen peroxide and lemon juice:过氧化氢和柠檬汁
@@ -901,6 +911,7 @@ hydrogen stream:氢流
 hydrogen substituent:氢取代基
 hydrogen sulfide and water:硫化氫和水
 hydrogen sulfide emissions:硫化氫排放
+hydrogen sulfide:氢硫化物
 hydrogen sulfide:硫化氫
 hydrogen supply chain:氢供应链
 hydrogen systems:氢系统
@@ -1087,6 +1098,7 @@ hydroxide approach:氢氧化物方法
 hydroxide electrode:氢氧化物电极
 hydroxide ion:氢氧根
 hydroxide ions:氢氧化物离子
+hydroxide mineral:氢氧化物矿物
 hydroxide part:氢氧化物部分
 hydroxide product:氢氧化物产品
 hydroxide:氢氧化物
@@ -1111,6 +1123,7 @@ hydroxyflavone:羟基黄酮
 hydroxyl ion absorption:羥基離子吸收作用
 hydroxyl radical:羟自由基
 hydroxyl terminated polybutadiene:端羟基聚丁二烯
+hydroxylamine hydrochloride:羟胺盐酸盐
 hydroxylamine reductase:羟胺还原酶
 hydroxylamine:羟胺
 hydroxylammonium chloride:盐酸羟胺
@@ -1669,6 +1682,7 @@ hyperbolic spiral:双曲螺线
 hyperbolic tree:双曲树
 hyperbolic triangle:雙曲三角形
 hyperboloid model:双曲面模型
+hyperboloid model:雙曲面模型
 hyperboloid:雙曲面
 hyperbolus:希帕波鲁斯
 hyperborea:许珀耳玻瑞亚
@@ -1892,6 +1906,7 @@ hypertext located:超文本位于
 hypertext mark:超文本标记
 hypertext media:超文本媒体
 hypertext news:超文本新闻
+hypertext novel:超文本小说
 hypertext page:超文本页
 hypertext platform:超文本平台
 hypertext preprocessor:超文本预处理器
@@ -1935,6 +1950,7 @@ hypervelocity asteroid:超高速小行星
 hypervelocity collision:超高速碰撞
 hypervelocity star:超高速恒星
 hypervelocity:超高速
+hyperventilation syndrome:过度换气症候群
 hyperventilation syndrome:過度換氣症候群
 hyperventilation:过度换气
 hypervigilance:過度警覺
@@ -2047,6 +2063,7 @@ hypnosis strategy:催眠策略
 hypnosis suppress:催眠抑制
 hypnosis techniques:催眠技术
 hypnosis term:催眠术语
+hypnosis therapy:催眠治療
 hypnosis therapy:催眠疗法
 hypnosis treatment and train:催眠治疗与训练
 hypnosis treatment:催眠治疗

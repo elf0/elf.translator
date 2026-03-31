@@ -915,6 +915,7 @@ fuchai of wu:夫差
 fuchang 1st street:福昌一街
 fuchang 2nd street:福昌二街
 fuchang 3rd street:福昌三街
+fuchang county:福昌县
 fuchang court:福昌苑
 fuchang east road:副场东路
 fuchang road section 1:福昌路一段
@@ -967,6 +968,7 @@ fucheng county post bureau:阜城县邮政局
 fucheng county public security bureau:阜城县公安局
 fucheng county transportation bureau:阜城县交通局
 fucheng county:fùchéng xiàn
+fucheng county:富城县
 fucheng county:阜城县
 fucheng county:阜城縣
 fucheng district:fúchéng qū
@@ -1055,6 +1057,7 @@ fucheng:附城镇
 fucheng:鳧城鎮
 fuchengcun:伏城村
 fuchengkou:夫城口
+fuchengmen station:阜成门站
 fuchengmen:阜成门
 fuchengzicun:富城子村
 fuchi island:富翅岛
@@ -1132,6 +1135,7 @@ fuchu:fǔchǔ yízú miáozú xiāng
 fuchu:府中市
 fuchu:府中町
 fuchu:辅处彝族苗族乡
+fuchuan county:富川县
 fuchuan river:fùchuān jiāng
 fuchuan road:福川路
 fuchuan yao autonomous county people's hospital:富川瑶族自治县人民医院
@@ -1278,6 +1282,7 @@ fudan university professor:复旦大学教授
 fudan university station:复旦大学站
 fudan university:fùdàn dàxué
 fudan university:复旦大学
+fudan university:复旦大學
 fudan university:復旦大學
 fudan village:fùdàn lǐ
 fudan village:ㄈㄨˋㄉㄢˋㄌㄧˇ
@@ -2192,6 +2197,7 @@ fuel of contradiction:燃料的矛盾
 fuel offer:燃料提供
 fuel oil transfer pump house:燃油輸送泵房
 fuel oil use:重油使用
+fuel oil:燃料油
 fuel oil:重油
 fuel once:燃料曾经
 fuel one:燃料一
@@ -2657,6 +2663,7 @@ fuga budapest arkitektursenter:fuga布达佩斯建筑中心
 fuga budapest center of architecture:fuga布达佩斯建筑中心
 fuga budapestin arkkitehtuurikeskus:fuga布达佩斯建筑中心
 fuga island:富加島
+fugacity coefficient:逸度系数
 fugacity:逸度
 fugai mountain:浮盖山
 fugan road:富干路
@@ -3197,6 +3204,7 @@ fujairah (emirat):富吉拉
 fujairah (emirat):富查伊拉酋長國
 fujairah club stadium:富吉拉俱樂部體育場
 fujairah emirate:富吉拉
+fujairah emirate:富吉拉酋长国
 fujairah emirate:富查伊拉酋長國
 fujairah:富吉拉
 fujairah:富查伊拉酋長國
@@ -3275,7 +3283,10 @@ fuji seafood:富士水產
 fuji south 1st street:富基南一街
 fuji speedway:富士國際賽車場
 fuji stakes:富士錦標
+fuji station:富士山站
 fuji station:富士車站
+fuji station:福吉站
+fuji station:福集站
 fuji street:福吉街
 fuji takehara:fuji竹原
 fuji tea garden:富基茶园
@@ -3412,13 +3423,16 @@ fujiamiaocun:傅家庙村
 fujian agriculture and forestry university tea:福建农林大学茶
 fujian agriculture and forestry university:福建农林大学
 fujian benz:福建奔馳汽車
+fujian benz:福建奔驰
 fujian circuit:福建路
 fujian consumer:福建省消费者
 fujian cuisine:闽菜
+fujian dialect:福建方言
 fujian education:福建省教育
 fujian fanghua yue drama troupe:福建省芳华越剧团
 fujian federation of trade unions:福建省总工会
 fujian fleet:福建船政水師
+fujian fleet:福建艦隊
 fujian institute of oceanography:福建海洋研究所
 fujian jiangyuan desarrollo de inversiones, lda:福建江源
 fujian jiangyuan desenvolvimento de investimentos, lda:福建江源
@@ -3428,11 +3442,14 @@ fujian jiangyuan investitionsentwicklung, lda.:福建江源
 fujian jiangyuan rozwój inwestycji, lda:福建江源
 fujian jiangyuan sviluppo degli investimenti, lda:福建江源
 fujian jinhua integrated circuit:晋华集成电路
+fujian lightning:福建闪电
 fujian medical university:福建医科大学
 fujian medical university:福建医科大学上街校区
 fujian military district:中国人民解放军福建省军区
 fujian motors group:福建省汽车工业集团
 fujian museum:福建博物院
+fujian museum:福建博物馆
+fujian museum:福建省博物馆
 fujian nanping first secondary school of jianyang district:福建省建阳第一中学
 fujian niltava:棕腹大仙鶲
 fujian normal university:福建师范大学
@@ -3463,6 +3480,7 @@ fujian textile:福建省纺织品
 fujian theological seminary:福建神学院
 fujian tulou museum:福建土楼博物馆
 fujian tulou:福建土楼
+fujian tulou:福建土樓
 fujian university of technology:福建理工大学
 fujian university of traditional chinese medicine:福建中医药大学
 fujian village:复建里
@@ -3648,6 +3666,7 @@ fujimi chō:富士見町
 fujimi chō:富士见町
 fujimi orchestra:富士見二丁目交響樂團
 fujimi shobo:富士見書房
+fujimi station:富士見町站
 fujimi station:富士見站
 fujimi-cho:富士見町
 fujimi-cho:富士见町
@@ -3777,6 +3796,7 @@ fujisan hongu sengen taisha shrine:富士山本宫浅间大社
 fujisan hongu sengen taisha shrine:富士山本宮淺間大社
 fujisan hongu sengen taisha:富士山本宮浅間大社
 fujisan hongū sengen taisha:富士山本宮浅間大社
+fujisan station:富士山站
 fujisan, lieu sacré et source d'inspiration artistique:富士山 信仰的对象和艺术的源泉
 fujisan, lieu sacré et source d'inspiration artistique:富士山 信仰的對象和藝術的源泉
 fujisan, lugar sagrado y fuente de inspiración artística:富士山 信仰的对象和艺术的源泉
@@ -3789,6 +3809,7 @@ fujisato:藤里町
 fujisawa hommachi station:藤澤本町站
 fujisawa ikunosuke:藤泽几之辅
 fujisawa shuku:藤澤宿
+fujisawa station:藤澤站
 fujisawa station:藤澤車站
 fujisawa-shi:藤泽市
 fujisawa-shi:藤澤市
@@ -3827,12 +3848,14 @@ fujitsu continue:富士通继续
 fujitsu continues:富士通继续
 fujitsu corporation:富士通公司
 fujitsu county:藤津郡
+fujitsu cup:富士通杯
 fujitsu cup:富士通杯世界職業圍棋錦標賽
 fujitsu develop:富士通开发
 fujitsu engineers publish:富士通工程师发表
 fujitsu engineers:富士通工程师
 fujitsu explains:富士通解释
 fujitsu forum:富士通论坛
+fujitsu general:富士通将军
 fujitsu green:富士通绿色
 fujitsu hold:富士通拥有
 fujitsu innovation:富士通创新
@@ -3851,6 +3874,7 @@ fujitsu recommended:富士通建议
 fujitsu semiconductor:富士通半导体
 fujitsu server:富士通服务器
 fujitsu siemens computers:富士通西门子
+fujitsu siemens:富士通西门子
 fujitsu social science:富士通社会科学
 fujitsu spokesman:富士通发言人
 fujitsu supercomputer:富士通超级计算机
@@ -4164,6 +4188,7 @@ fuka koshiba:小芝風花
 fukado station:深戶站
 fukae hoikuen (fukae nursery):深江保育园
 fukae hoikuen (fukae nursery):深江保育園
+fukae station:深江站
 fukae-bashi:中央线深江桥地铁车站
 fukae:深江
 fukaebashi station:深江橋車站
@@ -4464,10 +4489,14 @@ fukushien-mae:福祉园前
 fukushien-mae:福祉園前
 fukushima 1 atom elektr stansiyasi:福岛第一核电站
 fukushima 1 atom elektr stansiyasi:福島第一核電廠
+fukushima airport:福岛机场
+fukushima airport:福島机场
 fukushima airport:福島機場
 fukushima at large district:福島縣選舉區
 fukushima azuma baseball stadium:福島縣營吾妻球場
+fukushima bank:福岛银行
 fukushima beef:福島牛肉
+fukushima broadcasting:福岛广播
 fukushima broadcasting:福島放送
 fukushima central television:福島中央電視台
 fukushima cho station:福島町停留場
@@ -4478,11 +4507,13 @@ fukushima daini nuclear power plant:福島第二核電廠
 fukushima domain:福島藩
 fukushima earthquake and tsunami:福岛地震和海啸
 fukushima earthquake:福岛地震
+fukushima earthquake:福島地震
 fukushima farmer:福島農民
 fukushima food:福島食品
 fukushima gakuin mae station:福島學院前站
 fukushima ghost town:福島鬼鎮
 fukushima has three:福島有三
+fukushima hopes:福島希望
 fukushima i -ydinvoimalaitos:福岛第一核电站
 fukushima i -ydinvoimalaitos:福島第一核電廠
 fukushima i atomkraftværk:福岛第一核电站
@@ -4498,8 +4529,12 @@ fukushima i zentral nuklearra:福島第一核電廠
 fukushima i:福岛第一核电站
 fukushima i:福島第一核電廠
 fukushima imamachi station:福島今町站
+fukushima incident:福岛事故
+fukushima incident:福島事故
 fukushima masanori:福島正則
 fukushima medical university:福島縣立醫科大學
+fukushima mizuho:福岛瑞穗
+fukushima mizuho:福島瑞穗
 fukushima museum:福島縣立博物館
 fukushima natural gas power plant:福岛燃气发电厂
 fukushima natural gas power plant:福島燃氣發電廠
@@ -4513,13 +4548,18 @@ fukushima prefecture:福島縣
 fukushima racecourse:福島競馬場
 fukushima rice:福島大米
 fukushima rinkai railway main line:福島臨海鐵道本線
+fukushima station:福岛站
+fukushima station:福島站
 fukushima station:福島車站
 fukushima still:福島仍然
 fukushima takamatsu station:福島高松站
 fukushima television:福島電視台
 fukushima terror:福島恐怖
 fukushima transportation:福島交通
+fukushima tunnel:福島隧道
 fukushima united fc:福島聯足球會
+fukushima university:福岛大学
+fukushima university:福島大学
 fukushima university:福島大學
 fukushima ward:福岛区
 fukushima ward:福島區
@@ -4667,12 +4707,19 @@ fulcain house:富建樓
 fulcan mansion:阜康樓
 fulcinia:弗氏螳属
 fulcrifera:支小卷蛾属
+fulda abbey:富尔达修道院
+fulda cathedral:富尔达主教座堂
+fulda cathedral:富尔达大教堂
 fulda city centre:富尔达市中心
 fulda gap:福達缺口
 fulda mitte:富尔达米特
+fulda monastery:富尔达修道院
+fulda river:富尔达河
 fulda said:富尔达说
+fulda station:富尔达站
 fulda station:富尔达车站
 fulda university of applied sciences:富尔达应用科学大学
+fulda valley:富尔达谷地
 fulda:富尔达
 fuldatal:富尔达塔尔
 fule & zili intersection:福乐街自立街
@@ -4786,10 +4833,12 @@ fulian xincun area 1:富联新村一区
 fulian:复联
 fulian:福莲
 fuliang county:fúliáng xiàn
+fuliang county:富良县
 fuliang county:浮梁
 fuliang county:浮梁县
 fuliang county:浮梁縣
 fuliang east road:浮莲东路
+fuliang museum:浮梁县博物馆
 fuliang xian:fúliáng xiàn
 fuliang xian:浮梁
 fuliang xian:浮梁县
@@ -4873,6 +4922,7 @@ fulincun:福临村
 fulincun:福林村
 fuling arch bridge:涪陵乌江大桥
 fuling arch bridge:涪陵烏江大橋
+fuling county:涪陵县
 fuling district:fúlíng qū
 fuling district:涪陵区
 fuling district:涪陵區
@@ -4880,10 +4930,12 @@ fuling elementary school:福林國小
 fuling jiabing:茯苓饼
 fuling mausoleum:清福陵
 fuling north railway station:涪陵北站
+fuling north:涪陵北
 fuling river:fùlǐng xī
 fuling river:富岭溪
 fuling river:富嶺溪
 fuling stadium:涪陵体育场
+fuling stadium:涪陵體育場
 fuling street:福林街
 fuling tunnel:涪陵隧道
 fuling tunnel:福岭隧道
@@ -5095,6 +5147,7 @@ full difference:全部差异
 full dignity and strength:全部尊严和力量
 full dignity:全部尊严
 full direction:全部方向
+full discussion:全部讨论
 full distribution:全部分布
 full diversity:全部多样性
 full dividend:全部股息
@@ -5646,6 +5699,8 @@ fullerian professor of chemistry:富勒化学教授
 fullerian professor of physiology:富勒生理学教授
 fullerton centre car park:富登中心
 fullerton centre car park:富登中心停車場
+fullerton college:富勒顿学院
+fullerton station:富勒顿站
 fullerton:富勒頓
 fullerton:富勒顿
 fullfair house:富輝大樓
@@ -5764,6 +5819,8 @@ fulong road:石观高架桥
 fulong road:福龙路
 fulong road:红苹果家私桥
 fulong south 2nd street:福龙南二街
+fulong station:伏龙站
+fulong station:福隆站
 fulong street:福隆街
 fulong street:福龍街
 fulong tower:福隆阁
@@ -5837,6 +5894,7 @@ fulton brick:富尔顿砖
 fulton by:富尔顿被
 fulton center:福爾頓轉運中心
 fulton collins:富尔顿柯林斯
+fulton county:富尔顿县
 fulton county:富爾頓縣
 fulton eventually became:富尔顿最终成为
 fulton eventually:富尔顿最终
@@ -6092,6 +6150,7 @@ fumin road lane 356 alley 16:富民路356巷16弄
 fumin road lane 356:富民路356巷
 fumin road:富民路
 fumin road:福民路
+fumin station:富民站
 fumin station:福民站
 fumin street:fuman gaai
 fumin street:富民街
@@ -6216,6 +6275,8 @@ funabashi:船橋市
 funabori station:船堀站
 funadu-cho:船津町
 funafala:富纳法拉
+funafuti atoll:富納富提環礁
+funafuti atoll:富纳富提環礁
 funafuti international airport:富納富提國際機場
 funafuti international airport:富纳富提国际机场
 funafuti uluslararası havaalanı:富纳富提国际机场
@@ -6262,6 +6323,7 @@ funamanu:富纳马努
 funambulus:棕櫚松鼠屬
 funan 2nd road:府南二路
 funan county:fùnán xiàn
+funan county:扶南县
 funan county:阜南县
 funan county:阜南縣
 funan kingdom:扶南王国
@@ -6752,6 +6814,8 @@ function do:函数做
 function document:函数文档
 function documents:功能文档
 function does:函数做
+function domain:函数域
+function domain:功能域
 function edit:功能编辑
 function effectively:函数有效地
 function effectively:功能有效地
@@ -6814,6 +6878,7 @@ function give:功能给
 function glass:功能玻璃
 function goals:功能目标
 function gradual:功能逐渐的
+function graph:函数图形
 function graphics hardware:功能图形硬件
 function graphics:功能图形
 function group:功能组
@@ -6901,6 +6966,7 @@ function is very interesting:功能是非常有趣的
 function is very:功能是非常
 function issues:功能问题
 function item:功能项
+function iteration:函数迭代
 function just like:功能就像
 function just:函数只
 function key behaviour:功能键行为
@@ -7106,8 +7172,10 @@ function price ratio:功能价格比
 function price:功能价格
 function principle:功能原理
 function print:功能打印
+function problem:函数问题
 function problem:函數問題
 function problem:功能问题
+function problems:函数问题
 function problems:功能问题
 function process:函数处理
 function product:功能产品
@@ -7224,6 +7292,7 @@ function sofa:功能沙发
 function software:功能软件
 function solenoid valve:功能电磁阀
 function solution:功能解决方案
+function space:函数空間
 function space:函数空间
 function sports:功能运动
 function standard:函数标准
@@ -7266,6 +7335,7 @@ function than those without:功能比那些没有
 function then subtract:函数然后减
 function then:函数然后
 function theory:函数理论
+function theory:功能理论
 function three:功能三
 function through an app:功能通过一个应用程序
 function through:函数通过
@@ -7478,6 +7548,7 @@ functional verification study:功能验证研究
 functional verification:功能验证
 functionalism and modern style:功能主义和现代风格
 functionalism and rationalism:功能主义和理性主义
+functionalism architecture:功能主义建筑
 functionalism be:功能主义成为
 functionalism became:功能主义成为
 functionalism encourage:功能主义鼓励
@@ -9538,6 +9609,7 @@ funeral began:葬礼开始
 funeral begin:葬礼开始
 funeral bell:葬礼钟
 funeral bird:葬礼鸟
+funeral biscuit:葬礼饼干
 funeral bombing:葬礼爆炸
 funeral books:葬礼书籍
 funeral business:葬礼生意
@@ -10039,6 +10111,7 @@ fungus group:真菌组
 fungus infect:真菌感染
 fungus infection:真菌感染
 fungus kill:真菌杀
+fungus kingdom:真菌界
 fungus management:真菌管理
 fungus mushroom:真菌蘑菇
 fungus needs:真菌需要
@@ -10084,11 +10157,14 @@ funing county garden:funing biguiyuan
 funing county:fùníng xiàn
 funing county:富宁县
 funing county:富寧縣
+funing county:福宁县
 funing county:阜宁县
 funing county:阜寧
+funing county:阜寧县
 funing county:阜寧縣
 funing district:抚宁区
 funing district:撫寧區
+funing east:阜寧東
 funing high-tech industrial park:福宁高新产业园
 funing high-tech industrial park:福寧高新產業園
 funing i yancheng:fùníng xiàn
@@ -10098,6 +10174,7 @@ funing i yancheng:阜寧縣
 funing road station:福宁路站
 funing road:福宁路
 funing road:福寧路
+funing south:阜宁南
 funing street:富柠街
 funing street:福宁街
 funing temple:福宁寺
@@ -10220,6 +10297,7 @@ funny degree:搞笑度
 funny elements:搞笑元素
 funny english:搞笑英语
 funny factory:搞笑工厂
+funny farm:搞笑农场
 funny feather:搞笑羽毛
 funny film:搞笑电影
 funny food:搞笑食物
@@ -10296,6 +10374,7 @@ fuping road:富平路
 fuping road:府平路
 fuping road:福坪路
 fuping station:富坪站
+fuping station:富平站
 fuping street:福平街
 fuping terminus:富坪总站
 fuping village:福平里
@@ -10439,6 +10518,8 @@ fuqin:抚琴街道
 fuqin:撫琴街道
 fuqing city:fúqīng shì
 fuqing city:福清市
+fuqing county:福庆县
+fuqing county:福清县
 fuqing dialect:福清話
 fuqing north road station:福庆北路站
 fuqing nuclear power plant:福清核电站
@@ -10457,6 +10538,7 @@ fuqing street:福清街
 fuqing temple:福庆宫
 fuqing temple:福慶宮
 fuqing west street:富強西街
+fuqing west:福清西
 fuqing:fúqīng shì
 fuqing:fúqīng zhan
 fuqing:伏庆
@@ -10479,6 +10561,7 @@ fuqiushan:浮邱山乡
 fuqiushan:浮邱山鄉
 fuqu:福渠
 fuqua school of business:福夸商学院
+fuquan county:福泉县
 fuquan expressway:瀋海高速
 fuquan lane, datong road section 2:大同路二段福泉巷
 fuquan street:富全街
@@ -10555,6 +10638,7 @@ fur exports:毛皮出口
 fur factory family residental area:毛皮厂家属院
 fur family:毛皮家庭
 fur farm:毛皮农场
+fur farm:毛皮農場
 fur farmer:毛皮农民
 fur federation:毛皮联盟
 fur fly:毛皮飞
@@ -10621,6 +10705,7 @@ furama hong kong hotel:富麗華酒店
 furan analysis:呋喃分析
 furan and carbon monoxide:呋喃和一氧化碳
 furan dicarboxylic acid:呋喃二羧酸
+furan resin:呋喃树脂
 furan series:呋喃系列
 furan testing can identify:呋喃测试可以识别
 furan testing:呋喃测试
@@ -10671,6 +10756,8 @@ furen street:福人街
 furen street:福仁街
 furen temple:大溪福仁宮
 furen temple:福仁宮
+furen university:辅仁大学
+furen university:辅仁大學
 furen village:fúrén lǐ
 furen village:ㄈㄨˊㄖㄣˊㄌㄧˇ
 furen village:富仁里
@@ -10736,6 +10823,7 @@ furneaux group:弗诺群岛
 furness abbey:弗內斯修道院
 furness college:弗内斯学院
 furness glacier:弗內斯冰川
+furness peninsula:弗内斯半岛
 furness research fellow:弗内斯研究员
 furness says:弗内斯说
 furness:弗内斯
@@ -11349,12 +11437,14 @@ furong road:芙蓉中路
 furong road:芙蓉大道
 furong road:芙蓉路
 furong south road:芙蓉南路
+furong south:芙蓉南
 furong spring:芙蓉泉
 furong square station:芙蓉广场站
 furong square:芙蓉广场
 furong street:富榮街
 furong street:福榮街
 furong street:芙蓉街
+furong street:芙蓉街道
 furong tower:海棠阁
 furong tower:芙蓉阁
 furong tunnel:芙蓉隧道
@@ -12860,8 +12950,10 @@ fushan botanical garden:福山植物園
 fushan bridge:富山橋
 fushan cemetery:福山公墓
 fushan county:fúshān xiàn
+fushan county:富山县
 fushan county:浮山县
 fushan county:浮山縣
+fushan county:福山县
 fushan dajie entrance:浮山大街口站
 fushan district:fúshān qū
 fushan district:福山区
@@ -12885,6 +12977,7 @@ fushan park:fúshāngōngyuán
 fushan park:ㄈㄨˊㄕㄢㄍㄨㄥㄩㄢˊ
 fushan park:福山公园
 fushan park:福山公園
+fushan park:釜山公園
 fushan primary school:凫山小学
 fushan primary school:福山小学
 fushan rd:福山路
@@ -12916,6 +13009,8 @@ fushan subdistrict:鳧山街道
 fushan temple(shanshuilu eco-park):福圣宫(山水绿生态公园)
 fushan temple(shanshuilu eco-park):福聖宮(山水綠生態公園)
 fushan temple:福山寺
+fushan township:釜山鎮區
+fushan township:釜山镇区
 fushan village community center:福山里活动中心
 fushan village community center:福山里活動中心
 fushan village:富山村
@@ -13472,6 +13567,7 @@ fusion innovation demonstration:融合创新示范
 fusion innovation experience center:融合创新体验中心
 fusion innovation:融合创新
 fusion innovation:融合創新
+fusion jazz:融合爵士乐
 fusion laser series:融合激光系列
 fusion laser:融合激光
 fusion layer:融合层
@@ -13528,6 +13624,7 @@ fusion protein emission:融合蛋白排放
 fusion protein expression:融合蛋白表达
 fusion protein nanoparticle:融合蛋白纳米颗粒
 fusion protein:融合蛋白
+fusion protein:融合蛋白质
 fusion reaction:融合反应
 fusion reaction:融合反應
 fusion reactor:融合反應器
@@ -13637,6 +13734,7 @@ fusui county:fouslu-hyun
 fusui county:fúsuí xiàn
 fusui county:扶綏縣
 fusui county:扶绥县
+fusui south:扶绥南
 fusui:fouslu-hyun
 fusui:fúsuí xiàn
 fusui:扶綏縣
@@ -13795,6 +13893,7 @@ futian bonded area station:福保站
 futian bonded area:福保
 futian bonded area:福田保税区
 futian bridge:福田橋
+futian cbd:福田中央商务区
 futian cemetery:福田公墓
 futian center for chronic disease control:福田区慢性病防治院
 futian checkpoint bus terminus:福田口岸公交总站
@@ -13885,6 +13984,7 @@ futian south terminal (start):福田南总站 (上客区)
 futian south:福田南
 futian sports park:福田体育公园
 futian stadium:福田体育公园
+futian station:富田站
 futian station:福田站
 futian sub-district:fuktin-gaaidou
 futian sub-district:fútián jiēdào
@@ -14026,6 +14126,7 @@ futsal court:室内五人制足球法院
 futsal finalissima:五人足球洲際超級盃
 futsal pitch:五人足球场
 futsal pitch:五人足球場
+futsal team:室内五人制足球队
 futsal:室内五人制足球
 futsang barrack:福莊營區
 futsing building:福清大厦
@@ -15185,6 +15286,7 @@ future crime trend:未来的犯罪趋势
 future crime:未来犯罪
 future crime:未来的犯罪
 future crimes:未来的罪行
+future crimes:未来罪行
 future criminal:未来的罪犯
 future criminal:未来罪犯
 future crises:未来危机
@@ -16151,6 +16253,7 @@ future fund:未来基金
 future funding:未来的资金
 future funding:未来资金
 future funeral:未来的葬礼
+future funk:未来放克
 future furniture:未来家具
 future furniture:未来的家具
 future future:未来的未来
@@ -16951,6 +17054,7 @@ future lead:未来的铅
 future lead:未来铅
 future leader:未来的领袖
 future leader:未来领袖
+future league:未来联盟
 future learn:未来学习
 future learning and skills:未来的学习和技能
 future learning direction:未来的学习方向
@@ -18209,6 +18313,7 @@ future reports:未来报告
 future reports:未来的报告
 future representation:未来表示
 future representatives:未来代表
+future republic:未来共和国
 future request:未来的请求
 future request:未来请求
 future require:未来的需要
@@ -19003,10 +19108,12 @@ future technology upgrade:未来技术升级
 future technology upgrade:未来的技术升级
 future technology:未来技术
 future technology:未来的技术
+future technology:未来科技
 future telecommunications:未来电信
 future telecommunications:未来的电信
 future telescope:未来望远镜
 future telescope:未来的望远镜
+future television:未来电视
 future tell:未来告诉
 future tellurium production:未来的碲生产
 future tellurium:未来的碲
@@ -19589,6 +19696,7 @@ future you:未来你们
 future you:未来的你
 future your:未来你的
 future youth:未来的青年
+future youth:未来青年
 future yugoslavia:未来的南斯拉夫
 future zeno:未来芝诺
 future zero:未来的零
@@ -19882,6 +19990,7 @@ fuxing ave:复兴大道
 fuxing avenue side road:复兴大道辅路
 fuxing avenue:复兴大道
 fuxing avenue:福兴大道
+fuxing barn:福興穀倉
 fuxing bridge (guangxing rd.):福興橋 (光興路)
 fuxing bridge(guangxing rd.):福興橋(光興路)
 fuxing bridge(meilin):福興橋(美林)
@@ -20058,6 +20167,7 @@ fuxing s. rd.(pitou village):復興南路(埤頭里)
 fuxing s. rd.(zhonglun village):复兴南路(中仑里)
 fuxing s. rd.(zhonglun village):復興南路(中崙里)
 fuxing series:复兴系列
+fuxing series:福星系列
 fuxing softball field:福星壘球場
 fuxing south road section 1:復興南路一段
 fuxing south road section 2:復興南路二段
@@ -20164,6 +20274,7 @@ fuxingdicun:福兴地村
 fuxingdong:富兴洞
 fuxingdongcun:復興東村
 fuxinggang metro station:復興崗站
+fuxinggang station:復興崗站
 fuxinggang:fù xìng gǎng
 fuxinggang:复兴岗
 fuxinggang:復興崗
@@ -20258,10 +20369,12 @@ fuyan:福言
 fuyancao:福岩漕
 fuyancun:富岩村
 fuyang airport:阜阳机场
+fuyang airport:阜阳機場
 fuyang basin (ziyaxin):滏阳河流域
 fuyang coach center station:富阳客运中心站
 fuyang coach center:富阳客运中心
 fuyang community:富阳社区
+fuyang county:阜阳县
 fuyang eco cultural park:滏阳生态文化公园
 fuyang eco park:富陽生態公園
 fuyang high school:浙江省富陽中學
@@ -20288,6 +20401,7 @@ fuyang st. entrance:富陽街口
 fuyang street:富陽街
 fuyang village:符阳村
 fuyang west road:滏阳西路
+fuyang west:阜阳西
 fuyang xiguan airport:阜陽機場
 fuyang:fùyáng qu
 fuyang:fǔyáng shì
@@ -20460,6 +20574,7 @@ fuyu community:富裕社区
 fuyu county:fùyù xiàn
 fuyu county:富裕县
 fuyu county:富裕縣
+fuyu county:扶余县
 fuyu farm:fù yù mù cháng
 fuyu farm:富裕牧场
 fuyu garden:富御花园
@@ -20469,6 +20584,7 @@ fuyu kyrgyz people:乌裕尔河畔五姓柯尔克孜
 fuyu lou:fúyùlóu
 fuyu lou:福裕楼
 fuyu north railway station:扶余北站
+fuyu north:扶余北
 fuyu oriental crown:富宇東方之冠
 fuyu road:fuji lu
 fuyu road:富裕路
@@ -20512,6 +20628,7 @@ fuyuan community:福源小区
 fuyuan county:fùyuán xiàn
 fuyuan county:富源县
 fuyuan county:富源縣
+fuyuan county:抚远县
 fuyuan dongji airport:抚远东极机场
 fuyuan education town:富源教育城
 fuyuan garden phase 2:福源花园二期
@@ -20535,6 +20652,7 @@ fuyuan no.2 elementary school:dì èr xiǎoxué
 fuyuan no.3 elementary school:dì sān xiǎoxué
 fuyuan no.3 middle school:dì sān zhōngxué
 fuyuan north railway station:富源北站
+fuyuan north:富源北
 fuyuan park:复源公园
 fuyuan park:復源公園
 fuyuan park:撫遠公園
@@ -20732,6 +20850,7 @@ fuzhong road:福忠路
 fuzhong station exit 1:府中站1號出口
 fuzhong station exit 2:府中站2號出口
 fuzhong station exit 3:府中站3號出口
+fuzhong station:府中站
 fuzhong village:復中里
 fuzhong village:福中里
 fuzhong:fúzhōng shèqū
@@ -20764,6 +20883,8 @@ fuzhou activity center:浮洲活动中心
 fuzhou activity center:浮洲活動中心
 fuzhou airlines was founded in:福州航空成立于
 fuzhou airlines:福州航空
+fuzhou airport:福州机场
+fuzhou airport:福州機場
 fuzhou ancestor pepper pie:福州世祖胡椒餅
 fuzhou apartment(lequn rd.):fúzhōuhéyízhùzhái(lèqúnlù)
 fuzhou apartment(lequn rd.):ㄈㄨˊㄓㄡㄏㄜˊㄧˊㄓㄨˋㄓㄞˊ(ㄌㄜˋㄑㄩㄣˊㄌㄨˋ)
@@ -20773,6 +20894,7 @@ fuzhou appropriate house ( heyi 1st. road ):fúzhōuhéyízhùzhái(héyíyīlù
 fuzhou appropriate house ( heyi 1st. road ):ㄈㄨˊㄓㄡㄏㄜˊㄧˊㄓㄨˋㄓㄞˊ(ㄏㄜˊㄧˊㄧㄌㄨˋ)
 fuzhou appropriate house ( heyi 1st. road ):浮洲合宜住宅(合宜一路)
 fuzhou avenue:福洲大道
+fuzhou base:福州基地
 fuzhou boulevard:福洲大道
 fuzhou bridge:fúzhōuqiáo
 fuzhou bridge:ㄈㄨˊㄓㄡㄑㄧㄠˊ
@@ -20795,15 +20917,20 @@ fuzhou confucian temple:福州文庙
 fuzhou confucius temple:福州文庙
 fuzhou confucius temple:福州文廟
 fuzhou cuisine:福州菜
+fuzhou cuisine:福州菜系
+fuzhou dialect:福州方言
 fuzhou dialect:福州話
 fuzhou east railway station:抚州东站
 fuzhou east ring expressway:撫州東環高速
+fuzhou east:福州东
 fuzhou foreign language school:福州外国语学校
 fuzhou fortress:府州城
 fuzhou gezhi high school:福建省福州格致中学
 fuzhou heyi housing (heyi rd. & he'an 1st rd. intersection):fúzhōuhéyízhùzhái(héyíhéānyīlùkǒu)
 fuzhou heyi housing (heyi rd. & he'an 1st rd. intersection):ㄈㄨˊㄓㄡㄏㄜˊㄧˊㄓㄨˋㄓㄞˊ(ㄏㄜˊㄧˊㄏㄜˊㄢㄧㄌㄨˋㄎㄡˇ)
 fuzhou heyi housing (heyi rd. & he'an 1st rd. intersection):浮洲合宜住宅(合安一合宜路口)
+fuzhou immigrants:福州移民
+fuzhou language:福州语言
 fuzhou li sec. 8:富洲里八段
 fuzhou li sec. 9:富洲里九段
 fuzhou li:富洲里
@@ -20818,14 +20945,18 @@ fuzhou ring expressway:福州繞城高速
 fuzhou river:fùzhōu hé
 fuzhou road at middle fujian road:福州路福建中路
 fuzhou road at middle zhejiang road:福州路浙江中路
+fuzhou road:撫州路
 fuzhou road:福州路
 fuzhou south railway station:福州南站
 fuzhou south rd:福州南路
 fuzhou south road:福州南路
+fuzhou south:福州南
 fuzhou sports park:浮洲运动公园
 fuzhou sports park:浮洲運動公園
 fuzhou st. entrance:福州街口
 fuzhou st.:福州街
+fuzhou stadium:福州市体育场
+fuzhou stadium:福州市体育馆
 fuzhou stadium:福建省奥林匹克体育中心
 fuzhou street:福州街
 fuzhou subway:福州地铁
@@ -20837,6 +20968,7 @@ fuzhou train station:浮洲火车站
 fuzhou transliteration scheme:福州话拼音方案
 fuzhou university:福州大学
 fuzhou university:福州大学旗山校区
+fuzhou university:福州大學
 fuzhou village:富州里
 fuzhou village:富洲里
 fuzhou village:浮洲里
