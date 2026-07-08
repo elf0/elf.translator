@@ -1,22 +1,22 @@
-kf burreli:布雷利足球會
-kf bylis:拜利斯足球會
-kf egnatia:伊格納迪亞足球會
-kf elbasani:愛尔巴桑尼足球俱樂部
-kf gramshi:葛蘭西足球會
-kf lushnja:盧斯嘉足球會
-kf malisheva:馬利舍沃足球會
-kf renova:雷諾瓦足球俱樂部
-kf selenica:塞萊尼察足球會
-kf shkumbini peqin:薩克比尼
-kf teuta:圖達杜利斯足球會
-kf tirana:地拉拿足球會
-kf ulpiana:烏比安拿足球會
-kfar aza massacre:卡法阿扎大屠殺
+kf burreli:布雷利足球会
+kf bylis:拜利斯足球会
+kf egnatia:伊格纳迪亚足球会
+kf elbasani:爱尔巴桑尼足球俱乐部
+kf gramshi:葛兰西足球会
+kf lushnja:卢斯嘉足球会
+kf malisheva:马利舍沃足球会
+kf renova:雷诺瓦足球俱乐部
+kf selenica:塞莱尼察足球会
+kf shkumbini peqin:萨克比尼
+kf teuta:图达杜利斯足球会
+kf tirana:地拉拿足球会
+kf ulpiana:乌比安拿足球会
+kfar aza massacre:卡法阿扎大屠杀
 kfar aza:卡法阿扎
-kfar jona:約納村
+kfar jona:约纳村
 kfar kasim:加西姆村
 kfar saba:萨瓦村
-kfar yona:約納村
+kfar yona:约纳村
 kfc and interesting:肯德基和有趣的
 kfc and pizza hut:肯德基和必胜客
 kfc and starbucks:肯德基和星巴克
@@ -28,7 +28,6 @@ kfc brand:肯德基品牌
 kfc canada:肯德基加拿大
 kfc chicken:肯德基鸡
 kfc china:肯德基中国
-kfc china:肯德基中國
 kfc christmas:肯德基圣诞节
 kfc close:肯德基关闭
 kfc coffee:肯德基咖啡
@@ -54,7 +53,7 @@ kfc let:肯德基让
 kfc markets:肯德基市场
 kfc mcdonald's:肯德基麦当劳
 kfc mongolia:肯德基蒙古
-kfc original recipe:肯德基原味炸雞配方
+kfc original recipe:肯德基原味炸鸡配方
 kfc policy:肯德基政策
 kfc products:肯德基产品
 kfc release:肯德基释放

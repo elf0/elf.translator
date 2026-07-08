@@ -1,175 +1,141 @@
-lr butterfly stop:輕鐵蝴蝶站
 lr butterfly stop:轻铁蝴蝶站
-lr chung uk tsuen stop:輕鐵鍾屋村站
-lr chung uk tsuen stop:鍾屋村站
-lr chung uk tsuen stop:鍾屋村輕鐵站
-lr fung tei stop:輕鐵鳳地站
+lr chung uk tsuen stop:轻铁钟屋村站
+lr chung uk tsuen stop:钟屋村站
+lr chung uk tsuen stop:钟屋村轻铁站
 lr fung tei stop:轻铁凤地站
-lr ginza stop:輕鐵銀座站
-lr hang mei tsuen stop:輕鐵坑尾村站
-lr hung shui kiu stop:輕鐵洪水橋站
-lr kei lun stop:輕鐵麒麟站
+lr ginza stop:轻铁银座站
+lr hang mei tsuen stop:轻铁坑尾村站
+lr hung shui kiu stop:轻铁洪水桥站
 lr kei lun stop:轻铁麒麟站
-lr kin on stop:輕鐵建安站
-lr lam tei stop:輕鐵藍地站
-lr lung mun stop:輕鐵龍門站
-lr ming kum stop:輕鐵鳴琴站
-lr nai wai stop:輕鐵泥圍站
+lr kin on stop:轻铁建安站
+lr lam tei stop:轻铁蓝地站
+lr lung mun stop:轻铁龙门站
+lr ming kum stop:轻铁鸣琴站
 lr nai wai stop:轻铁泥围站
-lr ping shan stop:輕鐵屏山站
-lr sam shing stop:輕鐵三聖站
-lr san wai stop:輕鐵新圍站
-lr shek pai stop:輕鐵石排站
-lr shui pin wai stop:輕鐵水邊圍站
-lr tin king stop:輕鐵田景站
-lr tin tsz stop:輕鐵天慈站
-lr tin yiu stop:輕鐵天耀站
-lr tong fong tsuen stop:輕鐵塘坊村站
-lr town centre stop:輕鐵市中心站
-lr tsing wun stop:輕鐵青雲站
-lr tuen mun stop:輕鐵屯門站
+lr ping shan stop:轻铁屏山站
+lr sam shing stop:轻铁三圣站
+lr san wai stop:轻铁新围站
+lr shek pai stop:轻铁石排站
+lr shui pin wai stop:轻铁水边围站
+lr tin king stop:轻铁田景站
+lr tin tsz stop:轻铁天慈站
+lr tin yiu stop:轻铁天耀站
+lr tong fong tsuen stop:轻铁塘坊村站
+lr town centre stop:轻铁市中心站
+lr tsing wun stop:轻铁青云站
+lr tuen mun stop:轻铁屯门站
 lr vicenza:维琴察足球俱乐部
-lrs:利萊斯生活百貨
-lrt ankang sta.:輕軌安康站
+lrs:利莱斯生活百货
 lrt ankang sta.:轻轨安康站
-lrt ankang station:輕軌安康站
 lrt ankang station:轻轨安康站
 lrt ara damansara:阿拉白沙罗轻快铁站
-lrt ara damansara:阿拉白沙羅輕快鐵站
 lrt binhai shalun sta.:qīngguǐbīnhǎishālúnzhàn
 lrt binhai shalun sta.:ㄑㄧㄥㄍㄨㄟˇㄅㄧㄣㄏㄞˇㄕㄚㄌㄨㄣˊㄓㄢˋ
-lrt binhai shalun sta.:輕軌濱海沙崙站
 lrt binhai shalun sta.:轻轨滨海沙仑站
-lrt binhai shalun station:輕軌濱海沙崙站
-lrt binhai yishan sta.(southwest):輕軌濱海義山站(西南側)
+lrt binhai shalun sta.:轻轨滨海沙崙站
+lrt binhai shalun station:轻轨滨海沙崙站
 lrt binhai yishan sta.(southwest):轻轨滨海义山站(西南侧)
-lrt binhai yishan station:濱海義山站
-lrt cardinal tein hospital an kang branch sta.(chezhe rd.):輕軌耕莘安康院區站(車子路)
-lrt cardinal tein hospital an kang branch sta.(chezi rd.):輕軌耕莘安康院區(車子路)
+lrt binhai yishan station:滨海义山站
+lrt cardinal tein hospital an kang branch sta.(chezhe rd.):轻轨耕莘安康院区站(车子路)
 lrt cardinal tein hospital an kang branch sta.(chezi rd.):轻轨耕莘安康院区(车子路)
-lrt cardinal tein hospital an kang branch sta.:輕軌耕莘安康院區站
-lrt cardinal tien hospital ankang branch sta.:輕軌耕莘安康院區站
+lrt cardinal tein hospital an kang branch sta.:轻轨耕莘安康院区站
 lrt cardinal tien hospital ankang branch sta.:轻轨耕莘安康院区站
-lrt commerce and trade park station:輕軌經貿園區站
-lrt cruise terminal station:輕軌旅運中心站
+lrt commerce and trade park station:轻轨经贸园区站
+lrt cruise terminal station:轻轨旅运中心站
 lrt danhai new town sta.:qīngguǐdànhǎixīnshìzhènzhàn
 lrt danhai new town sta.:ㄑㄧㄥㄍㄨㄟˇㄉㄢˋㄏㄞˇㄒㄧㄣㄕˋㄓㄣˋㄓㄢˋ
-lrt danhai new town sta.:輕軌淡海新市鎮站
 lrt danhai new town sta.:轻轨淡海新市镇站
-lrt danhai new town station:輕軌淡海新市鎮站
+lrt danhai new town station:轻轨淡海新市镇站
 lrt danjin beixin station:qīngguǐdànjīnběixīnzhàn
 lrt danjin beixin station:ㄑㄧㄥㄍㄨㄟˇㄉㄢˋㄐㄧㄣㄅㄟˇㄒㄧㄣㄓㄢˋ
-lrt danjin beixin station:輕軌淡金北新站
 lrt danjin beixin station:轻轨淡金北新站
 lrt danjin denggong sta.:qīngguǐdànjīndènggōngzhàn
 lrt danjin denggong sta.:ㄑㄧㄥㄍㄨㄟˇㄉㄢˋㄐㄧㄣㄉㄥˋㄍㄨㄥㄓㄢˋ
-lrt danjin denggong sta.:輕軌淡金鄧公站
 lrt danjin denggong sta.:轻轨淡金邓公站
-lrt danjin denggong station:輕軌淡金鄧公站
-lrt department of health station(kaisyuan 2nd rd.):輕軌衛生局站(凱旋二路)
-lrt depot station:輕軌機廠站
+lrt danjin denggong station:轻轨淡金邓公站
+lrt department of health station(kaisyuan 2nd rd.):轻轨卫生局站(凱旋二路)
+lrt depot station:轻轨机厂站
 lrt depot:qīng guǐ jī chǎng
 lrt depot:qīngguǐjīchǎngzhàn
 lrt depot:ㄑㄧㄥㄍㄨㄟˇㄐㄧㄔㄤˇㄓㄢˋ
-lrt depot:輕軌機廠
-lrt depot:輕軌機廠站
 lrt depot:轻轨机厂
 lrt depot:轻轨机厂站
-lrt dream mall station (uni-president department store):輕軌夢時代站(統一時代百貨)
+lrt dream mall station (uni-president department store):轻轨梦时代站(统一时代百货)
 lrt fisherman's wharf station:qīngguǐyúrénmǎtóuzhàn
 lrt fisherman's wharf station:ㄑㄧㄥㄍㄨㄟˇㄩˊㄖㄣˊㄇㄚˇㄊㄡˊㄓㄢˋ
-lrt fisherman's wharf station:輕軌漁人碼頭站
 lrt fisherman's wharf station:轻轨渔人码头站
-lrt ganzhenlin sta.:輕軌竿蓁林站
 lrt ganzhenlin sta.:轻轨竿蓁林站
-lrt gushan district office station:輕軌鼓山區公所站
-lrt hongshulin sta.:輕軌紅樹林站
+lrt gushan district office station:轻轨鼓山区公所站
 lrt hongshulin sta.:轻轨红树林站
-lrt hongshulin station:輕軌紅樹林站
 lrt hongshulin station:轻轨红树林站
-lrt jingwen university of science and technology sta.:輕軌景文科大站
 lrt jingwen university of science and technology sta.:轻轨景文科大站
-lrt kaisyuan ersheng station:輕軌凱旋二聖站
+lrt kaisyuan ersheng station:轻轨凱旋二圣站
 lrt kaisyuan ersheng:qīngguǐkǎixuánèrshèngzhàn
 lrt kaisyuan ersheng:ㄑㄧㄥㄍㄨㄟˇㄎㄞˇㄒㄩㄢˊㄦˋㄕㄥˋㄓㄢˋ
-lrt kaisyuan ersheng:輕軌凱旋二聖站
 lrt kaisyuan ersheng:轻轨凯旋二圣站
-lrt kaisyuan jhonghua station (jhensing road):輕軌凱旋中華站(鎮興路)
-lrt kaisyuan jhonghua station (old kaisyuan 4th road):輕軌凱旋中華站(舊凱旋四路)
-lrt kaisyuan park station (jhongjheng 1st road):輕軌凱旋公園站(中正一路)
-lrt kaisyuan park station (minsheng hospital):輕軌凱旋公園站(民生醫院)
+lrt kaisyuan ersheng:轻轨凱旋二圣站
+lrt kaisyuan jhonghua station (jhensing road):轻轨凱旋中华站(镇兴路)
+lrt kaisyuan jhonghua station (old kaisyuan 4th road):轻轨凱旋中华站(旧凱旋四路)
+lrt kaisyuan park station (jhongjheng 1st road):轻轨凱旋公园站(中正一路)
+lrt kaisyuan park station (minsheng hospital):轻轨凱旋公园站(民生医院)
 lrt kaisyuan park:qīngguǐkǎixuángōngyuánzhàn
 lrt kaisyuan park:ㄑㄧㄥㄍㄨㄟˇㄎㄞˇㄒㄩㄢˊㄍㄨㄥㄩㄢˊㄓㄢˋ
-lrt kaisyuan park:輕軌凱旋公園站
 lrt kaisyuan park:轻轨凯旋公园站
-lrt kaisyuan rueitian station (old kaisyuan 4th road):輕軌凱旋瑞田站(舊凱旋四路)
-lrt kaisyuan rueitian station:輕軌凱旋瑞田站
-lrt kaisyuan ruitian station:輕軌凱旋瑞田站
-lrt kaisyuan wuchang station:輕軌凱旋武昌站
+lrt kaisyuan park:轻轨凱旋公园站
+lrt kaisyuan rueitian station (old kaisyuan 4th road):轻轨凱旋瑞田站(旧凱旋四路)
+lrt kaisyuan rueitian station:轻轨凱旋瑞田站
+lrt kaisyuan ruitian station:轻轨凱旋瑞田站
+lrt kaisyuan wuchang station:轻轨凱旋武昌站
 lrt kaisyuan wuchang:qīngguǐkǎixuánwǔchāngzhàn
 lrt kaisyuan wuchang:ㄑㄧㄥㄍㄨㄟˇㄎㄞˇㄒㄩㄢˊㄨˇㄔㄤㄓㄢˋ
-lrt kaisyuan wuchang:輕軌凱旋武昌站
 lrt kaisyuan wuchang:轻轨凯旋武昌站
-lrt kaixuan zhonghua station (zhenxing road):輕軌凱旋中華站(鎮興路)
-lrt kanding sta.:輕軌崁頂站
+lrt kaisyuan wuchang:轻轨凱旋武昌站
+lrt kaixuan zhonghua station (zhenxing road):轻轨凱旋中华站(镇兴路)
 lrt kanding sta.:轻轨崁顶站
 lrt kanding station:qīngguǐkàndǐngzhàn
 lrt kanding station:ㄑㄧㄥㄍㄨㄟˇㄎㄢˋㄉㄧㄥˇㄓㄢˋ
-lrt kanding station:輕軌崁頂站
 lrt kanding station:轻轨崁顶站
-lrt kaohsiung exhibition center (sin'guang pier):輕軌高雄展覽館站(新光碼頭)
-lrt klasika:立陶宛國家廣播電視台古典頻道
-lrt lituanica:立陶宛國家廣播電視台立陶宛頻道
-lrt lizihnei station (kaisyuan 4th road):輕軌籬仔內站(凱旋四路)
-lrt lizinei station (yixin 1st road):輕軌籬仔內站(一心一路)
+lrt kaohsiung exhibition center (sin'guang pier):轻轨高雄展览馆站(新光码头)
+lrt klasika:立陶宛国家广播电视台古典频道
+lrt lituanica:立陶宛国家广播电视台立陶宛频道
+lrt lizihnei station (kaisyuan 4th road):轻轨籬仔內站(凱旋四路)
+lrt lizinei station (yixin 1st road):轻轨籬仔內站(一心一路)
 lrt makatao station:qīngguǐmǎkǎdàozhàn
 lrt makatao station:ㄑㄧㄥㄍㄨㄟˇㄇㄚˇㄎㄚˇㄉㄠˋㄓㄢˋ
-lrt makatao station:輕軌馬卡道站
 lrt makatao station:轻轨马卡道站
-lrt penglai pier-2 station (kaohsiung port):輕軌駁二蓬萊站(高雄港)
-lrt radijas:立陶宛國家廣播電視台廣播頻道
+lrt penglai pier-2 station (kaohsiung port):轻轨驳二蓬莱站(高雄港)
+lrt radijas:立陶宛国家广播电视台广播频道
 lrt sentul timur:冼都东轻快铁站
-lrt sentul timur:冼都東輕快鐵站
 lrt shalun station:qīngguǐshālúnzhàn
 lrt shalun station:ㄑㄧㄥㄍㄨㄟˇㄕㄚㄌㄨㄣˊㄓㄢˋ
-lrt shalun station:輕軌沙崙站
 lrt shalun station:轻轨沙仑站
-lrt shoushan park station:輕軌壽山公園站
-lrt software technology park station:輕軌軟體園區站
-lrt subang jaya:梳邦再也（輕快鐵）
+lrt shalun station:轻轨沙崙站
+lrt shoushan park station:轻轨寿山公园站
+lrt software technology park station:轻轨软体园区站
 lrt subang jaya:梳邦再也（轻快铁）
-lrt sunshine sports park sta.:輕軌陽光運動公園站
 lrt sunshine sports park sta.:轻轨阳光运动公园站
-lrt sunshine sports park station:輕軌陽光運動公園站
-lrt taipei university of marine technology station:輕軌臺北海洋大學站
-lrt taipei xiaocheng (nouth) sta.:輕軌台北小城站(北側)
+lrt sunshine sports park station:轻轨阳光运动公园站
+lrt taipei university of marine technology station:轻轨台北海洋大学站
 lrt taipei xiaocheng (nouth) sta.:轻轨台北小城站(北侧)
-lrt taipei xiaocheng (south) sta.:輕軌台北小城站(南側)
 lrt taipei xiaocheng (south) sta.:轻轨台北小城站(南侧)
 lrt tamkang university station:qīngguǐdànjiāngdàxuézhàn
 lrt tamkang university station:ㄑㄧㄥㄍㄨㄟˇㄉㄢˋㄐㄧㄤㄉㄚˋㄒㄩㄝˊㄓㄢˋ
-lrt tamkang university station:輕軌淡江大學站
 lrt tamkang university station:轻轨淡江大学站
-lrt tamsui administration center sta.:輕軌淡水行政中心站
 lrt tamsui administration center sta.:轻轨淡水行政中心站
 lrt tamsui district center:qīngguǐdànshuǐxíngzhèngzhōngxīnzhàn
 lrt tamsui district center:ㄑㄧㄥㄍㄨㄟˇㄉㄢˋㄕㄨㄟˇㄒㄧㄥˊㄓㄥˋㄓㄨㄥㄒㄧㄣㄓㄢˋ
-lrt tamsui district center:輕軌淡水行政中心站
 lrt tamsui district center:轻轨淡水行政中心站
-lrt televizija:立陶宛國家廣播電視台電視頻道
-lrt tra museum of fine arts station:臺鐵美術館站
+lrt televizija:立陶宛国家广播电视台电视频道
+lrt tra museum of fine arts station:台铁美术馆站
 lrt uijeongbu station:轻电铁议政府站
 lrt uijeongbu:轻电铁议政府站
-lrt wunwu temple station(tpc):輕軌文武聖殿站(台電)
-lrt wuquan elementary school station (kaisyuan 2nd road):輕軌五權國小站(凱旋二路)
-lrt wuquan elementary school station (sanduo 2nd road):輕軌五權國小站 (三多二路)
-lrt xinhe elementary school sta.:輕軌新和國小站
-lrt xinhe elementary school sta.:輕軌玫瑰中國城站
+lrt wunwu temple station(tpc):轻轨文武圣殿站(台电)
+lrt wuquan elementary school station (kaisyuan 2nd road):轻轨五权国小站(凱旋二路)
+lrt wuquan elementary school station (sanduo 2nd road):轻轨五权国小站 (三多二路)
 lrt xinhe elementary school sta.:轻轨新和国小站
 lrt xinhe elementary school sta.:轻轨玫瑰中国城站
-lrt xinhe elementary school station (hydraulic building):輕軌新和國小站(水工大樓)
+lrt xinhe elementary school station (hydraulic building):轻轨新和国小站(水工大楼)
 lrt xinshi 1st rd. station:qīngguǐxīnshìyīlùzhàn
 lrt xinshi 1st rd. station:ㄑㄧㄥㄍㄨㄟˇㄒㄧㄣㄕˋㄧㄌㄨˋㄓㄢˋ
-lrt xinshi 1st rd. station:輕軌新市一路站
 lrt xinshi 1st rd. station:轻轨新市一路站
-lrt xinshi 1st road station:輕軌新市一路站
+lrt xinshi 1st road station:轻轨新市一路站

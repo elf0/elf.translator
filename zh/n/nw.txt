@@ -1,55 +1,54 @@
 nw seasons:新世界香蜜四季家园
-nw seasons:新世界香蜜四季家園
 nwadibu:努瓦迪布
 nwaqcuṭ:努瓦克肖特
 nwaqcuṭ:或索
-nwfb 14 (grand promenade → stanley fort (via prison)):新巴14線（嘉亨灣 → 赤柱炮台（經監獄））
-nwfb 14 (grand promenade → stanley fort):新巴14線（嘉亨灣 → 赤柱炮台）
-nwfb 14 (grand promenade → stanley plaza (omit fort)):新巴14線（嘉亨灣 → 赤柱廣場（不經炮台））
-nwfb 14 (grand promenade → stanley plaza (via fort)):新巴14線（嘉亨灣 → 赤柱廣場（經炮台））
-nwfb 14 (grand promenade ↺ stanley fort (via plaza)):新巴14線（嘉亨灣 ↺ 赤柱炮台（經廣場））
-nwfb 14 (grand promenade ↺ stanley fort (via prison & plaza):新巴14線（嘉亨灣 ↺ 赤柱炮台（經監獄及廣場））
-nwfb 14 (stanley fort → grand promenade (omit plaza):新巴14線（赤柱炮台 → 嘉亨灣（不經廣場））
-nwfb 14 (stanley plaza → grand promenade):新巴14線（赤柱廣場 → 嘉亨灣）
-nwfb 14:新巴14線
-nwfb 15c (central (start ferry) → garden road (lower peak tram station)):新巴15c線（中環（天星碼頭） → 花園道（山頂纜車總站））
-nwfb 15c (garden road (lower peak tram station) → central (start ferry)):新巴15c線（花園道（山頂纜車總站） → 中環（天星碼頭））
-nwfb 25 (central (pier 3) ↺ braemar hill):新巴25線（中環（3號碼頭） ↺ 寶馬山）
-nwfb 26 (lai tak tsuen ↺ hollywood road):新巴 26 (勵德邨 ↺ 荷李活道)
-nwfb 30x (central → cyberport):新巴30x線（中環 → 數碼港）
-nwfb 30x (cyberport ↺ central):新巴30x線（數碼港 ↺ 中環）
-nwfb 30x:新巴30x線
-nwfb 33x:新巴33x線
-nwfb 388 (chai wan station ↺ chai wan cemeteries):新巴388線（柴灣站 ↺ 柴灣墳場）
-nwfb 388:新巴388線
-nwfb 389:新巴389線
-nwfb 3a (central (star ferry) → felix villas):新巴3a線（中環（天星碼頭） → 摩星嶺）
-nwfb 3a (felix villas → central (star ferry)):新巴3a線（摩星嶺 → 中環（天星碼頭））
-nwfb 3a:新巴3a線
-nwfb 4 (tin wan → central → wah fu estate):新巴4號線（田灣 → 中環 → 華富邨）
-nwfb 4 (wah fu estate ↺ central):新巴4號線（華富邨 ↺ 中環）
-nwfb 4:新巴4號線
-nwfb 4x (wah fu estate ↺ central (ferry piers) (omit queen's road west)):新巴4x號線（華富邨 ↺ 中環碼頭（不經皇后大道西））
-nwfb 4x (wah fu estate ↺ central (ferry piers)):新巴4x號線（華富邨 ↺ 中環碼頭）
-nwfb 66:新巴66線
-nwfb 792m:新巴792m線
-nwfb 81 (hing wah estate → lai tak tsuen):新巴81線（興華邨 → 勵德邨）
-nwfb 81 (lai tak tsuen → hing wah estate):新巴81線（勵德邨 → 興華邨）
-nwfb 81:新巴81線
-nwfb 81a (hing wah estate → lai tak tsuen):新巴81a線（興華邨 → 勵德邨）
-nwfb 81a (lai tak tsuen → hing wah estate):新巴81a線（勵德邨 → 興華邨）
-nwfb 9 (big wave bay → shau kei wan (via shek o:新巴9號線（大浪灣 → 筲箕灣（經石澳；不經鶴咀））
-nwfb 9 (shau kei wan → shek o (omit cape d'aguilar)):新巴9號線（筲箕灣 → 石澳（不經鶴咀））
-nwfb 9 (shau kei wan → shek o (omit cape d'aguilar:新巴9號線（筲箕灣 → 石澳（不經鶴咀；經大浪灣））
-nwfb 9 (shau kei wan → shek o (via big wave bay)):新巴9號線（筲箕灣 → 石澳（經大浪灣））
-nwfb 9 (shek o → shau kei wan (omit cape d'aguilar)):新巴9號線（石澳 → 筲箕灣（不經鶴咀））
-nwfb 9 (shek o → shau kei wan (via big wave bay)):新巴9號線（石澳 → 筲箕灣（經大浪灣））
-nwfb 9 (shek o → shau kei wan):新巴9號線（石澳 → 筲箕灣）
-nwfb 9:新巴9號線
-nwfb 9c (shau kei wan → chai wan cemeteries):新巴9c線（筲箕灣 → 柴灣墳場）
-nwfb 9c:新巴9c線
-nwfb and citybus wong chuk hang depot:新巴城巴黃竹坑車廠
-nwfb route 1m:新巴1m線
-nwoya district:恩沃亞區
-nwsl playoffs:國家女子足球聯賽季後賽
+nwfb 14 (grand promenade → stanley fort (via prison)):新巴14线（嘉亨湾 → 赤柱炮台（经监狱））
+nwfb 14 (grand promenade → stanley fort):新巴14线（嘉亨湾 → 赤柱炮台）
+nwfb 14 (grand promenade → stanley plaza (omit fort)):新巴14线（嘉亨湾 → 赤柱广场（不经炮台））
+nwfb 14 (grand promenade → stanley plaza (via fort)):新巴14线（嘉亨湾 → 赤柱广场（经炮台））
+nwfb 14 (grand promenade ↺ stanley fort (via plaza)):新巴14线（嘉亨湾 ↺ 赤柱炮台（经广场））
+nwfb 14 (grand promenade ↺ stanley fort (via prison & plaza):新巴14线（嘉亨湾 ↺ 赤柱炮台（经监狱及广场））
+nwfb 14 (stanley fort → grand promenade (omit plaza):新巴14线（赤柱炮台 → 嘉亨湾（不经广场））
+nwfb 14 (stanley plaza → grand promenade):新巴14线（赤柱广场 → 嘉亨湾）
+nwfb 14:新巴14线
+nwfb 15c (central (start ferry) → garden road (lower peak tram station)):新巴15c线（中环（天星码头） → 花园道（山顶缆车总站））
+nwfb 15c (garden road (lower peak tram station) → central (start ferry)):新巴15c线（花园道（山顶缆车总站） → 中环（天星码头））
+nwfb 25 (central (pier 3) ↺ braemar hill):新巴25线（中环（3号码头） ↺ 宝马山）
+nwfb 26 (lai tak tsuen ↺ hollywood road):新巴 26 (励德邨 ↺ 荷李活道)
+nwfb 30x (central → cyberport):新巴30x线（中环 → 数码港）
+nwfb 30x (cyberport ↺ central):新巴30x线（数码港 ↺ 中环）
+nwfb 30x:新巴30x线
+nwfb 33x:新巴33x线
+nwfb 388 (chai wan station ↺ chai wan cemeteries):新巴388线（柴湾站 ↺ 柴湾坟场）
+nwfb 388:新巴388线
+nwfb 389:新巴389线
+nwfb 3a (central (star ferry) → felix villas):新巴3a线（中环（天星码头） → 摩星岭）
+nwfb 3a (felix villas → central (star ferry)):新巴3a线（摩星岭 → 中环（天星码头））
+nwfb 3a:新巴3a线
+nwfb 4 (tin wan → central → wah fu estate):新巴4号线（田湾 → 中环 → 华富邨）
+nwfb 4 (wah fu estate ↺ central):新巴4号线（华富邨 ↺ 中环）
+nwfb 4:新巴4号线
+nwfb 4x (wah fu estate ↺ central (ferry piers) (omit queen's road west)):新巴4x号线（华富邨 ↺ 中环码头（不经皇后大道西））
+nwfb 4x (wah fu estate ↺ central (ferry piers)):新巴4x号线（华富邨 ↺ 中环码头）
+nwfb 66:新巴66线
+nwfb 792m:新巴792m线
+nwfb 81 (hing wah estate → lai tak tsuen):新巴81线（兴华邨 → 励德邨）
+nwfb 81 (lai tak tsuen → hing wah estate):新巴81线（励德邨 → 兴华邨）
+nwfb 81:新巴81线
+nwfb 81a (hing wah estate → lai tak tsuen):新巴81a线（兴华邨 → 励德邨）
+nwfb 81a (lai tak tsuen → hing wah estate):新巴81a线（励德邨 → 兴华邨）
+nwfb 9 (big wave bay → shau kei wan (via shek o:新巴9号线（大浪湾 → 筲箕湾（经石澳；不经鹤咀））
+nwfb 9 (shau kei wan → shek o (omit cape d'aguilar)):新巴9号线（筲箕湾 → 石澳（不经鹤咀））
+nwfb 9 (shau kei wan → shek o (omit cape d'aguilar:新巴9号线（筲箕湾 → 石澳（不经鹤咀；经大浪湾））
+nwfb 9 (shau kei wan → shek o (via big wave bay)):新巴9号线（筲箕湾 → 石澳（经大浪湾））
+nwfb 9 (shek o → shau kei wan (omit cape d'aguilar)):新巴9号线（石澳 → 筲箕湾（不经鹤咀））
+nwfb 9 (shek o → shau kei wan (via big wave bay)):新巴9号线（石澳 → 筲箕湾（经大浪湾））
+nwfb 9 (shek o → shau kei wan):新巴9号线（石澳 → 筲箕湾）
+nwfb 9:新巴9号线
+nwfb 9c (shau kei wan → chai wan cemeteries):新巴9c线（筲箕湾 → 柴湾坟场）
+nwfb 9c:新巴9c线
+nwfb and citybus wong chuk hang depot:新巴城巴黄竹坑车厂
+nwfb route 1m:新巴1m线
+nwoya district:恩沃亚区
+nwsl playoffs:国家女子足球联赛季后赛
 nwya devu:尼阿底遗址

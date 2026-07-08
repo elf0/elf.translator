@@ -149,7 +149,6 @@ it affects skin:它影响皮肤
 it affects you:它影响你
 it affects:它影响
 it after all:它毕竟
-it after all:它畢竟
 it after:它后
 it again:它再
 it again:它又
@@ -161,7 +160,7 @@ it against:它对抗
 it agree:它同意
 it aid:它帮助
 it aids:它艾滋病
-it ain't me:不會是我
+it ain't me:不会是我
 it alienate:它疏远
 it align:它对齐
 it alive:它活着的
@@ -182,8 +181,8 @@ it almost all:它几乎所有
 it almost always:它几乎总是
 it almost every:它几乎每一
 it almost surely:它几乎必然
+it almost:它几乎
 it almost:它差点
-it almost:它幾乎
 it along:它沿着
 it already attract:它已经吸引
 it already began:它已经开始
@@ -298,7 +297,7 @@ it also has its:它也有它的
 it also has key:它也有关键
 it also has leather:它也有皮革
 it also has location:它也有位置
-it also has many:它也有許多
+it also has many:它也有许多
 it also has media:它也有媒体
 it also has more than:它也有超过
 it also has more:它也有更多
@@ -617,7 +616,7 @@ it approach:它方法
 it appropriate:它适当的
 it are hand:它是手
 it arm:它手臂
-it army of ukraine:烏克蘭資訊科技軍
+it army of ukraine:乌克兰资讯科技军
 it around montreal:它环绕蒙特利尔
 it around:它大约
 it around:它环绕
@@ -706,7 +705,7 @@ it at each place:它在每个地方
 it at first:它首先
 it at his feet:它在他的脚
 it at home:它在家里
-it at least means jesus:它至少意味著耶穌
+it at least means jesus:它至少意味著耶稣
 it at least once:它至少一次
 it at least twice:它至少两次
 it at least:它至少
@@ -860,7 +859,7 @@ it cache:它缓存
 it calculate:它计算
 it call:它调用
 it calm:它平静
-it came from the nightosphere:惡夜魔境
+it came from the nightosphere:恶夜魔境
 it can accelerate wound:它可以加速伤
 it can accelerate:它可以加速
 it can accelerate:它能加速
@@ -927,7 +926,6 @@ it can break:它能打破
 it can build:它可以构建
 it can burst:它可以爆发
 it can buy:它可以买
-it can buy:它可以買
 it can calculate:它可以计算
 it can call:它可以调用
 it can cause acne:它可以引起痤疮
@@ -972,7 +970,7 @@ it can come from china:它可以来自中国
 it can come from:它可以来自
 it can come:它可以来
 it can come:它能来
-it can comfort:它可以舒適
+it can comfort:它可以舒适
 it can complete:它可以完成
 it can comprise:它可以包含
 it can compute:它可以计算
@@ -1049,7 +1047,7 @@ it can do anything:它可以做任何事
 it can do everything:它能做一切
 it can do four:它可以做四
 it can do many:它可以做很多
-it can do many:它能做許多
+it can do many:它能做许多
 it can do more:它可以做更多
 it can do what:它能做什么
 it can do:它可以做
@@ -1437,7 +1435,6 @@ it can protect:它可以保护
 it can prove who:它可以证明谁
 it can prove:它可以证明
 it can provide an interesting:它可以提供一个有趣的
-it can provide asset:它可以提供資產
 it can provide asset:它可以提供资产
 it can provide continuous:它可以提供连续的
 it can provide encryption:它可以提供加密
@@ -1566,7 +1563,6 @@ it can support any:它可以支持任何
 it can support euro:它可以支持欧元
 it can support future:它可以支持未来的
 it can support hot:它能支持热
-it can support hot:它能支持熱
 it can support hundreds:它可以支持数以百计
 it can support other:它可以支持其他的
 it can support:它可以支持
@@ -1601,7 +1597,7 @@ it can understand human:它可以理解人类
 it can understand why:它能理解为什么
 it can understand:它可以理解
 it can unite:它可以联合
-it can upload:它可以上傳
+it can upload:它可以上传
 it can use all:它可以使用所有
 it can use all:它可以使用所有的
 it can use depth:它可以使用深度
@@ -1787,11 +1783,11 @@ it collaborate:它合作
 it color:它颜色
 it colour:它颜色
 it columbia:它哥伦比亚
-it combat:它戰鬥
+it combat:它战斗
 it come from:它来自
 it come:它来
 it comfort:它安慰
-it comfort:它舒適
+it comfort:它舒适
 it command:它命令
 it comment:它评论
 it company:它公司
@@ -1818,7 +1814,7 @@ it connection:它连接
 it conquer:它征服
 it consent:它同意
 it consider:它考虑
-it conspiracy:它陰謀
+it conspiracy:它阴谋
 it construct:它构造
 it consume:它消耗
 it consumer:它消费者
@@ -1964,7 +1960,6 @@ it depth:它深度
 it derail:它出轨
 it describe and define:它描述和定义
 it describe:它描述
-it design:它設計
 it design:它设计
 it desire:它渴望
 it despite:它尽管
@@ -2024,7 +2019,6 @@ it don't:它不
 it done:它完成
 it doubt:它怀疑
 it down:它向下
-it download:它下載
 it download:它下载
 it drama:它戏剧
 it draw:它画
@@ -2520,11 +2514,11 @@ it had window:它有窗
 it had:它有
 it half:它半
 it handle:它处理
-it happened one night:一夜風流
+it happened one night:一夜风流
 it happiness:它幸福
 it hard to tell:它很难说
 it harm:它伤害
-it harm:它損害
+it harm:它损害
 it has a bar:它有一个酒吧
 it has a battery:它有一个电池
 it has a beautiful landscape:它有一个美丽的风景
@@ -2848,7 +2842,7 @@ it has big:它有大
 it has black:它有黑色
 it has blue:它有蓝色
 it has broad green:它有宽阔的绿色
-it has catania:它有卡塔尼亞
+it has catania:它有卡塔尼亚
 it has challenges:它有挑战
 it has classical curves:它有经典的曲线
 it has color:它有颜色
@@ -2866,7 +2860,7 @@ it has different:它有不同的
 it has direct:它有直接的
 it has dust:它有灰尘
 it has eight:它有八
-it has electricity:它有電
+it has electricity:它有电
 it has eleven:它有十一
 it has emotions:它有情感
 it has employment opportunity:它有就业机会
@@ -2937,7 +2931,7 @@ it has many advantages:它有许多优势
 it has many applications:它有很多应用
 it has many applications:它有许多应用
 it has many beach:它有许多海滩
-it has many behavior:它有很多行為
+it has many behavior:它有很多行为
 it has many beneficial:它有很多有益的
 it has many button:它有许多按钮
 it has many car:它有许多汽车
@@ -2957,7 +2951,7 @@ it has many lake:它有许多湖泊
 it has many layer:它有很多层
 it has many limit:它有许多限制
 it has many name:它有很多名字
-it has many origin:它有許多起源
+it has many origin:它有许多起源
 it has many parameter:它有很多参数
 it has many requirements:它有许多要求
 it has many rich:它有许多丰富的
@@ -2967,7 +2961,7 @@ it has many sub:它有许多子
 it has many us:它有许多美国
 it has many version:它有很多版本
 it has many:它有很多
-it has many:它有許多
+it has many:它有许多
 it has market potential:它有市场潜力
 it has me:它有我
 it has meaning:它有意义
@@ -3028,7 +3022,7 @@ it has side-effect:它有副作用
 it has simple:它有简单
 it has six:它有六
 it has sixty:它有六十
-it has skin:它有皮膚
+it has skin:它有皮肤
 it has so:它有如此
 it has some big:它有一些大
 it has some department:它有一些部门
@@ -3091,7 +3085,7 @@ it has very:它有非常
 it has volcano:它有火山
 it has water:它有水
 it has weight:它有重量
-it has wheel:它有輪
+it has wheel:它有轮
 it has white tire:它有白色轮胎
 it has white:它有白色
 it has wings:它有翅膀
@@ -3136,7 +3130,6 @@ it hope:它希望
 it hopes these innovation:它希望这些创新
 it hopes:它希望
 it hot:它热
-it hot:它熱
 it hotel:它酒店
 it how to do:它如何做
 it how to learn:它如何学习
@@ -3253,7 +3246,6 @@ it interesting:它有趣的
 it international:它国际
 it interpret:它解释
 it interrupt:它中断
-it interrupt:它中斷
 it interrupt:它打断
 it intersect:它相交
 it interview:它采访
@@ -3519,7 +3511,6 @@ it is a pedestrian:它是一个行人
 it is a peninsula:它是一个半岛
 it is a perfect:它是一个完美的
 it is a person:它是一个人
-it is a person:它是一個人
 it is a phrase:它是一个短语
 it is a picturesque village:它是一个风景如画的村庄
 it is a place:它是一个地方
@@ -3975,7 +3966,7 @@ it is better just:它是更好的只
 it is biotechnology:它是生物技术
 it is black:它是黑色
 it is blood:它是血液
-it is blue:它是藍色
+it is blue:它是蓝色
 it is bomb:它是炸弹
 it is boric acid:它是硼酸
 it is bran:它是麦麸
@@ -3997,10 +3988,9 @@ it is catalyst:它是催化剂
 it is cavalry:它是骑兵
 it is certain:它是确定的
 it is charming:它是迷人的
-it is chicken soup:它是雞湯
+it is chicken soup:它是鸡汤
 it is children:它是孩子们
 it is china:它是中国
-it is china:它是中國
 it is christ:它是基督
 it is christianity:它是基督教
 it is chronic:它是慢性的
@@ -4011,7 +4001,7 @@ it is cold light:它是冷光
 it is cold water:它是冷水
 it is cold:它是冷
 it is collective:它是集体的
-it is comfort:它是舒適
+it is comfort:它是舒适
 it is commitment:它是承诺
 it is community:它是社区
 it is completely customizable:它是完全可定制的
@@ -4060,7 +4050,6 @@ it is death:它是死亡
 it is democratic:它是民主的
 it is denmark:它是丹麦
 it is derived from:它源自
-it is design:它是設計
 it is design:它是设计
 it is destiny:它是命运
 it is development culture:它是开发文化
@@ -4101,7 +4090,7 @@ it is erotica:它是色情作品
 it is especially important:它是尤其重要的
 it is estimated around:据估计大约
 it is estimated:据估计
-it is eternal:它是永恆的
+it is eternal:它是永恒的
 it is ethanol:它是乙醇
 it is europe:它是欧洲
 it is event:它是事件
@@ -4166,7 +4155,6 @@ it is good:它是好的
 it is grass:它是草
 it is gray:它是灰色
 it is great:它是伟大的
-it is green:它是綠色
 it is green:它是绿色
 it is gymnastics:它是体操
 it is halal food:它是清真食品
@@ -4192,14 +4180,14 @@ it is high quality:它是高质量
 it is high:它是高
 it is highly customizable:它是高度可定制的
 it is his creator:它是他的创造者
-it is his dimension:它是他的維度
+it is his dimension:它是他的维度
 it is his friend:它是他的朋友
 it is his monaco:它是他的摩纳哥
 it is history:它是历史
 it is holy:它是神圣的
 it is home:它是家
 it is horizontal:它是水平的
-it is hot:它是熱
+it is hot:它是热
 it is how it:它是如何它
 it is how to:它是如何
 it is how:它是如何
@@ -4348,7 +4336,7 @@ it is my blog:它是我的博客
 it is my destiny:它是我的命运
 it is my english:它是我的英语
 it is my home:它是我的家
-it is my honour:它是我的榮譽
+it is my honour:它是我的荣誉
 it is my invention:它是我的发明
 it is my life:它是我的生命
 it is my safety:它是我的安全
@@ -4478,7 +4466,7 @@ it is peaceful:它是和平的
 it is pennsylvania:它是宾夕法尼亚州
 it is people:它是人们
 it is perfect it:它是完美的它
-it is perfect love:它是完美的愛
+it is perfect love:它是完美的爱
 it is perfect screen:它是完美的屏幕
 it is perfect:它是完美的
 it is performance:它是性能
@@ -4560,8 +4548,8 @@ it is satan:它是撒但
 it is scarce:它是稀缺的
 it is science:它是科学
 it is scientific:它是科学的
-it is scrap meat:它是廢料肉
-it is scrap:它是廢料
+it is scrap meat:它是废料肉
+it is scrap:它是废料
 it is secure:它是安全的
 it is see:它是看见
 it is self-center:它是自我中心
@@ -4610,7 +4598,6 @@ it is something:它是东西
 it is sometimes spell:它是有时拼写
 it is south carolina:它是南卡罗来纳州
 it is southeast:它是东南
-it is space:它是空間
 it is space:它是空间
 it is spain:它是西班牙
 it is specific:它是特定的
@@ -4872,7 +4859,7 @@ it just sold books:它只卖书
 it just was more:它只是更多
 it just:它只
 it justice:它正义
-it kanaal:拉芒什海峽
+it kanaal:拉芒什海峡
 it kanaal:英吉利海峡
 it kanaal:英吉利海峡 / 拉芒什海峡
 it keep it all:它保持它所有
@@ -4917,7 +4904,7 @@ it latin:它拉丁语
 it laugh:它笑
 it launch:它发射
 it layer:它层
-it laziness:它懶惰
+it laziness:它懒惰
 it lead:它领导
 it leak:它泄漏
 it learn:它学习
@@ -5062,7 +5049,6 @@ it looks like:它看起来像
 it lose:它丢失
 it lost:它失去的
 it love you:它爱你
-it love:它愛
 it love:它爱
 it lower:它降低
 it lucky:它幸运的
@@ -5080,7 +5066,7 @@ it manufacture:它制造
 it many times:它多次
 it many years:它许多年
 it many:它很多
-it many:它許多
+it many:它许多
 it mark:它标记
 it market economy:它市场经济
 it mass-customization:它大规模定制
@@ -5197,7 +5183,7 @@ it means perfect:它意味着完美
 it means revolution:它意味着革命
 it means safe food:它意味着安全的食物
 it means some sort of:它意味着某种
-it means some sort of:它意味著某種
+it means some sort of:它意味著某种
 it means some thing:它意味着一些事情
 it means some things:它意味着一些事情
 it means success:它意味着成功
@@ -5519,7 +5505,6 @@ it needs batteries:它需要电池
 it needs big data:它需要大数据
 it needs collective action:它需要集体行动
 it needs courage:它需要勇气
-it needs courage:它需要勇氣
 it needs data:它需要数据
 it needs energy:它需要能量
 it needs enough time:它需要足够的时间
@@ -5735,7 +5720,7 @@ it or undo it:它或撤销它
 it or use it:它或使用它
 it or use this:它或使用这
 it or walk:它或步行
-it or why:它或為什麼
+it or why:它或为什么
 it orbit:它轨道
 it order:它命令
 it organization and structure:它组织和结构
@@ -5870,7 +5855,7 @@ it provides engine:它提供发动机
 it provides enterprise:它提供企业
 it provides experiences:它提供经验
 it provides family:它提供家庭
-it provides financial services:它提供金融服務
+it provides financial services:它提供金融服务
 it provides flexible deployment:它提供灵活的部署
 it provides food:它提供食物
 it provides four:它提供四
@@ -5997,9 +5982,7 @@ it remember:它记住
 it remember:它记得
 it remove:它移除
 it repeal:它废除
-it repeal:它廢除
 it replace:它替代
-it report:它報告
 it report:它报告
 it reports potential problems:它报告潜在的问题
 it reports:它报告
@@ -6161,7 +6144,7 @@ it secret:它秘密
 it secure:它安全的
 it security research group:它安全研究组
 it security research:它安全研究
-it security standards:網路安全標準
+it security standards:网路安全标准
 it security:它安全
 it seduce:它诱惑
 it see:它看见
@@ -6182,7 +6165,7 @@ it sensitive:它敏感的
 it separate:它分离
 it server:它服务器
 it service center:它服务中心
-it service management:資訊科技服務管理
+it service management:资讯科技服务管理
 it service:它服务
 it services:它服务
 it set a standard:它设置一个标准
@@ -6615,8 +6598,8 @@ it sympathy:它同情
 it systems:它系统
 it taiwan:它台湾
 it take:它取
-it takes two:難兄難弟
-it takes you away:它會帶你走
+it takes two:难兄难弟
+it takes you away:它会带你走
 it talk:它谈话
 it taste:它尝
 it tea:它茶
@@ -6746,7 +6729,7 @@ it transition:它转变
 it transport:它运输
 it travel:它旅行
 it travertine:它洞石
-it treason:它叛國
+it treason:它叛国
 it treat:它对待
 it tremble:它颤抖
 it true:它真
@@ -6815,7 +6798,7 @@ it uses component object model:它使用组件对象模型
 it uses component object:它使用组件对象
 it uses computer ranking:它使用计算机排名
 it uses data center:它使用数据中心
-it uses deception:它使用欺騙
+it uses deception:它使用欺骗
 it uses decimal fraction:它使用十进制分数
 it uses deep neural network:它使用深度神经网络
 it uses different methods:它使用不同的方法
@@ -6900,7 +6883,7 @@ it uses source:它使用源
 it uses spam:它使用垃圾邮件
 it uses specific construct:它使用特定的构造
 it uses statistic:它使用统计
-it uses stem cell:它使用幹細胞
+it uses stem cell:它使用干细胞
 it uses strategy:它使用战略
 it uses symmetry conditions:它使用对称条件
 it uses systems modeling:它使用系统建模
@@ -7187,12 +7170,11 @@ it was black and blue:它是黑色和蓝色
 it was black market:它是黑市
 it was black:它是黑色
 it was blue:它是蓝色
-it was blue:它是藍色
 it was books:它是书
 it was born in bukhara:它诞生于布哈拉
 it was born in our innovation:它诞生于我们的创新
 it was born in:它诞生于
-it was british north america:它是英屬北美
+it was british north america:它是英属北美
 it was built in:它建于
 it was burgundy:它是勃艮第
 it was buried:它被埋葬
@@ -7300,7 +7282,7 @@ it was half hour:它是半小时
 it was half:它是半
 it was hawaii:它是夏威夷
 it was heaven:它是天堂
-it was hell:它是地獄
+it was hell:它是地狱
 it was her first big:这是她第一次大
 it was her first effort:这是她第一次努力
 it was her first marriage:这是她第一次婚姻
@@ -7354,7 +7336,7 @@ it was life:它是生活
 it was liquid:它是液体
 it was live:它是活的
 it was local:它是本地的
-it was love:它是愛
+it was love:它是爱
 it was lucky i:它是幸运的我
 it was lucky she:它是幸运的她
 it was lucky:它是幸运的
@@ -7441,7 +7423,7 @@ it was rough:它是粗糙的
 it was round:它是圆的
 it was russia:它是俄罗斯
 it was safe:它是安全的
-it was seafood:它是海鮮
+it was seafood:它是海鲜
 it was secret:它是秘密
 it was secure:它是安全的
 it was sell:它是出售
@@ -7483,7 +7465,7 @@ it was successful:它是成功的
 it was suggest:它是建议
 it was sunday:它是星期天
 it was sweden:它是瑞典
-it was syrup:它是糖漿
+it was syrup:它是糖浆
 it was tail:它是尾
 it was thai:它是泰国
 it was thailand:它是泰国
@@ -7653,7 +7635,6 @@ it were yesterday:它是昨天
 it were you who:它是你谁
 it what you want:它你想要什么
 it what:它什么
-it what:它什麼
 it when he first:它当他第一次
 it when he is right:它当他是对的
 it when he said:它当他说
@@ -8899,126 +8880,110 @@ it your life:它你的生活
 it your name:它你的名字
 it your:它你的
 it yourself:它你自己
-it's a boy girl thing:女男變錯身
-it's a dessert shop:就是愛豆花專賣店
+it's a boy girl thing:女男变错身
+it's a dessert shop:就是爱豆花专卖店
 it's a long way to tipperary:蒂珀雷里在远方
 it's a small world:小小世界
-it's a wonderful knife:劊樂時光
-it's always sunny in philadelphia:酒吧五傑
-it's beautiful now:現在很美麗
-it's dangerous beyond the blankets:被子外面很危險
-it's money coffee:伊是曼寧
-it's okay to not be okay:雖然是精神病但沒關係
-it's only the end of the world:不過就是世界末日
+it's a wonderful knife:劊乐时光
+it's always sunny in philadelphia:酒吧五杰
+it's beautiful now:现在很美丽
+it's dangerous beyond the blankets:被子外面很危险
+it's money coffee:伊是曼宁
+it's okay to not be okay:虽然是精神病但沒关系
+it's only the end of the world:不过就是世界末日
 it's shop brunch:易食小品
-it's so funny:相聲小品舞台
-it-hō-kiô(tiong-tôaⁿ):一號橋(中壇)
-it-kang kong-hn̂g:一江公園
+it's so funny:相声小品舞台
+it-hō-kiô(tiong-tôaⁿ):一号桥(中坛)
+it-kang kong-hn̂g:一江公园
 it-kang-koe:一江街
 it-kang-kue:一江街
 it-kok-lióng-chè thóng-it tiong-kok:一国两制统一中国
-it-kok-lióng-chè thóng-it tiong-kok:一國兩制統一中國
 it-kok-lióng-tsè thóng-it tiong-kok:一国两制统一中国
-it-kok-lióng-tsè thóng-it tiong-kok:一國兩制統一中國
 it-lîn-chêng:yīlínqián
 it-lîn-chêng:ㄧㄌㄧㄣˊㄑㄧㄢˊ
 it-lîn-chêng:一邻前
-it-lîn-chêng:一鄰前
 it-lú-tiong(kong-hn̂g):一女中
 it-lú-tiong(kong-hn̂g):一女中(公园)
-it-lú-tiong(kong-hn̂g):一女中(公園)
-it-lú-tiong(kuì-iông):一女中(貴陽)
 it-lú-tiong(kuì-iông):一女中(贵阳)
-it-lú-tiong(kùi-iông):一女中(貴陽)
 it-lú-tiong(kùi-iông):一女中(贵阳)
 it-lú-tiong:一女中
-it-siū-kiô:一壽橋
+it-siū-kiô:一寿桥
 it/bt building:it/bt馆
-it/bt館:it/bt馆
+it/bt馆:it/bt馆
 it:teatro smeraldo:食品商城
 it:它
-ita cham caffè:義獎咖啡
-ita district:伊達區
+ita cham caffè:义奖咖啡
+ita district:伊达区
 ita fort:伊塔堡
-ita line:伊田線
-ita thao:伊達邵
-ita-district:伊達區
-ita-distriktet:伊達區
+ita line:伊田线
+ita thao:伊达邵
+ita-district:伊达区
+ita-distriktet:伊达区
+itaali:义大利
 itaali:意大利
-itaali:義大利
+itaalia - vatikan:义大利-梵蒂冈
 itaalia - vatikan:意大利-梵蒂冈
-itaalia - vatikan:意大利-梵蒂岡
-itaalia - vatikan:義大利-梵蒂岡
 itaalia aukonsulaat:意大利名誉领事馆
 itaalia konsulaat:意大利领事馆
 itaalia peakonsulaat:意大利总领事馆
 itaalia saatkond:意大利大使馆
 itaalia:yìdàlì
+itaalia:义大利
 itaalia:意大利
-itaalia:意大利 / 義大利
-itaalia:義大利
+itaalia:意大利 / 义大利
+itaalien:义大利
 itaalien:意大利
-itaalien:義大利
 itaalije:yìdàlì
+itaalije:义大利
 itaalije:意大利
-itaalije:意大利 / 義大利
-itaalije:義大利
+itaalije:意大利 / 义大利
+itaalje - fatikaanstêd:义大利-梵蒂冈
 itaalje - fatikaanstêd:意大利-梵蒂冈
-itaalje - fatikaanstêd:意大利-梵蒂岡
-itaalje - fatikaanstêd:義大利-梵蒂岡
 itaalje:yìdàlì
+itaalje:义大利
 itaalje:意大利
-itaalje:意大利 / 義大利
-itaalje:義大利
+itaalje:意大利 / 义大利
 itaara:伊塔阿拉
-itabaianinha:伊塔巴亞尼尼亞
-itaballia:珍粉蝶屬
+itabaianinha:伊塔巴亚尼尼亚
+itaballia:珍粉蝶属
 itabashi do-mae:板桥（堂前）
-itabashi do-mae:板橋（堂前）
 itabashi hirabayashi:板桥（平林）
-itabashi hirabayashi:板橋（平林）
 itabashi nokyo-mae:板桥农协前
-itabashi nokyo-mae:板橋農協前
-itabashi shuku:板橋宿
+itabashi shuku:板桥宿
 itabashi station:板桥站
-itabashi station:板橋站
 itabashi-ku:板桥区
-itabashi-ku:板桥区 / 板橋區
-itabashi-ku:板橋區
+itabashi-ku:板桥区 / 板桥区
 itabashi:板桥
 itabashi:板桥区
-itabashi:板桥区 / 板橋區
-itabashi:板橋
-itabashi:板橋區
-itabashi:板橋站 (日本)
-itabashihoncho station:板橋本町站
-itabashikuyakushomae station:板橋區役所前站
+itabashi:板桥区 / 板桥区
+itabashi:板桥站 (日本)
+itabashihoncho station:板桥本町站
+itabashikuyakushomae station:板桥区役所前站
 itabashikyoku-mae:板桥局前
-itabashikyoku-mae:板橋局前
 itabela:伊塔贝拉
 itaberaba:伊塔贝拉巴
 itabi:伊塔比
 itabira:伊塔比拉
 itabirinha:伊塔比里尼亚
 itabirito:伊塔比里图
-itabu station:飯給站
+itabu station:饭给站
 itabuna:伊塔布纳
 itacambira:伊塔坎比拉
 itacarambi:伊塔卡兰比
 itachi uchiha:宇智波鼬
-itacho sushi:板長壽司
-itacolumite:可彎砂岩
+itacho sushi:板长寿司
+itacolumite:可弯砂岩
 itaconic acid:衣康酸
 itaconic anhydride:衣康酸酐
 itacuruba:伊塔库鲁巴
 itacurubi:伊塔库鲁比
-itacurubí de la cordillera - caacupe cathedral:科迪勒拉的伊塔庫魯比 - 卡庫佩大教堂
-itacurubí de la cordillera - caacupe cathedralis:科迪勒拉的伊塔庫魯比 - 卡庫佩大教堂
-itacurubí de la cordillera - caacupe-kathedrale:科迪勒拉的伊塔庫魯比 - 卡庫佩大教堂
-itacurubí de la cordillera - caacupé cathedral:科迪勒拉的伊塔庫魯比 - 卡庫佩大教堂
-itacurubí de la cordillera - catedral de caacupé:科迪勒拉的伊塔庫魯比 - 卡庫佩大教堂
-itacurubí de la cordillera - cathédrale de caacupé:科迪勒拉的伊塔庫魯比 - 卡庫佩大教堂
-itacurubí de la cordillera - cattedrale di caacupe:科迪勒拉的伊塔庫魯比 - 卡庫佩大教堂
+itacurubí de la cordillera - caacupe cathedral:科迪勒拉的伊塔库鲁比 - 卡库佩大教堂
+itacurubí de la cordillera - caacupe cathedralis:科迪勒拉的伊塔库鲁比 - 卡库佩大教堂
+itacurubí de la cordillera - caacupe-kathedrale:科迪勒拉的伊塔库鲁比 - 卡库佩大教堂
+itacurubí de la cordillera - caacupé cathedral:科迪勒拉的伊塔库鲁比 - 卡库佩大教堂
+itacurubí de la cordillera - catedral de caacupé:科迪勒拉的伊塔库鲁比 - 卡库佩大教堂
+itacurubí de la cordillera - cathédrale de caacupé:科迪勒拉的伊塔库鲁比 - 卡库佩大教堂
+itacurubí de la cordillera - cattedrale di caacupe:科迪勒拉的伊塔库鲁比 - 卡库佩大教堂
 itadaki street:富豪街系列
 itaewon 1 dong community service center:梨泰院1洞行政福祉中心
 itaewon 1 dong juminsenteo:梨泰院1洞行政福祉中心
@@ -9032,8 +8997,8 @@ itaga station:板荷站
 itagaki nobukata:板垣信方
 itagaki taisuke:板垣退助
 itagimirim:伊塔吉米林
+itaglie:义大利
 itaglie:意大利
-itaglie:義大利
 itaguara:伊塔瓜拉
 itaguari:伊塔瓜里
 itaguaru:伊塔瓜鲁
@@ -9046,95 +9011,71 @@ itaipu-gát:伊泰普水电站
 itaipu:伊泰普水电站
 itaipú:伊泰普水电站
 itaitinga:伊泰廷加
-itaituba:伊泰圖巴
+itaituba:伊泰图巴
 itajobi:伊塔若比
 itaju:伊塔茹
 itakano station:井高野站
 itaki hoikusho (itaki nursery):板木保育所
 itaki:板城
 itakibashi:板木桥
-itakibashi:板木橋
 itakiso shrine:伊太祁曾神社
-itako station:潮來站
-itako-shi:潮來市
+itako station:潮来站
 itako-shi:潮来市
-itako:潮來市
 itako:潮来市
-itakura katsushige:板倉勝重
-itakura shigemasa:板倉重昌
+itakura katsushige:板仓胜重
+itakura shigemasa:板仓重昌
 itakura-machi:板仓町
-itakura-machi:板倉町
 itakura:板仓町
-itakura:板倉町
 itakyry:伊塔基里
+itala duoninsulo:义大利半岛
 itala duoninsulo:意大利半岛
-itala duoninsulo:義大利半島
+italeja:义大利
 italeja:意大利
-italeja:義大利
-italeri:伊達雷利
+italeri:伊达雷利
+itali - qyteti i vatikanit:义大利-梵蒂冈
 itali - qyteti i vatikanit:意大利-梵蒂冈
-itali - qyteti i vatikanit:意大利-梵蒂岡
-itali - qyteti i vatikanit:義大利-梵蒂岡
+itali - vatican city:义大利-梵蒂冈
 itali - vatican city:意大利-梵蒂冈
-itali - vatican city:意大利-梵蒂岡
-itali - vatican city:義大利-梵蒂岡
+itali - vatikan:义大利-梵蒂冈
 itali - vatikan:意大利-梵蒂冈
-itali - vatikan:意大利-梵蒂岡
-itali - vatikan:義大利-梵蒂岡
 itali:yìdàlì
+itali:义大利
 itali:意大利
-itali:意大利 / 義大利
-itali:義大利
+itali:意大利 / 义大利
+italia - cetatea vaticanului:义大利-梵蒂冈
 italia - cetatea vaticanului:意大利-梵蒂冈
-italia - cetatea vaticanului:意大利-梵蒂岡
-italia - cetatea vaticanului:義大利-梵蒂岡
+italia - cidade do vaticano:义大利-梵蒂冈
 italia - cidade do vaticano:意大利-梵蒂冈
-italia - cidade do vaticano:意大利-梵蒂岡
-italia - cidade do vaticano:義大利-梵蒂岡
+italia - città del vaticano:义大利-梵蒂冈
 italia - città del vaticano:意大利-梵蒂冈
-italia - città del vaticano:意大利-梵蒂岡
-italia - città del vaticano:義大利-梵蒂岡
+italia - city vatican:义大利-梵蒂冈
 italia - city vatican:意大利-梵蒂冈
-italia - city vatican:意大利-梵蒂岡
-italia - city vatican:義大利-梵蒂岡
+italia - cità di u vaticanu:义大利-梵蒂冈
 italia - cità di u vaticanu:意大利-梵蒂冈
-italia - cità di u vaticanu:意大利-梵蒂岡
-italia - cità di u vaticanu:義大利-梵蒂岡
+italia - ciudad del vaticano:义大利-梵蒂冈
 italia - ciudad del vaticano:意大利-梵蒂冈
-italia - ciudad del vaticano:意大利-梵蒂岡
-italia - ciudad del vaticano:義大利-梵蒂岡
+italia - civitas vaticana:义大利-梵蒂冈
 italia - civitas vaticana:意大利-梵蒂冈
-italia - civitas vaticana:意大利-梵蒂岡
-italia - civitas vaticana:義大利-梵蒂岡
+italia - jiji la vatikani:义大利-梵蒂冈
 italia - jiji la vatikani:意大利-梵蒂冈
-italia - jiji la vatikani:意大利-梵蒂岡
-italia - jiji la vatikani:義大利-梵蒂岡
+italia - keoded ar vatikan:义大利-梵蒂冈
 italia - keoded ar vatikan:意大利-梵蒂冈
-italia - keoded ar vatikan:意大利-梵蒂岡
-italia - keoded ar vatikan:義大利-梵蒂岡
+italia - kota vatikan:义大利-梵蒂冈
 italia - kota vatikan:意大利-梵蒂冈
-italia - kota vatikan:意大利-梵蒂岡
-italia - kota vatikan:義大利-梵蒂岡
+italia - kutha vatikan:义大利-梵蒂冈
 italia - kutha vatikan:意大利-梵蒂冈
-italia - kutha vatikan:意大利-梵蒂岡
-italia - kutha vatikan:義大利-梵蒂岡
+italia - kūʻai ʻo vatican:义大利-梵蒂冈
 italia - kūʻai ʻo vatican:意大利-梵蒂冈
-italia - kūʻai ʻo vatican:意大利-梵蒂岡
-italia - kūʻai ʻo vatican:義大利-梵蒂岡
+italia - san marino:义大利 - 圣马力诺
 italia - san marino:意大利 - 圣马力诺
-italia - san marino:義大利 - 聖馬力諾
+italia - vatican city:义大利-梵蒂冈
 italia - vatican city:意大利-梵蒂冈
-italia - vatican city:意大利-梵蒂岡
-italia - vatican city:義大利-梵蒂岡
+italia - vatikaani:义大利-梵蒂冈
 italia - vatikaani:意大利-梵蒂冈
-italia - vatikaani:意大利-梵蒂岡
-italia - vatikaani:義大利-梵蒂岡
+italia - vatikano hiria:义大利-梵蒂冈
 italia - vatikano hiria:意大利-梵蒂冈
-italia - vatikano hiria:意大利-梵蒂岡
-italia - vatikano hiria:義大利-梵蒂岡
+italia - vatikanstaten:义大利-梵蒂冈
 italia - vatikanstaten:意大利-梵蒂冈
-italia - vatikanstaten:意大利-梵蒂岡
-italia - vatikanstaten:義大利-梵蒂岡
 italia class ironclad:意大利级铁甲舰
 italia coffee:意大利咖啡
 italia home:意大利家
@@ -9142,17 +9083,17 @@ italia is an independent:意大利是一个独立的
 italia is an open source:意大利是一个开源
 italia medieval:意大利中世纪的
 italia nutome:yìdàlì
+italia nutome:义大利
 italia nutome:意大利
-italia nutome:意大利 / 義大利
-italia nutome:義大利
+italia nutome:意大利 / 义大利
 italia scientific:意大利科学
 italia sofa:意大利沙发
 italia thunder:意大利雷
 italia viva:意大利活力党
 italia:yìdàlì
+italia:义大利
 italia:意大利
-italia:意大利 / 義大利
-italia:義大利
+italia:意大利 / 义大利
 italiako enbaxada:意大利大使馆
 italiako kontsulatu nagusia:意大利总领事馆
 italiako kontsulatua:意大利领事馆
@@ -9165,7 +9106,6 @@ italian account:意大利的账目
 italian acquisition:意大利收购
 italian activist:意大利活动家
 italian actor:意大利演员
-italian actor:意大利演員
 italian actress and artist:意大利女演员和艺术家
 italian actress:意大利女演员
 italian administration:意大利管理
@@ -9185,9 +9125,9 @@ italian air force academy:意大利空军学院
 italian air force select:意大利空军选择
 italian air force:意大利空军
 italian air show:意大利航展
-italian aircraft carrier aquila:鷲座號航空母艦
+italian aircraft carrier aquila:鷲座号航空母舰
 italian aircraft carrier cavour:加富尔号航空母舰
-italian aircraft carrier giuseppe garibaldi:加里波底號航空母艦
+italian aircraft carrier giuseppe garibaldi:加里波底号航空母舰
 italian aircraft manufacturer:意大利飞机制造商
 italian aircraft then:意大利的飞机然后
 italian aircraft:意大利的飞机
@@ -9197,9 +9137,9 @@ italian airliner:意大利客机
 italian airport:意大利机场
 italian airspace:意大利领空
 italian alenia aeronautica:意大利阿莱尼亚
-italian algerians:阿爾及利亞的義大利人
+italian algerians:阿尔及利亚的义大利人
 italian alice:意大利的爱丽丝
-italian all star game:意大利全明星賽
+italian all star game:意大利全明星赛
 italian alphabet:意大利语字母
 italian alps club:意大利阿尔卑斯山俱乐部
 italian alps:意大利的阿尔卑斯山
@@ -9207,7 +9147,7 @@ italian alps:意大利阿尔卑斯山
 italian amalfi coast:意大利阿马尔菲海岸
 italian ambassador grant:意大利大使授予
 italian ambassador:意大利大使
-italian american museum of los angeles:洛杉磯意美博物館
+italian american museum of los angeles:洛杉磯意美博物馆
 italian american:意大利美国人
 italian americans and african americans:意大利裔美国人和非裔美国人
 italian americans and polish americans:意大利裔美国人和波兰裔美国人
@@ -9365,14 +9305,14 @@ italian architects:意大利的建筑师
 italian archive:意大利档案
 italian argentine:意大利阿根廷
 italian argentines:意大利裔阿根廷人
-italian armed forces:義大利武裝部隊
+italian armed forces:义大利武装部队
 italian army defeat:意大利陆军击败
+italian army:义大利陆军
 italian army:意大利军队
 italian army:意大利陆军
-italian army:義大利陸軍
-italian arsenal:意大利兵工廠
+italian arsenal:意大利兵工厂
+italian art:义大利艺术
 italian art:意大利艺术
-italian art:義大利藝術
 italian as well as:意大利以及
 italian as:意大利语当作
 italian ass:意大利的屁股
@@ -9392,7 +9332,7 @@ italian audience:意大利观众
 italian audio:意大利音频
 italian augusta port:意大利奥古斯塔港口
 italian augusta:意大利奥古斯塔
-italian australians:意大利裔澳大利亞人
+italian australians:意大利裔澳大利亚人
 italian auto:意大利汽车
 italian auto:意大利的汽车
 italian auto:意大利自动
@@ -9409,25 +9349,22 @@ italian baking:意大利烘焙
 italian ballet prince:意大利芭蕾舞王子
 italian ballet:意大利芭蕾舞
 italian band:意大利乐队
-italian bank:意大利的銀行
 italian bank:意大利的银行
-italian bank:意大利銀行
 italian bank:意大利银行
 italian bankruptcy:意大利破产
-italian bankruptcy:意大利破產
 italian banks and greek:意大利银行和希腊
 italian banks have mass:意大利银行有大量
 italian banks need:意大利银行需要
 italian banks:意大利的银行
 italian banks:意大利银行
-italian baptism:意大利洗禮
+italian baptism:意大利洗礼
 italian bar:意大利酒吧
 italian barber:意大利理发师
 italian barber:意大利的理发师
 italian baron:意大利男爵
 italian baroque:意大利巴洛克艺术
 italian base:意大利基地
-italian basketball league system:義大利籃球聯賽系統
+italian basketball league system:义大利篮球联赛系统
 italian basketball player:意大利篮球运动员
 italian basketball:意大利篮球
 italian battleship:意大利战舰
@@ -9441,9 +9378,9 @@ italian beauty:意大利美人
 italian became the only:意大利语成为唯一
 italian became:意大利语成为
 italian bed:意大利床
-italian bee:義大利蜂
+italian bee:义大利蜂
+italian beef:义大利牛肉
 italian beef:意大利牛肉
-italian beef:義大利牛肉
 italian before:意大利之前
 italian bel canto:意大利美声唱法
 italian belief:意大利的信仰
@@ -9458,9 +9395,9 @@ italian bioplastic:意大利生物塑料
 italian birth:意大利出生
 italian bishop:意大利主教
 italian bishop:意大利的主教
-italian black nobility:意大利黑色貴族
+italian black nobility:意大利黑色贵族
 italian black:意大利黑色
-italian bleak:光歐白魚
+italian bleak:光欧白鱼
 italian blockchain:意大利区块链
 italian blog:意大利博客
 italian blood:意大利人血
@@ -9473,7 +9410,7 @@ italian boat:意大利船
 italian bologna:意大利博洛尼亚
 italian bomb:意大利炸弹
 italian bombing of mandatory palestine in world war ii:意大利轰炸巴勒斯坦托管地
-italian bond market:意大利債券市場
+italian bond market:意大利债券市场
 italian book:意大利书
 italian books:意大利书籍
 italian boots:意大利靴子
@@ -9492,7 +9429,6 @@ italian brand:意大利的品牌
 italian brands:意大利品牌
 italian brandy:意大利白兰地
 italian bread:意大利面包
-italian bread:意大利麵包
 italian break:意大利打破
 italian breakfast:意大利早餐
 italian breakfast:意大利的早餐
@@ -9509,7 +9445,6 @@ italian brothers:意大利的兄弟们
 italian browser:意大利的浏览器
 italian buddhist:意大利佛教徒
 italian budget:意大利的预算
-italian budget:意大利預算
 italian budget:意大利预算
 italian buffet:意大利自助餐
 italian building:意大利建筑
@@ -9528,9 +9463,9 @@ italian cake:意大利蛋糕
 italian cambodia:意大利柬埔寨
 italian camorra:意大利的克莫拉
 italian campaign begin:意大利战役开始
+italian campaign:义大利战役
 italian campaign:意大利战役
 italian campaign:意大利的战役
-italian campaign:義大利戰役
 italian campus:意大利校园
 italian canadian:意大利加拿大
 italian canadians:意大利加拿大人
@@ -9570,7 +9505,7 @@ italian carbon fund:意大利碳基金
 italian carbon:意大利碳
 italian carbonari:意大利烧炭党
 italian carrara marble:意大利卡拉拉大理石
-italian casino:意大利賭場
+italian casino:意大利赌场
 italian castle:意大利城堡
 italian casual wear:意大利休闲装
 italian catalyst manufacturer:意大利催化剂制造商
@@ -9590,7 +9525,7 @@ italian central bank:意大利的中央银行
 italian central-government:意大利中央政府
 italian centre has:意大利中心有
 italian centre:意大利中心
-italian centurion:意大利百夫長
+italian centurion:意大利百夫长
 italian certification companies:意大利认证企业
 italian certification:意大利认证
 italian chain:意大利连锁
@@ -9598,10 +9533,9 @@ italian chair:意大利椅子
 italian challenge:意大利挑战
 italian challenger:意大利挑战者
 italian challenges:意大利挑战
-italian chamber of commerce:意大利商會
-italian champion jockey:意大利冠軍騎師
+italian chamber of commerce:意大利商会
+italian champion jockey:意大利冠军骑师
 italian champion:意大利冠军
-italian champion:意大利冠軍
 italian champions:意大利冠军
 italian championship:意大利冠军
 italian championship:意大利冠军赛
@@ -9612,8 +9546,8 @@ italian chase:意大利人追逐
 italian chat will:意大利聊天会
 italian chat:意大利聊天
 italian cheese consultant:意大利奶酪顾问
-italian cheese:意大利乾酪
 italian cheese:意大利奶酪
+italian cheese:意大利干酪
 italian chemical industry:意大利化学工业
 italian chemist:意大利化学家
 italian chicken:意大利鸡
@@ -9652,7 +9586,6 @@ italian civil code:意大利民法典
 italian civil code:意大利的民法典
 italian civil defence:意大利民防
 italian civil engineer:意大利土木工程师
-italian civil engineer:意大利土木工程師
 italian civil servant:意大利的公务员
 italian civil war:意大利内战
 italian civilian:意大利平民
@@ -9670,7 +9603,6 @@ italian clients:意大利客户
 italian climate network:意大利气候网络
 italian climate:意大利气候
 italian climate:意大利的气候
-italian climate:意大利的氣候
 italian clothing brand:意大利服装品牌
 italian clothing:意大利服装
 italian clothing:意大利的服装
@@ -9679,7 +9611,7 @@ italian club can buy:意大利俱乐部可以买
 italian club palermo:意大利俱乐部巴勒莫
 italian club:意大利俱乐部
 italian club:意大利的俱乐部
-italian co belligerent air force:義大利聯合交戰空軍
+italian co belligerent air force:义大利联合交战空军
 italian co belligerent army:意大利联合交战陆军
 italian coach said:意大利教练说
 italian coach:意大利教练
@@ -9699,7 +9631,6 @@ italian coffee history:意大利咖啡历史
 italian coffee:意大利咖啡
 italian coffee:意大利的咖啡
 italian coin:意大利硬币
-italian coin:意大利硬幣
 italian cold:意大利冷
 italian colleague:意大利同事
 italian colleagues:意大利同事
@@ -9712,7 +9643,6 @@ italian color:意大利的颜色
 italian color:意大利颜色
 italian comedy film:意大利喜剧电影
 italian comedy:意大利喜剧
-italian comedy:意大利喜劇
 italian comic:意大利漫画
 italian comics:意大利漫画
 italian command:意大利的命令
@@ -9764,7 +9694,7 @@ italian control:意大利的控制
 italian conversation:意大利语对话
 italian cookie:意大利饼干
 italian cooking courses:意大利烹饪课程
-italian cooking show:意大利烹飪節目
+italian cooking show:意大利烹飪节目
 italian cooking:意大利烹饪
 italian cooking:意大利的烹饪
 italian cooperative:意大利合作社
@@ -9796,16 +9726,15 @@ italian criminal law:意大利刑法
 italian crisis erupt:意大利危机爆发
 italian crisis now:意大利危机现在
 italian crisis:意大利危机
-italian critic:意大利評論家
 italian critic:意大利评论家
 italian cross:意大利十字
 italian cruiser amalfi:阿马尔菲号装甲巡洋舰
-italian cruiser eugenio di savoia:歐根親王號輕巡洋艦
-italian cruiser luigi di savoia duca degli abruzzi:阿布魯齊公爵號輕巡洋艦
+italian cruiser eugenio di savoia:欧根亲王号轻巡洋舰
+italian cruiser luigi di savoia duca degli abruzzi:阿布鲁齐公爵号轻巡洋舰
 italian cruiser pisa:比萨号装甲巡洋舰
 italian cruiser san marco:圣马可号装甲巡洋舰
 italian cruiser:意大利巡洋舰
-italian cuisine:義大利飲食
+italian cuisine:义大利饮食
 italian cultural center:意大利文化中心
 italian cultural center:意大利的文化中心
 italian cultural heritage and activities:意大利文化遗产与活动
@@ -9866,32 +9795,29 @@ italian demand:意大利的需求
 italian democratic party:意大利民主党
 italian department:意大利语系
 italian department:意大利部门
-italian deputy prime minister:意大利副總理
+italian deputy prime minister:意大利副总理
 italian derby:意大利德比
 italian design and fashion:意大利设计和时尚
 italian design be:意大利设计成为
 italian design brand:意大利设计品牌
 italian design day:意大利设计日
 italian design experience:意大利设计经验
-italian design history:意大利設計史
+italian design history:意大利设计史
 italian design methodology:意大利设计方法学
 italian design museum:意大利设计博物馆
 italian design panorama:意大利设计全景
 italian design system:意大利设计系统
 italian design:意大利人设计
-italian design:意大利的設計
 italian design:意大利的设计
-italian design:意大利設計
 italian design:意大利设计
 italian designer bruno:意大利设计师布鲁诺
 italian designer furniture:意大利设计师家具
 italian designer:意大利的设计师
-italian designer:意大利設計師
 italian designer:意大利设计师
 italian desk:意大利的书桌
 italian dessert:意大利甜品
-italian destroyer grecale:東北風號驅逐艦
-italian destroyer maestrale:西北風號驅逐艦
+italian destroyer grecale:东北风号驱逐舰
+italian destroyer maestrale:西北风号驱逐舰
 italian destroyer:意大利驱逐舰
 italian developer:意大利开发者
 italian development cooperation:意大利发展合作
@@ -9901,11 +9827,9 @@ italian diabetes:意大利糖尿病
 italian dialect:意大利方言
 italian diamond:意大利钻石
 italian diary:意大利日记
-italian diaspora:義大利僑民
+italian diaspora:义大利侨民
 italian dictator:意大利独裁者
-italian dictator:意大利獨裁者
 italian dictator:意大利的独裁者
-italian dictator:意大利的獨裁者
 italian dictionary:意大利语词典
 italian difference:意大利差异
 italian dinner:意大利晚餐
@@ -9924,12 +9848,12 @@ italian dog:意大利犬
 italian dolomites:意大利多洛米蒂山
 italian domestic market:意大利国内市场
 italian don juan:意大利人唐璜
-italian draughts:義大利跳棋
+italian draughts:义大利跳棋
 italian dream:意大利梦
-italian dressing:義大利醬
+italian dressing:义大利醬
 italian drink:意大利饮料
 italian driver:意大利司机
-italian driving:意大利駕駛
+italian driving:意大利驾驶
 italian drought:意大利干旱
 italian drug lord:意大利毒枭
 italian drummer:意大利鼓手
@@ -9945,7 +9869,7 @@ italian east:意大利东
 italian easter:意大利复活节
 italian economic crisis:意大利的经济危机
 italian economic development:意大利经济发展
-italian economic miracle:意大利經濟奇蹟
+italian economic miracle:意大利经济奇迹
 italian economic policies:意大利的经济政策
 italian economic policy:意大利的经济政策
 italian economic:意大利经济的
@@ -9967,12 +9891,11 @@ italian election result:意大利选举结果
 italian election results:意大利选举结果
 italian election:意大利的选举
 italian election:意大利选举
-italian election:意大利選舉
 italian elections:意大利的选举
 italian elections:意大利选举
 italian electric car:意大利电动汽车
 italian electric motor:意大利电动机
-italian electricity:意大利電
+italian electricity:意大利电
 italian elegance:意大利优雅
 italian elegance:意大利的优雅
 italian elements of style:意大利元素的风格
@@ -10008,15 +9931,14 @@ italian environment:意大利环境
 italian envoy:意大利特使
 italian epic:意大利史诗
 italian equipment manufacturer:意大利设备制造商
-italian equipment:意大利設備
 italian equipment:意大利设备
-italian eritrea:意屬厄立特里亞
-italian eritreans:厄立特里亞的義大利人
-italian espresso machine:意大利濃縮咖啡機
-italian espresso:意大利濃縮咖啡
+italian eritrea:意属厄立特里亚
+italian eritreans:厄立特里亚的义大利人
+italian espresso machine:意大利浓缩咖啡机
+italian espresso:意大利浓缩咖啡
 italian essayist:意大利散文家
 italian estimate:意大利估计
-italian euro coins:義大利的歐元硬幣
+italian euro coins:义大利的欧元硬币
 italian euro:意大利欧元
 italian european parliament:意大利欧洲议会
 italian european:意大利欧洲
@@ -10067,7 +9989,6 @@ italian farm:意大利的农田
 italian farmer:意大利农民
 italian farmer:意大利的农民
 italian fascism:意大利法西斯主义
-italian fascism:意大利法西斯主義
 italian fascism:意大利的法西斯主义
 italian fascist:意大利法西斯主义者
 italian fashion brand:意大利时尚品牌
@@ -10084,7 +10005,6 @@ italian fashion:意大利时装
 italian fashion:意大利的时尚
 italian father:意大利父亲
 italian father:意大利的父亲
-italian father:意大利的父親
 italian federal law:意大利联邦法律
 italian feel:意大利的感觉
 italian female:意大利女性
@@ -10117,9 +10037,9 @@ italian fishing village:意大利渔村
 italian five:意大利五
 italian fixed-wing aircraft:意大利固定翼飞机
 italian flag:意大利旗
-italian fleet and italian:意大利艦隊和意大利
-italian fleet:意大利的艦隊
-italian fleet:意大利艦隊
+italian fleet and italian:意大利舰队和意大利
+italian fleet:意大利的舰队
+italian fleet:意大利舰队
 italian floor:意大利地板
 italian flour:意大利面粉
 italian follower:意大利追随者
@@ -10135,13 +10055,13 @@ italian food:意大利食物
 italian football already:意大利足球已经
 italian football association:意大利足球协会
 italian football awards:意大利足球奖
-italian football champion:意大利足球冠軍
+italian football champion:意大利足球冠军
 italian football championship:意大利足球锦标赛
 italian football club:意大利的足球俱乐部
 italian football club:意大利足球俱乐部
 italian football coach:意大利足球教练
 italian football expert:意大利足球专家
-italian football federation:意大利足球總會
+italian football federation:意大利足球总会
 italian football giant:意大利足球巨人
 italian football hall of fame:意大利足球名人堂
 italian football history:意大利足球历史
@@ -10151,7 +10071,6 @@ italian football league:意大利足球联盟
 italian football needs:意大利足球需要
 italian football news:意大利足球新闻
 italian football scandal:意大利足球丑闻
-italian football scandal:意大利足球醜聞
 italian football school:意大利足球学校
 italian football schools:意大利足球学校
 italian football system:意大利足球系统
@@ -10182,7 +10101,6 @@ italian frogman:意大利蛙人
 italian front line:意大利前线
 italian frontier:意大利的边境
 italian frontier:意大利边境
-italian frontier:意大利邊境
 italian fund:意大利基金
 italian funeral:意大利葬礼
 italian furniture company:意大利家具公司
@@ -10193,21 +10111,21 @@ italian furniture:意大利的家具
 italian futurism:意大利未来主义
 italian futurist:意大利未来学家
 italian gallery:意大利画廊
-italian gambit:意大利開局
+italian gambit:意大利开局
 italian gambling market:意大利的赌博市场
 italian gambling:意大利的赌博
-italian game:義大利開局
+italian game:义大利开局
 italian garbage:意大利的垃圾
 italian garden:意大利花园
 italian gender studies:意大利性别研究
 italian gene:意大利基因
 italian general election:意大利大选
 italian general election:意大利普选
-italian general strike:意大利的總罷工
+italian general strike:意大利的总罢工
 italian general:意大利将军
 italian genius:意大利天才
 italian genius:意大利的天才
-italian gentleman:意大利紳士
+italian gentleman:意大利绅士
 italian geographical region:意大利的地理区域
 italian geologist:意大利地质学家
 italian giant:意大利巨人
@@ -10254,7 +10172,7 @@ italian government:意大利政府
 italian governments could:意大利政府能
 italian governments:意大利政府
 italian governments:意大利的政府
-italian governorate of montenegro:蒙特內哥羅軍政府
+italian governorate of montenegro:蒙特內哥罗军政府
 italian graduates:意大利毕业生
 italian grammar:意大利语法
 italian grammar:意大利语语法
@@ -10268,7 +10186,7 @@ italian grape:意大利葡萄
 italian graphic and product:意大利图形和产品
 italian graphic artist:意大利图形艺术家
 italian graphic design:意大利平面设计
-italian graphic designer:意大利平面設計師
+italian graphic designer:意大利平面设计师
 italian graphic:意大利图形
 italian grass:意大利的草
 italian greek alphabet:意大利的希腊字母
@@ -10288,14 +10206,14 @@ italian gymnastics:意大利体操
 italian habit:意大利习惯
 italian hacker:意大利黑客
 italian hair:意大利头发
-italian haitians:義大利裔海地人
+italian haitians:义大利裔海地人
 italian half:意大利半
 italian hall of fame:意大利名人堂
 italian ham:意大利火腿
 italian hand:意大利手
 italian hands:意大利手
 italian hands:意大利的手
-italian harpsichord:意大利大鍵琴
+italian harpsichord:意大利大键琴
 italian head coach:意大利主教练
 italian head of state:意大利国家元首
 italian head:意大利头
@@ -10359,7 +10277,7 @@ italian immigration law:意大利移民法
 italian immigration movie:意大利移民电影
 italian immigration policy:意大利移民政策
 italian immigration:意大利移民
-italian imperialism under fascism:大義大利
+italian imperialism under fascism:大义大利
 italian imperialism:意大利帝国主义
 italian impression:意大利印象
 italian independence war:意大利独立战争
@@ -10388,20 +10306,20 @@ italian institute:意大利研究所
 italian institutions:意大利机构
 italian institutions:意大利的机构
 italian instruction:意大利指令
-italian instrumental:意大利器樂
+italian instrumental:意大利器乐
 italian insurance:意大利保险
 italian intellectual property:意大利知识产权
 italian intellectuals:意大利知识分子
-italian interior minister:意大利內政部長
+italian interior minister:意大利內政部长
 italian international midfielder:意大利国际中场
+italian international:义大利羽毛球国际赛
 italian international:意大利国际
-italian international:義大利羽毛球國際賽
 italian internet users:意大利互联网用户
 italian internet:意大利互联网
 italian invasion and british:意大利入侵和英国的
-italian invasion of albania:義大利入侵阿爾巴尼亞
-italian invasion of egypt:義大利入侵埃及
-italian invasion of france:義大利入侵法國
+italian invasion of albania:义大利入侵阿尔巴尼亚
+italian invasion of egypt:义大利入侵埃及
+italian invasion of france:义大利入侵法国
 italian invasion:意大利人入侵
 italian invasion:意大利入侵
 italian invention:意大利发明
@@ -10422,12 +10340,11 @@ italian ironclad principe di carignano:卡里尼亚诺王子号铁甲舰
 italian ironclad re d'italia:意大利国王号铁甲舰
 italian ironclad roma:罗马号铁甲舰
 italian ironclad terribile:可畏号铁甲舰
-italian irredentism:意大利淪陷區
+italian irredentism:意大利沦陷区
 italian irredentism:意大利领土收复主义
 italian is derived from latin:意大利是源于拉丁语
 italian island:意大利岛
 italian island:意大利岛屿
-italian island:意大利島嶼
 italian islands of the aegean:意属爱琴海群岛
 italian issue:意大利问题
 italian italian:意大利的意大利人
@@ -10439,7 +10356,7 @@ italian jewel:意大利宝石
 italian jewellery:意大利珠宝
 italian jews:意大利犹太人
 italian joke:意大利笑话
-italian journalist:意大利新聞工作者
+italian journalist:意大利新闻工作者
 italian journalists:意大利的记者
 italian journalists:意大利记者
 italian journey:意大利旅行
@@ -10474,7 +10391,7 @@ italian lake:意大利的湖
 italian lake:意大利的湖泊
 italian land-bridge:意大利陆桥
 italian land:意大利的土地
-italian landing helicopter dock trieste:第里雅斯特級兩棲突擊艦
+italian landing helicopter dock trieste:第里雅斯特级两栖突击舰
 italian landscape:意大利景观
 italian landscape:意大利的风景
 italian landscape:意大利风景
@@ -10494,7 +10411,6 @@ italian language teacher:意大利语教师
 italian language translation:意大利语翻译
 italian language week:意大利语周
 italian language:意大利的语言
-italian language:意大利語言
 italian language:意大利语
 italian language:意大利语言
 italian language:意大利语语言
@@ -10518,13 +10434,13 @@ italian leather:意大利皮革
 italian left:意大利左
 italian left:意大利左翼
 italian left:意大利的左
-italian legal doctrine:意大利的法律原則
+italian legal doctrine:意大利的法律原则
 italian legion:意大利军团
 italian legislation:意大利立法
 italian lesson:意大利的课程
 italian lesson:意大利语课程
 italian let:意大利让
-italian liberal party:意大利自由黨
+italian liberal party:意大利自由党
 italian liberal:意大利的自由派
 italian liberal:意大利自由派
 italian liberation day:意大利解放日
@@ -10541,15 +10457,14 @@ italian light cavalry:意大利轻骑兵
 italian lighting association:意大利照明协会
 italian lighting:意大利照明
 italian line:意大利线
-italian lira:義大利里拉
+italian lira:义大利里拉
 italian literature and culture:意大利语文学和文化
 italian literature include:意大利文学包括
+italian literature:义大利语文学
 italian literature:意大利文学
-italian literature:意大利文學
 italian literature:意大利的文学
 italian literature:意大利语文学
-italian literature:義大利語文學
-italian loach:幼薩瓦納鰍
+italian loach:幼萨瓦纳鰍
 italian local election:意大利地方选举
 italian logic:意大利逻辑
 italian logistics company:意大利物流公司
@@ -10650,14 +10565,12 @@ italian military prison:意大利军事监狱
 italian military:意大利军事
 italian military:意大利军队
 italian military:意大利的军事
-italian military:意大利軍隊
 italian milk:意大利牛奶
 italian miller:意大利磨坊主
 italian million:意大利百万
-italian mineral water brand:意大利礦泉水品牌
+italian mineral water brand:意大利矿泉水品牌
 italian mineral water:意大利的矿泉水
 italian mineral water:意大利矿泉水
-italian mineral water:意大利礦泉水
 italian minister:意大利部长
 italian ministry of defence:意大利国防部
 italian ministry of finance:意大利财政部
@@ -10676,18 +10589,16 @@ italian monarch:意大利君主
 italian monarchy:意大利君主制
 italian monastery:意大利修道院
 italian money:意大利的钱
-italian money:意大利貨幣
+italian money:意大利货币
 italian monk:意大利僧侣
 italian monster:意大利怪物
 italian mother eat:意大利母亲吃
 italian mother:意大利母亲
-italian mother:意大利母親
 italian mother:意大利的母亲
 italian motorcycle designer:意大利的摩托车设计师
 italian motorcycle federation:意大利摩托车联盟
 italian motorcycle manufacturer:意大利摩托车制造商
 italian motorcycle team:意大利摩托车队
-italian motorcycle:意大利摩托車
 italian motorcycle:意大利摩托车
 italian motorcycle:意大利的摩托车
 italian motorway:意大利高速公路
@@ -10718,16 +10629,14 @@ italian national bank:意大利国家银行
 italian national football team:意大利国家足球队
 italian national football:意大利国家足球
 italian national interest:意大利国家利益
-italian national olympic committee:意大利國家奧林匹克委員會
+italian national olympic committee:意大利国家奧林匹克委员会
 italian national team coach:意大利国家队教练
 italian national team:意大利国家队
 italian nationalism:意大利民族主义
-italian nationalism:意大利民族主義
 italian nationalism:意大利的民族主义
 italian nationalist association:意大利民族主义协会
 italian nationalist:意大利民族主义者
 italian nationality:意大利国籍
-italian nationality:意大利國籍
 italian natural gas infrastructure company:意大利天然气基础设施公司
 italian natural gas:意大利天然气
 italian nature:意大利自然
@@ -10752,7 +10661,6 @@ italian news media:意大利新闻媒体
 italian news media:意大利的新闻媒体
 italian news:意大利新闻
 italian news:意大利的新闻
-italian newspaper:意大利報紙
 italian newspaper:意大利报纸
 italian newspaper:意大利的报纸
 italian night:意大利的夜
@@ -10770,17 +10678,16 @@ italian notebook:意大利笔记本
 italian novel:意大利小说
 italian novel:意大利语小说
 italian novelist and scholar:意大利小说家和学者
-italian novelist:意大利小說家
 italian novelist:意大利小说家
 italian novelist:意大利的小说家
 italian nuclear engineering:意大利核工程
 italian nun:意大利修女
 italian nurse:意大利护士
 italian nurse:意大利的护士
-italian occupation of france:第二次世界大戰義大利軍事佔領法國
+italian occupation of france:第二次世界大战义大利军事佔领法国
 italian occupation of istanbul:意大利占领君士坦丁堡
-italian occupation of majorca:義大利佔領馬略卡島
-italian occupation:意大利佔領
+italian occupation of majorca:义大利佔领马略卡岛
+italian occupation:意大利佔领
 italian ocean:意大利海洋
 italian offensive:意大利攻势
 italian offensive:意大利的攻势
@@ -10796,7 +10703,7 @@ italian oil and gas company:意大利石油和天然气公司
 italian oil and gas:意大利石油和天然气
 italian oil:意大利油
 italian old town:意大利老城
-italian olive oil:意大利橄欖油
+italian olive oil:意大利橄榄油
 italian onion:意大利洋葱
 italian online:意大利在线
 italian online:意大利语在线
@@ -10835,7 +10742,6 @@ italian painter and architect:意大利画家和建筑师
 italian painter and sculptor:意大利画家和雕塑家
 italian painter caravaggio:意大利画家卡拉瓦乔
 italian painter:意大利画家
-italian painter:意大利畫家
 italian painter:意大利的画家
 italian painting:意大利的绘画
 italian painting:意大利绘画
@@ -10875,16 +10781,15 @@ italian patients:意大利患者
 italian patients:意大利的患者
 italian patriot:意大利爱国者
 italian patron:意大利的赞助人
-italian pavilion:意大利館
+italian pavilion:意大利馆
 italian payment:意大利支付
 italian peace movement:意大利和平运动
 italian peace:意大利和平
 italian pear:意大利梨
 italian peasants:意大利农民
 italian peninsula and north africa:意大利半岛和北非
+italian peninsula:义大利半岛
 italian peninsula:意大利半岛
-italian peninsula:意大利半島
-italian peninsula:義大利半島
 italian people:意大利人民
 italian people:意大利民
 italian per capita income:意大利的人均收入
@@ -10896,11 +10801,10 @@ italian phenomenon:意大利现象
 italian phenomenon:意大利的现象
 italian philanthropist:意大利慈善家
 italian philosopher:意大利哲学家
-italian philosopher:意大利哲學家
 italian philosopher:意大利的哲学家
 italian philosophy:意大利哲学
 italian photo:意大利的照片
-italian photographer:意大利攝影師
+italian photographer:意大利摄影师
 italian photography magazine:意大利摄影杂志
 italian photography:意大利摄影
 italian phrase:意大利短语
@@ -10995,8 +10899,8 @@ italian privacy:意大利隐私
 italian private university:意大利的私立大学
 italian private:意大利私人
 italian prize:意大利奖
-italian problem:意大利問題
 italian problem:意大利的问题
+italian problem:意大利问题
 italian problems:意大利的问题
 italian product design:意大利产品设计
 italian product:意大利产品
@@ -11022,7 +10926,7 @@ italian proletariat:意大利的无产阶级
 italian propaganda:意大利宣传
 italian propaganda:意大利的宣传
 italian prose:意大利散文
-italian prosecco:意大利普羅賽克
+italian prosecco:意大利普罗赛克
 italian protectorate:意大利保护国
 italian protectorate:意大利的保护国
 italian proverb:意大利的谚语
@@ -11030,7 +10934,7 @@ italian proverb:意大利谚语
 italian province date:意大利省日期
 italian province:意大利省
 italian psychiatrist:意大利精神病医生
-italian psychologist:意大利心理學家
+italian psychologist:意大利心理学家
 italian public broadcasting:意大利公共广播
 italian public debt:意大利公共债务
 italian public opinion:意大利舆论
@@ -11077,7 +10981,7 @@ italian reforms:意大利的改革
 italian refugee crisis:意大利的难民危机
 italian refugee:意大利的难民
 italian refugee:意大利难民
-italian regency of carnaro:義大利卡爾納羅攝政領
+italian regency of carnaro:义大利卡尔纳罗摄政领
 italian regime:意大利政权
 italian regiment:意大利团
 italian region:意大利人地区
@@ -11107,9 +11011,9 @@ italian renaissance patron:意大利文艺复兴赞助人
 italian renaissance period:意大利文艺复兴时期
 italian renaissance sculpture:意大利文艺复兴雕塑
 italian renaissance style:意大利文艺复兴风格
+italian renaissance:义大利文艺复兴
 italian renaissance:意大利文艺复兴
 italian renaissance:意大利的文艺复兴
-italian renaissance:義大利文藝復興
 italian renewable energy:意大利可再生能源
 italian representative:意大利代表
 italian representatives:意大利代表
@@ -11136,10 +11040,10 @@ italian researchers:意大利研究人员
 italian resident:意大利居民
 italian residents:意大利居民
 italian residents:意大利的居民
-italian resistance movement:義大利抵抗運動
+italian resistance movement:义大利抵抗运动
 italian resort:意大利度假村
 italian restaurant boss:意大利餐馆老板
-italian restaurant:意大利餐廳
+italian restaurant:意大利餐厅
 italian restaurant:意大利餐馆
 italian restaurants:意大利的餐馆
 italian restaurants:意大利餐馆
@@ -11220,13 +11124,13 @@ italian seafood and asian:意大利海鲜和亚洲
 italian seafood:意大利海鲜
 italian seaman:意大利海员
 italian season:意大利季节
-italian seasoning:意大利調味
+italian seasoning:意大利调味
 italian secondary school:意大利中学
 italian secret agent:意大利的秘密特工
 italian secret service:意大利秘密服务
 italian secret:意大利的秘密
 italian secret:意大利秘密
-italian secretary:意大利秘書
+italian secretary:意大利秘书
 italian security:意大利安全
 italian security:意大利的安全
 italian senate human rights committee:意大利参议院人权委员会
@@ -11241,7 +11145,7 @@ italian service:意大利服务
 italian services:意大利服务
 italian services:意大利的服务
 italian settler:意大利定居者
-italian settlers in libya:利比亞的義大利人
+italian settlers in libya:利比亚的义大利人
 italian seven:意大利七
 italian shadow:意大利的阴影
 italian sharing:意大利共享
@@ -11260,7 +11164,7 @@ italian singer:意大利歌手
 italian singing master:意大利歌唱大师
 italian singing:意大利歌唱
 italian sister:意大利姐妹
-italian six hour clock:意大利六小時制
+italian six hour clock:意大利六小时制
 italian skeleton:意大利骨架
 italian skills:意大利语技能
 italian sky:意大利天空
@@ -11279,7 +11183,6 @@ italian social club:意大利社交俱乐部
 italian social democratic party:意大利社会民主党
 italian social media:意大利的社交媒体
 italian social movement:意大利社会运动
-italian social movement:意大利社會運動
 italian social republic air force:意大利社会共和国空军
 italian social republic:意大利社会共和国
 italian social security:意大利社会保障
@@ -11303,8 +11206,8 @@ italian soldier:意大利的士兵
 italian solidarity:意大利团结
 italian somali:意大利的索马里
 italian somali:意大利索马里
+italian somaliland:义属索马利兰
 italian somaliland:意大利索马里兰
-italian somaliland:義屬索馬利蘭
 italian song:意大利歌曲
 italian song:意大利语歌曲
 italian sonnet:意大利十四行诗
@@ -11314,8 +11217,8 @@ italian soul:意大利的灵魂
 italian sound:意大利的声音
 italian soup:意大利汤
 italian south:意大利南
-italian space agency:義大利太空總署
-italian sparrow:義大利麻雀
+italian space agency:义大利太空总署
+italian sparrow:义大利麻雀
 italian spirit:意大利精神
 italian sport:意大利运动
 italian sports car manufacturer produce:意大利跑车制造商生产
@@ -11398,8 +11301,8 @@ italian success:意大利成功
 italian such:意大利语如此
 italian summer truffle:意大利夏季松露
 italian summer:意大利夏季
-italian supercar:意大利超級跑車
-italian supermarket:意大利超級市場
+italian supercar:意大利超级跑车
+italian supermarket:意大利超级市场
 italian support:意大利的支持
 italian support:意大利语支持
 italian supreme court:意大利最高法院
@@ -11413,7 +11316,7 @@ italian swimming:意大利游泳
 italian switzerland:意大利瑞士
 italian switzerland:瑞士意大利语区
 italian system:意大利系统
-italian taekwondo federation:義大利跆拳道協會
+italian taekwondo federation:义大利跆拳道协会
 italian tailor mike:意大利裁缝迈克
 italian tailor:意大利裁缝
 italian tank:意大利坦克
@@ -11475,7 +11378,6 @@ italian third:意大利第三
 italian three:意大利三
 italian throat:意大利喉咙
 italian time:意大利时间
-italian tire:意大利輪胎
 italian tire:意大利轮胎
 italian title:意大利标题
 italian to czech:意大利语到捷克语
@@ -11584,7 +11486,7 @@ italian violin:意大利小提琴
 italian violinist:意大利小提琴家
 italian viticulture:意大利葡萄栽培
 italian volcano:意大利火山
-italian volleyball league:義大利排球聯賽
+italian volleyball league:义大利排球联赛
 italian volunteer:意大利志愿者
 italian vote:意大利投票
 italian voyage:意大利旅行
@@ -11594,11 +11496,10 @@ italian wallpaper:意大利壁纸
 italian walnut:意大利核桃
 italian want:意大利人想要
 italian war crimes:意大利战争罪行
-italian war crimes:意大利戰爭罪行
-italian war of independence:意大利獨立戰爭
+italian war of independence:意大利独立战争
 italian war:意大利战争
 italian war:意大利的战争
-italian warehouse:意大利的倉庫
+italian warehouse:意大利的仓库
 italian wars:意大利战争
 italian warship:意大利战舰
 italian was meaningless:意大利人是无意义的
@@ -11626,9 +11527,9 @@ italian white:意大利白色
 italian white:意大利的白色
 italian widow:意大利寡妇
 italian wife:意大利妻子
+italian wikipedia:义大利语维基百科
 italian wikipedia:意大利维基百科
 italian wikipedia:意大利语维基百科
-italian wikipedia:義大利語維基百科
 italian will be:意大利人将成为
 italian wind tunnel:意大利的风洞
 italian wine ambassador:意大利葡萄酒大使
@@ -11652,7 +11553,7 @@ italian wine:意大利的葡萄酒
 italian wine:意大利葡萄酒
 italian wine:意大利酒
 italian winter sports association:意大利冬季运动协会
-italian winter sports:意大利冬季運動
+italian winter sports:意大利冬季运动
 italian winter:意大利冬季
 italian wisdom:意大利的智慧
 italian wish:意大利的希望
@@ -11663,7 +11564,7 @@ italian woman:意大利女人
 italian woman:意大利女性
 italian women are beautiful:意大利妇女是美丽的
 italian women share:意大利妇女分享
-italian women's volleyball league:義大利女子甲組排球聯賽
+italian women's volleyball league:义大利女子甲组排球联赛
 italian women:意大利女人
 italian women:意大利妇女
 italian woodworking:意大利木工
@@ -11683,7 +11584,7 @@ italian writer:意大利作家
 italian writers:意大利作家
 italian writing style:意大利写作风格
 italian writing:意大利写作
-italian yacht:意大利遊艇
+italian yacht:意大利游艇
 italian yarn company:意大利纱线公司
 italian yarn:意大利纱线
 italian yoga master:意大利瑜伽大师
@@ -11709,51 +11610,46 @@ italian:意大利的
 italian:意大利语
 italianate architecture:意大利式建筑
 italiani brava gente:意大利人都是好人
-italians in india:義大利裔印度人
-italians in the united kingdom:意大利裔英國人
-italians of crimea:克里米亞意大利人
-italians:義大利人
+italians in india:义大利裔印度人
+italians in the united kingdom:意大利裔英国人
+italians of crimea:克里米亚意大利人
+italians:义大利人
 italias ambassade:意大利大使馆
 italias generalkonsulat:意大利总领事馆
 italias konsulat:意大利领事馆
 italias æreskonsulat:意大利名誉领事馆
 italias:yìdàlì
+italias:义大利
 italias:意大利
-italias:意大利 / 義大利
-italias:義大利
+italias:意大利 / 义大利
 italic languages:意大利语族
 italic type:意大利体
 italica:意大利迦
+italie - cité du vatican:义大利-梵蒂冈
 italie - cité du vatican:意大利-梵蒂冈
-italie - cité du vatican:意大利-梵蒂岡
-italie - cité du vatican:義大利-梵蒂岡
+italie - saint-marin:义大利 - 圣马力诺
 italie - saint-marin:意大利 - 圣马力诺
-italie - saint-marin:義大利 - 聖馬力諾
 italie:yìdàlì
+italie:义大利
 italie:意大利
-italie:意大利 / 義大利
-italie:義大利
+italie:意大利 / 义大利
+italien - san marino:义大利 - 圣马力诺
 italien - san marino:意大利 - 圣马力诺
-italien - san marino:義大利 - 聖馬力諾
+italien - vatikaanstad:义大利-梵蒂冈
 italien - vatikaanstad:意大利-梵蒂冈
-italien - vatikaanstad:意大利-梵蒂岡
-italien - vatikaanstad:義大利-梵蒂岡
+italien - vatikan stad:义大利-梵蒂冈
 italien - vatikan stad:意大利-梵蒂冈
-italien - vatikan stad:意大利-梵蒂岡
-italien - vatikan stad:義大利-梵蒂岡
+italien - vatikanstadt:义大利-梵蒂冈
 italien - vatikanstadt:意大利-梵蒂冈
-italien - vatikanstadt:意大利-梵蒂岡
-italien - vatikanstadt:義大利-梵蒂岡
+italien - vatikanstaten:义大利-梵蒂冈
 italien - vatikanstaten:意大利-梵蒂冈
-italien - vatikanstaten:意大利-梵蒂岡
-italien - vatikanstaten:義大利-梵蒂岡
 italien:yìdàlì
+italien:义大利
 italien:意大利
-italien:意大利 / 義大利
-italien:義大利
+italien:意大利 / 义大利
+italienische halbinsel:义大利半岛
 italienische halbinsel:意大利半岛
-italienische halbinsel:義大利半島
-italienischer pavillon:意大利館
+italienischer pavillon:意大利馆
 italienischer turm:意大利塔
 italiens ambassad:意大利大使馆
 italiens ambassade:意大利大使馆
@@ -11761,94 +11657,85 @@ italiens generalkonsulat:意大利总领事馆
 italiens honorärkonsulat:意大利名誉领事馆
 italiens honorære konsulat:意大利名誉领事馆
 italiens konsulat:意大利领事馆
+italii:义大利
 italii:意大利
-italii:義大利
+italija - san marinas:义大利 - 圣马力诺
 italija - san marinas:意大利 - 圣马力诺
-italija - san marinas:義大利 - 聖馬力諾
+italija - vatikan:义大利-梵蒂冈
 italija - vatikan:意大利-梵蒂冈
-italija - vatikan:意大利-梵蒂岡
-italija - vatikan:義大利-梵蒂岡
+italija - vatikanas:义大利-梵蒂冈
 italija - vatikanas:意大利-梵蒂冈
-italija - vatikanas:意大利-梵蒂岡
-italija - vatikanas:義大利-梵蒂岡
 italija:yìdàlì
+italija:义大利
 italija:意大利
-italija:意大利 / 義大利
-italija:義大利
-italijanski paviljon:意大利館
+italija:意大利 / 义大利
+italijanski paviljon:意大利馆
 italijos ambasada:意大利大使馆
 italijos garbės konsulatas:意大利名誉领事馆
 italijos generalinis konsulatas:意大利总领事馆
 italijos konsulatas:意大利领事馆
 italijŏ:yìdàlì
+italijŏ:义大利
 italijŏ:意大利
-italijŏ:意大利 / 義大利
-italijŏ:義大利
+italijŏ:意大利 / 义大利
+italio - vatikanurbo:义大利-梵蒂冈
 italio - vatikanurbo:意大利-梵蒂冈
-italio - vatikanurbo:意大利-梵蒂岡
-italio - vatikanurbo:義大利-梵蒂岡
 italio:yìdàlì
+italio:义大利
 italio:意大利
-italio:意大利 / 義大利
-italio:義大利
+italio:意大利 / 义大利
+italiya - birnin vatican:义大利-梵蒂冈
 italiya - birnin vatican:意大利-梵蒂冈
-italiya - birnin vatican:意大利-梵蒂岡
-italiya - birnin vatican:義大利-梵蒂岡
+italiya - vatikan shahri:义大利-梵蒂冈
 italiya - vatikan shahri:意大利-梵蒂冈
-italiya - vatikan shahri:意大利-梵蒂岡
-italiya - vatikan shahri:義大利-梵蒂岡
 italiya bosh konsulligi:意大利总领事馆
 italiya elchixonasi:意大利大使馆
 italiya konsulligi:意大利领事馆
 italiya:yìdàlì
+italiya:义大利
 italiya:意大利
-italiya:意大利 / 義大利
-italiya:義大利
+italiya:意大利 / 义大利
+italiyanikondre:义大利
 italiyanikondre:意大利
-italiyanikondre:義大利
 italiyaning faxriy konsulligi:意大利名誉领事馆
+italië - vaticaanstad:义大利-梵蒂冈
 italië - vaticaanstad:意大利-梵蒂冈
-italië - vaticaanstad:意大利-梵蒂岡
-italië - vaticaanstad:義大利-梵蒂岡
 italië:yìdàlì
+italië:义大利
 italië:意大利
-italië:意大利 / 義大利
-italië:義大利
+italië:意大利 / 义大利
+italiën:义大利
 italiën:意大利
-italiën:義大利
+italiýa:义大利
 italiýa:意大利
-italiýa:義大利
 italiýanyň baş konsullygy:意大利总领事馆
 italiýanyň hormatly konsullygy:意大利名誉领事馆
 italiýanyň ilçihanasy:意大利大使馆
 italiýanyň konsullygy:意大利领事馆
+italja - belt tal-vatikan:义大利-梵蒂冈
 italja - belt tal-vatikan:意大利-梵蒂冈
-italja - belt tal-vatikan:意大利-梵蒂岡
-italja - belt tal-vatikan:義大利-梵蒂岡
 italja:yìdàlì
+italja:义大利
 italja:意大利
-italja:意大利 / 義大利
-italja:義大利
+italja:意大利 / 义大利
+italjaansk skiereilân:义大利半岛
 italjaansk skiereilân:意大利半岛
-italjaansk skiereilân:義大利半島
-italo ethiopian war:義大利衣索比亞戰爭
-italo turkish war:義土戰爭
-italo yemeni treaty:也門條約
+italo ethiopian war:义大利衣索比亚战争
+italo turkish war:义土战争
+italo yemeni treaty:也门条约
 italska:yìdàlì
+italska:义大利
 italska:意大利
-italska:意大利 / 義大利
-italska:義大利
+italska:意大利 / 义大利
+italskô:义大利
 italskô:意大利
-italskô:義大利
 italva:伊塔尔瓦
+italy - motse oa vatican:义大利-梵蒂冈
 italy - motse oa vatican:意大利-梵蒂冈
-italy - motse oa vatican:意大利-梵蒂岡
-italy - motse oa vatican:義大利-梵蒂岡
+italy - san marino:义大利 - 圣马力诺
 italy - san marino:意大利 - 圣马力诺
-italy - san marino:義大利 - 聖馬力諾
+italy - vatican city:义大利-梵蒂冈
 italy - vatican city:意大利-梵蒂冈
-italy - vatican city:意大利-梵蒂岡
-italy - vatican city:義大利-梵蒂岡
 italy a year:意大利一年
 italy abolish:意大利废除
 italy about:意大利大约
@@ -11912,15 +11799,13 @@ italy and china:意大利、中国
 italy and china:意大利与中国
 italy and china:意大利以及中国
 italy and china:意大利和中国
-italy and china:意大利和中國
-italy and china:意大利與中國
 italy and corsica:意大利和科西嘉
 italy and croatia:意大利、克罗地亚
 italy and croatia:意大利和克罗地亚
 italy and cyprus:意大利和塞浦路斯
 italy and czech republic:意大利以及捷克
 italy and czech republic:意大利和捷克共和国
-italy and dalmatia:意大利和達爾馬提亞
+italy and dalmatia:意大利和达尔马提亚
 italy and denmark:丹麦和意大利
 italy and denmark:意大利和丹麦
 italy and denmark:意大利对阵丹麦
@@ -12018,7 +11903,7 @@ italy and kenya:意大利和肯尼亚
 italy and korea:意大利和韩国
 italy and kuwait:意大利和科威特
 italy and kuwait:科威特、意大利
-italy and latvia:意大利和拉脫維亞
+italy and latvia:意大利和拉脱维亚
 italy and lebanon:意大利及黎巴嫩
 italy and lebanon:意大利和黎巴嫩
 italy and libya:意大利、利比亚
@@ -12079,7 +11964,6 @@ italy and portugal:葡萄牙和意大利
 italy and qatar:意大利和卡塔尔
 italy and romania:意大利、罗马尼亚
 italy and romania:意大利和罗马尼亚
-italy and romania:意大利和羅馬尼亞
 italy and rome:意大利和罗马
 italy and russia:意大利与俄罗斯
 italy and russia:意大利以及俄罗斯
@@ -12191,14 +12075,14 @@ italy as well as:意大利以及
 italy as well:意大利也
 italy ask:意大利问
 italy assistance:意大利援助
-italy at the fifa world cup:世界盃足球賽義大利代表隊
+italy at the fifa world cup:世界杯足球赛义大利代表队
 italy at the olympics:奥林匹克运动会意大利代表团
 italy at the same time:意大利同时
 italy attract:意大利吸引
 italy august:意大利八月
 italy avoid:意大利避免
 italy ball:意大利球
-italy bank:意大利銀行
+italy bank:意大利银行
 italy bark:意大利吠
 italy beach:意大利海滩
 italy became republic:意大利成为共和国
@@ -12226,14 +12110,14 @@ italy capital:意大利首都
 italy car:意大利车
 italy career:意大利职业生涯
 italy cement:意大利水泥
-italy chamber of commerce:意大利商會
+italy chamber of commerce:意大利商会
 italy changed everything:意大利改变了一切
 italy changed:意大利改变了
 italy cheese:意大利奶酪
 italy choose:意大利选择
 italy citizenship:意大利公民
 italy city centre:意大利市中心
-italy climate:意大利氣候
+italy climate:意大利气候
 italy coach:意大利教练
 italy companies:意大利公司
 italy conquer:意大利征服
@@ -12296,7 +12180,6 @@ italy expansion:意大利扩张
 italy expert:意大利专家
 italy export:意大利出口
 italy factory:意大利工厂
-italy factory:意大利工廠
 italy famous:意大利著名的
 italy finance:意大利财政
 italy find:意大利发现
@@ -12305,10 +12188,9 @@ italy forty:意大利四十
 italy from:意大利从
 italy fruit:意大利水果
 italy game:意大利游戏
-italy garden:意大利園林
+italy garden:意大利园林
 italy general manager:意大利总经理
 italy germany:意大利德国
-italy government website:意大利政府網站
 italy government website:意大利政府网站
 italy government:意大利政府
 italy guests:意大利客人
@@ -12339,7 +12221,7 @@ italy illegal:意大利非法
 italy imola:意大利伊莫拉
 italy in 2000:意大利在2000年
 italy in the eurovision song contest:意大利在欧洲歌唱大赛之历年表现
-italy in the junior eurovision song contest:義大利在歐洲青少年歌唱大賽之歷年表現
+italy in the junior eurovision song contest:义大利在欧洲青少年歌唱大赛之历年表现
 italy in the middle ages:中世纪的意大利
 italy independence day:意大利独立日
 italy industry:意大利工业
@@ -12388,29 +12270,27 @@ italy markets:意大利市场
 italy means:意大利意味着
 italy media:意大利媒体
 italy men's national basketball team:意大利国家男子篮球队
-italy men's national volleyball team:義大利國家男子排球隊
+italy men's national volleyball team:义大利国家男子排球队
 italy might have:意大利可能有
 italy milan:意大利米兰
-italy milan:意大利米蘭
+italy military:义大利军队
 italy military:意大利军事
 italy military:意大利军队
-italy military:意大利軍隊
-italy military:義大利軍隊
 italy missions:意大利任务
 italy motorcycle:意大利摩托车
 italy motorway:意大利高速公路
 italy namibia:意大利纳米比亚
 italy naples:意大利那不勒斯
-italy national baseball team:義大利棒球代表隊
+italy national baseball team:义大利棒球代表队
 italy national day:意大利国庆日
-italy national football team:意大利國家足球隊
+italy national football team:意大利国家足球队
 italy national futsal team:意大利国家五人制足球队
-italy national rugby union team:意大利國家橄欖球隊
+italy national rugby union team:意大利国家橄榄球队
 italy national team:意大利国家队
 italy nationality:意大利国籍
 italy natural resources:意大利自然资源
 italy needs:意大利需要
-italy newspaper:意大利報紙
+italy newspaper:意大利报纸
 italy north:意大利北
 italy now needs spain:意大利现在需要西班牙
 italy now:意大利现在
@@ -12437,8 +12317,8 @@ italy or north africa:意大利或北非
 italy or spain:意大利或西班牙
 italy organization:意大利组织
 italy painting:意大利绘画
-italy parma:意大利帕爾馬
-italy parma:義大利帕爾馬
+italy parma:义大利帕尔马
+italy parma:意大利帕尔马
 italy part:意大利部分
 italy participate:意大利参加
 italy partners:意大利合作伙伴
@@ -12467,9 +12347,8 @@ italy relationship:意大利关系
 italy release:意大利释放
 italy religion:意大利宗教
 italy renewable energy:意大利可再生能源
-italy report:意大利報告
 italy report:意大利报告
-italy reporter:意大利記者
+italy reporter:意大利记者
 italy representative:意大利代表
 italy require:意大利需要
 italy rescue:意大利救援
@@ -12477,8 +12356,8 @@ italy restore:意大利恢复
 italy retire:意大利退休
 italy return:意大利返回
 italy revolutionary:意大利革命家
+italy rome:义大利罗马
 italy rome:意大利罗马
-italy rome:義大利羅馬
 italy royal navy:意大利皇家海军
 italy russia:意大利俄罗斯
 italy says:意大利说
@@ -12493,8 +12372,8 @@ italy several:意大利几个
 italy she:意大利她
 italy shoe:意大利鞋
 italy should be:意大利应该是
+italy sicily:义大利西西里岛
 italy sicily:意大利西西里
-italy sicily:義大利西西里島
 italy soldier:意大利士兵
 italy south:意大利南
 italy spain:意大利西班牙
@@ -12511,8 +12390,8 @@ italy suddenly:意大利突然
 italy summer:意大利夏季
 italy support:意大利支持
 italy surrender:意大利投降
+italy team:义大利队
 italy team:意大利队
-italy team:義大利队
 italy telecommunications:意大利电信
 italy ten:意大利十
 italy textile:意大利纺织品
@@ -12526,7 +12405,7 @@ italy threat:意大利威胁
 italy through:意大利通过
 italy time:意大利时间
 italy to asia:意大利到亚洲
-italy to china:意大利到中國
+italy to china:意大利到中国
 italy to ireland:意大利到爱尔兰
 italy to israel:意大利到以色列
 italy today:意大利今天
@@ -12537,13 +12416,13 @@ italy tosca:意大利托斯卡
 italy tourism website:意大利旅游网站
 italy tourism:意大利旅游
 italy tourism:意大利旅游业
-italy tourist attraction:意大利旅遊景點
+italy tourist attraction:意大利旅游景点
 italy towards:意大利对
 italy trade:意大利贸易
 italy tradition:意大利传统
 italy travel budget:意大利旅行预算
 italy travel:意大利旅行
-italy turin:義大利杜林
+italy turin:义大利杜林
 italy turkey:意大利土耳其
 italy twice:意大利两次
 italy under fascism:法西斯意大利
@@ -12556,7 +12435,6 @@ italy verona:意大利维罗纳
 italy video:意大利视频
 italy violate:意大利违反
 italy visa application centre:意大利签证申请中心
-italy visa application centre:意大利簽證申請中心
 italy volcano earthquake bureau:意大利火山地震局
 italy volcano:意大利火山
 italy was italy:意大利是意大利
@@ -12577,9 +12455,9 @@ italy why:意大利为什么
 italy will need:意大利将需要
 italy will visit:意大利将访问
 italy will:意大利会
+italy wine:义大利葡萄酒
 italy wine:意大利葡萄酒
 italy wine:意大利酒
-italy wine:義大利葡萄酒
 italy wish:意大利希望
 italy without:意大利没有
 italy women's national football team:意大利国家女子足球队
@@ -12596,47 +12474,43 @@ italy years ago:意大利年前
 italy yesterday:意大利昨天
 italy you:意大利你
 italy:yìdàlì
+italy:义大利
 italy:意大利
-italy:意大利 / 義大利
-italy:意大利館
+italy:意大利 / 义大利
 italy:意大利馆
-italy:義大利
+italya - city sa vatican:义大利-梵蒂冈
 italya - city sa vatican:意大利-梵蒂冈
-italya - city sa vatican:意大利-梵蒂岡
-italya - city sa vatican:義大利-梵蒂岡
+italya - lungsod ng vatican:义大利-梵蒂冈
 italya - lungsod ng vatican:意大利-梵蒂冈
-italya - lungsod ng vatican:意大利-梵蒂岡
-italya - lungsod ng vatican:義大利-梵蒂岡
+italya:义大利
 italya:意大利
-italya:義大利
 italyanskaya street:意大利街
 italùii:yìdàlì
+italùii:义大利
 italùii:意大利
-italùii:意大利 / 義大利
-italùii:義大利
+italùii:意大利 / 义大利
+italėjė:义大利
 italėjė:意大利
-italėjė:義大利
-itamae sushi ginza corridor:板前壽司
-itamae yakiniku itto kyobashi:板前燒肉店
+itamae sushi ginza corridor:板前寿司
+itamae yakiniku itto kyobashi:板前烧肉店
 itamaraju:伊塔马拉茹
 itamarandiba:伊塔马兰迪巴
-itamarati:伊塔馬拉蒂
-itamaraty palace:伊塔馬拉蒂宮
+itamarati:伊塔马拉蒂
+itamaraty palace:伊塔马拉蒂宮
 itamari:伊塔马里
 itambacuri:伊坦巴库里
-itami airport:大阪國際機場
-itami castle:有岡城
-itami station:伊丹車站
+itami airport:大阪国际机场
+itami castle:有冈城
+itami station:伊丹车站
 itami-shi:伊丹市
 itami:伊丹市
 itamochi station:板持站
 itamogi:伊塔莫日
 itamomo:意乐
-itamomo:意樂
-itamomo:意樂餐廳
+itamomo:意乐餐厅
 itamonte:伊塔蒙蒂
 itampere:坦佩雷
-itampolo:伊坦普盧
+itampolo:伊坦普卢
 itanagar:伊塔那噶
 itanagar:巴查
 itanagaro:巴查
@@ -12657,16 +12531,15 @@ itano station:板野站
 itano-cho:板野町
 itano-gun:板野郡
 itano:板野町
-itanzania:坦尚尼亞
+itanzania:坦尚尼亚
 itanzania:坦桑尼亚
-itanzania:坦桑尼亞
 itaobim:伊陶宾
 itaoca:伊塔奥卡
 itaocara:伊陶卡拉
 itapaci:伊塔帕西
 itapagipe:伊塔帕日皮
 itapalluni:伊塔帕柳尼山
-itaparica island:伊塔帕里卡島
+itaparica island:伊塔帕里卡岛
 itapebi:伊塔佩比
 itapecerica:伊塔佩塞里卡
 itapecuru mirim:伊塔佩库鲁米林
@@ -12687,50 +12560,47 @@ itapiranga:伊塔皮兰加
 itapiratins:伊塔皮拉廷斯
 itapissuma:伊塔皮苏马
 itapitanga:伊塔皮坦加
-itaporanga d'ajuda:伊塔波蘭加達茹達
+itaporanga d'ajuda:伊塔波兰加达茹达
 itaporanga:伊塔波兰加
 itapororoca:伊塔波罗罗卡
 itapuca:伊塔普卡
 itapura:伊塔普拉
 itapuranga:伊塔普兰加
-itaquaquecetuba:伊塔夸克塞圖巴
+itaquaquecetuba:伊塔夸克塞图巴
 itaquara:伊塔夸拉
 itaqui:伊塔基
 itaquitinga:伊塔基廷加
-itarana:伊塔拉納
+itarana:伊塔拉纳
 itarantim:伊塔兰廷
 itarema:伊塔雷马
+itari - guta vhatikeni:义大利-梵蒂冈
 itari - guta vhatikeni:意大利-梵蒂冈
-itari - guta vhatikeni:意大利-梵蒂岡
-itari - guta vhatikeni:義大利-梵蒂岡
+itari - taone vatican:义大利-梵蒂冈
 itari - taone vatican:意大利-梵蒂冈
-itari - taone vatican:意大利-梵蒂岡
-itari - taone vatican:義大利-梵蒂岡
+itari:义大利
 itari:意大利
-itari:義大利
 itaria:yìdàlì
+itaria:义大利
 itaria:意大利
-itaria:意大利 / 義大利
-itaria:義大利
+itaria:意大利 / 义大利
 itariri:伊塔里里
 itarsi railway station:伊塔尔西火车站
 itarsi:伊塔尔西
-itaru hashimoto:橋本到
+itaru hashimoto:桥本到
 itaru hinoue:樋上至
 itaru nakamura:中村格
 itas:伊东市
-itas:伊東市
 itasca state park:艾塔斯卡州立公园
 itasca township:艾塔斯卡镇区
-itasha:痛車
-itasi:伊塔西區
-itasuchus:埃他鱷屬
-itasy bölgesi:伊塔西區
-itasy khu:伊塔西區
-itasy region:伊塔西區
+itasha:痛车
+itasi:伊塔西区
+itasuchus:埃他鳄属
+itasy bölgesi:伊塔西区
+itasy khu:伊塔西区
+itasy region:伊塔西区
 itasy region:伊塔西大区
-itasy:伊塔西區
-itasyregionen:伊塔西區
+itasy:伊塔西区
+itasyregionen:伊塔西区
 itata province:伊塔塔省
 itata river:伊塔塔河
 itati:伊塔蒂
@@ -12743,38 +12613,36 @@ itatinga:伊塔廷加
 itatira:伊塔蒂拉
 itatsky:伊塔茨基
 itatuba:伊塔图巴
-itaubal:伊塔烏巴爾
+itaubal:伊塔乌巴尔
 itaueira:伊陶埃拉
-itauguá district - itá district:伊塔瓜區 - 伊塔區
-itauguá district - ypacaraí district:伊塔瓜區 - 伊帕卡拉伊區
-itauguá 지구 - itá 지구:伊塔瓜區 - 伊塔區
-itauguá 지구 - ypacarai 지구:伊塔瓜區 - 伊帕卡拉伊區
-itauguá-distriktet - itá-distriktet:伊塔瓜區 - 伊塔區
-itauguá-distriktet - ypacaraí-distriktet:伊塔瓜區 - 伊帕卡拉伊區
+itauguá district - itá district:伊塔瓜区 - 伊塔区
+itauguá district - ypacaraí district:伊塔瓜区 - 伊帕卡拉伊区
+itauguá 지구 - itá 지구:伊塔瓜区 - 伊塔区
+itauguá 지구 - ypacarai 지구:伊塔瓜区 - 伊帕卡拉伊区
+itauguá-distriktet - itá-distriktet:伊塔瓜区 - 伊塔区
+itauguá-distriktet - ypacaraí-distriktet:伊塔瓜区 - 伊帕卡拉伊区
 itaunja:伊陶恩贾
 itaverava:伊塔韦拉瓦
 itaya station:板谷站
 itayabashi:板屋桥
-itayabashi:板屋橋
 itayado station:板宿站
 itayanagi station:板柳站
 itayanagi-machi:板柳町
 itayanagi:板柳町
 itazuke site:板付遗址
 itazura na kiss:淘气小亲亲
+itałia:义大利
 itałia:意大利
-itałia:義大利
 itbayat airport:伊巴雅特机场
-itbayat airport:伊巴雅特機場
-itbayat island:伊巴雅特島
+itbayat island:伊巴雅特岛
 itbayat:伊巴雅特
 itch affects:瘙痒影响
 itch often:瘙痒常常
 itch or pain:瘙痒或疼痛
 itch problems:瘙痒问题
+itch:痒
 itch:瘙痒
-itch:癢
-itchan kala:伊欽卡拉
+itchan kala:伊钦卡拉
 itchy blister:痒的水泡
 itchy feet:痒的脚
 itchy hands:痒的手
@@ -12791,11 +12659,11 @@ itchy throat:痒的喉咙
 itchy wool:痒的羊毛
 itchy:痒的
 ite college central:工育院中区
-ite district:伊特區
+ite district:伊特区
 itea ilicifolia:冬青叶鼠刺
 iteaceae:鼠刺科
-iteingong:三重義天宮
-itelmen language:伊捷爾緬語
+iteingong:三重义天宮
+itelmen language:伊捷尔缅语
 itelmens:伊捷尔缅人
 item about:项关于
 item allow:项允许
@@ -12835,7 +12703,7 @@ item lighting:项照明
 item list:项列表
 item matrix:项矩阵
 item monday:项周一
-item number:非劇情演員
+item number:非剧情演员
 item or file:项或文件
 item order:项订单
 item parent:项父母
@@ -12867,7 +12735,7 @@ item work:项工作
 item would:项将
 item you:项你
 item:项
-itemirus:依特米龍屬
+itemirus:依特米龙属
 items and luxury goods:项和奢侈品
 items and most popular:项和最流行的
 items and network connection:项和网络连接
@@ -12911,7 +12779,7 @@ iterated games:迭代的游戏
 iterated integral:迭代积分
 iterated integral:逐次积分
 iterated integrals:迭代积分
-iterated logarithm:迭代對數
+iterated logarithm:迭代对数
 iterated prisoner's dilemma:迭代的囚徒困境
 iterated:迭代的
 iteration algorithm:迭代算法
@@ -12929,14 +12797,14 @@ iteration behavior:迭代行为
 iteration brother:迭代兄弟
 iteration check:迭代检查
 iteration code:迭代代码
-iteration combination:迭代組合
+iteration combination:迭代组合
 iteration commitment:迭代承诺
 iteration construct:迭代构造
 iteration count:迭代计数
 iteration depends on:迭代依赖于
 iteration describe:迭代描述
 iteration design:迭代设计
-iteration goal:迭代目標
+iteration goal:迭代目标
 iteration improvement:迭代改进
 iteration include:迭代包括
 iteration interface:迭代接口
@@ -13018,33 +12886,30 @@ itero de la vega:伊特罗德拉韦加
 itero del castillo:伊特罗德尔卡斯蒂略
 itet:伊泰特
 iteuil:伊特伊
-iteya:伊特亞
+iteya:伊特亚
 itf tokyo ariake open:安藤证券网球公开赛
 itgeg gûû:依德格沟
-ithaca chasma:伊薩卡峽谷
-ithaca chasma:伊薩卡深谷
-ithaca college:伊薩卡學院
+ithaca chasma:伊萨卡峡谷
+ithaca chasma:伊萨卡深谷
+ithaca college:伊萨卡学院
 ithaca falls:伊萨卡瀑布
-ithaca gun company:伊薩卡槍械公司
-ithaca high school:伊薩卡高中
-ithaca:伊薩卡
+ithaca gun company:伊萨卡枪械公司
+ithaca high school:伊萨卡高中
+ithaca:伊萨卡
 ithajiki:tǎjíkèsītǎn
 ithajiki:塔吉克
 ithajiki:塔吉克斯坦
 ithajiki:塔吉克斯坦 / 塔吉克
 ithanzaniya:tǎnsāngníyà
-ithanzaniya:坦尚尼亞
+ithanzaniya:坦尚尼亚
 ithanzaniya:坦桑尼亚
-ithanzaniya:坦桑尼亚 / 坦尚尼亞
-ithanzaniya:坦桑尼亞
+ithanzaniya:坦桑尼亚 / 坦尚尼亚
 ithayilandi:泰国
-ithayilandi:泰国 / 泰國
-ithayilandi:泰國
+ithayilandi:泰国 / 泰国
 ithayiwani:táiwan
 ithayiwani:táiwān
 ithayiwani:ㄊㄞˊ ㄨㄢ
 ithayiwani:台湾
-ithayiwani:臺灣
 ithekhi:tǔěrqí
 ithekhi:土耳其
 itheki:tǔěrqí
@@ -13052,158 +12917,134 @@ itheki:土耳其
 ithilien:伊西力安
 ithiopia:Āisàiébǐyà
 ithiopia:埃塞俄比亚
-ithiopia:埃塞俄比亚 / 衣索比亞
-ithiopia:埃塞俄比亞
-ithiopia:衣索比亞
+ithiopia:埃塞俄比亚 / 衣索比亚
+ithiopia:衣索比亚
 ithiyetha yasebabiloni:巴比伦剧院
-ithiyetha yasebabiloni:巴比倫劇院
 ithiyupya:Āisàiébǐyà
 ithiyupya:埃塞俄比亚
-ithiyupya:埃塞俄比亚 / 衣索比亞
-ithiyupya:埃塞俄比亞
-ithiyupya:衣索比亞
+ithiyupya:埃塞俄比亚 / 衣索比亚
+ithiyupya:衣索比亚
 ithogo:duōgē
 ithogo:多哥
-ithomeis:綃蜆蝶屬
-ithomia:綃蝶屬
+ithomeis:綃蜆蝶属
+ithomia:綃蝶属
 ithomiini:綃蝶族
-ithomiola:麗綃蜆蝶屬
+ithomiola:丽綃蜆蝶属
 ithumekhi:tǔkùmànsītǎn
+ithumekhi:叶门
+ithumekhi:土库曼
 ithumekhi:土库曼斯坦
-ithumekhi:土库曼斯坦 / 土庫曼
-ithumekhi:土庫曼
-ithumekhi:葉門
+ithumekhi:土库曼斯坦 / 土库曼
 ithunisiya:突尼斯
-ithunisiya:突尼斯 / 突尼西亞
-ithunisiya:突尼西亞
+ithunisiya:突尼斯 / 突尼西亚
+ithunisiya:突尼西亚
 itil:信息技术基础架构库
 itinga:伊廷加
 itingen:伊廷根
 itiopia:Āisàiébǐyà
 itiopia:埃塞俄比亚
-itiopia:埃塞俄比亚 / 衣索比亞
-itiopia:埃塞俄比亞
-itiopia:衣索比亞
+itiopia:埃塞俄比亚 / 衣索比亚
+itiopia:衣索比亚
 itiopias:Āisàiébǐyà
 itiopias:埃塞俄比亚
-itiopias:埃塞俄比亚 / 衣索比亞
-itiopias:埃塞俄比亞
-itiopias:衣索比亞
+itiopias:埃塞俄比亚 / 衣索比亚
+itiopias:衣索比亚
 itiquira:伊蒂基拉
 itirana:地拉那
 itirapina:伊蒂拉皮纳
-itivuttaka:如是語經
+itivuttaka:如是语经
 itiyopiya:Āisàiébǐyà
 itiyopiya:埃塞俄比亚
-itiyopiya:埃塞俄比亚 / 衣索比亞
-itiyopiya:埃塞俄比亞
-itiyopiya:衣索比亞
+itiyopiya:埃塞俄比亚 / 衣索比亚
+itiyopiya:衣索比亚
 itjtawy:伊特塔威
-itkul:伊特庫利湖
-itmo university:聖彼得堡國立資訊科技機械與光學大學
-itn:獨立電視新聞
-itna upazila:伊德納烏帕齊拉
+itkul:伊特库利湖
+itmo university:圣彼得堡国立资讯科技机械与光学大学
+itn:独立电视新闻
+itna upazila:伊德纳乌帕齐拉
 ito county:伊都郡
-ito en:伊藤園
-ito ohno:大野絲
+ito en:伊藤园
+ito ohno:大野丝
 ito shikaiin-mae (ito dental office):伊藤牙科医院前
-ito shikaiin-mae (ito dental office):伊藤牙科醫院前
 ito yokado (shuangnan store):伊藤洋华堂双楠店
-ito yokado:伊藤洋華堂
+ito yokado:伊藤洋华堂
 ito-gun:伊都郡
 ito-shi:伊东市
-ito-shi:伊東市
 ito-yokado:伊藤洋华堂
 ito:伊东市
-ito:伊東市
 itoa orientalis:栀子皮
 itoa:栀子皮属
+itoalië:义大利
 itoalië:意大利
-itoalië:義大利
 itobi:伊托比
 itochu corporation:伊藤忠商事公司
 itochu recently agree:伊藤忠商事最近同意
 itochu recently:伊藤忠商事最近
 itochu:伊藤忠商事
-itoda line:糸田線
+itoda line:糸田线
 itoda station:糸田站
 itoda-machi:丝田町
-itoda-machi:絲田町
 itoda:丝田町
-itoda:絲田町
 itodani:糸谷
-itoeroep:擇捉島
+itoeroep:择捉岛
 itogo:duōgē
 itogo:多哥
 itoi dental clinic:牙科诊所糸井
 itoi ikeue:糸井池上
 itoi station:糸井站
 itoi:糸井
-itoigawa domain:糸魚川藩
-itoigawa shizuoka tectonic line:糸魚川靜岡構造線
-itoigawa station:糸魚川站
-itoigawa station:絲魚川站
+itoigawa domain:糸鱼川藩
+itoigawa shizuoka tectonic line:糸鱼川静冈构造线
+itoigawa station:丝鱼川站
+itoigawa station:糸鱼川站
 itoigawa-shi:丝鱼川市
-itoigawa-shi:丝鱼川市 / 絲魚川市
-itoigawa-shi:絲魚川市
+itoigawa-shi:丝鱼川市 / 丝鱼川市
 itoigawa:丝鱼川
 itoigawa:丝鱼川市
-itoigawa:丝鱼川市 / 絲魚川市
-itoigawa:糸魚川市
-itoigawa:絲魚川
-itoigawa:絲魚川市
-itoizawa station:糸魚澤車站
+itoigawa:丝鱼川市 / 丝鱼川市
+itoigawa:糸鱼川市
+itoizawa station:糸鱼泽车站
 itokoku:伊都国
 itokyo:东京都
-itokyo:东京都/東京都
-itokyo:東京都
+itokyo:东京都/东京都
 itom nga dagat:黑海
-itoman michi-no-eki information center:道之驛糸滿 情報館
 itoman michi-no-eki information center:道之驿糸满 情报馆
-itoman-city local product center "yukura":道之驛 糸滿市物産中 遊食來
 itoman-city local product center "yukura":道之驿 糸满市物产中心 游食来
+itoman-city local product center "yukura":道之驿 糸满市物産中 游食来
 itoman-shi:丝满市
-itoman-shi:絲滿市
 itoman:丝满市
-itoman:絲滿市
-itombwe mountains:伊托姆伯維山脈
-itonuki station:糸貫站
+itombwe mountains:伊托姆伯维山脉
+itonuki station:糸贯站
 itoobiya:Āisàiébǐyà
 itoobiya:埃塞俄比亚
-itoobiya:埃塞俄比亚 / 衣索比亞
-itoobiya:埃塞俄比亞
-itoobiya:衣索比亞
+itoobiya:埃塞俄比亚 / 衣索比亚
+itoobiya:衣索比亚
 itoophiyaa:Āisàiébǐyà
 itoophiyaa:埃塞俄比亚
-itoophiyaa:埃塞俄比亚 / 衣索比亞
-itoophiyaa:埃塞俄比亞
-itoophiyaa:衣索比亞
+itoophiyaa:埃塞俄比亚 / 衣索比亚
+itoophiyaa:衣索比亚
 itopia mansion-mae:itohpia公寓前
 itopia-iriguchi:itohpia入口
 itopiya:Āisàiébǐyà
 itopiya:埃塞俄比亚
-itopiya:埃塞俄比亚 / 衣索比亞
-itopiya:埃塞俄比亞
-itopiya:衣索比亞
+itopiya:埃塞俄比亚 / 衣索比亚
+itopiya:衣索比亚
 itoplectis:埃姬蜂属
-itoshi kimi e:讓愛看得見
-itoshiki hibi yo:真愛歲月
-itoshiki tomo e:可愛的惡友
+itoshi kimi e:让爱看得见
+itoshiki hibi yo:真爱岁月
+itoshiki tomo e:可爱的恶友
 itoshima-shi:丝岛市
-itoshima-shi:絲島市
 itoshima:丝岛市
-itoshima:絲島市
-itoya:伊東屋
+itoya:伊东屋
 itozaki station:糸崎站
 itp aero:涡轮发动机工业公司
 itraconazole:伊曲康唑
-itri guangfu branch:工研院光復院區
+itri guangfu branch:工研院光复院区
 itri guangfu research center:工研院光复院区
-itri guangfu research center:工研院光復院區
 itri southern region campus:工研院南分院
 itri(shalun):工研院(沙崙)
 itri:伊特里
-itro (living in passion):一手私藏世界紅茶
+itro (living in passion):一手私藏世界红茶
 its a new experience:它的一个新的经验
 its a new:它的一个新的
 its a place:它的一个地方
@@ -13212,12 +13053,12 @@ its ability:它的能力
 its absence:它的缺席
 its absolute advantage:它的绝对优势
 its absolute location:它的绝对位置
-its absolute magnitude:它的絕對星等
+its absolute magnitude:它的绝对星等
 its absolute safety:它的绝对安全
 its absolute security:它的绝对安全
 its absolute value:它的绝对值
 its absolute:它的绝对
-its abstinence:它的禁慾
+its abstinence:它的禁欲
 its abstraction:它的抽象
 its academy:它的学院
 its accelerate:它的加速
@@ -13308,7 +13149,6 @@ its aircraft will break:它的飞机将打破
 its aircraft:它的飞机
 its airline:它的航空公司
 its airport:它的机场
-its airport:它的機場
 its airspace:它的领空
 its airstrike:它的空袭
 its albedo:它的反照率
@@ -13354,7 +13194,6 @@ its anchor:它的锚
 its ancient:它的古
 its angel:它的天使
 its anger:它的愤怒
-its anger:它的憤怒
 its angle:它的角
 its animal spirit:它的动物精神
 its animal:它的动物
@@ -13368,7 +13207,7 @@ its anonymity:它的匿名
 its answer:它的答案
 its answers:它的答案
 its antennae:它的触角
-its anthropomorphism:它的擬人論
+its anthropomorphism:它的拟人论
 its anti-inflammatory:它的抗炎性
 its antibiotic:它的抗生素
 its antigen:它的抗原
@@ -13478,7 +13317,7 @@ its attempt:它的尝试
 its attend:它的参加
 its attendance:它的出席
 its attention:它的注意
-its attic:它的閣樓
+its attic:它的阁楼
 its attitude:它的态度
 its attract:它的吸引
 its attractor:它的吸引子
@@ -13518,7 +13357,7 @@ its average:它的平均
 its aviation:它的航空
 its award:它的授予
 its awe:它的敬畏
-its axial tilt:它的轉軸傾角
+its axial tilt:它的转轴倾角
 its axiom:它的公理
 its axis greater than:它的轴大于
 its axis:它的轴
@@ -13537,7 +13376,7 @@ its bad:它的坏的
 its badge:它的徽章
 its baking:它的烘焙
 its balance ability:它的平衡能力
-its balance sheet:它的資產負債表
+its balance sheet:它的资产负债表
 its balance:它的平衡
 its ballistic missile:它的弹道导弹
 its balloon:它的气球
@@ -13545,15 +13384,12 @@ its ballot box:它的投票箱
 its band:它的乐队
 its band:它的带
 its bank account:它的银行账户
-its bank:它的銀行
 its bank:它的银行
 its bankruptcy:它的破产
-its bankruptcy:它的破產
 its banks are great:它的银行是伟大的
 its banks:它的银行
 its bar:它的条
 its bar:它的酒吧
-its barn:它的穀倉
 its barn:它的谷仓
 its base was london:它的基地是伦敦
 its base:它的基地
@@ -13598,7 +13434,6 @@ its beetle:它的甲虫
 its begin:它的开始
 its behavior often:它的行为常常
 its behavior:它的行为
-its behavior:它的行為
 its behaviour:它的行为
 its beijing:它的北京
 its belief:它的信仰
@@ -13615,7 +13450,6 @@ its better arrangement:它的更好的安排
 its better:它的更好
 its better:它的更好的
 its bicycle frame:它的自行车车架
-its bicycle:它的自行車
 its bicycle:它的自行车
 its big banks:它的大银行
 its big data:它的大数据
@@ -13672,11 +13506,9 @@ its blood:它的血液
 its blue and yellow:它的蓝色和黄色
 its blue border line:它的蓝色边界线
 its blue center:它的蓝色中心
-its blue lagoon:它的藍色潟湖
+its blue lagoon:它的蓝色潟湖
 its blue:它的蓝色
-its blue:它的藍色
 its blueprint:它的蓝图
-its blueprint:它的藍圖
 its board layout:它的板布局
 its board of directors:它的董事会
 its board structure:它的板结构
@@ -13748,7 +13580,6 @@ its breed:它的繁殖
 its brick:它的砖
 its brick:它的磚
 its bridge:它的桥
-its bridge:它的橋
 its bright core:它的明亮的核心
 its bright:它的明亮的
 its broad:它的宽阔的
@@ -13792,7 +13623,7 @@ its button microphone:它的按钮麦克风
 its button:它的按钮
 its buy:它的买
 its by-law:它的章程
-its by-product:它的副產品
+its by-product:它的副产品
 its byte:它的字节
 its byzantine architecture:它的拜占庭式建筑
 its cabin:它的舱
@@ -13823,7 +13654,7 @@ its canberra:它的堪培拉
 its cancel:它的取消
 its cancer:它的癌
 its cancer:它的癌症
-its candidate:它的候選人
+its candidate:它的候选人
 its candidates:它的候选人
 its candlestick:它的烛台
 its cantilever:它的悬臂
@@ -13836,7 +13667,7 @@ its capital and biggest:它的首都和最大的
 its capital and largest:它的首都和最大的
 its capital city is baghdad:它的首都是巴格达
 its capital city is manila:它的首都是马尼拉
-its capital city is vienna:它的首都是維也納
+its capital city is vienna:它的首都是维也纳
 its capital city is zagreb:它的首都是萨格勒布
 its capital city:它的首都
 its capital city:它的首都城市
@@ -13848,7 +13679,7 @@ its capital is london:它的首都是伦敦
 its capital is manila:它的首都是马尼拉
 its capital is montevideo:它的首都是蒙得维的亚
 its capital is moscow:它的首都是莫斯科
-its capital is vienna:它的首都是維也納
+its capital is vienna:它的首都是维也纳
 its capital is zagreb:它的首都是萨格勒布
 its capital structure:它的资本结构
 its capital:它的首都
@@ -13881,8 +13712,7 @@ its cartoon:它的卡通
 its case:它的案例
 its cash flow:它的现金流动
 its cash:它的现金
-its cash:它的現金
-its casino:它的賭場
+its casino:它的赌场
 its castle:它的城堡
 its cat:它的猫
 its cathedral:它的大教堂
@@ -13892,7 +13722,7 @@ its catholic tradition:它的天主教传统
 its catholic:它的天主教
 its causes:它的原因
 its cave:它的洞穴
-its cayley graph:它的凱萊圖
+its cayley graph:它的凱莱图
 its ceasefire:它的停火
 its celebration:它的庆祝
 its cell:它的细胞
@@ -13936,7 +13766,7 @@ its character entity reference:它的字符实体引用
 its character set:它的字符集
 its character:它的字符
 its character:它的角色
-its characteristic polynomial:它的特徵多項式
+its characteristic polynomial:它的特征多项式
 its characteristics:它的特性
 its characters:它的字符
 its charge:它的收费
@@ -13956,7 +13786,6 @@ its chemical structure:它的化学结构
 its chemical symbol:它的化学符号
 its chemical weapon:它的化学武器
 its chemistry:它的化学
-its chemistry:它的化學
 its chicken:它的鸡
 its chief executive officer:它的首席执行官
 its chief scientist:它的首席科学家
@@ -13992,7 +13821,6 @@ its circuit board:它的电路板
 its circuit:它的电路
 its circuits:它的电路
 its circumference:它的圆周
-its circumference:它的圓周
 its circumstances:它的情况
 its cities contain some:它的城市包含一些
 its cities:它的城市
@@ -14033,14 +13861,12 @@ its climate and history:它的气候和历史
 its climate and products:它的气候和产品
 its climate range:它的气候范围
 its climate:它的气候
-its climate:它的氣候
 its clinic:它的诊所
 its clinical:它的临床
 its cloaca:它的泄殖腔
 its clock period:它的时钟周期
 its clock speed:它的时钟速度
 its clock:它的时钟
-its clock:它的時鐘
 its clone:它的克隆
 its close-up:它的特写
 its closure:它的闭包
@@ -14061,7 +13887,7 @@ its coal:它的煤
 its coast:它的海岸
 its coastline:它的海岸线
 its coat:它的外套
-its cobblestone:它的鵝卵石
+its cobblestone:它的鹅卵石
 its cockpit:它的驾驶舱
 its coconut water:它的椰子水
 its code is platform:它的代码是平台
@@ -14082,7 +13908,6 @@ its cold:它的冷
 its collaborator:它的合作者
 its collective:它的集体的
 its college:它的学院
-its college:它的學院
 its collision:它的碰撞
 its colony:它的殖民地
 its color and its:它的颜色和它的
@@ -14105,10 +13930,10 @@ its combat:它的战斗
 its combustion:它的燃烧
 its comedy:它的喜剧
 its comet:它的彗星
-its comfort degree:它的舒適度
+its comfort degree:它的舒适度
 its comfort zone:它的舒适区
 its comfort:它的安慰
-its comfort:它的舒適
+its comfort:它的舒适
 its command-and-control:它的指挥控制
 its command-line interface:它的命令行界面
 its command:它的命令
@@ -14119,10 +13944,8 @@ its commerce:它的商业
 its commercial area:它的商业区
 its commercial software:它的商业软件
 its commission:它的佣金
-its commitment:它的承諾
 its commitment:它的承诺
 its committee:它的委员会
-its committee:它的委員會
 its common name:它的俗名
 its common stock:它的普通股
 its communication:它的沟通
@@ -14221,7 +14044,7 @@ its continental climate:它的大陆性气候
 its continental shelf:它的大陆架
 its continue:它的持续
 its continue:它的继续
-its continuous spectrum:它的連續光譜
+its continuous spectrum:它的连续光谱
 its contract:它的合同
 its contract:它的契约
 its contraction:它的收缩
@@ -14316,7 +14139,7 @@ its cover is red:它的封面是红色
 its cover:它的封面
 its cover:它的覆盖
 its coverage:它的覆盖
-its covering:它的覆蓋
+its covering:它的覆盖
 its cowboy culture:它的牛仔文化
 its cowboy:它的牛仔
 its craft:它的工艺
@@ -14329,14 +14152,12 @@ its credit card:它的信用卡
 its credit rating:它的信用评级
 its creditor:它的债权人
 its creed:它的信条
-its creed:它的信條
 its crime:它的犯罪
 its crime:它的罪行
 its crimes:它的罪行
 its criminal:它的罪犯
 its crises:它的危机
 its crisis:它的危机
-its critic:它的評論家
 its critic:它的评论家
 its critical point:它的临界点
 its critique:它的批判
@@ -14347,7 +14168,7 @@ its cross:它的十字
 its crown:它的王冠
 its cruise:它的巡航
 its cry:它的哭
-its cryptocurrency:它的加密貨幣
+its cryptocurrency:它的加密货币
 its crystal cities:它的水晶城市
 its crystal structure:它的晶体结构
 its crystal:它的晶体
@@ -14385,9 +14206,9 @@ its curves:它的曲线
 its customer experience:它的客户体验
 its customer service:它的客户服务
 its customer support:它的客户支持
-its customer support:它的顧客支持
+its customer support:它的顾客支持
 its customer:它的客户
-its customer:它的顧客
+its customer:它的顾客
 its customers and markets:它的客户和市场
 its customers and partners:它的客户和合作伙伴
 its customers and team:它的客户和团队
@@ -14395,7 +14216,7 @@ its customers can use:它的客户可以使用
 its customers include general electric:它的客户包括通用电气
 its customers include:它的客户包括
 its customers:它的客户
-its cuteness:它的可愛
+its cuteness:它的可爱
 its dairy product:它的奶制品
 its damage:它的损坏
 its dance:它的舞蹈
@@ -14476,7 +14297,7 @@ its demands:它的要求
 its democracy:它的民主
 its density and color:它的密度和颜色
 its density:它的密度
-its department store:它的百貨公司
+its department store:它的百货公司
 its department:它的部门
 its dependence:它的依赖
 its dependency:它的依赖
@@ -14518,25 +14339,22 @@ its design reflect:它的设计反映
 its design strategy:它的设计策略
 its design team spent:它的设计团队花
 its design thought:它的设计思想
-its design:它的設計
 its design:它的设计
 its designer explains:它的设计师解释
-its designer version:它的設計師版本
-its designer:它的設計師
+its designer version:它的设计师版本
 its designer:它的设计师
-its desire:它的慾望
+its desire:它的欲望
 its desire:它的渴望
 its desktop applications:它的桌面应用程序
 its desktop environment resemble:它的桌面环境类似
 its desktop environment:它的桌面环境
 its desktop:它的桌面
 its destiny:它的命运
-its destiny:它的命運
 its detail:它的细节
 its details:它的细节
 its detect:它的检测
 its determinant:它的行列式
-its developed country:它的已開發國家
+its developed country:它的已开发国家
 its developer:它的开发者
 its developers:它的开发人员
 its development activities:它的开发活动
@@ -14608,7 +14426,6 @@ its direction:它的方向
 its director:它的导演
 its directory:它的目录
 its disappointment:它的失望
-its discipline:它的紀律
 its discipline:它的纪律
 its discover:它的发现
 its discovery:它的发现
@@ -14647,13 +14464,13 @@ its document data model:它的文档数据模型
 its document:它的文档
 its documents:它的文件
 its documents:它的文档
-its dogma:它的教條
+its dogma:它的教条
 its doha:它的多哈
 its dollar:它的美元
 its dolphin:它的海豚
 its domain name:它的域名
 its domain:它的域
-its dome:它的圓頂
+its dome:它的圆顶
 its domestic market:它的国内市场
 its domestic policy:它的国内政策
 its door:它的门
@@ -14665,7 +14482,6 @@ its download:它的下载
 its dragon:它的龙
 its drainage basin:它的流域
 its drama:它的戏剧
-its dream:它的夢
 its dream:它的梦
 its dreams:它的梦想
 its driver:它的司机
@@ -14697,18 +14513,16 @@ its earthquake:它的地震
 its east asia:它的东亚
 its east coast:它的东海岸
 its east:它的东
-its east:它的東
 its eastern europe:它的东欧
 its ecology and genes:它的生态学和基因
 its ecology:它的生态学
 its economic and cultural:它的经济的和文化的
 its economic and political:它的经济和政治
 its economic crisis:它的经济危机
-its economic development:它的經濟發展
 its economic development:它的经济发展
 its economic expansion:它的经济扩张
 its economic growth:它的经济增长
-its economic problem:它的經濟問題
+its economic problem:它的经济问题
 its economic system:它的经济体系
 its economic:它的经济的
 its economy can sustain:它的经济可以持续
@@ -14753,7 +14567,6 @@ its elastic limit:它的弹性极限
 its elasticity:它的弹性
 its election manifesto:它的选举宣言
 its election:它的选举
-its election:它的選舉
 its elections:它的选举
 its electric charge:它的电荷
 its electric field:它的电场
@@ -14808,7 +14621,6 @@ its encyclopedia:它的百科全书
 its end point:它的结束点
 its end:它的结束
 its enemy:它的敌人
-its enemy:它的敵人
 its energy balance:它的能量平衡
 its energy can change:它的能量可以改变
 its energy can help:它的能量可以帮助
@@ -14840,7 +14652,6 @@ its enormous:它的巨大的
 its enterprise software:它的企业软件
 its enterprise:它的企业
 its enterprises:它的企业
-its entertainment:它的娛樂
 its entertainment:它的娱乐
 its entire build:它的整个构建
 its entire business model:它的整个商业模式
@@ -14874,7 +14685,6 @@ its equation:它的方程
 its equation:它的等式
 its equator:它的赤道
 its equipment measure:它的设备测量
-its equipment:它的設備
 its equipment:它的设备
 its equivalence class:它的等价类
 its eraser:它的橡皮擦
@@ -14901,14 +14711,14 @@ its euro:它的欧元
 its european logistics platform:它的欧洲物流平台
 its european partners want:它的欧洲伙伴想要
 its european:它的欧洲
-its eurostar:它的歐洲之星
+its eurostar:它的欧洲之星
 its evaluation:它的求值
-its evaluation:它的評估
+its evaluation:它的评估
 its evaporation:它的蒸发
 its event always interrupt:它的事件总是打断
-its event horizon:它的事件視界
+its event horizon:它的事件视界
 its event:它的事件
-its event:它的活動
+its event:它的活动
 its events and consequences:它的事件和后果
 its events:它的事件
 its every corner:它的每一个角落
@@ -14956,10 +14766,9 @@ its expansion plans:它的扩张计划
 its expansion:它的扩张
 its expectations:它的期望
 its expected value:它的期望值
-its expense:它的費用
+its expense:它的费用
 its experience and results:它的经验与结果
 its experience:它的体验
-its experience:它的經驗
 its experience:它的经验
 its experienced:它的有经验的
 its experiences:它的经验
@@ -14967,7 +14776,6 @@ its experiment:它的实验
 its expert:它的专家
 its experts:它的专家
 its explanation:它的解释
-its explanation:它的解釋
 its explanatory power:它的解释力
 its exploit:它的剥削
 its exploration:它的探索
@@ -14991,7 +14799,6 @@ its eyes still closed:它的眼睛仍然闭
 its eyes:它的眼睛
 its face and body:它的脸和身体
 its face:它的脸
-its face:它的臉
 its facebook:它的脸书
 its facilities:它的设施
 its fact:它的事实
@@ -15000,8 +14807,6 @@ its factors:它的因素
 its factory will be:它的工厂会成为
 its factory will become:它的工厂会成为
 its factory:它的工厂
-its factory:它的工廠
-its failure:它的失敗
 its failure:它的失败
 its faith already contain:它的信仰已经包含
 its faith:它的信仰
@@ -15013,7 +14818,6 @@ its familiar:它的熟悉的
 its families:它的家庭
 its family:它的家庭
 its far east:它的远东
-its far east:它的遠東
 its farm:它的农场
 its farmer:它的农民
 its fashion suit:它的时尚适合
@@ -15035,7 +14839,7 @@ its federal government:它的联邦政府
 its fee:它的费用
 its feedback:它的反馈
 its feel:它的感觉
-its feeling:它的感覺
+its feeling:它的感觉
 its feet:它的脚
 its female:它的女性
 its female:它的雌性
@@ -15049,7 +14853,7 @@ its fibre:它的纤维
 its fiction:它的小说
 its field day:它的领域日
 its field of research:它的研究领域
-its field of view:它的視野
+its field of view:它的视野
 its field:它的领域
 its fifteen:它的十五
 its fifth:它的第五
@@ -15080,7 +14884,7 @@ its finnish:它的芬兰
 its finnish:它的芬兰语
 its fire:它的火
 its firepower:它的火力
-its firmware:它的韌體
+its firmware:它的韌体
 its first appearance:它的首次亮相
 its first generation:它的第一代
 its first round:它的第一轮
@@ -15094,15 +14898,14 @@ its fist:它的拳
 its five:它的五
 its flag:它的旗
 its flash point:它的闪点
-its flea market:它的跳蚤市場
+its flea market:它的跳蚤市场
 its fleas:它的跳蚤
-its fleet:它的艦隊
+its fleet:它的舰队
 its flexible:它的灵活的
 its flight path:它的飞行路径
-its flight simulator:它的飛行模擬器
+its flight simulator:它的飞行模拟器
 its flight speed:它的飞行速度
 its flight time:它的飞行时间
-its flight:它的飛行
 its flight:它的飞行
 its flood:它的洪水
 its floor:它的地板
@@ -15150,7 +14953,7 @@ its format allow:它的格式允许
 its format and embedded:它的格式和嵌入的
 its format:它的格式
 its former european power:它的前欧洲力量
-its former headquarters:它的前總部
+its former headquarters:它的前总部
 its former team:它的前队
 its former:它的前
 its formula:它的公式
@@ -15197,7 +15000,7 @@ its front:它的前面
 its fruit:它的水果
 its frustration:它的挫折
 its frying:它的煎
-its fuel injector:它的燃料噴射器
+its fuel injector:它的燃料喷射器
 its fuel-cell technology:它的燃料电池技术
 its fuel-cell:它的燃料电池
 its fuel:它的燃料
@@ -15248,7 +15051,6 @@ its gain:它的收益
 its galaxy:它的星系
 its galilee:它的加利利
 its game designer:它的游戏设计师
-its game designer:它的遊戲設計師
 its game plan:它的游戏计划
 its game story:它的游戏故事
 its game-design:它的游戏设计
@@ -15276,7 +15078,7 @@ its genes come:它的基因来
 its genes:它的基因
 its genetic code:它的遗传密码
 its genetic diversity:它的遗传多样性
-its genetic material:它的遺傳物質
+its genetic material:它的遗传物质
 its genetic structure:它的遗传结构
 its genetics:它的遗传学
 its geneva:它的日内瓦
@@ -15295,7 +15097,6 @@ its ghost:它的鬼
 its ghost:它的鬼魂
 its giant:它的巨人
 its gift:它的礼物
-its gift:它的禮物
 its gilded age:它的镀金时代
 its gill:它的鳃
 its ginger:它的姜
@@ -15326,7 +15127,6 @@ its goal is ambitious:它的目标是雄心勃勃
 its goal is self:它的目标是自我
 its goal is user:它的目标是用户
 its goal:它的目标
-its goal:它的目標
 its goals and activities:它的目标和活动
 its goals and relation:它的目标和关系
 its goals:它的目标
@@ -15366,14 +15166,14 @@ its grass:它的草
 its grave:它的坟墓
 its gravel:它的砾石
 its gravitation:它的引力
-its gravitational field:它的引力場
+its gravitational field:它的引力场
 its gravity affects:它的重力影响
 its gravity field:它的重力场
 its gravity:它的引力
 its gravity:它的重力
 its gray:它的灰色
 its great power:它的大国
-its great red spot:它的大紅斑
+its great red spot:它的大红斑
 its great:它的伟大的
 its greatest gift:它的最大的礼物
 its greatest:它的最大的
@@ -15384,7 +15184,6 @@ its green eyes:它的绿色眼睛
 its green heart:它的绿色心脏
 its green space:它的绿色空间
 its green valley:它的绿色山谷
-its green:它的綠色
 its green:它的绿色
 its greenhouse gas emissions:它的温室气体排放
 its greenhouse gas:它的温室气体
@@ -15409,9 +15208,8 @@ its guests:它的客人
 its gulag:它的古拉格
 its gun:它的枪
 its habit:它的习惯
-its habitable zone:它的適居帶
+its habitable zone:它的适居带
 its habitat:它的栖息地
-its habitat:它的棲息地
 its hacker:它的黑客
 its hair:它的头发
 its hair:它的毛发
@@ -15440,14 +15238,14 @@ its head and body:它的头和身体
 its head and eyes:它的头和眼睛
 its head and feet:它的头和脚
 its head and tail:它的头和尾
-its head of state look:它的國家元首看
-its head of state:它的國家元首
+its head of state look:它的国家元首看
+its head of state:它的国家元首
 its head to body:它的头到身体
 its head:它的头
 its header file:它的头文件
 its headphones:它的耳机
-its headquarters:它的總部
-its healing:它的療癒
+its headquarters:它的总部
+its healing:它的疗癒
 its health analysis product:它的健康分析产品
 its health and emotions:它的健康和情绪
 its health department:它的卫生部
@@ -15527,7 +15325,7 @@ its high school:它的高中
 its high signal-to-noise ratio:它的高信噪比
 its high solid:它的高固体
 its high speed:它的高速度
-its high surface area:它的高表面積
+its high surface area:它的高表面积
 its high tech:它的高科技
 its high user:它的高用户
 its high vitamin:它的高维生素
@@ -15577,7 +15375,7 @@ its home country:它的祖国
 its home port:它的母港
 its home:它的家
 its homeland:它的家乡
-its honesty:它的誠實
+its honesty:它的诚实
 its honey:它的蜂蜜
 its hong kong address:它的香港地址
 its hong kong:它的香港
@@ -15587,7 +15385,6 @@ its hook:它的钩
 its hope:它的希望
 its hopes and fear:它的希望与恐惧
 its hopes:它的希望
-its horizon:它的地平線
 its horizon:它的地平线
 its horizontal-branch:它的水平分支
 its horror:它的恐怖
@@ -15596,7 +15393,7 @@ its hospital partners:它的医院合作伙伴
 its hospital:它的医院
 its hospitality:它的款待
 its host:它的主机
-its hostility:它的敵意
+its hostility:它的敌意
 its hot wallet:它的热钱包
 its hot:它的热
 its hotel products:它的酒店产品
@@ -15668,7 +15465,6 @@ its implement:它的实现
 its implementation is based on:它的实现是基于
 its implementation is based:它的实现是基于
 its implementation:它的实现
-its implementation:它的實現
 its import:它的导入
 its importance is very:它的重要性是非常
 its importance:它的重要性
@@ -15702,7 +15498,7 @@ its indian:它的印度
 its individual:它的个体
 its industrial design:它的工业设计
 its industry:它的工业
-its inertia:它的慣性
+its inertia:它的惯性
 its infancy:它的婴儿期
 its infection pattern:它的感染模式
 its infection:它的感染
@@ -15734,7 +15530,6 @@ its injection:它的注射
 its ink:它的墨水
 its innovation story:它的创新故事
 its innovation:它的创新
-its innovation:它的創新
 its innovative:它的创新的
 its input and output:它的输入和输出
 its input:它的输入
@@ -15823,7 +15618,6 @@ its iron:它的铁
 its irrigation:它的灌溉
 its islam:它的伊斯兰教
 its island:它的岛屿
-its island:它的島嶼
 its isolation:它的隔离
 its isotope:它的同位素
 its israel:它的以色列
@@ -15887,10 +15681,8 @@ its knee:它的膝
 its knight:它的骑士
 its knowledge management system:它的知识管理系统
 its knowledge management:它的知识管理
-its knowledge:它的知識
 its knowledge:它的知识
 its label:它的标签
-its label:它的標籤
 its labor:它的工人
 its laboratory:它的实验室
 its labour market:它的劳动力市场
@@ -15906,19 +15698,16 @@ its landing rocket:它的着陆火箭
 its landing:它的登陆
 its landing:它的着陆
 its landmark:它的地标
-its landmark:它的地標
 its landscape:它的景观
 its landscape:它的风景
-its language and culture:它的語言和文化
 its language and culture:它的语言和文化
 its language and its:它的语言和它的
-its language and message:它的語言和訊息
+its language and message:它的语言和讯息
 its language framework:它的语言框架
 its language is arabic:它的语言是阿拉伯语
 its language is based on:它的语言是基于
 its language is based:它的语言是基于
-its language to its:它的語言到它的
-its language:它的語言
+its language to its:它的语言到它的
 its language:它的语言
 its languages:它的语言
 its lantern:它的灯笼
@@ -15936,7 +15725,7 @@ its last:它的最后的
 its latest:它的最后的
 its latin cross:它的拉丁十字
 its latin form:它的拉丁文形式
-its latin motto:它的拉丁文座右銘
+its latin motto:它的拉丁文座右铭
 its latin name:它的拉丁文名称
 its latin:它的拉丁文
 its latitude:它的纬度
@@ -15950,20 +15739,17 @@ its law:它的法律
 its laws and principles:它的法律和原则
 its laws and structure:它的法律和结构
 its laws:它的法律
-its lawyer:它的律師
+its lawyer:它的律师
 its layer:它的层
 its layout fossil:它的布局化石
 its layout tool support:它的布局工具支持
 its layout:它的布局
 its lead author:它的第一作者
 its lead:它的领导
-its leader:它的領袖
 its leader:它的领袖
 its leaf:它的叶
-its leaf:它的葉
 its learn:它的学习
 its learning curve:它的学习曲线
-its learning curve:它的學習曲線
 its learning material:它的学习材料
 its learning platform:它的学习平台
 its learning rate:它的学习率
@@ -16010,7 +15796,7 @@ its library include:它的图书馆包括
 its library:它的图书馆
 its license:它的许可证
 its life and art:它的生命和艺术
-its life cycle:它的生命週期
+its life cycle:它的生命周期
 its life form:它的生命形式
 its life from birth:它的生命从出生
 its life science:它的生命科学
@@ -16024,7 +15810,6 @@ its lifetime:它的一生
 its ligament:它的韧带
 its light and noise:它的光和噪音
 its light and space:它的光与空间
-its light source theory:它的光源理論
 its light source theory:它的光源理论
 its light source:它的光源
 its light:它的光
@@ -16056,9 +15841,8 @@ its list:它的列表
 its literary:它的文学的
 its literature and philosophy:它的文学和哲学
 its literature:它的文学
-its literature:它的文學
 its lithuania:它的立陶宛
-its liturgy:它的禮拜儀式
+its liturgy:它的礼拜仪式
 its livelihood:它的生计
 its liver:它的肝臟
 its living:它的活
@@ -16103,20 +15887,18 @@ its lord:它的主人
 its loss was drama:它的损失是戏剧
 its loss:它的损失
 its love is its:它的爱是它的
-its love:它的愛
 its love:它的爱
 its lover:它的爱人
 its low-frequency array:它的低频阵列
 its lower:它的降低
 its lowest:它的最低的
 its luck:它的运气
-its luck:它的運氣
 its luminosity:它的光度
 its lunar lander:它的月球着陆器
 its lunch:它的午餐
 its lung:它的肺
 its luxury goods:它的奢侈品
-its lyrics:它的歌詞
+its lyrics:它的歌词
 its machine learning and natural language processing:它的机器学习和自然语言处理
 its machine learning predict:它的机器学习预测
 its machine learning:它的机器学习
@@ -16131,7 +15913,6 @@ its magic:它的魔法
 its magical:它的神奇的
 its magnesium:它的镁
 its magnetic field:它的磁场
-its magnetic field:它的磁場
 its magnetic moment:它的磁矩
 its magnetism:它的磁
 its magnetosphere:它的磁层
@@ -16144,7 +15925,7 @@ its mailing list:它的邮件列表
 its main battle tank:它的主战坦克
 its main point:它的要点
 its main:它的主要的
-its maintenance:它的維護
+its maintenance:它的维护
 its maize:它的玉米
 its major advantages:它的主要优点
 its major application:它的主要应用
@@ -16193,12 +15974,12 @@ its many potential applications:它的许多潜在应用
 its many processor architecture:它的许多处理器架构
 its many projects:它的许多项目
 its many resources include:它的许多资源包括
-its many shape:它的許多形狀
-its many trail:它的許多小徑
+its many shape:它的许多形状
+its many trail:它的许多小径
 its many unique:它的许多独特的
 its many users:它的许多用户
 its many:它的很多
-its many:它的許多
+its many:它的许多
 its map navigation:它的地图导航
 its map:它的地图
 its mark:它的标记
@@ -16210,7 +15991,7 @@ its market now include:它的市场现在包括
 its market potential:它的市场潜力
 its market price:它的市场价格
 its market prices:它的市场价格
-its market share:它的市場佔有率
+its market share:它的市场佔有率
 its market will:它的市场会
 its market:它的市场
 its marketing:它的市场营销
@@ -16260,7 +16041,6 @@ its measurement:它的测量
 its measuring:它的测量
 its meat and feather:它的肉和羽毛
 its meat:它的肉
-its mecca:它的麥加
 its mecca:它的麦加
 its mechanical energy:它的机械能
 its mechanics:它的力学
@@ -16287,7 +16067,6 @@ its members push:它的成员推
 its members:它的成员
 its membrane:它的膜
 its memory card:它的记忆卡
-its memory:它的記憶
 its memory:它的记忆
 its menlo park:它的门洛帕克
 its menu board:它的菜单板
@@ -16296,7 +16075,7 @@ its menu manager give:它的菜单经理给
 its menu:它的菜单
 its mercy:它的仁慈
 its message:它的消息
-its message:它的訊息
+its message:它的讯息
 its messenger:它的信使
 its metabolism:它的代谢
 its metabolism:它的新陈代谢
@@ -16307,7 +16086,7 @@ its metal knee joint:它的金属膝关节
 its metal structure:它的金属结构
 its metal wings:它的金属翅膀
 its metal:它的金属
-its metallicity:它的金屬量
+its metallicity:它的金属量
 its metaphor:它的隐喻
 its metaprogramming:它的元编程
 its method:它的方法
@@ -16316,7 +16095,7 @@ its methods and applications:它的方法和应用
 its methods:它的方法
 its metro station:它的地铁站
 its metro:它的地铁
-its metronome:它的節拍器
+its metronome:它的节拍器
 its michael thomas:它的迈克尔托马斯
 its michael:它的迈克尔
 its michigan:它的密西根
@@ -16351,7 +16130,7 @@ its minimum:它的最小值
 its mining:它的采矿业
 its minor:它的次要
 its minute:它的分钟
-its mirror:它的鏡
+its mirror:它的镜
 its mirror:它的镜子
 its miscarriage:它的流产
 its misery:它的痛苦
@@ -16399,7 +16178,7 @@ its molecular formula:它的分子式
 its molecule:它的分子
 its molecules:它的分子
 its mom:它的妈妈
-its moment of inertia:它的轉動慣量
+its moment of inertia:它的转动惯量
 its momentum:它的动量
 its monarch:它的君主
 its monarchy:它的君主制
@@ -16407,7 +16186,7 @@ its monastery:它的修道院
 its monetary authority:它的金融管理局
 its monetary policy:它的货币政策
 its money bag:它的钱袋
-its money supply:它的貨幣供應量
+its money supply:它的货币供应量
 its money:它的钱
 its monkey:它的猴
 its monomer:它的单体
@@ -16425,7 +16204,6 @@ its morning:它的早晨
 its most important:它的最重要
 its most important:它的最重要的
 its mother:它的母亲
-its mother:它的母親
 its motherboard:它的主板
 its motion was half:它的运动是半
 its motion:它的运动
@@ -16434,7 +16212,7 @@ its motor cortex:它的运动皮层
 its motor nerve:它的运动神经
 its motorola mobility:它的摩托罗拉移动
 its motorola:它的摩托罗拉
-its motto:它的座右銘
+its motto:它的座右铭
 its mountain range:它的山脉
 its mountain:它的山
 its mouth:它的嘴
@@ -16446,7 +16224,6 @@ its movies:它的电影
 its mud:它的泥
 its multimedia:它的多媒体
 its multiplication:它的乘法
-its murder:它的謀殺
 its murder:它的谋杀
 its muscle skeleton:它的肌肉骨架
 its muscle:它的肌肉
@@ -16498,9 +16275,7 @@ its naming rights:它的冠名权
 its nasa:它的美国国家航空航天局
 its national interest:它的国家利益
 its national park:它的国家公园
-its national park:它的國家公園
 its national security:它的国家安全
-its national security:它的國家安全
 its nationalism:它的民族主义
 its nationality:它的国籍
 its natural environment:它的自然环境
@@ -16509,7 +16284,6 @@ its natural landscape:它的自然景观
 its natural language input:它的自然语言输入
 its natural language processing:它的自然语言处理
 its natural language:它的自然语言
-its natural resources:它的自然資源
 its natural resources:它的自然资源
 its natural-language processing:它的自然语言处理
 its natural:它的天然的
@@ -16519,13 +16293,11 @@ its nature:它的自然
 its naval base:它的海军基地
 its navigation skills:它的导航技能
 its navigation:它的导航
-its navigation:它的導航
 its navy and air force:它的海军和空军
 its navy:它的海军
-its nazi:它的納粹
 its nazi:它的纳粹
 its necessary:它的必要的
-its neck:它的頸
+its neck:它的颈
 its necklace:它的项链
 its nectar:它的花蜜
 its need:它的需要
@@ -16549,7 +16321,7 @@ its neutral:它的中立
 its neutrality:它的中立
 its neutron:它的中子
 its new data:它的新数据
-its new england:它的新英格蘭
+its new england:它的新英格兰
 its new music:它的新音乐
 its new york city:它的纽约市
 its new york:它的纽约
@@ -16569,7 +16341,7 @@ its next task:它的下一个任务
 its next wear:它的下一个穿戴
 its next:它的下一个
 its nickname:它的别名
-its nickname:它的綽號
+its nickname:它的绰号
 its night:它的夜
 its nightlife and food:它的夜生活和食物
 its nightlife:它的夜生活
@@ -16619,7 +16391,6 @@ its ocean:它的海洋
 its octave:它的八度音
 its odd:它的奇
 its odor:它的气味
-its odor:它的氣味
 its offensive:它的攻势
 its offer:它的出价
 its office:它的办公室
@@ -16632,10 +16403,10 @@ its officials:它的官员
 its offspring:它的后代
 its oil and gas:它的石油和天然气
 its oil field:它的油田
-its oil-tanker:它的油輪
+its oil-tanker:它的油轮
 its oil:它的油
 its old town:它的老城
-its olive oil:它的橄欖油
+its olive oil:它的橄榄油
 its omnipotence:它的全能
 its on-demand:它的按需
 its once:它的一次
@@ -16705,7 +16476,7 @@ its organize:它的组织
 its origin and development:它的起源与发展
 its origin and development:它的起源和发展
 its origin and evolution:它的起源和进化
-its origin and goal:它的起源和目標
+its origin and goal:它的起源和目标
 its origin and history:它的起源和历史
 its origin and meaning:它的起源和意义
 its origin and name:它的起源和名称
@@ -16720,7 +16491,7 @@ its origin:它的来源
 its origin:它的起源
 its original form:它的原始的形式
 its original:它的原始的
-its originality:它的獨創性
+its originality:它的独创性
 its oscar:它的奥斯卡
 its other features:它的其他特征
 its our:它的我们的
@@ -16760,7 +16531,7 @@ its ozone:它的臭氧
 its pacific:它的太平洋
 its package management system:它的包管理系统
 its package:它的包
-its packaging:它的包裝
+its packaging:它的包装
 its page:它的页
 its pages:它的页
 its pain:它的疼痛
@@ -16807,10 +16578,10 @@ its passenger:它的乘客
 its passengers and sailor:它的乘客与水手
 its passengers:它的乘客
 its passion:它的激情
-its past and current:它的過去和目前的
+its past and current:它的过去和目前的
 its past and present:它的过去和现在
+its past:它的过去
 its past:它的过去的
-its past:它的過去
 its patent:它的专利
 its patents:它的专利
 its path:它的路径
@@ -16867,7 +16638,6 @@ its petroleum:它的石油
 its pharmacy:它的药学
 its pharynx:它的咽
 its philosopher:它的哲学家
-its philosopher:它的哲學家
 its philosophy:它的哲学
 its phoenix impression:它的凤凰印象
 its phoenix:它的凤凰
@@ -16875,7 +16645,7 @@ its phone line:它的电话线
 its phone modem:它的手机调制解调器
 its phone:它的手机
 its phone:它的电话
-its phosphate:它的磷酸鹽
+its phosphate:它的磷酸盐
 its phosphorus and potassium:它的磷和钾
 its phosphorus:它的磷
 its phosphorylation:它的磷酸化
@@ -16929,7 +16699,6 @@ its podcast:它的播客
 its poet:它的诗人
 its poetry:它的诗
 its poetry:它的诗歌
-its point of view:它的觀點
 its point of view:它的观点
 its point:它的点
 its point:它的要点
@@ -17013,7 +16782,6 @@ its power:它的电力
 its powertrain:它的动力总成
 its practice suffer:它的实践遭受
 its practice:它的实践
-its practice:它的實踐
 its pragmatism:它的实用主义
 its praise:它的赞美
 its prayer:它的祈祷
@@ -17023,7 +16791,6 @@ its precision:它的精度
 its predator:它的捕食者
 its predecessor:它的前任
 its predict:它的预测
-its prediction:它的預測
 its prediction:它的预测
 its preference:它的偏好
 its prefix:它的前缀
@@ -17039,7 +16806,7 @@ its presence and use:它的存在和使用
 its presence is quiet:它的存在是安静的
 its presence prove:它的存在证明
 its presence:它的存在
-its present:它的現在
+its present:它的现在
 its president:它的总统
 its pressure and location:它的压力和位置
 its pressure and volume:它的压强和体积
@@ -17070,7 +16837,6 @@ its principles:它的原则
 its print:它的打印
 its printing:它的印刷
 its prison:它的监狱
-its prison:它的監獄
 its prisoner:它的囚犯
 its privacy compromise:它的隐私妥协
 its privacy page:它的隐私页
@@ -17092,7 +16858,6 @@ its process:它的过程
 its processor and speed:它的处理器和速度
 its processor performance will:它的处理器性能会
 its processor:它的处理器
-its processor:它的處理器
 its produce:它的生产
 its producer:它的制作人
 its producer:它的生产者
@@ -17134,7 +16899,7 @@ its professor:它的教授
 its profile grind:它的轮廓磨
 its profile:它的轮廓
 its program:它的程序
-its program:它的節目
+its program:它的节目
 its programmable:它的可编程
 its programmer:它的程序员
 its programming language:它的编程语言
@@ -17149,8 +16914,8 @@ its project:它的项目
 its projection:它的投影
 its projects and communities:它的项目和社区
 its projects:它的项目
-its pronunciation:它的發音
-its proof:它的證明
+its pronunciation:它的发音
+its proof:它的证明
 its prop:它的道具
 its propaganda:它的宣传
 its propagation:它的传播
@@ -17194,7 +16959,6 @@ its public transport:它的公共交通
 its public:它的公众
 its public:它的公共
 its public:它的公共的
-its public:它的公眾
 its publication date:它的出版日期
 its publication:它的出版
 its publication:它的出版物
@@ -17210,7 +16974,7 @@ its punishment:它的惩罚
 its pupil:它的瞳孔
 its puppet:它的傀儡
 its purchase:它的购买
-its purchasing power:它的購買力
+its purchasing power:它的购买力
 its purchasing-power-parity:它的购买力平价
 its purity:它的纯度
 its purple distance:它的紫色距离
@@ -17282,12 +17046,11 @@ its rationality:它的理性
 its raw material:它的原材料
 its ray:它的光线
 its reaction:它的反应
-its reaction:它的反應
 its reactionary:它的反动
 its read:它的读
 its readability:它的可读性
 its reader:它的读者
-its reading:它的閱讀
+its reading:它的阅读
 its real economy:它的实体经济
 its real time clock:它的实时时钟
 its real time:它的实时
@@ -17297,7 +17060,6 @@ its real-time user activity:它的实时用户活动
 its real-time:它的实时
 its realism:它的现实主义
 its reality:它的现实
-its reality:它的現實
 its rear-wheel drive:它的后轮驱动
 its rear-wheel-drive is derived from:它的后轮驱动源自
 its rear-wheel-drive:它的后轮驱动
@@ -17345,7 +17107,7 @@ its relation:它的关系
 its relational database:它的关系数据库
 its relationship:它的关系
 its release:它的释放
-its relevance:它的相關性
+its relevance:它的相关性
 its reliability and performance:它的可靠性和性能
 its reliability and production:它的可靠性和生产
 its reliability and support:它的可靠性和支持
@@ -17363,9 +17125,8 @@ its report and recommendations:它的报告和建议
 its report recommend:它的报告建议
 its report recommended:它的报告建议
 its report said:它的报告说
-its report:它的報告
 its report:它的报告
-its reporter:它的記者
+its reporter:它的记者
 its reports:它的报告
 its represent:它的表示
 its representation:它的表示
@@ -17398,7 +17159,7 @@ its resource:它的资源
 its resources:它的资源
 its response time:它的响应时间
 its response:它的响应
-its response:它的回應
+its response:它的回应
 its responsibility:它的责任
 its rest:它的休息
 its restaurant:它的餐馆
@@ -17466,12 +17227,11 @@ its role and functions:它的角色和功能
 its role and mission:它的角色和使命
 its role:它的角色
 its roll:它的滚动
-its roller coaster:它的雲霄飛車
+its roller coaster:它的云霄飞车
 its romanesque:它的罗马式
 its roof and its:它的屋顶和它的
 its roof structure:它的屋顶结构
 its roof:它的屋顶
-its room:它的房間
 its room:它的房间
 its root system:它的根系统
 its root:它的根
@@ -17522,14 +17282,14 @@ its sandbox:它的沙盒
 its sandstone wall:它的砂岩墙
 its sandstone:它的砂岩
 its sandwich:它的三明治
-its sans-culottes:它的無套褲漢
+its sans-culottes:它的无套裤汉
 its sardinia:它的撒丁
 its satan:它的撒旦
 its satellite campus:它的卫星校园
 its satellite:它的卫星
 its satire:它的讽刺
 its satisfaction:它的满足
-its saturated fat:它的飽和脂肪
+its saturated fat:它的饱和脂肪
 its saving:它的储蓄
 its scarcity:它的稀缺性
 its scenery:它的风景
@@ -17540,9 +17300,9 @@ its science and technology:它的科学和技术
 its science:它的科学
 its scientific content:它的科学内容
 its scientific discover:它的科学发现
-its scientific instrument:它的科學儀器
+its scientific instrument:它的科学仪器
 its scientific meaning:它的科学意义
-its scientific name:它的學名
+its scientific name:它的学名
 its scientific reliability:它的科学可靠性
 its scientific research:它的科学研究
 its scientific status:它的科学地位
@@ -17572,14 +17332,13 @@ its search:它的搜索
 its season:它的季节
 its seat:它的座位
 its second derivative:它的二阶导数
-its second derivative:它的二階導數
-its second language:它的第二語言
+its second language:它的第二语言
 its secret garden:它的秘密花园
 its secret mission:它的秘密任务
 its secret story:它的秘密故事
 its secret weapon:它的秘密武器
 its secret:它的秘密
-its secretariat:它的秘書處
+its secretariat:它的秘书处
 its secretary:它的秘书
 its secretion:它的分泌
 its security and trade:它的安全和贸易
@@ -17593,7 +17352,6 @@ its security white paper:它的安全白皮书
 its security:它的保安
 its security:它的安全
 its seed:它的种子
-its seed:它的種子
 its seismic wave:它的地震波
 its selection:它的选择
 its self-driving car project:它的自动驾驶汽车项目
@@ -17642,10 +17400,10 @@ its several:它的几个
 its shadow:它的影子
 its shadow:它的阴影
 its shallow water:它的浅水
-its shape and chemistry:它的形狀和化學
-its shape and density:它的形狀和密度
-its shape and design:它的形狀和設計
-its shape:它的形狀
+its shape and chemistry:它的形状和化学
+its shape and density:它的形状和密度
+its shape and design:它的形状和设计
+its shape:它的形状
 its share price:它的股价
 its shareholder:它的股东
 its shareholders are private bank:它的股东是私人银行
@@ -17662,7 +17420,7 @@ its shellfish:它的贝类
 its ship:它的船
 its shipyard:它的造船厂
 its shoe:它的鞋
-its shopping:它的購物
+its shopping:它的购物
 its shoreline:它的海岸线
 its short-term memory:它的短期记忆
 its short:它的短的
@@ -17687,7 +17445,7 @@ its silicon photonics technology:它的硅光子学技术
 its silicon photonics:它的硅光子学
 its silicon valley:它的硅谷
 its silicon:它的硅
-its silver:它的銀
+its silver:它的银
 its simple and exact:它的简单和精确的
 its simple design:它的简单设计
 its simple elegance:它的简单优雅
@@ -17730,7 +17488,6 @@ its skin care:它的护肤
 its skin color:它的皮肤颜色
 its skin is so:它的皮肤是如此
 its skin:它的皮肤
-its skin:它的皮膚
 its skull:它的头骨
 its sky:它的天空
 its skyline:它的天际线
@@ -17745,12 +17502,12 @@ its small:它的小的
 its smart card:它的智慧卡
 its smart city:它的智慧城市
 its smart contract:它的智能合约
-its smart tv:它的智能電視
+its smart tv:它的智能电视
 its smartphone app:它的智能手机应用程序
 its smartphone:它的智能手机
 its smile bracelet:它的微笑手镯
 its smile:它的微笑
-its smoke point:它的冒煙點
+its smoke point:它的冒烟点
 its smoke:它的烟
 its smooth feel:它的光滑的感觉
 its smooth muscle:它的平滑肌
@@ -17764,7 +17521,7 @@ its social and political:它的社会和政治
 its social attribute:它的社交属性
 its social function:它的社交功能
 its social media:它的社交媒体
-its social media:它的社群媒體
+its social media:它的社群媒体
 its social network:它的社会网络
 its social science:它的社会科学
 its social security:它的社会保障
@@ -17800,7 +17557,7 @@ its solutions help institutions:它的解决方案帮助机构
 its solutions:它的解决方案
 its some:它的一些
 its something:它的东西
-its son:它的兒子
+its son:它的儿子
 its song:它的歌
 its song:它的歌曲
 its songs:它的歌
@@ -17810,7 +17567,7 @@ its soulmate:它的灵魂伴侣
 its sound and its:它的声音和它的
 its sound design:它的声音设计
 its sound is continuous:它的声音是连续的
-its sound quality:它的音質
+its sound quality:它的音质
 its sound system:它的声音系统
 its sound:它的声音
 its soup:它的汤
@@ -17827,12 +17584,10 @@ its southeast:它的东南
 its southern region:它的南部地区
 its southwest:它的西南
 its sovereignty:它的主权
-its sovereignty:它的主權
 its space scientists still:它的空间科学家仍然
 its space travel:它的太空旅行
 its space-age:它的太空时代
 its space-time:它的时空
-its space:它的空間
 its space:它的空间
 its spacecraft:它的航天器
 its spanish name:它的西班牙名字
@@ -17924,7 +17679,7 @@ its steel:它的钢
 its stem cell:它的干细胞
 its stem:它的茎
 its stereotype:它的刻板印象
-its stiffness:它的剛度
+its stiffness:它的刚度
 its stimulant:它的兴奋剂
 its stimulation:它的刺激
 its stimuli:它的刺激
@@ -17936,10 +17691,9 @@ its stock price:它的股票价格
 its stock:它的股票
 its stomach acid:它的胃酸
 its stomach:它的胃
+its stone wall:它的石墙
 its stone wall:它的石头墙
-its stone wall:它的石牆
 its stone:它的石头
-its stone:它的石頭
 its storage device:它的存储设备
 its store card:它的商店卡
 its store:它的商店
@@ -18018,7 +17772,7 @@ its subsidiaries offer:它的子公司提供
 its subsidiaries:它的子公司
 its subsidiary:它的子公司
 its substance:它的物质
-its suburb:它的郊區
+its suburb:它的郊区
 its subway system:它的地铁系统
 its subway:它的地铁
 its success can encourage:它的成功可以鼓励
@@ -18057,7 +17811,7 @@ its supply chain management:它的供应链管理
 its supply chain:它的供应链
 its support:它的支持
 its suppose:它的假设
-its surface area:它的表面積
+its surface area:它的表面积
 its surface cover:它的表面覆盖
 its surface dot:它的表面点
 its surface energy:它的表面能
@@ -18074,7 +17828,7 @@ its survival and mating:它的生存和交配
 its survival look:它的生存看
 its survival mode:它的生存模式
 its survival:它的生存
-its sustainability:它的可持續性
+its sustainability:它的可持续性
 its swan:它的天鹅
 its sweetness:它的甜味
 its swim bladder:它的鰾
@@ -18083,7 +17837,6 @@ its swimming:它的游泳
 its swimsuit:它的泳衣
 its swiss:它的瑞士
 its switch:它的开关
-its switch:它的開關
 its sword:它的剑
 its symbol:它的符号
 its symmetry:它的对称
@@ -18101,7 +17854,6 @@ its system software:它的系统软件
 its system solutions:它的系统解决方案
 its system time:它的系统时间
 its system uses deep learning:它的系统使用深度学习
-its system:它的系統
 its system:它的系统
 its systems and equipment:它的系统和设备
 its systems and sensor:它的系统和传感器
@@ -18199,14 +17951,11 @@ its the first step:它的第一步
 its the:它的这
 its theft:它的盗窃
 its theme option:它的主题选项
-its theme park:它的主題公園
-its theme:它的主題
+its theme park:它的主题公园
 its theme:它的主题
 its theology:它的神学
-its theology:它的神學
 its theory and methods:它的理论和方法
 its theory and practice:它的理论和实践
-its theory:它的理論
 its theory:它的理论
 its thermal design power:它的热设计功耗
 its thin-film:它的薄膜
@@ -18217,7 +17966,7 @@ its third generation:它的第三代
 its third-party:它的第三方
 its third:它的第三
 its thirteen:它的十三
-its thirty-nine articles:它的三十九條信綱
+its thirty-nine articles:它的三十九条信纲
 its thirty:它的三十
 its thorax:它的胸
 its thoughts and action:它的思想和行动
@@ -18278,7 +18027,7 @@ its toy balloon:它的玩具气球
 its toy:它的玩具
 its track:它的痕迹
 its tractor:它的拖拉机
-its trade barrier:它的貿易壁壘
+its trade barrier:它的贸易壁垒
 its trade policies:它的贸易政策
 its trade:它的贸易
 its trademark treatment:它的商标治疗
@@ -18314,7 +18063,7 @@ its transport:它的运输
 its transportation:它的运输
 its travel:它的旅行
 its tray:它的托盘
-its treasure:它的寶藏
+its treasure:它的宝藏
 its treasure:它的财宝
 its treatment:它的治疗
 its treatment:它的疗法
@@ -18348,7 +18097,7 @@ its tv awards:它的电视奖
 its tv:它的电视
 its twelfth:它的第十二
 its twenty:它的二十
-its twin:它的雙胞胎
+its twin:它的双胞胎
 its twist:它的扭曲
 its two:它的二
 its type and name:它的类型和名称
@@ -18370,7 +18119,7 @@ its underground ocean:它的地下海洋
 its underground:它的地下
 its understanding:它的理解
 its undo:它的撤销
-its unequal exchange:它的不等價交換
+its unequal exchange:它的不等价交换
 its unfortunate:它的不幸的
 its unique landscape:它的独特的景观
 its unique:它的独特的
@@ -18422,7 +18171,7 @@ its utopia:它的乌托邦
 its vaccine:它的疫苗
 its vacuum pump:它的真空泵
 its value can reference:它的值可以引用
-its value chain:它的價值鏈
+its value chain:它的价值链
 its value is a number:它的值是一个数字
 its value tell:它的值告诉
 its value were so:它的值是如此
@@ -18489,7 +18238,7 @@ its village:它的村庄
 its vineyard:它的葡萄园
 its violence:它的暴力
 its viral envelope:它的病毒包膜
-its virtual assistant:它的虛擬助理
+its virtual assistant:它的虛拟助理
 its virtual currency:它的虚拟货币
 its virtual desktop:它的虚拟桌面
 its virtual reality games:它的虚拟现实游戏
@@ -18497,7 +18246,7 @@ its virtual reality:它的虚拟现实
 its virtue:它的美德
 its virus detect:它的病毒检测
 its virus:它的病毒
-its visibility:它的能見度
+its visibility:它的能见度
 its visible spectrum:它的可见光
 its vision system:它的视觉系统
 its vision:它的视觉
@@ -18527,12 +18276,11 @@ its voyage:它的航行
 its wage:它的工资
 its walking:它的步行
 its wall:它的墙
-its wallet:它的錢包
 its wallet:它的钱包
 its wallpaper:它的壁纸
 its war power:它的战争力量
 its war:它的战争
-its warhead:它的彈頭
+its warhead:它的弹头
 its warmth and modern:它的温暖和现代
 its warmth:它的温暖
 its warning:它的警告
@@ -18540,7 +18288,6 @@ its warrior:它的战士
 its warship:它的军舰
 its wart:它的疣
 its washing machine:它的洗衣机
-its washing machine:它的洗衣機
 its waste:它的垃圾
 its watch:它的手表
 its water content:它的含水量
@@ -18571,12 +18318,10 @@ its web:它的网
 its website and tv:它的网站和电视
 its website design:它的网站设计
 its website explains:它的网站解释
-its website is not:它的網站是不是
 its website is not:它的网站是不是
 its website recently:它的网站最近
 its website says:它的网站说
 its website show:它的网站显示
-its website:它的網站
 its website:它的网站
 its websites:它的网站
 its weed:它的杂草
@@ -18698,22 +18443,17 @@ its zinc:它的锌
 its zipper:它的拉链
 its zombie:它的僵尸
 its zoo:它的动物园
-its zoo:它的動物園
-its zooxanthellae:它的蟲黃藻
+its zooxanthellae:它的虫黄藻
 its:它的
 itsas alpeak:滨海阿尔卑斯省
 itsaso baltikoa:波罗的海
-itsaso baltikoa:波罗的海/波羅的海
-itsaso baltikoa:波羅的海
+itsaso baltikoa:波罗的海/波罗的海
 itsaso beltza:黑海
-itsaso gorria:紅海
 itsaso gorria:红海
-itsaso horia:黃海
 itsaso horia:黄海
 itsaso zeltikoa:凯尔特海
 itsaso zuria:白海
 itsasoaz haraindiko britainiar lurralde:英国海外领土
-itsasoaz haraindiko britainiar lurralde:英國海外領土
 itsasondo:伊萨松多
 itself across:它自己穿过
 itself from:它自己从
@@ -18725,88 +18465,84 @@ itself:它自己
 itsepalvelurekisteröinti:自助值机
 itshe canyon:shí xiágǔ
 itshe canyon:石峡谷
-itshe canyon:石峽谷
 itshedi:乍得
 itshedi:乍得 / 查德
 itshedi:查德
 itsheki:jiékè
 itsheki:捷克
 itshile:智利
-itso tea:一手私藏世界紅茶
-itsuka hanareru hi ga kite mo:即使離別
-itsukaichi kannon chugakko (itsukaichi kannon junior high school):五日市觀音中學
+itso tea:一手私藏世界红茶
+itsuka hanareru hi ga kite mo:即使离別
 itsukaichi kannon chugakko (itsukaichi kannon junior high school):五日市观音中学
 itsukaichi koko (itsukaichi high school):五日市高中
-itsukaichi line:五日市線
+itsukaichi line:五日市线
 itsukaichi ochiai:五日市落合
 itsukaichi station north entrance:五日市站北口
 itsukaichi station south entrance:五日市站南口
 itsukaichi station:五日市站
-itsukaichi-chuo kominkan (itsukaichi chuo community center):五日市中央公民館
 itsukaichi-chuo kominkan (itsukaichi chuo community center):五日市中央公民馆
 itsukaichi-chuo-nichome (itsukaichi-chuo 2):五日市中央二丁目
 itsukaichi-gochome-guchi (itsukaichi 5):五日市五丁目口
 itsukamachi station:五日町站
-itsuki jūra:斎灘
-itsuki murabayashi:村林一輝
-itsuki sagara:相樂樹
-itsuki shoda:正田樹
+itsuki jūra:斎滩
+itsuki murabayashi:村林一辉
+itsuki sagara:相乐树
+itsuki shoda:正田树
 itsuki-mura:五木村
-itsuki-nada:斎灘
+itsuki-nada:斎滩
 itsuki:五木村
-itsuko hasegawa:長谷川逸子
+itsuko hasegawa:长谷川逸子
 itsukushima shrine:严岛神社
-itsukushima:嚴島
+itsukushima:严岛
 itsumade:以津真天
 itsumo misora:美眉美空
 itsunen shoyu:逸然性融
 itsunori onodera:小野寺五典
-itsuo sonobe:園部逸夫
+itsuo sonobe:园部逸夫
 itsuro kawasaki:川崎逸朗
-itsuse no mikoto:彥五瀨命
-itsutsubashi station:五橋站
+itsuse no mikoto:彦五瀨命
+itsutsubashi station:五桥站
 itsy bitsy teenie weenie yellow polkadot bikini:黄色圆点比基尼娃娃
-ittan momen:一反木綿
+ittan momen:一反木绵
 ittenheim:伊特奈姆
 itterbeck:伊特贝克
 itterswiller:伊特斯维莱尔
 itteville:伊特维尔
 ittf hall of fame:国际乒联名人堂
-ittf world tour:國際桌總世界巡迴賽
+ittf world tour:国际桌总世界巡回赛
 ittf world youth championships:世界青少年乒乓球锦标赛
 ittigen:伊蒂根
 ittipaq avenue subdistrict:tuánjiélù jiēdào
 ittipaq avenue subdistrict:团结路街道
-ittipaq avenue subdistrict:團結路街道
 ittipaq avenue:tuánjiélù jiēdào
 ittipaq avenue:团结路
 ittireddu:伊蒂雷杜
 ittiri:伊蒂里
 ittlingen:伊特林根
-ittlinger bach:伊特靈巴赫河
+ittlinger bach:伊特灵巴赫河
 ittoku kishibe:岸部一德
 ittoqqortoormiit:斯科斯比松
 ittre:伊特尔
 itu r:国际电信联盟无线电通信部门
 itu region:国际电信联盟区域
-itu t:國際電信聯盟電信標準化部門
-ituango:伊圖安戈
-ituano fc:伊圖諾足球會
-ituata district:伊圖瓦塔區
+itu t:国际电信联盟电信标准化部门
+ituango:伊图安戈
+ituano fc:伊图诺足球会
+ituata district:伊图瓦塔区
 ituero de azaba:伊图埃罗德亚萨瓦
 ituero y lama:伊图埃罗伊拉马
 itueta:伊图埃塔
 ituglanis:伊都毛鼻鲶属
 ituiutaba:伊图尤塔巴
-itum kalinsky district:伊圖姆卡列區
+itum kalinsky district:伊图姆卡列区
 itumbiara:伊通比亚拉
 itumirim:伊图米林
-ituni:伊圖尼
+ituni:伊图尼
 itunisia:突尼斯
-itunisia:突尼斯 / 突尼西亞
-itunisia:突尼西亞
+itunisia:突尼斯 / 突尼西亚
+itunisia:突尼西亚
 itupeva:伊图佩瓦
-itupiranga:伊圖皮蘭加
+itupiranga:伊图皮兰加
 ituporanga:伊图波兰加
 iturama:伊图拉马
 ituren:伊图伦
@@ -18817,105 +18553,93 @@ iturin:都灵
 iturkiya:土耳其
 iturmendi:伊图尔门迪
 iturup airport:亚斯内机场
-iturup airport:擇捉島機場
+iturup airport:择捉岛机场
 iturup:择捉岛
-iturup:擇捉島
 itutinga:伊图廷加
 ituverava:伊图韦拉瓦
 ituxi vallis:伊图希谷
-itv news channel:獨立電視新聞頻道
-itv westcountry:西部電視台
+itv news channel:独立电视新闻频道
+itv westcountry:西部电视台
 itxassou:伊察苏
 ityop'iya:Āisàiébǐyà
 ityop'iya:埃塞俄比亚
-ityop'iya:埃塞俄比亚 / 衣索比亞
-ityop'iya:埃塞俄比亞
-ityop'iya:衣索比亞
+ityop'iya:埃塞俄比亚 / 衣索比亚
+ityop'iya:衣索比亚
 ityupya:Āisàiébǐyà
 ityupya:埃塞俄比亚
-ityupya:埃塞俄比亚 / 衣索比亞
-ityupya:埃塞俄比亞
-ityupya:衣索比亞
+ityupya:埃塞俄比亚 / 衣索比亚
+ityupya:衣索比亚
 itz:伊茨河
 itzac:伊特扎克
-itzamna:伊察姆納
+itzamna:伊察姆纳
 itzcoatl:伊斯科阿特尔
 itzehoe:伊策霍
 itzgrund:伊茨格伦德
 itzquauhtzin:伊斯夸乌特辛
 itzstedt:伊茨施泰特
+itàlia - ciutat del vaticà:义大利-梵蒂冈
 itàlia - ciutat del vaticà:意大利-梵蒂冈
-itàlia - ciutat del vaticà:意大利-梵蒂岡
-itàlia - ciutat del vaticà:義大利-梵蒂岡
 itàlia:yìdàlì
+itàlia:义大利
 itàlia:意大利
-itàlia:意大利 / 義大利
-itàlia:義大利
+itàlia:意大利 / 义大利
+itália - cidade do vaticano:义大利-梵蒂冈
 itália - cidade do vaticano:意大利-梵蒂冈
-itália - cidade do vaticano:意大利-梵蒂岡
-itália - cidade do vaticano:義大利-梵蒂岡
 itália ambassáda:意大利大使馆
 itália gudnekonsuláhta:意大利名誉领事馆
 itália konsuláhta:意大利领事馆
 itália váldokonsuláhta:意大利总领事馆
 itália:yìdàlì
+itália:义大利
 itália:意大利
-itália:意大利 / 義大利
-itália:義大利
+itália:意大利 / 义大利
+itálie - vatikán:义大利-梵蒂冈
 itálie - vatikán:意大利-梵蒂冈
-itálie - vatikán:意大利-梵蒂岡
-itálie - vatikán:義大利-梵蒂岡
 itálie:yìdàlì
+itálie:义大利
 itálie:意大利
-itálie:意大利 / 義大利
-itálie:義大利
+itálie:意大利 / 义大利
+itálíà:义大利
 itálíà:意大利
-itálíà:義大利
 itánagar:巴查
+itâglia:义大利
 itâglia:意大利
-itâglia:義大利
+itâlië:义大利
 itâlië:意大利
-itâlië:義大利
 itä-ayrshire:东艾尔郡
-itä-dunbartonshire:東鄧巴頓郡
+itä-dunbartonshire:东邓巴顿郡
 itä-euroopan tasanko:东欧平原
 itä-flanderi:东弗兰德省
 itä-friisein saaret:东弗里西亚群岛
 itä-götanmaan lääni:东约特兰省
+itä-kap:东开普
 itä-kap:东开普省
-itä-kap:東開普
-itä-kap:東開普省
 itä-kazakstanin alue:东哈萨克斯坦州
 itä-kiinan meri:东海
-itä-kiinan meri:東海
 itä-malvinas:东福克兰岛
 itä-renfrewshire:东伦弗鲁郡
 itä-siperian meri:东西伯利亚海
 itä-siperian talousalue:东西伯利亚经济地区
 itä-timor:东帝汶
-itä-timor:东帝汶 / 東帝汶
-itä-timor:東帝汶
+itä-timor:东帝汶 / 东帝汶
 itä:东部省
 itäinen maakunta:东方省
-itäinen maakunta:東方省
 itämeri:波罗的海
-itämeri:波罗的海/波羅的海
-itämeri:波羅的海
+itämeri:波罗的海/波罗的海
 itävallan kunniakonsulaatti:奥地利名誉领事馆
 itävallan pääkonsulaatti:奥地利总领事馆
 itävallan suurlähetystö:奥地利大使馆
 itävalta:Àodìlì
 itävalta:奥地利
 itävalta:奧地利
+itåleye:义大利
 itåleye:意大利
-itåleye:義大利
+itālija - vatikāns:义大利-梵蒂冈
 itālija - vatikāns:意大利-梵蒂冈
-itālija - vatikāns:意大利-梵蒂岡
-itālija - vatikāns:義大利-梵蒂岡
 itālija:yìdàlì
+itālija:义大利
 itālija:意大利
-itālija:意大利 / 義大利
-itālija:義大利
+itālija:意大利 / 义大利
 itālijas goda konsulāts:意大利名誉领事馆
 itālijas konsulāts:意大利领事馆
 itālijas vēstniecība:意大利大使馆
@@ -18925,6 +18649,6 @@ itānipuru:伊斯坦布尔
 itānipuru:伊斯坦布尔 / 伊斯坦堡
 itō line:伊东线
 itō yōkadō:伊藤洋华堂
-itō-shi:伊東市
-itō:伊東市
+itō-shi:伊东市
+itō:伊东市
 it’s a small world:小小世界

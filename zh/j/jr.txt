@@ -6,73 +6,68 @@ jr central main line (maibara <=> toyohashi):东海道本线
 jr central main line (maibara => toyohashi):东海道本线
 jr central main line (toyohashi => atami):东海道本线
 jr central main line (toyohashi => maibara):东海道本线
-jr central towers:jr中央大廈
+jr central towers:jr中央大厦
 jr central tōkaidō (atami <=> toyohashi):东海道本线
 jr central tōkaidō (atami => toyohashi):东海道本线
 jr central tōkaidō (maibara <=> toyohashi):东海道本线
 jr central tōkaidō (maibara => toyohashi):东海道本线
 jr central tōkaidō (toyohashi => atami):东海道本线
 jr central tōkaidō (toyohashi => maibara):东海道本线
-jr chūō-sōbu line (eastbound):中央·總武緩行線
-jr chūō-sōbu line (westbound):中央·總武緩行線
-jr chūō-sōbu line:中央·總武緩行線
+jr chūō-sōbu line (eastbound):中央·总武缓行线
+jr chūō-sōbu line (westbound):中央·总武缓行线
+jr chūō-sōbu line:中央·总武缓行线
 jr east tōkaidō line (atami => tokyo):东海道本线
 jr east tōkaidō line (tokyo => atami):东海道本线
 jr east tōkaidō line:东海道本线
 jr east tōkaidō-hauptlinie (tokyo => atami):东海道本线
 jr excellence cinema space:jr卓越电影空间
-jr excellence cinema space:jr卓越電影空間
 jr fujinomori eki:jr藤森站
-jr hakata-minami line:博多南線
-jr hakata-minami-linie:博多南線
-jr hakodate main line (a):jr函館本線
-jr hakodate main line (s):jr函館本線
-jr hakodate main line:jr函館本線
+jr hakata-minami line:博多南线
+jr hakata-minami-linie:博多南线
+jr hakodate main line (a):jr函馆本线
+jr hakodate main line (s):jr函馆本线
+jr hakodate main line:jr函馆本线
 jr hanwa line:jr阪和线
 jr hanwa-linie:jr阪和线
 jr hatsukaichi station:jr廿日市站前
 jr hokkaido shinkansen:北海道新干线
 jr hokuriku main line:北陆本线
-jr hokuriku main line:北陸本線
-jr hōhi main line:豐肥本線
-jr hōhi-hauptahn:豐肥本線
+jr hōhi main line:丰肥本线
+jr hōhi-hauptahn:丰肥本线
 jr kabe line:jr山阳线
-jr kagoshima main line:jr 鹿兒島本線
-jr kagoshima main line:jr鹿兒島本線
-jr kagoshima-hauptlinie:jr 鹿兒島本線
-jr kagoshima-hauptlinie:jr鹿兒島本線
-jr kagoshima-honsen:jr 鹿兒島本線
-jr kagoshima-honsen:jr鹿兒島本線
-jr kanda manseibashi building:jr萬世橋大樓
+jr kagoshima main line:jr 鹿儿岛本线
+jr kagoshima main line:jr鹿儿岛本线
+jr kagoshima-hauptlinie:jr 鹿儿岛本线
+jr kagoshima-hauptlinie:jr鹿儿岛本线
+jr kagoshima-honsen:jr 鹿儿岛本线
+jr kagoshima-honsen:jr鹿儿岛本线
+jr kanda manseibashi building:jr万世桥大楼
 jr kansai airport line:jr关西机场线
 jr kansai airport line:南海电气铁道机场线
 jr kansai-flughafenlinie:jr关西机场线
 jr kashima line:jr鹿岛线
 jr kashima-sen:jr鹿岛线
-jr keihin-tohoku:京濱東北線
-jr keihin-tōhoku:京濱東北線
-jr ligne principale hōhi:豐肥本線
-jr miyajima ferry:宮島渡輪
-jr nippō main line:jr 日豐本線
-jr nippō main line:jr日豐本線
-jr sanin main line:山陰本線
-jr sanin-hauptlinie:山陰本線
+jr keihin-tohoku:京滨东北线
+jr keihin-tōhoku:京滨东北线
+jr ligne principale hōhi:丰肥本线
+jr miyajima ferry:宮岛渡轮
+jr nippō main line:jr 日丰本线
+jr nippō main line:jr日丰本线
+jr sanin main line:山阴本线
+jr sanin-hauptlinie:山阴本线
 jr sany main line:jr山
 jr sany-hauptlinie:jr山
 jr sanyo:jr山阳线
 jr sanyō main line:jr山阳线
 jr sanyō-hauptlinie:jr山阳线
 jr sanyō-hoofdlijn:jr山阳线
-jr sentoraru-tawāzu:jr中央大廈
-jr shōnan–shinjuku-rain:山手貨物線
+jr sentoraru-tawāzu:jr中央大厦
 jr shōnan–shinjuku-rain:山手货物线
 jr sōbu honsen:总武本线
-jr sōbu honsen:總武本線
 jr tohoku shinkansen:东北新干线
-jr tohoku shinkansen:東北新幹線
-jr tokaido shinkansen:東海道新幹線
+jr tokaido shinkansen:东海道新干线
 jr tower hotel nikko sapporo:札幌jr大厦日航酒店
-jr tōkaido shinkansen:京濱東北線
+jr tōkaido shinkansen:京滨东北线
 jr tōkaidō main line (motomachi => tokyo):东海道本线
 jr tōkaidō main line (tokyo => motomachi):东海道本线
 jr tōkaidō main line:东海道本线
@@ -82,114 +77,98 @@ jr tōkaidō-hauptlinie (tokyo => motomachi):东海道本线
 jr tōkaidō-hauptlinie:东海道本线
 jr tōkaidō-hauptlinie:北陆本线
 jr tōkaidō-hauptlinie:北陆本线（琵琶湖线）
-jr tōkaidō-hauptlinie:北陸本線
-jr tōkaidō-hauptlinie:北陸本線（琵琶湖線）
 jr tōkaidō-honsen:北陆本线
 jr tōkaidō-honsen:北陆本线（琵琶湖线）
-jr tōkaidō-honsen:北陸本線
-jr tōkaidō-honsen:北陸本線（琵琶湖線）
 jr tōkaidō-honsen:御殿场线
-jr tōkaidō-honsen:御殿場線
-jr tōkaidō-shinkansen:東海道新幹線
+jr tōkaidō-shinkansen:东海道新干线
 jr tōzai line:jr东西线
-jr tōzai line:jr東西線
 jr tōzai-sen:jr东西线
-jr tōzai-sen:jr東西線
 jr uetsu line:jr羽越线
 jr west gate:西口
 jr yamanote line (inner):jr山手线 (内圈)
 jr yamanote line (outer):jr山手线 (外圈)
 jr yamanote linie (entgegen dem uhrzeigersinn):jr山手线 (内圈)
 jr yamanote linie (im uhrzeigersinn):jr山手线 (外圈)
-jr yamanote:山手線
-jr yamanōtesn–kamotu-sen:山手貨物線
+jr yamanote:山手线
 jr yamanōtesn–kamotu-sen:山手货物线
 jr Ōito-sen:jr大丝线
-jr Ōito-sen:jr大絲線
-jr 가고시마 본선:jr 鹿兒島本線
-jr 가고시마 본선:jr鹿兒島本線
+jr 가고시마 본선:jr 鹿儿岛本线
+jr 가고시마 본선:jr鹿儿岛本线
 jr 간사이공항선:jr关西机场线
 jr 도카이도선:东海道本线
-jr 센트럴 타워즈:jr中央大廈
+jr 센트럴 타워즈:jr中央大厦
 jr 아지나 역:jr阿品站
 jr 야마노테선:jr山手线 (外圈)
-jr 오사카환상선 (내부):大阪環狀線
-jr 오사카환상선 (외부):大阪環狀線
-jr 오사카환상선:大阪環狀線
+jr 오사카환상선 (내부):大阪环状线
+jr 오사카환상선 (외부):大阪环状线
+jr 오사카환상선:大阪环状线
 jr 하쓰카이치 역:jr廿日市站前
 jr-fujinomori station:jr藤森站
-jrenaada:格林納達
 jrenaada:格林纳达
-jrenaada:格林纳达 / 格瑞那達
-jrenaada:格瑞那達
+jrenaada:格林纳达 / 格瑞那达
+jrenaada:格瑞那达
 jreshchatyk:赫雷夏蒂克站
 jriescheland:xīlà
 jriescheland:希腊
-jriescheland:希腊/希臘
-jriescheland:希臘
+jriescheland:希腊/希腊
 jristivka:赫里斯季夫卡
-jrshen digital culture:智紳數位文化
-jrustalni:赫魯斯塔利內
+jrshen digital culture:智绅数位文化
+jrustalni:赫鲁斯塔利內
 jruußbrettannije:英国
-jruußbrettannije:英国 / 英國
-jruußbrettannije:英國
+jruußbrettannije:英国 / 英国
 jrußbritannie:英国
-jrußbritannie:英国 / 英國
-jrußbritannie:英國
+jrußbritannie:英国 / 英国
 jródivka:赫罗迪夫卡
 jröhnland:gélínglán
 jröhnland:格陵兰
-jröhnland:格陵蘭
 jrタワーホテル日航札幌:札幌jr大厦日航酒店
-jr中央・総武緩行線:三鷹=>千葉:中央·總武緩行線
-jr中央・総武緩行線:中央·總武緩行線
-jr中央・総武緩行線:千葉=>三鷹:中央·總武緩行線
-jr京浜東北線:京濱東北線
-jr函館本線 (小樽=>札幌):jr函館本線
-jr函館本線 (岩見沢=>札幌):jr函館本線
-jr函館本線 (札幌<=>小樽):jr函館本線
-jr函館本線 (札幌<=>岩見沢):jr函館本線
-jr函館本線 (札幌=>小樽):jr函館本線
-jr函館本線 (札幌=>岩見沢):jr函館本線
-jr北陸線:北陆本线
-jr北陸線:北陸本線
-jr可部線:jr山阳线
-jr大糸線:jr大丝线
-jr大糸線:jr大絲線
-jr大阪環状線 (内回り):大阪環狀線
-jr大阪環状線 (外回り):大阪環狀線
-jr大阪環状線:大阪環狀線
-jr山手線 (内回り):jr山手线 (内圈)
-jr山手線 (外回り):jr山手线 (外圈)
-jr山陰線:山陰本線
-jr山陽本線:jr山
-jr山陽本線:jr山阳线
-jr山陽線:jr山阳线
-jr日豊本線:jr 日豐本線
-jr日豊本線:jr日豐本線
-jr東海道本線 (東京<=>熱海):东海道本线
-jr東海道本線 (東京=>熱海):东海道本线
-jr東海道本線 (東京=>神戸):东海道本线
-jr東海道本線 (熱海<=>豊橋):东海道本线
-jr東海道本線 (熱海=>東京):东海道本线
-jr東海道本線 (熱海=>豊橋):东海道本线
-jr東海道本線 (米原<=>豊橋):东海道本线
-jr東海道本線 (米原=>豊橋):东海道本线
-jr東海道本線 (豊橋=>熱海):东海道本线
-jr東海道本線 (豊橋=>米原):东海道本线
-jr東海道本線:东海道本线
-jr東西線:jr东西线
-jr海峡線:道南漁火鐵道線
-jr神戸線（山陽本線）:jr山阳线
+jr东海道本线 (东京<=>热海):东海道本线
+jr东海道本线 (东京=>热海):东海道本线
+jr东海道本线 (东京=>神戸):东海道本线
+jr东海道本线 (热海<=>豊桥):东海道本线
+jr东海道本线 (热海=>东京):东海道本线
+jr东海道本线 (热海=>豊桥):东海道本线
+jr东海道本线 (米原<=>豊桥):东海道本线
+jr东海道本线 (米原=>豊桥):东海道本线
+jr东海道本线 (豊桥=>热海):东海道本线
+jr东海道本线 (豊桥=>米原):东海道本线
+jr东海道本线:东海道本线
+jr东西线:jr东西线
+jr中央・総武缓行线:三鹰=>千叶:中央·总武缓行线
+jr中央・総武缓行线:中央·总武缓行线
+jr中央・総武缓行线:千叶=>三鹰:中央·总武缓行线
+jr京浜东北线:京滨东北线
+jr函馆本线 (小樽=>札幌):jr函馆本线
+jr函馆本线 (岩见沢=>札幌):jr函馆本线
+jr函馆本线 (札幌<=>小樽):jr函馆本线
+jr函馆本线 (札幌<=>岩见沢):jr函馆本线
+jr函馆本线 (札幌=>小樽):jr函馆本线
+jr函馆本线 (札幌=>岩见沢):jr函馆本线
+jr北陆线:北陆本线
+jr可部线:jr山阳线
+jr大糸线:jr大丝线
+jr大阪环状线 (内回り):大阪环状线
+jr大阪环状线 (外回り):大阪环状线
+jr大阪环状线:大阪环状线
+jr山手线 (内回り):jr山手线 (内圈)
+jr山手线 (外回り):jr山手线 (外圈)
+jr山阳本线:jr山
+jr山阳本线:jr山阳线
+jr山阳线:jr山阳线
+jr山阴线:山阴本线
+jr日豊本线:jr 日丰本线
+jr日豊本线:jr日丰本线
+jr海峡线:道南渔火铁道线
+jr神戸线（山阳本线）:jr山阳线
 jr藤森駅:jr藤森站
 jr西口:西口
-jr豊肥本線 (大分->熊本):豐肥本線
-jr関西空港線:jr关西机场线
-jr関西空港線:南海电气铁道机场线
-jr阪和線:jr阪和线
+jr豊肥本线 (大分->熊本):丰肥本线
+jr関西空港线:jr关西机场线
+jr関西空港线:南海电气铁道机场线
+jr阪和线:jr阪和线
 jr阿品駅:jr阿品站
-jr鹿児島本線:jr 鹿兒島本線
-jr鹿児島本線:jr鹿兒島本線
-jr鹿島線:jr鹿岛线
-jr간다 만세이바시 빌딩:jr萬世橋大樓
-jr오사카환상선:大阪環狀線
+jr鹿児岛本线:jr 鹿儿岛本线
+jr鹿児岛本线:jr鹿儿岛本线
+jr鹿岛线:jr鹿岛线
+jr간다 만세이바시 빌딩:jr万世桥大楼
+jr오사카환상선:大阪环状线

@@ -1,7 +1,7 @@
-npc:全國加油站
-npc:全國加油站(楊梅幼獅站)
-nph insulin:中效胰島素
-npmps:北角衞理小學
+npc:全国加油站
+npc:全国加油站(杨梅幼狮站)
+nph insulin:中效胰岛素
+npmps:北角衞理小学
 npo bazalt:玄武岩设计局
 npo energomash:动力机械科研生产联合体
 npo hub taipei:台北 npo 聚落
@@ -14,13 +14,12 @@ npr news:全国公共广播电台新闻
 npr says:全国公共广播电台说
 npr:全国公共广播电台
 nptu linsen campus:ㄆㄧㄥˊㄉㄨㄥㄉㄚˋㄒㄩㄝˊㄌㄧㄣˊㄙㄣㄓㄢˋ
-nptu linsen campus:屏東大學林森站
+nptu linsen campus:屏东大学林森站
 nptu minsheng campus:píngdōngdàxuémínshēngzhàn
 nptu minsheng campus:ㄆㄧㄥˊㄉㄨㄥㄉㄚˋㄒㄩㄝˊㄇㄧㄣˊㄕㄥㄓㄢˋ
 nptu minsheng campus:屏东大学民生站
-nptu minsheng campus:屏東大學民生站
 nptu pingshang campus:ㄆㄧㄥˊㄉㄨㄥㄉㄚˋㄒㄩㄝˊㄆㄧㄥˊㄕㄤㄓㄢˋ
-nptu pingshang campus:屏東大學屏商站
-npv animal hospital:npv 動物醫院
-npv stray animal medical centre:npv社區動物醫療中心
-npv traditional chinese medicine and acupuncture centre:npv 動物中醫藥及針灸中心
+nptu pingshang campus:屏东大学屏商站
+npv animal hospital:npv 动物医院
+npv stray animal medical centre:npv社区动物医疗中心
+npv traditional chinese medicine and acupuncture centre:npv 动物中医药及针灸中心

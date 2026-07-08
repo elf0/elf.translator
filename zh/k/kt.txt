@@ -1,35 +1,30 @@
 kt building:开天大厦
 kt gwanghwamun building east:kt 光化门大厦东
 kt gwanghwamun building west:kt光化门大楼西
-kt marina:啟德海灣
-kt space:課廳演創空間
+kt marina:启德海湾
+kt space:课厅演创空间
 kt 함양지사:kt hamyang大厦
-kta centre:廣泰中心
-ktenoura:特諾拉蟲
+kta centre:广泰中心
+ktenoura:特诺拉虫
 kth royal institute of technology and stockholm university:皇家理工学院和斯德哥尔摩大学
 kth royal institute of technology:皇家理工学院
 kting voar:旋角牛
 ktl adventure guesthouse:ktl国际青年旅舍
 ktm batu gajah:华都牙也马来亚铁道
-ktm batu gajah:華都牙也馬來亞鐵道
 ktm commuter wahyu garden:华友花园ktm火车站
-ktm commuter wahyu garden:華友花園ktm火車站
-ktm complex batu gajah:鐵道局華都牙也中心
 ktm complex batu gajah:铁道局华都牙也中心
 ktm east coast railway line:东海岸铁路线
 ktm ets:马来亚铁道电动列车服务
 ktm intercity:马来亚铁道城际铁路
 ktm komuter northern sector:马来亚铁道通勤铁路北马区
 ktm komuter taman wahyu:华友花园ktm火车站
-ktm komuter taman wahyu:華友花園ktm火車站
 ktm komuter:马来亚铁道通勤铁路
 ktm kuala lumpur:吉隆坡站
 ktm museum:马来亚铁道博物馆
 ktm west coast railway line:西海岸铁路线
-ktm:馬來亞鐵道
 ktm:马来亚铁道
-ktn-fln ndas community liaison centre:古洞北及粉嶺北新發展區社區聯絡中心
-kt光化門(クァンファムン)ビル イースト:kt 光化门大厦东
-kt光化門(クァンファムン)ビル ウェスト:kt光化门大楼西
+ktn-fln ndas community liaison centre:古洞北及粉岭北新发展区社区联络中心
+kt光化门(クァンファムン)ビル イースト:kt 光化门大厦东
+kt光化门(クァンファムン)ビル ウェスト:kt光化门大楼西
 kt광화문빌딩 west:kt光化门大楼西
 kt광화문빌딩east:kt 光化门大厦东

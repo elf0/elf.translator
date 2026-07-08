@@ -1,14 +1,11 @@
 bm garden:大山脚英达花园
 bm place 268:大山脚商城
-bm place 268:大山腳商城
 bm utama:万达花园
 bm yam rice kopitiam:大山脚芋头饭
-bm yam rice kopitiam:大山腳芋頭飯
 bmcpc footpath:华永行人径
-bmcpc footpath:華永行人徑
 bmk e-commerce park:bìmàokè diànshāngyuán
-bmk e-commerce park:必茂客電商園
-bmo noire:名偵探嗶莫
+bmk e-commerce park:必茂客电商园
+bmo noire:名侦探嗶莫
 bms world mission:大英浸信会
 bmw brilliance auto:华晨宝马汽车
 bmw brilliance automotive - shenyang lydia plant:华晨宝马里达工厂
@@ -16,12 +13,11 @@ bmw brilliance automotive - shenyang tiexi plant:华晨宝马铁西工厂
 bmw brilliance:华晨宝马
 bmw central building:宝马汽车公司中央大楼
 bmw championship:宝马锦标赛
-bmw headquarters:寶馬公司總部大廈
-bmw house:寶馬大廈
+bmw headquarters:宝马公司总部大厦
+bmw house:宝马大厦
 bmw motorcycle:宝马摩托车
 bmw motorrad:宝马摩托
 bmw museum:宝马博物馆
-bmw museum:寶馬博物館
 bmw sauber:宝马索伯车队
 bmw service:bmw 汽车维修保养服务中心
 bmw welt:宝马世界

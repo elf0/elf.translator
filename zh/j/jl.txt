@@ -1,115 +1,76 @@
-jladi (gaoxin campus) female dormitory:長春建築學院（高新校區）女生公寓
 jladi (gaoxin campus) female dormitory:长春建筑学院女生公寓
 jladi (gaoxin campus) female dormitory:长春建筑学院（高新校区）女生公寓
-jladi (gaoxin campus) male dormitory:長春建築學院（高新校區）男生公寓
 jladi (gaoxin campus) male dormitory:长春建筑学院男生公寓
 jladi (gaoxin campus) male dormitory:长春建筑学院（高新校区）男生公寓
-jladi (gaoxin campus) students dormitory building m:長春建築學院（高新校區）學生公寓 m 座
 jladi (gaoxin campus) students dormitory building m:长春建筑学院学生公寓 m 座
 jladi (gaoxin campus) students dormitory building m:长春建筑学院（高新校区）学生公寓 m 座
-jladi administration building no. 1:長春建築學院行政樓 1
 jladi administration building no. 1:长春建筑学院行政楼 1
-jladi administration building no. 3:長春建築學院行政樓 3
 jladi administration building no. 3:长春建筑学院行政楼 3
 jladi alumni hall:校友会馆
-jladi alumni hall:長春建築學院校友會館
 jladi alumni hall:长春建筑学院校友会馆
 jladi architecture and planning student dormitory:建筑与规划学院学生公寓
-jladi architecture and planning student dormitory:長春建築學院建築與規劃學院學生公寓
 jladi architecture and planning student dormitory:长春建筑学院建筑与规划学院学生公寓
-jladi board of trustees:長春建築學院校董會
 jladi board of trustees:长春建筑学院校董会
 jladi civil engineering student dormitory (h3):土木学生公寓（h3）
-jladi civil engineering student dormitory (h3):長春建築學院土木學生公寓（h3）
 jladi civil engineering student dormitory (h3):长春建筑学院土木学生公寓（h3）
 jladi civil engineering student dormitory (h4):土木学生公寓（h4）
-jladi civil engineering student dormitory (h4):長春建築學院土木學生公寓（h4）
 jladi civil engineering student dormitory (h4):长春建筑学院土木学生公寓（h4）
 jladi comprehensive dormitory:综合公寓
-jladi comprehensive dormitory:長春建築學院綜合公寓
 jladi comprehensive dormitory:长春建筑学院综合公寓
 jladi department of basic education:基础教学部
-jladi department of basic education:長春建築學院基礎教學部
 jladi department of basic education:长春建筑学院基础教学部
 jladi electrical engineering female dormitory (h7):电气女生公寓（h7）
-jladi electrical engineering female dormitory (h7):長春建築學院電氣女生公寓（h7）
 jladi electrical engineering female dormitory (h7):长春建筑学院电气女生公寓（h7）
 jladi electrical engineering student dormitory (h5):电气学生公寓（h5）
-jladi electrical engineering student dormitory (h5):長春建築學院電氣學生公寓（h5）
 jladi electrical engineering student dormitory (h5):长春建筑学院电气学生公寓（h5）
 jladi faculty apartments:教师公寓
-jladi faculty apartments:長春建築學院教師公寓
 jladi faculty apartments:长春建筑学院教师公寓
 jladi gymnasium:体育场
-jladi gymnasium:長春建築學院體育場
 jladi gymnasium:长春建筑学院体育场
-jladi hospital:長春建築學院校醫院
 jladi hospital:长春建筑学院校医院
 jladi lecture hall:报告厅
-jladi lecture hall:長春建築學院報告廳
 jladi lecture hall:长春建筑学院报告厅
-jladi library:長春建築學院圖書館
 jladi library:长春建筑学院图书馆
 jladi lotus pond:荷花池
-jladi lotus pond:長春建築學院荷花池
 jladi lotus pond:长春建筑学院荷花池
 jladi management female dormitory:管理女生公寓
-jladi management female dormitory:長春建築學院管理女生公寓
 jladi management female dormitory:长春建筑学院管理女生公寓
 jladi management male dormitory (area d):管理男生公寓（d 区）
-jladi management male dormitory (area d):長春建築學院管理男生公寓（d 區）
 jladi management male dormitory (area d):长春建筑学院管理男生公寓（d 区）
 jladi power plant:动力车间
-jladi power plant:長春建築學院動力車間
 jladi power plant:长春建筑学院动力车间
 jladi public arts student dormitory (area a):公共艺术学院学生公寓（a 区）
-jladi public arts student dormitory (area a):長春建築學院公共藝術學院學生公寓（a 區）
 jladi public arts student dormitory (area a):长春建筑学院公共艺术学院学生公寓（a 区）
 jladi public arts student dormitory (area b):公共艺术学院学生公寓（b 区）
-jladi public arts student dormitory (area b):長春建築學院公共藝術學院學生公寓（b 區）
 jladi public arts student dormitory (area b):长春建筑学院公共艺术学院学生公寓（b 区）
 jladi public arts student dormitory (area c):公共艺术学院学生公寓（c 区）
-jladi public arts student dormitory (area c):長春建築學院公共藝術學院學生公寓（c 區）
 jladi public arts student dormitory (area c):长春建筑学院公共艺术学院学生公寓（c 区）
 jladi school of architecture and planning:建筑与规划学院
-jladi school of architecture and planning:長春建築學院建築與規劃學院
 jladi school of architecture and planning:长春建筑学院建筑与规划学院
 jladi school of artificial intelligence industry:人工智能产业学院
-jladi school of artificial intelligence industry:長春建築學院人工智能產業學院
 jladi school of artificial intelligence industry:长春建筑学院人工智能产业学院
 jladi school of artificial intelligence:人工智能学院
-jladi school of artificial intelligence:長春建築學院人工智能學院
 jladi school of artificial intelligence:长春建筑学院人工智能学院
 jladi school of civil engineering:土木工程学院
-jladi school of civil engineering:長春建築學院土木工程學院
 jladi school of civil engineering:长春建筑学院土木工程学院
 jladi school of electrical and information engineering:电气信息学院
-jladi school of electrical and information engineering:長春建築學院電氣信息學院
 jladi school of electrical and information engineering:长春建筑学院电气信息学院
 jladi school of management:管理学院
-jladi school of management:長春建築學院管理學院
 jladi school of management:长春建筑学院管理学院
 jladi school of public arts:公共艺术学院
-jladi school of public arts:長春建築學院公共藝術學院
 jladi school of public arts:长春建筑学院公共艺术学院
 jladi school of transportation:交通学院
-jladi school of transportation:長春建築學院交通學院
 jladi school of transportation:长春建筑学院交通学院
 jladi student activity center:学生社团大楼
-jladi student activity center:長春建築學院學生社團大樓
 jladi student activity center:长春建筑学院学生社团大楼
 jladi student canteen no. 1:学生一食堂
-jladi student canteen no. 1:長春建築學院學生一食堂
 jladi student canteen no. 1:长春建筑学院学生一食堂
 jladi student canteen no. 2:学生二食堂
-jladi student canteen no. 2:長春建築學院學生二食堂
 jladi student canteen no. 2:长春建筑学院学生二食堂
 jladi student works exhibition hall:学生作品展馆
-jladi student works exhibition hall:長春建築學院學生作品展館
 jladi student works exhibition hall:长春建筑学院学生作品展馆
-jladi transportation student dormitory:長春建築學院交通學院學生公寓
 jladi transportation student dormitory:长春建筑学院交通学院学生公寓
-jlesvigän-holstän:什勒斯維希—霍爾斯坦邦
+jlesvigän-holstän:什勒斯维希—霍尔斯坦邦
 jlesvigän-holstän:石勒苏益格-荷尔斯泰因
 jlesvigän-holstän:石勒苏益格—荷尔斯泰因州
 jliankang 10th street:健康十街
@@ -118,80 +79,56 @@ jliankang 3st street:健康三路
 jliankang 8st street:健康八街
 jlobin:日洛宾
 jlobine:日洛宾
-jls advisory sdn bhd:大馬綠洲房產諮詢有限公司
 jls advisory sdn bhd:大马绿洲房产咨询有限公司
+jls advisory sdn bhd:大马绿洲房产谘询有限公司
 jlsu college of physical education cafeteria:体育学院食堂
-jlsu college of physical education cafeteria:體育學院食堂
 jlsu college of physical education comprehensive training gymnasium:体育学院综合训练馆
 jlsu college of physical education comprehensive training gymnasium:综合训练馆
-jlsu college of physical education comprehensive training gymnasium:體育學院綜合訓練館
 jlsu college of physical education library:体育学院图书馆
-jlsu college of physical education library:體育學院圖書館
 jlsu complex building:吉林体育学院综合楼
-jlsu complex building:吉林體育學院綜合樓
 jlsu complex building:综合楼
 jlsu equipment center / field and track cycling center / summer support center:吉林体育学院装备中心/田自中心/夏保中心
-jlsu equipment center / field and track cycling center / summer support center:吉林體育學院裝備中心/田自中心/夏保中心
 jlsu equipment center / field and track cycling center / summer support center:装备中心/田自中心/夏保中心
 jlsu faculty residential buiding no. 10:体育学院家属楼 10 栋
 jlsu faculty residential buiding no. 10:体院家属楼 10 栋
-jlsu faculty residential buiding no. 10:體育學院家屬樓 10 棟
 jlsu faculty residential buiding no. 11:体育学院家属楼 11 栋
 jlsu faculty residential buiding no. 11:体院家属楼 11 栋
-jlsu faculty residential buiding no. 11:體育學院家屬樓 11 棟
 jlsu faculty residential buiding no. 12:体育学院家属楼 12 栋
 jlsu faculty residential buiding no. 12:体院家属楼 12 栋
-jlsu faculty residential buiding no. 12:體育學院家屬樓 12 棟
 jlsu faculty residential buiding no. 1:体育学院家属楼 1 栋
 jlsu faculty residential buiding no. 1:体院家属楼 1 栋
-jlsu faculty residential buiding no. 1:體育學院家屬樓 1 棟
 jlsu faculty residential buiding no. 2:体育学院家属楼 2 栋
 jlsu faculty residential buiding no. 2:体院家属楼 2 栋
-jlsu faculty residential buiding no. 2:體育學院家屬樓 2 棟
 jlsu faculty residential buiding no. 3:体育学院家属楼 3 栋
 jlsu faculty residential buiding no. 3:体院家属楼 3 栋
-jlsu faculty residential buiding no. 3:體育學院家屬樓 3 棟
 jlsu faculty residential buiding no. 4:体育学院家属楼 4 栋
 jlsu faculty residential buiding no. 4:体院家属楼 4 栋
-jlsu faculty residential buiding no. 4:體育學院家屬樓 4 棟
 jlsu faculty residential buiding no. 5:体育学院家属楼 5 栋
 jlsu faculty residential buiding no. 5:体院家属楼 5 栋
-jlsu faculty residential buiding no. 5:體育學院家屬樓 5 棟
 jlsu faculty residential buiding no. 6:体育学院家属楼 6 栋
 jlsu faculty residential buiding no. 6:体院家属楼 6 栋
-jlsu faculty residential buiding no. 6:體育學院家屬樓 6 棟
 jlsu faculty residential buiding no. 7:体育学院家属楼 7 栋
 jlsu faculty residential buiding no. 7:体院家属楼 7 栋
-jlsu faculty residential buiding no. 7:體育學院家屬樓 7 棟
 jlsu faculty residential buiding no. 8:体育学院家属楼 8 栋
 jlsu faculty residential buiding no. 8:体院家属楼 8 栋
-jlsu faculty residential buiding no. 8:體育學院家屬樓 8 棟
 jlsu faculty residential buiding no. 9:体育学院家属楼 9 栋
 jlsu faculty residential buiding no. 9:体院家属楼 9 栋
-jlsu faculty residential buiding no. 9:體育學院家屬樓 9 棟
+jlsu indoor tennis hall:吉林体育学院室內网球馆
 jlsu indoor tennis hall:吉林体育学院室内网球馆
-jlsu indoor tennis hall:吉林體育學院室內網球館
 jlsu indoor tennis hall:室内网球馆
+jlsu indoor track and field stadium:吉林体育学院室內田径馆
 jlsu indoor track and field stadium:吉林体育学院室内田径馆
-jlsu indoor track and field stadium:吉林體育學院室內田徑館
 jlsu indoor track and field stadium:室内田径馆
 jlsu sports school cafeteria / training hall:体育学院体校食堂/训练馆
-jlsu sports school cafeteria / training hall:體育學院體校食堂/訓練館
 jlsu sports school cafeteria:体校食堂
 jlsu sports school cafeteria:吉林体育学院体校食堂
-jlsu sports school cafeteria:吉林體育學院體校食堂
 jlsu student apartment no. 1:吉林体育学院学生 1 公寓
-jlsu student apartment no. 1:吉林體育學院學生 1 公寓
 jlsu summer support center athlete cafeteria:吉林体育学院夏保中心运动员食堂
-jlsu summer support center athlete cafeteria:吉林體育學院夏保中心運動員食堂
 jlsu summer support center athlete cafeteria:夏保中心运动员食堂
 jlsu summer support center athlete dormitory:吉林体育学院夏保中心运动员宿舍
-jlsu summer support center athlete dormitory:吉林體育學院夏保中心運動員宿舍
 jlsu summer support center athlete dormitory:夏保中心运动员宿舍
 jlsu summer support center outdoor track and field ground:吉林体育学院夏保中心室外田径场
-jlsu summer support center outdoor track and field ground:吉林體育學院夏保中心室外田徑場
 jlsu summer support center outdoor track and field ground:夏保中心室外田径场
 jlsu zhixing building:吉林体育学院知行楼
-jlsu zhixing building:吉林體育學院知行樓
 jlsu zhixing building:知行楼
 jlóbin:日洛宾

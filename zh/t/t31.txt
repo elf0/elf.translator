@@ -1,37 +1,35 @@
-t1 (ga quốc tế):第一航廈
-t1 (international terminal):第一航廈
+t1 (ga quốc tế):第一航厦
+t1 (international terminal):第一航厦
 t1 departure crescent:第一搭客大厦离境弯
 t1 east hall:t1 东大堂
-t1 east hall:t1 東大堂
 t1 midfield concourse:t1 中场客运廊
-t1 midfield concourse:t1 中場客運廊
-t1 public toilet at taipa sculpture garden:t1 氹仔浮雕公園公廁
-t1 sanitário público do jardim de esculturas da taipa:t1 氹仔浮雕公園公廁
-t1 satellite concourse:t1 衛星客運廊
+t1 public toilet at taipa sculpture garden:t1 氹仔浮雕公园公厕
+t1 sanitário público do jardim de esculturas da taipa:t1 氹仔浮雕公园公厕
+t1 satellite concourse:t1 卫星客运廊
 t1 west hall:t1 西大堂
 t10 public toilet at leisure area of taipa waterfront (near rotunda dos jogos da Ásia oriental):t10 凼仔海滨休憩区(近东亚运圆形地)公厕
-t10 public toilet at leisure area of taipa waterfront (near rotunda dos jogos da Ásia oriental):t10 氹仔海濱休憩區(近東亞運圓形地)公廁
+t10 public toilet at leisure area of taipa waterfront (near rotunda dos jogos da Ásia oriental):t10 氹仔海滨休憩区(近东亚运圆形地)公厕
 t10 zona de lazer da marginal da taipa (perto da rotunda dos jogos da Ásia oriental):t10 凼仔海滨休憩区(近东亚运圆形地)公厕
-t10 zona de lazer da marginal da taipa (perto da rotunda dos jogos da Ásia oriental):t10 氹仔海濱休憩區(近東亞運圓形地)公廁
-t11 public toilet next to entrance and exit of hengqin tunnel in taipa:t11 橫琴河底行人隧道(氹仔出入口側)公廁
-t11 túnel subaquático para peões do novo campus da universidade de macau na ilha henqin (saída na taipa):t11 橫琴河底行人隧道(氹仔出入口側)公廁
-t12 public toilet in the south of the campus of university of macau in hengqin (near riverside):t12 橫琴澳大校區大學南(近河邊)公廁
-t12 zona sul do campus da universidade de macau em hengqin (perto do rio):t12 橫琴澳大校區大學南(近河邊)公廁
-t13 public toilet in the north of the campus of university of macau in hengqin (near coach stop):t13 橫琴澳大校區大學北(近旅遊巴站)公廁
-t13 zona norte do campus da universidade de macau em hengqin (perto da paragem dos autocarros de turismo):t13 橫琴澳大校區大學北(近旅遊巴站)公廁
-t14 public toilet at garden of flower city in taipa:t14 氹仔花城公園公廁
-t14 sanitários públicos do jardim da cidade das flores, taipa:t14 氹仔花城公園公廁
-t15 public toilet in viewing platform of taipa pequena, taipa:t15 氹仔小潭山觀景台公廁
-t15 sanitário público do miradouro da colina da taipa pequena, taipa:t15 氹仔小潭山觀景台公廁
-t16 public toilet in the leisure area in avenida do oceano, taipa:t16 氹仔海洋大馬路休憩區公廁
-t16 sanitário público da zona de lazer da avenida do oceano, taipa:t16 氹仔海洋大馬路休憩區公廁
+t10 zona de lazer da marginal da taipa (perto da rotunda dos jogos da Ásia oriental):t10 氹仔海滨休憩区(近东亚运圆形地)公厕
+t11 public toilet next to entrance and exit of hengqin tunnel in taipa:t11 横琴河底行人隧道(氹仔出入口侧)公厕
+t11 túnel subaquático para peões do novo campus da universidade de macau na ilha henqin (saída na taipa):t11 横琴河底行人隧道(氹仔出入口侧)公厕
+t12 public toilet in the south of the campus of university of macau in hengqin (near riverside):t12 横琴澳大校区大学南(近河边)公厕
+t12 zona sul do campus da universidade de macau em hengqin (perto do rio):t12 横琴澳大校区大学南(近河边)公厕
+t13 public toilet in the north of the campus of university of macau in hengqin (near coach stop):t13 横琴澳大校区大学北(近旅游巴站)公厕
+t13 zona norte do campus da universidade de macau em hengqin (perto da paragem dos autocarros de turismo):t13 横琴澳大校区大学北(近旅游巴站)公厕
+t14 public toilet at garden of flower city in taipa:t14 氹仔花城公园公厕
+t14 sanitários públicos do jardim da cidade das flores, taipa:t14 氹仔花城公园公厕
+t15 public toilet in viewing platform of taipa pequena, taipa:t15 氹仔小潭山观景台公厕
+t15 sanitário público do miradouro da colina da taipa pequena, taipa:t15 氹仔小潭山观景台公厕
+t16 public toilet in the leisure area in avenida do oceano, taipa:t16 氹仔海洋大马路休憩区公厕
+t16 sanitário público da zona de lazer da avenida do oceano, taipa:t16 氹仔海洋大马路休憩区公厕
 t17 public toilet in the parking area for coaches at taipa ferry terminal:t17 凼仔客运码头旅游巴停泊区公厕
-t17 public toilet in the parking area for coaches at taipa ferry terminal:t17 氹仔客運碼頭旅遊巴停泊區公廁
+t17 public toilet in the parking area for coaches at taipa ferry terminal:t17 氹仔客运码头旅游巴停泊区公厕
 t17 sanitário público da zona de estacionamento de carros de turismo do terminal marítimo de passageiros da taipa:t17 凼仔客运码头旅游巴停泊区公厕
-t17 sanitário público da zona de estacionamento de carros de turismo do terminal marítimo de passageiros da taipa:t17 氹仔客運碼頭旅遊巴停泊區公廁
+t17 sanitário público da zona de estacionamento de carros de turismo do terminal marítimo de passageiros da taipa:t17 氹仔客运码头旅游巴停泊区公厕
 t18 public toilet at taipa ferry terminal:t18 凼仔客运码头公厕
-t18 public toilet at taipa ferry terminal:t18 氹仔客運碼頭公廁
+t18 public toilet at taipa ferry terminal:t18 氹仔客运码头公厕
 t18 sanitário público do terminal marítimo de passageiros da taipa:t18 凼仔客运码头公厕
-t18 sanitário público do terminal marítimo de passageiros da taipa:t18 氹仔客運碼頭公廁
-t19 public toilet in avenida da praia, taipa:t19 氹仔龍環葡韻公廁
-t19 sanitário público da avenida da praia, taipa:t19 氹仔龍環葡韻公廁
+t18 sanitário público do terminal marítimo de passageiros da taipa:t18 氹仔客运码头公厕
+t19 public toilet in avenida da praia, taipa:t19 氹仔龙环葡韵公厕
+t19 sanitário público da avenida da praia, taipa:t19 氹仔龙环葡韵公厕

@@ -1153,7 +1153,7 @@ us ballistic missile submarine:美国弹道导弹潜艇
 us ballistic missile:美国弹道导弹
 us banana:美国香蕉
 us band:美国乐队
-us bangla airlines:孟加拉優速航空
+us bangla airlines:孟加拉优速航空
 us bank account:美国银行账户
 us bank card:美国银行卡
 us bank center:美国银行中心
@@ -1222,7 +1222,7 @@ us behaviour:美国行为
 us belgians:我们比利时人
 us belief:我们信念
 us believe:美国相信
-us ben guerdane:本加爾丹體育聯盟
+us ben guerdane:本加尔丹体育联盟
 us best:我们最好
 us betray:美国背叛
 us better feedback:我们更好的反馈
@@ -1312,7 +1312,7 @@ us border:美国边界
 us boss:美国老板
 us boston learning:美国波士顿学习
 us boston:美国波士顿
-us boulogne:布羅尼體育會
+us boulogne:布罗尼体育会
 us bourbon:美国波旁
 us box office:美国票房
 us box-office:美国票房
@@ -1504,7 +1504,6 @@ us chemistry:我们化学
 us chemistry:美国化学
 us chess champion:美国国际象棋冠军
 us chess championship:美国国际象棋锦标赛
-us chess championship:美國國際象棋錦標賽
 us chess:美国国际象棋
 us chicken legs:美国鸡腿
 us chicken meat export:美国鸡肉出口
@@ -1524,7 +1523,7 @@ us children:美国儿童
 us children:美国孩子
 us china business council:美中贸易全国委员会
 us china innovation alliance:美国中国创新联盟
-us china strategic engagement:美國對華接觸政策
+us china strategic engagement:美国对华接触政策
 us china:我们中国
 us china:美国中国
 us chinese communist:我们中国共产党
@@ -1858,7 +1857,7 @@ us credit card bureau:美国信用卡局
 us credit card debt:美国信用卡债务
 us credit card:美国信用卡
 us credit rating:美国信用评级
-us cremonese:克雷莫納體育會
+us cremonese:克雷莫纳体育会
 us crime:美国犯罪
 us crimes:美国罪行
 us criminal code:美国刑法典
@@ -1979,6 +1978,9 @@ us department of energy oak ridge:美国能源部橡树岭
 us department of energy report:美国能源部报告
 us department of energy spokesperson:美国能源部发言人
 us department of energy:美国能源部
+us department of health and human services:美国健康与人类服务部
+us department of health and human services:美国健康和人类服务中心
+us department of health and human services:美国卫生和人类服务部
 us department of health:美国卫生部
 us department of homeland security:美国国土安全部
 us department of labor:美国劳动部
@@ -2148,7 +2150,6 @@ us east coast to us:美国东海岸到美国
 us east coast trade:美国东海岸贸易
 us east coast:美国东岸
 us east coast:美国东海岸
-us east coast:美国東岸
 us east-coast:美国东海岸
 us east:我们东
 us east:美国东
@@ -3554,7 +3555,7 @@ us keyboard layout:美国键盘布局
 us keyboard support:美国键盘支持
 us keyboard:美国键盘
 us kids should avoid:美国孩子应该避免
-us kids:乖乖美語安親班
+us kids:乖乖美语安亲班
 us kids:我们孩子
 us kids:我们孩子们
 us kids:我们小孩
@@ -3634,7 +3635,7 @@ us leather:美国皮革
 us leave it:我们离开它
 us leave:我们离开
 us leave:美国离开
-us lecce:萊切體育聯盟
+us lecce:莱切体育联盟
 us legation:美国公使馆
 us legion:我们军团
 us legislation update:美国立法更新
@@ -3791,7 +3792,6 @@ us marijuana party:美国大麻党
 us marines publication:美国海军陆战队出版
 us marines receive:美国海军陆战队收到
 us marines:美国海军陆战队
-us marines:美国海軍陸戰隊
 us market activity:美国市场活动
 us market and us:美国市场与美国
 us market car:美国市场车
@@ -4070,7 +4070,7 @@ us natural-gas consumption:美国天然气消费
 us natural-gas:美国天然气
 us naturalization:美国归化
 us naval base:美国海军基地
-us naval postgraduate school:美國海軍研究院
+us naval postgraduate school:美国海军研究院
 us naval:美国海军的
 us navigate:我们导航
 us navy accuse:美国海军指控
@@ -4431,7 +4431,6 @@ us own:美国拥有
 us pacific air force:美国太平洋空军
 us pacific army:美国太平洋陆军
 us pacific fleet:美国太平洋舰队
-us pacific fleet:美国太平洋艦隊
 us pacific northwest:美国太平洋西北地区
 us pacific ocean:美国太平洋
 us pacific standard time:美国太平洋标准时间
@@ -5035,7 +5034,7 @@ us rubber:美国橡胶
 us rugby:美国橄榄球
 us rules and tariff:美国规则和关税
 us rules:美国规则
-us rumelange:呂姆朗日足球俱樂部
+us rumelange:吕姆朗日足球俱乐部
 us run:我们跑
 us run:我们运行
 us run:美国运行
@@ -5076,7 +5075,7 @@ us sanctions will hit:美国制裁将打击
 us sanctions:美国制裁
 us santa barbara:美国圣巴巴拉
 us santa claus:我们圣诞老人
-us sassuolo calcio:薩斯索羅足球體育會
+us sassuolo calcio:萨斯索罗足球体育会
 us satellite imagery:美国卫星影像
 us satellite internet service:美国卫星互联网服务
 us satellite internet services:美国卫星互联网服务
@@ -5846,7 +5845,7 @@ us truth:我们真相
 us try:我们尝试
 us trying:我们试图
 us trying:美国试图
-us tshinkunku:特斯昆古體育聯盟
+us tshinkunku:特斯昆古体育联盟
 us tsunami:美国海啸
 us turkish:美国土耳其
 us tv actor:美国电视演员
@@ -6221,12 +6220,11 @@ us your:我们你的
 us yourself:我们你自己
 us youth:美国青年
 us zoo:美国动物园
+us ᎠᏒᏂᎸ ᏂᎨᏒᎾ:美属处女群岛
+us ᎠᏒᏂᎸ ᏂᎨᏒᎾ:美属维京群岛
 us ᎠᏒᏂᎸ ᏂᎨᏒᎾ:美属维尔京群岛
-us ᎠᏒᏂᎸ ᏂᎨᏒᎾ:美屬維京群島
-us ᎠᏒᏂᎸ ᏂᎨᏒᎾ:美屬維爾京群島
-us ᎠᏒᏂᎸ ᏂᎨᏒᎾ:美屬處女群島
 us-asset purchase:美国资产购买
-us-botschaft minsk:美國大使館
+us-botschaft minsk:美国大使馆
 us-china business council:美中贸易全国委员会
 us-government reports:美国政府报告
 us-india relation:美国印度关系
@@ -6267,9 +6265,9 @@ usa aircraft:美国飞机
 usa airline:美国航空公司
 usa airport:美国机场
 usa airstrike:美国空袭
-usa alaska anchorage:美國阿拉斯加州安克雷奇
+usa alaska anchorage:美国阿拉斯加州安克雷奇
 usa alaska juneau:美国阿拉斯加州朱诺
-usa alaska:美國阿拉斯加州
+usa alaska:美国阿拉斯加州
 usa all:美国所有
 usa all:美国所有的
 usa alliance:美国联盟
@@ -6292,7 +6290,6 @@ usa and cambodia:美国和柬埔寨
 usa and canada network:美国和加拿大网络
 usa and canada:美国与加拿大
 usa and canada:美国和加拿大
-usa and canada:美國和加拿大
 usa and canadian buy:美国和加拿大的买
 usa and canadian:美国和加拿大
 usa and canadian:美国和加拿大的
@@ -6397,7 +6394,6 @@ usa bank:美国银行
 usa banks:美国银行
 usa base:美国基地
 usa baseball:美国棒球
-usa baseball:美國棒球
 usa basketball coach:美国篮球教练
 usa basketball experience:美国篮球体验
 usa basketball history:美国篮球历史
@@ -6431,14 +6427,13 @@ usa business leaders:美国商界领袖
 usa business:美国商业
 usa buy:美国买
 usa california:美国加利福尼亚
-usa california:美國加利福尼亞州
+usa california:美国加利福尼亚州
 usa canada:美国加拿大
 usa cancer:美国癌症
 usa candidate:美国候选人
 usa cannot:美国不能
 usa capital:美国首都
 usa capitol:美国国会大厦
-usa capitol:美國国会大厦
 usa car:美国汽车
 usa car:美国车
 usa census:美国普查
@@ -6446,7 +6441,6 @@ usa center:美国中心
 usa central bank:美国中央银行
 usa certification:美国认证
 usa champion:美国冠军
-usa champion:美國冠軍
 usa championship:美国冠军
 usa championship:美国锦标赛
 usa championships:美国冠军
@@ -6461,7 +6455,7 @@ usa citizen children:美国公民儿童
 usa citizen:美国公民
 usa citizens:美国公民
 usa citizenship:美国公民
-usa city:美國城市
+usa city:美国城市
 usa clients:美国客户
 usa climbing:美国攀登
 usa coach:美国教练
@@ -6499,7 +6493,6 @@ usa crops:美国农作物
 usa culture and christianity:美国文化与基督教
 usa culture:美国文化
 usa cup:美国杯
-usa cup:美國杯
 usa currently:美国目前
 usa customers:美国客户
 usa customs:美国海关
@@ -6532,7 +6525,6 @@ usa economic growth:美国经济增长
 usa economy also encourage:美国经济也鼓励
 usa economy:美国经济
 usa education:美国教育
-usa education:美國教育
 usa efforts:美国努力
 usa election:美国选举
 usa elections:美国选举
@@ -6566,7 +6558,6 @@ usa farmer:美国农民
 usa federal government:美国联邦政府
 usa fencing:美国击剑
 usa films:美国电影
-usa films:美國电影
 usa finally:美国最终
 usa financial analyst:美国金融分析师
 usa financial institutions:美国金融机构
@@ -6577,13 +6568,11 @@ usa fiscal year:美国财政年度
 usa flag:美国旗
 usa florida and california:美国佛罗里达州和加利福尼亚州
 usa florida:美国佛罗里达州
-usa florida:美國佛羅里達州
 usa food and drink:美国食品和饮料
 usa food export:美国食品出口
 usa food:美国食品
 usa football coach:美国足球教练
 usa football:美国足球
-usa football:美國足球
 usa foreign policy:美国外交政策
 usa foundation:美国基金
 usa freedom:美国自由
@@ -6611,13 +6600,13 @@ usa great:美国伟大的
 usa green card and citizenship:美国绿卡和公民
 usa green card:美国绿卡
 usa greenhouse gas:美国温室气体
-usa guam:美國關島
+usa guam:美国关岛
 usa gymnastics do:美国体操做
 usa gymnastics needs:美国体操需要
 usa gymnastics physician:美国体操医生
 usa gymnastics sex abuse scandal:美国体操队性侵丑闻
 usa gymnastics:美国体操
-usa gymnastics:美國體操協會
+usa gymnastics:美国体操协会
 usa hachiman:宇佐八幡神
 usa hacker:美国黑客
 usa has been:美国已经
@@ -6628,16 +6617,14 @@ usa has superman:美国有超人
 usa has:美国有
 usa have been:美国已经
 usa hawaii:美国夏威夷
-usa hawaii:美國夏威夷
 usa health physician:美国健康医生
 usa health:美国健康
 usa heart:美国心脏
 usa help:美国帮助
 usa high school:美国高中
 usa history:美国历史
-usa history:美國历史
+usa hockey:美国冰球协会
 usa hockey:美国曲棍球
-usa hockey:美國冰球協會
 usa holiday:美国假日
 usa home:美国家
 usa honor:美国荣誉
@@ -6649,7 +6636,6 @@ usa how to:美国如何
 usa hurricane:美国飓风
 usa illegal:美国非法
 usa illinois:美国伊利诺伊州
-usa illinois:美國伊利諾伊州
 usa immigration assistance:美国移民援助
 usa immigration law:美国移民法
 usa immigration:美国移民
@@ -6657,7 +6643,7 @@ usa important:美国重要
 usa in this region:美国在这个地区
 usa income:美国收入
 usa independence day:美国独立日
-usa indianapolis:美國印第安納波利斯
+usa indianapolis:美国印第安纳波利斯
 usa industry and workers:美国工业和工人
 usa industry:美国工业
 usa infrastructure:美国基础设施
@@ -6691,7 +6677,6 @@ usa judge:美国法官
 usa judo:美国柔道
 usa jury:美国陪审团
 usa kansas:美国堪萨斯州
-usa kansas:美國堪薩斯州
 usa karate:美国空手道
 usa kentucky:美国肯塔基州
 usa land and sea:美国陆地和海
@@ -6743,13 +6728,13 @@ usa military base:美国军事基地
 usa military parade:美国阅兵
 usa military:美国军事
 usa military:美国军队
-usa minnesota:美国明尼蘇達州
+usa minnesota:美国明尼苏达州
 usa missile defense:美国导弹防御
 usa missile:美国导弹
 usa mississippi:美国密西西比州
 usa mix:美国混合
 usa modern:美国现代
-usa montana:美國蒙大拿州
+usa montana:美国蒙大拿州
 usa mother:美国母亲
 usa mountain:美国山
 usa music:美国音乐
@@ -6759,15 +6744,13 @@ usa national security:美国国家安全
 usa national team:美国国家队
 usa natural products:美国天然产品
 usa navy:美国海军
-usa navy:美國海军
 usa need:美国需要
 usa needs israel:美国需要以色列
 usa needs pakistan:美国需要巴基斯坦
 usa needs:美国需要
+usa neitsisaared:美属处女群岛
+usa neitsisaared:美属维京群岛
 usa neitsisaared:美属维尔京群岛
-usa neitsisaared:美屬維京群島
-usa neitsisaared:美屬維爾京群島
-usa neitsisaared:美屬處女群島
 usa network:美国网络
 usa networks:美国网络
 usa new construction:美国新的建筑
@@ -6778,19 +6761,15 @@ usa newspaper:美国报纸
 usa no longer:美国不再
 usa northeast:美国东北
 usa northeast:美国东北部
-usa northeast:美國东北部
-usa northeast:美國東北部
 usa now:美国现在
 usa nutome:měiguó
 usa nutome:美国
-usa nutome:美國
 usa offer:美国提供
 usa officials and experts:美国官员和专家
 usa officials said:美国官员说
 usa officials suspect:美国官员怀疑
 usa officials:美国官员
 usa ohio:美国俄亥俄州
-usa ohio:美國俄亥俄州
 usa oil:美国油
 usa once again:美国再次
 usa once:美国曾经
@@ -6838,7 +6817,6 @@ usa preserve:美国保持
 usa president bruce johnson:美国总统布鲁斯约翰逊
 usa president tom:美国总统汤姆
 usa president:美国总统
-usa president:美國总统
 usa presidential:美国总统的
 usa pressure:美国压力
 usa problems:美国问题
@@ -6874,7 +6852,6 @@ usa replace:美国替代
 usa report:美国报告
 usa reports:美国报告
 usa representative:美国代表
-usa representative:美國代表
 usa researchers investigate:美国研究人员调查
 usa researchers:美国研究人员
 usa resident:美国居民
@@ -6885,11 +6862,10 @@ usa restrict:美国限制
 usa retail:美国零售
 usa retain:美国保持
 usa revolution:美国革命
-usa revolution:美國革命
 usa rice:美国稻
 usa rights:美国权利
-usa river:美國河
-usa river:美國河流
+usa river:美国河
+usa river:美国河流
 usa road trip:美国公路旅行
 usa rugby coach:美国橄榄球教练
 usa rugby league:美国橄榄球联盟
@@ -6909,7 +6885,7 @@ usa secretary of state:美国国务卿
 usa security:美国安全
 usa series:美国系列
 usa server:美国服务器
-usa sevens:美國國際七人欖球賽
+usa sevens:美国国际七人榄球赛
 usa shale oil:美国页岩油
 usa shale:美国页岩
 usa ship:美国船
@@ -6936,8 +6912,6 @@ usa song:美国歌曲
 usa south:美国南
 usa southeast:美国东南
 usa southeast:美国东南部
-usa southeast:美國东南部
-usa southeast:美國東南部
 usa sovereignty:美国主权
 usa soybean exports:美国大豆出口
 usa soybean farmer:美国大豆农民
@@ -6950,9 +6924,8 @@ usa start:美国开始
 usa state:美国州
 usa statement:美国声明
 usa station:宇佐站
-usa station:宇佐車站
+usa station:宇佐车站
 usa station:美国站
-usa station:美國站
 usa steel:美国钢
 usa still:美国仍然
 usa stock:美国股票
@@ -6998,7 +6971,7 @@ usa three:美国三
 usa time:美国时间
 usa to roosevelt:美国到罗斯福
 usa to russia:美国到俄罗斯
-usa today:今日美國
+usa today:今日美国
 usa today:美国今天
 usa tool:美国工具
 usa trade:美国贸易
@@ -7007,12 +6980,10 @@ usa train:美国训练
 usa travel visa:美国签证
 usa travel:美国旅行
 usa trilogy:美国三部曲
-usa trilogy:美國三部曲
 usa troops:美国军队
 usa truck:美国卡车
 usa under:美国下
 usa union:美国联盟
-usa union:美國联盟
 usa university:美国大学
 usa uranium:美国铀
 usa user:美国用户
@@ -7027,14 +6998,10 @@ usa vice president mike:美国副总统迈克
 usa vice president:美国副总统
 usa virginia:美国弗吉尼亚
 usa volleyball:美国排球
-usa volleyball:美國排球
 usa warship:美国军舰
 usa washing machine:美国洗衣机
 usa washington:美国华盛顿
 usa washington:美国华盛顿州
-usa washington:美國华盛顿
-usa washington:美國華盛頓
-usa washington:美國華盛頓州
 usa water polo:美国水球
 usa web:美国网
 usa website:美国网站
@@ -7073,7 +7040,6 @@ usa:skonsulat:美国领事馆
 usa:宇佐
 usa:宇佐市
 usa:美国
-usa:美國
 usaa:联合服务汽车协会
 usability and convenience:易用性和便利
 usability and cost:易用性和成本
@@ -7152,7 +7118,7 @@ usage rather than:用法而不是
 usage record:用法记录
 usage reflect:用法反映
 usage share of operating systems:操作系统使用份额
-usage share of web browsers:網頁瀏覽器的使用分佈
+usage share of web browsers:网页浏览器的使用分佈
 usage still:用法仍然
 usage take:用法取
 usage usually:用法通常
@@ -7163,90 +7129,87 @@ usagi-dao:兔峠
 usagi:天兔
 usaginokuchi:兔之口
 usagre:乌萨格雷
-usakos:烏薩科斯
+usakos:乌萨科斯
 usal-li:牛山里
 usamaru furuya:古屋兔丸
-usambara mountains:烏桑巴拉山脈
-usami sadamitsu:宇佐美定滿
+usambara mountains:乌桑巴拉山脉
+usami sadamitsu:宇佐美定满
 usami station:宇佐美站
 usan middle school:于山中学
-usan middle school:于山中學
 usan-dong:牛山洞
 usan-ri:于山里
 usan-ri:牛山里
 usan:于山国
-usana samoa:美屬薩摩亞
+usana samoa:美属萨摩亚
 usanbong peak:于山峰
 usanbong:于山峰
 usando:于山岛
 usang:右上
-usangu lampeye:烏沙湖棲花鱂
-usarp mountains:烏薩爾普山脈
+usangu lampeye:乌沙湖栖花鱂
+usarp mountains:乌萨尔普山脉
 usas ambassade:美国大使馆
-usas escarpment:烏薩斯陡崖
+usas escarpment:乌萨斯陡崖
 usas konsulat:美国领事馆
 usas æreskonsulat:美国名誉领事馆
-usatove:烏薩托韋
-usavich:監獄兔
+usatove:乌萨托韦
+usavich:监狱兔
 usawan:乌萨万
 usb flash drive connect:闪存盘连接
 usb flash drive:闪存盘
-usb nke ihe egwu 220.000 volts:危險電纜 220.000 伏特
+usb nke ihe egwu 220.000 volts:危险电缆 220.000 伏特
 usbagastàn:wūzībiékèsītǎn
 usbagastàn:乌兹别克斯坦
-usbagastàn:乌兹别克斯坦 / 烏茲別克
+usbagastàn:乌兹别克斯坦 / 乌茲別克
+usbagastàn:乌茲別克
 usbagastàn:月即別
-usbagastàn:烏茲別克
 usbecastan:wūzībiékèsītǎn
 usbecastan:乌兹别克斯坦
-usbecastan:乌兹别克斯坦 / 烏茲別克
+usbecastan:乌兹别克斯坦 / 乌茲別克
+usbecastan:乌茲別克
 usbecastan:月即別
-usbecastan:烏茲別克
 usbekistaan:wūzībiékèsītǎn
 usbekistaan:乌兹别克斯坦
-usbekistaan:乌兹别克斯坦 / 烏茲別克
+usbekistaan:乌兹别克斯坦 / 乌茲別克
+usbekistaan:乌茲別克
 usbekistaan:月即別
-usbekistaan:烏茲別克
 usbekistan:wūzībiékèsītǎn
 usbekistan:乌兹别克斯坦
-usbekistan:乌兹别克斯坦 / 烏茲別克
+usbekistan:乌兹别克斯坦 / 乌茲別克
+usbekistan:乌茲別克
 usbekistan:月即別
-usbekistan:烏茲別克
 usbekska:wūzībiékèsītǎn
 usbekska:乌兹别克斯坦
-usbekska:乌兹别克斯坦 / 烏茲別克
+usbekska:乌兹别克斯坦 / 乌茲別克
+usbekska:乌茲別克
 usbekska:月即別
-usbekska:烏茲別克
 usbiksuyu:wūzībiékèsītǎn
 usbiksuyu:乌兹别克斯坦
-usbiksuyu:乌兹别克斯坦 / 烏茲別克
+usbiksuyu:乌兹别克斯坦 / 乌茲別克
+usbiksuyu:乌茲別克
 usbiksuyu:月即別
-usbiksuyu:烏茲別克
 usc gould school of law:南加州大学古尔德法学院
-usc marshall school of business:馬歇爾商學院
+usc marshall school of business:马歇尔商学院
 usc pacific asia museum:南加州大学亚太博物馆
-usc school of architecture:南加州大學建築學院
+usc school of architecture:南加州大学建筑学院
 usc school of cinematic arts:南加州大学电影艺术学院
 usc trojans:南加州大学特洛伊人队
-usc viterbi school of engineering:維特比工程學院
-uscgc bertholf:巴索夫號緝私艦
+usc viterbi school of engineering:维特比工程学院
+uscgc bertholf:巴索夫号缉私舰
 usch:乌施
 usch:乌日河
 uschakow-insel:乌沙科夫岛
-uschatschy:烏沙奇
-uschatschyn:烏扎欽
+uschatschy:乌沙奇
+uschatschyn:乌扎钦
 uschguli:乌树故里
 uschhorod:乌日格罗德
 uschhorod:乌日霍罗德
-uschhorod:烏日霍羅德
-uschomyr:烏紹米爾
+uschomyr:乌绍米尔
 uschtasch:zhuóyóulèhànsū hé
 uschtasch:卓尤勒汗苏河
-uschtasch:卓尤勒汗蘇河
-uschyzja:烏什齊亞
+uschyzja:乌什齐亚
 uscio:乌肖
 uscita arrivi:到达出口
-uscita del veicolo ed entrata del veicolo:車輛出口和車輛入口
+uscita del veicolo ed entrata del veicolo:车辆出口和车辆入口
 usclades et rieutord:于斯克拉德和里约托尔
 usclas du bosc:于斯克拉斯迪博斯克
 use a background:使用一个背景
@@ -7385,7 +7348,6 @@ use a very simple:使用一个非常简单
 use a video:使用一个视频
 use a web site:使用一个网站
 use a website build:使用一个网站构建
-use abbreviation:使用縮寫
 use abbreviation:使用缩写
 use aberdeen:使用阿伯丁
 use abilities:使用能力
@@ -7445,7 +7407,7 @@ use adult stem cell:使用成体干细胞
 use adult:使用成年人
 use adverb:使用副词
 use advertisement:使用广告
-use advertising:使用廣告
+use advertising:使用广告
 use aerodynamics:使用空气动力学
 use affects:使用影响
 use afghan:使用阿富汗
@@ -7512,10 +7474,8 @@ use all nutrient:使用所有营养
 use all of these components:使用所有这些组件
 use all of these solvent:使用所有这些溶剂
 use all of these tools:使用所有这些工具
-use all of these tools:使用所有這些工具
 use all of these websites:使用所有这些网站
 use all of these:使用所有这些
-use all of these:使用所有這些
 use all or part:使用全部或部分
 use all organ:使用所有的器官
 use all other:使用所有其他的
@@ -7537,8 +7497,8 @@ use all:使用全部
 use all:使用所有
 use all:使用所有的
 use allow:使用允许
-use almost anywhere:使用幾乎任何地方
-use almost:使用幾乎
+use almost anywhere:使用几乎任何地方
+use almost:使用几乎
 use alphabet:使用字母
 use already familiar:使用已经熟悉的
 use already:使用已经
@@ -7649,7 +7609,7 @@ use and development:使用和发展
 use and development:使用和开发
 use and diabetes:使用和糖尿病
 use and divorce:使用和离婚
-use and dose:使用和劑量
+use and dose:使用和剂量
 use and drive:使用和驾驶
 use and drought:使用和干旱
 use and drying conditions:使用和干燥条件
@@ -7726,7 +7686,7 @@ use and long-term use:使用与长期使用
 use and long-term:使用与长期
 use and lung cancer risk:使用和肺癌风险
 use and maintain:使用和维护
-use and maintenance:使用和維護
+use and maintenance:使用和维护
 use and manage information technology:使用和管理信息技术
 use and manage it:使用和管理它
 use and manage land:使用和管理土地
@@ -7777,7 +7737,7 @@ use and protection:使用和保护
 use and provide applications:使用和提供应用
 use and psychology:使用和心理学
 use and public health impacts:使用和公共卫生影响
-use and public:使用和公眾
+use and public:使用和公众
 use and purchase:使用和购买
 use and recognize any:使用和识别任何
 use and recommend:使用和推荐
@@ -7853,7 +7813,6 @@ use anesthesia:使用麻醉
 use angel card:使用天使卡
 use angel:使用天使
 use anger:使用愤怒
-use anger:使用憤怒
 use angle:使用角
 use animal fat:使用动物脂肪
 use animal fur:使用动物毛皮
@@ -7912,7 +7871,6 @@ use any frequency:使用任何频率
 use any image:使用任何图像
 use any infrared sauna:使用任何红外线桑拿
 use any intermediate:使用任何中间
-use any language:使用任何語言
 use any language:使用任何语言
 use any license:使用任何许可证
 use any link:使用任何链接
@@ -8030,7 +7988,7 @@ use army:使用陆军
 use around:使用大约
 use array operations:使用数组操作
 use array:使用数组
-use arrow keys:使用方向鍵
+use arrow keys:使用方向键
 use arrow:使用箭
 use arsenic:使用砷
 use art:使用艺术
@@ -8092,7 +8050,7 @@ use audio and video:使用音频和视频
 use audio description:使用口述影像
 use audio equipment:使用音频设备
 use audio:使用音频
-use augmented reality:使用擴增實境
+use augmented reality:使用扩增实境
 use augusta:使用奥古斯塔
 use austria:使用奥地利
 use authenticated encryption:使用认证加密
@@ -8130,7 +8088,6 @@ use backlight:使用背光
 use backpack:使用背包
 use backslash:使用反斜线
 use backup clients:使用备份客户
-use backup:使用備份
 use backup:使用备份
 use bacteria:使用细菌
 use bacteriophage:使用噬菌体
@@ -8150,7 +8107,6 @@ use bandwidth throttling:使用带宽限制
 use bangladesh:使用孟加拉国
 use bank card:使用银行卡
 use bank transfer:使用银行转账
-use bank:使用銀行
 use bank:使用银行
 use banks and financial institutions:使用银行和金融机构
 use banks:使用银行
@@ -8195,7 +8151,6 @@ use beeswax:使用蜂蜡
 use before:使用之前
 use began:使用开始
 use behavior:使用行为
-use behavior:使用行為
 use behaviour:使用行为
 use belly:使用腹
 use beneficial:使用有益的
@@ -8220,12 +8175,10 @@ use beverage:使用饮料
 use beyond:使用超过
 use bible reference books:使用圣经参考书
 use bible:使用圣经
-use bicycle:使用自行車
 use bicycle:使用自行车
 use big data analytics tools:使用大数据分析工具
 use big data and machine learning:使用大数据和机器学习
 use big data:使用大数据
-use big data:使用大數據
 use big image:使用大图像
 use big room:使用大房间
 use big-data analysis:使用大数据分析
@@ -8238,7 +8191,7 @@ use binary number:使用二进制
 use binocular rivalry:使用双眼竞争
 use binoculars:使用双筒望远镜
 use biodiesel:使用生物柴油
-use biodiversity:使用生物多樣性
+use biodiversity:使用生物多样性
 use bioenergy:使用生物能源
 use biofuel:使用生物燃料
 use bioinformatics:使用生物信息学
@@ -8274,7 +8227,7 @@ use black:使用黑色
 use blackberry devices:使用黑莓设备
 use blackberry:使用黑莓
 use blank:使用空白的
-use bleach:使用漂白劑
+use bleach:使用漂白剂
 use block:使用块
 use blockchain and artificial intelligence:使用区块链和人工智能
 use blockchain applications:使用区块链应用
@@ -8296,13 +8249,11 @@ use blood:使用血液
 use bloom filter:使用布隆过滤器
 use blue and white:使用蓝色和白色
 use blue laser technology:使用蓝色激光技术
-use blue light:使用藍光
+use blue light:使用蓝光
 use blue:使用蓝色
-use blue:使用藍色
 use blueprint:使用蓝图
-use blueprint:使用藍圖
 use bluetooth low energy:使用蓝牙低功耗
-use bluetooth:使用藍牙
+use bluetooth:使用蓝牙
 use blur:使用模糊
 use board:使用板
 use boarding school:使用寄宿学校
@@ -8325,7 +8276,7 @@ use books:使用书籍
 use boot disk:使用启动盘
 use bot:使用机器人
 use bottle:使用瓶
-use bottled water:使用瓶裝水
+use bottled water:使用瓶装水
 use bottom:使用底
 use boundary scan:使用边界扫描
 use boundary:使用边界
@@ -8340,7 +8291,7 @@ use brain scan:使用脑部扫描
 use brain science:使用大脑科学
 use brain:使用大脑
 use brain:使用脑
-use brake:使用煞車
+use brake:使用煞车
 use branch:使用分支
 use brand:使用品牌
 use brands:使用品牌
@@ -8350,18 +8301,17 @@ use breast pump:使用吸乳器
 use breath:使用呼吸
 use breathing skills:使用呼吸技巧
 use breathing:使用呼吸
-use bribery:使用賄賂
+use bribery:使用賄赂
 use brick:使用砖
-use bridge loan:使用過橋貸款
+use bridge loan:使用过桥貸款
 use bridge:使用桥
-use bridge:使用橋
 use bright color:使用明亮的颜色
 use bright pink:使用明亮的粉红色
 use bright:使用明亮的
 use britain:使用英国
 use british passport:使用英国护照
 use british:使用英国的
-use broadband:使用寬頻
+use broadband:使用宽频
 use broadcast:使用广播
 use broadcasting:使用广播
 use broccoli:使用西兰花
@@ -8370,7 +8320,6 @@ use brothel:使用妓院
 use browser:使用浏览器
 use brush:使用刷子
 use budapest:使用布达佩斯
-use budget:使用預算
 use budget:使用预算
 use bug:使用虫子
 use build tools:使用构建工具
@@ -8380,9 +8329,9 @@ use buildings:使用建筑
 use bulgarian:使用保加利亚的
 use bullet time:使用子弹时间
 use bullet:使用子弹
-use bus lane:使用公車專用道
+use bus lane:使用公车专用道
 use bus:使用公交车
-use bus:使用公共汽車
+use bus:使用公共汽车
 use business card:使用名片
 use business intelligence:使用商业智能
 use business:使用商业
@@ -8392,7 +8341,7 @@ use button control:使用按钮控制
 use button:使用按钮
 use butyric acid:使用丁酸
 use buzz lightyear:使用巴斯光年
-use by-product:使用副產品
+use by-product:使用副产品
 use by:使用被
 use byte:使用字节
 use bytecode:使用字节码
@@ -8415,10 +8364,9 @@ use calorie:使用卡路里
 use cam ranh bay:使用金兰湾
 use cambodia:使用柬埔寨
 use cambridge:使用剑桥
-use cambridge:使用劍橋
 use camera:使用相机
-use camphor ball:使用樟腦球
-use camphor:使用樟腦
+use camphor ball:使用樟脑球
+use camphor:使用樟脑
 use campus mental health services:使用校园心理健康服务
 use campus:使用校园
 use can cover:使用可以覆盖
@@ -8541,9 +8489,8 @@ use case:用例
 use cash and credit card:使用现金和信用卡
 use cash or bank card:使用现金或银行卡
 use cash or credit card:使用现金或信用卡
-use cash payment:使用現金支付
+use cash payment:使用现金支付
 use cash:使用现金
-use cash:使用現金
 use cassini:使用卡西尼
 use cast iron:使用铸铁
 use castor oil:使用蓖麻油
@@ -8572,7 +8519,7 @@ use central tendency:使用集中趋势
 use centre:使用中心
 use ceramic materials:使用陶瓷材料
 use cerium:使用铈
-use certification:使用認證
+use certification:使用认证
 use chain:使用链条
 use chair:使用椅子
 use chamomile:使用洋甘菊
@@ -8589,7 +8536,7 @@ use chart:使用图表
 use charts:使用图表
 use chat bot:使用聊天机器人
 use chat:使用聊天
-use chatbot:使用聊天機器人
+use chatbot:使用聊天机器人
 use cheap:使用廉价的
 use cheating:使用作弊
 use check:使用检查
@@ -8602,7 +8549,7 @@ use chemistry:使用化学
 use chemotherapy:使用化学疗法
 use cheque:使用支票
 use chewing gum:使用口香糖
-use chicken egg:使用雞蛋
+use chicken egg:使用鸡蛋
 use chicken:使用鸡
 use chicory:使用菊苣
 use child labour:使用童工
@@ -8610,7 +8557,6 @@ use child:使用儿童
 use children:使用儿童
 use china mobile:使用中国移动
 use china:使用中国
-use china:使用中國
 use chinese characters:使用汉字
 use chinese domain name:使用中文域名
 use chinese methods:使用中国的方法
@@ -8622,7 +8568,7 @@ use chinese technology products:使用中国的技术产品
 use chinese:使用中国人
 use chinese:使用中国的
 use chinese:使用中文
-use chlorine bleach:使用氯漂白劑
+use chlorine bleach:使用氯漂白剂
 use chlorine dioxide:使用二氧化氯
 use chlorine:使用氯
 use chlorobenzene:使用氯苯
@@ -8669,14 +8615,12 @@ use climate change fact:使用气候变化事实
 use climate change:使用气候变化
 use climate emergency:使用气候紧急情况
 use climate model:使用气候模型
-use climate-control:使用氣候控制
+use climate-control:使用气候控制
 use climate:使用气候
-use climate:使用氣候
 use clinic:使用诊所
 use clinical pregnancy:使用临床妊娠
 use clinical:使用临床
 use clock:使用时钟
-use clock:使用時鐘
 use cloning:使用克隆
 use close-up:使用特写
 use closed source software:使用闭源软件
@@ -8684,14 +8628,14 @@ use closed-loop:使用闭环
 use closed:使用闭
 use closure space:使用闭包空间
 use closure:使用闭包
-use cloth shopping bag:使用布購物袋
+use cloth shopping bag:使用布购物袋
 use cloth:使用布
 use clothes:使用衣服
 use clothing and prop:使用服装和道具
 use clothing:使用服装
 use cloud applications:使用云应用程序
 use cloud burst:使用云爆发
-use cloud computing:使用雲端運算
+use cloud computing:使用云端运算
 use cloud data:使用云数据
 use cloud database:使用云数据库
 use cloud platforms:使用云平台
@@ -8722,7 +8666,6 @@ use coffee:使用咖啡
 use cogeneration:使用热电联产
 use cognate:使用同源词
 use coin:使用硬币
-use coin:使用硬幣
 use cointreau:使用君度
 use cold air:使用冷空气
 use cold cream:使用冷霜
@@ -8730,7 +8673,7 @@ use cold wallet:使用冷钱包
 use cold water:使用冷水
 use cold:使用冷
 use cole:使用科尔
-use collagen:使用膠原蛋白
+use collagen:使用胶原蛋白
 use colombian coffee bean:使用哥伦比亚咖啡豆
 use colombian:使用哥伦比亚
 use colon:使用冒号
@@ -8753,8 +8696,7 @@ use comments:使用注释
 use commercial bank:使用商业银行
 use commercial software:使用商业软件
 use committee:使用委员会
-use committee:使用委員會
-use common knowledge:使用常識
+use common knowledge:使用常识
 use common:使用共同的
 use communication protocol:使用通信协议
 use communication:使用沟通
@@ -8873,7 +8815,7 @@ use consumer data:使用消费者数据
 use consumer:使用消费者
 use consumers hot line:使用消费者热线
 use consumers:使用消费者
-use contact lens:使用隱形眼鏡
+use contact lens:使用隐形眼镜
 use contact:使用联系
 use contain:使用包含
 use container:使用容器
@@ -8922,12 +8864,12 @@ use corporate governance:使用公司治理
 use correct welding:使用正确的焊接
 use correct:使用正确的
 use cosine:使用余弦
-use cosmetics:使用化妝品
+use cosmetics:使用化妆品
 use cost is how much:使用成本是多少
 use cost:使用成本
 use costs:使用成本
 use cotton:使用棉花
-use counterfeit money:使用假幣
+use counterfeit money:使用假币
 use country:使用国家
 use coupon code:使用优惠券代码
 use coupon:使用优惠券
@@ -8954,7 +8896,7 @@ use crossbow:使用弩
 use crossword:使用填字游戏
 use crowd:使用人群
 use crutch:使用拐杖
-use cryptocurrency:使用加密貨幣
+use cryptocurrency:使用加密货币
 use cryptography:使用密码学
 use crystal ball:使用水晶球
 use crystal:使用水晶
@@ -9020,7 +8962,7 @@ use data classification tools:使用数据分类工具
 use data compress:使用数据压缩
 use data compression:使用数据压缩
 use data deduplication:使用重复数据删除
-use data definition language:使用資料定義語言
+use data definition language:使用资料定义语言
 use data integration:使用数据集成
 use data leak:使用数据泄漏
 use data members:使用数据成员
@@ -9049,7 +8991,7 @@ use dataset:使用数据集
 use date and time:使用日期和时间
 use date:使用日期
 use dating app:使用约会应用
-use dating:使用約會
+use dating:使用约会
 use davos:使用达沃斯
 use day:使用日
 use daylight:使用日光
@@ -9061,7 +9003,7 @@ use death:使用死
 use debit card transactions:使用借记卡交易
 use debit card:使用借记卡
 use debt:使用债务
-use deception:使用欺騙
+use deception:使用欺骗
 use decimal:使用十进制
 use decision tree:使用决策树
 use decision:使用决策
@@ -9081,7 +9023,7 @@ use default interface methods:使用默认接口方法
 use default mode:使用默认模式
 use default route:使用默认路由
 use default:使用默认
-use defeat device:使用減效裝置
+use defeat device:使用减效装置
 use defect:使用缺陷
 use defense:使用防御
 use definition:使用定义
@@ -9094,7 +9036,7 @@ use delete:使用删除
 use demand:使用需求
 use demands:使用要求
 use density:使用密度
-use dental floss:使用牙線
+use dental floss:使用牙线
 use dentures:使用假牙
 use department:使用部门
 use dependency injection:使用依赖注入
@@ -9114,7 +9056,6 @@ use design pattern:使用设计模式
 use design software:使用设计软件
 use design template:使用设计模板
 use design tools:使用设计工具
-use design:使用設計
 use design:使用设计
 use desktop phone:使用桌面电话
 use desktop wallet:使用桌面钱包
@@ -9124,7 +9065,7 @@ use detect:使用检测
 use detective:使用侦探
 use detergent:使用清洁剂
 use deuterium:使用氘
-use devaluation:使用貨幣貶值
+use devaluation:使用货币贬值
 use developer:使用开发者
 use development environment:使用开发环境
 use development environments:使用开发环境
@@ -9144,7 +9085,6 @@ use diatom mud:使用矽藻泥
 use diatom:使用矽藻
 use dichlorosilane:使用二氯硅烷
 use diclofenac:使用双氯芬酸
-use dictionary:使用詞典
 use dictionary:使用词典
 use diesel engine:使用柴油引擎
 use diesel fuel:使用柴油
@@ -9261,7 +9201,7 @@ use digging:使用挖掘
 use digit:使用数字
 use digital asset:使用数字资产
 use digital camera:使用数码相机
-use digital currency:使用數位貨幣
+use digital currency:使用数位货币
 use digital identity:使用数字身份
 use digital media:使用数字媒体
 use digital radio:使用数字广播
@@ -9269,7 +9209,7 @@ use digital signal processing:使用数字信号处理
 use digital signal:使用数字信号
 use digital technology:使用数字技术
 use digital wallet:使用电子钱包
-use dimension:使用維度
+use dimension:使用维度
 use dingtalk:使用钉钉
 use dinosaurs:使用恐龙
 use diplomacy:使用外交
@@ -9333,7 +9273,7 @@ use double standard:使用双重标准
 use double-sided tape:使用双面胶
 use double:使用两倍的
 use douyin:使用抖音
-use download:使用下載
+use download:使用下载
 use drag and drop:使用拖放
 use drag-and-drop:使用拖放
 use dragon:使用龙
@@ -9343,7 +9283,7 @@ use drink:使用饮料
 use drip irrigation:使用滴灌
 use driverless car:使用无人驾驶汽车
 use driverless:使用无人驾驶
-use driving:使用駕駛
+use driving:使用驾驶
 use drugs and food:使用药品和食品
 use drugs or alcohol:使用毒品或酒精
 use drugs or alcohol:使用药物或酒精
@@ -9381,7 +9321,6 @@ use earplug:使用耳塞
 use earth:使用地球
 use east indian:使用东印度
 use easy:使用容易
-use economic sanctions:使用經濟制裁
 use economic sanctions:使用经济制裁
 use economy:使用经济
 use ecosystem:使用生态系统
@@ -9411,12 +9350,12 @@ use electric car:使用电动汽车
 use electric charge:使用电荷
 use electric field:使用电场
 use electric motor:使用电动机
-use electric power:使用電力
-use electric toothbrush:使用電動牙刷
+use electric power:使用电力
+use electric toothbrush:使用电动牙刷
 use electric vehicles:使用电动汽车
 use electrical energy:使用电能
 use electrical equipment:使用电气设备
-use electricity:使用電
+use electricity:使用电
 use electrification:使用电气化
 use electrode:使用电极
 use electrolysis:使用电解
@@ -9425,18 +9364,17 @@ use electromagnetic field:使用电磁场
 use electromagnetic wave:使用电磁波
 use electron microscope:使用电子显微镜
 use electron:使用电子
-use electronic cigarette:使用電子煙
+use electronic cigarette:使用电子烟
 use electronic effect:使用电子效应
-use electronic money:使用電子貨幣
-use electronic signature:使用電子簽名
-use electronic voting:使用電子投票
+use electronic money:使用电子货币
+use electronic signature:使用电子签名
+use electronic voting:使用电子投票
 use electronic:使用电子的
 use electrophoresis:使用电泳
 use electroplating:使用电镀
 use element:使用元素
 use elements:使用元素
 use elevator:使用电梯
-use elevator:使用電梯
 use eliminate:使用消除
 use elisha:使用以利沙
 use elliptic curve:使用椭圆曲线
@@ -9445,7 +9383,7 @@ use email addresses:使用电子邮件地址
 use email clients:使用电子邮件客户
 use email journal:使用电子邮件日志
 use email list:使用电子邮件列表
-use email marketing:使用電子郵件行銷
+use email marketing:使用电子邮件行销
 use email or any other:使用电子邮件或任何其他
 use email or phone:使用电子邮件或电话
 use email:使用电子邮件
@@ -9459,7 +9397,7 @@ use emerging technologies:使用新兴技术
 use emissions:使用排放
 use emotion:使用情感
 use emotion:使用情绪
-use emotional language:使用情感的語言
+use emotional language:使用情感的语言
 use emotional:使用情感的
 use emotions:使用情感
 use empathy:使用同理心
@@ -9508,7 +9446,6 @@ use entire disk:使用整个磁盘
 use entire part number:使用整个零件编号
 use entire:使用整个
 use entity:使用实体
-use entity:使用實體
 use entropy:使用熵
 use environment and advantages:使用环境和优势
 use environment and core:使用环境和核心
@@ -9525,11 +9462,9 @@ use epidemiology:使用流行病学
 use epinephrine:使用肾上腺素
 use equation:使用方程
 use equation:使用等式
-use equipment:使用設備
 use equipment:使用设备
 use eritrea:使用厄立特里亚
 use error message:使用错误消息
-use error:使用錯誤
 use error:使用错误
 use errors:使用错误
 use escape sequence:使用转义序列
@@ -9549,7 +9484,7 @@ use ethical:使用伦理的
 use ethnic-minority:使用少数民族
 use ethylene glycol:使用乙二醇
 use ethylene:使用乙烯
-use etiquette:使用禮儀
+use etiquette:使用礼仪
 use eu:使用欧盟
 use euphemism:使用委婉
 use euro:使用欧元
@@ -9624,7 +9559,7 @@ use extra time:使用额外的时间
 use extra:使用额外的
 use extreme ultraviolet lithography:使用极紫外光刻
 use extreme:使用极端的
-use eye drop:使用眼藥水
+use eye drop:使用眼药水
 use eye tracking:使用眼动追踪
 use eye:使用眼
 use eye:使用眼睛
@@ -9641,7 +9576,7 @@ use factory:使用工厂
 use failover:使用故障转移
 use failure:使用失败
 use fair cup:使用公平的杯子
-use fair trade:使用公平貿易
+use fair trade:使用公平贸易
 use fair:使用公平的
 use faith:使用信仰
 use fake:使用假的
@@ -9665,7 +9600,6 @@ use fasting:使用禁食
 use fat:使用脂肪
 use fatty acid:使用脂肪酸
 use fax:使用传真
-use fax:使用傳真
 use fear:使用恐惧
 use fee:使用费用
 use feedback rather than plan:使用反馈而不是计划
@@ -9674,7 +9608,7 @@ use feel:使用感觉
 use female pronoun:使用女性代词
 use female:使用女性
 use female:使用雌性
-use feng shui:使用風水
+use feng shui:使用风水
 use fennel:使用茴香
 use fentanyl:使用芬太尼
 use fenugreek:使用胡芦巴
@@ -9704,11 +9638,9 @@ use film:使用电影
 use fin:使用鳍
 use financial accounting:使用财务会计
 use financial services:使用金融服务
-use financial services:使用金融服務
 use financing:使用融资
 use finger and thumb:使用手指和拇指
 use finger:使用手指
-use fingerprint:使用指紋
 use fingerprint:使用指纹
 use finite:使用有限的
 use finnish:使用芬兰语
@@ -9730,7 +9662,7 @@ use flag:使用旗
 use flamenco:使用弗拉明戈
 use flamethrower:使用火焰喷射器
 use flash memory:使用闪存
-use flashlight:使用手電筒
+use flashlight:使用手电筒
 use flax:使用亚麻
 use flea:使用跳蚤
 use flexible design tools:使用灵活的设计工具
@@ -9759,7 +9691,7 @@ use fly:使用飞
 use foam rubber:使用泡沫橡胶
 use foam:使用泡沫
 use focus group:使用焦点小组
-use fog:使用霧
+use fog:使用雾
 use folate:使用叶酸
 use font:使用字体
 use food additive:使用食品添加剂
@@ -9772,7 +9704,7 @@ use footnotes:使用脚注
 use force field:使用力场
 use force:使用力
 use force:使用力量
-use forced labour:使用強迫勞動
+use forced labour:使用強迫劳动
 use ford:使用福特
 use foreign exchange reserves:使用外汇储备
 use foreign language:使用外语
@@ -9903,15 +9835,15 @@ use genome:使用基因组
 use geographic information system:使用地理信息系统
 use george:使用乔治
 use geotextile:使用土工布
-use geothermal energy:使用地熱能
+use geothermal energy:使用地热能
 use german:使用德国人
 use german:使用德语
-use gerund:使用動名詞
+use gerund:使用动名词
 use gesture control:使用手势控制
 use gesture:使用手势
 use ghost:使用鬼魂
 use giant:使用巨大的
-use gift card:使用禮品卡
+use gift card:使用礼品卡
 use gill:使用鳃
 use ginger:使用姜
 use give:使用给
@@ -9920,7 +9852,6 @@ use glass display:使用玻璃显示
 use glass fiber:使用玻璃纤维
 use glass or stainless steel:使用玻璃或不锈钢
 use glass:使用玻璃
-use glasses:使用眼鏡
 use glasses:使用眼镜
 use global positioning system:使用全球定位系统
 use global variable:使用全局变量
@@ -10002,12 +9933,10 @@ use greek:使用希腊的
 use greek:使用希腊语
 use green and renewable energy:使用绿色和可再生能源
 use green cleaning:使用绿色清洁
-use green energy:使用綠色能源
 use green energy:使用绿色能源
 use green food:使用绿色食品
 use green materials:使用绿色材料
 use green passport:使用绿色护照
-use green:使用綠色
 use green:使用绿色
 use greenhouse:使用温室
 use greenland:使用格陵兰
@@ -10049,7 +9978,7 @@ use hands and finger:使用手和手指
 use hands:使用手
 use handwriting recognition:使用手写识别
 use happy:使用快乐的
-use hard power:使用硬實力
+use hard power:使用硬实力
 use hard water:使用硬水
 use hardware acceleration support:使用硬件加速支持
 use hardware acceleration:使用硬件加速
@@ -10062,14 +9991,13 @@ use harmful:使用有害的
 use has an interesting:使用有一个有趣的
 use has been:使用已经
 use hash table:使用哈希表
-use hashtag:使用主題標籤
+use hashtag:使用主题标签
 use hatred:使用仇恨
 use he:使用他
 use head:使用头
 use headache:使用头痛
 use header:使用标题
 use headphones:使用耳机
-use headphones:使用耳機
 use health and safety:使用健康和安全
 use health and social services:使用健康和社会服务
 use health apps:使用健康应用程序
@@ -10082,7 +10010,7 @@ use healthy oil:使用健康的油
 use healthy washing:使用健康的洗滌
 use healthy:使用健康的
 use heap:使用堆
-use hearing aid:使用助聽器
+use hearing aid:使用助听器
 use heart rate monitor:使用心率监测器
 use heart rate:使用心率
 use heat pump:使用热泵
@@ -10178,7 +10106,7 @@ use his speed:使用他的速度
 use his surname:使用他的姓氏
 use his toy:使用他的玩具
 use his true:使用他的真
-use his washing machine:使用他的洗衣機
+use his washing machine:使用他的洗衣机
 use his weapon:使用他的武器
 use his wife:使用他的妻子
 use history:使用历史
@@ -10206,10 +10134,9 @@ use hot runner:使用热流道
 use hot water bottle:使用热水瓶
 use hot water:使用热水
 use hot:使用热
-use hot:使用熱
 use hotel:使用酒店
 use hours:使用小时
-use housing choice:使用住房選擇
+use housing choice:使用住房选择
 use housing provident fund:使用住房公积金
 use housing:使用住房
 use how much:使用多少
@@ -10236,7 +10163,7 @@ use hundreds:使用数以百计
 use hurricane:使用飓风
 use hut:使用小屋
 use hydrochlorothiazide:使用氢氯噻嗪
-use hydrogen fuel:使用氫燃料
+use hydrogen fuel:使用氢燃料
 use hydrogen peroxide:使用过氧化氢
 use hydrogen:使用氢
 use hydrogenation:使用氢化
@@ -10244,7 +10171,6 @@ use hypnosis:使用催眠
 use hypocrisy:使用伪善
 use i:使用我
 use ice bridge:使用冰桥
-use ice bridge:使用冰橋
 use ice pack:使用冰袋
 use ice water:使用冰水
 use ice:使用冰
@@ -10289,7 +10215,7 @@ use in the united states:使用在美国
 use in this chapter:使用在本章中
 use in:使用里面
 use inbred strain:使用近交系
-use incandescent light bulb:使用白熾燈
+use incandescent light bulb:使用白炽灯
 use incentive mechanism:使用激励机制
 use incentive:使用激励
 use include:使用包括
@@ -10360,7 +10286,6 @@ use ink:使用墨水
 use inline caching:使用内联缓存
 use inline:使用内联
 use innovation:使用创新
-use innovation:使用創新
 use innovative:使用创新的
 use inorganic compound:使用无机化合物
 use input:使用输入
@@ -10372,7 +10297,7 @@ use insertion sort:使用插入排序
 use insight:使用洞察力
 use installation:使用安装
 use instance:使用实例
-use instant messaging:使用即時通訊
+use instant messaging:使用即时通讯
 use instinct:使用本能
 use instructional design and technology:使用教学设计和技术
 use instructional design:使用教学设计
@@ -10424,10 +10349,9 @@ use interpol:使用国际刑警组织
 use interpolation:使用插值
 use interpretation:使用解释
 use interrupt:使用中断
-use interrupt:使用中斷
 use interval:使用间隔
 use intervention:使用干预
-use intimidation:使用恐嚇
+use intimidation:使用恐吓
 use intrinsic semiconductor:使用本征半导体
 use intuition and experience:使用直觉和经验
 use intuition:使用直觉
@@ -10525,13 +10449,12 @@ use jesus:使用耶稣
 use jet engine:使用喷气发动机
 use jewellery:使用珠宝
 use jobs:使用工作
-use john:使用約翰
 use john:使用约翰
 use johnson:使用约翰逊
 use joint:使用关节
 use joke:使用笑话
 use jordan:使用约旦
-use joshua:使用約書亞
+use joshua:使用约书亚
 use journal:使用日志
 use journey:使用旅程
 use jumbo frame:使用巨型帧
@@ -10539,7 +10462,7 @@ use jump:使用跳
 use just:使用只
 use kabbalah:使用卡巴拉
 use kalman filter:使用卡尔曼滤波
-use kerosene lamp:使用煤油燈
+use kerosene lamp:使用煤油灯
 use kerosene or diesel fuel:使用煤油或柴油
 use kerosene:使用煤油
 use ketamine:使用氯胺酮
@@ -10551,45 +10474,41 @@ use key:使用关键
 use keyboard interaction:使用键盘交互
 use keyboard shortcut:使用快捷键
 use keyboard:使用键盘
-use keychain:使用鑰匙圈
+use keychain:使用钥匙圈
 use keysight:使用是德科技
 use kick:使用踢
 use kids:使用孩子
-use kigo:使用季語
+use kigo:使用季语
 use kinematics:使用运动学
 use kinship:使用亲属关系
 use kitchen:使用厨房
-use kitchen:使用廚房
 use kite:使用风筝
 use knowledge and logic:使用知识和逻辑
 use knowledge and technology:使用知识和技术
 use knowledge representation:使用知识表示
-use knowledge:使用知識
 use knowledge:使用知识
 use known:使用已知的
 use kone:使用通力
 use korean:使用韩语
 use kraft paper:使用牛皮纸
-use krill oil:使用磷蝦油
-use krill:使用磷蝦
+use krill oil:使用磷虾油
+use krill:使用磷虾
 use krones:使用克朗斯
 use label:使用标签
-use label:使用標籤
 use labor:使用劳动力
 use laboratory:使用实验室
 use lacquerware:使用漆器
 use lactone:使用内酯
 use lactose:使用乳糖
 use lady:使用女士
-use laminated glass:使用夾層玻璃
+use laminated glass:使用夹层玻璃
 use land and water:使用土地和水
 use land mine:使用地雷
 use land:使用土地
 use landing pages:使用着陆页
 use landing:使用着陆
-use landing:使用著陸
+use landing:使用著陆
 use landmark:使用地标
-use language:使用語言
 use language:使用语言
 use languages:使用语言
 use lantern:使用灯笼
@@ -10667,7 +10586,7 @@ use light beam:使用光束
 use light particle:使用光粒子
 use light sources:使用光源
 use light wave:使用光波
-use light-emitting diode:使用發光二極管
+use light-emitting diode:使用发光二极管
 use light:使用光
 use lighting equipment:使用照明设备
 use lighting:使用照明
@@ -10686,9 +10605,9 @@ use linear interpolation:使用线性插值
 use linguistics:使用语言学
 use link:使用连接
 use link:使用链接
-use linkedin:使用領英
+use linkedin:使用领英
 use links:使用链接
-use lip balm:使用潤唇膏
+use lip balm:使用润唇膏
 use lip:使用唇
 use lipstick:使用口红
 use lipstick:使用唇膏
@@ -10748,9 +10667,9 @@ use look:使用看
 use lookup table:使用查找表
 use loss:使用损失
 use love:使用爱
-use low-frequency:使用低頻
+use low-frequency:使用低频
 use low-pass filter:使用低通滤波器
-use low-voltage:使用低壓電
+use low-voltage:使用低压电
 use lower:使用小写字母
 use lower:使用降低
 use lubricant:使用润滑剂
@@ -10782,7 +10701,6 @@ use magic numbers:使用魔法数字
 use magic:使用魔法
 use magnesium chloride:使用氯化镁
 use magnesium:使用镁
-use magnet:使用磁鐵
 use magnet:使用磁铁
 use magnetic field:使用磁场
 use magnetic levitation:使用磁悬浮
@@ -10793,7 +10711,7 @@ use magnetism:使用磁
 use mail merge:使用邮件合并
 use mail:使用邮件
 use mailing list:使用邮件列表
-use maintenance:使用維護
+use maintenance:使用维护
 use majority:使用多数
 use makeup:使用化妆
 use malay:使用马来语
@@ -10807,7 +10725,7 @@ use management techniques:使用管理技术
 use management:使用管理
 use manchester code:使用曼彻斯特编码
 use manchester:使用曼彻斯特
-use mandala:使用曼荼羅
+use mandala:使用曼荼罗
 use manhattan distance:使用曼哈顿距离
 use manhattan:使用曼哈顿
 use manmade:使用人造的
@@ -10818,7 +10736,7 @@ use many different products:使用许多不同的产品
 use many different substance:使用许多不同的物质
 use many different teach:使用许多不同的教
 use many different techniques:使用许多不同的技术
-use many different tools:使用許多不同的工具
+use many different tools:使用许多不同的工具
 use many governments:使用许多政府
 use many influence:使用许多影响力
 use many interesting tools:使用很多有趣的工具
@@ -10833,14 +10751,14 @@ use many tools:使用很多工具
 use many tools:使用许多工具
 use many useful tools:使用许多有用的工具
 use many:使用很多
-use many:使用許多
+use many:使用许多
 use map:使用地图
 use marijuana:使用大麻
 use mark:使用标记
 use marker:使用标记
 use market capitalization:使用市值
 use market order:使用市场订单
-use market research:使用市場調查
+use market research:使用市场调查
 use market space:使用市场空间
 use market transactions:使用市场交易
 use market-clearing models:使用市场出清模型
@@ -10892,7 +10810,7 @@ use mechanism:使用机制
 use mechanisms:使用机制
 use mechanization:使用机械化
 use media:使用媒体
-use mediation:使用調解
+use mediation:使用调解
 use medical cannabis:使用医用大麻
 use medical device:使用医疗器械
 use medicinal plants:使用药用植物
@@ -10906,13 +10824,12 @@ use melting:使用熔化
 use member functions:使用成员函数
 use member:使用成员
 use membrane:使用膜
-use memory card:使用記憶卡
+use memory card:使用记忆卡
 use memory-map:使用内存映射
 use memory-mapped file:使用内存映射文件
-use memory:使用記憶
 use memory:使用记忆
 use menstrual cup:使用月经杯
-use menstruation:使用月經
+use menstruation:使用月经
 use menu items:使用菜单项
 use menu system:使用菜单系统
 use menu:使用菜单
@@ -10927,7 +10844,7 @@ use messenger:使用信使
 use meta:使用元
 use metadata:使用元数据
 use metagenomics:使用宏基因组学
-use metal detector:使用金屬探測器
+use metal detector:使用金属探测器
 use metal electrode:使用金属电极
 use metal ions:使用金属离子
 use metal or glass:使用金属或玻璃
@@ -10976,7 +10893,6 @@ use military language:使用军事语言
 use military power:使用军事力量
 use military:使用军事
 use military:使用军队
-use military:使用軍隊
 use militia:使用民兵
 use milk or yogurt:使用牛奶或酸奶
 use milk:使用牛奶
@@ -10997,7 +10913,7 @@ use mineral:使用矿物
 use minimum spanning tree:使用最小生成树
 use minor:使用次要
 use minoxidil:使用米诺地尔
-use mirror:使用鏡
+use mirror:使用镜
 use mirror:使用镜子
 use mislead:使用误导
 use misoprostol:使用米索前列醇
@@ -11006,10 +10922,10 @@ use mix:使用混合
 use mixed reality:使用混合现实
 use mm:使用毫米
 use mnemonic:使用记忆术
-use mobile app:使用流動應用程式
+use mobile app:使用流动应用程式
 use mobile browser:使用移动浏览器
 use mobile device management:使用移动设备管理
-use mobile device management:使用行動裝置管理
+use mobile device management:使用行动装置管理
 use mobile device:使用移动设备
 use mobile marketing:使用移动营销
 use mobile phone:使用移动电话
@@ -11051,7 +10967,7 @@ use monero:使用门罗币
 use monetary policy:使用货币政策
 use monetary-policy:使用货币政策
 use money market:使用货币市场
-use money:使用貨幣
+use money:使用货币
 use money:使用钱
 use monitor:使用监视器
 use monte carlo:使用蒙特卡洛
@@ -11095,7 +11011,6 @@ use moses:使用摩西
 use most phone camera:使用大多数手机相机
 use most:使用大多数
 use motion control:使用运动控制
-use motion control:使用運動控制
 use motion graphics:使用动态图形
 use motion sensor:使用运动传感器
 use motion:使用运动
@@ -11189,7 +11104,6 @@ use natural cleaning products:使用天然的清洁产品
 use natural gas and hydrogen:使用天然气和氢
 use natural gas liquid:使用天然气液体
 use natural gas:使用天然气
-use natural gas:使用天然氣
 use natural hand:使用自然的手
 use natural language generation:使用自然语言生成
 use natural language processing:使用自然语言处理
@@ -11199,7 +11113,6 @@ use natural light rather than:使用自然光而不是
 use natural light:使用自然光
 use natural materials:使用天然材料
 use natural products:使用天然产品
-use natural resources:使用自然資源
 use natural resources:使用自然资源
 use natural sunscreen:使用天然的防晒霜
 use natural-language processing:使用自然语言处理
@@ -11367,7 +11280,7 @@ use of checksum:使用的校验和
 use of chemical weapon:使用的化学武器
 use of children:使用的孩子
 use of chimpanzee:使用的黑猩猩
-use of cluster munitions in the russian invasion of ukraine:俄羅斯入侵烏克蘭期間集束彈藥的使用
+use of cluster munitions in the russian invasion of ukraine:俄罗斯入侵乌克兰期间集束弹药的使用
 use of color and production:使用的颜色和生产
 use of color and synthesis:使用的颜色和合成
 use of color:使用的颜色
@@ -11404,9 +11317,9 @@ use of grammar structure:使用的语法结构
 use of helium:使用的氦
 use of high:使用的高
 use of hotel facilities:使用的酒店设施
-use of human faeces in traditional medicine:糞酒
+use of human faeces in traditional medicine:粪酒
 use of hypertext links:使用的超文本链接
-use of immunosuppressant:使用的免疫抑制劑
+use of immunosuppressant:使用的免疫抑制剂
 use of inflatable boat:使用的充气船
 use of information:使用的信息
 use of injection:使用的注射
@@ -11415,14 +11328,12 @@ use of label:使用的标签
 use of laboratory:使用的实验室
 use of land:使用的土地
 use of land:土地使用
-use of language:使用的語言
 use of language:使用的语言
-use of language:語言使用
+use of language:语言使用
 use of laser:使用的激光器
-use of lighting equipment:使用的照明設備
 use of lighting equipment:使用的照明设备
 use of liquid oxygen:使用的液氧
-use of longbow:使用的長弓
+use of longbow:使用的长弓
 use of mail system:使用的邮件系统
 use of malic acid:使用的苹果酸
 use of many apps:使用的许多应用程序
@@ -11464,7 +11375,7 @@ use of social media platforms:使用的社交媒体平台
 use of soil:使用的土壤
 use of solid materials:使用的固体材料
 use of solvent:使用的溶剂
-use of space:使用的空間
+use of space:使用的空间
 use of standard software:使用的标准软件
 use of standards:使用的标准
 use of steel:使用的钢
@@ -11489,7 +11400,7 @@ use of water:使用的水
 use of weapons:武器使用
 use of website:使用的网站
 use of white space:使用的白色空间
-use of work equipment:使用的工作設備
+use of work equipment:使用的工作设备
 use of zero-knowledge proof:使用的零知识证明
 use of zero-knowledge:使用的零知识
 use office:使用办公室
@@ -11501,8 +11412,8 @@ use oil lamp:使用油灯
 use oil red:使用油红色
 use oil:使用油
 use oleuropein:使用橄榄苦苷
-use olive oil or vegetable oil:使用橄欖油或植物油
-use olive oil:使用橄欖油
+use olive oil or vegetable oil:使用橄榄油或植物油
+use olive oil:使用橄榄油
 use oman:使用阿曼
 use omeprazole:使用奥美拉唑
 use on-demand:使用按需
@@ -11519,7 +11430,7 @@ use online applications:使用在线应用程序
 use online chat:使用在线聊天
 use online content:使用在线内容
 use online dating app:使用在线约会应用
-use online dating:使用在線約會
+use online dating:使用在线约会
 use online education tools:使用在线教育工具
 use online feedback:使用在线反馈
 use online game:使用网络游戏
@@ -11635,16 +11546,16 @@ use order:使用订单
 use ore:使用矿石
 use organ:使用器官
 use organic acid:使用有机酸
-use organic cotton:使用有機棉
+use organic cotton:使用有机棉
 use organic fertilizer:使用有机肥料
 use organic solvent:使用有机溶剂
 use organic:使用有机的
 use organization:使用组织
 use organizations:使用组织
-use organized crime:使用有組織犯罪
-use organized-crime:使用有組織犯罪
+use organized crime:使用有组织犯罪
+use organized-crime:使用有组织犯罪
 use original:使用原始的
-use orthogonal frequency-division multiple-access:使用正交頻分多址
+use orthogonal frequency-division multiple-access:使用正交频分多址
 use oscilloscope:使用示波器
 use other big data technologies:使用其他的大数据技术
 use other definition:使用其他的定义
@@ -11765,7 +11676,7 @@ use ozone:使用臭氧
 use pacifier:使用奶嘴
 use package management:使用包管理
 use package:使用包
-use packaging:使用包裝
+use packaging:使用包装
 use packet switching:使用分组交换
 use paclitaxel:使用紫杉醇
 use pad:使用垫子
@@ -11848,10 +11759,10 @@ use period:使用周期
 use permanent magnet:使用永磁体
 use permit:使用许可
 use personal computer:使用个人电脑
-use personal data:使用個人資訊
+use personal data:使用个人资讯
 use personal firewall:使用个人防火墙
 use personal information:使用个人信息
-use persuasion:使用說服
+use persuasion:使用说服
 use pesticide:使用农药
 use pet:使用宠物
 use peter pan:使用彼得潘
@@ -11863,7 +11774,7 @@ use phase:使用阶段
 use phased array:使用相控阵
 use phasor:使用相量
 use phenol:使用苯酚
-use philips:使用飛利浦
+use philips:使用飞利浦
 use phone systems:使用电话系统
 use phone:使用手机
 use phone:使用电话
@@ -11910,7 +11821,7 @@ use plastic garbage:使用塑料垃圾
 use plastic package:使用塑料包
 use plastic tray:使用塑料托盘
 use plastic:使用塑料
-use plastics:使用塑膠
+use plastics:使用塑胶
 use plate:使用盘子
 use platform specific:使用平台特定的
 use platform:使用平台
@@ -11929,7 +11840,7 @@ use points:使用点
 use poker:使用扑克
 use policies:使用政策
 use policy:使用政策
-use political power:使用政治權力
+use political power:使用政治权力
 use political science:使用政治学
 use political:使用政治的
 use politics:使用政治
@@ -11954,7 +11865,6 @@ use population genetics:使用群体遗传学
 use population:使用人口
 use porcelain:使用瓷器
 use pork:使用猪肉
-use pork:使用豬肉
 use pornography:使用色情作品
 use port forwarding:使用端口转发
 use port:使用端口
@@ -11995,14 +11905,14 @@ use prayer card:使用祷告卡
 use prayer:使用祈祷
 use prayer:使用祷告
 use pre-training:使用预训练
-use precious metal:使用貴金屬
+use precious metal:使用贵金属
 use precise mathematical model:使用精确的数学模型
 use precise terminology:使用精确的术语
 use precise:使用精确的
 use predefined:使用预定义的
 use predict:使用预测
 use prediction market:使用预测市场
-use prediction:使用預測
+use prediction:使用预测
 use predictive analytics algorithms:使用预测分析算法
 use predictive analytics:使用预测分析
 use predictive maintenance:使用预测性维护
@@ -12012,7 +11922,7 @@ use preference:使用偏好
 use prefix:使用前缀
 use preprocess:使用预处理
 use preprocessor:使用预处理器
-use prescription drug:使用處方藥
+use prescription drug:使用处方药
 use present tense:使用现在时
 use press:使用按
 use pressure drop:使用压降
@@ -12044,9 +11954,9 @@ use private aircraft:使用私人飞机
 use private and public:使用私人和公共
 use private bank:使用私人银行
 use private banks:使用私人银行
-use private cloud:使用私有雲
+use private cloud:使用私有云
 use private devices:使用私人设备
-use private lawyer:使用私人律師
+use private lawyer:使用私人律师
 use private transport:使用私人交通工具
 use private-sector:使用私营部门
 use private:使用私人
@@ -12057,7 +11967,6 @@ use probability:使用概率
 use probiotic:使用益生菌
 use problem or internet addiction disorder:使用问题或网络成瘾症
 use problem-solving:使用解决问题
-use problem:使用問題
 use problem:使用问题
 use problems:使用问题
 use procedure:使用程序
@@ -12100,7 +12009,7 @@ use prop:使用道具
 use propaganda:使用宣传
 use propane:使用丙烷
 use propeller:使用螺旋桨
-use property:使用財產
+use property:使用财产
 use prophecy:使用预言
 use prophet:使用先知
 use proportional representation:使用比例代表制
@@ -12116,7 +12025,6 @@ use protection:使用保护
 use protein and fat:使用蛋白质和脂肪
 use protein powder:使用蛋白质粉末
 use protein:使用蛋白质
-use protest:使用抗議
 use protest:使用抗议
 use protocol:使用协议
 use proton:使用质子
@@ -12152,7 +12060,7 @@ use public records and database:使用公共记录和数据库
 use public records:使用公共记录
 use public relations:使用公共关系
 use public service:使用公共服务
-use public space:使用公共空間
+use public space:使用公共空间
 use public telephone:使用公共电话
 use public toilet:使用公共厕所
 use public transit:使用公共交通
@@ -12161,12 +12069,11 @@ use public transport:使用公共交通
 use public:使用公众
 use public:使用公共
 use public:使用公共的
-use public:使用公眾
 use pull-up resistor:使用上拉电阻
 use pulsar:使用脉冲星
 use pump:使用泵
 use pumpkin seed:使用南瓜籽
-use pun:使用雙關
+use pun:使用双关
 use punctuation:使用标点符号
 use punishment:使用惩罚
 use purchase:使用购买
@@ -12245,7 +12152,7 @@ use reach:使用达到
 use reactive programming:使用响应式编程
 use read:使用读
 use reader:使用读者
-use reading:使用閱讀
+use reading:使用阅读
 use real number:使用实数
 use real robots:使用真的机器人
 use real time:使用实时
@@ -12286,11 +12193,10 @@ use red:使用红色
 use redirect:使用重定向
 use redo:使用重做
 use reduce:使用减少
-use redundancy:使用冗餘
+use redundancy:使用冗余
 use reference books:使用参考书
 use reference counting:使用引用计数
 use reference:使用参考
-use reference:使用參考
 use reference:使用引用
 use references:使用参考文献
 use references:使用参考资料
@@ -12320,7 +12226,7 @@ use reliable:使用可靠的
 use relieve:使用缓解
 use religion:使用宗教
 use religious law:使用宗教法
-use remote control:使用遙控
+use remote control:使用遥控
 use remote sensing:使用遥感
 use renault engines:使用雷诺发动机
 use renault:使用雷诺
@@ -12328,12 +12234,10 @@ use render:使用渲染
 use renewable energy:使用可再生能源
 use renewable fuels:使用可再生燃料
 use renewable power:使用可再生能源
-use renewable resource:使用可再生資源
 use renewable resource:使用可再生资源
 use renewable:使用可再生的
 use repeater:使用中继器
 use replace:使用替代
-use report:使用報告
 use report:使用报告
 use reports:使用报告
 use reptile:使用爬行动物
@@ -12358,7 +12262,7 @@ use restricted:使用受限制的
 use restriction technologies:使用限制技术
 use restriction:使用限制
 use result:使用导致
-use resurrection:使用復活
+use resurrection:使用复活
 use retail marijuana:使用零售大麻
 use retail:使用零售
 use retinol:使用视黄醇
@@ -12404,7 +12308,7 @@ use role:使用角色
 use roman numerals:使用罗马数字
 use roof:使用屋顶
 use room temperature:使用室温
-use rope:使用繩
+use rope:使用绳
 use rose:使用玫瑰
 use rosemary:使用迷迭香
 use route:使用路线
@@ -12427,7 +12331,6 @@ use safe water:使用安全的水
 use safe:使用安全的
 use safety and environmental protection:使用安全和环保
 use safety belt:使用安全带
-use safety equipment:使用安全設備
 use safety equipment:使用安全设备
 use safety glass:使用安全玻璃
 use safety issues:使用安全问题
@@ -12487,8 +12390,8 @@ use scientific method:使用科学方法
 use scientific notation:使用科学记数法
 use scientific:使用科学
 use scientific:使用科学的
-use scientology:使用山達基
-use scissors and crayon:使用剪刀和蠟筆
+use scientology:使用山达基
+use scissors and crayon:使用剪刀和蜡笔
 use scissors:使用剪刀
 use scope:使用范围
 use scottish english:使用苏格兰英语
@@ -12497,9 +12400,9 @@ use screen fingerprint:使用屏幕指纹
 use screen lock:使用屏幕锁
 use screen time:使用屏幕时间
 use screen:使用屏幕
-use screw:使用螺絲
+use screw:使用螺丝
 use script:使用脚本
-use scrollbar:使用滾動條
+use scrollbar:使用滚动条
 use sculpture:使用雕塑
 use sea ice:使用海冰
 use sea salt:使用海盐
@@ -12535,7 +12438,6 @@ use selenium:使用硒
 use self hypnosis:使用自我催眠
 use self-defence:使用自我防卫
 use self-driving car:使用自动驾驶汽车
-use self-report:使用自我報告
 use self-report:使用自我报告
 use self:使用自己
 use self:使用自我
@@ -12592,8 +12494,8 @@ use shader:使用着色器
 use shadow:使用影子
 use shadow:使用阴影
 use shame:使用羞耻
-use shampoo:使用洗髮精
-use shape:使用形狀
+use shampoo:使用洗发精
+use shape:使用形状
 use share button:使用分享按钮
 use share:使用分享
 use shared memory:使用共享内存
@@ -12609,7 +12511,7 @@ use shell:使用殼
 use shield:使用盾
 use ship:使用船
 use shoot:使用射击
-use shopping:使用購物
+use shopping:使用购物
 use shore power:使用岸电
 use short:使用短的
 use shortcut:使用快捷方式
@@ -12623,7 +12525,7 @@ use shutter priority:使用快门优先
 use sick leave:使用病假
 use sidewalk:使用人行道
 use sight:使用视觉
-use sign language:使用手語
+use sign language:使用手语
 use sign:使用签名
 use signage:使用招牌
 use signal:使用信号
@@ -12639,7 +12541,7 @@ use silicon dioxide:使用二氧化硅
 use silicon:使用硅
 use silicone rubber:使用硅橡胶
 use silk:使用丝绸
-use silver:使用銀
+use silver:使用银
 use similar components:使用相似的组件
 use similar logic:使用相似的逻辑
 use similar set:使用相似的设置
@@ -12661,7 +12563,7 @@ use singapore:使用新加坡
 use singh:使用辛格
 use single crystal:使用单晶
 use single page application:使用单页应用
-use single sign-on:使用單一登入
+use single sign-on:使用单一登入
 use single-cell sequencing:使用单细胞测序
 use single:使用单个的
 use site:使用站点
@@ -12729,7 +12631,7 @@ use social media and websites:使用社交媒体和网站
 use social media apps:使用社交媒体应用程序
 use social media services:使用社交媒体服务
 use social media:使用社交媒体
-use social media:使用社群媒體
+use social media:使用社群媒体
 use social network analysis:使用社会网络分析
 use social network:使用社交网络
 use social network:使用社会网络
@@ -12769,13 +12671,12 @@ use soil map:使用土壤地图
 use soil:使用土壤
 use solar cell:使用太阳能电池
 use solar energy:使用太阳能
-use solar radiation:使用太陽輻射
+use solar radiation:使用太阳辐射
 use solar sail:使用太阳帆
-use solar-cycle:使用太陽週期
+use solar-cycle:使用太阳周期
 use solid electrolyte gas:使用固体电解质气体
 use solid electrolyte:使用固体电解质
 use solid fuel:使用固体燃料
-use solid fuel:使用固體燃料
 use solid hydrogen:使用固体氢
 use solid materials:使用固体材料
 use solid state:使用固态
@@ -12788,7 +12689,7 @@ use solutions:使用解决方案
 use solvent:使用溶剂
 use some air humidifier:使用一些空气加湿器
 use some applications:使用一些应用程序
-use some creativity:使用一些創造力
+use some creativity:使用一些创造力
 use some data:使用一些数据
 use some energy:使用一些能量
 use some help:使用一些帮助
@@ -12796,13 +12697,12 @@ use some high safety:使用一些高安全
 use some kind of:使用某种
 use some more:使用一些更多
 use some professional:使用一些专业的
-use some sort of framework:使用某種框架
+use some sort of framework:使用某种框架
 use some sort of half:使用某种半
 use some sort of program:使用某种程序
 use some sort of protocol:使用某种协议
 use some sort of support:使用某种支持
 use some sort of:使用某种
-use some sort of:使用某種
 use some sort:使用某种形式
 use some successful development:使用一些成功的开发
 use some support:使用一些支持
@@ -12836,7 +12736,6 @@ use soybean oil:使用大豆油
 use soybean:使用大豆
 use space station:使用空间站
 use space technologies:使用空间技术
-use space:使用空間
 use space:使用空间
 use spacecraft:使用航天器
 use spaced repetition:使用间隔重复
@@ -12884,7 +12783,7 @@ use spider:使用蜘蛛
 use spinach:使用菠菜
 use spirit enhancement:使用精神增强
 use spirit:使用精神
-use spirituality:使用靈性
+use spirituality:使用灵性
 use sport:使用体育运动
 use sport:使用运动
 use sports drink:使用运动饮料
@@ -12899,7 +12798,7 @@ use stagecoach:使用驿站马车
 use stainless steel countertop:使用不锈钢台面
 use stainless steel products:使用不锈钢产品
 use stainless steel tableware:使用不锈钢餐具
-use stainless steel:使用不鏽鋼
+use stainless steel:使用不鏽钢
 use stainless steel:使用不锈钢
 use stainless-steel water bottle:使用不锈钢水壶
 use stainless-steel:使用不锈钢
@@ -12947,7 +12846,6 @@ use steel:使用钢
 use steering wheel:使用方向盘
 use steganography:使用隐写术
 use stem cell:使用干细胞
-use stem cell:使用幹細胞
 use stem-cell:使用干细胞
 use still:使用仍然
 use stimulant:使用兴奋剂
@@ -12957,7 +12855,6 @@ use stock photos:使用股票照片
 use stock:使用股票
 use stone tool:使用石器
 use stone:使用石头
-use stone:使用石頭
 use stop word:使用停用词
 use storage area network:使用存储区域网络
 use storage device:使用存储设备
@@ -12981,7 +12878,7 @@ use street address:使用街道地址
 use street:使用街
 use street:使用街道
 use strength:使用力量
-use streptomycin:使用鏈黴素
+use streptomycin:使用链霉素
 use stress management:使用压力管理
 use stress:使用压力
 use strict:使用严格的
@@ -13007,7 +12904,7 @@ use subscript:使用下标
 use subsidiaries:使用子公司
 use substance:使用物质
 use subtitles:使用字幕
-use subtraction:使用減法
+use subtraction:使用减法
 use subway:使用地铁
 use such:使用如此
 use suck:使用吸
@@ -13044,7 +12941,6 @@ use swedish:使用瑞典语
 use sweetener:使用甜味剂
 use swiss:使用瑞士
 use switch:使用开关
-use switch:使用開關
 use sword:使用剑
 use syllable:使用音节
 use symbol:使用符号
@@ -13065,16 +12961,13 @@ use synthetic-rubber:使用合成橡胶
 use synthetic:使用人造的
 use syria:使用叙利亚
 use syringe:使用注射器
-use system center:使用系統中心
 use system center:使用系统中心
-use system centre:使用系統中心
+use system centre:使用系统中心
 use system class:使用系统类
-use system memory:使用系統記憶
 use system memory:使用系统记忆
 use system resource:使用系统资源
 use system restore:使用系统恢复
 use system software:使用系统软件
-use system:使用系統
 use system:使用系统
 use systems biology:使用系统生物学
 use systems:使用系统
@@ -13108,14 +13001,14 @@ use tax cut:使用减税
 use tax rate:使用税率
 use tax return:使用纳税申报表
 use tax:使用稅
-use taxi:使用出租車
+use taxi:使用出租车
 use taxpayer:使用纳税人
 use tea tree oil:使用茶树油
 use tea:使用茶
 use teach:使用教
 use team learning:使用团队学习
 use team:使用团队
-use tear gas:使用催淚彈
+use tear gas:使用催泪弹
 use technical analysis and charts:使用技术分析和图表
 use technical analysis:使用技术分析
 use technical support:使用技术支持
@@ -13142,7 +13035,7 @@ use temperature:使用温度
 use template:使用模板
 use temporary file:使用临时文件
 use temporary variables:使用临时变量
-use temporary work:使用臨時工
+use temporary work:使用临时工
 use temporary:使用临时
 use ten:使用十
 use tencent cloud:使用腾讯云
@@ -13187,7 +13080,7 @@ use the first-generation:使用第一代
 use the first:使用第一次
 use the force:使用原力
 use the game:使用这个游戏
-use the key:使用鍵
+use the key:使用键
 use the only:使用唯一
 use the pentagon:使用五角大楼
 use the people's republic of china:使用中华人民共和国
@@ -13287,11 +13180,9 @@ use their weapon:使用他们的武器
 use their weapons:使用他们的武器
 use their:使用他们的
 use them:使用他们
-use theme:使用主題
 use theme:使用主题
 use theorem:使用定理
 use theory and research:使用理论和研究
-use theory:使用理論
 use theory:使用理论
 use thermistor:使用热敏电阻
 use thermocouple:使用热电偶
@@ -13478,7 +13369,7 @@ use time limit:使用时限
 use time travel:使用时间旅行
 use time-test:使用时间测试
 use time:使用时间
-use timer:使用定時器
+use timer:使用定时器
 use times:使用次数
 use tire:使用轮胎
 use titanium:使用钛
@@ -13490,8 +13381,8 @@ use to public:使用到公共
 use tobacco products:使用烟草产品
 use tobacco:使用烟草
 use today:使用今天
+use toilet paper:使用卫生纸
 use toilet paper:使用厕纸
-use toilet paper:使用衛生紙
 use toilet:使用厕所
 use tolerance:使用容忍
 use tony:使用托尼
@@ -13520,7 +13411,7 @@ use tower:使用塔
 use towers:使用塔
 use town:使用城镇
 use toy:使用玩具
-use toyota prius:使用豐田普銳斯
+use toyota prius:使用丰田普锐斯
 use toyota:使用丰田
 use tractor:使用拖拉机
 use trade:使用贸易
@@ -13598,7 +13489,7 @@ use twenty:使用二十
 use twice:使用两次
 use twist:使用扭曲
 use twisted pair:使用双绞线
-use two-factor authentication:使用雙重認證
+use two-factor authentication:使用双重认证
 use two:使用二
 use type erasure:使用类型擦除
 use type inference:使用类型推理
@@ -13615,7 +13506,6 @@ use ultracold atom:使用超冷原子
 use ultraviolet radiation:使用紫外线辐射
 use ultraviolet:使用紫外线
 use umbrella:使用伞
-use umbrella:使用傘
 use uncertainty:使用不确定性
 use under:使用下
 use underground flow:使用地下流动
@@ -13767,7 +13657,7 @@ use virtual function:使用虚函数
 use virtual reality head:使用虚拟现实头
 use virtual reality technology:使用虚拟现实技术
 use virtual reality:使用虚拟现实
-use virtualization:使用虛擬化
+use virtualization:使用虛拟化
 use virus:使用病毒
 use viruses:使用病毒
 use vision:使用视觉
@@ -13788,12 +13678,10 @@ use voice:使用语音
 use volkswagen:使用大众汽车
 use volleyball:使用排球
 use voltage:使用电压
-use voltage:使用電壓
 use volume measurement:使用体积测量
 use volume:使用体积
 use volume:使用卷
 use volunteer:使用志愿者
-use volunteer:使用志願者
 use volvo trucks:使用沃尔沃卡车
 use voting:使用投票
 use waist:使用腰
@@ -13846,7 +13734,7 @@ use web site:使用网站
 use web storage:使用网页存储
 use web:使用网
 use weber:使用韦伯
-use webmaster:使用網站管理員
+use webmaster:使用网站管理员
 use website:使用网站
 use websites and blogs:使用网站和博客
 use websites:使用网站
@@ -13871,12 +13759,11 @@ use wetsuit:使用潜水服
 use what strategy:使用什么策略
 use what way:使用什么办法
 use what:使用什么
-use what:使用什麼
 use whatever:使用无论什么
 use wheat:使用小麦
-use wheel:使用輪
+use wheel:使用轮
 use wheel:使用轮子
-use wheelchair:使用輪椅
+use wheelchair:使用轮椅
 use when we:使用当我们
 use when you:使用当你
 use which one:使用哪一个
@@ -13918,7 +13805,6 @@ use will:使用会
 use willow bark:使用柳树皮
 use willow:使用柳树
 use wind tunnel:使用风洞
-use wind:使用風
 use wind:使用风
 use window:使用窗
 use wine:使用葡萄酒
@@ -13928,10 +13814,10 @@ use winter tire:使用冬季轮胎
 use winter:使用冬季
 use wireless lan:使用无线局域网
 use wireless network:使用无线网络
-use wireless telephone:使用無線電話
+use wireless telephone:使用无线电话
 use wireless:使用无线的
 use wisdom:使用智慧
-use witchcraft:使用巫術
+use witchcraft:使用巫术
 use withdrawal:使用体外射精
 use without any:使用没有任何
 use without:使用没有
@@ -13993,7 +13879,7 @@ use your car:使用你的汽车
 use your car:使用你的车
 use your card:使用你的卡
 use your company name:使用你的公司名称
-use your computer:使用你的電腦
+use your computer:使用你的电脑
 use your contact information:使用你的联系信息
 use your core:使用你的核心
 use your credit card:使用你的信用卡
@@ -14003,8 +13889,8 @@ use your data:使用你的数据
 use your design:使用你的设计
 use your detective skills:使用你的侦探技能
 use your devices:使用你的设备
-use your driving abilities:使用你的駕駛能力
-use your driving skills:使用你的駕駛技能
+use your driving abilities:使用你的驾驶能力
+use your driving skills:使用你的驾驶技能
 use your energy:使用你的能量
 use your english:使用你的英语
 use your eye protection:使用你的眼睛保护
@@ -14033,7 +13919,7 @@ use your monarch:使用你的君主
 use your muscle:使用你的肌肉
 use your name:使用你的名字
 use your network:使用你的网络
-use your personal data:使用你的個人資訊
+use your personal data:使用你的个人资讯
 use your phone app:使用你的手机应用程序
 use your phone:使用你的手机
 use your power:使用你的电力
@@ -14064,11 +13950,9 @@ use your username:使用你的用户名
 use your vote:使用你的投票
 use your weapon:使用你的武器
 use your weapons:使用你的武器
-use your website:使用你的網站
 use your website:使用你的网站
 use your:使用你们的
 use your:使用你的
-use zebra:使用斑馬
 use zebra:使用斑马
 use zeolite:使用沸石
 use zero trust models:使用零信任模型
@@ -14115,7 +13999,7 @@ used black tire:用过的黑色轮胎
 used black:用过的黑色
 used blackboard:用过的黑板
 used blood:用过的血液
-used book:二手書
+used book:二手书
 used book:用过的书
 used books:用过的书
 used books:用过的书籍
@@ -14123,12 +14007,12 @@ used bottle:用过的瓶
 used bourbon:用过的波旁
 used breed:用过的繁殖
 used brick:用过的砖
-used car buy:二手車買
-used car evaluation value:二手車評估值
-used car evaluation:二手車評估
-used car salesman:二手車推銷員
-used car transactions:二手車交易
-used car:二手車
+used car buy:二手车买
+used car evaluation value:二手车评估值
+used car evaluation:二手车评估
+used car salesman:二手车推销员
+used car transactions:二手车交易
+used car:二手车
 used carbon monoxide:用过的一氧化碳
 used cardboard:用过的纸板
 used catalytic converter:用过的催化转换器
@@ -14167,7 +14051,7 @@ used fur:用过的毛皮
 used glass bottle:用过的玻璃瓶
 used glass:用过的玻璃
 used golf:用过的高尔夫球
-used good:二手貨
+used good:二手货
 used guitar:用过的吉他
 used gun:用过的枪
 used happy meal:用过的开心乐园餐
@@ -14229,8 +14113,8 @@ used vaccine:用过的疫苗
 used vegetable oil:用过的植物油
 used water:用过的水
 used wood:用过的木材
-used-car company:二手車公司
-used-car retail:二手車零售
+used-car company:二手车公司
+used-car retail:二手车零售
 used:用过的
 usedom:乌瑟多姆岛
 useful ability:有用的能力
@@ -14256,7 +14140,7 @@ useful algorithms without any:有用的算法没有任何
 useful algorithms:有用的算法
 useful alloy:有用的合金
 useful analgesic:有用的镇痛药
-useful analogy:有用的類比
+useful analogy:有用的类比
 useful analysis:有用的分析
 useful analytics:有用的分析
 useful anchor:有用的锚
@@ -14302,7 +14186,6 @@ useful articles:有用的文章
 useful artificial intelligence:有用的人工智能
 useful ass:有用的屁股
 useful assessment:有用的评估
-useful asset:有用的資產
 useful asset:有用的资产
 useful assets:有用的资产
 useful assistant:有用的助手
@@ -14316,7 +14199,7 @@ useful attribute:有用的属性
 useful audio information:有用的音频信息
 useful audio:有用的音频
 useful automation:有用的自动化
-useful automaton:有用的自動機
+useful automaton:有用的自动机
 useful back:有用的背
 useful background information:有用的背景信息
 useful background:有用的背景
@@ -14340,7 +14223,7 @@ useful big data:有用的大数据
 useful biobank material:有用的生物银行材料
 useful biobank:有用的生物银行
 useful biofuel:有用的生物燃料
-useful biography:有用的傳記
+useful biography:有用的传记
 useful biomarker:有用的生物标记
 useful biometrics:有用的生物识别技术
 useful bitcoin:有用的比特币
@@ -14360,14 +14243,13 @@ useful brand:有用的品牌
 useful brands:有用的品牌
 useful breed:有用的品种
 useful bridge:有用的桥
-useful bridge:有用的橋
 useful building materials:有用的建筑材料
 useful buildings:有用的建筑
 useful business intelligence:有用的商业智能
 useful business value:有用的商业价值
 useful business:有用的商业
 useful button:有用的按钮
-useful by-product:有用的副產品
+useful by-product:有用的副产品
 useful bytecode editing:有用的字节码编辑
 useful bytecode:有用的字节码
 useful calculation:有用的计算
@@ -14427,7 +14309,7 @@ useful code:有用的代码
 useful colonist:有用的殖民
 useful color:有用的颜色
 useful column:有用的列
-useful combination:有用的組合
+useful combination:有用的组合
 useful comfort:有用的安慰
 useful command output:有用的命令输出
 useful command pattern:有用的命令模式
@@ -14512,7 +14394,6 @@ useful density:有用的密度
 useful description:有用的描述
 useful design elements:有用的设计元素
 useful design pattern:有用的设计模式
-useful design:有用的設計
 useful design:有用的设计
 useful desktop:有用的桌面
 useful details and data:有用的细节和数据
@@ -14527,7 +14408,7 @@ useful diary:有用的日记
 useful difference:有用的区别
 useful digestive:有用的消化
 useful direction:有用的方向
-useful directory:有用的目錄
+useful directory:有用的目录
 useful discount card:有用的折扣卡
 useful discount:有用的折扣
 useful discover:有用的发现
@@ -14547,7 +14428,7 @@ useful drug:有用的药物
 useful drugs:有用的药物
 useful dynamic range:有用的动态范围
 useful each:有用的每个
-useful economic indicator:有用的經濟指標
+useful economic indicator:有用的经济指标
 useful economist:有用的经济学家
 useful education:有用的教育
 useful effect:有用的效果
@@ -14566,7 +14447,6 @@ useful employment:有用的就业
 useful encryption:有用的加密
 useful encyclopedia:有用的百科全书
 useful enemy:有用的敌人
-useful enemy:有用的敵人
 useful energy capacity:有用的能量容量
 useful energy:有用的能源
 useful energy:有用的能量
@@ -14593,18 +14473,15 @@ useful exchange:有用的交换
 useful exercise:有用的练习
 useful exercises:有用的练习
 useful experience:有用的体验
-useful experience:有用的經驗
 useful experience:有用的经验
 useful experiences:有用的经验
 useful experiment:有用的实验
 useful expert:有用的专家
 useful explanation:有用的解释
-useful explanation:有用的解釋
 useful exploration:有用的探索
 useful expression:有用的表达
 useful facilities:有用的设施
 useful fact:有用的事实
-useful fact:有用的事實
 useful factory:有用的工厂
 useful feature:有用的特点
 useful features:有用的特点
@@ -14653,7 +14530,6 @@ useful gene:有用的基因
 useful genes:有用的基因
 useful gesture:有用的手势
 useful gift:有用的礼物
-useful gift:有用的禮物
 useful glossary:有用的词汇表
 useful goal:有用的目标
 useful goals:有用的目标
@@ -14728,7 +14604,6 @@ useful information:有用的信息
 useful infrastructure:有用的基础设施
 useful initiative:有用的倡议
 useful innovation:有用的创新
-useful innovation:有用的創新
 useful innovation:有用的革新
 useful input signal:有用的输入信号
 useful input:有用的输入
@@ -14747,7 +14622,7 @@ useful intuition:有用的直觉
 useful invention:有用的发明
 useful investment:有用的投资
 useful is we:有用的是我们
-useful island:尤斯弗爾島
+useful island:尤斯弗尔岛
 useful issue:有用的问题
 useful italian:有用的意大利语
 useful iterator:有用的迭代器
@@ -14759,7 +14634,6 @@ useful keyboard:有用的键盘
 useful knowledge and music:有用的知识和音乐
 useful knowledge and skills:有用的知识与技巧
 useful knowledge and skills:有用的知识和技能
-useful knowledge:有用的知識
 useful knowledge:有用的知识
 useful label:有用的标签
 useful laboratory:有用的实验室
@@ -14830,7 +14704,6 @@ useful meetings:有用的会议
 useful member:有用的成员
 useful members:有用的成员
 useful memoir:有用的回忆录
-useful memory:有用的記憶
 useful memory:有用的记忆
 useful menu:有用的菜单
 useful message:有用的消息
@@ -14969,7 +14842,6 @@ useful port:有用的端口
 useful position:有用的位置
 useful power:有用的力量
 useful practice:有用的实践
-useful prediction:有用的預測
 useful prediction:有用的预测
 useful prefix:有用的前缀
 useful presence:有用的存在
@@ -14980,7 +14852,7 @@ useful prevention:有用的预防
 useful principles:有用的原则
 useful private information:有用的私人信息
 useful private:有用的私人
-useful problem:有用的問題
+useful problem:有用的问题
 useful problems:有用的问题
 useful procedure:有用的程序
 useful process:有用的处理
@@ -15045,7 +14917,6 @@ useful red:有用的红色
 useful reference book:有用的参考书
 useful reference point:有用的参考点
 useful reference:有用的参考
-useful reference:有用的參考
 useful references:有用的参考
 useful reforms:有用的改革
 useful regular expression:有用的正则表达式
@@ -15073,7 +14944,7 @@ useful responsive web design:有用的响应式网页设计
 useful result:有用的结果
 useful results:有用的结果
 useful revenue:有用的收入
-useful review:有用的評論
+useful review:有用的评论
 useful rice:有用的大米
 useful risk management:有用的风险管理
 useful risk prediction:有用的风险预测
@@ -15084,7 +14955,7 @@ useful robots:有用的机器人
 useful role:有用的社会角色
 useful role:有用的角色
 useful route:有用的路线
-useful rule of thumb:有用的經驗法則
+useful rule of thumb:有用的经验法则
 useful rule:有用的规则
 useful rules:有用的规则
 useful running:有用的运行
@@ -15099,7 +14970,6 @@ useful scientific find:有用的科学发现
 useful scientific tool:有用的科学工具
 useful scientific:有用的科学
 useful script:有用的脚本
-useful script:有用的腳本
 useful search results:有用的搜索结果
 useful search tool:有用的搜索工具
 useful search:有用的搜索
@@ -15107,7 +14977,6 @@ useful secret:有用的秘密
 useful security option:有用的安全选项
 useful security:有用的安全
 useful seed:有用的种子
-useful seed:有用的種子
 useful select:有用的选择
 useful self improvement:有用的自我改进
 useful self-efficacy:有用的自我效能
@@ -15123,7 +14992,7 @@ useful services and products:有用的服务和产品
 useful services:有用的服务
 useful set:有用的设置
 useful shoe:有用的鞋
-useful shopping:有用的購物
+useful shopping:有用的购物
 useful shortcut:有用的快捷方式
 useful shortcut:有用的快捷键
 useful shorthand:有用的速记
@@ -15141,7 +15010,7 @@ useful slave:有用的奴隶
 useful smart contract:有用的智能合约
 useful smartwatch:有用的智能手表
 useful smoking cessation:有用的戒烟
-useful social behavior:有用的社會行為
+useful social behavior:有用的社会行为
 useful social control:有用的社会控制
 useful social media tools:有用的社交媒体工具
 useful social media:有用的社交媒体
@@ -15216,7 +15085,7 @@ useful techniques:有用的技术
 useful technologies:有用的技术
 useful technology and systems:有用的技术和系统
 useful technology:有用的技术
-useful telephone number:有用的電話號碼
+useful telephone number:有用的电话号码
 useful telephone:有用的电话
 useful temporary:有用的临时
 useful term:有用的术语
@@ -15227,12 +15096,10 @@ useful testing:有用的测试
 useful text editor:有用的文本编辑器
 useful text:有用的文本
 useful textbook:有用的教科书
-useful textbook:有用的教科書
 useful textbook:有用的课本
 useful thematic map:有用的专题地图
 useful theme:有用的主题
 useful theorem:有用的定理
-useful theory:有用的理論
 useful theory:有用的理论
 useful thigh:有用的大腿
 useful thing:有用的东西
@@ -15630,7 +15497,7 @@ user accessible:用户可访问的
 user accident:用户意外
 user accomplish:用户完成
 user according to:用户根据
-user account control:使用者帳戶控制
+user account control:使用者帐戶控制
 user account control:用户账户控制
 user account data as well as:用户账户数据以及
 user account data:用户账户数据
@@ -16307,9 +16174,9 @@ user experience design projects:用户体验设计项目
 user experience design team:用户体验设计团队
 user experience design trend:用户体验设计趋势
 user experience design with machine learning:用户体验设计与机器学习
-user experience design:使用者經驗設計
+user experience design:使用者经验设计
 user experience design:用户体验设计
-user experience:使用者經驗
+user experience:使用者经验
 user experience:用户体验
 user experiment:用户实验
 user expert:用户专家
@@ -16867,7 +16734,7 @@ user mixed-reality:用户混合现实
 user mode and system:用户模式和系统
 user mode audio:用户模式音频
 user mode code:用户模式代码
-user mode driver framework:使用者模式驅動程式架構
+user mode driver framework:使用者模式驱动程式架构
 user mode or rescue:用户模式或救援
 user mode service:用户模式服务
 user mode virtual address space:用户模式虚拟地址
@@ -17105,7 +16972,7 @@ user production and cost:用户生产和成本
 user production:用户生产
 user productivity:用户生产率
 user products:用户产品
-user profile:用戶頁
+user profile:用戶页
 user program load:用户程序加载
 user program:用户程序
 user programmable:用户可编程
@@ -17294,7 +17161,7 @@ user shandong airlines:用户山东航空
 user share:用户分享
 user sharing:用户共享
 user she:用户她
-user shopping:用户購物
+user shopping:用户购物
 user should always feel:用户应该总是感觉
 user should handle complex:用户应该处理复杂的
 user sign:用户签名
@@ -17317,7 +17184,7 @@ user solution:用户解决方案
 user solutions:用户解决方案
 user some:用户一些
 user soviet union:用户苏联
-user space and kernel space:使用者空間
+user space and kernel space:使用者空间
 user space and system:用户空间和系统
 user space coordinate system:用户空间坐标系统
 user space function call:用户空间函数调用
@@ -17328,7 +17195,6 @@ user space program:用户空间程序
 user space programs:用户空间程序
 user space set:用户空间设置
 user space tools:用户空间工具
-user space:用户空間
 user space:用户空间
 user speak:用户说话
 user specific:用户特定的
@@ -17645,7 +17511,7 @@ user-testing environment:用户测试环境
 user:用户
 usera:乌塞拉区
 userin:乌瑟林
-useriner see:烏瑟林湖
+useriner see:乌瑟林湖
 userjoy technology:宇峻奧汀
 userkaf:乌瑟卡夫
 userkare:乌瑟卡拉
@@ -19057,7 +18923,7 @@ users write:用户写
 users you:用户你
 users zoom:用户缩放
 users:用户
-userscript:用戶指令碼
+userscript:用戶指令码
 uses a bread:使用一个面包
 uses a brief:使用一个简短的
 uses a calendar:使用一个日历
@@ -19115,7 +18981,6 @@ uses a year:使用一年
 uses abnormal:使用异常
 uses about:使用大约
 uses abraham:使用亚伯拉罕
-uses abraham:使用亞伯拉罕
 uses absolute value:使用绝对值
 uses abstraction:使用抽象
 uses abuse:使用虐待
@@ -19168,7 +19033,7 @@ uses analytics:使用分析
 uses ancient:使用古
 uses and a content:使用与一个内容
 uses and experiences:使用和经验
-uses and gratifications theory:使用與滿足研究
+uses and gratifications theory:使用与满足研究
 uses and management:使用和管理
 uses and protect:使用和保护
 uses and purchase:使用与购买
@@ -19252,14 +19117,12 @@ uses battery:使用电池
 uses beamforming:使用波束赋形
 uses beautiful:使用美丽的
 uses behavior:使用行为
-uses behavior:使用行為
 uses behaviour:使用行为
 uses beneficial insects:使用益虫
 uses better:使用更好的
-uses bicycle:使用自行車
+uses bicycle:使用自行车
 uses big data and artificial intelligence:使用大数据和人工智能
 uses big data:使用大数据
-uses big data:使用大數據
 uses biofuel:使用生物燃料
 uses biomass:使用生物质
 uses biometrics:使用生物识别技术
@@ -19286,10 +19149,8 @@ uses bloodshed:使用流血
 uses bloom filter:使用布隆过滤器
 uses bloomberg:使用彭博
 uses blue and gold:使用蓝色和金
-uses blue and gold:使用藍色和金
 uses blue:使用蓝色
-uses blue:使用藍色
-uses bluetooth:使用藍牙
+uses bluetooth:使用蓝牙
 uses boat:使用船
 uses body language:使用肢体语言
 uses body:使用身体
@@ -19409,10 +19270,10 @@ uses cognitive science:使用认知科学
 uses cognitive-behavioral therapy:使用认知行为疗法
 uses cold:使用冷
 uses color and line:使用颜色和线
-uses color psychology:使用色彩心理學
+uses color psychology:使用色彩心理学
 uses color:使用颜色
 uses comedy:使用喜剧
-uses comma:使用逗號
+uses comma:使用逗号
 uses command:使用命令
 uses company:使用公司
 uses complex chemical reaction:使用复杂的化学反应
@@ -19449,7 +19310,7 @@ uses connection:使用连接
 uses consent:使用同意
 uses constant space:使用常量空间
 uses constant:使用常量
-uses contact lens:使用隱形眼鏡
+uses contact lens:使用隐形眼镜
 uses container:使用容器
 uses context:使用上下文
 uses continent:使用大陆
@@ -19505,7 +19366,7 @@ uses data:使用数据
 uses database:使用数据库
 uses date:使用日期
 uses ddt:使用滴滴涕
-uses deception:使用欺騙
+uses deception:使用欺骗
 uses decimal fraction:使用十进制分数
 uses decimal:使用十进制
 uses decision making:使用决策
@@ -19553,7 +19414,7 @@ uses digital signal:使用数字信号
 uses digital technology:使用数字技术
 uses digital video:使用数字视频
 uses dimensionality reduction:使用降维
-uses direct memory access:使用直接記憶體存取
+uses direct memory access:使用直接记忆体存取
 uses disk:使用磁盘
 uses distance:使用距离
 uses distortion:使用失真
@@ -19594,7 +19455,7 @@ uses eight:使用八
 uses electric field:使用电场
 uses electric motor:使用电动机
 uses electrical energy:使用电能
-uses electricity:使用電
+uses electricity:使用电
 uses electrode:使用电极
 uses electromagnetic field:使用电磁场
 uses electromagnetic force:使用电磁力
@@ -19609,7 +19470,7 @@ uses elliptic curve:使用椭圆曲线
 uses email:使用电子邮件
 uses emails:使用电子邮件
 uses embedded:使用嵌入
-uses emoticon:使用表情符號
+uses emoticon:使用表情符号
 uses emotion:使用情感
 uses employer insurance:使用雇主保险
 uses employer:使用雇主
@@ -19619,7 +19480,7 @@ uses encrypted:使用加密的
 uses encryption and blockchain:使用加密和区块链
 uses encryption:使用加密
 uses end-to-end encryption:使用端到端加密
-uses energy therapy:使用能量治療
+uses energy therapy:使用能量治疗
 uses energy-saving materials:使用节能材料
 uses energy-saving:使用节能
 uses energy:使用能源
@@ -19670,7 +19531,7 @@ uses eye-tracking:使用眼动追踪
 uses eye:使用眼
 uses eye:使用眼睛
 uses facebook:使用脸书
-uses fair trade:使用公平貿易
+uses fair trade:使用公平贸易
 uses familiar:使用熟悉的
 uses family friends:使用家庭朋友
 uses family:使用家庭
@@ -19696,8 +19557,8 @@ uses fingerprint:使用指纹
 uses finnish mythology:使用芬兰神话
 uses finnish:使用芬兰
 uses fire:使用火
-uses fish oil or algae:使用魚油或藻
-uses fish oil:使用魚油
+uses fish oil or algae:使用鱼油或藻
+uses fish oil:使用鱼油
 uses fish:使用鱼
 uses five:使用五
 uses flexible date:使用灵活的日期
@@ -19787,7 +19648,6 @@ uses graphite:使用石墨
 uses gravity:使用重力
 uses great:使用伟大的
 uses green polyethylene:使用绿色聚乙烯
-uses green:使用綠色
 uses green:使用绿色
 uses groom:使用新郎
 uses ground:使用地面
@@ -19804,7 +19664,7 @@ uses hardware acceleration:使用硬件加速
 uses hardware:使用硬件
 uses he:使用他
 uses head:使用头
-uses headphones:使用耳機
+uses headphones:使用耳机
 uses health:使用健康
 uses healthy:使用健康的
 uses heart rate:使用心率
@@ -19869,7 +19729,7 @@ uses illegal weapons:使用非法武器
 uses illegal:使用非法
 uses image:使用图像
 uses immutable:使用不变的
-uses improvisation:使用即興
+uses improvisation:使用即兴
 uses in europe:使用在欧洲
 uses include:使用包括
 uses including:使用包括
@@ -19916,7 +19776,7 @@ uses internet:使用互联网
 uses interrupt:使用中断
 uses intervention:使用干预
 uses intuition:使用直觉
-uses inulin syrup:使用菊粉糖漿
+uses inulin syrup:使用菊粉糖浆
 uses inulin:使用菊粉
 uses investment:使用投资
 uses investments:使用投资
@@ -19933,11 +19793,11 @@ uses it but me:使用它但我
 uses it:使用它
 uses its long tail:使用它的长尾
 uses its rocket:使用它的火箭
-uses its social media:使用它的社群媒體
+uses its social media:使用它的社群媒体
 uses its vision system:使用它的视觉系统
 uses its:使用它的
 uses jeep:使用吉普车
-uses jehovah:使用耶和華
+uses jehovah:使用耶和华
 uses jones:使用琼斯
 uses just:使用只
 uses kerosene:使用煤油
@@ -19946,7 +19806,6 @@ uses key:使用关键
 uses keysight:使用是德科技
 uses kite:使用风筝
 uses knee:使用膝
-uses knowledge:使用知識
 uses knowledge:使用知识
 uses known:使用已知的
 uses label:使用标签
@@ -20052,7 +19911,7 @@ uses many other:使用许多其他
 uses many people:使用许多人
 uses many small:使用很多小的
 uses many:使用很多
-uses many:使用許多
+uses many:使用许多
 uses map:使用地图
 uses marijuana:使用大麻
 uses marker:使用标记
@@ -20081,7 +19940,7 @@ uses media:使用媒体
 uses meditation and mindfulness:使用冥想和正念
 uses meditation:使用冥想
 uses meitu:使用美图
-uses memory:使用記憶
+uses memory:使用记忆
 uses mercury:使用汞
 uses mesh networking:使用网状网络
 uses message queue:使用消息队列
@@ -20127,7 +19986,7 @@ uses modern:使用现代
 uses modern:使用现代的
 uses molecular biology:使用分子生物学
 uses molecular dynamics:使用分子动力学
-uses molten salt:使用熔鹽
+uses molten salt:使用熔盐
 uses mom:使用妈妈
 uses monad:使用单子
 uses monero:使用门罗币
@@ -20156,7 +20015,7 @@ uses multicast:使用多播
 uses multimedia:使用多媒体
 uses multiple dispatch:使用多分派
 uses multiplexing:使用多路复用
-uses murder:使用謀殺
+uses murder:使用谋杀
 uses music theory term:使用音乐理论术语
 uses music theory:使用音乐理论
 uses music therapy:使用音乐疗法
@@ -20183,7 +20042,7 @@ uses natural resources:使用自然资源
 uses natural-language processing:使用自然语言处理
 uses natural:使用自然的
 uses nature:使用自然
-uses near field communication:使用近場通訊
+uses near field communication:使用近场通讯
 uses nearly:使用几乎
 uses need:使用需要
 uses negative number:使用负数
@@ -20227,7 +20086,7 @@ uses of natural gas:使用的天然气
 uses of water:使用的水
 uses oil and gas:使用石油和天然气
 uses oil:使用油
-uses olive oil:使用橄欖油
+uses olive oil:使用橄榄油
 uses one or more server:使用一个或多个服务器
 uses one or more:使用一个或多个
 uses one:使用一
@@ -20302,7 +20161,7 @@ uses personal information:使用个人信息
 uses petroleum product:使用石油产品
 uses petroleum:使用石油
 uses phase-change material:使用相变材料
-uses philips:使用飛利浦
+uses philips:使用飞利浦
 uses phone:使用电话
 uses photograph:使用照片
 uses photography:使用摄影
@@ -20435,7 +20294,7 @@ uses relation:使用关系
 uses relationship:使用关系
 uses reliable:使用可靠的
 uses religion:使用宗教
-uses remote-control:使用遙控
+uses remote-control:使用遥控
 uses renewable energy:使用可再生能源
 uses renewable resource:使用可再生资源
 uses replace:使用替代
@@ -20536,7 +20395,7 @@ uses signals:使用信号
 uses signature:使用签名
 uses silicon photonics:使用硅光子学
 uses silicon:使用硅
-uses silver:使用銀
+uses silver:使用银
 uses simple expression:使用简单表达
 uses simple gesture:使用简单手势
 uses simple:使用简单
@@ -20562,7 +20421,7 @@ uses soap:使用肥皂
 uses social media and social:使用社交媒体和社交
 uses social media resources:使用社交媒体资源
 uses social media:使用社交媒体
-uses social media:使用社群媒體
+uses social media:使用社群媒体
 uses social:使用社交
 uses socrates:使用苏格拉底
 uses software:使用软件
@@ -20589,7 +20448,6 @@ uses sound:使用声音
 uses sour cream:使用酸奶油
 uses source code:使用源代码
 uses source:使用源
-uses space:使用空間
 uses space:使用空间
 uses special effect:使用特殊效果
 uses specialized formats:使用专门的格式
@@ -20627,7 +20485,6 @@ uses steam:使用蒸汽
 uses steel:使用钢
 uses steering wheel:使用方向盘
 uses stem cell:使用干细胞
-uses stem cell:使用幹細胞
 uses stock:使用股票
 uses stone:使用石头
 uses straight line:使用直线
@@ -20755,7 +20612,7 @@ uses time and date:使用时间和日期
 uses time travel:使用时间旅行
 uses time:使用时间
 uses timestamp:使用时间戳
-uses tithe:使用什一奉獻
+uses tithe:使用什一奉献
 uses tobacco:使用烟草
 uses tools:使用工具
 uses topic:使用主题
@@ -20834,7 +20691,7 @@ uses violence:使用暴力
 uses violent:使用暴力的
 uses virtual currency:使用虚拟货币
 uses virtual reality:使用虚拟现实
-uses virtualization:使用虛擬化
+uses virtualization:使用虛拟化
 uses virus:使用病毒
 uses viruses:使用病毒
 uses vision systems:使用视觉系统
@@ -20906,40 +20763,38 @@ uses zero:使用零
 uses zinc:使用锌
 uses:使用
 uset:乌斯吐
-ush island:烏什島
+ush island:乌什岛
 ushabti:巫沙布提俑
-ushachi:烏沙奇
-ushachy district:烏沙奇區
-ushachy:烏沙奇
+ushachi:乌沙奇
+ushachy district:乌沙奇区
+ushachy:乌沙奇
 ushakov island:乌沙科夫岛
-ushakov island:烏沙科夫島
 ushanka:护耳冬帽
 ushant:韦桑
 usharal:乌沙拉尔
-usharal:乌沙拉爾
 ushas mons:乌莎斯山
 ushas:乌莎斯
-ushayka:烏沙伊卡河
-ushba tesoro:盈寶奇嶽
-ushba:烏什巴山
+ushayka:乌沙伊卡河
+ushba tesoro:盈宝奇岳
+ushba:乌什巴山
 usher glacier:厄舍冰川
-usher hall:亞瑟廳
+usher hall:亚瑟厅
+ushguli:乌什古里
 ushguli:乌树故里
-ushguli:烏什古里
-ushi cliffs:烏什崖
-ushi island:烏希島
-ushi no toki mairi:丑刻參拜
+ushi cliffs:乌什崖
+ushi island:乌希岛
+ushi no toki mairi:丑刻参拜
 ushi oni:牛鬼
 ushi-ga-fuchi:牛渊
-ushibuchi station:牛淵站
-ushibuchidanchi mae station:牛淵團地前站
+ushibuchi station:牛渊站
+ushibuchidanchi mae station:牛渊团地前站
 ushida station:牛田站
 ushigafuchi moat:牛渊
 ushigahara station:牛原站
-ushigome kagurazaka station:牛込神樂坂站
+ushigome kagurazaka station:牛込神乐坂站
 ushigome:牛込
-ushihama station:牛濱站
-ushijima the loan shark:黑金丑島君
+ushihama station:牛滨站
+ushijima the loan shark:黑金丑岛君
 ushiku daibutsu observation deck:牛久大佛观景台
 ushiku daibutsu tenbōdai:牛久大佛观景台
 ushiku daibutsu:牛久大佛
@@ -20948,9 +20803,9 @@ ushiku station:牛久站
 ushiku-shi:牛久市
 ushiku:牛久市
 ushikubo station:牛久保站
-ushima station:鵜島站
-ushinohama station:牛之濱站
-ushinoshima station:牛島站
+ushima station:鵜岛站
+ushinohama station:牛之滨站
+ushinoshima station:牛岛站
 ushinosuke mori:森丑之助
 ushinoya station:牛之谷站
 ushio hk ltd:牛尾香港
@@ -20958,87 +20813,70 @@ ushio hong kong limited:牛尾香港有限公司
 ushio station:潮站
 ushio:潮
 ushiobara onsen:潮原温泉
-ushiobara onsen:潮原溫泉
 ushiro takatekote:后高手小手缚
 ushiro-guchi:后口
-ushiro-guchi:後口
 ushiro-nagaso:后长泽
-ushiro-nagaso:後長澤
 ushirodani:后谷
-ushirodani:後谷
-ushirogata station:後潟站
+ushirogata station:后潟站
 ushiroyama nokyo:后山农协
-ushiroyama nokyo:後山農協
 ushiroyama-guchi:后山口
-ushiroyama-guchi:後山口
 ushiroyama-kami:后山上
-ushiroyama-kami:後山上
 ushiroyama-shimo:后山下
-ushiroyama-shimo:後山下
 ushiroyubi sasaregumi:指指点点组
-ushishir:宇志知島
+ushishir:宇志知岛
 ushita asahi:牛田旭
 ushita waseda danchi:牛田早稻田团地
-ushita waseda danchi:牛田早稻田團地
 ushita-higashi-itchome (ushita-higashi 1):牛田东一丁目
-ushita-higashi-itchome (ushita-higashi 1):牛田東一丁目
 ushita-higashi-nichome (ushita-higashi 2):牛田东二丁目
-ushita-higashi-nichome (ushita-higashi 2):牛田東二丁目
 ushita-honmachi-itchome (ushita-honmachi 1):牛田本町一丁目
 ushita-honmachi-rokuchome (ushita-honmachi 6):牛田本町六丁目
 ushita-honmachi:牛田本町
 ushita-minami:牛田南
 ushita-ohashi:牛田大桥
-ushita-ohashi:牛田大橋
 ushita-shinmachi-itchome (ushita-shinmachi 1):牛田新町一丁目
 ushita-shinmachi-nichome (ushita-shinmachi 2):牛田新町二丁目
 ushita-shinmachi-yonchome (ushita-shinmachi 4):牛田新町四丁目
 ushita-waseda-sanchome (ushita-waseda 3):牛田早稻田三丁目
-ushite:烏希捷山
+ushite:乌希捷山
 ushitsu station:宇出津站
-ushkan islands:烏什卡尼群島
-ushkovsky:烏什科夫火山
+ushkan islands:乌什卡尼群岛
+ushkovsky:乌什科夫火山
 ushnisha:肉髻
 usho:乌索山谷
-ushomyr:烏紹米爾
+ushomyr:乌绍米尔
 ushoq:乌沙克省
 ushpia:乌什皮亚
 ushshaqtal:乌什塔拉回族乡
 ushsharbash:乌夏巴什镇
 ushtash:zhuóyóulèhànsū hé
 ushtash:卓尤勒汗苏河
-ushtash:卓尤勒汗蘇河
 ushuaia airport:乌斯怀亚机场
-ushuaia department:烏斯懷亞縣
+ushuaia department:乌斯怀亚县
 ushuaia port:乌斯怀亚港口
 ushuaia rabbit:乌斯怀亚兔
 ushuaia:乌斯怀亚
-ushuaia:乌斯怀亚 / 烏蘇懷亞
-ushuaia:烏蘇懷亞
+ushuaia:乌斯怀亚 / 乌苏怀亚
+ushuaia:乌苏怀亚
 ushuaïa:乌斯怀亚
-ushuaïa:乌斯怀亚 / 烏蘇懷亞
-ushuaïa:烏蘇懷亞
+ushuaïa:乌斯怀亚 / 乌苏怀亚
+ushuaïa:乌苏怀亚
 ushumun:乌舒蒙
-ushytsia:烏什齊亞
-usi county:無錫县
+ushytsia:乌什齐亚
+usi county:无锡县
 usi county:雩时郡
-usi county:雩時郡
 usi-eup:雩时邑
-usi-eup:雩時邑
 usi:wúxī shì
+usi:无锡
 usi:无锡市
-usi:無錫
-usi:無錫市
-usicayos district:烏西卡約斯區
+usicayos district:乌西卡约斯区
 usilampatti:乌西拉姆帕蒂
 usimamizi wa uwanja wa ndege:机场管理处
 usin middle & high school:宇信中学
 usina hidrelétrica de itaipu:伊泰普水电站
 usina hidrelétrica de xiluodu:xīluòdù dàbà
 usina hidrelétrica de xiluodu:溪洛渡大坝
-usina hidrelétrica de xiluodu:溪洛渡大壩
-usina nuclear de chernobil:車諾比核電站
-usina nuclear de zaporíjia:札波羅熱核電廠
+usina nuclear de chernobil:车诺比核电站
+usina nuclear de zaporíjia:札波罗热核电厂
 usine d'enrichissement d'uranium de fordo:福尔多燃料浓缩厂
 usine de bière qīngdǎo:qīngdǎo píjiǔchǎng
 usine de bière qīngdǎo:青岛啤酒厂
@@ -21160,7 +20998,6 @@ using a very small:使用一个非常小的
 using a website:使用一个网站
 using a window:使用一个窗
 using a woman:使用一个女人
-using abbreviation:使用縮寫
 using abbreviation:使用缩写
 using abilities:使用能力
 using about:使用大约
@@ -21210,7 +21047,7 @@ using adult:使用成年
 using advanced encryption standard:使用高级加密标准
 using advanced materials:使用先进材料
 using advertisement:使用广告
-using advertising:使用廣告
+using advertising:使用广告
 using aerial refueling:使用空中加油
 using aerosol:使用气溶胶
 using affine transformation:使用仿射变换
@@ -21222,7 +21059,7 @@ using agile software development:使用敏捷软件开发
 using aids:使用艾滋病
 using air conditioner:使用空调
 using air filtration systems:使用空气过滤系统
-using air gun:使用氣槍
+using air gun:使用气枪
 using air pressure:使用空气压力
 using air purifier:使用空气净化器
 using air quality sensor:使用空气质量传感器
@@ -21237,7 +21074,7 @@ using airfield:使用机场
 using airflow:使用气流
 using airplane:使用飞机
 using airplay:使用隔空播放
-using airport:使用機場
+using airport:使用机场
 using alanine:使用丙氨酸
 using alberta:使用艾伯塔省
 using albumin:使用白蛋白
@@ -21271,7 +21108,6 @@ using all four:使用所有四
 using all four:使用所有的四
 using all lower:使用所有的小写字母
 using all of these:使用所有这些
-using all of these:使用所有這些
 using all our strength:使用我们所有的力量
 using all our:使用我们所有的
 using all policy tools:使用所有政策工具
@@ -21291,7 +21127,7 @@ using all:使用所有
 using all:使用所有的
 using aloe:使用芦荟
 using already:使用已经
-using alternating current:使用交流電
+using alternating current:使用交流电
 using alternative energy:使用替代能源
 using alternative fuel:使用替代燃料
 using altitude:使用海拔
@@ -21301,7 +21137,7 @@ using amazon region:使用亚马逊区域
 using amazon:使用亚马逊
 using america online:使用美国在线
 using america:使用美国
-using american express:使用美國運通
+using american express:使用美国运通
 using ammonia:使用氨
 using ammonium nitrate:使用硝酸铵
 using ammonium sulfate:使用硫酸铵
@@ -21348,9 +21184,8 @@ using and understanding cancer:使用和理解癌症
 using and understanding computers:使用和理解计算机
 using anderson:使用安德森
 using anesthesia:使用麻醉
-using anesthetic:使用麻醉藥
+using anesthetic:使用麻醉药
 using anger:使用愤怒
-using anger:使用憤怒
 using angle:使用角
 using animal cells:使用动物细胞
 using animal meat:使用动物肉
@@ -21358,7 +21193,7 @@ using animal model:使用动物模型
 using animal models:使用动物模型
 using animal product:使用动物产品
 using animal species:使用动物物种
-using animal testing:使用動物試驗
+using animal testing:使用动物试验
 using animal:使用动物
 using animals:使用动物
 using animate:使用动画
@@ -21433,7 +21268,7 @@ using any tobacco products:使用任何烟草产品
 using any tools:使用任何工具
 using any toothbrush:使用任何牙刷
 using any type:使用任何类型
-using any valid email address:使用任何有效的電子郵件地址
+using any valid email address:使用任何有效的电子邮件地址
 using any version:使用任何版本
 using any video:使用任何视频
 using any wood:使用任何木材
@@ -21506,18 +21341,17 @@ using aspirin:使用阿司匹林
 using assembly language:使用汇编语言
 using assertion:使用断言
 using assessment:使用评估
-using asset:使用資產
+using asset:使用资产
 using assistant:使用助理
 using assistants:使用助手
 using assisted reproductive technology:使用辅助生殖技术
-using assistive technology:使用輔助技術
+using assistive technology:使用辅助技术
 using association:使用关联
 using associative array:使用关联数组
 using assurance:使用保证
 using assyria:使用亚述
 using asterisk:使用星号
-using asterisk:使用星號
-using astringent:使用收斂劑
+using astringent:使用收敛剂
 using asylum research:使用庇护研究
 using asylum:使用庇护
 using asynchronous:使用异步的
@@ -21540,7 +21374,7 @@ using audio codec:使用音频编解码器
 using audio navigation:使用音频导航
 using audio:使用音频
 using audiovisual:使用视听
-using augmented reality:使用擴增實境
+using augmented reality:使用扩增实境
 using australian:使用澳大利亚人
 using authentication:使用身份验证
 using auto index:使用自动索引
@@ -21548,14 +21382,14 @@ using auto layout:使用自动布局
 using auto:使用汽车
 using auto:使用自动
 using autofocus:使用自动对焦
-using automated external defibrillator:使用自動體外去顫器
+using automated external defibrillator:使用自动体外去顫器
 using automated machine learning:使用自动机器学习
 using automation script:使用自动化脚本
 using automation software:使用自动化软件
 using automation tools:使用自动化工具
 using automation:使用自动化
+using autopilot:使用自动驾驶
 using autopilot:使用自动驾驶仪
-using autopilot:使用自動駕駛
 using available frameworks:使用可用的框架
 using available glutamine:使用可用的谷氨酰胺
 using available resources:使用可用的资源
@@ -21575,7 +21409,6 @@ using backlight:使用背光
 using backlink:使用反向链接
 using backslash characters:使用反斜线字符
 using backslash:使用反斜线
-using backup:使用備份
 using backup:使用备份
 using bacteria:使用细菌
 using bacteriophage:使用噬菌体
@@ -21591,7 +21424,7 @@ using bamboo tube:使用竹管子
 using bamboo:使用竹
 using bamboo:使用竹子
 using band:使用带
-using bandage:使用繃帶
+using bandage:使用绷带
 using bank card:使用银行卡
 using bank:使用银行
 using banks or blockchains:使用银行或区块链
@@ -21613,8 +21446,8 @@ using basic grammar:使用基本的语法
 using basic tools:使用基本的工具
 using basic voice assistants:使用基本的语音助手
 using basic:使用基本的
-using basil oil:使用羅勒油
-using basil:使用羅勒
+using basil oil:使用罗勒油
+using basil:使用罗勒
 using basketball:使用篮球
 using basque:使用巴斯克
 using batteries of laser:使用电池的激光
@@ -21655,7 +21488,6 @@ using big data principles:使用大数据原则
 using big data technology:使用大数据技术
 using big data tools:使用大数据工具
 using big data:使用大数据
-using big data:使用大數據
 using big gun:使用大枪
 using big image:使用大图像
 using big science concepts:使用大科学概念
@@ -21666,7 +21498,6 @@ using big:使用大
 using bike lock:使用自行车锁
 using bike:使用自行车
 using bill:使用比尔
-using bill:使用比爾
 using binary number:使用二进制
 using binocular rivalry:使用双眼竞争
 using binoculars:使用双筒望远镜
@@ -21709,7 +21540,7 @@ using black-box testing reverse-engineering:使用黑盒测试逆向工程
 using black-box testing:使用黑盒测试
 using black:使用黑色
 using blackberry:使用黑莓
-using blackberry:使用黑莓手機
+using blackberry:使用黑莓手机
 using blasphemy:使用亵渎
 using blended learning:使用混合学习
 using blind signature:使用盲签名
@@ -21740,12 +21571,11 @@ using blood:使用血
 using blood:使用血液
 using bloodletting:使用放血
 using blow:使用吹
-using blue light:使用藍光
+using blue light:使用蓝光
 using blue:使用蓝色
-using blue:使用藍色
 using blueprint:使用蓝图
 using bluetooth low energy:使用蓝牙低功耗
-using bluetooth:使用藍牙
+using bluetooth:使用蓝牙
 using boat:使用船
 using body camera:使用身体相机
 using body language and voice:使用肢体语言和语音
@@ -21759,8 +21589,8 @@ using border patrol:使用边境巡逻
 using border:使用边界
 using boss:使用老板
 using bot:使用机器人
-using botnet:使用殭屍網絡
-using bottled water:使用瓶裝水
+using botnet:使用殭尸网络
+using bottled water:使用瓶装水
 using boundary scan:使用边界扫描
 using boundary:使用边界
 using bovine serum albumin:使用牛血清白蛋白
@@ -21790,7 +21620,7 @@ using breathing:使用呼吸
 using brew:使用煮
 using bribe:使用贿赂
 using brick:使用砖
-using bridge loan:使用過橋貸款
+using bridge loan:使用过桥貸款
 using bridge:使用桥
 using bright:使用明亮的
 using britain:使用英国
@@ -21869,7 +21699,7 @@ using capsule:使用胶囊
 using car and infrastructure:使用汽车和基础设施
 using car bomb:使用汽车炸弹
 using car engines:使用汽车发动机
-using car rental:使用汽車租賃
+using car rental:使用汽车租賃
 using car seat:使用汽车座椅
 using car:使用汽车
 using car:使用车
@@ -21901,10 +21731,9 @@ using case:使用案例
 using cash dividend:使用现金股息
 using cash flow information:使用现金流量信息
 using cash flow:使用现金流量
-using cash on delivery:使用貨到付款
+using cash on delivery:使用货到付款
 using cash transactions:使用现金交易
 using cash:使用现金
-using cash:使用現金
 using cassava:使用木薯
 using cassini:使用卡西尼
 using cast iron:使用铸铁
@@ -21932,7 +21761,7 @@ using census:使用人口普查
 using central bank:使用中央银行
 using central nervous system:使用中枢神经系统
 using central processing unit:使用中央处理器
-using centrifuge:使用離心機
+using centrifuge:使用离心机
 using ceramic matrix composite:使用陶瓷基复合材料
 using certification:使用认证
 using chair:使用椅
@@ -21948,7 +21777,7 @@ using charts:使用图表
 using chastity:使用贞操
 using chat bot:使用聊天机器人
 using chat:使用聊天
-using chatbot:使用聊天機器人
+using chatbot:使用聊天机器人
 using cheap remote-sensing technology:使用廉价的遥感技术
 using cheap:使用廉价的
 using cheat:使用作弊
@@ -21962,7 +21791,6 @@ using chemical substance:使用化学物质
 using chemical vapor deposition:使用化学气相沉积
 using chemical weapon:使用化学武器
 using chemistry:使用化学
-using chemistry:使用化學
 using chemotherapy:使用化学疗法
 using chess:使用国际象棋
 using chicken:使用鸡
@@ -21987,7 +21815,7 @@ using chinese:使用中文
 using chlorhexidine:使用氯己定
 using chloride from blood:使用氯化物从血液
 using chloride:使用氯化物
-using chlorine bleach:使用氯漂白劑
+using chlorine bleach:使用氯漂白剂
 using chlorine dioxide:使用二氧化氯
 using chlorine weapons:使用氯武器
 using chlorine:使用氯
@@ -22032,8 +21860,7 @@ using climate model:使用气候模型
 using climate models:使用气候模型
 using climate-change:使用气候变化
 using climate:使用气候
-using climate:使用氣候
-using clindamycin:使用克林黴素
+using clindamycin:使用克林霉素
 using clinical term:使用临床术语
 using clinical:使用临床
 using clone program:使用克隆程序
@@ -22046,7 +21873,7 @@ using cloth:使用布
 using clothing:使用服装
 using cloud applications:使用云应用
 using cloud compute resources:使用云计算资源
-using cloud computing:使用雲端運算
+using cloud computing:使用云端运算
 using cloud data:使用云数据
 using cloud resources:使用云资源
 using cloud security service:使用云安全服务
@@ -22209,13 +22036,12 @@ using conservative calculations:使用保守的计算
 using conservative:使用保守的
 using consistent backup process:使用一致的备份过程
 using consistent:使用一致的
-using conspiracy:使用陰謀
+using conspiracy:使用阴谋
 using constant:使用常量
 using constellations:使用星座
 using constipation:使用便秘
 using construct:使用构造
 using construction:使用建筑
-using consultant:使用顧問
 using consultant:使用顾问
 using consumer data:使用消费者数据
 using consumer:使用消费者
@@ -22230,7 +22056,7 @@ using context clues:使用上下文线索
 using context information:使用上下文信息
 using context-free grammar:使用上下文无关文法
 using context:使用上下文
-using continuous delivery:使用持續交付
+using continuous delivery:使用持续交付
 using contract:使用合同
 using control center:使用控制中心
 using control devices:使用控制设备
@@ -22290,15 +22116,15 @@ using critical thinking:使用批判性思维
 using criticism:使用批评
 using crocodile:使用鳄鱼
 using cross:使用十字
-using crowd:使用群眾
+using crowd:使用群众
 using crowdsourcing method:使用众包方法
 using crowdsourcing:使用众包
 using crucible:使用坩埚
 using cruise:使用巡航
 using crutch:使用拐杖
 using cryogenic electron microscopy:使用低温电子显微镜
-using cryptocurrency exchange:使用加密貨幣交易所
-using cryptocurrency:使用加密貨幣
+using cryptocurrency exchange:使用加密货币交易所
+using cryptocurrency:使用加密货币
 using cryptography:使用密码学
 using crystal:使用晶体
 using crystal:使用水晶
@@ -22387,7 +22213,6 @@ using database connection:使用数据库连接
 using database:使用数据库
 using date:使用日期
 using david:使用大卫
-using davis:使用戴維斯
 using davis:使用戴维斯
 using day:使用日
 using ddt:使用滴滴涕
@@ -22426,7 +22251,7 @@ using delegate:使用委托
 using demand:使用需求
 using democracy:使用民主
 using density:使用密度
-using dental floss:使用牙線
+using dental floss:使用牙线
 using dentures:使用假牙
 using deontic logic:使用道义逻辑
 using department:使用部门
@@ -22441,7 +22266,6 @@ using design and technology:使用设计和技术
 using design elements:使用设计元素
 using design principles means:使用设计原则意味着
 using design problem-solving:使用设计解决问题
-using design:使用設計
 using design:使用设计
 using designer:使用设计师
 using desktop publishing:使用桌面出版
@@ -22449,7 +22273,7 @@ using desktop software rather than:使用桌面软件而不是
 using desktop software:使用桌面软件
 using desktop:使用桌面
 using detect:使用检测
-using detention basin:使用滯洪池
+using detention basin:使用滞洪池
 using developer tools:使用开发者工具
 using developer:使用开发者
 using development:使用发展
@@ -22470,7 +22294,7 @@ using dice:使用骰子
 using diclofenac:使用双氯芬酸
 using diesel fuel:使用柴油
 using diesel generator:使用柴油发电机
-using different account:使用不同的帳戶
+using different account:使用不同的帐戶
 using different alphabet:使用不同的字母
 using different amino acid:使用不同的氨基酸
 using different and innovative:使用不同的和创新的
@@ -22515,7 +22339,7 @@ using different programming environment:使用不同的编程环境
 using different programming language:使用不同的编程语言
 using different search:使用不同的搜索
 using different security protocol:使用不同的安全协议
-using different sign language:使用不同的手語
+using different sign language:使用不同的手语
 using different signal-processing techniques:使用不同的信号处理技术
 using different social media:使用不同的社交媒体
 using different software package:使用不同的软件包
@@ -22556,13 +22380,12 @@ using dimensionality reduction:使用降维
 using dingtalk:使用钉钉
 using dinosaurs:使用恐龙
 using diplomacy:使用外交
-using direct current:使用直流電
+using direct current:使用直流电
 using direct-attached storage:使用直连式存储
 using direct:使用直接的
 using directory service:使用目录服务
 using directory synchronization:使用目录同步
 using directory:使用目录
-using directory:使用目錄
 using disc golf:使用飞盘高尔夫
 using discount code:使用折扣代码
 using discount:使用折扣
@@ -22611,7 +22434,7 @@ using dopamine:使用多巴胺
 using dot:使用点
 using double standard:使用双重标准
 using douglas:使用道格拉斯
-using download:使用下載
+using download:使用下载
 using downloadable content:使用可下载内容
 using drag and drop:使用拖放
 using drag-and-drop tools:使用拖放工具
@@ -22638,7 +22461,7 @@ using drying techniques:使用干燥技术
 using drying:使用干燥
 using dublin core:使用都柏林核心
 using duloxetine:使用度洛西汀
-using duolingo:使用多鄰國
+using duolingo:使用多邻国
 using dust:使用灰尘
 using dutch:使用荷兰
 using dye:使用染料
@@ -22646,7 +22469,7 @@ using dynamic light scattering:使用动态光散射
 using dynamic link library:使用动态链接库
 using dynamic programming:使用动态规划
 using e-commerce:使用电子商务
-using e-reader:使用電子書閱讀器
+using e-reader:使用电子书阅读器
 using each edge:使用每个边
 using each other:使用彼此
 using each team member:使用每个团队成员
@@ -22683,8 +22506,8 @@ using electric current:使用电流
 using electric motor:使用电动机
 using electric vehicles:使用电动汽车
 using electrical resistance:使用电阻
-using electricity is better:使用電是更好的
-using electricity:使用電
+using electricity is better:使用电是更好的
+using electricity:使用电
 using electrification:使用电气化
 using electrode:使用电极
 using electrolysis:使用电解
@@ -22698,7 +22521,7 @@ using electromagnetism:使用电磁学
 using electron microscope image:使用电子显微镜图像
 using electron microscope:使用电子显微镜
 using electron:使用电子
-using electronic cigarette:使用電子煙
+using electronic cigarette:使用电子烟
 using electronic oscillator:使用电子振荡器
 using electronic trading platform:使用电子交易平台
 using electronic viewfinder:使用电子取景器
@@ -22712,7 +22535,6 @@ using element:使用元素
 using elements:使用元素
 using elephant:使用大象
 using elevator:使用电梯
-using elevator:使用電梯
 using ellipse:使用椭圆
 using elliptic curve cryptography:使用椭圆曲线密码学
 using elliptic curve:使用椭圆曲线
@@ -22772,10 +22594,8 @@ using entertainment and games:使用娱乐和游戏
 using entertainment:使用娱乐
 using entire:使用整个
 using entity cloak:使用实体斗篷
-using entity cloak:使用實體斗篷
 using entity keep:使用实体保持
 using entity:使用实体
-using entity:使用實體
 using entomology:使用昆虫学
 using entropy:使用熵
 using environment and use:使用环境与使用
@@ -22785,7 +22605,7 @@ using environmental issues:使用环境问题
 using environmental protection agency:使用环境保护局
 using environmental protection:使用环保
 using environmental protection:使用环境保护
-using environmentally friendly:使用環境友善
+using environmentally friendly:使用环境友善
 using enzyme:使用酶
 using equation:使用方程
 using equation:使用等式
@@ -22833,7 +22653,7 @@ using evidence:使用证据
 using evil:使用邪恶的
 using evolution:使用演化
 using evolution:使用进化
-using excavator:使用挖土機
+using excavator:使用挖土机
 using excavator:使用挖掘机
 using excerpts from:使用摘录从
 using excerpts:使用摘录
@@ -22873,7 +22693,7 @@ using external variable:使用外部变量
 using extra:使用额外的
 using extraordinary:使用非凡的
 using extreme:使用极端的
-using eye drop:使用眼藥水
+using eye drop:使用眼药水
 using eye tracking:使用眼动追踪
 using eye-tracking technology:使用眼动追踪技术
 using eye-tracking:使用眼动追踪
@@ -22884,14 +22704,12 @@ using facebook:使用脸书
 using facilities:使用设施
 using facility management:使用设施管理
 using fact:使用事实
-using fact:使用事實
 using factors of production:使用生产要素
 using factory:使用工厂
 using failed:使用失败
 using failover:使用故障转移
-using failure:使用失敗
 using failure:使用失败
-using fair trade:使用公平貿易
+using fair trade:使用公平贸易
 using faith:使用信仰
 using fake or new:使用假的或新的
 using fake:使用假的
@@ -22923,7 +22741,7 @@ using feedback and data:使用反馈和数据
 using feedback:使用反馈
 using female:使用女性
 using female:使用雌性动物
-using fence:使用圍欄
+using fence:使用围栏
 using fentanyl:使用芬太尼
 using fermentation:使用发酵
 using fertilizer:使用肥料
@@ -22944,22 +22762,21 @@ using filtration:使用过滤
 using financial institutions:使用金融机构
 using financial services:使用金融服务
 using finger:使用手指
-using fingerprint:使用指紋
 using fingerprint:使用指纹
 using finite:使用有限的
 using finnish:使用芬兰
 using fintech:使用金融科技
 using fire and salt:使用火和盐
-using fire extinguisher:使用滅火器
+using fire extinguisher:使用灭火器
 using fire:使用火
 using firearm:使用火器
 using firewood:使用柴火
 using first order logic:使用一阶逻辑
-using first-generation centrifuge:使用第一代離心機
+using first-generation centrifuge:使用第一代离心机
 using first-generation:使用第一代
 using fiscal policy:使用财政政策
 using fiscal-policy:使用财政政策
-using fish oil:使用魚油
+using fish oil:使用鱼油
 using fish-eye:使用鱼眼
 using fish:使用鱼
 using fist:使用拳
@@ -23091,7 +22908,7 @@ using games and apps:使用游戏和应用程序
 using games and game design:使用游戏和游戏设计
 using games and game:使用游戏和游戏
 using games:使用游戏
-using gamification:使用遊戲化
+using gamification:使用游戏化
 using gamma ray:使用伽马射线
 using gantt chart:使用甘特图
 using garageband:使用库乐队
@@ -23099,7 +22916,7 @@ using gas chromatography:使用气相色谱法
 using gas detect:使用气体检测
 using gas:使用气体
 using gas:使用燃气
-using gaseous diffusion:使用氣體擴散法
+using gaseous diffusion:使用气体扩散法
 using gasoline and diesel fuel:使用汽油和柴油
 using gasoline:使用汽油
 using gateway:使用网关
@@ -23107,10 +22924,9 @@ using gaza strip:使用加沙地带
 using gear:使用齿轮
 using gel:使用凝胶
 using gemalto:使用金雅拓
-using gematria:使用希伯來字母代碼
+using gematria:使用希伯来字母代码
 using gemcitabine:使用吉西他滨
 using gemstone:使用宝石
-using gemstone:使用寶石
 using gene editing technology:使用基因编辑技术
 using gene editing:使用基因编辑
 using gene expression data:使用基因表达数据
@@ -23148,7 +22964,6 @@ using gesture:使用手势
 using getty center:使用盖蒂中心
 using giant:使用巨大的
 using gift:使用礼物
-using gift:使用禮物
 using ginger:使用姜
 using given resources:使用给定的资源
 using given:使用给定的
@@ -23158,7 +22973,6 @@ using glass fiber:使用玻璃纤维
 using glass lens:使用玻璃透镜
 using glass or aluminium:使用玻璃或铝
 using glass:使用玻璃
-using glasses:使用眼鏡
 using glasses:使用眼镜
 using global average:使用全球平均
 using global positioning system:使用全球定位系统
@@ -23229,7 +23043,7 @@ using gravity:使用重力
 using gray:使用灰色
 using greek yogurt:使用希腊酸奶
 using greek:使用希腊
-using green algae:使用綠藻
+using green algae:使用绿藻
 using green and red:使用绿色和红色
 using green cleaning products:使用绿色清洁产品
 using green design:使用绿色设计
@@ -23237,14 +23051,13 @@ using green energy source:使用绿色能源
 using green energy:使用绿色能源
 using green hydrogen:使用绿色氢
 using green products:使用绿色产品
-using green public:使用綠色公共
+using green public:使用绿色公共
 using green roof:使用绿色屋顶
 using green screen:使用绿色屏幕
-using green space:使用綠色空間
-using green tea:使用綠茶
+using green space:使用绿色空间
+using green tea:使用绿茶
 using green technologies:使用绿色技术
 using green technology:使用绿色技术
-using green:使用綠色
 using green:使用绿色
 using greenhouse:使用温室
 using grenade:使用手榴弹
@@ -23302,7 +23115,6 @@ using hardware acceleration:使用硬件加速
 using hardware description language:使用硬件描述语言
 using hardware devices:使用硬件设备
 using hardware or software:使用硬件或软件
-using hardware wallet:使用硬件錢包
 using hardware wallet:使用硬件钱包
 using hardware:使用硬件
 using hardwood charcoal:使用硬木木炭
@@ -23313,13 +23125,12 @@ using harmonic:使用谐波
 using harry:使用哈利
 using hash table:使用哈希表
 using hate crime:使用仇恨犯罪
-using hate speech:使用仇恨言論
+using hate speech:使用仇恨言论
 using he:使用他
-using head-mounted display:使用頭戴式顯示器
+using head-mounted display:使用头戴式显示器
 using head:使用头
 using header file:使用头文件
 using headphones:使用耳机
-using headphones:使用耳機
 using health and safety:使用健康和安全
 using health check:使用健康检查
 using health education:使用健康教育
@@ -23332,7 +23143,7 @@ using healthy fat:使用健康的脂肪
 using healthy:使用健康
 using healthy:使用健康的
 using heap:使用堆
-using hearing aid:使用助聽器
+using hearing aid:使用助听器
 using hearing:使用听觉
 using heart-rate:使用心率
 using heart:使用心
@@ -23340,7 +23151,6 @@ using heat and pressure:使用热和压力
 using heat exchanger:使用换热器
 using heat pump technology:使用热泵技术
 using heat pump:使用热泵
-using heat pump:使用熱泵
 using heat transfer:使用热传递
 using heat:使用热
 using heavy machine gun:使用重机枪
@@ -23357,7 +23167,7 @@ using hemorrhoid:使用痔疮
 using henry:使用亨利
 using her age:使用她的年龄
 using her black magic:使用她的黑魔法
-using her experience:使用她的經驗
+using her experience:使用她的经验
 using her hands:使用她的手
 using her inhaler:使用她的吸入器
 using her knowledge database:使用她的知识数据库
@@ -23385,7 +23195,7 @@ using high velocity:使用高速度
 using high voltage:使用高电压
 using high-definition voice:使用高清语音
 using high-definition:使用高清
-using high-frequency:使用高頻
+using high-frequency:使用高频
 using high-performance computing:使用高性能计算
 using high-performance:使用高性能
 using high-quality alloy:使用高质量合金
@@ -23415,7 +23225,7 @@ using his method:使用他的方法
 using his music:使用他的音乐
 using his name:使用他的名字
 using his own patent:使用他自己的专利
-using his own reality:使用他自己的現實
+using his own reality:使用他自己的现实
 using his own:使用他自己的
 using his phone:使用他的手机
 using his right arm:使用他的右臂
@@ -23424,7 +23234,6 @@ using his satellite phone:使用他的卫星电话
 using his ship:使用他的船
 using his simple:使用他的简单
 using his system:使用他的系统
-using his theory:使用他的理論
 using his theory:使用他的理论
 using his three:使用他的三
 using his trademark abbreviate:使用他的商标缩写
@@ -23447,7 +23256,7 @@ using hook:使用钩
 using hooker:使用妓女
 using hormone analysis:使用激素分析
 using hormone replace:使用激素替代
-using hormone replacement therapy:使用激素替代療法
+using hormone replacement therapy:使用激素替代疗法
 using hormone:使用激素
 using horse:使用马
 using hospital:使用医院
@@ -23458,7 +23267,6 @@ using hot runner:使用热流道
 using hot water:使用热水
 using hot-air balloon:使用热气球
 using hot:使用热
-using hot:使用熱
 using hotel facilities:使用酒店设施
 using hotel:使用酒店
 using housing:使用住房
@@ -23494,7 +23302,7 @@ using humour:使用幽默
 using hundreds of tools:使用数以百计的工具
 using hundreds:使用数以百计
 using hunger:使用饥饿
-using hybrid system:使用混合系統
+using hybrid system:使用混合系统
 using hydrofluoric acid and nitric acid:使用氢氟酸和硝酸
 using hydrofluoric acid:使用氢氟酸
 using hydrofluorocarbon:使用氢氟烃
@@ -23503,7 +23311,7 @@ using hydrogen peroxide:使用过氧化氢
 using hydrogen:使用氢
 using hydroxide:使用氢氧化物
 using hyperledger:使用超级账本
-using hyperlink:使用超連結
+using hyperlink:使用超连结
 using hypertext links:使用超文本链接
 using hypertext:使用超文本
 using hypnosis:使用催眠
@@ -23529,7 +23337,7 @@ using illegal software:使用非法软件
 using illegal substance:使用非法物质
 using illegal:使用非法
 using illegal:使用非法的
-using illustration:使用插畫
+using illustration:使用插画
 using image analysis:使用图像分析
 using image classification:使用图像分类
 using image editing programs:使用图像编辑程序
@@ -23551,7 +23359,7 @@ using import:使用导入
 using inaccurate:使用不准确的
 using inactivated vaccine:使用灭活疫苗
 using inbred strain:使用近交系
-using incandescent light bulb:使用白熾燈
+using incandescent light bulb:使用白炽灯
 using incentive:使用激励
 using inch:使用英寸
 using increase:使用增加
@@ -23585,7 +23393,6 @@ using industry-standard:使用行业标准
 using industry:使用工业
 using inertial navigation system:使用惯性导航系统
 using infant:使用婴儿
-using infant:使用嬰兒
 using infantry:使用步兵
 using infection:使用感染
 using inflation:使用通胀
@@ -23615,7 +23422,6 @@ using inline image:使用内联图像
 using inline:使用内联
 using innovation and action:使用创新和行动
 using innovation:使用创新
-using innovation:使用創新
 using innovative blockchain technology:使用创新的区块链技术
 using innovative design:使用创新的设计
 using innovative factory layout:使用创新的工厂布局
@@ -23638,7 +23444,6 @@ using instruction:使用指令
 using insulin:使用胰岛素
 using insult:使用侮辱
 using insurance:使用保险
-using insurance:使用保險
 using integer:使用整数
 using integrated circuit card:使用集成电路卡
 using integrated circuit:使用集成电路
@@ -23743,10 +23548,9 @@ using japan display:使用日本显示器
 using japan:使用日本
 using japanese government:使用日本政府
 using japanese:使用日语
-using jargon:使用行話
-using jesus christ:使用耶穌基督
+using jargon:使用行话
+using jesus christ:使用耶稣基督
 using jesus:使用耶稣
-using jesus:使用耶穌
 using jet engine:使用喷气发动机
 using jet:使用喷射
 using jinkosolar:使用晶科能源
@@ -23774,7 +23578,6 @@ using khalkha mongolian:使用喀尔喀蒙古语
 using kick:使用踢
 using kids:使用儿童
 using knight:使用骑士
-using knowledge:使用知識
 using knowledge:使用知识
 using known and test:使用已知的和测试
 using known technologies:使用已知的技术
@@ -23785,7 +23588,6 @@ using kpmg:使用毕马威
 using kraft paper:使用牛皮纸
 using kyoto:使用京都
 using label:使用标签
-using label:使用標籤
 using labor:使用劳动力
 using laboratory models:使用实验室模型
 using laboratory techniques:使用实验室技术
@@ -23806,7 +23608,6 @@ using language and discourse:使用语言和话语
 using language information:使用语言信息
 using language modeling:使用语言建模
 using language or behavior:使用语言或行为
-using language:使用語言
 using language:使用语言
 using languages:使用语言
 using laptop:使用笔记本电脑
@@ -23856,7 +23657,6 @@ using legitimate hacker:使用合法黑客
 using legitimate:使用合法
 using legitimate:使用合法的
 using lego:使用乐高
-using lego:使用樂高
 using leica camera:使用徕卡相机
 using lemon juice:使用柠檬汁
 using lemon:使用柠檬
@@ -23879,7 +23679,7 @@ using light or sound:使用光或声音
 using light sources:使用光源
 using light wave:使用光波
 using light:使用光
-using lighter:使用打火機
+using lighter:使用打火机
 using lighting:使用照明
 using lightning network:使用闪电网络
 using lightning rod:使用避雷针
@@ -23889,11 +23689,11 @@ using lightweight:使用轻量级
 using lightweight:使用轻量级的
 using lignin:使用木质素
 using limb:使用肢
-using line chart:使用折線圖
+using line chart:使用折线图
 using line:使用线
 using linear probing:使用线性探测
 using linear programming:使用线性规划
-using linear regression:使用線性回歸
+using linear regression:使用线性回归
 using link aggregation:使用链路聚合
 using link:使用链接
 using links:使用链接
@@ -23953,8 +23753,8 @@ using love:使用爱
 using lubricant:使用润滑剂
 using lunar resources:使用月球资源
 using lung:使用肺
-using lutein:使用葉黃素
-using macau international airport:使用澳門國際機場
+using lutein:使用叶黄素
+using macau international airport:使用澳门国际机场
 using machine and factory:使用机器和工厂
 using machine control systems:使用机器控制系统
 using machine learning algorithms:使用机器学习算法
@@ -23986,7 +23786,6 @@ using magic:使用魔法
 using magical:使用神奇的
 using magnesium chloride:使用氯化镁
 using magnesium:使用镁
-using magnet:使用磁鐵
 using magnet:使用磁铁
 using magnetic field:使用磁场
 using magnetic nanoparticles:使用磁性奈米粒子
@@ -24039,7 +23838,7 @@ using many part:使用很多部分
 using many products:使用许多产品
 using many years:使用多年
 using many:使用很多
-using many:使用許多
+using many:使用许多
 using map:使用地图
 using maple syrup:使用枫糖
 using marijuana more than once:使用大麻超过一次
@@ -24056,7 +23855,7 @@ using mars:使用火星
 using martial law:使用戒严
 using mary:使用玛丽
 using mask:使用面具
-using mass conscription:使用大量徵兵制
+using mass conscription:使用大量征兵制
 using mass spectrometry:使用质谱法
 using mass:使用大量
 using massage chair:使用按摩椅
@@ -24073,7 +23872,7 @@ using materials studio:使用材料工作室
 using materials:使用材料
 using math:使用数学
 using mathematical model:使用数学模型
-using mathematical notation:使用數學符號
+using mathematical notation:使用数学符号
 using mathematics as the primary tool:使用数学作为主要工具
 using mathematics:使用数学
 using matrix calculus:使用矩阵微积分
@@ -24090,7 +23889,7 @@ using meat:使用肉
 using mechanical engineering:使用机械工程
 using mechanics:使用力学
 using mechanisms:使用机制
-using mechanized infantry:使用機械化步兵
+using mechanized infantry:使用机械化步兵
 using media company:使用媒体公司
 using media file compress:使用媒体文件压缩
 using media framework:使用媒体框架
@@ -24111,7 +23910,7 @@ using member:使用成员
 using memory card:使用记忆卡
 using memory-mapped file:使用内存映射文件
 using memory:使用记忆
-using memristor:使用憶阻器
+using memristor:使用忆阻器
 using mental health intervention:使用心理健康干预
 using mental health:使用心理健康
 using menu:使用菜单
@@ -24121,7 +23920,7 @@ using mercury:使用汞
 using merge:使用合并
 using mesh networking:使用网状网络
 using message:使用消息
-using message:使用訊息
+using message:使用讯息
 using messenger:使用信使
 using meta:使用元
 using metadata:使用元数据
@@ -24181,7 +23980,6 @@ using military helicopter:使用军用直升机
 using military power:使用军事力量
 using military:使用军事
 using military:使用军队
-using military:使用軍隊
 using milk:使用牛奶
 using millimeter wave propagation:使用毫米波传播
 using millimeter wave technology:使用毫米波技术
@@ -24199,7 +23997,7 @@ using mineral:使用矿物
 using minimum:使用最小的
 using minocycline:使用米诺环素
 using minoxidil:使用米诺地尔
-using mirror:使用鏡
+using mirror:使用镜
 using mirror:使用镜子
 using mislead:使用误导
 using missile defense technology:使用导弹防御技术
@@ -24210,7 +24008,7 @@ using mix:使用混合
 using mixed reality:使用混合现实
 using mm:使用毫米
 using mnemonic:使用记忆术
-using mobile app:使用流動應用程式
+using mobile app:使用流动应用程式
 using mobile computing:使用移动计算
 using mobile device management tools:使用移动设备管理工具
 using mobile device management:使用移动设备管理
@@ -24260,7 +24058,7 @@ using mom:使用妈妈
 using momentum:使用动量
 using monero:使用门罗币
 using monetary policy:使用货币政策
-using money:使用貨幣
+using money:使用货币
 using money:使用钱
 using monkey:使用猴
 using monsanto:使用孟山都
@@ -24340,7 +24138,7 @@ using my toothbrush:使用我的牙刷
 using my true:使用我的真
 using my:使用我的
 using myth:使用神话
-using naloxone:使用納洛酮
+using naloxone:使用纳洛酮
 using name:使用名字
 using name:使用名称
 using name:使用姓名
@@ -24356,7 +24154,6 @@ using nanotube:使用纳米管
 using napkin:使用餐巾
 using nasa:使用美国国家航空航天局
 using national security:使用国家安全
-using national security:使用國家安全
 using nationality:使用国籍
 using native pull-down menu:使用本地的下拉菜单
 using native:使用本地的
@@ -24367,7 +24164,6 @@ using natural gas engines:使用天然气发动机
 using natural gas or propane:使用天然气或丙烷
 using natural gas revenue:使用天然气收入
 using natural gas:使用天然气
-using natural gas:使用天然氣
 using natural language and structure:使用自然语言和结构
 using natural language command:使用自然语言命令
 using natural language processing and machine learning:使用自然语言处理和机器学习
@@ -24382,7 +24178,6 @@ using natural materials and traditional:使用天然材料和传统的
 using natural materials:使用天然材料
 using natural phenomena:使用自然现象
 using natural products:使用天然产品
-using natural resources:使用自然資源
 using natural resources:使用自然资源
 using natural treatment:使用自然的疗法
 using natural user interface:使用自然用户界面
@@ -24400,8 +24195,6 @@ using navigation and control:使用导航与控制
 using navigation apps:使用导航应用程序
 using navigation system:使用导航系统
 using navigation:使用导航
-using navigation:使用導航
-using nazi:使用納粹
 using nazi:使用纳粹
 using near:使用接近
 using nearby:使用附近
@@ -24454,7 +24247,7 @@ using new high-resolution:使用新的高分辨率
 using new knowledge:使用新的知识
 using new lead alloy:使用新的铅合金
 using new lithium salt:使用新的锂盐
-using new media:使用新媒體
+using new media:使用新媒体
 using new methodology:使用新的方法论
 using new methods:使用新的方法
 using new name:使用新的名字
@@ -24508,13 +24301,12 @@ using norm:使用规范
 using normal:使用正常的
 using north korea:使用朝鲜
 using north:使用北
-using norton antivirus:使用諾頓防毒
+using norton antivirus:使用诺顿防毒
 using norton:使用诺顿
 using norwegian:使用挪威
 using not a scissors:使用不是一个剪刀
 using not:使用不是
 using notebook:使用笔记本
-using noun:使用名詞
 using noun:使用名词
 using novel:使用小说
 using now fresh:使用现在新鲜的
@@ -24527,7 +24319,7 @@ using nuclear magnetic resonance:使用核磁共振
 using nuclear medicine:使用核医学
 using nuclear reactor:使用核反应堆
 using nuclear weapon:使用核武器
-using nuclear-power:使用核動力
+using nuclear-power:使用核动力
 using nuclease:使用核酸酶
 using nucleation:使用成核
 using numbers and under:使用数字和下
@@ -24536,7 +24328,7 @@ using nutrient:使用营养
 using nutrition:使用营养
 using nvidia:使用英伟达
 using nylon:使用尼龙
-using oar:使用槳
+using oar:使用桨
 using object closure:使用对象闭包
 using object oriented:使用面向对象的
 using object storage:使用对象存储
@@ -24549,7 +24341,7 @@ using observer events:使用观察者事件
 using observer:使用观察者
 using occam's razor:使用奥卡姆剃刀
 using ocean:使用海洋
-using octopus card:使用八達通
+using octopus card:使用八达通
 using odd number:使用奇数
 using odd:使用奇
 using odyssey:使用奥德赛
@@ -24564,7 +24356,7 @@ using oil lamp:使用油灯
 using oil or water:使用油或水
 using oil:使用油
 using old testament:使用旧约圣经
-using olive oil:使用橄欖油
+using olive oil:使用橄榄油
 using on-demand:使用按需
 using once:使用一次
 using one or more communication protocol:使用一个或多个通信协议
@@ -24579,7 +24371,7 @@ using onion:使用洋蔥
 using online apps:使用在线应用程序
 using online assessment tools:使用在线评估工具
 using online backup:使用在线备份
-using online banking:使用網路銀行
+using online banking:使用网路银行
 using online coupon code:使用在线优惠券代码
 using online forums:使用在线论坛
 using online information sources:使用在线信息源
@@ -24756,10 +24548,10 @@ using ozone:使用臭氧
 using pacifier:使用奶嘴
 using package management system:使用包管理系统
 using package:使用包
-using packaging:使用包裝
+using packaging:使用包装
 using packet-switching:使用分组交换
 using page:使用页
-using pager:使用傳呼機
+using pager:使用传呼机
 using pages:使用页
 using pain:使用疼痛
 using paint:使用油漆
@@ -24801,8 +24593,8 @@ using password lock:使用密码锁
 using password through network:使用密码通过网络
 using password:使用密码
 using past tense:使用过去时
+using past:使用过去
 using past:使用过去的
-using past:使用過去
 using patchouli:使用广藿香
 using patent:使用专利
 using path:使用路径
@@ -24822,7 +24614,7 @@ using pechoin:使用百雀羚
 using peer:使用同级
 using pen and paper:使用笔和纸
 using pen input:使用笔输入
-using pen name:使用筆名
+using pen name:使用笔名
 using pen:使用笔
 using pencil:使用铅笔
 using penetration test:使用渗透测试
@@ -24847,12 +24639,12 @@ using periodic boundary conditions:使用周期性边界条件
 using permanent magnet:使用永磁体
 using permission:使用许可
 using permit:使用许可
-using perovskite:使用鈣鈦礦
+using perovskite:使用鈣鈦矿
 using persian language:使用波斯语
 using persian:使用波斯语
 using personal computer:使用个人电脑
 using personal information:使用个人信息
-using persuasion:使用說服
+using persuasion:使用说服
 using pertuzumab:使用帕妥珠单抗
 using pesticide:使用农药
 using petroleum:使用石油
@@ -24861,7 +24653,7 @@ using pharmacogenomics:使用药物基因组学
 using phase:使用阶段
 using phenol red:使用酚红
 using pheromone:使用信息素
-using philips:使用飛利浦
+using philips:使用飞利浦
 using phone or mail:使用电话或邮件
 using phone:使用手机
 using phone:使用电话
@@ -24889,7 +24681,7 @@ using pirate:使用海盗
 using pistol:使用手枪
 using pittsburgh:使用匹兹堡
 using pixel:使用像素
-using placebo:使用安慰劑
+using placebo:使用安慰剂
 using placeholder text:使用占位符文本
 using placeholder:使用占位符
 using plaintext:使用明文
@@ -24928,7 +24720,7 @@ using police reports:使用警察报告
 using police:使用警察
 using policies:使用政策
 using policy:使用政策
-using political power:使用政治權力
+using political power:使用政治权力
 using polyacrylamide:使用聚丙烯酰胺
 using polyacrylonitrile:使用聚丙烯腈
 using polycarbonate:使用聚碳酸酯
@@ -24979,7 +24771,7 @@ using practice space:使用实践空间
 using practice:使用实践
 using prague:使用布拉格
 using prayer:使用祈祷
-using precious metal:使用貴金屬
+using precious metal:使用贵金属
 using precise location:使用精确的位置
 using precise:使用精确的
 using predefined security reports:使用预定义的安全报告
@@ -24987,7 +24779,6 @@ using predefined template:使用预定义的模板
 using predefined:使用预定义的
 using predict:使用预测
 using prediction market:使用预测市场
-using prediction:使用預測
 using prediction:使用预测
 using predictive analytics and data:使用预测分析和数据
 using predictive analytics can help:使用预测分析可以帮助
@@ -24997,7 +24788,7 @@ using preference:使用偏好
 using prefix:使用前缀
 using preprocess:使用预处理
 using preprocessor:使用预处理器
-using prescription drug:使用處方藥
+using prescription drug:使用处方药
 using presentation layer:使用表示层
 using presentation mode:使用演示模式
 using presentation:使用演示
@@ -25015,7 +24806,6 @@ using print:使用打印
 using printing:使用印刷
 using printmaking:使用版画
 using prison:使用监狱
-using prison:使用監獄
 using prisoner:使用囚犯
 using privacy:使用隐私
 using private car:使用私人汽车
@@ -25045,7 +24835,7 @@ using production line:使用生产线
 using production:使用生产
 using products and services:使用产品和服务
 using products:使用产品
-using profanity:使用髒話
+using profanity:使用脏话
 using professional assessment:使用专业评估
 using professional computer applications:使用专业计算机应用程序
 using professional development techniques:使用专业开发技术
@@ -25077,7 +24867,6 @@ using prop:使用道具
 using propaganda:使用宣传
 using propane:使用丙烷
 using propeller:使用螺旋桨
-using propeller:使用螺旋槳
 using properties:使用属性
 using propofol:使用丙泊酚
 using proportional representation:使用比例代表制
@@ -25122,7 +24911,6 @@ using public records:使用公共记录
 using public resources:使用公共资源
 using public service:使用公共服务
 using public toilet:使用公共厕所
-using public toilet:使用公共廁所
 using public transit:使用公共交通
 using public transport:使用公共交通
 using public utility:使用公用事业
@@ -25175,7 +24963,6 @@ using quantum physics:使用量子物理
 using quantum processor:使用量子处理器
 using quantum sensor:使用量子传感器
 using quantum technology:使用量子技术
-using quantum technology:使用量子技術
 using quantum theory:使用量子理论
 using quantum:使用量子
 using quartz:使用石英
@@ -25188,7 +24975,7 @@ using question:使用问题
 using questions:使用问题
 using quiet time:使用安静的时间
 using quiet:使用安静的
-using quill:使用鵝毛筆
+using quill:使用鹅毛笔
 using quinidine:使用奎尼丁
 using quinolone:使用喹诺酮
 using quotation mark:使用引号
@@ -25291,17 +25078,17 @@ using related:使用相关的
 using relation:使用关系
 using relational database:使用关系数据库
 using relationship:使用关系
-using relaxation technique:使用放鬆技巧
+using relaxation technique:使用放松技巧
 using relay:使用继电器
 using reliable security solutions:使用可靠的安全解决方案
 using reliable solutions:使用可靠的解决方案
 using reliable:使用可靠的
 using religion:使用宗教
 using remote direct memory access:使用远程直接内存访问
-using remote procedure call:使用遠程過程調用
+using remote procedure call:使用远程过程调用
 using remote sensing techniques:使用遥感技术
 using remote sensing:使用遥感
-using remote-access:使用遠端存取
+using remote-access:使用远端存取
 using renault:使用雷诺
 using render:使用渲染
 using renewable electricity:使用可再生电力
@@ -25362,7 +25149,7 @@ using road space:使用道路空间
 using road:使用道路
 using roads:使用路
 using roadside bomb:使用路边炸弹
-using roaming:使用漫遊
+using roaming:使用漫游
 using robot technology:使用机器人技术
 using robot:使用机器人
 using robots and artificial intelligence:使用机器人和人工智能
@@ -25429,7 +25216,6 @@ using satellite:使用卫星
 using satire:使用讽刺
 using satoshi nakamoto:使用中本聪
 using sauna:使用桑拿
-using saw:使用鋸
 using saw:使用锯
 using scalar:使用标量
 using scale model:使用比例模型
@@ -25452,7 +25238,7 @@ using scissors:使用剪刀
 using scott:使用斯科特
 using scottish data:使用苏格兰数据
 using scottish:使用苏格兰
-using scrap:使用廢料
+using scrap:使用废料
 using screen time:使用屏幕时间
 using screen:使用屏幕
 using script:使用脚本
@@ -25488,7 +25274,6 @@ using select and update:使用选择和更新
 using select:使用选择
 using self improvement:使用自我改进
 using self-driving car:使用自动驾驶汽车
-using self-driving car:使用自動駕駛汽車
 using self-report:使用自我报告
 using self:使用自己
 using self:使用自我
@@ -25512,7 +25297,7 @@ using sentence:使用句子
 using sentinel:使用哨兵
 using seoul:使用首尔
 using separate:使用分离
-using septic tank:使用化糞池
+using septic tank:使用化粪池
 using sequences:使用序列
 using sequencing:使用测序
 using serial port:使用串行端口
@@ -25561,7 +25346,7 @@ using shovel:使用铲
 using shutter priority mode:使用快门优先模式
 using shutter priority:使用快门优先
 using sicily:使用西西里
-using sign language:使用手語
+using sign language:使用手语
 using sign:使用签名
 using signal processing:使用信号处理
 using signal:使用信号
@@ -25599,14 +25384,11 @@ using skills:使用技巧
 using skills:使用技能
 using skin care:使用护肤
 using skin or blood:使用皮肤或血液
-using skin or blood:使用皮膚或血液
 using skin stem cell:使用皮肤干细胞
 using skin-care:使用护肤
 using skin:使用皮肤
-using skin:使用皮膚
 using sky:使用天空
 using skylight:使用天窗
-using slang:使用俚語
 using slang:使用俚语
 using slash:使用斜杠
 using sled:使用雪橇
@@ -25635,7 +25417,7 @@ using smart-city:使用智慧城市
 using smartphone apps:使用智能手机应用程序
 using smartphone:使用智能手机
 using smartwatch:使用智能手表
-using smoke:使用煙
+using smoke:使用烟
 using smuggling:使用走私
 using snake oil:使用蛇油
 using snake:使用蛇
@@ -25656,15 +25438,15 @@ using social media information:使用社交媒体信息
 using social media platform:使用社交媒体平台
 using social media platforms online:使用社交媒体平台在线
 using social media tools:使用社交媒体工具
-using social media tools:使用社群媒體工具
+using social media tools:使用社群媒体工具
 using social media:使用社交媒体
-using social media:使用社群媒體
+using social media:使用社群媒体
 using social network analysis:使用社会网络分析
 using social network:使用社交网络
 using social network:使用社会网络
 using social networks:使用社交网络
 using social platforms:使用社交平台
-using social robot:使用社交機器人
+using social robot:使用社交机器人
 using social science:使用社会科学
 using social security optimization software:使用社会保障优化软件
 using social security:使用社会保障
@@ -25700,7 +25482,7 @@ using soil:使用土壤
 using solar cell:使用太阳能电池
 using solar energy technology:使用太阳能技术
 using solar energy:使用太阳能
-using solar power:使用太陽能發電
+using solar power:使用太阳能发电
 using solar sail:使用太阳帆
 using soldier:使用士兵
 using solid fuel:使用固体燃料
@@ -25845,7 +25627,6 @@ using steel:使用钢
 using steganography:使用隐写术
 using stem cell technology:使用干细胞技术
 using stem cell:使用干细胞
-using stem cell:使用幹細胞
 using stent:使用支架
 using stephen:使用史蒂芬
 using stimulant drugs:使用兴奋剂药物
@@ -25857,7 +25638,6 @@ using stock prices:使用股票价格
 using stock:使用股票
 using stone tool:使用石器
 using stone:使用石头
-using stone:使用石頭
 using stonehenge:使用巨石阵
 using stop loss:使用停止损失
 using stop word:使用停用词
@@ -25894,9 +25674,8 @@ using study:使用学习
 using styrene:使用苯乙烯
 using sub:使用子
 using subject:使用主题
-using submarine:使用潛艇
 using submarine:使用潜艇
-using submersible:使用潛水器
+using submersible:使用潜水器
 using subscript:使用下标
 using substance:使用物质
 using subtitles:使用字幕
@@ -25930,16 +25709,16 @@ using surfactant:使用表面活性剂
 using surveillance:使用监视
 using survival:使用生存
 using sustain:使用持续
-using sustainability:使用可持續性
+using sustainability:使用可持续性
 using sustainable development:使用可持续发展
 using sustainable material resources:使用可持续的材料资源
 using sustainable materials:使用可持续的材料
 using sustainable:使用可持续的
 using suture:使用缝合
 using swarm intelligence:使用群体智能
-using sweatshop:使用血汗工廠
+using sweatshop:使用血汗工厂
 using swedish:使用瑞典语
-using sweep picking:使用掃弦
+using sweep picking:使用扫弦
 using sweetener:使用甜味剂
 using swiss:使用瑞士
 using swisscom:使用瑞士电信
@@ -25978,7 +25757,7 @@ using talk therapy:使用谈话疗法
 using talk:使用谈话
 using tammany hall:使用坦慕尼协会
 using tamoxifen:使用他莫昔芬
-using tampon:使用衛生棉條
+using tampon:使用卫生棉条
 using tank:使用坦克
 using tap water:使用自来水
 using tape:使用磁带
@@ -25987,7 +25766,7 @@ using target disk mode:使用目标磁盘模式
 using target:使用目标
 using targeted therapy:使用靶向治疗
 using tariff:使用关税
-using tarot:使用塔羅牌
+using tarot:使用塔罗牌
 using task analysis:使用任务分析
 using task manager:使用任务管理器
 using task plan:使用任务计划
@@ -25998,7 +25777,7 @@ using tea tree oil:使用茶树油
 using tea:使用茶
 using team news:使用团队新闻
 using team:使用团队
-using tear gas:使用催淚彈
+using tear gas:使用催泪弹
 using teaspoon:使用茶匙
 using technical analysis:使用技术分析
 using techniques:使用技术
@@ -26043,7 +25822,7 @@ using text-to-speech:使用文本转语音
 using text:使用文本
 using textbook:使用教科书
 using textile:使用纺织品
-using texture:使用紋理
+using texture:使用纹理
 using thai:使用泰国
 using that ten minute:使用那十分
 using that:使用那
@@ -26055,7 +25834,7 @@ using the first-person plural:使用第一人称复数
 using the first:使用第一次
 using the force:使用原力
 using the hague:使用海牙
-using the key:使用鍵
+using the key:使用键
 using the new york:使用纽约
 using the only:使用唯一
 using the people's republic of china:使用中华人民共和国
@@ -26479,7 +26258,7 @@ using ukrainian airspace:使用乌克兰领空
 using ukrainian:使用乌克兰
 using ukrainian:使用乌克兰的
 using ultracold atom:使用超冷原子
-using ultrasound:使用超聲波
+using ultrasound:使用超声波
 using ultraviolet laser radiation:使用紫外线激光辐射
 using ultraviolet radiation:使用紫外线辐射
 using ultraviolet:使用紫外线
@@ -26504,7 +26283,7 @@ using united nations:使用联合国
 using unlabeled data:使用未标记数据
 using unlabeled:使用未标记的
 using unreal engine:使用虚幻引擎
-using unsupervised learning:使用無監督學習
+using unsupervised learning:使用无监督学习
 using unsupervised:使用无监督的
 using up:使用向上
 using update management software:使用更新管理软件
@@ -26513,7 +26292,6 @@ using upgrade assistant:使用升级助手
 using upgrade:使用升级
 using upper:使用大写字母
 using uranium and plutonium:使用铀与钚
-using uranium:使用鈾
 using uranium:使用铀
 using urine:使用尿
 using us components:使用美国组件
@@ -26632,14 +26410,14 @@ using village:使用村庄
 using vinegar:使用醋
 using violence and death:使用暴力和死亡
 using violence:使用暴力
-using viral vector:使用病毒載體
+using viral vector:使用病毒载体
 using virtual currency:使用虚拟货币
 using virtual instrumentation:使用虚拟仪器
 using virtual memory:使用虚拟内存
-using virtual private network:使用虛擬私人網路
+using virtual private network:使用虛拟私人网路
 using virtual reality:使用虚拟现实
 using virtual-reality:使用虚拟现实
-using virtualization:使用虛擬化
+using virtualization:使用虛拟化
 using viruses:使用病毒
 using vision systems:使用视觉系统
 using vision:使用视觉
@@ -26712,7 +26490,7 @@ using wearable technology:使用可穿戴技术
 using weather radar:使用气象雷达
 using weather:使用天气
 using web site:使用网站
-using web template:使用網頁模板
+using web template:使用网页模板
 using website:使用网站
 using websites:使用网站
 using wechat pay:使用微信支付
@@ -26737,10 +26515,9 @@ using whale:使用鲸
 using what methods:使用什么方法
 using what technology:使用什么技术
 using what:使用什么
-using what:使用什麼
 using wheat:使用小麦
 using wheel:使用轮子
-using wheelchair:使用輪椅
+using wheelchair:使用轮椅
 using whey protein:使用乳清蛋白
 using whey:使用乳清
 using white chocolate:使用白巧克力
@@ -26772,9 +26549,9 @@ using windmill:使用风车
 using window:使用窗
 using wine:使用葡萄酒
 using wireless network:使用无线网络
-using wireless telephone:使用無線電話
+using wireless telephone:使用无线电话
 using wisdom:使用智慧
-using witchcraft:使用巫術
+using witchcraft:使用巫术
 using without:使用没有
 using wollastonite:使用硅灰石
 using women and children:使用妇女和儿童
@@ -26824,7 +26601,6 @@ using your brain:使用你的大脑
 using your browser:使用你的浏览器
 using your camera:使用你的相机
 using your computer:使用你的电脑
-using your computer:使用你的電腦
 using your core muscle:使用你的核心肌肉
 using your credit card:使用你的信用卡
 using your finger:使用你的手指
@@ -26883,69 +26659,62 @@ using zoom lens:使用变焦镜头
 using:使用
 usingen:乌辛根
 usini:乌西尼
-usino bundi district:烏西諾本迪縣
-usinsk airport:烏辛斯克機場
-usinsk:烏辛斯克
-usinska:烏辛斯克
+usino bundi district:乌西诺本迪县
+usinsk airport:乌辛斯克机场
+usinsk:乌辛斯克
+usinska:乌辛斯克
 usis:wúxī shì
+usis:无锡
 usis:无锡市
-usis:無錫
-usis:無錫市
 usitai:wū sī tài zhèn
 usitai:乌斯太镇
 usitya n wenẓul:南奥塞梯
 usitya n wenẓul:南奧塞梯
-usivka:烏西夫卡
+usivka:乌西夫卡
 usj15 vision school complex:usj15 宏愿学校
-usj15 vision school complex:usj15 宏願學校
 usj21:usj21区
-usj21:usj21區
 usj7:usj7区
-usj7:usj7區
-usjatjy:烏沙奇
+usjatjy:乌沙奇
 uskok class torpedo boat:乌斯科克级鱼雷艇
 uskoti:苏格兰
-uskoti:苏格兰 / 蘇格蘭
-uskoti:蘇格蘭
-usl championship:美國足球冠軍聯賽
-usl league one:美國足球甲級聯賽
-usl super league:美國女子足球超級聯賽
+uskoti:苏格兰 / 苏格兰
+usl championship:美国足球冠军联赛
+usl league one:美国足球甲级联赛
+usl super league:美国女子足球超级联赛
 uslar:乌斯拉尔
-uslowaja:烏茲洛瓦亞
+uslowaja:乌茲洛瓦亚
 uslu:奥斯陆
-uslu:奧斯陸
-usm footbal stadium:馬來西亞理科大學足球體育館
+uslu:奧斯陆
 usm footbal stadium:马来西亚理科大学足球体育馆
-usm:馬來西亞理科大學
 usm:马来西亚理科大学
 usma station:乌斯马站
-usman river:烏斯曼河
-usman':烏斯曼
-usman:烏斯曼
+usman river:乌斯曼河
+usman':乌斯曼
+usman:乌斯曼
 usmaniya:奧斯曼尼耶
-usmanj:烏斯曼
-usmansky district:烏斯曼區
+usmanj:乌斯曼
+usmansky district:乌斯曼区
 usmate velate:乌斯马泰韦拉泰
-usmań:烏斯曼
-usmaň:烏斯曼
+usmań:乌斯曼
+usmaň:乌斯曼
 usmile kunlun haoke:昆仑好客
 usmile:usmile 便利店
 usmile:中国石油
 usmile:孔玉加油沾
 usmile:昆仑好客
 usmile:昆侖好客
-usnarka:烏斯納爾卡河
-usnea ridge:烏斯尼嶺
-usnea:松蘿屬
-usnisavijaya:尊勝佛頂
+usnarka:乌斯纳尔卡河
+usnea ridge:乌斯尼岭
+usnea:松萝属
+usnisavijaya:尊胜佛顶
 usns comfort:安慰号医疗船
-usns guam:關島號高速運輸船
+usns guam:关岛号高速运输船
 usns impeccable:无瑕号研究船
-usns mercy:仁慈號醫療艦
-usns observation island:觀察島號彈道飛彈觀測艦
-usns victorious:勝利級研究船
+usns mercy:仁慈号医疗舰
+usns observation island:观察岛号弹道飞弹观测舰
+usns victorious:胜利级研究船
 usogorsk:乌索戈尔斯克
-usogui:噬謊者
+usogui:噬谎者
 usol'e-sibirskoe:西伯利亚地区乌索利耶
 usol'e:乌索利耶
 usole syberyjskie:西伯利亚地区乌索利耶
@@ -26957,59 +26726,56 @@ usolje-sibirskoje:西伯利亚地区乌索利耶
 usolje:乌索利耶
 usoljej:乌索利耶
 usoljė sibirskojė:西伯利亚地区乌索利耶
-usolusy:烏索盧西
-usolusı:烏索盧西
+usolusy:乌索卢西
+usolusı:乌索卢西
 usolye sibirskoye:西伯利亚地区乌索利耶
 usolye-sibirskoye:西伯利亚地区乌索利耶
 usolye:乌索利耶
 usona Ŝipbazo ĉe la golfo de gvantanamo:关塔那摩湾海军基地（美国）
 usonaj malgrandaj insuloj:美国本土外小岛屿
-usonaj malgrandaj insuloj:美国本土外小岛屿 / 美國本土外小島嶼
-usonaj malgrandaj insuloj:美國本土外小島嶼
+usonaj malgrandaj insuloj:美国本土外小岛屿 / 美国本土外小岛屿
+usonaj virgulinsuloj:美属处女群岛
+usonaj virgulinsuloj:美属维京群岛
 usonaj virgulinsuloj:美属维尔京群岛
-usonaj virgulinsuloj:美屬維京群島
-usonaj virgulinsuloj:美屬維爾京群島
-usonaj virgulinsuloj:美屬處女群島
 usono:měiguó
 usono:美国
-usono:美國
-usopp:騙人布
+usopp:骗人布
 usora municipality:乌索拉
-usotoki rhetoric:解謊偵探少女
-usotsuki mii kun to kowareta maa chan:說謊的男孩與壞掉的女孩
-usołusy:烏索盧西
-uspen district:烏斯片區
-uspenivka:烏斯佩尼夫卡
-uspeniwka:烏斯佩尼夫卡
-uspenka:烏斯彭卡
-uspenka:烏斯片卡
+usotoki rhetoric:解谎侦探少女
+usotsuki mii kun to kowareta maa chan:说谎的男孩与坏掉的女孩
+usołusy:乌索卢西
+uspen district:乌斯片区
+uspenivka:乌斯佩尼夫卡
+uspeniwka:乌斯佩尼夫卡
+uspenka:乌斯彭卡
+uspenka:乌斯片卡
+uspenski cathedral:乌斯佩斯基大教堂
 uspenski cathedral:乌斯彭斯基主教座堂
-uspenski cathedral:烏斯佩斯基大教堂
 uspenski-glockengestühl:圣母升天钟楼
-uspenskijkatedralen:烏斯佩斯基大教堂
-uspenskin katedraali:烏斯佩斯基大教堂
-uspensky district:烏斯片斯科耶區
-usquil district:烏斯基爾區
+uspenskijkatedralen:乌斯佩斯基大教堂
+uspenskin katedraali:乌斯佩斯基大教堂
+uspensky district:乌斯片斯科耶区
+usquil district:乌斯基尔区
 usqullu:奧斯科略山
-uss akron:阿克倫號飛船
-uss anderson:安德森號驅逐艦
+uss akron:阿克伦号飞船
+uss anderson:安德森号驱逐舰
 uss arizona memorial:美国海军亚利桑那号战列舰纪念馆
-uss arizona:亞利桑那號戰艦
+uss arizona:亚利桑那号战舰
 uss bainbridge:班布里奇号驱逐舰
-uss barbey:淮陽號巡防艦
+uss barbey:淮阳号巡防舰
 uss barry:巴里号驱逐舰
 uss benfold:本福尔德号驱逐舰
-uss billings:比靈斯號近岸戰鬥艦
+uss billings:比灵斯号近岸战斗舰
 uss blair:布莱尔号护航驱逐舰
-uss blue ridge:藍嶺號
-uss bonhomme richard:好人理查號
-uss bostwick:太倉號驅逐艦
+uss blue ridge:蓝岭号
+uss bonhomme richard:好人理查号
+uss bostwick:太仓号驱逐舰
 uss bowfin:弓鳍鱼号潜艇
 uss boyle:博伊尔号驱逐舰
-uss breeman:太湖號驅逐艦
-uss brewton:鳳陽號巡防艦
+uss breeman:太湖号驱逐舰
+uss brewton:凤阳号巡防舰
 uss brough:布拉夫号护航驱逐舰
-uss brush:襄陽號驅逐艦
+uss brush:襄阳号驱逐舰
 uss bulkeley:巴尔克利号驱逐舰
 uss carney:卡尼号驱逐舰
 uss chafee:查菲号驱逐舰
@@ -27020,21 +26786,21 @@ uss chung hoon:锺云号驱逐舰
 uss cole:科尔号驱逐舰
 uss constellation vs l'insurgente:星座号对战叛乱者号
 uss constellation vs la vengeance:星座号对战复仇号
-uss constellation:星座號
+uss constellation:星座号
 uss constitution museum:宪法号博物馆
-uss constitution:憲法號巡防艦
-uss cutlass:海獅號潛艇
+uss constitution:宪法号巡防舰
+uss cutlass:海狮号潜艇
 uss decker:太平号护航驱逐舰
-uss dukes county:高雄號兩棲指揮艦
-uss enterprise:企業號
+uss dukes county:高雄号两栖指挥舰
+uss enterprise:企业号
 uss fessenden:费森登号护航驱逐舰
 uss fitzgerald:菲茨杰拉德号驱逐舰
 uss flaherty:弗莱厄蒂号护航驱逐舰
-uss forrestal:福萊斯特號航空母艦
+uss forrestal:福莱斯特号航空母舰
 uss frost:弗罗斯特号护航驱逐舰
 uss gonzalez:冈萨雷斯号驱逐舰
-uss greeneville:格林維爾號攻擊型核潛艇
-uss hanson:遼陽號驅逐艦
+uss greeneville:格林维尔号攻击型核潜艇
+uss hanson:辽阳号驱逐舰
 uss higgins:希金斯号驱逐舰
 uss hill:希尔号护航驱逐舰
 uss hopper:霍珀号驱逐舰
@@ -27042,17 +26808,17 @@ uss howard:霍华德号驱逐舰
 uss hughes:休斯号驱逐舰
 uss huse:休斯号护航驱逐舰
 uss inch:英奇号护航驱逐舰
-uss iowa:愛荷華號
-uss jarrett:賈瑞德號巡防艦
+uss iowa:爱荷华号
+uss jarrett:贾瑞德号巡防舰
 uss kennedy:肯尼迪号
-uss kidd:紀德號
-uss kirk:汾陽號巡防艦
-uss kleinsmith:天山號巡防艦
-uss kline:壽山號巡防艦
+uss kidd:纪德号
+uss kirk:汾阳号巡防舰
+uss kleinsmith:天山号巡防舰
+uss kline:寿山号巡防舰
 uss laboon:拉布恩号驱逐舰
-uss langley:蘭利號
+uss langley:兰利号
 uss lansdale:兰斯代尔号驱逐舰
-uss liberty incident:自由號事件
+uss liberty incident:自由号事件
 uss liberty:自由号
 uss mahan:马汉号驱逐舰
 uss maine would:缅因号战舰将
@@ -27062,26 +26828,26 @@ uss mayo:梅奥号驱逐舰
 uss mccampbell:麦坎贝尔号驱逐舰
 uss mcfaul:麦克福尔号驱逐舰
 uss michigan:密歇根号
-uss midway museum:中途島號博物館
-uss midway:中途島號
+uss midway museum:中途岛号博物馆
+uss midway:中途岛号
 uss milius:米利厄斯号驱逐舰
-uss mississippi:密西西比號
+uss mississippi:密西西比号
 uss mitscher:米彻尔号驱逐舰
 uss momsen:莫姆森号驱逐舰
-uss montana:蒙大拿號
+uss montana:蒙大拿号
 uss mount whitney:惠特尼山号指挥舰
 uss mustin:马斯廷号驱逐舰
-uss neosho:尼奧紹號
+uss neosho:尼奧绍号
 uss neunzer:诺伊恩泽号护航驱逐舰
-uss new jersey:紐澤西號戰艦
-uss new york:紐約號
-uss nimitz:尼米茲號航空母艦
+uss new jersey:纽泽西号战舰
+uss new york:纽约号
+uss nimitz:尼米茲号航空母舰
 uss nitze:尼采号驱逐舰
 uss o'brien:奥拜恩号驱逐舰
 uss o'kane:奥凯恩号驱逐舰
-uss oriskany:奧里斯卡尼號航空母艦
+uss oriskany:奧里斯卡尼号航空母舰
 uss panay incident:帕奈号事件
-uss peleliu:貝里琉號兩棲突擊艦
+uss peleliu:贝里琉号两栖突击舰
 uss pennsylvania:宾夕法尼亚号
 uss pinckney:平克尼号驱逐舰
 uss poole:普尔号护航驱逐舰
@@ -27091,56 +26857,55 @@ uss pueblo (ager-2):普韦布洛号
 uss ramage:拉梅奇号驱逐舰
 uss ross:罗斯号驱逐舰
 uss russell:拉塞尔号驱逐舰
-uss san diego:聖地牙哥號
-uss sarsfield:德陽號驅逐艦
-uss shakori:沙克里號遠洋拖船
-uss shangri la:香格里拉號航空母艦
+uss san diego:圣地牙哥号
+uss sarsfield:德阳号驱逐舰
+uss shakori:沙克里号远洋拖船
+uss shangri la:香格里拉号航空母舰
 uss shoup:肖普号驱逐舰
 uss stark:斯塔克号护卫舰
 uss stethem:斯特西姆号驱逐舰
 uss stout:斯托特号驱逐舰
-uss tawakoni:大漢號遠洋拖船
-uss the sullivans:蘇利文兄弟號驅逐艦
-uss ticonderoga:提康德羅加號
-uss united states:合眾國號
-uss valdez:宜陽號巡防艦
-uss virginia:維吉尼亞號
-uss virginian:維吉尼亞人號
-uss washington:華盛頓號
-uss west virginia:西維吉尼亞號
-uss white marsh:中正號船塢登陸艦
+uss tawakoni:大汉号远洋拖船
+uss the sullivans:苏利文兄弟号驱逐舰
+uss ticonderoga:提康德罗加号
+uss united states:合众国号
+uss valdez:宜阳号巡防舰
+uss virginia:维吉尼亚号
+uss virginian:维吉尼亚人号
+uss washington:华盛顿号
+uss west virginia:西维吉尼亚号
+uss white marsh:中正号船坞登陆舰
 uss woodworth:伍德沃斯号驱逐舰
 uss zumwalt:朱姆沃尔特号驱逐舰
 ussac:于萨克
 ussana:乌萨纳
-ussangoda national park:烏桑戈達國家公園
+ussangoda national park:乌桑戈达国家公园
 ussaramanna:乌萨拉曼纳
 ussassai:乌萨赛
 usseaux:乌塞奥
-usseewa:煩死了
+usseewa:烦死了
 usseglio:乌塞廖
 ussel d'allier:阿列省于塞勒
 ussel station:于塞勒站
-usser wissberg:烏瑟維斯山
-ussinsk:烏辛斯克
+usser wissberg:乌瑟维斯山
+ussinsk:乌辛斯克
 ussita:乌西塔
-ussiwka:烏西夫卡
+ussiwka:乌西夫卡
 ussogorsk:乌索戈尔斯克
 ussolje-sibirskoje:西伯利亚地区乌索利耶
 ussolje:乌索利耶
-ussolussy:烏索盧西
+ussolussy:乌索卢西
 usson du poitou:于松迪普瓦图
 usson en forez:福雷地区于松
 usson:于松
 ussr academy of medical sciences:苏联医学科学院
 ussr chess championship:苏联国际象棋锦标赛
-ussr federation cup:蘇聯聯邦盃
+ussr federation cup:苏联联邦杯
 ussr state prize:苏联国家奖
 ussuri bay:乌苏里湾
-ussuri bay:烏蘇里灣
 ussuri black bear:乌苏里江黑熊
-ussuri brown bear:東北棕熊
-ussuri cossacks:烏蘇里哥薩克
+ussuri brown bear:东北棕熊
+ussuri cossacks:乌苏里哥萨克
 ussuri mole:壮鼹
 ussuri river:乌苏里江
 ussuri shrew:大鼩鼱
@@ -27148,110 +26913,102 @@ ussuri tube nosed bat:乌苏里管鼻蝠
 ussuri white toothed shrew:大麝鼩
 ussuri:乌苏里江
 ussuribucht:乌苏里湾
-ussuribucht:烏蘇里灣
 ussuriisk:双城子
-ussuriisk:雙城子
 ussurijsk:双城子
-ussurijsk:雙城子
 ussurijský záliv:乌苏里湾
-ussurijský záliv:烏蘇里灣
 ussuriysk railway station:乌苏里斯克站
 ussuriysk:双城子
-ussuriysk:雙城子
 ussuriysky zapovednik:乌苏里斯克自然保护区
 ussuriïsk:双城子
-ussuriïsk:雙城子
 ussuryjsk:双城子
-ussuryjsk:雙城子
 ussy sur marne:马恩河畔于西
 ussy:于西
 usszuri:乌苏里江
 usszurijszk:双城子
-usszurijszk:雙城子
 ussèl:于塞勒
 ussólie-sibírskoie:西伯利亚地区乌索利耶
 ussólie:乌索利耶
 ust abakan:乌斯季阿巴坎
-ust abakansky district:烏斯季阿巴坎區
-ust aldansky district:烏斯季阿爾丹區
-ust barguzin:烏斯季巴爾古津
-ust bolsheretsky district:烏斯季博利舍列茨克區
-ust chorna:烏斯季喬爾納
+ust abakansky district:乌斯季阿巴坎区
+ust aldansky district:乌斯季阿尔丹区
+ust barguzin:乌斯季巴尔古津
+ust bolsheretsky district:乌斯季博利舍列茨克区
+ust chorna:乌斯季乔尔纳
 ust cilma:乌斯季齐利马
-ust donetsky district:烏斯季頓涅茨基區
-ust dzheguta:烏斯季傑古塔
-ust dzhegutinsky district:烏斯季傑古塔區
-ust džeguta:烏斯季傑古塔
+ust donetsky district:乌斯季顿涅茨基区
+ust dzheguta:乌斯季杰古塔
+ust dzhegutinsky district:乌斯季杰古塔区
+ust džeguta:乌斯季杰古塔
 ust ilimsk:乌斯季伊利姆斯克
 ust ilimskas:乌斯特伊利姆斯克
 ust ilimsky district:乌斯季伊利姆斯克区
-ust ishimsky district:烏斯季伊希姆區
-ust kalmansky district:烏斯季卡爾曼卡區
-ust kamchatsk:烏斯季堪察茨克
-ust kamchatsky district:烏斯季堪察茨克區
-ust kansky district:烏斯季坎區
+ust ishimsky district:乌斯季伊希姆区
+ust kalmansky district:乌斯季卡尔曼卡区
+ust kamchatsk:乌斯季堪察茨克
+ust kamchatsky district:乌斯季堪察茨克区
+ust kansky district:乌斯季坎区
 ust karsk:乌斯季卡尔斯克
 ust kinelsky:乌斯季基涅利斯基
-ust koksinsky district:烏斯季科克薩區
+ust koksinsky district:乌斯季科克萨区
 ust kubinsky district:乌斯季库边斯科耶区
-ust kulomsky district:烏斯季庫洛姆區
+ust kulomsky district:乌斯季库洛姆区
 ust kut:乌斯季库特
 ust kutsky district:乌斯季库特区
-ust kuyga:烏斯季庫伊加
-ust labinsky district:烏斯季拉賓斯克區
-ust maya:烏斯季馬亞
-ust maysky district:烏斯季馬亞區
+ust kuyga:乌斯季库伊加
+ust labinsky district:乌斯季拉宾斯克区
+ust maya:乌斯季马亚
+ust maysky district:乌斯季马亚区
 ust nera:乌斯季涅拉
 ust omchug:乌斯季奥姆丘格
 ust ordynski:乌斯季奥尔登斯基
 ust ordynsky:乌斯季奥尔登斯基
-ust pristansky district:烏斯季普里斯坦區
-ust shchuger:烏斯季休格爾
-ust tarksky district:烏斯季塔爾卡區
-ust tsilemsky district:烏斯季齊利馬區
+ust pristansky district:乌斯季普里斯坦区
+ust shchuger:乌斯季休格尔
+ust tarksky district:乌斯季塔尔卡区
+ust tsilemsky district:乌斯季齐利马区
 ust tsilma:乌斯季齐利马
 ust udinsky district:乌斯季乌达区
-ust vymsky district:烏斯季維姆區
-ust yansky district:烏斯季揚斯克區
+ust vymsky district:乌斯季维姆区
+ust yansky district:乌斯季扬斯克区
 ust'-cil'ma:乌斯季齐利马
 ust'-doneckij:乌斯季顿涅茨基
-ust'-džeguta:烏斯季傑古塔
+ust'-džeguta:乌斯季杰古塔
 ust'-ilimsk:乌斯特伊利姆斯克
-ust'-kamčatsk:烏斯季堪察茨克
-ust'-katav:烏斯季-卡塔夫
+ust'-kamčatsk:乌斯季堪察茨克
+ust'-katav:乌斯季-卡塔夫
 ust'-kut:乌斯季库特
-ust'-labinsk:烏斯季-拉賓斯克
+ust'-labinsk:乌斯季-拉宾斯克
 ust'-nera:乌斯季涅拉
 ust'-niera:乌斯季涅拉
 ust'-ordynskij:乌斯季奥尔登斯基
-ust'-Ščuger:烏斯季休格爾
-ust-ceguta:烏斯季傑古塔
+ust'-Ščuger:乌斯季休格尔
+ust-ceguta:乌斯季杰古塔
 ust-donetski:乌斯季顿涅茨基
 ust-donezki:乌斯季顿涅茨基
 ust-donjecki:乌斯季顿涅茨基
-ust-dscheguta:烏斯季傑古塔
-ust-dzheguta:烏斯季傑古塔
-ust-dzhegutá:烏斯季傑古塔
-ust-dzjeguta:烏斯季傑古塔
-ust-džeguta:烏斯季傑古塔
+ust-dscheguta:乌斯季杰古塔
+ust-dzheguta:乌斯季杰古塔
+ust-dzhegutá:乌斯季杰古塔
+ust-dzjeguta:乌斯季杰古塔
+ust-džeguta:乌斯季杰古塔
 ust-ilimsk:乌斯特伊利姆斯克
 ust-iljimsk:乌斯特伊利姆斯克
 ust-ishimsky district:乌斯季-伊希姆斯基区
 ust-ivanovka:补丁屯
-ust-kamchatsk:烏斯季堪察茨克
+ust-kamchatsk:乌斯季堪察茨克
 ust-kamienogorsk:厄斯克门
-ust-kamtjatsk:烏斯季堪察茨克
-ust-kamtschatsk:烏斯季堪察茨克
-ust-kamtxatsk:烏斯季堪察茨克
-ust-kamtšatsk:烏斯季堪察茨克
+ust-kamtjatsk:乌斯季堪察茨克
+ust-kamtschatsk:乌斯季堪察茨克
+ust-kamtxatsk:乌斯季堪察茨克
+ust-kamtšatsk:乌斯季堪察茨克
 ust-kan:乌斯季坎
 ust-kansky district:康-奥兹区
-ust-katav:烏斯季-卡塔夫
-ust-kataw:烏斯季-卡塔夫
+ust-katav:乌斯季-卡塔夫
+ust-kataw:乌斯季-卡塔夫
 ust-koksa:乌斯季-科克萨
 ust-koksinsky rayon:考克-苏区
 ust-kut:乌斯季库特
-ust-labinsk:烏斯季-拉賓斯克
+ust-labinsk:乌斯季-拉宾斯克
 ust-nera:乌斯季涅拉
 ust-ordinski:乌斯季奥尔登斯基
 ust-ordynski:乌斯季奥尔登斯基
@@ -27259,26 +27016,23 @@ ust-ordynskij:乌斯季奥尔登斯基
 ust-ordynsky:乌斯季奥尔登斯基
 ust-ordyński:乌斯季奥尔登斯基
 ust-ordınski:乌斯季奥尔登斯基
-ust-schtschuger:烏斯季休格爾
-ust-shchuger:烏斯季休格爾
+ust-schtschuger:乌斯季休格尔
+ust-shchuger:乌斯季休格尔
 ust-tsilemsky district:乌斯季-齐列姆斯基区
 ust-tsilma:乌斯季齐利马
-ust-xheguta:烏斯季傑古塔
+ust-xheguta:乌斯季杰古塔
 ust-zilma:乌斯季齐利马
 ust-İlimsk:乌斯特伊利姆斯克
 usta prawdy:真理之口
-ustad:烏斯塔德
+ustad:乌斯塔德
 ustaritz station:于斯塔里茨站
 ustaritz:于斯塔里茨
-ustc linux user group:中科大linux用戶協會
+ustc linux user group:中科大linux用戶协会
 ustc linux user group:中科大linux用户协会
 ustc-east campus:中国科大东区
-ustc-east campus:中國科大東區
 ustc:中国科学技术大学
 ustc:中国科技大学
-ustc:中國科學技術大學
-ustc:中國科技大學
-ustekinumab:尤斯泰金單抗
+ustekinumab:尤斯泰金单抗
 uster believe:乌斯特相信
 uster district:乌斯特区
 uster executive board:乌斯特执行委员会
@@ -27291,17 +27045,16 @@ uster station:乌斯特站
 uster technologies:乌斯特技术
 uster:乌斯特
 ustersbach:乌斯特斯巴赫
-ustia apud albim:拉貝河畔烏斯季
 ustia apud albim:拉贝河畔乌斯季
-ustia river:烏斯季亞河
-ustia:烏斯季亞
+ustia river:乌斯季亚河
+ustia:乌斯季亚
 ustianówka:乌斯季尼夫卡
 ustica:乌斯蒂卡
 ustiin bulag hôt:乌苏图宝拉格浩特
 ustilaginaceae:黑粉菌科
 ustilaginales:黑粉菌目
 ustilaginoidea virens:稻麴病菌
-ustilaginoidea:稻麴病菌屬
+ustilaginoidea:稻麴病菌属
 ustilaginomycetes:黑粉菌纲
 ustilaginomycotina:黑粉菌亚门
 ustilago avenae:燕麦散黑粉菌
@@ -27310,79 +27063,75 @@ ustilago tritici:小麦散黑粉菌
 ustilago:黑粉菌属
 ustiluh:乌斯特卢赫
 ustiluha:乌斯特卢赫
-ustina point:烏斯蒂娜角
-ustiuga magna:大烏斯秋格
-ustiuzhna:烏斯秋日納
-ustiuzjna:烏斯秋日納
-ustiużna:烏斯秋日納
-ustiužna:烏斯秋日納
-ustj-dĵeguta:烏斯季傑古塔
+ustina point:乌斯蒂娜角
+ustiuga magna:大乌斯秋格
+ustiuzhna:乌斯秋日纳
+ustiuzjna:乌斯秋日纳
+ustiużna:乌斯秋日纳
+ustiužna:乌斯秋日纳
+ustj-dĵeguta:乌斯季杰古塔
 ustj-ilimsk:乌斯特伊利姆斯克
-ustj-katav:烏斯季-卡塔夫
+ustj-katav:乌斯季-卡塔夫
 ustj-kut:乌斯季库特
-ustj-labinsk:烏斯季-拉賓斯克
-ustja:烏斯季亞
-ustja:烏斯季亞河
-ustjdžeguta:烏斯季傑古塔
-ustjkatava:烏斯季-卡塔夫
-ustjlabinska:烏斯季-拉賓斯克
+ustj-labinsk:乌斯季-拉宾斯克
+ustja:乌斯季亚
+ustja:乌斯季亚河
+ustjdžeguta:乌斯季杰古塔
+ustjkatava:乌斯季-卡塔夫
+ustjlabinska:乌斯季-拉宾斯克
 ustjordinska:乌斯季奥尔登斯基
-ustjuschna:烏斯秋日納
-ustjuzjna:烏斯秋日納
-ustjuĵna:烏斯秋日納
-ustjužna:烏斯秋日納
+ustjuschna:乌斯秋日纳
+ustjuzjna:乌斯秋日纳
+ustjuĵna:乌斯秋日纳
+ustjužna:乌斯秋日纳
 ustka:乌斯特卡
 ustou:于斯图
-ustra peak:烏斯特拉峰
-ustrada-Ġala:阿爾貢
+ustra peak:乌斯特拉峰
+ustrada-Ġala:阿尔贡
 ustrali:澳大利亚
 ustrali:澳大利亚 / 澳洲
 ustrali:澳洲
-ustrumca:斯特魯米察
 ustrumca:斯特鲁米察
-ustrzyki dolne:下烏斯奇基
+ustrzyki dolne:下乌斯奇基
 ustun artush town:shàng'ātúshí zhèn
 ustun artush town:上阿图什镇
-ustun artush town:上阿圖什鎮
 ustun artush:shàng'ātúshí zhèn
 ustun artush:上阿图什镇
-ustun artush:上阿圖什鎮
-ustusna:烏斯秋日納
-ustyansky district:烏斯季亞區
+ustusna:乌斯秋日纳
+ustyansky district:乌斯季亚区
 ustyluh:乌斯特卢赫
 ustyluhas:乌斯特卢赫
 ustyma-karmeljuka-gasse:乌斯季姆·卡尔梅柳克巷
 ustyma-karmeljuka-straße:乌斯季姆·卡尔梅柳克街
-ustymivka:烏斯季米夫卡
-ustymiwka:烏斯季米夫卡
-ustynivka raion:烏斯蒂尼夫卡區
+ustymivka:乌斯季米夫卡
+ustymiwka:乌斯季米夫卡
+ustynivka raion:乌斯蒂尼夫卡区
 ustynivka:乌斯季尼夫卡
-ustynivka:烏斯蒂尼夫卡
+ustynivka:乌斯蒂尼夫卡
 ustyniwka:乌斯季尼夫卡
-ustyujna:烏斯秋日納
+ustyujna:乌斯秋日纳
 ustyurt plateau:乌斯秋尔特高原
 ustyuzhensky district:乌斯秋日纳区
-ustyuzhna:烏斯秋日納
+ustyuzhna:乌斯秋日纳
 ust´-cylma:乌斯季齐利马
 ust´-donieckij:乌斯季顿涅茨基
-ust´-dżeguta:烏斯季傑古塔
-ust´-kamczatsk:烏斯季堪察茨克
-ust´-kataw:烏斯季-卡塔夫
+ust´-dżeguta:乌斯季杰古塔
+ust´-kamczatsk:乌斯季堪察茨克
+ust´-kataw:乌斯季-卡塔夫
 ust´-kut:乌斯季库特
-ust´-szczugier:烏斯季休格爾
-ust´-Łabinsk:烏斯季-拉賓斯克
+ust´-szczugier:乌斯季休格尔
+ust´-Łabinsk:乌斯季-拉宾斯克
 ustîluh:乌斯特卢赫
-ustîmivka:烏斯季米夫卡
+ustîmivka:乌斯季米夫卡
 ustînivka:乌斯季尼夫卡
 ustõluh:乌斯特卢赫
-ustüžn:烏斯秋日納
-ust’-kamchatsk:烏斯季堪察茨克
+ustüžn:乌斯秋日纳
+ust’-kamchatsk:乌斯季堪察茨克
 usu county:有珠郡
 usu station:有珠站
 usu-gun:有珠郡
 usu:wūsū shì
 usu:乌苏市
-usu:烏蘇市
 usual channels:常规渠道
 usually a battery system:通常一个电池系统
 usually a detect:通常一个检测
@@ -27519,7 +27268,6 @@ usually breathe:通常呼吸
 usually breed:通常品种
 usually brown rice:通常糙米
 usually buy:通常买
-usually buy:通常買
 usually by:通常被
 usually call:通常调用
 usually calm:通常平静
@@ -27626,9 +27374,8 @@ usually depends on:通常依赖于
 usually deploy:通常部署
 usually describe suicide:通常描述自杀的
 usually describe:通常描述
-usually design:通常設計
 usually design:通常设计
-usually designer:通常設計師
+usually designer:通常设计师
 usually detail:通常细节
 usually detective:通常侦探
 usually detest:通常厌恶
@@ -27647,7 +27394,7 @@ usually does:通常做
 usually dolphin:通常海豚
 usually don't cause any:通常不引起任何
 usually don't:通常不
-usually download:通常下載
+usually download:通常下载
 usually drink:通常喝
 usually drink:通常饮料
 usually drugs:通常药物
@@ -27692,7 +27439,7 @@ usually family:通常家庭
 usually feather:通常羽毛
 usually feed:通常喂
 usually feel:通常感觉
-usually feeling:通常感覺
+usually feeling:通常感觉
 usually fiction series:通常小说系列
 usually fiction:通常小说
 usually fill:通常填充
@@ -27739,7 +27486,7 @@ usually gout:通常痛风
 usually graduates:通常毕业生
 usually grant:通常授予
 usually greater than:通常大于
-usually green:通常綠色
+usually green:通常绿色
 usually grey:通常灰色
 usually group:通常组
 usually guide:通常指引
@@ -27779,7 +27526,7 @@ usually have several input:通常有几个输入
 usually have several:通常有几个
 usually have small:通常有小的
 usually have smaller:通常有更小的
-usually have space:通常有空間
+usually have space:通常有空间
 usually have specialized research:通常有专门的研究
 usually have specific:通常有特定的
 usually have strict:通常有严格的
@@ -27807,7 +27554,6 @@ usually hope:通常希望
 usually hospital:通常医院
 usually host:通常主机
 usually hot:通常热
-usually hot:通常熱
 usually human:通常人类
 usually humidifier:通常加湿器
 usually i could:通常我可以
@@ -27852,7 +27598,7 @@ usually in the first:通常在第一
 usually in the following:通常在以下
 usually in the morning:通常在早上
 usually in the united states:通常在美国
-usually in this case:通常在這種情況下
+usually in this case:通常在这种情況下
 usually in this scenario:通常在这种情况下
 usually in winter:通常在冬季
 usually in your own words:通常用你自己的话
@@ -27979,7 +27725,6 @@ usually more than:通常超过
 usually more:通常更多
 usually most:通常大多数
 usually mother:通常母亲
-usually mother:通常母親
 usually mountain:通常山
 usually move:通常移动
 usually much:通常许多
@@ -27989,7 +27734,6 @@ usually my interest level:通常我的兴趣水平
 usually my:通常我的
 usually near:通常接近
 usually need extra iron:通常需要额外的铁
-usually need lighting equipment:通常需要照明設備
 usually need lighting equipment:通常需要照明设备
 usually need some time:通常需要一些时间
 usually need:通常需要
@@ -28027,7 +27771,7 @@ usually offer baby:通常提供婴儿
 usually offer strict:通常提供严格的
 usually offer:通常提供
 usually once:通常一次
-usually one person sleep:通常一個人睡
+usually one person sleep:通常一个人睡
 usually one:通常一
 usually only a few kilometers:通常只有几公里
 usually only a few per:通常只有几每
@@ -28079,7 +27823,7 @@ usually plans:通常计划
 usually play:通常玩
 usually point out:通常指出
 usually polyvinyl chloride:通常聚氯乙烯
-usually pork:通常豬肉
+usually pork:通常猪肉
 usually possible:通常可能的
 usually precipitate:通常沉淀
 usually predict:通常预测
@@ -28135,7 +27879,7 @@ usually reference:通常引用
 usually referred to:通常指
 usually refers to milk tea:通常指奶茶
 usually refers to parents:通常指父母
-usually refers to pork:通常指豬肉
+usually refers to pork:通常指猪肉
 usually refers to:通常指
 usually reflect:通常反映
 usually reject:通常拒绝
@@ -28144,7 +27888,6 @@ usually reliable:通常可靠的
 usually rely on:通常依赖于
 usually remember:通常记住
 usually remember:通常记得
-usually report:通常報告
 usually report:通常报告
 usually represent:通常表示
 usually require a training:通常需要一个训练
@@ -28152,7 +27895,7 @@ usually require around:通常需要大约
 usually require five:通常需要五
 usually require high efficiency:通常要求高效率
 usually require high levels:通常需要高水平
-usually require lawyer:通常需要律師
+usually require lawyer:通常需要律师
 usually require new legislation:通常需要新的立法
 usually require paper:通常需要纸
 usually require some simple:通常需要一些简单
@@ -28336,7 +28079,7 @@ usually understand:通常理解
 usually unfamiliar with:通常不熟悉
 usually until:通常直到
 usually update:通常更新
-usually upload:通常上傳
+usually upload:通常上传
 usually use antibiotic:通常使用抗生素
 usually use high:通常使用高
 usually use our mailing list:通常使用我们的邮件列表
@@ -28395,10 +28138,8 @@ usually we think that:通常我们认为
 usually we think:通常我们认为
 usually we use:通常我们使用
 usually we will:通常我们会
-usually we will:通常我們會
 usually we:通常我们
-usually we:通常我們
-usually website:通常網站
+usually website:通常网站
 usually went:通常去
 usually what:通常什么
 usually when he:通常当他
@@ -28416,7 +28157,7 @@ usually when you:通常当你
 usually white:通常白色
 usually will:通常会
 usually win:通常赢得
-usually wind:通常風
+usually wind:通常风
 usually wish:通常希望
 usually with other:通常与其他的
 usually with symptoms:通常与症状
@@ -28458,26 +28199,24 @@ usually:通常
 usually:通常地
 usuda station:臼田站
 usufruct:用益物权
-usugi station:鵜杉車站
+usugi station:鵜杉车站
 usugorsk:乌索戈尔斯克
-usui kojima:小島鳥水
-usui pass railway heritage park:碓冰峠鐵道文化村
+usui kojima:小岛鸟水
+usui pass railway heritage park:碓冰峠铁道文化村
 usui pass:碓冰峠
-usui sadamitsu:碓井貞光
+usui sadamitsu:碓井贞光
 usuki castle:臼杵城
 usuki domain:臼杵藩
 usuki-shi:臼杵市
 usuki:臼杵市
-usulism:烏蘇勒派
+usulism:乌苏勒派
 usumacinta river:乌苏马辛塔河
-usumacinta sea catfish:烏蘇馬江海鯰
+usumacinta sea catfish:乌苏马江海鲶
 usun apau national park:乌逊安包国家公园
 usunday:有心德
 usurbil:乌苏维尔
 usurijska:双城子
-usurijska:雙城子
 usurijskas:双城子
-usurijskas:雙城子
 usurpation of qi by tian:田氏代齐
 usurper prince:篡位王子
 usurper scar:篡位疤痕
@@ -28487,41 +28226,40 @@ usuzan ropeway:有珠山缆车
 usuzan rōpuwei:有珠山缆车
 usva river:乌西瓦河
 usva:乌西瓦
-usvyacha:烏斯維亞恰河
-usvyatsky district:烏斯維亞特區
+usvyacha:乌斯维亚恰河
+usvyatsky district:乌斯维亚特区
 usw sake garden:友士 酒之庭
 uswazi:sīwēishìlán
 uswazi:史瓦帝尼
 uswazi:史瓦蒂尼
 uswazi:斯威士兰
-uswazi:斯威士兰 / 史瓦蒂尼 / 斯威士蘭
-uswazi:斯威士蘭
+uswazi:斯威士兰 / 史瓦蒂尼 / 斯威士兰
 uswidi:ruìdiǎn
 uswidi:瑞典
 uswisi:ruìshì
 uswisi:瑞士
-usyn:烏津
+usyn:乌津
 usza:乌日河
-uszacz:烏沙奇
-uszinszk:烏辛斯克
+uszacz:乌沙奇
+uszinszk:乌辛斯克
 uszogorszk:乌索戈尔斯克
 uszolje-szibirszkoje:西伯利亚地区乌索利耶
 uszolje:乌索利耶
-uszomir:烏紹米爾
+uszomir:乌绍米尔
 uszty-cilma:乌斯季齐利马
 uszty-ilimszk:乌斯特伊利姆斯克
 uszty-kut:乌斯季库特
 uszty-ordinszkij:乌斯季奥尔登斯基
-uszycia:烏什齊亞
-usť-džeguta:烏斯季傑古塔
+uszycia:乌什齐亚
+usť-džeguta:乌斯季杰古塔
 usť-ilimsk:乌斯特伊利姆斯克
-usť-katav:烏斯季-卡塔夫
+usť-katav:乌斯季-卡塔夫
 usť-kut:乌斯季库特
-usť-labinsk:烏斯季-拉賓斯克
+usť-labinsk:乌斯季-拉宾斯克
 usť-něra:乌斯季涅拉
 usť-ordynskij:乌斯季奥尔登斯基
-usťužna:烏斯秋日納
+usťužna:乌斯秋日纳
 usṭralya:澳大利亚
 usṭralya:澳大利亚 / 澳洲
-usṭralya:澳大利亞洲
+usṭralya:澳大利亚洲
 usṭralya:澳洲

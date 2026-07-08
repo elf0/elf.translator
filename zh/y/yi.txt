@@ -1,15 +1,15 @@
-yi 1st road:義一路
-yi 2nd road:義二路
-yi 3rd road:義三路
-yi 4th rd. intersection:義四路口
-yi 4th road:義四路
-yi 5th road:義五路
-yi 6th rd. intersection:義六路口
-yi 6th road:義六路
-yi 7th road intersection:義七路口
-yi 7th road:義七路
-yi 9th rd. intersection:義九路口
-yi 9th road:義九路
+yi 1st road:义一路
+yi 2nd road:义二路
+yi 3rd road:义三路
+yi 4th rd. intersection:义四路口
+yi 4th road:义四路
+yi 5th road:义五路
+yi 6th rd. intersection:义六路口
+yi 6th road:义六路
+yi 7th road intersection:义七路口
+yi 7th road:义七路
+yi 9th rd. intersection:义九路口
+yi 9th road:义九路
 yi an neiborhood:怡安小区
 yi an sa:李安社
 yi au tsai:二坳仔
@@ -17,62 +17,58 @@ yi au:二坳
 yi baidi:易白荻
 yi bangja:李方子
 yi bok nam:李福男
-yi bum jin:李範晉
+yi bum jin:李范晋
 yi byeong mu:李秉武
 yi cha ch'un:李子春
-yi chang primary school:宜昌國小
+yi chang primary school:宜昌国小
 yi cheng wang:王溢正
 yi cheong jun:李清俊
 yi ching lane:宜正里
 yi ching ok:李澄玉
 yi chu huan:易楚寰
-yi chuen:二轉
-yi chun street playground:宜春街遊樂場
-yi chun street public toilet and bathhouse:宜春街公廁及浴室
+yi chuen:二转
+yi chun street playground:宜春街游乐场
+yi chun street public toilet and bathhouse:宜春街公厕及浴室
 yi chun street:宜春街
 yi county:yì xiàn
 yi county:yī xiàn
 yi county:义县
 yi county:易县
-yi county:易縣
-yi county:義縣
 yi county:黟县
-yi county:黟縣
-yi dang:豐溪君
+yi dang:丰溪君
 yi eonjeok:李彦迪
 yi fang tea:一芳水果茶
 yi fenchang:一分场
-yi fu library:逸夫館
 yi fu library:逸夫馆
 yi fu tuan:段义孚
 yi fung court:怡峰苑
-yi fuxian:易富賢
+yi fuxian:易富贤
 yi gae:李塏
 yi gang:易纲
-yi geun taek:李根澤
+yi geun taek:李根泽
 yi gu ji:李仇之
-yi gwal's rebellion:李适之亂
+yi gwal's rebellion:李适之乱
 yi gwang sik:李光軾
 yi gwangsu:李光洙
 yi hae won:李海瑗
 yi haeng ni:李行里
-yi han yong:李韓永
+yi han yong:李韩永
 yi he bei lu:禾益北路
-yi he yuan road:頤和園路
+yi he yuan road:頤和园路
 yi he yuan road:颐和园路
-yi hong path:怡康徑
+yi hong path:怡康径
 yi hong street:怡康街
 yi hu fish farm trading:亿湖渔场贸易
-yi huan:依歡
-yi hui building:藝薈館
+yi huan:依欢
+yi hui building:艺薈馆
 yi huiman:易会满
 yi hwang:李滉
 yi i:李珥
 yi ik:李瀷
-yi in jwa's rebellion:李麟佐之亂
-yi jae gak:李載覺
-yi je ma:李濟馬
-yi jet qi:易桀齊
+yi in jwa's rebellion:李麟佐之乱
+yi jae gak:李载觉
+yi je ma:李济马
+yi jet qi:易桀齐
 yi ji:伊籍
 yi jia food centre:壹家美食中心
 yi jia mix vege:一家什菜饭
@@ -81,75 +77,72 @@ yi jia road:宜家道
 yi jiang bridge:yījiāngqiáo
 yi jiang bridge:ㄧㄐㄧㄤㄑㄧㄠˊ
 yi jiang bridge:一江桥
-yi jiang bridge:一江橋
 yi jiang:邑姜
-yi jianlian:易建聯
+yi jianlian:易建联
 yi jingqian:易景茜
-yi jongmu:李從茂
+yi jongmu:李从茂
 yi jun yong:李埈镕
 yi junqing:衣俊卿
-yi kang guk:李康國
+yi kang guk:李康国
 yi kang:李堈
 yi ki:李芑
 yi ku:李玖
-yi kwei sze:斯義桂
-yi kyu bo:李奎報
-yi kyu won:李奎遠
+yi kwei sze:斯义桂
+yi kyu bo:李奎报
+yi kyu won:李奎远
 yi lai hotel:义来酒店
-yi lai hotel:義來酒店
-yi lai house:頤麗樓
+yi lai house:頤丽楼
 yi lan xi hu mian dian:伊兰西湖面点
-yi leng:二嶺
+yi leng:二岭
 yi li keng:耿以礼
 yi lianhong:易炼红
 yi lijun:易丽君
-yi lok path:怡樂徑
-yi lok street:怡樂街
+yi lok path:怡乐径
+yi lok street:怡乐街
 yi long pai:二浪排
 yi long shek:二塱石
-yi long wan:二浪灣
+yi long wan:二浪湾
 yi long:一龙
 yi long:二浪
-yi lun street:彝倫街
+yi lun street:彝伦街
 yi maechang:李梅窻
 yi man ne li:以忙内利
-yi mein:伊麵
-yi ming:儀銘
+yi mein:伊面
+yi ming:仪铭
 yi munyeol:李文烈
 yi nam road:怡南路
 yi nga drive:怡雅路
 yi ngai:二崖
 yi ngam tau:yi ngam
-yi ngam tau:二岩頭
-yi ngam tau:二岩頭 yi ngam tau
+yi ngam tau:二岩头
+yi ngam tau:二岩头 yi ngam tau
 yi ngo district:益鄂县
 yi nin lee:李綺年
 yi o hau:二澳口
-yi o kau tsuen:二澳舊村
+yi o kau tsuen:二澳旧村
 yi o san tsuen:二澳新村
 yi o shan:二澳山
 yi o:二澳
-yi pai teng:二排頂
+yi pai teng:二排顶
 yi pai:二排
 yi pak au:二白坳
 yi pak wan:二白湾
-yi pak wan:二白灣
 yi pak:二白
 yi pavilion:奕亭
 yi pei chun new village:二陂圳新村
 yi pei chun road:二陂圳路
-yi pei chun village public toilet:二陂圳村公廁
+yi pei chun village public toilet:二陂圳村公厕
 yi pei chun village:ji6 bei1 zan3 cyun1
 yi pei chun village:yi pei chun tsuen
 yi pei chun village:二陂圳村
 yi pei chun:二陂圳
-yi pei square mansion:二陂坊大樓
-yi pei square playground:二陂坊遊樂場
+yi pei square mansion:二陂坊大楼
+yi pei square playground:二陂坊游乐场
 yi pei square:二陂坊
 yi peiji:易培基
 yi pengfei:易鹏飞
 yi people:彝族
-yi poik:李寶益
+yi poik:李宝益
 yi qiu:弈秋
 yi radicals:彝文部首
 yi river:luòqīng jiāng
@@ -164,79 +157,72 @@ yi river:伊河
 yi river:宜水
 yi river:怡溪
 yi river:沂江
-yi river:義江
 yi rural edge restaurant:忆乡缘酒楼
 yi ryang:李樑
 yi saek:李穡
 yi sam pyeong:李参平
 yi san hae:李山海
-yi sang literary award:李箱文學獎
-yi sang ryong:李相龍
+yi sang literary award:李箱文学奖
+yi sang ryong:李相龙
 yi sang sul:李相卨
 yi sang:李箱
 yi script:彝文
 yi seou:李瑞雨
-yi serviced apartments:意服務式住宅
+yi serviced apartments:意服务式住宅
 yi seung hun:李承薰
-yi shin education and nursing institute.:一心教養院
-yi shin primary school:宜欣國小
-yi shing square sitting-out area:怡成坊休憩花園
+yi shin education and nursing institute.:一心教养院
+yi shin primary school:宜欣国小
+yi shing square sitting-out area:怡成坊休憩花园
 yi shing square:怡成坊
 yi shu:亦舒
-yi si ae's rebellion:李施愛之亂
-yi si ae:李施愛
-yi si yeong:李始榮
+yi si ae's rebellion:李施爱之乱
+yi si ae:李施爱
+yi si yeong:李始荣
 yi siling:易思玲
-yi su hotel:藝宿商旅
+yi su hotel:艺宿商旅
 yi sugwang:李睟光
 yi sun sin:李舜臣
 yi sung deuk:李成得
-yi syllables:彝文音節
-yi tai study hall:錦田二帝書院
-yi tak house:怡德閣
+yi syllables:彝文音节
+yi tai study hall:锦田二帝书院
+yi tak house:怡德阁
 yi teng:弋腾
 yi tian holiday village:益田·假日里
-yi ting hotpot:偈亭小火鍋
+yi ting hotpot:偈亭小火锅
 yi to:二肚
 yi tung road:怡东路
-yi tung road:怡東路
-yi tung shan:二東山
+yi tung shan:二东山
 yi tung:二峒
 yi u:李鍝
 yi un:李垠
 yi village:义村里
-yi village:義村里
-yi village:義里里
-yi wei chen:易緯鎮
+yi village:义里里
+yi wei chen:易纬镇
 yi wo building:宜和楼
-yi wo building:宜和樓
-yi wo yuen aged sanatorium (kowloon city):頤和園護老中心（九龍城院）
+yi wo yuen aged sanatorium (kowloon city):頤和园护老中心（九龙城院）
 yi wong din village:二王殿村
-yi xian building:逸仙樓
-yi xian zhan:逸鮮棧
+yi xian building:逸仙楼
+yi xian zhan:逸鲜棧
 yi xian:yī xiàn
-yi xian:意先餐廳
+yi xian:意先餐厅
 yi xian:黟县
-yi xian:黟縣
 yi xiaoguang:乙晓光
-yi xin fishball eating house:藝欣西刀魚丸
+yi xin fishball eating house:艺欣西刀鱼丸
 yi xing:一行
 yi xiqun:衣锡群
-yi xu:義姁
+yi xu:义姁
 yi xudi:伊绪帝
 yi yi:一一
 yi yin:伊尹
-yi yuan (pleasent garden):怡園
+yi yuan (pleasent garden):怡园
 yi yuan dining hall:艺园餐厅
-yi yuan dining hall:藝園餐廳
-yi yuan mansion:馬興陳宅
+yi yuan mansion:马兴陈宅
 yi yuan road east 3rd alley:怡园路东三巷
-yi yuan road east 3rd alley:怡園路東三巷
 yi yuanji:易元吉
-yi yuksa:李陸史
+yi yuksa:李陆史
 yi yun yong:李允荣
 yi yung jun:李隆俊
-yi yungao:義雲高
+yi yungao:义云高
 yi zhongtian said:易中天说
 yi zhongtian:易中天
 yi zhou shu:逸周书
@@ -245,22 +231,19 @@ yi zuo yi wang:一坐一忘丽江主题餐厅
 yi zuolin:易作霖
 yi'an county:yī'ān xiàn
 yi'an county:依安县
-yi'an county:依安縣
 yi'an district:yìān qū
 yi'an district:义安区
-yi'an district:義安區
 yi'an festung:诒安堡
 yi'an fortress:诒安堡
 yi'an huayuan / yijiaqiao middle school:怡安花园·易家桥中学
 yi'an middle road:怡安中路
-yi'an park:義安公園
+yi'an park:义安公园
 yi'an road:宜安路
 yi'an road:怡安路
+yi'an street:义安街
 yi'an street:宜安街
-yi'an street:義安街
 yi'an village:义安里
 yi'an village:宜安里
-yi'an village:義安里
 yi'an west road:怡安西路
 yi'an:yi'an qu
 yi'an:yī'ān xiàn
@@ -269,12 +252,10 @@ yi'an:义安区
 yi'an:义安镇
 yi'an:依安
 yi'an:依安县
-yi'an:依安縣
 yi'an:宜安
 yi'an:宜安镇
 yi'an:怡安
 yi'an:益安
-yi'an:義安區
 yi'ancun:宜安村
 yi'anju:怡安居
 yi'antun:益安屯
@@ -282,7 +263,7 @@ yi'e:伊俄
 yi'ershi:yīěrshī jiēdào
 yi'ershi:伊尔施街道
 yi'ngoi:银恩乡
-yi'nian bridge:億年橋
+yi'nian bridge:亿年桥
 yi'ong lake:yìgòng cuò
 yi'ong lake:易贡错
 yi'ong township:yìgòng xiāng
@@ -301,36 +282,30 @@ yi-an rd. intersection:怡安路口
 yi-chang park:yìchānggōngyuán
 yi-chang park:ㄧˋㄔㄤㄍㄨㄥㄩㄢˊ
 yi-chang park:义昌公园
-yi-chang park:義昌公園
-yi-cui bridge:挹翠橋
+yi-cui bridge:挹翠桥
 yi-de street:一德路
-yi-fang elementary school:義方國小
-yi-feng high school:義峰高中
+yi-fang elementary school:义方国小
+yi-feng high school:义峰高中
 yi-fu building:逸夫教学楼
-yi-fu building:逸夫教學樓
 yi-fu tuan:段义孚
 yi-min elementary school:yìmínguóxiǎo
 yi-min elementary school:ㄧˋㄇㄧㄣˊㄍㄨㄛˊㄒㄧㄠˇ
 yi-min elementary school:益民国小
-yi-min elementary school:益民國小
 yi-sun-sin-gwang-jang:李舜臣广场
-yi-sun-sin-gwang-jang:李舜臣廣場
 yi-thai-li:yìdàlì
+yi-thai-li:义大利
 yi-thai-li:意大利
-yi-thai-li:意大利 / 義大利
-yi-thai-li:義大利
-yi-wan catholic church:宜灣天主堂
+yi-thai-li:意大利 / 义大利
+yi-wan catholic church:宜湾天主堂
 yi:yi xian
 yi:yī xiàn
 yi:易县
-yi:易縣
 yi:黟县
-yi:黟縣
-yian kindergarten:怡安幼兒園
+yian kindergarten:怡安幼儿园
 yian mingjun:易安眀郡
 yiandian street:盐店街
 yianding:一安定
-yiap:康本園
+yiap:康本园
 yibahoushanxinanfeng:yībāhòushānxīnánfēng
 yibahoushanxinanfeng:ㄧㄅㄚㄏㄡˋㄕㄢㄒㄧㄋㄢˊㄈㄥ
 yibahoushanxinanfeng:伊巴厚山西南峰
@@ -341,9 +316,8 @@ yibaijiazi:一百家子
 yibaijiazicun:一百家子村
 yibala:依巴拉
 yibao garden:怡宝花园
-yibao garden:怡寶花園
-yibao new village:義胞新村
-yibao village:義寶里
+yibao new village:义胞新村
+yibao village:义宝里
 yibasan:一把伞
 yibashu:一把树
 yibei:衣被乡
@@ -360,25 +334,19 @@ yibin art:宜宾智轨
 yibin caiba airport:宜宾菜坝机场
 yibin chang jiang daqiao:宜宾长江大桥
 yibin county:宜宾县
-yibin county:宜賓县
 yibin ring expressway:宜宾绕城高速
 yibin road:宜宾路
 yibin university:宜宾学院
 yibin wuliangye airport:宜宾五粮液机场
-yibin wuliangye airport:宜宾五粮液機場
-yibin wuliangye airport:宜賓五糧液機場
 yibin:yíbīn shì
 yibin:伊滨区
-yibin:伊濱區
 yibin:宜宾
 yibin:宜宾市
-yibin:宜賓
-yibin:宜賓市
 yibinbei:宜宾北
 yibindong:宜宾东
 yibing road:宜宾路
 yibinnan:宜宾南
-yibinosaurus:宜賓龍
+yibinosaurus:宜宾龙
 yibinxi railway station:宜宾西站
 yibinxi:宜宾西
 yibizeke:依比则克
@@ -403,7 +371,6 @@ yicai road:逸才路
 yicang road:义仓路
 yicang:益藏
 yicha.yu:逸茶屿
-yicha.yu:逸茶嶼
 yichang 1st street:宜昌一街
 yichang 1st street:益昌一街
 yichang 2nd street:益昌二街
@@ -414,23 +381,19 @@ yichang brt:宜昌快速公交
 yichang children's park (yichang rd.):yíchāngértónggōngyuán(yíchānglù)
 yichang children's park (yichang rd.):ㄧˊㄔㄤㄦˊㄊㄨㄥˊㄍㄨㄥㄩㄢˊ(ㄧˊㄔㄤㄌㄨˋ)
 yichang children's park (yichang rd.):宜昌儿童公园(宜昌路)
-yichang children's park (yichang rd.):宜昌兒童公園(宜昌路)
 yichang east railway station:宜昌东站
 yichang east:宜昌东
-yichang east:宜昌東
-yichang lane, guangfu road:光復路義昌巷
+yichang lane, guangfu road:光复路义昌巷
 yichang metro:宜昌地铁
 yichang metro:宜昌轨道交通
 yichang railway station:宜昌站
 yichang river:yìchāng hé
 yichang river:义昌河
-yichang river:義昌河
+yichang road:义昌路
 yichang road:宜昌路
-yichang road:義昌路
 yichang sanxia airport:yíchāng sānxiá jīchǎng
 yichang sanxia airport:宜昌三峡国际机场
 yichang sanxia airport:宜昌三峡机场
-yichang sanxia airport:宜昌三峽機場
 yichang street:宜昌街
 yichang street:怡长街
 yichang third people:宜昌市第三人民
@@ -453,11 +416,10 @@ yichangquan:义昌泉
 yichangshan:yīchǎngshān
 yichangshan:ㄧㄔㄤˇㄕㄢ
 yichangshan:一场山
-yichangshan:一場山
 yiche language:奕车语
 yiche:一车
 yichen taoyuan:逸臣桃园
-yichen:宜城僑峰社區
+yichen:宜城侨峰社区
 yicheng avenue:宜城大道
 yicheng boulevard:宜城大道
 yicheng city:宜城市
@@ -466,12 +428,9 @@ yicheng county:义城县
 yicheng county:义成县
 yicheng county:宜城县
 yicheng county:翼城县
-yicheng county:翼城縣
 yicheng cyber cafe:亿城网咖
-yicheng cyber cafe:億城網咖
 yicheng district:峄城区
-yicheng district:嶧城區
-yicheng district:驛城區
+yicheng district:嶧城区
 yicheng district:驿城区
 yicheng international building:亿城国际大厦
 yicheng no.1 hanjiang bridge:宜城汉江一桥
@@ -482,9 +441,9 @@ yicheng no.4 high school:宜城四中
 yicheng pedestrian:宜城步行街
 yicheng people's hospital:宜城市人民医院
 yicheng power plant branch line:宜城电厂支线
-yicheng road section 3:義成路三段
+yicheng road section 3:义成路三段
 yicheng road station:驿城路站
-yicheng road:意誠路
+yicheng road:意诚路
 yicheng road:贻成路
 yicheng road:驿城路
 yicheng street:一成街
@@ -494,8 +453,7 @@ yicheng town government:邑城镇政府
 yicheng village:yìshèng lǐ
 yicheng village:ㄧˋㄕㄥˋㄌㄧˇ
 yicheng village:义盛里
-yicheng village:意誠里
-yicheng village:義盛里
+yicheng village:意诚里
 yicheng wanyangzhou national wetland park:宜城万洋洲国家湿地公园
 yicheng yakou dam:宜城汉江雅口水利枢纽
 yicheng'erjiecun:邑城二街村
@@ -510,11 +468,8 @@ yicheng:义成镇
 yicheng:宜城
 yicheng:宜城市
 yicheng:宜城街道
-yicheng:義成鎮
 yicheng:翼城县
-yicheng:翼城縣
 yicheng:邑城镇
-yicheng:驛城區
 yicheng:驿城区
 yichengcun:义城村
 yichengcun:亦城村
@@ -543,22 +498,18 @@ yichik:依吉乡
 yichong:以冲
 yichongqiao:宜冲桥
 yichongqiao:宜冲桥乡
-yichongqiao:宜沖橋
-yichou village:義稠里
+yichongqiao:宜沖桥
+yichou village:义稠里
 yichou:牛稠仔
 yichu:依初村
 yichuan county:yíchuān xiàn
 yichuan county:伊川县
-yichuan county:伊川縣
 yichuan county:宜川县
-yichuan county:宜川縣
 yichuan:dānzhōu zhèn
 yichuan:yichuan xian
 yichuan:yīchuān
 yichuan:伊川县
-yichuan:伊川縣
 yichuan:宜川县
-yichuan:宜川縣
 yichuanlu:宜川路街道
 yichun agricultural:一春农业
 yichun city:yīchūn shì
@@ -599,49 +550,41 @@ yicimo:以次模
 yicishudi:依此树底
 yicizhan bus terminal:义祠站
 yick cheong building:益昌大厦
-yick cheong building:益昌大廈
-yick fai building:益輝大廈
+yick fai building:益辉大厦
 yick fat building (yau man street):益发大厦 (佑民街)
-yick fat building (yau man street):益發大廈 (祐民街)
 yick fat building:益发大厦
-yick fat building:益發大廈
-yick fu building:益富大廈
-yick fu house:億富樓
+yick fu building:益富大厦
+yick fu house:亿富楼
 yick fung building:亿丰大厦
-yick fung building:億豐大廈
-yick fung garden:益豐花園
-yick fung group building:億豐集團大廈
+yick fung garden:益丰花园
+yick fung group building:亿丰集团大厦
 yick ga building:益基大厦
-yick ga building:益基大廈
-yick king building:億景樓
-yick kwan building:益群樓
-yick kwan house:益群大樓
-yick lee building:億利樓
-yick lee mansion:益利大廈
-yick man building:益民大廈
-yick shing mansion:益誠大廈
-yick shiu industrial building block a:憶兆工業大廈a座
-yick shiu industrial building block b:憶兆工業大廈b座
-yick shiu industrial building:憶兆工業大廈
-yick tai industrial building:益大工業大廈
+yick king building:亿景楼
+yick kwan building:益群楼
+yick kwan house:益群大楼
+yick lee building:亿利楼
+yick lee mansion:益利大厦
+yick man building:益民大厦
+yick shing mansion:益诚大厦
+yick shiu industrial building block a:忆兆工业大厦a座
+yick shiu industrial building block b:忆兆工业大厦b座
+yick shiu industrial building:忆兆工业大厦
+yick tai industrial building:益大工业大厦
 yick wah building:益华大厦
-yick wah building:益華大廈
-yick yuen chuen:亦園村
-yick yuen road:亦園路
-yick yuen tsuen:亦園村
-yick yuen:亦園
-yick yuen:亦園村
-yicks villa:奕廬
+yick yuen chuen:亦园村
+yick yuen road:亦园路
+yick yuen tsuen:亦园村
+yick yuen:亦园
+yick yuen:亦园村
+yicks villa:奕庐
 yico zeng:曾轶可
 yicong:奕誴
 yicui garden:怡翠花园
-yicui garden:怡翠花園
-yicui garden:挹翠園
+yicui garden:挹翠园
 yicui park:怡翠公园
 yicui road:挹翠路
 yicui sega garden:怡翠·世嘉花园
 yicui shanzhuang:挹翠山庄
-yicui shanzhuang:挹翠山莊
 yicun:一村
 yicun:仪村
 yicun:伊村
@@ -652,7 +595,7 @@ yicunbeicun:亦村北村
 yicunmiaocun:宜村庙村
 yicunnancun:亦村南村
 yicuomao:一撮毛
-yicyun bridge:益群橋
+yicyun bridge:益群桥
 yid 'ong gtsang po:chéngxióng qū
 yid 'ong gtsang po:xiùdá qū
 yid 'ong gtsang po:yì gòng cáng bù liúyù
@@ -662,17 +605,16 @@ yid 'ong gtsang po:易贡藏布
 yid 'ong gtsang po:秀达曲
 yid 'ong gtsang po:程雄曲
 yida 1st road:怡达一路
-yida 2nd road:義大二路
-yida 2nd road:義大二路(機車道)
-yida huang:黃義達
+yida 2nd road:义大二路
+yida 2nd road:义大二路(机车道)
+yida huang:黄义达
 yida river:义笪河
-yida road:義大路
+yida road:义大路
 yida'amo:依达阿莫村
 yida:以达村
 yida:依打
 yida:依达
 yida:依达村
-yida:依達
 yidadui qingniandui:一大队青年队
 yidadui renshenchang:一大队人参场
 yidadui sanzhongdui:一大队三中队
@@ -685,62 +627,57 @@ yidam:本尊
 yidan 1st street:益丹一街
 yidan 2nd street:益丹二街
 yidan library:一丹图书馆
-yidan library:一丹圖書館
 yidan prize:一丹奖
 yidan:伊丹镇
 yidanba:一担八
 yidang:义当
 yidanong:衣打弄
 yidao street:yīdào jiē
-yidao:驛道鎮
 yidao:驿道镇
 yidaogou:一道沟
 yidaohe:易道河
-yiddish literature:意第緒語文學
-yiddish:意第緒語
+yiddish literature:意第绪语文学
+yiddish:意第绪语
 yide community:益德社区
 yide convenience store:易得便利
 yide east:一德东
 yide lu international toys and gifts market:一德路北玩具市场
 yide lu station:一德路站
 yide lu:一德路
-yide mansion:林懋陽故居
+yide mansion:林懋阳故居
 yide park:yìdégōngyuán
 yide park:yīdégōngyuán
 yide park:ㄧˋㄉㄜˊㄍㄨㄥㄩㄢˊ
 yide park:ㄧㄉㄜˊㄍㄨㄥㄩㄢˊ
 yide park:一德公园
-yide park:一德公園
 yide park:义德公园
-yide park:義德公園
-yide road intersection (dafeng 2nd road):義德路口(大豐二路)
-yide road intersection (yihua road):義德路口(義華路)
+yide road intersection (dafeng 2nd road):义德路口(大丰二路)
+yide road intersection (yihua road):义德路口(义华路)
 yide road:yat tak road
 yide road:yī dé lù
 yide road:yīdé lù
 yide road:一德路
-yide road:義德路
+yide road:义德路
 yide st. entrance:一德街口
 yide st. intersection:埤岛里9邻
-yide st. intersection:埤島里9鄰
 yide st. intersection:尖子鹿
 yide street:yīdé jiē
 yide street:一德街
-yide street:義德街
-yide temple:義德宮
-yide village activity center:義德里活動中心
+yide street:义德街
+yide temple:义德宮
+yide village activity center:义德里活动中心
 yide village:yīdé lǐ
 yide village:ㄧㄉㄜˊㄌㄧˇ
 yide village:一德里
-yide village:義德村
-yide village:義德里
+yide village:义德村
+yide village:义德里
 yide xi bus terminal:一德西总站
 yide xi:一德西
 yide zhong:一德中
 yide'amo:依德阿莫村
 yide:以德
 yide:矣得
-yidear hotel:驛德世紀酒店
+yidear hotel:驿德世纪酒店
 yideli:易得利
 yidemin gûû:伊登高
 yideng'amen:依登阿门村
@@ -761,10 +698,10 @@ yidong community:移动小区
 yidong junction:奕垌立交
 yidong monastery:依东寺
 yidong primary school:怡东小学
-yidong road:儀東路
-yidong road:怡東路
+yidong road:仪东路
+yidong road:怡东路
 yidong road:逸东路
-yidong street:義東街
+yidong street:义东街
 yidong street:颐东街
 yidong:一垌
 yidong:义垌村
@@ -774,21 +711,21 @@ yidongcun:宜垌村
 yidongde:以东德
 yidonggou:义东沟村
 yidonggou:义东沟社区
-yidongliao:一東寮
+yidongliao:一东寮
 yidongtian:迤东田
 yidongtun:依洞屯
 yidongtun:益洞屯
-yidongyuan compound:頤東苑
+yidongyuan compound:頤东苑
 yidongyuan compound:颐东苑
 yidouquan:一斗泉乡
 yidouquancun:一斗泉村
 yidoushuibeipo:一斗水北坡
 yidoushuicun:一斗水村
-yidu bridge:義渡橋
+yidu bridge:义渡桥
 yidu county:宜都县
 yidu east road:益都东路
 yidu food pedestrian street:邑都好吃街
-yidu hvdc converter station:宜都換流站
+yidu hvdc converter station:宜都换流站
 yidu road:逸都路
 yidu shi:zhījiāng shì
 yidu shi:宜都
@@ -797,7 +734,6 @@ yidu xincun:艺都新村
 yidu, hubei:zhījiāng shì
 yidu, hubei:宜都
 yidu, hubei:宜都市
-yidu-laifeng expressway:宜來高速
 yidu-laifeng expressway:宜来高速
 yidu:zhījiāng shì
 yidu:一渡镇
@@ -812,7 +748,6 @@ yidubaowan:易杜包湾
 yiduibao:一对包
 yiduicun:一队村
 yidukou:义渡口镇
-yidukou:義渡口鎮
 yidukoucun:义渡口村
 yidun kids home:伊顿儿童之家
 yiduo dance:艺朵舞蹈
@@ -856,14 +791,14 @@ yield-curve environments:收益率曲线环境
 yield-curve set:收益率曲线设置
 yield-curve slope:收益率曲线斜率
 yien yieh commercial bank:盐业银行
-yier rd. entrance:義二路口
+yier rd. entrance:义二路口
 yiewsley:尤斯利
-yifa street:義發街
-yifa:釋依法
+yifa street:义发街
+yifa:释依法
 yifahao:义发号
 yifang center north:壹方中心北
-yifang elementary school:義方國小
-yifang street:義芳街
+yifang elementary school:义方国小
+yifang street:义芳街
 yifang taiwan fruit tea:一芳水果茶
 yifang town:壹方城
 yifang:一坊
@@ -884,11 +819,10 @@ yifeng alley:仪凤巷
 yifeng county:yífēng xiàn
 yifeng county:义丰县
 yifeng county:仪封县
+yifeng county:宜丰
 yifeng county:宜丰县
-yifeng county:宜豐
-yifeng county:宜豐縣
-yifeng east street:益豐東街
-yifeng factory:誼豐廠
+yifeng east street:益丰东街
+yifeng factory:誼丰厂
 yifeng garden (area a):艺丰花园a区
 yifeng garden (area b):艺丰花园b区
 yifeng garden (area c):艺丰花园c区
@@ -896,43 +830,38 @@ yifeng garden (area d):艺丰花园d区
 yifeng garden:怡枫园
 yifeng garden:艺丰花园
 yifeng gate:仪凤门
-yifeng gate:儀鳳門
 yifeng hotel:怡丰酒店
 yifeng industrial area:宜丰县工业园区
 yifeng pharmacy:益丰大药房
 yifeng primary school:仪凤小学
-yifeng road section 1:益豐路一段
-yifeng road section 2:益豐路二段
-yifeng road section 3:益豐路三段
-yifeng road section 4:益豐路四段
+yifeng road section 1:益丰路一段
+yifeng road section 2:益丰路二段
+yifeng road section 3:益丰路三段
+yifeng road section 4:益丰路四段
 yifeng road:yìfēng lù
 yifeng road:毅峰路
 yifeng road:益丰路
-yifeng road:益豐路
+yifeng street:义丰街
 yifeng street:宜丰街
 yifeng street:怡丰街
 yifeng street:益丰街
-yifeng street:義豐街
 yifeng street:艺丰街
 yifeng system interchange:依凤枢纽互通
-yifeng west street:益豐西街
+yifeng west street:益丰西街
 yifeng:yífēng xiàn
 yifeng:义丰
 yifeng:仪凤
 yifeng:仪封
 yifeng:仪封镇
 yifeng:依凤
-yifeng:儀封鎮
+yifeng:宜丰
 yifeng:宜丰县
-yifeng:宜豐
-yifeng:宜豐縣
-yifeng:易豐
+yifeng:易丰
 yifeng:移风村
 yifeng:蚁蜂镇
 yifengcun:义丰村
 yifengcun:仪凤村
 yifengda dalu:义丰大路
-yifengdian:移風店鎮
 yifengdian:移风店镇
 yifenghua building:颐丰华大厦
 yifengwa:仪封洼
@@ -941,21 +870,18 @@ yifenqudongbeiyiduicun:一分区东北一队村
 yifenquxizhuangcun:一分区西庄村
 yifo:一佛
 yifu building:怡富楼
-yifu building:怡富樓
 yifu building:逸夫楼
 yifu hall of science & technology:逸夫科技楼
-yifu hun:乙渾
+yifu hun:乙浑
 yifu library:yìfū túshūguǎn
 yifu library:逸夫图书馆
-yifu library:逸夫圖書館
 yifu park:yífùgōngyuán
 yifu park:ㄧˊㄈㄨˋㄍㄨㄥㄩㄢˊ
 yifu park:宜富公园
-yifu park:宜富公園
 yifu road:易富路
 yifu street:宜福街
 yifu street:逸夫街
-yifu village:詒福里
+yifu village:诒福里
 yifu:义夫
 yifu:依福
 yifuxingdicun:一复兴地村
@@ -967,12 +893,11 @@ yigang garden:怡港花园站
 yigangchuan:yìgǎngchuān zhèn
 yigangchuan:义岗川镇
 yiganluo:依甘洛村
-yigao road:藝高路
+yigao road:艺高路
 yige caozi:迤格槽子
 yige:一格
 yige:义合镇
 yige:意格
-yige:義合鎮
 yigeluo:以格洛村
 yigong general's building:易贡将军楼
 yigong:义公
@@ -987,8 +912,8 @@ yiguan tang candy:一罐糖
 yiguan:衣冠
 yiguanbucun:宜官堡村
 yiguanchong:易贯冲
-yiguandao:一貫道
-yiguang street:義光街
+yiguandao:一贯道
+yiguang street:义光街
 yiguanmiao station:衣冠庙站
 yiguanmiao:衣冠庙
 yigui street:溢贵街
@@ -998,20 +923,18 @@ yiguoluo:依果洛村
 yigupo:一股坡
 yih bôr hôt:伊和宝日浩特
 yih had:伊和哈达
-yih hsing pao:鮑亦興
+yih hsing pao:鲍亦兴
 yih oboljee hôt:伊和沃布勒哲浩特
 yihai boulevard:怡海大道
 yihai car rentals:一嗨租车
 yihai community:怡海社区
 yihai garden:怡海花园
-yihai garden:怡海花園
 yihai kerry:益海嘉里
 yihai road:亿海道
 yihai road:彝海路
 yihai road:怡海路
 yihai road:艺海路
 yihai square:怡海广场
-yihai square:怡海廣場
 yihai station:怡海站
 yihai tower:倚海阁
 yihai:彝海村
@@ -1024,42 +947,37 @@ yihao road:一号路
 yihao road:华南城一号路
 yihao street:一号大街
 yihao yangjuan:yī hào yáng juàn
-yihaoqiao (zhongtan):一號橋(中壇)
+yihaoqiao (zhongtan):一号桥(中坛)
 yihaoqiao station:一号桥站
 yihaoshan:一号山村
 yihaozha:一号闸
-yihe 1st road:義和一路
-yihe 1st street:義和一街
-yihe 2nd road:義和二路
-yihe 2nd street:義和二街
-yihe 3rd road:義和三路
-yihe 3rd street:義和三街
+yihe 1st road:义和一路
+yihe 1st street:义和一街
+yihe 2nd road:义和二路
+yihe 2nd street:义和二街
+yihe 3rd road:义和三路
+yihe 3rd street:义和三街
 yihe chunxiao:颐和春晓
 yihe city apartment:颐和城市公寓
 yihe community:义和社区
-yihe community:義和社區
 yihe factory bridge:怡和厂桥
 yihe garden:怡合花园
-yihe garden:怡合花園
 yihe garden:怡和园
-yihe garden:怡和園
-yihe garden:頤合花園
+yihe garden:頤合花园
 yihe garden:颐合花园
 yihe glory bus terminal:颐和盛世总站
 yihe heti rd.:义和河堤路口
-yihe heti rd.:義和河堤路口
 yihe hotspring hotel:颐和温泉大酒店
 yihe huafu:颐和华府
-yihe international commercial plaza:頤和國際
+yihe international commercial plaza:頤和国际
 yihe international commercial plaza:颐和国际
 yihe jiayuan:怡和家园
-yihe lane:義和巷
+yihe lane:义和巷
 yihe model:亿和模具
 yihe new area:沂河新区
 yihe road:义和路
 yihe road:医和路
 yihe road:沂河路
-yihe road:義和路
 yihe road:颐和路
 yihe square:颐和广场
 yihe street:yíhé jiē
@@ -1069,10 +987,9 @@ yihe villa:颐和山庄
 yihe village:yì hé lǐ
 yihe village:yìhé lǐ
 yihe village:ㄧˋㄏㄜˊㄌㄧˇ
+yihe village:义合里
+yihe village:义和村
 yihe village:义和里
-yihe village:義合里
-yihe village:義和村
-yihe village:義和里
 yihe warehouse:易合仓
 yihe'ang subdistrict:yīhéáng jiēdào
 yihe'ang subdistrict:伊合昂街道
@@ -1090,10 +1007,6 @@ yihe:依河
 yihe:奕詥
 yihe:怡合
 yihe:溢河
-yihe:義合
-yihe:義和
-yihe:義和街道
-yihe:義和鎮
 yiheba:义和坝
 yihebacun:义和坝村
 yihecheng:义合成
@@ -1117,7 +1030,7 @@ yihejie community:义和街社区
 yihejie:易河街
 yihejiren guole river:伊和吉仁郭勒
 yiheng street:益恒街
-yiheng wang:王藝衡
+yiheng wang:王艺衡
 yihetang:义和堂
 yihetang:亿合堂
 yihetun:义和屯
@@ -1140,7 +1053,7 @@ yihezhuangcun:易河庄村
 yihezhuangcun:益合庄村
 yihome:亿弘实业工业园
 yihong apartment:怡虹公寓
-yihong community:億鴻新村
+yihong community:亿鸿新村
 yihong road:怡红路
 yihong road:翼泓路
 yihongdaowangjiawan:溢洪道王家塆
@@ -1163,47 +1076,39 @@ yihua court:逸华庭
 yihua electronic town:益华电子城
 yihua electronics town south:益华电子城南
 yihua garden spring & bathroom:义华园温泉洗浴
-yihua garden spring & bathroom:義華園溫泉洗浴
 yihua garden:艺华花园
-yihua garden:藝華花園
 yihua industrial area bus terminus:怡华工业区总站
 yihua industrial area terminus:怡华工业区总站
 yihua industrial area:怡华工业区
 yihua new village:怡华新村
-yihua new village:怡華新村
-yihua road intersection (yangming road):義華路口(陽明路)
-yihua road intersection:義華路口
+yihua road intersection (yangming road):义华路口(阳明路)
+yihua road intersection:义华路口
 yihua road:yíhuá lù
 yihua road:义化路
+yihua road:义华路
 yihua road:怡华路
-yihua road:怡華路
-yihua road:義華路
 yihua road:逸华路
 yihua street:怡华街
-yihua street:益華街
+yihua street:益华街
 yihua street:艺华街
-yihua textile:益華紡織
-yihua:怡華
+yihua textile:益华纺织
+yihua:怡华
 yihuacun:益华村
 yihuacun:益花村
 yihuafengchuangxin industrial park:颐丰华创新产业园
 yihuai street:yìhuái jiē
 yihuai street:挹淮街
 yihuang county:yíhuáng xiàn
-yihuang county:宜黃
-yihuang county:宜黃縣
+yihuang county:宜黄
 yihuang county:宜黄县
 yihuang industrial area:宜黄县工业园区
 yihuang xian:yíhuáng xiàn
-yihuang xian:宜黃
-yihuang xian:宜黃縣
+yihuang xian:宜黄
 yihuang xian:宜黄县
 yihuang:yíhuáng xiàn
-yihuang:宜黃
-yihuang:宜黃縣
+yihuang:宜黄
 yihuang:宜黄县
 yihuannan lu:一环南路
-yihuei village:議會山莊
 yihuei village:议会山庄
 yihui 1st road:益辉一路
 yihui 2nd road:益辉二路
@@ -1217,42 +1122,37 @@ yihun lhatso:新路海
 yihuobozhu:以火波主村
 yihuobuqie:以火补且村
 yihuociji:以火此机村
-yihuohuo'er river:伊霍霍爾溪
+yihuohuo'er river:伊霍霍尔溪
 yihuomu:以火母村
 yihuqiao:殪虎桥镇
 yihusai:伊胡赛
 yihuzhang:一户张
-yihwa international complex:西華富邦
+yihwa international complex:西华富邦
 yihwa road:怡华路
-yihwa road:怡華路
-yiin chii ming:尹啟銘
+yiin chii ming:尹启铭
 yijang road:yìjāng lù
 yijang road:益江路
 yijhih street:一致街
-yijhong street:義忠街
-yijhong village:義中里
-yijhu street:義竹街
+yijhong street:义忠街
+yijhong village:义中里
+yijhu street:义竹街
 yiji park:一机公园
 yiji shengmu temple:懿济圣母庙
-yiji street:義吉街
+yiji street:义吉街
 yiji:依吉村
 yiji:已给
 yiji:益吉村
 yiji:益机
-yijia (fongshan):一甲(鳳山)
+yijia (fongshan):一甲(凤山)
 yijia (luzhu):一甲(路竹)
 yijia bridge east:易家桥东
 yijia elementary school:一甲国小
-yijia elementary school:一甲國小
 yijia haibian new village:一甲海边新村
-yijia haibian new village:一甲海邊新村
 yijia junior high school:一甲国中
-yijia junior high school:一甲國中
 yijia lane:易家巷
 yijia life supermarket:壹家生活超市
 yijia park:一甲公园
-yijia park:一甲公園
-yijia park:宜佳公園
+yijia park:宜佳公园
 yijia police station:一甲派出所
 yijia reservoir:yìjiā shuǐkù
 yijia reservoir:易家水库
@@ -1260,8 +1160,8 @@ yijia road:一甲路
 yijia road:宜家路
 yijia science & technology park:溢佳科技园
 yijia street:宜佳街
-yijia supermarket:一家超級市場
-yijia temple rd. intersection:一甲廟路口
+yijia supermarket:一家超级市场
+yijia temple rd. intersection:一甲庙路口
 yijia village committee:伊家村村委会
 yijia village:一甲村
 yijia village:一甲里
@@ -1288,7 +1188,6 @@ yijiadawan:易家大塆
 yijiadawan:易家大湾
 yijiadian:易家店
 yijiadiancun:伊家店村
-yijiadu:易家渡鎮
 yijiadu:易家渡镇
 yijiafan:易家畈
 yijiafanyuanziwan:易家畈院子湾
@@ -1310,9 +1209,8 @@ yijialiu:一家刘
 yijialou:易家楼
 yijialouzi:易家楼子
 yijiamianpu:易家面铺
-yijian apartment bantian royal hills:壹間公寓·坂田嘉御山
 yijian apartment bantian royal hills:壹间公寓·坂田嘉御山
-yijian apartment hongpeng:壹間公寓·鴻鵬
+yijian apartment hongpeng:壹间公寓·鸿鵬
 yijian apartment hongpeng:壹间公寓·鸿鹏
 yijian zhi:夷坚志
 yijian:乙件
@@ -1320,24 +1218,19 @@ yijianbao:一间堡
 yijianbao:一间堡社区
 yijianfang:一间房
 yijianfangcun:一间房村
-yijiang bridge:一江橋
+yijiang bridge:一江桥
 yijiang district:弋江区
-yijiang district:弋江區
 yijiang new village:一江新村
 yijiang park:yījiānggōngyuán
 yijiang park:ㄧㄐㄧㄤㄍㄨㄥㄩㄢˊ
 yijiang park:一江公园
-yijiang park:一江公園
 yijiang qu:弋江区
-yijiang qu:弋江區
 yijiang street:一江街
 yijiang:yìjiāng zhèn
 yijiang:一江
 yijiang:义江
 yijiang:弋江区
-yijiang:弋江區
 yijiang:弋江街道
-yijiang:弋江鎮
 yijiang:弋江镇
 yijiang:沂江
 yijiang:沂江乡
@@ -1345,16 +1238,15 @@ yijiang:集益乡
 yijiangmen mass grave memorial:挹江门丛葬地纪念碑
 yijiangmen mass grave:挹江门丛葬地
 yijiangou:以见沟
-yijiangqu:一江區
+yijiangqu:一江区
 yijiangshan islands:一江山岛
 yijianianfang:易家碾房
 yijiannaijie:宜坚乃姐村
 yijianyao:一间夭
 yijianyaocun:一间夭村
-yijiao east road:義教東路
-yijiao street:義教街
+yijiao east road:义教东路
+yijiao street:义教街
 yijiao village:义教里
-yijiao village:義教里
 yijiao:以角
 yijiao:依觉村
 yijiaoluo:以脚落
@@ -1398,11 +1290,10 @@ yijiazhuangcun:伊家庄村
 yijibang:yījíbāngshèqū
 yijibang:ㄧㄐㄧˊㄅㄤㄕㄜˋㄑㄩ
 yijibang:伊吉邦社区
-yijibang:伊吉邦社區
 yijicun:义基村
 yijie community:一街社区
-yijie road:一結路
-yijie substation:義捷變電所
+yijie road:一结路
+yijie substation:义捷变电所
 yijie:一街乡
 yijie:二城(二城派出所)
 yijiecun:一街村
@@ -1410,11 +1301,10 @@ yijime river:yījímì hé
 yijime river:伊吉蜜河
 yijime river:依吉密河
 yijin food:益锦食品
-yijin jing:易筋經
+yijin jing:易筋经
 yijin:义津镇
 yijin:彝金村
 yijin:益金村
-yijin:義津鎮
 yijincheng building:亿金城大厦
 yijincun:宜津村
 yijindiancun:衣锦店村
@@ -1459,8 +1349,6 @@ yijing:义井镇
 yijing:仪井镇
 yijing:怡景
 yijing:怡景社区
-yijing:怡景社區
-yijing:義井鎮
 yijingbucun:义井堡村
 yijingcheng:颐景城
 yijingcun:义井村
@@ -1474,11 +1362,11 @@ yijiu:义久
 yijiu:伊久
 yijiu:宜就镇
 yijiu:衣久村
-yiju 1st bridge:宜居一橋
+yiju 1st bridge:宜居一桥
 yiju 1st street:宜居一街
-yiju 2nd bridge:宜居二橋
+yiju 2nd bridge:宜居二桥
 yiju 2nd road:宜居二路
-yiju 3rd bridge:宜居三橋
+yiju 3rd bridge:宜居三桥
 yiju 3rd road:宜居三路
 yiju beiyuan:怡居北苑
 yiju road:宜居路
@@ -1489,29 +1377,25 @@ yijue:依觉
 yijun county:yíjūn xiàn
 yijun county:宜君
 yijun county:宜君县
-yijun county:宜君縣
 yijun xian:yíjūn xiàn
 yijun xian:宜君
 yijun xian:宜君县
-yijun xian:宜君縣
 yijun:yijun xian
 yijun:yíjūn xiàn
 yijun:宜君
 yijun:宜君县
-yijun:宜君縣
 yijuntang:义均塘村
 yijuyuan east:怡居苑东
 yijuyuan:怡居苑
 yik ching high school:班台育青中学
-yik fat building:益發大廈
-yik fung house:億豐樓
+yik fat building:益发大厦
+yik fung house:亿丰楼
 yik hon building:益汉洋楼
-yik hon building:益漢洋樓
 yik kwan avenue:益群道
 yik kwan villa:益群苑
-yik yam mansion:奕蔭樓
-yik yam street:奕蔭街
-yik yin building:奕賢大廈
+yik yam mansion:奕荫楼
+yik yam street:奕荫街
+yik yin building:奕贤大厦
 yikacun:驿卡村
 yikang north road:谊康北路
 yikang street:怡康街
@@ -1522,7 +1406,7 @@ yikatong:北京市政交通一卡通
 yikchile:依克其来村
 yike 1st road:宜科一路
 yike building bus terminal:益科大厦公交首末站
-yike east road:宜科東路
+yike east road:宜科东路
 yike road:宜科路
 yike south 1st road:宜科南一路
 yike south road:宜科南路
@@ -1554,10 +1438,9 @@ yikesongdongyingzi:一棵松东营子
 yikesonggoumen:一棵松沟门
 yikewulan:伊克乌兰乡
 yikeyin bridge:一颗印大桥
-yiko industrial buildingyiko industrial buildingyiko industrial buildingyiko industrial buildingyiko industrial building:益高工業大廈
+yiko industrial buildingyiko industrial buildingyiko industrial buildingyiko industrial buildingyiko industrial building:益高工业大厦
 yikou:乙口
 yikuaibi:衣块比
-yikuaibi:衣塊比
 yikuang:奕劻
 yikzhung:优云乡
 yilaha:伊拉哈
@@ -1566,49 +1449,44 @@ yilake:依拉克
 yilaltu gaqaa:义拉拉图嘎查
 yilaluo:依拉罗
 yilan (ville):yílán shì
-yilan (ville):宜蘭市
-yilan airfield:宜蘭機場
-yilan brick kiln:宜蘭磚窯
-yilan bridge:宜蘭橋
+yilan (ville):宜兰市
+yilan airfield:宜兰机场
+yilan brick kiln:宜兰磚窯
+yilan bridge:宜兰桥
 yilan city:yílán shì
-yilan city:宜蘭市
-yilan county constituency:宜蘭縣選舉區
-yilan county council:宜蘭縣議會
+yilan city:宜兰市
+yilan county constituency:宜兰县选举区
+yilan county council:宜兰县议会
 yilan county government:宜兰县政府
-yilan county government:宜蘭縣政府
-yilan county history museum:宜蘭縣史館
+yilan county history museum:宜兰县史馆
 yilan county:yílán siàn
 yilan county:yílán xiàn
 yilan county:yīlán xiàn
 yilan county:依兰县
-yilan county:依蘭縣
 yilan county:宜兰县
-yilan county:宜蘭縣
-yilan creole japanese:寒溪語
-yilan distillery chia chi lan liquor museum:甲子蘭酒文物館
-yilan district prosecutor office:宜蘭地檢署
-yilan dongmen night market:宜蘭東門觀光夜市
-yilan green expo:宜蘭綠色博覽會
-yilan interchange:宜蘭交流道
-yilan international children's folklore and folkgame festival:宜蘭國際童玩藝術節
+yilan creole japanese:寒溪语
+yilan distillery chia chi lan liquor museum:甲子兰酒文物馆
+yilan district prosecutor office:宜兰地检署
+yilan dongmen night market:宜兰东门观光夜市
+yilan green expo:宜兰绿色博览会
+yilan interchange:宜兰交流道
+yilan international children's folklore and folkgame festival:宜兰国际童玩艺术节
 yilan line:宜兰线
-yilan line:宜蘭線
-yilan literary museum:舊農校校長宿舍
-yilan management office, irrigation agency:農田水利署宜蘭管理處
-yilan museum of art:宜蘭美術館
-yilan plain:宜蘭平原
-yilan plain:蘭陽平原
-yilan prison:宜蘭監獄
-yilan railway station:宜蘭車站
-yilan river:宜蘭河
-yilan sport park:宜蘭運動公園
+yilan literary museum:旧农校校长宿舍
+yilan management office, irrigation agency:农田水利署宜兰管理处
+yilan museum of art:宜兰美术馆
+yilan plain:兰阳平原
+yilan plain:宜兰平原
+yilan prison:宜兰监狱
+yilan railway station:宜兰车站
+yilan river:宜兰河
+yilan sport park:宜兰运动公园
 yilan square:漪澜广场
-yilan square:漪瀾廣場
 yilan station:依兰站
-yilan station:宜蘭站
-yilan story museum:舊宜蘭縣議會
+yilan station:宜兰站
+yilan story museum:旧宜兰县议会
 yilan town people's government:依兰镇人民政府
-yilan zhao ying temple:宜蘭昭應宮
+yilan zhao ying temple:宜兰昭应宮
 yilan:yí lán
 yilan:yílán shì
 yilan:yí​lán
@@ -1616,16 +1494,13 @@ yilan:yīlán xiàn
 yilan:依兰
 yilan:依兰县
 yilan:依兰镇
-yilan:依蘭縣
-yilan:依蘭鎮
 yilan:宜兰
-yilan:宜蘭
-yilan:宜蘭市
+yilan:宜兰市
 yilanggou:以郎沟
 yilanlik:yīlāhú zhèn
 yilanlik:伊拉湖镇
 yilanxing beef noodles (yuehai):伊兰兴手工牛肉面（粤海店）
-yilanxing beef noodles (yuehai):伊蘭興手工牛肉麵（粵海店）
+yilanxing beef noodles (yuehai):伊兰兴手工牛肉面（粵海店）
 yilao:乙劳
 yilashe (ila):伊拉
 yilaxi:一拉溪镇
@@ -1634,10 +1509,8 @@ yile 1st street:怡乐一街
 yile 2nd street:怡乐二街
 yile 3rd street:怡乐三街
 yile garden:怡乐花园
-yile garden:怡樂花園
 yile healthy care center:逸乐医养中心
 yile kindergarten:怡乐幼儿园
-yile kindergarten:怡樂幼兒園
 yile lu bus terminal:怡乐路总站
 yile lu:怡乐路
 yile middle road:yílè zhōng lù
@@ -1645,7 +1518,7 @@ yile middle road:怡乐中路
 yile road:yìlè lù
 yile road:怡乐路
 yile road:益乐路
-yile street:益樂街
+yile street:益乐街
 yile west road:yílè xī lù
 yile west road:怡乐西路
 yile:以勒
@@ -1655,9 +1528,8 @@ yile:怡乐镇
 yilecun:怡乐村
 yilelite:yì lè lì tè zhèn
 yilelite:义勒力特镇
-yilelite:義勒力特鎮
 yileyuan:怡乐园
-yilgarn craton:伊爾幹克拉通
+yilgarn craton:伊尔干克拉通
 yilhung:玉隆乡
 yilhunla tso:xīnlù hǎi
 yilhunla tso:新路海
@@ -1668,12 +1540,11 @@ yili health valley:伊利健康谷
 yili normal university:伊犁师范大学
 yili river:yǐlǐ hé
 yili river:以礼河
-yili river:以禮河
 yili road station:伊犁路站
 yili road:伊犁路
+yili street:义利街
+yili street:义理街
 yili street:伊犁街
-yili street:義利街
-yili street:義理街
 yili street:驿里街
 yili:一立镇
 yili:一里
@@ -1681,88 +1552,88 @@ yili:义梨
 yili:仪里村
 yili:宜里镇
 yilian interchange:义联立交
-yilian mingju building no. 10:誼聯名居 10 號樓
+yilian mingju building no. 10:誼联名居 10 号楼
 yilian mingju building no. 10:谊联名居 10 号楼
-yilian mingju building no. 11:誼聯名居 11 號樓
+yilian mingju building no. 11:誼联名居 11 号楼
 yilian mingju building no. 11:谊联名居 11 号楼
-yilian mingju building no. 12:誼聯名居 12 號樓
+yilian mingju building no. 12:誼联名居 12 号楼
 yilian mingju building no. 12:谊联名居 12 号楼
 yilian mingju building no. 12:谊联名居 14 号楼
-yilian mingju building no. 13:誼聯名居 13 號樓
+yilian mingju building no. 13:誼联名居 13 号楼
 yilian mingju building no. 13:谊联名居 13 号楼
-yilian mingju building no. 14:誼聯名居 14 號樓
+yilian mingju building no. 14:誼联名居 14 号楼
 yilian mingju building no. 14:谊联名居 14 号楼
-yilian mingju building no. 15:誼聯名居 15 號樓
+yilian mingju building no. 15:誼联名居 15 号楼
 yilian mingju building no. 15:谊联名居 15 号楼
-yilian mingju building no. 16:誼聯名居 16 號樓
+yilian mingju building no. 16:誼联名居 16 号楼
 yilian mingju building no. 16:谊联名居 16 号楼
-yilian mingju building no. 17:誼聯名居 17 號樓
+yilian mingju building no. 17:誼联名居 17 号楼
 yilian mingju building no. 17:谊联名居 17 号楼
-yilian mingju building no. 18:誼聯名居 18 號樓
+yilian mingju building no. 18:誼联名居 18 号楼
 yilian mingju building no. 18:谊联名居 18 号楼
-yilian mingju building no. 19:誼聯名居 19 號樓
+yilian mingju building no. 19:誼联名居 19 号楼
 yilian mingju building no. 19:谊联名居 19 号楼
-yilian mingju building no. 1:誼聯名居 1 號樓
+yilian mingju building no. 1:誼联名居 1 号楼
 yilian mingju building no. 1:谊联名居 1 号楼
-yilian mingju building no. 20:誼聯名居 20 號樓
+yilian mingju building no. 20:誼联名居 20 号楼
 yilian mingju building no. 20:谊联名居 20 号楼
-yilian mingju building no. 21:誼聯名居 21 號樓
+yilian mingju building no. 21:誼联名居 21 号楼
 yilian mingju building no. 21:谊联名居 21 号楼
-yilian mingju building no. 22:誼聯名居 22 號樓
+yilian mingju building no. 22:誼联名居 22 号楼
 yilian mingju building no. 22:谊联名居 22 号楼
-yilian mingju building no. 23:誼聯名居 23 號樓
+yilian mingju building no. 23:誼联名居 23 号楼
 yilian mingju building no. 23:谊联名居 23 号楼
-yilian mingju building no. 24:誼聯名居 24 號樓
+yilian mingju building no. 24:誼联名居 24 号楼
 yilian mingju building no. 24:谊联名居 24 号楼
-yilian mingju building no. 25:誼聯名居 25 號樓
+yilian mingju building no. 25:誼联名居 25 号楼
 yilian mingju building no. 25:谊联名居 25 号楼
-yilian mingju building no. 26:誼聯名居 26 號樓
+yilian mingju building no. 26:誼联名居 26 号楼
 yilian mingju building no. 26:谊联名居 26 号楼
-yilian mingju building no. 27:誼聯名居 27 號樓
+yilian mingju building no. 27:誼联名居 27 号楼
 yilian mingju building no. 27:谊联名居 27 号楼
-yilian mingju building no. 28:誼聯名居 28 號樓
+yilian mingju building no. 28:誼联名居 28 号楼
 yilian mingju building no. 28:谊联名居 28 号楼
-yilian mingju building no. 29:誼聯名居 29 號樓
+yilian mingju building no. 29:誼联名居 29 号楼
 yilian mingju building no. 29:谊联名居 29 号楼
-yilian mingju building no. 2:誼聯名居 2 號樓
+yilian mingju building no. 2:誼联名居 2 号楼
 yilian mingju building no. 2:谊联名居 2 号楼
-yilian mingju building no. 30:誼聯名居 30 號樓
+yilian mingju building no. 30:誼联名居 30 号楼
 yilian mingju building no. 30:谊联名居 30 号楼
-yilian mingju building no. 31:誼聯名居 31 號樓
+yilian mingju building no. 31:誼联名居 31 号楼
 yilian mingju building no. 31:谊联名居 31 号楼
-yilian mingju building no. 32:誼聯名居 32 號樓
+yilian mingju building no. 32:誼联名居 32 号楼
 yilian mingju building no. 32:谊联名居 32 号楼
-yilian mingju building no. 33:誼聯名居 33 號樓
+yilian mingju building no. 33:誼联名居 33 号楼
 yilian mingju building no. 33:谊联名居 33 号楼
-yilian mingju building no. 34:誼聯名居 34 號樓
+yilian mingju building no. 34:誼联名居 34 号楼
 yilian mingju building no. 34:谊联名居 34 号楼
-yilian mingju building no. 36:誼聯名居 36 號樓
+yilian mingju building no. 36:誼联名居 36 号楼
 yilian mingju building no. 36:谊联名居 36 号楼
-yilian mingju building no. 37:誼聯名居 37 號樓
+yilian mingju building no. 37:誼联名居 37 号楼
 yilian mingju building no. 37:谊联名居 37 号楼
-yilian mingju building no. 38:誼聯名居 38 號樓
+yilian mingju building no. 38:誼联名居 38 号楼
 yilian mingju building no. 38:谊联名居 38 号楼
-yilian mingju building no. 39:誼聯名居 39 號樓
+yilian mingju building no. 39:誼联名居 39 号楼
 yilian mingju building no. 39:谊联名居 39 号楼
-yilian mingju building no. 42:誼聯名居 42 號樓
+yilian mingju building no. 42:誼联名居 42 号楼
 yilian mingju building no. 42:谊联名居 42 号楼
-yilian mingju building no. 43:誼聯名居 43 號樓
+yilian mingju building no. 43:誼联名居 43 号楼
 yilian mingju building no. 43:谊联名居 43 号楼
-yilian mingju building no. 44:誼聯名居 44 號樓
+yilian mingju building no. 44:誼联名居 44 号楼
 yilian mingju building no. 44:谊联名居 44 号楼
-yilian mingju building no. 48:誼聯名居 48 號樓
+yilian mingju building no. 48:誼联名居 48 号楼
 yilian mingju building no. 48:谊联名居 48 号楼
-yilian mingju building no. 4:誼聯名居 4 號樓
+yilian mingju building no. 4:誼联名居 4 号楼
 yilian mingju building no. 4:谊联名居 4 号楼
-yilian mingju building no. 5:誼聯名居 5 號樓
+yilian mingju building no. 5:誼联名居 5 号楼
 yilian mingju building no. 5:谊联名居 5 号楼
-yilian mingju building no. 6:誼聯名居 6 號樓
+yilian mingju building no. 6:誼联名居 6 号楼
 yilian mingju building no. 6:谊联名居 6 号楼
-yilian mingju building no. 9:誼聯名居 9 號樓
+yilian mingju building no. 9:誼联名居 9 号楼
 yilian mingju building no. 9:谊联名居 9 号楼
-yilian mingju:誼聯名居
+yilian mingju:誼联名居
 yilian mingju:谊联名居
-yilian youmeng:一簾幽夢
+yilian youmeng:一帘幽梦
 yilian:以联
 yiliancun:一联村
 yiliancun:义联村
@@ -1771,24 +1642,19 @@ yiliang county:yiliang xian
 yiliang county:yíliáng xiàn
 yiliang county:义良县
 yiliang county:宜良县
-yiliang county:宜良縣
 yiliang county:彝良县
-yiliang county:彝良縣
 yiliang south:彝良南
 yiliang:yiliang xian
 yiliang:yíliángxiàn
 yiliang:义良
 yiliang:宜良县
-yiliang:宜良縣
 yiliang:彝良县
-yiliang:彝良縣
 yilianzhuang:义联庄乡
 yilibatun:依力巴屯
 yilibu:伊里布
 yilicun:义里村
 yilida estate:亿利达村
 yilida tower:亿利达大厦
-yilida tower:億利達大廈
 yilidu:依里都
 yiligang:易李岗
 yilihe:一里河
@@ -1797,48 +1663,42 @@ yilijing:一里井
 yililete:伊利勒特嘎查
 yililu:一里路
 yilimu:衣里木村
-yilin (tjana'asiya):義林
-yilin 1st st. intersection:義林一街口
-yilin press:譯林出版社
+yilin (tjana'asiya):义林
+yilin 1st st. intersection:义林一街口
+yilin press:译林出版社
+yilin road:义林路
 yilin road:怡林路
-yilin road:義林路
-yilin south road:義林南路
+yilin south road:义林南路
+yilin street:忆林街
 yilin street:怡林街
-yilin street:憶林街
 yilin street:逸林街
 yilin teaching building:医林楼
-yilin village:義林村
+yilin village:义林村
 yilin yayuan:颐林雅院
-yilin zhong:鍾宜霖
+yilin zhong:钟宜霖
 yilin:伊林
 yilin:伊琳
 yilin:易林
-yilin:益林鎮
 yilin:益林镇
 yilin:艺林
 yiling district:yílíng qū
 yiling district:夷陵区
-yiling district:夷陵區
 yiling flower garden:翼凌花苑
 yiling industrial concentration zone:伊岭工业集中区
 yiling qu:yílíng qū
 yiling qu:夷陵区
-yiling qu:夷陵區
 yiling road:颐岭路
 yiling senior high school:夷陵中学
 yiling yangtze river bridge:夷陵长江大桥
 yiling:yílíng qū
 yiling:夷陵区
-yiling:夷陵區
 yilingcun:椅岭村
 yilingguan:义灵关
 yilingyi:一零一
 yilinqian:yīlínqián
 yilinqian:ㄧㄌㄧㄣˊㄑㄧㄢˊ
 yilinqian:一邻前
-yilinqian:一鄰前
 yilinyuan:逸林园
-yilinyuan:逸林園
 yiliping ganyan lake:yīlĭpínggānyán hú
 yiliping ganyan lake:一里坪干盐湖
 yiliping:一里坪
@@ -1859,13 +1719,12 @@ yilong avenue:亿隆大道
 yilong cave:义龙洞
 yilong county:yílǒng xiàn
 yilong county:仪陇县
-yilong county:儀隴縣
 yilong east road:颐龙东路
 yilong lake:异龙湖
 yilong road:翼龙路
 yilong square:亿隆广场
 yilong street:一龙街
-yilong village:義隆村
+yilong village:义隆村
 yilong west road:颐龙西路
 yilong:yilong xian
 yilong:义龙
@@ -1874,7 +1733,6 @@ yilong:以龙
 yilong:仪陇
 yilong:仪陇县
 yilong:依龙镇
-yilong:儀隴縣
 yilong:异龙镇
 yilong:益龙
 yilongcun:依陇村
@@ -1893,9 +1751,8 @@ yilu:一路
 yilu:义路镇
 yilu:宜路镇
 yiluan business center:艺峦商务中心
-yiluan business center:藝巒商務中心
+yiluan business center:艺巒商务中心
 yilue:已略乡
-yilunbu:議論堡鎮
 yilunbu:议论堡镇
 yilunbudajiecun:议论堡大街村
 yilung lhagyel:拉加寺
@@ -1904,7 +1761,7 @@ yiluo'erhe:依洛尔合村
 yiluo:伊洛街道
 yiluo:依洛
 yiluo:依洛村
-yiluodi pasta:義蘿蒂義大利麵
+yiluodi pasta:义萝蒂义大利面
 yiluodiba:依洛地坝镇
 yiluojia:迤落戛
 yiluolada:依洛拉达
@@ -1918,48 +1775,45 @@ yilütun:一闾屯
 yim bang eun:任邦彦
 yim chhaily:尹财利
 yim chun chu:林春秋
-yim ho:嚴浩
-yim jae beom:任宰範
+yim ho:严浩
+yim jae beom:任宰范
 yim kyung jin:林敬珍
 yim liu ha:盐寮下
-yim liu ha:鹽寮下
-yim liu ha:鹽寮下村
+yim liu ha:盐寮下村
 yim po chung:染布涌
 yim po fong street:染布房街
-yim pung au:簷篷坳
+yim pung au:檐篷坳
 yim tin kok resite village:jim4 tin4 gok3 cyun1
 yim tin kok resite village:yim tin kok tsuen
-yim tin kok resite village:鹽田角村
-yim tin pai:鹽田排
-yim tin playground:鹽田遊樂場
-yim tin pok:鹽田壆
-yim tin tsai & ma shi chau sssi:鹽田仔及馬屎洲具特殊科學價值地點
-yim tin tsai fresh water break pressure tank:鹽田仔食水減壓缸
-yim tin tsai heritage exhibition centre (ching po school):鹽田梓文物陳列室 (澄波學校)
-yim tin tsai pier:鹽田梓碼頭
-yim tin tsai public toilet:鹽田仔公廁
-yim tin tsai teng:鹽田梓頂
-yim tin tsai to kau sai chau pier formal trail:鹽田梓至滘西洲碼頭正式山徑
-yim tin tsai typhoon shelter:鹽田仔避風塘
-yim tin tsai:鹽田仔
-yim tin tsai:鹽田梓
-yim tin tsai:鹽田渚
-yim tin:鹽田
-yim tso ha:鹽灶下
-yim wing chun:嚴詠春
+yim tin kok resite village:盐田角村
+yim tin pai:盐田排
+yim tin playground:盐田游乐场
+yim tin pok:盐田壆
+yim tin tsai & ma shi chau sssi:盐田仔及马屎洲具特殊科学价值地点
+yim tin tsai fresh water break pressure tank:盐田仔食水减压缸
+yim tin tsai heritage exhibition centre (ching po school):盐田梓文物陈列室 (澄波学校)
+yim tin tsai pier:盐田梓码头
+yim tin tsai public toilet:盐田仔公厕
+yim tin tsai teng:盐田梓顶
+yim tin tsai to kau sai chau pier formal trail:盐田梓至滘西洲码头正式山径
+yim tin tsai typhoon shelter:盐田仔避风塘
+yim tin tsai:盐田仔
+yim tin tsai:盐田梓
+yim tin tsai:盐田渚
+yim tin:盐田
+yim tso ha:盐灶下
+yim wing chun:严咏春
 yim wong hang:jim4 wong4 haang1
-yim wong hang:閻王坑
+yim wong hang:阎王坑
 yim wong pik:jim4 wong4 bik1
-yim wong pik:閻王壁
-yim's victor jade co.:永勝玉器行
+yim wong pik:阎王壁
+yim's victor jade co.:永胜玉器行
 yima city:义马市
-yima city:義馬市
 yima cloth plaza:壹马服装广场
 yima fortress:易马城
 yima railway station:义马站
 yima river park:驿马河公园
 yima subdistrict:yìmǎ jiēdào
-yima subdistrict:驛馬街道
 yima subdistrict:驿马街道
 yima:yìmǎ shì
 yima:yìmǎ zhèn
@@ -1967,7 +1821,6 @@ yima:义马
 yima:义马市
 yima:依玛乡
 yima:依码
-yima:義馬市
 yima:驿马乡
 yima:驿马街道
 yima:驿马镇
@@ -1975,7 +1828,7 @@ yimaban:矣马伴
 yimahai:乙麻亥
 yimai:益麦
 yimaia:义马果
-yimakh shemo:願其名泯絕
+yimakh shemo:愿其名泯绝
 yimalu:一马路街道
 yimaluo:依吗洛
 yimamu:乙麻目
@@ -1991,35 +1844,30 @@ yimatu:驿马图乡
 yimatucun:驿马吐村
 yimazhen road:邑马珍路
 yimazhen:邑马珍
-yimby:迎臂效應
+yimby:迎臂效应
 yimei avenue:宜美道
 yimei district:yīměi qū
 yimei district:伊美区
-yimei district:伊美區
 yimei reservoir:yìméi shuǐkù
 yimei reservoir:义梅水库
 yimei:yīměi qū
 yimei:伊美区
-yimei:伊美區
 yimei:宜美
 yimeidu:矣美堵
 yimen county:yìmén xiàn
 yimen county:义门县
-yimen county:易門縣
 yimen county:易门县
 yimen:yimen xian
 yimen:义门
 yimen:义门乡
 yimen:义门镇
-yimen:易門縣
 yimen:易门县
 yimen:益门镇
-yimen:義門鎮
 yimencun:义门村
 yimeng road:沂蒙路
 yimeng supermarket:益盟超市
 yimengshan east road:沂蒙山东路
-yimenkeng:義門坑
+yimenkeng:义门坑
 yimenosaurus:易门龙
 yimi:伊米
 yimian street:一面街
@@ -2030,33 +1878,31 @@ yimianpo:一面坡
 yimianpo:一面坡镇
 yimin avenue:移民大道
 yimin community:益民社区
-yimin elementary school:益民國小
+yimin elementary school:益民国小
 yimin eye hospital:益民眼科医院
-yimin lane:義民巷
+yimin lane:义民巷
 yimin neighbourood:益民小区
 yimin reservoir:义民水库
 yimin river:yīmĭn hé
 yimin river:伊敏河
-yimin road section 1:義民路一段
+yimin road section 1:义民路一段
+yimin road section 2:义民路二段
 yimin road section 2:益民路二段
-yimin road section 2:義民路二段
+yimin road:义民路
 yimin road:怡民路
 yimin road:益民路
-yimin road:義民路
 yimin road:谊民路
+yimin street:义明街
+yimin street:义民街
 yimin street:益民街
-yimin street:義明街
-yimin street:義民街
 yimin temple:yìmínmiào
 yimin temple:ㄧˋㄇㄧㄣˊㄇㄧㄠˋ
 yimin temple:义民庙
-yimin temple:義民廟
 yimin village:yì mín lǐ
 yimin village:yìmín lǐ
 yimin village:ㄧˋㄇㄧㄣˊㄌㄧˇ
+yimin village:义民村
 yimin village:义民里
-yimin village:義民村
-yimin village:義民里
 yimin xincun:移民新村
 yimin-defang intersection:益民德芳路口
 yimin:yìmín jiēdào
@@ -2067,12 +1913,11 @@ yimin:益民
 yimin:益民街道
 yimin:移民
 yimin:移民村
-yiminbu:義民埔
+yiminbu:义民埔
 yimincun:以民村
 yimincun:移民村
-yiming phoenix lane kindergarten:一鳴鳳凰里幼兒園
 yiming phoenix lane kindergarten:一鸣凤凰里幼儿园
-yiming senior high school:義民高級中學
+yiming senior high school:义民高级中学
 yimingcha:意明岔
 yimingedan:移民圪旦
 yiminhe road at balin road:伊敏河路巴林路
@@ -2093,11 +1938,10 @@ yimudukou:宜牧堵口村
 yimuhe:伊木河
 yimuluo:一木洛村
 yimuquan:一亩泉镇
-yimuquan:一畝泉鎮
 yimuquan:南奇乡
 yimushujiao:宜牧署觉村
 yimutuode:依母托的
-yimûrtaliq:尤穆爾塔勒克
+yimûrtaliq:尤穆尔塔勒克
 yin (3):三营
 yin alley:阴巷
 yin and yang angle:阴阳角
@@ -2112,39 +1956,39 @@ yin and yang:阴阳
 yin anna:尹安娜
 yin changheng:尹昌衡
 yin changji:尹昌吉
-yin changsheng:陰長生
-yin chee lau:燕子樓
+yin changsheng:阴长生
+yin chee lau:燕子楼
 yin chen hao:殷振豪
 yin chengxin:尹成昕
 yin chengzong:殷承宗
-yin chong street:煙廠街
+yin chong street:烟厂街
 yin chuang thai myanmar food restaurant:云川餐厅
 yin chung jung:尹仲容
 yin congyao:尹聪耀
-yin court:賢苑
+yin court:贤苑
 yin fanglong:殷方龙
-yin fat house:賢發樓
+yin fat house:贤发楼
 yin fatang:阴法唐
 yin fong hall:永芳堂
-yin font seafood:銀豐漁村海鮮餐廳
-yin fu house:賢富閣
+yin font seafood:银丰渔村海鲜餐厅
+yin fu house:贤富阁
 yin fu:尹福
 yin guifang:尹桂芳
 yin hai-kuang former residence:殷海光故居
 yin haiguang:殷海光
 yin hailin:尹海林
 yin hao:殷浩
-yin he yuan:銀河園
+yin he yuan:银河园
 yin hejun:阴和俊
 yin hengmin:殷恒民
-yin hing building:衍慶大廈
-yin hing monastery:延慶寺
-yin hing street recreation ground:衍慶街遊樂場
-yin hing street, san po kong:新蒲崗衍慶街
-yin hing street:衍慶街
+yin hing building:衍庆大厦
+yin hing monastery:延庆寺
+yin hing street recreation ground:衍庆街游乐场
+yin hing street, san po kong:新蒲岗衍庆街
+yin hing street:衍庆街
 yin hong:尹弘
 yin hongbo:尹鸿博
-yin hop bicycle:研合單車
+yin hop bicycle:研合单车
 yin islet:银屿
 yin jia 10:尹家十号
 yin jianling:殷健灵
@@ -2153,27 +1997,25 @@ yin jifu:尹吉甫
 yin ju keng:殷汝耕
 yin junhua:尹军花
 yin kaishan:殷开山
-yin keng reservoir:銀坑水庫
+yin keng reservoir:银坑水库
 yin kesheng:尹克升
-yin king house:賢景閣
-yin kong (1) public toilet:燕崗公廁 (1)
-yin kong (2) public toilet:燕崗公廁 (2)
-yin kong fifth lane:燕崗第五巷
-yin kong first lane:燕崗第一巷
-yin kong fourth lane:燕崗第四巷
-yin kong playground:燕崗遊樂場
-yin kong road:燕崗路
-yin kong second lane:燕崗第二巷
-yin kong third lane:燕崗第三巷
+yin king house:贤景阁
+yin kong (1) public toilet:燕岗公厕 (1)
+yin kong (2) public toilet:燕岗公厕 (2)
+yin kong fifth lane:燕岗第五巷
+yin kong first lane:燕岗第一巷
+yin kong fourth lane:燕岗第四巷
+yin kong playground:燕岗游乐场
+yin kong road:燕岗路
+yin kong second lane:燕岗第二巷
+yin kong third lane:燕岗第三巷
 yin kong village:jin3 gong1 cyun1
 yin kong village:yin kong tsuen
 yin kong village:燕岗村
-yin kong village:燕崗村
-yin kwong house:賢光閣
-yin kyin htan:銀匠田
+yin kwong house:贤光阁
 yin kyin htan:银匠田
-yin lai court shopping centre:賢麗苑商場
-yin lai court:賢麗苑
+yin lai court shopping centre:贤丽苑商场
+yin lai court:贤丽苑
 yin lake:yín cuò
 yin lake:银措
 yin lake:银湖
@@ -2185,48 +2027,45 @@ yin linping:尹林平
 yin lu:尹路
 yin meigen:殷美根
 yin mengdie:殷梦蝶
-yin miao:陰廟
-yin ming house:賢明閣
+yin miao:阴庙
+yin ming house:贤明阁
 yin mingshan:尹明善
 yin mingzhu:殷明珠
 yin mo:尹默
 yin mountains:阴山
-yin ngam peak:燕岩頂
+yin ngam peak:燕岩顶
 yin ngam stream:燕岩溪
 yin ngam:燕岩
-yin on court:燕安閣
+yin on court:燕安阁
 yin on street:燕安街
 yin pak:白燕
-yin pang:營盤
 yin pang:营盘
-yin ping house:燕屏樓
+yin ping house:燕屏楼
 yin ping road:延坪道
 yin qing:印青
 yin river:yín hé
 yin river:yín jiāng
 yin river:yīn hé
-yin river:銀江
-yin river:銀河
 yin river:银江
 yin river:银河
 yin river:阴河
 yin river:音河
-yin ruoning:殷若寧
+yin ruoning:殷若宁
 yin serviced apartments:慇
 yin shan si stone tablet:鄞山寺石碑
 yin shidan:殷士儋
 yin shin:印信
-yin shing stream:燕城石澗
+yin shing stream:燕城石涧
 yin shun:释印顺
-yin si juan:銀絲卷
-yin tai house:賢泰樓
-yin tak building:賢德大廈
-yin tak house:賢德閣
+yin si juan:银丝卷
+yin tai house:贤泰楼
+yin tak building:贤德大厦
+yin tak house:贤德阁
 yin tao:殷桃
-yin tat house:賢達樓
-yin tea × hotdog link:德國熱狗·然茶
+yin tat house:贤达楼
+yin tea × hotdog link:德国热狗·然茶
 yin tiesheng:殷铁生
-yin ting terraced home:賢庭居
+yin ting terraced home:贤庭居
 yin tong convenience snack:银同牛肉火锅店
 yin tong:殷同
 yin tse lane:燕子里
@@ -2241,9 +2080,9 @@ yin xiaoyan:尹笑言
 yin xifu:殷锡福
 yin xiuzhen:尹秀珍
 yin xu:殷墟
-yin yang fried rice:鴛鴦炒飯
+yin yang fried rice:鸳鸯炒饭
 yin yang shiyi mai jiujing:阴阳十一脉灸经
-yin yee mansion:燕貽大廈
+yin yee mansion:燕貽大厦
 yin yezi:殷叶子
 yin yicui:殷一璀
 yin yijun:印毅俊
@@ -2255,18 +2094,15 @@ yin zhuo:尹卓
 yin zizhong:尹自重
 yin zongwen:殷宗文
 yin-and-yang attitude:阴阳态度
-yin-thi-ôn-na̍p:印第安納州
 yin-thi-ôn-na̍p:印第安纳州
 yin-thu-nì-sî-â:印尼
 yin-thu-nì-sî-â:印度尼西亚
-yin-thu-nì-sî-â:印度尼西亚 / 印度尼西亞
-yin-thu-nì-sî-â:印度尼西亞
+yin-thu-nì-sî-â:印度尼西亚 / 印度尼西亚
 yin-thu:yìndù
 yin-thu:印度
-yin-zi-lai bridge:鶯仔瀨橋
+yin-zi-lai bridge:莺仔瀨桥
 yina river:yìnà hé
 yina:以那镇
-yina:迤那鎮
 yina:迤那镇
 yinagu clothing:伊那古
 yinaitun:乙耐屯
@@ -2276,16 +2112,13 @@ yinakua:以那垮
 yinan county court:沂南县法院
 yinan county detention center:沂南县看守所
 yinan county:沂南县
-yinan county:沂南縣
 yinan tombs:北寨墓群
 yinan:宜男
 yinan:沂南县
-yinan:沂南縣
 yinancun:宜男村
 yinancun:沂南村
 yinba:尹坝
 yinba:阴巴
-yinbai expressway:銀百高速
 yinbai expressway:银百高速
 yinbali:阴坝里
 yinbaohu:银宝湖乡
@@ -2297,7 +2130,7 @@ yinbianzhuangcun:银边庄村
 yinbicaoniancun:尹毕曹碾村
 yinbin avenue:迎宾大道
 yinbin dadao west:迎宾大道西
-yinbin expressway:迎賓高速
+yinbin expressway:迎宾高速
 yinbin road:迎宾路
 yinbo:银波
 yinboluocun:尹泊洛村
@@ -2327,9 +2160,7 @@ yinchengjiayuan:赢城嘉园
 yinchengpu:银城铺镇
 yinchengwan:尹程塆
 yinchuan city:yínchuān shì
-yinchuan city:銀川市
 yinchuan city:银川市
-yinchuan east road:銀川東路
 yinchuan east road:银川东路
 yinchuan flower expo park monorail:银川绿博园单轨铁路
 yinchuan flower-garden:银川花博园
@@ -2338,14 +2169,13 @@ yinchuan metro:银川轨道交通
 yinchuan plain:银川平原
 yinchuan railway station:银川站
 yinchuan ring expressway:银川绕城高速
-yinchuan street:銀川街
+yinchuan street:银川街
 yinchuan township:银川乡
 yinchuan west road:银川西路
 yinchuan xihuayuan airport:银川西花园机场
 yinchuan-xi'an high speed railway:银西高速线
 yinchuan:yínchuān shì
 yinchuan:yínchuān xiāng
-yinchuan:銀川市
 yinchuan:银川乡
 yinchuan:银川市
 yinchuan:银川镇
@@ -2353,7 +2183,6 @@ yinchuanlu:yínchuānlù jiēdào
 yinchuanlu:银川路街道
 yinchuan–xi'an high-speed railway:银西高速线
 yinchuan–xi'an high-speed railway:银西高铁
-yincui court:銀翠苑
 yincui court:银翠苑
 yincun:尹村
 yincun:尹村镇
@@ -2391,16 +2220,14 @@ yindiansancun:尹店三村
 yindiantoushan:yìndìāntóushān
 yindiantoushan:ㄧㄣˋㄉㄧˋㄢㄊㄡˊㄕㄢ
 yindiantoushan:印第安头山
-yindiantoushan:印第安頭山
 yindianyicun:尹店一村
 yindikoucun:殷堤口村
 yinding road:银锭路
 yindingkou:银钉扣
-yindingshan:銀錠山
+yindingshan:银锭山
 yindingtu:银定图镇
 yindong guanzhuang:银洞官庄
 yindong road:yíndōng lù
-yindong road:銀冬路
 yindong road:银冬路
 yindong:因洞
 yindong:银洞
@@ -2423,7 +2250,6 @@ yindoushan:印斗山
 yindouwucun:尹豆坞村
 yindu district government:殷都区人民政府
 yindu district:殷都区
-yindu district:殷都區
 yindu experimental primary school:殷都实验小学
 yindu road station:银都路站
 yindu road tunnel (lower level):银都路隧道（下层）
@@ -2433,32 +2259,27 @@ yindu:yindu qu
 yindu:yìndù
 yindu:印度
 yindu:殷都区
-yindu:殷都區
-yindu:銀都
+yindu:银都
 yindunizsihya:印尼
 yindunizsihya:印度尼西亚
-yindunizsihya:印度尼西亚 / 印度尼西亞
-yindunizsihya:印度尼西亞
+yindunizsihya:印度尼西亚 / 印度尼西亚
 yindunxia:印墩下
 yinduo:银多
 yinduo:银多乡
 yinduwan:殷杜湾
 yinen international logistics industrial park:翼能国际物流产业园
-yinen international logistics industrial park:翼能國際物流產業園
 yineng street:益能街
 yinfan:殷畈
 yinfang:尹坊
 yinfang:银坊镇
 yinfangcun:银坊村
-yinfeng industrial park:銀豐工業園
 yinfeng industrial park:银丰工业园
-yinfeng road:銀豐路
 yinfeng road:银丰路
 yinfeng tangjun mudanyuan:银丰唐郡牡丹园
 yinfeng wealth plaza:银丰财富广场
 yinfeng:银峰
+yinfeng:隐峯
 yinfeng:隐峰
-yinfeng:隱峯
 yinfu reservoir:yǐnfǔ shuǐkù
 yinfu reservoir:尹府水库
 yinfuyao:尹福窑
@@ -2466,168 +2287,153 @@ ying baoshi:应宝时
 ying basin (huai):颖河流域
 ying bu:英布
 ying chen:应晨
-ying cheong building:英暢大廈
-ying cheong building:英暢樓
-ying cheong house:盈昌樓
-ying cheung building:英祥樓
-ying choi path:英才徑
-ying choi vocational skills training centre:英才職業技能培訓中心
+ying cheong building:英畅大厦
+ying cheong building:英畅楼
+ying cheong house:盈昌楼
+ying cheung building:英祥楼
+ying choi path:英才径
+ying choi vocational skills training centre:英才职业技能培训中心
 ying chongfu:应崇福
 ying chuan road:潁川路
-ying chuen house:映泉樓
-ying chui house:迎趣樓
+ying chuen house:映泉楼
+ying chui house:迎趣楼
 ying county:yìng xiàn
 ying county:应县
-ying county:應縣
 ying da:英达
-ying dim:型點特色點心專門店
+ying dim:型点特色点心专门店
 ying e chi:影意志
-ying er:穎兒
-ying fai court:英輝閣
-ying fai house:盈輝樓
-ying fai terrace:英輝臺
-ying fat building:英發大廈
+ying er:颖儿
+ying fai court:英辉阁
+ying fai house:盈辉楼
+ying fai terrace:英辉台
+ying fat building:英发大厦
 ying fat house:英发新楼
-ying fat house:英發新樓
-ying fo fui kun:應和會館
+ying fo fui kun:应和会馆
 ying fong laundry:凝芳洗衣
-ying fook house:迎福樓
-ying fu curtain design:盈富窗簾設計
+ying fook house:迎福楼
+ying fu curtain design:盈富窗帘设计
 ying fu ge:迎福阁海鲜煮炒
-ying fu house:盈富樓
-ying fuk building:營福大廈
-ying fuk court car park:盈福苑停車場
+ying fu house:盈富楼
+ying fuk building:营福大厦
+ying fuk court car park:盈福苑停车场
 ying fuk court:盈福苑
 ying fuk street:盈福街
 ying fuk tsang:邢福增
-ying fung lane:盈鳳里
-ying ga garden:盈基花園
-ying guixin:應桂馨
+ying fung lane:盈凤里
+ying ga garden:盈基花园
+ying guixin:应桂馨
 ying hei house:迎喜楼
-ying hei house:迎喜樓
 ying hei road:迎禧路
 ying ho road:映河路
 ying hoi house:迎海楼
-ying hoi house:迎海樓
-ying hong house:盈康樓
+ying hong house:盈康楼
 ying hong street:迎康街
 ying hsi road:迎曦路
-ying hsuan:逸軒
+ying hsuan:逸轩
 ying hui fu:傅嫈惠
-ying hui xue fu:英輝學府
-ying kee save more:盈記
-ying kee tea house:英記茶莊
-ying king mansion:英京大廈
+ying hui xue fu:英辉学府
+ying kee save more:盈记
+ying kee tea house:英记茶庄
+ying king mansion:英京大厦
 ying kong mansion:英光大厦
-ying kong mansion:英光大廈
-ying kwai house:映葵樓
-ying kwok dispensary:英國藥房
-ying lai house:盈麗樓
+ying kwai house:映葵楼
+ying kwok dispensary:英国药房
+ying lai house:盈丽楼
 ying lee building:英利大厦
-ying lee building:英利大廈
-ying liang:應亮
-ying lianzhi:英斂之
-ying lin arts association:銀鈴會
-ying lin tang:應林堂
-ying lok house:盈樂樓
+ying liang:应亮
+ying lianzhi:英敛之
+ying lin arts association:银铃会
+ying lin tang:应林堂
+ying lok house:盈乐楼
 ying long shan:蠅螂山
-ying loy mansion:英來大廈
-ying lun building:英倫大廈
-ying lun godown:英倫倉
-ying lun royal community:英倫皇家社區
-ying lung wai public toilet:英龍圍公廁
-ying lung wai:英龍圍
-ying ma house:迎馬樓
-ying may building:英美大樓
-ying mei house:瀅美閣
+ying loy mansion:英来大厦
+ying lun building:英伦大厦
+ying lun godown:英伦仓
+ying lun royal community:英伦皇家社区
+ying lung wai public toilet:英龙围公厕
+ying lung wai:英龙围
+ying ma house:迎马楼
+ying may building:英美大楼
+ying mei house:瀅美阁
 ying ming court multi-storey car park:英明苑多层停车场
-ying ming court multi-storey car park:英明苑多層停車場
 ying ming court:英明苑
 ying ming model co. ltd.:英明模型有限公司
-ying on house, choi ying estate:彩盈邨盈安樓
-ying on house:盈安樓
-ying pan lane:營盤巷
-ying pei junior high school:營北國中
-ying piu mansion:應彪大廈
+ying on house, choi ying estate:彩盈邨盈安楼
+ying on house:盈安楼
+ying pan lane:营盘巷
+ying pei junior high school:营北国中
+ying piu mansion:应彪大厦
 ying poetry society:瀛社
-ying pont building:英邦大廈
-ying poon (sheung):營盤（上）
-ying poon:營盤
-ying pun au:營盤坳
-ying pun ha tsuen public toilet:營盤下村公廁
-ying pun ha:營盤下
-ying pun tsuen public toilet:營盤村公廁 ying pun tsuen public toilet
-ying pun:營盤
+ying pont building:英邦大厦
+ying poon (sheung):营盘（上）
+ying poon:营盘
+ying pun au:营盘坳
+ying pun ha tsuen public toilet:营盘下村公厕
+ying pun ha:营盘下
+ying pun tsuen public toilet:营盘村公厕 ying pun tsuen public toilet
+ying pun:营盘
 ying qianli:英千里
-ying qiao elementary school:螢橋國小
+ying qiao elementary school:萤桥国小
 ying river:yìng shuǐ
 ying river:yĭng hé
 ying river:应水
-ying river:應水
 ying river:潁河
 ying river:颍河
 ying rudi:英如镝
 ying ruocheng:英若诚
-ying shan house:楹山閣
-ying shao:應劭
+ying shan house:楹山阁
+ying shao:应劭
 ying shi park (rixing st.):yīngshìgōngyuán(rìxìngjiē)
 ying shi park (rixing st.):ㄧㄥㄕˋㄍㄨㄥㄩㄢˊ(ㄖˋㄒㄧㄥˋㄐㄧㄝ)
 ying shi park (rixing st.):英士公园(日兴街)
-ying shi park (rixing st.):英士公園(日興街)
-ying shi park:英士公園
-ying shui house:盈水樓
-ying shun house choi ying estate:彩盈邨盈順樓
-ying shun house:盈順樓
-ying sin leung care village public toilet:應善良美經援村公廁
+ying shi park:英士公园
+ying shui house:盈水楼
+ying shun house choi ying estate:彩盈邨盈顺楼
+ying shun house:盈顺楼
+ying sin leung care village public toilet:应善良美经援村公厕
 ying tai house:迎泰楼
-ying tai house:迎泰樓
-ying tao house:映濤閣
-ying tat building:盈達樓
+ying tao house:映濤阁
+ying tat building:盈达楼
 ying ting:丁瑩
-ying to kui:鷹圖居
-ying tung estate bus terminus:迎東邨巴士總站
+ying to kui:鹰图居
+ying tung estate bus terminus:迎东邨巴士总站
 ying tung estate:迎东村
-ying tung estate:迎東邨
-ying tung house:盈東樓
-ying tung industrial building:應通工業大廈
-ying tung market:迎東街市
+ying tung estate:迎东邨
+ying tung house:盈东楼
+ying tung industrial building:应通工业大厦
+ying tung market:迎东街市
 ying tung natatorium:英东游泳馆
-ying tung road:迎東路
+ying tung road:迎东路
 ying tung shopping centre:迎东商场
-ying tung shopping centre:迎東商場
-ying wa college:英華書院
-ying wa court:英華閣
-ying wa girls' school:英華女學校
-ying wa primary school:英華小學
-ying wa street:英華街
-ying wa terrace:英華臺
-ying wah mansion:英華樓
-ying wai building:英偉樓
-ying wan lane:迎運里
-ying wei min:應朗丰
+ying wa college:英华书院
+ying wa court:英华阁
+ying wa girls' school:英华女学校
+ying wa primary school:英华小学
+ying wa street:英华街
+ying wa terrace:英华台
+ying wah mansion:英华楼
+ying wai building:英伟楼
+ying wan lane:迎运里
+ying wei min:应朗丰
 ying wong house:英皇大厦
-ying wong house:英皇大廈
 ying xu:徐鹰
 ying yat house:迎逸楼
-ying yat house:迎逸樓
-ying yeung street:鷹揚街
-ying yin catholic primary school (ceased):天主教英賢學校（已停辦）
+ying yeung street:鹰扬街
+ying yin catholic primary school (ceased):天主教英贤学校（已停办）
 ying yin:英茵
-ying ying tea house:嶸嶸茶餐廳
+ying ying tea house:嶸嶸茶餐厅
 ying yip road:影业路
-ying yip road:影業路
 ying yong:应勇
 ying yuan:金版
-ying yue building:應如大廈
-ying yuet house:迎悅樓
+ying yue building:应如大厦
+ying yuet house:迎悅楼
 ying yuet house:迎悦楼
 ying yunwei:应云卫
 ying'an airlines:云南英安航空
-ying'an road:營安路
-ying'an street:應安街
+ying'an road:营安路
+ying'an street:应安街
 ying'an village:yīng ānlǐ
 ying'an village:莺安里
-ying'an village:鶯安里
 ying'an:英安
 ying'an:英安镇
 ying'an:迎安镇
@@ -2645,17 +2451,15 @@ ying'ercun:营儿村
 ying'ercun:营尔村
 ying'erlicun:营二里村
 ying'nflo:奕凨
-ying-chao memorial library:應兆紀念圖書館
-ying-hai senior high school:瀛海中學
+ying-chao memorial library:应兆纪念图书馆
+ying-hai senior high school:瀛海中学
 ying-qiao elementary school:yíngqiáoguóxiǎo
 ying-qiao elementary school:ㄧㄥˊㄑㄧㄠˊㄍㄨㄛˊㄒㄧㄠˇ
 ying-qiao elementary school:萤桥国小
-ying-qiao elementary school:螢橋國小
 ying-tung outpatient buliding:英东门诊大楼
-ying-zhu bridge:映竹橋
+ying-zhu bridge:映竹桥
 yingang road:银港路
 yingang:尹岗镇
-yingang:尹崗鎮
 yingangcun:尹岗村
 yingangcun:银岗村
 yingangdong:银岗垌村
@@ -2664,8 +2468,8 @@ yingangxincun:银岗新村
 yingao road station:殷高路站
 yingao road:殷高路
 yingbao lou:映宝楼
-yingbei substation:鶯北變電所
-yingbei village:營北里
+yingbei substation:莺北变电所
+yingbei village:营北里
 yingbei:鹰背镇
 yingbeihou:营背后
 yingbeishan:影碑山
@@ -2676,19 +2480,16 @@ yingbi east road:影壁东路
 yingbi pond:映碧潭
 yingbi yangzhuchang:影壁养猪场
 yingbi:影壁
-yingbian road:營邊路
+yingbian road:营边路
 yingbiao road:应彪路
 yingbin 1st road:迎宾一路
 yingbin 2nd road:迎宾二路
 yingbin 3rd road:迎宾三路
 yingbin ave. section 1, 1st ring rd.:一环路迎宾大道一段
 yingbin avenue east:迎宾大道东
-yingbin avenue east:迎賓大道東
 yingbin avenue interchange bridge:迎宾大道路口跨线桥
 yingbin avenue middle:迎宾大道中
-yingbin avenue middle:迎賓大道中
 yingbin avenue west:迎宾大道西
-yingbin avenue west:迎賓大道西
 yingbin avenue:yíng bīn dàdào
 yingbin avenue:迎宾大街
 yingbin avenue:迎宾大道
@@ -2699,8 +2500,6 @@ yingbin east street:迎宾东街
 yingbin expressway:迎宾快速路
 yingbin expressway:迎宾高速
 yingbin expressway:迎宾高速公路
-yingbin expressway:迎賓快速路
-yingbin expressway:迎賓高速
 yingbin flyover:迎宾跨线桥
 yingbin maglev tunnel:迎宾磁浮隧道
 yingbin middle street:迎宾中大街
@@ -2720,18 +2519,15 @@ yingbin road:yingbin lu
 yingbin road:yíng bīn lù
 yingbin road:yíngbīn lù
 yingbin road:迎宾路
-yingbin road:迎賓路
 yingbin south avenue:迎宾南大道
 yingbin south road:yíngbīn nán lù
 yingbin south road:迎宾南路
-yingbin south road:迎賓南路
 yingbin square station:迎宾广场站
 yingbin square:yíngbīn guǎngchǎng
 yingbin square:迎宾广场
 yingbin street:jingban gaai
 yingbin street:迎宾大街
 yingbin street:迎宾街
-yingbin street:迎賓街
 yingbin weg:迎宾路
 yingbin west road:迎宾西路
 yingbin:迎宾
@@ -2739,7 +2535,6 @@ yingbin:迎宾街道
 yingbinbeilu subdistrict:迎宾北路街道
 yingbinbeilu:迎宾北路街道
 yingbindadao subdistrict:迎宾大道街道
-yingbindadao subdistrict:迎賓大道街道
 yingbing avenue:迎宾大道
 yingbing rd:迎宾路
 yingbinhu park:迎宾湖公园
@@ -2751,16 +2546,15 @@ yingbinlu subdistrict:迎宾路街道
 yingbinlu:yíngbīnlù jiēdào
 yingbinlu:迎宾路
 yingbinlu:迎宾路街道
-yingbinlu:迎賓路街道
 yingbinsan road tunnel:迎宾三路地道
 yingbinsan road:迎宾三路
 yingbishan:影壁山
 yingbishancun:影壁山村
 yingboluo:英波洛
 yingbu street:营部街
-yingbu village:營埔里
-yingbu:營埔
+yingbu village:营埔里
 yingbu:硬步
+yingbu:营埔
 yingbu:营部
 yingcai -xitun intersection:英才西屯路口
 yingcai experimental primary school:英才实验小学
@@ -2768,25 +2562,23 @@ yingcai honours college:英才实验学院
 yingcai park (minquan rd.):yīngcáigōngyuán(mínquánlù)
 yingcai park (minquan rd.):ㄧㄥㄘㄞˊㄍㄨㄥㄩㄢˊ(ㄇㄧㄣˊㄑㄩㄢˊㄌㄨˋ)
 yingcai park (minquan rd.):英才公园(民权路)
-yingcai park (minquan rd.):英才公園(民權路)
 yingcai park:yīngcáigōngyuán
 yingcai park:ㄧㄥㄘㄞˊㄍㄨㄥㄩㄢˊ
-yingcai park:英才兒童公園
+yingcai park:英才儿童公园
 yingcai park:英才公园
-yingcai park:英才公園
-yingcai post office:英才郵局
+yingcai post office:英才邮局
 yingcai road:jingcoi lu
 yingcai road:英才路
 yingcai school:英才学校
 yingcai street:英才街
-yingcai-dongying intersection:英才東英路口
+yingcai-dongying intersection:英才东英路口
 yingcai-gongyi intersection:英才公益路口
-yingcai-minquan intersection:英才民權路口
-yingcai-taiwan boulevard intersection:英才臺灣大道口
+yingcai-minquan intersection:英才民权路口
+yingcai-taiwan boulevard intersection:英才台湾大道口
 yingcai-xiangshang n. intersection:英才向上北路口
 yingcai:英才
-yingcaibu:應菜埔
-yingcailong:應菜龍
+yingcaibu:应菜埔
+yingcailong:应菜龙
 yingcaimeiju primary school:盈彩美居小学
 yingchacun:英茶村
 yingchang city archaeological site:元代应昌路遗址
@@ -2794,17 +2586,16 @@ yingchang street:应昌街
 yingchang subdistrict:应昌街道
 yingchang:yíngchǎng mǎnzú xiāng
 yingchang:yíngchǎng xiāng
-yingchang:應昌城
-yingchang:營厰鄉
+yingchang:应昌城
 yingchang:营厂乡
 yingchang:营厂满族乡
+yingchang:营厰乡
 yingcheng 1st street:櫻城一街
 yingcheng 2th street:櫻城二街
 yingcheng 3th street:櫻城三街
 yingcheng 5th street:櫻城五街
 yingcheng 6th street:櫻城六街
 yingcheng city:应城市
-yingcheng city:應城市
 yingcheng county:应城县
 yingcheng county:营城县
 yingcheng east road:营城东路
@@ -2818,11 +2609,9 @@ yingcheng:yìngchéng shì
 yingcheng:yíngchéng jiēdào
 yingcheng:应城
 yingcheng:应城市
-yingcheng:應城市
 yingcheng:英城街道
 yingcheng:营城
 yingcheng:营城街道
-yingcheng:郢城鎮
 yingcheng:郢城镇
 yingchengcun:英城村
 yingchengcun:英成村
@@ -2846,14 +2635,14 @@ yingchuan reservoir:英川水库
 yingchuan river:yīngchuān xī
 yingchuan river:英川溪
 yingchuan subdistrict:颍川街道
-yingchuan village:穎川里
+yingchuan village:颖川里
 yingchuan:潁川街道
 yingchuan:英川
 yingchuan:营川
 yingchuan:颍川街道
 yingchuancun:营川村
 yingchun alley:迎春巷
-yingchun bridge:迎春橋
+yingchun bridge:迎春桥
 yingchun park:yíngchūn gōngyuán
 yingchun park:迎春公园
 yingchun road station:迎春路站
@@ -2875,7 +2664,6 @@ yingcui:英萃镇
 yingcun road:迎春路
 yingcun:应村
 yingcun:应村乡
-yingcun:應村鄉
 yingcun:盈村
 yingcun:盈村村
 yingcun:英村
@@ -2915,33 +2703,31 @@ yingde parking area:英德停车区
 yingde radio and television university:英德市广播电视大学
 yingde st public private car park:yīngdéjiēgōngyǒumínyíngtíngchēchǎng
 yingde st public private car park:ㄧㄥㄉㄜˊㄐㄧㄝㄍㄨㄥㄧㄡˇㄇㄧㄣˊㄧㄥˊㄊㄧㄥˊㄔㄜㄔㄤˇ
-yingde st public private car park:英德街公有民營停車場
 yingde st public private car park:英德街公有民营停车场
-yingde street public private parking lot:英德街公有民營停車場
+yingde street public private parking lot:英德街公有民营停车场
 yingde street:英德街
 yingde west railway station:英德西站
 yingde west:英德西
 yingde:yīngdé shì
 yingde:英德
 yingde:英德市
-yingdeheng lane:英德橫巷
+yingdeheng lane:英德横巷
 yingdehong tea:英德红茶
 yingdewan:应德塆
 yingde–fogang highway:英佛公路
 yingdi sun:孙颖迪
 yingdi:芥菜种会万里营地
-yingdi:芥菜種會萬里營地
 yingdi:英地
 yingdi:营地
 yingdiguoji school:英迪国际学校
-yingding:營頂
+yingding:营顶
 yingdong district:yǐngdōng qū
-yingdong district:潁東區
+yingdong district:潁东区
 yingdong district:颍东区
 yingdong primary school:营东小学
 yingdong road:英东路
 yingdong street:营东街
-yingdong:潁東區
+yingdong:潁东区
 yingdong:盈洞
 yingdong:英洞
 yingdong:颍东区
@@ -2951,7 +2737,7 @@ yingdongcun:英洞村
 yingdongtun:英洞屯
 yingdongwan:应东湾
 yingdongyu:营东峪
-yingdou lake:鶯脰湖
+yingdou lake:莺脰湖
 yingdoutun:英斗屯
 yingdu:英都镇
 yingduitun:英对屯
@@ -2966,7 +2752,6 @@ yingfang east:营房东
 yingfang village committee:营房村委
 yingfang west:营房西
 yingfang:yíngfáng
-yingfang:營房
 yingfang:营坊
 yingfang:营坊村
 yingfang:营房
@@ -2980,10 +2765,10 @@ yingfangtaicun:营房台村
 yingfangwaitou:营房外头
 yingfangxigou:营房西沟
 yingfeng center:盈峰中心 (招呼站)
-yingfeng evacuation gate:迎風疏散門
+yingfeng evacuation gate:迎风疏散门
 yingfeng lu bus terminal:盈丰路总站
 yingfeng lu:盈丰路
-yingfeng riverside park:迎風河濱公園
+yingfeng riverside park:迎风河滨公园
 yingfeng road station:盈丰路站
 yingfeng road:盈丰路
 yingfeng subdistrict:yíngfēng jiēdào
@@ -2995,17 +2780,14 @@ yingfeng:迎丰
 yingfeng:迎丰村
 yingfeng:迎丰街道
 yingfeng:迎丰镇
-yingfeng:迎豐鎮
 yingfeng:鹰峰社区
-yingfengbao:迎風堡
+yingfengbao:迎风堡
 yingfengcun:英丰村
-yingfengqiao:迎風橋鎮
 yingfengqiao:迎风桥镇
 yingfu lu:迎福路(食品药品学院)站
 yingfu si:盈福寺
 yingfu village:yíngfú lǐ
 yingfu village:ㄧㄥˊㄈㄨˊㄌㄧˇ
-yingfu village:營福里
 yingfu village:营福里
 yingfu:英府
 yingfucun:应伏村
@@ -3014,65 +2796,50 @@ yingfusicun:盈福寺村
 yinggang road:盈港东路
 yinggarda language:因加尔达语
 yingge ceramics museum(wenhua rd.):莺歌陶瓷博物馆
-yingge ceramics museum(wenhua rd.):鶯歌陶瓷博物館
 yingge ceramics museum:yīnggētáocíbówùguǎn
 yingge ceramics museum:ㄧㄥㄍㄜㄊㄠˊㄘˊㄅㄛˊㄨˋㄍㄨㄢˇ
-yingge ceramics museum:文化館前路口
 yingge ceramics museum:文化馆前路口
-yingge ceramics museum:陶瓷博物館
-yingge ceramics museum:鶯歌陶瓷博物館
+yingge ceramics museum:莺歌陶瓷博物馆
+yingge ceramics museum:陶瓷博物馆
 yingge civil sports center:ㄧㄥㄍㄜㄍㄨㄛˊㄇㄧㄣˊㄩㄣˋㄉㄨㄥˋㄓㄨㄥㄒㄧㄣ
 yingge civil sports center:莺歌国民运动中心
-yingge civil sports center:鶯歌國民運動中心
 yingge dance:英歌
 yingge district office:莺歌区公所
-yingge district office:鶯歌區公所
-yingge district:鶯歌區
+yingge district:莺歌区
 yingge junior high chool:yīnggēguózhōng
 yingge junior high chool:ㄧㄥㄍㄜㄍㄨㄛˊㄓㄨㄥ
 yingge junior high chool:莺歌国中
-yingge junior high chool:鶯歌國中
-yingge junior high school:鶯歌國中
+yingge junior high school:莺歌国中
 yingge ling:鹦哥岭
-yingge metro (yingjie) substation:鶯捷變電所
+yingge metro (yingjie) substation:莺捷变电所
 yingge mountain radio transmitting station rd:莺歌山发射台上山道路
 yingge mountain:莺歌山
 yingge old street 2nd parking lot:yīnggēlǎojiēdìèrtíngchēchǎng
 yingge old street 2nd parking lot:ㄧㄥㄍㄜㄌㄠˇㄐㄧㄝㄉㄧˋㄦˋㄊㄧㄥˊㄔㄜㄔㄤˇ
 yingge old street 2nd parking lot:莺歌老街第二停车场
-yingge old street 2nd parking lot:鶯歌老街第二停車場
 yingge old street:莺歌陶瓷老街
-yingge old street:鶯歌陶瓷老街
-yingge park no. 3:鶯歌三號公園
-yingge rail sta.:鶯歌火車站
+yingge park no. 3:莺歌三号公园
+yingge rail sta.:莺歌火车站
 yingge railway station(ren’ai rd.):ㄧㄥㄍㄜㄏㄨㄛˇㄔㄜㄓㄢˋ(ㄖㄣˊㄞˋㄌㄨˋ)
 yingge railway station(ren’ai rd.):莺歌火车站(仁爱路)
-yingge railway station(ren’ai rd.):鶯歌火車站(仁愛路)
-yingge railway station:鶯歌車站
-yingge road:鶯歌路
-yingge sport park:鶯歌國民運動中心
+yingge railway station:莺歌车站
+yingge road:莺歌路
+yingge sport park:莺歌国民运动中心
 yingge station (no. 62, renai rd.):莺歌火车站(仁爱路62号)
-yingge station (no. 62, renai rd.):鶯歌火車站(仁愛路62號)
 yingge station (wenhua rd.):莺歌火车站(文化路)
-yingge station (wenhua rd.):鶯歌火車站(文化路)
 yingge station:莺歌站
-yingge station:鶯歌站
-yingge system interchange:鶯歌系統交流道
+yingge system interchange:莺歌系统交流道
 yingge village:yīng gē lǐ
 yingge village:莺歌里
-yingge village:鶯歌里
-yingge vocational high school:鶯歌高職
+yingge vocational high school:莺歌高职
 yingge yongli st.:yīnggēyǒnglìjiē
 yingge yongli st.:ㄧㄥㄍㄜㄩㄥˇㄌㄧˋㄐㄧㄝ
 yingge yongli st.:莺歌永利街
-yingge yongli st.:鶯歌永利街
 yingge:yīng gē
 yingge:yīng​gē​ qū
 yingge:英各
 yingge:莺歌
-yingge:鶯歌
-yingge:鶯歌區
-yingge:鸚鴿鎮
+yingge:莺歌区
 yingge:鹦哥
 yingge:鹦鸽镇
 yinggebao:yīnggébǎo xiāng
@@ -3080,13 +2847,10 @@ yinggebao:英格堡乡
 yinggedanshan:yīnggēdànshān
 yinggedanshan:ㄧㄥㄍㄜㄉㄢˋㄕㄢ
 yinggedanshan:莺歌蛋山
-yinggedanshan:鶯歌蛋山
 yinggedifangzitun:英格地房子屯
 yinggegou:鹦哥沟
 yinggehaizhen:莺歌海镇
-yinggehaizhen:鶯歌海鎮
 yinggela:英格拉
-yinggen:營根鎮
 yinggen:营根镇
 yinggensuo:英根索
 yinggepingzi:鹦歌坪子
@@ -3094,13 +2858,11 @@ yinggepu:英戈铺
 yinggeshan:鹦哥山
 yinggeshancun:鹦哥山村
 yinggeshe:莺歌石
-yinggeshe:鶯歌石
-yinggeshi:鶯歌石
-yinggeshibu:鶯歌石埔
+yinggeshi:莺歌石
+yinggeshibu:莺歌石埔
 yinggeshishan:yīnggēshíshān
 yinggeshishan:ㄧㄥㄍㄜㄕˊㄕㄢ
 yinggeshishan:莺歌石山
-yinggeshishan:鶯歌石山
 yinggewan:莺鸽湾
 yinggewopengtun:英歌窝棚屯
 yinggezhaicun:英歌寨村
@@ -3108,17 +2870,15 @@ yinggezui reservoir:yīnggēzuĭ shuĭkù
 yinggezui reservoir:鹦鸽嘴水库
 yinggezui:莺鸽咀
 yinggezui:鹰鸽咀
-yinggong miao:應公廟
+yinggong miao:应公庙
 yinggongkeng:应公坑
-yinggongkeng:應公坑
 yinggoucun:英沟村
 yinggouqing:鹰沟箐
 yinggu:英古
 yingguan:英管
 yingguan:营官寨村
-yingguang bridge:瑩光橋
+yingguang bridge:瑩光桥
 yingguang factory:英光工厂
-yingguang factory:英光工廠
 yingguang:英光
 yingguang:迎光乡
 yingguangcun:英光村
@@ -3130,15 +2890,13 @@ yinghai park:瀛海公园
 yinghai road:迎海路
 yinghai station:瀛海站
 yinghai:yínghǎi zhèn
-yinghai:瀛海鎮
 yinghai:瀛海镇
-yinghangshan:銀行山
+yinghangshan:银行山
 yinghao:英豪
 yinghao:英豪镇
 yinghaocun:英豪村
 yinghaoshang:英豪上
 yinghaosheng dayang industrial park:盈豪盛大洋工业园
-yinghaosheng dayang industrial park:盈豪盛大洋工業園
 yinghaotun:英豪屯
 yinghaoxia:英豪下
 yinghe river:yĭng hé
@@ -3149,25 +2907,22 @@ yinghe'er reservoir:莺河二水库
 yinghe:英和
 yinghe:莺河
 yinghe:营合
-yinghe:迎河鎮
 yinghe:迎河镇
 yinghejicun:迎河集村
 yingheyi shuiku:yīnghéyī shuǐkù
 yingheyi shuiku:莺河一水库
 yinghgoz:英国
-yinghgoz:英国 / 英國
-yinghgoz:英國
+yinghgoz:英国 / 英国
 yinghong junior middle school:鹤庆县映虹初级中学
 yinghong toll gate:英红收费站
 yinghong:英红
 yinghong:英红镇
 yinghonggedancun:迎红圪旦村
 yinghonggou:英宏沟
-yinghou:營後
+yinghou:营后
 yinghu community:瀛湖社区
 yinghu community:盈湖小区
 yinghu mountain greenway:银湖山绿道
-yinghu:瀛湖鎮
 yinghu:瀛湖镇
 yinghua 1st road:樱花一路
 yinghua 2nd road:樱花二路
@@ -3177,18 +2932,17 @@ yinghua clothing company:英华服装公司
 yinghua corp. complete primary school:英华教育集团完全小学
 yinghua industrial area:潆华工业集中区
 yinghua park:樱花水车公园
-yinghua park:櫻花水車公園
+yinghua park:櫻花水车公园
 yinghua road pujian road:樱花路浦建路
 yinghua road:应化路
-yinghua road:應化路
 yinghua road:樱花路
 yinghua road:櫻花路
-yinghua street:應化街
+yinghua street:应化街
 yinghua street:樱花街
 yinghua street:櫻花街
 yinghua street:英华街
 yinghua village:樱花山庄
-yinghua village:櫻花山莊
+yinghua village:櫻花山庄
 yinghua xin road:应化新路
 yinghua:营华
 yinghua:蓥华镇
@@ -3197,11 +2951,10 @@ yinghuaguangchang:yīng huā guǎng chǎng
 yinghuaguangchang:樱花广场
 yinghuatun:迎花屯
 yinghuayuan dongjie:樱花园东街
-yinghuayuan dongjie:櫻花園東街
+yinghuayuan dongjie:櫻花园东街
 yinghuazhuang:櫻花庄
 yinghui road station:迎晖路站
 yinghui road:迎晖路
-yinghui road:迎暉路
 yinghui street:盈汇街
 yingibagh cun:英巴格村
 yingjia community:迎家小区
@@ -3217,22 +2970,18 @@ yingjian road:营建路
 yingjiancun:英建村
 yingjiang county:yíngjiāng xiàn
 yingjiang county:盈江县
-yingjiang county:盈江縣
 yingjiang district:yíngjiāng qū
 yingjiang district:迎江区
-yingjiang district:迎江區
 yingjiang temple:迎江寺
 yingjiang:yingjiang xian
 yingjiang:yíngjiāng jiēdào
 yingjiang:yíngjiāng qū
 yingjiang:yíngjiāngxiàn
 yingjiang:盈江县
-yingjiang:盈江縣
 yingjiang:英将乡
 yingjiang:营江街道
 yingjiang:迎江
 yingjiang:迎江区
-yingjiang:迎江區
 yingjiang:迎江社区
 yingjiao road:yīngjiǎo lù
 yingjiao:营脚
@@ -3240,7 +2989,7 @@ yingjiashan reservoir:英家山水库
 yingjiazhuangcun:英家庄村
 yingjiazui:应家嘴
 yingjicun:迎集村
-yingjie dormitory v of cnu:嘉藥英傑五舍
+yingjie dormitory v of cnu:嘉药英杰五舍
 yingjie jay guo:郭英杰
 yingjie reservoir:yíngjiē shuǐkù
 yingjie reservoir:迎接水库
@@ -3248,7 +2997,6 @@ yingjie:迎接镇
 yingjieling:yìngjiělǐng
 yingjieling:ㄧㄥˋㄐㄧㄝˇㄌㄧㄥˇ
 yingjieling:硬姐岭
-yingjieling:硬姐嶺
 yingjin 1st road:迎金一路
 yingjin 2nd road:迎金二路
 yingjin 3rd road:迎金三路
@@ -3259,15 +3007,15 @@ yingjin river:英金河
 yingjin road:迎金路
 yingjincun:英进村
 yingjing county:yíngjīng xiàn
-yingjing county:滎經縣
+yingjing county:滎经县
 yingjing county:荥经县
 yingjing river:yíngjīng hé
 yingjing:yíngjīng xiàn
-yingjing:滎經縣
+yingjing:滎经县
 yingjing:英景
 yingjing:荥经县
 yingjingi:yíngjīng xiàn
-yingjingi:滎經縣
+yingjingi:滎经县
 yingjingi:荥经县
 yingjisha:英吉沙
 yingjiuwenhuamingrenjiuzhi:营救文化名人旧址
@@ -3279,37 +3027,33 @@ yingjucun:迎咀村
 yingjudong:鹰咀东
 yingjun fang:英俊坊
 yingjun nianhua shiguang li:英郡年华·时光里
-yingjun nianhua shiguang li:英郡年華·時光里
 yingjun:guīgǔ jiēdào
 yingjun:英俊
 yingjun:英俊镇
 yingjuncun:英均村
 yingjuyan:鹰咀岩
-yingjyu 3rd vil.:影劇三村
+yingjyu 3rd vil.:影剧三村
 yingkancun:盈坎村
 yingke ink jet company:盈科喷墨公司
+yingke road:莺歌路
 yingke road:迎客路
-yingke road:鶯歌路
-yingke station:鶯歌車站
-yingke station:鶯歌車站圓環
+yingke station:莺歌车站
+yingke station:莺歌车站圆环
 yingke'ao:鹦歌傲
 yingke:ㄧㄥㄍㄜ
-yingke:鶯歌
+yingke:莺歌
+yingkeng:应坑
 yingkeng:影坑
-yingkeng:應坑
 yingkeng:英坑
 yingkeng:营坑村
 yingkengcun:英坑村
 yingkiong:yìng kōng
 yingkiong:英肯
 yingkou airport:营口机场
-yingkou avenue:營口道
 yingkou avenue:营口道
 yingkou city:yíngkǒu shì
-yingkou city:營口市
 yingkou city:营口市
 yingkou county:营口县
-yingkou dao:營口道
 yingkou dao:营口道
 yingkou east railway station:营口东站
 yingkou east:营口东
@@ -3317,17 +3061,14 @@ yingkou lanqi airport:营口兰旗机场
 yingkou railway:营口铁路
 yingkou road east guoshun road:营口路国顺东路
 yingkou road:yíng kǒu lù
-yingkou road:營口路
 yingkou road:营口路
 yingkou:tuóyuàn jiēdào
 yingkou:yíngkǒu shì
-yingkou:營口市
 yingkou:盈口乡
 yingkou:盈口街道
 yingkou:营口
 yingkou:营口市
 yingkoudao station:营口道站
-yingkoudao:營口道
 yingkoudao:营口道
 yingkoudong:营口东
 yingla:英落镇
@@ -3337,7 +3078,6 @@ yinglancun:英兰村
 yinglancun:英栏村
 yinglang street:莺朗街
 yinglangcun:莺朗村
-yinglangcun:鶯朗村
 yinglangsha:硬浪沙
 yinglaofentun:鹰老坟屯
 yingle road:迎乐路
@@ -3345,7 +3085,6 @@ yingli international ironware and electromechanical market:英利国际五金机
 yingli tower:英利国际购物中心
 yingli tower:英利国际金融中心
 yingli township:营里乡
-yingli:營里鎮
 yingli:英利绿色能源控股有限公司
 yingli:英利镇
 yingli:营里
@@ -3362,7 +3101,7 @@ yinglin:英林镇
 yinglin:颍林
 yinglincun:影林村
 yinglindui:营林队
-yingling nunatak:英林冰原島峰
+yingling nunatak:英林冰原岛峰
 yinglinggang:迎岭岗
 yingliqiao:洞头
 yingliu community:英刘社区
@@ -3380,33 +3119,28 @@ yinglong road:营龙路
 yinglong road:迎龙路
 yinglong service area:迎龙服务区
 yinglong south 1st road:应龙南一路
-yinglong station:應龍站
+yinglong station:应龙站
 yinglong station:迎龙站
 yinglong:应龙
 yinglong:应龙社区
-yinglong:應龍
 yinglong:迎龙
 yinglong:迎龙社区
 yinglong:迎龙镇
 yinglongcun:英隆村
 yinglu:迎禄
 yinglun cuntian:英伦春天
-yinglun cuntian:英倫春天
 yinglun huafu:英伦华府
 yinglun mingyuan phase 2:英伦名苑二期
-yinglun mingyuan phase 2:英倫名苑二期
 yinglun mingyuan:英伦名苑
-yinglun mingyuan:英倫名苑
 yinglun shangyuan:英伦上院
 yinglung tso:yǐnlóng cuò
 yinglung tso:饮龙错
-yingmale self-service games room:贏麻樂24小時自助棋牌室
+yingmale self-service games room:贏麻乐24小时自助棋牌室
 yingmale self-service games room:赢麻乐24小时自助棋牌室
 yingmanchengcun:英满城村
 yingmao sugar factory:英茂糖业动阿糖厂
 yingmei:迎美
 yingmen qiancun:营门前村
-yingmenkou:營門口街道
 yingmenkou:营门口
 yingmenkou:营门口街道
 yingmenqian:营门前
@@ -3416,13 +3150,12 @@ yingmin middle school:英民中学
 yingmin road:英民路
 yingmin:英敏
 yingming 1st road:英明一路
-yingming junior high school:英明國中
+yingming junior high school:英明国中
 yingming park:yīngmínggōngyuán
 yingming park:ㄧㄥㄇㄧㄥˊㄍㄨㄥㄩㄢˊ
 yingming park:英明公园
-yingming park:英明公園
 yingming reservoir:英明水库
-yingming road intersection:聖和公園(輕軌凱旋二聖站)
+yingming road intersection:圣和公园(轻轨凱旋二圣站)
 yingming road:英明路
 yingming sanduo 2nd rd. intersection:英明三多二路口
 yingming village:英明里
@@ -3433,8 +3166,8 @@ yingmu road:迎木路
 yingna river:yīngnà hé
 yingnahe reservoir:yīngnàhé shuĭkù
 yingnan junction:英南立交
-yingnan substation:鶯南變電所
-yingnan village:營南里
+yingnan substation:莺南变电所
+yingnan village:营南里
 yingnan:营南村
 yingnan:颍南
 yingnancun:英南村
@@ -3447,42 +3180,37 @@ yingou:尹沟
 yingoucun:银沟村
 yingouli:阴沟里
 yingpai:营排
-yingpan bridge:營盤橋
+yingpan bridge:营盘桥
 yingpan east road:营盘东路
 yingpan man:红地对人兽树纹罽袍
 yingpan rd:营盘路
-yingpan road intersection:營盤路口
+yingpan road intersection:营盘路口
 yingpan subdistrict:营盘街道
 yingpan village:yíngpán lǐ
 yingpan village:ㄧㄥˊㄆㄢˊㄌㄧˇ
-yingpan village:營盤里
 yingpan village:营盘里
 yingpan'ao:营盘坳
 yingpan:yíngpán miáozú yízú báizú xiāng
 yingpan:yíngpán xiāng
-yingpan:營盤
-yingpan:營盤街道
-yingpan:營盤鎮
 yingpan:营盘
 yingpan:营盘乡
 yingpan:营盘村
 yingpan:营盘街道
 yingpan:营盘镇
-yingpanbu:營盤埔
+yingpanbu:营盘埔
 yingpancun:营盘村
-yingpanding:營盤頂
 yingpanding:营盘顶
 yingpandui:营盘队
 yingpangoucun:营盘沟村
-yingpanhou:營盤後
-yingpanjiao:營盤腳
+yingpanhou:营盘后
+yingpanjiao:营盘脚
 yingpanjie station:营盘街站
 yingpanju:营盘咀
-yingpankou:營盤口
+yingpankou:营盘口
 yingpanliangcun:营盘梁村
 yingpanmao:营盘峁
 yingpanpo:营盘坡
-yingpanqian:營盤前
+yingpanqian:营盘前
 yingpanshan ecological park:营盘山生态公园
 yingpanshan:营盘山
 yingpanshang:营盘上
@@ -3491,53 +3219,45 @@ yingpanshui:营盘水社区
 yingpantai:营盘台
 yingpantaicun:营盘台村
 yingpanwei:营盘圩乡
-yingpanxia:營盤下
+yingpanxia:营盘下
 yingpanyacun:营盘垭村
 yingpanyancun:营盘堰村
-yingpanyuan:營盤園
+yingpanyuan:营盘园
 yingpanzhou:营盘洲
 yingpanzui:营盘咀
 yingpen:营盆
 yingping road:营平路
 yingping:硬坪
 yingping:营坪
-yingpu 1st street:營埔一街
-yingpu culture:營埔文化
-yingpu fuxing palace:營埔福興宮
-yingpu village:營埔里
+yingpu 1st street:营埔一街
+yingpu culture:营埔文化
+yingpu fuxing palace:营埔福兴宮
 yingpu village:萤圃里
-yingpu village:螢圃里
+yingpu village:营埔里
 yingpu:盈浦街道
 yingpulixiao park:萤圃里小公园
-yingpulixiao park:螢圃里小公園
 yingqian river:yíngqián shuǐ
-yingqian river:營前水
 yingqian river:营前水
 yingqian station:营前站
-yingqian village:營前里
-yingqian:營前
+yingqian village:营前里
+yingqian:营前
 yingqian:营前街道
 yingqian:营前镇
 yingqiao elementary school:萤桥国小
-yingqiao elementary school:螢橋國小
-yingqiao junior high school:螢橋國中
+yingqiao junior high school:萤桥国中
 yingqiao park:萤桥公园
-yingqiao park:螢橋公園
 yingqiao:yǐngqiáo huízú zhèn
 yingqiao:英桥镇
 yingqiao:颍桥回族镇
 yingqincun:英勤村
-yingqiu:營丘鎮
 yingqiu:营丘镇
 yingqiuhenan:营邱河南
-yingqu road:營區路
 yingqu road:营区路
-yingqu:營區
 yingqu:营区
 yingquan district:yǐngquán qū
-yingquan district:潁泉區
+yingquan district:潁泉区
 yingquan district:颍泉区
-yingquan:潁泉區
+yingquan:潁泉区
 yingquan:营泉
 yingquan:颍泉
 yingquan:颍泉区
@@ -3552,42 +3272,32 @@ yingrenshi park:应人石公园
 yingrenshi river:应人石河
 yingrenshi road crossing:应人石路口
 yingrenshi road:应人石路
-yingrenshi road:應人石路
 yingrenshi shichang rd:应人石市场路
 yingrenshi station:应人石站
-yingrenshi station:應人石站
 yingrenshi wentao technology park:应人石文韬科技园
-yingrenshi wentao technology park:應人石文韜科技園
 yingrenshi xincun:应人石新村
 yingrenshi:应人石
-yingrenshi:應人石
 yingri lu east:映日路东站
 yingri lu middle:映日路中站
 yingri road:映日路
 yingrui square:迎瑞广场
 yingrui:迎瑞
-yingsan huasia:影三華廈
+yingsan huasia:影三华厦
 yingshan county:yingshan xian
 yingshan county:yíngshān xiàn
 yingshan county:应山县
-yingshan county:營山縣
 yingshan county:英山
 yingshan county:英山县
-yingshan county:英山縣
 yingshan county:营山县
-yingshan hotel:櫻山大飯店
+yingshan hotel:櫻山大饭店
 yingshan primary school:英山小学
 yingshan river:yìngshān hé
 yingshan river:应山河
-yingshan river:應山河
 yingshan road:英山路
 yingshan subdistrict:应山街道
-yingshan subdistrict:應山街道
 yingshan temple:莺山庙
-yingshan temple:鶯山廟
 yingshan xian:英山
 yingshan xian:英山县
-yingshan xian:英山縣
 yingshan:yingshan xian
 yingshan:yíngshān xiàn
 yingshan:yīngshān
@@ -3595,62 +3305,54 @@ yingshan:ㄧㄥㄕㄢ
 yingshan:应山
 yingshan:应山村
 yingshan:应山街道
-yingshan:影山鎮
 yingshan:影山镇
 yingshan:櫻山
-yingshan:營山縣
 yingshan:英山
 yingshan:英山乡
 yingshan:英山县
-yingshan:英山縣
 yingshan:营山
 yingshan:营山县
-yingshan:鷹山
 yingshan:鹰山
 yingshancun:英山村
 yingshancun:营山村
 yingshancun:鹰山村
 yingshandongfeng:yīngshāndōngfēng
 yingshandongfeng:ㄧㄥㄕㄢㄉㄨㄥㄈㄥ
-yingshandongfeng:鷹山東峰
 yingshandongfeng:鹰山东峰
 yingshanfancun:英山畈村
 yingshanfanlaojie:鹰山畈老街
 yingshang county:yǐngshàng xiàn
-yingshang county:潁上縣
+yingshang county:潁上县
 yingshang county:颍上县
 yingshang north railway station:颍上北站
 yingshang north:颍上北
 yingshang road:潁上路
-yingshang:潁上縣
+yingshang:潁上县
 yingshang:营上
 yingshang:营上镇
 yingshang:颍上
 yingshang:颍上县
 yingshangcun:营上村
 yingshanmiaocun:迎山庙村
-yingshanosaurus:營山龍屬
+yingshanosaurus:营山龙属
 yingshanpo:莺山坡
 yingshanpu:应山铺
 yingshantun:映山屯
 yingshantun:英山屯
 yingshanxi:营山西
-yingsheng road:應昇路
+yingsheng road:应昇路
 yingsheng road:营升路
 yingsheng road:营盛路
 yingsheng west street:营胜西街
-yingshi bridge:英士橋
+yingshi bridge:英士桥
 yingshi road:英士路
-yingshi st:營市街街道
 yingshi st:营市街街道
 yingshi village:英士村
 yingshi:应石
-yingshih university:國立英士大學
+yingshih university:国立英士大学
 yingshiling reservoir:硬石岭水库
 yingshouyingzi mining district:yīngshǒuyíngzǐ kuàngqū
-yingshouyingzi mining district:鷹手營子礦區
 yingshouyingzi mining district:鹰手营子矿区
-yingshouyingzi:鷹手營子礦區
 yingshouyingzi:鹰手营子矿区
 yingshouyingzi:鹰手营子镇
 yingshu:盈墅
@@ -3665,9 +3367,7 @@ yingshui 2nd road east 7th lane:滢水二路东七巷
 yingshui 2nd road east 8th lane:滢水二路东八巷
 yingshui 2nd road east 9th lane:滢水二路东九巷
 yingshui shanzhuang phase 1:滢水山庄一区
-yingshui shanzhuang phase 1:滢水山莊一區
 yingshui villa (area 2):滢水山庄二区
-yingshui villa (area 2):滢水山莊二区
 yingshui villa 1:滢水山庄 ①
 yingshui villa 2:滢水山庄 ②
 yingshui village:颖水村
@@ -3692,7 +3392,7 @@ yingtai county people's hospital:景泰县人民医院
 yingtai furniture:赢泰家具
 yingtai road:英泰路
 yingtai south street:迎泰南街
-yingtai:櫻臺
+yingtai:櫻台
 yingtai:英台
 yingtaicun:营台村
 yingtan north railway station:鹰潭北站
@@ -3700,34 +3400,31 @@ yingtan north:鹰潭北
 yingtan stadium:鹰潭市体育场
 yingtan:yīngtán shì
 yingtan:营滩乡
-yingtan:鷹潭
-yingtan:鷹潭市
+yingtan:鹰潭
 yingtan:鹰潭市
 yingtancun:英谈村
 yingtang science & technology park:英唐科技园
 yingtangcun:英塘村
 yingtan–xiamen line:鹰厦线
-yingtan–xiamen railway:鷹廈線
 yingtan–xiamen railway:鹰厦线
 yingtan–xiamen railway:鹰厦铁路
-yingtao fude:鶯桃福德
+yingtao fude:莺桃福德
 yingtao river:樱桃河
-yingtao road section 2:鶯桃路二段
-yingtao road:桃鶯路
+yingtao road section 2:莺桃路二段
+yingtao road:桃莺路
+yingtao road:莺桃路
 yingtao road:迎涛路
-yingtao road:鶯桃路
 yingtaogou:樱桃沟
 yingtaogoucun:樱桃沟村
 yingtaogoumen:樱桃沟门
 yingtaopo:樱桃坡
 yingtaoyuan:樱桃园镇
-yingtaoyuan:櫻桃園鎮
-yingtian gate:應天門
+yingtaoyuan:櫻桃园镇
+yingtian gate:应天门
 yingtian lake:yìngtiān hú
 yingtian lake:映天湖
 yingtian temple station:应天寺站
 yingtian temple:应天府
-yingtian temple:應天府
 yingtian vocational and technical college:南京审计大学金审学院
 yingtian:yíngtián zhèn
 yingtian:营田镇
@@ -3735,19 +3432,16 @@ yingtiancun:英田村
 yingtianzhuang:营田庄村
 yingtin môhôr cun:英桃莫河村
 yingtou reservoir:鹰头水库
-yingtou:營頭鎮
 yingtou:营头镇
 yingtoucun:营头村
 yingtouding:yíngtóudǐng
 yingtouding:ㄧㄥˊㄊㄡˊㄉㄧㄥˇ
-yingtouding:營頭頂
 yingtouding:营头顶
-yingtun:營屯村
 yingtun:营屯村
 yingu road:银谷路
-yingu villas:銀谷別墅
+yingu villas:银谷別墅
 yingu villas:银谷别墅
-yinguang lane entrance (puji temple):銀光巷口(普濟寺)
+yinguang lane entrance (puji temple):银光巷口(普济寺)
 yinguang park:银光公园
 yinguang road:银光路
 yinguang shopping street:yīn guāng shāng yè jiē
@@ -3766,11 +3460,10 @@ yingvirus:嬴病毒属
 yingwa:应洼
 yingwaicun:英外村
 yingwang:英旺乡
-yingwang:英旺鄉
 yingwang:英王
 yingwangcun:营王村
 yingwanzhen station:溁湾镇站
-yingwei:營尾
+yingwei:营尾
 yingwen river:yíngwèn hé
 yingwen river:瀛汶河
 yingwen street:颖文街
@@ -3782,7 +3475,6 @@ yingwogou:鹰窝沟
 yingwogoumen:莺窝沟门
 yingwokou:鹰窝口
 yingwoshu:鹰窝树
-yingwu county township national education school, shache county:莎車縣英吾斯塘鄉國民教育學校
 yingwu county township national education school, shache county:莎车县英吾斯塘乡国民教育学校
 yingwu street:yīngwǔ jiē
 yingwu street:英武街
@@ -3794,7 +3486,6 @@ yingwulang:英武郎
 yingwusi park metro station:地铁鹦鹉寺站
 yingwusi park:yingwusigongyuan
 yingwusi park:鹦鹉寺公园
-yingwuxi:鸚鵡溪鎮
 yingwuxi:鹦鹉溪镇
 yingwuzhou yangtze river bridge:武汉鹦鹉洲长江大桥
 yingwuzhou yangtze river bridge:鹦鹉洲长江大桥
@@ -3802,27 +3493,23 @@ yingxi huizu street:迎喜回族街
 yingxi north street:瀛西北街
 yingxi road:盈溪路
 yingxi street:营西街
-yingxi village:營溪里
-yingxi village:營西里
-yingxi xiangzijiao:營西巷子角
+yingxi village:营溪里
+yingxi village:营西里
+yingxi xiangzijiao:营西巷子角
 yingxi:yíngxī
 yingxi:潁西街道
 yingxi:潆溪
 yingxi:潆溪街道
-yingxi:營溪
 yingxi:营溪
 yingxi:颍西街道
-yingxia lake park:映霞湖公園
+yingxia lake park:映霞湖公园
 yingxia street:迎夏街
 yingxia:yīngxià xiāng
 yingxia:英下乡
-yingxia:英下鄉
 yingxia:营下
 yingxian road:英贤路
 yingxian:yīng xiàn
 yingxian:应县
-yingxian:應縣
-yingxian:迎仙鎮
 yingxian:迎仙镇
 yingxiang road:迎祥路
 yingxiang:迎祥
@@ -3843,7 +3530,6 @@ yingxin:迎新村
 yingxin:迎新街街道
 yingxincun:迎新村
 yingxindong:迎新洞
-yingxing industrial park:鷹星工業園
 yingxing industrial park:鹰星工业园
 yingxinlu:yíngxīnlù jiēdào
 yingxinlu:迎新路街道
@@ -3871,7 +3557,6 @@ yingxiyu:营西峪
 yingxu park:迎旭公园
 yingxu street:映旭街
 yingxue village:萤雪里
-yingxue village:螢雪里
 yingxue1:映雪1
 yingxue2:映雪2
 yingxue3:映雪3
@@ -3881,25 +3566,22 @@ yingxue6:映雪6
 yingxue:英学
 yingya shenglan:瀛涯胜览
 yingyan:应岩村
-yingyan:英言鎮
 yingyan:英言镇
 yingyang avenue:应阳大道
 yingyang road:迎阳路
 yingyang street:迎阳街
-yingyang street:迎陽街
-yingyang:潁陽鎮
+yingyang:潁阳镇
 yingyang:迎阳
-yingyang:迎陽
 yingyang:颍阳镇
 yingyangpucun:迎阳铺村
 yingye'er road:英也尔路
 yingye:硬叶
-yingyi road:英義路
-yingyi street:英義街
+yingyi road:英义路
+yingyi street:英义街
 yingyi:迎邑
 yingyin 2nd street:影荫二街
 yingyin road:影荫路
-yingying's biography:鶯鶯傳
+yingying's biography:莺莺传
 yingying:营营
 yingyingfeng:yīngyīngfēng
 yingyingfeng:ㄧㄥㄧㄥㄈㄥ
@@ -3913,8 +3595,8 @@ yingyuan lu:应元路站
 yingyuan road:yīng yuán lù
 yingyuan road:应元路
 yingyuan road:潁源路
-yingyuan road:穎源路
 yingyuan road:营缘路
+yingyuan road:颖源路
 yingyuan street:影院街
 yingyuan:盈源
 yingyue alley:映月巷
@@ -3924,15 +3606,12 @@ yingyue:映月
 yingyuehu park station:映月湖公园站
 yingyuehu park:yìngyuè hú gōngyuán
 yingzai river:yíngzǎi hé
-yingzai river:營仔河
 yingzai river:营仔河
 yingzai:营仔镇
 yingzao fashi:营造法式
 yingze district:yíngzé qū
 yingze district:迎泽区
-yingze district:迎澤區
 yingze lake, taiyuan:太原迎泽湖
-yingze lake, taiyuan:太原迎澤湖
 yingze park:迎泽公园
 yingze street:迎泽大街
 yingze subdistrict:迎泽街道
@@ -3940,7 +3619,6 @@ yingze:yingze qu
 yingze:yíngzé jiēdào
 yingze:迎泽区
 yingze:迎泽街道
-yingze:迎澤區
 yingzhacai:英乍才
 yingzhai:映寨
 yingzhai:英寨村
@@ -3964,7 +3642,7 @@ yingzhou 2nd street:瀛洲二街
 yingzhou 3rd street:瀛洲三街
 yingzhou community:瀛洲小区
 yingzhou district:yǐngzhōu qū
-yingzhou district:潁州區
+yingzhou district:潁州区
 yingzhou district:颍州区
 yingzhou ecological park:瀛洲生态公园
 yingzhou lu entrance:瀛洲路口
@@ -3978,14 +3656,14 @@ yingzhou road:瀛洲路
 yingzhou subdistrict:瀛洲街道
 yingzhou west road:瀛州西路
 yingzhou:yíngzhōu zhèn
-yingzhou:潁州區
+yingzhou:潁州区
 yingzhou:瀛洲街道
 yingzhou:瀛洲镇
 yingzhou:英州镇
 yingzhou:颍州区
 yingzhoulu subdistrict:瀛州路街道
-yingzhuan rd. 122th. lane entrance:英專路122巷口
-yingzhuan road:英專路
+yingzhuan rd. 122th. lane entrance:英专路122巷口
+yingzhuan road:英专路
 yingzhuang:英庄镇
 yingzhuang:营庄村
 yingzhuangcun:应庄村
@@ -4003,19 +3681,16 @@ yingzicun:营孜村
 yingzidingshan:yīngzidǐngshān
 yingzidingshan:ㄧㄥㄗ˙ㄉㄧㄥˇㄕㄢ
 yingzidingshan:莺子顶山
-yingzidingshan:鶯子頂山
 yingzigoucun:应子沟村
-yingzilai:鶯仔瀨
+yingzilai:莺仔瀨
 yingzili:营子里
 yingziling:yīngzilǐng
 yingziling:ㄧㄥㄗ˙ㄌㄧㄥˇ
 yingziling:莺子岭
-yingziling:鶯子嶺
 yingzixie:营子斜
 yingzizhuang:营子庄
 yingzizuishan:yīngzǐzuǐshān
 yingzizuishan:ㄧㄥㄗˇㄗㄨㄟˇㄕㄢ
-yingzizuishan:鷹仔嘴山
 yingzizuishan:鹰仔嘴山
 yingzong emperor:英宗皇帝
 yingzong:英宗
@@ -4026,23 +3701,19 @@ yinhai aquaculture product trading center:迎海水产交易中心
 yinhai avenue north:银海大道北
 yinhai avenue south:银海大道南
 yinhai avenue:nganhoi daaidu
-yinhai avenue:銀海大道
 yinhai avenue:银海大道
 yinhai bridge:银海桥
 yinhai district:nganhoi-kei
 yinhai district:yínhǎi qū
-yinhai district:銀海區
 yinhai district:银海区
 yinhai garden:银海苑
 yinhai qu:nganhoi-kei
 yinhai qu:yínhǎi qū
-yinhai qu:銀海區
 yinhai qu:银海区
 yinhai road:银海路
 yinhai street:银海街
 yinhai:nganhoi-kei
 yinhai:yínhǎi qū
-yinhai:銀海區
 yinhai:银海区
 yinhan:银汉镇
 yinhang road jiangwancheng road:殷行路江湾城路
@@ -4050,7 +3721,7 @@ yinhang road songhu road:殷行路淞沪路
 yinhang road zhayin road:殷行路闸殷路
 yinhang road zhongyuan road:殷行路中原路
 yinhang:殷行街道
-yinhangshan:銀行山
+yinhangshan:银行山
 yinhao:银号镇
 yinhe bridge:银河大桥
 yinhe bridge:银河桥
@@ -4068,7 +3739,6 @@ yinhe reservoir:印合水库
 yinhe reservoir:银河水库
 yinhe reservoir:音河水库
 yinhe river:音河
-yinhe road:銀河路
 yinhe road:银河路
 yinhe road:银荷路
 yinhe south street:银河南街
@@ -4076,8 +3746,8 @@ yinhe square:银河广场
 yinhe street:银河街
 yinhe textile:银河纺织
 yinhe village:yínhé cūn
-yinhe waterfall:銀河瀑布
 yinhe waterfall:银河瀑
+yinhe waterfall:银河瀑布
 yinhe west road:银河西路
 yinhe:yīnhé dáwòěr èwēnkèzú xiāng
 yinhe:印盒
@@ -4086,14 +3756,12 @@ yinhe:银河村
 yinhe:银河镇
 yinhe:音河
 yinhe:音河乡
-yinhe:音河鄉
 yinheba:银河坝
 yinhebei:印河北
 yinhebeilu subdistrict:银河北路街道
 yinhecun:引河村
 yinhecun:银河村
 yinhecun:音河村
-yinhedong:銀河洞
 yinhedong:银河洞
 yinhefang:银河坊
 yinhegoucun:阴河沟村
@@ -4127,94 +3795,72 @@ yinhu community:银湖社区
 yinhu complex building:银湖综合楼
 yinhu dormitory:银湖宿舍
 yinhu experimental primary school, luohu district, shenzhen:深圳市罗湖区银湖实验小学
-yinhu experimental primary school, luohu district, shenzhen:深圳市羅湖區銀湖實驗小學
 yinhu lanshan:银湖蓝山
-yinhu mansion:銀湖公館
 yinhu mansion:银湖公馆
 yinhu memorial arch:银湖牌坊
 yinhu mountain post:银湖山驿站
 yinhu mountain trail:银湖山郊野径
-yinhu north park:銀湖北公園
 yinhu north park:银湖北公园
 yinhu resort bus terminus:银湖度假村总站
-yinhu road:銀湖路
 yinhu road:银湖路
 yinhu station of banyin boulevard:坂银大道银湖站
 yinhu station:银湖站
-yinhu villa:銀湖山莊
 yinhu villa:银湖山庄
 yinhu:yínhú shèqū
-yinhu:銀湖社區
 yinhu:银湖
 yinhu:银湖社区
 yinhua river:yínhuā hé
-yinhua river:銀花河
 yinhua river:银花河
 yinhua road:yínhuà lù
 yinhua road:银桦路
 yinhua street:银华街
-yinhua:銀花鎮
 yinhua:银华社区
 yinhua:银花镇
 yinhuabuyuan:印花布园
 yinhualu:银桦路社区
 yinhuang:yǐnhuáng
-yinhuang:尹黃
 yinhuang:尹黄
 yinhuang:银潢村
 yinhuangyingcun:尹黄营村
 yinhuashancun:尹华山村
 yinhuatai:印花台
 yinhuatun:银花屯
-yinhuchi street:飲虎池街
 yinhuchi street:饮虎池街
 yinhucun:银湖村
 yinhui reservoir:yǐnhuí shuǐkù
 yinhui reservoir:尹回水库
-yinhui road:銀暉路
 yinhui road:银晖路
-yinhui:殷匯鎮
 yinhui:殷汇镇
 yinhushancun:尹户山村
 yinian:金寄水
 yinidu:依尼独
 yining airport:伊宁机场
-yining airport:伊宁機場
 yining airport:伊犁伊宁国际机场
 yining border economic cooperation zone:伊宁边境经济合作区
 yining city:yīníng shì
 yining city:伊宁市
-yining city:伊寧市
 yining county:yīníng xiàn
 yining county:伊宁县
-yining county:伊寧縣
 yining east:伊宁东
 yining no.1 vocational senior high school:伊宁市第一职业高级中学
-yining no.1 vocational senior high school:伊寧市第一職業高級中學
 yining road:伊宁路
-yining road:伊寧路
 yining road:怡宁路
-yining street:伊寧街
+yining street:伊宁街
 yining/qulja:yíníng
 yining/qulja:伊宁市
-yining/qulja:伊寧市
 yining:yining xian
 yining:yíníng
 yining:义宁镇
 yining:伊宁
 yining:伊宁县
 yining:伊宁市
-yining:伊寧市
-yining:伊寧縣
 yining:益宁街道
-yining:益寧街道
 yiniubaozi:yīniúbǎozǐ zhèn
 yiniubaozi:依牛堡子镇
 yiniusi:宜牛寺
 yinji county people's government:尹集乡政府
 yinji shopping center:银基购物中心
 yinji:yǐnjí zhèn
-yinji:尹集鎮
 yinji:尹集镇
 yinjia'ao:尹家凹
 yinjia'ao:殷家凹
@@ -4270,17 +3916,13 @@ yinjialou:殷家楼
 yinjiamiao:殷家庙
 yinjiamo:尹家磨
 yinjian:殷涧镇
-yinjian:殷澗鎮
 yinjiang guoji huayuan:银江国际花园
 yinjiang river:yìnjiāng hé
 yinjiang river:印江河
 yinjiang tujia and miao autonomous county:yìnjiāng tǔjiāzú miáozú zìzhìxiàn
 yinjiang tujia and miao autonomous county:印江土家族苗族自治县
-yinjiang tujia and miao autonomous county:印江土家族苗族自治縣
 yinjiang:印江县
 yinjiang:印江土家族苗族自治县
-yinjiang:印江土家族苗族自治縣
-yinjiang:印江縣
 yinjiang:鄞江镇
 yinjiang:银匠
 yinjiang:银江
@@ -4346,7 +3988,6 @@ yinjiazui:尹家嘴
 yinjiazuocun:尹家佐村
 yinjie:寅街镇
 yinjifu:尹吉甫镇
-yinjifu:尹集甫鎮
 yinjifu:尹集甫镇
 yinjing bridge:引泾桥
 yinjing:引泾
@@ -4354,7 +3995,6 @@ yinke:银克
 yinkeng reservoir:yīnkēng shuǐkù
 yinkeng reservoir:阴坑垅水库
 yinkeng river:yínkēng hé
-yinkeng river:銀坑河
 yinkeng river:银坑河
 yinkeng'ao:阴坑凹
 yinkeng:银坑
@@ -4369,11 +4009,9 @@ yinkoubeng:银口泵
 yinkoucun:尹口村
 yinkun expressway:华蓥山隧道
 yinkun expressway:应家沟隧道
-yinkun expressway:銀昆高速
 yinkun expressway:银昆高速
 yinkyang ginwang:yíngjiāngxiàn
 yinkyang ginwang:盈江县
-yinkyang ginwang:盈江縣
 yinlan east road:荫兰东路
 yinlan west road:荫兰西路
 yinlang farm:yín làng mù cháng
@@ -4388,11 +4026,10 @@ yinlaocun:银老村
 yinli street:银利街
 yinli xincun:银利新邨站
 yinli:隐里
-yinlian 1st village:銀聯一村
-yinlian 2nd village:銀聯二村
-yinlian no.2 bridge:銀聯二號橋
+yinlian 1st village:银联一村
+yinlian 2nd village:银联二村
+yinlian no.2 bridge:银联二号桥
 yinlian road:银莲路
-yinlian:銀蓮
 yinlian:银莲
 yinliangyan:阴凉岩
 yinliangzhuang:尹良庄
@@ -4405,9 +4042,7 @@ yinling:垠凌
 yinlingou:阴林沟
 yinlingzhi:尹灵芝镇
 yinliu road:yínlǐu lù
-yinliu road:銀柳路
 yinliu road:银柳路
-yinliu:洇溜鎮
 yinliu:洇溜镇
 yinliucun:尹刘村
 yinliucun:洇溜村
@@ -4425,8 +4060,7 @@ yinlong road:银龙路
 yinlong south road east 3rd lane:银龙南路东三巷
 yinlong:银龙
 yinlong:银龙社区
-yinlong:隱龍屬
-yinlu apartments:銀麓公寓
+yinlong:隐龙属
 yinlu apartments:银麓公寓
 yinlu foods:银鹭食品集团
 yinlu primary school:银鹭小学
@@ -4441,13 +4075,10 @@ yinma lane:yin3 ma3 xian4
 yinma river:yinma he
 yinma river:yĭnmă hé
 yinma river:伊通河
-yinma river:飲馬河
 yinma river:饮马河
 yinma street:饮马街
-yinma:引馬鎮
 yinma:引马镇
 yinma:殷马
-yinma:飲馬鎮
 yinma:饮马镇
 yinmabin district:因马宾县
 yinmabin township:因马宾镇区
@@ -4473,7 +4104,7 @@ yinmaxia station:饮马峡站
 yinmaxia:饮马峡
 yinmazhuangcun:饮马庄村
 yinmazui:饮马咀
-yinma’store:應媽小棧
+yinma’store:应妈小棧
 yinmiao:殷庙
 yinmiaocun:殷庙
 yinmin-xinren intersection:益民新仁路口
@@ -4484,7 +4115,6 @@ yinniugang:银牛岗
 yinniugou:银牛沟
 yinniugoucun:饮牛沟村
 yinong:益农镇
-yinong:益農鎮
 yinonglu villa:逸农庐
 yinostius:尹氏鱼属
 yinpaidi:银排地
@@ -4495,20 +4125,17 @@ yinpen reservoir:银盆水库
 yinpencun:银盆村
 yinpeng:殷棚乡
 yinpenling:银盆岭街道
-yinpiaokeng:銀票坑
+yinpiaokeng:银票坑
 yinpin road:yínpǐn lù
-yinpin road:銀品路
 yinpin road:银品路
 yinping community:阴平社区
 yinping interchange:荫平互通
 yinping railway station:银瓶站
 yinping:尹坪村
 yinping:荫平镇
-yinping:銀屏鎮
 yinping:银屏镇
 yinping:银瓶
 yinping:阴平镇
-yinping:陰平鎮
 yinpo lake:yínpō hú
 yinpo lake:银坡湖
 yinpo shangcun:阴坡上村
@@ -4522,7 +4149,7 @@ yinpotai:阴坡台
 yinpoyuan:阴坡院
 yinpozhuang:阴坡庄
 yinpozui:阴坡咀
-yinpterochiroptera:陰翼手亞目
+yinpterochiroptera:阴翼手亚目
 yinqiao avenue metro station:地铁银桥大道站
 yinqiao avenue:yinqiaodadao
 yinqiao avenue:银桥大道
@@ -4535,18 +4162,15 @@ yinqiaodadao:银桥大道
 yinqing road at yanghebang road:寅青路洋河浜路
 yinqing:银青
 yinqiu:吟秋
-yinquan garden:銀泉花園
 yinquan garden:银泉花园
 yinquan hotel:银泉酒店
 yinquan north road:银泉北路
 yinquan road north:银泉北路
 yinquan street:银泉街
-yinquan:飲泉
 yinquan:饮泉
 yinquancun:尹圈村
 yinqueshan han slips:银雀山汉墓
 yinqueshan han tombs bamboo slips museum:银雀山汉墓
-yinqueshan:銀雀山街道
 yinqueshan:银雀山街道
 yinranchang community:印染厂社区
 yinrong:阴绒
@@ -4561,7 +4185,7 @@ yinshan hu station:尹山湖站
 yinshan road:银山路
 yinshan road:银杉路
 yinshan rock paintings:阴山岩画
-yinshan street:銀杉街
+yinshan street:银杉街
 yinshan subdistrict:银山街道
 yinshan temple:淡水鄞山寺
 yinshan xincun:银山新村
@@ -4570,7 +4194,6 @@ yinshan:yínshān
 yinshan:印山
 yinshan:因山
 yinshan:荫山
-yinshan:銀山鎮
 yinshan:银山
 yinshan:银山街道
 yinshan:银山镇
@@ -4597,33 +4220,28 @@ yinsheying:尹蛇营
 yinshi community:荫市社区
 yinshicun:荫市村
 yinshiling:吟石岭
-yinshuei sihyuan pool:飲水思源池
+yinshuei sihyuan pool:饮水思源池
 yinshui road:饮水路
 yinshui street:引水街
 yinshui:尹水
 yinshui:引水
 yinshuitang:银水塘
 yinshuwan:银树塆
-yinsi:寅寺鎮
 yinsi:寅寺镇
 yinsigou:阴司沟
 yinsimiao:印寺庙
 yinsiyuancun:殷寺院村
 yinsiyuecun:尹四岳村
 yinsugaiti glacier:音苏盖提冰川
-yintai business hotel:銀泰商務酒店
 yintai business hotel:银泰商务酒店
 yintai district:yìntái qū
 yintai district:印台区
-yintai district:印台區
 yintai garden:银泰苑
 yintai shopping center:银泰百货
 yintai street:银泰街
 yintai:yìntái jiēdào
 yintai:印台区
 yintai:印台街道
-yintai:印臺區
-yintaidi mansion:銀台第博物館
 yintaidi mansion:银台第博物馆
 yintan 1st alley:银潭一巷
 yintan 1st road:银潭一路
@@ -4635,16 +4253,13 @@ yintan lu:银滩路
 yintan middle road:银潭中路
 yintan railway station:银滩站
 yintan river:yǐntán xī
-yintan road subdistrict:銀灘路街道
 yintan road subdistrict:银滩路街道
 yintan road:银滩路
 yintan tide street:银滩潮街
 yintan-binhai road crossing:银滩滨海路口
 yintan:银滩镇
 yintan:阴滩
-yintang east rd.:銀塘东路
 yintang east rd.:银塘东路
-yintang west rd.:銀塘西路
 yintang west rd.:银塘西路
 yintang:印塘乡
 yintang:尹堂
@@ -4658,11 +4273,9 @@ yintangwa:殷塘洼
 yintangzicun:印堂子村
 yintanlu:银滩路街道
 yintian creative park:银田创意园
-yintian industrial road:銀田工業路
 yintian industrial road:银田工业路
 yintian reservoir:银田水库
 yintian road:银田路
-yintian xifa yongqi science & technology park:銀田西發雍啟科技園
 yintian xifa yongqi science & technology park:银田西发雍启科技园
 yintian:荫田镇
 yintian:银田镇
@@ -4704,15 +4317,12 @@ yinxi:尹喜
 yinxi:音西
 yinxi:音西街道
 yinxian:隐贤镇
-yinxian:隱賢鎮
 yinxiang bridge:殷巷桥
 yinxiang chengdu hotpot:印象成都火锅
 yinxiang hospital:殷巷卫生院
-yinxiang road:銀翔路
 yinxiang road:银翔路
 yinxiang road:银象路
 yinxiang:殷巷
-yinxiang:殷巷鎮
 yinxiang:殷巷镇
 yinxianggongcun:银相公村
 yinxiao mountain villa:吟啸山庄
@@ -4725,13 +4335,10 @@ yinxiliang:印西梁
 yinxin jiayuan:银杏家园
 yinxin square:银信广场
 yinxincun:银新村
-yinxing avenue:銀杏大道
 yinxing avenue:银杏大道
 yinxing boulevard:银杏大道
-yinxing garden:銀興苑
 yinxing garden:银兴苑
 yinxing primary school:银杏小学
-yinxing road:銀行路
 yinxing road:银杏路
 yinxing road:银行路
 yinxing tunnel:银杏隧道
@@ -4757,7 +4364,6 @@ yinxu culture:殷墟文化
 yinxu road:殷墟路
 yinxu:殷墟
 yinxuan building:银轩大厦
-yinya residence:銀雅居
 yinya residence:银雅居
 yinya:阴崖
 yinyan road:yín yàn lù
@@ -4765,9 +4371,9 @@ yinyan road:银燕路
 yinyan:阴岩
 yinyang 1st street:银洋一街
 yinyang industrial park junction flyover:银洋工业区路口跨线桥
-yinyang sea:陰陽海
+yinyang sea:阴阳海
 yinyanggedu:阴阳圪堵
-yinyanggong:陰陽司
+yinyanggong:阴阳司
 yinyanghe:饮羊河
 yinyangshanzhuang:阴阳山庄
 yinyangzhao:阴阳赵镇
@@ -4781,7 +4387,7 @@ yinyequan road:银液泉路
 yinyequanstraße:银液泉
 yinyequanstraße:银液泉路
 yinyeyuan:银叶苑
-yinyi falls:藝音瀑布
+yinyi falls:艺音瀑布
 yinyin:银印站
 yinying coal mine community:荫营煤矿社区
 yinying east avenue:荫营东大街
@@ -4789,14 +4395,12 @@ yinying highway:银英公路
 yinying town:荫营镇
 yinying west avenue:荫营西大街
 yinying:荫营镇
-yinying:陰影
+yinying:阴影
 yinyingshan:yīnyǐngshān
 yinyingshan:ㄧㄣㄧㄥˇㄕㄢ
 yinyingshan:阴影山
-yinyingshan:陰影山
 yinyizhuang:尹移庄
 yinyu ye:叶荫宇
-yinyu:銀嶼社區
 yinyu:银屿社区
 yinyuan bridge:银苑桥
 yinyuan road:银源路
@@ -4804,16 +4408,15 @@ yinyuan:因远镇
 yinyue park:yīnlègōngyuán
 yinyue park:ㄧㄣㄌㄜˋㄍㄨㄥㄩㄢˊ
 yinyue park:音乐公园
-yinyue park:音樂公園
 yinyue square:音乐广场
 yinyuequanstraße:银液泉路
 yinyuetai:音悦台
-yinyuezhisheng garden:茵悅之生花園
+yinyuezhisheng garden:茵悅之生花园
 yinyuezhisheng garden:茵悦之生花园
 yinyuezhisheng:茵悦之生
 yinyun road:银云路
 yinyuwan:殷喻湾
-yinzha hutong:銀閘胡同
+yinzha hutong:银閘胡同
 yinzha hutong:银闸胡同
 yinzhagan guole river:yīnzhāgān guōlè
 yinzhagan guole river:音扎干郭勒
@@ -4821,15 +4424,15 @@ yinzhai:阴寨
 yinzhaicun:尹寨村
 yinzhaicun:殷宅村
 yinzhaicun:殷寨村
-yinzhan forest farm:銀盞林場
 yinzhan forest farm:银盏林场
+yinzhan forest farm:银盞林场
 yinzhan monorail yard:银盏停车场
 yinzhan railway station:城轨银盏站
-yinzhan railway station:銀盞站
 yinzhan railway station:银盏站
-yinzhan:銀盞鎮
+yinzhan railway station:银盞站
 yinzhan:银盏
 yinzhan:银盏镇
+yinzhan:银盞镇
 yinzhancun:银盏村
 yinzhang:银丈
 yinzhangzicun:银杖子村
@@ -4847,29 +4450,22 @@ yinzhou avenue:银洲大道
 yinzhou district:yínzhōu qū
 yinzhou district:鄞州
 yinzhou district:鄞州区
-yinzhou district:鄞州區
-yinzhou district:銀州區
 yinzhou district:银州区
 yinzhou foreign languages ​​middle school:鄞州外国语中学
 yinzhou library:鄞州图书馆
 yinzhou qu:yínzhōu qū
 yinzhou qu:鄞州
 yinzhou qu:鄞州区
-yinzhou qu:鄞州區
 yinzhou:yinzhou qu
 yinzhou:yínzhōu qū
 yinzhou:鄞州
 yinzhou:鄞州区
-yinzhou:鄞州區
-yinzhou:銀州區
 yinzhou:银州区
 yinzhu street:银竹街
 yinzhu:银竹
 yinzhu:隐珠街道
-yinzhu:隱珠街道
 yinzhuang experimental middle school:殷庄实验中学
 yinzhuang:印庄镇
-yinzhuang:印莊鎮
 yinzhuang:尹庄
 yinzhuang:尹庄乡
 yinzhuang:尹庄村
@@ -4884,7 +4480,6 @@ yinzhuangcun:阴庄村
 yinzhuangzicun:尹庄子村
 yinzi'aowan:印字凹湾
 yinzi:荫子镇
-yinzi:蔭子鎮
 yinzi:银子
 yinziba:印子坝
 yinzicun:窨子村
@@ -4894,7 +4489,7 @@ yinzigoucun:尹子沟村
 yinzigoucun:窨子沟村
 yinzihe:银子河
 yinzihecun:银子河村
-yinzily:英芝麗
+yinzily:英芝丽
 yinzishan reservoir:yìnzǐshān shuǐkù
 yinzishan reservoir:印子山水库
 yinziwa:印子洼
@@ -4903,94 +4498,80 @@ yinziwan:印子湾
 yinziwangcun:银子旺村
 yinziwangcun:银子王村
 yinzizui:印子嘴
-yinzizui:鷹仔嘴
+yinzizui:鹰仔嘴
 yinznanz:yúnnán
 yinznanz:云南省
-yinznanz:雲南省
 yinzuo shopping mall:银座商城
 yio chu kang mrt station:杨厝港地铁站
 yio chu kang smc:杨厝港单选区
-yio chu kang stadium:楊厝港體育場
+yio chu kang stadium:杨厝港体育场
 yio chu kang:杨厝港
-yiong con ziin:楊長鎮
+yiong con ziin:杨长镇
 yiong tsangpo:易贡藏布
-yip ancestral hall:葉氏宗祠
-yip cheong building:業昌大廈
-yip cheong street:業暢街
-yip cheung centre:業昌中心
-yip chi ho:葉志豪
-yip fat street public toilet:業發街公廁
-yip fat street:業發街
-yip fung building:業豐大廈
-yip fung industrial building:業豐工業大廈
-yip fung street:業豐街
-yip hing street:業興街
+yip ancestral hall:叶氏宗祠
+yip cheong building:业昌大厦
+yip cheong street:业畅街
+yip cheung centre:业昌中心
+yip chi ho:叶志豪
+yip fat street public toilet:业发街公厕
+yip fat street:业发街
+yip fung building:业丰大厦
+yip fung industrial building:业丰工业大厦
+yip fung street:业丰街
+yip hing street:业兴街
 yip hon weng:叶汉荣
-yip hon:葉漢
-yip kai foon:葉繼歡
-yip kan street:業勤街
-yip kit chuen building:葉傑全樓
-yip kwong industrial building:業廣工商大廈
-yip kwong industrial building:業廣工業樓
+yip hon:叶汉
+yip kai foon:叶继欢
+yip kan street:业勤街
+yip kit chuen building:叶杰全楼
+yip kwong industrial building:业广工业楼
+yip kwong industrial building:业广工商大厦
 yip ning building:业宁大厦
-yip ning building:業寧大廈
-yip on factory estate site:業安工廠大廈用地
+yip on factory estate site:业安工厂大厦用地
 yip pin xiu:叶品秀
-yip pui yin:葉姵延
-yip sai wing:葉世榮
+yip pui yin:叶姵延
+yip sai wing:叶世荣
 yip sang:叶春田
 yip shing industrial centre:业成工业中心
-yip shing industrial centre:業成工業中心
-yip shing street kwai chung:葵涌業成街
+yip shing street kwai chung:葵涌业成街
 yip shing street playground:业成街游乐场
-yip shing street playground:業成街遊樂場
 yip shing street:业成街
-yip shing street:業成街
 yip sin house:业善楼
-yip sin house:業善樓
 yip tak house:业德楼
-yip tak house:業德樓
-yip tin shing:葉天成
-yip tsz chun:葉子俊
-yip tsz fung:葉梓豐
+yip tin shing:叶天成
+yip tsz chun:叶子俊
+yip tsz fung:叶梓丰
 yip tsz house:业慈楼
-yip tsz house:業慈樓
-yip wai hong:葉惠康
-yip win factory building:業運工業大廈
-yip wing sie:葉詠詩
+yip wai hong:叶惠康
+yip win factory building:业运工业大厦
+yip wing sie:叶咏诗
 yip wo house:业和楼
-yip wo house:業和樓
-yip wo street:業和街
+yip wo street:业和街
 yip wong estate:业旺邨
-yip wong estate:業旺邨
-yip wong road public toilet:業旺路公廁
-yip wong road:業旺路
-yip yee mansion:業漁大廈
-yip's ancestral hall:葉氏宗祠
-yip's ancestral hall:葉氏家祠
-yip's chemical building:葉氏化工大廈
+yip wong road public toilet:业旺路公厕
+yip wong road:业旺路
+yip yee mansion:业渔大厦
+yip's ancestral hall:叶氏宗祠
+yip's ancestral hall:叶氏家祠
+yip's chemical building:叶氏化工大厦
 yipanzhuangcun:一畔庄村
 yipeng junior middle school:义朋初级中学
 yipeng station:义蓬站
 yipeng:义朋
 yipeng:义蓬
 yipeng:义蓬街道
-yipeng:義蓬街道
 yipengcun:一彭村
 yipengwan:一彭塆
-yipin buyi:一品布衣湯烤鍋王
+yipin buyi:一品布衣汤烤锅王
 yipin city park:一品公园
-yipin city park:一品公園
 yipin huang restaurant:一品煌
 yipin middle school:一品中学
 yipin park:yīpǐngōngyuán
 yipin park:ㄧㄆㄧㄣˇㄍㄨㄥㄩㄢˊ
 yipin park:一品公园
-yipin park:一品公園
 yipin river:一品河
 yipin:一品街道
 yiping park:怡平公园
-yiping park:怡平公園
 yiping rd. intersection:怡平路口
 yiping road:怡平路
 yiping village:怡平里
@@ -5012,28 +4593,26 @@ yipule:宜普勒
 yipunancun:一铺南村
 yipushu:依普书村
 yipuxicun:一铺西村
+yiqi:义崎
 yiqi:奕棋镇
 yiqi:益其
-yiqi:義崎
 yiqiamolietao:依洽莫咧掏
 yiqian:依千村
 yiqian:驿前镇
 yiqiancun:翼浅村
 yiqianshangcun:一前晌村
 yiqiao bridge east:怡桥东
-yiqiao shaved ice:義巧冰城
+yiqiao shaved ice:义巧冰城
 yiqiao:义桥镇
-yiqiao:義橋鎮
-yiqiaomo:伊喬莫
+yiqiaomo:伊乔莫
 yiqiaomoshan:yīqiáomòshān
 yiqiaomoshan:ㄧㄑㄧㄠˊㄇㄛˋㄕㄢ
 yiqiaomoshan:伊乔莫山
-yiqiaomoshan:伊喬莫山
 yiqiaoqiaobei:一桥桥北
-yiqiaozi:義橋子
+yiqiaozi:义桥子
 yiqida:宜其达
 yiqie tunnel:以且隧道
-yiqiejing yinyi:一切經音義
+yiqiejing yinyi:一切经音义
 yiqimo:意气嫫
 yiqing road:宜青路
 yiqing road:怡情路
@@ -5061,17 +4640,14 @@ yiquanmacun:椅圈马村
 yiqueshan:yìquèshān
 yiqueshan:ㄧˋㄑㄩㄝˋㄕㄢ
 yiqueshan:义确山
-yiqueshan:義確山
 yiquexiashan:yìquèxiàshān
 yiquexiashan:ㄧˋㄑㄩㄝˋㄒㄧㄚˋㄕㄢ
 yiquexiashan:义确下山
-yiquexiashan:義確下山
 yiqugu:依曲姑村
 yiqujie:怡趣街站
 yiqun bridge (northeast):yìqúnqiáodōngnáncè
 yiqun bridge (northeast):ㄧˋㄑㄩㄣˊㄑㄧㄠˊㄉㄨㄥㄋㄢˊㄘㄜˋ
 yiqun bridge (northeast):益群桥东南侧
-yiqun bridge (northeast):益群橋東南側
 yiqun road (demin road intersection):益群路(德民路口)
 yiqun road:益群路
 yiqên:yìqìng xiāng
@@ -5088,59 +4664,55 @@ yire:依惹村
 yiren civil activity center:yìrénshìmínhuódòngzhōngxīn
 yiren civil activity center:ㄧˋㄖㄣˊㄕˋㄇㄧㄣˊㄏㄨㄛˊㄉㄨㄥˋㄓㄨㄥㄒㄧㄣ
 yiren civil activity center:义仁市民活动中心
-yiren civil activity center:義仁市民活動中心
-yiren elementary school:依仁國小
+yiren elementary school:依仁国小
 yiren lake:伊人湖
-yiren park:義仁公園
+yiren park:义仁公园
 yiren pedestrian street:依仁路步行街
 yiren police station:依仁派出所
 yiren road:yī rén lù
+yiren road:义仁路
 yiren road:依仁路
-yiren road:義仁路
 yiren street:宜仁街
-yiren village green home:義仁里綠家園
+yiren village green home:义仁里绿家园
+yiren village:义仁村
 yiren village:义仁里
-yiren village:義仁村
-yiren village:義仁里
+yiren:义仁
 yiren:亦仁村
-yiren:義仁
 yirencun:诣仁村
 yirengou:义仁沟
 yirenkeng road:薏仁坑路
 yirenkeng:薏仁坑
 yirga cheffe:耶加雪夫
-yiri arts taichung space:伊日藝術台中空間
+yiri arts taichung space:伊日艺术台中空间
 yiri bridge:依日大桥
 yiri:易日
 yiridougou:伊里杜古
 yirihai:乙日亥
-yiriwan:埃里溫
-yiriwan:葉里溫
-yirol:伊羅勒
+yiriwan:叶里温
+yiriwan:埃里温
+yirol:伊罗勒
 yirong:义容镇
-yirong:益榮
-yirrkala calyptra:根冠細鋤蛇鰻
-yirrkala chaselingi:蔡氏細鋤蛇鰻
-yirrkala fusca:棕細鋤蛇鰻
-yirrkala gjellerupi:吉氏細鋤蛇鰻
-yirrkala insolitus:喜貝細鋤蛇鰻
-yirrkala kaupii:庫氏細鋤蛇鰻
-yirrkala macrodon:大牙細鋤蛇鰻
-yirrkala maculata:斑紋細鋤蛇鰻
-yirrkala moluccensis:摩鹿加細鋤蛇鰻
-yirrkala moorei:穆爾細鋤蛇鰻
-yirrkala ori:口細鋤蛇鰻
+yirong:益荣
+yirrkala calyptra:根冠细鋤蛇鳗
+yirrkala chaselingi:蔡氏细鋤蛇鳗
+yirrkala fusca:棕细鋤蛇鳗
+yirrkala gjellerupi:吉氏细鋤蛇鳗
+yirrkala insolitus:喜贝细鋤蛇鳗
+yirrkala kaupii:库氏细鋤蛇鳗
+yirrkala macrodon:大牙细鋤蛇鳗
+yirrkala maculata:斑纹细鋤蛇鳗
+yirrkala moluccensis:摩鹿加细鋤蛇鳗
+yirrkala moorei:穆尔细鋤蛇鳗
+yirrkala ori:口细鋤蛇鳗
 yirui biotech industrial park:易瑞生物产业园
-yirui biotech industrial park:易瑞生物產業園
 yirui primary school:怡瑞小学
-yiruma:李閏珉
+yiruma:李闰珉
 yirunxincheng community:伊润新城社区
 yisa yu:郁可唯
 yisa:依萨
 yisa:宜洒
 yisa:迤萨
 yisa:迤萨镇
-yisai technology park:易賽科技園
 yisai technology park:易赛科技园
 yisai:已塞
 yisan road section 2:宜三路二段
@@ -5152,14 +4724,11 @@ yisen môd gaqaa:伊逊毛都嘎查
 yisen môd:伊逊毛都
 yiser:xunhua salarzu zizhixian
 yiser:循化撒拉族自治县
-yiser:循化撒拉族自治縣
 yisha village:义沙村
 yishan & sec. 1, xinshi 1st intersection:yìshānxīnshìyīlùkǒu
 yishan & sec. 1, xinshi 1st intersection:ㄧˋㄕㄢㄒㄧㄣㄕˋㄧㄌㄨˋㄎㄡˇ
 yishan & sec. 1, xinshi 1st intersection:义山新市一路口
-yishan & sec. 1, xinshi 1st intersection:義山新市一路口
 yishan & xinshi 2nd rd. intersection:义山新市二路口
-yishan & xinshi 2nd rd. intersection:義山新市二路口
 yishan bridge:义山桥
 yishan county:宜山县
 yishan crossing:宜山路口
@@ -5169,9 +4738,8 @@ yishan mountain forest park:沂山国家森林公园
 yishan park:遗山公园
 yishan reservoir:yǐshān shuǐkù
 yishan reservoir:椅山水库
-yishan reservoir:椅山水庫
-yishan road section 1:義山路一段
-yishan road section 2:義山路二段
+yishan road section 1:义山路一段
+yishan road section 2:义山路二段
 yishan road station:宜山路站
 yishan road:依山路
 yishan road:倚山路
@@ -5179,23 +4747,19 @@ yishan road:宜山路
 yishan road:沂山路
 yishan road:移山路
 yishan temple (next to the park):壹善堂(旁公园)
-yishan temple (next to the park):壹善堂(旁公園)
 yishan temple:一善堂
 yishan village:义山里
-yishan village:義山里
-yishan wong:黃易山
+yishan wong:黄易山
 yishan yining:一宁
 yishan:一山
 yishan:义山村
 yishan:伊山
-yishan:伊山鎮
 yishan:伊山镇
 yishan:宜山
-yishan:宜山鎮
 yishan:宜山镇
 yishan:峄山
 yishan:峄山镇
-yishan:嶧山鎮
+yishan:嶧山镇
 yishan:椅山
 yishan:移山乡
 yishanchong:下垌村义山冲
@@ -5212,7 +4776,7 @@ yishanyuan farm:颐山园农场
 yishao:宜哨
 yishayi:乙沙一
 yishecun:一社村
-yisheg women's dorm:宜聖學苑
+yisheg women's dorm:宜圣学苑
 yisheng branch road:义盛支路
 yisheng hao ting:怡盛豪庭
 yisheng road station:逸盛路站
@@ -5226,57 +4790,48 @@ yishengguan:一升馆
 yishenghuang:义生黄
 yishengtang:义生堂
 yishengyuan shopping center:易生园购物中心
-yishengyuan shopping center:易生園購物中心
 yishengyuan:义盛源
-yishi bridge:義士橋
+yishi bridge:义士桥
 yishi temple:yìshìcí
 yishi temple:ㄧˋㄕˋㄘˊ
 yishi temple:义士祠
-yishi temple:義士祠
 yishi:依史村
-yishi:猗氏鎮
 yishi:猗氏镇
-yishian elementary school:義賢國小
+yishian elementary school:义贤国小
 yishicun:义士村
 yishifeng:yìshìfēng
 yishifeng:ㄧˋㄕˋㄈㄥ
 yishifeng:义士峰
-yishifeng:義士峰
 yishigou:义事沟
-yishih road section 5:義士路五段
+yishih road section 5:义士路五段
 yishiha:亦失哈
-yishiji:以是給
+yishiji:以是给
 yishiluo:以史洛村
 yishion:以纯
 yishisi:迤什寺
-yishou 1st street:益壽一街
-yishou 2nd street:益壽二街
-yishou 5th street:益壽五街
-yishou 8th street:益壽八街
+yishou 1st street:益寿一街
+yishou 2nd street:益寿二街
+yishou 5th street:益寿五街
+yishou 8th street:益寿八街
 yishou bridge:yīshòuqiáo
 yishou bridge:ㄧㄕㄡˋㄑㄧㄠˊ
-yishou bridge:一壽橋
 yishou bridge:一寿桥
 yishou road:益寿路
 yishou road:颐寿路
 yishou street:益寿街
-yishou village:奕壽里
 yishou village:奕寿里
 yishoutang company:益寿堂药材公司
 yishoutang logistics center:益寿堂物流中心
 yishu kindergarten:艺术幼儿园
 yishu st. / ln. 90, yishu st.:艺术街艺术街90巷口
-yishu st. / ln. 90, yishu st.:藝術街藝術街90巷口
-yishuan japanese restaurant:風味茶館
+yishuan japanese restaurant:风味茶馆
 yishui county:沂水县
-yishui county:沂水縣
 yishui park:怡水公园
 yishui river:宜水
 yishui river:浯水
 yishui:yìshuǐ zhèn
 yishui:一隧
 yishui:沂水县
-yishui:溢水鎮
 yishui:溢水镇
 yishuihucun:易水湖村
 yishuling:宜树岭村
@@ -5286,31 +4841,28 @@ yishun n8 park:义顺n8公园
 yishun north neighbourhood police centre:义顺北邻里警局
 yishun stadium:义顺体育场
 yishun station:义顺站
-yishun station:義順站
 yishun walk:义顺径
 yishun:yìshùn měnggǔzú xiāng
 yishun:义顺
 yishun:义顺蒙古族乡
 yishun:义顺镇
-yishun:義順
-yishutiandi:藝墅天地
+yishutiandi:艺墅天地
 yishuv:依舒夫
 yishuzhongxin:艺术中心
 yisi:依斯
-yisin 1st road intersection (lrt lizinei station):一心一路口(輕軌籬仔內站)
+yisin 1st road intersection (lrt lizinei station):一心一路口(轻轨籬仔內站)
 yisin 1st road:一心一路
 yisin 2nd road:一心二路
 yisin ail:伊逊艾勒
-yisin river:義興溪
+yisin river:义兴溪
 yisin road:一心路
-yising street:義興街
+yising street:义兴街
 yising vil. park:义兴村休闲公园
-yising vil. park:義興村休閒公園
 yisirayeri:yǐsèliè
 yisirayeri:以色列
 yisong:一松
 yisongshenzhen company:羿松深圳公司
-yisr al-shugur:吉斯爾舒古爾
+yisr al-shugur:吉斯尔舒古尔
 yisrael beiteinu:以色列是我们的家园
 yisraelän:yǐsèliè
 yisraelän:以色列
@@ -5318,21 +4870,18 @@ yisuhe:yìsúhé zhèn
 yisuhe:易俗河镇
 yisui:一隧
 yisunsin square statue of yi sun-sin:李舜臣广场李舜臣铜像
-yisunsin square statue of yi sun-sin:李舜臣廣場李舜臣銅像
 yisunsin square:李舜臣广场
-yisunsin square:李舜臣廣場
 yisuojie:依所解村
 yisûn ail:伊斯艾里
-yit foh:益和雲吞麵
+yit foh:益和云吞面
+yit-yòng-sṳ:益阳
 yit-yòng-sṳ:益阳市
-yit-yòng-sṳ:益陽
-yit-yòng-sṳ:益陽市
 yitai:一台
 yitaiyuan central community:怡泰园中心社区
 yitale:yìdàlì
+yitale:义大利
 yitale:意大利
-yitale:意大利 / 義大利
-yitale:義大利
+yitale:意大利 / 义大利
 yitale:邑他勒
 yitan:衣滩
 yitang north road:义塘北路
@@ -5344,17 +4893,13 @@ yitang zhang:张益唐
 yitang:义堂镇
 yitang:义棠镇
 yitang:伊塘镇
-yitang:沂堂鎮
 yitang:沂堂镇
 yitang:溢塘
-yitang:義堂鎮
-yitang:義棠鎮
-yitang:議堂鎮
 yitang:议堂镇
 yitangcun:易塘村
 yitangcun:益塘村
 yitao:沂涛镇
-yitao:沂濤鎮
+yitao:沂濤镇
 yitaoju 1st street:逸涛居一街
 yitaoju 2nd street:逸涛居二街
 yitaoju 3rd street:逸涛居三街
@@ -5374,19 +4919,17 @@ yitian garden:益田花园
 yitian haoyuanju residential area:益田豪园居
 yitian holiday plaza shopping center:益田假日广场购物中心
 yitian holiday plaza:益田假日广场
-yitian holiday plaza:益田假日廣場
 yitian middle road:益田中路
 yitian primary school:益田小学
 yitian rd:益田路
 yitian river:yìtián hé
 yitian river:义田河
-yitian river:義田河
 yitian road:yǐtiān lù
 yitian road:倚天路
 yitian road:益田路
 yitian station:益田站
+yitian temple:义天宮
 yitian temple:乙天宮
-yitian temple:義天宮
 yitian village south:益田村南
 yitian village:益田村
 yitian west street:益田西街
@@ -5395,16 +4938,14 @@ yitian:义田
 yitian:益田
 yitian:益田村
 yitian:益田社区
-yitian:益田社區
 yitiancun:义田村
 yitianmen reservoir:易天门水库
 yitiaoshan:一条山镇
 yitiewangcun:一帖王村
-yitimliqum:依提木孔鎮
 yitimliqum:依提木孔镇
-yiting village:義亭村
+yiting village:义亭村
 yiting xuan:逸庭轩
-yiting:義亭
+yiting:义亭
 yiting:议亭村
 yiting:驿亭镇
 yitingcun:仪停村
@@ -5418,14 +4959,12 @@ yitong 6th road:翼通六路
 yitong county:伊通县
 yitong manchu autonomous county:yītōng mǎnzú zìzhìxiàn
 yitong manchu autonomous county:伊通满族自治县
-yitong manchu autonomous county:伊通滿族自治縣
-yitong park:伊通公園
+yitong park:伊通公园
 yitong river:yītōng hé
 yitong river:yītŏng hé
 yitong river:伊通河
 yitong st. & chang'an rd. intersection:yītōngzhǎngānlùkǒu
 yitong st. & chang'an rd. intersection:ㄧㄊㄨㄥㄓㄤˇㄢㄌㄨˋㄎㄡˇ
-yitong st. & chang'an rd. intersection:伊通長安路口
 yitong st. & chang'an rd. intersection:伊通长安路口
 yitong street:义通街
 yitong street:伊通街
@@ -5433,10 +4972,8 @@ yitong town:伊通镇
 yitong:yītōng zhèn
 yitong:伊通
 yitong:伊通县
-yitong:伊通縣
 yitong:伊通镇
 yitongbei:yītǒngbēi
-yitongbei:一統碑
 yitongbei:一统碑
 yitou primary school:邑头小学
 yitou:益头
@@ -5451,139 +4988,120 @@ yitucun:一图村
 yituli river:yītúlĭ hé
 yitulihe:yītúlǐhé zhèn
 yitulihe:伊图里河镇
-yitulihe:伊圖里河鎮
-yitun bridge:伊屯橋
+yitun bridge:伊屯桥
 yitun:乙屯
 yitun:伊屯
 yitun:益屯
 yitunbulake:依吞布拉克镇
 yituo:一拖
-yiu chak house:耀澤樓
-yiu cheong building:耀昌大廈
+yiu chak house:耀泽楼
+yiu cheong building:耀昌大厦
 yiu cheong house:耀昌楼
-yiu cheong house:耀昌樓
-yiu cheong lung building:耀昌隆大樓
+yiu cheong lung building:耀昌隆大楼
 yiu cheuk yin:姚卓然
-yiu chung building:耀中大廈
-yiu chung house:耀頌樓
+yiu chung building:耀中大厦
+yiu chung house:耀颂楼
 yiu dau ping:jiu4 dau2 ping4
-yiu dau ping:搖斗坪
-yiu fai house:耀輝樓
+yiu dau ping:摇斗坪
 yiu fai house:耀辉楼
-yiu fai mansion:耀輝大廈
-yiu foo house:耀富樓
+yiu fai mansion:耀辉大厦
+yiu foo house:耀富楼
 yiu fook house:耀福楼
-yiu fook house:耀福樓
-yiu fu house:耀富樓
-yiu fung house tin yiu estate:天耀邨耀豐樓
+yiu fu house:耀富楼
+yiu fung house tin yiu estate:天耀邨耀丰楼
 yiu fung house:耀丰楼
-yiu fung house:耀豐樓
-yiu fung store:么鳳
-yiu fung store:么鳳士多
-yiu hei house:耀熹閣
-yiu him house yiu on estate:耀安邨耀謙樓
-yiu him house:耀謙樓
+yiu fung store:么凤
+yiu fung store:么凤士多
+yiu hei house:耀熹阁
+yiu him house yiu on estate:耀安邨耀谦楼
+yiu him house:耀谦楼
 yiu hing house yiu tung estate:耀东村耀兴楼
-yiu hing house yiu tung estate:耀東邨耀興樓
+yiu hing house yiu tung estate:耀东邨耀兴楼
 yiu hing house:耀兴楼
-yiu hing house:耀興樓
 yiu hing road:耀兴道
-yiu hing road:耀興道
 yiu ho ming:姚浩明
-yiu hok man:姚學文
-yiu hong house:耀康樓
-yiu kam building:耀錦大樓
-yiu kee restaurant:堯記餐廳小廚
+yiu hok man:姚学文
+yiu hong house:耀康楼
+yiu kam building:耀锦大楼
 yiu kee restaurant:尧记餐厅小厨
-yiu kee steel works co. ltd.:耀記鋼鐵工程
-yiu kei mansion:耀基大樓
-yiu kit ching:姚潔貞
-yiu kwai house yiu tung estate:耀東邨耀貴樓
-yiu kwai house:耀貴樓
-yiu lian dockyards limited:友聯船廠有限公司
+yiu kee steel works co. ltd.:耀记钢铁工程
+yiu kei mansion:耀基大楼
+yiu kit ching:姚洁贞
+yiu kwai house yiu tung estate:耀东邨耀贵楼
+yiu kwai house:耀贵楼
+yiu lian dockyards limited:友联船厂有限公司
 yiu lok house:耀乐楼
-yiu lok house:耀樂樓
-yiu lun house:耀麟閣
-yiu lung house:耀隆樓
-yiu man house tin yiu estate:天耀邨耀民樓
-yiu man house:耀民樓
+yiu lun house:耀麟阁
+yiu lung house:耀隆楼
+yiu man house tin yiu estate:天耀邨耀民楼
+yiu man house:耀民楼
 yiu ming building:耀明大厦
-yiu ming building:耀明大廈
-yiu ming building:耀明樓
-yiu ming house wah ming estate:華明邨耀明樓
-yiu ming house yiu tung estate:耀東邨耀明樓
+yiu ming building:耀明楼
+yiu ming house wah ming estate:华明邨耀明楼
+yiu ming house yiu tung estate:耀东邨耀明楼
 yiu ming house:耀明楼
-yiu ming house:耀明樓
-yiu on bus terminus:耀安巴士總站
-yiu on estate multi-storey car park:耀安邨多層停車場
+yiu on bus terminus:耀安巴士总站
+yiu on estate multi-storey car park:耀安邨多层停车场
 yiu on estate:耀安邨
 yiu on house:耀安楼
-yiu on house:耀安樓
 yiu on market:耀安街市
-yiu on public transport interchange, ma on shan:馬鞍山耀安公共運輸交匯處
-yiu on shopping centre:耀安商場
+yiu on public transport interchange, ma on shan:马鞍山耀安公共运输交汇处
+yiu on shopping centre:耀安商场
 yiu on:耀安
 yiu pak leung:姚柏良
-yiu ping house:耀平樓
-yiu po mansion:耀寶大廈
-yiu pont house:耀邦大廈
+yiu ping house:耀平楼
+yiu po mansion:耀宝大厦
+yiu pont house:耀邦大厦
 yiu sha road:耀沙路
-yiu shek house:耀石樓
-yiu shing house tin yiu estate:天耀邨耀盛樓
-yiu shing house:耀盛樓
-yiu shun house yiu on estate:耀安邨耀遜樓
-yiu shun house:耀遜樓
-yiu si wing:姚思榮
-yiu sin house:耀善樓
-yiu sing mansion:耀星閣
+yiu shek house:耀石楼
+yiu shing house tin yiu estate:天耀邨耀盛楼
+yiu shing house:耀盛楼
+yiu shun house yiu on estate:耀安邨耀逊楼
+yiu shun house:耀逊楼
+yiu si wing:姚思荣
+yiu sin house:耀善楼
 yiu sing mansion:耀星阁
 yiu sing street:耀星街
-yiu tai house:耀泰樓
-yiu tsui house:耀翠閣
-yiu tsz kin:陶子見
+yiu tai house:耀泰楼
+yiu tsui house:耀翠阁
+yiu tsz kin:陶子见
 yiu tsz kin:陶子𡷹
-yiu tung building:耀東樓
+yiu tung building:耀东楼
 yiu tung estate bus terminus:耀东村巴士总站
-yiu tung estate bus terminus:耀東邨巴士總站
+yiu tung estate bus terminus:耀东邨巴士总站
 yiu tung estate car park no.1:耀东村一号停车场
-yiu tung estate car park no.1:耀東邨一號停車場
+yiu tung estate car park no.1:耀东邨一号停车场
 yiu tung estate car park no.2:耀东村二号停车场
-yiu tung estate car park no.2:耀東邨二號停車場
+yiu tung estate car park no.2:耀东邨二号停车场
 yiu tung estate:耀东村
-yiu tung estate:耀東邨
-yiu tung house:耀東樓
+yiu tung estate:耀东邨
+yiu tung house:耀东楼
 yiu tung public library:耀东公共图书馆
-yiu tung public library:耀東公共圖書館
 yiu tung shopping centre:耀东商场
-yiu tung shopping centre:耀東商場
-yiu tung street:耀東街
-yiu wa street:耀華街
-yiu wah house yiu tung estate:耀東邨耀華樓
-yiu wah house:耀華樓
-yiu wah tong:瑤華堂
+yiu tung street:耀东街
+yiu wa street:耀华街
+yiu wah house yiu tung estate:耀东邨耀华楼
+yiu wah house:耀华楼
+yiu wah tong:瑤华堂
 yiu wah tong:瑶华堂
-yiu wai street:窰圍街
+yiu wai street:窰围街
 yiu wai:姚煒
-yiu wing house:耀榮樓
-yiu wing lane kwai chung:葵涌耀榮里
-yiu wing lane:耀榮里
-yiu wing street substation:耀榮街變電站
+yiu wing house:耀荣楼
+yiu wing lane kwai chung:葵涌耀荣里
+yiu wing lane:耀荣里
 yiu wing street substation:耀荣街变电站
-yiu wing street:耀榮街
 yiu wing street:耀荣街
-yiu wo house:耀和樓
+yiu wo house:耀和楼
 yiu yam house:耀荫楼
-yiu yam house:耀蔭樓
-yiu yan house:耀欣樓
-yiu yat house:耀逸樓
+yiu yan house:耀欣楼
+yiu yat house:耀逸楼
 yiuga factory building:耀基工厂大厦
-yiuga factory building:耀基工廠大廈
 yivli minaret mosque:以芙利尖塔清真寺
 yiwa:易洼
 yiwa:益哇镇
 yiwaluo:以瓦落
 yiwan:宜万乡
-yiwan:宜灣
+yiwan:宜湾
 yiwang:义旺村
 yiwangfu north road:益王府北路
 yiwangjiawan:一汪家塆
@@ -5594,47 +5112,40 @@ yiwangzhuangcun:伊王庄村
 yiwanshui:一碗水
 yiwanshui:一碗水乡
 yiwanzi:易湾子
-yiwei guangzhou uprising:乙未廣州起義
+yiwei guangzhou uprising:乙未广州起义
 yiwei road:益围路
 yiwei:yìwéi zhèn
 yiwei:一围
-yiwei:一圍
 yiwei:义圩镇
 yiwen & yiwen 2nd intersection:yìwényìwénèrjiēkǒu(dàyuèshèqū)
 yiwen & yiwen 2nd intersection:ㄧˋㄨㄣˊㄧˋㄨㄣˊㄦˋㄐㄧㄝㄎㄡˇ(ㄉㄚˋㄩㄝˋㄕㄜˋㄑㄩ)
+yiwen & yiwen 2nd intersection:艺文艺文二街口(大悅社区)
 yiwen & yiwen 2nd intersection:艺文艺文二街口(大悦社区)
-yiwen & yiwen 2nd intersection:藝文藝文二街口(大悅社區)
 yiwen 1st st. & daxing w. rd. intersection:yìwényījiēdàxìngxīlùkǒu
 yiwen 1st st. & daxing w. rd. intersection:ㄧˋㄨㄣˊㄧㄐㄧㄝㄉㄚˋㄒㄧㄥˋㄒㄧㄌㄨˋㄎㄡˇ
 yiwen 1st st. & daxing w. rd. intersection:艺文一街大兴西路口
-yiwen 1st st. & daxing w. rd. intersection:藝文一街大興西路口
 yiwen 1st street:益文一街
 yiwen 2nd & yongcui intersection:yìwénèryǒngcuìlùkǒu(qīngfēngshèqū)
 yiwen 2nd & yongcui intersection:ㄧˋㄨㄣˊㄦˋㄩㄥˇㄘㄨㄟˋㄌㄨˋㄎㄡˇ(ㄑㄧㄥㄈㄥㄕㄜˋㄑㄩ)
 yiwen 2nd & yongcui intersection:艺文二永翠路口(青峰社区)
-yiwen 2nd & yongcui intersection:藝文二永翠路口(青峰社區)
 yiwen 2nd st. / yongchun rd.:益文二街永春路口
 yiwen 2nd street:益文二街
 yiwen 3rd street:益文三街
-yiwen building, qiqihar university:齊齊哈爾大學藝文樓
 yiwen building, qiqihar university:齐齐哈尔大学艺文楼
 yiwen leiju:艺文类聚
 yiwen li:李翼文
 yiwen road:艺文道
 yiwen street:宜文街
-yiwen:依汶鎮
 yiwen:依汶镇
-yiwenzhi:藝文志
+yiwenzhi:艺文志
 yiwowajiao:依沃瓦觉（康复）村
 yiwu airport:义乌机场
-yiwu airport:義烏機場
 yiwu business and trade plaza:yìwū shāngmào chéng
 yiwu business and trade plaza:义乌商贸城
 yiwu business daily:义乌商报
 yiwu county:yīwú xiàn
 yiwu county:义乌县
 yiwu county:伊吾县
-yiwu county:伊吾縣
 yiwu food safety training:义乌市食品安全培训
 yiwu food safety:义乌市食品安全
 yiwu hospital:浙江大学医学院附属第四医院
@@ -5653,7 +5164,6 @@ yiwu river:yìwū jiāng
 yiwu river:yīwú hé
 yiwu river:义乌江
 yiwu river:伊吾河
-yiwu river:義烏江
 yiwu road:yìwǔ lù
 yiwu road:易武路
 yiwu road:翊武路
@@ -5666,15 +5176,12 @@ yiwu:一吾
 yiwu:义乌
 yiwu:义乌市
 yiwu:伊吾县
-yiwu:伊吾縣
 yiwu:伊屋
 yiwu:依乌
 yiwu:依乌村
 yiwu:依伍村
 yiwu:易武镇
 yiwu:椬梧
-yiwu:義烏
-yiwu:義烏市
 yiwugu:依吾古村
 yiwutang:益武堂
 yiwuti:吉布地
@@ -5691,8 +5198,7 @@ yixialing:倚霞岭
 yixian avenue:逸仙大道
 yixian bus terminal:yīxiàn qìchē zhàn
 yixian bus terminal:黟县汽车站
-yixian bus terminal:黟縣汽車站
-yixian elementary school:逸仙國小
+yixian elementary school:逸仙国小
 yixian elevated road:逸仙高架路
 yixian formation:义县组
 yixian glazed pottery luohans:易县三彩罗汉像
@@ -5701,29 +5207,24 @@ yixian railway station:义县站
 yixian road at jinian road:逸仙路纪念路
 yixian road:逸仙路
 yixian village:逸仙村
-yixian village:逸賢里
+yixian village:逸贤里
 yixian:yī xiàn
 yixian:义县
 yixian:易县
-yixian:易縣
-yixian:義縣
 yixian:黟县
-yixian:黟縣
 yixiang park (agriculture product market):艺香公园(果菜市场)
-yixiang park (agriculture product market):藝香公園(果菜市場)
 yixiang river:yíxiāng hé
 yixiang river:宜湘河
 yixiang road:yí xiáng lù
-yixiang:倚象鎮
 yixiang:倚象镇
-yixiang:奕詳
+yixiang:奕详
 yixianghe:宜湘河
 yixianopterus:义县翼龙属
-yixianornis:義縣鳥屬
-yixianosaurus:義縣龍屬
+yixianornis:义县鸟属
+yixianosaurus:义县龙属
 yixiantian hydroelectric power station:yīxiàntiān èrjí shuǐdiànzhàn
 yixiantian hydroelectric power station:一线天二级水电站
-yixiantian:一線天
+yixiantian:一线天
 yixiawan:倚霞塆
 yixiawan:易下塆
 yixiaxiangcun:伊下乡村
@@ -5746,32 +5247,29 @@ yixin 7th street:宜欣七街
 yixin 8th street:宜欣八街
 yixin 9th street:宜欣九街
 yixin chen:陈一昕
-yixin community:宜欣社區
+yixin community:宜欣社区
 yixin court:怡心苑
 yixin garden:怡心园
 yixin garden:怡馨苑
 yixin highway:义新公路
-yixin industries limited company:一心工業有限公司
-yixin kindergarten:一信幼稚園
+yixin industries limited company:一心工业有限公司
+yixin kindergarten:一信幼稚园
 yixin lake station:怡心湖站
 yixin lake:yí xīn hú
 yixin lu entrance:怡新路口站
 yixin lu:怡新路站
-yixin market:一心市場
+yixin market:一心市场
 yixin miaopu:一心苗圃
 yixin north street:一心北街
-yixin park:一心公園
+yixin park:一心公园
 yixin park:宜欣公园
-yixin park:宜欣公園
-yixin post office:宜欣郵局
+yixin post office:宜欣邮局
 yixin primary school:怡新小学
-yixin restaurant:益新美食館
 yixin restaurant:益新美食馆
 yixin road pedestrian street:伊新路步行街
 yixin road:怡心路
 yixin road:怡新路
 yixin road:艺新路
-yixin road:藝新路
 yixin south street:一心南街
 yixin street lane 377:一心街377巷
 yixin street:一心街
@@ -5785,53 +5283,44 @@ yixin village:一心里
 yixin village:一新里
 yixin village:义信里
 yixin village:宜欣里
-yixin village:義信里
 yixin:一心乡
 yixin:一心村
 yixin:一心社区
 yixin:义新镇
 yixin:艺新街道
-yixin:詒新
+yixin:诒新
 yixincun:一心村
 yixincun:义新村
 yixincun:益新村
-yixing bridge:宜興橋
-yixing bridge:義興大橋
+yixing bridge:义兴大桥
+yixing bridge:宜兴桥
 yixing building:益兴大厦
-yixing clay teapot:紫砂壺
-yixing community:邑興社區
+yixing clay teapot:紫砂壶
+yixing community:邑兴社区
 yixing county:义兴县
 yixing county:宜兴县
-yixing county:宜興县
-yixing county:義興县
 yixing dongshi activity center:dōngshìyíxìnghuódòngzhōngxīn
 yixing dongshi activity center:ㄉㄨㄥㄕˋㄧˊㄒㄧㄥˋㄏㄨㄛˊㄉㄨㄥˋㄓㄨㄥㄒㄧㄣ
 yixing dongshi activity center:东势宜兴活动中心
-yixing dongshi activity center:東勢宜興活動中心
 yixing east road:一行东路
 yixing group:益兴集团
 yixing industrial park:易兴工业区
 yixing park:yìxìnggōngyuán
 yixing park:ㄧˋㄒㄧㄥˋㄍㄨㄥㄩㄢˊ
 yixing park:义兴公园
-yixing park:義興公園
 yixing railway station:宜兴站
 yixing road:怡兴路
 yixing road:逸兴路
 yixing village:yì xìng lǐ
 yixing village:yìxìng lǐ
 yixing village:ㄧˋㄒㄧㄥˋㄌㄧˇ
+yixing village:义兴村
 yixing village:义兴里
 yixing village:义幸里
 yixing village:宜兴里
-yixing village:宜興里
-yixing village:義幸里
-yixing village:義興村
-yixing village:義興里
 yixing ware:紫砂陶
 yixing west road:一行西路
 yixing-gaochun highway:江苏360省道 宜高线
-yixing-gaochun highway:江蘇360省道 宜高線
 yixing:yíxīng shì
 yixing:义兴
 yixing:义兴乡
@@ -5839,13 +5328,8 @@ yixing:义兴镇
 yixing:宜兴
 yixing:宜兴乡
 yixing:宜兴市
-yixing:宜興
-yixing:宜興市
 yixing:椅形
-yixing:益興
-yixing:義興
-yixing:義興鄉
-yixing:義興鎮
+yixing:益兴
 yixingbu:宜兴埠镇
 yixingcun:义兴村
 yixingcun:伊兴村
@@ -5854,25 +5338,21 @@ yixingfu station:宜兴埠站
 yixingshan:yìxìngshān
 yixingshan:ㄧˋㄒㄧㄥˋㄕㄢ
 yixingshan:义兴山
-yixingshan:義興山
 yixingshun road:溢兴顺路
-yixingtemple:義興宮
+yixingtemple:义兴宮
 yixingyuan:义兴园
-yixingzhuang:義興莊
+yixingzhuang:义兴庄
 yixingzhuangcun:宜兴庄村
-yixinshequ:宜欣社區
+yixinshequ:宜欣社区
 yixiqingmashan:yìxīqǐngmǎshān
 yixiqingmashan:ㄧˋㄒㄧㄑㄧㄥˇㄇㄚˇㄕㄢ
 yixiqingmashan:义西请马山
-yixiqingmashan:義西請馬山
 yixiqingmazhishan:yìxīqǐngmǎzhìshān
 yixiqingmazhishan:ㄧˋㄒㄧㄑㄧㄥˇㄇㄚˇㄓˋㄕㄢ
 yixiqingmazhishan:义西请马至山
-yixiqingmazhishan:義西請馬至山
 yixiu bridge:挹秀桥
 yixiu district:yíxiù qū
 yixiu district:宜秀区
-yixiu district:宜秀區
 yixiu lungpa:yì xiùlóng bā
 yixiu monastery:依修寺
 yixiu new village:逸秀新村
@@ -5884,48 +5364,38 @@ yixiu road:逸秀路
 yixiu village:挹秀里
 yixiu:yíxiù qū
 yixiu:宜秀区
-yixiu:宜秀區
 yixiuxincun:逸秀新村
 yixu:乙圩乡
-yixuan bakery:鐿軒西點麵包店
-yixuanjia:一軒家
+yixuan bakery:鐿轩西点面包店
+yixuanjia:一轩家
 yixue elementary school:yìxuéguóxiǎo
 yixue elementary school:ㄧˋㄒㄩㄝˊㄍㄨㄛˊㄒㄧㄠˇ
 yixue elementary school:义学国小
-yixue elementary school:義學國小
-yixue junior high school:義學國中
+yixue junior high school:义学国中
 yixue lane:义学巷
-yixue parking lot, taishan district:泰山區義學立體停車場
+yixue parking lot, taishan district:泰山区义学立体停车场
 yixue road:义学路
-yixue road:義學路
 yixue village:义学里
-yixue village:義學里
 yixuecun:义学村
 yixuecun:仪学村
-yixuekeng nature park:義學坑自然公園
+yixuekeng nature park:义学坑自然公园
 yixueyuan road:医学院路
 yixun community:伊逊社区
 yixun river:yīxùn hé
 yixun river:伊逊河
-yixun river:伊遜河
 yiyan jingzi:一眼井子
 yiyang bridge:宜阳大桥
 yiyang county:yiyang xian
 yiyang county:yìyáng xiàn
+yiyang county:宜阳
 yiyang county:宜阳县
-yiyang county:宜陽
-yiyang county:宜陽县
-yiyang county:宜陽縣
+yiyang county:弋阳
 yiyang county:弋阳县
-yiyang county:弋陽
-yiyang county:弋陽县
-yiyang county:弋陽縣
 yiyang county:益阳县
 yiyang high tech industrial development zone:益阳高新技术产业开发区
 yiyang line:益羊线
+yiyang shi:益阳
 yiyang shi:益阳市
-yiyang shi:益陽
-yiyang shi:益陽市
 yiyang south railway station:益阳南站
 yiyang stadium:益阳奥林匹克公园
 yiyang street:宜阳街
@@ -5933,31 +5403,23 @@ yiyang subdistrict:yíyáng jiēdào
 yiyang subdistrict:宜阳街道
 yiyang subdistrict:弋阳街道
 yiyang xian:yìyáng xiàn
+yiyang xian:宜阳
 yiyang xian:宜阳县
-yiyang xian:宜陽
-yiyang xian:宜陽縣
+yiyang xian:弋阳
 yiyang xian:弋阳县
-yiyang xian:弋陽
-yiyang xian:弋陽縣
 yiyang:yiyang xian
 yiyang:yìyáng shì
 yiyang:yìyáng xiàn
 yiyang:yíyáng jiēdào
 yiyang:仪阳街道
-yiyang:儀陽街道
+yiyang:宜阳
 yiyang:宜阳县
 yiyang:宜阳街道
-yiyang:宜陽
-yiyang:宜陽縣
-yiyang:宜陽街道
+yiyang:弋阳
 yiyang:弋阳县
 yiyang:弋阳街道
-yiyang:弋陽
-yiyang:弋陽縣
 yiyang:益阳
 yiyang:益阳市
-yiyang:益陽
-yiyang:益陽市
 yiyangdong:益阳东
 yiyangjiacun:易杨家村
 yiyangxi:益阳西
@@ -5971,17 +5433,17 @@ yiyi expressway:宜彝高速
 yiyi photoelectric technology co., ltd.:一逸光电科技有限公司
 yiyi:宜邑
 yiyidu:邑宜都
-yiyin road:義隱路
+yiyin road:义隐路
 yiyin zhigong dormitory:一印职工宿舍
 yiyiner:益因二
 yiying plaza:溢盈广场
 yiyinyi:益因一
 yiyong east street:义勇东街
-yiyong road:義勇路
-yiyong road:義永路
+yiyong road:义勇路
+yiyong road:义永路
 yiyong south street:义勇南街
-yiyong street:義勇街
-yiyong village:義勇里
+yiyong street:义勇街
+yiyong village:义勇里
 yiyong west street:义勇西街
 yiyongqian street:义勇前街
 yiyua-shennan interchange:艺园深南立交
@@ -5991,7 +5453,6 @@ yiyuan apartment:颐园公寓
 yiyuan beicun:怡园北村
 yiyuan community:怡园小区
 yiyuan county:沂源县
-yiyuan county:沂源縣
 yiyuan east road:艺苑东路
 yiyuan east street:医院东街
 yiyuan garden:易园
@@ -6018,12 +5479,10 @@ yiyuan street:艺苑街
 yiyuan xinchun:艺苑新村
 yiyuan, xingjia qinghuafang:兴佳清华坊宜园
 yiyuan-zhengyun road crossing:艺园正云路口
+yiyuan:怡园
 yiyuan:怡园街道
-yiyuan:怡園
-yiyuan:怡園街道
 yiyuan:沂源
 yiyuan:沂源县
-yiyuan:沂源縣
 yiyuancun:宜元村
 yiyuanjie community:义园街社区
 yiyuanjie:义园街社区
@@ -6035,20 +5494,19 @@ yiyun li:李翊云
 yiyun road:倚云路
 yiyun road:逸云路
 yizachu:依杂出
-yizai elementary school:億載國小
-yizai village:億載里
+yizai elementary school:亿载国小
+yizai village:亿载里
 yizaj:吉扎克
 yizaluo:依杂罗
 yizawudu:依杂务堵
 yize:怡泽社区
 yize:益则
 yize:迤泽
-yizekeng:益則坑
+yizekeng:益则坑
 yizeluo:依泽洛
 yizeshan:yīzéshān
 yizeshan:ㄧㄗㄜˊㄕㄢ
 yizeshan:伊泽山
-yizeshan:伊澤山
 yizha:迤鲊
 yizhai:以寨
 yizhai:伊寨
@@ -6058,33 +5516,26 @@ yizhan:易站
 yizhang county:yízhāng xiàn
 yizhang county:宜章
 yizhang county:宜章县
-yizhang county:宜章縣
 yizhang xian:yízhāng xiàn
 yizhang xian:宜章
 yizhang xian:宜章县
-yizhang xian:宜章縣
 yizhang-fengtouling expressway:宜凤高速
-yizhang-fengtouling expressway:宜鳳高速
 yizhang:yízhāng xiàn
 yizhang:宜章
 yizhang:宜章县
-yizhang:宜章縣
 yizhangzhuangcun:义张庄村
 yizhao village:yì zhāo lǐ
 yizhao village:义昭里
-yizhao village:義昭里
-yizhen/ yishan women's dorm:宜真/宜善學苑
-yizheng chemical fibre:儀徵化纖
+yizhen/ yishan women's dorm:宜真/宜善学苑
+yizheng chemical fibre:仪征化纤
 yizheng community:义正社区
 yizheng laozhai:宜政老寨
 yizheng:yìzhēng zhèn
 yizheng:yízhēng shì
 yizheng:义正镇
+yizheng:仪征
 yizheng:仪征市
-yizheng:儀征市
-yizheng:儀徵
 yizheng:宜政
-yizheng:義正鎮
 yizhenju:义振局
 yizhi road:一指路
 yizhi street:益智街
@@ -6100,7 +5551,7 @@ yizhigu:易之古
 yizhihe:一支河
 yizhihecun:一致合村
 yizhihuiyingcun:伊指挥营村
-yizhixianbian:一支線邊
+yizhixianbian:一支线边
 yizhixie:伊稚斜单于
 yizhizhai:夷知寨
 yizhong bridge:一中小桥
@@ -6109,12 +5560,11 @@ yizhong road:宜中路
 yizhong street:一中商圈
 yizhong street:一中街
 yizhong village:yì zhònglǐ
+yizhong village:义中里
 yizhong village:义重里
-yizhong village:義中里
-yizhong village:義重里
 yizhong:怡众社区
 yizhongcun:义中村
-yizhongding:義重町
+yizhongding:义重町
 yizhongdui:一中队
 yizhonghe:义仲河
 yizhongqian street:一中前街
@@ -6125,40 +5575,34 @@ yizhou circuit:益州路
 yizhou district:yízhōu shì
 yizhou district:yīzhōu qū
 yizhou district:伊州区
-yizhou district:伊州區
 yizhou district:宜州区
-yizhou district:宜州區
 yizhou east 2nd road:益州东二路
 yizhou lu east:艺洲路东
 yizhou primary school:益州小学
 yizhou road:yì zhōu lù
 yizhou road:沂州路
 yizhou road:艺洲路
-yizhou road:藝洲路
 yizhou subdistrict:义州街道
 yizhou subdistrict:义洲街道
 yizhou:hāmì shì
 yizhou:义州街道
 yizhou:义洲街道
 yizhou:伊州区
-yizhou:伊州區
 yizhou:宜州区
-yizhou:宜州區
 yizhou:易州镇
 yizhou:沂洲
 yizhou:益州
 yizhou:益州社区
-yizhou:義州街道
 yizhousaurus:益州龙属
-yizhu junior high school:義竹國中
+yizhu junior high school:义竹国中
 yizhu la:益珠拉
-yizhu post office:義竹郵局
-yizhu township:義竹郷
-yizhu township:義竹鄉
-yizhu village:義竹村
+yizhu post office:义竹邮局
+yizhu township:义竹乡
+yizhu township:义竹郷
+yizhu village:义竹村
+yizhu:义竹
 yizhu:彝逐
 yizhu:猗竹
-yizhu:義竹
 yizhuang culture park station:亦庄文化园站
 yizhuang culture park:yìzhuāng wénhuàyuán
 yizhuang culture park:亦庄文化园
@@ -6171,19 +5615,16 @@ yizhuang railway station:亦庄火车站
 yizhuang railway station:亦庄站
 yizhuang sanjie:义庄三街
 yizhuang t1 line:亦庄新城现代有轨电车t1线
-yizhuang t1 line:亦莊新城現代有軌電車t1線
 yizhuang tongren:亦庄同仁
-yizhuang tongren:亦莊同仁
-yizhuang village:義庄村
+yizhuang village:义庄村
 yizhuang:yìzhuāng
 yizhuang:yìzhuāng zhèn
+yizhuang:义庄
 yizhuang:亦庄
 yizhuang:亦庄镇
-yizhuang:亦莊鎮
 yizhuang:伊庄
-yizhuang:伊莊鎮
+yizhuang:伊庄镇
 yizhuang:依庄乡
-yizhuang:義庄
 yizhuangcun:伊庄村
 yizhuangcun:依庄村
 yizhuangcun:弋庄村

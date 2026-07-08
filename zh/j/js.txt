@@ -1,21 +1,20 @@
-js ashigara:足柄號護衛艦
-js atago:愛宕號護衛艦
+js ashigara:足柄号护卫舰
+js atago:爱宕号护卫舰
 js chiao:焦瑞身
-js haguro:羽黑號護衛艦
-js ise:伊勢號護衛艦
-js ishikari:石狩號護衛艦
-js izumo:出雲號護衛艦
+js haguro:羽黑号护卫舰
+js ise:伊势号护卫舰
+js ishikari:石狩号护卫舰
+js izumo:出云号护卫舰
 js kabylie:卡比利青年体育会
-js kaga:加賀號護衛艦
-js kairouan:卡羅安納斯體育會
-js kirishima:霧島號護衛艦
-js maya:摩耶號護衛艦
-js sazanami:漣號護衛艦
-js shimakaze:日本島風號護衛艦與中國漁船相撞事件
-js suzutsuki:涼月號護衛艦
-jse limited:約翰尼斯堡證券交易所
+js kaga:加贺号护卫舰
+js kairouan:卡罗安纳斯体育会
+js kirishima:雾岛号护卫舰
+js maya:摩耶号护卫舰
+js sazanami:漣号护卫舰
+js shimakaze:日本岛风号护卫舰与中国渔船相撞事件
+js suzutsuki:凉月号护卫舰
+jse limited:约翰尼斯堡证券交易所
 jsp:呷尚宝
-jsp:呷尚寶
-jsp:呷尚寶 jsp
-jstv:日語衛星放送
+jsp:呷尚宝 jsp
+jstv:日语卫星放送
 jsw steel:京德勒西南钢铁

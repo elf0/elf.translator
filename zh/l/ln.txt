@@ -1,14 +1,11 @@
 ln 128, jinghua st.:jǐnghuájiē128xiàngkǒu
 ln 128, jinghua st.:ㄐㄧㄥˇㄏㄨㄚˊㄐㄧㄝ128ㄒㄧㄤˋㄎㄡˇ
 ln 128, jinghua st.:景华街128巷口
-ln 128, jinghua st.:景華街128巷口
 ln 195 dazhi rd. sec. 2 (west):大智路二段195巷口(西侧)
-ln 195 dazhi rd. sec. 2 (west):大智路二段195巷口(西側)
 ln 439, xinsheng road:新生路439巷
 ln 452, xinsheng road:新生路452巷
 ln 519, yongfeng rd. intersection:永丰路519巷口
-ln 519, yongfeng rd. intersection:永豐路519巷口
-ln 87, xihou street:西後街87巷
+ln 87, xihou street:西后街87巷
 ln coffee:世界幸福咖啡
 ln. 1, yushi rd.:yùshǐlù1xiàng
 ln. 1, yushi rd.:ㄩˋㄕˇㄌㄨˋ1ㄒㄧㄤˋ
@@ -19,79 +16,61 @@ ln. 10, dechang st.:德昌街10巷口
 ln. 10, sec. 2, tonghe e. st. intersection:tōnghédōngjiē2duàn10xiàngkǒu
 ln. 10, sec. 2, tonghe e. st. intersection:ㄊㄨㄥㄏㄜˊㄉㄨㄥㄐㄧㄝ2ㄉㄨㄢˋ10ㄒㄧㄤˋㄎㄡˇ
 ln. 10, sec. 2, tonghe e. st. intersection:通河东街2段10巷口
-ln. 10, sec. 2, tonghe e. st. intersection:通河東街2段10巷口
 ln. 100, sec. 2, zhongxing rd.:zhōngxìnglù2duàn100xiàngkǒu
 ln. 100, sec. 2, zhongxing rd.:ㄓㄨㄥㄒㄧㄥˋㄌㄨˋ2ㄉㄨㄢˋ100ㄒㄧㄤˋㄎㄡˇ
 ln. 100, sec. 2, zhongxing rd.:中兴路2段100巷口
-ln. 100, sec. 2, zhongxing rd.:中興路2段100巷口
 ln. 101, leli rd.:乐利路101巷口
-ln. 101, leli rd.:樂利路101巷口
 ln. 101, sec. 1, hangzhou s. rd.:杭州南路一段101巷口
 ln. 101, sec. 1,keelung rd. intersection:jīlónglùyīduàn101xiàngkǒu
 ln. 101, sec. 1,keelung rd. intersection:ㄐㄧㄌㄨㄥˊㄌㄨˋㄧㄉㄨㄢˋ101ㄒㄧㄤˋㄎㄡˇ
 ln. 101, sec. 1,keelung rd. intersection:基隆路一段101巷口
 ln. 101, wenlin rd.:文林路101巷口
-ln. 102, jingxing rd.:景興路102巷口
+ln. 102, jingxing rd.:景兴路102巷口
 ln. 103,sec. 2,dunhua s. rd.:dūnhuànánlùèrduàn103xiàngkǒu
 ln. 103,sec. 2,dunhua s. rd.:ㄉㄨㄣㄏㄨㄚˋㄋㄢˊㄌㄨˋㄦˋㄉㄨㄢˋ103ㄒㄧㄤˋㄎㄡˇ
 ln. 103,sec. 2,dunhua s. rd.:敦化南路二段103巷口
 ln. 106, sec. 3, minquan e. rd.:mínquándōnglùsānduàn106xiàngkǒu
 ln. 106, sec. 3, minquan e. rd.:ㄇㄧㄣˊㄑㄩㄢˊㄉㄨㄥㄌㄨˋㄙㄢㄉㄨㄢˋ106ㄒㄧㄤˋㄎㄡˇ
 ln. 106, sec. 3, minquan e. rd.:民权东路三段106巷口
-ln. 106, sec. 3, minquan e. rd.:民權東路三段106巷口
 ln. 108, tong'an st.:通安区民活动中心
-ln. 108, tong'an st.:通安區民活動中心
 ln. 109, sec. 2, muzha rd.:木柵路二段109巷
 ln. 109, sec. 2, muzha rd.:木栅路二段109巷
 ln. 11, guangfu n rd.:guāngfùběilù11xiàngkǒu
 ln. 11, guangfu n rd.:ㄍㄨㄤㄈㄨˋㄅㄟˇㄌㄨˋ11ㄒㄧㄤˋㄎㄡˇ
 ln. 11, guangfu n rd.:光复北路11巷口
-ln. 11, guangfu n rd.:光復北路11巷口
 ln. 11, sec. 2, zhiyuan 1st rd.:shípáiqūmínhuódòngzhōngxīn
 ln. 11, sec. 2, zhiyuan 1st rd.:ㄕˊㄆㄞˊㄑㄩㄇㄧㄣˊㄏㄨㄛˊㄉㄨㄥˋㄓㄨㄥㄒㄧㄣ
 ln. 11, sec. 2, zhiyuan 1st rd.:致远一路二段11巷
-ln. 11, sec. 2, zhiyuan 1st rd.:致遠一路二段11巷
 ln. 110, dongshan rd.:dōngshānlù110xiàngkǒu
 ln. 110, dongshan rd.:ㄉㄨㄥㄕㄢㄌㄨˋ110ㄒㄧㄤˋㄎㄡˇ
 ln. 110, dongshan rd.:东山路110巷口
-ln. 110, dongshan rd.:東山路110巷口
 ln. 111, guotai st.:guótàijiē111xiàngkǒu
 ln. 111, guotai st.:ㄍㄨㄛˊㄊㄞˋㄐㄧㄝ111ㄒㄧㄤˋㄎㄡˇ
 ln. 111, guotai st.:国泰街111巷口
-ln. 111, guotai st.:國泰街111巷口
 ln. 112, guoji 1st rd.:国际一路112巷口
-ln. 112, guoji 1st rd.:國際一路112巷口
 ln. 112, qisheng st. intersection:qīshèngjiē112xiàngkǒu
 ln. 112, qisheng st. intersection:ㄑㄧㄕㄥˋㄐㄧㄝ112ㄒㄧㄤˋㄎㄡˇ
 ln. 112, qisheng st. intersection:七圣街112巷口
-ln. 112, qisheng st. intersection:七聖街112巷口
 ln. 112, renhua st.:rénàijiē112xiàng
 ln. 112, renhua st.:ㄖㄣˊㄞˋㄐㄧㄝ112ㄒㄧㄤˋ
-ln. 112, renhua st.:仁愛街112巷
 ln. 112, renhua st.:仁爱街112巷
-ln. 114 youheng st.:有恆街114巷口
 ln. 114 youheng st.:有恒街114巷口
 ln. 117, sec. 2, anhe rd. intersection:安和路二段117巷口
 ln. 119, sec. 1, xinsheng s. rd intersection:xīnshēngnánlùyīduàn119xiàngkǒu
 ln. 119, sec. 1, xinsheng s. rd intersection:ㄒㄧㄣㄕㄥㄋㄢˊㄌㄨˋㄧㄉㄨㄢˋ119ㄒㄧㄤˋㄎㄡˇ
 ln. 119, sec. 1, xinsheng s. rd intersection:新生南路一段119巷口
-ln. 119, yanshou st.:延壽街119巷口
 ln. 119, yanshou st.:延寿街119巷口
 ln. 12, zhonghua rd. intersection:中华路12巷口
-ln. 12, zhonghua rd. intersection:中華路12巷口
 ln. 120, baogao rd. intersection:宝高路120巷口
-ln. 120, baogao rd. intersection:寶高路120巷口
 ln. 120, minsheng s. rd. intersection:mínshēngnánlù120xiàngkǒu
 ln. 120, minsheng s. rd. intersection:ㄇㄧㄣˊㄕㄥㄋㄢˊㄌㄨˋ120ㄒㄧㄤˋㄎㄡˇ
 ln. 120, minsheng s. rd. intersection:民生南路120巷口
 ln. 121, dongming 1st st.:东明一街121巷
-ln. 121, dongming 1st st.:東明一街121巷
 ln. 121, songren rd intersection:sōngrénlù121xiàngkǒu
 ln. 121, songren rd intersection:ㄙㄨㄥㄖㄣˊㄌㄨˋ121ㄒㄧㄤˋㄎㄡˇ
 ln. 121, songren rd intersection:松仁路121巷口
 ln. 122, sec. 4, ren'ai rd.:rénàilùsìduàn122xiàngkǒu
 ln. 122, sec. 4, ren'ai rd.:ㄖㄣˊㄞˋㄌㄨˋㄙˋㄉㄨㄢˋ122ㄒㄧㄤˋㄎㄡˇ
-ln. 122, sec. 4, ren'ai rd.:仁愛路四段122巷口
 ln. 122, sec. 4, ren'ai rd.:仁爱路四段122巷口
 ln. 123, jilin rd.:jílínlù123xiàngkǒu
 ln. 123, jilin rd.:ㄐㄧˊㄌㄧㄣˊㄌㄨˋ123ㄒㄧㄤˋㄎㄡˇ
@@ -99,23 +78,18 @@ ln. 123, jilin rd.:吉林路123巷口
 ln. 125, dechang st.:德昌街125巷口
 ln. 125, junying st. intersection:俊英街125巷口
 ln. 125, xinchun st.:新春街125巷(乐活绽社区)
-ln. 125, xinchun st.:新春街125巷(樂活绽社區)
 ln. 126, sec. 1, fuxing s. rd.:fùxìngnánlùyīduàn126xiàngkǒu
 ln. 126, sec. 1, fuxing s. rd.:ㄈㄨˋㄒㄧㄥˋㄋㄢˊㄌㄨˋㄧㄉㄨㄢˋ126ㄒㄧㄤˋㄎㄡˇ
 ln. 126, sec. 1, fuxing s. rd.:复兴南路一段126巷口
-ln. 126, sec. 1, fuxing s. rd.:復興南路一段126巷口
 ln. 128, sec. 2, fuxing s. rd.:fùxìngnánlùèrduàn128xiàngkǒu
 ln. 128, sec. 2, fuxing s. rd.:ㄈㄨˋㄒㄧㄥˋㄋㄢˊㄌㄨˋㄦˋㄉㄨㄢˋ128ㄒㄧㄤˋㄎㄡˇ
 ln. 128, sec. 2, fuxing s. rd.:复兴南路二段128巷口
-ln. 128, sec. 2, fuxing s. rd.:復興南路二段128巷口
 ln. 129, sec. 1, xiuming rd. intersection:xiùmínglùyīduàn129xiàngkǒu
 ln. 129, sec. 1, xiuming rd. intersection:ㄒㄧㄡˋㄇㄧㄥˊㄌㄨˋㄧㄉㄨㄢˋ129ㄒㄧㄤˋㄎㄡˇ
 ln. 129, sec. 1, xiuming rd. intersection:秀明路一段129巷口
 ln. 13, taili st.:台丽街13巷
-ln. 13, taili st.:台麗街13巷
 ln. 130, sec. 3, nangang rd.:南港路三段130巷口
 ln. 1316, wenxin s. rd. (northwest):文心南路1316巷口(西北侧)
-ln. 1316, wenxin s. rd. (northwest):文心南路1316巷口(西北側)
 ln. 132, songjiang rd.:sōngjiānglù132xiàngkǒu
 ln. 132, songjiang rd.:ㄙㄨㄥㄐㄧㄤㄌㄨˋ132ㄒㄧㄤˋㄎㄡˇ
 ln. 132, songjiang rd.:松江路132巷口
@@ -125,20 +99,15 @@ ln. 133, sec. 8, yanping n. rd intersection:延平北路八段133巷口
 ln. 133, yanping s. rd intersection:yánpíngnánlù133xiàngkǒu
 ln. 133, yanping s. rd intersection:ㄧㄢˊㄆㄧㄥˊㄋㄢˊㄌㄨˋ133ㄒㄧㄤˋㄎㄡˇ
 ln. 133, yanping s. rd intersection:延平南路133巷口
-ln. 134, changchun st.:長春街134巷
 ln. 134, changchun st.:长春街134巷
-ln. 134, guanghui rd.:光輝路134巷口
 ln. 134, guanghui rd.:光辉路134巷口
 ln. 134, sec. 3, xinyi rd.:信义路三段134巷口
-ln. 134, sec. 3, xinyi rd.:信義路三段134巷口
 ln. 137, changchun rd.:zhǎngchūnlù137xiàngkǒu
 ln. 137, changchun rd.:ㄓㄤˇㄔㄨㄣㄌㄨˋ137ㄒㄧㄤˋㄎㄡˇ
-ln. 137, changchun rd.:長春路137巷口
 ln. 137, changchun rd.:长春路137巷口
 ln. 142, jiancheng rd. intersection:建成路142巷口
 ln. 143, huaxin st.:华新街143巷
-ln. 143, huaxin st.:華新街143巷
-ln. 144, wuquan w. 2nd st.:五權西二街144巷
+ln. 144, wuquan w. 2nd st.:五权西二街144巷
 ln. 145, fumin rd.:táiběiyúshì
 ln. 145, fumin rd.:ㄊㄞˊㄅㄟˇㄩˊㄕˋ
 ln. 145, fumin rd.:富民路145巷口
@@ -147,22 +116,17 @@ ln. 146, bangka blvd intersection:měngxiádàdào146xiàngkǒu
 ln. 146, bangka blvd intersection:ㄇㄥˇㄒㄧㄚˊㄉㄚˋㄉㄠˋ146ㄒㄧㄤˋㄎㄡˇ
 ln. 146, bangka blvd intersection:艋舺大道146巷口
 ln. 149, guoqing rd. intersection:国庆路149巷口
-ln. 149, guoqing rd. intersection:國慶路149巷口
 ln. 15, sec. 1, guangfu rd. intersection:光复路一段15巷口
-ln. 15, sec. 1, guangfu rd. intersection:光復路一段15巷口
 ln. 15, sec. 6, minquan e. rd.:mínquándōnglùliùduàn15xiàng
 ln. 15, sec. 6, minquan e. rd.:ㄇㄧㄣˊㄑㄩㄢˊㄉㄨㄥㄌㄨˋㄌㄧㄡˋㄉㄨㄢˋ15ㄒㄧㄤˋ
 ln. 15, sec. 6, minquan e. rd.:民权东路六段15巷
-ln. 15, sec. 6, minquan e. rd.:民權東路六段15巷
 ln. 15, songbo st.:松柏街15巷口
 ln. 151, kangle st.:康乐街151巷
-ln. 151, kangle st.:康樂街151巷
 ln. 151, shalun rd.:沙仑路151巷口
 ln. 151, shalun rd.:沙崙路151巷口
 ln. 151, xinglin rd. intersection:xìnglínlù151xiàngkǒu
 ln. 151, xinglin rd. intersection:ㄒㄧㄥˋㄌㄧㄣˊㄌㄨˋ151ㄒㄧㄤˋㄎㄡˇ
 ln. 151, xinglin rd. intersection:兴林路151巷口
-ln. 151, xinglin rd. intersection:興林路151巷口
 ln. 152, qingnian rd.:青年路152巷口
 ln. 155, dunhua n. rd.:敦化北路155巷口
 ln. 155, sec. 3, muxin rd.:木新路三段155巷口
@@ -173,11 +137,9 @@ ln. 157, sec. 3, xinhai rd.:xīnhàilùsānduàn157xiàngkǒu
 ln. 157, sec. 3, xinhai rd.:ㄒㄧㄣㄏㄞˋㄌㄨˋㄙㄢㄉㄨㄢˋ157ㄒㄧㄤˋㄎㄡˇ
 ln. 157, sec. 3, xinhai rd.:辛亥路三段157巷口
 ln. 157, yongfeng rd. intersection:永丰路157巷口
-ln. 157, yongfeng rd. intersection:永豐路157巷口
 ln. 158, sec. 1, lingyun rd.:língyúnlùyīduàn158xiàngkǒu
 ln. 158, sec. 1, lingyun rd.:ㄌㄧㄥˊㄩㄣˊㄌㄨˋㄧㄉㄨㄢˋ158ㄒㄧㄤˋㄎㄡˇ
 ln. 158, sec. 1, lingyun rd.:凌云路一段158巷口
-ln. 158, sec. 1, lingyun rd.:凌雲路一段158巷口
 ln. 159, sec. 2, keelung rd. intersection:jīlónglùèrduàn159xiàngkǒu
 ln. 159, sec. 2, keelung rd. intersection:ㄐㄧㄌㄨㄥˊㄌㄨˋㄦˋㄉㄨㄢˋ159ㄒㄧㄤˋㄎㄡˇ
 ln. 159, sec. 2, keelung rd. intersection:基隆路二段159巷口
@@ -185,56 +147,43 @@ ln. 16, sec. 2, yong'an n. rd. intersection:yǒngānnánlùèrduàn16xiàngkǒu
 ln. 16, sec. 2, yong'an n. rd. intersection:ㄩㄥˇㄢㄋㄢˊㄌㄨˋㄦˋㄉㄨㄢˋ16ㄒㄧㄤˋㄎㄡˇ
 ln. 16, sec. 2, yong'an n. rd. intersection:永安南路二段16巷口
 ln. 16, sec. 3, huanshan rd.:环山路三段16巷口
-ln. 16, sec. 3, huanshan rd.:環山路三段16巷口
 ln. 161, yangguang st. intersection:yángguāngjiē161xiàngkǒu
 ln. 161, yangguang st. intersection:ㄧㄤˊㄍㄨㄤㄐㄧㄝ161ㄒㄧㄤˋㄎㄡˇ
 ln. 161, yangguang st. intersection:阳光街161巷口
-ln. 161, yangguang st. intersection:陽光街161巷口
 ln. 161, zhonghua 1st rd. intersection:zhōnghuáyīlù161xiàngkǒu
 ln. 161, zhonghua 1st rd. intersection:ㄓㄨㄥㄏㄨㄚˊㄧㄌㄨˋ161ㄒㄧㄤˋㄎㄡˇ
 ln. 161, zhonghua 1st rd. intersection:中华一路161巷口
-ln. 161, zhonghua 1st rd. intersection:中華一路161巷口
 ln. 163, xinyi rd. intersection:xìnyìlù163xiàngkǒu
 ln. 163, xinyi rd. intersection:ㄒㄧㄣˋㄧˋㄌㄨˋ163ㄒㄧㄤˋㄎㄡˇ
 ln. 163, xinyi rd. intersection:信义路163巷口
-ln. 163, xinyi rd. intersection:信義路163巷口
 ln. 163, zhongren st.:忠仁街163巷
 ln. 165, yusheng st. intersection:yǔshēngjiē165xiàngkǒu
 ln. 165, yusheng st. intersection:ㄩˇㄕㄥㄐㄧㄝ165ㄒㄧㄤˋㄎㄡˇ
 ln. 165, yusheng st. intersection:雨声街165巷口
-ln. 165, yusheng st. intersection:雨聲街165巷口
 ln. 166, sanmin rd. intersection:sānmínlù166xiàngkǒu
 ln. 166, sanmin rd. intersection:ㄙㄢㄇㄧㄣˊㄌㄨˋ166ㄒㄧㄤˋㄎㄡˇ
 ln. 166, sanmin rd. intersection:三民路166巷口
 ln. 169, dahu shanzhuang st.:大湖山庄街169巷
-ln. 169, dahu shanzhuang st.:大湖山莊街169巷
 ln. 17, haodong rd. intersection:hàodōnglù17xiàngkǒu
 ln. 17, haodong rd. intersection:ㄏㄠˋㄉㄨㄥㄌㄨˋ17ㄒㄧㄤˋㄎㄡˇ
 ln. 17, haodong rd. intersection:皓东路17巷口
-ln. 17, haodong rd. intersection:皓東路17巷口
 ln. 17, sec. 1, jianguo n. rd.:jiànguóběilùyīduàn17xiàng
 ln. 17, sec. 1, jianguo n. rd.:ㄐㄧㄢˋㄍㄨㄛˊㄅㄟˇㄌㄨˋㄧㄉㄨㄢˋ17ㄒㄧㄤˋ
 ln. 17, sec. 1, jianguo n. rd.:建国北路一段17巷
-ln. 17, sec. 1, jianguo n. rd.:建國北路一段17巷
 ln. 17, sec. 1, zhongshan rd.intersection:中山路一段17巷口
-ln. 170, siwei rd.:四維路170巷口
 ln. 170, siwei rd.:四维路170巷口
 ln. 175, jiaxing st intersection.:jiāxìngjiē175xiàngkǒu
 ln. 175, jiaxing st intersection.:ㄐㄧㄚㄒㄧㄥˋㄐㄧㄝ175ㄒㄧㄤˋㄎㄡˇ
 ln. 175, jiaxing st intersection.:嘉兴街175巷口
-ln. 175, jiaxing st intersection.:嘉興街175巷口
 ln. 178, sec. 2, nangang rd.:南港路二段178巷口
 ln. 179, sec. 2, neihu rd.:nèihúlùèrduàn179xiàngkǒu
 ln. 179, sec. 2, neihu rd.:ㄋㄟˋㄏㄨˊㄌㄨˋㄦˋㄉㄨㄢˋ179ㄒㄧㄤˋㄎㄡˇ
 ln. 179, sec. 2, neihu rd.:內湖路二段179巷口
 ln. 179, sec. 2, neihu rd.:内湖路二段179巷口
 ln. 179, sec. 4, nanjing e. rd.:南京东路四段179巷口
-ln. 179, sec. 4, nanjing e. rd.:南京東路四段179巷口
 ln. 18, sec. 2, heping e. rd.:和平东路二段18巷口
-ln. 18, sec. 2, heping e. rd.:和平東路二段18巷口
 ln. 180, sec. 2, zhongyang rd.:中央路二段180巷
 ln. 180, zhongxing st. intersection:中兴街180巷口
-ln. 180, zhongxing st. intersection:中興街180巷口
 ln. 181, sec. 2, anhe rd:ānhélùèrduàn181xiàngkǒu
 ln. 181, sec. 2, anhe rd:ㄢㄏㄜˊㄌㄨˋㄦˋㄉㄨㄢˋ181ㄒㄧㄤˋㄎㄡˇ
 ln. 181, sec. 2, anhe rd:安和路二段181巷口
@@ -243,32 +192,28 @@ ln. 183, zhongzheng rd.:中正路183巷
 ln. 185, hualing st.:huálíngjiē185xiàngkǒu
 ln. 185, hualing st.:ㄏㄨㄚˊㄌㄧㄥˊㄐㄧㄝ185ㄒㄧㄤˋㄎㄡˇ
 ln. 185, hualing st.:华龄街185巷口
-ln. 185, hualing st.:華齡街185巷口
 ln. 185, sec. 1, xiuming rd. intersection:xiùmínglùyīduàn185xiàngkǒu
 ln. 185, sec. 1, xiuming rd. intersection:ㄒㄧㄡˋㄇㄧㄥˊㄌㄨˋㄧㄉㄨㄢˋ185ㄒㄧㄤˋㄎㄡˇ
 ln. 185, sec. 1, xiuming rd. intersection:秀明路一段185巷口
-ln. 187, xixian 1st st. intersection:西賢一街187巷口
+ln. 187, xixian 1st st. intersection:西贤一街187巷口
 ln. 188, sec. 7, chengde rd. intersection:chéngdélùqīduàn188xiàngkǒu
 ln. 188, sec. 7, chengde rd. intersection:ㄔㄥˊㄉㄜˊㄌㄨˋㄑㄧㄉㄨㄢˋ188ㄒㄧㄤˋㄎㄡˇ
 ln. 188, sec. 7, chengde rd. intersection:承德路七段188巷口
 ln. 19, fude 2nd rd. intersection:福德二路19巷口
 ln. 19, sec. 2, daguan rd.:dàguānlùèrduàn19xiàng
 ln. 19, sec. 2, daguan rd.:ㄉㄚˋㄍㄨㄢㄌㄨˋㄦˋㄉㄨㄢˋ19ㄒㄧㄤˋ
-ln. 19, sec. 2, daguan rd.:大觀路二段19巷
 ln. 19, sec. 2, daguan rd.:大观路二段19巷
 ln. 190, sec. 2, heping w. rd.:和平西路二段190巷口
 ln. 190, sec. 3, nangang rd.:南港路三段190巷口
 ln. 190, sec. 4, chongqing n. rd intersection:zhòngqìngběilùsìduàn190xiàngkǒu
 ln. 190, sec. 4, chongqing n. rd intersection:ㄓㄨㄥˋㄑㄧㄥˋㄅㄟˇㄌㄨˋㄙˋㄉㄨㄢˋ190ㄒㄧㄤˋㄎㄡˇ
 ln. 190, sec. 4, chongqing n. rd intersection:重庆北路四段190巷口
-ln. 190, sec. 4, chongqing n. rd intersection:重慶北路四段190巷口
 ln. 192, siyuan rd. intersection:思源路192巷口
 ln. 193, hansheng e. rd. intersection:汉生东路193巷口
-ln. 193, hansheng e. rd. intersection:漢生東路193巷口
 ln. 195, wolong st.:wòlóngjiē195xiàngkǒu
 ln. 195, wolong st.:ㄨㄛˋㄌㄨㄥˊㄐㄧㄝ195ㄒㄧㄤˋㄎㄡˇ
 ln. 195, wolong st.:卧龙街195巷口
-ln. 195, wolong st.:臥龍街195巷口
+ln. 195, wolong st.:臥龙街195巷口
 ln. 196, xiwei st. & renmei st. intersection:xīwěijiē196xiàng/rénměijiēkǒu
 ln. 196, xiwei st. & renmei st. intersection:ㄒㄧㄨㄟˇㄐㄧㄝ196ㄒㄧㄤˋ/ㄖㄣˊㄇㄟˇㄐㄧㄝㄎㄡˇ
 ln. 196, xiwei st. & renmei st. intersection:溪尾街196巷/仁美街口
@@ -276,68 +221,53 @@ ln. 197, chengfu rd.:成福路197巷口
 ln. 199, binjiang st.:bīnjiāngjiē199xiàngkǒu
 ln. 199, binjiang st.:ㄅㄧㄣㄐㄧㄤㄐㄧㄝ199ㄒㄧㄤˋㄎㄡˇ
 ln. 199, binjiang st.:滨江街199巷口
-ln. 199, binjiang st.:濱江街199巷口
 ln. 199, dingzhong rd.:dǐngzhōnglù199xiàngkǒu
 ln. 199, dingzhong rd.:ㄉㄧㄥˇㄓㄨㄥㄌㄨˋ199ㄒㄧㄤˋㄎㄡˇ
 ln. 199, dingzhong rd.:鼎中路199巷口
 ln. 199, sec. 4, xinyi rd.:信义路四段199巷
-ln. 199, sec. 4, xinyi rd.:信義路四段199巷
 ln. 2, sec. 3, zhinan rd.:zhǐnánlù3duàn2xiàng
 ln. 2, sec. 3, zhinan rd.:ㄓˇㄋㄢˊㄌㄨˋ3ㄉㄨㄢˋ2ㄒㄧㄤˋ
 ln. 2, sec. 3, zhinan rd.:指南路3段2巷
 ln. 20, daren st. intersection:大仁街20巷口
-ln. 20, wuquan 3rd st.:五權三街20巷
+ln. 20, wuquan 3rd st.:五权三街20巷
 ln. 200, songde rd:sōngdélù200xiàng
 ln. 200, songde rd:ㄙㄨㄥㄉㄜˊㄌㄨˋ200ㄒㄧㄤˋ
 ln. 200, songde rd:松德路200巷
 ln. 201, fude 1st rd.:fúdéyīlù201xiàngkǒu(fúdéoneshèqū)
 ln. 201, fude 1st rd.:ㄈㄨˊㄉㄜˊㄧㄌㄨˋ201ㄒㄧㄤˋㄎㄡˇ(ㄈㄨˊㄉㄜˊoneㄕㄜˋㄑㄩ)
 ln. 201, fude 1st rd.:福德一路201巷口(福德one社区)
-ln. 201, fude 1st rd.:福德一路201巷口(福德one社區)
 ln. 202, sec. 2, binhai rd. intersection:滨海路二段/滨海路二段202巷
-ln. 202, sec. 2, binhai rd. intersection:濱海路二段/濱海路二段202巷
 ln. 202, sec. 2, binhai rd.:滨海路二段202巷
-ln. 202, sec. 2, binhai rd.:濱海路二段202巷
 ln. 203, sec. 2, xinglong rd. (dunnan):兴隆路二段203巷(敦南)
-ln. 203, sec. 2, xinglong rd. (dunnan):興隆路二段203巷(敦南)
 ln. 203, sec. 2, xinglong rd:xìnglónglù2duàn203xiàng
 ln. 203, sec. 2, xinglong rd:ㄒㄧㄥˋㄌㄨㄥˊㄌㄨˋ2ㄉㄨㄢˋ203ㄒㄧㄤˋ
 ln. 203, sec. 2, xinglong rd:兴隆路2段203巷
-ln. 203, sec. 2, xinglong rd:興隆路2段203巷
 ln. 208, rui'an st.:ruìānjiē208xiàng
 ln. 208, rui'an st.:ㄖㄨㄟˋㄢㄐㄧㄝ208ㄒㄧㄤˋ
 ln. 208, rui'an st.:瑞安街208巷
-ln. 209, minquan rd.:民權路209巷
+ln. 209, minquan rd.:民权路209巷
 ln. 21, leli rd. intersection:lèlìlù21xiàngkǒu
 ln. 21, leli rd. intersection:ㄌㄜˋㄌㄧˋㄌㄨˋ21ㄒㄧㄤˋㄎㄡˇ
 ln. 21, leli rd. intersection:乐利路21巷口
-ln. 21, leli rd. intersection:樂利路21巷口
 ln. 21, sec. 1, zhonghua rd intersection:zhōnghuálùyīduàn21xiàngkǒu
 ln. 21, sec. 1, zhonghua rd intersection:ㄓㄨㄥㄏㄨㄚˊㄌㄨˋㄧㄉㄨㄢˋ21ㄒㄧㄤˋㄎㄡˇ
 ln. 21, sec. 1, zhonghua rd intersection:中华路一段21巷口
-ln. 21, sec. 1, zhonghua rd intersection:中華路一段21巷口
-ln. 211, changrong rd. intersection:長榮路211巷口
 ln. 211, changrong rd. intersection:长荣路211巷口
 ln. 212, sec. 1, wenhua rd. intersection:wénhuàlùyīduàn212xiàngkǒu
 ln. 212, sec. 1, wenhua rd. intersection:ㄨㄣˊㄏㄨㄚˋㄌㄨˋㄧㄉㄨㄢˋ212ㄒㄧㄤˋㄎㄡˇ
 ln. 212, sec. 1, wenhua rd. intersection:文化路一段212巷口
 ln. 212, sec. 6, zhongxiao e. rd.:忠孝东路六段212巷口
-ln. 212, sec. 6, zhongxiao e. rd.:忠孝東路六段212巷口
 ln. 215, sec. 5, zhongxiao e. rd.:忠孝东路五段215巷口
-ln. 215, sec. 5, zhongxiao e. rd.:忠孝東路五段215巷口
 ln. 216, shalun rd.:沙仑路216巷口
 ln. 216, shalun rd.:沙崙路216巷口
 ln. 216, zhongyang road:中央路216巷
 ln. 217, sec. 2, huanhe w. rd. intersection:环河西路二段217巷口
-ln. 217, sec. 2, huanhe w. rd. intersection:環河西路二段217巷口
 ln. 217, sec. 3, zhongxiao e. rd.:zhōngxiàodōnglùsānduàn217xiàngkǒu
 ln. 217, sec. 3, zhongxiao e. rd.:ㄓㄨㄥㄒㄧㄠˋㄉㄨㄥㄌㄨˋㄙㄢㄉㄨㄢˋ217ㄒㄧㄤˋㄎㄡˇ
 ln. 217, sec. 3, zhongxiao e. rd.:忠孝东路三段217巷口
-ln. 217, sec. 3, zhongxiao e. rd.:忠孝東路三段217巷口
 ln. 22, guangfu s. rd. intersection:guāngfùnánlù22xiàngkǒu
 ln. 22, guangfu s. rd. intersection:ㄍㄨㄤㄈㄨˋㄋㄢˊㄌㄨˋ22ㄒㄧㄤˋㄎㄡˇ
 ln. 22, guangfu s. rd. intersection:光复南路22巷口
-ln. 22, guangfu s. rd. intersection:光復南路22巷口
 ln. 22, sec. 4, chengtai rd.:chéngtàilù4duàn22xiàng
 ln. 22, sec. 4, chengtai rd.:ㄔㄥˊㄊㄞˋㄌㄨˋ4ㄉㄨㄢˋ22ㄒㄧㄤˋ
 ln. 22, sec. 4, chengtai rd.:成泰路4段22巷
@@ -345,7 +275,6 @@ ln. 22, shengping st.:昇平街22巷
 ln. 22, xianyan rd.:仙岩路22巷口
 ln. 22, zhongguang st. parking:zhōngguāngjiē22xiàngkǒutíngchēchǎng
 ln. 22, zhongguang st. parking:ㄓㄨㄥㄍㄨㄤㄐㄧㄝ22ㄒㄧㄤˋㄎㄡˇㄊㄧㄥˊㄔㄜㄔㄤˇ
-ln. 22, zhongguang st. parking:中光街22巷口停車場
 ln. 22, zhongguang st. parking:中光街22巷口停车场
 ln. 220, sec. 3, nangang rd. intersection:nángǎnglùsānduàn220xiàngkǒu
 ln. 220, sec. 3, nangang rd. intersection:ㄋㄢˊㄍㄤˇㄌㄨˋㄙㄢㄉㄨㄢˋ220ㄒㄧㄤˋㄎㄡˇ
@@ -355,7 +284,6 @@ ln. 225, minzu rd.:民族路225巷
 ln. 225, sec. 6, zhongxiao e. rd intersection:zhōngxiàodōnglùliùduàn225xiàngkǒu
 ln. 225, sec. 6, zhongxiao e. rd intersection:ㄓㄨㄥㄒㄧㄠˋㄉㄨㄥㄌㄨˋㄌㄧㄡˋㄉㄨㄢˋ225ㄒㄧㄤˋㄎㄡˇ
 ln. 225, sec. 6, zhongxiao e. rd intersection:忠孝东路六段225巷口
-ln. 225, sec. 6, zhongxiao e. rd intersection:忠孝東路六段225巷口
 ln. 228, sec. 2, beixin rd. intersection:北新路二段228巷口
 ln. 23, yongping st.:yǒngpíngjiē23xiàng
 ln. 23, yongping st.:ㄩㄥˇㄆㄧㄥˊㄐㄧㄝ23ㄒㄧㄤˋ
@@ -363,27 +291,20 @@ ln. 23, yongping st.:永平街23巷
 ln. 230, licuo rd:李厝路230巷
 ln. 230, sec. 4, xinshi 2nd rd.:新市二路四段230巷
 ln. 231, sec. 2, xingnan rd. intersection:兴南路二段231巷口
-ln. 231, sec. 2, xingnan rd. intersection:興南路二段231巷口
 ln. 235, baoqiao rd. intersection:宝桥路235巷
-ln. 235, baoqiao rd. intersection:寶橋路235巷
 ln. 235, baoqiao rd.:bǎoqiáolù235xiàngkǒu
 ln. 235, baoqiao rd.:ㄅㄠˇㄑㄧㄠˊㄌㄨˋ235ㄒㄧㄤˋㄎㄡˇ
 ln. 235, baoqiao rd.:宝桥路235巷口
-ln. 235, baoqiao rd.:寶橋路235巷口
 ln. 235, sec. 2, daye rd. intersection:大业路二段235巷口
-ln. 235, sec. 2, daye rd. intersection:大業路二段235巷口
 ln. 236, sec. 1, jianguo n. rd.:jiànguónánlùyīduàn236xiàngkǒu
 ln. 236, sec. 1, jianguo n. rd.:ㄐㄧㄢˋㄍㄨㄛˊㄋㄢˊㄌㄨˋㄧㄉㄨㄢˋ236ㄒㄧㄤˋㄎㄡˇ
 ln. 236, sec. 1, jianguo n. rd.:建国南路一段236巷口
-ln. 236, sec. 1, jianguo n. rd.:建國南路一段236巷口
 ln. 24, mingxin st. / mingxin st.:明新街24巷明新街口
 ln. 242, zhongzheng rd. intersection:中正路242巷口
 ln. 245, sec. 6, minquan e. rd. intersection:mínquándōnglùliùduàn245xiàngkǒu
 ln. 245, sec. 6, minquan e. rd. intersection:ㄇㄧㄣˊㄑㄩㄢˊㄉㄨㄥㄌㄨˋㄌㄧㄡˋㄉㄨㄢˋ245ㄒㄧㄤˋㄎㄡˇ
 ln. 245, sec. 6, minquan e. rd. intersection:民权东路六段245巷口
-ln. 245, sec. 6, minquan e. rd. intersection:民權東路六段245巷口
 ln. 248, sec. 4, zhongxiao e. rd.:忠孝东路四段248巷口
-ln. 248, sec. 4, zhongxiao e. rd.:忠孝東路四段248巷口
 ln. 248, zhongzheng rd. intersection:中正路248巷口
 ln. 249, sec. 1, wenhua 3rd. rd.:wénhuàsānlùyīduàn249xiàng
 ln. 249, sec. 1, wenhua 3rd. rd.:ㄨㄣˊㄏㄨㄚˋㄙㄢㄌㄨˋㄧㄉㄨㄢˋ249ㄒㄧㄤˋ
@@ -394,9 +315,8 @@ ln. 25, xingshan rd. intersection:行善路25巷口
 ln. 250, xinhu 2nd rd.:xīnhúèrlù250xiàngkǒu
 ln. 250, xinhu 2nd rd.:ㄒㄧㄣㄏㄨˊㄦˋㄌㄨˋ250ㄒㄧㄤˋㄎㄡˇ
 ln. 250, xinhu 2nd rd.:新湖二路250巷口
-ln. 251, chang'an st.:長安街251巷
 ln. 251, chang'an st.:长安街251巷
-ln. 252 jianguo rd.:建國路252巷
+ln. 252 jianguo rd.:建国路252巷
 ln. 252, min'an w. rd.:mínānxīlù252xiàng
 ln. 252, min'an w. rd.:ㄇㄧㄣˊㄢㄒㄧㄌㄨˋ252ㄒㄧㄤˋ
 ln. 252, min'an w. rd.:民安西路252巷
@@ -406,44 +326,35 @@ ln. 255, xintai rd.:新泰路255巷口
 ln. 256, sec. 1, xinshi 1st rd.intersection:新市一路一段256巷口
 ln. 257, minzu rd. & ln. 327, minzu rd. intersection:民族路257巷/民族路327巷
 ln. 26, renyi st.:仁义街26巷
-ln. 26, renyi st.:仁義街26巷
 ln. 26, sec. 2, huanshan rd intersection:huánshānlùèrduàn26xiàngkǒu
 ln. 26, sec. 2, huanshan rd intersection:ㄏㄨㄢˊㄕㄢㄌㄨˋㄦˋㄉㄨㄢˋ26ㄒㄧㄤˋㄎㄡˇ
 ln. 26, sec. 2, huanshan rd intersection:环山路二段26巷口
-ln. 26, sec. 2, huanshan rd intersection:環山路二段26巷口
 ln. 260, huaya 2nd rd intersection:huáyàèrlù260xiàngkǒu
 ln. 260, huaya 2nd rd intersection:ㄏㄨㄚˊㄧㄚˋㄦˋㄌㄨˋ260ㄒㄧㄤˋㄎㄡˇ
 ln. 260, huaya 2nd rd intersection:华亚二路260巷口
-ln. 260, huaya 2nd rd intersection:華亞二路260巷口
 ln. 260, sec.1, wenhua 2nd. rd.:文化二路一段260巷口
 ln. 260, wuxing st. intersection:wúxìngjiē260xiàng
 ln. 260, wuxing st. intersection:ㄨˊㄒㄧㄥˋㄐㄧㄝ260ㄒㄧㄤˋ
-ln. 260, wuxing st. intersection:吳興街260巷
 ln. 260, wuxing st. intersection:吴兴街260巷
 ln. 268, baoping rd.:保平路268巷
 ln. 270, datong rd. intersection:大同路270巷口
 ln. 270, sec. 3, xianmin blvd. intersection:县民大道三段270巷口
-ln. 270, sec. 3, xianmin blvd. intersection:縣民大道三段270巷口
 ln. 278, sec. 6, zhongxiao e. rd.:忠孝东路六段278巷口
-ln. 278, sec. 6, zhongxiao e. rd.:忠孝東路六段278巷口
 ln. 279, sec. 1, jianguo s. rd intersection:jiànguónánlùyīduàn279xiàngkǒu
 ln. 279, sec. 1, jianguo s. rd intersection:ㄐㄧㄢˋㄍㄨㄛˊㄋㄢˊㄌㄨˋㄧㄉㄨㄢˋ279ㄒㄧㄤˋㄎㄡˇ
 ln. 279, sec. 1, jianguo s. rd intersection:建国南路一段279巷口
-ln. 279, sec. 1, jianguo s. rd intersection:建國南路一段279巷口
 ln. 28 zhongshan rd. / zhongshan rd. (northeast):zhōngshānlù28xiàngzhōngshānlùkǒu(dōngběicè)
 ln. 28 zhongshan rd. / zhongshan rd. (northeast):ㄓㄨㄥㄕㄢㄌㄨˋ28ㄒㄧㄤˋㄓㄨㄥㄕㄢㄌㄨˋㄎㄡˇ(ㄉㄨㄥㄅㄟˇㄘㄜˋ)
 ln. 28 zhongshan rd. / zhongshan rd. (northeast):中山路28巷中山路口(东北侧)
-ln. 28 zhongshan rd. / zhongshan rd. (northeast):中山路28巷中山路口(東北側)
 ln. 281, sec. 3, zhongyang rd.:中央路三段281巷
-ln. 284, wuxing st. (guangan shrine):吳興街284巷(廣安宮)
 ln. 284, wuxing st. (guangan shrine):吴兴街284巷(广安宫)
+ln. 284, wuxing st. (guangan shrine):吴兴街284巷(广安宮)
 ln. 284, zhongzheng rd.:zhōngzhènglù284xiàng
 ln. 284, zhongzheng rd.:ㄓㄨㄥㄓㄥˋㄌㄨˋ284ㄒㄧㄤˋ
 ln. 284, zhongzheng rd.:中正路284巷
 ln. 288, sec. 1, neihu rd.:內湖路一段288巷口
 ln. 288, sec. 1, neihu rd.:内湖路一段288巷口
 ln. 29, baoqiao rd. intersection:宝桥路29巷
-ln. 29, baoqiao rd. intersection:寶橋路29巷
 ln. 290, sec. 3, nangang rd. intersection:nángǎnglùsānduàn290xiàngkǒu
 ln. 290, sec. 3, nangang rd. intersection:ㄋㄢˊㄍㄤˇㄌㄨˋㄙㄢㄉㄨㄢˋ290ㄒㄧㄤˋㄎㄡˇ
 ln. 290, sec. 3, nangang rd. intersection:南港路三段290巷口
@@ -462,20 +373,16 @@ ln. 292, songshan rd. intersection:松山路292巷口
 ln. 293, sec. 2, dunhua s. rd (south):dūnhuànánlùèrduàn293xiàngkǒunáncè
 ln. 293, sec. 2, dunhua s. rd (south):ㄉㄨㄣㄏㄨㄚˋㄋㄢˊㄌㄨˋㄦˋㄉㄨㄢˋ293ㄒㄧㄤˋㄎㄡˇㄋㄢˊㄘㄜˋ
 ln. 293, sec. 2, dunhua s. rd (south):敦化南路二段293巷口南侧
-ln. 293, sec. 2, dunhua s. rd (south):敦化南路二段293巷口南側
 ln. 295, sec. 1, dunhua s. rd.:敦化南路一段295巷口
 ln. 30, denggong rd.:邓公路30巷
-ln. 30, denggong rd.:鄧公路30巷
 ln. 300, daye rd. intersction:dàyèlù300xiàngkǒu
 ln. 300, daye rd. intersction:ㄉㄚˋㄧㄝˋㄌㄨˋ300ㄒㄧㄤˋㄎㄡˇ
 ln. 300, daye rd. intersction:大业路300巷口
-ln. 300, daye rd. intersction:大業路300巷口
 ln. 304, sec. 7, chengde rd.:chéngdélùqīduàn304xiàngkǒu
 ln. 304, sec. 7, chengde rd.:ㄔㄥˊㄉㄜˊㄌㄨˋㄑㄧㄉㄨㄢˋ304ㄒㄧㄤˋㄎㄡˇ
 ln. 304, sec. 7, chengde rd.:承德路七段304巷口
 ln. 305, sec. 1, zhicheng rd. intersection:zhìchénglùyīduàn305xiàngkǒu
 ln. 305, sec. 1, zhicheng rd. intersection:ㄓˋㄔㄥˊㄌㄨˋㄧㄉㄨㄢˋ305ㄒㄧㄤˋㄎㄡˇ
-ln. 305, sec. 1, zhicheng rd. intersection:至誠路一段305巷口
 ln. 305, sec. 1, zhicheng rd. intersection:至诚路一段305巷口
 ln. 307 daan & daan intersection:dàānlù307xiàngkǒu
 ln. 307 daan & daan intersection:ㄉㄚˋㄢㄌㄨˋ307ㄒㄧㄤˋㄎㄡˇ
@@ -483,13 +390,10 @@ ln. 307 daan & daan intersection:大安路307巷口
 ln. 307, kangning st.:kāngníngjiē307xiàng
 ln. 307, kangning st.:ㄎㄤㄋㄧㄥˊㄐㄧㄝ307ㄒㄧㄤˋ
 ln. 307, kangning st.:康宁街307巷
-ln. 307, kangning st.:康寧街307巷
 ln. 31, zhongshan rd.:中山路31巷(波尔多2社区)
-ln. 31, zhongshan rd.:中山路31巷(波爾多2社區)
 ln. 314, minzu rd.:民族路314巷口
 ln. 32, nanshun 7th st.:nánshùnqījiē32xiàngkǒu
 ln. 32, nanshun 7th st.:ㄋㄢˊㄕㄨㄣˋㄑㄧㄐㄧㄝ32ㄒㄧㄤˋㄎㄡˇ
-ln. 32, nanshun 7th st.:南順七街32巷口
 ln. 32, nanshun 7th st.:南顺七街32巷口
 ln. 32, xinhe st. intersection:新和街32巷口
 ln. 321, yongji rd. intersection:yǒngjílù321xiàngkǒu
@@ -502,117 +406,88 @@ ln. 33, yumin 2nd rd.:yùmínèrlù33xiàng
 ln. 33, yumin 2nd rd.:ㄩˋㄇㄧㄣˊㄦˋㄌㄨˋ33ㄒㄧㄤˋ
 ln. 33, yumin 2nd rd.:裕民二路33巷
 ln. 330, guoguang st. intersection:国光街330巷口
-ln. 330, guoguang st. intersection:國光街330巷口
 ln. 331, sec. 1, xinshi 1st rd. & ln. 163, sec. 1, yishan rd.:新市一路一段331巷/义山路一段163巷口(东南侧)
-ln. 331, sec. 1, xinshi 1st rd. & ln. 163, sec. 1, yishan rd.:新市一路一段331巷/義山路一段163巷口(東南側)
 ln. 34, sec. 2, xingnan rd.:xìngnánlùèrduàn34xiàngkǒu
 ln. 34, sec. 2, xingnan rd.:ㄒㄧㄥˋㄋㄢˊㄌㄨˋㄦˋㄉㄨㄢˋ34ㄒㄧㄤˋㄎㄡˇ
 ln. 34, sec. 2, xingnan rd.:兴南路二段34巷口
-ln. 34, sec. 2, xingnan rd.:興南路二段34巷口
 ln. 340, sec. 1, fuxing s. rd intersection:fùxìngnánlù1duàn340xiàngkǒu
 ln. 340, sec. 1, fuxing s. rd intersection:ㄈㄨˋㄒㄧㄥˋㄋㄢˊㄌㄨˋ1ㄉㄨㄢˋ340ㄒㄧㄤˋㄎㄡˇ
 ln. 340, sec. 1, fuxing s. rd intersection:复兴南路1段340巷口
-ln. 340, sec. 1, fuxing s. rd intersection:復興南路1段340巷口
 ln. 340, sec. 2, fuxing s. rd.:fùxìngnánlùèrduàn340xiàngkǒu
 ln. 340, sec. 2, fuxing s. rd.:ㄈㄨˋㄒㄧㄥˋㄋㄢˊㄌㄨˋㄦˋㄉㄨㄢˋ340ㄒㄧㄤˋㄎㄡˇ
 ln. 340, sec. 2, fuxing s. rd.:复兴南路二段340巷口
-ln. 340, sec. 2, fuxing s. rd.:復興南路二段340巷口
 ln. 341, sec. 3, heping e. rd.:和平东路三段341巷口
-ln. 341, sec. 3, heping e. rd.:和平東路三段341巷口
 ln. 343, sec. 1, xiwan rd.:汐万路一段343巷
-ln. 343, sec. 1, xiwan rd.:汐萬路一段343巷
 ln. 347, zhongzheng rd.:zhōngzhènglù347xiàngkǒu
 ln. 347, zhongzheng rd.:ㄓㄨㄥㄓㄥˋㄌㄨˋ347ㄒㄧㄤˋㄎㄡˇ
 ln. 347, zhongzheng rd.:中正路347巷口
 ln. 356, demin rd.:démínlù356xiàngdéxiánlùkǒuxīběicè
 ln. 356, demin rd.:ㄉㄜˊㄇㄧㄣˊㄌㄨˋ356ㄒㄧㄤˋㄉㄜˊㄒㄧㄢˊㄌㄨˋㄎㄡˇㄒㄧㄅㄟˇㄘㄜˋ
-ln. 356, demin rd.:德民路356巷德賢路口西北側
 ln. 356, demin rd.:德民路356巷德贤路口西北侧
 ln. 358, ruiguang rd.:瑞光路358巷口
 ln. 36, dongshun st. intersection:东顺街36巷口
-ln. 36, dongshun st. intersection:東順街36巷口
 ln. 36, yuanshan rd. intersection:员山路36巷口
-ln. 36, yuanshan rd. intersection:員山路36巷口
 ln. 360, sec. 1, neihu rd.:內湖路一段360巷
 ln. 360, sec. 1, neihu rd.:内湖路一段360巷
 ln. 363, sec. 2, ganyuan st. intersection:柑园街二段363巷口
-ln. 363, sec. 2, ganyuan st. intersection:柑園街二段363巷口
 ln. 368, minsheng rd.:民生路368巷
 ln. 368, sec. 6, nanjing e. rd.:nánjīngdōnglùliùduàn368xiàng
 ln. 368, sec. 6, nanjing e. rd.:ㄋㄢˊㄐㄧㄥㄉㄨㄥㄌㄨˋㄌㄧㄡˋㄉㄨㄢˋ368ㄒㄧㄤˋ
 ln. 368, sec. 6, nanjing e. rd.:南京东路六段368巷
-ln. 368, sec. 6, nanjing e. rd.:南京東路六段368巷
 ln. 37, sec. 2, zhongxing rd.:中兴路二段37巷口
-ln. 37, sec. 2, zhongxing rd.:中興路二段37巷口
 ln. 370, anbei rd.:安北路370巷
 ln. 370, wuchang st.:五常街370巷
 ln. 379, zhonghua rd. intersection:中华路379巷口
-ln. 379, zhonghua rd. intersection:中華路379巷口
 ln. 38, danjin rd.:淡金路38巷尾
 ln. 383, sec. 3, chongqing n rd. intersection:zhòngqìngběilùsānduàn383xiàngkǒu
 ln. 383, sec. 3, chongqing n rd. intersection:ㄓㄨㄥˋㄑㄧㄥˋㄅㄟˇㄌㄨˋㄙㄢㄉㄨㄢˋ383ㄒㄧㄤˋㄎㄡˇ
 ln. 383, sec. 3, chongqing n rd. intersection:重庆北路三段383巷口
-ln. 383, sec. 3, chongqing n rd. intersection:重慶北路三段383巷口
 ln. 383, xingshan rd.:行善路383巷
 ln. 384, shezhong st intersection:shèzhōngjiē384xiàngkǒu
 ln. 384, shezhong st intersection:ㄕㄜˋㄓㄨㄥㄐㄧㄝ384ㄒㄧㄤˋㄎㄡˇ
 ln. 384, shezhong st intersection:社中街384巷口
 ln. 4, chengtian rd.:承天路4巷(mrt社区)
-ln. 4, chengtian rd.:承天路4巷(mrt社區)
 ln. 4-2, shuinan rd.:水湳路4-2巷
 ln. 40, beiyang rd. / beiyang rd.:běiyánglù40xiàngběiyánglùkǒu
 ln. 40, beiyang rd. / beiyang rd.:ㄅㄟˇㄧㄤˊㄌㄨˋ40ㄒㄧㄤˋㄅㄟˇㄧㄤˊㄌㄨˋㄎㄡˇ
 ln. 40, beiyang rd. / beiyang rd.:北阳路40巷北阳路口
-ln. 40, beiyang rd. / beiyang rd.:北陽路40巷北陽路口
-ln. 40, ren'ai rd. intersection:仁愛路40巷口
 ln. 40, ren'ai rd. intersection:仁爱路40巷口
 ln. 40, shishang rd.:士商路40巷口
 ln. 404, zhongzheng s. rd. intersection:中正南路404巷口
 ln. 407, jilin rd. intersection:jílínlù407xiàngkǒu
 ln. 407, jilin rd. intersection:ㄐㄧˊㄌㄧㄣˊㄌㄨˋ407ㄒㄧㄤˋㄎㄡˇ
 ln. 407, jilin rd. intersection:吉林路407巷口
-ln. 407, sec. 2, tiding blvd.:堤頂大道二段407巷口
 ln. 407, sec. 2, tiding blvd.:堤顶大道二段407巷口
 ln. 409, sec. 2, zhonghua rd:zhōnghuálùèrduàn409xiàngkǒu
 ln. 409, sec. 2, zhonghua rd:ㄓㄨㄥㄏㄨㄚˊㄌㄨˋㄦˋㄉㄨㄢˋ409ㄒㄧㄤˋㄎㄡˇ
 ln. 409, sec. 2, zhonghua rd:中华路二段409巷口
-ln. 409, sec. 2, zhonghua rd:中華路二段409巷口
-ln. 41, fudong st.:府東街41巷
+ln. 41, fudong st.:府东街41巷
 ln. 41, fushun st. (chongde temple):fǔshùnjiē41xiàng(chóngdégōngqián)
 ln. 41, fushun st. (chongde temple):ㄈㄨˇㄕㄨㄣˋㄐㄧㄝ41ㄒㄧㄤˋ(ㄔㄨㄥˊㄉㄜˊㄍㄨㄥㄑㄧㄢˊ)
 ln. 41, fushun st. (chongde temple):抚顺街41巷(崇德宫前)
-ln. 41, fushun st. (chongde temple):撫順街41巷(崇德宮前)
+ln. 41, fushun st. (chongde temple):抚顺街41巷(崇德宮前)
 ln. 41, sec. 4, chenggong rd.:chénggōnglùsìduàn41xiàngkǒu
 ln. 41, sec. 4, chenggong rd.:ㄔㄥˊㄍㄨㄥㄌㄨˋㄙˋㄉㄨㄢˋ41ㄒㄧㄤˋㄎㄡˇ
 ln. 41, sec. 4, chenggong rd.:成功路四段41巷口
 ln. 412, sec. 1, wenhua n. rd.:文化北路一段412巷口
 ln. 413, sec. 6, minquan e. rd.:民权东路六段413巷
-ln. 413, sec. 6, minquan e. rd.:民權東路六段413巷
 ln. 42, jingxing rd.:景兴路42巷口
-ln. 42, jingxing rd.:景興路42巷口
 ln. 42, sec. 2, guangfu rd. intersection:光复路二段42巷口
-ln. 42, sec. 2, guangfu rd. intersection:光復路二段42巷口
 ln. 43, zhongqin st.:忠勤街43巷
 ln. 431, songshan rd. intersection:sōngjiānglù431xiàngkǒu
 ln. 431, songshan rd. intersection:ㄙㄨㄥㄐㄧㄤㄌㄨˋ431ㄒㄧㄤˋㄎㄡˇ
 ln. 431, songshan rd. intersection:松江路431巷口
 ln. 434, qingyun rd. intersection:青云路434巷口
-ln. 434, qingyun rd. intersection:青雲路434巷口
 ln. 44, zhongyi st.:忠义街44巷
-ln. 44, zhongyi st.:忠義街44巷
 ln. 447, sec.1, wenhua 3rd rd.:文化三路一段447巷口
 ln. 451, qingyun rd.:qīngyúnlù451xiàngkǒu(niǔyuēàiměishèqū)
 ln. 451, qingyun rd.:ㄑㄧㄥㄩㄣˊㄌㄨˋ451ㄒㄧㄤˋㄎㄡˇ(ㄋㄧㄡˇㄩㄝㄞˋㄇㄟˇㄕㄜˋㄑㄩ)
 ln. 451, qingyun rd.:青云路451巷口(纽约艾美社区)
-ln. 451, qingyun rd.:青雲路451巷口(紐約艾美社區)
 ln. 452, baoshan rd.:宝山路452巷
-ln. 452, baoshan rd.:寶山路452巷
 ln. 46, jinlong rd.:jīnlónglù46xiàng
 ln. 46, jinlong rd.:ㄐㄧㄣㄌㄨㄥˊㄌㄨˋ46ㄒㄧㄤˋ
-ln. 46, jinlong rd.:金龍路46巷
 ln. 46, jinlong rd.:金龙路46巷
 ln. 460 fengyuan blvd.:丰原大道460巷口
-ln. 460 fengyuan blvd.:豐原大道460巷口
 ln. 460, xinming rd. intersection:xīnmínglù460xiàngkǒu
 ln. 460, xinming rd. intersection:ㄒㄧㄣㄇㄧㄥˊㄌㄨˋ460ㄒㄧㄤˋㄎㄡˇ
 ln. 460, xinming rd. intersection:新明路460巷口
@@ -620,7 +495,7 @@ ln. 468, yongji rd.:永吉路468巷口
 ln. 47, jinshan rd.:金山路47巷
 ln. 47, sec. 1, neihu rd.:內湖路一段47巷
 ln. 47, sec. 1, neihu rd.:内湖路一段47巷
-ln. 47, zhen 2nd street:鎮二街47巷
+ln. 47, zhen 2nd street:镇二街47巷
 ln. 478, sec. 2, daya rd. intersection:dàyálùèrduàn478xiàngkǒu
 ln. 478, sec. 2, daya rd. intersection:ㄉㄚˋㄧㄚˊㄌㄨˋㄦˋㄉㄨㄢˋ478ㄒㄧㄤˋㄎㄡˇ
 ln. 478, sec. 2, daya rd. intersection:大雅路二段478巷口
@@ -628,57 +503,44 @@ ln. 48, sec. 3, muzha rd.:木柵路三段48巷
 ln. 48, sec. 3, muzha rd.:木栅路三段48巷
 ln. 48, sec. 4, ren'ai rd.:rénàilùsìduàn48xiàngkǒu
 ln. 48, sec. 4, ren'ai rd.:ㄖㄣˊㄞˋㄌㄨˋㄙˋㄉㄨㄢˋ48ㄒㄧㄤˋㄎㄡˇ
-ln. 48, sec. 4, ren'ai rd.:仁愛路四段48巷口
 ln. 48, sec. 4, ren'ai rd.:仁爱路四段48巷口
 ln. 486, wanda rd:wàndàlù486xiàngkǒu
 ln. 486, wanda rd:ㄨㄢˋㄉㄚˋㄌㄨˋ486ㄒㄧㄤˋㄎㄡˇ
 ln. 486, wanda rd:万大路486巷口
-ln. 486, wanda rd:萬大路486巷口
 ln. 49, chenghuang street:城隍街49巷
-ln. 49, dacheng st:大誠街49巷
+ln. 49, dacheng st:大诚街49巷
 ln. 49, sec. 4, zhongxiao e. rd.:忠孝东路四段49巷口
-ln. 49, sec. 4, zhongxiao e. rd.:忠孝東路四段49巷口
 ln. 493, wanda rd.:万大路493巷
-ln. 493, wanda rd.:萬大路493巷
-ln. 495, jichang rd.:機場路495巷
+ln. 495, jichang rd.:机场路495巷
 ln. 496, sec. 4, ren'ai rd intersection:rénàilùsìduàn496xiàngkǒu
 ln. 496, sec. 4, ren'ai rd intersection:ㄖㄣˊㄞˋㄌㄨˋㄙˋㄉㄨㄢˋ496ㄒㄧㄤˋㄎㄡˇ
-ln. 496, sec. 4, ren'ai rd intersection:仁愛路四段496巷口
 ln. 496, sec. 4, ren'ai rd intersection:仁爱路四段496巷口
 ln. 5, lide 1st rd.:立德一路5巷
 ln. 5, sec. 2, civic blvd.:市民大道二段5巷口
 ln. 5, zhongshan e. rd.:zhōngshāndōnglù5xiàngkǒu
 ln. 5, zhongshan e. rd.:ㄓㄨㄥㄕㄢㄉㄨㄥㄌㄨˋ5ㄒㄧㄤˋㄎㄡˇ
 ln. 5, zhongshan e. rd.:中山东路5巷口
-ln. 5, zhongshan e. rd.:中山東路5巷口
 ln. 500, bade rd.:八德路500巷
-ln. 51, baozhang rd.:保長路51巷口
 ln. 51, baozhang rd.:保长路51巷口
 ln. 51, sec. 1, ganyuan st. intersection:gānyuánjiēyīduàn51xiàngkǒu
 ln. 51, sec. 1, ganyuan st. intersection:ㄍㄢㄩㄢˊㄐㄧㄝㄧㄉㄨㄢˋ51ㄒㄧㄤˋㄎㄡˇ
 ln. 51, sec. 1, ganyuan st. intersection:柑园街一段51巷口
-ln. 51, sec. 1, ganyuan st. intersection:柑園街一段51巷口
-ln. 51, wuquan 7th st.:五權七街51巷
+ln. 51, wuquan 7th st.:五权七街51巷
 ln. 51, xindong st.:新东街51巷口
-ln. 51, xindong st.:新東街51巷口
 ln. 52, sec. 3, jincheng rd.:金城路三段52巷
-ln. 52, xianzheng 8th st.:縣政八街52巷
+ln. 52, xianzheng 8th st.:县政八街52巷
 ln. 527, sec. 7, zhongxiao e rd. intersection:zhōngxiàodōnglùqīduàn527xiàngkǒu
 ln. 527, sec. 7, zhongxiao e rd. intersection:ㄓㄨㄥㄒㄧㄠˋㄉㄨㄥㄌㄨˋㄑㄧㄉㄨㄢˋ527ㄒㄧㄤˋㄎㄡˇ
 ln. 527, sec. 7, zhongxiao e rd. intersection:忠孝东路七段527巷口
-ln. 527, sec. 7, zhongxiao e rd. intersection:忠孝東路七段527巷口
 ln. 53, sec. 2, zhongcheng rd.:zhōngchénglùèrduàn53xiàng
 ln. 53, sec. 2, zhongcheng rd.:ㄓㄨㄥㄔㄥˊㄌㄨˋㄦˋㄉㄨㄢˋ53ㄒㄧㄤˋ
-ln. 53, sec. 2, zhongcheng rd.:忠誠路二段53巷
 ln. 53, sec. 2, zhongcheng rd.:忠诚路二段53巷
 ln. 530, sec. 3, heping e. rd intersection:hépíngdōnglùsānduàn530xiàngkǒu
 ln. 530, sec. 3, heping e. rd intersection:ㄏㄜˊㄆㄧㄥˊㄉㄨㄥㄌㄨˋㄙㄢㄉㄨㄢˋ530ㄒㄧㄤˋㄎㄡˇ
 ln. 530, sec. 3, heping e. rd intersection:和平东路三段530巷口
-ln. 530, sec. 3, heping e. rd intersection:和平東路三段530巷口
 ln. 54, sec. 3, kangning rd. intersection:kāngnínglùsānduàn54xiàngkǒu
 ln. 54, sec. 3, kangning rd. intersection:ㄎㄤㄋㄧㄥˊㄌㄨˋㄙㄢㄉㄨㄢˋ54ㄒㄧㄤˋㄎㄡˇ
 ln. 54, sec. 3, kangning rd. intersection:康宁路三段54巷口
-ln. 54, sec. 3, kangning rd. intersection:康寧路三段54巷口
 ln. 540, sec. 4, zhongyang n. rd. intersection:zhōngyāngběilùsìduàn540xiàngkǒu
 ln. 540, sec. 4, zhongyang n. rd. intersection:ㄓㄨㄥㄧㄤㄅㄟˇㄌㄨˋㄙˋㄉㄨㄢˋ540ㄒㄧㄤˋㄎㄡˇ
 ln. 540, sec. 4, zhongyang n. rd. intersection:中央北路四段540巷口
@@ -686,43 +548,35 @@ ln. 543, minzu 1st rd. intersection:mínzúyīlù543xiàngkǒu
 ln. 543, minzu 1st rd. intersection:ㄇㄧㄣˊㄗㄨˊㄧㄌㄨˋ543ㄒㄧㄤˋㄎㄡˇ
 ln. 543, minzu 1st rd. intersection:民族一路543巷口
 ln. 55, yumin rd.:裕民路55巷
-ln. 556, fuxing 3rd road:復興三路556巷
+ln. 556, fuxing 3rd road:复兴三路556巷
 ln. 56, sec. 6, minquan e. rd.:民权东路六段56巷口
-ln. 56, sec. 6, minquan e. rd.:民權東路六段56巷口
 ln. 565, sec. 2, zhongshan rd.:中山路二段565巷
-ln. 57, wuquan rd.:五權路57巷
-ln. 57, zhen 2nd street:鎮二街57巷
+ln. 57, wuquan rd.:五权路57巷
+ln. 57, zhen 2nd street:镇二街57巷
 ln. 58, guangfu s. rd.:guāngfùnánlù58xiàng
 ln. 58, guangfu s. rd.:ㄍㄨㄤㄈㄨˋㄋㄢˊㄌㄨˋ58ㄒㄧㄤˋ
 ln. 58, guangfu s. rd.:光复南路58巷
-ln. 58, guangfu s. rd.:光復南路58巷
 ln. 59, sec. 2, zhongshan n. rd.:zhōngshānběilùèrduàn59xiàngkǒu
 ln. 59, sec. 2, zhongshan n. rd.:ㄓㄨㄥㄕㄢㄅㄟˇㄌㄨˋㄦˋㄉㄨㄢˋ59ㄒㄧㄤˋㄎㄡˇ
 ln. 59, sec. 2, zhongshan n. rd.:中山北路二段59巷口
 ln. 59, sec. 5, nanjing e. rd.:nánjīngdōnglùwǔduàn59xiàngkǒu
 ln. 59, sec. 5, nanjing e. rd.:ㄋㄢˊㄐㄧㄥㄉㄨㄥㄌㄨˋㄨˇㄉㄨㄢˋ59ㄒㄧㄤˋㄎㄡˇ
 ln. 59, sec. 5, nanjing e. rd.:南京东路五段59巷口
-ln. 59, sec. 5, nanjing e. rd.:南京東路五段59巷口
 ln. 6, ziyou 2nd rd. & zhisheng rd. intersection (east):zìyóuèrlù6xiàngzhìshènglùkǒudōngcè
 ln. 6, ziyou 2nd rd. & zhisheng rd. intersection (east):ㄗˋㄧㄡˊㄦˋㄌㄨˋ6ㄒㄧㄤˋㄓˋㄕㄥˋㄌㄨˋㄎㄡˇㄉㄨㄥㄘㄜˋ
 ln. 6, ziyou 2nd rd. & zhisheng rd. intersection (east):自由二路6巷至圣路口东侧
-ln. 6, ziyou 2nd rd. & zhisheng rd. intersection (east):自由二路6巷至聖路口東側
 ln. 60, changshun st.:zhǎngshùnjiē60xiàngkǒu
 ln. 60, changshun st.:ㄓㄤˇㄕㄨㄣˋㄐㄧㄝ60ㄒㄧㄤˋㄎㄡˇ
-ln. 60, changshun st.:長順街60巷口
 ln. 60, changshun st.:长顺街60巷口
 ln. 61, puxin st. intersection:埔新街61巷口
 ln. 62, sec. 1, xinsheng n. rd.:新生北路一段62巷口
 ln. 62, sec. 2, zhongshan n. rd.:中山北路二段62巷口
 ln. 63, dongxin st.:东新街63巷口
-ln. 63, dongxin st.:東新街63巷口
-ln. 63, sec. 2, liuchuan e. rd.:柳川東路二段63巷
+ln. 63, sec. 2, liuchuan e. rd.:柳川东路二段63巷
 ln. 631, sec. 3, heping e. rd intersection:hépíngdōnglùsānduàn631xiàngkǒu
 ln. 631, sec. 3, heping e. rd intersection:ㄏㄜˊㄆㄧㄥˊㄉㄨㄥㄌㄨˋㄙㄢㄉㄨㄢˋ631ㄒㄧㄤˋㄎㄡˇ
 ln. 631, sec. 3, heping e. rd intersection:和平东路三段631巷口
-ln. 631, sec. 3, heping e. rd intersection:和平東路三段631巷口
 ln. 65, daye rd.:大业路65巷口
-ln. 65, daye rd.:大業路65巷口
 ln. 65, mingde rd. intersection:明德路65巷口
 ln. 65, sanjun st. intersection:三俊街65巷口
 ln. 65, tongbei st.:tōngběijiē65xiàngkǒu
@@ -743,14 +597,12 @@ ln. 698, sec. 5, zhongshan n. rd.:中山北路五段698巷口
 ln. 7, fuhe rd.:fúhélù7xiàngkǒu
 ln. 7, fuhe rd.:ㄈㄨˊㄏㄜˊㄌㄨˋ7ㄒㄧㄤˋㄎㄡˇ
 ln. 7, fuhe rd.:福和路7巷口
-ln. 70, lequn st.:樂群街70巷
+ln. 70, lequn st.:乐群街70巷
 ln. 70, ren’ai st.:rénàijiē70xiàngkǒu
 ln. 70, ren’ai st.:ㄖㄣˊㄞˋㄐㄧㄝ70ㄒㄧㄤˋㄎㄡˇ
-ln. 70, ren’ai st.:仁愛街70巷口
 ln. 70, ren’ai st.:仁爱街70巷口
 ln. 70, sec. 1, zhonghua rd. intersection:中华路一段70巷口
-ln. 70, sec. 1, zhonghua rd. intersection:中華路一段70巷口
-ln. 70, sec. 1, zhonghua w. rd.:中華西路一段70巷
+ln. 70, sec. 1, zhonghua w. rd.:中华西路一段70巷
 ln. 709, minsheng road:民生路 709 巷
 ln. 709, minsheng road:民生路709巷
 ln. 721, gaomei road:高美路721巷
@@ -760,7 +612,6 @@ ln. 730, wujia 2nd rd. intersection:五甲二路730巷口
 ln. 74, sec. 3, bade rd. intersection:bādélùsānduàn74xiàngkǒu
 ln. 74, sec. 3, bade rd. intersection:ㄅㄚㄉㄜˊㄌㄨˋㄙㄢㄉㄨㄢˋ74ㄒㄧㄤˋㄎㄡˇ
 ln. 74, sec. 3, bade rd. intersection:八德路三段74巷口
-ln. 75, sec. 1, daguan rd.:大觀路一段75巷
 ln. 75, sec. 1, daguan rd.:大观路一段75巷
 ln. 753, xingfu rd.:幸福路753巷口
 ln. 76, ruiguang rd.:瑞光路76巷口
@@ -778,10 +629,8 @@ ln. 777 zhongming s. rd.:忠明南路777巷口
 ln. 78, baoqiao rd.:bǎoqiáolù78xiàng
 ln. 78, baoqiao rd.:ㄅㄠˇㄑㄧㄠˊㄌㄨˋ78ㄒㄧㄤˋ
 ln. 78, baoqiao rd.:宝桥路78巷
-ln. 78, baoqiao rd.:寶橋路78巷
-ln. 78, fuxing rd.:福興路78巷
+ln. 78, fuxing rd.:福兴路78巷
 ln. 8, sec. 2, jinan rd.:济南路二段8巷口
-ln. 8, sec. 2, jinan rd.:濟南路二段8巷口
 ln. 8, sec. 3, bade rd. intersection:bādélùsānduàn8xiàngkǒu
 ln. 8, sec. 3, bade rd. intersection:ㄅㄚㄉㄜˊㄌㄨˋㄙㄢㄉㄨㄢˋ8ㄒㄧㄤˋㄎㄡˇ
 ln. 8, sec. 3, bade rd. intersection:八德路三段8巷口
@@ -789,25 +638,20 @@ ln. 8, sec. 3, chengde rd. intersection:chéngdélùsānduàn8xiàngkǒu
 ln. 8, sec. 3, chengde rd. intersection:ㄔㄥˊㄉㄜˊㄌㄨˋㄙㄢㄉㄨㄢˋ8ㄒㄧㄤˋㄎㄡˇ
 ln. 8, sec. 3, chengde rd. intersection:承德路三段8巷口
 ln. 8, tianmu e. rd. & ln. 154, sec. 2, zhongcheng rd. intersection:天母东路8巷/忠诚路二段154巷口
-ln. 8, tianmu e. rd. & ln. 154, sec. 2, zhongcheng rd. intersection:天母東路8巷/忠誠路二段154巷口
 ln. 8, zhangxin st.:樟新街8巷
 ln. 80, sec. 3, nangang rd.:南港路三段80巷
 ln. 81, minzhi st.:民治街81巷
 ln. 81, nanshi 6th st. intersection:南势六街81巷口
-ln. 81, nanshi 6th st. intersection:南勢六街81巷口
 ln. 81, sec. 1, zhongzheng e. rd.:中正东路一段81巷
-ln. 81, sec. 1, zhongzheng e. rd.:中正東路一段81巷
 ln. 81, sec. 2, dunhua s. rd.:敦化南路二段81巷
 ln. 83, antai st.:āntàijiē83xiàng
 ln. 83, antai st.:ㄢㄊㄞˋㄐㄧㄝ83ㄒㄧㄤˋ
 ln. 83, antai st.:安泰街83巷
-ln. 84, guangping street:廣平街84巷
+ln. 84, guangping street:广平街84巷
 ln. 85, dongfeng st. intersection:东丰街85巷口
-ln. 85, dongfeng st. intersection:東豐街85巷口
 ln. 86 wenhua rd. / wenhua rd.:wénhuálù86xiàngwénhuálùkǒu
 ln. 86 wenhua rd. / wenhua rd.:ㄨㄣˊㄏㄨㄚˊㄌㄨˋ86ㄒㄧㄤˋㄨㄣˊㄏㄨㄚˊㄌㄨˋㄎㄡˇ
 ln. 86 wenhua rd. / wenhua rd.:文华路86巷文华路口
-ln. 86 wenhua rd. / wenhua rd.:文華路86巷文華路口
 ln. 883, zhongzheng rd. intersection:zhōngzhènglù883xiàngkǒu
 ln. 883, zhongzheng rd. intersection:ㄓㄨㄥㄓㄥˋㄌㄨˋ883ㄒㄧㄤˋㄎㄡˇ
 ln. 883, zhongzheng rd. intersection:中正路883巷口
@@ -818,11 +662,9 @@ ln. 90, jianzhong st.:建中街90巷口
 ln. 90, jiuqiong st.:九芎街90巷口
 ln. 91, sec. 2, lixing rd. intersection:力行路二段91巷口
 ln. 91, shidong rd.:士东路91巷口
-ln. 91, shidong rd.:士東路91巷口
 ln. 92, qiaozhong 2nd st. intersection:qiáozhōngèrjiē92xiàngkǒu
 ln. 92, qiaozhong 2nd st. intersection:ㄑㄧㄠˊㄓㄨㄥㄦˋㄐㄧㄝ92ㄒㄧㄤˋㄎㄡˇ
 ln. 92, qiaozhong 2nd st. intersection:侨中二街92巷口
-ln. 92, qiaozhong 2nd st. intersection:僑中二街92巷口
 ln. 94, dazhi st.:大直街94巷
 ln. 94, sec. 3, xinsheng s. rd. intersection:xīnshēngnánlùsānduàn94xiàngkǒu
 ln. 94, sec. 3, xinsheng s. rd. intersection:ㄒㄧㄣㄕㄥㄋㄢˊㄌㄨˋㄙㄢㄉㄨㄢˋ94ㄒㄧㄤˋㄎㄡˇ
@@ -831,13 +673,11 @@ ln. 94, yong'an st. (lrt viaduct):新安永安街94巷口
 ln. 95, sec. 1, huanhe w. rd.intersection:huánhéxīlùyīduàn95xiàngkǒu
 ln. 95, sec. 1, huanhe w. rd.intersection:ㄏㄨㄢˊㄏㄜˊㄒㄧㄌㄨˋㄧㄉㄨㄢˋ95ㄒㄧㄤˋㄎㄡˇ
 ln. 95, sec. 1, huanhe w. rd.intersection:环河西路一段95巷口
-ln. 95, sec. 1, huanhe w. rd.intersection:環河西路一段95巷口
 ln. 95, sec. 3, muxin rd. intersection:mùxīnlù3duàn95xiàngkǒu
 ln. 95, sec. 3, muxin rd. intersection:ㄇㄨˋㄒㄧㄣㄌㄨˋ3ㄉㄨㄢˋ95ㄒㄧㄤˋㄎㄡˇ
 ln. 95, sec. 3, muxin rd. intersection:木新路3段95巷口
 ln. 95, songren rd.:松仁路95巷口
 ln. 97, baozhong rd. intersection:宝中路97巷口
-ln. 97, baozhong rd. intersection:寶中路97巷口
 ln. 98, sec. 2, heping w. rd.:和平西路二段98巷口
 ln. 99, sec. 1, xinshi 1st rd.:xīnshìyīlùyīduàn99xiàngkǒu
 ln. 99, sec. 1, xinshi 1st rd.:ㄒㄧㄣㄕˋㄧㄌㄨˋㄧㄉㄨㄢˋ99ㄒㄧㄤˋㄎㄡˇ
@@ -850,34 +690,26 @@ ln.241 zhongshan rd. / zhongshan rd.:zhōngshānlù241xiàngzhōngshānlùkǒu
 ln.241 zhongshan rd. / zhongshan rd.:ㄓㄨㄥㄕㄢㄌㄨˋ241ㄒㄧㄤˋㄓㄨㄥㄕㄢㄌㄨˋㄎㄡˇ
 ln.241 zhongshan rd. / zhongshan rd.:中山路241巷中山路口
 ln.25, zhongzheng rd.:中正北路25巷(交响院社区)
-ln.25, zhongzheng rd.:中正北路25巷(交響院社區)
 ln.29, shuiyuan rd. & guanghua st. intersection:水源路29巷/光华街口
-ln.29, shuiyuan rd. & guanghua st. intersection:水源路29巷/光華街口
 ln.30, sec.4, zhongyang n. rd.:zhōngyāngběilùsìduàn30xiàngkǒu
 ln.30, sec.4, zhongyang n. rd.:ㄓㄨㄥㄧㄤㄅㄟˇㄌㄨˋㄙˋㄉㄨㄢˋ30ㄒㄧㄤˋㄎㄡˇ
 ln.30, sec.4, zhongyang n. rd.:中央北路四段30巷口
-ln.394, wuxing st.:吳興街394巷口
 ln.394, wuxing st.:吴兴街394巷口
 ln.399, zhongzheng rd.:中正路399巷口
-ln.41, pingdong road:平東路41巷
-ln.422, ren'ai st.:仁愛街422巷口
+ln.41, pingdong road:平东路41巷
 ln.422, ren'ai st.:仁爱街422巷口
 ln.465, zhongzheng rd.:中正路465巷
 ln.6, sec.2, roosevelt rd.:luósīfúlùèrduàn6xiàngkǒu
 ln.6, sec.2, roosevelt rd.:ㄌㄨㄛˊㄙㄈㄨˊㄌㄨˋㄦˋㄉㄨㄢˋ6ㄒㄧㄤˋㄎㄡˇ
 ln.6, sec.2, roosevelt rd.:罗斯福路二段6巷口
-ln.6, sec.2, roosevelt rd.:羅斯福路二段6巷口
 ln.6-16 daqing st. sec.2 / wenxin s. rd.:dàqìngjiēèrduàn6-16xiàngwénxīnnánlùkǒu
 ln.6-16 daqing st. sec.2 / wenxin s. rd.:ㄉㄚˋㄑㄧㄥˋㄐㄧㄝㄦˋㄉㄨㄢˋ6-16ㄒㄧㄤˋㄨㄣˊㄒㄧㄣㄋㄢˊㄌㄨˋㄎㄡˇ
 ln.6-16 daqing st. sec.2 / wenxin s. rd.:大庆街二段6-16巷文心南路口
-ln.6-16 daqing st. sec.2 / wenxin s. rd.:大慶街二段6-16巷文心南路口
 ln.68, sec. 1, wenhua 2nd rd.:文化二路一段68巷口
 ln.89, chongqing rd.:重庆路89巷
-ln.89, chongqing rd.:重慶路89巷
 ln.90, zhongshan rd.:中山路二段90巷
 ln.98 gongyequ 1st rd.:gōngyèqūyīlù98xiàngkǒu
 ln.98 gongyequ 1st rd.:ㄍㄨㄥㄧㄝˋㄑㄩㄧㄌㄨˋ98ㄒㄧㄤˋㄎㄡˇ
 ln.98 gongyequ 1st rd.:工业区一路98巷口
-ln.98 gongyequ 1st rd.:工業區一路98巷口
-lng carrier:液化天然氣載運船
+lng carrier:液化天然气载运船
 lng storage tank:液化天然气储罐

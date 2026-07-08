@@ -1,4 +1,4 @@
-pl kyodan:完美自由教團
+pl kyodan:完美自由教团
 pl'ochiv:普利奧希夫
 pl:klon jawor:亚沃尔
 pla 903 hospital:中国人民解放军九〇三医院
@@ -8,7 +8,6 @@ pla day:中国人民解放军建军纪念日
 pla eastern theater joint operations command center:中国人民解放军东部战区联合作战指挥中心
 pla information engineering university:中国人民解放军战略支援部队信息工程大学
 pla institute of physical education:军体院
-pla jinlun barrack:金輪基地
 pla jinlun barrack:金轮基地
 pla naval aviation university:中国人民解放军海军航空大学
 pla naval university of engineering:中国人民解放军海军工程大学
@@ -16,33 +15,26 @@ pla navy 4801 factory:中国人民解放军海军海军4801工厂
 pla navy guiping mengshu air base:海军桂平蒙圩机场
 pla no.74 army hospital:解放军第七十四集团军医院
 pla northern theater joint operations command center:中国人民解放军北部战区联合作战指挥中心
-pla shanghai political college:解放軍國防大學政治學院上海本部
+pla shanghai political college:解放军国防大学政治学院上海本部
 plaaz:普拉茨
 plabennec:普拉贝内克
 plac bana josipa jelačicia:耶拉其恰广场
-plac bana josipa jelačicia:耶拉其恰廣場
 plac besarabski:比萨拉比亚广场
-plac besarabski:比薩拉比亞廣場
 plac centralny:中央广场
 plac chibikko:小朋友广场
-plac czerwony:紅場
 plac czerwony:红场
 plac daniela halickiego:加利西亚的丹尼尔一世广场
 plac europy:欧洲广场
-plac europy:歐洲廣場
 plac hejdara alijewa:盖达尔·阿利耶夫广场
-plac hejdara alijewa:蓋達爾·阿利耶夫廣場
 plac karola:查理广场
-plac kim ir sena:金日成廣場
+plac kim ir sena:金日成广场
 plac mariacki:亚当密茨凯维奇广场
 plac męczenników:烈士广场
-plac męczenników:烈士廣場
 plac niebiańskiego spokoju:tiān'ānmén guǎngchǎng
-plac niebiańskiego spokoju:天安門廣場
 plac niebiańskiego spokoju:天安门广场
 plac niepodległości:独立广场
 plac niezależnośći:独立广场
-plac paryski:巴黎廣場
+plac paryski:巴黎广场
 plac poczdamski:波茨坦广场
 plac republiki:共和国广场
 plac senacki:参议院广场
@@ -54,16 +46,13 @@ plac uniwersytecki:大学广场
 plac wacława:瓦茨拉夫广场
 plac warszawski:华沙广场
 plac zgody:协和广场
-plac zgody:協和廣場
 plac zwycięstwa:胜利广场
 plac Świętego marka:圣马可广场
-plac Świętego marka:聖馬可廣場
 plac Świętego piotra:圣伯多禄广场
-plac Świętego piotra:聖伯多祿廣場
-placa comemorativa da vitória sobre os piratas:打海盜紀念碑
+placa comemorativa da vitória sobre os piratas:打海盗纪念碑
 placanica:普拉卡尼卡
 placas:普拉卡斯
-place 18:18廣場
+place 18:18广场
 place a chance:地方一个机会
 place a few:地方几
 place a miss:地方一个小姐
@@ -122,10 +111,8 @@ place attract:地方吸引
 place auction:地方拍卖
 place await:地方等
 place ba dinh:巴亭广场
-place ba dinh:巴亭廣場
 place back:地方回
 place ban-jelačić:耶拉其恰广场
-place ban-jelačić:耶拉其恰廣場
 place batavia:巴特维亚路
 place be:地方成为
 place became:地方成为
@@ -135,7 +122,6 @@ place before:地方之前
 place began:地方开始
 place bellecour:贝勒库尔广场
 place bessarabska:比萨拉比亚广场
-place bessarabska:比薩拉比亞廣場
 place better:地方更好
 place blow:地方吹
 place brand management:地方品牌管理
@@ -178,17 +164,16 @@ place corps:地方兵团
 place could:地方能
 place current:地方目前的
 place d'acadie:阿卡迪亚广场
-place d'armes station:軍事廣場站
+place d'armes station:军事广场站
 place d'europe:欧洲广场
-place d'europe:歐洲廣場
 place d'italie:意大利广场
 place d'youville:德尤维尔广场
 place danéla halétskoho:加利西亚的丹尼尔一世广场
 place database:地方数据库
-place dauphine:太子廣場
+place dauphine:太子广场
 place day:地方日
 place de catalogne:加泰罗尼亚广场
-place de clichy station:克利希廣場站
+place de clichy station:克利希广场站
 place de clichy:克利希广场
 place de dublin:都柏林广场
 place de fontenoy:丰特努瓦广场
@@ -196,36 +181,30 @@ place de l'est rouge:东方红广场 （dongfanghong guangchang)
 place de l'estrapade:吊刑广场
 place de l'herbe:草坪广场
 place de l'hôtel-de-ville - esplanade de la libération:市政厅广场
-place de l'hôtel-de-ville - esplanade de la libération:市政廳廣場
 place de l'indépendance:独立广场
-place de l'indépendance:獨立廣場
 place de l'université:大学广场
 place de la bastille:巴士底广场
 place de la bataille de stalingrad:斯大林格勒战役广场
 place de la cathédrale:教堂广场
 place de la commune-de-paris:巴黎公社广场
-place de la commune-de-paris:巴黎公社廣場
 place de la concorde:协和广场
-place de la concorde:協和廣場
 place de la contrescarpe:护城广场
 place de la liberté d'expression:言论自由广场
-place de la mangeoire:馬槽廣場
 place de la mangeoire:马槽广场
 place de la pelouse:草坪广场
-place de la république argentine:阿根廷共和國廣場
+place de la république argentine:阿根廷共和国广场
 place de la république:共和国广场
 place de la république:共和广场
 place de la vieille ville:布拉格老城广场
 place de potsdam:波茨坦广场
 place de san francisco de asís:(6)圣弗朗西斯科广场
 place decisions:地方决策
-place des arts station:藝術坊站
+place des arts station:艺术坊站
 place des cathédrales:大教堂广场
 place des contrats:合同广场
 place des héros:英雄广场
 place des jacobins:雅各宾广场
 place des martyrs:烈士广场
-place des martyrs:烈士廣場
 place des pyramides:金字塔广场
 place des quinconces:梅花广场
 place des terreaux:沃土广场
@@ -236,7 +215,7 @@ place diana:戴安娜广场
 place do:地方做
 place don't:地方不
 place du bourg de four:博地弗广场
-place du capitole:坎皮多怡歐廣場
+place du capitole:坎皮多怡欧广场
 place du carrousel:卡鲁塞尔广场
 place du colonel fabien:法比安上校广场
 place du jeu de balle:球戏广场
@@ -244,13 +223,13 @@ place du louvre:卢浮宫广场
 place du luxembourg:卢森堡广场
 place du palais bourbon:波旁宫广场
 place du palais:宫殿广场
-place du sénat:參議院廣場
+place du sénat:参议院广场
 place du sénat:枢密院广场
-place du tertre:小丘廣場
+place du tertre:小丘广场
 place ducale:公爵广场
 place economy:地方经济
 place effectively:地方有效地
-place el hedim:哈丁廣場
+place el hedim:哈丁广场
 place elevator:地方电梯
 place employees:地方员工
 place energy:地方能源
@@ -362,16 +341,15 @@ place just like:地方就像
 place just:地方只
 place justice:地方正义
 place kill:地方杀
-place kim il-sung:金日成廣場
+place kim il-sung:金日成广场
 place knows:地方知道
 place label:地方标签
 place lam son:蓝山广场
-place lam son:藍山廣場
 place largest heat source:地方最大的热源
 place largest:地方最大的
 place laws:地方法律
 place learn:地方学习
-place libération:巴格達解放廣場
+place libération:巴格达解放广场
 place like:地方喜欢
 place located:地方位于
 place look:地方看
@@ -380,7 +358,7 @@ place lose:地方丢失
 place madison:地方麦迪逊
 place manchester:地方曼彻斯特
 place many:地方很多
-place many:地方許多
+place many:地方许多
 place marker:地方标记
 place me linh:麊泠广场
 place me:地方我
@@ -391,7 +369,7 @@ place means:地方意味著
 place message:地方消息
 place military:地方军事
 place mix:地方混合
-place monge station:蒙日廣場站
+place monge station:蒙日广场站
 place more and more:地方越来越多的
 place more than five thousand:地方超过五千
 place more than:地方超过
@@ -419,9 +397,8 @@ place of colour:地方的颜色
 place of education:地方的教育
 place of execution:地方的执行
 place of execution:行刑地点
-place of korea:韓國餐廳
+place of korea:韩国餐厅
 place of meeting:地方的会议
-place of meeting:地方的會議
 place of palm:地方的棕榈
 place of red-roof:地方的红色屋顶
 place of safety:安全地方
@@ -477,17 +454,15 @@ place require:地方需要
 place resemble:地方类似
 place reserve:地方保留
 place restriction:地方限制
-place rouge:紅場
 place rouge:红场
 place run:地方运行
-place saint henri station:聖亨利廣場站
+place saint henri station:圣亨利广场站
 place saint jean:圣若翰广场
 place saint lambert:圣朗贝尔广场
 place saint michel:圣米歇尔广场
 place saint sulpice:圣叙尔比斯广场
 place saint-michel:圣米歇尔广场
 place saint-pierre:圣伯多禄广场
-place saint-pierre:聖伯多祿廣場
 place san martin:圣马丁广场
 place sathonay:萨托奈广场
 place school:地方学校
@@ -542,11 +517,10 @@ place this:地方这
 place three:地方三
 place through:地方通过
 place tienanmen:tiān'ānmén guǎngchǎng
-place tienanmen:天安門廣場
 place tienanmen:天安门广场
 place to come:地方到来
 place to london:地方到伦敦
-place to place:一起一起這裡那裡
+place to place:一起一起这里那里
 place to place:地方到地方
 place today:地方今天
 place together:地方一起
@@ -620,19 +594,19 @@ place your sofa:地方你的沙发
 place your:地方你的
 place yourself:地方你自己
 place:地方
-placebo control:安慰劑控制
-placebo cure:心理心裏有個謎
-placebo dose:安慰劑劑量
-placebo effect:安慰劑效應
-placebo factor:安慰劑因子
-placebo injection:安慰劑注射
-placebo light:安慰劑光
-placebo oil:安慰劑油
-placebo patients:安慰劑患者
-placebo percentage:安慰劑百分比
-placebo phenomenon:安慰劑現象
-placebo study:安慰劑研究
-placebo:安慰劑
+placebo control:安慰剂控制
+placebo cure:心理心里有个謎
+placebo dose:安慰剂剂量
+placebo effect:安慰剂效应
+placebo factor:安慰剂因子
+placebo injection:安慰剂注射
+placebo light:安慰剂光
+placebo oil:安慰剂油
+placebo patients:安慰剂患者
+placebo percentage:安慰剂百分比
+placebo phenomenon:安慰剂现象
+placebo study:安慰剂研究
+placebo:安慰剂
 placeholder and variable:占位符和变量
 placeholder attribute:占位符属性
 placeholder characters:占位符字符
@@ -654,7 +628,7 @@ placeholder links:占位符链接
 placeholder means:占位符意味着
 placeholder methods:占位符方法
 placeholder name:占位符名称
-placeholder name:無名氏
+placeholder name:无名氏
 placeholder page:占位符页
 placeholder represent:占位符表示
 placeholder size:占位符大小
@@ -667,22 +641,22 @@ placeholder variables:占位符变量
 placeholder website:占位符网站
 placeholder:占位符
 placekicker:踢球手
-placenta accreta spectrum:植入性胎盤
-placenta and fetus:胎盤和胎兒
-placenta barrier:胎盤屏障
+placenta accreta spectrum:植入性胎盘
+placenta and fetus:胎盘和胎儿
+placenta barrier:胎盘屏障
 placenta cake:胎盘蛋糕
-placenta contain:胎盤包含
-placenta disease:胎盤疾病
-placenta praevia:前置胎盤
-placenta:胎盤
-placental abruption:胎盤早期剝離
-placentalia:胎盤動物
+placenta contain:胎盘包含
+placenta disease:胎盘疾病
+placenta praevia:前置胎盘
+placenta:胎盘
+placental abruption:胎盘早期剥离
+placentalia:胎盘动物
 placentation:胎座
 placentia:皮亚琴察
-placenticeras:胎盤菊石
+placenticeras:胎盘菊石
 placentophagy:食胎盘行为
-placer deposit:漂砂沉積
-placerias:布拉塞龍屬
+placer deposit:漂砂沉积
+placerias:布拉塞龙属
 places a miss:地方一个小姐
 places a person:地方一个人
 places accept bitcoin:地方接受比特币
@@ -731,7 +705,6 @@ places and restaurants:地方和餐馆
 places and service provider:地方和服务提供者
 places and simple:地方和简单
 places and situation:地方和情况
-places and space:地方和空間
 places and space:地方和空间
 places and species:地方和物种
 places and taliban commander:地方和塔利班指挥官
@@ -767,7 +740,7 @@ places chess:地方国际象棋
 places city:地方城市
 places confidence:地方信心
 places currently:地方目前
-places des reines trung (trung vuong):徵王广场
+places des reines trung (trung vuong):征王广场
 places do:地方做
 places driver:地方司机
 places especially:地方尤其
@@ -838,7 +811,7 @@ places not:地方不是
 places of india:地方的印度
 places of russia:地方的俄罗斯
 places of snow:地方的雪
-places of worship in hong kong:香港宗教活動場所列表
+places of worship in hong kong:香港宗教活动场所列表
 places offer:地方提供
 places online:地方在线
 places only he knows:地方只有他知道
@@ -949,28 +922,28 @@ places you:地方你
 places your:地方你的
 places:地方
 placetas:普拉塞塔斯
-plachkovtsi:普拉奇科夫齊
-plachowa:普利亞霍瓦
+plachkovtsi:普拉奇科夫齐
+plachowa:普利亚霍瓦
 plachtjanka:普拉赫強卡
 placid groves:芊逸居
 placidiopsis:盾鳞衣属
-placidochromis boops:牛眼柔麗鯛
-placidochromis hennydaviesae:亨尼氏柔麗鯛
-placidochromis johnstoni:約翰柔麗鯛
-placidochromis longimanus:長鰭柔麗鯛
-placidochromis phenochilus:火唇柔麗鯛
-placidochromis polli:波爾柔麗鯛
-placidochromis subocularis:下眼柔麗鯛
+placidochromis boops:牛眼柔丽鲷
+placidochromis hennydaviesae:亨尼氏柔丽鲷
+placidochromis johnstoni:约翰柔丽鲷
+placidochromis longimanus:长鳍柔丽鲷
+placidochromis phenochilus:火唇柔丽鲷
+placidochromis polli:波尔柔丽鲷
+placidochromis subocularis:下眼柔丽鲷
 placidochromis:柔丽鲷属
-placilla:普拉西亞
+placilla:普拉西亚
 placitum graminis:草坪广场
-placo kim il-sung:金日成廣場
+placo kim il-sung:金日成广场
 placobdella:盾蛭属
 placochelyidae:盾龟龙科
-placochelys:盾龜龍屬
-placoderm:盾皮魚綱
-placodontia:楯齒龍目
-placodus:楯齒龍屬
+placochelys:盾龟龙属
+placoderm:盾皮鱼纲
+placodontia:楯齿龙目
+placodus:楯齿龙属
 placoma:平盘藻属
 placopsis:瘿茶渍属
 placopyrenium:叶核衣属
@@ -981,32 +954,26 @@ placynthiella:沥渍衣属
 placynthium:黑锈衣属
 placência:皮亚琴察
 pladaroxylon:白树菊属
-pladda:普拉達島
+pladda:普拉达岛
 pladenn miuvachas:米勒瓦什高原
 plaffeien:普拉法恩
 plage belén:biyu tan
 plage belén:碧玉滩
-plage belén:碧玉灘
 plage de la mission sud:南使命海滩
-plage de la mission sud:南使命海灘
-plage de mibaru:新原海灘
+plage de mibaru:新原海滩
 plage de mission:使命海滩
 plage de mátala:马塔拉海难（宙斯诱拐欧罗巴上岸的地方）
-plage de pinho, camp:praia do pinho，營地
+plage de pinho, camp:praia do pinho，营地
 plage de prévéli:普利维利修道院和普利维利海滩
 plage de st kilda:圣基尔达海滩
 plage de wongaling:旺加林海滩
-plage de wongaling:旺加林海灘
 plage de wongaling:旺加灵海滩
-plage de wongaling:旺加靈海灘
 plage kaochaduiyuan:kaochaduiyuan tan
 plage kaochaduiyuan:考查队员滩
-plage kaochaduiyuan:考查隊員灘
 plage ma'nao:ma'nao tan
 plage ma'nao:玛瑙滩
-plage ma'nao:瑪瑙灘
 plage madagh 1:月亮湾
-plage naturiste de riva bella:里瓦貝拉天體海灘
+plage naturiste de riva bella:里瓦贝拉天体海滩
 plage rouge:红沙滩
 plage rouge:红色海滩
 plagiarism and publishing:抄袭和出版
@@ -1026,7 +993,7 @@ plagiobryum:平蒴藓属
 plagiochila:羽苔属
 plagiochilaceae:羽苔科
 plagioclase:斜长石
-plagiodera versicolora:柳瓢金花蟲
+plagiodera versicolora:柳瓢金花虫
 plagiodera:瓢金花虫属
 plagiodontia:斜齿鼠属
 plagiogyria assurgens:峨眉瘤足蕨
@@ -1047,7 +1014,7 @@ plagiorchiidae:斜睾科
 plagiorchis:斜睾属
 plagiorhegma dubium:鲜黄连
 plagiorhegma:鲜黄连属
-plagiosauridae:斜橫螈科
+plagiosauridae:斜横螈科
 plagioselmis:斜片藻属
 plagiostachys:偏穗姜属
 plagiosterna:平胸金花虫属
@@ -1058,27 +1025,26 @@ plagiothecium:棉藓属
 plagiotremus laudandus:云雀短带鳚
 plagiotremus spilistius:叉短带鳚
 plagiozopelma:基刺长足虻属
-plague doctor:瘟疫醫生
+plague doctor:瘟疫医生
 plague of athens:雅典大瘟疫
 plague of cyprian:塞浦路斯大瘟疫
 plague of justinian:查士丁尼大瘟疫
 plague vaccine:鼠疫疫苗
 plagues and peoples:瘟疫与人
 plagues of egypt:十灾
-plagusia squamosa:鱗形斜紋蟹
+plagusia squamosa:鳞形斜纹蟹
 plagusia:斜纹蟹属
 plagusiidae:斜纹蟹科
 plahteanka:普拉赫強卡
 plai phraya district:拜拍耶县
-plaice island:普萊斯島
-plaid cymru:威爾斯黨
+plaice island:普莱斯岛
+plaid cymru:威尔斯党
 plaidt:普莱特
 plaieu luoyang camp:中国人民解放军信息工程大学洛阳营区
-plaieu luoyang camp:中國人民解放軍信息工程大學洛陽營區
 plaigne:普莱涅
 plaimbois du miroir:普兰布瓦迪米鲁瓦尔
 plaimbois vennes:普兰布瓦韦讷
-plain account:平原帳戶
+plain account:平原帐戶
 plain and bordered white banner:正镶白旗
 plain and direct style:平原和直接的风格
 plain and foothills:平原和山麓
@@ -1091,11 +1057,11 @@ plain and simple:平原和简单
 plain answer:平原回答
 plain area:平原地区
 plain band:平原乐队
-plain bearing:滑動軸承
+plain bearing:滑动轴承
 plain bellied emerald:纯腹蜂鸟
 plain blue banner:正蓝旗
 plain capped starthroat:纯顶星喉蜂鸟
-plain chachalaca:小灰頭稚冠雉
+plain chachalaca:小灰头稚冠雉
 plain championship:平原锦标赛
 plain city:平原城市
 plain coast:平坦的海岸
@@ -1108,7 +1074,7 @@ plain dealer:平原经销商
 plain duty:平原责任
 plain economics:平原经济学
 plain elizabeth:平原伊丽莎白
-plain english:簡明英語
+plain english:简明英语
 plain evidence:平原证据
 plain experiment station:平原实验站
 plain experiment:平原实验
@@ -1117,11 +1083,11 @@ plain flowerpecker:纯色啄花鸟
 plain folks:平民法
 plain girl:平原女孩
 plain he:平原他
-plain jane to the rescue:八彩林亞珍
+plain jane to the rescue:八彩林亚珍
 plain landscape:平原景观
 plain language:平原语言
 plain laughingthrush:山噪鹛
-plain love:情濃大地
+plain love:情浓大地
 plain mountain finch:林岭雀
 plain museum:平原博物院
 plain of catania:卡塔尼亚平原
@@ -1148,7 +1114,7 @@ plain river:平原河流
 plain road:平坦的路
 plain sea snake:平原海蛇
 plain she:平原她
-plain snake eel:單色蛇鰻
+plain snake eel:单色蛇鳗
 plain state:平原状态
 plain street:平原街道
 plain to:平原到
@@ -1157,7 +1123,7 @@ plain towards:平原向
 plain wall:平坦的墙
 plain water:平原水
 plain we:平原我们
-plain weave:平織
+plain weave:平织
 plain west:平原西
 plain white banner:正白旗
 plain wind:平原风
@@ -1179,13 +1145,12 @@ plaine haute:普莱讷欧特
 plaine magnien:马尼安平原
 plainemont:普莱讷蒙
 plaines saint lange:普莱讷圣朗日
-plaines wilhems bölgesi:威廉平原區
-plaines wilhems district:威廉平原區
-plaines wilhems:威廉平原區
+plaines wilhems bölgesi:威廉平原区
+plaines wilhems district:威廉平原区
+plaines wilhems:威廉平原区
 plainfaing:普兰凡
 plainfield township:普莱恩菲尔德镇区
-plainfield township:普萊恩菲爾德鎮區
-plainfield:普萊恩菲爾德
+plainfield:普莱恩菲尔德
 plainfin grenadier:岐异凹腹鳕
 plainoiseau:普莱努瓦索
 plains bison:美洲平原野牛
@@ -1194,13 +1159,13 @@ plains indian sign language:平原印第安人手语
 plains indians there:平原印第安人那里
 plains indians:平原印第安人
 plains indigenous peoples:平埔族群
-plains minnow:素色突頜魚
-plains of abraham:亞伯拉罕平原
+plains minnow:素色突頜鱼
+plains of abraham:亚伯拉罕平原
 plains of hong kong:香港平原
-plains topminnow:半帶底鱂
+plains topminnow:半带底鱂
 plains viscacha rat:阿根廷平原鼠
 plains wanderer:领鹑
-plains zebra:平原斑馬
+plains zebra:平原斑马
 plaintel:普兰泰勒
 plaintext and have:明文和有
 plaintext attack:明文攻击
@@ -1246,10 +1211,9 @@ plaintiff grant:原告授予
 plaintiff has been:原告已经
 plaintiff have any:原告有任何
 plaintiff hot:原告热
-plaintiff hot:原告熱
 plaintiff just:原告只
-plaintiff law firm:原告律師事務所
-plaintiff lawyer:原告律師
+plaintiff law firm:原告律师事务所
+plaintiff lawyer:原告律师
 plaintiff must prove:原告必须证明
 plaintiff needs:原告需要
 plaintiff offer:原告提供
@@ -1295,7 +1259,7 @@ plakhtianka:普拉赫強卡
 plakinidae:多板海绵科
 plakobranchidae:海天牛科
 plakortis:扁海绵属
-plakuder point:普拉庫德角
+plakuder point:普拉库德角
 plamondon station:普拉蒙登站
 plan a better:计划一个更好的
 plan a chance:计划一个机会
@@ -1698,7 +1662,7 @@ plan insurance:计划保险
 plan intellectual property:计划知识产权
 plan interesting activities:计划有趣的活动
 plan interesting:计划有趣的
-plan international:國際培幼會
+plan international:国际培幼会
 plan international:计划国际
 plan introduce:计划介绍
 plan invasion:计划入侵
@@ -2052,7 +2016,7 @@ plan very:计划非常
 plan view:计划视图
 plan violate:计划违反
 plan visit:计划访问
-plan voisin:瓦贊計畫
+plan voisin:瓦赞计画
 plan was agree:计划是同意
 plan was he want:计划是他想要
 plan was japan:计划是日本
@@ -2105,7 +2069,7 @@ plan would provide taxpayer:计划将提供纳税人
 plan would provide:计划将提供
 plan would reduce:计划将减少
 plan would:计划将
-plan xvii:第十七號計劃
+plan xvii:第十七号计划
 plan year:计划年
 plan you:计划你
 plan you:计划你们
@@ -2143,8 +2107,8 @@ plan your:计划你的
 plan:计划
 plana del nord d'europa:北德平原
 plana europea oriental:东欧平原
-plana peak:普拉納峰
-planadas:普拉納達
+plana peak:普拉纳峰
+planadas:普拉纳达
 planai:普拉奈山
 planaise:普拉奈斯
 planaltino:普拉纳蒂努
@@ -2154,38 +2118,38 @@ planalto hermit:普拉隐蜂鸟
 planalto marcahuasi:马卡瓦西高原
 planalto slaty antshrike:高原蚁鵙
 planalto:普拉纳尔图
-planar systems:平達科技
-planarian secretory cell nidovirus:渦蟲分泌細胞網巢病毒
+planar systems:平达科技
+planarian secretory cell nidovirus:渦虫分泌细胞网巢病毒
 planation surface:夷平面
 planaxidae:芝麻螺科
 planaxis sulcatus:芝麻螺
 planaxis:芝麻螺属
 plancher les mines:普朗谢莱米讷
-plancherel theorem:普朗歇爾定理
+plancherel theorem:普朗歇尔定理
 plancherine:普朗什里讷
 planches:普朗什
 planchette:乩板
 planchez:普朗谢
-planchonella duclitan:蘭嶼山欖
+planchonella duclitan:兰屿山榄
 planchonella obovata:山榄
 planchonella:山榄属
 planchonia:棠玉蕊属
-planck charge:普朗克電荷
+planck charge:普朗克电荷
 planck constant:普朗克常数
 planck density:普朗克密度
 planck energy:普朗克能量
 planck epoch:普朗克时期
 planck force:普朗克力
-planck length:普朗克長度
-planck mass:普朗克質量
-planck momentum:普朗克動量
+planck length:普朗克长度
+planck mass:普朗克质量
+planck momentum:普朗克动量
 planck particle:普朗克粒子
-planck point:普蘭克角
+planck point:普兰克角
 planck power:普朗克功率
 planck scale:普朗克尺度
-planck temperature:普朗克溫度
-planck time:普朗克時間
-planck units:普朗克單位制
+planck temperature:普朗克温度
+planck time:普朗克时间
+planck units:普朗克单位制
 planck's law:普朗克黑体辐射定律
 planck-scale gravity:普朗克尺度重力
 planctobacterium:浮游杆菌属
@@ -2246,7 +2210,7 @@ plane impression:平面印象
 plane include:平面包括
 plane insert:平面插入
 plane joint:平面关节
-plane joint:滑動關節
+plane joint:滑动关节
 plane landing:平面登陆
 plane layout:平面布局
 plane level:平面水平
@@ -2257,14 +2221,13 @@ plane maintain:平面维护
 plane map:平面地图
 plane mark:平面标记
 plane media:平面媒体
-plane mirror:平面鏡
+plane mirror:平面镜
 plane motion:平面运动
 plane of incidence:入射平面
-plane of material culture:平面的物質文化
-plane of polarization:極化平面
+plane of material culture:平面的物质文化
+plane of polarization:极化平面
 plane of reference:参考平面
-plane of reference:參考平面
-plane of rotation:旋轉平面
+plane of rotation:旋转平面
 plane of symmetry:对称平面
 plane of the sky:天空平面
 plane online:平面在线
@@ -2276,8 +2239,8 @@ plane part:平面部分
 plane photography:平面摄影
 plane polishing:平面抛光
 plane position:平面位置
-plane poster design:平面海報設計
-plane poster:平面海報
+plane poster design:平面海报设计
+plane poster:平面海报
 plane pressure:平面压力
 plane process:平面处理
 plane programming:平面编程
@@ -2294,15 +2257,14 @@ plane services:平面服务
 plane simple:平面简单
 plane software:平面软件
 plane solutions:平面解决方案
-plane space:平面空間
 plane space:平面空间
-plane stress:平面應力
+plane stress:平面应力
 plane structure:平面结构
 plane suggest:平面建议
 plane surface:平面表面
 plane symmetry:平面对称
 plane system:平面系统
-plane table glacier:普萊恩山
+plane table glacier:普莱恩山
 plane team:平面团队
 plane technology:平面技术
 plane thermometer:平面温度计
@@ -2327,7 +2289,7 @@ plane:平面
 planebruch:普拉讷布鲁赫
 planegg station:普拉内格站
 planegg:普拉内格
-planell de valdai:瓦爾代高地
+planell de valdai:瓦尔代高地
 planes and line:平面和线
 planes and perfect:平面和完美的
 planes and surface:平面和表面
@@ -2361,7 +2323,6 @@ planet began:行星开始
 planet being:行星生物
 planet calm:行星平静
 planet candidates:行星候选人
-planet candidates:行星候選人
 planet carrier:行星载体
 planet census show:行星普查显示
 planet census:行星普查
@@ -2380,7 +2341,7 @@ planet cross:行星穿越
 planet cup:行星杯
 planet detect:行星检测
 planet die:行星死
-planet dinosaur:恐龍行星
+planet dinosaur:恐龙行星
 planet discover:行星发现
 planet display:行星显示
 planet due to:行星由于
@@ -2415,7 +2376,7 @@ planet hoth:行星霍斯
 planet human:行星人
 planet hunter members:行星猎人成员
 planet hunter:行星猎人
-planet hunters:行星獵人
+planet hunters:行星猎人
 planet i:行星我
 planet image:行星图像
 planet initiative:行星倡议
@@ -2432,7 +2393,7 @@ planet jupiter:行星木星
 planet just like:行星就像
 planet kill:行星杀
 planet krypton:行星氪
-planet labs:行星實驗室
+planet labs:行星实验室
 planet lecture:行星讲座
 planet location:行星位置
 planet look:行星看
@@ -2458,7 +2419,7 @@ planet nine:行星九
 planet not:行星不是
 planet ocean:行星海洋
 planet of dinosaurs:恐龙行星
-planet of evil:惡行星
+planet of evil:恶行星
 planet of ice:冰行星
 planet of the apes reboot:人猿星球重新启动
 planet of the apes series:人猿星球系列
@@ -2480,7 +2441,7 @@ planet population origin:行星种群起源
 planet population:行星种群
 planet position:行星位置
 planet power:行星力量
-planet prince:遊星王子
+planet prince:游星王子
 planet properties:行星属性
 planet protection:行星保护
 planet radius:行星半径
@@ -2514,7 +2475,6 @@ planet still:行星仍然
 planet stories:行星故事
 planet suffer:行星遭受
 planet surface:行星表面
-planet system:行星系統
 planet system:行星系统
 planet test flight:行星测试飞行
 planet test:行星测试
@@ -2543,31 +2503,29 @@ planet would:行星将
 planet zoo:动物园之星
 planet:行星
 planeta rica:普拉內塔里卡
-planetaario:天象儀
-planetaarium:天象儀
+planetaario:天象仪
+planetaarium:天象仪
 planetal:普拉讷塔尔
-planetari:天象儀
-planetarij:天象儀
-planetario:天象儀
-planetariu:天象儀
+planetari:天象仪
+planetarij:天象仪
+planetario:天象仪
+planetariu:天象仪
 planetarium negara:国家天文馆
-planetarium negara:國家天文館
-planetarium:天象儀
-planetariumas:天象儀
-planetary achondrite:行星的無粒隕石
+planetarium:天象仪
+planetariumas:天象仪
+planetary achondrite:行星的无粒隕石
 planetary and spiritual:行星的和精神的
 planetary annihilation:横扫千星
 planetary army:行星的军队
 planetary atmosphere:行星的大气
 planetary atmosphere:行星的大气层
 planetary bargaining:行星的讨价还价
-planetary boundaries:地球限度理論
-planetary boundary layer:大氣邊界層
+planetary boundaries:地球限度理论
+planetary boundary layer:大气边界层
 planetary change:行星的改变
 planetary changes:行星的变化
 planetary civilization:行星的文明
 planetary climate:行星的气候
-planetary climate:行星的氣候
 planetary collision or scattering:行星的碰撞或散射
 planetary collision:行星的碰撞
 planetary configuration:行星的配置
@@ -2576,26 +2534,26 @@ planetary core:行星核心
 planetary core:行星的核心
 planetary curvature:行星的曲率
 planetary defense coordination office:行星防御协调办公室
-planetary differentiation:行星分異
+planetary differentiation:行星分异
 planetary dignity:行星的尊严
 planetary ecosystem:行星的生态系统
 planetary energy:行星的能量
 planetary environment:行星的环境
 planetary environments:行星的环境
-planetary equilibrium temperature:行星平衡溫度
+planetary equilibrium temperature:行星平衡温度
 planetary evolution:行星的演化
 planetary existence:行星的存在
-planetary experience:行星的經驗
+planetary experience:行星的经验
 planetary exploration of china:中国行星探测工程
-planetary flyby:行星飛越
+planetary flyby:行星飞越
 planetary force:行星的力量
 planetary form:行星的形式
 planetary future:行星的未来
-planetary geology:行星地質學
+planetary geology:行星地质学
 planetary governments:行星的政府
 planetary gravity:行星的重力
-planetary habitability laboratory:行星可居住性實驗室
-planetary habitability:行星適居性
+planetary habitability laboratory:行星可居住性实验室
+planetary habitability:行星适居性
 planetary heritage:行星的遗产
 planetary history:行星的历史
 planetary impacts:行星的影响
@@ -2604,24 +2562,24 @@ planetary liberation:行星的解放
 planetary love:行星的爱
 planetary lung:行星的肺
 planetary magnetic field:行星的磁场
-planetary mass object:行星質量天體
+planetary mass object:行星质量天体
 planetary mass:行星的质量
 planetary mean motion:行星的平均运动
 planetary memory:行星的记忆
-planetary migration:行星遷移
+planetary migration:行星迁移
 planetary missions program office:行星任务计划办公室
 planetary monster:行星的怪物
 planetary motion:行星的运动
 planetary mountain:行星的山
 planetary movement:行星的移动
-planetary nebula luminosity function:行星狀星雲亮度函數
+planetary nebula luminosity function:行星状星云亮度函数
 planetary nebula phase:行星状星云阶段
 planetary nebula:行星状星云
 planetary needs:行星的需要
-planetary nomenclature:行星體系命名法
+planetary nomenclature:行星体系命名法
 planetary orbit:行星的轨道
 planetary phase:行星相位
-planetary phenomenon:行星的現象
+planetary phenomenon:行星的现象
 planetary position:行星的位置
 planetary power:行星的力量
 planetary presence:行星的存在
@@ -2637,8 +2595,7 @@ planetary protection technology:行星保护技术
 planetary protection:行星保护
 planetary race:行星的种族
 planetary reality:行星的现实
-planetary reality:行星的現實
-planetary resources:行星資源公司
+planetary resources:行星资源公司
 planetary revolution:行星的革命
 planetary ring system:行星环系统
 planetary ring:行星环
@@ -2689,37 +2646,37 @@ planetary-protection rules:行星保护规则
 planetary-science activities:行星科学活动
 planetary-science budget:行星科学预算
 planetary:行星的
-planetaryo:天象儀
-planetaryum:天象儀
+planetaryo:天象仪
+planetaryum:天象仪
 planetes:惑星奇航
 planetesimal:微行星
-planets beyond neptune:假設的海王星外行星
-planetshakers:星球震動者樂團
+planets beyond neptune:假设的海王星外行星
+planetshakers:星球震动者乐团
 planetshine:行星照
-planetário:天象儀
-planetárium:天象儀
+planetário:天象仪
+planetárium:天象仪
 planfoy:普朗富瓦
-planggenstock:普蘭根施托克山
+planggenstock:普兰根施托克山
 planguenoual:普朗格努阿勒
-planicoxa:扁臀龍屬
+planicoxa:扁臀龙属
 planigale:侏袋鼬属
 planiliza carinata:棱鮻
 planiliza:鮻属
-planiloricaria cryptodon:隱齒平甲鯰
-planimeter:求積儀
+planiloricaria cryptodon:隐齿平甲鲶
+planimeter:求积仪
 planioles:普拉尼奥勒
 planisphere:活动星图
-planispiral:平旋殼和異旋殼
+planispiral:平旋殼和异旋殼
 planistromellaceae:平座菌科
 planities europaea orientalis:东欧平原
-planjava:普拉尼亞瓦山
+planjava:普拉尼亚瓦山
 plank of carneades:卡涅阿德斯船板
 plank road:杉林栈道
 planken:普兰肯
 plankenfels:普兰肯费尔斯
-plankington bluff:普蘭金頓海崖
+plankington bluff:普兰金顿海崖
 plankstadt:普兰克施塔特
-planktivore:食浮游生物動物
+planktivore:食浮游生物动物
 plankton and algae:浮游生物和藻
 plankton and fish:浮游生物和鱼
 plankton and invertebrates:浮游生物和无脊椎动物
@@ -2748,22 +2705,20 @@ plankton species:浮游生物物种
 plankton to dolphin:浮游生物到海豚
 plankton to earthworm:浮游生物到蚯蚓
 plankton:浮游生物
-planktothrix:浮絲藻屬
-planned community:新市鎮
-planned economy needs:計劃經濟需要
-planned economy:計劃經濟
-planned obsolescence:計畫性報廢
+planktothrix:浮丝藻属
+planned community:新市镇
+planned economy needs:计划经济需要
+planned economy:计划经济
+planned obsolescence:计画性报废
 planned parenthood:美国计划生育联合会
 planning and according department:计划财会部
-planning areas of singapore:新加坡規劃區
-planning fallacy:規劃謬誤
-planning regions of latvia:拉脫維亞計畫區
-planning:企劃
+planning areas of singapore:新加坡规划区
+planning fallacy:规划谬误
+planning regions of latvia:拉脱维亚计画区
+planning:企划
 plano de concórdia:联生工业邨
-plano de concórdia:聯生工業邨
-plano independent school district:布蘭諾独立學區
+plano independent school district:布兰诺独立学区
 plano piloto:巴西利亚
-plano piloto:巴西利亞
 plano senior high school:普莱诺高中
 planococcaceae:动球菌科
 planococcoides:牦粉蚧属
@@ -2773,7 +2728,7 @@ planoise:普拉努瓦斯
 planoles:普拉诺拉斯
 planomonospora:游动单孢菌属
 planorbidae:扁蜷科
-planorbis:扁蜷屬
+planorbis:扁蜷属
 planostocha:边卷蛾属
 planquery:普朗克里
 planrupt:普朗吕
@@ -3178,7 +3133,7 @@ plans world:计划世界
 plans would allow:计划将允许
 plans would:计划将
 plans:计划
-plansee:普蘭湖
+plansee:普兰湖
 plant a brief:植物一个简短的
 plant a cup of water:植物一杯水
 plant a cup:植物一杯
@@ -3196,7 +3151,6 @@ plant analysis:植物分析
 plant anatomy and physiology:植物解剖学和生理学
 plant anatomy and system:植物解剖学和系统
 plant anatomy:植物解剖学
-plant anatomy:植物解剖學
 plant and agricultural science:植物与农业科学
 plant and agricultural science:植物和农业科学
 plant and amphibian species:植物和两栖动物物种
@@ -3295,19 +3249,18 @@ plant bacteria:植物细菌
 plant bacterium:植物细菌
 plant balance:植物平衡
 plant bank:植物银行
-plant based diet:植物性飲食
+plant based diet:植物性饮食
 plant bean:植物豆
 plant bear:植物熊
 plant bed:植物床
 plant began:植物开始
 plant begin:植物开始
 plant behavior:植物行为
-plant behavior:植物行為
 plant behaviour:植物行为
 plant beverage:植物饮料
 plant biochemistry and plant:植物生物化学和植物
 plant biochemistry:植物生物化学
-plant biodiversity:植物生物多樣性
+plant biodiversity:植物生物多样性
 plant biologist david:植物生物学家大卫
 plant biologist lose:植物生物学家丢失
 plant biologist william:植物生物学家威廉
@@ -3329,7 +3282,7 @@ plant biotechnology company:植物生物技术公司
 plant biotechnology patents:植物生物技术专利
 plant biotechnology:植物生物技术
 plant blindness:植物失明
-plant blindness:植物盲視
+plant blindness:植物盲视
 plant blood:植物血液
 plant book:植物书
 plant bottle:植物瓶
@@ -3337,7 +3290,7 @@ plant brain:植物脑
 plant brand:植物品牌
 plant breathing:植物呼吸
 plant breed:植物品种
-plant breeding:植物配種
+plant breeding:植物配种
 plant brew:植物酿造
 plant bud:植物芽
 plant buy:植物买
@@ -3357,7 +3310,7 @@ plant carbon black food coloring:植物炭黑食用色素
 plant carbon black:植物炭黑
 plant carbon dioxide:植物二氧化碳
 plant carbon:植物碳
-plant carotenoid:植物類胡蘿蔔素
+plant carotenoid:植物类胡萝卜素
 plant cell and animal:植物细胞和动物
 plant cell cultivation:植物细胞培养
 plant cell expression systems:植物细胞表达系统
@@ -3366,7 +3319,7 @@ plant cell interior:植物细胞内部的
 plant cell membrane:植物细胞膜
 plant cell or animal:植物细胞或动物
 plant cell physiology:植物细胞生理学
-plant cell wall:植物細胞壁
+plant cell wall:植物细胞壁
 plant cell:植物细胞
 plant cell:植物细胞学
 plant cells and animal:植物细胞与动物
@@ -3378,9 +3331,9 @@ plant center:植物中心
 plant changes:植物变化
 plant characteristics and performance:植物特性和性能
 plant characteristics:植物特性
-plant chemical composition:植物化學成份
+plant chemical composition:植物化学成份
 plant chemical compound:植物化合物
-plant chemistry:植物化學
+plant chemistry:植物化学
 plant chlorophyll:植物叶绿素
 plant chloroplast:植物叶绿体
 plant choice:植物选择
@@ -3388,13 +3341,13 @@ plant circuit:植物电路
 plant city:植物城市
 plant classification:植物分类
 plant clinic:植物诊所
-plant clock:植物時鐘
+plant clock:植物时钟
 plant color:植物颜色
 plant colour:植物颜色
 plant come from:植物来自
 plant come:植物来
-plant commercial centre:植麗素商業中心
-plant committee:植物委員會
+plant commercial centre:植丽素商业中心
+plant committee:植物委员会
 plant community structure and ecosystem:植物群落结构和生态系统
 plant community structure:植物群落结构
 plant community:植物群落
@@ -3479,7 +3432,7 @@ plant emissions:植物排放
 plant empire:植物帝国
 plant energy:植物能量
 plant enzyme:植物酶
-plant epithet:植物修飾詞
+plant epithet:植物修饰词
 plant equipment:植物设备
 plant essential oil:植物精油
 plant evidence:植物证据
@@ -3504,7 +3457,6 @@ plant factories or plant:植物工厂或植物
 plant factories:植物工厂
 plant factory measurement tool:植物工厂测量工具
 plant factory:植物工厂
-plant factory:植物工廠
 plant family:植物家庭
 plant family:植物科
 plant farm:植物农场
@@ -3560,11 +3512,10 @@ plant genetics researcher:植物遗传学研究员
 plant genetics:植物遗传学
 plant genome evolution:植物基因组进化
 plant genome project:植物基因组项目
-plant genome:植物基因組
 plant genome:植物基因组
-plant genomics:植物基因組學
+plant genomics:植物基因组学
 plant genus:植物属
-plant geographer:植物地理學家
+plant geographer:植物地理学家
 plant geography:植物地理
 plant geography:植物地理学
 plant germination:植物发芽
@@ -3629,7 +3580,7 @@ plant is poisonous:植物是有毒的
 plant is round:植物是圆的
 plant is very sensitive:植物是非常敏感的
 plant is wheat:植物是小麦
-plant isoflavone:植物異黃酮
+plant isoflavone:植物异黄酮
 plant it:植物它
 plant just:植物只
 plant king:植物王
@@ -3644,7 +3595,6 @@ plant lamp:植物灯
 plant landscape:植物景观
 plant latex:植物乳胶
 plant leaf:植物叶
-plant leaf:植物葉
 plant lengths:植物长度
 plant level:植物水平
 plant library:植物图书馆
@@ -3693,7 +3643,6 @@ plant mechanism:植物机制
 plant medication:植物药
 plant medicinal chemistry:植物药物化学
 plant medicine:植物医学
-plant memory:植物記憶
 plant memory:植物记忆
 plant metabolism:植物代谢
 plant metabolism:植物新陈代谢
@@ -3708,13 +3657,11 @@ plant mimosa pudica:植物含羞草
 plant models:植物模型
 plant molecular biology:植物分子生物学
 plant molecular breeding greenhouse:植物分子育种温室
-plant molecular breeding greenhouse:植物分子育種溫室
 plant molecules:植物分子
 plant monster:植物怪物
 plant more:植物更多
 plant morphology and system:植物形态学和系统
 plant morphology:植物形态学
-plant morphology:植物形態學
 plant museum:植物博物馆
 plant mutation:植物突变
 plant mycorrhiza:植物菌根
@@ -3761,7 +3708,6 @@ plant or animal:植物或动物
 plant or animals:植物或动物
 plant or fruit:植物或水果
 plant or mineral:植物或矿物
-plant or mineral:植物或礦物
 plant or plant part:植物或植物部分
 plant or pond:植物或池塘
 plant or shrub nearby:植物或灌木附近
@@ -3789,9 +3735,7 @@ plant pathology and microbiology:植物病理学和微生物学
 plant pathology and physiology:植物病理学和生理学
 plant pathology department:植物病理学系
 plant pathology department:植物病理学部门
-plant pathology department:植物病理學系
 plant pathology:植物病理学
-plant pathology:植物病理學
 plant perform:植物执行
 plant performance:植物性能
 plant pest risk assessment:植物害虫风险评估
@@ -3801,7 +3745,7 @@ plant petal:植物花瓣
 plant phenols:植物酚
 plant phloem:植物韧皮部
 plant phosphorus:植物磷
-plant photographer:植物攝影師
+plant photographer:植物摄影师
 plant photography:植物摄影
 plant photosynthesis and animal:植物光合作用和动物
 plant photosynthesis:植物光合作用
@@ -3809,7 +3753,6 @@ plant physiology and demography:植物生理学和人口学
 plant physiology and horticulture:植物生理学和园艺
 plant physiology studies:植物生理学研究
 plant physiology:植物生理学
-plant physiology:植物生理學
 plant pigment chlorophyll:植物色素叶绿素
 plant pigment:植物色素
 plant pigment:植物颜料
@@ -3878,7 +3821,7 @@ plant purine:植物嘌呤
 plant put:植物放
 plant quality:植物质量
 plant quarantine:大阪入国管理局关西空港分局
-plant quarantine:植物檢疫
+plant quarantine:植物检疫
 plant race:植物种族
 plant rather than:植物而不是
 plant raw material:植物原材料
@@ -3889,7 +3832,7 @@ plant reproduction and food production:植物繁殖和食品生产
 plant reproduction and food:植物繁殖和食品
 plant reproduction process:植物繁殖过程
 plant reproduction:植物繁殖
-plant reproductive morphology:植物生殖形態學
+plant reproductive morphology:植物生殖形态学
 plant require:植物需要
 plant research center:植物研究中心
 plant research laboratory:植物研究实验室
@@ -3911,7 +3854,7 @@ plant rosemary:植物迷迭香
 plant safety:植物安全
 plant said:植物说
 plant sales:植物销售
-plant salvia hispanica:植物芡歐鼠尾草
+plant salvia hispanica:植物芡欧鼠尾草
 plant sample:植物样品
 plant sample:植物样本
 plant science and biotechnology:植物科学与生物技术
@@ -3936,7 +3879,6 @@ plant seed and animal:植物种子和动物
 plant seed and cereal:植物种子和谷物
 plant seed produce:植物种子生产
 plant seed:植物种子
-plant seed:植物種子
 plant select:植物选择
 plant selection and green:植物选择和绿色
 plant selection and landscape:植物选择和景观
@@ -3994,16 +3936,16 @@ plant taxonomy:植物分类学
 plant teacher:植物教师
 plant techniques:植物技术
 plant technologies:植物技术
-plant terrace:千葉居
+plant terrace:千叶居
 plant testing:植物测试
 plant then:植物然后
-plant theory:植物理論
+plant theory:植物理论
 plant therapy:植物疗法
 plant these:植物这些
 plant three:植物三
 plant time:植物时间
 plant tissue and water:植物组织和水
-plant tissue culture:植物組織培養
+plant tissue culture:植物组织培养
 plant tissue:植物组织
 plant to animal:植物到动物
 plant to product:植物到产品
@@ -4052,18 +3994,18 @@ plant wound:植物伤
 plant yogurt:植物酸奶
 plant you:植物你
 plant your:植物你的
-plant-based diet:植物性飲食
+plant-based diet:植物性饮食
 plant-health capacity development:植物健康能力发展
 plant-life:植物生命
 plant:植物
-planta de incineración shibuya:澀谷清掃工場
+planta de incineración shibuya:涩谷清扫工场
 planta nuclear militar 816:816地下核工厂
 plantactinospora:植物放线孢菌属
 plantaginaceae:车前科
 plantago aristata:芒苞车前
 plantago asiatica:车前
 plantago lanceolata:长叶车前
-plantago major:大車前草
+plantago major:大车前草
 plantago maritima:沿海车前
 plantago media:北车前
 plantago virginica:北美车前
@@ -4078,14 +4020,14 @@ plantation development:种植业发展
 plantation heights:迎福苑
 plantation management:种植业管理
 plantation pavillion:植物风情馆
-plantation road garden:種植道花園
-plantation road:種植道
+plantation road garden:种植道花园
+plantation road:种植道
 plantation work:种植业工作
 plantation:种植业
-plantations of ireland:愛爾蘭殖民地
+plantations of ireland:爱尔兰殖民地
 planten un blomen:植物与花卉公园
 planteskole (planter) lavigne:苗圃（植物）lavigne
-planthopper:蠟蟬總科
+planthopper:蜡蟬总科
 plantigrade:掌行的
 plantigrade:蹠行
 plantin-moretus house-workshops-museum complex:帕拉丁莫瑞图斯工场－博物馆建筑群
@@ -4100,7 +4042,7 @@ plants also need potassium:植物也需要钾
 plants also need water:植物也需要水
 plants always:植物总是
 plants and algae:植物和藻
-plants and algae:植物和藻類
+plants and algae:植物和藻类
 plants and animal fat:植物和动物脂肪
 plants and animal liver:植物和动物肝
 plants and animal product:植物和动物产品
@@ -4132,7 +4074,6 @@ plants and crops:植物和农作物
 plants and culture:植物和文化
 plants and cut flowers:植物和切花
 plants and day:植物和日
-plants and design:植物和設計
 plants and design:植物和设计
 plants and different:植物和不同的
 plants and drinking water:植物和饮用水
@@ -4184,7 +4125,6 @@ plants and mice:植物和老鼠
 plants and microbe:植物和微生物
 plants and microorganism:植物和微生物
 plants and mineral:植物和矿物
-plants and mineral:植物和礦物
 plants and mud:植物和泥
 plants and mushroom:植物和蘑菇
 plants and natural product research:植物和天然产物研究
@@ -4225,7 +4165,7 @@ plants and soil sample:植物和土壤样本
 plants and soil:植物和土壤
 plants and some:植物和一些
 plants and stairs:植物和楼梯
-plants and stone:植物和石頭
+plants and stone:植物和石头
 plants and substance:植物和物质
 plants and temperature:植物和温度
 plants and three ounce:植物和三盎司
@@ -4342,7 +4282,7 @@ plants have different:植物有不同的
 plants have eyes:植物有眼睛
 plants have life:植物有生命
 plants have more:植物有更多
-plants have neuron:植物有神經元
+plants have neuron:植物有神经元
 plants have sequencing data:植物有测序数据
 plants have some sort of consciousness:植物有某种意识
 plants have their origin:植物有他们的起源
@@ -4482,7 +4422,7 @@ plants to humans:植物到人类
 plants to nutrition:植物到营养
 plants too have life:植物也有生命
 plants too:植物也
-plants trail:植物小徑
+plants trail:植物小径
 plants use carbon dioxide:植物使用二氧化碳
 plants use hormone signals:植物使用激素信号
 plants use:植物使用
@@ -4506,60 +4446,57 @@ planty (aube):普朗蒂 (奥布省)
 planty (gemeente):普朗蒂 (奥布省)
 planty, aube:普朗蒂 (奥布省)
 planty:普朗蒂 (奥布省)
-planula:浮浪幼蟲
-planulozoa:浮浪幼蟲樣動物
-planum boreum:北極高原
+planula:浮浪幼虫
+planulozoa:浮浪幼虫样动物
+planum boreum:北极高原
 planungsregion nordost:东北部规划区 (保加利亚)
 planungsregion nordwest:北部规划区 (保加利亚)
 planungsregion südost:东南部规划区
 planungsregion südwest:西南部规划区 (保加利亚)
 planura:普拉努拉
 planzolles:普朗佐勒
-planétarium:天象儀
+planétarium:天象仪
 planície europeia oriental:东欧平原
 plappeville:普拉普维尔
 plaque - "academic achievement of brothers":兄弟连科
-plaque - "academic achievement of brothers":兄弟連科
 plas point:普拉斯角
-plasan sandcat:沙貓裝甲車
+plasan sandcat:沙猫装甲车
 plascheid:普拉沙伊德
-plasco building:普拉斯科大廈
+plasco building:普拉斯科大厦
 plasencia cathedral:皮亚琴察主教座堂
-plasencia:普拉森西亞
+plasencia:普拉森西亚
 plasencia:皮亚琴察
 plasenn ar c'honkord:协和广场
-plasenn ar c'honkord:協和廣場
 plasenn raoul dautry:拉乌尔·道特里广场
 plasenn sant-pêr:圣伯多禄广场
-plasenn sant-pêr:聖伯多祿廣場
 plasenzuela:普拉森苏埃拉
 plasença:皮亚琴察
 plaskett's star:普拉斯基特星
-plasma afterglow:餘輝電漿
+plasma afterglow:余辉电浆
 plasma cell physiology:浆细胞生理学
 plasma cell tumor:浆细胞肿瘤
 plasma cell:浆细胞
-plasma cutting:電漿切割
-plasma display:等離子顯示屏
+plasma cutting:电浆切割
+plasma display:等离子显示屏
 plasma economy:河南血祸
 plasma electrolytic oxidation:微弧氧化
 plasma globe:等离子灯
 plasma immersion ion implantation equipment:等离子体浸没离子注入设备
 plasma immersion ion implantation:等离子体浸没离子注入
 plasma instrument for magnetic sounding:等离子体磁测深仪
-plasma oscillation:電漿振盪
-plasma parameters:等離子體參數
+plasma oscillation:电浆振荡
+plasma parameters:等离子体参数
 plasma physics and space research:等离子体物理学和空间研究
 plasma physics graduate student:等离子体物理学研究生
 plasma physics with einstein:等离子体物理学与爱因斯坦
 plasma physics:等离子体物理学
-plasma powered cannon:等離子炮
-plasma propulsion engine:電漿推進發動機
+plasma powered cannon:等离子炮
+plasma propulsion engine:电浆推进发动机
 plasma protein binding:血浆蛋白结合
 plasma protein:血浆蛋白
 plasma recombination:等离子体重组
 plasma shaping:等离子体形状控制
-plasma sheet:電漿片
+plasma sheet:电浆片
 plasma speaker:等离子体扬声器
 plasma spraying equipment:等离子喷涂设备
 plasma spraying or combustion:等离子喷涂或燃烧
@@ -4567,14 +4504,14 @@ plasma spraying still:等离子喷涂仍然
 plasma spraying system:等离子喷涂系统
 plasma spraying:等离子喷涂
 plasma stealth:等离子隐形
-plasma torch:電漿炬
+plasma torch:电浆炬
 plasma weapon:等离子武器
 plasma-protein levels:血浆蛋白水平
 plasmacytoid dendritic cell:浆细胞样树突状细胞
 plasmalogen:缩醛磷脂
-plasmapheresis:血漿置換術
-plasmasphere:電漿層
-plasmaviridae:芽生噬菌體科
+plasmapheresis:血浆置换术
+plasmasphere:电浆层
+plasmaviridae:芽生噬菌体科
 plasmid cloning:质粒克隆
 plasmid design:质粒设计
 plasmid exchange:质粒交换
@@ -4586,7 +4523,7 @@ plasmid transfer:质粒转移
 plasmid:质粒
 plasmin:纤溶酶
 plasminogen activator:纤维蛋白溶酶原激活物
-plasmodesma:原生質絲
+plasmodesma:原生质丝
 plasmodiidae:疟原虫科
 plasmodiophora brassicae:根肿病
 plasmodiophora:根肿菌属
@@ -4596,22 +4533,22 @@ plasmodium falciparum malaria:恶性疟原虫疟疾
 plasmodium falciparum parasite:恶性疟原虫寄生虫
 plasmodium falciparum:恶性疟原虫
 plasmodium knowlesi:诺氏疟原虫
-plasmodium malariae:三日瘧原蟲
-plasmodium ovale:卵形瘧原蟲
-plasmodium vivax:間日瘧原蟲
-plasmodium:瘧原蟲
-plasmogamy:胞質融合
-plasmoid:電漿粒團
+plasmodium malariae:三日疟原虫
+plasmodium ovale:卵形疟原虫
+plasmodium vivax:间日疟原虫
+plasmodium:疟原虫
+plasmogamy:胞质融合
+plasmoid:电浆粒团
 plasmolysis:质壁分离
-plasmon:電漿子
+plasmon:电浆子
 plasmonics:等离子激元
 plasmopara:轴霜霉属
 plasnes:普拉讷
-plasnica municipality:普拉斯尼察市鎮
+plasnica municipality:普拉斯尼察市镇
 plassay:普拉赛
-plasselb:普拉塞爾布
+plasselb:普拉塞尔布
 plast:普拉斯特
-plastarch material:可塑性澱粉材料
+plastarch material:可塑性淀粉材料
 plaster and paint:灰泥和油漆
 plaster ceiling:灰泥天花板
 plaster ground:灰泥地面
@@ -4626,7 +4563,6 @@ plastic action:塑料行动
 plastic adapter:塑料适配器
 plastic add:塑料加
 plastic aircraft:塑料飞机
-plastic airplane:塑料飛機
 plastic airplane:塑料飞机
 plastic alliance:塑料联盟
 plastic alloy:塑料合金
@@ -4690,7 +4626,6 @@ plastic and rubber materials:塑料和橡胶材料
 plastic and rubber products:塑料和橡胶产品
 plastic and rubber:塑料与橡胶
 plastic and rubber:塑料和橡胶
-plastic and rubber:塑料和橡膠
 plastic and semiconductor materials:塑料和半导体材料
 plastic and silica gel:塑料和硅胶
 plastic and silica:塑料和二氧化硅
@@ -4718,7 +4653,7 @@ plastic art schools:塑料艺术学校
 plastic art:塑料艺术
 plastic artist:塑料艺术家
 plastic artists:塑料艺术家
-plastic arts:造形藝術
+plastic arts:造形艺术
 plastic as plastic:塑料当作塑料
 plastic as well as paper:塑料以及纸
 plastic as well as:塑料以及
@@ -4730,7 +4665,7 @@ plastic auto:塑料汽车
 plastic average:塑料平均
 plastic awning:塑料遮阳篷
 plastic axe:塑料斧
-plastic baby bottle:塑料嬰兒奶瓶
+plastic baby bottle:塑料婴儿奶瓶
 plastic baby:塑料婴儿
 plastic back:塑料背
 plastic backpack:塑料背包
@@ -4843,7 +4778,7 @@ plastic bottle materials:塑料瓶材料
 plastic bottle opener:塑料开瓶器
 plastic bottle or aluminium:塑料瓶或铝
 plastic bottle package:塑料瓶包
-plastic bottle packaging:塑料瓶包裝
+plastic bottle packaging:塑料瓶包装
 plastic bottle pollution:塑料瓶污染
 plastic bottle principle:塑料瓶原则
 plastic bottle production:塑料瓶生产
@@ -4856,7 +4791,7 @@ plastic bottle village:塑料瓶村庄
 plastic bottle waste:塑料瓶垃圾
 plastic bottle with drug:塑料瓶与药物
 plastic bottle:塑料瓶
-plastic bottled water:塑料瓶裝水
+plastic bottled water:塑料瓶装水
 plastic bottled:塑料瓶装的
 plastic bottom:塑料底
 plastic bowl:塑料碗
@@ -4876,7 +4811,7 @@ plastic bronchitis:塑料支气管炎
 plastic brush:塑料刷子
 plastic bucket:塑料桶
 plastic bucket:塑料水桶
-plastic buckle:塑料帶扣
+plastic buckle:塑料带扣
 plastic budget:塑料预算
 plastic building:塑料建筑
 plastic bullet:塑料子弹
@@ -4913,7 +4848,7 @@ plastic chemistry:塑料化学
 plastic chicken:塑料鸡
 plastic child:塑料孩子
 plastic children:塑料儿童
-plastic china:塑料王國
+plastic china:塑料王国
 plastic choice:塑料选择
 plastic chopsticks:塑料筷子
 plastic christmas tree:塑料圣诞树
@@ -4939,7 +4874,7 @@ plastic color:塑料颜色
 plastic communities:塑料社区
 plastic companies:塑料企业
 plastic companies:塑料公司
-plastic company:塑膠公司
+plastic company:塑胶公司
 plastic compatibility:塑料兼容性
 plastic component:塑料组件
 plastic components and modules:塑料组件和模块
@@ -4975,7 +4910,6 @@ plastic coverage:塑料覆盖
 plastic craft:塑料工艺
 plastic credit card:塑料信用卡
 plastic crisis:塑料危机
-plastic crisis:塑料危機
 plastic crusher:塑料破碎机
 plastic crystal:塑料晶体
 plastic cube:塑料立方体
@@ -5044,7 +4978,7 @@ plastic exercises:塑料练习
 plastic experience:塑料体验
 plastic experiment:塑料实验
 plastic experts:塑料专家
-plastic explosive:塑膠炸彈
+plastic explosive:塑胶炸弹
 plastic export enterprises:塑料出口企业
 plastic export:塑料出口
 plastic exports:塑料出口
@@ -5081,7 +5015,7 @@ plastic food and water:塑料食品和水
 plastic food box:塑料食品盒
 plastic food container:塑料食品容器
 plastic food container:塑料食物容器
-plastic food packaging:塑料食品包裝
+plastic food packaging:塑料食品包装
 plastic food tray:塑料食品托盘
 plastic food tray:塑料食物托盘
 plastic food:塑料食品
@@ -5108,7 +5042,6 @@ plastic gatorade:塑料佳得乐
 plastic gear:塑料齿轮
 plastic glass shower:塑料玻璃淋浴
 plastic glass:塑料玻璃
-plastic glasses:塑料眼鏡
 plastic glasses:塑料眼镜
 plastic global economy:塑料全球经济
 plastic global:塑料全球
@@ -5117,7 +5050,6 @@ plastic goggles:塑料护目镜
 plastic grass:塑料草
 plastic green:塑料绿色
 plastic greenhouse:塑料温室
-plastic greenhouse:塑料溫室
 plastic grenade:塑料手榴弹
 plastic grid:塑料网格
 plastic grind:塑料磨
@@ -5143,7 +5075,7 @@ plastic head:塑料头
 plastic heart model:塑料心脏模型
 plastic heart pump:塑料心脏泵
 plastic heart:塑料心脏
-plastic hearts:塑膠心
+plastic hearts:塑胶心
 plastic heat exchanger:塑料换热器
 plastic heat:塑料热
 plastic helicopters:塑料直升机
@@ -5152,7 +5084,7 @@ plastic help:塑料帮助
 plastic high:塑料高
 plastic hinge:塑料铰链
 plastic history:塑料历史
-plastic hose:塑料軟管
+plastic hose:塑料软管
 plastic hospital:塑料医院
 plastic hot:塑料热
 plastic house:塑料房子
@@ -5167,7 +5099,7 @@ plastic implant:塑料植入物
 plastic include:塑料包括
 plastic index-card:塑料索引卡
 plastic industry about plastic:塑料工业关于塑料
-plastic industry hall:塑膠產業館
+plastic industry hall:塑胶产业馆
 plastic industry technology:塑料工业技术
 plastic industry:塑料工业
 plastic information:塑料信息
@@ -5200,7 +5132,7 @@ plastic kingdom:塑料王国
 plastic kitchen tools:塑料厨房工具
 plastic kitchen:塑料厨房
 plastic knee pad:塑料护膝
-plastic knowledge:塑料知識
+plastic knowledge:塑料知识
 plastic label:塑料标签
 plastic laboratory:塑料实验室
 plastic laptop:塑料笔记本电脑
@@ -5217,7 +5149,7 @@ plastic lightsaber:塑料光剑
 plastic limb:塑料肢
 plastic limit:塑料限制
 plastic line:塑料线
-plastic little:雲海歷險
+plastic little:云海历险
 plastic lock:塑料锁
 plastic logic:塑料逻辑
 plastic logistics:塑料物流
@@ -5263,7 +5195,7 @@ plastic medical device:塑料医疗设备
 plastic melt:塑料融化
 plastic melting:塑料熔化
 plastic membrane:塑料膜
-plastic memories:可塑性記憶
+plastic memories:可塑性记忆
 plastic metal:塑料金属
 plastic mickey mouse:塑料米老鼠
 plastic milk bottle:塑料牛奶瓶
@@ -5344,12 +5276,12 @@ plastic outer layer:塑料外层
 plastic output:塑料输出
 plastic oyster:塑料牡蛎
 plastic package:塑料包
-plastic packaging bag:塑料包裝袋
-plastic packaging container:塑料包裝容器
-plastic packaging enterprises:塑料包裝企业
-plastic packaging materials:塑料包裝材料
+plastic packaging bag:塑料包装袋
+plastic packaging container:塑料包装容器
+plastic packaging enterprises:塑料包装企业
+plastic packaging materials:塑料包装材料
 plastic packaging waste:塑料包装废弃物
-plastic packaging:塑料包裝
+plastic packaging:塑料包装
 plastic page protect:塑料页保护
 plastic page:塑料页
 plastic pages:塑料页
@@ -5399,13 +5331,11 @@ plastic pollution challenge:塑料污染挑战
 plastic pollution control policy:塑料污染控制政策
 plastic pollution control:塑料污染控制
 plastic pollution crisis:塑料污染危机
-plastic pollution crisis:塑料污染危機
 plastic pollution has been:塑料污染已经
 plastic pollution history:塑料污染历史
 plastic pollution hot:塑料污染热
 plastic pollution is a global:塑料污染是一个全球
 plastic pollution issue:塑料污染问题
-plastic pollution problem:塑料污染問題
 plastic pollution problem:塑料污染问题
 plastic pollution problems:塑料污染问题
 plastic pollution project manager:塑料污染项目经理
@@ -5431,7 +5361,6 @@ plastic princess:塑料公主
 plastic print:塑料打印
 plastic printing and paper:塑料印刷和纸
 plastic printing:塑料印刷
-plastic problem:塑料問題
 plastic problem:塑料问题
 plastic problems:塑料问题
 plastic process:塑料处理
@@ -5471,10 +5400,10 @@ plastic rain:塑料雨
 plastic raincoat:塑料雨衣
 plastic rather than:塑料而不是
 plastic ratio:塑料比例
-plastic ratio:塑膠數
+plastic ratio:塑胶数
 plastic raw material:塑料原材料
 plastic reaction:塑料反应
-plastic rear window:塑料後窗
+plastic rear window:塑料后窗
 plastic rectangle:塑料矩形
 plastic red:塑料红色
 plastic refers to:塑料指
@@ -5504,7 +5433,6 @@ plastic rocking horse:塑料摇马
 plastic roof:塑料屋顶
 plastic rubber products:塑料橡胶产品
 plastic rubber:塑料橡胶
-plastic rubber:塑料橡膠
 plastic ruler:塑料尺
 plastic ruler:塑料尺子
 plastic run:塑料跑
@@ -5519,7 +5447,7 @@ plastic sandwich:塑料三明治
 plastic satellite:塑料卫星
 plastic sausage:塑料香肠
 plastic scissors:塑料剪刀
-plastic scrap:塑料廢料
+plastic scrap:塑料废料
 plastic screen protector:塑料屏幕保护膜
 plastic screen:塑料屏幕
 plastic sculpture:塑料雕塑
@@ -5531,15 +5459,15 @@ plastic semiconductor material:塑料半导体材料
 plastic semiconductor:塑料半导体
 plastic sensor:塑料传感器
 plastic series:塑料系列
-plastic shape:塑料形狀
+plastic shape:塑料形状
 plastic shelf life:塑料保质期
 plastic shell:塑料壳
 plastic shell:塑料殼
 plastic shield:塑料盾
 plastic ship:塑料船
 plastic shoe:塑料鞋
-plastic shopping bag:塑料購物袋
-plastic shopping:塑料購物
+plastic shopping bag:塑料购物袋
+plastic shopping:塑料购物
 plastic shoulder:塑料肩
 plastic shovel:塑料铲
 plastic shower cap:塑料浴帽
@@ -5549,7 +5477,6 @@ plastic side:塑料边
 plastic six:塑料六
 plastic skeleton:塑料骨架
 plastic skin:塑料皮肤
-plastic skin:塑料皮膚
 plastic skull:塑料头骨
 plastic sled:塑料雪橇
 plastic slices:塑料切片
@@ -5591,14 +5518,12 @@ plastic surface look:塑料表面看
 plastic surface quality:塑料表面质量
 plastic surface:塑料表面
 plastic surgery center:整形外科中心
-plastic surgery clinic:整形外科診所
 plastic surgery clinic:整形外科诊所
 plastic surgery consumers:整形外科消费者
 plastic surgery department:整形外科部门
 plastic surgery expert:整形外科专家
 plastic surgery has been:整形外科已经
 plastic surgery hospital:整形外科医院
-plastic surgery hospital:整形外科醫院
 plastic surgery monster:整形外科怪物
 plastic surgery patients:整形外科患者
 plastic surgery princess:整形外科公主
@@ -5608,7 +5533,7 @@ plastic surgery reports:整形外科报告
 plastic surgery services:整形外科服务
 plastic surgery techniques:整形外科技术
 plastic surgery:整形外科
-plastic sustainability:塑料可持續性
+plastic sustainability:塑料可持续性
 plastic swimming pool:塑料游泳池
 plastic switch:塑料开关
 plastic sword:塑料剑
@@ -5627,11 +5552,10 @@ plastic teeth:塑料牙
 plastic temperature:塑料温度
 plastic template:塑料模板
 plastic tent:塑料帐篷
-plastic tent:塑料帳篷
 plastic test tube:塑料试管
 plastic textile:塑料纺织品
 plastic than plankton:塑料比浮游生物
-plastic thimble:塑料頂針
+plastic thimble:塑料顶针
 plastic this:塑料这
 plastic threat:塑料威胁
 plastic tide:塑料潮
@@ -5738,7 +5662,7 @@ plastic workpiece:塑料工件
 plastic world:塑料世界
 plastic would be:塑料将成为
 plastic would:塑料将
-plastic wrap:保鮮紙
+plastic wrap:保鲜纸
 plastic wreck:塑料残骸
 plastic wrist:塑料腕
 plastic yellow tupperware container:塑料黄色特百惠容器
@@ -5754,51 +5678,50 @@ plasticine and clay toad:橡皮泥和粘土蟾蜍
 plasticine farm animal:橡皮泥农场动物
 plasticine real:橡皮泥真的
 plasticine:橡皮泥
-plasticizer:塑化劑
-plastics and oligomer:塑膠和低聚物
-plastics committee:塑膠委員會
-plastics crisis:塑膠危機
-plastics design:塑膠設計
+plasticizer:塑化剂
+plastics and oligomer:塑胶和低聚物
+plastics committee:塑胶委员会
+plastics crisis:塑胶危机
+plastics design:塑胶设计
 plastics engineering and design:塑料工程和设计
 plastics engineering companies:塑料工程公司
 plastics engineering:塑料工程
-plastics factory:塑膠工廠
-plastics factory:塑膠廠
-plastics pollution:塑膠污染
-plastics waste:塑膠垃圾
-plastics:塑膠
-plastid:色素體
-plastiglomerate:膠礫岩
+plastics factory:塑胶厂
+plastics factory:塑胶工厂
+plastics pollution:塑胶污染
+plastics waste:塑胶垃圾
+plastics:塑胶
+plastid:色素体
+plastiglomerate:胶礫岩
 plastiki:普拉斯蒂奇
 plastination:生物塑化技术
-plastocyanin:質體藍素
+plastocyanin:质体蓝素
 plastoen:普拉斯通
 plastoquinone:质体醌
 plastoun:普拉斯通
-plastovskij rajon:普拉斯特區
-plastovsky district:普拉斯特區
+plastovskij rajon:普拉斯特区
+plastovsky district:普拉斯特区
 plastun:普拉斯通
 plasy:普拉西
-plaszti járás:普拉斯特區
+plaszti járás:普拉斯特区
 plata glacier:普拉托冰川
-plata passage:普拉塔海峽
+plata passage:普拉塔海峡
 plata-rivero:拉普拉塔河
 platacanthomyidae:刺睡鼠科
 plataci:普拉塔奇
-plataforma ajardinada do edif. do lago:湖畔大廈平台花園
-plataforma ajardinada do edifício mong tak:望德樓平台花園
-plataforma central de transportes do 2.º andar da zona do posto fronteiriço da parte de macau do posto fronteiriço hengqin:橫琴澳方口岸交通樞紐平台
+plataforma ajardinada do edif. do lago:湖畔大厦平台花园
+plataforma ajardinada do edifício mong tak:望德楼平台花园
+plataforma central de transportes do 2.º andar da zona do posto fronteiriço da parte de macau do posto fronteiriço hengqin:横琴澳方口岸交通枢纽平台
 plataforma de sonda:巽他陆台
 plataforma noroeste:xīběi píngtái
 plataforma noroeste:西北平台
-plataforma noroeste:西北平臺
-plataleorhynchus:匙喙翼龍
+plataleorhynchus:匙喙翼龙
 platamon castle:普拉塔蒙城堡
 platanaceae:悬铃木科
-platanar volcano:普拉塔納爾火山
+platanar volcano:普拉塔纳尔火山
 platania:普拉塔尼亚
 platanias:普拉塔尼亚斯
-platanichthys:孔頭鯡
+platanichthys:孔头鯡
 platanthera bakeriana:滇藏舌唇兰
 platanthera bifolia:细距舌唇兰
 platanthera chlorantha:二叶舌唇兰
@@ -5815,9 +5738,9 @@ platanus orientalis:法桐
 platanus:悬铃木属
 plataspidae:龟蝽科
 platax batavianus:印尼燕鱼
-platax boersii:波氏燕魚
+platax boersii:波氏燕鱼
 platax pinnatus:圆翅燕鱼
-platax teira:尖翅燕魚
+platax teira:尖翅燕鱼
 plate and bottle:盘子和瓶
 plate and bronze:盘子和青铜
 plate and china:盘子和瓷器
@@ -5827,7 +5750,7 @@ plate and mail:盘子和邮件
 plate and spices:盘子和香料
 plate and spoon:盘子和勺
 plate and tableware:盘子和餐具
-plate appearance:打席數
+plate appearance:打席数
 plate approach:盘子方法
 plate armour:板甲
 plate await:盘子等
@@ -5848,7 +5771,7 @@ plate of dish:盘子的盘子
 plate or bowl:盘子或碗
 plate or lick you:盘子或舔你
 plate or yogurt:盘子或酸奶
-plate reconstruction:板塊重建
+plate reconstruction:板块重建
 plate reconstruction:盘子重建
 plate should be:盘子应该是
 plate size:盘子大小
@@ -5858,7 +5781,6 @@ plate theory:板理论
 plate will:盘子会
 plate without:盘子没有
 plate:盘子
-platea praesepii:馬槽廣場
 platea praesepii:马槽广场
 platea:美食空间
 plateau area:高原地区
@@ -5867,7 +5789,7 @@ plateau art:高原艺术
 plateau as:高原当作
 plateau brown frog:高原林蛙
 plateau brésilien:巴西高原
-plateau central de russie:中俄羅斯高地
+plateau central de russie:中俄罗斯高地
 plateau certification and germany:高原认证和德国
 plateau certification:高原认证
 plateau chiu:高原州
@@ -5875,7 +5797,6 @@ plateau chub:艾氏真墨西哥鮈
 plateau city:高原城市
 plateau civilization:高原文明
 plateau climate:高原气候
-plateau climate:高原氣候
 plateau commune:高原公社
 plateau continent:高原大陆
 plateau d'hauteville:普拉托多特维尔
@@ -5890,7 +5811,6 @@ plateau departmanı:高原省
 plateau department:高原省
 plateau des petites roches:小岩高原镇
 plateau du golan:戈兰高地
-plateau du golan:戈蘭高地
 plateau earthquake:高原地震
 plateau ecosystem:高原生态系统
 plateau end:高原结束
@@ -5910,7 +5830,7 @@ plateau life:高原生活
 plateau material:高原材料
 plateau merge:高原合并
 plateau mountain:高原山
-plateau national park:高原國家公園
+plateau national park:高原国家公园
 plateau needs:高原需要
 plateau or increase:高原或增加
 plateau or mountain:高原或山
@@ -5926,7 +5846,7 @@ plateau reaction:高原反应
 plateau region:高原地区
 plateau regions:高原地区
 plateau sa marcahuasi:马卡瓦西高原
-plateau shiner:多鱗真小鯉
+plateau shiner:多鳞真小鲤
 plateau soon:高原很快
 plateau state city:高原州城市
 plateau state police:高原国家警察
@@ -5947,8 +5867,8 @@ plateau wildfire:高原野火
 plateau's laws:普拉托定律
 plateau's problem:普拉托问题
 plateau, nigeria:高原州
-plateau-central bölgesi:高原-中部大區
-plateau-central:高原-中部大區
+plateau-central bölgesi:高原-中部大区
+plateau-central:高原-中部大区
 plateau:高原
 plateau:高原州
 plateau:高原省
@@ -5963,12 +5883,11 @@ plateaux region:高原区
 plateaux, togo:高原区
 plateaux:高原区
 plateaux:高原省
-platecarpus:板踝龍屬
+platecarpus:板踝龙属
 plated wire memory:磁镀线存储器
-plateforme d'observation:文京區公所展望台
+plateforme d'observation:文京区公所展望台
 plateforme nord-ouest:xīběi píngtái
 plateforme nord-ouest:西北平台
-plateforme nord-ouest:西北平臺
 platelet ability:血小板能力
 platelet abnormal:血小板异常
 platelet activating factor:血小板激活因子
@@ -5981,11 +5900,11 @@ platelet cells:血小板细胞
 platelet clear:血小板清除
 platelet compounds:血小板化合物
 platelet count:血小板计数
-platelet derived growth factor receptor:血小板衍生生長因子受體
-platelet derived growth factor:血小板衍生生長因子
+platelet derived growth factor receptor:血小板衍生生长因子受体
+platelet derived growth factor:血小板衍生生长因子
 platelet distribution width:血小板分布宽度
 platelet distribution:血小板分布
-platelet donation:血小板捐贈
+platelet donation:血小板捐赠
 platelet drug:血小板药物
 platelet drugs:血小板药
 platelet drugs:血小板药物
@@ -6004,26 +5923,26 @@ platelet membrane:血小板膜
 platelet production:血小板生产
 platelet products:血小板产品
 platelet ratio:血小板比
-platelet rich plasma:高濃度血小板血漿
+platelet rich plasma:高浓度血小板血浆
 platelet synthesis:血小板合成
 platelet test:血小板测试
 platelet therapy:血小板疗法
-platelet transfusion:血小板輸血
+platelet transfusion:血小板输血
 platelet treatment:血小板治疗
 platelet volume:血小板体积
-platelet-rich plasma injection:高濃度血小板血漿注射
+platelet-rich plasma injection:高浓度血小板血浆注射
 platelet:血小板
 plateliai lake:普拉特利艾湖
-plateosauravus:祖父板龍屬
-plateosauria:板龍類
-plateosauridae:板龍科
-plateosaurus:板龍屬
+plateosauravus:祖父板龙属
+plateosauria:板龙类
+plateosauridae:板龙科
+plateosaurus:板龙属
 plateremaeidae:迭蜕甲螨科
-plateresque:銀匠式風格
-plateria district:普拉特里亞區
+plateresque:银匠式风格
+plateria district:普拉特里亚区
 platero and i:小银和我
 platform 1 southbound:南下月台
-platform 1 staff room:南下月台站務室
+platform 1 staff room:南下月台站务室
 platform 10/platform 11:10站台/11站台
 platform 12/platform 13:12站台/13站台
 platform 14/platform 15:14站台/15站台
@@ -6033,7 +5952,7 @@ platform 1:1站台
 platform 1:一站台
 platform 1:第一月台
 platform 2 northbound:北上月台
-platform 2 staff room:北上月台站務室
+platform 2 staff room:北上月台站务室
 platform 2&3:二/三站台
 platform 2/platform 3:2站台/3站台
 platform 2:2月台
@@ -6055,7 +5974,7 @@ platform accessibility:平台可访问性
 platform according to different:平台根据不同的
 platform according to:平台根据
 platform account:平台账户
-platform accountability:平台問責制
+platform accountability:平台问责制
 platform acquisition:平台收购
 platform action game:平台动作游戏
 platform activities:平台活动
@@ -6067,7 +5986,6 @@ platform advantage:平台优势
 platform advantages:平台优势
 platform adventure game:平台冒险游戏
 platform adventure:平台冒险
-platform adventure:平台冒險
 platform again:平台再
 platform agnosticism:平台不可知论
 platform agreement:平台协议
@@ -6115,7 +6033,6 @@ platform and arm:平台和臂
 platform and audience:平台和观众
 platform and base:平台与基地
 platform and big data:平台和大数据
-platform and big data:平台和大數據
 platform and bitcoin:平台和比特币
 platform and blockchain company:平台和区块链公司
 platform and blockchain:平台和区块链
@@ -6260,7 +6177,6 @@ platform and space:平台和空间
 platform and strategic network:平台和战略网络
 platform and strategic:平台与战略
 platform and sufficient development:平台和充足的发展
-platform and system:平台和系統
 platform and system:平台和系统
 platform and target platform:平台和目标平台
 platform and task:平台和任务
@@ -6357,7 +6273,6 @@ platform availability:平台可用性
 platform average:平台平均
 platform awards:平台奖
 platform band:平台带
-platform bank:平台銀行
 platform bank:平台银行
 platform based on:平台基于
 platform based:平台基于
@@ -6391,7 +6306,6 @@ platform box office:平台票房
 platform brand:平台品牌
 platform break:平台打破
 platform bridge:平台桥
-platform bridge:平台橋
 platform broadcast:平台广播
 platform browser:平台浏览器
 platform build environment:平台构建环境
@@ -6506,7 +6420,7 @@ platform control and motion:平台控制和运动
 platform control application:平台控制应用
 platform control policy:平台控制政策
 platform control:平台控制
-platform controller hub:平台路徑控制器
+platform controller hub:平台路径控制器
 platform controller:平台控制器
 platform conversation:平台对话
 platform cooperation:平台合作
@@ -6561,10 +6475,9 @@ platform deployment:平台部署
 platform design and storytelling:平台设计和讲故事
 platform design approach:平台设计方法
 platform design environment:平台设计环境
-platform design language:平台設計語言
+platform design language:平台设计语言
 platform design services:平台设计服务
 platform design solutions:平台设计解决方案
-platform design:平台設計
 platform design:平台设计
 platform desktop applications:平台桌面应用程序
 platform desktop development:平台桌面开发
@@ -6620,7 +6533,6 @@ platform driver:平台司机
 platform due to:平台由于
 platform economics:平台经济学
 platform economy and law:平台经济与法律
-platform economy:平台經濟
 platform economy:平台经济
 platform ecosystem:平台生态系统
 platform edge:平台边
@@ -6654,7 +6566,7 @@ platform enterprise app development:平台企业应用程序开发
 platform enterprise applications:平台企业应用
 platform enterprise:平台企业
 platform enterprises:平台企业
-platform entertainment:平台娛樂
+platform entertainment:平台娱乐
 platform enumeration:平台枚举
 platform environment development:平台环境开发
 platform environment:平台环境
@@ -6670,7 +6582,7 @@ platform eventually:平台最终
 platform every day:平台每天
 platform evolution:平台演化
 platform examples:平台例子
-platform exclusivity:平臺獨占
+platform exclusivity:平台独占
 platform executive board:平台执行委员会
 platform exhibition:平台展览
 platform exist:平台存在
@@ -6698,7 +6610,7 @@ platform flight:平台飞行
 platform floor:平台地板
 platform focuses on crime:平台专注于犯罪
 platform focuses on:平台专注于
-platform for life and peace:生活與和平平台
+platform for life and peace:生活与和平平台
 platform form:平台形式
 platform format:平台格式
 platform forum:平台论坛
@@ -6769,7 +6681,6 @@ platform illegal:平台非法
 platform image editor:平台图像编辑器
 platform image:平台图像
 platform implementation:平台实现
-platform implementation:平台實現
 platform improve:平台提高
 platform improvements:平台改进
 platform in china:平台在中国
@@ -6819,7 +6730,7 @@ platform interoperability:平台互操作性
 platform invest:平台投资
 platform investment:平台投资
 platform investments:平台投资
-platform invocation services:平台叫用服務
+platform invocation services:平台叫用服务
 platform iqiyi:平台爱奇艺
 platform is a better:平台是一个更好的
 platform is a complex:平台是一个复杂的
@@ -6854,7 +6765,7 @@ platform issue:平台问题
 platform issues:平台问题
 platform it:平台它
 platform jump:平台跳
-platform jumping:平台跳躍
+platform jumping:平台跳跃
 platform keep:平台保持
 platform key performance:平台关键性能
 platform key:平台关键
@@ -6863,7 +6774,6 @@ platform knows:平台知道
 platform labor:平台劳动力
 platform lack:平台缺乏
 platform language capability:平台语言能力
-platform language:平台語言
 platform language:平台语言
 platform languages:平台语言
 platform last year:平台去年
@@ -6953,9 +6863,9 @@ platform modernization:平台现代化
 platform module solution:平台模块解决方案
 platform module specification:平台模块规范
 platform module system:平台模块系统
-platform module system:平台模組系統
+platform module system:平台模组系统
 platform module:平台模块
-platform module:平台模組
+platform module:平台模组
 platform modules:平台模块
 platform molecule:平台分子
 platform monopoly:平台垄断
@@ -7026,7 +6936,7 @@ platform or database:平台或数据库
 platform or device:平台或设备
 platform or entity:平台或实体
 platform or framework:平台或框架
-platform or gig economy:平台或零工經濟
+platform or gig economy:平台或零工经济
 platform or infrastructure services:平台或基础设施服务
 platform or investment company:平台或投资公司
 platform or language upgrade:平台或语言升级
@@ -7071,7 +6981,7 @@ platform partners include:平台合作伙伴包括
 platform partners:平台伙伴
 platform partners:平台合作伙伴
 platform partnership:平台伙伴关系
-platform party:共同市民黨
+platform party:共同市民党
 platform password:平台密码
 platform patent:平台专利
 platform pattern:平台模式
@@ -7208,7 +7118,7 @@ platform sales:平台销售
 platform says:平台说
 platform scientific:平台科学
 platform score:平台得分
-platform screen doors:月台幕門
+platform screen doors:月台幕门
 platform script:平台脚本
 platform search:平台搜索
 platform secure:平台安全的
@@ -7338,7 +7248,6 @@ platform sutra:六祖坛经
 platform synchronization:平台同步
 platform system administrator:平台系统管理员
 platform system design:平台系统设计
-platform system:平台系統
 platform system:平台系统
 platform systems:平台系统
 platform taobao:平台淘宝网
@@ -7760,7 +7669,7 @@ platforms and virtual reality entertainment:平台和虚拟现实娱乐
 platforms and virtual world:平台和虚拟世界
 platforms and walkway:平台和人行道
 platforms and wallet provide:平台和钱包提供
-platforms and wallet:平台和錢包
+platforms and wallet:平台和钱包
 platforms and weapon systems:平台和武器系统
 platforms and weapons platforms:平台和武器平台
 platforms and weapons:平台和武器
@@ -7920,7 +7829,7 @@ platforms or smartphone:平台或智能手机
 platforms or solutions:平台或解决方案
 platforms or technologies:平台或技术
 platforms or template:平台或模板
-platforms or video-on-demand:平台或隨選視訊
+platforms or video-on-demand:平台或随选视讯
 platforms origin:平台起源
 platforms overall:平台整体
 platforms page:平台页
@@ -8025,7 +7934,7 @@ platinum and rhodium materials:铂和铑材料
 platinum and rhodium:铂和铑
 platinum and uranium:铂和铀
 platinum and water:铂和水
-platinum arena:鉑金體育館
+platinum arena:鉑金体育馆
 platinum atom:铂原子
 platinum beach:天赐白金堤
 platinum catalyst and carbon fiber:铂催化剂和碳纤维
@@ -8044,16 +7953,16 @@ platinum electrode:铂电极
 platinum element:铂元素
 platinum elements:铂元素
 platinum gold:铂金
-platinum group:鉑族金屬
+platinum group:鉑族金属
 platinum hexafluoride:六氟化铂
-platinum hits:白金版遊戲
+platinum hits:白金版游戏
 platinum hotel residence:白金酒店公寓
-platinum hotel:鉑爾登酒店
+platinum hotel:鉑尔登酒店
 platinum hotel:铂尔登酒店
 platinum ions:铂离子
 platinum iridium:铂铱
 platinum is expensive:铂是昂贵的
-platinum jubilee of elizabeth ii:伊利沙伯二世登基白金禧紀念
+platinum jubilee of elizabeth ii:伊利沙伯二世登基白金禧纪念
 platinum jubilee:白金禧
 platinum layer:铂层
 platinum levels:铂水平
@@ -8074,7 +7983,7 @@ platinum or rare earth element:铂或稀土元素
 platinum or titanium:铂或钛
 platinum out:铂外
 platinum particle:铂粒子
-platinum pen company:白金鋼筆
+platinum pen company:白金钢笔
 platinum pentafluoride:五氟化铂
 platinum planet:铂行星
 platinum resource:铂资源
@@ -8133,7 +8042,7 @@ plato hopes:柏拉图希望
 plato is human:柏拉图是人
 plato is my friend:柏拉图是我的朋友
 plato is you:柏拉图是你
-plato island:普拉托島
+plato island:普拉托岛
 plato mention:柏拉图提到
 plato mission:柏拉图任务
 plato network would offer:柏拉图网络将提供
@@ -8145,7 +8054,7 @@ plato or aristotle:柏拉图或亚里士多德
 plato or cicero:柏拉图或西塞罗
 plato or confucius:柏拉图或孔子
 plato or paul:柏拉图或保罗
-plato palace:聯聚瑞和大廈
+plato palace:联聚瑞和大厦
 plato principle:柏拉图原则
 plato project:柏拉图项目
 plato publish:柏拉图发表
@@ -8169,25 +8078,24 @@ plato will:柏拉图会
 plato wish:柏拉图希望
 plato wrote:柏拉图写下
 plato ştatı:高原州
-plato-centralna regija:高原-中部大區
+plato-centralna regija:高原-中部大区
 plato:柏拉图
 platocoelotes:宽隙蛛属
 platonic academy:柏拉图学院
 platonic hydrocarbon:柏拉图烃
 platonic love:柏拉图式恋爱
-platonic realism:柏拉圖實在論
-platonic solid:柏拉圖立體
+platonic realism:柏拉图实在论
+platonic solid:柏拉图立体
 platonism and christianity:柏拉图主义与基督教
 platonism and christianity:柏拉图主义和基督教
 platonism and judaism:柏拉图主义和犹太教
 platonism and materialism:柏拉图主义和唯物主义
 platonism and pythagoreanism:柏拉图主义和毕达哥拉斯主义
 platonism in europe:柏拉图主义在欧洲
-platonism in islamic philosophy:伊斯蘭哲學式柏拉圖主義
-platonism in the renaissance:文藝復興時期的柏拉圖主義
+platonism in islamic philosophy:伊斯兰哲学式柏拉图主义
+platonism in the renaissance:文艺复兴时期的柏拉图主义
 platonism:柏拉图主义
 platonova:普拉托诺韦
-platonove:普拉托諾韋
 platonove:普拉托诺韦
 platonowe:普拉托诺韦
 platoon and company:排和连
@@ -8198,7 +8106,7 @@ platoon commander:排指挥官
 platoon five:排五
 platoon football:排足球
 platoon in france:排在法国
-platoon leader:排長
+platoon leader:排长
 platoon member:排成员
 platoon members said:排成员说
 platoon members:排成员
@@ -8218,52 +8126,52 @@ platoon:排
 platostoma hispidum:尖头花
 platostoma palustre:仙草
 platostoma:仙草属
-platoul central rusesc:中俄羅斯高地
+platoul central rusesc:中俄罗斯高地
 platt amendment:普拉特修正案
 platt cliffs:帕拉特崖
-platte county:普拉特縣
+platte county:普拉特县
 platte river networks:普拉特河网络
 platte river:普拉特河
 platte township:普拉特镇区
 plattenburg:普拉滕堡
-plattkofel:普拉特科費爾山
+plattkofel:普拉特科费尔山
 plattling:普拉特灵
 plattspitzen:普拉特峰
-platyallabes tihoni:蒂氏扁髯鯰
+platyallabes tihoni:蒂氏扁髯鲶
 platybelodon:铲齿象
 platycarya strobilacea:化香树
 platycarya:化香属
 platycephala:宽头秆蝇属
-platycephalidae:牛尾魚科
-platycephaloidei:牛尾魚亞目
+platycephalidae:牛尾鱼科
+platycephaloidei:牛尾鱼亚目
 platycephalus bassensis:巴斯鯒
-platycephalus caeruleopunctatus:青點鯒
+platycephalus caeruleopunctatus:青点鯒
 platycephalus endrachtensis:斑尾鯒
-platycephalus fuscus:寬頭鯒
-platycephalus laevigatus:圓斑鯒
-platycephalus speculator:藍斑鯒
+platycephalus fuscus:宽头鯒
+platycephalus laevigatus:圆斑鯒
+platycephalus speculator:蓝斑鯒
 platyceps rhodorachis:红脊扁头蛇
 platyceps:扁头蛇属
-platyceratops:扁角龍屬
-platycercinae:寬尾鸚鵡亞科
+platyceratops:扁角龙属
+platycercinae:宽尾鹦鹉亚科
 platycerium bifurcatum:二歧鹿角蕨
-platycerium:鹿角蕨屬
-platycerota:花尺蛾屬
+platycerium:鹿角蕨属
+platycerota:花尺蛾属
 platycladus orientalis:侧柏
 platycladus:侧柏属
-platyclarias machadoi:麥氏扁鬍鯰
+platyclarias machadoi:麦氏扁胡鲶
 platycnemididae:扇蟌科
 platycnemis:扇蟌属
 platycodon:桔梗
 platycopioida:宽足水蚤目
 platycorynus:扁角叶甲属
-platycraninae:平頭竹節蟲亞科
+platycraninae:平头竹节虫亚科
 platydictya:细柳藓属
-platydoras costatus:阿根廷平囊鯰
-platydoras:平囊鯰屬
+platydoras costatus:阿根廷平囊鲶
+platydoras:平囊鲶属
 platydorina:板藻属
 platydyptes:扁肱企鹅属
-platygobiopsis:扁眼鰕虎屬
+platygobiopsis:扁眼鰕虎属
 platygonus:平头猪属
 platygramme:凸唇衣属
 platygyriella:拟平锦藓属
@@ -8283,13 +8191,13 @@ platyoposaurus:平面螈属
 platypelis:普拉提指盘蛙属
 platypelta:宽甲龙属
 platyphoca:扁肱海豹属
-platyplectrurus:扁槌蛇屬
-platypleura:蟪蛄屬
+platyplectrurus:扁槌蛇属
+platypleura:蟪蛄属
 platypodia:扁足蟹属
 platypria:掌铁甲属
-platypterygiinae:扁鰭魚龍亞科
-platypterygius:扁鰭魚龍屬
-platypthima:扁眼蝶屬
+platypterygiinae:扁鳍鱼龙亚科
+platypterygius:扁鳍鱼龙属
+platypthima:扁眼蝶属
 platyptilia:葱羽蛾属
 platypus and echidna:鸭嘴兽和针鼹
 platypus and human:鸭嘴兽与人类
@@ -8299,42 +8207,40 @@ platypus genome:鸭嘴兽基因组
 platypus has ten:鸭嘴兽有十
 platypus money:鸭嘴兽钱
 platypus park:鸭嘴兽公园
-platypus quercivorus:災害長小蠹
-platypus ridge:普拉蒂珀斯嶺
+platypus quercivorus:灾害长小蠹
+platypus ridge:普拉蒂珀斯岭
 platypus study:鸭嘴兽研究
 platypus venom:鸭嘴兽毒液
 platypus:鸭嘴兽
 platyrhaphe:小山蜗牛属
-platyrhina:團扇鰩亞科
-platyrrhinus:白線蝠屬
+platyrhina:团扇鰩亚科
+platyrrhinus:白线蝠属
 platysaurus:扁蜥属
-platysma muscle:頸闊肌
+platysma muscle:颈阔肌
 platysmacheilus exiguus:片唇鮈
-platysmacheilus longibarbatus:長鬚片唇鮈
+platysmacheilus longibarbatus:长须片唇鮈
 platysmacheilus nudiventris:裸腹片唇鮈
-platystacus cotylephorus:委內瑞拉扁蚪鯰
+platystacus cotylephorus:委內瑞拉扁蚪鲶
 platysteira:疣眼鹟属
 platystele:树精兰属
 platystemma violoides:堇叶苣苔
 platystemma:叶花苣苔属
 platystictidae:短脉蟌科
-platystrophia:平扭貝屬
-platysuchus:板鱷屬
+platystrophia:平扭贝属
+platysuchus:板鳄属
 platythecium:双实衣属
 platytholus:宽顶龙属
 platythomisus:板蟹蛛属
-platytroctes apus:東大西洋管肩魚
-platytroctidae:管肩魚科
-platytropius siamensis:刀鯰
-platyzoa:扁蟲動物
+platytroctes apus:东大西洋管肩鱼
+platytroctidae:管肩鱼科
+platytropius siamensis:刀鲶
+platyzoa:扁虫动物
 platz der eintracht:协和广场
-platz der eintracht:協和廣場
 platz der freien meinungsäußerung:言论自由广场
 platz der republik:共和国广场
 platz der republik:共和广场
 platz der unabhängigkeit:独立广场
 platz des himmlischen friedens:tiān'ānmén guǎngchǎng
-platz des himmlischen friedens:天安門廣場
 platz des himmlischen friedens:天安门广场
 plau am see:滨湖普劳
 plaudren:普洛德朗
@@ -8342,13 +8248,13 @@ plaue:普劳厄
 plauen:普劳恩
 plaus:普劳斯
 plausible deniability:合理推诿
-plautdietsch:門諾低地德語
+plautdietsch:门诺低地德语
 plautus once said:普劳图斯曾经说
 plautus once:普劳图斯曾经
 plautus:普劳图斯
 plauzat:普洛扎
 plav lake:普拉夫湖
-plav municipality:普拉夫市鎮
+plav municipality:普拉夫市镇
 plav:普拉夫
 plava river:普拉夫河
 plava:普拉夫
@@ -8356,16 +8262,15 @@ plavas:普拉夫
 plavi nil:青尼罗州
 plavi nil:青尼罗河
 plavilla:普拉维拉
-plavitsa:普拉維察河
-plavnik:普拉夫尼克島
-plavnikovye islands:普拉夫尼克群島
+plavitsa:普拉维察河
+plavnik:普拉夫尼克岛
+plavnikovye islands:普拉夫尼克群岛
 plavsk:普拉夫斯克
-plavsky district:普拉夫斯克區
+plavsky district:普拉夫斯克区
 plawres sanshiro:无敌三四郎
 plawsk:普拉夫斯克
 plaxomicrus:广翅眼天牛属
 plaxton president:柏斯敦总统
-plaxton president:柏斯敦總統
 plaxton:柏斯敦
 play a country:玩一个国家
 play a cute:玩一个可爱的
@@ -8392,7 +8297,7 @@ play a very:玩一个非常
 play a week:玩一周
 play action game:玩动作游戏
 play activision blizzard:玩动视暴雪
-play adventure time:玩探險活寶
+play adventure time:玩探险活宝
 play again:玩再
 play again:玩又
 play against:玩反对
@@ -8440,7 +8345,7 @@ play asian:玩亚洲
 play at least:玩至少
 play attack:玩攻击
 play away:玩离
-play baccarat:玩百家樂
+play baccarat:玩百家乐
 play balance:玩平衡
 play ball:玩球
 play banana:玩香蕉
@@ -8451,28 +8356,28 @@ play baseball or soccer:玩棒球或足球
 play baseball:玩棒球
 play basketball:玩篮球
 play batman:玩蝙蝠侠
-play battlefield:玩戰地
+play battlefield:玩战地
 play bayonet:玩刺刀
 play beach volleyball:玩沙滩排球
-play beef pot:演藝牛鍋
+play beef pot:演艺牛锅
 play beijing:玩北京
 play best:玩最好
 play better:玩更好的
 play big:玩大
 play black:玩黑色
-play blackjack:玩二十一點
-play bloody mary:玩血腥瑪麗
+play blackjack:玩二十一点
+play bloody mary:玩血腥玛丽
 play bridge:玩桥
 play browser game:玩网页游戏
 play but that:玩但那
 play but you:玩但你
-play by mail game:郵遞型遊戲
+play by mail game:邮递型游戏
 play candy:玩糖果
 play car:玩车
-play card game:玩卡片遊戲
+play card game:玩卡片游戏
 play card:玩卡
 play career:玩职业生涯
-play casino:玩賭場
+play casino:玩赌场
 play casual game:玩休闲游戏
 play cat:玩猫
 play champion:玩冠军
@@ -8506,7 +8411,7 @@ play cricket:玩板球
 play croatia:玩克罗地亚
 play croquet:玩槌球
 play dangerous:玩危险的
-play darts:玩飛鏢
+play darts:玩飞鏢
 play date selection:玩日期选择
 play date:玩日期
 play days:玩天
@@ -8525,7 +8430,7 @@ play disney:玩迪士尼
 play doctor game:玩医生游戏
 play doctor:玩医生
 play doctors:玩医生
-play doh:培樂多
+play doh:培乐多
 play doll:玩玩偶
 play download:玩下载
 play dungeon:玩地牢
@@ -8601,9 +8506,8 @@ play gliding:玩滑翔
 play global:玩全球
 play god:玩神
 play golden age:玩黄金时代
-play golf course:玩高爾夫球場
+play golf course:玩高尔夫球场
 play golf:玩高尔夫球
-play golf:玩高爾夫球
 play government:玩政府
 play graphics:玩图形
 play gravity:玩重力
@@ -8664,7 +8568,7 @@ play just:玩只
 play keyboard:玩键盘
 play kitchen:玩厨房
 play kite:玩风筝
-play label:玩標籤
+play label:玩标签
 play language:玩语言
 play laser tag:玩激光标签
 play laser:玩激光
@@ -8682,7 +8586,7 @@ play mafia:玩黑手党
 play mahjong games:玩麻将游戏
 play mahjong:玩麻将
 play many:玩很多
-play many:玩許多
+play many:玩许多
 play market:玩市场
 play match:玩匹配
 play match:玩火柴
@@ -8691,7 +8595,7 @@ play math:玩数学
 play me:玩我
 play meaningful:玩有意义的
 play melody:玩旋律
-play memory:玩記憶
+play memory:玩记忆
 play mercury:玩汞
 play metal:玩金属
 play michael:玩迈克尔
@@ -8699,7 +8603,7 @@ play microsoft:玩微软
 play millions:玩数百万
 play missing:玩失踪
 play missions:玩任务
-play misty for me:迷霧追魂
+play misty for me:迷雾追魂
 play mobile game:玩手机游戏
 play mode:玩模式
 play modern game:玩现代游戏
@@ -8753,7 +8657,7 @@ play online:玩在线
 play only:玩只有
 play open:玩开
 play open:玩打开
-play or download:玩或下載
+play or download:玩或下载
 play orpheus:玩俄耳甫斯
 play other train:玩其他的训练
 play other:玩其他的
@@ -8781,7 +8685,6 @@ play play:玩玩
 play point:玩点
 play poker games:玩扑克游戏
 play poker:玩扑克
-play poker:玩撲克
 play political:玩政治的
 play politics:玩政治
 play polo:玩马球
@@ -8809,9 +8712,9 @@ play robots:玩机器人
 play role-playing game:玩角色扮演游戏
 play role:玩角色
 play rotterdam:玩鹿特丹
-play roulette:玩輪盤
+play roulette:玩轮盘
 play rugby:玩橄榄球
-play russian roulette:玩俄羅斯輪盤
+play russian roulette:玩俄罗斯轮盘
 play sadist:玩虐待狂
 play safe:玩安全的
 play sanctions games:玩制裁游戏
@@ -8849,7 +8752,7 @@ play social games:玩社交游戏
 play social media:玩社交媒体
 play social network game:玩社交网络游戏
 play social:玩社交
-play softball:玩壘球
+play softball:玩垒球
 play some bridge:玩一些桥
 play some games:玩一些游戏
 play some kind of:玩某种
@@ -8858,7 +8761,6 @@ play some soul:玩一些灵魂
 play some tank:玩一些坦克
 play some:玩一些
 play space invaders:玩太空侵略者
-play space:玩空間
 play space:玩空间
 play sports:玩运动
 play station:玩站
@@ -8869,7 +8771,7 @@ play strategy:玩策略
 play style:玩风格
 play subway:玩地铁
 play such:玩如此
-play sudoku:玩數獨
+play sudoku:玩数独
 play sunday:玩星期天
 play superhero:玩超级英雄
 play superman:玩超人
@@ -8896,7 +8798,7 @@ play their toy lantern:玩他们的玩具灯笼
 play their trade:玩他们的贸易
 play their:玩他们的
 play them:玩他们
-play therapy:遊戲治療
+play therapy:游戏治疗
 play these games:玩这些游戏
 play these tricks:玩这些把戏
 play these:玩这些
@@ -8952,7 +8854,7 @@ play wait:玩等待
 play war games:玩战争游戏
 play war:玩战争
 play water:玩水
-play wave:淘·童夢之園
+play wave:淘·童梦之园
 play we:玩我们
 play website:玩网站
 play wechat:玩微信
@@ -8961,7 +8863,7 @@ play what:玩什么
 play will:玩会
 play with us:玩与我们
 play without:玩没有
-play wizard's chess:玩巫師棋
+play wizard's chess:玩巫师棋
 play women:玩女人
 play world cup:玩世界杯
 play world of tanks:玩坦克世界
@@ -8978,31 +8880,24 @@ play zombie:玩僵尸
 play:玩
 playa belén:biyu tan
 playa belén:碧玉滩
-playa belén:碧玉灘
 playa blanca entrance:布兰卡海滩的入口
-playa blanca entrance:布蘭卡海灘的入口
-playa chiquita:普拉亞奇基塔
+playa chiquita:普拉亚奇基塔
 playa de la misión sur:南使命海滩
-playa de la misión sur:南使命海灘
 playa de la misión:使命海滩
 playa de las teresitas:特雷西塔海滩
 playa de wongaling:旺加林海滩
-playa de wongaling:旺加林海灘
 playa de wongaling:旺加灵海滩
-playa de wongaling:旺加靈海灘
-playa del carmen:普拉亞德爾卡曼
+playa del carmen:普拉亚德尔卡曼
 playa ham tien:美奈
 playa kaochaduiyuan:kaochaduiyuan tan
 playa kaochaduiyuan:考查队员滩
-playa kaochaduiyuan:考查隊員灘
-playa leona:普拉亞萊奧納
+playa leona:普拉亚莱奧纳
 playa ma'nao:ma'nao tan
 playa ma'nao:玛瑙滩
-playa ma'nao:瑪瑙灘
 playa municipal:综合沙滩
 playa roja:红沙滩
 playa roja:红色海滩
-playas canton:普拉亞斯縣
+playas canton:普拉亚斯县
 playboy accuse:花花公子指控
 playboy and diplomat:花花公子和外交官
 playboy and gallery:花花公子和画廊
@@ -9036,7 +8931,7 @@ playboy in april:花花公子在四月
 playboy magazine offer:花花公子杂志提供
 playboy magazine:花花公子杂志
 playboy mansion:花花公子公馆
-playboy mansion:花花公子大廈
+playboy mansion:花花公子大厦
 playboy mascot:花花公子吉祥物
 playboy model:花花公子模型
 playboy model:花花公子模特
@@ -9062,7 +8957,7 @@ player ability:玩家能力
 player abuse:玩家虐待
 player accept:玩家接受
 player access:玩家访问
-player account:玩家帳戶
+player account:玩家帐戶
 player account:玩家账户
 player acquire:玩家获得
 player activities:玩家活动
@@ -9076,7 +8971,6 @@ player agree:玩家同意
 player always:玩家一直
 player always:玩家总是
 player analytics:玩家分析
-player and bank:玩家和銀行
 player and bank:玩家和银行
 player and bot:玩家和机器人
 player and character:玩家和角色
@@ -9101,7 +8995,7 @@ player attack:玩家攻击
 player attempt:玩家尝试
 player attention:玩家注意
 player attribute:玩家属性
-player ballot:玩家選票
+player ballot:玩家选票
 player base:玩家基地
 player be:玩家成为
 player became:玩家成为
@@ -9109,7 +9003,6 @@ player become:玩家成为
 player began:玩家开始
 player begin:玩家开始
 player behavior:玩家行为
-player behavior:玩家行為
 player behaviour:玩家行为
 player believe:玩家相信
 player benefit:玩家福利
@@ -9155,12 +9048,11 @@ player character records:玩家角色记录
 player character:玩家角色
 player chat:玩家聊天
 player choice:玩家选择
-player choice:玩家選擇
 player choose:玩家选择
 player class:玩家类
 player click:玩家点击
 player clients:玩家客户
-player coach:球員兼領隊
+player coach:球员兼领队
 player come:玩家来
 player command:玩家命令
 player communities:玩家社区
@@ -9201,7 +9093,6 @@ player education:玩家教育
 player enter:玩家进入
 player environment:玩家环境
 player environments:玩家环境
-player equipment:玩家設備
 player equipment:玩家设备
 player escape:玩家逃脱
 player even:玩家甚至
@@ -9212,7 +9103,7 @@ player experience and device:玩家体验和设备
 player experience and game mechanics:玩家体验和游戏机制
 player experience is our:玩家体验是我们的
 player experience:玩家体验
-player experience:玩家經驗
+player experience:玩家经验
 player experiences:玩家经验
 player exploration:玩家探索
 player explore:玩家探索
@@ -9274,7 +9165,7 @@ player is the only one:玩家是唯一一
 player jump:玩家跳
 player just:玩家只
 player kill:玩家杀
-player knowledge:玩家知識
+player knowledge:玩家知识
 player knows:玩家知道
 player leave:玩家离开
 player legendary status:玩家传奇的地位
@@ -9297,7 +9188,6 @@ player may access:玩家可以访问
 player may explore:玩家可以探索
 player may potential:玩家可以潜在
 player menu:玩家菜单
-player menu:玩家菜單
 player mimic:玩家模仿
 player mix:玩家混合
 player mode:玩家模式
@@ -9345,8 +9235,8 @@ player only:玩家只有
 player operation:玩家操作
 player opportunity:玩家机会
 player option:玩家选项
-player or bank:玩家或銀行
-player or casino:玩家或賭場
+player or bank:玩家或银行
+player or casino:玩家或赌场
 player or entity:玩家或实体
 player own:玩家拥有
 player participate:玩家参与
@@ -9355,7 +9245,7 @@ player password:玩家密码
 player payment:玩家支付
 player performance center:玩家表演中心
 player performance:玩家表演
-player piano:自動演奏鋼琴
+player piano:自动演奏钢琴
 player platform:玩家平台
 player platforms:玩家平台
 player play:玩家玩
@@ -9375,7 +9265,6 @@ player progression:玩家进度
 player prop:玩家道具
 player propose:玩家提议
 player protection:玩家保护
-player protest:玩家抗議
 player protest:玩家抗议
 player provide:玩家提供
 player provides:玩家提供
@@ -9446,7 +9335,7 @@ player this guy:玩家这家伙
 player this:玩家这
 player three:玩家三
 player through:玩家通过
-player to be named later:日後指定球員
+player to be named later:日后指定球员
 player took:玩家拿
 player tournament:玩家锦标赛
 player toxicity:玩家毒性
@@ -9468,8 +9357,8 @@ player uses:玩家使用
 player using:玩家使用
 player usually:玩家通常
 player version:玩家版本
-player versus environment:人機對戰
-player versus player:玩家對戰
+player versus environment:人机对战
+player versus player:玩家对战
 player video game:玩家视频游戏
 player virtual reality:玩家虚拟现实
 player virtual world:玩家虚拟世界
@@ -9653,7 +9542,6 @@ players change:玩家改变
 players chat:玩家聊天
 players cheating:玩家作弊
 players choice:玩家选择
-players choice:玩家選擇
 players choose and custom:玩家选择和自定义的
 players choose prize:玩家选择奖
 players choose:玩家选择
@@ -9697,7 +9585,6 @@ players distribution:玩家分布
 players do:玩家做
 players don't know:玩家不知道
 players don't:玩家不
-players download:玩家下載
 players download:玩家下载
 players dream:玩家梦
 players drink:玩家喝
@@ -9724,7 +9611,7 @@ players guess:玩家猜
 players had frame rate:玩家有帧率
 players had never seen:玩家从未见过
 players hand:玩家手
-players handbook:玩家手冊
+players handbook:玩家手册
 players hands:玩家手
 players has one:玩家有一
 players have basic:玩家有基本的
@@ -9812,7 +9699,6 @@ players now:玩家现在
 players obviously:玩家显然
 players of the game:游戏玩家
 players of united states of america:美国玩家
-players of united states of america:美國玩家
 players offer:玩家提供
 players often:玩家常常
 players one:玩家一
@@ -9837,7 +9723,7 @@ players point out:玩家指出
 players position:玩家位置
 players preference:玩家偏好
 players program:玩家程序
-players protest:玩家抗議
+players protest:玩家抗议
 players provide:玩家提供
 players purchase:玩家购买
 players rainbow:玩家彩虹
@@ -9853,7 +9739,6 @@ players refer to:玩家指
 players reflect:玩家反映
 players remember:玩家记住
 players remember:玩家记得
-players report:玩家報告
 players report:玩家报告
 players require:玩家需要
 players return:玩家回
@@ -9906,7 +9791,7 @@ players trust:玩家信任
 players try:玩家尝试
 players two:玩家二
 players unlock:玩家解锁
-players upload:玩家上傳
+players upload:玩家上传
 players use card:玩家使用卡
 players use free:玩家使用免费的
 players use machine gun:玩家使用机枪
@@ -9968,12 +9853,12 @@ players would:玩家将
 players write:玩家写
 players you:玩家你
 players:玩家
-playfair cipher:波雷費密碼
-playfair mountains:普萊費爾山脈
+playfair cipher:波雷费密码
+playfair mountains:普莱费尔山脉
 playfair's axiom:普莱费尔公理
-playfield 5:五行童樂園
+playfield 5:五行童乐园
 playgirl:花花女郎
-playgreen lake:普萊格林湖
+playgreen lake:普莱格林湖
 playground activities:游乐场活动
 playground adventure:游乐场冒险
 playground always:游乐场总是
@@ -9984,7 +9869,6 @@ playground and kids:游乐场和儿童
 playground and park:游乐场和公园
 playground and swimming pool:游乐场和游泳池
 playground and tiger mountain:游乐场和虎山
-playground and tiger mountain:遊樂場和虎山
 playground app:游乐场应用程序
 playground as well as:游乐场以及
 playground association:游乐场协会
@@ -9993,13 +9877,12 @@ playground began:游乐场开始
 playground conflict:游乐场冲突
 playground cost:游乐场花费
 playground cut:游乐场切割
-playground debate:遊樂場辯論
+playground debate:游乐场辩论
 playground design:游乐场设计
 playground designer:游乐场设计师
 playground environment:游乐场环境
 playground equipment manufacturers:游乐场设备制造商
 playground equipment:游乐场设备
-playground equipment:遊樂場設備
 playground eventually:游乐场最终
 playground facilities:游乐场设施
 playground game:游乐场游戏
@@ -10020,12 +9903,11 @@ playground music:游乐场音乐
 playground once:游乐场一次
 playground or canvas:游乐场或画布
 playground phenomenon:游乐场现象
-playground provides:遊樂場提供
+playground provides:游乐场提供
 playground repair:游乐场维修
 playground safety standards:游乐场安全标准
 playground safety surface:游乐场安全表面
 playground safety:游乐场安全
-playground safety:遊樂場安全
 playground set:游乐场设置
 playground slide:滑梯
 playground space:游乐场空间
@@ -10038,26 +9920,23 @@ playground want:游乐场想要
 playground will:游乐场会
 playground would:游乐场将
 playground:操场
-playground:操場
 playground:游乐场
-playground:遊樂場
 playhouse in the woods:森林小天地
 playhouse theatre:剧场剧院
 playing card suit:花色
-playing card:遊戲牌
+playing card:游戏牌
 playing doctor:医生游戏
-playing field road:運動場道
-playing field:田徑場
+playing field road:运动场道
+playing field:田径场
 playing the victim:扮演受害者
-playlist:歌單
-playmaker:組織核心
+playlist:歌单
+playmaker:组织核心
 playmates factory building:彩星工业大厦
-playmates factory building:彩星工業大廈
-playmates toys:彩星集團
+playmates toys:彩星集团
 playmobil:摩比
-playoff format:季後賽賽制
-playoffs:附加賽
-playtime:遊戲時間
+playoff format:季后赛赛制
+playoffs:附加赛
+playtime:游戏时间
 playtone:普雷通公司
 playwright aeschylus:剧作家埃斯库罗斯
 playwright alexander:剧作家亚历山大
@@ -10114,29 +9993,24 @@ playwright who:剧作家谁
 playwright william:剧作家威廉
 playwright:剧作家
 playyoung professional water supplier:沛漾水科技
-plaza 13/31:13/31廣場
-plaza 2000:2000年廣場
+plaza 13/31:13/31广场
+plaza 2000:2000年广场
 plaza a tol batu 9:九英里a收费站
 plaza accord statement:广场协议声明
 plaza accord:广场协议
-plaza ascot:駿景廣場
-plaza b tol batu 9:九英里b收費站
+plaza ascot:駿景广场
 plaza b tol batu 9:九英里b收费站
 plaza ba dinh:巴亭广场
-plaza ba dinh:巴亭廣場
 plaza ban jelačić:耶拉其恰广场
-plaza ban jelačić:耶拉其恰廣場
 plaza berjaya:成功广场
-plaza berjaya:成功廣場
 plaza bessarabska:比萨拉比亚广场
-plaza bessarabska:比薩拉比亞廣場
 plaza carso:卡尔索广场
-plaza central marunouchi:丸之內中央廣場
+plaza central marunouchi:丸之內中央广场
 plaza central:中央广场
 plaza chibikko:小朋友广场
 plaza comunitaria:社区广场
-plaza crystal:廣場水晶
-plaza cultural macau:澳門文化廣場
+plaza crystal:广场水晶
+plaza cultural macau:澳门文化广场
 plaza de armas:武器广场
 plaza de arms:兵器广场
 plaza de carlos:查理广场
@@ -10144,22 +10018,19 @@ plaza de cataluña:加泰罗尼亚广场
 plaza de cibeles:西贝莱斯广场
 plaza de españa:西班牙广场 (巴塞罗那)
 plaza de europa:欧洲广场
-plaza de europa:歐洲廣場
 plaza de hierba:草坪广场
 plaza de italia:意大利广场
 plaza de la bastilla:巴士底广场
 plaza de la ciudad - explanada de la liberación:市政厅广场
-plaza de la ciudad - explanada de la liberación:市政廳廣場
 plaza de la ciudad vieja:布拉格老城广场
 plaza de la concordia:协和广场
-plaza de la concordia:協和廣場
 plaza de la independencia:独立广场
 plaza de la libertad de expresión:言论自由广场
 plaza de la libertad y de los derechos humanos:人权广场
 plaza de la reina:王后广场
-plaza de la república argentina:阿根廷共和國廣場
+plaza de la república argentina:阿根廷共和国广场
 plaza de la república de croacia:克罗地亚共和国广场
-plaza de la república de croacia:克羅埃西亞共和國廣場
+plaza de la república de croacia:克罗埃西亚共和国广场
 plaza de la universidad:大学广场
 plaza de la villa:市政广场
 plaza de la virgen blanca:白色圣母广场
@@ -10167,124 +10038,102 @@ plaza de las tres culturas:三种文化广场
 plaza de los fueros:法典广场
 plaza de los héroes:英雄广场
 plaza de los mártires:烈士广场
-plaza de los mártires:烈士廣場
 plaza de los naranjos:柑橘广场
 plaza de mayo:五月广场
-plaza de parís:巴黎廣場
+plaza de parís:巴黎广场
 plaza de san marcos:圣马可广场
-plaza de san marcos:聖馬可廣場
 plaza de san pedro:圣伯多禄广场
-plaza de san pedro:聖伯多祿廣場
 plaza de santa ana:圣亚纳广场
 plaza de são francisco en são cristovão:圣克里斯托旺的圣弗朗西斯科广场
 plaza de tiananmen:tiān'ānmén guǎngchǎng
-plaza de tiananmen:天安門廣場
 plaza de tiananmen:天安门广场
 plaza de toros de la malagueta:马拉加斗牛场
 plaza de toros de los califas:哈里发斗牛场
 plaza de toros de pamplona:潘普洛纳斗牛场
-plaza de toros de ronda:鬥牛場
+plaza de toros de ronda:斗牛场
 plaza de toros de ronda:龙达斗牛场
 plaza de toros de valencia:巴伦西亚斗牛场
 plaza de wenceslao:瓦茨拉夫广场
-plaza del capitolio:坎皮多怡歐廣場
+plaza del capitolio:坎皮多怡欧广场
 plaza del emperador carlos v:卡洛斯五世广场
 plaza del emperador carlos v:查理五世广场
-plaza del mercado:中央集市廣場
-plaza del obradoiro:石匠廣場
-plaza del pesebre:馬槽廣場
+plaza del mercado:中央集市广场
+plaza del obradoiro:石匠广场
 plaza del pesebre:马槽广场
 plaza del potro:马驹广场
-plaza del senado:參議院廣場
+plaza del senado:参议院广场
 plaza del senado:枢密院广场
 plaza del trocadero:投卡德侯花园
 plaza dos de mayo:五月二日广场
 plaza east road:广场东路
-plaza frontal de la estación marunouchi:丸之內站前廣場
+plaza frontal de la estación marunouchi:丸之內站前广场
 plaza heydar aliyev:盖达尔·阿利耶夫广场
-plaza heydar aliyev:蓋達爾·阿利耶夫廣場
-plaza holiday:廣場假日
-plaza hollywood:荷里活廣場
-plaza hong kong:廣場香港
+plaza holiday:广场假日
+plaza hollywood:荷里活广场
+plaza hong kong:广场香港
 plaza hotel offer:广场饭店提供
+plaza hotel:广场酒店
 plaza hotel:广场饭店
-plaza hotel:廣場酒店
-plaza hotel:達欣商務精品飯店
+plaza hotel:达欣商务精品饭店
 plaza imbi:燕美广场
-plaza imbi:燕美廣場
-plaza inn:廣場餐廳
-plaza kim il sung:金日成廣場
+plaza inn:广场餐厅
+plaza kim il sung:金日成广场
 plaza kyuden:宫殿广场
 plaza lane:广场径
-plaza lane:廣場徑
 plaza low yat:刘蝶广场
-plaza low yat:劉蝶廣場
-plaza marítima de keelung:基隆海洋廣場
-plaza mayor:主廣場
-plaza mayor:薩拉曼卡市長廣場
+plaza marítima de keelung:基隆海洋广场
+plaza mayor:主广场
+plaza mayor:萨拉曼卡市长广场
 plaza metro kajang:加影美景广场
-plaza metro kajang:加影美景廣場
 plaza metropolis:大都会购物广场
-plaza murillo:穆里略廣場
+plaza murillo:穆里略广场
 plaza navona:纳沃纳广场
-plaza nueva:新廣場
-plaza oceano:海洋廣場
+plaza nueva:新广场
+plaza oceano:海洋广场
 plaza of ocean scene:阅海广场
 plaza of our lady of the pillar:圣柱广场
-plaza offer:廣場提供
+plaza offer:广场提供
 plaza orkid:兰花 广场
-plaza park:廣場公園
+plaza park:广场公园
 plaza perabot ldp:家具广场
-plaza point:普拉澤角
-plaza premium lounge:環亞優逸庭貴賓室
-plaza premium lounge:環亞機場貴賓室
+plaza point:普拉泽角
+plaza premium lounge:环亚优逸庭贵宾室
+plaza premium lounge:环亚机场贵宾室
 plaza pudu:富都广场
-plaza pudu:富都廣場
 plaza rabin:拉宾广场
 plaza rakyat:人民广场
-plaza rakyat:人民廣場
-plaza real:皇家廣場
+plaza real:皇家广场
 plaza san lorenzo ruiz:花园脚广场
-plaza singapura:獅城大廈
+plaza singapura:狮城大厦
 plaza sofiiska:索菲亚广场
-plaza space:廣場空間
+plaza space:广场空间
 plaza stanislas, plaza de la carrière y plaza de la alliance en nancy:南锡的斯坦尼斯拉斯广场、卡里埃勒广场和阿莱昂斯广场
 plaza széll kálmán:塞尔卡尔曼广场
 plaza tol bandar gamuda cove:金务大湾城收费站
-plaza tol bandar gamuda cove:金務大灣城收費站
-plaza tol bandar saujana putra:太子城收費站
 plaza tol bandar saujana putra:太子城收费站
-plaza tol batu 11:十一英里收費站
 plaza tol batu 11:十一英里收费站
-plaza tol bentong (arah timur):文冬收費站 (西向）
 plaza tol bentong (arah timur):文冬收费站 (东向）
 plaza tol bentong (arah timur):文冬收费站 (西向）
 plaza tol loke yew (arah barat):陆佑收费站（西向）
-plaza tol loke yew (arah barat):陸佑收費站（西向）
 plaza tol loke yew (arah timur):陆佑收费站（东向）
-plaza tol loke yew (arah timur):陸佑收費站（東向）
 plaza tol mex salak selatan:沙叻秀收费站
-plaza tol mines selatan:綠野南部收費站
 plaza tol mines selatan:绿野南部收费站
-plaza tol mines utara:綠野北部收費站
 plaza tol mines utara:绿野北部收费站
 plaza tol pantai dalam (b):班底达南（西）收费站
 plaza tol pantai dalam (e):班底达南（东）收费站
 plaza tol pantai dalam (u):班底达南（北）收费站
 plaza tol petaling jaya:八打灵再也收费站
-plaza tol slim river:仕林河收費站
 plaza tol slim river:仕林河收费站
-plaza towers:廣場塔
-plaza tragedy:廣場悲劇
-plaza van de argentijnse republiek:阿根廷共和國廣場
+plaza towers:广场塔
+plaza tragedy:广场悲剧
+plaza van de argentijnse republiek:阿根廷共和国广场
 plaza vieja:老广场
-plaza was built in:廣場建于
-plaza was its:廣場是它的
+plaza was built in:广场建于
+plaza was its:广场是它的
 plaza west road:广场西路
 plaza ytl:杨忠礼广场
-plaza ytl:楊忠禮廣場
-plaza της Δημοκρατίας της Αργεντινής:阿根廷共和國廣場
-plaza:廣場
+plaza της Δημοκρατίας της Αργεντινής:阿根廷共和国广场
+plaza:广场
 plazac:普拉扎克
 plazoleta de los leoncitos:狮子小广场
 plazomicin:普拉佐米星
@@ -10292,46 +10141,41 @@ plaça catalunya:加泰罗尼亚广场
 plaça d'espanya:西班牙广场 (巴塞罗那)
 plaça de catalunya:加泰罗尼亚广场
 plaça de l'ajuntament:市政厅广场
-plaça de l'ajuntament:維爾紐斯市政廳
+plaça de l'ajuntament:维尔纽斯市政厅
 plaça de tiananmen:tiān'ānmén guǎngchǎng
-plaça de tiananmen:天安門廣場
 plaça de tiananmen:天安门广场
 plaça del manège:马涅什纳亚广场
 plaça del portal de la pau:保罗波尔达广场
-plaça del rei:國王廣場
-plaça major:主廣場
-plaça reial:皇家廣場
-plaça roja:紅場
+plaça del rei:国王广场
+plaça major:主广场
+plaça reial:皇家广场
 plaça roja:红场
-plaża naturystyczna riva bella:里瓦貝拉天體海灘
-plaża wongaling:旺加林海灘
+plaża naturystyczna riva bella:里瓦贝拉天体海滩
+plaża wongaling:旺加林海滩
 plaża wongaling:旺加灵海滩
-plaża wongaling:旺加靈海灘
 plb solar plant:国云集团太阳能发电厂
-plb solar plant:國雲集團太陽能發電廠
-pldt:菲律賓長途電話公司
-ple no man's land:無人區 (一戰)
-plea bargain:認罪協商
-pleahova:普利亞霍瓦
-pleasant goat and big big wolf:喜羊羊與灰太狼系列
+pldt:菲律宾长途电话公司
+ple no man's land:无人区 (一战)
+plea bargain:认罪协商
+pleahova:普利亚霍瓦
+pleasant goat and big big wolf:喜羊羊与灰太狼系列
 pleasant goat village:欢乐羊村
-pleasant goat village:歡樂羊村
-pleasant grove township:普萊森特格羅夫鎮區
+pleasant grove township:普莱森特格罗夫镇区
 pleasant hill township:普莱森特希尔镇区
 pleasant hill:普莱森特希尔
 pleasant hotel:旅馆
 pleasant mound township:普莱森特芒德镇区
-pleasant plateau:普萊曾特高原
+pleasant plateau:普莱曾特高原
 pleasant ridge township:普莱森特里奇镇区
 pleasant township:普莱森特镇区
 pleasant toy house:欢乐玩具屋
-pleasant valley township:普萊森特瓦利鎮區
-pleasant valley war:歡樂谷戰爭
+pleasant valley township:普莱森特瓦利镇区
+pleasant valley war:欢乐谷战争
 pleasant valley:普莱森特瓦利
 pleasant view garden bus terminal:逸景翠园总站
 pleasant view township:普莱森特维尤镇区
 pleasanton:普莱森顿
-pleasantville:普萊森特維爾
+pleasantville:普莱森特维尔
 please a woman:请一个女人
 please accept his invitation:请接受他的邀请
 please accept me:请接受我
@@ -10431,7 +10275,7 @@ please britain:请英国
 please buy me:请买我
 please buy some:请买一些
 please buy:请买
-please cafÉ:普莉斯咖啡館
+please cafÉ:普莉斯咖啡馆
 please calculate:请计算
 please call dad:请打电话给爸爸
 please call doctor:请打电话给医生
@@ -11070,7 +10914,7 @@ please his boss:请他的老板
 please his father who:请他的父亲谁
 please his father:请他的父亲
 please his wife:请他的妻子
-please hold to my hand:請握住我的手
+please hold to my hand:请握住我的手
 please how to buy:请如何买
 please how to:请如何
 please hug:请拥抱
@@ -11204,7 +11048,7 @@ please let us through:请让我们通过
 please let us:请让我们
 please let your friend:请让你的朋友
 please let:请让
-please like me:請喜歡我
+please like me:请喜欢我
 please like this:请喜欢这
 please like:请喜欢
 please limit each response:请限制每个响应
@@ -11239,7 +11083,7 @@ please my friend:请我的朋友
 please my lord:请我的主人
 please my pocket:请我的口袋
 please my:请我的
-please myself:討好自己
+please myself:讨好自己
 please nas:请纳斯
 please navigate:请导航
 please new zealand:请新西兰
@@ -11522,7 +11366,7 @@ please said:请说
 please salt:请盐
 please san:请圣
 please save and edit:请保存和编辑
-please save my earth:地球守護靈
+please save my earth:地球守护灵
 please save my marriage:请保存我的婚姻
 please save our school:请保存我们的学校
 please save your expression:请保存你的表达
@@ -11634,7 +11478,7 @@ please some:请一些
 please son:请儿子
 please speak:请说话
 please specify:请指定
-please stand by:溫蒂的幸福劇本
+please stand by:温蒂的幸福剧本
 please start discussion:请开始讨论
 please start search:请开始搜索
 please start your translation:请开始你的翻译
@@ -11693,7 +11537,7 @@ please take care of my refrigerator:拜托了冰箱
 please take off your:请脱下你的
 please take off:请脱下
 please take:请取
-please teach me english:英語完全征服
+please teach me english:英语完全征服
 please teach:请教
 please telephone or email:请电话或电子邮件
 please telephone:请电话
@@ -11982,17 +11826,17 @@ pleasure:愉快
 pleasure:欢愉
 pleat:褶裥
 pleaux:普洛
-plebeian council:平民會議
+plebeian council:平民会议
 plebejus:豆灰蝶属
 plebidonax deltoides:三角斧蛤
 plebiscite:全民表决
 plech:普莱希
 pleckhausen:普莱克豪森
 pleckstrin:普列克底物蛋白
-plecodus elaviae:伊拉織麗魚
-plecodus multidentatus:多齒織麗魚
-plecodus paradoxus:奇織麗魚
-plecodus straeleni:斯氏織麗魚
+plecodus elaviae:伊拉织丽鱼
+plecodus multidentatus:多齿织丽鱼
+plecodus paradoxus:奇织丽鱼
+plecodus straeleni:斯氏织丽鱼
 plecoptera:襀翅目
 plecotus:长耳蝠属
 plectania:红盘菌属
@@ -12001,122 +11845,114 @@ plectocomia microstachys:小钩叶藤
 plectocomia pierreana:钩叶藤
 plectocomia:钩叶藤属
 plectomyces:绞菌属
-plectorhinchus albovittatus:白帶石鱸
-plectorhinchus chaetodonoides:斑胡椒鯛
+plectorhinchus albovittatus:白带石鲈
+plectorhinchus chaetodonoides:斑胡椒鲷
 plectorhinchus diagrammus:四带胡椒鲷
-plectorhinchus gibbosus:駝背胡椒鯛
-plectorhinchus lineatus:條紋胡椒鯛
-plectorhinchus pica:暗點胡椒鯛
+plectorhinchus gibbosus:驼背胡椒鲷
+plectorhinchus lineatus:条纹胡椒鲷
+plectorhinchus pica:暗点胡椒鲷
 plectorhinchus:胡椒鲷属
 plectosphaerella:小不整球壳菌属
 plectotropis mackensii:台湾盾蜗牛
 plectranthias alleni:阿氏棘花鮨
 plectranthias altipinnatus:高棘棘花鮨
-plectranthias anthioides:擬棘花鮨
-plectranthias bauchotae:鮑科氏棘花鮨
-plectranthias bilaticlavia:貪食棘花鮨
-plectranthias cirrhitoides:擬髯棘花鮨
-plectranthias elaine:紅色棘花鱸
-plectranthias elongatus:長身棘花鱸
+plectranthias anthioides:拟棘花鮨
+plectranthias bauchotae:鲍科氏棘花鮨
+plectranthias bilaticlavia:贪食棘花鮨
+plectranthias cirrhitoides:拟髯棘花鮨
+plectranthias elaine:红色棘花鲈
+plectranthias elongatus:长身棘花鲈
 plectranthias exsul:印度洋棘花鮨
-plectranthias fijiensis:斐濟棘花鮨
+plectranthias fijiensis:斐济棘花鮨
 plectranthias foresti:福雷斯特氏棘花鮨
 plectranthias fourmanoiri:福氏棘花鮨
 plectranthias gardineri:加氏棘花鮨
 plectranthias garrupellus:杏色棘花鮨
 plectranthias helenae:海氏棘花鮨
-plectranthias inermis:弱刺棘花鱸
-plectranthias intermedius:中間棘花鮨
-plectranthias japonicus:日本棘花鱸
+plectranthias inermis:弱刺棘花鲈
+plectranthias intermedius:中间棘花鮨
+plectranthias japonicus:日本棘花鲈
 plectranthias jothyi:焦氏棘花鮨
-plectranthias kamii:黃吻棘花鱸
+plectranthias kamii:黄吻棘花鲈
 plectranthias kelloggi:凱氏棘花鮨
 plectranthias klausewitzi:克氏棘花鮨
-plectranthias knappi:納普氏棘花鮨
+plectranthias knappi:纳普氏棘花鮨
 plectranthias lasti:拉氏棘花鮨
-plectranthias longimanus:銀點棘花鮨
+plectranthias longimanus:银点棘花鮨
 plectranthias maculicauda:斑尾棘花鮨
 plectranthias maugei:莫氏棘花鮨
-plectranthias megalepis:大鱗棘花鮨
+plectranthias megalepis:大鳞棘花鮨
 plectranthias megalophthalmus:大眼棘花鮨
-plectranthias morgansi:高鰭棘花鮨
+plectranthias morgansi:高鳍棘花鮨
 plectranthias nanus:短棘花鮨
-plectranthias nazcae:納氏棘花鮨
-plectranthias pallidus:蒼棘花鮨
+plectranthias nazcae:纳氏棘花鮨
+plectranthias pallidus:苍棘花鮨
 plectranthias parini:帕氏棘花鮨
 plectranthias pelicieri:佩氏棘花鮨
-plectranthias randalli:蘭道氏棘花鱸
-plectranthias retrofasciatus:後紋棘花鮨
-plectranthias robertsi:羅氏棘花鮨
-plectranthias rubrifasciatus:紅帶棘花鮨
-plectranthias sagamiensis:相模灣棘花鮨
-plectranthias sheni:沈氏棘花鱸
+plectranthias randalli:兰道氏棘花鲈
+plectranthias retrofasciatus:后纹棘花鮨
+plectranthias robertsi:罗氏棘花鮨
+plectranthias rubrifasciatus:红带棘花鮨
+plectranthias sagamiensis:相模湾棘花鮨
+plectranthias sheni:沈氏棘花鲈
 plectranthias taylori:泰勒棘花鮨
-plectranthias vexillarius:旗鰭棘花鮨
+plectranthias vexillarius:旗鳍棘花鮨
 plectranthias wheeleri:卫氏棘花鮨
-plectranthias whiteheadi:懷特棘花鮨
-plectranthias winniensis:紅斑棘花鮨
-plectranthias xanthomaculatus:黃斑棘花鮨
-plectranthias yamakawai:山川氏棘花鱸
-plectranthias:棘花鮨屬
+plectranthias whiteheadi:怀特棘花鮨
+plectranthias winniensis:红斑棘花鮨
+plectranthias xanthomaculatus:黄斑棘花鮨
+plectranthias yamakawai:山川氏棘花鲈
+plectranthias:棘花鮨属
 plectranthus:马刺花属
-plectrogenidae:平頭鮋科
-plectroglyphidodon dickii:迪克氏固曲齒鯛
-plectroglyphidodon flaviventris:黃腹椒雀鯛
-plectroglyphidodon imparipennis:羽狀椒雀鯛
+plectrogenidae:平头鲉科
+plectroglyphidodon dickii:迪克氏固曲齿鲷
+plectroglyphidodon flaviventris:黄腹椒雀鲷
+plectroglyphidodon imparipennis:羽状椒雀鲷
 plectroglyphidodon johnstonianus:带尾棘雀鲷
-plectroglyphidodon lacrymatus:眼斑眶鋸雀鯛
-plectroglyphidodon leucozonus:白帶固曲齒鯛
-plectroglyphidodon phoenixensis:鳳凰椒雀鯛
-plectroglyphidodon randalli:蘭氏椒雀鯛
-plectroglyphidodon sagmarius:椒雀鯛
-plectroglyphidodon sindonis:岩棲椒雀鯛
+plectroglyphidodon lacrymatus:眼斑眶锯雀鲷
+plectroglyphidodon leucozonus:白带固曲齿鲷
+plectroglyphidodon phoenixensis:凤凰椒雀鲷
+plectroglyphidodon randalli:兰氏椒雀鲷
+plectroglyphidodon sagmarius:椒雀鲷
+plectroglyphidodon sindonis:岩栖椒雀鲷
 plectronoceras:短棒角石
 plectrophenax:雪鹀属
 plectropomus laevis:横斑鳃棘鲈
-plectropomus maculatus:斑鰓棘鱸
-plectrum:撥子
-plectrurus:槌尾蛇屬
+plectropomus maculatus:斑鰓棘鲈
+plectrum:拨子
+plectrurus:槌尾蛇属
 plectrypops lima:锉形锯眶鳂
 plectrypops retrospinis:琉球鰃
 pledgebank:祈愿行
 pleebo:普利博
 pleg-mor aden:亚丁湾
 pleg-mor aigina:萨龙湾
-pleg-mor al leon:利翁灣
+pleg-mor al leon:利翁湾
 pleg-mor alaska:阿拉斯加湾
-pleg-mor amundsen:阿蒙森灣
+pleg-mor amundsen:阿蒙森湾
 pleg-mor ar stêr sant-laorañs:圣罗伦斯湾
-pleg-mor ar stêr sant-laorañs:聖羅倫斯灣
 pleg-mor bengal:孟加拉湾
-pleg-mor bengal:孟加拉灣
-pleg-mor carpentaria:卡奔塔利亞灣
+pleg-mor carpentaria:卡奔塔利亚湾
 pleg-mor finland:芬兰湾
 pleg-mor ginea:几内亚湾
 pleg-mor gwaskogn:比斯开湾
-pleg-mor gwaskogn:比斯開灣
 pleg-mor kalifornia:加利福尼亚湾
-pleg-mor korea:西朝鮮灣
 pleg-mor korea:西朝鲜湾
 pleg-mor mec'hiko:墨西哥湾
-pleg-mor mec'hiko:墨西哥灣
-pleg-mor penas:佩納斯灣
-pleg-mor taranto:塔蘭托灣
+pleg-mor penas:佩纳斯湾
+pleg-mor taranto:塔兰托湾
 plegadis:彩鹮属
-plegiocidaris:近頭帕海膽
-pleiades:昴宿星團
-pleichach:普萊夏赫河
+plegiocidaris:近头帕海胆
+pleiades:昴宿星团
+pleichach:普莱夏赫河
 pleidae:涉水蝽科
 pleidelsheim:普莱德尔斯海姆
-pleigne:普萊尼
-pleiku airport:波來古機場
-pleiku lake:波來古海湖
-pleiku ward:波來古市
+pleigne:普莱尼
+pleiku airport:波来古机场
+pleiku lake:波来古海湖
 pleiku ward:波来古市
-pleiku:波來古市
 pleiku:波来古市
 plein van de hemelse vrede:tiān'ānmén guǎngchǎng
-plein van de hemelse vrede:天安門廣場
 plein van de hemelse vrede:天安门广场
 plein van de republiek:共和国广场
 plein:普莱恩
@@ -12124,7 +11960,7 @@ pleinfeld:普莱恩费尔德
 pleioblastus fortunei:菲白竹
 pleioblastus:大明竹属
 pleione chunii:陈氏独蒜兰
-pleione formosana:台灣一葉蘭
+pleione formosana:台湾一叶兰
 pleione forrestii:黄花独蒜兰
 pleione limprichtii:四川独蒜兰
 pleione pleionoides:美丽独蒜兰
@@ -12139,7 +11975,7 @@ pleistocene history:更新世历史
 pleistocene human evolution:更新世人类进化
 pleistocene human:更新世人类
 pleistocene mammals:更新世哺乳动物
-pleistocene megafauna:更新世巨型動物群
+pleistocene megafauna:更新世巨型动物群
 pleistocene period:更新世时期
 pleistocene steppe:更新世草原
 pleistocene to holocene:更新世到全新世
@@ -12157,8 +11993,8 @@ plekhanov russian university of economics:俄罗斯普列汉诺夫经济大学
 plekhanov said:普列汉诺夫说
 plekhanov think:普列汉诺夫认为
 plekhanov:普列汉诺夫
-plen vilemo rajonas:威廉平原區
-plena manlibro de esperanta gramatiko:世界語語法完整手冊
+plen vilemo rajonas:威廉平原区
+plena manlibro de esperanta gramatiko:世界语语法完整手册
 plenas:普莱纳斯
 plenasium banksiifolium:粗齿紫萁
 plenasium javanicum:宽叶紫萁
@@ -12166,7 +12002,7 @@ plenasium vachellii:华南紫萁
 pleników:普列尼基夫
 plentiful residence:喜盈
 plentong:避兰东
-plenty realty:豪豐物業代理
+plenty realty:豪丰物业代理
 plentzia:普伦西亚
 plenykiv:普列尼基夫
 plenykiw:普列尼基夫
@@ -12174,12 +12010,12 @@ plenîkiv:普列尼基夫
 pleochaeta:半内生钩丝壳属
 pleochroism:多色性
 pleocnemia:黄腺羽蕨属
-pleocyemata:抱卵亞目
+pleocyemata:抱卵亚目
 pleodorina:杂球藻属
 pleomassariaceae:多黑团壳科
 pleomorphic lipoma:多形性脂肪瘤
 pleomorphomonadaceae:多形单胞菌科
-pleonasm:贅語
+pleonasm:贅语
 pleopeltis:多盾蕨属
 pleopsidium:卵石衣属
 pleospora:格孢菌属
@@ -12194,34 +12030,33 @@ plerneuf:普莱尔讷夫
 plerng prang tian:伪烛之焰
 plescop:普莱斯科普
 plesder:普莱斯代尔
-plesetsk cosmodrome:普列謝茨克航天發射場
 plesetsk cosmodrome:普列谢茨克航天发射场
 plesetsk state:普列谢茨克国家
 plesetsk:普列谢茨克
-plesetsky district:普列謝茨克區
-pleshcheyevo ozero national park:普列謝耶沃湖國家公園
+plesetsky district:普列谢茨克区
+pleshcheyevo ozero national park:普列谢耶沃湖国家公园
 pleshkani:普列什卡尼
 plesiadapis:更猴
-plesielephantiformes:近象亞目
+plesielephantiformes:近象亚目
 plesio:普莱肖
 plesiochronous digital hierarchy:准同步数字体系
 plesioelasmosaurus:近薄板龙属
-plesiogulo:近貂熊屬
+plesiogulo:近貂熊属
 plesiohadros:近鸭嘴龙属
 plesiohedron:准面体
-plesiolampas:近燈籠海膽
+plesiolampas:近灯笼海胆
 plesiomonas shigelloides:邻单胞菌属
 plesiomyzon:保亭近腹吸鳅
 plesiopharos:近灯塔龙属
 plesioplatecarpus:近板踝龙属
 plesiopleurodon:近滑齿龙属
 plesiops auritus:金鮗
-plesiops coeruleolineatus:藍線鮗
+plesiops coeruleolineatus:蓝线鮗
 plesiopterys:近翼龙属
-plesioptopoma:巴西彎牙甲鯰
-plesiosaur:蛇頸龍目
-plesiosauroidea:蛇頸龍亞目
-plesiosaurus:蛇頸龍屬
+plesioptopoma:巴西弯牙甲鲶
+plesiosaur:蛇颈龙目
+plesiosauroidea:蛇颈龙亚目
+plesiosaurus:蛇颈龙属
 plesioteuthis:近鱿属
 plesiothyreus cytherae:格子扁帽螺
 plesiotylosaurus:近瘤龙属
@@ -12229,7 +12064,7 @@ pleskauer see:普斯科夫湖
 pleskava:普斯科夫
 pleskavas apgabals:普斯科夫州
 pleskavas ezers:普斯科夫湖
-pleskivtsi:普列斯基夫齊
+pleskivtsi:普列斯基夫齐
 plesnois:普莱努瓦
 plessa:普莱萨
 plessala:普莱萨拉
@@ -12237,9 +12072,9 @@ plessis barbuise:普莱西巴尔比斯
 plessis de roye:普莱西德鲁瓦
 plessis saint benoist:普莱西圣伯努瓦
 plessis saint jean:普莱西圣让
-plessite:合紋石
+plessite:合纹石
 plessix balisson:普莱西巴利松
-plessur alps:普萊蘇爾阿爾卑斯山脈
+plessur alps:普莱苏尔阿尔卑斯山脉
 plestan:普莱唐
 plestiodon capito:黄纹石龙子
 plestiodon chinensis:中国石龙子
@@ -12252,19 +12087,18 @@ plestiodon takarai:钓鱼岛石龙子
 plestiodon tamdaoensis:越南石龙子
 plestiodon tunganus:大渡石龙子
 plestiodon:石龙子属
-pleszew county:普萊謝夫縣
-pleszew:普萊謝夫
-pleternica:普萊泰爾尼察
+pleszew county:普莱谢夫县
+pleszew:普莱谢夫
+pleternica:普莱泰尔尼察
 pleterniceszentmiklós:普莱泰尔尼察
-pleterniceszentmiklós:普萊泰爾尼察
-plethobasus cicatricosus:皺疤豐底蚌
-plethobasus cooperianus:古柏豐底蚌
+plethobasus cicatricosus:皱疤丰底蚌
+plethobasus cooperianus:古柏丰底蚌
 plethodidae:满齿鱼科
 plethodontidae:无肺螈科
 plethodontohyla:普梭指盘蛙属
 plethron:普勒戎
 pletschuhorn:普勒丘峰
-plettenberg bay:普利登堡灣
+plettenberg bay:普利登堡湾
 plettenberg:普莱滕贝格
 pleubian:普勒比扬
 pleucadeuc:普勒卡德克
@@ -12283,37 +12117,37 @@ pleural effusion:胸腔积液
 pleural empyema:膿胸
 pleuranthodium:垂序姜属
 pleuridium:丛毛藓属
-pleurisy interrupt:胸膜炎中斷
+pleurisy interrupt:胸膜炎中断
 pleurisy:胸膜炎
-pleurobema clava:棒形側底蚌
-pleurobema plenum:滿側底蚌
+pleurobema clava:棒形侧底蚌
+pleurobema plenum:满侧底蚌
 pleurobema:侧底蚌属
-pleurobranchaeidae:無殼側鰓科
+pleurobranchaeidae:无殼侧鰓科
 pleurobranchidae:侧鳃科
 pleurocapsales:宽球藻目
 pleuroceridae:肋蜷科
-pleurocybella porrigens:貝形圓孢側耳
+pleurocybella porrigens:贝形圆孢侧耳
 pleurocybella:圆孢侧耳属
 pleurocystites:肋海林檎
-pleurodeles:肋突螈屬
+pleurodeles:肋突螈属
 pleurodema:肿肋蟾属
-pleurodesis:肋膜黏連術
-pleurodira:側頸龜亞目
+pleurodesis:肋膜黏连术
+pleurodira:侧颈龟亚目
 pleurodontidae:高腰蝸牛科
 pleuroflammula:侧火菇属
 pleurolobus gangeticus:大叶山蚂蝗
-pleurolobus:蟬豆屬
+pleurolobus:蟬豆属
 pleuromeiaceae:肋木科
-pleuronectidae:鰈科
-pleuronichthys japonicus:日本木葉鰈
+pleuronectidae:鲽科
+pleuronichthys japonicus:日本木叶鲽
 pleuronichthys:木叶鲽属
 pleurophyllum speciosum:壮丽纵脉菀
 pleurophyllum:纵脉菀属
 pleuroploca trapezium:角赤旋螺
 pleurosauridae:腹躯龙科
 pleurosaurus:腹躯龙属
-pleurosicya mossambica:莫三比克腹瓢鰕虎魚
-pleurosicya:腹瓢鰕虎魚屬
+pleurosicya mossambica:莫三比克腹瓢鰕虎鱼
+pleurosicya:腹瓢鰕虎鱼属
 pleurosigma:斜纹藻属
 pleurosoriopsis:睫毛蕨
 pleurospermum:棱子芹属
@@ -12327,13 +12161,13 @@ pleurothallis:腋花兰属
 pleurotomariidae:翁戎螺科
 pleurotus australis:褐侧耳
 pleurotus citrinopileatus:金顶侧耳
-pleurotus cystidiosus:鮑魚菇
-pleurotus dryinus:櫟生側耳
-pleurotus eryngii:杏鮑菇
-pleurotus nebrodensis:白靈側耳
+pleurotus cystidiosus:鲍鱼菇
+pleurotus dryinus:櫟生侧耳
+pleurotus eryngii:杏鲍菇
+pleurotus nebrodensis:白灵侧耳
 pleurotus ostreatus:平菇
 pleurotus tuber regium:菌核侧耳
-pleurotus:側耳屬
+pleurotus:侧耳属
 pleurozium schreberi:赤莖蘚
 pleurozium:赤茎藓属
 pleurtuit:普勒尔蒂
@@ -12341,18 +12175,16 @@ pleuven:普勒旺
 pleuvezain:普勒沃赞
 pleuville:普勒维尔
 pleven megye:普列文州
-pleven municipality:普列文市鎮
+pleven municipality:普列文市镇
 pleven plan proposed:普列文计划提出
 pleven plan:普列文计划
 pleven province:普列文州
 pleven:普列文
 pleven:普列文州
 plevla:普列夫利亚
-plevla:普列夫利亞
 plevlia:普列夫利亚
-plevlia:普列夫利亞
 plevne (il):普列文州
-plexaurella nutans:綠長柳珊瑚
+plexaurella nutans:绿长柳珊瑚
 plexauridae:粗柳珊瑚科
 plexippoides regius:王拟蝇虎
 plexippoides:拟蝇虎属
@@ -12363,19 +12195,19 @@ pleyben:普莱邦
 pleyber christ:普莱贝尔克里斯特
 pleyel et cie:普莱耶尔公司
 pleystein:普莱施泰因
-pleystor glacier:普萊斯特冰川
+pleystor glacier:普莱斯特冰川
 pleškani:普列什卡尼
 pleșkani:普列什卡尼
 pli-finaĵo:多功能广场
-pliakhova:普利亞霍瓦
-pliavinios:普拉維納斯
+pliakhova:普利亚霍瓦
+pliavinios:普拉维纳斯
 pliboux:普利布
 plicatula:猫爪蛤属
 plicatulidae:猫爪蛤科
 plicatura:褶尾菌属
 plicaturopsis:拟褶尾菌属
 plichancourt:普利尚库尔
-plicofollis magatensis:呂宋褶囊海鯰
+plicofollis magatensis:吕宋褶囊海鲶
 plicofollis:褶囊海鲶属
 pliening:普利宁
 pliensbachian:普林斯巴期
@@ -12392,10 +12224,10 @@ plimuta:普利茅夫
 plimutas:普利茅夫
 plimutas:普利茅斯
 plimuto:普利茅斯
-plinian eruption:普林尼式火山噴發
-plintenburg:維謝格拉德
+plinian eruption:普林尼式火山喷发
+plintenburg:维谢格拉德
 plinth:柱础
-plinthogomphodon:磚臼齒獸屬
+plinthogomphodon:磚臼齿兽属
 pliny the elder and plato:老普林尼和柏拉图
 pliny the elder like:老普林尼喜欢
 pliny the elder mention:老普林尼提到
@@ -12406,9 +12238,7 @@ pliocene and eocene:上新世和始新世
 pliocene and kill:上新世和杀
 pliocene climate model:上新世气候模型
 pliocene climate models:上新世气候模型
-pliocene climate models:上新世氣候模型
 pliocene climate:上新世气候
-pliocene climate:上新世氣候
 pliocene fossil:上新世化石
 pliocene sea surface temperature:上新世海面温度
 pliocene sea:上新世海
@@ -12416,66 +12246,60 @@ pliocene species:上新世物种
 pliocene:上新世
 pliohippus:上新马属
 pliohyrax:上新蹄兔
-pliomera:多股蟲
-pliomerina:小多股蟲
+pliomera:多股虫
+pliomerina:小多股虫
 plionarctos:上熊属
 pliopedia:上新海象属
 pliophoca:上新海豹属
 pliopithecus:上猿
-plioplatecarpinae:扁掌龍亞科
-plioplatecarpus:扁掌龍屬
-pliosauroidea:上龍亞目
-pliosaurus:上龍屬
-pliska ridge:普利斯卡嶺
+plioplatecarpinae:扁掌龙亚科
+plioplatecarpus:扁掌龙属
+pliosauroidea:上龙亚目
+pliosaurus:上龙属
+pliska ridge:普利斯卡岭
 pliska:普利斯卡
-plisniany:普利斯尼亞尼
+plisniany:普利斯尼亚尼
 plitidepsin:普利提环肽
 plitvice lakes incident:普利特维采湖群冲突
 plitvice lakes national park:普利特维采湖群国家公园
 pliussa:普柳萨
 plivot:普利沃
-pljachova:普利亞霍瓦
-pljachowa:普利亞霍瓦
-pljah'ova:普利亞霍瓦
-pljeskavica:普列卡維察
-pljevlja municipality:普列夫利亞市鎮
+pljachova:普利亚霍瓦
+pljachowa:普利亚霍瓦
+pljah'ova:普利亚霍瓦
+pljeskavica:普列卡维察
+pljevlja municipality:普列夫利亚市镇
 pljevlja:普列夫利亚
-pljevlja:普列夫利亞
 pljochiw:普利奧希夫
 pljussa:普柳萨
 plk c. w. chu college:保良局朱敬文中学
-plk c. w. chu college:保良局朱敬文中學
 plk chi pui  kindergarten-cum-nursery:保良局志沛幼稚园暨幼儿园
-plk chi pui  kindergarten-cum-nursery:保良局志沛幼稚園暨幼兒園
-plk dr. jimmy wong chi-ho (tin sum valley) primary school:保良局王賜豪(田心谷)小學
-plk eleanor kwok law kwai chun kindergarten:保良局郭羅桂珍幼稚園
-plk fong wong kam chuen primary school:保良局方王錦全小學
-plk fung leung kit memorial kindergarten:保良局馮梁結紀念幼稚園
-plk gold & silver exchange society pershing tsang school:保良局金銀業貿易場張凝文學校
-plk hkta yuen yuen primary school:保良局香港道教聯合會圓玄小學
-plk ho yuk ching (1984) college:保良局甲子何玉清中學
-plk lam man chan english primary school:保良局林文燦英文小學
-plk leung chow shun kan primary school:保良局梁周順琴小學
+plk dr. jimmy wong chi-ho (tin sum valley) primary school:保良局王赐豪(田心谷)小学
+plk eleanor kwok law kwai chun kindergarten:保良局郭罗桂珍幼稚园
+plk fong wong kam chuen primary school:保良局方王锦全小学
+plk fung leung kit memorial kindergarten:保良局冯梁结纪念幼稚园
+plk gold & silver exchange society pershing tsang school:保良局金银业贸易场张凝文学校
+plk hkta yuen yuen primary school:保良局香港道教联合会圆玄小学
+plk ho yuk ching (1984) college:保良局甲子何玉清中学
+plk lam man chan english primary school:保良局林文灿英文小学
 plk leung chow shun kan primary school:保良局梁周顺琴小学
-plk madam chan wai chow memorial school:保良局陳維周夫人紀念學校
-plk mrs ma kam ming - cheung fook sien college:保良局馬錦明夫人章馥仙中學
+plk madam chan wai chow memorial school:保良局陈维周夫人纪念学校
 plk mrs ma kam ming - cheung fook sien college:保良局马锦明夫人章馥仙中学
-plk vicwood chong kee ting kindergarten:保良局莊啟程幼稚園
-plk vicwood k t chong no.2 primary school:保良局莊啟程第二小學
-plk vicwood kt chong sixth form college:保良局莊啟程預科書院
-plk women's welfare club western district fung lee pui yiu primary school:保良局西區婦女福利會馮李佩瑤小學
-plk wong chuk hang service for the elderlu:保良局黃竹坑護理安老中心
-plk wong siu ching kindergarten:保良局王少清幼稚園
+plk vicwood chong kee ting kindergarten:保良局庄启程幼稚园
+plk vicwood k t chong no.2 primary school:保良局庄启程第二小学
+plk vicwood kt chong sixth form college:保良局庄启程预科书院
+plk women's welfare club western district fung lee pui yiu primary school:保良局西区妇女福利会冯李佩瑤小学
+plk wong chuk hang service for the elderlu:保良局黄竹坑护理安老中心
+plk wong siu ching kindergarten:保良局王少清幼稚园
 pllermè:普洛埃梅勒
 plleternica:普莱泰尔尼察
-plleternica:普萊泰爾尼察
 ploaghe:普洛阿盖
 plobsheim:普洛布赛姆
-ploc'k:普洛齊克
+ploc'k:普洛齐克
 ploca:普洛切
 plocamaphis:卷粉毛蚜属
 plocamium:海头红属
-ploceidae:織布文鳥科
+ploceidae:织布文鸟科
 ploceus:织布鸟属
 plochingen:普洛兴根
 plochtcha rénok (place du marché):夫市集广场
@@ -12486,15 +12310,15 @@ ploemeur:普勒默尔
 ploeren:普莱朗
 ploermael:普洛埃梅勒
 ploeszti:普洛耶什蒂
-plog island:普洛格島
+plog island:普洛格岛
 ploggensee:普洛根湖
 plogoff:普洛戈夫
 plogonnec:普洛戈内克
-plogskaftet nunataks:普洛格斯卡夫特冰原島峰
-plogsteinen:盧卡斯島
-plogøy:普洛格島
+plogskaftet nunataks:普洛格斯卡夫特冰原岛峰
+plogsteinen:卢卡斯岛
+plogøy:普洛格岛
 ploh'iv:普利奧希夫
-ploidy:染色體倍性
+ploidy:染色体倍性
 ploieşti:普洛耶什蒂
 ploiești:普洛耶什蒂
 ploisy:普卢瓦西
@@ -12510,24 +12334,24 @@ plomeur:普洛默尔
 plomion:普洛米永
 plomodiern:普洛莫迪耶恩
 plongée à l'Île aux requins:鲨鱼岛潜水
-plongė:普倫蓋
-plopana:普洛帕納鄉
+plongė:普伦盖
+plopana:普洛帕纳乡
 plopeni:普洛佩尼
-plopu:普洛普鄉
+plopu:普洛普乡
 plorec sur arguenon:阿尔格农河畔普洛雷克
 plos biology:公共科学图书馆生物学
 plos medicine:公共科学图书馆医学
 plos one:公共科学图书馆一
 plos:公共科学图书馆
 plosca:普洛斯克
-plosca:普洛斯卡鄉
+plosca:普洛斯卡乡
 plose:普洛塞山
 ploshchad gagarina:加加林广场站
-ploshchad ilyicha:伊里奇廣場站
+ploshchad ilyicha:伊里奇广场站
 plosive:爆发音
 ploska:普洛斯卡
 ploske:普洛斯克
-ploski cove:普洛斯基灣
+ploski cove:普洛斯基湾
 plosky:普洛斯基火山
 plot a histogram:绘制一个直方图
 plot a point:绘制一个点
@@ -12540,7 +12364,7 @@ plot data points:绘制数据点
 plot data:绘制数据
 plot deforestation:绘制森林砍伐
 plot detect:绘制检测
-plot device:橋段
+plot device:桥段
 plot each:绘制每个
 plot functions and data:绘制函数和数据
 plot functions:绘制函数
@@ -12559,7 +12383,7 @@ plot their:绘制他们的
 plot these distribution:绘制这些分布
 plot these:绘制这些
 plot this:绘制这
-plot twist:大逆轉
+plot twist:大逆转
 plot twist:绘制扭曲
 plot you:绘制你
 plot your:绘制你的
@@ -12568,11 +12392,11 @@ plothen:普洛滕
 plotinus even:普罗提诺甚至
 plotinus:普罗提诺
 plotopteridae:泳翼鸟科
-plotosaurus:浮龍屬
-plotosus canius:印度洋鰻鯰
-plotosus japonicus:日本鰻鯰
-plotosus lineatus:鰻鯰
-plotsk:普洛齊克
+plotosaurus:浮龙属
+plotosus canius:印度洋鳗鲶
+plotosus japonicus:日本鳗鲶
+plotosus lineatus:鳗鲶
+plotsk:普洛齐克
 plottes:普洛特
 plouagat:普卢阿加特
 plouaret:普卢阿雷特
@@ -12592,14 +12416,14 @@ plougasnou:普卢加努
 plough driver:犁司机
 plough flag:犁旗
 plough horse:犁马
-plough island:普洛格島
+plough island:普洛格岛
 plough once:犁一次
 plough team:犁队
 plough we:犁我们
 plough you:犁你
 plough your:犁你的
 plough:犁
-ploughfish:尖頭裸龍鰧
+ploughfish:尖头裸龙鰧
 plougonvelin:普卢贡沃兰
 plougonven:普卢贡旺
 plougonver:普卢贡韦尔
@@ -12617,7 +12441,7 @@ plouharnel:普卢阿内勒
 plouider:普卢伊代尔
 plouigneau:普卢伊尼欧
 plouisy:普卢伊西
-ploujne:普盧日涅
+ploujne:普卢日涅
 ploulec'h:普卢莱克
 ploumagoar:普卢马戈阿尔
 ploumilliau:普卢米约
@@ -12627,96 +12451,90 @@ plouray:普卢赖
 plourhan:普卢朗
 plourin:普卢兰
 plourivo:普卢里沃
-ploutonion:冥王聖所
+ploutonion:冥王圣所
 plouvain:普卢万
 plouvara:普卢瓦拉
 plouvien:普卢维安
 plouvorn:普卢沃恩
 plovan:普洛旺
-plovdiv airport:普羅夫迪夫機場
-plovdiv central railway station:普羅夫迪夫中央車站
+plovdiv airport:普罗夫迪夫机场
+plovdiv central railway station:普罗夫迪夫中央车站
 plovdiv is bulgarian:普罗夫迪夫是保加利亚
 plovdiv opera:普罗夫迪夫歌剧
 plovdiv peak:普洛夫迪夫峰
-plovdiv province:普羅夫迪夫州
-plovdiv regional ethnographic museum:普羅夫迪夫區域民族誌博物館
-plovdiv regional historical museum:普羅夫迪夫區域史博物館
-plovdiv stadium:普羅夫迪夫體育場
-plovdiv synagogue:普羅夫迪夫猶太會堂
+plovdiv province:普罗夫迪夫州
+plovdiv regional ethnographic museum:普罗夫迪夫区域民族志博物馆
+plovdiv regional historical museum:普罗夫迪夫区域史博物馆
+plovdiv stadium:普罗夫迪夫体育场
+plovdiv synagogue:普罗夫迪夫犹太会堂
 plovdiv university:普罗夫迪夫大学
 plovdiv:普罗夫迪夫
 plovdiv:普罗夫迪夫州
-plovdiv:普羅夫迪夫
 plovdiva:普罗夫迪夫
-plovdiva:普羅夫迪夫
 plovdivas:普罗夫迪夫
-plovdivas:普羅夫迪夫
 plovdîv:普罗夫迪夫
-plovdîv:普羅夫迪夫
-plover clove laboratory:船灣淡水湖化驗室
-plover cove c. & m. a. church:宣道會寶湖堂
-plover cove country park (extension):船灣郊野公園（擴建部份）
-plover cove country park:船灣郊野公園
-plover cove garden:寶湖花園
-plover cove nursery school:寶湖幼兒學校
-plover cove reservoir country trail:船灣淡水湖郊遊徑
-plover cove reservoir:船灣淡水湖
-plover cove road market toilet:寶湖道街市公廁
-plover cove road market:寶湖道街市
-plover cove road:寶湖道
-plover cove scheme stage 1:船灣淡水湖計劃第1期
-plover cove scheme stage 1:船灣淡水湖計劃第i期
-plover cove scheme stage 1:船灣淡水湖計劃第一期
-plover cove scheme stage 2:船灣淡水湖計劃第2期
-plover cove scheme stage 2:船灣淡水湖計劃第ii期
-plover cove scheme stage 2:船灣淡水湖計劃第二期
-plover cove scheme stage i:船灣淡水湖計劃第1期
-plover cove scheme stage i:船灣淡水湖計劃第i期
-plover cove scheme stage i:船灣淡水湖計劃第一期
-plover cove scheme stage ii:船灣淡水湖計劃第2期
-plover cove scheme stage ii:船灣淡水湖計劃第ii期
-plover cove scheme stage ii:船灣淡水湖計劃第二期
-plover cove scheme:船灣淡水湖計劃
-plover cove villagers’ playground tai po:大埔寶湖六鄉遊樂場
-plover cove visitor centre:船灣郊野公園遊客中心
-plover cove water scheme intake af:船灣淡水湖進水口af
-plover cove water:船灣水
+plover clove laboratory:船湾淡水湖化验室
+plover cove c. & m. a. church:宣道会宝湖堂
+plover cove country park (extension):船湾郊野公园（扩建部份）
+plover cove country park:船湾郊野公园
+plover cove garden:宝湖花园
+plover cove nursery school:宝湖幼儿学校
+plover cove reservoir country trail:船湾淡水湖郊游径
+plover cove reservoir:船湾淡水湖
+plover cove road market toilet:宝湖道街市公厕
+plover cove road market:宝湖道街市
+plover cove road:宝湖道
+plover cove scheme stage 1:船湾淡水湖计划第1期
+plover cove scheme stage 1:船湾淡水湖计划第i期
+plover cove scheme stage 1:船湾淡水湖计划第一期
+plover cove scheme stage 2:船湾淡水湖计划第2期
+plover cove scheme stage 2:船湾淡水湖计划第ii期
+plover cove scheme stage 2:船湾淡水湖计划第二期
+plover cove scheme stage i:船湾淡水湖计划第1期
+plover cove scheme stage i:船湾淡水湖计划第i期
+plover cove scheme stage i:船湾淡水湖计划第一期
+plover cove scheme stage ii:船湾淡水湖计划第2期
+plover cove scheme stage ii:船湾淡水湖计划第ii期
+plover cove scheme stage ii:船湾淡水湖计划第二期
+plover cove scheme:船湾淡水湖计划
+plover cove villagers’ playground tai po:大埔宝湖六乡游乐场
+plover cove visitor centre:船湾郊野公园游客中心
+plover cove water scheme intake af:船湾淡水湖进水口af
+plover cove water:船湾水
 plover cove:shuen wan
 plover cove:syun4 waan1
 plover cove:船湾
-plover cove:船灣
-plover cove:船灣海
+plover cove:船湾海
 plover shoal:海鳩暗沙
 plovercrest:凤冠蜂鸟属
 plowdiw:普罗夫迪夫
-plowdiw:普羅夫迪夫
 ployart et vaurseine:普卢瓦亚尔和沃尔塞讷
 ployeshti:普洛耶什蒂
 ployeşti:普洛耶什蒂
-plozk:普洛齊克
+plozk:普洛齐克
 ploçe:普洛切
 ploërmel:普洛埃梅勒
 pločė:普洛切
 plošča lienina:列宁广场
-pluchea carolinensis:美洲闊苞菊
+pluchea carolinensis:美洲阔苞菊
 pluchea indica:阔苞菊
 pluchea:阔苞菊属
-plucked string instrument:撥弦樂器
+plucked string instrument:拨弦乐器
 pludual:普吕迪阿勒
 pluduno:普吕迪诺
 plufur:普吕菲尔
-plug and play:隨插即用
-plug door:內嵌式門
+plug and play:随插即用
+plug door:內嵌式门
 plug in electric vehicle:充电式电动车辆
 plug in electric vehicles in china:中国新能源汽车
-plug in hybrid:插電式混合動力車
+plug in hybrid:插电式混合动力车
 plug power:普拉格能源
-plugari:普盧加里鄉
+plugari:普卢加里乡
 pluggable authentication module:可插拔认证模块
 plugge's plateau:plugge高地公墓
 pluguffan:普吕居方
 pluherlin:普吕埃尔兰
-plujne:普盧日涅
+plujne:普卢日涅
 plukenetia volubilis:印加果
 plukenetia:星油藤属
 plum and pomegranate tree:李子和石榴树
@@ -12732,28 +12550,23 @@ plum area building 8:梅苑8栋
 plum area building 9:梅苑9栋
 plum area convenience store:梅苑便利店
 plum awards:李子奖
-plum blossom award:中國戲劇梅花獎
+plum blossom award:中国戏剧梅花奖
 plum blossoms valley fairy park:梅花谷·精灵乐园
 plum brandy:李子白兰地
-plum bridge:梅橋
+plum bridge:梅桥
 plum cake and all:李子蛋糕和所有的
 plum cake:李子蛋糕
 plum cherry hybrid:车厘李
 plum dress:李子连衣裙
 plum east road:梅华东路
-plum flower equestrian training center:紗帽山馬場
-plum garden building no. 1 of qiqihar medical university:齊齊哈爾醫學院梅園 1 號樓
+plum flower equestrian training center:纱帽山马场
 plum garden building no. 1 of qiqihar medical university:齐齐哈尔医学院梅园 1 号楼
-plum garden building no. 2 of qiqihar medical university:齊齊哈爾醫學院梅園 2 號樓
 plum garden building no. 2 of qiqihar medical university:齐齐哈尔医学院梅园 2 号楼
-plum garden building no. 3 of qiqihar medical university:齊齊哈爾醫學院梅園 3 號樓
 plum garden building no. 3 of qiqihar medical university:齐齐哈尔医学院梅园 3 号楼
-plum garden building no. 4 of qiqihar medical university:齊齊哈爾醫學院梅園 4 號樓
 plum garden building no. 4 of qiqihar medical university:齐齐哈尔医学院梅园 4 号楼
-plum garden of qiqihar medical university:齊齊哈爾醫學院梅園
 plum garden of qiqihar medical university:齐齐哈尔医学院梅园
 plum garden:梅园
-plum gardens:梅園
+plum gardens:梅园
 plum headed finch:褐头星雀
 plum island:李子岛
 plum jobs:李子工作
@@ -12767,11 +12580,11 @@ plum tree:李子树
 plum valley:梅花村
 plum wine:李子酒
 plum:李子
-pluma porgy:小頭蘆鯛
+pluma porgy:小头芦鲷
 plumas national forest:普卢默斯国家森林
 plumaudan:普吕莫当
 plumaugat:普吕莫加特
-plumb bob:錘球
+plumb bob:锤球
 plumbagella micrantha:鸡娃草
 plumbagella:鸡娃草属
 plumbagin:白花丹素
@@ -12779,11 +12592,11 @@ plumbaginaceae:蓝雪科
 plumbago auriculata:蓝雪花
 plumbago indica:紫花丹
 plumbago zeylanica:乌面马
-plumbago:白花丹屬
+plumbago:白花丹属
 plumbane:铅烷
 plumbate:铅酸盐
 plumbene:铅烯
-plumbeous water redstart:鉛色水鴝
+plumbeous water redstart:铅色水鴝
 plumber as well:水管工也
 plumber enter:水管工进入
 plumber just:水管工只
@@ -12791,9 +12604,9 @@ plumber mike:水管工迈克
 plumber notice:水管工注意
 plumber you:水管工你
 plumber:水管工
-plumbers don't wear ties:水管工不打領帶
-plumbing origin:管路系統起源
-plumbing:管路系統
+plumbers don't wear ties:水管工不打领带
+plumbing origin:管路系统起源
+plumbing:管路系统
 plumbite:亚铅酸根
 plumbocene:二茂铅
 plumed basilisk:双嵴冠蜥
@@ -12802,33 +12615,33 @@ plumelec:普吕姆莱克
 plumeleteer:棕尾蜂鸟属
 plumelin:普吕姆兰
 plumergat:普吕梅尔加特
-plumeria rubra:雞蛋花
-plumeria:緬梔花
+plumeria rubra:鸡蛋花
+plumeria:缅梔花
 plumetot:普吕姆托
 plumieux:普吕米约
-plumlov:普盧姆洛夫
-plummer glacier:普盧默冰川
+plumlov:普卢姆洛夫
+plummer glacier:普卢默冰川
 plummet glacier:普拉米特冰川
 plumont:普吕蒙
 plumping:注水肉
-pluna:烏拉圭航空
+pluna:乌拉圭航空
 plunder of peach and plum:桃李劫
 pluneret:普吕讷雷特
-plungen:普倫蓋
-plunger class submarine:潛水者級潛艇
+plungen:普伦盖
+plunger class submarine:潜水者级潜艇
 plunger pump and high:柱塞泵与高
 plunger pump has:柱塞泵有
 plunger pump manufacturers:柱塞泵制造商
 plunger pump:柱塞泵
 plunger:搋子
 plunging fire:俯射
-plungė:普倫蓋
-plunket point:普倫基特角
-plunkett's road:賓吉道
-plunketts road:賓吉道
+plungė:普伦盖
+plunket point:普伦基特角
+plunkett's road:宾吉道
+plunketts road:宾吉道
 pluot:蜜李
-pluperfect:過去完成時
-pluractionality:動詞複動性
+pluperfect:过去完成时
+pluractionality:动词复动性
 plural and so on:复数等等
 plural environment:复数环境
 plural existence:复数存在
@@ -12853,16 +12666,16 @@ plural word:复数单词
 plural world:复数世界
 plural:复数
 pluralistic ignorance:多数无知
-plurality decision:複數意見書
+plurality decision:复数意见书
 plurals will confuse me:复数会混淆我
 plurals will confuse:复数会混淆
 plurals will:复数会
 plurals:复数
-pluricentric language:多中心語言
+pluricentric language:多中心语言
 pluricontinentalism:多大陆主义
-pluridens:多齒龍屬
+pluridens:多齿龙属
 plurien:普吕里安
-plurilateral agreement:複邊協定
+plurilateral agreement:复边协定
 plurinational legislative assembly:多民族立法大会
 plurinational unity of the lefts:左翼多民族团结
 plurinationalism:多民族主义
@@ -12915,7 +12728,7 @@ plus barcelona:加巴塞罗那
 plus basement:加地下室
 plus basic law:加基本法
 plus battery:加电池
-plus beacon:遵理學習中心
+plus beacon:遵理学习中心
 plus benefit:加福利
 plus blood analysis:加血液分析
 plus blood:加血液
@@ -13018,7 +12831,6 @@ plus germany:加德国
 plus glucose:加葡萄糖
 plus government:加政府
 plus gravity:加重力
-plus green:加綠色
 plus green:加绿色
 plus hardware:加硬件
 plus heat:加热
@@ -13071,7 +12883,7 @@ plus more:加更多
 plus music:加音乐
 plus nerve impulse:加神经冲动
 plus nest:加巢
-plus nine boys:九數少年
+plus nine boys:九数少年
 plus nine recommendations:加九建议
 plus nine:加九
 plus nitrogen glass:加氮玻璃
@@ -13089,7 +12901,6 @@ plus one or more:加一个或多个
 plus one plus one:加一加一
 plus one sometimes:加一有时
 plus one why:加一为什么
-plus one why:加一為什麼
 plus one year study time:加一年学习时间
 plus one year study:加一年学习
 plus one year:加一年
@@ -13099,7 +12910,7 @@ plus online:加在线
 plus option:加选项
 plus package:加包
 plus paclitaxel:加紫杉醇
-plus parking:加泊車
+plus parking:加泊车
 plus phone:加手机
 plus photo:加照片
 plus platform:加平台
@@ -13118,7 +12929,7 @@ plus project costs:加项目成本
 plus project:加项目
 plus projection:加投影
 plus protein:加蛋白质
-plus punitive damages:加懲罰性賠償
+plus punitive damages:加惩罚性賠偿
 plus reasonable overtime:加合理的加班
 plus reasonable:加合理的
 plus receive:加收
@@ -13148,7 +12959,7 @@ plus six more:加六更多
 plus six sixteen:加六十六
 plus six:加六
 plus sixty:加六十
-plus sized elf:精靈小姐瘦不了
+plus sized elf:精灵小姐瘦不了
 plus smartphone:加智能手机
 plus snack:加零食
 plus social skills:加社交技巧
@@ -13175,7 +12986,6 @@ plus sugar:加糖
 plus superstition:加迷信
 plus support:加支持
 plus system execution time:加系统执行时间
-plus system:加系統
 plus system:加系统
 plus talk:加谈话
 plus tank:加坦克
@@ -13206,10 +13016,10 @@ plus trump:加特朗普
 plus truth:加真理
 plus turing-complete:加图灵完备
 plus tv:加电视
-plus tv:文化資訊頻道
+plus tv:文化资讯频道
 plus two:加二
 plus tyrosine:加酪氨酸
-plus ultra:通向更遠方
+plus ultra:通向更远方
 plus user:加用户
 plus value added tax:加增值税
 plus value:加值
@@ -13234,7 +13044,7 @@ plus-one contract:加一合同
 plus-one year:加一年
 plus:加
 plus:正号
-pluschne:普盧日涅
+pluschne:普卢日涅
 plush animal:长毛绒动物
 plush catalan:长毛绒加泰罗尼亚
 plush coat:长毛绒大衣
@@ -13248,17 +13058,17 @@ plush:长毛绒
 plushcap:绒顶唐纳雀
 plusia:金翅夜蛾属
 plusidia:闪金夜蛾属
-plusliga:波蘭男子排球聯賽
+plusliga:波兰男子排球联赛
 plusquellec:普吕斯凯莱克
 plussa:普柳萨
 plussulien:普吕叙利安
-plutarch and pliny the elder:普魯塔克和老普林尼
-plutarch:普魯塔克
+plutarch and pliny the elder:普鲁塔克和老普林尼
+plutarch:普鲁塔克
 pluteaceae:光柄菇科
 plutella:菜蛾属
 plutellidae:菜蛾科
 pluteus:光柄菇属
-plutino:冥族小天體
+plutino:冥族小天体
 pluto actually:冥王星实际上
 pluto alignment:冥王星对齐
 pluto always:冥王星总是
@@ -13299,7 +13109,7 @@ pluto has five:冥王星有五
 pluto has many:冥王星有很多
 pluto has several satellite:冥王星有几个卫星
 pluto head:冥王星头
-pluto in fiction:小說中的冥王星
+pluto in fiction:小说中的冥王星
 pluto invite:冥王星邀请
 pluto is a dwarf planet:冥王星是一个矮行星
 pluto is no longer:冥王星不再是
@@ -13324,7 +13134,6 @@ pluto or charon:冥王星或卡戎
 pluto orbit:冥王星轨道
 pluto photo:冥王星照片
 pluto press:冥王星出版社
-pluto problem:冥王星問題
 pluto problem:冥王星问题
 pluto problems:冥王星问题
 pluto recently:冥王星最近
@@ -13336,7 +13145,6 @@ pluto stamp:冥王星邮票
 pluto start:冥王星开始
 pluto still:冥王星仍然
 pluto support:冥王星支持
-pluto system:冥王星系統
 pluto system:冥王星系统
 pluto three:冥王星三
 pluto time web page:冥王星时间网页
@@ -13352,10 +13160,10 @@ pluto would:冥王星将
 pluto's gate:地狱之门
 pluto:冥王星
 pluto:布鲁托停车场
-plutocracy:金權政治
+plutocracy:金权政治
 plutodes:丸尺蛾属
-plutoid:類冥矮行星
-pluton emplacement:岩漿置入
+plutoid:类冥矮行星
+pluton emplacement:岩浆置入
 plutoniosaurus:普卢托尼亚鱼龙属
 plutonism:火成论
 plutonium agreement:钚协议
@@ -13433,20 +13241,19 @@ pluviatilol:雨石蒜木脂素
 pluvigner:普吕维涅
 pluviostilla:帛琉雨滴螺
 pluwig:普卢维希
+pluzhina:普卢日內
 pluzhina:普卢日内
-pluzhina:普盧日內
-pluzhne:普盧日涅
+pluzhne:普卢日涅
 pluzunet:普吕聚内特
-pluñhi:普倫蓋
-pluņģe:普倫蓋
+pluñhi:普伦盖
+pluņģe:普伦盖
+plužine:普卢日內
 plužine:普卢日内
-plužine:普盧日內
+plužinė:普卢日內
 plužinė:普卢日内
-plužinė:普盧日內
-plužne:普盧日涅
+plužne:普卢日涅
 plyevlya:普列夫利亚
-plyevlya:普列夫利亞
-plymouth airport:普利茅夫機場
+plymouth airport:普利茅夫机场
 plymouth airport:普利茅斯机场
 plymouth and coventry:普利茅斯和考文垂
 plymouth and devon:普利茅斯和德文郡
@@ -13457,11 +13264,11 @@ plymouth art:普利茅斯艺术
 plymouth at home park:普利茅斯在家里公园
 plymouth at home:普利茅斯在家里
 plymouth await:普利茅斯等待
-plymouth barracuda:普利茅斯梭子魚
+plymouth barracuda:普利茅斯梭子鱼
 plymouth brethren:普利茅斯弟兄会
 plymouth business school:普利茅斯商学院
 plymouth cathedral:普利茅斯主教座堂
-plymouth city airport:普利茅斯城市機場
+plymouth city airport:普利茅斯城市机场
 plymouth city council leader:普利茅斯市议会领袖
 plymouth city council:普利茅斯市议会
 plymouth coast:普利茅斯海岸
@@ -13485,7 +13292,7 @@ plymouth i like:普利茅斯我喜欢
 plymouth i:普利茅斯我
 plymouth is the only:普利茅斯是唯一的
 plymouth life:普利茅斯生活
-plymouth marjon university:普利茅斯聖馬可和聖約翰大學
+plymouth marjon university:普利茅斯圣马可和圣约翰大学
 plymouth mayor:普利茅斯市长
 plymouth meeting:普利茅斯会议
 plymouth mill:普利茅斯磨坊
@@ -13501,21 +13308,19 @@ plymouth royal:普利茅斯皇家
 plymouth satellite:普利茅斯卫星
 plymouth shooting:普利茅斯枪击案
 plymouth sound:普利茅斯声音
-plymouth state university:普利茅斯州立大學
+plymouth state university:普利茅斯州立大学
 plymouth state:普利茅斯州
 plymouth station:普利茅斯站
 plymouth studio:普利茅斯工作室
 plymouth sutton:普利茅斯萨顿
-plymouth synagogue:普利茅斯猶太會堂
+plymouth synagogue:普利茅斯犹太会堂
 plymouth theatre:普利茅斯剧院
-plymouth township:普利茅斯鎮區
 plymouth township:普利茅斯镇区
 plymouth university:普利茅斯大学
-plymouth university:普利茅斯大學
 plymouth won:普利茅斯赢了
 plymouth:普利茅夫
 plymouth:普利茅斯
-plympton:普林普頓
+plympton:普林普顿
 plynaukštės departamentas:高原省
 plynaukštės regionas:高原区
 plyskiv:普利斯基夫
@@ -13523,7 +13328,7 @@ plysky:普利斯基
 plyushchikha:普柳什奇哈
 plyussa river:普柳萨河
 plyussa:普柳萨
-plyussky district:普柳薩區
+plyussky district:普柳萨区
 plywood absolute:胶合板绝对
 plywood and canvas:胶合板和帆布
 plywood and construction plywood:胶合板和建筑胶合板
@@ -13573,16 +13378,12 @@ plywood:胶合板
 plzen:比尔森
 plzeņa:比尔森
 plzeň:比尔森
-pláinéadlann:天象儀
+pláinéadlann:天象仪
 pláž kaochaduiyuan:kaochaduiyuan tan
 pláž kaochaduiyuan:考查队员滩
-pláž kaochaduiyuan:考查隊員灘
 pláž wongaling:旺加林海滩
 plèce charles di gaulle:戴高乐广场
-plèce charles di gaulle:戴高樂廣場
 plérin:普莱兰
 plóvdiv:普罗夫迪夫
-plóvdiv:普羅夫迪夫
 plôvdiv:普罗夫迪夫
-plôvdiv:普羅夫迪夫
 plоçe:普洛切

@@ -1,24 +1,21 @@
-r&b hotel sapporo kita 3 nishi 2:r＆b飯店 札幌北3西2
+r&b hotel sapporo kita 3 nishi 2:r＆b饭店 札幌北3西2
 r&b hotel sendai higashiguchi:r＆b酒店 仙台东口
-r&b hotel sendai higashiguchi:r＆b飯店 仙台東口
+r&b hotel sendai higashiguchi:r＆b饭店 仙台东口
 r&b hotel sendai hirose-dori ekimae:r＆b酒店 仙台广濑街车站前
-r&b hotel sendai hirose-dori ekimae:r＆b飯店 仙台廣瀨通站前
-r&bホテル 仙台東口:r＆b酒店 仙台东口
-r&bホテル 仙台東口:r＆b飯店 仙台東口
+r&b hotel sendai hirose-dori ekimae:r＆b饭店 仙台广瀨通站前
+r&bホテル 仙台东口:r＆b酒店 仙台东口
+r&bホテル 仙台东口:r＆b饭店 仙台东口
 r&bホテル仙台広瀬駅前:r＆b酒店 仙台广濑街车站前
-r&bホテル仙台広瀬駅前:r＆b飯店 仙台廣瀨通站前
-r&bホテル札幌北3西2:r＆b飯店 札幌北3西2
+r&bホテル仙台広瀬駅前:r＆b饭店 仙台广瀨通站前
+r&bホテル札幌北3西2:r＆b饭店 札幌北3西2
 r&b호텔 센다이 히로세도리에키마에:r＆b酒店 仙台广濑街车站前
-r&b호텔 센다이 히로세도리에키마에:r＆b飯店 仙台廣瀨通站前
+r&b호텔 센다이 히로세도리에키마에:r＆b饭店 仙台广瀨通站前
 r&b호텔 센다이히가시구치:r＆b酒店 仙台东口
-r&b호텔 센다이히가시구치:r＆b飯店 仙台東口
+r&b호텔 센다이히가시구치:r＆b饭店 仙台东口
 r&d building:产学技术馆
 r&d rd. 1:研发一路
-r&d rd. 1:研發一路
 r&d rd. 2 lot:研发二路停车场
-r&d rd. 2 lot:研發二路停車場
 r&d rd. 4 public park:研发四路公园
-r&d rd. 4 public park:研發四路公園
 r&f centre:富力中心
 r&f icon:富力海珠城a区
 r&f icon:富力海珠城b区
@@ -31,15 +28,12 @@ r&f peach garden:富力桃园
 r&f peninsula garden:富力半岛花园
 r&f peninsula garden:富力半岛花园站
 r&f princess cove:富力公主湾
-r&f princess cove:富力公主灣
-r&f seine region:塞納天地
 r&f seine region:塞纳天地
 r&f tangning:富力唐宁
 r&f tanjung puteri:富力公主湾
-r&f tanjung puteri:富力公主灣
 r&f yuexi garden bus terminal:富力悦禧花园总站
 r&r ayer keroh overhead restaurant:爱极乐公路服务区天桥餐厅
 r&r sebelah taiping north bound:太平休息站
 r&r sebelah taiping south bound:太平休息站
-r&t centre:納東中心
+r&t centre:纳东中心
 r&w park:兆维工业园

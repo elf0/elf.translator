@@ -1,119 +1,99 @@
-oi chak house:愛澤樓
-oi cheung house:愛祥閣
-oi chi house:愛智樓
-oi chiu house:愛潮閣
-oi chung house:愛聰閣
-oi fai house:愛暉樓
+oi chak house:爱泽楼
+oi cheung house:爱祥阁
+oi chi house:爱智楼
+oi chiu house:爱潮阁
+oi chung house:爱聪阁
 oi fai house:爱晖楼
-oi fu house:愛富閣
-oi hei house:愛曦樓
-oi hockey stadium:大井曲棍球競技場
-oi hong house:愛康閣
-oi kan house:愛勤閣
-oi kan road:愛勤道
+oi fu house:爱富阁
+oi hei house:爱曦楼
+oi hockey stadium:大井曲棍球竞技场
+oi hong house:爱康阁
+oi kan house:爱勤阁
 oi kan road:爱勤道
-oi king street:愛景街
+oi king street:爱景街
 oi kwan building:爱群大厦
-oi kwan court:愛群閣
-oi kwan fast food shop:愛群快餐店
-oi kwan hotel:愛羣大酒店
+oi kwan court:爱群阁
+oi kwan fast food shop:爱群快餐店
+oi kwan hotel:爱羣大酒店
 oi kwan hotel:爱群大厦
-oi kwan restaurant:愛群餐廳
-oi kwan road baptist church:愛群道浸信會
-oi kwan road:愛群道
-oi lai house:愛禮樓
+oi kwan restaurant:爱群餐厅
+oi kwan road baptist church:爱群道浸信会
+oi kwan road:爱群道
 oi lai house:爱礼楼
-oi lai lane:愛禮里
 oi lai lane:爱礼里
-oi lai street:愛禮街
+oi lai street:爱礼街
 oi language:岙依语
-oi lim house:愛廉樓
-oi lok house:愛樂樓
+oi lim house:爱廉楼
 oi lok house:爱乐楼
-oi man estate bus terminus:愛民邨巴士總站
-oi man estate:愛民邨
-oi man plaza:愛民廣場
-oi man post office:愛民郵政局
-oi man sang dai pai dong restaurant:愛文生
-oi man:愛民
-oi ming house:愛明樓
+oi man estate bus terminus:爱民邨巴士总站
+oi man estate:爱民邨
+oi man plaza:爱民广场
+oi man post office:爱民邮政局
+oi man sang dai pai dong restaurant:爱文生
+oi man:爱民
 oi ming house:爱明楼
-oi ming lane:愛明里
-oi ning house:愛寧閣
-oi ping house:愛平樓
-oi po house:愛寶樓
-oi sen path:愛晨徑
-oi shun house:愛信樓
+oi ming lane:爱明里
+oi ning house:爱宁阁
+oi ping house:爱平楼
+oi po house:爱宝楼
+oi sen path:爱晨径
+oi shun house:爱信楼
 oi shun road:康祥街
-oi shun road:愛信道
 oi shun road:爱信道
-oi sin house:愛善樓
-oi tai house:愛泰樓
+oi sin house:爱善楼
 oi tai house:爱泰楼
-oi tak house:愛德樓
 oi tak house:爱德楼
-oi tak lane:愛德里
 oi tak lane:爱德里
-oi tak street:愛德街
-oi tao house:愛濤閣
-oi tat house, on tat estate:安達邨愛達樓
-oi tat house:愛達樓
+oi tak street:爱德街
+oi tao house:爱濤阁
+oi tat house, on tat estate:安达邨爱达楼
+oi tat house:爱达楼
 oi thermal power station:大井火力发电厂
-oi tung car park:愛東停車場
-oi tung estate:愛東邨
-oi tung shopping centre:愛東商場
+oi tung car park:爱东停车场
+oi tung estate:爱东邨
+oi tung shopping centre:爱东商场
 oi u luzi chervona kalyna:草地上的红荚蒾
-oi wah house:愛華閣
-oi wai house:愛慧閣
-oi wing house:愛榮閣
-oi wo house:愛和樓
-oi yan house:愛仁閣
-oi yat house:愛逸樓
-oi yee house:愛義樓
-oi yee street:愛義街
+oi wah house:爱华阁
+oi wai house:爱慧阁
+oi wing house:爱荣阁
+oi wo house:爱和楼
+oi yan house:爱仁阁
+oi yat house:爱逸楼
+oi yee house:爱义楼
 oi yee street:爱义街
-oi yin house:愛賢閣
-oi yin street:愛賢街
-oi yue house:愛裕閣
-oi yuen villa:愛園別墅
-oi yuk house:愛旭樓
-oi yung house:愛勇樓
-oi yung street:愛勇街
+oi yin house:爱贤阁
+oi yin street:爱贤街
+oi yue house:爱裕阁
+oi yuen villa:爱园別墅
+oi yuk house:爱旭楼
+oi yung house:爱勇楼
+oi yung street:爱勇街
 oi! garden:油街花园
-oi! garden:油街花園
 oi! glassie:油街玻璃屋
 oi! kitchen:油街厨房
-oi! kitchen:油街廚房
 oi! lawn:油街草地
-oi! lounge:油街涼亭
+oi! lounge:油街凉亭
 oi! study:油街书房
-oi! study:油街書房
 oi! warehouse:油街仓库
-oi! warehouse:油街倉庫
 oi!:油街实现
-oi!:油街實現
 oi-machi:大井町
-oi-shi-sushi:千之味刺身壽司專門店
-oi-sâ-nì-â:愛沙尼亞
+oi-shi-sushi:千之味刺身寿司专门店
 oi-sâ-nì-â:爱沙尼亚
-oi-sâ-nì-â:爱沙尼亚 / 愛沙尼亞
+oi-sâ-nì-â:爱沙尼亚 / 爱沙尼亚
 oi:大井町
-oi:大飯町
 oi:大饭町
 oia:伊亚
-oiapoque:奧亞波基
+oiapoque:奧亚波基
 oiartzun:奥亚尔孙
 oiba:奧伊瓦
 oibanien:Āěrbāníyà
 oibanien:阿尔巴尼亚
-oibanien:阿爾巴尼亞
 oibuk:wū yī bǐ kè
 oibuk:乌依比克
 oichi:阿市
 oiching:奥尔兴
 oida:生田
 oidabashi:生田桥
-oidabashi:生田橋
 oides:瓢萤叶甲属
 oidium:粉孢属
 oido station:乌耳岛站
@@ -123,15 +103,15 @@ oifig chonsalachta na bulgáire:保加利亚领事馆
 oifig chonsalachta na gearmáine:德国领事馆
 oifig chonsalachta na gréige:希腊领事馆
 oifig chonsalachta na hungáire:匈牙利领事馆
-oifig scríobhneoir reachtach nakazawa yuko:中澤裕子司法書士事務所
+oifig scríobhneoir reachtach nakazawa yuko:中泽裕子司法书士事务所
 oifis consalach bulgaria:保加利亚领事馆
 oifis consalach na gearmailt:德国领事馆
 oifis consalach na grèige:希腊领事馆
 oifis consalach na h-ungair:匈牙利领事馆
 oigny en valois:瓦卢瓦地区瓦尼
-oigon lake:鄂依貢湖
+oigon lake:鄂依贡湖
 oihanetako aintzira:伍茲湖
-oii chinese:國際陰陽人組織中文版
+oii chinese:国际阴阳人组织中文版
 oiing:阿灵
 oikawa station:笈川站
 oike street:御池通
@@ -455,11 +435,11 @@ oil and hydrocarbon:油和烃
 oil and industry university:油与工业大学
 oil and iron ore:油和铁矿
 oil and its fraction:油和它的分数
-oil and jungle:油和叢林
+oil and jungle:油和丛林
 oil and kerosene:油和煤油
 oil and less than:油和小于
 oil and life:油和生活
-oil and light crude oil:油和輕質原油
+oil and light crude oil:油和轻质原油
 oil and liquefied natural gas export:油和液化天然气出口
 oil and liquefied natural gas exports:油和液化天然气出口
 oil and liquefied natural gas:油和液化天然气
@@ -482,12 +462,11 @@ oil and natural gas production:油和天然气生产
 oil and natural gas resources:油和天然气资源
 oil and natural gas:油与天然气
 oil and natural gas:油和天然气
-oil and natural gas:油和天然氣
 oil and natural-gas peak:油和天然气峰值
 oil and new york oil:油和纽约油
 oil and oil products:油和油产品
 oil and oil:油和油
-oil and olive oil:油和橄欖油
+oil and olive oil:油和橄榄油
 oil and paint:油和油漆
 oil and palm oil:油和棕榈油
 oil and palm oil:油和棕櫚油
@@ -584,7 +563,7 @@ oil by:油被
 oil cake:油蛋糕
 oil can be:油可以成为
 oil can help:油可以帮助
-oil can:油壺
+oil can:油壶
 oil cancer treatment:油癌症治疗
 oil cancer:油癌症
 oil cannot mix:油不能混合
@@ -592,7 +571,6 @@ oil cannot:油不能
 oil cap:油帽
 oil capacity:油容量
 oil capsule:油胶囊
-oil capsule:油膠囊
 oil carbonization:油碳化
 oil cargo:油货物
 oil certification:油认证
@@ -612,7 +590,7 @@ oil coal:油煤
 oil cold:油冷
 oil color:油颜色
 oil column:油柱
-oil columnist:油專欄作家
+oil columnist:油专栏作家
 oil combustion:油燃烧
 oil come from:油来自
 oil come:油来
@@ -623,7 +601,7 @@ oil company agree:油公司同意
 oil company and russia:油公司与俄罗斯
 oil company employees:油公司员工
 oil company royal:油公司皇家
-oil company to china:油公司到中國
+oil company to china:油公司到中国
 oil company:油公司
 oil company:石油公司
 oil compounds:油化合物
@@ -654,7 +632,7 @@ oil cost:油成本
 oil costs:油成本
 oil could:油能
 oil cover:油覆盖
-oil creek state park:油溪州立公園
+oil creek state park:油溪州立公园
 oil crisis:油危机
 oil cup:油杯
 oil customer:油客户
@@ -667,7 +645,7 @@ oil demand growth:油需求增长
 oil demand:油需求
 oil density:油密度
 oil dependence:油依赖
-oil depot (dashu):油庫
+oil depot (dashu):油库
 oil depot:油仓库
 oil development project:油开发项目
 oil development:油发展
@@ -677,7 +655,7 @@ oil diffusion:油扩散
 oil dilution:油稀释
 oil discovery:油发现
 oil dissolve:油溶解
-oil drop experiment:油滴實驗
+oil drop experiment:油滴实验
 oil drug:油药物
 oil drum:油鼓
 oil economy:油经济
@@ -699,7 +677,7 @@ oil ester:油酯
 oil etc:油等等
 oil eventually became:油最终成为
 oil eventually:油最终
-oil exhibition hall:石油展示館
+oil exhibition hall:石油展示馆
 oil exist:油存在
 oil expansion:油扩张
 oil export loss:油出口损失
@@ -741,7 +719,7 @@ oil field history research:油田历史研究
 oil field history:油田历史
 oil field if it:油田如果它
 oil field is located in:油田位于
-oil field maintenance:油田維護
+oil field maintenance:油田维护
 oil field material:油田材料
 oil field metal:油田金属
 oil field or oil field:油田或油田
@@ -824,7 +802,7 @@ oil independence:油独立
 oil industry:油工业
 oil infrastructure:油基础设施
 oil inhibit:油抑制
-oil inspection:油檢驗
+oil inspection:油检验
 oil installation:油安装
 oil into:油进入
 oil investment:油投资
@@ -881,7 +859,7 @@ oil markets:油市场
 oil massage is you:油按摩是你
 oil massage:油按摩
 oil may increase fat:油可以增加脂肪
-oil may offer many:油可以提供許多
+oil may offer many:油可以提供许多
 oil melt:油融化
 oil metal:油金属
 oil method:油方法
@@ -897,7 +875,7 @@ oil needle:油针
 oil needs:油需要
 oil network:油网络
 oil nomination:油提名
-oil noodles:油麵
+oil noodles:油面
 oil not:油不是
 oil now:油现在
 oil odor:油气味
@@ -908,7 +886,7 @@ oil once:油一次
 oil operation:油操作
 oil or air:油或空气
 oil or any other natural resources:油或任何其他自然资源
-oil or base oil:油或基礎油
+oil or base oil:油或基础油
 oil or biodiesel:油或生物柴油
 oil or butter:油或黄油
 oil or cake:油或蛋糕
@@ -952,7 +930,6 @@ oil oxidation:油氧化
 oil paint brand:油彩品牌
 oil paint:油彩
 oil painter:油画家
-oil painter:油畫家
 oil painting administrator:油画管理员
 oil painting also known as:油画也被称为
 oil painting and chinese painting:油画和中国画
@@ -993,11 +970,10 @@ oil palm products:油棕榈产品
 oil palm tree:油棕榈树
 oil palm:油棕榈
 oil paper cable:油纸电缆
-oil paper umbrella:油紙傘
 oil paper umbrella:油纸伞
 oil paper:油纸
 oil particle:油粒子
-oil pastel:粉蠟筆
+oil pastel:粉蜡笔
 oil pen:油笔
 oil per:油每
 oil performance:油性能
@@ -1026,8 +1002,8 @@ oil position:油位置
 oil potato:油马铃薯
 oil presence:油存在
 oil pressure source:油压力源
+oil pressure:油压
 oil pressure:油压力
-oil pressure:油壓
 oil price analysis:油价格分析
 oil price changes:油价格变化
 oil price mechanism:油价格机制
@@ -1101,16 +1077,14 @@ oil recommend:油推荐
 oil red:油红色
 oil reduce:油减少
 oil refers to:油指
-oil refinery (mrt world game station):煉油廠(捷運世運站)
+oil refinery (mrt world game station):炼油厂(捷运世运站)
 oil refinery elem. schl.(exit 4):捷运油厂国小(4号出口)
-oil refinery elem. schl.(exit 4):捷運油廠國小(4號出口)
-oil refinery elementary school metro station:油廠國小站
+oil refinery elementary school metro station:油厂国小站
 oil refinery elementary school:yóu chǎng guó xiǎo
 oil refinery elementary school:油厂国小
-oil refinery elementary school:油廠國小
-oil refinery kindergarten:煉油廠幼兒園
-oil refinery:中油灌裝工場
-oil refinery:煉油廠
+oil refinery kindergarten:炼油厂幼儿园
+oil refinery:中油灌装工场
+oil refinery:炼油厂
 oil refining capacity:油精炼能力
 oil refining:油精炼
 oil reforms:油改革
@@ -1124,7 +1098,7 @@ oil requirements:油需求
 oil research:油研究
 oil reserves in iran:伊朗石油
 oil reserves in nigeria:尼日利亚石油储量
-oil reserves:石油儲量
+oil reserves:石油储量
 oil reservoir culture park:文化储备基地
 oil resource:油资源
 oil resources:油资源
@@ -1154,7 +1128,6 @@ oil sands export:油砂出口
 oil sands exports:油砂出口
 oil sands facilities:油砂设施
 oil sands innovation:油砂创新
-oil sands innovation:油砂創新
 oil sands investment:油砂投资
 oil sands investments:油砂投资
 oil sands market:油砂市场
@@ -1172,14 +1145,12 @@ oil sands system:油砂系统
 oil sands trust:油砂信托
 oil sands work:油砂工作
 oil sands:油砂
-oil saw:油鋸
 oil saw:油锯
 oil say:油说
 oil scandal:油丑闻
 oil secretion:油分泌物
 oil security:油安全
 oil seed:油种子
-oil seed:油種子
 oil sell:油出售
 oil sensor:油传感器
 oil separate:油分离
@@ -1187,12 +1158,11 @@ oil series products:油系列产品
 oil series:油系列
 oil service:油服务
 oil services:油服务
-oil shale economics:油頁岩經濟學
+oil shale economics:油页岩经济学
 oil shale gas:油页岩气
 oil shale in china:中华人民共和国油页岩
 oil shale industry:油页岩工业
-oil shale reserves:油頁岩儲量
-oil shale:油頁岩
+oil shale reserves:油页岩储量
 oil shale:油页岩
 oil share:油分享
 oil ship:油船
@@ -1201,7 +1171,6 @@ oil should cover:油应该覆盖
 oil show:油显示
 oil six:油六
 oil smoke:油烟
-oil smoke:油煙
 oil smuggling:油走私
 oil snow:油雪
 oil socialism:油社会主义
@@ -1227,9 +1196,7 @@ oil stock:油股票
 oil stop:油停止
 oil stream:油流
 oil street public toilet:油街公厕
-oil street public toilet:油街公廁
 oil street sitting-out area:油街休憩处
-oil street sitting-out area:油街休憩處
 oil street:油街
 oil substance:油物质
 oil summit:油首脑会议
@@ -1238,12 +1205,11 @@ oil supply chain:油供应链
 oil support:油支持
 oil syndrome:油症候群
 oil synthesis:油合成
-oil system:油系統
 oil system:油系统
 oil systems and control:油系统和控制
 oil systems:油系统
 oil tank road:油缸路
-oil tanker:油輪
+oil tanker:油轮
 oil tar:油焦油
 oil target:油目标
 oil tax:油稅
@@ -1295,7 +1261,6 @@ oil usually:油通常
 oil vacuum pump:油真空泵
 oil vacuum:油真空
 oil vapor:油蒸气
-oil vapor:油蒸氣
 oil very:油非常
 oil vessel:油船
 oil video:油视频
@@ -1367,94 +1332,80 @@ oil-well cement:油井水泥
 oil-well steel:油井钢
 oil:油
 oilbird:油鸱
-oileanóigh:伊利諾州
 oileanóigh:伊利诺伊州
-oileides:盲弄蝶屬
+oileanóigh:伊利诺州
+oileides:盲弄蝶属
+oileáin bhriotanacha na maighdean:英属处女群岛
+oileáin bhriotanacha na maighdean:英属维京群岛
 oileáin bhriotanacha na maighdean:英属维尔京群岛
-oileáin bhriotanacha na maighdean:英属维尔京群岛 / 英屬維京群島
-oileáin bhriotanacha na maighdean:英屬維京群島
-oileáin bhriotanacha na maighdean:英屬維爾京群島
-oileáin bhriotanacha na maighdean:英屬處女群島
+oileáin bhriotanacha na maighdean:英属维尔京群岛 / 英属维京群岛
 oileáin cayman:开曼群岛
-oileáin cayman:开曼群岛 / 開曼群島
-oileáin cayman:開曼群島
+oileáin cayman:开曼群岛 / 开曼群岛
 oileáin chomóra:kēmóluò
 oileáin chomóra:科摩罗
 oileáin chomóra:科摩罗 / 葛摩 / 科摩洛
 oileáin chomóra:葛摩
 oileáin chomóra:葛摩 / 科摩洛
 oileáin chúiríl:千岛群岛
-oileáin chúiríl:千島群島
 oileáin cook:库克群岛
-oileáin cook:库克群岛 / 庫克群島
-oileáin cook:庫克群島
-oileáin cook:曲克群島
+oileáin cook:库克群岛 / 库克群岛
+oileáin cook:曲克群岛
 oileáin fharó:fǎluóqúndǎo
 oileáin fharó:法罗群岛
-oileáin fharó:法罗群岛 / 法羅群島
-oileáin fharó:法羅群島
+oileáin fharó:法罗群岛 / 法罗群岛
 oileáin fháclainne:福克兰群岛
-oileáin fháclainne:福克兰群岛 / 福克蘭群島
-oileáin fháclainne:福克蘭群島
-oileáin marshall:馬紹爾群島
+oileáin fháclainne:福克兰群岛 / 福克兰群岛
 oileáin marshall:马绍尔群岛
-oileáin marshall:马绍尔群岛 / 馬紹爾群島
+oileáin marshall:马绍尔群岛 / 马绍尔群岛
 oileáin mhaildíve:mǎěrdàifū
-oileáin mhaildíve:馬爾代夫
-oileáin mhaildíve:馬爾地夫
 oileáin mhaildíve:马尔代夫
-oileáin mhaildíve:马尔代夫/馬爾地夫
+oileáin mhaildíve:马尔代夫/马尔地夫
+oileáin mhaildíve:马尔地夫
 oileáin mhuir niocht:海峡群岛
-oileáin mhuir niocht:海峽群島
-oileáin na dturcach agus caicos:土克凱可群島
-oileáin na dturcach agus caicos:土克凱可群島 / 特克斯和凱科斯群島
+oileáin na dturcach agus caicos:土克凱可群岛
+oileáin na dturcach agus caicos:土克凱可群岛 / 特克斯和凱科斯群岛
+oileáin na dturcach agus caicos:特克斯与凱科斯群岛
 oileáin na dturcach agus caicos:特克斯和凯科斯群岛
-oileáin na dturcach agus caicos:特克斯和凱科斯群島
-oileáin na dturcach agus caicos:特克斯與凱科斯群島
-oileáin na gcócónna:科科斯（基林）群島
+oileáin na dturcach agus caicos:特克斯和凱科斯群岛
+oileáin na gcócónna:科科斯（基林）群岛
 oileáin sholaimh:所罗门群岛
-oileáin sholaimh:所罗门群岛 / 索羅門群島
-oileáin sholaimh:所羅門群島
-oileáin sholaimh:索羅門群島
+oileáin sholaimh:所罗门群岛 / 索罗门群岛
+oileáin sholaimh:索罗门群岛
 oileáin sholamón:所罗门群岛
-oileáin sholamón:所羅門群島
-oileáin sholamón:索羅門群島
+oileáin sholamón:索罗门群岛
 oileáin tócalá:托克劳
-oileáin tócalá:托克劳 / 托克勞
-oileáin tócalá:托克勞
+oileáin tócalá:托克劳 / 托克劳
 oileáin Åland:奥兰群岛
-oileán arainn:亞蘭島
-oileán arainn:阿倫島
-oileán baoi:德西島
+oileán arainn:亚兰岛
+oileán arainn:阿伦岛
+oileán baoi:德西岛
 oileán cheap bhreatainn:布雷顿角岛
-oileán mhanann:曼島
-oileán mhanann:馬恩島
+oileán mhanann:曼岛
 oileán mhanann:马恩岛
-oileán mhanann:马恩岛 / 曼島
+oileán mhanann:马恩岛 / 曼岛
 oileán mhuirís:máolǐqiúsī
 oileán mhuirís:模里西斯
 oileán mhuirís:毛厘士
 oileán mhuirís:毛里求斯
 oileán mhuirís:毛里求斯 / 模里西斯
-oileán na deascabhála:亞森松島
+oileán na deascabhála:亚森松岛
 oileán na deascabhála:阿森松岛
 oileán na nollag:圣诞岛
-oileán na nollag:圣诞岛 / 聖誕島
-oileán na nollag:聖誕島
-oileán na tríonóide agus tobága:千里達及托巴哥
+oileán na nollag:圣诞岛 / 圣诞岛
+oileán na tríonóide agus tobága:千里达及托巴哥
 oileán na tríonóide agus tobága:特立尼达和多巴哥
-oileán na tríonóide agus tobága:特立尼达和多巴哥 / 千里達及托巴哥
+oileán na tríonóide agus tobága:特立尼达和多巴哥 / 千里达及托巴哥
 oileán norfolk:诺福克岛
 oileán pitcairn:皮特凯恩群岛
-oileán pitcairn:皮特凯恩群岛 / 皮特肯群島
-oileán pitcairn:皮特肯群島
+oileán pitcairn:皮特凯恩群岛 / 皮特肯群岛
+oileán pitcairn:皮特肯群岛
 oileán róide:罗得岛州
-oileán róide:羅德島州
-oileán theas:南島
-oileán thuaidh:北島
-oileán trakai caisleán:特拉凱島城堡
+oileán róide:罗德岛州
+oileán theas:南岛
+oileán thuaidh:北岛
+oileán trakai caisleán:特拉凱岛城堡
 oilfield no.11 primary school:清丰县油田第十一小学
-oilfish:棘鱗蛇鯖
+oilfish:棘鳞蛇鯖
 oilthigh dhùn Èideann:爱丁堡大学gs校区
 oilthigh harvard:哈佛大学
 oilthigh obar dheathain:阿伯丁大学
@@ -1464,7 +1415,7 @@ oimaqy qalaşyğy:wōyīmòkè zhèn
 oimaqy qalaşyğy:窝依莫克镇
 oimaqy:wōyīmòkè zhèn
 oimaqy:窝依莫克镇
-oimaqy:窩依莫克鎮
+oimaqy:窩依莫克镇
 oimiakon:奥伊米亚康
 oimiakon:奥依-米亚康
 oimiakonas:奥伊米亚康
@@ -1475,42 +1426,40 @@ oimjakon:奥伊米亚康
 oimjakon:奥依-米亚康
 oimjakona:奥伊米亚康
 oimjakona:奥依-米亚康
-oin junior and senior high school:櫻蔭中學校及高等學校
-oinacu:奧伊納庫鄉
+oin junior and senior high school:櫻荫中学校及高等学校
+oinacu:奧伊纳库乡
 oinam:奥伊纳姆
 oingt:万村
-oinousses:伊努塞斯島
+oinousses:伊努塞斯岛
 ointment base:软膏剂基质
 ointment:软膏剂
-oinu:織田犬
+oinu:织田犬
 oinville saint liphard:万维尔圣利法尔
 oinville sous auneau:万维尔苏索诺
 oinville sur montcient:蒙西扬河畔万维尔
-oio (regio):奧約區
-oio (regioun):奧約區
-oio (regiuun):奧約區
-oio piirkond:奧約區
-oio region:奧約區
-oio:奧約區
-oion alue:奧約區
+oio (regio):奧约区
+oio (regioun):奧约区
+oio (regiuun):奧约区
+oio piirkond:奧约区
+oio region:奧约区
+oio:奧约区
+oion alue:奧约区
 oiqên:外青村
-oira septentrional:北愛爾蘭
 oira septentrional:北爱尔兰
-oira septentrional:北爱尔兰 / 北愛爾蘭
+oira septentrional:北爱尔兰 / 北爱尔兰
 oira:Àiěrlán
-oira:愛爾蘭
-oira:愛爾蘭共和國
 oira:爱尔兰
-oira:爱尔兰 / 愛爾蘭
+oira:爱尔兰 / 爱尔兰
+oira:爱尔兰共和国
 oirase station:追良濑站
 oirase-cho:奥入濑町
 oirase-cho:奧入瀨町
 oirase:奥入濑町
 oirase:奧入瀨町
-oirat confederation:四衛拉特
+oirat confederation:四卫拉特
 oirat language:卫拉特语
 oirats:瓦剌
-oireachtas:愛爾蘭國會
+oireachtas:爱尔兰国会
 oirr ny gaeil as ellan voaid:阿盖尔和比特
 oirschot:奥尔斯霍特
 oirthir Òir:黄金海岸
@@ -1522,9 +1471,9 @@ oiselay et grachaux:瓦斯莱和格拉绍
 oisemont:瓦斯蒙
 oishida-machi:大石田町
 oishida:大石田町
-oishinbo:美味大挑戰
+oishinbo:美味大挑战
 oisilly:瓦西伊
-oisin murphy:莫艾誠
+oisin murphy:莫艾诚
 oiso-machi:大矶町
 oiso-machi:大磯町
 oiso:大矶町
@@ -1532,12 +1481,11 @@ oiso:大磯町
 oisseau:瓦索
 oissel:瓦塞勒
 oissery:瓦斯里
-oisterwijk:奧斯特韋克
+oisterwijk:奧斯特韦克
 oistins:奥伊斯廷斯
 oisy le verger:瓦西勒韦尔热
 oita airport:大分机场
-oita airport:大分機場
-oita art museum:大分市美術館
+oita art museum:大分市美术馆
 oita asahi broadcasting:大分朝日放送
 oita bank:大分银行
 oita broadcasting system:大分放送
@@ -1549,40 +1497,37 @@ oita miyoshi weisse adler:大分三好白鷲
 oita prefectural college of arts and culture:大分县立艺术文化短期大学
 oita prefecture:dàfēn xiàn
 oita prefecture:大分县
-oita prefecture:大分縣
-oita stadium:大分體育場
+oita stadium:大分体育场
 oita station:大分站
 oita station:大板站
 oita trinita:大分三神
 oita university:大分大学
-oita university:大分大學
 oita works:大分工厂
 oita-ken:大分县
-oita-ken:大分縣
 oita:大分
 oita:大分市
 oita:大板
-oitakenou airport:大分縣央飛行場
-oitama station:置賜站
+oitakenou airport:大分县央飞行场
+oitama station:置赐站
 oitang:卫通村
 oitau qalaşyğy:àoyītǎkè zhèn
 oitau qalaşyğy:奥依塔克镇
-oitau qalaşyğy:奧依塔克鎮
+oitau qalaşyğy:奧依塔克镇
 oitau:àoyītǎkè zhèn
 oitau:奥依塔克镇
-oitau:奧依塔克鎮
-oitekaze stable:追手風部屋
+oitau:奧依塔克镇
+oitekaze stable:追手风部屋
 oithonidae:长腹剑水蚤科
 oitsu station:老津站
-oituz:奧伊圖茲鄉
+oituz:奧伊图茲乡
 oitz:奥伊斯
-oiwahpawn:靄華押業
+oiwahpawn:靄华押业
 oiwake station:追分站
 oiwake:追分
 oiwakeguchi station:追分口站
 oix:奥什
 oix:奧什
-oiyl district:奧伊爾區
+oiyl district:奧伊尔区
 oiz:奧茲山
 oizon:瓦宗
 oizumi-machi:大泉町

@@ -11,7 +11,7 @@ ox eat:牛吃
 ox eskualdea:奥什州
 ox eye daisy:春白菊
 ox gallstone:牛胆结石
-ox head and horse face:牛頭馬面
+ox head and horse face:牛头马面
 ox head:牛头
 ox heart:牛心
 ox heart:牛心山
@@ -21,7 +21,7 @@ ox leg:牛腿
 ox meat:牛肉
 ox mountain:牛山
 ox or donkey:牛或驴
-ox orchids:牛記蘭花農場
+ox orchids:牛记兰花农场
 ox road:牛路
 ox roast:牛烤
 ox skull:牛头骨
@@ -32,11 +32,10 @@ ox tales:肥牛牛布斯
 ox team:牛队
 ox together:牛一起
 ox tongue pastry:牛脷酥
-ox tongue spear:牛舌槍
+ox tongue spear:牛舌枪
 ox tongue specialty store:利久
 ox tongue:牛舌
 ox warehouse:牛房仓库
-ox warehouse:牛房倉庫
 ox whip:牛鞭
 ox year:牛年
 ox:奥什
@@ -47,7 +46,7 @@ oxabolone cipionate:氧宝龙环戊丙酸酯
 oxabolone:氧宝龙
 oxacephem:氧头孢烯
 oxacillin:苯唑西林
-oxalaia:奧沙拉龍屬
+oxalaia:奧沙拉龙属
 oxalate concentration:草酸盐浓度
 oxalate crystal:草酸盐晶体
 oxalate vegetable:草酸盐蔬菜
@@ -58,7 +57,7 @@ oxalic acid and sulfuric acid:草酸和硫酸
 oxalic acid or malonic acid:草酸或丙二酸
 oxalic acid:草酸
 oxalic anhydride:乙二酸酐
-oxalidaceae:酢漿草科
+oxalidaceae:酢浆草科
 oxalidales:酢浆草目
 oxaliplatin:奥沙利铂
 oxalis acetosella:白花酢浆草
@@ -70,10 +69,10 @@ oxalis obtusa:棱茎酢浆草
 oxalis pes caprae:黄花酢浆草
 oxalis stricta:直酢浆草
 oxalis triangularis:南美三角酢浆草
-oxalis tuberosa:酢漿薯
+oxalis tuberosa:酢浆薯
 oxalis violacea:堇色酢浆草
-oxalis:酢漿草屬
-oxaloacetate decarboxylase:草醯乙酸脫羧酶
+oxalis:酢浆草属
+oxaloacetate decarboxylase:草醯乙酸脱羧酶
 oxaloacetic acid:草酰乙酸
 oxalobacter:草酸杆菌属
 oxalobacteraceae:草酸杆菌科
@@ -82,41 +81,41 @@ oxalosuccinic acid:草酰琥珀酸
 oxalyl chloride:乙二酰氯
 oxalyl fluoride:草酰氟
 oxalyldiaminopropionic acid:草酰二氨基丙酸
-oxamarca district:奧克薩馬爾卡區
+oxamarca district:奧克萨马尔卡区
 oxamic acid:草氨酸
 oxamide:乙二酰二胺
-oxamitne:奧克薩米特涅
+oxamitne:奧克萨米特涅
 oxamniquine:奥沙尼喹
 oxamyl:杀线威
 oxandrolone:氧雄龙
 oxanorbornadiene:氧杂降冰片二烯
-oxansk:奧漢斯克
-oxapampa district:奧克薩潘帕區
-oxapampa province:奧克薩潘帕省
-oxapampa:奧克薩潘帕
+oxansk:奧汉斯克
+oxapampa district:奧克萨潘帕区
+oxapampa province:奧克萨潘帕省
+oxapampa:奧克萨潘帕
 oxararfoss parking - p2 fossplan:辛格维利上车地点（parking 2）
 oxayo:俄亥俄州
 oxazepam:奥沙西泮
 oxazepine:氧杂氮杂环庚三烯
-oxaziridine:氧氮環丙烷
+oxaziridine:氧氮环丙烷
 oxazolam:奥沙唑仑
-oxazole:噁唑
-oxazolidine:噁唑烷
-oxazolidinedione:噁唑烷二酮
-oxazoline:噁唑啉
+oxazole:恶唑
+oxazolidine:恶唑烷
+oxazolidinedione:恶唑烷二酮
+oxazoline:恶唑啉
 oxbow lake:河迹湖
-oxbridge.consulting.inc:津橋留學
-oxbridge:牛橋
+oxbridge.consulting.inc:津桥留学
+oxbridge:牛桥
 oxcarbazepine patients:奥卡西平病人
 oxcarbazepine:奥卡西平
-oxepin:噁庚因
+oxepin:恶庚因
 oxetacaine:奥昔卡因
 oxetane:氧杂环丁烷
 oxetene:氧环丁烯
-oxfam and world:樂施會和世界
-oxfam report:樂施會報告
-oxfam scandal:樂施會醜聞
-oxfam:樂施會
+oxfam and world:乐施会和世界
+oxfam report:乐施会报告
+oxfam scandal:乐施会丑闻
+oxfam:乐施会
 oxford academy:牛津大学学院
 oxford academy:牛津学院
 oxford accent:牛津口音
@@ -124,7 +123,6 @@ oxford accept:牛津大学接受
 oxford advanced learner's dictionary:牛津高阶英语词典
 oxford advanced learner's english chinese dictionary:牛津高阶英汉双解词典
 oxford airport:牛津机场
-oxford airport:牛津機場
 oxford alumni:牛津大学校友
 oxford alumni:牛津校友
 oxford american:牛津美国人
@@ -141,7 +139,6 @@ oxford and cambridge education:牛津和剑桥教育
 oxford and cambridge university:牛津大学和剑桥大学
 oxford and cambridge:牛津与剑桥
 oxford and cambridge:牛津和剑桥
-oxford and cambridge:牛津和劍橋
 oxford and exeter:牛津和埃克塞特
 oxford and genzyme:牛津和健赞
 oxford and hebrew university:牛津大学和希伯来大学
@@ -176,9 +173,9 @@ oxford blockchain:牛津区块链
 oxford blockchain:牛津大学区块链
 oxford boat:牛津船
 oxford books:牛津书
-oxford bookstore:牛津書店
+oxford bookstore:牛津书店
 oxford boss:牛津老板
-oxford brookes university:牛津布魯克斯大學
+oxford brookes university:牛津布鲁克斯大学
 oxford building:牛津建筑
 oxford business:牛津商业
 oxford cambridge:牛津剑桥
@@ -194,9 +191,9 @@ oxford castle and prison:牛津城堡和监狱
 oxford castle:牛津城堡
 oxford catalyst:牛津催化剂
 oxford cease:牛津停止
-oxford centre for buddhist studies:牛津大學佛教研究中心
-oxford centre for hebrew and jewish studies:牛津大學希伯來及猶太研究中心
-oxford centre for islamic studies:牛津大學伊斯蘭研究中心
+oxford centre for buddhist studies:牛津大学佛教研究中心
+oxford centre for hebrew and jewish studies:牛津大学希伯来及犹太研究中心
+oxford centre for islamic studies:牛津大学伊斯兰研究中心
 oxford centre:牛津中心
 oxford chair:牛津椅子
 oxford chapter:牛津章
@@ -206,7 +203,7 @@ oxford children's hospital:牛津儿童医院
 oxford china forum:牛津中国论坛
 oxford china:牛津中国
 oxford china:牛津大学中国
-oxford circus tube station:牛津圓環站
+oxford circus tube station:牛津圆环站
 oxford circus:牛津圆环
 oxford circus:牛津马戏
 oxford citizens:牛津公民
@@ -214,12 +211,11 @@ oxford city centre:牛津市中心
 oxford city council:牛津市政委员会
 oxford city council:牛津市议会
 oxford city:牛津城市
-oxford classical dictionary:牛津古典詞典
 oxford classical dictionary:牛津古典词典
 oxford classical text:牛津古典文本
 oxford classical texts:牛津古典文本
 oxford classical:牛津古典
-oxford clay:牛津泥層
+oxford clay:牛津泥层
 oxford clay:牛津粘土
 oxford clay:牛津黏土
 oxford climate:牛津大学气候
@@ -231,11 +227,10 @@ oxford college of emory university:埃默里大学牛津学院
 oxford college summer school:牛津学院暑期学校
 oxford college:牛津大学学院
 oxford college:牛津学院
-oxford college:牛津學院
-oxford college:理學堂大書院
+oxford college:理学堂大书院
 oxford colour:牛津颜色
-oxford comma:牛津逗號
-oxford commercial building:晉利商業大廈
+oxford comma:牛津逗号
+oxford commercial building:晋利商业大厦
 oxford community:牛津大学社区
 oxford community:牛津社区
 oxford companion:牛津伴侣
@@ -245,7 +240,7 @@ oxford continue:牛津大学继续
 oxford corpus:牛津语料库
 oxford corridor:牛津走廊
 oxford county:牛津县
-oxford court:豐林閣
+oxford court:丰林阁
 oxford crown court:牛津皇室法院
 oxford culture:牛津文化
 oxford data:牛津大学数据
@@ -254,17 +249,15 @@ oxford debate:牛津辩论
 oxford definition:牛津定义
 oxford democracy:牛津民主
 oxford dictionary define:牛津词典定义
-oxford dictionary of byzantium:牛津拜占庭辭典
+oxford dictionary of byzantium:牛津拜占庭辞典
 oxford dictionary of english:新牛津英语词典
 oxford dictionary online:牛津词典在线
-oxford dictionary website:牛津詞典網站
-oxford dictionary:牛津詞典
+oxford dictionary website:牛津词典网站
 oxford dictionary:牛津词典
-oxford diocese:牛津教區
+oxford diocese:牛津教区
 oxford dodo:牛津渡渡鸟
-oxford east:牛津東
+oxford east:牛津东
 oxford economics:牛津大学经济学
-oxford economics:牛津經濟學
 oxford economics:牛津经济学
 oxford economist paul:牛津经济学家保罗
 oxford economist simon:牛津大学经济学家西蒙
@@ -280,7 +273,6 @@ oxford energy:牛津大学能源
 oxford energy:牛津能源
 oxford english academy:牛津英语学院
 oxford english corpus:牛津英语语料库
-oxford english dictionary:牛津英語詞典
 oxford english dictionary:牛津英语词典
 oxford english reference dictionary:牛津英语参考词典
 oxford english:牛津英语
@@ -290,7 +282,7 @@ oxford evidence-based medicine center:牛津循证医学中心
 oxford evidence-based medicine:牛津循证医学
 oxford exam:牛津考试
 oxford eye:牛津眼
-oxford factory:牛津工廠
+oxford factory:牛津工厂
 oxford finance:牛津金融
 oxford fintech:牛津金融科技
 oxford flood:牛津洪水
@@ -298,7 +290,7 @@ oxford friend:牛津朋友
 oxford friends:牛津朋友
 oxford function:牛津大学功能
 oxford futurist:牛津大学未来学家
-oxford garden:晉利花園
+oxford garden:晋利花园
 oxford gazette:牛津公报
 oxford gene:牛津基因
 oxford geneticist:牛津大学遗传学家
@@ -312,11 +304,11 @@ oxford harry potter:牛津哈利波特
 oxford harry:牛津哈利
 oxford has:牛津有
 oxford he:牛津他
-oxford health insurance:牛津健康保險
+oxford health insurance:牛津健康保险
 oxford health plans:牛津健康计划
 oxford health:牛津健康
 oxford health:牛津大学健康
-oxford heights:博林軒
+oxford heights:博林轩
 oxford high school is oxford:牛津中学是牛津
 oxford high school shooting:牛津高中枪击案
 oxford high school:牛津中学
@@ -330,7 +322,6 @@ oxford hospital:牛津医院
 oxford hotel:牛津酒店
 oxford house youth club:牛津房子青年俱乐部
 oxford house:濠丰大厦
-oxford house:濠豐大廈
 oxford house:牛津屋
 oxford house:牛津房子
 oxford housewife:牛津主妇
@@ -338,8 +329,8 @@ oxford i:牛津我
 oxford impacts:牛津影响
 oxford india centre:牛津印度中心
 oxford india:牛津印度
-oxford industrial building:牛津工業大廈
-oxford insurance:牛津保險
+oxford industrial building:牛津工业大厦
+oxford insurance:牛津保险
 oxford international centre:牛津国际中心
 oxford international college of chengdu:牛津国际公学成都学校
 oxford international english schools:牛津国际英语学校
@@ -363,8 +354,8 @@ oxford knee:牛津膝
 oxford know:牛津大学知道
 oxford laboratory:牛津实验室
 oxford lake:牛津湖
-oxford landing wine:牛津著陸葡萄酒
-oxford landing:牛津著陸
+oxford landing wine:牛津著陆葡萄酒
+oxford landing:牛津著陆
 oxford language courses:牛津语言课程
 oxford language school:牛津语言学校
 oxford language:牛津语言
@@ -394,7 +385,7 @@ oxford modern:牛津现代
 oxford mountain:牛津山
 oxford movement was an important:牛津运动是一个重要的
 oxford movement:牛津运动
-oxford murder:牛津謀殺
+oxford murder:牛津谋杀
 oxford museum:牛津博物馆
 oxford museum:牛津大学博物馆
 oxford music online:牛津音乐在线
@@ -407,13 +398,11 @@ oxford offer:牛津提供
 oxford officials:牛津大学官员
 oxford once again:牛津再次
 oxford or cambridge:牛津或剑桥
-oxford or cambridge:牛津或劍橋
 oxford or stratford-upon-avon:牛津或埃文河畔斯特拉特福
 oxford or sydney:牛津或悉尼
 oxford performance:牛津性能
 oxford performance:牛津表演
 oxford philosopher:牛津哲学家
-oxford philosopher:牛津哲學家
 oxford philosopher:牛津大学哲学家
 oxford philosophy professor:牛津大学哲学教授
 oxford philosophy:牛津哲学
@@ -446,7 +435,7 @@ oxford professor william:牛津大学教授威廉
 oxford professor:牛津大学教授
 oxford professor:牛津教授
 oxford project:牛津项目
-oxford psychologist:牛津心理學家
+oxford psychologist:牛津心理学家
 oxford publisher:牛津大学出版社
 oxford railway station:牛津火车站
 oxford railway station:牛津站
@@ -471,7 +460,7 @@ oxford researchers:牛津研究员
 oxford retail:牛津零售
 oxford road corridor:牛津路走廊
 oxford road innovation:牛津路创新
-oxford road playground:牛津道遊樂場
+oxford road playground:牛津道游乐场
 oxford road station:牛津路站
 oxford road:牛津路
 oxford road:牛津道
@@ -495,7 +484,6 @@ oxford social:牛津社交
 oxford sovereign wealth fund:牛津主权财富基金
 oxford spectrometer:牛津光谱仪
 oxford spelling:牛津拼写
-oxford spelling:牛津拼寫
 oxford spokesman:牛津大学发言人
 oxford spokesperson:牛津大学发言人
 oxford stage:牛津大学阶段
@@ -505,12 +493,12 @@ oxford street and bond:牛津街和邦德
 oxford street and camden:牛津街和卡姆登
 oxford street and past:牛津街和过去的
 oxford street and regent street:牛津街和摄政街
-oxford street and regent:牛津街和攝政
+oxford street and regent:牛津街和摄政
 oxford street at that:牛津街在那
 oxford street attack:牛津街攻击
 oxford street dance:牛津街舞
 oxford street in london:牛津街在伦敦
-oxford street paddington:牛津街帕丁頓
+oxford street paddington:牛津街帕丁顿
 oxford street to park:牛津街到公园
 oxford street will need:牛津街将需要
 oxford street:牛津街
@@ -536,12 +524,11 @@ oxford team:牛津大学团队
 oxford too:牛津大学也
 oxford tools:牛津工具
 oxford town hall:牛津市政厅
-oxford township:牛津鎮區
 oxford township:牛津镇区
 oxford train station:牛津火车站
 oxford transport:牛津运输
 oxford union:牛津大学联盟
-oxford union:牛津大學辯論社
+oxford union:牛津大学辩论社
 oxford union:牛津联盟
 oxford university and bolton university:牛津大学和博尔顿大学
 oxford university and harvard medical school:牛津大学和哈佛医学院
@@ -557,47 +544,41 @@ oxford university cannabis research plan:牛津大学大麻研究计划
 oxford university cannabis:牛津大学大麻
 oxford university climate scientist:牛津大学气候科学家
 oxford university climate:牛津大学气候
-oxford university climate:牛津大學氣候
 oxford university college:牛津大学学院
 oxford university department:牛津大学部门
 oxford university economist paul:牛津大学经济学家保罗
 oxford university economist:牛津大学经济学家
 oxford university english language:牛津大学英语
 oxford university geneticist:牛津大学遗传学家
-oxford university graduate:牛津大學畢業生
+oxford university graduate:牛津大学毕业生
 oxford university hospital:牛津大学医院
 oxford university innovation fund:牛津大学创新基金
 oxford university innovation:牛津大学创新
 oxford university is located in oxford:牛津大学位于牛津
 oxford university is located in:牛津大学位于
-oxford university is located in:牛津大學位于
 oxford university library:牛津大学图书馆
-oxford university library:牛津大學圖書館
 oxford university mathematics:牛津大学数学
-oxford university museum of natural history:牛津大學自然史博物館
+oxford university museum of natural history:牛津大学自然史博物馆
 oxford university museum:牛津大学博物馆
 oxford university needs you:牛津大学需要你
 oxford university needs:牛津大学需要
 oxford university neuroscience:牛津大学神经科学
 oxford university philosopher:牛津大学哲学家
-oxford university philosopher:牛津大學哲學家
 oxford university physicist stuart:牛津大学物理学家斯图亚特
 oxford university physicist:牛津大学物理学家
 oxford university physics:牛津大学物理学
-oxford university polo club:牛津大學馬球俱樂部
+oxford university polo club:牛津大学马球俱乐部
 oxford university press agree:牛津大学出版社同意
 oxford university press and cambridge university press:牛津大学出版社和剑桥大学出版社
-oxford university press blog:牛津大學出版社博客
+oxford university press blog:牛津大学出版社博客
 oxford university press core text:牛津大学出版社核心文本
 oxford university press core:牛津大学出版社核心
 oxford university press currently:牛津大学出版社目前
 oxford university press india:牛津大学出版社印度
 oxford university press invite:牛津大学出版社邀请
 oxford university press:牛津大学出版社
-oxford university press:牛津大學出版社
 oxford university professor charles:牛津大学教授查尔斯
 oxford university professor:牛津大学教授
-oxford university professor:牛津大學教授
 oxford university psychiatry professor:牛津大学精神病学教授
 oxford university psychiatry:牛津大学精神病学
 oxford university publication:牛津大学出版物
@@ -615,7 +596,6 @@ oxford university was established in:牛津大学成立于
 oxford university website:牛津大学网站
 oxford university without:牛津大学没有
 oxford university:牛津大学
-oxford university:牛津大學
 oxford vaccine group:牛津疫苗组
 oxford vaccine:牛津疫苗
 oxford vascular:牛津血管
@@ -640,9 +620,9 @@ oxfordshire hydrogen:牛津郡氢
 oxfordshire militia:牛津郡民兵
 oxfordshire secondary school:牛津郡中学
 oxfordshire:牛津郡
-oxhead school:牛頭宗
+oxhead school:牛头宗
 oxia palus quadrangle:奥克夏沼区
-oxia planum:歐克西亞高原
+oxia planum:欧克西亚高原
 oxicam:昔康
 oxidane:水
 oxidase and superoxide dismutase:氧化酶和超氧化物歧化酶
@@ -706,7 +686,7 @@ oxidation functions:氧化功能
 oxidation gas detect:氧化气体检测
 oxidation gas:氧化气体
 oxidation give:氧化给
-oxidation half reaction:氧化半反應
+oxidation half reaction:氧化半反应
 oxidation half:氧化半
 oxidation hypothesis:氧化假说
 oxidation increase:氧化增加
@@ -754,7 +734,6 @@ oxidation reaction and filtration:氧化反应和过滤
 oxidation reaction of white wine:氧化反应的白葡萄酒
 oxidation reaction temperature:氧化反应温度
 oxidation reaction:氧化反应
-oxidation reaction:氧化反應
 oxidation reduction potential:氧化还原电位
 oxidation requirements:氧化要求
 oxidation result:氧化导致
@@ -824,10 +803,10 @@ oxide backplane:氧化物背板
 oxide batteries:氧化物电池
 oxide battery has been:氧化物电池已经
 oxide battery:氧化物电池
-oxide cage:氧化物籠
+oxide cage:氧化物笼
 oxide catalysis:氧化物催化
 oxide catalyst:氧化物催化剂
-oxide cathode:氧化物陰極
+oxide cathode:氧化物阴极
 oxide compound:氧化物化合物
 oxide compounds:氧化物化合物
 oxide comprise:氧化物包括
@@ -862,7 +841,6 @@ oxide materials:氧化物材料
 oxide membrane:氧化物膜
 oxide metal:氧化物金属
 oxide mineral:氧化物矿物
-oxide mineral:氧化物礦物
 oxide mixture:氧化物混合物
 oxide molecules:氧化物分子
 oxide nanoparticle:氧化物纳米颗粒
@@ -892,7 +870,7 @@ oxide shell:氧化物壳
 oxide sphere:氧化物球
 oxide spinel:氧化物尖晶石
 oxide structure:氧化物结构
-oxide superconductor:氧化物超導體
+oxide superconductor:氧化物超导体
 oxide surface layer:氧化物表面层
 oxide surface:氧化物表面
 oxide technology:氧化物技术
@@ -903,27 +881,27 @@ oxide:氧化物
 oxidizing agent:氧化剂
 oxidizing and reducing flames:氧化焰和还原焰
 oxidopamine:羟多巴胺
-oxidoreductase:氧化還原酶
+oxidoreductase:氧化还原酶
 oxidus:酸带马陆属
 oxime:肟
 oxindole:羟吲哚
 oxipurinol:奥昔嘌醇
 oxiracetam:奥拉西坦
 oxirene:环氧乙烯
-oxna:奧克斯納島
+oxna:奧克斯纳岛
 oxnaford:牛津
 oxnafordsċīr:牛津郡
-oxnard plain:奧克斯納德平原
+oxnard plain:奧克斯纳德平原
 oxnard:奥克斯纳德
-oxnard:奧克斯納德
+oxnard:奧克斯纳德
 oxobacter:产醋杆菌属
 oxocarbon:碳氧化物
 oxoglutarate dehydrogenase complex:酮戊二酸脱氢酶复合体
 oxohalide:卤氧化物
 oxomemazine:奥索马嗪
 oxonia:牛津
-oxonine:噁環壬四烯
-oxophilicity:親氧力
+oxonine:恶环壬四烯
+oxophilicity:亲氧力
 oxotremorine:氧化震颤素
 oxpecker:牛椋鸟属
 oxtail soup:牛尾汤
@@ -932,30 +910,30 @@ oxted:奥克斯特德
 oxudercidae:背眼虾虎鱼科
 oxum:奥孙州
 oxus civilization:阿姆河文明
-oxus treasure:阿姆河寶藏
+oxus treasure:阿姆河宝藏
 oxus:阿姆河
-oxxxymiron:奧克西米龍
+oxxxymiron:奧克西米龙
 oxy fuel welding and cutting:气焊和气割
 oxya chinensis:中华稻蝗
 oxya:稻蝗属
 oxyacid:含氧酸
-oxyaena:牛鬣獸
-oxyaenidae:牛鬣獸科
+oxyaena:牛鬣兽
+oxyaenidae:牛鬣兽科
 oxyanion hole:负氧离子洞
 oxyartes:奧克夏特斯
-oxyathres of persia:波斯的歐克西亞提斯
+oxyathres of persia:波斯的欧克西亚提斯
 oxybasis chenopodioides:合被藜
 oxybasis glauca:灰绿藜
 oxybasis rubra:红叶藜
 oxybasis urbica:市藜
-oxybeles:銳箭弩
-oxybelis fulgidus:綠蔓蛇
-oxybelis:蔓蛇屬
-oxybutynin:奧昔布寧
+oxybeles:锐箭弩
+oxybelis fulgidus:绿蔓蛇
+oxybelis:蔓蛇属
+oxybutynin:奧昔布宁
 oxycarenidae:尖长蝽科
 oxycarenus:尖长蝽属
 oxycation:含氧阳离子
-oxycheilinus bimaculatus:雙斑尖唇魚
+oxycheilinus bimaculatus:双斑尖唇鱼
 oxycheilinus mentalis:侧斑唇鱼
 oxycholesterol:羟胆甾醇
 oxycodone and codeine:羟考酮和可待因
@@ -967,13 +945,13 @@ oxycodone and morphine:羟考酮和吗啡
 oxycodone use:羟考酮使用
 oxycodone vaccine:羟考酮疫苗
 oxycodone:羟考酮
-oxyconger leptognathus:狹頜海鰻
-oxydactylus:尖足駝屬
-oxydendrum:酸模樹
-oxydoras kneri:克氏尖陶樂鯰
-oxydoras niger:黑體尖陶樂鯰
-oxydoras sifontesi:西氏尖陶樂鯰
-oxyeleotris marmorata:斑駁尖塘鱧
+oxyconger leptognathus:狭頜海鳗
+oxydactylus:尖足驼属
+oxydendrum:酸模树
+oxydoras kneri:克氏尖陶乐鲶
+oxydoras niger:黑体尖陶乐鲶
+oxydoras sifontesi:西氏尖陶乐鲶
+oxyeleotris marmorata:斑驳尖塘鱧
 oxyeleotris:尖塘鳢属
 oxyfedrine:奥昔非君
 oxygaster anomalura:小尖腹鯿
@@ -1040,7 +1018,7 @@ oxygen begin:氧开始
 oxygen binding site:氧结合位点
 oxygen breathing:氧呼吸
 oxygen bridge:氧桥
-oxygen burning process:氧燃燒過程
+oxygen burning process:氧燃烧过程
 oxygen cabin:氧舱
 oxygen cannot:氧不能
 oxygen capacity:氧容量
@@ -1056,16 +1034,16 @@ oxygen concentration monitor:氧浓度监视器
 oxygen concentration range:氧浓度范围
 oxygen concentration with elevation:氧浓度与海拔
 oxygen concentration:氧浓度
-oxygen concentrator:製氧機
+oxygen concentrator:制氧机
 oxygen conditions:氧条件
 oxygen consumption:氧消费
-oxygen control system:氧控制系統
+oxygen control system:氧控制系统
 oxygen control:氧控制
 oxygen core:氧核心
 oxygen corrosion:氧腐蚀
 oxygen crises:氧危机
 oxygen cutting:氧切割
-oxygen cycle:氧循環
+oxygen cycle:氧循环
 oxygen data:氧数据
 oxygen demand:氧需求
 oxygen density surface:氧密度表面
@@ -1102,7 +1080,7 @@ oxygen functions:氧功能
 oxygen fusion:氧融合
 oxygen gas:氧燃气
 oxygen gradient:氧梯度
-oxygen green party:氧氣綠黨
+oxygen green party:氧气绿党
 oxygen group:氧组
 oxygen hurt:氧伤害
 oxygen hydrogen:氧氢
@@ -1159,13 +1137,12 @@ oxygen point:氧点
 oxygen poisoning:氧中毒
 oxygen pollution:氧污染
 oxygen power fitness club:氧动力健身俱乐部
-oxygen power fitness club:氧動力健身俱樂部
 oxygen pressure:氧压力
 oxygen problems:氧问题
 oxygen product:氧产品
 oxygen production:氧产品
 oxygen products:氧产品
-oxygen project:氧氣計劃
+oxygen project:氧气计划
 oxygen project:氧项目
 oxygen purity:氧纯度
 oxygen rather than air:氧而不是空气
@@ -1179,7 +1156,7 @@ oxygen requirement:氧需求
 oxygen requirements:氧需求
 oxygen rocket engine:氧火箭发动机
 oxygen safety:氧安全
-oxygen scavenger:脫氧劑
+oxygen scavenger:脱氧剂
 oxygen sensitive part:氧敏感部分
 oxygen sensitive:氧敏感
 oxygen sensor connect:氧传感器连接
@@ -1200,7 +1177,7 @@ oxygen systems:氧系统
 oxygen tank explosion:氧气瓶爆炸
 oxygen tank transport:氧气瓶运输
 oxygen tank:氧气瓶
-oxygen therapy:氧療
+oxygen therapy:氧疗
 oxygen three:氧三
 oxygen through:氧通过
 oxygen toxicity:氧气中毒
@@ -1222,17 +1199,17 @@ oxygen-breathing species:氧呼吸物种
 oxygen-sensitive toxin:氧敏感毒素
 oxygen:氧
 oxygenase:加氧酶
-oxygenie of happiness:幸福氧氣
+oxygenie of happiness:幸福氧气
 oxygraphis:鸦跖花属
 oxygym:奥美氧舱运动中心
-oxygym:奧美氧艙運動中心
-oxygymnocypris:斯氏尖裸鯉
-oxyhydrogen:氫氧混合氣
+oxygym:奧美氧艙运动中心
+oxygymnocypris:斯氏尖裸鲤
+oxyhydrogen:氢氧混合气
 oxyinae:稻蝗亚科
-oxyjulis:加州灣尖隆頭魚
+oxyjulis:加州湾尖隆头鱼
 oxylaena:针状鼠麹木属
 oxylapia:波氏尖非鯽
-oxylides:尖尾灰蝶屬
+oxylides:尖尾灰蝶属
 oxylidini:尖尾灰蝶族
 oxymatrine:氧化苦参碱
 oxymercuration reaction:羟汞化反应
@@ -1242,61 +1219,61 @@ oxymeris dimidiata:红笋螺
 oxymeris felina:花猫笋螺
 oxymeris maculata:大笋螺
 oxymetazoline:羥甲唑啉
-oxymonad:銳滴蟲目
-oxymoron:矛盾語
-oxymycterus:洞鼠屬
+oxymonad:锐滴虫目
+oxymoron:矛盾语
+oxymycterus:洞鼠属
 oxynaspididae:刺茗荷科
 oxynaspis:刺茗荷属
 oxynitride:氧氮化物
-oxynoemacheilus anatolicus:土耳其尖條鰍
-oxynoemacheilus araxensis:阿拉興尖條鰍
-oxynoemacheilus argyrogramma:雙斑尖條鰍
-oxynoemacheilus atili:艾氏尖條鰍
-oxynoemacheilus banarescui:巴氏尖條鰍
-oxynoemacheilus bergianus:伊朗尖條鰍
-oxynoemacheilus bureschi:柏氏尖條鰍
-oxynoemacheilus ceyhanensis:傑伊漢尖條鰍
-oxynoemacheilus chomanicus:霍曼尖條鰍
-oxynoemacheilus cinicus:幸河尖條鰍
-oxynoemacheilus cyri:庫拉尖條鰍
-oxynoemacheilus erdali:厄氏尖條鰍
-oxynoemacheilus eregliensis:埃雷利尖條鰍
-oxynoemacheilus evreni:埃氏尖條鰍
-oxynoemacheilus frenatus:韁尖條鰍
-oxynoemacheilus germencicus:蓋爾門哲克尖條鰍
-oxynoemacheilus hamwii:哈維氏尖條鰍
-oxynoemacheilus hazarensis:哈札爾湖尖條鰍
-oxynoemacheilus insignis:磯尖條鰍
-oxynoemacheilus kaynaki:卡氏尖條鰍
-oxynoemacheilus kiabii:凱氏尖條鰍
-oxynoemacheilus kosswigi:克氏尖條鰍
-oxynoemacheilus kurdistanicus:庫德斯坦尖條鰍
-oxynoemacheilus lenkoranensis:連科蘭尖條鰍
-oxynoemacheilus leontinae:獅紋尖條鰍
-oxynoemacheilus mediterraneus:地中海尖條鰍
-oxynoemacheilus merga:小口尖條鰍
-oxynoemacheilus mesudae:梅氏尖條鰍
-oxynoemacheilus namiri:納氏尖條鰍
-oxynoemacheilus panthera:豹斑尖條鰍
-oxynoemacheilus parvinae:帕氏尖條鰍
-oxynoemacheilus paucilepis:少鱗尖條鰍
-oxynoemacheilus persa:神尖條鰍
-oxynoemacheilus phoxinoides:似細尖條鰍
-oxynoemacheilus pindus:希臘尖條鰍
-oxynoemacheilus samanticus:沙門尖條鰍
-oxynoemacheilus seyhanensis:塞哈河尖條鰍
-oxynoemacheilus seyhanicola:塞伊漢尖條鰍
-oxynoemacheilus simavicus:錫馬尖條鰍
-oxynoemacheilus theophilii:希氏尖條鰍
-oxynoemacheilus tigris:虎紋尖條鰍
-oxynoemacheilus tongiorgii:托氏尖條鰍
-oxynoemacheilus zagrosensis:扎格羅斯尖條鰍
-oxynoemacheilus:尖條鰍屬
+oxynoemacheilus anatolicus:土耳其尖条鰍
+oxynoemacheilus araxensis:阿拉兴尖条鰍
+oxynoemacheilus argyrogramma:双斑尖条鰍
+oxynoemacheilus atili:艾氏尖条鰍
+oxynoemacheilus banarescui:巴氏尖条鰍
+oxynoemacheilus bergianus:伊朗尖条鰍
+oxynoemacheilus bureschi:柏氏尖条鰍
+oxynoemacheilus ceyhanensis:杰伊汉尖条鰍
+oxynoemacheilus chomanicus:霍曼尖条鰍
+oxynoemacheilus cinicus:幸河尖条鰍
+oxynoemacheilus cyri:库拉尖条鰍
+oxynoemacheilus erdali:厄氏尖条鰍
+oxynoemacheilus eregliensis:埃雷利尖条鰍
+oxynoemacheilus evreni:埃氏尖条鰍
+oxynoemacheilus frenatus:韁尖条鰍
+oxynoemacheilus germencicus:盖尔门哲克尖条鰍
+oxynoemacheilus hamwii:哈维氏尖条鰍
+oxynoemacheilus hazarensis:哈札尔湖尖条鰍
+oxynoemacheilus insignis:磯尖条鰍
+oxynoemacheilus kaynaki:卡氏尖条鰍
+oxynoemacheilus kiabii:凱氏尖条鰍
+oxynoemacheilus kosswigi:克氏尖条鰍
+oxynoemacheilus kurdistanicus:库德斯坦尖条鰍
+oxynoemacheilus lenkoranensis:连科兰尖条鰍
+oxynoemacheilus leontinae:狮纹尖条鰍
+oxynoemacheilus mediterraneus:地中海尖条鰍
+oxynoemacheilus merga:小口尖条鰍
+oxynoemacheilus mesudae:梅氏尖条鰍
+oxynoemacheilus namiri:纳氏尖条鰍
+oxynoemacheilus panthera:豹斑尖条鰍
+oxynoemacheilus parvinae:帕氏尖条鰍
+oxynoemacheilus paucilepis:少鳞尖条鰍
+oxynoemacheilus persa:神尖条鰍
+oxynoemacheilus phoxinoides:似细尖条鰍
+oxynoemacheilus pindus:希腊尖条鰍
+oxynoemacheilus samanticus:沙门尖条鰍
+oxynoemacheilus seyhanensis:塞哈河尖条鰍
+oxynoemacheilus seyhanicola:塞伊汉尖条鰍
+oxynoemacheilus simavicus:锡马尖条鰍
+oxynoemacheilus theophilii:希氏尖条鰍
+oxynoemacheilus tigris:虎纹尖条鰍
+oxynoemacheilus tongiorgii:托氏尖条鰍
+oxynoemacheilus zagrosensis:扎格罗斯尖条鰍
+oxynoemacheilus:尖条鰍属
 oxynoidae:长足科
 oxynooidea:长足总科
 oxynoticeras:锐棱菊石属
 oxynoticeratidae:锐棱菊石科
-oxynotus:尖背角鯊屬
+oxynotus:尖背角鯊属
 oxyopes daksina:南方猫蛛
 oxyopes heterophthalmus:异猫蛛
 oxyopes macilentus:细纹猫蛛
@@ -1305,16 +1282,16 @@ oxyopes:猫蛛属
 oxyopsis:类尖目螳属
 oxypertine:奥昔哌汀
 oxyphenisatine:酚丁
-oxypnictide:金屬磷屬氧化物
+oxypnictide:金属磷属氧化物
 oxyporhamphus micropterus:小鳍针飞鱼
 oxyporus:酸味菌属
 oxyresveratrol:氧化白藜芦醇
-oxyrhynchus:俄克喜林庫斯
+oxyrhynchus:俄克喜林库斯
 oxyria digyna:山蓼
 oxyria:山蓼属
-oxyropsis acutirostra:尖吻捷泳鯰
-oxyropsis carinata:淡黃捷泳鯰
-oxyropsis wrightiana:亞馬遜河捷泳鯰
+oxyropsis acutirostra:尖吻捷泳鲶
+oxyropsis carinata:淡黄捷泳鲶
+oxyropsis wrightiana:亚马逊河捷泳鲶
 oxyrrhexis:尖裂姬蜂属
 oxyrrhis:尖尾藻属
 oxyspora:尖子木属
@@ -1323,7 +1300,7 @@ oxystelma:尖槐藤属
 oxysterol:氧化胆固醇
 oxystominidae:吸咽线虫科
 oxytate:绿蟹蛛属
-oxytes:銳螞蝗屬
+oxytes:锐螞蝗属
 oxytetracycline:土霉素
 oxytocin addiction:催产素成瘾
 oxytocin and alcohol:催产素和酒精
@@ -1356,17 +1333,17 @@ oxytrichidae:尖毛科
 oxytripia:蚀夜蛾属
 oxytropis pilosa:疏毛棘豆
 oxytropis:棘豆属
-oxyurichthys auchenolepis:項鱗溝鰕虎魚
-oxyurichthys cornutus:角質溝鰕虎
-oxyurichthys guibei:蓋氏溝鰕虎魚
-oxyurichthys heisei:海斯氏溝鰕虎魚
-oxyurichthys lonchotus:矛溝鰕虎
+oxyurichthys auchenolepis:项鳞沟鰕虎鱼
+oxyurichthys cornutus:角质沟鰕虎
+oxyurichthys guibei:盖氏沟鰕虎鱼
+oxyurichthys heisei:海斯氏沟鰕虎鱼
+oxyurichthys lonchotus:矛沟鰕虎
 oxyurichthys microlepis:小鳞沟鰕虎鱼
 oxyurichthys ophthalmonema:眼瓣沟鰕虎鱼
 oxyurichthys papuensis:巴布亚沟鰕虎鱼
 oxyurichthys tentacularis:触角沟鰕虎鱼
-oxyurichthys visayanus:南方溝鰕虎
-oxyurichthys:溝鰕虎屬
+oxyurichthys visayanus:南方沟鰕虎
+oxyurichthys:沟鰕虎属
 oxyuridae:尖尾科
-oxyurinae:硬尾鴨亞科
-oxyuris:尖尾屬
+oxyurinae:硬尾鸭亚科
+oxyuris:尖尾属

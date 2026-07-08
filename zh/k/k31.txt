@@ -1,11 +1,10 @@
 k10+170 bridge:k10+170通道桥
 k11 art mall:k11 艺术购物中心
-k11 art mall:k11 藝術購物中心
-k11 art mall:k11購物藝術館
-k11 artus:k11 artus 寓館
+k11 art mall:k11购物艺术馆
+k11 artus:k11 artus 寓馆
 k11 ecoast north:k11 ecoast 北馆
 k11 ecoast south:k11 ecoast 南馆
-k11 musea:k11人文購物藝術館
+k11 musea:k11人文购物艺术馆
 k11 shopping mall east:k11东 (招呼站)
 k11 shopping mall middle:k11中 (招呼站)
 k11+180 bridge:k11+180通道桥

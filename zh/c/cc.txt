@@ -1,74 +1,66 @@
-cc clique:中央俱樂部
+cc clique:中央俱乐部
 cc women's wear:cc 女装
-cc women's wear:cc 女裝
-ccapi district:卡皮區
-ccarhuayo district:卡爾瓦約區
-ccass:中央結算及交收系統
-ccatca district:卡特卡區
+ccapi district:卡皮区
+ccarhuayo district:卡尔瓦约区
+ccass:中央结算及交收系统
+ccatca district:卡特卡区
 ccb (asia):中国建设银行（亚洲）
-ccb (asia):中國建設銀行（亞洲）
-ccb centre:中國建設銀行中心
-ccb control building:路環b廠運行控制中心
+ccb centre:中国建设银行中心
+ccb control building:路环b厂运行控制中心
 ccb tower:中国建设银行大厦
-ccb tower:中國建設銀行大廈
+ccb:中国建设银行
 ccb:中国建设银行（亚洲）
-ccb:中國建設銀行
-ccb:中國建設銀行（亞洲）
-ccc but san primary school:中華基督教會拔臣小學
-ccc china congregational church:中華基督教會公理堂
-ccc chuen yuen church kindergarten:中華基督教會全完堂幼稚園
-ccc chuen yuen college:中華基督教會全完中學
-ccc chuen yuen first primary school:中華基督教會全完第一小學
-ccc chuen yuen second primary school:中華基督教會全完第二小學
-ccc fong yun wah secondary school:中華基督教會方潤華中學
-ccc fung leung kit memorial secondary school:中華基督教會馮梁結紀念中學
-ccc heep woh college:中華基督教會協和書院
-ccc heep woh primary school:中華基督教會協和小學
-ccc hoh fuk tong college:中華基督教會何福堂書院
-ccc hoh fuk tong primary school:中華基督教會何福堂小學
-ccc hop yat church:中華基督教會合一堂
-ccc kei chi secondary school:中華基督教會基智中學
-ccc kei chun primary school:中華基督教會基真小學
-ccc kei heep secondary school:中華基督教會基協中學
-ccc kei long college:中華基督教會基朗中學
-ccc kei san secondary school:中華基督教會基新中學
-ccc kei shun special school:中華基督教會基順學校
-ccc kei tsz primary school:中華基督教會基慈小學
-ccc kei wa kindergarten:中華基督教會基華幼稚園
-ccc kei wa primary school (kowloon tong):中華基督教會基華小學 (九龍塘)
-ccc kei wa primary school:中華基督教會基華小學
-ccc kei wai primary school (ma wan):中華基督教會基慧小學 (馬灣)
-ccc kei wai primary school:中華基督教會基慧小學
-ccc kei wan primary school (aldrich bay):中華基督教會基灣小學 (愛蝶灣)
-ccc kei yuen college:中華基督教會基元中學
+ccc but san primary school:中华基督教会拔臣小学
+ccc china congregational church:中华基督教会公理堂
+ccc chuen yuen church kindergarten:中华基督教会全完堂幼稚园
+ccc chuen yuen college:中华基督教会全完中学
+ccc chuen yuen first primary school:中华基督教会全完第一小学
+ccc chuen yuen second primary school:中华基督教会全完第二小学
+ccc fong yun wah secondary school:中华基督教会方润华中学
+ccc fung leung kit memorial secondary school:中华基督教会冯梁结纪念中学
+ccc heep woh college:中华基督教会协和书院
+ccc heep woh primary school:中华基督教会协和小学
+ccc hoh fuk tong college:中华基督教会何福堂书院
+ccc hoh fuk tong primary school:中华基督教会何福堂小学
+ccc hop yat church:中华基督教会合一堂
+ccc kei chi secondary school:中华基督教会基智中学
+ccc kei chun primary school:中华基督教会基真小学
+ccc kei heep secondary school:中华基督教会基协中学
+ccc kei long college:中华基督教会基朗中学
+ccc kei san secondary school:中华基督教会基新中学
+ccc kei shun special school:中华基督教会基顺学校
+ccc kei tsz primary school:中华基督教会基慈小学
+ccc kei wa kindergarten:中华基督教会基华幼稚园
+ccc kei wa primary school (kowloon tong):中华基督教会基华小学 (九龙塘)
+ccc kei wa primary school:中华基督教会基华小学
+ccc kei wai primary school (ma wan):中华基督教会基慧小学 (马湾)
+ccc kei wai primary school:中华基督教会基慧小学
+ccc kei wan primary school (aldrich bay):中华基督教会基湾小学 (爱蝶湾)
+ccc kei yuen college:中华基督教会基元中学
 ccc kwei wah shan college:中华基督教会桂华山中学
-ccc kwei wah shan college:中華基督教會桂華山中學
-ccc kwei wah shan college:桂華山中學
-ccc ming yin college:中華基督教會銘賢書院
-ccc mong wong far yok memorial primary school:中華基督教會蒙黃花沃紀念小學
-ccc mongkok church kai oi school:中華基督教會望覺堂啟愛學校
-ccc shum oi church:中華基督教會深愛堂
-ccc tam lee lai fun memorial secondary school:中華基督教會譚李麗芬紀念中學
+ccc kwei wah shan college:桂华山中学
+ccc ming yin college:中华基督教会铭贤书院
+ccc mong wong far yok memorial primary school:中华基督教会蒙黄花沃纪念小学
+ccc mongkok church kai oi school:中华基督教会望觉堂启爱学校
+ccc shum oi church:中华基督教会深爱堂
+ccc tam lee lai fun memorial secondary school:中华基督教会谭李丽芬纪念中学
 ccc technology city:中交科技城
-ccc wanchai church kei to primary school (kowloon city):中華基督教會灣仔堂基道小學 (九龍城)
-ccc wanchai church kei to primary school:中華基督教會灣仔堂基道小學
-ccc yenching college:中華基督教會燕京書院
+ccc wanchai church kei to primary school (kowloon city):中华基督教会湾仔堂基道小学 (九龙城)
+ccc wanchai church kei to primary school:中华基督教会湾仔堂基道小学
+ccc yenching college:中华基督教会燕京书院
 cccc 3rd co., g4216 yunnan yongshan connection line tjsg-6 bid section project manager department:中交三公局 g4216 云南永善连接线 tjsg-6 标段项目经理部
-cccc 3rd co., g4216 yunnan yongshan connection line tjsg-6 bid section project manager department:中交三公局 g4216 雲南永善連接線 tjsg-6 標段項目經理部
 cccc ecrl project management section 8:中国交建马来西亚东海岸铁路项目总经理部第八分部
-cccc ecrl project management section 8:中國交建馬來西亞東海岸鐵路項目總經理部第八分部
-ccella ccella:塞利亞塞利亞山
-ccerayoc:克拉約克山
-cch windscreen:曾發汽車玻璃
+ccella ccella:塞利亚塞利亚山
+ccerayoc:克拉约克山
+cch windscreen:曾发汽车玻璃
 cchajdamská panva:cháidámù péndì
 cchajdamská panva:柴达木盆地
 cchajdamská pánev:cháidámù péndì
 cchajdamská pánev:柴达木盆地
-cchaltubas:茨卡爾圖博
-cchaltubo:茨卡爾圖博
+cchaltubas:茨卡尔图博
+cchaltubo:茨卡尔图博
 cchang-čou:cāngzhōu shì
 cchang-čou:沧州市
-cchang-čou:滄州市
 cchinvali:茨欣瓦利
 cchinvalis:茨欣瓦利
 cchinwali:茨欣瓦利
@@ -76,22 +68,21 @@ cch’-si:cíxī shì
 cch’-si:慈溪市
 cch’-si:慈谿
 cch’-si:慈谿市
-ccie certification:思科認證互聯網專家
+ccie certification:思科认证互联网专家
 ccinn:城市便捷酒店
 ccinwa:zhōngguó
+ccinwa:中华人民共和国
 ccinwa:中国
-ccinwa:中國
-ccinwa:中華人民共和國
 cclef:谢利夫
 ccna:思科认证网络工程师
-ccochaccasa district:科查卡薩區
-ccorca district:科爾卡區
-ccountryside villa:鄉村別墅
+ccochaccasa district:科查卡萨区
+ccorca district:科尔卡区
+ccountryside villa:乡村別墅
 ccp virus:中国病毒
 ccpic:太平洋保险
-ccs:創合服務
+ccs:创合服务
 ccstv new year's gala:山寨春晚
-cct telecom building:中建電訊大廈
+cct telecom building:中建电讯大厦
 cctv building:央视大楼
 cctv cup:中国电视围棋快棋赛
 cctv entertainment:中国中央电视台娱乐频道
@@ -101,230 +92,152 @@ cctv international:中国中央电视台国际频道
 cctv nanhai studio:南海影视城
 cctv shopping channel:中国中央电视台中视购物频道
 ccu 2km staff residential building:二千米家属楼
-ccu 2km staff residential building:長春大學二千米家屬樓
 ccu 2km staff residential building:长春大学二千米家属楼
 ccu 3km staff residential building:三千米家属楼
-ccu 3km staff residential building:長春大學三千米家屬樓
 ccu 3km staff residential building:长春大学三千米家属楼
 ccu 4km staff residential building:四千米家属楼
-ccu 4km staff residential building:長春大學四千米家屬樓
 ccu 4km staff residential building:长春大学四千米家属楼
 ccu 5km staff residential building:五千米家属楼
-ccu 5km staff residential building:長春大學五千米家屬樓
 ccu 5km staff residential building:长春大学五千米家属楼
 ccu 6km staff residential building:六千米家属楼
-ccu 6km staff residential building:長春大學六千米家屬樓
 ccu 6km staff residential building:长春大学六千米家属楼
 ccu 7km staff residential building:七千米家属楼
-ccu 7km staff residential building:長春大學七千米家屬樓
 ccu 7km staff residential building:长春大学七千米家属楼
-ccu administration building:長春大學辦公樓
 ccu administration building:长春大学办公楼
-ccu bathhouse:長春大學浴池
 ccu bathhouse:长春大学浴池
-ccu club:長春大學俱樂部
 ccu club:长春大学俱乐部
 ccu former guest house no. 1:原招待所 1
-ccu former guest house no. 1:長春大學原招待所 1
 ccu former guest house no. 1:长春大学原招待所 1
 ccu former guest house no. 2:原招待所 2
-ccu former guest house no. 2:長春大學原招待所 2
 ccu former guest house no. 2:长春大学原招待所 2
 ccu laboratory building (teaching building no. 1):实验楼（第一教学楼）
-ccu laboratory building (teaching building no. 1):長春大學實驗樓（第一教學樓）
 ccu laboratory building (teaching building no. 1):长春大学实验楼（第一教学楼）
 ccu laboratory building:实验楼
-ccu laboratory building:長春大學實驗樓
 ccu laboratory building:长春大学实验楼
-ccu modern education technology center:長春大學現代教育技術中心
 ccu modern education technology center:长春大学十三层教学楼
 ccu modern education technology center:长春大学现代教育技术中心
-ccu multi-purpose lecture hall:長春大學合堂教室
 ccu multi-purpose lecture hall:长春大学合堂教室
-ccu school of continuing education:長春大學成人教育學院
 ccu school of continuing education:长春大学成人教育学院
-ccu school of foreign languages:長春大學外國語學院
 ccu school of foreign languages:长春大学外国语学院
 ccu school of foreign languages:长春大学第四教学楼
-ccu school of international exchange:長春大學國際交流學院
 ccu school of international exchange:长春大学国际交流学院
-ccu school of music:長春大學音樂學院
 ccu school of music:长春大学第四教学楼
 ccu school of music:长春大学音乐学院
-ccu special education college:長春大學特殊教育學院
 ccu special education college:长春大学特殊教育学院
 ccu student dormitory no. 1:一公寓
-ccu student dormitory no. 1:長春大學一公寓
 ccu student dormitory no. 1:长春大学一公寓
 ccu student dormitory no. 2:二公寓
-ccu student dormitory no. 2:長春大學二公寓
 ccu student dormitory no. 2:长春大学二公寓
 ccu student dormitory no. 3:三公寓
-ccu student dormitory no. 3:長春大學三公寓
 ccu student dormitory no. 3:长春大学三公寓
 ccu student dormitory no. 4:四公寓
-ccu student dormitory no. 4:長春大學四公寓
 ccu student dormitory no. 4:长春大学四公寓
 ccu student dormitory no. 5:五公寓
-ccu student dormitory no. 5:長春大學五公寓
 ccu student dormitory no. 5:长春大学五公寓
 ccu student dormitory no. 6:六公寓
-ccu student dormitory no. 6:長春大學六公寓
 ccu student dormitory no. 6:长春大学六公寓
 ccu student dormitory no. 7:七公寓
-ccu student dormitory no. 7:長春大學七公寓
 ccu student dormitory no. 7:长春大学七公寓
 ccu student dormitory no. 9:九公寓
-ccu student dormitory no. 9:長春大學九公寓
 ccu student dormitory no. 9:长春大学九公寓
-ccu taipei representative office:國立中正大學 台北聯絡處
-ccu teaching building no. 3:長春大學第三教學樓
+ccu taipei representative office:国立中正大学 台北联络处
 ccu teaching building no. 3:长春大学第三教学楼
-ccu teaching building:長春大學教學樓
 ccu teaching building:长春大学教学楼
 ccu the living building of the special education college:特殊教育学院生活楼
-ccu the living building of the special education college:長春大學特殊教育學院生活樓
 ccu the living building of the special education college:长春大学特殊教育学院生活楼
 ccu the retired activity center:老干部活动中心
-ccu the retired activity center:長春大學老幹部活動中心
 ccu the retired activity center:长春大学老干部活动中心
-ccu volleyball court:長春大學排球場
 ccu volleyball court:长春大学排球场
 ccut art and technology building:艺术技术楼
-ccut art and technology building:長春工業大學藝術技術樓
 ccut art and technology building:长春工业大学艺术技术楼
-ccut cafeteria:長春工業大學食堂
 ccut cafeteria:长春工业大学食堂
 ccut complex building:综合楼
-ccut complex building:長春工業大學綜合樓
 ccut complex building:长春工业大学综合楼
 ccut dormitory building no. 10:10 栋男寝
-ccut dormitory building no. 10:長春工業大學 10 棟
 ccut dormitory building no. 10:长春工业大学 10 栋
 ccut dormitory building no. 1:1栋女寝
 ccut dormitory building no. 1:1栋男寝
-ccut dormitory building no. 1:長春工業大學 1 棟
 ccut dormitory building no. 1:长春工业大学 1 栋
 ccut dormitory building no. 2:2栋女寝
 ccut dormitory building no. 2:2栋男寝
-ccut dormitory building no. 2:長春工業大學 2 棟
 ccut dormitory building no. 2:长春工业大学 2 栋
 ccut dormitory building no. 3:3栋女寝
 ccut dormitory building no. 3:3栋男寝
-ccut dormitory building no. 3:長春工業大學 3 棟
 ccut dormitory building no. 3:长春工业大学 3 栋
 ccut dormitory building no. 4:4栋女寝
 ccut dormitory building no. 4:4栋男寝
-ccut dormitory building no. 4:長春工業大學 4 棟
 ccut dormitory building no. 4:长春工业大学 4 栋
 ccut dormitory building no. 5:5栋女寝
 ccut dormitory building no. 5:5栋男寝
-ccut dormitory building no. 5:長春工業大學 5 棟
 ccut dormitory building no. 5:长春工业大学 5 栋
 ccut dormitory building no. 6:6栋女寝
 ccut dormitory building no. 6:6栋男寝
-ccut dormitory building no. 6:長春工業大學 6 棟
 ccut dormitory building no. 6:长春工业大学 6 栋
 ccut dormitory building no. 7:7栋女寝
 ccut dormitory building no. 7:7栋男寝
-ccut dormitory building no. 7:長春工業大學 7 棟
 ccut dormitory building no. 7:长春工业大学 7 栋
 ccut dormitory building no. 8:8栋男寝
-ccut dormitory building no. 8:長春工業大學 8 棟
 ccut dormitory building no. 8:长春工业大学 8 栋
 ccut dormitory building no. 9:9栋男寝
-ccut dormitory building no. 9:長春工業大學 9 棟
 ccut dormitory building no. 9:长春工业大学 9 栋
 ccut dormitory no. 8 (national defense student apartment):国防生公寓 8 栋
-ccut dormitory no. 8 (national defense student apartment):長春工業大學 8 棟（國防生公寓）
 ccut dormitory no. 8 (national defense student apartment):长春工业大学 8 栋（国防生公寓）
 ccut east campus cafeteria:东区食堂
-ccut east campus cafeteria:長春工業大學東區食堂
 ccut east campus cafeteria:长春工业大学东区食堂
 ccut female dormitory no. 7:女寝 7 栋
-ccut female dormitory no. 7:長春工業大學女寢 7 棟
 ccut female dormitory no. 7:长春工业大学女寝 7 栋
 ccut heat exchange station:换热站
-ccut heat exchange station:長春工業大學換熱站
 ccut heat exchange station:长春工业大学换热站
 ccut information dissemination building:信息传播楼
-ccut information dissemination building:長春工業大學信息傳播樓
 ccut information dissemination building:长春工业大学信息传播楼
-ccut library:長春工業大學圖書館
 ccut library:长春工业大学图书馆
 ccut logistics and auxiliary facilities:后勤及附属用房
-ccut logistics and auxiliary facilities:長春工業大學後勤及附屬用房
 ccut logistics and auxiliary facilities:长春工业大学后勤及附属用房
 ccut main teaching building:主教学楼
-ccut main teaching building:長春工業大學主教學樓
 ccut main teaching building:长春工业大学主教学楼
 ccut male dormitory no. 1:男寝 1 栋
-ccut male dormitory no. 1:長春工業大學男寢 1 棟
 ccut male dormitory no. 1:长春工业大学男寝 1 栋
 ccut male dormitory no. 2:男寝 2 栋
-ccut male dormitory no. 2:長春工業大學男寢 2 棟
 ccut male dormitory no. 2:长春工业大学男寝 2 栋
 ccut male dormitory no. 3:男寝 3 栋
-ccut male dormitory no. 3:長春工業大學男寢 3 棟
 ccut male dormitory no. 3:长春工业大学男寝 3 栋
 ccut male dormitory no. 4:男寝 4 栋
-ccut male dormitory no. 4:長春工業大學男寢 4 棟
 ccut male dormitory no. 4:长春工业大学男寝 4 栋
 ccut male dormitory no. 5:男寝 5 栋
-ccut male dormitory no. 5:長春工業大學男寢 5 棟
 ccut male dormitory no. 5:长春工业大学男寝 5 栋
 ccut male dormitory no. 6:男寝 6 栋
-ccut male dormitory no. 6:長春工業大學男寢 6 棟
 ccut male dormitory no. 6:长春工业大学男寝 6 栋
 ccut research building:科研楼
-ccut research building:長春工業大學科研樓
 ccut research building:长春工业大学科研楼
 ccut school of applied technology building:应用技术学院楼
-ccut school of applied technology building:長春工業大學應用技術學院樓
 ccut school of applied technology building:长春工业大学应用技术学院楼
 ccut school of carbon fiber modern industry and school of petrochemical modern industry building:碳纤维现代产业学院与石油化工现代产业学院楼
-ccut school of carbon fiber modern industry and school of petrochemical modern industry building:長春工業大學碳纖維現代產業學院與石油化工現代產業學院樓
 ccut school of carbon fiber modern industry and school of petrochemical modern industry building:长春工业大学碳纤维现代产业学院与石油化工现代产业学院楼
 ccut school of computer science and engineering building:计算机学院楼
-ccut school of computer science and engineering building:長春工業大學計算機學院樓
 ccut school of computer science and engineering building:长春工业大学计算机学院楼
 ccut school of materials science and engineering building:材料学院楼
-ccut school of materials science and engineering building:長春工業大學材料學院樓
 ccut school of materials science and engineering building:长春工业大学材料学院楼
 ccut student activity center:大学生活动中心
-ccut student activity center:長春工業大學大學生活動中心
 ccut student activity center:长春工业大学大学生活动中心
-ccut substation:長春工業大學變電站
 ccut substation:长春工业大学变电站
 ccut teaching and research building:教学科研楼
-ccut teaching and research building:長春工業大學教學科研樓
 ccut teaching and research building:长春工业大学教学科研楼
 ccut west campus cafeteria:西区食堂
-ccut west campus cafeteria:長春工業大學西區食堂
 ccut west campus cafeteria:长春工业大学西区食堂
-ccut yahuiyuan:長春工業大學雅慧苑
 ccut yahuiyuan:长春工业大学雅慧苑
 ccut yahuiyuan:雅慧苑
-ccut yaxinyuan:長春工業大學雅馨苑
 ccut yaxinyuan:长春工业大学雅馨苑
 ccut yaxinyuan:雅馨苑
-ccut yayiyuan:長春工業大學雅逸苑
 ccut yayiyuan:长春工业大学雅逸苑
 ccut yayiyuan:雅逸苑
 ccut zhiliyuan:知理苑
-ccut zhiliyuan:長春工業大學知理苑
 ccut zhiliyuan:长春工业大学知理苑
 ccut zhixingyuan:知行苑
-ccut zhixingyuan:長春工業大學知行苑
 ccut zhixingyuan:长春工业大学知行苑
 ccut zhixinyuan:知信苑
-ccut zhixinyuan:長春工業大學知信苑
 ccut zhixinyuan:长春工业大学知信苑
 ccut zhiyiyuan:知义苑
-ccut zhiyiyuan:長春工業大學知義苑
 ccut zhiyiyuan:长春工业大学知义苑
 ccut zhiyuanyuan:知远苑
-ccut zhiyuanyuan:長春工業大學知遠苑
 ccut zhiyuanyuan:长春工业大学知远苑
 ccộng hòa srpska:塞族共和国
-ccộng hòa srpska:塞族共和國

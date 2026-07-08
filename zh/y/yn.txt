@@ -1,36 +1,32 @@
 yn abcaaish:阿布哈兹
 yn affrick yiass:nán fēi
 yn affrick yiass:南非
-yn affrick yiass:南非共和國
+yn affrick yiass:南非共和国
 yn afghanistaan:Āfùhàn
 yn afghanistaan:阿富汗
 yn agglish vreck:福尔柯克
 yn albaan:Āěrbāníyà
 yn albaan:阿尔巴尼亚
-yn albaan:阿尔巴尼亚 / 阿爾巴尼亞
-yn albaan:阿爾巴尼亞
+yn albaan:阿尔巴尼亚 / 阿尔巴尼亚
 yn algear:Āěrjílìyà
 yn algear:阿尔及利亚
-yn algear:阿尔及利亚 / 阿爾及利亞
-yn algear:阿爾及利亞
+yn algear:阿尔及利亚 / 阿尔及利亚
 yn antarctagh:南极洲
-yn antarctagh:南极洲/南極洲
-yn antarctagh:南極洲
+yn antarctagh:南极洲/南极洲
 yn araab saudi:shātè Ālābó
+yn araab saudi:沙乌地阿拉伯
 yn araab saudi:沙地阿拉伯
-yn araab saudi:沙烏地阿拉伯
 yn araab saudi:沙特阿拉伯
-yn araab saudi:沙特阿拉伯 / 沙烏地阿拉伯
+yn araab saudi:沙特阿拉伯 / 沙乌地阿拉伯
 yn argenteen:阿根廷
 yn armeain:yàměiníyà
 yn armeain:亚美尼亚
-yn armeain:亚美尼亚 / 亞美尼亞
-yn armeain:亞美尼亞
+yn armeain:亚美尼亚 / 亚美尼亚
 yn asserbajaan:Āsàibàijiāng
-yn asserbajaan:亞塞拜然
-yn asserbajaan:亞塞拜然 / 阿塞拜疆
+yn asserbajaan:亚塞拜然
+yn asserbajaan:亚塞拜然 / 阿塞拜疆
 yn asserbajaan:阿塞拜疆
-yn asserbajaan:阿塞拜疆 / 亞塞拜然
+yn asserbajaan:阿塞拜疆 / 亚塞拜然
 yn atheen:雅典
 yn atlantagh yiass:南大西洋
 yn austeyr:Àodìlì
@@ -40,225 +36,191 @@ yn austrail:南极洲
 yn austrail:澳大利亚
 yn austrail:澳大利亚 / 澳洲
 yn austrail:澳洲
-yn broogh heear:約旦河西岸地區
 yn broogh heear:约旦河西岸地区
-yn broogh heear:西岸地區
+yn broogh heear:西岸地区
 yn chamboyd:gāomián
 yn chamboyd:柬埔寨
 yn chanadey:jiānádà
 yn chanadey:加拿大
 yn chassaghstaan:hāsàkèsītǎn
+yn chassaghstaan:哈萨克
 yn chassaghstaan:哈萨克斯坦
-yn chassaghstaan:哈萨克斯坦/哈薩克
-yn chassaghstaan:哈薩克
+yn chassaghstaan:哈萨克斯坦/哈萨克
 yn chataloan:加泰罗尼亚
 yn chatar:kǎtǎěr
 yn chatar:卡塔尔
-yn chatar:卡塔尔 / 卡達
-yn chatar:卡塔爾
-yn chatar:卡達
+yn chatar:卡塔尔 / 卡达
+yn chatar:卡达
 yn cheeprey hwoaie:北塞浦路斯
-yn cheeprey hwoaie:北塞浦路斯/北賽普勒斯
-yn cheeprey hwoaie:北賽普勒斯
+yn cheeprey hwoaie:北塞浦路斯/北赛普勒斯
+yn cheeprey hwoaie:北赛普勒斯
 yn cheeprey:sàipǔlùsī
 yn cheeprey:塞浦路斯
-yn cheeprey:塞浦路斯/賽普勒斯
-yn cheeprey:賽普勒斯
+yn cheeprey:塞浦路斯/赛普勒斯
+yn cheeprey:赛普勒斯
 yn cheinney:kěnníyà
-yn cheinney:肯亞
+yn cheinney:肯亚
 yn cheinney:肯尼亚
-yn cheinney:肯尼亚 / 肯亞
-yn cheinney:肯尼亞
+yn cheinney:肯尼亚 / 肯亚
 yn cheinney:肯雅
 yn chiribati:吉里巴斯
 yn chiribati:基里巴斯
 yn chiribati:基里巴斯 / 吉里巴斯
-yn cholombey ghoaldagh:不列顛哥倫比亞省
 yn cholombey ghoaldagh:不列颠哥伦比亚省
 yn cholombey:哥伦比亚
-yn cholombey:哥伦比亚 / 哥倫比亞
-yn cholombey:哥倫比亞
+yn cholombey:哥伦比亚 / 哥伦比亚
 yn choobey:古巴
 yn choowait:kēwēitè
 yn choowait:科威特
 yn chorea twoaie:cháoxiǎn
-yn chorea twoaie:北韓
-yn chorea twoaie:朝鮮
-yn chorea twoaie:朝鮮民主主義人民共和國
+yn chorea twoaie:北韩
 yn chorea twoaie:朝鲜
-yn chorea twoaie:朝鲜 / 北韓
+yn chorea twoaie:朝鲜 / 北韩
+yn chorea twoaie:朝鲜民主主义人民共和国
 yn chorea yiass:hánguó
-yn chorea yiass:南韓
-yn chorea yiass:大韓民國
-yn chorea yiass:韓國
+yn chorea yiass:南韩
+yn chorea yiass:大韩民国
 yn chorea yiass:韩国
-yn chorea yiass:韩国 / 南韓
+yn chorea yiass:韩国 / 南韩
 yn chorn:康和郡
-yn chorn:康瓦爾郡
+yn chorn:康瓦尔郡
 yn chroit:kèluódìyà
 yn chroit:克罗地亚
-yn chroit:克羅地亞
-yn chroit:克羅地亞/克罗地亚/克羅埃西亞
-yn chroit:克羅埃西亞
+yn chroit:克罗地亚/克罗地亚/克罗埃西亚
+yn chroit:克罗埃西亚
+yn chyrgistaan:吉尔吉斯
 yn chyrgistaan:吉尔吉斯斯坦
-yn chyrgistaan:吉爾吉斯
 yn clovack:sīluòfákè
 yn clovack:斯洛伐克
 yn clovean:sīluòwénníyà
 yn clovean:斯洛文尼亚
-yn clovean:斯洛文尼亞
-yn clovean:斯洛文尼亞 / 斯洛維尼亞 / 斯洛文尼亚
-yn clovean:斯洛維尼亞
+yn clovean:斯洛文尼亚 / 斯洛维尼亚 / 斯洛文尼亚
+yn clovean:斯洛维尼亚
 yn clyst iuaagagh:kētèdíwǎ
 yn clyst iuaagagh:科特迪瓦
 yn clyst iuaagagh:科特迪瓦 / 象牙海岸
 yn clyst iuaagagh:象牙海岸
 yn commeeys arabagh:a-la-pek liân-bêng
 yn commeeys arabagh:阿拉伯国家联盟
-yn commeeys arabagh:阿拉伯聯盟
+yn commeeys arabagh:阿拉伯联盟
 yn coose berçhagh:哥斯大黎加
 yn coose berçhagh:哥斯达黎加
 yn coose berçhagh:哥斯达黎加 / 哥斯大黎加
-yn coose berçhagh:哥斯達黎加
-yn coose berçhagh:哥斯達黎加 / 哥斯大黎加
 yn danvarg:dānmài
-yn danvarg:丹麥
 yn danvarg:丹麦
-yn danvarg:丹麦 / 丹麥
+yn danvarg:丹麦 / 丹麦
 yn earack:yīlākè
 yn earack:伊拉克
 yn eeraan:yīlǎng
 yn eeraan:伊朗
 yn eeslynn:bīngdǎo
 yn eeslynn:冰岛
-yn eeslynn:冰岛 / 冰島
-yn eeslynn:冰島
+yn eeslynn:冰岛 / 冰岛
 yn eetoip:Āisàiébǐyà
 yn eetoip:埃塞俄比亚
-yn eetoip:埃塞俄比亚 / 衣索比亞
-yn eetoip:埃塞俄比亞
-yn eetoip:衣索比亞
+yn eetoip:埃塞俄比亚 / 衣索比亚
+yn eetoip:衣索比亚
 yn egypt:Āijí
 yn egypt:埃及
 yn elveeish:ruìshì
 yn elveeish:瑞士
 yn estaan:Àishāníyà
-yn estaan:愛沙尼亞
 yn estaan:爱沙尼亚
-yn estaan:爱沙尼亚 / 愛沙尼亞
+yn estaan:爱沙尼亚 / 爱沙尼亚
 yn flandyryn:弗拉芒大区
-yn flandyryn:弗拉芒大區
 yn ghambia:gāngbǐyà
 yn ghambia:冈比亚
-yn ghambia:冈比亚 / 甘比亞
-yn ghambia:岡比亞
-yn ghambia:甘比亞
+yn ghambia:冈比亚 / 甘比亚
+yn ghambia:甘比亚
 yn ghaney:jiānà
-yn ghaney:加納
 yn ghaney:加纳
-yn ghaney:迦納
+yn ghaney:迦纳
 yn ghermaan:déguó
 yn ghermaan:德国
-yn ghermaan:德国/德國
-yn ghermaan:德國
+yn ghermaan:德国/德国
 yn ghreag:xīlà
 yn ghreag:希腊
-yn ghreag:希腊/希臘
-yn ghreag:希臘
-yn ghuatemaley:危地馬拉
-yn ghuatemaley:危地馬拉 / 瓜地馬拉
+yn ghreag:希腊/希腊
 yn ghuatemaley:危地马拉
-yn ghuatemaley:危地马拉 / 危地馬拉 / 瓜地馬拉
-yn ghuatemaley:瓜地馬拉
+yn ghuatemaley:危地马拉 / 危地马拉 / 瓜地马拉
+yn ghuatemaley:危地马拉 / 瓜地马拉
+yn ghuatemaley:瓜地马拉
 yn ghuinea-bissau:jīnèiyà bǐshào
+yn ghuinea-bissau:几內亚比索
+yn ghuinea-bissau:几內亚比绍
 yn ghuinea-bissau:几内亚比绍
-yn ghuinea-bissau:几内亚比绍 / 幾內亞比索
-yn ghuinea-bissau:幾內亞比索
-yn ghuinea-bissau:幾內亞比紹
-yn ghuinea-bissau:畿內亞比紹
+yn ghuinea-bissau:几内亚比绍 / 几內亚比索
+yn ghuinea-bissau:畿內亚比绍
 yn ghuinea:jīnèiyà
+yn ghuinea:几內亚
 yn ghuinea:几内亚
-yn ghuinea:几内亚 / 畿內亞
-yn ghuinea:幾內亞
-yn ghuinea:畿內亞
+yn ghuinea:几内亚 / 畿內亚
+yn ghuinea:畿內亚
 yn iddaal:yìdàlì
+yn iddaal:义大利
 yn iddaal:意大利
-yn iddaal:意大利 / 義大利
-yn iddaal:義大利
+yn iddaal:意大利 / 义大利
 yn indoneesh:印尼
 yn indoneesh:印度尼西亚
-yn indoneesh:印度尼西亚 / 印度尼西亞
-yn indoneesh:印度尼西亞
+yn indoneesh:印度尼西亚 / 印度尼西亚
 yn injey:yìndù
 yn injey:印度
 yn jordaan:yuēdàn
-yn jordaan:約旦
 yn jordaan:约旦
-yn jordaan:约旦 / 約旦
+yn jordaan:约旦 / 约旦
 yn keayn sheealtagh hwoaie:北太平洋
 yn laibeer:lìbǐlǐyà
-yn laibeer:利比利亞
+yn laibeer:利比利亚
 yn laibeer:利比里亚
-yn laibeer:利比里亚 / 賴比瑞亞
-yn laibeer:利比里亞
-yn laibeer:賴比瑞亞
+yn laibeer:利比里亚 / 赖比瑞亚
+yn laibeer:赖比瑞亚
 yn laos:liáo guó
 yn laos:lǎowō
 yn laos:寮国
-yn laos:寮國
 yn laos:老挝
-yn laos:老挝 / 寮國
+yn laos:老挝 / 寮国
 yn laos:老撾
 yn latvey:lātuōwéiyà
-yn latvey:拉脫維亞
 yn latvey:拉脱维亚
-yn latvey:拉脱维亚 / 拉脫維亞
+yn latvey:拉脱维亚 / 拉脱维亚
 yn leeb:lìbǐyà
 yn leeb:利比亚
-yn leeb:利比亚 / 利比亞
-yn leeb:利比亞
+yn leeb:利比亚 / 利比亚
 yn litaan:lìtáowǎn
 yn litaan:立陶宛
 yn livaan:líbānèn
 yn livaan:黎巴嫩
 yn naigeer:nírìlìyà
-yn naigeer:奈及利亞
+yn naigeer:奈及利亚
 yn naigeer:尼日利亚
-yn naigeer:尼日利亚 / 奈及利亞
-yn naigeer:尼日利亞
+yn naigeer:尼日利亚 / 奈及利亚
 yn nameeb:nàmǐbǐyà
-yn nameeb:納米比亞
 yn nameeb:纳米比亚
-yn nameeb:纳米比亚 / 納米比亞
+yn nameeb:纳米比亚 / 纳米比亚
 yn neegeyr:nírìěr
 yn neegeyr:尼日
 yn neegeyr:尼日尔
 yn neegeyr:尼日尔 / 尼日
-yn neegeyr:尼日爾
 yn nickeraag:尼加拉瓜
 yn omaan:Āmàn
 yn omaan:阿曼
-yn ooig:維克
+yn ooig:维克
 yn ookraan:wūkèlán
 yn ookraan:乌克兰
-yn ookraan:乌克兰/烏克蘭
-yn ookraan:烏克蘭
+yn ookraan:乌克兰/乌克兰
 yn ooraguay:乌拉圭
-yn ooraguay:乌拉圭 / 烏拉圭
-yn ooraguay:烏拉圭
+yn ooraguay:乌拉圭 / 乌拉圭
 yn oosbeckistaan:wūzībiékèsītǎn
 yn oosbeckistaan:乌兹别克斯坦
-yn oosbeckistaan:乌兹别克斯坦 / 烏茲別克
+yn oosbeckistaan:乌兹别克斯坦 / 乌茲別克
+yn oosbeckistaan:乌茲別克
 yn oosbeckistaan:月即別
-yn oosbeckistaan:烏茲別克
 yn orkaid:奥克尼
 yn phakistaan:bājīsītǎn
 yn phakistaan:巴基斯坦
-yn phanamaa:巴拿馬
 yn phanamaa:巴拿马
-yn phanamaa:巴拿马 / 巴拿馬
+yn phanamaa:巴拿马 / 巴拿马
 yn pharaguay:巴拉圭
-yn pheroo:秘魯
 yn pheroo:秘鲁
 yn phobblaght ghominicagh:多明尼加
 yn phobblaght ghominicagh:多米尼加
@@ -266,241 +228,199 @@ yn phobblaght Çheck:jiékè
 yn phobblaght Çheck:捷克
 yn pholynn:bōlán
 yn pholynn:波兰
-yn pholynn:波兰 / 波蘭
-yn pholynn:波蘭
+yn pholynn:波兰 / 波兰
 yn phortiugal:葡萄牙
 yn rank:fǎguó
 yn rank:法国
-yn rank:法国/法國
-yn rank:法國
-yn rank:法國/法国
+yn rank:法国/法国
 yn raue:luómǎ
 yn raue:罗马
-yn raue:羅馬
-yn raue:羅馬/罗马
+yn raue:罗马/罗马
 yn rheynn ghlass:佛得角
-yn rheynn ghlass:佛得角 / 維德角
-yn rheynn ghlass:維德角
+yn rheynn ghlass:佛得角 / 维德角
+yn rheynn ghlass:维德角
 yn rhine hwoaie-westfalen:北莱茵-威斯特法伦州
-yn rhine hwoaie-westfalen:北萊茵－威斯特法倫
+yn rhine hwoaie-westfalen:北莱茵－威斯特法伦
 yn romaan:luómăníyà
 yn romaan:罗马尼亚
-yn romaan:罗马尼亚 / 羅馬尼亞
-yn romaan:羅馬尼亞
+yn romaan:罗马尼亚 / 罗马尼亚
 yn roosh:Éluósī
 yn roosh:俄罗斯
-yn roosh:俄罗斯 / 俄羅斯
-yn roosh:俄羅斯
+yn roosh:俄罗斯 / 俄罗斯
 yn sahara heear:西撒哈拉
 yn salvador:萨尔瓦多
-yn salvador:萨尔瓦多 / 薩爾瓦多
-yn salvador:薩爾瓦多
+yn salvador:萨尔瓦多 / 萨尔瓦多
 yn serb:sàiěrwéiyà
 yn serb:塞尔维亚
-yn serb:塞爾維亞
 yn spaainey:xībānyá
 yn spaainey:西班牙
 yn taiwaan:táiwan
 yn taiwaan:táiwān
 yn taiwaan:ㄊㄞˊ ㄨㄢ
 yn taiwaan:台湾
-yn taiwaan:臺灣
 yn tajikistaan:tǎjíkèsītǎn
 yn tajikistaan:塔吉克
 yn tajikistaan:塔吉克斯坦
 yn tajikistaan:塔吉克斯坦 / 塔吉克
 yn tambia:zànbǐyà
-yn tambia:尚比亞
-yn tambia:贊比亞
+yn tambia:尚比亚
 yn tambia:赞比亚
-yn tambia:赞比亚 / 尚比亞
+yn tambia:赞比亚 / 尚比亚
 yn tardeen:撒丁岛
 yn teelynn noa:新西兰
-yn teelynn noa:新西蘭
-yn teelynn noa:紐西蘭
-yn teelynn noa:紐西蘭/新西兰
+yn teelynn noa:纽西兰
+yn teelynn noa:纽西兰/新西兰
 yn teemor hiar:东帝汶
-yn teemor hiar:东帝汶 / 東帝汶
-yn teemor hiar:東帝汶
+yn teemor hiar:东帝汶 / 东帝汶
 yn teer:xùlìyà
 yn teer:叙利亚
-yn teer:叙利亚 / 敘利亞
-yn teer:敘利亞
+yn teer:叙利亚 / 敘利亚
+yn teer:敘利亚
 yn tenegaal:sàinèijiāěr
-yn tenegaal:塞內加爾
+yn tenegaal:塞內加尔
 yn tenegaal:塞内加尔
-yn tenegaal:塞内加尔 / 塞內加爾
+yn tenegaal:塞内加尔 / 塞內加尔
 yn togo:duōgē
 yn togo:多哥
 yn tomaal:suǒmǎlǐ
-yn tomaal:索馬利亞
-yn tomaal:索馬里
+yn tomaal:索马利亚
 yn tomaal:索马里
-yn tomaal:索马里 / 索馬利亞
-yn tongey:東加
+yn tomaal:索马里 / 索马利亚
+yn tongey:东加
+yn tongey:汤加
 yn tongey:汤加群岛
-yn tongey:汤加群岛 / 東加
-yn tongey:湯加
+yn tongey:汤加群岛 / 东加
 yn toodaan yiass:南苏丹
-yn toodaan yiass:南苏丹 / 南蘇丹
-yn toodaan yiass:南蘇丹
+yn toodaan yiass:南苏丹 / 南苏丹
 yn toodaan:sūdān
 yn toodaan:苏丹
-yn toodaan:蘇丹
 yn toolynn:ruìdiǎn
 yn toolynn:瑞典
 yn tooneesh:tūníxīyà
 yn tooneesh:突尼斯
-yn tooneesh:突尼斯 / 突尼西亞
-yn tooneesh:突尼西亞
+yn tooneesh:突尼斯 / 突尼西亚
+yn tooneesh:突尼西亚
+yn toorinam:苏利南
+yn toorinam:苏利南 / 苏里南
 yn toorinam:苏里南
-yn toorinam:苏里南 / 蘇利南 / 蘇里南
-yn toorinam:蘇利南
-yn toorinam:蘇利南 / 蘇里南
-yn toorinam:蘇里南
+yn toorinam:苏里南 / 苏利南 / 苏里南
 yn turkee:tǔěrqí
 yn turkee:土耳其
 yn turkmenistaan:tǔkùmànsītǎn
+yn turkmenistaan:叶门
+yn turkmenistaan:土库曼
 yn turkmenistaan:土库曼斯坦
-yn turkmenistaan:土库曼斯坦 / 土庫曼
-yn turkmenistaan:土庫曼
-yn turkmenistaan:葉門
+yn turkmenistaan:土库曼斯坦 / 土库曼
 yn ungaar:xiōngyálì
 yn ungaar:匈牙利
 yn valaysia:mǎláixīyà
-yn valaysia:馬來西亞
 yn valaysia:马来西亚
 yn valta:mǎěrtā
-yn valta:馬爾他
-yn valta:馬爾他 / 馬耳他
-yn valta:馬耳他
+yn valta:马尔他
+yn valta:马尔他 / 马耳他
 yn valta:马耳他
-yn valta:马耳他 / 馬爾他 / 馬耳他
+yn valta:马耳他 / 马尔他 / 马耳他
 yn vangladesh:mèngjiālāguó
 yn vangladesh:孟加拉
 yn vangladesh:孟加拉国
 yn vangladesh:孟加拉国 / 孟加拉
-yn vangladesh:孟加拉國
 yn varitaan:máolǐtǎníyà
 yn varitaan:毛里塔尼亚
-yn varitaan:毛里塔尼亚 / 茅利塔尼亞
-yn varitaan:毛里塔尼亞
-yn varitaan:茅利塔尼亞
+yn varitaan:毛里塔尼亚 / 茅利塔尼亚
+yn varitaan:茅利塔尼亚
 yn varoc:móluògē
 yn varoc:摩洛哥
 yn vaveyr:巴伐利亚
 yn velaroosh:báiéluósī
 yn velaroosh:白俄罗斯
-yn velaroosh:白俄罗斯/白俄羅斯
-yn velaroosh:白俄羅斯
+yn velaroosh:白俄罗斯/白俄罗斯
 yn velaroosh:白罗斯
-yn velaroosh:白羅斯
 yn veleesh:伯利兹
-yn veleesh:伯利兹 / 貝里斯
+yn veleesh:伯利兹 / 贝里斯
 yn veleesh:伯利茲
-yn veleesh:貝里斯
+yn veleesh:贝里斯
 yn velg:bǐlìshí
 yn velg:比利时
-yn velg:比利时 / 比利時
-yn velg:比利時
+yn velg:比利时 / 比利时
 yn veneswaaley:委內瑞拉
 yn veneswaaley:委内瑞拉
 yn vietnam:yuènán
 yn vietnam:越南
 yn virjeeney heear:西弗吉尼亚州
-yn virjeeney heear:西弗吉尼亞州
-yn virjeeney heear:西維吉尼亞州
-yn virjeeney heear:西維珍尼亞州
+yn virjeeney heear:西维吉尼亚州
+yn virjeeney heear:西维珍尼亚州
 yn virjeeney:弗吉尼亚州
-yn virjeeney:弗吉尼亚州 / 維吉尼亞州 / 維珍尼亞州
-yn virjeeney:弗吉尼亞州
-yn virjeeney:維吉尼亞州
-yn virjeeney:維吉尼亞州 / 維珍尼亞州
-yn virjeeney:維珍尼亞州
-yn volivia:玻利維亞
+yn virjeeney:弗吉尼亚州 / 维吉尼亚州 / 维珍尼亚州
+yn virjeeney:维吉尼亚州
+yn virjeeney:维吉尼亚州 / 维珍尼亚州
+yn virjeeney:维珍尼亚州
 yn volivia:玻利维亚
-yn volivia:玻利维亚 / 玻利維亞
+yn volivia:玻利维亚 / 玻利维亚
 yn vongoil sthie:nèi měnggǔ zìzhìqū
-yn vongoil sthie:內蒙古自治區
+yn vongoil sthie:內蒙古自治区
 yn vongoil sthie:内蒙古自治区
 yn vongoil:蒙古
 yn vongoil:蒙古国
-yn vongoil:蒙古國
 yn vooir charibagh:加勒比海
 yn vooir ghoo:黑海
-yn vooir ruy:紅海
 yn vooir ruy:红海
 yn vooir vane:白海
 yn vosambeeck:mòsāngbǐkè
 yn vosambeeck:莫三比克
-yn vosambeeck:莫三鼻給
+yn vosambeeck:莫三鼻给
 yn vosambeeck:莫桑比克
 yn vosambeeck:莫桑比克 / 莫三比克
 yn votswaan:bócíwǎnà
-yn votswaan:博茨瓦納
 yn votswaan:博茨瓦纳
 yn votswaan:博茨瓦纳 / 波札那
 yn votswaan:波札那
-yn votswaan:波茨華拿
+yn votswaan:波茨华拿
 yn vrasseel:巴西
-yn vretyn vooar:大不列顛島
 yn vretyn vooar:大不列颠岛
-yn vretyn vooar:大不列颠岛 / 大不列顛島
-yn vrussyl:布魯塞爾
+yn vretyn vooar:大不列颠岛 / 大不列颠岛
 yn vrussyl:布鲁塞尔
 yn vulgeyr:bǎojiālìyà
 yn vulgeyr:保加利亚
-yn vulgeyr:保加利亚/保加利亞
-yn vulgeyr:保加利亞
+yn vulgeyr:保加利亚/保加利亚
 yn vutaan:bùdān
 yn vutaan:不丹
 yn yamaicey:牙买加
-yn yamaicey:牙買加
 yn yeaman:yěmén
-yn yeaman:也門
 yn yeaman:也门
-yn yeaman:也门 / 葉門
-yn yeaman:葉門
+yn yeaman:也门 / 叶门
+yn yeaman:叶门
 yn Çhapaan:rìběn
 yn Çhapaan:日本
 yn Çheer injil:hélán
 yn Çheer injil:荷兰
-yn Çheer injil:荷兰 / 荷蘭
-yn Çheer injil:荷蘭
+yn Çheer injil:荷兰 / 荷兰
 yn Çheer swassee:sīwēishìlán
 yn Çheer swassee:史瓦帝尼
 yn Çheer swassee:史瓦蒂尼
 yn Çheer swassee:斯威士兰
-yn Çheer swassee:斯威士兰 / 史瓦蒂尼 / 斯威士蘭
-yn Çheer swassee:斯威士蘭
+yn Çheer swassee:斯威士兰 / 史瓦蒂尼 / 斯威士兰
 yn Çheer thai:泰国
-yn Çheer thai:泰国 / 泰國
-yn Çheer thai:泰國
-yn Çheer vascagh:巴斯克地區
+yn Çheer thai:泰国 / 泰国
+yn Çheer vascagh:巴斯克地区
 yn Çhillee:智利
-yn Çhimbabwe:津巴布韋
 yn Çhimbabwe:津巴布韦
 yn Çhimbabwe:津巴布韦 / 辛巴威
 yn Çhimbabwe:辛巴威
 yn Çhorshey:gélǔjíyà
+yn Çhorshey:乔治亚
+yn Çhorshey:乔治亚州
 yn Çhorshey:佐治亚州
-yn Çhorshey:佐治亚州/喬治亞州
-yn Çhorshey:佐治亞州
-yn Çhorshey:喬治亞
-yn Çhorshey:喬治亞州
-yn Çhorshey:格魯吉亞
+yn Çhorshey:佐治亚州/乔治亚州
 yn Çhorshey:格鲁吉亚
-yn Çhorshey:格鲁吉亚 / 喬治亞
+yn Çhorshey:格鲁吉亚 / 乔治亚
 yndia:yìndù
 yndia:印度
 yndoneezje:印尼
 yndoneezje:印度尼西亚
-yndoneezje:印度尼西亚 / 印度尼西亞
-yndoneezje:印度尼西亞
+yndoneezje:印度尼西亚 / 印度尼西亚
 yngland:英格兰
-yngland:英格兰 / 英格蘭
-yngland:英格蘭
-ynis illa:巴德西島
+yngland:英格兰 / 英格兰
+ynis illa:巴德西岛
 ynol:炔醇
 ynone:炔酮
 ynskedee:恩斯赫德
@@ -509,41 +429,35 @@ yntymaq joly mälı basqarmasy:tuánjiélù jiēdào
 yntymaq joly mälı basqarmasy:团结路街道
 yntymaq joly:tuánjiélù jiēdào
 yntymaq joly:团结路
-ynys achill:阿基爾島
+ynys achill:阿基尔岛
 ynys aganas:圣艾格尼丝岛
-ynys arran:亞蘭島
-ynys arran:阿倫島
-ynys ascension:亞森松島
+ynys arran:亚兰岛
+ynys arran:阿伦岛
+ynys ascension:亚森松岛
 ynys ascension:阿森松岛
 ynys banks:班克斯岛
 ynys barbuda:巴布达岛屿
-ynys barbuda:巴布達島嶼
 ynys bering:白令岛
 ynys bolshevik:布尔什维克岛
-ynys bolshevik:布爾什維克島
-ynys bute:比特島
+ynys bute:比特岛
 ynys cape breton:布雷顿角岛
-ynys charcot:沙爾科島
+ynys charcot:沙尔科岛
 ynys elba:厄尔巴岛
 ynys ellesmere:埃尔斯米尔岛
-ynys enlli:巴德西島
-ynys enllie:巴德西島
-ynys gybi:聖島
-ynys king william:威廉王島
+ynys enlli:巴德西岛
+ynys enllie:巴德西岛
+ynys gybi:圣岛
+ynys king william:威廉王岛
 ynys komsomolets:共青团员岛
-ynys komsomolets:共青團員島
 ynys kotelny:科捷利內岛
-ynys kotelny:科捷利內島
 ynys kotelny:科捷利内岛
-ynys manaw:曼島
-ynys manaw:馬恩島
+ynys manaw:曼岛
 ynys manaw:马恩岛
-ynys manaw:马恩岛 / 曼島
-ynys manow:曼島
-ynys manow:馬恩島
+ynys manaw:马恩岛 / 曼岛
+ynys manow:曼岛
 ynys manow:马恩岛
-ynys manow:马恩岛 / 曼島
-ynys may:五月島
+ynys manow:马恩岛 / 曼岛
+ynys may:五月岛
 ynys melville:梅尔维尔岛
 ynys mon:安格尔西岛
 ynys morrys:模里西斯
@@ -551,98 +465,80 @@ ynys morrys:毛厘士
 ynys morrys:毛里求斯
 ynys môn:安格尔西岛
 ynys nadelik:圣诞岛
-ynys nadelik:圣诞岛 / 聖誕島
-ynys nadelik:聖誕島
+ynys nadelik:圣诞岛 / 圣诞岛
 ynys norfolk:诺福克岛
 ynys oktyabrskoy revolyutsii:十月革命岛
-ynys oktyabrskoy revolyutsii:十月革命島
-ynys prince charles:查爾斯王子島
+ynys prince charles:查尔斯王子岛
 ynys prince of wales:威尔士亲王岛
 ynys prince patrick:帕特里克王子岛
 ynys rhode:罗得岛州
-ynys rhode:羅德島州
+ynys rhode:罗德岛州
 ynys somerset:索默塞特岛
-ynys stewart:斯圖爾特島
+ynys stewart:斯图尔特岛
 ynys victoria:维多利亚岛
 ynys wrangel:弗兰格尔岛
 ynys wyth:怀特岛
 ynys y barri:巴里岛
-ynys y de:南島
-ynys y garn:根息島
+ynys y de:南岛
+ynys y garn:根息岛
 ynys y garn:根西
-ynys y garn:根西岛 / 根西島
-ynys y gogledd:北島
+ynys y garn:根西岛 / 根西岛
+ynys y gogledd:北岛
 ynys y nadolig:圣诞岛
-ynys y nadolig:圣诞岛 / 聖誕島
-ynys y nadolig:聖誕島
-ynys yuzhny:尤日內島
-ynysek syllan:錫利群島
+ynys y nadolig:圣诞岛 / 圣诞岛
+ynys yuzhny:尤日內岛
 ynysek syllan:锡利群岛
 ynysoedd aeolaidd:埃奥利群岛
-ynysoedd balearig:巴利亞利群島
+ynysoedd balearig:巴利亚利群岛
 ynysoedd balearig:巴利阿里群岛
 ynysoedd cayman:开曼群岛
-ynysoedd cayman:开曼群岛 / 開曼群島
-ynysoedd cayman:開曼群島
-ynysoedd cocos [keeling]:科科斯（基林）群島
+ynysoedd cayman:开曼群岛 / 开曼群岛
+ynysoedd cocos [keeling]:科科斯（基林）群岛
 ynysoedd cook:库克群岛
-ynysoedd cook:库克群岛 / 庫克群島
-ynysoedd cook:庫克群島
-ynysoedd cook:曲克群島
+ynysoedd cook:库克群岛 / 库克群岛
+ynysoedd cook:曲克群岛
 ynysoedd erch:奥克尼
 ynysoedd falkland:福克兰群岛
-ynysoedd falkland:福克兰群岛 / 福克蘭群島
-ynysoedd falkland:福克蘭群島
+ynysoedd falkland:福克兰群岛 / 福克兰群岛
 ynysoedd ffaro:法罗群岛
 ynysoedd ffaroe:fǎluóqúndǎo
 ynysoedd ffaroe:法罗群岛
-ynysoedd ffaroe:法罗群岛 / 法羅群島
-ynysoedd ffaroe:法羅群島
+ynysoedd ffaroe:法罗群岛 / 法罗群岛
 ynysoedd hawaii:夏威夷群岛
 ynysoedd komandorski:科曼多尔群岛
-ynysoedd marquesas:馬克薩斯群島
-ynysoedd marshall:馬紹爾群島
+ynysoedd marquesas:马克萨斯群岛
 ynysoedd marshall:马绍尔群岛
-ynysoedd marshall:马绍尔群岛 / 馬紹爾群島
+ynysoedd marshall:马绍尔群岛 / 马绍尔群岛
 ynysoedd philippines:fēilǜbīn
 ynysoedd philippines:菲律宾
-ynysoedd philippines:菲律宾 / 菲律賓
-ynysoedd philippines:菲律賓
-ynysoedd philippines:菲律賓/菲律宾
+ynysoedd philippines:菲律宾 / 菲律宾
+ynysoedd philippines:菲律宾/菲律宾
 ynysoedd pitcairn, henderson, ducie ac oeno:皮特凯恩群岛
-ynysoedd pitcairn, henderson, ducie ac oeno:皮特凯恩群岛 / 皮特肯群島
-ynysoedd pitcairn, henderson, ducie ac oeno:皮特肯群島
+ynysoedd pitcairn, henderson, ducie ac oeno:皮特凯恩群岛 / 皮特肯群岛
+ynysoedd pitcairn, henderson, ducie ac oeno:皮特肯群岛
+ynysoedd prydeinig y wyryf:英属处女群岛
+ynysoedd prydeinig y wyryf:英属维京群岛
 ynysoedd prydeinig y wyryf:英属维尔京群岛
-ynysoedd prydeinig y wyryf:英属维尔京群岛 / 英屬維京群島
-ynysoedd prydeinig y wyryf:英屬維京群島
-ynysoedd prydeinig y wyryf:英屬維爾京群島
-ynysoedd prydeinig y wyryf:英屬處女群島
-ynysoedd scilly:錫利群島
+ynysoedd prydeinig y wyryf:英属维尔京群岛 / 英属维京群岛
 ynysoedd scilly:锡利群岛
 ynysoedd solomon:所罗门群岛
-ynysoedd solomon:所罗门群岛 / 索羅門群島
-ynysoedd solomon:所羅門群島
-ynysoedd solomon:索羅門群島
-ynysoedd tuamotu:土亞莫土群島
-ynysoedd tuamotu:土阿莫土群島
-ynysoedd turks a caicos:土克凱可群島
-ynysoedd turks a caicos:土克凱可群島 / 特克斯和凱科斯群島
+ynysoedd solomon:所罗门群岛 / 索罗门群岛
+ynysoedd solomon:索罗门群岛
+ynysoedd tuamotu:土亚莫土群岛
+ynysoedd tuamotu:土阿莫土群岛
+ynysoedd turks a caicos:土克凱可群岛
+ynysoedd turks a caicos:土克凱可群岛 / 特克斯和凱科斯群岛
+ynysoedd turks a caicos:特克斯与凱科斯群岛
 ynysoedd turks a caicos:特克斯和凯科斯群岛
-ynysoedd turks a caicos:特克斯和凱科斯群島
-ynysoedd turks a caicos:特克斯與凱科斯群島
+ynysoedd turks a caicos:特克斯和凱科斯群岛
 ynysoedd y sianel:海峡群岛
-ynysoedd y sianel:海峽群島
-ynysow bahama:巴哈馬
 ynysow bahama:巴哈马
-ynysow bahama:巴哈马 / 巴哈馬
-ynysow balearek:巴利亞利群島
+ynysow bahama:巴哈马 / 巴哈马
+ynysow balearek:巴利亚利群岛
 ynysow balearek:巴利阿里群岛
 ynysow cook:库克群岛
-ynysow cook:库克群岛 / 庫克群島
-ynysow cook:庫克群島
-ynysow cook:曲克群島
+ynysow cook:库克群岛 / 库克群岛
+ynysow cook:曲克群岛
 ynysow faroe:法罗群岛
-ynysow faroe:法羅群島
 ynysow salamon:所罗门群岛
-ynysow salamon:所羅門群島
-ynysow salamon:索羅門群島
+ynysow salamon:索罗门群岛

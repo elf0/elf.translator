@@ -1,39 +1,34 @@
 id city:艾迪城
 id kah mosque:艾提尕尔清真寺
-id logistics:中法興物流
+id logistics:中法兴物流
 id variables:标识符变量
 id:nusantara:努山塔拉
-id:愛達荷州
 id:标识符
 id:爱达荷州
-ida chong:張杏芳
+ida chong:张杏芳
 ida kahn:康成
 ida of formbach ratelnberg:奥地利的伊达
 ida pruitt:蒲爱德
 ida township:艾达镇区
-ida viru county:東維魯縣
+ida viru county:东维鲁县
+ida-aserbaidžaani provints:东亚塞拜疆省
 ida-aserbaidžaani provints:东阿塞拜疆省
-ida-aserbaidžaani provints:東亞塞拜疆省
 ida-euroopa lauskmaa:东欧平原
 ida-flandria:东弗兰德省
+ida-gobi aimakk:东戈壁
 ida-gobi aimakk:东戈壁省
-ida-gobi aimakk:東戈壁
-ida-gobi aimakk:東戈壁省
+ida-kapimaa provints:东开普
 ida-kapimaa provints:东开普省
-ida-kapimaa provints:東開普
-ida-kapimaa provints:東開普省
 ida-kasahstani oblast:东哈萨克斯坦州
 ida-malvinas:东福克兰岛
-ida-mashonalandi provints:東馬紹納蘭省
-ida-mayo-kebbi:東凱比河區
+ida-mashonalandi provints:东马绍纳兰省
+ida-mayo-kebbi:东凱比河区
 ida-siberi meri:东西伯利亚海
 ida-timor:东帝汶
-ida-timor:东帝汶 / 東帝汶
-ida-timor:東帝汶
+ida-timor:东帝汶 / 东帝汶
 idaaimakk:xīnbā'ěrhǔ yòu qí
+idaaimakk:东方盟
 idaaimakk:东方省
-idaaimakk:東方盟
-idaaimakk:東方省
 idagawa station:井田川站
 idaho and arizona:爱达荷州和亚利桑那州
 idaho and florida:爱达荷州和佛罗里达州
@@ -62,7 +57,7 @@ idaho community:爱达荷州社区
 idaho company:爱达荷州公司
 idaho court:爱达荷州法院
 idaho ecosystem:爱达荷州生态系统
-idaho falls idaho temple:愛達荷州愛達荷福爾斯聖殿
+idaho falls idaho temple:爱达荷州爱达荷福尔斯圣殿
 idaho family planning:爱达荷州计划生育
 idaho farm:爱达荷州农田
 idaho fish:爱达荷州鱼
@@ -92,7 +87,7 @@ idaho or montana:爱达荷州或蒙大拿州
 idaho or tennessee:爱达荷州或田纳西州
 idaho panhandle national forests:爱达荷狭地国家森林
 idaho panhandle:爱达荷狭地
-idaho potato museum:愛達荷馬鈴薯博物館
+idaho potato museum:爱达荷马铃薯博物馆
 idaho potato:爱达荷州马铃薯
 idaho power company:爱达荷州电力公司
 idaho power:爱达荷州电力
@@ -103,40 +98,35 @@ idaho says:爱达荷州说
 idaho senate:爱达荷州参议院
 idaho seven:爱达荷州七
 idaho should show:爱达荷州应该显示
-idaho state capitol:愛達荷州議會大廈
-idaho state university:愛達荷州立大學
-idaho suyu:愛達荷州
+idaho state capitol:爱达荷州议会大厦
+idaho state university:爱达荷州立大学
 idaho suyu:爱达荷州
 idaho territory in the american civil war:南北战争中的爱达荷州
-idaho territory:愛達荷領地
+idaho territory:爱达荷领地
 idaho to chicago:爱达荷州到芝加哥
 idaho village:爱达荷州村
 idaho wildfire:爱达荷州野火
-idaho:愛達荷州
 idaho:爱达荷州
-idahum:愛達荷州
 idahum:爱达荷州
 idakiso station:伊太祈曾站
 idalas:伊德莱斯
-idalas:伊德萊斯
+idali:义大利
 idali:意大利
-idali:義大利
+idalje:义大利
 idalje:意大利
-idalje:義大利
-idam elementary school:伊淡初等學校
-idamichi station:豬田道站
+idam elementary school:伊淡初等学校
+idamichi station:猪田道站
 idamu lemvula:雨池
 idanang:岘港市
 idanang:峴港市
-idanha a nova:新伊達尼亞
+idanha a nova:新伊达尼亚
 idapiirkond:东部区
 idaprovints:东方省
 idaprovints:东部省
 idashi:hélán
 idashi:荷兰
-idashi:荷兰 / 荷蘭
-idashi:荷蘭
-idaten jump:韋駄天翔
+idashi:荷兰 / 荷兰
+idaten jump:韦駄天翔
 idaux mendy:伊多芒迪
 idc otsuka kagu:idc 大塚家具
 idc 오쓰카 가구:idc 大塚家具
@@ -156,10 +146,9 @@ idea center:主意中心
 idea challenges:构想挑战
 idea concept:构想概念
 idea failed:主意失败
-idea fashion salon:髮點子時尚沙龍
+idea fashion salon:发点子时尚沙龙
 idea had been:主意已经
 idea he:主意他
-idea hom:愛迪家
 idea hom:爱迪家
 idea how to:主意如何
 idea how:主意如何
@@ -206,7 +195,6 @@ ideal activities:理想活动
 ideal activity:理想活动
 ideal activity:理想的活动
 ideal actor:理想的演员
-ideal actor:理想的演員
 ideal addition:理想的附加
 ideal addition:理想附加
 ideal address:理想地址
@@ -227,11 +215,10 @@ ideal aircraft:理想的飞机
 ideal aircraft:理想飞机
 ideal airline:理想的航空公司
 ideal airline:理想航空公司
-ideal airplane:理想的飛機
+ideal airplane:理想的飞机
 ideal airport hotel:理想的机场酒店
 ideal airport:理想机场
 ideal airport:理想的机场
-ideal airport:理想的機場
 ideal airy disk:理想的艾里斑
 ideal algorithm:理想的算法
 ideal alignment:理想的对齐
@@ -245,7 +232,6 @@ ideal analytics:理想的分析
 ideal ancient:理想的古
 ideal and efficient:理想和高效的
 ideal and goal:理想和目标
-ideal and goal:理想和目標
 ideal and hopes:理想和希望
 ideal and i leave:理想和我离开
 ideal and institution:理想和制度
@@ -298,7 +284,6 @@ ideal artist:理想的艺术家
 ideal asian:理想的亚洲
 ideal asset protection:理想资产保护
 ideal asset:理想的资产
-ideal asset:理想資產
 ideal asset:理想资产
 ideal assistant:理想的助手
 ideal assistants:理想的助手
@@ -321,7 +306,7 @@ ideal auto:理想的汽车
 ideal average temperature:理想的平均温度
 ideal average:理想平均
 ideal average:理想的平均
-ideal baby bottle:理想的嬰兒奶瓶
+ideal baby bottle:理想的婴儿奶瓶
 ideal baby:理想的婴儿
 ideal background:理想的背景
 ideal background:理想背景
@@ -333,7 +318,7 @@ ideal band:理想带
 ideal band:理想的带
 ideal bank:理想的银行
 ideal bar:理想的酒吧
-ideal barbecue:理想的燒烤
+ideal barbecue:理想的烧烤
 ideal base:理想基地
 ideal base:理想的基地
 ideal bathroom:理想浴室
@@ -347,7 +332,6 @@ ideal beer product:理想的啤酒产品
 ideal beer:理想的啤酒
 ideal before:理想之前
 ideal behavior:理想的行为
-ideal behavior:理想的行為
 ideal behavior:理想行为
 ideal behaviour:理想的行为
 ideal behaviour:理想行为
@@ -357,25 +341,22 @@ ideal beverage:理想饮料
 ideal big brother:理想的老大哥
 ideal bike:理想的自行车
 ideal bike:理想自行车
-ideal bill:理想的比爾
+ideal bill:理想的比尔
 ideal biological weapon:理想的生物武器
 ideal birthday:理想的生日
 ideal black:理想的黑色
 ideal blog news:理想的博客新闻
 ideal blog:理想的博客
 ideal blood pressure:理想的血压
-ideal blood pressure:理想的血壓
 ideal blood pressure:理想血压
-ideal blood pressure:理想血壓
 ideal blood:理想的血
 ideal blueprint:理想蓝图
-ideal blueprint:理想藍圖
 ideal body goals:理想的身体目标
-ideal body temperature:理想的體溫
+ideal body temperature:理想的体温
 ideal body:理想的身体
 ideal body:理想身体
 ideal boiler:理想锅炉
-ideal bookstore:理想書店
+ideal bookstore:理想书店
 ideal boss:理想的老板
 ideal boy:理想的男孩
 ideal boyfriend and husband:理想男友与丈夫
@@ -394,7 +375,6 @@ ideal breed:理想的繁殖
 ideal bride:理想的新娘
 ideal bridegroom:理想的新郎
 ideal bridge:理想桥
-ideal bridge:理想橋
 ideal bridge:理想的桥
 ideal browser:理想的浏览器
 ideal brunch:理想的早午餐
@@ -412,7 +392,6 @@ ideal business:理想的商业
 ideal business:理想的生意
 ideal buy:理想买
 ideal buy:理想的买
-ideal buy:理想買
 ideal by:理想被
 ideal cable:理想电缆
 ideal cable:理想的电缆
@@ -429,15 +408,11 @@ ideal can reach:理想的能达到
 ideal cancer:理想癌症
 ideal cancer:理想的癌症
 ideal candidate also needs:理想的候选人也需要
-ideal candidate also needs:理想的候選人也需要
 ideal candidate:理想候选人
 ideal candidate:理想的候选人
-ideal candidate:理想的候選人
-ideal candidates are those:理想的候選人是那些
+ideal candidates are those:理想的候选人是那些
 ideal candidates:理想候选人
-ideal candidates:理想候選人
 ideal candidates:理想的候选人
-ideal candidates:理想的候選人
 ideal candle:理想的蜡烛
 ideal cannot:理想不能
 ideal canvas:理想的画布
@@ -459,8 +434,7 @@ ideal case:理想案例
 ideal case:理想的案件
 ideal case:理想的案例
 ideal cash:理想的现金
-ideal cash:理想的現金
-ideal casino:理想的賭場
+ideal casino:理想的赌场
 ideal castle:理想城堡
 ideal cat:理想的猫
 ideal cathedral:理想的主教座堂
@@ -487,12 +461,10 @@ ideal childhood:理想的童年
 ideal china:理想的中国
 ideal chinatown:理想的唐人街
 ideal choice:理想的选择
-ideal choice:理想的選擇
 ideal choice:理想选择
-ideal choice:理想選擇
 ideal christ:理想的基督
 ideal christian:理想的基督徒
-ideal church of scientology:理想山達基教會
+ideal church of scientology:理想山达基教会
 ideal circle:理想圆
 ideal circle:理想圆圈
 ideal circle:理想的圆
@@ -509,7 +481,7 @@ ideal city-state should have about:理想的城邦应该有大约
 ideal city-state:理想的城邦
 ideal city:理想城市
 ideal city:理想的城市
-ideal class group:理想類群
+ideal class group:理想类群
 ideal class:理想类
 ideal classroom:理想的教室
 ideal cleaning:理想的清洁
@@ -522,7 +494,6 @@ ideal climate and conditions:理想的气候和条件
 ideal climate and soil:理想的气候和土壤
 ideal climate:理想气候
 ideal climate:理想的气候
-ideal climate:理想的氣候
 ideal clinical:理想的临床
 ideal clock:理想时钟
 ideal clock:理想的时钟
@@ -549,8 +520,8 @@ ideal color:理想的颜色
 ideal color:理想颜色
 ideal colour:理想颜色
 ideal combat:理想的战斗
-ideal combination:理想的組合
-ideal combination:理想組合
+ideal combination:理想的组合
+ideal combination:理想组合
 ideal communication protocol:理想通信协议
 ideal communication tool:理想的沟通工具
 ideal communication:理想的沟通
@@ -603,7 +574,6 @@ ideal control:理想的控制
 ideal controller:理想的控制器
 ideal convenience:理想的便利
 ideal convention centre:理想会展中心
-ideal convention centre:理想會展中心
 ideal conversation experience:理想的对话体验
 ideal conversation:理想的对话
 ideal converter:理想的转换器
@@ -635,7 +605,7 @@ ideal cup:理想的杯子
 ideal currency:理想货币
 ideal customer:理想客户
 ideal customer:理想的客户
-ideal customer:理想顧客
+ideal customer:理想顾客
 ideal customers or at least:理想的客户或至少
 ideal customers:理想客户
 ideal customers:理想的客户
@@ -658,8 +628,8 @@ ideal date:理想日期
 ideal date:理想的日期
 ideal date:理想的约会
 ideal date:理想约会
-ideal dating:理想的約會
-ideal daughter:理想女兒
+ideal dating:理想的约会
+ideal daughter:理想女儿
 ideal daughter:理想的女儿
 ideal day:理想日
 ideal day:理想的日
@@ -721,13 +691,13 @@ ideal domain name:理想域名
 ideal domain name:理想的域名
 ideal domain:理想域
 ideal dominican:理想的多米尼加
-ideal dose:理想劑量
-ideal dream:理想的夢
+ideal dose:理想剂量
+ideal dream:理想的梦
 ideal drink:理想的饮料
 ideal drinking water solution:理想的饮用水解决方案
 ideal drinking water:理想的饮用水
 ideal driver:理想的司机
-ideal driving:理想的駕駛
+ideal driving:理想的驾驶
 ideal drug:理想的药物
 ideal drug:理想药
 ideal drug:理想药物
@@ -764,7 +734,6 @@ ideal end-state:理想的结束状态
 ideal end:理想的结束
 ideal end:理想结束
 ideal enemy:理想敌人
-ideal enemy:理想敵人
 ideal enemy:理想的敌人
 ideal energy carrier:理想的能源载体
 ideal energy efficiency:理想的能源效率
@@ -788,7 +757,6 @@ ideal environmental protection:理想环保
 ideal environments:理想环境
 ideal environments:理想的环境
 ideal equipment:理想的设备
-ideal equipment:理想設備
 ideal equipment:理想设备
 ideal error:理想的错误
 ideal essence:理想的本质
@@ -811,11 +779,10 @@ ideal eye:理想的眼睛
 ideal eyebrow:理想的眉毛
 ideal face ratio:理想的脸比例
 ideal face:理想的脸
-ideal face:理想的臉
 ideal facilities and improvements:理想的设施和改进
 ideal facilities:理想的设施
 ideal facilities:理想设施
-ideal factory:理想工廠
+ideal factory:理想工厂
 ideal factory:理想的工厂
 ideal families and social science:理想家庭与社会科学
 ideal families:理想家庭
@@ -825,7 +792,6 @@ ideal family:理想家庭
 ideal family:理想的家庭
 ideal faraday cage:理想的法拉第笼
 ideal father:理想父亲
-ideal father:理想父親
 ideal father:理想的父亲
 ideal feedback:理想的反馈
 ideal feel:理想的感觉
@@ -834,7 +800,7 @@ ideal female lover:理想的女性爱人
 ideal female:理想女性
 ideal female:理想的女性
 ideal femininity:理想的女性气质
-ideal feminist:理想的女性主義者
+ideal feminist:理想的女性主义者
 ideal fermentation temperature:理想的发酵温度
 ideal fermentation:理想的发酵
 ideal fiber:理想的纤维
@@ -887,7 +853,7 @@ ideal foundation:理想的基金
 ideal four:理想的四
 ideal framework:理想框架
 ideal framework:理想的框架
-ideal free market:理想的自由市場
+ideal free market:理想的自由市场
 ideal french:理想的法国人
 ideal frequency:理想的频率
 ideal frequency:理想频率
@@ -915,13 +881,10 @@ ideal garden:理想的花园
 ideal gas equation:理想气体方程
 ideal gas law:理想气体状态方程
 ideal gas:理想气体
-ideal gas:理想氣體
 ideal genotype:理想基因型
 ideal georgia:理想格鲁吉亚
 ideal gift:理想的礼物
-ideal gift:理想的禮物
 ideal gift:理想礼物
-ideal gift:理想禮物
 ideal girl:理想女孩
 ideal girl:理想的女孩
 ideal girl:理想的姑娘
@@ -932,21 +895,17 @@ ideal global:理想全球
 ideal global:理想的全球
 ideal glycogen:理想的糖原
 ideal goal:理想的目标
-ideal goal:理想的目標
 ideal goal:理想目标
-ideal goal:理想目標
 ideal goals:理想的目标
 ideal god:理想的神
 ideal government:理想政府
 ideal government:理想的政府
-ideal graduate:理想的畢業生
+ideal graduate:理想的毕业生
 ideal grape:理想的葡萄
 ideal grape:理想葡萄
 ideal graphics:理想的图形
 ideal green building:理想的绿色建筑
-ideal green energy:理想的綠色能源
 ideal green energy:理想的绿色能源
-ideal green:理想的綠色
 ideal green:理想的绿色
 ideal grind:理想磨
 ideal ground:理想地面
@@ -963,7 +922,7 @@ ideal happiness:理想幸福
 ideal hardware:理想的硬件
 ideal hardware:理想硬件
 ideal has been:理想已经
-ideal health behavior:理想健康行為
+ideal health behavior:理想健康行为
 ideal health state:理想的健康状态
 ideal health:理想健康
 ideal health:理想的健康
@@ -999,10 +958,10 @@ ideal host:理想的主机
 ideal hotel breakfast:理想的酒店早餐
 ideal hotel choice:理想的酒店选择
 ideal hotel market:理想的酒店市场
-ideal hotel room:理想酒店房間
+ideal hotel room:理想酒店房间
 ideal hotel:理想的酒店
 ideal hotel:理想酒店
-ideal house:愛迪樓
+ideal house:爱迪楼
 ideal house:理想的房子
 ideal housewife:理想主妇
 ideal housing:理想住房
@@ -1048,7 +1007,7 @@ ideal individuals:理想的个人
 ideal induction heating:理想的感应加热
 ideal industry:理想的工业
 ideal inequality:理想不等式
-ideal infertility counselor:理想的不孕輔導員
+ideal infertility counselor:理想的不孕辅导员
 ideal infertility:理想的不孕
 ideal inflammation:理想的炎症
 ideal inflation:理想的通货膨胀
@@ -1057,7 +1016,6 @@ ideal information:理想的信息
 ideal infrastructure:理想基础设施
 ideal infrastructure:理想的基础设施
 ideal innovation:理想的创新
-ideal innovation:理想的創新
 ideal insomnia:理想的失眠
 ideal installation:理想的安装
 ideal institution:理想制度
@@ -1092,7 +1050,6 @@ ideal is democracy:理想是民主
 ideal is suffering:理想是痛苦
 ideal islamic state:理想的伊斯兰国
 ideal island:理想的岛屿
-ideal island:理想的島嶼
 ideal jazz:理想的爵士乐
 ideal job:理想的职业
 ideal job:理想职业
@@ -1101,18 +1058,17 @@ ideal jobs:理想工作
 ideal jobs:理想的工作
 ideal journey:理想旅程
 ideal journey:理想的旅行
-ideal justice:理想正義
+ideal justice:理想正义
 ideal keyboard:理想的键盘
 ideal kill:理想的杀
-ideal kindergarten:理想的幼稚園
+ideal kindergarten:理想的幼稚园
 ideal king:理想国王
 ideal king:理想的国王
 ideal king:理想的王
 ideal kingdom:理想王国
 ideal kingdom:理想的王国
-ideal kitchen:理想廚房
+ideal kitchen:理想厨房
 ideal kitchen:理想的厨房
-ideal kitchen:理想的廚房
 ideal knowledge partner:理想知识合作伙伴
 ideal knowledge:理想知识
 ideal label:理想的标签
@@ -1196,9 +1152,8 @@ ideal long term:理想的长期
 ideal long-term solution:理想的长期解决方案
 ideal long-term:理想的长期
 ideal look:理想看
-ideal loudspeaker:理想的揚聲器
+ideal loudspeaker:理想的扬声器
 ideal love:理想爱
-ideal love:理想的愛
 ideal love:理想的爱
 ideal lover:理想爱人
 ideal lover:理想的爱人
@@ -1212,7 +1167,7 @@ ideal machine learning platform:理想的机器学习平台
 ideal machine learning:理想的机器学习
 ideal machine vision application:理想的机器视觉应用程序
 ideal machine:理想机器
-ideal machine:理想機械
+ideal machine:理想机械
 ideal machine:理想的机器
 ideal machines:理想机器
 ideal male:理想男性
@@ -1268,8 +1223,8 @@ ideal metal:理想金属
 ideal method:理想方法
 ideal method:理想的方法
 ideal methods:理想的方法
-ideal microclimate:理想微氣候
-ideal microclimate:理想的微氣候
+ideal microclimate:理想微气候
+ideal microclimate:理想的微气候
 ideal microwave:理想的微波
 ideal minimart:理想迷你市场
 ideal mission:理想使命
@@ -1296,13 +1251,11 @@ ideal month:理想月
 ideal months:理想月
 ideal months:理想的月
 ideal morning:理想的早晨
-ideal mother and wife:理想的母親和妻子
+ideal mother and wife:理想的母亲和妻子
 ideal mother or father:理想的母亲或父亲
 ideal mother transference:理想母亲移情
 ideal mother:理想母亲
-ideal mother:理想母親
 ideal mother:理想的母亲
-ideal mother:理想的母親
 ideal mountain:理想的山
 ideal mudra:理想的手印
 ideal muslim community:理想穆斯林社区
@@ -1341,13 +1294,13 @@ ideal observer:理想观察者
 ideal occupation:理想的职业
 ideal of course:理想当然
 ideal offer:理想提供
-ideal office:理想的辦公室
+ideal office:理想的办公室
 ideal one:理想的一
 ideal online:理想的在线
 ideal open:理想的开
 ideal operating environment:理想操作环境
 ideal operating system:理想操作系统
-ideal operating temperature:理想的工作溫度
+ideal operating temperature:理想的工作温度
 ideal operational amplifier:理想运算放大器
 ideal opponent:理想对手
 ideal opponent:理想的对手
@@ -1357,10 +1310,10 @@ ideal opportunity:理想机会
 ideal opportunity:理想的机会
 ideal optimize:理想优化
 ideal option:理想选项
-ideal or dream:理想或夢
+ideal or dream:理想或梦
 ideal or ideology:理想或意识形态
 ideal or perfect manner:理想或完美的方式
-ideal oral hygiene:理想的口腔衛生
+ideal oral hygiene:理想的口腔卫生
 ideal organ:理想的器官
 ideal organisation:理想的组织
 ideal organisation:理想组织
@@ -1522,7 +1475,7 @@ ideal province:理想省
 ideal psychiatric hospital:理想精神病院
 ideal public security:理想的公共安全
 ideal public service:理想的公共服务
-ideal public space:理想的公共空間
+ideal public space:理想的公共空间
 ideal public sphere:理想的公共领域
 ideal public:理想的公共
 ideal publication:理想出版
@@ -1546,10 +1499,9 @@ ideal reaction:理想的反应
 ideal reader or customer:理想的读者或客户
 ideal reader:理想的读者
 ideal reader:理想读者
-ideal reading:理想的閱讀
+ideal reading:理想的阅读
 ideal realism:理想的现实主义
 ideal reality:理想的现实
-ideal reality:理想的現實
 ideal reason:理想原因
 ideal reason:理想的原因
 ideal recipe:理想的食谱
@@ -1559,7 +1511,7 @@ ideal rectangle:理想矩形
 ideal red:理想的红色
 ideal reference point:理想参考点
 ideal reference:理想参考
-ideal reference:理想的參考
+ideal reference:理想的参考
 ideal refrigerant:理想制冷剂
 ideal refrigerant:理想的制冷剂
 ideal region:理想区域
@@ -1586,7 +1538,7 @@ ideal resource:理想的资源
 ideal resource:理想资源
 ideal resources:理想资源
 ideal response:理想响应
-ideal response:理想回應
+ideal response:理想回应
 ideal rest:理想休息
 ideal result:理想的结果
 ideal result:理想结果
@@ -1644,7 +1596,7 @@ ideal science:理想科学
 ideal scientific formula:理想的科学公式
 ideal scientific:理想的科学
 ideal scientist:理想的科学家
-ideal scientology:理想山達基
+ideal scientology:理想山达基
 ideal score:理想得分
 ideal screen:理想屏幕
 ideal screen:理想的屏幕
@@ -1681,8 +1633,8 @@ ideal services:理想的服务
 ideal set:理想的设置
 ideal set:理想设置
 ideal sexual relationship:理想的性关系
-ideal shape:理想形狀
-ideal shape:理想的形狀
+ideal shape:理想形状
+ideal shape:理想的形状
 ideal shareholder:理想股东
 ideal shelf life:理想的保质期
 ideal shelter:理想的庇护所
@@ -1707,7 +1659,6 @@ ideal skiing:理想的滑雪
 ideal skills:理想技能
 ideal skills:理想的技能
 ideal skin:理想的皮肤
-ideal skin:理想的皮膚
 ideal skin:理想皮肤
 ideal slave society:理想的奴隶社会
 ideal slave:理想的奴隶
@@ -1745,15 +1696,13 @@ ideal solution:理想解决方案
 ideal solutions:理想解决方案
 ideal solvent:理想溶剂
 ideal solvent:理想的溶剂
-ideal son:理想的兒子
+ideal son:理想的儿子
 ideal song:理想的歌
 ideal sound:理想的声音
 ideal source:理想源
-ideal souvenir:理想的紀念品
+ideal souvenir:理想的纪念品
 ideal space tug:理想的太空拖船
-ideal space:理想的空間
 ideal space:理想的空间
-ideal space:理想空間
 ideal space:理想空间
 ideal spawning conditions:理想的产卵条件
 ideal spawning:理想的产卵
@@ -1828,7 +1777,6 @@ ideal survival rate:理想存活率
 ideal swimming:理想的游泳
 ideal switch:理想开关
 ideal switch:理想的开关
-ideal switch:理想開關
 ideal symbiosis:理想共生
 ideal syntax:理想的语法
 ideal synthesis:理想合成
@@ -1837,13 +1785,12 @@ ideal system and data management:理想系统和数据管理
 ideal system architecture:理想系统架构
 ideal system requirements:理想的系统需求
 ideal system:理想的系统
-ideal system:理想系統
 ideal system:理想系统
 ideal systems:理想系统
 ideal tank kill:理想的坦克杀
 ideal tank:理想的坦克
 ideal target should be:理想的目标应该是
-ideal target:理想標靶
+ideal target:理想标靶
 ideal target:理想的目标
 ideal target:理想目标
 ideal tasks:理想任务
@@ -1877,12 +1824,10 @@ ideal testing:理想的测试
 ideal text:理想文本
 ideal text:理想的文本
 ideal textbook:理想教科书
-ideal textbook:理想教科書
 ideal that:理想的那
-ideal theme park:理想的主題公園
+ideal theme park:理想的主题公园
 ideal theme:理想的主题
 ideal theorem:理想定理
-ideal theory:理想理論
 ideal theory:理想理论
 ideal theory:理想的理论
 ideal thing:理想的东西
@@ -1955,7 +1900,6 @@ ideal unique:理想唯一的
 ideal universe:理想宇宙
 ideal university education:理想的大学教育
 ideal university:理想大学
-ideal university:理想大學
 ideal university:理想的大学
 ideal upgrade:理想升级
 ideal uric acid level:理想尿酸水平
@@ -2018,7 +1962,6 @@ ideal weather conditions:理想的天气条件
 ideal weather:理想天气
 ideal weather:理想的天气
 ideal web site:理想网站
-ideal website:理想的網站
 ideal website:理想的网站
 ideal website:理想网站
 ideal wedding:理想婚礼
@@ -2070,36 +2013,31 @@ ideal zero:理想零
 ideal zone:理想地带
 ideal:理想
 ideal:理想的
-idealism:唯心主義
+idealism:唯心主义
 ideals club cafe:理想俱乐部咖啡厅
-ideas and delusions of reference:關係妄想
-ideas dessert:點點甜
+ideas and delusions of reference:关系妄想
+ideas dessert:点点甜
 idebashi:井手桥
-idebashi:井手橋
 idebenone:艾地苯醌
-ideciu de jos:下伊代丘鄉
+ideciu de jos:下伊代丘乡
 idegahara:出原
-idel ural legion:伏爾加韃靼軍團
+idel ural legion:伏尔加韃靼军团
 idelberg:伊德尔贝格
-idelesaurus:伊代爾龍獸屬
+idelesaurus:伊代尔龙兽属
 idelles:伊德莱斯
-idelles:伊德萊斯
-idemitsu art museum station:出光美術館車站
+idemitsu art museum station:出光美术馆车站
 idemitsu kosan:出光兴产
-idemitsu kosan:出光興產
-idemitsu museum of arts:出光美術館
+idemitsu museum of arts:出光美术馆
 idempotence:冪等
 idempotency of entailment:蕴含的幂等性
 idempotent analysis:冪等分析
 idempotent matrix:幂等矩阵
 iden:集成数字增强网络
-idenau:伊德納烏
+idenau:伊德纳乌
 idenheim:伊登海姆
-idenimakhi:丹麥
 idenimakhi:丹麦
-idenimaki:丹麥
 idenimaki:丹麦
-idensalmi:伊薩爾米
+idensalmi:伊萨尔米
 identical machines scheduling:同机调度
 identical twins come from:同卵双胞胎来自
 identical twins come:同卵双胞胎来
@@ -2110,11 +2048,11 @@ identical twins sleep:同卵双胞胎睡眠
 identical twins so:同卵双胞胎如此
 identical twins:同卵双胞胎
 identifiability:可辨识性
-identifiable victim effect:可辨識受害者效應
+identifiable victim effect:可辨识受害者效应
 identification badges of the uniformed services of the united states:美国部队勤务识别章
-identification friend or foe:敵友識別系統
+identification friend or foe:敌友识別系统
 identification key:生物检索表
-identification services bureau:身份證明局
+identification services bureau:身份证明局
 identifier and location:标识符和位置
 identifier and several bytes:标识符和几个字节
 identifier and site name:标识符和站点名称
@@ -2164,7 +2102,6 @@ identifier tree:标识符树
 identifier type:标识符类型
 identifier value:标识符值
 identifier:标识符
-identifier:標識符
 identify a great brand:识别一个伟大的品牌
 identify a pattern:识别一个模式
 identify a person or their:识别一个人或他们的
@@ -3095,7 +3032,7 @@ identify:识别
 identitarian movement:认同主义运动
 identity and access management market:身份管理市场
 identity and access management:身份管理
-identity and democracy:認同與民主
+identity and democracy:认同与民主
 identity card after:身份证后
 identity card and bank card:身份证和银行卡
 identity card and passport:身份证与护照
@@ -3112,13 +3049,13 @@ identity card too:身份证也
 identity card will:身份证会
 identity card:身份证
 identity document forgery:虚假证件
-identity document:證件
-identity economics:身分經濟學
-identity element:單位元
-identity function:恆等函數
-identity matrix:單位矩陣
+identity document:证件
+identity economics:身分经济学
+identity element:单位元
+identity function:恒等函数
+identity matrix:单位矩阵
 identity of indiscernibles:不可分者同一性原理
-identity politics:身份認同政治
+identity politics:身份认同政治
 identity theft affidavit:身份盗窃宣誓书
 identity theft and browser warning:身份盗窃和浏览器警告
 identity theft and buffer overflow:身份盗窃和缓冲区溢出
@@ -3176,8 +3113,8 @@ identity-theft reports:身份盗窃报告
 identity-theft target:身份盗窃目标
 ideogram:形意符号
 ideographic description characters:表意文字描述字符
-ideographic research group:表意文字小組
-ideographic symbols and punctuation:表意文字符號和標點
+ideographic research group:表意文字小组
+ideographic symbols and punctuation:表意文字符号和标点
 ideology always:意识形态总是
 ideology and belief:意识形态和信念
 ideology and climate:意识形态与气候
@@ -3191,11 +3128,10 @@ ideology and foreign policy:意识形态和外交政策
 ideology and goals:意识形态与目标
 ideology and historical materialism:意识形态与历史唯物主义
 ideology and history:意识形态和历史
-ideology and ideological state apparatuses:意識形態國家機器
+ideology and ideological state apparatuses:意识形态国家机器
 ideology and investment:意识形态与投资
 ideology and jihad:意识形态和圣战
 ideology and modern culture:意识形态与现代文化
-ideology and nationalism:意識形態和民族主義
 ideology and nationalism:意识形态和民族主义
 ideology and philosophy:意识形态和哲学
 ideology and policies:意识形态和政策
@@ -3210,7 +3146,7 @@ ideology and propaganda:意识形态和宣传
 ideology and public opinion:意识形态与舆论
 ideology and religion:意识形态与宗教
 ideology and self:意识形态和自我
-ideology and sharing:意識形態和共享
+ideology and sharing:意识形态和共享
 ideology and social control:意识形态与社会控制
 ideology and terror:意识形态与恐怖
 ideology and utopia:意识形态与乌托邦
@@ -3234,31 +3170,27 @@ ideology expert:意识形态专家
 ideology hurt:意识形态伤害
 ideology i:意识形态我
 ideology impede:意识形态阻碍
-ideology include:意識形態包括
 ideology include:意识形态包括
 ideology increase:意识形态增加
 ideology influence:意识形态影响
 ideology is fascism:意识形态是法西斯主义
 ideology matter:意识形态问题
-ideology no longer:意識形態不再
 ideology no longer:意识形态不再
 ideology of the chinese communist party:中国共产党的意识形态
 ideology of the islamic state:伊斯兰国意识形态
-ideology offer:意識形態提供
 ideology offer:意识形态提供
 ideology or age:意识形态或年龄
 ideology or coercion:意识形态或胁迫
 ideology or creed:意识形态或信条
 ideology or culture:意识形态或文化
 ideology or end:意识形态或结束
-ideology or ideal:意識形態或理想
+ideology or ideal:意识形态或理想
 ideology or ignorance:意识形态或无知
 ideology or mythology:意识形态或神话
 ideology or organization:意识形态或组织
 ideology or political party:意识形态或政党
 ideology or politics:意识形态或政治
 ideology or program:意识形态或程序
-ideology or religion:意識形態或宗教
 ideology or religion:意识形态或宗教
 ideology or theory:意识形态或理论
 ideology provides:意识形态提供
@@ -3276,41 +3208,38 @@ ideology was fascism:意识形态是法西斯主义
 ideology work conference:意识形态工作会议
 ideology work:意识形态工作
 ideology would:意识形态将
-ideology:意識形態
 ideology:意识形态
 ideonella sakaiensis:大阪堺菌
 ideonella:艾德昂菌属
-ideophone:擬態詞
-ideopsis similis:擬旖斑蝶
-ideopsis vitrea:黑緣旖斑蝶
-ideopsis:旖斑蝶屬
+ideophone:拟态词
+ideopsis similis:拟旖斑蝶
+ideopsis vitrea:黑缘旖斑蝶
+ideopsis:旖斑蝶属
 ideoroncidae:中美拟蝎科
 ider river:伊德尔河
 ider university:伊德尔学院
 ider:伊德尔苏木
-idera kofun:井寺古墳
+idera kofun:井寺古坟
 idesheim:伊德斯海姆
 idesia:山桐子
 idexx laboratories:爱德士
-idf spokesperson's unit:以色列國防軍發言人部隊
-idiacanthus antrostomus:穴口奇棘魚
-idiacanthus atlanticus:大西洋奇棘魚
+idf spokesperson's unit:以色列国防军发言人部队
+idiacanthus antrostomus:穴口奇棘鱼
+idiacanthus atlanticus:大西洋奇棘鱼
 idiazabal cheese:伊迪亚萨瓦尔奶酪
 idiazabal:伊迪亚萨瓦尔
 idice:伊迪切河
 idikarai:伊迪卡赖
 idimanthus:鹰喙芋属
 idinburg:Àidīngbǎo
-idinburg:愛丁堡
 idinburg:爱丁堡
-idinois:伊利諾伊州
-idinois:伊利諾州
 idinois:伊利诺伊州
-idiocracy:蠢蛋進化論
+idinois:伊利诺州
+idiocracy:蠢蛋进化论
 idiofa:伊迪奧法
-idiolect:個人方言
-idiolophorhynchus andriashevi:安氏異冠吻鱈
-idiolychnus:異燈魚
+idiolect:个人方言
+idiolophorhynchus andriashevi:安氏异冠吻鳕
+idiolychnus:异灯鱼
 idiom:熟语
 idiomarina:海源菌属
 idiomarinaceae:海源菌科
@@ -3318,15 +3247,15 @@ idioneurula:红脉眼蝶属
 idionyx:异伪蜻属
 idiopathic disease:病因不明症
 idiopathic hypersomnia:特发性嗜睡症
-idiopathic interstitial pneumonia:特發性間質性肺炎
+idiopathic interstitial pneumonia:特发性间质性肺炎
 idiopathic pulmonary fibrosis patients:特发性肺纤维化患者
 idiopathic pulmonary fibrosis:特发性肺纤维化
-idiophone:體鳴樂器
+idiophone:体鸣乐器
 idiopsar:短尾雀鹀属
 idiornithidae:异形鸟科
 idiosepiidae:微鳍乌贼科
 idiosepius paradoxus:玄妙微鳍乌贼
-idiosepius pygmaeus:侏儒微鰭烏賊
+idiosepius pygmaeus:侏儒微鳍乌贼
 idiosepius:微鳍乌贼属
 idiospermum:奇子树
 idiostolidae:象蝽科
@@ -3336,7 +3265,7 @@ idiot america:白痴美国
 idiot and clown:白痴与小丑
 idiot and genius:白痴与天才
 idiot appear:白痴出现
-idiot apprentice:白痴學徒
+idiot apprentice:白痴学徒
 idiot ask:白痴问
 idiot bomb:白痴炸弹
 idiot boss:白痴老板
@@ -3403,7 +3332,7 @@ idiot woman:白痴女人
 idiot write:白痴写
 idiot you:白痴你
 idiot:白痴
-idioteuthis cordiformis:心鰭鞭魷
+idioteuthis cordiformis:心鳍鞭魷
 idioteuthis:独特鞭鱿属
 idiotic behavior:愚蠢的行为
 idiotic behaviour:愚蠢的行为
@@ -3457,7 +3386,6 @@ idiotic statement:愚蠢的声明
 idiotic statement:愚蠢的陈述
 idiotic suggest:愚蠢的建议
 idiotic system:愚蠢的系统
-idiotic theory:愚蠢的理論
 idiotic theory:愚蠢的理论
 idiotic thing:愚蠢的事情
 idiotic things:愚蠢的事情
@@ -3466,32 +3394,31 @@ idiotic training:愚蠢的训练
 idiotic war:愚蠢的战争
 idiotic woman:愚蠢的女人
 idiotic:愚蠢的
-idiotropiscis:侏儒海馬屬
+idiotropiscis:侏儒海马属
 iditarod trail sled dog race:艾迪塔罗德狗拉雪橇比赛
 iditol:艾杜醇
-idjeur:伊傑爾
+idjeur:伊杰尔
 idjevan:伊杰万
 idjipt:Āijí
 idjipt:埃及
-idjwi:伊吉威島
-idku:伊德庫
-idkū:伊德庫
+idjwi:伊吉威岛
+idku:伊德库
+idkū:伊德库
 idle land conversion park of minzhi telecom branch office:民治电信支局闲置地改建公园
-idle thoughts of an idle fellow:懶人懶辦法
+idle thoughts of an idle fellow:懒人懒办法
 idleb governorate:伊德利卜
 idleb governorate:伊德利卜省
 idleb-guvernementet:伊德利卜
 idleb-guvernementet:伊德利卜省
 idles:伊德莱斯
-idles:伊德萊斯
-idli:蒸米漿糕
+idli:蒸米浆糕
 idlib and aleppo:伊德利卜和阿勒颇
 idlib and latakia:伊德利卜和拉塔基亚
 idlib area:伊德利卜地区
 idlib axis:伊德利卜轴
 idlib began:伊德利卜开始
 idlib city centre  مركز المدينة إدلب:伊德利卜市中心
-idlib district:伊德利卜區
+idlib district:伊德利卜区
 idlib eskualdea:伊德利卜
 idlib eskualdea:伊德利卜省
 idlib falafeli:伊德利卜沙拉三明治
@@ -3518,26 +3445,24 @@ idlibin maakunta:伊德利卜省
 idlibo muchafaza:伊德利卜
 idlibo muchafaza:伊德利卜省
 idlibo:伊德利卜
-idlidlya island:伊德利德利亞島
+idlidlya island:伊德利德利亚岛
 idlès:伊德莱斯
-idlès:伊德萊斯
-idn test tlds:國際化域名測試頂級域
+idn test tlds:国际化域名测试顶级域
 ido 1(il)-dong:一徒一洞
 ido 1(il)-dong:二徒1洞
 ido 1(il)-dong:二徒一洞
 ido 2(i)-dong:二徒2洞
 ido 2(i)-dong:二徒二洞
-ido motel:伊都spa會館
+ido motel:伊都spa会馆
 ido reizan:井土灵山
 ido station:井戶站
 ido tsunami evacuation tower:海啸避难楼
-ido wikipedia:伊多語維基百科
+ido wikipedia:伊多语维基百科
 ido-dong:珥岛洞
-ido-dong:珥島洞
-ido:伊多語
+ido:伊多语
 ido:伊都语
 idogaya station:井土谷站
-idokhu:碼頭
+idokhu:码头
 idol activities:偶像活动
 idol again:偶像再
 idol and a model:偶像和一个模特
@@ -3553,12 +3478,12 @@ idol could:偶像能
 idol culture:偶像文化
 idol death game:偶像死亡游戏
 idol death:偶像死亡
-idol defense force hummingbird:偶像防衛隊
-idol defense:偶像防衛
-idol densetsu eriko:偶像英里子傳說
+idol defense force hummingbird:偶像防卫队
+idol defense:偶像防卫
+idol densetsu eriko:偶像英里子传说
 idol designer:偶像设计师
-idol drama operation team:偶像戲劇工作團
-idol eason chan:偶像陳奕迅
+idol drama operation team:偶像戏剧工作团
+idol eason chan:偶像陈奕迅
 idol encore:偶像安可
 idol factors:偶像因素
 idol factory:偶像工厂
@@ -3567,7 +3492,7 @@ idol giant star:偶像巨星
 idol give:偶像给
 idol goods:偶像商品
 idol group:偶像组
-idol incidents:偶像事變
+idol incidents:偶像事变
 idol is a side effect:偶像是一个副作用
 idol is religion:偶像是宗教
 idol is you:偶像是你
@@ -3581,33 +3506,33 @@ idol music:偶像音乐
 idol musician paul:偶像音乐家保罗
 idol musician:偶像音乐家
 idol named:偶像命名的
-idol nanka janakattara:如果不是偶像的話
+idol nanka janakattara:如果不是偶像的话
 idol news:偶像新闻
 idol night:偶像夜
 idol once:偶像曾经
 idol pakho chau:偶像周柏豪
 idol prejudice:偶像偏见
 idol priest:偶像祭司
-idol producer:偶像練習生
-idol radio:偶像電台
+idol producer:偶像练习生
+idol radio:偶像电台
 idol research:偶像研究
 idol ronaldinho:偶像罗纳尔迪尼奥
 idol school:偶像学校
 idol singer:偶像歌手
 idol standard:偶像标准
-idol star athletics championships:偶像明星運動會
+idol star athletics championships:偶像明星运动会
 idol state:偶像状态
 idol status:偶像地位
 idol temple:偶像庙
 idol thai:偶像泰国
 idol thailand:偶像泰国
 idol throw:偶像抛
-idol time pripara:偶像時間星光樂園
+idol time pripara:偶像时间星光乐园
 idol time:偶像时间
 idol training:偶像训练
 idol vocalists:偶像歌手
 idol was clay:偶像是粘土
-idol website:偶像網站
+idol website:偶像网站
 idol whitney:偶像惠特尼
 idol will:偶像会
 idol worship:偶像崇拜
@@ -3637,65 +3562,57 @@ idolatry reject:偶像崇拜拒绝
 idolatry:偶像崇拜
 idolobha:1de junio:城市:1de junio
 idolobha:1de junio:城市：1 de junio
-idolobhana lase-jinling:金陵小鎮
 idolobhana lase-jinling:金陵小镇
 idolomantis diabolica:魔花螳螂
 idolomantis:幽灵螳属
 idolomorpha:仿幽灵螳属
-idolophana yase-jinling:金陵小鎮
 idolophana yase-jinling:金陵小镇
 idoly pride:偶像荣耀
-idomeneo:依多美尼歐
+idomeneo:依多美尼欧
 idomeni refugee camp:伊多梅尼难民营
 idomeni:伊多梅尼
-idoneal number:艾多尼數
+idoneal number:艾多尼数
 idong-eup:二东邑
-idong-eup:二東邑
 idong-myeon:二东面
-idong-myeon:二東面
 idong:二东邑
 idong:二东面
-idong:二東邑
-idong:二東面
 idonghoi:洞海市
 idopo-ri:二道浦里
 idose:艾杜糖
 idoxuridine:碘苷
 idrante dei vigili del fuoco:消防局消防栓
 idria:伊德里亚
-idria:伊德里亞
 idrica:伊德里察
 idrija:伊德里亚
-idrija:伊德里亞
 idrijca:伊德里卡河
-idrinsky district:伊德林斯科耶區
+idrinsky district:伊德林斯科耶区
 idris haron:依德利斯哈伦
 idris ii of morocco:伊德里斯二世
 idris jusoh:依德利斯祖索
 idrisid dynasty:伊德里斯王朝
-idrisid emirate of asir:阿西爾伊德里斯酋長國
-idrisiyya:伊迪里西耶教團
+idrisid emirate of asir:阿西尔伊德里斯酋长国
+idrisiyya:伊迪里西耶教团
 idritsa:伊德里察
 idriza:伊德里察
 idron:伊德龙
-idrus:伊德魯斯
-ids li fung centre:利和利豐中心
+idrus:伊德鲁斯
+ids li fung centre:利和利丰中心
 ids saint roch:伊德圣罗克
 idschewan:伊杰万
 idstedt:伊德施泰特
 idstein castle:伊德施泰因城堡
 idstein:伊德施泰因
 idu mishmi language:义都语
-idu script:吏讀
+idu script:吏读
 idukki district:伊杜吉县
 idukki township:伊杜吉
 idun peak:伊敦峰
-idy chan:陳玉蓮
+idy chan:陈玉莲
 idyllic child:田园风光的孩子
 idyllic location:田园风光的位置
 idyllic village:田园乡村
 idyllic:田园风光的
-idylls of the king:國王敘事詩
+idylls of the king:国王敘事诗
 idyllwild arts academy:爱迪怀艺术学术院
 idzjevan:伊杰万
 idzsevan:伊杰万

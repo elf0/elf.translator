@@ -1,100 +1,98 @@
-ap chau (2) aqua privy:鴨洲(2)旱廁
-ap chau geo route:鴨洲地質步道
-ap chau hoi:鴨洲海
-ap chau mei pak tun pai:鴨洲尾白墩排
-ap chau pak tun pai:鴨洲白墩排
-ap chau public pier:鴨洲公眾碼頭
-ap chau public toilet:鴨洲公廁
-ap chau sitting-out area:鴨洲休憩處
-ap chau story room:鴨洲故事館
-ap chau story:鴨洲故事
-ap chau teng:鴨洲頂
+ap chau (2) aqua privy:鸭洲(2)旱厕
+ap chau geo route:鸭洲地质步道
+ap chau hoi:鸭洲海
+ap chau mei pak tun pai:鸭洲尾白墩排
+ap chau pak tun pai:鸭洲白墩排
+ap chau public pier:鸭洲公众码头
+ap chau public toilet:鸭洲公厕
+ap chau sitting-out area:鸭洲休憩处
+ap chau story room:鸭洲故事馆
+ap chau story:鸭洲故事
+ap chau teng:鸭洲顶
 ap chau village:ap chau tsuen
 ap chau village:ngaap3 zau1
 ap chau village:tai po tau
-ap chau village:鴨洲村
-ap chau:鴨洲
-ap kuk lek:鴨腳瀝
-ap lei chau (lee king street):鴨脷洲 (利景街)
-ap lei chau (lee lok street):鴨脷洲 (利樂街)
-ap lei chau (main street):鴨脷洲大街
-ap lei chau baptist church:鴨脷洲浸信會
-ap lei chau bridge road playground:鴨脷洲橋道遊樂場
-ap lei chau bridge road:鴨脷洲橋道
-ap lei chau bridge:鴨脷洲大橋
-ap lei chau centre:鴨脷洲中心
-ap lei chau clinic:鴨脷洲診所
-ap lei chau community hall:鴨脷洲社區會堂
-ap lei chau drive:鴨脷洲徑
-ap lei chau estate basketball court:鴨脷洲邨籃球場
-ap lei chau estate market:鴨脷洲邨街市
-ap lei chau estate multistorey car park:鴨脷洲邨多層停車場
-ap lei chau estate outside bus terminus:鴨脷洲邨巴士總站外
-ap lei chau estate:鴨脷洲邨
-ap lei chau fire station:鴨脷洲消防局
-ap lei chau industrial estate zone substation:鴨脷洲工業邨分區電力站
-ap lei chau main street (wai fung st.):鴨脷洲大街 (惠風街)
-ap lei chau main street sewage pumping station:鴨脷洲大街污水泵房
-ap lei chau main street:鴨脷洲大街
-ap lei chau market cooked food centre:鴨脷洲街市熟食中心
-ap lei chau market:鴨脷洲街市
-ap lei chau municipal services building:鴨脷洲市政大廈
-ap lei chau park office:鴨脷洲公園辦事處
-ap lei chau park:鴨脷洲公園
-ap lei chau post office:鴨脷洲郵政局
-ap lei chau power station:鴨脷洲發電廠
-ap lei chau praya road:鴨脷洲海旁道
-ap lei chau preliminary treatment works:鴨脷洲基本污水處理廠
-ap lei chau public library:鴨脷洲公共圖書館
-ap lei chau salt water pumping station:鴨脷洲海水抽水站
-ap lei chau saltwater service reservoir:鴨脷洲海水配水庫
-ap lei chau service reservoir playground:鴨脷洲配水庫遊樂場
-ap lei chau shui yuet kung:鴨脷洲水月宮
-ap lei chau sports centre:鴨脷洲體育館
-ap lei chau waterfront promenade community garden:鴨脷洲海濱長廊社區園圃
-ap lei chau waterfront promenade:鴨脷洲海濱長廊
-ap lei chau west industrial area cooked food market:鴨脷洲西岸工業邨熟食市場
-ap lei chau wind tower park:鴨脷洲風之塔公園
-ap lei chau:鴨脷洲
+ap chau village:鸭洲村
+ap chau:鸭洲
+ap kuk lek:鸭脚瀝
+ap lei chau (lee king street):鸭脷洲 (利景街)
+ap lei chau (lee lok street):鸭脷洲 (利乐街)
+ap lei chau (main street):鸭脷洲大街
+ap lei chau baptist church:鸭脷洲浸信会
+ap lei chau bridge road playground:鸭脷洲桥道游乐场
+ap lei chau bridge road:鸭脷洲桥道
+ap lei chau bridge:鸭脷洲大桥
+ap lei chau centre:鸭脷洲中心
+ap lei chau clinic:鸭脷洲诊所
+ap lei chau community hall:鸭脷洲社区会堂
+ap lei chau drive:鸭脷洲径
+ap lei chau estate basketball court:鸭脷洲邨篮球场
+ap lei chau estate market:鸭脷洲邨街市
+ap lei chau estate multistorey car park:鸭脷洲邨多层停车场
+ap lei chau estate outside bus terminus:鸭脷洲邨巴士总站外
+ap lei chau estate:鸭脷洲邨
+ap lei chau fire station:鸭脷洲消防局
+ap lei chau industrial estate zone substation:鸭脷洲工业邨分区电力站
+ap lei chau main street (wai fung st.):鸭脷洲大街 (惠风街)
+ap lei chau main street sewage pumping station:鸭脷洲大街污水泵房
+ap lei chau main street:鸭脷洲大街
+ap lei chau market cooked food centre:鸭脷洲街市熟食中心
+ap lei chau market:鸭脷洲街市
+ap lei chau municipal services building:鸭脷洲市政大厦
+ap lei chau park office:鸭脷洲公园办事处
+ap lei chau park:鸭脷洲公园
+ap lei chau post office:鸭脷洲邮政局
+ap lei chau power station:鸭脷洲发电厂
+ap lei chau praya road:鸭脷洲海旁道
+ap lei chau preliminary treatment works:鸭脷洲基本污水处理厂
+ap lei chau public library:鸭脷洲公共图书馆
+ap lei chau salt water pumping station:鸭脷洲海水抽水站
+ap lei chau saltwater service reservoir:鸭脷洲海水配水库
+ap lei chau service reservoir playground:鸭脷洲配水库游乐场
+ap lei chau shui yuet kung:鸭脷洲水月宮
+ap lei chau sports centre:鸭脷洲体育馆
+ap lei chau waterfront promenade community garden:鸭脷洲海滨长廊社区园圃
+ap lei chau waterfront promenade:鸭脷洲海滨长廊
+ap lei chau west industrial area cooked food market:鸭脷洲西岸工业邨熟食市场
+ap lei chau wind tower park:鸭脷洲风之塔公园
 ap lei chau:鸭脷洲
-ap lei pai teng:鴨脷排頂
-ap lei pai:鴨脷排
-ap liu street electronics street:鴨寮街電器街
-ap liu street:鴨寮街
-ap lo chun:鴨籮春
-ap lo chun:鴨膥春
-ap mei tung:鴨尾洞
-ap pui tong:鴨背塘
-ap stylebook:美聯社格式手冊
-ap tan pai:鴨蛋排
-ap tau pai:鴨兜排
-ap tsai hang public toilet:鴨仔坑公廁
+ap lei pai teng:鸭脷排顶
+ap lei pai:鸭脷排
+ap liu street electronics street:鸭寮街电器街
+ap liu street:鸭寮街
+ap lo chun:鸭籮春
+ap lo chun:鸭膥春
+ap mei tung:鸭尾洞
+ap pui tong:鸭背塘
+ap stylebook:美联社格式手册
+ap tan pai:鸭蛋排
+ap tau pai:鸭兜排
+ap tsai hang public toilet:鸭仔坑公厕
 ap tsai liu:鸭仔寮
-ap:阿馬帕州
 ap:阿马帕州
-apa hotel asakusa kuramae:apa飯店 淺草藏前
+apa hotel asakusa kuramae:apa饭店 浅草藏前
 apa hotel sapporo-susukino-ekimae:apa 酒店（札幌薄野站前）
 apa hotel ueno ekikita:apa hotel 上野站北
 apa hotel:apa 酒店新宿歌舞伎町塔
-apa hotel:apa飯店 淺草藏前北
+apa hotel:apa饭店 浅草藏前北
 apa hotel:人形町站北apa酒店
 apa qaghan:阿波可汗
-apac district:阿帕克區
+apac district:阿帕克区
 apacer:宇瞻科技
 apach station:阿帕克站
 apach:阿帕克
-apache cat:阿帕奇貓
-apache point observatory:阿帕契點天文台
+apache cat:阿帕奇猫
+apache point observatory:阿帕契点天文台
 apache trout:阿帕奇鱒
 apache:阿帕契族
-apacheta limani:阿帕奇塔利馬尼山
+apacheta limani:阿帕奇塔利马尼山
 apachita pura pura:阿帕奇塔普拉普拉山
 apacilagua:阿帕西拉瓜
 apagado:阿帕加多火山
 apagy:奥保吉
 apaj:奥保伊
 apak-hodscha-mausoleum:阿巴霍加麻札
-apalachee shiner:大鰭美洲鱥
+apalachee shiner:大鳍美洲鱥
 apalaches:阿巴拉契亚山脉
 apalachicola national forest:阿巴拉契科拉国家森林
 apalachicola river:阿巴拉契科拉河
@@ -108,12 +106,12 @@ apalačské vrchy:阿巴拉契亚山脉
 apalaş dağları:阿巴拉契亚山脉
 apalis:娇莺属
 apaloderma:非洲咬鹃属
-apalone:滑鱉屬
+apalone:滑鱉属
 apam balik:曼煎粿
 apam putra:阿邦布特拉州议席
-apama:阿帕瑪
-apamean spring minnow:梅氏擬鱥
-apanasenkovsky district:阿帕納先科夫斯科耶區
+apama:阿帕玛
+apamean spring minnow:梅氏拟鱥
+apanasenkovsky district:阿帕纳先科夫斯科耶区
 apance:阿庞斯河
 apaneca:阿帕內卡
 apango:阿潘戈
@@ -122,28 +120,28 @@ apapa contain:阿帕帕包含
 apapa seaport:阿帕帕海港
 apapa:阿帕帕
 apaporis river:阿帕波里斯河
-aparados da serra national park:阿帕拉多斯山脈國家公園
-aparallactus:食蜈蚣蛇屬
-aparan:阿帕蘭
+aparados da serra national park:阿帕拉多斯山脉国家公园
+aparallactus:食蜈蚣蛇属
+aparan:阿帕兰
 aparavirus:急性蜜蜂麻痹病毒属
 aparecida d'oeste:阿帕雷西达多埃斯特
-aparecida de goiânia:阿帕雷西達迪戈亞尼亞
+aparecida de goiânia:阿帕雷西达迪戈亚尼亚
 aparecida do rio doce:多塞河畔阿帕雷西达
 aparecida do rio negro:内格罗河畔阿帕雷西达
-aparecida do taboado:阿帕雷西達杜塔博阿杜
-apareiodon affinis:安芬頰脂鯉
-aparesida de gojanija:阿帕雷西達迪戈亞尼亞
+aparecida do taboado:阿帕雷西达杜塔博阿杜
+apareiodon affinis:安芬颊脂鲤
+aparesida de gojanija:阿帕雷西达迪戈亚尼亚
 aparhant:奥保尔洪特
-aparicio pomares district:阿帕里西奧波馬雷斯區
+aparicio pomares district:阿帕里西奧波马雷斯区
 aparri:阿帕里
 apartamento design interior elegante:时尚的室内设计公寓
 apartemen nguyen thai binh:阮太平公寓
 apartemen no 1 ton that thuyet:尊室说路1号公寓
 apartheid convention:禁止并惩治种族隔离罪行国际公约
-apartheid government:南非種族隔離政府
-apartheid policies:南非種族隔離政策
-apartheid policy:南非種族隔離政策
-apartheid:南非種族隔離
+apartheid government:南非种族隔离政府
+apartheid policies:南非种族隔离政策
+apartheid policy:南非种族隔离政策
+apartheid:南非种族隔离
 apartment 13 ly thuong kiet:李常杰13号公寓
 apartment a:a座
 apartment accommodation:公寓住宿
@@ -155,7 +153,7 @@ apartment allot:公寓分配
 apartment and a beautiful:公寓和一个美丽的
 apartment and a studio:公寓和一个工作室
 apartment and accommodation:公寓和住宿
-apartment and buy:公寓和買
+apartment and buy:公寓和买
 apartment and car:公寓和汽车
 apartment and hospital:公寓和医院
 apartment and housing projects:公寓和住宅项目
@@ -164,7 +162,7 @@ apartment and office:公寓和办公室
 apartment and public buildings:公寓和公共建筑
 apartment and real estate bubble:公寓和房地产泡沫
 apartment and studio:公寓和工作室
-apartment and townhouse:公寓和聯排別墅
+apartment and townhouse:公寓和联排別墅
 apartment and vacation rental companies:公寓和度假租赁公司
 apartment and villa markets:公寓和别墅市场
 apartment and villa:公寓和别墅
@@ -199,7 +197,6 @@ apartment building:公寓建筑物
 apartment buildings area:公寓建筑面积
 apartment buildings:公寓建筑
 apartment buy:公寓买
-apartment buy:公寓買
 apartment c:c座
 apartment cannot:公寓不能
 apartment capacity:公寓容量
@@ -244,7 +241,6 @@ apartment flower:公寓花
 apartment for experts:专家公寓
 apartment for ladies:女子公寓
 apartment for visiting scholars:专家公寓
-apartment for visiting scholars:專家公寓
 apartment four:公寓四
 apartment from:公寓从
 apartment function:公寓功能
@@ -263,7 +259,7 @@ apartment house:公寓房子
 apartment housing:公寓住宅
 apartment housing:公寓住房
 apartment hunter:公寓猎人
-apartment hunting:公寓狩獵
+apartment hunting:公寓狩猎
 apartment i use:公寓我使用
 apartment i:公寓我
 apartment in china:公寓在中国
@@ -299,7 +295,6 @@ apartment is you:公寓是你
 apartment jacque:公寓雅克
 apartment just:公寓只
 apartment justice:公寓正义
-apartment justice:公寓正義
 apartment key:公寓钥匙
 apartment kitchen:公寓厨房
 apartment layout:公寓布局
@@ -337,7 +332,7 @@ apartment or home:公寓或家
 apartment or hotel:公寓或酒店
 apartment or house:公寓或住宅
 apartment or house:公寓或房子
-apartment or office:公寓或辦公室
+apartment or office:公寓或办公室
 apartment or outside:公寓或外面
 apartment or villa:公寓或别墅
 apartment page:公寓页
@@ -361,7 +356,6 @@ apartment refrigerator:公寓冰箱
 apartment require:公寓需要
 apartment resident:公寓居民
 apartment residents:公寓居民
-apartment room:公寓房間
 apartment room:公寓房间
 apartment safety issues:公寓安全问题
 apartment safety:公寓安全
@@ -441,12 +435,12 @@ apartments from 800r per day:每天800r的公寓
 apartments:公寓
 apastepeque:阿帕斯特佩克
 apastovo:阿帕斯托沃
-apastovsky district:阿帕斯托沃區
-apata district:阿帕塔區
-apataki:阿帕塔基環礁
+apastovsky district:阿帕斯托沃区
+apata district:阿帕塔区
+apataki:阿帕塔基环礁
 apate:阿帕忒
 apatemon:异幻属
-apateu:阿帕泰烏鄉
+apateu:阿帕泰乌乡
 apatheism:远神论
 apathy and anxiety:冷漠和焦虑
 apathy and depression:冷漠和沮丧
@@ -496,33 +490,32 @@ apatitî:阿帕季特
 apatitõ:阿帕季特
 apatitı:阿帕季特
 apatodon:迷惑齿龙属
-apatomerus:迷股龍屬
-apatoraptor:迷惑盜龍屬
+apatomerus:迷股龙属
+apatoraptor:迷惑盗龙属
 apatorhamphus:迷喙翼龙属
-apatosaurus:迷惑龍屬
+apatosaurus:迷惑龙属
 apatou:阿帕图
-apatura ilia:柳紫閃蛺蝶
-apatura iris:紫閃蛺蝶
-apatura metis:細帶閃蛺蝶
-apatura:閃蛺蝶屬
-apaturinae:閃蛺蝶亞科
-apaturopsis:茵蛺蝶屬
+apatura ilia:柳紫闪蛺蝶
+apatura iris:紫闪蛺蝶
+apatura metis:细带闪蛺蝶
+apatura:闪蛺蝶属
+apaturinae:闪蛺蝶亚科
+apaturopsis:茵蛺蝶属
 apatyty stacja rozrządowa:Āpàjìtè biānzǔzhàn
 apatyty stacja rozrządowa:阿帕季特 编组站
 apatyty:阿帕季特
 apause inn:雅璞文旅
 apavatn:阿帕湖
-apax partners:安佰深集團
+apax partners:安佰深集团
 apaxco:阿帕斯科
 apayao:阿巴尧省
 apaziquone:阿帕齐醌
 apaštališkoji nunciatūra:宗座大使馆
-apb centre:建業中心
+apb centre:建业中心
 apchat:阿普沙
-apcheronsk:阿普歇倫斯克
+apcheronsk:阿普歇伦斯克
 apchon:阿普雄
-apcn:亞太海纜
-apdong-ri:鴨洞里
+apcn:亚太海缆
 apdong-ri:鸭洞里
 ape alliance:猿联盟
 ape ancestor:猿祖先
@@ -531,7 +524,7 @@ ape and monkey:猿和猴
 ape before:猿之前
 ape chromosomes:猿染色体
 ape civilization:猿文明
-ape cliff:棲猿崖
+ape cliff:栖猿崖
 ape could:猿能
 ape detective:猿侦探
 ape difference:猿差异
@@ -547,7 +540,7 @@ ape is missing:猿是失踪
 ape island:猿岛
 ape language:猿语言
 ape mask:猿面具
-ape municipality:阿佩市鎮
+ape municipality:阿佩市镇
 ape parasite:猿寄生虫
 ape population:猿种群
 ape research center:猿研究中心
@@ -557,76 +550,70 @@ ape some:猿一些
 ape species:猿物种
 ape species:猿种
 ape test:猿测试
-ape theory:猿理論
+ape theory:猿理论
 ape who:猿谁
 ape:猿
-apec business travel card:亞太經合組織商務旅遊證
-apec plaza:創貿廣場
+apec business travel card:亚太经合组织商务旅游证
+apec plaza:创贸广场
 apecchio:阿佩基奥
 apeganitan:Āfùhàn
 apeganitan:阿富汗
 apei manor:阿沛庄园
-apeirogon:無限邊形
-apeirogonal hosohedron:無限面形
-apeirogonal prism:無限角柱
-apeirogonal tiling:無限邊形鑲嵌
+apeirogon:无限边形
+apeirogonal hosohedron:无限面形
+apeirogonal prism:无限角柱
+apeirogonal tiling:无限边形镶嵌
 apeiron:阿派朗
-apeirotope:無限胞體
+apeirotope:无限胞体
 apel glen:苹果格伦
-apel glen:蘋果格倫
 apeldoarn:阿珀尔多伦
-apeldoarn:阿珀爾多倫
-apeldoorn railway station:阿珀爾多倫車站
+apeldoorn railway station:阿珀尔多伦车站
 apeldoorn:阿珀尔多伦
-apeldoorn:阿珀爾多倫
 apeldoorne:阿珀尔多伦
-apeldoorne:阿珀爾多倫
 apeldorn:阿珀尔多伦
-apeldorn:阿珀爾多倫
 apeldorno:阿珀尔多伦
-apeldorno:阿珀爾多倫
-apele vii:阿佩萊維鄉
+apele vii:阿佩莱维乡
 apelern:阿佩伦
 apelles:阿佩莱斯
 apeman rock:猿人石
-apen:亞彭
+apen:亚彭
 apeng river:zhuó hé
 apeng river:阿蓬江
 apengcun:阿棚村
 apengjiang:阿蓬江镇
-apenheul primate park:猴山靈長類公園
+apenheul primate park:猴山灵长类公园
 apenin dağları:亚平宁山脉
 apeninai:亚平宁山脉
 apeninen:亚平宁山脉
 apenini:亚平宁山脉
 apeninoak:亚平宁山脉
+apeninoetako penintsula:义大利半岛
 apeninoetako penintsula:意大利半岛
-apeninoetako penintsula:義大利半島
 apeninoj:亚平宁山脉
 apeninos:亚平宁山脉
 apenins:亚平宁山脉
+apeninski polotok:义大利半岛
 apeninski polotok:意大利半岛
-apeninski polotok:義大利半島
+apeninski poluotok:义大利半岛
 apeninski poluotok:意大利半岛
-apeninski poluotok:義大利半島
+apeninsko poluostrvo:义大利半岛
 apeninsko poluostrvo:意大利半岛
-apeninsko poluostrvo:義大利半島
+apeninský poloostrov:义大利半岛
 apeninský poloostrov:意大利半岛
-apeninský poloostrov:義大利半島
+apeninský polostrov:义大利半岛
 apeninský polostrov:意大利半岛
-apeninský polostrov:義大利半島
 apeniny:亚平宁山脉
+apeninų pusiasalis:义大利半岛
 apeninų pusiasalis:意大利半岛
-apeninų pusiasalis:義大利半島
+apenniini poolsaar:义大利半岛
 apenniini poolsaar:意大利半岛
-apenniini poolsaar:義大利半島
 apenniinid:亚平宁山脉
+apenniinien niemimaa:义大利半岛
 apenniinien niemimaa:意大利半岛
-apenniinien niemimaa:義大利半島
 apenniinit:亚平宁山脉
 apennijnen:亚平宁山脉
+apennijns schiereiland:义大利半岛
 apennijns schiereiland:意大利半岛
-apennijns schiereiland:義大利半島
 apennin dağları:亚平宁山脉
 apennin togʻlari:亚平宁山脉
 apennin:亚平宁山脉
@@ -634,29 +621,29 @@ apenninau:亚平宁山脉
 apennine base tunnel:亚平宁铁路隧道
 apennine mountains:亚平宁山脉
 apenninerna:亚平宁山脉
+apenniniske halvø:义大利半岛
 apenniniske halvø:意大利半岛
-apenniniske halvø:義大利半島
 apenninoù:亚平宁山脉
 apennins:亚平宁山脉
+apenninska halvön:义大利半岛
 apenninska halvön:意大利半岛
-apenninska halvön:義大利半島
 apenninus:亚平宁山脉
 apennyne:亚平宁山脉
 apenrade:奥本罗
 apenrua:奥本罗
 apensen:阿彭森
 apenīni:亚平宁山脉
+apenīnu pussala:义大利半岛
 apenīnu pussala:意大利半岛
-apenīnu pussala:義大利半島
 apep:阿佩普
 apepi:阿波比
 aperiovula:宽口梭螺属
-apert syndrome:亞伯氏症
+apert syndrome:亚伯氏症
 aperture allow:光圈允许
 aperture and depth of field:光圈和景深
 aperture and shutter priority mode:光圈和快门优先模式
 aperture and shutter priority:光圈和快门优先
-aperture and shutter speed:光圈和快門速度
+aperture and shutter speed:光圈和快门速度
 aperture angle:光圈角
 aperture array:光圈数组
 aperture background:光圈背景
@@ -665,7 +652,6 @@ aperture control:光圈控制
 aperture data-center management:光圈数据中心管理
 aperture data-center:光圈数据中心
 aperture data:光圈数据
-aperture design:光圈設計
 aperture design:光圈设计
 aperture disk:光圈磁盘
 aperture display:光圈显示
@@ -677,11 +663,11 @@ aperture function:光圈功能
 aperture help:光圈帮助
 aperture is a ratio:光圈是一个比
 aperture let:光圈让
-aperture masking interferometry:孔徑掩模干涉術
+aperture masking interferometry:孔径掩模干涉术
 aperture microscope:光圈显微镜
 aperture mode:光圈模式
 aperture option:光圈选项
-aperture or shutter speed:光圈或快門速度
+aperture or shutter speed:光圈或快门速度
 aperture priority and shutter priority mode:光圈优先和快门优先模式
 aperture priority and shutter priority:光圈优先和快门优先
 aperture priority crowd:光圈优先人群
@@ -695,12 +681,12 @@ aperture set:光圈设置
 aperture size:光圈大小
 aperture speed:光圈速度
 aperture support:光圈支持
-aperture tag:光圈凝膠
+aperture tag:光圈凝胶
 aperture technology:光圈技术
 aperture through:光圈通过
 aperture trick:光圈技巧
 aperture upgrade:光圈升级
-aperture value and shutter speed:光圈值和快門速度
+aperture value and shutter speed:光圈值和快门速度
 aperture value changes:光圈值变化
 aperture value:光圈值
 aperture will:光圈会
@@ -710,30 +696,27 @@ apetlon:阿佩特隆
 apex 1:apex 1座
 apex 2:apex 2座
 apex 3:apex 3座
-apex bookstore:巨擘書局
+apex bookstore:巨擘书局
 apex education:柏思教育
 apex garden:雅碧苑
 apex hotel:顶点宾馆
 apex predator:顶端捕食者
 apex predator:顶级掠食者
-apex print limited:泰業印刷有限公司
-apfel glacier:阿普費爾冰川
+apex print limited:泰业印刷有限公司
+apfel glacier:阿普费尔冰川
 apfelberg:阿普费尔贝格
 apfeldorf:阿普弗尔多夫
 apfelschlucht:苹果格伦
-apfelschlucht:蘋果格倫
 apfeltrach:阿普弗尔特拉赫
-apgang-dong:鴨江洞
 apgang-dong:鸭江洞
 apganistan:Āfùhàn
 apganistan:阿富汗
 apganistán:Āfùhàn
 apganistán:阿富汗
-apgar score:阿普伽新生兒評分
-apgujeong dong:狎鷗亭洞
-apgujeong midnight sun:狎鷗亭白夜
-apgujeong station:狎鷗亭站
-apgujeong-dong:狎鷗亭洞
+apgar score:阿普伽新生儿评分
+apgujeong dong:狎鸥亭洞
+apgujeong midnight sun:狎鸥亭白夜
+apgujeong station:狎鸥亭站
 apgujeong-dong:狎鸥亭洞
 apgujeongrodeo station:狎鸥亭罗德奥站
 apgujungrodeo:狎鸥亭罗德奥
@@ -742,7 +725,7 @@ aphae jeong clan:押海丁氏
 aphae-eup:押海邑
 aphae:押海邑
 aphaena:梵蜡蝉属
-aphaenogaster:長腳家蟻屬
+aphaenogaster:长脚家蟻属
 aphaia:阿法埃娅
 aphalacrosoma:准白长足虻属
 aphalaridae:斑木虱科
@@ -760,8 +743,8 @@ aphanipathes:隐黑珊瑚属
 aphanite:隐晶岩
 aphanius mesopotamicus:中河祕鱂
 aphanizocnemus:毁蜥属
-aphanizomenon flos aquae:水華束絲藻
-aphanizomenon:束絲藻屬
+aphanizomenon flos aquae:水华束丝藻
+aphanizomenon:束丝藻属
 aphanizomenonaceae:束丝藻科
 aphanobasidium:丝瑚菌属
 aphanocapsa:隐球藻属
@@ -772,9 +755,9 @@ aphanopleura:隐棱芹属
 aphanopsidaceae:隐孢衣科
 aphanothecaceae:隐杆藻科
 aphanothece:隐杆藻属
-aphanotorulus ammophilus:喜砂筆甲鯰
-aphanotorulus gomesi:戈氏似鱒甲鯰
-aphanotorulus unicolor:單色筆甲鯰
+aphanotorulus ammophilus:喜砂笔甲鲶
+aphanotorulus gomesi:戈氏似鱒甲鲶
+aphanotorulus unicolor:单色笔甲鲶
 aphanotriccus:褐胸斑翅霸鹟属
 aphantasia:心盲症
 aphantaulax:秘蛛属
@@ -786,7 +769,7 @@ aphelandra squarrosa:金脉单药花
 aphelandra:单药花属
 aphelariaceae:滑瑚菌科
 aphelenchoides besseyi:贝西滑刃线虫
-aphelenchoides:葉芽線蟲屬
+aphelenchoides:叶芽线虫属
 aphelenchoididae:滑刃科
 aphelenchoididea:滑刃总科
 aphelenchus:真滑刃线虫属
@@ -795,9 +778,9 @@ aphelion:远日点
 aphelocheirus:盖蝽属
 aphelocoma:丛鸦属
 aphelopus:常足螯蜂属
-aphetoceras:鬆卷角石
-aphex twin:艾費克斯雙胞胎
-aphia:玻璃鰕虎屬
+aphetoceras:松卷角石
+aphex twin:艾费克斯双胞胎
+aphia:玻璃鰕虎属
 aphid farm:蚜虫农场
 aphid fossil:蚜虫化石
 aphid introduce:蚜虫介绍
@@ -806,24 +789,24 @@ aphid species:蚜虫物种
 aphid:蚜虫
 aphididae:蚜科
 aphilenia:沙地肖叶甲属
-aphips chub:庫斑河歐雅魚
+aphips chub:库斑河欧雅鱼
 aphis craccivora:豆蚜
-aphis gossypii:綿蚜
-aphis nerii:夾竹桃蚜
-aphis pomi:蘋果蚜
+aphis gossypii:绵蚜
+aphis nerii:夹竹桃蚜
+aphis pomi:苹果蚜
 aphis:蚜属
-aphnaeinae:噩灰蝶亞科
-aphnaeus:富妮灰蝶屬
+aphnaeinae:噩灰蝶亚科
+aphnaeus:富妮灰蝶属
 aphomia:织螟属
 aphonoides:长须蟋属
-aphonopelma pallidum:墨西哥灰捕鳥蛛
+aphonopelma pallidum:墨西哥灰捕鸟蛛
 aphorism and paradox:格言和悖论
 aphorism tell:格言告诉
 aphorism:格言
-aphotic zone:無光帶
+aphotic zone:无光带
 aphragmophora:无横肌目
 aphragmus:寒原荠属
-aphrahat:亞弗拉哈特
+aphrahat:亚弗拉哈特
 aphrastasia:奇球蚜属
 aphrastura:雷雀属
 aphrocallistes:泡沫海绵属
@@ -836,10 +819,10 @@ aphrodita aculeata:鳞沙蚕
 aphrodita:鳞沙蚕属
 aphrodite garden:阿佛洛狄忒花园
 aphrodite glacier:阿佛洛狄忒冰川
-aphrodite of knidos:克尼多斯的阿芙蘿黛蒂
+aphrodite of knidos:克尼多斯的阿芙萝黛蒂
 aphrodite put off:阿佛洛狄忒推迟
 aphrodite said:阿佛洛狄忒说
-aphrodite terra:阿芙蘿黛蒂高地
+aphrodite terra:阿芙萝黛蒂高地
 aphrodite think:阿佛洛狄忒认为
 aphrodite's rock - petra tou romiou:爱神岩
 aphrodite:阿佛洛狄忒
@@ -852,26 +835,26 @@ aphthitalite:鉀芒硝
 aphthous stomatitis:阿弗他口炎
 aphthovirus:鹅口疮病毒属
 aphyllorchis:无叶兰属
-aphyocheirodon:半帶吸寶蓮魚
-aphyocypris amnis:溪流細鯽
-aphyocypris arcus:弧形細鯽
+aphyocheirodon:半带吸宝莲鱼
+aphyocypris amnis:溪流细鯽
+aphyocypris arcus:弧形细鯽
 aphyocypris chinensis:中华细鲫
-aphyocypris dorsohorizontalis:平背細鯽
-aphyocypris kikuchii:菊池氏細鯽
-aphyocypris kyphus:駝背細鯽
-aphyocypris lini:林氏細鯽
+aphyocypris dorsohorizontalis:平背细鯽
+aphyocypris kikuchii:菊池氏细鯽
+aphyocypris kyphus:驼背细鯽
+aphyocypris lini:林氏细鯽
 aphyocypris normalis:拟细鲫
-aphyocypris pulchrilineata:麗紋細鯽
+aphyocypris pulchrilineata:丽纹细鯽
 aphyocypris:细鲫属
-aphyodite grammica:紋吸魚
-aphyonidae:裸鼬魚科
+aphyodite grammica:纹吸鱼
+aphyonidae:裸鼬鱼科
 aphyonus gelatinosus:胶胎鳚
 aphyosemion australe:琴尾旗鱂
-aphyosemion bivittatum:紅旗鱂
-aphyosemion elegans:美麗旗鱂
-aphyosemion splendopleure:飾邊旗鱂
-aphyosemion:旗鱂屬
-aphysoneura:淡眼蝶屬
+aphyosemion bivittatum:红旗鱂
+aphyosemion elegans:美丽旗鱂
+aphyosemion splendopleure:饰边旗鱂
+aphyosemion:旗鱂属
+aphysoneura:淡眼蝶属
 api data:应用程序接口数据
 api testing:接口测试
 api version:应用程序接口版本
@@ -879,36 +862,35 @@ api will return:应用程序接口将返回
 api:应用程序接口
 apia park:阿皮亚公园
 apia:阿皮亚
-apia:阿皮亞
 apiaceae:伞形科
 apiales:伞形目
-apiary:養蜂場
+apiary:养蜂场
 apical consonant:舌尖音
 apical dominance:顶端优势
 apice:阿皮切
-apicomplexa:頂複門
-apicomplexan life cycle:頂複門的生命週期
+apicomplexa:顶复门
+apicomplexan life cycle:顶复门的生命周期
 apicoplast:顶质体
 apidae:蜜蜂科
-apidium:亞闢猴
+apidium:亚辟猴
 apies river:猿猴河
 apigenin injection:芹菜素注射
 apigenin:芹菜素
 apiin:芹菜苷
-apija:阿皮亞
+apija:阿皮亚
 apikasiaq:阿布哈兹
 apilimod:阿吡莫德
 apimostinel:阿匹替奈
 apinac:阿皮纳克
-apio:阿皮亞
-apiocrinites:頂生海百合
+apio:阿皮亚
+apiocrinites:顶生海百合
 apiocystis:梨囊藻属
-apionichthys finis:鰭狀無鋸鰨
-apionichthys menezesi:梅氏無鋸鰨
-apionichthys nattereri:納特氏無鋸鰨
-apionichthys rosai:羅氏無鋸鰨
-apionichthys sauli:索爾氏無鋸鰨
-apionichthys seripierriae:塞氏無鋸鰨
+apionichthys finis:鳍状无锯鰨
+apionichthys menezesi:梅氏无锯鰨
+apionichthys nattereri:纳特氏无锯鰨
+apionichthys rosai:罗氏无锯鰨
+apionichthys sauli:索尔氏无锯鰨
+apionichthys seripierriae:塞氏无锯鰨
 apiopetalum:芹榄属
 apios carnea:肉色土圞儿
 apios fortunei:土圞儿
@@ -916,75 +898,74 @@ apios:土圞儿属
 apiosporaceae:暗色孢科
 apiro:阿皮罗
 apirïka:非洲
-apis cerana:東方蜜蜂
+apis cerana:东方蜜蜂
 apis dorsata:巨型蜜蜂
-apis laboriosa:喜馬拉雅巨型蜜蜂
+apis laboriosa:喜马拉雅巨型蜜蜂
 apis lithohermaea:碎石岩蜂
 apis nearctica:古北美蜜蜂
 apishapa river:阿皮沙帕河
-apistinae:鬚蓑鮋科
-apistogramma agassizii:阿卡西隱帶麗魚
-apistogramma barlowi:巴氏隱帶麗魚
-apistogramma borellii:博氏隱帶麗魚
-apistogramma cacatuoides:鳳尾隱帶麗魚
-apistogramma eremnopyge:幽暗隱帶麗魚
-apistogramma hongsloi:杭氏隱帶麗魚
-apistogramma macmasteri:馬克隱帶麗魚
-apistogramma nijsseni:尼氏隱帶麗魚
-apistogramma panduro:壯身隱帶麗魚
-apistogramma regani:雷根氏隱帶麗魚
-apistogramma taeniata:條紋隱帶麗魚
-apistogramma trifasciata:三線隱帶麗魚
-apistogramma viejita:維傑隱帶麗魚
-apistogramma:隱帶麗魚屬
-apistoloricaria condei:康氏偽甲鯰
-apistoloricaria laani:拉氏偽甲鯰
-apistoloricaria listrorhinos:光吻偽甲鯰
-apistoloricaria ommation:小眼偽甲鯰
-apistops:新幾內亞擬棱鬚蓑鮋
-apistus:棱鬚蓑鮋
+apistinae:须蓑鲉科
+apistogramma agassizii:阿卡西隐带丽鱼
+apistogramma barlowi:巴氏隐带丽鱼
+apistogramma borellii:博氏隐带丽鱼
+apistogramma cacatuoides:凤尾隐带丽鱼
+apistogramma eremnopyge:幽暗隐带丽鱼
+apistogramma hongsloi:杭氏隐带丽鱼
+apistogramma macmasteri:马克隐带丽鱼
+apistogramma nijsseni:尼氏隐带丽鱼
+apistogramma panduro:壮身隐带丽鱼
+apistogramma regani:雷根氏隐带丽鱼
+apistogramma taeniata:条纹隐带丽鱼
+apistogramma trifasciata:三线隐带丽鱼
+apistogramma viejita:维杰隐带丽鱼
+apistogramma:隐带丽鱼属
+apistoloricaria condei:康氏伪甲鲶
+apistoloricaria laani:拉氏伪甲鲶
+apistoloricaria listrorhinos:光吻伪甲鲶
+apistoloricaria ommation:小眼伪甲鲶
+apistops:新几內亚拟棱须蓑鲉
+apistus:棱须蓑鲉
 apitoxin:蜂毒
 apium graveolens:旱芹
 apium:芹属
 apixaban group:阿哌沙班组
 apixaban:阿哌沙班
-apiya:阿皮亞
-apkallu:阿普卡魯
+apiya:阿皮亚
+apkallu:阿普卡鲁
 apkang-rodongjagu:前江劳动者区
-apkang-rodongjagu:前江勞動者區
 aplacophora:无板纲
 apladrapsa:鬃角夜蛾属
 aplahoué:阿普拉惠
-aplao district:阿普勞區
-aplao:阿普勞
-aplastic anemia:再生不良性貧血
-aplatophis chauliodus:狼牙恐蛇鰻
+aplao district:阿普劳区
+aplao:阿普劳
+aplastic anemia:再生不良性贫血
+aplatophis chauliodus:狼牙恐蛇鳗
 aplaviroc:阿拉韦罗
 aplectrum:腻根兰属
-apleichau bridge (north) children's playground:鴨脷洲大橋 (北端) 兒童遊樂場
-apletodon bacescui:伯塞斯庫圓喉盤魚
-apletodon dentatus:圓喉盤魚
-apletodon incognitus:未知圓喉盤魚
-apletodon pellegrini:佩氏圓喉盤魚
-aplichau kaifong primary school:鴨脷洲街坊學校
-aplichau kaifongs public hall:鴨脷洲街坊大會堂
-aplite:細晶岩
-apliu street public toilet:鴨寮街公廁
-apliu street:鴨寮街
+apleichau bridge (north) children's playground:鸭脷洲大桥 (北端) 儿童游乐场
+apletodon bacescui:伯塞斯库圆喉盘鱼
+apletodon dentatus:圆喉盘鱼
+apletodon incognitus:未知圆喉盘鱼
+apletodon pellegrini:佩氏圆喉盘鱼
+aplichau kaifong primary school:鸭脷洲街坊学校
+aplichau kaifongs public hall:鸭脷洲街坊大会堂
+aplite:细晶岩
+apliu street public toilet:鸭寮街公厕
+apliu street:鸭寮街
 aplocheilidae:鰕鱂科
-aplocheiloidei:鰕鱂亞目
+aplocheiloidei:鰕鱂亚目
 aplocheilus blockii:布氏鰕鱂
 aplocheilus kirchmayeri:基氏鰕鱂
 aplocheilus parvus:小鰕鱂
-aplocheilus werneri:沃納氏鰕鱂
-aplocheilus:鰕鱂屬
-aplochiton taeniatus:條斑單甲南乳魚
-aplochiton zebra:條紋單甲南乳魚
+aplocheilus werneri:沃纳氏鰕鱂
+aplocheilus:鰕鱂属
+aplochiton taeniatus:条斑单甲南乳鱼
+aplochiton zebra:条纹单甲南乳鱼
 aplodontiidae:山河狸科
 aplomya:短尾寄蝇属
-aplonis:輝椋鳥屬
+aplonis:辉椋鸟属
 aplotelia:仙夜蛾属
-aplousobranchia:無管海鞘目
+aplousobranchia:无管海鞘目
 apluda:水蔗草属
 aplustridae:船尾螺科
 aplustrum amplustre:宽带饰纹螺
@@ -996,93 +977,92 @@ aplysia:海鹿属
 aplysiida:海鹿目
 aplysiidae:海鹿科
 aplysioviolin:海鹿紫素
-apm millenium city 5:apm創紀之城5期
-apm:接駁電車
+apm millenium city 5:apm创纪之城5期
 apm:接驳电车
 apnea:呼吸中止
 apnic will limit:亚太互联网络信息中心将限制
 apnic:亚太互联网络信息中心
-apo island:阿波島
+apo island:阿波岛
 apo station:牙浦站
 apo-eup:牙浦邑
 apoastalalaš nunsiatuvra:宗座大使馆
 apoballis:宿檐属
-apobates base:阿波貝特斯底座
+apobates base:阿波贝特斯底座
 apocalypse now:现代启示录
 apocalypse peaks:厄帕克利普斯峰
 apocalypse tapestry:天启挂毯
-apocalypse:啟應
+apocalypse:启应
 apocalypsis velox:黄线天蛾
 apocalyptic and post apocalyptic fiction:末日幻想
-apocalyptic literature:聖經啟示文學
-apocalyptica:金屬啟示錄
+apocalyptic literature:圣经启示文学
+apocalyptica:金属启示录
 apocalypticism:世界末日论
 apocholic acid:原胆酸
-apochromat:複消色差透鏡
+apochromat:复消色差透镜
 apoclada:离枝竹属
 apocopis:楔颖草属
 apocrine sweat gland:顶泌汗腺
 apocrita:细腰亚目
-apocryphon of james:雅各密傳
-apocryphon of john:約翰密傳
-apocryptes:平牙鰕虎魚屬
-apocryptodon:叉牙鰕虎屬
-apocynaceae:夾竹桃科
+apocryphon of james:雅各密传
+apocryphon of john:约翰密传
+apocryptes:平牙鰕虎鱼属
+apocryptodon:叉牙鰕虎属
+apocynaceae:夹竹桃科
 apocynin:香草乙酮
-apocynoideae:夾竹桃亞科
+apocynoideae:夹竹桃亚科
 apocynum venetum:罗布麻
 apocynum:罗布麻属
-apodaca:阿波達卡
+apodaca:阿波达卡
 apodachlya:异绵霉属
 apodanthaceae:离花科
 apodanthes:风生花属
 apodazhi:阿坡达枝
-apodemia:花蜆蝶屬
-apodemus:姬鼠屬
+apodemia:花蜆蝶属
+apodemus:姬鼠属
 apodiformes:雨燕目
 apodops:无足蚓属
-apodora:巴布亞蟒
+apodora:巴布亚蟒
 apodytes dimidiata:柴龙树
 apodytes:柴龙树属
 apoel fc:尼科西亚希腊人竞技足球俱乐部
-apogastropoda:後生腹足類
+apogastropoda:后生腹足类
 apogee engines:远地点发动机
 apogee enterprises:远地点企业
 apogee of empire:远地点的帝国
 apogee:远地点
-apogon dovii:達氏天竺鯛
+apogon dovii:达氏天竺鲷
 apogon erythrinus:粉红天竺鲷
-apogon imberbis:歐洲天竺鯛
-apogon maculatus:斑紋天竺鯛
-apogon pseudomaculatus:擬斑天竺鯛
-apogon semiornatus:雙斜帶天竺鯛
+apogon imberbis:欧洲天竺鲷
+apogon maculatus:斑纹天竺鲷
+apogon pseudomaculatus:拟斑天竺鲷
+apogon semiornatus:双斜带天竺鲷
 apogon:天竺鲷属
-apogonichthyoides pharaonis:法老似天竺魚
-apogonidae:天竺鯛科
+apogonichthyoides pharaonis:法老似天竺鱼
+apogonidae:天竺鲷科
 apoidea:蜂
 apoji reservoir:阿婆髻水库
 apokoronas:阿波科罗纳斯
-apold:阿波爾德鄉
+apold:阿波尔德乡
 apolda:阿波尔达
-apoldu de jos:下阿波爾杜鄉
-apolemichthys griffisi:格里菲斯阿波魚
-apolemichthys trimaculatus:三點阿波魚
-apolemichthys xanthotis:藍嘴阿波魚
-apolemichthys xanthurus:黃褐阿波魚
+apoldu de jos:下阿波尔杜乡
+apolemichthys griffisi:格里菲斯阿波鱼
+apolemichthys trimaculatus:三点阿波鱼
+apolemichthys xanthotis:蓝嘴阿波鱼
+apolemichthys xanthurus:黄褐阿波鱼
 apolima strait:阿波利马海峡
 apolima:阿波利马岛
 apolima:阿波利马海峡
 apolimos sąsiauris:阿波利马海峡
 apolimský průplav:阿波利马海峡
-apolinópolis parva:古斯 (基納省)
+apolinópolis parva:古斯 (基纳省)
 apolipoprotein ai:载脂蛋白
 apolipoprotein genotype:载脂蛋白基因型
 apolipoprotein:载脂蛋白
 apoliticism:非政治主义
 apollinaris mons:阿波里那山
-apollinaris of laodicea:亞波里拿留
-apollinaris of ravenna:聖亞博那
-apollinarism:亞波里拿留派
+apollinaris of laodicea:亚波里拿留
+apollinaris of ravenna:圣亚博那
+apollinarism:亚波里拿留派
 apollino:阿波里罗
 apollo agree:阿波罗同意
 apollo alliance:阿波罗联盟
@@ -1092,9 +1072,8 @@ apollo and daphne:阿波罗和达佛涅
 apollo and orpheus:阿波罗和俄耳甫斯
 apollo applications:阿波罗应用
 apollo as well as:阿波罗以及
+apollo asteroid:阿波罗型小行星
 apollo asteroid:阿波罗小行星
-apollo asteroid:阿波羅型小行星
-apollo asteroid:阿波羅小行星
 apollo astronaut estimate:阿波罗宇航员估计
 apollo astronaut:阿波罗宇航员
 apollo audience:阿波罗听众
@@ -1105,9 +1084,8 @@ apollo beach:阿波罗海滩
 apollo began:阿波罗开始
 apollo belvedere:观景殿的阿波罗
 apollo bridge:阿波罗桥
-apollo bridge:阿波羅橋
-apollo building:宇宙大廈
-apollo building:阿波羅大廈
+apollo building:宇宙大厦
+apollo building:阿波罗大厦
 apollo business:阿波罗商业
 apollo butterfly:阿波罗蝴蝶
 apollo cancer:阿波罗癌症
@@ -1115,7 +1093,7 @@ apollo candle factory:阿波罗蜡烛工厂
 apollo candle:阿波罗蜡烛
 apollo capsule:阿波罗胶囊
 apollo ceo:阿波罗首席执行官
-apollo chen:陳學聖
+apollo chen:陈学圣
 apollo class:阿波罗类
 apollo clinic:阿波罗诊所
 apollo clinical excellence:阿波罗临床卓越
@@ -1123,7 +1101,6 @@ apollo clinical:阿波罗临床
 apollo company:阿波罗公司
 apollo computer:阿波罗电脑
 apollo computer:阿波罗计算机
-apollo computer:阿波羅電腦
 apollo computers:阿波罗计算机
 apollo contract:阿波罗合同
 apollo control:阿波罗控制
@@ -1132,20 +1109,19 @@ apollo courses:阿波罗课程
 apollo creed:阿波罗信条
 apollo data:阿波罗数据
 apollo days:阿波罗天
-apollo education group:太陽神教育集團
+apollo education group:太阳神教育集团
 apollo education:阿波罗教育
 apollo employees:阿波罗员工
 apollo engineers:阿波罗工程师
 apollo et hyacinthus:阿波罗与雅辛托斯
 apollo flight controllers:阿波罗飞行控制器
 apollo flight:阿波罗飞行
-apollo fountain:阿波羅噴泉
+apollo fountain:阿波罗喷泉
 apollo fund:阿波罗基金
 apollo gallery:阿波罗画廊
 apollo gene:阿波罗基因
-apollo glacier:阿波羅冰川
+apollo glacier:阿波罗冰川
 apollo global management:阿波罗全球管理
-apollo global management:阿波羅全球管理
 apollo global:阿波罗全球
 apollo guidance computer:阿波罗制导计算机
 apollo has been:阿波罗已经
@@ -1155,12 +1131,12 @@ apollo health:阿波罗健康
 apollo heat:阿波罗热
 apollo hospital:阿波罗医院
 apollo hotel:阿波罗酒店
-apollo hotel:阿波羅飯店
+apollo hotel:阿波罗饭店
 apollo ice-skating:阿波罗滑冰
 apollo interface:阿波罗接口
 apollo is a young:阿波罗是一个年轻的
 apollo is an open:阿波罗是一个开
-apollo island:阿波羅島
+apollo island:阿波罗岛
 apollo landing:阿波罗登陆
 apollo landing:阿波罗着陆
 apollo language centre:阿波罗语言中心
@@ -1184,7 +1160,7 @@ apollo museum:阿波罗博物馆
 apollo operating system:阿波罗操作系统
 apollo or manhattan project:阿波罗或曼哈顿项目
 apollo partners:阿波罗合作伙伴
-apollo peak:阿波羅峰
+apollo peak:阿波罗峰
 apollo photos:阿波罗照片
 apollo piano:阿波罗钢琴
 apollo picture:阿波罗照片
@@ -1216,12 +1192,12 @@ apollo sample:阿波罗样本
 apollo says:阿波罗说
 apollo scientific experiment:阿波罗科学实验
 apollo scientific:阿波罗科学
-apollo sea:阿波羅海號
+apollo sea:阿波罗海号
 apollo series:阿波罗系列
 apollo server:阿波罗服务器
 apollo service:阿波罗服务
-apollo sharkminnow:長鰭梭大口魚
-apollo shopping centre:宇宙商場
+apollo sharkminnow:长鳍梭大口鱼
+apollo shopping centre:宇宙商场
 apollo software engineer:阿波罗软件工程师
 apollo software system:阿波罗软件系统
 apollo software:阿波罗软件
@@ -1253,33 +1229,32 @@ apollo workstation environment:阿波罗工作站环境
 apollo workstation:阿波罗工作站
 apollo:阿波罗
 apollo:阿波罗神像
-apollo:阿波羅
 apollodorus from:阿波罗多罗斯从
-apollodorus of artemita:阿提米塔的阿波羅多羅斯
-apollodorus of athens:雅典的阿波羅多洛斯
+apollodorus of artemita:阿提米塔的阿波罗多罗斯
+apollodorus of athens:雅典的阿波罗多洛斯
 apollodorus of damascus:大马士革的阿波罗多洛斯
 apollodorus of gela:杰拉的阿波罗多拉斯
 apollodorus:阿波罗多罗斯
-apollodotus i:阿波羅多特斯一世
-apollon limassol fc:阿波羅利馬素
+apollodotus i:阿波罗多特斯一世
+apollon limassol fc:阿波罗利马素
 apollon tapınağı:阿波罗神庙
-apollonian and dionysian:酒神與太陽神
-apollonian circles:阿波羅尼奧斯圓
+apollonian and dionysian:酒神与太阳神
+apollonian circles:阿波罗尼奧斯圆
 apollonius molon:阿波罗尼乌斯
 apollonius of perga:阿波罗尼奥斯
 apollonius of rhodes:罗德岛的阿波罗尼奥斯
 apollonius of tyana:提亚纳的阿波罗尼乌斯
-apollonius's theorem:中線定理
+apollonius's theorem:中线定理
 apollontempel bei bassae:巴赛的阿波罗•伊壁鸠鲁神庙
-apollos and peter:亞波羅和彼得
-apollos university:亞波羅大學
-apollos university:阿波羅大學
-apollos:亞波羅
+apollos and peter:亚波罗和彼得
+apollos university:亚波罗大学
+apollos university:阿波罗大学
+apollos:亚波罗
 apollosa:阿波洛萨
 apollō:阿波罗
 apolo hotel:阿波罗大酒店
-apologetics and research:護教學和研究
-apologetics:護教學
+apologetics and research:护教学和研究
+apologetics:护教学
 apology accept:道歉接受
 apology actually:道歉实际上
 apology advertisement:道歉广告
@@ -1299,7 +1274,7 @@ apology decision:道歉决定
 apology die:道歉死
 apology diplomacy:道歉外交
 apology email:道歉电子邮件
-apology fatigue:道歉疲勞
+apology fatigue:道歉疲劳
 apology gift:道歉礼物
 apology give:道歉给
 apology has been:道歉已经
@@ -1324,9 +1299,9 @@ apology or condition:道歉或条件
 apology page:道歉页
 apology process:道歉过程
 apology reference:道歉参考
-apology resolution:道歉決議
+apology resolution:道歉决议
 apology ring:道歉戒指
-apology slogan:道歉標語
+apology slogan:道歉标语
 apology statement:道歉声明
 apology syndrome:道歉综合症
 apology too:道歉也
@@ -1337,29 +1312,29 @@ apology week:道歉周
 apology would:道歉将
 apology:道歉
 apoluo:阿坡洛村
-apomatoceros:亞馬遜河毛鼻鯰
-apomorphy and synapomorphy:共有衍徵
-apomyrma stygia:新蟻屬
-apomys:菲律賓家鼠屬
-apona fuliginosa:灰帶蛾
+apomatoceros:亚马逊河毛鼻鲶
+apomorphy and synapomorphy:共有衍征
+apomyrma stygia:新蟻属
+apomys:菲律宾家鼠属
+apona fuliginosa:灰带蛾
 aponchiidae:弯齿线虫科
 aponeurosis:腱膜
 aponeurotic fibroma:腱膜纤维瘤
-apongo district:阿蓬戈區
+apongo district:阿蓬戈区
 aponogeton lakhonensis:水蕹
 aponogeton:水蕹属
 apopa:阿波帕
-apophantic:命題論
-apophatic theology:否定神學
+apophantic:命题论
+apophatic theology:否定神学
 apophis asteroid:阿波菲斯小行星
 apophis at any:阿波菲斯在任何
 apophis will:阿波菲斯会
 apophis would:阿波菲斯将
 apophis:阿波菲斯
-apophony:元音變換
-apophyllite:魚眼石
+apophony:元音变换
+apophyllite:鱼眼石
 apopka:阿勃卡
-apoplast:原生質體外路徑
+apoplast:原生质体外路径
 apoplexy:卒中
 apoptosis and autophagy:细胞凋亡和自噬
 apoptosis and cellular senescence:细胞凋亡和细胞衰老
@@ -1385,7 +1360,7 @@ aporosa villosa:毛银柴
 aporosa:银柴属
 aporpium:伏孔菌属
 aposematism:警戒作用
-aposimz:人形之國
+aposimz:人形之国
 aposo:艾波索
 apostag:奥波什陶格
 apostasia wallichii:剑叶拟兰
@@ -1405,199 +1380,199 @@ apostichopus japonicus:仿刺参
 apostichopus:仿刺参属
 apostille convention:取消外国公文书认证要求的公约
 apostille:附加证明书
-apostle islands:阿波斯特爾群島
+apostle islands:阿波斯特尔群岛
 apostlebird:灰鴕鷚
 apostlik nunciatuur:宗座大使馆
 apostol nunciature:宗座大使馆
 apostol nunsiyati:宗座大使馆
 apostol rahibəsi:宗座大使馆
 apostola nunciaturo:宗座大使馆
-apostolache:阿波斯托拉凱鄉
+apostolache:阿波斯托拉凱乡
 apostoli nunciatúra:宗座大使馆
 apostoli palota:宗座宮
-apostolic administration of atyrau:天主教阿特勞宗座署理區
+apostolic administration of atyrau:天主教阿特劳宗座署理区
 apostolic administration of harbin:天主教黑龙江教区
-apostolic administration of kazakhstan and central asia:拜占庭禮天主教哈薩克暨中亞細亞宗座署理區
-apostolic administration of kyrgyzstan:天主教吉爾吉斯宗座署理區
-apostolic administration of southern albania:阿爾巴尼亞希臘禮天主教南阿爾巴尼亞宗座署理區
-apostolic administration of the caucasus:天主教高加索宗座署理區
-apostolic administration of uzbekistan:天主教烏茲別克宗座署理區
+apostolic administration of kazakhstan and central asia:拜占庭礼天主教哈萨克暨中亚细亚宗座署理区
+apostolic administration of kyrgyzstan:天主教吉尔吉斯宗座署理区
+apostolic administration of southern albania:阿尔巴尼亚希腊礼天主教南阿尔巴尼亚宗座署理区
+apostolic administration of the caucasus:天主教高加索宗座署理区
+apostolic administration of uzbekistan:天主教乌茲別克宗座署理区
 apostolic brethren:使徒兄弟会
-apostolic constitution:宗座憲令
-apostolic exarchate of the greek catholic church in the czech republic:魯塞尼亞禮天主教捷克宗座代牧區
-apostolic faith church:使徒信心會
+apostolic constitution:宗座宪令
+apostolic exarchate of the greek catholic church in the czech republic:鲁塞尼亚礼天主教捷克宗座代牧区
+apostolic faith church:使徒信心会
 apostolic fathers quote:使徒教父引用
 apostolic fathers:使徒教父
-apostolic nunciature to china:教廷駐華大使館
-apostolic nunciature to malaysia:聖座駐馬來西亞大使館
-apostolic nunciature to singapore:聖座駐新加坡大使館
-apostolic nunciature to the republic of china (taiwan):教廷駐華大使館
+apostolic nunciature to china:教廷驻华大使馆
+apostolic nunciature to malaysia:圣座驻马来西亚大使馆
+apostolic nunciature to singapore:圣座驻新加坡大使馆
+apostolic nunciature to the republic of china (taiwan):教廷驻华大使馆
 apostolic nunciature:宗座大使馆
 apostolic nunciature:教廷大使馆
 apostolic palace:宗座宮
-apostolic prefect:宗座監牧
-apostolic prefecture of azerbaijan:天主教阿塞拜疆宗座監牧區
+apostolic prefect:宗座监牧
+apostolic prefecture of azerbaijan:天主教阿塞拜疆宗座监牧区
 apostolic prefecture of battambang:天主教马德望宗座监牧区
-apostolic prefecture of battambang:馬德望宗座監牧區
-apostolic prefecture of brunei:汶萊宗座監牧區
+apostolic prefecture of battambang:马德望宗座监牧区
+apostolic prefecture of brunei:汶莱宗座监牧区
 apostolic prefecture of guilin:天主教桂林监牧区
-apostolic prefecture of guilin:桂林宗座監牧區
+apostolic prefecture of guilin:桂林宗座监牧区
 apostolic prefecture of hainan:天主教海南监牧区
-apostolic prefecture of hainan:海南宗座監牧區
-apostolic prefecture of hanyang:漢陽宗座監牧區
-apostolic prefecture of jiamusi:佳木斯宗座監牧區
+apostolic prefecture of hainan:海南宗座监牧区
+apostolic prefecture of hanyang:汉阳宗座监牧区
+apostolic prefecture of jiamusi:佳木斯宗座监牧区
 apostolic prefecture of jian'ou:天主教建瓯监牧区
 apostolic prefecture of kampong cham:天主教磅湛宗座监牧区
-apostolic prefecture of kampong cham:磅湛宗座監牧區
-apostolic prefecture of kompong cham:磅湛宗座監牧區
+apostolic prefecture of kampong cham:磅湛宗座监牧区
+apostolic prefecture of kompong cham:磅湛宗座监牧区
 apostolic prefecture of lindong:天主教林东监牧区
 apostolic prefecture of lixian:天主教澧州监牧区
-apostolic prefecture of misrata:米蘇拉塔宗座監牧區
-apostolic prefecture of misurata:天主教米蘇拉塔宗座監牧區
+apostolic prefecture of misrata:米苏拉塔宗座监牧区
+apostolic prefecture of misurata:天主教米苏拉塔宗座监牧区
 apostolic prefecture of qiqihar:天主教齐齐哈尔监牧区
-apostolic prefecture of robe:天主教羅貝宗座監牧區
+apostolic prefecture of robe:天主教罗贝宗座监牧区
 apostolic prefecture of shaowu:天主教邵武监牧区
-apostolic prefecture of shaowu:邵武宗座監牧區
+apostolic prefecture of shaowu:邵武宗座监牧区
 apostolic prefecture of shiqian:天主教石阡监牧区
-apostolic prefecture of the falkland islands:天主教福克蘭群島宗座監牧區
-apostolic prefecture of the marshall islands:天主教馬紹爾群島宗座監牧區
-apostolic prefecture of ulaanbaatar:天主教烏蘭巴托宗座監牧區
-apostolic prefecture of ulaanbaatar:烏蘭巴托宗座監牧區
+apostolic prefecture of the falkland islands:天主教福克兰群岛宗座监牧区
+apostolic prefecture of the marshall islands:天主教马绍尔群岛宗座监牧区
+apostolic prefecture of ulaanbaatar:乌兰巴托宗座监牧区
+apostolic prefecture of ulaanbaatar:天主教乌兰巴托宗座监牧区
 apostolic prefecture of weihai:天主教威海卫监牧区
 apostolic prefecture of xing'anfu:天主教兴安府宗座监牧区
 apostolic prefecture of xining:天主教西宁监牧区
-apostolic prefecture of xining:西寧宗座監牧區
-apostolic prefecture of xinjiang urumqi:天主教新疆監牧區
-apostolic prefecture of xinjiang:新疆宗座監牧區
-apostolic prefecture of xinxiang:新鄉宗座監牧區
+apostolic prefecture of xining:西宁宗座监牧区
+apostolic prefecture of xinjiang urumqi:天主教新疆监牧区
+apostolic prefecture of xinjiang:新疆宗座监牧区
+apostolic prefecture of xinxiang:新乡宗座监牧区
 apostolic prefecture of yixian:天主教易县监牧区
-apostolic prefecture of yixian:易縣宗座監牧區
+apostolic prefecture of yixian:易县宗座监牧区
 apostolic prefecture of yueyang:天主教岳州监牧区
-apostolic prefecture of yuzhno sakhalinsk:天主教南薩哈林斯克宗座監牧區
+apostolic prefecture of yuzhno sakhalinsk:天主教南萨哈林斯克宗座监牧区
 apostolic prefecture of zhaotong:天主教昭通监牧区
-apostolic prefecture of zhaotong:昭通宗座監牧區
-apostolic prefecture:宗座監牧區
-apostolic signatura:宗座聖璽最高法院
-apostolic succession:使徒統緒
-apostolic vicariate of aguarico:天主教阿瓜里科宗座代牧區
-apostolic vicariate of aleppo:天主教阿勒頗宗座代牧區
-apostolic vicariate of aleppo:阿勒頗宗座代牧區
-apostolic vicariate of alexandria of egypt:天主教埃及亞歷山大宗座代牧區
-apostolic vicariate of anatolia:天主教安納托利亞宗座代牧區
-apostolic vicariate of anatolia:安納托利亞宗座代牧區
-apostolic vicariate of awasa:天主教阿瓦薩宗座代牧區
-apostolic vicariate of awasa:阿瓦薩宗座代牧區
-apostolic vicariate of beirut:天主教貝魯特宗座代牧區
-apostolic vicariate of beirut:貝魯特宗座代牧區
-apostolic vicariate of benghazi:天主教班加西宗座代牧區
-apostolic vicariate of benghazi:班加西宗座代牧區
-apostolic vicariate of brunei darussalam:汶萊宗座代牧區
-apostolic vicariate of brunei:天主教汶萊宗座代牧區
-apostolic vicariate of brunei:汶萊宗座代牧區
-apostolic vicariate of calapan:卡拉潘宗座代牧區
-apostolic vicariate of camiri:卡米里宗座代牧區
-apostolic vicariate of camiri:天主教卡米里宗座代牧區
-apostolic vicariate of chaco paraguayo:天主教巴拉圭查科宗座代牧區
-apostolic vicariate of constantinople:君士坦丁堡宗座代牧區
-apostolic vicariate of derna:天主教德爾納宗座代牧區
-apostolic vicariate of donkorkrom:天主教東科克羅姆宗座代牧區
-apostolic vicariate of el beni:天主教貝尼宗座代牧區
-apostolic vicariate of esmeraldas:天主教埃斯梅拉達斯宗座代牧區
-apostolic vicariate of fujian:福建宗座代牧區
-apostolic vicariate of gambella:天主教甘貝拉宗座代牧區
-apostolic vicariate of guangdong:廣東宗座代牧區
-apostolic vicariate of guangzhou:廣州宗座代牧區
-apostolic vicariate of guapi:天主教瓜比宗座代牧區
-apostolic vicariate of harar:天主教哈勒爾宗座代牧區
-apostolic vicariate of hosanna:天主教候賽納宗座代牧區
-apostolic vicariate of hunan:湖南宗座代牧區
-apostolic vicariate of iles saint pierre and miquelon:天主教聖皮埃爾和密克隆群島宗座代牧區
-apostolic vicariate of ingwavuma:天主教英格瓦烏馬宗座代牧區
-apostolic vicariate of iquitos:伊基托斯宗座代牧區
-apostolic vicariate of iquitos:天主教伊基托斯宗座代牧區
-apostolic vicariate of isiolo:伊西奧洛宗座代牧區
-apostolic vicariate of istanbul:伊斯坦堡宗座代牧區
-apostolic vicariate of istanbul:天主教伊斯坦堡宗座代牧區
-apostolic vicariate of izabal:天主教伊薩瓦爾宗座代牧區
+apostolic prefecture of zhaotong:昭通宗座监牧区
+apostolic prefecture:宗座监牧区
+apostolic signatura:宗座圣璽最高法院
+apostolic succession:使徒统绪
+apostolic vicariate of aguarico:天主教阿瓜里科宗座代牧区
+apostolic vicariate of aleppo:天主教阿勒颇宗座代牧区
+apostolic vicariate of aleppo:阿勒颇宗座代牧区
+apostolic vicariate of alexandria of egypt:天主教埃及亚历山大宗座代牧区
+apostolic vicariate of anatolia:天主教安纳托利亚宗座代牧区
+apostolic vicariate of anatolia:安纳托利亚宗座代牧区
+apostolic vicariate of awasa:天主教阿瓦萨宗座代牧区
+apostolic vicariate of awasa:阿瓦萨宗座代牧区
+apostolic vicariate of beirut:天主教贝鲁特宗座代牧区
+apostolic vicariate of beirut:贝鲁特宗座代牧区
+apostolic vicariate of benghazi:天主教班加西宗座代牧区
+apostolic vicariate of benghazi:班加西宗座代牧区
+apostolic vicariate of brunei darussalam:汶莱宗座代牧区
+apostolic vicariate of brunei:天主教汶莱宗座代牧区
+apostolic vicariate of brunei:汶莱宗座代牧区
+apostolic vicariate of calapan:卡拉潘宗座代牧区
+apostolic vicariate of camiri:卡米里宗座代牧区
+apostolic vicariate of camiri:天主教卡米里宗座代牧区
+apostolic vicariate of chaco paraguayo:天主教巴拉圭查科宗座代牧区
+apostolic vicariate of constantinople:君士坦丁堡宗座代牧区
+apostolic vicariate of derna:天主教德尔纳宗座代牧区
+apostolic vicariate of donkorkrom:天主教东科克罗姆宗座代牧区
+apostolic vicariate of el beni:天主教贝尼宗座代牧区
+apostolic vicariate of esmeraldas:天主教埃斯梅拉达斯宗座代牧区
+apostolic vicariate of fujian:福建宗座代牧区
+apostolic vicariate of gambella:天主教甘贝拉宗座代牧区
+apostolic vicariate of guangdong:广东宗座代牧区
+apostolic vicariate of guangzhou:广州宗座代牧区
+apostolic vicariate of guapi:天主教瓜比宗座代牧区
+apostolic vicariate of harar:天主教哈勒尔宗座代牧区
+apostolic vicariate of hosanna:天主教候赛纳宗座代牧区
+apostolic vicariate of hunan:湖南宗座代牧区
+apostolic vicariate of iles saint pierre and miquelon:天主教圣皮埃尔和密克隆群岛宗座代牧区
+apostolic vicariate of ingwavuma:天主教英格瓦乌马宗座代牧区
+apostolic vicariate of iquitos:伊基托斯宗座代牧区
+apostolic vicariate of iquitos:天主教伊基托斯宗座代牧区
+apostolic vicariate of isiolo:伊西奧洛宗座代牧区
+apostolic vicariate of istanbul:伊斯坦堡宗座代牧区
+apostolic vicariate of istanbul:天主教伊斯坦堡宗座代牧区
+apostolic vicariate of izabal:天主教伊萨瓦尔宗座代牧区
 apostolic vicariate of kiang nan:天主教江南代牧区
-apostolic vicariate of leticia:天主教萊蒂西亞宗座代牧區
-apostolic vicariate of luang prabang:天主教瑯勃拉邦宗座代牧區
-apostolic vicariate of makokou:天主教馬科庫宗座代牧區
-apostolic vicariate of makokou:馬科庫宗座代牧區
-apostolic vicariate of meki:天主教梅基宗座代牧區
-apostolic vicariate of meki:梅基宗座代牧區
-apostolic vicariate of mongo:天主教蒙戈宗座代牧區
-apostolic vicariate of mongolia:蒙古宗座代牧區
-apostolic vicariate of napo:天主教納波宗座代牧區
-apostolic vicariate of nekemte:天主教內格默特宗座代牧區
-apostolic vicariate of nepal:尼泊爾宗座代牧區
-apostolic vicariate of ningbo:寧波宗座代牧區
-apostolic vicariate of northern arabia:天主教北阿拉伯宗座代牧區
-apostolic vicariate of pakse:天主教巴色宗座代牧區
-apostolic vicariate of pakse:巴色宗座代牧區
-apostolic vicariate of pando:天主教潘多宗座代牧區
+apostolic vicariate of leticia:天主教莱蒂西亚宗座代牧区
+apostolic vicariate of luang prabang:天主教瑯勃拉邦宗座代牧区
+apostolic vicariate of makokou:天主教马科库宗座代牧区
+apostolic vicariate of makokou:马科库宗座代牧区
+apostolic vicariate of meki:天主教梅基宗座代牧区
+apostolic vicariate of meki:梅基宗座代牧区
+apostolic vicariate of mongo:天主教蒙戈宗座代牧区
+apostolic vicariate of mongolia:蒙古宗座代牧区
+apostolic vicariate of napo:天主教纳波宗座代牧区
+apostolic vicariate of nekemte:天主教內格默特宗座代牧区
+apostolic vicariate of nepal:尼泊尔宗座代牧区
+apostolic vicariate of ningbo:宁波宗座代牧区
+apostolic vicariate of northern arabia:天主教北阿拉伯宗座代牧区
+apostolic vicariate of pakse:天主教巴色宗座代牧区
+apostolic vicariate of pakse:巴色宗座代牧区
+apostolic vicariate of pando:天主教潘多宗座代牧区
 apostolic vicariate of phnom penh:天主教金边宗座代牧区
-apostolic vicariate of phnom penh:金邊宗座代牧區
-apostolic vicariate of pilcomayo:天主教皮科馬約宗座代牧區
-apostolic vicariate of pontiac:龐蒂亞克宗座代牧區
-apostolic vicariate of pucallpa:天主教普卡爾帕宗座代牧區
-apostolic vicariate of puerto ayacucho:天主教阿亞庫喬港宗座代牧區
-apostolic vicariate of puerto ayacucho:阿亞庫喬港宗座代牧區
-apostolic vicariate of puerto maldonado:天主教馬爾多納多港宗座代牧區
-apostolic vicariate of puerto maldonado:馬爾多納多港宗座代牧區
-apostolic vicariate of puyo:天主教普約宗座代牧區
-apostolic vicariate of quetta:天主教奎達宗座代牧區
-apostolic vicariate of quetta:奎達宗座代牧區
-apostolic vicariate of requena:天主教雷克納宗座代牧區
-apostolic vicariate of reyes:天主教雷耶斯宗座代牧區
-apostolic vicariate of reyes:雷耶斯宗座代牧區
-apostolic vicariate of rodrigues:天主教羅德里格斯宗座代牧區
-apostolic vicariate of rundu:天主教龍杜宗座代牧區
-apostolic vicariate of rundu:龍杜宗座代牧區
-apostolic vicariate of savannakhet:天主教沙灣拿吉宗座代牧區
-apostolic vicariate of shantou:汕頭宗座代牧區
-apostolic vicariate of soddo:天主教索多宗座代牧區
-apostolic vicariate of southern arabia:天主教南阿拉伯宗座代牧區
-apostolic vicariate of tabuk:塔布克宗座代牧區
-apostolic vicariate of the comoros archipelago:天主教科摩羅群島宗座代牧區
-apostolic vicariate of thessaloniki:天主教得撒洛尼宗座代牧區
-apostolic vicariate of tierradentro:天主教鐵拉登特羅宗座代牧區
-apostolic vicariate of trinidad:天主教特立尼達宗座代牧區
-apostolic vicariate of tripoli:天主教的黎波里宗座代牧區
-apostolic vicariate of tripoli:的黎波里宗座代牧區
-apostolic vicariate of tucupita:圖庫皮塔宗座代牧區
-apostolic vicariate of tucupita:天主教圖庫皮塔宗座代牧區
+apostolic vicariate of phnom penh:金边宗座代牧区
+apostolic vicariate of pilcomayo:天主教皮科马约宗座代牧区
+apostolic vicariate of pontiac:庞蒂亚克宗座代牧区
+apostolic vicariate of pucallpa:天主教普卡尔帕宗座代牧区
+apostolic vicariate of puerto ayacucho:天主教阿亚库乔港宗座代牧区
+apostolic vicariate of puerto ayacucho:阿亚库乔港宗座代牧区
+apostolic vicariate of puerto maldonado:天主教马尔多纳多港宗座代牧区
+apostolic vicariate of puerto maldonado:马尔多纳多港宗座代牧区
+apostolic vicariate of puyo:天主教普约宗座代牧区
+apostolic vicariate of quetta:天主教奎达宗座代牧区
+apostolic vicariate of quetta:奎达宗座代牧区
+apostolic vicariate of requena:天主教雷克纳宗座代牧区
+apostolic vicariate of reyes:天主教雷耶斯宗座代牧区
+apostolic vicariate of reyes:雷耶斯宗座代牧区
+apostolic vicariate of rodrigues:天主教罗德里格斯宗座代牧区
+apostolic vicariate of rundu:天主教龙杜宗座代牧区
+apostolic vicariate of rundu:龙杜宗座代牧区
+apostolic vicariate of savannakhet:天主教沙湾拿吉宗座代牧区
+apostolic vicariate of shantou:汕头宗座代牧区
+apostolic vicariate of soddo:天主教索多宗座代牧区
+apostolic vicariate of southern arabia:天主教南阿拉伯宗座代牧区
+apostolic vicariate of tabuk:塔布克宗座代牧区
+apostolic vicariate of the comoros archipelago:天主教科摩罗群岛宗座代牧区
+apostolic vicariate of thessaloniki:天主教得撒洛尼宗座代牧区
+apostolic vicariate of tierradentro:天主教铁拉登特罗宗座代牧区
+apostolic vicariate of trinidad:天主教特立尼达宗座代牧区
+apostolic vicariate of tripoli:天主教的黎波里宗座代牧区
+apostolic vicariate of tripoli:的黎波里宗座代牧区
+apostolic vicariate of tucupita:图库皮塔宗座代牧区
+apostolic vicariate of tucupita:天主教图库皮塔宗座代牧区
+apostolic vicariate of vientiane:万象宗座代牧区
 apostolic vicariate of vientiane:天主教万象宗座代牧区
-apostolic vicariate of vientiane:萬象宗座代牧區
-apostolic vicariate of wonsan:元山宗座代牧區
-apostolic vicariate of wuhu:蕪湖宗座代牧區
-apostolic vicariate of yichang:宜昌宗座代牧區
-apostolic vicariate of yurimaguas:天主教尤里馬瓜斯宗座代牧區
-apostolic vicariate of yurimaguas:尤里馬瓜斯宗座代牧區
-apostolic vicariate of zamora in ecuador:天主教薩莫拉宗座代牧區
-apostolic vicariate:宗座代牧區
+apostolic vicariate of wonsan:元山宗座代牧区
+apostolic vicariate of wuhu:蕪湖宗座代牧区
+apostolic vicariate of yichang:宜昌宗座代牧区
+apostolic vicariate of yurimaguas:天主教尤里马瓜斯宗座代牧区
+apostolic vicariate of yurimaguas:尤里马瓜斯宗座代牧区
+apostolic vicariate of zamora in ecuador:天主教萨莫拉宗座代牧区
+apostolic vicariate:宗座代牧区
 apostolicko nunciatura:宗座大使馆
 apostoliese nunciature:宗座大使馆
 apostolik elçilik:宗座大使馆
 apostolinen nunciatuuri:宗座大使馆
 apostolische nunciature:宗座大使馆
-apostolische nuntiatur to the republic of china (taiwan):教廷駐華大使館
+apostolische nuntiatur to the republic of china (taiwan):教廷驻华大使馆
 apostolische nuntiatur:宗座大使馆
 apostolische nuntiatuur:宗座大使馆
 apostolischer palast:宗座宮
 apostolisk nunciature:宗座大使馆
 apostoliska palatset:宗座宮
-apostolove raion:阿波斯托洛韋區
-apostolove:阿波斯托洛韋
+apostolove raion:阿波斯托洛韦区
+apostolove:阿波斯托洛韦
 apostolsk nunciature:宗座大使馆
 apostolska nunciatura:宗座大使馆
 apostolska nuncijatura:宗座大使馆
 apostomatida:隔口目
 apostrophe after:撇号后
-apostrophe island:阿波斯特勒菲島
+apostrophe island:阿波斯特勒菲岛
 apostrophe rules:撇号规则
 apostrophe:撇号
-aposturisoma myriodon:繁齒甲鯰
+aposturisoma myriodon:繁齿甲鲶
 apotang:阿坡塘
 apotex:奥贝泰克
 apotheke:华茸堂药店
@@ -1606,9 +1581,9 @@ apotheosis veil:神化面纱
 apotheosis:神化
 apotomis:斜纹小卷蛾属
 apotropina:显鬃秆蝇属
-apotropos:監護人
+apotropos:监护人
 apovincamine:阿扑长春胺
-apowan grocery store:阿婆灣柑仔店
+apowan grocery store:阿婆湾柑仔店
 apoštolská nunciatura:宗座大使馆
 apoštolská nunciatúra:宗座大使馆
 app accelerator:应用程序加速器
@@ -2202,17 +2177,17 @@ appalacherne:阿巴拉契亚山脉
 appalaches:阿巴拉契亚山脉
 appalachi togʻlari:阿巴拉契亚山脉
 appalachi:阿巴拉契亚山脉
-appalachia darter:裸首小鱸
-appalachia nunataks:阿帕拉契亞冰原島峰
-appalachia:阿巴拉契亞
+appalachia darter:裸首小鲈
+appalachia nunataks:阿帕拉契亚冰原岛峰
+appalachia:阿巴拉契亚
 appalachiafjøll:阿巴拉契亚山脉
 appalachian mountains north:阿巴拉契亚山脉北
 appalachian mountains region:阿巴拉契亚山脉地区
 appalachian mountains:阿巴拉契亚山脉
 appalachian plateau:阿巴拉契亚高原
-appalachian state university:阿巴拉契亞州立大學
-appalachian trail:阿帕拉契小徑
-appalachiosaurus:阿巴拉契亞龍屬
+appalachian state university:阿巴拉契亚州立大学
+appalachian trail:阿帕拉契小径
+appalachiosaurus:阿巴拉契亚龙属
 appalachoù:阿巴拉契亚山脉
 appalachy:阿巴拉契亚山脉
 appalakit:阿巴拉契亚山脉
@@ -2224,40 +2199,33 @@ appaloosa:阿帕卢萨马
 appam:阿榜糕
 appanage:阿帕纳日
 appanoose township:阿珀努斯镇区
-appare:炭燒 天晴
-apparent authority:表見代理
+appare:炭烧 天晴
+apparent authority:表见代理
 apparent death:装死
 apparent magnitude:视星等
-apparent motion:視運動
-apparent polar wander:視極移
+apparent motion:视运动
+apparent polar wander:视极移
 apparent sun:真太阳
-apparent temperature:體感溫度
+apparent temperature:体感温度
 apparition of christ to the virgin:基督向圣母显现
-apparitions building:聖母顯現樓
+apparitions building:圣母显现楼
 appartement de ernest hemingway:海明威故居
 appartement moey:华登酒店
-appartement moey:華登酒店
 appeal after:上诉后
 appeal against:上诉反对
 appeal agreement:上诉协议
 appeal any:上诉任何
 appeal arbitration procedure:上诉仲裁程序
 appeal arbitration:上诉仲裁
-appeal by:上訴被
 appeal by:上诉被
-appeal case:上訴案件
 appeal case:上诉案件
-appeal committee:上訴委員會
 appeal committee:上诉委员会
 appeal consideration:上诉考虑
 appeal could:上诉能
 appeal council:上诉委员会
-appeal court judge:上訴法院法官
 appeal court judge:上诉法院法官
 appeal court start:上诉法院开始
-appeal court:上訴法院
 appeal court:上诉法院
-appeal courts:上訴法院
 appeal courts:上诉法院
 appeal date:上诉日期
 appeal decided:上诉决定
@@ -2272,12 +2240,11 @@ appeal has been:上诉已经
 appeal include:上诉包括
 appeal is appropriate:上诉是适当的
 appeal is necessary:上诉是必要的
-appeal is reasonable:上訴是合理的
+appeal is reasonable:上诉是合理的
 appeal is very important:上诉是非常重要的
 appeal issue:上诉问题
 appeal issues:上诉问题
 appeal it:上诉它
-appeal judge:上訴法官
 appeal judge:上诉法官
 appeal letter:上诉信
 appeal means:上诉意味着
@@ -2289,7 +2256,6 @@ appeal or request:上诉或请求
 appeal our:上诉我们的
 appeal page:上诉页
 appeal phase:上诉阶段
-appeal procedure:上訴程序
 appeal procedure:上诉程序
 appeal process:上诉过程
 appeal receive:上诉收到
@@ -2309,32 +2275,30 @@ appeal system:上诉系统
 appeal the:上诉这
 appeal this:上诉这
 appeal time:上诉时间
-appeal to accomplishment:訴諸成就
-appeal to consequences:訴諸後果
-appeal to emotion:訴諸情感
-appeal to fear:訴諸恐懼
-appeal to flattery:訴諸諂媚
-appeal to motive:訴諸動機
-appeal to nature:訴諸自然
-appeal to novelty:訴諸新潮
-appeal to pity:訴諸憐憫
-appeal to probability:訴諸可能
-appeal to ridicule:訴諸荒謬
+appeal to accomplishment:诉诸成就
+appeal to consequences:诉诸后果
+appeal to emotion:诉诸情感
+appeal to fear:诉诸恐惧
+appeal to flattery:诉诸谄媚
+appeal to motive:诉诸动机
+appeal to nature:诉诸自然
+appeal to novelty:诉诸新潮
+appeal to pity:诉诸怜悯
+appeal to probability:诉诸可能
+appeal to ridicule:诉诸荒谬
 appeal to society:上诉到社会
-appeal to spite:訴諸仇恨
-appeal to the stone:訴諸頑固
-appeal to the supreme court:上訴到最高法院
+appeal to spite:诉诸仇恨
+appeal to the stone:诉诸頑固
 appeal to the supreme court:上诉到最高法院
-appeal to tradition:訴諸傳統
+appeal to tradition:诉诸传统
 appeal transfer:上诉转移
 appeal trial:上诉审判
-appeal tribunal:上訴法庭
-appeal was better:上訴是更好的
+appeal tribunal:上诉法庭
+appeal was better:上诉是更好的
 appeal website:上诉网站
 appeal without:上诉没有
 appeal would:上诉将
 appeal you:上诉你
-appeal:上訴
 appeal:上诉
 appear a circle:出现一个圆圈
 appear a letter:出现一封信
@@ -2648,7 +2612,7 @@ appears:出现
 appeasement and defeatism:绥靖主义和失败主义
 appeasement:绥靖主义
 appel reaction:阿佩尔反应
-appell sequence:阿佩爾序列
+appell sequence:阿佩尔序列
 appell series:阿佩尔函数
 appell's equation of motion:阿佩尔方程
 appellate body cease:上诉机构停止
@@ -2666,8 +2630,8 @@ appellate body reports:上诉机构报告
 appellate body structure:上诉机构结构
 appellate body would:上诉机构将
 appellate body:上诉机构
-appellate court:上訴法院
-appellate jurisdiction act:上訴司法管轄權法令
+appellate court:上诉法院
+appellate jurisdiction act:上诉司法管辖权法令
 appelle:阿佩勒
 appen:阿彭
 appenans:阿普南
@@ -2686,35 +2650,35 @@ append:附加
 appendage:附肢
 appendectomy patients:阑尾切除术患者
 appendectomy:阑尾切除术
-appendicitis:闌尾炎
+appendicitis:阑尾炎
 appendicula:牛齿兰属
 appendicular skeleton:附肢骨骼
 appendiculella:附丝壳属
 appendix of testis:睪丸附件
 appendix vergiliana:维吉尔附录
 appenheim:阿彭海姆
+appenin yarımadası:义大利半岛
 appenin yarımadası:意大利半岛
-appenin yarımadası:義大利半島
+appeninska połkupa:义大利半岛
 appeninska połkupa:意大利半岛
-appeninska połkupa:義大利半島
 appenninane:亚平宁山脉
 appenninek:亚平宁山脉
 appenninene:亚平宁山脉
+appenninerhalvøya:义大利半岛
 appenninerhalvøya:意大利半岛
-appenninerhalvøya:義大利半島
 appenninerne:亚平宁山脉
+appennini-félsziget:义大利半岛
 appennini-félsziget:意大利半岛
-appennini-félsziget:義大利半島
 appennínafjöll:亚平宁山脉
+appennínaskagi:义大利半岛
 appennínaskagi:意大利半岛
-appennínaskagi:義大利半島
 appenweier:阿彭韦尔
 appenwihr:阿彭维尔
-appenzell alps:阿彭策爾阿爾卑斯山脈
+appenzell alps:阿彭策尔阿尔卑斯山脉
 appenzell ausserrhoden:外阿彭策尔州
 appenzell innerrhoden:内阿彭策尔州
 appenzell:阿彭策尔州
-appenzeller cheese:阿彭策爾芝士
+appenzeller cheese:阿彭策尔芝士
 appertiella:团花藻属
 appetite and digestion:食欲和消化
 appetite and digestive function:食欲和消化功能
@@ -2785,16 +2749,16 @@ appetizing snack:美味的小吃
 appetizing:美味的
 appeville annebault:阿普维尔阿讷博
 appeville:阿普维尔
-appian way productions:亞壁古道影業
-appian way:阿庇亞道
+appian way productions:亚壁古道影业
+appian way:阿庇亚道
 appian way:阿庇安路
 appian:阿庇安
 appiano gentile:阿皮亚诺真蒂莱
 appias albina:白翅尖粉蝶
-appias indra:雲紋尖粉蝶
+appias indra:云纹尖粉蝶
 appias libythea:利比尖粉蝶
-appias lyncida:異色尖粉蝶
-appias olferna:鑲邊尖粉蝶
+appias lyncida:异色尖粉蝶
+appias olferna:镶边尖粉蝶
 appias:阿皮亚斯
 appietto:阿皮耶托
 appignano:阿皮尼亚诺
@@ -2803,10 +2767,10 @@ appingedam:阿平厄丹
 applause about:鼓掌大约
 applause diagnosis:鼓掌诊断
 applause means:鼓掌意味着
-applause pavilion:怡慶坊
+applause pavilion:怡庆坊
 applause twice:鼓掌两次
 applause:鼓掌
-apple 203:蘋果203
+apple 203:苹果203
 apple absolute:苹果绝对
 apple accelerate:苹果加速
 apple account or your:苹果账户或你的
@@ -2962,7 +2926,6 @@ apple autumn:苹果秋季
 apple avoid:苹果避免
 apple awards:苹果奖
 apple baby house:苹果宝宝屋
-apple baby house:蘋果寶寶屋
 apple background:苹果背景
 apple badge:苹果徽章
 apple barrel:苹果桶
@@ -2990,8 +2953,8 @@ apple blog:苹果博客
 apple blogs:苹果博客
 apple board of directors:苹果董事会
 apple board:苹果板
-apple bobbing:咬蘋果
-apple book company limited:蘋果書店
+apple bobbing:咬苹果
+apple book company limited:苹果书店
 apple books:苹果书籍
 apple bookstore:苹果书店
 apple boss:苹果老板
@@ -3005,7 +2968,6 @@ apple brand car:苹果品牌汽车
 apple brand:苹果品牌
 apple brandy:苹果白兰地
 apple bread:苹果面包
-apple bread:蘋果麵包
 apple breakfast:苹果早餐
 apple breed:苹果品种
 apple bug:苹果虫
@@ -3039,11 +3001,11 @@ apple centre:苹果中心
 apple ceo steve:苹果首席执行官史蒂夫
 apple ceo:苹果首席执行官
 apple certification:苹果认证
-apple chan:陳芷尤
+apple chan:陈芷尤
 apple change:苹果改变
 apple changed:苹果改变了
 apple charger:苹果充电器
-apple cheese:蘋果起司
+apple cheese:苹果起司
 apple chief executive officer:苹果首席执行官
 apple chief operating officer:苹果首席运营官
 apple china open:苹果中国开
@@ -3053,7 +3015,7 @@ apple church:苹果教堂
 apple cider vinegar and vitamin:苹果醋和维生素
 apple cider vinegar health:苹果醋健康
 apple cider vinegar:苹果醋
-apple cider:蘋果西打
+apple cider:苹果西打
 apple circus:苹果马戏
 apple close:苹果关闭
 apple cloud:苹果云
@@ -3108,7 +3070,6 @@ apple criticize:苹果批评
 apple crowd:苹果人群
 apple culture:苹果文化
 apple cup:苹果杯
-apple cup:蘋果盃
 apple currently has three:苹果目前有三
 apple currently offer:苹果目前提供
 apple currently:苹果目前
@@ -3118,8 +3079,8 @@ apple customers:苹果客户
 apple customize:苹果定制
 apple cut off:苹果切断
 apple daily newspaper:苹果日报
-apple daily raids and arrests:香港警務處國家安全處搜查壹傳媒大樓事件
-apple daily:蘋果日報
+apple daily raids and arrests:香港警务处国家安全处搜查壹传媒大楼事件
+apple daily:苹果日报
 apple dart:苹果飞镖
 apple data center:苹果数据中心
 apple data:苹果数据
@@ -3146,7 +3107,7 @@ apple developer fee:苹果开发者费用
 apple developer forums:苹果开发者论坛
 apple developer relation:苹果开发者关系
 apple developer tool:苹果开发者工具
-apple developer tools:蘋果開發工具
+apple developer tools:苹果开发工具
 apple developer web site:苹果开发者网站
 apple developer website:苹果开发者网站
 apple developer:苹果开发者
@@ -3283,7 +3244,6 @@ apple fund:苹果基金
 apple game:苹果游戏
 apple garden:苹果园
 apple garden:苹果花园
-apple garden:蘋果園
 apple gear:苹果齿轮
 apple genius bar:苹果天才吧
 apple genius:苹果天才
@@ -3302,7 +3262,7 @@ apple green:苹果绿色
 apple grind:苹果磨
 apple group:苹果组
 apple growth:苹果增长
-apple guard:蘋果護衛
+apple guard:苹果护卫
 apple had a three:苹果有一个三
 apple had been:苹果已经
 apple hand:苹果手
@@ -3330,16 +3290,15 @@ apple hold:苹果拥有
 apple honey:苹果蜂蜜
 apple honeymoon:苹果蜜月
 apple hong kong plaza:apple 香港广场
-apple hong kong plaza:apple 香港廣場
 apple hong kong:苹果香港
 apple hope:苹果希望
 apple hopes smaller:苹果希望更小的
 apple hopes:苹果希望
-apple hostel:蘋果賓館
+apple hostel:苹果宾馆
 apple hot dog:苹果热狗
-apple hotel - sai ying pun:蘋果酒店- 西營盤
+apple hotel - sai ying pun:苹果酒店- 西营盘
 apple how:苹果如何
-apple huang:黃暐婷
+apple huang:黄暐婷
 apple human resources:苹果人力资源
 apple human:苹果人
 apple i:苹果我
@@ -3360,8 +3319,8 @@ apple increase:苹果增加
 apple india:苹果印度
 apple industrial design:苹果工业设计
 apple infinite loop campus:苹果公司总部
-apple inn hostel:蘋果旅館
-apple inn mong kok:蘋果旅館旺角店
+apple inn hostel:苹果旅馆
+apple inn mong kok:苹果旅馆旺角店
 apple insist:苹果坚持
 apple install:苹果安装
 apple intend:苹果打算
@@ -3403,16 +3362,15 @@ apple is yellow:苹果是黄色
 apple is you:苹果是你
 apple it:苹果它
 apple jack:苹果杰克
-apple jacks:蘋果肉桂脆片
+apple jacks:苹果肉桂脆片
 apple japan:苹果日本
-apple juice or orange juice:蘋果汁或橙汁
+apple juice or orange juice:苹果汁或橙汁
 apple juice:苹果汁
-apple juice:蘋果汁
 apple just:苹果只
 apple keyboard:苹果键盘
-apple keyboards:蘋果標準鍵盤
+apple keyboards:苹果标准键盘
 apple kids:苹果儿童
-apple king:頻果王
+apple king:频果王
 apple knows how to make:苹果知道如何制造
 apple knows:苹果知道
 apple korea:苹果韩国
@@ -3445,7 +3403,7 @@ apple manufacture:苹果制造
 apple manufacturer:苹果制造商
 apple manufacturing:苹果制造业
 apple map:苹果地图
-apple maps:蘋果地圖
+apple maps:苹果地图
 apple mark:苹果标记
 apple market capitalization:苹果市值
 apple market power:苹果市场力量
@@ -3480,7 +3438,7 @@ apple music app:苹果音乐应用程序
 apple music application:苹果音乐应用
 apple music awards:苹果音乐奖
 apple music converter:苹果音乐转换器
-apple music festival:蘋果音樂節
+apple music festival:苹果音乐节
 apple music files:苹果音乐文件
 apple music head:苹果音乐头
 apple music in europe:苹果音乐在欧洲
@@ -3534,7 +3492,7 @@ apple officials:苹果官员
 apple often:苹果常常
 apple oids:苹果彗星
 apple omit:苹果忽略
-apple omotesando:apple store 表參道
+apple omotesando:apple store 表参道
 apple once again:苹果再次
 apple once describe:苹果曾经描述
 apple once:苹果曾经
@@ -3589,9 +3547,9 @@ apple phone platform:苹果手机平台
 apple phone users:苹果手机用户
 apple phone:苹果手机
 apple photos:苹果照片
-apple pie and coffee:蘋果派和咖啡
-apple pie means:蘋果派意味著
-apple pie:蘋果派
+apple pie and coffee:苹果派和咖啡
+apple pie means:苹果派意味著
+apple pie:苹果派
 apple plan:苹果计划
 apple plans:苹果计划
 apple platform limit:苹果平台限制
@@ -3619,7 +3577,7 @@ apple product:苹果产品
 apple production line:苹果生产线
 apple production:苹果产品
 apple production:苹果生产
-apple productivity experience group:麥金塔事業單位
+apple productivity experience group:麦金塔事业单位
 apple products and direction:苹果产品和方向
 apple products and manufacturing:苹果产品和制造业
 apple products and operating system:苹果产品和操作系统
@@ -3640,7 +3598,6 @@ apple public:苹果公共
 apple publish:苹果发表
 apple pudding:苹果布丁
 apple pudong:apple 浦东
-apple pudong:apple 浦東
 apple pull:苹果拉
 apple push:苹果推
 apple qibao:apple 七宝
@@ -3700,7 +3657,7 @@ apple sales team:苹果销售团队
 apple sales:苹果销售
 apple samsung:苹果三星
 apple satisfy:苹果满足
-apple sauce:蘋果醬
+apple sauce:苹果醬
 apple sausage:苹果香肠
 apple says this:苹果说这
 apple says your fingerprint:苹果说你的指纹
@@ -3745,7 +3702,7 @@ apple smart phone:苹果智能手机
 apple smart watch:苹果智能手表
 apple smartphone:苹果智能手机
 apple smartwatch:苹果智能手表
-apple snail:蘋果螺科
+apple snail:苹果螺科
 apple so:苹果如此
 apple software and devices:苹果软件和设备
 apple software development:苹果软件开发
@@ -3754,7 +3711,7 @@ apple software engineering:苹果软件工程
 apple software security:苹果软件安全
 apple software services:苹果软件服务
 apple software update:苹果软件更新
-apple software update:蘋果軟體更新
+apple software update:苹果软体更新
 apple software:苹果软件
 apple sold:苹果卖
 apple sometimes:苹果有时
@@ -3786,16 +3743,15 @@ apple stop:苹果停止
 apple stopped:苹果停止了
 apple store and disney store:苹果商店和迪士尼商店
 apple store and google:苹果商店和谷歌
-apple store ginza:蘋果直營店銀座店
+apple store ginza:苹果直营店银座店
 apple store in:苹果商店里面
 apple store taipei 101:apple 台北 101
 apple store:苹果
 apple store:苹果商店
-apple store:蘋果
-apple store:蘋果直營店銀座店
+apple store:苹果直营店银座店
 apple story:苹果故事
 apple stream:苹果流
-apple strudel:維也納蘋果卷
+apple strudel:维也纳苹果卷
 apple studio:苹果工作室
 apple style:苹果风格
 apple submission:苹果提交
@@ -3899,7 +3855,6 @@ apple tv:苹果电视
 apple two:苹果二
 apple universe:苹果宇宙
 apple university:苹果大学
-apple university:蘋果大學
 apple unlock:苹果解锁
 apple until:苹果直到
 apple update:苹果更新
@@ -3916,7 +3871,7 @@ apple using:苹果使用
 apple usually like:苹果通常喜欢
 apple usually:苹果通常
 apple utilize:苹果利用
-apple valley:蘋果谷
+apple valley:苹果谷
 apple variable:苹果变量
 apple version:苹果版本
 apple very:苹果非常
@@ -3999,24 +3954,23 @@ apple would never:苹果永远不会
 apple would support us:苹果将支持美国
 apple would:苹果将
 apple write:苹果写
-apple xinyi a13:apple 信義a13
+apple xinyi a13:apple 信义a13
 apple you:苹果你
 apple you:苹果你们
 apple zhujiang new town:apple 珠江新城
 apple-tree under:苹果树下
 apple-tree:苹果树
-apple203 brunch:蘋果203brunch
+apple203 brunch:苹果203brunch
 apple:苹果
 apple:苹果酒店
-apple:蘋果酒店
 appleby castle:阿普比城堡
-appleby in westmorland:威斯摩蘭阿普比
-applegate river:阿普爾蓋特河
-applehouse:蘋果家家民宿
-apples and oranges:蘋果跟橘子
+appleby in westmorland:威斯摩兰阿普比
+applegate river:阿普尔盖特河
+applehouse:苹果家家民宿
+apples and oranges:苹果跟橘子
 appleton township:阿普尔顿镇区
-appletree education centre:小蘋果教育中心
-applicant tracking system:申請人追蹤系統
+appletree education centre:小苹果教育中心
+applicant tracking system:申请人追踪系统
 application ability:应用能力
 application accelerator:应用加速器
 application accelerator:应用程序加速器
@@ -4917,7 +4871,7 @@ application file:应用文件
 application file:应用程序文件
 application files:应用文件
 application files:应用程序文件
-application firewall:應用層防火牆
+application firewall:应用层防火墙
 application flowchart:应用程序流程图
 application food:应用食品
 application form:应用形式
@@ -5168,7 +5122,7 @@ application less than:应用小于
 application let:应用程序让
 application let:应用让
 application level and management:应用水平和管理
-application level gateway:應用層閘道
+application level gateway:应用层閘道
 application level:应用水平
 application level:应用等级
 application levels:应用水平
@@ -5176,7 +5130,7 @@ application license:应用程序许可证
 application license:应用许可证
 application life:应用生命
 application life:应用程序生命
-application lifecycle management:應用程式生命週期管理
+application lifecycle management:应用程式生命周期管理
 application limit:应用程序限制
 application limit:应用限制
 application link:应用程序连接
@@ -5752,7 +5706,7 @@ application security testing:应用程序安全测试
 application security tools:应用安全工具
 application security:应用安全
 application security:应用程序安全
-application security:應用程式安全
+application security:应用程式安全
 application seems:应用看起来
 application seems:应用程序看起来
 application select:应用程序选择
@@ -5779,15 +5733,15 @@ application server vendor:应用服务器供应商
 application server version information:应用程序服务器版本信息
 application server:应用服务器
 application server:应用程序服务器
-application server:應用程式伺服器
+application server:应用程式伺服器
 application service definition:应用服务定义
 application service elements:应用服务元素
 application service elements:应用程序服务元素
 application service level agreements:应用服务水平协议
 application service level:应用服务水平
 application service management:应用程序服务管理
+application service provider:应用服务提供商
 application service provider:应用服务提供者
-application service provider:應用服務提供商
 application service:应用服务
 application service:应用程序服务
 application services and cloud:应用服务和云
@@ -5905,7 +5859,7 @@ application space:应用空间
 application spam:应用垃圾邮件
 application specific instruction set processor:专用指令集处理器
 application specific integrated circuit:应用特定的集成电路
-application specific integrated circuit:特殊應用積體電路
+application specific integrated circuit:特殊应用积体电路
 application specific:应用特定的
 application specific:应用程序特定的
 application specification:应用程序规范
@@ -7328,16 +7282,16 @@ applications you:应用程序你
 applications:应用
 applications:应用程序
 applicative functor:应用式函子
-applicative voice:應動語態
-applied and environmental microbiology:應用及環境微生物學
-applied anthropology:應用人類學
-applied arts:應用藝術
-applied behavior analysis:應用行為分析
+applicative voice:应动语态
+applied and environmental microbiology:应用及环境微生物学
+applied anthropology:应用人类学
+applied arts:应用艺术
+applied behavior analysis:应用行为分析
 applied discipline:应用学科
-applied economics research center:應用經濟學研究中心
-applied economics research:應用經濟學研究
-applied economics:應用經濟學
-applied ethics:應用倫理學
+applied economics research center:应用经济学研究中心
+applied economics research:应用经济学研究
+applied economics:应用经济学
+applied ethics:应用伦理学
 applied linguistics and international education:应用语言学与国际教育
 applied linguistics and literary theory:应用语言学和文学理论
 applied linguistics association:应用语言学协会
@@ -7403,12 +7357,12 @@ applied psychology graduates:应用心理学毕业生
 applied psychology or statistics:应用心理学或统计学
 applied psychology research:应用心理学研究
 applied psychology:应用心理学
-applied scholastics achievement:應用教育協會成就
-applied scholastics center:應用教育協會中心
-applied scholastics:應用教育協會
-applied science building:應用科學大樓
-applied science research:應用科學研究
-applied science:應用科學
+applied scholastics achievement:应用教育协会成就
+applied scholastics center:应用教育协会中心
+applied scholastics:应用教育协会
+applied science building:应用科学大楼
+applied science research:应用科学研究
+applied science:应用科学
 apply a display:应用一个显示
 apply a five:应用一个五
 apply a formula:应用一个公式
@@ -7958,14 +7912,13 @@ apply your:应用你的
 apply zero:应用零
 apply zinc:应用锌
 apply:应用
-appo hocton:黃鶴廷
+appo hocton:黄鹤廷
 appoigny:阿普瓦尼
 appointment with death:死亡约会
 appoldro:阿珀尔多伦
-appoldro:阿珀爾多倫
-apportionment in the european parliament:歐洲議會席次分配
+apportionment in the european parliament:欧洲议会席次分配
 apposition:同位结构
-appraiser:估價人
+appraiser:估价人
 appreciate all:感激所有
 appreciate and love their:感激和爱他们的
 appreciate and love you:感激和爱你
@@ -8037,18 +7990,17 @@ appreciate your efforts:感激你的努力
 appreciate your heart:感激你的心
 appreciate your help:感激你们的帮助
 appreciate your love:感激你的爱
-appreciate your mother:感激你的母親
+appreciate your mother:感激你的母亲
 appreciate your prayer:感激你们的祷告
 appreciate your time:感激你的时间
 appreciate your:感激你们的
 appreciate your:感激你的
 appreciate:感激
 appreciation index:欣赏指数
-apprentice jockeys' school:見習騎師學校
 apprentice jockeys' school:见习骑师学校
-apprentice method:學徒方法
-apprentice of the force:學徒的原力
-apprentice:學徒
+apprentice method:学徒方法
+apprentice of the force:学徒的原力
+apprentice:学徒
 apprenticeship advocate:学徒制倡导
 apprenticeship and professional training:学徒制和专业培训
 apprenticeship and work experience:学徒制和工作经验
@@ -8100,7 +8052,7 @@ approach and control:方法和控制
 approach and cooperation:方法和合作
 approach and curriculum:方法和课程
 approach and decision-support:方法和决策支持
-approach and departure angles:接近角與離去角
+approach and departure angles:接近角与离去角
 approach and deployment:方法和部署
 approach and different:方法和不同的
 approach and energy:方法和能量
@@ -8169,9 +8121,9 @@ approach avoid:方法避免
 approach based on:方法基于
 approach based:方法基于
 approach be:方法成为
-approach beach changing room:近水灣泳灘更衣室
-approach beach:近水灣
-approach beach:近水灣泳灘
+approach beach changing room:近水湾泳滩更衣室
+approach beach:近水湾
+approach beach:近水湾泳滩
 approach beautiful:接近美丽的
 approach became:方法成为
 approach become:方法成为
@@ -8207,7 +8159,7 @@ approach class:接近类
 approach clement:接近克莱门特
 approach client:接近客户
 approach colour:接近颜色
-approach combat:接近戰鬥
+approach combat:接近战斗
 approach comedy:接近喜剧
 approach companies:接近公司
 approach comprise:方法包括
@@ -8279,7 +8231,7 @@ approach forty:接近四十
 approach france:接近法国
 approach from direct military confrontation:方法从直接的军事对抗
 approach from:方法从
-approach fukushima:接近福島
+approach fukushima:接近福岛
 approach full employment:接近充分就业
 approach generate:方法生成
 approach girls:接近女孩们
@@ -8356,7 +8308,6 @@ approach its:接近它的
 approach jamaica:接近牙买加
 approach japan:接近日本
 approach jesus:接近耶稣
-approach jesus:接近耶穌
 approach julian:接近朱利安
 approach jupiter:接近木星
 approach just:方法只
@@ -8439,7 +8390,7 @@ approach parents:接近家长
 approach paris:接近巴黎
 approach path:接近路径
 approach pattern:方法模式
-approach pentecost:接近五旬節
+approach pentecost:接近五旬节
 approach people:接近人们
 approach perfect:接近完美的
 approach phase:接近阶段
@@ -8525,7 +8476,6 @@ approach suit:方法适合
 approach super bowl:接近超级碗
 approach support:方法支持
 approach system:接近系统
-approach system:方法系統
 approach system:方法系统
 approach target:接近目标
 approach tasks:方法任务
@@ -10155,11 +10105,11 @@ appropriately using:适当地使用
 appropriately utilize:适当地利用
 appropriately when we:适当地当我们
 appropriately:适当地
-appropriation bill:撥款法案
+appropriation bill:拨款法案
 approval ballot:赞成投票
 approval or disapproval:赞成或不赞成
 approval vote:赞成投票
-approval voting party:同意投票黨
+approval voting party:同意投票党
 approval voting:同意投票制
 approval voting:赞成投票
 approval:赞成
@@ -10332,7 +10282,7 @@ approximation ratio:近似比
 approximation technique:近似技术
 approximation techniques:近似技术
 approximation theorem:近似定理
-approximation theory:近似理論
+approximation theory:近似理论
 approximation theory:逼近理论
 approximation:近似
 apps access:应用程序访问
@@ -10660,7 +10610,7 @@ apps would:应用程序将
 apps you:应用程序你
 apps:应用程序
 appulse:最小角距
-appurtenance:從物
+appurtenance:从物
 appy awards:应用奖
 appy kitchen:快厨
 apra harbor:阿普拉港
@@ -10679,19 +10629,13 @@ apricale:阿普里卡莱
 apricaphanius baeticus:西班牙祕鱂
 apricaphanius saourensis:撒哈拉祕鱂
 apricena:阿普里切纳
-apricot country party:杏國黨
+apricot country party:杏国党
 apricot forest valley:杏林谷
-apricot garden building no. 1 of qiqihar medical university:齊齊哈爾醫學院杏林園 1 號樓
 apricot garden building no. 1 of qiqihar medical university:齐齐哈尔医学院杏林园 1 号楼
-apricot garden building no. 2 of qiqihar medical university:齊齊哈爾醫學院杏林園 2 號樓
 apricot garden building no. 2 of qiqihar medical university:齐齐哈尔医学院杏林园 2 号楼
-apricot garden building no. 3 of qiqihar medical university:齊齊哈爾醫學院杏林園 3 號樓
 apricot garden building no. 3 of qiqihar medical university:齐齐哈尔医学院杏林园 3 号楼
-apricot garden building no. 4 of qiqihar medical university:齊齊哈爾醫學院杏林園 4 號樓
 apricot garden building no. 4 of qiqihar medical university:齐齐哈尔医学院杏林园 4 号楼
-apricot garden building no. 5 of qiqihar medical university:齊齊哈爾醫學院杏林園 5 號樓
 apricot garden building no. 5 of qiqihar medical university:齐齐哈尔医学院杏林园 5 号楼
-apricot garden of qiqihar medical university:齊齊哈爾醫學院杏林園
 apricot garden of qiqihar medical university:齐齐哈尔医学院杏林园
 apricot kernel:杏仁
 apricot:杏组
@@ -10700,12 +10644,12 @@ apries:阿普里斯
 aprigliano:阿普里利亚诺
 aprika salatan:nán fēi
 aprika salatan:南非
-aprika salatan:南非共和國
+aprika salatan:南非共和国
 aprika:非洲
 april 15 children's flower garden:4.15少年百花园
 april 19th national cemetery:四一九民主墓地
 april 27th square:4月27日广场
-april 30 park:4月30日公園
+april 30 park:4月30日公园
 april afternoon:四月下午
 april and august update:四月和八月更新
 april and august:四月和八月
@@ -10722,7 +10666,7 @@ april as well:四月也
 april begin:四月开始
 april birthday:四月生日
 april bloomfield:四月布卢姆菲尔德
-april bride:生命最後一個月的花嫁
+april bride:生命最后一个月的花嫁
 april captains:四月的上尉
 april children:四月儿童
 april closed:四月闭
@@ -10731,7 +10675,6 @@ april company:四月公司
 april constitution:四月宪法
 april coup:四月政变
 april crisis:四月危机
-april crisis:四月危機
 april cyprus:四月塞浦路斯
 april data:四月数据
 april day:四月日
@@ -10739,7 +10682,7 @@ april describe:四月描述
 april dress:四月连衣裙
 april each year:四月每年
 april end:四月结束
-april fifth action:四五行動
+april fifth action:四五行动
 april film:四月电影
 april fish:四月鱼
 april flower:四月花
@@ -10781,27 +10724,27 @@ april rabbit:四月兔
 april rain:四月雨
 april resident:四月居民
 april revolution:四月革命
-april rhapsody:人間四月天
+april rhapsody:人间四月天
 april rose:四月玫瑰
 april said:四月说
 april says:四月说
 april shower:四月淋浴
-april showers bring may flowers:為丑女獻上花束
+april showers bring may flowers:为丑女献上花束
 april sixteen:四月十六
 april sixth:四月第六
 april snow:四月的雪
 april snow:四月雪
-april spring friendship art festival:四月之春親善藝術節
+april spring friendship art festival:四月之春亲善艺术节
 april story:四月物语
 april temperature:四月温度
-april theses:四月提綱
+april theses:四月提纲
 april this:四月这
 april to june:四月到六月
 april to october:四月到十月
 april to september i:四月到九月我
 april to september:四月到九月
 april tragedy:四月悲剧
-april trip breakfast:暢遊早餐店
+april trip breakfast:畅游早餐店
 april update:四月更新
 april uprising:四月起义
 april usually:四月通常
@@ -10817,53 +10760,53 @@ april would:四月将
 april youth:四月青年
 april:四月
 aprilov point:阿普里洛夫角
-apriltsi municipality:阿普里爾齊市鎮
-apriltsi:阿普里爾齊
+apriltsi municipality:阿普里尔齐市镇
+apriltsi:阿普里尔齐
 apriona:粒肩天牛属
 apriori algorithm:先验算法
-apristurus:光尾鯊屬
+apristurus:光尾鯊属
 apro castle:阿普罗城堡
 aprobarbital:阿普比妥
-aprognathodon platyventris:扁腹豬頜蛇鰻
-apron a:a停機坪
+aprognathodon platyventris:扁腹猪頜蛇鳗
+apron a:a停机坪
 apron and always:围裙和总是
 apron and glove:围裙和手套
 apron and kids:围裙和孩子们
 apron and rubber cleaning:围裙和橡胶清洁
-apron b:b停機坪
-apron c:c停機坪
+apron b:b停机坪
+apron c:c停机坪
 apron charlie:围裙查理
 apron club:围裙俱乐部
-apron d:d停機坪
+apron d:d停机坪
 apron is a shield:围裙是一个盾
 apron man:围裙男人
 apron meal:围裙餐
 apron of stomach:围裙的胃
 apron offer:围裙提供
 apron pocket:围裙口袋
-apron ray:盤臀電鰩
+apron ray:盘臀电鰩
 apron string:围裙串
 apron wine:围裙葡萄酒
 apron:围裙
-aprosmictus:紅翅鸚鵡屬
+aprosmictus:红翅鹦鹉属
 apruebo dignidad:赞成尊严
-après l'effondrement de la falaise (année 2003):懸崖倒塌後（2003年）
-après l'effondrement de la falaise:懸崖倒塌後
-après l’effondrement de la falaise (9 janvier 2022):懸崖坍塌后（2022年1月9日）
-après l’effondrement de la falaise (année 1986):懸崖倒塌後（1986年)
-apsara angkor:仙女吳哥大海店
-apsara:飛天女神
-apsaravis:神翼鳥屬
+après l'effondrement de la falaise (année 2003):悬崖倒塌后（2003年）
+après l'effondrement de la falaise:悬崖倒塌后
+après l’effondrement de la falaise (9 janvier 2022):悬崖坍塌后（2022年1月9日）
+après l’effondrement de la falaise (année 1986):悬崖倒塌后（1986年)
+apsara angkor:仙女吴哥大海店
+apsara:飞天女神
+apsaravis:神翼鸟属
 apscaviroid:苹果北美疤类病毒属
-apscheronsk:阿普歇倫斯克
-apse:半圓形後殿
-apsheronsk:阿普歇倫斯克
-apsheronsky district:阿普歇倫斯克區
+apscheronsk:阿普歇伦斯克
+apse:半圆形后殿
+apsheronsk:阿普歇伦斯克
+apsheronsky district:阿普歇伦斯克区
 apsheronsky district:阿普舍龙斯基区
-apsidal precession:拱線進動
-apsilus dentatus:黑絲鰭笛鯛
-apsis:拱點
-apsjeronsk:阿普歇倫斯克
+apsidal precession:拱线进动
+apsilus dentatus:黑丝鳍笛鲷
+apsis:拱点
+apsjeronsk:阿普歇伦斯克
 apskritis d'alytus:阿利图斯县
 apskritis d'utena:乌泰纳县
 apskritis de kaunas:考纳斯县
@@ -10877,40 +10820,39 @@ apsley house.:阿普斯利大屋（惠灵顿公爵）
 apsley house:阿普斯利大屋（惠灵顿公爵）
 apsley house:阿普斯利邸宅
 apsorrus:洛希尼岛
-apsorrus:洛希尼島
 apsus vallis:阿普苏斯谷
-apszerońsk:阿普歇倫斯克
-apt pupil:納粹追兇
-apt satellite company limited:亞太通信衛星有限公司
-apt satellite holdings:亞太衛星
+apszerońsk:阿普歇伦斯克
+apt pupil:纳粹追兇
+apt satellite company limited:亚太通信卫星有限公司
+apt satellite holdings:亚太卫星
 apta julia:阿普特
-aptamer:適體
+aptamer:适体
 aptazapine:阿普氮平
-aptenodytes:王企鵝屬
-apterichtus anguiformis:鰻形無鰭蛇鰻
-apterichtus ansp:小無鰭蛇鰻
-apterichtus australis:澳洲無鰭蛇鰻
-apterichtus caecus:歐洲無鰭蛇鰻
-apterichtus equatorialis:赤道無鰭蛇鰻
-apterichtus flavicaudus:黃尾無鰭蛇鰻
-apterichtus gracilis:細無鰭蛇鰻
-apterichtus kendalli:肯氏無鰭蛇鰻
-apterichtus klazingai:克氏無鰭蛇鰻
-apterichtus monodi:莫氏無鰭蛇鰻
-apterichtus moseri:駿河灣無鰭蛇鰻
-apterichtus orientalis:東方無鰭蛇鰻
+aptenodytes:王企鹅属
+apterichtus anguiformis:鳗形无鳍蛇鳗
+apterichtus ansp:小无鳍蛇鳗
+apterichtus australis:澳洲无鳍蛇鳗
+apterichtus caecus:欧洲无鳍蛇鳗
+apterichtus equatorialis:赤道无鳍蛇鳗
+apterichtus flavicaudus:黄尾无鳍蛇鳗
+apterichtus gracilis:细无鳍蛇鳗
+apterichtus kendalli:肯氏无鳍蛇鳗
+apterichtus klazingai:克氏无鳍蛇鳗
+apterichtus monodi:莫氏无鳍蛇鳗
+apterichtus moseri:駿河湾无鳍蛇鳗
+apterichtus orientalis:东方无鳍蛇鳗
 apteromantis:无翅螳属
-apteronotus galvisi:加氏翎電鰻
-apteronotus rostratus:大吻翎電鰻
+apteronotus galvisi:加氏翎电鳗
+apteronotus rostratus:大吻翎电鳗
 apteronotus:翎电鳗属
 apterosperma oblata:圆籽荷
 apterosperma:圆籽荷属
 apterygiformes:无翼鸟目
-apterygocampus epinnulatus:少鰭海龍
-apterygocampus:少鰭海龍屬
+apterygocampus epinnulatus:少鳍海龙
+apterygocampus:少鳍海龙属
 apterygota:无翅亚纲
 apterygothrips:缺翅管蓟马属
-aptian extinction:阿普第階滅絕事件
+aptian extinction:阿普第阶灭绝事件
 aptian:阿普第期
 aptinothrips:缺翅蓟马属
 aptiv:德尔福汽车
@@ -10919,9 +10861,9 @@ aptychodon:无脊齿龙属
 apuarema:阿普阿雷马
 apucarana:阿普卡拉纳
 apudi:阿普底
-apuei mantam:東部大區
+apuei mantam:东部大区
 apugezi:阿朴格子
-apujirca punta:阿普希爾卡蓬塔山
+apujirca punta:阿普希尔卡蓬塔山
 apuka:阿仆咯
 apuka:阿普卡
 apuleius:阿普列尤斯
@@ -10932,53 +10874,51 @@ apure river:阿普雷河
 apure:阿普雷州
 apus from:天燕座从
 apus:天燕座
-apuseni mountains:阿普塞尼山脈
+apuseni mountains:阿普塞尼山脉
 apustuliskā nunciatūra:宗座大使馆
 apv metro financial city:apv 地铁金融城
 apvienotie arābu emirāti:Ālābó liánhé qiúchángguó
+apvienotie arābu emirāti:阿拉伯联合大公国
 apvienotie arābu emirāti:阿拉伯联合酋长国
-apvienotie arābu emirāti:阿拉伯联合酋长国 / 阿拉伯聯合大公國
-apvienotie arābu emirāti:阿拉伯聯合大公國
-apvienotie arābu emirāti:阿拉伯聯合酋長國
+apvienotie arābu emirāti:阿拉伯联合酋长国 / 阿拉伯联合大公国
 apvienoto arābu emirātu vēstniecība:阿联酋大使馆
 apvienoto arābu emirātu ģenerālkonsulāts:阿拉伯联合酋长国总领事馆
 apvienotā karaliste:英国
-apvienotā karaliste:英国 / 英國
-apvienotā karaliste:英國
+apvienotā karaliste:英国 / 英国
 apvienotās karalistes goda konsulāts:英国名誉领事馆
 apvienotās karalistes konsulāts:英国领事馆
 apvienotās karalistes vicekonsulāts:英国副领事馆
 apvienotās karalistes vēstniecība:英国大使馆
 apvienotās karalistes ģenerālkonsulāts:英国总领事馆
-apxeronsk:阿普歇倫斯克
+apxeronsk:阿普歇伦斯克
 apya yala:měizhōu
 apya yala:美洲
 apygophora:无肛目
+apyńiński půłwysep:义大利半岛
 apyńiński půłwysep:意大利半岛
-apyńiński půłwysep:義大利半島
 apá alibori:阿黎博里省
 apá atakora:阿塔科拉省
 apá atlantique:大西洋省
-apá borgou:博爾古省
+apá borgou:博尔古省
 apá collines:丘陵省
-apá donga:峽谷省
+apá donga:峡谷省
 apá kouffo:库福省
-apá littoral:濱海省
-apá mono:莫諾省
-apá ouémé:韋梅省
+apá littoral:滨海省
+apá mono:莫诺省
+apá ouémé:韦梅省
 apá plateau:高原省
 apá zou:祖省
-apágúúsù cone:南錐體
+apágúúsù cone:南錐体
 apáàríwá kíprù:北塞浦路斯
-apáàríwá kíprù:北塞浦路斯/北賽普勒斯
-apáàríwá kíprù:北賽普勒斯
+apáàríwá kíprù:北塞浦路斯/北赛普勒斯
+apáàríwá kíprù:北赛普勒斯
 apáìwọ̀orùn sàhárà:西撒哈拉
-apía:阿皮亞
-após o colapso da falésia (9 de janeiro de 2022):懸崖坍塌后（2022年1月9日）
-após o colapso da falésia (ano de 1986):懸崖倒塌後（1986年)
-apŝeronsk:阿普歇倫斯克
-apşeronsk:阿普歇倫斯克
-apšeronosk:阿普歇倫斯克
-apšeronsk:阿普歇倫斯克
-apšeronska:阿普歇倫斯克
-apšeronskas:阿普歇倫斯克
+apía:阿皮亚
+após o colapso da falésia (9 de janeiro de 2022):悬崖坍塌后（2022年1月9日）
+após o colapso da falésia (ano de 1986):悬崖倒塌后（1986年)
+apŝeronsk:阿普歇伦斯克
+apşeronsk:阿普歇伦斯克
+apšeronosk:阿普歇伦斯克
+apšeronsk:阿普歇伦斯克
+apšeronska:阿普歇伦斯克
+apšeronskas:阿普歇伦斯克

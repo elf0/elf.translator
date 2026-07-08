@@ -1,38 +1,33 @@
 u-bahn-linie 2:北京地铁2号线
 u-bahn-linie 4/dx:北京地铁4号线/大兴线
-u-bahnhof ba son:巴遜站
-u-bahnhof ben thanh:濱城站
-u-bahnhof opernhaus:市劇院站
-u-bus:統聯客運
+u-bahnhof ba son:巴逊站
+u-bahnhof ben thanh:滨城站
+u-bahnhof opernhaus:市剧院站
+u-bus:统联客运
 u-do:牛岛
-u-do:牛島
 u-dong:佑洞
-u-freight logistics (hk) limited:聯邦物流（香港）有限公司
+u-freight logistics (hk) limited:联邦物流（香港）有限公司
 u-ido-ri:牛耳岛里
-u-ido-ri:牛耳島里
 u-lai-khu:wūlái qū
-u-lai-khu:烏來區
-u-lai-kiô:烏來橋
+u-lai-khu:乌来区
+u-lai-kiô:乌来桥
 u-lai:乌来
-u-lai:烏來
-u-mkt:新富町文化市場u-mkt
+u-mkt:新富町文化市场u-mkt
 u-tapao - pattaya international airport:乌塔保国际机场
-u-tapao - pattaya international airport:烏打拋國際機場
-u-tapao - pattaya international airport:烏達堡國際機場
-u-town tower a:u-town a棟
-u-town tower b:u-town b棟
-u-town tower c:u-town c棟
-u-town tower d:u-town d棟
+u-tapao - pattaya international airport:乌打拋国际机场
+u-tapao - pattaya international airport:乌达堡国际机场
+u-town tower a:u-town a栋
+u-town tower b:u-town b栋
+u-town tower c:u-town c栋
+u-town tower d:u-town d栋
 u-trust:有巢氏房屋
-u-turn (shixian road section 3):世賢路三段迴轉道
-u-turn lane for light vehicles:小型車迴轉道
-u-turn lane:迴轉道
+u-turn (shixian road section 3):世贤路三段回转道
+u-turn lane for light vehicles:小型车回转道
+u-turn lane:回转道
 u-turn ramp:掉头匝道
-u-turn ramp:掉頭匝道
-u-turn, huanzhong road section 6:環中路六段迴轉道
-u-turn, huanzhong road section 7:環中路七段迴轉道
-u-turn:迴轉道
+u-turn, huanzhong road section 6:环中路六段回转道
+u-turn, huanzhong road section 7:环中路七段回转道
+u-turn:回转道
 u-í-koān:xūyí xiàn
 u-í-koān:盱眙
 u-í-koān:盱眙县
-u-í-koān:盱眙縣

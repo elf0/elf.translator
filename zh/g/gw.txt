@@ -1,11 +1,9 @@
-gw plaza:金輪新天地
+gw plaza:金轮新天地
 gwa airport:古亚机场
 gwa township:古亚镇区
-gwa township:古亞鎮區
 gwa:古亚
 gwaadalup:瓜德罗普
 gwacheon city hall:果川市政局
-gwacheon line:果川線
 gwacheon line:果川线
 gwacheon station:果川站
 gwacheon-daero:果川大路
@@ -40,7 +38,7 @@ gwadeloup:瓜德罗普
 gwadelup:瓜德罗普
 gwadelupa:瓜德罗普
 gwadelupe:瓜德罗普
-gwadiana:瓜地亞納河
+gwadiana:瓜地亚纳河
 gwadloup:瓜德罗普
 gwadɛlupɛ:瓜德罗普
 gwaeam-dong:挂岩里
@@ -49,33 +47,31 @@ gwaebeop renecite:掛法renecite
 gwaebeop-dong:挂法洞
 gwaebeop-dong:掛法洞
 gwaereung-ri:桂陵里
-gwageo:朝鮮科舉制度
+gwageo:朝鲜科举制度
 gwahae-dong:果海洞
 gwahak 1-dong:科学1洞
-gwahak 1-dong:科學1洞
 gwahak 2-dong:科学2洞
-gwahak 2-dong:科學2洞
 gwaii haanas national marine conservation area reserve and haida heritage site:格瓦伊汉纳斯国家海洋保护区域保留地和海达文物古迹
 gwaii haanas national park reserve and haida heritage site:瓜伊哈纳斯国家公园保留地和海达文物古迹
 gwail-eup:瓜飴邑
 gwajeon-dong:果田洞
 gwak been:郭彬
-gwak dong han:郭同韓
-gwak jae u:郭再祐
+gwak dong han:郭同韩
+gwak jae u:郭再佑
 gwakji-ri:郭支里
 gwalarn:西北省
-gwalior district:瓜廖爾縣
+gwalior district:瓜廖尔县
 gwalior division:瓜廖尔专区
-gwalior fort:瓜廖爾堡
+gwalior fort:瓜廖尔堡
 gwalior railway station:瓜廖尔火车站
 gwalior state:瓜廖尔土邦
 gwalior:瓜廖尔
 gwalior:瓜廖尔县
-gwalleuk:觀勒
+gwalleuk:观勒
 gwan-dong 1(il)-ga:官洞1街
 gwan-dong 2(i)-ga:官洞2街
 gwan-dong 3(sam)-ga:官洞3街
-gwanak district:冠岳區
+gwanak district:冠岳区
 gwanak jungang community credit cooperative:冠岳中央新村金库
 gwanak station:冠岳站
 gwanak urban agriculture park:冠岳区城市农业公园
@@ -85,81 +81,55 @@ gwanak-gu health center:冠岳区保健所
 gwanak-gu office:冠岳区厅
 gwanak-gu playground:冠岳区民运动场
 gwanak-gu:冠岳区
-gwanak-gu:冠岳區
 gwanak-ro 14-gil:冠岳路14街
 gwanak:冠岳区
-gwanak:冠岳區
 gwanaksan station:冠岳山站
 gwanaksan:冠岳山
 gwanbok:朝鲜官服
-gwanbong-ri:館峯里
+gwanbong-ri:馆峯里
 gwanbong-ri:馆峰里
-gwancheol-dong:貫鐵洞
 gwancheol-dong:贯铁洞
-gwanchon-myeon:館村面
 gwanchon-myeon:馆村面
-gwanda:關達
+gwanda:关达
 gwandaedumu-ro:关大学校路
-gwandeu-ri:館垈里
 gwandeu-ri:馆垈里
-gwandong-ri:館洞里
 gwandong-ri:馆洞里
-gwaneum-dong:觀音洞
 gwaneum-dong:观音洞
-gwaneum-ri:觀音里
 gwaneum-ri:观音里
-gwaneumsa:觀音寺
+gwaneumsa:观音寺
 gwang-am-ri:光岩里
-gwang-am-ri:光巖里
-gwangajeong:觀稼亭
+gwangajeong:观稼亭
 gwangalli beach:广安里海滩
 gwangam-dong:广岩洞
-gwangam-dong:廣巖洞
 gwangam-ri:广岩里
-gwangam-ri:廣巖里
 gwangam:广岩里
-gwangam:廣巖里
 gwangamcheon:广岩川
-gwangamcheon:廣岩川
 gwangan 1(il)-dong:广安1洞
-gwangan 1(il)-dong:廣安1洞
 gwangan 1-dong:广安1洞
-gwangan 1-dong:廣安1洞
 gwangan 2(i)-dong:广安2洞
-gwangan 2(i)-dong:廣安2洞
 gwangan 2-dong:广安2洞
-gwangan 2-dong:廣安2洞
 gwangan 3(sam)-dong:广安3洞
-gwangan 3(sam)-dong:廣安3洞
 gwangan 3-dong:广安3洞
-gwangan 3-dong:廣安3洞
 gwangan 4(sa)-dong:广安4洞
-gwangan 4(sa)-dong:廣安4洞
 gwangan 4-dong:广安4洞
-gwangan 4-dong:廣安4洞
 gwangan bridge:广安大桥
 gwangan bridge:广安桥
 gwangan station:广安站
 gwangan-dong:广安洞
-gwangan-dong:廣安洞
 gwangan:广安
 gwanganyeok:广安
 gwangbok 1-dong:光福一洞
 gwangbok 2-dong:光福二洞
 gwangbok-dong:光复洞
-gwangbok-dong:光復洞
-gwangbok-ro:光復路
-gwangbokjungang-ro:光復中央路
-gwangcheon dong clan:廣川董氏
-gwangcheon river:廣川川
+gwangbok-ro:光复路
+gwangbokjungang-ro:光复中央路
+gwangcheon dong clan:广川董氏
+gwangcheon river:广川川
 gwangcheon station:广川站
 gwangcheon-dong:光川洞
 gwangcheon-eup:广川邑
-gwangcheon-eup:廣川邑
 gwangcheon-ri:广川里
 gwangcheon-ri:广泉里
-gwangcheon-ri:廣川里
-gwangcheon-ri:廣泉里
 gwangcheon-ri:鑛泉里
 gwangchi homestay:广池民宿
 gwangchiminbak:广池民宿
@@ -168,38 +138,31 @@ gwangchiryeong-ro:光致令路
 gwangchiryeongjuyuso:光智岭加油站
 gwangdae-ri:光大里
 gwangdae-ri:广大里
-gwangdae-ri:廣大里
 gwangdeok-myeon:广德面
-gwangdeok-myeon:廣德面
 gwangdeok-ri:广德里
-gwangdeok-ri:廣德里
 gwangdo-myeon:光道面
-gwangdong jin clan:廣東陳氏
+gwangdong jin clan:广东陈氏
 gwangdong-ri:光东里
-gwangdong-ri:光東里
 gwanggaeto stele:好太王碑
-gwanggaeto stele:廣開土太王碑
+gwanggaeto stele:广开土太王碑
 gwanggaeto the great class destroyer:广开土大王级驱逐舰
 gwanggaeto the great of goguryeo:高句丽好太王
 gwanggaeto the great:好太王
-gwanggaeto-stele:廣開土太王碑
+gwanggaeto-stele:广开土太王碑
 gwanggok station:广谷站
 gwanggyeok-ri:广域里
 gwanggyo jungang:光敎中央
-gwanggyo jungang:光敎中央(亞洲大)
+gwanggyo jungang:光敎中央(亚洲大)
 gwanggyo station:光教站
 gwanggyo:光敎
 gwanggyo:光敎(京畿大)
 gwanggyojungang station:光教中央站
 gwangha-dong:广河洞
-gwangha-dong:廣河洞
 gwanghaegun of joseon:光海君
-gwanghan pavilion:廣寒樓 (广寒楼)
+gwanghan pavilion:广寒楼 (广寒楼)
 gwangheung-ri:光兴里
-gwangheung-ri:光興里
 gwangheungchang station:广兴仓站
-gwangheungchang station:廣興倉站
-gwangheungchang:廣興倉
+gwangheungchang:广兴仓
 gwanghui dong:光熙洞
 gwanghui police precinct:光熙派出所
 gwanghui-dong 1(il)-ga:光熙洞1街
@@ -207,48 +170,35 @@ gwanghui-dong 1-ga:光熙洞1街
 gwanghui-dong 2(i)-ga:光熙洞2街
 gwanghui-dong 2-ga:光熙洞2街
 gwanghui-dong:光熙洞
-gwanghuimun:光熙門
+gwanghuimun:光熙门
 gwanghwa-ri:广和里
-gwanghwa-ri:廣和里
 gwanghwal-myeon:广活面
-gwanghwal-myeon:廣活面
 gwanghwamun gate:光化门
-gwanghwamun plaza:光化門廣場
+gwanghwamun plaza:光化门广场
 gwanghwamun post office:光化门邮局
 gwanghwamun square statue of admniral yi sun shin:李舜臣将军铜像
 gwanghwamun square:光化门广场
-gwanghwamun station:光化門站
 gwanghwamun station:光化门站
-gwanghwamun:光化門
 gwanghwamun:光化门
 gwanghyewon-myeon:广惠院面
-gwanghyewon-myeon:廣惠院面
 gwangjang market:广藏市场
-gwangjang market:廣藏市場
-gwangjang-dong community service center:廣壯洞行政福祉中心
+gwangjang-dong community service center:广壮洞行政福祉中心
 gwangjang-dong:广壮洞
-gwangjang-dong:廣壯洞
 gwangjang-ro:广藏路
-gwangjangdong juminsenteo:廣壯洞行政福祉中心
-gwangjangsijang:廣藏市場
+gwangjangdong juminsenteo:广壮洞行政福祉中心
+gwangjangsijang:广藏市场
 gwangjeok-myeon:广积面
-gwangjeok-myeon:廣積面
 gwangjeok:广积面
-gwangjeok:廣積面
 gwangjeon-ri:光田里
 gwangjeon-ri:广田里
-gwangjeon-ri:廣田里
 gwangjeong-dong:光亭洞
 gwangjeong-ri:广井里
-gwangjeong-ri:廣井里
 gwangjin bridge:广津桥
-gwangjin district:廣津區
+gwangjin district:广津区
 gwangjin-gu:广津区
-gwangjin-gu:廣津區
 gwangjin:广津区
-gwangjin:廣津區
 gwangjiwon-ri:光池院里
-gwangjong of goryeo:高麗光宗
+gwangjong of goryeo:高丽光宗
 gwangju 1st street:光州一街
 gwangju 2nd street:光州二街
 gwangju 3rd street:光州三街
@@ -258,66 +208,53 @@ gwangju 6th street:光州六街
 gwangju 7th street:光州七街
 gwangju 8th street:光州八街
 gwangju airport:光州机场
-gwangju airport:光州機場
 gwangju bank:光州银行
-gwangju biennale:光州雙年展
-gwangju fc:光州足球俱樂部
+gwangju biennale:光州双年展
+gwangju fc:光州足球俱乐部
 gwangju football stadium:光州足球体育场
-gwangju football stadium:光州足球體育場
 gwangju government:光州广域市政府
-gwangju government:光州廣域市政府
 gwangju government:广州市政府
-gwangju government:廣州市政府
 gwangju institute of science and technology:光州科学技术院
 gwangju international airport:光州国际机场
 gwangju jungang elementary school:光州中央初等学校
-gwangju kia champions field:光州起亞冠軍球場
-gwangju line:光州線
+gwangju kia champions field:光州起亚冠军球场
 gwangju line:光州线
 gwangju metro line 1 pyeongdong → nokdong:光州都市铁道1号线:平洞->鹿洞
-gwangju metro line 1:光州都市鐵道1號線
 gwangju metro line 1:光州都市铁道1号线
-gwangju metro line 2:光州都市鐵道2號線
 gwangju metro line 2:光州都市铁道2号线
 gwangju metro:光州地铁
 gwangju metro:光州广域市地铁
-gwangju metro:光州都市鐵道
+gwangju metro:光州都市铁道
 gwangju metro:广州市地铁
-gwangju mudeung baseball stadium:光州無等綜合競技場棒球場
+gwangju mudeung baseball stadium:光州无等综合竞技场棒球场
 gwangju munhwa broadcasting corporation:光州文化广播
 gwangju road:光州路
 gwangju sangmu:光州尚武
 gwangju songjeong:光州松汀
 gwangju songjeong:光州松汀站
-gwangju stadium:光州體育場
+gwangju stadium:光州体育场
 gwangju station:光州站
-gwangju stream bicycle route:光州川自行車道
+gwangju stream bicycle route:光州川自行车道
 gwangju subway:光州地铁
 gwangju subway:光州广域市地铁
 gwangju subway:广州市地铁
 gwangju tg:光州tg
 gwangju university:光州大学
-gwangju university:光州大學
-gwangju uprising:光州民主化運動
+gwangju uprising:光州民主化运动
 gwangju uprising:光州起义
-gwangju world cup stadion:光州世界盃競技場
-gwangju world cup stadium:光州世界盃競技場
+gwangju world cup stadion:光州世界杯竞技场
+gwangju world cup stadium:光州世界杯竞技场
 gwangju-jeonnam:光州全南
 gwangju-si:广州市
-gwangju-si:廣州市
 gwangju-wonju expressway:广州原州高速公路
-gwangju-wonju expressway:廣州原州高速公路
 gwangju:光州
 gwangju:光州广域市
-gwangju:光州廣域市
 gwangju:广州市
-gwangju:廣州市
 gwangjucheon river:光州川
 gwangjudaegu expressway:光州大邱高速公路
 gwangjudaegugosokdoro:光州大邱高速公路
 gwangjueunhaeng:光州银行
 gwangjuoegwaksunhwan expressway:光州外环高速公路
-gwangjuoegwaksunhwan expressway:光州外環高速公路
 gwangjusongjeong station:光州松汀站
 gwangmu reform:光武改革
 gwangmyeong 1(il)-dong:光明1洞
@@ -329,14 +266,13 @@ gwangmyeong 6(yuk)-dong:光明6洞
 gwangmyeong 7(chil)-dong:光明7洞
 gwangmyeong cave:光明洞窟
 gwangmyeong labor district:光明劳动者区
-gwangmyeong labor district:光明勞動者區
-gwangmyeong market:光明市場巴士站
+gwangmyeong market:光明市场巴士站
 gwangmyeong middle school:光明中学
 gwangmyeong reservoir:光明貯水池
 gwangmyeong reservoir:光明贮水池
 gwangmyeong siding:光明驻泊基地线
 gwangmyeong speedom:光明速卖通
-gwangmyeong traditional pride market:光明傳統市場
+gwangmyeong traditional pride market:光明传统市场
 gwangmyeong-dong:光明洞
 gwangmyeong-nam elementary school:光明南小学校
 gwangmyeong-ri:光明里
@@ -344,273 +280,205 @@ gwangmyeong-si:光明市
 gwangmyeong:光明市
 gwangmyeongsageori station:光明十字路口站
 gwangmyeongseong labor district:光明星劳动者区
-gwangmyeongseong labor district:光明星勞動者區
-gwangmyeongsijang:光明市場巴士站
+gwangmyeongsijang:光明市场巴士站
 gwangnam middle school:光南中学
-gwangnaru station:廣渡口站
+gwangnaru station:广渡口站
 gwangnyeong-ri:光令里
 gwangok-dong:kuāngǔ dòng
 gwangok-dong:宽谷洞
-gwangok-dong:寬谷洞
 gwangokji-ro:广谷地路
 gwangpo reservoir:光浦水库
-gwangpo reservoir:光浦水庫
 gwangpo river:广浦江
-gwangpo river:廣浦江
 gwangpyeong-ri:广坪里
-gwangpyeong-ri:廣坪里
 gwangsam-ri:光三里
 gwangsan district:光山区
 gwangsan-dong:光山洞
 gwangsan-gu:光山区
-gwangsan-gu:光山區
 gwangsan-ri:光山里
 gwangsan-ri:广山里
-gwangsan-ri:廣山里
 gwangseok-dong:广石洞
-gwangseok-dong:廣石洞
 gwangseok-myeon:光石面
 gwangseong-dong:广成洞
-gwangseong-dong:廣成洞
 gwangseong-ri:广城里
-gwangseong-ri:廣城里
 gwangsi-myeon:光时面
-gwangsi-myeon:光時面
 gwangsin-gil:光新街
 gwangsu-ri:光水里
 gwangtan-myeon:广滩面
-gwangtan-myeon:廣灘面
 gwangtan:广滩面
-gwangtan:廣灘面
 gwangtancheon:广滩川
-gwangtancheon:廣灘川
 gwangui-myeon:光义面
-gwangui-myeon:光義面
 gwangyang jecheol line:光阳制铁线
-gwangyang jecheol line:光陽製鐵線
 gwangyang station:光阳站
 gwangyang-eup:光阳邑
-gwangyang-eup:光陽邑
 gwangyang-si:光阳市
-gwangyang-si:光陽市
 gwangyang:光阳市
-gwangyang:光陽市
 gwangyanghang:光阳港
 gwangyo-dong:官校洞
 gwanha-ri:舘下里
 gwanha-ri:馆下里
 gwanhae-dong:guānhǎi dòng
-gwanhae-dong:觀海洞
 gwanhae-dong:观海洞
-gwanhae-ri:觀海里
 gwanhae-ri:观海里
 gwanheung-ri:关兴里
-gwanheung-ri:關興里
-gwanheung-ri:館興里
 gwanheung-ri:馆兴里
-gwanhun-dong:冠訓洞
 gwanhun-dong:冠训洞
-gwanhun-dong:貫勳洞
 gwanhun-dong:贯勋洞
 gwanin-ro:观音路
 gwanin:官仁面
 gwanindoseogwan library:关宁图书馆
 gwanindoseogwan:关宁图书馆
 gwaningodeunghakgyo:关宁高中
-gwanjang market (street food):廣藏市場
+gwanjang market (street food):广藏市场
 gwanjeo 1(il)-dong:关雎1洞
-gwanjeo 1(il)-dong:關雎1洞
 gwanjeo 2(i)-dong:关雎2洞
-gwanjeo 2(i)-dong:關雎2洞
 gwanjeo-dong:关雎洞
-gwanjeo-dong:關雎洞
-gwanjeong-ri:觀亭里
 gwanjeong-ri:观亭里
-gwanjeong-ri:館亭里
 gwanjeong-ri:馆亭里
-gwanma-ri:觀馬里
 gwanma-ri:观马里
-gwanmaedo island:觀梅島
 gwanmaedo island:观梅岛
-gwanmaedo-ri:觀梅島里
 gwanmaedo-ri:观梅岛里
 gwanmun-dong:guānmén dòng
 gwanmun-dong:关门洞
-gwanmun-dong:關門洞
-gwanmuncheon:冠門川
 gwanmuncheon:冠门川
 gwanmundong:关门洞
-gwanmundong:關門洞
 gwanpo-dong:guānpǔ dòng
-gwanpo-dong:觀浦洞
 gwanpo-dong:观浦洞
 gwanpung-dong:guānfēng dòng
 gwanpung-dong:guǎnfēng dòng
 gwanpung-dong:关丰洞
-gwanpung-dong:關豐洞
-gwanpung-dong:館豐洞
 gwanpung-dong:馆丰洞
 gwanpyeong-dong:官坪洞
-gwanpyeong-ri:館坪里
 gwanpyeong-ri:馆坪里
-gwansado island:觀沙島
 gwansado island:观沙岛
-gwansado-ri:觀沙島里
 gwansado-ri:观沙岛里
 gwansan-dong:官山洞
 gwansan-eup:冠山邑
 gwansang-ri:关上里
-gwanseol-dong:觀雪洞
 gwanseol-dong:观雪洞
 gwansu-dong:観水洞
-gwansu-dong:觀水洞
 gwansu-dong:观水洞
 gwanyang 1-dong:冠阳1洞
-gwanyang 1-dong:冠陽1洞
 gwanyang 2-dong:冠阳2洞
-gwanyang 2-dong:冠陽2洞
 gwanyang-dong:冠阳洞
-gwanyang-dong:冠陽洞
-gwardeisk:近衛軍城
+gwardeisk:近卫军城
 gwardeiskoje:近卫军村
-gwardia warsaw:華沙基華迪亞體育會
-gwardiejsk:近衛軍城
+gwardia warsaw:华沙基华迪亚体育会
+gwardiejsk:近卫军城
 gwarim-dong:果林洞
-gwasi:根息島
+gwasi:根息岛
 gwasi:根西
-gwasi:根西岛 / 根西島
+gwasi:根西岛 / 根西岛
 gwastadedd gorllewin siberia:西西伯利亚平原
 gwastadeddau mawr:北美大平原
-gwatemala:危地馬拉
-gwatemala:危地馬拉 / 瓜地馬拉
-gwatemala:危地馬拉城
 gwatemala:危地马拉
-gwatemala:危地马拉 / 危地馬拉 / 瓜地馬拉
+gwatemala:危地马拉 / 危地马拉 / 瓜地马拉
+gwatemala:危地马拉 / 瓜地马拉
 gwatemala:危地马拉城
-gwatemala:瓜地馬拉
-gwatemala:瓜地馬拉城
-gwatemala:瓜地馬拉城/危地馬拉城
-gwatymala:危地馬拉
-gwatymala:危地馬拉 / 瓜地馬拉
+gwatemala:瓜地马拉
+gwatemala:瓜地马拉城
+gwatemala:瓜地马拉城/危地马拉城
 gwatymala:危地马拉
-gwatymala:危地马拉 / 危地馬拉 / 瓜地馬拉
-gwatymala:瓜地馬拉
-gwawinapterus:烏鴉翼龍屬
+gwatymala:危地马拉 / 危地马拉 / 瓜地马拉
+gwatymala:危地马拉 / 瓜地马拉
+gwatymala:瓜地马拉
+gwawinapterus:乌鸦翼龙属
 gwayana y'abafaransa:法属圭亚那
-gwayana y'abafaransa:法属圭亚那 / 法屬圭亞那
-gwayana y'abafaransa:法屬圭亞那
+gwayana y'abafaransa:法属圭亚那 / 法属圭亚那
 gwayana:圭亚那
-gwayana:圭亞那
-gwayana:蓋亞那
-gwayana:蓋亞那 / 圭亞那
+gwayana:盖亚那
+gwayana:盖亚那 / 圭亚那
 gwayeok-myeon:过驿面
-gwayeok-myeon:過驛面
-gwda:格夫達河
+gwda:格夫达河
 gweedore:格威多
-gwei lun mei:桂綸鎂
+gwei lun mei:桂纶鎂
 gweilo:鬼佬
 gweinyddiaeth amddiffyn genedlaethol:国防部
-gweinyddiaeth amddiffyn genedlaethol:國防部
 gweinyddiaeth faterion tramor:外交部
-gwembe district:格溫貝縣
-gwembe:格溫貝
-gwenad:格林納達
+gwembe district:格温贝县
+gwembe:格温贝
 gwenad:格林纳达
-gwenad:格林纳达 / 格瑞那達
-gwenad:格瑞那達
+gwenad:格林纳达 / 格瑞那达
+gwenad:格瑞那达
 gwendoline yeo:杨时贤
 gwened:瓦讷
 gwenpool:格温侍
 gwenrann:盖朗德
 gweriniaeth canolbarth affrica:zhōng fēi
 gweriniaeth canolbarth affrica:中非
-gweriniaeth canolbarth affrica:中非共和國
+gweriniaeth canolbarth affrica:中非共和国
 gweriniaeth ddemocrataidd congo:刚果民主共和国
-gweriniaeth ddemocrataidd congo:剛果民主共和國
 gweriniaeth dominica:多明尼加
 gweriniaeth dominica:多米尼加
 gweriniaeth srpska:塞族共和国
-gweriniaeth srpska:塞族共和國
 gweriniaeth tsiec:jiékè
 gweriniaeth tsiec:捷克
 gweriniaeth y congo:刚果共和国
-gweriniaeth y congo:刚果共和国 / 剛果共和國
-gweriniaeth y congo:剛果共和國
-gweriniaeth y congo:剛果（布）
-gwernenez:根息島
+gweriniaeth y congo:刚果共和国 / 刚果共和国
+gweriniaeth y congo:刚果（布）
+gwernenez:根息岛
 gwernenez:根西
-gwernenez:根西岛 / 根西島
-gwernenez:根西島
-gwernenys:根息島
+gwernenez:根西岛
+gwernenez:根西岛 / 根西岛
+gwernenys:根息岛
 gwernenys:根西
-gwernenys:根西岛 / 根西島
-gwernenys:根西島
+gwernenys:根西岛
+gwernenys:根西岛 / 根西岛
 gweru:圭洛
 gwerzhav:韦尔图
 gwiana c’hall:法属圭亚那
-gwiana c’hall:法属圭亚那 / 法屬圭亞那
-gwiana c’hall:法屬圭亞那
+gwiana c’hall:法属圭亚那 / 法属圭亚那
 gwiana:圭亚那
-gwiana:圭亞那
-gwiana:蓋亞那
-gwiana:蓋亞那 / 圭亞那
+gwiana:盖亚那
+gwiana:盖亚那 / 圭亚那
 gwidel:吉代勒
 gwideok-ri:归德里
-gwideok-ri:歸德里
-gwigok-dong:貴谷洞
 gwigok-dong:贵谷洞
 gwihak-ri:归鹤里
-gwihak-ri:歸鶴里
 gwiiana:圭亚那
-gwiiana:圭亚那 / 蓋亞那 / 圭亞那
-gwiiana:圭亞那
-gwiiana:蓋亞那
-gwiiana:蓋亞那 / 圭亞那
-gwiin-dong:貴仁洞
+gwiiana:圭亚那 / 盖亚那 / 圭亚那
+gwiiana:盖亚那
+gwiiana:盖亚那 / 圭亚那
 gwiin-dong:贵仁洞
-gwijon-ri:貴存里
 gwijon-ri:贵存里
 gwimokbong:鬼木峰
 gwinea bissau:jīnèiyà bǐshào
+gwinea bissau:几內亚比索
+gwinea bissau:几內亚比绍
 gwinea bissau:几内亚比绍
-gwinea bissau:几内亚比绍 / 幾內亞比索
-gwinea bissau:幾內亞比索
-gwinea bissau:幾內亞比紹
-gwinea bissau:畿內亞比紹
+gwinea bissau:几内亚比绍 / 几內亚比索
+gwinea bissau:畿內亚比绍
 gwinea ekwatorjali:chìdào jīnèiyà
+gwinea ekwatorjali:赤道几內亚
 gwinea ekwatorjali:赤道几内亚
-gwinea ekwatorjali:赤道幾內亞
-gwinea ekwatorjali:赤道畿內亞
+gwinea ekwatorjali:赤道畿內亚
 gwinea równikowa:chìdào jīnèiyà
+gwinea równikowa:赤道几內亚
 gwinea równikowa:赤道几内亚
-gwinea równikowa:赤道几内亚 / 赤道幾內亞
-gwinea równikowa:赤道幾內亞
-gwinea równikowa:赤道畿內亞
+gwinea równikowa:赤道几内亚 / 赤道几內亚
+gwinea równikowa:赤道畿內亚
 gwinea:jīnèiyà
+gwinea:几內亚
 gwinea:几内亚
-gwinea:几内亚 / 畿內亞
-gwinea:幾內亞
-gwinea:畿內亞
+gwinea:几内亚 / 畿內亚
+gwinea:畿內亚
 gwineýa-bisau:jīnèiyà bǐshào
+gwineýa-bisau:几內亚比索
+gwineýa-bisau:几內亚比绍
 gwineýa-bisau:几内亚比绍
-gwineýa-bisau:几内亚比绍 / 幾內亞比索
-gwineýa-bisau:幾內亞比索
-gwineýa-bisau:幾內亞比紹
-gwineýa-bisau:畿內亞比紹
+gwineýa-bisau:几内亚比绍 / 几內亚比索
+gwineýa-bisau:畿內亚比绍
 gwineýa:jīnèiyà
+gwineýa:几內亚
 gwineýa:几内亚
-gwineýa:几内亚 / 畿內亞
-gwineýa:幾內亞
-gwineýa:畿內亞
-gwing kee roasted:炯記燒味
+gwineýa:几内亚 / 畿內亚
+gwineýa:畿內亚
+gwing kee roasted:炯记烧味
 gwinyjo:jīnèiyà
+gwinyjo:几內亚
 gwinyjo:几内亚
-gwinyjo:几内亚 / 畿內亞
-gwinyjo:幾內亞
-gwinyjo:畿內亞
-gwirae-myeon:貴來面
+gwinyjo:几内亚 / 畿內亚
+gwinyjo:畿內亚
 gwirae-myeon:贵来面
-gwiseong laborers' district:貴城勞動者區
 gwiseong laborers' district:贵城劳动者区
 gwisil boksin:鬼室福信
 gwisil clan:鬼室氏
@@ -618,78 +486,65 @@ gwisil jipsa:鬼室集斯
 gwisin:鬼神
 gwitreg:维特雷
 gwiyana ya ufaransa:法属圭亚那
-gwiyana ya ufaransa:法属圭亚那 / 法屬圭亞那
-gwiyana ya ufaransa:法屬圭亞那
+gwiyana ya ufaransa:法属圭亚那 / 法属圭亚那
 gwiyana:圭亚那
-gwiyana:圭亚那 / 蓋亞那 / 圭亞那
-gwiyana:圭亞那
-gwiyana:蓋亞那
-gwiyana:蓋亞那 / 圭亞那
+gwiyana:圭亚那 / 盖亚那 / 圭亚那
+gwiyana:盖亚那
+gwiyana:盖亚那 / 圭亚那
 gwiyeo-ri:归欤里
-gwiyeo-ri:歸歟里
+gwiyeo-ri:归歟里
 gwiyomi song:可爱颂
 gwlad belg:bǐlìshí
 gwlad belg:比利时
-gwlad belg:比利时 / 比利時
-gwlad belg:比利時
+gwlad belg:比利时 / 比利时
 gwlad groeg:xīlà
 gwlad groeg:希腊
-gwlad groeg:希腊/希臘
-gwlad groeg:希臘
+gwlad groeg:希腊/希腊
 gwlad pwyl:bōlán
 gwlad pwyl:波兰
-gwlad pwyl:波兰 / 波蘭
-gwlad pwyl:波蘭
+gwlad pwyl:波兰 / 波兰
 gwlad thai:泰国
-gwlad thai:泰国 / 泰國
-gwlad thai:泰國
-gwlad y basg:巴斯克地區
-gwlad yr haf:森麻實郡
-gwlad yr haf:森麻錫郡
+gwlad thai:泰国 / 泰国
+gwlad y basg:巴斯克地区
+gwlad yr haf:森麻实郡
+gwlad yr haf:森麻锡郡
 gwlad yr iorddonen:yuēdàn
-gwlad yr iorddonen:約旦
 gwlad yr iorddonen:约旦
-gwlad yr iorddonen:约旦 / 約旦
+gwlad yr iorddonen:约旦 / 约旦
 gwlad yr iâ:bīngdǎo
 gwlad yr iâ:冰岛
-gwlad yr iâ:冰岛 / 冰島
-gwlad yr iâ:冰島
-gwlas an hav:森麻實郡
-gwlas an hav:森麻錫郡
+gwlad yr iâ:冰岛 / 冰岛
+gwlas an hav:森麻实郡
+gwlas an hav:森麻锡郡
 gwlff alaska:阿拉斯加湾
 gwlff mecsico:墨西哥湾
-gwlff mecsico:墨西哥灣
 gwlff saronica:萨龙湾
 gwlff suez:苏伊士湾
-gwo merg:國盟股份有限公司
-gwon han na:權韓娜
-gwon sang ha:權尚夏
+gwo merg:国盟股份有限公司
+gwon han na:权韩娜
+gwon sang ha:权尚夏
 gwonnong-dong:劝农洞
-gwonnong-dong:勸農洞
-gwonseon district:勸善區
+gwonseon district:劝善区
 gwonseon-gu:劝善区
-gwonseon-gu:勸善區
-gwoyeu romatzyh:國語羅馬字
-gwoździec mały:小格維茲傑齊
-gwrthdrawydd hadronnau mawr:大型強子對撞機
-gwrthdrawydd hadronnau mawr:大強子對撞機
-gwsn:公園少女
+gwoyeu romatzyh:国语罗马字
+gwoździec mały:小格维茲杰齐
+gwrthdrawydd hadronnau mawr:大型強子对撞机
+gwrthdrawydd hadronnau mawr:大強子对撞机
+gwsn:公园少女
 gwydyr house:格威瑟府
 gwynedd kūn:格温内斯
-gwynedd'deki kral edward'ın kaleleri ve kent surları:圭內斯郡愛德華國王的城堡和城牆
+gwynedd'deki kral edward'ın kaleleri ve kent surları:圭內斯郡爱德华国王的城堡和城墙
 gwynedd:圭内斯
 gwynedd:格温内斯
 gwyneddosaurus:格威内德龙属
-gwyneth ho:何桂藍
+gwyneth ho:何桂蓝
 gwyniad:彭氏白鮭
-gwynn bay:格溫灣
+gwynn bay:格温湾
 gwzlozdiya:kèluódìyà
 gwzlozdiya:克罗地亚
-gwzlozdiya:克羅地亞
-gwzlozdiya:克羅地亞/克罗地亚/克羅埃西亞
-gwzlozdiya:克羅埃西亞
+gwzlozdiya:克罗地亚/克罗地亚/克罗埃西亚
+gwzlozdiya:克罗埃西亚
 gwíík dineʼé bikéyah:xīlà
 gwíík dineʼé bikéyah:希腊
-gwíík dineʼé bikéyah:希腊/希臘
-gwíík dineʼé bikéyah:希臘
+gwíík dineʼé bikéyah:希腊/希腊
 gwādar:瓜达尔

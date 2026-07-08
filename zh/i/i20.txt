@@ -23,7 +23,7 @@ i accept he:我接受他
 i accept him:我接受他
 i accept his apology:我接受他的道歉
 i accept his challenge:我接受他的挑战
-i accept his explanation:我接受他的解釋
+i accept his explanation:我接受他的解释
 i accept his good:我接受他的善
 i accept it:我接受它
 i accept my error:我接受我的错误
@@ -48,7 +48,7 @@ i accept your apology:我接受你的道歉
 i accept your challenge:我接受你的挑战
 i accept your conditions:我接受你的条件
 i accept your decision:我接受你的决定
-i accept your holy spirit:我接受你的聖靈
+i accept your holy spirit:我接受你的圣灵
 i accept your nomination:我接受你们的提名
 i accept your peace:我接受你的和平
 i accept your surrender:我接受你的投降
@@ -187,7 +187,6 @@ i agree with isabella:我同意伊莎贝拉
 i agree with it:我同意它
 i agree with its:我同意它的
 i agree with jackson:我同意杰克逊
-i agree with john:我同意約翰
 i agree with john:我同意约翰
 i agree with joseph:我同意约瑟夫
 i agree with karl:我同意卡尔
@@ -262,20 +261,20 @@ i almost always have:我几乎总是有
 i almost always ignore these:我几乎总是忽略这些
 i almost always use:我几乎总是使用
 i almost always:我几乎总是
+i almost believe:我几乎相信
 i almost believe:我差点相信
-i almost believe:我幾乎相信
+i almost die:我几乎死
 i almost die:我差点死
-i almost die:我幾乎死
 i almost jump:我差点跳
 i almost kill:我差点杀
+i almost laugh:我几乎笑
 i almost laugh:我差点笑
-i almost laugh:我幾乎笑
-i almost regret:我幾乎後悔
+i almost regret:我几乎后悔
 i almost said:我差点说
 i almost tell him:我差点告诉他
 i almost was killed:我差点被杀
+i almost:我几乎
 i almost:我差点
-i almost:我幾乎
 i already accept:我已经接受
 i already add:我已经加
 i already am:我已经是
@@ -359,7 +358,7 @@ i also achieve:我也达到
 i also agree:我也同意
 i also allow my:我也允许我的
 i also allow:我也允许
-i also almost:我也幾乎
+i also almost:我也几乎
 i also always remember:我也总是记得
 i also analyze:我也分析
 i also appear:我也出现
@@ -430,7 +429,6 @@ i also doubt this:我也怀疑这
 i also doubt:我也怀疑
 i also download:我也下载
 i also draw:我也画
-i also dream:我也夢
 i also dream:我也梦
 i also drink three:我也喝三
 i also drink:我也喝
@@ -540,7 +538,7 @@ i also know she:我也知道她
 i also know the game:我也知道这个游戏
 i also know these:我也知道这些
 i also know this:我也知道这
-i also know what:我也知道什麼
+i also know what:我也知道什么
 i also know when:我也知道何时
 i also know women:我也知道女人
 i also know you:我也知道你们
@@ -605,21 +603,19 @@ i also like:我也喜欢
 i also listen:我也听
 i also look:我也看
 i also love animals:我也爱动物
-i also love bangkok:我也愛曼谷
+i also love bangkok:我也爱曼谷
 i also love black:我也爱黑色
-i also love chocolate:我也愛巧克力
+i also love chocolate:我也爱巧克力
 i also love clown:我也爱小丑
-i also love japan:我也愛日本
+i also love japan:我也爱日本
 i also love money:我也爱钱
-i also love my:我也愛我的
 i also love my:我也爱我的
-i also love nature:我也愛自然
+i also love nature:我也爱自然
 i also love paris:我也爱巴黎
 i also love talking about:我也爱谈论
 i also love the:我也爱这
 i also love this:我也爱这
 i also love you:我也爱你
-i also love:我也愛
 i also love:我也爱
 i also manage:我也管理
 i also meet:我也遇见
@@ -631,7 +627,7 @@ i also move:我也移动
 i also must admit:我也必须承认
 i also need encourage:我也需要鼓励
 i also need him:我也需要他
-i also need jesus:我也需要耶穌
+i also need jesus:我也需要耶稣
 i also need money:我也需要钱
 i also need more:我也需要更多
 i also need someone:我也需要有人
@@ -826,7 +822,6 @@ i always cry:我总是哭
 i always delete the:我总是删除这
 i always do:我总是做
 i always draw:我总是画
-i always dream:我一直夢
 i always dream:我一直梦
 i always dream:我总是梦
 i always eat:我总是吃
@@ -1176,7 +1171,7 @@ i am a free:我是一个自由的
 i am a fresh:我是一个新鲜的
 i am a friend:我是一个朋友
 i am a fruit:我是一个水果
-i am a fugitive from a chain gang:牢獄餘生
+i am a fugitive from a chain gang:牢狱余生
 i am a game-developer:我是一个游戏开发者
 i am a game:我是一个游戏
 i am a gamer:我是一个玩家
@@ -1205,7 +1200,7 @@ i am a healthy:我是一个健康
 i am a healthy:我是一个健康的
 i am a hebrew:我是一个希伯来人
 i am a hero:我是一个英雄
-i am a hero:請叫我英雄
+i am a hero:请叫我英雄
 i am a high blood pressure:我是一个高血压
 i am a high quality:我是一个高质量
 i am a high school:我是一个高中
@@ -1273,7 +1268,7 @@ i am a modern:我是一个现代
 i am a mom:我是一个妈妈
 i am a monster:我是一个怪物
 i am a mother:我是一个母亲
-i am a mother:我是一位母親
+i am a mother:我是一位母亲
 i am a mountaineer:我是一个登山者
 i am a movie:我是一个电影
 i am a music:我是一个音乐
@@ -1314,7 +1309,6 @@ i am a peaceful:我是一个和平的
 i am a perfect:我是一个完美
 i am a perfect:我是一个完美的
 i am a person:我是一个人
-i am a person:我是一個人
 i am a philosopher:我是一个哲学家
 i am a philosophy:我是一个哲学
 i am a phone:我是一个电话
@@ -1427,7 +1421,7 @@ i am a teapot:我是一个茶壶
 i am a television:我是一个电视
 i am a temporary:我是一个临时
 i am a test:我是一个测试
-i am a thief:羣英奪寶
+i am a thief:羣英夺宝
 i am a thing:我是一个东西
 i am a thousand:我是一千
 i am a threat:我是一个威胁
@@ -1487,7 +1481,6 @@ i am a:我是一个
 i am about fact:我是关于事实
 i am absurd:我是荒谬的
 i am adam:我是亚当
-i am adam:我是亞當
 i am admiral:我是海军上将
 i am adult:我是成年人
 i am africa:我是非洲
@@ -1577,7 +1570,6 @@ i am an optimistic:我是一个乐观的
 i am an overall:我是一个整体
 i am andrew:我是安德鲁
 i am anger:我是愤怒
-i am anger:我是憤怒
 i am anna:我是安娜
 i am anonymous:我是匿名的
 i am another you:我是另一个你
@@ -1585,7 +1577,7 @@ i am another:我是另一个
 i am anthony:我是安东尼
 i am anyone i want to be:我是我想成为的任何人
 i am apollo:我是阿波罗
-i am archangel:我是天使長
+i am archangel:我是天使长
 i am arm:我是武装
 i am artist:我是艺术家
 i am ashurbanipal:我是亚述巴尼拔
@@ -1611,8 +1603,7 @@ i am boss:我是老板
 i am brazilian:我是巴西
 i am brazilian:我是巴西人
 i am bread:我是面包
-i am bread:我是麵包
-i am bruce lee:我是李小龍
+i am bruce lee:我是李小龙
 i am buddhist:我是佛教徒
 i am buy:我是买
 i am buzz lightyear:我是巴斯光年
@@ -1676,15 +1667,15 @@ i am dr:我是博士
 i am dust:我是灰尘
 i am ear:我是耳朵
 i am earth:我是地球
-i am eastern:我是東方
+i am eastern:我是东方
 i am egypt:我是埃及
 i am egyptian:我是埃及人
 i am elizabeth:我是伊丽莎白
 i am emperor:我是皇帝
 i am english:我是英语
-i am entertainment:我是娛樂
+i am entertainment:我是娱乐
 i am eric:我是埃里克
-i am eternity:我是永恆
+i am eternity:我是永恒
 i am ethiopian:我是埃塞俄比亚人
 i am european:我是欧洲人
 i am everything:我是一切
@@ -1694,7 +1685,6 @@ i am extraordinary:我是非凡的
 i am extreme:我是极端的
 i am faramir:我是法拉墨
 i am father:我是父亲
-i am father:我是父親
 i am female:我是女性
 i am find:我是发现
 i am finnish:我是芬兰人
@@ -1747,7 +1737,6 @@ i am greek:我是希腊
 i am green paint:我是绿色油漆
 i am green:我是绿色
 i am greta:我是格蕾塔
-i am groot:我是格魯特
 i am groot:我是格鲁特
 i am ground control:我是地面控制
 i am guilty:我是有罪的
@@ -1790,18 +1779,16 @@ i am his doctor:我是他的医生
 i am his eyes:我是他的眼睛
 i am his father:我是他的父亲
 i am his friend:我是他的朋友
-i am his gardener:我是他的園丁
+i am his gardener:我是他的园丁
 i am his ideal:我是他的理想
 i am his idiot:我是他的白痴
 i am his light:我是他的光
 i am his minister:我是他的部长
 i am his mother:我是他的母亲
-i am his mother:我是他的母親
 i am his prisoner:我是他的囚犯
 i am his prophet:我是他的先知
 i am his second wife:我是他的第二个妻子
 i am his secretary:我是他的秘书
-i am his secretary:我是他的秘書
 i am his servant:我是他的仆人
 i am his slave:我是他的奴隶
 i am his son:我是他的儿子
@@ -1834,7 +1821,7 @@ i am insensitive:我是不敏感的
 i am inspector:我是督察
 i am iraqi:我是伊拉克
 i am irish:我是爱尔兰人
-i am iron man:我是鋼鐵人
+i am iron man:我是钢铁人
 i am it:我是它
 i am italian:我是意大利人
 i am its:我是它的
@@ -1842,15 +1829,12 @@ i am jack:我是杰克
 i am japanese:我是日本人
 i am jazz:我是爵士乐
 i am jealous:我是妒忌
-i am jehovah you:我是耶和華你
-i am jehovah:我是耶和華
+i am jehovah you:我是耶和华你
+i am jehovah:我是耶和华
 i am jesus christ:我是耶稣基督
-i am jesus christ:我是耶穌基督
 i am jesus:我是耶稣
-i am jesus:我是耶穌
 i am jim:我是吉姆
 i am joe:我是乔
-i am john:我是約翰
 i am john:我是约翰
 i am joking:我开玩笑的
 i am joseph:我是约瑟夫
@@ -1870,7 +1854,6 @@ i am local:我是本地的
 i am loki:我是洛基
 i am lord voldemort:我是伏地魔
 i am louis:我是路易斯
-i am love:我是愛
 i am love:我是爱
 i am lucky:我很幸运
 i am lucky:我是幸运的
@@ -1884,7 +1867,7 @@ i am martin:我是马丁
 i am mary:我是玛丽
 i am me:我是我
 i am meat:我是肉
-i am messiah:我是彌賽亞
+i am messiah:我是弥赛亚
 i am mexican:我是墨西哥人
 i am middle-age:我是中年
 i am mike:我是迈克
@@ -2012,7 +1995,7 @@ i am not a real engineer:我不是一个真的工程师
 i am not a revolutionary:我不是一个革命家
 i am not a rich man:我不是一个有钱的男人
 i am not a rich:我不是一个富有的
-i am not a robot:我不是機器
+i am not a robot:我不是机器
 i am not a sacrifice:我不是一个牺牲
 i am not a scientist:我不是一个科学家
 i am not a shadow:我不是一个影子
@@ -2131,7 +2114,7 @@ i am not drugs:我不是毒品
 i am not edward:我不是爱德华
 i am not egyptian:我不是埃及人
 i am not elect:我不是选举
-i am not elijah:我不是以利亞
+i am not elijah:我不是以利亚
 i am not empty:我不是空的
 i am not entertainment:我不是娱乐
 i am not every:我不是每个
@@ -2188,8 +2171,6 @@ i am not jack:我不是杰克
 i am not james:我不是詹姆士
 i am not japanese:我不是日本人
 i am not jesus:我不是耶稣
-i am not jesus:我不是耶穌
-i am not john:我不是約翰
 i am not john:我不是约翰
 i am not judge:我不是法官
 i am not just:我不是只
@@ -2232,7 +2213,7 @@ i am not north:我不是北
 i am not often:我不是常常
 i am not one:我不是一
 i am not order:我不是命令
-i am not pan jinlian:我不是潘金蓮
+i am not pan jinlian:我不是潘金莲
 i am not particular:我不是特殊的
 i am not patent:我不是专利
 i am not perfect:我不是完美
@@ -2393,10 +2374,8 @@ i am not your dog:我不是你的狗
 i am not your employee:我不是你的雇员
 i am not your employer:我不是你的雇主
 i am not your enemy:我不是你的敌人
-i am not your enemy:我不是你的敵人
 i am not your fate:我不是你的命运
 i am not your father:我不是你的父亲
-i am not your father:我不是你的父親
 i am not your friend:我不是你的朋友
 i am not your god:我不是你的上帝
 i am not your god:我不是你的神
@@ -2410,7 +2389,7 @@ i am not your secretary:我不是你的秘书
 i am not your servant:我不是你的仆人
 i am not your shadow:我不是你的影子
 i am not your slave:我不是你的奴隶
-i am not your son:我不是你的兒子
+i am not your son:我不是你的儿子
 i am not your story:我不是你的故事
 i am not your sun:我不是你的太阳
 i am not your tool:我不是你的工具
@@ -2473,7 +2452,7 @@ i am scared:我被吓到了
 i am science:我是科学
 i am selfish:我是自私的
 i am serious:我是严肃的
-i am setsuna:祭物與雪之剎那
+i am setsuna:祭物与雪之剎那
 i am seventh:我是第七
 i am shadow:我是影子
 i am she:我是她
@@ -2486,7 +2465,7 @@ i am socrates:我是苏格拉底
 i am sodium:我是钠
 i am software:我是软件
 i am solid:我是固体
-i am some sort of:我是某種
+i am some sort of:我是某种
 i am some:我是一些
 i am someone:我是某人
 i am something:我是东西
@@ -2517,7 +2496,7 @@ i am still:我是仍然
 i am stuart:我是斯图亚特
 i am study:我是学习
 i am superman:我是超人
-i am surgeon:我是外科醫師
+i am surgeon:我是外科医师
 i am swiss:我是瑞士人
 i am taiwan:我是台湾
 i am teach:我是教
@@ -2534,7 +2513,7 @@ i am the first:我是第一次
 i am the general:我是将军
 i am the king:我是王
 i am the lord thy god:我是耶和华你的神
-i am the mother too:我也是媽媽啊
+i am the mother too:我也是妈妈啊
 i am the only audience:我是唯一的听众
 i am the only audience:我是唯一的观众
 i am the only car:我是唯一的车
@@ -2616,7 +2595,7 @@ i am wallace loh:我是陆道逵
 i am war:我是战争
 i am water:我是水
 i am weasel:黄鼠狼威索
-i am what:我是什麼
+i am what:我是什么
 i am white:我是白色
 i am who i:我是谁我
 i am who:我是谁
@@ -2643,7 +2622,7 @@ i am young:我是年轻的
 i am your man:我是你的男人
 i am your servant:我是你的仆人
 i am:我是
-i amber:愛異想
+i amber:爱异想
 i amsterdam:我阿姆斯特丹
 i analysis:我分析
 i analyze everything:我分析一切
@@ -2676,7 +2655,6 @@ i and john:我和约翰
 i and many irish:我和许多爱尔兰人
 i and many other christians:我和许多其他基督徒
 i and many other:我和许多其他
-i and many others:我和許多其他人
 i and many others:我和许多其他人
 i and many scientists:我和许多科学家
 i and many women:我和很多女人
@@ -2692,14 +2670,13 @@ i and my colleagues:我和我的同事
 i and my entire:我和我的整个
 i and my family:我和我的家庭
 i and my father:我和我的父亲
-i and my father:我和我的父親
 i and my female:我和我的女性
 i and my friend:我和我的朋友
 i and my friends go:我和我的朋友们去
 i and my friends:我和我的朋友
 i and my friends:我和我的朋友们
 i and my husband:我和我的丈夫
-i and my lawyer:我和我的律師
+i and my lawyer:我和我的律师
 i and my motherland:我和我的祖国
 i and my parents:我和我的父母
 i and my people:我和我的人民
@@ -2709,7 +2686,6 @@ i and my servant:我和我的仆人
 i and my shadow:我和我的影子
 i and my sister:我和我的姐妹
 i and my son:我和我的儿子
-i and my son:我和我的兒子
 i and my soul:我和我的灵魂
 i and my team:我和我的团队
 i and my water:我和我的水
@@ -2779,7 +2755,6 @@ i are human:我是人类
 i are innocent:我是无辜的
 i are one:我是一
 i are philosopher:我是哲学家
-i are philosopher:我是哲學家
 i are real:我是真的
 i are right:我是正确的
 i are very different:我是非常不同的
@@ -2824,7 +2799,7 @@ i ask no more than:我问不超过
 i ask people:我问人们
 i ask team members:我问团队成员
 i ask the:我问这
-i ask them:我問他們
+i ask them:我问他们
 i ask these questions:我问这些问题
 i ask this:我问这
 i ask what happened:我问发生了什么
@@ -2845,7 +2820,7 @@ i ask you:我问你们
 i ask your opinion:我问你的意见
 i ask your permission:我问你的许可
 i ask your:我问你的
-i ask:我提問
+i ask:我提问
 i ask:我问
 i asked him:我问道他
 i asked this:我问道这
@@ -2874,7 +2849,7 @@ i attempt:我尝试
 i attend church:我参加教堂
 i attend:我参加
 i attract:我吸引
-i auto premium:人汽集團旗艦店
+i auto premium:人汽集团旗舰店
 i automatically ask:我自动地问
 i automatically:我自动地
 i average:我平均
@@ -2897,9 +2872,8 @@ i back:我背
 i backpack:我背包
 i backup:我备份
 i bag:我袋
-i bahamas:巴哈馬
 i bahamas:巴哈马
-i bahamas:巴哈马 / 巴哈馬
+i bahamas:巴哈马 / 巴哈马
 i bail:我保释
 i bank:我银行
 i banks:我银行
@@ -2934,7 +2908,7 @@ i been do:我已经做
 i been think:我已经想
 i been:我已经
 i before:我之前
-i beg of you:我懇求妳
+i beg of you:我恳求妳
 i beg you to stay:我求你留下来
 i beg you:我求你
 i beg you:我求你了
@@ -3032,7 +3006,7 @@ i believe be:我相信成为
 i believe because i:我相信因为我
 i believe beijing:我相信北京
 i believe best:我相信最好
-i believe binance:我相信幣安
+i believe binance:我相信币安
 i believe bitcoin:我相信比特币
 i believe blockchain technology:我相信区块链技术
 i believe blockchain:我相信区块链
@@ -3049,7 +3023,6 @@ i believe china anne:我相信中国安妮
 i believe china is the:我相信中国是这
 i believe china movies will:我相信中国电影会
 i believe china:我相信中国
-i believe china:我相信中國
 i believe chinese companies:我相信中国企业
 i believe chinese:我相信中国的
 i believe christians:我相信基督徒
@@ -3129,7 +3102,6 @@ i believe he can become:我相信他能成为
 i believe he could:我相信他能
 i believe he had several:我相信他有几个
 i believe he is correct:我相信他是正确的
-i believe he love:我相信他愛
 i believe he love:我相信他爱
 i believe he might sell:我相信他可能出售
 i believe he retire:我相信他退休
@@ -3143,7 +3115,7 @@ i believe he will retire:我相信他会退休
 i believe he will:我相信他会
 i believe he:我相信他
 i believe heaven:我相信天堂
-i believe helen:我相信海倫
+i believe helen:我相信海伦
 i believe help:我相信帮助
 i believe her nerve:我相信她的神经
 i believe here:我相信这里
@@ -3184,7 +3156,7 @@ i believe i have no:我相信我没有
 i believe i have some control:我相信我有一些控制
 i believe i have:我相信我有
 i believe i know:我相信我知道
-i believe i love:我相信我愛
+i believe i love:我相信我爱
 i believe i now love:我相信我现在爱
 i believe i should buy:我相信我应该买
 i believe i should manage:我相信我应该管理
@@ -3244,11 +3216,9 @@ i believe jack:我相信杰克
 i believe japan:我相信日本
 i believe japanese people:我相信日本人
 i believe jesus christ:我相信耶稣基督
-i believe jesus christ:我相信耶穌基督
-i believe jesus is god:我相信耶穌是神
+i believe jesus is god:我相信耶稣是神
 i believe jesus is you:我相信耶稣是你
 i believe jesus:我相信耶稣
-i believe jesus:我相信耶穌
 i believe joe:我相信乔
 i believe john:我相信约翰
 i believe justice:我相信正义
@@ -3256,7 +3226,7 @@ i believe kennedy:我相信肯尼迪
 i believe knowledge:我相信知识
 i believe laugh:我相信笑
 i believe laughter:我相信笑
-i believe leadership:我相信領導力
+i believe leadership:我相信领导力
 i believe learn:我相信学习
 i believe learning:我相信学习
 i believe let:我相信让
@@ -3277,7 +3247,7 @@ i believe many of:我相信许多
 i believe many people will give up:我相信很多人会放弃
 i believe many people:我相信很多人
 i believe many:我相信很多
-i believe many:我相信許多
+i believe many:我相信许多
 i believe marriage:我相信婚姻
 i believe men and women can be:我相信男人和女人可以成为
 i believe men and women should get:我相信男人和女人应该得到
@@ -3364,9 +3334,8 @@ i believe pirelli:我相信倍耐力
 i believe plato:我相信柏拉图
 i believe president:我相信总统
 i believe reality:我相信现实
-i believe reality:我相信現實
 i believe refugee:我相信难民
-i believe reincarnation:我相信轉世
+i believe reincarnation:我相信转世
 i believe religion:我相信宗教
 i believe robots:我相信机器人
 i believe russia:我相信俄罗斯
@@ -3458,7 +3427,6 @@ i believe that children:我相信孩子
 i believe that children:我相信孩子们
 i believe that china can do:我相信中国能做
 i believe that china:我相信中国
-i believe that china:我相信中國
 i believe that christ:我相信基督
 i believe that christian:我相信基督徒
 i believe that christians:我相信基督徒
@@ -3576,10 +3544,8 @@ i believe that japan and france:我相信日本和法国
 i believe that japan:我相信日本
 i believe that jesus christ is you:我相信耶稣基督是你
 i believe that jesus christ:我相信耶稣基督
-i believe that jesus christ:我相信耶穌基督
 i believe that jesus is you:我相信耶稣是你
 i believe that jesus:我相信耶稣
-i believe that jesus:我相信耶穌
 i believe that journalists:我相信记者
 i believe that just like:我相信就像
 i believe that just:我相信只
@@ -3605,7 +3571,7 @@ i believe that many mountaineering:我相信很多登山
 i believe that many of:我相信许多
 i believe that many people:我相信很多人
 i believe that many:我相信很多
-i believe that many:我相信許多
+i believe that many:我相信许多
 i believe that market:我相信市场
 i believe that marriage:我相信婚姻
 i believe that math:我相信数学
@@ -3695,7 +3661,7 @@ i believe that singer:我相信歌手
 i believe that situation:我相信情况
 i believe that slavery:我相信奴隶制
 i believe that sochi:我相信索契
-i believe that social media:我相信社群媒體
+i believe that social media:我相信社群媒体
 i believe that social:我相信社会的
 i believe that society:我相信社会
 i believe that software architecture:我相信软件架构
@@ -3776,9 +3742,8 @@ i believe that we can win the:我相信我们能够赢得这
 i believe that we can:我相信我们能够
 i believe that we have to protect our:我相信我们必须保护我们的
 i believe that we have to:我相信我们必须
-i believe that we have to:我相信我們必須
 i believe that we must assist:我相信我们必须协助
-i believe that we must:我相信我們必須
+i believe that we must:我相信我们必须
 i believe that we need to design technology:我相信我们需要设计技术
 i believe that we need to hear this:我相信我们需要听这
 i believe that we need to:我相信我们需要
@@ -3787,10 +3752,9 @@ i believe that we should overcome:我相信我们应该克服
 i believe that we will not:我相信我们不会
 i believe that we will win:我相信我们会赢得
 i believe that we will:我相信我们会
-i believe that we will:我相信我們將
+i believe that we will:我相信我们将
 i believe that we'll:我相信我们会
 i believe that we:我相信我们
-i believe that we:我相信我們
 i believe that when he:我相信当他
 i believe that when i:我相信当我
 i believe that when we:我相信当我们
@@ -3852,7 +3816,7 @@ i believe this:我相信这
 i believe those things:我相信那些东西
 i believe those:我相信那些
 i believe through:我相信通过
-i believe tibetan buddhism:我相信藏傳佛教
+i believe tibetan buddhism:我相信藏传佛教
 i believe today:我相信今天
 i believe tomorrow:我相信明天
 i believe true:我相信真
@@ -3887,12 +3851,11 @@ i believe we have some hours:我相信我们有一些小时
 i believe we have some:我相信我们有一些
 i believe we have to get:我相信我们必须得到
 i believe we have to:我相信我们必须
-i believe we have to:我相信我們必須
 i believe we have:我相信我们有
 i believe we know:我相信我们知道
 i believe we must assist:我相信我们必须协助
 i believe we must return:我相信我们必须返回
-i believe we must:我相信我們必須
+i believe we must:我相信我们必须
 i believe we need more competition:我相信我们需要更多竞争
 i believe we need to look:我相信我们需要看
 i believe we need to:我相信我们需要
@@ -3903,12 +3866,10 @@ i believe we should support people:我相信我们应该支持人们
 i believe we should welcome japan:我相信我们应该欢迎日本
 i believe we will continue to:我相信我们将继续
 i believe we will:我相信我们会
-i believe we will:我相信我們將
-i believe we will:我相信我們會
+i believe we will:我相信我们将
 i believe we'll:我相信我们会
 i believe we:我相信我们
-i believe we:我相信我們
-i believe what:我相信什麼
+i believe what:我相信什么
 i believe when i:我相信当我
 i believe when they:我相信当他们
 i believe when you:我相信当你
@@ -3958,7 +3919,7 @@ i believe you wait:我相信你等
 i believe you will:我相信你会
 i believe you:我相信你
 i believe:我相信
-i belonged to you:從你的全世界路過
+i belonged to you:从你的全世界路过
 i bend:我弯曲
 i best:我最好
 i bet a big:我打赌一个大
@@ -4077,10 +4038,9 @@ i buy playboy:我买花花公子
 i buy shoe:我买鞋
 i buy your theory:我买你的理论
 i buy:我买
-i buy:我買
 i by:我被
-i cable communications:有線寬頻
-i cable hoy:有線寬頻開電視
+i cable communications:有线宽频
+i cable hoy:有线宽频开电视
 i calculate:我计算
 i call harry:我打电话给哈利
 i call him:我打电话给他
@@ -4105,9 +4065,7 @@ i can accept any criticism:我可以接受任何批评
 i can accept anything:我可以接受任何事
 i can accept curiosity:我可以接受好奇心
 i can accept different:我可以接受不同的
-i can accept failure:我可以接受失敗
 i can accept failure:我可以接受失败
-i can accept failure:我能接受失敗
 i can accept failure:我能接受失败
 i can accept god:我可以接受上帝
 i can accept god:我可以接受神
@@ -4219,7 +4177,7 @@ i can breathe:我可以呼吸
 i can bring her back:我可以带她回来
 i can build:我可以构建
 i can build:我能构建
-i can buy it:我能買它
+i can buy it:我能买它
 i can buy my:我可以买我的
 i can buy one:我可以买一
 i can buy pen:我能买笔
@@ -4227,9 +4185,7 @@ i can buy things:我可以买东西
 i can buy this:我可以买这
 i can buy you:我可以买你
 i can buy:我可以买
-i can buy:我可以買
 i can buy:我能买
-i can buy:我能買
 i can calculate:我可以计算
 i can call alex:我可以打电话给亚历克斯
 i can call google:我可以打电话给谷歌
@@ -4340,7 +4296,6 @@ i can delete:我能删除
 i can deploy:我可以部署
 i can describe it:我可以描述它
 i can describe:我可以描述
-i can design:我可以設計
 i can design:我可以设计
 i can destroy the united states:我可以摧毁美国
 i can destroy their temple:我可以摧毁他们的庙
@@ -4386,7 +4341,6 @@ i can doubt:我可以怀疑
 i can download files:我可以下载文件
 i can download this:我可以下载这
 i can download:我可以下载
-i can download:我能下載
 i can download:我能下载
 i can draw:我可以画
 i can draw:我能画
@@ -4573,7 +4527,7 @@ i can have this:我可以有这
 i can have three:我可以有三
 i can have:我可以有
 i can have:我能有
-i can hear your voice:聽見你的聲音
+i can hear your voice:听见你的声音
 i can hear:我可以听
 i can help china:我能帮助中国
 i can help him:我可以帮助他
@@ -4710,10 +4664,8 @@ i can look:我可以看
 i can love my body:我可以爱我的身体
 i can love my husband:我可以爱我的丈夫
 i can love my:我可以爱我的
-i can love you:我可以愛你
 i can love you:我可以爱你
 i can love you:我能爱你
-i can love:我可以愛
 i can love:我可以爱
 i can maintain it:我可以维护它
 i can maintain:我可以维护
@@ -4879,7 +4831,6 @@ i can rely on:我可以依赖于
 i can remember:我可以记住
 i can remember:我可以记得
 i can reply:我可以回复
-i can report:我可以報告
 i can report:我可以报告
 i can represent:我可以表示
 i can resolve:我可以解决
@@ -5148,7 +5099,6 @@ i can understand why a man:我可以理解为什么一个男人
 i can understand why goldman sachs:我可以理解为什么高盛
 i can understand why he:我可以理解为什么他
 i can understand why immigrants:我可以理解为什么移民
-i can understand why immigrants:我可以理解為什麼移民
 i can understand why jesus:我可以理解为什么耶稣
 i can understand why many people:我可以理解为什么很多人
 i can understand why people:我可以理解为什么人们
@@ -5161,11 +5111,10 @@ i can understand why you might want:我可以理解为什么你可能想要
 i can understand why:我可以理解为什么
 i can understand why:我可以理解为何
 i can understand your anger:我可以理解你的愤怒
-i can understand your anger:我可以理解你的憤怒
 i can understand your:我可以理解你的
 i can understand:我可以理解
 i can upgrade:我可以升级
-i can upload:我可以上傳
+i can upload:我可以上传
 i can use a friend:我可以使用一个朋友
 i can use camera:我可以使用相机
 i can use chopsticks:我能使用筷子
@@ -5223,8 +5172,8 @@ i can write:我能写
 i can you say:我可以你们说
 i can you:我可以你
 i can you:我可以你们
-i can't think straight:同心難改
-i can't understand what my husband is saying:關於完全聽不懂老公在說什麼的事
+i can't think straight:同心难改
+i can't understand what my husband is saying:关于完全听不懂老公在说什么的事
 i can:我可以
 i cancel:我取消
 i cannot accept simon:我不能接受西蒙
@@ -5353,7 +5302,7 @@ i cannot lie:我不能说谎
 i cannot lift my:我不能举起我的
 i cannot listen:我不能听
 i cannot love him:我不能爱他
-i cannot love someone:我不能愛某人
+i cannot love someone:我不能爱某人
 i cannot love you:我不能爱你
 i cannot move my:我不能移动我的
 i cannot move:我不能移动
@@ -5453,7 +5402,7 @@ i cannot write you:我不能写你
 i cannot write:我不能写
 i cannot:我不能
 i car:我车
-i care a lot:詐欺女王
+i care a lot:诈欺女王
 i care:我关心
 i carpool:我拼车
 i castle:我城堡
@@ -5507,7 +5456,7 @@ i check my phone:我检查我的手机
 i check my weapon:我检查我的武器
 i check my work:我检查我的工作
 i check:我检查
-i chen wu:吳毅成
+i chen wu:吴毅成
 i ching oriental massage:益境按摩
 i ching:易经
 i choice:我选择
@@ -5654,7 +5603,7 @@ i come to this:我来到这
 i come to you:我来到你
 i come to your:我来到你的
 i come to:我来到
-i come with the rain:幻雨追緝
+i come with the rain:幻雨追缉
 i come:我来
 i comfort them:我安慰他们
 i comfort you:我安慰你
@@ -5715,8 +5664,8 @@ i copy and paste:我复制和粘贴
 i copy:我复制
 i correct:我正确的
 i correctly:我正确地
-i corrupt all cops:金錢帝國
-i cosmetic:女子醫學美容
+i corrupt all cops:金钱帝国
+i cosmetic:女子医学美容
 i cost:我花费
 i costa:我科斯塔
 i cough:我咳嗽
@@ -5791,11 +5740,10 @@ i could breathe:我可以呼吸
 i could burst:我可以爆发
 i could but unfortunate:我能但不幸的
 i could buy five:我可以买五
-i could buy it:我能買它
+i could buy it:我能买它
 i could buy my:我可以买我的
 i could buy shoe:我可以买鞋
 i could buy:我可以买
-i could buy:我可以買
 i could buy:我能买
 i could calculate:我可以计算
 i could call him:我可以打电话给他
@@ -6093,7 +6041,6 @@ i could look:我可以看
 i could love a child:我可以爱一个孩子
 i could love and hate:我可以爱和恨
 i could love you:我可以爱你
-i could love:我可以愛
 i could love:我可以爱
 i could make:我可以制造
 i could manage:我可以管理
@@ -6416,7 +6363,7 @@ i currently supervise:我目前监督
 i currently use:我目前使用
 i currently:我目前
 i curriculum:我课程
-i curse:我詛咒
+i curse:我诅咒
 i customize:我定制
 i cut off his finger:我切断他的手指
 i cut off:我切断
@@ -6487,7 +6434,6 @@ i deploy:我部署
 i deprive:我剥夺
 i describe them:我描述他们
 i describe:我描述
-i design:我設計
 i design:我设计
 i desire it:我渴望它
 i desire:我渴望
@@ -6539,14 +6485,14 @@ i do anything:我做任何事
 i do at home:我做在家里
 i do believe you:我做相信你
 i do business:我做生意
-i do centre:愛都婚紗中心
+i do centre:爱都婚纱中心
 i do cheese:我做奶酪
 i do digital:我做数字的
 i do experiment:我做实验
 i do get:我做得到
 i do great work:我做伟大的工作
+i do hair:愿发廊
 i do hair:我做头发
-i do hair:願髮廊
 i do her colour:我做她的颜色
 i do interview:我做采访
 i do it:我做它
@@ -6577,7 +6523,7 @@ i do not care who won:我不在乎谁赢了
 i do not care who you are:我不在乎你是谁
 i do not care who:我不在乎谁
 i do not care:我不在乎
-i do not choose to run:我不選擇參選
+i do not choose to run:我不选择参选
 i do not even know what that means:我甚至不知道那意味着什么
 i do not even know why:我甚至不知道为什么
 i do not even know you:我甚至不认识你
@@ -6687,12 +6633,11 @@ i do not know this:我不知道这
 i do not know those:我不知道那些
 i do not know three:我不知道三
 i do not know what happened:我不知道发生了什么
-i do not know what heaven:我不知道什麼天堂
+i do not know what heaven:我不知道什么天堂
 i do not know what is going to happen:我不知道会发生什么
 i do not know what kind of man:我不知道什么样的男人
 i do not know what to say:我不知道该说什么了
 i do not know what:我不知道什么
-i do not know what:我不知道什麼
 i do not know when i:我不知道当我
 i do not know when or how:我不知道何时或如何
 i do not know when:我不知道何时
@@ -6828,7 +6773,6 @@ i do not understand violence:我不明白暴力
 i do not understand why i:我不明白为什么我
 i do not understand why:我不明白为什么
 i do not understand why:我不明白为何
-i do not understand why:我不明白為什麼
 i do not understand you guys at all:我一点都不懂你们这些家伙
 i do not understand you:我不明白你
 i do not understand your question:我不明白你的问题
@@ -6850,7 +6794,7 @@ i do this:我做这
 i do three:我做三
 i do what i like to do:我喜欢做什么就做什么
 i do what i want:我做我想要的
-i do what i:我做什麼我
+i do what i:我做什么我
 i do yoga:我做瑜伽
 i do:我做
 i does:我做
@@ -6963,7 +6907,7 @@ i don't eat tofu:我不吃豆腐
 i don't eat:我不吃
 i don't encourage them:我不鼓励他们
 i don't encourage this:我不鼓励这
-i don't envy serpukhov:我不羨慕謝爾普霍夫
+i don't envy serpukhov:我不羨慕谢尔普霍夫
 i don't envy:我不羨慕
 i don't exist:我不存在
 i don't expect any:我不期待任何
@@ -7068,7 +7012,7 @@ i don't know how much money:我不知道多少钱
 i don't know how much:我不知道多少
 i don't know how or when:我不知道如何或何时
 i don't know how or why:我不知道如何或为什么
-i don't know how she does it:凱特的慾望日記
+i don't know how she does it:凱特的欲望日记
 i don't know how to add:我不知道如何加
 i don't know how to answer your question:我不知道如何回答你的问题
 i don't know how to answer:我不知道如何回答
@@ -7110,9 +7054,7 @@ i don't know how to know who:我不知道如何知道谁
 i don't know how to know:我不知道如何知道
 i don't know how to let:我不知道如何让
 i don't know how to look:我不知道如何看
-i don't know how to love him:我不知道如何愛他
 i don't know how to love him:我不知道如何爱他
-i don't know how to love:我不知道如何愛
 i don't know how to love:我不知道如何爱
 i don't know how to make:我不知道如何使
 i don't know how to make:我不知道如何让
@@ -7228,14 +7170,13 @@ i don't know what tools:我不知道什么工具
 i don't know what would happen:我不知道会发生什么
 i don't know what you want:我不知道你想要什么
 i don't know what:我不知道什么
-i don't know what:我不知道什麼
 i don't know when i:我不知道当我
 i don't know when:我不知道何时
 i don't know whether it:我不知道是否它
 i don't know whether she:我不知道是否她
 i don't know whether we:我不知道是否我们
 i don't know whether:我不知道是否
-i don't know which is love:我也不知道誰才是真愛
+i don't know which is love:我也不知道谁才是真爱
 i don't know which one is true:我不知道哪一个是真的
 i don't know which one:我不知道哪一个
 i don't know which:我不知道哪一个
@@ -7256,11 +7197,9 @@ i don't know why early:我不知道为什么早期的
 i don't know why god:我不知道为什么上帝
 i don't know why he:我不知道为什么他
 i don't know why he:我不知道为何他
-i don't know why i still:我不知道為什麼我仍然
+i don't know why i still:我不知道为什么我仍然
 i don't know why i:我不知道为什么我
-i don't know why i:我不知道為什麼我
 i don't know why it:我不知道为什么它
-i don't know why it:我不知道為什麼它
 i don't know why more:我不知道为什么更多
 i don't know why my:我不知道为什么我的
 i don't know why people:我不知道为什么人们
@@ -7273,11 +7212,9 @@ i don't know why you would love:我不知道为何你会爱
 i don't know why you:我不知道为什么你
 i don't know why you:我不知道为什么你们
 i don't know why you:我不知道为何你
-i don't know why you:我不知道為什麼你
 i don't know why:我不知道为什么
 i don't know why:我不知道为何
-i don't know why:我不知道為什麼
-i don't know wind:我不知道風
+i don't know wind:我不知道风
 i don't know you and i:我不知道你和我
 i don't know you from adam:我不知道你从亚当
 i don't know you:我不知道你
@@ -7411,18 +7348,16 @@ i don't like you:我不喜欢你
 i don't like:我不喜欢
 i don't listen:我不听
 i don't love anyone:我不爱任何人
-i don't love earth:我不愛地球
+i don't love earth:我不爱地球
 i don't love him:我不爱他
 i don't love my daughter:我不爱我的女儿
 i don't love my wife:我不爱我的妻子
-i don't love my:我不愛我的
 i don't love my:我不爱我的
 i don't love study:我不爱学习
 i don't love the:我不爱这
 i don't love them:我不爱他们
-i don't love you:我不愛你
 i don't love you:我不爱你
-i don't love:我不愛
+i don't love:我不爱
 i don't make love:我不做爱
 i don't need a hero:我不需要一个英雄
 i don't need a man:我不需要一个男人
@@ -7450,7 +7385,6 @@ i don't need hollywood:我不需要好莱坞
 i don't need innovation:我不需要创新
 i don't need it:我不需要它
 i don't need laws:我不需要法律
-i don't need love:我不需要愛
 i don't need love:我不需要爱
 i don't need mike:我不需要迈克
 i don't need money:我不需要钱
@@ -7513,11 +7447,10 @@ i don't regret anything:我不后悔任何事
 i don't regret buy:我不后悔买
 i don't regret my:我不后悔我的
 i don't regret:我不后悔
-i don't regret:我不後悔
-i don't remember his name:我不記得他的名字
-i don't remember my:我不記得我的
-i don't remember why:我不記得為什麼
-i don't remember:我不記得
+i don't remember his name:我不记得他的名字
+i don't remember my:我不记得我的
+i don't remember why:我不记得为什么
+i don't remember:我不记得
 i don't require you:我不需要你
 i don't require:我不需要
 i don't respect think:我不尊重认为
@@ -7658,7 +7591,7 @@ i don't use:我不使用
 i don't vote:我不投票
 i don't wait:我不等待
 i don't wanna cry:我不想哭泣
-i don't wanna live forever:無愛不活
+i don't wanna live forever:无爱不活
 i don't want a bucket of water:我不想要一桶水
 i don't want a good:我不想要一个好的
 i don't want a new:我不想要一个新的
@@ -7672,7 +7605,7 @@ i don't want chaos:我不想要混乱
 i don't want clothes:我不想要衣服
 i don't want coffee:我不想要咖啡
 i don't want egyptians:我不想要埃及人
-i don't want eternal:我不想要永恆的
+i don't want eternal:我不想要永恒的
 i don't want expensive:我不想要昂贵的
 i don't want four:我不想要四
 i don't want free:我不想要免费的
@@ -7701,7 +7634,7 @@ i don't want third:我不想要第三
 i don't want this:我不想要这
 i don't want those:我不想要那些
 i don't want three:我不想要三
-i don't want to forget you:我不想忘記你
+i don't want to forget you:我不想忘记你
 i don't want to know anything:我不想知道任何事
 i don't want to know their:我不想知道他们的
 i don't want to know what kind of:我不想知道哪种
@@ -7819,14 +7752,12 @@ i doubt your:我怀疑你的
 i doubt:我怀疑
 i dove:我鸽子
 i download it:我下载它
-i download:我下載
 i download:我下载
 i draw a circle:我画一个圆圈
 i draw my love:我画我的爱
 i draw:我画
-i dream:我夢
 i dream:我梦
-i dreamed a dream:我曾有夢
+i dreamed a dream:我曾有梦
 i drift:我漂
 i drink a cup:我喝一杯
 i drink aloe water:我喝芦荟水
@@ -7858,7 +7789,7 @@ i eat apple bread:我吃苹果面包
 i eat better:我吃更好的
 i eat breakfast:我吃早餐
 i eat chocolate:我吃巧克力
-i eat electricity:我吃電
+i eat electricity:我吃电
 i eat five dozen:我吃五打
 i eat fruit:我吃水果
 i eat healthy food:我吃健康的食物
@@ -7973,7 +7904,7 @@ i even did:我甚至做过
 i even don't:我甚至不
 i even doubt:我甚至怀疑
 i even download:我甚至下载
-i even dream:我甚至夢
+i even dream:我甚至梦
 i even encourage:我甚至鼓励
 i even found:我甚至找到
 i even go:我甚至去
@@ -8000,7 +7931,7 @@ i even plan:我甚至计划
 i even pretend:我甚至假装
 i even receive:我甚至收到
 i even recommend:我甚至建议
-i even regret:我甚至後悔
+i even regret:我甚至后悔
 i even remember:我甚至记得
 i even said i:我甚至说我
 i even said:我甚至说
@@ -8086,7 +8017,7 @@ i exploit:我剥削
 i explore:我探索
 i export:我导出
 i extend:我扩展
-i face:我臉
+i face:我脸
 i failed:我失败
 i fall asleep:我入睡
 i familiar with:我熟悉
@@ -8182,7 +8113,7 @@ i feel include:我觉得包括
 i feel is enormous:我觉得是巨大的
 i feel is right:我觉得是对的
 i feel is very:我感觉是非常
-i feel it coming:感覺對了
+i feel it coming:感觉对了
 i feel it give:我感觉它给
 i feel it:我感觉它
 i feel it:我觉得它
@@ -8297,7 +8228,7 @@ i feel you:我觉得你们
 i feel your:我觉得你的
 i feel:我感觉
 i feel:我觉得
-i feeling:我感覺
+i feeling:我感觉
 i fight:我战斗
 i figure you:我图你
 i figure:我图
@@ -8404,7 +8335,7 @@ i find your article:我发现你的文章
 i find your explanation:我发现你的解释
 i find your story:我发现你的故事
 i find:我发现
-i fine art:明畫廊
+i fine art:明画廊
 i finger:我手指
 i finish:我结束
 i fire eat:我火吃
@@ -8435,7 +8366,7 @@ i follow jesus:我跟随耶稣
 i follow miss:我跟随小姐
 i follow you:我跟随你
 i follow:我跟随
-i fong concrete limited:怡豐混凝土有限公司
+i fong concrete limited:怡丰混凝土有限公司
 i for the first time:我第一次
 i for:我为了
 i forever appreciate:我永远感激
@@ -8454,7 +8385,7 @@ i forgive you:我原谅你
 i forgive you:我原谅你们
 i forgive your error:我原谅你的错误
 i forgive:我原谅
-i forgot that you existed:忘記你的存在
+i forgot that you existed:忘记你的存在
 i former:我前
 i fortunate:我幸运的
 i forty:我四十
@@ -8477,7 +8408,7 @@ i found my friend collins:我找到我的朋友柯林斯
 i found my friend:我找到我的朋友
 i found my heaven:我找到我的天堂
 i found my hotel:我找到我的旅馆
-i found my mirror:我找到我的鏡
+i found my mirror:我找到我的镜
 i found my servant:我找到我的仆人
 i found my sun:我找到我的太阳
 i found my:我找到我的
@@ -8513,7 +8444,6 @@ i full:我全部
 i fully:我完全地
 i further:我进一步的
 i gain:我收益
-i gaze:我凝視
 i gaze:我凝视
 i generate:我生成
 i get a blank:我得到一个空白的
@@ -8671,7 +8601,6 @@ i give you:我给你们
 i give:我给
 i go and do:我去和做
 i go buy:我去买
-i go buy:我去買
 i go check my:我去检查我的
 i go east:我去东
 i go eat:我去吃
@@ -8705,7 +8634,7 @@ i guess an idol:我猜一个偶像
 i guess anna:我猜安娜
 i guess anne:我猜安妮
 i guess apple:我猜苹果
-i guess construction worker:我猜建築工人
+i guess construction worker:我猜建筑工人
 i guess curve:我猜曲线
 i guess five:我猜五
 i guess from now:我猜从现在
@@ -8731,7 +8660,7 @@ i guess i just:我猜我只
 i guess i just:我猜我只是
 i guess i know:我猜我知道
 i guess i need:我猜我需要
-i guess i'll have to change my plan:我想我該改變我的計畫
+i guess i'll have to change my plan:我想我该改变我的计画
 i guess i'm in love:我想我恋爱了
 i guess i:我猜我
 i guess if we:我猜如果我们
@@ -8863,11 +8792,11 @@ i has a great:我有一个伟大的
 i has a new:我有一个新的
 i has a sword:我有一剑
 i hate all people:我恨所有的人
-i hate boys:我討厭男生
+i hate boys:我讨厌男生
 i hate china:我恨中国
 i hate clown:我恨小丑
 i hate dad:我恨爸爸
-i hate feminist:我恨女性主義者
+i hate feminist:我恨女性主义者
 i hate france:我恨法国
 i hate hate him:我恨恨他
 i hate him:我恨他
@@ -9020,7 +8949,7 @@ i have a crazy:我有一个疯狂
 i have a credit card:我有一个信用卡
 i have a crisis:我有一个危机
 i have a crown:我有一个王冠
-i have a crush at work:這公司有我喜歡的人
+i have a crush at work:这公司有我喜欢的人
 i have a crystal ball:我有一个水晶球
 i have a curiosity:我有一个好奇心
 i have a customer wait:我有一个客户等待
@@ -9186,7 +9115,7 @@ i have a long-term strategy:我有一个长期战略
 i have a long-term:我有一个长期
 i have a love:我有一个爱
 i have a lover:我有一个爱人
-i have a lover:我有愛人了
+i have a lover:我有爱人了
 i have a lunch:我有一个午餐
 i have a magazine:我有一个杂志
 i have a magic:我有一个魔法
@@ -9650,7 +9579,6 @@ i have contact:我有联系
 i have control:我有控制
 i have cookie:我有饼干
 i have courage:我有勇气
-i have courage:我有勇氣
 i have court:我有法院
 i have crab:我有螃蟹
 i have curves:我有曲线
@@ -9662,7 +9590,7 @@ i have days:我有天
 i have death:我有死亡
 i have debt:我有债务
 i have depth:我有深度
-i have desire:我有慾望
+i have desire:我有欲望
 i have desire:我有渴望
 i have diabetes:我有糖尿病
 i have different metaphor:我有不同的隐喻
@@ -9737,7 +9665,6 @@ i have everything i need:我有一切我需要
 i have everything:我有一切
 i have evidence:我有证据
 i have evil:我有邪恶的
-i have experience:我有經驗
 i have experience:我有经验
 i have experts:我有专家
 i have extensive:我有广泛的
@@ -9749,7 +9676,7 @@ i have eyes:我有眼睛
 i have faith:我有信仰
 i have family obligation:我有家庭义务
 i have family:我有家庭
-i have feeling:我有感覺
+i have feeling:我有感觉
 i have feet:我有脚
 i have female friends:我有女性朋友
 i have female:我有女性
@@ -9812,8 +9739,7 @@ i have hair:我有头发
 i have half:我有半
 i have hands:我有手
 i have health insurance:我有健康保险
-i have health insurance:我有健康保險
-i have health insurance:我有醫療保險
+i have health insurance:我有医疗保险
 i have health:我有健康
 i have healthy children:我有健康的孩子
 i have healthy:我有健康的
@@ -9821,7 +9747,7 @@ i have hear:我有听
 i have heart:我有心脏
 i have heart:我有心臟
 i have heel:我有脚跟
-i have helicopter parent:我有直升機父母
+i have helicopter parent:我有直升机父母
 i have hepatitis c:我有丙型肝炎
 i have hepatitis:我有肝炎
 i have her card:我有她的卡
@@ -9852,7 +9778,7 @@ i have his whole army:我有他的整个军队
 i have his whole:我有他的整个
 i have history:我有历史
 i have honey:我有蜂蜜
-i have honor alliance:我有榮譽聯盟
+i have honor alliance:我有荣誉联盟
 i have hope:我有希望
 i have hopes:我有希望
 i have human:我有人
@@ -9878,14 +9804,12 @@ i have insight:我有洞察力
 i have insomnia:我有失眠
 i have insulin resistance:我有胰岛素抵抗
 i have insurance:我有保险
-i have insurance:我有保險
 i have integrity:我有正直
 i have interest:我有兴趣
 i have issues:我有问题
 i have it:我有它
 i have jesus in my heart:我有耶稣在我心里
 i have jesus:我有耶稣
-i have jesus:我有耶穌
 i have john bolton:我有约翰博尔顿
 i have john:我有约翰
 i have journey:我有旅行
@@ -9937,7 +9861,6 @@ i have many colleagues:我有许多同事
 i have many complaint:我有很多抱怨
 i have many complex:我有很多复杂的
 i have many contact:我有很多联系
-i have many different:我有許多不同的
 i have many different:我有许多不同的
 i have many dreams:我有很多梦想
 i have many dreams:我有许多梦想
@@ -9972,7 +9895,7 @@ i have many pair:我有许多对
 i have many patients:我有很多病人
 i have many pencil:我有许多铅笔
 i have many people:我有很多人
-i have many people:我有許多百姓
+i have many people:我有许多百姓
 i have many pet:我有很多宠物
 i have many physician:我有很多医生
 i have many places:我有很多地方
@@ -9996,13 +9919,13 @@ i have many ukrainian:我有许多乌克兰
 i have many useful:我有很多有用的
 i have many years:我有多年
 i have many:我有很多
-i have many:我有許多
+i have many:我有许多
 i have meaning:我有意义
 i have measurement skills:我有测量技巧
 i have measurement:我有测量
 i have meat:我有肉
 i have medication:我有药
-i have memory:我有記憶
+i have memory:我有记忆
 i have mental health:我有心理健康
 i have mention:我有提到
 i have metaphor:我有隐喻
@@ -10047,7 +9970,7 @@ i have my cat:我有我的猫
 i have my cell:我有我的细胞
 i have my child:我有我的孩子
 i have my children:我有我的孩子
-i have my choice:我有我的選擇
+i have my choice:我有我的选择
 i have my church:我有我的教堂
 i have my computer:我有我的电脑
 i have my conscience:我有我的良心
@@ -10062,7 +9985,7 @@ i have my dreams:我有我的梦想
 i have my faith:我有我的信仰
 i have my farm:我有我的农场
 i have my finger:我有我的手指
-i have my freedom of speech:我有我的言論自由
+i have my freedom of speech:我有我的言论自由
 i have my freedom:我有我的自由
 i have my friends:我有我的朋友
 i have my future:我有我的未来
@@ -10083,7 +10006,7 @@ i have my kids:我有我的孩子
 i have my king:我有我的国王
 i have my knife:我有我的小刀
 i have my knowledge:我有我的知识
-i have my language:我有我的語言
+i have my language:我有我的语言
 i have my leave:我有我的离开
 i have my lebanon:我有我的黎巴嫩
 i have my legs:我有我的腿
@@ -10331,7 +10254,7 @@ i have no data:我没有数据
 i have no daughter:我没有女儿
 i have no debt:我没有债务
 i have no design:我没有设计
-i have no desire:我没有慾望
+i have no desire:我没有欲望
 i have no desire:我没有渴望
 i have no direct knowledge:我没有直接的知识
 i have no direct:我没有直接的
@@ -10503,7 +10426,6 @@ i have no ranking:我没有排名
 i have no record:我没有记录
 i have no refrigerator:我没有冰箱
 i have no regret:我没有后悔
-i have no regret:我没有後悔
 i have no relative:我没有亲人
 i have no religion:我没有宗教
 i have no research:我没有研究
@@ -10592,7 +10514,7 @@ i have no worldview:我没有世界观
 i have no writing:我没有写作
 i have no yellow:我没有黄色
 i have no:我没有
-i have nothing:我有無
+i have nothing:我有无
 i have obligation:我有义务
 i have officials:我有官员
 i have once hate:我有一次恨
@@ -10663,15 +10585,14 @@ i have principles:我有原则
 i have privacy:我有隐私
 i have privilege:我有特权
 i have problem-solving:我有解决问题
-i have problem:我有問題
 i have problem:我有问题
 i have problems:我有问题
 i have professional experience:我有专业的经验
 i have professional:我有专业
 i have professional:我有专业的
 i have professor:我有教授
-i have proof:我有證明
 i have proof:我有证据
+i have proof:我有证明
 i have proposed:我有提出
 i have purple:我有紫色
 i have purpose:我有目的
@@ -10683,7 +10604,7 @@ i have quote:我有引用
 i have reasonable debt:我有合理的债务
 i have reasonable:我有合理的
 i have reasons:我有原因
-i have receipt:我有收據
+i have receipt:我有收据
 i have receive:我有收到
 i have recommend:我有建议
 i have recommended:我有建议
@@ -10710,7 +10631,7 @@ i have select:我有选择
 i have self-confidence:我有自信
 i have selfish:我有自私的
 i have sensitive nipple:我有敏感的乳头
-i have sensitive skin:我有敏感的皮膚
+i have sensitive skin:我有敏感的皮肤
 i have sensitive:我有敏感的
 i have service:我有服务
 i have set:我有设置
@@ -10757,7 +10678,6 @@ i have sleep anxiety:我有睡眠焦虑
 i have sleep:我有睡眠
 i have snack:我有零食
 i have so:我有如此
-i have social anxiety:我有社交焦慮
 i have social anxiety:我有社交焦虑
 i have social:我有社交
 i have socks:我有袜子
@@ -10766,7 +10686,7 @@ i have some abilities:我有一些能力
 i have some ability:我有一些能力
 i have some account:我有一些账户
 i have some answers:我有一些答案
-i have some bad habit:我有一些壞習慣
+i have some bad habit:我有一些坏习惯
 i have some bad news:我有一些坏消息
 i have some books:我有一些书
 i have some bread:我有一些面包
@@ -10913,7 +10833,7 @@ i have time:我有时间
 i have to talk to you:我得和你谈谈
 i have tom:我有汤姆
 i have tools:我有工具
-i have tooth:我有牙齒
+i have tooth:我有牙齿
 i have towards:我有对
 i have toy:我有玩具
 i have train ticket:我有火车票
@@ -10979,7 +10899,7 @@ i have your money:我有你的钱
 i have your permission:我有你的许可
 i have your phone:我有你的电话
 i have your results:我有你的结果
-i have your sheep:我有你的綿羊
+i have your sheep:我有你的绵羊
 i have your thing:我有你的东西
 i have your tongue:我有你的舌
 i have your video:我有你的视频
@@ -10995,11 +10915,11 @@ i hear foot:我听脚
 i hear him:我听他
 i hear music when i:我听音乐当我
 i hear say i:我听说我
-i hear the sunspot:聽見向陽之聲
+i hear the sunspot:听见向阳之声
 i hear this:我听这
 i hear you say:我听你说
 i hear:我听
-i heard you paint houses:我聽說你漆房子
+i heard you paint houses:我听说你漆房子
 i heart:我心
 i heart:我心脏
 i help at home:我帮助在家里
@@ -11082,7 +11002,6 @@ i hope baidu:我希望百度
 i hope beijing:我希望北京
 i hope belgrade:我希望贝尔格莱德
 i hope bill:我希望比尔
-i hope bill:我希望比爾
 i hope bitcoin be:我希望比特币成为
 i hope bitcoin:我希望比特币
 i hope bosideng brand:我希望波司登品牌
@@ -11097,7 +11016,6 @@ i hope cheese:我希望奶酪
 i hope children:我希望孩子们
 i hope china will:我希望中国会
 i hope china:我希望中国
-i hope china:我希望中國
 i hope chinese people:我希望中国人民
 i hope chinese president:我希望中国国家主席
 i hope chinese:我希望中国人
@@ -11344,19 +11262,17 @@ i hope my chinese:我希望我的中文
 i hope my choice:我希望我的选择
 i hope my colleagues:我希望我的同事
 i hope my comment:我希望我的评论
-i hope my commitment:我希望我的承諾
+i hope my commitment:我希望我的承诺
 i hope my company:我希望我的公司
 i hope my country:我希望我的国家
 i hope my dad:我希望我的爸爸
 i hope my daughter:我希望我的女儿
-i hope my daughter:我希望我的女兒
 i hope my death:我希望我的死
 i hope my death:我希望我的死亡
 i hope my dinner:我希望我的晚餐
 i hope my doctor:我希望我的医生
 i hope my doubt:我希望我的怀疑
 i hope my dreams:我希望我的梦想
-i hope my experience:我希望我的經驗
 i hope my experience:我希望我的经验
 i hope my explanation:我希望我的解释
 i hope my face:我希望我的脸
@@ -11723,12 +11639,10 @@ i hope we shall:我希望我们将
 i hope we will continue these:我希望我们将继续这些
 i hope we will never:我希望我们永远不会
 i hope we will:我希望我们会
-i hope we will:我希望我們將
-i hope we will:我希望我們會
+i hope we will:我希望我们将
 i hope we win:我希望我们赢得
 i hope we'll:我希望我们会
 i hope we:我希望我们
-i hope we:我希望我們
 i hope when i:我希望当我
 i hope when we:我希望当我们
 i hope when you:我希望当你
@@ -11913,18 +11827,17 @@ i how to:我如何
 i hug all:我拥抱所有的
 i hug bob:我拥抱鲍伯
 i hug:我拥抱
-i hug:我擁抱
 i humor them:我幽默他们
 i humor:我幽默
 i hunger:我饥饿
 i hungry:我饿
 i hunt:我猎杀
-i huor yien:憶華園
+i huor yien:忆华园
 i hurt you many:我伤害你很多
 i hurt you:我伤害你
 i hurt:我伤害
 i husband:我丈夫
-i húa yíen:憶華園
+i húa yíen:忆华园
 i i have many:我我有很多
 i i:我我
 i ideal:我理想
@@ -11979,12 +11892,11 @@ i interrupt him:我打断他
 i interrupt his work:我打断他的工作
 i interrupt their conversation:我打断他们的对话
 i interrupt:我中断
-i interrupt:我中斷
 i interrupt:我打断
 i interview them:我采访他们
 i interview with:我采访
 i interview:我采访
-i interview:我面談
+i interview:我面谈
 i into:我进入
 i introduce:我介绍
 i intuitively:我直觉地
@@ -12024,16 +11936,13 @@ i is the united states navy:我是美国海军
 i is useful:我是有用的
 i is william:我是威廉
 i january:我一月
-i jehovah:我耶和華
+i jehovah:我耶和华
 i jest wish i know:我玩笑希望我知道
 i jest wish i:我玩笑希望我
 i jest:我玩笑
 i jesus christ:我耶稣基督
-i jesus christ:我耶穌基督
 i jesus:我耶稣
-i jesus:我耶穌
 i john ii:我约翰二世
-i john:我約翰
 i john:我约翰
 i jolin tsai:我蔡依林
 i journey:我旅行
@@ -12108,7 +12017,7 @@ i just describe:我只是描述
 i just design beer:我只是设计啤酒
 i just design:我只是设计
 i just destroy:我只是摧毁
-i just didn't do it:即使這樣也不是我做的
+i just didn't do it:即使这样也不是我做的
 i just discover:我只是发现
 i just do it:我只是做它
 i just do my work:我只是做我的工作
@@ -12287,11 +12196,8 @@ i just love him:我只是爱他
 i just love my country:我只是爱我的国家
 i just love them:我只是爱他们
 i just love this:我只爱这
-i just love you:我只愛你
 i just love you:我只是爱你
 i just love you:我只爱你
-i just love:我只愛
-i just love:我只是愛
 i just love:我只是爱
 i just love:我只爱
 i just make it clear:我只是说清楚
@@ -12310,7 +12216,7 @@ i just need company:我只是需要公司
 i just need courage:我只是需要勇气
 i just need help:我只需要帮助
 i just need it:我只是需要它
-i just need jesus:我只需要耶穌
+i just need jesus:我只需要耶稣
 i just need meat:我只是需要肉
 i just need more:我只需要更多
 i just need my mother:我只是需要我的母亲
@@ -12584,26 +12490,26 @@ i kick ball:我踢球
 i kick:我踢
 i kidnap:我绑架
 i kill giant:我杀巨人
-i kill giants:我殺死了巨人
+i kill giants:我杀死了巨人
 i kill them:我杀他们
 i kill you:我杀你
 i kill:我杀
-i killed my mother:殺死我阿媽
+i killed my mother:杀死我阿妈
 i king:我国王
-i kiribati:吉爾伯特人
+i kiribati:吉尔伯特人
 i kiss all beautiful:我吻所有美丽的
 i kiss her face:我吻她的脸
 i kiss him:我吻他
-i kiss myself:我親吻我自己
-i kiss you one:我親吻你一
+i kiss myself:我亲吻我自己
+i kiss you one:我亲吻你一
+i kiss you:我亲吻你
 i kiss you:我吻你
-i kiss you:我親吻你
 i kiss your hand:我吻你的手
+i kiss:我亲吻
 i kiss:我吻
-i kiss:我親吻
-i kissed a girl:親了一個拉拉
+i kissed a girl:亲了一个拉拉
 i knee:我膝
-i knew you were trouble:我知道你是大麻煩
+i knew you were trouble:我知道你是大麻烦
 i knock:我敲
 i know a better direction:我知道一个更好的方向
 i know a better:我知道一个更好的
@@ -12638,7 +12544,7 @@ i know about your wife:我知道关于你的妻子
 i know about:我知道关于
 i know about:我知道大约
 i know abu:我知道阿布
-i know actor:我知道演員
+i know actor:我知道演员
 i know alice:我知道爱丽丝
 i know all about it:我知道所有关于它
 i know all about scholar:我知道所有关于学者
@@ -12674,7 +12580,6 @@ i know and love:我知道和爱
 i know and respect:我知道和尊重
 i know andy:我知道安迪
 i know anger:我知道愤怒
-i know anger:我知道憤怒
 i know animals:我知道动物
 i know another:我知道另一个
 i know any:我知道任何
@@ -12731,7 +12636,6 @@ i know chemistry:我知道化学
 i know chicago:我知道芝加哥
 i know chicken:我知道鸡
 i know china:我知道中国
-i know china:我知道中國
 i know chinese numbers:我知道中文数字
 i know chinese:我知道中文
 i know chris:我知道克里斯
@@ -12812,7 +12716,6 @@ i know god has:我知道上帝有
 i know god is my:我知道上帝是我的
 i know god just:我知道神只
 i know god knows:我知道神知道
-i know god love:我知道上帝愛
 i know god love:我知道上帝爱
 i know god will use:我知道神会使用
 i know god will:我知道上帝会
@@ -12848,7 +12751,6 @@ i know he kill:我知道他杀
 i know he knows:我知道他知道
 i know he like:我知道他喜欢
 i know he look:我知道他看
-i know he love:我知道他愛
 i know he love:我知道他爱
 i know he means:我知道他意味着
 i know he need:我知道他需要
@@ -12930,7 +12832,6 @@ i know his hat:我知道他的帽子
 i know his heart:我知道他的心
 i know his intent:我知道他的意图
 i know his level:我知道他的水平
-i know his love:我知道他的愛
 i know his love:我知道他的爱
 i know his mother:我知道他的母亲
 i know his name is chris:我知道他的名字是克里斯
@@ -13082,7 +12983,7 @@ i know i have:我知道我有
 i know i hesitate:我知道我犹豫
 i know i hurt:我知道我伤害
 i know i kill:我知道我杀
-i know i kiss:我知道我親吻
+i know i kiss:我知道我亲吻
 i know i know:我知道我知道
 i know i like it:我知道我喜欢它
 i know i like:我知道我喜欢
@@ -13205,9 +13106,7 @@ i know its origin:我知道它的起源
 i know its:我知道它的
 i know jennifer:我知道珍妮佛
 i know jesus:我知道耶稣
-i know jesus:我知道耶穌
 i know joe:我知道乔
-i know john:我知道約翰
 i know john:我知道约翰
 i know jonathan:我知道乔纳森
 i know journalists:我知道记者
@@ -13231,7 +13130,6 @@ i know light bulb:我知道电灯
 i know lighting:我知道照明
 i know london:我知道伦敦
 i know love and lust:我知道爱和欲望
-i know love:我知道愛
 i know love:我知道爱
 i know man:我知道男人
 i know manhattan:我知道曼哈顿
@@ -13240,7 +13138,7 @@ i know many american:我知道许多美国人
 i know many artists:我知道很多艺术家
 i know many artists:我知道许多艺术家
 i know many blog:我知道很多博客
-i know many catholic:我知道許多天主教
+i know many catholic:我知道许多天主教
 i know many chinese:我知道很多中国人
 i know many families:我知道很多家庭
 i know many friends:我知道很多朋友
@@ -13263,7 +13161,7 @@ i know many things:我知道很多事情
 i know many things:我知道许多事情
 i know many women:我知道很多女人
 i know many:我知道很多
-i know many:我知道許多
+i know many:我知道许多
 i know marriage:我知道婚姻
 i know mary:我知道玛丽
 i know me:我知道我
@@ -13286,7 +13184,6 @@ i know most women:我知道大多数女人
 i know most:我知道大多数
 i know mother needs:我知道母亲需要
 i know mother:我知道母亲
-i know mother:我知道母親
 i know much:我知道许多
 i know murder:我知道谋杀
 i know music:我知道音乐
@@ -13325,7 +13222,7 @@ i know my duty:我知道我的责任
 i know my efforts:我知道我的努力
 i know my equipment:我知道我的设备
 i know my experience:我知道我的经验
-i know my explanation:我知道我的解釋
+i know my explanation:我知道我的解释
 i know my eyes:我知道我的眼睛
 i know my faith:我知道我的信仰
 i know my fate:我知道我的命运
@@ -13534,7 +13431,7 @@ i know she intend:我知道她打算
 i know she is human:我知道她是人类
 i know she just:我知道她只
 i know she like:我知道她喜欢
-i know she love:我知道她愛
+i know she love:我知道她爱
 i know she read:我知道她读
 i know she real:我知道她真的
 i know she remember:我知道她记得
@@ -13766,7 +13663,6 @@ i know we always:我知道我们总是
 i know we are all:我知道我们都是
 i know we are going to:我知道我们将
 i know we cannot:我知道我们不能
-i know we cannot:我知道我們不能
 i know we could:我知道我们可以
 i know we do:我知道我们做
 i know we don't:我知道我们不
@@ -13778,7 +13674,6 @@ i know we have no:我知道我们没有
 i know we have some issues:我知道我们有一些问题
 i know we have some:我知道我们有一些
 i know we have to:我知道我们必须
-i know we have to:我知道我們必須
 i know we just:我知道我们只
 i know we just:我知道我们只是
 i know we know this:我知道我们知道这
@@ -13806,7 +13701,6 @@ i know we women:我知道我们女人
 i know we would:我知道我们将
 i know we'll:我知道我们会
 i know we:我知道我们
-i know we:我知道我們
 i know what happened to him:我知道他发生了什么事
 i know what happened:我知道发生了什么
 i know what i can do:我知道我所能做的
@@ -13827,7 +13721,6 @@ i know what you need:我了解妳的需要
 i know what you want:我知道你想要什么
 i know what you:我知道什么你
 i know what:我知道什么
-i know what:我知道什麼
 i know when he:我知道当他
 i know when i first:我知道当我第一次
 i know when i like a person:我知道当我喜欢一个人
@@ -13870,7 +13763,6 @@ i know why you have come:我知道为什么你有来
 i know why you:我知道为什么你
 i know why:我知道为什么
 i know why:我知道为何
-i know why:我知道為什麼
 i know will come:我知道会来
 i know will never:我知道永远不会
 i know will push:我知道将推
@@ -13921,7 +13813,7 @@ i know you ask:我知道你问
 i know you been:我知道你已经
 i know you believe:我知道你相信
 i know you betray:我知道你背叛
-i know you buy:我知道你買
+i know you buy:我知道你买
 i know you can believe:我知道你可以相信
 i know you can do all:我知道你可以做所有
 i know you can do four:我知道你可以做四
@@ -14000,15 +13892,12 @@ i know you like women:我知道你喜欢女人
 i know you like:我知道你们喜欢
 i know you like:我知道你喜欢
 i know you look:我知道你看
-i know you love him:我知道你愛他
 i know you love him:我知道你爱他
 i know you love jesus:我知道你爱耶稣
-i know you love me:我知道你愛我
 i know you love me:我知道你爱我
 i know you love them:我知道你爱他们
 i know you love this:我知道你爱这
 i know you love you:我知道你爱你
-i know you love:我知道你愛
 i know you love:我知道你爱
 i know you mention:我知道你提到
 i know you might not like:我知道你可能不喜欢
@@ -14058,12 +13947,11 @@ i know you think only she:我知道你认为只有她
 i know you think that:我知道你认为那
 i know you think you are right:我知道你认为你是对的
 i know you think you:我知道你以为你
-i know you think you:我知道你認為你
+i know you think you:我知道你认为你
 i know you think:我知道你以为
 i know you think:我知道你们认为
 i know you think:我知道你想
 i know you think:我知道你觉得
-i know you think:我知道你認為
 i know you think:我知道你认为
 i know you told me:我知道你告诉过我
 i know you want change:我知道你想要改变
@@ -14106,7 +13994,7 @@ i know you'll think this:我知道你会认为这
 i know you'll:我知道你们会
 i know you'll:我知道你会
 i know you'll:我知道你将
-i know you're feeling blue:我知道你很難過
+i know you're feeling blue:我知道你很难过
 i know you:我知道你
 i know you:我知道你们
 i know you:我知道您
@@ -14127,7 +14015,7 @@ i know your expectations:我知道你们的期望
 i know your eyes:我知道你的眼睛
 i know your face:我知道你的脸
 i know your father:我知道你的父亲
-i know your feeling:我知道你的感覺
+i know your feeling:我知道你的感觉
 i know your forest:我知道你的森林
 i know your freedom:我知道你的自由
 i know your game:我知道你的游戏
@@ -14150,7 +14038,6 @@ i know your parents:我知道你的父母
 i know your path:我知道你的路径
 i know your plan:我知道你的计划
 i know your plans:我知道你的计划
-i know your poverty:我知道你的貧窮
 i know your poverty:我知道你的贫穷
 i know your problem:我知道你的问题
 i know your purpose:我知道你的目的
@@ -14171,11 +14058,10 @@ i know your work:我知道你的工作
 i know your:我知道你们的
 i know your:我知道你的
 i know zoo:我知道动物园
-i know zoo:我知道動物園
 i know:我知道
 i knows it:我知道它
 i knows:我知道
-i lack courage:我缺乏勇氣
+i lack courage:我缺乏勇气
 i lack imagination:我缺乏想象
 i lack knowledge:我缺乏知识
 i lack strength:我缺乏力量
@@ -14196,7 +14082,7 @@ i learn how to:我学习如何
 i learn or get:我学习或得到
 i learn your language:我学习你的语言
 i learn:我学习
-i learned from the best:你教會了我
+i learned from the best:你教会了我
 i leave a place:我离开一个地方
 i leave adam:我离开亚当
 i leave another voice:我离开另一个语音
@@ -14325,11 +14211,10 @@ i lift my hand:我举起我的手
 i lift my lamp:我举起我的灯
 i lift my:我举起我的
 i lift:我举起
-i liga:波蘭足球乙級聯賽
+i liga:波兰足球乙级联赛
 i light debugging:我光调试
 i light:我光
 i lighting:概念灯饰灯掣专门店
-i lighting:概念燈飾燈掣專門店
 i like a book:我喜欢一本书
 i like a girl:我喜欢一个女孩
 i like a girl:我喜欢一个女生
@@ -14936,7 +14821,7 @@ i listen to others:我听到其他人
 i listen to their:我听到他们的
 i listen to them:我听到他们
 i listen:我听
-i live in fear:生者的紀錄
+i live in fear:生者的纪录
 i live:我活的
 i living:我活
 i lo fen:衣若芬
@@ -14954,7 +14839,7 @@ i love a girl:我爱一个女孩
 i love a man:我爱一个男人
 i love a woman:我爱一个女人
 i love adventure:我爱冒险
-i love african:我愛非洲
+i love african:我爱非洲
 i love alcohol:我爱酒精
 i love alice:我爱爱丽丝
 i love all animals:我爱所有的动物
@@ -14963,7 +14848,6 @@ i love all car:我爱所有的汽车
 i love all color:我爱所有的颜色
 i love all religion:我爱所有宗教
 i love all seafood:我爱所有的海鲜
-i love all:我愛所有
 i love all:我爱所有
 i love all:我爱所有的
 i love amazon:我爱亚马逊
@@ -14979,7 +14863,6 @@ i love and trust:我爱和信任
 i love animals:我爱动物
 i love anna:我爱安娜
 i love anne:我爱安妮
-i love any:我愛任何
 i love any:我爱任何
 i love anyone:我爱任何人
 i love apple:我爱苹果
@@ -14988,7 +14871,6 @@ i love australia:我爱澳大利亚
 i love band:我爱乐队
 i love barcelona:我爱巴塞罗那
 i love basketball:我爱篮球
-i love beauty:我愛美
 i love beauty:我爱美
 i love bee:我爱蜜蜂
 i love beer:我爱啤酒
@@ -15002,40 +14884,32 @@ i love birthday:我爱生日
 i love bitcoin:我爱比特币
 i love black:我爱黑色
 i love blogs:我爱博客
-i love blue:我愛藍色
 i love blue:我爱蓝色
 i love books:我爱书
 i love boston:我爱波士顿
-i love brazil:我愛巴西
 i love brazil:我爱巴西
 i love bright color:我爱明亮的颜色
 i love britain:我爱英国
 i love brother martin:我爱兄弟马丁
 i love california:我爱加利福尼亚
-i love canada:我愛加拿大
 i love canada:我爱加拿大
 i love capitalism:我爱资本主义
 i love carrot:我爱胡萝卜
 i love cat:我爱猫
-i love chemistry:我愛化學
-i love chicago:我愛芝加哥
+i love chemistry:我爱化学
 i love chicago:我爱芝加哥
 i love children and families:我爱孩子和家庭
 i love children and family:我爱孩子和家庭
 i love children and life:我爱孩子和生活
-i love children:我愛孩子
 i love children:我爱儿童
 i love children:我爱孩子
 i love children:我爱孩子们
 i love chile:我爱智利
-i love china:我愛中國
 i love china:我爱中国
 i love chinese people:我爱中国人民
-i love chocolate:我愛巧克力
 i love chocolate:我爱巧克力
 i love christmas:我爱圣诞节
 i love clown:我爱小丑
-i love coffee:我愛咖啡
 i love coffee:我爱咖啡
 i love columbia:我爱哥伦比亚
 i love comedy:我爱喜剧
@@ -15043,18 +14917,15 @@ i love community:我爱社区
 i love cross:我爱穿越
 i love cycling:我爱骑车
 i love dad:我爱爸爸
-i love daddy:我愛爸爸
+i love daddy:我爱爸爸
 i love david:我爱大卫
 i love death:我爱死
 i love death:我爱死亡
 i love democracy:我爱民主
 i love denmark:我爱丹麦
-i love design:我愛設計
 i love design:我爱设计
 i love diamond:我爱钻石
-i love dick:我愛迪克
 i love dick:我爱迪克
-i love dog:我愛狗
 i love dog:我爱狗
 i love drum:我爱鼓
 i love egypt:我爱埃及
@@ -15068,33 +14939,28 @@ i love every man:我爱每一个男人
 i love every soul:我爱每一个灵魂
 i love everything:我爱一切
 i love experiment:我爱实验
-i love family life:我愛家庭生活
+i love family life:我爱家庭生活
 i love farmer:我爱农民
 i love ferguson:我爱弗格森
 i love film:我爱电影
 i love florence tower:我爱佛罗伦萨塔
 i love florence:我爱佛罗伦萨
 i love florida:我爱佛罗里达
-i love flower:我愛花
 i love flower:我爱花
 i love fly:我爱飞
 i love food:我爱食物
-i love football:我愛足球
 i love football:我爱足球
 i love france:我爱法国
 i love function type:我爱函数类型
 i love germany:我爱德国
 i love glasgow:我爱格拉斯哥
-i love god:我愛上帝
-i love god:我愛神
 i love god:我爱上帝
 i love god:我爱神
-i love gold:我愛金子
+i love gold:我爱金子
 i love grape:我爱葡萄
 i love green:我爱绿色
-i love guitar:我愛吉他
-i love gushan bridge:我愛鼓山橋
-i love hamburger:我愛漢堡包
+i love guitar:我爱吉他
+i love gushan bridge:我爱鼓山桥
 i love hamburger:我爱汉堡包
 i love harvard:我爱哈佛
 i love henry:我爱亨利
@@ -15106,20 +14972,19 @@ i love her food:我爱她的食物
 i love her home:我爱她的家
 i love her laughter:我爱她的笑
 i love her mouth:我爱她的嘴
-i love her name:我愛她的名字
+i love her name:我爱她的名字
 i love her package:我爱她的包
 i love her presence:我爱她的存在
 i love her ring:我爱她的戒指
 i love her true:我爱她的真
 i love here:我爱这里
-i love high tech:我愛高科技
+i love high tech:我爱高科技
 i love him as a person:我爱他作为一个人
 i love him beyond:我爱他超过
 i love him but he:我爱他但他
 i love him just like:我爱他就像
 i love him just:我爱他只
 i love him more than:我爱他超过
-i love him:我愛他
 i love him:我爱他
 i love his body:我爱他的身体
 i love his courage:我爱他的勇气
@@ -15128,23 +14993,20 @@ i love his film:我爱他的电影
 i love his food:我爱他的食物
 i love his football:我爱他的足球
 i love his french:我爱他的法国
-i love his humour:我愛他的幽默
+i love his humour:我爱他的幽默
 i love his kids:我爱他的孩子
 i love his music:我爱他的音乐
-i love his shoe:我愛他的鞋
+i love his shoe:我爱他的鞋
 i love his tail:我爱他的尾
 i love his whole:我爱他的整个
 i love his world:我爱他的世界
 i love hitler:我爱希特勒
-i love hong kong:我愛香港
 i love hong kong:我爱香港
 i love hot dog:我爱热狗
 i love how:我爱如何
 i love human beings:我爱人类
-i love hunting:我愛狩獵
-i love i have courage:我愛我有勇氣
+i love hunting:我爱狩猎
 i love i have courage:我爱我有勇气
-i love i:我愛我
 i love i:我爱我
 i love iceland:我爱冰岛
 i love immigrants:我爱移民
@@ -15153,13 +15015,11 @@ i love innovation:我爱创新
 i love invent:我爱发明
 i love invention:我爱发明
 i love iran:我爱伊朗
-i love iraq:我愛伊拉克
+i love iraq:我爱伊拉克
 i love ireland:我爱爱尔兰
 i love islamic state:我爱伊斯兰国
-i love israel:我愛以色列
 i love israel:我爱以色列
 i love it more than:我爱它超过
-i love it:我愛它
 i love it:我爱它
 i love italian wine:我爱意大利葡萄酒
 i love italy:我爱意大利
@@ -15170,29 +15030,23 @@ i love jack:我爱杰克
 i love jackson:我爱杰克逊
 i love japan:我爱日本
 i love jessica:我爱杰西卡
-i love jesus christ:我愛耶穌基督
 i love jesus christ:我爱耶稣基督
-i love jesus:我愛耶穌
 i love jesus:我爱耶稣
 i love jews:我爱犹太人
 i love jimmy:我爱吉米
 i love joe:我爱乔
 i love john:我爱约翰
-i love kids:我愛孩子
 i love kids:我爱孩子
 i love kids:我爱孩子们
-i love king's cross:我愛國王十字
+i love king's cross:我爱国王十字
 i love learning:我爱学习
-i love lee taly:我愛李太利
+i love lee taly:我爱李太利
 i love lee:我爱李
 i love leonardo:我爱莱昂纳多
-i love letter:我愛字母
-i love liberty:我愛自由
+i love letter:我爱字母
 i love liberty:我爱自由
-i love life:我愛生活
 i love life:我爱生命
 i love life:我爱生活
-i love liverpool:我愛利物浦
 i love liverpool:我爱利物浦
 i love ljubljana:我爱卢布尔雅那
 i love loki:我爱洛基
@@ -15204,26 +15058,22 @@ i love louisiana:我爱路易斯安那州
 i love love love:我爱爱爱
 i love love:我爱爱
 i love lucy:我爱露茜
-i love lunch:我愛午餐
-i love macaron:我愛馬卡龍
+i love lunch:我爱午餐
+i love macaron:我爱马卡龙
 i love machine:我爱机器
 i love madison:我爱麦迪逊
 i love malaysia:我爱马来西亚
-i love mankind:我愛人類
 i love mankind:我爱人类
-i love maria:鐵甲無敵瑪利亞
+i love maria:铁甲无敌玛利亚
 i love martin:我爱马丁
 i love math:我爱数学
 i love me some:我爱我一些
-i love me:我愛我
 i love me:我爱我
 i love melbourne:我爱墨尔本
 i love men and women:我爱男人和女人
 i love metal:我爱金属
 i love metaphor:我爱隐喻
-i love mexican people:我愛墨西哥人民
 i love mexican people:我爱墨西哥人民
-i love mexico city:我愛墨西哥城
 i love mexico city:我爱墨西哥城
 i love miami:我爱迈阿密
 i love michael:我爱迈克尔
@@ -15247,13 +15097,11 @@ i love my boyfriend:我爱我的男朋友
 i love my bronze medal:我爱我的铜牌
 i love my brother:我爱我的兄弟
 i love my brothers:我爱我的兄弟们
-i love my business:我愛我的生意
+i love my business:我爱我的生意
 i love my car:我爱我的车
 i love my career:我爱我的事业
 i love my cat:我爱我的猫
-i love my child:我愛我的孩子
 i love my child:我爱我的孩子
-i love my children:我愛我的孩子
 i love my children:我爱我的孩子
 i love my children:我爱我的孩子们
 i love my christmas tree:我爱我的圣诞树
@@ -15265,7 +15113,6 @@ i love my country:我爱我的国家
 i love my dad:我爱我的爸爸
 i love my daughter more than:我爱我的女儿超过
 i love my daughter:我爱我的女儿
-i love my dog:我愛我的狗
 i love my dog:我爱我的狗
 i love my encyclopedia:我爱我的百科全书
 i love my english:我爱我的英语
@@ -15277,14 +15124,11 @@ i love my father:我爱我的父亲
 i love my fish:我爱我的鱼
 i love my five:我爱我的五
 i love my flag:我爱我的旗
-i love my friend:我愛我的朋友
 i love my friend:我爱我的朋友
-i love my friends:我愛我的朋友
 i love my friends:我爱我的朋友
 i love my friends:我爱我的朋友们
 i love my future:我爱我的未来
 i love my garden:我爱我的花园
-i love my girlfriend:我愛我的女朋友
 i love my girlfriend:我爱我的女朋友
 i love my god:我爱我的上帝
 i love my hair:我爱我的头发
@@ -15292,44 +15136,36 @@ i love my heart:我爱我的心
 i love my high school:我爱我的高中
 i love my home:我爱我的家
 i love my homeland:我爱我的祖国
-i love my husband:我愛我的丈夫
 i love my husband:我爱我的丈夫
 i love my island:我爱我的岛
-i love my job:我愛我的職業
 i love my job:我爱我的职业
-i love my kids:我愛我的孩子
 i love my kids:我爱我的孩子
 i love my kids:我爱我的孩子们
 i love my laptop:我爱我的笔记本电脑
-i love my life:我愛我的生命
-i love my life:我愛我的生活
+i love my life:我爱我的生命
 i love my life:我爱我的生活
 i love my love:我爱我的爱
 i love my man:我爱我的男人
 i love my manager:我爱我的经理
 i love my mom:我爱我的妈妈
-i love my mother:我愛我的母親
 i love my mother:我爱我的母亲
 i love my motherland:我爱我的祖国
 i love my music:我爱我的音乐
 i love my office:我爱我的办公室
-i love my parents:我愛我的父母
 i love my parents:我爱我的父母
 i love my penis:我爱我的阴茎
 i love my reader:我爱我的读者
-i love my room:我愛我的房間
+i love my room:我爱我的房间
 i love my school:我爱我的学校
 i love my sheep:我爱我的绵羊
 i love my shoulder:我爱我的肩
-i love my son:我愛我的兒子
 i love my son:我爱我的儿子
 i love my state:我爱我的国家
 i love my students:我爱我的学生
 i love my students:我爱我的学生们
 i love my teach:我爱我的教
 i love my team:我爱我的队
-i love my tears:我愛我的淚
-i love my three:我愛我的三
+i love my tears:我爱我的泪
 i love my three:我爱我的三
 i love my tibet:我爱我的西藏
 i love my toy:我爱我的玩具
@@ -15337,20 +15173,15 @@ i love my toyota:我爱我的丰田
 i love my university:我爱我的大学
 i love my washing machine:我爱我的洗衣机
 i love my watch:我爱我的手表
-i love my wife:我愛我的妻子
 i love my wife:我爱我的妻子
-i love my work:我愛我的工作
 i love my work:我爱我的工作
 i love my yogurt:我爱我的酸奶
-i love my:我愛我的
 i love my:我爱我的
 i love myself when i:我爱我自己当我
-i love myself:我愛我自己
 i love myself:我爱我自己
 i love mythology:我爱神话
 i love nash:我爱纳什
 i love natural sciences:我爱自然科学
-i love nature:我愛大自然
 i love nature:我爱大自然
 i love nature:我爱自然
 i love netherlands:我爱荷兰
@@ -15362,7 +15193,7 @@ i love new york:我爱纽约
 i love new zealand:我爱新西兰
 i love newcastle:我爱纽卡斯尔
 i love nicole:我爱妮科尔
-i love night market:我愛夜市
+i love night market:我爱夜市
 i love no one but you:我爱没有人但你
 i love october:我爱十月
 i love ohio:我爱俄亥俄州
@@ -15375,7 +15206,6 @@ i love our national anthem:我爱我们的国歌
 i love our pet:我爱我们的宠物
 i love our species:我爱我们的物种
 i love our spirit:我爱我们的精神
-i love paris:我愛巴黎
 i love paris:我爱巴黎
 i love patients:我爱病人
 i love peace:我爱和平
@@ -15390,16 +15220,15 @@ i love poetry:我爱诗歌
 i love pollution:我爱污染
 i love president:我爱总统
 i love pressure:我爱压力
-i love pumpkin:我愛南瓜
 i love pumpkin:我爱南瓜
 i love rabbit:我爱兔
 i love read i:我爱读我
-i love reading:我愛閱讀
+i love reading:我爱阅读
 i love research:我爱研究
 i love rome:我爱罗马
-i love rose garden:我愛玫瑰園
+i love rose garden:我爱玫瑰园
 i love rose:我爱玫瑰
-i love running:我愛跑步
+i love running:我爱跑步
 i love russia:我爱俄罗斯
 i love scandal:我爱丑闻
 i love science:我爱科学
@@ -15411,16 +15240,14 @@ i love simple:我爱简单
 i love singapore:我爱新加坡
 i love snow:我爱雪
 i love soup:我爱汤
-i love spain:我愛西班牙
 i love spain:我爱西班牙
 i love sports:我爱运动
 i love sri lanka:我爱斯里兰卡
-i love starbucks:我愛星巴克
 i love starbucks:我爱星巴克
 i love strawberry cake:我爱草莓蛋糕
 i love study:我爱学习
 i love sunday:我爱星期天
-i love swimming:我愛游泳
+i love swimming:我爱游泳
 i love taimei:我爱台妹
 i love teach:我爱教
 i love technology:我爱技术
@@ -15428,13 +15255,12 @@ i love tennis:我爱网球
 i love texas:我爱德克萨斯州
 i love thai:我爱泰国
 i love thailand:我爱泰国
-i love that crazy little thing:那件瘋狂的小事叫愛情
+i love that crazy little thing:那件瘋狂的小事叫爱情
 i love that person:我爱那个人
-i love that:我愛那
 i love that:我爱那
 i love the beautiful:我爱这美丽的
 i love the guy:我爱这家伙
-i love the little prince:我愛小王子
+i love the little prince:我爱小王子
 i love the motherland's blue skies:我爱祖国的蓝天
 i love the night:我爱这夜
 i love the united nations:我爱联合国
@@ -15442,7 +15268,6 @@ i love the united states:我爱美国
 i love the white house:我爱白宫
 i love the world:我爱这世界
 i love the:我爱这
-i love thee:我愛你
 i love thee:我爱你
 i love their answers:我爱他们的答案
 i love them all:我爱他们所有
@@ -15483,12 +15308,10 @@ i love those:我爱那些
 i love three:我爱三
 i love tom:我爱汤姆
 i love toronto:我爱多伦多
-i love tosca:我愛托斯卡
 i love tosca:我爱托斯卡
 i love tour:我爱旅游
-i love toy:我愛玩具
+i love toy:我爱玩具
 i love train:我爱火车
-i love travel:我愛旅行
 i love travel:我爱旅行
 i love tree:我爱树
 i love trump:我爱特朗普
@@ -15500,7 +15323,7 @@ i love venice:我爱威尼斯
 i love vermont:我爱佛蒙特州
 i love wallpaper:我爱壁纸
 i love washington:我爱华盛顿
-i love water:我愛水
+i love water:我爱水
 i love wheel:我爱轮子
 i love white people:我爱白人
 i love wiki:我爱维基
@@ -15519,7 +15342,7 @@ i love you all:我爱你们所有
 i love you all:我爱你们所有的
 i love you all:我爱你所有
 i love you america:我爱你美国
-i love you and all people:我愛你和所有的人
+i love you and all people:我爱你和所有的人
 i love you and your people:我爱你和你的人民
 i love you and your team:我爱你和你的团队
 i love you and your work:我爱你和你的工作
@@ -15535,7 +15358,6 @@ i love you brighton:我爱你布赖顿
 i love you brother:我爱你兄弟
 i love you but cannot:我爱你但不能
 i love you but i:我爱你但我
-i love you china:我愛你中國
 i love you china:我爱你中国
 i love you david:我爱你大卫
 i love you for all:我爱你为了所有
@@ -15544,20 +15366,18 @@ i love you from my soul:我爱你从我的灵魂
 i love you from:我爱你从
 i love you game:我爱你游戏
 i love you happy birthday:我爱你生日快乐
-i love you hereafter:現在開始我愛你
+i love you hereafter:现在开始我爱你
 i love you i love you i love you:我爱你我爱你我爱你
 i love you i love you:我爱你我爱你
 i love you i:我爱你我
-i love you is instinct:我愛你是本能
 i love you is instinct:我爱你是本能
 i love you japan:我爱你日本
 i love you jenny:我爱你珍妮
-i love you jesus:我愛你耶穌
+i love you jesus:我爱你耶稣
 i love you just like:我爱你就像
 i love you just:我爱你只
 i love you mom:我爱你妈妈
 i love you more than:我爱你超过
-i love you more:我愛你更多
 i love you more:我爱你更多
 i love you my brother:我爱你我的兄弟
 i love you my children:我爱你我的孩子们
@@ -15565,42 +15385,37 @@ i love you my daughter:我爱你我的女儿
 i love you my heart:我爱你我的心
 i love you my husband:我爱你我的丈夫
 i love you my:我爱你我的
-i love you not:我愛你不是
 i love you not:我爱你不是
 i love you people:我爱你们
-i love you phillip morris:娘子漢大丈夫
+i love you phillip morris:娘子汉大丈夫
 i love you piano:我爱你钢琴
 i love you present tense:我爱你现在时
 i love you she said:我爱你她说
 i love you she:我爱你她
-i love you so much:粉愛粉愛你
+i love you so much:粉爱粉爱你
 i love you some:我爱你一些
-i love you that:我愛你那
+i love you that:我爱你那
 i love you thirty:我爱你三十
 i love you this:我爱你这
-i love you three thousand:我愛你三千
 i love you three thousand:我爱你三千
-i love you three:我愛你三
 i love you three:我爱你三
 i love you three:我爱你们三
 i love you to death:我爱你到死
 i love you today:我爱你今天
 i love you twice:我爱你两次
-i love you until:我愛你直到
+i love you until:我爱你直到
 i love you virus:我爱你病毒
 i love you whitney:我爱你惠特尼
 i love you yesterday:我爱你昨天
-i love you:我愛你
 i love you:我爱你
 i love you:我爱你们
 i love young love:我爱年轻的爱
 i love zombie:我爱僵尸
-i love:我愛
 i love:我爱
 i lower my eyes:我降低我的眼睛
 i lower:我降低
 i luck:我运气
-i made friends with the second prettiest girl in my class:我和班上第二可愛的女生成為朋友
+i made friends with the second prettiest girl in my class:我和班上第二可爱的女生成为朋友
 i mail:我邮件
 i maintain:我维护
 i make it clear:我明确
@@ -15642,7 +15457,6 @@ i may kill:我可以杀
 i may kiss you:我可以吻你
 i may learn:我可以学习
 i may let you:我可以让你
-i may love:我可以愛
 i may love:我可以爱
 i may mention:我可以提到
 i may say i:我可以说我
@@ -15668,14 +15482,13 @@ i mean:我意思是
 i measure:我测量
 i measuring:我测量
 i meat you:丰味食材
-i meat you:豐味食材
 i mechanically:我机械地
 i meet a man:我遇见一个男人
 i meet and speak:我遇见和说话
 i meet his servant:我遇见他的仆人
 i meet you:我遇见你
 i meet:我遇见
-i mei foods:義美食品
+i mei foods:义美食品
 i melt:我融化
 i memorize:我记住
 i mention he run:我提到他跑
@@ -15751,7 +15564,7 @@ i mimic:我模仿
 i miss you so much:我太想你了
 i miss you so much:我太想你们了
 i miss you:我想你了
-i miss:心響食城
+i miss:心响食城
 i miss:我小姐
 i missing:我失踪
 i missing:我失踪了
@@ -15774,7 +15587,6 @@ i mouth:我嘴
 i move my mouse:我移动我的鼠标
 i move:我移动
 i mow:我割草
-i murder:我謀殺
 i murder:我谋杀
 i must absolute:我必须绝对
 i must accept it:我必须接受它
@@ -16231,7 +16043,7 @@ i need air:我需要空气
 i need alcohol:我需要酒精
 i need all these:我需要所有这些
 i need all:我需要所有的
-i need ammunition:我需要彈藥
+i need ammunition:我需要弹药
 i need an adult:我需要一个成年
 i need an answer:我需要一个答案
 i need an assistant:我需要一个助手
@@ -16267,7 +16079,6 @@ i need both:我需要两者都
 i need bullet:我需要子弹
 i need caffeine:我需要咖啡因
 i need cash:我需要现金
-i need cash:我需要現金
 i need china:我需要中国
 i need christ:我需要基督
 i need clothes:我需要衣服
@@ -16284,7 +16095,7 @@ i need enough sleep:我需要足够的睡眠
 i need everything:我需要一切
 i need evidence:我需要证据
 i need extra help:我需要额外的帮助
-i need feminist voices:我需要女權之聲
+i need feminist voices:我需要女权之声
 i need film:我需要电影
 i need financial:我需要金融的
 i need five thousand:我需要五千
@@ -16325,8 +16136,7 @@ i need italian:我需要意大利
 i need jack:我需要杰克
 i need jesus christ:我需要耶稣基督
 i need jesus:我需要耶稣
-i need jesus:我需要耶穌
-i need knowledge:我需要知識
+i need knowledge:我需要知识
 i need life:我需要生活
 i need love:我需要爱
 i need lunch:我需要午餐
@@ -16355,7 +16165,6 @@ i need my home:我需要我的家
 i need my hospital:我需要我的医院
 i need my husband:我需要我的丈夫
 i need my kids:我需要我的孩子们
-i need my love:我需要我的愛
 i need my love:我需要我的爱
 i need my protein:我需要我的蛋白质
 i need my sleep:我需要我的睡眠
@@ -16439,7 +16248,7 @@ i need squirrel:我需要松鼠
 i need sugar:我需要糖
 i need sunlight:我需要阳光
 i need technical support:我需要技术支持
-i need that memory:我需要那記憶
+i need that memory:我需要那记忆
 i need that:我需要那
 i need the:我需要这
 i need thee:我需要你
@@ -16532,7 +16341,6 @@ i need your clothes:我需要你的衣服
 i need your help:我需要你们的帮助
 i need your help:我需要你的帮助
 i need your light:我需要你的光
-i need your love:我需要你的愛
 i need your love:我需要你的爱
 i need your name:我需要你的名字
 i need your name:我需要你的姓名
@@ -16662,7 +16470,7 @@ i no longer know anything:我不再知道任何事
 i no longer know what:我不再知道什么
 i no longer know:我不再知道
 i no longer like you:我不再喜欢你
-i no longer love:我不再愛
+i no longer love:我不再爱
 i no longer need acupuncture:我不再需要针灸
 i no longer need these:我不再需要这些
 i no longer need you:我不再需要你
@@ -16709,7 +16517,7 @@ i not you:我不是你
 i not:我不是
 i note:我注意
 i notice:我注意
-i novel:私小說
+i novel:私小说
 i now accept you:我现在接受你
 i now ask you:我现在问你
 i now begin:我现在开始
@@ -16826,7 +16634,7 @@ i obviously went:我显然去
 i obviously:我显然
 i occasionally travel:我偶尔旅行
 i occasionally:我偶尔
-i ocean:潮境智能海洋館
+i ocean:潮境智能海洋馆
 i october:我十月
 i of course am:我当然是
 i of course have friends:我当然有朋友
@@ -16886,7 +16694,7 @@ i often wish i:我常常希望我
 i often wish:我常常希望
 i often:我常常
 i omit:我忽略
-i on kok:詒安閣
+i on kok:诒安阁
 i on the road:我在路上
 i once accept:我曾经接受
 i once admitted this:我曾经承认这
@@ -16951,7 +16759,6 @@ i optimistic:我乐观的
 i or my ancestor:我或我的祖先
 i or my doctor:我或我的医生
 i or my office:我或我的办公室
-i or my office:我或我的辦公室
 i or my organization:我或我的组织
 i or my sibling:我或我的兄弟姐妹
 i or my successor:我或我的继任者
@@ -16965,8 +16772,8 @@ i order all:我命令所有的
 i order him:我命令他
 i order it:我命令它
 i order you four:我命令你们四
+i order you:为你点餐
 i order you:我命令你
-i order you:為你點餐
 i order:我命令
 i organize:我组织
 i originally plan:我起初计划
@@ -16994,7 +16801,7 @@ i own your brain:我拥有你的大脑
 i own:我拥有
 i panic:我恐慌
 i parade:我游行
-i paraphrase:我改寫
+i paraphrase:我改写
 i parent:我父母
 i park:我公园
 i parrot:我鹦鹉
@@ -17080,7 +16887,7 @@ i predict:我预测
 i preferred:我首选的
 i prepare this:我准备这
 i prepare:我准备
-i present:我現在
+i present:我现在
 i preserve:我保持
 i press my finger:我按我的手指
 i press my mouth:我按我的嘴
@@ -17116,7 +16923,7 @@ i promise my:我保证我的
 i promise myself:我保证我自己
 i promise next time:我保证下次
 i promise not:我保证不是
-i promise school:承諾學校
+i promise school:承诺学校
 i promise the:我保证这
 i promise they:我保证他们
 i promise this:我保证这
@@ -17156,7 +16963,6 @@ i protect:我保护
 i protest i:我抗议我
 i protest this will never do:我抗议这永远不会做
 i protest this:我抗议这
-i protest:我抗議
 i protest:我抗议
 i prove:我证明
 i provide room:我提供房间
@@ -17185,7 +16991,7 @@ i put on:我穿上
 i put some ice:我放一些冰
 i put together:我放在一起
 i put:我放
-i quattro libri dell'architettura:建築四書
+i quattro libri dell'architettura:建筑四书
 i quiet:我安静的
 i quit attend:我退出参加
 i quit:我退出
@@ -17236,7 +17042,7 @@ i read:我读
 i read:我读书
 i real:我真的
 i really believe:我真正地相信
-i really like you:我真的喜歡你
+i really like you:我真的喜欢你
 i really:我真正地
 i reboot:我重新启动
 i receive a cup:我收到一个杯子
@@ -17392,7 +17198,7 @@ i redirect:我重定向
 i reduce:我减少
 i refer to:我指
 i refer:我引用
-i reference:我參考
+i reference:我参考
 i reference:我引用
 i reflect:我反映
 i register it:我注册它
@@ -17402,7 +17208,6 @@ i regret any:我后悔任何
 i regret buy:我后悔买
 i regret my:我后悔我的
 i regret:我后悔
-i regret:我後悔
 i reinstate:我恢复
 i reject fear:我拒绝恐惧
 i reject the:我拒绝这
@@ -17718,7 +17523,6 @@ i remember:我记得
 i remove:我移除
 i render:我渲染
 i reply:我回复
-i report:我報告
 i report:我报告
 i request thee:我请求你
 i request you send:我请求你发送
@@ -17745,7 +17549,7 @@ i respect all religion:我尊重所有的宗教
 i respect all those:我尊重所有那些
 i respect all:我尊重所有
 i respect all:我尊重所有的
-i respect and love:我尊重和愛
+i respect and love:我尊重和爱
 i respect and trust:我尊重和信任
 i respect austria:我尊重奥地利
 i respect coach:我尊重教练
@@ -17784,7 +17588,7 @@ i respect my ability:我尊重我的能力
 i respect my body:我尊重我的身体
 i respect my culture:我尊重我的文化
 i respect my father:我尊敬我的父亲
-i respect my father:我尊重我的父親
+i respect my father:我尊重我的父亲
 i respect my husband:我尊重我的丈夫
 i respect my team:我尊重我的团队
 i respect my:我尊重我的
@@ -18012,10 +17816,10 @@ i saved everything:我拯救了一切
 i saved him:我拯救了他
 i saved you:我拯救了你
 i saved:我拯救了
-i saw mommy kissing santa claus:我看見媽咪親吻聖誕老人
+i saw mommy kissing santa claus:我看见妈咪亲吻圣诞老人
 i saw my husband:我锯我的丈夫
-i saw the devil:看見惡魔
-i saw three ships:我看見三隻船
+i saw the devil:看见恶魔
+i saw three ships:我看见三只船
 i saw:我锯
 i say a friend:我说一个朋友
 i say a prayer:我说一个祈祷
@@ -18232,7 +18036,7 @@ i see sharks:我看见鲨鱼
 i see someone:我看见有人
 i see someone:我看见某人
 i see that:我看见那
-i see the light:因為我有你
+i see the light:因为我有你
 i see thee:我看见你
 i see their car:我看见他们的车
 i see their eyes:我看见他们的眼睛
@@ -18276,7 +18080,7 @@ i seize:我抓住
 i select a black:我选择一个黑色
 i select:我选择
 i self learn:我自我学习
-i self-report:我自我報告
+i self-report:我自我报告
 i self:我自己
 i self:我自我
 i selfish:我自私的
@@ -18348,12 +18152,12 @@ i share my recommendations:我分享我的建议
 i share my:我分享我的
 i share these:我分享这些
 i share:我分享
-i shing temple:橫洲二聖宮
+i shing temple:横洲二圣宮
 i ship:我船
 i shoot:我射击
 i shop:我购物
-i shou international school:高雄市私立義大國際高級中學
-i shou university:義守大學
+i shou international school:高雄市私立义大国际高级中学
+i shou university:义守大学
 i should accept my:我应该接受我的
 i should accept the:我应该接受这
 i should add:我应该加
@@ -18444,7 +18248,7 @@ i should hate it:我应该恨它
 i should have a cigarette:我应该有一个香烟
 i should have an apartment:我应该有一个公寓
 i should have more:我应该有更多
-i should have never gone ziplining:我不應該去玩高空滑索
+i should have never gone ziplining:我不应该去玩高空滑索
 i should have some:我应该有一些
 i should have:我应该有
 i should help him:我应该帮助他
@@ -18684,7 +18488,7 @@ i spent time learning:我花时间学习
 i spent time:我花时间
 i spent:我花
 i spent:我花费
-i spit on your grave:我唾棄你的墳墓
+i spit on your grave:我唾弃你的坟墓
 i split:我分开
 i spontaneously:我自发地
 i sprain:我扭伤
@@ -18736,7 +18540,6 @@ i still appreciate them:我仍然感激他们
 i still ask god:我仍然问上帝
 i still avoid them:我仍然避免他们
 i still believe china:我仍然相信中国
-i still believe china:我仍然相信中國
 i still believe everyone:我仍然相信每个人
 i still believe he:我仍然相信他
 i still believe it:我仍然相信它
@@ -18748,7 +18551,7 @@ i still believe them:我仍然相信他们
 i still believe this:我仍然相信这
 i still believe yes:我仍然相信是
 i still believe:我仍然相信
-i still call australia home:澳大利亞我的家
+i still call australia home:澳大利亚我的家
 i still can do:我仍然可以做
 i still can eat:我仍然可以吃
 i still can feel:我仍然可以感觉
@@ -18854,7 +18657,7 @@ i still insist:我仍然坚持
 i still keep:我仍然保持
 i still know everything:我仍然知道一切
 i still know these:我仍然知道这些
-i still know what you did last summer:到底是誰搞的鬼
+i still know what you did last summer:到底是谁搞的鬼
 i still know:我仍然知道
 i still like him:我仍然喜欢他
 i still like it:我仍然喜欢它
@@ -18876,9 +18679,7 @@ i still love nicole:我仍然爱妮科尔
 i still love that:我仍然爱那
 i still love them:我仍然爱他们
 i still love this:我仍然爱这
-i still love you:我仍然愛你
 i still love you:我仍然爱你
-i still love:我仍然愛
 i still love:我仍然爱
 i still may learn:我仍然可以学习
 i still may use:我仍然可以使用
@@ -18974,7 +18775,7 @@ i stopped contact:我停止了联系
 i stopped crying:我停止了哭
 i stopped everything:我停止了一切
 i stopped my ox:我停止了我的牛
-i stopped reading:我停止了閱讀
+i stopped reading:我停止了阅读
 i stopped research:我停止了研究
 i stopped running:我停止了跑步
 i stopped speak:我停止了说话
@@ -19009,7 +18810,6 @@ i study toxicology:我研究毒理学
 i study white people:我学习白人
 i study:我学习
 i study:我研究
-i subconscious:我潛意識
 i subconscious:我潜意识
 i successful:我成功的
 i successfully avoid:我成功地避免
@@ -19031,7 +18831,7 @@ i suddenly laugh:我突然笑
 i suddenly nose acid:我突然鼻酸
 i suddenly open:我突然开
 i suddenly puzzle:我突然迷
-i suddenly regret:我突然後悔
+i suddenly regret:我突然后悔
 i suddenly said:我突然说
 i suddenly say:我突然说
 i suddenly start:我突然开始
@@ -19117,7 +18917,7 @@ i suggest you:我建议你
 i suggest you:我建议你们
 i suggest:我建议
 i suit:我适合
-i supermodel:愛上超模
+i supermodel:爱上超模
 i supervise:我监督
 i support all of these policies:我支持所有这些政策
 i support all:我支持所有
@@ -19125,11 +18925,11 @@ i support democracy:我支持民主
 i support diversity:我支持多样性
 i support economic sanctions:我支持经济制裁
 i support equality:我支持平等
-i support fair trade:我支持公平貿易
+i support fair trade:我支持公平贸易
 i support falun gong:我支持法轮功
 i support free software:我支持自由软件
 i support freedom of religion:我支持宗教自由
-i support freedom of speech:我支持言論自由
+i support freedom of speech:我支持言论自由
 i support freedom:我支持自由
 i support germany:我支持德国
 i support government:我支持政府
@@ -19143,7 +18943,6 @@ i support hong kong police:我支持香港警察
 i support hong kong:我支持香港
 i support i:我支持我
 i support innovation:我支持创新
-i support innovation:我支持創新
 i support it:我支持它
 i support kennedy:我支持肯尼迪
 i support land reclamation:我支持填海
@@ -19171,8 +18970,8 @@ i support you:我支持你们
 i support your action:我支持你们的行动
 i support your choice:我支持你的选择
 i support your decision:我支持你的决定
-i support your point of view:我支持你的觀點
-i support your theory:我支持你的理論
+i support your point of view:我支持你的观点
+i support your theory:我支持你的理论
 i support:我支持
 i suppose you have:我假设你有
 i suppose you have:我假设您有
@@ -19274,7 +19073,6 @@ i taste:我尝
 i taylor:我泰勒
 i teach a writing:我教一个写作
 i teach actor:我教演员
-i teach actor:我教演員
 i teach auto:我教汽车
 i teach because i like:我教因为我喜欢
 i teach criminal law:我教刑法
@@ -19315,7 +19113,7 @@ i teach youth:我教青年
 i teach:我教
 i team:我队
 i tear:我撕裂
-i television:愛電視台
+i television:爱电视台
 i tell a lie:我告诉一个谎言
 i tell all mexicans:我告诉所有墨西哥人
 i tell anyone:我告诉任何人
@@ -19594,7 +19392,7 @@ i think all:我认为所有的
 i think allen:我认为艾伦
 i think allow:我认为允许
 i think almost all:我认为几乎所有
-i think almost:我想幾乎
+i think almost:我想几乎
 i think amazon is it:我认为亚马逊是它
 i think amazon will:我认为亚马逊会
 i think amazon:我认为亚马逊
@@ -20398,7 +20196,6 @@ i think i like:我想我喜欢
 i think i like:我认为我喜欢
 i think i look:我想我看
 i think i look:我认为我看
-i think i love:我想我愛
 i think i love:我想我爱
 i think i mention:我想我提到
 i think i mention:我认为我提到
@@ -20650,10 +20447,8 @@ i think jim:我认为吉姆
 i think jimmy:我认为吉米
 i think joe:我认为乔
 i think john eventually will:我认为约翰最终会
-i think john knows:我想約翰知道
 i think john knows:我想约翰知道
 i think john uses:我认为约翰使用
-i think john:我想約翰
 i think john:我想约翰
 i think john:我认为约翰
 i think joseph:我想约瑟夫
@@ -20711,7 +20506,7 @@ i think look:我想看
 i think look:我认为看
 i think los angeles:我认为洛杉矶
 i think love is great:我认为爱是伟大的
-i think love:我想愛
+i think love:我想爱
 i think love:我认为爱
 i think luck:我认为运气
 i think ma yansong:我认为马岩松
@@ -20936,7 +20731,6 @@ i think my imagination:我认为我的想象
 i think my interpretation:我认为我的解释
 i think my kids:我想我的孩子
 i think my kids:我想我的孩子们
-i think my knowledge:我想我的知識
 i think my knowledge:我想我的知识
 i think my leg:我想我的腿
 i think my leg:我认为我的腿
@@ -22393,7 +22187,7 @@ i told david:我告诉过大卫
 i told him:我告诉过他
 i told many people:我告诉过许多人
 i told my wife:我告诉过我的妻子
-i told sunset about you:以你的心詮釋我的愛
+i told sunset about you:以你的心詮释我的爱
 i told you about breathing:我告诉过你关于呼吸
 i told you about:我告诉过你关于
 i told you everything:我告诉过你一切
@@ -22599,7 +22393,7 @@ i understand when you:我理解当你
 i understand why club:我理解为什么俱乐部
 i understand why he:我理解为什么他
 i understand why i:我理解为什么我
-i understand why many:我理解為什麼許多
+i understand why many:我理解为什么许多
 i understand why people:我理解为什么人们
 i understand why she:我理解为什么她
 i understand why some:我理解为什么一些
@@ -22610,7 +22404,6 @@ i understand why we cannot:我理解为什么我们不能
 i understand why you have to:我理解为什么你必须
 i understand why you would:我理解为什么你会
 i understand why you:我理解为什么你
-i understand why you:我理解為什麼你
 i understand why:我理解为什么
 i understand women:我理解女人
 i understand you have peace:我理解你有和平
@@ -22637,7 +22430,6 @@ i unfortunately:我很遗憾
 i unite:我联合
 i unlock:我解锁
 i update:我更新
-i upgrade:我升級
 i upgrade:我升级
 i urgently:我急切地
 i use a auto:我使用一个自动
@@ -22703,7 +22495,6 @@ i usually avoid this:我通常避免这
 i usually beat him:我通常打他
 i usually buy italian:我通常买意大利
 i usually buy:我通常买
-i usually buy:我通常買
 i usually can guess:我通常可以猜
 i usually do three:我通常做三
 i usually don't drink:我通常不喝
@@ -22787,7 +22578,7 @@ i walk:我步行
 i walking:我步行
 i wanna be the guy:我想当爷们
 i wanna go:完全解放
-i wanna hear your song:讓我聆聽你的歌
+i wanna hear your song:让我聆听你的歌
 i want a baby:我想要一个婴儿
 i want a banana:我想要一个香蕉
 i want a barbie:我想要一个芭比娃娃
@@ -22971,10 +22762,10 @@ i want chicken:我想要鸡
 i want children:我想要孩子
 i want china:我想要中国
 i want chinese:我想要中文
-i want choice:我想要選擇
+i want choice:我想要选择
 i want christ:我想要基督
 i want christians:我想要基督徒
-i want comfort:我想要舒適
+i want comfort:我想要舒适
 i want commitment:我想要承诺
 i want company:我想要公司
 i want confident:我想要自信的
@@ -23064,10 +22855,8 @@ i want it:我想它
 i want it:我想要它
 i want italian:我想要意大利
 i want jesus:我想要耶稣
-i want jesus:我想要耶穌
 i want jonathan:我想乔纳森
 i want justice:我想要正义
-i want justice:我想要正義
 i want keep:我想保持
 i want kids:我想要孩子
 i want kids:我想要小孩
@@ -23082,7 +22871,6 @@ i want liberty:我想自由
 i want liberty:我想要自由
 i want life:我想要生活
 i want love now:我想要爱现在
-i want love:我想要愛
 i want love:我想要爱
 i want magic:我想要魔法
 i want male:我想要男性
@@ -23119,7 +22907,6 @@ i want my diary:我想要我的日记
 i want my dog:我想要我的狗
 i want my eyes:我想要我的眼睛
 i want my father:我想要我的父亲
-i want my father:我想要我的父親
 i want my freedom:我想要我的自由
 i want my friend:我想要我的朋友
 i want my girl:我想要我的女孩
@@ -23263,9 +23050,9 @@ i want those years:我想要那些年
 i want those:我想要那些
 i want three:我想要三
 i want to eat your pancreas:我想吃掉你的胰臟
-i want to escape from princess lessons:我想蹺掉太子妃培訓
+i want to escape from princess lessons:我想蹺掉太子妃培训
 i want to know your parents:想见你父母
-i want to love you till your dying day:與妳相戀到生命盡頭
+i want to love you till your dying day:与妳相恋到生命尽头
 i want to reach:我想要到达到
 i want toy:我想要玩具
 i want training:我想训练
@@ -23317,13 +23104,13 @@ i want your life:我想要你的生活
 i want your love:我想要你的爱
 i want your money:我想要你的钱
 i want your name:我想要你的名字
-i want your past:我想要你的過去
+i want your past:我想要你的过去
 i want your prayer:我想要你的祈祷
 i want your protection:我想要你的保护
 i want your purpose:我想要你的目的
 i want your reaction:我想要你的反应
 i want your respect:我想要你的尊重
-i want your sex:我要與妳歡愛
+i want your sex:我要与妳欢爱
 i want your solution:我想你的解决方案
 i want your soul:我想要你的灵魂
 i want your sword:我想要你的剑
@@ -23648,7 +23435,7 @@ i was because i:我是因为我
 i was betray:我是背叛
 i was black:我是黑色
 i was blind:我是盲的
-i was blond:我是金髮
+i was blond:我是金发
 i was blue ribbon:我是蓝丝带
 i was boiling:我是沸腾
 i was born in:我诞生于
@@ -23766,7 +23553,6 @@ i was his battalion:我是他的营
 i was his campaign manager:我是他的竞选经理
 i was his child:我是他的孩子
 i was his daughter:我是他的女儿
-i was his daughter:我是他的女兒
 i was his eyes:我是他的眼睛
 i was his first:我是他的第一个
 i was his friend:我是他的朋友
@@ -24088,7 +23874,6 @@ i were white:我是白色
 i were you:我是你
 i were young:我是年轻的
 i what:我什么
-i what:我什麼
 i when he:我当他
 i when i:我当我
 i when you:我当你
@@ -24096,7 +23881,6 @@ i whistle:我吹口哨
 i who will die:我谁会死
 i who:我谁
 i why:我为什么
-i why:我為什麼
 i will abolish capital punishment:我会废除死刑
 i will abolish:我会废除
 i will absolute:我会绝对
@@ -24254,7 +24038,7 @@ i will be you:我会成为你们
 i will be you:我将成为你
 i will be you:我将成为你们
 i will be your angel:我会成为你的天使
-i will be your bloom:為你綻放的花
+i will be your bloom:为你綻放的花
 i will be your friend:我会成为你的朋友
 i will be your friend:我将成为你的朋友
 i will be your hero:我会成为你的英雄
@@ -25937,7 +25721,7 @@ i wish it still:我希望它仍然
 i wish it:我希望它
 i wish jack potter:我希望杰克波特
 i wish jack:我希望杰克
-i wish john:我希望約翰
+i wish john:我希望约翰
 i wish life:我希望生活
 i wish more:我希望更多
 i wish my birthday:我希望我的生日
@@ -25951,7 +25735,6 @@ i wish my coffee:我希望我的咖啡
 i wish my country:我希望我的国家
 i wish my dad:我希望我的爸爸
 i wish my daughter:我希望我的女儿
-i wish my daughter:我希望我的女兒
 i wish my day:我希望我的日
 i wish my death:我希望我的死
 i wish my dog:我希望我的狗
@@ -25959,7 +25742,6 @@ i wish my employees:我希望我的员工
 i wish my english:我希望我的英语
 i wish my eyes:我希望我的眼睛
 i wish my father:我希望我的父亲
-i wish my father:我希望我的父親
 i wish my friends:我希望我的朋友
 i wish my health:我希望我的健康
 i wish my high school:我希望我的高中
@@ -25977,7 +25759,7 @@ i wish my marriage:我希望我的婚姻
 i wish my mom:我希望我的妈妈
 i wish my name:我希望我的名字
 i wish my nose:我希望我的鼻子
-i wish my office:我希望我的辦公室
+i wish my office:我希望我的办公室
 i wish my parents:我希望我的父母
 i wish my people:我希望我的人民
 i wish my reader:我希望我的读者
@@ -25998,7 +25780,7 @@ i wish people would:我希望人们将
 i wish people:我希望人们
 i wish reader:我希望读者
 i wish she could:我希望她能
-i wish she love:我希望她愛
+i wish she love:我希望她爱
 i wish she:我希望她
 i wish simon:我希望西蒙
 i wish someone could:我希望有人能
@@ -26077,8 +25859,8 @@ i worry he:我担心他
 i worry i:我担心我
 i worry if i:我担心如果我
 i worry if north korea:我担心如果朝鲜
-i worry my children:我擔心我的孩子
-i worry my gums:我擔心我的牙齦
+i worry my children:我担心我的孩子
+i worry my gums:我担心我的牙齦
 i worry sometimes people:我担心有时人们
 i worry that:我担心那
 i worry they will:我担心他们会
@@ -26088,7 +25870,6 @@ i worry we will build:我担心我们将构建
 i worry we will:我担心我们会
 i worry we:我担心我们
 i worry:我担心
-i worry:我擔心
 i worship it:我崇拜它
 i worship stupidity:我崇拜愚蠢
 i worship them:我崇拜他们
@@ -26300,12 +26081,11 @@ i write this book:我写这本书
 i write this chapter:我写这章
 i write this:我写这
 i write:我写
-i wrote a song:我寫了一首歌
+i wrote a song:我写了一首歌
 i wrote:我写下
 i yes:我是
 i yesterday:我昨天
 i yet:我还
 i you:我你
 i Регіон Тарапака:塔拉帕卡大区
-i Регіон Тарапака:塔拉帕卡大區
 i округ:第一区

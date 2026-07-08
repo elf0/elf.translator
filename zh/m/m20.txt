@@ -1,21 +1,20 @@
 m block pathology:m座病理学大楼
-m block pathology:m座病理學大樓
-m cake:麥蛋糕
-m card (hotpot bbq):mcard(火鍋燒烤店
+m cake:麦蛋糕
+m card (hotpot bbq):mcard(火锅烧烤店
 m coumaric acid:间香豆酸
 m cresol:间甲酚
-m cymene:間異丙基甲苯
-m girls:四個女生
+m cymene:间异丙基甲苯
+m girls:四个女生
 m law:马六甲州法律
-m learning:行動學習
+m learning:行动学习
 m line trolley:麦肯尼大街有轨电车
 m on the bund:米氏西餐厅
-m parking area:m飛機停泊區
+m parking area:m飞机停泊区
 m phenylenediamine:间苯二胺
 m ramp of longjing interchange:龙景立交m匝道
 m ramp of longlan-fulong interchange:龙澜福龙立交m匝道
 m salon:魅·沙龙
-m square:米平方商場
+m square:米平方商场
 m terphenyl:间三联苯
 m xylene:间二甲苯
 m xylylenediamine:间苯二甲胺

@@ -52,7 +52,7 @@ am a man:是一个男人
 am a monarch:是一个君主
 am a monster:是一个怪物
 am a mother:是一个母亲
-am a mother:是一位母親
+am a mother:是一位母亲
 am a national:是一个国家
 am a nationalist:是一个民族主义者
 am a new:是一个新的
@@ -103,13 +103,11 @@ am abend:在晚上
 am able:是有能力的
 am about:是关于
 am abraham:是亚伯拉罕
-am abraham:是亞伯拉罕
 am absolute:是绝对
 am absurd:是荒谬的
 am achievement:是成就
 am active:是活跃的
 am adam:是亚当
-am adam:是亞當
 am admit:是承认
 am adult:是成年人
 am advocate:是倡导
@@ -156,7 +154,6 @@ am an overall:是一个整体
 am ancient:是古
 am andrew:是安德鲁
 am anger:是愤怒
-am anger:是憤怒
 am anna:是安娜
 am anonymous:是匿名的
 am another person:是另一个人
@@ -164,7 +161,7 @@ am another:是另一个
 am anthony:是安东尼
 am anyone i want to be:是我想成为的任何人
 am apollo:是阿波罗
-am archangel:是天使長
+am archangel:是天使长
 am argentina:是阿根廷
 am argentinian:是阿根廷人
 am arm:是武装
@@ -221,7 +218,7 @@ am brave:是勇敢的
 am brazilian:是巴西
 am brazilian:是巴西人
 am breathing:是呼吸
-am broadcasting:調幅廣播
+am broadcasting:调幅广播
 am buddhist:是佛教徒
 am bulgarian:是保加利亚人
 am buy:是买
@@ -253,7 +250,7 @@ am cold-blood:是冷血
 am cold:是冷
 am colombian:是哥伦比亚人
 am come:是来
-am comfort:是舒適
+am comfort:是舒适
 am comic:是漫画
 am command:是命令
 am commander:是指挥官
@@ -316,8 +313,8 @@ am dust:是灰尘
 am dutch:是荷兰人
 am ear:是耳朵
 am earth:是地球
-am eastern:是東方
-am eating:是進食
+am eastern:是东方
+am eating:是进食
 am effective:是有效的
 am efficient:是高效的
 am egypt:是埃及
@@ -330,12 +327,12 @@ am enemy:是敌人
 am energy:是能量
 am english:是英语
 am eric:是埃里克
-am eternity:是永恆
+am eternity:是永恒
 am ethiopian:是埃塞俄比亚人
 am european:是欧洲人
 am every day:是每天
 am everything:是一切
-am evil:是惡
+am evil:是恶
 am existence:是存在
 am experienced:是有经验的
 am experienced:是经验丰富的
@@ -350,7 +347,6 @@ am familiar:是熟悉的
 am faramir:是法拉墨
 am fashion:是时尚
 am father:是父亲
-am father:是父親
 am female:是女性
 am female:是雌性
 am fifteen:是十五
@@ -425,7 +421,6 @@ am healthy:是健康
 am healthy:是健康的
 am hear:是听
 am hell:是地狱
-am hell:是地獄
 am help:是帮助
 am henry:是亨利
 am her child:是她的孩子
@@ -457,7 +452,7 @@ am hungry:是饿
 am hunter:是猎人
 am husband:是丈夫
 am i do:是我做
-am i dream:是我夢
+am i dream:是我梦
 am i go:是我去
 am i just:是我只是
 am i needed:是我需要的
@@ -492,7 +487,7 @@ am involve:是包括
 am iranian:是伊朗人
 am iraqi:是伊拉克
 am irish:是爱尔兰人
-am iron man:是鋼鐵人
+am iron man:是钢铁人
 am israel:是以色列
 am it:是它
 am italian:是意大利人
@@ -505,14 +500,11 @@ am japan:是日本
 am japanese:是日本人
 am jazz:是爵士乐
 am jealous:是妒忌
-am jehovah:是耶和華
+am jehovah:是耶和华
 am jesus christ:是耶稣基督
-am jesus christ:是耶穌基督
 am jesus:是耶稣
-am jesus:是耶穌
 am jim:是吉姆
 am joe:是乔
-am john:是約翰
 am john:是约翰
 am joseph:是约瑟夫
 am judge:是法官
@@ -520,7 +512,6 @@ am julian:是朱利安
 am jupiter:是木星
 am just:是只
 am justice:是正义
-am justice:是正義
 am keep:是保持
 am khmer:是高棉
 am king:是国王
@@ -545,7 +536,6 @@ am living:是活
 am loki:是洛基
 am look:是看
 am lord voldemort:是伏地魔
-am love:是愛
 am love:是爱
 am lucky:是幸运的
 am main:是主要的
@@ -566,9 +556,9 @@ am meat:是肉
 am media:是媒体
 am mellensee:阿姆梅伦塞
 am memphis:是孟菲斯
-am messiah:是彌賽亞
+am messiah:是弥赛亚
 am mexican:是墨西哥人
-am middle class:是中產階級
+am middle class:是中产阶级
 am middle-age:是中年
 am mike:是迈克
 am mild:是温和的
@@ -577,9 +567,9 @@ am miserable:是悲惨的
 am mistake:是错误
 am modern:是现代的
 am mom:是妈妈
-am monadh neagrach:蒙特內哥羅
+am monadh neagrach:蒙特內哥罗
 am monadh neagrach:黑山
-am monadh neagrach:黑山 / 蒙特內哥羅
+am monadh neagrach:黑山 / 蒙特內哥罗
 am monday:是周一
 am mongolia:是蒙古
 am morality:是道德
@@ -654,9 +644,7 @@ am pharaoh:是法老
 am pirate:是海盗
 am plaintiff:是原告
 am play:是玩
-am pm farmasi:維康保健西藥行
 am pm farmasi:维康保健西药行
-am pm pharmacy:維康保健西藥行
 am pm pharmacy:维康保健西药行
 am police:是警察
 am political:是政治的
@@ -732,7 +720,7 @@ am servant:是仆人
 am service:是服务
 am seventh:是第七
 am shadow:是影子
-am shamarpa:是夏瑪巴
+am shamarpa:是夏玛巴
 am she:是她
 am shiva:是湿婆
 am singer:是歌手
@@ -752,7 +740,6 @@ am sold:是卖
 am solid:是固体
 am some kind of:是某种
 am some sort of:是某种
-am some sort of:是某種
 am some:是一些
 am someone:是某人
 am something:是东西
@@ -771,7 +758,7 @@ am special:是特别的
 am spider:是蜘蛛
 am spiritual:是精神的
 am spock:是史波克
-am star:金屬線星
+am star:金属线星
 am start:是开始
 am steel:是钢
 am steve:是史蒂夫
@@ -789,13 +776,13 @@ am style:是风格
 am successful:是成功的
 am such:是如此
 am suffering:是痛苦
-am sullivan:是蘇利文
+am sullivan:是苏利文
 am superman:是超人
 am support:是支持
-am surgeon:是外科醫師
+am surgeon:是外科医师
 am surprise:是令人惊讶的
 am surrealism:是超现实主义
-am taiwan:是中華民國
+am taiwan:是中华民国
 am taiwan:是台湾
 am talking about:是谈论
 am taylor:是泰勒
@@ -807,7 +794,6 @@ am testing:是测试
 am thank:是感谢
 am that girl:是那女孩
 am that person:是那个人
-am that person:是那個人
 am that sort of girl:是那种女孩
 am that sort of:是那种
 am that:是那
@@ -895,7 +881,6 @@ am we:是我们
 am went:是去
 am western:是西方
 am what:是什么
-am what:是什麼
 am white:是白色
 am who:是谁
 am whole:是整个
@@ -919,7 +904,7 @@ am yahweh:是雅威
 am year:是年
 am yellow:是黄色
 am yesterday:是昨天
-am yisrael chai:以色列民長存
+am yisrael chai:以色列民长存
 am you:是你
 am you:是你们
 am young:是年轻的
@@ -928,85 +913,83 @@ am your servant:是你的仆人
 am zimbabwe:是津巴布韦
 am-an experiment:是一个实验
 am:亚马孙州
-am:亞馬孫州
 am:是
 ama county:海部郡
-ama dablam:阿瑪達布拉姆峰
+ama dablam:阿玛达布拉姆峰
 ama drime east:阿玛直米东峰
 ama drime north i:阿玛直米北 i 峰
 ama drime north ii:阿玛直米北 ii 峰
 ama drime south:阿玛直米南峰
-ama museum:阿嬤家 和平與女性人權館
+ama museum:阿嬤家 和平与女性人权馆
 ama supercross championship:超级越野摩托车锦标赛
-ama tsu mara:天津麻羅
+ama tsu mara:天津麻罗
 ama ukwu vatikan:fàndìgāng
 ama ukwu vatikan:梵蒂冈
-ama ukwu vatikan:梵蒂岡
 ama-cho:海士町
 ama-gun:海部郡
 ama-shi:海部市
 ama:海士町
 ama:海部市
 amaariki station:海士有木站
-amaasiya:阿馬西亞
+amaasiya:阿马西亚
 amabanbaq sortty tukym jetıldıru alañyndağy:安班巴格良繁场
 amabie:阿玛比埃
 amabuke:阿马补克
-amacayacu national park:阿馬卡亞庫國家自然公園
+amacayacu national park:阿马卡亚库国家自然公园
 amacha:阿麻叉
 amachan:小海女
 amacrine cell:无长突细胞
-amacuo:阿媽厝
+amacuo:阿妈厝
 amadeus it group:艾玛迪斯信息科技
-amadi state:阿馬迪州
+amadi state:阿马迪州
 amadina:环喉雀属
 amadinone:阿马地酮
-amadjuak lake:阿馬朱瓦克湖
-amadok point:阿馬多克角
-amador valley high school:阿馬多爾谷高中
+amadjuak lake:阿马朱瓦克湖
+amadok point:阿马多克角
+amador valley high school:阿马多尔谷高中
 amadora:阿马多拉
 amadori rearrangement:阿马道里重排
 amaea magnifica:长海蛳螺
 amaea thielei:长细纹海蛳螺
-amaenbo:愛撒嬌
+amaenbo:爱撒娇
 amafag n dzayer houari boumédiène:阿尔及尔胡阿里布梅丁机场
-amafai:阿馬非蔬食餐廳
-amagami hime:輕咬少女
-amagami:聖誕之吻
-amagasaka station:尼坂車站
+amafai:阿马非蔬食餐厅
+amagami hime:轻咬少女
+amagami:圣诞之吻
+amagasaka station:尼坂车站
 amagasaki castle:尼崎城
-amagasaki center pool mae station:尼崎汽艇比賽場前站
+amagasaki center pool mae station:尼崎汽艇比赛场前站
 amagasaki domain:尼崎藩
 amagasaki serial murder incident:尼崎事件
 amagasaki station:尼崎站
-amagasaki station:尼崎車站
+amagasaki station:尼崎车站
 amagasaki-shi:尼崎市
 amagasaki:尼崎
 amagasaki:尼崎市
 amagasakis:尼崎市
-amagase station:天瀨車站
+amagase station:天瀨车站
 amagat's law:阿马加定律
 amagatsuji station:尼辻站
 amager strand station:阿迈厄海滩站
-amager:阿邁厄島
+amager:阿迈厄岛
 amagerbro station:阿迈厄布罗站
 amagerbro:阿迈厄布罗
-amagi brilliant park:甘城輝煌樂園救世主
-amagi class battlecruiser:天城級巡洋戰艦
-amagi goe:越過天城
-amagi line:甘木線
-amagi station:甘木車站
+amagi brilliant park:甘城辉煌乐园救世主
+amagi class battlecruiser:天城级巡洋战舰
+amagi goe:越过天城
+amagi line:甘木线
+amagi station:甘木车站
 amagi-cho:天城町
 amagi:天城町
-amagiri castle:天霧城
+amagiri castle:天雾城
 amagne:阿马涅
 amago clan:尼子氏
 amago haruhisa:尼子晴久
-amago katsuhisa:尼子勝久
-amago kunihisa:尼子國久
+amago katsuhisa:尼子胜久
+amago kunihisa:尼子国久
 amago station:尼子站
-amago tsunehisa:尼子經久
-amago yoshihisa:尼子義久
+amago tsunehisa:尼子经久
+amago yoshihisa:尼子义久
 amah rock:mong fu shek
 amah rock:mong6 fu1 sek6
 amah rock:望夫山
@@ -1015,27 +998,26 @@ amahai airport:阿马哈伊机场
 amahai:阿马哈伊
 amaharashi station:雨晴站
 amahu:阿麻湖
-amai fish:魚多甜 輔大店
+amai fish:鱼多甜 辅大店
 amailloux:阿马尤
-amaim warrior at the borderline:境界戰機
-amajari:阿馬雅里
+amaim warrior at the borderline:境界战机
+amajari:阿马雅里
 amaji station:甘地站
-amak volcano:阿馬克火山
+amak volcano:阿马克火山
 amakasu incident:甘粕事件
-amakasu kagemochi:甘粕長重
-amakasu kagetsugu:甘粕景繼
-amaknak island:阿馬克納克島
-amakusa airfield:天草飛行場
+amakasu kagemochi:甘粕长重
+amakasu kagetsugu:甘粕景继
+amaknak island:阿马克纳克岛
+amakusa airfield:天草飞行场
 amakusa airlines:天草航空
 amakusa county:天草郡
 amakusa sea:天草滩
-amakusa sea:天草灘
 amakusa-gun:天草郡
 amakusa-shi:天草市
 amakusa:天草市
-amakusa:天草群島
+amakusa:天草群岛
 amakusaichthys goshouraensis:御町天草鱼属
-amal café:奧莫爾咖啡
+amal café:奧莫尔咖啡
 amal movement three:阿迈勒运动三
 amal movement:阿迈勒运动
 amala and kamala:卡玛拉和阿玛拉
@@ -1050,7 +1032,6 @@ amalfi coast and cilento:阿马尔菲海岸和奇伦托
 amalfi coast experience:阿马尔菲海岸体验
 amalfi coast:阿马尔菲海岸
 amalfi drive:津堤径
-amalfi drive:津堤徑
 amalfi prize:阿马尔菲奖
 amalfi republic:阿马尔菲共和国
 amalfi:津堤
@@ -1058,9 +1039,9 @@ amalfi:阿马尔菲
 amalgamation would:合并将
 amalgamation:合并
 amalgaviridae:混合病毒科
-amalia of oldenburg:歐登堡的阿瑪莉埃
-amalie arena:愛馬力體育館
-amalie of baden:巴登的阿瑪莉埃
+amalia of oldenburg:欧登堡的阿玛莉埃
+amalie arena:爱马力体育馆
+amalie of baden:巴登的阿玛莉埃
 amalienborg:阿马林堡宫
 amall:捷登都会
 amalner:阿马尔内尔
@@ -1068,39 +1049,36 @@ amalocalyx:毛车藤属
 amalophyllon:饰缨岩桐属
 amalosia:阿玛瘤尾虎属
 amaltheidae:绳菊石科
-amaltheus:繩菊石
+amaltheus:绳菊石
 amambai:阿曼拜
 amambay:阿曼拜省
-amami airport:奄美機場
-amami bread:阿瑪密
-amami communist party:奄美共產黨
-amami islands:奄美群島
-amami languages:奄美語
+amami airport:奄美机场
+amami bread:阿玛密
+amami communist party:奄美共产党
+amami islands:奄美群岛
+amami languages:奄美语
 amami rabbit:琉球兔
-amami station:天見站
+amami station:天见站
 amami-shi:奄美市
 amami:奄美市
 amamikyu:阿摩美久
 aman central mall:阿曼中环广场
 aman hûdûg gaqaa:阿麻忽洞嘎查
 aman island pier:阿曼岛码头
-aman island pier:阿曼島碼頭
 aman island:平安岛
 aman island:阿曼岛
-aman island:阿曼島
 aman nisa han kabri:阿曼尼沙汗陵墓
-aman singh:辛歐曼
+aman singh:辛欧曼
 aman:安曼
 amana edulis:老鸦瓣
 amanas:安曼
 amanat al asimah:萨那
-amanat al asimah:薩那
 amanatsu:川野夏橙
 amancey:阿芒塞
 amancy:阿芒西
-amanda bay:阿曼達灣
-amanda chou:周曉涵
-amanda hotel:亞曼達會館
+amanda bay:阿曼达湾
+amanda chou:周晓涵
+amanda hotel:亚曼达会馆
 amandava:红梅花雀属
 amandayan hotel:丽江大研安缦酒店
 amandola:阿曼多拉
@@ -1108,26 +1086,25 @@ amang:阿芒
 amanganj:阿曼根杰
 amange:阿芒日
 amangeldi district:阿曼格利季区
-amangeldi district:阿曼格利季區
 amangeldi rayonu:阿曼格利季区
 amangeldi tumani:阿曼格利季区
 amangkurat ii of mataram:阿莽古拉特二世
 amani:安曼
-amanita altipes:長柄鵝膏
+amanita altipes:长柄鹅膏
 amanita caesarea:橙盖鹅膏菌
 amanita echinocephala:白剌鳞鹅膏菌
-amanita farinosa:小托柄鵝膏
+amanita farinosa:小托柄鹅膏
 amanita flavoconia:黄毒蝇鹅膏菌
-amanita frostiana:冰霜鵝膏
-amanita gemmata:黃蓋鵝膏
-amanita muscaria:毒蠅傘
-amanita ocreata:赭鵝膏
-amanita pantherina:豹斑鵝膏
-amanita phalloides:毒鵝膏
+amanita frostiana:冰霜鹅膏
+amanita gemmata:黄盖鹅膏
+amanita muscaria:毒蠅伞
+amanita ocreata:赭鹅膏
+amanita pantherina:豹斑鹅膏
+amanita phalloides:毒鹅膏
 amanita velosa:具托大鹅膏菌
-amanita verna:白毒鵝膏菌
-amanita virosa:鱗柄白鵝膏
-amanita:鵝膏菌屬
+amanita verna:白毒鹅膏菌
+amanita virosa:鳞柄白鹅膏
+amanita:鹅膏菌属
 amanitaceae:鹅膏菌科
 amanjian:āmǎnjiān
 amanjian:ㄚㄇㄢˇㄐㄧㄢ
@@ -1135,7 +1112,6 @@ amanjian:阿屘尖
 amanlis:阿芒利斯
 amannalaishan:āmǎnnàláishān
 amannalaishan:ㄚㄇㄢˇㄋㄚˋㄌㄞˊㄕㄢ
-amannalaishan:阿屘那來山
 amannalaishan:阿屘那来山
 amannisa khan:阿曼尼莎汗
 amano iwato:天岩戶
@@ -1144,17 +1120,17 @@ amano takashige:天野隆重
 amano yasukage:天野康景
 amano:安曼
 amanoa:花碟木属
-amanohashidate cable car:天橋立鋼索鐵道
-amanohashidate station:天橋立站
-amanohashidate station:天橋立車站
-amanohashidate:天橋立
+amanohashidate cable car:天桥立钢索铁道
+amanohashidate station:天桥立站
+amanohashidate station:天桥立车站
+amanohashidate:天桥立
 amanojaku:天邪鬼
 amanozako:天逆每
 amanpur:阿曼普尔
 amans:安曼
 amansheng:阿曼生
-amansie central district:中阿曼西縣
-amansie west district:西阿曼西縣
+amansie central district:中阿曼西县
+amansie west district:西阿曼西县
 amantadine actually improve:金刚烷胺实际上提高
 amantadine actually:金刚烷胺实际上
 amantadine therapy:金刚烷胺疗法
@@ -1163,21 +1139,19 @@ amantea corporation:阿曼泰亚公司
 amantea:阿曼泰亚
 amantis:怪螳属
 amanty:阿芒蒂
-amanu:阿馬努環礁
-amanullah khan:阿曼諾拉汗
+amanu:阿马努环礁
+amanullah khan:阿曼诺拉汗
 amanullin:鹅膏无毒环肽
 amanvillers:阿芒维莱
-amanzi angcolile:廢水
-amanzia:阿曼茲龍屬
+amanzi angcolile:废水
+amanzia:阿曼茲龙属
 amapa:阿马帕州
-amapala:阿馬帕拉
-amapao:阿馬帕州
+amapala:阿马帕拉
 amapao:阿马帕州
 amapasaurus:阿玛裸眼蜥属
-amapá:阿馬帕州
 amapá:阿马帕州
 amaq news agency:阿马克新闻社
-amar opening:阿馬爾開局
+amar opening:阿马尔开局
 amar sonar bangla:金色的孟加拉
 amara lago:大苦湖
 amara:阿姆哈拉州
@@ -1185,7 +1159,7 @@ amara:阿马拉
 amarah:阿马拉
 amaraji:阿马拉日
 amaral ferrador:阿马拉尔费拉多尔
-amaralia hypsiura:亞馬遜河小渠鯰
+amaralia hypsiura:亚马逊河小渠鲶
 amaralina:阿马拉利那
 amaranth:苋属
 amaranthaceae:莧科
@@ -1210,33 +1184,30 @@ amaras monastery:阿马拉斯修道院
 amaravati:阿马拉瓦蒂
 amarbayasgalant kloster:qìngníng sì
 amarbayasgalant kloster:庆宁寺
-amarbayasgalant kloster:慶寧寺
 amarbayasgalant temple:qìngníng sì
 amarbayasgalant temple:庆宁寺
-amarbayasgalant temple:慶寧寺
 amarbayasgalant:庆宁寺
-amarcord:阿瑪柯德
+amarcord:阿玛柯德
 amare coffee:阿曼蕾咖啡
-amarea caspicâ:裏海
 amarea caspicâ:里海
 amarea lae:黑海
 amareleja:阿马雷莱雅
 amarens:阿马朗
-amares:阿馬里什
-amarete:阿馬雷特
+amares:阿马里什
+amarete:阿马雷特
 amaretto:阿玛雷托
-amargadhi:阿馬拉加迪
-amargasaurus:阿馬加龍屬
+amargadhi:阿马拉加迪
+amargasaurus:阿马加龙属
 amargasuchus:阿玛加鳄属
-amargatitanis:阿馬加巨龍屬
-amarginops platus:寬體溝鱨
+amargatitanis:阿马加巨龙属
+amarginops platus:宽体沟鲿
 amargosa river pupfish:食藻鱂
 amari masatada:甘利昌忠
 amari torayasu:甘利虎泰
 amaricoccus:下水道球菌属
 amariko station:余子站
-amarilis district:阿馬里利斯區
-amarillo slim:阿瑪里洛瘦子
+amarilis district:阿马里利斯区
+amarillo slim:阿玛里洛瘦子
 amarkantak:阿马尔卡恩塔克
 amarna art:阿马纳风格
 amarna letters:阿马尔奈文书
@@ -1246,45 +1217,44 @@ amarna:阿玛纳
 amarnath temple:阿马尔纳特石窟
 amaroni:阿马罗尼
 amarpatan:阿马尔帕坦
-amarsipus:卡氏無囊鯧
+amarsipus:卡氏无囊鯧
 amartithi:永恒日
-amarube viaduct:餘部橋梁
+amarube viaduct:余部桥梁
 amarula:爱玛乐
 amarumayu:亚马孙州
 amarume station:余目站
 amarwara:阿马尔瓦拉
 amaryllidaceae:石蒜科
 amaryllis belladonna:南非孤挺花
-amaryllis:孤挺花屬
+amaryllis:孤挺花属
 amasa park:亚玛撒公园
 amasa villabona:比利亚沃纳
 amasa:亚玛撒
-amasea:阿馬西亞
+amasea:阿马西亚
 amaseno:阿马塞诺
 amash:阿玛希村
-amashca district:阿馬什卡區
+amashca district:阿马什卡区
 amasi xiwan:阿麻寺西湾
-amasia:阿馬西亞
-amasija:阿馬西亞
-amasing hill:阿馬辛火山
+amasia:阿马西亚
+amasija:阿马西亚
+amasing hill:阿马辛火山
 amasis ii:雅赫摩斯二世
 amasis painter:阿马西斯画家
-amasja:阿馬西亞
-amasra:阿瑪斯拉
+amasja:阿马西亚
+amasra:阿玛斯拉
 amastridae:同纹螺科
-amasya merzifon airport:阿馬西亞梅爾濟豐機場
-amasya province:阿馬西亞省
+amasya merzifon airport:阿马西亚梅尔济丰机场
 amasya province:阿马西亚省
-amasya:阿馬西亞
-amata municipality:阿馬塔市鎮
+amasya:阿马西亚
+amata municipality:阿马塔市镇
 amaterama:阿姆斯特丹
 amaterasu particle:天照粒子
 amaterasu patera:天照火山口
 amaterasu:天照大神
-amateur and out:業餘愛好者和外
+amateur and out:业余爱好者和外
 amateur and professional:爱好者与专业
-amateur astronomy:業餘天文學
-amateur athletic association of england:英格蘭業餘田徑協會
+amateur astronomy:业余天文学
+amateur athletic association of england:英格兰业余田径协会
 amateur baseball in the united states:美国业余棒球
 amateur blog:爱好者博客
 amateur boxing association:业余拳击协会
@@ -1297,7 +1267,7 @@ amateur committee:爱好者委员会
 amateur film:爱好者电影
 amateur films:爱好者电影
 amateur magazine:爱好者杂志
-amateur pornography:業餘色情
+amateur pornography:业余色情
 amateur radio activity:业余无线电活动
 amateur radio amateur:业余无线电爱好者
 amateur radio and public service:业余无线电和公共服务
@@ -1356,54 +1326,50 @@ amateur sports protection:业余体育保护
 amateur sports:业余体育
 amateur start:爱好者开始
 amateur surname:爱好者姓
-amateur theatre:業餘劇場
-amateur wrestling:業餘摔跤
-amateur:業餘愛好者
+amateur theatre:业余剧场
+amateur wrestling:业余摔跤
+amateur:业余爱好者
 amateur:爱好者
-amathole mountains:阿馬托拉山脈
+amathole mountains:阿马托拉山脉
 amathuna / cimeterium:墓地 / cimeterium
 amathuna. idolobha lase-arroyo pora, escobar:公墓。 埃斯科瓦尔阿罗约波拉市
-amathuna. idolobha lase-arroyo pora, escobar:公墓。 埃斯科瓦爾阿羅約波拉市
 amathuna:墓地
-amathusia phidippus:環蝶屬
-amathusiini:環蝶族
-amathuxidia:交脈環蝶屬
-amatignak island:阿馬蒂格納克島
-amatique bay:阿馬蒂克灣
-amatitlania coatepeque:中美洲嬌麗魚
-amatitlania septemfasciata:七帶隱麗魚
-amatitlania siquia:橘斑嬌麗魚
-amatlan chub:愚耶律魚
-amatller house:阿馬特耶之家
+amathusia phidippus:环蝶属
+amathusiini:环蝶族
+amathuxidia:交脉环蝶属
+amatignak island:阿马蒂格纳克岛
+amatique bay:阿马蒂克湾
+amatitlania coatepeque:中美洲娇丽鱼
+amatitlania septemfasciata:七带隐丽鱼
+amatitlania siquia:橘斑娇丽鱼
+amatlan chub:愚耶律鱼
+amatller house:阿马特耶之家
 amatnhom mäcŋaknhom:英国
-amatnhom mäcŋaknhom:英国 / 英國
-amatnhom mäcŋaknhom:英國
+amatnhom mäcŋaknhom:英国 / 英国
 amatnhom pawut:美国
-amatnhom pawut:美國
 amato and her research:阿马托和她的研究
 amato and his brother:阿马托和他的兄弟
 amato read:阿马托读
 amato said:阿马托说
 amato:阿马托
-amatol:阿馬托
+amatol:阿马托
 amatola barb:砂魮
-amatoxin:毒傘肽
+amatoxin:毒伞肽
 amatrice mayor:阿马特里切市长
 amatrice:阿马特里切
 amatsu mikaboshi:天津甕星
 amatsuhikone:天津日子根命
-amatsukami and kunitsukami:天津神與國津神
+amatsukami and kunitsukami:天津神与国津神
 amatsuki:天月
 amatuku:阿马图库
-amatulla:阿馬土拉
 amatulla:阿马土拉
-amauri:阿馬利
-amauris:窗斑蝶屬
+amauri:阿马利
+amauris:窗斑蝶属
 amaurobiidae:暗蛛科
-amaurobius:暗蛛屬
+amaurobius:暗蛛属
 amauroderma:假芝属
 amaurolimnas:纯色秧鸡属
-amaurornis:苦惡鳥屬
+amaurornis:苦恶鸟属
 amaurospiza:蓝籽雀属
 amaury sport organisation:阿莫里体育组织
 amavida:阿马维达
@@ -1413,29 +1379,29 @@ amaya station:雨屋站
 amaya:雨屋
 amayabuya:阿玛拉普拉
 amayabuya:阿玛拉普拉镇区
-amaymon:亞麥依蒙
+amaymon:亚麦依蒙
 amayuelas de arriba:上阿马尤拉斯
 amazake:日本甘酒
 amazar:阿马扎尔
-amaziah of judah:亞瑪謝
+amaziah of judah:亚玛谢
 amazilia hummingbird:艳蜂鸟
 amazilia viridifrons:绿额蜂鸟
 amazilia:桂红蜂鸟属
 amazing alex:神奇的阿力
-amazing bird theatre:雀鳥劇場
-amazing books & gifts:世界生活館
+amazing bird theatre:雀鸟剧场
+amazing books & gifts:世界生活馆
 amazing detective di renjie:神探狄仁杰
-amazing film studio:安邁進國際影業
+amazing film studio:安迈进国际影业
 amazing food in hue:道地越南食物
-amazing garden:方舟奇園
-amazing grace lutheran church:路德會沐恩堂
-amazing grace pharmacy:71恩典藥局
-amazing grace:奇異恩典
-amazing kitchen:香積廚素食館
-amazing nurse nanako:菜菜子解體診書
+amazing garden:方舟奇园
+amazing grace lutheran church:路德会沐恩堂
+amazing grace pharmacy:71恩典药局
+amazing grace:奇异恩典
+amazing kitchen:香积厨素食馆
+amazing nurse nanako:菜菜子解体诊书
 amazing oriental:东方行
-amazing penguin:企鵝男孩
-amazing southsea kitchen:精采南洋風味廚房
+amazing penguin:企鹅男孩
+amazing southsea kitchen:精采南洋风味厨房
 amazing stories quarterly:惊人故事季刊
 amazing stories:惊奇故事
 amazing valley and rice paddies:无敌梯田与山峦风景
@@ -1443,19 +1409,17 @@ amazing world:奇妙坊
 amazinga ya reyiniyo:liúníwāng
 amazinga ya reyiniyo:留尼汪
 amazinga ya salumoni:所罗门群岛
-amazinga ya salumoni:所罗门群岛 / 索羅門群島
-amazinga ya salumoni:所羅門群島
-amazinga ya salumoni:索羅門群島
+amazinga ya salumoni:所罗门群岛 / 索罗门群岛
+amazinga ya salumoni:索罗门群岛
 amazinga ya seyisheli:sàishéěr qúndǎo
-amazinga ya seyisheli:塞席爾
+amazinga ya seyisheli:塞席尔
 amazinga ya seyisheli:塞舌尔
-amazinga ya seyisheli:塞舌尔 / 塞席爾
-amazinga ya seyisheli:塞舌爾
-amazinga ya turkisi na cayikosi:土克凱可群島
-amazinga ya turkisi na cayikosi:土克凱可群島 / 特克斯和凱科斯群島
+amazinga ya seyisheli:塞舌尔 / 塞席尔
+amazinga ya turkisi na cayikosi:土克凱可群岛
+amazinga ya turkisi na cayikosi:土克凱可群岛 / 特克斯和凱科斯群岛
+amazinga ya turkisi na cayikosi:特克斯与凱科斯群岛
 amazinga ya turkisi na cayikosi:特克斯和凯科斯群岛
-amazinga ya turkisi na cayikosi:特克斯和凱科斯群島
-amazinga ya turkisi na cayikosi:特克斯與凱科斯群島
+amazinga ya turkisi na cayikosi:特克斯和凱科斯群岛
 amazingly:令人惊讶
 amazon a few years ago:亚马逊几年前
 amazon about:亚马逊关于
@@ -1584,7 +1548,7 @@ amazon auto:亚马逊自动
 amazon avoid:亚马逊避免
 amazon bail:亚马逊保释
 amazon bank:亚马逊银行
-amazon basin:亞馬遜盆地
+amazon basin:亚马逊盆地
 amazon be:亚马逊成为
 amazon became:亚马逊成为
 amazon because of security issues:亚马逊因为安全问题
@@ -1920,7 +1884,7 @@ amazon last week:亚马逊上周
 amazon last year exit:亚马逊去年退出
 amazon last year:亚马逊去年
 amazon laws:亚马逊法律
-amazon leaffish:枯葉魚
+amazon leaffish:枯叶鱼
 amazon let:亚马逊让
 amazon like:亚马逊喜欢
 amazon line:亚马逊线
@@ -1949,14 +1913,14 @@ amazon manifesto:亚马逊宣言
 amazon market:亚马逊市场
 amazon markets:亚马逊市场
 amazon meal:亚马逊餐
-amazon mechanical turk:亞馬遜土耳其機器人
+amazon mechanical turk:亚马逊土耳其机器人
 amazon media:亚马逊媒体
 amazon meeting:亚马逊会议
 amazon members:亚马逊成员
 amazon merchant:亚马逊商家
 amazon merge:亚马逊合并
 amazon mexico:亚马逊墨西哥
-amazon mgm studios:亞馬遜米高梅工作室
+amazon mgm studios:亚马逊米高梅工作室
 amazon microsoft:亚马逊微软
 amazon million:亚马逊百万
 amazon mistake:亚马逊错误
@@ -2088,15 +2052,13 @@ amazon rainforest and impact:亚马逊雨林和影响
 amazon rainforest and ocean:亚马逊雨林和海洋
 amazon rainforest biome:亚马孙雨林生物群系
 amazon rainforest biome:亚马逊雨林生物群系
-amazon rainforest biome:亞馬遜雨林生物群系
 amazon rainforest continue:亚马逊雨林持续
-amazon rainforest every year:亞馬遜雨林每年
+amazon rainforest every year:亚马逊雨林每年
 amazon rainforest fire:亚马逊雨林火
-amazon rainforest provides:亞馬遜雨林提供
+amazon rainforest provides:亚马逊雨林提供
 amazon rainforest:亚马孙雨林
 amazon rainforest:亚马逊河雨林
 amazon rainforest:亚马逊雨林
-amazon rainforest:亞馬遜雨林
 amazon ranking:亚马逊排名
 amazon rather than:亚马逊而不是
 amazon reach:亚马逊达到
@@ -2130,7 +2092,7 @@ amazon restricted stock:亚马逊限制性股票
 amazon retail:亚马逊零售
 amazon revenue:亚马逊收入
 amazon rise:亚马逊上升
-amazon river dolphin:亞馬遜河豚
+amazon river dolphin:亚马逊河豚
 amazon river wood export:亚马孙河木材出口
 amazon river wood:亚马孙河木材
 amazon river:亚马孙河
@@ -2190,7 +2152,7 @@ amazon sort:亚马逊排序
 amazon species:亚马逊物种
 amazon spent:亚马逊花
 amazon spent:亚马逊花费
-amazon spheres:亞馬遜球體
+amazon spheres:亚马逊球体
 amazon spirit:亚马逊精神
 amazon spokesman said:亚马逊发言人说
 amazon spokesman:亚马逊发言人
@@ -2351,10 +2313,9 @@ amazon:亚马孙
 amazon:亚马孙河
 amazon:亚马逊
 amazon:亚马逊河
-amazonas class offshore patrol vessel:亞馬孫級護衛艦
+amazonas class offshore patrol vessel:亚马孙级护卫舰
 amazonas:亚马孙州
 amazonas:亚马孙河
-amazonas:亞馬孫州
 amazonasa:亚马孙州
 amazone:亚马孙河
 amazones:亚马孙州
@@ -2362,38 +2323,36 @@ amazonfloden:亚马孙河
 amazonian antshrike:亚马孙蚁鵙
 amazonian craton:亚马逊克拉通
 amazonian manatee:亚马逊海牛
-amazonian umbrellabird:亞馬遜傘鳥
+amazonian umbrellabird:亚马逊伞鸟
 amazonio:亚马孙州
-amazonio:亞馬孫州
 amazonite:天河石
 amazonka:亚马孙河
-amazons and scythians:亞馬遜人和斯基泰人
-amazons:亞馬遜人
-amazonsaurus:亞馬遜龍屬
-amazonsprattus scintilla:亞馬遜鯷
+amazons and scythians:亚马逊人和斯基泰人
+amazons:亚马逊人
+amazonsaurus:亚马逊龙属
+amazonsprattus scintilla:亚马逊鯷
 amazonė:亚马孙州
 amazu:天水
-amazuppai haru ni sakura saku:櫻花綻放於酸甜春季
+amazuppai haru ni sakura saku:櫻花綻放于酸甜春季
 amazy:阿马济
 amba alagi:阿拉吉山
-amba aradam:阿拉達姆山
+amba aradam:阿拉达姆山
 amba boro town:琼博拉镇
 amba boro:qióngbólā xiāng
 amba boro:琼博拉镇
-amba boro:瓊博拉鎮
 amba geshen:格申山
-amba hotels:西門町意舍飯店
-amba mariam:安巴馬利安
+amba hotels:西门町意舍饭店
+amba mariam:安巴马利安
 amba people:安巴人
 amba taipei songshan:松山意舍酒店
-amba taipei ximending:台北西門町意舍酒店
+amba taipei ximending:台北西门町意舍酒店
 amba taipei zhongshan:台北中山意舍酒店
 ambaca:安巴卡
 ambacia:昂布瓦斯
 ambacourt:昂巴库尔
 ambad:阿姆巴德
 ambada:阿姆巴达
-ambae:奧巴島
+ambae:奧巴岛
 ambagarh chowki:阿姆巴加尔赫乔沃基
 ambaghai:俺巴孩
 ambah:阿姆巴
@@ -2444,7 +2403,7 @@ ambaixada de dinamarca:丹麦大使馆
 ambaixada de finlàndia:芬兰大使馆
 ambaixada de frança:法国大使馆
 ambaixada de grècia:希腊大使馆
-ambaixada de guinea equatorial:赤道幾內亞駐俄羅斯大使館
+ambaixada de guinea equatorial:赤道几內亚驻俄罗斯大使馆
 ambaixada de jordània:约旦大使馆
 ambaixada de kazakhstan:哈萨克斯坦大使馆
 ambaixada de kenya:肯尼亚大使馆
@@ -2529,32 +2488,30 @@ ambala cantonment:阿姆巴拉
 ambala district:安巴拉县
 ambala sadar:阿姆巴拉萨达尔
 ambala:安巴拉
-ambalada peak:安巴拉達峰
-ambalavao district:安巴拉沃區
+ambalada peak:安巴拉达峰
+ambalavao district:安巴拉沃区
 ambalavao:安巴拉沃
-ambalema:安巴萊馬
+ambalema:安巴莱马
 ambam:安巴姆
 amban xar gaqaa xin hôt:安班夏日嘎查新浩特
 amban xar gaqaa:安班夏日嘎查
 amban xar jûslang:安班沙尔夏营盘
 amban xar mangh:安班夏日芒哈
 amban xar:安班夏日
-amban:駐劄大臣
-ambang asuhan jepun:日本文化研究館
+amban:驻劄大臣
 ambang asuhan jepun:日本文化研究馆
-ambang batas al-abbas:阿巴斯的門檻
 ambang batas al-abbas:阿巴斯的门槛
 ambang:安邦火山
-ambanja district:安班扎區
+ambanja district:安班扎区
 ambanja:安班扎
-ambank account:大馬銀行帳戶
+ambank account:大马银行帐戶
 ambank tower:大马银行大厦
-ambank:大馬銀行
+ambank:大马银行
 ambar (província):安巴尔省
 ambar (província):安巴省
-ambar district:安巴爾區
+ambar district:安巴尔区
 ambarawa railway museum:双胶汉（安巴拉瓦）铁路博物馆
-ambarchik bay:安巴奇克灣
+ambarchik bay:安巴奇克湾
 ambarnath:阿姆巴尔纳特
 ambasada afganistana:阿富汗大使馆
 ambasada afganistanu:阿富汗大使馆
@@ -2596,13 +2553,12 @@ ambasada bjelorusije:白俄罗斯大使馆
 ambasada boliviei:玻利维亚大使馆
 ambasada bolivije:玻利维亚大使馆
 ambasada boliwii:玻利维亚大使馆
-ambasada bosne i hercegovine:波士尼亞與赫塞哥維納大使館
+ambasada bosne i hercegovine:波士尼亚与赫塞哥维纳大使馆
 ambasada bosne i hercegovine:波斯尼亚和黑塞哥维那大使馆
 ambasada bosniei și herțegovinei:波斯尼亚和黑塞哥维那大使馆
 ambasada bośni i hercegowiny:波斯尼亚和黑塞哥维那大使馆
 ambasada brazila:巴西大使馆
 ambasada braziliei:巴西大使馆
-ambasada brazylii w luandzie:巴西駐羅安達大使館
 ambasada brazylii w luandzie:巴西驻罗安达大使馆
 ambasada brazylii:巴西大使馆
 ambasada brunei:文莱大使馆
@@ -2622,7 +2578,6 @@ ambasada chile:智利大使馆
 ambasada chin:中国大使馆
 ambasada chinei:中国大使馆
 ambasada chińskiej republiki ludowej:中华人民共和国大使馆
-ambasada chińskiej republiki ludowej:中華人民共和國大使館
 ambasada chorwacji:克罗地亚大使馆
 ambasada ciadului:乍得大使馆
 ambasada cjedinjenih američkih država:美利坚合众国大使馆
@@ -2630,8 +2585,7 @@ ambasada coastei de fildeș:科特迪瓦大使馆
 ambasada columbiei:哥伦比亚大使馆
 ambasada coreei de sud:韩国大使馆
 ambasada costa rica:哥斯达黎加大使馆
-ambasada crne gore:蒙特內哥羅大使館
-ambasada crne gore:黑山大使館
+ambasada crne gore:蒙特內哥罗大使馆
 ambasada crne gore:黑山大使馆
 ambasada croației:克罗地亚大使馆
 ambasada cubei:古巴大使馆
@@ -2724,8 +2678,7 @@ ambasada e lituanisë:立陶宛大使馆
 ambasada e luksemburgut:卢森堡大使馆
 ambasada e malajzisë:马来西亚大使馆
 ambasada e maldiveve:马尔代夫大使馆
-ambasada e malit të zi:蒙特內哥羅大使館
-ambasada e malit të zi:黑山大使館
+ambasada e malit të zi:蒙特內哥罗大使馆
 ambasada e malit të zi:黑山大使馆
 ambasada e malit:马里大使馆
 ambasada e maltës:马耳他大使馆
@@ -2792,8 +2745,8 @@ ambasada egipta:埃及大使馆
 ambasada egiptu:埃及大使馆
 ambasada egiptului:埃及大使馆
 ambasada elveției:瑞士大使馆
-ambasada emiratelor arabe unite:阿拉伯聯合大公國駐德國大使館
-ambasada emiratelor arabe unite:阿拉伯聯合酋長國大使館
+ambasada emiratelor arabe unite:阿拉伯联合大公国驻德国大使馆
+ambasada emiratelor arabe unite:阿拉伯联合酋长国大使馆
 ambasada emiratelor arabe unite:阿联酋大使馆
 ambasada estoniei:爱沙尼亚大使馆
 ambasada estonii:爱沙尼亚大使馆
@@ -2801,9 +2754,8 @@ ambasada estonije:爱沙尼亚大使馆
 ambasada etiopiei:埃塞俄比亚大使馆
 ambasada etiopii:埃塞俄比亚大使馆
 ambasada etiopije:埃塞俄比亚大使馆
-ambasada federacji rosyjskiej w republice angoli:俄羅斯聯邦駐安哥拉共和國大使館
+ambasada federacji rosyjskiej w republice angoli:俄罗斯联邦驻安哥拉共和国大使馆
 ambasada federalnej republiki nigerii w luandzie:尼日利亚联邦共和国驻罗安达大使馆
-ambasada federalnej republiki nigerii w luandzie:尼日利亞聯邦共和國駐羅安達大使館
 ambasada filipin:菲律宾大使馆
 ambasada filipina:菲律宾大使馆
 ambasada filipinelor:菲律宾大使馆
@@ -2811,10 +2763,8 @@ ambasada finlandei:芬兰大使馆
 ambasada finlandii:芬兰大使馆
 ambasada finske:芬兰大使馆
 ambasada francji:法国大使馆
-ambasada francji:法國大使館
 ambasada francuske:法国大使馆
 ambasada franței:法国大使馆
-ambasada gabonu:加蓬駐安哥拉羅安達大使館
 ambasada gabonu:加蓬驻安哥拉罗安达大使馆
 ambasada germaniei:德国大使馆
 ambasada greciei:希腊大使馆
@@ -2846,7 +2796,6 @@ ambasada italije:意大利大使馆
 ambasada izraela:以色列大使馆
 ambasada japana:日本大使馆
 ambasada japoniei:日本大使馆
-ambasada japonii w angoli:日本駐安哥拉大使館
 ambasada japonii w angoli:日本驻安哥拉大使馆
 ambasada japonii:日本大使馆
 ambasada jemena:也门大使馆
@@ -2875,7 +2824,6 @@ ambasada kirgistana:吉尔吉斯斯坦大使馆
 ambasada kirgistanu:吉尔吉斯斯坦大使馆
 ambasada kolumbii:哥伦比亚大使馆
 ambasada kolumbije:哥伦比亚大使馆
-ambasada koreańskiej republiki ludowo-demokratycznej:朝鮮民主主義人民共和國駐羅安達大使館
 ambasada koreańskiej republiki ludowo-demokratycznej:朝鲜民主主义人民共和国驻罗安达大使馆
 ambasada korei południowej:韩国大使馆
 ambasada kosova:科索沃大使馆
@@ -2884,9 +2832,7 @@ ambasada kosowa:科索沃大使馆
 ambasada kostarike:哥斯达黎加大使馆
 ambasada kostaryki:哥斯达黎加大使馆
 ambasada królestwa niderlandów w luandzie:荷兰王国驻罗安达大使馆
-ambasada królestwa niderlandów w luandzie:荷蘭王國駐羅安達大使館
 ambasada kube:古巴大使馆
-ambasada kuby w luandzie:古巴駐羅安達大使館
 ambasada kuby w luandzie:古巴驻罗安达大使馆
 ambasada kuby:古巴大使馆
 ambasada kuvajta:科威特大使馆
@@ -3020,8 +2966,8 @@ ambasada mongolii:蒙古大使馆
 ambasada mongolije:蒙古大使馆
 ambasada mołdawii:摩尔多瓦大使馆
 ambasada muntenegrului:黑山大使馆
-ambasada narodne republike kine:中國大使館
-ambasada narodne republike kine:中華人民共和國駐蒙特內哥羅大使館
+ambasada narodne republike kine:中华人民共和国驻蒙特內哥罗大使馆
+ambasada narodne republike kine:中国大使馆
 ambasada nicaragua:尼加拉瓜大使馆
 ambasada niemiec:德国大使馆
 ambasada nigera:尼日尔大使馆
@@ -3048,7 +2994,6 @@ ambasada pakistanu:巴基斯坦大使馆
 ambasada pakistanului:巴基斯坦大使馆
 ambasada palestine:巴勒斯坦大使馆
 ambasada palestinei:巴勒斯坦大使馆
-ambasada palestyny w luandzie:巴勒斯坦駐羅安達大使館
 ambasada palestyny w luandzie:巴勒斯坦驻罗安达大使馆
 ambasada palestyny:巴勒斯坦大使馆
 ambasada panama:巴拿马大使馆
@@ -3062,7 +3007,7 @@ ambasada perua:秘鲁大使馆
 ambasada peruului:秘鲁大使馆
 ambasada poljske:波兰大使馆
 ambasada poloniei:波兰大使馆
-ambasada polska:波蘭大使館
+ambasada polska:波兰大使馆
 ambasada polski:波兰大使馆
 ambasada portugala:葡萄牙大使馆
 ambasada portugaliei:葡萄牙大使馆
@@ -3076,16 +3021,11 @@ ambasada republike kongo:刚果共和国大使馆
 ambasada republike kosovo:科索沃大使馆
 ambasada republiki czeskiej:捷克共和国大使馆
 ambasada republiki francuskiej w luandzie:法兰西共和国驻罗安达大使馆
-ambasada republiki francuskiej w luandzie:法蘭西共和國駐羅安達大使館
 ambasada republiki konga:刚果共和国大使馆
-ambasada republiki korei w republice angoli:大韓民國駐安哥拉共和國大使館
 ambasada republiki korei w republice angoli:大韩民国驻安哥拉共和国大使馆
 ambasada republiki południowej afryki w luandzie:南非共和国驻罗安达大使馆
-ambasada republiki południowej afryki w luandzie:南非共和國駐羅安達大使館
 ambasada republiki południowej afryki:南非大使馆
 ambasada republiki turcji:土耳其共和国驻罗安达大使馆
-ambasada republiki turcji:土耳其共和國駐羅安達大使館
-ambasada republiki zambii w luandzie:贊比亞共和國駐羅安達大使館
 ambasada republiki zambii w luandzie:赞比亚共和国驻罗安达大使馆
 ambasada romaniei:罗马尼亚大使馆
 ambasada româniei:罗马尼亚驻马大使馆
@@ -3099,9 +3039,8 @@ ambasada rusije:俄罗斯大使馆
 ambasada rwandei:卢旺达大使馆
 ambasada rwandy:卢旺达大使馆
 ambasada rzeczypospolitej polskiej w luandzie:波兰共和国驻罗安达大使馆
-ambasada rzeczypospolitej polskiej w luandzie:波蘭共和國駐羅安達大使館
 ambasada rzeczypospolitej polskiej:波兰大使馆
-ambasada sad:美國大使館
+ambasada sad:美国大使馆
 ambasada saudijske arabije:沙特阿拉伯大使馆
 ambasada senegala:塞内加尔大使馆
 ambasada senegalu:塞内加尔大使馆
@@ -3129,7 +3068,6 @@ ambasada srbije:塞尔维亚大使馆
 ambasada sri lanka:斯里兰卡大使馆
 ambasada sri lanki:斯里兰卡大使馆
 ambasada stanów zjednoczonych ameryki:美利坚合众国大使馆
-ambasada stanów zjednoczonych ameryki:美利堅合眾國大使館
 ambasada stanów zjednoczonych:美国大使馆
 ambasada statelor unite ale americii:美利坚合众国大使馆
 ambasada statelor unite:美国大使馆
@@ -3139,10 +3077,8 @@ ambasada sudanu:苏丹大使馆
 ambasada sudanului de sud:南苏丹大使馆
 ambasada sudanului:苏丹大使馆
 ambasada suediei:瑞典大使馆
-ambasada szwajcarii w republice angoli:瑞士駐安哥拉共和國大使館
 ambasada szwajcarii w republice angoli:瑞士驻安哥拉共和国大使馆
 ambasada szwajcarii:瑞士大使馆
-ambasada szwecji w luandzie:瑞典駐羅安達大使館
 ambasada szwecji w luandzie:瑞典驻罗安达大使馆
 ambasada szwecji:瑞典大使馆
 ambasada słowacji:斯洛伐克大使馆
@@ -3171,11 +3107,10 @@ ambasada ucrainei:乌克兰大使馆
 ambasada ugande:乌干达大使馆
 ambasada ugandei:乌干达大使馆
 ambasada ugandy:乌干达大使馆
-ambasada ujedinjenih arapskih emirata:阿拉伯聯合酋長國大使館
+ambasada ujedinjenih arapskih emirata:阿拉伯联合酋长国大使馆
 ambasada ujedinjenih arapskih emirata:阿联酋大使馆
 ambasada ujedinjenog kraljevstva:英国大使馆
 ambasada ukrainy w luandzie:乌克兰驻罗安达大使馆
-ambasada ukrainy w luandzie:烏克蘭駐羅安達大使館
 ambasada ukrainy:乌克兰大使馆
 ambasada ukrajine:乌克兰大使馆
 ambasada ungariei:匈牙利大使馆
@@ -3184,8 +3119,8 @@ ambasada wybrzeża kości słoniowej:科特迪瓦大使馆
 ambasada węgier:匈牙利大使馆
 ambasada włoch:意大利大使馆
 ambasada yemenului:也门大使馆
-ambasada zjednoczonych emiratów arabskich:阿拉伯聯合大公國駐德國大使館
-ambasada zjednoczonych emiratów arabskich:阿拉伯聯合酋長國大使館
+ambasada zjednoczonych emiratów arabskich:阿拉伯联合大公国驻德国大使馆
+ambasada zjednoczonych emiratów arabskich:阿拉伯联合酋长国大使馆
 ambasada zjednoczonych emiratów arabskich:阿联酋大使馆
 ambasada Čada:乍得大使馆
 ambasada Češke republike:捷克共和国大使馆
@@ -3455,17 +3390,15 @@ ambasciata d'italia:意大利大使馆
 ambasciata d'italia:意大利驻马大使馆
 ambasciata d'ungheria:匈牙利大使馆
 ambasciata de cina:中华人民共和国大使馆
-ambasciata degli emirati arabi uniti:阿拉伯聯合大公國駐德國大使館
-ambasciata degli emirati arabi uniti:阿拉伯聯合酋長國大使館
+ambasciata degli emirati arabi uniti:阿拉伯联合大公国驻德国大使馆
+ambasciata degli emirati arabi uniti:阿拉伯联合酋长国大使馆
 ambasciata degli emirati arabi uniti:阿联酋大使馆
 ambasciata degli stati uniti d'america:美利坚合众国大使馆
-ambasciata degli stati uniti d'america:美利堅合眾國大使館
 ambasciata degli stati uniti:美国大使馆
 ambasciata dei paesi bassi:荷兰大使馆
 ambasciata del bahrein:巴林大使馆
 ambasciata del bangladesh:孟加拉国大使馆
 ambasciata del belgio:比利时大使馆
-ambasciata del brasile a luanda:巴西駐羅安達大使館
 ambasciata del brasile a luanda:巴西驻罗安达大使馆
 ambasciata del brasile:巴西大使馆
 ambasciata del brunei:文莱大使馆
@@ -3476,9 +3409,7 @@ ambasciata del canada:加拿大大使馆
 ambasciata del ciad:乍得大使馆
 ambasciata del cile:智利大使馆
 ambasciata del costa rica:哥斯达黎加大使馆
-ambasciata del gabon:加蓬駐安哥拉羅安達大使館
 ambasciata del gabon:加蓬驻安哥拉罗安达大使馆
-ambasciata del giappone in angola:日本駐安哥拉大使館
 ambasciata del giappone in angola:日本驻安哥拉大使馆
 ambasciata del giappone:日本大使馆
 ambasciata del kazakistan:哈萨克斯坦大使馆
@@ -3497,11 +3428,9 @@ ambasciata del niger:尼日尔大使馆
 ambasciata del pakistan:巴基斯坦大使馆
 ambasciata del paraguay:巴拉圭大使馆
 ambasciata del perù:秘鲁大使馆
-ambasciata del portogallo:葡萄牙大使館
 ambasciata del portogallo:葡萄牙大使馆
 ambasciata del qatar:卡塔尔大使馆
 ambasciata del regno dei paesi bassi a luanda:荷兰王国驻罗安达大使馆
-ambasciata del regno dei paesi bassi a luanda:荷蘭王國駐羅安達大使館
 ambasciata del regno unito:英国大使馆
 ambasciata del ruanda:卢旺达大使馆
 ambasciata del senegal:塞内加尔大使馆
@@ -3534,7 +3463,7 @@ ambasciata della colombia:哥伦比亚大使馆
 ambasciata della corea del sud:韩国大使馆
 ambasciata della costa d'avorio:科特迪瓦大使馆
 ambasciata della croazia:克罗地亚大使馆
-ambasciata della federazione russa nella repubblica d'angola:俄羅斯聯邦駐安哥拉共和國大使館
+ambasciata della federazione russa nella repubblica d'angola:俄罗斯联邦驻安哥拉共和国大使馆
 ambasciata della germania:德国大使馆
 ambasciata della giordania:约旦大使馆
 ambasciata della grecia:希腊大使馆
@@ -3552,27 +3481,18 @@ ambasciata della palestina:巴勒斯坦大使馆
 ambasciata della polonia:波兰大使馆
 ambasciata della repubblica ceca:捷克共和国大使馆
 ambasciata della repubblica del congo:刚果共和国大使馆
-ambasciata della repubblica dello zambia a luanda:贊比亞共和國駐羅安達大使館
 ambasciata della repubblica dello zambia a luanda:赞比亚共和国驻罗安达大使馆
 ambasciata della repubblica democratica del congo:刚果民主共和国大使馆
-ambasciata della repubblica democratica popolare di corea:朝鮮民主主義人民共和國駐羅安達大使館
 ambasciata della repubblica democratica popolare di corea:朝鲜民主主义人民共和国驻罗安达大使馆
-ambasciata della repubblica di cina (taiwan) presso la santa sede:中華民國 (台灣) 駐教廷大使館
-ambasciata della repubblica di corea nella repubblica di angola:大韓民國駐安哥拉共和國大使館
+ambasciata della repubblica di cina (taiwan) presso la santa sede:中华民国 (台湾) 驻教廷大使馆
 ambasciata della repubblica di corea nella repubblica di angola:大韩民国驻安哥拉共和国大使馆
 ambasciata della repubblica di francia a luanda:法兰西共和国驻罗安达大使馆
-ambasciata della repubblica di francia a luanda:法蘭西共和國駐羅安達大使館
 ambasciata della repubblica di polonia a luanda:波兰共和国驻罗安达大使馆
-ambasciata della repubblica di polonia a luanda:波蘭共和國駐羅安達大使館
 ambasciata della repubblica di polonia:波兰共和国大使馆
 ambasciata della repubblica di turchia:土耳其共和国驻罗安达大使馆
-ambasciata della repubblica di turchia:土耳其共和國駐羅安達大使館
 ambasciata della repubblica federale della nigeria a luanda:尼日利亚联邦共和国驻罗安达大使馆
-ambasciata della repubblica federale della nigeria a luanda:尼日利亞聯邦共和國駐羅安達大使館
 ambasciata della repubblica popolare cinese:中华人民共和国大使馆
-ambasciata della repubblica popolare cinese:中華人民共和國大使館
 ambasciata della repubblica sudafricana a luanda:南非共和国驻罗安达大使馆
-ambasciata della repubblica sudafricana a luanda:南非共和國駐羅安達大使館
 ambasciata della romania:罗马尼亚大使馆
 ambasciata della russia:俄罗斯大使馆
 ambasciata della serbia:塞尔维亚大使馆
@@ -3615,7 +3535,6 @@ ambasciata di corea di u sud:韩国大使馆
 ambasciata di costa d'ivory:科特迪瓦大使馆
 ambasciata di costa rica:哥斯达黎加大使馆
 ambasciata di croazia:克罗地亚大使馆
-ambasciata di cuba a luanda:古巴駐羅安達大使館
 ambasciata di cuba a luanda:古巴驻罗安达大使馆
 ambasciata di cuba:古巴大使馆
 ambasciata di cubba:古巴大使馆
@@ -3625,8 +3544,6 @@ ambasciata di filippine:菲律宾大使馆
 ambasciata di finlandia:芬兰大使馆
 ambasciata di francia:法国大使馆
 ambasciata di francia:法国驻马来西亚大使馆
-ambasciata di francia:法國大使館
-ambasciata di francia:法國駐馬來西亞大使館
 ambasciata di germania:德国大使馆
 ambasciata di ghjordanu:约旦大使馆
 ambasciata di grecia:希腊大使馆
@@ -3675,12 +3592,10 @@ ambasciata di nicaragua:尼加拉瓜大使馆
 ambasciata di niger:尼日尔大使馆
 ambasciata di nigeria:尼日利亚大使馆
 ambasciata di norvegia:挪威大使馆
-ambasciata di norvegia:挪威駐馬來西亞大使館
 ambasciata di norvegia:挪威驻马来西亚大使馆
 ambasciata di nova zelanda:新西兰大使馆
 ambasciata di oman:阿曼大使馆
 ambasciata di pakistan:巴基斯坦大使馆
-ambasciata di palestina a luanda:巴勒斯坦駐羅安達大使館
 ambasciata di palestina a luanda:巴勒斯坦驻罗安达大使馆
 ambasciata di palestina:巴勒斯坦大使馆
 ambasciata di panama:巴拿马大使馆
@@ -3704,10 +3619,8 @@ ambasciata di spagna:西班牙大使馆
 ambasciata di sri lanka:斯里兰卡大使馆
 ambasciata di sudafrica:南非大使馆
 ambasciata di sudan:苏丹大使馆
-ambasciata di svezia a luanda:瑞典駐羅安達大使館
 ambasciata di svezia a luanda:瑞典驻罗安达大使馆
 ambasciata di svezia:瑞典大使馆
-ambasciata di svizzera nella repubblica d'angola:瑞士駐安哥拉共和國大使館
 ambasciata di svizzera nella repubblica d'angola:瑞士驻安哥拉共和国大使馆
 ambasciata di svizzera:瑞士大使馆
 ambasciata di svizzera:瑞士驻马大使馆
@@ -3724,7 +3637,6 @@ ambasciata di u perù:秘鲁大使馆
 ambasciata di u regnu unitu:英国大使馆
 ambasciata di u sud sudan:南苏丹大使馆
 ambasciata di ucraina a luanda:乌克兰驻罗安达大使馆
-ambasciata di ucraina a luanda:烏克蘭駐羅安達大使館
 ambasciata di ucraina:乌克兰大使馆
 ambasciata di yemen:也门大使馆
 ambasciata dâ bielurussia:白俄罗斯大使馆
@@ -3821,16 +3733,12 @@ ambassa:安巴萨
 ambassade chine:中国驻瑞士大使馆
 ambassade d'afghanistan:阿富汗大使馆
 ambassade d'afrique du sud:南非共和国驻罗安达大使馆
-ambassade d'afrique du sud:南非共和國駐羅安達大使館
 ambassade d'afrique du sud:南非大使馆
 ambassade d'albanie:阿尔巴尼亚大使馆
 ambassade d'algérie:阿尔及利亚大使馆
 ambassade d'algérie:阿尔及利亚驻马大使馆
-ambassade d'algérie:阿爾及利亞駐馬大使館
 ambassade d'allemagne:德国大使馆
 ambassade d'allemagne:德国驻马来西亚大使馆
-ambassade d'allemagne:德國大使館
-ambassade d'allemagne:德國駐馬來西亞大使館
 ambassade d'allemagne:德意志联邦共和国大使馆
 ambassade d'angola:安哥拉大使馆
 ambassade d'arabie saoudite:沙特阿拉伯大使馆
@@ -3842,10 +3750,8 @@ ambassade d'autriche:奥地利大使馆
 ambassade d'autriche:奥地利驻韩大使馆
 ambassade d'azerbaïdjan:阿塞拜疆大使馆
 ambassade d'egypte:埃及大使馆
-ambassade d'espagne:西班牙大使館
 ambassade d'espagne:西班牙大使馆
 ambassade d'espagne:西班牙王国大使馆
-ambassade d'espagne:西班牙駐馬來西亞大使館
 ambassade d'espagne:西班牙驻马来西亚大使馆
 ambassade d'estonie:爱沙尼亚大使馆
 ambassade d'ethiopie:埃塞俄比亚大使馆
@@ -3853,7 +3759,6 @@ ambassade d'inde en chine:印度驻华大使馆
 ambassade d'indonésie:印度尼西亚大使馆
 ambassade d'irak:伊拉克大使馆
 ambassade d'iran:伊朗大使馆
-ambassade d'iraq:伊拉克駐馬大使館
 ambassade d'iraq:伊拉克驻马大使馆
 ambassade d'irlande:爱尔兰大使馆
 ambassade d'islande:冰岛驻华大使馆
@@ -3863,32 +3768,25 @@ ambassade d'italie:意大利驻马大使馆
 ambassade d'oman:阿曼大使馆
 ambassade d'ouganda:乌干达大使馆
 ambassade d'ukraine à luanda:乌克兰驻罗安达大使馆
-ambassade d'ukraine à luanda:烏克蘭駐羅安達大使館
 ambassade d'ukraine:乌克兰大使馆
 ambassade d'ukraine:乌克兰驻华大使馆
-ambassade d'ukraine:烏克蘭駐華大使館
 ambassade d'uruguay:乌拉圭大使馆
 ambassade d'uruguay:乌拉圭驻华大使馆
-ambassade d'uruguay:烏拉圭大使館
 ambassade d'Égypte:埃及大使馆
 ambassade d'Égypte:埃及驻马大使馆
 ambassade d'Équateur:厄瓜多尔大使馆
 ambassade d'Équateur:厄瓜多尔驻墨西哥大使馆
-ambassade d'Équateur:厄瓜多爾大使館
 ambassade d'Érythrée:厄利特里亚大使馆
 ambassade d'Éthiopie:埃塞俄比亚大使馆
 ambassade d'Éthiopie:埃塞俄比亚大使馆（施工中）
 ambassade de bahreïn:巴林大使馆
 ambassade de belgique:比利时大使馆
 ambassade de belgique:比利时驻马来西亚大使馆
-ambassade de belgique:比利時大使館
-ambassade de belgique:比利時駐馬來西亞大使館
 ambassade de biélorussie:白俄罗斯大使馆
 ambassade de biélorussie:白俄罗斯驻蒙古大使馆
 ambassade de bolivie:玻利维亚大使馆
-ambassade de bosnie-herzégovine:波士尼亞與赫塞哥維納大使館
+ambassade de bosnie-herzégovine:波士尼亚与赫塞哥维纳大使馆
 ambassade de bosnie-herzégovine:波斯尼亚和黑塞哥维那大使馆
-ambassade de bosnie-herzégovine:波斯尼亞和黑塞哥維那大使館
 ambassade de brunei darussalam:文莱驻韩大使馆
 ambassade de bulgarie:保加利亚大使馆
 ambassade de chine:zhōnghuá rénmín gònghéguó zhù nírìlìyǎ liánbāng gònghéguó dàshǐ guǎn
@@ -3905,11 +3803,13 @@ ambassade de chine:中华人民共和国驻波斯尼亚和黑塞哥维那大使�
 ambassade de chine:中华人民共和国驻泰王国大使馆
 ambassade de chine:中华人民共和国驻爱尔兰大使馆
 ambassade de chine:中华人民共和国驻蒙古国大使馆
+ambassade de chine:中华人民共和国驻蒙特內哥罗大使馆
 ambassade de chine:中华人民共和国驻阿富汗伊斯兰共和国大使馆
 ambassade de chine:中华人民共和国驻阿拉伯联合酋长国大使馆
 ambassade de chine:中华人民共和国驻韩国大使馆
 ambassade de chine:中华人民共和国驻马其顿共和国大使馆
 ambassade de chine:中华人民共和国驻马耳他共和国大使馆
+ambassade de chine:中国人民共和国大使馆
 ambassade de chine:中国使馆
 ambassade de chine:中国大使
 ambassade de chine:中国大使馆
@@ -3922,32 +3822,19 @@ ambassade de chine:中国驻美国大使馆
 ambassade de chine:中国驻赤道几内亚大使馆
 ambassade de chine:中国驻马大使馆
 ambassade de chine:中国驻黎巴嫩大使馆
-ambassade de chine:中國人民共和國大使館
-ambassade de chine:中國大使館
-ambassade de chine:中國駐瑞典大使館
-ambassade de chine:中國駐馬大使館
-ambassade de chine:中華人民共和國駐尼日利亞聯邦共和國大使館
-ambassade de chine:中華人民共和國駐日本國大使館
-ambassade de chine:中華人民共和國駐蒙特內哥羅大使館
-ambassade de chine:中華人民共和國駐阿富汗伊斯蘭共和國大使館
-ambassade de chine:中華人民共和國駐馬其頓共和國大使館
-ambassade de chine:對中國人民共和國大使館
+ambassade de chine:对中国人民共和国大使馆
 ambassade de colombie:哥伦比亚共和国大使馆
 ambassade de colombie:哥伦比亚大使馆
 ambassade de colombie:哥伦比亚驻韩大使馆
-ambassade de corée du nord:朝鮮民主主義人民共和國駐羅安達大使館
 ambassade de corée du nord:朝鲜民主主义人民共和国驻罗安达大使馆
-ambassade de corée du sud:大韓民國駐安哥拉共和國大使館
 ambassade de corée du sud:大韩民国驻安哥拉共和国大使馆
-ambassade de corée du sud:韓國大使館
 ambassade de corée du sud:韩国大使馆
 ambassade de corée du sud:韩国驻华大使馆
 ambassade de corée:韩国驻马大使馆
 ambassade de croatie:克罗地亚共和国大使馆
 ambassade de croatie:克罗地亚大使馆
 ambassade de croatie:克罗地亚驻马来西亚大使馆
-ambassade de croatie:克羅埃西亞駐馬來西亞大使館
-ambassade de cuba à luanda:古巴駐羅安達大使館
+ambassade de croatie:克罗埃西亚驻马来西亚大使馆
 ambassade de cuba à luanda:古巴驻罗安达大使馆
 ambassade de cuba:古巴大使馆
 ambassade de côte d'ivoire:科特迪瓦大使馆
@@ -3957,37 +3844,30 @@ ambassade de finlande:芬兰驻马大使馆
 ambassade de france en chine:法国驻华大使馆
 ambassade de france:法兰西共和国驻罗安达大使馆
 ambassade de france:法国大使馆
+ambassade de france:法国驻日大使馆
 ambassade de france:法国驻马来西亚大使馆
-ambassade de france:法國大使館
-ambassade de france:法國駐日大使館
-ambassade de france:法國駐馬來西亞大使館
-ambassade de france:法蘭西共和國駐羅安達大使館
 ambassade de grande bretagne:英国大使馆
-ambassade de grande bretagne:英國駐日大使館
+ambassade de grande bretagne:英国驻日大使馆
 ambassade de grèce:希腊大使馆
-ambassade de guinée équatoriale:赤道幾內亞駐俄羅斯大使館
+ambassade de guinée équatoriale:赤道几內亚驻俄罗斯大使馆
 ambassade de guinée-bissau:使馆
 ambassade de hongrie:匈牙利大使馆
 ambassade de jordanie:约旦大使馆
 ambassade de l'inde:印度大使馆
 ambassade de l'ordre souverain de malte:马耳他主权军事大使馆
 ambassade de la république d'afrique du sud:南非共和国大使馆
-ambassade de la république de chine:中華民國駐貝里斯大使館
+ambassade de la république de chine:中华民国驻贝里斯大使馆
 ambassade de la république de pologne à luanda:波兰共和国驻罗安达大使馆
-ambassade de la république de pologne à luanda:波蘭共和國駐羅安達大使館
 ambassade de la république de pologne:波兰共和国大使馆
 ambassade de la république de singapour:新加坡民国大使馆
-ambassade de la république de zambie à luanda:贊比亞共和國駐羅安達大使館
 ambassade de la république de zambie à luanda:赞比亚共和国驻罗安达大使馆
 ambassade de la république du congo:刚果共和国大使馆
 ambassade de la république démocratique du congo:刚果(金)大使馆
 ambassade de la république démocratique du congo:刚果民主共和国大使馆
 ambassade de la république fédérale du nigeria à luanda:尼日利亚联邦共和国驻罗安达大使馆
-ambassade de la république fédérale du nigeria à luanda:尼日利亞聯邦共和國駐羅安達大使館
 ambassade de la république populaire chine:中国驻委内瑞拉玻利瓦尔共和国大使馆
 ambassade de la république populaire de chine (rpc):中华人民共和国大使馆
 ambassade de la république populaire de chine:中华人民共和国大使馆
-ambassade de la république populaire de chine:中華人民共和國大使館
 ambassade de la république tchèque:捷克共和国大使馆
 ambassade de lettonie:拉脱维亚共和国驻华大使馆
 ambassade de lettonie:拉脱维亚大使馆
@@ -4003,115 +3883,92 @@ ambassade de malte:马耳他大使馆
 ambassade de mauritanie:毛里塔尼亚大使馆
 ambassade de moldavie:摩尔多瓦大使馆
 ambassade de mongolie:蒙古大使馆
-ambassade de norvège:挪威大使館
 ambassade de norvège:挪威大使馆
-ambassade de norvège:挪威駐馬來西亞大使館
 ambassade de norvège:挪威驻马来西亚大使馆
 ambassade de nouvelle-zélande:新西兰大使馆
 ambassade de nouvelle-zélande:新西兰驻华大使馆
-ambassade de palestine à luanda:巴勒斯坦駐羅安達大使館
 ambassade de palestine à luanda:巴勒斯坦驻罗安达大使馆
 ambassade de palestine:巴勒斯坦国驻华大使馆
 ambassade de palestine:巴勒斯坦大使馆
 ambassade de pologne:波兰大使馆
-ambassade de pologne:波蘭大使館
 ambassade de roumanie:罗马尼亚大使馆
 ambassade de roumanie:罗马尼亚驻马大使馆
 ambassade de russie:俄罗斯大使馆
 ambassade de russie:俄罗斯联邦大使馆
+ambassade de russie:俄罗斯联邦驻安哥拉共和国大使馆
 ambassade de russie:俄罗斯驻马大使馆
-ambassade de russie:俄羅斯大使館
-ambassade de russie:俄羅斯聯邦駐安哥拉共和國大使館
-ambassade de république de chine (taïwan) près le saint-siège:中華民國 (台灣) 駐教廷大使館
+ambassade de république de chine (taïwan) près le saint-siège:中华民国 (台湾) 驻教廷大使馆
 ambassade de république démocratique du congo:刚果(金)使馆
 ambassade de sao tomé-et-principe:圣多美和普林西比驻赤道几内亚大使馆
 ambassade de serbie:塞尔维亚大使馆
 ambassade de sierra leone:塞拉利昂大使馆
 ambassade de singapour:新加坡共和国大使馆
-ambassade de singapour:新加坡大使館
 ambassade de singapour:新加坡大使馆
 ambassade de singapour:新加坡驻韩国大使馆
 ambassade de slovaquie:斯洛伐克共和国大使馆
 ambassade de slovaquie:斯洛伐克大使馆
 ambassade de slovénie:斯洛文尼亚大使馆
 ambassade de somalie:索马里大使馆
-ambassade de suisse en république d'angola:瑞士駐安哥拉共和國大使館
 ambassade de suisse en république d'angola:瑞士驻安哥拉共和国大使馆
 ambassade de suisse:瑞士大使馆
 ambassade de suisse:瑞士驻马大使馆
 ambassade de suède et de finlande:瑞典和芬兰大使馆
-ambassade de suède à luanda:瑞典駐羅安達大使館
 ambassade de suède à luanda:瑞典驻罗安达大使馆
 ambassade de suède:瑞典大使馆
-ambassade de suède:瑞典駐馬大使館
 ambassade de suède:瑞典驻华大使馆
 ambassade de suède:瑞典驻马大使馆
-ambassade de taïwan:中國民國駐薩爾瓦多大使館
-ambassade de taïwan:中華民國駐史瓦帝尼王國大使館
-ambassade de taïwan:中華民國駐諾魯共和國大使館
+ambassade de taïwan:中华民国驻史瓦帝尼王国大使馆
+ambassade de taïwan:中华民国驻诺鲁共和国大使馆
+ambassade de taïwan:中国民国驻萨尔瓦多大使馆
 ambassade de tchéquie:捷克共和国大使馆
-ambassade de tchéquie:捷克駐馬來西亞大使館
 ambassade de tchéquie:捷克驻马来西亚大使馆
 ambassade de thaïlande:泰国大使馆
 ambassade de thaïlande:泰国驻马大使馆
-ambassade de thaïlande:泰國駐馬大使館
 ambassade de tunisie:突尼斯大使馆
 ambassade de turquie:embassy of turkey
 ambassade de turquie:土耳其共和国驻罗安达大使馆
-ambassade de turquie:土耳其共和國駐羅安達大使館
 ambassade de turquie:土耳其大使馆
-ambassade de turquie:土耳其駐馬來西亞大使館
 ambassade de turquie:土耳其驻马来西亚大使馆
 ambassade des maldives:马尔代夫大使馆
 ambassade des pays-bas:荷兰大使馆
 ambassade des pays-bas:荷兰驻华大使馆
 ambassade des philippines:菲律宾大使馆
-ambassade des Émirats arabes unis (Éau):阿拉伯聯合酋長國大使館
-ambassade des Émirats arabes unis:阿拉伯聯合大公國駐德國大使館
-ambassade des Émirats arabes unis:阿拉伯聯合酋長國大使館
+ambassade des Émirats arabes unis (Éau):阿拉伯联合酋长国大使馆
+ambassade des Émirats arabes unis:阿拉伯联合大公国驻德国大使馆
+ambassade des Émirats arabes unis:阿拉伯联合酋长国大使馆
 ambassade des Émirats arabes unis:阿联酋大使馆
 ambassade des Émirats arabes unis:阿联酋驻马大使馆
 ambassade des États-unis d'amérique:美利坚合众国使馆
 ambassade des États-unis d'amérique:美利坚合众国大使馆
-ambassade des États-unis d'amérique:美利堅合眾國大使館
 ambassade des États-unis d'amérique:美国大使馆
 ambassade des États-unis d'amérique:美国驻华大使馆
-ambassade des États-unis d'amérique:美國駐日大使館
+ambassade des États-unis d'amérique:美国驻日大使馆
 ambassade des États-unis:美国大使馆
 ambassade des États-unis:美国驻文莱大使馆
 ambassade des États-unis:美国驻新加坡大使馆
 ambassade des États-unis:美国驻韩使馆
 ambassade des États-unis:美国驻马来西亚大使馆
-ambassade des États-unis:美國大使館
-ambassade des États-unis:美國駐馬來西亞大使館
 ambassade du bangladesh:孟加拉国大使馆
 ambassade du brunei:文莱大使馆
-ambassade du brésil à luanda:巴西駐羅安達大使館
 ambassade du brésil à luanda:巴西驻罗安达大使馆
 ambassade du brésil:巴西大使馆
-ambassade du brésil:巴西領事館
-ambassade du brésil:巴西駐馬來西亞大使館
+ambassade du brésil:巴西领事馆
 ambassade du brésil:巴西驻马来西亚大使馆
 ambassade du burkina faso:布基纳法索大使馆
 ambassade du burundi:布隆迪大使馆
 ambassade du bélarus:白俄罗斯大使馆
 ambassade du cambodge:柬埔寨大使馆
 ambassade du cameroun:喀麦隆大使馆
-ambassade du canada:加拿大大使館
 ambassade du canada:加拿大大使馆
-ambassade du chili:智利大使館
 ambassade du chili:智利大使馆
 ambassade du costa rica:哥斯达黎加大使馆
-ambassade du danemark:丹麥大使館
 ambassade du danemark:丹麦大使馆
-ambassade du gabon:加蓬駐安哥拉羅安達大使館
 ambassade du gabon:加蓬驻安哥拉罗安达大使馆
 ambassade du ghana:加纳大使馆
-ambassade du japon en angola:日本駐安哥拉大使館
 ambassade du japon en angola:日本驻安哥拉大使馆
 ambassade du japon:小日本大使馆
 ambassade du japon:日本大使馆
-ambassade du japon:日本駐孟加拉大使館
+ambassade du japon:日本驻孟加拉大使馆
 ambassade du japon:日本驻韩大使馆
 ambassade du japon:日本驻马大使馆
 ambassade du kazakhstan:哈萨克斯坦大使馆
@@ -4121,39 +3978,32 @@ ambassade du kosovo:科索沃大使馆
 ambassade du koweit:科威特驻马大使馆
 ambassade du koweït:科威特大使馆
 ambassade du laos:寮国（老挝）驻马大使馆
-ambassade du laos:老撾（寮國）駐馬大使館
+ambassade du laos:老撾（寮国）驻马大使馆
 ambassade du liban:黎巴嫩大使馆
 ambassade du luxembourg:卢森堡大使馆
 ambassade du malawi:马拉维大使馆
 ambassade du mali:马里大使馆
 ambassade du maroc:摩洛哥大使馆
 ambassade du mexique:墨西哥大使馆
-ambassade du mexique:墨西哥駐馬來西亞大使館
 ambassade du mexique:墨西哥驻马来西亚大使馆
-ambassade du monténégro:蒙特內哥羅大使館
-ambassade du monténégro:黑山大使館
+ambassade du monténégro:蒙特內哥罗大使馆
 ambassade du monténégro:黑山大使馆
-ambassade du myanmar:緬甸大使館
+ambassade du myanmar:缅甸大使馆
 ambassade du myanmar:缅甸驻马大使馆
 ambassade du nicaragua:尼加拉瓜大使馆
 ambassade du niger:尼日尔大使馆
 ambassade du nigeria:尼日利亚联邦共和国大使馆
 ambassade du nigéria:尼日利亚大使馆
 ambassade du népal:尼泊尔驻马大使馆
-ambassade du népal:尼泊爾駐馬大使館
 ambassade du pakistan:巴基斯坦共和国驻华大使馆
 ambassade du pakistan:巴基斯坦大使馆
 ambassade du panama:巴拿马大使馆
-ambassade du paraguay:巴拉圭大使館
 ambassade du paraguay:巴拉圭大使馆
-ambassade du portugal:葡萄牙大使館
 ambassade du portugal:葡萄牙大使馆
-ambassade du pérou:秘魯大使館
 ambassade du pérou:秘鲁大使馆
 ambassade du qatar:卡塔尔大使馆
 ambassade du qatar:卡塔尔驻马大使馆
 ambassade du royaume des pays-bas à luanda:荷兰王国驻罗安达大使馆
-ambassade du royaume des pays-bas à luanda:荷蘭王國駐羅安達大使館
 ambassade du royaume-uni:英国大使馆
 ambassade du rwanda:卢旺达大使馆
 ambassade du somaliland:索马里兰大使馆
@@ -4165,10 +4015,9 @@ ambassade du tadjikistan:塔吉克斯坦大使馆
 ambassade du tchad:乍得大使馆
 ambassade du togo:多哥大使馆
 ambassade du turkménistan:土库曼斯坦大使馆
-ambassade du venezuela:委內瑞拉駐馬來西亞大使館
+ambassade du venezuela:委內瑞拉驻马来西亚大使馆
 ambassade du venezuela:委内瑞拉驻马来西亚大使馆
 ambassade du vietnam:越南大使馆
-ambassade du vietnam:越南駐馬大使館
 ambassade du vietnam:越南驻韩大使馆
 ambassade du vietnam:越南驻马大使馆
 ambassade du yémen:也门大使馆
@@ -4187,12 +4036,9 @@ ambassade van bangladesh:孟加拉国大使馆
 ambassade van bangladesj:孟加拉国大使馆
 ambassade van belgië:比利时大使馆
 ambassade van belgië:比利时驻马来西亚大使馆
-ambassade van belgië:比利時大使館
-ambassade van belgië:比利時駐馬來西亞大使館
 ambassade van bolivia:玻利维亚大使馆
 ambassade van bosnië en herzegovina:波斯尼亚和黑塞哥维那大使馆
 ambassade van brasilië:巴西大使馆
-ambassade van brazilië in luanda:巴西駐羅安達大使館
 ambassade van brazilië in luanda:巴西驻罗安达大使馆
 ambassade van brazilië:巴西大使馆
 ambassade van brunei:文莱大使馆
@@ -4207,41 +4053,30 @@ ambassade van china:中国大使
 ambassade van china:中国大使馆
 ambassade van colombia:哥伦比亚大使馆
 ambassade van costa rica:哥斯达黎加大使馆
-ambassade van cuba in luanda:古巴駐羅安達大使館
 ambassade van cuba in luanda:古巴驻罗安达大使馆
 ambassade van cuba:古巴大使馆
 ambassade van de democratische republiek congo:刚果民主共和国大使馆
-ambassade van de democratische volksrepubliek korea:朝鮮民主主義人民共和國駐羅安達大使館
 ambassade van de democratische volksrepubliek korea:朝鲜民主主义人民共和国驻罗安达大使馆
 ambassade van de federale republiek nigeria in luanda:尼日利亚联邦共和国驻罗安达大使馆
-ambassade van de federale republiek nigeria in luanda:尼日利亞聯邦共和國駐羅安達大使館
 ambassade van de filipijnen:菲律宾大使馆
 ambassade van de malediven:马尔代夫大使馆
 ambassade van de republiek congo:刚果共和国大使馆
 ambassade van de republiek frankrijk in luanda:法兰西共和国驻罗安达大使馆
-ambassade van de republiek frankrijk in luanda:法蘭西共和國駐羅安達大使館
-ambassade van de republiek korea in de republiek angola:大韓民國駐安哥拉共和國大使館
 ambassade van de republiek korea in de republiek angola:大韩民国驻安哥拉共和国大使馆
 ambassade van de republiek polen in luanda:波兰共和国驻罗安达大使馆
-ambassade van de republiek polen in luanda:波蘭共和國駐羅安達大使館
 ambassade van de republiek singapore:新加坡民国大使馆
 ambassade van de republiek turkije:土耳其共和国驻罗安达大使馆
-ambassade van de republiek turkije:土耳其共和國駐羅安達大使館
-ambassade van de republiek zambia in luanda:贊比亞共和國駐羅安達大使館
 ambassade van de republiek zambia in luanda:赞比亚共和国驻罗安达大使馆
 ambassade van de republiek zuid-afrika in luanda:南非共和国驻罗安达大使馆
-ambassade van de republiek zuid-afrika in luanda:南非共和國駐羅安達大使館
-ambassade van de russische federatie in de republiek angola:俄羅斯聯邦駐安哥拉共和國大使館
+ambassade van de russische federatie in de republiek angola:俄罗斯联邦驻安哥拉共和国大使馆
 ambassade van de tsjechische republiek:捷克共和国大使馆
-ambassade van de verenigde arabische emiraten (vae):阿拉伯聯合酋長國大使館
-ambassade van de verenigde arabische emiraten:阿拉伯聯合大公國駐德國大使館
-ambassade van de verenigde arabische emiraten:阿拉伯聯合酋長國大使館
+ambassade van de verenigde arabische emiraten (vae):阿拉伯联合酋长国大使馆
+ambassade van de verenigde arabische emiraten:阿拉伯联合大公国驻德国大使馆
+ambassade van de verenigde arabische emiraten:阿拉伯联合酋长国大使馆
 ambassade van de verenigde arabische emiraten:阿联酋大使馆
 ambassade van de verenigde staten van amerika:美利坚合众国大使馆
-ambassade van de verenigde staten van amerika:美利堅合眾國大使館
 ambassade van de verenigde staten:美国大使馆
 ambassade van de volksrepubliek china:中华人民共和国大使馆
-ambassade van de volksrepubliek china:中華人民共和國大使館
 ambassade van denemarke:丹麦大使馆
 ambassade van denemarken:丹麦大使馆
 ambassade van die demokratiese republiek van die kongo:刚果民主共和国大使馆
@@ -4261,12 +4096,10 @@ ambassade van ethiopië:埃塞俄比亚大使馆
 ambassade van finland:芬兰大使馆
 ambassade van frankrijk:法国大使馆
 ambassade van frankryk:法国大使馆
-ambassade van gabon:加蓬駐安哥拉羅安達大使館
 ambassade van gabon:加蓬驻安哥拉罗安达大使馆
 ambassade van griekeland:希腊大使馆
 ambassade van griekenland:希腊大使馆
 ambassade van het koninkrijk der nederlanden in luanda:荷兰王国驻罗安达大使馆
-ambassade van het koninkrijk der nederlanden in luanda:荷蘭王國駐羅安達大使館
 ambassade van het verenigd koninkrijk:英国大使馆
 ambassade van hongarije:匈牙利大使馆
 ambassade van hongarye:匈牙利大使馆
@@ -4281,7 +4114,6 @@ ambassade van israël:以色列大使馆
 ambassade van italië:意大利大使馆
 ambassade van ivoorkus:科特迪瓦大使馆
 ambassade van ivoorkust:科特迪瓦大使馆
-ambassade van japan in angola:日本駐安哥拉大使館
 ambassade van japan in angola:日本驻安哥拉大使馆
 ambassade van japan:日本大使馆
 ambassade van jemen:也门大使馆
@@ -4330,13 +4162,11 @@ ambassade van noorwegen:挪威大使馆
 ambassade van noorweë:挪威大使馆
 ambassade van oeganda:乌干达大使馆
 ambassade van oekraïne in luanda:乌克兰驻罗安达大使馆
-ambassade van oekraïne in luanda:烏克蘭駐羅安達大使館
 ambassade van oekraïne:乌克兰大使馆
 ambassade van oman:阿曼大使馆
 ambassade van oostenrijk:奥地利大使馆
 ambassade van oostenryk:奥地利大使馆
 ambassade van pakistan:巴基斯坦大使馆
-ambassade van palestina in luanda:巴勒斯坦駐羅安達大使館
 ambassade van palestina in luanda:巴勒斯坦驻罗安达大使馆
 ambassade van palestina:巴勒斯坦大使馆
 ambassade van panama:巴拿马大使馆
@@ -4344,7 +4174,6 @@ ambassade van paraguay:巴拉圭大使馆
 ambassade van peru:秘鲁大使馆
 ambassade van pole:波兰大使馆
 ambassade van polen:波兰大使馆
-ambassade van portugal:葡萄牙大使館
 ambassade van portugal:葡萄牙大使馆
 ambassade van qatar:卡塔尔大使馆
 ambassade van roemenië:罗马尼亚大使馆
@@ -4386,10 +4215,8 @@ ambassade van wit-rusland:白俄罗斯大使馆
 ambassade van zuid-afrika:南非大使馆
 ambassade van zuid-korea:韩国大使馆
 ambassade van zuid-soedan:南苏丹大使馆
-ambassade van zweden in luanda:瑞典駐羅安達大使館
 ambassade van zweden in luanda:瑞典驻罗安达大使馆
 ambassade van zweden:瑞典大使馆
-ambassade van zwitserland in de republiek angola:瑞士駐安哥拉共和國大使館
 ambassade van zwitserland in de republiek angola:瑞士驻安哥拉共和国大使馆
 ambassade van zwitserland:瑞士大使馆
 ambassade vu bahrain:巴林大使馆
@@ -4534,17 +4361,17 @@ ambassador and idol:大使与偶像
 ambassador and international tennis:大使和国际网球
 ambassador and permanent representative to the united nations:大使和常驻联合国代表
 ambassador and product test:大使和产品测试
-ambassador and racing driver:大使和賽車手
+ambassador and racing driver:大使和赛车手
 ambassador and role model:大使和榜样
 ambassador and three:大使和三
 ambassador andrew:大使安德鲁
-ambassador angelina:大使安潔莉娜
+ambassador angelina:大使安洁莉娜
 ambassador anne:大使安妮
 ambassador answer:大使回答
 ambassador anthony:大使安东尼
 ambassador arthur:大使亚瑟
 ambassador ask:大使问
-ambassador at large:無任所大使
+ambassador at large:无任所大使
 ambassador athletes:大使运动员
 ambassador attend:大使参加
 ambassador back:大使回
@@ -4552,10 +4379,8 @@ ambassador bashar:大使巴沙尔
 ambassador before:大使之前
 ambassador berlin:大使柏林
 ambassador bill:大使比尔
-ambassador bill:大使比爾
 ambassador bishop:大使主教
 ambassador bridge:大使桥
-ambassador bridge:大使橋
 ambassador car:大使车
 ambassador chris:大使克里斯
 ambassador city:大使城市
@@ -4581,7 +4406,7 @@ ambassador dmitry:大使德米特里
 ambassador do:大使做
 ambassador dog:大使犬
 ambassador drake:大使德雷克
-ambassador dudley:大使達德利
+ambassador dudley:大使达德利
 ambassador elizabeth:大使伊丽莎白
 ambassador ellsworth:大使埃尔斯沃思
 ambassador emphasize:大使强调
@@ -4599,7 +4424,7 @@ ambassador fund:大使基金
 ambassador gary locke:大使骆家辉
 ambassador george:大使乔治
 ambassador get:大使得到
-ambassador gigi leung:大使梁詠琪
+ambassador gigi leung:大使梁咏琪
 ambassador give:大使给
 ambassador grant:大使授予
 ambassador has been:大使已经
@@ -4608,10 +4433,9 @@ ambassador hope:大使希望
 ambassador hotel theatre:大使酒店剧院
 ambassador hotel:国宾大酒店
 ambassador hotel:国宾大饭店
-ambassador hotel:國賓大飯店
-ambassador hotel:國賓飯店
+ambassador hotel:国宾饭店
 ambassador hotel:大使酒店
-ambassador hsinchu:新竹國賓大飯店
+ambassador hsinchu:新竹国宾大饭店
 ambassador i:大使我
 ambassador in the united states:大使在美国
 ambassador insist:大使坚持
@@ -4622,7 +4446,6 @@ ambassador jim:大使吉姆
 ambassador joe:大使乔
 ambassador john bolton:大使约翰博尔顿
 ambassador john edward:大使约翰爱德华
-ambassador john:大使約翰
 ambassador john:大使约翰
 ambassador johnson:大使约翰逊
 ambassador jonathan:大使乔纳森
@@ -4663,11 +4486,11 @@ ambassador of israel:以色列大使
 ambassador of luxembourg:卢森堡大使
 ambassador of russia:俄罗斯大使
 ambassador of the philippines:菲律宾大使
-ambassador of the united states to russia:美國駐俄羅斯大使
+ambassador of the united states to russia:美国驻俄罗斯大使
 ambassador of the united states:美国大使
 ambassador or any other:大使或任何其他
 ambassador or author:大使或作者
-ambassador or high commissioner:大使或高級專員
+ambassador or high commissioner:大使或高级专员
 ambassador park:ambassador 餐厅
 ambassador part:大使部分
 ambassador participate:大使参加
@@ -4683,7 +4506,6 @@ ambassador receive:大使收到
 ambassador recently:大使最近
 ambassador reject:大使拒绝
 ambassador relationship:大使关系
-ambassador report:大使報告
 ambassador report:大使报告
 ambassador request:大使请求
 ambassador return:大使返回
@@ -4701,10 +4523,10 @@ ambassador still:大使仍然
 ambassador suddenly:大使突然
 ambassador taylor:大使泰勒
 ambassador thank:大使感谢
-ambassador theater:國賓影城
-ambassador theatre:國賓大戲院
+ambassador theater:国宾影城
+ambassador theatre:国宾大戏院
 ambassador theatre:大使剧院
-ambassador theatres:國賓影城
+ambassador theatres:国宾影城
 ambassador think:大使认为
 ambassador thomas:大使托马斯
 ambassador to oslo:大使到奥斯陆
@@ -4733,21 +4555,20 @@ ambassador yu jianhua:大使俞建华
 ambassador zhang jun:大使张军
 ambassador:大使
 ambassador:大使酒店
-ambassador:特命全權大使
+ambassador:特命全权大使
 ambassadors of china:中国驻外使节列表
 ambassadors of the united states:美国大使
-ambassadors of the united states:美國大使
 ambasse bey:安巴西贝
-ambassidae:雙邊魚科
-ambassis fontoynonti:封氏雙邊魚
-ambassis jacksoniensis:傑克遜雙邊魚
-ambassis macleayi:麥氏雙邊魚
-ambassis marianus:瑪麗雙邊魚
-ambassis miops:少棘雙邊魚
-ambassis nalua:貝紋雙邊魚
+ambassidae:双边鱼科
+ambassis fontoynonti:封氏双边鱼
+ambassis jacksoniensis:杰克逊双边鱼
+ambassis macleayi:麦氏双边鱼
+ambassis marianus:玛丽双边鱼
+ambassis miops:少棘双边鱼
+ambassis nalua:贝纹双边鱼
 ambassy club:鸿艺会
 ambassy of spain:西班牙大使馆
-ambastaia nigrolineata:黑線安巴鰍
+ambastaia nigrolineata:黑线安巴鰍
 ambasàda la mongoliàqi:蒙古大使馆
 ambasàda la rumuniaqi:罗马尼亚大使馆
 ambasáid an chósta eabhair:科特迪瓦大使馆
@@ -4867,18 +4688,18 @@ ambasáid srí lanca:斯里兰卡大使馆
 ambasáid tóga:多哥大使馆
 ambasáid uganda:乌干达大使馆
 ambasáid Éimin:也门大使馆
-ambato boeni:安巴圖布埃尼區
-ambato department:安巴托縣
-ambatoboeny:安巴圖布埃尼
-ambatofinandrahana district:安巴圖菲南德拉哈納區
-ambatofinandrahana:安巴圖菲南德拉哈納
-ambatolampy district:安巴圖蘭皮區
-ambatolampy:安巴圖蘭皮
-ambatomainty:安巴圖邁因蒂
-ambatondrazaka airport:安巴通德拉扎卡機場
-ambatondrazaka district:安巴通德拉扎卡區
+ambato boeni:安巴图布埃尼区
+ambato department:安巴托县
+ambatoboeny:安巴图布埃尼
+ambatofinandrahana district:安巴图菲南德拉哈纳区
+ambatofinandrahana:安巴图菲南德拉哈纳
+ambatolampy district:安巴图兰皮区
+ambatolampy:安巴图兰皮
+ambatomainty:安巴图迈因蒂
+ambatondrazaka airport:安巴通德拉扎卡机场
+ambatondrazaka district:安巴通德拉扎卡区
 ambatondrazaka:安巴通德拉扎卡
-ambattur:安巴杜爾
+ambattur:安巴杜尔
 ambavia:澄光木属
 ambaxxata ta' franza:法国大使馆
 ambaxxata ta' iżrael:以色列大使馆
@@ -5002,19 +4823,19 @@ ambazac and its:昂巴扎克和它的
 ambazac:昂巴扎克
 ambazonia defence forces:安巴佐尼亚国防军
 ambazonia:安巴佐尼亚
-ambaホテル:西門町意舍飯店
-amba台北西門町ホテル:台北西門町意舍酒店
-ambedkar nagar district:安倍德卡爾那加爾縣
-ambedkar stadium:阿姆倍伽爾體育場
+ambaホテル:西门町意舍饭店
+amba台北西门町ホテル:台北西门町意舍酒店
+ambedkar nagar district:安倍德卡尔那加尔县
+ambedkar stadium:阿姆倍伽尔体育场
 ambehta:阿姆贝赫塔
-ambelau:安伯勞島
+ambelau:安伯劳岛
 ambenay:昂伯奈
 amber adams:琥珀亚当斯
 amber ale:琥珀爱尔啤酒
 amber alert systems:安珀警报系统
 amber alert:安珀警报
 amber amulet:琥珀护身符
-amber an:安心亞
+amber an:安心亚
 amber and angel:琥珀和天使
 amber and coral:琥珀和珊瑚
 amber and gold:琥珀和金
@@ -5032,15 +4853,14 @@ amber bottle:琥珀瓶
 amber but she:琥珀但她
 amber cancer:琥珀癌症
 amber case:琥珀案例
-amber chia:謝麗萍
+amber chia:谢丽萍
 amber coast:琥珀海岸
-amber commercial building:凱利商業大廈
+amber commercial building:凱利商业大厦
 amber contain:琥珀包含
 amber court:彩云阁
-amber court:彩雲閣
-amber court:雅碧閣
+amber court:雅碧阁
 amber cushing:琥珀库欣
-amber darter:琥珀小鱸
+amber darter:琥珀小鲈
 amber drink you:琥珀喝你
 amber drink:琥珀喝
 amber drink:琥珀饮料
@@ -5058,32 +4878,31 @@ amber gold:琥珀金
 amber hayes:琥珀海耶斯
 amber hear:琥珀听
 amber heart:琥珀心
-amber house 32:金琥珀32號洋房
-amber house 33:金琥珀33號洋房
-amber house 35:金琥珀35號洋房
-amber house 36:金琥珀36號洋房
-amber house 37:金琥珀37號洋房
-amber house 38:金琥珀38號洋房
-amber house 39:金琥珀39號洋房
-amber house 51:金琥珀51號洋房
-amber house 52:金琥珀52號洋房
-amber house 53:金琥珀53號洋房
+amber house 32:金琥珀32号洋房
+amber house 33:金琥珀33号洋房
+amber house 35:金琥珀35号洋房
+amber house 36:金琥珀36号洋房
+amber house 37:金琥珀37号洋房
+amber house 38:金琥珀38号洋房
+amber house 39:金琥珀39号洋房
+amber house 51:金琥珀51号洋房
+amber house 52:金琥珀52号洋房
+amber house 53:金琥珀53号洋房
 amber house:东莞松湖安朴酒店
-amber house:安寶樓
-amber house:琥珀樓
+amber house:安宝楼
+amber house:琥珀楼
 amber hunter:琥珀猎人
 amber inclusion:琥珀包含
 amber island:琥珀岛
 amber jewellery:琥珀珠宝
-amber jewellery:琥珀珠寶
 amber john:琥珀约翰
 amber juice:琥珀汁
-amber kuo:郭采潔
+amber kuo:郭采洁
 amber lake:琥珀湖
 amber land:琥珀土地
 amber lawn:琥珀草地
 amber lodge:金珀苑
-amber lodge:金碧園
+amber lodge:金碧园
 amber market:琥珀市场
 amber martin:琥珀马丁
 amber montana:琥珀蒙大拿州
@@ -5115,7 +4934,7 @@ amber sample:琥珀样本
 amber says:琥珀说
 amber sky:琥珀天空
 amber snail:琥珀蜗牛
-amber tang:鄧卓殷
+amber tang:邓卓殷
 amber tea:琥珀茶
 amber team:琥珀团队
 amber time:琥珀时间
@@ -5124,7 +4943,7 @@ amber tournament:琥珀锦标赛
 amber trade:琥珀贸易
 amber treatment:琥珀疗法
 amber university:琥珀大学
-amber valley:安伯瓦利區
+amber valley:安伯瓦利区
 amber warning:琥珀警告
 amber wave:琥珀波
 amber weather warning:琥珀天气警告
@@ -5139,20 +4958,20 @@ amberboa:珀菊属
 amberes:安特卫普
 amberg factory:安贝格工厂
 amberg:安贝格
-ambergris caye:安伯格里斯島
-ambergris glacier:龍涎香冰川
-ambergris:龍涎香
+ambergris caye:安伯格里斯岛
+ambergris glacier:龙涎香冰川
+ambergris:龙涎香
 amberk:安贝格
 ambernac:昂贝尔纳克
 ambert:昂贝尔
 ambialet:昂比亚莱
 ambidensovirus:浓稠病毒属
 ambidexterity:两手同利
-ambience hotel:喜瑞飯店
+ambience hotel:喜瑞饭店
 ambient authority:环境权限
 ambient intelligence or ubiquitous computing:环境智能或普适计算
 ambient intelligence:环境智能
-ambient light sensor:環境光感測器
+ambient light sensor:环境光感测器
 ambient music or sound:氛围音乐或声音
 ambient music:氛围音乐
 ambient occlusion method:环境光遮蔽方法
@@ -5161,16 +4980,16 @@ ambient occlusion tutorial:环境光遮蔽教程
 ambient occlusion:环境光遮蔽
 ambierle:昂比耶勒
 ambiga sreenevasan:安美嘉
-ambigram:雙向圖
+ambigram:双向图
 ambiguation:歧义
-ambiguities in chinese character simplification:簡繁轉換一對多列表
+ambiguities in chinese character simplification:简繁转换一对多列表
 ambiguity and choice:歧义与选择
 ambiguity and complex:歧义和复杂
 ambiguity and neuroticism:歧义和神经质
 ambiguity and uncertainty:歧义和不确定性
 ambiguity aversion:模糊厌恶
-ambiguity effect:不明確性效應
-ambiguity function:模稜函數
+ambiguity effect:不明确性效应
+ambiguity function:模稜函数
 ambiguity he says:歧义他说
 ambiguity he:歧义他
 ambiguity is you:歧义是你
@@ -5180,7 +4999,6 @@ ambiguity or error:歧义或错误
 ambiguity or potential:歧义或潜在
 ambiguity problem:歧义问题
 ambiguity:歧义
-ambiguity:歧義
 ambiguous edge:不明确的边
 ambiguous effects:不明确的影响
 ambiguous outcome:不明确的结果
@@ -5188,17 +5006,16 @@ ambiguous requirements:不明确的需求
 ambiguous situation:不明确的情况
 ambiguous statement:不明确的声明
 ambiguous:不明确的
-ambijã:阿比讓
 ambijã:阿比让
-ambijã:阿比让/阿比讓
+ambijã:阿比让/阿比让
 ambikanagar:阿姆比卡纳加拉
 ambillou:昂比尤
 ambilly:昂比伊
-ambilobe:安比盧貝
-ambinany:安比納尼
+ambilobe:安比卢贝
+ambinany:安比纳尼
 ambiorix:安比奥里克斯
 ambipolar diffusion:双极性扩散
-ambipom:雙尾怪手
+ambipom:双尾怪手
 ambite:安维特
 ambitious action:雄心勃勃行动
 ambitious and art:雄心勃勃和艺术
@@ -5214,7 +5031,7 @@ ambitious but still:雄心勃勃但仍然
 ambitious claim:雄心勃勃主张
 ambitious climate change:雄心勃勃气候变化
 ambitious climate:雄心勃勃气候
-ambitious dragon:雄心威龍
+ambitious dragon:雄心威龙
 ambitious follow:雄心勃勃跟随
 ambitious goals:雄心勃勃目标
 ambitious growth:雄心勃勃增长
@@ -5231,7 +5048,7 @@ ambitious state:雄心勃勃国家
 ambitious strategy:雄心勃勃战略
 ambitious target:雄心勃勃目标
 ambitious:雄心勃勃
-ambitle:安比特爾島
+ambitle:安比特尔岛
 ambivalence at least part:矛盾心理至少部分
 ambivalence at least:矛盾心理至少
 ambivalence can resolve:矛盾心理可以解决
@@ -5240,104 +5057,104 @@ ambivalence:矛盾心理
 ambivali tarf tungaratan:阿姆比瓦利塔尔夫万卡尔
 ambivere:安比韦雷
 ambivia:摆螳属
-ambla parish:安布拉鄉
+ambla parish:安布拉乡
 ambla river:安布拉河
 ambla:安布拉
 amblainville:昂布兰维尔
 amblar:安布拉尔
 ambleminae:小方蚌亚科
 ambleny:昂布勒尼
-ambleside:安布賽德
+ambleside:安布赛德
 ambleteuse:昂布勒特斯
 ambleve:阿梅尔
 amblie:昂布利
 amblimont:昂布利蒙
 amblin entertainment:安培林娱乐
-amblin partners:安培林合夥公司
-amblin television:安培林電視
+amblin partners:安培林合伙公司
+amblin television:安培林电视
 amblo:安布洛河
 amblopala avidiena:尖灰蝶
-amblopala:尖灰蝶屬
+amblopala:尖灰蝶属
 ambloy:昂布卢瓦
 ambly sur meuse:默兹河畔昂布利
 amblyanthopsis:靠药金牛属
 amblyanthus:锥药金牛属
-amblyceps carinatum:龍首鈍頭鮠
-amblyceps:鈍頭鮠屬
-amblycera:鈍角總科
+amblyceps carinatum:龙首钝头鮠
+amblyceps:钝头鮠属
+amblycera:钝角总科
 amblychaeturichthys:钝尾鰕虎鱼属
 amblychia angeronaria:白斑褐尺蛾
 amblychia moltrechti:大褐尺蛾
 amblychia:褐尺蛾属
-amblycipitidae:鈍頭鮠科
+amblycipitidae:钝头鮠科
 amblydectes:钝颌翼龙属
-amblydoras affinis:北美鈍囊鯰
-amblydoras bolivarensis:玻利維亞鈍囊鯰
-amblydoras gonzalezi:岡氏鈍囊鯰
-amblydoras monitor:秘魯鈍囊鯰
-amblydoras nauticus:大鬚鈍囊鯰
-amblyeleotris diagonalis:斜帶鈍塘鱧
+amblydoras affinis:北美钝囊鲶
+amblydoras bolivarensis:玻利维亚钝囊鲶
+amblydoras gonzalezi:冈氏钝囊鲶
+amblydoras monitor:秘鲁钝囊鲶
+amblydoras nauticus:大须钝囊鲶
+amblyeleotris diagonalis:斜带钝塘鱧
 amblyeleotris harrisorum:项带钝塘鳢
 amblyeleotris marquesas:马克萨斯岛钝塘鳢
-amblyeleotris periophthalma:圓眶鈍塘鱧
+amblyeleotris periophthalma:圆眶钝塘鱧
 amblyeleotris rubrimarginata:红缘钝塘鳢
-amblyeleotris yanoi:亞諾鈍塘鱧
-amblyeleotris:鈍塘鱧屬
+amblyeleotris yanoi:亚诺钝塘鱧
+amblyeleotris:钝塘鱧属
 amblygaster clupeoides:白腹沙丁鱼
-amblygaster leiogaster:鈍腹鯡
-amblygaster sirm:斑點鈍腹鯡
-amblyglyphidodon aureus:金凹牙豆娘魚
-amblyglyphidodon curacao:庫拉索凹牙豆娘魚
-amblyglyphidodon flavilatus:黃側凹牙豆娘魚
-amblyglyphidodon indicus:印度凹牙豆娘魚
-amblyglyphidodon leucogaster:白腹寬刻齒雀鯛
-amblygobius decussatus:華麗鈍鰕虎魚
-amblygobius phalaena:尾斑鈍鰕虎魚
-amblygobius semicinctus:半帶鈍鰕虎魚
-amblygobius sphynx:紅海鈍鰕虎魚
+amblygaster leiogaster:钝腹鯡
+amblygaster sirm:斑点钝腹鯡
+amblyglyphidodon aureus:金凹牙豆娘鱼
+amblyglyphidodon curacao:库拉索凹牙豆娘鱼
+amblyglyphidodon flavilatus:黄侧凹牙豆娘鱼
+amblyglyphidodon indicus:印度凹牙豆娘鱼
+amblyglyphidodon leucogaster:白腹宽刻齿雀鲷
+amblygobius decussatus:华丽钝鰕虎鱼
+amblygobius phalaena:尾斑钝鰕虎鱼
+amblygobius semicinctus:半带钝鰕虎鱼
+amblygobius sphynx:红海钝鰕虎鱼
 amblygobius:钝鰕虎鱼属
 amblyjoppa:钝杂姬蜂属
 amblynotus:钝背草属
-amblyodipsas:鈍渴蛇屬
-amblyomma testudinarium:龜形花蜱
+amblyodipsas:钝渴蛇属
+amblyomma testudinarium:龟形花蜱
 amblyomma:花蜱属
-amblyopia:弱視
-amblyoponinae:鈍針蟻亞科
-amblyopsidae:洞穴魚科
+amblyopia:弱视
+amblyoponinae:钝针蟻亚科
+amblyopsidae:洞穴鱼科
 amblyornis:暗园丁鸟属
 amblyotrypauchen:钝孔虾虎鱼属
-amblypharyngodon chulabhornae:泰國鈍齒魚
-amblypoda:鈍腳目
-amblypodia:昂灰蝶屬
+amblypharyngodon chulabhornae:泰国钝齿鱼
+amblypoda:钝脚目
+amblypodia:昂灰蝶属
 amblypodiini:昂灰蝶族
-amblypomacentrus breviceps:短頭鈍雀鯛
-amblypomacentrus clarus:寬帶鈍雀鯛
-amblypomacentrus vietnamicus:越南鈍雀鯛
+amblypomacentrus breviceps:短头钝雀鲷
+amblypomacentrus clarus:宽带钝雀鲷
+amblypomacentrus vietnamicus:越南钝雀鲷
 amblypsilopus:雅长足虻属
 amblypygi:无鞭目
-amblyraja reversa:阿拉伯海鈍頭鰩
-amblyraja taaf:塔氏鈍頭鰩
+amblyraja reversa:阿拉伯海钝头鰩
+amblyraja taaf:塔氏钝头鰩
 amblyrhynchichthys:钝吻魮属
-amblyrhynchotes honckenii:白點寬吻魨
+amblyrhynchotes honckenii:白点宽吻魨
 amblyrhynchotes rufopunctatus:棕斑宽吻鲀
 amblyseius:钝绥螨属
 amblysomus:金鼹属
 amblystegiaceae:柳叶藓科
-amblystegium serpens:柳葉蘚
+amblystegium serpens:柳叶蘚
 amblystegium:柳叶藓属
 amblyteles:钝姬蜂属
 amblythyreus:菱瘤蝽属
 amblève:阿梅尔
-ambo district:安博區
+ambo district:安博区
 ambo province:安博省
 ambohidratrimo:安布希德拉特里穆
-ambohimahasoa district:安布希馬哈蘇阿區
-ambohimahasoa:安布希馬哈蘇阿
-ambohimahavelona:安布希馬哈韋盧納
+ambohimahasoa district:安布希马哈苏阿区
+ambohimahasoa:安布希马哈苏阿
+ambohimahavelona:安布希马哈韦卢纳
 ambohimanga:安布希曼加
 amboina box turtle:马来闭壳龟
 amboise castle:昂布瓦斯城堡
-amboise conspiracy:昂布瓦斯陰謀
+amboise conspiracy:昂布瓦斯阴谋
 amboise station:昂布瓦斯站
 amboise:昂布瓦斯
 ambon island:安汶岛
@@ -5347,98 +5164,90 @@ ambonese people:安汶人
 ambonil:昂博尼勒
 ambonnay:昂博奈
 ambonville:昂邦维尔
-ambophthalmos eurystigmatephoros:新西蘭蟾眼杜父魚
-ambopteryx:渾元龍屬
+ambophthalmos eurystigmatephoros:新西兰蟾眼杜父鱼
+ambopteryx:浑元龙属
 amborella:无油樟
 amborg:汉堡
-amborg:漢堡
-amboropotsy:安布龍普齊
+amboropotsy:安布龙普齐
 ambosa:昂布瓦斯
-amboseli national park:安博塞利國家公園
-ambositra district:安布西特拉區
+amboseli national park:安博塞利国家公园
+ambositra district:安布西特拉区
 ambositra:安布西特拉
 amboukiv:阿姆布基夫
-ambovombe afovoany:安布文貝阿富武阿尼
-ambovombe androy:安布文貝
-amboy township:安博伊鎮區
+ambovombe afovoany:安布文贝阿富武阿尼
+ambovombe androy:安布文贝
 amboy township:安博伊镇区
 amboy:安博伊
 amboyna cay:安波沙洲
 amboyna kecil:安波
 amboyna massacre:安汶大屠杀
-ambracian gulf:安布拉基亞灣
+ambracian gulf:安布拉基亚湾
 ambragaeana:琥珀蝉属
 ambras castle:安布拉斯城
 ambrault:昂布罗
-ambrein:龍涎香醇
+ambrein:龙涎香醇
 ambres:昂布尔
 ambricourt:昂布里库尔
 ambridge:ambridge(虚构村)
 ambrief:昂布列夫
-ambrim:安布里姆島
-ambrimas:安布里姆島
+ambrim:安布里姆岛
+ambrimas:安布里姆岛
 ambrines:昂布里讷
-ambriz airport:安布里什機場
+ambriz airport:安布里什机场
 ambriz:安布里什
-ambrolauri municipality:安布羅勞里市鎮
+ambrolauri municipality:安布罗劳里市镇
 ambrolauri:安布罗劳里
-ambrolauri:安布羅勞里
 ambrolauris:安布罗劳里
 ambronay:昂布罗奈
 ambrones:安布罗内人
-ambrose cheung:張永森
+ambrose cheung:张永森
 ambrose king:金耀基
 ambrose lam:林新強
-ambrose lau:劉漢銓
+ambrose lau:刘汉銓
 ambrose lee:李少光
-ambrose rocks:安布羅斯岩
+ambrose rocks:安布罗斯岩
 ambrose traversari:嘉玛道理会士盎博罗削
-ambrose:安波羅修
+ambrose:安波罗修
 ambrosia artemisiifolia:豚草
-ambrosia psilostachya:裸穗豬草
+ambrosia psilostachya:裸穗猪草
 ambrosia trifida:三裂叶豚草
-ambrosia:仙饌密酒
+ambrosia:仙馔密酒
 ambrosian iliad:盎博罗削伊利亚特
-ambrosian rite:安博禮
-ambrosiano:安波羅修號列車
+ambrosian rite:安博礼
+ambrosiano:安波罗修号列车
 ambrosina:小囊芋属
 ambroxide:降龙涎香醚
 ambroxol:氨溴索
 ambrugeat:昂布吕雅
 ambrumesnil:昂布吕梅尼勒
 ambrun:昂布兰
-ambrym:安布里姆島
+ambrym:安布里姆岛
 ambuila:安布伊拉
 ambukiv:阿姆布基夫
 ambukiw:阿姆布基夫
 ambuków:阿姆布基夫
 ambulacraria:步带动物
-ambulance and patrol:救護車和巡邏
-ambulance company:救護車公司
-ambulance exclusive lane:救護車專用道
-ambulance murder:救護車謀殺
-ambulance or hospital:救護車或醫院
-ambulance usually:救護車通常
-ambulance version:救護車版本
-ambulance:救護車
-ambulatory block:日間醫護大樓
-ambulatory care block:日間醫療服務大樓
-ambulatory care centre extention:日間醫療中心新翼
+ambulance and patrol:救护车和巡逻
+ambulance company:救护车公司
+ambulance exclusive lane:救护车专用道
+ambulance murder:救护车谋杀
+ambulance or hospital:救护车或医院
+ambulance usually:救护车通常
+ambulance version:救护车版本
+ambulance:救护车
+ambulatory block:日间医护大楼
+ambulatory care block:日间医疗服务大楼
 ambulatory care centre extention:日间医疗中心新翼
-ambulatory care centre:日間醫療中心
 ambulatory care centre:日间医疗中心
-ambulatory care:非住院護理
-ambulatory medical services block:日間醫療服務大樓
-ambulocetidae:陸行鯨科
+ambulatory care:非住院护理
+ambulatory medical services block:日间医疗服务大楼
+ambulocetidae:陆行鲸科
 ambulyx:鹰翅天蛾属
 ambundu:姆本杜族
 ambur:安布尔
 amburc:汉堡
-amburc:漢堡
 amburgo:汉堡
-amburgo:漢堡
 amburgu:汉堡
-amburgu:漢堡
 ambush action:伏击行动
 ambush alley:伏击巷
 ambush and an evil:伏击和一个邪恶的
@@ -5453,7 +5262,7 @@ ambush him:埋伏他
 ambush interview:伏击采访
 ambush magnet:埋伏磁铁
 ambush me:伏击我
-ambush murder:埋伏謀殺
+ambush murder:埋伏谋杀
 ambush museum:伏击博物馆
 ambush point:伏击点
 ambush points:伏击点
@@ -5478,55 +5287,50 @@ ambush:埋伏
 ambutrix:昂比特里克斯
 ambuyat:西米糕
 ambûrgo:汉堡
-ambûrgo:漢堡
-amchitka:阿姆奇特卡島
+amchitka:阿姆奇特卡岛
 amchog ganden chökhorling:阿木去乎寺
 amchok gompa:阿木去乎寺
 amchok tso:安觉错
 amdahl's law:阿姆达尔定律
-amdalai:阿姆達萊
+amdalai:阿姆达莱
 amden:安登
 amdo county:Ānduō xiàn
 amdo county:安多县
-amdo county:安多縣
 amdo railway station:安多站
 amdo tibetan:安多方言
 amdo:Ānduō
 amdo:Ānduō xiàn
 amdo:安多县
 amdo:安多地区
-amdo:安多縣
 amdo:帕那镇
 ame no fuyukinu:天之冬衣神
 ame no hohi:天菩比神
-ame no koyane:天兒屋命
+ame no koyane:天儿屋命
 ame no minakanushi:天之御中主神
 ame no nuboko:天沼矛
-ame no ohabari:天之尾羽張
+ame no ohabari:天之尾羽张
 ame no oshihomimi:天忍穗耳尊
 ame no tajikarao:天手力男神
-ame no uzume:天鈿女命
-ame no wakahiko:天稚彥
+ame no uzume:天钿女命
+ame no wakahiko:天稚彦
 amearika:měizhōu
 amearika:美洲
-amebelodontidae:鏟齒象科
+amebelodontidae:铲齿象科
 ameca river:阿梅卡河
 ameca shiner:艾米美洲鱥
 amed:迪亚巴克尔省
-amedi:阿馬迪耶
+amedi:阿马迪耶
 amedichi:阿梅季奇河
 amedî:阿尔穆托瓦
 ameerega:疣背毒蛙属
 ameeriga Ütisriigiq:měiguó
 ameeriga Ütisriigiq:美国
-ameeriga Ütisriigiq:美國
 ameeriga:měizhōu
 ameeriga:美洲
-ameerika samoa rahvuspark:美屬薩摩亞國家公園
-ameerika samoa:美屬薩摩亞
+ameerika samoa rahvuspark:美属萨摩亚国家公园
+ameerika samoa:美属萨摩亚
 ameerika Ühendriigid:měiguó
 ameerika Ühendriigid:美国
-ameerika Ühendriigid:美國
 ameerika Ühendriikide aukonsulaat:美国名誉领事馆
 ameerika Ühendriikide konsulaat:美国领事馆
 ameerika Ühendriikide peakonsulaat:美国总领事馆
@@ -5540,7 +5344,7 @@ ameerikaas:美洲
 ameerikada koonfureed:南美洲
 ameerikoo:měizhōu
 ameerikoo:美洲
-amegilla calceifera:鞋斑無墊蜂
+amegilla calceifera:鞋斑无墊蜂
 amegilla:无垫蜂属
 amei mochi:阿美族麻糬
 ameimian:啊美面
@@ -5548,17 +5352,17 @@ ameiridae:阿玛猛水蚤科
 ameishan:āméishān
 ameishan:ㄚㄇㄟˊㄕㄢ
 ameishan:阿眉山
-ameisnockenkopf:阿邁斯諾肯山
-ameiurus platycephalus:平頭鮰
+ameisnockenkopf:阿迈斯诺肯山
+ameiurus platycephalus:平头鮰
 ameiva:臼齿蜥属
 ameivula:阿梅美洲蜥蜴属
 ameknas:メクネス
-amel marduk:以未米羅達
+amel marduk:以未米罗达
 amel:阿梅尔
 amel:阿默尔
 amelanchier asiatica:东亚唐棣
 amelanchier:唐棣属
-ameland:阿默蘭島
+ameland:阿默兰岛
 ameles:跳螳属
 amelia a thousand:阿梅利亚一千
 amelia because those:阿梅利亚因为那些
@@ -5578,7 +5382,7 @@ amelika:美洲
 amelinghausen:阿默灵豪森
 amelíka:měizhōu
 amelíka:美洲
-amen:阿們
+amen:阿们
 amenable group:可均群
 amenamevir:阿莫奈韦
 amend it:改进它
@@ -5632,7 +5436,7 @@ amendment institute:修正案研究所
 amendment is a failure:修正案是一个失败
 amendment issue:修正案问题
 amendment issues:修正案问题
-amendment lawyer:修正案律師
+amendment lawyer:修正案律师
 amendment let:修正案让
 amendment level:修正案水平
 amendment limit:修正案限制
@@ -5683,7 +5487,7 @@ amendment would provide:修正案将提供
 amendment would:修正案将
 amendment:修正案
 amendolara:阿门多拉腊
-amendolea:阿門多萊亞河
+amendolea:阿门多莱亚河
 amenemhat i:阿蒙涅姆赫特一世
 amenemhat ii:阿蒙涅姆赫特二世
 amenemhat iii:阿蒙涅姆赫特三世
@@ -5696,46 +5500,42 @@ amenhotep ii:阿蒙霍特普二世
 amenhotep iii:阿蒙霍特普三世
 ameni:yàměiníyà
 ameni:亚美尼亚
-ameni:亚美尼亚 / 亞美尼亞
-ameni:亞美尼亞
+ameni:亚美尼亚 / 亚美尼亚
 amenia union:亚美尼亚联盟
 amenia:yàměiníyà
 amenia:亚美尼亚
-amenia:亚美尼亚 / 亞美尼亞
-amenia:亞美尼亞
+amenia:亚美尼亚 / 亚美尼亚
 amenia:阿米尼亚
-amenirdis i:阿曼尼爾迪斯一世
-amenity building:文娛康樂大樓
-amenity complex in area 103, ma on shan:馬鞍山第103區綜合設施大樓
-amenity road:康樂道
+amenirdis i:阿曼尼尔迪斯一世
+amenity building:文娱康乐大楼
+amenity complex in area 103, ma on shan:马鞍山第103区综合设施大楼
+amenity road:康乐道
 amenmesse:阿蒙麦西斯
 amenohi_cafe:雨日菓物
-amenohiboko:天日槍
+amenohiboko:天日枪
 amenohoakari:天火明命
 amenoncourt:阿姆农库尔
-amenorrhea:閉經
+amenorrhea:闭经
 amens:亚眠
-amens:亞眠
 amensalism:片害共生
 amenthes fossae:阿蒙蒂斯堑沟群
 amenthes quadrangle:阿蒙蒂斯区
 amentotaxus argotaenia:穗花杉
-amentotaxus formosana:台灣穗花杉
+amentotaxus formosana:台湾穗花杉
 amentotaxus yunnanensis:云南穗花杉
 amentotaxus:穗花杉属
 amenucourt:阿姆尼库尔
 amenweiler:阿姆内维尔
 ameonna:雨女
-amer international group:正威集團
+amer international group:正威集团
 amer sports:亚玛芬体育
 amerang:阿默朗
 amerant bank arena:阿梅兰特银行体育馆
-amerasian:美亞人
+amerasian:美亚人
 amerdingen:阿默丁根
 amereca:měizhōu
 amereca:美洲
 amereka:美国
-amereka:美國
 ameren:阿莫林公司
 ameretat:阿梅雷塔特
 america a new:美国一个新的
@@ -5901,13 +5701,13 @@ america charger:美国充电器
 america chicago:美国芝加哥
 america choose:美国选择
 america cities:美国城市
-america class amphibious assault ship:美利堅級兩棲突擊艦
+america class amphibious assault ship:美利坚级两栖突击舰
 america coal:美国煤
 america collaborate:美国合作
 america come:美国来
 america comic:美国漫画
 america committee:美国委员会
-america competes act:美國競爭法
+america competes act:美国竞争法
 america complete:美国完成
 america connection:美国连接
 america consume:美国消耗
@@ -5938,7 +5738,7 @@ america decide:美国决定
 america decided:美国决定
 america decides:美国决定
 america defeat:美国击败
-america del cono sud:南錐體
+america del cono sud:南錐体
 america del nord:北美洲
 america del nòrd:北美洲
 america del sud:南美洲
@@ -6036,7 +5836,6 @@ america has vital:美国有重要的
 america hate:美国恨
 america ha̍p-chiòng-kok:měiguó
 america ha̍p-chiòng-kok:美国
-america ha̍p-chiòng-kok:美國
 america hear:美国听
 america heart institute:美国心脏研究所
 america heart:美国心脏
@@ -6382,7 +6181,7 @@ america would never:美国永远不会
 america would:美国将
 america yiass:南美洲
 america young:美国年轻的
-america's army:美國陸軍系列
+america's army:美国陆军系列
 america's backyard:美国的后院
 america's cup hall of fame:美洲杯帆船赛名人堂
 america's cup world:美洲杯帆船赛世界
@@ -6390,7 +6189,7 @@ america's cup:美洲杯帆船赛
 america's favorite architecture:美国最喜爱建筑列表
 america's funniest home videos:美国家庭滑稽录像
 america's got talent:美国达人
-america's next top model:全美超級模特兒新秀大賽
+america's next top model:全美超级模特儿新秀大赛
 america's top colleges:福布斯美国大学榜
 america-first policy:美国第一政策
 america-first trade policy:美国第一贸易政策
@@ -6404,10 +6203,10 @@ american academy in rome:罗马美国学院
 american academy of anti aging medicine:美国抗衰老医学科学院
 american academy of arts and letters:美国艺术暨文学学会
 american academy of arts and sciences:美国文理科学院
-american academy of child and adolescent psychiatry:美國兒童與青少年精神醫學會
-american academy of dramatic arts:美國戲劇藝術學院
-american academy of pediatrics:美國兒科學會
-american academy of sleep medicine:美國睡眠醫學學會
+american academy of child and adolescent psychiatry:美国儿童与青少年精神医学会
+american academy of dramatic arts:美国戏剧艺术学院
+american academy of pediatrics:美国儿科学会
+american academy of sleep medicine:美国睡眠医学学会
 american accounting association:美国会计协会
 american acheson:美国人艾奇逊
 american achievement paradox:美国人成就悖论
@@ -6456,22 +6255,22 @@ american adults using:美国成年人使用
 american adults will:美国成年人会
 american adults:美国成年人
 american advocate:美国人倡导
-american airlines boeing:美國航空波音
-american airlines center:美國航空中心
+american airlines boeing:美国航空波音
+american airlines center:美国航空中心
 american airlines fleet:美国航空机队
-american airlines gift card:美國航空禮品卡
+american airlines gift card:美国航空礼品卡
 american airlines group:美国航空集团
-american airlines headquarters:美國航空總部
-american airlines:美國航空
+american airlines headquarters:美国航空总部
+american airlines:美国航空
 american albert:美国人阿尔伯特
 american alex:美国人亚历克斯
 american alliance of museums:美国博物馆联盟
-american alligator:美國短吻鱷
-american alpine club:美國高山俱樂部
+american alligator:美国短吻鳄
+american alpine club:美国高山俱乐部
 american already:美国人已经
 american always:美国人总是
 american and at least:美国人和至少
-american and british english spelling differences:美式及英式英語拼法差別
+american and british english spelling differences:美式及英式英语拼法差別
 american and british people:美国人和英国人
 american and chinese marriage:美国人和中国人结婚
 american and civil liberties organizations:美国人和公民自由组织
@@ -6487,13 +6286,13 @@ american and muslim communities:美国人和穆斯林社区
 american and muslim:美国人和穆斯林
 american anderson:美国人安德森
 american andy:美国人安迪
-american animals:美國動物
+american animals:美国动物
 american animation institute:美国动画学院
 american animation:美国动画
 american anna:美国人安娜
 american answer:美国人回答
 american anthony:美国人安东尼
-american anthropological association:美國人類學會
+american anthropological association:美国人类学会
 american anti slavery society:美国反奴隶制学会
 american apollo:美国人阿波罗
 american apparel:美国服饰公司
@@ -6502,22 +6301,22 @@ american appetite:美国人食欲
 american arm:美国人武装
 american arts commemorative series medallions:美国艺术纪念系列奖章
 american ask:美国人问
-american assassin:美國刺客
+american assassin:美国刺客
 american association for cancer research conference:美国癌症研究协会会议
 american association for cancer research meeting:美国癌症研究协会会议
 american association for cancer research richard:美国癌症研究协会理查德
 american association for cancer research:美国癌症研究协会
 american association for public opinion research:美国公共舆论研究学会
-american association for the advancement of science:美國科學促進會
+american association for the advancement of science:美国科学促进会
 american association of advertising agencies:美国广告代理商协会
 american association of geographers:美国地理学家协会
 american association of physicists in medicine:美国医学物理协会
 american association of variable star observers:美国变星观测者协会
 american association:美国人协会
-american association:美國協會
-american astronomical society meeting:美國天文學會會議
-american astronomical society:美國天文學會
-american atheists:美國無神論者協會
+american association:美国协会
+american astronomical society meeting:美国天文学会会议
+american astronomical society:美国天文学会
+american atheists:美国无神论者协会
 american athletic conference:美国竞技联盟
 american attitude:美国人态度
 american author henry:美国作者亨利
@@ -6525,17 +6324,17 @@ american author jim:美国作者吉姆
 american author paul:美国作者保罗
 american author william:美国作者威廉
 american author:美国作者
-american automatic control council:美國自動控制委員會
-american automobile association:美國汽車協會
+american automatic control council:美国自动控制委员会
+american automobile association:美国汽车协会
 american avocet:美洲反嘴鹬
 american badger:美洲獾
-american bank note company building:美國鈔票公司大樓
+american bank note company building:美国钞票公司大楼
 american bank note company printing plant:美国钞票公司印刷厂
 american bantam:班塔姆汽车
 american baptist churches usa:美北浸礼会
-american bar association:美國律師協會
+american bar association:美国律师协会
 american barbie:美国人芭比娃娃
-american basketball association:美國籃球協會
+american basketball association:美国篮球协会
 american basketball coach:美国人篮球教练
 american basketball league:美国篮球联盟
 american basketball:美国人篮球
@@ -6544,7 +6343,7 @@ american began:美国人开始
 american belief:美国人信仰
 american belief:美国人信念
 american best friend:美国人最好的朋友
-american bible society:美國聖經公會
+american bible society:美国圣经公会
 american big:美国人大
 american bill:美国人比尔
 american birth:美国人出生
@@ -6557,10 +6356,10 @@ american bison:美洲野牛
 american bittern:美洲麻鳽
 american black bear:美洲黑熊
 american black duck:北美黑鸭
-american bladesmith society:美國鍛造刀匠協會
+american bladesmith society:美国锻造刀匠协会
 american blog:美国人博客
 american blogs:美国人博客
-american board of commissioners for foreign missions:美國海外傳道委員會
+american board of commissioners for foreign missions:美国海外传道委员会
 american boulevard:美国大道
 american brahman:婆罗门牛
 american brainwash:美国人洗脑
@@ -6615,15 +6414,15 @@ american cancer society:美国癌症协会
 american cancer:美国人癌症
 american carl:美国人卡尔
 american casualty:美国人伤亡
-american cathedral in paris:巴黎美國座堂
+american cathedral in paris:巴黎美国座堂
 american catholic peter:美国人天主教彼得
 american catholic:美国人天主教
 american celebration:美国人庆祝
-american century manifesto:美國世紀宣言
-american century:美國世紀
+american century manifesto:美国世纪宣言
+american century:美国世纪
 american ceramic society:美国陶瓷学会
 american chamber of commerce in shanghai:上海美国商会
-american chamber of commerce in taiwan:台灣美國商會
+american chamber of commerce in taiwan:台湾美国商会
 american chamber of commerce in the people's republic of china:中国美国商会
 american character:美国人角色
 american cheese:美国奶酪
@@ -6640,19 +6439,19 @@ american children and adults:美国人儿童和成年人
 american children:美国人儿童
 american china development company:华美合兴公司
 american chinese cuisine:美式中国菜
-american chopper:超炫美式機車
+american chopper:超炫美式机车
 american chris:美国人克里斯
 american church choir:美国人教堂合唱
-american church in paris:巴黎美國教堂
+american church in paris:巴黎美国教堂
 american church:美国人教堂
 american citizens agree:美国公民同意
 american citizens and green card:美国公民和绿卡
 american citizens and others:美国公民和其他人
-american citizens and property:美國公民和財產
+american citizens and property:美国公民和财产
 american citizens and western companies:美国公民和西方企业
 american citizens from south korea:美国公民从韩国
 american citizens from:美国公民从
-american citizens home:美國公民家
+american citizens home:美国公民家
 american citizens in the 21st century:美国公民在21世纪
 american citizens in the future:美国公民在未来
 american citizens into:美国公民进入
@@ -6661,14 +6460,12 @@ american citizens services:美国公民服务
 american citizens think:美国公民认为
 american citizens to cuba:美国公民到古巴
 american citizens understand:美国公民理解
-american citizens understand:美國公民理解
 american citizens who:美国公民谁
 american citizens:美国人公民
 american citizens:美国公民
-american citizens:美國公民
-american city university:美洲城市大學
+american city university:美洲城市大学
 american civics test:美国入籍考试
-american civil liberties union:美國公民自由聯盟
+american civil liberties union:美国公民自由联盟
 american civil religion:美国公民宗教
 american civil rights leader:美国人公民权利领袖
 american civil rights:美国人公民权利
@@ -6688,7 +6485,7 @@ american civil war had been:美国内战已经
 american civil war monument:美国内战纪念碑
 american civil war museum:美国内战博物馆
 american civil war period:美国内战时期
-american civil war reenactment:美國內戰重演
+american civil war reenactment:美国內战重演
 american civil war research:南北战争研究
 american civil war slavery:美国内战奴隶制
 american civil war:南北战争
@@ -6696,15 +6493,15 @@ american civil war:美国内战
 american civilization:美国人文明
 american class:美国人课程
 american client:美国人客户
-american club taipei:台北市美僑協會
-american club taipei:美商俱樂部
+american club taipei:台北市美侨协会
+american club taipei:美商俱乐部
 american clyde:美国人克莱德
 american cocker spaniel:美国可卡犬
 american cockroach:美洲家蠊
 american college of pediatricians:美国儿科医师学院
-american college of sports medicine:美國運動醫學會
+american college of sports medicine:美国运动医学会
 american colonization society:美国殖民协会
-american colony hotel:美國殖民地酒店
+american colony hotel:美国殖民地酒店
 american come:美国人来
 american comic book market:美国漫画书市场
 american comic book publisher:美国漫画书出版商
@@ -6723,9 +6520,8 @@ american companies and consumers:美国企业和消费者
 american companies and consumers:美国公司和消费者
 american companies and foreign government officials:美国公司和外国政府官员
 american companies and individuals:美国公司和个人
-american companies and iran:美國公司和伊朗
+american companies and iran:美国公司和伊朗
 american companies and person:美国公司和个人
-american companies and person:美國公司和個人
 american companies and workers:美国公司和工人
 american companies back:美国公司回
 american companies better:美国公司更好
@@ -6752,18 +6548,15 @@ american companies may export:美国企业可以出口
 american companies more:美国企业更多
 american companies need:美国企业需要
 american companies need:美国公司需要
-american companies need:美國公司需要
 american companies no longer:美国公司不再
-american companies no longer:美國公司不再
 american companies now increasingly:美国公司现在越来越多地
 american companies now:美国公司现在
 american companies plan:美国公司计划
 american companies produce:美国公司生产
 american companies recently:美国公司最近
 american companies say:美国公司说
-american companies soon:美國公司很快
+american companies soon:美国公司很快
 american companies still:美国公司仍然
-american companies still:美國公司仍然
 american companies through:美国公司通过
 american companies use:美国公司使用
 american companies will attend this year:美国公司将参加今年
@@ -6776,41 +6569,40 @@ american companies would:美国企业将
 american companies would:美国公司将
 american companies:美国企业
 american companies:美国公司
-american companies:美國公司
 american composer:美国作曲家
 american concentration camp:美国人集中营
 american concession of tianjin:天津美租界
-american conger:大洋康吉鰻
+american conger:大洋康吉鳗
 american conquest:征服美洲
 american conscience:美国人良知
-american conservative union:美國保守派聯盟
+american conservative union:美国保守派联盟
 american conservatory theater:美国经典剧目剧团
 american consume:美国人消耗
 american consumption:美国人消费
 american continue:美国人继续
-american convention on human rights:美洲人權公約
+american convention on human rights:美洲人权公约
 american cordillera:科迪勒拉山系
 american could:美国人能
-american council for cultural policy:美國文化政策理事會
-american council on education:美國教育理事會
-american council on the teaching of foreign languages:美國外語教學委員會
+american council for cultural policy:美国文化政策理事会
+american council on education:美国教育理事会
+american council on the teaching of foreign languages:美国外语教学委员会
 american council:美国人委员会
 american county:美国人县
-american cover up of japanese war crimes:美國對日本戰爭罪行的掩蓋
+american cover up of japanese war crimes:美国对日本战争罪行的掩盖
 american cream draft:美国奶油马
-american crime story:美國犯罪故事
-american criminal law review:美國刑法評論
-american crocodile:美洲鱷
+american crime story:美国犯罪故事
+american criminal law review:美国刑法评论
+american crocodile:美洲鳄
 american crow:短嘴鸦
-american cuisine:美國飲食
+american cuisine:美国饮食
 american cultural heritage:美国人文化遗产
 american culture:美国人文化
-american curl:美國反耳貓
+american curl:美国反耳猫
 american daniel:美国人丹尼尔
 american david:美国人大卫
 american day:美国人日
-american decline:美國衰落
-american depositary receipt:美國存託憑證
+american decline:美国衰落
+american depositary receipt:美国存托凭证
 american desire:美国人渴望
 american diabetes:美国人糖尿病
 american dialect:美国人方言
@@ -6844,25 +6636,25 @@ american dream start:美国梦开始
 american dream still:美国梦仍然
 american dream will:美国梦会
 american dream:美国梦
-american dreams in china:中國合夥人
+american dreams in china:中国合伙人
 american drink:美国人喝
-american eagle bullion coins:美國鷹揚幣
+american eagle bullion coins:美国鹰扬币
 american eagle energy:美国鹰能源
 american eagle gold coin:美国鹰金币
-american eagle institute:弋果美語
+american eagle institute:弋果美语
 american eagle insurance company:美国鹰保险公司
-american eagle outfitters:美鷹傲飛
+american eagle outfitters:美鹰傲飞
 american eagle tanker:美国鹰油轮
 american eagle:美国鹰
 american ear:美国人耳朵
 american eat:美国人吃
-american economic association:美國經濟學會
-american economic review:美國經濟評論
+american economic association:美国经济学会
+american economic review:美国经济评论
 american education:美国人教育
 american educator:美国人教育家
 american edward:美国人爱德华
-american eel:美洲鰻鱺
-american electric power:美國電力公司
+american eel:美洲鳗鲡
+american electric power:美国电力公司
 american elite:美国人精英
 american engineer:美国人工程师
 american engineers:美国人工程师
@@ -6886,35 +6678,35 @@ american english:美国英语
 american enterprise institute:美国企业研究院
 american entrepreneur:美国人企业家
 american entrepreneurs:美国人企业家
-american ephemeris and nautical almanac:美國星曆表和航海年鑒
+american ephemeris and nautical almanac:美国星历表和航海年鉴
 american eric:美国人埃里克
-american eskimo dog:美國愛斯基摩犬
+american eskimo dog:美国爱斯基摩犬
 american espionage in china:美国在华间谍活动
 american every year:美国人每年
-american exceptionalism:美國例外論
-american expeditionary forces:美國遠征軍
+american exceptionalism:美国例外论
+american expeditionary forces:美国远征军
 american experience:美国人体验
 american explains:美国人解释
 american exploration:美国人探索
-american express bank:美國運通銀行
-american express card:美國運通卡
-american express company:美國運通公司
-american express credit card:美國運通信用卡
-american express global:美國運通全球
-american express:美國運通
+american express bank:美国运通银行
+american express card:美国运通卡
+american express company:美国运通公司
+american express credit card:美国运通信用卡
+american express global:美国运通全球
+american express:美国运通
 american eye:美国人眼
 american eyes:美国人眼睛
 american face:美国人脸
-american factory:美國工廠
-american falls and canadian:美國瀑布和加拿大
-american falls:美國瀑布
-american families plan:美國家庭方案
+american factory:美国工厂
+american falls and canadian:美国瀑布和加拿大
+american falls:美国瀑布
+american families plan:美国家庭方案
 american families:美国人家庭
-american family field:美國家庭球場
+american family field:美国家庭球场
 american family:美国人家庭
 american fear:美国人恐惧
 american federation of labor:美国劳工联合会
-american federation of teachers:美國教師聯盟
+american federation of teachers:美国教师联盟
 american feel:美国人感觉
 american film festival:美国人电影节
 american film institute awards:美国电影学会奖
@@ -6922,10 +6714,10 @@ american film institute:美国电影学会
 american films:美国人电影
 american firefighter museum:美国人消防员博物馆
 american firefighter:美国人消防员
-american flamingo:美洲紅鸛
-american folk art museum:美國民間藝術博物館
+american flamingo:美洲红鸛
+american folk art museum:美国民间艺术博物馆
 american folk music:美国民谣
-american folklife center:美國國家民俗中心
+american folklife center:美国国家民俗中心
 american folklore society:美国民俗学会
 american food:美国人食品
 american football and baseball player:橄榄球和棒球运动员
@@ -6936,7 +6728,7 @@ american football and pizza:美式足球和比萨饼
 american football and soccer:橄榄球和足球
 american football and soccer:美式足球和足球
 american football association:橄榄球协会
-american football at the summer olympics:夏季奧林匹克運動會美式足球比賽
+american football at the summer olympics:夏季奧林匹克运动会美式足球比赛
 american football began:橄榄球开始
 american football club:橄榄球俱乐部
 american football coach:橄榄球教练
@@ -6954,40 +6746,40 @@ american football player tom:橄榄球运动员汤姆
 american football player:橄榄球运动员
 american football positions:美式足球位置
 american football product:美式足球产品
-american football quarterback:美式足球四分衛
+american football quarterback:美式足球四分卫
 american football team:橄榄球队
 american football team:美式足球队
 american football tight end:美式足球近端锋
 american football training:橄榄球培训
 american football:橄榄球
 american football:美式足球
-american forces network radio transmitter site:美軍電台轉播站
+american forces network radio transmitter site:美军电台转播站
 american forces network:美国军中广播
 american foreign service association:美国外交人员协会
 american form:美国人形式
 american former:美国人前
 american foundation:美国人基金
-american fried rice:美國炒飯
+american fried rice:美国炒饭
 american friend:美国人朋友
 american friends service committee:美国教友会
 american friends:美国人朋友
-american frontier:美國舊西部
+american frontier:美国旧西部
 american fuel and petrochemical manufacturers:美国石化炼制者协会
 american future:美国人未来
-american geographical society:美國地理學協會
-american geophysical union meeting:美國地球物理聯盟會議
-american geophysical union:美國地球物理聯盟
+american geographical society:美国地理学协会
+american geophysical union meeting:美国地球物理联盟会议
+american geophysical union:美国地球物理联盟
 american george:美国人乔治
 american gigolo:美国舞男
 american ginseng:花旗参
 american gizzard shad:美洲真鰶
-american go association:美國圍棋協會
+american go association:美国围棋协会
 american goddess at the rape of nanking:南京大屠杀中的美国活菩萨
 american gods follow:美国众神跟随
 american gods online:美国众神在线
 american gods series:美国众神系列
 american gods:美国众神
-american gold eagle:美國鷹揚金幣
+american gold eagle:美国鹰扬金币
 american golden plover:美洲金鸻
 american goldfinch:北美金翅雀
 american gothic painting:美国哥特式绘画
@@ -7033,11 +6825,11 @@ american government websites:美国政府网站
 american government welcome:美国政府欢迎
 american government will:美国政府会
 american government:美国政府
-american graffiti:美國風情畫
+american graffiti:美国风情画
 american granite & marble inc.:大磊石业
 american grave:美国人坟墓
 american guitar academy:美国吉他学院
-american guns:玩槍走火
+american guns:玩枪走火
 american hammond:美国人哈蒙德
 american hand:美国人手
 american handball:美式手球
@@ -7086,7 +6878,7 @@ american heart:美国人心
 american heritage:美国人遗产
 american herring gull:美洲银鸥
 american high-tech:美国人高科技
-american historical association:美國歷史學會
+american historical association:美国历史学会
 american history analysis:美国历史分析
 american history and criticism:美国历史与批评
 american history and culture:美国人历史与文化
@@ -7126,12 +6918,12 @@ american history project:美国历史项目
 american history series:美国历史系列
 american history teacher:美国历史教师
 american history textbook:美国历史教科书
-american history x:野獸良民
+american history x:野兽良民
 american history:美国人历史
 american history:美国历史
 american hockey league:美国冰球联盟
 american home:美国人家
-american horror stories:美國恐怖故事集
+american horror stories:美国恐怖故事集
 american horror story hotel:美国恐怖故事酒店
 american horror story series:美国恐怖故事系列
 american horror story too:美国恐怖故事也
@@ -7142,17 +6934,17 @@ american humanist association:美国人文主义协会
 american humor:美式幽默
 american hustle:美国骗局
 american i:美国人我
-american idiot:美國大白痴
-american idol and world idol:美國偶像和世界偶像
-american idol encore:美國偶像安可
-american idol:美國偶像
+american idiot:美国大白痴
+american idol and world idol:美国偶像和世界偶像
+american idol encore:美国偶像安可
+american idol:美国偶像
 american imagination:美国人想象
 american immigrants:美国人移民
-american imperialism:美帝國主義
+american imperialism:美帝国主义
 american in england:美国人在英格兰
-american independent party:美國獨立黨
+american independent party:美国独立党
 american indian boarding schools:美国的印第安人寄宿学校
-american indian college:美國印第安學院
+american indian college:美国印第安学院
 american indian movement:美国印第安运动
 american indian wars:北美印第安战争
 american inheritance:美国人继承
@@ -7160,33 +6952,31 @@ american innovation dollars:美国创新一美元硬币
 american innovation:美国人创新
 american insist:美国人坚持
 american institute for medical and biological engineering:美国医学与生物工程院
-american institute in taiwan kaohsiung branch office:美國在台協會高雄分處
+american institute in taiwan kaohsiung branch office:美国在台协会高雄分处
 american institute in taiwan:美国在台协会
-american institute in taiwan:美國在台協會
-american institute in taiwan:美國在臺協會
 american institute of aeronautics and astronautics:美国航空航天学会
-american institute of architects:美國建築師學會
-american institute of certified public accountants:美國註冊會計師協會
-american institute of chemical engineers:美國化學工程學會
+american institute of architects:美国建筑师学会
+american institute of certified public accountants:美国注册会计师协会
+american institute of chemical engineers:美国化学工程学会
 american institute of electrical engineers:美国电气工程学会
-american institute of graphic arts:美國平面設計協會
+american institute of graphic arts:美国平面设计协会
 american institute of physics:美国物理联合会
-american institute of taiwan, taipei office:ait台北辦事處
+american institute of taiwan, taipei office:ait台北办事处
 american institute:美国人研究所
-american international assurance building:友邦塔樓
+american international assurance building:友邦塔楼
 american international assurance building:友邦大厦
 american international church:美国国际教会
-american international college:美國國際學院
-american international group:美國國際集團
+american international college:美国国际学院
+american international group:美国国际集团
 american international pictures:美国国际影业
-american international rattlesnake museum:美國國際響尾蛇博物館
-american international school hong kong:美國國際學校
+american international rattlesnake museum:美国国际响尾蛇博物馆
+american international school hong kong:美国国际学校
 american international school of cape town:开普敦美国国际学校
 american international school of guangzhou (aisg):广州美国人国际学校
 american international school of guangzhou, science park campus:广州美国人国际学校科学城校区
 american international school of guangzhou:广州美国人外籍人员子女学校
 american international school of lagos:拉各斯美国国际学校
-american international school:美國國際學校
+american international school:美国国际学校
 american interview:美国人采访
 american invasion:美国人入侵
 american invent:美国人发明
@@ -7200,7 +6990,7 @@ american is an ideal:美国人是一个理想
 american jack:美国人杰克
 american jewish committee:美国犹太人委员会
 american jewish joint distribution committee:美犹联合救济委员会
-american jewish university:美國猶太大學
+american jewish university:美国犹太大学
 american jews believe:美国犹太人相信
 american jews consider exit:美国犹太人考虑退出
 american jews consider:美国犹太人考虑
@@ -7210,17 +7000,17 @@ american jews:美国犹太人
 american jim:美国人吉姆
 american jimmy:美国人吉米
 american jobs:美国人工作
-american jockey club cup:美國賽馬會盃
+american jockey club cup:美国赛马会杯
 american john:美国人约翰
 american jonathan:美国人乔纳森
-american journal of agricultural economics:美國農業經濟期刊
-american journal of archaeology:美國考古學雜誌
-american journal of botany:美國植物學期刊
-american journal of political science:美國政治科學期刊
+american journal of agricultural economics:美国农业经济期刊
+american journal of archaeology:美国考古学杂志
+american journal of botany:美国植物学期刊
+american journal of political science:美国政治科学期刊
 american journal of psychology:美国心理学期刊
 american journal of psychotherapy:美国心理治疗期刊
-american journal of public health:美國公共衛生期刊
-american journal of sociology:美國社會學期刊
+american journal of public health:美国公共卫生期刊
+american journal of sociology:美国社会学期刊
 american journalists association:美国人记者协会
 american judge:美国人法官
 american kennel club:美国犬业俱乐部
@@ -7229,10 +7019,10 @@ american kevin:美国人凯文
 american kill:美国人杀
 american know:美国人知道
 american knows:美国人知道
-american lady:北美紅蛺蝶
+american lady:北美红蛺蝶
 american landrace:美国长白猪
 american laugh:美国人笑
-american law and economics review:美國法律經濟學評論
+american law and economics review:美国法律经济学评论
 american law institute:美国法律协会
 american law library:美国法律文库
 american law:美国人法律
@@ -7241,12 +7031,12 @@ american lawyer magazine:美国律师杂志
 american lawyer training:美国律师培训
 american lawyer wife:美国律师妻子
 american lawyer:美国律师
-american league central:美國聯盟中區
-american league championship series:美國聯盟冠軍賽
-american league division series:美國聯盟分區賽
-american league east:美國聯盟東區
-american league west:美國聯盟西區
-american league:美國聯盟
+american league central:美国联盟中区
+american league championship series:美国联盟冠军赛
+american league division series:美国联盟分区赛
+american league east:美国联盟东区
+american league west:美国联盟西区
+american league:美国联盟
 american learning:美国人学习
 american lee:美国人李
 american left:美国人左
@@ -7254,9 +7044,9 @@ american legion welcome:美国退伍军人协会欢迎
 american legion:美国退伍军人协会
 american legislative exchange council:美国立法交流委员会
 american legless lizard:蠕蜥科
-american legskate:美洲無鰭鰩
+american legskate:美洲无鳍鰩
 american liberation:美国人解放
-american library association:美國圖書館協會
+american library association:美国图书馆协会
 american life and performance:美国人生活和表演
 american life expectancy:美国人预期寿命
 american life project:美国人生活项目
@@ -7264,7 +7054,7 @@ american life:梦醒美国
 american life:美国人生命
 american life:美国人生活
 american like:美国人喜欢
-american lion:美洲擬獅
+american lion:美洲拟狮
 american listen:美国人听
 american literary translators association:美国文学翻译协会
 american literature and culture:美国文学与文化
@@ -7278,11 +7068,11 @@ american literature refers to:美国文学指
 american literature research center:美国文学研究中心
 american literature students:美国文学学生
 american literature:美国文学
-american lobster:美洲螯龍蝦
+american lobster:美洲螯龙虾
 american locomotive company:美国机车公司
 american loneliness:美国人孤独
 american look:美国人看
-american lower class:美國下層階級
+american lower class:美国下层阶级
 american lung association recommend:美国肺脏协会建议
 american lung association report:美国肺脏协会报告
 american lung association reports:美国肺脏协会报告
@@ -7290,20 +7080,20 @@ american lung association said:美国肺脏协会说
 american lung association says:美国肺脏协会说
 american lung association:美国肺脏协会
 american madison:美国人麦迪逊
-american mafia:美國黑手黨
+american mafia:美国黑手党
 american magazine:美国人杂志
-american mahjong:美國麻將
+american mahjong:美国麻将
 american majority:美国人多数
 american male:美国人男性
 american management association:美国管理协会
-american manual alphabet:美國手語字母
+american manual alphabet:美国手语字母
 american manufacturer:美国制造商
 american market:美国人市场
 american marketing association board of directors:美国市场营销协会董事会
 american marketing association:美国市场营销协会
 american marten:美洲貂
 american mary:美国人玛丽
-american mathematical society:美國數學學會
+american mathematical society:美国数学学会
 american mathematics competitions:美国数学竞赛
 american mayor:美国人市长
 american mcgee's alice:爱丽丝梦游魔境
@@ -7315,7 +7105,7 @@ american medical association publish:美国医学会发表
 american medical association recommend:美国医学会建议
 american medical association:美国医学会
 american medical center:美国医疗中心
-american megatrends:安邁科技
+american megatrends:安迈科技
 american member:美国人成员
 american memoir:美国人回忆录
 american memory:美国人记忆
@@ -7334,30 +7124,30 @@ american morse code:美式摩尔斯电码
 american motors corporation:美国汽车公司
 american mountain deer:山鹿
 american movie:美国人电影
-american museum of natural history:美國自然史博物館
+american museum of natural history:美国自然史博物馆
 american museum of natural history:自然历史博物馆
 american museum:美国人博物馆
-american music awards nomination:全美音樂獎提名
-american music awards:全美音樂獎
+american music awards nomination:全美音乐奖提名
+american music awards:全美音乐奖
 american music:美国人音乐
 american muslim council:美国穆斯林委员会
 american mutilation of japanese war dead:美军对日军战死者尸体的肢解行为
 american name:美国人名字
 american nash:美国人纳什
-american national standards institute:美國國家標準協會
+american national standards institute:美国国家标准协会
 american nationalism:美国民族主义
-american nazi party:美國納粹黨
+american nazi party:美国纳粹党
 american need:美国人需要
 american needs:美国人需要
 american network:美国人网络
 american news:美国人新闻
 american newspaper:美国人报纸
 american nicholas:美国人尼古拉斯
-american ninja warrior:美國忍者戰士
-american ninja:美國忍者
+american ninja warrior:美国忍者战士
+american ninja:美国忍者
 american no longer:美国人不再
 american norman:美国人诺曼
-american notes:美國紀行
+american notes:美国纪行
 american now:美国人现在
 american numismatic association:美国钱币协会
 american numismatic society:美国钱币学会
@@ -7373,18 +7163,14 @@ american officials estimate:美国官员估计
 american officials eventually:美国官员最终
 american officials have been:美国官员已经
 american officials hope:美国官员希望
-american officials hope:美國官員希望
 american officials in india:美国官员在印度
 american officials insist:美国官员坚持
 american officials into:美国官员进入
 american officials need:美国官员需要
-american officials need:美國官員需要
 american officials participate:美国官员参加
 american officials plan:美国官员计划
 american officials point out:美国官员指出
-american officials point out:美國官員指出
 american officials recently:美国官员最近
-american officials recently:美國官員最近
 american officials said:美国官员说
 american officials say:美国官员说
 american officials sometimes:美国官员有时
@@ -7395,7 +7181,6 @@ american officials wish:美国官员希望
 american officials worry:美国官员担心
 american officials would:美国官员将
 american officials:美国官员
-american officials:美國官員
 american oil:美国人油
 american only:美国人只有
 american opinion:美国人意见
@@ -7408,12 +7193,12 @@ american organization:美国人组织
 american organizations:美国人组织
 american oriental society:美国东方学会
 american origin:美国人起源
-american overseas airlines:美國海外航空
-american overseas chinese memorial hall:美洲華僑紀念堂
+american overseas airlines:美国海外航空
+american overseas chinese memorial hall:美洲华侨纪念堂
 american overture:美国人序曲
 american own:美国人拥有
 american oystercatcher:美洲蛎鹬
-american paddlefish:匙吻鱘
+american paddlefish:匙吻鲟
 american pair:美国人对
 american parade:美国人游行
 american parents:美国人父母
@@ -7503,35 +7288,34 @@ american pharmacists association:美国药师协会
 american philanthropist:美国人慈善家
 american philip:美国人菲利普
 american philosophical association:美国哲学协会
-american philosophical society:美國哲學學會
-american philosophy:美國哲學
-american physical society:美國物理學會
-american pickerel:帶紋狗魚
-american pipit:黃腹鷚
-american pit bull terrier:美國比特鬥牛犬
-american plaice:美洲擬庸鰈
+american philosophical society:美国哲学学会
+american philosophy:美国哲学
+american physical society:美国物理学会
+american pickerel:带纹狗鱼
+american pipit:黄腹鷚
+american pit bull terrier:美国比特斗牛犬
+american plaice:美洲拟庸鲽
 american plaintiff:美国人原告
 american play:美国人玩
-american political science association:美國政治學會
+american political science association:美国政治学会
 american political science review:美国政治科学评论
 american politician:美国人政治家
 american politics:美国人政治
 american pony:美国矮马
-american pony:美國矮馬
-american pool checkers:美國東南跳棋
+american pool checkers:美国东南跳棋
 american popular music:美国流行音乐
 american popular revolutionary alliance:美洲人民革命联盟
 american population:美国人人口
 american prepare:美国人准备
 american president lines:美国总统轮船公司
 american president:美国人总统
-american primeval:馴荒記
+american primeval:驯荒记
 american printing house for the blind:美国盲人印刷所
 american progress:美利坚向前行
 american projects:美国人项目
 american prometheus:奥本海默传
 american protest:美国人抗议
-american psychiatric association:美國精神醫學學會
+american psychiatric association:美国精神医学学会
 american psychological association award:美国心理学会授予
 american psychological association conference:美国心理学会会议
 american psychological association estimate:美国心理学会估计
@@ -7562,19 +7346,19 @@ american psychologist:美国心理学家
 american public media:美国公共传媒
 american public television:美国公共电视
 american purchase:美国人购买
-american quarter horse:美洲奎特馬
+american quarter horse:美洲奎特马
 american rap:美国人说唱
 american rapper:美国说唱歌手
 american real:美国人真的
-american red cross and the salvation army:美國紅十字會和救世軍
-american red cross:美國紅十字會
-american red squirrel:北美紅松鼠
+american red cross and the salvation army:美国红十字会和救世军
+american red cross:美国红十字会
+american red squirrel:北美红松鼠
 american registry for internet numbers:美洲互联网号码注册管理机构
 american reject:美国人拒绝
 american relation:美国人关系
-american relief administration:美國救濟管理局
+american relief administration:美国救济管理局
 american remember:美国人记住
-american repertory theater:美國劇目劇團
+american repertory theater:美国剧目剧团
 american reports:美国人报告
 american residents:美国人居民
 american resource and cultural center:美国人资源和文化中心
@@ -7587,15 +7371,14 @@ american revolution began:美国革命开始
 american revolution begin:美国革命开始
 american revolution drama:美国革命戏剧
 american revolution from:美国革命从
-american revolution provide:美國革命提供
+american revolution provide:美国革命提供
 american revolution start:美国革命开始
-american revolution veterans:美國革命老兵
+american revolution veterans:美国革命老兵
 american revolution was a begin:美国革命是一个开始
 american revolution:美国革命
-american revolution:美國革命
-american revolutionary war hero:美國獨立戰爭英雄
+american revolutionary war hero:美国独立战争英雄
+american revolutionary war:美国独立战争
 american revolutionary war:美国革命战争
-american revolutionary war:美國獨立戰爭
 american richard:美国人理查德
 american robert:美国人罗伯特
 american robin:旅鶇
@@ -7604,23 +7387,23 @@ american rubyspot:美国珈蟌
 american saddlebred horse:美国骑乘种马马
 american saddlebred:美国骑乘种马
 american said:美国人说
-american sailfin eel:帆鰭鰻
-american samoa at the olympics:奧林匹克運動會美屬薩摩亞代表團
+american sailfin eel:帆鳍鳗
+american samoa at the olympics:奧林匹克运动会美属萨摩亚代表团
 american samoa department of education:美属萨摩亚教育部
-american samoa economic development:美屬薩摩亞經濟發展
+american samoa economic development:美属萨摩亚经济发展
 american samoa fono:美属萨摩亚议会
 american samoa national football team:美属萨摩亚足球代表队
-american samoa national olympic committee:美屬薩摩亞國家奧林匹克委員會
-american samoa nationalpark:美屬薩摩亞國家公園
-american samoa senate:美屬薩摩亞參議院
-american samoa:美屬薩摩亞
+american samoa national olympic committee:美属萨摩亚国家奧林匹克委员会
+american samoa nationalpark:美属萨摩亚国家公园
+american samoa senate:美属萨摩亚参议院
+american samoa:美属萨摩亚
 american sample:美国人样本
 american sanctions:美国人制裁
-american savings bank:美利堅儲蓄銀行
+american savings bank:美利坚储蓄银行
 american say:美国人说
 american says:美国人说
-american school hong kong:香港美國學校
-american school in taichung:台中美國學校
+american school hong kong:香港美国学校
+american school in taichung:台中美国学校
 american school:美国人学校
 american science and technology:美国人科学和技术
 american science:美国人科学
@@ -7644,10 +7427,10 @@ american see:美国人看见
 american sexual behavior:美国人性行为
 american shad:美洲西鯡
 american shorthair:美国短毛猫
-american shrew mole:北美鼩鼴屬
-american siege:終極包圍戰
-american sign language:美國手語
-american silver eagle:美國鷹揚銀幣
+american shrew mole:北美鼩鼴属
+american siege:终极包围战
+american sign language:美国手语
+american silver eagle:美国鹰扬银币
 american singer akon:美国歌手阿肯
 american singer and actress:美国歌手和女演员
 american singer and musician:美国歌手和音乐家
@@ -7660,35 +7443,35 @@ american sitting:美国人坐
 american slavery as it is:美国奴隶制现状
 american sloan:美国人斯隆
 american smoking:美国人吸烟
-american smooth flounder:普氏鰈
+american smooth flounder:普氏鲽
 american so:美国人如此
-american society for cell biology:美國細胞生物學學會
+american society for cell biology:美国细胞生物学学会
 american society for microbiology:美国微生物学会
-american society for the prevention of cruelty to animals:美國愛護動物協會
+american society for the prevention of cruelty to animals:美国爱护动物协会
 american society of agricultural and biological engineers:美国农业与生物工程师学会
 american society of animal science:美国动物科学学会
 american society of cinematographers:美国电影摄影师协会
 american society of clinical oncology annual meeting:美国临床肿瘤学会年会
 american society of clinical oncology meeting:美国临床肿瘤学会会议
 american society of clinical oncology:美国临床肿瘤学会
-american society of health system pharmacists:美國衛生系統藥師協會
+american society of health system pharmacists:美国卫生系统药师协会
 american society of hematology annual meeting:美国血液学会年会
 american society of hematology meeting:美国血液学会会议
 american society of hematology recommend:美国血液学会建议
 american society of hematology:美国血液学会
 american society of human genetics:美国人类遗传学学会
-american society of interior designers:美國室內設計師協會
-american society of mechanical engineers:美國機械工程師學會
+american society of interior designers:美国室內设计师协会
+american society of mechanical engineers:美国机械工程师学会
 american society of overseas research:美国东方研究学会
 american sociological association annual meeting:美国社会学协会年会
 american sociological association meeting:美国社会学协会会议
 american sociological association simon:美国社会学协会西蒙
 american sociological association:美国社会学协会
-american sociological review:美國社會學評論
+american sociological review:美国社会学评论
 american soldier:美国人士兵
-american sole:無臂鰨科
-american solidarity party:美國團結黨
-american song contest:美國歌唱大賽
+american sole:无臂鰨科
+american solidarity party:美国团结党
+american song contest:美国歌唱大赛
 american southern baptist mission:美南浸信会差会
 american southern methodist episcopal mission:监理会差会
 american southern presbyterian mission:美南长老会差会
@@ -7698,11 +7481,11 @@ american speak:美国人说话
 american sphinx:美国的狮身人面像
 american statistical association:美国统计协会
 american steal:美国人偷
-american steamship company:美國輪船公司
+american steamship company:美国轮船公司
 american stereotype:美国人刻板印象
 american steve:美国人史蒂夫
 american still:美国人仍然
-american stock exchange building:美國證券交易所大廈
+american stock exchange building:美国证券交易所大厦
 american story:美国故事
 american strength and courage:美国人力量与勇气
 american strength:美国人力量
@@ -7729,7 +7512,7 @@ american thoracic society:美国胸腔学会
 american threat:美国人威胁
 american time use:美国时间使用
 american time:美国时间
-american toad:美國蟾蜍
+american toad:美国蟾蜍
 american tobacco company:美国烟草公司
 american tolerance:美国人容忍
 american tom ford:美国人汤姆福特
@@ -7758,19 +7541,19 @@ american troops trying:美军试图
 american troops will:美军会
 american troops would:美军将
 american troops:美军
-american truck simulator:美國卡車模擬
+american truck simulator:美国卡车模拟
 american twenty:美国人二十
 american ultra:废柴特工
-american underdog:美國失敗者
+american underdog:美国失败者
 american university economist:美利坚大学经济学家
-american university in bulgaria:保加利亞美國大學
-american university in cairo:開羅美國大學
+american university in bulgaria:保加利亚美国大学
+american university in cairo:开罗美国大学
 american university international law:美利坚大学国际法
 american university museum:美利坚大学博物馆
 american university of beirut:贝鲁特美利坚大学
 american university of beirut:贝鲁特美国大学
 american university of paris:巴黎美国大学
-american university of the caribbean:加勒比美國大學
+american university of the caribbean:加勒比美国大学
 american university political science professor:美利坚大学政治学教授
 american university political science:美利坚大学政治学
 american university preparatory school:美国实验中学
@@ -7783,8 +7566,8 @@ american use:美国人使用
 american uses:美国人使用
 american version:美国人版本
 american victory:美国人胜利
-american village:美國村
-american viticultural area:美國葡萄種植區
+american village:美国村
+american viticultural area:美国葡萄种植区
 american volunteer group:美国援华志愿航空队
 american volunteer:美国人志愿者
 american vote:美国人投票
@@ -7794,7 +7577,7 @@ american want:美国人想要
 american war of independence began:美国独立战争开始
 american war of independence:美国独立战争
 american war:美国人战争
-american warships:美國超級艦隊
+american warships:美国超级舰队
 american was killed:美国人被杀
 american way:美国方式
 american wealth:美国人财富
@@ -7810,11 +7593,11 @@ american white pelican:美洲鹈鹕
 american whitney:美国人惠特尼
 american who:美国人谁
 american wife:美国人妻子
-american wigeon:葡萄胸鴨
+american wigeon:葡萄胸鸭
 american will have more than:美国人将有超过
 american will never:美国人永远不会
 american will:美国人会
-american wine:美國葡萄酒
+american wine:美国葡萄酒
 american wire gauge:美国线规
 american wish:美国人希望
 american women and politics:美国妇女与政治
@@ -7859,20 +7642,19 @@ american workers:美国工人
 american world:美国人世界
 american worship:美国人崇拜
 american would:美国人将
-american wrestling association:美國摔角協會
+american wrestling association:美国摔角协会
 american wright brothers:美国人莱特兄弟
 american yet:美国人还
 american yorkshire:美国约克夏猪
 american zhu kezhen education foundation:美国竺可桢教育基金会
 american:美国人
-americanconnection:美國航空聯運
-americanization:美國化
+americanconnection:美国航空联运
+americanization:美国化
 americano do brasil:阿梅里卡诺多布拉西尔
 americans a few years ago:美国人几年前
 americans about:美国人关于
 americans accept evolution:美国人接受进化
 americans accept:美国人接受
-americans accept:美國人接受
 americans access:美国人访问
 americans accuse:美国人指控
 americans achieve:美国人实现
@@ -7887,7 +7669,6 @@ americans against:美国人对抗
 americans age:美国人年龄
 americans aged:美国人年龄
 americans agree:美国人同意
-americans agree:美國人同意
 americans already complete:美国人已经完成
 americans already:美国人已经
 americans also had different:美国人也有不同的
@@ -7898,13 +7679,11 @@ americans always said they:美国人总是说他们
 americans always:美国人一直
 americans always:美国人总是
 americans and african:美国人和非洲人
-americans and african:美國人和非洲人
 americans and asian banks:美国人和亚洲银行
 americans and asian:美国人和亚洲人
 americans and british people:美国人和英国人
 americans and canadians play:美国人和加拿大人玩
 americans and canadians:美国人和加拿大人
-americans and canadians:美國人和加拿大人
 americans and chinese:美国人与中国人
 americans and chinese:美国人和中国人
 americans and coffee:美国人与咖啡
@@ -7930,7 +7709,7 @@ americans and japanese:美国人和日本人
 americans and jews:美国人和犹太人
 americans and kids:美国人和孩子们
 americans and mexicans very:美国人和墨西哥人非常
-americans and mexicans:美國人和墨西哥人
+americans and mexicans:美国人和墨西哥人
 americans and others:美国人和其他人
 americans and paris:美国人和巴黎
 americans and sugar:美国人和糖
@@ -7942,13 +7721,12 @@ americans and their families:美国人和他们的家庭
 americans and their gun:美国人和他们的枪
 americans and their:美国人和他们的
 americans and three:美国人和三
-americans and three:美國人和三
 americans and turkish citizens:美国人和土耳其公民
-americans and west:美國人和西
+americans and west:美国人和西
 americans and western europe:美国人和西欧
 americans and who:美国人和谁
+americans and women:美国人和女人
 americans and women:美国人和妇女
-americans and women:美國人和女人
 americans are a diverse:美国人是一个多元化
 americans are a tribe:美国人是一个部落
 americans are african:美国人是非洲
@@ -7956,7 +7734,6 @@ americans are atheist:美国人是无神论者
 americans are big customers:美国人是大客户
 americans are christian:美国人是基督徒
 americans are christians:美国人是基督徒
-americans are christians:美國人是基督徒
 americans are different:美国人是不同的
 americans are european:美国人是欧洲人
 americans are free people:美国人是自由的人民
@@ -7985,7 +7762,6 @@ americans attempt:美国人尝试
 americans attend:美国人参加
 americans attributed to:美国人归功于
 americans average:美国人平均
-americans average:美國人平均
 americans avoid:美国人避免
 americans back to work:美国人回到工作
 americans back:美国人回
@@ -8015,7 +7791,6 @@ americans believe their:美国人相信他们的
 americans believe they:美国人相信他们
 americans believe:美国人相信
 americans better:美国人更好
-americans better:美國人更好
 americans breathe:美国人呼吸
 americans breathing:美国人呼吸
 americans buy:美国人买
@@ -8025,7 +7800,6 @@ americans can purchase:美国人可以购买
 americans can tell you:美国人可以告诉你
 americans can't:美国人不能
 americans cannot:美国人不能
-americans cannot:美國人不能
 americans care:美国人关心
 americans changed:美国人改变了
 americans choose:美国人选择
@@ -8038,16 +7812,13 @@ americans confuse:美国人混淆
 americans conquer:美国人征服
 americans consume more than:美国人消耗超过
 americans consume:美国人消耗
-americans consume:美國人消耗
 americans contact:美国人联系
 americans continue:美国人持续
 americans continue:美国人继续
 americans continues:美国人继续
 americans control:美国人控制
 americans could:美国人能
-americans could:美國人能
 americans currently:美国人目前
-americans currently:美國人目前
 americans deal:美国人处理
 americans decide:美国人决定
 americans decided:美国人决定
@@ -8058,12 +7829,10 @@ americans did:美国人做过
 americans die from heart disease:美国人死于心脏病
 americans die from:美国人死于
 americans die:美国人死
-americans die:美國人死
 americans discover:美国人发现
 americans discuss:美国人讨论
 americans disguise:美国人伪装
 americans do:美国人做
-americans do:美國人做
 americans don't believe they:美国人不相信他们
 americans don't believe:美国人不相信
 americans don't doubt vaccine:美国人不怀疑疫苗
@@ -8072,21 +7841,18 @@ americans don't like me:美国人不喜欢我
 americans don't like talking about:美国人不喜欢谈论
 americans don't think america:美国人不认为美国
 americans don't:美国人不
-americans don't:美國人不
 americans doubt:美国人怀疑
 americans dream:美国人梦
 americans drink coffee:美国人喝咖啡
 americans drink tea:美国人喝茶
 americans drink:美国人喝
-americans drink:美國人喝
 americans drive:美国人驾驶
-americans driving:美國人駕駛
+americans driving:美国人驾驶
 americans each year:美国人每年
 americans earn:美国人挣
 americans eat candy:美国人吃糖果
 americans eat this:美国人吃这
 americans eat:美国人吃
-americans eat:美國人吃
 americans elect:美国人选举
 americans emphasize:美国人强调
 americans encourage:美国人鼓励
@@ -8098,12 +7864,10 @@ americans even own:美国人甚至拥有
 americans even:美国人甚至
 americans eventually:美国人最终
 americans every day:美国人每天
-americans every day:美國人每天
 americans every year:美国人每年
-americans every year:美國人每年
 americans fear:美国人恐惧
 americans feel:美国人感觉
-americans feeling:美國人感覺
+americans feeling:美国人感觉
 americans finally:美国人最终
 americans find:美国人发现
 americans focus on:美国人专注于
@@ -8116,7 +7880,6 @@ americans from our land:美国人从我们的土地
 americans from sierra leone:美国人从塞拉利昂
 americans from:美国人从
 americans get:美国人得到
-americans get:美國人得到
 americans give up:美国人放弃
 americans give:美国人给
 americans go:美国人去
@@ -8126,7 +7889,6 @@ americans had been:美国人已经
 americans had some issues:美国人有一些问题
 americans has been:美国人已经
 americans hate:美国人恨
-americans hate:美國人恨
 americans have been:美国人已经
 americans have choice:美国人有选择
 americans have diabetes:美国人有糖尿病
@@ -8145,29 +7907,24 @@ americans hide:美国人隐藏
 americans hold:美国人拥有
 americans hope:美国人希望
 americans how to:美国人如何
-americans how to:美國人如何
 americans how:美国人如何
-americans how:美國人如何
 americans ideal:美国人理想
-americans ideal:美國人理想
 americans in china:在华美国人
-americans in costa rica:哥斯大黎加美國僑民
-americans in cuba:美國裔古巴人
+americans in costa rica:哥斯大黎加美国侨民
+americans in cuba:美国裔古巴人
 americans in general:美国人通常
-americans in general:美國人通常
-americans in haiti:海地美國僑民
-americans in japan:在日美國人
+americans in haiti:海地美国侨民
+americans in japan:在日美国人
 americans in north korea:美国人在朝鲜
 americans in order to:美国人为了
 americans in particular:美国人特别是
 americans in the 21st century:美国人在21世纪
 americans in the past:美国人在过去
-americans in the philippines:美裔菲律賓人
-americans in the united kingdom:美國裔英國人
+americans in the philippines:美裔菲律宾人
+americans in the united kingdom:美国裔英国人
 americans in the united states:美国人在美国
 americans in the us:美国人在美国
 americans increase:美国人增加
-americans increase:美國人增加
 americans increased:美国人增加了
 americans increasingly:美国人日益
 americans increasingly:美国人越来越多地
@@ -8175,7 +7932,6 @@ americans independence:美国人独立
 americans infect:美国人感染
 americans insist:美国人坚持
 americans instinct:美国人本能
-americans instinct:美國人本能
 americans intend:美国人打算
 americans into:美国人进入
 americans invent:美国人发明
@@ -8184,20 +7940,15 @@ americans is because everyone:美国人是因为每个人
 americans john:美国人约翰
 americans just need:美国人只需要
 americans just:美国人只
-americans just:美國人只
 americans keep:美国人保持
-americans keep:美國人保持
 americans kill:美国人杀
 americans know entertainment:美国人知道娱乐
-americans know jesus:美國人知道耶穌
+americans know jesus:美国人知道耶稣
 americans know their library:美国人知道他们的图书馆
 americans know:美国人知道
-americans know:美國人知道
 americans knows:美国人知道
 americans lack:美国人缺乏
-americans lack:美國人缺乏
 americans last year:美国人去年
-americans last year:美國人去年
 americans learn:美国人学习
 americans leave:美国人离开
 americans like their doctors:美国人喜欢他们的医生
@@ -8206,22 +7957,18 @@ americans like these environments:美国人喜欢这些环境
 americans like:美国人喜欢
 americans limit:美国人限制
 americans listen:美国人听
-americans living in saudi arabia:沙烏地阿拉伯美國僑民
+americans living in saudi arabia:沙乌地阿拉伯美国侨民
 americans look:美国人看
-americans look:美國人看
 americans love jesus:美国人爱耶稣
 americans love starbucks:美国人爱星巴克
-americans love starbucks:美國人愛星巴克
 americans love their country:美国人爱他们的国家
 americans love:美国人爱
-americans love:美國人愛
 americans lower:美国人降低
 americans make:美国人制造
 americans manage:美国人管理
 americans manufacture:美国人制造
 americans massacre:美国人屠杀
 americans mention:美国人提到
-americans mention:美國人提到
 americans might still:美国人可能仍然
 americans might think the:美国人可能认为这
 americans mike:美国人迈克
@@ -8236,16 +7983,13 @@ americans must leave syria:美国人必须离开叙利亚
 americans must leave:美国人必须离开
 americans need rest:美国人需要休息
 americans need to know:美国人需要知道
-americans need to know:美國人需要知道
 americans need:美国人需要
-americans need:美國人需要
 americans needs:美国人需要
 americans never forget their sacrifice:美国人永远不会忘记他们的牺牲
 americans never forget:美国人永远不会忘记
 americans never forget:美国人永远不要忘记
 americans no longer:美国人不再
-americans no longer:美國人不再
-americans nose:美國人鼻子
+americans nose:美国人鼻子
 americans not:美国人不是
 americans notice:美国人注意
 americans now eat breakfast:美国人现在吃早餐
@@ -8256,12 +8000,10 @@ americans now:美国人现在
 americans obtain:美国人获得
 americans of all faith:美国人的所有信仰
 americans of course:美国人当然
-americans of health insurance:美國人的醫療保險
+americans of health insurance:美国人的医疗保险
 americans often have the:美国人常常有这
 americans often:美国人常常
-americans often:美國人常常
 americans once again:美国人再次
-americans once again:美國人再次
 americans once:美国人曾经
 americans open:美国人打开
 americans operation:美国人操作
@@ -8269,7 +8011,6 @@ americans or europeans:美国人或欧洲人
 americans or us assets:美国人或美国资产
 americans overcome:美国人克服
 americans overweight:美国人超重
-americans overweight:美國人超重
 americans own around:美国人拥有大约
 americans own bitcoin:美国人拥有比特币
 americans own car:美国人拥有汽车
@@ -8283,7 +8024,6 @@ americans plan:美国人计划
 americans play poker:美国人玩扑克
 americans play:美国人玩
 americans politics:美国人政治
-americans politics:美國人政治
 americans predict:美国人预测
 americans prepare:美国人准备
 americans probably:美国人或许
@@ -8294,18 +8034,15 @@ americans protest:美国人抗议
 americans publish:美国人发表
 americans purchase:美国人购买
 americans push:美国人推
-americans put:美國人放
+americans put:美国人放
 americans quote:美国人引用
-americans quote:美國人引用
 americans read:美国人读
 americans receive:美国人收到
-americans receive:美國人收到
 americans reduce:美国人减少
 americans regret:美国人后悔
 americans reject:美国人拒绝
 americans remember:美国人记得
 americans report:美国人报告
-americans report:美國人報告
 americans require:美国人要求
 americans require:美国人需要
 americans respect:美国人尊重
@@ -8332,10 +8069,8 @@ americans search:美国人搜索
 americans see:美国人看见
 americans select:美国人选择
 americans series:美国人系列
-americans series:美國人系列
 americans set:美国人设置
 americans share:美国人分享
-americans share:美國人分享
 americans shop:美国人购物
 americans should appreciate:美国人应该感激
 americans should be:美国人应该是
@@ -8347,11 +8082,9 @@ americans should leave:美国人应该离开
 americans simply:美国人简单地
 americans sleep:美国人睡
 americans sleep:美国人睡眠
-americans sleep:美國人睡
 americans sloan:美国人斯隆
 americans smile:美国人微笑
 americans so:美国人如此
-americans so:美國人如此
 americans sold:美国人卖
 americans sometimes:美国人有时
 americans sometimes:美国人有时候
@@ -8359,35 +8092,30 @@ americans soon:美国人很快
 americans speak:美国人说话
 americans spent:美国人花
 americans spent:美国人花费
-americans spent:美國人花
 americans start:美国人开始
 americans still believe they:美国人仍然相信他们
 americans still lack health insurance:美国人仍然缺乏健康保险
 americans still use cash:美国人仍然使用现金
 americans still:美国人仍然
-americans still:美國人仍然
 americans stop:美国人停止
 americans study:美国人学习
 americans suddenly:美国人突然
 americans suffer:美国人遭受
-americans suffer:美國人遭受
 americans support bush:美国人支持布什
-americans support capital punishment:美國人支持死刑
-americans support embryonic stem cell research:美國人支持胚胎幹細胞研究
+americans support capital punishment:美国人支持死刑
+americans support embryonic stem cell research:美国人支持胚胎干细胞研究
 americans support government:美国人支持政府
 americans support it:美国人支持它
-americans support label:美國人支持標籤
+americans support label:美国人支持标签
 americans support organ transplantation:美国人支持器官移植
 americans support physician-assisted suicide:美国人支持医生协助自杀
 americans support president obama:美国人支持奥巴马总统
 americans support same-sex marriage:美国人支持同性婚姻
-americans support same-sex marriage:美國人支持同性婚姻
 americans support sanctions:美国人支持制裁
 americans support some sort of:美国人支持某种
 americans support trump:美国人支持特朗普
 americans support us:美国人支持我们
 americans support:美国人支持
-americans support:美國人支持
 americans surrender:美国人投降
 americans suspect:美国人怀疑
 americans taylor:美国人泰勒
@@ -8416,7 +8144,6 @@ americans think we have no security:美国人认为我们没有安全
 americans think wealth:美国人认为财富
 americans think:美国人想
 americans think:美国人认为
-americans think:美國人想
 americans this year:美国人今年
 americans through:美国人通过
 americans to new york:美国人到纽约
@@ -8431,28 +8158,22 @@ americans travel:美国人旅行
 americans trust news media:美国人信任新闻媒体
 americans trust their government:美国人信任他们的政府
 americans trust:美国人信任
-americans trust:美國人信任
 americans trying:美国人试图
 americans understand:美国人理解
 americans unless:美国人除非
-americans unless:美國人除非
 americans update:美国人更新
 americans upgrade:美国人升级
 americans use cash:美国人使用现金
 americans use smartphone:美国人使用智能手机
 americans use these:美国人使用这些
 americans use:美国人使用
-americans use:美國人使用
 americans using:美国人使用
-americans using:美國人使用
 americans usually:美国人通常
-americans usually:美國人通常
 americans victims:美国人受害者
 americans visit:美国人访问
 americans volunteer:美国人志愿者
 americans vote trump:美国人投票特朗普
 americans vote:美国人投票
-americans vote:美國人投票
 americans wait:美国人等
 americans wait:美国人等待
 americans want change:美国人想要改变
@@ -8460,7 +8181,6 @@ americans want law:美国人想要法律
 americans want their children:美国人想要他们的孩子
 americans want to know:美国人想知道
 americans want:美国人想要
-americans want:美國人想要
 americans watch it:美国人观看它
 americans watch:美国人观看
 americans we:美国人我们
@@ -8498,16 +8218,13 @@ americans will remember those:美国人会记住那些
 americans will say:美国人会说
 americans will visit iran:美国人将访问伊朗
 americans will:美国人会
-americans william:美國人威廉
+americans william:美国人威廉
 americans wish:美国人希望
-americans wish:美國人希望
 americans without an effective:美国人没有一个有效的
 americans without health insurance:美国人没有健康保险
 americans without:美国人没有
 americans work:美国人工作
-americans work:美國人工作
 americans worry:美国人担心
-americans worry:美國人擔心
 americans worship:美国人崇拜
 americans would be considered:美国人将被视为
 americans would never:美国人永远不会
@@ -8515,7 +8232,6 @@ americans would:美国人将
 americans write:美国人写
 americans wrote:美国人写下
 americans:美国人
-americans:美國人
 americas and africa:美洲和非洲
 americas and asia:美洲与亚洲
 americas and asia:美洲和亚洲
@@ -8555,7 +8271,7 @@ americas eventually:美洲最终
 americas evidently:美洲显然
 americas export:美洲出口
 americas have been:美洲已经
-americas headquarters:美洲總部
+americas headquarters:美洲总部
 americas hold:美洲拥有
 americas hotel:美洲酒店
 americas human:美洲人
@@ -8604,7 +8320,7 @@ americas welding:美洲焊接
 americas with venezuela:美洲与委内瑞拉
 americas without:美洲没有
 americas:美洲
-americentrism:大美國主義
+americentrism:大美国主义
 americhe dal sud:南美洲
 americhe meridionale:南美洲
 americhe:měizhōu
@@ -8616,27 +8332,22 @@ americium dioxide:二氧化鋂
 americium fluoride:氟化镅
 americium hexafluoride:六氟化镅
 americium:镅
-americká samoa:美屬薩摩亞
+americká samoa:美属萨摩亚
+americké panenské ostrovy:美属处女群岛
+americké panenské ostrovy:美属维京群岛
 americké panenské ostrovy:美属维尔京群岛
-americké panenské ostrovy:美屬維京群島
-americké panenské ostrovy:美屬維爾京群島
-americké panenské ostrovy:美屬處女群島
 americké přírodovědné muzeum:自然历史博物馆
 americo liberian people:美洲裔利比里亚人
-ameridelphia:美洲有袋類
+ameridelphia:美洲有袋类
 amerihká ovttastuvvan stáhtat:měiguó
 amerihká ovttastuvvan stáhtat:美国
-amerihká ovttastuvvan stáhtat:美國
-amerihká samoa:美屬薩摩亞
+amerihká samoa:美属萨摩亚
 ameriikk õhttõõvvâmvääʹld:měiguó
 ameriikk õhttõõvvâmvääʹld:美国
-ameriikk õhttõõvvâmvääʹld:美國
 amerik disid:南美洲
 amerik ovtâstum staatah:美国
-amerik ovtâstum staatah:美國
 amerik ovtâstumstaatah:měiguó
 amerik ovtâstumstaatah:美国
-amerik ovtâstumstaatah:美國
 amerik:měizhōu
 amerik:美洲
 amerika atsimo:南美洲
@@ -8648,13 +8359,10 @@ amerika birleşik devletleri fahri konsolosluğu:美国名誉领事馆
 amerika birleşik devletleri konsolosluğu:美国领事馆
 amerika birleşik devletleri:měiguó
 amerika birleşik devletleri:美国
-amerika birleşik devletleri:美國
 amerika birleşik devletläri:měiguó
 amerika birleşik devletläri:美国
-amerika birleşik devletläri:美國
 amerika birləşmiş Ştatları:měiguó
 amerika birləşmiş Ştatları:美国
-amerika birləşmiş Ştatları:美國
 amerika birləşmiş Ştatlarının baş konsulluğu:美国总领事馆
 amerika birləşmiş Ştatlarının konsulluğu:美国领事馆
 amerika birləşmiş Ştatlarının səfirliyi:美利坚合众国大使馆
@@ -8666,7 +8374,6 @@ amerika gledh:北美洲
 amerika i saute:南美洲
 amerika jugore:南美洲
 amerika ka kelenyalen jamanaw:美国
-amerika ka kelenyalen jamanaw:美國
 amerika ki te tonga:南美洲
 amerika kordilero:科迪勒拉山系
 amerika kujalleq:南美洲
@@ -8677,28 +8384,22 @@ amerika qo'shma shtatlari elchixonasi:美国大使馆
 amerika qo'shma shtatlari konsulligi:美国领事馆
 amerika qoşma Ştatları:měiguó
 amerika qoşma Ştatları:美国
-amerika qoşma Ştatları:美國
 amerika qoʻshma shtatlari:měiguó
 amerika qoʻshma shtatlari:美国
-amerika qoʻshma shtatlari:美國
 amerika qurama shtatları:měiguó
 amerika qurama shtatları:美国
-amerika qurama shtatları:美國
 amerika qūrama Ştattarynyñ elşılıgı:美利坚合众国大使馆
-amerika samoa:美屬薩摩亞
-amerika samoasi:美屬薩摩亞
-amerika samoası:美屬薩摩亞
+amerika samoa:美属萨摩亚
+amerika samoasi:美属萨摩亚
+amerika samoası:美属萨摩亚
 amerika sarikat:měiguó
 amerika sarikat:美国
-amerika sarikat:美國
 amerika selatan:南美洲
 amerika serikat:měiguó
 amerika serikat:美国
-amerika serikat:美國
 amerika syarikat:měiguó
 amerika syarikat:美国
-amerika syarikat:美國
-amerika sāmoa:美屬薩摩亞
+amerika sāmoa:美属萨摩亚
 amerika utara:北美洲
 amerika ya kusini:南美洲
 amerika ya kuthini:南美洲
@@ -8706,73 +8407,58 @@ amerika y’epfo:南美洲
 amerika:měiguó
 amerika:měizhōu
 amerika:美国
-amerika:美國
 amerika:美洲
 amerikaans museum van natuurlijke geschiedenis:自然历史博物馆
-amerikaans samoa:美屬薩摩亞
-amerikaans-samoa:美屬薩摩亞
+amerikaans samoa:美属萨摩亚
+amerikaans-samoa:美属萨摩亚
 amerikaanse kleinere afgelegen eilanden:美国本土外小岛屿
-amerikaanse kleinere afgelegen eilanden:美国本土外小岛屿 / 美國本土外小島嶼
-amerikaanse kleinere afgelegen eilanden:美國本土外小島嶼
+amerikaanse kleinere afgelegen eilanden:美国本土外小岛屿 / 美国本土外小岛屿
+amerikaanse maagdeneilanden:美属处女群岛
+amerikaanse maagdeneilanden:美属维京群岛
 amerikaanse maagdeneilanden:美属维尔京群岛
-amerikaanse maagdeneilanden:美屬維京群島
-amerikaanse maagdeneilanden:美屬維爾京群島
-amerikaanse maagdeneilanden:美屬處女群島
 amerikaanse scholen in angola:安哥拉美国学校
-amerikaanse scholen in angola:安哥拉美國學校
-amerikaansk-samoä:美屬薩摩亞
+amerikaansk-samoä:美属萨摩亚
 amerikai egyesült Államok:měiguó
 amerikai egyesült Államok:美国
-amerikai egyesült Államok:美國
-amerikai szamoa:美屬薩摩亞
+amerikai szamoa:美属萨摩亚
+amerikai virgin-szigetek:美属处女群岛
+amerikai virgin-szigetek:美属维京群岛
 amerikai virgin-szigetek:美属维尔京群岛
-amerikai virgin-szigetek:美屬維京群島
-amerikai virgin-szigetek:美屬維爾京群島
-amerikai virgin-szigetek:美屬處女群島
-amerikalıq samoa:美屬薩摩亞
-amerikamura:美國村
-amerikan samoa:美屬薩摩亞
-amerikan samoan kansallispuisto:美屬薩摩亞國家公園
-amerikan samoası milli parkı:美屬薩摩亞國家公園
-amerikan samoası ulusal parkı:美屬薩摩亞國家公園
-amerikan samoası:美屬薩摩亞
+amerikalıq samoa:美属萨摩亚
+amerikamura:美国村
+amerikan samoa:美属萨摩亚
+amerikan samoan kansallispuisto:美属萨摩亚国家公园
+amerikan samoası milli parkı:美属萨摩亚国家公园
+amerikan samoası ulusal parkı:美属萨摩亚国家公园
+amerikan samoası:美属萨摩亚
 amerikan yhdysvallat:美国
-amerikan yhdysvallat:美國
 amerikan yhdysvaltojen suurlähetystö:美利坚合众国大使馆
 amerikan Ühtenzoittud valdkundad:měiguó
 amerikan Ühtenzoittud valdkundad:美国
-amerikan Ühtenzoittud valdkundad:美國
-amerikanisch-samoa:美屬薩摩亞
+amerikanisch-samoa:美属萨摩亚
+amerikanische jungferninseln:美属处女群岛
+amerikanische jungferninseln:美属维京群岛
 amerikanische jungferninseln:美属维尔京群岛
-amerikanische jungferninseln:美屬維京群島
-amerikanische jungferninseln:美屬維爾京群島
-amerikanische jungferninseln:美屬處女群島
 amerikanische schulen in angola:安哥拉美国学校
-amerikanische schulen in angola:安哥拉美國學校
 amerikanischer pavillion:美国园
-amerikansk samoa:美屬薩摩亞
-amerikansk samoas nasjonalpark:美屬薩摩亞國家公園
+amerikansk samoa:美属萨摩亚
+amerikansk samoas nasjonalpark:美属萨摩亚国家公园
+amerikanska jungfruöarna:美属处女群岛
+amerikanska jungfruöarna:美属维京群岛
 amerikanska jungfruöarna:美属维尔京群岛
-amerikanska jungfruöarna:美屬維京群島
-amerikanska jungfruöarna:美屬維爾京群島
-amerikanska jungfruöarna:美屬處女群島
-amerikanska samoa:美屬薩摩亞
-amerikanska sámoa:美屬薩摩亞
+amerikanska samoa:美属萨摩亚
+amerikanska sámoa:美属萨摩亚
+amerikanske jomfruøer:美属处女群岛
+amerikanske jomfruøer:美属维京群岛
 amerikanske jomfruøer:美属维尔京群岛
-amerikanske jomfruøer:美屬維京群島
-amerikanske jomfruøer:美屬維爾京群島
-amerikanske jomfruøer:美屬處女群島
 amerikanyň birleşen Ştatlary:měiguó
 amerikanyň birleşen Ştatlary:美国
-amerikanyň birleşen Ştatlary:美國
 amerikanyň birleşen Ştatlarynyň ilçihanasy:美利坚合众国大使馆
 amerikas forenede stater:měiguó
 amerikas forenede stater:美国
-amerikas forenede stater:美國
 amerikas forenede staters ambassade:美利坚合众国大使馆
 amerikas forente stater:měiguó
 amerikas forente stater:美国
-amerikas forente stater:美國
 amerikas förenta staters ambassad:美利坚合众国大使馆
 amerikas savienoto valstu goda konsulāts:美国名誉领事馆
 amerikas savienoto valstu konsulāts:美国领事馆
@@ -8781,7 +8467,6 @@ amerikas savienoto valstu vēstniecība:美国大使馆
 amerikas savienoto valstu ģenerālkonsulāts:美国总领事馆
 amerikas savienotās valstis:měiguó
 amerikas savienotās valstis:美国
-amerikas savienotās valstis:美國
 amerikas:měizhōu
 amerikas:美洲
 amerikay veroci:南美洲
@@ -8790,39 +8475,34 @@ amerike:měizhōu
 amerike:美洲
 ameriketako estatu batuak:měiguó
 ameriketako estatu batuak:美国
-ameriketako estatu batuak:美國
 amerikha ya le dzongeni:南美洲
 ameriki:měiguó
 ameriki:美国
-ameriki:美國
 amerikka:měizhōu
 amerikka:美洲
 ameriko:měizhōu
 ameriko:美洲
 amerikoa:měizhōu
 amerikoa:美洲
+amerikonsku jómfrúoyggjar:美属处女群岛
+amerikonsku jómfrúoyggjar:美属维京群岛
 amerikonsku jómfrúoyggjar:美属维尔京群岛
-amerikonsku jómfrúoyggjar:美屬維京群島
-amerikonsku jómfrúoyggjar:美屬維爾京群島
-amerikonsku jómfrúoyggjar:美屬處女群島
-amerikoonsk samoa:美屬薩摩亞
-amerikos samoa nacionalinis parkas:美屬薩摩亞國家公園
-amerikos samoa:美屬薩摩亞
+amerikoonsk samoa:美属萨摩亚
+amerikos samoa nacionalinis parkas:美属萨摩亚国家公园
+amerikos samoa:美属萨摩亚
 amerikys saškierstuos vaļsteibys:měiguó
 amerikys saškierstuos vaļsteibys:美国
-amerikys saškierstuos vaļsteibys:美國
 amerikə:měizhōu
 amerikə:美洲
 amerila:玫灯蛾属
 amering:阿梅灵
-ameringkogel:阿梅林科格爾山
+ameringkogel:阿梅林科格尔山
 ameriprise financial:美通金融
-američka samoa:美屬薩摩亞
+američka samoa:美属萨摩亚
+američki djevičanski otoci:美属处女群岛
+američki djevičanski otoci:美属维京群岛
 američki djevičanski otoci:美属维尔京群岛
-američki djevičanski otoci:美屬維京群島
-američki djevičanski otoci:美屬維爾京群島
-američki djevičanski otoci:美屬處女群島
-ameriška samoa:美屬薩摩亞
+ameriška samoa:美属萨摩亚
 amerongen castle:阿莫隆根城堡
 amerongen:阿默龙恩
 ameronothridae:滨甲螨科
@@ -8830,7 +8510,7 @@ ameronothrus:滨甲螨属
 ameroseiidae:美綏蟎科
 ameroseius:美绥螨属
 amersfoart:阿默斯福特
-amersfoort centraal railway station:阿默斯福特中央車站
+amersfoort centraal railway station:阿默斯福特中央车站
 amersfoort:阿默斯福特
 amersfortas:阿默斯福特
 amersham station:阿默舍姆站
@@ -8852,10 +8532,10 @@ amerėka:měizhōu
 amerėka:美洲
 ames national laboratory:埃姆斯国家实验室
 ames project:埃姆斯计划
-ames range:阿梅斯山脈
+ames range:阿梅斯山脉
 ames research center:艾姆斯研究中心
 ames room:艾姆斯小屋
-ames test:艾美氏試驗
+ames test:艾美氏试验
 amesbury abbey:埃姆斯伯里修道院
 amesbury investigation:埃姆斯伯里调查
 amesbury:埃姆斯伯里
@@ -8864,12 +8544,12 @@ amesiodendron chinense:细子龙
 amesiodendron:细子龙属
 amesterdão:阿姆斯特丹
 ametek industrial technology (shanghai) co.,ltd:阿美德格工业技术（上海）有限公司
-amethyst and agate:紫水晶和瑪瑙
+amethyst and agate:紫水晶和玛瑙
 amethyst and pearl:紫水晶和珍珠
 amethyst crystal:紫水晶晶体
 amethyst dye:紫水晶染料
 amethyst eyes:紫水晶眼睛
-amethyst gem clam:寶石文蛤
+amethyst gem clam:宝石文蛤
 amethyst incident:紫石英号事件
 amethyst prices:紫水晶价格
 amethyst project:紫水晶项目
@@ -8884,16 +8564,15 @@ amethyst:紫水晶
 amethystea:水棘针属
 amethystine python:紫晶蟒
 ametista do sul:南阿梅蒂斯塔
-ametrida:掠果蝠屬
+ametrida:掠果蝠属
 ametropodidae:长手蜉蝣科
 ametsuchi no uta:天地之词
 ametsura:雨连
-ametsura:雨連
 amettes:阿梅特
 ameugny:阿默尼
 ameuvelle:阿默韦勒
-ameya-yokochō:阿美橫町
-ameyoko center building:阿美橫中心大樓
+ameya-yokochō:阿美横町
+ameyoko center building:阿美横中心大楼
 ameyugo:阿梅乌戈
 amezaiku:糖塑
 amezepine:氨甲西平
@@ -8904,7 +8583,7 @@ amfepramone:安非拉酮
 amfetaminil:安非他尼
 amfissa:阿姆菲萨
 amfiteatr el jem:杰姆的圆形竞技场
-amfiteatre romà:圓形競技場
+amfiteatre romà:圆形竞技场
 amfitheater el jem:杰姆的圆形竞技场
 amfleet:美铁普运型铁路客车
 amfreville la campagne:昂夫勒维尔拉康帕涅
@@ -8925,14 +8604,12 @@ amgen products:安进产品
 amgen professor:安进教授
 amgen scholar:安进学者
 amgen:安进
-amginsky district:阿姆加區
+amginsky district:阿姆加区
 amgoe:阿姆古
 amgok-dong:暗谷洞
 amgou:阿姆古
 amgu:阿姆古
 amgueddfa hanes milwrol fietnam:越南军事历史博物馆
-amgueddfa hanes milwrol fietnam:越南軍事歷史博物館
-amgueddfa ho chi minh:胡志明博物館
 amgueddfa ho chi minh:胡志明博物馆
 amgueddfa ymladd macedonian:马其顿斗争博物馆
 amgun:阿姆贡河
@@ -8946,8 +8623,7 @@ amhara people:安哈拉人
 amhara region:阿姆哈拉州
 amhara:阿姆哈拉州
 amharclann babylonian:巴比伦剧院
-amharclann babylonian:巴比倫劇院
-amharic wikipedia:阿姆哈拉文維基百科
+amharic wikipedia:阿姆哈拉文维基百科
 amharic:阿姆哈拉语
 amharsko:阿姆哈拉州
 amherst academy:阿默斯特学院
@@ -8959,7 +8635,6 @@ amherst classroom:阿默斯特教室
 amherst coffee:阿默斯特咖啡
 amherst college psychology professor:阿默斯特学院心理学教授
 amherst college:阿默斯特学院
-amherst college:阿默斯特學院
 amherst community band:阿默斯特社区乐队
 amherst community:阿默斯特社区
 amherst county:阿默斯特县
@@ -8988,47 +8663,43 @@ amherst street:阿默斯特街
 amherst street:阿默斯特街道
 amherst students went:阿默斯特学生去
 amherst students:阿默斯特学生
-amherst township:阿默斯特鎮區
+amherst township:阿默斯特镇区
 amherst tradition:阿默斯特传统
 amherst we encourage:阿默斯特我们鼓励
 amherst we:阿默斯特我们
 amherst:阿默斯特
 amherstia:瓔珞木
 amherų regionas:阿姆哈拉州
-ami kikuchi:菊地亞美
+ami kikuchi:菊地亚美
 ami kondo:近藤亚美
-ami koshimizu:小清水亞美
-ami maeshima:前島亞美
+ami koshimizu:小清水亚美
+ami maeshima:前岛亚美
 ami miyamae:宫前杏实
 ami national center:阿美族民族中心
-ami onuki:大貫亞美
+ami onuki:大贯亚美
 ami otaki:大瀧麻未
-ami sugita:杉田亞未
-ami suzuki:鈴木亞美
-ami yuasa:湯淺亞實
+ami sugita:杉田亚未
+ami suzuki:铃木亚美
+ami yuasa:汤浅亚实
 ami-dong:峨嵋洞
-ami-machi:阿見町
 ami-machi:阿见町
 ami-ri:阿米里
-ami:阿見町
 ami:阿见町
 amianan a korea:cháoxiǎn
-amianan a korea:北韓
-amianan a korea:朝鮮
-amianan a korea:朝鮮民主主義人民共和國
+amianan a korea:北韩
 amianan a korea:朝鲜
-amianan a korea:朝鲜 / 北韓
+amianan a korea:朝鲜 / 北韩
+amianan a korea:朝鲜民主主义人民共和国
 amiananhayn lumauwalen:北莱茵-威斯特法伦州
-amiananhayn lumauwalen:北萊茵－威斯特法倫
+amiananhayn lumauwalen:北莱茵－威斯特法伦
 amians:亚眠
-amians:亞眠
-amiba:宇宙微波背景輻射陣列
+amiba:宇宙微波背景辐射阵列
 amibegron:阿米贝隆
 amicable numbers:相亲数
-amicale des teochew en france:法國潮州會館
-amice:方領巾
-amici prism:阿米西稜鏡
-amici roof prism:阿米西屋頂稜鏡
+amicale des teochew en france:法国潮州会馆
+amice:方领巾
+amici prism:阿米西稜镜
+amici roof prism:阿米西屋顶稜镜
 amicus curiae:法庭之友
 amida hall:阿弥陀堂
 amida-dō:阿弥陀堂
@@ -9048,25 +8719,20 @@ amidophosphoribosyltransferase:酰胺基磷酸核糖基转移酶
 amidst a snowstorm of love:在暴雪时分
 amieira do tejo:特茹河畔阿米埃拉
 amieno:亚眠
-amieno:亞眠
 amiens cathedral:亚眠主教座堂
 amiens cathedral:亚眠大教堂
-amiens cathedral:亞眠主教座堂
-amiens cathedral:亞眠大教堂
 amiens katedrali:亚眠主教座堂
-amiens sc:艾米恩斯體育會
+amiens sc:艾米恩斯体育会
 amiens station:亚眠站
-amiens station:亞眠站
 amiens treaty:亚眠条约
-amiens-1:亞眠-1
-amiens-2:亞眠-2
-amiens-3:亞眠-3
-amiens-4:亞眠-4
-amiens-5:亞眠-5
-amiens-6:亞眠-6
-amiens-7:亞眠-7
+amiens-1:亚眠-1
+amiens-2:亚眠-2
+amiens-3:亚眠-3
+amiens-4:亚眠-4
+amiens-5:亚眠-5
+amiens-6:亚眠-6
+amiens-7:亚眠-7
 amiens:亚眠
-amiens:亞眠
 amienskatedralen:亚眠主教座堂
 amiensko katedrala:亚眠主教座堂
 amietia:艾美蛙属
@@ -9077,40 +8743,35 @@ amifontaine:阿米方丹
 amiga hotel:雅迷家酒店
 amigny rouy:阿米尼鲁伊
 amigo and friends:笑星和他的朋友们
-amigo mansion:雅谷大廈
-amigo restaurant:雅谷餐廳
-amihanan cape:北開普
-amihanan cape:北開普省
+amigo mansion:雅谷大厦
+amigo restaurant:雅谷餐厅
+amihanan cape:北开普
+amihanan cape:北开普省
 amihanan cyprus:北塞浦路斯
-amihanan cyprus:北塞浦路斯/北賽普勒斯
-amihanan cyprus:北賽普勒斯
+amihanan cyprus:北塞浦路斯/北赛普勒斯
+amihanan cyprus:北赛普勒斯
 amihanan nga bahr el ghazal:北加扎勒河州
-amihanan nga irlanda:北愛爾蘭
 amihanan nga irlanda:北爱尔兰
-amihanan nga irlanda:北爱尔兰 / 北愛爾蘭
+amihanan nga irlanda:北爱尔兰 / 北爱尔兰
 amihanan nga kasahistan:北哈萨克斯坦州
 amihanan nga khorasan (lalawigan):北呼罗珊省
-amihanan nga khorasan (lalawigan):北呼羅珊省
 amihanan nga korea:cháoxiǎn
-amihanan nga korea:北韓
-amihanan nga korea:朝鮮
-amihanan nga korea:朝鮮民主主義人民共和國
+amihanan nga korea:北韩
 amihanan nga korea:朝鲜
-amihanan nga korea:朝鲜 / 北韓
+amihanan nga korea:朝鲜 / 北韩
+amihanan nga korea:朝鲜民主主义人民共和国
 amihanan nga sinai (lalawigan):北西奈省
 amihanan-katundan:西北省
 amihanang korea:cháoxiǎn
-amihanang korea:北韓
-amihanang korea:朝鮮
-amihanang korea:朝鮮民主主義人民共和國
+amihanang korea:北韩
 amihanang korea:朝鲜
-amihanang korea:朝鲜 / 北韓
+amihanang korea:朝鲜 / 北韩
+amihanang korea:朝鲜民主主义人民共和国
 amihanang xorāsān:北呼罗珊省
-amihanang xorāsān:北呼羅珊省
 amiidae:弓鳍鱼科
-amiiformes:弓鰭魚目
+amiiformes:弓鳍鱼目
 amikacin:阿米卡星
-amikiri:網切
+amikiri:网切
 amili:阿密哩
 amillennialism:无千禧年论
 amiloride and hydrochlorothiazide:阿米洛利和氢氯噻嗪
@@ -9134,8 +8795,8 @@ amin says:阿明说
 amin still:阿明仍然
 amin:阿明
 amina bokhary controversy:包致金侄女案
-amina bughra:愛美娜
-amina sato:佐藤亞美菜
+amina bughra:爱美娜
+amina sato:佐藤亚美菜
 aminagar sarai:阿米纳加尔萨赖
 aminagar urf bhurbaral:阿米纳加尔乌尔夫布尔巴拉尔
 amination reaction:胺化反应
@@ -9160,7 +8821,6 @@ aminga:阿明加
 amingaon:亚敏贡
 aminia:yàměiníyà
 aminia:亚美尼亚
-aminia:亞美尼亞
 amino acid alanine:氨基酸丙氨酸
 amino acid analysis:氨基酸分析
 amino acid and nucleotide metabolism:氨基酸和核苷酸代谢
@@ -9177,7 +8837,7 @@ amino acid catalyst:氨基酸催化剂
 amino acid change:氨基酸改变
 amino acid changes:氨基酸变化
 amino acid citrulline:氨基酸瓜氨酸
-amino acid combination:氨基酸組合
+amino acid combination:氨基酸组合
 amino acid compound:氨基酸化合物
 amino acid concentration:氨基酸浓度
 amino acid contributions:氨基酸贡献
@@ -9256,7 +8916,6 @@ amino acid:氨基酸
 amino acids along:氨基酸沿着
 amino acids and around:氨基酸和大约
 amino acids and blood pressure:氨基酸和血压
-amino acids and blood pressure:氨基酸和血壓
 amino acids and catechin:氨基酸和儿茶素
 amino acids and chlorophyll:氨基酸和叶绿素
 amino acids and clinical:氨基酸与临床
@@ -9320,7 +8979,7 @@ amino acids use:氨基酸使用
 amino acids will:氨基酸会
 amino acids with nutrition:氨基酸与营养
 amino acids:氨基酸
-amino station:網野站
+amino station:网野站
 amino sugar:氨基糖
 amino-acid analysis:氨基酸分析
 amino-acid encoding:氨基酸编码
@@ -9369,36 +9028,33 @@ aminothiophenol:氨基苯硫酚
 amintas kaya mezarı:2.阿敏塔斯之墓
 amiodarone products:胺碘酮产品
 amiodarone:胺碘酮
-amioides polyacanthus:多刺天竺鯛
+amioides polyacanthus:多刺天竺鲷
 amions:阿米永
-amiot islands:阿米奧特群島
+amiot islands:阿米奧特群岛
 amiota:阿果蝇属
-amioun:艾姆雲
-amiphitheater:露天廣場
-amir al mu'minin:信士的長官
+amioun:艾姆云
+amiphitheater:露天广场
+amir al mu'minin:信士的长官
 amir al umara:众埃米尔之埃米尔
 amir chakhmaq complex:阿米尔乔赫马克建筑群
 amir chaqmaq arcades:阿米尔恰赫建筑群
-amir chaqmaq complex:馬克建築群
-amir gal or:高哲銘
+amir chaqmaq complex:马克建筑群
+amir gal or:高哲铭
 amir hamzah azizan:阿米尔韩沙
 amir qazaghan:加茲罕
 amir-chaqmaq-arkadenbau:阿米尔恰赫建筑群
 amira aisya abdul aziz:阿米拉艾莎
 amiraliteetti:海军部大厦
-amirante islands:阿米蘭特群島
+amirante islands:阿米兰特群岛
 amirauté:海军部大厦
-amiriah abu dhabi:阿布扎比酋長國
 amiriah abu dhabi:阿布扎比酋长国
 amirias arabi unida:Ālābó liánhé qiúchángguó
+amirias arabi unida:阿拉伯联合大公国
 amirias arabi unida:阿拉伯联合酋长国
-amirias arabi unida:阿拉伯联合酋长国 / 阿拉伯聯合大公國
-amirias arabi unida:阿拉伯聯合大公國
-amirias arabi unida:阿拉伯聯合酋長國
+amirias arabi unida:阿拉伯联合酋长国 / 阿拉伯联合大公国
 amirika carékat:měiguó
 amirika carékat:美国
-amirika carékat:美國
-amirika samwa:美屬薩摩亞
+amirika samwa:美属萨摩亚
 amirika selatan:南美洲
 amirika seulatan:南美洲
 amirika:měizhōu
@@ -9406,16 +9062,16 @@ amirika:美洲
 amirikak:měizhōu
 amirikak:美洲
 amiriyah shelter bombing:阿米里亚防空洞轰炸
-amirkabir's bleak:阿米爾歐白魚
+amirkabir's bleak:阿米尔欧白鱼
 amirmali cun:艾米热买里村
 amiruddin hamzah:阿米鲁丁韩沙
 amiruddin:阿米鲁丁
 amirudin shari:阿米鲁丁沙利
 amis folk center:阿美族民俗中心
-amis harvest festivals:豐年祭
-amis language:阿美語
+amis harvest festivals:丰年祭
+amis language:阿美语
 amis people:阿美族
-amis publics:玩命光頭
+amis publics:玩命光头
 amischotolype:穿鞘花属
 amish are traditional christians:阿米什人是传统的基督徒
 amish area:阿米什人地区
@@ -9433,71 +9089,66 @@ amish society:阿米什人社会
 amish:阿米什人
 amisk lake:阿米斯克湖
 amiskwacîwâskahikan:Āidéméngdùn
-amiskwacîwâskahikan:埃德蒙頓
-amiskwacîwâskahikan:愛民頓
+amiskwacîwâskahikan:埃德蒙顿
+amiskwacîwâskahikan:爱民顿
 amiskwia:阿米斯克虫
-amissidens hainesi:海氏阿密海鯰
-amistad gambusia:德克薩斯食蚊魚
+amissidens hainesi:海氏阿密海鲶
+amistad gambusia:德克萨斯食蚊鱼
 amistardam:阿姆斯特丹
 amisulpride:氨磺必利
 amitabha buddha:阿弥陀佛
-amitabha buddha:阿彌陀佛
-amitabha buddhist society of houston:淨宗學會
+amitabha buddhist society of houston:净宗学会
 amitabha pure land rebirth dharani:往生咒
 amitang:阿米塘
 amite river:阿米特河
 amitermes:黑塚白蚁属
-amitosis:無絲分裂
+amitosis:无丝分裂
 amitostigma:无柱兰属
 amitraz:双甲脒
 amitriptyline:阿米替林
-amituo:阿彌陀
-amity college:樂群書院
+amituo:阿弥陀
+amity college:乐群书院
 amity foundation was established in:爱德基金会成立于
 amity foundation:爱德基金会
-amity house:友群大廈
-amity township:阿米蒂鎮區
+amity house:友群大厦
 amity township:阿米蒂镇区
 amity:阿米蒂
-amivantamab:埃萬妥單抗
+amivantamab:埃万妥单抗
 amixetrine:阿米西群
-amizade bridge:友誼大橋
+amizade bridge:友誼大桥
 amizhai:阿米寨
-amizour district:阿米祖爾區
-amizour:阿米祖爾
+amizour district:阿米祖尔区
+amizour:阿米祖尔
 amj highway:amj大道
-amjenas-1:亞眠-1
-amjenas-2:亞眠-2
-amjenas-3:亞眠-3
-amjenas-4:亞眠-4
-amjenas-5:亞眠-5
-amjenas-6:亞眠-6
-amjenas-7:亞眠-7
+amjenas-1:亚眠-1
+amjenas-2:亚眠-2
+amjenas-3:亚眠-3
+amjenas-4:亚眠-4
+amjenas-5:亚眠-5
+amjenas-6:亚眠-6
+amjenas-7:亚眠-7
 amjenas:亚眠
-amjenas:亞眠
-amjeong-ri:巖井里
+amjeong-ri:岩井里
 amji's salamander:安吉小鲵
-amkor t6:艾克爾先進科技 t6廠
+amkor t6:艾克尔先进科技 t6厂
 amkor technology:安靠科技
 amkula:阿姆库拉
 amlabad:阿姆拉巴德
 amlach:阿姆拉赫
 amlai:阿姆莱
 amlash county:阿姆拉什县
-amlash county:阿姆拉什縣
-amlash e jonubi rural district:南阿姆拉什鄉
-amlash e shomali rural district:北阿姆拉什鄉
+amlash e jonubi rural district:南阿姆拉什乡
+amlash e shomali rural district:北阿姆拉什乡
 amlash:阿姆拉什
 amleto vespa:范斯白
 amlexanox:氨来呫诺
-amlia:阿米利亞島
+amlia:阿米利亚岛
 amlodipine group:氨氯地平组
 amlodipine:氨氯地平
 amlogic:晶晨半导体
 amloh:阿姆洛
 ammainaickanur:阿迈奈卡努尔
 amman airport:安曼机场
-amman airport:安曼機場
 amman and baku:安曼和巴库
 amman and beirut:安曼和贝鲁特
 amman and jerusalem:安曼和耶路撒冷
@@ -9506,22 +9157,21 @@ amman bank:安曼银行
 amman bombing:安曼爆炸
 amman citadel:安曼城堡
 amman city:安曼城市
-amman civil airport:安曼民航機場
+amman civil airport:安曼民航机场
 amman clock:安曼时钟
 amman conference:安曼会议
-amman east:安曼東
+amman east:安曼东
 amman embassy:安曼大使馆
 amman government:安曼政府
 amman governorate:安曼省
 amman govrenorate:安曼省
 amman guvernement:安曼省
 amman has:安曼有
-amman hospital:安曼醫院
+amman hospital:安曼医院
 amman hotel bombing:安曼酒店爆炸
 amman hotel:安曼酒店
 amman international airport:安曼国际机场
 amman international stadium:安曼国际体育场
-amman international stadium:安曼國際體育場
 amman is a city:安曼是一个城市
 amman is jordan:安曼是约旦
 amman letter:安曼信
@@ -9541,12 +9191,12 @@ amman university:安曼大学
 amman:安曼
 amman:安曼省
 ammandra:砂蕊象牙椰属
-ammannia auriculata:耳葉水莧菜
+ammannia auriculata:耳叶水莧菜
 ammannia baccifera:水苋菜
-ammannia coccinea:長葉水莧菜
+ammannia coccinea:长叶水莧菜
 ammannia multiflora:多花水苋
 ammannia:水苋菜属
-ammar mosque and osman ramju sadick islamic centre:愛群清真寺
+ammar mosque and osman ramju sadick islamic centre:爱群清真寺
 ammasandra:阿迪蒂亚帕特纳
 ammassalik island:阿马萨利克岛
 ammassalik municipality:阿马萨利克
@@ -9563,38 +9213,35 @@ ammerschwihr:阿默什维尔
 ammersee railway:阿默湖铁路
 ammersee:阿默湖
 ammersoyen castle:阿梅索耶城堡
-ammerswil:阿梅爾斯維爾
+ammerswil:阿梅尔斯维尔
 ammerthal:阿默塔尔
 ammertzwiller:阿梅尔茨维莱尔
 ammeter voltmeter:电流表电压表
 ammeter:电流表
 ammi ditana:阿米狄塔那
 ammi majus:大阿米芹
-ammi moussa district:阿米穆薩區
-ammi moussa:阿米穆薩
+ammi moussa district:阿米穆萨区
+ammi moussa:阿米穆萨
 ammi saduqa:阿米萨杜卡
 ammi visnaga:阿米芹
 amminadab:亚米拿达
 ammingo:爱萌果
-amministrazione comunale del benfica:本菲卡市鎮行政部門
 amministrazione comunale del benfica:本菲卡市镇行政部门
-amministrazione comunale del comune di belas:貝拉斯公社市級局
 amministrazione comunale del comune di belas:贝拉斯公社市级局
-amministrazione comunale di viana:維阿納市行政部門
 amministrazione comunale di viana:维阿纳市行政部门
 amministrazione dell'aeroporto:机场管理处
 amministrazione della città di saran:萨兰
 ammit:阿米特
-ammochostos stadium:阿莫霍斯托斯運動場
-ammocryptocharax elegans:砂脂鯉
+ammochostos stadium:阿莫霍斯托斯运动场
+ammocryptocharax elegans:砂脂鲤
 ammodendron:银砂槐属
-ammodile:鱗掌沙鼠
+ammodile:鳞掌沙鼠
 ammodiscidae:砂盘虫科
 ammodramus:沙鹀属
 ammodytes:玉筋鱼属
-ammoglanis amapaensis:阿瑪帕礫毛鼻鯰
-ammoglanis diaphanus:巴西礫毛鼻鯰
-ammoglanis pulex:強壯礫毛鼻鯰
+ammoglanis amapaensis:阿玛帕礫毛鼻鲶
+ammoglanis diaphanus:巴西礫毛鼻鲶
+ammoglanis pulex:強壮礫毛鼻鲶
 ammolite:斑彩石
 ammomanes:漠百灵属
 ammonia accept:氨接受
@@ -9611,7 +9258,7 @@ ammonia and glycerol:氨和甘油
 ammonia and greenhouse gas:氨和温室气体
 ammonia and helium:氨和氦
 ammonia and hydrogen plants:氨和氢植物
-ammonia and hydrogen sulfide:氨和硫化氫
+ammonia and hydrogen sulfide:氨和硫化氢
 ammonia and hydrogen:氨和氢
 ammonia and liquid fuel:氨和液体燃料
 ammonia and manganese:氨和锰
@@ -9715,9 +9362,9 @@ ammonia water:氨水
 ammonia-ice crystal:氨冰晶体
 ammonia:氨
 ammonifex:制氨菌属
-ammonite language:亞捫語
+ammonite language:亚捫语
 ammonitida:菊石目
-ammonitina:菊石亞目
+ammonitina:菊石亚目
 ammonium acetate:乙酸铵
 ammonium adipate:己二酸铵
 ammonium alum:硫酸铝铵
@@ -9772,7 +9419,7 @@ ammonium hexafluoroantimonate:六氟锑酸铵
 ammonium hexafluoroarsenate:六氟砷酸铵
 ammonium hexafluoroindate:六氟铟酸铵
 ammonium hexafluorophosphate:六氟磷酸铵
-ammonium hydrosulfide:硫氫化銨
+ammonium hydrosulfide:硫氢化銨
 ammonium iodate:碘酸铵
 ammonium iodide:碘化铵
 ammonium ion:铵离子
@@ -9825,62 +9472,61 @@ ammonium triiodide:三碘化铵
 ammonium:铵
 ammonoidea:菊石
 ammonolysis:氨解
-ammons haunting case:安蒙斯鬧鬼案
+ammons haunting case:安蒙斯闹鬼案
 ammoor:阿莫奥尔
 ammoperdix:沙鹑属
 ammopiptanthus:沙冬青属
-ammosaurus:砂龍屬
-ammouliani:阿莫利亞尼島
+ammosaurus:砂龙属
+ammouliani:阿莫利亚尼岛
 ammoxidation:氨氧化
 ammuna:阿蒙纳
-ammunition and explosive:彈藥和爆炸物
-ammunition and food:彈藥和食物
-ammunition and fuel warehouse:彈藥和燃料倉庫
-ammunition and fuel:彈藥和燃料
-ammunition and hand:彈藥和手
-ammunition as well as:彈藥以及
-ammunition box:彈箱
-ammunition designer:彈藥設計師
-ammunition dump:彈藥庫
-ammunition export:彈藥出口
-ammunition exports:彈藥出口
-ammunition:彈藥
-ammyr ny h-albey:北海海峽
+ammunition and explosive:弹药和爆炸物
+ammunition and food:弹药和食物
+ammunition and fuel warehouse:弹药和燃料仓库
+ammunition and fuel:弹药和燃料
+ammunition and hand:弹药和手
+ammunition as well as:弹药以及
+ammunition box:弹箱
+ammunition designer:弹药设计师
+ammunition dump:弹药库
+ammunition export:弹药出口
+ammunition exports:弹药出口
+ammunition:弹药
+ammyr ny h-albey:北海海峡
 ammán:安曼
 ammán:安曼省
 ammókhostos:法马古斯塔
 ammān:安曼
 ammāna:安曼
 amnam-dong:岩南洞
-amnam-dong:巖南洞
-amnamgongwon-ro:岩南公園路
-amnat charoen (il):安納乍倫府
-amnat charoen (il):安納乍能府
-amnat charoen (lalawigan):安納乍倫府
-amnat charoen (lalawigan):安納乍能府
-amnat charoen (provincie):安納乍倫府
-amnat charoen (provincie):安納乍能府
-amnat charoen (provins):安納乍倫府
-amnat charoen (provins):安納乍能府
-amnat charoen (provinssi):安納乍倫府
-amnat charoen (provinssi):安納乍能府
-amnat charoen (provinz):安納乍倫府
-amnat charoen (provinz):安納乍能府
-amnat charoen (província):安納乍倫府
-amnat charoen (província):安納乍能府
-amnat charoen (tỉnh):安納乍倫府
-amnat charoen (tỉnh):安納乍能府
-amnat charoen hú:安納乍倫府
-amnat charoen hú:安納乍能府
-amnat charoen hū:安納乍倫府
-amnat charoen hū:安納乍能府
-amnat charoen province:安納乍倫府
-amnat charoen province:安納乍能府
-amnat charoen-fylket:安納乍倫府
-amnat charoen-fylket:安納乍能府
-amnat charoen:安納乍倫
-amnat charoen:安納乍倫府
-amnat charoen:安納乍能府
+amnamgongwon-ro:岩南公园路
+amnat charoen (il):安纳乍伦府
+amnat charoen (il):安纳乍能府
+amnat charoen (lalawigan):安纳乍伦府
+amnat charoen (lalawigan):安纳乍能府
+amnat charoen (provincie):安纳乍伦府
+amnat charoen (provincie):安纳乍能府
+amnat charoen (provins):安纳乍伦府
+amnat charoen (provins):安纳乍能府
+amnat charoen (provinssi):安纳乍伦府
+amnat charoen (provinssi):安纳乍能府
+amnat charoen (provinz):安纳乍伦府
+amnat charoen (provinz):安纳乍能府
+amnat charoen (província):安纳乍伦府
+amnat charoen (província):安纳乍能府
+amnat charoen (tỉnh):安纳乍伦府
+amnat charoen (tỉnh):安纳乍能府
+amnat charoen hú:安纳乍伦府
+amnat charoen hú:安纳乍能府
+amnat charoen hū:安纳乍伦府
+amnat charoen hū:安纳乍能府
+amnat charoen province:安纳乍伦府
+amnat charoen province:安纳乍能府
+amnat charoen-fylket:安纳乍伦府
+amnat charoen-fylket:安纳乍能府
+amnat charoen:安纳乍伦
+amnat charoen:安纳乍伦府
+amnat charoen:安纳乍能府
 amne machin:Ānímǎqīng shān
 amne machin:阿尼玛卿山
 amnesia symptoms:健忘症症状
@@ -9901,22 +9547,22 @@ amnesty international and families:大赦国际和家庭
 amnesty international and freedom:大赦国际和自由
 amnesty international and human rights:大赦国际和人权
 amnesty international annual report:大赦国际年度报告
-amnesty international argentina:國際特赦組織阿根廷
-amnesty international believe:國際特赦組織相信
+amnesty international argentina:国际特赦组织阿根廷
+amnesty international believe:国际特赦组织相信
 amnesty international club:大赦国际俱乐部
 amnesty international concert:大赦国际音乐会
-amnesty international crisis:國際特赦組織危機
-amnesty international estimate:國際特赦組織估计
+amnesty international crisis:国际特赦组织危机
+amnesty international estimate:国际特赦组织估计
 amnesty international estimate:大赦国际估计
-amnesty international hong kong:國際特赦組織香港
-amnesty international human rights education:國際特赦組織人權教育
-amnesty international india:國際特赦組織印度
-amnesty international indonesia:國際特赦組織印尼
-amnesty international mexico:國際特赦組織墨西哥
-amnesty international need:國際特赦組織需要
+amnesty international hong kong:国际特赦组织香港
+amnesty international human rights education:国际特赦组织人权教育
+amnesty international india:国际特赦组织印度
+amnesty international indonesia:国际特赦组织印尼
+amnesty international mexico:国际特赦组织墨西哥
+amnesty international need:国际特赦组织需要
 amnesty international organization:大赦国际组织
-amnesty international recently:國際特赦組織最近
-amnesty international report:國際特赦組織報告
+amnesty international recently:国际特赦组织最近
+amnesty international report:国际特赦组织报告
 amnesty international report:大赦国际报告
 amnesty international report:大赦国际的报告
 amnesty international reports plans:大赦国际报告计划
@@ -9924,16 +9570,16 @@ amnesty international researchers:大赦国际的研究人员
 amnesty international said:大赦国际说
 amnesty international says it:大赦国际说它
 amnesty international says:大赦国际说
-amnesty international secretary:國際特赦組織秘書
+amnesty international secretary:国际特赦组织秘书
 amnesty international secretary:大赦国际的秘书
 amnesty international secretary:大赦国际秘书
 amnesty international should stop:大赦国际应该停止
-amnesty international support:國際特赦組織支持
-amnesty international today:國際特赦組織今天
-amnesty international turkey:國際特赦組織土耳其
+amnesty international support:国际特赦组织支持
+amnesty international today:国际特赦组织今天
+amnesty international turkey:国际特赦组织土耳其
 amnesty international usa:大赦国际美国
 amnesty international welcome:大赦国际欢迎
-amnesty international:國際特赦組織
+amnesty international:国际特赦组织
 amnesty international:大赦国际
 amnesty international:大赦国际的
 amnesty investigation:大赦调查
@@ -9953,13 +9599,13 @@ amnesty usa:大赦美国
 amnesty would allow them:大赦将允许他们
 amnesty would:大赦将
 amnesty:大赦
-amniataba:羊鯻屬
+amniataba:羊鯻属
 amnicola:河边螺属
 amniculicolaceae:羊蚊霉科
-amniocentesis:羊膜穿刺術
+amniocentesis:羊膜穿刺术
 amnion cells:羊膜细胞
 amnion:羊膜
-amniote:羊膜動物
+amniote:羊膜动物
 amniotic epithelial cell:羊膜上皮细胞
 amniotic fluid analysis:羊水分析
 amniotic fluid cells:羊水细胞
@@ -9969,21 +9615,20 @@ amniotic fluid sample:羊水样本
 amniotic fluid:羊水
 amniotic sac:羊膜囊
 amnirana:阿米尼蛙属
-amnis. districtus carapeguá - districtus paraguarí:溪流。 卡拉佩瓜區 - 巴拉瓜里區
-amnis. districtus paraguarí - districtus acahay:溪流。 巴拉瓜里區 - 阿卡海區
-amnis. mbaey:溪流。 姆貝
+amnis. districtus carapeguá - districtus paraguarí:溪流。 卡拉佩瓜区 - 巴拉瓜里区
+amnis. districtus paraguarí - districtus acahay:溪流。 巴拉瓜里区 - 阿卡海区
+amnis. mbaey:溪流。 姆贝
 amnis. yuquyry:玉曲溪
 amnok river:yālù jiāng
-amnok river:鴨綠江
 amnok river:鸭绿江
 amnok(yalu) river broken bridge:鸭绿江断桥
 amnokgang sports club:鸭绿江体育团
 amnokgang:yālù jiāng
-amnokgang:鴨緑江
+amnokgang:鸭緑江
 amnokgang:鸭绿江
 amnon set:暗嫩设置
 amnon:暗嫩
-amnosia decora:斜帶靄蛺蝶
+amnosia decora:斜带靄蛺蝶
 amnyang-eup:押梁邑
 amnyang:押梁邑
 amnye machen:Ānímǎqīng shān
@@ -10000,19 +9645,18 @@ amocun:阿抹村
 amodarià:阿姆河
 amodghata:阿莫德加塔
 amodiaquine:阿莫待奎
-amoeba management:阿米巴經營
+amoeba management:阿米巴经营
 amoeba:变形体
 amoebiasis:阿米巴病
 amoebic dysentery:阿米巴痢疾
-amoebidae:變形蟲科
+amoebidae:变形虫科
 amoebidiidae:变形毛菌科
 amoebidium:变形毛菌属
 amoebophilus:嗜虫霉属
-amoebozoa:變形蟲門
+amoebozoa:变形虫门
 amoeiro:阿莫埃罗
 amoer:hēilóng jiāng
 amoer:hēilóngjiāng
-amoer:黑龍江
 amoer:黑龙江
 amoerkaz:měizhōu
 amoerkaz:美洲
@@ -10025,8 +9669,8 @@ amoiki:鄂木斯克
 amol county:阿莫勒县
 amol uprising:阿莫勒起义
 amol:阿莫勒
-amolatar district:阿莫拉塔爾區
-amolf:原子和分子物理學研究所
+amolatar district:阿莫拉塔尔区
+amolf:原子和分子物理学研究所
 amolis:阿莫勒
 amolops akhaorum:阿卡湍蛙
 amolops albispinus:白刺湍蛙
@@ -10056,13 +9700,12 @@ amolops viridimaculatus:绿点湍蛙
 amolops wuyiensis:武夷湍蛙
 amolops:湍蛙属
 amomum:豆蔻属
-amomuro:愛牆
 amomuro:爱墙
-amon amarth:維京戰神樂團
-amon of judah:亞們
+amon amarth:维京战神乐团
+amon of judah:亚们
 amoncourt:阿蒙库尔
 amondans:阿蒙当
-amonenghan:阿摩嫩漢
+amonenghan:阿摩嫩汉
 among brands:之间品牌
 among cat:之间猫
 among civilization:之间文明
@@ -10090,7 +9733,7 @@ among programmer:之间程序员
 among social:之间社交
 among some kind of pattern:之间某种模式
 among some kind of:之间某种
-among the sleep:睡夢之中
+among the sleep:睡梦之中
 among the:之间这
 among them:之间他们
 among those aged:之间那些年龄
@@ -10106,42 +9749,40 @@ among:之间
 amont et effreney:阿蒙和埃夫勒内
 amontada:阿蒙塔达
 amoora:崖摩属
-amor asteroid:阿莫爾型小行星
-amor de tarapaca:紫藤戀
-amor fati:命運之愛
-amor:黑龍江
+amor asteroid:阿莫尔型小行星
+amor de tarapaca:紫藤恋
+amor fati:命运之爱
 amor:黑龙江
 amorbach:阿莫巴赫
-amorepacific corporation:愛茉莉太平洋
-amores perros:愛情像母狗
+amorepacific corporation:爱茉莉太平洋
+amores perros:爱情像母狗
 amorges:阿摩基斯
-amorgos oil spill:阿瑪斯號貨輪油污事件
+amorgos oil spill:阿玛斯号货轮油污事件
 amorgos:阿莫尔戈斯岛
-amorgos:阿莫爾戈斯島
 amorgós:阿莫尔戈斯岛
 amorgósz:阿莫尔戈斯岛
 amori station:安茂里站
 amorion:阿莫里乌姆
-amorites:亞摩利人
+amorites:亚摩利人
 amorium:阿莫里乌姆
 amoro:阿莫勒
 amorolfine:阿莫罗芬
-amoron'i mania khu:阿莫羅尼馬尼亞區
-amoron'i mania region:阿莫羅尼馬尼亞區
-amoron'i mania:阿莫羅尼馬尼亞區
-amoron’i mania:阿莫羅尼馬尼亞區
+amoron'i mania khu:阿莫罗尼马尼亚区
+amoron'i mania region:阿莫罗尼马尼亚区
+amoron'i mania:阿莫罗尼马尼亚区
+amoron’i mania:阿莫罗尼马尼亚区
 amorosi:阿莫罗西
 amoroto:阿莫罗托
 amorous:情爱的
 amorpha fruticosa:紫穗槐
-amorpha:紫穗槐屬
-amorphea:單鞭毛生物
-amorphochilus:四指蝠屬
+amorpha:紫穗槐属
+amorphea:单鞭毛生物
+amorphochilus:四指蝠属
 amorphomyces:无形菌属
 amorphonostoc:变珠藻属
 amorphophallus bulbifer:珠芽魔芋
 amorphophallus dunnii:南蛇棒
-amorphophallus henryi:臺灣魔芋
+amorphophallus henryi:台湾魔芋
 amorphophallus konjac:蒟蒻
 amorphophallus mekongensis:湄公魔芋
 amorphophallus paeoniifolius:疣柄魔芋
@@ -10153,7 +9794,7 @@ amorphothecaceae:无形囊菌科
 amorphous carbon material:无定形碳材料
 amorphous carbon:无定形碳
 amorphous carbon:非结晶碳
-amorphous ice:非晶質冰
+amorphous ice:非晶质冰
 amorphous metal transformer:非晶合金变压器
 amorphous metal:非晶态金属
 amorphous silicon materials:非晶硅材料
@@ -10168,7 +9809,7 @@ amos glacier:阿莫斯冰川
 amos rex:阿莫斯雷克斯
 amos yee:余澎杉
 amosulalol:氨磺洛尔
-amotape district:阿莫塔佩區
+amotape district:阿莫塔佩区
 amou prefecture:阿穆省
 amou-daria:阿姆河
 amount add:数量加
@@ -10569,83 +10210,74 @@ amount would:数量将
 amount you:数量你
 amount-of-substance concentration:物质的量浓度
 amount:数量
-amour hotel:台中愛戀旅店
+amour hotel:台中爱恋旅店
 amour:hēilóng jiāng
-amour:黑龍江
 amour:黑龙江
 amoura:艾摩拉蔬膳房
 amourj:阿穆日
-amoursk:傅達里
+amoursk:傅达里
 amoury:阿穆里
 amoxicillin or penicillin:阿莫西林或青霉素
 amoxicillin sodium:阿莫西林钠
 amoxicillin:阿莫西林
-amoy dialect:廈門話
-amoy food plant:淘大食品廠
+amoy dialect:厦门话
+amoy food plant:淘大食品厂
 amoy food:淘大食品
-amoy gardens:淘大花園
-amoy plaza:淘大商場
+amoy gardens:淘大花园
+amoy plaza:淘大商场
 amoy quee camp:宏茂桂军营
-amoy street public toilet:廈門街公廁
+amoy street public toilet:厦门街公厕
 amoy street:厦门街
-amoy street:廈門街
-amoy taipingyan temple:廈門太平岩寺
-amoy taipingyan temple:廈門太平巖寺
+amoy taipingyan temple:厦门太平岩寺
 amoya:缰鰕虎鱼属
-amoycan industrial centre fire:淘大工業村迷你倉大火
+amoycan industrial centre fire:淘大工业村迷你仓大火
 amp capital:安保资本
 ampacity:额定电流
 ampana:安帕纳
-ampang and sri petaling lines:安邦線和大城堡線
 ampang and sri petaling lines:安邦线和大城堡线
 ampang baru death benefit society:怡保安邦互助社
 ampang baru new village:安邦新村
 ampang hilir:安邦希里尔
 ampang hospital:安邦医院
-ampang hospital:安邦醫院
 ampang jajar waste transfer station:安邦惹惹垃圾中转站
 ampang jaya municipal council:安邦再也市议会
 ampang jaya:安邦
 ampang jaya:安邦再也
 ampang line (ampang → sentul timur):安邦线（反向）
 ampang line (sentul timur → ampang):安邦线（正向）
-ampang line:安邦線
 ampang line:安邦线
-ampang lrt station park and ride:安邦站停車轉乘建築物
 ampang lrt station park and ride:安邦站停车转乘建筑物
 ampang lrt station:安邦站
 ampang mituoyan temple:安邦弥陀岩
-ampang mituoyan temple:安邦彌陀岩
-ampang park lrt station:安邦購物中心站
-ampang park:安邦公園
-ampang park:安邦購物中心
+ampang park lrt station:安邦购物中心站
+ampang park:安邦公园
 ampang park:安邦购物中心
 ampang river:安邦河
 ampang road:安邦路
 ampang station:安邦站
 ampang:安邦
-ampanihy airport:安帕尼希機場
+ampanihy airport:安帕尼希机场
 ampanihy:安帕尼希
 ampara airport:安帕拉机场
-ampara district:安帕來區
 ampara district:安帕拉区
-ampara district:安帕賴區
-ampara:安帕來
-ampara:安帕來區
+ampara district:安帕来区
+ampara district:安帕赖区
 ampara:安帕拉
 ampara:安帕拉区
-amparafaravola district:安帕拉法拉武拉區
+ampara:安帕来
+ampara:安帕来区
+amparafaravola district:安帕拉法拉武拉区
 amparafaravola:安帕拉法拉武拉
-amparai:安帕來
 amparai:安帕拉
-amparay:安帕賴山
+amparai:安帕来
+amparay:安帕赖山
 amparo do serra:安帕罗达塞拉
 ampass:安帕斯
 ampato:安帕托峰
 ampaw:米饼
 ampay:安派山
 ampel mosque:安珀尔清真寺
-ampelion:冠傘鳥屬
+ampelion:冠伞鸟属
 ampelocalamus:悬竹属
 ampelocissus xizangensis:西藏酸蔹藤
 ampelocissus:酸蔹藤属
@@ -10653,14 +10285,13 @@ ampelognathus:葡颌龙属
 ampelophaga:葡萄天蛾属
 ampelopsis glandulosa:蛇葡萄
 ampelopsis:蛇葡萄属
-ampelosaurus:葡萄園龍屬
+ampelosaurus:葡萄园龙属
 amper:安珀河
-ampera bridge:安培拉大橋
+ampera bridge:安培拉大桥
 ampere analysis:安培分析
 ampere and candela:安培和坎德拉
 ampere architecture:安培架构
 ampere hour:安培小时
-ampere hour:安培小時
 ampere hours rule:安培小时规则
 ampere hours:安培小时
 ampere ratio:安培比
@@ -10670,19 +10301,19 @@ ampere:安培
 amperometric titration:安培滴定法
 ampersand curve:与符曲线
 ampersand:&符号
-amperveilsee:安珀法伊爾湖
+amperveilsee:安珀法伊尔湖
 ampezzo:安佩佐
 ampfing:安普芬
 ampflwang im hausruckwald:豪斯鲁克林区安普夫尔旺
 ampharetidae:双栉虫科
-ampharos:電龍
+ampharos:电龙
 amphawa floating market:安帕瓦水上市场
-amphawa thai dessert museum:甜點博物館
+amphawa thai dessert museum:甜点博物馆
 amphechinus:双猬属
 amphecostephanus:弱冠螳属
 amphekepubis:双尖耻骨龙属
-amphelikturus dendriticus:枝狀細尾海馬
-amphelikturus:枝狀細尾海馬屬
+amphelikturus dendriticus:枝状细尾海马
+amphelikturus:枝状细尾海马属
 amphenicol:酰胺醇类抗生素
 amphenol corporation:安费诺公司
 amphenol day:安费诺日
@@ -10698,18 +10329,18 @@ amphetamine stage:苯丙胺阶段
 amphetamine:苯丙胺
 amphianthus:隐花海葵属
 amphiaraus:安菲阿拉俄斯
-amphiareus obscuriceps:黑頭叉胸花蝽
+amphiareus obscuriceps:黑头叉胸花蝽
 amphiareus:叉胸花蝽属
-amphiarius phrygiatus:亞馬遜河兩棲海鯰
-amphiarius rugispinis:皺刺兩棲海鯰
+amphiarius phrygiatus:亚马逊河两栖海鲶
+amphiarius rugispinis:皱刺两栖海鲶
 amphibacillus:双芽孢杆菌属
-amphibalanus amphitrite:紋藤壺
+amphibalanus amphitrite:纹藤壶
 amphibalanus:纹藤壶属
 amphibamidae:两栖螈科
 amphibian and birds:两栖动物和鸟类
 amphibian and fish embryo:两栖动物和鱼胚胎
 amphibian and mammal species:两栖动物和哺乳动物物种
-amphibian and reptile house:兩棲爬蟲動物館
+amphibian and reptile house:两栖爬虫动物馆
 amphibian and reptile species:两栖动物和爬行动物物种
 amphibian and reptile:两栖动物和爬行动物
 amphibian assessment:两栖动物评估
@@ -10733,15 +10364,15 @@ amphibious assault capability:两栖攻击能力
 amphibious assault concept:两栖攻击概念
 amphibious assault landing:两栖攻击登陆
 amphibious assault platforms:两栖攻击平台
-amphibious assault ship:兩棲突擊艦
+amphibious assault ship:两栖突击舰
 amphibious assault submarine:两栖攻击潜艇
 amphibious assault vehicle:两栖攻击车辆
 amphibious assault vessel:两栖攻击船
 amphibious assault:两栖攻击
-amphibious cargo ship:兩棲貨物運輸艦
-amphibious command ship:兩棲指揮艦
+amphibious cargo ship:两栖货物运输舰
+amphibious command ship:两栖指挥舰
 amphibious corps:两栖部队
-amphibious fish:兩棲魚
+amphibious fish:两栖鱼
 amphibious force:两栖部队
 amphibious landing force:两栖登陆力量
 amphibious landing platform:两栖登陆平台
@@ -10750,34 +10381,33 @@ amphibious landing vessel:两栖登陆船
 amphibious landing:两栖登陆
 amphibious operation:两栖行动
 amphibious purpose:两栖的目的
-amphibious rapid deployment brigade:陸上自衛隊水陸機動團
-amphibious reconnaissance and patrol unit:中華民國海軍陸戰隊兩棲偵搜大隊
+amphibious rapid deployment brigade:陆上自卫队水陆机动团
+amphibious reconnaissance and patrol unit:中华民国海军陆战队两栖侦搜大队
 amphibious reconnaissance:两栖侦察
 amphibious rifle:两栖步枪
-amphibious tank:兩棲坦克
+amphibious tank:两栖坦克
 amphibious transport dochargeck:两栖运输坞舰
-amphibious transport dock:兩棲船塢運輸艦
+amphibious transport dock:两栖船坞运输舰
 amphibious transport ship:两栖运输船
 amphibious transport:两栖运输
 amphibious twist:两栖的扭曲
 amphibious vehicle:两栖车辆
-amphibious vehicle:兩棲車輛
 amphibious warfare school:两栖战争学校
 amphibious warfare ship:两栖战舰
+amphibious warfare:两栖战
 amphibious warfare:两栖战争
-amphibious warfare:兩棲戰
 amphibious:两栖的
-amphibole peak:閃石峰
+amphibole peak:闪石峰
 amphibole:角闪石
 amphibolidae:两栖螺科
 amphibolis:木枝藻属
-amphibolite point:閃岩角
-amphibolite:角閃岩
-amphibolurinae:髭蜥亞科
+amphibolite point:闪岩角
+amphibolite:角闪岩
+amphibolurinae:髭蜥亚科
 amphibolurus:髭蜥属
 amphicarpaea:两型豆属
-amphichthys:雙蟾魚屬
-amphicoelias:雙腔龍屬
+amphichthys:双蟾鱼属
+amphicoelias:双腔龙属
 amphictyonic league:近邻同盟
 amphicyon:半犬
 amphicyonidae:犬熊
@@ -10786,9 +10416,9 @@ amphidinium:前沟藻属
 amphidiscosida:双盘海绵目
 amphidium:瓶藓属
 amphidromus:长旋螺属
-amphientomidae:蛾嚙蟲科
-amphiesma:腹鏈蛇屬
-amphiesmenoptera:類脈類
+amphientomidae:蛾嚙虫科
+amphiesma:腹链蛇属
+amphiesmenoptera:类脉类
 amphiglossus:安菲石龙子属
 amphignathodontidae:真齿蛙科
 amphilectus:双巢海绵属
@@ -10797,57 +10427,57 @@ amphilepidida:阳遂足目
 amphilepis:仿阳遂足属
 amphilestidae:疑盗猬科
 amphilimnidae:沼蛇尾科
-amphilius atesuensis:阿特休平鰭鮠
-amphilius athiensis:亞瑟河平鰭鮠
-amphilius brevis:短體平鰭鮠
-amphilius caudosignatus:尾斑平鰭鮠
-amphilius chalei:查氏平鰭鮠
-amphilius cryptobullatus:隱棘平鰭鮠
-amphilius dimonikensis:非洲平鰭鮠
-amphilius grandis:大平鰭鮠
-amphilius kakrimensis:卡克里河平鰭鮠
-amphilius kivuensis:基伍平鰭鮠
-amphilius korupi:科氏平鰭鮠
-amphilius krefftii:克雷氏平鰭鮠
-amphilius lamani:拉氏平鰭鮠
-amphilius lampei:藍氏平鰭鮠
-amphilius opisthophthalmus:背眼平鰭鮠
-amphilophus chancho:綠頭雙冠麗魚
-amphilophus citrinellus:橘色雙冠麗魚
-amphilophus labiatus:厚唇雙冠麗魚
-amphilophus zaliosus:劄里雙冠麗魚
+amphilius atesuensis:阿特休平鳍鮠
+amphilius athiensis:亚瑟河平鳍鮠
+amphilius brevis:短体平鳍鮠
+amphilius caudosignatus:尾斑平鳍鮠
+amphilius chalei:查氏平鳍鮠
+amphilius cryptobullatus:隐棘平鳍鮠
+amphilius dimonikensis:非洲平鳍鮠
+amphilius grandis:大平鳍鮠
+amphilius kakrimensis:卡克里河平鳍鮠
+amphilius kivuensis:基伍平鳍鮠
+amphilius korupi:科氏平鳍鮠
+amphilius krefftii:克雷氏平鳍鮠
+amphilius lamani:拉氏平鳍鮠
+amphilius lampei:蓝氏平鳍鮠
+amphilius opisthophthalmus:背眼平鳍鮠
+amphilophus chancho:绿头双冠丽鱼
+amphilophus citrinellus:橘色双冠丽鱼
+amphilophus labiatus:厚唇双冠丽鱼
+amphilophus zaliosus:劄里双冠丽鱼
 amphilophus:双冠丽鱼属
 amphimachairodus:近剑齿虎属
 amphimonhystera:双单宫线虫属
-amphinomidae:仙蟲科
-amphioctopus aegina:白線章魚
-amphioctopus fangsiao:飯蛸
+amphinomidae:仙虫科
+amphioctopus aegina:白线章鱼
+amphioctopus fangsiao:饭蛸
 amphioctopus marginatus:边蛸
 amphioctopus:双章鱼属
 amphiodia:三齿蛇尾属
-amphion and zethus:安菲翁和齊薩斯
+amphion and zethus:安菲翁和齐萨斯
 amphion:安菲翁
-amphionides reynaudii:異蝦
+amphionides reynaudii:异虾
 amphiphile:两亲分子
-amphipleura:雙肋藻屬
-amphipleuraceae:雙肋藻科
-amphipoda:端足類
+amphipleura:双肋藻属
+amphipleuraceae:双肋藻科
+amphipoda:端足类
 amphipolis:安菲波利斯
 amphiprion akallopisos:背纹双锯鱼
-amphiprion akindynos:大堡礁雙鋸魚
-amphiprion barberi:巴氏雙鋸魚
-amphiprion chagosensis:查戈斯雙鋸魚
-amphiprion chrysogaster:金腹雙鋸魚
-amphiprion fuscocaudatus:棕尾雙鋸魚
-amphiprion latezonatus:寬帶雙鋸魚
-amphiprion latifasciatus:側帶雙鋸魚
-amphiprion leucokranos:白罩雙鋸魚
-amphiprion mccullochi:麥氏雙鋸魚
-amphiprion nigripes:淺色雙鋸魚
-amphiprion omanensis:阿曼雙鋸魚
-amphiprion pacificus:太平洋雙鋸魚
-amphiprion thiellei:希氏雙鋸魚
-amphiprion:雙鋸魚屬
+amphiprion akindynos:大堡礁双锯鱼
+amphiprion barberi:巴氏双锯鱼
+amphiprion chagosensis:查戈斯双锯鱼
+amphiprion chrysogaster:金腹双锯鱼
+amphiprion fuscocaudatus:棕尾双锯鱼
+amphiprion latezonatus:宽带双锯鱼
+amphiprion latifasciatus:侧带双锯鱼
+amphiprion leucokranos:白罩双锯鱼
+amphiprion mccullochi:麦氏双锯鱼
+amphiprion nigripes:浅色双锯鱼
+amphiprion omanensis:阿曼双锯鱼
+amphiprion pacificus:太平洋双锯鱼
+amphiprion thiellei:希氏双锯鱼
+amphiprion:双锯鱼属
 amphiprora:茧形藻属
 amphiptere:翼蛇
 amphipterygidae:丽蟌科
@@ -10859,58 +10489,55 @@ amphisphaeria:圆孔壳菌属
 amphisphaeriaceae:圆孔壳科
 amphisphaeriales:圆孔壳目
 amphispiza:黑喉漠鹀
-amphistichus koelzi:柯氏雙齒海鯽
+amphistichus koelzi:柯氏双齿海鯽
 amphistium:类比目鱼属
 amphistomiasis:双口吸虫症
-amphitheater:地景劇場
-amphitheater:露天劇場
-amphitheater:龐貝競技場
-amphitheatre glacier:競技場冰川
+amphitheater:地景剧场
+amphitheater:庞贝竞技场
+amphitheater:露天剧场
+amphitheatre glacier:竞技场冰川
 amphitheatre of el jem:埃尔杰姆圆形剧场
 amphitheatre of el jem:杰姆的圆形竞技场
-amphitheatre of pompeii:龐貝競技場
-amphitheatre of tarraco:塔拉戈納圓形劇場
-amphitheatre peaks:圓形競技場峰
-amphitheatre:圓形劇場
-amphitheatre:羅馬廣場
-amphitheatre:羅馬廣場 amphitheatre
-amphitheatre:露天劇場
-amphitheatre:露天戲場
+amphitheatre of pompeii:庞贝竞技场
+amphitheatre of tarraco:塔拉戈纳圆形剧场
+amphitheatre peaks:圆形竞技场峰
+amphitheatre:圆形剧场
+amphitheatre:罗马广场
+amphitheatre:罗马广场 amphitheatre
+amphitheatre:露天剧场
+amphitheatre:露天戏场
 amphithéâtre d'el jem:杰姆的圆形竞技场
 amphithéâtre ingénierie j. r. coutts:罗德·古特丝工程学讲述大厅
 amphitorna:凹角钩蛾属
 amphitretidae:水母蛸科
-amphitretus:水母蛸屬
+amphitretus:水母蛸属
 amphitrite group:宣德群岛
-amphitrite group:宣德群島
 amphitrite:安菲特里忒
 amphitryon:安菲特律翁
-amphitéâtre romain de pompéi:龐貝競技場
+amphitéâtre romain de pompéi:庞贝竞技场
 amphiuma:两栖鲵属
 amphiumidae:两栖鲵科
 amphiuridae:阳遂足科
 amphizoa sinica:中华两栖甲
 amphizoa:两栖甲属
 amphoe wihan daeng:威汉登县
-amphoe wihan daeng:威漢登縣
 amphora:双耳瓶
 amphorateuthis:耳枪鱿属
 amphorosteus:双耳瓶骨龙属
-amphoterite:超低鐵球粒隕石
+amphoterite:超低铁球粒隕石
 ampicillin:氨苄西林
 ampilly le sec:昂皮伊勒塞克
 ampilly les bordes:昂皮伊莱博尔德
-amping argo yacht club:安平亞果遊艇碼頭
+amping argo yacht club:安平亚果游艇码头
 ampithoidae:藻钩虾科
-ampittia dioscorides:小黃星弄蝶
-ampittia virgata:黃星弄蝶
-ample bay:安珀爾灣
-ample building:仁寶大廈
-ample consulting service:華聚會計師事務所
+ampittia dioscorides:小黄星弄蝶
+ampittia virgata:黄星弄蝶
+ample bay:安珀尔湾
+ample building:仁宝大厦
+ample consulting service:华聚会计师事务所
 amplectobelua:抱怪虫属
 amplectobeluidae:抱怪虫科
 amplepuis:昂普勒皮
-ampliação do aeroporto internacional de macau:澳門國際機場擴建部分
 ampliação do aeroporto internacional de macau:澳门国际机场扩建部分
 amplier:昂普利耶
 amplifier and decode:放大器和解码
@@ -10999,7 +10626,7 @@ amplitude limit:振幅限制
 amplitude loss:振幅损失
 amplitude measuring instrument:振幅测量仪器
 amplitude measuring:振幅测量
-amplitude modulation:振幅調變
+amplitude modulation:振幅调变
 amplitude module:振幅模块
 amplitude motion:振幅运动
 amplitude object:振幅对象
@@ -11022,7 +10649,7 @@ amplitude versus offset:振幅随偏移距的变化
 amplitude vibration:振幅振动
 amplitude:振幅
 amplypterus:芒果天蛾属
-ampollino lake:安波利諾湖
+ampollino lake:安波利诺湖
 amponville:昂蓬维尔
 amposta:安波斯塔
 ampoule a few:安瓿几
@@ -11033,19 +10660,19 @@ ampoule production line:安瓿生产线
 ampoule production:安瓿生产
 ampoule:安瓿
 amprenavir:安普那韦
-amprnet:業餘封包無線電網絡
+amprnet:业余封包无线电网络
 amprolium:盐酸氨丙啉
-ampthill:安特希爾
+ampthill:安特希尔
 ampudia:安普迪亚
 ampuero:安普埃罗
 ampuis:昂皮
 ampulex:长背泥蜂属
-ampulicidae:長背泥蜂科
-ampulla of vater:肝胰壺腹
+ampulicidae:长背泥蜂科
+ampulla of vater:肝胰壶腹
 ampullaceana balthica:卵萝卜螺
 ampullaceana lagotis:狭萝卜螺
 ampullae of lorenzini:劳伦氏壶腹
-ampullarioidea:蘋果螺總科
+ampullarioidea:苹果螺总科
 ampulloclitocybe:棒柄杯伞属
 ampus:昂皮斯
 amputation and individual:截肢和个体
@@ -11067,19 +10694,18 @@ amputation techniques:截肢技术
 amputation they:截肢他们
 amputation:截肢
 amrak khagan:阿史那庵逻
-amran (guvernement):阿姆蘭省
-amran (il):阿姆蘭省
-amran (maakunta):阿姆蘭省
-amran (muhafaza):阿姆蘭省
+amran (guvernement):阿姆兰省
+amran (il):阿姆兰省
+amran (maakunta):阿姆兰省
+amran (muhafaza):阿姆兰省
 amran abdul ghani:安兰阿都卡尼
-amran mühafazası:阿姆蘭省
+amran mühafazası:阿姆兰省
 amraphel:暗拉非
 amratian culture:阿姆拉特时期
 amraudha:阿姆劳达
-amravati district:阿姆勞蒂縣
+amravati district:阿姆劳蒂县
 amravati:阿姆劳蒂
 amraḥ n yimeɣrasen:烈士广场
-amraḥ n yimeɣrasen:烈士廣場
 amreli district:阿姆雷利县
 amreli:阿姆雷利
 amrik:měizhōu
@@ -11087,57 +10713,50 @@ amrik:美洲
 amrika:měizhōu
 amrika:美洲
 amrin amin:安宁阿敏
-amriswil:阿姆里斯維爾
+amriswil:阿姆里斯维尔
 amrita bazar patrika:甘露市场报
 amrita:不死甘露
 amritsar cantonment:阿姆里特萨尔兵站
-amritsar district:阿姆利則縣
+amritsar district:阿姆利则县
 amritsar train disaster:阿姆利则列车事故
 amritsar will soon:阿姆利则将很快
 amritsar:阿姆利则
-amroha district:阿姆羅赫縣
+amroha district:阿姆罗赫县
 amroha:阿姆罗哈
-amrokkang line:鴨綠江線
-amrokkang station:鴨綠江站
+amrokkang line:鸭绿江线
+amrokkang station:鸭绿江站
 amrubicin:氨柔比星
-amrán kormányzóság:阿姆蘭省
+amrán kormányzóság:阿姆兰省
 ams tsuen wan training camp:医疗辅助队荃湾训练营
-ams tsuen wan training camp:醫療輔助隊荃灣訓練營
 amsa 1(il)-dong:岩寺1洞
-amsa 1(il)-dong:巖寺1洞
 amsa 2(i)-dong:岩寺2洞
-amsa 2(i)-dong:巖寺2洞
 amsa 3(sam)-dong:岩寺3洞
-amsa 3(sam)-dong:巖寺3洞
 amsa-dong:岩寺洞
-amsa-dong:巖寺洞
 amsar gaqaa committee:阿木斯尔嘎查委员会
 amsar gaqaa:阿木斯尔嘎查
 amsar:阿木斯尔
-amselflue:阿姆塞爾弗盧山
+amselflue:阿姆塞尔弗卢山
 amsheet:阿姆希特
-amshuverma:鴦輸伐摩
+amshuverma:鸯输伐摩
 amsinckia:琴颈草属
 amsler grid:阿姆斯勒方格表
-amsler island:阿姆斯勒島
-amsoldingen castle:阿姆索爾丁根城堡
-amsoldingen:阿姆索爾丁根
-amsoldingersee:阿姆索爾丁湖
+amsler island:阿姆斯勒岛
+amsoldingen castle:阿姆索尔丁根城堡
+amsoldingen:阿姆索尔丁根
+amsoldingersee:阿姆索尔丁湖
 amsonia:水甘草属
 amstardam:阿姆斯特丹
-amstel:阿姆斯特爾河
+amstel:阿姆斯特尔河
 amstelodamum:阿姆斯特丹
 amstelpark:阿姆斯特尔公园
 amstelveen:阿姆斯特尔芬
 amsterdam accountant:阿姆斯特丹会计师
 amsterdam airport schiphol:阿姆斯特丹史基浦机场
-amsterdam airport schiphol:阿姆斯特丹史基浦機場
 amsterdam airport:阿姆斯特丹机场
-amsterdam airport:阿姆斯特丹機場
-amsterdam albatross:阿島信天翁
+amsterdam albatross:阿岛信天翁
 amsterdam already has more than:阿姆斯特丹已经有超过
 amsterdam already:阿姆斯特丹已经
-amsterdam amstel station:阿姆斯特丹阿姆斯特爾車站
+amsterdam amstel station:阿姆斯特丹阿姆斯特尔车站
 amsterdam and addis ababa:阿姆斯特丹和亚的斯亚贝巴
 amsterdam and antwerp:阿姆斯特丹和安特卫普
 amsterdam and berlin offer:阿姆斯特丹和柏林提供
@@ -11182,7 +10801,6 @@ amsterdam arena:阿姆斯特丹竞技场
 amsterdam art:阿姆斯特丹艺术
 amsterdam artist:阿姆斯特丹艺术家
 amsterdam attract:阿姆斯特丹吸引
-amsterdam bank:阿姆斯特丹銀行
 amsterdam bank:阿姆斯特丹银行
 amsterdam bar:阿姆斯特丹酒吧
 amsterdam beach:阿姆斯特丹海滩
@@ -11199,12 +10817,10 @@ amsterdam business school:阿姆斯特丹商学院
 amsterdam cancer:阿姆斯特丹癌症
 amsterdam castle:阿姆斯特丹城堡
 amsterdam cello:阿姆斯特丹大提琴
-amsterdam centraal station:阿姆斯特丹中央車站
-amsterdam centraal:阿姆斯特丹中央車站
+amsterdam centraal station:阿姆斯特丹中央车站
 amsterdam centraal:阿姆斯特丹中央车站
-amsterdam central station:阿姆斯特丹中央車站
 amsterdam central station:阿姆斯特丹中央车站
-amsterdam centre east:阿姆斯特丹中心東
+amsterdam centre east:阿姆斯特丹中心东
 amsterdam centre for architecture:阿姆斯特丹建筑中心
 amsterdam centre is a small:阿姆斯特丹中心是一个小的
 amsterdam centre:阿姆斯特丹中心
@@ -11223,10 +10839,8 @@ amsterdam clock:阿姆斯特丹时钟
 amsterdam coach:阿姆斯特丹教练
 amsterdam concept:阿姆斯特丹概念
 amsterdam concert:阿姆斯特丹音乐会
-amsterdam concert:阿姆斯特丹音樂會
 amsterdam conference:阿姆斯特丹会议
 amsterdam congress:阿姆斯特丹代表大会
-amsterdam congress:阿姆斯特丹代表大會
 amsterdam could:阿姆斯特丹能
 amsterdam court:阿姆斯特丹法院
 amsterdam cut:阿姆斯特丹切割
@@ -11256,7 +10870,7 @@ amsterdam fashion:阿姆斯特丹时尚
 amsterdam film:阿姆斯特丹电影
 amsterdam flower:阿姆斯特丹花
 amsterdam from:阿姆斯特丹从
-amsterdam gay pride:阿姆斯特丹自豪遊行
+amsterdam gay pride:阿姆斯特丹自豪游行
 amsterdam government:阿姆斯特丹政府
 amsterdam green:阿姆斯特丹绿色
 amsterdam guitar:阿姆斯特丹吉他
@@ -11265,7 +10879,6 @@ amsterdam has been:阿姆斯特丹已经
 amsterdam has many places:阿姆斯特丹有许多地方
 amsterdam has more than:阿姆斯特丹有超过
 amsterdam has:阿姆斯特丹有
-amsterdam hauptbahnhof:阿姆斯特丹中央車站
 amsterdam hauptbahnhof:阿姆斯特丹中央车站
 amsterdam here:阿姆斯特丹这里
 amsterdam heritage:阿姆斯特丹遗产
@@ -11291,18 +10904,16 @@ amsterdam law:阿姆斯特丹法律
 amsterdam lelylaan station:阿姆斯特丹莱利巷车站
 amsterdam life science:阿姆斯特丹生命科学
 amsterdam light:阿姆斯特丹光
-amsterdam marathon:阿姆斯特丹馬拉松
 amsterdam marathon:阿姆斯特丹马拉松
 amsterdam market:阿姆斯特丹市场
 amsterdam mayor:阿姆斯特丹市长
 amsterdam metro:阿姆斯特丹地铁
 amsterdam museum dedicated to:阿姆斯特丹博物馆致力于
-amsterdam museum:阿姆斯特丹博物館
 amsterdam museum:阿姆斯特丹博物馆
 amsterdam music:阿姆斯特丹音乐
 amsterdam news:阿姆斯特丹新闻
 amsterdam newspaper:阿姆斯特丹报纸
-amsterdam nieuw west:阿姆斯特丹新西區
+amsterdam nieuw west:阿姆斯特丹新西区
 amsterdam nightlife:阿姆斯特丹夜生活
 amsterdam noord:阿姆斯特丹北
 amsterdam now:阿姆斯特丹现在
@@ -11311,7 +10922,7 @@ amsterdam office:阿姆斯特丹办公室
 amsterdam officials:阿姆斯特丹官员
 amsterdam olympics:阿姆斯特丹奥运会
 amsterdam one:阿姆斯特丹一
-amsterdam oost:阿姆斯特丹東
+amsterdam oost:阿姆斯特丹东
 amsterdam or berlin:阿姆斯特丹或柏林
 amsterdam or luxembourg:阿姆斯特丹或卢森堡
 amsterdam or nearby city:阿姆斯特丹或附近城市
@@ -11328,7 +10939,6 @@ amsterdam printing:阿姆斯特丹印刷
 amsterdam prison:阿姆斯特丹监狱
 amsterdam provides:阿姆斯特丹提供
 amsterdam public library:阿姆斯特丹公共图书馆
-amsterdam public library:阿姆斯特丹公共圖書館
 amsterdam publishing:阿姆斯特丹出版
 amsterdam rather than los angeles:阿姆斯特丹而不是洛杉矶
 amsterdam rather than:阿姆斯特丹而不是
@@ -11341,7 +10951,7 @@ amsterdam says:阿姆斯特丹说
 amsterdam school:阿姆斯特丹学派
 amsterdam science park:阿姆斯特丹科学园
 amsterdam score:阿姆斯特丹得分
-amsterdam sloterdijk station:阿姆斯特丹斯洛特代克車站
+amsterdam sloterdijk station:阿姆斯特丹斯洛特代克车站
 amsterdam smart city:阿姆斯特丹智慧城市
 amsterdam soccer team:阿姆斯特丹足球队
 amsterdam society:阿姆斯特丹社会
@@ -11362,29 +10972,26 @@ amsterdam to kuala lumpur:阿姆斯特丹到吉隆坡
 amsterdam to madrid:阿姆斯特丹到马德里
 amsterdam too:阿姆斯特丹也
 amsterdam toronto:阿姆斯特丹多伦多
-amsterdam tournament:阿積士四角賽
+amsterdam tournament:阿积士四角赛
 amsterdam trade bank:阿姆斯特丹贸易银行
 amsterdam trade:阿姆斯特丹贸易
 amsterdam traffic:阿姆斯特丹交通
-amsterdam tram:阿姆斯特丹有軌電車
 amsterdam tram:阿姆斯特丹有轨电车
 amsterdam transport company:阿姆斯特丹运输公司
 amsterdam transport:阿姆斯特丹运输
-amsterdam trap music:阿姆斯特丹陷阱音樂
+amsterdam trap music:阿姆斯特丹陷阱音乐
 amsterdam treaty:阿姆斯特丹条约
 amsterdam tulip museum:阿姆斯特丹郁金香博物馆
 amsterdam university college:阿姆斯特丹大学学院
-amsterdam university college:阿姆斯特丹大學學院
 amsterdam university library:阿姆斯特丹大学图书馆
 amsterdam university of applied sciences:阿姆斯特丹应用科学大学
 amsterdam university press:阿姆斯特丹大学出版社
 amsterdam university:阿姆斯特丹大学
-amsterdam university:阿姆斯特丹大學
 amsterdam use:阿姆斯特丹使用
 amsterdam version:阿姆斯特丹版本
 amsterdam vessel:阿姆斯特丹船
 amsterdam was a city design:阿姆斯特丹是一个城市设计
-amsterdam was hell:阿姆斯特丹是地獄
+amsterdam was hell:阿姆斯特丹是地狱
 amsterdam water street:阿姆斯特丹水街
 amsterdam water:阿姆斯特丹水
 amsterdam west:阿姆斯特丹西
@@ -11397,22 +11004,17 @@ amsterdam yellow:阿姆斯特丹黄色
 amsterdam youth:阿姆斯特丹青年
 amsterdam yuppie:阿姆斯特丹雅皮士
 amsterdam zoo:阿姆斯特丹动物园
-amsterdam zoo:阿姆斯特丹動物園
 amsterdam zuid station:阿姆斯特丹南站
 amsterdam zuid:阿姆斯特丹南
-amsterdam zuidoost:阿姆斯特丹東南
-amsterdam-central:阿姆斯特丹中央車站
+amsterdam zuidoost:阿姆斯特丹东南
 amsterdam-central:阿姆斯特丹中央车站
 amsterdam:阿姆斯特丹
-amsterdam:阿姆斯特丹館
 amsterdam:阿姆斯特丹馆
 amsterdama:阿姆斯特丹
 amsterdamas:阿姆斯特丹
 amsterdami schipholi lennujaam:阿姆斯特丹史基浦机场
-amsterdami schipholi lennujaam:阿姆斯特丹史基浦機場
 amsterdami:阿姆斯特丹
 amsterdamo schipolio oro uostas:阿姆斯特丹史基浦机场
-amsterdamo schipolio oro uostas:阿姆斯特丹史基浦機場
 amsterdamo:阿姆斯特丹
 amsterdams:阿姆斯特丹
 amsterdamse bos park:阿姆斯特丹森林公园
@@ -11430,15 +11032,15 @@ amtae-myeon:岩泰面
 amtae:岩泰面
 amtala:阿姆塔拉
 amtali upazila:阿姆塔里乌帕齐拉
-amtd digital:尚乘數科
-amtel building:安泰大廈
+amtd digital:尚乘数科
+amtel building:安泰大厦
 amtkeli:阿姆特克利河
-amtocephale:阿米特頭龍屬
+amtocephale:阿米特头龙属
 amtorg trading corporation:苏美贸易公司
-amtosaurus:安吐龍屬
-amtrak california:加州美鐵
-amtrak thruway:美鐵巴士
-amtrak:美鐵
+amtosaurus:安吐龙属
+amtrak california:加州美铁
+amtrak thruway:美铁巴士
+amtrak:美铁
 amtsberg:阿姆茨贝格
 amtssee:阿姆茨湖
 amtzell:阿姆特采尔
@@ -11447,39 +11049,38 @@ amu co:阿木错
 amu daria:阿姆河
 amu darja:阿姆河
 amu darya and syr darya:阿姆河和锡尔河
-amu darya stone loach:叉尾條鰍
+amu darya stone loach:叉尾条鰍
 amu darya:阿姆河
 amu dária:阿姆河
 amu language:阿木语
 amu long:Āmǔ lóng
 amu long:阿姆隆
-amu plaza nagasaki:amu plaza長崎
+amu plaza nagasaki:amu plaza长崎
 amu river:阿木河
 amu'er:āmùěr zhèn
 amu'er:阿木尔
 amu'er:阿木尔镇
 amu-daria:阿姆河
 amu-darja:阿姆河
-amu-lar company:亞姆拉公司
+amu-lar company:亚姆拉公司
 amu:阿木
 amu:阿木乡
 amuben:阿木本
 amuca tribe:阿穆贾
-amuda:阿穆達
+amuda:阿穆达
 amudalavalasa:阿马达拉瓦拉萨
 amudaria:阿姆河
 amudarià:阿姆河
 amudarja:阿姆河
 amudarjo:阿姆河
-amudaryo district:阿姆河區域
+amudaryo district:阿姆河区域
 amudaryo:阿姆河
-amudat district:阿穆達特區
+amudat district:阿穆达特区
 amuduzi:阿木独子
 amugongtun:阿木宫屯
 amugulang:āmùgǔláng zhèn
-amugulang:阿木古郎鎮
 amugulang:阿木古郎镇
-amukta:阿穆克塔島
+amukta:阿穆克塔岛
 amula:阿木拉
 amulangtu:阿木郎吐
 amuleigu:阿木类古
@@ -11489,129 +11090,114 @@ amulet from:护身符从
 amulet he:护身符他
 amulet market:护身符市场
 amulet now:护身符现在
-amulet:厭勝物
+amulet:厌胜物
 amulet:护身符
 amuluo:阿木洛村
 amumuyoubi:阿木母尤笔
 amun temple:阿蒙神庙
-amun-kar:特羅納多峰
+amun-kar:特罗纳多峰
 amun:阿蒙
-amund ringnes island:阿蒙德靈內斯島
-amundi:鋒裕匯理
+amund ringnes island:阿蒙德灵內斯岛
+amundi:锋裕汇理
 amundsen coast:阿蒙森海岸
 amundsen glacier:阿蒙森冰川
-amundsen golkoa:阿蒙森灣
-amundsen gulf:阿蒙森灣
-amundsen körfezi:阿蒙森灣
+amundsen golkoa:阿蒙森湾
+amundsen gulf:阿蒙森湾
+amundsen körfezi:阿蒙森湾
 amundsen sea:阿蒙森海
 amundsen's south pole expedition:阿蒙森南极探险队
-amundsen-golf:阿蒙森灣
+amundsen-golf:阿蒙森湾
 amundsen-scott kutatóállomás:阿蒙森-斯科特南极站
 amundsen-see:阿蒙森海
 amundsen-tenger:阿蒙森海
 amundsena maro:阿蒙森海
-amundsenbukta:阿蒙森灣
+amundsenbukta:阿蒙森湾
 amundsenhavet:阿蒙森海
 amundseninmeri:阿蒙森海
 amundseno jūra:阿蒙森海
-amundsenov záliv:阿蒙森灣
+amundsenov záliv:阿蒙森湾
 amundsenovo more:阿蒙森海
 amundsenovo moře:阿蒙森海
-amundsenův záliv:阿蒙森灣
+amundsenův záliv:阿蒙森湾
 amundsen–scott south pole station:阿蒙森-斯科特南极站
 amunet:阿玛乌奈特
 amuping:阿姆坪
 amuquhu:阿木去乎
 amuquhu:阿木去乎镇
 amur (tỉnh):阿穆尔州
-amur (tỉnh):阿穆爾州
 amur annexation:兼并阿穆尔
 amur bay:阿穆尔湾
-amur bay:阿穆爾灣
-amur bitterling:絲鰟鮍
-amur catfish:花鯰
-amur cossacks:阿穆爾哥薩克
-amur falcon:阿穆爾隼
+amur bitterling:丝鰟鮍
+amur catfish:花鲶
+amur cossacks:阿穆尔哥萨克
+amur falcon:阿穆尔隼
 amur goby:真吻鰕虎
-amur grayling:黑龍江茴魚
-amur hedgehog:東北刺蝟
+amur grayling:黑龙江茴鱼
+amur hedgehog:东北刺蝟
 amur hedgehog:黑龙江刺猬
 amur ide:东北雅罗鱼
 amur leopard:远东豹
 amur liman:阿穆尔湾
 amur liman:阿穆尔溺谷
 amur longnose gudgeon:突吻小鰾鮈
-amur military flotilla:阿穆爾河區艦隊
+amur military flotilla:阿穆尔河区舰队
 amur minnow:拉氏大吻鱥
-amur nehri:黑龍江
 amur nehri:黑龙江
 amur oblast:阿穆尔州
-amur oblast:阿穆爾州
 amur paradise flycatcher:寿带鸟
 amur pike:黑斑狗鱼
 amur region:黑龙江军区
 amur regional library:阿穆尔地区图书馆
-amur river:黑龍江
 amur river:黑龙江
-amur sculpin:黑龍江中杜父魚
+amur sculpin:黑龙江中杜父鱼
 amur shipbuilding plant:阿穆尔造船厂
 amur softshell turtle:东北鳖
 amur stickleback:中华多刺鱼
 amur subdsitrict:阿穆尔街道
-amur valley:黑龍江谷地
 amur valley:黑龙江谷地
 amur waves:黑龙江之波
-amur whitefin gudgeon:薄身羅馬諾鮈
-amur çayı:黑龍江
+amur whitefin gudgeon:薄身罗马诺鮈
 amur çayı:黑龙江
 amur:hēilóng jiāng
 amur:hēilóngjiāng
 amur:阿穆尔街道
-amur:黑龍江
 amur:黑龙江
 amura provinco:阿穆尔州
-amura provinco:阿穆爾州
 amurakuc:马拉喀什
 amuri terület:阿穆尔州
-amuri terület:阿穆爾州
-amuria district:阿穆里亞區
+amuria district:阿穆里亚区
 amurian microplate:阿穆尔板块
 amurilla:李枯叶蛾属
 amurin komsomolsk:阿穆尔河畔共青城
-amurin komsomolsk:阿穆爾河畔共青城
 amurka:měizhōu
 amurka:美洲
 amurlingkui:阿穆尔灵圭
 amuro tsuzuki:都筑有梦路
-amuro:黑龍江
 amuro:黑龙江
 amuron:Āmù lóng
-amurosaurus:阿穆爾龍屬
+amurosaurus:阿穆尔龙属
 amurrhyparia:北灯蛾属
 amurrio:阿穆里奥
 amursana:阿睦尔撒纳
 amurset:阿穆尔泽特
-amursk:傅達里
+amursk:傅达里
 amursk:阿穆尔斯克
 amurska oblast:阿穆尔州
-amurska oblast:阿穆爾州
-amurskas:傅達里
+amurskas:傅达里
 amurskaya street:阿穆尔街
-amursko:傅達里
-amursky district:阿穆爾斯克區
+amursko:傅达里
+amursky district:阿穆尔斯克区
 amurská oblast:阿穆尔州
-amurská oblast:阿穆爾州
 amurská oblasť:阿穆尔州
-amurská oblasť:阿穆爾州
-amurszk:傅達里
-amuru district:阿穆魯區
+amurszk:傅达里
+amuru district:阿穆鲁区
 amury:阿穆里
 amurzet:阿穆尔泽特
 amusco:阿穆斯科
-amused to death:歡愉致死
-amusement arcade:電子遊樂場
-amusement building:遊樂大樓
-amusement palace:娛樂宮
+amused to death:欢愉致死
+amusement arcade:电子游乐场
+amusement building:游乐大楼
+amusement palace:娱乐宮
 amusement palace:欢乐宫
 amusement park association:游乐园协会
 amusement park be:游乐园成为
@@ -11623,7 +11209,7 @@ amusement park consumption:游乐园消费
 amusement park equipment and vehicle:游乐园设备和车辆
 amusement park equipment:游乐园设备
 amusement park games:游乐园游戏
-amusement park in japan:遊樂園在日本
+amusement park in japan:游乐园在日本
 amusement park investment:游乐园投资
 amusement park look:游乐园看
 amusement park market:游乐园市场
@@ -11635,17 +11221,14 @@ amusement park train:游乐园火车
 amusement park water:游乐园水
 amusement park will be:游乐园将成为
 amusement park:八仙乐园
-amusement park:八仙樂園
 amusement park:游乐园
 amusement park:游乐场
-amusement park:遊樂園
-amusement park:遊樂場
 amusement ride:大型游乐设施
 amusement-park experience:游乐园体验
 amusement-park refugee:游乐园难民
 amusia:失歌症
 amusing ourselves to death:娱乐至死
-amusium pleuronectes:亞洲日月蛤
+amusium pleuronectes:亚洲日月蛤
 amusium:日月蛏属
 amusquillo:阿穆斯基略
 amuta lake:amuta pao
@@ -11653,16 +11236,16 @@ amuta lake:阿木塔泡
 amutapi walla mamallaqta wari kancha:塞罗斯德阿莫塔佩国家公园
 amuwanshangcun:阿木湾上村
 amuwanxiacun:阿木湾下村
-amvrosievka:阿姆夫羅西耶夫卡
+amvrosievka:阿姆夫罗西耶夫卡
 amvrosiivka raion:阿姆夫罗西伊夫卡区
-amvrosiivka:阿姆夫羅西耶夫卡
-amvrosijivka:阿姆夫羅西耶夫卡
-amvrosiïvka:阿姆夫羅西耶夫卡
-amvrossiivka:阿姆夫羅西耶夫卡
-amvrossijivka:阿姆夫羅西耶夫卡
-amvrossiïvka:阿姆夫羅西耶夫卡
-amvròssiïvka:阿姆夫羅西耶夫卡
-amway arena:安利競技館
+amvrosiivka:阿姆夫罗西耶夫卡
+amvrosijivka:阿姆夫罗西耶夫卡
+amvrosiïvka:阿姆夫罗西耶夫卡
+amvrossiivka:阿姆夫罗西耶夫卡
+amvrossijivka:阿姆夫罗西耶夫卡
+amvrossiïvka:阿姆夫罗西耶夫卡
+amvròssiïvka:阿姆夫罗西耶夫卡
+amway arena:安利竞技馆
 amway center:安利中心
 amway china:安利中国
 amway corporation:安利公司
@@ -11679,21 +11262,21 @@ amway products:安利产品
 amway stadium:安利体育馆
 amway vietnam:安利越南
 amway:安利
-amwrosijewka:阿姆夫羅西耶夫卡
-amwrossijiwka:阿姆夫羅西耶夫卡
-amy carmichael:賈艾梅
-amy chan:陳秀雯
+amwrosijewka:阿姆夫罗西耶夫卡
+amwrossijiwka:阿姆夫罗西耶夫卡
+amy carmichael:贾艾梅
+amy chan:陈秀雯
 amy chua:蔡美儿
 amy fan:樊亦敏
 amy hung:洪沁慧
 amy kwok:郭藹明
-amy lin:林仁語
+amy lin:林仁语
 amy lyons:李慧琳
 amy tan:谭恩美
 amy vegeterian restaurant:和美素食馆
-amy yamada:山田詠美
-amy yip:葉子楣
-amy's choice:艾米的抉擇
+amy yamada:山田咏美
+amy yip:叶子楣
+amy's choice:艾米的抉择
 amyciaea:黄蚁蟹蛛属
 amycolatopsis:拟无枝酸菌属
 amyda:软鳖属
@@ -11703,7 +11286,7 @@ amydrium sinense:雷公连
 amydrium:雷公连属
 amyema:龙须寄生属
 amygdala activity:杏仁核活动
-amygdala and prefrontal cortex:杏仁核和前額葉皮質
+amygdala and prefrontal cortex:杏仁核和前额叶皮质
 amygdala and thalamus:杏仁核和丘脑
 amygdala cells:杏仁核细胞
 amygdala hijack:杏仁核劫持
@@ -11715,7 +11298,7 @@ amygdala volume:杏仁核体积
 amygdala will:杏仁核会
 amygdala:杏仁核
 amygdalin:扁桃苷
-amygdalodon:杏齒龍屬
+amygdalodon:杏齿龙属
 amygdaloideae:桃亚科
 amygdule:杏仁孔
 amyl acetate:乙酸正戊酯
@@ -11738,20 +11321,20 @@ amylocorticiales:淀粉伏革菌目
 amylocorticiellum:小淀粉伏革菌属
 amylocorticium:淀粉伏革菌属
 amylocystis:淀粉囊孔菌属
-amyloid beta precursor protein:前類澱粉蛋白質
-amyloid plaques:類澱粉蛋白斑塊
-amyloid:類澱粉蛋白
+amyloid beta precursor protein:前类淀粉蛋白质
+amyloid plaques:类淀粉蛋白斑块
+amyloid:类淀粉蛋白
 amyloidosis:淀粉样变
 amylolactobacillus:淀粉乳杆菌属
-amylolytic process:澱粉分解過程
+amylolytic process:淀粉分解过程
 amylonotus:淀粉孔菌属
 amylopectin:支链淀粉
-amyloplast:澱粉體
+amyloplast:淀粉体
 amyloporia:粉孔菌属
-amylose:直鏈澱粉
+amylose:直链淀粉
 amylosporus:黑孢孔菌属
 amylostereum:淀粉韧革菌属
-amynander of athamania:阿塔馬尼亞的阿密南德
+amynander of athamania:阿塔马尼亚的阿密南德
 amyntas i of macedon:阿敏塔斯一世
 amyntas iii of macedon:阿明塔斯三世
 amyntas iv:阿敏塔斯四世
@@ -11760,9 +11343,9 @@ amyntas:阿闵塔斯
 amynthas:远环蚓属
 amyrin:香树脂醇
 amyrtaeus:阿米尔塔尼乌斯
-amy´s court:藝美閣
+amy´s court:艺美阁
 amz dzik:野猪装甲车
-amzacea:阿姆扎恰鄉
+amzacea:阿姆扎恰乡
 amzhung:āmùxióng xiāng
 amzhung:阿木雄乡
 amàn:安曼
@@ -11792,10 +11375,8 @@ américa:美洲
 amérika kidul:南美洲
 amérika sarikat:měiguó
 amérika sarikat:美国
-amérika sarikat:美國
 amérika sarékat:měiguó
 amérika sarékat:美国
-amérika sarékat:美國
 amérika:měizhōu
 amérika:美洲
 amérikah kidul:南美洲
@@ -11807,27 +11388,21 @@ améthique du sud:南美洲
 améthique:měizhōu
 améthique:美洲
 amòl:阿莫勒
-amúr-fljót:黑龍江
 amúr-fljót:黑龙江
-amúr:黑龍江
 amúr:黑龙江
 amûrqig gaqaa committee:阿木其嘎嘎查委员会
 amûrqig gaqaa:阿木其嘎嘎查
 amûrqig xincun:阿木其嘎新村
 amûrqig:阿木其嘎
 amül:阿莫勒
-amūras:黑龍江
 amūras:黑龙江
 amūro sritis:阿穆尔州
-amūro sritis:阿穆爾州
 amɛlika:měizhōu
 amɛlika:美洲
 amɛni:yàměiníyà
 amɛni:亚美尼亚
-amɛni:亚美尼亚 / 亞美尼亞
-amɛni:亞美尼亞
+amɛni:亚美尼亚 / 亚美尼亚
 amɛrika:měiguó
 amɛrika:美国
-amɛrika:美國
 amẹ́ríkà:měizhōu
 amẹ́ríkà:美洲

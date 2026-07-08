@@ -1,22 +1,22 @@
-sc astrakhan:阿斯特拉罕足球會
-sc austria lustenau:奧地利路斯登洛體育會
-sc bastia:巴斯蒂亞體育會
-sc de goa:果阿競技俱樂部
-sc faetano:費坦奴體育會
+sc astrakhan:阿斯特拉罕足球会
+sc austria lustenau:奧地利路斯登洛体育会
+sc bastia:巴斯蒂亚体育会
+sc de goa:果阿竞技俱乐部
+sc faetano:费坦奴体育会
 sc freiburg:弗赖堡体育俱乐部
-sc heerenveen:海倫芬體育會
-sc mirandela:米蘭德拉體育俱樂部
-sc rheindorf altach:阿爾特阿赫萊茵多夫體育俱樂部
-sc sagamihara:相模原體育會
-sc tavriya simferopol:辛菲羅波爾塔夫里亞足球俱樂部
-sc telstar:泰斯達體育會
-sc toulon:土倫體育會
-sc veendam:雲登體育會
+sc heerenveen:海伦芬体育会
+sc mirandela:米兰德拉体育俱乐部
+sc rheindorf altach:阿尔特阿赫莱茵多夫体育俱乐部
+sc sagamihara:相模原体育会
+sc tavriya simferopol:辛菲罗波尔塔夫里亚足球俱乐部
+sc telstar:泰斯达体育会
+sc toulon:土伦体育会
+sc veendam:云登体育会
 sc verl:费尔体育俱乐部
-sc villa:維拉體育俱樂部
+sc villa:维拉体育俱乐部
 sc:南卡罗来纳州
-sc:南卡羅萊納州
-scaa bowling centre:南華體育會保齡球場館
+sc:南卡罗莱纳州
+scaa bowling centre:南华体育会保龄球场馆
 scabbard even so:鞘即便如此
 scabbard from:鞘从
 scabbard:鞘
@@ -31,13 +31,13 @@ scabies:疥疮
 scabiosa atropurpurea:紫盆花
 scabiosa japonica:日本蓝盆花
 scabiosa ochroleuca:黄盆花
-scabiosa:藍盆花屬
+scabiosa:蓝盆花属
 scabricola olivaeformis:榧形笔螺
-scabricola variegata:豔美筆螺
+scabricola variegata:艳美笔螺
 scabrotrophon chunfui:春福骨螺
 scabrotrophon lani:蓝氏骨螺
 scada:数据采集与监控系统
-scada:灑綃蝶屬
+scada:洒綃蝶属
 scadoxus multiflorus:网球花
 scadoxus:网球花属
 scadra:斯猎蝽属
@@ -45,20 +45,19 @@ scaeva:鼓额食蚜蝇属
 scaevola taccada:草海桐
 scafa:斯卡法
 scafati:斯卡法蒂
-scafell pike:斯科費爾峰
-scafell:斯科費爾山
-scaffold protein:支架蛋白質
+scafell pike:斯科费尔峰
+scafell:斯科费尔山
+scaffold protein:支架蛋白质
 scaffold web spider:类球腹蛛科
-scaffolding and cement:腳手架和水泥
-scaffolding company:腳手架公司
-scaffolding:腳手架
+scaffolding and cement:脚手架和水泥
+scaffolding company:脚手架公司
+scaffolding:脚手架
 scafusa:沙夫豪森
 scagnello:斯卡涅洛
-scaife mountains:斯凱夫山脈
+scaife mountains:斯凱夫山脉
 scala coeli:斯卡拉科埃利
 scala dei turchi:土耳其阶梯
 scala mansion:嘉兰大厦
-scala mansion:嘉蘭大廈
 scala sancta:圣阶
 scalability and reliability:可缩放性和可靠性
 scalability issues:可缩放性问题
@@ -109,7 +108,7 @@ scalar output:标量输出
 scalar parameter:标量参数
 scalar particle:标量粒子
 scalar performance:标量性能
-scalar potential:純量勢
+scalar potential:纯量势
 scalar process:标量处理
 scalar processor:标量处理器
 scalar product:标量积
@@ -156,17 +155,17 @@ scale armour:鳞甲
 scale coefficient:比例系数
 scale detail:比例细节
 scale elements:比例元素
-scale eye plaice:納氏棘鰈
+scale eye plaice:纳氏棘鲽
 scale factor:比例因子
 scale factor:比例系数
 scale field:比例字段
 scale free network:无尺度网络
 scale from:比例从
-scale height:大氣標高
+scale height:大气标高
 scale image:比例图像
-scale insect:介殼蟲
+scale insect:介殼虫
 scale integral:比例积分
-scale invariant feature transform:尺度不變特徵轉換
+scale invariant feature transform:尺度不变特征转换
 scale is interesting:比例是有趣的
 scale measurement system:比例测量系统
 scale measurement:比例测量
@@ -181,14 +180,14 @@ scale model:比例模型
 scale models:比例模型
 scale numbers:比例数字
 scale observation:比例观察
-scale of temperature:溫標
+scale of temperature:温标
 scale or precision limit:比例或精度限制
 scale or precision:比例或精度
 scale pattern:比例模式
 scale plastic:比例塑料
 scale range:比例范围
-scale rayed wrasse:帕氏刺隆頭魚
-scale reference:比例參考
+scale rayed wrasse:帕氏刺隆头鱼
+scale reference:比例参考
 scale results:比例结果
 scale robot:比例机器人
 scale ruler:比例尺
@@ -207,49 +206,49 @@ scale-model hardware:比例模型硬件
 scale-model test:比例模型测试
 scale:比例
 scalea:斯卡莱阿
-scalebound:龍鱗化身
-scaled and icy:密碼解鎖
+scalebound:龙鳞化身
+scaled and icy:密码解锁
 scaled composites stratolaunch:缩尺复合体平流层发射双体飞机
 scaled composites white knight:白色骑士号
-scaled composites:縮尺複合體公司
+scaled composites:缩尺复合体公司
 scaled fruiteater:鳞斑食果伞鸟
 scaled metaltail:鳞辉尾蜂鸟
-scaled sardine:大西洋青鱗魚
+scaled sardine:大西洋青鳞鱼
 scaled sculpin:冰杜父鱼属
-scaleless black dragonfish:巴氏黑巨口魚
-scaleless killifish:橫帶祕鱂
-scalemouth jobfish:頜鱗副紫魚
-scalene triangle:不等邊三角形
+scaleless black dragonfish:巴氏黑巨口鱼
+scaleless killifish:横带祕鱂
+scalemouth jobfish:頜鳞副紫鱼
+scalene triangle:不等边三角形
 scalenghe:斯卡伦盖
-scalenohedron:偏三角面體
+scalenohedron:偏三角面体
 scaletta zanclea:斯卡莱塔赞克莱阿
-scalicus gilberti:吉氏叉吻魴鮄
-scalicus orientalis:東方叉吻魴鮄
+scalicus gilberti:吉氏叉吻鲂鮄
+scalicus orientalis:东方叉吻鲂鮄
 scalinata della trinità dei monti:西班牙广场和台阶
-scaling and root planing:牙結石刮除術及根面整平術
-scaling function:調整函式
+scaling and root planing:牙结石刮除术及根面整平术
+scaling function:调整函式
 scallion:青蔥
 scallop column:扇贝柱
 scallop eye:扇贝眼睛
 scallop garden:扇贝花园
 scallop hill:斯卡洛普山
-scallop kofun:扇貝形古墳
+scallop kofun:扇贝形古坟
 scallop population:扇贝种群
 scallop research:扇贝研究
-scallop ridge:斯卡洛普嶺
+scallop ridge:斯卡洛普岭
 scallop shell:扇贝壳
 scallop species:扇贝物种
 scallop:扇贝
-scalloped hammerhead:紅肉丫髻鮫
+scalloped hammerhead:红肉丫髻鮫
 scalloped margin dome:贝状边缘穹丘
 scalloped topography:扇形地形
 scalopidiidae:掘沙蟹科
 scalopini:美洲鼴族
-scalp folliculitis:頭皮毛囊炎
-scalp is oil:頭皮是油
-scalp massage:頭皮按摩
-scalp surgery:頭皮外科
-scalp:頭皮
+scalp folliculitis:头皮毛囊炎
+scalp is oil:头皮是油
+scalp massage:头皮按摩
+scalp surgery:头皮外科
+scalp:头皮
 scalpel and chloroform:手术刀和氯仿
 scalpel is my tool:手术刀是我的工具
 scalpel or laser:手术刀或激光
@@ -267,25 +266,25 @@ scalptia crenifera:积鳞核螺
 scalptia scalariformis:折纹核螺
 scaly babbler:鳞羽鸫鹛
 scaly bellied woodpecker:鳞腹啄木鸟
-scaly boy:繁口阿匍鰕虎魚
+scaly boy:繁口阿匍鰕虎鱼
 scaly breasted cupwing:鳞胸鹪鹛
 scaly breasted hummingbird:鳞胸刀翅蜂鸟
-scaly breasted munia:斑文鳥
+scaly breasted munia:斑文鸟
 scaly breasted thrasher:鳞胸嘲鸫
 scaly chatterer:鳞斑鸫鹛
 scaly crowned babbler:小红头树鹛
 scaly foot gastropod:鳞足螺
-scaly gurnard:短鰭紅娘魚
+scaly gurnard:短鳍红娘鱼
 scaly laughingthrush:纯色噪鹛
-scaly naped amazon:鱗頸亞馬遜鸚鵡
+scaly naped amazon:鳞颈亚马逊鹦鹉
 scaly osman:斑重唇鱼
-scaly sand darter:長壽鏢鱸
+scaly sand darter:长寿鏢鲈
 scaly sided merganser:中华秋沙鸭
 scaly thrush:小虎斑地鸫
 scaly yellowfish:南非魮
 scaly-sided merganser field station:中华秋沙鸭场站
 scaly-sided merganser field:中华秋沙鸭场
-scam center:詐騙園區
+scam center:诈骗园区
 scam:信任骗局
 scamander vallis:斯卡曼德洛斯谷
 scambio autostradale di yokoshibahikari:横芝光交流道
@@ -293,8 +292,8 @@ scambos glacier:斯坎姆博斯冰川
 scambus:曲姬蜂属
 scammarctus:凹甲蝉虾属
 scamorza:斯卡莫扎奶酪
-scamp grouper:巫喙鱸
-scamper:奔馳法
+scamp grouper:巫喙鲈
+scamper:奔驰法
 scampitella:斯坎皮泰拉
 scan chain:扫描链
 scan line:扫描线
@@ -305,7 +304,6 @@ scancode:键盘扫描码
 scandal am:丑闻是
 scandal and a series:丑闻和一系列
 scandal and climate:丑闻和气候
-scandal and climate:醜聞和氣候
 scandal and data protection rules:丑闻和数据保护规则
 scandal and data protection:丑闻和数据保护
 scandal and democracy:丑闻与民主
@@ -339,10 +337,10 @@ scandal in his first year:丑闻在他的第一年
 scandal in the united states:丑闻在美国
 scandal investigation began:丑闻调查开始
 scandal investigation:丑闻调查
-scandal makers:急速醜聞
+scandal makers:急速丑闻
 scandal might soon:丑闻可能很快
 scandal more than:丑闻多于
-scandal nanka buttobase:踢飛醜聞
+scandal nanka buttobase:踢飞丑闻
 scandal nearly burst:丑闻几乎爆发
 scandal nearly:丑闻几乎
 scandal needs:丑闻需要
@@ -361,7 +359,6 @@ scandal season:丑闻季节
 scandal show:丑闻显示
 scandal so:丑闻如此
 scandal soon:丑闻很快
-scandal soon:醜聞很快
 scandal start:丑闻开始
 scandal still:丑闻仍然
 scandal storm:丑闻风暴
@@ -374,7 +371,6 @@ scandal will:丑闻会
 scandal would:丑闻将
 scandal-hit richardson:丑闻打击理查森
 scandal:丑闻
-scandal:醜聞
 scandale:斯坎达莱
 scandiano:斯坎迪亚诺
 scandicci:斯坎迪奇
@@ -399,13 +395,12 @@ scandinavia fund:斯堪的纳维亚基金
 scandinavia is scandinavia:斯堪的纳维亚是斯堪的纳维亚
 scandinavia or ireland:斯堪的纳维亚或爱尔兰
 scandinavia study:斯堪的纳维亚研究
-scandinavia:斯堪地那維亞
-scandinavia:斯堪的納維亞
+scandinavia:斯堪地那维亚
 scandinavia:斯堪的纳维亚
-scandinavian airlines:北歐航空
-scandinavian defence union:北歐防衛同盟
+scandinavian airlines:北欧航空
+scandinavian defence union:北欧防卫同盟
 scandinavian defense:斯堪的纳维亚防御
-scandinavian monetary union:斯堪的納維亞貨幣聯盟
+scandinavian monetary union:斯堪的纳维亚货币联盟
 scandinavian mountains airport:斯堪的纳维亚山脉机场
 scandinavian mountains:斯堪的纳维亚山脉
 scandinavian peninsula in winter:斯堪的纳维亚半岛在冬季
@@ -414,10 +409,9 @@ scandinavian scotland:斯堪的纳维亚人占领下的苏格兰
 scandinavian studies:斯堪的纳维亚学
 scandinavian york:斯堪的纳维亚约克
 scandinavisch schiereiland:斯堪的纳维亚半岛
-scandinavism:泛斯堪的納維亞主義
-scandinavium:斯堪地那維亞體育館
-scandinavië:斯堪地那維亞
-scandinavië:斯堪的納維亞
+scandinavism:泛斯堪的纳维亚主义
+scandinavium:斯堪地那维亚体育馆
+scandinavië:斯堪地那维亚
 scandinavië:斯堪的纳维亚
 scandium acetate:乙酸钪
 scandium alloy:钪合金
@@ -445,19 +439,19 @@ scandium triiodide:碘化钪
 scandium:钪
 scandix:针果芹属
 scandocene:三茂钪
-scandola nature reserve:斯康多拉保護區
+scandola nature reserve:斯康多拉保护区
 scandriglia:斯坎德里利亚
 scania ab:斯堪尼亚汽车
 scania:斯科訥
 scania:斯科讷省
-scanian war:斯科訥戰爭
-scanisaurus:斯堪尼龍屬
-scanlan peak:斯坎倫峰
-scanlation:掃譯
+scanian war:斯科訥战争
+scanisaurus:斯堪尼龙属
+scanlan peak:斯坎伦峰
+scanlation:扫译
 scanline rendering methods:扫描线渲染方法
 scanline rendering:扫描线渲染
 scanniello peak:斯坎尼埃洛峰
-scanning acoustic microscope:超音波掃瞄顯微鏡
+scanning acoustic microscope:超音波扫瞄显微镜
 scanning electrochemical microscopy:扫描电化学显微镜
 scanning electron microscope image data:扫描电子显微镜图像数据
 scanning electron microscope image show:扫描电子显微镜图像显示
@@ -465,32 +459,31 @@ scanning electron microscope image:扫描电子显微镜图像
 scanning electron microscope reveal:扫描电子显微镜揭示
 scanning electron microscope:扫描电子显微镜
 scanning habitable environments with raman and luminescence for organics and chemicals:利用拉曼光谱和荧光扫描宜居环境中的有机物和化学品
-scanning probe microscopy:掃描探針顯微鏡
+scanning probe microscopy:扫描探针显微镜
 scanning transmission electron microscopy:扫描透射电子显微镜
 scanning tunneling microscope experiment:扫描隧道显微镜实验
 scanning tunneling microscope studies:扫描隧道显微镜研究
 scanning tunneling microscope:扫描隧道显微镜
 scansano:斯坎萨诺
-scansoriopterygidae:擅攀鳥龍科
-scansoriopteryx:擅攀鳥龍屬
+scansoriopterygidae:擅攀鸟龙科
+scansoriopteryx:擅攀鸟龙属
 scanzano jonico:斯坎扎诺约尼科
 scanzorosciate:斯坎佐罗夏泰
 scapa flow:斯卡帕湾
 scapania:合叶苔属
 scapaniaceae:合叶苔科
-scapanorhynchus:劍吻鯊
-scapanus:西鼴屬
+scapanorhynchus:剑吻鯊
+scapanus:西鼴属
 scape:南埼
 scapegoat mechanisms:替罪羊机制
-scapegoat theory:替罪羊理論
 scapegoat theory:替罪羊理论
 scapegoat tree:替罪羊树
 scapegoat:替罪羊
-scaphander:粗米螺屬
+scaphander:粗米螺属
 scaphandridae:粗米螺科
 scaphiodonichthys acanthopterus:少鳞白甲鱼
 scaphiodonichthys macracanthus:长鳍白甲鱼
-scaphiophryne gottlebei:紅犁足蛙
+scaphiophryne gottlebei:红犁足蛙
 scaphiophryne:拨土蛙属
 scaphirhynchus:铲鲟属
 scaphism:船刑
@@ -508,18 +501,18 @@ scapholeberis:船卵蚤属
 scaphosepalum:碗萼兰属
 scapoli:斯卡波利
 scapolite:方柱石
-scapteromys:南美水鼠屬
+scapteromys:南美水鼠属
 scaptia beyonceae:碧昂斯马蝇
 scapula:肩胛骨
 scar appear:疤痕出现
-scar bluffs:斯卡爾海崖
-scar capsule:疤痕膠囊
+scar bluffs:斯卡尔海崖
+scar capsule:疤痕胶囊
 scar chicago community:疤痕芝加哥社区
 scar chicago:疤痕芝加哥
 scar diagnosis:疤痕诊断
-scar hills:斯卡爾山
+scar hills:斯卡尔山
 scar impact:疤痕影响
-scar inlet:斯卡灣
+scar inlet:斯卡湾
 scar literature:伤痕文学
 scar liver:疤痕肝臟
 scar look:疤痕看
@@ -545,12 +538,12 @@ scar write:疤痕写
 scar:疤痕
 scarab bluff:斯卡拉布海崖
 scarab peak:斯卡拉布峰
-scarabaeidae:金龜子科
-scarabaeoidea:金龜子總科
+scarabaeidae:金龟子科
+scarabaeoidea:金龟子总科
 scarabaeus erichsoni:艾氏泽蜣螂
-scarabaeus sacer:神聖糞金龜
+scarabaeus sacer:神圣粪金龟
 scarabaspis:蜣盾螨属
-scarba:斯卡巴島
+scarba:斯卡巴岛
 scarborough and dixon:斯卡伯勒和迪克森
 scarborough and whitby:斯卡伯勒和惠特比
 scarborough ask:斯卡伯勒问
@@ -559,16 +552,16 @@ scarborough castle:斯卡伯勒城堡
 scarborough centre station:士嘉堡中心站
 scarborough city centre:士嘉堡城市中心
 scarborough civic centre:士嘉堡市政中心
-scarborough college:斯卡伯勒學院
+scarborough college:斯卡伯勒学院
 scarborough country:斯卡伯勒国家
 scarborough development:斯卡伯勒开发
 scarborough fair finally:斯卡伯勒集市最终
 scarborough fair:斯卡伯勒集市
-scarborough health network:士嘉堡醫療網絡
+scarborough health network:士嘉堡医疗网络
 scarborough hospital:斯卡伯勒医院
 scarborough hotel:斯卡伯勒酒店
 scarborough is right:斯卡伯勒是对的
-scarborough junction:士嘉堡交加區
+scarborough junction:士嘉堡交加区
 scarborough museum:斯卡伯勒博物馆
 scarborough project:斯卡伯勒项目
 scarborough reef:斯卡伯勒礁
@@ -576,7 +569,6 @@ scarborough said:斯卡伯勒说
 scarborough share:斯卡伯勒分享
 scarborough shoal standoff:黄岩岛主权问题
 scarborough shoal:民主礁
-scarborough shoal:黃岩島
 scarborough shoal:黄岩岛
 scarborough state:斯卡伯勒州
 scarborough street:斯卡伯勒街
@@ -640,7 +632,6 @@ scarce merchant:稀缺的商家
 scarce motorcycle:稀缺的摩托车
 scarce nation:稀缺的国家
 scarce natural resources and government:稀缺的自然资源和政府
-scarce natural resources:稀缺的自然資源
 scarce natural resources:稀缺的自然资源
 scarce network:稀缺的网络
 scarce nitrogen:稀缺的氮
@@ -712,16 +703,16 @@ scarcity principles:稀缺性原则
 scarcity would be:稀缺性将成为
 scarcity would:稀缺性将
 scarcity:稀缺性
-scardinius acarnanicus:隆背紅眼魚
-scardinius dergle:急流紅眼魚
-scardinius elmaliensis:伊爾馬紅眼魚
-scardinius graecus:希臘紅眼魚
-scardinius hesperidicus:西方紅眼魚
-scardinius knezevici:尼氏紅眼魚
-scardinius plotizza:美紅眼魚
-scardinius racovitzai:拉氏紅眼魚
-scardinius scardafa:義大利紅眼魚
-scardinius:紅眼魚屬
+scardinius acarnanicus:隆背红眼鱼
+scardinius dergle:急流红眼鱼
+scardinius elmaliensis:伊尔马红眼鱼
+scardinius graecus:希腊红眼鱼
+scardinius hesperidicus:西方红眼鱼
+scardinius knezevici:尼氏红眼鱼
+scardinius plotizza:美红眼鱼
+scardinius racovitzai:拉氏红眼鱼
+scardinius scardafa:义大利红眼鱼
+scardinius:红眼鱼属
 scardona:斯克拉丁
 scarecrow agree:稻草人同意
 scarecrow and his friends:稻草人和他的朋友
@@ -744,7 +735,7 @@ scarecrow will:稻草人会
 scarecrow you:稻草人你
 scarecrow:稻草人
 scared to be lonely:害怕寂寞
-scareware:恐嚇軟體
+scareware:恐吓软体
 scarf along:围巾沿着
 scarf and glove:围巾和手套
 scarf and hat:围巾和帽子
@@ -768,13 +759,13 @@ scarf use:围巾使用
 scarf violate:围巾违反
 scarf will:围巾会
 scarf:围巾
-scarification:疤痕紋刻
+scarification:疤痕纹刻
 scariola:雀苣属
 scaritoxin:鹦嘴鱼毒素
 scarlatti peak:斯卡拉蒂峰
 scarlet backed flowerpecker:朱背啄花鸟
-scarlet badis:印度達里奧鱸
-scarlet banded barbet:红紋鬚鴷
+scarlet badis:印度达里奧鲈
+scarlet banded barbet:红纹须鴷
 scarlet breasted flowerpecker:赤胸锯齿啄花鸟
 scarlet collared flowerpecker:红领啄花鸟
 scarlet dwarf:八丁蜻蜓
@@ -790,78 +781,78 @@ scarlet guards:捍卫毛泽东思想工人赤卫队上海总部
 scarlet headed blackbird:红头黑鹂
 scarlet headed flowerpecker:红头啄花鸟
 scarlet hill:斯卡利特山
-scarlet macaw:緋紅金剛鸚鵡
+scarlet macaw:緋红金刚鹦鹉
 scarlet memorial:红色纪念碑
 scarlet minivet:赤红山椒鸟
-scarlet nexus:緋紅結繫
-scarlet robin:緋紅鴝鶲
-scarlet shiner:紅鰭美洲石鱥
+scarlet nexus:緋红结系
+scarlet robin:緋红鴝鶲
+scarlet shiner:红鳍美洲石鱥
 scarlet skimmer:猩红蜻蜓
 scarlet throated tanager:朱喉唐纳雀
-scarlet witch:緋紅女巫
-scarlet wrasse:截尾擬隆頭魚
+scarlet witch:緋红女巫
+scarlet wrasse:截尾拟隆头鱼
 scarlett point:斯卡利特角
 scarlett's magic:史嘉莉魔力
 scarlino:斯卡尔利诺
 scarmagno:斯卡尔马尼奥
 scarnafigi:斯卡尔纳菲吉
 scarpanto:喀帕苏斯岛
-scarpe sulla riva del danubio:多腦河畔之鞋
+scarpe sulla riva del danubio:多脑河畔之鞋
 scarperia e san piero:斯卡尔佩里亚和圣皮耶罗
 scarperia:斯卡尔佩里亚
 scarsdale public schools:斯卡斯代尔联合自由学区
 scartelaos histophorus:青弹涂鱼
 scartelaos:青弹涂鱼属
 scartella cristata:敏鳚
-scartella emarginata:緣頂鬚鳚
+scartella emarginata:缘顶须鳚
 scarturus:小五趾跳鼠属
-scarus altipinnis:高翅鸚嘴魚
-scarus dimidiatus:弧帶鸚嘴魚
-scarus dubius:腹紋鸚嘴魚
-scarus falcipinnis:鐮鰭鸚嘴魚
-scarus festivus:新月鸚嘴魚
-scarus flavipectoralis:黃鰭鸚嘴魚
-scarus forsteni:綠唇鸚嘴魚
-scarus frenatus:網紋鸚嘴魚
-scarus fuscopurpureus:紫褐鸚嘴魚
-scarus ghobban:青點鸚嘴魚
-scarus globiceps:黑斑鸚嘴魚
-scarus iseri:伊氏鸚嘴魚
-scarus niger:黑鸚嘴魚
+scarus altipinnis:高翅鹦嘴鱼
+scarus dimidiatus:弧带鹦嘴鱼
+scarus dubius:腹纹鹦嘴鱼
+scarus falcipinnis:鐮鳍鹦嘴鱼
+scarus festivus:新月鹦嘴鱼
+scarus flavipectoralis:黄鳍鹦嘴鱼
+scarus forsteni:绿唇鹦嘴鱼
+scarus frenatus:网纹鹦嘴鱼
+scarus fuscopurpureus:紫褐鹦嘴鱼
+scarus ghobban:青点鹦嘴鱼
+scarus globiceps:黑斑鹦嘴鱼
+scarus iseri:伊氏鹦嘴鱼
+scarus niger:黑鹦嘴鱼
 scarus prasiognathos:缘颌鹦嘴鱼
-scarus psittacus:五帶鸚嘴魚
-scarus quoyi:瓜氏鸚嘴魚
+scarus psittacus:五带鹦嘴鱼
+scarus quoyi:瓜氏鹦嘴鱼
 scarus scaber:横带鹦嘴鱼
-scarus spinus:刺鸚嘴魚
-scarus tricolor:三色鸚嘴魚
-scarus zelindae:條紋鸚嘴魚
-scarus zufar:佐法爾鸚嘴魚
-scary movie:驚聲尖笑
+scarus spinus:刺鹦嘴鱼
+scarus tricolor:三色鹦嘴鱼
+scarus zelindae:条纹鹦嘴鱼
+scarus zufar:佐法尔鹦嘴鱼
+scary movie:惊声尖笑
 scary road is fun:陌路惊笑
-scary stories to tell in the dark:在黑暗中說的鬼故事
-scarygirl:嚇人女孩
+scary stories to tell in the dark:在黑暗中说的鬼故事
+scarygirl:吓人女孩
 scat airlines:斯卡特航空
-scat singing:擬聲吟唱
+scat singing:拟声吟唱
 scata:斯卡塔
 scatella:温泉水蝇属
 scatha the worm:史卡沙
 scathophaga stercoraria:黄粪蝇
 scathophaga:粪蝇属
-scathophagidae:糞蠅科
-scatman john:快嘴約翰
-scatophagidae:金錢魚科
+scathophagidae:粪蠅科
+scatman john:快嘴约翰
+scatophagidae:金钱鱼科
 scatophagus argus:金钱鱼
-scatophagus tetracanthus:四棘金錢魚
+scatophagus tetracanthus:四棘金钱鱼
 scatopsidae:伪毛蚋科
 scatter and hide:分散和隐藏
 scatter conscience money:分散良心钱
 scatter conscience:分散良心
-scatter fall:散髮瀑
+scatter fall:散发瀑
 scatter it:分散它
 scatter matrix:散布矩阵
 scatter my:分散我的
 scatter plans:分散计划
-scatter plot:散布圖
+scatter plot:散布图
 scatter points through:分散点通过
 scatter points:分散点
 scatter symbol:分散符号
@@ -871,7 +862,7 @@ scatter you:分散你
 scatter you:分散你们
 scatter your:分散你的
 scatter:分散
-scattered disc:離散盤
+scattered disc:离散盘
 scattered islands in the indian ocean:法属印度洋诸岛
 scattering a few:散射几
 scattering ability:散射能力
@@ -944,7 +935,7 @@ scattering performance:散射性能
 scattering phenomena:散射现象
 scattering phenomenon:散射现象
 scattering pigeon:散射鸽子
-scattering positron:散射正電子
+scattering positron:散射正电子
 scattering principle:散射原理
 scattering problems:散射问题
 scattering process:散射过程
@@ -965,15 +956,13 @@ scattering surface:散射表面
 scattering technique:散射技术
 scattering techniques:散射技术
 scattering technology:散射技术
-scattering theory and accelerator:散射理論和加速器
-scattering theory:散射理論
+scattering theory and accelerator:散射理论和加速器
 scattering theory:散射理论
 scattering ultraviolet:散射紫外线
 scattering wave:散射波
 scattering:散射
 scau college of humanities and law:华南农业大学人文与法学学院
-scau college of humanities and law:華南農業大學人文與法學學院
-scavenger:食腐動物
+scavenger:食腐动物
 scavengers reign:拾荒者统治
 scc:scc中洲控股中心
 sceau saint angel:索圣昂热勒
@@ -983,15 +972,14 @@ sceaux sur huisne:于讷河畔索
 scedosporium:赛多孢菌属
 sceilg mhichíl:斯凯利格·迈克尔岛
 sceilig mhichíl:斯凯利格·迈克尔岛
-scelidosauridae:腿龍科
-scelidosaurus:腿龍屬
+scelidosauridae:腿龙科
+scelidosaurus:腿龙属
 scelimena:刺翼蚱属
-scelionidae:緣腹細蜂科
+scelionidae:缘腹细蜂科
 scellus:齿角长足虻属
-sceloglaux albifacies:笑鴞
+sceloglaux albifacies:笑鸮
 scelotes:腿蜥属
 scenaric viewpoint:天然图画
-scenaric viewpoint:天然圖畫
 scenario analysis tools:情景分析工具
 scenario analysis:情景分析
 scenario is you:情形是你
@@ -1006,9 +994,9 @@ scend rocks:森德岩
 scene at the signing of the constitution of the united states:签署美利坚合众国宪法的情景
 scene graph render:场景图渲染
 scene graph:场景图
-scenecliff tower i:承德山莊第一座
-scenecliff tower ii:承德山莊第二座
-scenecliff:承德山莊
+scenecliff tower i:承德山庄第一座
+scenecliff tower ii:承德山庄第二座
+scenecliff:承德山庄
 scenedesmaceae:栅藻科
 scenedesmus:栅藻属
 scenery and culture:风景和文化
@@ -1035,17 +1023,17 @@ scenery but she:风景但她
 scenery can change their:风景可以改变他们的
 scenery charming:风景迷人
 scenery chewing:风景咀嚼
-scenery court arcade:蔚景園商場
-scenery court:甘芳閣
-scenery court:蔚景園
+scenery court arcade:蔚景园商场
+scenery court:甘芳阁
+scenery court:蔚景园
 scenery elements:风景元素
 scenery forget:风景忘记
-scenery garden:豐景花園
+scenery garden:丰景花园
 scenery go:风景去
 scenery hungary:风景匈牙利
 scenery in south africa:风景在南非
 scenery line:风景线
-scenery mansion:匯景大廈
+scenery mansion:汇景大厦
 scenery offer:风景提供
 scenery on the road:风景在路上
 scenery painter:风景画家
@@ -1060,87 +1048,73 @@ scenery she:风景她
 scenery slowly:风景慢慢地
 scenery tourism:风景旅游
 scenery until:风景直到
-scenery view pavilion:觀景亭
-scenery viewing pavilion:觀賞亭
-scenery viewing rd.:觀景路
+scenery view pavilion:观景亭
+scenery viewing pavilion:观赏亭
 scenery viewing rd.:观景路
 scenery was vulgar:风景是粗俗的
 scenery will:风景会
 scenery yes:风景是
 scenery:风景
-scenes from the life of saint zenobius:聖澤諾比烏斯的生活場景
+scenes from the life of saint zenobius:圣泽诺比乌斯的生活场景
 scenes from the passion of christ:基督受难记
 scenes of city life:都市风光
-sceneway garden:匯景花園
-sceneway garden:滙景花園
-sceneway plaza:匯景廣場
-sceneway plaza:滙景廣場
-sceneway road:匯景道
-scenic blast:熱爆景點
-scenic boulevard:景觀大道
+sceneway garden:汇景花园
+sceneway garden:滙景花园
+sceneway plaza:汇景广场
+sceneway plaza:滙景广场
+sceneway road:汇景道
+scenic blast:热爆景点
+scenic boulevard:景观大道
 scenic bridge:景观桥
-scenic court:秀怡閣
-scenic crest:卓濤軒
+scenic court:秀怡阁
+scenic crest:卓濤轩
 scenic design:剧场设计
 scenic garden block 1:福苑第1座
 scenic garden block 2:福苑第2座
 scenic garden:福苑
-scenic gardens:御景園
-scenic heights:富景花園
-scenic heights:峰景豪園
-scenic hill tunnel closed area:觀景山隧道禁區
-scenic hill tunnel:觀景山隧道
-scenic hill:觀景山
+scenic gardens:御景园
+scenic heights:富景花园
+scenic heights:峰景豪园
+scenic hill tunnel closed area:观景山隧道禁区
+scenic hill tunnel:观景山隧道
 scenic hill:观景山
-scenic horizon:御景軒
 scenic horizon:御景轩
-scenic lodge:怡晴軒
-scenic platform:觀景台
-scenic platform:闊景平台
-scenic rim region:西斯寧緣區政府
-scenic rise:御景臺
-scenic road:觀景路
+scenic lodge:怡晴轩
+scenic platform:观景台
+scenic platform:阔景平台
+scenic rim region:西斯宁缘区政府
+scenic rise:御景台
 scenic road:观景路
-scenic tower 1:優景閣第1座
-scenic tower 2:優景閣第2座
-scenic tower 3:優景閣第3座
-scenic tower 5:優景閣第5座
-scenic tower 6:優景閣第6座
-scenic view villa:海灣別墅
-scenic view:曉暉花園
+scenic tower 1:优景阁第1座
+scenic tower 2:优景阁第2座
+scenic tower 3:优景阁第3座
+scenic tower 5:优景阁第5座
+scenic tower 6:优景阁第6座
+scenic view villa:海湾別墅
+scenic view:晓晖花园
 scenic villa drive:美景径
-scenic villa drive:美景徑
 scenic villa:秀明別墅
 scenic villas block a-b:美景台a-b座
-scenic villas block a-b:美景臺a-b座
 scenic villas block c-d:美景台c-d座
-scenic villas block c-d:美景臺c-d座
 scenic villas block e-f:美景台e-f座
-scenic villas block e-f:美景臺e-f座
 scenic villas block g-h:美景台g-h座
-scenic villas block g-h:美景臺g-h座
 scenic villas block i-j:美景台i-j座
-scenic villas block i-j:美景臺i-j座
 scenic villas block k-l:美景台k-l座
-scenic villas block k-l:美景臺k-l座
 scenic villas block m-n:美景台m-n座
-scenic villas block m-n:美景臺m-n座
 scenic villas multistorey car park:美景台多层停车场
-scenic villas multistorey car park:美景臺多層停車場
 scenic villas:美景台
-scenic villas:美景臺
-scenic villas:翠麗山莊
+scenic villas:翠丽山庄
 scent cafe:香手捻咖啡
 sceptile:蜥蜴王
-sceptre of christ:權杖的基督
-sceptre:權杖
+sceptre of christ:权杖的基督
+sceptre:权杖
 sceptridium multifidum:多裂阴地蕨
 sceptrulophora:权杖海绵目
 sceptrum brandenburgicum:勃兰登王笏座
 sceptrum et manus iustitiae:正义王笏座
-sceret garden:祕密花園
+sceret garden:祕密花园
 scerni:谢尔尼
-scesa point:謝薩角
+scesa point:谢萨角
 schaafheim:沙夫海姆
 schaalby:沙尔比
 schaale:沙勒河
@@ -1150,31 +1124,31 @@ schaan said:沙恩说
 schaan:沙恩
 schaarbeek railway station:斯哈尔贝克站
 schabatz:沙巴茨
-schabelkiwka:沙貝利基夫卡
-schabelnja:沙別利尼亞
-schabinka:扎賓卡
+schabelkiwka:沙贝利基夫卡
+schabelnja:沙別利尼亚
+schabinka:扎宾卡
 schabokrytsch:扎博克里奇
 schabotsch:扎博奇
 schabwa:舍卜沃省
-schabynja:扎比尼亞
+schabynja:扎比尼亚
 schachen bei vorau:福劳附近沙亨
 schachendorf:沙亨多夫
 schachowskaja:沙霍夫斯卡亚
-schachtarsk:沙赫喬爾斯克
+schachtarsk:沙赫乔尔斯克
 schachtebich:沙赫特比希
 schachtjorsk:沙赫乔尔斯克
 schachty:沙赫特
-schachunja:沙胡尼亞
-schachworostiwka:沙赫沃羅斯季夫卡
+schachunja:沙胡尼亚
+schachworostiwka:沙赫沃罗斯季夫卡
 schachy:沙希
 schackendorf:沙肯多夫
 schackgalerie:沙克画廊
 schadau castle:沙道城堡
-schadenfreude comprise:幸災樂禍包括
-schadenfreude:幸災樂禍
+schadenfreude comprise:幸灾乐祸包括
+schadenfreude:幸灾乐祸
 schadkiwka:扎德基夫卡
 schadrinsk:沙德林斯克
-schaefer islands:謝弗群島
+schaefer islands:谢弗群岛
 schaefer:夏佛
 schaeffersheim:舍费尔赛姆
 schaeffler group:舍弗勒
@@ -1194,9 +1168,9 @@ schaffusa:沙夫豪森
 schafisheim castle:沙菲沙伊姆城堡
 schafisheim:沙菲沙伊姆
 schafkopf:羊头牌
-schafmatt:沙夫馬特山
-schafreuter:沙羅伊特山
-schafsiedel:沙夫西德爾山
+schafmatt:沙夫马特山
+schafreuter:沙罗伊特山
+schafsiedel:沙夫西德尔山
 schafstedt:沙夫施泰特
 schafuuse:沙夫豪森
 schagen:斯哈亨
@@ -1206,11 +1180,11 @@ schaich-zayid-moschee:谢赫扎耶德大清真寺
 schalbach:沙尔巴克
 schalburg cross:沙尔堡十字章
 schalchen:沙尔兴
-schalfkogel:沙爾夫科格爾山
+schalfkogel:沙尔夫科格尔山
 schali:沙里
 schalihorn:沙利峰
 schalja:沙利亚
-schalk and kopf v austria:夏克與科夫訴奧地利案
+schalk and kopf v austria:夏克与科夫诉奧地利案
 schalkau:沙尔考
 schalkenbach:沙尔肯巴赫
 schalkendorf:沙尔肯多夫
@@ -1221,13 +1195,13 @@ schallaburg castle:沙拉布尔格城堡
 schallbach:沙尔巴赫
 schallodenbach:沙洛登巴赫
 schallstadt:沙尔施塔特
-schalqar:沙爾卡爾
-schalunen:沙盧嫩
-schamal asch-scharqiyya:東北省
-schamaniwka:沙馬尼夫卡
+schalqar:沙尔卡尔
+schalunen:沙卢嫩
+schamal asch-scharqiyya:东北省
+schamaniwka:沙马尼夫卡
 schambyl:江布尔州
 schambyl:江布州
-schamchal:沙姆哈爾
+schamchal:沙姆哈尔
 schamilkala:沙米利卡拉
 schandi:沉迪
 schandorf:尚多夫
@@ -1237,7 +1211,7 @@ schanghai:上海
 schanghai:上海市
 schangnau:尚瑙
 schankweiler:尚克韦勒
-schanuel's lemma:尚努埃爾引理
+schanuel's lemma:尚努埃尔引理
 schanz glacier:斯坎斯冰川
 schapen:沙彭
 schaprode:沙普罗德
@@ -1247,17 +1221,16 @@ schardara-talsperre:沙达拉水库
 schardenberg:沙登贝格
 schardscha:夏尔迦
 schardscha:沙迦
-schardscha:沙迦酋長國
+schardscha:沙迦酋长国
 schareck:沙雷克山
 scharfbillig:沙尔夫比利希
 scharfrichterhaus:刽子手之家
 scharhorod:沙尔霍罗德
-scharhorod:沙爾霍羅德
 schari:沙里河
-scharja:沙里亞
+scharja:沙里亚
 scharkent:扎尔肯特
 scharm el scheich:沙姆沙伊赫
-scharmbecker bach:沙爾姆貝克巴赫河
+scharmbecker bach:沙尔姆贝克巴赫河
 scharndorf:沙恩多夫
 scharnebeck:沙讷贝克
 scharnhorst class battleship:沙恩霍斯特级战列舰
@@ -1265,10 +1238,10 @@ scharnhorst class cruiser:沙恩霍斯特级大巡洋舰
 scharnitz abbey:沙尔尼茨修道院
 scharnitz:沙尔尼茨
 scharnstein:沙恩施泰因
-scharon bluff:沙龍海崖
-scharrenberger bach:沙倫貝格巴赫河
+scharon bluff:沙龙海崖
+scharrenberger bach:沙伦贝格巴赫河
 scharten:沙尔滕
-schartschrofen:沙奇羅芬山
+schartschrofen:沙奇罗芬山
 schary:扎里
 scharyn-nationalpark:恰伦国家公园
 schashagen:沙斯哈根
@@ -1280,9 +1253,9 @@ schatt al-arab:阿拉伯河
 schatten norm:沙滕范数
 schattenburg:沙滕城堡
 schattendorf:沙滕多夫
-schattenhalb:沙滕哈爾布
+schattenhalb:沙滕哈尔布
 schattwald:沙特瓦尔德
-schatura:沙圖拉
+schatura:沙图拉
 schatzberg:沙茨山
 schatzschiff zheng he:郑和宝船
 schauenburg continue:绍恩堡继续
@@ -1293,42 +1266,40 @@ schaufling:绍夫灵
 schauinsland:绍因斯兰山
 schaumainkai:绍美因凯
 schaumburg:绍姆堡县
-schaus ice rises:紹斯冰隆
+schaus ice rises:绍斯冰隆
 schazk:沙茨克
 schchara:什哈拉山
 schdaniwka:日丹尼夫卡
 schduggad:斯图加特
-schduggad:斯圖加特
 schebalino:舍巴利诺
-schebekino:舍別基諾
+schebekino:舍別基诺
 scheberghan:希比尔甘
-scheberghan:希比尔甘/希比爾甘
-scheberghan:希比爾甘
+scheberghan:希比尔甘/希比尔甘
 schechen:谢兴
 schechingen:谢兴根
 scheden:谢登
-schedophilus medusophagus:冰島高體鯧
+schedophilus medusophagus:冰岛高体鯧
 schedule change:计划表改变
-schedule require:時間表需要
-schedule still exist:時間表仍然存在
-schedule still:時間表仍然
+schedule require:时间表需要
+schedule still exist:时间表仍然存在
+schedule still:时间表仍然
 schedule system:计划表系统
 schedule will support you:计划表将支持你
 schedule would:计划表将
-schedule:時間表
+schedule:时间表
 schedule:计划表
 scheduled castes and scheduled tribes:表列种姓和表列部落
 scheduled monument:在册古迹
-scheebach:謝巴赫河
+scheebach:谢巴赫河
 scheegeising:申盖辛格
-scheele's green:謝勒綠
+scheele's green:谢勒绿
 scheelite:白钨矿
 scheenstia:申斯蒂鱼属
-scheepmaker's crowned pigeon:紫胸鳳冠鳩
-scheepvaarthuis:航運大樓
+scheepmaker's crowned pigeon:紫胸凤冠鳩
+scheepvaarthuis:航运大楼
 scheffau am tennengebirge:滕嫩山麓舍福
 scheffau am wilden kaiser:凯撒山麓舍福
-scheffauer:舍福爾山
+scheffauer:舍福尔山
 schefflenz:谢夫伦茨
 schefflera rubriflora:红花鹅掌柴
 schefflera:南鹅掌柴属
@@ -1342,13 +1313,12 @@ scheibbs:沙伊布斯
 scheibenberg:沙伊本贝格
 scheibenhard:沙伊伯纳德
 scheibenhardt:沙伊本哈特
-scheiblingstein:沙伊布靈斯泰因山
+scheiblingstein:沙伊布灵斯泰因山
 scheiditz:沙伊迪茨
 scheidplatz station:沙伊德广场站
-scheier:穀倉
 scheier:谷仓
 scheifling:沙伊夫灵
-scheimpflug nunatak:沙因普弗盧格冰原島峰
+scheimpflug nunatak:沙因普弗卢格冰原岛峰
 scheinfeld:沙因费尔德
 scheitenkorb:沙伊滕科尔布
 scheksna:舍克斯纳
@@ -1362,20 +1332,20 @@ scheldt:斯海尔德河
 schelesnogorsk-ilimski:热列兹诺戈尔斯克-伊利姆斯基
 schelesnogorsk:热列兹诺戈尔斯克
 schelesnowodsk:热列兹诺沃茨克
-schelf church:謝爾夫教堂
+schelf church:谢尔夫教堂
 schelklingen:谢尔克林根
 schelle:斯海勒
-schellenbeck:謝倫貝克河
+schellenbeck:谢伦贝克河
 schellenberg smuggling incident:谢伦伯格走私毒品案
 schellenberg:施伦贝格
 schellerten:谢勒滕
 schellhorn:谢尔霍恩
-schellschlicht:謝爾施利赫特山
+schellschlicht:谢尔施利赫特山
 schellweiler:谢尔韦勒
-schelly:點白鮭
+schelly:点白鮭
 scheloribatidae:菌甲螨科
 schelten:谢尔滕
-schelwiw:舍利維夫
+schelwiw:舍利维夫
 schematic began:示意图开始
 schematic design:示意图设计
 schematic layout:示意图布局
@@ -1399,7 +1369,7 @@ schengen area members:申根区成员
 schengen area nation:申根区国家
 schengen area:申根区
 schengen information system:申根信息系统
-scheniw:熱尼夫
+scheniw:热尼夫
 schenkelberg:申克尔贝格
 schenkenfelden:申肯费尔登
 schenkenzell:申肯采尔
@@ -1411,12 +1381,12 @@ schenley farms historic district:申利农场历史区
 schenna:谢纳
 schepetiwka:舍彼托夫卡
 schepetyn:舍佩京
-schepylowe:舍皮洛韋
-scherbadung:舍巴東山
+schepylowe:舍皮洛韦
+scherbadung:舍巴东山
 scherbakul:舍尔巴库尔
-scherdeli:熱爾傑利
+scherdeli:热尔杰利
 scherebez:热列别茨河
-scherebkowe:熱列布科韋
+scherebkowe:热列布科韦
 scheregesch:舍列格什
 schering plough:先灵葆雅
 schering-plough:先灵葆雅
@@ -1424,31 +1394,30 @@ scherlenheim:谢尔勒奈姆
 scherlowaja gora:舍尔洛瓦亚戈拉
 schermbeck:谢姆贝克
 schermer:斯海默
-schermerhorn symphony center:舍默霍恩交響樂中心
-schermerspitze:謝梅爾峰
+schermerhorn symphony center:舍默霍恩交响乐中心
+schermerspitze:谢梅尔峰
 schermo informazioni voli:航班信息显示屏
 schernfeld:谢恩费尔德
 scherrer equation:谢乐公式
-scherschenzi:舍爾申齊
+scherschenzi:舍尔申齐
 scherstetten:谢尔施泰滕
 scherwiller:谢尔维莱尔
 scherz:舍茨
 scherzo:诙谐曲
-schesaplana:謝薩普拉納山
+schesaplana:谢萨普拉纳山
 scheschart:热沙尔特
-schescheliw:熱熱利夫
+schescheliw:热热利夫
 schesqasghan:杰兹卡兹甘
 scheuder:绍伊德
-scheuerbach:紹伊爾巴赫河
+scheuerbach:绍伊尔巴赫河
 scheuerfeld:绍伊尔费尔德
 scheuermann's disease:舒尔曼病
 scheuern:绍伊埃尔恩
 scheuern:绍伊尔恩
-scheune:穀倉
 scheune:谷仓
-scheunen:紹伊嫩
+scheunen:绍伊嫩
 scheurebe:施埃博
-scheuren:紹伊倫
+scheuren:绍伊伦
 scheuring:绍伊灵
 schevchenko park:舍甫琴科公园
 scheveningen beach:斯海弗宁恩海滩
@@ -1462,30 +1431,29 @@ schewtschenkiwske:舍夫琴基夫西克
 schewtschenko-park:舍甫琴科公园
 schewtschenko:舍夫琴科
 schewtschenko:舍甫琴柯
-schewtschenkowe:舍夫琴科韋
 schewtschenkowe:舍夫琴科韦
 schewtschenky:舍夫琴基
 scheyern:沙伊恩
-schiahorn:席亞山
-schiara:斯基亞拉山
-schiaschkotan:捨子古丹島
+schiahorn:席亚山
+schiara:斯基亚拉山
+schiaschkotan:舍子古丹岛
 schiavon:斯基亚翁
-schibe:施貝山
+schibe:施贝山
 schibsted:施伯史泰德
 schidamas:斯希丹
-schidnyzja:斯希德尼齊亞
+schidnyzja:斯希德尼齐亚
 schie:斯希河
 schiedam:斯希丹
 schiedlberg:席德尔贝格
 schiefer turm von pisa:比萨斜塔
-schiehallion experiment:榭赫倫實驗
+schiehallion experiment:榭赫伦实验
 schienenzeppelin:铁道齐柏林
 schieren:希伦
-schierenbeke:希倫貝克河
+schierenbeke:希伦贝克河
 schierensee:希伦塞
 schierling:希灵
-schiermonnikoog national park:斯希蒙尼克島國家公園
-schiermonnikoog:斯希蒙尼克島
+schiermonnikoog national park:斯希蒙尼克岛国家公园
+schiermonnikoog:斯希蒙尼克岛
 schiers:希尔斯
 schiersfeld:希尔斯费尔德
 schiesheim:希斯海姆
@@ -1493,7 +1461,7 @@ schiff base:希夫碱
 schiff test:席夫试验
 schiffbau- und marinemuseum:造船舰队博物馆
 schiffdorf:希夫多夫
-schiffenensee:希費嫩湖
+schiffenensee:希费嫩湖
 schifferstadt:希弗施塔特
 schifflache:希弗拉黑河
 schifflange:希夫朗日
@@ -1508,37 +1476,35 @@ schignano:斯基尼亚诺
 schiguljowsk:日古廖夫斯克
 schiile:智利
 schiina:zhōngguó
+schiina:中华人民共和国
 schiina:中国
-schiina:中國
-schiina:中華人民共和國
-schijenflue:沙伊因弗盧赫山
+schijenflue:沙伊因弗卢赫山
 schijndel:斯海恩德尔
-schikotan:色丹島
-schilbe intermedius:中間錫伯鯰
-schilbe moebiusii:莫氏錫伯鯰
-schilbeidae:北非鯰科
-schilda:席爾達
+schikotan:色丹岛
+schilbe intermedius:中间锡伯鲶
+schilbe moebiusii:莫氏锡伯鲶
+schilbeidae:北非鲶科
+schilda:席尔达
 schildau:希尔道
 schilde:斯希尔德
-schildenstein:希爾登斯泰因山
+schildenstein:希尔登斯泰因山
 schildergasse:希尔德巷
 schilderia:希达贝属
 schildetal:希尔德塔尔
-schildflue:施爾德弗盧山
-schildkrötenturm:龜塔
+schildflue:施尔德弗卢山
 schildkrötenturm:龟塔
 schildorn:希尔多恩
 schildpadden vijver:乌龟池
-schildspitze:希爾德峰
+schildspitze:希尔德峰
 schilka:石勒喀河
 schillaci:斯基拉奇
-schillerbach:希爾勒巴赫河
+schillerbach:希尔勒巴赫河
 schillersdorf:希勒斯多夫
 schillingen:希林根
 schillingstedt:希灵施泰特
 schillsdorf:希尔斯多夫
 schilpario:斯基尔帕里奥
-schilt:希爾特山
+schilt:希尔特山
 schiltach:希尔塔赫
 schiltberg:希尔特贝格
 schilthorn:希尔特峰
@@ -1548,20 +1514,20 @@ schima wallichii:西南木荷
 schima:柯树属
 schimberg:欣贝格
 schimbrig:欣布里格山
-schimper glacier:希姆帕爾冰川
+schimper glacier:希姆帕尔冰川
 schimsk:希姆斯克
 schin op geul:赫尔河畔斯欣
 schinde:xīn dié cūn
 schindhard:欣德哈德
 schindler china:迅达电梯有限公司
-schindler group:迅達集團
+schindler group:迅达集团
 schindler's ark:辛德勒方舟
 schindler's food court:申德勒加油站
 schindler's list:辛德勒的名单
-schindleria brevipinguis:斯托特辛氏魚
-schindleria pietschmanni:等鰭辛氏魚
-schindleria praematura:早熟辛氏魚
-schindlerjuden:舒特拉猶太人
+schindleria brevipinguis:斯托特辛氏鱼
+schindleria pietschmanni:等鳍辛氏鱼
+schindleria praematura:早熟辛氏鱼
+schindlerjuden:舒特拉犹太人
 schindlers auto ladestelle:申德勒加油站西餐厅
 schineria:嗜寄蝇属
 schinhorn:欣峰
@@ -1576,26 +1542,26 @@ schintoismus:神道
 schinus terebinthifolia:巴西肖乳香
 schinus:肖乳香属
 schinuvalium:茨欣瓦利
-schinznach bad:欣茨納赫巴德
-schinznach dorf:欣茨納赫多夫
+schinznach bad:欣茨纳赫巴德
+schinznach dorf:欣茨纳赫多夫
 schio:斯基奥
-schiolkovo:曉爾科沃
+schiolkovo:晓尔科沃
 schipbeek:斯希普河
-schiphol airport station:史基浦機場車站
-schiphol group:皇家史基浦集團
+schiphol airport station:史基浦机场车站
+schiphol group:皇家史基浦集团
 schiphorst:希普霍斯特
 schipkau:希普考
 schirak:希拉克省
 schirak:斯拉克省
 schiras:设拉子
+schire de varouic:华威郡
 schire de varouic:窩域郡
-schire de varouic:華威郡
-schirmacher hills:席爾馬赫山
-schirmacher oasis:施爾馬赫綠洲
+schirmacher hills:席尔马赫山
+schirmacher oasis:施尔马赫绿洲
 schirmbaum:伞树
 schirmeck:希尔梅克
 schirmitz:希尔米茨
-schirn kunsthalle frankfurt:席恩美術館
+schirn kunsthalle frankfurt:席恩美术馆
 schirnding:希恩丁
 schirnowsk:日尔诺夫斯克
 schirrhein:希赖恩
@@ -1612,9 +1578,9 @@ schischkinia:白刺菊属
 schisdra:日兹德拉
 schism of the russian church:俄罗斯正教会的教派分裂
 schism:教派分裂
-schismar:熱日馬里艾
+schismar:热日马里艾
 schismatoglottis:落檐属
-schismatorhynchos heterorhynchos:異裂吻魚
+schismatorhynchos heterorhynchos:异裂吻鱼
 schismus arabicus:齿稃草
 schismus:齿稃草属
 schist or gold:片岩或金子
@@ -1623,14 +1589,14 @@ schist point:什斯特角
 schist:片岩
 schistes:楔嘴蜂鸟属
 schistidium:裂齿藓属
-schistochila:歧舌苔屬
+schistochila:歧舌苔属
 schistochilaceae:歧舌苔科
 schistochlamys:黄棕唐纳雀属
 schistonchus:裂钩线虫属
 schistophleps:珠苔蛾属
-schistosity:片状紋理
+schistosity:片状纹理
 schistosoma gene:血吸虫基因
-schistosoma haematobium:埃及血吸蟲
+schistosoma haematobium:埃及血吸虫
 schistosoma infect:血吸虫感染
 schistosoma japonicum:日本血吸虫
 schistosoma type:血吸虫类型
@@ -1654,172 +1620,172 @@ schistosomiasis parasite:血吸虫病寄生虫
 schistosomiasis require:血吸虫病需要
 schistosomiasis treatment:血吸虫病治疗
 schistosomiasis:血吸虫病
-schistura acuticephala:尖頭南鰍
-schistura afasciata:無帶南鰍
-schistura aizawlensis:艾藻爾南鰍
+schistura acuticephala:尖头南鰍
+schistura afasciata:无带南鰍
+schistura aizawlensis:艾藻尔南鰍
 schistura alticrista:高冠南鰍
-schistura amplizona:寬帶南鰍
+schistura amplizona:宽带南鰍
 schistura anambarensis:安那巴南鰍
-schistura antennata:大鬚南鰍
-schistura aramis:壯南鰍
+schistura antennata:大须南鰍
+schistura aramis:壮南鰍
 schistura arifi:阿氏南鰍
 schistura athos:老撾南鰍
 schistura atra:黑身南鰍
 schistura bachmaensis:承流河南鰍
-schistura bairdi:貝爾德南鰍
-schistura balteata:背紋南鰍
+schistura bairdi:贝尔德南鰍
+schistura balteata:背纹南鰍
 schistura baluchiorum:俾路支南鰍
-schistura bannaensis:版納南鰍
+schistura bannaensis:版纳南鰍
 schistura beavani:比氏南鰍
 schistura bolavenensis:湄公河南鰍
-schistura breviceps:短頭南鰍
+schistura breviceps:短头南鰍
 schistura callichroma:丽南鳅
-schistura callidora:麗體南鰍
-schistura carletoni:卡爾頓南鰍
-schistura cataracta:貓南鰍
+schistura callidora:丽体南鰍
+schistura carletoni:卡尔顿南鰍
+schistura cataracta:猫南鰍
 schistura caudofurca:叉尾南鰍
 schistura chapaensis:查帕恩南鰍
-schistura chindwinica:欽敦江南鰍
-schistura cincticauda:尾紋南鰍
-schistura clatrata:格紋南鰍
+schistura chindwinica:钦敦江南鰍
+schistura cincticauda:尾纹南鰍
+schistura clatrata:格纹南鰍
 schistura conirostris:锥吻南鳅
-schistura coruscans:波紋南鰍
+schistura coruscans:波纹南鰍
 schistura crabro:蜂南鰍
-schistura cryptofasciata:隱紋南鰍
+schistura cryptofasciata:隐纹南鰍
 schistura curtistigma:短斑南鰍
-schistura dalatensis:達拉特南鰍
+schistura dalatensis:达拉特南鰍
 schistura daubentoni:奧氏南鰍
-schistura dayi:達氏南鰍
+schistura dayi:达氏南鰍
 schistura deansmarti:迪氏南鰍
-schistura defectiva:軟南鰍
-schistura deignani:戴亞尼南鳅
+schistura defectiva:软南鰍
+schistura deignani:戴亚尼南鳅
 schistura denisoni:丹尼森南鰍
-schistura desmotes:帶紋南鰍
+schistura desmotes:带纹南鰍
 schistura devdevi:德氏南鰍
 schistura diminuta:倭南鰍
-schistura disparizona:異斑南鰍
-schistura doonensis:敦河條鰍
-schistura dorsizona:背帶南鰍
-schistura dubia:易變南鰍
+schistura disparizona:异斑南鰍
+schistura doonensis:敦河条鰍
+schistura dorsizona:背带南鰍
+schistura dubia:易变南鰍
 schistura ephelis:方斑南鰍
-schistura fascimaculata:條斑條鰍
-schistura finis:異鰭南鰍
-schistura fowleriana:亞洲南鰍
-schistura fusinotata:錘背南鰍
-schistura gangetica:恆河南鰍
+schistura fascimaculata:条斑条鰍
+schistura finis:异鳍南鰍
+schistura fowleriana:亚洲南鰍
+schistura fusinotata:锤背南鰍
+schistura gangetica:恒河南鰍
 schistura geisleri:吉氏南鰍
-schistura globiceps:圓頭南鰍
+schistura globiceps:圆头南鰍
 schistura greenei:格氏南鰍
-schistura harnaiensis:哈爾奈南鰍
-schistura himachalensis:喜馬查爾邦條鰍
+schistura harnaiensis:哈尔奈南鰍
+schistura himachalensis:喜马查尔邦条鰍
 schistura hingi:欣氏南鰍
-schistura hiranyakeshi:黑蘭亞克什河南鰍
-schistura horai:霍氏條鰍
-schistura huapingensis:華坪條鰍
+schistura hiranyakeshi:黑兰亚克什河南鰍
+schistura horai:霍氏条鰍
+schistura huapingensis:华坪条鰍
 schistura huongensis:香江南鰍
-schistura imitator:擬南鰍
+schistura imitator:拟南鰍
 schistura implicata:糙南鰍
 schistura incerta:无斑南鳅
 schistura indawgyiana:印多吉湖南鰍
-schistura irregularis:異南鰍
-schistura isostigma:同點南鰍
-schistura jarutanini:傑氏南鰍
+schistura irregularis:异南鰍
+schistura isostigma:同点南鰍
+schistura jarutanini:杰氏南鰍
 schistura kangjupkhulensis:印度南鰍
 schistura kaysonei:凱氏南鰍
 schistura kengtungensis:湄公南鰍
 schistura khamtanhi:哈氏南鰍
-schistura khugae:庫氏南鰍
+schistura khugae:库氏南鰍
 schistura kloetzliae:克洛氏南鰍
 schistura klydonion:小波南鰍
-schistura kodaguensis:柯達岡南鰍
+schistura kodaguensis:柯达冈南鰍
 schistura kohatensis:科哈特南鰍
-schistura kohchangensis:高欽南鰍
+schistura kohchangensis:高钦南鰍
 schistura kongphengi:康氏南鰍
 schistura kontumensis:昆嵩南鰍
-schistura laterimaculata:側斑南鰍
+schistura laterimaculata:侧斑南鰍
 schistura latidens:宽齿南鳅
 schistura latifasciata:宽纹南鳅
 schistura leukensis:勒克南鰍
-schistura lingyunensis:凌雲南鰍
-schistura machensis:馬奇南鰍
-schistura macrocephalus:大頭南鰍
-schistura macrolepis:大鱗南鰍
+schistura lingyunensis:凌云南鰍
+schistura machensis:马奇南鰍
+schistura macrocephalus:大头南鰍
+schistura macrolepis:大鳞南鰍
 schistura macrotaenia:大斑条鳅
-schistura maculiceps:斑頭南鰍
-schistura maculosa:點斑南鰍
-schistura madhavai:馬達瓦南鰍
-schistura maejotigrina:馬約氏南鰍
+schistura maculiceps:斑头南鰍
+schistura maculosa:点斑南鰍
+schistura madhavai:马达瓦南鰍
+schistura maejotigrina:马约氏南鰍
 schistura magnifluvis:大川南鰍
-schistura mahnerti:馬氏南鰍
-schistura malaisei:雲紋南鰍
-schistura manipurensis:馬尼南鰍
-schistura melarancia:南烏江南鰍
+schistura mahnerti:马氏南鰍
+schistura malaisei:云纹南鰍
+schistura manipurensis:马尼南鰍
+schistura melarancia:南乌江南鰍
 schistura menanensis:湄南南鰍
 schistura minuta:微南鰍
 schistura mobbsi:莫氏南鰍
 schistura moeiensis:漠恩南鰍
-schistura multifasciata:多紋南鰍
-schistura nagaensis:納加南鰍
-schistura nagodiensis:納戈德南鰍
+schistura multifasciata:多纹南鰍
+schistura nagaensis:纳加南鰍
+schistura nagodiensis:纳戈德南鰍
 schistura namboensis:南坡南鰍
 schistura nandingensis:南定南鳅
-schistura nasifilis:絲鼻南鰍
+schistura nasifilis:丝鼻南鰍
 schistura nicholsi:尼氏南鰍
-schistura nilgiriensis:尼爾吉里南鰍
-schistura niulanjiangensis:牛欄江南鰍
-schistura nomi:諾氏南鰍
-schistura notostigma:背點南鰍
-schistura novemradiata:九輻南鰍
+schistura nilgiriensis:尼尔吉里南鰍
+schistura niulanjiangensis:牛栏江南鰍
+schistura nomi:诺氏南鰍
+schistura notostigma:背点南鰍
+schistura novemradiata:九辐南鰍
 schistura nudidorsum:裸背南鳅
-schistura obeini:歐氏南鰍
+schistura obeini:欧氏南鰍
 schistura oedipus:神仙南鰍
 schistura orthocauda:直尾南鰍
 schistura pakistanica:巴基斯坦南鰍
 schistura papulifera:隆丘南鰍
-schistura paucicincta:少紋南鰍
-schistura paucifasciata:少帶南鰍
+schistura paucicincta:少纹南鰍
+schistura paucifasciata:少带南鰍
 schistura personata:假面南鰍
 schistura pertica:潘迪南鰍
-schistura pervagata:佩爾瓦南鰍
-schistura poculi:密帶南鰍
+schistura pervagata:佩尔瓦南鰍
+schistura poculi:密带南鰍
 schistura polytaenia:多纹条鳅
-schistura porthos:蟲紋南鰍
+schistura porthos:虫纹南鰍
 schistura pridii:普氏南鰍
-schistura pseudofasciolata:擬帶南鰍
-schistura psittacula:鸚南鰍
-schistura punctifasciata:斑條南鰍
-schistura quaesita:南貢南鰍
+schistura pseudofasciolata:拟带南鰍
+schistura psittacula:鹦南鰍
+schistura punctifasciata:斑条南鰍
+schistura quaesita:南贡南鰍
 schistura quasimodo:礫石南鰍
 schistura rara:稀有南鳅
 schistura reidi:雷氏南鰍
-schistura reticulata:網紋南鰍
-schistura reticulofasciata:網條南鰍
-schistura rikiki:賴氏南鰍
-schistura robertsi:勞氏南鰍
-schistura rupecula:裂條南鰍
-schistura russa:淡紅南鰍
+schistura reticulata:网纹南鰍
+schistura reticulofasciata:网条南鰍
+schistura rikiki:赖氏南鰍
+schistura robertsi:劳氏南鰍
+schistura rupecula:裂条南鰍
+schistura russa:淡红南鰍
 schistura savona:砂南鰍
-schistura scaturigina:阿薩姆南鰍
+schistura scaturigina:阿萨姆南鰍
 schistura schultzi:多鳞条鳅
 schistura semiarmata:半盔南鰍
 schistura sertata:橙斑南鰍
-schistura sexcauda:尾帶南鰍
+schistura sexcauda:尾带南鰍
 schistura shadiwalensis:沙迪威南鰍
 schistura sharavathiensis:沙拉瓦蒂南鰍
-schistura sigillata:印紋南鰍
+schistura sigillata:印纹南鰍
 schistura sijuensis:锡朱南鳅
 schistura sikmaiensis:锡克曼南鳅
 schistura similis:似南鰍
-schistura singhi:辛格氏條鰍
+schistura singhi:辛格氏条鰍
 schistura sokolovi:索氏南鰍
 schistura sombooni:松氏南鰍
 schistura spekuli:史氏南鰍
-schistura spiloptera:斑鰭南鰍
-schistura striata:橫條紋南鰍
-schistura susannae:蘇珊南鰍
+schistura spiloptera:斑鳍南鰍
+schistura striata:横条纹南鰍
+schistura susannae:苏珊南鰍
 schistura tenura:薄尾南鰍
 schistura thanho:清河南鰍
-schistura tigrina:虎紋南鰍
+schistura tigrina:虎纹南鰍
 schistura tirapensis:蒂拉普南鰍
 schistura tizardi:蒂氏南鰍
 schistura udomritthiruji:尤氏南鰍
@@ -1828,37 +1794,37 @@ schistura waltoni:瓦氏南鰍
 schistura xhatensis:西丁南鰍
 schistura yersini:耶氏南鰍
 schistura yingjiangensis:盈江条鳅
-schistura zonata:帶南鰍
+schistura zonata:带南鰍
 schistura:南鳅属
-schitiqara:傑特加拉
-schitt's creek:富家窮路
-schitu duca:斯基圖杜卡鄉
+schitiqara:杰特加拉
+schitt's creek:富家穷路
+schitu duca:斯基图杜卡乡
 schive chi:薛琦
 schivenoglia:斯基韦诺利亚
-schiza:斯希扎島
+schiza:斯希扎岛
 schizachyrium:裂稃草属
 schizaea:枝莎蕨属
 schizaeaceae:莎草蕨科
 schizaeales:莎草蕨目
 schizanthus:蛾蝶花属
-schizaphis graminum:麥二叉蚜
-schizaphis rotundiventris:莎草細毛足蚜
+schizaphis graminum:麦二叉蚜
+schizaphis rotundiventris:莎草细毛足蚜
 schizaphis:二叉蚜属
-schizaster:裂星海膽
+schizaster:裂星海胆
 schizoaffective disorder can help you:分裂情感障碍可以帮助你
 schizoaffective disorder:分裂情感障碍
 schizocephala:裂首螳属
-schizocypris brucei:裂鯉
-schizocypris ladigesi:拉氏裂鯉
-schizodon borellii:博氏裂齒脂鯉
-schizodon fasciatus:條紋裂齒脂鯉
-schizodon intermedius:中間裂齒脂鯉
-schizodon knerii:尼氏上口脂鯉
-schizodon:裂齒脂鯉屬
+schizocypris brucei:裂鲤
+schizocypris ladigesi:拉氏裂鲤
+schizodon borellii:博氏裂齿脂鲤
+schizodon fasciatus:条纹裂齿脂鲤
+schizodon intermedius:中间裂齿脂鲤
+schizodon knerii:尼氏上口脂鲤
+schizodon:裂齿脂鲤属
 schizoid personality disorder:分裂样人格障碍
 schizolachnus:单脉大蚜属
-schizolecis guntheri:岡瑟氏裂盤鯰
-schizolobium parahyba:粘葉豆
+schizolecis guntheri:冈瑟氏裂盘鲶
+schizolobium parahyba:粘叶豆
 schizomida:裂盾目
 schizomussaenda:裂果金花属
 schizonepeta:裂叶荆芥属
@@ -1921,71 +1887,71 @@ schizopygopsis kessleri:柴达木裸裂尻鱼
 schizopygopsis kialingensis:嘉陵裸裂尻鱼
 schizopygopsis labiosa:骨唇黄河鱼
 schizopygopsis malacanthus:软刺裸裂尻鱼
-schizopygopsis microcephala:小頭高原魚
-schizopygopsis namensis:納木錯裸鯉
+schizopygopsis microcephala:小头高原鱼
+schizopygopsis namensis:纳木错裸鲤
 schizopygopsis potanini:松潘裸鲤
-schizopygopsis przewalskii:青海湖裸鯉
+schizopygopsis przewalskii:青海湖裸鲤
 schizopygopsis pylzovi:黄河裸裂尻鱼
-schizopygopsis scleracanthus:拉孜裸鯉
+schizopygopsis scleracanthus:拉孜裸鲤
 schizopygopsis thermalis:温泉裸裂尻鱼
 schizopygopsis waddellii:高原裸鲤
 schizopygopsis younghusbandi:拉萨裸裂尻鱼
 schizopyrenida:裂芡目
-schizoretepora:裂網孔苔蘚蟲
+schizoretepora:裂网孔苔蘚虫
 schizosaccharomyces pombe:粟酒裂殖酵母
 schizosaccharomyces:裂殖酵母属
 schizostachyum:思劳竹属
 schizostoma:裂嘴壳属
-schizotheriinae:裂爪獸亞科
+schizotheriinae:裂爪兽亚科
 schizothoracinae:裂腹鱼亚科
 schizothorax biddulphi:塔里木弓鱼
-schizothorax chongi:細鱗裂腹魚
+schizothorax chongi:细鳞裂腹鱼
 schizothorax cryptolepis:隐鳞裂腹鱼
-schizothorax curvilabiatus:弓唇裂腹魚
-schizothorax davidi:重口裂腹魚
+schizothorax curvilabiatus:弓唇裂腹鱼
+schizothorax davidi:重口裂腹鱼
 schizothorax dolichonema:长丝弓鱼
 schizothorax dulongensis:独龙裂腹鱼
-schizothorax edenianus:阿富汗裂腹魚
+schizothorax edenianus:阿富汗裂腹鱼
 schizothorax elongatus:长身裂腹鱼
-schizothorax eurystomus:寬口裂腹魚
-schizothorax grahami:昆明裂腹魚
-schizothorax heterochilus:異唇裂腹魚
-schizothorax huegelii:赫氏準裂腹魚
-schizothorax integrilabiatus:完唇裂腹魚
-schizothorax kozlovi:四川裂腹魚
+schizothorax eurystomus:宽口裂腹鱼
+schizothorax grahami:昆明裂腹鱼
+schizothorax heterochilus:异唇裂腹鱼
+schizothorax huegelii:赫氏准裂腹鱼
+schizothorax integrilabiatus:完唇裂腹鱼
+schizothorax kozlovi:四川裂腹鱼
 schizothorax lantsangensis:澜沧弓鱼
-schizothorax lepidothorax:鱗胸裂腹魚
-schizothorax longibarbus:長鬚裂腹魚
-schizothorax macropogon:巨鬚裂腹魚
+schizothorax lepidothorax:鳞胸裂腹鱼
+schizothorax longibarbus:长须裂腹鱼
+schizothorax macropogon:巨须裂腹鱼
 schizothorax malacathus:软刺裂腹鱼
 schizothorax meridionalis:南方裂腹鱼
-schizothorax microstomus:小口裂腹魚
+schizothorax microstomus:小口裂腹鱼
 schizothorax myzostomus:吸口裂腹鱼
-schizothorax nepalensis:尼泊爾裂腹魚
-schizothorax niger:黑身準裂腹魚
-schizothorax ninglangensis:寧蒗裂腹魚
+schizothorax nepalensis:尼泊尔裂腹鱼
+schizothorax niger:黑身准裂腹鱼
+schizothorax ninglangensis:宁蒗裂腹鱼
 schizothorax nukiangensis:怒江弓鱼
-schizothorax oconnori:異齒裂腹魚
+schizothorax oconnori:异齿裂腹鱼
 schizothorax oligolepis:少鳞裂腹鱼
 schizothorax plagiostomus:横口裂腹鱼
 schizothorax prenanti:齐口弓鱼
-schizothorax sinensis:中華裂腹魚
+schizothorax sinensis:中华裂腹鱼
 schizothorax taliensis:大理鱲
-schizothorax waltoni:拉薩裂腹魚
-schizothorax yunnanensis paoshanensis:保山裂腹魚
-schizothorax yunnanensis weiningensis:威寧裂腹魚
-schizothorax yunnanensis yunnanensis:雲南裂腹魚
-schizothorax zarudnyi:伊朗裂臀魚
+schizothorax waltoni:拉萨裂腹鱼
+schizothorax yunnanensis paoshanensis:保山裂腹鱼
+schizothorax yunnanensis weiningensis:威宁裂腹鱼
+schizothorax yunnanensis yunnanensis:云南裂腹鱼
+schizothorax zarudnyi:伊朗裂臀鱼
 schizothorax:裂腹鱼属
 schizothyriaceae:裂盾菌科
-schizotrichaceae:裂鬚藻科
+schizotrichaceae:裂须藻科
 schizotypal personality disorder:分裂型人格障碍
 schkeuditz:施科伊迪茨
 schklo:什克洛
 schkopau:施科保
 schladen:施拉登
 schladitzer see:施拉迪茨湖
-schladming tauern:施拉德明陶恩山脈
+schladming tauern:施拉德明陶恩山脉
 schladming:施拉德明
 schladt:施拉特
 schlag bei thalberg:塔尔贝格附近施拉格
@@ -2000,8 +1966,8 @@ schlangen:施朗根
 schlangenbad:施朗根巴德
 schlangeninsel:蛇岛
 schlangensäule:螺旋圆柱
-schlans:施蘭斯
-schlappoltkopf:施拉波爾特山
+schlans:施兰斯
+schlappoltkopf:施拉波尔特山
 schlatbach:施拉特巴赫河
 schlatter glacier:施拉特冰川
 schlaubetal:施劳伯塔尔
@@ -2010,14 +1976,13 @@ schlechtendalia chinensis:五倍子蚜
 schlechtsart:施莱希茨阿特
 schleedorf:施莱多夫
 schleesien prowins:西里西亚省
-schleesien prowins:西里西亞省
 schlegel's asity:施氏裸眉鸫
 schlegel's japanese gecko:多疣壁虎
-schlegel:施勒格爾
+schlegel:施勒格尔
 schlegeliaceae:夷地黄科
-schlehdorf:施萊多夫
+schlehdorf:施莱多夫
 schleicher's fable:施莱谢尔寓言
-schleicher:施萊謝爾
+schleicher:施莱谢尔
 schleid:施莱德
 schleiden and theo:施莱登和西奥
 schleiden describe:施莱登描述
@@ -2025,8 +1990,8 @@ schleiden:施莱登
 schleife:施莱弗
 schleiferilactobacillus:施莱弗乳杆菌属
 schleifreisen:施莱夫赖森
-schleinikon:施萊尼孔
-schleissheim palace:施萊斯海姆宮
+schleinikon:施莱尼孔
+schleissheim palace:施莱斯海姆宮
 schleithal:什莱塔勒
 schleitheimia:施莱特海姆龙属
 schleiz:施莱茨
@@ -2038,25 +2003,23 @@ schlepzig:施莱普齐希
 schlern:施莱恩山
 schlesen:施莱森
 schlesiens vojvodskap:西里西亚省
-schlesiens vojvodskap:西里西亞省
-schlesinger building:施萊辛格大廈
+schlesinger building:施莱辛格大厦
 schlesinger library:施莱辛格图书馆
 schlesinger quote:施莱辛格引用
 schlesinger report:施莱辛格报告
 schlesinger said:施莱辛格说
 schlesinger:施莱辛格
 schlesiske voivodskap:西里西亚省
-schlesiske voivodskap:西里西亞省
-schleswig cathedral:什勒斯維希主教座堂
+schleswig cathedral:什勒斯维希主教座堂
 schleswig cathedral:石勒苏益格主教座堂
-schleswig war:石勒蘇益格戰爭
-schleswig-holstein:什勒斯維希—霍爾斯坦邦
+schleswig war:石勒苏益格战争
+schleswig-holstein:什勒斯维希—霍尔斯坦邦
 schleswig-holstein:石勒苏益格-荷尔斯泰因
 schleswig-holstein:石勒苏益格—荷尔斯泰因州
 schleswig:石勒苏益格
 schleswigsko-holsteinska:石勒苏益格-荷尔斯泰因
 schlettau:施莱陶
-schlettenbach:施萊滕巴赫河
+schlettenbach:施莱滕巴赫河
 schlettstadt:塞莱斯塔
 schlettstàdt:塞莱斯塔
 schleusegrund:施洛伊瑟格伦德
@@ -2067,89 +2030,89 @@ schlieferspitze:施利弗峰
 schlieffen plan order:施里芬计划命令
 schlieffen plan:施里芬计划
 schliengen:施林根
-schlieper bay:施利珀灣
+schlieper bay:施利珀湾
 schlier:施利尔
 schlierach:施利拉赫河
 schlieren photography:纹影法
-schlieren:紋影
-schliersberg:施利爾斯貝格山
+schlieren:纹影
+schliersberg:施利尔斯贝格山
 schlierschied:施利尔希德
-schliersee mountains:施利爾塞山
+schliersee mountains:施利尔塞山
 schliersee:施利尔塞
 schlingenbach:施林根巴赫河
 schlins:施林斯
 schlitters:施利特尔斯
 schlitzstraße:狭缝街
-schljamarka:什利亞馬爾卡河
+schljamarka:什利亚马尔卡河
 schlobin:日洛宾
-schlockau:斯瓦夫庫夫
+schlockau:斯瓦夫库夫
 schloenbachia:什雷巴菊石
 schloonsee:施洛翁湖
-schloredt nunatak:施洛雷特冰原島峰
-schloss amalienborg:阿馬林堡宮
+schloredt nunatak:施洛雷特冰原岛峰
+schloss amalienborg:阿马林堡宮
 schloss amboise:翁布瓦茲堡
-schloss bellevue:總統招待外賓館
+schloss bellevue:总统招待外宾馆
 schloss benrath:本拉特宮
 schloss borély:博雷利城堡
 schloss broich:布罗希城堡
 schloss cawdor:考德城堡
 schloss chambord:香波尔城堡
 schloss charlottenburg:夏洛滕堡宫
-schloss charlottenburg:夏洛騰堡宮
+schloss charlottenburg:夏洛腾堡宮
 schloss chenonceau:舍农索
 schloss chillon:西庸城堡
 schloss christiansborg:克里斯蒂安宫 登塔观光
 schloss colditz:科尔迪茨城堡
-schloss drachenburg:龍岩堡
-schloss elmau:艾爾莫城堡
+schloss drachenburg:龙岩堡
+schloss elmau:艾尔莫城堡
 schloss festetics:费斯特蒂奇宫
 schloss frederiksborg:菲特烈堡
 schloss herrenhausen:海恩豪森王宮
 schloss hetzendorf:赫岑多夫宮
-schloss johannisburg:約翰尼斯堡城堡
+schloss johannisburg:约翰尼斯堡城堡
 schloss kronborg:克隆堡
 schloss leopoldskron:雷翁波德斯克恩宮
 schloss lieser:利瑟城堡
 schloss linderhof:林德霍夫宫
-schloss meseberg:梅澤貝格宮
+schloss meseberg:梅泽贝格宮
 schloss molina de aragón:莫利纳阿拉贡城堡
 schloss monplaisir:老式的宫殿
 schloss montalbán:蒙塔尔班城堡
-schloss montsoreau:蒙特索羅城堡
+schloss montsoreau:蒙特索罗城堡
 schloss nymphenburg:宁芬堡
 schloss ort:沃特城堡
 schloss rosenborg:玫瑰宮
 schloss ruhenthal:朗德尔宫
-schloss sanssouci:無憂宮
+schloss sanssouci:无忧宮
 schloss schönbrunn:美泉宮
 schloss trakošćan:特拉科什恰恩城堡
-schloss und burg krumau:庫倫洛夫城堡
+schloss und burg krumau:库伦洛夫城堡
 schloss ussé:睡美人堡 萸瑟堡
 schloss vaduz:瓦杜茨城堡
-schloss velden:費爾登城堡
-schloss versailles:凡爾賽宮
-schloss von mora de ebro:莫拉德埃布羅城堡
-schloss vor husum:胡蘇姆城堡
+schloss velden:费尔登城堡
+schloss versailles:凡尔赛宮
+schloss von mora de ebro:莫拉德埃布罗城堡
+schloss vor husum:胡苏姆城堡
 schloss weimar:魏玛宫
 schloss wilhelminenberg:威廉海姆堡
-schloss windsor:溫莎城堡
-schloss windsor:溫莎堡
+schloss windsor:温莎城堡
+schloss windsor:温莎堡
 schloss zamora:萨莫拉城堡
 schloss Łańcut:万楚特城堡
-schlossauer ohe:施洛紹奧厄河
+schlossauer ohe:施洛绍奧厄河
 schlossberg:城堡山
-schlosser's base:施洛瑟鹼
+schlosser's base:施洛瑟碱
 schlosskirche akershus (garnisonskirche):阿克什胡斯教堂
 schlosspark:城堡公园
-schlosspark:皇家花園
-schlossrued:施洛斯呂德
-schlosswil:施洛斯維爾
+schlosspark:皇家花园
+schlossrued:施洛斯吕德
+schlosswil:施洛斯维尔
 schlotfeld:施洛特费尔德
 schlotheim:施洛特海姆
 schloßberg:城堡山
-schluchberg:施呂赫山
-schluchhorn:施盧赫峰
-schluchsee:施盧赫湖
+schluchberg:施吕赫山
+schluchhorn:施卢赫峰
+schluchsee:施卢赫湖
 schluderns:斯卢代尔诺
 schluein:什卢艾恩
 schlumberger agree:斯伦贝谢同意
@@ -2178,33 +2141,33 @@ schlumberger will:斯伦贝谢会
 schlumberger:斯伦贝谢
 schlumbergera truncata:蟹爪兰
 schlumbergera:仙人指属
-schlyschkiwzi:什利什基夫齊
-schmaar:施馬爾河
-schmachter see:施馬赫特湖
-schmala:施馬拉河
+schlyschkiwzi:什利什基夫齐
+schmaar:施马尔河
+schmachter see:施马赫特湖
+schmala:施马拉河
 schmale sinn:施米勒辛河
-schmalenhofer bach:施馬倫霍芬巴赫河
+schmalenhofer bach:施马伦霍芬巴赫河
 schmalensee:施马伦塞
-schmaler luzin:施馬爾盧欽湖
+schmaler luzin:施马尔卢钦湖
 schmalfeld:施马尔费尔德
 schmalkalden:施马尔卡尔登
-schmalkaldic league:施馬爾卡爾登聯盟
+schmalkaldic league:施马尔卡尔登联盟
 schmalkaldic war:施马尔卡尔登战争
-schmallenberg orthobunyavirus:施馬倫貝格病毒
+schmallenberg orthobunyavirus:施马伦贝格病毒
 schmallenberg virus:施马伦贝格病毒
 schmallenberg:施马伦贝格
 schmalstede:施马尔施泰德
-schmalwasser:施馬爾瓦瑟河
-schmargendorf:施馬根多夫
+schmalwasser:施马尔瓦瑟河
+schmargendorf:施马根多夫
 schmatzin:施马钦
 schmedeswurth:施梅德斯武特
 schmeheim:施梅海姆
-schmehl peak:施梅爾峰
+schmehl peak:施梅尔峰
 schmeichel said:舒梅切尔说
 schmeichel:舒梅切尔
 schmeissneria:施氏果属
 schmelz:施梅尔茨
-schmelzbach:施梅爾茨巴赫河
+schmelzbach:施梅尔茨巴赫河
 schmelzer lecture:施梅尔策讲座
 schmelzer:施梅尔策
 schmerikon:施梅里孔
@@ -2233,7 +2196,7 @@ schmidt began:施密特开始
 schmidt believe:施密特相信
 schmidt bible:施密特圣经
 schmidt call:施密特打电话给
-schmidt camera:施密特攝星儀
+schmidt camera:施密特摄星仪
 schmidt caution:施密特警告
 schmidt comment:施密特评论
 schmidt continue:施密特继续
@@ -2257,12 +2220,10 @@ schmidt insist:施密特坚持
 schmidt institute:施密特研究所
 schmidt is google:施密特是谷歌
 schmidt island:施密特岛
-schmidt island:施密特島
 schmidt last week:施密特上周
 schmidt measure:施密特测量
 schmidt number:施密特数
-schmidt number:施密特數
-schmidt nunataks:施密特冰原島峰
+schmidt nunataks:施密特冰原岛峰
 schmidt ocean health:施密特海洋健康
 schmidt ocean institute:施密特海洋研究所
 schmidt ocean:施密特海洋
@@ -2276,7 +2237,6 @@ schmidt peter:施密特彼得
 schmidt plans:施密特计划
 schmidt predict:施密特预测
 schmidt reaction:施密特反应
-schmidt reaction:施密特反應
 schmidt receive:施密特收到
 schmidt recently:施密特最近
 schmidt reports:施密特报告
@@ -2291,17 +2251,17 @@ schmidt telescope:施密特望远镜
 schmidt think:施密特认为
 schmidt usually:施密特通常
 schmidt write:施密特写
-schmidt's dace:施氏雅羅魚
+schmidt's dace:施氏雅罗鱼
 schmidt-insel:施密特岛
 schmidt:施密特
 schmidt:施密特岛
-schmidtea mediterranea:地中海渦蟲
+schmidtea mediterranea:地中海渦虫
 schmidthachenbach:施密特哈亨巴赫
 schmidtøya:施密特岛
 schmiechen:施米兴
 schmiedefeld am rennsteig:伦施泰格地区施米德费尔德
 schmiedehausen:施米德豪森
-schmiedrued:施米德呂德
+schmiedrued:施米德吕德
 schmieritz:施米里茨
 schmilau:施米劳
 schmirn:施米恩
@@ -2313,13 +2273,13 @@ schmitten im taunus:施米滕
 schmittviller:施米特维莱尔
 schmittwasser:施米特瓦瑟河
 schmittweiler:施米特韦勒
-schmitz park bridge:施米茨公園大橋
-schmollensee:施莫倫湖
+schmitz park bridge:施米茨公园大桥
+schmollensee:施莫伦湖
 schmorda:施莫尔达
 schmutter:施穆特河
 schmutzgeier:白兀鷲
-schmutzler nunatak:施穆茨勒冰原島峰
-schmyrky:什米爾基
+schmutzler nunatak:施穆茨勒冰原岛峰
+schmyrky:什米尔基
 schnabelia:四棱草属
 schnabelwaid:施纳伯尔韦德
 schnackenburg:施纳肯堡
@@ -2327,21 +2287,21 @@ schnaitsee:施奈特塞
 schnaittach:施奈塔赫
 schnaittenbach:施奈滕巴赫
 schnaittenboch:施奈滕巴赫
-schnakenbach:施納肯巴赫河
-schnakenbeck's searsid:大眼相模肩燈魚
+schnakenbach:施纳肯巴赫河
+schnakenbeck's searsid:大眼相模肩灯鱼
 schnakenbek:施纳肯贝克
 schnals:塞纳莱斯
-schnalser bach:斯克納爾瑟巴克河
+schnalser bach:斯克纳尔瑟巴克河
 schnaudertal:施瑙德塔尔
 schnaus:施瑙斯
-schnauzer:雪納瑞
+schnauzer:雪纳瑞
 schnebelhorn:施内伯尔峰
 schneckenbusch:什内肯比什
 schneckenhausen:施内肯豪森
 schneckenlohe:施内肯洛厄
-schneealpe:施內阿爾佩山
-schneebiger nock:施內比格諾克山
-schneefernerkopf:施內費訥山
+schneealpe:施內阿尔佩山
+schneebiger nock:施內比格诺克山
+schneefernerkopf:施內费訥山
 schneestock:施內施托克山
 schnega:施内加
 schneibstein:施奈布斯泰因山
@@ -2385,7 +2345,7 @@ schneider electric university:施耐德电气大学
 schneider electric uses:施耐德电气使用
 schneider electric:施耐德电气
 schneider glacier:施奈德冰川
-schneider grunau baby:格魯瑙寶貝滑翔機
+schneider grunau baby:格鲁瑙宝贝滑翔机
 schneider has been:施奈德已经
 schneider haus:施耐德之家
 schneider hills:施奈德山
@@ -2396,25 +2356,22 @@ schneider says:施奈德说
 schneider share:施奈德分享
 schneider suspect:施奈德怀疑
 schneider theorem:施奈德定理
-schneider trophy:史奈德盃
+schneider trophy:史奈德杯
 schneider's pitta:施氏八色鸫
 schneider-electric pump:施耐德电气泵
 schneider:施奈德
 schneisingen:施奈辛根
 schneizlreuth:施奈茨尔罗伊特
-schnell meister:速度大師
+schnell meister:速度大师
 schnella:医索藤属
 schnellbahn bahnhof:云南驿镇站
 schnelldorf:施内尔多夫
 schneller orphanage:施内勒尔孤儿院
-schnellfahrstrecke florenz–rom:佛羅倫薩—羅馬高速鐵路
+schnellfahrstrecke florenz–rom:佛罗伦萨—罗马高速铁路
+schnellfahrstrecke mumbai–ahmedabad:孟买–亚美达巴德高铁
 schnellfahrstrecke mumbai–ahmedabad:孟买–艾哈迈达巴德高铁
-schnellfahrstrecke mumbai–ahmedabad:孟買–亞美達巴德高鐵
 schnellfahrstrecke peking–shanghai:京沪高铁
-schnellfahrstrecke peking–shanghai:京滬高鐵
 schnellfahrstrecke shenyang–dandong:沈丹客运专线
-schnellfahrstrecke shenyang–dandong:瀋丹客運專線
-schnellfahrstrecke tianjin–qinhuangdao:津秦高速線
 schnellfahrstrecke tianjin–qinhuangdao:津秦高速线
 schnellstraße d100:d100国道
 schnepfau:施内普福
@@ -2429,22 +2386,22 @@ schnitzel and cake:炸肉排和蛋糕
 schnitzel is austria:炸肉排是奥地利
 schnitzel:炸肉排
 schnitzler's horseshoe bat:施氏菊头蝠
-schnjakiwka:什尼亞基夫卡
-schnoor:施諾爾
+schnjakiwka:什尼亚基夫卡
+schnoor:施诺尔
 schnorbach:施诺尔巴赫
-schnottwil:施諾斯維爾
-schnyder crystalline corneal dystrophy:施奈德結晶狀角膜營養不良
-schober group:舍貝爾山脈
-schobert nunatak:肖伯特冰原島峰
-schochen:紹興山
+schnottwil:施诺斯维尔
+schnyder crystalline corneal dystrophy:施奈德结晶状角膜营养不良
+schober group:舍贝尔山脉
+schobert nunatak:肖伯特冰原岛峰
+schochen:绍兴山
 schoden:绍登
-schodnica:斯希德尼齊亞
+schodnica:斯希德尼齐亚
 schoeck peak:舍克峰
 schoen action:舍恩行动
 schoen:舍恩
-schoenen op de donaukade:多腦河畔之鞋
+schoenen op de donaukade:多脑河畔之鞋
 schoenicola:芦莺属
-schoening peak:舍寧峰
+schoening peak:舍宁峰
 schoeniparus:乌线雀鹛属
 schoenoplectiella juncoides:萤蔺
 schoenoplectiella mucronata:水毛花
@@ -2453,36 +2410,31 @@ schoenoplectus tabernaemontani:莞
 schoenoplectus triqueter:三棱水葱
 schoenoplectus:水葱属
 schoenorchis:匙唇兰属
-schoenstatt unge helligdom:舍恩施塔特年輕神社
 schoenstatt unge helligdom:舍恩施塔特年轻神社
-schoenstatt young sanctuarii:舍恩施塔特年輕神社
 schoenstatt young sanctuarii:舍恩施塔特年轻神社
-schoenstatt young shrine:舍恩施塔特年輕神社
 schoenstatt young shrine:舍恩施塔特年轻神社
-schoenstatt young-schrijn:舍恩施塔特年輕神社
 schoenstatt young-schrijn:舍恩施塔特年轻神社
 schoenus apogon:矮赤箭莎
 schoepfia:香芙木属
 schoepfiaceae:青皮木科
-schofield barracks:斯科菲爾德營
-schofield peak:斯科菲爾德峰
-schofield tank:斯科菲爾德坦克
-schoina:紹伊納
+schofield barracks:斯科菲尔德营
+schofield peak:斯科菲尔德峰
+schofield tank:斯科菲尔德坦克
+schoina:绍伊纳
 schoinousa:斯希努萨岛
-schoinoussa:斯希努薩島
-schokalsky bay:紹卡利斯基灣
-schokino:曉基諾
+schoinoussa:斯希努萨岛
+schokalsky bay:绍卡利斯基湾
+schokino:晓基诺
 schokland museum:斯霍克兰博物馆
 schokland:斯霍克兰
 schola elementaria shirahama:白滨小学
 schola medica salernitana:萨勒诺医学院
 schola primaria kamisakai oppidi yokoshiba hikari:横芝光町上堺小学校
 schola princeps scientiarum Œconomicarum et commercii:华沙经济大学
-schola princeps scientiarum Œconomicarum et commercii:華沙經濟大學
 schola superiore yokoshiba keiai:横芝敬爱高中
 scholae palatinae:罗马宫廷卫队
-scholander island:舍蘭德島
-scholar & staff dormitory:學人招待所
+scholander island:舍兰德岛
+scholar & staff dormitory:学人招待所
 scholar adam:学者亚当
 scholar admit:学者承认
 scholar akbar:学者阿克巴
@@ -2573,7 +2525,6 @@ scholar hopes:学者希望
 scholar i:学者我
 scholar imam:学者伊玛目
 scholar immigration:学者移民
-scholar in residence:常駐學者
 scholar in residence:常驻学者
 scholar information system:学者信息系统
 scholar institute:学者研究所
@@ -2653,7 +2604,7 @@ scholar services:学者服务
 scholar share:学者分享
 scholar simon:学者西蒙
 scholar soul:学者灵魂
-scholar street:聚賢街
+scholar street:聚贤街
 scholar teach:学者教
 scholar tell:学者告诉
 scholar think:学者认为
@@ -2675,43 +2626,43 @@ scholar writing:学者写作
 scholar xu zhiyong:学者许志永
 scholar's family archway:一门科第坊
 scholar's mate:四回合将杀
-scholar's study:沁香仙館
+scholar's study:沁香仙馆
 scholar:学者
 scholarine:糖胶树碱
-scholarism:學民思潮
-scholarly communication:學術傳播
+scholarism:学民思潮
+scholarly communication:学术传播
 scholarly publishing and academic resources coalition:学术出版与学术资源联盟
 scholars hotel shanghai:书香世家酒店上海店
-scholars' lodge:聚賢居
-scholarship and education:獎學金和教育
-scholarship assistance:獎學金援助
-scholarship award:獎學金授予
-scholarship committee:獎學金委員會
-scholarship foundation:獎學金基金
-scholarship friends:獎學金朋友
-scholarship fund:獎學金基金
-scholarship level:普通教育證書獎學金級考試
-scholarship management:獎學金管理
-scholarship means:獎學金意味著
-scholarship platform:獎學金平台
-scholarship policy:獎學金政策
-scholarship provides:獎學金提供
-scholarship support:獎學金支持
-scholarship:獎學金
+scholars' lodge:聚贤居
+scholarship and education:奖学金和教育
+scholarship assistance:奖学金援助
+scholarship award:奖学金授予
+scholarship committee:奖学金委员会
+scholarship foundation:奖学金基金
+scholarship friends:奖学金朋友
+scholarship fund:奖学金基金
+scholarship level:普通教育证书奖学金级考试
+scholarship management:奖学金管理
+scholarship means:奖学金意味著
+scholarship platform:奖学金平台
+scholarship policy:奖学金政策
+scholarship provides:奖学金提供
+scholarship support:奖学金支持
+scholarship:奖学金
 scholastic corporation:学乐
-scholastic garden:俊傑花園
+scholastic garden:俊杰花园
 scholasticism and thomas:经院哲学和托马斯
 scholasticism began:经院哲学开始
 scholasticism:经院哲学
 scholen:绍伦
 scholl reaction:朔尔反应
 schollach:绍拉赫
-schollaert channel:紹萊爾特海峽
+schollaert channel:绍莱尔特海峡
 schollbrunn:绍尔布伦
 schollene:绍勒讷
-scholomance:通靈學院
-scholz cabinet:朔爾茨內閣
-scholz's star:舒爾茨星
+scholomance:通灵学院
+scholz cabinet:朔尔茨內阁
+scholz's star:舒尔茨星
 schomburgk line:尚伯克线
 schomburgk's deer:熊氏鹿
 schonach im schwarzwald:黑林山区绍纳赫
@@ -2722,7 +2673,7 @@ schondra:雄德拉
 schongau:雄高
 schonstett:雄施泰特
 schonungen:绍农根
-schoofs nunatak:紹夫斯冰原島峰
+schoofs nunatak:绍夫斯冰原岛峰
 school a long time:学校很长一段时间
 school ability test:学校能力测试
 school ability:学校能力
@@ -2746,7 +2697,6 @@ school actually:学校实际上
 school address:学校地址
 school administration and payment:学校管理和支付
 school administration building:尊师楼
-school administration building:尊師樓
 school administration officials:学校管理官员
 school administration will investigate:学校管理将调查
 school administration:学校管理
@@ -2944,7 +2894,7 @@ school autonomy:学校自主
 school average:学校平均
 school await:学校等待
 school awards:学校奖
-school babysitters:學園奶爸
+school babysitters:学园奶爸
 school background:学校背景
 school backpack:学校背包
 school badge:学校徽章
@@ -2956,11 +2906,11 @@ school bar:学校酒吧
 school barnard college:学校巴纳德学院
 school base:学校基地
 school baseball:学校棒球
-school based assessment:校本評核
-school based management policy:校本條例
+school based assessment:校本评核
+school based management policy:校本条例
 school basement:学校地下室
 school basketball:学校篮球
-school bass:無齒舒鮨
+school bass:无齿舒鮨
 school bathroom:学校浴室
 school be:学校成为
 school became a four-year:学校成为一个四年
@@ -2980,7 +2930,7 @@ school better:学校更好
 school bicycle:学校自行车
 school bike:学校自行车
 school biology:学校生物学
-school block:教學大樓
+school block:教学大楼
 school blog:学校博客
 school bloomberg businessweek:学校彭博商业周刊
 school board of directors:学校董事会
@@ -3002,7 +2952,7 @@ school building:学校建筑物
 school buildings and campus:学校建筑和校园
 school buildings and resources:学校建筑和资源
 school buildings:学校建筑
-school bullying:校園欺凌
+school bullying:校园欺凌
 school bus and once:校车和一次
 school bus and train traffic:校车和火车交通
 school bus and train:校车与火车
@@ -3049,7 +2999,7 @@ school cafeteria worker:学校食堂工人
 school cafeteria:学校食堂
 school calendar:学校日历
 school call:学校打电话给
-school camp:林間學校
+school camp:林间学校
 school camping:学校露营
 school campus:学校校园
 school can be:学校可以成为
@@ -3204,9 +3154,9 @@ school dance:学校跳舞
 school data:学校数据
 school david:学校大卫
 school day:学校日
-school days with a pig:和豬豬一起上課的日子
+school days with a pig:和猪猪一起上课的日子
 school days:学校天
-school daze:學校萬花筒
+school daze:学校万花筒
 school debate:学校辩论
 school debt:学校债务
 school decided:学校决定
@@ -3443,7 +3393,7 @@ school football team:学校足球队
 school football training:学校足球培训
 school football:学校足球
 school for advanced studies in the social sciences:社会科学高等学院
-school for higher and professional education:才晉高等教育學院
+school for higher and professional education:才晋高等教育学院
 school forever:学校永远
 school form:学校形式
 school forum:学校论坛
@@ -3471,7 +3421,6 @@ school game club:学校游戏俱乐部
 school game:学校游戏
 school games:学校游戏
 school garden:学校花园
-school garden:學校花園
 school gate stone:校门石
 school gate:学校大门
 school geography:学校地理
@@ -3519,10 +3468,9 @@ school health:学校健康
 school help:学校帮助
 school historical museum:校史陈列馆
 school history and tradition:学校历史和传统
-school history hall (shiu-ping hall):修平館
+school history hall (shiu-ping hall):修平馆
 school history lesson:学校历史课程
 school history museum of ucas:中国科学院大学校史馆
-school history museum of ucas:中國科學院大學校史館
 school history textbook:学校历史教科书
 school history:学校历史
 school hitler youth:学校希特勒青年
@@ -3542,8 +3490,8 @@ school hot:学校热
 school hotel:学校酒店
 school hour:学校小时
 school hours:学校小时
+school house:书院大楼
 school house:学校房子
-school house:書院大樓
 school how to:学校如何
 school hungry:学校饿
 school hygiene:学校卫生学
@@ -3684,12 +3632,11 @@ school library committee:学校图书馆委员会
 school library connection:学校图书馆连接
 school library host:学校图书馆主机
 school library information system:学校图书馆信息系统
-school library journal:學校圖書館學報
+school library journal:学校图书馆学报
 school library media center:学校图书馆媒体中心
 school library media:学校图书馆媒体
 school library professionals:学校图书馆专业人员
 school library:学校图书馆
-school library:學校圖書館
 school life and playground:学校生活和游乐场
 school life and policies:学校生活和政策
 school life balance:学校生活平衡
@@ -3752,7 +3699,7 @@ school math exam:学校数学考试
 school math:学校数学
 school mathematics:学校数学
 school meal:学校餐
-school meal:營養午餐
+school meal:营养午餐
 school means:学校意味着
 school media center:学校媒体中心
 school media:学校媒体
@@ -3817,21 +3764,17 @@ school of accounting and finance, bitzh:会计与金融学院
 school of administration of the state administration for industry and commerce:国家工商行政管理总局行政学院
 school of aeronautics and astronautics:航空航天学院
 school of aerospace:航空航天学院
-school of aerospace:航空航天學院
-school of alexandria:亞歷山大教導學院
+school of alexandria:亚历山大教导学院
 school of americas watch:学校的美洲手表
 school of americas:美洲学校
 school of antioch:安条克教理学院
 school of applied science and civil engineering, bitzh:数理与土木工程学院
-school of arab studies:阿拉伯語學院
 school of arab studies:阿拉伯语学院
 school of archaeology and museology:考古文博学院
-school of archaeology and museology:考古文博學院
 school of architecture engineering:建筑工程学院
 school of architecture of nancy:南锡国立高等建筑学校
 school of architecture:宁夏大学建筑学院
 school of architecture:建筑学院
-school of architecture:建築學院
 school of art form:学校的艺术形式
 school of art, design and media:艺术、设计和媒体学院
 school of art:学校的艺术
@@ -3854,19 +3797,17 @@ school of choice:选择学校
 school of chunghwa telecom:zhōnghuádiànxìnxuéyuàn
 school of chunghwa telecom:ㄓㄨㄥㄏㄨㄚˊㄉㄧㄢˋㄒㄧㄣˋㄒㄩㄝˊㄩㄢˋ
 school of chunghwa telecom:中华电信学院
-school of chunghwa telecom:中華電信學院
 school of cities:城市学校
 school of civil and commercial law, bitzh:民商法律学院
 school of civil engineering:土木建筑工程学院
-school of communication and electronic engineering, qiqihar university:齊齊哈爾大學通信與電子工程學院
 school of communication and electronic engineering, qiqihar university:齐齐哈尔大学通信与电子工程学院
 school of computer science and engineering:计算机科学与工程学院
 school of computer science:人工智能学院
 school of computer science:学校的计算机科学
 school of computer science:计算机学院
 school of computing, bitzh:计算机学院
-school of continuing education, chinese culture university:中國文化大學推廣教育部建國本部
-school of continuing education:進修部大樓
+school of continuing education, chinese culture university:中国文化大学推广教育部建国本部
+school of continuing education:进修部大楼
 school of continuing education:高等继续教育学院
 school of cyber science and engineering:国家网络安全学院
 school of dance:学校的舞蹈
@@ -3876,42 +3817,31 @@ school of diplomacy:纵横家
 school of dolphin:学校的海豚
 school of earth and space science and technology:地球与空间科学技术学院
 school of economics & management:经济与管理学院
-school of economics and management:經濟管理學院
 school of economics and management:经济管理学院
-school of economy and management:經濟與管理學院
 school of economy and management:经济与管理学院
 school of education:学校的教育
-school of education:教育學系
+school of education:教育学系
 school of electrical engineering and automation:电气与自动化学院
 school of electrical engineering and automation:电气工程及自动化学院
-school of electrical engineering and automation:電氣工程及自動化學院
 school of electronic and information engineering:电子信息学院
 school of electronic information engineering:电子信息工程学院
 school of engineering, building 2:2号楼（工学院）
-school of engineering, building 2:2號樓（工學院）
 school of engineers:工程师学校
-school of english and international studies (seis):英語教學樓
 school of english and international studies (seis):英语教学楼
 school of environment:环境学院
 school of environment:环境节能楼（环境工程系）
-school of environment:環境學院
-school of environment:環境節能樓（環境工程系）
 school of environmental sciences and engineering:环境科学与工程学院（刘水楼）
-school of environmental sciences and engineering:環境科學與工程學院（劉水樓）
-school of ethnology, zhengda university:政大民族學博物館
-school of ferrara:費拉拉畫派
+school of ethnology, zhengda university:政大民族学博物馆
+school of ferrara:费拉拉画派
 school of fontainebleau:枫丹白露画派
 school of food:食品学院
 school of foreign languages and literatures:外国语言文学学院
 school of foreign languages, bitzh:外国语学院
 school of foreign languages:外国语学院
-school of foreign languages:外國語學院
-school of general education:博雅學院
+school of general education:博雅学院
+school of general nursing:护士学校
 school of general nursing:普通科护士学校
 school of general nursing:普通科护士训练学校
-school of general nursing:普通科護士學校
-school of general nursing:普通科護士訓練學校
-school of general nursing:護士學校
 school of general studies:哥伦比亚大学通识教育学院
 school of genius:学校的天才
 school of geodesy and geomatics:测绘学院
@@ -3919,57 +3849,47 @@ school of geographic science:行远楼 地理科学学院
 school of geography and planning:宁夏大学地理与规划学院
 school of glasgow:格拉斯哥学院
 school of government (leo koguan building):政府管理学院（廖凯原楼）
-school of government (leo koguan building):政府管理學院（廖凱原樓）
+school of government (leo koguan building):政府管理学院（廖凱原楼）
 school of government:政府学校
 school of government:政治与公共管理学院
 school of history:历史学院
-school of hotel and tourism management:酒店及旅遊業管理學院
+school of hotel and tourism management:酒店及旅游业管理学院
 school of humanities and social sciences:人文与社会科学学院
 school of humanities and social sciences:人文社科院
-school of humanities general office:人文學院辦公室
+school of humanities general office:人文学院办公室
 school of humanities:人文学院
-school of humanities:人文學院
 school of infantry:步兵学校
-school of infantry:步兵學校
 school of information and communication engineering:信息与通信工程学院
 school of information management:信息管理学院
 school of information, bitzh:信息学院
 school of innovation and enterpreneurship:创新创业学院
 school of integrated circuit science and engineering:集成电路科学与工程学院
 school of integrated circuits:集成电路学院
-school of international and public affairs:哥倫比亞大學國際公共事務學院
+school of international and public affairs:哥伦比亚大学国际公共事务学院
 school of international studies, northeast normal university:东北师范大学外国语学院
 school of international studies, northeast normal university:外国语学院
-school of international studies, northeast normal university:東北師範大學外國語學院
 school of internet of things:物联网工程学院
-school of journalism and communication:新聞與傳播學院
-school of journalism and communication:新聞與傳播學院（蒙民偉樓）
 school of journalism and communication:新闻与传播学院
 school of journalism and communication:新闻与传播学院（蒙民伟楼）
 school of jurisprudence:学校的法学
 school of language:语言学校
 school of languages:语言学校
 school of law:法学院
-school of law:法學院
 school of life science & biotechnology:生物科学技术学院
 school of life science and technology:生命科学与技术学院
 school of life sciences, building 1:1号楼（生科院）
-school of life sciences, building 1:1號樓（生科院）
 school of life sciences:生命科学学院
-school of life sciences:生命科學學院
 school of life:学校的生活
 school of linguistics:学校的语言学
 school of literature:文学院
 school of management and economics:经济与管理学院
 school of management:学校的管理
 school of management:管理学院
-school of marxism:馬克思主義學院
 school of marxism:马克思主义学院
 school of materials and chemical engineering:材料与化工学院
 school of materials and energy:材料与能源学院
 school of materials and environment, bitzh:材料与环境学院
 school of materials sciences and engineering:材料学院
-school of materials sciences and engineering:材料學院
 school of mathematical sciences:数学科学学院
 school of mathematics and computational science:数学与计算科学学院
 school of mathematics and statistics:数学与统计学院
@@ -3977,11 +3897,9 @@ school of mechanical and electrical engineering:机械与电气工程学院
 school of mechanical engineering and mechanics:机械工程与力学学院
 school of mechanical engineering:机械工程学院
 school of mechanics and foreign language school:机械楼
-school of mechanics and foreign language school:機械樓
 school of mechatronic engineering:机电工程学院
 school of medicine and health of anyang vocational and technical college:安阳职业技术学院医药卫生学院
 school of medicine:医学院
-school of medicine:醫學院
 school of microelectronics:微电子学院
 school of music:音乐学校
 school of names:名家
@@ -3989,70 +3907,62 @@ school of naturalists:阴阳家
 school of naval architecture, ocean & civil engineering:木兰船建大楼
 school of naval architecture, ocean & civil engineering:船建学院
 school of navigation:学校的导航
-school of nisibis:尼西比斯學院
-school of nursing:護理系館
+school of nisibis:尼西比斯学院
+school of nursing:护理系馆
 school of optoelectronic engineering:光电工程学院
 school of optoelectronic science and engineering:光电科学与工程学院
 school of organization:学校的组织
 school of painting:学校的绘画
 school of paris:巴黎派
-school of performing arts seoul:首爾公演藝術高等學校
+school of performing arts seoul:首尔公演艺术高等学校
 school of pharmaceutical sciences:药学院
-school of pharmaceutical sciences:藥學院
 school of pharmacy:生命科学与健康工程学院
 school of pharmacy:药学院
 school of philosophy:哲学学校
 school of philosophy:哲学学院
 school of physical and mathematical sciences:物理与数学科学院
 school of physical education student dormitory, northeast normal university:东北师范大学体育学院学生公寓
-school of physical education student dormitory, northeast normal university:東北師範大學體育學院學生公寓
 school of physical education, northeast normal university:东北师范大学体育学院
 school of physical education, northeast normal university:体育学院
-school of physical education, northeast normal university:東北師範大學體育學院
 school of physical science and engineering:物理科学与工程技术学院
 school of physics science and technology:物理科学与技术学院
 school of physics, peking university:北京大学物理学院
-school of physics, peking university:北京大學物理學院
 school of physics:物理学院
 school of politics and public administration:政治与公共管理学院
 school of power and mechanical engineering:动力与机械学院
 school of prayer:学校的祈祷
 school of public administration:公共管理学院
 school of public policy and management:公共管理学院
-school of public policy and management:公共管理學院
 school of remote sensing and information engineering:遥感信息工程学院
 school of resource and environmental science:资源与环境科学学院
 school of resources and environment:资源与环境学院
 school of robotics:机器人学院
 school of rock:摇滚校园
-school of salamanca:薩拉曼卡學派
+school of salamanca:萨拉曼卡学派
 school of science:理学楼
 school of science:理学院
-school of science:理學樓
 school of social and political science:学校的社会和政治科学
 school of social policy:学校的社会政策
 school of social sciences:社会科学学院
-school of social sciences:社會科學學院
 school of sociology:社会学院
-school of software:軟體學院
 school of software:软件学院
+school of software:软体学院
 school of textile enginering:纺织服装学院
 school of the air:空中学校
 school of the americas:美洲学校
 school of the art institute of chicago:芝加哥艺术学院
-school of the museum of fine arts at tufts:塔夫茨大學美術館學校
-school of the nations:聯國學校
+school of the museum of fine arts at tufts:塔夫茨大学美术馆学校
+school of the nations:联国学校
 school of thought:学校的思想
 school of truth:学校的真相
 school of urban design:城市设计学院
-school of vehicle and mobility:車輛與運載學院
 school of vehicle and mobility:车辆与运载学院
 school of visual art:视觉艺术学校
 school of water resources and hydropower engineering:水利水电学院
 school of writers:学校的作家
 school offer:学校提供
 school office:学校办公室
-school office:校務處
+school office:校务处
 school officials allow:学校官员允许
 school officials and others:学校官员和其他人
 school officials and parents:学校官员和家长
@@ -4065,7 +3975,7 @@ school officials tell them:学校官员告诉他们
 school officials will decide:学校官员将决定
 school officials:学校官员
 school oil:学校油
-school on fire:學校風雲
+school on fire:学校风云
 school on the road:学校在路上
 school once:学校一次
 school one year:学校一年
@@ -4261,7 +4171,7 @@ school reform minister:学校改革部长
 school reform project:学校改革项目
 school reform:学校改革
 school reforms:学校改革
-school refusal:學校恐懼症
+school refusal:学校恐惧症
 school registration:学校注册
 school reject:学校拒绝
 school related reasons:学校相关的原因
@@ -4297,7 +4207,7 @@ school retirement:学校退休
 school return:学校返回
 school revolution:学校革命
 school riot:学校骚乱
-school road:學校路
+school road:学校路
 school role playing game:学校角色扮演游戏
 school roof:学校屋顶
 school room:学校房间
@@ -4305,7 +4215,7 @@ school root:学校根
 school rugby:学校橄榄球
 school rule:学校规则
 school rules:学校规则
-school rumble:校園迷糊大王
+school rumble:校园迷糊大王
 school run:学校运行
 school safe:学校安全的
 school safety and lack:学校安全和缺乏
@@ -4360,11 +4270,11 @@ school shark:翅鲨
 school she:学校她
 school shield:学校盾
 school ship:学校船
-school shock:雛蜂
+school shock:雏蜂
 school shoe:学校鞋
 school shooter want:学校射手想要
 school shooter:学校射手
-school shooting:校園槍擊案
+school shooting:校园枪击案
 school shootout:学校枪战
 school should be a safe:学校应该是一个安全的
 school should be:学校应该是
@@ -4425,7 +4335,6 @@ school story:学校故事
 school street:书馆街
 school street:学校街
 school street:学校街道
-school street:書館街
 school stress:学校压力
 school structure:学校结构
 school student and discipline:学校学生和纪律
@@ -4568,8 +4477,8 @@ school uniform:学校制服
 school uniform:校服
 school uniforms in england:英格兰校服
 school uniforms in japan:日本校服
-school uniforms in malaysia:馬來西亞學生制服
-school uniforms in south korea:韓國校服
+school uniforms in malaysia:马来西亚学生制服
+school uniforms in south korea:韩国校服
 school unit:学校单位
 school university:学校大学
 school until:学校直到
@@ -4599,7 +4508,7 @@ school vocabulary and numbers:学校词汇和数字
 school vocabulary:学校词汇
 school vocational education:学校职业教育
 school volunteer:学校志愿者
-school voucher:學券制
+school voucher:学券制
 school wait:学校等待
 school wall:学校墙
 school wand:学校魔杖
@@ -4699,10 +4608,10 @@ school-related activities:学校相关的活动
 school-safety conference:学校安全会议
 school-system quality:学校系统质量
 school:学校
-schoolgirl detectives:善巖女高偵探團
-schoolgirl strikers:學園少女突襲者
-schooling bannerfish:多棘馬夫魚
-schoolmaster snapper:八帶笛鯛
+schoolgirl detectives:善岩女高侦探团
+schoolgirl strikers:学园少女突袭者
+schooling bannerfish:多棘马夫鱼
+schoolmaster snapper:八带笛鲷
 schools a person:学校一个人
 schools accept:学校接受
 schools accomplish:学校完成
@@ -5189,7 +5098,7 @@ schools of course:学校当然
 schools of economic thought:经济思想学派
 schools of infantry:步兵学校
 schools of interpretation:学校的解释
-schools of islamic theology:伊斯蘭教神學派別
+schools of islamic theology:伊斯兰教神学派別
 schools of machine learning:学校的机器学习
 schools of modern philosophy:学校的现代哲学
 schools of ninjutsu:学校的忍术
@@ -5394,43 +5303,40 @@ schools your:学校你的
 schools:学校
 schooner street:捷船街
 schooner:多桅帆船
-schooner:斯庫納船
+schooner:斯库纳船
 schoonhoven:斯洪霍芬
-schoonmaker ridge:休恩梅克嶺
+schoonmaker ridge:休恩梅克岭
 schoorwal van arabat:阿拉巴特岬
 schopfaffe:黑猴
-schopfenspitz:紹普芬峰
+schopfenspitz:绍普芬峰
 schopfheim:绍普夫海姆
 schopfloch:绍普夫洛赫
 schopp:绍普
 schoppernau:绍珀瑙
 schopperten:绍珀滕
 schorbach:绍尔巴克
-schorenbach:紹倫巴赫河
-schorgast:紹爾加斯特河
+schorenbach:绍伦巴赫河
+schorgast:绍尔加斯特河
 schorndorf:绍恩多夫
 schornsheim:绍恩斯海姆
 schorssow:绍尔索
 schortens:绍尔滕斯
 schossin:绍辛
-schostka:紹斯特卡
+schostka:绍斯特卡
 schoten:斯霍滕
-schotia:掛鐘豆屬
+schotia:掛钟豆属
 schotlaand:苏格兰
-schotlaand:苏格兰 / 蘇格蘭
-schotlaand:蘇格蘭
+schotlaand:苏格兰 / 苏格兰
 schotland:苏格兰
-schotland:苏格兰 / 蘇格蘭
-schotland:蘇格蘭
+schotland:苏格兰 / 苏格兰
 schott ag plans:肖特集团计划
 schott ag:肖特集团
-schott inlet:肖特灣
-schott music:碩特音樂
+schott inlet:肖特湾
+schott music:硕特音乐
 schottarum:光籽宿檐属
 schotten:绍滕
 schottische see:斯科舍海
 schottische see:苏格兰西海岸近海水域
-schottische see:蘇格蘭西海岸近海水域
 schottische:沙蒂希步
 schottky barrier diode:肖特基势垒二极管
 schottky barrier:肖特基势垒
@@ -5439,16 +5345,15 @@ schottky diode series:肖特基二极管系列
 schottky diode voltage:肖特基二极管电压
 schottky diode:肖特基二极管
 schottland:苏格兰
-schottland:苏格兰 / 蘇格蘭
-schottland:蘇格蘭
-schottmecke:紹特梅克河
+schottland:苏格兰 / 苏格兰
+schottmecke:绍特梅克河
 schottwien:绍特温
-schoutedenapus:珍雨燕屬
+schoutedenapus:珍雨燕属
 schouwen-duiveland:斯豪文-德伊弗兰
 schouwn-duuveland:斯豪文-德伊弗兰
 schowkwa:若夫克瓦
 schownyne:若夫尼涅
-schowta krutscha:若夫塔克魯恰
+schowta krutscha:若夫塔克鲁恰
 schowtyj brid:若夫季布里德
 schpaani:西班牙
 schpaanije:xībānyá
@@ -5457,29 +5362,27 @@ schpola:什波拉
 schpykivka:什皮基夫卡
 schpykiw:什皮基夫
 schpytky:什皮季基
-schpytschynzi:什皮欽齊
+schpytschynzi:什皮钦齐
 schqiperia:Āěrbāníyà
 schqiperia:阿尔巴尼亚
-schqiperia:阿尔巴尼亚 / 阿爾巴尼亞
-schqiperia:阿爾巴尼亞
+schqiperia:阿尔巴尼亚 / 阿尔巴尼亚
 schrader glacier:施拉德冰川
-schrader valve:美式氣門嘴
-schraetzer:條紋梅花鱸
+schrader valve:美式气门嘴
+schraetzer:条纹梅花鲈
 schrafft's:施拉弗特
 schram:施拉姆
 schramberg:施兰贝格
-schrammacher:施拉馬赫山
-schrankogel:施蘭科格爾山
+schrammacher:施拉马赫山
+schrankogel:施兰科格尔山
 schraplau:施拉普劳
 schrattenbach:施拉滕巴赫
 schrattenberg:施拉滕贝格
-schrattenfluh:施拉滕弗盧赫山
+schrattenfluh:施拉滕弗卢赫山
 schrattenthal:施拉滕塔尔
 schreckhorn:施雷克峰
 schrecksbach:施雷克斯巴赫
-schreierstoren:淚塔
+schreierstoren:泪塔
 schrein von imam ahmed bin ali:伊玛目艾哈迈德·本·阿里圣陵
-schrein von imam ahmed bin ali:伊瑪目艾哈邁德·本·阿里聖陵
 schreiner university:希莱纳大学
 schrems bei frohnleiten:弗龙莱滕附近施雷姆斯
 schrenkia:双球芹属
@@ -5487,58 +5390,57 @@ schretstaken:施雷茨塔肯
 schriesheim:施里斯海姆
 schrimm:希雷姆
 schrobenhausen:施罗本豪森
-schroders:施羅德投資
-schroeder hill:施羅德山
-schroeder peak:施羅德峰
-schroederichthys:短唇溝鯊屬
+schroders:施罗德投资
+schroeder hill:施罗德山
+schroeder peak:施罗德峰
+schroederichthys:短唇沟鯊属
 schroomhausn:施罗本豪森
 schroter's valley:施勒特尔月谷
 schrozberg:施罗茨贝格
-schrubkiw:什魯布基夫
+schrubkiw:什鲁布基夫
 schrum:施鲁姆
 schruns:施伦斯
 schröcken:施勒肯
-schtschaslywe:夏斯利韋
+schtschaslywe:夏斯利韦
 schtschaslywzewe:夏斯利夫采韦
 schtschastja:夏斯季耶
-schtschebetowka:謝別托夫卡
-schtschekytschyn:謝基欽
-schtscherbani:謝爾巴尼
-schtscherbaniwka:謝爾巴尼夫卡
-schtscherbinka:謝爾賓卡
+schtschebetowka:谢別托夫卡
+schtschekytschyn:谢基钦
+schtscherbani:谢尔巴尼
+schtscherbaniwka:谢尔巴尼夫卡
+schtscherbinka:谢尔宾卡
 schtscherbiwska-straße:谢尔比夫西卡街
-schtscherbyniwka:謝爾比尼夫卡
+schtscherbyniwka:谢尔比尼夫卡
 schtschigry:希格雷
-schtschokino:曉基諾
-schtscholkino:曉爾基諾
-schtscholkowo:曉爾科沃
+schtschokino:晓基诺
+schtscholkino:晓尔基诺
+schtscholkowo:晓尔科沃
 schtschutschinsk:xiū qīn sīkè
-schtschutschinsk:休欽斯克
+schtschutschinsk:休钦斯克
 schtschutschje:休奇耶
-schtschutschyn:休欽
+schtschutschyn:休钦
 schtugert:斯图加特
-schtugert:斯圖加特
 schu:楚河市
-schubert inlet:舒伯特灣
-schubert thematic catalogue:德意許目錄
-schubert's symphonies:舒伯特交響曲
-schubertiade:舒伯特黨
-schubrowytschi:茹布羅維奇
+schubert inlet:舒伯特湾
+schubert thematic catalogue:德意许目录
+schubert's symphonies:舒伯特交响曲
+schubertiade:舒伯特党
+schubrowytschi:茹布罗维奇
 schuby:舒比
-schuettea scalaripinnis:澳大利亞舒鯧
-schuhe am donauufer:多腦河畔之鞋
+schuettea scalaripinnis:澳大利亚舒鯧
+schuhe am donauufer:多脑河畔之鞋
 schuhschnabel:鲸头鹳
 schuja:舒亚
-schukiwzi:茹基夫齊
+schukiwzi:茹基夫齐
 schukotky:茹科特基
 schukow:茹科夫
 schukowka:茹科夫卡
 schukowski:茹科夫斯基
 schuky:茹基
-schule island:舒爾島
+schule island:舒尔岛
 schulenberg im oberharz:上哈茨山区舒伦贝格
 schulendorf:舒伦多夫
-schulensee:舒倫湖
+schulensee:舒伦湖
 schuler academy:舒勒学院
 schuler also plans:舒勒也计划
 schuler and our customers:舒勒和我们的客户
@@ -5562,35 +5464,34 @@ schuler start:舒勒开始
 schuler thailand:舒勒泰国
 schuler was attract:舒勒是吸引
 schuler:舒勒
-schulich school of business:舒立克商學院
-schuljaky:舒利亞基
+schulich school of business:舒立克商学院
+schuljaky:舒利亚基
 schulklinik:校医室
-schulte hills:舒爾特山
-schultz glacier:舒爾茨冰川
-schultz's pipefish:舒氏冠海龍
+schulte hills:舒尔特山
+schultz glacier:舒尔茨冰川
+schultz's pipefish:舒氏冠海龙
 schulz and former foreign minister:舒尔茨和前外交部长
 schulz museum:舒尔茨博物馆
-schulz point:舒爾茨角
+schulz point:舒尔茨角
 schulz said:舒尔茨说
 schulz spent:舒尔茨花
 schulz would:舒尔茨将
 schulz:舒尔茨
 schulze:舒尔策
 schulzendorf:舒尔岑多夫
-schulzengrundbach:舒爾岑格倫德巴赫河
+schulzengrundbach:舒尔岑格伦德巴赫河
 schuman declaration:舒曼计划
 schuman metro station:舒曼站
 schuman railway station:布鲁塞尔舒曼站
-schumann nunatak:舒曼冰原島峰
+schumann nunatak:舒曼冰原岛峰
 schumann resonances:舒曼波
-schumann's bistro no. 6:舒曼六號餐館
+schumann's bistro no. 6:舒曼六号餐馆
 schumicha:舒米哈
-schumiwzi:舒米夫齊
-schumjatschi:舒米亞奇
+schumiwzi:舒米夫齐
+schumjatschi:舒米亚奇
 schumschu:占守岛
-schumschu:占守島
-schunter:順特河
-schuparka:舒帕爾卡
+schunter:顺特河
+schuparka:舒帕尔卡
 schupfart:舒普法特
 schur complement:舒尔补
 schur decomposition:舒尔分解
@@ -5602,16 +5503,16 @@ schuraky:茹拉基
 schuravlyne:茹拉夫利涅
 schurawlynka:茹拉夫林卡
 schurawne:茹拉夫涅
-schurawno:茹拉夫諾
-schurbynzi:茹爾賓齊
-schurmsee:舒爾姆湖
-schurschewytschi:茹爾熱維奇
+schurawno:茹拉夫诺
+schurbynzi:茹尔宾齐
+schurmsee:舒尔姆湖
+schurschewytschi:茹尔热维奇
 schuscha:舒沙
 schuschenskoje:舒申斯科
 schussen:舒森河
 schuster agree:舒斯特同意
 schuster explained:舒斯特解释道
-schuster line:舒斯特防線
+schuster line:舒斯特防线
 schuster no longer:舒斯特不再
 schuster now:舒斯特现在
 schuster publishing company:舒斯特出版公司
@@ -5620,32 +5521,30 @@ schuster reader:舒斯特读者
 schuster said it cancel:舒斯特说它取消
 schuster said:舒斯特说
 schuster:舒斯特
-schutschkiwzi:茹奇基夫齊
+schutschkiwzi:茹奇基夫齐
 schutt glacier:舒特冰川
 schuttertal:舒特塔尔
 schutterwald:舒特瓦尔德
 schuttrange:许特朗日
 schutzbach:舒茨巴赫
-schutzengel:守護天使
+schutzengel:守护天使
 schutzgebiet ngorongoro:恩戈罗恩戈罗保护区
-schutzgebiet ngorongoro:恩戈羅恩戈羅保護區
-schutzhund:護衛犬賽
+schutzhund:护卫犬赛
 schutzstaffel:党卫队
-schuur:穀倉
 schuur:谷仓
 schuurmansiella:桃莲木属
 schuylkill river:斯库尔基尔河
 schwaan:施万
 schwaara:施瓦拉
 schwaarzt mier:黑海
-schwab foundation for social entrepreneurship:施瓦布社會企業家基金會
+schwab foundation for social entrepreneurship:施瓦布社会企业家基金会
 schwabach:施瓦巴赫
 schwabbruck:施瓦布鲁克
 schwabenheim an der selz:塞尔茨河畔施瓦本海姆
 schwabenin jura:施瓦本汝拉山
 schwabentor:施瓦本门
 schwabing:施瓦宾
-schwabinger bach:施瓦賓巴赫河
+schwabinger bach:施瓦宾巴赫河
 schwabisk alb:施瓦本汝拉山
 schwabsoien:施瓦布索伊恩
 schwabstedt:施瓦布施泰特
@@ -5661,15 +5560,15 @@ schwaiz:瑞士
 schwajkiwka:什瓦伊基夫卡
 schwalbach am taunus:陶努斯山麓施瓦尔巴赫
 schwalbe class cruiser:燕子级巡洋舰
-schwall peak:施瓦爾峰
+schwall peak:施瓦尔峰
 schwall:施瓦尔
 schwallungen:施瓦隆根
-schwalmere:施瓦爾梅雷山
-schwalmis:施瓦爾米斯山
+schwalmere:施瓦尔梅雷山
+schwalmis:施瓦尔米斯山
 schwalmstadt:施瓦尔姆施塔特
-schwaltenweiher:施瓦爾滕魏爾湖
-schwan:日萬
-schwan:日萬河
+schwaltenweiher:施瓦尔滕魏尔湖
+schwan:日万
+schwan:日万河
 schwand im innkreis:因河地区施万德
 schwanden bei brienz:布里恩茨附近施万登
 schwandorf:施万多夫
@@ -5680,18 +5579,18 @@ schwanewede:施瓦讷韦德
 schwanfeld:施万费尔德
 schwangau:施旺高
 schwanheide:施万海德
-schwann cell:許旺細胞
-schwansee:施萬湖
+schwann cell:许旺细胞
+schwansee:施万湖
 schwanstetten:施万施泰滕
 schwarme:施瓦默
 schwarmstedt:施瓦姆施泰特
 schwartbuck:施瓦特布克
-schwartz cove:施瓦茨灣
-schwartz function:速降函數
+schwartz cove:施瓦茨湾
+schwartz function:速降函数
 schwartz peak:施瓦茲峰
-schwartz range:施瓦茨山脈
+schwartz range:施瓦茨山脉
 schwartz space:速降函数空间
-schwartz's catfish:施瓦茨氏兵鯰
+schwartz's catfish:施瓦茨氏兵鲶
 schwartz's:施瓦茨氏
 schwartzbard trial:审判施瓦茨巴德
 schwarz lemma:施瓦茨引理
@@ -5722,37 +5621,35 @@ schwarzer fluss:沱江
 schwarzer grat:施瓦策格拉特山
 schwarzer irtysch:kèlā éěrqísī hé
 schwarzer irtysch:É'ěrqísī hé
-schwarzer irtysch:喀拉額爾齊斯河
 schwarzer irtysch:喀拉额尔齐斯河
-schwarzer irtysch:額爾齊斯河
 schwarzer irtysch:额尔齐斯河
 schwarzer see:黑湖
-schwarzer-volta-bogen:布克萊迪穆翁大區
+schwarzer-volta-bogen:布克莱迪穆翁大区
 schwarzerden:施瓦茨埃尔登
 schwarzes meer:黑海
-schwarzes siepen:施瓦茨錫彭河
+schwarzes siepen:施瓦茨锡彭河
 schwarzheide:施瓦茨海德
 schwarzhofen:施瓦茨霍芬
 schwarzhäupterhaus:黑头宫
 schwarzkopf:施瓦茨科普夫
 schwarzlofer:施瓦茨洛弗河
-schwarzman college:清華大學蘇世民書院
+schwarzman college:清华大学苏世民书院
 schwarzman college:苏世民书院
 schwarzman scholars:苏世民学者
 schwarzmeer-wirtschaftskooperation:黑海经济合作组织
 schwarzmeerregion:黑海地区
 schwarzmeertiefland:黑海低地
 schwarzschild black hole:史瓦西黑洞
-schwarzschild criterion:史瓦西準則
-schwarzschild metric:史瓦西度規
-schwarzschild radius:史瓦西半徑
-schwarzsee:施瓦爾茨湖
+schwarzschild criterion:史瓦西准则
+schwarzschild metric:史瓦西度规
+schwarzschild radius:史瓦西半径
+schwarzsee:施瓦尔茨湖
 schwasdorf:施瓦斯多夫
-schwaz district:施瓦茨縣
+schwaz district:施瓦茨县
 schwaz:施瓦茨
-schwebelbach:施韋貝爾巴赫河
+schwebelbach:施韦贝尔巴赫河
 schwebheim:施韦布海姆
-schwechat:施韋夏特
+schwechat:施韦夏特
 schwede:ruìdiǎn
 schwede:瑞典
 schwedelbach:施韦德尔巴赫
@@ -5760,11 +5657,10 @@ schweden:ruìdiǎn
 schweden:瑞典
 schwedeneck:施韦登埃克
 schwedenplatz:瑞典广场
-schwedische botschaft in luanda:瑞典駐羅安達大使館
 schwedische botschaft in luanda:瑞典驻罗安达大使馆
 schwedische botschaft:瑞典驻华大使馆
 schwedn:瑞典
-schwedtsee:施韋特湖
+schwedtsee:施韦特湖
 schweede:ruìdiǎn
 schweede:瑞典
 schwegenheim:施韦根海姆
@@ -5773,7 +5669,7 @@ schweich said:施韦希说
 schweich:施韦希
 schweickershausen:施韦克斯豪森
 schweierte:施韦特
-schweiggers:施韋格斯
+schweiggers:施韦格斯
 schweighausen:施韦格豪森
 schweighofen:施韦格霍芬
 schweighouse sur moder:莫代尔河畔什韦古斯
@@ -5782,13 +5678,13 @@ schweindorf:施韦恩多夫
 schweinfelsen:皮格岩
 schweinfurt and regensburg:施韦因富特和雷根斯堡
 schweinfurt:施韦因富特
-schweingartensee:施韋恩加滕湖
-schweinnaab:施恩納布河
+schweingartensee:施韦恩加滕湖
+schweinnaab:施恩纳布河
 schweinschied:施韦恩希德
-schweinshaxe:德式烤豬腳
+schweinshaxe:德式烤猪脚
 schweisweiler:施韦斯韦勒
 schweitenkirchen:施韦滕基兴
-schweitzer glacier:施韋策冰川
+schweitzer glacier:施韦策冰川
 schweix:施韦克斯
 schweiz ambassad:瑞士大使馆
 schweiz generalkonsulat:瑞士总领事馆
@@ -5799,18 +5695,17 @@ schweiz' honorære konsulat:瑞士名誉领事馆
 schweiz:ruìshì
 schweiz:瑞士
 schweizer radio und fernsehen:瑞士德语广播电视
-schweizer reneke:施韋策爾雷內克
+schweizer reneke:施韦策尔雷內克
 schweizer's reagent:铜氨溶液
-schweizerische botschaft in der republik angola:瑞士駐安哥拉共和國大使館
 schweizerische botschaft in der republik angola:瑞士驻安哥拉共和国大使馆
 schweizerische botschaft:瑞士大使馆
-schweizerisches generalkonsulat:瑞士駐香港總領事館
-schweizertor:瑞士人大門
+schweizerisches generalkonsulat:瑞士驻香港总领事馆
+schweizertor:瑞士人大门
 schweizi:ruìshì
 schweizi:瑞士
 schwelm:施韦尔姆
-schwelme:施韋爾梅河
-schwemser spitze:施韋姆塞峰
+schwelme:施韦尔梅河
+schwemser spitze:施韦姆塞峰
 schwendau:施文道
 schwendibach:施文迪巴赫
 schwendisee:施文迪湖
@@ -5828,8 +5723,8 @@ schweppenhausen:施韦彭豪森
 schweppes:玉泉汽水
 schwerbach:施韦尔巴赫
 schwerdorff:什韦尔多夫
-schwerer gustav:古斯塔夫超重型鐵道炮
-schwerin an der warthe:斯克維日納
+schwerer gustav:古斯塔夫超重型铁道炮
+schwerin an der warthe:斯克维日纳
 schwerin became:什未林成为
 schwerin castle:什未林城堡
 schwerin cathedral:什未林主教座堂
@@ -5841,33 +5736,32 @@ schweringen:施韦林根
 schwerinsdorf:施韦林斯多夫
 schwersenz:斯瓦任兹
 schwerstedt:施韦尔施泰特
-schwertberg:施韋特貝格
+schwertberg:施韦特贝格
 schwerte:施韦尔特
 schwerte:施韦特
 schwerter von kadesia:军刀门
-schwerzenbach:施韋岑巴赫
+schwerzenbach:施韦岑巴赫
 schwesing:施韦辛
-schwesnitz:施韋斯尼茨河
+schwesnitz:施韦斯尼茨河
 schwetzingen garden:施韦青根花园
 schwetzingen palace:施韦青根宫
 schwetzingen:施韦青根
-schwetzochromis neodon:新齒施韋茨麗魚
+schwetzochromis neodon:新齿施韦茨丽鱼
 schweyen:什韦恩
 schwiebea:士维螨属
 schwieberdingen:施维伯丁根
 schwielochsee:施维洛赫塞
-schwielowsee:施維洛湖
+schwielowsee:施维洛湖
 schwienau:施维瑙
 schwientochlowitz:希维托赫洛维采
 schwifting:施维夫廷
 schwiiz:ruìshì
 schwiiz:瑞士
 schwimmender markt amphawa:安帕瓦水上市场
-schwimmhalle:游泳館
 schwimmhalle:游泳馆
 schwindegg:施温德格
 schwindratzheim:什温德拉蔡姆
-schwinger effect:施溫格效應
+schwinger effect:施温格效应
 schwinkendorf:施温肯多夫
 schwirzheim:施维尔茨海姆
 schwissel:施维瑟尔
@@ -5877,50 +5771,48 @@ schwobfeld:施沃布费尔德
 schwobsheim:什沃布赛姆
 schwoich:施沃伊希
 schwollen:施沃伦
-schwyz alps:施維茨阿爾卑斯山脈
+schwyz alps:施维茨阿尔卑斯山脉
 schwyz district:施维茨区
-schwyz:施維茨
+schwyz:施维茨
 schwäiz:ruìshì
 schwäiz:瑞士
-schyhajliwka:日蓋利夫卡
-schylynzi:日林齊
+schyhajliwka:日盖利夫卡
+schylynzi:日林齐
 schymkent:希姆肯特
 schymkent:苫勤
-schymkiwzi:什姆基夫齊
-schymkowe:什姆科韋
-schyrjajewe:希里亞葉韋
-schyrkiwka:日爾基夫卡
-schyroka dolyna:什羅卡多利納
-schyroka hreblja:什羅卡格列布利亞
-schyroka hreblja:羅卡格列布利亞
-schyroke:希羅克
+schymkiwzi:什姆基夫齐
+schymkowe:什姆科韦
+schyrjajewe:希里亚叶韦
+schyrkiwka:日尔基夫卡
+schyroka dolyna:什罗卡多利纳
+schyroka hreblja:什罗卡格列布利亚
+schyroka hreblja:罗卡格列布利亚
+schyroke:希罗克
 schyrytschi:日里奇
 schytnyky:日特尼基
-schytomyr:怡陀米亞
-schytomyr:日托米爾
+schytomyr:怡陀米亚
+schytomyr:日托米尔
 schytt glacier:席特冰川
-schytynzi:日京齊
+schytynzi:日京齐
 schälglenge:舍尔克林根
 schärenmeer:群岛海
 schílige:希尔蒂盖姆
 schönebeck:舍内贝克
 schöner brunnen:美泉
 schöngeising:申盖辛格
-schönstatt-jungheiligtum:舍恩施塔特年輕神社
 schönstatt-jungheiligtum:舍恩施塔特年轻神社
 schülertoilette:学生厕所
 schüttenhofen:苏希采
-schüttenhofen:苏希采 / 蘇希采
-schüttenhofen:蘇希采
+schüttenhofen:苏希采 / 苏希采
 sci-fi city:科幻城市
 sci-tech experiment building:科技实验大楼
 sci-tech innovation new town:科创新城
-sciades parkeri:派克沼海鯰
-sciades paucus:強頷沼海鯰
+sciades parkeri:派克沼海鲶
+sciades paucus:強颔沼海鲶
 sciadopitys verticillata:日本金松
 sciaenidae:石首鱼
-sciaenochromis benthicola:深棲鬼麗魚
-sciaenochromis fryeri:弗氏鬼麗魚
+sciaenochromis benthicola:深栖鬼丽鱼
+sciaenochromis fryeri:弗氏鬼丽鱼
 sciaffusa:沙夫豪森
 sciafüsa:沙夫豪森
 sciamhaevum:上海
@@ -5928,17 +5820,16 @@ sciamhaevum:上海市
 sciaphila:霉草属
 sciapus:丽长足虻属
 sciaridae:眼蕈蚊科
-sciaroidea:眼蕈蚊總科
+sciaroidea:眼蕈蚊总科
 sciaromiopsis:厚边藓属
 sciatic nerve:坐骨神经
-sciatica pain:坐骨神經痛疼痛
-sciatica victims:坐骨神經痛受害者
-sciatica:坐骨神經痛
+sciatica pain:坐骨神经痛疼痛
+sciatica victims:坐骨神经痛受害者
+sciatica:坐骨神经痛
 scicli:希克利
 scido:希多
 scienca universitato de szeged:塞格德大学
-science & engineering classrooms (lh):理工綜合教室
-science & technology building of qiqihar medical university:齊齊哈爾醫學院科技樓
+science & engineering classrooms (lh):理工综合教室
 science & technology building of qiqihar medical university:齐齐哈尔医学院科技楼
 science & technology building:科技大楼
 science & technology park 1:科技园 ①
@@ -5982,7 +5873,7 @@ science and accounting:科学和会计学
 science and achievement:科学和成就
 science and activities:科学和活动
 science and advocacy:科学和倡导
-science and aeronautical engineering building:科學與航太館
+science and aeronautical engineering building:科学与航太馆
 science and agriculture technology:科学和农业技术
 science and agriculture writing:科学与农业写作
 science and agriculture:科学与农业
@@ -6114,8 +6005,8 @@ science and empire:科学与帝国
 science and energy conversion:科学与能量转换
 science and energy:科学和能源
 science and engine design:科学和发动机设计
-science and engineering building i:理工一館
-science and engineering building iii:理工三館
+science and engineering building i:理工一馆
+science and engineering building iii:理工三馆
 science and engineering college of hubei university of arts and science:湖北文理学院理工学院
 science and engineering education:科学和工程学教育
 science and engineering professor:科学与工程学教授
@@ -6153,7 +6044,7 @@ science and finance:科学和财政
 science and food technology:科学和食品技术
 science and football:科学和足球
 science and foreign language:科学和外语
-science and forensics building:科學館及刑事鑑識大樓
+science and forensics building:科学馆及刑事鉴识大楼
 science and freedom:科学和自由
 science and freethought:科学和自由思想
 science and future life:科学与未来生活
@@ -6209,7 +6100,7 @@ science and imagination:科学与想象
 science and imagination:科学和想象
 science and imperialism:科学与帝国主义
 science and industry museum:科学与工业博物馆
-science and industry museum:科學產業博物館
+science and industry museum:科学产业博物馆
 science and industry:科学与工业
 science and industry:科学和工业
 science and information technology fields:科学和信息技术领域
@@ -6523,14 +6414,10 @@ science and technology basic law:科技基本法
 science and technology blog:科技博客
 science and technology books:科技书
 science and technology books:科技书籍
-science and technology budget:科技預算
 science and technology budget:科技预算
 science and technology building (block h):h座科技大楼
-science and technology building (block h):h座科技大樓
 science and technology building:科技大厦
-science and technology building:科技大廈
 science and technology building:科技楼
-science and technology building:科技樓
 science and technology bureau expert:科技局专家
 science and technology bureau:科技局
 science and technology business incubator:科技企业孵化器
@@ -6578,8 +6465,8 @@ science and technology creation:科技创造
 science and technology crime:科技犯罪
 science and technology culture:科技文化
 science and technology curriculum:科学和技术课程
-science and technology daily reporter:科技日報記者
-science and technology daily:科技日報
+science and technology daily reporter:科技日报记者
+science and technology daily:科技日报
 science and technology decision-making:科技决策
 science and technology demonstration base:科技示范基地
 science and technology demonstration:科技示范
@@ -6679,7 +6566,6 @@ science and technology innovation center function:科技创新中心功能
 science and technology innovation center:科创中心
 science and technology innovation center:科技创新中心
 science and technology innovation committee:科技创新委员会
-science and technology innovation committee:科技創新委員會
 science and technology innovation demonstration enterprise:科技创新示范企业
 science and technology innovation enterprise:科技创新企业
 science and technology innovation enterprises:科技创新企业
@@ -6693,7 +6579,6 @@ science and technology innovation training:科技创新培训
 science and technology innovation year:科技创新年
 science and technology innovation:科学和技术创新
 science and technology innovation:科技创新
-science and technology innovation:科技創新
 science and technology institute:科技学院
 science and technology institute:科技研究所
 science and technology institutions:科学和技术机构
@@ -6728,15 +6613,12 @@ science and technology minister:科学与技术部长
 science and technology minister:科学和技术部长
 science and technology missions:科学和技术任务
 science and technology model:科技模型
-science and technology museum railway station:科工館車站
+science and technology museum railway station:科工馆车站
 science and technology museum station:kēgōngguǎnchēzhàn
 science and technology museum station:ㄎㄜㄍㄨㄥㄍㄨㄢˇㄔㄜㄓㄢˋ
-science and technology museum station:科工館車站
 science and technology museum station:科工馆车站
 science and technology museum:kē gōng guǎn
 science and technology museum:科学技术博物馆
-science and technology museum:科學技術博物館
-science and technology museum:科工館
 science and technology museum:科工馆
 science and technology museum:科技博物馆
 science and technology museum:科技馆
@@ -6751,7 +6633,7 @@ science and technology open:科技开
 science and technology organisation:科技组织
 science and technology organization:科技组织
 science and technology park:科技公园
-science and technology parks supercharger:科技園超級充電站
+science and technology parks supercharger:科技园超级充电站
 science and technology partner:科技合作伙伴
 science and technology partnership:科技伙伴关系
 science and technology passion:科技激情
@@ -6783,13 +6665,12 @@ science and technology publishing:科技出版
 science and technology quality:科技质量
 science and technology reforms:科技改革
 science and technology relationship:科技关系
-science and technology report:科技報告
 science and technology report:科技报告
 science and technology representative:科学与技术代表
 science and technology require:科技要求
 science and technology research and development:科技研究与发展
 science and technology research and development:科技研究与开发
-science and technology research and development:科技研究開發
+science and technology research and development:科技研究开发
 science and technology research centre:科技研究中心
 science and technology research university:科技研究大学
 science and technology research:科学与技术研究
@@ -6817,7 +6698,7 @@ science and technology standards:科技标准
 science and technology strategy:科技战略
 science and technology students:科技学生
 science and technology studies:科学和技术研究
-science and technology studies:科技與社會
+science and technology studies:科技与社会
 science and technology superpower:科技超级大国
 science and technology support:科技支持
 science and technology teach:科技教
@@ -6889,7 +6770,7 @@ science areas:科学领域
 science arena:科学竞技场
 science article:科学文章
 science articles:科学文章
-science as a vocation:學術作為一種志業
+science as a vocation:学术作为一种志业
 science as well as:科学以及
 science as well:科学也
 science as:科学当作
@@ -6920,7 +6801,7 @@ science big:科学大
 science biography:科学传记
 science biotechnology:科学生物技术
 science block:科学块
-science block:科學樓
+science block:科学楼
 science blog:科学博客
 science blogs:科学博客
 science book prize:科学图书奖
@@ -6933,27 +6814,21 @@ science books prize:科学书籍奖
 science books:科学书
 science books:科学书籍
 science boulevard:科学大道
-science boulevard:科學大道
 science bowl:科学碗
 science brief:科学简报
 science broadcast:科学广播
 science budget:科学预算
-science building 1:科學一館
-science building 2:科學二館
-science building 3:科學三館
+science building 1:科学一馆
+science building 2:科学二馆
+science building 3:科学三馆
 science building no. 1:理科一号楼
-science building no. 1:理科一號樓
 science building no. 2:理科二号楼（逸夫苑）
-science building no. 2:理科二號樓（逸夫苑）
 science building no. 3:理科三号楼（曙东楼）
-science building no. 3:理科三號樓（曙東樓）
 science building no. 5:理科五号楼
-science building no. 5:理科五號樓
-science building phase 1:理院大樓一期
+science building phase 1:理院大楼一期
 science building:科学建筑
 science building:科学馆
-science building:科學館
-science building:科技大樓
+science building:科技大楼
 science buildings:科学建筑
 science bulletin:科学通报
 science burning:科学燃烧的
@@ -7001,10 +6876,10 @@ science center school:科学中心学校
 science center telescope:科学中心望远镜
 science center would:科学中心将
 science center:科学中心
-science centre east block:科學館東座
+science centre east block:科学馆东座
 science centre networks:科学中心网络
 science centre:科学中心
-science centre:科學館
+science centre:科学馆
 science ceo:科学首席执行官
 science chairman:科学主席
 science challenge:科学挑战
@@ -7016,7 +6891,7 @@ science changed:科学改变了
 science channel:科学频道
 science chapter:科学章
 science chief executive officer:科学首席执行官
-science children's playground:科學兒童遊樂場
+science children's playground:科学儿童游乐场
 science china:科学中国
 science choice:科学选择
 science church:科学教堂
@@ -7095,7 +6970,7 @@ science core:科学核心
 science corner:科学角落
 science could:科学能
 science council of asia:亚洲科学委员会
-science council of japan:日本學術會議
+science council of japan:日本学术会议
 science council:科学委员会
 science council:科学理事会
 science course requirements:科学课程要求
@@ -7184,11 +7059,10 @@ science education and worker training:科学教育和工人培训
 science education and worker:科学教育和工人
 science education as:科学教育当作
 science education base:科学教育基地
-science education building:科教大樓
+science education building:科教大楼
 science education center:科学教育中心
 science education cooperation initiative:科学教育合作倡议
 science education cooperation:科学教育合作
-science education cooperation:科學教育合作
 science education courses:科学教育课程
 science education cultivate:科学教育培养
 science education development:科学教育发展
@@ -7198,16 +7072,15 @@ science education film studio:科学教育电影制片厂
 science education fund:科学教育基金
 science education institute:科学教育研究所
 science education institutions:科学教育机构
-science education is no longer:科學教育不再是
+science education is no longer:科学教育不再是
 science education mission:科学教育任务
-science education needs:科學教育需要
+science education needs:科学教育需要
 science education organisation:科学教育组织
 science education organization:科学教育组织
 science education organizations:科学教育组织
 science education policy:科学教育政策
 science education provide:科学教育提供
 science education reform:科学教育改革
-science education reform:科學教育改革
 science education research:科学教育研究
 science education resource:科学教育资源
 science education resources:科学教育资源
@@ -7218,7 +7091,6 @@ science education team:科学教育团队
 science education venue:科学教育场所
 science education video:科学教育视频
 science education:科学教育
-science education:科學教育
 science educator:科学教师
 science educator:科学教育家
 science effectively:科学有效地
@@ -7287,13 +7159,13 @@ science facilities:科学设施
 science fact:科学事实
 science fair:科学公平的
 science famous:科学著名的
-science fantasy:科學奇幻
+science fantasy:科学奇幻
 science farm:科学农场
 science feedback:科学反馈
 science festival:科学节日
 science fiction about:科幻小说关于
 science fiction always:科幻小说总是
-science fiction and fantasy writers association:美國科幻和奇幻作家協會
+science fiction and fantasy writers association:美国科幻和奇幻作家协会
 science fiction and future studies:科幻小说和未来研究
 science fiction and movies:科幻小说和电影
 science fiction and philosophy:科幻小说与哲学
@@ -7332,7 +7204,7 @@ science fiction is good:科幻小说是好的
 science fiction magazine:科幻小说杂志
 science fiction master:科幻小说大师
 science fiction museum:科幻小说博物馆
-science fiction on television:科幻電視作品
+science fiction on television:科幻电视作品
 science fiction page:科幻小说页
 science fiction pioneer:科幻小说先驱
 science fiction professional:科幻小说专业
@@ -7359,7 +7231,7 @@ science fiction writers will:科幻小说作家会
 science fiction writers:科幻小说作家
 science fiction writing:科幻小说写作
 science fiction:科学小说
-science fiction:科學幻想
+science fiction:科学幻想
 science fiction:科幻小说
 science field:科学领域
 science fields:科学领域
@@ -7420,7 +7292,6 @@ science group:科学组
 science half:科学半
 science hall of fame:科学名人堂
 science hall:科学馆
-science hall:科學館
 science hand:科学手
 science hardware:科学硬件
 science has answers:科学有答案
@@ -7453,7 +7324,7 @@ science in china:科学在中国
 science in europe:科学在欧洲
 science in south africa:科学在南非
 science in the 21st century:科学在21世纪
-science in the medieval islamic world:中世紀伊斯蘭世界的科學
+science in the medieval islamic world:中世纪伊斯兰世界的科学
 science in the past:科学在过去
 science in this century:科学在本世纪
 science in:科学里面
@@ -7615,7 +7486,7 @@ science means:科学意味着
 science measurement:科学测量
 science mechanical engineering:科学机械工程
 science media center:科学媒体中心
-science media centre of canada:加拿大科學媒體中心
+science media centre of canada:加拿大科学媒体中心
 science media centre:科学媒介中心
 science media centre:科学媒体中心
 science media:科学媒介
@@ -7649,30 +7520,27 @@ science museum and learning:科学博物馆和学习
 science museum and natural history museum:科学博物馆和自然历史博物馆
 science museum currently:科学博物馆目前
 science museum day:科学博物馆日
-science museum group:科學博物館集團
+science museum group:科学博物馆集团
 science museum include:科学博物馆包括
 science museum metro station bus terminus (end):科学馆地铁公交接驳站 (下客区)
 science museum metro station bus terminus:科学馆地铁公交接驳站
 science museum metro station:科学馆地铁站
 science museum more than:科学博物馆超过
 science museum of london:伦敦科学博物馆
-science museum of london:倫敦科學館
-science museum of map and survey:地圖與測量科學館
+science museum of london:伦敦科学馆
+science museum of map and survey:地图与测量科学馆
 science museum of minnesota:明尼苏达科学博物馆
 science museum official website:科学博物馆官方网站
-science museum path:科學館徑
-science museum road:科學館道
-science museum square:科學館廣場
+science museum path:科学馆径
+science museum road:科学馆道
+science museum square:科学馆广场
 science museum station:科学馆站
-science museum station:科學館站
 science museum website:科学博物馆网站
-science museum(jianxing road):科學博物館(健行路)
-science museum(taiwan boulevard):科學博物館(臺灣大道)
+science museum(jianxing road):科学博物馆(健行路)
+science museum(taiwan boulevard):科学博物馆(台湾大道)
 science museum:科学博物馆
 science museum:科学技术馆
 science museum:科学馆
-science museum:科學技術館
-science museum:科學館
 science my religion:科学我的宗教
 science my:科学我的
 science myth:科学神话
@@ -7691,11 +7559,11 @@ science news media:科学新闻媒体
 science news service:科学新闻服务
 science news they:科学新闻他们
 science news:科学新闻
-science ninja team gatchaman:科學小飛俠
+science ninja team gatchaman:科学小飞侠
 science no longer needs:科学不再需要
 science no longer:科学不再
 science nobel prize:科学诺贝尔奖
-science noodles:科學麵
+science noodles:科学面
 science north:科学北
 science not god:科学不是神
 science not silence:科学不是沉默
@@ -7787,27 +7655,21 @@ science origin:科学起源
 science oscar:科学奥斯卡
 science package:科学包
 science paradigm:科学范式
-science park (phase 1):科學園(第一期)
+science park (phase 1):科学园(第一期)
 science park bureau:竹科管理局
-science park east avenue:科技大道東
+science park east avenue:科技大道东
 science park entrance:民营科技园门口站
-science park hub:科技生活館
 science park hub:科技生活馆
 science park metro station:科学公园地铁站
 science park north:科学公园北
-science park north:科學公園北
-science park road public toilet:科學園路公廁
+science park road public toilet:科学园路公厕
 science park road:科学园路
-science park road:科學園路
 science park station:科学公园站
-science park station:科學公園站
 science park towing zone:园区拖吊场
-science park towing zone:園區拖吊場
 science park west avenue:科技大道西
 science park:科学公园
+science park:科学园区
 science park:科学广场站
-science park:科學公園
-science park:科學園區
 science part:科学部分
 science participate:科学参与
 science partners:科学合作伙伴
@@ -8003,7 +7865,7 @@ science signal:科学信号
 science skill:科学技能
 science skills:科学技能
 science so:科学如此
-science society of china:中國科學社
+science society of china:中国科学社
 science society:科学社会
 science software tools:科学软件工具
 science software:科学软件
@@ -8061,7 +7923,6 @@ science teacher and basketball:科学教师和篮球
 science teacher must complete:科学教师必须完成
 science teacher:科学教师
 science teaching building (ng teng fong building):理科教学楼（黄廷方楼）
-science teaching building (ng teng fong building):理科教學樓（黃廷方樓）
 science team discussions:科学团队讨论
 science team member:科学团队成员
 science team members:科学团队成员
@@ -8138,8 +7999,8 @@ science training:科学训练
 science transfer degree:科学转移度
 science transfer:科学转移
 science translation:科学翻译
-science translational medicine study:科學轉化醫學研究
-science translational medicine:科學轉化醫學
+science translational medicine study:科学转化医学研究
+science translational medicine:科学转化医学
 science tree:科学树
 science trend:科学趋势
 science trilogy:科学三部曲
@@ -8173,7 +8034,7 @@ science volunteer:科学志愿者
 science walk:科学步行
 science want:科学想要
 science war:科学战争
-science wars:科學戰爭
+science wars:科学战争
 science was born in:科学诞生于
 science was called:科学被称为
 science was very:科学是非常
@@ -8248,19 +8109,19 @@ science-policy platform:科学政策平台
 science-related courses:科学相关的课程
 science-related policy matter:科学相关的政策问题
 science-related term:科学相关的术语
-science-tech park avenue:科技公園大道
+science-tech park avenue:科技公园大道
 science-technology and culture:科学技术与文化
 science-technology and innovation:科学技术和创新
 science:科学
 sciencenet:科学网
-sciences building:理學大樓
+sciences building:理学大楼
 sciences de la terre & chimie:地球科学和化学楼
-sciences po aix:普羅旺斯艾克斯政治大學
+sciences po aix:普罗旺斯艾克斯政治大学
 sciences po encourage:巴黎政治学院鼓励
 sciences po lille:巴黎政治学院里尔
 sciences po:巴黎政治学院
 scientia potentia est:知识就是力量
-scientia secondary school:創知中學
+scientia secondary school:创知中学
 scientific abilities:科学的能力
 scientific abilities:科学能力
 scientific ability:科学能力
@@ -8626,7 +8487,7 @@ scientific calculation:科学的计算
 scientific calculation:科学计算
 scientific calculations:科学的计算
 scientific calculations:科学计算
-scientific calculator:科學計算機
+scientific calculator:科学计算机
 scientific calendar:科学的日历
 scientific calorie:科学的卡路里
 scientific camera system:科学相机系统
@@ -8702,7 +8563,7 @@ scientific comments:科学注释
 scientific commitment:科学承诺
 scientific committee and japan:科学委员会和日本
 scientific committee contributors:科学委员会贡献者
-scientific committee on antarctic research:南極研究科學委員會
+scientific committee on antarctic research:南极研究科学委员会
 scientific committee recommend:科学委员会建议
 scientific committee recommended:科学委员会建议
 scientific committee will consider:科学委员会将考虑
@@ -8712,13 +8573,13 @@ scientific communication:科学的沟通
 scientific communism:科学共产主义
 scientific communities:科学的社区
 scientific communities:科学社区
-scientific community better:科學界更好
-scientific community currently:科學界目前
-scientific community knows:科學界知道
-scientific community suddenly:科學界突然
+scientific community better:科学界更好
+scientific community currently:科学界目前
+scientific community knows:科学界知道
+scientific community suddenly:科学界突然
+scientific community:科学界
 scientific community:科学的社区
 scientific community:科学社区
-scientific community:科學界
 scientific companies:科学公司
 scientific company:科学公司
 scientific competition:科学竞争
@@ -8751,7 +8612,7 @@ scientific conscience:科学良心
 scientific consciousness:科学意识
 scientific consensus on climate change:关于气候变化的科学共识
 scientific consensus:科学一致意见
-scientific consensus:科學共識
+scientific consensus:科学共识
 scientific consequences:科学的后果
 scientific consideration:科学考虑
 scientific constraint:科学约束
@@ -8769,7 +8630,7 @@ scientific contribution:科学贡献
 scientific contributions and research:科学贡献和研究
 scientific contributions:科学的贡献
 scientific contributions:科学贡献
-scientific control:對照實驗
+scientific control:对照实验
 scientific control:科学控制
 scientific control:科学的控制
 scientific controversy:科学争论
@@ -9032,9 +8893,8 @@ scientific evidence and best practices:科学证据和最佳实践
 scientific evidence and data:科学证据和数据
 scientific evidence and human rights:科学证据和人权
 scientific evidence and methods:科学证据和方法
-scientific evidence and methods:科學證據和方法
 scientific evidence and physician:科学证据和医生
-scientific evidence and recent:科學證據和最近的
+scientific evidence and recent:科学证据和最近的
 scientific evidence and risk management:科学证据和风险管理
 scientific evidence and technical support:科学证据和技术支持
 scientific evidence and us:科学证据和美国
@@ -9042,10 +8902,8 @@ scientific evidence files:科学证据文件
 scientific evidence prove:科学证据证明
 scientific evidence show:科学证据显示
 scientific evidence support:科学证据支持
-scientific evidence support:科學證據支持
 scientific evidence:科学的证据
 scientific evidence:科学证据
-scientific evidence:科學證據
 scientific evolution:科学进化
 scientific exam:科学考试
 scientific example:科学的例子
@@ -9203,7 +9061,7 @@ scientific hubris:科学傲慢
 scientific human resource management system:科学的人力资源管理系统
 scientific human resource management:科学的人力资源管理
 scientific humanism:科学人文主义
-scientific humanitarian committee:科學人道委員會
+scientific humanitarian committee:科学人道委员会
 scientific humor magazine:科学幽默杂志
 scientific humor:科学幽默
 scientific hypothesis:科学假说
@@ -9271,8 +9129,8 @@ scientific institute:科学研究所
 scientific institution:科学制度
 scientific institutions and association:科学机构和协会
 scientific institutions:科学机构
-scientific instrument center:科儀中心
-scientific instrument:科學儀器
+scientific instrument center:科仪中心
+scientific instrument:科学仪器
 scientific insurance:科学的保险
 scientific intent:科学意图
 scientific interaction show:科学交互显示
@@ -9400,11 +9258,11 @@ scientific lighting culture:科学的照明文化
 scientific lighting:科学的照明
 scientific limit:科学限制
 scientific link:科学链接
-scientific literacy:科學素養
-scientific literature providing:科學文獻提供
-scientific literature reveal:科學文獻揭示
+scientific literacy:科学素养
+scientific literature providing:科学文献提供
+scientific literature reveal:科学文献揭示
 scientific literature:科学文学
-scientific literature:科學文獻
+scientific literature:科学文献
 scientific log:科学日志
 scientific logic:科学的逻辑
 scientific logic:科学逻辑
@@ -9512,7 +9370,7 @@ scientific military:科学的军事
 scientific mind:科学头脑
 scientific mind:科学心智
 scientific mind:科学的头脑
-scientific misconduct:科學不端行為
+scientific misconduct:科学不端行为
 scientific mission:科学任务
 scientific mission:科学使命
 scientific missions and cover:科学任务和覆盖
@@ -9523,7 +9381,6 @@ scientific mistakes:科学错误
 scientific mode:科学模式
 scientific mode:科学的模式
 scientific model:科学模型
-scientific model:科學模型
 scientific modeling:科学建模
 scientific modelling programs:科学建模程序
 scientific modelling skills:科学建模技能
@@ -9537,8 +9394,8 @@ scientific museum art museum:科学博物馆艺术博物馆
 scientific museum:科学博物馆
 scientific myth:科学神话
 scientific mythology:科学神话
-scientific name is derived from:學名源自
-scientific name:學名
+scientific name is derived from:学名源自
+scientific name:学名
 scientific name:科学名称
 scientific narrative:科学故事
 scientific nation:科学国家
@@ -9799,7 +9656,6 @@ scientific questions:科学的问题
 scientific questions:科学问题
 scientific race:科学竞赛
 scientific racism:科学种族主义
-scientific racism:科學種族主義
 scientific racist:科学种族主义者
 scientific rain:科学的雨
 scientific rather than:科学的而不是
@@ -9809,9 +9665,9 @@ scientific rationalism and romanticism:科学理性主义和浪漫主义
 scientific rationalism:科学理性主义
 scientific rationalism:科学的理性主义
 scientific rationality:科学理性
-scientific realism usually:科學實在論通常
+scientific realism usually:科学实在论通常
+scientific realism:科学实在论
 scientific realism:科学现实主义
-scientific realism:科學實在論
 scientific reality:科学现实
 scientific reality:科学的现实
 scientific reason:科学原因
@@ -9849,13 +9705,12 @@ scientific reports and consumers:科学报告和消费者
 scientific reports and lecture:科学报告和讲座
 scientific reports:科学报告
 scientific reports:科学的报告
-scientific reports:科學報告
 scientific republic:科学的共和国
 scientific requirements:科学的要求
 scientific requirements:科学要求
 scientific requirements:科学需求
 scientific research and applications:科学的研究和应用
-scientific research and experimental development tax credit program:科學研究和試驗發展稅收優惠方案
+scientific research and experimental development tax credit program:科学研究和试验发展稅收优惠方案
 scientific research capacity:科学的研究能力
 scientific research institute of obstetrics and gynecology named after d. o. ott:科学研究所的妇产科和妇科学的名为后d.o.ott
 scientific research methods:科学的研究方法
@@ -9934,7 +9789,6 @@ scientific simulation:科学仿真
 scientific singapore:科学新加坡
 scientific singing:科学歌唱
 scientific skepticism:科学怀疑论
-scientific skepticism:科學懷疑論
 scientific skill:科学技能
 scientific skill:科学的技能
 scientific skills and knowledge:科学技能和知识
@@ -10109,7 +9963,6 @@ scientific theory must ask itself:科学理论必须问它自己
 scientific theory should be:科学理论应该是
 scientific theory testing:科学理论测试
 scientific theory would:科学理论将
-scientific theory:科学理論
 scientific theory:科学理论
 scientific theory:科学的理论
 scientific thermocouple theory:科学的热电偶理论
@@ -11518,68 +11371,54 @@ scientists would:科学家将
 scientists write or say:科学家写或说
 scientists write:科学家写
 scientists:科学家
-scientology and dianetics:山達基和戴尼提
-scientology and eastern religion:山達基和東方宗教
-scientology and law:山達基教與法律
-scientology as a business:山達基教的商業模式
-scientology belief:山達基信仰
-scientology believe:山達基相信
-scientology contain:山達基包含
-scientology ethics and justice:山達基教的品格與司法
-scientology front groups:山達基掩護機構
-scientology handbook:山達基手冊
-scientology has:山達基有
-scientology headquarters:山達基總部
-scientology ideal:山達基理想
-scientology materials:山達基材料
-scientology new year:山達基新年
-scientology offer:山達基提供
-scientology religion:山達基宗教
-scientology require:山達基要求
-scientology study:山達基研究
-scientology terminology:山達基字彙
-scientology uses:山達基使用
-scientology want:山達基想要
-scientology was true:山達基是真
-scientology world:山達基世界
-scientology:山達基
-scientometrics:科學計量學
+scientology and dianetics:山达基和戴尼提
+scientology and eastern religion:山达基和东方宗教
+scientology and law:山达基教与法律
+scientology as a business:山达基教的商业模式
+scientology belief:山达基信仰
+scientology believe:山达基相信
+scientology contain:山达基包含
+scientology ethics and justice:山达基教的品格与司法
+scientology front groups:山达基掩护机构
+scientology handbook:山达基手册
+scientology has:山达基有
+scientology headquarters:山达基总部
+scientology ideal:山达基理想
+scientology materials:山达基材料
+scientology new year:山达基新年
+scientology offer:山达基提供
+scientology religion:山达基宗教
+scientology require:山达基要求
+scientology study:山达基研究
+scientology terminology:山达基字汇
+scientology uses:山达基使用
+scientology want:山达基想要
+scientology was true:山达基是真
+scientology world:山达基世界
+scientology:山达基
+scientometrics:科学计量学
 scierie:锯木厂
 sciez:锡耶
 scigliano:希利亚诺
-scilla peruviana:地中海綿棗兒
+scilla peruviana:地中海绵枣儿
 scilla:绵枣儿属
 scillato:希拉托
-scilloideae:綿棗兒亞科
-scilly adaları:錫利群島
+scilloideae:绵枣儿亚科
 scilly adaları:锡利群岛
-scilly saared:錫利群島
 scilly saared:锡利群岛
-scilly uharteak:錫利群島
 scilly uharteak:锡利群岛
-scilly-eilande:錫利群島
 scilly-eilande:锡利群岛
-scilly-eilanden:錫利群島
 scilly-eilanden:锡利群岛
-scilly-eilannen:錫利群島
 scilly-eilannen:锡利群岛
-scilly-eylandn:錫利群島
 scilly-eylandn:锡利群岛
-scilly-inseln:錫利群島
 scilly-inseln:锡利群岛
-scilly-szigetek:錫利群島
 scilly-szigetek:锡利群岛
-scilly:錫利群島
 scilly:锡利群岛
-scillynsaaret:錫利群島
 scillynsaaret:锡利群岛
-scillyöarna:錫利群島
 scillyöarna:锡利群岛
-scillyøerne:錫利群島
 scillyøerne:锡利群岛
-scillyøyane:錫利群島
 scillyøyane:锡利群岛
-scimitar oryx:彎角劍羚
+scimitar oryx:弯角剑羚
 scimitar:阿拉伯弯刀
 scimitarbill:弯嘴戴胜属
 scinaiaceae:鲜奈藻科
@@ -11603,15 +11442,15 @@ scingapô:xīnjiāpō
 scingapô:新加坡
 scingapô:新加坡岛
 scingapô:星架坡
-scintillant hummingbird:輝煌蜂鳥
+scintillant hummingbird:辉煌蜂鸟
 scintillation counter:闪烁体探测器
-scintillometer:閃爍計
+scintillometer:闪爍计
 sciodaphyllum:番鹅掌柴属
 sciolze:肖尔泽
-scions of fate:熱血江湖
+scions of fate:热血江湖
 scionzier:雄济耶
-sciora dadent:肖拉達登特山
-sciora dafora:肖拉達福拉山
+sciora dadent:肖拉达登特山
+sciora dafora:肖拉达福拉山
 sciota township:赛欧塔镇区
 scioto madtom:特氏石鮰
 scioto river:赛欧托河
@@ -11620,22 +11459,21 @@ scipio africanus:大西庇阿
 scipio consent:西庇阿同意
 scipio hear:西庇阿听
 scipio said:西庇阿说
-scipio township:西庇阿鎮區
 scipio township:西庇阿镇区
 scipio:西庇阿
-scipionyx:希皮奧內爪龍屬
+scipionyx:希皮奧內爪龙属
 sciria:xùlìyà
 sciria:叙利亚
-sciria:叙利亚 / 敘利亞
-sciria:敘利亞
+sciria:叙利亚 / 敘利亚
+sciria:敘利亚
 scirpoides holoschoenus:球藨草
 scirpophaga:白禾螟属
 scirpus radicans:东北藨草
 scirpus sylvaticus:林生藨草
 scirpus:藨草属
-scirtidae:圓花蚤科
+scirtidae:圆花蚤科
 scisciano:希夏诺
-scissor doors:鍘刀車門
+scissor doors:鍘刀车门
 scissor seven:伍六七
 scissor tailed flycatcher:剪尾王霸鹟
 scissor tailed hummingbird:剪尾蜂鸟
@@ -11644,7 +11482,7 @@ scissors and all:剪刀和所有的
 scissors and cut:剪刀和切割
 scissors and holy water:剪刀和圣水
 scissors and syringe:剪刀和注射器
-scissors bridge:剪刀橋
+scissors bridge:剪刀桥
 scissors cloth:剪刀布
 scissors export:剪刀出口
 scissors hands:剪刀手
@@ -11658,14 +11496,14 @@ scissors or medicine:剪刀或医学
 scissors production:剪刀生产
 scissors tool:剪刀工具
 scissors:剪刀
-scissortail sergeant:六線豆娘魚
-sciurinae:松鼠亞科
-sciurini:樹松鼠
+scissortail sergeant:六线豆娘鱼
+sciurinae:松鼠亚科
+sciurini:树松鼠
 sciurohypnum:拟青藓属
 sciuromorpha:松鼠形亚目
-sciurotamias:岩松鼠屬
-sciurumimus:似松鼠龍屬
-sciurus:松鼠屬
+sciurotamias:岩松鼠属
+sciurumimus:似松鼠龙属
+sciurus:松鼠属
 sciùmme:里耶卡
 sclafani bagni:斯克拉法尼巴尼
 sclater's lark:斯克氏沙百灵
@@ -11677,15 +11515,15 @@ sclera white:巩膜白色
 sclera:巩膜
 scleractinia:石珊瑚目
 scleral lens:巩膜镜
-scleral ring:鞏膜環
-scleralcyonacea:硬軟珊瑚目
+scleral ring:巩膜环
+scleralcyonacea:硬软珊瑚目
 sclerenchyma:厚壁组织
 scleria biflora:二花珍珠茅
 scleria sumatrensis:印度尼西亚珍珠茅
-scleria terrestris:陸生珍珠茅
+scleria terrestris:陆生珍珠茅
 scleria:珍珠茅属
-sclerocactus mesae verdae:中綠硬仙人掌
-sclerocarya birrea:馬魯拉
+sclerocactus mesae verdae:中绿硬仙人掌
+sclerocarya birrea:马鲁拉
 sclerochiton:蓝唇花属
 sclerochloa dura:硬草
 sclerochloa:硬草属
@@ -11701,28 +11539,28 @@ scleroderma day:硬皮病日
 scleroderma drugs:硬皮病药物
 scleroderma patient:硬皮病患者
 scleroderma patients:硬皮病患者
-scleroderma polyrhizum:多根硬皮馬勃
+scleroderma polyrhizum:多根硬皮马勃
 scleroderma research:硬皮病研究
 scleroderma:硬皮病
 sclerodermataceae:硬皮马勃科
 sclerodermus:硬皮肿腿蜂属
 sclerogaster:硬皮腹菌属
 sclerogibbidae:短节蜂科
-scleroglossa:硬舌亞目
+scleroglossa:硬舌亚目
 sclerogryllus:铁蟋属
 scleromitrion diffusum:白花蛇舌草
 scleromitrula:核地杖菌属
-scleromochlus:斯克列羅龍屬
-scleromystax prionotos:鋸背硬唇美鯰
-scleromystax reisi:賴斯硬唇美鯰
-scleromystax salmacis:巴西硬唇美鯰
-scleronomous:定常系統
+scleromochlus:斯克列罗龙属
+scleromystax prionotos:锯背硬唇美鲶
+scleromystax reisi:赖斯硬唇美鲶
+scleromystax salmacis:巴西硬唇美鲶
+scleronomous:定常系统
 scleropages jardinii:珍珠龙鱼
 sclerophyll:硬叶林
 scleropyrum:硬核属
 sclerorhynchidae:硬尖犁头鳐科
 sclerorhynchoidei:硬吻鳐亚目
-sclerosaurus:硬蜥屬
+sclerosaurus:硬蜥属
 sclerosis and autism:硬化和自闭症
 sclerosis and diabetes:硬化和糖尿病
 sclerosis says:硬化说
@@ -11731,80 +11569,78 @@ sclerosponge:硬海绵
 sclerostin:骨硬化蛋白
 sclerotia fui:付氏萤
 sclerotinia:核盘菌属
-sclerotiniaceae:核盤菌科
+sclerotiniaceae:核盘菌科
 sclerurus:硬尾雀属
 sclessin:斯克莱桑
-scmaglev and railway park:磁浮、鐵道館
-scmaglev:超導磁浮列車
+scmaglev and railway park:磁浮、铁道馆
+scmaglev:超导磁浮列车
 sco:苏格兰
-sco:苏格兰 / 蘇格蘭
-sco:蘇格蘭
-scobinancistrus aureatus:金色銼鉤甲鯰
-scobinancistrus pariolispos:巴西銼鉤甲鯰
-scobinichthys granulatus:澳大利亞瓣棘單棘魨
+sco:苏格兰 / 苏格兰
+scobinancistrus aureatus:金色銼鉤甲鲶
+scobinancistrus pariolispos:巴西銼鉤甲鲶
+scobinichthys granulatus:澳大利亚瓣棘单棘魨
 scoble glacier:斯科布冰川
 scodra:斯库台
 scofield reference bible:司可福串注圣经
 scogliere di moher:莫赫悬崖
-scogliere di moher:莫赫懸崖
 scoil lán solas meánscoil:光中学校
 scola de s'institutu shirahama:白滨小学
 scolca:斯科尔卡
-scolecenchelys chilensis:智利蠕蛇鰻
-scolecenchelys cookei:庫克蠕蛇鰻
-scolecenchelys godeffroyi:戈氏蠕蛇鰻
+scolecenchelys chilensis:智利蠕蛇鳗
+scolecenchelys cookei:库克蠕蛇鳗
+scolecenchelys godeffroyi:戈氏蠕蛇鳗
 scolecenchelys iredalei:爱氏蠕蛇鳗
-scolecenchelys japonica:日本蠕蛇鰻
-scolecenchelys profundorum:深蠕蛇鰻
-scolecenchelys puhioilo:變色蠕蛇鰻
-scolecenchelys tasmaniensis:塔斯馬尼亞蠕蛇鰻
-scolecenchelys vermiformis:蟲狀蠕蛇鰻
+scolecenchelys japonica:日本蠕蛇鳗
+scolecenchelys profundorum:深蠕蛇鳗
+scolecenchelys puhioilo:变色蠕蛇鳗
+scolecenchelys tasmaniensis:塔斯马尼亚蠕蛇鳗
+scolecenchelys vermiformis:虫状蠕蛇鳗
 scolecenchelys:蠕蛇鳗属
 scolecophidia:盲蛇下目
 scolecoseps:斯可石龙子属
 scolichthys greenwayi:格氏司考花鱂
-scolichthys iota:瓜地馬拉考花鱂
+scolichthys iota:瓜地马拉考花鱂
 scoliciosporum:绦孢衣属
 scoliidae:土蜂科
-scoliodon:斜齒鯊屬
+scoliodon:斜齿鯊属
 scoliopteryx:棘翅夜蛾属
-scoliosis patients:脊椎側彎病人
-scoliosis:脊椎側彎
+scoliosis patients:脊椎侧弯病人
+scoliosis:脊椎侧弯
 scolobates:齿胫姬蜂属
 scolochloa:水茅属
 scolomastax:锥颚鳄属
-scolomys:厄瓜多爾鬃鼠屬
-scolopendra gigantea:秘魯巨人蜈蚣
-scolopendra polymorpha:亞利桑那沙漠蜈蚣
+scolomys:厄瓜多尔鬃鼠属
+scolopendra gigantea:秘鲁巨人蜈蚣
+scolopendra polymorpha:亚利桑那沙漠蜈蚣
 scolopendra subspinipes:哈氏蜈蚣
 scolopendra:蜈蚣属
 scolopendridae:蜈蚣科
 scolopendromorpha:蜈蚣目
 scolopia:箣柊属
-scoloplax dicra:矮甲鯰
-scoloplax:矮甲鯰科
+scoloplax dicra:矮甲鲶
+scoloplax:矮甲鲶科
 scolopocryptopidae:棘盲蜈蚣科
 scolopocryptops:棘盲蜈蚣属
 scolopsis affinis:相似眶棘鲈
-scolopsis bilineata:雙線眶棘鱸
-scolopsis ciliata:黃點赤尾冬
+scolopsis bilineata:双线眶棘鲈
+scolopsis ciliata:黄点赤尾冬
 scolopsis margaritifera:珠斑赤尾冬
-scolopsis vosmeri:伏氏眶棘鱸
+scolopsis vosmeri:伏氏眶棘鲈
 scolopsis:眶棘鲈属
-scolosaurus:刺甲龍屬
-scomber:鯖屬
-scomberesocidae:秋刀魚科
-scomberoides commersonnianus:康氏似鰺
-scomberoides tol:革似鰺
-scomberoides:似鰺屬
+scolosaurus:刺甲龙属
+scomber:鯖属
+scomberesocidae:秋刀鱼科
+scomberoides commersonnianus:康氏似鲹
+scomberoides tol:革似鲹
+scomberoides:似鲹属
 scomberomorus:马鲛属
 scombridae:鯖科
 scombriformes:鲭形目
-scombroidei:鯖亞目
+scombroidei:鯖亚目
 scombrops boops:牛眼青鯥
 scombrops gilberti:吉氏青鯥
 scombrops oculatus:古巴青鯥
-scone:司康餅
+scone:司康饼
 scontrone:斯孔特罗内
 scooby doo and his friends:史酷比和他的朋友
 scooby doo jump:史酷比跳
@@ -11821,7 +11657,7 @@ scoozi bar:斯意酒吧
 scoozi hostel:斯意酒店
 scoparia dulcis:野甘草
 scoparone:滨蒿内酯
-scopas of aetolia:埃托利亞的斯科帕斯
+scopas of aetolia:埃托利亚的斯科帕斯
 scopas:斯科帕斯
 scope affects:范围影响
 scope allow:范围允许
@@ -11920,12 +11756,12 @@ scope can cover:范围可以涵盖
 scope change:范围改变
 scope changes:范围变化
 scope clause:范围条款
-scope clause:規模條款
+scope clause:规模条款
 scope command:范围命令
 scope control:范围控制
 scope cover:范围涵盖
 scope cover:范围覆盖
-scope creep:範圍蔓延
+scope creep:范围蔓延
 scope decisions:范围决策
 scope define:范围定义
 scope definition:范围定义
@@ -12012,25 +11848,25 @@ scope window:范围窗
 scope within:范围内
 scope-management frameworks:范围管理框架
 scope:范围
-scopelarchoides:擬珠目魚屬
+scopelarchoides:拟珠目鱼属
 scopelarchus analis:柔珠目鱼
 scopelarchus guentheri:根室珠目鱼
-scopelarchus:珠目魚屬
+scopelarchus:珠目鱼属
 scopello:斯科佩洛
-scopeloberyx:燈孔鯛屬
-scopelogadus beanii:皮氏鱗孔鯛
-scopelogadus:鱗孔鯛屬
-scopelopsis:多點真蜥燈魚
-scopelosaurus ahlstromi:阿氏弱蜥魚
-scopelosaurus:弱蜥魚屬
-scopes trial:猴子審判
+scopeloberyx:灯孔鲷属
+scopelogadus beanii:皮氏鳞孔鲷
+scopelogadus:鳞孔鲷属
+scopelopsis:多点真蜥灯鱼
+scopelosaurus ahlstromi:阿氏弱蜥鱼
+scopelosaurus:弱蜥鱼属
+scopes trial:猴子审判
 scophthalmidae:菱鮃科
 scophthalmus maeoticus:黑海菱鮃
 scopi:斯科皮山
 scopia:史高比耶
 scopia:斯科普里
 scopinum:斯科平
-scopolamine:東莨菪鹼
+scopolamine:东莨菪碱
 scopoletin:莨菪亭
 scopolia:赛茛菪属
 scoppito:斯科皮托
@@ -12041,9 +11877,9 @@ scopuloides:扫状菌属
 scopulus:叶状陡坡
 scorched earth coast:焦土海岸
 scorched earth:焦土政策
-scorched rice:鍋巴
-scorching ping pong girls:灼熱的桌球娘
-scordatura:變格定弦
+scorched rice:锅巴
+scorching ping pong girls:灼热的桌球娘
+scordatura:变格定弦
 scordia:斯科尔迪亚
 score a few million page:得分几百万页
 score a few:得分几
@@ -12133,7 +11969,7 @@ score ranking:得分排名
 score reach:得分达到
 score record:得分记录
 score results:得分结果
-score ridge:斯科爾嶺
+score ridge:斯科尔岭
 score rise:得分上升
 score run:得分跑
 score situation:得分情况
@@ -12154,7 +11990,7 @@ score us:得分我们
 score value:得分值
 score very high:得分非常高
 score very:得分非常
-score voting:計分投票制
+score voting:计分投票制
 score was three:得分是三
 score will:得分会
 score with all possible:得分与所有可能的
@@ -12162,12 +11998,12 @@ score would:得分将
 score:得分
 scorer's function:斯科惹函数
 scoresby point:斯科斯比角
-scoresby sound:斯寇爾斯比灣
+scoresby sound:斯寇尔斯比湾
 scoresbysund:斯科斯比松
 scorewriter:制谱软件
 scorff:斯科夫河
 scoria:火山渣
-scoring position:得點圈
+scoring position:得点圈
 scorn and disgust:轻蔑和厌恶
 scorn and hatred:轻蔑和仇恨
 scorn eyes:轻蔑眼睛
@@ -12183,58 +12019,58 @@ scornfully reject:轻蔑地拒绝
 scornfully survey:轻蔑地审视
 scornfully:轻蔑地
 scorodite:臭蔥石
-scorpaena afuerae:阿福鮋
-scorpaena azorica:鷹鮋
-scorpaena brasiliensis:巴西鮋
-scorpaena cardinalis:主鮋
-scorpaena cocosensis:科科斯島鮋
-scorpaena guttata:斑點鮋
-scorpaena jacksoniensis:傑克遜鮋
-scorpaena papillosa:乳突鮋
-scorpaena plumieri:普氏鮋
-scorpaena scrofa:赤鮋
-scorpaena sumptuosa:糙鮋
-scorpaena:鮋屬
-scorpaenidae:鮋科
-scorpaeniformes:鮋形目
-scorpaenodes evides:日本小鮋
-scorpaenodes guamensis:關島小鮋
+scorpaena afuerae:阿福鲉
+scorpaena azorica:鹰鲉
+scorpaena brasiliensis:巴西鲉
+scorpaena cardinalis:主鲉
+scorpaena cocosensis:科科斯岛鲉
+scorpaena guttata:斑点鲉
+scorpaena jacksoniensis:杰克逊鲉
+scorpaena papillosa:乳突鲉
+scorpaena plumieri:普氏鲉
+scorpaena scrofa:赤鲉
+scorpaena sumptuosa:糙鲉
+scorpaena:鲉属
+scorpaenidae:鲉科
+scorpaeniformes:鲉形目
+scorpaenodes evides:日本小鲉
+scorpaenodes guamensis:关岛小鲉
 scorpaenodes minor:小小鲉
-scorpaenodes:小鮋屬
-scorpaenoidei:鮋亞目
-scorpaenopsis altirostris:高吻擬鮋
-scorpaenopsis barbata:髯擬鮋
-scorpaenopsis brevifrons:大口擬鮋
-scorpaenopsis cacopsis:夏威夷擬鮋
-scorpaenopsis cirrosa:鬚擬鮋
-scorpaenopsis cotticeps:杜父擬鮋
-scorpaenopsis crenulata:頭鋸擬鮋
-scorpaenopsis diabolus:毒擬鮋
-scorpaenopsis eschmeyeri:埃氏擬鮋
-scorpaenopsis furneauxi:弗氏擬鮋
-scorpaenopsis gilchristi:吉氏擬鮋
-scorpaenopsis insperatus:悉尼擬鮋
-scorpaenopsis lactomaculata:白斑擬鮋
-scorpaenopsis longispina:長棘擬鮋
-scorpaenopsis neglecta:魔擬鮋
-scorpaenopsis obtusa:鈍吻擬鮋
-scorpaenopsis orientalis:東方擬鮋
-scorpaenopsis oxycephalus:尖頭擬鮋
-scorpaenopsis papuensis:紅擬鮋
-scorpaenopsis pluralis:貪食擬鮋
-scorpaenopsis pusilla:小擬鮋
-scorpaenopsis ramaraoi:拉氏擬鮋
-scorpaenopsis venosa:枕脊擬鮋
-scorpaenopsis vittapinna:紋鰭擬鮋
-scorpaenopsis:擬鮋屬
-scorpididae:蠍魚科
-scorpidinae:蠍魚亞科
+scorpaenodes:小鲉属
+scorpaenoidei:鲉亚目
+scorpaenopsis altirostris:高吻拟鲉
+scorpaenopsis barbata:髯拟鲉
+scorpaenopsis brevifrons:大口拟鲉
+scorpaenopsis cacopsis:夏威夷拟鲉
+scorpaenopsis cirrosa:须拟鲉
+scorpaenopsis cotticeps:杜父拟鲉
+scorpaenopsis crenulata:头锯拟鲉
+scorpaenopsis diabolus:毒拟鲉
+scorpaenopsis eschmeyeri:埃氏拟鲉
+scorpaenopsis furneauxi:弗氏拟鲉
+scorpaenopsis gilchristi:吉氏拟鲉
+scorpaenopsis insperatus:悉尼拟鲉
+scorpaenopsis lactomaculata:白斑拟鲉
+scorpaenopsis longispina:长棘拟鲉
+scorpaenopsis neglecta:魔拟鲉
+scorpaenopsis obtusa:钝吻拟鲉
+scorpaenopsis orientalis:东方拟鲉
+scorpaenopsis oxycephalus:尖头拟鲉
+scorpaenopsis papuensis:红拟鲉
+scorpaenopsis pluralis:贪食拟鲉
+scorpaenopsis pusilla:小拟鲉
+scorpaenopsis ramaraoi:拉氏拟鲉
+scorpaenopsis venosa:枕脊拟鲉
+scorpaenopsis vittapinna:纹鳍拟鲉
+scorpaenopsis:拟鲉属
+scorpididae:蠍鱼科
+scorpidinae:蠍鱼亚科
 scorpidium:蝎尾藓属
 scorpio peaks:天蝎座峰
-scorpiodoras heckelii:赫氏蠍鯰
+scorpiodoras heckelii:赫氏蠍鲶
 scorpion agree:蝎子同意
 scorpion anchor:蝎子锚
-scorpion and felix:蠍子和費里克斯
+scorpion and felix:蠍子和费里克斯
 scorpion and lung:蝎子和肺
 scorpion and snake:蝎子和蛇
 scorpion answer:蝎子回答
@@ -12272,61 +12108,58 @@ scorpion:蝎子
 scorpion:蠍子
 scorpionidae:蝎科
 scorpiothyrsus:卷花丹属
-scorpis:蠍魚屬
+scorpis:蠍鱼属
 scorpius:天蝎座
 scorporo:扣除制
 scorrano:斯科拉诺
-scortum barcoo:澳洲寶石鱸
+scortum barcoo:澳洲宝石鲈
 scortum neili:尼氏革鯻
-scortum:革鯻屬
+scortum:革鯻属
 scorzonera:蛇鸦葱属
 scotch collie:苏格兰牧羊犬
-scotch egg:蘇格蘭蛋
+scotch egg:苏格兰蛋
 scotch game:苏格兰开局
 scotch professors:苏格兰教授
 scotch tape:思高
-scotch whisky and single malt scotch:蘇格蘭威士忌和單一麥芽蘇格蘭威士忌
-scotch whisky brand:蘇格蘭威士忌品牌
-scotch whisky brands:蘇格蘭威士忌品牌
-scotch whisky research:蘇格蘭威士忌研究
-scotch whisky sunglasses:蘇格蘭威士忌太陽眼鏡
-scotch whisky:蘇格蘭威士忌
+scotch whisky and single malt scotch:苏格兰威士忌和单一麦芽苏格兰威士忌
+scotch whisky brand:苏格兰威士忌品牌
+scotch whisky brands:苏格兰威士忌品牌
+scotch whisky research:苏格兰威士忌研究
+scotch whisky sunglasses:苏格兰威士忌太阳眼镜
+scotch whisky:苏格兰威士忌
 scoter:海番鸭属
-scotia arc:斯科舍島弧
+scotia arc:斯科舍岛弧
 scotia bank:苏格兰银行
-scotia bank:蘇格蘭銀行
-scotia bay:斯科舍灣
+scotia bay:斯科舍湾
 scotia itsasoa:斯科舍海
-scotia place:卡加利活動中心
+scotia place:卡加利活动中心
 scotia plate:斯科舍板块
-scotia plaza:斯科細亞廣場
+scotia plaza:斯科细亚广场
 scotia sea:斯科舍海
 scotia-tenger:斯科舍海
 scotia:苏格兰
-scotia:苏格兰 / 蘇格蘭
-scotia:蘇格蘭
-scotiabank aquatics center:豐業銀行水上運動中心
-scotiabank arena:豐業銀行體育館
-scotiabank centre:加拿大豐業銀行中心
-scotiabank saddledome:豐業銀行馬鞍體育館
-scotiabank:加拿大豐業銀行
+scotia:苏格兰 / 苏格兰
+scotiabank aquatics center:丰业银行水上运动中心
+scotiabank arena:丰业银行体育馆
+scotiabank centre:加拿大丰业银行中心
+scotiabank saddledome:丰业银行马鞍体育馆
+scotiabank:加拿大丰业银行
 scotiahavet:斯科舍海
 scotiazee:斯科舍海
 scotijské more:斯科舍海
-scotinomys:褐鼷鼠屬
+scotinomys:褐鼷鼠属
 scotinophara:稻黑蝽属
 scotiophyes:双卷蛾属
 scotland a man:苏格兰一个男人
 scotland achieve:苏格兰实现
-scotland all:蘇格蘭全部
+scotland all:苏格兰全部
 scotland already:苏格兰已经
 scotland also has:苏格兰也有
 scotland and afghanistan:苏格兰和阿富汗
 scotland and azerbaijan:苏格兰和阿塞拜疆
+scotland and britain:苏格兰和不列颠
 scotland and britain:苏格兰和英国
-scotland and britain:蘇格蘭和不列顛
 scotland and canada:苏格兰和加拿大
-scotland and canada:蘇格蘭和加拿大
 scotland and catalonia:苏格兰和加泰罗尼亚
 scotland and china:苏格兰与中国
 scotland and china:苏格兰和中国
@@ -12349,18 +12182,16 @@ scotland and japan:苏格兰和日本
 scotland and london:苏格兰和伦敦
 scotland and morocco:苏格兰和摩洛哥
 scotland and namibia:苏格兰和纳米比亚
-scotland and new england:蘇格蘭和新英格蘭
+scotland and new england:苏格兰和新英格兰
 scotland and new zealand:苏格兰和新西兰
 scotland and northern ireland:苏格兰和北爱尔兰
 scotland and norway:苏格兰和挪威
-scotland and norway:蘇格蘭和挪威
 scotland and paris:苏格兰和巴黎
 scotland and samoa:苏格兰与萨摩亚
 scotland and serbia:苏格兰和塞尔维亚
 scotland and south africa:苏格兰和南非
 scotland and south yorkshire:苏格兰和南约克郡
 scotland and sweden:苏格兰和瑞典
-scotland and sweden:蘇格蘭和瑞典
 scotland and switzerland:苏格兰和瑞士
 scotland and the united kingdom:苏格兰和英国
 scotland and the united states:苏格兰和美国
@@ -12368,7 +12199,7 @@ scotland and three:苏格兰和三
 scotland and wales already:苏格兰和威尔士已经
 scotland and wales:苏格兰与威尔士
 scotland and wales:苏格兰和威尔士
-scotland and wales:蘇格蘭和威爾斯
+scotland and wales:苏格兰和威尔斯
 scotland animal health:苏格兰动物健康
 scotland animal:苏格兰动物
 scotland area:苏格兰地区
@@ -12388,7 +12219,6 @@ scotland brand:苏格兰品牌
 scotland by:苏格兰被
 scotland cannot:苏格兰不能
 scotland cap:苏格兰帽
-scotland cap:蘇格蘭帽
 scotland change six:苏格兰改变六
 scotland change:苏格兰改变
 scotland city:苏格兰城市
@@ -12396,10 +12226,8 @@ scotland club:苏格兰俱乐部
 scotland coach:苏格兰教练
 scotland continue:苏格兰继续
 scotland could:苏格兰能
-scotland could:蘇格蘭能
 scotland county:苏格兰县
-scotland county:蘇格蘭縣
-scotland culture:蘇格蘭文化
+scotland culture:苏格兰文化
 scotland currently:苏格兰目前
 scotland decide:苏格兰决定
 scotland decides:苏格兰决定
@@ -12421,13 +12249,12 @@ scotland government:苏格兰政府
 scotland had been:苏格兰已经
 scotland had five:苏格兰有五
 scotland has unique:苏格兰有独特的
-scotland has whisky:蘇格蘭有威士忌
+scotland has whisky:苏格兰有威士忌
 scotland has:苏格兰有
 scotland head coach frank:苏格兰主教练弗兰克
 scotland head coach:苏格兰主教练
 scotland health:苏格兰健康
 scotland highland:苏格兰高地
-scotland highland:蘇格蘭高地
 scotland hope:苏格兰希望
 scotland hopes:苏格兰希望
 scotland in the future:苏格兰在未来
@@ -12450,25 +12277,23 @@ scotland media:苏格兰媒体
 scotland midfielder:苏格兰中场
 scotland music art:苏格兰音乐艺术
 scotland music:苏格兰音乐
-scotland national badminton team:蘇格蘭國家羽毛球隊
-scotland national cricket team:蘇格蘭國家板球隊
-scotland national football b team:蘇格蘭足球代表乙隊
-scotland national football team:蘇格蘭足球代表隊
-scotland national rugby union team:蘇格蘭橄欖球代表隊
+scotland national badminton team:苏格兰国家羽毛球队
+scotland national cricket team:苏格兰国家板球队
+scotland national football b team:苏格兰足球代表乙队
+scotland national football team:苏格兰足球代表队
+scotland national rugby union team:苏格兰橄榄球代表队
 scotland national team:苏格兰国家队
 scotland needs answer:苏格兰需要回答
 scotland needs or would:苏格兰需要或将
-scotland needs you:蘇格蘭需要你
+scotland needs you:苏格兰需要你
 scotland needs:苏格兰需要
-scotland needs:蘇格蘭需要
 scotland newspaper:苏格兰报纸
 scotland north coast:苏格兰北海岸
 scotland now:苏格兰现在
 scotland obtain:苏格兰获得
 scotland offer:苏格兰提供
-scotland offer:蘇格蘭提供
-scotland office:蘇格蘭事務部
-scotland office:蘇格蘭辦公室
+scotland office:苏格兰事务部
+scotland office:苏格兰办公室
 scotland or elsewhere:苏格兰或其它地方
 scotland or ireland:苏格兰或爱尔兰
 scotland or northern ireland:苏格兰或北爱尔兰
@@ -12478,11 +12303,11 @@ scotland plans:苏格兰计划
 scotland poetry:苏格兰诗歌
 scotland policy and public:苏格兰政策和公共
 scotland policy:苏格兰政策
-scotland politics:蘇格蘭政治
+scotland politics:苏格兰政治
 scotland project:苏格兰项目
 scotland provide:苏格兰提供
 scotland receive:苏格兰收到
-scotland recently:蘇格蘭最近
+scotland recently:苏格兰最近
 scotland referendum:苏格兰公民投票
 scotland reject:苏格兰拒绝
 scotland road:苏格兰路
@@ -12491,8 +12316,8 @@ scotland rugby league:苏格兰橄榄球联盟
 scotland rugby union:苏格兰橄榄球联盟
 scotland safety:苏格兰安全
 scotland secretary:苏格兰秘书
-scotland series:蘇格蘭系列
-scotland sevens:愛丁堡國際七人欖球賽
+scotland series:苏格兰系列
+scotland sevens:爱丁堡国际七人榄球赛
 scotland should become canada:苏格兰应该成为加拿大
 scotland so:苏格兰如此
 scotland south:苏格兰南
@@ -12505,7 +12330,7 @@ scotland street school museum:苏格兰街学校博物馆
 scotland street:苏格兰街
 scotland team:苏格兰队
 scotland than christmas:苏格兰比圣诞节
-scotland the brave:蘇格蘭勇士
+scotland the brave:苏格兰勇士
 scotland their land:苏格兰他们的土地
 scotland their:苏格兰他们的
 scotland threat:苏格兰威胁
@@ -12515,12 +12340,10 @@ scotland too:苏格兰也
 scotland tourism:苏格兰旅游
 scotland under the commonwealth:英格兰共和国治下的苏格兰
 scotland uses:苏格兰使用
-scotland uses:蘇格蘭使用
 scotland using:苏格兰使用
 scotland veto:苏格兰否决权
 scotland visit:苏格兰访问
 scotland vote:苏格兰投票
-scotland vote:蘇格蘭投票
 scotland votes:苏格兰投票
 scotland was called:苏格兰被称为
 scotland was europe:苏格兰是欧洲
@@ -12529,34 +12352,31 @@ scotland welcome:苏格兰欢迎
 scotland who:苏格兰谁
 scotland will no longer:苏格兰将不再
 scotland will:苏格兰会
-scotland women's national football team:蘇格蘭女子足球代表隊
+scotland women's national football team:苏格兰女子足球代表队
 scotland would:苏格兰将
 scotland yard:苏格兰场
-scotland yard:蘇格蘭場
 scotland zoo:苏格兰动物园
 scotland:苏格兰
-scotland:苏格兰 / 蘇格蘭
-scotland:蘇格蘭
+scotland:苏格兰 / 苏格兰
 scotlandia:苏格兰
-scotlandia:苏格兰 / 蘇格蘭
-scotlandia:蘇格蘭
+scotlandia:苏格兰 / 苏格兰
 scotoecus:宽吻蝠属
 scotophaeus:斯托蛛属
 scotophilus:高头蝠属
 scots and english:苏格兰语和英语
 scots and modern english:苏格兰语和现代英语
-scots guards:蘇格蘭衛隊
+scots guards:苏格兰卫队
 scots hotel:苏格兰酒店
-scots language:低地蘇格蘭語
-scots law:蘇格蘭法律制度
-scots wikipedia:低地蘇格蘭語維基百科
+scots language:低地苏格兰语
+scots law:苏格兰法律制度
+scots wikipedia:低地苏格兰语维基百科
 scots:苏格兰语
 scott accept:斯科特接受
 scott actually:斯科特实际上
 scott adams said:斯科特亚当斯说
 scott adams:斯科特亚当斯
 scott agree:斯科特同意
-scott air force base:斯科特空軍基地
+scott air force base:斯科特空军基地
 scott alexander:斯科特亚历山大
 scott already:斯科特已经
 scott also attend:斯科特也参加
@@ -12610,13 +12430,13 @@ scott believe:斯科特相信
 scott bernstein:斯科特伯恩斯坦
 scott bolton said:斯科特博尔顿说
 scott bolton:斯科特博尔顿
-scott brison:白萊遜
+scott brison:白莱逊
 scott bush:斯科特布什
 scott call:斯科特打电话给
 scott campus:斯科特校园
 scott card:斯科特卡
 scott case:斯科特案件
-scott catalogue:斯科特目錄
+scott catalogue:斯科特目录
 scott caution:斯科特警告
 scott centre:斯科特中心
 scott chandler:斯科特钱德勒
@@ -12624,7 +12444,6 @@ scott chapman:斯科特查普曼
 scott circle:斯科特圆环
 scott coast:斯科特海岸
 scott college:斯科特学院
-scott college:斯科特學院
 scott command:斯科特命令
 scott community center:斯科特社区中心
 scott community:斯科特社区
@@ -12637,7 +12456,6 @@ scott continuity:斯科特连续性
 scott county delegate:斯科特县委托
 scott county line:斯科特县线
 scott county:斯科特县
-scott county:斯科特縣
 scott crawford:斯科特克劳福德
 scott create:斯科特创造
 scott criticize:斯科特批评
@@ -12673,7 +12491,7 @@ scott has been:斯科特已经
 scott has:斯科特有
 scott help:斯科特帮助
 scott hopes:斯科特希望
-scott hospital:斯科特醫院
+scott hospital:斯科特医院
 scott i want:斯科特我想要
 scott ignore:斯科特忽略
 scott information system:斯科特信息系统
@@ -12685,7 +12503,6 @@ scott invite:斯科特邀请
 scott is a mile:斯科特是一英里
 scott is an absolute:斯科特是一个绝对
 scott island:斯科特岛
-scott island:斯科特島
 scott israel said:斯科特以色列说
 scott israel:斯科特以色列
 scott jack:斯科特杰克
@@ -12695,7 +12512,7 @@ scott johnson:斯科特约翰逊
 scott jones:斯科特琼斯
 scott just:斯科特只
 scott kelly:斯科特凱利
-scott keltie glacier:斯科特凱爾蒂冰川
+scott keltie glacier:斯科特凱尔蒂冰川
 scott kennedy:斯科特肯尼迪
 scott king:斯科特国王
 scott king:斯科特王
@@ -12703,7 +12520,7 @@ scott kriens:斯科特克林斯
 scott laboratory:斯科特实验室
 scott laugh:斯科特笑
 scott lee:斯科特勒
-scott leung:梁文廣
+scott leung:梁文广
 scott like:斯科特喜欢
 scott lin:林耀英
 scott martin own:斯科特马丁拥有
@@ -12723,7 +12540,7 @@ scott nation:斯科特国家
 scott needs:斯科特需要
 scott note:斯科特注意
 scott now:斯科特现在
-scott nunataks:斯科特冰原島峰
+scott nunataks:斯科特冰原岛峰
 scott or amun:斯科特或阿蒙
 scott or me:斯科特或我
 scott or paul:斯科特或保罗
@@ -12734,12 +12551,12 @@ scott park:斯科特公园
 scott parker:斯科特帕克
 scott paul:斯科特保罗
 scott peak:斯科特峰
-scott peninsula:斯科特半島
+scott peninsula:斯科特半岛
 scott peter:斯科特彼得
 scott photo:斯科特照片
 scott plan:斯科特计划
 scott play:斯科特玩
-scott polar research institute:史考特極地研究中心
+scott polar research institute:史考特极地研究中心
 scott predict:斯科特预测
 scott press:斯科特按
 scott provides:斯科特提供
@@ -12757,7 +12574,7 @@ scott richardson:斯科特理查森
 scott road station:史葛路站
 scott road:斯科特路
 scott robinson:斯科特罗宾逊
-scott rozelle:羅斯高
+scott rozelle:罗斯高
 scott said he believe:斯科特说他相信
 scott said:斯科特说
 scott said:斯考特说
@@ -12776,7 +12593,7 @@ scott sold:斯科特卖
 scott spent:斯科特花
 scott spokesman john:斯科特发言人约翰
 scott spokesman:斯科特发言人
-scott sports:斯科特體育
+scott sports:斯科特体育
 scott start:斯科特开始
 scott station:斯科特站
 scott still:斯科特仍然
@@ -12784,16 +12601,15 @@ scott street:斯科特街
 scott support:斯科特支持
 scott team:斯科特团队
 scott tell:斯科特告诉
-scott tenorman must die:傲賽馬必須死
+scott tenorman must die:傲赛马必须死
 scott think:斯科特想
 scott think:斯科特认为
 scott thomas:斯科特托马斯
 scott thomas:斯考特托马斯
 scott thompson:斯科特汤普森
 scott through:斯科特通过
-scott township:斯科特鎮區
 scott township:斯科特镇区
-scott township:斯考特鎮區
+scott township:斯考特镇区
 scott trust:斯科特信托
 scott university:斯科特大学
 scott uplands:斯科特高地
@@ -12840,7 +12656,7 @@ scottish airport:苏格兰机场
 scottish airport:苏格兰的机场
 scottish alternative rock band:苏格兰另类摇滚乐队
 scottish alternative rock:苏格兰另类摇滚
-scottish americans:蘇格蘭裔美國人
+scottish americans:苏格兰裔美国人
 scottish ancestor:苏格兰祖先
 scottish and british government:苏格兰和英国政府
 scottish and chinese scientists:苏格兰和中国的科学家
@@ -12910,7 +12726,7 @@ scottish books:苏格兰书
 scottish books:苏格兰书籍
 scottish border:苏格兰边
 scottish border:苏格兰边界
-scottish borders:蘇格蘭邊區
+scottish borders:苏格兰边区
 scottish boss:苏格兰老板
 scottish boy:苏格兰男孩
 scottish branch:苏格兰分支
@@ -12936,12 +12752,12 @@ scottish catholic:苏格兰的天主教
 scottish catholicism:苏格兰天主教
 scottish celebration:苏格兰庆祝
 scottish center:苏格兰中心
-scottish challenge cup:蘇格蘭挑戰盃
+scottish challenge cup:苏格兰挑战杯
 scottish chamber orchestra:苏格兰室内乐团
 scottish champion:苏格兰冠军
 scottish champions:苏格兰冠军
+scottish championship:苏格兰足球冠军联赛
 scottish championship:苏格兰锦标赛
-scottish championship:蘇格蘭足球冠軍聯賽
 scottish chemist andrew:苏格兰化学家安德鲁
 scottish chemist joseph:苏格兰化学家约瑟夫
 scottish chemist thomas:苏格兰化学家托马斯
@@ -12996,12 +12812,12 @@ scottish crime record:苏格兰犯罪记录
 scottish crime:苏格兰犯罪
 scottish crossbill:苏格兰交嘴雀
 scottish crown:苏格兰王冠
-scottish cuisine:蘇格蘭飲食
+scottish cuisine:苏格兰饮食
 scottish culture and economy:苏格兰文化和经济
 scottish culture:苏格兰文化
 scottish cup and scottish:苏格兰杯和苏格兰
 scottish cup:苏格兰杯
-scottish cup:蘇格蘭足總盃
+scottish cup:苏格兰足总杯
 scottish currency:苏格兰货币
 scottish curriculum:苏格兰课程
 scottish curry awards:苏格兰咖喱奖
@@ -13055,7 +12871,6 @@ scottish engineer:苏格兰工程师
 scottish engineers:苏格兰工程师
 scottish engineers:苏格兰的工程师们
 scottish english:苏格兰英语
-scottish english:蘇格蘭英語
 scottish enlightenment:苏格兰启蒙
 scottish enlightenment:苏格兰启蒙运动
 scottish enlightenment:苏格兰的启蒙
@@ -13068,7 +12883,7 @@ scottish environment minister:苏格兰环境部长
 scottish environment:苏格兰环境
 scottish environmental protection agency:苏格兰环境保护局
 scottish environmental protection:苏格兰环境保护
-scottish episcopal church:蘇格蘭聖公會
+scottish episcopal church:苏格兰圣公会
 scottish event:苏格兰事件
 scottish exam:苏格兰考试
 scottish exhibition and conference:苏格兰展览和会议
@@ -13081,11 +12896,11 @@ scottish explorer and scientist:苏格兰探险家和科学家
 scottish explorer:苏格兰探险家
 scottish explorer:苏格兰的探险家
 scottish export:苏格兰出口
-scottish fa international roll of honour:蘇格蘭足球國際賽代表榮譽榜
+scottish fa international roll of honour:苏格兰足球国际赛代表荣誉榜
 scottish factory:苏格兰工厂
 scottish families:苏格兰家庭
 scottish family:苏格兰家庭
-scottish fantasy:蘇格蘭幻想曲
+scottish fantasy:苏格兰幻想曲
 scottish farm:苏格兰农场
 scottish farmer:苏格兰农民
 scottish father:苏格兰父亲
@@ -13095,34 +12910,32 @@ scottish films:苏格兰电影
 scottish financial risk:苏格兰金融风险
 scottish financial services:苏格兰金融服务
 scottish fintech:苏格兰金融科技
-scottish fire and rescue service:蘇格蘭消防救援隊
+scottish fire and rescue service:苏格兰消防救援队
 scottish fishing industry:苏格兰渔业
 scottish five:苏格兰五
 scottish flag:苏格兰旗
 scottish fly:苏格兰飞
-scottish fold:蘇格蘭摺耳貓
+scottish fold:苏格兰折耳猫
 scottish food and drink:苏格兰食品和饮料
 scottish food:苏格兰的食品
 scottish food:苏格兰食品
 scottish foot:苏格兰脚
 scottish football and our members:苏格兰足球和我们的成员
 scottish football association:苏格兰足球协会
-scottish football association:蘇格蘭足球協會
 scottish football club:苏格兰足球俱乐部
-scottish football hall of fame:蘇格蘭足球名人堂
+scottish football hall of fame:苏格兰足球名人堂
 scottish football history:苏格兰足球历史
-scottish football league first division:蘇格蘭足球甲級聯賽
-scottish football league premier division:蘇格蘭足球聯賽超級聯賽
-scottish football league second division:蘇格蘭足球乙級聯賽
-scottish football league system:蘇格蘭足球聯賽系統
+scottish football league first division:苏格兰足球甲级联赛
+scottish football league premier division:苏格兰足球联赛超级联赛
+scottish football league second division:苏格兰足球乙级联赛
+scottish football league system:苏格兰足球联赛系统
 scottish football league third division:苏格兰足球丙级联赛
-scottish football league:蘇格蘭足球聯賽
+scottish football league:苏格兰足球联赛
 scottish football museum:苏格兰足球博物馆
-scottish football museum:蘇格蘭足球博物館
 scottish football team:苏格兰足球队
 scottish football:苏格兰足球
 scottish forestry:苏格兰林业
-scottish forestry:蘇格蘭林業局
+scottish forestry:苏格兰林业局
 scottish form of john:苏格兰形式的约翰
 scottish form:苏格兰形式
 scottish fortification:苏格兰防御工事
@@ -13135,11 +12948,11 @@ scottish fund:苏格兰基金
 scottish funeral music:苏格兰葬礼音乐
 scottish funeral:苏格兰葬礼
 scottish furniture:苏格兰家具
-scottish gaelic name:蘇格蘭蓋爾語人名
+scottish gaelic name:苏格兰盖尔语人名
 scottish gaelic poet:苏格兰盖尔语诗人
 scottish gaelic poetry:苏格兰盖尔语诗歌
 scottish gaelic punk:苏格兰盖尔语朋克
-scottish gaelic wikipedia:蘇格蘭蓋爾語維基百科
+scottish gaelic wikipedia:苏格兰盖尔语维基百科
 scottish gaelic:苏格兰盖尔语
 scottish gallery:苏格兰画廊
 scottish game:苏格兰游戏
@@ -13175,7 +12988,6 @@ scottish government will consider whether:苏格兰政府将考虑是否
 scottish government work:苏格兰政府工作
 scottish government would:苏格兰政府将
 scottish government:苏格兰政府
-scottish government:蘇格蘭政府
 scottish governments:苏格兰政府
 scottish grass:苏格兰草
 scottish green:苏格兰绿色
@@ -13200,7 +13012,7 @@ scottish highland cattle:苏格兰高地牛
 scottish highland dance:苏格兰高地舞蹈
 scottish highland village:苏格兰高地村
 scottish highland:苏格兰高地
-scottish highlands:蘇格蘭高地
+scottish highlands:苏格兰高地
 scottish historian:苏格兰历史学家
 scottish historical school:苏格兰历史的学校
 scottish historical society:苏格兰历史学会
@@ -13225,8 +13037,8 @@ scottish independence vote:苏格兰独立投票
 scottish independence white paper:苏格兰独立白皮书
 scottish independence would:苏格兰独立将
 scottish independence:苏格兰独立
+scottish independence:苏格兰独立运动
 scottish independence:苏格兰的独立
-scottish independence:蘇格蘭獨立運動
 scottish industry:苏格兰工业
 scottish infantry:苏格兰步兵
 scottish influence it:苏格兰影响它
@@ -13277,7 +13089,7 @@ scottish land:苏格兰土地
 scottish landscape:苏格兰的风景
 scottish landscape:苏格兰风景
 scottish language:苏格兰人语言
-scottish language:蘇格蘭語
+scottish language:苏格兰语
 scottish law allow:苏格兰法律允许
 scottish law association:苏格兰法律协会
 scottish law is different:苏格兰的法律是不同的
@@ -13286,18 +13098,17 @@ scottish law:苏格兰法律
 scottish law:苏格兰的法律
 scottish laws are different:苏格兰的法律是不同的
 scottish laws:苏格兰的法律
-scottish league cup:蘇格蘭聯賽盃
+scottish league cup:苏格兰联赛杯
 scottish left:苏格兰左
 scottish legal aid:苏格兰法律援助
 scottish legend:苏格兰传说
 scottish legend:苏格兰的传说
-scottish liberal democrats:蘇格蘭自由民主黨
+scottish liberal democrats:苏格兰自由民主党
 scottish life and history:苏格兰生活与历史
 scottish life:苏格兰人生活
 scottish life:苏格兰生活
 scottish life:苏格兰的生活
 scottish literature:苏格兰文学
-scottish literature:蘇格蘭文學
 scottish lobster:苏格兰龙虾
 scottish local government:苏格兰地方政府
 scottish location:苏格兰位置
@@ -13305,7 +13116,7 @@ scottish lottery:苏格兰彩票
 scottish lover:苏格兰的爱人
 scottish lowland clan:苏格兰低地氏族
 scottish lowland:苏格兰低地
-scottish lowlands:蘇格蘭低地
+scottish lowlands:苏格兰低地
 scottish lyme disease:苏格兰莱姆病
 scottish mafia:苏格兰黑手党
 scottish maldives:苏格兰的马尔代夫
@@ -13349,21 +13160,20 @@ scottish name:苏格兰的名字
 scottish nanny:苏格兰保姆
 scottish nation:苏格兰国家
 scottish national day:苏格兰国庆日
-scottish national gallery of modern art:蘇格蘭國立現代藝術美術館
-scottish national gallery:蘇格蘭國家畫廊
+scottish national gallery of modern art:苏格兰国立现代艺术美术馆
+scottish national gallery:苏格兰国家画廊
 scottish national identity:苏格兰人民族认同
 scottish national party leader:苏格兰民族党领袖
 scottish national party members:苏格兰民族党成员
 scottish national party said:苏格兰民族党说
 scottish national party say:苏格兰民族党说
 scottish national party:苏格兰民族党
-scottish national portrait gallery:蘇格蘭國立肖像美術館
+scottish national portrait gallery:苏格兰国立肖像美术馆
 scottish national team:苏格兰国家队
 scottish national war memorial:苏格兰国家战争纪念馆
 scottish national:苏格兰国家的
 scottish nationalism:苏格兰民族主义
 scottish nationalism:苏格兰的民族主义
-scottish nationalism:蘇格蘭民族主義
 scottish nationalist rallying:苏格兰民族主义者拉力赛
 scottish nationalist:苏格兰民族主义者
 scottish natural heritage and forestry:苏格兰自然遗产和林业
@@ -13399,16 +13209,14 @@ scottish palestine:苏格兰巴勒斯坦
 scottish paper:苏格兰纸
 scottish parents:苏格兰父母
 scottish parents:苏格兰的父母
-scottish parliament building:蘇格蘭議會大樓
+scottish parliament building:苏格兰议会大楼
 scottish parliament election:苏格兰国会选举
 scottish parliament election:苏格兰议会选举
-scottish parliament election:蘇格蘭議會選舉
 scottish parliament elections:苏格兰议会选举
 scottish parliament open:苏格兰议会开
 scottish parliament:苏格兰国会
 scottish parliament:苏格兰的议会
 scottish parliament:苏格兰议会
-scottish parliament:蘇格蘭議會
 scottish party:苏格兰党
 scottish pastor robert:苏格兰牧师罗伯特
 scottish pastor:苏格兰牧师
@@ -13419,9 +13227,9 @@ scottish patriot:苏格兰爱国者
 scottish pattern:苏格兰的模式
 scottish peasants:苏格兰农民
 scottish people and scottish:苏格兰人民和苏格兰
+scottish people:苏格兰人
 scottish people:苏格兰人民
 scottish people:苏格兰民
-scottish people:蘇格蘭人
 scottish performance artist:苏格兰的表演艺术家
 scottish philosopher and economist:苏格兰哲学家和经济学家
 scottish philosopher and historian:苏格兰哲学家和历史学家
@@ -13463,7 +13271,7 @@ scottish port:苏格兰港口
 scottish pound:苏格兰英镑
 scottish power:苏格兰电力
 scottish prejudice:苏格兰偏见
-scottish premiership:蘇格蘭足球超級聯賽
+scottish premiership:苏格兰足球超级联赛
 scottish primary school:苏格兰小学
 scottish prime minister:苏格兰总理
 scottish prince:苏格兰王子
@@ -13497,7 +13305,6 @@ scottish referendum:苏格兰全民投票
 scottish referendum:苏格兰公民投票
 scottish reform:苏格兰改革
 scottish reformation:苏格兰宗教改革
-scottish reformation:蘇格蘭宗教改革
 scottish refugee council:苏格兰难民委员会
 scottish refugee:苏格兰难民
 scottish regiment:苏格兰团
@@ -13542,7 +13349,7 @@ scottish scientists:苏格兰科学家
 scottish sculptor andy:苏格兰雕塑家安迪
 scottish sculptor:苏格兰雕塑家
 scottish sea:苏格兰海
-scottish seabird centre:蘇格蘭海鳥中心
+scottish seabird centre:苏格兰海鸟中心
 scottish seafood:苏格兰海鲜
 scottish secretary of state:苏格兰国务卿
 scottish secretary:苏格兰秘书
@@ -13561,7 +13368,7 @@ scottish shipbuilding:苏格兰造船
 scottish shipyard:苏格兰造船厂
 scottish singer:苏格兰歌手
 scottish singer:苏格兰的歌手
-scottish singles and albums charts:蘇格蘭單曲和專輯榜
+scottish singles and albums charts:苏格兰单曲和专辑榜
 scottish skiing:苏格兰滑雪
 scottish slang:苏格兰俚语
 scottish soccer:苏格兰足球
@@ -13570,7 +13377,7 @@ scottish socialist party colleagues:苏格兰社会党同事
 scottish socialist party:苏格兰社会主义者党
 scottish socialist party:苏格兰社会党
 scottish socialist:苏格兰社会主义者
-scottish society for prevention of cruelty to animals:蘇格蘭防止虐待動物協會
+scottish society for prevention of cruelty to animals:苏格兰防止虐待动物协会
 scottish society for the prevention of cruelty to animals:苏格兰防止虐待动物协会
 scottish society in the middle ages:中世纪时期的苏格兰社会
 scottish society:苏格兰社会
@@ -13580,7 +13387,7 @@ scottish song:苏格兰歌曲
 scottish sovereignty:苏格兰的主权
 scottish spirit:苏格兰精神
 scottish sport:苏格兰运动
-scottish sports hall of fame:蘇格蘭體育名人堂
+scottish sports hall of fame:苏格兰体育名人堂
 scottish standard:苏格兰标准
 scottish stem cell:苏格兰干细胞
 scottish store:苏格兰商店
@@ -13606,7 +13413,7 @@ scottish sword:苏格兰剑
 scottish tea:苏格兰茶
 scottish team:苏格兰队
 scottish television:苏格兰电视
-scottish television:蘇格蘭電視台
+scottish television:苏格兰电视台
 scottish tennis player:苏格兰网球运动员
 scottish tennis:苏格兰网球
 scottish territory:苏格兰领土
@@ -13632,7 +13439,7 @@ scottish university:苏格兰大学
 scottish users:苏格兰用户
 scottish utility:苏格兰效用
 scottish vacation:苏格兰度假
-scottish variable rate:蘇格蘭浮動利率
+scottish variable rate:苏格兰浮动利率
 scottish version:苏格兰版本
 scottish vessel:苏格兰船
 scottish video game:苏格兰电子游戏
@@ -13658,7 +13465,7 @@ scottish whisky exports:苏格兰威士忌出口
 scottish whisky heritage centre:苏格兰威士忌遗产中心
 scottish whisky:苏格兰威士忌
 scottish widow:苏格兰寡妇
-scottish widows:蘇格蘭遺孀基金
+scottish widows:苏格兰遗孀基金
 scottish wife:苏格兰妻子
 scottish wildlife:苏格兰野生动物
 scottish wind:苏格兰风
@@ -13682,39 +13489,38 @@ scottish youth:苏格兰青年
 scottish:苏格兰
 scottish:苏格兰人
 scottish:苏格兰的
-scottishpower:蘇格蘭電力
-scotts bluff national monument:斯科茨布拉夫國家紀念區
-scottsdale office:斯科茨代爾辦公室
-scottsdale stadium:斯科茨代爾體育場
-scottsdale:斯科茨代爾
-scount association of hong kong island district headquarters:香港童軍總會離島區童軍總部
-scouring pad:百潔布
+scottishpower:苏格兰电力
+scotts bluff national monument:斯科茨布拉夫国家纪念区
+scottsdale office:斯科茨代尔办公室
+scottsdale stadium:斯科茨代尔体育场
+scottsdale:斯科茨代尔
+scount association of hong kong island district headquarters:香港童军总会离岛区童军总部
+scouring pad:百洁布
 scouse:斯高斯方言
 scout a location:侦察一个位置
 scout aircraft and submarine:侦察飞机和潜艇
 scout aircraft:侦察飞机
 scout and identify weed:侦察和识别杂草
 scout and support combat:侦察和支持战斗
-scout association of hong kong gilwell campsite:香港童軍總會基維爾營地
-scout association of hong kong new territories east regional headquarters:香港童軍總會新界東地域總部
-scout association of hong kong tai mei tuk sea activity centre:香港童軍總會大美督海上活動中心
-scout association of hong kong wong tai sin district:香港童軍總會 黃大仙區
-scout association of hong kong yuen long west district headquarters:香港童軍總會元朗西區區總部
-scout association of hong kong:香港童軍總會
-scout association of japan:日本童軍總會
-scout association of macau:澳門童軍總會
+scout association of hong kong gilwell campsite:香港童军总会基维尔营地
+scout association of hong kong new territories east regional headquarters:香港童军总会新界东地域总部
+scout association of hong kong tai mei tuk sea activity centre:香港童军总会大美督海上活动中心
+scout association of hong kong wong tai sin district:香港童军总会 黄大仙区
+scout association of hong kong yuen long west district headquarters:香港童军总会元朗西区区总部
+scout association of hong kong:香港童军总会
+scout association of japan:日本童军总会
+scout association of macau:澳门童军总会
 scout association of nigeria:尼日利亚童子军协会
-scout association of the people's republic of china:中華人民共和國童軍總會
+scout association of the people's republic of china:中华人民共和国童军总会
 scout association:侦察协会
 scout attack helicopter:侦察攻击直升机
-scout badge:童軍布章
+scout badge:童军布章
 scout bomber douglas:侦察轰炸机道格拉斯
 scout bomber:侦察轰炸机
 scout car:侦察车
 scout council:侦察委员会
 scout cruiser:侦察巡洋舰
 scout den:童军室
-scout den:童軍室
 scout enemy territory from:侦察敌人领土从
 scout enemy territory:侦察敌人领土
 scout enemy:侦察敌人
@@ -13722,28 +13528,28 @@ scout fields:侦察领域
 scout game tape:侦察游戏磁带
 scout game:侦察游戏
 scout group:侦察组
-scout helicopter:侦察直升機
+scout helicopter:侦察直升机
 scout helicopters:侦察直升机
-scout hill:童軍山
-scout law:童軍規律
+scout hill:童军山
+scout law:童军规律
 scout leader:侦察领袖
-scout leader:童軍服務員
+scout leader:童军服务员
 scout location:侦察位置
 scout master:侦察大师
-scout method:童軍活動方法
+scout method:童军活动方法
 scout mission:侦察任务
 scout moor wind farm:斯高特荒原风力发电厂
 scout motion:侦察运动
-scout motto:童軍銘言
-scout path:童軍徑
-scout promise:童軍諾言
+scout motto:童军铭言
+scout path:童军径
+scout promise:童军诺言
 scout rifle:侦察步枪
 scout route:侦察路线
 scout san:侦察圣
 scout santa claus:侦察圣诞老人
 scout seek:侦察寻找
 scout ship:侦察船
-scout sign and salute:童軍手號及敬禮
+scout sign and salute:童军手号及敬礼
 scout sniper school:侦察狙击手学校
 scout sniper:侦察狙击手
 scout system:侦察系统
@@ -13756,51 +13562,48 @@ scout you:侦察你
 scout your opponent:侦察你的对手
 scout your:侦察你的
 scout:侦察
-scouting and guiding federation of turkey:土耳其童軍與女童軍聯盟
-scouting and guiding in hong kong:香港的童軍與女童軍活動
-scouting and guiding in mainland china:中國大陸的童軍與女童軍活動
-scouting and guiding in nauru:諾魯的童軍與女童軍活動
-scouting controversy and conflict:童軍活動的爭議與衝突
-scouting for boys:童軍警探
-scouting in the republic of china:臺灣的童軍與女童軍活動
-scouting:童軍活動
-scouts aotearoa:紐西蘭童軍
-scouts australia:澳大利亞童軍
-scouts canada:加拿大童軍
-scouts guide to the zombie apocalypse:殭屍教戰守則
-scouts of china:中華民國童軍
-scouts south africa:南非童軍
-scoville scale:史高維爾指標
+scouting and guiding federation of turkey:土耳其童军与女童军联盟
+scouting and guiding in hong kong:香港的童军与女童军活动
+scouting and guiding in mainland china:中国大陆的童军与女童军活动
+scouting and guiding in nauru:诺鲁的童军与女童军活动
+scouting controversy and conflict:童军活动的争议与冲突
+scouting for boys:童军警探
+scouting in the republic of china:台湾的童军与女童军活动
+scouting:童军活动
+scouts aotearoa:纽西兰童军
+scouts australia:澳大利亚童军
+scouts canada:加拿大童军
+scouts guide to the zombie apocalypse:殭尸教战守则
+scouts of china:中华民国童军
+scouts south africa:南非童军
+scoville scale:史高维尔指标
 scozia:苏格兰
-scozia:苏格兰 / 蘇格蘭
-scozia:蘇格蘭
+scozia:苏格兰 / 苏格兰
 scozzia:苏格兰
-scozzia:苏格兰 / 蘇格蘭
-scozzia:蘇格蘭
+scozzia:苏格兰 / 苏格兰
 scoția:苏格兰
-scoția:苏格兰 / 蘇格蘭
-scoția:蘇格蘭
+scoția:苏格兰 / 苏格兰
 scpg center:印力中心
 scrabo tower:斯卡拉波塔
 scramble for africa:瓜分非洲
-scramble for china:瓜分中國
+scramble for china:瓜分中国
 scrambled eggs and roast:炒蛋和烤
 scrambled eggs or cake:炒蛋或蛋糕
 scrambled eggs:炒蛋
 scramjet:超音速燃烧冲压发动机
-scrap heap:廢料堆
-scrap meat:廢料肉
+scrap heap:废料堆
+scrap meat:废料肉
 scrap mechanic:废品机械师
 scrap metal:废料
-scrap teacher:改造老師大作戰
-scrap value:廢料值
+scrap teacher:改造老师大作战
+scrap value:废料值
 scrap would:碎片将
-scrap:廢料
+scrap:废料
 scrap:碎片
-scrapbooking:剪報
-scrapermouth mbuna:屈氏突吻麗魚
-scrapie:羊搔癢症
-scrapped princess:廢棄公主
+scrapbooking:剪报
+scrapermouth mbuna:屈氏突吻丽鱼
+scrapie:羊搔痒症
+scrapped princess:废弃公主
 scrappy:细碎的
 scraps file:碎片文件
 scraps from their party:碎片从他们的聚会
@@ -13815,13 +13618,13 @@ scratch area:刮痕面积
 scratch hardness:刻划硬度
 scratch race:集体出发赛
 scratch reflex:搔扒反射
-scratch space:塗銷空間
+scratch space:涂销空间
 scratch test:刮痕测试
 scratch:刮痕
-scratchcard:刮刮樂
-scratching post:貓抓板
+scratchcard:刮刮乐
+scratching post:猫抓板
 scravenac'ha:海牙
-scrawled butterflyfish:麥氏蝴蝶魚
+scrawled butterflyfish:麦氏蝴蝶鱼
 scrawled cowfish:四角三棱角箱魨
 scream awards:尖叫奖
 screamer:叫鸭科
@@ -13846,7 +13649,6 @@ screaming because:尖叫因为
 screaming began:尖叫开始
 screaming books:尖叫书
 screaming bridge:尖叫桥
-screaming bridge:尖叫橋
 screaming cease:尖叫停止
 screaming children:尖叫儿童
 screaming circuits:尖叫电路
@@ -13858,7 +13660,7 @@ screaming eagle:尖叫鹰
 screaming frog:尖叫青蛙
 screaming from:尖叫从
 screaming guitar:尖叫吉他
-screaming hairy armadillo:長毛犰狳
+screaming hairy armadillo:长毛犰狳
 screaming head:尖叫头
 screaming his head:尖叫他的头
 screaming his name:尖叫他的名字
@@ -13885,7 +13687,7 @@ screaming when i:尖叫当我
 screaming when we:尖叫当我们
 screaming:尖叫
 screamride:尖叫之旅
-scree cove:斯克里灣
+scree cove:斯克里湾
 scree peak:斯克里峰
 scree:岩屑堆
 screech owl:鸣角鸮属
@@ -13897,21 +13699,19 @@ screen acting:屏幕演技
 screen activities:屏幕活动
 screen activity:屏幕活动
 screen actor:屏幕演员
-screen actor:屏幕演員
 screen actors guild award for outstanding performance by a female actor in a comedy series:美国演员工会奖喜剧类剧集最佳女演员
 screen actors guild award for outstanding performance by a female actor in a leading role:美国演员工会奖最佳女主角
 screen actors guild award for outstanding performance by a female actor in a supporting role:美国演员工会奖最佳女配角
 screen actors guild award for outstanding performance by a male actor in a leading role:美国演员工会奖最佳男主角
 screen actors guild award for outstanding performance by a male actor in a supporting role:美国演员工会奖最佳男配角
-screen actors guild awards:美國演員工會獎
+screen actors guild awards:美国演员工会奖
 screen actors guild life achievement award:美国演员工会终身成就奖
 screen actually:屏幕实际上
 screen addiction:屏幕上瘾
 screen addiction:屏幕成瘾
 screen adventure:屏幕冒险
-screen adventure:屏幕冒險
-screen advertising company:屏幕廣告公司
-screen advertising:屏幕廣告
+screen advertising company:屏幕广告公司
+screen advertising:屏幕广告
 screen after:屏幕后
 screen alcohol:屏幕酒精
 screen allow:屏幕允许
@@ -14007,7 +13807,7 @@ screen border:屏幕边界
 screen brand:屏幕品牌
 screen brighten:屏幕变亮
 screen browser:屏幕浏览器
-screen burn in:磷質烙印
+screen burn in:磷质烙印
 screen button:屏幕按钮
 screen calibration option:屏幕校准选项
 screen calibration:屏幕校准
@@ -14021,7 +13821,6 @@ screen changed:屏幕改变了
 screen changes:屏幕变化
 screen character:屏幕角色
 screen chemistry:屏幕化学
-screen chemistry:屏幕化學
 screen children:屏幕儿童
 screen cinema:屏幕电影院
 screen cleaning company:屏幕清洁公司
@@ -14060,7 +13859,7 @@ screen cost:屏幕成本
 screen costs:屏幕成本
 screen cover:屏幕覆盖
 screen culture:屏幕文化
-screen curtain:屏幕簾
+screen curtain:屏幕帘
 screen curvature:屏幕曲率
 screen damage:屏幕损坏
 screen data:屏幕数据
@@ -14071,7 +13870,6 @@ screen department:屏幕部门
 screen deployment:屏幕部署
 screen describe:屏幕描述
 screen design tools:屏幕设计工具
-screen design:屏幕設計
 screen design:屏幕设计
 screen designer:屏幕设计师
 screen desktop:屏幕桌面
@@ -14106,11 +13904,9 @@ screen elements:屏幕元素
 screen enhancement:屏幕增强
 screen enterprise:屏幕企业
 screen enterprises:屏幕企业
-screen entertainment:屏幕娛樂
 screen entertainment:屏幕娱乐
 screen environment:屏幕环境
 screen environments:屏幕环境
-screen equipment:屏幕設備
 screen equipment:屏幕设备
 screen errors:屏幕错误
 screen even:屏幕甚至
@@ -14131,7 +13927,6 @@ screen fingerprint recognition:屏幕指纹识别
 screen fingerprint sensor:屏幕指纹传感器
 screen fingerprint technology:屏幕指纹技术
 screen fingerprint unlock:屏幕指纹解锁
-screen fingerprint:屏幕指紋
 screen fingerprint:屏幕指纹
 screen focus:屏幕焦点
 screen follow:屏幕跟随
@@ -14146,7 +13941,7 @@ screen future:屏幕未来
 screen game:屏幕游戏
 screen games:屏幕游戏
 screen gamut:屏幕色域
-screen gems:幕寶電影公司
+screen gems:幕宝电影公司
 screen glass and metal:屏幕玻璃和金属
 screen glass:屏幕玻璃
 screen go:屏幕去
@@ -14160,7 +13955,7 @@ screen has six:屏幕有六
 screen height:屏幕高度
 screen hero car:屏幕英雄车
 screen hero:屏幕英雄
-screen hero:銀幕英雄
+screen hero:银幕英雄
 screen hide:屏幕隐藏
 screen high:屏幕高
 screen i:屏幕我
@@ -14176,7 +13971,6 @@ screen industry research:屏幕工业研究
 screen industry:屏幕工业
 screen information:屏幕信息
 screen innovation:屏幕创新
-screen innovation:屏幕創新
 screen input:屏幕输入
 screen installation:屏幕安装
 screen instruction:屏幕指令
@@ -14197,7 +13991,7 @@ screen is king:屏幕是王
 screen is located in:屏幕位于
 screen is no longer:屏幕不再是
 screen is optional:屏幕是可选的
-screen islands:斯克林群島
+screen islands:斯克林群岛
 screen issues:屏幕问题
 screen journey:屏幕旅程
 screen junkies:诚实预告片
@@ -14350,7 +14144,7 @@ screen presence:屏幕存在
 screen presentation:屏幕演示
 screen prices:屏幕价格
 screen print:屏幕打印
-screen printing:絲網印刷
+screen printing:丝网印刷
 screen problem:屏幕问题
 screen problems:屏幕问题
 screen procedure:屏幕程序
@@ -14381,9 +14175,9 @@ screen ratio:屏幕比例
 screen reach:屏幕达到
 screen read:屏幕读
 screen readability:屏幕可读性
-screen reader function:螢幕閱讀器功能
-screen reader language:螢幕閱讀器語言
-screen reader:螢幕閱讀器
+screen reader function:萤幕阅读器功能
+screen reader language:萤幕阅读器语言
+screen reader:萤幕阅读器
 screen real:屏幕真的
 screen realistic:屏幕现实的
 screen reality:屏幕现实
@@ -14396,7 +14190,7 @@ screen remove:屏幕移除
 screen render:屏幕渲染
 screen repair:屏幕维修
 screen replace:屏幕替代
-screen report:屏幕報告
+screen report:屏幕报告
 screen representation:屏幕表示
 screen require:屏幕需要
 screen resolution and refresh rate:屏幕分辨率和刷新率
@@ -14471,12 +14265,11 @@ screen space ambient occlusion effect:屏幕空间环境光遮蔽效果
 screen space ambient occlusion method:屏幕空间环境光遮蔽方法
 screen space ambient occlusion:屏幕空间环境光遮蔽
 screen space subsurface scattering:屏幕空间次表面散射
-screen space:屏幕空間
 screen space:屏幕空间
 screen standard:屏幕标准
 screen start:屏幕开始
 screen state:屏幕状态
-screen station:螢幕車站
+screen station:萤幕车站
 screen still:屏幕仍然
 screen stimuli:屏幕刺激
 screen story:屏幕故事
@@ -14498,7 +14291,7 @@ screen syndrome:屏幕综合症
 screen system:屏幕系统
 screen systems:屏幕系统
 screen target:屏幕目标
-screen tearing:畫面撕裂
+screen tearing:画面撕裂
 screen techniques:屏幕技术
 screen technologies:屏幕技术
 screen technology:屏幕技术
@@ -14623,7 +14416,7 @@ screen-time experts:屏幕时间专家
 screen-time:屏幕时间
 screen:屏幕
 screencast:屏幕记录
-screencast:螢幕錄影
+screencast:萤幕录影
 screenplay analysis:剧本分析
 screenplay and direction:剧本和方向
 screenplay by:剧本被
@@ -14642,31 +14435,31 @@ screenplay writer:剧本作家
 screenplay writers:剧本作家
 screenplay writing:剧本写作
 screenplay:剧本
-screensaver:螢幕保護裝置
-screenshot photos:截圖照片
+screensaver:萤幕保护装置
+screenshot photos:截图照片
 screenshot process:屏幕快照过程
 screenshot:屏幕快照
-screenshot:截圖
-screentone:網點
-screenwriter and film director:編劇和電影導演
-screenwriter diana:編劇黛安娜
-screenwriter friend:編劇朋友
-screenwriter john:編劇約翰
-screenwriter jung chan:編劇鄭燦
-screenwriter nicholas:編劇尼古拉斯
-screenwriter or actor:編劇或演員
-screenwriter or producer:編劇或製作人
-screenwriter peter:編劇彼得
-screenwriter richard:編劇理查德
-screenwriter scott:編劇斯科特
-screenwriter stephen:編劇史蒂芬
-screenwriter william:編劇威廉
-screenwriter:編劇
-screw cannot:螺絲不能
-screw cap:螺絲帽
+screenshot:截图
+screentone:网点
+screenwriter and film director:编剧和电影导演
+screenwriter diana:编剧黛安娜
+screenwriter friend:编剧朋友
+screenwriter john:编剧约翰
+screenwriter jung chan:编剧郑灿
+screenwriter nicholas:编剧尼古拉斯
+screenwriter or actor:编剧或演员
+screenwriter or producer:编剧或制作人
+screenwriter peter:编剧彼得
+screenwriter richard:编剧理查德
+screenwriter scott:编剧斯科特
+screenwriter stephen:编剧史蒂芬
+screenwriter william:编剧威廉
+screenwriter:编剧
+screw cannot:螺丝不能
+screw cap:螺丝帽
 screw conveyor:螺旋输送机
 screw joint:螺纹接点
-screw position:螺絲位置
+screw position:螺丝位置
 screw press production:螺旋压力机生产
 screw press:螺旋压力机
 screw pump include:螺杆泵包括
@@ -14674,13 +14467,13 @@ screw pump manufacturer:螺杆泵制造商
 screw pump too:螺杆泵也
 screw pump work:螺杆泵工作
 screw pump:螺杆泵
-screw thread:螺紋
-screw:螺絲
+screw thread:螺纹
+screw:螺丝
 screwball comedy:脱线喜剧
 screwball:螺旋球
 screwdriver:螺钉旋具
-scribbled pipefish:內冠海龍
-scribe:抄書吏
+scribbled pipefish:內冠海龙
+scribe:抄书吏
 scriblerus club:涂鸦社
 scrignac:斯克里尼亚克
 scrip:紧急货币
@@ -14720,7 +14513,6 @@ script can access any:脚本可以访问任何
 script can mimic:脚本可以模仿
 script can remove:脚本可以移除
 script cannot:脚本不能
-script cannot:腳本不能
 script center:脚本中心
 script characters:脚本字符
 script check:脚本检查
@@ -14774,10 +14566,8 @@ script exit:脚本退出
 script failed:脚本失败
 script file name:脚本文件名
 script file:脚本文件
-script file:腳本文件
 script files usually contain:脚本文件通常包含
 script files:脚本文件
-script files:腳本文件
 script font:脚本字体
 script format:脚本格式
 script framework:脚本框架
@@ -14803,13 +14593,10 @@ script is necessary:脚本是必要的
 script issue:脚本问题
 script kiddie:脚本小子
 script kids:脚本小孩
-script language:脚本語言
 script language:脚本语言
-script language:腳本語言
 script layer:脚本层
 script layout:脚本布局
 script letter:脚本字母
-script letter:腳本字母
 script load:脚本加载
 script location:脚本位置
 script logic:脚本逻辑
@@ -14850,7 +14637,7 @@ script quality:脚本质量
 script questions:脚本问题
 script rather than:脚本而不是
 script read:脚本读
-script reading:腳本閱讀
+script reading:脚本阅读
 script record:脚本记录
 script request:脚本请求
 script resolution:脚本分辨率
@@ -14883,13 +14670,11 @@ script stream:脚本流
 script supervisor:场记
 script support:脚本支持
 script system:脚本系统
-script system:腳本系統
 script tag:脚本标签
 script task:脚本任务
 script tasks:脚本任务
 script text editing:脚本文本编辑
 script theory:脚本理论
-script theory:腳本理論
 script thus:脚本因此
 script title:脚本标题
 script to screen:脚本到屏幕
@@ -14922,7 +14707,6 @@ script would:脚本将
 script write:脚本写
 script you:脚本你
 script:脚本
-script:腳本
 scripting language as well as:脚本语言以及
 scripting language code:脚本语言代码
 scripting language comprise:脚本语言构成
@@ -14934,24 +14718,24 @@ scripting language support:脚本语言支持
 scripting language use:脚本语言使用
 scripting language:脚本语言
 scripting-language neutral:脚本语言中立
-scriptment:劇本論述
-scripture library:藏經樓
-scrivener glacier:斯克里夫納冰川
-scrivener:代書
-scrivia:斯克里維亞河
+scriptment:剧本论述
+scripture library:藏经楼
+scrivener glacier:斯克里夫纳冰川
+scrivener:代书
+scrivia:斯克里维亚河
 scrofella chinensis:细穗玄参
 scrofella:细穗玄参属
 scroll lock:滚动锁定
 scroll saw:线锯机
-scroll wheel:滾輪按鈕
-scroll:卷軸
-scrollbar:滾動條
+scroll wheel:滚轮按钮
+scroll:卷轴
+scrollbar:滚动条
 scrophularia ningpoensis:玄参
 scrophularia oblongifolia:翅茎玄参
 scrophularia:玄参属
 scrophulariaceae:玄参科
 scrotal inflation:阴囊注水
-scrotifera:有陰囊類
+scrotifera:有阴囊类
 scrotum after:阴囊后
 scrotum and everything:阴囊和一切
 scrotum and penis:阴囊和阴茎
@@ -14959,30 +14743,30 @@ scrotum and testicle:阴囊和睾丸
 scrotum appear:阴囊出现
 scrotum temperature:阴囊温度
 scrotum:阴囊
-scrovegni chapel:斯克羅威尼禮拜堂
+scrovegni chapel:斯克罗威尼礼拜堂
 scrub robin:非洲薮鸲属
-scrub typhus:恙蟲病
+scrub typhus:恙虫病
 scrubbird:薮鸟属
 scrubfowl:冢雉属
-scrunchie:髮圈束
+scrunchie:发圈束
 scrupt:斯克吕
-scrutineer:監票員
+scrutineer:监票员
 scsi:小型计算机系统接口
-scsolkovo:曉爾科沃
+scsolkovo:晓尔科沃
 scsucsinszk:xiū qīn sīkè
-scsucsinszk:休欽斯克
-scuba diving is one:水肺潛水是一
-scuba diving:水肺潛水
+scsucsinszk:休钦斯克
+scuba diving is one:水肺潜水是一
+scuba diving:水肺潜水
 scuba set:水肺装备
-scud missile:飛毛腿飛彈
-scud rock:斯庫德岩
+scud missile:飞毛腿飞弹
+scud rock:斯库德岩
 scudder mountain:斯卡德山
 scudder peak:斯卡德峰
-scudding glacier:斯庫丁冰川
+scudding glacier:斯库丁冰川
 scuderi engine:斯库德里发动机
-scuderia alphatauri:艾法托利車隊
-scuderia ferrari:法拉利車隊
-scuderia toro rosso:紅牛第二車隊
+scuderia alphatauri:艾法托利车队
+scuderia ferrari:法拉利车队
+scuderia toro rosso:红牛第二车队
 scuderia:马棚
 scudetto:意大利盾章
 sculpt all:雕刻所有的
@@ -14998,9 +14782,7 @@ sculpt you:雕刻你
 sculpt your:雕刻你的
 sculpt:雕刻
 sculpting in time cafe:雕刻时光咖啡馆
-sculpting in time cafe:雕刻時光咖啡館
 sculpting in time:雕刻时光
-sculpting in time:雕刻時光
 sculptor alexander:雕塑家亚历山大
 sculptor alfred:雕塑家阿尔弗雷德
 sculptor always:雕塑家总是
@@ -15034,7 +14816,7 @@ sculptor decided:雕塑家决定
 sculptor dimitri:雕塑家迪米特里
 sculptor dwarf galaxy:玉夫座矮星系
 sculptor dwarf galaxy:雕塑家矮星系
-sculptor dwarf irregular galaxy:玉夫座矮不規則星系
+sculptor dwarf irregular galaxy:玉夫座矮不规则星系
 sculptor edward:雕塑家爱德华
 sculptor elisabeth:雕塑家伊丽莎白
 sculptor exhibit:雕塑家展览
@@ -15047,13 +14829,12 @@ sculptor group:玉夫座星系群
 sculptor han sai por:雕塑家韩少芙
 sculptor henry:雕塑家亨利
 sculptor hopes:雕塑家希望
-sculptor in chinese astronomy:中國天文學中的玉夫座
+sculptor in chinese astronomy:中国天文学中的玉夫座
 sculptor in london:雕塑家在伦敦
 sculptor isamu noguchi:雕塑家野口勇
 sculptor jacque:雕塑家雅克
 sculptor james martin:雕塑家詹姆士马丁
 sculptor james:雕塑家詹姆士
-sculptor john:雕塑家約翰
 sculptor john:雕塑家约翰
 sculptor joseph:雕塑家约瑟夫
 sculptor julian:雕塑家朱利安
@@ -15062,7 +14843,7 @@ sculptor mason:雕塑家梅森
 sculptor michael:雕塑家迈克尔
 sculptor nicholas:雕塑家尼古拉斯
 sculptor paul:雕塑家保罗
-sculptor phidias:雕塑家菲迪亞斯
+sculptor phidias:雕塑家菲迪亚斯
 sculptor polykleitos:雕塑家波留克列特斯
 sculptor richard:雕塑家理查德
 sculptor robert:雕塑家罗伯特
@@ -15093,7 +14874,7 @@ sculpture and extend:雕塑和扩展
 sculpture and film:雕塑和电影
 sculpture and five:雕塑和五
 sculpture and fossil:雕塑和化石
-sculpture and fountain:雕塑和噴泉
+sculpture and fountain:雕塑和喷泉
 sculpture and furniture design:雕塑和家具设计
 sculpture and furniture:雕塑和家具
 sculpture and graphics:雕塑和图形
@@ -15130,7 +14911,7 @@ sculpture and statue company:雕塑和雕像公司
 sculpture and statue:雕塑和雕像
 sculpture and television art:雕塑和电视艺术
 sculpture and textile:雕塑和纺织品
-sculpture and tourist attraction:雕塑和旅遊景點
+sculpture and tourist attraction:雕塑和旅游景点
 sculpture and vase painting:雕塑和花瓶绘画
 sculpture and wood carving:雕塑和木雕
 sculpture and writing:雕塑和写作
@@ -15166,7 +14947,6 @@ sculpture court:雕塑法院
 sculpture day:雕塑日
 sculpture department:雕塑系
 sculpture department:雕塑部门
-sculpture design:雕塑設計
 sculpture design:雕塑设计
 sculpture enlarge:雕塑放大
 sculpture enter:雕塑进入
@@ -15185,7 +14965,7 @@ sculpture garden:雕塑花园
 sculpture gesture:雕塑手势
 sculpture give:雕塑给
 sculpture group:雕塑组
-sculpture hall:雕塑大廳
+sculpture hall:雕塑大厅
 sculpture has been:雕塑已经
 sculpture hold:雕塑拥有
 sculpture hunter:雕塑猎人
@@ -15225,19 +15005,17 @@ sculpture now:雕塑现在
 sculpture of ancient greece:古希腊雕塑
 sculpture of chinese zodiac:十二生肖石刻
 sculpture of core socialist values:社会主义核心价值观雕塑
-sculpture of core socialist values:社會主義核心價值觀雕塑
 sculpture of four saints:四圣徒雕像
-sculpture of italy:義大利雕塑
+sculpture of italy:义大利雕塑
 sculpture of melt:雕塑的融化
 sculpture offer:雕塑提供
 sculpture or painting:雕塑或绘画
 sculpture or photograph:雕塑或照片
 sculpture or wall:雕塑或墙
 sculpture park is located in:雕塑公园位于
-sculpture park(tourist center):雕塑公園(遊客中心)
-sculpture park:石雕公園
+sculpture park(tourist center):雕塑公园(游客中心)
+sculpture park:石雕公园
 sculpture park:雕塑公园
-sculpture park:雕塑公園
 sculpture part:雕塑部分
 sculpture prayer:雕塑祈祷
 sculpture prize:雕塑奖
@@ -15280,47 +15058,45 @@ sculpture year:雕塑年
 sculpture:雕塑
 sculptured group of the silk road:丝路群雕
 sculptured group on the silk road:丝路群雕
-sculptured sea catfish:凱氏隆背海鯰
+sculptured sea catfish:凱氏隆背海鲶
 sculptures of the 12 chinese zodiac-1:十二生肖像-1
 sculptures of the 12 chinese zodiac-2:十二生肖像-2
 sculptures of the 12 chinese zodiac:十二生肖雕塑
 sculptures of two lions:雕塑的两个狮子
 scum manifesto:人渣宣言
 scum's wish:人渣的本愿
-scundu:斯昆杜鄉
+scundu:斯昆杜乡
 scunthorpe problem:斯肯索普问题
 scunthorpe problems:斯肯索普问题
 scunthorpe will be:斯肯索普将成为
 scunthorpe:斯肯索普
-scuol:施庫奧爾
+scuol:施库奧尔
 scuola dei varoteri:瓦罗泰利会馆
 scuola di economia di varsavia:华沙经济大学
-scuola di economia di varsavia:華沙經濟大學
 scuola di san giorgio degli schiavoni:斯拉夫的圣乔治会堂
 scuola elementare di shirahama:白滨小学
 scuola elementare hikari:光小学校
 scuola grande dei carmini:加尔默罗大会堂
 scuola grande di san giovanni evangelista:圣若望大会堂
-scuola grande di san marco:聖馬可大會堂
+scuola grande di san marco:圣马可大会堂
 scuola grande di san rocco:圣罗格大会堂
 scuola media di yokoshibahikari town yokoshiba della città di yokoshibahikari:横芝光町横芝中学校
 scuola media hikari:光中学校
 scuola normale superiore di pisa:比萨高等师范学校
-scuola superiore studi pavia iuss:帕維亞高等研究院
+scuola superiore studi pavia iuss:帕维亚高等研究院
 scuola vecchia della misericordia:仁慈大会堂
 scuole americane di angola:安哥拉美国学校
-scuole americane di angola:安哥拉美國學校
 scuole grandi of venice:威尼斯会堂
-scup:門齒鯛
+scup:门齿鲷
 scupi:史高比耶
-scupi:斯庫皮
+scupi:斯库皮
 scupi:斯科普里
 scurelle:斯库雷莱
 scurrula:梨果寄生属
-scurtu mare:大斯庫爾圖鄉
-scurvy:壞血病
+scurtu mare:大斯库尔图乡
+scurvy:坏血病
 scurzolengo:斯库尔佐伦戈
-scusa ma ti chiamo amore:熟男我愛你
+scusa ma ti chiamo amore:熟男我爱你
 scut mot center:华工大车检中心
 scut zhengmen road:华南理工大学正门路
 scutarcopagia:盾弧樱蛤属
@@ -15337,10 +15113,10 @@ scutellera:长盾蝽属
 scutelleridae:盾蝽科
 scutellinia:盾盘菌属
 scutellonema:盾线虫属
-scutellosaurus:小盾龍屬
-scutelnici:斯庫泰爾尼奇鄉
+scutellosaurus:小盾龙属
+scutelnici:斯库泰尔尼奇乡
 scutia:对刺藤属
-scuticaria okinawae:沖繩鞭尾鯙
+scuticaria okinawae:沖绳鞭尾鯙
 scuticaria tigrina:虎斑鞭尾鯙
 scutiger adungensis:阿东齿突蟾
 scutiger boulengeri:西藏齿突蟾
@@ -15366,46 +15142,46 @@ scutigerella:么蚰属
 scutigerellidae:么蚰科
 scutigeridae:蚰蜒科
 scutigeromorpha:蚰蜒
-scutisorex:盔鼩鼱屬
+scutisorex:盔鼩鼱属
 scutogyrus:盾形片虫属
 scutoid:盾片状
-scutosaurus:盾甲龍屬
+scutosaurus:盾甲龙属
 scuttle's shiny things:史卡托杂货
-scuttling of the french fleet at toulon:法國艦隊土倫自沉事件
-scuttling of the german fleet at scapa flow:公海艦隊自沉事件
+scuttling of the french fleet at toulon:法国舰队土伦自沉事件
+scuttling of the german fleet at scapa flow:公海舰队自沉事件
 scuttling:凿沉
 scutus sinensis:鸭嘴螺
 scutus unguis:皱纹鸭嘴螺
-scviha:斯特維加河
+scviha:斯特维加河
 scye:锡村
 scyliorhinidae:猫鲨科
-scyliorhinus:貓鯊屬
+scyliorhinus:猫鯊属
 scylla and charybdis:斯库拉和卡律布狄斯
-scylla glacier:斯庫拉冰川
+scylla glacier:斯库拉冰川
 scylla paramamosain:拟穴青蟹
 scylla serrata:锯缘青蟹
 scylla:斯库拉
-scyllarides latus:地中海琵琶蝦
-scyllarides:擬蟬蝦屬
+scyllarides latus:地中海琵琶虾
+scyllarides:拟蟬虾属
 scyphellandra:鳞隔堇属
 scyphiphora:瓶花木属
 scyphozoa:钵水母纲
 scyrdw:斯卡杜
 scyrdw:斯卡杜县
-scytale:密碼棒
+scytale:密码棒
 scytalidium:柱顶孢霉属
 scytalopus:塞特窜鸟属
 scythe:大镰
-scythed chariot:刀輪戰車
-scythia:斯基提亞
-scythian nunatak:塞西亞冰原島峰
+scythed chariot:刀轮战车
+scythia:斯基提亚
+scythian nunatak:塞西亚冰原岛峰
 scythians:斯基泰人
-scythosuchus:斯基泰鱷屬
+scythosuchus:斯基泰鳄属
 scythrididae:绢蛾科
 scytinopogon:扁枝瑚菌属
 scytinostroma:革垫菌属
 scytodes fusca:暗花皮蛛
-scytodes thoracica:黃昏花皮蛛
+scytodes thoracica:黄昏花皮蛛
 scytodes:花皮蛛属
 scytonema:伪枝藻属
 scytonemataceae:伪枝藻科
@@ -15415,13 +15191,10 @@ scytosiphonaceae:萱藻科
 scytothamnales:落藻目
 sczastia:夏斯季耶
 scòsia:苏格兰
-scòsia:苏格兰 / 蘇格蘭
-scòsia:蘇格蘭
+scòsia:苏格兰 / 苏格兰
 scòssia:苏格兰
-scòssia:苏格兰 / 蘇格蘭
-scòssia:蘇格蘭
+scòssia:苏格兰 / 苏格兰
 scòçia:苏格兰
-scòçia:苏格兰 / 蘇格蘭
-scòçia:蘇格蘭
+scòçia:苏格兰 / 苏格兰
 scóipé:史高比耶
 scóipé:斯科普里

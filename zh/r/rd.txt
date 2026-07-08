@@ -1,14 +1,10 @@
-rdeče morje:紅海
 rdeče morje:红海
-rdeče morje:红海/紅海
+rdeče morje:红海/红海
 rdeče morje:红海州
-rdfz indoor gym:大棚館
 rdfz indoor gym:大棚馆
 rdfz residential building:宿舍楼
-rdfz residential building:宿舍樓
 rdfz science lab building:人大附中实验楼
 rdfz sports field:大操场
-rdfz sports field:大操場
 rdo dmar chu:duō mǎ hé
 rdo dmar chu:多玛河
 rdo dmar:duō mǎ xiāng
@@ -25,7 +21,6 @@ rdx:黑索金
 rdza nang ting mtsho:扎朗丁错
 rdza ra:zhā rì xiāng
 rdza ra:扎日乡
-rdza ra:扎日鄉
 rdza rong:sà ràng xiāng
 rdza rong:萨让乡
 rdza yul chu:lǔxītè hé
@@ -34,9 +29,7 @@ rdza yul chu:tèlǔ hé
 rdza yul chu:察隅河
 rdza yul rdzong:cháyú xiàn
 rdza yul rdzong:察隅县
-rdza yul rdzong:察隅縣
 rdza yul rong smad:xiàcháyú zhèn
-rdza yul rong smad:下察隅鎮
 rdza yul rong smad:下察隅镇
 rdza yul rong stod:shǎngcháyú zhèn
 rdza yul rong stod:上察隅镇

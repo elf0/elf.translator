@@ -1,40 +1,38 @@
 m1 hotel north point:北角m1酒店
 m1 hotel:m1酒店
+m1 public toilet in coach parking area in border gate square:m1 关閘广场旅游巴停泊区公厕
 m1 public toilet in coach parking area in border gate square:m1 关闸广场旅游巴停泊区公厕
-m1 public toilet in coach parking area in border gate square:m1 關閘廣場旅遊巴停泊區公廁
+m1 sanitário público da zona de estacionamento de autocarros turísticos da praça das portas do cerco:m1 关閘广场旅游巴停泊区公厕
 m1 sanitário público da zona de estacionamento de autocarros turísticos da praça das portas do cerco:m1 关闸广场旅游巴停泊区公厕
-m1 sanitário público da zona de estacionamento de autocarros turísticos da praça das portas do cerco:m1 關閘廣場旅遊巴停泊區公廁
-m10 public toilet at the leisure area at rua quatro do bairro da areia preta:m10 黑沙環第四街休憩區公廁
-m10 sanitário público da zona de lazer da rua quatro do bairro da areia preta:m10 黑沙環第四街休憩區公廁
+m10 public toilet at the leisure area at rua quatro do bairro da areia preta:m10 黑沙环第四街休憩区公厕
+m10 sanitário público da zona de lazer da rua quatro do bairro da areia preta:m10 黑沙环第四街休憩区公厕
 m102 to futian transport hub:m102路 仙湖植物园总站 => 福田交通枢纽
 m102 to xianhu botanical garden bus terminus:m102路 福田交通枢纽 => 仙湖植物园总站
 m105 to taiziwan xsjwh shopping mall bus terminal:m105路 =>太子湾新世界文化购物坊公交首末站
 m108 self-propelled howitzer:m108自走砲
-m11 public toilet at hawker area at fai chi kei:m11 筷子基小販區公廁
-m11 sanitário público da zona de vendilhões de fai chi kei:m11 筷子基小販區公廁
-m12 public toilet at leisure area of ed. wang hoi & wang kin:m12 筷子基宏開、宏建休憩區公廁
-m12 sanitário público da zona de lazer contígua ao ed. wang hoi e wang kin de fai chi kei:m12 筷子基宏開、宏建休憩區公廁
+m11 public toilet at hawker area at fai chi kei:m11 筷子基小贩区公厕
+m11 sanitário público da zona de vendilhões de fai chi kei:m11 筷子基小贩区公厕
+m12 public toilet at leisure area of ed. wang hoi & wang kin:m12 筷子基宏开、宏建休憩区公厕
+m12 sanitário público da zona de lazer contígua ao ed. wang hoi e wang kin de fai chi kei:m12 筷子基宏开、宏建休憩区公厕
 m125 to yantian east bus terminus:m125路 盐田海鲜街 => 盐田东公交总站
 m125 to yantian seafood street:m125路 盐田东公交总站 => 盐田海鲜街
-m13 pubilc toilet at mong ha hill municipal park:m13 望廈山公園公廁
-m13 sanitário público do parque municipal da colina de mong-há:m13 望廈山公園公廁
-m14 public toilet at rua de tomé pires:m14 道咩卑利士街公廁
-m14 sanitário público da rua de tomé pires:m14 道咩卑利士街公廁
+m13 pubilc toilet at mong ha hill municipal park:m13 望厦山公园公厕
+m13 sanitário público do parque municipal da colina de mong-há:m13 望厦山公园公厕
+m14 public toilet at rua de tomé pires:m14 道咩卑利士街公厕
+m14 sanitário público da rua de tomé pires:m14 道咩卑利士街公厕
 m143 to pingshan jinlong terminus:m143路 坪山锦龙小学 => 坪山锦龙总站
-m15 public toilet at rua de manuel de arriaga:m15 亞利鴉架街公廁
-m15 sanitário público da rua de manuel de arriaga:m15 亞利鴉架街公廁
+m15 public toilet at rua de manuel de arriaga:m15 亚利鸦架街公厕
+m15 sanitário público da rua de manuel de arriaga:m15 亚利鸦架街公厕
 m16 public toilet at travessa da palanchica:m16 沙梨头口巷公厕
-m16 public toilet at travessa da palanchica:m16 沙梨頭口巷公廁
 m16 sanitário público da travessa da palanchica:m16 沙梨头口巷公厕
-m16 sanitário público da travessa da palanchica:m16 沙梨頭口巷公廁
 m169 to huanggang port:m169路 紫薇阁总站 => 皇岗口岸
 m169 to ziweige terminus:m169路 皇岗口岸 => 紫薇阁总站
-m17 public toilet at rua dos curtidores:m17 涼水街公廁
-m17 sanitário público da rua dos curtidores:m17 涼水街公廁
-m18 public toilet at rua do tarrafeiro:m18 沙欄仔街公廁
-m18 sanitário público da rua do tarrafeiro:m18 沙欄仔街公廁
-m19 public toilet at miradouro de d. maria ii:m19 瑪莉二世皇后眺望台公廁
-m19 sanitário público do miradouro de d. maria ii:m19 瑪莉二世皇后眺望台公廁
+m17 public toilet at rua dos curtidores:m17 凉水街公厕
+m17 sanitário público da rua dos curtidores:m17 凉水街公厕
+m18 public toilet at rua do tarrafeiro:m18 沙栏仔街公厕
+m18 sanitário público da rua do tarrafeiro:m18 沙栏仔街公厕
+m19 public toilet at miradouro de d. maria ii:m19 玛莉二世皇后眺望台公厕
+m19 sanitário público do miradouro de d. maria ii:m19 玛莉二世皇后眺望台公厕
 m190 to huaxin estate terminus:m190路 六约新村总站 => 华新村总站
 m190 to liuyue xincun terminus:m190路 华新村总站 => 六约新村总站
 m196 to dameisha bus terminus:m196路 溪涌玫瑰海岸总站 => 大梅沙公交总站

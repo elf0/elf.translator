@@ -1,36 +1,26 @@
-m5 public toilet at estrada marginal da ilha verde (next to the slaughterhouse):m5 青洲河邊馬路(屠宰場側)公廁
-m5 sanitário público da estrada marginal da ilha verde (perto do matadouro):m5 青洲河邊馬路(屠宰場側)公廁
+m5 public toilet at estrada marginal da ilha verde (next to the slaughterhouse):m5 青洲河边马路(屠宰场侧)公厕
+m5 sanitário público da estrada marginal da ilha verde (perto do matadouro):m5 青洲河边马路(屠宰场侧)公厕
 m50 public toilet in leisure area at praça de jorge Álvares:m50 区华利前地休憩区公厕
-m50 public toilet in leisure area at praça de jorge Álvares:m50 區華利前地休憩區公廁
 m50 sanitário público da zona de lazer da praça de jorge Álvares:m50 区华利前地休憩区公厕
-m50 sanitário público da zona de lazer da praça de jorge Álvares:m50 區華利前地休憩區公廁
 m506 to shenzhen bay port parking lot a:m506路 中山园场站 => 深圳湾口岸a停车场
 m507 to dachanwan bus terminus:m507路 深圳湾口岸a停车场 => 大铲湾公交总站
 m51 public toilet in the warehouse in west district of the hong kong-zhuhai-macao bridge:m51 港珠澳大桥西区货仓公厕
-m51 public toilet in the warehouse in west district of the hong kong-zhuhai-macao bridge:m51 港珠澳大橋西區貨倉公廁
 m51 sanitário público do armazém na zona oeste da ponte hong kong-zhuhai-macau:m51 港珠澳大桥西区货仓公厕
-m51 sanitário público do armazém na zona oeste da ponte hong kong-zhuhai-macau:m51 港珠澳大橋西區貨倉公廁
 m52 public toilet in the cargo inspection area in west district of the hong kong-zhuhai-macao bridge:m52 港珠澳大桥西区货物检验区公厕
-m52 public toilet in the cargo inspection area in west district of the hong kong-zhuhai-macao bridge:m52 港珠澳大橋西區貨物檢驗區公廁
 m52 sanitário público da zona para inspecção de mercadorias na zona oeste da ponte hong kong-zhuhai-macau:m52 港珠澳大桥西区货物检验区公厕
-m52 sanitário público da zona para inspecção de mercadorias na zona oeste da ponte hong kong-zhuhai-macau:m52 港珠澳大橋西區貨物檢驗區公廁
 m520 to futian transport hub:m520路 合景同创广场公交首末站 => 福田交通枢纽
 m520 to hejingtongchuang plaza bus terminal:m520路 福田交通枢纽 => 合景同创广场公交首末站
 m53 public toilet in the passenger inspection room in west district of the hong kong-zhuhai-macao bridge:m53 港珠澳大桥西区旅客检查室公厕
-m53 public toilet in the passenger inspection room in west district of the hong kong-zhuhai-macao bridge:m53 港珠澳大橋西區旅客檢查室公廁
 m53 sanitário público da sala de inspecção de passageiros na zona oeste da ponte hong kong-zhuhai-macau:m53 港珠澳大桥西区旅客检查室公厕
-m53 sanitário público da sala de inspecção de passageiros na zona oeste da ponte hong kong-zhuhai-macau:m53 港珠澳大橋西區旅客檢查室公廁
 m539 to nanshan central area bus terminus:m539路 tcl国际e城北门总站 => 南山中心区公交总站
 m539 to north gate to tcl international e town bus terminus:m539路 南山中心区公交总站 => tcl国际e城北门总站
-m54 public toilet in leisure area of kun iam statue waterfront:m54 觀音像海濱休憩區公廁
-m54 sanitário público da zona de lazer da marginal da estátua de kun iam:m54 觀音像海濱休憩區公廁
+m54 public toilet in leisure area of kun iam statue waterfront:m54 观音像海滨休憩区公厕
+m54 sanitário público da zona de lazer da marginal da estátua de kun iam:m54 观音像海滨休憩区公厕
 m55 public toilet of guia hill pedestrian tunnel (north plaza):m55 松山行人隧道(北广场)公厕
-m55 public toilet of guia hill pedestrian tunnel (north plaza):m55 松山行人隧道(北廣場)公廁
 m55 sanitário público do túnel pedonal da colina da guia (praça norte):m55 松山行人隧道(北广场)公厕
-m55 sanitário público do túnel pedonal da colina da guia (praça norte):m55 松山行人隧道(北廣場)公廁
 m559 to ludan estate bus terminus:m559路 沙湾公交场站 => 鹿丹村公交总站
 m559 to shawan bus depot:m559路 鹿丹村公交总站 => 沙湾公交场站
-m56 public toilet of temporary leisure area in doca do lam mau:m56 林茂塘臨時休憩區公廁
-m56 sanitário público da zona de lazer temporária da doca do lam mau:m56 林茂塘臨時休憩區公廁
+m56 public toilet of temporary leisure area in doca do lam mau:m56 林茂塘临时休憩区公厕
+m56 sanitário público da zona de lazer temporária da doca do lam mau:m56 林茂塘临时休憩区公厕
 m567 to guanlan dashuikeng bus depot:m567路 深圳北站公交枢纽公交场站 => 观澜大水坑综合车场
 m567 to shenzhen north station:m567路 观澜大水坑综合车场 => 深圳北站公交枢纽公交场站

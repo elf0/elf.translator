@@ -1,12 +1,10 @@
-eq-100研習中心 eq-100 learning centre:eq-100研習中心
-eqer:埃格爾
+eq-100研习中心 eq-100 learning centre:eq-100研习中心
+eqer:埃格尔
 eqi highway:峨祁公路
 eqiang:鹅腔
 eqiao connecting highway:峨桥连接线
-eqiao connecting highway:峨橋連接線
+eqiao:峨桥
 eqiao:峨桥镇
-eqiao:峨橋
-eqiao:峨橋鎮
 eqing:俄青
 eqiongsi:俄穷寺
 eqlid:埃格利德
@@ -18,13 +16,11 @@ equ:厄曲村
 equadol:厄瓜多
 equadol:厄瓜多尔
 equadol:厄瓜多尔 / 厄瓜多
-equadol:厄瓜多爾
 equador:厄瓜多
 equador:厄瓜多尔
 equador:厄瓜多尔 / 厄瓜多
-equador:厄瓜多爾
 equador:赤道省
-equal cost multi path routing:等價多路徑路由
+equal cost multi path routing:等价多路径路由
 equal employment opportunity commission:公平就业机会委员会
 equal field system:均田制
 equal opportunity and diversity management:机会平等和多样性管理
@@ -40,7 +36,7 @@ equal opportunity:机会平等
 equal pay day:同酬日
 equal pay for equal work as well as:同工同酬以及
 equal pay for equal work:同工同酬
-equal protection clause:平等保護條款
+equal protection clause:平等保护条款
 equal remuneration convention:男女工人同工同酬公约
 equal rights activist:平等权利活动家
 equal rights advocate:平等权利倡导
@@ -62,7 +58,7 @@ equal rights to sexual harassment:平等权利到性骚扰
 equal rights today:平等权利今天
 equal rights trust:平等权利信托
 equal rights:平等权利
-equal standard:紐約衝突效應
+equal standard:纽约冲突效应
 equal to apostles:等同使徒
 equal-opportunity law:机会平等法律
 equal-rights amendment:平等权利修正案
@@ -107,7 +103,6 @@ equality and diversity:平等和多样性
 equality and economic growth:平等和经济增长
 equality and efficiency:平等与效率
 equality and efficiency:平等和效率
-equality and eliminate discrimination:平等和消除歧視
 equality and eliminate discrimination:平等和消除歧视
 equality and employment conditions:平等和就业条件
 equality and excellence:平等和卓越
@@ -134,7 +129,6 @@ equality and innovation:平等和创新
 equality and international peace:平等与国际和平
 equality and justice:平等与正义
 equality and justice:平等和正义
-equality and justice:平等和正義
 equality and liberty:平等和自由
 equality and nonviolence:平等和非暴力
 equality and one:平等和一
@@ -163,12 +157,12 @@ equality and security:平等与安全
 equality and security:平等和安全
 equality and self-expression:平等和自我表达
 equality and share:平等和分享
-equality and social justice:平等和社會正義
+equality and social justice:平等和社会正义
 equality and socialism:平等与社会主义
 equality and solidarity:平等与团结
 equality and solidarity:平等和团结
-equality and sustainability:平等和可持續性
-equality and symmetry:平等和對稱
+equality and sustainability:平等和可持续性
+equality and symmetry:平等和对称
 equality and technology initiative:平等和技术倡议
 equality and territorial integrity:平等和领土完整
 equality and trade:平等和贸易
@@ -199,14 +193,13 @@ equality card:平等卡
 equality case:平等案件
 equality center:平等中心
 equality centre:平等中心
-equality certification:平等認證
 equality certification:平等认证
 equality challenge:平等挑战
 equality challenges:平等挑战
 equality class:平等课程
 equality clause:平等条款
 equality commitment:平等承诺
-equality committee:平等委員會
+equality committee:平等委员会
 equality conference:平等会议
 equality consciousness:平等意识
 equality continues:平等继续
@@ -321,7 +314,6 @@ equality rally:平等集会
 equality ranking:平等排名
 equality rather than freedom:平等而不是自由
 equality real:平等真的
-equality report:平等報告
 equality report:平等报告
 equality require:平等要求
 equality require:平等需要
@@ -363,11 +355,11 @@ equality work:平等工作
 equality would:平等将
 equality youth:平等青年
 equality:平等
-equalized odds:補償機率
+equalized odds:补偿机率
 equals sign:等号
 equan river:鹅泉河
 equan road:鹅泉路
-equant:均衡點
+equant:均衡点
 equarius hotel:逸濠酒店
 equarius villas:逸濠别墅
 equatair:赤道航空
@@ -378,7 +370,7 @@ equation approach:方程方法
 equation assume:方程假定
 equation automatic:等式自动的
 equation can be used to:等式能被用于
-equation clock:時差鐘
+equation clock:时差钟
 equation contain:方程包含
 equation curve:方程曲线
 equation data:方程数据
@@ -417,11 +409,11 @@ equation modeling:方程建模
 equation models:方程模型
 equation now:方程现在
 equation of continuity:连续方程
-equation of exchange:費雪交換方程式
+equation of exchange:费雪交换方程式
 equation of motion:运动方程
 equation of state parameter:状态方程参数
 equation of state:状态方程
-equation of time:均時差
+equation of time:均时差
 equation operations:等式操作
 equation or axiom:方程或公理
 equation otherwise:方程否则
@@ -451,7 +443,7 @@ equation:方程
 equation:等式
 equations of motion:运动方程
 equative case:等同格
-equatoguinean football federation:赤道畿內亞足球協會
+equatoguinean football federation:赤道畿內亚足球协会
 equatoguinean literature in spanish:赤道几内亚的西班牙语文学
 equator and christmas island:赤道和圣诞岛
 equator and longitude:赤道和经度
@@ -466,13 +458,11 @@ equator initiative:赤道倡议
 equator into:赤道进入
 equator line:赤道线
 equator mark:赤道标记
-equator monument:赤道紀念碑
 equator monument:赤道纪念碑
 equator north:赤道北
 equator principles financial institutions:赤道原则金融机构
-equator principles in the same year:赤道原則在同一年
+equator principles in the same year:赤道原则在同一年
 equator principles:赤道原则
-equator principles:赤道原則
 equator prize:赤道奖
 equator province:赤道省
 equator region:赤道地区
@@ -483,30 +473,30 @@ equator would:赤道将
 equator:赤道
 equator:赤道附近
 equatoral gini:chìdào jīnèiyà
+equatoral gini:赤道几內亚
 equatoral gini:赤道几内亚
-equatoral gini:赤道几内亚 / 赤道幾內亞
-equatoral gini:赤道幾內亞
-equatoral gini:赤道畿內亞
+equatoral gini:赤道几内亚 / 赤道几內亚
+equatoral gini:赤道畿內亚
 equatorala guinea:chìdào jīnèiyà
+equatorala guinea:赤道几內亚
 equatorala guinea:赤道几内亚
-equatorala guinea:赤道几内亚 / 赤道幾內亞
-equatorala guinea:赤道幾內亞
-equatorala guinea:赤道畿內亞
+equatorala guinea:赤道几内亚 / 赤道几內亚
+equatorala guinea:赤道畿內亚
 equatore:赤道省
 equatoria:赤道大区
 equatoriaal guinee:chìdào jīnèiyà
+equatoriaal guinee:赤道几內亚
 equatoriaal guinee:赤道几内亚
-equatoriaal guinee:赤道几内亚 / 赤道幾內亞
-equatoriaal guinee:赤道幾內亞
-equatoriaal guinee:赤道畿內亞
+equatoriaal guinee:赤道几内亚 / 赤道几內亚
+equatoriaal guinee:赤道畿內亚
 equatoriaal-guinea:chìdào jīnèiyà
+equatoriaal-guinea:赤道几內亚
 equatoriaal-guinea:赤道几内亚
-equatoriaal-guinea:赤道几内亚 / 赤道幾內亞
-equatoriaal-guinea:赤道幾內亞
-equatoriaal-guinea:赤道畿內亞
+equatoriaal-guinea:赤道几内亚 / 赤道几內亚
+equatoriaal-guinea:赤道畿內亚
 equatorial africa:赤道非洲
 equatorial bulge:赤道隆起
-equatorial coordinate system:赤道坐標系統
+equatorial coordinate system:赤道坐标系统
 equatorial counter current:赤道逆流
 equatorial guinea account:赤道几内亚账户
 equatorial guinea and angola:赤道几内亚及安哥拉
@@ -532,7 +522,7 @@ equatorial guinea from:赤道几内亚从
 equatorial guinea international:赤道几内亚国际
 equatorial guinea is africa:赤道几内亚是非洲
 equatorial guinea is located in:赤道几内亚位于
-equatorial guinea national football team:赤道畿內亞國家足球隊
+equatorial guinea national football team:赤道畿內亚国家足球队
 equatorial guinea national team:赤道几内亚国家队
 equatorial guinea offer:赤道几内亚提供
 equatorial guinea or venezuela:赤道几内亚或委内瑞拉
@@ -543,88 +533,83 @@ equatorial guinea today:赤道几内亚今天
 equatorial guinea vice president:赤道几内亚副总统
 equatorial guinea weather:赤道几内亚天气
 equatorial guinea:chìdào jīnèiyà
+equatorial guinea:赤道几內亚
 equatorial guinea:赤道几内亚
-equatorial guinea:赤道几内亚 / 赤道幾內亞
-equatorial guinea:赤道幾內亞
-equatorial guinea:赤道畿內亞
+equatorial guinea:赤道几内亚 / 赤道几內亚
+equatorial guinea:赤道畿內亚
 equatorial guinéa:chìdào jīnèiyà
+equatorial guinéa:赤道几內亚
 equatorial guinéa:赤道几内亚
-equatorial guinéa:赤道几内亚 / 赤道幾內亞
-equatorial guinéa:赤道幾內亞
-equatorial guinéa:赤道畿內亞
+equatorial guinéa:赤道几内亚 / 赤道几內亚
+equatorial guinéa:赤道畿內亚
 equatorial layered deposits:赤道层状沉积物
 equatorial mount:赤道仪
 equatorial ridge:赤道脊
-equatorial ring:赤道環
+equatorial ring:赤道环
 equatorialginea:chìdào jīnèiyà
+equatorialginea:赤道几內亚
 equatorialginea:赤道几内亚
-equatorialginea:赤道幾內亞
-equatorialginea:赤道畿內亞
+equatorialginea:赤道畿內亚
 equatorialguinea:chìdào jīnèiyà
+equatorialguinea:赤道几內亚
 equatorialguinea:赤道几内亚
-equatorialguinea:赤道几内亚 / 赤道幾內亞
-equatorialguinea:赤道幾內亞
-equatorialguinea:赤道畿內亞
+equatorialguinea:赤道几内亚 / 赤道几內亚
+equatorialguinea:赤道畿內亚
 equatoriaol hunea:chìdào jīnèiyà
+equatoriaol hunea:赤道几內亚
 equatoriaol hunea:赤道几内亚
-equatoriaol hunea:赤道几内亚 / 赤道幾內亞
-equatoriaol hunea:赤道幾內亞
-equatoriaol hunea:赤道畿內亞
+equatoriaol hunea:赤道几内亚 / 赤道几內亚
+equatoriaol hunea:赤道畿內亚
 equatorioal-guinea:chìdào jīnèiyà
+equatorioal-guinea:赤道几內亚
 equatorioal-guinea:赤道几内亚
-equatorioal-guinea:赤道幾內亞
-equatorioal-guinea:赤道畿內亞
-equatorium:行星定位儀
-equestria daily:小馬利亞日報
+equatorioal-guinea:赤道畿內亚
+equatorium:行星定位仪
+equestria daily:小马利亚日报
 equestria:小马利亚
-equestrian events at the asian games:亞洲運動會馬術比賽
+equestrian events at the asian games:亚洲运动会马术比赛
 equestrian events at the summer olympics:夏季奥林匹克运动会马术比赛
 equestrian monument of cosimo i:科西莫一世骑马雕像
 equestrian portrait of charles v:查理五世骑马肖像
-equestrian statue of frederick the great:腓特烈大帝騎馬像
+equestrian statue of frederick the great:腓特烈大帝骑马像
 equestrian statue of gattamelata:加塔梅拉塔骑马雕像
 equestrian statue of genghis khan:成吉思汗旅游点
 equestrian statue of marshal mannerheim:曼纳海姆元帅骑马雕像
 equestrian statue of victor emanuele ii:维托里奥·埃马努埃莱二世骑马雕像
-equestrian statue:騎馬像
+equestrian statue:骑马像
 equestrian vaulting:马术体操
 equestrianism:马术
 equgu:峨曲古乡
-equiangular polygon:等角多邊形
+equiangular polygon:等角多边形
 equicontinuity:等度连续
 equidae:马科
 equidiagonal quadrilateral:等对角线四边形
-equidigital number:等數位數
-equijubus:馬鬃龍屬
+equidigital number:等数位数
+equijubus:马鬃龙属
 equilateral polygon:等边多边形
 equilateral triangle:正三角形
 equilenin:马萘雌酮
 equilibrium constant:平衡常数
 equilibrium level:平衡高度
 equilin:马烯雌酮
-equine assisted therapy:馬術治療
-equine coat color:馬匹毛色
-equine hospital:馬醫院
+equine assisted therapy:马术治疗
+equine coat color:马匹毛色
 equine hospital:马医院
-equine infectious anemia:馬傳染性貧血
-equine park:怡觀園
+equine infectious anemia:马传染性贫血
 equine park:怡观园
-equine protozoal myeloencephalitis:馬源蟲性腦脊髓炎
-equine swimming pool:馬泳池
+equine protozoal myeloencephalitis:马源虫性脑脊髓炎
 equine swimming pool:马泳池
-equinox minerals:春分礦物
-equinox year:分點年
-equinox:分點
-equinox:衡軒
+equinox minerals:春分矿物
+equinox year:分点年
+equinox:分点
+equinox:衡轩
 equinumerosity:等势
-equipa de intervenção communitário para jovens de seac pai van da associações dos jovens cristãos de macau:澳門基督教青年會石排灣社區青少年工作隊
-equipamentos cultural-conservatório no lote c3 na zona a (planejamento):c3 地段文化設施-演藝學院 (規劃中)
+equipa de intervenção communitário para jovens de seac pai van da associações dos jovens cristãos de macau:澳门基督教青年会石排湾社区青少年工作队
 equipamentos cultural-conservatório no lote c3 na zona a (planejamento):c3 地段文化设施-演艺学院 (规划中)
-equipamentos escolares no lote b2 na zona a (planejamento):b2 地段教育設施 (規劃中)
 equipamentos escolares no lote b2 na zona a (planejamento):b2 地段教育设施 (规划中)
-equipamentos escolares no lote c2 na zona a (planejamento):c2 地段教育設施 (規劃中)
-equipamentos escolares no lote c5 na zona a (planejamento):c5 地段教育設施 (規劃中)
-equipamentos escolares no lote c7 na zona a (planejamento):c7 地段教育設施 (規劃中)
+equipamentos escolares no lote c2 na zona a (planejamento):c2 地段教育设施 (规划中)
+equipamentos escolares no lote c5 na zona a (planejamento):c5 地段教育设施 (规划中)
+equipamentos escolares no lote c7 na zona a (planejamento):c7 地段教育设施 (规划中)
 equipartition theorem:能量均分定理
 equipment ability:设备能力
 equipment abnormal state:设备异常状态
@@ -666,7 +651,7 @@ equipment and airfield:设备和机场
 equipment and airport:设备和机场
 equipment and alternative energy platforms:设备和替代能源平台
 equipment and alternative energy:设备和替代能源
-equipment and analysis:設備和分析
+equipment and analysis:设备和分析
 equipment and application experts:设备和应用专家
 equipment and applications:设备和应用
 equipment and approximately:设备和大约
@@ -679,7 +664,7 @@ equipment and better hospital:设备和更好的医院
 equipment and beverage:设备和饮料
 equipment and biotechnology:设备和生物技术
 equipment and blueprint:设备和蓝图
-equipment and boat:設備和船
+equipment and boat:设备和船
 equipment and broadcast server:设备和广播服务器
 equipment and budget challenges:设备和预算挑战
 equipment and budget:设备和预算
@@ -708,14 +693,13 @@ equipment and computer software:设备和电脑软件
 equipment and computer-network:设备和计算机网络
 equipment and computers:设备和计算机
 equipment and conditions:设备和条件
-equipment and confident:設備和自信的
+equipment and confident:设备和自信的
 equipment and connection:设备和连接
 equipment and construction material:设备和建筑材料
 equipment and consumables:设备和消耗品
 equipment and container:设备和容器
 equipment and control systems:设备与控制系统
 equipment and control systems:设备和控制系统
-equipment and control:設備和控制
 equipment and control:设备和控制
 equipment and cost:设备和成本
 equipment and craft:设备和工艺
@@ -768,7 +752,7 @@ equipment and equipment:设备与设备
 equipment and equipment:设备和设备
 equipment and events:设备和事件
 equipment and execution:设备和执行
-equipment and experience:設備和經驗
+equipment and experience:设备和经验
 equipment and experienced workers:设备和经验丰富的工人
 equipment and experiment:设备和实验
 equipment and facilities:设备与设施
@@ -782,23 +766,19 @@ equipment and fiber:设备和纤维
 equipment and fight:设备和战斗
 equipment and financing:设备与融资
 equipment and food:设备和食物
-equipment and fuel:設備和燃料
 equipment and fuel:设备和燃料
 equipment and functions:设备和功能
-equipment and furniture:設備和家具
 equipment and furniture:设备和家具
 equipment and game:设备与游戏
 equipment and games:设备和游戏
 equipment and gas:设备和气体
 equipment and goods:设备和商品
-equipment and hardware:設備和硬件
 equipment and hardware:设备和硬件
 equipment and headphones:设备和耳机
 equipment and high precision:设备和高精度
 equipment and high-precision:设备和高精度
 equipment and high:设备和高
 equipment and hire more:设备和雇用更多
-equipment and home:設備和家
 equipment and home:设备和家
 equipment and hospital bed:设备和病床
 equipment and hospital elevator:设备和医院电梯
@@ -807,7 +787,6 @@ equipment and hospital:设备和医院
 equipment and how to:设备和如何
 equipment and human resources:设备和人力资源
 equipment and implant:设备和植入物
-equipment and important:設備和重要的
 equipment and important:设备和重要的
 equipment and improvements:设备和改进
 equipment and increase:设备和增加
@@ -821,7 +800,7 @@ equipment and installation costs:设备与安装成本
 equipment and installation services:设备和安装服务
 equipment and installation:设备与安装
 equipment and instruct:设备和指导
-equipment and insurance:設備和保險
+equipment and insurance:设备和保险
 equipment and intangible asset:设备和无形资产
 equipment and integrated circuit:设备和集成电路
 equipment and intellectual property:设备和知识产权
@@ -860,7 +839,6 @@ equipment and materials companies:设备和材料公司
 equipment and materials industry:设备和材料工业
 equipment and materials innovation:设备和材料创新
 equipment and materials manufacturers:设备与材料制造商
-equipment and materials:設備和材料
 equipment and materials:设备与材料
 equipment and materials:设备和材料
 equipment and measurement conditions:设备和测量条件
@@ -873,7 +851,6 @@ equipment and mixed reality marketing:设备与混合现实市场营销
 equipment and mobile device:设备和移动设备
 equipment and modern technologies:设备和现代技术
 equipment and module development:设备和模块开发
-equipment and more:設備和更多
 equipment and more:设备和更多
 equipment and musical instrument:设备和乐器
 equipment and my equipment:设备和我的设备
@@ -893,7 +870,7 @@ equipment and operating system:设备和操作系统
 equipment and operations:设备和操作
 equipment and option package:设备和选项包
 equipment and package:设备和包
-equipment and personal trainer:設備和私人教練
+equipment and personal trainer:设备和私人教练
 equipment and piping:设备和管道
 equipment and plastic:设备和塑料
 equipment and platforms:设备和平台
@@ -905,7 +882,6 @@ equipment and pressure:设备和压力
 equipment and price:设备和价格
 equipment and printing equipment:设备和印刷设备
 equipment and printing technology:设备和印刷技术
-equipment and procedure:設備和程序
 equipment and procedure:设备和程序
 equipment and process automation:设备和过程自动化
 equipment and process:设备和过程
@@ -939,10 +915,9 @@ equipment and quality improvement:设备和质量改进
 equipment and radar:设备和雷达
 equipment and radio spectrum:设备和无线电频谱
 equipment and radio:设备和无线电
-equipment and raw material:設備和原材料
 equipment and raw material:设备与原材料
 equipment and raw material:设备和原材料
-equipment and reasonable skills:設備和合理的技能
+equipment and reasonable skills:设备和合理的技能
 equipment and refrigerant:设备和制冷剂
 equipment and refrigerator compressor:设备和冰箱压缩机
 equipment and related manufacturing:设备和相关的制造业
@@ -989,7 +964,7 @@ equipment and services:设备与服务
 equipment and services:设备和服务
 equipment and set:设备和设置
 equipment and shelter:设备和庇护所
-equipment and skills:設備和技能
+equipment and skills:设备和技能
 equipment and smartphone manufacturer:设备和智能手机制造商
 equipment and smartphone:设备和智能手机
 equipment and so on:设备等等
@@ -1021,7 +996,7 @@ equipment and supply chain system:设备和供应链系统
 equipment and support services:设备和支持服务
 equipment and support:设备和支持
 equipment and surface:设备和表面
-equipment and swimming pool:設備和游泳池
+equipment and swimming pool:设备和游泳池
 equipment and system design:设备和系统设计
 equipment and system development:设备和系统开发
 equipment and system functions:设备与系统功能
@@ -1047,7 +1022,6 @@ equipment and technology exhibition:设备与技术展览
 equipment and technology key:设备和技术关键
 equipment and technology products:设备和技术产品
 equipment and technology solutions:设备和技术解决方案
-equipment and technology:設備和技术
 equipment and technology:设备与技术
 equipment and technology:设备和技术
 equipment and telecommunications services:设备和电信服务
@@ -1074,7 +1048,6 @@ equipment and travel:设备和旅行
 equipment and treatment:设备和治疗
 equipment and truck:设备和卡车
 equipment and two:设备和二
-equipment and uniform:設備和制服
 equipment and uniform:设备和制服
 equipment and unique solutions:设备和独特的解决方案
 equipment and users:设备和用户
@@ -1097,7 +1070,6 @@ equipment and welding management:设备和焊接管理
 equipment and welfare facilities:设备和福利设施
 equipment and windmill:设备和风车
 equipment and work space:设备和工作空间
-equipment and work:設備和工作
 equipment and work:设备和工作
 equipment and workers:设备和工人
 equipment and workforce:设备和劳动力
@@ -1111,15 +1083,13 @@ equipment apply:设备应用
 equipment approach:设备接近
 equipment area:设备领域
 equipment areas:设备领域
-equipment arrangement:設備安排
+equipment arrangement:设备安排
 equipment as well as construction:设备以及建筑
 equipment as well as further:设备以及进一步的
 equipment as well as user:设备以及用户
-equipment as well as:設備以及
 equipment as well as:设备以及
 equipment as well:设备也
 equipment asset line plan:设备资产线计划
-equipment asset:設備資產
 equipment asset:设备资产
 equipment assets:设备资产
 equipment assistant:设备助理
@@ -1146,22 +1116,17 @@ equipment be:设备成为
 equipment became:设备成为
 equipment because:设备因为
 equipment become:设备成为
-equipment bed:設備床
 equipment bed:设备床
 equipment before:设备之前
 equipment began:设备开始
 equipment behavior:设备行为
-equipment better:設備更好
+equipment better:设备更好
 equipment between:设备间
 equipment big data:设备大数据
-equipment brand:設備品牌
 equipment brand:设备品牌
-equipment brands:設備品牌
 equipment brands:设备品牌
-equipment budget:設備預算
 equipment budget:设备预算
 equipment business:设备生意
-equipment buy:設備買
 equipment buy:设备买
 equipment by:设备被
 equipment cable:设备电缆
@@ -1192,7 +1157,6 @@ equipment capability:设备能力
 equipment capacity and market:设备容量和市场
 equipment capacity and market:设备能力和市场
 equipment capacity planning:设备产能规划
-equipment capacity:設備能力
 equipment capacity:设备容量
 equipment capacity:设备能力
 equipment categories:设备分类
@@ -1200,7 +1164,6 @@ equipment cavity:设备腔
 equipment center:设备中心
 equipment centre:设备中心
 equipment certification and performance:设备认证和性能
-equipment certification:設備認證
 equipment certification:设备认证
 equipment chain:设备链条
 equipment challenges:设备挑战
@@ -1219,24 +1182,21 @@ equipment code:设备代码
 equipment come from:设备来自
 equipment come:设备来
 equipment companies and research institute:设备公司和研究机构
-equipment companies:設備公司
 equipment companies:设备企业
 equipment companies:设备公司
-equipment company:設備公司
 equipment company:设备公司
 equipment compatibility:设备兼容性
 equipment complete:设备完成
 equipment complex:设备复杂
 equipment components:设备组件
-equipment comprise:設備包括
+equipment comprise:设备包括
 equipment concepts:设备概念
 equipment condition:设备条件
 equipment conditions:设备条件
-equipment config:設備配置
+equipment config:设备配置
 equipment configuration and control:设备配置和控制
-equipment configuration:設備配置
 equipment configuration:设备配置
-equipment configure:設備配置
+equipment configure:设备配置
 equipment connect:设备连接
 equipment connection:设备连接
 equipment consider:设备考虑
@@ -1258,14 +1218,12 @@ equipment cooling:设备冷却
 equipment cordless telephone:设备无绳电话
 equipment core:设备核心
 equipment corporation was founded in:设备公司成立于
-equipment corporation:設備公司
 equipment corporation:设备公司
 equipment corrosion:设备腐蚀
 equipment cost and material:设备成本和材料
 equipment cost line:设备成本线
 equipment cost:设备成本
 equipment costs and consumption:设备成本和消费
-equipment costs:設備成本
 equipment costs:设备成本
 equipment could:设备能
 equipment council:设备委员会
@@ -1289,25 +1247,20 @@ equipment debugging:设备调试
 equipment decision:设备决定
 equipment decision:设备决策
 equipment decisions:设备决策
-equipment defect:設備缺陷
 equipment defect:设备缺陷
 equipment demand look:设备需求看
-equipment demand:設備需求
 equipment demand:设备需求
 equipment department:设备部门
 equipment deploy:设备部署
 equipment deployment:设备部署
-equipment depreciation:設備折舊
-equipment description:設備描述
+equipment depreciation:设备折旧
+equipment description:设备描述
 equipment design and production:设备设计和生产
 equipment design and work environment:设备设计和工作环境
 equipment design and work:设备设计和工作
 equipment design capacity:设备设计能力
-equipment design human nature:設備設計人性
 equipment design human nature:设备设计人性
-equipment design:設備設計
 equipment design:设备设计
-equipment designer:設備設計師
 equipment designer:设备设计师
 equipment detect:设备检测
 equipment develop:设备开发
@@ -1328,14 +1281,13 @@ equipment distance:设备距离
 equipment distribution:设备分布
 equipment do:设备做
 equipment domestic:设备国内的
-equipment donation:設備捐贈
+equipment donation:设备捐赠
 equipment door:设备门
 equipment downtime:设备停机时间
 equipment due to:设备由于
 equipment dust:设备尘
 equipment effect:设备作用
 equipment effectiveness:设备有效性
-equipment efficiency:設備效率
 equipment efficiency:设备效率
 equipment element:设备元素
 equipment elite:设备精英
@@ -1358,16 +1310,15 @@ equipment environmental protection equipment:设备环保设备
 equipment environmental protection:设备环保
 equipment etc:设备等等
 equipment europe:设备欧洲
-equipment evaluation:設備評估
+equipment evaluation:设备评估
 equipment even:设备甚至
 equipment eventually:设备最终
 equipment every year:设备每年
 equipment exhibit:设备展览
-equipment exhibition:設備展覽會
 equipment exhibition:设备展会
 equipment exhibition:设备展览
+equipment exhibition:设备展览会
 equipment exist:设备存在
-equipment experience:設備經驗
 equipment experience:设备体验
 equipment experience:设备经验
 equipment experienced diver:设备经验丰富的潜水员
@@ -1375,16 +1326,13 @@ equipment experienced:设备经验丰富的
 equipment experiment:设备实验
 equipment experts:设备专家
 equipment export council:设备出口委员会
-equipment export:設備出口
 equipment export:设备出口
 equipment exports have been restore:设备出口已经恢复
-equipment exports:設備出口
 equipment exports:设备出口
 equipment facilities:设备设施
 equipment facility management:设备设施管理
 equipment factories:设备工厂
 equipment factors:设备因素
-equipment factory:設備工廠
 equipment factory:设备工厂
 equipment failed:设备失败
 equipment failure:设备失败
@@ -1400,7 +1348,7 @@ equipment fire protection:设备防火
 equipment fire:设备火
 equipment fluid:设备流体
 equipment form:设备形式
-equipment format:設備格式
+equipment format:设备格式
 equipment frequency support range:设备频率支持范围
 equipment frequency support:设备频率支持
 equipment frequency:设备频率
@@ -1410,7 +1358,6 @@ equipment from their networks:设备从他们的网络
 equipment from:设备从
 equipment function:设备功能
 equipment functions:设备功能
-equipment fund:設備基金
 equipment fund:设备基金
 equipment gas:设备燃气
 equipment group:设备组
@@ -1459,14 +1406,11 @@ equipment incident:设备事故
 equipment include plant:设备包括植物
 equipment include six:设备包括六
 equipment include three:设备包括三
-equipment include:設備包括
 equipment include:设备包括
-equipment including:設備包括
 equipment including:设备包括
 equipment increase:设备增加
 equipment industry association:设备工业协会
 equipment industry:设备工业
-equipment information:設備信息
 equipment information:设备信息
 equipment informatization:设备信息化
 equipment infrastructure:设备基础设施
@@ -1483,7 +1427,6 @@ equipment installation space:设备安装空间
 equipment installation specification:设备安装规范
 equipment installation:设备安装
 equipment institute:设备研究所
-equipment instruction:設備指令
 equipment instruction:设备指令
 equipment insurance fee:设备保险费用
 equipment insurance:设备保险
@@ -1515,7 +1458,6 @@ equipment issue:设备问题
 equipment issues:设备问题
 equipment johnson:设备约翰逊
 equipment just like:设备就像
-equipment just:設備只
 equipment just:设备只
 equipment key:设备关键
 equipment knowledge:设备知识
@@ -1529,7 +1471,6 @@ equipment license:设备许可证
 equipment life:设备生命
 equipment light source:设备光源
 equipment light:设备光
-equipment limit:設備限制
 equipment limit:设备限制
 equipment limited company:设备有限公司
 equipment line of internet:设备线的互联网
@@ -1539,7 +1480,6 @@ equipment load:设备加载
 equipment location:设备位置
 equipment lock:设备锁
 equipment log:设备日志
-equipment logistics:設備物流
 equipment logistics:设备物流
 equipment long-term:设备长期
 equipment longevity:设备寿命
@@ -1548,9 +1488,8 @@ equipment loss:设备损失
 equipment machine:设备机器
 equipment made:设备制成
 equipment maintain:设备维护
-equipment maintenance:設備維護
+equipment maintenance:设备维护
 equipment make:设备制造
-equipment malfunction:設備故障
 equipment malfunction:设备故障
 equipment management achievement:设备管理成就
 equipment management and application:设备管理和应用
@@ -1566,7 +1505,6 @@ equipment management should do:设备管理应该做
 equipment management solutions:设备管理解决方案
 equipment management standards:设备管理标准
 equipment management system:设备管理系统
-equipment management:設備管理
 equipment management:设备管理
 equipment manager:设备经理
 equipment manual:设备手册
@@ -1576,7 +1514,6 @@ equipment manufacturer image:设备制造商图像
 equipment manufacturer market:设备制造商市场
 equipment manufacturer partners:设备制造商合作伙伴
 equipment manufacturer will produce:设备制造商会生产
-equipment manufacturer:設備制造商
 equipment manufacturer:设备制造商
 equipment manufacturers and allow them:设备制造商和允许他们
 equipment manufacturers and analysts:设备制造商和分析师
@@ -1615,7 +1552,6 @@ equipment manufacturers will not:设备制造商将不是
 equipment manufacturers will share:设备制造商将分享
 equipment manufacturers will think:设备制造商会认为
 equipment manufacturers will:设备制造商会
-equipment manufacturers:設備制造商
 equipment manufacturers:设备制造商
 equipment manufacturing:设备制造业
 equipment market analyst:设备市场分析师
@@ -1631,7 +1567,6 @@ equipment market will reach:设备市场将达到
 equipment market:设备市场
 equipment markets:设备市场
 equipment material selection requirements:设备材料选择要求
-equipment material:設備材料
 equipment material:设备材料
 equipment materials and water:设备材料和水
 equipment materials:设备材料
@@ -1644,15 +1579,13 @@ equipment mode:设备模式
 equipment model:设备模型
 equipment modernization:设备现代化
 equipment module:设备模块
-equipment monitoring:設備監測
+equipment monitoring:设备监测
 equipment move:设备移动
 equipment museum:设备博物馆
 equipment must have reliable:设备必须有可靠的
 equipment must provide:设备必须提供
 equipment name:设备名称
-equipment need:設備需要
 equipment need:设备需要
-equipment needs:設備需要
 equipment needs:设备需要
 equipment network:设备网络
 equipment networks:设备网络
@@ -1675,7 +1608,6 @@ equipment only:设备只有
 equipment operating system:设备操作系统
 equipment operation safety knowledge:设备操作安全知识
 equipment operation:设备操作
-equipment operations:設備操作
 equipment operations:设备操作
 equipment operator:设备操作员
 equipment optimization development:设备优化发展
@@ -1687,7 +1619,7 @@ equipment or automation:设备或自动化
 equipment or construction fee:设备或建筑费用
 equipment or construction material:设备或建筑材料
 equipment or construction:设备或建筑
-equipment or core:設備或核心
+equipment or core:设备或核心
 equipment or cost:设备或成本
 equipment or data center:设备或数据中心
 equipment or devices:设备或设备
@@ -1717,7 +1649,7 @@ equipment or production line:设备或生产线
 equipment or products:设备或产品
 equipment or providing services:设备或提供服务
 equipment or quit:设备或退出
-equipment or raw material:設備或原材料
+equipment or raw material:设备或原材料
 equipment or server:设备或服务器
 equipment or services:设备或服务
 equipment or signal:设备或信号
@@ -1729,7 +1661,6 @@ equipment or structure:设备或结构
 equipment or substance:设备或物质
 equipment or switch door:设备或开关门
 equipment or system results:设备或系统结果
-equipment or system:設備或系統
 equipment or system:设备或系统
 equipment or systems:设备或系统
 equipment or telecommunications:设备或电信
@@ -1746,7 +1677,6 @@ equipment origin:设备起源
 equipment our:设备我们的
 equipment output:设备输出
 equipment ownership:设备所有权
-equipment package:設備包
 equipment package:设备包
 equipment page:设备页
 equipment panel:设备面板
@@ -1761,19 +1691,16 @@ equipment perform:设备执行
 equipment performance and availability:设备性能和可用性
 equipment performance and predictive maintenance:设备性能和预测性维护
 equipment performance and process:设备性能和过程
-equipment performance and reliability:設備性能和可靠性
 equipment performance and reliability:设备性能和可靠性
 equipment performance and vendor:设备性能和供应商
 equipment performance data:设备性能数据
 equipment performance problem:设备性能问题
 equipment performance requirements:设备性能要求
-equipment performance:設備性能
 equipment performance:设备性能
 equipment plan:设备计划
 equipment plans:设备计划
 equipment platform:设备平台
 equipment plus:设备加
-equipment pollution:設備污染
 equipment pollution:设备污染
 equipment position:设备位置
 equipment prepare:设备准备
@@ -1786,7 +1713,6 @@ equipment problem:设备问题
 equipment problems prevent:设备问题阻止
 equipment problems with nuclear reactor:设备问题与核反应堆
 equipment problems:设备问题
-equipment procedure:設備程序
 equipment procedure:设备程序
 equipment process:设备处理
 equipment process:设备过程
@@ -1815,10 +1741,8 @@ equipment protect:设备保护
 equipment protection policy:设备保护政策
 equipment protection standards:设备保护标准
 equipment protection:设备保护
-equipment provide:設備提供
 equipment provide:设备供应
 equipment provide:设备提供
-equipment provides:設備提供
 equipment provides:设备提供
 equipment providing:设备提供
 equipment proxy companies:设备代理公司
@@ -1828,7 +1752,7 @@ equipment purchase framework agreement:设备购买框架协议
 equipment purchase order:设备采购订单
 equipment purchase prices:设备购买价格
 equipment purchase:设备购买
-equipment purchasing:設備採購
+equipment purchasing:设备採购
 equipment quality and level:设备质量和水平
 equipment quality and reliability:设备质量与可靠性
 equipment quality:设备质量
@@ -1853,7 +1777,6 @@ equipment reliability and production:设备可靠性和生产
 equipment reliability and safety:设备可靠性和安全
 equipment reliability project:设备可靠性项目
 equipment reliability study:设备可靠性研究
-equipment reliability:設備可靠性
 equipment reliability:设备可靠性
 equipment repair company:设备维修公司
 equipment repair services:设备维修服务
@@ -1864,12 +1787,9 @@ equipment representation:设备表示
 equipment request:设备请求
 equipment require:设备要求
 equipment require:设备需要
-equipment requirement:設備需求
 equipment requirement:设备需求
 equipment requirements and expensive:设备要求和昂贵的
 equipment requirements and test:设备需求与测试
-equipment requirements:設備要求
-equipment requirements:設備需求
 equipment requirements:设备要求
 equipment requirements:设备需求
 equipment research manager:设备研究经理
@@ -1897,20 +1817,18 @@ equipment safety incident:设备安全事故
 equipment safety issues:设备安全问题
 equipment safety requirements:设备安全要求
 equipment safety standards:设备安全标准
-equipment safety:設備安全
 equipment safety:设备安全
 equipment sales will create:设备销售将创造
 equipment sales:设备销售
-equipment salesman:設備推銷員
+equipment salesman:设备推销员
 equipment sample or description:设备样品或描述
 equipment sample:设备样品
 equipment save:设备保存
-equipment saved:設備拯救了
+equipment saved:设备拯救了
 equipment saw:设备锯
 equipment scatter:设备分散
 equipment scope:设备范围
 equipment search:设备搜索
-equipment security:設備安全
 equipment security:设备安全
 equipment selection phase:设备选择阶段
 equipment selection:设备选择
@@ -1963,13 +1881,11 @@ equipment steel:设备钢
 equipment still:设备仍然
 equipment stock:设备股票
 equipment stop:设备停止
-equipment store:設備商店
 equipment store:设备商店
 equipment structure:设备结构
 equipment sub:设备子
 equipment such as:设备例如
 equipment suddenly stop:设备突然停止
-equipment suddenly:設備突然
 equipment suddenly:设备突然
 equipment suit:设备适合
 equipment supply chain:设备供应链
@@ -1979,7 +1895,6 @@ equipment support:设备支持
 equipment surface:设备表面
 equipment synchronization:设备同步
 equipment system design:设备系统设计
-equipment system:設備系統
 equipment system:设备系统
 equipment systems research laboratory:设备系统研究实验室
 equipment systems:设备系统
@@ -2010,7 +1925,7 @@ equipment through:设备通过
 equipment tire:设备轮胎
 equipment to auto:设备到自动
 equipment to consumer devices:设备到消费者设备
-equipment to crew:設備到船員
+equipment to crew:设备到船员
 equipment to data analysis:设备到数据分析
 equipment to family training:设备到家庭培训
 equipment to global satellite:设备到全球卫星
@@ -2022,7 +1937,6 @@ equipment to shipbuilding:设备到造船
 equipment to structure:设备到结构
 equipment together:设备一起
 equipment too:设备也
-equipment tools:設備工具
 equipment tools:设备工具
 equipment toy:设备玩具
 equipment trade:设备贸易
@@ -2047,24 +1961,20 @@ equipment update:设备更新
 equipment updates:设备更新
 equipment upgrade costs:设备升级成本
 equipment upgrade package:设备升级包
-equipment upgrade:設備升級
 equipment upgrade:设备升级
 equipment usa:设备美国
 equipment use salt pump:设备使用盐泵
-equipment use:設備使用
 equipment use:设备使用
 equipment user:设备用户
 equipment users:设备用户
 equipment uses:设备使用
 equipment using propane:设备使用丙烷
 equipment using:设备使用
-equipment usually:設備通常
 equipment usually:设备通常
-equipment utilize:設備利用
+equipment utilize:设备利用
 equipment vehicle:设备车辆
 equipment vendor or dealer:设备供应商或经销商
 equipment vendor:设备供应商
-equipment version:設備版本
 equipment version:设备版本
 equipment vibration analysis:设备振动分析
 equipment vibration:设备振动
@@ -2074,7 +1984,6 @@ equipment was a problem:设备是一个问题
 equipment was safe:设备是安全的
 equipment we:设备我们
 equipment weight:设备重量
-equipment welder:設備焊工
 equipment welder:设备焊工
 equipment welding:设备焊接
 equipment why:设备为何
@@ -2091,25 +2000,23 @@ equipment with their own:设备与他们自己的
 equipment within:设备内
 equipment without:设备没有
 equipment work noise:设备工作噪音
-equipment work:設備工作
 equipment work:设备工作
 equipment worker:设备工人
 equipment workers:设备工人
 equipment would:设备将
 equipment you need:设备你需要
 equipment you:设备你
-equipment:設備
 equipment:设备
 equipotential space offer:等位空间提供
 equipotential space:等位空间
 equipotential:等位
 equisetaceae:木贼科
 equisetales:木贼目
-equisetites:似木賊屬
+equisetites:似木贼属
 equisetopsida:木贼亚纲
 equisetum arvense:问荆
 equisetum diffusum:披散木贼
-equisetum fluviatile:溪木賊
+equisetum fluviatile:溪木贼
 equisetum hyemale:木贼
 equisetum palustre:犬问荆
 equisetum pratense:草问荆
@@ -2118,11 +2025,11 @@ equisetum sylvaticum:林木贼
 equisetum variegatum:斑纹木贼
 equisetum:木贼属
 equitable servitude:地役权
-equites:羅馬騎士階級
+equites:罗马骑士阶级
 equiti:埃基蒂州
 equity carve out:股票分拆上市
 equity derivative:股本衍生工具
-equity linked note:資產掛鉤票據
+equity linked note:资产掛鉤票据
 equity premium puzzle:股权溢价之谜
 equity theory:公平理论
 equivalence before:等价之前
@@ -2135,7 +2042,7 @@ equivalence of categories if and only if:范畴的等价当且仅当
 equivalence of categories:范畴的等价
 equivalence operator:等价算子
 equivalence or safety:等价或安全
-equivalence point:當量點
+equivalence point:当量点
 equivalence principle no longer:等效原理不再
 equivalence principle require:等效原理要求
 equivalence principle test:等效原理测试
@@ -2147,36 +2054,35 @@ equivalence protocol:等价协议
 equivalence relation:等价关系
 equivalence rules:等价规则
 equivalence:等价
-equivalent circuit analysis function:等效電路分析功能
-equivalent circuit analysis:等效電路分析
-equivalent circuit model for li ion cells:鋰離子電池等效電路模型
-equivalent circuit:等效電路
-equivalent concentration:當量濃度
-equivalent dose:等效劑量
+equivalent circuit analysis function:等效电路分析功能
+equivalent circuit analysis:等效电路分析
+equivalent circuit model for li ion cells:鋰离子电池等效电路模型
+equivalent circuit:等效电路
+equivalent concentration:当量浓度
+equivalent dose:等效剂量
 equivalent isotropically radiated power:等效全向辐射功率
-equivalent potential temperature:相當位溫
-equivalent radius:等效半徑
+equivalent potential temperature:相当位温
+equivalent radius:等效半径
 equivalent rectangular bandwidth:等效矩形带宽
-equivalent series inductance:等效串聯電感
+equivalent series inductance:等效串联电感
 equivalent series resistance:等效串联电阻
-equivalent spherical diameter:等效球直徑
+equivalent spherical diameter:等效球直径
 equivalent teeth shrew mole:等齿鼩鼹
-equivalent temperature:相當溫度
-equivalent width:等效寬度
+equivalent temperature:相当温度
+equivalent width:等效宽度
 equivalently:相等地
 equivariant map:等变映射
 equivocation:语义双关
 equol producer:雌马酚生产者
 equol:雌马酚
 equuleus:小马座
-equulites elongatus:長身馬鰏
+equulites elongatus:长身马鰏
 equulites popei:波氏马鲾
-equulites:馬鰏屬
+equulites:马鰏属
 equus albus:怀特霍斯
-equus albus:白馬
+equus albus:白马
 equus giganteus:庞马
 equus ovodovi:奥氏马
 eqüator:厄瓜多
 eqüator:厄瓜多尔
 eqüator:厄瓜多尔 / 厄瓜多
-eqüator:厄瓜多爾

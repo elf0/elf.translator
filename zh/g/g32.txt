@@ -1,13 +1,11 @@
 g20 expressway entrance crossing:高速路口
-g2000 warehouse building:縱橫二千貨倉大廈
+g2000 warehouse building:纵横二千货仓大厦
 g207 hankou-danjiangkou railway overpass:207国道跨汉丹铁路特大桥
 g207 hankou-shiyan expressway overpass:207国道汉十高速跨线桥
 g207 jiaozuo-liuzhou railway overpass:207国道跨焦柳铁路桥
 g207 xiangzhou-yicheng bypass:207国道襄阳段改线
 g213 jinsha river bridge:南岸金沙江大桥
-g214 new tongtian river bridge:西麗高速
+g214 new tongtian river bridge:西丽高速
 g22 qingdao–lanzhou expressway:青兰高速
-g22 qingdao–lanzhou expressway:青蘭高速
-g2511 xinmin–lubei expressway:新魯高速
-g2512 fujin expressway:阜錦高速
+g2511 xinmin–lubei expressway:新鲁高速
 g2512 fujin expressway:阜锦高速
